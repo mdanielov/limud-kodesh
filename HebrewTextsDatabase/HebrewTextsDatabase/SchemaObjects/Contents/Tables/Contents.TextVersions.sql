@@ -1,6 +1,6 @@
-﻿CREATE TABLE [Contents].[TextVersions]
+﻿CREATE TABLE [Contents].[TextVersionSources]
 (
-	[VersionID] INT NOT NULL PRIMARY KEY IDENTITY (1,1), 
+	[VersionSourceID] INT NOT NULL PRIMARY KEY IDENTITY (1,1), 
     [Name] NVARCHAR(50) NULL, 
     [Description] NVARCHAR(MAX) NULL, 
     [Comments] NVARCHAR(MAX) NULL, 
@@ -14,7 +14,7 @@ EXEC sp_addextendedproperty @name = N'MS_Description',
     @level0type = N'SCHEMA',
     @level0name = N'Contents',
     @level1type = N'TABLE',
-    @level1name = N'TextVersions',
+    @level1name = N'TextVersionSources',
     @level2type = N'COLUMN',
     @level2name = N'BookPublishing'
 GO
@@ -23,6 +23,6 @@ EXEC sp_addextendedproperty @name = N'MS_Description',
     @level0type = N'SCHEMA',
     @level0name = N'Contents',
     @level1type = N'TABLE',
-    @level1name = N'TextVersions',
+    @level1name = N'TextVersionSources',
     @level2type = N'COLUMN',
     @level2name = N'Name'

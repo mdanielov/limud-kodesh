@@ -455,4 +455,32 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="[IX_TalmudBavliRawImport_KeyWordIndex]" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="be104397-2946-484c-9719-9f7ac48292bb" ChangeDateTime="07/15/2019 16:18:19">
+    <Property Name="ElementName" Value="[Contents].[TextVersions]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="ParentElementName" Value="[Contents]" />
+    <Property Name="ParentElementType" Value="SqlSchema" />
+    <Property Name="NewName" Value="[TextVersionSources]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8e6ec8a2-5e61-4ca8-b61b-3daa66f7e05f" ChangeDateTime="07/15/2019 16:19:04">
+    <Property Name="ElementName" Value="[Contents].[TextVersionSources].[VersionID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Contents].[TextVersionSources]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[VersionSourceID]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4948b5a1-88eb-4268-b62a-27dcb0eeabe3" ChangeDateTime="07/15/2019 16:19:28">
+    <Property Name="ElementName" Value="[Contents].[ContentOtherVersions].[VersionID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Contents].[ContentOtherVersions]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[VersionSourceID]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7c5bd422-806f-4c47-8a37-36b9427ef841" ChangeDateTime="07/15/2019 16:20:18">
+    <Property Name="ElementName" Value="[Contents].[MainContent].[VersionID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Contents].[MainContent]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[VersionSourceID]" />
+  </Operation>
 </Operations>

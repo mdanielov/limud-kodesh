@@ -7,12 +7,12 @@
 	[SequenceNumberByRootGroup] int NULL,
 	[Content] NVARCHAR(255) NOT NULL, 
     [LargeContent] NVARCHAR(MAX) NULL, 
-    [VersionID] INT NULL, 
+    [VersionSourceID] INT NULL, 
     [NextContentID] INT NULL, 
 	[KeyWordIndex] NVARCHAR(50) NULL,
     CONSTRAINT [PK_Content] PRIMARY KEY ([MainContentID]), 
     CONSTRAINT [FK_Content_ToContentGroups] FOREIGN KEY ([GroupID]) REFERENCES [Contents].[ContentGroups]([GroupID]) ON UPDATE CASCADE, 
-    CONSTRAINT [FK_Content_ToVersions] FOREIGN KEY (VersionID) REFERENCES Contents.[TextVersions]([VersionID]) ON UPDATE CASCADE
+    CONSTRAINT [FK_Content_ToVersions] FOREIGN KEY ([VersionSourceID]) REFERENCES Contents.[TextVersionSources]([VersionSourceID]) ON UPDATE CASCADE
 )
 
 GO
@@ -59,7 +59,7 @@ EXEC sp_addextendedproperty @name = N'MS_Description',
     @level1type = N'TABLE',
     @level1name = N'MainContent',
     @level2type = N'COLUMN',
-    @level2name = N'VersionID'
+    @level2name = N'VersionSourceID'
 GO
 EXEC sp_addextendedproperty @name = N'MS_Description',
     @value = N'מזהה הקבוצה השורשית ביותר שאליה משוייך טקסט זה באופן ישיר כלומר הגרופ הכי גבוה שיש ביחס לעץ הגרופים לדוגמא בפסוקים מדובר בתנך',

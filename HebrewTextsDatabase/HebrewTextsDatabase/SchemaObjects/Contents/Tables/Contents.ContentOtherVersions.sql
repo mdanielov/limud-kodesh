@@ -2,7 +2,7 @@
 (
 	[ID] INT NOT NULL PRIMARY KEY IDENTITY (1,1), 
     [MainContentID] BIGINT NOT NULL, 
-    [VersionID] INT NOT NULL, 
+    [VersionSourceID] INT NOT NULL, 
     [VersionOperation] NVARCHAR(10) NOT NULL, 
     [SequenceNumber] INT NOT NULL, 
     [Content] NVARCHAR(MAX) NULL, 
@@ -48,7 +48,7 @@ EXEC sp_addextendedproperty @name = N'MS_Description',
     @level1type = N'TABLE',
     @level1name = N'ContentOtherVersions',
     @level2type = N'COLUMN',
-    @level2name = N'VersionID'
+    @level2name = N'VersionSourceID'
 GO
 EXEC sp_addextendedproperty @name = N'MS_Description',
     @value = N'פעולת הגירסה יש חמישה פעולות אפשריות ראה באילוץ שנכתב לשם כך יש שם גם תיעוד',
