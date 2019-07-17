@@ -1,10 +1,10 @@
 var fs = require('fs')
 
 
-fs.readdir('./all_tanach_in_text', (err, dataTxt) => {
+fs.readdir('./all_tanach_in_json', (err, dataTxt) => {
     if (err) throw err;
     for (var txt in dataTxt) {
-        var data = fs.readFileSync(`./all_tanach_in_text/${dataTxt[txt]}`)
+        var data = fs.readFileSync(`./all_tanach_in_json/${dataTxt[txt]}`)
 
         var newdata = JSON.parse(data)
 
@@ -32,6 +32,7 @@ fs.readdir('./all_tanach_in_text', (err, dataTxt) => {
                         var numberLineChapter= result[i][a][e].length -1
                         result2.push(result[i][a][e][z].split(','))
                         var sentence = result[i][a][e][z].split(' ');
+                        
 
                         for (var w in sentence) {
                             if (z == 0 && w == 0) {
@@ -42,18 +43,24 @@ fs.readdir('./all_tanach_in_text', (err, dataTxt) => {
                                 continue
                             }
                             else{
-                                if(sentence[w] == '(פ)'){
-                                    stmt += `<Word Book='${file_no_extension}' Chapter='${1 + parseInt(e)}' Verse='${parseInt(z) + 1}' WordSequence='${parseInt(w) + 1}' IsParashaPtuchah='true'>${sentence[w]}</Word>${'\n\r'}`
+                                if (sentence[w] == '(פ)' || sentence[w] == '(ס)') {
                                     continue
                                 }
-                                stmt += `<Word Book='${file_no_extension}' Chapter='${1 + parseInt(e)}' Verse='${parseInt(z) + 1}' WordSequence='${parseInt(w) + 1}'>${sentence[w]}</Word>${'\n\r'}`
+                                if (w == sentence.indexOf('(פ)') - 1) {
+                                    stmt += `<Word Book='${file_no_extension}' Chapter='${1 + parseInt(e)}' Verse='${parseInt(z) + 1}' WordSequence='${parseInt(w) + 1}' IsParashaPtuchah='true' >${sentence[w]}</Word>${'\n\r'}`
+                                    continue
+                                }
+                                stmt += `<Word Book='${file_no_extension}' Chapter='${1 + parseInt(e)}' Verse='${parseInt(z) + 1}' WordSequence='${parseInt(w) + 1}' >${sentence[w]}</Word>${'\n\r'}`
 
                             }                            
 
                         }
                     }
-                    if(sentence[w] == '(פ)'){
-                        stmt += `<Word Book='${file_no_extension}' EndPerekAfterWord='true' Chapter='${Number(e) + 1}' Verse='${Number(z) + 1}' WordSequence='${sentence.length}' IsParashaPtuchah='true'>${sentence[w]}</Word>${'\n\r'}`
+                    if (sentence[w] == '(פ)' || sentence[w] == '(ס)') {
+                        continue
+                    }
+                    if (w == sentence.indexOf('(פ)') - 1) {
+                        stmt += `<Word Book='${file_no_extension}' EndPerekAfterWord='true' Chapter='${Number(e) + 1}' Verse='${Number(z) + 1}' WordSequence='${sentence.length}' IsParashaPtuchah='true' >${sentence[w]}</Word>${'\n\r'}`
                         continue
                     }
                     stmt += `<Word Book='${file_no_extension}' EndPerekAfterWord='true' Chapter='${Number(e) + 1}' Verse='${Number(z) + 1}' WordSequence='${sentence.length}'>${sentence[w]}</Word>${'\n\r'}`
