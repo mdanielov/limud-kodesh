@@ -26,16 +26,14 @@ fs.readdir('./all_tanach_in_text', (err, dataTxt) => {
             for (var a in result[i]) {
 
                 for (var e in result[i][a]) {
+
                     for (var z in result[i][a][e]) {
+
                         var numberLineChapter= result[i][a][e].length -1
                         result2.push(result[i][a][e][z].split(','))
                         var sentence = result[i][a][e][z].split(' ');
+
                         for (var w in sentence) {
-                            for( var l in sentence[w]){
-                                if(sentence[w][l] == '-'){
-                                    
-                                }
-                            }
                             if (z == 0 && w == 0) {
                                 stmt += `<Word Book='${file_no_extension}' StartPerekBeforeWord='true' Chapter='${1 + parseInt(e)}' Verse='${parseInt(z) + 1}' WordSequence='${parseInt(w) + 1}'>${sentence[w]}</Word>${'\n\r'}`
                                 continue
@@ -69,9 +67,9 @@ fs.readdir('./all_tanach_in_text', (err, dataTxt) => {
         var FinalStatement = `<Tanakh>${'\n\r'}${stmt}</Tanakh>`
         var file = dataTxt[txt].replace(/\.[^\.]+$/, '.xml');
 
-        // fs.writeFile(`./Tanach-xml/${file}`, FinalStatement, (err) => {
-        //     if (err) throw err
-        // })
+        fs.writeFile(`./Tanach-xml/${file}`, FinalStatement, (err) => {
+            if (err) throw err
+        })
     }
 });
 
