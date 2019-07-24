@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיִּתְחַזֵּ֛ק</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיִּתְחַזֵּ֛ק</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='1' WordSequence='2' >שְׁלֹמֹ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='1' WordSequence='3' >בֶן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='1' WordSequence='4' >דָּוִ֖יד</Word>
@@ -145,8 +145,8 @@
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='10' WordSequence='14' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='10' WordSequence='15' >עַמְּךָ֥</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='10' WordSequence='16' >הַזֶּ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='1' Verse='10' WordSequence='17' >הַגָּדֽוֹל</Word>
-<Word Book='DivreiHaYamimB' Chapter='1' Verse='11' WordSequence='1' >וַיֹּ֣אמֶר־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='1' Verse='10' WordSequence='17' >הַגָּדֽוֹל</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='1' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר־</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='11' WordSequence='2' >אֱלֹהִ֣ים׀</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='11' WordSequence='3' >לִשְׁלֹמֹ֡ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='11' WordSequence='4' >יַ֣עַן</Word>
@@ -210,8 +210,8 @@
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='13' WordSequence='9' >מוֹעֵ֑ד</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='13' WordSequence='10' >וַיִּמְלֹ֖ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='13' WordSequence='11' >עַל־</Word>
-<Word Book='DivreiHaYamimB' Chapter='1' Verse='13' WordSequence='12' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='DivreiHaYamimB' Chapter='1' Verse='14' WordSequence='1' >וַיֶּאֱסֹ֣ף</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='1' Verse='13' WordSequence='12'>יִשְׂרָאֵֽל</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='1' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיֶּאֱסֹ֣ף</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='14' WordSequence='2' >שְׁלֹמֹה֮</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='14' WordSequence='3' >רֶ֣כֶב</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='14' WordSequence='4' >וּפָרָשִׁים֒</Word>
@@ -282,8 +282,8 @@
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='18' WordSequence='5' >לְשֵׁ֣ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='18' WordSequence='6' >יְהוָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='1' Verse='18' WordSequence='7' >וּבַ֖יִת</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='1' Verse='18' WordSequence='8' >לְמַלְכוּתֽוֹ</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיִּסְפֹּ֨ר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='1' Verse='18' WordSequence='8'>לְמַלְכוּתֽוֹ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיִּסְפֹּ֨ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='1' WordSequence='2' >שְׁלֹמֹ֜ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='1' WordSequence='3' >שִׁבְעִ֥ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='1' WordSequence='4' >אֶ֙לֶף֙</Word>
@@ -299,8 +299,8 @@
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='1' WordSequence='14' >שְׁלֹ֥שֶׁת</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='1' WordSequence='15' >אֲלָפִ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='1' WordSequence='16' >וְשֵׁ֥שׁ</Word>
-<Word Book='DivreiHaYamimB' Chapter='2' Verse='1' WordSequence='17' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='2' Verse='2' WordSequence='1' >וַיִּשְׁלַ֣ח</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='2' Verse='1' WordSequence='17'>מֵאֽוֹת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='2' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֣ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='2' WordSequence='2' >שְׁלֹמֹ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='2' WordSequence='3' >אֶל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='2' WordSequence='4' >חוּרָ֥ם</Word>
@@ -458,8 +458,8 @@
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='9' WordSequence='20' >וְשֶׁ֕מֶן</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='9' WordSequence='21' >בַּתִּ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='9' WordSequence='22' >עֶשְׂרִ֥ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='2' Verse='9' WordSequence='23' IsParashaPtuchah='true' >אָֽלֶף</Word>
-<Word Book='DivreiHaYamimB' Chapter='2' Verse='10' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='2' Verse='9' WordSequence='23'>אָֽלֶף</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='2' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='10' WordSequence='2' >חוּרָ֤ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='10' WordSequence='3' >מֶֽלֶךְ־</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='10' WordSequence='4' >צֹר֙</Word>
@@ -570,8 +570,8 @@
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='15' WordSequence='14' >וְאַתָּ֛ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='15' WordSequence='15' >תַּעֲלֶ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='15' WordSequence='16' >אֹתָ֖ם</Word>
-<Word Book='DivreiHaYamimB' Chapter='2' Verse='15' WordSequence='17' IsParashaPtuchah='true' >יְרוּשָׁלִָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='2' Verse='16' WordSequence='1' >וַיִּסְפֹּ֣ר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='2' Verse='15' WordSequence='17'>יְרוּשָׁלִָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='2' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיִּסְפֹּ֣ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='16' WordSequence='2' >שְׁלֹמֹ֗ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='16' WordSequence='3' >כָּל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='16' WordSequence='4' >הָאֲנָשִׁ֤ים</Word>
@@ -609,8 +609,8 @@
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='17' WordSequence='14' >מְנַצְּחִ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='17' WordSequence='15' >לְהַעֲבִ֥יד</Word>
 <Word Book='DivreiHaYamimB' Chapter='2' Verse='17' WordSequence='16' >אֶת־</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='2' Verse='17' WordSequence='17' >הָעָֽם</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיָּ֣חֶל</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='2' Verse='17' WordSequence='17'>הָעָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיָּ֣חֶל</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='1' WordSequence='2' >שְׁלֹמֹ֗ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='1' WordSequence='3' >לִבְנ֤וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -705,8 +705,8 @@
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='7' WordSequence='9' >וּפִתַּ֥ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='7' WordSequence='10' >כְּרוּבִ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='7' WordSequence='11' >עַל־</Word>
-<Word Book='DivreiHaYamimB' Chapter='3' Verse='7' WordSequence='12' >הַקִּירֽוֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='3' Verse='8' WordSequence='1' >וַיַּ֙עַשׂ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='3' Verse='7' WordSequence='12' >הַקִּירֽוֹת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='3' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֙עַשׂ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='8' WordSequence='2' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='8' WordSequence='3' >בֵּֽית־</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='8' WordSequence='4' >קֹ֣דֶשׁ</Word>
@@ -793,8 +793,8 @@
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='13' WordSequence='9' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='13' WordSequence='10' >רַגְלֵיהֶ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='13' WordSequence='11' >וּפְנֵיהֶ֥ם</Word>
-<Word Book='DivreiHaYamimB' Chapter='3' Verse='13' WordSequence='12' >לַבָּֽיִת</Word>
-<Word Book='DivreiHaYamimB' Chapter='3' Verse='14' WordSequence='1' >וַיַּ֙עַשׂ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='3' Verse='13' WordSequence='12' >לַבָּֽיִת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='3' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֙עַשׂ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='14' WordSequence='2' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='14' WordSequence='3' >הַפָּרֹ֔כֶת</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='14' WordSequence='4' >תְּכֵ֥לֶת</Word>
@@ -803,8 +803,8 @@
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='14' WordSequence='7' >וּב֑וּץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='14' WordSequence='8' >וַיַּ֥עַל</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='14' WordSequence='9' >עָלָ֖יו</Word>
-<Word Book='DivreiHaYamimB' Chapter='3' Verse='14' WordSequence='10' >כְּרוּבִֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='3' Verse='15' WordSequence='1' >וַיַּ֜עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='3' Verse='14' WordSequence='10' >כְּרוּבִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='3' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֜עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='15' WordSequence='2' >לִפְנֵ֤י</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='15' WordSequence='3' >הַבַּ֙יִת֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='15' WordSequence='4' >עַמּוּדִ֣ים</Word>
@@ -818,8 +818,8 @@
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='15' WordSequence='12' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='15' WordSequence='13' >רֹאשׁ֖וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='15' WordSequence='14' >אַמּ֥וֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='3' Verse='15' WordSequence='15' >חָמֵֽשׁ</Word>
-<Word Book='DivreiHaYamimB' Chapter='3' Verse='16' WordSequence='1' >וַיַּ֤עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='3' Verse='15' WordSequence='15' >חָמֵֽשׁ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='3' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֤עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='16' WordSequence='2' >שַׁרְשְׁרוֹת֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='16' WordSequence='3' >בַּדְּבִ֔יר</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='16' WordSequence='4' >וַיִּתֵּ֖ן</Word>
@@ -848,8 +848,8 @@
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='17' WordSequence='15' >יָכִ֔ין</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='17' WordSequence='16' >וְשֵׁ֥ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='3' Verse='17' WordSequence='17' >הַשְּׂמָאלִ֖י</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='3' Verse='17' WordSequence='18' IsParashaPtuchah='true' >בֹּֽעַז</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיַּ֙עַשׂ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='3' Verse='17' WordSequence='18' >בֹּֽעַז</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֙עַשׂ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='1' WordSequence='2' >מִזְבַּ֣ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='1' WordSequence='3' >נְחֹ֔שֶׁת</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='1' WordSequence='4' >עֶשְׂרִ֤ים</Word>
@@ -860,8 +860,8 @@
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='1' WordSequence='9' >רָחְבּ֑וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='1' WordSequence='10' >וְעֶ֥שֶׂר</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='1' WordSequence='11' >אַמּ֖וֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='1' WordSequence='12' >קוֹמָתֽוֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='2' WordSequence='1' >וַיַּ֥עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='4' Verse='1' WordSequence='12' >קוֹמָתֽוֹ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='4' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='2' WordSequence='2' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='2' WordSequence='3' >הַיָּ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='2' WordSequence='4' >מוּצָ֑ק</Word>
@@ -935,8 +935,8 @@
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='5' WordSequence='10' >בַּתִּ֔ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='5' WordSequence='11' >שְׁלֹ֥שֶׁת</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='5' WordSequence='12' >אֲלָפִ֖ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='5' WordSequence='13' >יָכִֽיל</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='6' WordSequence='1' >וַיַּ֣עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='4' Verse='5' WordSequence='13' >יָכִֽיל</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='4' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֣עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='6' WordSequence='2' >כִּיּוֹרִים֮</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='6' WordSequence='3' >עֲשָׂרָה֒</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='6' WordSequence='4' >וַ֠יִּתֵּן</Word>
@@ -954,8 +954,8 @@
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='6' WordSequence='16' >וְהַיָּ֕ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='6' WordSequence='17' >לְרָחְצָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='6' WordSequence='18' >לַכֹּהֲנִ֖ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='6' WordSequence='19' >בּֽוֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='7' WordSequence='1' >וַ֠יַּעַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='4' Verse='6' WordSequence='19' >בּֽוֹ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='4' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַ֠יַּעַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='7' WordSequence='2' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='7' WordSequence='3' >מְנֹר֧וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='7' WordSequence='4' >הַזָּהָ֛ב</Word>
@@ -966,8 +966,8 @@
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='7' WordSequence='9' >חָמֵ֥שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='7' WordSequence='10' >מִיָּמִ֖ין</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='7' WordSequence='11' >וְחָמֵ֥שׁ</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='7' WordSequence='12' >מִשְּׂמֹֽאול</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='8' WordSequence='1' >וַיַּ֣עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='4' Verse='7' WordSequence='12' >מִשְּׂמֹֽאול</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='4' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֣עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='8' WordSequence='2' >שֻׁלְחָנוֹת֮</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='8' WordSequence='3' >עֲשָׂרָה֒</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='8' WordSequence='4' >וַיַּנַּח֙</Word>
@@ -1112,8 +1112,8 @@
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='18' WordSequence='9' >לֹ֥א</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='18' WordSequence='10' >נֶחְקַ֖ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='18' WordSequence='11' >מִשְׁקַ֥ל</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='18' WordSequence='12' IsParashaPtuchah='true' >הַנְּחֹֽשֶׁת</Word>
-<Word Book='DivreiHaYamimB' Chapter='4' Verse='19' WordSequence='1' >וַיַּ֣עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='4' Verse='18' WordSequence='12'>הַנְּחֹֽשֶׁת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='4' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֣עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='19' WordSequence='2' >שְׁלֹמֹ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='19' WordSequence='3' >אֵ֚ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='19' WordSequence='4' >כָּל־</Word>
@@ -1160,8 +1160,8 @@
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='22' WordSequence='13' >וְדַלְתֵ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='22' WordSequence='14' >הַבַּ֛יִת</Word>
 <Word Book='DivreiHaYamimB' Chapter='4' Verse='22' WordSequence='15' >לַהֵיכָ֖ל</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='4' Verse='22' WordSequence='16' >זָהָֽב</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וַתִּשְׁלַם֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='4' Verse='22' WordSequence='16'>זָהָֽב</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וַתִּשְׁלַם֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='1' WordSequence='2' >כָּל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='1' WordSequence='3' >הַמְּלָאכָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='1' WordSequence='4' >אֲשֶׁר־</Word>
@@ -1185,8 +1185,8 @@
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='1' WordSequence='23' >נָתַ֕ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='1' WordSequence='24' >בְּאֹצְר֖וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='1' WordSequence='25' >בֵּ֥ית</Word>
-<Word Book='DivreiHaYamimB' Chapter='5' Verse='1' WordSequence='26' IsParashaPtuchah='true' >הָאֱלֹהִֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='5' Verse='2' WordSequence='1' >אָז֩</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='5' Verse='1' WordSequence='26'>הָאֱלֹהִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='5' Verse='2' WordSequence='1' IsParashaPtuchah='true' >אָז֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='2' WordSequence='2' >יַקְהֵ֨יל</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='2' WordSequence='3' >שְׁלֹמֹ֜ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='2' WordSequence='4' >אֶת־</Word>
@@ -1329,8 +1329,8 @@
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='10' WordSequence='14' >בְּנֵ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='10' WordSequence='15' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='10' WordSequence='16' >בְּצֵאתָ֖ם</Word>
-<Word Book='DivreiHaYamimB' Chapter='5' Verse='10' WordSequence='17' IsParashaPtuchah='true' >מִמִּצְרָֽיִם</Word>
-<Word Book='DivreiHaYamimB' Chapter='5' Verse='11' WordSequence='1' >וַיְהִ֕י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='5' Verse='10' WordSequence='17'>מִמִּצְרָֽיִם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='5' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֕י</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='11' WordSequence='2' >בְּצֵ֥את</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='11' WordSequence='3' >הַכֹּהֲנִ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='11' WordSequence='4' >מִן־</Word>
@@ -1408,8 +1408,8 @@
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='14' WordSequence='11' >יְהוָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='14' WordSequence='12' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='5' Verse='14' WordSequence='13' >בֵּ֥ית</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='5' Verse='14' WordSequence='14' IsParashaPtuchah='true' >הָאֱלֹהִֽים</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>אָ֖ז</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='5' Verse='14' WordSequence='14'>הָאֱלֹהִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אָ֖ז</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='1' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='1' WordSequence='3' >שְׁלֹמֹ֑ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='1' WordSequence='4' >יְהוָ֣ה</Word>
@@ -1792,8 +1792,8 @@
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='23' WordSequence='15' >צַדִּ֔יק</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='23' WordSequence='16' >לָ֥תֶת</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='23' WordSequence='17' >ל֖וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='23' WordSequence='18' >כְּצִדְקָתֽוֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='24' WordSequence='1' >וְֽאִם־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='6' Verse='23' WordSequence='18' >כְּצִדְקָתֽוֹ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='6' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וְֽאִם־</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='24' WordSequence='2' >יִנָּגֵ֞ף</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='24' WordSequence='3' >עַמְּךָ֧</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='24' WordSequence='4' >יִשְׂרָאֵ֛ל</Word>
@@ -1825,8 +1825,8 @@
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='25' WordSequence='12' >אֲשֶׁר־</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='25' WordSequence='13' >נָתַ֥תָּה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='25' WordSequence='14' >לָהֶ֖ם</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='25' WordSequence='15' IsParashaPtuchah='true' >וְלַאֲבֹתֵיהֶֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='26' WordSequence='1' >בְּהֵעָצֵ֧ר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='6' Verse='25' WordSequence='15'>וְלַאֲבֹתֵיהֶֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='6' Verse='26' WordSequence='1' IsParashaPtuchah='true' >בְּהֵעָצֵ֧ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='26' WordSequence='2' >הַשָּׁמַ֛יִם</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='26' WordSequence='3' >וְלֹֽא־</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='26' WordSequence='4' >יִהְיֶ֥ה</Word>
@@ -1868,8 +1868,8 @@
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='27' WordSequence='21' >אֲשֶׁר־</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='27' WordSequence='22' >נָתַ֥תָּה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='27' WordSequence='23' >לְעַמְּךָ֖</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='27' WordSequence='24' >לְנַחֲלָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='28' WordSequence='1' >רָעָ֞ב</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='6' Verse='27' WordSequence='24' >לְנַחֲלָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='6' Verse='28' WordSequence='1' IsParashaPtuchah='true' >רָעָ֞ב</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='28' WordSequence='2' >כִּֽי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='28' WordSequence='3' >יִהְיֶ֣ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='28' WordSequence='4' >בָאָ֗רֶץ</Word>
@@ -1950,8 +1950,8 @@
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='31' WordSequence='12' >הָאֲדָמָ֑ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='31' WordSequence='13' >אֲשֶׁ֥ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='31' WordSequence='14' >נָתַ֖תָּה</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='31' WordSequence='15' >לַאֲבֹתֵֽינוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='32' WordSequence='1' >וְגַ֣ם</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='6' Verse='31' WordSequence='15' >לַאֲבֹתֵֽינוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='6' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וְגַ֣ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='32' WordSequence='2' >אֶל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='32' WordSequence='3' >הַנָּכְרִ֗י</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='32' WordSequence='4' >אֲ֠שֶׁר</Word>
@@ -2123,8 +2123,8 @@
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='40' WordSequence='8' >קַשֻּׁב֑וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='40' WordSequence='9' >לִתְפִלַּ֖ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='40' WordSequence='10' >הַמָּק֥וֹם</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='40' WordSequence='11' >הַזֶּֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='6' Verse='41' WordSequence='1' >וְעַתָּ֗ה</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='6' Verse='40' WordSequence='11' >הַזֶּֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='6' Verse='41' WordSequence='1' IsParashaPtuchah='true' >וְעַתָּ֗ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='41' WordSequence='2' >קוּמָ֞ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='41' WordSequence='3' >יְהוָ֤ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='41' WordSequence='4' >אֱלֹהִים֙</Word>
@@ -2149,8 +2149,8 @@
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='42' WordSequence='7' >זָכְרָ֕ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='42' WordSequence='8' >לְחַֽסְדֵ֖י</Word>
 <Word Book='DivreiHaYamimB' Chapter='6' Verse='42' WordSequence='9' >דָּוִ֥יד</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='6' Verse='42' WordSequence='10' IsParashaPtuchah='true' >עַבְדֶּֽךָ</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וּכְכַלּ֤וֹת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='6' Verse='42' WordSequence='10'>עַבְדֶּֽךָ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּכְכַלּ֤וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='1' WordSequence='2' >שְׁלֹמֹה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='1' WordSequence='3' >לְהִתְפַּלֵּ֔ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='1' WordSequence='4' >וְהָאֵ֗שׁ</Word>
@@ -2207,8 +2207,8 @@
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='4' WordSequence='4' >זֹבְחִ֥ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='4' WordSequence='5' >זֶ֖בַח</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='4' WordSequence='6' >לִפְנֵ֥י</Word>
-<Word Book='DivreiHaYamimB' Chapter='7' Verse='4' WordSequence='7' >יְהוָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='7' Verse='5' WordSequence='1' >וַיִּזְבַּ֞ח</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='7' Verse='4' WordSequence='7' >יְהוָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='7' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיִּזְבַּ֞ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='5' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='5' WordSequence='3' >שְׁלֹמֹה֮</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='5' WordSequence='4' >אֶת־</Word>
@@ -2254,8 +2254,8 @@
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='6' WordSequence='24' >נֶגְדָּ֔ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='6' WordSequence='25' >וְכָל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='6' WordSequence='26' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='DivreiHaYamimB' Chapter='7' Verse='6' WordSequence='27' >עֹמְדִֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='7' Verse='7' WordSequence='1' >וַיְקַדֵּ֣שׁ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='7' Verse='6' WordSequence='27' >עֹמְדִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='7' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיְקַדֵּ֣שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='7' WordSequence='2' >שְׁלֹמֹ֗ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='7' WordSequence='3' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='7' WordSequence='4' >תּ֤וֹךְ</Word>
@@ -2357,8 +2357,8 @@
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='11' WordSequence='16' >בְּבֵית־</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='11' WordSequence='17' >יְהוָ֛ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='11' WordSequence='18' >וּבְבֵית֖וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='7' Verse='11' WordSequence='19' IsParashaPtuchah='true' >הִצְלִֽיחַ</Word>
-<Word Book='DivreiHaYamimB' Chapter='7' Verse='12' WordSequence='1' >וַיֵּרָ֧א</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='7' Verse='11' WordSequence='19'>הִצְלִֽיחַ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='7' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיֵּרָ֧א</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='12' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='12' WordSequence='3' >אֶל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='12' WordSequence='4' >שְׁלֹמֹ֖ה</Word>
@@ -2545,8 +2545,8 @@
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='22' WordSequence='23' >אֵ֥ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='22' WordSequence='24' >כָּל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='7' Verse='22' WordSequence='25' >הָרָעָ֖ה</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='7' Verse='22' WordSequence='26' IsParashaPtuchah='true' >הַזֹּֽאת</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיְהִ֞י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='7' Verse='22' WordSequence='26'>הַזֹּֽאת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֞י</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='1' WordSequence='2' >מִקֵּ֣ץ׀</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='1' WordSequence='3' >עֶשְׂרִ֣ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='1' WordSequence='4' >שָׁנָ֗ה</Word>
@@ -2677,8 +2677,8 @@
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='9' WordSequence='15' >שָׁלִישָׁ֔יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='9' WordSequence='16' >וְשָׂרֵ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='9' WordSequence='17' >רִכְבּ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='8' Verse='9' WordSequence='18' IsParashaPtuchah='true' >וּפָרָשָֽׁיו</Word>
-<Word Book='DivreiHaYamimB' Chapter='8' Verse='10' WordSequence='1' >וְאֵ֨לֶּה</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='8' Verse='9' WordSequence='18'>וּפָרָשָֽׁיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='8' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֨לֶּה</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='10' WordSequence='2' >שָׂרֵ֤י</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='10' WordSequence='3' >הנציבים</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='10' WordSequence='4' >[הַנִּצָּבִ֛ים]</Word>
@@ -2717,8 +2717,8 @@
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='11' WordSequence='26' >בָּֽאָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='11' WordSequence='27' >אֲלֵיהֶ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='11' WordSequence='28' >אֲר֥וֹן</Word>
-<Word Book='DivreiHaYamimB' Chapter='8' Verse='11' WordSequence='29' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='8' Verse='12' WordSequence='1' >אָ֣ז</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='8' Verse='11' WordSequence='29'>יְהוָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='8' Verse='12' WordSequence='1' IsParashaPtuchah='true' >אָ֣ז</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='12' WordSequence='2' >הֶעֱלָ֧ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='12' WordSequence='3' >שְׁלֹמֹ֛ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='12' WordSequence='4' >עֹל֖וֹת</Word>
@@ -2800,8 +2800,8 @@
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='16' WordSequence='11' >כְּלֹת֑וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='16' WordSequence='12' >שָׁלֵ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='16' WordSequence='13' >בֵּ֥ית</Word>
-<Word Book='DivreiHaYamimB' Chapter='8' Verse='16' WordSequence='14' >יְהוָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='8' Verse='17' WordSequence='1' >אָז֩</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='8' Verse='16' WordSequence='14' >יְהוָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='8' Verse='17' WordSequence='1' IsParashaPtuchah='true' >אָז֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='17' WordSequence='2' >הָלַ֨ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='17' WordSequence='3' >שְׁלֹמֹ֜ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='17' WordSequence='4' >לְעֶצְיֽוֹן־</Word>
@@ -2838,8 +2838,8 @@
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='18' WordSequence='23' >וַיָּבִ֖יאוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='18' WordSequence='24' >אֶל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='8' Verse='18' WordSequence='25' >הַמֶּ֥לֶךְ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='8' Verse='18' WordSequence='26' IsParashaPtuchah='true' >שְׁלֹמֹֽה</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וּמַֽלְכַּת־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='8' Verse='18' WordSequence='26'>שְׁלֹמֹֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּמַֽלְכַּת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='1' WordSequence='2' >שְׁבָ֗א</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='1' WordSequence='3' >שָֽׁמְעָה֮</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -3056,8 +3056,8 @@
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='12' WordSequence='17' >וַתֵּ֥לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='12' WordSequence='18' >לְאַרְצָ֖הּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='12' WordSequence='19' >הִ֥יא</Word>
-<Word Book='DivreiHaYamimB' Chapter='9' Verse='12' WordSequence='20' IsParashaPtuchah='true' >וַעֲבָדֶֽיהָ</Word>
-<Word Book='DivreiHaYamimB' Chapter='9' Verse='13' WordSequence='1' >וַיְהִי֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='9' Verse='12' WordSequence='20'>וַעֲבָדֶֽיהָ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='9' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='13' WordSequence='2' >מִשְׁקַ֣ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='13' WordSequence='3' >הַזָּהָ֔ב</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='13' WordSequence='4' >אֲשֶׁר־</Word>
@@ -3116,8 +3116,8 @@
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='16' WordSequence='14' >הַמֶּ֔לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='16' WordSequence='15' >בְּבֵ֖ית</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='16' WordSequence='16' >יַ֥עַר</Word>
-<Word Book='DivreiHaYamimB' Chapter='9' Verse='16' WordSequence='17' IsParashaPtuchah='true' >הַלְּבָנֽוֹן</Word>
-<Word Book='DivreiHaYamimB' Chapter='9' Verse='17' WordSequence='1' >וַיַּ֧עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='9' Verse='16' WordSequence='17'>הַלְּבָנֽוֹן</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='9' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֧עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='17' WordSequence='2' >הַמֶּ֛לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='17' WordSequence='3' >כִּסֵּא־</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='17' WordSequence='4' >שֵׁ֖ן</Word>
@@ -3196,8 +3196,8 @@
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='21' WordSequence='17' >וָכֶ֔סֶף</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='21' WordSequence='18' >שֶׁנְהַבִּ֥ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='21' WordSequence='19' >וְקוֹפִ֖ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='9' Verse='21' WordSequence='20' IsParashaPtuchah='true' >וְתוּכִּיִּֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='9' Verse='22' WordSequence='1' >וַיִּגְדַּל֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='9' Verse='21' WordSequence='20'>וְתוּכִּיִּֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='9' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיִּגְדַּל֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='22' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='22' WordSequence='3' >שְׁלֹמֹ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='22' WordSequence='4' >מִכֹּ֖ל</Word>
@@ -3234,8 +3234,8 @@
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='24' WordSequence='13' >וּפְרָדִ֑ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='24' WordSequence='14' >דְּבַר־</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='24' WordSequence='15' >שָׁנָ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='9' Verse='24' WordSequence='16' IsParashaPtuchah='true' >בְּשָׁנָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='9' Verse='25' WordSequence='1' >וַיְהִ֨י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='9' Verse='24' WordSequence='16'>בְּשָׁנָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='9' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֨י</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='25' WordSequence='2' >לִשְׁלֹמֹ֜ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='25' WordSequence='3' >אַרְבַּעַת֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='25' WordSequence='4' >אֲלָפִ֨ים</Word>
@@ -3326,8 +3326,8 @@
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='31' WordSequence='9' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='31' WordSequence='10' >רְחַבְעָ֥ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='9' Verse='31' WordSequence='11' >בְּנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='9' Verse='31' WordSequence='12' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וַיֵּ֥לֶךְ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='9' Verse='31' WordSequence='12'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֥לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='1' WordSequence='2' >רְחַבְעָ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='1' WordSequence='3' >שְׁכֶ֑מָה</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='1' WordSequence='4' >כִּ֥י</Word>
@@ -3386,8 +3386,8 @@
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='5' WordSequence='6' >וְשׁ֣וּבוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='5' WordSequence='7' >אֵלָ֑י</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='5' WordSequence='8' >וַיֵּ֖לֶךְ</Word>
-<Word Book='DivreiHaYamimB' Chapter='10' Verse='5' WordSequence='9' >הָעָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='10' Verse='6' WordSequence='1' >וַיִּוָּעַ֞ץ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='10' Verse='5' WordSequence='9' >הָעָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='10' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיִּוָּעַ֞ץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='6' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='6' WordSequence='3' >רְחַבְעָ֗ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='6' WordSequence='4' >אֶת־</Word>
@@ -3504,8 +3504,8 @@
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='11' WordSequence='13' >אֶתְכֶם֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='11' WordSequence='14' >בַּשּׁוֹטִ֔ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='11' WordSequence='15' >וַאֲנִ֖י</Word>
-<Word Book='DivreiHaYamimB' Chapter='10' Verse='11' WordSequence='16' >בָּֽעֲקְרַבִּֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='10' Verse='12' WordSequence='1' >וַיָּבֹ֨א</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='10' Verse='11' WordSequence='16' >בָּֽעֲקְרַבִּֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='10' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֨א</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='12' WordSequence='2' >יָרָבְעָ֧ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='12' WordSequence='3' >וְכָל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='12' WordSequence='4' >הָעָ֛ם</Word>
@@ -3601,8 +3601,8 @@
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='16' WordSequence='28' >וַיֵּ֥לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='16' WordSequence='29' >כָּל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='16' WordSequence='30' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='DivreiHaYamimB' Chapter='10' Verse='16' WordSequence='31' >לְאֹהָלָֽיו</Word>
-<Word Book='DivreiHaYamimB' Chapter='10' Verse='17' WordSequence='1' >וּבְנֵ֣י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='10' Verse='16' WordSequence='31' >לְאֹהָלָֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='10' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וּבְנֵ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='17' WordSequence='2' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='17' WordSequence='3' >הַיֹּֽשְׁבִ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='17' WordSequence='4' >בְּעָרֵ֣י</Word>
@@ -3630,15 +3630,15 @@
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='18' WordSequence='18' >לַֽעֲל֣וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='18' WordSequence='19' >בַּמֶּרְכָּבָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='18' WordSequence='20' >לָנ֖וּס</Word>
-<Word Book='DivreiHaYamimB' Chapter='10' Verse='18' WordSequence='21' >יְרוּשָׁלִָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='10' Verse='19' WordSequence='1' >וַיִּפְשְׁע֤וּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='10' Verse='18' WordSequence='21' >יְרוּשָׁלִָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='10' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיִּפְשְׁע֤וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='19' WordSequence='2' >יִשְׂרָאֵל֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='19' WordSequence='3' >בְּבֵ֣ית</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='19' WordSequence='4' >דָּוִ֔יד</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='19' WordSequence='5' >עַ֖ד</Word>
 <Word Book='DivreiHaYamimB' Chapter='10' Verse='19' WordSequence='6' >הַיּ֥וֹם</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='10' Verse='19' WordSequence='7' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַיָּבֹ֣א</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='10' Verse='19' WordSequence='7' >הַזֶּֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֣א</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='1' WordSequence='2' >רְחַבְעָם֮</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='1' WordSequence='3' >יְרוּשָׁלִַם֒</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='1' WordSequence='4' >וַיַּקְהֵל֩</Word>
@@ -3658,8 +3658,8 @@
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='1' WordSequence='18' >לְהָשִׁ֥יב</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='1' WordSequence='19' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='1' WordSequence='20' >הַמַּמְלָכָ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='11' Verse='1' WordSequence='21' IsParashaPtuchah='true' >לִרְחַבְעָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='11' Verse='2' WordSequence='1' >וַיְהִי֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='11' Verse='1' WordSequence='21'>לִרְחַבְעָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='11' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='2' WordSequence='2' >דְּבַר־</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='2' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='2' WordSequence='4' >אֶל־</Word>
@@ -3704,8 +3704,8 @@
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='4' WordSequence='22' >וַיָּשֻׁ֖בוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='4' WordSequence='23' >מִלֶּ֥כֶת</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='4' WordSequence='24' >אֶל־</Word>
-<Word Book='DivreiHaYamimB' Chapter='11' Verse='4' WordSequence='25' IsParashaPtuchah='true' >יָרָבְעָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='11' Verse='5' WordSequence='1' >וַיֵּ֥שֶׁב</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='11' Verse='4' WordSequence='25'>יָרָבְעָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='11' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֥שֶׁב</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='5' WordSequence='2' >רְחַבְעָ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='5' WordSequence='3' >בִּירוּשָׁלִָ֑ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='5' WordSequence='4' >וַיִּ֧בֶן</Word>
@@ -3771,8 +3771,8 @@
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='12' WordSequence='9' >וַיְהִי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='12' WordSequence='10' >ל֖וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='12' WordSequence='11' >יְהוּדָ֥ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='11' Verse='12' WordSequence='12' >וּבִנְיָמִֽן</Word>
-<Word Book='DivreiHaYamimB' Chapter='11' Verse='13' WordSequence='1' >וְהַכֹּהֲנִים֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='11' Verse='12' WordSequence='12' >וּבִנְיָמִֽן</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='11' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וְהַכֹּהֲנִים֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='13' WordSequence='2' >וְהַלְוִיִּ֔ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='13' WordSequence='3' >אֲשֶׁ֖ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='13' WordSequence='4' >בְּכָל־</Word>
@@ -3932,8 +3932,8 @@
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='23' WordSequence='15' >לָרֹ֑ב</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='23' WordSequence='16' >וַיִּשְׁאַ֖ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='11' Verse='23' WordSequence='17' >הֲמ֥וֹן</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='11' Verse='23' WordSequence='18' >נָשִֽׁים</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='11' Verse='23' WordSequence='18'>נָשִֽׁים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='1' WordSequence='2' >כְּהָכִ֞ין</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='1' WordSequence='3' >מַלְכ֤וּת</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='1' WordSequence='4' >רְחַבְעָם֙</Word>
@@ -3944,8 +3944,8 @@
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='1' WordSequence='9' >יְהוָ֑ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='1' WordSequence='10' >וְכָל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='1' WordSequence='11' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='1' WordSequence='12' IsParashaPtuchah='true' >עִמּֽוֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='2' WordSequence='1' >וַיְהִ֞י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='12' Verse='1' WordSequence='12'>עִמּֽוֹ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='12' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֞י</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='2' WordSequence='2' >בַּשָּׁנָ֤ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='2' WordSequence='3' >הַֽחֲמִישִׁית֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='2' WordSequence='4' >לַמֶּ֣לֶךְ</Word>
@@ -3983,8 +3983,8 @@
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='4' WordSequence='6' >לִֽיהוּדָ֑ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='4' WordSequence='7' >וַיָּבֹ֖א</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='4' WordSequence='8' >עַד־</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='4' WordSequence='9' >יְרוּשָׁלִָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='5' WordSequence='1' >וּֽשְׁמַֽעְיָ֤ה</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='12' Verse='4' WordSequence='9' >יְרוּשָׁלִָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='12' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וּֽשְׁמַֽעְיָ֤ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='5' WordSequence='2' >הַנָּבִיא֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='5' WordSequence='3' >בָּ֣א</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='5' WordSequence='4' >אֶל־</Word>
@@ -4049,8 +4049,8 @@
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='8' WordSequence='6' >עֲב֣וֹדָתִ֔י</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='8' WordSequence='7' >וַעֲבוֹדַ֖ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='8' WordSequence='8' >מַמְלְכ֥וֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='8' WordSequence='9' >הָאֲרָצֽוֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='9' WordSequence='1' >וַיַּ֨עַל</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='12' Verse='8' WordSequence='9' >הָאֲרָצֽוֹת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='12' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֨עַל</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='9' WordSequence='2' >שִׁישַׁ֥ק</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='9' WordSequence='3' >מֶֽלֶךְ־</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='9' WordSequence='4' >מִצְרַיִם֮</Word>
@@ -4115,8 +4115,8 @@
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='12' WordSequence='10' >בִּֽיהוּדָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='12' WordSequence='11' >הָיָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='12' WordSequence='12' >דְּבָרִ֥ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='12' WordSequence='13' >טוֹבִֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='13' WordSequence='1' >וַיִּתְחַזֵּ֞ק</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='12' Verse='12' WordSequence='13' >טוֹבִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='12' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיִּתְחַזֵּ֞ק</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='13' WordSequence='2' >הַמֶּ֧לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='13' WordSequence='3' >רְחַבְעָ֛ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='13' WordSequence='4' >בִּירוּשָׁלִַ֖ם</Word>
@@ -4156,8 +4156,8 @@
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='14' WordSequence='6' >לִבּ֔וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='14' WordSequence='7' >לִדְר֖וֹשׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='14' WordSequence='8' >אֶת־</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='14' WordSequence='9' >יְהוָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='12' Verse='15' WordSequence='1' >וְדִבְרֵ֣י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='12' Verse='14' WordSequence='9' >יְהוָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='12' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וְדִבְרֵ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='15' WordSequence='2' >רְחַבְעָ֗ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='15' WordSequence='3' >הָרִאשֹׁנִים֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='15' WordSequence='4' >וְהָאֲ֣חַרוֹנִ֔ים</Word>
@@ -4185,8 +4185,8 @@
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='16' WordSequence='8' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='16' WordSequence='9' >אֲבִיָּ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='12' Verse='16' WordSequence='10' >בְנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='12' Verse='16' WordSequence='11' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>בִּשְׁנַ֛ת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='12' Verse='16' WordSequence='11'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֛ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='1' WordSequence='2' >שְׁמוֹנֶ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='1' WordSequence='3' >עֶשְׂרֵ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='1' WordSequence='4' >לַמֶּ֣לֶךְ</Word>
@@ -4264,8 +4264,8 @@
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='5' WordSequence='14' >ל֥וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='5' WordSequence='15' >וּלְבָנָ֖יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='5' WordSequence='16' >בְּרִ֥ית</Word>
-<Word Book='DivreiHaYamimB' Chapter='13' Verse='5' WordSequence='17' >מֶֽלַח</Word>
-<Word Book='DivreiHaYamimB' Chapter='13' Verse='6' WordSequence='1' >וַיָּ֙קָם֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='13' Verse='5' WordSequence='17' >מֶֽלַח</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='13' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֙קָם֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='6' WordSequence='2' >יָרָבְעָ֣ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='6' WordSequence='3' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='6' WordSequence='4' >נְבָ֔ט</Word>
@@ -4342,8 +4342,8 @@
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='9' WordSequence='24' >וְהָיָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='9' WordSequence='25' >כֹהֵ֖ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='9' WordSequence='26' >לְלֹ֥א</Word>
-<Word Book='DivreiHaYamimB' Chapter='13' Verse='9' WordSequence='27' >אֱלֹהִֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='13' Verse='10' WordSequence='1' >וַאֲנַ֛חְנוּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='13' Verse='9' WordSequence='27' >אֱלֹהִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='13' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַאֲנַ֛חְנוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='10' WordSequence='2' >יְהוָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='10' WordSequence='3' >אֱלֹהֵ֖ינוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='10' WordSequence='4' >וְלֹ֣א</Word>
@@ -4510,8 +4510,8 @@
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='20' WordSequence='7' >אֲבִיָּ֑הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='20' WordSequence='8' >וַיִּגְּפֵ֥הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='20' WordSequence='9' >יְהוָ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='13' Verse='20' WordSequence='10' IsParashaPtuchah='true' >וַיָּמֹֽת</Word>
-<Word Book='DivreiHaYamimB' Chapter='13' Verse='21' WordSequence='1' >וַיִּתְחַזֵּ֣ק</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='13' Verse='20' WordSequence='10'>וַיָּמֹֽת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='13' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיִּתְחַזֵּ֣ק</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='21' WordSequence='2' >אֲבִיָּ֔הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='21' WordSequence='3' >וַיִּ֨שָּׂא־</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='21' WordSequence='4' >ל֔וֹ</Word>
@@ -4524,8 +4524,8 @@
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='21' WordSequence='11' >בָּנִ֔ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='21' WordSequence='12' >וְשֵׁ֥שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='21' WordSequence='13' >עֶשְׂרֵ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='13' Verse='21' WordSequence='14' >בָּנֽוֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='13' Verse='22' WordSequence='1' >וְיֶ֙תֶר֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='13' Verse='21' WordSequence='14' >בָּנֽוֹת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='13' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וְיֶ֙תֶר֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='22' WordSequence='2' >דִּבְרֵ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='22' WordSequence='3' >אֲבִיָּ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='22' WordSequence='4' >וּדְרָכָ֖יו</Word>
@@ -4550,8 +4550,8 @@
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='23' WordSequence='14' >שָׁקְטָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='23' WordSequence='15' >הָאָ֖רֶץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='13' Verse='23' WordSequence='16' >עֶ֥שֶׂר</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='13' Verse='23' WordSequence='17' IsParashaPtuchah='true' >שָׁנִֽים</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וַיַּ֤עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='13' Verse='23' WordSequence='17'>שָׁנִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֤עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='1' WordSequence='2' >אָסָא֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='1' WordSequence='3' >הַטּ֣וֹב</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='1' WordSequence='4' >וְהַיָּשָׁ֔ר</Word>
@@ -4630,8 +4630,8 @@
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='6' WordSequence='22' >לָ֖נוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='6' WordSequence='23' >מִסָּבִ֑יב</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='6' WordSequence='24' >וַיִּבְנ֖וּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='14' Verse='6' WordSequence='25' IsParashaPtuchah='true' >וַיַּצְלִֽיחוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='14' Verse='7' WordSequence='1' >וַיְהִ֣י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='14' Verse='6' WordSequence='25'>וַיַּצְלִֽיחוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='14' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='7' WordSequence='2' >לְאָסָ֗א</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='7' WordSequence='3' >חַיִל֮</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='7' WordSequence='4' >נֹשֵׂ֣א</Word>
@@ -4705,8 +4705,8 @@
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='10' WordSequence='29' >אַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='10' WordSequence='30' >יַעְצֹ֥ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='10' WordSequence='31' >עִמְּךָ֖</Word>
-<Word Book='DivreiHaYamimB' Chapter='14' Verse='10' WordSequence='32' >אֱנֽוֹשׁ</Word>
-<Word Book='DivreiHaYamimB' Chapter='14' Verse='11' WordSequence='1' >וַיִּגֹּ֤ף</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='14' Verse='10' WordSequence='32' >אֱנֽוֹשׁ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='14' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיִּגֹּ֤ף</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='11' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='11' WordSequence='3' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='11' WordSequence='4' >הַכּוּשִׁ֔ים</Word>
@@ -4767,8 +4767,8 @@
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='14' WordSequence='7' >לָרֹב֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='14' WordSequence='8' >וּגְמַלִּ֔ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='14' Verse='14' WordSequence='9' >וַיָּשֻׁ֖בוּ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='14' Verse='14' WordSequence='10' IsParashaPtuchah='true' >יְרוּשָׁלִָֽם</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וַעֲזַרְיָ֙הוּ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='14' Verse='14' WordSequence='10' >יְרוּשָׁלִָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַעֲזַרְיָ֙הוּ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='1' WordSequence='2' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='1' WordSequence='3' >עוֹדֵ֔ד</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='1' WordSequence='4' >הָיְתָ֥ה</Word>
@@ -4796,8 +4796,8 @@
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='2' WordSequence='19' >וְאִם־</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='2' WordSequence='20' >תַּעַזְבֻ֖הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='2' WordSequence='21' >יַעֲזֹ֥ב</Word>
-<Word Book='DivreiHaYamimB' Chapter='15' Verse='2' WordSequence='22' >אֶתְכֶֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='15' Verse='3' WordSequence='1' >וְיָמִ֥ים</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='15' Verse='2' WordSequence='22' >אֶתְכֶֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='15' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וְיָמִ֥ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='3' WordSequence='2' >רַבִּ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='3' WordSequence='3' >לְיִשְׂרָאֵ֑ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='3' WordSequence='4' >לְלֹ֣א׀</Word>
@@ -4849,8 +4849,8 @@
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='7' WordSequence='6' >כִּ֛י</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='7' WordSequence='7' >יֵ֥שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='7' WordSequence='8' >שָׂכָ֖ר</Word>
-<Word Book='DivreiHaYamimB' Chapter='15' Verse='7' WordSequence='9' >לִפְעֻלַּתְכֶֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='15' Verse='8' WordSequence='1' >וְכִשְׁמֹ֨עַ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='15' Verse='7' WordSequence='9' >לִפְעֻלַּתְכֶֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='15' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וְכִשְׁמֹ֨עַ</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='8' WordSequence='2' >אָסָ֜א</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='8' WordSequence='3' >הַדְּבָרִ֣ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='8' WordSequence='4' >הָאֵ֗לֶּה</Word>
@@ -4897,8 +4897,8 @@
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='9' WordSequence='17' >כִּֽי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='9' WordSequence='18' >יְהוָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='9' WordSequence='19' >אֱלֹהָ֖יו</Word>
-<Word Book='DivreiHaYamimB' Chapter='15' Verse='9' WordSequence='20' IsParashaPtuchah='true' >עִמּֽוֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='15' Verse='10' WordSequence='1' >וַיִּקָּבְצ֥וּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='15' Verse='9' WordSequence='20'>עִמּֽוֹ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='15' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיִּקָּבְצ֥וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='10' WordSequence='2' >יְרוּשָׁלִַ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='10' WordSequence='3' >בַּחֹ֣דֶשׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='10' WordSequence='4' >הַשְּׁלִישִׁ֑י</Word>
@@ -5019,8 +5019,8 @@
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='19' WordSequence='6' >שְׁלֹשִׁ֥ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='19' WordSequence='7' >וְחָמֵ֖שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='15' Verse='19' WordSequence='8' >לְמַלְכ֥וּת</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='15' Verse='19' WordSequence='9' IsParashaPtuchah='true' >אָסָֽא</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>בִּשְׁנַ֨ת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='15' Verse='19' WordSequence='9' >אָסָֽא</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֨ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='1' WordSequence='2' >שְׁלֹשִׁ֤ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='1' WordSequence='3' >וָשֵׁשׁ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='1' WordSequence='4' >לְמַלְכ֣וּת</Word>
@@ -5117,8 +5117,8 @@
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='5' WordSequence='7' >הָרָמָ֑ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='5' WordSequence='8' >וַיַּשְׁבֵּ֖ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='5' WordSequence='9' >אֶת־</Word>
-<Word Book='DivreiHaYamimB' Chapter='16' Verse='5' WordSequence='10' >מְלַאכְתּֽוֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='16' Verse='6' WordSequence='1' >וְאָסָ֣א</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='16' Verse='5' WordSequence='10' >מְלַאכְתּֽוֹ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='16' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וְאָסָ֣א</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='6' WordSequence='2' >הַמֶּ֗לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='6' WordSequence='3' >לָקַח֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='6' WordSequence='4' >אֶת־</Word>
@@ -5138,8 +5138,8 @@
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='6' WordSequence='18' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='6' WordSequence='19' >גֶּ֖בַע</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='6' WordSequence='20' >וְאֶת־</Word>
-<Word Book='DivreiHaYamimB' Chapter='16' Verse='6' WordSequence='21' >הַמִּצְפָּֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='16' Verse='7' WordSequence='1' >וּבָעֵ֣ת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='16' Verse='6' WordSequence='21' >הַמִּצְפָּֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='16' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וּבָעֵ֣ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='7' WordSequence='2' >הַהִ֗יא</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='7' WordSequence='3' >בָּ֚א</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='7' WordSequence='4' >חֲנָ֣נִי</Word>
@@ -5278,8 +5278,8 @@
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='14' WordSequence='19' >שְׂרֵפָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='14' WordSequence='20' >גְּדוֹלָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='16' Verse='14' WordSequence='21' >עַד־</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='16' Verse='14' WordSequence='22' IsParashaPtuchah='true' >לִמְאֹֽד</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>וַיִּמְלֹ֛ךְ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='16' Verse='14' WordSequence='22'>לִמְאֹֽד</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='1' WordSequence='2' >יְהוֹשָׁפָ֥ט</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='1' WordSequence='3' >בְּנ֖וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='1' WordSequence='4' >תַּחְתָּ֑יו</Word>
@@ -5349,8 +5349,8 @@
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='6' WordSequence='8' >הַבָּמ֥וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='6' WordSequence='9' >וְאֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='6' WordSequence='10' >הָאֲשֵׁרִ֖ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='6' WordSequence='11' IsParashaPtuchah='true' >מִיהוּדָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='7' WordSequence='1' >וּבִשְׁנַ֨ת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='17' Verse='6' WordSequence='11'>מִיהוּדָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='17' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וּבִשְׁנַ֨ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='7' WordSequence='2' >שָׁל֜וֹשׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='7' WordSequence='3' >לְמָלְכ֗וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='7' WordSequence='4' >שָׁלַ֤ח</Word>
@@ -5429,8 +5429,8 @@
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='11' WordSequence='19' >שִׁבְעַ֥ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='11' WordSequence='20' >אֲלָפִ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='11' WordSequence='21' >וּשְׁבַ֥ע</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='11' WordSequence='22' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='12' WordSequence='1' >וַיְהִ֧י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='17' Verse='11' WordSequence='22'>מֵאֽוֹת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='17' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֧י</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='12' WordSequence='2' >יְהוֹשָׁפָ֛ט</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='12' WordSequence='3' >הֹלֵ֥ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='12' WordSequence='4' >וְגָדֵ֖ל</Word>
@@ -5466,16 +5466,16 @@
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='14' WordSequence='12' >חַ֔יִל</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='14' WordSequence='13' >שְׁלֹ֥שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='14' WordSequence='14' >מֵא֖וֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='14' WordSequence='15' >אָֽלֶף</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='15' WordSequence='1' >וְעַל־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='17' Verse='14' WordSequence='15' >אָֽלֶף</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='17' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וְעַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='15' WordSequence='2' >יָד֖וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='15' WordSequence='3' >יְהוֹחָנָ֣ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='15' WordSequence='4' >הַשָּׂ֑ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='15' WordSequence='5' >וְעִמּ֕וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='15' WordSequence='6' >מָאתַ֥יִם</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='15' WordSequence='7' >וּשְׁמוֹנִ֖ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='15' WordSequence='8' >אָֽלֶף</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='16' WordSequence='1' >וְעַל־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='17' Verse='15' WordSequence='8' >אָֽלֶף</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='17' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וְעַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='16' WordSequence='2' >יָדוֹ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='16' WordSequence='3' >עֲמַסְיָ֣ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='16' WordSequence='4' >בֶן־</Word>
@@ -5486,8 +5486,8 @@
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='16' WordSequence='9' >מָאתַ֥יִם</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='16' WordSequence='10' >אֶ֖לֶף</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='16' WordSequence='11' >גִּבּ֥וֹר</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='16' WordSequence='12' >חָֽיִל</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='17' WordSequence='1' >וּמִ֨ן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='17' Verse='16' WordSequence='12' >חָֽיִל</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='17' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וּמִ֨ן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='17' WordSequence='2' >בִּנְיָמִ֔ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='17' WordSequence='3' >גִּבּ֥וֹר</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='17' WordSequence='4' >חַ֖יִל</Word>
@@ -5497,8 +5497,8 @@
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='17' WordSequence='8' >קֶ֥שֶׁת</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='17' WordSequence='9' >וּמָגֵ֖ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='17' WordSequence='10' >מָאתַ֥יִם</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='17' WordSequence='11' >אָֽלֶף</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='18' WordSequence='1' >וְעַל־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='17' Verse='17' WordSequence='11' >אָֽלֶף</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='17' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וְעַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='18' WordSequence='2' >יָד֖וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='18' WordSequence='3' >יְהוֹזָבָ֑ד</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='18' WordSequence='4' >וְעִמּ֛וֹ</Word>
@@ -5506,8 +5506,8 @@
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='18' WordSequence='6' >וּשְׁמוֹנִ֥ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='18' WordSequence='7' >אֶ֖לֶף</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='18' WordSequence='8' >חֲלוּצֵ֥י</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='18' WordSequence='9' >צָבָֽא</Word>
-<Word Book='DivreiHaYamimB' Chapter='17' Verse='19' WordSequence='1' >אֵ֖לֶּה</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='17' Verse='18' WordSequence='9' >צָבָֽא</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='17' Verse='19' WordSequence='1' IsParashaPtuchah='true' >אֵ֖לֶּה</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='19' WordSequence='2' >הַמְשָׁרְתִ֣ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='19' WordSequence='3' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='19' WordSequence='4' >הַמֶּ֑לֶךְ</Word>
@@ -5518,8 +5518,8 @@
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='19' WordSequence='9' >בְּעָרֵ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='19' WordSequence='10' >הַמִּבְצָ֖ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='17' Verse='19' WordSequence='11' >בְּכָל־</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='17' Verse='19' WordSequence='12' IsParashaPtuchah='true' >יְהוּדָֽה</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַיְהִ֧י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='17' Verse='19' WordSequence='12'>יְהוּדָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֧י</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='1' WordSequence='2' >לִֽיהוֹשָׁפָ֛ט</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='1' WordSequence='3' >עֹ֥שֶׁר</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='1' WordSequence='4' >וְכָב֖וֹד</Word>
@@ -5809,8 +5809,8 @@
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='17' WordSequence='12' >ט֖וֹב</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='17' WordSequence='13' >כִּ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='17' WordSequence='14' >אִם־</Word>
-<Word Book='DivreiHaYamimB' Chapter='18' Verse='17' WordSequence='15' >לְרָֽע</Word>
-<Word Book='DivreiHaYamimB' Chapter='18' Verse='18' WordSequence='1' >וַיֹּ֕אמֶר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='18' Verse='17' WordSequence='15' >לְרָֽע</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='18' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֕אמֶר</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='18' WordSequence='2' >לָכֵ֖ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='18' WordSequence='3' >שִׁמְע֣וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='18' WordSequence='4' >דְבַר־</Word>
@@ -5886,8 +5886,8 @@
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='22' WordSequence='10' >וַֽיהוָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='22' WordSequence='11' >דִּבֶּ֥ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='22' WordSequence='12' >עָלֶ֖יךָ</Word>
-<Word Book='DivreiHaYamimB' Chapter='18' Verse='22' WordSequence='13' >רָעָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='18' Verse='23' WordSequence='1' >וַיִּגַּשׁ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='18' Verse='22' WordSequence='13' >רָעָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='18' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיִּגַּשׁ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='23' WordSequence='2' >צִדְקִיָּ֣הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='23' WordSequence='3' >בֶֽן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='23' WordSequence='4' >כְּנַעֲנָ֔ה</Word>
@@ -5961,8 +5961,8 @@
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='27' WordSequence='11' >וַיֹּ֕אמֶר</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='27' WordSequence='12' >שִׁמְע֖וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='27' WordSequence='13' >עַמִּ֥ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='18' Verse='27' WordSequence='14' IsParashaPtuchah='true' >כֻּלָּֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='18' Verse='28' WordSequence='1' >וַיַּ֧עַל</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='18' Verse='27' WordSequence='14'>כֻּלָּֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='18' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֧עַל</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='28' WordSequence='2' >מֶֽלֶךְ־</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='28' WordSequence='3' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='28' WordSequence='4' >וִֽיהוֹשָׁפָ֥ט</Word>
@@ -6078,8 +6078,8 @@
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='34' WordSequence='14' >וַיָּ֕מָת</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='34' WordSequence='15' >לְעֵ֖ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='18' Verse='34' WordSequence='16' >בּ֥וֹא</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='18' Verse='34' WordSequence='17' >הַשָּֽׁמֶשׁ</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַ֠יָּשָׁב</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='18' Verse='34' WordSequence='17'>הַשָּֽׁמֶשׁ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַ֠יָּשָׁב</Word>
 <Word Book='DivreiHaYamimB' Chapter='19' Verse='1' WordSequence='2' >יְהוֹשָׁפָ֨ט</Word>
 <Word Book='DivreiHaYamimB' Chapter='19' Verse='1' WordSequence='3' >מֶֽלֶךְ־</Word>
 <Word Book='DivreiHaYamimB' Chapter='19' Verse='1' WordSequence='4' >יְהוּדָ֧ה</Word>
@@ -6260,8 +6260,8 @@
 <Word Book='DivreiHaYamimB' Chapter='19' Verse='11' WordSequence='23' >וִיהִ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='19' Verse='11' WordSequence='24' >יְהוָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='19' Verse='11' WordSequence='25' >עִם־</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='19' Verse='11' WordSequence='26' IsParashaPtuchah='true' >הַטּֽוֹב</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וַיְהִ֣י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='19' Verse='11' WordSequence='26'>הַטּֽוֹב</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='1' WordSequence='2' >אַֽחֲרֵיכֵ֡ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='1' WordSequence='3' >בָּ֣אוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='1' WordSequence='4' >בְנֵי־</Word>
@@ -6450,8 +6450,8 @@
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='13' WordSequence='6' >גַּם־</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='13' WordSequence='7' >טַפָּ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='13' WordSequence='8' >נְשֵׁיהֶ֥ם</Word>
-<Word Book='DivreiHaYamimB' Chapter='20' Verse='13' WordSequence='9' IsParashaPtuchah='true' >וּבְנֵיהֶֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='20' Verse='14' WordSequence='1' >וְיַחֲזִיאֵ֡ל</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='20' Verse='13' WordSequence='9'>וּבְנֵיהֶֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='20' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וְיַחֲזִיאֵ֡ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='14' WordSequence='2' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='14' WordSequence='3' >זְכַרְיָ֡הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='14' WordSequence='4' >בֶּן־</Word>
@@ -6736,8 +6736,8 @@
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='30' WordSequence='4' >וַיָּ֧נַֽח</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='30' WordSequence='5' >ל֦וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='30' WordSequence='6' >אֱלֹהָ֖יו</Word>
-<Word Book='DivreiHaYamimB' Chapter='20' Verse='30' WordSequence='7' IsParashaPtuchah='true' >מִסָּבִֽיב</Word>
-<Word Book='DivreiHaYamimB' Chapter='20' Verse='31' WordSequence='1' >וַיִּמְלֹ֥ךְ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='20' Verse='30' WordSequence='7'>מִסָּבִֽיב</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='20' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וַיִּמְלֹ֥ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='31' WordSequence='2' >יְהוֹשָׁפָ֖ט</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='31' WordSequence='3' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='31' WordSequence='4' >יְהוּדָ֑ה</Word>
@@ -6838,8 +6838,8 @@
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='37' WordSequence='19' >עָצְר֖וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='37' WordSequence='20' >לָלֶ֥כֶת</Word>
 <Word Book='DivreiHaYamimB' Chapter='20' Verse='37' WordSequence='21' >אֶל־</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='20' Verse='37' WordSequence='22' >תַּרְשִֽׁישׁ</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַיִּשְׁכַּ֤ב</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='20' Verse='37' WordSequence='22'>תַּרְשִֽׁישׁ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַיִּשְׁכַּ֤ב</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='1' WordSequence='2' >יְהֽוֹשָׁפָט֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='1' WordSequence='3' >עִם־</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='1' WordSequence='4' >אֲבֹתָ֔יו</Word>
@@ -6886,8 +6886,8 @@
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='3' WordSequence='16' >לִֽיהוֹרָ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='3' WordSequence='17' >כִּי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='3' WordSequence='18' >ה֥וּא</Word>
-<Word Book='DivreiHaYamimB' Chapter='21' Verse='3' WordSequence='19' IsParashaPtuchah='true' >הַבְּכֽוֹר</Word>
-<Word Book='DivreiHaYamimB' Chapter='21' Verse='4' WordSequence='1' >וַיָּ֨קָם</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='21' Verse='3' WordSequence='19'>הַבְּכֽוֹר</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='21' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֨קָם</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='4' WordSequence='2' >יְהוֹרָ֜ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='4' WordSequence='3' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='4' WordSequence='4' >מַמְלֶ֤כַת</Word>
@@ -7009,8 +7009,8 @@
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='11' WordSequence='10' >יְרוּשָׁלִַ֔ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='11' WordSequence='11' >וַיַּדַּ֖ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='11' WordSequence='12' >אֶת־</Word>
-<Word Book='DivreiHaYamimB' Chapter='21' Verse='11' WordSequence='13' IsParashaPtuchah='true' >יְהוּדָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='21' Verse='12' WordSequence='1' >וַיָּבֹ֤א</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='21' Verse='11' WordSequence='13'>יְהוּדָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='21' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֤א</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='12' WordSequence='2' >אֵלָיו֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='12' WordSequence='3' >מִכְתָּ֔ב</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='12' WordSequence='4' >מֵֽאֵלִיָּ֥הוּ</Word>
@@ -7159,8 +7159,8 @@
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='20' WordSequence='15' >דָּוִ֔יד</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='20' WordSequence='16' >וְלֹ֖א</Word>
 <Word Book='DivreiHaYamimB' Chapter='21' Verse='20' WordSequence='17' >בְּקִבְר֥וֹת</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='21' Verse='20' WordSequence='18' >הַמְּלָכִֽים</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיַּמְלִיכוּ֩</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='21' Verse='20' WordSequence='18'>הַמְּלָכִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיַּמְלִיכוּ֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='1' WordSequence='2' >יוֹשְׁבֵ֨י</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='1' WordSequence='3' >יְרוּשָׁלִַ֜ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -7181,8 +7181,8 @@
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='1' WordSequence='19' >בֶן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='1' WordSequence='20' >יְהוֹרָ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='1' WordSequence='21' >מֶ֥לֶךְ</Word>
-<Word Book='DivreiHaYamimB' Chapter='22' Verse='1' WordSequence='22' IsParashaPtuchah='true' >יְהוּדָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='22' Verse='2' WordSequence='1' >בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='22' Verse='1' WordSequence='22'>יְהוּדָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='22' Verse='2' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='2' WordSequence='2' >אַרְבָּעִ֨ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='2' WordSequence='3' >וּשְׁתַּ֤יִם</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='2' WordSequence='4' >שָׁנָה֙</Word>
@@ -7402,8 +7402,8 @@
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='12' WordSequence='8' >וַעֲתַלְיָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='12' WordSequence='9' >מֹלֶ֥כֶת</Word>
 <Word Book='DivreiHaYamimB' Chapter='22' Verse='12' WordSequence='10' >עַל־</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='22' Verse='12' WordSequence='11' IsParashaPtuchah='true' >הָאָֽרֶץ</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וּבַשָּׁנָ֨ה</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='22' Verse='12' WordSequence='11'>הָאָֽרֶץ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּבַשָּׁנָ֨ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='1' WordSequence='2' >הַשְּׁבִעִ֜ית</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='1' WordSequence='3' >הִתְחַזַּ֣ק</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='1' WordSequence='4' >יְהוֹיָדָ֗ע</Word>
@@ -7601,8 +7601,8 @@
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='11' WordSequence='15' >וּבָנָ֔יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='11' WordSequence='16' >וַיֹּאמְר֖וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='11' WordSequence='17' >יְחִ֥י</Word>
-<Word Book='DivreiHaYamimB' Chapter='23' Verse='11' WordSequence='18' >הַמֶּֽלֶךְ</Word>
-<Word Book='DivreiHaYamimB' Chapter='23' Verse='12' WordSequence='1' >וַתִּשְׁמַ֣ע</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='23' Verse='11' WordSequence='18' >הַמֶּֽלֶךְ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='23' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַתִּשְׁמַ֣ע</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='12' WordSequence='2' >עֲתַלְיָ֗הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='12' WordSequence='3' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='12' WordSequence='4' >ק֤וֹל</Word>
@@ -7644,8 +7644,8 @@
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='13' WordSequence='26' >בְּגָדֶ֔יהָ</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='13' WordSequence='27' >וַתֹּ֖אמֶר</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='13' WordSequence='28' >קֶ֥שֶׁר</Word>
-<Word Book='DivreiHaYamimB' Chapter='23' Verse='13' WordSequence='29' >קָֽשֶׁר</Word>
-<Word Book='DivreiHaYamimB' Chapter='23' Verse='14' WordSequence='1' >וַיּוֹצֵא֩</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='23' Verse='13' WordSequence='29' >קָֽשֶׁר</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='23' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיּוֹצֵא֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='14' WordSequence='2' >יְהוֹיָדָ֨ע</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='14' WordSequence='3' >הַכֹּהֵ֜ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='14' WordSequence='4' >אֶת־</Word>
@@ -7681,8 +7681,8 @@
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='15' WordSequence='9' >בֵּ֣ית</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='15' WordSequence='10' >הַמֶּ֑לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='15' WordSequence='11' >וַיְמִית֖וּהָ</Word>
-<Word Book='DivreiHaYamimB' Chapter='23' Verse='15' WordSequence='12' IsParashaPtuchah='true' >שָֽׁם</Word>
-<Word Book='DivreiHaYamimB' Chapter='23' Verse='16' WordSequence='1' >וַיִּכְרֹ֤ת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='23' Verse='15' WordSequence='12'>שָֽׁם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='23' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיִּכְרֹ֤ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='16' WordSequence='2' >יְהוֹיָדָע֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='16' WordSequence='3' >בְּרִ֔ית</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='16' WordSequence='4' >בֵּינ֕וֹ</Word>
@@ -7787,8 +7787,8 @@
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='21' WordSequence='7' >וְאֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='21' WordSequence='8' >עֲתַלְיָ֖הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='23' Verse='21' WordSequence='9' >הֵמִ֥יתוּ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='23' Verse='21' WordSequence='10' IsParashaPtuchah='true' >בֶחָֽרֶב</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='23' Verse='21' WordSequence='10' >בֶחָֽרֶב</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='1' WordSequence='2' >שֶׁ֤בַע</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='1' WordSequence='3' >שָׁנִים֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='1' WordSequence='4' >יֹאָ֣שׁ</Word>
@@ -8025,8 +8025,8 @@
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='14' WordSequence='25' >תָּמִ֔יד</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='14' WordSequence='26' >כֹּ֖ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='14' WordSequence='27' >יְמֵ֥י</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='14' WordSequence='28' IsParashaPtuchah='true' >יְהוֹיָדָֽע</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='15' WordSequence='1' >וַיִּזְקַ֧ן</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='24' Verse='14' WordSequence='28'>יְהוֹיָדָֽע</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='24' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיִּזְקַ֧ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='15' WordSequence='2' >יְהוֹיָדָ֛ע</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='15' WordSequence='3' >וַיִּשְׂבַּ֥ע</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='15' WordSequence='4' >יָמִ֖ים</Word>
@@ -8047,8 +8047,8 @@
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='16' WordSequence='9' >בְּיִשְׂרָאֵ֔ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='16' WordSequence='10' >וְעִ֥ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='16' WordSequence='11' >הָאֱלֹהִ֖ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='16' WordSequence='12' >וּבֵיתֽוֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='17' WordSequence='1' >וְאַֽחֲרֵ֥י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='24' Verse='16' WordSequence='12' >וּבֵיתֽוֹ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='24' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וְאַֽחֲרֵ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='17' WordSequence='2' >מוֹת֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='17' WordSequence='3' >יְה֣וֹיָדָ֔ע</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='17' WordSequence='4' >בָּ֚אוּ</Word>
@@ -8087,8 +8087,8 @@
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='19' WordSequence='7' >וַיָּעִ֥ידוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='19' WordSequence='8' >בָ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='19' WordSequence='9' >וְלֹ֥א</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='19' WordSequence='10' >הֶאֱזִֽינוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='20' WordSequence='1' >וְר֣וּחַ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='24' Verse='19' WordSequence='10' >הֶאֱזִֽינוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='24' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וְר֣וּחַ</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='20' WordSequence='2' >אֱלֹהִ֗ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='20' WordSequence='3' >לָֽבְשָׁה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='20' WordSequence='4' >אֶת־</Word>
@@ -8144,8 +8144,8 @@
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='22' WordSequence='15' >אָמַ֔ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='22' WordSequence='16' >יֵ֥רֶא</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='22' WordSequence='17' >יְהוָ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='22' WordSequence='18' IsParashaPtuchah='true' >וְיִדְרֹֽשׁ</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='23' WordSequence='1' >וַיְהִ֣י׀</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='24' Verse='22' WordSequence='18'>וְיִדְרֹֽשׁ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='24' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י׀</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='23' WordSequence='2' >לִתְקוּפַ֣ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='23' WordSequence='3' >הַשָּׁנָ֗ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='23' WordSequence='4' >עָלָ֣ה</Word>
@@ -8214,8 +8214,8 @@
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='25' WordSequence='23' >וְלֹ֥א</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='25' WordSequence='24' >קְבָרֻ֖הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='25' WordSequence='25' >בְּקִבְר֥וֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='25' WordSequence='26' >הַמְּלָכִֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='24' Verse='26' WordSequence='1' >וְאֵ֖לֶּה</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='24' Verse='25' WordSequence='26' >הַמְּלָכִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='24' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֖לֶּה</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='26' WordSequence='2' >הַמִּתְקַשְּׁרִ֣ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='26' WordSequence='3' >עָלָ֑יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='26' WordSequence='4' >זָבָ֗ד</Word>
@@ -8243,8 +8243,8 @@
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='27' WordSequence='15' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='27' WordSequence='16' >אֲמַצְיָ֥הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='24' Verse='27' WordSequence='17' >בְנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='24' Verse='27' WordSequence='18' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='25' Verse='1' WordSequence='1'>בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='24' Verse='27' WordSequence='18'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='25' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='1' WordSequence='2' >עֶשְׂרִ֨ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='1' WordSequence='3' >וְחָמֵ֤שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='1' WordSequence='4' >שָׁנָה֙</Word>
@@ -8305,8 +8305,8 @@
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='4' WordSequence='24' >כִּ֛י</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='4' WordSequence='25' >אִ֥ישׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='4' WordSequence='26' >בְּחֶטְא֖וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='4' WordSequence='27' IsParashaPtuchah='true' >יָמֽוּתוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='5' WordSequence='1' >וַיִּקְבֹּ֤ץ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='25' Verse='4' WordSequence='27'>יָמֽוּתוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='25' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְבֹּ֤ץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='5' WordSequence='2' >אֲמַצְיָ֙הוּ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='5' WordSequence='3' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='5' WordSequence='4' >יְהוּדָ֔ה</Word>
@@ -8417,8 +8417,8 @@
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='10' WordSequence='14' >וַיָּשׁ֥וּבוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='10' WordSequence='15' >לִמְקוֹמָ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='10' WordSequence='16' >בָּחֳרִי־</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='10' WordSequence='17' IsParashaPtuchah='true' >אָֽף</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='11' WordSequence='1' >וַאֲמַצְיָ֙הוּ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='25' Verse='10' WordSequence='17'>אָֽף</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='25' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַאֲמַצְיָ֙הוּ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='11' WordSequence='2' >הִתְחַזַּ֔ק</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='11' WordSequence='3' >וַיִּנְהַג֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='11' WordSequence='4' >אֶת־</Word>
@@ -8445,8 +8445,8 @@
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='12' WordSequence='11' >מֵֽרֹאשׁ־</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='12' WordSequence='12' >הַסֶּ֖לַע</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='12' WordSequence='13' >וְכֻלָּ֥ם</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='12' WordSequence='14' >נִבְקָֽעוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='13' WordSequence='1' >וּבְנֵ֣י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='25' Verse='12' WordSequence='14' >נִבְקָֽעוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='25' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וּבְנֵ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='13' WordSequence='2' >הַגְּד֗וּד</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='13' WordSequence='3' >אֲשֶׁ֨ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='13' WordSequence='4' >הֵשִׁ֤יב</Word>
@@ -8467,8 +8467,8 @@
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='13' WordSequence='19' >אֲלָפִ֔ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='13' WordSequence='20' >וַיָּבֹ֖זּוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='13' WordSequence='21' >בִּזָּ֥ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='13' WordSequence='22' >רַבָּֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='14' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='25' Verse='13' WordSequence='22' >רַבָּֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='25' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='14' WordSequence='2' >אַחֲרֵ֨י</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='14' WordSequence='3' >ב֤וֹא</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='14' WordSequence='4' >אֲמַצְיָ֙הוּ֙</Word>
@@ -8532,8 +8532,8 @@
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='16' WordSequence='23' >זֹּ֔את</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='16' WordSequence='24' >וְלֹ֥א</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='16' WordSequence='25' >שָׁמַ֖עְתָּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='16' WordSequence='26' IsParashaPtuchah='true' >לַעֲצָתִֽי</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='17' WordSequence='1' >וַיִּוָּעַ֗ץ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='25' Verse='16' WordSequence='26'>לַעֲצָתִֽי</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='25' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיִּוָּעַ֗ץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='17' WordSequence='2' >אֲמַצְיָ֙הוּ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='17' WordSequence='3' >מֶ֣לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='17' WordSequence='4' >יְהוּדָ֔ה</Word>
@@ -8682,8 +8682,8 @@
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='24' WordSequence='18' >בְּנֵ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='24' WordSequence='19' >הַתַּֽעֲרֻב֑וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='24' WordSequence='20' >וַיָּ֖שָׁב</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='24' WordSequence='21' IsParashaPtuchah='true' >שֹׁמְרֽוֹן</Word>
-<Word Book='DivreiHaYamimB' Chapter='25' Verse='25' WordSequence='1' >וַיְחִ֨י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='25' Verse='24' WordSequence='21'>שֹׁמְרֽוֹן</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='25' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְחִ֨י</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='25' WordSequence='2' >אֲמַצְיָ֤הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='25' WordSequence='3' >בֶן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='25' WordSequence='4' >יוֹאָשׁ֙</Word>
@@ -8737,8 +8737,8 @@
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='28' WordSequence='6' >עִם־</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='28' WordSequence='7' >אֲבֹתָ֖יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='25' Verse='28' WordSequence='8' >בְּעִ֥יר</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='25' Verse='28' WordSequence='9' >יְהוּדָֽה</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיִּקְח֞וּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='25' Verse='28' WordSequence='9'>יְהוּדָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיִּקְח֞וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='1' WordSequence='2' >כָּל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='1' WordSequence='3' >עַ֤ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='1' WordSequence='4' >יְהוּדָה֙</Word>
@@ -8764,8 +8764,8 @@
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='2' WordSequence='8' >שְׁכַֽב־</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='2' WordSequence='9' >הַמֶּ֖לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='2' WordSequence='10' >עִם־</Word>
-<Word Book='DivreiHaYamimB' Chapter='26' Verse='2' WordSequence='11' IsParashaPtuchah='true' >אֲבֹתָֽיו</Word>
-<Word Book='DivreiHaYamimB' Chapter='26' Verse='3' WordSequence='1' >בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='26' Verse='2' WordSequence='11'>אֲבֹתָֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='26' Verse='3' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='3' WordSequence='2' >שֵׁ֨שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='3' WordSequence='3' >עֶשְׂרֵ֤ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='3' WordSequence='4' >שָׁנָה֙</Word>
@@ -8804,8 +8804,8 @@
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='5' WordSequence='11' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='5' WordSequence='12' >יְהוָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='5' WordSequence='13' >הִצְלִיח֖וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='26' Verse='5' WordSequence='14' >הָאֱלֹהִֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='26' Verse='6' WordSequence='1' >וַיֵּצֵא֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='26' Verse='5' WordSequence='14' >הָאֱלֹהִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='26' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֵּצֵא֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='6' WordSequence='2' >וַיִּלָּ֣חֶם</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='6' WordSequence='3' >בַּפְּלִשְׁתִּ֔ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='6' WordSequence='4' >וַיִּפְרֹ֞ץ</Word>
@@ -8879,8 +8879,8 @@
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='10' WordSequence='18' >כִּֽי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='10' WordSequence='19' >אֹהֵ֥ב</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='10' WordSequence='20' >אֲדָמָ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='26' Verse='10' WordSequence='21' >הָיָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='26' Verse='11' WordSequence='1' >וַיְהִ֣י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='26' Verse='10' WordSequence='21' >הָיָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='26' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='11' WordSequence='2' >לְעֻזִּיָּ֡הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='11' WordSequence='3' >חַיִל֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='11' WordSequence='4' >עֹשֵׂ֨ה</Word>
@@ -9110,8 +9110,8 @@
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='23' WordSequence='17' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='23' WordSequence='18' >יוֹתָ֥ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='26' Verse='23' WordSequence='19' >בְּנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='26' Verse='23' WordSequence='20' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='26' Verse='23' WordSequence='20'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='27' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='27' Verse='1' WordSequence='2' >עֶשְׂרִ֨ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='27' Verse='1' WordSequence='3' >וְחָמֵ֤שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='27' Verse='1' WordSequence='4' >שָׁנָה֙</Word>
@@ -9239,8 +9239,8 @@
 <Word Book='DivreiHaYamimB' Chapter='27' Verse='9' WordSequence='9' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='27' Verse='9' WordSequence='10' >אָחָ֥ז</Word>
 <Word Book='DivreiHaYamimB' Chapter='27' Verse='9' WordSequence='11' >בְּנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='27' Verse='9' WordSequence='12' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='27' Verse='9' WordSequence='12'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='28' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='1' WordSequence='2' >עֶשְׂרִ֤ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='1' WordSequence='3' >שָׁנָה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='1' WordSequence='4' >אָחָ֣ז</Word>
@@ -9313,8 +9313,8 @@
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='5' WordSequence='20' >וַיַּךְ־</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='5' WordSequence='21' >בּ֖וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='5' WordSequence='22' >מַכָּ֥ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='5' WordSequence='23' >גְדוֹלָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='6' WordSequence='1' >וַיַּהֲרֹג֩</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='28' Verse='5' WordSequence='23' >גְדוֹלָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='28' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיַּהֲרֹג֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='6' WordSequence='2' >פֶּ֨קַח</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='6' WordSequence='3' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='6' WordSequence='4' >רְמַלְיָ֜הוּ</Word>
@@ -9347,8 +9347,8 @@
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='7' WordSequence='13' >וְאֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='7' WordSequence='14' >אֶלְקָנָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='7' WordSequence='15' >מִשְׁנֵ֥ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='7' WordSequence='16' >הַמֶּֽלֶךְ</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='8' WordSequence='1' >וַיִּשְׁבּוּ֩</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='28' Verse='7' WordSequence='16' >הַמֶּֽלֶךְ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='28' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁבּוּ֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='8' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='8' WordSequence='3' >יִשְׂרָאֵ֨ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='8' WordSequence='4' >מֵֽאֲחֵיהֶ֜ם</Word>
@@ -9365,8 +9365,8 @@
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='8' WordSequence='15' >וַיָּבִ֥יאוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='8' WordSequence='16' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='8' WordSequence='17' >הַשָּׁלָ֖ל</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='8' WordSequence='18' >לְשֹׁמְרֽוֹן</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='9' WordSequence='1' >וְ֠שָׁם</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='28' Verse='8' WordSequence='18' >לְשֹׁמְרֽוֹן</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='28' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וְ֠שָׁם</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='9' WordSequence='2' >הָיָ֨ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='9' WordSequence='3' >נָבִ֥יא</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='9' WordSequence='4' >לַֽיהוָה֮</Word>
@@ -9422,8 +9422,8 @@
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='11' WordSequence='9' >חֲר֥וֹן</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='11' WordSequence='10' >אַף־</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='11' WordSequence='11' >יְהוָ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='11' WordSequence='12' >עֲלֵיכֶֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='12' WordSequence='1' >וַיָּקֻ֨מוּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='28' Verse='11' WordSequence='12' >עֲלֵיכֶֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='28' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיָּקֻ֨מוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='12' WordSequence='2' >אֲנָשִׁ֜ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='12' WordSequence='3' >מֵרָאשֵׁ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='12' WordSequence='4' >בְנֵֽי־</Word>
@@ -9469,8 +9469,8 @@
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='13' WordSequence='23' >וַחֲר֥וֹן</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='13' WordSequence='24' >אָ֖ף</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='13' WordSequence='25' >עַל־</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='13' WordSequence='26' >יִשְׂרָאֵֽל</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='14' WordSequence='1' >וַיַּעֲזֹ֣ב</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='28' Verse='13' WordSequence='26' >יִשְׂרָאֵֽל</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='28' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲזֹ֣ב</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='14' WordSequence='2' >הֶֽחָל֗וּץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='14' WordSequence='3' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='14' WordSequence='4' >הַשִּׁבְיָה֙</Word>
@@ -9508,8 +9508,8 @@
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='15' WordSequence='26' >אֵ֣צֶל</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='15' WordSequence='27' >אֲחֵיהֶ֑ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='15' WordSequence='28' >וַיָּשׁ֖וּבוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='15' WordSequence='29' IsParashaPtuchah='true' >שֹׁמְרֽוֹן</Word>
-<Word Book='DivreiHaYamimB' Chapter='28' Verse='16' WordSequence='1' >בָּעֵ֣ת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='28' Verse='15' WordSequence='29'>שֹׁמְרֽוֹן</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='28' Verse='16' WordSequence='1' IsParashaPtuchah='true' >בָּעֵ֣ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='16' WordSequence='2' >הַהִ֗יא</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='16' WordSequence='3' >שָׁלַ֞ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='16' WordSequence='4' >הַמֶּ֧לֶךְ</Word>
@@ -9689,8 +9689,8 @@
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='27' WordSequence='14' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='27' WordSequence='15' >יְחִזְקִיָּ֥הֽוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='28' Verse='27' WordSequence='16' >בְנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='28' Verse='27' WordSequence='17' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>יְחִזְקִיָּ֣הוּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='28' Verse='27' WordSequence='17'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='29' Verse='1' WordSequence='1' IsParashaPtuchah='true' >יְחִזְקִיָּ֣הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='1' WordSequence='2' >מָלַ֗ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='1' WordSequence='3' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='1' WordSequence='4' >עֶשְׂרִ֤ים</Word>
@@ -9834,8 +9834,8 @@
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='11' WordSequence='12' >וְלִהְי֥וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='11' WordSequence='13' >ל֖וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='11' WordSequence='14' >מְשָׁרְתִ֥ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='11' WordSequence='15' >וּמַקְטִרִֽים</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='12' WordSequence='1' >וַיָּקֻ֣מוּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='29' Verse='11' WordSequence='15' >וּמַקְטִרִֽים</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='29' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיָּקֻ֣מוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='12' WordSequence='2' >הַ֠לְוִיִּם</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='12' WordSequence='3' >מַ֣חַת</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='12' WordSequence='4' >בֶּן־</Word>
@@ -9873,8 +9873,8 @@
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='13' WordSequence='8' >בְּנֵ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='13' WordSequence='9' >אָסָ֔ף</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='13' WordSequence='10' >זְכַרְיָ֖הוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='13' WordSequence='11' >וּמַתַּנְיָֽהוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='14' WordSequence='1' >וּמִן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='29' Verse='13' WordSequence='11' >וּמַתַּנְיָֽהוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='29' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וּמִן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='14' WordSequence='2' >בְּנֵ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='14' WordSequence='3' >הֵימָ֖ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='14' WordSequence='4' >יחואל</Word>
@@ -9942,8 +9942,8 @@
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='17' WordSequence='20' >עָשָׂ֛ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='17' WordSequence='21' >לַחֹ֥דֶשׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='17' WordSequence='22' >הָרִאשׁ֖וֹן</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='17' WordSequence='23' >כִּלּֽוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='18' WordSequence='1' >וַיָּב֤וֹאוּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='29' Verse='17' WordSequence='23' >כִּלּֽוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='29' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיָּב֤וֹאוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='18' WordSequence='2' >פְנִ֙ימָה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='18' WordSequence='3' >אֶל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='18' WordSequence='4' >חִזְקִיָּ֣הוּ</Word>
@@ -9980,8 +9980,8 @@
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='19' WordSequence='12' >וְהִנָּ֕ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='19' WordSequence='13' >לִפְנֵ֖י</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='19' WordSequence='14' >מִזְבַּ֥ח</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='19' WordSequence='15' >יְהוָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='20' WordSequence='1' >וַיַּשְׁכֵּם֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='29' Verse='19' WordSequence='15' >יְהוָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='29' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיַּשְׁכֵּם֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='20' WordSequence='2' >יְחִזְקִיָּ֣הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='20' WordSequence='3' >הַמֶּ֔לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='20' WordSequence='4' >וַיֶּאֱסֹ֕ף</Word>
@@ -10081,14 +10081,14 @@
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='25' WordSequence='18' >יְהוָ֛ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='25' WordSequence='19' >הַמִּצְוָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='25' WordSequence='20' >בְּיַד־</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='25' WordSequence='21' >נְבִיאָֽיו</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='26' WordSequence='1' >וַיַּֽעַמְד֤וּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='29' Verse='25' WordSequence='21' >נְבִיאָֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='29' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַיַּֽעַמְד֤וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='26' WordSequence='2' >הַלְוִיִּם֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='26' WordSequence='3' >בִּכְלֵ֣י</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='26' WordSequence='4' >דָוִ֔יד</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='26' WordSequence='5' >וְהַכֹּהֲנִ֖ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='26' WordSequence='6' >בַּחֲצֹצְרֽוֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='27' WordSequence='1' >וַיֹּ֙אמֶר֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='29' Verse='26' WordSequence='6' >בַּחֲצֹצְרֽוֹת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='29' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֙אמֶר֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='27' WordSequence='2' >חִזְקִיָּ֔הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='27' WordSequence='3' >לְהַעֲל֥וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='27' WordSequence='4' >הָעֹלָ֖ה</Word>
@@ -10141,8 +10141,8 @@
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='30' WordSequence='13' >עַד־</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='30' WordSequence='14' >לְשִׂמְחָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='30' WordSequence='15' >וַֽיִּקְּד֖וּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='30' WordSequence='16' IsParashaPtuchah='true' >וַיִּֽשְׁתַּחֲוֽוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='29' Verse='31' WordSequence='1' >וַיַּ֨עַן</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='29' Verse='30' WordSequence='16'>וַיִּֽשְׁתַּחֲוֽוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='29' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֨עַן</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='31' WordSequence='2' >יְחִזְקִיָּ֜הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='31' WordSequence='3' >וַיֹּ֗אמֶר</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='31' WordSequence='4' >עַתָּ֨ה</Word>
@@ -10233,8 +10233,8 @@
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='36' WordSequence='9' >כִּ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='36' WordSequence='10' >בְּפִתְאֹ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='29' Verse='36' WordSequence='11' >הָיָ֥ה</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='29' Verse='36' WordSequence='12' IsParashaPtuchah='true' >הַדָּבָֽר</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וַיִּשְׁלַ֨ח</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='29' Verse='36' WordSequence='12'>הַדָּבָֽר</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='30' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֨ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='1' WordSequence='2' >יְחִזְקִיָּ֜הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='1' WordSequence='3' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='1' WordSequence='4' >כָּל־</Word>
@@ -10396,8 +10396,8 @@
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='9' WordSequence='21' >מִכֶּ֔ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='9' WordSequence='22' >אִם־</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='9' WordSequence='23' >תָּשׁ֖וּבוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='9' WordSequence='24' IsParashaPtuchah='true' >אֵלָֽיו</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='10' WordSequence='1' >וַיִּֽהְי֨וּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='30' Verse='9' WordSequence='24'>אֵלָֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='30' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיִּֽהְי֨וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='10' WordSequence='2' >הָרָצִ֜ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='10' WordSequence='3' >עֹבְרִ֨ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='10' WordSequence='4' >מֵעִ֧יר׀</Word>
@@ -10539,15 +10539,15 @@
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='19' WordSequence='8' >אֲבוֹתָ֑יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='19' WordSequence='9' >וְלֹ֖א</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='19' WordSequence='10' >כְּטָהֳרַ֥ת</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='19' WordSequence='11' >הַקֹּֽדֶשׁ</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='20' WordSequence='1' >וַיִּשְׁמַ֤ע</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='30' Verse='19' WordSequence='11' >הַקֹּֽדֶשׁ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='30' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁמַ֤ע</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='20' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='20' WordSequence='3' >אֶל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='20' WordSequence='4' >יְחִזְקִיָּ֔הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='20' WordSequence='5' >וַיִּרְפָּ֖א</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='20' WordSequence='6' >אֶת־</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='20' WordSequence='7' >הָעָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='21' WordSequence='1' >וַיַּעֲשׂ֣וּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='30' Verse='20' WordSequence='7' >הָעָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='30' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲשׂ֣וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='21' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='21' WordSequence='3' >יִ֠שְׂרָאֵל</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='21' WordSequence='4' >הַנִּמְצְאִ֨ים</Word>
@@ -10567,8 +10567,8 @@
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='21' WordSequence='18' >וְהַכֹּהֲנִ֛ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='21' WordSequence='19' >בִּכְלֵי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='21' WordSequence='20' >עֹ֖ז</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='21' WordSequence='21' >לַיהוָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='22' WordSequence='1' >וַיְדַבֵּ֣ר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='30' Verse='21' WordSequence='21' >לַיהוָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='30' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='22' WordSequence='2' >יְחִזְקִיָּ֗הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='22' WordSequence='3' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='22' WordSequence='4' >לֵב֙</Word>
@@ -10589,8 +10589,8 @@
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='22' WordSequence='19' >וּמִ֨תְוַדִּ֔ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='22' WordSequence='20' >לַיהוָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='22' WordSequence='21' >אֱלֹהֵ֥י</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='22' WordSequence='22' >אֲבוֹתֵיהֶֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='23' WordSequence='1' >וַיִּוָּֽעֲצוּ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='30' Verse='22' WordSequence='22' >אֲבוֹתֵיהֶֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='30' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיִּוָּֽעֲצוּ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='23' WordSequence='2' >כָּל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='23' WordSequence='3' >הַקָּהָ֔ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='23' WordSequence='4' >לַעֲשׂ֕וֹת</Word>
@@ -10652,8 +10652,8 @@
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='26' WordSequence='11' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='26' WordSequence='12' >לֹ֥א</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='26' WordSequence='13' >כָזֹ֖את</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='26' WordSequence='14' >בִּירוּשָׁלִָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='30' Verse='27' WordSequence='1' >וַיָּקֻ֜מוּ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='30' Verse='26' WordSequence='14' >בִּירוּשָׁלִָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='30' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיָּקֻ֜מוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='27' WordSequence='2' >הַכֹּהֲנִ֤ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='27' WordSequence='3' >הַלְוִיִּם֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='27' WordSequence='4' >וַיְבָרֲכ֣וּ</Word>
@@ -10665,8 +10665,8 @@
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='27' WordSequence='10' >תְפִלָּתָ֛ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='27' WordSequence='11' >לִמְע֥וֹן</Word>
 <Word Book='DivreiHaYamimB' Chapter='30' Verse='27' WordSequence='12' >קָדְשׁ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='30' Verse='27' WordSequence='13' IsParashaPtuchah='true' >לַשָּׁמָֽיִם</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>וּכְכַלּ֣וֹת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='30' Verse='27' WordSequence='13'>לַשָּׁמָֽיִם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='31' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּכְכַלּ֣וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='1' WordSequence='2' >כָּל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='1' WordSequence='3' >זֹ֗את</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='1' WordSequence='4' >יָצְא֨וּ</Word>
@@ -10697,8 +10697,8 @@
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='1' WordSequence='29' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='1' WordSequence='30' >אִ֥ישׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='1' WordSequence='31' >לַאֲחֻזָּת֖וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='1' WordSequence='32' >לְעָרֵיהֶֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='2' WordSequence='1' >וַיַּעֲמֵ֣ד</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='31' Verse='1' WordSequence='32' >לְעָרֵיהֶֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='31' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲמֵ֣ד</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='2' WordSequence='2' >יְחִזְקִיָּ֡הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='2' WordSequence='3' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='2' WordSequence='4' >מַחְלְק֣וֹת</Word>
@@ -10718,8 +10718,8 @@
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='2' WordSequence='18' >וּלְהַלֵּ֔ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='2' WordSequence='19' >בְּשַׁעֲרֵ֖י</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='2' WordSequence='20' >מַחֲנ֥וֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='2' WordSequence='21' >יְהוָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='3' WordSequence='1' >וּמְנָת֩</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='31' Verse='2' WordSequence='21' >יְהוָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='31' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וּמְנָת֩</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='3' WordSequence='2' >הַמֶּ֨לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='3' WordSequence='3' >מִן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='3' WordSequence='4' >רְכוּשׁ֜וֹ</Word>
@@ -10782,16 +10782,16 @@
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='6' WordSequence='17' >הֵבִ֕יאוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='6' WordSequence='18' >וַֽיִּתְּנ֖וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='6' WordSequence='19' >עֲרֵמ֥וֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='6' WordSequence='20' >עֲרֵמֽוֹת</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='7' WordSequence='1' >בַּחֹ֙דֶשׁ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='31' Verse='6' WordSequence='20' >עֲרֵמֽוֹת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='31' Verse='7' WordSequence='1' IsParashaPtuchah='true' >בַּחֹ֙דֶשׁ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='7' WordSequence='2' >הַשְּׁלִשִׁ֔י</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='7' WordSequence='3' >הֵחֵ֥לּוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='7' WordSequence='4' >הָעֲרֵמ֖וֹת</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='7' WordSequence='5' >לְיִסּ֑וֹד</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='7' WordSequence='6' >וּבַחֹ֥דֶשׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='7' WordSequence='7' >הַשְּׁבִיעִ֖י</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='7' WordSequence='8' >כִּלּֽוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='8' WordSequence='1' >וַיָּבֹ֙אוּ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='31' Verse='7' WordSequence='8' >כִּלּֽוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='31' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֙אוּ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='8' WordSequence='2' >יְחִזְקִיָּ֣הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='8' WordSequence='3' >וְהַשָּׂרִ֔ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='8' WordSequence='4' >וַיִּרְא֖וּ</Word>
@@ -10802,8 +10802,8 @@
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='8' WordSequence='9' >יְהוָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='8' WordSequence='10' >וְאֵ֖ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='8' WordSequence='11' >עַמּ֥וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='8' WordSequence='12' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='9' WordSequence='1' >וַיִּדְרֹ֣שׁ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='31' Verse='8' WordSequence='12'>יִשְׂרָאֵֽל</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='31' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיִּדְרֹ֣שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='9' WordSequence='2' >יְחִזְקִיָּ֗הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='9' WordSequence='3' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='9' WordSequence='4' >הַכֹּֽהֲנִ֛ים</Word>
@@ -10836,8 +10836,8 @@
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='10' WordSequence='24' >וְהַנּוֹתָ֖ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='10' WordSequence='25' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='10' WordSequence='26' >הֶהָמ֥וֹן</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='10' WordSequence='27' >הַזֶּֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='31' Verse='11' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='31' Verse='10' WordSequence='27' >הַזֶּֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='31' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='11' WordSequence='2' >יְחִזְקִיָּ֗הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='11' WordSequence='3' >לְהָכִ֧ין</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='11' WordSequence='4' >לְשָׁכ֛וֹת</Word>
@@ -10999,8 +10999,8 @@
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='21' WordSequence='12' >בְּכָל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='21' WordSequence='13' >לְבָב֥וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='31' Verse='21' WordSequence='14' >עָשָׂ֖ה</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='31' Verse='21' WordSequence='15' IsParashaPtuchah='true' >וְהִצְלִֽיחַ</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='32' Verse='1' WordSequence='1'>אַחֲרֵ֨י</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='31' Verse='21' WordSequence='15'>וְהִצְלִֽיחַ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='32' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אַחֲרֵ֨י</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='1' WordSequence='2' >הַדְּבָרִ֤ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='1' WordSequence='3' >וְהָאֱמֶת֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='1' WordSequence='4' >הָאֵ֔לֶּה</Word>
@@ -11127,8 +11127,8 @@
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='8' WordSequence='13' >דִּבְרֵ֖י</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='8' WordSequence='14' >יְחִזְקִיָּ֥הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='8' WordSequence='15' >מֶֽלֶךְ־</Word>
-<Word Book='DivreiHaYamimB' Chapter='32' Verse='8' WordSequence='16' IsParashaPtuchah='true' >יְהוּדָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='32' Verse='9' WordSequence='1' >אַ֣חַר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='32' Verse='8' WordSequence='16'>יְהוּדָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='32' Verse='9' WordSequence='1' IsParashaPtuchah='true' >אַ֣חַר</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='9' WordSequence='2' >זֶ֗ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='9' WordSequence='3' >שָׁ֠לַח</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='9' WordSequence='4' >סַנְחֵרִ֨יב</Word>
@@ -11327,8 +11327,8 @@
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='19' WordSequence='8' >הָאָ֔רֶץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='19' WordSequence='9' >מַעֲשֵׂ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='19' WordSequence='10' >יְדֵ֥י</Word>
-<Word Book='DivreiHaYamimB' Chapter='32' Verse='19' WordSequence='11' >הָאָדָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='32' Verse='20' WordSequence='1' >וַיִּתְפַּלֵּ֞ל</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='32' Verse='19' WordSequence='11' >הָאָדָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='32' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיִּתְפַּלֵּ֞ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='20' WordSequence='2' >יְחִזְקִיָּ֣הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='20' WordSequence='3' >הַמֶּ֗לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='20' WordSequence='4' >וִֽישַֽׁעְיָ֧הוּ</Word>
@@ -11338,8 +11338,8 @@
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='20' WordSequence='8' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='20' WordSequence='9' >זֹ֑את</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='20' WordSequence='10' >וַֽיִּזְעֲק֖וּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='32' Verse='20' WordSequence='11' IsParashaPtuchah='true' >הַשָּׁמָֽיִם</Word>
-<Word Book='DivreiHaYamimB' Chapter='32' Verse='21' WordSequence='1' >וַיִּשְׁלַ֤ח</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='32' Verse='20' WordSequence='11'>הַשָּׁמָֽיִם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='32' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֤ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='21' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='21' WordSequence='3' >מַלְאָ֔ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='21' WordSequence='4' >וַיַּכְחֵ֞ד</Word>
@@ -11393,8 +11393,8 @@
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='23' WordSequence='12' >כָל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='23' WordSequence='13' >הַגּוֹיִ֖ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='23' WordSequence='14' >מֵאַֽחֲרֵי־</Word>
-<Word Book='DivreiHaYamimB' Chapter='32' Verse='23' WordSequence='15' >כֵֽן</Word>
-<Word Book='DivreiHaYamimB' Chapter='32' Verse='24' WordSequence='1' >בַּיָּמִ֣ים</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='32' Verse='23' WordSequence='15' >כֵֽן</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='32' Verse='24' WordSequence='1' IsParashaPtuchah='true' >בַּיָּמִ֣ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='24' WordSequence='2' >הָהֵ֔ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='24' WordSequence='3' >חָלָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='24' WordSequence='4' >יְחִזְקִיָּ֖הוּ</Word>
@@ -11549,8 +11549,8 @@
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='33' WordSequence='18' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='33' WordSequence='19' >מְנַשֶּׁ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='32' Verse='33' WordSequence='20' >בְנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='32' Verse='33' WordSequence='21' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='33' Verse='1' WordSequence='1'>בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='32' Verse='33' WordSequence='21'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='33' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='1' WordSequence='2' >שְׁתֵּ֥ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='1' WordSequence='3' >עֶשְׂרֵ֛ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='1' WordSequence='4' >שָׁנָ֖ה</Word>
@@ -11700,8 +11700,8 @@
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='9' WordSequence='13' >יְהוָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='9' WordSequence='14' >מִפְּנֵ֖י</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='9' WordSequence='15' >בְּנֵ֥י</Word>
-<Word Book='DivreiHaYamimB' Chapter='33' Verse='9' WordSequence='16' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='DivreiHaYamimB' Chapter='33' Verse='10' WordSequence='1' >וַיְדַבֵּ֧ר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='33' Verse='9' WordSequence='16'>יִשְׂרָאֵֽל</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='33' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֧ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='10' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='10' WordSequence='3' >אֶל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='10' WordSequence='4' >מְנַשֶּׁ֥ה</Word>
@@ -11870,8 +11870,8 @@
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='20' WordSequence='7' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='20' WordSequence='8' >אָמ֥וֹן</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='20' WordSequence='9' >בְּנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='33' Verse='20' WordSequence='10' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' Chapter='33' Verse='21' WordSequence='1' >בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='33' Verse='20' WordSequence='10'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='33' Verse='21' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='21' WordSequence='2' >עֶשְׂרִ֧ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='21' WordSequence='3' >וּשְׁתַּ֛יִם</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='21' WordSequence='4' >שָׁנָ֖ה</Word>
@@ -11930,8 +11930,8 @@
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='25' WordSequence='13' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='25' WordSequence='14' >יֹאשִׁיָּ֥הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='33' Verse='25' WordSequence='15' >בְנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='33' Verse='25' WordSequence='16' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='34' Verse='1' WordSequence='1'>בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='33' Verse='25' WordSequence='16'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='34' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='1' WordSequence='2' >שְׁמוֹנֶ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='1' WordSequence='3' >שָׁנִ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='1' WordSequence='4' >יֹאשִׁיָּ֣הוּ</Word>
@@ -12034,8 +12034,8 @@
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='7' WordSequence='13' >אֶ֣רֶץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='7' WordSequence='14' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='7' WordSequence='15' >וַיָּ֖שָׁב</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='7' WordSequence='16' >לִירוּשָׁלִָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='8' WordSequence='1' >וּבִשְׁנַ֨ת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='34' Verse='7' WordSequence='16' >לִירוּשָׁלִָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='34' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וּבִשְׁנַ֨ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='8' WordSequence='2' >שְׁמוֹנֶ֤ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='8' WordSequence='3' >עֶשְׂרֵה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='8' WordSequence='4' >לְמָלְכ֔וֹ</Word>
@@ -12301,8 +12301,8 @@
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='21' WordSequence='32' >הַכָּת֖וּב</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='21' WordSequence='33' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='21' WordSequence='34' >הַסֵּ֥פֶר</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='21' WordSequence='35' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='22' WordSequence='1' >וַיֵּ֨לֶךְ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='34' Verse='21' WordSequence='35'>הַזֶּֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='34' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֨לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='22' WordSequence='2' >חִלְקִיָּ֜הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='22' WordSequence='3' >וַאֲשֶׁ֣ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='22' WordSequence='4' >הַמֶּ֗לֶךְ</Word>
@@ -12324,8 +12324,8 @@
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='22' WordSequence='20' >בַּמִּשְׁנֶ֑ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='22' WordSequence='21' >וַיְדַבְּר֥וּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='22' WordSequence='22' >אֵלֶ֖יהָ</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='22' WordSequence='23' >כָּזֹֽאת</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='23' WordSequence='1' >וַתֹּ֣אמֶר</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='34' Verse='22' WordSequence='23' >כָּזֹֽאת</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='34' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַתֹּ֣אמֶר</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='23' WordSequence='2' >לָהֶ֔ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='23' WordSequence='3' >כֹּה־</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='23' WordSequence='4' >אָמַ֥ר</Word>
@@ -12337,8 +12337,8 @@
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='23' WordSequence='10' >אֲשֶׁר־</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='23' WordSequence='11' >שָׁלַ֥ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='23' WordSequence='12' >אֶתְכֶ֖ם</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='23' WordSequence='13' >אֵלָֽי</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='24' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='34' Verse='23' WordSequence='13' >אֵלָֽי</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='34' Verse='24' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='24' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='24' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='24' WordSequence='4' >הִנְנִ֨י</Word>
@@ -12446,8 +12446,8 @@
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='28' WordSequence='22' >וַיָּשִׁ֥יבוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='28' WordSequence='23' >אֶת־</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='28' WordSequence='24' >הַמֶּ֖לֶךְ</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='28' WordSequence='25' IsParashaPtuchah='true' >דָּבָֽר</Word>
-<Word Book='DivreiHaYamimB' Chapter='34' Verse='29' WordSequence='1' >וַיִּשְׁלַ֖ח</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='34' Verse='28' WordSequence='25'>דָּבָֽר</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='34' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֖ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='29' WordSequence='2' >הַמֶּ֑לֶךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='29' WordSequence='3' >וַיֶּאֱסֹ֕ף</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='29' WordSequence='4' >אֶת־</Word>
@@ -12549,8 +12549,8 @@
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='33' WordSequence='24' >מֵֽאַחֲרֵ֕י</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='33' WordSequence='25' >יְהוָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='34' Verse='33' WordSequence='26' >אֱלֹהֵ֥י</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='34' Verse='33' WordSequence='27' IsParashaPtuchah='true' >אֲבוֹתֵיהֶֽם</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='35' Verse='1' WordSequence='1'>וַיַּ֨עַשׂ</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='34' Verse='33' WordSequence='27'>אֲבוֹתֵיהֶֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='35' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֨עַשׂ</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='1' WordSequence='2' >יֹאשִׁיָּ֧הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='1' WordSequence='3' >בִֽירוּשָׁלִַ֛ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='1' WordSequence='4' >פֶּ֖סַח</Word>
@@ -12633,8 +12633,8 @@
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='6' WordSequence='7' >כִּדְבַר־</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='6' WordSequence='8' >יְהוָ֖ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='6' WordSequence='9' >בְּיַד־</Word>
-<Word Book='DivreiHaYamimB' Chapter='35' Verse='6' WordSequence='10' IsParashaPtuchah='true' >מֹשֶֽׁה</Word>
-<Word Book='DivreiHaYamimB' Chapter='35' Verse='7' WordSequence='1' >וַיָּ֣רֶם</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='35' Verse='6' WordSequence='10'>מֹשֶֽׁה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='35' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֣רֶם</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='7' WordSequence='2' >יֹאשִׁיָּ֣הוּ</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='7' WordSequence='3' >לִבְנֵ֪י</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='7' WordSequence='4' >הָעָ֟ם</Word>
@@ -12654,8 +12654,8 @@
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='7' WordSequence='18' >אֲלָפִ֑ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='7' WordSequence='19' >אֵ֖לֶּה</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='7' WordSequence='20' >מֵרְכ֥וּשׁ</Word>
-<Word Book='DivreiHaYamimB' Chapter='35' Verse='7' WordSequence='21' >הַמֶּֽלֶךְ</Word>
-<Word Book='DivreiHaYamimB' Chapter='35' Verse='8' WordSequence='1' >וְשָׂרָ֞יו</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='35' Verse='7' WordSequence='21' >הַמֶּֽלֶךְ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='35' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וְשָׂרָ֞יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='8' WordSequence='2' >לִנְדָבָ֥ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='8' WordSequence='3' >לָעָ֛ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='8' WordSequence='4' >לַכֹּהֲנִ֥ים</Word>
@@ -12837,8 +12837,8 @@
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='18' WordSequence='22' >וְיִשְׂרָאֵ֣ל</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='18' WordSequence='23' >הַנִּמְצָ֔א</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='18' WordSequence='24' >וְיוֹשְׁבֵ֖י</Word>
-<Word Book='DivreiHaYamimB' Chapter='35' Verse='18' WordSequence='25' >יְרוּשָׁלִָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='35' Verse='19' WordSequence='1' >בִּשְׁמוֹנֶ֤ה</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='35' Verse='18' WordSequence='25' >יְרוּשָׁלִָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='35' Verse='19' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁמוֹנֶ֤ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='19' WordSequence='2' >עֶשְׂרֵה֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='19' WordSequence='3' >שָׁנָ֔ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='19' WordSequence='4' >לְמַלְכ֖וּת</Word>
@@ -12944,8 +12944,8 @@
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='24' WordSequence='19' >וִיר֣וּשָׁלִַ֔ם</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='24' WordSequence='20' >מִֽתְאַבְּלִ֖ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='24' WordSequence='21' >עַל־</Word>
-<Word Book='DivreiHaYamimB' Chapter='35' Verse='24' WordSequence='22' IsParashaPtuchah='true' >יֹאשִׁיָּֽהוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='35' Verse='25' WordSequence='1' >וַיְקוֹנֵ֣ן</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='35' Verse='24' WordSequence='22'>יֹאשִׁיָּֽהוּ</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='35' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְקוֹנֵ֣ן</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='25' WordSequence='2' >יִרְמְיָהוּ֮</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='25' WordSequence='3' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='25' WordSequence='4' >יֹאשִׁיָּהוּ֒</Word>
@@ -12982,8 +12982,8 @@
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='27' WordSequence='7' >סֵ֥פֶר</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='27' WordSequence='8' >מַלְכֵֽי־</Word>
 <Word Book='DivreiHaYamimB' Chapter='35' Verse='27' WordSequence='9' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='35' Verse='27' WordSequence='10' >וִיהוּדָֽה</Word>
-<Word Book='DivreiHaYamimB' StartPerekBeforeWord='true' Chapter='36' Verse='1' WordSequence='1'>וַיִּקְחוּ֙</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='35' Verse='27' WordSequence='10'>וִיהוּדָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='36' Verse='1' WordSequence='1'>וַיִּקְחוּ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='1' WordSequence='2' >עַם־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='1' WordSequence='3' >הָאָ֔רֶץ</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -13035,8 +13035,8 @@
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='4' WordSequence='17' >לָקַ֣ח</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='4' WordSequence='18' >נְכ֔וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='4' WordSequence='19' >וַיְבִיאֵ֖הוּ</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='4' WordSequence='20' IsParashaPtuchah='true' >מִצְרָֽיְמָה</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='5' WordSequence='1' >בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='36' Verse='4' WordSequence='20'>מִצְרָֽיְמָה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='36' Verse='5' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='5' WordSequence='2' >עֶשְׂרִ֨ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='5' WordSequence='3' >וְחָמֵ֤שׁ</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='5' WordSequence='4' >שָׁנָה֙</Word>
@@ -13088,8 +13088,8 @@
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='8' WordSequence='16' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='8' WordSequence='17' >יְהוֹיָכִ֥ין</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='8' WordSequence='18' >בְּנ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='8' WordSequence='19' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='9' WordSequence='1' >בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='36' Verse='8' WordSequence='19'>תַּחְתָּֽיו</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='36' Verse='9' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='9' WordSequence='2' >שְׁמוֹנֶ֤ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='9' WordSequence='3' >שָׁנִים֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='9' WordSequence='4' >יְהוֹיָכִ֣ין</Word>
@@ -13122,8 +13122,8 @@
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='10' WordSequence='16' >אָחִ֔יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='10' WordSequence='17' >עַל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='10' WordSequence='18' >יְהוּדָ֖ה</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='10' WordSequence='19' IsParashaPtuchah='true' >וִֽירוּשָׁלִָֽם</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='11' WordSequence='1' >בֶּן־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='36' Verse='10' WordSequence='19'>וִֽירוּשָׁלִָֽם</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='36' Verse='11' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='11' WordSequence='2' >עֶשְׂרִ֧ים</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='11' WordSequence='3' >וְאַחַ֛ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='11' WordSequence='4' >שָׁנָ֖ה</Word>
@@ -13264,8 +13264,8 @@
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='19' WordSequence='13' >וְכָל־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='19' WordSequence='14' >כְּלֵ֥י</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='19' WordSequence='15' >מַחֲמַדֶּ֖יהָ</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='19' WordSequence='16' >לְהַשְׁחִֽית</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='20' WordSequence='1' >וַיֶּ֛גֶל</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='36' Verse='19' WordSequence='16' >לְהַשְׁחִֽית</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='36' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיֶּ֛גֶל</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='20' WordSequence='2' >הַשְּׁאֵרִ֥ית</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='20' WordSequence='3' >מִן־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='20' WordSequence='4' >הַחֶ֖רֶב</Word>
@@ -13295,8 +13295,8 @@
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='21' WordSequence='14' >שָׁבָ֔תָה</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='21' WordSequence='15' >לְמַלֹּ֖אות</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='21' WordSequence='16' >שִׁבְעִ֥ים</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='21' WordSequence='17' IsParashaPtuchah='true' >שָׁנָֽה</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='22' WordSequence='1' >וּבִשְׁנַ֣ת</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='36' Verse='21' WordSequence='17'>שָׁנָֽה</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='36' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וּבִשְׁנַ֣ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='22' WordSequence='2' >אַחַ֗ת</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='22' WordSequence='3' >לְכ֙וֹרֶשׁ֙</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='22' WordSequence='4' >מֶ֣לֶךְ</Word>
@@ -13319,8 +13319,8 @@
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='22' WordSequence='21' >מַלְכוּת֔וֹ</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='22' WordSequence='22' >וְגַם־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='22' WordSequence='23' >בְּמִכְתָּ֖ב</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='22' WordSequence='24' >לֵאמֹֽר</Word>
-<Word Book='DivreiHaYamimB' Chapter='36' Verse='23' WordSequence='1' >כֹּה־</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='36' Verse='22' WordSequence='24' >לֵאמֹֽר</Word>
+<Word Book='DivreiHaYamimB' StartParashaBeforeWord='true' Chapter='36' Verse='23' WordSequence='1' IsParashaPtuchah='true' >כֹּה־</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='23' WordSequence='2' >אָמַ֞ר</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='23' WordSequence='3' >כּ֣וֹרֶשׁ׀</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='23' WordSequence='4' >מֶ֣לֶךְ</Word>
@@ -13349,5 +13349,5 @@
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='23' WordSequence='27' >יְהוָ֧ה</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='23' WordSequence='28' >אֱלֹהָ֛יו</Word>
 <Word Book='DivreiHaYamimB' Chapter='36' Verse='23' WordSequence='29' >עִמּ֖וֹ</Word>
-<Word Book='DivreiHaYamimB' EndPerekAfterWord='true' Chapter='36' Verse='23' WordSequence='30' >וְיָֽעַל</Word>
+<Word Book='DivreiHaYamimB' EndParashaAfterWord='true' Chapter='36' Verse='23' WordSequence='30'>וְיָֽעַל</Word>
 </Tanakh>

@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Yoel' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דְּבַר־</Word>
+<Word Book='Yoel' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דְּבַר־</Word>
 <Word Book='Yoel' Chapter='1' Verse='1' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Yoel' Chapter='1' Verse='1' WordSequence='3' >אֲשֶׁ֣ר</Word>
 <Word Book='Yoel' Chapter='1' Verse='1' WordSequence='4' >הָיָ֔ה</Word>
@@ -132,8 +132,8 @@
 <Word Book='Yoel' Chapter='1' Verse='12' WordSequence='15' >שָׂשׂ֖וֹן</Word>
 <Word Book='Yoel' Chapter='1' Verse='12' WordSequence='16' >מִן־</Word>
 <Word Book='Yoel' Chapter='1' Verse='12' WordSequence='17' >בְּנֵ֥י</Word>
-<Word Book='Yoel' Chapter='1' Verse='12' WordSequence='18' >אָדָֽם</Word>
-<Word Book='Yoel' Chapter='1' Verse='13' WordSequence='1' >חִגְר֨וּ</Word>
+<Word Book='Yoel' EndParashaAfterWord='true' Chapter='1' Verse='12' WordSequence='18' >אָדָֽם</Word>
+<Word Book='Yoel' StartParashaBeforeWord='true' Chapter='1' Verse='13' WordSequence='1' IsParashaPtuchah='true' >חִגְר֨וּ</Word>
 <Word Book='Yoel' Chapter='1' Verse='13' WordSequence='2' >וְסִפְד֜וּ</Word>
 <Word Book='Yoel' Chapter='1' Verse='13' WordSequence='3' >הַכֹּהֲנִ֗ים</Word>
 <Word Book='Yoel' Chapter='1' Verse='13' WordSequence='4' >הֵילִ֙ילוּ֙</Word>
@@ -233,8 +233,8 @@
 <Word Book='Yoel' Chapter='1' Verse='20' WordSequence='10' >וְאֵ֕שׁ</Word>
 <Word Book='Yoel' Chapter='1' Verse='20' WordSequence='11' >אָכְלָ֖ה</Word>
 <Word Book='Yoel' Chapter='1' Verse='20' WordSequence='12' >נְא֥וֹת</Word>
-<Word Book='Yoel' EndPerekAfterWord='true' Chapter='1' Verse='20' WordSequence='13' IsParashaPtuchah='true' >הַמִּדְבָּֽר</Word>
-<Word Book='Yoel' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>תִּקְע֨וּ</Word>
+<Word Book='Yoel' EndParashaAfterWord='true' Chapter='1' Verse='20' WordSequence='13'>הַמִּדְבָּֽר</Word>
+<Word Book='Yoel' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >תִּקְע֨וּ</Word>
 <Word Book='Yoel' Chapter='2' Verse='1' WordSequence='2' >שׁוֹפָ֜ר</Word>
 <Word Book='Yoel' Chapter='2' Verse='1' WordSequence='3' >בְּצִיּ֗וֹן</Word>
 <Word Book='Yoel' Chapter='2' Verse='1' WordSequence='4' >וְהָרִ֙יעוּ֙</Word>
@@ -427,8 +427,8 @@
 <Word Book='Yoel' Chapter='2' Verse='14' WordSequence='8' >מִנְחָ֣ה</Word>
 <Word Book='Yoel' Chapter='2' Verse='14' WordSequence='9' >וָנֶ֔סֶךְ</Word>
 <Word Book='Yoel' Chapter='2' Verse='14' WordSequence='10' >לַיהוָ֖ה</Word>
-<Word Book='Yoel' Chapter='2' Verse='14' WordSequence='11' IsParashaPtuchah='true' >אֱלֹהֵיכֶֽם</Word>
-<Word Book='Yoel' Chapter='2' Verse='15' WordSequence='1' >תִּקְע֥וּ</Word>
+<Word Book='Yoel' EndParashaAfterWord='true' Chapter='2' Verse='14' WordSequence='11'>אֱלֹהֵיכֶֽם</Word>
+<Word Book='Yoel' StartParashaBeforeWord='true' Chapter='2' Verse='15' WordSequence='1' IsParashaPtuchah='true' >תִּקְע֥וּ</Word>
 <Word Book='Yoel' Chapter='2' Verse='15' WordSequence='2' >שׁוֹפָ֖ר</Word>
 <Word Book='Yoel' Chapter='2' Verse='15' WordSequence='3' >בְּצִיּ֑וֹן</Word>
 <Word Book='Yoel' Chapter='2' Verse='15' WordSequence='4' >קַדְּשׁוּ־</Word>
@@ -618,8 +618,8 @@
 <Word Book='Yoel' Chapter='2' Verse='27' WordSequence='11' >וְלֹא־</Word>
 <Word Book='Yoel' Chapter='2' Verse='27' WordSequence='12' >יֵבֹ֥שׁוּ</Word>
 <Word Book='Yoel' Chapter='2' Verse='27' WordSequence='13' >עַמִּ֖י</Word>
-<Word Book='Yoel' EndPerekAfterWord='true' Chapter='2' Verse='27' WordSequence='14' IsParashaPtuchah='true' >לְעוֹלָֽם</Word>
-<Word Book='Yoel' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וְהָיָ֣ה</Word>
+<Word Book='Yoel' EndParashaAfterWord='true' Chapter='2' Verse='27' WordSequence='14' >לְעוֹלָֽם</Word>
+<Word Book='Yoel' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֣ה</Word>
 <Word Book='Yoel' Chapter='3' Verse='1' WordSequence='2' >אַֽחֲרֵי־</Word>
 <Word Book='Yoel' Chapter='3' Verse='1' WordSequence='3' >כֵ֗ן</Word>
 <Word Book='Yoel' Chapter='3' Verse='1' WordSequence='4' >אֶשְׁפּ֤וֹךְ</Word>
@@ -685,8 +685,8 @@
 <Word Book='Yoel' Chapter='3' Verse='5' WordSequence='17' >וּבַ֨שְּׂרִידִ֔ים</Word>
 <Word Book='Yoel' Chapter='3' Verse='5' WordSequence='18' >אֲשֶׁ֥ר</Word>
 <Word Book='Yoel' Chapter='3' Verse='5' WordSequence='19' >יְהוָ֖ה</Word>
-<Word Book='Yoel' EndPerekAfterWord='true' Chapter='3' Verse='5' WordSequence='20' >קֹרֵֽא</Word>
-<Word Book='Yoel' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>כִּ֗י</Word>
+<Word Book='Yoel' EndParashaAfterWord='true' Chapter='3' Verse='5' WordSequence='20'>קֹרֵֽא</Word>
+<Word Book='Yoel' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>כִּ֗י</Word>
 <Word Book='Yoel' Chapter='4' Verse='1' WordSequence='2' >הִנֵּ֛ה</Word>
 <Word Book='Yoel' Chapter='4' Verse='1' WordSequence='3' >בַּיָּמִ֥ים</Word>
 <Word Book='Yoel' Chapter='4' Verse='1' WordSequence='4' >הָהֵ֖מָּה</Word>
@@ -798,8 +798,8 @@
 <Word Book='Yoel' Chapter='4' Verse='8' WordSequence='13' >רָח֑וֹק</Word>
 <Word Book='Yoel' Chapter='4' Verse='8' WordSequence='14' >כִּ֥י</Word>
 <Word Book='Yoel' Chapter='4' Verse='8' WordSequence='15' >יְהוָ֖ה</Word>
-<Word Book='Yoel' Chapter='4' Verse='8' WordSequence='16' >דִּבֵּֽר</Word>
-<Word Book='Yoel' Chapter='4' Verse='9' WordSequence='1' >קִרְאוּ־</Word>
+<Word Book='Yoel' EndParashaAfterWord='true' Chapter='4' Verse='8' WordSequence='16' >דִּבֵּֽר</Word>
+<Word Book='Yoel' StartParashaBeforeWord='true' Chapter='4' Verse='9' WordSequence='1' IsParashaPtuchah='true' >קִרְאוּ־</Word>
 <Word Book='Yoel' Chapter='4' Verse='9' WordSequence='2' >זֹאת֙</Word>
 <Word Book='Yoel' Chapter='4' Verse='9' WordSequence='3' >בַּגּוֹיִ֔ם</Word>
 <Word Book='Yoel' Chapter='4' Verse='9' WordSequence='4' >קַדְּשׁ֖וּ</Word>
@@ -906,8 +906,8 @@
 <Word Book='Yoel' Chapter='4' Verse='17' WordSequence='14' >לֹא־</Word>
 <Word Book='Yoel' Chapter='4' Verse='17' WordSequence='15' >יַֽעַבְרוּ־</Word>
 <Word Book='Yoel' Chapter='4' Verse='17' WordSequence='16' >בָ֖הּ</Word>
-<Word Book='Yoel' Chapter='4' Verse='17' WordSequence='17' >עֽוֹד</Word>
-<Word Book='Yoel' Chapter='4' Verse='18' WordSequence='1' >וְהָיָה֩</Word>
+<Word Book='Yoel' EndParashaAfterWord='true' Chapter='4' Verse='17' WordSequence='17' >עֽוֹד</Word>
+<Word Book='Yoel' StartParashaBeforeWord='true' Chapter='4' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וְהָיָה֩</Word>
 <Word Book='Yoel' Chapter='4' Verse='18' WordSequence='2' >בַיּ֨וֹם</Word>
 <Word Book='Yoel' Chapter='4' Verse='18' WordSequence='3' >הַה֜וּא</Word>
 <Word Book='Yoel' Chapter='4' Verse='18' WordSequence='4' >יִטְּפ֧וּ</Word>
@@ -956,5 +956,5 @@
 <Word Book='Yoel' Chapter='4' Verse='21' WordSequence='4' >נִקֵּ֑יתִי</Word>
 <Word Book='Yoel' Chapter='4' Verse='21' WordSequence='5' >וַֽיהוָ֖ה</Word>
 <Word Book='Yoel' Chapter='4' Verse='21' WordSequence='6' >שֹׁכֵ֥ן</Word>
-<Word Book='Yoel' EndPerekAfterWord='true' Chapter='4' Verse='21' WordSequence='7' >בְּצִיּֽוֹן</Word>
+<Word Book='Yoel' EndParashaAfterWord='true' Chapter='4' Verse='21' WordSequence='7'>בְּצִיּֽוֹן</Word>
 </Tanakh>

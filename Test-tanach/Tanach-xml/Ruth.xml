@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Ruth' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='Ruth' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
 <Word Book='Ruth' Chapter='1' Verse='1' WordSequence='2' >בִּימֵי֙</Word>
 <Word Book='Ruth' Chapter='1' Verse='1' WordSequence='3' >שְׁפֹ֣ט</Word>
 <Word Book='Ruth' Chapter='1' Verse='1' WordSequence='4' >הַשֹּׁפְטִ֔ים</Word>
@@ -324,8 +324,8 @@
 <Word Book='Ruth' Chapter='1' Verse='22' WordSequence='13' >לֶ֔חֶם</Word>
 <Word Book='Ruth' Chapter='1' Verse='22' WordSequence='14' >בִּתְחִלַּ֖ת</Word>
 <Word Book='Ruth' Chapter='1' Verse='22' WordSequence='15' >קְצִ֥יר</Word>
-<Word Book='Ruth' EndPerekAfterWord='true' Chapter='1' Verse='22' WordSequence='16' >שְׂעֹרִֽים</Word>
-<Word Book='Ruth' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וּֽלְנָעֳמִ֞י</Word>
+<Word Book='Ruth' EndParashaAfterWord='true' Chapter='1' Verse='22' WordSequence='16'>שְׂעֹרִֽים</Word>
+<Word Book='Ruth' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וּֽלְנָעֳמִ֞י</Word>
 <Word Book='Ruth' Chapter='2' Verse='1' WordSequence='2' >מידע</Word>
 <Word Book='Ruth' Chapter='2' Verse='1' WordSequence='3' >[מוֹדַ֣ע]</Word>
 <Word Book='Ruth' Chapter='2' Verse='1' WordSequence='4' >לְאִישָׁ֗הּ</Word>
@@ -703,8 +703,8 @@
 <Word Book='Ruth' Chapter='2' Verse='23' WordSequence='10' >הַֽחִטִּ֑ים</Word>
 <Word Book='Ruth' Chapter='2' Verse='23' WordSequence='11' >וַתֵּ֖שֶׁב</Word>
 <Word Book='Ruth' Chapter='2' Verse='23' WordSequence='12' >אֶת־</Word>
-<Word Book='Ruth' EndPerekAfterWord='true' Chapter='2' Verse='23' WordSequence='13' >חֲמוֹתָֽהּ</Word>
-<Word Book='Ruth' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַתֹּ֥אמֶר</Word>
+<Word Book='Ruth' EndParashaAfterWord='true' Chapter='2' Verse='23' WordSequence='13'>חֲמוֹתָֽהּ</Word>
+<Word Book='Ruth' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַתֹּ֥אמֶר</Word>
 <Word Book='Ruth' Chapter='3' Verse='1' WordSequence='2' >לָ֖הּ</Word>
 <Word Book='Ruth' Chapter='3' Verse='1' WordSequence='3' >נָעֳמִ֣י</Word>
 <Word Book='Ruth' Chapter='3' Verse='1' WordSequence='4' >חֲמוֹתָ֑הּ</Word>
@@ -966,8 +966,8 @@
 <Word Book='Ruth' Chapter='3' Verse='18' WordSequence='15' >אִם־</Word>
 <Word Book='Ruth' Chapter='3' Verse='18' WordSequence='16' >כִּלָּ֥ה</Word>
 <Word Book='Ruth' Chapter='3' Verse='18' WordSequence='17' >הַדָּבָ֖ר</Word>
-<Word Book='Ruth' EndPerekAfterWord='true' Chapter='3' Verse='18' WordSequence='18' >הַיּֽוֹם</Word>
-<Word Book='Ruth' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וּבֹ֨עַז</Word>
+<Word Book='Ruth' EndParashaAfterWord='true' Chapter='3' Verse='18' WordSequence='18'>הַיּֽוֹם</Word>
+<Word Book='Ruth' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וּבֹ֨עַז</Word>
 <Word Book='Ruth' Chapter='4' Verse='1' WordSequence='2' >עָלָ֣ה</Word>
 <Word Book='Ruth' Chapter='4' Verse='1' WordSequence='3' >הַשַּׁעַר֮</Word>
 <Word Book='Ruth' Chapter='4' Verse='1' WordSequence='4' >וַיֵּ֣שֶׁב</Word>
@@ -1266,8 +1266,8 @@
 <Word Book='Ruth' Chapter='4' Verse='17' WordSequence='13' >אֲבִי־</Word>
 <Word Book='Ruth' Chapter='4' Verse='17' WordSequence='14' >יִשַׁ֖י</Word>
 <Word Book='Ruth' Chapter='4' Verse='17' WordSequence='15' >אֲבִ֥י</Word>
-<Word Book='Ruth' Chapter='4' Verse='17' WordSequence='16' IsParashaPtuchah='true' >דָוִֽד</Word>
-<Word Book='Ruth' Chapter='4' Verse='18' WordSequence='1' >וְאֵ֙לֶּה֙</Word>
+<Word Book='Ruth' EndParashaAfterWord='true' Chapter='4' Verse='17' WordSequence='16'>דָוִֽד</Word>
+<Word Book='Ruth' StartParashaBeforeWord='true' Chapter='4' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֙לֶּה֙</Word>
 <Word Book='Ruth' Chapter='4' Verse='18' WordSequence='2' >תּוֹלְד֣וֹת</Word>
 <Word Book='Ruth' Chapter='4' Verse='18' WordSequence='3' >פָּ֔רֶץ</Word>
 <Word Book='Ruth' Chapter='4' Verse='18' WordSequence='4' >פֶּ֖רֶץ</Word>
@@ -1305,5 +1305,5 @@
 <Word Book='Ruth' Chapter='4' Verse='22' WordSequence='5' >וְיִשַׁ֖י</Word>
 <Word Book='Ruth' Chapter='4' Verse='22' WordSequence='6' >הוֹלִ֥יד</Word>
 <Word Book='Ruth' Chapter='4' Verse='22' WordSequence='7' >אֶת־</Word>
-<Word Book='Ruth' EndPerekAfterWord='true' Chapter='4' Verse='22' WordSequence='8' >דָּוִֽד</Word>
+<Word Book='Ruth' EndParashaAfterWord='true' Chapter='4' Verse='22' WordSequence='8'>דָּוִֽד</Word>
 </Tanakh>

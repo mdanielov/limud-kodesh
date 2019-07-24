@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְדַבֵּ֨ר</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְדַבֵּ֨ר</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='1' WordSequence='2' >יְהוָ֧ה</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='1' WordSequence='4' >מֹשֶׁ֛ה</Word>
@@ -156,8 +156,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='19' WordSequence='5' >מֹשֶׁ֑ה</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='19' WordSequence='6' >וַֽיִּפְקְדֵ֖ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='19' WordSequence='7' >בְּמִדְבַּ֥ר</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='19' WordSequence='8' IsParashaPtuchah='true' >סִינָֽי</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='20' WordSequence='1' >וַיִּהְי֤וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='19' WordSequence='8'>סִינָֽי</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיִּהְי֤וּ</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='20' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='20' WordSequence='3' >רְאוּבֵן֙</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='20' WordSequence='4' >בְּכֹ֣ר</Word>
@@ -185,8 +185,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='21' WordSequence='5' >וְאַרְבָּעִ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='21' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='21' WordSequence='7' >וַחֲמֵ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='21' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='22' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='21' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='22' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='22' WordSequence='2' >שִׁמְע֔וֹן</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='22' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='22' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -212,8 +212,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='23' WordSequence='5' >וַחֲמִשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='23' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='23' WordSequence='7' >וּשְׁלֹ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='23' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='24' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='23' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='24' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='24' WordSequence='2' >גָ֔ד</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='24' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='24' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -236,8 +236,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='25' WordSequence='6' >אֶ֔לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='25' WordSequence='7' >וְשֵׁ֥שׁ</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='25' WordSequence='8' >מֵא֖וֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='25' WordSequence='9' IsParashaPtuchah='true' >וַחֲמִשִּֽׁים</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='26' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='25' WordSequence='9'>וַחֲמִשִּֽׁים</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='26' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='26' WordSequence='2' >יְהוּדָ֔ה</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='26' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='26' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -259,8 +259,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='27' WordSequence='5' >וְשִׁבְעִ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='27' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='27' WordSequence='7' >וְשֵׁ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='27' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='28' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='27' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='28' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='28' WordSequence='2' >יִשָּׂשכָ֔ר</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='28' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='28' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -282,8 +282,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='29' WordSequence='5' >וַחֲמִשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='29' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='29' WordSequence='7' >וְאַרְבַּ֥ע</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='29' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='30' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='29' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='30' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='30' WordSequence='2' >זְבוּלֻ֔ן</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='30' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='30' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -305,8 +305,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='31' WordSequence='5' >וַחֲמִשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='31' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='31' WordSequence='7' >וְאַרְבַּ֥ע</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='31' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='32' WordSequence='1' >לִבְנֵ֤י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='31' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='32' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֤י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='32' WordSequence='2' >יוֹסֵף֙</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='32' WordSequence='3' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='32' WordSequence='4' >אֶפְרַ֔יִם</Word>
@@ -329,8 +329,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='33' WordSequence='4' >אַרְבָּעִ֥ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='33' WordSequence='5' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='33' WordSequence='6' >וַחֲמֵ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='33' WordSequence='7' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='34' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='33' WordSequence='7'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='34' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='34' WordSequence='2' >מְנַשֶּׁ֔ה</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='34' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='34' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -351,8 +351,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='35' WordSequence='4' >שְׁנַ֧יִם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='35' WordSequence='5' >וּשְׁלֹשִׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='35' WordSequence='6' >אֶ֖לֶף</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='35' WordSequence='7' IsParashaPtuchah='true' >וּמָאתָֽיִם</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='36' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='35' WordSequence='7'>וּמָאתָֽיִם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='36' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='36' WordSequence='2' >בִנְיָמִ֔ן</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='36' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='36' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -374,8 +374,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='37' WordSequence='5' >וּשְׁלֹשִׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='37' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='37' WordSequence='7' >וְאַרְבַּ֥ע</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='37' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='38' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='37' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='38' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='38' WordSequence='2' >דָ֔ן</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='38' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='38' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -397,8 +397,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='39' WordSequence='5' >וְשִׁשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='39' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='39' WordSequence='7' >וּשְׁבַ֥ע</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='39' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='40' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='39' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='40' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='40' WordSequence='2' >אָשֵׁ֔ר</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='40' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='40' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -420,8 +420,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='41' WordSequence='5' >וְאַרְבָּעִ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='41' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='41' WordSequence='7' >וַחֲמֵ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='41' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='42' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='41' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='42' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='42' WordSequence='2' >נַפְתָּלִ֔י</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='42' WordSequence='3' >תּוֹלְדֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='42' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
@@ -443,8 +443,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='43' WordSequence='5' >וַחֲמִשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='43' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='43' WordSequence='7' >וְאַרְבַּ֥ע</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='43' WordSequence='8' IsParashaPtuchah='true' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='44' WordSequence='1' >אֵ֣לֶּה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='43' WordSequence='8'>מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='44' WordSequence='1' IsParashaPtuchah='true' >אֵ֣לֶּה</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='44' WordSequence='2' >הַפְּקֻדִ֡ים</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='44' WordSequence='3' >אֲשֶׁר֩</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='44' WordSequence='4' >פָּקַ֨ד</Word>
@@ -491,8 +491,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='47' WordSequence='3' >אֲבֹתָ֑ם</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='47' WordSequence='4' >לֹ֥א</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='47' WordSequence='5' >הָתְפָּקְד֖וּ</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='47' WordSequence='6' IsParashaPtuchah='true' >בְּתוֹכָֽם</Word>
-<Word Book='Bamidbar' Chapter='1' Verse='48' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='47' WordSequence='6'>בְּתוֹכָֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='1' Verse='48' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='48' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='48' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='48' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -587,8 +587,8 @@
 <Word Book='Bamidbar' Chapter='1' Verse='54' WordSequence='8' >אֶת־</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='54' WordSequence='9' >מֹשֶׁ֖ה</Word>
 <Word Book='Bamidbar' Chapter='1' Verse='54' WordSequence='10' >כֵּ֥ן</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='1' Verse='54' WordSequence='11' IsParashaPtuchah='true' >עָשֽׂוּ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='1' Verse='54' WordSequence='11'>עָשֽׂוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='1' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -645,8 +645,8 @@
 <Word Book='Bamidbar' Chapter='2' Verse='6' WordSequence='4' >וַחֲמִשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='6' WordSequence='5' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='6' WordSequence='6' >וְאַרְבַּ֥ע</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='6' WordSequence='7' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='7' WordSequence='1' >מַטֵּ֖ה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='2' Verse='6' WordSequence='7' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='2' Verse='7' WordSequence='1' IsParashaPtuchah='true' >מַטֵּ֖ה</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='7' WordSequence='2' >זְבוּלֻ֑ן</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='7' WordSequence='3' >וְנָשִׂיא֙</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='7' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -675,8 +675,8 @@
 <Word Book='Bamidbar' Chapter='2' Verse='9' WordSequence='12' >מֵא֖וֹת</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='9' WordSequence='13' >לְצִבְאֹתָ֑ם</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='9' WordSequence='14' >רִאשֹׁנָ֖ה</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='9' WordSequence='15' >יִסָּֽעוּ</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='10' WordSequence='1' >דֶּ֣גֶל</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='2' Verse='9' WordSequence='15' >יִסָּֽעוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='2' Verse='10' WordSequence='1' IsParashaPtuchah='true' >דֶּ֣גֶל</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='10' WordSequence='2' >מַחֲנֵ֧ה</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='10' WordSequence='3' >רְאוּבֵ֛ן</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='10' WordSequence='4' >תֵּימָ֖נָה</Word>
@@ -742,8 +742,8 @@
 <Word Book='Bamidbar' Chapter='2' Verse='16' WordSequence='12' >וַחֲמִשִּׁ֖ים</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='16' WordSequence='13' >לְצִבְאֹתָ֑ם</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='16' WordSequence='14' >וּשְׁנִיִּ֖ם</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='16' WordSequence='15' >יִסָּֽעוּ</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='17' WordSequence='1' >וְנָסַ֧ע</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='2' Verse='16' WordSequence='15' >יִסָּֽעוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='2' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וְנָסַ֧ע</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='17' WordSequence='2' >אֹֽהֶל־</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='17' WordSequence='3' >מוֹעֵ֛ד</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='17' WordSequence='4' >מַחֲנֵ֥ה</Word>
@@ -757,8 +757,8 @@
 <Word Book='Bamidbar' Chapter='2' Verse='17' WordSequence='12' >אִ֥ישׁ</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='17' WordSequence='13' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='17' WordSequence='14' >יָד֖וֹ</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='17' WordSequence='15' >לְדִגְלֵיהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='18' WordSequence='1' >דֶּ֣גֶל</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='2' Verse='17' WordSequence='15' >לְדִגְלֵיהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='2' Verse='18' WordSequence='1' IsParashaPtuchah='true' >דֶּ֣גֶל</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='18' WordSequence='2' >מַחֲנֵ֥ה</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='18' WordSequence='3' >אֶפְרַ֛יִם</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='18' WordSequence='4' >לְצִבְאֹתָ֖ם</Word>
@@ -816,8 +816,8 @@
 <Word Book='Bamidbar' Chapter='2' Verse='24' WordSequence='9' >וּמֵאָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='24' WordSequence='10' >לְצִבְאֹתָ֑ם</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='24' WordSequence='11' >וּשְׁלִשִׁ֖ים</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='24' WordSequence='12' >יִסָּֽעוּ</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='25' WordSequence='1' >דֶּ֣גֶל</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='2' Verse='24' WordSequence='12' >יִסָּֽעוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='2' Verse='25' WordSequence='1' IsParashaPtuchah='true' >דֶּ֣גֶל</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='25' WordSequence='2' >מַחֲנֵ֥ה</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='25' WordSequence='3' >דָ֛ן</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='25' WordSequence='4' >צָפֹ֖נָה</Word>
@@ -880,8 +880,8 @@
 <Word Book='Bamidbar' Chapter='2' Verse='31' WordSequence='11' >מֵא֑וֹת</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='31' WordSequence='12' >לָאַחֲרֹנָ֥ה</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='31' WordSequence='13' >יִסְע֖וּ</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='31' WordSequence='14' IsParashaPtuchah='true' >לְדִגְלֵיהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='2' Verse='32' WordSequence='1' >אֵ֛לֶּה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='2' Verse='31' WordSequence='14'>לְדִגְלֵיהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='2' Verse='32' WordSequence='1' IsParashaPtuchah='true' >אֵ֛לֶּה</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='32' WordSequence='2' >פְּקוּדֵ֥י</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='32' WordSequence='3' >בְנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='32' WordSequence='4' >יִשְׂרָאֵ֖ל</Word>
@@ -928,8 +928,8 @@
 <Word Book='Bamidbar' Chapter='2' Verse='34' WordSequence='16' >לְמִשְׁפְּחֹתָ֖יו</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='34' WordSequence='17' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='2' Verse='34' WordSequence='18' >בֵּ֥ית</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='2' Verse='34' WordSequence='19' >אֲבֹתָֽיו</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וְאֵ֛לֶּה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='2' Verse='34' WordSequence='19'>אֲבֹתָֽיו</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וְאֵ֛לֶּה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='1' WordSequence='2' >תּוֹלְדֹ֥ת</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='1' WordSequence='3' >אַהֲרֹ֖ן</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='1' WordSequence='4' >וּמֹשֶׁ֑ה</Word>
@@ -981,8 +981,8 @@
 <Word Book='Bamidbar' Chapter='3' Verse='4' WordSequence='20' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='4' WordSequence='21' >פְּנֵ֖י</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='4' WordSequence='22' >אַהֲרֹ֥ן</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='4' WordSequence='23' IsParashaPtuchah='true' >אֲבִיהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='5' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='3' Verse='4' WordSequence='23'>אֲבִיהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='3' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='5' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='5' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='5' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -1048,8 +1048,8 @@
 <Word Book='Bamidbar' Chapter='3' Verse='10' WordSequence='8' >כְּהֻנָּתָ֑ם</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='10' WordSequence='9' >וְהַזָּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='10' WordSequence='10' >הַקָּרֵ֖ב</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='10' WordSequence='11' IsParashaPtuchah='true' >יוּמָֽת</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='11' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='3' Verse='10' WordSequence='11'>יוּמָֽת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='3' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='11' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='11' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='11' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -1093,8 +1093,8 @@
 <Word Book='Bamidbar' Chapter='3' Verse='13' WordSequence='19' >לִ֥י</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='13' WordSequence='20' >יִהְי֖וּ</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='13' WordSequence='21' >אֲנִ֥י</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='13' WordSequence='22' >יְהוָֽה</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='14' WordSequence='1' >וַיְדַבֵּ֤ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='3' Verse='13' WordSequence='22' >יְהוָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='3' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֤ר</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='14' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='14' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='14' WordSequence='4' >מֹשֶׁ֔ה</Word>
@@ -1372,8 +1372,8 @@
 <Word Book='Bamidbar' Chapter='3' Verse='39' WordSequence='16' >וָמַ֔עְלָה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='39' WordSequence='17' >שְׁנַ֥יִם</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='39' WordSequence='18' >וְעֶשְׂרִ֖ים</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='39' WordSequence='19' >אָֽלֶף</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='40' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='3' Verse='39' WordSequence='19' >אָֽלֶף</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='3' Verse='40' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='40' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='40' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='40' WordSequence='4' >מֹשֶׁ֗ה</Word>
@@ -1436,8 +1436,8 @@
 <Word Book='Bamidbar' Chapter='3' Verse='43' WordSequence='13' >אֶ֔לֶף</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='43' WordSequence='14' >שְׁלֹשָׁ֥ה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='43' WordSequence='15' >וְשִׁבְעִ֖ים</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='43' WordSequence='16' IsParashaPtuchah='true' >וּמָאתָֽיִם</Word>
-<Word Book='Bamidbar' Chapter='3' Verse='44' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='3' Verse='43' WordSequence='16'>וּמָאתָֽיִם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='3' Verse='44' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='44' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='44' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='44' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -1527,8 +1527,8 @@
 <Word Book='Bamidbar' Chapter='3' Verse='51' WordSequence='12' >צִוָּ֥ה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='51' WordSequence='13' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='3' Verse='51' WordSequence='14' >אֶת־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='3' Verse='51' WordSequence='15' IsParashaPtuchah='true' >מֹשֶֽׁה</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='3' Verse='51' WordSequence='15'>מֹשֶֽׁה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='1' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -1780,8 +1780,8 @@
 <Word Book='Bamidbar' Chapter='4' Verse='16' WordSequence='18' >אֲשֶׁר־</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='16' WordSequence='19' >בּ֔וֹ</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='16' WordSequence='20' >בְּקֹ֖דֶשׁ</Word>
-<Word Book='Bamidbar' Chapter='4' Verse='16' WordSequence='21' >וּבְכֵלָֽיו</Word>
-<Word Book='Bamidbar' Chapter='4' Verse='17' WordSequence='1' >וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='4' Verse='16' WordSequence='21' >וּבְכֵלָֽיו</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='4' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='17' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='17' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='17' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -1823,8 +1823,8 @@
 <Word Book='Bamidbar' Chapter='4' Verse='20' WordSequence='4' >כְּבַלַּ֥ע</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='20' WordSequence='5' >אֶת־</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='20' WordSequence='6' >הַקֹּ֖דֶשׁ</Word>
-<Word Book='Bamidbar' Chapter='4' Verse='20' WordSequence='7' IsParashaPtuchah='true' >וָמֵֽתוּ</Word>
-<Word Book='Bamidbar' Chapter='4' Verse='21' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='4' Verse='20' WordSequence='7'>וָמֵֽתוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='4' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='21' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='21' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='21' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -1938,8 +1938,8 @@
 <Word Book='Bamidbar' Chapter='4' Verse='28' WordSequence='10' >אִֽיתָמָ֔ר</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='28' WordSequence='11' >בֶּֽן־</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='28' WordSequence='12' >אַהֲרֹ֖ן</Word>
-<Word Book='Bamidbar' Chapter='4' Verse='28' WordSequence='13' IsParashaPtuchah='true' >הַכֹּהֵֽן</Word>
-<Word Book='Bamidbar' Chapter='4' Verse='29' WordSequence='1' >בְּנֵ֖י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='4' Verse='28' WordSequence='13'>הַכֹּהֵֽן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='4' Verse='29' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֖י</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='29' WordSequence='2' >מְרָרִ֑י</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='29' WordSequence='3' >לְמִשְׁפְּחֹתָ֥ם</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='29' WordSequence='4' >לְבֵית־</Word>
@@ -2053,8 +2053,8 @@
 <Word Book='Bamidbar' Chapter='4' Verse='37' WordSequence='14' >פִּ֥י</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='37' WordSequence='15' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='37' WordSequence='16' >בְּיַד־</Word>
-<Word Book='Bamidbar' Chapter='4' Verse='37' WordSequence='17' >מֹשֶֽׁה</Word>
-<Word Book='Bamidbar' Chapter='4' Verse='38' WordSequence='1' >וּפְקוּדֵ֖י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='4' Verse='37' WordSequence='17' >מֹשֶֽׁה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='4' Verse='38' WordSequence='1' IsParashaPtuchah='true' >וּפְקוּדֵ֖י</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='38' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='38' WordSequence='3' >גֵרְשׁ֑וֹן</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='38' WordSequence='4' >לְמִשְׁפְּחוֹתָ֖ם</Word>
@@ -2195,8 +2195,8 @@
 <Word Book='Bamidbar' Chapter='4' Verse='49' WordSequence='16' >צִוָּ֥ה</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='49' WordSequence='17' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='4' Verse='49' WordSequence='18' >אֶת־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='4' Verse='49' WordSequence='19' IsParashaPtuchah='true' >מֹשֶֽׁה</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='4' Verse='49' WordSequence='19'>מֹשֶֽׁה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -2248,8 +2248,8 @@
 <Word Book='Bamidbar' Chapter='5' Verse='4' WordSequence='15' >כֵּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='4' WordSequence='16' >עָשׂ֖וּ</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='4' WordSequence='17' >בְּנֵ֥י</Word>
-<Word Book='Bamidbar' Chapter='5' Verse='4' WordSequence='18' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Bamidbar' Chapter='5' Verse='5' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='5' Verse='4' WordSequence='18'>יִשְׂרָאֵֽל</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='5' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='5' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='5' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='5' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -2327,8 +2327,8 @@
 <Word Book='Bamidbar' Chapter='5' Verse='10' WordSequence='8' >יִתֵּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='10' WordSequence='9' >לַכֹּהֵ֖ן</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='10' WordSequence='10' >ל֥וֹ</Word>
-<Word Book='Bamidbar' Chapter='5' Verse='10' WordSequence='11' IsParashaPtuchah='true' >יִהְיֶֽה</Word>
-<Word Book='Bamidbar' Chapter='5' Verse='11' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='5' Verse='10' WordSequence='11'>יִהְיֶֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='5' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='11' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='11' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='11' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -2657,8 +2657,8 @@
 <Word Book='Bamidbar' Chapter='5' Verse='31' WordSequence='5' >הַהִ֔וא</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='31' WordSequence='6' >תִּשָּׂ֖א</Word>
 <Word Book='Bamidbar' Chapter='5' Verse='31' WordSequence='7' >אֶת־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='5' Verse='31' WordSequence='8' IsParashaPtuchah='true' >עֲוֺנָֽהּ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='5' Verse='31' WordSequence='8'>עֲוֺנָֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -2976,8 +2976,8 @@
 <Word Book='Bamidbar' Chapter='6' Verse='21' WordSequence='19' >יַעֲשֶׂ֔ה</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='21' WordSequence='20' >עַ֖ל</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='21' WordSequence='21' >תּוֹרַ֥ת</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='21' WordSequence='22' IsParashaPtuchah='true' >נִזְרֽוֹ</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='22' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='6' Verse='21' WordSequence='22'>נִזְרֽוֹ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='6' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='22' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='22' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='22' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -2994,31 +2994,31 @@
 <Word Book='Bamidbar' Chapter='6' Verse='23' WordSequence='10' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='23' WordSequence='11' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='23' WordSequence='12' >אָמ֖וֹר</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='23' WordSequence='13' >לָהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='24' WordSequence='1' >יְבָרֶכְךָ֥</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='6' Verse='23' WordSequence='13' >לָהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='6' Verse='24' WordSequence='1' IsParashaPtuchah='true' >יְבָרֶכְךָ֥</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='24' WordSequence='2' >יְהוָ֖ה</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='24' WordSequence='3' >וְיִשְׁמְרֶֽךָ</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='25' WordSequence='1' >יָאֵ֨ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='6' Verse='24' WordSequence='3' >וְיִשְׁמְרֶֽךָ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='6' Verse='25' WordSequence='1' IsParashaPtuchah='true' >יָאֵ֨ר</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='25' WordSequence='2' >יְהוָ֧ה׀</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='25' WordSequence='3' >פָּנָ֛יו</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='25' WordSequence='4' >אֵלֶ֖יךָ</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='25' WordSequence='5' >וִֽיחֻנֶּֽךָּ</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='26' WordSequence='1' >יִשָּׂ֨א</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='6' Verse='25' WordSequence='5' >וִֽיחֻנֶּֽךָּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='6' Verse='26' WordSequence='1' IsParashaPtuchah='true' >יִשָּׂ֨א</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='26' WordSequence='2' >יְהוָ֤ה׀</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='26' WordSequence='3' >פָּנָיו֙</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='26' WordSequence='4' >אֵלֶ֔יךָ</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='26' WordSequence='5' >וְיָשֵׂ֥ם</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='26' WordSequence='6' >לְךָ֖</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='26' WordSequence='7' >שָׁלֽוֹם</Word>
-<Word Book='Bamidbar' Chapter='6' Verse='27' WordSequence='1' >וְשָׂמ֥וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='6' Verse='26' WordSequence='7' >שָׁלֽוֹם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='6' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וְשָׂמ֥וּ</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='27' WordSequence='2' >אֶת־</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='27' WordSequence='3' >שְׁמִ֖י</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='27' WordSequence='4' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='27' WordSequence='5' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='27' WordSequence='6' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='Bamidbar' Chapter='6' Verse='27' WordSequence='7' >וַאֲנִ֖י</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='6' Verse='27' WordSequence='8' IsParashaPtuchah='true' >אֲבָרֲכֵֽם</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיְהִ֡י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='6' Verse='27' WordSequence='8'>אֲבָרֲכֵֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֡י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='1' WordSequence='2' >בְּיוֹם֩</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='1' WordSequence='3' >כַּלּ֨וֹת</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='1' WordSequence='4' >מֹשֶׁ֜ה</Word>
@@ -3169,8 +3169,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='11' WordSequence='12' >אֶת־</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='11' WordSequence='13' >קָרְבָּנָ֔ם</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='11' WordSequence='14' >לַחֲנֻכַּ֖ת</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='11' WordSequence='15' >הַמִּזְבֵּֽחַ</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='12' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='11' WordSequence='15' >הַמִּזְבֵּֽחַ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='12' WordSequence='2' >הַמַּקְרִ֛יב</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='12' WordSequence='3' >בַּיּ֥וֹם</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='12' WordSequence='4' >הָרִאשׁ֖וֹן</Word>
@@ -3238,8 +3238,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='17' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='17' WordSequence='15' >נַחְשׁ֖וֹן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='17' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='17' WordSequence='17' IsParashaPtuchah='true' >עַמִּינָדָֽב</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='18' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='17' WordSequence='17'>עַמִּינָדָֽב</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='18' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='18' WordSequence='2' >הַשֵּׁנִ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='18' WordSequence='3' >הִקְרִ֖יב</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='18' WordSequence='4' >נְתַנְאֵ֣ל</Word>
@@ -3306,8 +3306,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='23' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='23' WordSequence='15' >נְתַנְאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='23' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='23' WordSequence='17' IsParashaPtuchah='true' >צוּעָֽר</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='24' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='23' WordSequence='17'>צוּעָֽר</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='24' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='24' WordSequence='2' >הַשְּׁלִישִׁ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='24' WordSequence='3' >נָשִׂ֖יא</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='24' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -3372,8 +3372,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='29' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='29' WordSequence='15' >אֱלִיאָ֖ב</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='29' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='29' WordSequence='17' IsParashaPtuchah='true' >חֵלֹֽן</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='30' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='29' WordSequence='17'>חֵלֹֽן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='30' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='30' WordSequence='2' >הָרְבִיעִ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='30' WordSequence='3' >נָשִׂ֖יא</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='30' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -3438,8 +3438,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='35' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='35' WordSequence='15' >אֱלִיצ֖וּר</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='35' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='35' WordSequence='17' IsParashaPtuchah='true' >שְׁדֵיאֽוּר</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='36' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='35' WordSequence='17'>שְׁדֵיאֽוּר</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='36' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='36' WordSequence='2' >הַחֲמִישִׁ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='36' WordSequence='3' >נָשִׂ֖יא</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='36' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -3504,8 +3504,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='41' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='41' WordSequence='15' >שְׁלֻמִיאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='41' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='41' WordSequence='17' IsParashaPtuchah='true' >צוּרִֽישַׁדָּֽי</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='42' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='41' WordSequence='17'>צוּרִֽישַׁדָּֽי</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='42' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='42' WordSequence='2' >הַשִּׁשִּׁ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='42' WordSequence='3' >נָשִׂ֖יא</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='42' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -3570,8 +3570,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='47' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='47' WordSequence='15' >אֶלְיָסָ֖ף</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='47' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='47' WordSequence='17' IsParashaPtuchah='true' >דְּעוּאֵֽל</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='48' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='47' WordSequence='17'>דְּעוּאֵֽל</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='48' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='48' WordSequence='2' >הַשְּׁבִיעִ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='48' WordSequence='3' >נָשִׂ֖יא</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='48' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -3636,8 +3636,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='53' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='53' WordSequence='15' >אֱלִישָׁמָ֖ע</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='53' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='53' WordSequence='17' IsParashaPtuchah='true' >עַמִּיהֽוּד</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='54' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='53' WordSequence='17'>עַמִּיהֽוּד</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='54' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='54' WordSequence='2' >הַשְּׁמִינִ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='54' WordSequence='3' >נָשִׂ֖יא</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='54' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -3704,8 +3704,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='59' WordSequence='15' >גַּמְלִיאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='59' WordSequence='16' >בֶּן־</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='59' WordSequence='17' >פְּדָה</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='59' WordSequence='18' IsParashaPtuchah='true' >צֽוּר</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='60' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='59' WordSequence='18'>צֽוּר</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='60' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='60' WordSequence='2' >הַתְּשִׁיעִ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='60' WordSequence='3' >נָשִׂ֖יא</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='60' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -3770,8 +3770,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='65' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='65' WordSequence='15' >אֲבִידָ֖ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='65' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='65' WordSequence='17' IsParashaPtuchah='true' >גִּדְעֹנִֽי</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='66' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='65' WordSequence='17'>גִּדְעֹנִֽי</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='66' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='66' WordSequence='2' >הָעֲשִׂירִ֔י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='66' WordSequence='3' >נָשִׂ֖יא</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='66' WordSequence='4' >לִבְנֵ֣י</Word>
@@ -3836,8 +3836,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='71' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='71' WordSequence='15' >אֲחִיעֶ֖זֶר</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='71' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='71' WordSequence='17' IsParashaPtuchah='true' >עַמִּישַׁדָּֽי</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='72' WordSequence='1' >בְּיוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='71' WordSequence='17'>עַמִּישַׁדָּֽי</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='72' WordSequence='1' IsParashaPtuchah='true' >בְּיוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='72' WordSequence='2' >עַשְׁתֵּ֣י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='72' WordSequence='3' >עָשָׂ֣ר</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='72' WordSequence='4' >י֔וֹם</Word>
@@ -3904,8 +3904,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='77' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='77' WordSequence='15' >פַּגְעִיאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='77' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='77' WordSequence='17' IsParashaPtuchah='true' >עָכְרָֽן</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='78' WordSequence='1' >בְּיוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='77' WordSequence='17'>עָכְרָֽן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='78' WordSequence='1' IsParashaPtuchah='true' >בְּיוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='78' WordSequence='2' >שְׁנֵ֣ים</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='78' WordSequence='3' >עָשָׂ֣ר</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='78' WordSequence='4' >י֔וֹם</Word>
@@ -3972,8 +3972,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='83' WordSequence='14' >קָרְבַּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='83' WordSequence='15' >אֲחִירַ֖ע</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='83' WordSequence='16' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='83' WordSequence='17' IsParashaPtuchah='true' >עֵינָֽן</Word>
-<Word Book='Bamidbar' Chapter='7' Verse='84' WordSequence='1' >זֹ֣את׀</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='83' WordSequence='17'>עֵינָֽן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='7' Verse='84' WordSequence='1' IsParashaPtuchah='true' >זֹ֣את׀</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='84' WordSequence='2' >חֲנֻכַּ֣ת</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='84' WordSequence='3' >הַמִּזְבֵּ֗חַ</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='84' WordSequence='4' >בְּיוֹם֙</Word>
@@ -4089,8 +4089,8 @@
 <Word Book='Bamidbar' Chapter='7' Verse='89' WordSequence='20' >שְׁנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='89' WordSequence='21' >הַכְּרֻבִ֑ים</Word>
 <Word Book='Bamidbar' Chapter='7' Verse='89' WordSequence='22' >וַיְדַבֵּ֖ר</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='7' Verse='89' WordSequence='23' IsParashaPtuchah='true' >אֵלָֽיו</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='7' Verse='89' WordSequence='23'>אֵלָֽיו</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -4144,8 +4144,8 @@
 <Word Book='Bamidbar' Chapter='8' Verse='4' WordSequence='18' >כֵּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='4' WordSequence='19' >עָשָׂ֖ה</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='4' WordSequence='20' >אֶת־</Word>
-<Word Book='Bamidbar' Chapter='8' Verse='4' WordSequence='21' IsParashaPtuchah='true' >הַמְּנֹרָֽה</Word>
-<Word Book='Bamidbar' Chapter='8' Verse='5' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='8' Verse='4' WordSequence='21'>הַמְּנֹרָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='8' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='5' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='5' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='5' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -4408,8 +4408,8 @@
 <Word Book='Bamidbar' Chapter='8' Verse='22' WordSequence='20' >הַלְוִיִּ֔ם</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='22' WordSequence='21' >כֵּ֖ן</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='22' WordSequence='22' >עָשׂ֥וּ</Word>
-<Word Book='Bamidbar' Chapter='8' Verse='22' WordSequence='23' >לָהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='8' Verse='23' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='8' Verse='22' WordSequence='23' >לָהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='8' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='23' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='23' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='23' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -4450,8 +4450,8 @@
 <Word Book='Bamidbar' Chapter='8' Verse='26' WordSequence='11' >כָּ֛כָה</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='26' WordSequence='12' >תַּעֲשֶׂ֥ה</Word>
 <Word Book='Bamidbar' Chapter='8' Verse='26' WordSequence='13' >לַלְוִיִּ֖ם</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='8' Verse='26' WordSequence='14' IsParashaPtuchah='true' >בְּמִשְׁמְרֹתָֽם</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='8' Verse='26' WordSequence='14'>בְּמִשְׁמְרֹתָֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='1' WordSequence='2' >יְהוָ֣ה</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='1' WordSequence='4' >מֹשֶׁ֣ה</Word>
@@ -4563,8 +4563,8 @@
 <Word Book='Bamidbar' Chapter='9' Verse='8' WordSequence='6' >מַה־</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='8' WordSequence='7' >יְצַוֶּ֥ה</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='8' WordSequence='8' >יְהוָ֖ה</Word>
-<Word Book='Bamidbar' Chapter='9' Verse='8' WordSequence='9' IsParashaPtuchah='true' >לָכֶֽם</Word>
-<Word Book='Bamidbar' Chapter='9' Verse='9' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='9' Verse='8' WordSequence='9'>לָכֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='9' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='9' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='9' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='9' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -4658,8 +4658,8 @@
 <Word Book='Bamidbar' Chapter='9' Verse='14' WordSequence='16' >לָכֶ֔ם</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='14' WordSequence='17' >וְלַגֵּ֖ר</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='14' WordSequence='18' >וּלְאֶזְרַ֥ח</Word>
-<Word Book='Bamidbar' Chapter='9' Verse='14' WordSequence='19' IsParashaPtuchah='true' >הָאָֽרֶץ</Word>
-<Word Book='Bamidbar' Chapter='9' Verse='15' WordSequence='1' >וּבְיוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='9' Verse='14' WordSequence='19'>הָאָֽרֶץ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='9' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וּבְיוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='15' WordSequence='2' >הָקִ֣ים</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='15' WordSequence='3' >אֶת־</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='15' WordSequence='4' >הַמִּשְׁכָּ֔ן</Word>
@@ -4804,8 +4804,8 @@
 <Word Book='Bamidbar' Chapter='9' Verse='23' WordSequence='14' >פִּ֥י</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='23' WordSequence='15' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='9' Verse='23' WordSequence='16' >בְּיַד־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='9' Verse='23' WordSequence='17' IsParashaPtuchah='true' >מֹשֶֽׁה</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='9' Verse='23' WordSequence='17'>מֹשֶֽׁה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -4911,8 +4911,8 @@
 <Word Book='Bamidbar' Chapter='10' Verse='10' WordSequence='17' >אֱלֹֽהֵיכֶ֔ם</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='10' WordSequence='18' >אֲנִ֖י</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='10' WordSequence='19' >יְהוָ֥ה</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='10' WordSequence='20' IsParashaPtuchah='true' >אֱלֹהֵיכֶֽם</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='11' WordSequence='1' >וַיְהִ֞י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='10' Verse='10' WordSequence='20'>אֱלֹהֵיכֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='10' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֞י</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='11' WordSequence='2' >בַּשָּׁנָ֧ה</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='11' WordSequence='3' >הַשֵּׁנִ֛ית</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='11' WordSequence='4' >בַּחֹ֥דֶשׁ</Word>
@@ -4977,8 +4977,8 @@
 <Word Book='Bamidbar' Chapter='10' Verse='17' WordSequence='6' >וּבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='17' WordSequence='7' >מְרָרִ֔י</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='17' WordSequence='8' >נֹשְׂאֵ֖י</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='17' WordSequence='9' >הַמִּשְׁכָּֽן</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='18' WordSequence='1' >וְנָסַ֗ע</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='10' Verse='17' WordSequence='9' >הַמִּשְׁכָּֽן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='10' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וְנָסַ֗ע</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='18' WordSequence='2' >דֶּ֛גֶל</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='18' WordSequence='3' >מַחֲנֵ֥ה</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='18' WordSequence='4' >רְאוּבֵ֖ן</Word>
@@ -5013,8 +5013,8 @@
 <Word Book='Bamidbar' Chapter='10' Verse='21' WordSequence='6' >אֶת־</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='21' WordSequence='7' >הַמִּשְׁכָּ֖ן</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='21' WordSequence='8' >עַד־</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='21' WordSequence='9' >בֹּאָֽם</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='22' WordSequence='1' >וְנָסַ֗ע</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='10' Verse='21' WordSequence='9' >בֹּאָֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='10' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וְנָסַ֗ע</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='22' WordSequence='2' >דֶּ֛גֶל</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='22' WordSequence='3' >מַחֲנֵ֥ה</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='22' WordSequence='4' >בְנֵֽי־</Word>
@@ -5041,8 +5041,8 @@
 <Word Book='Bamidbar' Chapter='10' Verse='24' WordSequence='5' >בִנְיָמִ֑ן</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='24' WordSequence='6' >אֲבִידָ֖ן</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='24' WordSequence='7' >בֶּן־</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='24' WordSequence='8' >גִּדְעוֹנִֽי</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='25' WordSequence='1' >וְנָסַ֗ע</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='10' Verse='24' WordSequence='8' >גִּדְעוֹנִֽי</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='10' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וְנָסַ֗ע</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='25' WordSequence='2' >דֶּ֚גֶל</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='25' WordSequence='3' >מַחֲנֵ֣ה</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='25' WordSequence='4' >בְנֵי־</Word>
@@ -5077,8 +5077,8 @@
 <Word Book='Bamidbar' Chapter='10' Verse='28' WordSequence='3' >בְנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='28' WordSequence='4' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='28' WordSequence='5' >לְצִבְאֹתָ֑ם</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='28' WordSequence='6' >וַיִּסָּֽעוּ</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='29' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='10' Verse='28' WordSequence='6' >וַיִּסָּֽעוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='10' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='29' WordSequence='2' >מֹשֶׁ֗ה</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='29' WordSequence='3' >לְ֠חֹבָב</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='29' WordSequence='4' >בֶּן־</Word>
@@ -5168,8 +5168,8 @@
 <Word Book='Bamidbar' Chapter='10' Verse='34' WordSequence='5' >בְּנָסְעָ֖ם</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='34' WordSequence='6' >מִן־</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='34' WordSequence='7' >הַֽמַּחֲנֶֽה</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='34' WordSequence='8' >(׆)</Word>
-<Word Book='Bamidbar' Chapter='10' Verse='35' WordSequence='1' >וַיְהִ֛י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='10' Verse='34' WordSequence='8' >(׆)</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='10' Verse='35' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֛י</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='35' WordSequence='2' >בִּנְסֹ֥עַ</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='35' WordSequence='3' >הָאָרֹ֖ן</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='35' WordSequence='4' >וַיֹּ֣אמֶר</Word>
@@ -5188,8 +5188,8 @@
 <Word Book='Bamidbar' Chapter='10' Verse='36' WordSequence='5' >רִֽבְב֖וֹת</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='36' WordSequence='6' >אַלְפֵ֥י</Word>
 <Word Book='Bamidbar' Chapter='10' Verse='36' WordSequence='7' >יִשְׂרָאֵֽל</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='10' Verse='36' WordSequence='8' IsParashaPtuchah='true' >(׆)</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַיְהִ֤י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='10' Verse='36' WordSequence='8' >(׆)</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֤י</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='1' WordSequence='2' >הָעָם֙</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='1' WordSequence='3' >כְּמִתְאֹ֣נְנִ֔ים</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='1' WordSequence='4' >רַ֖ע</Word>
@@ -5399,8 +5399,8 @@
 <Word Book='Bamidbar' Chapter='11' Verse='15' WordSequence='12' >בְּעֵינֶ֑יךָ</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='15' WordSequence='13' >וְאַל־</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='15' WordSequence='14' >אֶרְאֶ֖ה</Word>
-<Word Book='Bamidbar' Chapter='11' Verse='15' WordSequence='15' IsParashaPtuchah='true' >בְּרָעָתִֽי</Word>
-<Word Book='Bamidbar' Chapter='11' Verse='16' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='11' Verse='15' WordSequence='15'>בְּרָעָתִֽי</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='11' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='16' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='16' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='16' WordSequence='4' >מֹשֶׁ֗ה</Word>
@@ -5539,8 +5539,8 @@
 <Word Book='Bamidbar' Chapter='11' Verse='22' WordSequence='12' >יֵאָסֵ֥ף</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='22' WordSequence='13' >לָהֶ֖ם</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='22' WordSequence='14' >וּמָצָ֥א</Word>
-<Word Book='Bamidbar' Chapter='11' Verse='22' WordSequence='15' IsParashaPtuchah='true' >לָהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='11' Verse='23' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='11' Verse='22' WordSequence='15'>לָהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='11' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='23' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='23' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='23' WordSequence='4' >מֹשֶׁ֔ה</Word>
@@ -5737,8 +5737,8 @@
 <Word Book='Bamidbar' Chapter='11' Verse='35' WordSequence='4' >הָעָ֖ם</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='35' WordSequence='5' >חֲצֵר֑וֹת</Word>
 <Word Book='Bamidbar' Chapter='11' Verse='35' WordSequence='6' >וַיִּהְי֖וּ</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='11' Verse='35' WordSequence='7' IsParashaPtuchah='true' >בַּחֲצֵרֽוֹת</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַתְּדַבֵּ֨ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='11' Verse='35' WordSequence='7'>בַּחֲצֵרֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַתְּדַבֵּ֨ר</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='1' WordSequence='2' >מִרְיָ֤ם</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='1' WordSequence='3' >וְאַהֲרֹן֙</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='1' WordSequence='4' >בְּמֹשֶׁ֔ה</Word>
@@ -5774,8 +5774,8 @@
 <Word Book='Bamidbar' Chapter='12' Verse='3' WordSequence='8' >אֲשֶׁ֖ר</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='3' WordSequence='9' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='3' WordSequence='10' >פְּנֵ֥י</Word>
-<Word Book='Bamidbar' Chapter='12' Verse='3' WordSequence='11' >הָאֲדָמָֽה</Word>
-<Word Book='Bamidbar' Chapter='12' Verse='4' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='12' Verse='3' WordSequence='11' >הָאֲדָמָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='12' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='4' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='4' WordSequence='3' >פִּתְאֹ֗ם</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='4' WordSequence='4' >אֶל־</Word>
@@ -5896,8 +5896,8 @@
 <Word Book='Bamidbar' Chapter='12' Verse='13' WordSequence='7' >נָ֛א</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='13' WordSequence='8' >רְפָ֥א</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='13' WordSequence='9' >נָ֖א</Word>
-<Word Book='Bamidbar' Chapter='12' Verse='13' WordSequence='10' IsParashaPtuchah='true' >לָֽהּ</Word>
-<Word Book='Bamidbar' Chapter='12' Verse='14' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='12' Verse='13' WordSequence='10'>לָֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='12' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='14' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='14' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='14' WordSequence='4' >מֹשֶׁ֗ה</Word>
@@ -5934,8 +5934,8 @@
 <Word Book='Bamidbar' Chapter='12' Verse='16' WordSequence='4' >מֵחֲצֵר֑וֹת</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='16' WordSequence='5' >וַֽיַּחֲנ֖וּ</Word>
 <Word Book='Bamidbar' Chapter='12' Verse='16' WordSequence='6' >בְּמִדְבַּ֥ר</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='12' Verse='16' WordSequence='7' IsParashaPtuchah='true' >פָּארָֽן</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='12' Verse='16' WordSequence='7'>פָּארָֽן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='13' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='13' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='13' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -6328,8 +6328,8 @@
 <Word Book='Bamidbar' Chapter='13' Verse='33' WordSequence='11' >כַּֽחֲגָבִ֔ים</Word>
 <Word Book='Bamidbar' Chapter='13' Verse='33' WordSequence='12' >וְכֵ֥ן</Word>
 <Word Book='Bamidbar' Chapter='13' Verse='33' WordSequence='13' >הָיִ֖ינוּ</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='13' Verse='33' WordSequence='14' >בְּעֵינֵיהֶֽם</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וַתִּשָּׂא֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='13' Verse='33' WordSequence='14'>בְּעֵינֵיהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וַתִּשָּׂא֙</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='1' WordSequence='2' >כָּל־</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='1' WordSequence='3' >הָ֣עֵדָ֔ה</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='1' WordSequence='4' >וַֽיִּתְּנ֖וּ</Word>
@@ -6477,8 +6477,8 @@
 <Word Book='Bamidbar' Chapter='14' Verse='10' WordSequence='12' >אֶֽל־</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='10' WordSequence='13' >כָּל־</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='10' WordSequence='14' >בְּנֵ֖י</Word>
-<Word Book='Bamidbar' Chapter='14' Verse='10' WordSequence='15' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Bamidbar' Chapter='14' Verse='11' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='14' Verse='10' WordSequence='15'>יִשְׂרָאֵֽל</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='14' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='11' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='11' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='11' WordSequence='4' >מֹשֶׁ֔ה</Word>
@@ -6690,8 +6690,8 @@
 <Word Book='Bamidbar' Chapter='14' Verse='25' WordSequence='9' >הַמִּדְבָּ֖ר</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='25' WordSequence='10' >דֶּ֥רֶךְ</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='25' WordSequence='11' >יַם־</Word>
-<Word Book='Bamidbar' Chapter='14' Verse='25' WordSequence='12' IsParashaPtuchah='true' >סֽוּף</Word>
-<Word Book='Bamidbar' Chapter='14' Verse='26' WordSequence='1' >וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='14' Verse='25' WordSequence='12'>סֽוּף</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='14' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='26' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='26' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='26' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -6964,8 +6964,8 @@
 <Word Book='Bamidbar' Chapter='14' Verse='45' WordSequence='7' >וַיַּכּ֥וּם</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='45' WordSequence='8' >וַֽיַּכְּת֖וּם</Word>
 <Word Book='Bamidbar' Chapter='14' Verse='45' WordSequence='9' >עַד־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='14' Verse='45' WordSequence='10' IsParashaPtuchah='true' >הַֽחָרְמָֽה</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='14' Verse='45' WordSequence='10'>הַֽחָרְמָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -7149,8 +7149,8 @@
 <Word Book='Bamidbar' Chapter='15' Verse='16' WordSequence='6' >לָכֶ֑ם</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='16' WordSequence='7' >וְלַגֵּ֖ר</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='16' WordSequence='8' >הַגָּ֥ר</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='16' WordSequence='9' IsParashaPtuchah='true' >אִתְּכֶֽם</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='17' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='15' Verse='16' WordSequence='9'>אִתְּכֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='15' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='17' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='17' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='17' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -7191,8 +7191,8 @@
 <Word Book='Bamidbar' Chapter='15' Verse='21' WordSequence='3' >תִּתְּנ֥וּ</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='21' WordSequence='4' >לַיהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='21' WordSequence='5' >תְּרוּמָ֑ה</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='21' WordSequence='6' >לְדֹרֹ֖תֵיכֶֽם</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='22' WordSequence='1' >וְכִ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='15' Verse='21' WordSequence='6' >לְדֹרֹ֖תֵיכֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='15' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וְכִ֣י</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='22' WordSequence='2' >תִשְׁגּ֔וּ</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='22' WordSequence='3' >וְלֹ֣א</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='22' WordSequence='4' >תַעֲשׂ֔וּ</Word>
@@ -7278,8 +7278,8 @@
 <Word Book='Bamidbar' Chapter='15' Verse='26' WordSequence='9' >כִּ֥י</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='26' WordSequence='10' >לְכָל־</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='26' WordSequence='11' >הָעָ֖ם</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='26' WordSequence='12' >בִּשְׁגָגָֽה</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='27' WordSequence='1' >וְאִם־</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='15' Verse='26' WordSequence='12' >בִּשְׁגָגָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='15' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וְאִם־</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='27' WordSequence='2' >נֶ֥פֶשׁ</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='27' WordSequence='3' >אַחַ֖ת</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='27' WordSequence='4' >תֶּחֱטָ֣א</Word>
@@ -7344,8 +7344,8 @@
 <Word Book='Bamidbar' Chapter='15' Verse='31' WordSequence='10' >הַנֶּ֥פֶשׁ</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='31' WordSequence='11' >הַהִ֖וא</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='31' WordSequence='12' >עֲוֺנָ֥ה</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='31' WordSequence='13' IsParashaPtuchah='true' >בָֽהּ</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='32' WordSequence='1' >וַיִּהְי֥וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='15' Verse='31' WordSequence='13'>בָֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='15' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וַיִּהְי֥וּ</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='32' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='32' WordSequence='3' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='32' WordSequence='4' >בַּמִּדְבָּ֑ר</Word>
@@ -7376,8 +7376,8 @@
 <Word Book='Bamidbar' Chapter='15' Verse='34' WordSequence='6' >פֹרַ֔שׁ</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='34' WordSequence='7' >מַה־</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='34' WordSequence='8' >יֵּעָשֶׂ֖ה</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='34' WordSequence='9' >לֽוֹ</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='35' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='15' Verse='34' WordSequence='9' >לֽוֹ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='15' Verse='35' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='35' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='35' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='35' WordSequence='4' >מֹשֶׁ֔ה</Word>
@@ -7406,8 +7406,8 @@
 <Word Book='Bamidbar' Chapter='15' Verse='36' WordSequence='13' >צִוָּ֥ה</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='36' WordSequence='14' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='36' WordSequence='15' >אֶת־</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='36' WordSequence='16' IsParashaPtuchah='true' >מֹשֶֽׁה</Word>
-<Word Book='Bamidbar' Chapter='15' Verse='37' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='15' Verse='36' WordSequence='16'>מֹשֶֽׁה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='15' Verse='37' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='37' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='37' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='37' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -7475,8 +7475,8 @@
 <Word Book='Bamidbar' Chapter='15' Verse='41' WordSequence='11' >לֵאלֹהִ֑ים</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='41' WordSequence='12' >אֲנִ֖י</Word>
 <Word Book='Bamidbar' Chapter='15' Verse='41' WordSequence='13' >יְהוָ֥ה</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='15' Verse='41' WordSequence='14' IsParashaPtuchah='true' >אֱלֹהֵיכֶֽם</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>וַיִּקַּ֣ח</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='15' Verse='41' WordSequence='14'>אֱלֹהֵיכֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּקַּ֣ח</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='1' WordSequence='2' >קֹ֔רַח</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='1' WordSequence='3' >בֶּן־</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='1' WordSequence='4' >יִצְהָ֥ר</Word>
@@ -7763,8 +7763,8 @@
 <Word Book='Bamidbar' Chapter='16' Verse='19' WordSequence='13' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='19' WordSequence='14' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='19' WordSequence='15' >כָּל־</Word>
-<Word Book='Bamidbar' Chapter='16' Verse='19' WordSequence='16' IsParashaPtuchah='true' >הָעֵדָֽה</Word>
-<Word Book='Bamidbar' Chapter='16' Verse='20' WordSequence='1' >וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='16' Verse='19' WordSequence='16'>הָעֵדָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='16' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='20' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='20' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='20' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -7793,8 +7793,8 @@
 <Word Book='Bamidbar' Chapter='16' Verse='22' WordSequence='13' >וְעַ֥ל</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='22' WordSequence='14' >כָּל־</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='22' WordSequence='15' >הָעֵדָ֖ה</Word>
-<Word Book='Bamidbar' Chapter='16' Verse='22' WordSequence='16' IsParashaPtuchah='true' >תִּקְצֹֽף</Word>
-<Word Book='Bamidbar' Chapter='16' Verse='23' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='16' Verse='22' WordSequence='16'>תִּקְצֹֽף</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='16' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='23' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='23' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='23' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -7969,8 +7969,8 @@
 <Word Book='Bamidbar' Chapter='16' Verse='35' WordSequence='8' >וּמָאתַ֙יִם֙</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='35' WordSequence='9' >אִ֔ישׁ</Word>
 <Word Book='Bamidbar' Chapter='16' Verse='35' WordSequence='10' >מַקְרִיבֵ֖י</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='16' Verse='35' WordSequence='11' IsParashaPtuchah='true' >הַקְּטֹֽרֶת</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='16' Verse='35' WordSequence='11'>הַקְּטֹֽרֶת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -8091,8 +8091,8 @@
 <Word Book='Bamidbar' Chapter='17' Verse='8' WordSequence='4' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='8' WordSequence='5' >פְּנֵ֖י</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='8' WordSequence='6' >אֹ֥הֶל</Word>
-<Word Book='Bamidbar' Chapter='17' Verse='8' WordSequence='7' IsParashaPtuchah='true' >מוֹעֵֽד</Word>
-<Word Book='Bamidbar' Chapter='17' Verse='9' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='17' Verse='8' WordSequence='7'>מוֹעֵֽד</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='17' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='9' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='9' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='9' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -8182,8 +8182,8 @@
 <Word Book='Bamidbar' Chapter='17' Verse='15' WordSequence='7' >אֹ֣הֶל</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='15' WordSequence='8' >מוֹעֵ֑ד</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='15' WordSequence='9' >וְהַמַּגֵּפָ֖ה</Word>
-<Word Book='Bamidbar' Chapter='17' Verse='15' WordSequence='10' IsParashaPtuchah='true' >נֶעֱצָֽרָה</Word>
-<Word Book='Bamidbar' Chapter='17' Verse='16' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='17' Verse='15' WordSequence='10'>נֶעֱצָֽרָה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='17' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='16' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='16' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='16' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -8316,8 +8316,8 @@
 <Word Book='Bamidbar' Chapter='17' Verse='24' WordSequence='12' >וַיִּרְא֥וּ</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='24' WordSequence='13' >וַיִּקְח֖וּ</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='24' WordSequence='14' >אִ֥ישׁ</Word>
-<Word Book='Bamidbar' Chapter='17' Verse='24' WordSequence='15' >מַטֵּֽהוּ</Word>
-<Word Book='Bamidbar' Chapter='17' Verse='25' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='17' Verse='24' WordSequence='15' >מַטֵּֽהוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='17' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='25' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='25' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='25' WordSequence='4' >מֹשֶׁ֗ה</Word>
@@ -8343,8 +8343,8 @@
 <Word Book='Bamidbar' Chapter='17' Verse='26' WordSequence='5' >יְהוָ֛ה</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='26' WordSequence='6' >אֹת֖וֹ</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='26' WordSequence='7' >כֵּ֥ן</Word>
-<Word Book='Bamidbar' Chapter='17' Verse='26' WordSequence='8' >עָשָֽׂה</Word>
-<Word Book='Bamidbar' Chapter='17' Verse='27' WordSequence='1' >וַיֹּֽאמְרוּ֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='17' Verse='26' WordSequence='8' >עָשָֽׂה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='17' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיֹּֽאמְרוּ֙</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='27' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='27' WordSequence='3' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='27' WordSequence='4' >אֶל־</Word>
@@ -8364,8 +8364,8 @@
 <Word Book='Bamidbar' Chapter='17' Verse='28' WordSequence='7' >יָמ֑וּת</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='28' WordSequence='8' >הַאִ֥ם</Word>
 <Word Book='Bamidbar' Chapter='17' Verse='28' WordSequence='9' >תַּ֖מְנוּ</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='17' Verse='28' WordSequence='10' IsParashaPtuchah='true' >לִגְוֺֽעַ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='17' Verse='28' WordSequence='10' >לִגְוֺֽעַ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='1' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='1' WordSequence='3' >אֶֽל־</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='1' WordSequence='4' >אַהֲרֹ֔ן</Word>
@@ -8487,8 +8487,8 @@
 <Word Book='Bamidbar' Chapter='18' Verse='7' WordSequence='17' >כְּהֻנַּתְכֶ֔ם</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='7' WordSequence='18' >וְהַזָּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='7' WordSequence='19' >הַקָּרֵ֖ב</Word>
-<Word Book='Bamidbar' Chapter='18' Verse='7' WordSequence='20' >יוּמָֽת</Word>
-<Word Book='Bamidbar' Chapter='18' Verse='8' WordSequence='1' >וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='18' Verse='7' WordSequence='20' >יוּמָֽת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='18' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='8' WordSequence='2' >יְהוָה֮</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='8' WordSequence='3' >אֶֽל־</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='8' WordSequence='4' >אַהֲרֹן֒</Word>
@@ -8704,8 +8704,8 @@
 <Word Book='Bamidbar' Chapter='18' Verse='20' WordSequence='15' >וְנַחֲלָ֣תְךָ֔</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='20' WordSequence='16' >בְּת֖וֹךְ</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='20' WordSequence='17' >בְּנֵ֥י</Word>
-<Word Book='Bamidbar' Chapter='18' Verse='20' WordSequence='18' >יִשְׂרָאֵֽל</Word>
-<Word Book='Bamidbar' Chapter='18' Verse='21' WordSequence='1' >וְלִבְנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='18' Verse='20' WordSequence='18' >יִשְׂרָאֵֽל</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='18' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וְלִבְנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='21' WordSequence='2' >לֵוִ֔י</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='21' WordSequence='3' >הִנֵּ֥ה</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='21' WordSequence='4' >נָתַ֛תִּי</Word>
@@ -8773,8 +8773,8 @@
 <Word Book='Bamidbar' Chapter='18' Verse='24' WordSequence='19' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='24' WordSequence='20' >לֹ֥א</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='24' WordSequence='21' >יִנְחֲל֖וּ</Word>
-<Word Book='Bamidbar' Chapter='18' Verse='24' WordSequence='22' IsParashaPtuchah='true' >נַחֲלָֽה</Word>
-<Word Book='Bamidbar' Chapter='18' Verse='25' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='18' Verse='24' WordSequence='22'>נַחֲלָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='18' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='25' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='25' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='25' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -8885,8 +8885,8 @@
 <Word Book='Bamidbar' Chapter='18' Verse='32' WordSequence='13' >לֹ֥א</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='32' WordSequence='14' >תְחַלְּל֖וּ</Word>
 <Word Book='Bamidbar' Chapter='18' Verse='32' WordSequence='15' >וְלֹ֥א</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='18' Verse='32' WordSequence='16' IsParashaPtuchah='true' >תָמֽוּתוּ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='18' Verse='32' WordSequence='16'>תָמֽוּתוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='19' Verse='1' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Bamidbar' Chapter='19' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='19' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -9231,8 +9231,8 @@
 <Word Book='Bamidbar' Chapter='19' Verse='22' WordSequence='8' >הַנֹּגַ֖עַת</Word>
 <Word Book='Bamidbar' Chapter='19' Verse='22' WordSequence='9' >תִּטְמָ֥א</Word>
 <Word Book='Bamidbar' Chapter='19' Verse='22' WordSequence='10' >עַד־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='19' Verse='22' WordSequence='11' IsParashaPtuchah='true' >הָעָֽרֶב</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וַיָּבֹ֣אוּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='19' Verse='22' WordSequence='11'>הָעָֽרֶב</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֣אוּ</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='1' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='1' WordSequence='3' >יִ֠שְׂרָאֵל</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='1' WordSequence='4' >כָּל־</Word>
@@ -9315,8 +9315,8 @@
 <Word Book='Bamidbar' Chapter='20' Verse='6' WordSequence='13' >וַיֵּרָ֥א</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='6' WordSequence='14' >כְבוֹד־</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='6' WordSequence='15' >יְהוָ֖ה</Word>
-<Word Book='Bamidbar' Chapter='20' Verse='6' WordSequence='16' IsParashaPtuchah='true' >אֲלֵיהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='20' Verse='7' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='20' Verse='6' WordSequence='16'>אֲלֵיהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='20' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='7' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='7' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='7' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -9387,8 +9387,8 @@
 <Word Book='Bamidbar' Chapter='20' Verse='11' WordSequence='12' >רַבִּ֔ים</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='11' WordSequence='13' >וַתֵּ֥שְׁתְּ</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='11' WordSequence='14' >הָעֵדָ֖ה</Word>
-<Word Book='Bamidbar' Chapter='20' Verse='11' WordSequence='15' >וּבְעִירָֽם</Word>
-<Word Book='Bamidbar' Chapter='20' Verse='12' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='20' Verse='11' WordSequence='15' >וּבְעִירָֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='20' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='12' WordSequence='2' >יְהוָה֮</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='12' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='12' WordSequence='4' >מֹשֶׁ֣ה</Word>
@@ -9423,8 +9423,8 @@
 <Word Book='Bamidbar' Chapter='20' Verse='13' WordSequence='8' >אֶת־</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='13' WordSequence='9' >יְהוָ֑ה</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='13' WordSequence='10' >וַיִּקָּדֵ֖שׁ</Word>
-<Word Book='Bamidbar' Chapter='20' Verse='13' WordSequence='11' >בָּֽם</Word>
-<Word Book='Bamidbar' Chapter='20' Verse='14' WordSequence='1' >וַיִּשְׁלַ֨ח</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='20' Verse='13' WordSequence='11' >בָּֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='20' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֨ח</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='14' WordSequence='2' >מֹשֶׁ֧ה</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='14' WordSequence='3' >מַלְאָכִ֛ים</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='14' WordSequence='4' >מִקָּדֵ֖שׁ</Word>
@@ -9537,8 +9537,8 @@
 <Word Book='Bamidbar' Chapter='20' Verse='21' WordSequence='7' >בִּגְבֻל֑וֹ</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='21' WordSequence='8' >וַיֵּ֥ט</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='21' WordSequence='9' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='Bamidbar' Chapter='20' Verse='21' WordSequence='10' IsParashaPtuchah='true' >מֵעָלָֽיו</Word>
-<Word Book='Bamidbar' Chapter='20' Verse='22' WordSequence='1' >וַיִּסְע֖וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='20' Verse='21' WordSequence='10'>מֵעָלָֽיו</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='20' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיִּסְע֖וּ</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='22' WordSequence='2' >מִקָּדֵ֑שׁ</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='22' WordSequence='3' >וַיָּבֹ֧אוּ</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='22' WordSequence='4' >בְנֵֽי־</Word>
@@ -9649,8 +9649,8 @@
 <Word Book='Bamidbar' Chapter='20' Verse='29' WordSequence='11' >י֔וֹם</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='29' WordSequence='12' >כֹּ֖ל</Word>
 <Word Book='Bamidbar' Chapter='20' Verse='29' WordSequence='13' >בֵּ֥ית</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='20' Verse='29' WordSequence='14' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַיִּשְׁמַ֞ע</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='20' Verse='29' WordSequence='14' >יִשְׂרָאֵֽל</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁמַ֞ע</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='1' WordSequence='2' >הַכְּנַעֲנִ֤י</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='1' WordSequence='3' >מֶֽלֶךְ־</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='1' WordSequence='4' >עֲרָד֙</Word>
@@ -9695,8 +9695,8 @@
 <Word Book='Bamidbar' Chapter='21' Verse='3' WordSequence='12' >וַיִּקְרָ֥א</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='3' WordSequence='13' >שֵׁם־</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='3' WordSequence='14' >הַמָּק֖וֹם</Word>
-<Word Book='Bamidbar' Chapter='21' Verse='3' WordSequence='15' IsParashaPtuchah='true' >חָרְמָֽה</Word>
-<Word Book='Bamidbar' Chapter='21' Verse='4' WordSequence='1' >וַיִּסְע֞וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='21' Verse='3' WordSequence='15'>חָרְמָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='21' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיִּסְע֞וּ</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='4' WordSequence='2' >מֵהֹ֤ר</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='4' WordSequence='3' >הָהָר֙</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='4' WordSequence='4' >דֶּ֣רֶךְ</Word>
@@ -9871,8 +9871,8 @@
 <Word Book='Bamidbar' Chapter='21' Verse='16' WordSequence='11' >הָעָ֔ם</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='16' WordSequence='12' >וְאֶתְּנָ֥ה</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='16' WordSequence='13' >לָהֶ֖ם</Word>
-<Word Book='Bamidbar' Chapter='21' Verse='16' WordSequence='14' >מָֽיִם</Word>
-<Word Book='Bamidbar' Chapter='21' Verse='17' WordSequence='1' >אָ֚ז</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='21' Verse='16' WordSequence='14' >מָֽיִם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='21' Verse='17' WordSequence='1' IsParashaPtuchah='true' >אָ֚ז</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='17' WordSequence='2' >יָשִׁ֣יר</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='17' WordSequence='3' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='17' WordSequence='4' >אֶת־</Word>
@@ -9906,8 +9906,8 @@
 <Word Book='Bamidbar' Chapter='21' Verse='20' WordSequence='8' >וְנִשְׁקָ֖פָה</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='20' WordSequence='9' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='20' WordSequence='10' >פְּנֵ֥י</Word>
-<Word Book='Bamidbar' Chapter='21' Verse='20' WordSequence='11' IsParashaPtuchah='true' >הַיְשִׁימֹֽן</Word>
-<Word Book='Bamidbar' Chapter='21' Verse='21' WordSequence='1' >וַיִּשְׁלַ֤ח</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='21' Verse='20' WordSequence='11'>הַיְשִׁימֹֽן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='21' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֤ח</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='21' WordSequence='2' >יִשְׂרָאֵל֙</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='21' WordSequence='3' >מַלְאָכִ֔ים</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='21' WordSequence='4' >אֶל־</Word>
@@ -10122,8 +10122,8 @@
 <Word Book='Bamidbar' Chapter='21' Verse='35' WordSequence='12' >שָׂרִ֑יד</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='35' WordSequence='13' >וַיִּֽירְשׁ֖וּ</Word>
 <Word Book='Bamidbar' Chapter='21' Verse='35' WordSequence='14' >אֶת־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='21' Verse='35' WordSequence='15' >אַרְצֽוֹ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיִּסְע֖וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='21' Verse='35' WordSequence='15'>אַרְצֽוֹ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיִּסְע֖וּ</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='1' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='1' WordSequence='3' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='1' WordSequence='4' >וַֽיַּחֲנוּ֙</Word>
@@ -10131,8 +10131,8 @@
 <Word Book='Bamidbar' Chapter='22' Verse='1' WordSequence='6' >מוֹאָ֔ב</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='1' WordSequence='7' >מֵעֵ֖בֶר</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='1' WordSequence='8' >לְיַרְדֵּ֥ן</Word>
-<Word Book='Bamidbar' Chapter='22' Verse='1' WordSequence='9' >יְרֵחֽוֹ</Word>
-<Word Book='Bamidbar' Chapter='22' Verse='2' WordSequence='1' >וַיַּ֥רְא</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='22' Verse='1' WordSequence='9' >יְרֵחֽוֹ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='22' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥רְא</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='2' WordSequence='2' >בָּלָ֖ק</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='2' WordSequence='3' >בֶּן־</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='2' WordSequence='4' >צִפּ֑וֹר</Word>
@@ -10774,8 +10774,8 @@
 <Word Book='Bamidbar' Chapter='22' Verse='41' WordSequence='10' >וַיַּ֥רְא</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='41' WordSequence='11' >מִשָּׁ֖ם</Word>
 <Word Book='Bamidbar' Chapter='22' Verse='41' WordSequence='12' >קְצֵ֥ה</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='22' Verse='41' WordSequence='13' >הָעָֽם</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='22' Verse='41' WordSequence='13'>הָעָֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
 <Word Book='Bamidbar' Chapter='23' Verse='1' WordSequence='2' >בִּלְעָם֙</Word>
 <Word Book='Bamidbar' Chapter='23' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='23' Verse='1' WordSequence='4' >בָּלָ֔ק</Word>
@@ -11165,8 +11165,8 @@
 <Word Book='Bamidbar' Chapter='23' Verse='30' WordSequence='6' >וַיַּ֛עַל</Word>
 <Word Book='Bamidbar' Chapter='23' Verse='30' WordSequence='7' >פָּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='23' Verse='30' WordSequence='8' >וָאַ֖יִל</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='23' Verse='30' WordSequence='9' >בַּמִּזְבֵּֽחַ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>וַיַּ֣רְא</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='23' Verse='30' WordSequence='9'>בַּמִּזְבֵּֽחַ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>וַיַּ֣רְא</Word>
 <Word Book='Bamidbar' Chapter='24' Verse='1' WordSequence='2' >בִּלְעָ֗ם</Word>
 <Word Book='Bamidbar' Chapter='24' Verse='1' WordSequence='3' >כִּ֣י</Word>
 <Word Book='Bamidbar' Chapter='24' Verse='1' WordSequence='4' >ט֞וֹב</Word>
@@ -11471,8 +11471,8 @@
 <Word Book='Bamidbar' Chapter='24' Verse='25' WordSequence='6' >וְגַם־</Word>
 <Word Book='Bamidbar' Chapter='24' Verse='25' WordSequence='7' >בָּלָ֖ק</Word>
 <Word Book='Bamidbar' Chapter='24' Verse='25' WordSequence='8' >הָלַ֥ךְ</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='24' Verse='25' WordSequence='9' IsParashaPtuchah='true' >לְדַרְכּֽוֹ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='25' Verse='1' WordSequence='1'>וַיֵּ֥שֶׁב</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='24' Verse='25' WordSequence='9'>לְדַרְכּֽוֹ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='25' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֥שֶׁב</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='1' WordSequence='2' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='1' WordSequence='3' >בַּשִּׁטִּ֑ים</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='1' WordSequence='4' >וַיָּ֣חֶל</Word>
@@ -11588,8 +11588,8 @@
 <Word Book='Bamidbar' Chapter='25' Verse='9' WordSequence='3' >בַּמַּגֵּפָ֑ה</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='9' WordSequence='4' >אַרְבָּעָ֥ה</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='9' WordSequence='5' >וְעֶשְׂרִ֖ים</Word>
-<Word Book='Bamidbar' Chapter='25' Verse='9' WordSequence='6' IsParashaPtuchah='true' >אָֽלֶף</Word>
-<Word Book='Bamidbar' Chapter='25' Verse='10' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='25' Verse='9' WordSequence='6'>אָֽלֶף</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='25' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='10' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='10' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='10' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -11666,8 +11666,8 @@
 <Word Book='Bamidbar' Chapter='25' Verse='15' WordSequence='10' >בֵּֽית־</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='15' WordSequence='11' >אָ֛ב</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='15' WordSequence='12' >בְּמִדְיָ֖ן</Word>
-<Word Book='Bamidbar' Chapter='25' Verse='15' WordSequence='13' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='Bamidbar' Chapter='25' Verse='16' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='25' Verse='15' WordSequence='13'>הֽוּא</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='25' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='16' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='16' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='16' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -11700,10 +11700,10 @@
 <Word Book='Bamidbar' Chapter='25' Verse='18' WordSequence='21' >הַמַּגֵּפָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='18' WordSequence='22' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='25' Verse='18' WordSequence='23' >דְּבַר־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='25' Verse='18' WordSequence='24' >פְּעֽוֹר</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיְהִ֖י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='25' Verse='18' WordSequence='24'>פְּעֽוֹר</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיְהִ֖י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='1' WordSequence='2' >אַחֲרֵ֣י</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='1' WordSequence='3' IsParashaPtuchah='true' >הַמַּגֵּפָ֑ה</Word>
+<Word Book='Bamidbar' Chapter='26' Verse='1' WordSequence='3' >הַמַּגֵּפָ֑ה</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='1' WordSequence='5' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='1' WordSequence='6' >יְהוָה֙</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='1' WordSequence='7' >אֶל־</Word>
@@ -11830,8 +11830,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='11' WordSequence='1' >וּבְנֵי־</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='11' WordSequence='2' >קֹ֖רַח</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='11' WordSequence='3' >לֹא־</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='11' WordSequence='4' >מֵֽתוּ</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='12' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='11' WordSequence='4' >מֵֽתוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='12' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='12' WordSequence='2' >שִׁמְעוֹן֮</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='12' WordSequence='3' >לְמִשְׁפְּחֹתָם֒</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='12' WordSequence='4' >לִנְמוּאֵ֗ל</Word>
@@ -11855,8 +11855,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='14' WordSequence='4' >שְׁנַ֧יִם</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='14' WordSequence='5' >וְעֶשְׂרִ֛ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='14' WordSequence='6' >אֶ֖לֶף</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='14' WordSequence='7' >וּמָאתָֽיִם</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='15' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='14' WordSequence='7' >וּמָאתָֽיִם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='15' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='15' WordSequence='2' >גָד֮</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='15' WordSequence='3' >לְמִשְׁפְּחֹתָם֒</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='15' WordSequence='4' >לִצְפ֗וֹן</Word>
@@ -11888,8 +11888,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='18' WordSequence='6' >אַרְבָּעִ֥ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='18' WordSequence='7' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='18' WordSequence='8' >וַחֲמֵ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='18' WordSequence='9' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='19' WordSequence='1' >בְּנֵ֥י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='18' WordSequence='9' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='19' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֥י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='19' WordSequence='2' >יְהוּדָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='19' WordSequence='3' >עֵ֣ר</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='19' WordSequence='4' >וְאוֹנָ֑ן</Word>
@@ -11928,8 +11928,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='22' WordSequence='6' >וְשִׁבְעִ֛ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='22' WordSequence='7' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='22' WordSequence='8' >וַחֲמֵ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='22' WordSequence='9' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='23' WordSequence='1' >בְּנֵ֤י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='22' WordSequence='9' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='23' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֤י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='23' WordSequence='2' >יִשָּׂשכָר֙</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='23' WordSequence='3' >לְמִשְׁפְּחֹתָ֔ם</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='23' WordSequence='4' >תּוֹלָ֕ע</Word>
@@ -11952,8 +11952,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='25' WordSequence='6' >וְשִׁשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='25' WordSequence='7' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='25' WordSequence='8' >וּשְׁלֹ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='25' WordSequence='9' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='26' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='25' WordSequence='9' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='26' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='26' WordSequence='2' >זְבוּלֻן֮</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='26' WordSequence='3' >לְמִשְׁפְּחֹתָם֒</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='26' WordSequence='4' >לְסֶ֗רֶד</Word>
@@ -11972,8 +11972,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='27' WordSequence='5' >שִׁשִּׁ֥ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='27' WordSequence='6' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='27' WordSequence='7' >וַחֲמֵ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='27' WordSequence='8' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='28' WordSequence='1' >בְּנֵ֥י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='27' WordSequence='8' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='28' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֥י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='28' WordSequence='2' >יוֹסֵ֖ף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='28' WordSequence='3' >לְמִשְׁפְּחֹתָ֑ם</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='28' WordSequence='4' >מְנַשֶּׁ֖ה</Word>
@@ -12037,8 +12037,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='34' WordSequence='6' >וַחֲמִשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='34' WordSequence='7' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='34' WordSequence='8' >וּשְׁבַ֥ע</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='34' WordSequence='9' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='35' WordSequence='1' >אֵ֣לֶּה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='34' WordSequence='9' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='35' WordSequence='1' IsParashaPtuchah='true' >אֵ֣לֶּה</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='35' WordSequence='2' >בְנֵי־</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='35' WordSequence='3' >אֶפְרַיִם֮</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='35' WordSequence='4' >לְמִשְׁפְּחֹתָם֒</Word>
@@ -12070,8 +12070,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='37' WordSequence='11' >אֵ֥לֶּה</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='37' WordSequence='12' >בְנֵי־</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='37' WordSequence='13' >יוֹסֵ֖ף</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='37' WordSequence='14' >לְמִשְׁפְּחֹתָֽם</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='38' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='37' WordSequence='14' >לְמִשְׁפְּחֹתָֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='38' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='38' WordSequence='2' >בִנְיָמִן֮</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='38' WordSequence='3' >לְמִשְׁפְּחֹתָם֒</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='38' WordSequence='4' >לְבֶ֗לַע</Word>
@@ -12108,8 +12108,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='41' WordSequence='7' >וְאַרְבָּעִ֛ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='41' WordSequence='8' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='41' WordSequence='9' >וְשֵׁ֥שׁ</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='41' WordSequence='10' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='42' WordSequence='1' >אֵ֤לֶּה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='41' WordSequence='10' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='42' WordSequence='1' IsParashaPtuchah='true' >אֵ֤לֶּה</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='42' WordSequence='2' >בְנֵי־</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='42' WordSequence='3' >דָן֙</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='42' WordSequence='4' >לְמִשְׁפְּחֹתָ֔ם</Word>
@@ -12128,8 +12128,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='43' WordSequence='6' >וְשִׁשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='43' WordSequence='7' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='43' WordSequence='8' >וְאַרְבַּ֥ע</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='43' WordSequence='9' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='44' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='43' WordSequence='9' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='44' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='44' WordSequence='2' >אָשֵׁר֮</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='44' WordSequence='3' >לְמִשְׁפְּחֹתָם֒</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='44' WordSequence='4' >לְיִמְנָ֗ה</Word>
@@ -12162,8 +12162,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='47' WordSequence='7' >וַחֲמִשִּׁ֛ים</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='47' WordSequence='8' >אֶ֖לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='47' WordSequence='9' >וְאַרְבַּ֥ע</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='47' WordSequence='10' >מֵאֽוֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='48' WordSequence='1' >בְּנֵ֤י</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='47' WordSequence='10' >מֵאֽוֹת</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='48' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֤י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='48' WordSequence='2' >נַפְתָּלִי֙</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='48' WordSequence='3' >לְמִשְׁפְּחֹתָ֔ם</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='48' WordSequence='4' >לְיַ֨חְצְאֵ֔ל</Word>
@@ -12198,8 +12198,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='51' WordSequence='8' >וָאָ֑לֶף</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='51' WordSequence='9' >שְׁבַ֥ע</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='51' WordSequence='10' >מֵא֖וֹת</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='51' WordSequence='11' IsParashaPtuchah='true' >וּשְׁלֹשִֽׁים</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='52' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='51' WordSequence='11'>וּשְׁלֹשִֽׁים</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='52' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='52' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='52' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='52' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -12237,8 +12237,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='56' WordSequence='5' >נַחֲלָת֑וֹ</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='56' WordSequence='6' >בֵּ֥ין</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='56' WordSequence='7' >רַ֖ב</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='56' WordSequence='8' >לִמְעָֽט</Word>
-<Word Book='Bamidbar' Chapter='26' Verse='57' WordSequence='1' >וְאֵ֨לֶּה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='56' WordSequence='8' >לִמְעָֽט</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='26' Verse='57' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֨לֶּה</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='57' WordSequence='2' >פְקוּדֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='57' WordSequence='3' >הַלֵּוִי֮</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='57' WordSequence='4' >לְמִשְׁפְּחֹתָם֒</Word>
@@ -12378,8 +12378,8 @@
 <Word Book='Bamidbar' Chapter='26' Verse='65' WordSequence='16' >יְפֻנֶּ֔ה</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='65' WordSequence='17' >וִיהוֹשֻׁ֖עַ</Word>
 <Word Book='Bamidbar' Chapter='26' Verse='65' WordSequence='18' >בִּן־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='26' Verse='65' WordSequence='19' IsParashaPtuchah='true' >נֽוּן</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>וַתִּקְרַ֜בְנָה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='26' Verse='65' WordSequence='19' >נֽוּן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='27' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַתִּקְרַ֜בְנָה</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='1' WordSequence='2' >בְּנ֣וֹת</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='1' WordSequence='3' >צְלָפְחָ֗ד</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='1' WordSequence='4' >בֶּן־</Word>
@@ -12457,8 +12457,8 @@
 <Word Book='Bamidbar' Chapter='27' Verse='5' WordSequence='3' >אֶת־</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='5' WordSequence='4' >מִשְׁפָּטָ֖ן</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='5' WordSequence='5' >לִפְנֵ֥י</Word>
-<Word Book='Bamidbar' Chapter='27' Verse='5' WordSequence='6' >יְהוָֽה</Word>
-<Word Book='Bamidbar' Chapter='27' Verse='6' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='27' Verse='5' WordSequence='6' >יְהוָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='27' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='6' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='6' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='6' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -12534,8 +12534,8 @@
 <Word Book='Bamidbar' Chapter='27' Verse='11' WordSequence='20' >צִוָּ֥ה</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='11' WordSequence='21' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='11' WordSequence='22' >אֶת־</Word>
-<Word Book='Bamidbar' Chapter='27' Verse='11' WordSequence='23' >מֹשֶֽׁה</Word>
-<Word Book='Bamidbar' Chapter='27' Verse='12' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='27' Verse='11' WordSequence='23' >מֹשֶֽׁה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='27' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='12' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='12' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='12' WordSequence='4' >מֹשֶׁ֔ה</Word>
@@ -12577,8 +12577,8 @@
 <Word Book='Bamidbar' Chapter='27' Verse='14' WordSequence='13' >מְרִיבַ֥ת</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='14' WordSequence='14' >קָדֵ֖שׁ</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='14' WordSequence='15' >מִדְבַּר־</Word>
-<Word Book='Bamidbar' Chapter='27' Verse='14' WordSequence='16' IsParashaPtuchah='true' >צִֽן</Word>
-<Word Book='Bamidbar' Chapter='27' Verse='15' WordSequence='1' >וַיְדַבֵּ֣ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='27' Verse='14' WordSequence='16'>צִֽן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='27' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='15' WordSequence='2' >מֹשֶׁ֔ה</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='15' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='15' WordSequence='4' >יְהוָ֖ה</Word>
@@ -12697,8 +12697,8 @@
 <Word Book='Bamidbar' Chapter='27' Verse='23' WordSequence='7' >דִּבֶּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='23' WordSequence='8' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='27' Verse='23' WordSequence='9' >בְּיַד־</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='27' Verse='23' WordSequence='10' IsParashaPtuchah='true' >מֹשֶֽׁה</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='27' Verse='23' WordSequence='10'>מֹשֶֽׁה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='28' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -12786,8 +12786,8 @@
 <Word Book='Bamidbar' Chapter='28' Verse='8' WordSequence='11' >אִשֵּׁ֛ה</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='8' WordSequence='12' >רֵ֥יחַ</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='8' WordSequence='13' >נִיחֹ֖חַ</Word>
-<Word Book='Bamidbar' Chapter='28' Verse='8' WordSequence='14' IsParashaPtuchah='true' >לַיהוָֽה</Word>
-<Word Book='Bamidbar' Chapter='28' Verse='9' WordSequence='1' >וּבְיוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='28' Verse='8' WordSequence='14'>לַיהוָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='28' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וּבְיוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='9' WordSequence='2' >הַשַּׁבָּ֔ת</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='9' WordSequence='3' >שְׁנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='9' WordSequence='4' >כְבָשִׂ֥ים</Word>
@@ -12807,8 +12807,8 @@
 <Word Book='Bamidbar' Chapter='28' Verse='10' WordSequence='4' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='10' WordSequence='5' >עֹלַ֥ת</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='10' WordSequence='6' >הַתָּמִ֖יד</Word>
-<Word Book='Bamidbar' Chapter='28' Verse='10' WordSequence='7' >וְנִסְכָּֽהּ</Word>
-<Word Book='Bamidbar' Chapter='28' Verse='11' WordSequence='1' >וּבְרָאשֵׁי֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='28' Verse='10' WordSequence='7' >וְנִסְכָּֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='28' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וּבְרָאשֵׁי֙</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='11' WordSequence='2' >חָדְשֵׁיכֶ֔ם</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='11' WordSequence='3' >תַּקְרִ֥יבוּ</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='11' WordSequence='4' >עֹלָ֖ה</Word>
@@ -12880,8 +12880,8 @@
 <Word Book='Bamidbar' Chapter='28' Verse='15' WordSequence='7' >עֹלַ֧ת</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='15' WordSequence='8' >הַתָּמִ֛יד</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='15' WordSequence='9' >יֵעָשֶׂ֖ה</Word>
-<Word Book='Bamidbar' Chapter='28' Verse='15' WordSequence='10' >וְנִסְכּֽוֹ</Word>
-<Word Book='Bamidbar' Chapter='28' Verse='16' WordSequence='1' >וּבַחֹ֣דֶשׁ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='28' Verse='15' WordSequence='10' >וְנִסְכּֽוֹ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='28' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וּבַחֹ֣דֶשׁ</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='16' WordSequence='2' >הָרִאשׁ֗וֹן</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='16' WordSequence='3' >בְּאַרְבָּעָ֥ה</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='16' WordSequence='4' >עָשָׂ֛ר</Word>
@@ -12982,8 +12982,8 @@
 <Word Book='Bamidbar' Chapter='28' Verse='25' WordSequence='8' >מְלֶ֥אכֶת</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='25' WordSequence='9' >עֲבֹדָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='25' WordSequence='10' >לֹ֥א</Word>
-<Word Book='Bamidbar' Chapter='28' Verse='25' WordSequence='11' >תַעֲשֽׂוּ</Word>
-<Word Book='Bamidbar' Chapter='28' Verse='26' WordSequence='1' >וּבְי֣וֹם</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='28' Verse='25' WordSequence='11' >תַעֲשֽׂוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='28' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וּבְי֣וֹם</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='26' WordSequence='2' >הַבִּכּוּרִ֗ים</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='26' WordSequence='3' >בְּהַקְרִ֨יבְכֶ֜ם</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='26' WordSequence='4' >מִנְחָ֤ה</Word>
@@ -13045,8 +13045,8 @@
 <Word Book='Bamidbar' Chapter='28' Verse='31' WordSequence='6' >תְּמִימִ֥ם</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='31' WordSequence='7' >יִהְיוּ־</Word>
 <Word Book='Bamidbar' Chapter='28' Verse='31' WordSequence='8' >לָכֶ֖ם</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='28' Verse='31' WordSequence='9' IsParashaPtuchah='true' >וְנִסְכֵּיהֶֽם</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>וּבַחֹ֨דֶשׁ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='28' Verse='31' WordSequence='9'>וְנִסְכֵּיהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּבַחֹ֨דֶשׁ</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='1' WordSequence='2' >הַשְּׁבִיעִ֜י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='1' WordSequence='3' >בְּאֶחָ֣ד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='1' WordSequence='4' >לַחֹ֗דֶשׁ</Word>
@@ -13113,8 +13113,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='6' WordSequence='10' >לְרֵ֣יחַ</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='6' WordSequence='11' >נִיחֹ֔חַ</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='6' WordSequence='12' >אִשֶּׁ֖ה</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='6' WordSequence='13' >לַיהוָֽה</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='7' WordSequence='1' >וּבֶעָשׂוֹר֩</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='6' WordSequence='13' >לַיהוָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וּבֶעָשׂוֹר֩</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='7' WordSequence='2' >לַחֹ֨דֶשׁ</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='7' WordSequence='3' >הַשְּׁבִיעִ֜י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='7' WordSequence='4' >הַזֶּ֗ה</Word>
@@ -13174,8 +13174,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='11' WordSequence='8' >וְעֹלַ֣ת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='11' WordSequence='9' >הַתָּמִ֔יד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='11' WordSequence='10' >וּמִנְחָתָ֖הּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='11' WordSequence='11' IsParashaPtuchah='true' >וְנִסְכֵּיהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='12' WordSequence='1' >וּבַחֲמִשָּׁה֩</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='11' WordSequence='11'>וְנִסְכֵּיהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וּבַחֲמִשָּׁה֩</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='12' WordSequence='2' >עָשָׂ֨ר</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='12' WordSequence='3' >י֜וֹם</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='12' WordSequence='4' >לַחֹ֣דֶשׁ</Word>
@@ -13246,8 +13246,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='16' WordSequence='6' >עֹלַ֣ת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='16' WordSequence='7' >הַתָּמִ֔יד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='16' WordSequence='8' >מִנְחָתָ֖הּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='16' WordSequence='9' >וְנִסְכָּֽהּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='17' WordSequence='1' >וּבַיּ֣וֹם</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='16' WordSequence='9' >וְנִסְכָּֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וּבַיּ֣וֹם</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='17' WordSequence='2' >הַשֵּׁנִ֗י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='17' WordSequence='3' >פָּרִ֧ים</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='17' WordSequence='4' >בְּנֵי־</Word>
@@ -13277,8 +13277,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='19' WordSequence='6' >עֹלַ֣ת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='19' WordSequence='7' >הַתָּמִ֔יד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='19' WordSequence='8' >וּמִנְחָתָ֖הּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='19' WordSequence='9' >וְנִסְכֵּיהֶֽם</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='20' WordSequence='1' >וּבַיּ֧וֹם</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='19' WordSequence='9' >וְנִסְכֵּיהֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וּבַיּ֧וֹם</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='20' WordSequence='2' >הַשְּׁלִישִׁ֛י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='20' WordSequence='3' >פָּרִ֥ים</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='20' WordSequence='4' >עַשְׁתֵּי־</Word>
@@ -13305,8 +13305,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='22' WordSequence='5' >עֹלַ֣ת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='22' WordSequence='6' >הַתָּמִ֔יד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='22' WordSequence='7' >וּמִנְחָתָ֖הּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='22' WordSequence='8' >וְנִסְכָּֽהּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='23' WordSequence='1' >וּבַיּ֧וֹם</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='22' WordSequence='8' >וְנִסְכָּֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וּבַיּ֧וֹם</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='23' WordSequence='2' >הָרְבִיעִ֛י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='23' WordSequence='3' >פָּרִ֥ים</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='23' WordSequence='4' >עֲשָׂרָ֖ה</Word>
@@ -13333,8 +13333,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='25' WordSequence='6' >עֹלַ֣ת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='25' WordSequence='7' >הַתָּמִ֔יד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='25' WordSequence='8' >מִנְחָתָ֖הּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='25' WordSequence='9' >וְנִסְכָּֽהּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='26' WordSequence='1' >וּבַיּ֧וֹם</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='25' WordSequence='9' >וְנִסְכָּֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וּבַיּ֧וֹם</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='26' WordSequence='2' >הַחֲמִישִׁ֛י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='26' WordSequence='3' >פָּרִ֥ים</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='26' WordSequence='4' >תִּשְׁעָ֖ה</Word>
@@ -13360,8 +13360,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='28' WordSequence='5' >עֹלַ֣ת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='28' WordSequence='6' >הַתָּמִ֔יד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='28' WordSequence='7' >וּמִנְחָתָ֖הּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='28' WordSequence='8' >וְנִסְכָּֽהּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='29' WordSequence='1' >וּבַיּ֧וֹם</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='28' WordSequence='8' >וְנִסְכָּֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וּבַיּ֧וֹם</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='29' WordSequence='2' >הַשִּׁשִּׁ֛י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='29' WordSequence='3' >פָּרִ֥ים</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='29' WordSequence='4' >שְׁמֹנָ֖ה</Word>
@@ -13387,8 +13387,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='31' WordSequence='5' >עֹלַ֣ת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='31' WordSequence='6' >הַתָּמִ֔יד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='31' WordSequence='7' >מִנְחָתָ֖הּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='31' WordSequence='8' IsParashaPtuchah='true' >וּנְסָכֶֽיהָ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='32' WordSequence='1' >וּבַיּ֧וֹם</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='31' WordSequence='8'>וּנְסָכֶֽיהָ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וּבַיּ֧וֹם</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='32' WordSequence='2' >הַשְּׁבִיעִ֛י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='32' WordSequence='3' >פָּרִ֥ים</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='32' WordSequence='4' >שִׁבְעָ֖ה</Word>
@@ -13414,8 +13414,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='34' WordSequence='5' >עֹלַ֣ת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='34' WordSequence='6' >הַתָּמִ֔יד</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='34' WordSequence='7' >מִנְחָתָ֖הּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='34' WordSequence='8' IsParashaPtuchah='true' >וְנִסְכָּֽהּ</Word>
-<Word Book='Bamidbar' Chapter='29' Verse='35' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='34' WordSequence='8'>וְנִסְכָּֽהּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='29' Verse='35' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='35' WordSequence='2' >הַשְּׁמִינִ֔י</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='35' WordSequence='3' >עֲצֶ֖רֶת</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='35' WordSequence='4' >תִּהְיֶ֣ה</Word>
@@ -13465,8 +13465,8 @@
 <Word Book='Bamidbar' Chapter='29' Verse='39' WordSequence='8' >לְעֹלֹֽתֵיכֶם֙</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='39' WordSequence='9' >וּלְמִנְחֹ֣תֵיכֶ֔ם</Word>
 <Word Book='Bamidbar' Chapter='29' Verse='39' WordSequence='10' >וּלְנִסְכֵּיכֶ֖ם</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='29' Verse='39' WordSequence='11' >וּלְשַׁלְמֵיכֶֽם</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וַיֹּ֥אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='29' Verse='39' WordSequence='11'>וּלְשַׁלְמֵיכֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וַיֹּ֥אמֶר</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='1' WordSequence='2' >מֹשֶׁ֖ה</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='1' WordSequence='4' >בְּנֵ֣י</Word>
@@ -13476,8 +13476,8 @@
 <Word Book='Bamidbar' Chapter='30' Verse='1' WordSequence='8' >צִוָּ֥ה</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='1' WordSequence='9' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='1' WordSequence='10' >אֶת־</Word>
-<Word Book='Bamidbar' Chapter='30' Verse='1' WordSequence='11' IsParashaPtuchah='true' >מֹשֶֽׁה</Word>
-<Word Book='Bamidbar' Chapter='30' Verse='2' WordSequence='1' >וַיְדַבֵּ֤ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='30' Verse='1' WordSequence='11'>מֹשֶֽׁה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='30' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֤ר</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='2' WordSequence='2' >מֹשֶׁה֙</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='2' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='2' WordSequence='4' >רָאשֵׁ֣י</Word>
@@ -13728,8 +13728,8 @@
 <Word Book='Bamidbar' Chapter='30' Verse='17' WordSequence='13' >לְבִתּ֔וֹ</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='17' WordSequence='14' >בִּנְעֻרֶ֖יהָ</Word>
 <Word Book='Bamidbar' Chapter='30' Verse='17' WordSequence='15' >בֵּ֥ית</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='30' Verse='17' WordSequence='16' IsParashaPtuchah='true' >אָבִֽיהָ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='30' Verse='17' WordSequence='16'>אָבִֽיהָ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='31' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -13893,8 +13893,8 @@
 <Word Book='Bamidbar' Chapter='31' Verse='12' WordSequence='22' >אֲשֶׁ֖ר</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='12' WordSequence='23' >עַל־</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='12' WordSequence='24' >יַרְדֵּ֥ן</Word>
-<Word Book='Bamidbar' Chapter='31' Verse='12' WordSequence='25' >יְרֵחֽוֹ</Word>
-<Word Book='Bamidbar' Chapter='31' Verse='13' WordSequence='1' >וַיֵּ֨צְא֜וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='31' Verse='12' WordSequence='25' >יְרֵחֽוֹ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='31' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֨צְא֜וּ</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='13' WordSequence='2' >מֹשֶׁ֨ה</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='13' WordSequence='3' >וְאֶלְעָזָ֧ר</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='13' WordSequence='4' >הַכֹּהֵ֛ן</Word>
@@ -13992,8 +13992,8 @@
 <Word Book='Bamidbar' Chapter='31' Verse='20' WordSequence='9' >וְכָל־</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='20' WordSequence='10' >כְּלִי־</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='20' WordSequence='11' >עֵ֑ץ</Word>
-<Word Book='Bamidbar' Chapter='31' Verse='20' WordSequence='12' >תִּתְחַטָּֽאוּ</Word>
-<Word Book='Bamidbar' Chapter='31' Verse='21' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='31' Verse='20' WordSequence='12' >תִּתְחַטָּֽאוּ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='31' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='21' WordSequence='2' >אֶלְעָזָ֤ר</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='21' WordSequence='3' >הַכֹּהֵן֙</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='21' WordSequence='4' >אֶל־</Word>
@@ -14049,8 +14049,8 @@
 <Word Book='Bamidbar' Chapter='31' Verse='24' WordSequence='6' >וְאַחַ֖ר</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='24' WordSequence='7' >תָּבֹ֥אוּ</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='24' WordSequence='8' >אֶל־</Word>
-<Word Book='Bamidbar' Chapter='31' Verse='24' WordSequence='9' IsParashaPtuchah='true' >הַֽמַּחֲנֶֽה</Word>
-<Word Book='Bamidbar' Chapter='31' Verse='25' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='31' Verse='24' WordSequence='9'>הַֽמַּחֲנֶֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='31' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='25' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='25' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='25' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -14405,8 +14405,8 @@
 <Word Book='Bamidbar' Chapter='31' Verse='54' WordSequence='17' >לִבְנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='54' WordSequence='18' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='31' Verse='54' WordSequence='19' >לִפְנֵ֥י</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='31' Verse='54' WordSequence='20' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='32' Verse='1' WordSequence='1'>וּמִקְנֶ֣ה׀</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='31' Verse='54' WordSequence='20'>יְהוָֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='32' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּמִקְנֶ֣ה׀</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='1' WordSequence='2' >רַ֗ב</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='1' WordSequence='3' >הָיָ֞ה</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='1' WordSequence='4' >לִבְנֵ֧י</Word>
@@ -14461,8 +14461,8 @@
 <Word Book='Bamidbar' Chapter='32' Verse='4' WordSequence='9' >מִקְנֶ֖ה</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='4' WordSequence='10' >הִ֑וא</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='4' WordSequence='11' >וְלַֽעֲבָדֶ֖יךָ</Word>
-<Word Book='Bamidbar' Chapter='32' Verse='4' WordSequence='12' >מִקְנֶֽה</Word>
-<Word Book='Bamidbar' Chapter='32' Verse='5' WordSequence='1' >וַיֹּאמְר֗וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='32' Verse='4' WordSequence='12' >מִקְנֶֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='32' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמְר֗וּ</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='5' WordSequence='2' >אִם־</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='5' WordSequence='3' >מָצָ֤אנוּ</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='5' WordSequence='4' >חֵן֙</Word>
@@ -14613,8 +14613,8 @@
 <Word Book='Bamidbar' Chapter='32' Verse='15' WordSequence='8' >וְשִֽׁחַתֶּ֖ם</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='15' WordSequence='9' >לְכָל־</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='15' WordSequence='10' >הָעָ֥ם</Word>
-<Word Book='Bamidbar' Chapter='32' Verse='15' WordSequence='11' >הַזֶּֽה</Word>
-<Word Book='Bamidbar' Chapter='32' Verse='16' WordSequence='1' >וַיִּגְּשׁ֤וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='32' Verse='15' WordSequence='11' >הַזֶּֽה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='32' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיִּגְּשׁ֤וּ</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='16' WordSequence='2' >אֵלָיו֙</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='16' WordSequence='3' >וַ֣יֹּאמְר֔וּ</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='16' WordSequence='4' >גִּדְרֹ֥ת</Word>
@@ -14666,8 +14666,8 @@
 <Word Book='Bamidbar' Chapter='32' Verse='19' WordSequence='11' >אֵלֵ֔ינוּ</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='19' WordSequence='12' >מֵעֵ֥בֶר</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='19' WordSequence='13' >הַיַּרְדֵּ֖ן</Word>
-<Word Book='Bamidbar' Chapter='32' Verse='19' WordSequence='14' IsParashaPtuchah='true' >מִזְרָֽחָה</Word>
-<Word Book='Bamidbar' Chapter='32' Verse='20' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='32' Verse='19' WordSequence='14'>מִזְרָֽחָה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='32' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='20' WordSequence='2' >אֲלֵיהֶם֙</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='20' WordSequence='3' >מֹשֶׁ֔ה</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='20' WordSequence='4' >אִֽם־</Word>
@@ -14961,8 +14961,8 @@
 <Word Book='Bamidbar' Chapter='32' Verse='42' WordSequence='8' >וַיִּקְרָ֧א</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='42' WordSequence='9' >לָ֦ה</Word>
 <Word Book='Bamidbar' Chapter='32' Verse='42' WordSequence='10' >נֹ֖בַח</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='32' Verse='42' WordSequence='11' IsParashaPtuchah='true' >בִּשְׁמֽוֹ</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='33' Verse='1' WordSequence='1'>אֵ֜לֶּה</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='32' Verse='42' WordSequence='11'>בִּשְׁמֽוֹ</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='33' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אֵ֜לֶּה</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='1' WordSequence='2' >מַסְעֵ֣י</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='1' WordSequence='3' >בְנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='1' WordSequence='4' >יִשְׂרָאֵ֗ל</Word>
@@ -15246,8 +15246,8 @@
 <Word Book='Bamidbar' Chapter='33' Verse='39' WordSequence='6' >שָׁנָ֑ה</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='39' WordSequence='7' >בְּמֹת֖וֹ</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='39' WordSequence='8' >בְּהֹ֥ר</Word>
-<Word Book='Bamidbar' Chapter='33' Verse='39' WordSequence='9' >הָהָֽר</Word>
-<Word Book='Bamidbar' Chapter='33' Verse='40' WordSequence='1' >וַיִּשְׁמַ֗ע</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='33' Verse='39' WordSequence='9' >הָהָֽר</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='33' Verse='40' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁמַ֗ע</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='40' WordSequence='2' >הַֽכְּנַעֲנִי֙</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='40' WordSequence='3' >מֶ֣לֶךְ</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='40' WordSequence='4' >עֲרָ֔ד</Word>
@@ -15316,8 +15316,8 @@
 <Word Book='Bamidbar' Chapter='33' Verse='49' WordSequence='7' >אָבֵ֣ל</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='49' WordSequence='8' >הַשִּׁטִּ֑ים</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='49' WordSequence='9' >בְּעַֽרְבֹ֖ת</Word>
-<Word Book='Bamidbar' Chapter='33' Verse='49' WordSequence='10' >מוֹאָֽב</Word>
-<Word Book='Bamidbar' Chapter='33' Verse='50' WordSequence='1' >וַיְדַבֵּ֧ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='33' Verse='49' WordSequence='10' >מוֹאָֽב</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='33' Verse='50' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֧ר</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='50' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='50' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='50' WordSequence='4' >מֹשֶׁ֖ה</Word>
@@ -15425,8 +15425,8 @@
 <Word Book='Bamidbar' Chapter='33' Verse='56' WordSequence='4' >לַעֲשׂ֥וֹת</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='56' WordSequence='5' >לָהֶ֖ם</Word>
 <Word Book='Bamidbar' Chapter='33' Verse='56' WordSequence='6' >אֶֽעֱשֶׂ֥ה</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='33' Verse='56' WordSequence='7' IsParashaPtuchah='true' >לָכֶֽם</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='34' Verse='1' WordSequence='1'>וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='33' Verse='56' WordSequence='7'>לָכֶֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='34' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='1' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='1' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -15622,8 +15622,8 @@
 <Word Book='Bamidbar' Chapter='34' Verse='15' WordSequence='8' >לְיַרְדֵּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='15' WordSequence='9' >יְרֵח֖וֹ</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='15' WordSequence='10' >קֵ֥דְמָה</Word>
-<Word Book='Bamidbar' Chapter='34' Verse='15' WordSequence='11' IsParashaPtuchah='true' >מִזְרָֽחָה</Word>
-<Word Book='Bamidbar' Chapter='34' Verse='16' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='34' Verse='15' WordSequence='11'>מִזְרָֽחָה</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='34' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='16' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='16' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='16' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -15729,8 +15729,8 @@
 <Word Book='Bamidbar' Chapter='34' Verse='29' WordSequence='7' >בְּנֵֽי־</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='29' WordSequence='8' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Bamidbar' Chapter='34' Verse='29' WordSequence='9' >בְּאֶ֥רֶץ</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='34' Verse='29' WordSequence='10' IsParashaPtuchah='true' >כְּנָֽעַן</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='35' Verse='1' WordSequence='1'>וַיְדַבֵּ֧ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='34' Verse='29' WordSequence='10'>כְּנָֽעַן</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='35' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֧ר</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='1' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='1' WordSequence='4' >מֹשֶׁ֖ה</Word>
@@ -15855,8 +15855,8 @@
 <Word Book='Bamidbar' Chapter='35' Verse='8' WordSequence='17' >יִנְחָ֔לוּ</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='8' WordSequence='18' >יִתֵּ֥ן</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='8' WordSequence='19' >מֵעָרָ֖יו</Word>
-<Word Book='Bamidbar' Chapter='35' Verse='8' WordSequence='20' IsParashaPtuchah='true' >לַלְוִיִּֽם</Word>
-<Word Book='Bamidbar' Chapter='35' Verse='9' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='35' Verse='8' WordSequence='20'>לַלְוִיִּֽם</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='35' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='9' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='9' WordSequence='3' >אֶל־</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='9' WordSequence='4' >מֹשֶׁ֥ה</Word>
@@ -16211,8 +16211,8 @@
 <Word Book='Bamidbar' Chapter='35' Verse='34' WordSequence='16' >שֹׁכֵ֕ן</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='34' WordSequence='17' >בְּת֖וֹךְ</Word>
 <Word Book='Bamidbar' Chapter='35' Verse='34' WordSequence='18' >בְּנֵ֥י</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='35' Verse='34' WordSequence='19' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Bamidbar' StartPerekBeforeWord='true' Chapter='36' Verse='1' WordSequence='1'>וַֽיִּקְרְב֞וּ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='35' Verse='34' WordSequence='19'>יִשְׂרָאֵֽל</Word>
+<Word Book='Bamidbar' StartParashaBeforeWord='true' Chapter='36' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּקְרְב֞וּ</Word>
 <Word Book='Bamidbar' Chapter='36' Verse='1' WordSequence='2' >רָאשֵׁ֣י</Word>
 <Word Book='Bamidbar' Chapter='36' Verse='1' WordSequence='3' >הָֽאָב֗וֹת</Word>
 <Word Book='Bamidbar' Chapter='36' Verse='1' WordSequence='4' >לְמִשְׁפַּ֤חַת</Word>
@@ -16423,5 +16423,5 @@
 <Word Book='Bamidbar' Chapter='36' Verse='13' WordSequence='13' >מוֹאָ֔ב</Word>
 <Word Book='Bamidbar' Chapter='36' Verse='13' WordSequence='14' >עַ֖ל</Word>
 <Word Book='Bamidbar' Chapter='36' Verse='13' WordSequence='15' >יַרְדֵּ֥ן</Word>
-<Word Book='Bamidbar' EndPerekAfterWord='true' Chapter='36' Verse='13' WordSequence='16' >יְרֵחֽוֹ</Word>
+<Word Book='Bamidbar' EndParashaAfterWord='true' Chapter='36' Verse='13' WordSequence='16'>יְרֵחֽוֹ</Word>
 </Tanakh>

@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Yonah' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
+<Word Book='Yonah' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
 <Word Book='Yonah' Chapter='1' Verse='1' WordSequence='2' >דְּבַר־</Word>
 <Word Book='Yonah' Chapter='1' Verse='1' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Yonah' Chapter='1' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -252,8 +252,8 @@
 <Word Book='Yonah' Chapter='1' Verse='16' WordSequence='8' >זֶ֙בַח֙</Word>
 <Word Book='Yonah' Chapter='1' Verse='16' WordSequence='9' >לַֽיהוָ֔ה</Word>
 <Word Book='Yonah' Chapter='1' Verse='16' WordSequence='10' >וַֽיִּדְּר֖וּ</Word>
-<Word Book='Yonah' EndPerekAfterWord='true' Chapter='1' Verse='16' WordSequence='11' >נְדָרִֽים</Word>
-<Word Book='Yonah' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיְמַ֤ן</Word>
+<Word Book='Yonah' EndParashaAfterWord='true' Chapter='1' Verse='16' WordSequence='11'>נְדָרִֽים</Word>
+<Word Book='Yonah' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיְמַ֤ן</Word>
 <Word Book='Yonah' Chapter='2' Verse='1' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Yonah' Chapter='2' Verse='1' WordSequence='3' >דָּ֣ג</Word>
 <Word Book='Yonah' Chapter='2' Verse='1' WordSequence='4' >גָּד֔וֹל</Word>
@@ -356,16 +356,16 @@
 <Word Book='Yonah' Chapter='2' Verse='10' WordSequence='7' >נָדַ֖רְתִּי</Word>
 <Word Book='Yonah' Chapter='2' Verse='10' WordSequence='8' >אֲשַׁלֵּ֑מָה</Word>
 <Word Book='Yonah' Chapter='2' Verse='10' WordSequence='9' >יְשׁוּעָ֖תָה</Word>
-<Word Book='Yonah' Chapter='2' Verse='10' WordSequence='10' >לַיהוָֽה</Word>
-<Word Book='Yonah' Chapter='2' Verse='11' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Yonah' EndParashaAfterWord='true' Chapter='2' Verse='10' WordSequence='10' >לַיהוָֽה</Word>
+<Word Book='Yonah' StartParashaBeforeWord='true' Chapter='2' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Yonah' Chapter='2' Verse='11' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Yonah' Chapter='2' Verse='11' WordSequence='3' >לַדָּ֑ג</Word>
 <Word Book='Yonah' Chapter='2' Verse='11' WordSequence='4' >וַיָּקֵ֥א</Word>
 <Word Book='Yonah' Chapter='2' Verse='11' WordSequence='5' >אֶת־</Word>
 <Word Book='Yonah' Chapter='2' Verse='11' WordSequence='6' >יוֹנָ֖ה</Word>
 <Word Book='Yonah' Chapter='2' Verse='11' WordSequence='7' >אֶל־</Word>
-<Word Book='Yonah' EndPerekAfterWord='true' Chapter='2' Verse='11' WordSequence='8' IsParashaPtuchah='true' >הַיַּבָּשָֽׁה</Word>
-<Word Book='Yonah' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיְהִ֧י</Word>
+<Word Book='Yonah' EndParashaAfterWord='true' Chapter='2' Verse='11' WordSequence='8'>הַיַּבָּשָֽׁה</Word>
+<Word Book='Yonah' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֧י</Word>
 <Word Book='Yonah' Chapter='3' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yonah' Chapter='3' Verse='1' WordSequence='3' >יְהוָ֛ה</Word>
 <Word Book='Yonah' Chapter='3' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -503,8 +503,8 @@
 <Word Book='Yonah' Chapter='3' Verse='10' WordSequence='15' >לַעֲשׂוֹת־</Word>
 <Word Book='Yonah' Chapter='3' Verse='10' WordSequence='16' >לָהֶ֖ם</Word>
 <Word Book='Yonah' Chapter='3' Verse='10' WordSequence='17' >וְלֹ֥א</Word>
-<Word Book='Yonah' EndPerekAfterWord='true' Chapter='3' Verse='10' WordSequence='18' >עָשָֽׂה</Word>
-<Word Book='Yonah' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיֵּ֥רַע</Word>
+<Word Book='Yonah' EndParashaAfterWord='true' Chapter='3' Verse='10' WordSequence='18'>עָשָֽׂה</Word>
+<Word Book='Yonah' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיֵּ֥רַע</Word>
 <Word Book='Yonah' Chapter='4' Verse='1' WordSequence='2' >אֶל־</Word>
 <Word Book='Yonah' Chapter='4' Verse='1' WordSequence='3' >יוֹנָ֖ה</Word>
 <Word Book='Yonah' Chapter='4' Verse='1' WordSequence='4' >רָעָ֣ה</Word>
@@ -553,8 +553,8 @@
 <Word Book='Yonah' Chapter='4' Verse='3' WordSequence='8' >כִּ֛י</Word>
 <Word Book='Yonah' Chapter='4' Verse='3' WordSequence='9' >ט֥וֹב</Word>
 <Word Book='Yonah' Chapter='4' Verse='3' WordSequence='10' >מוֹתִ֖י</Word>
-<Word Book='Yonah' Chapter='4' Verse='3' WordSequence='11' >מֵחַיָּֽי</Word>
-<Word Book='Yonah' Chapter='4' Verse='4' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Yonah' EndParashaAfterWord='true' Chapter='4' Verse='3' WordSequence='11' >מֵחַיָּֽי</Word>
+<Word Book='Yonah' StartParashaBeforeWord='true' Chapter='4' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yonah' Chapter='4' Verse='4' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Yonah' Chapter='4' Verse='4' WordSequence='3' >הַהֵיטֵ֖ב</Word>
 <Word Book='Yonah' Chapter='4' Verse='4' WordSequence='4' >חָ֥רָה</Word>
@@ -686,5 +686,5 @@
 <Word Book='Yonah' Chapter='4' Verse='11' WordSequence='20' >יְמִינ֣וֹ</Word>
 <Word Book='Yonah' Chapter='4' Verse='11' WordSequence='21' >לִשְׂמֹאל֔וֹ</Word>
 <Word Book='Yonah' Chapter='4' Verse='11' WordSequence='22' >וּבְהֵמָ֖ה</Word>
-<Word Book='Yonah' EndPerekAfterWord='true' Chapter='4' Verse='11' WordSequence='23' >רַבָּֽה</Word>
+<Word Book='Yonah' EndParashaAfterWord='true' Chapter='4' Verse='11' WordSequence='23'>רַבָּֽה</Word>
 </Tanakh>

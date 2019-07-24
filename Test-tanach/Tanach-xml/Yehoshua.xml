@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='1' WordSequence='2' >אַחֲרֵ֛י</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='1' WordSequence='3' >מ֥וֹת</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='1' WordSequence='4' >מֹשֶׁ֖ה</Word>
@@ -157,8 +157,8 @@
 <Word Book='Yehoshua' Chapter='1' Verse='9' WordSequence='12' >אֱלֹהֶ֔יךָ</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='9' WordSequence='13' >בְּכֹ֖ל</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='9' WordSequence='14' >אֲשֶׁ֥ר</Word>
-<Word Book='Yehoshua' Chapter='1' Verse='9' WordSequence='15' IsParashaPtuchah='true' >תֵּלֵֽךְ</Word>
-<Word Book='Yehoshua' Chapter='1' Verse='10' WordSequence='1' >וַיְצַ֣ו</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='1' Verse='9' WordSequence='15'>תֵּלֵֽךְ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='1' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיְצַ֣ו</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='10' WordSequence='2' >יְהוֹשֻׁ֔עַ</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='10' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='10' WordSequence='4' >שֹׁטְרֵ֥י</Word>
@@ -192,8 +192,8 @@
 <Word Book='Yehoshua' Chapter='1' Verse='11' WordSequence='26' >אֱלֹֽהֵיכֶ֔ם</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='11' WordSequence='27' >נֹתֵ֥ן</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='11' WordSequence='28' >לָכֶ֖ם</Word>
-<Word Book='Yehoshua' Chapter='1' Verse='11' WordSequence='29' >לְרִשְׁתָּֽהּ</Word>
-<Word Book='Yehoshua' Chapter='1' Verse='12' WordSequence='1' >וְלָרֽאוּבֵנִי֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='1' Verse='11' WordSequence='29' >לְרִשְׁתָּֽהּ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='1' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְלָרֽאוּבֵנִי֙</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='12' WordSequence='2' >וְלַגָּדִ֔י</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='12' WordSequence='3' >וְלַחֲצִ֖י</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='12' WordSequence='4' >שֵׁ֣בֶט</Word>
@@ -318,8 +318,8 @@
 <Word Book='Yehoshua' Chapter='1' Verse='18' WordSequence='14' >יוּמָ֑ת</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='18' WordSequence='15' >רַ֖ק</Word>
 <Word Book='Yehoshua' Chapter='1' Verse='18' WordSequence='16' >חֲזַ֥ק</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='1' Verse='18' WordSequence='17' IsParashaPtuchah='true' >וֶאֱמָֽץ</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיִּשְׁלַ֣ח</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='1' Verse='18' WordSequence='17'>וֶאֱמָֽץ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֣ח</Word>
 <Word Book='Yehoshua' Chapter='2' Verse='1' WordSequence='2' >יְהוֹשֻׁ֣עַ־</Word>
 <Word Book='Yehoshua' Chapter='2' Verse='1' WordSequence='3' >בִּן־</Word>
 <Word Book='Yehoshua' Chapter='2' Verse='1' WordSequence='4' >נ֠וּן</Word>
@@ -722,8 +722,8 @@
 <Word Book='Yehoshua' Chapter='2' Verse='24' WordSequence='13' >כָּל־</Word>
 <Word Book='Yehoshua' Chapter='2' Verse='24' WordSequence='14' >יֹשְׁבֵ֥י</Word>
 <Word Book='Yehoshua' Chapter='2' Verse='24' WordSequence='15' >הָאָ֖רֶץ</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='2' Verse='24' WordSequence='16' IsParashaPtuchah='true' >מִפָּנֵֽינוּ</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיַּשְׁכֵּם֩</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='2' Verse='24' WordSequence='16' >מִפָּנֵֽינוּ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּשְׁכֵּם֩</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='1' WordSequence='2' >יְהוֹשֻׁ֨עַ</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='1' WordSequence='3' >בַּבֹּ֜קֶר</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='1' WordSequence='4' >וַיִּסְע֣וּ</Word>
@@ -791,8 +791,8 @@
 <Word Book='Yehoshua' Chapter='3' Verse='4' WordSequence='23' >עֲבַרְתֶּ֛ם</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='4' WordSequence='24' >בַּדֶּ֖רֶךְ</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='4' WordSequence='25' >מִתְּמ֥וֹל</Word>
-<Word Book='Yehoshua' Chapter='3' Verse='4' WordSequence='26' >שִׁלְשֽׁוֹם</Word>
-<Word Book='Yehoshua' Chapter='3' Verse='5' WordSequence='1' >וַיֹּ֧אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='3' Verse='4' WordSequence='26' >שִׁלְשֽׁוֹם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='3' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֧אמֶר</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='5' WordSequence='2' >יְהוֹשֻׁ֛עַ</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='5' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='5' WordSequence='4' >הָעָ֖ם</Word>
@@ -821,8 +821,8 @@
 <Word Book='Yehoshua' Chapter='3' Verse='6' WordSequence='16' >הַבְּרִ֔ית</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='6' WordSequence='17' >וַיֵּלְכ֖וּ</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='6' WordSequence='18' >לִפְנֵ֥י</Word>
-<Word Book='Yehoshua' Chapter='3' Verse='6' WordSequence='19' >הָעָֽם</Word>
-<Word Book='Yehoshua' Chapter='3' Verse='7' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='3' Verse='6' WordSequence='19' >הָעָֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='3' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='7' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='7' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='7' WordSequence='4' >יְהוֹשֻׁ֔עַ</Word>
@@ -856,8 +856,8 @@
 <Word Book='Yehoshua' Chapter='3' Verse='8' WordSequence='12' >מֵ֣י</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='8' WordSequence='13' >הַיַּרְדֵּ֔ן</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='8' WordSequence='14' >בַּיַּרְדֵּ֖ן</Word>
-<Word Book='Yehoshua' Chapter='3' Verse='8' WordSequence='15' IsParashaPtuchah='true' >תַּעֲמֹֽדוּ</Word>
-<Word Book='Yehoshua' Chapter='3' Verse='9' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='3' Verse='8' WordSequence='15'>תַּעֲמֹֽדוּ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='3' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='9' WordSequence='2' >יְהוֹשֻׁ֖עַ</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='9' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='9' WordSequence='4' >בְּנֵ֣י</Word>
@@ -1017,15 +1017,15 @@
 <Word Book='Yehoshua' Chapter='3' Verse='17' WordSequence='19' >הַגּ֔וֹי</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='17' WordSequence='20' >לַעֲבֹ֖ר</Word>
 <Word Book='Yehoshua' Chapter='3' Verse='17' WordSequence='21' >אֶת־</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='3' Verse='17' WordSequence='22' >הַיַּרְדֵּֽן</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיְהִי֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='3' Verse='17' WordSequence='22'>הַיַּרְדֵּֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיְהִי֙</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='2' >כַּאֲשֶׁר־</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='3' >תַּ֣מּוּ</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='4' >כָל־</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='5' >הַגּ֔וֹי</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='6' >לַעֲב֖וֹר</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='7' >אֶת־</Word>
-<Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='8' IsParashaPtuchah='true' >הַיַּרְדֵּ֑ן</Word>
+<Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='8' >הַיַּרְדֵּ֑ן</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='10' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='11' >יְהוָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='1' WordSequence='12' >אֶל־</Word>
@@ -1067,8 +1067,8 @@
 <Word Book='Yehoshua' Chapter='4' Verse='3' WordSequence='22' >אֲשֶׁר־</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='3' WordSequence='23' >תָּלִ֥ינוּ</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='3' WordSequence='24' >ב֖וֹ</Word>
-<Word Book='Yehoshua' Chapter='4' Verse='3' WordSequence='25' >הַלָּֽיְלָה</Word>
-<Word Book='Yehoshua' Chapter='4' Verse='4' WordSequence='1' >וַיִּקְרָ֣א</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='4' Verse='3' WordSequence='25' >הַלָּֽיְלָה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='4' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרָ֣א</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='4' WordSequence='2' >יְהוֹשֻׁ֗עַ</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='4' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='4' WordSequence='4' >שְׁנֵ֤ים</Word>
@@ -1254,8 +1254,8 @@
 <Word Book='Yehoshua' Chapter='4' Verse='13' WordSequence='8' >לַמִּלְחָמָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='13' WordSequence='9' >אֶ֖ל</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='13' WordSequence='10' >עַֽרְב֥וֹת</Word>
-<Word Book='Yehoshua' Chapter='4' Verse='13' WordSequence='11' >יְרִיחֽוֹ</Word>
-<Word Book='Yehoshua' Chapter='4' Verse='14' WordSequence='1' >בַּיּ֣וֹם</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='4' Verse='13' WordSequence='11' >יְרִיחֽוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='4' Verse='14' WordSequence='1' IsParashaPtuchah='true' >בַּיּ֣וֹם</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='14' WordSequence='2' >הַה֗וּא</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='14' WordSequence='3' >גִּדַּ֤ל</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='14' WordSequence='4' >יְהוָה֙</Word>
@@ -1272,8 +1272,8 @@
 <Word Book='Yehoshua' Chapter='4' Verse='14' WordSequence='15' >מֹשֶׁ֖ה</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='14' WordSequence='16' >כָּל־</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='14' WordSequence='17' >יְמֵ֥י</Word>
-<Word Book='Yehoshua' Chapter='4' Verse='14' WordSequence='18' IsParashaPtuchah='true' >חַיָּֽיו</Word>
-<Word Book='Yehoshua' Chapter='4' Verse='15' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='4' Verse='14' WordSequence='18'>חַיָּֽיו</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='4' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='15' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='15' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='15' WordSequence='4' >יְהוֹשֻׁ֖עַ</Word>
@@ -1408,8 +1408,8 @@
 <Word Book='Yehoshua' Chapter='4' Verse='24' WordSequence='15' >יְהוָ֥ה</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='24' WordSequence='16' >אֱלֹהֵיכֶ֖ם</Word>
 <Word Book='Yehoshua' Chapter='4' Verse='24' WordSequence='17' >כָּל־</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='4' Verse='24' WordSequence='18' IsParashaPtuchah='true' >הַיָּמִֽים</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וַיְהִ֣י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='4' Verse='24' WordSequence='18' >הַיָּמִֽים</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='1' WordSequence='2' >כִשְׁמֹ֣עַ</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='1' WordSequence='3' >כָּל־</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='1' WordSequence='4' >מַלְכֵ֣י</Word>
@@ -1446,8 +1446,8 @@
 <Word Book='Yehoshua' Chapter='5' Verse='1' WordSequence='35' >ר֔וּחַ</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='1' WordSequence='36' >מִפְּנֵ֖י</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='1' WordSequence='37' >בְּנֵֽי־</Word>
-<Word Book='Yehoshua' Chapter='5' Verse='1' WordSequence='38' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yehoshua' Chapter='5' Verse='2' WordSequence='1' >בָּעֵ֣ת</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='5' Verse='1' WordSequence='38' >יִשְׂרָאֵֽל</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='5' Verse='2' WordSequence='1' IsParashaPtuchah='true' >בָּעֵ֣ת</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='2' WordSequence='2' >הַהִ֗יא</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='2' WordSequence='3' >אָמַ֤ר</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='2' WordSequence='4' >יְהוָה֙</Word>
@@ -1571,8 +1571,8 @@
 <Word Book='Yehoshua' Chapter='5' Verse='8' WordSequence='8' >תַחְתָּ֛ם</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='8' WordSequence='9' >בַּֽמַּחֲנֶ֖ה</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='8' WordSequence='10' >עַ֥ד</Word>
-<Word Book='Yehoshua' Chapter='5' Verse='8' WordSequence='11' IsParashaPtuchah='true' >חֲיוֹתָֽם</Word>
-<Word Book='Yehoshua' Chapter='5' Verse='9' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='5' Verse='8' WordSequence='11'>חֲיוֹתָֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='5' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='9' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='9' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='9' WordSequence='4' >יְהוֹשֻׁ֔עַ</Word>
@@ -1631,8 +1631,8 @@
 <Word Book='Yehoshua' Chapter='5' Verse='12' WordSequence='15' >אֶ֣רֶץ</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='12' WordSequence='16' >כְּנַ֔עַן</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='12' WordSequence='17' >בַּשָּׁנָ֖ה</Word>
-<Word Book='Yehoshua' Chapter='5' Verse='12' WordSequence='18' >הַהִֽיא</Word>
-<Word Book='Yehoshua' Chapter='5' Verse='13' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='5' Verse='12' WordSequence='18' >הַהִֽיא</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='5' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='13' WordSequence='2' >בִּֽהְי֣וֹת</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='13' WordSequence='3' >יְהוֹשֻׁעַ֮</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='13' WordSequence='4' >בִּירִיחוֹ֒</Word>
@@ -1697,8 +1697,8 @@
 <Word Book='Yehoshua' Chapter='5' Verse='15' WordSequence='18' >ה֑וּא</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='15' WordSequence='19' >וַיַּ֥עַשׂ</Word>
 <Word Book='Yehoshua' Chapter='5' Verse='15' WordSequence='20' >יְהוֹשֻׁ֖עַ</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='5' Verse='15' WordSequence='21' >כֵּֽן</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וִֽירִיחוֹ֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='5' Verse='15' WordSequence='21'>כֵּֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וִֽירִיחוֹ֙</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='1' WordSequence='2' >סֹגֶ֣רֶת</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='1' WordSequence='3' >וּמְסֻגֶּ֔רֶת</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='1' WordSequence='4' >מִפְּנֵ֖י</Word>
@@ -1707,8 +1707,8 @@
 <Word Book='Yehoshua' Chapter='6' Verse='1' WordSequence='7' >אֵ֥ין</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='1' WordSequence='8' >יוֹצֵ֖א</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='1' WordSequence='9' >וְאֵ֥ין</Word>
-<Word Book='Yehoshua' Chapter='6' Verse='1' WordSequence='10' >בָּֽא</Word>
-<Word Book='Yehoshua' Chapter='6' Verse='2' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='6' Verse='1' WordSequence='10' >בָּֽא</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='6' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='2' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='2' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='2' WordSequence='4' >יְהוֹשֻׁ֔עַ</Word>
@@ -1877,8 +1877,8 @@
 <Word Book='Yehoshua' Chapter='6' Verse='11' WordSequence='9' >וַיָּבֹ֙אוּ֙</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='11' WordSequence='10' >הַֽמַּחֲנֶ֔ה</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='11' WordSequence='11' >וַיָּלִ֖ינוּ</Word>
-<Word Book='Yehoshua' Chapter='6' Verse='11' WordSequence='12' IsParashaPtuchah='true' >בַּֽמַּחֲנֶֽה</Word>
-<Word Book='Yehoshua' Chapter='6' Verse='12' WordSequence='1' >וַיַּשְׁכֵּ֥ם</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='6' Verse='11' WordSequence='12'>בַּֽמַּחֲנֶֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='6' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיַּשְׁכֵּ֥ם</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='12' WordSequence='2' >יְהוֹשֻׁ֖עַ</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='12' WordSequence='3' >בַּבֹּ֑קֶר</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='12' WordSequence='4' >וַיִּשְׂא֥וּ</Word>
@@ -2145,8 +2145,8 @@
 <Word Book='Yehoshua' Chapter='6' Verse='25' WordSequence='25' >יְהוֹשֻׁ֖עַ</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='25' WordSequence='26' >לְרַגֵּ֥ל</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='25' WordSequence='27' >אֶת־</Word>
-<Word Book='Yehoshua' Chapter='6' Verse='25' WordSequence='28' IsParashaPtuchah='true' >יְרִיחֽוֹ</Word>
-<Word Book='Yehoshua' Chapter='6' Verse='26' WordSequence='1' >וַיַּשְׁבַּ֣ע</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='6' Verse='25' WordSequence='28'>יְרִיחֽוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='6' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַיַּשְׁבַּ֣ע</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='26' WordSequence='2' >יְהוֹשֻׁ֔עַ</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='26' WordSequence='3' >בָּעֵ֥ת</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='26' WordSequence='4' >הַהִ֖יא</Word>
@@ -2175,8 +2175,8 @@
 <Word Book='Yehoshua' Chapter='6' Verse='27' WordSequence='5' >וַיְהִ֥י</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='27' WordSequence='6' >שָׁמְע֖וֹ</Word>
 <Word Book='Yehoshua' Chapter='6' Verse='27' WordSequence='7' >בְּכָל־</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='6' Verse='27' WordSequence='8' >הָאָֽרֶץ</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיִּמְעֲל֧וּ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='6' Verse='27' WordSequence='8'>הָאָֽרֶץ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיִּמְעֲל֧וּ</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='1' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='1' WordSequence='3' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='1' WordSequence='4' >מַ֖עַל</Word>
@@ -2348,8 +2348,8 @@
 <Word Book='Yehoshua' Chapter='7' Verse='9' WordSequence='13' >וּמַֽה־</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='9' WordSequence='14' >תַּעֲשֵׂ֖ה</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='9' WordSequence='15' >לְשִׁמְךָ֥</Word>
-<Word Book='Yehoshua' Chapter='7' Verse='9' WordSequence='16' >הַגָּדֽוֹל</Word>
-<Word Book='Yehoshua' Chapter='7' Verse='10' WordSequence='1' >וַיֹּ֧אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='7' Verse='9' WordSequence='16' >הַגָּדֽוֹל</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='7' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֧אמֶר</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='10' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='10' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='10' WordSequence='4' >יְהוֹשֻׁ֖עַ</Word>
@@ -2670,8 +2670,8 @@
 <Word Book='Yehoshua' Chapter='7' Verse='26' WordSequence='20' >עָכ֔וֹר</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='26' WordSequence='21' >עַ֖ד</Word>
 <Word Book='Yehoshua' Chapter='7' Verse='26' WordSequence='22' >הַיּ֥וֹם</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='7' Verse='26' WordSequence='23' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיֹּ֨אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='7' Verse='26' WordSequence='23'>הַזֶּֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='1' WordSequence='2' >יְהוָ֤ה</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='1' WordSequence='4' >יְהוֹשֻׁ֙עַ֙</Word>
@@ -2952,8 +2952,8 @@
 <Word Book='Yehoshua' Chapter='8' Verse='17' WordSequence='15' >פְּתוּחָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='17' WordSequence='16' >וַֽיִּרְדְּפ֖וּ</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='17' WordSequence='17' >אַחֲרֵ֥י</Word>
-<Word Book='Yehoshua' Chapter='8' Verse='17' WordSequence='18' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yehoshua' Chapter='8' Verse='18' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='8' Verse='17' WordSequence='18'>יִשְׂרָאֵֽל</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='8' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='18' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='18' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='18' WordSequence='4' >יְהוֹשֻׁ֗עַ</Word>
@@ -3169,8 +3169,8 @@
 <Word Book='Yehoshua' Chapter='8' Verse='29' WordSequence='29' >גָּד֔וֹל</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='29' WordSequence='30' >עַ֖ד</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='29' WordSequence='31' >הַיּ֥וֹם</Word>
-<Word Book='Yehoshua' Chapter='8' Verse='29' WordSequence='32' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Yehoshua' Chapter='8' Verse='30' WordSequence='1' >אָ֣ז</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='8' Verse='29' WordSequence='32'>הַזֶּֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='8' Verse='30' WordSequence='1' IsParashaPtuchah='true' >אָ֣ז</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='30' WordSequence='2' >יִבְנֶ֤ה</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='30' WordSequence='3' >יְהוֹשֻׁ֙עַ֙</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='30' WordSequence='4' >מִזְבֵּ֔חַ</Word>
@@ -3288,8 +3288,8 @@
 <Word Book='Yehoshua' Chapter='8' Verse='35' WordSequence='17' >וְהַטַּ֔ף</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='35' WordSequence='18' >וְהַגֵּ֖ר</Word>
 <Word Book='Yehoshua' Chapter='8' Verse='35' WordSequence='19' >הַהֹלֵ֥ךְ</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='8' Verse='35' WordSequence='20' IsParashaPtuchah='true' >בְּקִרְבָּֽם</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיְהִ֣י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='8' Verse='35' WordSequence='20'>בְּקִרְבָּֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='1' WordSequence='2' >כִשְׁמֹ֣עַ</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='1' WordSequence='3' >כָּֽל־</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='1' WordSequence='4' >הַמְּלָכִ֡ים</Word>
@@ -3319,8 +3319,8 @@
 <Word Book='Yehoshua' Chapter='9' Verse='2' WordSequence='6' >וְעִם־</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='2' WordSequence='7' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='2' WordSequence='8' >פֶּ֖ה</Word>
-<Word Book='Yehoshua' Chapter='9' Verse='2' WordSequence='9' IsParashaPtuchah='true' >אֶחָֽד</Word>
-<Word Book='Yehoshua' Chapter='9' Verse='3' WordSequence='1' >וְיֹשְׁבֵ֨י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='9' Verse='2' WordSequence='9'>אֶחָֽד</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='9' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וְיֹשְׁבֵ֨י</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='3' WordSequence='2' >גִבְע֜וֹן</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='3' WordSequence='3' >שָׁמְע֗וּ</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='3' WordSequence='4' >אֵת֩</Word>
@@ -3705,8 +3705,8 @@
 <Word Book='Yehoshua' Chapter='9' Verse='27' WordSequence='15' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='27' WordSequence='16' >הַמָּק֖וֹם</Word>
 <Word Book='Yehoshua' Chapter='9' Verse='27' WordSequence='17' >אֲשֶׁ֥ר</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='9' Verse='27' WordSequence='18' IsParashaPtuchah='true' >יִבְחָֽר</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וַיְהִי֩</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='9' Verse='27' WordSequence='18'>יִבְחָֽר</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֩</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='1' WordSequence='2' >כִשְׁמֹ֨עַ</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='1' WordSequence='3' >אֲדֹֽנִי־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='1' WordSequence='4' >צֶ֜דֶק</Word>
@@ -3847,8 +3847,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='7' WordSequence='9' >עִמּ֔וֹ</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='7' WordSequence='10' >וְכֹ֖ל</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='7' WordSequence='11' >גִּבּוֹרֵ֥י</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='7' WordSequence='12' IsParashaPtuchah='true' >הֶחָֽיִל</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='8' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='7' WordSequence='12'>הֶחָֽיִל</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='8' WordSequence='2' >יְהוָ֤ה</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='8' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='8' WordSequence='4' >יְהוֹשֻׁ֙עַ֙</Word>
@@ -3917,8 +3917,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='11' WordSequence='25' >הָרְג֛וּ</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='11' WordSequence='26' >בְּנֵ֥י</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='11' WordSequence='27' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='11' WordSequence='28' >בֶּחָֽרֶב</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='12' WordSequence='1' >אָ֣ז</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='11' WordSequence='28' >בֶּחָֽרֶב</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='12' WordSequence='1' IsParashaPtuchah='true' >אָ֣ז</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='12' WordSequence='2' >יְדַבֵּ֤ר</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='12' WordSequence='3' >יְהוֹשֻׁעַ֙</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='12' WordSequence='4' >לַֽיהוָ֔ה</Word>
@@ -3975,8 +3975,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='14' WordSequence='11' >כִּ֣י</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='14' WordSequence='12' >יְהוָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='14' WordSequence='13' >נִלְחָ֖ם</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='14' WordSequence='14' IsParashaPtuchah='true' >לְיִשְׂרָאֵֽל</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='15' WordSequence='1' >וַיָּ֤שָׁב</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='14' WordSequence='14'>לְיִשְׂרָאֵֽל</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֤שָׁב</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='15' WordSequence='2' >יְהוֹשֻׁ֙עַ֙</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='15' WordSequence='3' >וְכָל־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='15' WordSequence='4' >יִשְׂרָאֵ֣ל</Word>
@@ -4195,8 +4195,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='27' WordSequence='22' >עַד־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='27' WordSequence='23' >עֶ֖צֶם</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='27' WordSequence='24' >הַיּ֥וֹם</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='27' WordSequence='25' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='28' WordSequence='1' >וְאֶת־</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='27' WordSequence='25'>הַזֶּֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וְאֶת־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='28' WordSequence='2' >מַקֵּדָה֩</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='28' WordSequence='3' >לָכַ֨ד</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='28' WordSequence='4' >יְהוֹשֻׁ֜עַ</Word>
@@ -4259,8 +4259,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='30' WordSequence='23' >כַּאֲשֶׁ֥ר</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='30' WordSequence='24' >עָשָׂ֖ה</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='30' WordSequence='25' >לְמֶ֥לֶךְ</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='30' WordSequence='26' >יְרִיחֽוֹ</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='31' WordSequence='1' >וַיַּעֲבֹ֣ר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='30' WordSequence='26' >יְרִיחֽוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲבֹ֣ר</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='31' WordSequence='2' >יְ֠הוֹשֻׁעַ</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='31' WordSequence='3' >וְכָל־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='31' WordSequence='4' >יִשְׂרָאֵ֥ל</Word>
@@ -4291,8 +4291,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='32' WordSequence='18' >כְּכֹ֥ל</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='32' WordSequence='19' >אֲשֶׁר־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='32' WordSequence='20' >עָשָׂ֖ה</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='32' WordSequence='21' IsParashaPtuchah='true' >לְלִבְנָֽה</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='33' WordSequence='1' >אָ֣ז</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='32' WordSequence='21'>לְלִבְנָֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='33' WordSequence='1' IsParashaPtuchah='true' >אָ֣ז</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='33' WordSequence='2' >עָלָ֗ה</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='33' WordSequence='3' >הֹרָם֙</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='33' WordSequence='4' >מֶ֣לֶךְ</Word>
@@ -4337,8 +4337,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='35' WordSequence='15' >כְּכֹ֥ל</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='35' WordSequence='16' >אֲשֶׁר־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='35' WordSequence='17' >עָשָׂ֖ה</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='35' WordSequence='18' IsParashaPtuchah='true' >לְלָכִֽישׁ</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='36' WordSequence='1' >וַיַּ֣עַל</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='35' WordSequence='18'>לְלָכִֽישׁ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='36' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֣עַל</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='36' WordSequence='2' >יְ֠הוֹשֻׁעַ</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='36' WordSequence='3' >וְכָֽל־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='36' WordSequence='4' >יִשְׂרָאֵ֥ל</Word>
@@ -4374,8 +4374,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='37' WordSequence='25' >כָּל־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='37' WordSequence='26' >הַנֶּ֖פֶשׁ</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='37' WordSequence='27' >אֲשֶׁר־</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='37' WordSequence='28' >בָּֽהּ</Word>
-<Word Book='Yehoshua' Chapter='10' Verse='38' WordSequence='1' >וַיָּ֧שָׁב</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='37' WordSequence='28' >בָּֽהּ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='10' Verse='38' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֧שָׁב</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='38' WordSequence='2' >יְהוֹשֻׁ֛עַ</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='38' WordSequence='3' >וְכָל־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='38' WordSequence='4' >יִשְׂרָאֵ֥ל</Word>
@@ -4471,8 +4471,8 @@
 <Word Book='Yehoshua' Chapter='10' Verse='43' WordSequence='5' >עִמּ֔וֹ</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='43' WordSequence='6' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='10' Verse='43' WordSequence='7' >הַֽמַּחֲנֶ֖ה</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='10' Verse='43' WordSequence='8' IsParashaPtuchah='true' >הַגִּלְגָּֽלָה</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַיְהִ֕י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='10' Verse='43' WordSequence='8'>הַגִּלְגָּֽלָה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֕י</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='1' WordSequence='2' >כִּשְׁמֹ֖עַ</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='1' WordSequence='3' >יָבִ֣ין</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='1' WordSequence='4' >מֶֽלֶךְ־</Word>
@@ -4542,8 +4542,8 @@
 <Word Book='Yehoshua' Chapter='11' Verse='5' WordSequence='10' >מֵר֔וֹם</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='5' WordSequence='11' >לְהִלָּחֵ֖ם</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='5' WordSequence='12' >עִם־</Word>
-<Word Book='Yehoshua' Chapter='11' Verse='5' WordSequence='13' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yehoshua' Chapter='11' Verse='6' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='11' Verse='5' WordSequence='13'>יִשְׂרָאֵֽל</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='11' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='6' WordSequence='2' >יְהוָ֣ה</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='6' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='6' WordSequence='4' >יְהוֹשֻׁעַ֮</Word>
@@ -4616,8 +4616,8 @@
 <Word Book='Yehoshua' Chapter='11' Verse='9' WordSequence='11' >וְאֶת־</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='9' WordSequence='12' >מַרְכְּבֹתֵיהֶ֖ם</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='9' WordSequence='13' >שָׂרַ֥ף</Word>
-<Word Book='Yehoshua' Chapter='11' Verse='9' WordSequence='14' >בָּאֵֽשׁ</Word>
-<Word Book='Yehoshua' Chapter='11' Verse='10' WordSequence='1' >וַיָּ֨שָׁב</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='11' Verse='9' WordSequence='14' >בָּאֵֽשׁ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='11' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֨שָׁב</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='10' WordSequence='2' >יְהוֹשֻׁ֜עַ</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='10' WordSequence='3' >בָּעֵ֤ת</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='10' WordSequence='4' >הַהִיא֙</Word>
@@ -4824,8 +4824,8 @@
 <Word Book='Yehoshua' Chapter='11' Verse='20' WordSequence='22' >צִוָּ֥ה</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='20' WordSequence='23' >יְהוָ֖ה</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='20' WordSequence='24' >אֶת־</Word>
-<Word Book='Yehoshua' Chapter='11' Verse='20' WordSequence='25' >מֹשֶֽׁה</Word>
-<Word Book='Yehoshua' Chapter='11' Verse='21' WordSequence='1' >וַיָּבֹ֨א</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='11' Verse='20' WordSequence='25' >מֹשֶֽׁה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='11' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֨א</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='21' WordSequence='2' >יְהוֹשֻׁ֜עַ</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='21' WordSequence='3' >בָּעֵ֣ת</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='21' WordSequence='4' >הַהִ֗יא</Word>
@@ -4880,8 +4880,8 @@
 <Word Book='Yehoshua' Chapter='11' Verse='23' WordSequence='17' >לְשִׁבְטֵיהֶ֑ם</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='23' WordSequence='18' >וְהָאָ֥רֶץ</Word>
 <Word Book='Yehoshua' Chapter='11' Verse='23' WordSequence='19' >שָׁקְטָ֖ה</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='11' Verse='23' WordSequence='20' IsParashaPtuchah='true' >מִמִּלְחָמָֽה</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וְאֵ֣לֶּה׀</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='11' Verse='23' WordSequence='20'>מִמִּלְחָמָֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֣לֶּה׀</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='1' WordSequence='2' >מַלְכֵ֣י</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='1' WordSequence='3' >הָאָ֗רֶץ</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='1' WordSequence='4' >אֲשֶׁ֨ר</Word>
@@ -4983,8 +4983,8 @@
 <Word Book='Yehoshua' Chapter='12' Verse='6' WordSequence='13' >וְלַגָּדִ֔י</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='6' WordSequence='14' >וְלַחֲצִ֖י</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='6' WordSequence='15' >שֵׁ֥בֶט</Word>
-<Word Book='Yehoshua' Chapter='12' Verse='6' WordSequence='16' >הַֽמְנַשֶּֽׁה</Word>
-<Word Book='Yehoshua' Chapter='12' Verse='7' WordSequence='1' >וְאֵ֣לֶּה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='12' Verse='6' WordSequence='16' >הַֽמְנַשֶּֽׁה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='12' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֣לֶּה</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='7' WordSequence='2' >מַלְכֵ֣י</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='7' WordSequence='3' >הָאָ֡רֶץ</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='7' WordSequence='4' >אֲשֶׁר֩</Word>
@@ -5021,8 +5021,8 @@
 <Word Book='Yehoshua' Chapter='12' Verse='8' WordSequence='9' >וְהַֽכְּנַעֲנִי֙</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='8' WordSequence='10' >הַפְּרִזִּ֔י</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='8' WordSequence='11' >הַחִוִּ֖י</Word>
-<Word Book='Yehoshua' Chapter='12' Verse='8' WordSequence='12' IsParashaPtuchah='true' >וְהַיְבוּסִֽי</Word>
-<Word Book='Yehoshua' Chapter='12' Verse='9' WordSequence='1' >מֶ֥לֶךְ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='12' Verse='8' WordSequence='12'>וְהַיְבוּסִֽי</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='12' Verse='9' WordSequence='1' IsParashaPtuchah='true' >מֶ֥לֶךְ</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='9' WordSequence='2' >יְרִיח֖וֹ</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='9' WordSequence='3' >אֶחָ֑ד</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='9' WordSequence='4' >מֶ֧לֶךְ</Word>
@@ -5128,8 +5128,8 @@
 <Word Book='Yehoshua' Chapter='12' Verse='24' WordSequence='4' >כָּל־</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='24' WordSequence='5' >מְלָכִ֖ים</Word>
 <Word Book='Yehoshua' Chapter='12' Verse='24' WordSequence='6' >שְׁלֹשִׁ֥ים</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='12' Verse='24' WordSequence='7' IsParashaPtuchah='true' >וְאֶחָֽד</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>וִיהוֹשֻׁ֣עַ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='12' Verse='24' WordSequence='7'>וְאֶחָֽד</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וִיהוֹשֻׁ֣עַ</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='1' WordSequence='2' >זָקֵ֔ן</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='1' WordSequence='3' >בָּ֖א</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='1' WordSequence='4' >בַּיָּמִ֑ים</Word>
@@ -5333,8 +5333,8 @@
 <Word Book='Yehoshua' Chapter='13' Verse='14' WordSequence='12' >נַחֲלָת֔וֹ</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='14' WordSequence='13' >כַּאֲשֶׁ֖ר</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='14' WordSequence='14' >דִּבֶּר־</Word>
-<Word Book='Yehoshua' Chapter='13' Verse='14' WordSequence='15' >לֽוֹ</Word>
-<Word Book='Yehoshua' Chapter='13' Verse='15' WordSequence='1' >וַיִּתֵּ֣ן</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='13' Verse='14' WordSequence='15' >לֽוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='13' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיִּתֵּ֣ן</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='15' WordSequence='2' >מֹשֶׁ֔ה</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='15' WordSequence='3' >לְמַטֵּ֥ה</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='15' WordSequence='4' >בְנֵֽי־</Word>
@@ -5438,8 +5438,8 @@
 <Word Book='Yehoshua' Chapter='13' Verse='23' WordSequence='10' >רְאוּבֵן֙</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='23' WordSequence='11' >לְמִשְׁפְּחֹתָ֔ם</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='23' WordSequence='12' >הֶעָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='13' Verse='23' WordSequence='13' IsParashaPtuchah='true' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='13' Verse='24' WordSequence='1' >וַיִּתֵּ֤ן</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='13' Verse='23' WordSequence='13'>וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='13' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וַיִּתֵּ֤ן</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='24' WordSequence='2' >מֹשֶׁה֙</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='24' WordSequence='3' >לְמַטֵּה־</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='24' WordSequence='4' >גָ֔ד</Word>
@@ -5553,8 +5553,8 @@
 <Word Book='Yehoshua' Chapter='13' Verse='32' WordSequence='7' >מֵעֵ֛בֶר</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='32' WordSequence='8' >לְיַרְדֵּ֥ן</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='32' WordSequence='9' >יְרִיח֖וֹ</Word>
-<Word Book='Yehoshua' Chapter='13' Verse='32' WordSequence='10' >מִזְרָֽחָה</Word>
-<Word Book='Yehoshua' Chapter='13' Verse='33' WordSequence='1' >וּלְשֵׁ֙בֶט֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='13' Verse='32' WordSequence='10' >מִזְרָֽחָה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='13' Verse='33' WordSequence='1' IsParashaPtuchah='true' >וּלְשֵׁ֙בֶט֙</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='33' WordSequence='2' >הַלֵּוִ֔י</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='33' WordSequence='3' >לֹֽא־</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='33' WordSequence='4' >נָתַ֥ן</Word>
@@ -5567,8 +5567,8 @@
 <Word Book='Yehoshua' Chapter='13' Verse='33' WordSequence='11' >נַחֲלָתָ֔ם</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='33' WordSequence='12' >כַּאֲשֶׁ֖ר</Word>
 <Word Book='Yehoshua' Chapter='13' Verse='33' WordSequence='13' >דִּבֶּ֥ר</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='13' Verse='33' WordSequence='14' >לָהֶֽם</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וְאֵ֛לֶּה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='13' Verse='33' WordSequence='14'>לָהֶֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וְאֵ֛לֶּה</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='1' WordSequence='2' >אֲשֶׁר־</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='1' WordSequence='3' >נָחֲל֥וּ</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='1' WordSequence='4' >בְנֵֽי־</Word>
@@ -5645,8 +5645,8 @@
 <Word Book='Yehoshua' Chapter='14' Verse='5' WordSequence='9' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='5' WordSequence='10' >וַֽיַּחְלְק֖וּ</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='5' WordSequence='11' >אֶת־</Word>
-<Word Book='Yehoshua' Chapter='14' Verse='5' WordSequence='12' IsParashaPtuchah='true' >הָאָֽרֶץ</Word>
-<Word Book='Yehoshua' Chapter='14' Verse='6' WordSequence='1' >וַיִּגְּשׁ֨וּ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='14' Verse='5' WordSequence='12'>הָאָֽרֶץ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='14' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיִּגְּשׁ֨וּ</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='6' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='6' WordSequence='3' >יְהוּדָ֤ה</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='6' WordSequence='4' >אֶל־</Word>
@@ -5845,8 +5845,8 @@
 <Word Book='Yehoshua' Chapter='14' Verse='15' WordSequence='9' >ה֑וּא</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='15' WordSequence='10' >וְהָאָ֥רֶץ</Word>
 <Word Book='Yehoshua' Chapter='14' Verse='15' WordSequence='11' >שָׁקְטָ֖ה</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='14' Verse='15' WordSequence='12' IsParashaPtuchah='true' >מִמִּלְחָמָֽה</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וַיְהִ֣י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='14' Verse='15' WordSequence='12'>מִמִּלְחָמָֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='1' WordSequence='2' >הַגּוֹרָ֗ל</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='1' WordSequence='3' >לְמַטֵּ֛ה</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='1' WordSequence='4' >בְּנֵ֥י</Word>
@@ -6157,8 +6157,8 @@
 <Word Book='Yehoshua' Chapter='15' Verse='19' WordSequence='17' >עִלִּיּ֔וֹת</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='19' WordSequence='18' >וְאֵ֖ת</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='19' WordSequence='19' >גֻּלֹּ֥ת</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='19' WordSequence='20' IsParashaPtuchah='true' >תַּחְתִּיּֽוֹת</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='20' WordSequence='1' >זֹ֗את</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='15' Verse='19' WordSequence='20'>תַּחְתִּיּֽוֹת</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='15' Verse='20' WordSequence='1' IsParashaPtuchah='true' >זֹ֗את</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='20' WordSequence='2' >נַחֲלַ֛ת</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='20' WordSequence='3' >מַטֵּ֥ה</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='20' WordSequence='4' >בְנֵי־</Word>
@@ -6222,8 +6222,8 @@
 <Word Book='Yehoshua' Chapter='15' Verse='32' WordSequence='6' >עָרִ֛ים</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='32' WordSequence='7' >עֶשְׂרִ֥ים</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='32' WordSequence='8' >וָתֵ֖שַׁע</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='32' WordSequence='9' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='33' WordSequence='1' >בַּשְּׁפֵלָ֑ה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='15' Verse='32' WordSequence='9' >וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='15' Verse='33' WordSequence='1' IsParashaPtuchah='true' >בַּשְּׁפֵלָ֑ה</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='33' WordSequence='2' >אֶשְׁתָּא֥וֹל</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='33' WordSequence='3' >וְצָרְעָ֖ה</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='33' WordSequence='4' >וְאַשְׁנָֽה</Word>
@@ -6265,8 +6265,8 @@
 <Word Book='Yehoshua' Chapter='15' Verse='41' WordSequence='6' >עָרִ֥ים</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='41' WordSequence='7' >שֵׁשׁ־</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='41' WordSequence='8' >עֶשְׂרֵ֖ה</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='41' WordSequence='9' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='42' WordSequence='1' >לִבְנָ֥ה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='15' Verse='41' WordSequence='9' >וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='15' Verse='42' WordSequence='1' IsParashaPtuchah='true' >לִבְנָ֥ה</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='42' WordSequence='2' >וָעֶ֖תֶר</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='42' WordSequence='3' >וְעָשָֽׁן</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='43' WordSequence='1' >וְיִפְתָּ֥ח</Word>
@@ -6301,8 +6301,8 @@
 <Word Book='Yehoshua' Chapter='15' Verse='47' WordSequence='10' >וְהַיָּ֥ם</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='47' WordSequence='11' >הגבול</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='47' WordSequence='12' >[הַגָּד֖וֹל]</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='47' WordSequence='13' >וּגְבֽוּל</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='48' WordSequence='1' >וּבָהָ֑ר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='15' Verse='47' WordSequence='13' >וּגְבֽוּל</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='15' Verse='48' WordSequence='1' IsParashaPtuchah='true' >וּבָהָ֑ר</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='48' WordSequence='2' >שָׁמִ֥יר</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='48' WordSequence='3' >וְיַתִּ֖יר</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='48' WordSequence='4' >וְשׂוֹכֹֽה</Word>
@@ -6337,8 +6337,8 @@
 <Word Book='Yehoshua' Chapter='15' Verse='54' WordSequence='6' >וְצִיעֹ֑ר</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='54' WordSequence='7' >עָרִ֥ים</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='54' WordSequence='8' >תֵּ֖שַׁע</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='54' WordSequence='9' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='55' WordSequence='1' >מָע֥וֹן׀</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='15' Verse='54' WordSequence='9' >וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='15' Verse='55' WordSequence='1' IsParashaPtuchah='true' >מָע֥וֹן׀</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='55' WordSequence='2' >כַּרְמֶ֖ל</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='55' WordSequence='3' >וָזִ֥יף</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='55' WordSequence='4' >וְיוּטָּֽה</Word>
@@ -6370,8 +6370,8 @@
 <Word Book='Yehoshua' Chapter='15' Verse='60' WordSequence='6' >וְהָֽרַבָּ֑ה</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='60' WordSequence='7' >עָרִ֥ים</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='60' WordSequence='8' >שְׁתַּ֖יִם</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='60' WordSequence='9' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='15' Verse='61' WordSequence='1' >בַּמִּדְבָּ֑ר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='15' Verse='60' WordSequence='9' >וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='15' Verse='61' WordSequence='1' IsParashaPtuchah='true' >בַּמִּדְבָּ֑ר</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='61' WordSequence='2' >בֵּ֚ית</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='61' WordSequence='3' >הָעֲרָבָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='61' WordSequence='4' >מִדִּ֖ין</Word>
@@ -6402,8 +6402,8 @@
 <Word Book='Yehoshua' Chapter='15' Verse='63' WordSequence='16' >בִּיר֣וּשָׁלִַ֔ם</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='63' WordSequence='17' >עַ֖ד</Word>
 <Word Book='Yehoshua' Chapter='15' Verse='63' WordSequence='18' >הַיּ֥וֹם</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='15' Verse='63' WordSequence='19' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>וַיֵּצֵ֨א</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='15' Verse='63' WordSequence='19'>הַזֶּֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּצֵ֨א</Word>
 <Word Book='Yehoshua' Chapter='16' Verse='1' WordSequence='2' >הַגּוֹרָ֜ל</Word>
 <Word Book='Yehoshua' Chapter='16' Verse='1' WordSequence='3' >לִבְנֵ֤י</Word>
 <Word Book='Yehoshua' Chapter='16' Verse='1' WordSequence='4' >יוֹסֵף֙</Word>
@@ -6526,8 +6526,8 @@
 <Word Book='Yehoshua' Chapter='16' Verse='10' WordSequence='13' >הַזֶּ֔ה</Word>
 <Word Book='Yehoshua' Chapter='16' Verse='10' WordSequence='14' >וַיְהִ֖י</Word>
 <Word Book='Yehoshua' Chapter='16' Verse='10' WordSequence='15' >לְמַס־</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='16' Verse='10' WordSequence='16' IsParashaPtuchah='true' >עֹבֵֽד</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>וַיְהִ֤י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='16' Verse='10' WordSequence='16'>עֹבֵֽד</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֤י</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='1' WordSequence='2' >הַגּוֹרָל֙</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='1' WordSequence='3' >לְמַטֵּ֣ה</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='1' WordSequence='4' >מְנַשֶּׁ֔ה</Word>
@@ -6757,8 +6757,8 @@
 <Word Book='Yehoshua' Chapter='17' Verse='13' WordSequence='9' >לָמַ֑ס</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='13' WordSequence='10' >וְהוֹרֵ֖שׁ</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='13' WordSequence='11' >לֹ֥א</Word>
-<Word Book='Yehoshua' Chapter='17' Verse='13' WordSequence='12' >הוֹרִישֽׁוֹ</Word>
-<Word Book='Yehoshua' Chapter='17' Verse='14' WordSequence='1' >וַֽיְדַבְּרוּ֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='17' Verse='13' WordSequence='12' >הוֹרִישֽׁוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='17' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַֽיְדַבְּרוּ֙</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='14' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='14' WordSequence='3' >יוֹסֵ֔ף</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='14' WordSequence='4' >אֶת־</Word>
@@ -6863,8 +6863,8 @@
 <Word Book='Yehoshua' Chapter='17' Verse='18' WordSequence='19' >ל֔וֹ</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='18' WordSequence='20' >כִּ֥י</Word>
 <Word Book='Yehoshua' Chapter='17' Verse='18' WordSequence='21' >חָזָ֖ק</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='17' Verse='18' WordSequence='22' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַיִּקָּ֨הֲל֜וּ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='17' Verse='18' WordSequence='22'>הֽוּא</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּקָּ֨הֲל֜וּ</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='1' WordSequence='2' >כָּל־</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='1' WordSequence='3' >עֲדַ֤ת</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='1' WordSequence='4' >בְּנֵֽי־</Word>
@@ -7033,8 +7033,8 @@
 <Word Book='Yehoshua' Chapter='18' Verse='10' WordSequence='12' >הָאָ֛רֶץ</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='10' WordSequence='13' >לִבְנֵ֥י</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='10' WordSequence='14' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='Yehoshua' Chapter='18' Verse='10' WordSequence='15' IsParashaPtuchah='true' >כְּמַחְלְקֹתָֽם</Word>
-<Word Book='Yehoshua' Chapter='18' Verse='11' WordSequence='1' >וַיַּ֗עַל</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='18' Verse='10' WordSequence='15'>כְּמַחְלְקֹתָֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='18' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֗עַל</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='11' WordSequence='2' >גּוֹרַ֛ל</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='11' WordSequence='3' >מַטֵּ֥ה</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='11' WordSequence='4' >בְנֵֽי־</Word>
@@ -7273,8 +7273,8 @@
 <Word Book='Yehoshua' Chapter='18' Verse='28' WordSequence='13' >נַֽחֲלַ֥ת</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='28' WordSequence='14' >בְּנֵֽי־</Word>
 <Word Book='Yehoshua' Chapter='18' Verse='28' WordSequence='15' >בִנְיָמִ֖ן</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='18' Verse='28' WordSequence='16' IsParashaPtuchah='true' >לְמִשְׁפְּחֹתָֽם</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַיֵּצֵ֞א</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='18' Verse='28' WordSequence='16'>לְמִשְׁפְּחֹתָֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּצֵ֞א</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='1' WordSequence='2' >הַגּוֹרָ֤ל</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='1' WordSequence='3' >הַשֵּׁנִי֙</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='1' WordSequence='4' >לְשִׁמְע֔וֹן</Word>
@@ -7355,8 +7355,8 @@
 <Word Book='Yehoshua' Chapter='19' Verse='9' WordSequence='15' >בְנֵֽי־</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='9' WordSequence='16' >שִׁמְע֖וֹן</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='9' WordSequence='17' >בְּת֥וֹךְ</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='9' WordSequence='18' IsParashaPtuchah='true' >נַחֲלָתָֽם</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='10' WordSequence='1' >וַיַּ֙עַל֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='19' Verse='9' WordSequence='18'>נַחֲלָתָֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='19' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֙עַל֙</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='10' WordSequence='2' >הַגּוֹרָ֣ל</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='10' WordSequence='3' >הַשְּׁלִישִׁ֔י</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='10' WordSequence='4' >לִבְנֵ֥י</Word>
@@ -7433,8 +7433,8 @@
 <Word Book='Yehoshua' Chapter='19' Verse='16' WordSequence='5' >לְמִשְׁפְּחוֹתָ֑ם</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='16' WordSequence='6' >הֶֽעָרִ֥ים</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='16' WordSequence='7' >הָאֵ֖לֶּה</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='16' WordSequence='8' IsParashaPtuchah='true' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='17' WordSequence='1' >לְיִ֨שָּׂשכָ֔ר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='19' Verse='16' WordSequence='8'>וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='19' Verse='17' WordSequence='1' IsParashaPtuchah='true' >לְיִ֨שָּׂשכָ֔ר</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='17' WordSequence='2' >יָצָ֖א</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='17' WordSequence='3' >הַגּוֹרָ֣ל</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='17' WordSequence='4' >הָֽרְבִיעִ֑י</Word>
@@ -7481,8 +7481,8 @@
 <Word Book='Yehoshua' Chapter='19' Verse='23' WordSequence='5' >יִשָּׂשכָ֖ר</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='23' WordSequence='6' >לְמִשְׁפְּחֹתָ֑ם</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='23' WordSequence='7' >הֶעָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='23' WordSequence='8' IsParashaPtuchah='true' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='24' WordSequence='1' >וַיֵּצֵא֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='19' Verse='23' WordSequence='8'>וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='19' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וַיֵּצֵא֙</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='24' WordSequence='2' >הַגּוֹרָ֣ל</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='24' WordSequence='3' >הַֽחֲמִישִׁ֔י</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='24' WordSequence='4' >לְמַטֵּ֥ה</Word>
@@ -7559,8 +7559,8 @@
 <Word Book='Yehoshua' Chapter='19' Verse='31' WordSequence='6' >לְמִשְׁפְּחֹתָ֑ם</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='31' WordSequence='7' >הֶעָרִ֥ים</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='31' WordSequence='8' >הָאֵ֖לֶּה</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='31' WordSequence='9' IsParashaPtuchah='true' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='32' WordSequence='1' >לִבְנֵ֣י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='19' Verse='31' WordSequence='9'>וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='19' Verse='32' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֣י</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='32' WordSequence='2' >נַפְתָּלִ֔י</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='32' WordSequence='3' >יָצָ֖א</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='32' WordSequence='4' >הַגּוֹרָ֣ל</Word>
@@ -7632,8 +7632,8 @@
 <Word Book='Yehoshua' Chapter='19' Verse='39' WordSequence='5' >נַפְתָּלִ֖י</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='39' WordSequence='6' >לְמִשְׁפְּחֹתָ֑ם</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='39' WordSequence='7' >הֶעָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='39' WordSequence='8' IsParashaPtuchah='true' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='40' WordSequence='1' >לְמַטֵּ֥ה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='19' Verse='39' WordSequence='8'>וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='19' Verse='40' WordSequence='1' IsParashaPtuchah='true' >לְמַטֵּ֥ה</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='40' WordSequence='2' >בְנֵי־</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='40' WordSequence='3' >דָ֖ן</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='40' WordSequence='4' >לְמִשְׁפְּחֹתָ֑ם</Word>
@@ -7703,8 +7703,8 @@
 <Word Book='Yehoshua' Chapter='19' Verse='48' WordSequence='6' >לְמִשְׁפְּחֹתָ֑ם</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='48' WordSequence='7' >הֶֽעָרִ֥ים</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='48' WordSequence='8' >הָאֵ֖לֶּה</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='48' WordSequence='9' IsParashaPtuchah='true' >וְחַצְרֵיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='19' Verse='49' WordSequence='1' >וַיְכַלּ֥וּ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='19' Verse='48' WordSequence='9'>וְחַצְרֵיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='19' Verse='49' WordSequence='1' IsParashaPtuchah='true' >וַיְכַלּ֥וּ</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='49' WordSequence='2' >לִנְחֹל־</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='49' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='49' WordSequence='4' >הָאָ֖רֶץ</Word>
@@ -7760,8 +7760,8 @@
 <Word Book='Yehoshua' Chapter='19' Verse='51' WordSequence='22' >וַיְכַלּ֕וּ</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='51' WordSequence='23' >מֵֽחַלֵּ֖ק</Word>
 <Word Book='Yehoshua' Chapter='19' Verse='51' WordSequence='24' >אֶת־</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='19' Verse='51' WordSequence='25' IsParashaPtuchah='true' >הָאָֽרֶץ</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וַיְדַבֵּ֣ר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='19' Verse='51' WordSequence='25'>הָאָֽרֶץ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='Yehoshua' Chapter='20' Verse='1' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='20' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='20' Verse='1' WordSequence='4' >יְהוֹשֻׁ֖עַ</Word>
@@ -7933,8 +7933,8 @@
 <Word Book='Yehoshua' Chapter='20' Verse='9' WordSequence='22' >עַד־</Word>
 <Word Book='Yehoshua' Chapter='20' Verse='9' WordSequence='23' >עָמְד֖וֹ</Word>
 <Word Book='Yehoshua' Chapter='20' Verse='9' WordSequence='24' >לִפְנֵ֥י</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='20' Verse='9' WordSequence='25' IsParashaPtuchah='true' >הָעֵדָֽה</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַֽיִּגְּשׁ֗וּ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='20' Verse='9' WordSequence='25'>הָעֵדָֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּגְּשׁ֗וּ</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='1' WordSequence='2' >רָאשֵׁי֙</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='1' WordSequence='3' >אֲב֣וֹת</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='1' WordSequence='4' >הַלְוִיִּ֔ם</Word>
@@ -7999,8 +7999,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='4' WordSequence='17' >בַּגּוֹרָ֔ל</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='4' WordSequence='18' >עָרִ֖ים</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='4' WordSequence='19' >שְׁלֹ֥שׁ</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='4' WordSequence='20' >עֶשְׂרֵֽה</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='5' WordSequence='1' >וְלִבְנֵ֨י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='4' WordSequence='20' >עֶשְׂרֵֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וְלִבְנֵ֨י</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='5' WordSequence='2' >קְהָ֜ת</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='5' WordSequence='3' >הַנּוֹתָרִ֗ים</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='5' WordSequence='4' >מִמִּשְׁפְּחֹ֣ת</Word>
@@ -8013,8 +8013,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='5' WordSequence='11' >מְנַשֶּׁ֛ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='5' WordSequence='12' >בַּגּוֹרָ֖ל</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='5' WordSequence='13' >עָרִ֥ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='5' WordSequence='14' >עָֽשֶׂר</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='6' WordSequence='1' >וְלִבְנֵ֣י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='5' WordSequence='14' >עָֽשֶׂר</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וְלִבְנֵ֣י</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='6' WordSequence='2' >גֵרְשׁ֗וֹן</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='6' WordSequence='3' >מִמִּשְׁפְּח֣וֹת</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='6' WordSequence='4' >מַטֵּֽה־</Word>
@@ -8030,8 +8030,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='6' WordSequence='14' >בַּגּוֹרָ֔ל</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='6' WordSequence='15' >עָרִ֖ים</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='6' WordSequence='16' >שְׁלֹ֥שׁ</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='6' WordSequence='17' >עֶשְׂרֵֽה</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='7' WordSequence='1' >לִבְנֵ֨י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='6' WordSequence='17' >עֶשְׂרֵֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='7' WordSequence='1' IsParashaPtuchah='true' >לִבְנֵ֨י</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='7' WordSequence='2' >מְרָרִ֜י</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='7' WordSequence='3' >לְמִשְׁפְּחֹתָ֗ם</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='7' WordSequence='4' >מִמַּטֵּ֨ה</Word>
@@ -8057,8 +8057,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='8' WordSequence='12' >יְהוָ֛ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='8' WordSequence='13' >בְּיַד־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='8' WordSequence='14' >מֹשֶׁ֖ה</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='8' WordSequence='15' IsParashaPtuchah='true' >בַּגּוֹרָֽל</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='9' WordSequence='1' >וַֽיִּתְּנ֗וּ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='8' WordSequence='15'>בַּגּוֹרָֽל</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּתְּנ֗וּ</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='9' WordSequence='2' >מִמַּטֵּה֙</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='9' WordSequence='3' >בְּנֵ֣י</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='9' WordSequence='4' >יְהוּדָ֔ה</Word>
@@ -8107,8 +8107,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='12' WordSequence='7' >לְכָלֵ֥ב</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='12' WordSequence='8' >בֶּן־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='12' WordSequence='9' >יְפֻנֶּ֖ה</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='12' WordSequence='10' >בַּאֲחֻזָּתֽוֹ</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='13' WordSequence='1' >וְלִבְנֵ֣י׀</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='12' WordSequence='10' >בַּאֲחֻזָּתֽוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וְלִבְנֵ֣י׀</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='13' WordSequence='2' >אַהֲרֹ֣ן</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='13' WordSequence='3' >הַכֹּהֵ֗ן</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='13' WordSequence='4' >נָֽתְנוּ֙</Word>
@@ -8158,8 +8158,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='16' WordSequence='16' >מֵאֵ֕ת</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='16' WordSequence='17' >שְׁנֵ֥י</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='16' WordSequence='18' >הַשְּׁבָטִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='16' WordSequence='19' IsParashaPtuchah='true' >הָאֵֽלֶּה</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='17' WordSequence='1' >וּמִמַּטֵּ֣ה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='16' WordSequence='19'>הָאֵֽלֶּה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וּמִמַּטֵּ֣ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='17' WordSequence='2' >בִנְיָמִ֔ן</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='17' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='17' WordSequence='4' >גִּבְע֖וֹן</Word>
@@ -8187,8 +8187,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='19' WordSequence='6' >שְׁלֹשׁ־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='19' WordSequence='7' >עֶשְׂרֵ֥ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='19' WordSequence='8' >עָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='19' WordSequence='9' >וּמִגְרְשֵׁיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='20' WordSequence='1' >וּלְמִשְׁפְּח֤וֹת</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='19' WordSequence='9' >וּמִגְרְשֵׁיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וּלְמִשְׁפְּח֤וֹת</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='20' WordSequence='2' >בְּנֵֽי־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='20' WordSequence='3' >קְהָת֙</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='20' WordSequence='4' >הַלְוִיִּ֔ם</Word>
@@ -8226,8 +8226,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='22' WordSequence='8' >וְאֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='22' WordSequence='9' >מִגְרָשֶׁ֑הָ</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='22' WordSequence='10' >עָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='22' WordSequence='11' >אַרְבַּֽע</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='23' WordSequence='1' >וּמִמַּ֨טֵּה־</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='22' WordSequence='11' >אַרְבַּֽע</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וּמִמַּ֨טֵּה־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='23' WordSequence='2' >דָ֔ן</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='23' WordSequence='3' >אֶֽת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='23' WordSequence='4' >אֶלְתְּקֵ֖א</Word>
@@ -8247,8 +8247,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='24' WordSequence='8' >וְאֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='24' WordSequence='9' >מִגְרָשֶׁ֑הָ</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='24' WordSequence='10' >עָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='24' WordSequence='11' >אַרְבַּֽע</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='25' WordSequence='1' >וּמִֽמַּחֲצִית֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='24' WordSequence='11' >אַרְבַּֽע</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וּמִֽמַּחֲצִית֙</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='25' WordSequence='2' >מַטֵּ֣ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='25' WordSequence='3' >מְנַשֶּׁ֔ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='25' WordSequence='4' >אֶת־</Word>
@@ -8269,8 +8269,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='26' WordSequence='5' >לְמִשְׁפְּח֥וֹת</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='26' WordSequence='6' >בְּנֵֽי־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='26' WordSequence='7' >קְהָ֖ת</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='26' WordSequence='8' >הַנּוֹתָרִֽים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='27' WordSequence='1' >וְלִבְנֵ֣י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='26' WordSequence='8' >הַנּוֹתָרִֽים</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וְלִבְנֵ֣י</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='27' WordSequence='2' >גֵרְשׁוֹן֮</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='27' WordSequence='3' >מִמִּשְׁפְּחֹ֣ת</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='27' WordSequence='4' >הַלְוִיִּם֒</Word>
@@ -8292,8 +8292,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='27' WordSequence='20' >וְאֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='27' WordSequence='21' >מִגְרָשֶׁ֑הָ</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='27' WordSequence='22' >עָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='27' WordSequence='23' >שְׁתָּֽיִם</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='28' WordSequence='1' >וּמִמַּטֵּ֣ה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='27' WordSequence='23' >שְׁתָּֽיִם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וּמִמַּטֵּ֣ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='28' WordSequence='2' >יִשָּׂשכָ֔ר</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='28' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='28' WordSequence='4' >קִשְׁי֖וֹן</Word>
@@ -8313,8 +8313,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='29' WordSequence='8' >וְאֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='29' WordSequence='9' >מִגְרָשֶׁ֑הָ</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='29' WordSequence='10' >עָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='29' WordSequence='11' >אַרְבַּֽע</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='30' WordSequence='1' >וּמִמַּטֵּ֣ה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='29' WordSequence='11' >אַרְבַּֽע</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וּמִמַּטֵּ֣ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='30' WordSequence='2' >אָשֵׁ֔ר</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='30' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='30' WordSequence='4' >מִשְׁאָ֖ל</Word>
@@ -8333,8 +8333,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='31' WordSequence='7' >וְאֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='31' WordSequence='8' >מִגְרָשֶׁ֑הָ</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='31' WordSequence='9' >עָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='31' WordSequence='10' >אַרְבַּֽע</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='32' WordSequence='1' >וּמִמַּטֵּ֨ה</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='31' WordSequence='10' >אַרְבַּֽע</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וּמִמַּטֵּ֨ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='32' WordSequence='2' >נַפְתָּלִ֜י</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='32' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='32' WordSequence='4' >עִ֣יר׀</Word>
@@ -8363,8 +8363,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='33' WordSequence='5' >שְׁלֹשׁ־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='33' WordSequence='6' >עֶשְׂרֵ֥ה</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='33' WordSequence='7' >עִ֖יר</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='33' WordSequence='8' >וּמִגְרְשֵׁיהֶֽן</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='34' WordSequence='1' >וּלְמִשְׁפְּח֣וֹת</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='33' WordSequence='8' >וּמִגְרְשֵׁיהֶֽן</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='34' WordSequence='1' IsParashaPtuchah='true' >וּלְמִשְׁפְּח֣וֹת</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='34' WordSequence='2' >בְּנֵֽי־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='34' WordSequence='3' >מְרָרִי֮</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='34' WordSequence='4' >הַלְוִיִּ֣ם</Word>
@@ -8409,8 +8409,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='37' WordSequence='7' >וְאֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='37' WordSequence='8' >מִגְרָשֶׁ֑הָ</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='37' WordSequence='9' >עָרִ֖ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='37' WordSequence='10' >אַרְבַּֽע</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='38' WordSequence='1' >וּמִמַּטֵּה־</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='37' WordSequence='10' >אַרְבַּֽע</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='38' WordSequence='1' IsParashaPtuchah='true' >וּמִמַּטֵּה־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='38' WordSequence='2' >גָ֗ד</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='38' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='38' WordSequence='4' >עִיר֙</Word>
@@ -8470,8 +8470,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='42' WordSequence='8' >כֵּ֖ן</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='42' WordSequence='9' >לְכָל־</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='42' WordSequence='10' >הֶעָרִ֥ים</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='42' WordSequence='11' >הָאֵֽלֶּה</Word>
-<Word Book='Yehoshua' Chapter='21' Verse='43' WordSequence='1' >וַיִּתֵּ֤ן</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='42' WordSequence='11' >הָאֵֽלֶּה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='21' Verse='43' WordSequence='1' IsParashaPtuchah='true' >וַיִּתֵּ֤ן</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='43' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='43' WordSequence='3' >לְיִשְׂרָאֵ֔ל</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='43' WordSequence='4' >אֶת־</Word>
@@ -8517,8 +8517,8 @@
 <Word Book='Yehoshua' Chapter='21' Verse='45' WordSequence='11' >בֵּ֣ית</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='45' WordSequence='12' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='Yehoshua' Chapter='21' Verse='45' WordSequence='13' >הַכֹּ֖ל</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='21' Verse='45' WordSequence='14' IsParashaPtuchah='true' >בָּֽא</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>אָ֚ז</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='21' Verse='45' WordSequence='14'>בָּֽא</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אָ֚ז</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='1' WordSequence='2' >יִקְרָ֣א</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='1' WordSequence='3' >יְהוֹשֻׁ֔עַ</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='1' WordSequence='4' >לָרֽאוּבֵנִ֖י</Word>
@@ -8619,8 +8619,8 @@
 <Word Book='Yehoshua' Chapter='22' Verse='6' WordSequence='3' >וַֽיְשַׁלְּחֵ֔ם</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='6' WordSequence='4' >וַיֵּלְכ֖וּ</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='6' WordSequence='5' >אֶל־</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='6' WordSequence='6' >אָהֳלֵיהֶֽם</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='7' WordSequence='1' >וְלַחֲצִ֣י׀</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='22' Verse='6' WordSequence='6' >אָהֳלֵיהֶֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='22' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְלַחֲצִ֣י׀</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='7' WordSequence='2' >שֵׁ֣בֶט</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='7' WordSequence='3' >הַֽמְנַשֶּׁ֗ה</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='7' WordSequence='4' >נָתַ֣ן</Word>
@@ -8664,8 +8664,8 @@
 <Word Book='Yehoshua' Chapter='22' Verse='8' WordSequence='20' >שְׁלַל־</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='8' WordSequence='21' >אֹיְבֵיכֶ֖ם</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='8' WordSequence='22' >עִם־</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='8' WordSequence='23' IsParashaPtuchah='true' >אֲחֵיכֶֽם</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='9' WordSequence='1' >וַיָּשֻׁ֣בוּ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='22' Verse='8' WordSequence='23'>אֲחֵיכֶֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='22' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיָּשֻׁ֣בוּ</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='9' WordSequence='2' >וַיֵּלְכ֡וּ</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='9' WordSequence='3' >בְּנֵי־</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='9' WordSequence='4' >רְאוּבֵ֨ן</Word>
@@ -8755,8 +8755,8 @@
 <Word Book='Yehoshua' Chapter='22' Verse='12' WordSequence='9' >שִׁלֹ֔ה</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='12' WordSequence='10' >לַעֲל֥וֹת</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='12' WordSequence='11' >עֲלֵיהֶ֖ם</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='12' WordSequence='12' IsParashaPtuchah='true' >לַצָּבָֽא</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='13' WordSequence='1' >וַיִּשְׁלְח֨וּ</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='22' Verse='12' WordSequence='12'>לַצָּבָֽא</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='22' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלְח֨וּ</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='13' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='13' WordSequence='3' >יִשְׂרָאֵ֜ל</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='13' WordSequence='4' >אֶל־</Word>
@@ -8916,8 +8916,8 @@
 <Word Book='Yehoshua' Chapter='22' Verse='20' WordSequence='16' >אֶחָ֔ד</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='20' WordSequence='17' >לֹ֥א</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='20' WordSequence='18' >גָוַ֖ע</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='20' WordSequence='19' IsParashaPtuchah='true' >בַּעֲוֺנֽוֹ</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='21' WordSequence='1' >וַֽיַּעֲנוּ֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='22' Verse='20' WordSequence='19'>בַּעֲוֺנֽוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='22' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַֽיַּעֲנוּ֙</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='21' WordSequence='2' >בְּנֵי־</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='21' WordSequence='3' >רְאוּבֵ֣ן</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='21' WordSequence='4' >וּבְנֵי־</Word>
@@ -9092,8 +9092,8 @@
 <Word Book='Yehoshua' Chapter='22' Verse='29' WordSequence='18' >אֱלֹהֵ֔ינוּ</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='29' WordSequence='19' >אֲשֶׁ֖ר</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='29' WordSequence='20' >לִפְנֵ֥י</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='29' WordSequence='21' IsParashaPtuchah='true' >מִשְׁכָּנֽוֹ</Word>
-<Word Book='Yehoshua' Chapter='22' Verse='30' WordSequence='1' >וַיִּשְׁמַ֞ע</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='22' Verse='29' WordSequence='21'>מִשְׁכָּנֽוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='22' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁמַ֞ע</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='30' WordSequence='2' >פִּֽינְחָ֣ס</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='30' WordSequence='3' >הַכֹּהֵ֗ן</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='30' WordSequence='4' >וּנְשִׂיאֵ֨י</Word>
@@ -9206,8 +9206,8 @@
 <Word Book='Yehoshua' Chapter='22' Verse='34' WordSequence='10' >בֵּֽינֹתֵ֔ינוּ</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='34' WordSequence='11' >כִּ֥י</Word>
 <Word Book='Yehoshua' Chapter='22' Verse='34' WordSequence='12' >יְהוָ֖ה</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='22' Verse='34' WordSequence='13' IsParashaPtuchah='true' >הָאֱלֹהִֽים</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='22' Verse='34' WordSequence='13'>הָאֱלֹהִֽים</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Yehoshua' Chapter='23' Verse='1' WordSequence='2' >מִיָּמִ֣ים</Word>
 <Word Book='Yehoshua' Chapter='23' Verse='1' WordSequence='3' >רַבִּ֔ים</Word>
 <Word Book='Yehoshua' Chapter='23' Verse='1' WordSequence='4' >אַ֠חֲרֵי</Word>
@@ -9505,8 +9505,8 @@
 <Word Book='Yehoshua' Chapter='23' Verse='16' WordSequence='23' >הַטּוֹבָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='23' Verse='16' WordSequence='24' >אֲשֶׁ֖ר</Word>
 <Word Book='Yehoshua' Chapter='23' Verse='16' WordSequence='25' >נָתַ֥ן</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='23' Verse='16' WordSequence='26' IsParashaPtuchah='true' >לָכֶֽם</Word>
-<Word Book='Yehoshua' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>וַיֶּאֶסֹ֧ף</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='23' Verse='16' WordSequence='26'>לָכֶֽם</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֶּאֶסֹ֧ף</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='1' WordSequence='2' >יְהוֹשֻׁ֛עַ</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='1' WordSequence='4' >כָּל־</Word>
@@ -9785,8 +9785,8 @@
 <Word Book='Yehoshua' Chapter='24' Verse='15' WordSequence='32' >וּבֵיתִ֔י</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='15' WordSequence='33' >נַעֲבֹ֖ד</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='15' WordSequence='34' >אֶת־</Word>
-<Word Book='Yehoshua' Chapter='24' Verse='15' WordSequence='35' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yehoshua' Chapter='24' Verse='16' WordSequence='1' >וַיַּ֤עַן</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='24' Verse='15' WordSequence='35'>יְהוָֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='24' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֤עַן</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='16' WordSequence='2' >הָעָם֙</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='16' WordSequence='3' >וַיֹּ֔אמֶר</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='16' WordSequence='4' >חָלִ֣ילָה</Word>
@@ -9844,8 +9844,8 @@
 <Word Book='Yehoshua' Chapter='24' Verse='18' WordSequence='15' >יְהוָ֔ה</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='18' WordSequence='16' >כִּי־</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='18' WordSequence='17' >ה֖וּא</Word>
-<Word Book='Yehoshua' Chapter='24' Verse='18' WordSequence='18' >אֱלֹהֵֽינוּ</Word>
-<Word Book='Yehoshua' Chapter='24' Verse='19' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='24' Verse='18' WordSequence='18' >אֱלֹהֵֽינוּ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='24' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='19' WordSequence='2' >יְהוֹשֻׁ֜עַ</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='19' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='19' WordSequence='4' >הָעָ֗ם</Word>
@@ -9959,8 +9959,8 @@
 <Word Book='Yehoshua' Chapter='24' Verse='26' WordSequence='15' >הָֽאַלָּ֔ה</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='26' WordSequence='16' >אֲשֶׁ֖ר</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='26' WordSequence='17' >בְּמִקְדַּ֥שׁ</Word>
-<Word Book='Yehoshua' Chapter='24' Verse='26' WordSequence='18' >יְהוָֽה</Word>
-<Word Book='Yehoshua' Chapter='24' Verse='27' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='24' Verse='26' WordSequence='18' >יְהוָֽה</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='24' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='27' WordSequence='2' >יְהוֹשֻׁ֜עַ</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='27' WordSequence='3' >אֶל־</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='27' WordSequence='4' >כָּל־</Word>
@@ -9992,8 +9992,8 @@
 <Word Book='Yehoshua' Chapter='24' Verse='28' WordSequence='3' >אֶת־</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='28' WordSequence='4' >הָעָ֔ם</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='28' WordSequence='5' >אִ֖ישׁ</Word>
-<Word Book='Yehoshua' Chapter='24' Verse='28' WordSequence='6' IsParashaPtuchah='true' >לְנַחֲלָתֽוֹ</Word>
-<Word Book='Yehoshua' Chapter='24' Verse='29' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='24' Verse='28' WordSequence='6'>לְנַחֲלָתֽוֹ</Word>
+<Word Book='Yehoshua' StartParashaBeforeWord='true' Chapter='24' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='29' WordSequence='2' >אַֽחֲרֵי֙</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='29' WordSequence='3' >הַדְּבָרִ֣ים</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='29' WordSequence='4' >הָאֵ֔לֶּה</Word>
@@ -10082,5 +10082,5 @@
 <Word Book='Yehoshua' Chapter='24' Verse='33' WordSequence='11' >נִתַּן־</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='33' WordSequence='12' >ל֖וֹ</Word>
 <Word Book='Yehoshua' Chapter='24' Verse='33' WordSequence='13' >בְּהַ֥ר</Word>
-<Word Book='Yehoshua' EndPerekAfterWord='true' Chapter='24' Verse='33' WordSequence='14' >אֶפְרָֽיִם</Word>
+<Word Book='Yehoshua' EndParashaAfterWord='true' Chapter='24' Verse='33' WordSequence='14'>אֶפְרָֽיִם</Word>
 </Tanakh>

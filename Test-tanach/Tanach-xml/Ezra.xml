@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וּבִשְׁנַ֣ת</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וּבִשְׁנַ֣ת</Word>
 <Word Book='Ezra' Chapter='1' Verse='1' WordSequence='2' >אַחַ֗ת</Word>
 <Word Book='Ezra' Chapter='1' Verse='1' WordSequence='3' >לְכ֙וֹרֶשׁ֙</Word>
 <Word Book='Ezra' Chapter='1' Verse='1' WordSequence='4' >מֶ֣לֶךְ</Word>
@@ -119,8 +119,8 @@
 <Word Book='Ezra' Chapter='1' Verse='6' WordSequence='11' >לְבַ֖ד</Word>
 <Word Book='Ezra' Chapter='1' Verse='6' WordSequence='12' >עַל־</Word>
 <Word Book='Ezra' Chapter='1' Verse='6' WordSequence='13' >כָּל־</Word>
-<Word Book='Ezra' Chapter='1' Verse='6' WordSequence='14' >הִתְנַדֵּֽב</Word>
-<Word Book='Ezra' Chapter='1' Verse='7' WordSequence='1' >וְהַמֶּ֣לֶךְ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='1' Verse='6' WordSequence='14' >הִתְנַדֵּֽב</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='1' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְהַמֶּ֣לֶךְ</Word>
 <Word Book='Ezra' Chapter='1' Verse='7' WordSequence='2' >כּ֔וֹרֶשׁ</Word>
 <Word Book='Ezra' Chapter='1' Verse='7' WordSequence='3' >הוֹצִ֖יא</Word>
 <Word Book='Ezra' Chapter='1' Verse='7' WordSequence='4' >אֶת־</Word>
@@ -156,8 +156,8 @@
 <Word Book='Ezra' Chapter='1' Verse='9' WordSequence='8' >אָ֔לֶף</Word>
 <Word Book='Ezra' Chapter='1' Verse='9' WordSequence='9' >מַחֲלָפִ֖ים</Word>
 <Word Book='Ezra' Chapter='1' Verse='9' WordSequence='10' >תִּשְׁעָ֥ה</Word>
-<Word Book='Ezra' Chapter='1' Verse='9' WordSequence='11' >וְעֶשְׂרִֽים</Word>
-<Word Book='Ezra' Chapter='1' Verse='10' WordSequence='1' >כְּפוֹרֵ֤י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='1' Verse='9' WordSequence='11' >וְעֶשְׂרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='1' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כְּפוֹרֵ֤י</Word>
 <Word Book='Ezra' Chapter='1' Verse='10' WordSequence='2' >זָהָב֙</Word>
 <Word Book='Ezra' Chapter='1' Verse='10' WordSequence='3' >שְׁלֹשִׁ֔ים</Word>
 <Word Book='Ezra' Chapter='1' Verse='10' WordSequence='4' >כְּפ֤וֹרֵי</Word>
@@ -168,8 +168,8 @@
 <Word Book='Ezra' Chapter='1' Verse='10' WordSequence='9' >וַעֲשָׂרָ֑ה</Word>
 <Word Book='Ezra' Chapter='1' Verse='10' WordSequence='10' >כֵּלִ֥ים</Word>
 <Word Book='Ezra' Chapter='1' Verse='10' WordSequence='11' >אֲחֵרִ֖ים</Word>
-<Word Book='Ezra' Chapter='1' Verse='10' WordSequence='12' >אָֽלֶף</Word>
-<Word Book='Ezra' Chapter='1' Verse='11' WordSequence='1' >כָּל־</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='1' Verse='10' WordSequence='12' >אָֽלֶף</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='1' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כָּל־</Word>
 <Word Book='Ezra' Chapter='1' Verse='11' WordSequence='2' >כֵּלִים֙</Word>
 <Word Book='Ezra' Chapter='1' Verse='11' WordSequence='3' >לַזָּהָ֣ב</Word>
 <Word Book='Ezra' Chapter='1' Verse='11' WordSequence='4' >וְלַכֶּ֔סֶף</Word>
@@ -184,8 +184,8 @@
 <Word Book='Ezra' Chapter='1' Verse='11' WordSequence='13' >הֵעָל֣וֹת</Word>
 <Word Book='Ezra' Chapter='1' Verse='11' WordSequence='14' >הַגּוֹלָ֔ה</Word>
 <Word Book='Ezra' Chapter='1' Verse='11' WordSequence='15' >מִבָּבֶ֖ל</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='1' Verse='11' WordSequence='16' IsParashaPtuchah='true' >לִירוּשָׁלִָֽם</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וְאֵ֣לֶּה׀</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='1' Verse='11' WordSequence='16'>לִירוּשָׁלִָֽם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֣לֶּה׀</Word>
 <Word Book='Ezra' Chapter='2' Verse='1' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='1' WordSequence='3' >הַמְּדִינָ֗ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='1' WordSequence='4' >הָֽעֹלִים֙</Word>
@@ -220,26 +220,26 @@
 <Word Book='Ezra' Chapter='2' Verse='2' WordSequence='15' >מִסְפַּ֕ר</Word>
 <Word Book='Ezra' Chapter='2' Verse='2' WordSequence='16' >אַנְשֵׁ֖י</Word>
 <Word Book='Ezra' Chapter='2' Verse='2' WordSequence='17' >עַ֥ם</Word>
-<Word Book='Ezra' Chapter='2' Verse='2' WordSequence='18' >יִשְׂרָאֵֽל</Word>
-<Word Book='Ezra' Chapter='2' Verse='3' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='2' WordSequence='18' >יִשְׂרָאֵֽל</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='3' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='3' WordSequence='2' >פַרְעֹ֔שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='3' WordSequence='3' >אַלְפַּ֕יִם</Word>
 <Word Book='Ezra' Chapter='2' Verse='3' WordSequence='4' >מֵאָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='3' WordSequence='5' >שִׁבְעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='3' WordSequence='6' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='4' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='3' WordSequence='6' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='4' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='4' WordSequence='2' >שְׁפַטְיָ֔ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='4' WordSequence='3' >שְׁלֹ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='4' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='4' WordSequence='5' >שִׁבְעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='4' WordSequence='6' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='5' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='4' WordSequence='6' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='5' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='5' WordSequence='2' >אָרַ֔ח</Word>
 <Word Book='Ezra' Chapter='2' Verse='5' WordSequence='3' >שְׁבַ֥ע</Word>
 <Word Book='Ezra' Chapter='2' Verse='5' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='5' WordSequence='5' >חֲמִשָּׁ֥ה</Word>
-<Word Book='Ezra' Chapter='2' Verse='5' WordSequence='6' >וְשִׁבְעִֽים</Word>
-<Word Book='Ezra' Chapter='2' Verse='6' WordSequence='1' >בְּנֵֽי־</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='5' WordSequence='6' >וְשִׁבְעִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='6' WordSequence='1' IsParashaPtuchah='true' >בְּנֵֽי־</Word>
 <Word Book='Ezra' Chapter='2' Verse='6' WordSequence='2' >פַחַ֥ת</Word>
 <Word Book='Ezra' Chapter='2' Verse='6' WordSequence='3' >מוֹאָ֛ב</Word>
 <Word Book='Ezra' Chapter='2' Verse='6' WordSequence='4' >לִבְנֵ֥י</Word>
@@ -249,91 +249,91 @@
 <Word Book='Ezra' Chapter='2' Verse='6' WordSequence='8' >שְׁמֹנֶ֥ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='6' WordSequence='9' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='6' WordSequence='10' >וּשְׁנֵ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='6' WordSequence='11' >עָשָֽׂר</Word>
-<Word Book='Ezra' Chapter='2' Verse='7' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='6' WordSequence='11' >עָשָֽׂר</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='7' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='7' WordSequence='2' >עֵילָ֔ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='7' WordSequence='3' >אֶ֕לֶף</Word>
 <Word Book='Ezra' Chapter='2' Verse='7' WordSequence='4' >מָאתַ֖יִם</Word>
 <Word Book='Ezra' Chapter='2' Verse='7' WordSequence='5' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='7' WordSequence='6' >וְאַרְבָּעָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='8' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='7' WordSequence='6' >וְאַרְבָּעָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='8' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='8' WordSequence='2' >זַתּ֔וּא</Word>
 <Word Book='Ezra' Chapter='2' Verse='8' WordSequence='3' >תְּשַׁ֥ע</Word>
 <Word Book='Ezra' Chapter='2' Verse='8' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='8' WordSequence='5' >וְאַרְבָּעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='8' WordSequence='6' >וַחֲמִשָּֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='9' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='8' WordSequence='6' >וַחֲמִשָּֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='9' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='9' WordSequence='2' >זַכָּ֔י</Word>
 <Word Book='Ezra' Chapter='2' Verse='9' WordSequence='3' >שְׁבַ֥ע</Word>
 <Word Book='Ezra' Chapter='2' Verse='9' WordSequence='4' >מֵא֖וֹת</Word>
-<Word Book='Ezra' Chapter='2' Verse='9' WordSequence='5' >וְשִׁשִּֽׁים</Word>
-<Word Book='Ezra' Chapter='2' Verse='10' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='9' WordSequence='5' >וְשִׁשִּֽׁים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='10' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='10' WordSequence='2' >בָנִ֔י</Word>
 <Word Book='Ezra' Chapter='2' Verse='10' WordSequence='3' >שֵׁ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='10' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='10' WordSequence='5' >אַרְבָּעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='10' WordSequence='6' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='11' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='10' WordSequence='6' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='11' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='11' WordSequence='2' >בֵבָ֔י</Word>
 <Word Book='Ezra' Chapter='2' Verse='11' WordSequence='3' >שֵׁ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='11' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='11' WordSequence='5' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='11' WordSequence='6' >וּשְׁלֹשָֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='12' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='11' WordSequence='6' >וּשְׁלֹשָֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='12' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='12' WordSequence='2' >עַזְגָּ֔ד</Word>
 <Word Book='Ezra' Chapter='2' Verse='12' WordSequence='3' >אֶ֕לֶף</Word>
 <Word Book='Ezra' Chapter='2' Verse='12' WordSequence='4' >מָאתַ֖יִם</Word>
 <Word Book='Ezra' Chapter='2' Verse='12' WordSequence='5' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='12' WordSequence='6' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='13' WordSequence='1' >בְּנֵי֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='12' WordSequence='6' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='13' WordSequence='1' IsParashaPtuchah='true' >בְּנֵי֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='13' WordSequence='2' >אֲדֹ֣נִיקָ֔ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='13' WordSequence='3' >שֵׁ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='13' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='13' WordSequence='5' >שִׁשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='13' WordSequence='6' >וְשִׁשָּֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='14' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='13' WordSequence='6' >וְשִׁשָּֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='14' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='14' WordSequence='2' >בִגְוָ֔י</Word>
 <Word Book='Ezra' Chapter='2' Verse='14' WordSequence='3' >אַלְפַּ֖יִם</Word>
 <Word Book='Ezra' Chapter='2' Verse='14' WordSequence='4' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='14' WordSequence='5' >וְשִׁשָּֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='15' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='14' WordSequence='5' >וְשִׁשָּֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='15' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='15' WordSequence='2' >עָדִ֔ין</Word>
 <Word Book='Ezra' Chapter='2' Verse='15' WordSequence='3' >אַרְבַּ֥ע</Word>
 <Word Book='Ezra' Chapter='2' Verse='15' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='15' WordSequence='5' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='15' WordSequence='6' >וְאַרְבָּעָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='16' WordSequence='1' >בְּנֵֽי־</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='15' WordSequence='6' >וְאַרְבָּעָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='16' WordSequence='1' IsParashaPtuchah='true' >בְּנֵֽי־</Word>
 <Word Book='Ezra' Chapter='2' Verse='16' WordSequence='2' >אָטֵ֥ר</Word>
 <Word Book='Ezra' Chapter='2' Verse='16' WordSequence='3' >לִֽיחִזְקִיָּ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='16' WordSequence='4' >תִּשְׁעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='16' WordSequence='5' >וּשְׁמֹנָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='17' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='16' WordSequence='5' >וּשְׁמֹנָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='17' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='17' WordSequence='2' >בֵצָ֔י</Word>
 <Word Book='Ezra' Chapter='2' Verse='17' WordSequence='3' >שְׁלֹ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='17' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='17' WordSequence='5' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='17' WordSequence='6' >וּשְׁלֹשָֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='18' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='17' WordSequence='6' >וּשְׁלֹשָֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='18' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='18' WordSequence='2' >יוֹרָ֔ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='18' WordSequence='3' >מֵאָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='18' WordSequence='4' >וּשְׁנֵ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='18' WordSequence='5' >עָשָֽׂר</Word>
-<Word Book='Ezra' Chapter='2' Verse='19' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='18' WordSequence='5' >עָשָֽׂר</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='19' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='19' WordSequence='2' >חָשֻׁ֔ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='19' WordSequence='3' >מָאתַ֖יִם</Word>
 <Word Book='Ezra' Chapter='2' Verse='19' WordSequence='4' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='19' WordSequence='5' >וּשְׁלֹשָֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='20' WordSequence='1' >בְּנֵ֥י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='19' WordSequence='5' >וּשְׁלֹשָֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='20' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֥י</Word>
 <Word Book='Ezra' Chapter='2' Verse='20' WordSequence='2' >גִבָּ֖ר</Word>
 <Word Book='Ezra' Chapter='2' Verse='20' WordSequence='3' >תִּשְׁעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='20' WordSequence='4' >וַחֲמִשָּֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='21' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='20' WordSequence='4' >וַחֲמִשָּֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='21' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='21' WordSequence='2' >בֵֽית־</Word>
 <Word Book='Ezra' Chapter='2' Verse='21' WordSequence='3' >לָ֔חֶם</Word>
 <Word Book='Ezra' Chapter='2' Verse='21' WordSequence='4' >מֵאָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='21' WordSequence='5' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='21' WordSequence='6' >וּשְׁלֹשָֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='22' WordSequence='1' >אַנְשֵׁ֥י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='21' WordSequence='6' >וּשְׁלֹשָֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='22' WordSequence='1' IsParashaPtuchah='true' >אַנְשֵׁ֥י</Word>
 <Word Book='Ezra' Chapter='2' Verse='22' WordSequence='2' >נְטֹפָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='22' WordSequence='3' >חֲמִשִּׁ֥ים</Word>
 <Word Book='Ezra' Chapter='2' Verse='22' WordSequence='4' >וְשִׁשָּֽׁה</Word>
@@ -341,12 +341,12 @@
 <Word Book='Ezra' Chapter='2' Verse='23' WordSequence='2' >עֲנָת֔וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='23' WordSequence='3' >מֵאָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='23' WordSequence='4' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='23' WordSequence='5' >וּשְׁמֹנָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='24' WordSequence='1' >בְּנֵ֥י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='23' WordSequence='5' >וּשְׁמֹנָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='24' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֥י</Word>
 <Word Book='Ezra' Chapter='2' Verse='24' WordSequence='2' >עַזְמָ֖וֶת</Word>
 <Word Book='Ezra' Chapter='2' Verse='24' WordSequence='3' >אַרְבָּעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='24' WordSequence='4' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='25' WordSequence='1' >בְּנֵ֨י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='24' WordSequence='4' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='25' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֨י</Word>
 <Word Book='Ezra' Chapter='2' Verse='25' WordSequence='2' >קִרְיַ֤ת</Word>
 <Word Book='Ezra' Chapter='2' Verse='25' WordSequence='3' >עָרִים֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='25' WordSequence='4' >כְּפִירָ֣ה</Word>
@@ -354,69 +354,69 @@
 <Word Book='Ezra' Chapter='2' Verse='25' WordSequence='6' >שְׁבַ֥ע</Word>
 <Word Book='Ezra' Chapter='2' Verse='25' WordSequence='7' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='25' WordSequence='8' >וְאַרְבָּעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='25' WordSequence='9' >וּשְׁלֹשָֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='26' WordSequence='1' >בְּנֵ֤י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='25' WordSequence='9' >וּשְׁלֹשָֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='26' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֤י</Word>
 <Word Book='Ezra' Chapter='2' Verse='26' WordSequence='2' >הָרָמָה֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='26' WordSequence='3' >וָגָ֔בַע</Word>
 <Word Book='Ezra' Chapter='2' Verse='26' WordSequence='4' >שֵׁ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='26' WordSequence='5' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='26' WordSequence='6' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='26' WordSequence='7' >וְאֶחָֽד</Word>
-<Word Book='Ezra' Chapter='2' Verse='27' WordSequence='1' >אַנְשֵׁ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='26' WordSequence='7' >וְאֶחָֽד</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='27' WordSequence='1' IsParashaPtuchah='true' >אַנְשֵׁ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='27' WordSequence='2' >מִכְמָ֔ס</Word>
 <Word Book='Ezra' Chapter='2' Verse='27' WordSequence='3' >מֵאָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='27' WordSequence='4' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='27' WordSequence='5' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='28' WordSequence='1' >אַנְשֵׁ֤י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='27' WordSequence='5' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='28' WordSequence='1' IsParashaPtuchah='true' >אַנְשֵׁ֤י</Word>
 <Word Book='Ezra' Chapter='2' Verse='28' WordSequence='2' >בֵֽית־</Word>
 <Word Book='Ezra' Chapter='2' Verse='28' WordSequence='3' >אֵל֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='28' WordSequence='4' >וְהָעָ֔י</Word>
 <Word Book='Ezra' Chapter='2' Verse='28' WordSequence='5' >מָאתַ֖יִם</Word>
 <Word Book='Ezra' Chapter='2' Verse='28' WordSequence='6' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='28' WordSequence='7' >וּשְׁלֹשָֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='29' WordSequence='1' >בְּנֵ֥י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='28' WordSequence='7' >וּשְׁלֹשָֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='29' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֥י</Word>
 <Word Book='Ezra' Chapter='2' Verse='29' WordSequence='2' >נְב֖וֹ</Word>
 <Word Book='Ezra' Chapter='2' Verse='29' WordSequence='3' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='29' WordSequence='4' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='30' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='29' WordSequence='4' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='30' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='30' WordSequence='2' >מַגְבִּ֔ישׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='30' WordSequence='3' >מֵאָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='30' WordSequence='4' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='30' WordSequence='5' >וְשִׁשָּֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='31' WordSequence='1' >בְּנֵי֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='30' WordSequence='5' >וְשִׁשָּֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='31' WordSequence='1' IsParashaPtuchah='true' >בְּנֵי֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='31' WordSequence='2' >עֵילָ֣ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='31' WordSequence='3' >אַחֵ֔ר</Word>
 <Word Book='Ezra' Chapter='2' Verse='31' WordSequence='4' >אֶ֕לֶף</Word>
 <Word Book='Ezra' Chapter='2' Verse='31' WordSequence='5' >מָאתַ֖יִם</Word>
 <Word Book='Ezra' Chapter='2' Verse='31' WordSequence='6' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='31' WordSequence='7' >וְאַרְבָּעָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='32' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='31' WordSequence='7' >וְאַרְבָּעָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='32' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='32' WordSequence='2' >חָרִ֔ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='32' WordSequence='3' >שְׁלֹ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='32' WordSequence='4' >מֵא֖וֹת</Word>
-<Word Book='Ezra' Chapter='2' Verse='32' WordSequence='5' >וְעֶשְׂרִֽים</Word>
-<Word Book='Ezra' Chapter='2' Verse='33' WordSequence='1' >בְּנֵי־</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='32' WordSequence='5' >וְעֶשְׂרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='33' WordSequence='1' IsParashaPtuchah='true' >בְּנֵי־</Word>
 <Word Book='Ezra' Chapter='2' Verse='33' WordSequence='2' >לֹד֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='33' WordSequence='3' >חָדִ֣יד</Word>
 <Word Book='Ezra' Chapter='2' Verse='33' WordSequence='4' >וְאוֹנ֔וֹ</Word>
 <Word Book='Ezra' Chapter='2' Verse='33' WordSequence='5' >שְׁבַ֥ע</Word>
 <Word Book='Ezra' Chapter='2' Verse='33' WordSequence='6' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='33' WordSequence='7' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='33' WordSequence='8' >וַחֲמִשָּֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='34' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='33' WordSequence='8' >וַחֲמִשָּֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='34' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='34' WordSequence='2' >יְרֵח֔וֹ</Word>
 <Word Book='Ezra' Chapter='2' Verse='34' WordSequence='3' >שְׁלֹ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='34' WordSequence='4' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='34' WordSequence='5' >אַרְבָּעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='34' WordSequence='6' >וַחֲמִשָּֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='35' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='34' WordSequence='6' >וַחֲמִשָּֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='35' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='35' WordSequence='2' >סְנָאָ֔ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='35' WordSequence='3' >שְׁלֹ֣שֶׁת</Word>
 <Word Book='Ezra' Chapter='2' Verse='35' WordSequence='4' >אֲלָפִ֔ים</Word>
 <Word Book='Ezra' Chapter='2' Verse='35' WordSequence='5' >וְשֵׁ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='35' WordSequence='6' >מֵא֖וֹת</Word>
-<Word Book='Ezra' Chapter='2' Verse='35' WordSequence='7' >וּשְׁלֹשִֽׁים</Word>
-<Word Book='Ezra' Chapter='2' Verse='36' WordSequence='1' >הַֽכֹּהֲנִ֑ים</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='35' WordSequence='7' >וּשְׁלֹשִֽׁים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='36' WordSequence='1' IsParashaPtuchah='true' >הַֽכֹּהֲנִ֑ים</Word>
 <Word Book='Ezra' Chapter='2' Verse='36' WordSequence='2' >בְּנֵ֤י</Word>
 <Word Book='Ezra' Chapter='2' Verse='36' WordSequence='3' >יְדַֽעְיָה֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='36' WordSequence='4' >לְבֵ֣ית</Word>
@@ -424,38 +424,38 @@
 <Word Book='Ezra' Chapter='2' Verse='36' WordSequence='6' >תְּשַׁ֥ע</Word>
 <Word Book='Ezra' Chapter='2' Verse='36' WordSequence='7' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='36' WordSequence='8' >שִׁבְעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='36' WordSequence='9' >וּשְׁלֹשָֽׁה</Word>
-<Word Book='Ezra' Chapter='2' Verse='37' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='36' WordSequence='9' >וּשְׁלֹשָֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='37' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='37' WordSequence='2' >אִמֵּ֔ר</Word>
 <Word Book='Ezra' Chapter='2' Verse='37' WordSequence='3' >אֶ֖לֶף</Word>
 <Word Book='Ezra' Chapter='2' Verse='37' WordSequence='4' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='37' WordSequence='5' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='38' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='37' WordSequence='5' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='38' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='38' WordSequence='2' >פַשְׁח֔וּר</Word>
 <Word Book='Ezra' Chapter='2' Verse='38' WordSequence='3' >אֶ֕לֶף</Word>
 <Word Book='Ezra' Chapter='2' Verse='38' WordSequence='4' >מָאתַ֖יִם</Word>
 <Word Book='Ezra' Chapter='2' Verse='38' WordSequence='5' >אַרְבָּעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='38' WordSequence='6' >וְשִׁבְעָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='39' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='38' WordSequence='6' >וְשִׁבְעָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='39' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='39' WordSequence='2' >חָרִ֔ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='39' WordSequence='3' >אֶ֖לֶף</Word>
 <Word Book='Ezra' Chapter='2' Verse='39' WordSequence='4' >וְשִׁבְעָ֥ה</Word>
-<Word Book='Ezra' Chapter='2' Verse='39' WordSequence='5' >עָשָֽׂר</Word>
-<Word Book='Ezra' Chapter='2' Verse='40' WordSequence='1' >הַלְוִיִּ֑ם</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='39' WordSequence='5' >עָשָֽׂר</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='40' WordSequence='1' IsParashaPtuchah='true' >הַלְוִיִּ֑ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='40' WordSequence='2' >בְּנֵי־</Word>
 <Word Book='Ezra' Chapter='2' Verse='40' WordSequence='3' >יֵשׁ֧וּעַ</Word>
 <Word Book='Ezra' Chapter='2' Verse='40' WordSequence='4' >וְקַדְמִיאֵ֛ל</Word>
 <Word Book='Ezra' Chapter='2' Verse='40' WordSequence='5' >לִבְנֵ֥י</Word>
 <Word Book='Ezra' Chapter='2' Verse='40' WordSequence='6' >הוֹדַוְיָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='40' WordSequence='7' >שִׁבְעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='40' WordSequence='8' >וְאַרְבָּעָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='41' WordSequence='1' >הַֽמְשֹׁרְרִ֑ים</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='40' WordSequence='8' >וְאַרְבָּעָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='41' WordSequence='1' IsParashaPtuchah='true' >הַֽמְשֹׁרְרִ֑ים</Word>
 <Word Book='Ezra' Chapter='2' Verse='41' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='41' WordSequence='3' >אָסָ֔ף</Word>
 <Word Book='Ezra' Chapter='2' Verse='41' WordSequence='4' >מֵאָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='41' WordSequence='5' >עֶשְׂרִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='41' WordSequence='6' IsParashaPtuchah='true' >וּשְׁמֹנָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='42' WordSequence='1' >בְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='41' WordSequence='6'>וּשְׁמֹנָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='42' WordSequence='1' IsParashaPtuchah='true' >בְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='2' Verse='42' WordSequence='2' >הַשֹּֽׁעֲרִ֗ים</Word>
 <Word Book='Ezra' Chapter='2' Verse='42' WordSequence='3' >בְּנֵי־</Word>
 <Word Book='Ezra' Chapter='2' Verse='42' WordSequence='4' >שַׁלּ֤וּם</Word>
@@ -472,8 +472,8 @@
 <Word Book='Ezra' Chapter='2' Verse='42' WordSequence='15' >הַכֹּ֕ל</Word>
 <Word Book='Ezra' Chapter='2' Verse='42' WordSequence='16' >מֵאָ֖ה</Word>
 <Word Book='Ezra' Chapter='2' Verse='42' WordSequence='17' >שְׁלֹשִׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='42' WordSequence='18' IsParashaPtuchah='true' >וְתִשְׁעָֽה</Word>
-<Word Book='Ezra' Chapter='2' Verse='43' WordSequence='1' >הַנְּתִינִ֑ים</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='42' WordSequence='18'>וְתִשְׁעָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='43' WordSequence='1' IsParashaPtuchah='true' >הַנְּתִינִ֑ים</Word>
 <Word Book='Ezra' Chapter='2' Verse='43' WordSequence='2' >בְּנֵי־</Word>
 <Word Book='Ezra' Chapter='2' Verse='43' WordSequence='3' >צִיחָ֥א</Word>
 <Word Book='Ezra' Chapter='2' Verse='43' WordSequence='4' >בְנֵי־</Word>
@@ -579,8 +579,8 @@
 <Word Book='Ezra' Chapter='2' Verse='58' WordSequence='6' >שְׁלֹ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='58' WordSequence='7' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='58' WordSequence='8' >תִּשְׁעִ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='58' WordSequence='9' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='59' WordSequence='1' >וְאֵ֗לֶּה</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='58' WordSequence='9' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='59' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֗לֶּה</Word>
 <Word Book='Ezra' Chapter='2' Verse='59' WordSequence='2' >הָֽעֹלִים֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='59' WordSequence='3' >מִתֵּ֥ל</Word>
 <Word Book='Ezra' Chapter='2' Verse='59' WordSequence='4' >מֶ֙לַח֙</Word>
@@ -607,8 +607,8 @@
 <Word Book='Ezra' Chapter='2' Verse='60' WordSequence='7' >שֵׁ֥שׁ</Word>
 <Word Book='Ezra' Chapter='2' Verse='60' WordSequence='8' >מֵא֖וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='60' WordSequence='9' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='2' Verse='60' WordSequence='10' >וּשְׁנָֽיִם</Word>
-<Word Book='Ezra' Chapter='2' Verse='61' WordSequence='1' >וּמִבְּנֵי֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='60' WordSequence='10' >וּשְׁנָֽיִם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='61' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵי֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='61' WordSequence='2' >הַכֹּ֣הֲנִ֔ים</Word>
 <Word Book='Ezra' Chapter='2' Verse='61' WordSequence='3' >בְּנֵ֥י</Word>
 <Word Book='Ezra' Chapter='2' Verse='61' WordSequence='4' >חֳבַיָּ֖ה</Word>
@@ -689,8 +689,8 @@
 <Word Book='Ezra' Chapter='2' Verse='67' WordSequence='8' >אֲלָפִ֔ים</Word>
 <Word Book='Ezra' Chapter='2' Verse='67' WordSequence='9' >שְׁבַ֥ע</Word>
 <Word Book='Ezra' Chapter='2' Verse='67' WordSequence='10' >מֵא֖וֹת</Word>
-<Word Book='Ezra' Chapter='2' Verse='67' WordSequence='11' IsParashaPtuchah='true' >וְעֶשְׂרִֽים</Word>
-<Word Book='Ezra' Chapter='2' Verse='68' WordSequence='1' >וּמֵרָאשֵׁי֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='67' WordSequence='11'>וְעֶשְׂרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='2' Verse='68' WordSequence='1' IsParashaPtuchah='true' >וּמֵרָאשֵׁי֙</Word>
 <Word Book='Ezra' Chapter='2' Verse='68' WordSequence='2' >הָֽאָב֔וֹת</Word>
 <Word Book='Ezra' Chapter='2' Verse='68' WordSequence='3' >בְּבוֹאָ֕ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='68' WordSequence='4' >לְבֵ֥ית</Word>
@@ -730,8 +730,8 @@
 <Word Book='Ezra' Chapter='2' Verse='70' WordSequence='9' >בְּעָרֵיהֶ֑ם</Word>
 <Word Book='Ezra' Chapter='2' Verse='70' WordSequence='10' >וְכָל־</Word>
 <Word Book='Ezra' Chapter='2' Verse='70' WordSequence='11' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='2' Verse='70' WordSequence='12' IsParashaPtuchah='true' >בְּעָרֵיהֶֽם</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיִּגַּע֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='2' Verse='70' WordSequence='12' >בְּעָרֵיהֶֽם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּגַּע֙</Word>
 <Word Book='Ezra' Chapter='3' Verse='1' WordSequence='2' >הַחֹ֣דֶשׁ</Word>
 <Word Book='Ezra' Chapter='3' Verse='1' WordSequence='3' >הַשְּׁבִיעִ֔י</Word>
 <Word Book='Ezra' Chapter='3' Verse='1' WordSequence='4' >וּבְנֵ֥י</Word>
@@ -841,8 +841,8 @@
 <Word Book='Ezra' Chapter='3' Verse='7' WordSequence='19' >כּ֥וֹרֶשׁ</Word>
 <Word Book='Ezra' Chapter='3' Verse='7' WordSequence='20' >מֶֽלֶךְ־</Word>
 <Word Book='Ezra' Chapter='3' Verse='7' WordSequence='21' >פָּרַ֖ס</Word>
-<Word Book='Ezra' Chapter='3' Verse='7' WordSequence='22' IsParashaPtuchah='true' >עֲלֵיהֶֽם</Word>
-<Word Book='Ezra' Chapter='3' Verse='8' WordSequence='1' >וּבַשָּׁנָ֣ה</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='3' Verse='7' WordSequence='22'>עֲלֵיהֶֽם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='3' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וּבַשָּׁנָ֣ה</Word>
 <Word Book='Ezra' Chapter='3' Verse='8' WordSequence='2' >הַשֵּׁנִ֗ית</Word>
 <Word Book='Ezra' Chapter='3' Verse='8' WordSequence='3' >לְבוֹאָ֞ם</Word>
 <Word Book='Ezra' Chapter='3' Verse='8' WordSequence='4' >אֶל־</Word>
@@ -877,8 +877,8 @@
 <Word Book='Ezra' Chapter='3' Verse='8' WordSequence='33' >עַל־</Word>
 <Word Book='Ezra' Chapter='3' Verse='8' WordSequence='34' >מְלֶ֥אכֶת</Word>
 <Word Book='Ezra' Chapter='3' Verse='8' WordSequence='35' >בֵּית־</Word>
-<Word Book='Ezra' Chapter='3' Verse='8' WordSequence='36' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Ezra' Chapter='3' Verse='9' WordSequence='1' >וַיַּעֲמֹ֣ד</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='3' Verse='8' WordSequence='36'>יְהוָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='3' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲמֹ֣ד</Word>
 <Word Book='Ezra' Chapter='3' Verse='9' WordSequence='2' >יֵשׁ֡וּעַ</Word>
 <Word Book='Ezra' Chapter='3' Verse='9' WordSequence='3' >בָּנָ֣יו</Word>
 <Word Book='Ezra' Chapter='3' Verse='9' WordSequence='4' >וְ֠אֶחָיו</Word>
@@ -940,8 +940,8 @@
 <Word Book='Ezra' Chapter='3' Verse='11' WordSequence='19' >עַ֖ל</Word>
 <Word Book='Ezra' Chapter='3' Verse='11' WordSequence='20' >הוּסַ֥ד</Word>
 <Word Book='Ezra' Chapter='3' Verse='11' WordSequence='21' >בֵּית־</Word>
-<Word Book='Ezra' Chapter='3' Verse='11' WordSequence='22' >יְהוָֽה</Word>
-<Word Book='Ezra' Chapter='3' Verse='12' WordSequence='1' >וְרַבִּ֡ים</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='3' Verse='11' WordSequence='22' >יְהוָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='3' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְרַבִּ֡ים</Word>
 <Word Book='Ezra' Chapter='3' Verse='12' WordSequence='2' >מֵהַכֹּהֲנִ֣ים</Word>
 <Word Book='Ezra' Chapter='3' Verse='12' WordSequence='3' >וְהַלְוִיִּם֩</Word>
 <Word Book='Ezra' Chapter='3' Verse='12' WordSequence='4' >וְרָאשֵׁ֨י</Word>
@@ -981,8 +981,8 @@
 <Word Book='Ezra' Chapter='3' Verse='13' WordSequence='15' >וְהַקּ֥וֹל</Word>
 <Word Book='Ezra' Chapter='3' Verse='13' WordSequence='16' >נִשְׁמַ֖ע</Word>
 <Word Book='Ezra' Chapter='3' Verse='13' WordSequence='17' >עַד־</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='3' Verse='13' WordSequence='18' IsParashaPtuchah='true' >לְמֵרָחֽוֹק</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַֽיִּשְׁמְע֔וּ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='3' Verse='13' WordSequence='18'>לְמֵרָחֽוֹק</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּשְׁמְע֔וּ</Word>
 <Word Book='Ezra' Chapter='4' Verse='1' WordSequence='2' >צָרֵ֥י</Word>
 <Word Book='Ezra' Chapter='4' Verse='1' WordSequence='3' >יְהוּדָ֖ה</Word>
 <Word Book='Ezra' Chapter='4' Verse='1' WordSequence='4' >וּבִנְיָמִ֑ן</Word>
@@ -1082,8 +1082,8 @@
 <Word Book='Ezra' Chapter='4' Verse='6' WordSequence='7' >עַל־</Word>
 <Word Book='Ezra' Chapter='4' Verse='6' WordSequence='8' >יֹשְׁבֵ֥י</Word>
 <Word Book='Ezra' Chapter='4' Verse='6' WordSequence='9' >יְהוּדָ֖ה</Word>
-<Word Book='Ezra' Chapter='4' Verse='6' WordSequence='10' >וִירוּשָׁלִָֽם</Word>
-<Word Book='Ezra' Chapter='4' Verse='7' WordSequence='1' >וּבִימֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='4' Verse='6' WordSequence='10' >וִירוּשָׁלִָֽם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='4' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וּבִימֵ֣י</Word>
 <Word Book='Ezra' Chapter='4' Verse='7' WordSequence='2' >אַרְתַּחְשַׁ֗שְׂתָּא</Word>
 <Word Book='Ezra' Chapter='4' Verse='7' WordSequence='3' >כָּתַ֨ב</Word>
 <Word Book='Ezra' Chapter='4' Verse='7' WordSequence='4' >בִּשְׁלָ֜ם</Word>
@@ -1102,8 +1102,8 @@
 <Word Book='Ezra' Chapter='4' Verse='7' WordSequence='17' >כָּת֥וּב</Word>
 <Word Book='Ezra' Chapter='4' Verse='7' WordSequence='18' >אֲרָמִ֖ית</Word>
 <Word Book='Ezra' Chapter='4' Verse='7' WordSequence='19' >וּמְתֻרְגָּ֥ם</Word>
-<Word Book='Ezra' Chapter='4' Verse='7' WordSequence='20' IsParashaPtuchah='true' >אֲרָמִֽית</Word>
-<Word Book='Ezra' Chapter='4' Verse='8' WordSequence='1' >רְח֣וּם</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='4' Verse='7' WordSequence='20'>אֲרָמִֽית</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='4' Verse='8' WordSequence='1' IsParashaPtuchah='true' >רְח֣וּם</Word>
 <Word Book='Ezra' Chapter='4' Verse='8' WordSequence='2' >בְּעֵל־</Word>
 <Word Book='Ezra' Chapter='4' Verse='8' WordSequence='3' >טְעֵ֗ם</Word>
 <Word Book='Ezra' Chapter='4' Verse='8' WordSequence='4' >וְשִׁמְשַׁי֙</Word>
@@ -1164,8 +1164,8 @@
 <Word Book='Ezra' Chapter='4' Verse='11' WordSequence='11' >אֱנָ֥שׁ</Word>
 <Word Book='Ezra' Chapter='4' Verse='11' WordSequence='12' >עֲבַֽר־</Word>
 <Word Book='Ezra' Chapter='4' Verse='11' WordSequence='13' >נַהֲרָ֖ה</Word>
-<Word Book='Ezra' Chapter='4' Verse='11' WordSequence='14' IsParashaPtuchah='true' >וּכְעֶֽנֶת</Word>
-<Word Book='Ezra' Chapter='4' Verse='12' WordSequence='1' >יְדִ֙יעַ֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='4' Verse='11' WordSequence='14'>וּכְעֶֽנֶת</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='4' Verse='12' WordSequence='1' IsParashaPtuchah='true' >יְדִ֙יעַ֙</Word>
 <Word Book='Ezra' Chapter='4' Verse='12' WordSequence='2' >לֶהֱוֵ֣א</Word>
 <Word Book='Ezra' Chapter='4' Verse='12' WordSequence='3' >לְמַלְכָּ֔א</Word>
 <Word Book='Ezra' Chapter='4' Verse='12' WordSequence='4' >דִּ֣י</Word>
@@ -1271,8 +1271,8 @@
 <Word Book='Ezra' Chapter='4' Verse='16' WordSequence='15' >נַהֲרָ֔א</Word>
 <Word Book='Ezra' Chapter='4' Verse='16' WordSequence='16' >לָ֥א</Word>
 <Word Book='Ezra' Chapter='4' Verse='16' WordSequence='17' >אִיתַ֖י</Word>
-<Word Book='Ezra' Chapter='4' Verse='16' WordSequence='18' IsParashaPtuchah='true' >לָֽךְ</Word>
-<Word Book='Ezra' Chapter='4' Verse='17' WordSequence='1' >פִּתְגָמָ֞א</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='4' Verse='16' WordSequence='18'>לָֽךְ</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='4' Verse='17' WordSequence='1' IsParashaPtuchah='true' >פִּתְגָמָ֞א</Word>
 <Word Book='Ezra' Chapter='4' Verse='17' WordSequence='2' >שְׁלַ֣ח</Word>
 <Word Book='Ezra' Chapter='4' Verse='17' WordSequence='3' >מַלְכָּ֗א</Word>
 <Word Book='Ezra' Chapter='4' Verse='17' WordSequence='4' >עַל־</Word>
@@ -1290,8 +1290,8 @@
 <Word Book='Ezra' Chapter='4' Verse='17' WordSequence='16' >עֲבַֽר־</Word>
 <Word Book='Ezra' Chapter='4' Verse='17' WordSequence='17' >נַהֲרָ֛ה</Word>
 <Word Book='Ezra' Chapter='4' Verse='17' WordSequence='18' >שְׁלָ֖ם</Word>
-<Word Book='Ezra' Chapter='4' Verse='17' WordSequence='19' >וּכְעֶֽת</Word>
-<Word Book='Ezra' Chapter='4' Verse='18' WordSequence='1' >נִשְׁתְּוָנָ֕א</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='4' Verse='17' WordSequence='19' >וּכְעֶֽת</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='4' Verse='18' WordSequence='1' IsParashaPtuchah='true' >נִשְׁתְּוָנָ֕א</Word>
 <Word Book='Ezra' Chapter='4' Verse='18' WordSequence='2' >דִּ֥י</Word>
 <Word Book='Ezra' Chapter='4' Verse='18' WordSequence='3' >שְׁלַחְתּ֖וּן</Word>
 <Word Book='Ezra' Chapter='4' Verse='18' WordSequence='4' >עֲלֶ֑ינָא</Word>
@@ -1354,8 +1354,8 @@
 <Word Book='Ezra' Chapter='4' Verse='22' WordSequence='8' >יִשְׂגֵּ֣א</Word>
 <Word Book='Ezra' Chapter='4' Verse='22' WordSequence='9' >חֲבָלָ֔א</Word>
 <Word Book='Ezra' Chapter='4' Verse='22' WordSequence='10' >לְהַנְזָקַ֖ת</Word>
-<Word Book='Ezra' Chapter='4' Verse='22' WordSequence='11' >מַלְכִֽין</Word>
-<Word Book='Ezra' Chapter='4' Verse='23' WordSequence='1' >אֱדַ֗יִן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='4' Verse='22' WordSequence='11' >מַלְכִֽין</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='4' Verse='23' WordSequence='1' IsParashaPtuchah='true' >אֱדַ֗יִן</Word>
 <Word Book='Ezra' Chapter='4' Verse='23' WordSequence='2' >מִן־</Word>
 <Word Book='Ezra' Chapter='4' Verse='23' WordSequence='3' >דִּ֞י</Word>
 <Word Book='Ezra' Chapter='4' Verse='23' WordSequence='4' >פַּרְשֶׁ֤גֶן</Word>
@@ -1378,8 +1378,8 @@
 <Word Book='Ezra' Chapter='4' Verse='23' WordSequence='21' >וּבַטִּ֥לוּ</Word>
 <Word Book='Ezra' Chapter='4' Verse='23' WordSequence='22' >הִמּ֖וֹ</Word>
 <Word Book='Ezra' Chapter='4' Verse='23' WordSequence='23' >בְּאֶדְרָ֥ע</Word>
-<Word Book='Ezra' Chapter='4' Verse='23' WordSequence='24' >וְחָֽיִל</Word>
-<Word Book='Ezra' Chapter='4' Verse='24' WordSequence='1' >בֵּאדַ֗יִן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='4' Verse='23' WordSequence='24' >וְחָֽיִל</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='4' Verse='24' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֗יִן</Word>
 <Word Book='Ezra' Chapter='4' Verse='24' WordSequence='2' >בְּטֵלַת֙</Word>
 <Word Book='Ezra' Chapter='4' Verse='24' WordSequence='3' >עֲבִידַ֣ת</Word>
 <Word Book='Ezra' Chapter='4' Verse='24' WordSequence='4' >בֵּית־</Word>
@@ -1394,8 +1394,8 @@
 <Word Book='Ezra' Chapter='4' Verse='24' WordSequence='13' >לְמַלְכ֖וּת</Word>
 <Word Book='Ezra' Chapter='4' Verse='24' WordSequence='14' >דָּרְיָ֥וֶשׁ</Word>
 <Word Book='Ezra' Chapter='4' Verse='24' WordSequence='15' >מֶֽלֶךְ־</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='4' Verse='24' WordSequence='16' IsParashaPtuchah='true' >פָּרָֽס</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וְהִתְנַבִּ֞י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='4' Verse='24' WordSequence='16'>פָּרָֽס</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהִתְנַבִּ֞י</Word>
 <Word Book='Ezra' Chapter='5' Verse='1' WordSequence='2' >חַגַּ֣י</Word>
 <Word Book='Ezra' Chapter='5' Verse='1' WordSequence='3' >נביאה</Word>
 <Word Book='Ezra' Chapter='5' Verse='1' WordSequence='4' >[נְבִיָּ֗א]</Word>
@@ -1412,8 +1412,8 @@
 <Word Book='Ezra' Chapter='5' Verse='1' WordSequence='15' >בְּשֻׁ֛ם</Word>
 <Word Book='Ezra' Chapter='5' Verse='1' WordSequence='16' >אֱלָ֥הּ</Word>
 <Word Book='Ezra' Chapter='5' Verse='1' WordSequence='17' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='Ezra' Chapter='5' Verse='1' WordSequence='18' >עֲלֵיהֽוֹן</Word>
-<Word Book='Ezra' Chapter='5' Verse='2' WordSequence='1' >בֵּאדַ֡יִן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='1' WordSequence='18' >עֲלֵיהֽוֹן</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='2' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֡יִן</Word>
 <Word Book='Ezra' Chapter='5' Verse='2' WordSequence='2' >קָ֠מוּ</Word>
 <Word Book='Ezra' Chapter='5' Verse='2' WordSequence='3' >זְרֻבָּבֶ֤ל</Word>
 <Word Book='Ezra' Chapter='5' Verse='2' WordSequence='4' >בַּר־</Word>
@@ -1433,8 +1433,8 @@
 <Word Book='Ezra' Chapter='5' Verse='2' WordSequence='18' >דִֽי־</Word>
 <Word Book='Ezra' Chapter='5' Verse='2' WordSequence='19' >אֱלָהָ֖א</Word>
 <Word Book='Ezra' Chapter='5' Verse='2' WordSequence='20' >מְסָעֲדִ֥ין</Word>
-<Word Book='Ezra' Chapter='5' Verse='2' WordSequence='21' IsParashaPtuchah='true' >לְהֽוֹן</Word>
-<Word Book='Ezra' Chapter='5' Verse='3' WordSequence='1' >בֵּהּ־</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='2' WordSequence='21'>לְהֽוֹן</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='3' WordSequence='1' IsParashaPtuchah='true' >בֵּהּ־</Word>
 <Word Book='Ezra' Chapter='5' Verse='3' WordSequence='2' >זִמְנָא֩</Word>
 <Word Book='Ezra' Chapter='5' Verse='3' WordSequence='3' >אֲתָ֨א</Word>
 <Word Book='Ezra' Chapter='5' Verse='3' WordSequence='4' >עֲלֵיה֜וֹן</Word>
@@ -1457,8 +1457,8 @@
 <Word Book='Ezra' Chapter='5' Verse='3' WordSequence='21' >לִבְּנֵ֔א</Word>
 <Word Book='Ezra' Chapter='5' Verse='3' WordSequence='22' >וְאֻשַּׁרְנָ֥א</Word>
 <Word Book='Ezra' Chapter='5' Verse='3' WordSequence='23' >דְנָ֖ה</Word>
-<Word Book='Ezra' Chapter='5' Verse='3' WordSequence='24' >לְשַׁכְלָלָֽה</Word>
-<Word Book='Ezra' Chapter='5' Verse='4' WordSequence='1' >אֱדַ֥יִן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='3' WordSequence='24' >לְשַׁכְלָלָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='4' WordSequence='1' IsParashaPtuchah='true' >אֱדַ֥יִן</Word>
 <Word Book='Ezra' Chapter='5' Verse='4' WordSequence='2' >כְּנֵ֖מָא</Word>
 <Word Book='Ezra' Chapter='5' Verse='4' WordSequence='3' >אֲמַ֣רְנָא</Word>
 <Word Book='Ezra' Chapter='5' Verse='4' WordSequence='4' >לְּהֹ֑ם</Word>
@@ -1487,8 +1487,8 @@
 <Word Book='Ezra' Chapter='5' Verse='5' WordSequence='15' >יְתִיב֥וּן</Word>
 <Word Book='Ezra' Chapter='5' Verse='5' WordSequence='16' >נִשְׁתְּוָנָ֖א</Word>
 <Word Book='Ezra' Chapter='5' Verse='5' WordSequence='17' >עַל־</Word>
-<Word Book='Ezra' Chapter='5' Verse='5' WordSequence='18' IsParashaPtuchah='true' >דְּנָֽה</Word>
-<Word Book='Ezra' Chapter='5' Verse='6' WordSequence='1' >פַּרְשֶׁ֣גֶן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='5' WordSequence='18'>דְּנָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='6' WordSequence='1' IsParashaPtuchah='true' >פַּרְשֶׁ֣גֶן</Word>
 <Word Book='Ezra' Chapter='5' Verse='6' WordSequence='2' >אִ֠גַּרְתָּא</Word>
 <Word Book='Ezra' Chapter='5' Verse='6' WordSequence='3' >דִּֽי־</Word>
 <Word Book='Ezra' Chapter='5' Verse='6' WordSequence='4' >שְׁלַ֞ח</Word>
@@ -1515,8 +1515,8 @@
 <Word Book='Ezra' Chapter='5' Verse='7' WordSequence='7' >לְדָרְיָ֥וֶשׁ</Word>
 <Word Book='Ezra' Chapter='5' Verse='7' WordSequence='8' >מַלְכָּ֖א</Word>
 <Word Book='Ezra' Chapter='5' Verse='7' WordSequence='9' >שְׁלָמָ֥א</Word>
-<Word Book='Ezra' Chapter='5' Verse='7' WordSequence='10' >כֹֽלָּא</Word>
-<Word Book='Ezra' Chapter='5' Verse='8' WordSequence='1' >יְדִ֣יעַ׀</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='7' WordSequence='10' >כֹֽלָּא</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='8' WordSequence='1' IsParashaPtuchah='true' >יְדִ֣יעַ׀</Word>
 <Word Book='Ezra' Chapter='5' Verse='8' WordSequence='2' >לֶהֱוֵ֣א</Word>
 <Word Book='Ezra' Chapter='5' Verse='8' WordSequence='3' >לְמַלְכָּ֗א</Word>
 <Word Book='Ezra' Chapter='5' Verse='8' WordSequence='4' >דִּֽי־</Word>
@@ -1538,8 +1538,8 @@
 <Word Book='Ezra' Chapter='5' Verse='8' WordSequence='20' >אָסְפַּ֥רְנָא</Word>
 <Word Book='Ezra' Chapter='5' Verse='8' WordSequence='21' >מִתְעַבְדָ֖א</Word>
 <Word Book='Ezra' Chapter='5' Verse='8' WordSequence='22' >וּמַצְלַ֥ח</Word>
-<Word Book='Ezra' Chapter='5' Verse='8' WordSequence='23' >בְּיֶדְהֹֽם</Word>
-<Word Book='Ezra' Chapter='5' Verse='9' WordSequence='1' >אֱדַ֗יִן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='8' WordSequence='23' >בְּיֶדְהֹֽם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='9' WordSequence='1' IsParashaPtuchah='true' >אֱדַ֗יִן</Word>
 <Word Book='Ezra' Chapter='5' Verse='9' WordSequence='2' >שְׁאֵ֙לְנָא֙</Word>
 <Word Book='Ezra' Chapter='5' Verse='9' WordSequence='3' >לְשָׂבַיָּ֣א</Word>
 <Word Book='Ezra' Chapter='5' Verse='9' WordSequence='4' >אִלֵּ֔ךְ</Word>
@@ -1566,8 +1566,8 @@
 <Word Book='Ezra' Chapter='5' Verse='10' WordSequence='8' >שֻׁם־</Word>
 <Word Book='Ezra' Chapter='5' Verse='10' WordSequence='9' >גֻּבְרַיָּ֖א</Word>
 <Word Book='Ezra' Chapter='5' Verse='10' WordSequence='10' >דִּ֥י</Word>
-<Word Book='Ezra' Chapter='5' Verse='10' WordSequence='11' >בְרָאשֵׁיהֹֽם</Word>
-<Word Book='Ezra' Chapter='5' Verse='11' WordSequence='1' >וּכְנֵ֥מָא</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='10' WordSequence='11' >בְרָאשֵׁיהֹֽם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וּכְנֵ֥מָא</Word>
 <Word Book='Ezra' Chapter='5' Verse='11' WordSequence='2' >פִתְגָמָ֖א</Word>
 <Word Book='Ezra' Chapter='5' Verse='11' WordSequence='3' >הֲתִיב֣וּנָא</Word>
 <Word Book='Ezra' Chapter='5' Verse='11' WordSequence='4' >לְמֵמַ֑ר</Word>
@@ -1612,8 +1612,8 @@
 <Word Book='Ezra' Chapter='5' Verse='12' WordSequence='18' >סַתְרֵ֔הּ</Word>
 <Word Book='Ezra' Chapter='5' Verse='12' WordSequence='19' >וְעַמָּ֖ה</Word>
 <Word Book='Ezra' Chapter='5' Verse='12' WordSequence='20' >הַגְלִ֥י</Word>
-<Word Book='Ezra' Chapter='5' Verse='12' WordSequence='21' >לְבָבֶֽל</Word>
-<Word Book='Ezra' Chapter='5' Verse='13' WordSequence='1' >בְּרַם֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='12' WordSequence='21' >לְבָבֶֽל</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='13' WordSequence='1' IsParashaPtuchah='true' >בְּרַם֙</Word>
 <Word Book='Ezra' Chapter='5' Verse='13' WordSequence='2' >בִּשְׁנַ֣ת</Word>
 <Word Book='Ezra' Chapter='5' Verse='13' WordSequence='3' >חֲדָ֔ה</Word>
 <Word Book='Ezra' Chapter='5' Verse='13' WordSequence='4' >לְכ֥וֹרֶשׁ</Word>
@@ -1678,8 +1678,8 @@
 <Word Book='Ezra' Chapter='5' Verse='15' WordSequence='14' >אֱלָהָ֖א</Word>
 <Word Book='Ezra' Chapter='5' Verse='15' WordSequence='15' >יִתְבְּנֵ֥א</Word>
 <Word Book='Ezra' Chapter='5' Verse='15' WordSequence='16' >עַל־</Word>
-<Word Book='Ezra' Chapter='5' Verse='15' WordSequence='17' >אַתְרֵֽהּ</Word>
-<Word Book='Ezra' Chapter='5' Verse='16' WordSequence='1' >אֱדַ֙יִן֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='15' WordSequence='17' >אַתְרֵֽהּ</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='5' Verse='16' WordSequence='1' IsParashaPtuchah='true' >אֱדַ֙יִן֙</Word>
 <Word Book='Ezra' Chapter='5' Verse='16' WordSequence='2' >שֵׁשְׁבַּצַּ֣ר</Word>
 <Word Book='Ezra' Chapter='5' Verse='16' WordSequence='3' >דֵּ֔ךְ</Word>
 <Word Book='Ezra' Chapter='5' Verse='16' WordSequence='4' >אֲתָ֗א</Word>
@@ -1728,8 +1728,8 @@
 <Word Book='Ezra' Chapter='5' Verse='17' WordSequence='29' >עַל־</Word>
 <Word Book='Ezra' Chapter='5' Verse='17' WordSequence='30' >דְּנָ֖ה</Word>
 <Word Book='Ezra' Chapter='5' Verse='17' WordSequence='31' >יִשְׁלַ֥ח</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='5' Verse='17' WordSequence='32' IsParashaPtuchah='true' >עֲלֶֽינָא</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>בֵּאדַ֛יִן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='5' Verse='17' WordSequence='32' >עֲלֶֽינָא</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֛יִן</Word>
 <Word Book='Ezra' Chapter='6' Verse='1' WordSequence='2' >דָּרְיָ֥וֶשׁ</Word>
 <Word Book='Ezra' Chapter='6' Verse='1' WordSequence='3' >מַלְכָּ֖א</Word>
 <Word Book='Ezra' Chapter='6' Verse='1' WordSequence='4' >שָׂ֣ם</Word>
@@ -1753,8 +1753,8 @@
 <Word Book='Ezra' Chapter='6' Verse='2' WordSequence='9' >וְכֵן־</Word>
 <Word Book='Ezra' Chapter='6' Verse='2' WordSequence='10' >כְּתִ֥יב</Word>
 <Word Book='Ezra' Chapter='6' Verse='2' WordSequence='11' >בְּגַוַּ֖הּ</Word>
-<Word Book='Ezra' Chapter='6' Verse='2' WordSequence='12' IsParashaPtuchah='true' >דִּכְרוֹנָֽה</Word>
-<Word Book='Ezra' Chapter='6' Verse='3' WordSequence='1' >בִּשְׁנַ֨ת</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='6' Verse='2' WordSequence='12'>דִּכְרוֹנָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='6' Verse='3' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֨ת</Word>
 <Word Book='Ezra' Chapter='6' Verse='3' WordSequence='2' >חֲדָ֜ה</Word>
 <Word Book='Ezra' Chapter='6' Verse='3' WordSequence='3' >לְכ֣וֹרֶשׁ</Word>
 <Word Book='Ezra' Chapter='6' Verse='3' WordSequence='4' >מַלְכָּ֗א</Word>
@@ -1817,8 +1817,8 @@
 <Word Book='Ezra' Chapter='6' Verse='5' WordSequence='22' >לְאַתְרֵ֔הּ</Word>
 <Word Book='Ezra' Chapter='6' Verse='5' WordSequence='23' >וְתַחֵ֖ת</Word>
 <Word Book='Ezra' Chapter='6' Verse='5' WordSequence='24' >בְּבֵ֥ית</Word>
-<Word Book='Ezra' Chapter='6' Verse='5' WordSequence='25' >אֱלָהָֽא</Word>
-<Word Book='Ezra' Chapter='6' Verse='6' WordSequence='1' >כְּעַ֡ן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='6' Verse='5' WordSequence='25' >אֱלָהָֽא</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='6' Verse='6' WordSequence='1' IsParashaPtuchah='true' >כְּעַ֡ן</Word>
 <Word Book='Ezra' Chapter='6' Verse='6' WordSequence='2' >תַּ֠תְּנַי</Word>
 <Word Book='Ezra' Chapter='6' Verse='6' WordSequence='3' >פַּחַ֨ת</Word>
 <Word Book='Ezra' Chapter='6' Verse='6' WordSequence='4' >עֲבַֽר־</Word>
@@ -1959,8 +1959,8 @@
 <Word Book='Ezra' Chapter='6' Verse='12' WordSequence='22' >שָׂ֣מֶת</Word>
 <Word Book='Ezra' Chapter='6' Verse='12' WordSequence='23' >טְעֵ֔ם</Word>
 <Word Book='Ezra' Chapter='6' Verse='12' WordSequence='24' >אָסְפַּ֖רְנָא</Word>
-<Word Book='Ezra' Chapter='6' Verse='12' WordSequence='25' IsParashaPtuchah='true' >יִתְעֲבִֽד</Word>
-<Word Book='Ezra' Chapter='6' Verse='13' WordSequence='1' >אֱ֠דַיִן</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='6' Verse='12' WordSequence='25'>יִתְעֲבִֽד</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='6' Verse='13' WordSequence='1' IsParashaPtuchah='true' >אֱ֠דַיִן</Word>
 <Word Book='Ezra' Chapter='6' Verse='13' WordSequence='2' >תַּתְּנַ֞י</Word>
 <Word Book='Ezra' Chapter='6' Verse='13' WordSequence='3' >פַּחַ֧ת</Word>
 <Word Book='Ezra' Chapter='6' Verse='13' WordSequence='4' >עֲבַֽר־</Word>
@@ -2013,8 +2013,8 @@
 <Word Book='Ezra' Chapter='6' Verse='15' WordSequence='12' >שֵׁ֔ת</Word>
 <Word Book='Ezra' Chapter='6' Verse='15' WordSequence='13' >לְמַלְכ֖וּת</Word>
 <Word Book='Ezra' Chapter='6' Verse='15' WordSequence='14' >דָּרְיָ֥וֶשׁ</Word>
-<Word Book='Ezra' Chapter='6' Verse='15' WordSequence='15' IsParashaPtuchah='true' >מַלְכָּֽא</Word>
-<Word Book='Ezra' Chapter='6' Verse='16' WordSequence='1' >וַעֲבַ֣דוּ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='6' Verse='15' WordSequence='15'>מַלְכָּֽא</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='6' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַעֲבַ֣דוּ</Word>
 <Word Book='Ezra' Chapter='6' Verse='16' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Ezra' Chapter='6' Verse='16' WordSequence='3' >יִ֠שְׂרָאֵל</Word>
 <Word Book='Ezra' Chapter='6' Verse='16' WordSequence='4' >כָּהֲנַיָּ֨א</Word>
@@ -2063,8 +2063,8 @@
 <Word Book='Ezra' Chapter='6' Verse='18' WordSequence='10' >בִירוּשְׁלֶ֑ם</Word>
 <Word Book='Ezra' Chapter='6' Verse='18' WordSequence='11' >כִּכְתָ֖ב</Word>
 <Word Book='Ezra' Chapter='6' Verse='18' WordSequence='12' >סְפַ֥ר</Word>
-<Word Book='Ezra' Chapter='6' Verse='18' WordSequence='13' IsParashaPtuchah='true' >מֹשֶֽׁה</Word>
-<Word Book='Ezra' Chapter='6' Verse='19' WordSequence='1' >וַיַּעֲשׂ֥וּ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='6' Verse='18' WordSequence='13'>מֹשֶֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='6' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲשׂ֥וּ</Word>
 <Word Book='Ezra' Chapter='6' Verse='19' WordSequence='2' >בְנֵי־</Word>
 <Word Book='Ezra' Chapter='6' Verse='19' WordSequence='3' >הַגּוֹלָ֖ה</Word>
 <Word Book='Ezra' Chapter='6' Verse='19' WordSequence='4' >אֶת־</Word>
@@ -2123,8 +2123,8 @@
 <Word Book='Ezra' Chapter='6' Verse='22' WordSequence='18' >בֵּית־</Word>
 <Word Book='Ezra' Chapter='6' Verse='22' WordSequence='19' >הָאֱלֹהִ֖ים</Word>
 <Word Book='Ezra' Chapter='6' Verse='22' WordSequence='20' >אֱלֹהֵ֥י</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='6' Verse='22' WordSequence='21' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וְאַחַר֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='6' Verse='22' WordSequence='21'>יִשְׂרָאֵֽל</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאַחַר֙</Word>
 <Word Book='Ezra' Chapter='7' Verse='1' WordSequence='2' >הַדְּבָרִ֣ים</Word>
 <Word Book='Ezra' Chapter='7' Verse='1' WordSequence='3' >הָאֵ֔לֶּה</Word>
 <Word Book='Ezra' Chapter='7' Verse='1' WordSequence='4' >בְּמַלְכ֖וּת</Word>
@@ -2188,8 +2188,8 @@
 <Word Book='Ezra' Chapter='7' Verse='6' WordSequence='20' >אֱלֹהָיו֙</Word>
 <Word Book='Ezra' Chapter='7' Verse='6' WordSequence='21' >עָלָ֔יו</Word>
 <Word Book='Ezra' Chapter='7' Verse='6' WordSequence='22' >כֹּ֖ל</Word>
-<Word Book='Ezra' Chapter='7' Verse='6' WordSequence='23' IsParashaPtuchah='true' >בַּקָּשָׁתֽוֹ</Word>
-<Word Book='Ezra' Chapter='7' Verse='7' WordSequence='1' >וַיַּֽעֲל֣וּ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='7' Verse='6' WordSequence='23'>בַּקָּשָׁתֽוֹ</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='7' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיַּֽעֲל֣וּ</Word>
 <Word Book='Ezra' Chapter='7' Verse='7' WordSequence='2' >מִבְּנֵֽי־</Word>
 <Word Book='Ezra' Chapter='7' Verse='7' WordSequence='3' >יִ֠שְׂרָאֵל</Word>
 <Word Book='Ezra' Chapter='7' Verse='7' WordSequence='4' >וּמִן־</Word>
@@ -2242,8 +2242,8 @@
 <Word Book='Ezra' Chapter='7' Verse='10' WordSequence='10' >וּלְלַמֵּ֥ד</Word>
 <Word Book='Ezra' Chapter='7' Verse='10' WordSequence='11' >בְּיִשְׂרָאֵ֖ל</Word>
 <Word Book='Ezra' Chapter='7' Verse='10' WordSequence='12' >חֹ֥ק</Word>
-<Word Book='Ezra' Chapter='7' Verse='10' WordSequence='13' >וּמִשְׁפָּֽט</Word>
-<Word Book='Ezra' Chapter='7' Verse='11' WordSequence='1' >וְזֶ֣ה׀</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='7' Verse='10' WordSequence='13' >וּמִשְׁפָּֽט</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='7' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וְזֶ֣ה׀</Word>
 <Word Book='Ezra' Chapter='7' Verse='11' WordSequence='2' >פַּרְשֶׁ֣גֶן</Word>
 <Word Book='Ezra' Chapter='7' Verse='11' WordSequence='3' >הַֽנִּשְׁתְּוָ֗ן</Word>
 <Word Book='Ezra' Chapter='7' Verse='11' WordSequence='4' >אֲשֶׁ֤ר</Word>
@@ -2259,8 +2259,8 @@
 <Word Book='Ezra' Chapter='7' Verse='11' WordSequence='14' >יְהוָ֛ה</Word>
 <Word Book='Ezra' Chapter='7' Verse='11' WordSequence='15' >וְחֻקָּ֖יו</Word>
 <Word Book='Ezra' Chapter='7' Verse='11' WordSequence='16' >עַל־</Word>
-<Word Book='Ezra' Chapter='7' Verse='11' WordSequence='17' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Ezra' Chapter='7' Verse='12' WordSequence='1' >אַ֨רְתַּחְשַׁ֔סְתְּא</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='7' Verse='11' WordSequence='17'>יִשְׂרָאֵֽל</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='7' Verse='12' WordSequence='1' IsParashaPtuchah='true' >אַ֨רְתַּחְשַׁ֔סְתְּא</Word>
 <Word Book='Ezra' Chapter='7' Verse='12' WordSequence='2' >מֶ֖לֶךְ</Word>
 <Word Book='Ezra' Chapter='7' Verse='12' WordSequence='3' >מַלְכַיָּ֑א</Word>
 <Word Book='Ezra' Chapter='7' Verse='12' WordSequence='4' >לְעֶזְרָ֣א</Word>
@@ -2527,8 +2527,8 @@
 <Word Book='Ezra' Chapter='7' Verse='26' WordSequence='22' >הֵן־</Word>
 <Word Book='Ezra' Chapter='7' Verse='26' WordSequence='23' >לַעֲנָ֥שׁ</Word>
 <Word Book='Ezra' Chapter='7' Verse='26' WordSequence='24' >נִכְסִ֖ין</Word>
-<Word Book='Ezra' Chapter='7' Verse='26' WordSequence='25' IsParashaPtuchah='true' >וְלֶאֱסוּרִֽין</Word>
-<Word Book='Ezra' Chapter='7' Verse='27' WordSequence='1' >בָּר֥וּךְ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='7' Verse='26' WordSequence='25'>וְלֶאֱסוּרִֽין</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='7' Verse='27' WordSequence='1' IsParashaPtuchah='true' >בָּר֥וּךְ</Word>
 <Word Book='Ezra' Chapter='7' Verse='27' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Ezra' Chapter='7' Verse='27' WordSequence='3' >אֱלֹהֵ֣י</Word>
 <Word Book='Ezra' Chapter='7' Verse='27' WordSequence='4' >אֲבוֹתֵ֑ינוּ</Word>
@@ -2563,8 +2563,8 @@
 <Word Book='Ezra' Chapter='7' Verse='28' WordSequence='18' >מִיִּשְׂרָאֵ֛ל</Word>
 <Word Book='Ezra' Chapter='7' Verse='28' WordSequence='19' >רָאשִׁ֖ים</Word>
 <Word Book='Ezra' Chapter='7' Verse='28' WordSequence='20' >לַעֲל֥וֹת</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='7' Verse='28' WordSequence='21' IsParashaPtuchah='true' >עִמִּֽי</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וְאֵ֛לֶּה</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='7' Verse='28' WordSequence='21'>עִמִּֽי</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֛לֶּה</Word>
 <Word Book='Ezra' Chapter='8' Verse='1' WordSequence='2' >רָאשֵׁ֥י</Word>
 <Word Book='Ezra' Chapter='8' Verse='1' WordSequence='3' >אֲבֹתֵיהֶ֖ם</Word>
 <Word Book='Ezra' Chapter='8' Verse='1' WordSequence='4' >וְהִתְיַחְשָׂ֑ם</Word>
@@ -2573,8 +2573,8 @@
 <Word Book='Ezra' Chapter='8' Verse='1' WordSequence='7' >בְּמַלְכ֛וּת</Word>
 <Word Book='Ezra' Chapter='8' Verse='1' WordSequence='8' >אַרְתַּחְשַׁ֥סְתְּא</Word>
 <Word Book='Ezra' Chapter='8' Verse='1' WordSequence='9' >הַמֶּ֖לֶךְ</Word>
-<Word Book='Ezra' Chapter='8' Verse='1' WordSequence='10' >מִבָּבֶֽל</Word>
-<Word Book='Ezra' Chapter='8' Verse='2' WordSequence='1' >מִבְּנֵ֤י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='1' WordSequence='10' >מִבָּבֶֽל</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='2' WordSequence='1' IsParashaPtuchah='true' >מִבְּנֵ֤י</Word>
 <Word Book='Ezra' Chapter='8' Verse='2' WordSequence='2' >פִֽינְחָס֙</Word>
 <Word Book='Ezra' Chapter='8' Verse='2' WordSequence='3' >גֵּֽרְשֹׁ֔ם</Word>
 <Word Book='Ezra' Chapter='8' Verse='2' WordSequence='5' >מִבְּנֵ֥י</Word>
@@ -2601,40 +2601,40 @@
 <Word Book='Ezra' Chapter='8' Verse='4' WordSequence='6' >זְרַֽחְיָ֑ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='4' WordSequence='7' >וְעִמּ֖וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='4' WordSequence='8' >מָאתַ֥יִם</Word>
-<Word Book='Ezra' Chapter='8' Verse='4' WordSequence='9' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='5' WordSequence='1' >מִבְּנֵ֥י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='4' WordSequence='9' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='5' WordSequence='1' IsParashaPtuchah='true' >מִבְּנֵ֥י</Word>
 <Word Book='Ezra' Chapter='8' Verse='5' WordSequence='2' >שְׁכַנְיָ֖ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='5' WordSequence='3' >בֶּן־</Word>
 <Word Book='Ezra' Chapter='8' Verse='5' WordSequence='4' >יַחֲזִיאֵ֑ל</Word>
 <Word Book='Ezra' Chapter='8' Verse='5' WordSequence='5' >וְעִמּ֕וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='5' WordSequence='6' >שְׁלֹ֥שׁ</Word>
 <Word Book='Ezra' Chapter='8' Verse='5' WordSequence='7' >מֵא֖וֹת</Word>
-<Word Book='Ezra' Chapter='8' Verse='5' WordSequence='8' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='6' WordSequence='1' >וּמִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='5' WordSequence='8' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='6' WordSequence='2' >עָדִ֔ין</Word>
 <Word Book='Ezra' Chapter='8' Verse='6' WordSequence='3' >עֶ֖בֶד</Word>
 <Word Book='Ezra' Chapter='8' Verse='6' WordSequence='4' >בֶּן־</Word>
 <Word Book='Ezra' Chapter='8' Verse='6' WordSequence='5' >יוֹנָתָ֑ן</Word>
 <Word Book='Ezra' Chapter='8' Verse='6' WordSequence='6' >וְעִמּ֖וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='6' WordSequence='7' >חֲמִשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='8' Verse='6' WordSequence='8' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='7' WordSequence='1' >וּמִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='6' WordSequence='8' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='7' WordSequence='2' >עֵילָ֔ם</Word>
 <Word Book='Ezra' Chapter='8' Verse='7' WordSequence='3' >יְשַֽׁעְיָ֖ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='7' WordSequence='4' >בֶּן־</Word>
 <Word Book='Ezra' Chapter='8' Verse='7' WordSequence='5' >עֲתַלְיָ֑ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='7' WordSequence='6' >וְעִמּ֖וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='7' WordSequence='7' >שִׁבְעִ֥ים</Word>
-<Word Book='Ezra' Chapter='8' Verse='7' WordSequence='8' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='8' WordSequence='1' >וּמִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='7' WordSequence='8' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='8' WordSequence='2' >שְׁפַטְיָ֔ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='8' WordSequence='3' >זְבַדְיָ֖ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='8' WordSequence='4' >בֶּן־</Word>
 <Word Book='Ezra' Chapter='8' Verse='8' WordSequence='5' >מִֽיכָאֵ֑ל</Word>
 <Word Book='Ezra' Chapter='8' Verse='8' WordSequence='6' >וְעִמּ֖וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='8' WordSequence='7' >שְׁמֹנִ֥ים</Word>
-<Word Book='Ezra' Chapter='8' Verse='8' WordSequence='8' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='9' WordSequence='1' >מִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='8' WordSequence='8' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='9' WordSequence='1' IsParashaPtuchah='true' >מִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='9' WordSequence='2' >יוֹאָ֔ב</Word>
 <Word Book='Ezra' Chapter='8' Verse='9' WordSequence='3' >עֹבַדְיָ֖ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='9' WordSequence='4' >בֶּן־</Word>
@@ -2643,16 +2643,16 @@
 <Word Book='Ezra' Chapter='8' Verse='9' WordSequence='7' >מָאתַ֛יִם</Word>
 <Word Book='Ezra' Chapter='8' Verse='9' WordSequence='8' >וּשְׁמֹנָ֥ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='9' WordSequence='9' >עָשָׂ֖ר</Word>
-<Word Book='Ezra' Chapter='8' Verse='9' WordSequence='10' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='10' WordSequence='1' >וּמִבְּנֵ֥י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='9' WordSequence='10' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֥י</Word>
 <Word Book='Ezra' Chapter='8' Verse='10' WordSequence='2' >שְׁלוֹמִ֖ית</Word>
 <Word Book='Ezra' Chapter='8' Verse='10' WordSequence='3' >בֶּן־</Word>
 <Word Book='Ezra' Chapter='8' Verse='10' WordSequence='4' >יוֹסִפְיָ֑ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='10' WordSequence='5' >וְעִמּ֕וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='10' WordSequence='6' >מֵאָ֥ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='10' WordSequence='7' >וְשִׁשִּׁ֖ים</Word>
-<Word Book='Ezra' Chapter='8' Verse='10' WordSequence='8' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='11' WordSequence='1' >וּמִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='10' WordSequence='8' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='11' WordSequence='2' >בֵבַ֔י</Word>
 <Word Book='Ezra' Chapter='8' Verse='11' WordSequence='3' >זְכַרְיָ֖ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='11' WordSequence='4' >בֶּן־</Word>
@@ -2660,8 +2660,8 @@
 <Word Book='Ezra' Chapter='8' Verse='11' WordSequence='6' >וְעִמּ֕וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='11' WordSequence='7' >עֶשְׂרִ֥ים</Word>
 <Word Book='Ezra' Chapter='8' Verse='11' WordSequence='8' >וּשְׁמֹנָ֖ה</Word>
-<Word Book='Ezra' Chapter='8' Verse='11' WordSequence='9' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='12' WordSequence='1' >וּמִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='11' WordSequence='9' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='12' WordSequence='2' >עַזְגָּ֔ד</Word>
 <Word Book='Ezra' Chapter='8' Verse='12' WordSequence='3' >יוֹחָנָ֖ן</Word>
 <Word Book='Ezra' Chapter='8' Verse='12' WordSequence='4' >בֶּן־</Word>
@@ -2669,8 +2669,8 @@
 <Word Book='Ezra' Chapter='8' Verse='12' WordSequence='6' >וְעִמּ֕וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='12' WordSequence='7' >מֵאָ֥ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='12' WordSequence='8' >וַעֲשָׂרָ֖ה</Word>
-<Word Book='Ezra' Chapter='8' Verse='12' WordSequence='9' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='13' WordSequence='1' >וּמִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='12' WordSequence='9' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='13' WordSequence='2' >אֲדֹנִיקָם֮</Word>
 <Word Book='Ezra' Chapter='8' Verse='13' WordSequence='3' >אַחֲרֹנִים֒</Word>
 <Word Book='Ezra' Chapter='8' Verse='13' WordSequence='4' >וְאֵ֣לֶּה</Word>
@@ -2680,16 +2680,16 @@
 <Word Book='Ezra' Chapter='8' Verse='13' WordSequence='8' >וּֽשְׁמַעְיָ֑ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='13' WordSequence='9' >וְעִמָּהֶ֖ם</Word>
 <Word Book='Ezra' Chapter='8' Verse='13' WordSequence='10' >שִׁשִּׁ֥ים</Word>
-<Word Book='Ezra' Chapter='8' Verse='13' WordSequence='11' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='14' WordSequence='1' >וּמִבְּנֵ֥י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='13' WordSequence='11' >הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֥י</Word>
 <Word Book='Ezra' Chapter='8' Verse='14' WordSequence='2' >בִגְוַ֖י</Word>
 <Word Book='Ezra' Chapter='8' Verse='14' WordSequence='3' >עוּתַ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='14' WordSequence='4' >וזבוד</Word>
 <Word Book='Ezra' Chapter='8' Verse='14' WordSequence='5' >[וְזַכּ֑וּר]</Word>
 <Word Book='Ezra' Chapter='8' Verse='14' WordSequence='6' >וְעִמּ֖וֹ</Word>
 <Word Book='Ezra' Chapter='8' Verse='14' WordSequence='7' >שִׁבְעִ֥ים</Word>
-<Word Book='Ezra' Chapter='8' Verse='14' WordSequence='8' IsParashaPtuchah='true' >הַזְּכָרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='15' WordSequence='1' >וָֽאֶקְבְּצֵ֗ם</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='14' WordSequence='8'>הַזְּכָרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וָֽאֶקְבְּצֵ֗ם</Word>
 <Word Book='Ezra' Chapter='8' Verse='15' WordSequence='2' >אֶל־</Word>
 <Word Book='Ezra' Chapter='8' Verse='15' WordSequence='3' >הַנָּהָר֙</Word>
 <Word Book='Ezra' Chapter='8' Verse='15' WordSequence='4' >הַבָּ֣א</Word>
@@ -2772,8 +2772,8 @@
 <Word Book='Ezra' Chapter='8' Verse='19' WordSequence='6' >מְרָרִ֑י</Word>
 <Word Book='Ezra' Chapter='8' Verse='19' WordSequence='7' >אֶחָ֥יו</Word>
 <Word Book='Ezra' Chapter='8' Verse='19' WordSequence='8' >וּבְנֵיהֶ֖ם</Word>
-<Word Book='Ezra' Chapter='8' Verse='19' WordSequence='9' >עֶשְׂרִֽים</Word>
-<Word Book='Ezra' Chapter='8' Verse='20' WordSequence='1' >וּמִן־</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='19' WordSequence='9' >עֶשְׂרִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וּמִן־</Word>
 <Word Book='Ezra' Chapter='8' Verse='20' WordSequence='2' >הַנְּתִינִ֗ים</Word>
 <Word Book='Ezra' Chapter='8' Verse='20' WordSequence='3' >שֶׁנָּתַ֨ן</Word>
 <Word Book='Ezra' Chapter='8' Verse='20' WordSequence='4' >דָּוִ֤יד</Word>
@@ -2929,8 +2929,8 @@
 <Word Book='Ezra' Chapter='8' Verse='30' WordSequence='8' >לְהָבִ֥יא</Word>
 <Word Book='Ezra' Chapter='8' Verse='30' WordSequence='9' >לִירוּשָׁלִַ֖ם</Word>
 <Word Book='Ezra' Chapter='8' Verse='30' WordSequence='10' >לְבֵ֥ית</Word>
-<Word Book='Ezra' Chapter='8' Verse='30' WordSequence='11' IsParashaPtuchah='true' >אֱלֹהֵֽינוּ</Word>
-<Word Book='Ezra' Chapter='8' Verse='31' WordSequence='1' >וַֽנִּסְעָ֞ה</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='30' WordSequence='11'>אֱלֹהֵֽינוּ</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וַֽנִּסְעָ֞ה</Word>
 <Word Book='Ezra' Chapter='8' Verse='31' WordSequence='2' >מִנְּהַ֣ר</Word>
 <Word Book='Ezra' Chapter='8' Verse='31' WordSequence='3' >אַֽהֲוָ֗א</Word>
 <Word Book='Ezra' Chapter='8' Verse='31' WordSequence='4' >בִּשְׁנֵ֤ים</Word>
@@ -2988,8 +2988,8 @@
 <Word Book='Ezra' Chapter='8' Verse='34' WordSequence='5' >כָּֽל־</Word>
 <Word Book='Ezra' Chapter='8' Verse='34' WordSequence='6' >הַמִּשְׁקָ֖ל</Word>
 <Word Book='Ezra' Chapter='8' Verse='34' WordSequence='7' >בָּעֵ֥ת</Word>
-<Word Book='Ezra' Chapter='8' Verse='34' WordSequence='8' IsParashaPtuchah='true' >הַהִֽיא</Word>
-<Word Book='Ezra' Chapter='8' Verse='35' WordSequence='1' >הַ֠בָּאִים</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='34' WordSequence='8'>הַהִֽיא</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='35' WordSequence='1' IsParashaPtuchah='true' >הַ֠בָּאִים</Word>
 <Word Book='Ezra' Chapter='8' Verse='35' WordSequence='2' >מֵֽהַשְּׁבִ֨י</Word>
 <Word Book='Ezra' Chapter='8' Verse='35' WordSequence='3' >בְנֵֽי־</Word>
 <Word Book='Ezra' Chapter='8' Verse='35' WordSequence='4' >הַגּוֹלָ֜ה</Word>
@@ -3015,8 +3015,8 @@
 <Word Book='Ezra' Chapter='8' Verse='35' WordSequence='24' >עָשָׂ֑ר</Word>
 <Word Book='Ezra' Chapter='8' Verse='35' WordSequence='25' >הַכֹּ֖ל</Word>
 <Word Book='Ezra' Chapter='8' Verse='35' WordSequence='26' >עוֹלָ֥ה</Word>
-<Word Book='Ezra' Chapter='8' Verse='35' WordSequence='27' IsParashaPtuchah='true' >לַיהוָֽה</Word>
-<Word Book='Ezra' Chapter='8' Verse='36' WordSequence='1' >וַֽיִּתְּנ֣וּ׀</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='35' WordSequence='27'>לַיהוָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='8' Verse='36' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּתְּנ֣וּ׀</Word>
 <Word Book='Ezra' Chapter='8' Verse='36' WordSequence='2' >אֶת־</Word>
 <Word Book='Ezra' Chapter='8' Verse='36' WordSequence='3' >דָּתֵ֣י</Word>
 <Word Book='Ezra' Chapter='8' Verse='36' WordSequence='4' >הַמֶּ֗לֶךְ</Word>
@@ -3030,8 +3030,8 @@
 <Word Book='Ezra' Chapter='8' Verse='36' WordSequence='12' >הָעָ֖ם</Word>
 <Word Book='Ezra' Chapter='8' Verse='36' WordSequence='13' >וְאֶת־</Word>
 <Word Book='Ezra' Chapter='8' Verse='36' WordSequence='14' >בֵּֽית־</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='8' Verse='36' WordSequence='15' IsParashaPtuchah='true' >הָאֱלֹהִֽים</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וּכְכַלּ֣וֹת</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='8' Verse='36' WordSequence='15' >הָאֱלֹהִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּכְכַלּ֣וֹת</Word>
 <Word Book='Ezra' Chapter='9' Verse='1' WordSequence='2' >אֵ֗לֶּה</Word>
 <Word Book='Ezra' Chapter='9' Verse='1' WordSequence='3' >נִגְּשׁ֨וּ</Word>
 <Word Book='Ezra' Chapter='9' Verse='1' WordSequence='4' >אֵלַ֤י</Word>
@@ -3070,8 +3070,8 @@
 <Word Book='Ezra' Chapter='9' Verse='2' WordSequence='14' >הָֽיְתָ֛ה</Word>
 <Word Book='Ezra' Chapter='9' Verse='2' WordSequence='15' >בַּמַּ֥עַל</Word>
 <Word Book='Ezra' Chapter='9' Verse='2' WordSequence='16' >הַזֶּ֖ה</Word>
-<Word Book='Ezra' Chapter='9' Verse='2' WordSequence='17' >רִאשׁוֹנָֽה</Word>
-<Word Book='Ezra' Chapter='9' Verse='3' WordSequence='1' >וּכְשָׁמְעִי֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='9' Verse='2' WordSequence='17' >רִאשׁוֹנָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='9' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וּכְשָׁמְעִי֙</Word>
 <Word Book='Ezra' Chapter='9' Verse='3' WordSequence='2' >אֶת־</Word>
 <Word Book='Ezra' Chapter='9' Verse='3' WordSequence='3' >הַדָּבָ֣ר</Word>
 <Word Book='Ezra' Chapter='9' Verse='3' WordSequence='4' >הַזֶּ֔ה</Word>
@@ -3206,8 +3206,8 @@
 <Word Book='Ezra' Chapter='9' Verse='9' WordSequence='25' >לָ֣נוּ</Word>
 <Word Book='Ezra' Chapter='9' Verse='9' WordSequence='26' >גָדֵ֔ר</Word>
 <Word Book='Ezra' Chapter='9' Verse='9' WordSequence='27' >בִּֽיהוּדָ֖ה</Word>
-<Word Book='Ezra' Chapter='9' Verse='9' WordSequence='28' >וּבִירוּשָׁלִָֽם</Word>
-<Word Book='Ezra' Chapter='9' Verse='10' WordSequence='1' >וְעַתָּ֛ה</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='9' Verse='9' WordSequence='28' >וּבִירוּשָׁלִָֽם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='9' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וְעַתָּ֛ה</Word>
 <Word Book='Ezra' Chapter='9' Verse='10' WordSequence='2' >מַה־</Word>
 <Word Book='Ezra' Chapter='9' Verse='10' WordSequence='3' >נֹּאמַ֥ר</Word>
 <Word Book='Ezra' Chapter='9' Verse='10' WordSequence='4' >אֱלֹהֵ֖ינוּ</Word>
@@ -3297,8 +3297,8 @@
 <Word Book='Ezra' Chapter='9' Verse='14' WordSequence='12' >כַּלֵּ֔ה</Word>
 <Word Book='Ezra' Chapter='9' Verse='14' WordSequence='13' >לְאֵ֥ין</Word>
 <Word Book='Ezra' Chapter='9' Verse='14' WordSequence='14' >שְׁאֵרִ֖ית</Word>
-<Word Book='Ezra' Chapter='9' Verse='14' WordSequence='15' IsParashaPtuchah='true' >וּפְלֵיטָֽה</Word>
-<Word Book='Ezra' Chapter='9' Verse='15' WordSequence='1' >יְהוָ֞ה</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='9' Verse='14' WordSequence='15'>וּפְלֵיטָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='9' Verse='15' WordSequence='1' IsParashaPtuchah='true' >יְהוָ֞ה</Word>
 <Word Book='Ezra' Chapter='9' Verse='15' WordSequence='2' >אֱלֹהֵ֤י</Word>
 <Word Book='Ezra' Chapter='9' Verse='15' WordSequence='3' >יִשְׂרָאֵל֙</Word>
 <Word Book='Ezra' Chapter='9' Verse='15' WordSequence='4' >צַדִּ֣יק</Word>
@@ -3316,8 +3316,8 @@
 <Word Book='Ezra' Chapter='9' Verse='15' WordSequence='16' >לַעֲמ֛וֹד</Word>
 <Word Book='Ezra' Chapter='9' Verse='15' WordSequence='17' >לְפָנֶ֖יךָ</Word>
 <Word Book='Ezra' Chapter='9' Verse='15' WordSequence='18' >עַל־</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='9' Verse='15' WordSequence='19' IsParashaPtuchah='true' >זֹֽאת</Word>
-<Word Book='Ezra' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וּכְהִתְפַּלֵּ֤ל</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='9' Verse='15' WordSequence='19'>זֹֽאת</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּכְהִתְפַּלֵּ֤ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='1' WordSequence='2' >עֶזְרָא֙</Word>
 <Word Book='Ezra' Chapter='10' Verse='1' WordSequence='3' >וּכְ֨הִתְוַדֹּת֔וֹ</Word>
 <Word Book='Ezra' Chapter='10' Verse='1' WordSequence='4' >בֹּכֶה֙</Word>
@@ -3338,8 +3338,8 @@
 <Word Book='Ezra' Chapter='10' Verse='1' WordSequence='19' >בָכ֥וּ</Word>
 <Word Book='Ezra' Chapter='10' Verse='1' WordSequence='20' >הָעָ֖ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='1' WordSequence='21' >הַרְבֵּה־</Word>
-<Word Book='Ezra' Chapter='10' Verse='1' WordSequence='22' >בֶֽכֶה</Word>
-<Word Book='Ezra' Chapter='10' Verse='2' WordSequence='1' >וַיַּעַן֩</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='1' WordSequence='22' >בֶֽכֶה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיַּעַן֩</Word>
 <Word Book='Ezra' Chapter='10' Verse='2' WordSequence='2' >שְׁכַנְיָ֨ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='2' WordSequence='3' >בֶן־</Word>
 <Word Book='Ezra' Chapter='10' Verse='2' WordSequence='4' >יְחִיאֵ֜ל</Word>
@@ -3385,8 +3385,8 @@
 <Word Book='Ezra' Chapter='10' Verse='4' WordSequence='5' >וַאֲנַ֣חְנוּ</Word>
 <Word Book='Ezra' Chapter='10' Verse='4' WordSequence='6' >עִמָּ֑ךְ</Word>
 <Word Book='Ezra' Chapter='10' Verse='4' WordSequence='7' >חֲזַ֖ק</Word>
-<Word Book='Ezra' Chapter='10' Verse='4' WordSequence='8' IsParashaPtuchah='true' >וַעֲשֵֽׂה</Word>
-<Word Book='Ezra' Chapter='10' Verse='5' WordSequence='1' >וַיָּ֣קָם</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='4' WordSequence='8'>וַעֲשֵֽׂה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֣קָם</Word>
 <Word Book='Ezra' Chapter='10' Verse='5' WordSequence='2' >עֶזְרָ֡א</Word>
 <Word Book='Ezra' Chapter='10' Verse='5' WordSequence='3' >וַיַּשְׁבַּ֣ע</Word>
 <Word Book='Ezra' Chapter='10' Verse='5' WordSequence='4' >אֶת־</Word>
@@ -3422,8 +3422,8 @@
 <Word Book='Ezra' Chapter='10' Verse='6' WordSequence='21' >מִתְאַבֵּ֖ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='6' WordSequence='22' >עַל־</Word>
 <Word Book='Ezra' Chapter='10' Verse='6' WordSequence='23' >מַ֥עַל</Word>
-<Word Book='Ezra' Chapter='10' Verse='6' WordSequence='24' >הַגּוֹלָֽה</Word>
-<Word Book='Ezra' Chapter='10' Verse='7' WordSequence='1' >וַיַּעֲבִ֨ירוּ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='6' WordSequence='24' >הַגּוֹלָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲבִ֨ירוּ</Word>
 <Word Book='Ezra' Chapter='10' Verse='7' WordSequence='2' >ק֜וֹל</Word>
 <Word Book='Ezra' Chapter='10' Verse='7' WordSequence='3' >בִּיהוּדָ֣ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='7' WordSequence='4' >וִירֽוּשָׁלִַ֗ם</Word>
@@ -3447,8 +3447,8 @@
 <Word Book='Ezra' Chapter='10' Verse='8' WordSequence='13' >וְה֥וּא</Word>
 <Word Book='Ezra' Chapter='10' Verse='8' WordSequence='14' >יִבָּדֵ֖ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='8' WordSequence='15' >מִקְּהַ֥ל</Word>
-<Word Book='Ezra' Chapter='10' Verse='8' WordSequence='16' >הַגּוֹלָֽה</Word>
-<Word Book='Ezra' Chapter='10' Verse='9' WordSequence='1' >וַיִּקָּבְצ֣וּ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='8' WordSequence='16' >הַגּוֹלָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיִּקָּבְצ֣וּ</Word>
 <Word Book='Ezra' Chapter='10' Verse='9' WordSequence='2' >כָל־</Word>
 <Word Book='Ezra' Chapter='10' Verse='9' WordSequence='3' >אַנְשֵֽׁי־</Word>
 <Word Book='Ezra' Chapter='10' Verse='9' WordSequence='4' >יְהוּדָה֩</Word>
@@ -3470,8 +3470,8 @@
 <Word Book='Ezra' Chapter='10' Verse='9' WordSequence='20' >מַרְעִידִ֥ים</Word>
 <Word Book='Ezra' Chapter='10' Verse='9' WordSequence='21' >עַל־</Word>
 <Word Book='Ezra' Chapter='10' Verse='9' WordSequence='22' >הַדָּבָ֖ר</Word>
-<Word Book='Ezra' Chapter='10' Verse='9' WordSequence='23' IsParashaPtuchah='true' >וּמֵהַגְּשָׁמִֽים</Word>
-<Word Book='Ezra' Chapter='10' Verse='10' WordSequence='1' >וַיָּ֨קָם</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='9' WordSequence='23'>וּמֵהַגְּשָׁמִֽים</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֨קָם</Word>
 <Word Book='Ezra' Chapter='10' Verse='10' WordSequence='2' >עֶזְרָ֤א</Word>
 <Word Book='Ezra' Chapter='10' Verse='10' WordSequence='3' >הַכֹּהֵן֙</Word>
 <Word Book='Ezra' Chapter='10' Verse='10' WordSequence='4' >וַיֹּ֣אמֶר</Word>
@@ -3557,8 +3557,8 @@
 <Word Book='Ezra' Chapter='10' Verse='14' WordSequence='25' >מִמֶּ֔נּוּ</Word>
 <Word Book='Ezra' Chapter='10' Verse='14' WordSequence='26' >עַ֖ד</Word>
 <Word Book='Ezra' Chapter='10' Verse='14' WordSequence='27' >לַדָּבָ֥ר</Word>
-<Word Book='Ezra' Chapter='10' Verse='14' WordSequence='28' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Ezra' Chapter='10' Verse='15' WordSequence='1' >אַ֣ךְ</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='14' WordSequence='28'>הַזֶּֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='15' WordSequence='1' IsParashaPtuchah='true' >אַ֣ךְ</Word>
 <Word Book='Ezra' Chapter='10' Verse='15' WordSequence='2' >יוֹנָתָ֧ן</Word>
 <Word Book='Ezra' Chapter='10' Verse='15' WordSequence='3' >בֶּן־</Word>
 <Word Book='Ezra' Chapter='10' Verse='15' WordSequence='4' >עֲשָׂהאֵ֛ל</Word>
@@ -3603,8 +3603,8 @@
 <Word Book='Ezra' Chapter='10' Verse='17' WordSequence='8' >י֥וֹם</Word>
 <Word Book='Ezra' Chapter='10' Verse='17' WordSequence='9' >אֶחָ֖ד</Word>
 <Word Book='Ezra' Chapter='10' Verse='17' WordSequence='10' >לַחֹ֥דֶשׁ</Word>
-<Word Book='Ezra' Chapter='10' Verse='17' WordSequence='11' IsParashaPtuchah='true' >הָרִאשֽׁוֹן</Word>
-<Word Book='Ezra' Chapter='10' Verse='18' WordSequence='1' >וַיִּמָּצֵא֙</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='17' WordSequence='11'>הָרִאשֽׁוֹן</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיִּמָּצֵא֙</Word>
 <Word Book='Ezra' Chapter='10' Verse='18' WordSequence='2' >מִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='10' Verse='18' WordSequence='3' >הַכֹּהֲנִ֔ים</Word>
 <Word Book='Ezra' Chapter='10' Verse='18' WordSequence='4' >אֲשֶׁ֥ר</Word>
@@ -3628,12 +3628,12 @@
 <Word Book='Ezra' Chapter='10' Verse='19' WordSequence='6' >אֵֽיל־</Word>
 <Word Book='Ezra' Chapter='10' Verse='19' WordSequence='7' >צֹ֖אן</Word>
 <Word Book='Ezra' Chapter='10' Verse='19' WordSequence='8' >עַל־</Word>
-<Word Book='Ezra' Chapter='10' Verse='19' WordSequence='9' >אַשְׁמָתָֽם</Word>
-<Word Book='Ezra' Chapter='10' Verse='20' WordSequence='1' >וּמִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='19' WordSequence='9' >אַשְׁמָתָֽם</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='10' Verse='20' WordSequence='2' >אִמֵּ֔ר</Word>
 <Word Book='Ezra' Chapter='10' Verse='20' WordSequence='3' >חֲנָ֖נִי</Word>
-<Word Book='Ezra' Chapter='10' Verse='20' WordSequence='4' >וּזְבַדְיָֽה</Word>
-<Word Book='Ezra' Chapter='10' Verse='21' WordSequence='1' >וּמִבְּנֵ֖י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='20' WordSequence='4' >וּזְבַדְיָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֖י</Word>
 <Word Book='Ezra' Chapter='10' Verse='21' WordSequence='2' >חָרִ֑ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='21' WordSequence='3' >מַעֲשֵׂיָ֤ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='21' WordSequence='4' >וְאֵֽלִיָּה֙</Word>
@@ -3647,8 +3647,8 @@
 <Word Book='Ezra' Chapter='10' Verse='22' WordSequence='5' >יִשְׁמָעֵ֣אל</Word>
 <Word Book='Ezra' Chapter='10' Verse='22' WordSequence='6' >נְתַנְאֵ֔ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='22' WordSequence='7' >יוֹזָבָ֖ד</Word>
-<Word Book='Ezra' Chapter='10' Verse='22' WordSequence='8' >וְאֶלְעָשָֽׂה</Word>
-<Word Book='Ezra' Chapter='10' Verse='23' WordSequence='1' >וּמִֽן־</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='22' WordSequence='8' >וְאֶלְעָשָֽׂה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וּמִֽן־</Word>
 <Word Book='Ezra' Chapter='10' Verse='23' WordSequence='2' >הַלְוִיִּ֑ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='23' WordSequence='3' >יוֹזָבָ֣ד</Word>
 <Word Book='Ezra' Chapter='10' Verse='23' WordSequence='4' >וְשִׁמְעִ֗י</Word>
@@ -3657,16 +3657,16 @@
 <Word Book='Ezra' Chapter='10' Verse='23' WordSequence='7' >קְלִיטָ֔א</Word>
 <Word Book='Ezra' Chapter='10' Verse='23' WordSequence='8' >פְּתַֽחְיָ֥ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='23' WordSequence='9' >יְהוּדָ֖ה</Word>
-<Word Book='Ezra' Chapter='10' Verse='23' WordSequence='10' >וֶאֱלִיעֶֽזֶר</Word>
-<Word Book='Ezra' Chapter='10' Verse='24' WordSequence='1' >וּמִן־</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='23' WordSequence='10' >וֶאֱלִיעֶֽזֶר</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וּמִן־</Word>
 <Word Book='Ezra' Chapter='10' Verse='24' WordSequence='2' >הַמְשֹׁרְרִ֖ים</Word>
 <Word Book='Ezra' Chapter='10' Verse='24' WordSequence='3' >אֶלְיָשִׁ֑יב</Word>
 <Word Book='Ezra' Chapter='10' Verse='24' WordSequence='4' >וּמִן־</Word>
 <Word Book='Ezra' Chapter='10' Verse='24' WordSequence='5' >הַשֹּׁ֣עֲרִ֔ים</Word>
 <Word Book='Ezra' Chapter='10' Verse='24' WordSequence='6' >שַׁלֻּ֥ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='24' WordSequence='7' >וָטֶ֖לֶם</Word>
-<Word Book='Ezra' Chapter='10' Verse='24' WordSequence='8' >וְאוּרִֽי</Word>
-<Word Book='Ezra' Chapter='10' Verse='25' WordSequence='1' >וּמִֽיִּשְׂרָאֵ֑ל</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='24' WordSequence='8' >וְאוּרִֽי</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וּמִֽיִּשְׂרָאֵ֑ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='25' WordSequence='2' >מִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='10' Verse='25' WordSequence='3' >פַרְעֹ֡שׁ</Word>
 <Word Book='Ezra' Chapter='10' Verse='25' WordSequence='4' >רַ֠מְיָה</Word>
@@ -3675,30 +3675,30 @@
 <Word Book='Ezra' Chapter='10' Verse='25' WordSequence='7' >וּמִיָּמִ֣ן</Word>
 <Word Book='Ezra' Chapter='10' Verse='25' WordSequence='8' >וְאֶלְעָזָ֔ר</Word>
 <Word Book='Ezra' Chapter='10' Verse='25' WordSequence='9' >וּמַלְכִּיָּ֖ה</Word>
-<Word Book='Ezra' Chapter='10' Verse='25' WordSequence='10' >וּבְנָיָֽה</Word>
-<Word Book='Ezra' Chapter='10' Verse='26' WordSequence='1' >וּמִבְּנֵ֖י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='25' WordSequence='10' >וּבְנָיָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֖י</Word>
 <Word Book='Ezra' Chapter='10' Verse='26' WordSequence='2' >עֵילָ֑ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='26' WordSequence='3' >מַתַּנְיָ֤ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='26' WordSequence='4' >זְכַרְיָה֙</Word>
 <Word Book='Ezra' Chapter='10' Verse='26' WordSequence='5' >וִיחִיאֵ֣ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='26' WordSequence='6' >וְעַבְדִּ֔י</Word>
 <Word Book='Ezra' Chapter='10' Verse='26' WordSequence='7' >וִירֵמ֖וֹת</Word>
-<Word Book='Ezra' Chapter='10' Verse='26' WordSequence='8' >וְאֵלִיָּֽה</Word>
-<Word Book='Ezra' Chapter='10' Verse='27' WordSequence='1' >וּמִבְּנֵ֖י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='26' WordSequence='8' >וְאֵלִיָּֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֖י</Word>
 <Word Book='Ezra' Chapter='10' Verse='27' WordSequence='2' >זַתּ֑וּא</Word>
 <Word Book='Ezra' Chapter='10' Verse='27' WordSequence='3' >אֶלְיוֹעֵנַ֤י</Word>
 <Word Book='Ezra' Chapter='10' Verse='27' WordSequence='4' >אֶלְיָשִׁיב֙</Word>
 <Word Book='Ezra' Chapter='10' Verse='27' WordSequence='5' >מַתַּנְיָ֣ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='27' WordSequence='6' >וִֽירֵמ֔וֹת</Word>
 <Word Book='Ezra' Chapter='10' Verse='27' WordSequence='7' >וְזָבָ֖ד</Word>
-<Word Book='Ezra' Chapter='10' Verse='27' WordSequence='8' >וַעֲזִיזָֽא</Word>
-<Word Book='Ezra' Chapter='10' Verse='28' WordSequence='1' >וּמִבְּנֵ֖י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='27' WordSequence='8' >וַעֲזִיזָֽא</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֖י</Word>
 <Word Book='Ezra' Chapter='10' Verse='28' WordSequence='2' >בֵּבָ֑י</Word>
 <Word Book='Ezra' Chapter='10' Verse='28' WordSequence='3' >יְהוֹחָנָ֥ן</Word>
 <Word Book='Ezra' Chapter='10' Verse='28' WordSequence='4' >חֲנַנְיָ֖ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='28' WordSequence='5' >זַבַּ֥י</Word>
-<Word Book='Ezra' Chapter='10' Verse='28' WordSequence='6' >עַתְלָֽי</Word>
-<Word Book='Ezra' Chapter='10' Verse='29' WordSequence='1' >וּמִבְּנֵ֖י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='28' WordSequence='6' >עַתְלָֽי</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֖י</Word>
 <Word Book='Ezra' Chapter='10' Verse='29' WordSequence='2' >בָּנִ֑י</Word>
 <Word Book='Ezra' Chapter='10' Verse='29' WordSequence='3' >מְשֻׁלָּ֤ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='29' WordSequence='4' >מַלּוּךְ֙</Word>
@@ -3706,8 +3706,8 @@
 <Word Book='Ezra' Chapter='10' Verse='29' WordSequence='6' >יָשׁ֖וּב</Word>
 <Word Book='Ezra' Chapter='10' Verse='29' WordSequence='7' >וּשְׁאָ֥ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='29' WordSequence='8' >ירמות</Word>
-<Word Book='Ezra' Chapter='10' Verse='29' WordSequence='9' >[וְרָמֽוֹת]</Word>
-<Word Book='Ezra' Chapter='10' Verse='30' WordSequence='1' >וּמִבְּנֵ֛י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='29' WordSequence='9' >[וְרָמֽוֹת]</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וּמִבְּנֵ֛י</Word>
 <Word Book='Ezra' Chapter='10' Verse='30' WordSequence='2' >פַּחַ֥ת</Word>
 <Word Book='Ezra' Chapter='10' Verse='30' WordSequence='3' >מוֹאָ֖ב</Word>
 <Word Book='Ezra' Chapter='10' Verse='30' WordSequence='4' >עַדְנָ֣א</Word>
@@ -3717,8 +3717,8 @@
 <Word Book='Ezra' Chapter='10' Verse='30' WordSequence='8' >מַתַּנְיָ֣ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='30' WordSequence='9' >בְצַלְאֵ֔ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='30' WordSequence='10' >וּבִנּ֖וּי</Word>
-<Word Book='Ezra' Chapter='10' Verse='30' WordSequence='11' >וּמְנַשֶּֽׁה</Word>
-<Word Book='Ezra' Chapter='10' Verse='31' WordSequence='1' >וּבְנֵ֖י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='30' WordSequence='11' >וּמְנַשֶּֽׁה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וּבְנֵ֖י</Word>
 <Word Book='Ezra' Chapter='10' Verse='31' WordSequence='2' >חָרִ֑ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='31' WordSequence='3' >אֱלִיעֶ֧זֶר</Word>
 <Word Book='Ezra' Chapter='10' Verse='31' WordSequence='4' >יִשִּׁיָּ֛ה</Word>
@@ -3727,8 +3727,8 @@
 <Word Book='Ezra' Chapter='10' Verse='31' WordSequence='7' >שִׁמְעֽוֹן</Word>
 <Word Book='Ezra' Chapter='10' Verse='32' WordSequence='1' >בְּנְיָמִ֥ן</Word>
 <Word Book='Ezra' Chapter='10' Verse='32' WordSequence='2' >מַלּ֖וּךְ</Word>
-<Word Book='Ezra' Chapter='10' Verse='32' WordSequence='3' >שְׁמַרְיָֽה</Word>
-<Word Book='Ezra' Chapter='10' Verse='33' WordSequence='1' >מִבְּנֵ֖י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='32' WordSequence='3' >שְׁמַרְיָֽה</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='33' WordSequence='1' IsParashaPtuchah='true' >מִבְּנֵ֖י</Word>
 <Word Book='Ezra' Chapter='10' Verse='33' WordSequence='2' >חָשֻׁ֑ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='33' WordSequence='3' >מַתְּנַ֤י</Word>
 <Word Book='Ezra' Chapter='10' Verse='33' WordSequence='4' >מַתַּתָּה֙</Word>
@@ -3736,13 +3736,13 @@
 <Word Book='Ezra' Chapter='10' Verse='33' WordSequence='6' >אֱלִיפֶ֔לֶט</Word>
 <Word Book='Ezra' Chapter='10' Verse='33' WordSequence='7' >יְרֵמַ֥י</Word>
 <Word Book='Ezra' Chapter='10' Verse='33' WordSequence='8' >מְנַשֶּׁ֖ה</Word>
-<Word Book='Ezra' Chapter='10' Verse='33' WordSequence='9' >שִׁמְעִֽי</Word>
-<Word Book='Ezra' Chapter='10' Verse='34' WordSequence='1' >מִבְּנֵ֣י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='33' WordSequence='9' >שִׁמְעִֽי</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='34' WordSequence='1' IsParashaPtuchah='true' >מִבְּנֵ֣י</Word>
 <Word Book='Ezra' Chapter='10' Verse='34' WordSequence='2' >בָנִ֔י</Word>
 <Word Book='Ezra' Chapter='10' Verse='34' WordSequence='3' >מַעֲדַ֥י</Word>
 <Word Book='Ezra' Chapter='10' Verse='34' WordSequence='4' >עַמְרָ֖ם</Word>
-<Word Book='Ezra' Chapter='10' Verse='34' WordSequence='5' >וְאוּאֵֽל</Word>
-<Word Book='Ezra' Chapter='10' Verse='35' WordSequence='1' >בְּנָיָ֥ה</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='34' WordSequence='5' >וְאוּאֵֽל</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='35' WordSequence='1' IsParashaPtuchah='true' >בְּנָיָ֥ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='35' WordSequence='2' >בֵדְיָ֖ה</Word>
 <Word Book='Ezra' Chapter='10' Verse='35' WordSequence='3' >כלהי</Word>
 <Word Book='Ezra' Chapter='10' Verse='35' WordSequence='4' >[כְּלֽוּהוּ]</Word>
@@ -3767,8 +3767,8 @@
 <Word Book='Ezra' Chapter='10' Verse='41' WordSequence='3' >שְׁמַרְיָֽה</Word>
 <Word Book='Ezra' Chapter='10' Verse='42' WordSequence='1' >שַׁלּ֥וּם</Word>
 <Word Book='Ezra' Chapter='10' Verse='42' WordSequence='2' >אֲמַרְיָ֖ה</Word>
-<Word Book='Ezra' Chapter='10' Verse='42' WordSequence='3' >יוֹסֵֽף</Word>
-<Word Book='Ezra' Chapter='10' Verse='43' WordSequence='1' >מִבְּנֵ֖י</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='42' WordSequence='3' >יוֹסֵֽף</Word>
+<Word Book='Ezra' StartParashaBeforeWord='true' Chapter='10' Verse='43' WordSequence='1' IsParashaPtuchah='true' >מִבְּנֵ֖י</Word>
 <Word Book='Ezra' Chapter='10' Verse='43' WordSequence='2' >נְב֑וֹ</Word>
 <Word Book='Ezra' Chapter='10' Verse='43' WordSequence='3' >יְעִיאֵ֤ל</Word>
 <Word Book='Ezra' Chapter='10' Verse='43' WordSequence='4' >מַתִּתְיָה֙</Word>
@@ -3788,5 +3788,5 @@
 <Word Book='Ezra' Chapter='10' Verse='44' WordSequence='8' >מֵהֶ֣ם</Word>
 <Word Book='Ezra' Chapter='10' Verse='44' WordSequence='9' >נָשִׁ֔ים</Word>
 <Word Book='Ezra' Chapter='10' Verse='44' WordSequence='10' >וַיָּשִׂ֖ימוּ</Word>
-<Word Book='Ezra' EndPerekAfterWord='true' Chapter='10' Verse='44' WordSequence='11' IsParashaPtuchah='true' >בָּנִֽים</Word>
+<Word Book='Ezra' EndParashaAfterWord='true' Chapter='10' Verse='44' WordSequence='11'>בָּנִֽים</Word>
 </Tanakh>

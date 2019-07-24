@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִי֩</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִי֩</Word>
 <Word Book='ShemuelA' Chapter='1' Verse='1' WordSequence='2' >אִ֨ישׁ</Word>
 <Word Book='ShemuelA' Chapter='1' Verse='1' WordSequence='3' >אֶחָ֜ד</Word>
 <Word Book='ShemuelA' Chapter='1' Verse='1' WordSequence='4' >מִן־</Word>
@@ -413,8 +413,8 @@
 <Word Book='ShemuelA' Chapter='1' Verse='28' WordSequence='11' >לַֽיהוָ֑ה</Word>
 <Word Book='ShemuelA' Chapter='1' Verse='28' WordSequence='12' >וַיִּשְׁתַּ֥חוּ</Word>
 <Word Book='ShemuelA' Chapter='1' Verse='28' WordSequence='13' >שָׁ֖ם</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='1' Verse='28' WordSequence='14' IsParashaPtuchah='true' >לַיהוָֽה</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַתִּתְפַּלֵּ֤ל</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='1' Verse='28' WordSequence='14'>לַיהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַתִּתְפַּלֵּ֤ל</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='1' WordSequence='2' >חַנָּה֙</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='1' WordSequence='3' >וַתֹּאמַ֔ר</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='1' WordSequence='4' >עָלַ֤ץ</Word>
@@ -533,8 +533,8 @@
 <Word Book='ShemuelA' Chapter='2' Verse='10' WordSequence='15' >לְמַלְכּ֔וֹ</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='10' WordSequence='16' >וְיָרֵ֖ם</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='10' WordSequence='17' >קֶ֥רֶן</Word>
-<Word Book='ShemuelA' Chapter='2' Verse='10' WordSequence='18' IsParashaPtuchah='true' >מְשִׁיחֽוֹ</Word>
-<Word Book='ShemuelA' Chapter='2' Verse='11' WordSequence='1' >וַיֵּ֧לֶךְ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='2' Verse='10' WordSequence='18'>מְשִׁיחֽוֹ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='2' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֧לֶךְ</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='11' WordSequence='2' >אֶלְקָנָ֛ה</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='11' WordSequence='3' >הָרָמָ֖תָה</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='11' WordSequence='4' >עַל־</Word>
@@ -715,8 +715,8 @@
 <Word Book='ShemuelA' Chapter='2' Verse='21' WordSequence='13' >הַנַּ֥עַר</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='21' WordSequence='14' >שְׁמוּאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='21' WordSequence='15' >עִם־</Word>
-<Word Book='ShemuelA' Chapter='2' Verse='21' WordSequence='16' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='2' Verse='22' WordSequence='1' >וְעֵלִ֖י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='2' Verse='21' WordSequence='16' >יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='2' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וְעֵלִ֖י</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='22' WordSequence='2' >זָקֵ֣ן</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='22' WordSequence='3' >מְאֹ֑ד</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='22' WordSequence='4' >וְשָׁמַ֗ע</Word>
@@ -795,8 +795,8 @@
 <Word Book='ShemuelA' Chapter='2' Verse='26' WordSequence='8' >יְהוָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='26' WordSequence='9' >וְגַ֖ם</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='26' WordSequence='10' >עִם־</Word>
-<Word Book='ShemuelA' Chapter='2' Verse='26' WordSequence='11' >אֲנָשִֽׁים</Word>
-<Word Book='ShemuelA' Chapter='2' Verse='27' WordSequence='1' >וַיָּבֹ֥א</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='2' Verse='26' WordSequence='11' >אֲנָשִֽׁים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='2' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֥א</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='27' WordSequence='2' >אִישׁ־</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='27' WordSequence='3' >אֱלֹהִ֖ים</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='27' WordSequence='4' >אֶל־</Word>
@@ -974,8 +974,8 @@
 <Word Book='ShemuelA' Chapter='2' Verse='36' WordSequence='17' >הַכְּהֻנּ֖וֹת</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='36' WordSequence='18' >לֶאֱכֹ֥ל</Word>
 <Word Book='ShemuelA' Chapter='2' Verse='36' WordSequence='19' >פַּת־</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='2' Verse='36' WordSequence='20' IsParashaPtuchah='true' >לָֽחֶם</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וְהַנַּ֧עַר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='2' Verse='36' WordSequence='20' >לָֽחֶם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהַנַּ֧עַר</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='1' WordSequence='2' >שְׁמוּאֵ֛ל</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='1' WordSequence='3' >מְשָׁרֵ֥ת</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -990,8 +990,8 @@
 <Word Book='ShemuelA' Chapter='3' Verse='1' WordSequence='13' >הָהֵ֔ם</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='1' WordSequence='14' >אֵ֥ין</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='1' WordSequence='15' >חָז֖וֹן</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='1' WordSequence='16' >נִפְרָֽץ</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='2' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='3' Verse='1' WordSequence='16' >נִפְרָֽץ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='3' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='2' WordSequence='2' >בַּיּ֣וֹם</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='2' WordSequence='3' >הַה֔וּא</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='2' WordSequence='4' >וְעֵלִ֖י</Word>
@@ -1015,8 +1015,8 @@
 <Word Book='ShemuelA' Chapter='3' Verse='3' WordSequence='9' >אֲשֶׁר־</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='3' WordSequence='10' >שָׁ֖ם</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='3' WordSequence='11' >אֲר֥וֹן</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='3' WordSequence='12' IsParashaPtuchah='true' >אֱלֹהִֽים</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='4' WordSequence='1' >וַיִּקְרָ֧א</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='3' Verse='3' WordSequence='12'>אֱלֹהִֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='3' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרָ֧א</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='4' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='4' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='4' WordSequence='4' >שְׁמוּאֵ֖ל</Word>
@@ -1036,8 +1036,8 @@
 <Word Book='ShemuelA' Chapter='3' Verse='5' WordSequence='12' >שׁ֣וּב</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='5' WordSequence='13' >שְׁכָ֑ב</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='5' WordSequence='14' >וַיֵּ֖לֶךְ</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='5' WordSequence='15' >וַיִּשְׁכָּֽב</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='6' WordSequence='1' >וַיֹּ֣סֶף</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='3' Verse='5' WordSequence='15' >וַיִּשְׁכָּֽב</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='3' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣סֶף</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='6' WordSequence='2' >יְהוָ֗ה</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='6' WordSequence='3' >קְרֹ֣א</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='6' WordSequence='4' >עוֹד֮</Word>
@@ -1120,8 +1120,8 @@
 <Word Book='ShemuelA' Chapter='3' Verse='10' WordSequence='11' >דַּבֵּ֔ר</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='10' WordSequence='12' >כִּ֥י</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='10' WordSequence='13' >שֹׁמֵ֖עַ</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='10' WordSequence='14' IsParashaPtuchah='true' >עַבְדֶּֽךָ</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='11' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='3' Verse='10' WordSequence='14'>עַבְדֶּֽךָ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='3' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='11' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='11' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='11' WordSequence='4' >שְׁמוּאֵ֔ל</Word>
@@ -1245,8 +1245,8 @@
 <Word Book='ShemuelA' Chapter='3' Verse='18' WordSequence='12' >ה֔וּא</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='18' WordSequence='13' >הַטּ֥וֹב</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='18' WordSequence='14' >בְּעֵינָ֖ו</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='18' WordSequence='15' IsParashaPtuchah='true' >יַעֲשֶֽׂה</Word>
-<Word Book='ShemuelA' Chapter='3' Verse='19' WordSequence='1' >וַיִּגְדַּ֖ל</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='3' Verse='18' WordSequence='15'>יַעֲשֶֽׂה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='3' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיִּגְדַּ֖ל</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='19' WordSequence='2' >שְׁמוּאֵ֑ל</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='19' WordSequence='3' >וַֽיהוָה֙</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='19' WordSequence='4' >הָיָ֣ה</Word>
@@ -1279,8 +1279,8 @@
 <Word Book='ShemuelA' Chapter='3' Verse='21' WordSequence='9' >שְׁמוּאֵ֛ל</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='21' WordSequence='10' >בְּשִׁל֖וֹ</Word>
 <Word Book='ShemuelA' Chapter='3' Verse='21' WordSequence='11' >בִּדְבַ֥ר</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='3' Verse='21' WordSequence='12' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='3' Verse='21' WordSequence='12'>יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='1' WordSequence='3' >שְׁמוּאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='1' WordSequence='4' >לְכָל־</Word>
@@ -1566,8 +1566,8 @@
 <Word Book='ShemuelA' Chapter='4' Verse='17' WordSequence='18' >וּפִ֣ינְחָ֔ס</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='17' WordSequence='19' >וַאֲר֥וֹן</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='17' WordSequence='20' >הָאֱלֹהִ֖ים</Word>
-<Word Book='ShemuelA' Chapter='4' Verse='17' WordSequence='21' IsParashaPtuchah='true' >נִלְקָֽחָה</Word>
-<Word Book='ShemuelA' Chapter='4' Verse='18' WordSequence='1' >וַיְהִ֞י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='4' Verse='17' WordSequence='21'>נִלְקָֽחָה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='4' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֞י</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='18' WordSequence='2' >כְּהַזְכִּיר֣וֹ׀</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='18' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='18' WordSequence='4' >אֲר֣וֹן</Word>
@@ -1650,8 +1650,8 @@
 <Word Book='ShemuelA' Chapter='4' Verse='22' WordSequence='5' >כִּ֥י</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='22' WordSequence='6' >נִלְקַ֖ח</Word>
 <Word Book='ShemuelA' Chapter='4' Verse='22' WordSequence='7' >אֲר֥וֹן</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='4' Verse='22' WordSequence='8' IsParashaPtuchah='true' >הָאֱלֹהִֽים</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וּפְלִשְׁתִּים֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='4' Verse='22' WordSequence='8'>הָאֱלֹהִֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּפְלִשְׁתִּים֙</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='1' WordSequence='2' >לָֽקְח֔וּ</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='1' WordSequence='3' >אֵ֖ת</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='1' WordSequence='4' >אֲר֣וֹן</Word>
@@ -1729,8 +1729,8 @@
 <Word Book='ShemuelA' Chapter='5' Verse='5' WordSequence='14' >בְּאַשְׁדּ֑וֹד</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='5' WordSequence='15' >עַ֖ד</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='5' WordSequence='16' >הַיּ֥וֹם</Word>
-<Word Book='ShemuelA' Chapter='5' Verse='5' WordSequence='17' >הַזֶּֽה</Word>
-<Word Book='ShemuelA' Chapter='5' Verse='6' WordSequence='1' >וַתִּכְבַּ֧ד</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='5' Verse='5' WordSequence='17' >הַזֶּֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='5' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַתִּכְבַּ֧ד</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='6' WordSequence='2' >יַד־</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='6' WordSequence='3' >יְהוָ֛ה</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='6' WordSequence='4' >אֶל־</Word>
@@ -1786,8 +1786,8 @@
 <Word Book='ShemuelA' Chapter='5' Verse='8' WordSequence='21' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='8' WordSequence='22' >אֲר֖וֹן</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='8' WordSequence='23' >אֱלֹהֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='5' Verse='8' WordSequence='24' >יִשְׂרָאֵֽל</Word>
-<Word Book='ShemuelA' Chapter='5' Verse='9' WordSequence='1' >וַיְהִ֞י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='5' Verse='8' WordSequence='24' >יִשְׂרָאֵֽל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='5' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֞י</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='9' WordSequence='2' >אַחֲרֵ֣י׀</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='9' WordSequence='3' >הֵסַ֣בּוּ</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='9' WordSequence='4' >אֹת֗וֹ</Word>
@@ -1871,8 +1871,8 @@
 <Word Book='ShemuelA' Chapter='5' Verse='12' WordSequence='8' >וַתַּ֛עַל</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='12' WordSequence='9' >שַֽׁוְעַ֥ת</Word>
 <Word Book='ShemuelA' Chapter='5' Verse='12' WordSequence='10' >הָעִ֖יר</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='5' Verse='12' WordSequence='11' >הַשָּׁמָֽיִם</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַיְהִ֧י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='5' Verse='12' WordSequence='11'>הַשָּׁמָֽיִם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַיְהִ֧י</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='1' WordSequence='2' >אֲרוֹן־</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='1' WordSequence='3' >יְהוָ֛ה</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='1' WordSequence='4' >בִּשְׂדֵ֥ה</Word>
@@ -2131,8 +2131,8 @@
 <Word Book='ShemuelA' Chapter='6' Verse='14' WordSequence='18' >הַ֨פָּר֔וֹת</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='14' WordSequence='19' >הֶעֱל֥וּ</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='14' WordSequence='20' >עֹלָ֖ה</Word>
-<Word Book='ShemuelA' Chapter='6' Verse='14' WordSequence='21' >לַיהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='6' Verse='15' WordSequence='1' >וְהַלְוִיִּ֞ם</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='6' Verse='14' WordSequence='21' >לַיהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='6' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וְהַלְוִיִּ֞ם</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='15' WordSequence='2' >הוֹרִ֣ידוּ׀</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='15' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='15' WordSequence='4' >אֲר֣וֹן</Word>
@@ -2166,8 +2166,8 @@
 <Word Book='ShemuelA' Chapter='6' Verse='16' WordSequence='5' >וַיָּשֻׁ֥בוּ</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='16' WordSequence='6' >עֶקְר֖וֹן</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='16' WordSequence='7' >בַּיּ֥וֹם</Word>
-<Word Book='ShemuelA' Chapter='6' Verse='16' WordSequence='8' >הַהֽוּא</Word>
-<Word Book='ShemuelA' Chapter='6' Verse='17' WordSequence='1' >וְאֵ֙לֶּה֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='6' Verse='16' WordSequence='8' >הַהֽוּא</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='6' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֙לֶּה֙</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='17' WordSequence='2' >טְחֹרֵ֣י</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='17' WordSequence='3' >הַזָּהָ֔ב</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='17' WordSequence='4' >אֲשֶׁ֨ר</Word>
@@ -2184,8 +2184,8 @@
 <Word Book='ShemuelA' Chapter='6' Verse='17' WordSequence='15' >לְגַ֥ת</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='17' WordSequence='16' >אֶחָ֖ד</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='17' WordSequence='17' >לְעֶקְר֥וֹן</Word>
-<Word Book='ShemuelA' Chapter='6' Verse='17' WordSequence='18' >אֶחָֽד</Word>
-<Word Book='ShemuelA' Chapter='6' Verse='18' WordSequence='1' >וְעַכְבְּרֵ֣י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='6' Verse='17' WordSequence='18' >אֶחָֽד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='6' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וְעַכְבְּרֵ֣י</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='18' WordSequence='2' >הַזָּהָ֗ב</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='18' WordSequence='3' >מִסְפַּ֞ר</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='18' WordSequence='4' >כָּל־</Word>
@@ -2252,8 +2252,8 @@
 <Word Book='ShemuelA' Chapter='6' Verse='20' WordSequence='13' >וְאֶל־</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='20' WordSequence='14' >מִ֖י</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='20' WordSequence='15' >יַעֲלֶ֥ה</Word>
-<Word Book='ShemuelA' Chapter='6' Verse='20' WordSequence='16' >מֵעָלֵֽינוּ</Word>
-<Word Book='ShemuelA' Chapter='6' Verse='21' WordSequence='1' >וַֽיִּשְׁלְחוּ֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='6' Verse='20' WordSequence='16' >מֵעָלֵֽינוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='6' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּשְׁלְחוּ֙</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='21' WordSequence='2' >מַלְאָכִ֔ים</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='21' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='21' WordSequence='4' >יוֹשְׁבֵ֥י</Word>
@@ -2268,8 +2268,8 @@
 <Word Book='ShemuelA' Chapter='6' Verse='21' WordSequence='13' >רְד֕וּ</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='21' WordSequence='14' >הַעֲל֥וּ</Word>
 <Word Book='ShemuelA' Chapter='6' Verse='21' WordSequence='15' >אֹת֖וֹ</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='6' Verse='21' WordSequence='16' >אֲלֵיכֶֽם</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיָּבֹ֜אוּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='6' Verse='21' WordSequence='16'>אֲלֵיכֶֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיָּבֹ֜אוּ</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='1' WordSequence='2' >אַנְשֵׁ֣י׀</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='1' WordSequence='3' >קִרְיַ֣ת</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='1' WordSequence='4' >יְעָרִ֗ים</Word>
@@ -2290,8 +2290,8 @@
 <Word Book='ShemuelA' Chapter='7' Verse='1' WordSequence='19' >לִשְׁמֹ֖ר</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='1' WordSequence='20' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='1' WordSequence='21' >אֲר֥וֹן</Word>
-<Word Book='ShemuelA' Chapter='7' Verse='1' WordSequence='22' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='7' Verse='2' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='7' Verse='1' WordSequence='22'>יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='7' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='2' WordSequence='2' >מִיּ֞וֹם</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='2' WordSequence='3' >שֶׁ֤בֶת</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='2' WordSequence='4' >הָֽאָרוֹן֙</Word>
@@ -2307,8 +2307,8 @@
 <Word Book='ShemuelA' Chapter='7' Verse='2' WordSequence='14' >בֵּ֥ית</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='2' WordSequence='15' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='2' WordSequence='16' >אַחֲרֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='7' Verse='2' WordSequence='17' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='7' Verse='3' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='7' Verse='2' WordSequence='17' >יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='7' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='3' WordSequence='2' >שְׁמוּאֵ֗ל</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='3' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='3' WordSequence='4' >כָּל־</Word>
@@ -2348,8 +2348,8 @@
 <Word Book='ShemuelA' Chapter='7' Verse='4' WordSequence='8' >וַיַּעַבְד֥וּ</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='4' WordSequence='9' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='4' WordSequence='10' >יְהוָ֖ה</Word>
-<Word Book='ShemuelA' Chapter='7' Verse='4' WordSequence='11' IsParashaPtuchah='true' >לְבַדּֽוֹ</Word>
-<Word Book='ShemuelA' Chapter='7' Verse='5' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='7' Verse='4' WordSequence='11'>לְבַדּֽוֹ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='7' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='5' WordSequence='2' >שְׁמוּאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='5' WordSequence='3' >קִבְצ֥וּ</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='5' WordSequence='4' >אֶת־</Word>
@@ -2556,8 +2556,8 @@
 <Word Book='ShemuelA' Chapter='7' Verse='17' WordSequence='10' >וַיִּֽבֶן־</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='17' WordSequence='11' >שָׁ֥ם</Word>
 <Word Book='ShemuelA' Chapter='7' Verse='17' WordSequence='12' >מִזְבֵּ֖חַ</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='7' Verse='17' WordSequence='13' IsParashaPtuchah='true' >לַֽיהוָֽה</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיְהִ֕י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='7' Verse='17' WordSequence='13'>לַֽיהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֕י</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='1' WordSequence='2' >כַּאֲשֶׁ֥ר</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='1' WordSequence='3' >זָקֵ֖ן</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='1' WordSequence='4' >שְׁמוּאֵ֑ל</Word>
@@ -2588,8 +2588,8 @@
 <Word Book='ShemuelA' Chapter='8' Verse='3' WordSequence='9' >וַיִּ֨קְחוּ־</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='3' WordSequence='10' >שֹׁ֔חַד</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='3' WordSequence='11' >וַיַּטּ֖וּ</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='3' WordSequence='12' IsParashaPtuchah='true' >מִשְׁפָּֽט</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='4' WordSequence='1' >וַיִּֽתְקַבְּצ֔וּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='8' Verse='3' WordSequence='12'>מִשְׁפָּֽט</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='8' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיִּֽתְקַבְּצ֔וּ</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='4' WordSequence='2' >כֹּ֖ל</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='4' WordSequence='3' >זִקְנֵ֣י</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='4' WordSequence='4' >יִשְׂרָאֵ֑ל</Word>
@@ -2626,8 +2626,8 @@
 <Word Book='ShemuelA' Chapter='8' Verse='6' WordSequence='11' >וַיִּתְפַּלֵּ֥ל</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='6' WordSequence='12' >שְׁמוּאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='6' WordSequence='13' >אֶל־</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='6' WordSequence='14' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='7' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='8' Verse='6' WordSequence='14'>יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='8' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='7' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='7' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='7' WordSequence='4' >שְׁמוּאֵ֔ל</Word>
@@ -2681,8 +2681,8 @@
 <Word Book='ShemuelA' Chapter='8' Verse='9' WordSequence='12' >הַמֶּ֔לֶךְ</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='9' WordSequence='13' >אֲשֶׁ֥ר</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='9' WordSequence='14' >יִמְלֹ֖ךְ</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='9' WordSequence='15' >עֲלֵיהֶֽם</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='10' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='8' Verse='9' WordSequence='15' >עֲלֵיהֶֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='8' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='10' WordSequence='2' >שְׁמוּאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='10' WordSequence='3' >אֵ֖ת</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='10' WordSequence='4' >כָּל־</Word>
@@ -2692,8 +2692,8 @@
 <Word Book='ShemuelA' Chapter='8' Verse='10' WordSequence='8' >הָעָ֕ם</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='10' WordSequence='9' >הַשֹּׁאֲלִ֥ים</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='10' WordSequence='10' >מֵאִתּ֖וֹ</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='10' WordSequence='11' >מֶֽלֶךְ</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='11' WordSequence='1' >וַיֹּ֕אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='8' Verse='10' WordSequence='11' >מֶֽלֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='8' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֕אמֶר</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='11' WordSequence='2' >זֶ֗ה</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='11' WordSequence='3' >יִֽהְיֶה֙</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='11' WordSequence='4' >מִשְׁפַּ֣ט</Word>
@@ -2811,8 +2811,8 @@
 <Word Book='ShemuelA' Chapter='8' Verse='21' WordSequence='6' >הָעָ֑ם</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='21' WordSequence='7' >וַֽיְדַבְּרֵ֖ם</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='21' WordSequence='8' >בְּאָזְנֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='21' WordSequence='9' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='8' Verse='22' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='8' Verse='21' WordSequence='9'>יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='8' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='22' WordSequence='2' >יְהוָ֤ה</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='22' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='22' WordSequence='4' >שְׁמוּאֵל֙</Word>
@@ -2828,8 +2828,8 @@
 <Word Book='ShemuelA' Chapter='8' Verse='22' WordSequence='14' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='22' WordSequence='15' >לְכ֖וּ</Word>
 <Word Book='ShemuelA' Chapter='8' Verse='22' WordSequence='16' >אִ֥ישׁ</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='8' Verse='22' WordSequence='17' IsParashaPtuchah='true' >לְעִירֽוֹ</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַֽיְהִי־</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='8' Verse='22' WordSequence='17'>לְעִירֽוֹ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי־</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='1' WordSequence='2' >אִ֣ישׁ</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='1' WordSequence='3' >מבן־</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='1' WordSequence='4' >ימין</Word>
@@ -3092,8 +3092,8 @@
 <Word Book='ShemuelA' Chapter='9' Verse='14' WordSequence='9' >יֹצֵ֣א</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='14' WordSequence='10' >לִקְרָאתָ֔ם</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='14' WordSequence='11' >לַעֲל֖וֹת</Word>
-<Word Book='ShemuelA' Chapter='9' Verse='14' WordSequence='12' >הַבָּמָֽה</Word>
-<Word Book='ShemuelA' Chapter='9' Verse='15' WordSequence='1' >וַֽיהוָ֔ה</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='9' Verse='14' WordSequence='12' >הַבָּמָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='9' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַֽיהוָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='15' WordSequence='2' >גָּלָ֖ה</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='15' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='15' WordSequence='4' >אֹ֣זֶן</Word>
@@ -3198,8 +3198,8 @@
 <Word Book='ShemuelA' Chapter='9' Verse='20' WordSequence='19' >לְךָ֔</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='20' WordSequence='20' >וּלְכֹ֖ל</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='20' WordSequence='21' >בֵּ֥ית</Word>
-<Word Book='ShemuelA' Chapter='9' Verse='20' WordSequence='22' >אָבִֽיךָ</Word>
-<Word Book='ShemuelA' Chapter='9' Verse='21' WordSequence='1' >וַיַּ֨עַן</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='9' Verse='20' WordSequence='22' >אָבִֽיךָ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='9' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֨עַן</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='21' WordSequence='2' >שָׁא֜וּל</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='21' WordSequence='3' >וַיֹּ֗אמֶר</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='21' WordSequence='4' >הֲל֨וֹא</Word>
@@ -3219,8 +3219,8 @@
 <Word Book='ShemuelA' Chapter='9' Verse='21' WordSequence='18' >דִּבַּ֣רְתָּ</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='21' WordSequence='19' >אֵלַ֔י</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='21' WordSequence='20' >כַּדָּבָ֖ר</Word>
-<Word Book='ShemuelA' Chapter='9' Verse='21' WordSequence='21' >הַזֶּֽה</Word>
-<Word Book='ShemuelA' Chapter='9' Verse='22' WordSequence='1' >וַיִּקַּ֤ח</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='9' Verse='21' WordSequence='21' >הַזֶּֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='9' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיִּקַּ֤ח</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='22' WordSequence='2' >שְׁמוּאֵל֙</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='22' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='22' WordSequence='4' >שָׁא֣וּל</Word>
@@ -3325,8 +3325,8 @@
 <Word Book='ShemuelA' Chapter='9' Verse='27' WordSequence='17' >וְאַשְׁמִיעֲךָ֖</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='27' WordSequence='18' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='9' Verse='27' WordSequence='19' >דְּבַ֥ר</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='9' Verse='27' WordSequence='20' IsParashaPtuchah='true' >אֱלֹהִֽים</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וַיִּקַּ֨ח</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='9' Verse='27' WordSequence='20'>אֱלֹהִֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּקַּ֨ח</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='1' WordSequence='2' >שְׁמוּאֵ֜ל</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='1' WordSequence='4' >פַּ֥ךְ</Word>
@@ -3500,8 +3500,8 @@
 <Word Book='ShemuelA' Chapter='10' Verse='9' WordSequence='14' >הָאֹת֥וֹת</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='9' WordSequence='15' >הָאֵ֖לֶּה</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='9' WordSequence='16' >בַּיּ֥וֹם</Word>
-<Word Book='ShemuelA' Chapter='10' Verse='9' WordSequence='17' >הַהֽוּא</Word>
-<Word Book='ShemuelA' Chapter='10' Verse='10' WordSequence='1' >וַיָּבֹ֤אוּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='10' Verse='9' WordSequence='17' >הַהֽוּא</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='10' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֤אוּ</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='10' WordSequence='2' >שָׁם֙</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='10' WordSequence='3' >הַגִּבְעָ֔תָה</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='10' WordSequence='4' >וְהִנֵּ֥ה</Word>
@@ -3600,8 +3600,8 @@
 <Word Book='ShemuelA' Chapter='10' Verse='16' WordSequence='16' >ל֔וֹ</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='16' WordSequence='17' >אֲשֶׁ֖ר</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='16' WordSequence='18' >אָמַ֥ר</Word>
-<Word Book='ShemuelA' Chapter='10' Verse='16' WordSequence='19' IsParashaPtuchah='true' >שְׁמוּאֵֽל</Word>
-<Word Book='ShemuelA' Chapter='10' Verse='17' WordSequence='1' >וַיַּצְעֵ֤ק</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='10' Verse='16' WordSequence='19'>שְׁמוּאֵֽל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='10' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיַּצְעֵ֤ק</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='17' WordSequence='2' >שְׁמוּאֵל֙</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='17' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='17' WordSequence='4' >הָעָ֔ם</Word>
@@ -3611,7 +3611,7 @@
 <Word Book='ShemuelA' Chapter='10' Verse='18' WordSequence='1' >וַיֹּ֣אמֶר׀</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='18' WordSequence='2' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='18' WordSequence='3' >בְּנֵ֣י</Word>
-<Word Book='ShemuelA' Chapter='10' Verse='18' WordSequence='4' IsParashaPtuchah='true' >יִשְׂרָאֵ֗ל</Word>
+<Word Book='ShemuelA' Chapter='10' Verse='18' WordSequence='4' >יִשְׂרָאֵ֗ל</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='18' WordSequence='6' >כֹּֽה־</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='18' WordSequence='7' >אָמַ֤ר</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='18' WordSequence='8' >יְהוָה֙</Word>
@@ -3725,8 +3725,8 @@
 <Word Book='ShemuelA' Chapter='10' Verse='24' WordSequence='18' >הָעָ֛ם</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='24' WordSequence='19' >וַיֹּאמְר֖וּ</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='24' WordSequence='20' >יְחִ֥י</Word>
-<Word Book='ShemuelA' Chapter='10' Verse='24' WordSequence='21' IsParashaPtuchah='true' >הַמֶּֽלֶךְ</Word>
-<Word Book='ShemuelA' Chapter='10' Verse='25' WordSequence='1' >וַיְדַבֵּ֨ר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='10' Verse='24' WordSequence='21'>הַמֶּֽלֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='10' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֨ר</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='25' WordSequence='2' >שְׁמוּאֵ֜ל</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='25' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='25' WordSequence='4' >הָעָ֗ם</Word>
@@ -3769,8 +3769,8 @@
 <Word Book='ShemuelA' Chapter='10' Verse='27' WordSequence='10' >ל֖וֹ</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='27' WordSequence='11' >מִנְחָ֑ה</Word>
 <Word Book='ShemuelA' Chapter='10' Verse='27' WordSequence='12' >וַיְהִ֖י</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='10' Verse='27' WordSequence='13' IsParashaPtuchah='true' >כְּמַחֲרִֽישׁ</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַיַּ֗עַל</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='10' Verse='27' WordSequence='13'>כְּמַחֲרִֽישׁ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֗עַל</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='1' WordSequence='2' >נָחָשׁ֙</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='1' WordSequence='3' >הָֽעַמּוֹנִ֔י</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='1' WordSequence='4' >וַיִּ֖חַן</Word>
@@ -3941,8 +3941,8 @@
 <Word Book='ShemuelA' Chapter='11' Verse='10' WordSequence='8' >לָּ֔נוּ</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='10' WordSequence='9' >כְּכָל־</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='10' WordSequence='10' >הַטּ֖וֹב</Word>
-<Word Book='ShemuelA' Chapter='11' Verse='10' WordSequence='11' >בְּעֵינֵיכֶֽם</Word>
-<Word Book='ShemuelA' Chapter='11' Verse='11' WordSequence='1' >וַיְהִ֣י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='11' Verse='10' WordSequence='11' >בְּעֵינֵיכֶֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='11' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='11' WordSequence='2' >מִֽמָּחֳרָ֗ת</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='11' WordSequence='3' >וַיָּ֨שֶׂם</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='11' WordSequence='4' >שָׁא֣וּל</Word>
@@ -3993,8 +3993,8 @@
 <Word Book='ShemuelA' Chapter='11' Verse='13' WordSequence='10' >עָשָֽׂה־</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='13' WordSequence='11' >יְהוָ֥ה</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='13' WordSequence='12' >תְּשׁוּעָ֖ה</Word>
-<Word Book='ShemuelA' Chapter='11' Verse='13' WordSequence='13' >בְּיִשְׂרָאֵֽל</Word>
-<Word Book='ShemuelA' Chapter='11' Verse='14' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='11' Verse='13' WordSequence='13' >בְּיִשְׂרָאֵֽל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='11' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='14' WordSequence='2' >שְׁמוּאֵל֙</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='14' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='14' WordSequence='4' >הָעָ֔ם</Word>
@@ -4028,8 +4028,8 @@
 <Word Book='ShemuelA' Chapter='11' Verse='15' WordSequence='22' >אַנְשֵׁ֥י</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='15' WordSequence='23' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='11' Verse='15' WordSequence='24' >עַד־</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='11' Verse='15' WordSequence='25' IsParashaPtuchah='true' >מְאֹֽד</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='11' Verse='15' WordSequence='25'>מְאֹֽד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='1' WordSequence='2' >שְׁמוּאֵל֙</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='1' WordSequence='4' >כָּל־</Word>
@@ -4116,8 +4116,8 @@
 <Word Book='ShemuelA' Chapter='12' Verse='5' WordSequence='13' >בְּיָדִ֖י</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='5' WordSequence='14' >מְא֑וּמָה</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='5' WordSequence='15' >וַיֹּ֖אמֶר</Word>
-<Word Book='ShemuelA' Chapter='12' Verse='5' WordSequence='16' IsParashaPtuchah='true' >עֵֽד</Word>
-<Word Book='ShemuelA' Chapter='12' Verse='6' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='12' Verse='5' WordSequence='16'>עֵֽד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='12' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='6' WordSequence='2' >שְׁמוּאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='6' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='6' WordSequence='4' >הָעָ֑ם</Word>
@@ -4326,8 +4326,8 @@
 <Word Book='ShemuelA' Chapter='12' Verse='17' WordSequence='19' >יְהוָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='17' WordSequence='20' >לִשְׁא֥וֹל</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='17' WordSequence='21' >לָכֶ֖ם</Word>
-<Word Book='ShemuelA' Chapter='12' Verse='17' WordSequence='22' >מֶֽלֶךְ</Word>
-<Word Book='ShemuelA' Chapter='12' Verse='18' WordSequence='1' >וַיִּקְרָ֤א</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='12' Verse='17' WordSequence='22' >מֶֽלֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='12' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרָ֤א</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='18' WordSequence='2' >שְׁמוּאֵל֙</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='18' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='18' WordSequence='4' >יְהוָ֔ה</Word>
@@ -4366,8 +4366,8 @@
 <Word Book='ShemuelA' Chapter='12' Verse='19' WordSequence='19' >רָעָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='19' WordSequence='20' >לִשְׁאֹ֥ל</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='19' WordSequence='21' >לָ֖נוּ</Word>
-<Word Book='ShemuelA' Chapter='12' Verse='19' WordSequence='22' >מֶֽלֶךְ</Word>
-<Word Book='ShemuelA' Chapter='12' Verse='20' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='12' Verse='19' WordSequence='22' >מֶֽלֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='12' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='20' WordSequence='2' >שְׁמוּאֵ֤ל</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='20' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='20' WordSequence='4' >הָעָם֙</Word>
@@ -4454,8 +4454,8 @@
 <Word Book='ShemuelA' Chapter='12' Verse='25' WordSequence='5' >אַתֶּ֥ם</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='25' WordSequence='6' >גַּֽם־</Word>
 <Word Book='ShemuelA' Chapter='12' Verse='25' WordSequence='7' >מַלְכְּכֶ֖ם</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='12' Verse='25' WordSequence='8' IsParashaPtuchah='true' >תִּסָּפֽוּ</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>בֶּן־</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='12' Verse='25' WordSequence='8'>תִּסָּפֽוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='1' WordSequence='2' >שָׁנָ֖ה</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='1' WordSequence='3' >שָׁא֣וּל</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='1' WordSequence='4' >בְּמָלְכ֑וֹ</Word>
@@ -4643,8 +4643,8 @@
 <Word Book='ShemuelA' Chapter='13' Verse='12' WordSequence='10' >חִלִּ֑יתִי</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='12' WordSequence='11' >וָֽאֶתְאַפַּ֔ק</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='12' WordSequence='12' >וָאַעֲלֶ֖ה</Word>
-<Word Book='ShemuelA' Chapter='13' Verse='12' WordSequence='13' >הָעֹלָֽה</Word>
-<Word Book='ShemuelA' Chapter='13' Verse='13' WordSequence='1' >וַיֹּ֧אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='13' Verse='12' WordSequence='13' >הָעֹלָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='13' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֧אמֶר</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='13' WordSequence='2' >שְׁמוּאֵ֛ל</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='13' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='13' WordSequence='4' >שָׁא֖וּל</Word>
@@ -4687,8 +4687,8 @@
 <Word Book='ShemuelA' Chapter='13' Verse='14' WordSequence='18' >אֵ֥ת</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='14' WordSequence='19' >אֲשֶֽׁר־</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='14' WordSequence='20' >צִוְּךָ֖</Word>
-<Word Book='ShemuelA' Chapter='13' Verse='14' WordSequence='21' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='13' Verse='15' WordSequence='1' >וַיָּ֣קָם</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='13' Verse='14' WordSequence='21'>יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='13' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֣קָם</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='15' WordSequence='2' >שְׁמוּאֵ֗ל</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='15' WordSequence='3' >וַיַּ֛עַל</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='15' WordSequence='4' >מִן־</Word>
@@ -4746,8 +4746,8 @@
 <Word Book='ShemuelA' Chapter='13' Verse='18' WordSequence='13' >עַל־</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='18' WordSequence='14' >גֵּ֥י</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='18' WordSequence='15' >הַצְּבֹעִ֖ים</Word>
-<Word Book='ShemuelA' Chapter='13' Verse='18' WordSequence='16' >הַמִּדְבָּֽרָה</Word>
-<Word Book='ShemuelA' Chapter='13' Verse='19' WordSequence='1' >וְחָרָשׁ֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='13' Verse='18' WordSequence='16' >הַמִּדְבָּֽרָה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='13' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וְחָרָשׁ֙</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='19' WordSequence='2' >לֹ֣א</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='19' WordSequence='3' >יִמָּצֵ֔א</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='19' WordSequence='4' >בְּכֹ֖ל</Word>
@@ -4811,8 +4811,8 @@
 <Word Book='ShemuelA' Chapter='13' Verse='23' WordSequence='3' >פְּלִשְׁתִּ֔ים</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='23' WordSequence='4' >אֶֽל־</Word>
 <Word Book='ShemuelA' Chapter='13' Verse='23' WordSequence='5' >מַעֲבַ֖ר</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='13' Verse='23' WordSequence='6' IsParashaPtuchah='true' >מִכְמָֽשׂ</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וַיְהִ֣י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='13' Verse='23' WordSequence='6' >מִכְמָֽשׂ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='1' WordSequence='2' >הַיּ֗וֹם</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='1' WordSequence='3' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='1' WordSequence='4' >יוֹנָתָ֤ן</Word>
@@ -4899,8 +4899,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='5' WordSequence='7' >וְהָאֶחָ֥ד</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='5' WordSequence='8' >מִנֶּ֖גֶב</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='5' WordSequence='9' >מ֥וּל</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='5' WordSequence='10' >גָּֽבַע</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='6' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='5' WordSequence='10' >גָּֽבַע</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='6' WordSequence='2' >יְהוֹנָתָ֜ן</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='6' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='6' WordSequence='4' >הַנַּ֣עַר׀</Word>
@@ -4936,8 +4936,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='7' WordSequence='10' >לָ֔ךְ</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='7' WordSequence='11' >הִנְנִ֥י</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='7' WordSequence='12' >עִמְּךָ֖</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='7' WordSequence='13' >כִּלְבָבֶֽךָ</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='8' WordSequence='1' >וַיֹּ֙אמֶר֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='7' WordSequence='13' >כִּלְבָבֶֽךָ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֙אמֶר֙</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='8' WordSequence='2' >יְה֣וֹנָתָ֔ן</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='8' WordSequence='3' >הִנֵּ֛ה</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='8' WordSequence='4' >אֲנַ֥חְנוּ</Word>
@@ -5000,7 +5000,7 @@
 <Word Book='ShemuelA' Chapter='14' Verse='12' WordSequence='11' >אֵלֵ֔ינוּ</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='12' WordSequence='12' >וְנוֹדִ֥יעָה</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='12' WordSequence='13' >אֶתְכֶ֖ם</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='12' WordSequence='14' IsParashaPtuchah='true' >דָּבָ֑ר</Word>
+<Word Book='ShemuelA' Chapter='14' Verse='12' WordSequence='14' >דָּבָ֑ר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='12' WordSequence='16' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='12' WordSequence='17' >יוֹנָתָ֜ן</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='12' WordSequence='18' >אֶל־</Word>
@@ -5068,8 +5068,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='16' WordSequence='7' >הֶהָמ֛וֹן</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='16' WordSequence='8' >נָמ֖וֹג</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='16' WordSequence='9' >וַיֵּ֥לֶךְ</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='16' WordSequence='10' IsParashaPtuchah='true' >וַהֲלֹֽם</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='17' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='16' WordSequence='10'>וַהֲלֹֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='17' WordSequence='2' >שָׁא֗וּל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='17' WordSequence='3' >לָעָם֙</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='17' WordSequence='4' >אֲשֶׁ֣ר</Word>
@@ -5112,7 +5112,7 @@
 <Word Book='ShemuelA' Chapter='14' Verse='19' WordSequence='10' >פְלִשְׁתִּ֔ים</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='19' WordSequence='11' >וַיֵּ֥לֶךְ</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='19' WordSequence='12' >הָל֖וֹךְ</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='19' WordSequence='13' IsParashaPtuchah='true' >וָרָ֑ב</Word>
+<Word Book='ShemuelA' Chapter='14' Verse='19' WordSequence='13' >וָרָ֑ב</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='19' WordSequence='15' >וַיֹּ֧אמֶר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='19' WordSequence='16' >שָׁא֛וּל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='19' WordSequence='17' >אֶל־</Word>
@@ -5204,8 +5204,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='24' WordSequence='21' >טָעַ֥ם</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='24' WordSequence='22' >כָּל־</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='24' WordSequence='23' >הָעָ֖ם</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='24' WordSequence='24' >לָֽחֶם</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='25' WordSequence='1' >וְכָל־</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='24' WordSequence='24' >לָֽחֶם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וְכָל־</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='25' WordSequence='2' >הָאָ֖רֶץ</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='25' WordSequence='3' >בָּ֣אוּ</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='25' WordSequence='4' >בַיָּ֑עַר</Word>
@@ -5387,8 +5387,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='35' WordSequence='6' >הֵחֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='35' WordSequence='7' >לִבְנ֥וֹת</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='35' WordSequence='8' >מִזְבֵּ֖חַ</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='35' WordSequence='9' IsParashaPtuchah='true' >לַֽיהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='36' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='35' WordSequence='9'>לַֽיהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='36' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='36' WordSequence='2' >שָׁא֡וּל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='36' WordSequence='3' >נֵרְדָ֣ה</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='36' WordSequence='4' >אַחֲרֵי֩</Word>
@@ -5479,8 +5479,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='40' WordSequence='18' >שָׁא֔וּל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='40' WordSequence='19' >הַטּ֥וֹב</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='40' WordSequence='20' >בְּעֵינֶ֖יךָ</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='40' WordSequence='21' >עֲשֵֽׂה</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='41' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='40' WordSequence='21' >עֲשֵֽׂה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='41' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='41' WordSequence='2' >שָׁא֗וּל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='41' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='41' WordSequence='4' >יְהוָ֛ה</Word>
@@ -5566,8 +5566,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='45' WordSequence='29' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='45' WordSequence='30' >יוֹנָתָ֖ן</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='45' WordSequence='31' >וְלֹא־</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='45' WordSequence='32' >מֵֽת</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='46' WordSequence='1' >וַיַּ֣עַל</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='45' WordSequence='32' >מֵֽת</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='46' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֣עַל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='46' WordSequence='2' >שָׁא֔וּל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='46' WordSequence='3' >מֵאַחֲרֵ֖י</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='46' WordSequence='4' >פְּלִשְׁתִּ֑ים</Word>
@@ -5603,8 +5603,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='48' WordSequence='7' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='48' WordSequence='8' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='48' WordSequence='9' >מִיַּ֥ד</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='48' WordSequence='10' >שֹׁסֵֽהוּ</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='49' WordSequence='1' >וַיִּֽהְיוּ֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='48' WordSequence='10' >שֹׁסֵֽהוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='49' WordSequence='1' IsParashaPtuchah='true' >וַיִּֽהְיוּ֙</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='49' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='49' WordSequence='3' >שָׁא֔וּל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='49' WordSequence='4' >יוֹנָתָ֥ן</Word>
@@ -5641,8 +5641,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='51' WordSequence='5' >אֲבִֽי־</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='51' WordSequence='6' >אַבְנֵ֖ר</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='51' WordSequence='7' >בֶּן־</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='51' WordSequence='8' >אֲבִיאֵֽל</Word>
-<Word Book='ShemuelA' Chapter='14' Verse='52' WordSequence='1' >וַתְּהִ֤י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='51' WordSequence='8' >אֲבִיאֵֽל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='14' Verse='52' WordSequence='1' IsParashaPtuchah='true' >וַתְּהִ֤י</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='52' WordSequence='2' >הַמִּלְחָמָה֙</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='52' WordSequence='3' >חֲזָקָ֣ה</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='52' WordSequence='4' >עַל־</Word>
@@ -5659,8 +5659,8 @@
 <Word Book='ShemuelA' Chapter='14' Verse='52' WordSequence='15' >בֶּן־</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='52' WordSequence='16' >חַ֔יִל</Word>
 <Word Book='ShemuelA' Chapter='14' Verse='52' WordSequence='17' >וַיַּאַסְפֵ֖הוּ</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='14' Verse='52' WordSequence='18' IsParashaPtuchah='true' >אֵלָֽיו</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='14' Verse='52' WordSequence='18' >אֵלָֽיו</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='1' WordSequence='2' >שְׁמוּאֵל֙</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='1' WordSequence='4' >שָׁא֔וּל</Word>
@@ -5677,8 +5677,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='1' WordSequence='15' >שְׁמַ֔ע</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='1' WordSequence='16' >לְק֖וֹל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='1' WordSequence='17' >דִּבְרֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='1' WordSequence='18' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='2' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='1' WordSequence='18' >יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='2' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='2' WordSequence='2' >אָמַר֙</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='2' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='2' WordSequence='4' >צְבָא֔וֹת</Word>
@@ -5719,8 +5719,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='3' WordSequence='23' >שֶׂ֔ה</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='3' WordSequence='24' >מִגָּמָ֖ל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='3' WordSequence='25' >וְעַד־</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='3' WordSequence='26' >חֲמֽוֹר</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='4' WordSequence='1' >וַיְשַׁמַּ֤ע</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='3' WordSequence='26' >חֲמֽוֹר</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיְשַׁמַּ֤ע</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='4' WordSequence='2' >שָׁאוּל֙</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='4' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='4' WordSequence='4' >הָעָ֔ם</Word>
@@ -5812,8 +5812,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='9' WordSequence='21' >נְמִבְזָ֥ה</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='9' WordSequence='22' >וְנָמֵ֖ס</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='9' WordSequence='23' >אֹתָ֥הּ</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='9' WordSequence='24' IsParashaPtuchah='true' >הֶחֱרִֽימוּ</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='10' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='9' WordSequence='24'>הֶחֱרִֽימוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='10' WordSequence='2' >דְּבַר־</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='10' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='10' WordSequence='4' >אֶל־</Word>
@@ -5901,8 +5901,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='15' WordSequence='15' >אֱלֹהֶ֑יךָ</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='15' WordSequence='16' >וְאֶת־</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='15' WordSequence='17' >הַיּוֹתֵ֖ר</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='15' WordSequence='18' >הֶחֱרַֽמְנוּ</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='16' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='15' WordSequence='18' >הֶחֱרַֽמְנוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='16' WordSequence='2' >שְׁמוּאֵל֙</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='16' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='16' WordSequence='4' >שָׁא֔וּל</Word>
@@ -5918,8 +5918,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='16' WordSequence='14' >ויאמרו</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='16' WordSequence='15' >[וַיֹּ֥אמֶר]</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='16' WordSequence='16' >ל֖וֹ</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='16' WordSequence='17' >דַּבֵּֽר</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='17' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='16' WordSequence='17' >דַּבֵּֽר</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='17' WordSequence='2' >שְׁמוּאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='17' WordSequence='3' >הֲל֗וֹא</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='17' WordSequence='4' >אִם־</Word>
@@ -5961,8 +5961,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='19' WordSequence='9' >וַתַּ֥עַשׂ</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='19' WordSequence='10' >הָרַ֖ע</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='19' WordSequence='11' >בְּעֵינֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='19' WordSequence='12' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='20' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='19' WordSequence='12' >יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='20' WordSequence='2' >שָׁא֜וּל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='20' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='20' WordSequence='4' >שְׁמוּאֵ֗ל</Word>
@@ -6023,8 +6023,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='23' WordSequence='11' >דְּבַ֣ר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='23' WordSequence='12' >יְהוָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='23' WordSequence='13' >וַיִּמְאָסְךָ֖</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='23' WordSequence='14' >מִמֶּֽלֶךְ</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='24' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='23' WordSequence='14' >מִמֶּֽלֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='24' WordSequence='2' >שָׁא֤וּל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='24' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='24' WordSequence='4' >שְׁמוּאֵל֙</Word>
@@ -6068,8 +6068,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='26' WordSequence='15' >מִהְי֥וֹת</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='26' WordSequence='16' >מֶ֖לֶךְ</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='26' WordSequence='17' >עַל־</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='26' WordSequence='18' >יִשְׂרָאֵֽל</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='27' WordSequence='1' >וַיִּסֹּ֥ב</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='26' WordSequence='18' >יִשְׂרָאֵֽל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיִּסֹּ֥ב</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='27' WordSequence='2' >שְׁמוּאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='27' WordSequence='3' >לָלֶ֑כֶת</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='27' WordSequence='4' >וַיַּחֲזֵ֥ק</Word>
@@ -6123,8 +6123,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='31' WordSequence='4' >שָׁא֑וּל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='31' WordSequence='5' >וַיִּשְׁתַּ֥חוּ</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='31' WordSequence='6' >שָׁא֖וּל</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='31' WordSequence='7' >לַֽיהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='32' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='31' WordSequence='7' >לַֽיהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='32' WordSequence='2' >שְׁמוּאֵ֗ל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='32' WordSequence='3' >הַגִּ֤ישׁוּ</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='32' WordSequence='4' >אֵלַי֙</Word>
@@ -6141,8 +6141,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='32' WordSequence='15' >אָכֵ֖ן</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='32' WordSequence='16' >סָ֥ר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='32' WordSequence='17' >מַר־</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='32' WordSequence='18' >הַמָּֽוֶת</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='33' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='32' WordSequence='18' >הַמָּֽוֶת</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='33' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='33' WordSequence='2' >שְׁמוּאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='33' WordSequence='3' >כַּאֲשֶׁ֨ר</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='33' WordSequence='4' >שִׁכְּלָ֤ה</Word>
@@ -6158,8 +6158,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='33' WordSequence='14' >אֲגָ֛ג</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='33' WordSequence='15' >לִפְנֵ֥י</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='33' WordSequence='16' >יְהוָ֖ה</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='33' WordSequence='17' >בַּגִּלְגָּֽל</Word>
-<Word Book='ShemuelA' Chapter='15' Verse='34' WordSequence='1' >וַיֵּ֥לֶךְ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='33' WordSequence='17' >בַּגִּלְגָּֽל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='15' Verse='34' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֥לֶךְ</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='34' WordSequence='2' >שְׁמוּאֵ֖ל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='34' WordSequence='3' >הָרָמָ֑תָה</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='34' WordSequence='4' >וְשָׁא֛וּל</Word>
@@ -6189,8 +6189,8 @@
 <Word Book='ShemuelA' Chapter='15' Verse='35' WordSequence='19' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='35' WordSequence='20' >שָׁא֖וּל</Word>
 <Word Book='ShemuelA' Chapter='15' Verse='35' WordSequence='21' >עַל־</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='15' Verse='35' WordSequence='22' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='15' Verse='35' WordSequence='22'>יִשְׂרָאֵֽל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='1' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='1' WordSequence='4' >שְׁמוּאֵ֗ל</Word>
@@ -6387,7 +6387,7 @@
 <Word Book='ShemuelA' Chapter='16' Verse='12' WordSequence='6' >יְפֵ֥ה</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='12' WordSequence='7' >עֵינַ֖יִם</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='12' WordSequence='8' >וְט֣וֹב</Word>
-<Word Book='ShemuelA' Chapter='16' Verse='12' WordSequence='9' IsParashaPtuchah='true' >רֹ֑אִי</Word>
+<Word Book='ShemuelA' Chapter='16' Verse='12' WordSequence='9' >רֹ֑אִי</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='12' WordSequence='11' >וַיֹּ֧אמֶר</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='12' WordSequence='12' >יְהוָ֛ה</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='12' WordSequence='13' >ק֥וּם</Word>
@@ -6415,8 +6415,8 @@
 <Word Book='ShemuelA' Chapter='16' Verse='13' WordSequence='18' >וַיָּ֣קָם</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='13' WordSequence='19' >שְׁמוּאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='13' WordSequence='20' >וַיֵּ֖לֶךְ</Word>
-<Word Book='ShemuelA' Chapter='16' Verse='13' WordSequence='21' >הָרָמָֽתָה</Word>
-<Word Book='ShemuelA' Chapter='16' Verse='14' WordSequence='1' >וְר֧וּחַ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='16' Verse='13' WordSequence='21' >הָרָמָֽתָה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='16' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וְר֧וּחַ</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='14' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='14' WordSequence='3' >סָ֖רָה</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='14' WordSequence='4' >מֵעִ֣ם</Word>
@@ -6455,8 +6455,8 @@
 <Word Book='ShemuelA' Chapter='16' Verse='16' WordSequence='17' >וְנִגֵּ֥ן</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='16' WordSequence='18' >בְּיָד֖וֹ</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='16' WordSequence='19' >וְט֥וֹב</Word>
-<Word Book='ShemuelA' Chapter='16' Verse='16' WordSequence='20' IsParashaPtuchah='true' >לָֽךְ</Word>
-<Word Book='ShemuelA' Chapter='16' Verse='17' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='16' Verse='16' WordSequence='20'>לָֽךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='16' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='17' WordSequence='2' >שָׁא֖וּל</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='17' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='17' WordSequence='4' >עֲבָדָ֑יו</Word>
@@ -6562,8 +6562,8 @@
 <Word Book='ShemuelA' Chapter='16' Verse='23' WordSequence='17' >וְסָ֥רָה</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='23' WordSequence='18' >מֵעָלָ֖יו</Word>
 <Word Book='ShemuelA' Chapter='16' Verse='23' WordSequence='19' >ר֥וּחַ</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='16' Verse='23' WordSequence='20' IsParashaPtuchah='true' >הָרָעָֽה</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>וַיַּאַסְפ֨וּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='16' Verse='23' WordSequence='20'>הָרָעָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּאַסְפ֨וּ</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='1' WordSequence='2' >פְלִשְׁתִּ֤ים</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='1' WordSequence='4' >מַֽחֲנֵיהֶם֙</Word>
@@ -6715,8 +6715,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='11' WordSequence='8' >הָאֵ֑לֶּה</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='11' WordSequence='9' >וַיֵּחַ֥תּוּ</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='11' WordSequence='10' >וַיִּֽרְא֖וּ</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='11' WordSequence='11' IsParashaPtuchah='true' >מְאֹֽד</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='12' WordSequence='1' >וְדָוִד֩</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='11' WordSequence='11'>מְאֹֽד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְדָוִד֩</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='12' WordSequence='2' >בֶּן־</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='12' WordSequence='3' >אִ֨ישׁ</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='12' WordSequence='4' >אֶפְרָתִ֜י</Word>
@@ -6763,8 +6763,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='14' WordSequence='5' >הַגְּדֹלִ֔ים</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='14' WordSequence='6' >הָלְכ֖וּ</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='14' WordSequence='7' >אַחֲרֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='14' WordSequence='8' >שָׁאֽוּל</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='15' WordSequence='1' >וְדָוִ֛ד</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='14' WordSequence='8' >שָׁאֽוּל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וְדָוִ֛ד</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='15' WordSequence='2' >הֹלֵ֥ךְ</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='15' WordSequence='3' >וָשָׁ֖ב</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='15' WordSequence='4' >מֵעַ֣ל</Word>
@@ -6781,8 +6781,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='16' WordSequence='4' >וְהַעֲרֵ֑ב</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='16' WordSequence='5' >וַיִּתְיַצֵּ֖ב</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='16' WordSequence='6' >אַרְבָּעִ֥ים</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='16' WordSequence='7' IsParashaPtuchah='true' >יֽוֹם</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='17' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='16' WordSequence='7'>יֽוֹם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='17' WordSequence='2' >יִשַׁ֜י</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='17' WordSequence='3' >לְדָוִ֣ד</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='17' WordSequence='4' >בְּנ֗וֹ</Word>
@@ -7061,8 +7061,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='33' WordSequence='16' >וְה֛וּא</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='33' WordSequence='17' >אִ֥ישׁ</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='33' WordSequence='18' >מִלְחָמָ֖ה</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='33' WordSequence='19' >מִנְּעֻרָֽיו</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='34' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='33' WordSequence='19' >מִנְּעֻרָֽיו</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='34' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='34' WordSequence='2' >דָּוִד֙</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='34' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='34' WordSequence='4' >שָׁא֔וּל</Word>
@@ -7106,8 +7106,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='36' WordSequence='15' >חֵרֵ֔ף</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='36' WordSequence='16' >מַעַרְכֹ֖ת</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='36' WordSequence='17' >אֱלֹהִ֥ים</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='36' WordSequence='18' >חַיִּֽים</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='37' WordSequence='1' >וַיֹּאמֶר֮</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='36' WordSequence='18' >חַיִּֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='37' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמֶר֮</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='37' WordSequence='2' >דָּוִד֒</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='37' WordSequence='3' >יְהוָ֗ה</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='37' WordSequence='4' >אֲשֶׁ֨ר</Word>
@@ -7240,8 +7240,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='44' WordSequence='10' >לְע֥וֹף</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='44' WordSequence='11' >הַשָּׁמַ֖יִם</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='44' WordSequence='12' >וּלְבֶהֱמַ֥ת</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='44' WordSequence='13' >הַשָּׂדֶֽה</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='45' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='44' WordSequence='13' >הַשָּׂדֶֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='45' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='45' WordSequence='2' >דָּוִד֙</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='45' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='45' WordSequence='4' >הַפְּלִשְׁתִּ֔י</Word>
@@ -7418,8 +7418,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='54' WordSequence='8' >וְאֶת־</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='54' WordSequence='9' >כֵּלָ֖יו</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='54' WordSequence='10' >שָׂ֥ם</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='54' WordSequence='11' >בְּאָהֳלֽוֹ</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='55' WordSequence='1' >וְכִרְא֨וֹת</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='54' WordSequence='11' >בְּאָהֳלֽוֹ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='55' WordSequence='1' IsParashaPtuchah='true' >וְכִרְא֨וֹת</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='55' WordSequence='2' >שָׁא֜וּל</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='55' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='55' WordSequence='4' >דָּוִ֗ד</Word>
@@ -7450,8 +7450,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='56' WordSequence='5' >בֶּן־</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='56' WordSequence='6' >מִי־</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='56' WordSequence='7' >זֶ֖ה</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='56' WordSequence='8' >הָעָֽלֶם</Word>
-<Word Book='ShemuelA' Chapter='17' Verse='57' WordSequence='1' >וּכְשׁ֣וּב</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='56' WordSequence='8' >הָעָֽלֶם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='17' Verse='57' WordSequence='1' IsParashaPtuchah='true' >וּכְשׁ֣וּב</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='57' WordSequence='2' >דָּוִ֗ד</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='57' WordSequence='3' >מֵֽהַכּוֹת֙</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='57' WordSequence='4' >אֶת־</Word>
@@ -7478,8 +7478,8 @@
 <Word Book='ShemuelA' Chapter='17' Verse='58' WordSequence='11' >עַבְדְּךָ֥</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='58' WordSequence='12' >יִשַׁ֖י</Word>
 <Word Book='ShemuelA' Chapter='17' Verse='58' WordSequence='13' >בֵּ֥ית</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='17' Verse='58' WordSequence='14' >הַלַּחְמִֽי</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='17' Verse='58' WordSequence='14'>הַלַּחְמִֽי</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='1' WordSequence='2' >כְּכַלֹּתוֹ֙</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='1' WordSequence='3' >לְדַבֵּ֣ר</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -7543,8 +7543,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='5' WordSequence='17' >וְגַ֕ם</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='5' WordSequence='18' >בְּעֵינֵ֖י</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='5' WordSequence='19' >עַבְדֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='5' WordSequence='20' IsParashaPtuchah='true' >שָׁאֽוּל</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='6' WordSequence='1' >וַיְהִ֣י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='5' WordSequence='20'>שָׁאֽוּל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='6' WordSequence='2' >בְּבוֹאָ֗ם</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='6' WordSequence='3' >בְּשׁ֤וּב</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='6' WordSequence='4' >דָּוִד֙</Word>
@@ -7601,8 +7601,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='9' WordSequence='6' >דָּוִ֑ד</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='9' WordSequence='7' >מֵהַיּ֥וֹם</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='9' WordSequence='8' >הַה֖וּא</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='9' WordSequence='9' >וָהָֽלְאָה</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='10' WordSequence='1' >וַיְהִ֣י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='9' WordSequence='9' >וָהָֽלְאָה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='10' WordSequence='2' >מִֽמָּחֳרָ֗ת</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='10' WordSequence='3' >וַתִּצְלַ֣ח</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='10' WordSequence='4' >רוּחַ֩</Word>
@@ -7654,8 +7654,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='13' WordSequence='8' >וַיֵּצֵ֥א</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='13' WordSequence='9' >וַיָּבֹ֖א</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='13' WordSequence='10' >לִפְנֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='13' WordSequence='11' IsParashaPtuchah='true' >הָעָֽם</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='14' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='13' WordSequence='11'>הָעָֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='14' WordSequence='2' >דָוִ֛ד</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='14' WordSequence='3' >לְכָל־</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='14' WordSequence='4' >דָּרְכָ֖ו</Word>
@@ -7680,8 +7680,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='16' WordSequence='8' >ה֛וּא</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='16' WordSequence='9' >יוֹצֵ֥א</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='16' WordSequence='10' >וָבָ֖א</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='16' WordSequence='11' IsParashaPtuchah='true' >לִפְנֵיהֶֽם</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='17' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='16' WordSequence='11'>לִפְנֵיהֶֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='17' WordSequence='2' >שָׁא֜וּל</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='17' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='17' WordSequence='4' >דָּוִ֗ד</Word>
@@ -7710,8 +7710,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='17' WordSequence='27' >וּתְהִי־</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='17' WordSequence='28' >ב֖וֹ</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='17' WordSequence='29' >יַד־</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='17' WordSequence='30' >פְּלִשְׁתִּֽים</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='18' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='17' WordSequence='30' >פְּלִשְׁתִּֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='18' WordSequence='2' >דָּוִ֜ד</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='18' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='18' WordSequence='4' >שָׁא֗וּל</Word>
@@ -7814,8 +7814,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='24' WordSequence='6' >כַּדְּבָרִ֥ים</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='24' WordSequence='7' >הָאֵ֖לֶּה</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='24' WordSequence='8' >דִּבֶּ֥ר</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='24' WordSequence='9' IsParashaPtuchah='true' >דָּוִֽד</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='25' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='24' WordSequence='9'>דָּוִֽד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='25' WordSequence='2' >שָׁא֜וּל</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='25' WordSequence='3' >כֹּֽה־</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='25' WordSequence='4' >תֹאמְר֣וּ</Word>
@@ -7876,8 +7876,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='27' WordSequence='21' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='27' WordSequence='22' >מִיכַ֥ל</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='27' WordSequence='23' >בִּתּ֖וֹ</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='27' WordSequence='24' >לְאִשָּֽׁה</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='28' WordSequence='1' >וַיַּ֤רְא</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='27' WordSequence='24' >לְאִשָּֽׁה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֤רְא</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='28' WordSequence='2' >שָׁאוּל֙</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='28' WordSequence='3' >וַיֵּ֔דַע</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='28' WordSequence='4' >כִּ֥י</Word>
@@ -7900,8 +7900,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='29' WordSequence='10' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='29' WordSequence='11' >דָּוִ֖ד</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='29' WordSequence='12' >כָּל־</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='29' WordSequence='13' >הַיָּמִֽים</Word>
-<Word Book='ShemuelA' Chapter='18' Verse='30' WordSequence='1' >וַיֵּצְא֖וּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='29' WordSequence='13' >הַיָּמִֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='18' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וַיֵּצְא֖וּ</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='30' WordSequence='2' >שָׂרֵ֣י</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='30' WordSequence='3' >פְלִשְׁתִּ֑ים</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='30' WordSequence='4' >וַיְהִ֣י׀</Word>
@@ -7914,8 +7914,8 @@
 <Word Book='ShemuelA' Chapter='18' Verse='30' WordSequence='11' >שָׁא֔וּל</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='30' WordSequence='12' >וַיִּיקַ֥ר</Word>
 <Word Book='ShemuelA' Chapter='18' Verse='30' WordSequence='13' >שְׁמ֖וֹ</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='18' Verse='30' WordSequence='14' IsParashaPtuchah='true' >מְאֹֽד</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַיְדַבֵּ֣ר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='18' Verse='30' WordSequence='14' >מְאֹֽד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֣ר</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='1' WordSequence='2' >שָׁא֗וּל</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='1' WordSequence='4' >יוֹנָתָ֤ן</Word>
@@ -7964,8 +7964,8 @@
 <Word Book='ShemuelA' Chapter='19' Verse='3' WordSequence='15' >וְרָאִ֥יתִי</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='3' WordSequence='16' >מָ֖ה</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='3' WordSequence='17' >וְהִגַּ֥דְתִּי</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='3' WordSequence='18' >לָֽךְ</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='4' WordSequence='1' >וַיְדַבֵּ֨ר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='19' Verse='3' WordSequence='18' >לָֽךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='19' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֨ר</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='4' WordSequence='2' >יְהוֹנָתָ֤ן</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='4' WordSequence='3' >בְּדָוִד֙</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='4' WordSequence='4' >ט֔וֹב</Word>
@@ -8040,8 +8040,8 @@
 <Word Book='ShemuelA' Chapter='19' Verse='7' WordSequence='17' >וַיְהִ֥י</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='7' WordSequence='18' >לְפָנָ֖יו</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='7' WordSequence='19' >כְּאֶתְמ֥וֹל</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='7' WordSequence='20' >שִׁלְשֽׁוֹם</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='8' WordSequence='1' >וַתּ֥וֹסֶף</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='19' Verse='7' WordSequence='20' >שִׁלְשֽׁוֹם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='19' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַתּ֥וֹסֶף</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='8' WordSequence='2' >הַמִּלְחָמָ֖ה</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='8' WordSequence='3' >לִֽהְי֑וֹת</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='8' WordSequence='4' >וַיֵּצֵ֨א</Word>
@@ -8085,8 +8085,8 @@
 <Word Book='ShemuelA' Chapter='19' Verse='10' WordSequence='15' >נָ֥ס</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='10' WordSequence='16' >וַיִּמָּלֵ֖ט</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='10' WordSequence='17' >בַּלַּ֥יְלָה</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='10' WordSequence='18' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='11' WordSequence='1' >וַיִּשְׁלַח֩</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='19' Verse='10' WordSequence='18'>הֽוּא</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='19' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַח֩</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='11' WordSequence='2' >שָׁא֨וּל</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='11' WordSequence='3' >מַלְאָכִ֜ים</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='11' WordSequence='4' >אֶל־</Word>
@@ -8131,8 +8131,8 @@
 <Word Book='ShemuelA' Chapter='19' Verse='13' WordSequence='11' >שָׂ֖מָה</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='13' WordSequence='12' >מְרַֽאֲשֹׁתָ֑יו</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='13' WordSequence='13' >וַתְּכַ֖ס</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='13' WordSequence='14' >בַּבָּֽגֶד</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='14' WordSequence='1' >וַיִּשְׁלַ֥ח</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='19' Verse='13' WordSequence='14' >בַּבָּֽגֶד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='19' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֥ח</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='14' WordSequence='2' >שָׁא֛וּל</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='14' WordSequence='3' >מַלְאָכִ֖ים</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='14' WordSequence='4' >לָקַ֣חַת</Word>
@@ -8140,8 +8140,8 @@
 <Word Book='ShemuelA' Chapter='19' Verse='14' WordSequence='6' >דָּוִ֑ד</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='14' WordSequence='7' >וַתֹּ֖אמֶר</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='14' WordSequence='8' >חֹלֶ֥ה</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='14' WordSequence='9' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='ShemuelA' Chapter='19' Verse='15' WordSequence='1' >וַיִּשְׁלַ֤ח</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='19' Verse='14' WordSequence='9'>הֽוּא</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='19' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֤ח</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='15' WordSequence='2' >שָׁאוּל֙</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='15' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='15' WordSequence='4' >הַמַּלְאָכִ֔ים</Word>
@@ -8314,8 +8314,8 @@
 <Word Book='ShemuelA' Chapter='19' Verse='24' WordSequence='19' >יֹֽאמְר֔וּ</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='24' WordSequence='20' >הֲגַ֥ם</Word>
 <Word Book='ShemuelA' Chapter='19' Verse='24' WordSequence='21' >שָׁא֖וּל</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='19' Verse='24' WordSequence='22' IsParashaPtuchah='true' >בַּנְּבִיאִֽם</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וַיִּבְרַ֣ח</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='19' Verse='24' WordSequence='22'>בַּנְּבִיאִֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּבְרַ֣ח</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='1' WordSequence='2' >דָּוִ֔ד</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='1' WordSequence='3' >מנוות</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='1' WordSequence='4' >[מִנָּי֖וֹת]</Word>
@@ -8402,8 +8402,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='4' WordSequence='6' >תֹּאמַ֥ר</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='4' WordSequence='7' >נַפְשְׁךָ֖</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='4' WordSequence='8' >וְאֶֽעֱשֶׂה־</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='4' WordSequence='9' IsParashaPtuchah='true' >לָּֽךְ</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='5' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='4' WordSequence='9'>לָּֽךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='5' WordSequence='2' >דָּוִ֜ד</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='5' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='5' WordSequence='4' >יְהוֹנָתָ֗ן</Word>
@@ -8477,8 +8477,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='8' WordSequence='19' >אָבִ֖יךָ</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='8' WordSequence='20' >לָמָּה־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='8' WordSequence='21' >זֶּ֥ה</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='8' WordSequence='22' IsParashaPtuchah='true' >תְבִיאֵֽנִי</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='9' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='8' WordSequence='22'>תְבִיאֵֽנִי</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='9' WordSequence='2' >יְהוֹנָתָ֖ן</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='9' WordSequence='3' >חָלִ֣ילָה</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='9' WordSequence='4' >לָּ֑ךְ</Word>
@@ -8496,8 +8496,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='9' WordSequence='16' >וְלֹ֥א</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='9' WordSequence='17' >אֹתָ֖הּ</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='9' WordSequence='18' >אַגִּ֥יד</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='9' WordSequence='19' >לָֽךְ</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='10' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='9' WordSequence='19' >לָֽךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='10' WordSequence='2' >דָּוִד֙</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='10' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='10' WordSequence='4' >יְה֣וֹנָתָ֔ן</Word>
@@ -8508,8 +8508,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='10' WordSequence='9' >מַה־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='10' WordSequence='10' >יַּעַנְךָ֥</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='10' WordSequence='11' >אָבִ֖יךָ</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='10' WordSequence='12' >קָשָֽׁה</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='11' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='10' WordSequence='12' >קָשָֽׁה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='11' WordSequence='2' >יְהֽוֹנָתָן֙</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='11' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='11' WordSequence='4' >דָּוִ֔ד</Word>
@@ -8518,8 +8518,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='11' WordSequence='7' >הַשָּׂדֶ֑ה</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='11' WordSequence='8' >וַיֵּצְא֥וּ</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='11' WordSequence='9' >שְׁנֵיהֶ֖ם</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='11' WordSequence='10' >הַשָּׂדֶֽה</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='12' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='11' WordSequence='10' >הַשָּׂדֶֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='12' WordSequence='2' >יְהוֹנָתָ֜ן</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='12' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='12' WordSequence='4' >דָּוִ֗ד</Word>
@@ -8619,8 +8619,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='17' WordSequence='8' >כִּֽי־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='17' WordSequence='9' >אַהֲבַ֥ת</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='17' WordSequence='10' >נַפְשׁ֖וֹ</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='17' WordSequence='11' >אֲהֵבֽוֹ</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='18' WordSequence='1' >וַיֹּֽאמֶר־</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='17' WordSequence='11' >אֲהֵבֽוֹ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיֹּֽאמֶר־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='18' WordSequence='2' >ל֥וֹ</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='18' WordSequence='3' >יְהוֹנָתָ֖ן</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='18' WordSequence='4' >מָחָ֣ר</Word>
@@ -8699,8 +8699,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='23' WordSequence='8' >בֵּינִ֥י</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='23' WordSequence='9' >וּבֵינְךָ֖</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='23' WordSequence='10' >עַד־</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='23' WordSequence='11' >עוֹלָֽם</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='24' WordSequence='1' >וַיִּסָּתֵ֥ר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='23' WordSequence='11' >עוֹלָֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וַיִּסָּתֵ֥ר</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='24' WordSequence='2' >דָּוִ֖ד</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='24' WordSequence='3' >בַּשָּׂדֶ֑ה</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='24' WordSequence='4' >וַיְהִ֣י</Word>
@@ -8745,8 +8745,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='26' WordSequence='13' >ה֖וּא</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='26' WordSequence='14' >כִּֽי־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='26' WordSequence='15' >לֹ֥א</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='26' WordSequence='16' >טָהֽוֹר</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='27' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='26' WordSequence='16' >טָהֽוֹר</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='27' WordSequence='2' >מִֽמָּחֳרַ֤ת</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='27' WordSequence='3' >הַחֹ֙דֶשׁ֙</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='27' WordSequence='4' >הַשֵּׁנִ֔י</Word>
@@ -8808,8 +8808,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='29' WordSequence='26' >בָ֔א</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='29' WordSequence='27' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='29' WordSequence='28' >שֻׁלְחַ֖ן</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='29' WordSequence='29' >הַמֶּֽלֶךְ</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='30' WordSequence='1' >וַיִּֽחַר־</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='29' WordSequence='29' >הַמֶּֽלֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וַיִּֽחַר־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='30' WordSequence='2' >אַ֤ף</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='30' WordSequence='3' >שָׁאוּל֙</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='30' WordSequence='4' >בִּיה֣וֹנָתָ֔ן</Word>
@@ -8850,8 +8850,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='31' WordSequence='19' >כִּ֥י</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='31' WordSequence='20' >בֶן־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='31' WordSequence='21' >מָ֖וֶת</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='31' WordSequence='22' >הֽוּא</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='32' WordSequence='1' >וַיַּ֙עַן֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='31' WordSequence='22' >הֽוּא</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֙עַן֙</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='32' WordSequence='2' >יְה֣וֹנָתָ֔ן</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='32' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='32' WordSequence='4' >שָׁא֖וּל</Word>
@@ -8877,8 +8877,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='33' WordSequence='13' >אָבִ֖יו</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='33' WordSequence='14' >לְהָמִ֥ית</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='33' WordSequence='15' >אֶת־</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='33' WordSequence='16' >דָּוִֽד</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='34' WordSequence='1' >וַיָּ֧קָם</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='33' WordSequence='16' >דָּוִֽד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='34' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֧קָם</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='34' WordSequence='2' >יְהוֹנָתָ֛ן</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='34' WordSequence='3' >מֵעִ֥ם</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='34' WordSequence='4' >הַשֻּׁלְחָ֖ן</Word>
@@ -8896,8 +8896,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='34' WordSequence='16' >דָּוִ֔ד</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='34' WordSequence='17' >כִּ֥י</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='34' WordSequence='18' >הִכְלִמ֖וֹ</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='34' WordSequence='19' >אָבִֽיו</Word>
-<Word Book='ShemuelA' Chapter='20' Verse='35' WordSequence='1' >וַיְהִ֣י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='34' WordSequence='19' >אָבִֽיו</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='20' Verse='35' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='35' WordSequence='2' >בַבֹּ֔קֶר</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='35' WordSequence='3' >וַיֵּצֵ֧א</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='35' WordSequence='4' >יְהוֹנָתָ֛ן</Word>
@@ -9024,8 +9024,8 @@
 <Word Book='ShemuelA' Chapter='20' Verse='42' WordSequence='19' >וּבֵ֥ין</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='42' WordSequence='20' >זַרְעֲךָ֖</Word>
 <Word Book='ShemuelA' Chapter='20' Verse='42' WordSequence='21' >עַד־</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='20' Verse='42' WordSequence='22' IsParashaPtuchah='true' >עוֹלָֽם</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַיָּ֖קָם</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='20' Verse='42' WordSequence='22'>עוֹלָֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֖קָם</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='1' WordSequence='2' >וַיֵּלַ֑ךְ</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='1' WordSequence='3' >וִיהוֹנָתָ֖ן</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='1' WordSequence='4' >בָּ֥א</Word>
@@ -9106,8 +9106,8 @@
 <Word Book='ShemuelA' Chapter='21' Verse='5' WordSequence='18' >נִשְׁמְר֥וּ</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='5' WordSequence='19' >הַנְּעָרִ֖ים</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='5' WordSequence='20' >אַ֥ךְ</Word>
-<Word Book='ShemuelA' Chapter='21' Verse='5' WordSequence='21' IsParashaPtuchah='true' >מֵאִשָּֽׁה</Word>
-<Word Book='ShemuelA' Chapter='21' Verse='6' WordSequence='1' >וַיַּעַן֩</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='21' Verse='5' WordSequence='21'>מֵאִשָּֽׁה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='21' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיַּעַן֩</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='6' WordSequence='2' >דָּוִ֨ד</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='6' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='6' WordSequence='4' >הַכֹּהֵ֜ן</Word>
@@ -9193,8 +9193,8 @@
 <Word Book='ShemuelA' Chapter='21' Verse='9' WordSequence='21' >הָיָ֥ה</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='9' WordSequence='22' >דְבַר־</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='9' WordSequence='23' >הַמֶּ֖לֶךְ</Word>
-<Word Book='ShemuelA' Chapter='21' Verse='9' WordSequence='24' >נָחֽוּץ</Word>
-<Word Book='ShemuelA' Chapter='21' Verse='10' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='21' Verse='9' WordSequence='24' >נָחֽוּץ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='21' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='10' WordSequence='2' >הַכֹּהֵ֗ן</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='10' WordSequence='3' >חֶרֶב֩</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='10' WordSequence='4' >גָּלְיָ֨ת</Word>
@@ -9309,8 +9309,8 @@
 <Word Book='ShemuelA' Chapter='21' Verse='16' WordSequence='10' >הֲזֶ֖ה</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='16' WordSequence='11' >יָב֥וֹא</Word>
 <Word Book='ShemuelA' Chapter='21' Verse='16' WordSequence='12' >אֶל־</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='21' Verse='16' WordSequence='13' IsParashaPtuchah='true' >בֵּיתִֽי</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיֵּ֤לֶךְ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='21' Verse='16' WordSequence='13' >בֵּיתִֽי</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֤לֶךְ</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='1' WordSequence='2' >דָּוִד֙</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='1' WordSequence='3' >מִשָּׁ֔ם</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='1' WordSequence='4' >וַיִּמָּלֵ֖ט</Word>
@@ -9379,8 +9379,8 @@
 <Word Book='ShemuelA' Chapter='22' Verse='4' WordSequence='9' >יְמֵ֥י</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='4' WordSequence='10' >הֱיוֹת־</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='4' WordSequence='11' >דָּוִ֖ד</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='4' WordSequence='12' >בַּמְּצוּדָֽה</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='5' WordSequence='1' >וַיֹּאמֶר֩</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='22' Verse='4' WordSequence='12' >בַּמְּצוּדָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='22' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמֶר֩</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='5' WordSequence='2' >גָּ֨ד</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='5' WordSequence='3' >הַנָּבִ֜יא</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='5' WordSequence='4' >אֶל־</Word>
@@ -9397,8 +9397,8 @@
 <Word Book='ShemuelA' Chapter='22' Verse='5' WordSequence='15' >דָּוִ֔ד</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='5' WordSequence='16' >וַיָּבֹ֖א</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='5' WordSequence='17' >יַ֥עַר</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='5' WordSequence='18' >חָֽרֶת</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='6' WordSequence='1' >וַיִּשְׁמַ֣ע</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='22' Verse='5' WordSequence='18' >חָֽרֶת</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='22' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁמַ֣ע</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='6' WordSequence='2' >שָׁא֔וּל</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='6' WordSequence='3' >כִּ֚י</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='6' WordSequence='4' >נוֹדַ֣ע</Word>
@@ -9468,8 +9468,8 @@
 <Word Book='ShemuelA' Chapter='22' Verse='8' WordSequence='26' >עָלַ֛י</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='8' WordSequence='27' >לְאֹרֵ֖ב</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='8' WordSequence='28' >כַּיּ֥וֹם</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='8' WordSequence='29' >הַזֶּֽה</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='9' WordSequence='1' >וַיַּ֜עַן</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='22' Verse='8' WordSequence='29' >הַזֶּֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='22' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֜עַן</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='9' WordSequence='2' >דֹּאֵ֣ג</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='9' WordSequence='3' >הָאֲדֹמִ֗י</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='9' WordSequence='4' >וְה֛וּא</Word>
@@ -9518,8 +9518,8 @@
 <Word Book='ShemuelA' Chapter='22' Verse='11' WordSequence='16' >וַיָּבֹ֥אוּ</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='11' WordSequence='17' >כֻלָּ֖ם</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='11' WordSequence='18' >אֶל־</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='11' WordSequence='19' >הַמֶּֽלֶךְ</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='12' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='22' Verse='11' WordSequence='19' >הַמֶּֽלֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='22' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='12' WordSequence='2' >שָׁא֔וּל</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='12' WordSequence='3' >שְֽׁמַֽע־</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='12' WordSequence='4' >נָ֖א</Word>
@@ -9549,8 +9549,8 @@
 <Word Book='ShemuelA' Chapter='22' Verse='13' WordSequence='19' >אֵלַ֛י</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='13' WordSequence='20' >לְאֹרֵ֖ב</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='13' WordSequence='21' >כַּיּ֥וֹם</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='13' WordSequence='22' >הַזֶּֽה</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='14' WordSequence='1' >וַיַּ֧עַן</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='22' Verse='13' WordSequence='22' >הַזֶּֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='22' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֧עַן</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='14' WordSequence='2' >אֲחִימֶ֛לֶךְ</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='14' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='14' WordSequence='4' >הַמֶּ֖לֶךְ</Word>
@@ -9636,8 +9636,8 @@
 <Word Book='ShemuelA' Chapter='22' Verse='17' WordSequence='31' >יָדָ֔ם</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='17' WordSequence='32' >לִפְגֹ֖עַ</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='17' WordSequence='33' >בְּכֹהֲנֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='17' WordSequence='34' >יְהוָֽה</Word>
-<Word Book='ShemuelA' Chapter='22' Verse='18' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='22' Verse='17' WordSequence='34' >יְהוָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='22' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='18' WordSequence='2' >הַמֶּ֙לֶךְ֙</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='18' WordSequence='3' >לדויג</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='18' WordSequence='4' >[לְדוֹאֵ֔ג]</Word>
@@ -9735,8 +9735,8 @@
 <Word Book='ShemuelA' Chapter='22' Verse='23' WordSequence='13' >כִּֽי־</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='23' WordSequence='14' >מִשְׁמֶ֥רֶת</Word>
 <Word Book='ShemuelA' Chapter='22' Verse='23' WordSequence='15' >אַתָּ֖ה</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='22' Verse='23' WordSequence='16' >עִמָּדִֽי</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וַיַּגִּ֥דוּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='22' Verse='23' WordSequence='16'>עִמָּדִֽי</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וַיַּגִּ֥דוּ</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='1' WordSequence='2' >לְדָוִ֖ד</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='1' WordSequence='3' >לֵאמֹ֑ר</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='1' WordSequence='4' >הִנֵּ֤ה</Word>
@@ -9780,8 +9780,8 @@
 <Word Book='ShemuelA' Chapter='23' Verse='3' WordSequence='13' >קְעִלָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='3' WordSequence='14' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='3' WordSequence='15' >מַֽעַרְכ֖וֹת</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='3' WordSequence='16' >פְּלִשְׁתִּֽים</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='4' WordSequence='1' >וַיּ֨וֹסֶף</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='23' Verse='3' WordSequence='16' >פְּלִשְׁתִּֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='23' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיּ֨וֹסֶף</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='4' WordSequence='2' >ע֤וֹד</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='4' WordSequence='3' >דָּוִד֙</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='4' WordSequence='4' >לִשְׁאֹ֣ל</Word>
@@ -9816,8 +9816,8 @@
 <Word Book='ShemuelA' Chapter='23' Verse='5' WordSequence='16' >דָּוִ֔ד</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='5' WordSequence='17' >אֵ֖ת</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='5' WordSequence='18' >יֹשְׁבֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='5' WordSequence='19' >קְעִילָֽה</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='6' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='23' Verse='5' WordSequence='19' >קְעִילָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='23' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='6' WordSequence='2' >בִּ֠בְרֹחַ</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='6' WordSequence='3' >אֶבְיָתָ֧ר</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='6' WordSequence='4' >בֶּן־</Word>
@@ -9871,8 +9871,8 @@
 <Word Book='ShemuelA' Chapter='23' Verse='9' WordSequence='10' >אֶבְיָתָ֣ר</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='9' WordSequence='11' >הַכֹּהֵ֔ן</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='9' WordSequence='12' >הַגִּ֖ישָׁה</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='9' WordSequence='13' >הָאֵפֽוֹד</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='10' WordSequence='1' >וַיֹּאמֶר֮</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='23' Verse='9' WordSequence='13' >הָאֵפֽוֹד</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='23' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמֶר֮</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='10' WordSequence='2' >דָּוִד֒</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='10' WordSequence='3' >יְהוָה֙</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='10' WordSequence='4' >אֱלֹהֵ֣י</Word>
@@ -9919,8 +9919,8 @@
 <Word Book='ShemuelA' Chapter='23' Verse='12' WordSequence='10' >שָׁא֑וּל</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='12' WordSequence='11' >וַיֹּ֥אמֶר</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='12' WordSequence='12' >יְהוָ֖ה</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='12' WordSequence='13' >יַסְגִּֽירוּ</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='13' WordSequence='1' >וַיָּקָם֩</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='23' Verse='12' WordSequence='13' >יַסְגִּֽירוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='23' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיָּקָם֩</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='13' WordSequence='2' >דָּוִ֨ד</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='13' WordSequence='3' >וַאֲנָשָׁ֜יו</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='13' WordSequence='4' >כְּשֵׁשׁ־</Word>
@@ -9966,8 +9966,8 @@
 <Word Book='ShemuelA' Chapter='23' Verse='15' WordSequence='9' >וְדָוִ֥ד</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='15' WordSequence='10' >בְּמִדְבַּר־</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='15' WordSequence='11' >זִ֖יף</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='15' WordSequence='12' >בַּחֹֽרְשָׁה</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='16' WordSequence='1' >וַיָּ֙קָם֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='23' Verse='15' WordSequence='12' >בַּחֹֽרְשָׁה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='23' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֙קָם֙</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='16' WordSequence='2' >יְהוֹנָתָ֣ן</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='16' WordSequence='3' >בֶּן־</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='16' WordSequence='4' >שָׁא֔וּל</Word>
@@ -10012,8 +10012,8 @@
 <Word Book='ShemuelA' Chapter='23' Verse='18' WordSequence='8' >בַּחֹ֔רְשָׁה</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='18' WordSequence='9' >וִיהוֹנָתָ֖ן</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='18' WordSequence='10' >הָלַ֥ךְ</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='18' WordSequence='11' >לְבֵיתֽוֹ</Word>
-<Word Book='ShemuelA' Chapter='23' Verse='19' WordSequence='1' >וַיַּעֲל֤וּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='23' Verse='18' WordSequence='11' >לְבֵיתֽוֹ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='23' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲל֤וּ</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='19' WordSequence='2' >זִפִים֙</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='19' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='19' WordSequence='4' >שָׁא֔וּל</Word>
@@ -10172,8 +10172,8 @@
 <Word Book='ShemuelA' Chapter='23' Verse='28' WordSequence='12' >לַמָּק֣וֹם</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='28' WordSequence='13' >הַה֔וּא</Word>
 <Word Book='ShemuelA' Chapter='23' Verse='28' WordSequence='14' >סֶ֖לַע</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='23' Verse='28' WordSequence='15' >הַֽמַּחְלְקֽוֹת</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>וַיַּ֥עַל</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='23' Verse='28' WordSequence='15'>הַֽמַּחְלְקֽוֹת</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>וַיַּ֥עַל</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='1' WordSequence='2' >דָּוִ֖ד</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='1' WordSequence='3' >מִשָּׁ֑ם</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='1' WordSequence='4' >וַיֵּ֖שֶׁב</Word>
@@ -10193,8 +10193,8 @@
 <Word Book='ShemuelA' Chapter='24' Verse='2' WordSequence='11' >דָוִ֔ד</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='2' WordSequence='12' >בְּמִדְבַּ֖ר</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='2' WordSequence='13' >עֵ֥ין</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='2' WordSequence='14' >גֶּֽדִי</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='3' WordSequence='1' >וַיִּקַּ֣ח</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='24' Verse='2' WordSequence='14' >גֶּֽדִי</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='24' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַיִּקַּ֣ח</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='3' WordSequence='2' >שָׁא֗וּל</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='3' WordSequence='3' >שְׁלֹ֧שֶׁת</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='3' WordSequence='4' >אֲלָפִ֛ים</Word>
@@ -10273,8 +10273,8 @@
 <Word Book='ShemuelA' Chapter='24' Verse='6' WordSequence='11' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='6' WordSequence='12' >כָּנָ֖ף</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='6' WordSequence='13' >אֲשֶׁ֥ר</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='6' WordSequence='14' >לְשָׁאֽוּל</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='7' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='24' Verse='6' WordSequence='14' >לְשָׁאֽוּל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='24' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='7' WordSequence='2' >לַאֲנָשָׁ֜יו</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='7' WordSequence='3' >חָלִ֧ילָה</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='7' WordSequence='4' >לִּ֣י</Word>
@@ -10308,8 +10308,8 @@
 <Word Book='ShemuelA' Chapter='24' Verse='8' WordSequence='12' >קָ֥ם</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='8' WordSequence='13' >מֵהַמְּעָרָ֖ה</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='8' WordSequence='14' >וַיֵּ֥לֶךְ</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='8' WordSequence='15' >בַּדָּֽרֶךְ</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='9' WordSequence='1' >וַיָּ֨קָם</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='24' Verse='8' WordSequence='15' >בַּדָּֽרֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='24' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֨קָם</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='9' WordSequence='2' >דָּוִ֜ד</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='9' WordSequence='3' >אַחֲרֵי־</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='9' WordSequence='4' >כֵ֗ן</Word>
@@ -10330,8 +10330,8 @@
 <Word Book='ShemuelA' Chapter='24' Verse='9' WordSequence='19' >דָּוִ֥ד</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='9' WordSequence='20' >אַפַּ֛יִם</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='9' WordSequence='21' >אַ֖רְצָה</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='9' WordSequence='22' >וַיִּשְׁתָּֽחוּ</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='10' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='24' Verse='9' WordSequence='22' >וַיִּשְׁתָּֽחוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='24' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='10' WordSequence='2' >דָּוִד֙</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='10' WordSequence='3' >לְשָׁא֔וּל</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='10' WordSequence='4' >לָ֧מָּה</Word>
@@ -10447,8 +10447,8 @@
 <Word Book='ShemuelA' Chapter='24' Verse='16' WordSequence='9' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='16' WordSequence='10' >רִיבִ֔י</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='16' WordSequence='11' >וְיִשְׁפְּטֵ֖נִי</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='16' WordSequence='12' IsParashaPtuchah='true' >מִיָּדֶֽךָ</Word>
-<Word Book='ShemuelA' Chapter='24' Verse='17' WordSequence='1' >וַיְהִ֣י׀</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='24' Verse='16' WordSequence='12'>מִיָּדֶֽךָ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='24' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י׀</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='17' WordSequence='2' >כְּכַלּ֣וֹת</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='17' WordSequence='3' >דָּוִ֗ד</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='17' WordSequence='4' >לְדַבֵּ֞ר</Word>
@@ -10549,8 +10549,8 @@
 <Word Book='ShemuelA' Chapter='24' Verse='23' WordSequence='9' >וַֽאֲנָשָׁ֔יו</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='23' WordSequence='10' >עָל֖וּ</Word>
 <Word Book='ShemuelA' Chapter='24' Verse='23' WordSequence='11' >עַל־</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='24' Verse='23' WordSequence='12' IsParashaPtuchah='true' >הַמְּצוּדָֽה</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='25' Verse='1' WordSequence='1'>וַיָּ֣מָת</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='24' Verse='23' WordSequence='12'>הַמְּצוּדָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='25' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֣מָת</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='1' WordSequence='2' >שְׁמוּאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='1' WordSequence='3' >וַיִּקָּבְצ֤וּ</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='1' WordSequence='4' >כָל־</Word>
@@ -10565,8 +10565,8 @@
 <Word Book='ShemuelA' Chapter='25' Verse='1' WordSequence='13' >וַיֵּ֖רֶד</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='1' WordSequence='14' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='1' WordSequence='15' >מִדְבַּ֥ר</Word>
-<Word Book='ShemuelA' Chapter='25' Verse='1' WordSequence='16' >פָּארָֽן</Word>
-<Word Book='ShemuelA' Chapter='25' Verse='2' WordSequence='1' >וְאִ֨ישׁ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='25' Verse='1' WordSequence='16' >פָּארָֽן</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='25' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וְאִ֨ישׁ</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='2' WordSequence='2' >בְּמָע֜וֹן</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='2' WordSequence='3' >וּמַעֲשֵׂ֣הוּ</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='2' WordSequence='4' >בַכַּרְמֶ֗ל</Word>
@@ -11087,8 +11087,8 @@
 <Word Book='ShemuelA' Chapter='25' Verse='31' WordSequence='17' >לַֽאדֹנִ֔י</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='31' WordSequence='18' >וְזָכַרְתָּ֖</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='31' WordSequence='19' >אֶת־</Word>
-<Word Book='ShemuelA' Chapter='25' Verse='31' WordSequence='20' >אֲמָתֶֽךָ</Word>
-<Word Book='ShemuelA' Chapter='25' Verse='32' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='25' Verse='31' WordSequence='20' >אֲמָתֶֽךָ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='25' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='32' WordSequence='2' >דָּוִ֖ד</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='32' WordSequence='3' >לַאֲבִיגַ֑ל</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='32' WordSequence='4' >בָּר֤וּךְ</Word>
@@ -11291,8 +11291,8 @@
 <Word Book='ShemuelA' Chapter='25' Verse='43' WordSequence='7' >גַּֽם־</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='43' WordSequence='8' >שְׁתֵּיהֶ֥ן</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='43' WordSequence='9' >ל֖וֹ</Word>
-<Word Book='ShemuelA' Chapter='25' Verse='43' WordSequence='10' >לְנָשִֽׁים</Word>
-<Word Book='ShemuelA' Chapter='25' Verse='44' WordSequence='1' >וְשָׁא֗וּל</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='25' Verse='43' WordSequence='10' >לְנָשִֽׁים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='25' Verse='44' WordSequence='1' IsParashaPtuchah='true' >וְשָׁא֗וּל</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='44' WordSequence='2' >נָתַ֛ן</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='44' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='44' WordSequence='4' >מִיכַ֥ל</Word>
@@ -11303,8 +11303,8 @@
 <Word Book='ShemuelA' Chapter='25' Verse='44' WordSequence='9' >בֶן־</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='44' WordSequence='10' >לַ֖יִשׁ</Word>
 <Word Book='ShemuelA' Chapter='25' Verse='44' WordSequence='11' >אֲשֶׁ֥ר</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='25' Verse='44' WordSequence='12' >מִגַּלִּֽים</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיָּבֹ֤אוּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='25' Verse='44' WordSequence='12'>מִגַּלִּֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיָּבֹ֤אוּ</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='1' WordSequence='2' >הַזִּפִים֙</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='1' WordSequence='4' >שָׁא֔וּל</Word>
@@ -11437,8 +11437,8 @@
 <Word Book='ShemuelA' Chapter='26' Verse='7' WordSequence='18' >וְהָעָ֔ם</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='7' WordSequence='19' >שֹׁכְבִ֖ים</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='7' WordSequence='20' >סביבתו</Word>
-<Word Book='ShemuelA' Chapter='26' Verse='7' WordSequence='21' >[סְבִיבֹתָֽיו]</Word>
-<Word Book='ShemuelA' Chapter='26' Verse='8' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='26' Verse='7' WordSequence='21' >[סְבִיבֹתָֽיו]</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='26' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='8' WordSequence='2' >אֲבִישַׁי֙</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='8' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='8' WordSequence='4' >דָּוִ֔ד</Word>
@@ -11470,8 +11470,8 @@
 <Word Book='ShemuelA' Chapter='26' Verse='9' WordSequence='10' >יָד֛וֹ</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='9' WordSequence='11' >בִּמְשִׁ֥יחַ</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='9' WordSequence='12' >יְהוָ֖ה</Word>
-<Word Book='ShemuelA' Chapter='26' Verse='9' WordSequence='13' IsParashaPtuchah='true' >וְנִקָּֽה</Word>
-<Word Book='ShemuelA' Chapter='26' Verse='10' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='26' Verse='9' WordSequence='13'>וְנִקָּֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='26' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='10' WordSequence='2' >דָּוִד֙</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='10' WordSequence='3' >חַי־</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='10' WordSequence='4' >יְהוָ֔ה</Word>
@@ -11562,8 +11562,8 @@
 <Word Book='ShemuelA' Chapter='26' Verse='14' WordSequence='17' >אַתָּ֖ה</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='14' WordSequence='18' >קָרָ֥אתָ</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='14' WordSequence='19' >אֶל־</Word>
-<Word Book='ShemuelA' Chapter='26' Verse='14' WordSequence='20' IsParashaPtuchah='true' >הַמֶּֽלֶךְ</Word>
-<Word Book='ShemuelA' Chapter='26' Verse='15' WordSequence='1' >וַיֹּאמֶר֩</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='26' Verse='14' WordSequence='20'>הַמֶּֽלֶךְ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='26' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמֶר֩</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='15' WordSequence='2' >דָּוִ֨ד</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='15' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='15' WordSequence='4' >אַבְנֵ֜ר</Word>
@@ -11764,8 +11764,8 @@
 <Word Book='ShemuelA' Chapter='26' Verse='24' WordSequence='12' >יְהוָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='24' WordSequence='13' >וְיַצִּלֵ֖נִי</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='24' WordSequence='14' >מִכָּל־</Word>
-<Word Book='ShemuelA' Chapter='26' Verse='24' WordSequence='15' IsParashaPtuchah='true' >צָרָֽה</Word>
-<Word Book='ShemuelA' Chapter='26' Verse='25' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='26' Verse='24' WordSequence='15'>צָרָֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='26' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='25' WordSequence='2' >שָׁא֜וּל</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='25' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='25' WordSequence='4' >דָּוִ֗ד</Word>
@@ -11784,8 +11784,8 @@
 <Word Book='ShemuelA' Chapter='26' Verse='25' WordSequence='17' >לְדַרְכּ֔וֹ</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='25' WordSequence='18' >וְשָׁא֖וּל</Word>
 <Word Book='ShemuelA' Chapter='26' Verse='25' WordSequence='19' >שָׁ֥ב</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='26' Verse='25' WordSequence='20' IsParashaPtuchah='true' >לִמְקוֹמֽוֹ</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='26' Verse='25' WordSequence='20'>לִמְקוֹמֽוֹ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='27' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='1' WordSequence='2' >דָּוִד֙</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='1' WordSequence='4' >לִבּ֔וֹ</Word>
@@ -11857,8 +11857,8 @@
 <Word Book='ShemuelA' Chapter='27' Verse='4' WordSequence='8' >יוסף</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='4' WordSequence='9' >[יָסַ֥ף]</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='4' WordSequence='10' >ע֖וֹד</Word>
-<Word Book='ShemuelA' Chapter='27' Verse='4' WordSequence='11' >לְבַקְשֽׁוֹ</Word>
-<Word Book='ShemuelA' Chapter='27' Verse='5' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='27' Verse='4' WordSequence='11' >לְבַקְשֽׁוֹ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='27' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='5' WordSequence='2' >דָּוִ֜ד</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='5' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='5' WordSequence='4' >אָכִ֗ישׁ</Word>
@@ -11895,8 +11895,8 @@
 <Word Book='ShemuelA' Chapter='27' Verse='6' WordSequence='12' >יְהוּדָ֔ה</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='6' WordSequence='13' >עַ֖ד</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='6' WordSequence='14' >הַיּ֥וֹם</Word>
-<Word Book='ShemuelA' Chapter='27' Verse='6' WordSequence='15' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='ShemuelA' Chapter='27' Verse='7' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='27' Verse='6' WordSequence='15'>הַזֶּֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='27' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='7' WordSequence='2' >מִסְפַּ֣ר</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='7' WordSequence='3' >הַיָּמִ֔ים</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='7' WordSequence='4' >אֲשֶׁר־</Word>
@@ -11995,8 +11995,8 @@
 <Word Book='ShemuelA' Chapter='27' Verse='12' WordSequence='9' >וְהָ֥יָה</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='12' WordSequence='10' >לִ֖י</Word>
 <Word Book='ShemuelA' Chapter='27' Verse='12' WordSequence='11' >לְעֶ֥בֶד</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='27' Verse='12' WordSequence='12' IsParashaPtuchah='true' >עוֹלָֽם</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='27' Verse='12' WordSequence='12'>עוֹלָֽם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='28' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='1' WordSequence='2' >בַּיָּמִ֣ים</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='1' WordSequence='3' >הָהֵ֔ם</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='1' WordSequence='4' >וַיִּקְבְּצ֨וּ</Word>
@@ -12038,8 +12038,8 @@
 <Word Book='ShemuelA' Chapter='28' Verse='2' WordSequence='18' >לְרֹאשִׁ֛י</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='2' WordSequence='19' >אֲשִֽׂימְךָ֖</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='2' WordSequence='20' >כָּל־</Word>
-<Word Book='ShemuelA' Chapter='28' Verse='2' WordSequence='21' IsParashaPtuchah='true' >הַיָּמִֽים</Word>
-<Word Book='ShemuelA' Chapter='28' Verse='3' WordSequence='1' >וּשְׁמוּאֵ֣ל</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='28' Verse='2' WordSequence='21'>הַיָּמִֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='28' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וּשְׁמוּאֵ֣ל</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='3' WordSequence='2' >מֵ֔ת</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='3' WordSequence='3' >וַיִּסְפְּדוּ־</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='3' WordSequence='4' >לוֹ֙</Word>
@@ -12233,8 +12233,8 @@
 <Word Book='ShemuelA' Chapter='28' Verse='14' WordSequence='17' >וַיִּקֹּ֥ד</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='14' WordSequence='18' >אַפַּ֛יִם</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='14' WordSequence='19' >אַ֖רְצָה</Word>
-<Word Book='ShemuelA' Chapter='28' Verse='14' WordSequence='20' >וַיִּשְׁתָּֽחוּ</Word>
-<Word Book='ShemuelA' Chapter='28' Verse='15' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='28' Verse='14' WordSequence='20' >וַיִּשְׁתָּֽחוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='28' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='15' WordSequence='2' >שְׁמוּאֵל֙</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='15' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='15' WordSequence='4' >שָׁא֔וּל</Word>
@@ -12265,8 +12265,8 @@
 <Word Book='ShemuelA' Chapter='28' Verse='15' WordSequence='29' >לְךָ֔</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='15' WordSequence='30' >לְהוֹדִיעֵ֖נִי</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='15' WordSequence='31' >מָ֥ה</Word>
-<Word Book='ShemuelA' Chapter='28' Verse='15' WordSequence='32' >אֶעֱשֶֽׂה</Word>
-<Word Book='ShemuelA' Chapter='28' Verse='16' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='28' Verse='15' WordSequence='32' >אֶעֱשֶֽׂה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='28' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='16' WordSequence='2' >שְׁמוּאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='16' WordSequence='3' >וְלָ֖מָּה</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='16' WordSequence='4' >תִּשְׁאָלֵ֑נִי</Word>
@@ -12428,8 +12428,8 @@
 <Word Book='ShemuelA' Chapter='28' Verse='25' WordSequence='7' >וַיָּקֻ֥מוּ</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='25' WordSequence='8' >וַיֵּלְכ֖וּ</Word>
 <Word Book='ShemuelA' Chapter='28' Verse='25' WordSequence='9' >בַּלַּ֥יְלָה</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='28' Verse='25' WordSequence='10' IsParashaPtuchah='true' >הַהֽוּא</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>וַיִּקְבְּצ֧וּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='28' Verse='25' WordSequence='10'>הַהֽוּא</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='29' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְבְּצ֧וּ</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='1' WordSequence='2' >פְלִשְׁתִּ֛ים</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='1' WordSequence='4' >כָּל־</Word>
@@ -12485,8 +12485,8 @@
 <Word Book='ShemuelA' Chapter='29' Verse='3' WordSequence='32' >נָפְל֖וֹ</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='3' WordSequence='33' >עַד־</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='3' WordSequence='34' >הַיּ֥וֹם</Word>
-<Word Book='ShemuelA' Chapter='29' Verse='3' WordSequence='35' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='ShemuelA' Chapter='29' Verse='4' WordSequence='1' >וַיִּקְצְפ֨וּ</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='29' Verse='3' WordSequence='35'>הַזֶּֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='29' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְצְפ֨וּ</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='4' WordSequence='2' >עָלָ֜יו</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='4' WordSequence='3' >שָׂרֵ֣י</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='4' WordSequence='4' >פְלִשְׁתִּ֗ים</Word>
@@ -12534,8 +12534,8 @@
 <Word Book='ShemuelA' Chapter='29' Verse='5' WordSequence='11' >בַּֽאֲלָפָ֔יו</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='5' WordSequence='12' >וְדָוִ֖ד</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='5' WordSequence='13' >ברבבתו</Word>
-<Word Book='ShemuelA' Chapter='29' Verse='5' WordSequence='14' >[בְּרִבְבֹתָֽיו]</Word>
-<Word Book='ShemuelA' Chapter='29' Verse='6' WordSequence='1' >וַיִּקְרָ֨א</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='29' Verse='5' WordSequence='14' >[בְּרִבְבֹתָֽיו]</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='29' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרָ֨א</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='6' WordSequence='2' >אָכִ֜ישׁ</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='6' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='6' WordSequence='4' >דָּוִ֗ד</Word>
@@ -12577,8 +12577,8 @@
 <Word Book='ShemuelA' Chapter='29' Verse='7' WordSequence='7' >רָ֔ע</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='7' WordSequence='8' >בְּעֵינֵ֖י</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='7' WordSequence='9' >סַרְנֵ֥י</Word>
-<Word Book='ShemuelA' Chapter='29' Verse='7' WordSequence='10' >פְלִשְׁתִּֽים</Word>
-<Word Book='ShemuelA' Chapter='29' Verse='8' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='29' Verse='7' WordSequence='10' >פְלִשְׁתִּֽים</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='29' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='8' WordSequence='2' >דָּוִ֜ד</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='8' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='8' WordSequence='4' >אָכִ֗ישׁ</Word>
@@ -12647,8 +12647,8 @@
 <Word Book='ShemuelA' Chapter='29' Verse='11' WordSequence='10' >פְּלִשְׁתִּ֑ים</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='11' WordSequence='11' >וּפְלִשְׁתִּ֖ים</Word>
 <Word Book='ShemuelA' Chapter='29' Verse='11' WordSequence='12' >עָל֥וּ</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='29' Verse='11' WordSequence='13' IsParashaPtuchah='true' >יִזְרְעֶֽאל</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וַיְהִ֞י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='29' Verse='11' WordSequence='13' >יִזְרְעֶֽאל</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='30' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֞י</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='1' WordSequence='2' >בְּבֹ֨א</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='1' WordSequence='3' >דָוִ֧ד</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='1' WordSequence='4' >וַאֲנָשָׁ֛יו</Word>
@@ -12738,8 +12738,8 @@
 <Word Book='ShemuelA' Chapter='30' Verse='6' WordSequence='19' >וַיִּתְחַזֵּ֣ק</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='6' WordSequence='20' >דָּוִ֔ד</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='6' WordSequence='21' >בַּיהוָ֖ה</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='6' WordSequence='22' >אֱלֹהָֽיו</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='7' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='30' Verse='6' WordSequence='22' >אֱלֹהָֽיו</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='30' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='7' WordSequence='2' >דָּוִ֗ד</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='7' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='7' WordSequence='4' >אֶבְיָתָ֤ר</Word>
@@ -12836,8 +12836,8 @@
 <Word Book='ShemuelA' Chapter='30' Verse='12' WordSequence='18' >שְׁלֹשָׁ֥ה</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='12' WordSequence='19' >יָמִ֖ים</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='12' WordSequence='20' >וּשְׁלֹשָׁ֥ה</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='12' WordSequence='21' >לֵילֽוֹת</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='13' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='30' Verse='12' WordSequence='21' >לֵילֽוֹת</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='30' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='13' WordSequence='2' >ל֤וֹ</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='13' WordSequence='3' >דָוִד֙</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='13' WordSequence='4' >לְֽמִי־</Word>
@@ -13004,8 +13004,8 @@
 <Word Book='ShemuelA' Chapter='30' Verse='21' WordSequence='24' >הָעָ֔ם</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='21' WordSequence='25' >וַיִּשְׁאַ֥ל</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='21' WordSequence='26' >לָהֶ֖ם</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='21' WordSequence='27' >לְשָׁלֽוֹם</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='22' WordSequence='1' >וַיַּ֜עַן</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='30' Verse='21' WordSequence='27' >לְשָׁלֽוֹם</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='30' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֜עַן</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='22' WordSequence='2' >כָּל־</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='22' WordSequence='3' >אִֽישׁ־</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='22' WordSequence='4' >רָ֣ע</Word>
@@ -13035,8 +13035,8 @@
 <Word Book='ShemuelA' Chapter='30' Verse='22' WordSequence='28' >וְאֶת־</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='22' WordSequence='29' >בָּנָ֔יו</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='22' WordSequence='30' >וְיִנְהֲג֖וּ</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='22' WordSequence='31' >וְיֵלֵֽכוּ</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='23' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='30' Verse='22' WordSequence='31' >וְיֵלֵֽכוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='30' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='23' WordSequence='2' >דָּוִ֔ד</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='23' WordSequence='3' >לֹֽא־</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='23' WordSequence='4' >תַעֲשׂ֥וּ</Word>
@@ -13069,8 +13069,8 @@
 <Word Book='ShemuelA' Chapter='30' Verse='24' WordSequence='12' >עַל־</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='24' WordSequence='13' >הַכֵּלִ֖ים</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='24' WordSequence='14' >יַחְדָּ֥ו</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='24' WordSequence='15' >יַחֲלֹֽקוּ</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='25' WordSequence='1' >וַיְהִ֕י</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='30' Verse='24' WordSequence='15' >יַחֲלֹֽקוּ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='30' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֕י</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='25' WordSequence='2' >מֵֽהַיּ֥וֹם</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='25' WordSequence='3' >הַה֖וּא</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='25' WordSequence='4' >וָמָ֑עְלָה</Word>
@@ -13080,8 +13080,8 @@
 <Word Book='ShemuelA' Chapter='30' Verse='25' WordSequence='8' >לְיִשְׂרָאֵ֔ל</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='25' WordSequence='9' >עַ֖ד</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='25' WordSequence='10' >הַיּ֥וֹם</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='25' WordSequence='11' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='26' WordSequence='1' >וַיָּבֹ֤א</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='30' Verse='25' WordSequence='11'>הַזֶּֽה</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='30' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֤א</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='26' WordSequence='2' >דָוִד֙</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='26' WordSequence='3' >אֶל־</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='26' WordSequence='4' >צִ֣קְלַ֔ג</Word>
@@ -13110,8 +13110,8 @@
 <Word Book='ShemuelA' Chapter='30' Verse='28' WordSequence='3' >וְלַאֲשֶׁ֥ר</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='28' WordSequence='4' >בְּשִֽׂפְמ֖וֹת</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='28' WordSequence='5' >וְלַאֲשֶׁ֥ר</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='28' WordSequence='6' >בְּאֶשְׁתְּמֹֽעַ</Word>
-<Word Book='ShemuelA' Chapter='30' Verse='29' WordSequence='1' >וְלַאֲשֶׁ֣ר</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='30' Verse='28' WordSequence='6' >בְּאֶשְׁתְּמֹֽעַ</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='30' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וְלַאֲשֶׁ֣ר</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='29' WordSequence='2' >בְּרָכָ֗ל</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='29' WordSequence='3' >וְלַֽאֲשֶׁר֙</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='29' WordSequence='4' >בְּעָרֵ֣י</Word>
@@ -13135,8 +13135,8 @@
 <Word Book='ShemuelA' Chapter='30' Verse='31' WordSequence='7' >שָׁ֥ם</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='31' WordSequence='8' >דָּוִ֖ד</Word>
 <Word Book='ShemuelA' Chapter='30' Verse='31' WordSequence='9' >ה֥וּא</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='30' Verse='31' WordSequence='10' IsParashaPtuchah='true' >וַאֲנָשָֽׁיו</Word>
-<Word Book='ShemuelA' StartPerekBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>וּפְלִשְׁתִּ֖ים</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='30' Verse='31' WordSequence='10'>וַאֲנָשָֽׁיו</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='31' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּפְלִשְׁתִּ֖ים</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='1' WordSequence='2' >נִלְחָמִ֣ים</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='1' WordSequence='3' >בְּיִשְׂרָאֵ֑ל</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='1' WordSequence='4' >וַיָּנֻ֜סוּ</Word>
@@ -13253,8 +13253,8 @@
 <Word Book='ShemuelA' Chapter='31' Verse='7' WordSequence='22' >וַיָּבֹ֣אוּ</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='7' WordSequence='23' >פְלִשְׁתִּ֔ים</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='7' WordSequence='24' >וַיֵּֽשְׁב֖וּ</Word>
-<Word Book='ShemuelA' Chapter='31' Verse='7' WordSequence='25' >בָּהֶֽן</Word>
-<Word Book='ShemuelA' Chapter='31' Verse='8' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='31' Verse='7' WordSequence='25' >בָּהֶֽן</Word>
+<Word Book='ShemuelA' StartParashaBeforeWord='true' Chapter='31' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='8' WordSequence='2' >מִֽמָּחֳרָ֔ת</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='8' WordSequence='3' >וַיָּבֹ֣אוּ</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='8' WordSequence='4' >פְלִשְׁתִּ֔ים</Word>
@@ -13337,5 +13337,5 @@
 <Word Book='ShemuelA' Chapter='31' Verse='13' WordSequence='7' >בְּיָבֵ֑שָׁה</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='13' WordSequence='8' >וַיָּצֻ֖מוּ</Word>
 <Word Book='ShemuelA' Chapter='31' Verse='13' WordSequence='9' >שִׁבְעַ֥ת</Word>
-<Word Book='ShemuelA' EndPerekAfterWord='true' Chapter='31' Verse='13' WordSequence='10' IsParashaPtuchah='true' >יָמִֽים</Word>
+<Word Book='ShemuelA' EndParashaAfterWord='true' Chapter='31' Verse='13' WordSequence='10'>יָמִֽים</Word>
 </Tanakh>

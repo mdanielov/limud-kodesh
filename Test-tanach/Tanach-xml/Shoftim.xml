@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
 <Word Book='Shoftim' Chapter='1' Verse='1' WordSequence='2' >אַחֲרֵי֙</Word>
 <Word Book='Shoftim' Chapter='1' Verse='1' WordSequence='3' >מ֣וֹת</Word>
 <Word Book='Shoftim' Chapter='1' Verse='1' WordSequence='4' >יְהוֹשֻׁ֔עַ</Word>
@@ -101,8 +101,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='7' WordSequence='20' >וַיְבִיאֻ֥הוּ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='7' WordSequence='21' >יְרוּשָׁלִַ֖ם</Word>
 <Word Book='Shoftim' Chapter='1' Verse='7' WordSequence='22' >וַיָּ֥מָת</Word>
-<Word Book='Shoftim' Chapter='1' Verse='7' WordSequence='23' IsParashaPtuchah='true' >שָֽׁם</Word>
-<Word Book='Shoftim' Chapter='1' Verse='8' WordSequence='1' >וַיִּלָּחֲמ֤וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='7' WordSequence='23'>שָֽׁם</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיִּלָּחֲמ֤וּ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='8' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Shoftim' Chapter='1' Verse='8' WordSequence='3' >יְהוּדָה֙</Word>
 <Word Book='Shoftim' Chapter='1' Verse='8' WordSequence='4' >בִּיר֣וּשָׁלִַ֔ם</Word>
@@ -217,8 +217,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='15' WordSequence='19' >עִלִּ֔ית</Word>
 <Word Book='Shoftim' Chapter='1' Verse='15' WordSequence='20' >וְאֵ֖ת</Word>
 <Word Book='Shoftim' Chapter='1' Verse='15' WordSequence='21' >גֻּלֹּ֥ת</Word>
-<Word Book='Shoftim' Chapter='1' Verse='15' WordSequence='22' IsParashaPtuchah='true' >תַּחְתִּֽית</Word>
-<Word Book='Shoftim' Chapter='1' Verse='16' WordSequence='1' >וּבְנֵ֣י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='15' WordSequence='22'>תַּחְתִּֽית</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וּבְנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='1' Verse='16' WordSequence='2' >קֵינִי֩</Word>
 <Word Book='Shoftim' Chapter='1' Verse='16' WordSequence='3' >חֹתֵ֨ן</Word>
 <Word Book='Shoftim' Chapter='1' Verse='16' WordSequence='4' >מֹשֶׁ֜ה</Word>
@@ -314,8 +314,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='21' WordSequence='14' >בִּיר֣וּשָׁלִַ֔ם</Word>
 <Word Book='Shoftim' Chapter='1' Verse='21' WordSequence='15' >עַ֖ד</Word>
 <Word Book='Shoftim' Chapter='1' Verse='21' WordSequence='16' >הַיּ֥וֹם</Word>
-<Word Book='Shoftim' Chapter='1' Verse='21' WordSequence='17' >הַזֶּֽה</Word>
-<Word Book='Shoftim' Chapter='1' Verse='22' WordSequence='1' >וַיַּעֲל֧וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='21' WordSequence='17' >הַזֶּֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲל֧וּ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='22' WordSequence='2' >בֵית־</Word>
 <Word Book='Shoftim' Chapter='1' Verse='22' WordSequence='3' >יוֹסֵ֛ף</Word>
 <Word Book='Shoftim' Chapter='1' Verse='22' WordSequence='4' >גַּם־</Word>
@@ -377,8 +377,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='26' WordSequence='11' >שְׁמָ֔הּ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='26' WordSequence='12' >עַ֖ד</Word>
 <Word Book='Shoftim' Chapter='1' Verse='26' WordSequence='13' >הַיּ֥וֹם</Word>
-<Word Book='Shoftim' Chapter='1' Verse='26' WordSequence='14' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Shoftim' Chapter='1' Verse='27' WordSequence='1' >וְלֹא־</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='26' WordSequence='14'>הַזֶּֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וְלֹא־</Word>
 <Word Book='Shoftim' Chapter='1' Verse='27' WordSequence='2' >הוֹרִ֣ישׁ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='27' WordSequence='3' >מְנַשֶּׁ֗ה</Word>
 <Word Book='Shoftim' Chapter='1' Verse='27' WordSequence='4' >אֶת־</Word>
@@ -421,8 +421,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='28' WordSequence='8' >לָמַ֑ס</Word>
 <Word Book='Shoftim' Chapter='1' Verse='28' WordSequence='9' >וְהוֹרֵ֖ישׁ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='28' WordSequence='10' >לֹ֥א</Word>
-<Word Book='Shoftim' Chapter='1' Verse='28' WordSequence='11' >הוֹרִישֽׁוֹ</Word>
-<Word Book='Shoftim' Chapter='1' Verse='29' WordSequence='1' >וְאֶפְרַ֙יִם֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='28' WordSequence='11' >הוֹרִישֽׁוֹ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וְאֶפְרַ֙יִם֙</Word>
 <Word Book='Shoftim' Chapter='1' Verse='29' WordSequence='2' >לֹ֣א</Word>
 <Word Book='Shoftim' Chapter='1' Verse='29' WordSequence='3' >הוֹרִ֔ישׁ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='29' WordSequence='4' >אֶת־</Word>
@@ -432,8 +432,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='29' WordSequence='8' >וַיֵּ֧שֶׁב</Word>
 <Word Book='Shoftim' Chapter='1' Verse='29' WordSequence='9' >הַֽכְּנַעֲנִ֛י</Word>
 <Word Book='Shoftim' Chapter='1' Verse='29' WordSequence='10' >בְּקִרְבּ֖וֹ</Word>
-<Word Book='Shoftim' Chapter='1' Verse='29' WordSequence='11' IsParashaPtuchah='true' >בְּגָֽזֶר</Word>
-<Word Book='Shoftim' Chapter='1' Verse='30' WordSequence='1' >זְבוּלֻ֗ן</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='29' WordSequence='11'>בְּגָֽזֶר</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='30' WordSequence='1' IsParashaPtuchah='true' >זְבוּלֻ֗ן</Word>
 <Word Book='Shoftim' Chapter='1' Verse='30' WordSequence='2' >לֹ֤א</Word>
 <Word Book='Shoftim' Chapter='1' Verse='30' WordSequence='3' >הוֹרִישׁ֙</Word>
 <Word Book='Shoftim' Chapter='1' Verse='30' WordSequence='4' >אֶת־</Word>
@@ -446,8 +446,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='30' WordSequence='11' >הַֽכְּנַעֲנִי֙</Word>
 <Word Book='Shoftim' Chapter='1' Verse='30' WordSequence='12' >בְּקִרְבּ֔וֹ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='30' WordSequence='13' >וַיִּֽהְי֖וּ</Word>
-<Word Book='Shoftim' Chapter='1' Verse='30' WordSequence='14' >לָמַֽס</Word>
-<Word Book='Shoftim' Chapter='1' Verse='31' WordSequence='1' >אָשֵׁ֗ר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='30' WordSequence='14' >לָמַֽס</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='31' WordSequence='1' IsParashaPtuchah='true' >אָשֵׁ֗ר</Word>
 <Word Book='Shoftim' Chapter='1' Verse='31' WordSequence='2' >לֹ֤א</Word>
 <Word Book='Shoftim' Chapter='1' Verse='31' WordSequence='3' >הוֹרִישׁ֙</Word>
 <Word Book='Shoftim' Chapter='1' Verse='31' WordSequence='4' >אֶת־</Word>
@@ -474,8 +474,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='32' WordSequence='6' >הָאָ֑רֶץ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='32' WordSequence='7' >כִּ֖י</Word>
 <Word Book='Shoftim' Chapter='1' Verse='32' WordSequence='8' >לֹ֥א</Word>
-<Word Book='Shoftim' Chapter='1' Verse='32' WordSequence='9' >הוֹרִישֽׁוֹ</Word>
-<Word Book='Shoftim' Chapter='1' Verse='33' WordSequence='1' >נַפְתָּלִ֗י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='32' WordSequence='9' >הוֹרִישֽׁוֹ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='33' WordSequence='1' IsParashaPtuchah='true' >נַפְתָּלִ֗י</Word>
 <Word Book='Shoftim' Chapter='1' Verse='33' WordSequence='2' >לֹֽא־</Word>
 <Word Book='Shoftim' Chapter='1' Verse='33' WordSequence='3' >הוֹרִ֞ישׁ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='33' WordSequence='4' >אֶת־</Word>
@@ -498,8 +498,8 @@
 <Word Book='Shoftim' Chapter='1' Verse='33' WordSequence='21' >עֲנָ֔ת</Word>
 <Word Book='Shoftim' Chapter='1' Verse='33' WordSequence='22' >הָי֥וּ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='33' WordSequence='23' >לָהֶ֖ם</Word>
-<Word Book='Shoftim' Chapter='1' Verse='33' WordSequence='24' >לָמַֽס</Word>
-<Word Book='Shoftim' Chapter='1' Verse='34' WordSequence='1' >וַיִּלְחֲצ֧וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='33' WordSequence='24' >לָמַֽס</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='1' Verse='34' WordSequence='1' IsParashaPtuchah='true' >וַיִּלְחֲצ֧וּ</Word>
 <Word Book='Shoftim' Chapter='1' Verse='34' WordSequence='2' >הָאֱמֹרִ֛י</Word>
 <Word Book='Shoftim' Chapter='1' Verse='34' WordSequence='3' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='1' Verse='34' WordSequence='4' >בְּנֵי־</Word>
@@ -528,14 +528,14 @@
 <Word Book='Shoftim' Chapter='1' Verse='36' WordSequence='3' >מִֽמַּעֲלֵ֖ה</Word>
 <Word Book='Shoftim' Chapter='1' Verse='36' WordSequence='4' >עַקְרַבִּ֑ים</Word>
 <Word Book='Shoftim' Chapter='1' Verse='36' WordSequence='5' >מֵהַסֶּ֖לַע</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='1' Verse='36' WordSequence='6' IsParashaPtuchah='true' >וָמָֽעְלָה</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיַּ֧עַל</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='1' Verse='36' WordSequence='6'>וָמָֽעְלָה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֧עַל</Word>
 <Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='2' >מַלְאַךְ־</Word>
 <Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='3' >יְהוָ֛ה</Word>
 <Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='4' >מִן־</Word>
 <Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='5' >הַגִּלְגָּ֖ל</Word>
 <Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='6' >אֶל־</Word>
-<Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='7' IsParashaPtuchah='true' >הַבֹּכִ֑ים</Word>
+<Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='7' >הַבֹּכִ֑ים</Word>
 <Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='9' >וַיֹּאמֶר֩</Word>
 <Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='10' >אַעֲלֶ֨ה</Word>
 <Word Book='Shoftim' Chapter='2' Verse='1' WordSequence='11' >אֶתְכֶ֜ם</Word>
@@ -604,8 +604,8 @@
 <Word Book='Shoftim' Chapter='2' Verse='5' WordSequence='5' >בֹּכִ֑ים</Word>
 <Word Book='Shoftim' Chapter='2' Verse='5' WordSequence='6' >וַיִּזְבְּחוּ־</Word>
 <Word Book='Shoftim' Chapter='2' Verse='5' WordSequence='7' >שָׁ֖ם</Word>
-<Word Book='Shoftim' Chapter='2' Verse='5' WordSequence='8' IsParashaPtuchah='true' >לַֽיהוָֽה</Word>
-<Word Book='Shoftim' Chapter='2' Verse='6' WordSequence='1' >וַיְשַׁלַּ֥ח</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='2' Verse='5' WordSequence='8'>לַֽיהוָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='2' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיְשַׁלַּ֥ח</Word>
 <Word Book='Shoftim' Chapter='2' Verse='6' WordSequence='2' >יְהוֹשֻׁ֖עַ</Word>
 <Word Book='Shoftim' Chapter='2' Verse='6' WordSequence='3' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='2' Verse='6' WordSequence='4' >הָעָ֑ם</Word>
@@ -684,8 +684,8 @@
 <Word Book='Shoftim' Chapter='2' Verse='10' WordSequence='19' >הַֽמַּעֲשֶׂ֔ה</Word>
 <Word Book='Shoftim' Chapter='2' Verse='10' WordSequence='20' >אֲשֶׁ֥ר</Word>
 <Word Book='Shoftim' Chapter='2' Verse='10' WordSequence='21' >עָשָׂ֖ה</Word>
-<Word Book='Shoftim' Chapter='2' Verse='10' WordSequence='22' >לְיִשְׂרָאֵֽל</Word>
-<Word Book='Shoftim' Chapter='2' Verse='11' WordSequence='1' >וַיַּעֲשׂ֧וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='2' Verse='10' WordSequence='22' >לְיִשְׂרָאֵֽל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='2' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲשׂ֧וּ</Word>
 <Word Book='Shoftim' Chapter='2' Verse='11' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Shoftim' Chapter='2' Verse='11' WordSequence='3' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='Shoftim' Chapter='2' Verse='11' WordSequence='4' >אֶת־</Word>
@@ -891,8 +891,8 @@
 <Word Book='Shoftim' Chapter='2' Verse='23' WordSequence='9' >וְלֹ֥א</Word>
 <Word Book='Shoftim' Chapter='2' Verse='23' WordSequence='10' >נְתָנָ֖ם</Word>
 <Word Book='Shoftim' Chapter='2' Verse='23' WordSequence='11' >בְּיַד־</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='2' Verse='23' WordSequence='12' IsParashaPtuchah='true' >יְהוֹשֻֽׁעַ</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וְאֵ֤לֶּה</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='2' Verse='23' WordSequence='12'>יְהוֹשֻֽׁעַ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֤לֶּה</Word>
 <Word Book='Shoftim' Chapter='3' Verse='1' WordSequence='2' >הַגּוֹיִם֙</Word>
 <Word Book='Shoftim' Chapter='3' Verse='1' WordSequence='3' >אֲשֶׁ֣ר</Word>
 <Word Book='Shoftim' Chapter='3' Verse='1' WordSequence='4' >הִנִּ֣יחַ</Word>
@@ -976,8 +976,8 @@
 <Word Book='Shoftim' Chapter='3' Verse='6' WordSequence='9' >לִבְנֵיהֶ֑ם</Word>
 <Word Book='Shoftim' Chapter='3' Verse='6' WordSequence='10' >וַיַּעַבְד֖וּ</Word>
 <Word Book='Shoftim' Chapter='3' Verse='6' WordSequence='11' >אֶת־</Word>
-<Word Book='Shoftim' Chapter='3' Verse='6' WordSequence='12' IsParashaPtuchah='true' >אֱלֹהֵיהֶֽם</Word>
-<Word Book='Shoftim' Chapter='3' Verse='7' WordSequence='1' >וַיַּעֲשׂ֨וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='3' Verse='6' WordSequence='12'>אֱלֹהֵיהֶֽם</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='3' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲשׂ֨וּ</Word>
 <Word Book='Shoftim' Chapter='3' Verse='7' WordSequence='2' >בְנֵי־</Word>
 <Word Book='Shoftim' Chapter='3' Verse='7' WordSequence='3' >יִשְׂרָאֵ֤ל</Word>
 <Word Book='Shoftim' Chapter='3' Verse='7' WordSequence='4' >אֶת־</Word>
@@ -1060,8 +1060,8 @@
 <Word Book='Shoftim' Chapter='3' Verse='11' WordSequence='5' >וַיָּ֖מָת</Word>
 <Word Book='Shoftim' Chapter='3' Verse='11' WordSequence='6' >עָתְנִיאֵ֥ל</Word>
 <Word Book='Shoftim' Chapter='3' Verse='11' WordSequence='7' >בֶּן־</Word>
-<Word Book='Shoftim' Chapter='3' Verse='11' WordSequence='8' IsParashaPtuchah='true' >קְנַֽז</Word>
-<Word Book='Shoftim' Chapter='3' Verse='12' WordSequence='1' >וַיֹּסִ֙פוּ֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='3' Verse='11' WordSequence='8'>קְנַֽז</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='3' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיֹּסִ֙פוּ֙</Word>
 <Word Book='Shoftim' Chapter='3' Verse='12' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='3' Verse='12' WordSequence='3' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Shoftim' Chapter='3' Verse='12' WordSequence='4' >לַעֲשׂ֥וֹת</Word>
@@ -1106,8 +1106,8 @@
 <Word Book='Shoftim' Chapter='3' Verse='14' WordSequence='7' >מוֹאָ֔ב</Word>
 <Word Book='Shoftim' Chapter='3' Verse='14' WordSequence='8' >שְׁמוֹנֶ֥ה</Word>
 <Word Book='Shoftim' Chapter='3' Verse='14' WordSequence='9' >עֶשְׂרֵ֖ה</Word>
-<Word Book='Shoftim' Chapter='3' Verse='14' WordSequence='10' >שָׁנָֽה</Word>
-<Word Book='Shoftim' Chapter='3' Verse='15' WordSequence='1' >וַיִּזְעֲק֣וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='3' Verse='14' WordSequence='10' >שָׁנָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='3' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיִּזְעֲק֣וּ</Word>
 <Word Book='Shoftim' Chapter='3' Verse='15' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Shoftim' Chapter='3' Verse='15' WordSequence='3' >יִשְׂרָאֵל֮</Word>
 <Word Book='Shoftim' Chapter='3' Verse='15' WordSequence='4' >אֶל־</Word>
@@ -1354,8 +1354,8 @@
 <Word Book='Shoftim' Chapter='3' Verse='30' WordSequence='8' >וַתִּשְׁקֹ֥ט</Word>
 <Word Book='Shoftim' Chapter='3' Verse='30' WordSequence='9' >הָאָ֖רֶץ</Word>
 <Word Book='Shoftim' Chapter='3' Verse='30' WordSequence='10' >שְׁמוֹנִ֥ים</Word>
-<Word Book='Shoftim' Chapter='3' Verse='30' WordSequence='11' >שָׁנָֽה</Word>
-<Word Book='Shoftim' Chapter='3' Verse='31' WordSequence='1' >וְאַחֲרָ֤יו</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='3' Verse='30' WordSequence='11' >שָׁנָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='3' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וְאַחֲרָ֤יו</Word>
 <Word Book='Shoftim' Chapter='3' Verse='31' WordSequence='2' >הָיָה֙</Word>
 <Word Book='Shoftim' Chapter='3' Verse='31' WordSequence='3' >שַׁמְגַּ֣ר</Word>
 <Word Book='Shoftim' Chapter='3' Verse='31' WordSequence='4' >בֶּן־</Word>
@@ -1372,8 +1372,8 @@
 <Word Book='Shoftim' Chapter='3' Verse='31' WordSequence='15' >גַּם־</Word>
 <Word Book='Shoftim' Chapter='3' Verse='31' WordSequence='16' >ה֖וּא</Word>
 <Word Book='Shoftim' Chapter='3' Verse='31' WordSequence='17' >אֶת־</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='3' Verse='31' WordSequence='18' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיֹּסִ֙פוּ֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='3' Verse='31' WordSequence='18' >יִשְׂרָאֵֽל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּסִ֙פוּ֙</Word>
 <Word Book='Shoftim' Chapter='4' Verse='1' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='4' Verse='1' WordSequence='3' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Shoftim' Chapter='4' Verse='1' WordSequence='4' >לַעֲשׂ֥וֹת</Word>
@@ -1416,8 +1416,8 @@
 <Word Book='Shoftim' Chapter='4' Verse='3' WordSequence='16' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='Shoftim' Chapter='4' Verse='3' WordSequence='17' >בְּחָזְקָ֖ה</Word>
 <Word Book='Shoftim' Chapter='4' Verse='3' WordSequence='18' >עֶשְׂרִ֥ים</Word>
-<Word Book='Shoftim' Chapter='4' Verse='3' WordSequence='19' >שָׁנָֽה</Word>
-<Word Book='Shoftim' Chapter='4' Verse='4' WordSequence='1' >וּדְבוֹרָה֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='4' Verse='3' WordSequence='19' >שָׁנָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='4' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וּדְבוֹרָה֙</Word>
 <Word Book='Shoftim' Chapter='4' Verse='4' WordSequence='2' >אִשָּׁ֣ה</Word>
 <Word Book='Shoftim' Chapter='4' Verse='4' WordSequence='3' >נְבִיאָ֔ה</Word>
 <Word Book='Shoftim' Chapter='4' Verse='4' WordSequence='4' >אֵ֖שֶׁת</Word>
@@ -1568,8 +1568,8 @@
 <Word Book='Shoftim' Chapter='4' Verse='12' WordSequence='6' >בֶּן־</Word>
 <Word Book='Shoftim' Chapter='4' Verse='12' WordSequence='7' >אֲבִינֹ֖עַם</Word>
 <Word Book='Shoftim' Chapter='4' Verse='12' WordSequence='8' >הַר־</Word>
-<Word Book='Shoftim' Chapter='4' Verse='12' WordSequence='9' >תָּבֽוֹר</Word>
-<Word Book='Shoftim' Chapter='4' Verse='13' WordSequence='1' >וַיַּזְעֵ֨ק</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='4' Verse='12' WordSequence='9' >תָּבֽוֹר</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='4' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיַּזְעֵ֨ק</Word>
 <Word Book='Shoftim' Chapter='4' Verse='13' WordSequence='2' >סִֽיסְרָ֜א</Word>
 <Word Book='Shoftim' Chapter='4' Verse='13' WordSequence='3' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='4' Verse='13' WordSequence='4' >כָּל־</Word>
@@ -1795,8 +1795,8 @@
 <Word Book='Shoftim' Chapter='4' Verse='24' WordSequence='14' >אֵ֖ת</Word>
 <Word Book='Shoftim' Chapter='4' Verse='24' WordSequence='15' >יָבִ֥ין</Word>
 <Word Book='Shoftim' Chapter='4' Verse='24' WordSequence='16' >מֶֽלֶךְ־</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='4' Verse='24' WordSequence='17' IsParashaPtuchah='true' >כְּנָֽעַן</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וַתָּ֣שַׁר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='4' Verse='24' WordSequence='17'>כְּנָֽעַן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַתָּ֣שַׁר</Word>
 <Word Book='Shoftim' Chapter='5' Verse='1' WordSequence='2' >דְּבוֹרָ֔ה</Word>
 <Word Book='Shoftim' Chapter='5' Verse='1' WordSequence='3' >וּבָרָ֖ק</Word>
 <Word Book='Shoftim' Chapter='5' Verse='1' WordSequence='4' >בֶּן־</Word>
@@ -2159,8 +2159,8 @@
 <Word Book='Shoftim' Chapter='5' Verse='31' WordSequence='10' >וַתִּשְׁקֹ֥ט</Word>
 <Word Book='Shoftim' Chapter='5' Verse='31' WordSequence='11' >הָאָ֖רֶץ</Word>
 <Word Book='Shoftim' Chapter='5' Verse='31' WordSequence='12' >אַרְבָּעִ֥ים</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='5' Verse='31' WordSequence='13' IsParashaPtuchah='true' >שָׁנָֽה</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַיַּעֲשׂ֧וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='5' Verse='31' WordSequence='13'>שָׁנָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲשׂ֧וּ</Word>
 <Word Book='Shoftim' Chapter='6' Verse='1' WordSequence='2' >בְנֵי־</Word>
 <Word Book='Shoftim' Chapter='6' Verse='1' WordSequence='3' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='Shoftim' Chapter='6' Verse='1' WordSequence='4' >הָרַ֖ע</Word>
@@ -2244,8 +2244,8 @@
 <Word Book='Shoftim' Chapter='6' Verse='6' WordSequence='7' >בְנֵֽי־</Word>
 <Word Book='Shoftim' Chapter='6' Verse='6' WordSequence='8' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Shoftim' Chapter='6' Verse='6' WordSequence='9' >אֶל־</Word>
-<Word Book='Shoftim' Chapter='6' Verse='6' WordSequence='10' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Shoftim' Chapter='6' Verse='7' WordSequence='1' >וַיְהִ֕י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='6' Verse='6' WordSequence='10'>יְהוָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='6' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֕י</Word>
 <Word Book='Shoftim' Chapter='6' Verse='7' WordSequence='2' >כִּֽי־</Word>
 <Word Book='Shoftim' Chapter='6' Verse='7' WordSequence='3' >זָעֲק֥וּ</Word>
 <Word Book='Shoftim' Chapter='6' Verse='7' WordSequence='4' >בְנֵֽי־</Word>
@@ -2307,8 +2307,8 @@
 <Word Book='Shoftim' Chapter='6' Verse='10' WordSequence='14' >בְּאַרְצָ֑ם</Word>
 <Word Book='Shoftim' Chapter='6' Verse='10' WordSequence='15' >וְלֹ֥א</Word>
 <Word Book='Shoftim' Chapter='6' Verse='10' WordSequence='16' >שְׁמַעְתֶּ֖ם</Word>
-<Word Book='Shoftim' Chapter='6' Verse='10' WordSequence='17' IsParashaPtuchah='true' >בְּקוֹלִֽי</Word>
-<Word Book='Shoftim' Chapter='6' Verse='11' WordSequence='1' >וַיָּבֹ֞א</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='6' Verse='10' WordSequence='17'>בְּקוֹלִֽי</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='6' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֞א</Word>
 <Word Book='Shoftim' Chapter='6' Verse='11' WordSequence='2' >מַלְאַ֣ךְ</Word>
 <Word Book='Shoftim' Chapter='6' Verse='11' WordSequence='3' >יְהוָ֗ה</Word>
 <Word Book='Shoftim' Chapter='6' Verse='11' WordSequence='4' >וַיֵּ֙שֶׁב֙</Word>
@@ -2458,8 +2458,8 @@
 <Word Book='Shoftim' Chapter='6' Verse='19' WordSequence='17' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='6' Verse='19' WordSequence='18' >תַּ֥חַת</Word>
 <Word Book='Shoftim' Chapter='6' Verse='19' WordSequence='19' >הָאֵלָ֖ה</Word>
-<Word Book='Shoftim' Chapter='6' Verse='19' WordSequence='20' >וַיַּגַּֽשׁ</Word>
-<Word Book='Shoftim' Chapter='6' Verse='20' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='6' Verse='19' WordSequence='20' >וַיַּגַּֽשׁ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='6' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Shoftim' Chapter='6' Verse='20' WordSequence='2' >אֵלָ֜יו</Word>
 <Word Book='Shoftim' Chapter='6' Verse='20' WordSequence='3' >מַלְאַ֣ךְ</Word>
 <Word Book='Shoftim' Chapter='6' Verse='20' WordSequence='4' >הָאֱלֹהִ֗ים</Word>
@@ -2545,8 +2545,8 @@
 <Word Book='Shoftim' Chapter='6' Verse='24' WordSequence='13' >עוֹדֶ֕נּוּ</Word>
 <Word Book='Shoftim' Chapter='6' Verse='24' WordSequence='14' >בְּעָפְרָ֖ת</Word>
 <Word Book='Shoftim' Chapter='6' Verse='24' WordSequence='15' >אֲבִ֥י</Word>
-<Word Book='Shoftim' Chapter='6' Verse='24' WordSequence='16' IsParashaPtuchah='true' >הָעֶזְרִֽי</Word>
-<Word Book='Shoftim' Chapter='6' Verse='25' WordSequence='1' >וַיְהִי֮</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='6' Verse='24' WordSequence='16'>הָעֶזְרִֽי</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='6' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֮</Word>
 <Word Book='Shoftim' Chapter='6' Verse='25' WordSequence='2' >בַּלַּ֣יְלָה</Word>
 <Word Book='Shoftim' Chapter='6' Verse='25' WordSequence='3' >הַהוּא֒</Word>
 <Word Book='Shoftim' Chapter='6' Verse='25' WordSequence='4' >וַיֹּ֧אמֶר</Word>
@@ -2710,8 +2710,8 @@
 <Word Book='Shoftim' Chapter='6' Verse='32' WordSequence='10' >כִּ֥י</Word>
 <Word Book='Shoftim' Chapter='6' Verse='32' WordSequence='11' >נָתַ֖ץ</Word>
 <Word Book='Shoftim' Chapter='6' Verse='32' WordSequence='12' >אֶֽת־</Word>
-<Word Book='Shoftim' Chapter='6' Verse='32' WordSequence='13' IsParashaPtuchah='true' >מִזְבְּחֽוֹ</Word>
-<Word Book='Shoftim' Chapter='6' Verse='33' WordSequence='1' >וְכָל־</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='6' Verse='32' WordSequence='13'>מִזְבְּחֽוֹ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='6' Verse='33' WordSequence='1' IsParashaPtuchah='true' >וְכָל־</Word>
 <Word Book='Shoftim' Chapter='6' Verse='33' WordSequence='2' >מִדְיָ֧ן</Word>
 <Word Book='Shoftim' Chapter='6' Verse='33' WordSequence='3' >וַעֲמָלֵ֛ק</Word>
 <Word Book='Shoftim' Chapter='6' Verse='33' WordSequence='4' >וּבְנֵי־</Word>
@@ -2839,8 +2839,8 @@
 <Word Book='Shoftim' Chapter='6' Verse='40' WordSequence='12' >כָּל־</Word>
 <Word Book='Shoftim' Chapter='6' Verse='40' WordSequence='13' >הָאָ֖רֶץ</Word>
 <Word Book='Shoftim' Chapter='6' Verse='40' WordSequence='14' >הָ֥יָה</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='6' Verse='40' WordSequence='15' IsParashaPtuchah='true' >טָֽל</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיַּשְׁכֵּ֨ם</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='6' Verse='40' WordSequence='15'>טָֽל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּשְׁכֵּ֨ם</Word>
 <Word Book='Shoftim' Chapter='7' Verse='1' WordSequence='2' >יְרֻבַּ֜עַל</Word>
 <Word Book='Shoftim' Chapter='7' Verse='1' WordSequence='3' >ה֣וּא</Word>
 <Word Book='Shoftim' Chapter='7' Verse='1' WordSequence='4' >גִדְע֗וֹן</Word>
@@ -2901,8 +2901,8 @@
 <Word Book='Shoftim' Chapter='7' Verse='3' WordSequence='19' >אֶ֔לֶף</Word>
 <Word Book='Shoftim' Chapter='7' Verse='3' WordSequence='20' >וַעֲשֶׂ֥רֶת</Word>
 <Word Book='Shoftim' Chapter='7' Verse='3' WordSequence='21' >אֲלָפִ֖ים</Word>
-<Word Book='Shoftim' Chapter='7' Verse='3' WordSequence='22' >נִשְׁאָֽרוּ</Word>
-<Word Book='Shoftim' Chapter='7' Verse='4' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='7' Verse='3' WordSequence='22' >נִשְׁאָֽרוּ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='7' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Shoftim' Chapter='7' Verse='4' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Shoftim' Chapter='7' Verse='4' WordSequence='3' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='7' Verse='4' WordSequence='4' >גִּדְע֗וֹן</Word>
@@ -2980,8 +2980,8 @@
 <Word Book='Shoftim' Chapter='7' Verse='6' WordSequence='14' >עַל־</Word>
 <Word Book='Shoftim' Chapter='7' Verse='6' WordSequence='15' >בִּרְכֵיהֶ֖ם</Word>
 <Word Book='Shoftim' Chapter='7' Verse='6' WordSequence='16' >לִשְׁתּ֥וֹת</Word>
-<Word Book='Shoftim' Chapter='7' Verse='6' WordSequence='17' >מָֽיִם</Word>
-<Word Book='Shoftim' Chapter='7' Verse='7' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='7' Verse='6' WordSequence='17' >מָֽיִם</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='7' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Shoftim' Chapter='7' Verse='7' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Shoftim' Chapter='7' Verse='7' WordSequence='3' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='7' Verse='7' WordSequence='4' >גִּדְע֗וֹן</Word>
@@ -3023,8 +3023,8 @@
 <Word Book='Shoftim' Chapter='7' Verse='8' WordSequence='21' >הָ֥יָה</Word>
 <Word Book='Shoftim' Chapter='7' Verse='8' WordSequence='22' >ל֖וֹ</Word>
 <Word Book='Shoftim' Chapter='7' Verse='8' WordSequence='23' >מִתַּ֥חַת</Word>
-<Word Book='Shoftim' Chapter='7' Verse='8' WordSequence='24' IsParashaPtuchah='true' >בָּעֵֽמֶק</Word>
-<Word Book='Shoftim' Chapter='7' Verse='9' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='7' Verse='8' WordSequence='24'>בָּעֵֽמֶק</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='7' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Shoftim' Chapter='7' Verse='9' WordSequence='2' >בַּלַּ֣יְלָה</Word>
 <Word Book='Shoftim' Chapter='7' Verse='9' WordSequence='3' >הַה֔וּא</Word>
 <Word Book='Shoftim' Chapter='7' Verse='9' WordSequence='4' >וַיֹּ֤אמֶר</Word>
@@ -3128,8 +3128,8 @@
 <Word Book='Shoftim' Chapter='7' Verse='14' WordSequence='18' >מִדְיָ֖ן</Word>
 <Word Book='Shoftim' Chapter='7' Verse='14' WordSequence='19' >וְאֶת־</Word>
 <Word Book='Shoftim' Chapter='7' Verse='14' WordSequence='20' >כָּל־</Word>
-<Word Book='Shoftim' Chapter='7' Verse='14' WordSequence='21' IsParashaPtuchah='true' >הַֽמַּחֲנֶֽה</Word>
-<Word Book='Shoftim' Chapter='7' Verse='15' WordSequence='1' >וַיְהִי֩</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='7' Verse='14' WordSequence='21'>הַֽמַּחֲנֶֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='7' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֩</Word>
 <Word Book='Shoftim' Chapter='7' Verse='15' WordSequence='2' >כִשְׁמֹ֨עַ</Word>
 <Word Book='Shoftim' Chapter='7' Verse='15' WordSequence='3' >גִּדְע֜וֹן</Word>
 <Word Book='Shoftim' Chapter='7' Verse='15' WordSequence='4' >אֶת־</Word>
@@ -3198,8 +3198,8 @@
 <Word Book='Shoftim' Chapter='7' Verse='18' WordSequence='13' >הַֽמַּחֲנֶ֔ה</Word>
 <Word Book='Shoftim' Chapter='7' Verse='18' WordSequence='14' >וַאֲמַרְתֶּ֖ם</Word>
 <Word Book='Shoftim' Chapter='7' Verse='18' WordSequence='15' >לַיהוָ֥ה</Word>
-<Word Book='Shoftim' Chapter='7' Verse='18' WordSequence='16' IsParashaPtuchah='true' >וּלְגִדְעֽוֹן</Word>
-<Word Book='Shoftim' Chapter='7' Verse='19' WordSequence='1' >וַיָּבֹ֣א</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='7' Verse='18' WordSequence='16'>וּלְגִדְעֽוֹן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='7' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֣א</Word>
 <Word Book='Shoftim' Chapter='7' Verse='19' WordSequence='2' >גִ֠דְעוֹן</Word>
 <Word Book='Shoftim' Chapter='7' Verse='19' WordSequence='3' >וּמֵאָה־</Word>
 <Word Book='Shoftim' Chapter='7' Verse='19' WordSequence='4' >אִ֨ישׁ</Word>
@@ -3345,8 +3345,8 @@
 <Word Book='Shoftim' Chapter='7' Verse='25' WordSequence='26' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='7' Verse='25' WordSequence='27' >גִּדְע֔וֹן</Word>
 <Word Book='Shoftim' Chapter='7' Verse='25' WordSequence='28' >מֵעֵ֖בֶר</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='7' Verse='25' WordSequence='29' >לַיַּרְדֵּֽן</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיֹּאמְר֨וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='7' Verse='25' WordSequence='29'>לַיַּרְדֵּֽן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיֹּאמְר֨וּ</Word>
 <Word Book='Shoftim' Chapter='8' Verse='1' WordSequence='2' >אֵלָ֜יו</Word>
 <Word Book='Shoftim' Chapter='8' Verse='1' WordSequence='3' >אִ֣ישׁ</Word>
 <Word Book='Shoftim' Chapter='8' Verse='1' WordSequence='4' >אֶפְרַ֗יִם</Word>
@@ -3484,8 +3484,8 @@
 <Word Book='Shoftim' Chapter='8' Verse='9' WordSequence='8' >אֶתֹּ֖ץ</Word>
 <Word Book='Shoftim' Chapter='8' Verse='9' WordSequence='9' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='8' Verse='9' WordSequence='10' >הַמִּגְדָּ֥ל</Word>
-<Word Book='Shoftim' Chapter='8' Verse='9' WordSequence='11' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Shoftim' Chapter='8' Verse='10' WordSequence='1' >וְזֶ֨בַח</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='8' Verse='9' WordSequence='11'>הַזֶּֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='8' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וְזֶ֨בַח</Word>
 <Word Book='Shoftim' Chapter='8' Verse='10' WordSequence='2' >וְצַלְמֻנָּ֜ע</Word>
 <Word Book='Shoftim' Chapter='8' Verse='10' WordSequence='3' >בַּקַּרְקֹ֗ר</Word>
 <Word Book='Shoftim' Chapter='8' Verse='10' WordSequence='4' >וּמַחֲנֵיהֶ֤ם</Word>
@@ -3789,8 +3789,8 @@
 <Word Book='Shoftim' Chapter='8' Verse='28' WordSequence='12' >אַרְבָּעִ֥ים</Word>
 <Word Book='Shoftim' Chapter='8' Verse='28' WordSequence='13' >שָׁנָ֖ה</Word>
 <Word Book='Shoftim' Chapter='8' Verse='28' WordSequence='14' >בִּימֵ֥י</Word>
-<Word Book='Shoftim' Chapter='8' Verse='28' WordSequence='15' IsParashaPtuchah='true' >גִדְעֽוֹן</Word>
-<Word Book='Shoftim' Chapter='8' Verse='29' WordSequence='1' >וַיֵּ֛לֶךְ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='8' Verse='28' WordSequence='15'>גִדְעֽוֹן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='8' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֛לֶךְ</Word>
 <Word Book='Shoftim' Chapter='8' Verse='29' WordSequence='2' >יְרֻבַּ֥עַל</Word>
 <Word Book='Shoftim' Chapter='8' Verse='29' WordSequence='3' >בֶּן־</Word>
 <Word Book='Shoftim' Chapter='8' Verse='29' WordSequence='4' >יוֹאָ֖שׁ</Word>
@@ -3831,8 +3831,8 @@
 <Word Book='Shoftim' Chapter='8' Verse='32' WordSequence='10' >אָבִ֔יו</Word>
 <Word Book='Shoftim' Chapter='8' Verse='32' WordSequence='11' >בְּעָפְרָ֖ה</Word>
 <Word Book='Shoftim' Chapter='8' Verse='32' WordSequence='12' >אֲבִ֥י</Word>
-<Word Book='Shoftim' Chapter='8' Verse='32' WordSequence='13' IsParashaPtuchah='true' >הָֽעֶזְרִֽי</Word>
-<Word Book='Shoftim' Chapter='8' Verse='33' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='8' Verse='32' WordSequence='13'>הָֽעֶזְרִֽי</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='8' Verse='33' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Shoftim' Chapter='8' Verse='33' WordSequence='2' >כַּֽאֲשֶׁר֙</Word>
 <Word Book='Shoftim' Chapter='8' Verse='33' WordSequence='3' >מֵ֣ת</Word>
 <Word Book='Shoftim' Chapter='8' Verse='33' WordSequence='4' >גִּדְע֔וֹן</Word>
@@ -3872,8 +3872,8 @@
 <Word Book='Shoftim' Chapter='8' Verse='35' WordSequence='10' >אֲשֶׁ֥ר</Word>
 <Word Book='Shoftim' Chapter='8' Verse='35' WordSequence='11' >עָשָׂ֖ה</Word>
 <Word Book='Shoftim' Chapter='8' Verse='35' WordSequence='12' >עִם־</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='8' Verse='35' WordSequence='13' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיֵּ֨לֶךְ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='8' Verse='35' WordSequence='13'>יִשְׂרָאֵֽל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֨לֶךְ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='1' WordSequence='2' >אֲבִימֶ֤לֶךְ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='1' WordSequence='3' >בֶּן־</Word>
 <Word Book='Shoftim' Chapter='9' Verse='1' WordSequence='4' >יְרֻבַּ֙עַל֙</Word>
@@ -3971,8 +3971,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='5' WordSequence='18' >יְרֻבַּ֛עַל</Word>
 <Word Book='Shoftim' Chapter='9' Verse='5' WordSequence='19' >הַקָּטֹ֖ן</Word>
 <Word Book='Shoftim' Chapter='9' Verse='5' WordSequence='20' >כִּ֥י</Word>
-<Word Book='Shoftim' Chapter='9' Verse='5' WordSequence='21' >נֶחְבָּֽא</Word>
-<Word Book='Shoftim' Chapter='9' Verse='6' WordSequence='1' >וַיֵּאָ֨סְפ֜וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='5' WordSequence='21' >נֶחְבָּֽא</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֵּאָ֨סְפ֜וּ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='6' WordSequence='2' >כָּל־</Word>
 <Word Book='Shoftim' Chapter='9' Verse='6' WordSequence='3' >בַּעֲלֵ֤י</Word>
 <Word Book='Shoftim' Chapter='9' Verse='6' WordSequence='4' >שְׁכֶם֙</Word>
@@ -4211,8 +4211,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='21' WordSequence='7' >שָׁ֔ם</Word>
 <Word Book='Shoftim' Chapter='9' Verse='21' WordSequence='8' >מִפְּנֵ֖י</Word>
 <Word Book='Shoftim' Chapter='9' Verse='21' WordSequence='9' >אֲבִימֶ֥לֶךְ</Word>
-<Word Book='Shoftim' Chapter='9' Verse='21' WordSequence='10' IsParashaPtuchah='true' >אָחִֽיו</Word>
-<Word Book='Shoftim' Chapter='9' Verse='22' WordSequence='1' >וַיָּ֧שַׂר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='21' WordSequence='10'>אָחִֽיו</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֧שַׂר</Word>
 <Word Book='Shoftim' Chapter='9' Verse='22' WordSequence='2' >אֲבִימֶ֛לֶךְ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='22' WordSequence='3' >עַל־</Word>
 <Word Book='Shoftim' Chapter='9' Verse='22' WordSequence='4' >יִשְׂרָאֵ֖ל</Word>
@@ -4270,8 +4270,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='25' WordSequence='14' >עֲלֵיהֶ֖ם</Word>
 <Word Book='Shoftim' Chapter='9' Verse='25' WordSequence='15' >בַּדָּ֑רֶךְ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='25' WordSequence='16' >וַיֻּגַּ֖ד</Word>
-<Word Book='Shoftim' Chapter='9' Verse='25' WordSequence='17' IsParashaPtuchah='true' >לַאֲבִימֶֽלֶךְ</Word>
-<Word Book='Shoftim' Chapter='9' Verse='26' WordSequence='1' >וַיָּבֹ֞א</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='25' WordSequence='17'>לַאֲבִימֶֽלֶךְ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֞א</Word>
 <Word Book='Shoftim' Chapter='9' Verse='26' WordSequence='2' >גַּ֤עַל</Word>
 <Word Book='Shoftim' Chapter='9' Verse='26' WordSequence='3' >בֶּן־</Word>
 <Word Book='Shoftim' Chapter='9' Verse='26' WordSequence='4' >עֶ֙בֶד֙</Word>
@@ -4393,8 +4393,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='33' WordSequence='17' >לּ֔וֹ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='33' WordSequence='18' >כַּאֲשֶׁ֖ר</Word>
 <Word Book='Shoftim' Chapter='9' Verse='33' WordSequence='19' >תִּמְצָ֥א</Word>
-<Word Book='Shoftim' Chapter='9' Verse='33' WordSequence='20' >יָדֶֽךָ</Word>
-<Word Book='Shoftim' Chapter='9' Verse='34' WordSequence='1' >וַיָּ֧קָם</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='33' WordSequence='20' >יָדֶֽךָ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='34' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֧קָם</Word>
 <Word Book='Shoftim' Chapter='9' Verse='34' WordSequence='2' >אֲבִימֶ֛לֶךְ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='34' WordSequence='3' >וְכָל־</Word>
 <Word Book='Shoftim' Chapter='9' Verse='34' WordSequence='4' >הָעָ֥ם</Word>
@@ -4441,8 +4441,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='36' WordSequence='18' >הֶהָרִ֛ים</Word>
 <Word Book='Shoftim' Chapter='9' Verse='36' WordSequence='19' >אַתָּ֥ה</Word>
 <Word Book='Shoftim' Chapter='9' Verse='36' WordSequence='20' >רֹאֶ֖ה</Word>
-<Word Book='Shoftim' Chapter='9' Verse='36' WordSequence='21' >כָּאֲנָשִֽׁים</Word>
-<Word Book='Shoftim' Chapter='9' Verse='37' WordSequence='1' >וַיֹּ֨סֶף</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='36' WordSequence='21' >כָּאֲנָשִֽׁים</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='37' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨סֶף</Word>
 <Word Book='Shoftim' Chapter='9' Verse='37' WordSequence='2' >ע֣וֹד</Word>
 <Word Book='Shoftim' Chapter='9' Verse='37' WordSequence='3' >גַּעַל֮</Word>
 <Word Book='Shoftim' Chapter='9' Verse='37' WordSequence='4' >לְדַבֵּר֒</Word>
@@ -4481,8 +4481,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='38' WordSequence='20' >נָ֥א</Word>
 <Word Book='Shoftim' Chapter='9' Verse='38' WordSequence='21' >עַתָּ֖ה</Word>
 <Word Book='Shoftim' Chapter='9' Verse='38' WordSequence='22' >וְהִלָּ֥חֶם</Word>
-<Word Book='Shoftim' Chapter='9' Verse='38' WordSequence='23' >בּֽוֹ</Word>
-<Word Book='Shoftim' Chapter='9' Verse='39' WordSequence='1' >וַיֵּ֣צֵא</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='38' WordSequence='23' >בּֽוֹ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='39' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֣צֵא</Word>
 <Word Book='Shoftim' Chapter='9' Verse='39' WordSequence='2' >גַ֔עַל</Word>
 <Word Book='Shoftim' Chapter='9' Verse='39' WordSequence='3' >לִפְנֵ֖י</Word>
 <Word Book='Shoftim' Chapter='9' Verse='39' WordSequence='4' >בַּעֲלֵ֣י</Word>
@@ -4569,8 +4569,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='45' WordSequence='16' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='9' Verse='45' WordSequence='17' >הָעִ֔יר</Word>
 <Word Book='Shoftim' Chapter='9' Verse='45' WordSequence='18' >וַיִּזְרָעֶ֖הָ</Word>
-<Word Book='Shoftim' Chapter='9' Verse='45' WordSequence='19' IsParashaPtuchah='true' >מֶֽלַח</Word>
-<Word Book='Shoftim' Chapter='9' Verse='46' WordSequence='1' >וַֽיִּשְׁמְע֔וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='45' WordSequence='19'>מֶֽלַח</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='46' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּשְׁמְע֔וּ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='46' WordSequence='2' >כָּֽל־</Word>
 <Word Book='Shoftim' Chapter='9' Verse='46' WordSequence='3' >בַּעֲלֵ֖י</Word>
 <Word Book='Shoftim' Chapter='9' Verse='46' WordSequence='4' >מִֽגְדַּל־</Word>
@@ -4646,8 +4646,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='49' WordSequence='23' >שְׁכֶ֛ם</Word>
 <Word Book='Shoftim' Chapter='9' Verse='49' WordSequence='24' >כְּאֶ֖לֶף</Word>
 <Word Book='Shoftim' Chapter='9' Verse='49' WordSequence='25' >אִ֥ישׁ</Word>
-<Word Book='Shoftim' Chapter='9' Verse='49' WordSequence='26' IsParashaPtuchah='true' >וְאִשָּֽׁה</Word>
-<Word Book='Shoftim' Chapter='9' Verse='50' WordSequence='1' >וַיֵּ֥לֶךְ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='49' WordSequence='26'>וְאִשָּֽׁה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='9' Verse='50' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֥לֶךְ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='50' WordSequence='2' >אֲבִימֶ֖לֶךְ</Word>
 <Word Book='Shoftim' Chapter='9' Verse='50' WordSequence='3' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='9' Verse='50' WordSequence='4' >תֵּבֵ֑ץ</Word>
@@ -4749,8 +4749,8 @@
 <Word Book='Shoftim' Chapter='9' Verse='57' WordSequence='11' >קִֽלֲלַ֖ת</Word>
 <Word Book='Shoftim' Chapter='9' Verse='57' WordSequence='12' >יוֹתָ֥ם</Word>
 <Word Book='Shoftim' Chapter='9' Verse='57' WordSequence='13' >בֶּן־</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='9' Verse='57' WordSequence='14' IsParashaPtuchah='true' >יְרֻבָּֽעַל</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וַיָּקָם֩</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='9' Verse='57' WordSequence='14'>יְרֻבָּֽעַל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיָּקָם֩</Word>
 <Word Book='Shoftim' Chapter='10' Verse='1' WordSequence='2' >אַחֲרֵ֨י</Word>
 <Word Book='Shoftim' Chapter='10' Verse='1' WordSequence='3' >אֲבִימֶ֜לֶךְ</Word>
 <Word Book='Shoftim' Chapter='10' Verse='1' WordSequence='4' >לְהוֹשִׁ֣יעַ</Word>
@@ -4776,8 +4776,8 @@
 <Word Book='Shoftim' Chapter='10' Verse='2' WordSequence='6' >שָׁנָ֑ה</Word>
 <Word Book='Shoftim' Chapter='10' Verse='2' WordSequence='7' >וַיָּ֖מָת</Word>
 <Word Book='Shoftim' Chapter='10' Verse='2' WordSequence='8' >וַיִּקָּבֵ֥ר</Word>
-<Word Book='Shoftim' Chapter='10' Verse='2' WordSequence='9' IsParashaPtuchah='true' >בְּשָׁמִֽיר</Word>
-<Word Book='Shoftim' Chapter='10' Verse='3' WordSequence='1' >וַיָּ֣קָם</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='10' Verse='2' WordSequence='9'>בְּשָׁמִֽיר</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='10' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַיָּ֣קָם</Word>
 <Word Book='Shoftim' Chapter='10' Verse='3' WordSequence='2' >אַחֲרָ֔יו</Word>
 <Word Book='Shoftim' Chapter='10' Verse='3' WordSequence='3' >יָאִ֖יר</Word>
 <Word Book='Shoftim' Chapter='10' Verse='3' WordSequence='4' >הַגִּלְעָדִ֑י</Word>
@@ -4811,8 +4811,8 @@
 <Word Book='Shoftim' Chapter='10' Verse='5' WordSequence='1' >וַיָּ֣מָת</Word>
 <Word Book='Shoftim' Chapter='10' Verse='5' WordSequence='2' >יָאִ֔יר</Word>
 <Word Book='Shoftim' Chapter='10' Verse='5' WordSequence='3' >וַיִּקָּבֵ֖ר</Word>
-<Word Book='Shoftim' Chapter='10' Verse='5' WordSequence='4' IsParashaPtuchah='true' >בְּקָמֽוֹן</Word>
-<Word Book='Shoftim' Chapter='10' Verse='6' WordSequence='1' >וַיֹּסִ֣פוּ׀</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='10' Verse='5' WordSequence='4'>בְּקָמֽוֹן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='10' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֹּסִ֣פוּ׀</Word>
 <Word Book='Shoftim' Chapter='10' Verse='6' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='10' Verse='6' WordSequence='3' >יִשְׂרָאֵ֗ל</Word>
 <Word Book='Shoftim' Chapter='10' Verse='6' WordSequence='4' >לַעֲשׂ֣וֹת</Word>
@@ -4904,8 +4904,8 @@
 <Word Book='Shoftim' Chapter='10' Verse='10' WordSequence='12' >אֱלֹהֵ֔ינוּ</Word>
 <Word Book='Shoftim' Chapter='10' Verse='10' WordSequence='13' >וַֽנַּעֲבֹ֖ד</Word>
 <Word Book='Shoftim' Chapter='10' Verse='10' WordSequence='14' >אֶת־</Word>
-<Word Book='Shoftim' Chapter='10' Verse='10' WordSequence='15' IsParashaPtuchah='true' >הַבְּעָלִֽים</Word>
-<Word Book='Shoftim' Chapter='10' Verse='11' WordSequence='1' >וַ֥יֹּאמֶר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='10' Verse='10' WordSequence='15'>הַבְּעָלִֽים</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='10' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַ֥יֹּאמֶר</Word>
 <Word Book='Shoftim' Chapter='10' Verse='11' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Shoftim' Chapter='10' Verse='11' WordSequence='3' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='10' Verse='11' WordSequence='4' >בְּנֵ֣י</Word>
@@ -4980,8 +4980,8 @@
 <Word Book='Shoftim' Chapter='10' Verse='16' WordSequence='9' >וַתִּקְצַ֥ר</Word>
 <Word Book='Shoftim' Chapter='10' Verse='16' WordSequence='10' >נַפְשׁ֖וֹ</Word>
 <Word Book='Shoftim' Chapter='10' Verse='16' WordSequence='11' >בַּעֲמַ֥ל</Word>
-<Word Book='Shoftim' Chapter='10' Verse='16' WordSequence='12' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Shoftim' Chapter='10' Verse='17' WordSequence='1' >וַיִּצָּֽעֲקוּ֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='10' Verse='16' WordSequence='12'>יִשְׂרָאֵֽל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='10' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיִּצָּֽעֲקוּ֙</Word>
 <Word Book='Shoftim' Chapter='10' Verse='17' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='10' Verse='17' WordSequence='3' >עַמּ֔וֹן</Word>
 <Word Book='Shoftim' Chapter='10' Verse='17' WordSequence='4' >וַֽיַּחֲנ֖וּ</Word>
@@ -5009,8 +5009,8 @@
 <Word Book='Shoftim' Chapter='10' Verse='18' WordSequence='16' >לְרֹ֔אשׁ</Word>
 <Word Book='Shoftim' Chapter='10' Verse='18' WordSequence='17' >לְכֹ֖ל</Word>
 <Word Book='Shoftim' Chapter='10' Verse='18' WordSequence='18' >יֹשְׁבֵ֥י</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='10' Verse='18' WordSequence='19' IsParashaPtuchah='true' >גִלְעָֽד</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וְיִפְתָּ֣ח</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='10' Verse='18' WordSequence='19'>גִלְעָֽד</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְיִפְתָּ֣ח</Word>
 <Word Book='Shoftim' Chapter='11' Verse='1' WordSequence='2' >הַגִּלְעָדִ֗י</Word>
 <Word Book='Shoftim' Chapter='11' Verse='1' WordSequence='3' >הָיָה֙</Word>
 <Word Book='Shoftim' Chapter='11' Verse='1' WordSequence='4' >גִּבּ֣וֹר</Word>
@@ -5058,8 +5058,8 @@
 <Word Book='Shoftim' Chapter='11' Verse='3' WordSequence='11' >אֲנָשִׁ֣ים</Word>
 <Word Book='Shoftim' Chapter='11' Verse='3' WordSequence='12' >רֵיקִ֔ים</Word>
 <Word Book='Shoftim' Chapter='11' Verse='3' WordSequence='13' >וַיֵּצְא֖וּ</Word>
-<Word Book='Shoftim' Chapter='11' Verse='3' WordSequence='14' IsParashaPtuchah='true' >עִמּֽוֹ</Word>
-<Word Book='Shoftim' Chapter='11' Verse='4' WordSequence='1' >וַיְהִ֖י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='11' Verse='3' WordSequence='14'>עִמּֽוֹ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='11' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֖י</Word>
 <Word Book='Shoftim' Chapter='11' Verse='4' WordSequence='2' >מִיָּמִ֑ים</Word>
 <Word Book='Shoftim' Chapter='11' Verse='4' WordSequence='3' >וַיִּלָּחֲמ֥וּ</Word>
 <Word Book='Shoftim' Chapter='11' Verse='4' WordSequence='4' >בְנֵֽי־</Word>
@@ -5180,8 +5180,8 @@
 <Word Book='Shoftim' Chapter='11' Verse='11' WordSequence='16' >דְּבָרָ֛יו</Word>
 <Word Book='Shoftim' Chapter='11' Verse='11' WordSequence='17' >לִפְנֵ֥י</Word>
 <Word Book='Shoftim' Chapter='11' Verse='11' WordSequence='18' >יְהוָ֖ה</Word>
-<Word Book='Shoftim' Chapter='11' Verse='11' WordSequence='19' IsParashaPtuchah='true' >בַּמִּצְפָּֽה</Word>
-<Word Book='Shoftim' Chapter='11' Verse='12' WordSequence='1' >וַיִּשְׁלַ֤ח</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='11' Verse='11' WordSequence='19'>בַּמִּצְפָּֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='11' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֤ח</Word>
 <Word Book='Shoftim' Chapter='11' Verse='12' WordSequence='2' >יִפְתָּח֙</Word>
 <Word Book='Shoftim' Chapter='11' Verse='12' WordSequence='3' >מַלְאָכִ֔ים</Word>
 <Word Book='Shoftim' Chapter='11' Verse='12' WordSequence='4' >אֶל־</Word>
@@ -5467,8 +5467,8 @@
 <Word Book='Shoftim' Chapter='11' Verse='28' WordSequence='8' >יִפְתָּ֔ח</Word>
 <Word Book='Shoftim' Chapter='11' Verse='28' WordSequence='9' >אֲשֶׁ֥ר</Word>
 <Word Book='Shoftim' Chapter='11' Verse='28' WordSequence='10' >שָׁלַ֖ח</Word>
-<Word Book='Shoftim' Chapter='11' Verse='28' WordSequence='11' IsParashaPtuchah='true' >אֵלָֽיו</Word>
-<Word Book='Shoftim' Chapter='11' Verse='29' WordSequence='1' >וַתְּהִ֤י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='11' Verse='28' WordSequence='11'>אֵלָֽיו</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='11' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וַתְּהִ֤י</Word>
 <Word Book='Shoftim' Chapter='11' Verse='29' WordSequence='2' >עַל־</Word>
 <Word Book='Shoftim' Chapter='11' Verse='29' WordSequence='3' >יִפְתָּח֙</Word>
 <Word Book='Shoftim' Chapter='11' Verse='29' WordSequence='4' >ר֣וּחַ</Word>
@@ -5513,8 +5513,8 @@
 <Word Book='Shoftim' Chapter='11' Verse='31' WordSequence='12' >וְהָיָה֙</Word>
 <Word Book='Shoftim' Chapter='11' Verse='31' WordSequence='13' >לַֽיהוָ֔ה</Word>
 <Word Book='Shoftim' Chapter='11' Verse='31' WordSequence='14' >וְהַעֲלִיתִ֖הוּ</Word>
-<Word Book='Shoftim' Chapter='11' Verse='31' WordSequence='15' IsParashaPtuchah='true' >עוֹלָֽה</Word>
-<Word Book='Shoftim' Chapter='11' Verse='32' WordSequence='1' >וַיַּעֲבֹ֥ר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='11' Verse='31' WordSequence='15'>עוֹלָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='11' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲבֹ֥ר</Word>
 <Word Book='Shoftim' Chapter='11' Verse='32' WordSequence='2' >יִפְתָּ֛ח</Word>
 <Word Book='Shoftim' Chapter='11' Verse='32' WordSequence='3' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='11' Verse='32' WordSequence='4' >בְּנֵ֥י</Word>
@@ -5542,8 +5542,8 @@
 <Word Book='Shoftim' Chapter='11' Verse='33' WordSequence='16' >עַמּ֔וֹן</Word>
 <Word Book='Shoftim' Chapter='11' Verse='33' WordSequence='17' >מִפְּנֵ֖י</Word>
 <Word Book='Shoftim' Chapter='11' Verse='33' WordSequence='18' >בְּנֵ֥י</Word>
-<Word Book='Shoftim' Chapter='11' Verse='33' WordSequence='19' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Shoftim' Chapter='11' Verse='34' WordSequence='1' >וַיָּבֹ֨א</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='11' Verse='33' WordSequence='19'>יִשְׂרָאֵֽל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='11' Verse='34' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֨א</Word>
 <Word Book='Shoftim' Chapter='11' Verse='34' WordSequence='2' >יִפְתָּ֣ח</Word>
 <Word Book='Shoftim' Chapter='11' Verse='34' WordSequence='3' >הַמִּצְפָּה֮</Word>
 <Word Book='Shoftim' Chapter='11' Verse='34' WordSequence='4' >אֶל־</Word>
@@ -5673,8 +5673,8 @@
 <Word Book='Shoftim' Chapter='11' Verse='40' WordSequence='9' >הַגִּלְעָדִ֑י</Word>
 <Word Book='Shoftim' Chapter='11' Verse='40' WordSequence='10' >אַרְבַּ֥עַת</Word>
 <Word Book='Shoftim' Chapter='11' Verse='40' WordSequence='11' >יָמִ֖ים</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='11' Verse='40' WordSequence='12' IsParashaPtuchah='true' >בַּשָּׁנָֽה</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַיִּצָּעֵק֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='11' Verse='40' WordSequence='12' >בַּשָּׁנָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּצָּעֵק֙</Word>
 <Word Book='Shoftim' Chapter='12' Verse='1' WordSequence='2' >אִ֣ישׁ</Word>
 <Word Book='Shoftim' Chapter='12' Verse='1' WordSequence='3' >אֶפְרַ֔יִם</Word>
 <Word Book='Shoftim' Chapter='12' Verse='1' WordSequence='4' >וַֽיַּעֲבֹ֖ר</Word>
@@ -5812,8 +5812,8 @@
 <Word Book='Shoftim' Chapter='12' Verse='7' WordSequence='9' >הַגִּלְעָדִ֔י</Word>
 <Word Book='Shoftim' Chapter='12' Verse='7' WordSequence='10' >וַיִּקָּבֵ֖ר</Word>
 <Word Book='Shoftim' Chapter='12' Verse='7' WordSequence='11' >בְּעָרֵ֥י</Word>
-<Word Book='Shoftim' Chapter='12' Verse='7' WordSequence='12' IsParashaPtuchah='true' >גִלְעָֽד</Word>
-<Word Book='Shoftim' Chapter='12' Verse='8' WordSequence='1' >וַיִּשְׁפֹּ֤ט</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='12' Verse='7' WordSequence='12'>גִלְעָֽד</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='12' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁפֹּ֤ט</Word>
 <Word Book='Shoftim' Chapter='12' Verse='8' WordSequence='2' >אַֽחֲרָיו֙</Word>
 <Word Book='Shoftim' Chapter='12' Verse='8' WordSequence='3' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='12' Verse='8' WordSequence='4' >יִשְׂרָאֵ֔ל</Word>
@@ -5843,8 +5843,8 @@
 <Word Book='Shoftim' Chapter='12' Verse='10' WordSequence='2' >אִבְצָ֔ן</Word>
 <Word Book='Shoftim' Chapter='12' Verse='10' WordSequence='3' >וַיִּקָּבֵ֖ר</Word>
 <Word Book='Shoftim' Chapter='12' Verse='10' WordSequence='4' >בְּבֵ֥ית</Word>
-<Word Book='Shoftim' Chapter='12' Verse='10' WordSequence='5' IsParashaPtuchah='true' >לָֽחֶם</Word>
-<Word Book='Shoftim' Chapter='12' Verse='11' WordSequence='1' >וַיִּשְׁפֹּ֤ט</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='12' Verse='10' WordSequence='5'>לָֽחֶם</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='12' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁפֹּ֤ט</Word>
 <Word Book='Shoftim' Chapter='12' Verse='11' WordSequence='2' >אַֽחֲרָיו֙</Word>
 <Word Book='Shoftim' Chapter='12' Verse='11' WordSequence='3' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='12' Verse='11' WordSequence='4' >יִשְׂרָאֵ֔ל</Word>
@@ -5861,8 +5861,8 @@
 <Word Book='Shoftim' Chapter='12' Verse='12' WordSequence='4' >וַיִּקָּבֵ֥ר</Word>
 <Word Book='Shoftim' Chapter='12' Verse='12' WordSequence='5' >בְּאַיָּל֖וֹן</Word>
 <Word Book='Shoftim' Chapter='12' Verse='12' WordSequence='6' >בְּאֶ֥רֶץ</Word>
-<Word Book='Shoftim' Chapter='12' Verse='12' WordSequence='7' IsParashaPtuchah='true' >זְבוּלֻֽן</Word>
-<Word Book='Shoftim' Chapter='12' Verse='13' WordSequence='1' >וַיִּשְׁפֹּ֥ט</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='12' Verse='12' WordSequence='7'>זְבוּלֻֽן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='12' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁפֹּ֥ט</Word>
 <Word Book='Shoftim' Chapter='12' Verse='13' WordSequence='2' >אַחֲרָ֖יו</Word>
 <Word Book='Shoftim' Chapter='12' Verse='13' WordSequence='3' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='12' Verse='13' WordSequence='4' >יִשְׂרָאֵ֑ל</Word>
@@ -5896,8 +5896,8 @@
 <Word Book='Shoftim' Chapter='12' Verse='15' WordSequence='8' >בְּאֶ֣רֶץ</Word>
 <Word Book='Shoftim' Chapter='12' Verse='15' WordSequence='9' >אֶפְרַ֔יִם</Word>
 <Word Book='Shoftim' Chapter='12' Verse='15' WordSequence='10' >בְּהַ֖ר</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='12' Verse='15' WordSequence='11' IsParashaPtuchah='true' >הָעֲמָלֵקִֽי</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>וַיֹּסִ֙פוּ֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='12' Verse='15' WordSequence='11'>הָעֲמָלֵקִֽי</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּסִ֙פוּ֙</Word>
 <Word Book='Shoftim' Chapter='13' Verse='1' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='13' Verse='1' WordSequence='3' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Shoftim' Chapter='13' Verse='1' WordSequence='4' >לַעֲשׂ֥וֹת</Word>
@@ -5909,8 +5909,8 @@
 <Word Book='Shoftim' Chapter='13' Verse='1' WordSequence='10' >בְּיַד־</Word>
 <Word Book='Shoftim' Chapter='13' Verse='1' WordSequence='11' >פְּלִשְׁתִּ֖ים</Word>
 <Word Book='Shoftim' Chapter='13' Verse='1' WordSequence='12' >אַרְבָּעִ֥ים</Word>
-<Word Book='Shoftim' Chapter='13' Verse='1' WordSequence='13' IsParashaPtuchah='true' >שָׁנָֽה</Word>
-<Word Book='Shoftim' Chapter='13' Verse='2' WordSequence='1' >וַיְהִי֩</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='13' Verse='1' WordSequence='13'>שָׁנָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='13' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֩</Word>
 <Word Book='Shoftim' Chapter='13' Verse='2' WordSequence='2' >אִ֨ישׁ</Word>
 <Word Book='Shoftim' Chapter='13' Verse='2' WordSequence='3' >אֶחָ֧ד</Word>
 <Word Book='Shoftim' Chapter='13' Verse='2' WordSequence='4' >מִצָּרְעָ֛ה</Word>
@@ -6022,8 +6022,8 @@
 <Word Book='Shoftim' Chapter='13' Verse='7' WordSequence='22' >הַבֶּ֖טֶן</Word>
 <Word Book='Shoftim' Chapter='13' Verse='7' WordSequence='23' >עַד־</Word>
 <Word Book='Shoftim' Chapter='13' Verse='7' WordSequence='24' >י֥וֹם</Word>
-<Word Book='Shoftim' Chapter='13' Verse='7' WordSequence='25' IsParashaPtuchah='true' >מוֹתֽוֹ</Word>
-<Word Book='Shoftim' Chapter='13' Verse='8' WordSequence='1' >וַיֶּעְתַּ֥ר</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='13' Verse='7' WordSequence='25'>מוֹתֽוֹ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='13' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיֶּעְתַּ֥ר</Word>
 <Word Book='Shoftim' Chapter='13' Verse='8' WordSequence='2' >מָנ֛וֹחַ</Word>
 <Word Book='Shoftim' Chapter='13' Verse='8' WordSequence='3' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='13' Verse='8' WordSequence='4' >יְהוָ֖ה</Word>
@@ -6189,8 +6189,8 @@
 <Word Book='Shoftim' Chapter='13' Verse='18' WordSequence='7' >תִּשְׁאַ֣ל</Word>
 <Word Book='Shoftim' Chapter='13' Verse='18' WordSequence='8' >לִשְׁמִ֑י</Word>
 <Word Book='Shoftim' Chapter='13' Verse='18' WordSequence='9' >וְהוּא־</Word>
-<Word Book='Shoftim' Chapter='13' Verse='18' WordSequence='10' >פֶ֛לִאי</Word>
-<Word Book='Shoftim' Chapter='13' Verse='19' WordSequence='1' >וַיִּקַּ֨ח</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='13' Verse='18' WordSequence='10' >פֶ֛לִאי</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='13' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיִּקַּ֨ח</Word>
 <Word Book='Shoftim' Chapter='13' Verse='19' WordSequence='2' >מָנ֜וֹחַ</Word>
 <Word Book='Shoftim' Chapter='13' Verse='19' WordSequence='3' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='13' Verse='19' WordSequence='4' >גְּדִ֤י</Word>
@@ -6291,8 +6291,8 @@
 <Word Book='Shoftim' Chapter='13' Verse='25' WordSequence='7' >בֵּ֥ין</Word>
 <Word Book='Shoftim' Chapter='13' Verse='25' WordSequence='8' >צָרְעָ֖ה</Word>
 <Word Book='Shoftim' Chapter='13' Verse='25' WordSequence='9' >וּבֵ֥ין</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='13' Verse='25' WordSequence='10' IsParashaPtuchah='true' >אֶשְׁתָּאֹֽל</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וַיֵּ֥רֶד</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='13' Verse='25' WordSequence='10'>אֶשְׁתָּאֹֽל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֥רֶד</Word>
 <Word Book='Shoftim' Chapter='14' Verse='1' WordSequence='2' >שִׁמְשׁ֖וֹן</Word>
 <Word Book='Shoftim' Chapter='14' Verse='1' WordSequence='3' >תִּמְנָ֑תָה</Word>
 <Word Book='Shoftim' Chapter='14' Verse='1' WordSequence='4' >וַיַּ֥רְא</Word>
@@ -6359,8 +6359,8 @@
 <Word Book='Shoftim' Chapter='14' Verse='4' WordSequence='14' >הַהִ֔יא</Word>
 <Word Book='Shoftim' Chapter='14' Verse='4' WordSequence='15' >פְּלִשְׁתִּ֖ים</Word>
 <Word Book='Shoftim' Chapter='14' Verse='4' WordSequence='16' >מֹשְׁלִ֥ים</Word>
-<Word Book='Shoftim' Chapter='14' Verse='4' WordSequence='17' IsParashaPtuchah='true' >בְּיִשְׂרָאֵֽל</Word>
-<Word Book='Shoftim' Chapter='14' Verse='5' WordSequence='1' >וַיֵּ֧רֶד</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='14' Verse='4' WordSequence='17'>בְּיִשְׂרָאֵֽל</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='14' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֧רֶד</Word>
 <Word Book='Shoftim' Chapter='14' Verse='5' WordSequence='2' >שִׁמְשׁ֛וֹן</Word>
 <Word Book='Shoftim' Chapter='14' Verse='5' WordSequence='3' >וְאָבִ֥יו</Word>
 <Word Book='Shoftim' Chapter='14' Verse='5' WordSequence='4' >וְאִמּ֖וֹ</Word>
@@ -6620,15 +6620,15 @@
 <Word Book='Shoftim' Chapter='14' Verse='19' WordSequence='19' >אַפּ֔וֹ</Word>
 <Word Book='Shoftim' Chapter='14' Verse='19' WordSequence='20' >וַיַּ֖עַל</Word>
 <Word Book='Shoftim' Chapter='14' Verse='19' WordSequence='21' >בֵּ֥ית</Word>
-<Word Book='Shoftim' Chapter='14' Verse='19' WordSequence='22' IsParashaPtuchah='true' >אָבִֽיהוּ</Word>
-<Word Book='Shoftim' Chapter='14' Verse='20' WordSequence='1' >וַתְּהִ֖י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='14' Verse='19' WordSequence='22'>אָבִֽיהוּ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='14' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַתְּהִ֖י</Word>
 <Word Book='Shoftim' Chapter='14' Verse='20' WordSequence='2' >אֵ֣שֶׁת</Word>
 <Word Book='Shoftim' Chapter='14' Verse='20' WordSequence='3' >שִׁמְשׁ֑וֹן</Word>
 <Word Book='Shoftim' Chapter='14' Verse='20' WordSequence='4' >לְמֵ֣רֵעֵ֔הוּ</Word>
 <Word Book='Shoftim' Chapter='14' Verse='20' WordSequence='5' >אֲשֶׁ֥ר</Word>
 <Word Book='Shoftim' Chapter='14' Verse='20' WordSequence='6' >רֵעָ֖ה</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='14' Verse='20' WordSequence='7' >לֽוֹ</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וַיְהִ֨י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='14' Verse='20' WordSequence='7'>לֽוֹ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וַיְהִ֨י</Word>
 <Word Book='Shoftim' Chapter='15' Verse='1' WordSequence='2' >מִיָּמִ֜ים</Word>
 <Word Book='Shoftim' Chapter='15' Verse='1' WordSequence='3' >בִּימֵ֣י</Word>
 <Word Book='Shoftim' Chapter='15' Verse='1' WordSequence='4' >קְצִיר־</Word>
@@ -6754,8 +6754,8 @@
 <Word Book='Shoftim' Chapter='15' Verse='8' WordSequence='9' >וַיֵּ֔שֶׁב</Word>
 <Word Book='Shoftim' Chapter='15' Verse='8' WordSequence='10' >בִּסְעִ֖יף</Word>
 <Word Book='Shoftim' Chapter='15' Verse='8' WordSequence='11' >סֶ֥לַע</Word>
-<Word Book='Shoftim' Chapter='15' Verse='8' WordSequence='12' >עֵיטָֽם</Word>
-<Word Book='Shoftim' Chapter='15' Verse='9' WordSequence='1' >וַיַּעֲל֣וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='15' Verse='8' WordSequence='12' >עֵיטָֽם</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='15' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲל֣וּ</Word>
 <Word Book='Shoftim' Chapter='15' Verse='9' WordSequence='2' >פְלִשְׁתִּ֔ים</Word>
 <Word Book='Shoftim' Chapter='15' Verse='9' WordSequence='3' >וַֽיַּחֲנ֖וּ</Word>
 <Word Book='Shoftim' Chapter='15' Verse='9' WordSequence='4' >בִּיהוּדָ֑ה</Word>
@@ -6948,8 +6948,8 @@
 <Word Book='Shoftim' Chapter='15' Verse='20' WordSequence='4' >בִּימֵ֥י</Word>
 <Word Book='Shoftim' Chapter='15' Verse='20' WordSequence='5' >פְלִשְׁתִּ֖ים</Word>
 <Word Book='Shoftim' Chapter='15' Verse='20' WordSequence='6' >עֶשְׂרִ֥ים</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='15' Verse='20' WordSequence='7' IsParashaPtuchah='true' >שָׁנָֽה</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>וַיֵּ֥לֶךְ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='15' Verse='20' WordSequence='7'>שָׁנָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֥לֶךְ</Word>
 <Word Book='Shoftim' Chapter='16' Verse='1' WordSequence='2' >שִׁמְשׁ֖וֹן</Word>
 <Word Book='Shoftim' Chapter='16' Verse='1' WordSequence='3' >עַזָּ֑תָה</Word>
 <Word Book='Shoftim' Chapter='16' Verse='1' WordSequence='4' >וַיַּרְא־</Word>
@@ -7005,8 +7005,8 @@
 <Word Book='Shoftim' Chapter='16' Verse='3' WordSequence='25' >אֲשֶׁ֖ר</Word>
 <Word Book='Shoftim' Chapter='16' Verse='3' WordSequence='26' >עַל־</Word>
 <Word Book='Shoftim' Chapter='16' Verse='3' WordSequence='27' >פְּנֵ֥י</Word>
-<Word Book='Shoftim' Chapter='16' Verse='3' WordSequence='28' IsParashaPtuchah='true' >חֶבְרֽוֹן</Word>
-<Word Book='Shoftim' Chapter='16' Verse='4' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='16' Verse='3' WordSequence='28'>חֶבְרֽוֹן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='16' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Shoftim' Chapter='16' Verse='4' WordSequence='2' >אַחֲרֵי־</Word>
 <Word Book='Shoftim' Chapter='16' Verse='4' WordSequence='3' >כֵ֔ן</Word>
 <Word Book='Shoftim' Chapter='16' Verse='4' WordSequence='4' >וַיֶּאֱהַ֥ב</Word>
@@ -7329,8 +7329,8 @@
 <Word Book='Shoftim' Chapter='16' Verse='22' WordSequence='3' >רֹאשׁ֛וֹ</Word>
 <Word Book='Shoftim' Chapter='16' Verse='22' WordSequence='4' >לְצַמֵּ֖חַ</Word>
 <Word Book='Shoftim' Chapter='16' Verse='22' WordSequence='5' >כַּאֲשֶׁ֥ר</Word>
-<Word Book='Shoftim' Chapter='16' Verse='22' WordSequence='6' IsParashaPtuchah='true' >גֻּלָּֽח</Word>
-<Word Book='Shoftim' Chapter='16' Verse='23' WordSequence='1' >וְסַרְנֵ֣י</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='16' Verse='22' WordSequence='6'>גֻּלָּֽח</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='16' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וְסַרְנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='16' Verse='23' WordSequence='2' >פְלִשְׁתִּ֗ים</Word>
 <Word Book='Shoftim' Chapter='16' Verse='23' WordSequence='3' >נֶֽאֱסְפוּ֙</Word>
 <Word Book='Shoftim' Chapter='16' Verse='23' WordSequence='4' >לִזְבֹּ֧חַ</Word>
@@ -7507,8 +7507,8 @@
 <Word Book='Shoftim' Chapter='16' Verse='31' WordSequence='20' >אֶת־</Word>
 <Word Book='Shoftim' Chapter='16' Verse='31' WordSequence='21' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Shoftim' Chapter='16' Verse='31' WordSequence='22' >עֶשְׂרִ֥ים</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='16' Verse='31' WordSequence='23' IsParashaPtuchah='true' >שָׁנָֽה</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>וַֽיְהִי־</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='16' Verse='31' WordSequence='23'>שָׁנָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי־</Word>
 <Word Book='Shoftim' Chapter='17' Verse='1' WordSequence='2' >אִ֥ישׁ</Word>
 <Word Book='Shoftim' Chapter='17' Verse='1' WordSequence='3' >מֵֽהַר־</Word>
 <Word Book='Shoftim' Chapter='17' Verse='1' WordSequence='4' >אֶפְרָ֖יִם</Word>
@@ -7599,8 +7599,8 @@
 <Word Book='Shoftim' Chapter='17' Verse='6' WordSequence='6' >אִ֛ישׁ</Word>
 <Word Book='Shoftim' Chapter='17' Verse='6' WordSequence='7' >הַיָּשָׁ֥ר</Word>
 <Word Book='Shoftim' Chapter='17' Verse='6' WordSequence='8' >בְּעֵינָ֖יו</Word>
-<Word Book='Shoftim' Chapter='17' Verse='6' WordSequence='9' IsParashaPtuchah='true' >יַעֲשֶֽׂה</Word>
-<Word Book='Shoftim' Chapter='17' Verse='7' WordSequence='1' >וַיְהִי־</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='17' Verse='6' WordSequence='9'>יַעֲשֶֽׂה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='17' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי־</Word>
 <Word Book='Shoftim' Chapter='17' Verse='7' WordSequence='2' >נַ֗עַר</Word>
 <Word Book='Shoftim' Chapter='17' Verse='7' WordSequence='3' >מִבֵּ֥ית</Word>
 <Word Book='Shoftim' Chapter='17' Verse='7' WordSequence='4' >לֶ֙חֶם֙</Word>
@@ -7700,8 +7700,8 @@
 <Word Book='Shoftim' Chapter='17' Verse='13' WordSequence='10' >הָיָה־</Word>
 <Word Book='Shoftim' Chapter='17' Verse='13' WordSequence='11' >לִ֛י</Word>
 <Word Book='Shoftim' Chapter='17' Verse='13' WordSequence='12' >הַלֵּוִ֖י</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='17' Verse='13' WordSequence='13' >לְכֹהֵֽן</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>בַּיָּמִ֣ים</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='17' Verse='13' WordSequence='13'>לְכֹהֵֽן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>בַּיָּמִ֣ים</Word>
 <Word Book='Shoftim' Chapter='18' Verse='1' WordSequence='2' >הָהֵ֔ם</Word>
 <Word Book='Shoftim' Chapter='18' Verse='1' WordSequence='3' >אֵ֥ין</Word>
 <Word Book='Shoftim' Chapter='18' Verse='1' WordSequence='4' >מֶ֖לֶךְ</Word>
@@ -7724,8 +7724,8 @@
 <Word Book='Shoftim' Chapter='18' Verse='1' WordSequence='21' >בְּתוֹךְ־</Word>
 <Word Book='Shoftim' Chapter='18' Verse='1' WordSequence='22' >שִׁבְטֵ֥י</Word>
 <Word Book='Shoftim' Chapter='18' Verse='1' WordSequence='23' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='Shoftim' Chapter='18' Verse='1' WordSequence='24' >בְּנַחֲלָֽה</Word>
-<Word Book='Shoftim' Chapter='18' Verse='2' WordSequence='1' >וַיִּשְׁלְח֣וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='18' Verse='1' WordSequence='24' >בְּנַחֲלָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='18' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלְח֣וּ</Word>
 <Word Book='Shoftim' Chapter='18' Verse='2' WordSequence='2' >בְנֵי־</Word>
 <Word Book='Shoftim' Chapter='18' Verse='2' WordSequence='3' >דָ֣ן׀</Word>
 <Word Book='Shoftim' Chapter='18' Verse='2' WordSequence='4' >מִֽמִּשְׁפַּחְתָּ֡ם</Word>
@@ -7812,8 +7812,8 @@
 <Word Book='Shoftim' Chapter='18' Verse='6' WordSequence='8' >דַּרְכְּכֶ֖ם</Word>
 <Word Book='Shoftim' Chapter='18' Verse='6' WordSequence='9' >אֲשֶׁ֥ר</Word>
 <Word Book='Shoftim' Chapter='18' Verse='6' WordSequence='10' >תֵּֽלְכוּ־</Word>
-<Word Book='Shoftim' Chapter='18' Verse='6' WordSequence='11' IsParashaPtuchah='true' >בָֽהּ</Word>
-<Word Book='Shoftim' Chapter='18' Verse='7' WordSequence='1' >וַיֵּלְכוּ֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='18' Verse='6' WordSequence='11'>בָֽהּ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='18' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיֵּלְכוּ֙</Word>
 <Word Book='Shoftim' Chapter='18' Verse='7' WordSequence='2' >חֲמֵ֣שֶׁת</Word>
 <Word Book='Shoftim' Chapter='18' Verse='7' WordSequence='3' >הָאֲנָשִׁ֔ים</Word>
 <Word Book='Shoftim' Chapter='18' Verse='7' WordSequence='4' >וַיָּבֹ֖אוּ</Word>
@@ -8248,8 +8248,8 @@
 <Word Book='Shoftim' Chapter='18' Verse='31' WordSequence='10' >הֱי֥וֹת</Word>
 <Word Book='Shoftim' Chapter='18' Verse='31' WordSequence='11' >בֵּית־</Word>
 <Word Book='Shoftim' Chapter='18' Verse='31' WordSequence='12' >הָאֱלֹהִ֖ים</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='18' Verse='31' WordSequence='13' IsParashaPtuchah='true' >בְּשִׁלֹֽה</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַיְהִי֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='18' Verse='31' WordSequence='13'>בְּשִׁלֹֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֙</Word>
 <Word Book='Shoftim' Chapter='19' Verse='1' WordSequence='2' >בַּיָּמִ֣ים</Word>
 <Word Book='Shoftim' Chapter='19' Verse='1' WordSequence='3' >הָהֵ֔ם</Word>
 <Word Book='Shoftim' Chapter='19' Verse='1' WordSequence='4' >וּמֶ֖לֶךְ</Word>
@@ -8779,8 +8779,8 @@
 <Word Book='Shoftim' Chapter='19' Verse='30' WordSequence='20' >לָכֶ֥ם</Word>
 <Word Book='Shoftim' Chapter='19' Verse='30' WordSequence='21' >עָלֶ֖יהָ</Word>
 <Word Book='Shoftim' Chapter='19' Verse='30' WordSequence='22' >עֻ֥צוּ</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='19' Verse='30' WordSequence='23' IsParashaPtuchah='true' >וְדַבֵּֽרוּ</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וַיֵּצְאוּ֮</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='19' Verse='30' WordSequence='23'>וְדַבֵּֽרוּ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּצְאוּ֮</Word>
 <Word Book='Shoftim' Chapter='20' Verse='1' WordSequence='2' >כָּל־</Word>
 <Word Book='Shoftim' Chapter='20' Verse='1' WordSequence='3' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='20' Verse='1' WordSequence='4' >יִשְׂרָאֵל֒</Word>
@@ -8813,8 +8813,8 @@
 <Word Book='Shoftim' Chapter='20' Verse='2' WordSequence='14' >אִ֥ישׁ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='2' WordSequence='15' >רַגְלִ֖י</Word>
 <Word Book='Shoftim' Chapter='20' Verse='2' WordSequence='16' >שֹׁ֥לֵֽף</Word>
-<Word Book='Shoftim' Chapter='20' Verse='2' WordSequence='17' IsParashaPtuchah='true' >חָֽרֶב</Word>
-<Word Book='Shoftim' Chapter='20' Verse='3' WordSequence='1' >וַֽיִּשְׁמְעוּ֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='20' Verse='2' WordSequence='17'>חָֽרֶב</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='20' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּשְׁמְעוּ֙</Word>
 <Word Book='Shoftim' Chapter='20' Verse='3' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='20' Verse='3' WordSequence='3' >בִנְיָמִ֔ן</Word>
 <Word Book='Shoftim' Chapter='20' Verse='3' WordSequence='4' >כִּֽי־</Word>
@@ -8935,8 +8935,8 @@
 <Word Book='Shoftim' Chapter='20' Verse='11' WordSequence='6' >הָעִ֔יר</Word>
 <Word Book='Shoftim' Chapter='20' Verse='11' WordSequence='7' >כְּאִ֥ישׁ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='11' WordSequence='8' >אֶחָ֖ד</Word>
-<Word Book='Shoftim' Chapter='20' Verse='11' WordSequence='9' IsParashaPtuchah='true' >חֲבֵרִֽים</Word>
-<Word Book='Shoftim' Chapter='20' Verse='12' WordSequence='1' >וַֽיִּשְׁלְח֞וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='20' Verse='11' WordSequence='9'>חֲבֵרִֽים</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='20' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּשְׁלְח֞וּ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='12' WordSequence='2' >שִׁבְטֵ֤י</Word>
 <Word Book='Shoftim' Chapter='20' Verse='12' WordSequence='3' >יִשְׂרָאֵל֙</Word>
 <Word Book='Shoftim' Chapter='20' Verse='12' WordSequence='4' >אֲנָשִׁ֔ים</Word>
@@ -9019,8 +9019,8 @@
 <Word Book='Shoftim' Chapter='20' Verse='16' WordSequence='15' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='20' Verse='16' WordSequence='16' >הַֽשַּׂעֲרָ֖ה</Word>
 <Word Book='Shoftim' Chapter='20' Verse='16' WordSequence='17' >וְלֹ֥א</Word>
-<Word Book='Shoftim' Chapter='20' Verse='16' WordSequence='18' IsParashaPtuchah='true' >יַחֲטִֽא</Word>
-<Word Book='Shoftim' Chapter='20' Verse='17' WordSequence='1' >וְאִ֨ישׁ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='20' Verse='16' WordSequence='18'>יַחֲטִֽא</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='20' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וְאִ֨ישׁ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='17' WordSequence='2' >יִשְׂרָאֵ֜ל</Word>
 <Word Book='Shoftim' Chapter='20' Verse='17' WordSequence='3' >הִתְפָּֽקְד֗וּ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='17' WordSequence='4' >לְבַד֙</Word>
@@ -9062,8 +9062,8 @@
 <Word Book='Shoftim' Chapter='20' Verse='19' WordSequence='4' >בַּבֹּ֑קֶר</Word>
 <Word Book='Shoftim' Chapter='20' Verse='19' WordSequence='5' >וַיַּֽחֲנ֖וּ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='19' WordSequence='6' >עַל־</Word>
-<Word Book='Shoftim' Chapter='20' Verse='19' WordSequence='7' IsParashaPtuchah='true' >הַגִּבְעָֽה</Word>
-<Word Book='Shoftim' Chapter='20' Verse='20' WordSequence='1' >וַיֵּצֵא֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='20' Verse='19' WordSequence='7'>הַגִּבְעָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='20' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיֵּצֵא֙</Word>
 <Word Book='Shoftim' Chapter='20' Verse='20' WordSequence='2' >אִ֣ישׁ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='20' WordSequence='3' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Shoftim' Chapter='20' Verse='20' WordSequence='4' >לַמִּלְחָמָ֖ה</Word>
@@ -9124,8 +9124,8 @@
 <Word Book='Shoftim' Chapter='20' Verse='23' WordSequence='19' >וַיֹּ֥אמֶר</Word>
 <Word Book='Shoftim' Chapter='20' Verse='23' WordSequence='20' >יְהוָ֖ה</Word>
 <Word Book='Shoftim' Chapter='20' Verse='23' WordSequence='21' >עֲל֥וּ</Word>
-<Word Book='Shoftim' Chapter='20' Verse='23' WordSequence='22' IsParashaPtuchah='true' >אֵלָֽיו</Word>
-<Word Book='Shoftim' Chapter='20' Verse='24' WordSequence='1' >וַיִּקְרְב֧וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='20' Verse='23' WordSequence='22'>אֵלָֽיו</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='20' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרְב֧וּ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='24' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Shoftim' Chapter='20' Verse='24' WordSequence='3' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='Shoftim' Chapter='20' Verse='24' WordSequence='4' >אֶל־</Word>
@@ -9219,8 +9219,8 @@
 <Word Book='Shoftim' Chapter='20' Verse='29' WordSequence='3' >אֹֽרְבִ֔ים</Word>
 <Word Book='Shoftim' Chapter='20' Verse='29' WordSequence='4' >אֶל־</Word>
 <Word Book='Shoftim' Chapter='20' Verse='29' WordSequence='5' >הַגִּבְעָ֖ה</Word>
-<Word Book='Shoftim' Chapter='20' Verse='29' WordSequence='6' IsParashaPtuchah='true' >סָבִֽיב</Word>
-<Word Book='Shoftim' Chapter='20' Verse='30' WordSequence='1' >וַיַּעֲל֧וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='20' Verse='29' WordSequence='6'>סָבִֽיב</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='20' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲל֧וּ</Word>
 <Word Book='Shoftim' Chapter='20' Verse='30' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Shoftim' Chapter='20' Verse='30' WordSequence='3' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='Shoftim' Chapter='20' Verse='30' WordSequence='4' >אֶל־</Word>
@@ -9306,8 +9306,8 @@
 <Word Book='Shoftim' Chapter='20' Verse='34' WordSequence='15' >כִּֽי־</Word>
 <Word Book='Shoftim' Chapter='20' Verse='34' WordSequence='16' >נֹגַ֥עַת</Word>
 <Word Book='Shoftim' Chapter='20' Verse='34' WordSequence='17' >עֲלֵיהֶ֖ם</Word>
-<Word Book='Shoftim' Chapter='20' Verse='34' WordSequence='18' IsParashaPtuchah='true' >הָרָעָֽה</Word>
-<Word Book='Shoftim' Chapter='20' Verse='35' WordSequence='1' >וַיִּגֹּ֨ף</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='20' Verse='34' WordSequence='18'>הָרָעָֽה</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='20' Verse='35' WordSequence='1' IsParashaPtuchah='true' >וַיִּגֹּ֨ף</Word>
 <Word Book='Shoftim' Chapter='20' Verse='35' WordSequence='2' >יְהוָ֥ה׀</Word>
 <Word Book='Shoftim' Chapter='20' Verse='35' WordSequence='3' >אֶֽת־</Word>
 <Word Book='Shoftim' Chapter='20' Verse='35' WordSequence='4' >בִּנְיָמִן֮</Word>
@@ -9526,8 +9526,8 @@
 <Word Book='Shoftim' Chapter='20' Verse='48' WordSequence='19' >הֶעָרִ֥ים</Word>
 <Word Book='Shoftim' Chapter='20' Verse='48' WordSequence='20' >הַנִּמְצָא֖וֹת</Word>
 <Word Book='Shoftim' Chapter='20' Verse='48' WordSequence='21' >שִׁלְּח֥וּ</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='20' Verse='48' WordSequence='22' IsParashaPtuchah='true' >בָאֵֽשׁ</Word>
-<Word Book='Shoftim' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וְאִ֣ישׁ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='20' Verse='48' WordSequence='22'>בָאֵֽשׁ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאִ֣ישׁ</Word>
 <Word Book='Shoftim' Chapter='21' Verse='1' WordSequence='2' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Shoftim' Chapter='21' Verse='1' WordSequence='3' >נִשְׁבַּ֥ע</Word>
 <Word Book='Shoftim' Chapter='21' Verse='1' WordSequence='4' >בַּמִּצְפָּ֖ה</Word>
@@ -9576,8 +9576,8 @@
 <Word Book='Shoftim' Chapter='21' Verse='4' WordSequence='7' >מִזְבֵּ֑חַ</Word>
 <Word Book='Shoftim' Chapter='21' Verse='4' WordSequence='8' >וַיַּעֲל֥וּ</Word>
 <Word Book='Shoftim' Chapter='21' Verse='4' WordSequence='9' >עֹל֖וֹת</Word>
-<Word Book='Shoftim' Chapter='21' Verse='4' WordSequence='10' IsParashaPtuchah='true' >וּשְׁלָמִֽים</Word>
-<Word Book='Shoftim' Chapter='21' Verse='5' WordSequence='1' >וַיֹּֽאמְרוּ֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='21' Verse='4' WordSequence='10'>וּשְׁלָמִֽים</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='21' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֹּֽאמְרוּ֙</Word>
 <Word Book='Shoftim' Chapter='21' Verse='5' WordSequence='2' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='21' Verse='5' WordSequence='3' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Shoftim' Chapter='21' Verse='5' WordSequence='4' >מִ֠י</Word>
@@ -9713,8 +9713,8 @@
 <Word Book='Shoftim' Chapter='21' Verse='12' WordSequence='19' >שִׁלֹ֔ה</Word>
 <Word Book='Shoftim' Chapter='21' Verse='12' WordSequence='20' >אֲשֶׁ֖ר</Word>
 <Word Book='Shoftim' Chapter='21' Verse='12' WordSequence='21' >בְּאֶ֥רֶץ</Word>
-<Word Book='Shoftim' Chapter='21' Verse='12' WordSequence='22' >כְּנָֽעַן</Word>
-<Word Book='Shoftim' Chapter='21' Verse='13' WordSequence='1' >וַֽיִּשְׁלְחוּ֙</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='21' Verse='12' WordSequence='22' >כְּנָֽעַן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='21' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּשְׁלְחוּ֙</Word>
 <Word Book='Shoftim' Chapter='21' Verse='13' WordSequence='2' >כָּל־</Word>
 <Word Book='Shoftim' Chapter='21' Verse='13' WordSequence='3' >הָ֣עֵדָ֔ה</Word>
 <Word Book='Shoftim' Chapter='21' Verse='13' WordSequence='4' >וַֽיְדַבְּרוּ֙</Word>
@@ -9786,8 +9786,8 @@
 <Word Book='Shoftim' Chapter='21' Verse='18' WordSequence='13' >אָר֕וּר</Word>
 <Word Book='Shoftim' Chapter='21' Verse='18' WordSequence='14' >נֹתֵ֥ן</Word>
 <Word Book='Shoftim' Chapter='21' Verse='18' WordSequence='15' >אִשָּׁ֖ה</Word>
-<Word Book='Shoftim' Chapter='21' Verse='18' WordSequence='16' >לְבִנְיָמִֽן</Word>
-<Word Book='Shoftim' Chapter='21' Verse='19' WordSequence='1' >וַיֹּאמְר֡וּ</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='21' Verse='18' WordSequence='16' >לְבִנְיָמִֽן</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='21' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמְר֡וּ</Word>
 <Word Book='Shoftim' Chapter='21' Verse='19' WordSequence='2' >הִנֵּה֩</Word>
 <Word Book='Shoftim' Chapter='21' Verse='19' WordSequence='3' >חַג־</Word>
 <Word Book='Shoftim' Chapter='21' Verse='19' WordSequence='4' >יְהוָ֨ה</Word>
@@ -9861,8 +9861,8 @@
 <Word Book='Shoftim' Chapter='21' Verse='22' WordSequence='23' >נְתַתֶּ֥ם</Word>
 <Word Book='Shoftim' Chapter='21' Verse='22' WordSequence='24' >לָהֶ֖ם</Word>
 <Word Book='Shoftim' Chapter='21' Verse='22' WordSequence='25' >כָּעֵ֥ת</Word>
-<Word Book='Shoftim' Chapter='21' Verse='22' WordSequence='26' >תֶּאְשָֽׁמוּ</Word>
-<Word Book='Shoftim' Chapter='21' Verse='23' WordSequence='1' >וַיַּֽעֲשׂוּ־</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='21' Verse='22' WordSequence='26' >תֶּאְשָֽׁמוּ</Word>
+<Word Book='Shoftim' StartParashaBeforeWord='true' Chapter='21' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיַּֽעֲשׂוּ־</Word>
 <Word Book='Shoftim' Chapter='21' Verse='23' WordSequence='2' >כֵן֙</Word>
 <Word Book='Shoftim' Chapter='21' Verse='23' WordSequence='3' >בְּנֵ֣י</Word>
 <Word Book='Shoftim' Chapter='21' Verse='23' WordSequence='4' >בִנְיָמִ֔ן</Word>
@@ -9903,5 +9903,5 @@
 <Word Book='Shoftim' Chapter='21' Verse='25' WordSequence='6' >אִ֛ישׁ</Word>
 <Word Book='Shoftim' Chapter='21' Verse='25' WordSequence='7' >הַיָּשָׁ֥ר</Word>
 <Word Book='Shoftim' Chapter='21' Verse='25' WordSequence='8' >בְּעֵינָ֖יו</Word>
-<Word Book='Shoftim' EndPerekAfterWord='true' Chapter='21' Verse='25' WordSequence='9' >יַעֲשֶֽׂה</Word>
+<Word Book='Shoftim' EndParashaAfterWord='true' Chapter='21' Verse='25' WordSequence='9'>יַעֲשֶֽׂה</Word>
 </Tanakh>

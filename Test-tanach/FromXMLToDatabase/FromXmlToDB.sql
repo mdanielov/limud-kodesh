@@ -1,4 +1,5 @@
 IF OBJECT_ID('tempdb..#FromXml') IS NOT NULL DROP TABLE #FromXml
+
 CREATE TABLE #FromXml(ID int IDENTITY(1,1) PRIMARY KEY,BookName nvarchar(100),
  Content nvarchar(max), Chapter int,
   Verse int, WordSequence int,
@@ -8,9 +9,12 @@ CREATE TABLE #FromXml(ID int IDENTITY(1,1) PRIMARY KEY,BookName nvarchar(100),
 GO
 
 IF OBJECT_ID('tempdb..#FilesXml') IS NOT NULL DROP TABLE #FilesXml
-CREATE TABLE #FilesXml(ID int IDENTITY(1,1) PRIMARY KEY, FilesNames nvarchar(100))
-INSERT INTO #FilesXml
+CREATE TABLE #FilesXml(ID int IDENTITY(1,1) PRIMARY KEY, FileName nvarchar(100),BookSequence INT NULL)
+
+INSERT INTO #FilesXml (FileName)
 EXEC MASTER..xp_cmdshell 'dir /B C:\Matarah\limud-kodesh\FilesAndStuffs\ImportsDataFrom3rdParty\Tanakh\FromSefaria\XMLFilesProcessed\*.xml' 
+DELETE FROM #FilesXml WHERE FileName IS NULL;
+
 
 
 DECLARE @i int;
@@ -18,7 +22,7 @@ DECLARE @NameFile nvarchar(100);
 SET @i =1
 WHILE @i <= (select max(ID-1) from #FilesXml)
 BEGIN
-	select @NameFile= FilesNames from #FilesXml where ID = @i
+	select @NameFile= FileName from #FilesXml where ID = @i
 
 DECLARE @Xml XML
 DECLARE @path nvarchar(max) = concat('C:\Matarah\limud-kodesh\FilesAndStuffs\ImportsDataFrom3rdParty\Tanakh\FromSefaria\XMLFilesProcessed\',@NameFile)
@@ -35,11 +39,11 @@ INSERT INTO #FromXml (BookName , Content, Chapter,Verse , WordSequence, StartPer
 		Verse= Events.value('@Verse', 'int'),
 		WordSequence = Events.value('@WordSequence','int'),
 		CASE
-		WHEN (Events.value('@StartPerekBeforeWord','bit')) = 'true' THEN '1'
+		WHEN (Events.value('@StartParashaBeforeWord','bit')) = 'true' THEN '1'
 		ELSE '0'
 		END AS StartPerekBeforeWord,
 		CASE
-		WHEN (Events.value('@EndPerekAfterWord', 'bit')) = 'true' then '1'
+		WHEN (Events.value('@EndParashaAfterWord', 'bit')) = 'true' then '1'
 		ELSE '0' 
 		END AS EndPerekAfterWord,
 		CASE 
@@ -51,3 +55,8 @@ INSERT INTO #FromXml (BookName , Content, Chapter,Verse , WordSequence, StartPer
 
 	 Set @i = @i +1
 END
+
+
+
+
+DROP TABLE #FilesXml

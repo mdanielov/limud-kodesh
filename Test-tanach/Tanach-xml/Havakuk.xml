@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Havakuk' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>הַמַּשָׂא֙</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>הַמַּשָׂא֙</Word>
 <Word Book='Havakuk' Chapter='1' Verse='1' WordSequence='2' >אֲשֶׁ֣ר</Word>
 <Word Book='Havakuk' Chapter='1' Verse='1' WordSequence='3' >חָזָ֔ה</Word>
 <Word Book='Havakuk' Chapter='1' Verse='1' WordSequence='4' >חֲבַקּ֖וּק</Word>
@@ -195,8 +195,8 @@
 <Word Book='Havakuk' Chapter='1' Verse='17' WordSequence='6' >לַהֲרֹ֥ג</Word>
 <Word Book='Havakuk' Chapter='1' Verse='17' WordSequence='7' >גּוֹיִ֖ם</Word>
 <Word Book='Havakuk' Chapter='1' Verse='17' WordSequence='8' >לֹ֥א</Word>
-<Word Book='Havakuk' EndPerekAfterWord='true' Chapter='1' Verse='17' WordSequence='9' IsParashaPtuchah='true' >יַחְמֽוֹל</Word>
-<Word Book='Havakuk' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>עַל־</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='1' Verse='17' WordSequence='9' >יַחְמֽוֹל</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >עַל־</Word>
 <Word Book='Havakuk' Chapter='2' Verse='1' WordSequence='2' >מִשְׁמַרְתִּ֣י</Word>
 <Word Book='Havakuk' Chapter='2' Verse='1' WordSequence='3' >אֶעֱמֹ֔דָה</Word>
 <Word Book='Havakuk' Chapter='2' Verse='1' WordSequence='4' >וְאֶֽתְיַצְּבָ֖ה</Word>
@@ -317,8 +317,8 @@
 <Word Book='Havakuk' Chapter='2' Verse='8' WordSequence='14' >קִרְיָ֖ה</Word>
 <Word Book='Havakuk' Chapter='2' Verse='8' WordSequence='15' >וְכָל־</Word>
 <Word Book='Havakuk' Chapter='2' Verse='8' WordSequence='16' >יֹ֥שְׁבֵי</Word>
-<Word Book='Havakuk' Chapter='2' Verse='8' WordSequence='17' IsParashaPtuchah='true' >בָֽהּ</Word>
-<Word Book='Havakuk' Chapter='2' Verse='9' WordSequence='1' >ה֗וֹי</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='2' Verse='8' WordSequence='17'>בָֽהּ</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='2' Verse='9' WordSequence='1' IsParashaPtuchah='true' >ה֗וֹי</Word>
 <Word Book='Havakuk' Chapter='2' Verse='9' WordSequence='2' >בֹּצֵ֛עַ</Word>
 <Word Book='Havakuk' Chapter='2' Verse='9' WordSequence='3' >בֶּ֥צַע</Word>
 <Word Book='Havakuk' Chapter='2' Verse='9' WordSequence='4' >רָ֖ע</Word>
@@ -343,8 +343,8 @@
 <Word Book='Havakuk' Chapter='2' Verse='11' WordSequence='4' >תִּזְעָ֑ק</Word>
 <Word Book='Havakuk' Chapter='2' Verse='11' WordSequence='5' >וְכָפִ֖יס</Word>
 <Word Book='Havakuk' Chapter='2' Verse='11' WordSequence='6' >מֵעֵ֥ץ</Word>
-<Word Book='Havakuk' Chapter='2' Verse='11' WordSequence='7' IsParashaPtuchah='true' >יַעֲנֶֽנָּה</Word>
-<Word Book='Havakuk' Chapter='2' Verse='12' WordSequence='1' >ה֛וֹי</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='2' Verse='11' WordSequence='7'>יַעֲנֶֽנָּה</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='2' Verse='12' WordSequence='1' IsParashaPtuchah='true' >ה֛וֹי</Word>
 <Word Book='Havakuk' Chapter='2' Verse='12' WordSequence='2' >בֹּנֶ֥ה</Word>
 <Word Book='Havakuk' Chapter='2' Verse='12' WordSequence='3' >עִ֖יר</Word>
 <Word Book='Havakuk' Chapter='2' Verse='12' WordSequence='4' >בְּדָמִ֑ים</Word>
@@ -374,8 +374,8 @@
 <Word Book='Havakuk' Chapter='2' Verse='14' WordSequence='8' >כַּמַּ֖יִם</Word>
 <Word Book='Havakuk' Chapter='2' Verse='14' WordSequence='9' >יְכַסּ֥וּ</Word>
 <Word Book='Havakuk' Chapter='2' Verse='14' WordSequence='10' >עַל־</Word>
-<Word Book='Havakuk' Chapter='2' Verse='14' WordSequence='11' >יָֽם</Word>
-<Word Book='Havakuk' Chapter='2' Verse='15' WordSequence='1' >ה֚וֹי</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='2' Verse='14' WordSequence='11' >יָֽם</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='2' Verse='15' WordSequence='1' IsParashaPtuchah='true' >ה֚וֹי</Word>
 <Word Book='Havakuk' Chapter='2' Verse='15' WordSequence='2' >מַשְׁקֵ֣ה</Word>
 <Word Book='Havakuk' Chapter='2' Verse='15' WordSequence='3' >רֵעֵ֔הוּ</Word>
 <Word Book='Havakuk' Chapter='2' Verse='15' WordSequence='4' >מְסַפֵּ֥חַ</Word>
@@ -415,8 +415,8 @@
 <Word Book='Havakuk' Chapter='2' Verse='17' WordSequence='12' >קִרְיָ֖ה</Word>
 <Word Book='Havakuk' Chapter='2' Verse='17' WordSequence='13' >וְכָל־</Word>
 <Word Book='Havakuk' Chapter='2' Verse='17' WordSequence='14' >יֹ֥שְׁבֵי</Word>
-<Word Book='Havakuk' Chapter='2' Verse='17' WordSequence='15' >בָֽהּ</Word>
-<Word Book='Havakuk' Chapter='2' Verse='18' WordSequence='1' >מָֽה־</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='2' Verse='17' WordSequence='15' >בָֽהּ</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='2' Verse='18' WordSequence='1' IsParashaPtuchah='true' >מָֽה־</Word>
 <Word Book='Havakuk' Chapter='2' Verse='18' WordSequence='2' >הוֹעִ֣יל</Word>
 <Word Book='Havakuk' Chapter='2' Verse='18' WordSequence='3' >פֶּ֗סֶל</Word>
 <Word Book='Havakuk' Chapter='2' Verse='18' WordSequence='4' >כִּ֤י</Word>
@@ -432,8 +432,8 @@
 <Word Book='Havakuk' Chapter='2' Verse='18' WordSequence='14' >עָלָ֔יו</Word>
 <Word Book='Havakuk' Chapter='2' Verse='18' WordSequence='15' >לַעֲשׂ֖וֹת</Word>
 <Word Book='Havakuk' Chapter='2' Verse='18' WordSequence='16' >אֱלִילִ֥ים</Word>
-<Word Book='Havakuk' Chapter='2' Verse='18' WordSequence='17' >אִלְּמִֽים</Word>
-<Word Book='Havakuk' Chapter='2' Verse='19' WordSequence='1' >ה֣וֹי</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='2' Verse='18' WordSequence='17' >אִלְּמִֽים</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='2' Verse='19' WordSequence='1' IsParashaPtuchah='true' >ה֣וֹי</Word>
 <Word Book='Havakuk' Chapter='2' Verse='19' WordSequence='2' >אֹמֵ֤ר</Word>
 <Word Book='Havakuk' Chapter='2' Verse='19' WordSequence='3' >לָעֵץ֙</Word>
 <Word Book='Havakuk' Chapter='2' Verse='19' WordSequence='4' >הָקִ֔יצָה</Word>
@@ -457,8 +457,8 @@
 <Word Book='Havakuk' Chapter='2' Verse='20' WordSequence='4' >הַ֥ס</Word>
 <Word Book='Havakuk' Chapter='2' Verse='20' WordSequence='5' >מִפָּנָ֖יו</Word>
 <Word Book='Havakuk' Chapter='2' Verse='20' WordSequence='6' >כָּל־</Word>
-<Word Book='Havakuk' EndPerekAfterWord='true' Chapter='2' Verse='20' WordSequence='7' IsParashaPtuchah='true' >הָאָֽרֶץ</Word>
-<Word Book='Havakuk' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>תְּפִלָּ֖ה</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='2' Verse='20' WordSequence='7'>הָאָֽרֶץ</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >תְּפִלָּ֖ה</Word>
 <Word Book='Havakuk' Chapter='3' Verse='1' WordSequence='2' >לַחֲבַקּ֣וּק</Word>
 <Word Book='Havakuk' Chapter='3' Verse='1' WordSequence='3' >הַנָּבִ֑יא</Word>
 <Word Book='Havakuk' Chapter='3' Verse='1' WordSequence='4' >עַ֖ל</Word>
@@ -529,8 +529,8 @@
 <Word Book='Havakuk' Chapter='3' Verse='7' WordSequence='6' >יִרְגְּז֕וּן</Word>
 <Word Book='Havakuk' Chapter='3' Verse='7' WordSequence='7' >יְרִיע֖וֹת</Word>
 <Word Book='Havakuk' Chapter='3' Verse='7' WordSequence='8' >אֶ֥רֶץ</Word>
-<Word Book='Havakuk' Chapter='3' Verse='7' WordSequence='9' >מִדְיָֽן</Word>
-<Word Book='Havakuk' Chapter='3' Verse='8' WordSequence='1' >הֲבִנְהָרִים֙</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='3' Verse='7' WordSequence='9' >מִדְיָֽן</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='3' Verse='8' WordSequence='1' IsParashaPtuchah='true' >הֲבִנְהָרִים֙</Word>
 <Word Book='Havakuk' Chapter='3' Verse='8' WordSequence='2' >חָרָ֣ה</Word>
 <Word Book='Havakuk' Chapter='3' Verse='8' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Havakuk' Chapter='3' Verse='8' WordSequence='4' >אִ֤ם</Word>
@@ -597,8 +597,8 @@
 <Word Book='Havakuk' Chapter='3' Verse='13' WordSequence='12' >יְס֥וֹד</Word>
 <Word Book='Havakuk' Chapter='3' Verse='13' WordSequence='13' >עַד־</Word>
 <Word Book='Havakuk' Chapter='3' Verse='13' WordSequence='14' >צַוָּ֖אר</Word>
-<Word Book='Havakuk' Chapter='3' Verse='13' WordSequence='15' IsParashaPtuchah='true' >סֶֽלָה</Word>
-<Word Book='Havakuk' Chapter='3' Verse='14' WordSequence='1' >נָקַ֤בְתָּ</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='3' Verse='13' WordSequence='15'>סֶֽלָה</Word>
+<Word Book='Havakuk' StartParashaBeforeWord='true' Chapter='3' Verse='14' WordSequence='1' IsParashaPtuchah='true' >נָקַ֤בְתָּ</Word>
 <Word Book='Havakuk' Chapter='3' Verse='14' WordSequence='2' >בְמַטָּיו֙</Word>
 <Word Book='Havakuk' Chapter='3' Verse='14' WordSequence='3' >רֹ֣אשׁ</Word>
 <Word Book='Havakuk' Chapter='3' Verse='14' WordSequence='4' >פרזו</Word>
@@ -670,5 +670,5 @@
 <Word Book='Havakuk' Chapter='3' Verse='19' WordSequence='8' >בָּמוֹתַ֖י</Word>
 <Word Book='Havakuk' Chapter='3' Verse='19' WordSequence='9' >יַדְרִכֵ֑נִי</Word>
 <Word Book='Havakuk' Chapter='3' Verse='19' WordSequence='10' >לַמְנַצֵּ֖חַ</Word>
-<Word Book='Havakuk' EndPerekAfterWord='true' Chapter='3' Verse='19' WordSequence='11' >בִּנְגִינוֹתָֽי</Word>
+<Word Book='Havakuk' EndParashaAfterWord='true' Chapter='3' Verse='19' WordSequence='11'>בִּנְגִינוֹתָֽי</Word>
 </Tanakh>

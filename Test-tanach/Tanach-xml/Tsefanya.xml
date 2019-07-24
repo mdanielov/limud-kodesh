@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Tsefanya' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דְּבַר־</Word>
+<Word Book='Tsefanya' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דְּבַר־</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='1' WordSequence='2' >יְהוָ֣ה׀</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='1' WordSequence='3' >אֲשֶׁ֣ר</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='1' WordSequence='4' >הָיָ֗ה</Word>
@@ -130,8 +130,8 @@
 <Word Book='Tsefanya' Chapter='1' Verse='9' WordSequence='10' >בֵּ֥ית</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='9' WordSequence='11' >אֲדֹנֵיהֶ֖ם</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='9' WordSequence='12' >חָמָ֥ס</Word>
-<Word Book='Tsefanya' Chapter='1' Verse='9' WordSequence='13' >וּמִרְמָֽה</Word>
-<Word Book='Tsefanya' Chapter='1' Verse='10' WordSequence='1' >וְהָיָה֩</Word>
+<Word Book='Tsefanya' EndParashaAfterWord='true' Chapter='1' Verse='9' WordSequence='13' >וּמִרְמָֽה</Word>
+<Word Book='Tsefanya' StartParashaBeforeWord='true' Chapter='1' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וְהָיָה֩</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='10' WordSequence='2' >בַיּ֨וֹם</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='10' WordSequence='3' >הַה֜וּא</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='10' WordSequence='4' >נְאֻם־</Word>
@@ -267,8 +267,8 @@
 <Word Book='Tsefanya' Chapter='1' Verse='18' WordSequence='21' >אֵ֥ת</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='18' WordSequence='22' >כָּל־</Word>
 <Word Book='Tsefanya' Chapter='1' Verse='18' WordSequence='23' >יֹשְׁבֵ֖י</Word>
-<Word Book='Tsefanya' EndPerekAfterWord='true' Chapter='1' Verse='18' WordSequence='24' IsParashaPtuchah='true' >הָאָֽרֶץ</Word>
-<Word Book='Tsefanya' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>הִֽתְקוֹשְׁשׁ֖וּ</Word>
+<Word Book='Tsefanya' EndParashaAfterWord='true' Chapter='1' Verse='18' WordSequence='24' >הָאָֽרֶץ</Word>
+<Word Book='Tsefanya' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >הִֽתְקוֹשְׁשׁ֖וּ</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='1' WordSequence='2' >וָק֑וֹשּׁוּ</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='1' WordSequence='3' >הַגּ֖וֹי</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='1' WordSequence='4' >לֹ֥א</Word>
@@ -321,8 +321,8 @@
 <Word Book='Tsefanya' Chapter='2' Verse='4' WordSequence='8' >בַּֽצָּהֳרַ֙יִם֙</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='4' WordSequence='9' >יְגָ֣רְשׁ֔וּהָ</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='4' WordSequence='10' >וְעֶקְר֖וֹן</Word>
-<Word Book='Tsefanya' Chapter='2' Verse='4' WordSequence='11' >תֵּעָקֵֽר</Word>
-<Word Book='Tsefanya' Chapter='2' Verse='5' WordSequence='1' >ה֗וֹי</Word>
+<Word Book='Tsefanya' EndParashaAfterWord='true' Chapter='2' Verse='4' WordSequence='11' >תֵּעָקֵֽר</Word>
+<Word Book='Tsefanya' StartParashaBeforeWord='true' Chapter='2' Verse='5' WordSequence='1' IsParashaPtuchah='true' >ה֗וֹי</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='5' WordSequence='2' >יֹֽשְׁבֵ֛י</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='5' WordSequence='3' >חֶ֥בֶל</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='5' WordSequence='4' >הַיָּ֖ם</Word>
@@ -491,8 +491,8 @@
 <Word Book='Tsefanya' Chapter='2' Verse='15' WordSequence='18' >עָלֶ֔יהָ</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='15' WordSequence='19' >יִשְׁרֹ֖ק</Word>
 <Word Book='Tsefanya' Chapter='2' Verse='15' WordSequence='20' >יָנִ֥יעַ</Word>
-<Word Book='Tsefanya' EndPerekAfterWord='true' Chapter='2' Verse='15' WordSequence='21' IsParashaPtuchah='true' >יָדֽוֹ</Word>
-<Word Book='Tsefanya' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>ה֥וֹי</Word>
+<Word Book='Tsefanya' EndParashaAfterWord='true' Chapter='2' Verse='15' WordSequence='21' >יָדֽוֹ</Word>
+<Word Book='Tsefanya' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >ה֥וֹי</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='1' WordSequence='2' >מֹרְאָ֖ה</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='1' WordSequence='3' >וְנִגְאָלָ֑ה</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='1' WordSequence='4' >הָעִ֖יר</Word>
@@ -673,8 +673,8 @@
 <Word Book='Tsefanya' Chapter='3' Verse='13' WordSequence='16' >יִרְע֥וּ</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='13' WordSequence='17' >וְרָבְצ֖וּ</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='13' WordSequence='18' >וְאֵ֥ין</Word>
-<Word Book='Tsefanya' Chapter='3' Verse='13' WordSequence='19' >מַחֲרִֽיד</Word>
-<Word Book='Tsefanya' Chapter='3' Verse='14' WordSequence='1' >רָנִּי֙</Word>
+<Word Book='Tsefanya' EndParashaAfterWord='true' Chapter='3' Verse='13' WordSequence='19' >מַחֲרִֽיד</Word>
+<Word Book='Tsefanya' StartParashaBeforeWord='true' Chapter='3' Verse='14' WordSequence='1' IsParashaPtuchah='true' >רָנִּי֙</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='14' WordSequence='2' >בַּת־</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='14' WordSequence='3' >צִיּ֔וֹן</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='14' WordSequence='4' >הָרִ֖יעוּ</Word>
@@ -767,5 +767,5 @@
 <Word Book='Tsefanya' Chapter='3' Verse='20' WordSequence='18' >שְׁבוּתֵיכֶ֛ם</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='20' WordSequence='19' >לְעֵינֵיכֶ֖ם</Word>
 <Word Book='Tsefanya' Chapter='3' Verse='20' WordSequence='20' >אָמַ֥ר</Word>
-<Word Book='Tsefanya' EndPerekAfterWord='true' Chapter='3' Verse='20' WordSequence='21' >יְהוָֽה</Word>
+<Word Book='Tsefanya' EndParashaAfterWord='true' Chapter='3' Verse='20' WordSequence='21'>יְהוָֽה</Word>
 </Tanakh>

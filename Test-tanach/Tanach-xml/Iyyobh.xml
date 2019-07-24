@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>אִ֛ישׁ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>אִ֛ישׁ</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='1' WordSequence='2' >הָיָ֥ה</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='1' WordSequence='3' >בְאֶֽרֶץ־</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='1' WordSequence='4' >ע֖וּץ</Word>
@@ -87,8 +87,8 @@
 <Word Book='Iyyobh' Chapter='1' Verse='5' WordSequence='25' >יַעֲשֶׂ֥ה</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='5' WordSequence='26' >אִיּ֖וֹב</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='5' WordSequence='27' >כָּל־</Word>
-<Word Book='Iyyobh' Chapter='1' Verse='5' WordSequence='28' IsParashaPtuchah='true' >הַיָּמִֽים</Word>
-<Word Book='Iyyobh' Chapter='1' Verse='6' WordSequence='1' >וַיְהִ֣י</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='1' Verse='5' WordSequence='28'>הַיָּמִֽים</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='1' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='6' WordSequence='2' >הַיּ֔וֹם</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='6' WordSequence='3' >וַיָּבֹ֙אוּ֙</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='6' WordSequence='4' >בְּנֵ֣י</Word>
@@ -346,8 +346,8 @@
 <Word Book='Iyyobh' Chapter='1' Verse='22' WordSequence='6' >וְלֹא־</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='22' WordSequence='7' >נָתַ֥ן</Word>
 <Word Book='Iyyobh' Chapter='1' Verse='22' WordSequence='8' >תִּפְלָ֖ה</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='1' Verse='22' WordSequence='9' IsParashaPtuchah='true' >לֵאלֹהִֽים</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיְהִ֣י</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='1' Verse='22' WordSequence='9'>לֵאלֹהִֽים</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='1' WordSequence='2' >הַיּ֔וֹם</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='1' WordSequence='3' >וַיָּבֹ֙אוּ֙</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='1' WordSequence='4' >בְּנֵ֣י</Word>
@@ -497,8 +497,8 @@
 <Word Book='Iyyobh' Chapter='2' Verse='10' WordSequence='19' >לֹא־</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='10' WordSequence='20' >חָטָ֥א</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='10' WordSequence='21' >אִיּ֖וֹב</Word>
-<Word Book='Iyyobh' Chapter='2' Verse='10' WordSequence='22' IsParashaPtuchah='true' >בִּשְׂפָתָֽיו</Word>
-<Word Book='Iyyobh' Chapter='2' Verse='11' WordSequence='1' >וַֽיִּשְׁמְע֞וּ</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='2' Verse='10' WordSequence='22'>בִּשְׂפָתָֽיו</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='2' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּשְׁמְע֞וּ</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='11' WordSequence='2' >שְׁלֹ֣שֶׁת׀</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='11' WordSequence='3' >רֵעֵ֣י</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='11' WordSequence='4' >אִיּ֗וֹב</Word>
@@ -556,8 +556,8 @@
 <Word Book='Iyyobh' Chapter='2' Verse='13' WordSequence='14' >כִּֽי־</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='13' WordSequence='15' >גָדַ֥ל</Word>
 <Word Book='Iyyobh' Chapter='2' Verse='13' WordSequence='16' >הַכְּאֵ֖ב</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='2' Verse='13' WordSequence='17' >מְאֹֽד</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>אַחֲרֵי־</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='2' Verse='13' WordSequence='17'>מְאֹֽד</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>אַחֲרֵי־</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='1' WordSequence='2' >כֵ֗ן</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='1' WordSequence='3' >פָּתַ֤ח</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='1' WordSequence='4' >אִיּוֹב֙</Word>
@@ -565,8 +565,8 @@
 <Word Book='Iyyobh' Chapter='3' Verse='1' WordSequence='6' >פִּ֔יהוּ</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='1' WordSequence='7' >וַיְקַלֵּ֖ל</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='1' WordSequence='8' >אֶת־</Word>
-<Word Book='Iyyobh' Chapter='3' Verse='1' WordSequence='9' IsParashaPtuchah='true' >יוֹמֽוֹ</Word>
-<Word Book='Iyyobh' Chapter='3' Verse='2' WordSequence='1' >וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='3' Verse='1' WordSequence='9'>יוֹמֽוֹ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='3' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='2' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='2' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='3' WordSequence='1' >יֹ֣אבַד</Word>
@@ -760,8 +760,8 @@
 <Word Book='Iyyobh' Chapter='3' Verse='26' WordSequence='5' >וְֽלֹא־</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='26' WordSequence='6' >נָ֗חְתִּי</Word>
 <Word Book='Iyyobh' Chapter='3' Verse='26' WordSequence='7' >וַיָּ֥בֹא</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='3' Verse='26' WordSequence='8' IsParashaPtuchah='true' >רֹֽגֶז</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַ֭יַּעַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='3' Verse='26' WordSequence='8'>רֹֽגֶז</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַ֭יַּעַן</Word>
 <Word Book='Iyyobh' Chapter='4' Verse='1' WordSequence='2' >אֱלִיפַ֥ז</Word>
 <Word Book='Iyyobh' Chapter='4' Verse='1' WordSequence='3' >הַֽתֵּימָנִ֗י</Word>
 <Word Book='Iyyobh' Chapter='4' Verse='1' WordSequence='4' >וַיֹּאמַֽר</Word>
@@ -909,8 +909,8 @@
 <Word Book='Iyyobh' Chapter='4' Verse='21' WordSequence='4' >בָּ֑ם</Word>
 <Word Book='Iyyobh' Chapter='4' Verse='21' WordSequence='5' >יָ֝מ֗וּתוּ</Word>
 <Word Book='Iyyobh' Chapter='4' Verse='21' WordSequence='6' >וְלֹ֣א</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='4' Verse='21' WordSequence='7' >בְחָכְמָֽה</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>קְֽרָא־</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='4' Verse='21' WordSequence='7'>בְחָכְמָֽה</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>קְֽרָא־</Word>
 <Word Book='Iyyobh' Chapter='5' Verse='1' WordSequence='2' >נָ֭א</Word>
 <Word Book='Iyyobh' Chapter='5' Verse='1' WordSequence='3' >הֲיֵ֣שׁ</Word>
 <Word Book='Iyyobh' Chapter='5' Verse='1' WordSequence='4' >עוֹנֶ֑ךָּ</Word>
@@ -1115,8 +1115,8 @@
 <Word Book='Iyyobh' Chapter='5' Verse='27' WordSequence='6' >שְׁ֝מָעֶ֗נָּה</Word>
 <Word Book='Iyyobh' Chapter='5' Verse='27' WordSequence='7' >וְאַתָּ֥ה</Word>
 <Word Book='Iyyobh' Chapter='5' Verse='27' WordSequence='8' >דַֽע־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='5' Verse='27' WordSequence='9' IsParashaPtuchah='true' >לָֽךְ</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='5' Verse='27' WordSequence='9'>לָֽךְ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='6' Verse='1' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='6' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='6' Verse='2' WordSequence='1' >ל֗וּ</Word>
@@ -1338,8 +1338,8 @@
 <Word Book='Iyyobh' Chapter='6' Verse='30' WordSequence='5' >חִ֝כִּ֗י</Word>
 <Word Book='Iyyobh' Chapter='6' Verse='30' WordSequence='6' >לֹא־</Word>
 <Word Book='Iyyobh' Chapter='6' Verse='30' WordSequence='7' >יָבִ֥ין</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='6' Verse='30' WordSequence='8' >הַוּֽוֹת</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>הֲלֹא־</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='6' Verse='30' WordSequence='8'>הַוּֽוֹת</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>הֲלֹא־</Word>
 <Word Book='Iyyobh' Chapter='7' Verse='1' WordSequence='2' >צָבָ֣א</Word>
 <Word Book='Iyyobh' Chapter='7' Verse='1' WordSequence='3' >לֶאֱנ֣וֹשׁ</Word>
 <Word Book='Iyyobh' Chapter='7' Verse='1' WordSequence='4' >על־</Word>
@@ -1513,8 +1513,8 @@
 <Word Book='Iyyobh' Chapter='7' Verse='21' WordSequence='10' >לֶעָפָ֣ר</Word>
 <Word Book='Iyyobh' Chapter='7' Verse='21' WordSequence='11' >אֶשְׁכָּ֑ב</Word>
 <Word Book='Iyyobh' Chapter='7' Verse='21' WordSequence='12' >וְשִׁ֖חֲרְתַּ֣נִי</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='7' Verse='21' WordSequence='13' IsParashaPtuchah='true' >וְאֵינֶֽנִּי</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַ֭יַּעַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='7' Verse='21' WordSequence='13'>וְאֵינֶֽנִּי</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַ֭יַּעַן</Word>
 <Word Book='Iyyobh' Chapter='8' Verse='1' WordSequence='2' >בִּלְדַּ֥ד</Word>
 <Word Book='Iyyobh' Chapter='8' Verse='1' WordSequence='3' >הַשּׁוּחִ֗י</Word>
 <Word Book='Iyyobh' Chapter='8' Verse='1' WordSequence='4' >וַיֹאמַֽר</Word>
@@ -1679,8 +1679,8 @@
 <Word Book='Iyyobh' Chapter='8' Verse='22' WordSequence='3' >בֹ֑שֶׁת</Word>
 <Word Book='Iyyobh' Chapter='8' Verse='22' WordSequence='4' >וְאֹ֖הֶל</Word>
 <Word Book='Iyyobh' Chapter='8' Verse='22' WordSequence='5' >רְשָׁעִ֣ים</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='8' Verse='22' WordSequence='6' IsParashaPtuchah='true' >אֵינֶֽנּוּ</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='8' Verse='22' WordSequence='6'>אֵינֶֽנּוּ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='9' Verse='1' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='9' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='9' Verse='2' WordSequence='1' >אָ֭מְנָם</Word>
@@ -1941,8 +1941,8 @@
 <Word Book='Iyyobh' Chapter='9' Verse='35' WordSequence='5' >לֹא־</Word>
 <Word Book='Iyyobh' Chapter='9' Verse='35' WordSequence='6' >כֵ֥ן</Word>
 <Word Book='Iyyobh' Chapter='9' Verse='35' WordSequence='7' >אָ֝נֹכִ֗י</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='9' Verse='35' WordSequence='8' >עִמָּדִֽי</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>נָֽקְטָ֥ה</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='9' Verse='35' WordSequence='8'>עִמָּדִֽי</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>נָֽקְטָ֥ה</Word>
 <Word Book='Iyyobh' Chapter='10' Verse='1' WordSequence='2' >נַפְשִׁ֗י</Word>
 <Word Book='Iyyobh' Chapter='10' Verse='1' WordSequence='3' >בְּחַ֫יָּ֥י</Word>
 <Word Book='Iyyobh' Chapter='10' Verse='1' WordSequence='4' >אֶֽעֶזְבָ֣ה</Word>
@@ -2112,8 +2112,8 @@
 <Word Book='Iyyobh' Chapter='10' Verse='22' WordSequence='7' >סְדָרִ֗ים</Word>
 <Word Book='Iyyobh' Chapter='10' Verse='22' WordSequence='8' >וַתֹּ֥פַע</Word>
 <Word Book='Iyyobh' Chapter='10' Verse='22' WordSequence='9' >כְּמוֹ־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='10' Verse='22' WordSequence='10' IsParashaPtuchah='true' >אֹֽפֶל</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַ֭יַּעַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='10' Verse='22' WordSequence='10'>אֹֽפֶל</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַ֭יַּעַן</Word>
 <Word Book='Iyyobh' Chapter='11' Verse='1' WordSequence='2' >צֹפַ֥ר</Word>
 <Word Book='Iyyobh' Chapter='11' Verse='1' WordSequence='3' >הַֽנַּעֲמָתִ֗י</Word>
 <Word Book='Iyyobh' Chapter='11' Verse='1' WordSequence='4' >וַיֹּאמַֽר</Word>
@@ -2260,8 +2260,8 @@
 <Word Book='Iyyobh' Chapter='11' Verse='20' WordSequence='6' >מִנְהֶ֑ם</Word>
 <Word Book='Iyyobh' Chapter='11' Verse='20' WordSequence='7' >וְ֝תִקְוָתָ֗ם</Word>
 <Word Book='Iyyobh' Chapter='11' Verse='20' WordSequence='8' >מַֽפַּח־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='11' Verse='20' WordSequence='9' IsParashaPtuchah='true' >נָֽפֶשׁ</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='11' Verse='20' WordSequence='9'>נָֽפֶשׁ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='12' Verse='1' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='12' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='12' Verse='2' WordSequence='1' >אָ֭מְנָם</Word>
@@ -2443,8 +2443,8 @@
 <Word Book='Iyyobh' Chapter='12' Verse='25' WordSequence='3' >וְלֹא־</Word>
 <Word Book='Iyyobh' Chapter='12' Verse='25' WordSequence='4' >א֑וֹר</Word>
 <Word Book='Iyyobh' Chapter='12' Verse='25' WordSequence='5' >וַ֝יַּתְעֵ֗ם</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='12' Verse='25' WordSequence='6' >כַּשִּׁכּֽוֹר</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>הֶן־</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='12' Verse='25' WordSequence='6'>כַּשִּׁכּֽוֹר</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>הֶן־</Word>
 <Word Book='Iyyobh' Chapter='13' Verse='1' WordSequence='2' >כֹּ֭ל</Word>
 <Word Book='Iyyobh' Chapter='13' Verse='1' WordSequence='3' >רָאֲתָ֣ה</Word>
 <Word Book='Iyyobh' Chapter='13' Verse='1' WordSequence='4' >עֵינִ֑י</Word>
@@ -2647,8 +2647,8 @@
 <Word Book='Iyyobh' Chapter='13' Verse='28' WordSequence='3' >יִבְלֶ֑ה</Word>
 <Word Book='Iyyobh' Chapter='13' Verse='28' WordSequence='4' >כְּ֝בֶ֗גֶד</Word>
 <Word Book='Iyyobh' Chapter='13' Verse='28' WordSequence='5' >אֲכָ֣לוֹ</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='13' Verse='28' WordSequence='6' >עָֽשׁ</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>אָ֭דָם</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='13' Verse='28' WordSequence='6'>עָֽשׁ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>אָ֭דָם</Word>
 <Word Book='Iyyobh' Chapter='14' Verse='1' WordSequence='2' >יְל֣וּד</Word>
 <Word Book='Iyyobh' Chapter='14' Verse='1' WordSequence='3' >אִשָּׁ֑ה</Word>
 <Word Book='Iyyobh' Chapter='14' Verse='1' WordSequence='4' >קְצַ֥ר</Word>
@@ -2825,8 +2825,8 @@
 <Word Book='Iyyobh' Chapter='14' Verse='22' WordSequence='4' >יִכְאָ֑ב</Word>
 <Word Book='Iyyobh' Chapter='14' Verse='22' WordSequence='5' >וְ֝נַפְשׁ֗וֹ</Word>
 <Word Book='Iyyobh' Chapter='14' Verse='22' WordSequence='6' >עָלָ֥יו</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='14' Verse='22' WordSequence='7' IsParashaPtuchah='true' >תֶּאֱבָֽל</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וַ֭יַּעַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='14' Verse='22' WordSequence='7'>תֶּאֱבָֽל</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַ֭יַּעַן</Word>
 <Word Book='Iyyobh' Chapter='15' Verse='1' WordSequence='2' >אֱלִיפַ֥ז</Word>
 <Word Book='Iyyobh' Chapter='15' Verse='1' WordSequence='3' >הַֽתֵּימָנִ֗י</Word>
 <Word Book='Iyyobh' Chapter='15' Verse='1' WordSequence='4' >וַיֹּאמַֽר</Word>
@@ -3089,8 +3089,8 @@
 <Word Book='Iyyobh' Chapter='15' Verse='35' WordSequence='4' >אָ֑וֶן</Word>
 <Word Book='Iyyobh' Chapter='15' Verse='35' WordSequence='5' >וּ֝בִטְנָ֗ם</Word>
 <Word Book='Iyyobh' Chapter='15' Verse='35' WordSequence='6' >תָּכִ֥ין</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='15' Verse='35' WordSequence='7' IsParashaPtuchah='true' >מִרְמָֽה</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='15' Verse='35' WordSequence='7' >מִרְמָֽה</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='16' Verse='1' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='16' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='16' Verse='2' WordSequence='1' >שָׁמַ֣עְתִּי</Word>
@@ -3262,8 +3262,8 @@
 <Word Book='Iyyobh' Chapter='16' Verse='22' WordSequence='5' >וְאֹ֖רַח</Word>
 <Word Book='Iyyobh' Chapter='16' Verse='22' WordSequence='6' >לֹא־</Word>
 <Word Book='Iyyobh' Chapter='16' Verse='22' WordSequence='7' >אָשׁ֣וּב</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='16' Verse='22' WordSequence='8' >אֶהֱלֹֽךְ</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>רוּחִ֣י</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='16' Verse='22' WordSequence='8'>אֶהֱלֹֽךְ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>רוּחִ֣י</Word>
 <Word Book='Iyyobh' Chapter='17' Verse='1' WordSequence='2' >חֻ֭בָּלָה</Word>
 <Word Book='Iyyobh' Chapter='17' Verse='1' WordSequence='3' >יָמַ֥י</Word>
 <Word Book='Iyyobh' Chapter='17' Verse='1' WordSequence='4' >נִזְעָ֗כוּ</Word>
@@ -3374,8 +3374,8 @@
 <Word Book='Iyyobh' Chapter='17' Verse='16' WordSequence='5' >יַ֖חַד</Word>
 <Word Book='Iyyobh' Chapter='17' Verse='16' WordSequence='6' >עַל־</Word>
 <Word Book='Iyyobh' Chapter='17' Verse='16' WordSequence='7' >עָפָ֣ר</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='17' Verse='16' WordSequence='8' IsParashaPtuchah='true' >נָֽחַת</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַ֭יַּעַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='17' Verse='16' WordSequence='8' >נָֽחַת</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַ֭יַּעַן</Word>
 <Word Book='Iyyobh' Chapter='18' Verse='1' WordSequence='2' >בִּלְדַּ֥ד</Word>
 <Word Book='Iyyobh' Chapter='18' Verse='1' WordSequence='3' >הַשֻּׁחִ֗י</Word>
 <Word Book='Iyyobh' Chapter='18' Verse='1' WordSequence='4' >וַיֹּאמַֽר</Word>
@@ -3517,8 +3517,8 @@
 <Word Book='Iyyobh' Chapter='18' Verse='21' WordSequence='6' >מְק֣וֹם</Word>
 <Word Book='Iyyobh' Chapter='18' Verse='21' WordSequence='7' >לֹא־</Word>
 <Word Book='Iyyobh' Chapter='18' Verse='21' WordSequence='8' >יָדַֽע־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='18' Verse='21' WordSequence='9' IsParashaPtuchah='true' >אֵֽל</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='18' Verse='21' WordSequence='9' >אֵֽל</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='19' Verse='1' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='19' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='19' Verse='2' WordSequence='1' >עַד־</Word>
@@ -3731,8 +3731,8 @@
 <Word Book='Iyyobh' Chapter='19' Verse='29' WordSequence='9' >לְמַ֖עַן</Word>
 <Word Book='Iyyobh' Chapter='19' Verse='29' WordSequence='10' >תֵּדְע֣וּן</Word>
 <Word Book='Iyyobh' Chapter='19' Verse='29' WordSequence='11' >שדין</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='19' Verse='29' WordSequence='12' IsParashaPtuchah='true' >[שַׁדּֽוּן]</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וַ֭יַּעַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='19' Verse='29' WordSequence='12' >[שַׁדּֽוּן]</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַ֭יַּעַן</Word>
 <Word Book='Iyyobh' Chapter='20' Verse='1' WordSequence='2' >צֹפַ֥ר</Word>
 <Word Book='Iyyobh' Chapter='20' Verse='1' WordSequence='3' >הַנַּֽעֲמָתִ֗י</Word>
 <Word Book='Iyyobh' Chapter='20' Verse='1' WordSequence='4' >וַיֹּאמַֽר</Word>
@@ -3940,8 +3940,8 @@
 <Word Book='Iyyobh' Chapter='20' Verse='29' WordSequence='5' >מֵאֱלֹהִ֑ים</Word>
 <Word Book='Iyyobh' Chapter='20' Verse='29' WordSequence='6' >וְנַחֲלַ֖ת</Word>
 <Word Book='Iyyobh' Chapter='20' Verse='29' WordSequence='7' >אִמְר֣וֹ</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='20' Verse='29' WordSequence='8' IsParashaPtuchah='true' >מֵאֵֽל</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='20' Verse='29' WordSequence='8'>מֵאֵֽל</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='21' Verse='1' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='21' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='21' Verse='2' WordSequence='1' >שִׁמְע֣וּ</Word>
@@ -4182,8 +4182,8 @@
 <Word Book='Iyyobh' Chapter='21' Verse='34' WordSequence='3' >הָ֑בֶל</Word>
 <Word Book='Iyyobh' Chapter='21' Verse='34' WordSequence='4' >וּ֝תְשֽׁוּבֹתֵיכֶ֗ם</Word>
 <Word Book='Iyyobh' Chapter='21' Verse='34' WordSequence='5' >נִשְׁאַר־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='21' Verse='34' WordSequence='6' IsParashaPtuchah='true' >מָֽעַל</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַ֭יַּעַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='21' Verse='34' WordSequence='6' >מָֽעַל</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַ֭יַּעַן</Word>
 <Word Book='Iyyobh' Chapter='22' Verse='1' WordSequence='2' >אֱלִיפַ֥ז</Word>
 <Word Book='Iyyobh' Chapter='22' Verse='1' WordSequence='3' >הַֽתֵּמָנִ֗י</Word>
 <Word Book='Iyyobh' Chapter='22' Verse='1' WordSequence='4' >וַיֹּאמַֽר</Word>
@@ -4392,8 +4392,8 @@
 <Word Book='Iyyobh' Chapter='22' Verse='30' WordSequence='3' >נָקִ֑י</Word>
 <Word Book='Iyyobh' Chapter='22' Verse='30' WordSequence='4' >וְ֝נִמְלַ֗ט</Word>
 <Word Book='Iyyobh' Chapter='22' Verse='30' WordSequence='5' >בְּבֹ֣ר</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='22' Verse='30' WordSequence='6' IsParashaPtuchah='true' >כַּפֶּֽיךָ</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='22' Verse='30' WordSequence='6'>כַּפֶּֽיךָ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='23' Verse='1' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='23' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='23' Verse='2' WordSequence='1' >גַּם־</Word>
@@ -4510,8 +4510,8 @@
 <Word Book='Iyyobh' Chapter='23' Verse='17' WordSequence='5' >חֹ֑שֶׁךְ</Word>
 <Word Book='Iyyobh' Chapter='23' Verse='17' WordSequence='6' >וּ֝מִפָּנַ֗י</Word>
 <Word Book='Iyyobh' Chapter='23' Verse='17' WordSequence='7' >כִּסָּה־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='23' Verse='17' WordSequence='8' >אֹֽפֶל</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>מַדּ֗וּעַ</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='23' Verse='17' WordSequence='8'>אֹֽפֶל</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>מַדּ֗וּעַ</Word>
 <Word Book='Iyyobh' Chapter='24' Verse='1' WordSequence='2' >מִ֭שַּׁדַּי</Word>
 <Word Book='Iyyobh' Chapter='24' Verse='1' WordSequence='3' >לֹא־</Word>
 <Word Book='Iyyobh' Chapter='24' Verse='1' WordSequence='4' >נִצְפְּנ֣וּ</Word>
@@ -4715,8 +4715,8 @@
 <Word Book='Iyyobh' Chapter='24' Verse='25' WordSequence='5' >יַכְזִיבֵ֑נִי</Word>
 <Word Book='Iyyobh' Chapter='24' Verse='25' WordSequence='6' >וְיָשֵׂ֥ם</Word>
 <Word Book='Iyyobh' Chapter='24' Verse='25' WordSequence='7' >לְ֝אַ֗ל</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='24' Verse='25' WordSequence='8' IsParashaPtuchah='true' >מִלָּתִֽי</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='25' Verse='1' WordSequence='1'>וַ֭יַּעַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='24' Verse='25' WordSequence='8' >מִלָּתִֽי</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='25' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַ֭יַּעַן</Word>
 <Word Book='Iyyobh' Chapter='25' Verse='1' WordSequence='2' >בִּלְדַּ֥ד</Word>
 <Word Book='Iyyobh' Chapter='25' Verse='1' WordSequence='3' >הַשֻּׁחִ֗י</Word>
 <Word Book='Iyyobh' Chapter='25' Verse='1' WordSequence='4' >וַיֹּאמַֽר</Word>
@@ -4758,8 +4758,8 @@
 <Word Book='Iyyobh' Chapter='25' Verse='6' WordSequence='4' >רִמָּ֑ה</Word>
 <Word Book='Iyyobh' Chapter='25' Verse='6' WordSequence='5' >וּבֶן־</Word>
 <Word Book='Iyyobh' Chapter='25' Verse='6' WordSequence='6' >אָ֝דָ֗ם</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='25' Verse='6' WordSequence='7' IsParashaPtuchah='true' >תּוֹלֵעָֽה</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='25' Verse='6' WordSequence='7'>תּוֹלֵעָֽה</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='26' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='26' Verse='1' WordSequence='2' >אִיּ֗וֹב</Word>
 <Word Book='Iyyobh' Chapter='26' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='26' Verse='2' WordSequence='1' >מֶה־</Word>
@@ -4861,8 +4861,8 @@
 <Word Book='Iyyobh' Chapter='26' Verse='14' WordSequence='12' >גבורתו</Word>
 <Word Book='Iyyobh' Chapter='26' Verse='14' WordSequence='13' >[גְּ֝בוּרוֹתָ֗יו]</Word>
 <Word Book='Iyyobh' Chapter='26' Verse='14' WordSequence='14' >מִ֣י</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='26' Verse='14' WordSequence='15' IsParashaPtuchah='true' >יִתְבּוֹנָֽן</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>וַיֹּ֣סֶף</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='26' Verse='14' WordSequence='15' >יִתְבּוֹנָֽן</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='27' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣סֶף</Word>
 <Word Book='Iyyobh' Chapter='27' Verse='1' WordSequence='2' >אִ֭יּוֹב</Word>
 <Word Book='Iyyobh' Chapter='27' Verse='1' WordSequence='3' >שְׂאֵ֥ת</Word>
 <Word Book='Iyyobh' Chapter='27' Verse='1' WordSequence='4' >מְשָׁל֗וֹ</Word>
@@ -5031,8 +5031,8 @@
 <Word Book='Iyyobh' Chapter='27' Verse='23' WordSequence='3' >כַפֵּ֑ימוֹ</Word>
 <Word Book='Iyyobh' Chapter='27' Verse='23' WordSequence='4' >וְיִשְׁרֹ֥ק</Word>
 <Word Book='Iyyobh' Chapter='27' Verse='23' WordSequence='5' >עָ֝לָ֗יו</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='27' Verse='23' WordSequence='6' >מִמְּקֹמֽוֹ</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>כִּ֤י</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='27' Verse='23' WordSequence='6'>מִמְּקֹמֽוֹ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>כִּ֤י</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='1' WordSequence='2' >יֵ֣שׁ</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='1' WordSequence='3' >לַכֶּ֣סֶף</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='1' WordSequence='4' >מוֹצָ֑א</Word>
@@ -5113,8 +5113,8 @@
 <Word Book='Iyyobh' Chapter='28' Verse='11' WordSequence='3' >חִבֵּ֑שׁ</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='11' WordSequence='4' >וְ֝תַעֲלֻמָ֗הּ</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='11' WordSequence='5' >יֹ֣צִא</Word>
-<Word Book='Iyyobh' Chapter='28' Verse='11' WordSequence='6' IsParashaPtuchah='true' >אֽוֹר</Word>
-<Word Book='Iyyobh' Chapter='28' Verse='12' WordSequence='1' >וְֽ֭הַחָכְמָה</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='28' Verse='11' WordSequence='6'>אֽוֹר</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='28' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְֽ֭הַחָכְמָה</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='12' WordSequence='2' >מֵאַ֣יִן</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='12' WordSequence='3' >תִּמָּצֵ֑א</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='12' WordSequence='4' >וְאֵ֥י</Word>
@@ -5174,8 +5174,8 @@
 <Word Book='Iyyobh' Chapter='28' Verse='19' WordSequence='5' >בְּכֶ֥תֶם</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='19' WordSequence='6' >טָ֝ה֗וֹר</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='19' WordSequence='7' >לֹ֣א</Word>
-<Word Book='Iyyobh' Chapter='28' Verse='19' WordSequence='8' IsParashaPtuchah='true' >תְסֻלֶּֽה</Word>
-<Word Book='Iyyobh' Chapter='28' Verse='20' WordSequence='1' >וְֽ֭הַחָכְמָה</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='28' Verse='19' WordSequence='8'>תְסֻלֶּֽה</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='28' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וְֽ֭הַחָכְמָה</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='20' WordSequence='2' >מֵאַ֣יִן</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='20' WordSequence='3' >תָּב֑וֹא</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='20' WordSequence='4' >וְאֵ֥י</Word>
@@ -5238,8 +5238,8 @@
 <Word Book='Iyyobh' Chapter='28' Verse='28' WordSequence='7' >חָכְמָ֑ה</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='28' WordSequence='8' >וְס֖וּר</Word>
 <Word Book='Iyyobh' Chapter='28' Verse='28' WordSequence='9' >מֵרָ֣ע</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='28' Verse='28' WordSequence='10' IsParashaPtuchah='true' >בִּינָֽה</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>וַיֹּ֣סֶף</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='28' Verse='28' WordSequence='10' >בִּינָֽה</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='29' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣סֶף</Word>
 <Word Book='Iyyobh' Chapter='29' Verse='1' WordSequence='2' >אִ֭יּוֹב</Word>
 <Word Book='Iyyobh' Chapter='29' Verse='1' WordSequence='3' >שְׂאֵ֥ת</Word>
 <Word Book='Iyyobh' Chapter='29' Verse='1' WordSequence='4' >מְשָׁל֗וֹ</Word>
@@ -5407,8 +5407,8 @@
 <Word Book='Iyyobh' Chapter='29' Verse='25' WordSequence='7' >בַּגְּד֑וּד</Word>
 <Word Book='Iyyobh' Chapter='29' Verse='25' WordSequence='8' >כַּאֲשֶׁ֖ר</Word>
 <Word Book='Iyyobh' Chapter='29' Verse='25' WordSequence='9' >אֲבֵלִ֣ים</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='29' Verse='25' WordSequence='10' >יְנַחֵֽם</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וְעַתָּ֤ה׀</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='29' Verse='25' WordSequence='10'>יְנַחֵֽם</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וְעַתָּ֤ה׀</Word>
 <Word Book='Iyyobh' Chapter='30' Verse='1' WordSequence='2' >שָֽׂחֲק֣וּ</Word>
 <Word Book='Iyyobh' Chapter='30' Verse='1' WordSequence='3' >עָלַי֮</Word>
 <Word Book='Iyyobh' Chapter='30' Verse='1' WordSequence='4' >צְעִירִ֥ים</Word>
@@ -5636,8 +5636,8 @@
 <Word Book='Iyyobh' Chapter='30' Verse='31' WordSequence='3' >כִּנֹּרִ֑י</Word>
 <Word Book='Iyyobh' Chapter='30' Verse='31' WordSequence='4' >וְ֝עֻגָבִ֗י</Word>
 <Word Book='Iyyobh' Chapter='30' Verse='31' WordSequence='5' >לְק֣וֹל</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='30' Verse='31' WordSequence='6' >בֹּכִֽים</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>בְּ֭רִית</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='30' Verse='31' WordSequence='6'>בֹּכִֽים</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>בְּ֭רִית</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='1' WordSequence='2' >כָּרַ֣תִּי</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='1' WordSequence='3' >לְעֵינָ֑י</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='1' WordSequence='4' >וּמָ֥ה</Word>
@@ -5689,8 +5689,8 @@
 <Word Book='Iyyobh' Chapter='31' Verse='7' WordSequence='9' >לִבִּ֑י</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='7' WordSequence='10' >וּ֝בְכַפַּ֗י</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='7' WordSequence='11' >דָּ֣בַק</Word>
-<Word Book='Iyyobh' Chapter='31' Verse='7' WordSequence='12' IsParashaPtuchah='true' >מֻאֽוּם</Word>
-<Word Book='Iyyobh' Chapter='31' Verse='8' WordSequence='1' >אֶ֭זְרְעָה</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='31' Verse='7' WordSequence='12'>מֻאֽוּם</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='31' Verse='8' WordSequence='1' IsParashaPtuchah='true' >אֶ֭זְרְעָה</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='8' WordSequence='2' >וְאַחֵ֣ר</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='8' WordSequence='3' >יֹאכֵ֑ל</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='8' WordSequence='4' >וְֽצֶאֱצָאַ֥י</Word>
@@ -5949,8 +5949,8 @@
 <Word Book='Iyyobh' Chapter='31' Verse='40' WordSequence='7' >בָאְשָׁ֑ה</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='40' WordSequence='8' >תַּ֝֗מּוּ</Word>
 <Word Book='Iyyobh' Chapter='31' Verse='40' WordSequence='9' >דִּבְרֵ֥י</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='31' Verse='40' WordSequence='10' IsParashaPtuchah='true' >אִיּֽוֹב</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='32' Verse='1' WordSequence='1'>וַֽיִּשְׁבְּת֡וּ</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='31' Verse='40' WordSequence='10'>אִיּֽוֹב</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='32' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיִּשְׁבְּת֡וּ</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='1' WordSequence='2' >שְׁלֹ֤שֶׁת</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='1' WordSequence='3' >הָאֲנָשִׁ֣ים</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='1' WordSequence='4' >הָ֭אֵלֶּה</Word>
@@ -5960,8 +5960,8 @@
 <Word Book='Iyyobh' Chapter='32' Verse='1' WordSequence='8' >כִּ֤י</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='1' WordSequence='9' >ה֖וּא</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='1' WordSequence='10' >צַדִּ֣יק</Word>
-<Word Book='Iyyobh' Chapter='32' Verse='1' WordSequence='11' IsParashaPtuchah='true' >בְּעֵינָֽיו</Word>
-<Word Book='Iyyobh' Chapter='32' Verse='2' WordSequence='1' >וַיִּ֤חַר</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='32' Verse='1' WordSequence='11'>בְּעֵינָֽיו</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='32' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיִּ֤חַר</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='2' WordSequence='2' >אַ֨ף׀</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='2' WordSequence='3' >אֱלִיה֣וּא</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='2' WordSequence='4' >בֶן־</Word>
@@ -6007,8 +6007,8 @@
 <Word Book='Iyyobh' Chapter='32' Verse='5' WordSequence='7' >שְׁלֹ֥שֶׁת</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='5' WordSequence='8' >הָאֲנָשִׁ֗ים</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='5' WordSequence='9' >וַיִּ֥חַר</Word>
-<Word Book='Iyyobh' Chapter='32' Verse='5' WordSequence='10' IsParashaPtuchah='true' >אַפּֽוֹ</Word>
-<Word Book='Iyyobh' Chapter='32' Verse='6' WordSequence='1' >וַיַּ֤עַן׀</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='32' Verse='5' WordSequence='10'>אַפּֽוֹ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='32' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֤עַן׀</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='6' WordSequence='2' >אֱלִיה֖וּא</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='6' WordSequence='3' >בֶן־</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='6' WordSequence='4' >בַּֽרַכְאֵ֥ל</Word>
@@ -6146,8 +6146,8 @@
 <Word Book='Iyyobh' Chapter='32' Verse='22' WordSequence='4' >אֲכַנֶּ֑ה</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='22' WordSequence='5' >כִּ֝מְעַ֗ט</Word>
 <Word Book='Iyyobh' Chapter='32' Verse='22' WordSequence='6' >יִשָּׂאֵ֥נִי</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='32' Verse='22' WordSequence='7' >עֹשֵֽׂנִי</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='33' Verse='1' WordSequence='1'>וְֽאוּלָ֗ם</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='32' Verse='22' WordSequence='7'>עֹשֵֽׂנִי</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='33' Verse='1' WordSequence='1'>וְֽאוּלָ֗ם</Word>
 <Word Book='Iyyobh' Chapter='33' Verse='1' WordSequence='2' >שְׁמַֽע־</Word>
 <Word Book='Iyyobh' Chapter='33' Verse='1' WordSequence='3' >נָ֣א</Word>
 <Word Book='Iyyobh' Chapter='33' Verse='1' WordSequence='4' >אִיּ֣וֹב</Word>
@@ -6396,8 +6396,8 @@
 <Word Book='Iyyobh' Chapter='33' Verse='33' WordSequence='5' >לִ֑י</Word>
 <Word Book='Iyyobh' Chapter='33' Verse='33' WordSequence='6' >הַ֝חֲרֵ֗שׁ</Word>
 <Word Book='Iyyobh' Chapter='33' Verse='33' WordSequence='7' >וַאֲאַלֶּפְךָ֥</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='33' Verse='33' WordSequence='8' IsParashaPtuchah='true' >חָכְמָֽה</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='34' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='33' Verse='33' WordSequence='8' >חָכְמָֽה</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='34' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='34' Verse='1' WordSequence='2' >אֱלִיה֗וּא</Word>
 <Word Book='Iyyobh' Chapter='34' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='34' Verse='2' WordSequence='1' >שִׁמְע֣וּ</Word>
@@ -6693,8 +6693,8 @@
 <Word Book='Iyyobh' Chapter='34' Verse='37' WordSequence='7' >יִסְפּ֑וֹק</Word>
 <Word Book='Iyyobh' Chapter='34' Verse='37' WordSequence='8' >וְיֶ֖רֶב</Word>
 <Word Book='Iyyobh' Chapter='34' Verse='37' WordSequence='9' >אֲמָרָ֣יו</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='34' Verse='37' WordSequence='10' IsParashaPtuchah='true' >לָאֵֽל</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='35' Verse='1' WordSequence='1'>וַיַּ֥עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='34' Verse='37' WordSequence='10' >לָאֵֽל</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='35' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֥עַן</Word>
 <Word Book='Iyyobh' Chapter='35' Verse='1' WordSequence='2' >אֱלִיה֗וּ</Word>
 <Word Book='Iyyobh' Chapter='35' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='35' Verse='2' WordSequence='1' >הֲ֭זֹאת</Word>
@@ -6809,8 +6809,8 @@
 <Word Book='Iyyobh' Chapter='35' Verse='16' WordSequence='5' >בִּבְלִי־</Word>
 <Word Book='Iyyobh' Chapter='35' Verse='16' WordSequence='6' >דַ֝֗עַת</Word>
 <Word Book='Iyyobh' Chapter='35' Verse='16' WordSequence='7' >מִלִּ֥ין</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='35' Verse='16' WordSequence='8' IsParashaPtuchah='true' >יַכְבִּֽר</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='36' Verse='1' WordSequence='1'>וַיֹּ֥סֶף</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='35' Verse='16' WordSequence='8'>יַכְבִּֽר</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='36' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥סֶף</Word>
 <Word Book='Iyyobh' Chapter='36' Verse='1' WordSequence='2' >אֱלִיה֗וּא</Word>
 <Word Book='Iyyobh' Chapter='36' Verse='1' WordSequence='3' >וַיֹּאמַֽר</Word>
 <Word Book='Iyyobh' Chapter='36' Verse='2' WordSequence='1' >כַּתַּר־</Word>
@@ -7049,8 +7049,8 @@
 <Word Book='Iyyobh' Chapter='36' Verse='33' WordSequence='4' >מִ֝קְנֶ֗ה</Word>
 <Word Book='Iyyobh' Chapter='36' Verse='33' WordSequence='5' >אַ֣ף</Word>
 <Word Book='Iyyobh' Chapter='36' Verse='33' WordSequence='6' >עַל־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='36' Verse='33' WordSequence='7' >עוֹלֶֽה</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='37' Verse='1' WordSequence='1'>אַף־</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='36' Verse='33' WordSequence='7'>עוֹלֶֽה</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='37' Verse='1' WordSequence='1'>אַף־</Word>
 <Word Book='Iyyobh' Chapter='37' Verse='1' WordSequence='2' >לְ֭זֹאת</Word>
 <Word Book='Iyyobh' Chapter='37' Verse='1' WordSequence='3' >יֶחֱרַ֣ד</Word>
 <Word Book='Iyyobh' Chapter='37' Verse='1' WordSequence='4' >לִבִּ֑י</Word>
@@ -7238,8 +7238,8 @@
 <Word Book='Iyyobh' Chapter='37' Verse='24' WordSequence='5' >יִ֝רְאֶ֗ה</Word>
 <Word Book='Iyyobh' Chapter='37' Verse='24' WordSequence='6' >כָּל־</Word>
 <Word Book='Iyyobh' Chapter='37' Verse='24' WordSequence='7' >חַכְמֵי־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='37' Verse='24' WordSequence='8' IsParashaPtuchah='true' >לֵֽב</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='38' Verse='1' WordSequence='1'>וַיַּֽעַן־</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='37' Verse='24' WordSequence='8'>לֵֽב</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='38' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּֽעַן־</Word>
 <Word Book='Iyyobh' Chapter='38' Verse='1' WordSequence='2' >יְהוָ֣ה</Word>
 <Word Book='Iyyobh' Chapter='38' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Iyyobh' Chapter='38' Verse='1' WordSequence='4' >אִ֭יּוֹב</Word>
@@ -7542,8 +7542,8 @@
 <Word Book='Iyyobh' Chapter='38' Verse='41' WordSequence='10' >יְשַׁוֵּ֑עוּ</Word>
 <Word Book='Iyyobh' Chapter='38' Verse='41' WordSequence='11' >יִ֝תְע֗וּ</Word>
 <Word Book='Iyyobh' Chapter='38' Verse='41' WordSequence='12' >לִבְלִי־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='38' Verse='41' WordSequence='13' >אֹֽכֶל</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='39' Verse='1' WordSequence='1'>הֲיָדַ֗עְתָּ</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='38' Verse='41' WordSequence='13'>אֹֽכֶל</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='39' Verse='1' WordSequence='1'>הֲיָדַ֗עְתָּ</Word>
 <Word Book='Iyyobh' Chapter='39' Verse='1' WordSequence='2' >עֵ֭ת</Word>
 <Word Book='Iyyobh' Chapter='39' Verse='1' WordSequence='3' >לֶ֣דֶת</Word>
 <Word Book='Iyyobh' Chapter='39' Verse='1' WordSequence='4' >יַעֲלֵי־</Word>
@@ -7758,8 +7758,8 @@
 <Word Book='Iyyobh' Chapter='39' Verse='30' WordSequence='5' >וּבַאֲשֶׁ֥ר</Word>
 <Word Book='Iyyobh' Chapter='39' Verse='30' WordSequence='6' >חֲ֝לָלִ֗ים</Word>
 <Word Book='Iyyobh' Chapter='39' Verse='30' WordSequence='7' >שָׁ֣ם</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='39' Verse='30' WordSequence='8' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='40' Verse='1' WordSequence='1'>וַיַּ֖עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='39' Verse='30' WordSequence='8'>הֽוּא</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='40' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֖עַן</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='1' WordSequence='2' >יְהוָ֥ה</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='1' WordSequence='4' >אִיּ֗וֹב</Word>
@@ -7770,8 +7770,8 @@
 <Word Book='Iyyobh' Chapter='40' Verse='2' WordSequence='4' >יִסּ֑וֹר</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='2' WordSequence='5' >מוֹכִ֖יחַ</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='2' WordSequence='6' >אֱל֣וֹהַּ</Word>
-<Word Book='Iyyobh' Chapter='40' Verse='2' WordSequence='7' IsParashaPtuchah='true' >יַעֲנֶֽנָּה</Word>
-<Word Book='Iyyobh' Chapter='40' Verse='3' WordSequence='1' >וַיַּ֖עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='40' Verse='2' WordSequence='7'>יַעֲנֶֽנָּה</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='40' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֖עַן</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='3' WordSequence='2' >אִיּ֥וֹב</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='3' WordSequence='3' >אֶת־</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='3' WordSequence='4' >יְהוָ֗ה</Word>
@@ -7790,8 +7790,8 @@
 <Word Book='Iyyobh' Chapter='40' Verse='5' WordSequence='4' >אֶֽעֱנֶ֑ה</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='5' WordSequence='5' >וּ֝שְׁתַּ֗יִם</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='5' WordSequence='6' >וְלֹ֣א</Word>
-<Word Book='Iyyobh' Chapter='40' Verse='5' WordSequence='7' IsParashaPtuchah='true' >אוֹסִֽיף</Word>
-<Word Book='Iyyobh' Chapter='40' Verse='6' WordSequence='1' >וַיַּֽעַן־</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='40' Verse='5' WordSequence='7'>אוֹסִֽיף</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='40' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיַּֽעַן־</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='6' WordSequence='2' >יְהוָ֣ה</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='6' WordSequence='3' >אֶת־</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='6' WordSequence='4' >אִ֭יּוֹב</Word>
@@ -7976,8 +7976,8 @@
 <Word Book='Iyyobh' Chapter='40' Verse='32' WordSequence='4' >זְכֹ֥ר</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='32' WordSequence='5' >מִ֝לְחָמָ֗ה</Word>
 <Word Book='Iyyobh' Chapter='40' Verse='32' WordSequence='6' >אַל־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='40' Verse='32' WordSequence='7' >תּוֹסַֽף</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='41' Verse='1' WordSequence='1'>הֵן־</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='40' Verse='32' WordSequence='7'>תּוֹסַֽף</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='41' Verse='1' WordSequence='1'>הֵן־</Word>
 <Word Book='Iyyobh' Chapter='41' Verse='1' WordSequence='2' >תֹּחַלְתּ֥וֹ</Word>
 <Word Book='Iyyobh' Chapter='41' Verse='1' WordSequence='3' >נִכְזָ֑בָה</Word>
 <Word Book='Iyyobh' Chapter='41' Verse='1' WordSequence='4' >הֲגַ֖ם</Word>
@@ -8155,8 +8155,8 @@
 <Word Book='Iyyobh' Chapter='41' Verse='26' WordSequence='7' >עַל־</Word>
 <Word Book='Iyyobh' Chapter='41' Verse='26' WordSequence='8' >כָּל־</Word>
 <Word Book='Iyyobh' Chapter='41' Verse='26' WordSequence='9' >בְּנֵי־</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='41' Verse='26' WordSequence='10' IsParashaPtuchah='true' >שָֽׁחַץ</Word>
-<Word Book='Iyyobh' StartPerekBeforeWord='true' Chapter='42' Verse='1' WordSequence='1'>וַיַּ֖עַן</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='41' Verse='26' WordSequence='10' >שָֽׁחַץ</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='42' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֖עַן</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='1' WordSequence='2' >אִיּ֥וֹב</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='1' WordSequence='4' >יְהוָ֗ה</Word>
@@ -8202,8 +8202,8 @@
 <Word Book='Iyyobh' Chapter='42' Verse='6' WordSequence='4' >וְנִחַ֑מְתִּי</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='6' WordSequence='5' >עַל־</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='6' WordSequence='6' >עָפָ֥ר</Word>
-<Word Book='Iyyobh' Chapter='42' Verse='6' WordSequence='7' IsParashaPtuchah='true' >וָאֵֽפֶר</Word>
-<Word Book='Iyyobh' Chapter='42' Verse='7' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='42' Verse='6' WordSequence='7'>וָאֵֽפֶר</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='42' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='7' WordSequence='2' >אַחַ֨ר</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='7' WordSequence='3' >דִּבֶּ֧ר</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='7' WordSequence='4' >יְהוָ֛ה</Word>
@@ -8328,8 +8328,8 @@
 <Word Book='Iyyobh' Chapter='42' Verse='11' WordSequence='31' >וְאִ֕ישׁ</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='11' WordSequence='32' >נֶ֥זֶם</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='11' WordSequence='33' >זָהָ֖ב</Word>
-<Word Book='Iyyobh' Chapter='42' Verse='11' WordSequence='34' >אֶחָֽד</Word>
-<Word Book='Iyyobh' Chapter='42' Verse='12' WordSequence='1' >וַֽיהוָ֗ה</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='42' Verse='11' WordSequence='34' >אֶחָֽד</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='42' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַֽיהוָ֗ה</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='12' WordSequence='2' >בֵּרַ֛ךְ</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='12' WordSequence='3' >אֶת־</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='12' WordSequence='4' >אַחֲרִ֥ית</Word>
@@ -8379,8 +8379,8 @@
 <Word Book='Iyyobh' Chapter='42' Verse='15' WordSequence='11' >אֲבִיהֶ֛ם</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='15' WordSequence='12' >נַחֲלָ֖ה</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='15' WordSequence='13' >בְּת֥וֹךְ</Word>
-<Word Book='Iyyobh' Chapter='42' Verse='15' WordSequence='14' >אֲחֵיהֶֽם</Word>
-<Word Book='Iyyobh' Chapter='42' Verse='16' WordSequence='1' >וַיְחִ֤י</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='42' Verse='15' WordSequence='14' >אֲחֵיהֶֽם</Word>
+<Word Book='Iyyobh' StartParashaBeforeWord='true' Chapter='42' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיְחִ֤י</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='16' WordSequence='2' >אִיּוֹב֙</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='16' WordSequence='3' >אַֽחֲרֵי־</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='16' WordSequence='4' >זֹ֔את</Word>
@@ -8400,5 +8400,5 @@
 <Word Book='Iyyobh' Chapter='42' Verse='17' WordSequence='2' >אִיּ֔וֹב</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='17' WordSequence='3' >זָקֵ֖ן</Word>
 <Word Book='Iyyobh' Chapter='42' Verse='17' WordSequence='4' >וּשְׂבַ֥ע</Word>
-<Word Book='Iyyobh' EndPerekAfterWord='true' Chapter='42' Verse='17' WordSequence='5' >יָמִֽים</Word>
+<Word Book='Iyyobh' EndParashaAfterWord='true' Chapter='42' Verse='17' WordSequence='5'>יָמִֽים</Word>
 </Tanakh>

@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וְהַמֶּ֤לֶךְ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וְהַמֶּ֤לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='1' WordSequence='2' >דָּוִד֙</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='1' WordSequence='3' >זָקֵ֔ן</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='1' WordSequence='4' >בָּ֖א</Word>
@@ -398,8 +398,8 @@
 <Word Book='MelakhimA' Chapter='1' Verse='27' WordSequence='16' >כִּסֵּ֥א</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='27' WordSequence='17' >אֲדֹנִֽי־</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='27' WordSequence='18' >הַמֶּ֖לֶךְ</Word>
-<Word Book='MelakhimA' Chapter='1' Verse='27' WordSequence='19' >אַחֲרָֽיו</Word>
-<Word Book='MelakhimA' Chapter='1' Verse='28' WordSequence='1' >וַיַּ֨עַן</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='1' Verse='27' WordSequence='19' >אַחֲרָֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='1' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֨עַן</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='28' WordSequence='2' >הַמֶּ֤לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='28' WordSequence='3' >דָּוִד֙</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='28' WordSequence='4' >וַיֹּ֔אמֶר</Word>
@@ -459,8 +459,8 @@
 <Word Book='MelakhimA' Chapter='1' Verse='31' WordSequence='10' >אֲדֹנִ֛י</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='31' WordSequence='11' >הַמֶּ֥לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='31' WordSequence='12' >דָּוִ֖ד</Word>
-<Word Book='MelakhimA' Chapter='1' Verse='31' WordSequence='13' IsParashaPtuchah='true' >לְעֹלָֽם</Word>
-<Word Book='MelakhimA' Chapter='1' Verse='32' WordSequence='1' >וַיֹּ֣אמֶר׀</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='1' Verse='31' WordSequence='13'>לְעֹלָֽם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='1' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר׀</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='32' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='32' WordSequence='3' >דָּוִ֗ד</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='32' WordSequence='4' >קִרְאוּ־</Word>
@@ -814,8 +814,8 @@
 <Word Book='MelakhimA' Chapter='1' Verse='53' WordSequence='12' >ל֥וֹ</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='53' WordSequence='13' >שְׁלֹמֹ֖ה</Word>
 <Word Book='MelakhimA' Chapter='1' Verse='53' WordSequence='14' >לֵ֥ךְ</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='1' Verse='53' WordSequence='15' IsParashaPtuchah='true' >לְבֵיתֶֽךָ</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיִּקְרְב֥וּ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='1' Verse='53' WordSequence='15'>לְבֵיתֶֽךָ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרְב֥וּ</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='1' WordSequence='2' >יְמֵֽי־</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='1' WordSequence='3' >דָוִ֖ד</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='1' WordSequence='4' >לָמ֑וּת</Word>
@@ -929,8 +929,8 @@
 <Word Book='MelakhimA' Chapter='2' Verse='6' WordSequence='4' >תוֹרֵ֧ד</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='6' WordSequence='5' >שֵׂיבָת֛וֹ</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='6' WordSequence='6' >בְּשָׁלֹ֖ם</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='6' WordSequence='7' >שְׁאֹֽל</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='7' WordSequence='1' >וְלִבְנֵ֨י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='2' Verse='6' WordSequence='7' >שְׁאֹֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='2' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְלִבְנֵ֨י</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='7' WordSequence='2' >בַרְזִלַּ֤י</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='7' WordSequence='3' >הַגִּלְעָדִי֙</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='7' WordSequence='4' >תַּֽעֲשֶׂה־</Word>
@@ -995,8 +995,8 @@
 <Word Book='MelakhimA' Chapter='2' Verse='10' WordSequence='4' >אֲבֹתָ֑יו</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='10' WordSequence='5' >וַיִּקָּבֵ֖ר</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='10' WordSequence='6' >בְּעִ֥יר</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='10' WordSequence='7' IsParashaPtuchah='true' >דָּוִֽד</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='11' WordSequence='1' >וְהַיָּמִ֗ים</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='2' Verse='10' WordSequence='7'>דָּוִֽד</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='2' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וְהַיָּמִ֗ים</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='11' WordSequence='2' >אֲשֶׁ֨ר</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='11' WordSequence='3' >מָלַ֤ךְ</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='11' WordSequence='4' >דָּוִד֙</Word>
@@ -1180,8 +1180,8 @@
 <Word Book='MelakhimA' Chapter='2' Verse='22' WordSequence='24' >הַכֹּהֵ֔ן</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='22' WordSequence='25' >וּלְיוֹאָ֖ב</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='22' WordSequence='26' >בֶּן־</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='22' WordSequence='27' IsParashaPtuchah='true' >צְרוּיָֽה</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='23' WordSequence='1' >וַיִּשָּׁבַע֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='2' Verse='22' WordSequence='27'>צְרוּיָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='2' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיִּשָּׁבַע֙</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='23' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='23' WordSequence='3' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='23' WordSequence='4' >בַּֽיהוָ֖ה</Word>
@@ -1229,8 +1229,8 @@
 <Word Book='MelakhimA' Chapter='2' Verse='25' WordSequence='7' >יְהוֹיָדָ֑ע</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='25' WordSequence='8' >וַיִּפְגַּע־</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='25' WordSequence='9' >בּ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='25' WordSequence='10' >וַיָּמֹֽת</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='26' WordSequence='1' >וּלְאֶבְיָתָ֨ר</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='2' Verse='25' WordSequence='10' >וַיָּמֹֽת</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='2' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וּלְאֶבְיָתָ֨ר</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='26' WordSequence='2' >הַכֹּהֵ֜ן</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='26' WordSequence='3' >אָמַ֣ר</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='26' WordSequence='4' >הַמֶּ֗לֶךְ</Word>
@@ -1277,8 +1277,8 @@
 <Word Book='MelakhimA' Chapter='2' Verse='27' WordSequence='14' >עַל־</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='27' WordSequence='15' >בֵּ֥ית</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='27' WordSequence='16' >עֵלִ֖י</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='27' WordSequence='17' IsParashaPtuchah='true' >בְּשִׁלֹֽה</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='28' WordSequence='1' >וְהַשְּׁמֻעָה֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='2' Verse='27' WordSequence='17'>בְּשִׁלֹֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='2' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וְהַשְּׁמֻעָה֙</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='28' WordSequence='2' >בָּ֣אָה</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='28' WordSequence='3' >עַד־</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='28' WordSequence='4' >יוֹאָ֔ב</Word>
@@ -1491,8 +1491,8 @@
 <Word Book='MelakhimA' Chapter='2' Verse='38' WordSequence='14' >שִׁמְעִ֛י</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='38' WordSequence='15' >בִּירוּשָׁלִַ֖ם</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='38' WordSequence='16' >יָמִ֥ים</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='38' WordSequence='17' >רַבִּֽים</Word>
-<Word Book='MelakhimA' Chapter='2' Verse='39' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='2' Verse='38' WordSequence='17' >רַבִּֽים</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='2' Verse='39' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='39' WordSequence='2' >מִקֵּץ֙</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='39' WordSequence='3' >שָׁלֹ֣שׁ</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='39' WordSequence='4' >שָׁנִ֔ים</Word>
@@ -1621,8 +1621,8 @@
 <Word Book='MelakhimA' Chapter='2' Verse='46' WordSequence='11' >וְהַמַּמְלָכָ֥ה</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='46' WordSequence='12' >נָכ֖וֹנָה</Word>
 <Word Book='MelakhimA' Chapter='2' Verse='46' WordSequence='13' >בְּיַד־</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='2' Verse='46' WordSequence='14' >שְׁלֹמֹֽה</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיִּתְחַתֵּ֣ן</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='2' Verse='46' WordSequence='14'>שְׁלֹמֹֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיִּתְחַתֵּ֣ן</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='1' WordSequence='2' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='1' WordSequence='4' >פַּרְעֹ֖ה</Word>
@@ -1660,8 +1660,8 @@
 <Word Book='MelakhimA' Chapter='3' Verse='2' WordSequence='10' >יְהוָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='2' WordSequence='11' >עַ֖ד</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='2' WordSequence='12' >הַיָּמִ֥ים</Word>
-<Word Book='MelakhimA' Chapter='3' Verse='2' WordSequence='13' IsParashaPtuchah='true' >הָהֵֽם</Word>
-<Word Book='MelakhimA' Chapter='3' Verse='3' WordSequence='1' >וַיֶּאֱהַ֤ב</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='3' Verse='2' WordSequence='13'>הָהֵֽם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='3' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַיֶּאֱהַ֤ב</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='3' WordSequence='2' >שְׁלֹמֹה֙</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='3' WordSequence='3' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='3' WordSequence='4' >יְהוָ֔ה</Word>
@@ -1869,8 +1869,8 @@
 <Word Book='MelakhimA' Chapter='3' Verse='14' WordSequence='10' >אָבִ֑יךָ</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='14' WordSequence='11' >וְהַאַרַכְתִּ֖י</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='14' WordSequence='12' >אֶת־</Word>
-<Word Book='MelakhimA' Chapter='3' Verse='14' WordSequence='13' >יָמֶֽיךָ</Word>
-<Word Book='MelakhimA' Chapter='3' Verse='15' WordSequence='1' >וַיִּקַ֥ץ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='3' Verse='14' WordSequence='13' >יָמֶֽיךָ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='3' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיִּקַ֥ץ</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='15' WordSequence='2' >שְׁלֹמֹ֖ה</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='15' WordSequence='3' >וְהִנֵּ֣ה</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='15' WordSequence='4' >חֲל֑וֹם</Word>
@@ -1888,8 +1888,8 @@
 <Word Book='MelakhimA' Chapter='3' Verse='15' WordSequence='16' >וַיַּ֥עַשׂ</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='15' WordSequence='17' >מִשְׁתֶּ֖ה</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='15' WordSequence='18' >לְכָל־</Word>
-<Word Book='MelakhimA' Chapter='3' Verse='15' WordSequence='19' IsParashaPtuchah='true' >עֲבָדָֽיו</Word>
-<Word Book='MelakhimA' Chapter='3' Verse='16' WordSequence='1' >אָ֣ז</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='3' Verse='15' WordSequence='19'>עֲבָדָֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='3' Verse='16' WordSequence='1' IsParashaPtuchah='true' >אָ֣ז</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='16' WordSequence='2' >תָּבֹ֗אנָה</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='16' WordSequence='3' >שְׁתַּ֛יִם</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='16' WordSequence='4' >נָשִׁ֥ים</Word>
@@ -2006,8 +2006,8 @@
 <Word Book='MelakhimA' Chapter='3' Verse='23' WordSequence='14' >בְּנֵ֥ךְ</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='23' WordSequence='15' >הַמֵּ֖ת</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='23' WordSequence='16' >וּבְנִ֥י</Word>
-<Word Book='MelakhimA' Chapter='3' Verse='23' WordSequence='17' IsParashaPtuchah='true' >הֶחָֽי</Word>
-<Word Book='MelakhimA' Chapter='3' Verse='24' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='3' Verse='23' WordSequence='17'>הֶחָֽי</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='3' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='24' WordSequence='2' >הַמֶּ֖לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='24' WordSequence='3' >קְח֣וּ</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='24' WordSequence='4' >לִי־</Word>
@@ -2093,23 +2093,23 @@
 <Word Book='MelakhimA' Chapter='3' Verse='28' WordSequence='16' >אֱלֹהִ֛ים</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='28' WordSequence='17' >בְּקִרְבּ֖וֹ</Word>
 <Word Book='MelakhimA' Chapter='3' Verse='28' WordSequence='18' >לַעֲשׂ֥וֹת</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='3' Verse='28' WordSequence='19' IsParashaPtuchah='true' >מִשְׁפָּֽט</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='3' Verse='28' WordSequence='19' >מִשְׁפָּֽט</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='1' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='1' WordSequence='3' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='1' WordSequence='4' >מֶ֖לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='1' WordSequence='5' >עַל־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='1' WordSequence='6' >כָּל־</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='1' WordSequence='7' >יִשְׂרָאֵֽל</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='2' WordSequence='1' >וְאֵ֥לֶּה</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='1' WordSequence='7' >יִשְׂרָאֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֥לֶּה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='2' WordSequence='2' >הַשָּׂרִ֖ים</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='2' WordSequence='3' >אֲשֶׁר־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='2' WordSequence='4' >ל֑וֹ</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='2' WordSequence='5' >עֲזַרְיָ֥הוּ</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='2' WordSequence='6' >בֶן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='2' WordSequence='7' >צָד֖וֹק</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='2' WordSequence='8' >הַכֹּהֵֽן</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='3' WordSequence='1' >אֱלִיחֹ֧רֶף</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='2' WordSequence='8' >הַכֹּהֵֽן</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='3' WordSequence='1' IsParashaPtuchah='true' >אֱלִיחֹ֧רֶף</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='3' WordSequence='2' >וַאֲחִיָּ֛ה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='3' WordSequence='3' >בְּנֵ֥י</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='3' WordSequence='4' >שִׁישָׁ֖א</Word>
@@ -2125,8 +2125,8 @@
 <Word Book='MelakhimA' Chapter='4' Verse='4' WordSequence='5' >הַצָּבָ֑א</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='4' WordSequence='6' >וְצָד֥וֹק</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='4' WordSequence='7' >וְאֶבְיָתָ֖ר</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='4' WordSequence='8' >כֹּהֲנִֽים</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='5' WordSequence='1' >וַעֲזַרְיָ֥הוּ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='4' WordSequence='8' >כֹּהֲנִֽים</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַעֲזַרְיָ֥הוּ</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='5' WordSequence='2' >בֶן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='5' WordSequence='3' >נָתָ֖ן</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='5' WordSequence='4' >עַל־</Word>
@@ -2144,8 +2144,8 @@
 <Word Book='MelakhimA' Chapter='4' Verse='6' WordSequence='5' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='6' WordSequence='6' >עַבְדָּ֖א</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='6' WordSequence='7' >עַל־</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='6' WordSequence='8' >הַמַּֽס</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='7' WordSequence='1' >וְלִשְׁלֹמֹ֞ה</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='6' WordSequence='8' >הַמַּֽס</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְלִשְׁלֹמֹ֞ה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='7' WordSequence='2' >שְׁנֵים־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='7' WordSequence='3' >עָשָׂ֤ר</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='7' WordSequence='4' >נִצָּבִים֙</Word>
@@ -2163,14 +2163,14 @@
 <Word Book='MelakhimA' Chapter='4' Verse='7' WordSequence='16' >עַל־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='7' WordSequence='17' >אחד</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='7' WordSequence='18' >[הָאֶחָ֖ד]</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='7' WordSequence='19' >לְכַלְכֵּֽל</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='8' WordSequence='1' >וְאֵ֣לֶּה</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='7' WordSequence='19' >לְכַלְכֵּֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֣לֶּה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='8' WordSequence='2' >שְׁמוֹתָ֔ם</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='8' WordSequence='3' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='8' WordSequence='4' >ח֖וּר</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='8' WordSequence='5' >בְּהַ֥ר</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='8' WordSequence='6' >אֶפְרָֽיִם</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='9' WordSequence='1' >בֶּן־</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='8' WordSequence='6' >אֶפְרָֽיִם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='9' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='9' WordSequence='2' >דֶּ֛קֶר</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='9' WordSequence='3' >בְּמָקַ֥ץ</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='9' WordSequence='4' >וּבְשַֽׁעַלְבִ֖ים</Word>
@@ -2178,16 +2178,16 @@
 <Word Book='MelakhimA' Chapter='4' Verse='9' WordSequence='6' >שָׁ֑מֶשׁ</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='9' WordSequence='7' >וְאֵיל֖וֹן</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='9' WordSequence='8' >בֵּ֥ית</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='9' WordSequence='9' >חָנָֽן</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='10' WordSequence='1' >בֶּן־</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='9' WordSequence='9' >חָנָֽן</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='10' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='10' WordSequence='2' >חֶ֖סֶד</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='10' WordSequence='3' >בָּֽאֲרֻבּ֑וֹת</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='10' WordSequence='4' >ל֥וֹ</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='10' WordSequence='5' >שֹׂכֹ֖ה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='10' WordSequence='6' >וְכָל־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='10' WordSequence='7' >אֶ֥רֶץ</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='10' WordSequence='8' >חֵֽפֶר</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='11' WordSequence='1' >בֶּן־</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='10' WordSequence='8' >חֵֽפֶר</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='11' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='11' WordSequence='2' >אֲבִֽינָדָ֖ב</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='11' WordSequence='3' >כָּל־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='11' WordSequence='4' >נָ֣פַת</Word>
@@ -2197,8 +2197,8 @@
 <Word Book='MelakhimA' Chapter='4' Verse='11' WordSequence='8' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='11' WordSequence='9' >הָ֥יְתָה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='11' WordSequence='10' >לּ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='11' WordSequence='11' >לְאִשָּֽׁה</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='12' WordSequence='1' >בַּֽעֲנָא֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='11' WordSequence='11' >לְאִשָּֽׁה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='12' WordSequence='1' IsParashaPtuchah='true' >בַּֽעֲנָא֙</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='12' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='12' WordSequence='3' >אֲחִיל֔וּד</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='12' WordSequence='4' >תַּעְנַ֖ךְ</Word>
@@ -2218,8 +2218,8 @@
 <Word Book='MelakhimA' Chapter='4' Verse='12' WordSequence='18' >מְחוֹלָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='12' WordSequence='19' >עַ֖ד</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='12' WordSequence='20' >מֵעֵ֥בֶר</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='12' WordSequence='21' >לְיָקְמֳעָֽם</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='13' WordSequence='1' >בֶּן־</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='12' WordSequence='21' >לְיָקְמֳעָֽם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='13' WordSequence='1' IsParashaPtuchah='true' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='13' WordSequence='2' >גֶּ֖בֶר</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='13' WordSequence='3' >בְּרָמֹ֣ת</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='13' WordSequence='4' >גִּלְעָ֑ד</Word>
@@ -2240,8 +2240,8 @@
 <Word Book='MelakhimA' Chapter='4' Verse='13' WordSequence='19' >גְּדֹל֔וֹת</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='13' WordSequence='20' >חוֹמָ֖ה</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='13' WordSequence='21' >וּבְרִ֥יחַ</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='13' WordSequence='22' >נְחֹֽשֶׁת</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='14' WordSequence='1' >אֲחִֽינָדָ֥ב</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='13' WordSequence='22' >נְחֹֽשֶׁת</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='14' WordSequence='1' IsParashaPtuchah='true' >אֲחִֽינָדָ֥ב</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='14' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='14' WordSequence='3' >עִדֹּ֖א</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='14' WordSequence='4' >מַחֲנָֽיְמָה</Word>
@@ -2259,16 +2259,16 @@
 <Word Book='MelakhimA' Chapter='4' Verse='16' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='16' WordSequence='3' >חוּשָׁ֔י</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='16' WordSequence='4' >בְּאָשֵׁ֖ר</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='16' WordSequence='5' >וּבְעָלֽוֹת</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='17' WordSequence='1' >יְהוֹשָׁפָ֥ט</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='16' WordSequence='5' >וּבְעָלֽוֹת</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='17' WordSequence='1' IsParashaPtuchah='true' >יְהוֹשָׁפָ֥ט</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='17' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='17' WordSequence='3' >פָּר֖וּחַ</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='17' WordSequence='4' >בְּיִשָׂשכָֽר</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='18' WordSequence='1' >שִׁמְעִ֥י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='17' WordSequence='4' >בְּיִשָׂשכָֽר</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='18' WordSequence='1' IsParashaPtuchah='true' >שִׁמְעִ֥י</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='18' WordSequence='2' >בֶן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='18' WordSequence='3' >אֵלָ֖א</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='18' WordSequence='4' >בְּבִנְיָמִֽן</Word>
-<Word Book='MelakhimA' Chapter='4' Verse='19' WordSequence='1' >גֶּ֥בֶר</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='18' WordSequence='4' >בְּבִנְיָמִֽן</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='4' Verse='19' WordSequence='1' IsParashaPtuchah='true' >גֶּ֥בֶר</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='19' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='19' WordSequence='3' >אֻרִ֖י</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='19' WordSequence='4' >בְּאֶ֣רֶץ</Word>
@@ -2294,8 +2294,8 @@
 <Word Book='MelakhimA' Chapter='4' Verse='20' WordSequence='8' >לָרֹ֑ב</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='20' WordSequence='9' >אֹכְלִ֥ים</Word>
 <Word Book='MelakhimA' Chapter='4' Verse='20' WordSequence='10' >וְשֹׁתִ֖ים</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='4' Verse='20' WordSequence='11' >וּשְׂמֵחִֽים</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וּשְׁלֹמֹ֗ה</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='4' Verse='20' WordSequence='11'>וּשְׂמֵחִֽים</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וּשְׁלֹמֹ֗ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='1' WordSequence='2' >הָיָ֤ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='1' WordSequence='3' >מוֹשֵׁל֙</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='1' WordSequence='4' >בְּכָל־</Word>
@@ -2314,8 +2314,8 @@
 <Word Book='MelakhimA' Chapter='5' Verse='1' WordSequence='17' >שְׁלֹמֹ֖ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='1' WordSequence='18' >כָּל־</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='1' WordSequence='19' >יְמֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='1' WordSequence='20' IsParashaPtuchah='true' >חַיָּֽיו</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='2' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='5' Verse='1' WordSequence='20'>חַיָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='5' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='2' WordSequence='2' >לֶֽחֶם־</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='2' WordSequence='3' >שְׁלֹמֹ֖ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='2' WordSequence='4' >לְי֣וֹם</Word>
@@ -2374,8 +2374,8 @@
 <Word Book='MelakhimA' Chapter='5' Verse='5' WordSequence='13' >שָׁ֑בַע</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='5' WordSequence='14' >כֹּ֖ל</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='5' WordSequence='15' >יְמֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='5' WordSequence='16' >שְׁלֹמֹֽה</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='6' WordSequence='1' >וַיְהִ֣י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='5' Verse='5' WordSequence='16' >שְׁלֹמֹֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='5' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='6' WordSequence='2' >לִשְׁלֹמֹ֗ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='6' WordSequence='3' >אַרְבָּעִ֥ים</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='6' WordSequence='4' >אֶ֛לֶף</Word>
@@ -2415,8 +2415,8 @@
 <Word Book='MelakhimA' Chapter='5' Verse='8' WordSequence='9' >יִֽהְיֶה־</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='8' WordSequence='10' >שָּׁ֔ם</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='8' WordSequence='11' >אִ֖ישׁ</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='8' WordSequence='12' >כְּמִשְׁפָּטֽוֹ</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='9' WordSequence='1' >וַיִּתֵּן֩</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='5' Verse='8' WordSequence='12' >כְּמִשְׁפָּטֽוֹ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='5' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיִּתֵּן֩</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='9' WordSequence='2' >אֱלֹהִ֨ים</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='9' WordSequence='3' >חָכְמָ֧ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='9' WordSequence='4' >לִשְׁלֹמֹ֛ה</Word>
@@ -2498,8 +2498,8 @@
 <Word Book='MelakhimA' Chapter='5' Verse='14' WordSequence='12' >אֲשֶׁ֥ר</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='14' WordSequence='13' >שָׁמְע֖וּ</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='14' WordSequence='14' >אֶת־</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='14' WordSequence='15' >חָכְמָתֽוֹ</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='15' WordSequence='1' >וַ֠יִּשְׁלַח</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='5' Verse='14' WordSequence='15' >חָכְמָתֽוֹ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='5' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַ֠יִּשְׁלַח</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='15' WordSequence='2' >חִירָ֨ם</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='15' WordSequence='3' >מֶֽלֶךְ־</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='15' WordSequence='4' >צ֤וֹר</Word>
@@ -2521,8 +2521,8 @@
 <Word Book='MelakhimA' Chapter='5' Verse='15' WordSequence='20' >חִירָ֛ם</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='15' WordSequence='21' >לְדָוִ֖ד</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='15' WordSequence='22' >כָּל־</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='15' WordSequence='23' >הַיָּמִֽים</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='16' WordSequence='1' >וַיִּשְׁלַ֣ח</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='5' Verse='15' WordSequence='23' >הַיָּמִֽים</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='5' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֣ח</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='16' WordSequence='2' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='16' WordSequence='3' >אֶל־</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='16' WordSequence='4' >חִירָ֖ם</Word>
@@ -2709,8 +2709,8 @@
 <Word Book='MelakhimA' Chapter='5' Verse='25' WordSequence='16' >שְׁלֹמֹ֛ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='25' WordSequence='17' >לְחִירָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='25' WordSequence='18' >שָׁנָ֥ה</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='25' WordSequence='19' IsParashaPtuchah='true' >בְשָׁנָֽה</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='26' WordSequence='1' >וַיהוָ֗ה</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='5' Verse='25' WordSequence='19'>בְשָׁנָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='5' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַיהוָ֗ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='26' WordSequence='2' >נָתַ֤ן</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='26' WordSequence='3' >חָכְמָה֙</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='26' WordSequence='4' >לִשְׁלֹמֹ֔ה</Word>
@@ -2751,8 +2751,8 @@
 <Word Book='MelakhimA' Chapter='5' Verse='28' WordSequence='12' >בְּבֵית֑וֹ</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='28' WordSequence='13' >וַאֲדֹנִירָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='28' WordSequence='14' >עַל־</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='28' WordSequence='15' >הַמַּֽס</Word>
-<Word Book='MelakhimA' Chapter='5' Verse='29' WordSequence='1' >וַיְהִ֧י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='5' Verse='28' WordSequence='15' >הַמַּֽס</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='5' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֧י</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='29' WordSequence='2' >לִשְׁלֹמֹ֛ה</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='29' WordSequence='3' >שִׁבְעִ֥ים</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='29' WordSequence='4' >אֶ֖לֶף</Word>
@@ -2798,8 +2798,8 @@
 <Word Book='MelakhimA' Chapter='5' Verse='32' WordSequence='8' >הָעֵצִ֥ים</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='32' WordSequence='9' >וְהָאֲבָנִ֖ים</Word>
 <Word Book='MelakhimA' Chapter='5' Verse='32' WordSequence='10' >לִבְנ֥וֹת</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='5' Verse='32' WordSequence='11' IsParashaPtuchah='true' >הַבָּֽיִת</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַיְהִ֣י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='5' Verse='32' WordSequence='11'>הַבָּֽיִת</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='1' WordSequence='2' >בִשְׁמוֹנִ֣ים</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='1' WordSequence='3' >שָׁנָ֣ה</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='1' WordSequence='4' >וְאַרְבַּ֣ע</Word>
@@ -2955,8 +2955,8 @@
 <Word Book='MelakhimA' Chapter='6' Verse='10' WordSequence='12' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='10' WordSequence='13' >הַבַּ֖יִת</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='10' WordSequence='14' >בַּעֲצֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='6' Verse='10' WordSequence='15' IsParashaPtuchah='true' >אֲרָזִֽים</Word>
-<Word Book='MelakhimA' Chapter='6' Verse='11' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='6' Verse='10' WordSequence='15'>אֲרָזִֽים</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='6' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='11' WordSequence='2' >דְּבַר־</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='11' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='11' WordSequence='4' >אֶל־</Word>
@@ -2996,8 +2996,8 @@
 <Word Book='MelakhimA' Chapter='6' Verse='13' WordSequence='6' >אֶעֱזֹ֖ב</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='13' WordSequence='7' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='13' WordSequence='8' >עַמִּ֥י</Word>
-<Word Book='MelakhimA' Chapter='6' Verse='13' WordSequence='9' >יִשְׂרָאֵֽל</Word>
-<Word Book='MelakhimA' Chapter='6' Verse='14' WordSequence='1' >וַיִּ֧בֶן</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='6' Verse='13' WordSequence='9' >יִשְׂרָאֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='6' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיִּ֧בֶן</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='14' WordSequence='2' >שְׁלֹמֹ֛ה</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='14' WordSequence='3' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='14' WordSequence='4' >הַבַּ֖יִת</Word>
@@ -3314,8 +3314,8 @@
 <Word Book='MelakhimA' Chapter='6' Verse='38' WordSequence='15' >[מִשְׁפָּטָ֑יו]</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='38' WordSequence='16' >וַיִּבְנֵ֖הוּ</Word>
 <Word Book='MelakhimA' Chapter='6' Verse='38' WordSequence='17' >שֶׁ֥בַע</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='6' Verse='38' WordSequence='18' >שָׁנִֽים</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וְאֶת־</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='6' Verse='38' WordSequence='18'>שָׁנִֽים</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וְאֶת־</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='1' WordSequence='2' >בֵּיתוֹ֙</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='1' WordSequence='3' >בָּנָ֣ה</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='1' WordSequence='4' >שְׁלֹמֹ֔ה</Word>
@@ -3479,8 +3479,8 @@
 <Word Book='MelakhimA' Chapter='7' Verse='12' WordSequence='12' >יְהוָ֛ה</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='12' WordSequence='13' >הַפְּנִימִ֖ית</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='12' WordSequence='14' >וּלְאֻלָ֥ם</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='12' WordSequence='15' IsParashaPtuchah='true' >הַבָּֽיִת</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='13' WordSequence='1' >וַיִּשְׁלַח֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='7' Verse='12' WordSequence='15'>הַבָּֽיִת</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='7' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַח֙</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='13' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='13' WordSequence='3' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='13' WordSequence='4' >וַיִּקַּ֥ח</Word>
@@ -3721,8 +3721,8 @@
 <Word Book='MelakhimA' Chapter='7' Verse='26' WordSequence='8' >שׁוֹשָׁ֑ן</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='26' WordSequence='9' >אַלְפַּ֥יִם</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='26' WordSequence='10' >בַּ֖ת</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='26' WordSequence='11' IsParashaPtuchah='true' >יָכִֽיל</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='27' WordSequence='1' >וַיַּ֧עַשׂ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='7' Verse='26' WordSequence='11'>יָכִֽיל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='7' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֧עַשׂ</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='27' WordSequence='2' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='27' WordSequence='3' >הַמְּכֹנ֛וֹת</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='27' WordSequence='4' >עֶ֖שֶׂר</Word>
@@ -3874,8 +3874,8 @@
 <Word Book='MelakhimA' Chapter='7' Verse='37' WordSequence='9' >אַחַ֛ת</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='37' WordSequence='10' >קֶ֥צֶב</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='37' WordSequence='11' >אֶחָ֖ד</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='37' WordSequence='12' >לְכֻלָּֽהְנָה</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='38' WordSequence='1' >וַיַּ֛עַשׂ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='7' Verse='37' WordSequence='12' >לְכֻלָּֽהְנָה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='7' Verse='38' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֛עַשׂ</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='38' WordSequence='2' >עֲשָׂרָ֥ה</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='38' WordSequence='3' >כִיֹּר֖וֹת</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='38' WordSequence='4' >נְחֹ֑שֶׁת</Word>
@@ -3916,8 +3916,8 @@
 <Word Book='MelakhimA' Chapter='7' Verse='39' WordSequence='19' >הַיְמָנִ֛ית</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='39' WordSequence='20' >קֵ֖דְמָה</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='39' WordSequence='21' >מִמּ֥וּל</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='39' WordSequence='22' >נֶֽגֶב</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='40' WordSequence='1' >וַיַּ֣עַשׂ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='7' Verse='39' WordSequence='22' >נֶֽגֶב</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='7' Verse='40' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֣עַשׂ</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='40' WordSequence='2' >חִיר֔וֹם</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='40' WordSequence='3' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='40' WordSequence='4' >הַ֨כִּיֹּר֔וֹת</Word>
@@ -4084,8 +4084,8 @@
 <Word Book='MelakhimA' Chapter='7' Verse='50' WordSequence='14' >לְדַלְתֵ֥י</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='50' WordSequence='15' >הַבַּ֛יִת</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='50' WordSequence='16' >לַהֵיכָ֖ל</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='50' WordSequence='17' IsParashaPtuchah='true' >זָהָֽב</Word>
-<Word Book='MelakhimA' Chapter='7' Verse='51' WordSequence='1' >וַתִּשְׁלַם֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='7' Verse='50' WordSequence='17'>זָהָֽב</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='7' Verse='51' WordSequence='1' IsParashaPtuchah='true' >וַתִּשְׁלַם֙</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='51' WordSequence='2' >כָּל־</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='51' WordSequence='3' >הַמְּלָאכָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='51' WordSequence='4' >אֲשֶׁ֥ר</Word>
@@ -4109,8 +4109,8 @@
 <Word Book='MelakhimA' Chapter='7' Verse='51' WordSequence='22' >נָתַ֕ן</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='51' WordSequence='23' >בְּאֹצְר֖וֹת</Word>
 <Word Book='MelakhimA' Chapter='7' Verse='51' WordSequence='24' >בֵּ֥ית</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='7' Verse='51' WordSequence='25' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>אָ֣ז</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='7' Verse='51' WordSequence='25'>יְהוָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אָ֣ז</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='1' WordSequence='2' >יַקְהֵ֣ל</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='1' WordSequence='3' >שְׁלֹמֹ֣ה</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -4287,8 +4287,8 @@
 <Word Book='MelakhimA' Chapter='8' Verse='11' WordSequence='11' >יְהוָ֖ה</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='11' WordSequence='12' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='11' WordSequence='13' >בֵּ֥ית</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='11' WordSequence='14' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='12' WordSequence='1' >אָ֖ז</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='8' Verse='11' WordSequence='14'>יְהוָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='8' Verse='12' WordSequence='1' IsParashaPtuchah='true' >אָ֖ז</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='12' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='12' WordSequence='3' >שְׁלֹמֹ֑ה</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='12' WordSequence='4' >יְהוָ֣ה</Word>
@@ -4437,8 +4437,8 @@
 <Word Book='MelakhimA' Chapter='8' Verse='21' WordSequence='13' >בְּהוֹצִיא֥וֹ</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='21' WordSequence='14' >אֹתָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='21' WordSequence='15' >מֵאֶ֥רֶץ</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='21' WordSequence='16' >מִצְרָֽיִם</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='22' WordSequence='1' >וַיַּעֲמֹ֣ד</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='8' Verse='21' WordSequence='16' >מִצְרָֽיִם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='8' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיַּעֲמֹ֣ד</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='22' WordSequence='2' >שְׁלֹמֹ֗ה</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='22' WordSequence='3' >לִפְנֵי֙</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='22' WordSequence='4' >מִזְבַּ֣ח</Word>
@@ -4641,8 +4641,8 @@
 <Word Book='MelakhimA' Chapter='8' Verse='32' WordSequence='14' >צַדִּ֔יק</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='32' WordSequence='15' >לָ֥תֶת</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='32' WordSequence='16' >ל֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='32' WordSequence='17' >כְּצִדְקָתֽוֹ</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='33' WordSequence='1' >בְּֽהִנָּגֵ֞ף</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='8' Verse='32' WordSequence='17' >כְּצִדְקָתֽוֹ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='8' Verse='33' WordSequence='1' IsParashaPtuchah='true' >בְּֽהִנָּגֵ֞ף</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='33' WordSequence='2' >עַמְּךָ֧</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='33' WordSequence='3' >יִשְׂרָאֵ֛ל</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='33' WordSequence='4' >לִפְנֵ֥י</Word>
@@ -4672,8 +4672,8 @@
 <Word Book='MelakhimA' Chapter='8' Verse='34' WordSequence='10' >הָ֣אֲדָמָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='34' WordSequence='11' >אֲשֶׁ֥ר</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='34' WordSequence='12' >נָתַ֖תָּ</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='34' WordSequence='13' >לַאֲבוֹתָֽם</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='35' WordSequence='1' >בְּהֵעָצֵ֥ר</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='8' Verse='34' WordSequence='13' >לַאֲבוֹתָֽם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='8' Verse='35' WordSequence='1' IsParashaPtuchah='true' >בְּהֵעָצֵ֥ר</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='35' WordSequence='2' >שָׁמַ֛יִם</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='35' WordSequence='3' >וְלֹא־</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='35' WordSequence='4' >יִהְיֶ֥ה</Word>
@@ -4715,8 +4715,8 @@
 <Word Book='MelakhimA' Chapter='8' Verse='36' WordSequence='21' >אֲשֶׁר־</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='36' WordSequence='22' >נָתַ֥תָּה</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='36' WordSequence='23' >לְעַמְּךָ֖</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='36' WordSequence='24' >לְנַחֲלָֽה</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='37' WordSequence='1' >רָעָ֞ב</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='8' Verse='36' WordSequence='24' >לְנַחֲלָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='8' Verse='37' WordSequence='1' IsParashaPtuchah='true' >רָעָ֞ב</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='37' WordSequence='2' >כִּֽי־</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='37' WordSequence='3' >יִהְיֶ֣ה</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='37' WordSequence='4' >בָאָ֗רֶץ</Word>
@@ -5017,8 +5017,8 @@
 <Word Book='MelakhimA' Chapter='8' Verse='53' WordSequence='16' >אֲבֹתֵ֛ינוּ</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='53' WordSequence='17' >מִמִּצְרַ֖יִם</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='53' WordSequence='18' >אֲדֹנָ֥י</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='53' WordSequence='19' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='MelakhimA' Chapter='8' Verse='54' WordSequence='1' >וַיְהִ֣י׀</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='8' Verse='53' WordSequence='19'>יְהוִֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='8' Verse='54' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י׀</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='54' WordSequence='2' >כְּכַלּ֣וֹת</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='54' WordSequence='3' >שְׁלֹמֹ֗ה</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='54' WordSequence='4' >לְהִתְפַּלֵּל֙</Word>
@@ -5257,8 +5257,8 @@
 <Word Book='MelakhimA' Chapter='8' Verse='66' WordSequence='20' >לְדָוִ֣ד</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='66' WordSequence='21' >עַבְדּ֔וֹ</Word>
 <Word Book='MelakhimA' Chapter='8' Verse='66' WordSequence='22' >וּלְיִשְׂרָאֵ֖ל</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='8' Verse='66' WordSequence='23' >עַמּֽוֹ</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='8' Verse='66' WordSequence='23'>עַמּֽוֹ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='1' WordSequence='2' >כְּכַלּ֣וֹת</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='1' WordSequence='3' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='1' WordSequence='4' >לִבְנ֥וֹת</Word>
@@ -5274,8 +5274,8 @@
 <Word Book='MelakhimA' Chapter='9' Verse='1' WordSequence='14' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='1' WordSequence='15' >אֲשֶׁ֥ר</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='1' WordSequence='16' >חָפֵ֖ץ</Word>
-<Word Book='MelakhimA' Chapter='9' Verse='1' WordSequence='17' IsParashaPtuchah='true' >לַעֲשֽׂוֹת</Word>
-<Word Book='MelakhimA' Chapter='9' Verse='2' WordSequence='1' >וַיֵּרָ֧א</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='9' Verse='1' WordSequence='17'>לַעֲשֽׂוֹת</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='9' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיֵּרָ֧א</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='2' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='2' WordSequence='3' >אֶל־</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='2' WordSequence='4' >שְׁלֹמֹ֖ה</Word>
@@ -5439,8 +5439,8 @@
 <Word Book='MelakhimA' Chapter='9' Verse='9' WordSequence='26' >אֵ֥ת</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='9' WordSequence='27' >כָּל־</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='9' WordSequence='28' >הָרָעָ֖ה</Word>
-<Word Book='MelakhimA' Chapter='9' Verse='9' WordSequence='29' IsParashaPtuchah='true' >הַזֹּֽאת</Word>
-<Word Book='MelakhimA' Chapter='9' Verse='10' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='9' Verse='9' WordSequence='29'>הַזֹּֽאת</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='9' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='10' WordSequence='2' >מִקְצֵה֙</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='10' WordSequence='3' >עֶשְׂרִ֣ים</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='10' WordSequence='4' >שָׁנָ֔ה</Word>
@@ -5505,8 +5505,8 @@
 <Word Book='MelakhimA' Chapter='9' Verse='13' WordSequence='12' >כָּב֔וּל</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='13' WordSequence='13' >עַ֖ד</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='13' WordSequence='14' >הַיּ֥וֹם</Word>
-<Word Book='MelakhimA' Chapter='9' Verse='13' WordSequence='15' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='MelakhimA' Chapter='9' Verse='14' WordSequence='1' >וַיִּשְׁלַ֥ח</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='9' Verse='13' WordSequence='15'>הַזֶּֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='9' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֥ח</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='14' WordSequence='2' >חִירָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='14' WordSequence='3' >לַמֶּ֑לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='14' WordSequence='4' >מֵאָ֥ה</Word>
@@ -5642,8 +5642,8 @@
 <Word Book='MelakhimA' Chapter='9' Verse='22' WordSequence='13' >וְשָׁלִשָׁ֔יו</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='22' WordSequence='14' >וְשָׂרֵ֥י</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='22' WordSequence='15' >רִכְבּ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='9' Verse='22' WordSequence='16' >וּפָרָשָֽׁיו</Word>
-<Word Book='MelakhimA' Chapter='9' Verse='23' WordSequence='1' >אֵ֣לֶּה׀</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='9' Verse='22' WordSequence='16' >וּפָרָשָֽׁיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='9' Verse='23' WordSequence='1' IsParashaPtuchah='true' >אֵ֣לֶּה׀</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='23' WordSequence='2' >שָׂרֵ֣י</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='23' WordSequence='3' >הַנִּצָּבִ֗ים</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='23' WordSequence='4' >אֲשֶׁ֤ר</Word>
@@ -5731,8 +5731,8 @@
 <Word Book='MelakhimA' Chapter='9' Verse='28' WordSequence='10' >וַיָּבִ֖אוּ</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='28' WordSequence='11' >אֶל־</Word>
 <Word Book='MelakhimA' Chapter='9' Verse='28' WordSequence='12' >הַמֶּ֥לֶךְ</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='9' Verse='28' WordSequence='13' IsParashaPtuchah='true' >שְׁלֹמֹֽה</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וּמַֽלְכַּת־</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='9' Verse='28' WordSequence='13'>שְׁלֹמֹֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּמַֽלְכַּת־</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='1' WordSequence='2' >שְׁבָ֗א</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='1' WordSequence='3' >שֹׁמַ֛עַת</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -5959,8 +5959,8 @@
 <Word Book='MelakhimA' Chapter='10' Verse='13' WordSequence='19' >וַתֵּ֥לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='13' WordSequence='20' >לְאַרְצָ֖הּ</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='13' WordSequence='21' >הִ֥יא</Word>
-<Word Book='MelakhimA' Chapter='10' Verse='13' WordSequence='22' >וַעֲבָדֶֽיהָ</Word>
-<Word Book='MelakhimA' Chapter='10' Verse='14' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='10' Verse='13' WordSequence='22' >וַעֲבָדֶֽיהָ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='10' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='14' WordSequence='2' >מִשְׁקַ֣ל</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='14' WordSequence='3' >הַזָּהָ֔ב</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='14' WordSequence='4' >אֲשֶׁר־</Word>
@@ -6014,8 +6014,8 @@
 <Word Book='MelakhimA' Chapter='10' Verse='17' WordSequence='14' >הַמֶּ֔לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='17' WordSequence='15' >בֵּ֖ית</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='17' WordSequence='16' >יַ֥עַר</Word>
-<Word Book='MelakhimA' Chapter='10' Verse='17' WordSequence='17' IsParashaPtuchah='true' >הַלְּבָנֽוֹן</Word>
-<Word Book='MelakhimA' Chapter='10' Verse='18' WordSequence='1' >וַיַּ֧עַשׂ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='10' Verse='17' WordSequence='17'>הַלְּבָנֽוֹן</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='10' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֧עַשׂ</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='18' WordSequence='2' >הַמֶּ֛לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='18' WordSequence='3' >כִּסֵּא־</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='18' WordSequence='4' >שֵׁ֖ן</Word>
@@ -6132,8 +6132,8 @@
 <Word Book='MelakhimA' Chapter='10' Verse='25' WordSequence='13' >וּפְרָדִ֑ים</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='25' WordSequence='14' >דְּבַר־</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='25' WordSequence='15' >שָׁנָ֖ה</Word>
-<Word Book='MelakhimA' Chapter='10' Verse='25' WordSequence='16' >בְּשָׁנָֽה</Word>
-<Word Book='MelakhimA' Chapter='10' Verse='26' WordSequence='1' >וַיֶּאֱסֹ֣ף</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='10' Verse='25' WordSequence='16' >בְּשָׁנָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='10' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַיֶּאֱסֹ֣ף</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='26' WordSequence='2' >שְׁלֹמֹה֮</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='26' WordSequence='3' >רֶ֣כֶב</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='26' WordSequence='4' >וּפָרָשִׁים֒</Word>
@@ -6194,8 +6194,8 @@
 <Word Book='MelakhimA' Chapter='10' Verse='29' WordSequence='15' >וּלְמַלְכֵ֥י</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='29' WordSequence='16' >אֲרָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='10' Verse='29' WordSequence='17' >בְּיָדָ֥ם</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='10' Verse='29' WordSequence='18' IsParashaPtuchah='true' >יֹצִֽאוּ</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וְהַמֶּ֣לֶךְ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='10' Verse='29' WordSequence='18'>יֹצִֽאוּ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהַמֶּ֣לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='1' WordSequence='2' >שְׁלֹמֹ֗ה</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='1' WordSequence='3' >אָהַ֞ב</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='1' WordSequence='4' >נָשִׁ֧ים</Word>
@@ -6288,8 +6288,8 @@
 <Word Book='MelakhimA' Chapter='11' Verse='6' WordSequence='8' >אַחֲרֵ֥י</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='6' WordSequence='9' >יְהוָ֖ה</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='6' WordSequence='10' >כְּדָוִ֥ד</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='6' WordSequence='11' >אָבִֽיו</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='7' WordSequence='1' >אָז֩</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='11' Verse='6' WordSequence='11' >אָבִֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='11' Verse='7' WordSequence='1' IsParashaPtuchah='true' >אָז֩</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='7' WordSequence='2' >יִבְנֶ֨ה</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='7' WordSequence='3' >שְׁלֹמֹ֜ה</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='7' WordSequence='4' >בָּמָ֗ה</Word>
@@ -6341,8 +6341,8 @@
 <Word Book='MelakhimA' Chapter='11' Verse='10' WordSequence='13' >אֵ֥ת</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='10' WordSequence='14' >אֲשֶׁר־</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='10' WordSequence='15' >צִוָּ֖ה</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='10' WordSequence='16' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='11' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='11' Verse='10' WordSequence='16'>יְהוָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='11' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='11' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='11' WordSequence='3' >לִשְׁלֹמֹ֗ה</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='11' WordSequence='4' >יַ֚עַן</Word>
@@ -6584,8 +6584,8 @@
 <Word Book='MelakhimA' Chapter='11' Verse='25' WordSequence='12' >בְּיִשְׂרָאֵ֔ל</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='25' WordSequence='13' >וַיִּמְלֹ֖ךְ</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='25' WordSequence='14' >עַל־</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='25' WordSequence='15' IsParashaPtuchah='true' >אֲרָֽם</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='26' WordSequence='1' >וְיָרָבְעָם֩</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='11' Verse='25' WordSequence='15'>אֲרָֽם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='11' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וְיָרָבְעָם֩</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='26' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='26' WordSequence='3' >נְבָ֨ט</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='26' WordSequence='4' >אֶפְרָתִ֜י</Word>
@@ -6634,8 +6634,8 @@
 <Word Book='MelakhimA' Chapter='11' Verse='28' WordSequence='15' >לְכָל־</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='28' WordSequence='16' >סֵ֖בֶל</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='28' WordSequence='17' >בֵּ֥ית</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='28' WordSequence='18' >יוֹסֵֽף</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='29' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='11' Verse='28' WordSequence='18' >יוֹסֵֽף</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='11' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='29' WordSequence='2' >בָּעֵ֣ת</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='29' WordSequence='3' >הַהִ֔יא</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='29' WordSequence='4' >וְיָֽרָבְעָ֖ם</Word>
@@ -6830,8 +6830,8 @@
 <Word Book='MelakhimA' Chapter='11' Verse='39' WordSequence='7' >אַ֖ךְ</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='39' WordSequence='8' >לֹ֥א</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='39' WordSequence='9' >כָל־</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='39' WordSequence='10' >הַיָּמִֽים</Word>
-<Word Book='MelakhimA' Chapter='11' Verse='40' WordSequence='1' >וַיְבַקֵּ֥שׁ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='11' Verse='39' WordSequence='10' >הַיָּמִֽים</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='11' Verse='40' WordSequence='1' IsParashaPtuchah='true' >וַיְבַקֵּ֥שׁ</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='40' WordSequence='2' >שְׁלֹמֹ֖ה</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='40' WordSequence='3' >לְהָמִ֣ית</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='40' WordSequence='4' >אֶת־</Word>
@@ -6884,8 +6884,8 @@
 <Word Book='MelakhimA' Chapter='11' Verse='43' WordSequence='9' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='43' WordSequence='10' >רְחַבְעָ֥ם</Word>
 <Word Book='MelakhimA' Chapter='11' Verse='43' WordSequence='11' >בְּנ֖וֹ</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='11' Verse='43' WordSequence='12' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַיֵּ֥לֶךְ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='11' Verse='43' WordSequence='12' >תַּחְתָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֥לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='1' WordSequence='2' >רְחַבְעָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='1' WordSequence='3' >שְׁכֶ֑ם</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='1' WordSequence='4' >כִּ֥י</Word>
@@ -7188,8 +7188,8 @@
 <Word Book='MelakhimA' Chapter='12' Verse='17' WordSequence='5' >יְהוּדָ֑ה</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='17' WordSequence='6' >וַיִּמְלֹ֥ךְ</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='17' WordSequence='7' >עֲלֵיהֶ֖ם</Word>
-<Word Book='MelakhimA' Chapter='12' Verse='17' WordSequence='8' IsParashaPtuchah='true' >רְחַבְעָֽם</Word>
-<Word Book='MelakhimA' Chapter='12' Verse='18' WordSequence='1' >וַיִּשְׁלַ֞ח</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='12' Verse='17' WordSequence='8'>רְחַבְעָֽם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='12' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֞ח</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='18' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='18' WordSequence='3' >רְחַבְעָ֗ם</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='18' WordSequence='4' >אֶת־</Word>
@@ -7216,8 +7216,8 @@
 <Word Book='MelakhimA' Chapter='12' Verse='19' WordSequence='4' >דָּוִ֔ד</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='19' WordSequence='5' >עַ֖ד</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='19' WordSequence='6' >הַיּ֥וֹם</Word>
-<Word Book='MelakhimA' Chapter='12' Verse='19' WordSequence='7' >הַזֶּֽה</Word>
-<Word Book='MelakhimA' Chapter='12' Verse='20' WordSequence='1' >וַיְהִ֞י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='12' Verse='19' WordSequence='7' >הַזֶּֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='12' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֞י</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='20' WordSequence='2' >כִּשְׁמֹ֤עַ</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='20' WordSequence='3' >כָּל־</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='20' WordSequence='4' >יִשְׂרָאֵל֙</Word>
@@ -7270,8 +7270,8 @@
 <Word Book='MelakhimA' Chapter='12' Verse='21' WordSequence='25' >הַמְּלוּכָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='21' WordSequence='26' >לִרְחַבְעָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='21' WordSequence='27' >בֶּן־</Word>
-<Word Book='MelakhimA' Chapter='12' Verse='21' WordSequence='28' IsParashaPtuchah='true' >שְׁלֹמֹֽה</Word>
-<Word Book='MelakhimA' Chapter='12' Verse='22' WordSequence='1' >וַיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='12' Verse='21' WordSequence='28'>שְׁלֹמֹֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='12' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='22' WordSequence='2' >דְּבַ֣ר</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='22' WordSequence='3' >הָֽאֱלֹהִ֔ים</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='22' WordSequence='4' >אֶל־</Word>
@@ -7320,8 +7320,8 @@
 <Word Book='MelakhimA' Chapter='12' Verse='24' WordSequence='24' >וַיָּשֻׁ֥בוּ</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='24' WordSequence='25' >לָלֶ֖כֶת</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='24' WordSequence='26' >כִּדְבַ֥ר</Word>
-<Word Book='MelakhimA' Chapter='12' Verse='24' WordSequence='27' >יְהוָֽה</Word>
-<Word Book='MelakhimA' Chapter='12' Verse='25' WordSequence='1' >וַיִּ֨בֶן</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='12' Verse='24' WordSequence='27' >יְהוָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='12' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיִּ֨בֶן</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='25' WordSequence='2' >יָרָבְעָ֧ם</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='25' WordSequence='3' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='25' WordSequence='4' >שְׁכֶ֛ם</Word>
@@ -7473,8 +7473,8 @@
 <Word Book='MelakhimA' Chapter='12' Verse='33' WordSequence='22' >וַיַּ֥עַל</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='33' WordSequence='23' >עַל־</Word>
 <Word Book='MelakhimA' Chapter='12' Verse='33' WordSequence='24' >הַמִּזְבֵּ֖חַ</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='12' Verse='33' WordSequence='25' IsParashaPtuchah='true' >לְהַקְטִֽיר</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>וְהִנֵּ֣ה׀</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='12' Verse='33' WordSequence='25'>לְהַקְטִֽיר</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהִנֵּ֣ה׀</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='1' WordSequence='2' >אִ֣ישׁ</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='1' WordSequence='3' >אֱלֹהִ֗ים</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='1' WordSequence='4' >בָּ֧א</Word>
@@ -7670,8 +7670,8 @@
 <Word Book='MelakhimA' Chapter='13' Verse='10' WordSequence='9' >בָ֖הּ</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='10' WordSequence='10' >אֶל־</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='10' WordSequence='11' >בֵּֽית־</Word>
-<Word Book='MelakhimA' Chapter='13' Verse='10' WordSequence='12' IsParashaPtuchah='true' >אֵֽל</Word>
-<Word Book='MelakhimA' Chapter='13' Verse='11' WordSequence='1' >וְנָבִ֤יא</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='13' Verse='10' WordSequence='12'>אֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='13' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וְנָבִ֤יא</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='11' WordSequence='2' >אֶחָד֙</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='11' WordSequence='3' >זָקֵ֔ן</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='11' WordSequence='4' >יֹשֵׁ֖ב</Word>
@@ -7821,7 +7821,7 @@
 <Word Book='MelakhimA' Chapter='13' Verse='20' WordSequence='2' >הֵ֥ם</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='20' WordSequence='3' >יֹשְׁבִ֖ים</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='20' WordSequence='4' >אֶל־</Word>
-<Word Book='MelakhimA' Chapter='13' Verse='20' WordSequence='5' IsParashaPtuchah='true' >הַשֻּׁלְחָ֑ן</Word>
+<Word Book='MelakhimA' Chapter='13' Verse='20' WordSequence='5' >הַשֻּׁלְחָ֑ן</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='20' WordSequence='7' >וַֽיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='20' WordSequence='8' >דְּבַר־</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='20' WordSequence='9' >יְהוָ֔ה</Word>
@@ -8043,8 +8043,8 @@
 <Word Book='MelakhimA' Chapter='13' Verse='32' WordSequence='17' >הַבָּמ֔וֹת</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='32' WordSequence='18' >אֲשֶׁ֖ר</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='32' WordSequence='19' >בְּעָרֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='13' Verse='32' WordSequence='20' IsParashaPtuchah='true' >שֹׁמְרֽוֹן</Word>
-<Word Book='MelakhimA' Chapter='13' Verse='33' WordSequence='1' >אַחַר֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='13' Verse='32' WordSequence='20'>שֹׁמְרֽוֹן</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='13' Verse='33' WordSequence='1' IsParashaPtuchah='true' >אַחַר֙</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='33' WordSequence='2' >הַדָּבָ֣ר</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='33' WordSequence='3' >הַזֶּ֔ה</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='33' WordSequence='4' >לֹֽא־</Word>
@@ -8075,8 +8075,8 @@
 <Word Book='MelakhimA' Chapter='13' Verse='34' WordSequence='8' >וּלְהַשְׁמִ֔יד</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='34' WordSequence='9' >מֵעַ֖ל</Word>
 <Word Book='MelakhimA' Chapter='13' Verse='34' WordSequence='10' >פְּנֵ֥י</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='13' Verse='34' WordSequence='11' IsParashaPtuchah='true' >הָאֲדָמָֽה</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>בָּעֵ֣ת</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='13' Verse='34' WordSequence='11'>הָאֲדָמָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בָּעֵ֣ת</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='1' WordSequence='2' >הַהִ֔יא</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='1' WordSequence='3' >חָלָ֖ה</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='1' WordSequence='4' >אֲבִיָּ֥ה</Word>
@@ -8140,8 +8140,8 @@
 <Word Book='MelakhimA' Chapter='14' Verse='4' WordSequence='15' >כִּ֛י</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='4' WordSequence='16' >קָ֥מוּ</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='4' WordSequence='17' >עֵינָ֖יו</Word>
-<Word Book='MelakhimA' Chapter='14' Verse='4' WordSequence='18' >מִשֵּׂיבֽוֹ</Word>
-<Word Book='MelakhimA' Chapter='14' Verse='5' WordSequence='1' >וַיהוָ֞ה</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='14' Verse='4' WordSequence='18' >מִשֵּׂיבֽוֹ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='14' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיהוָ֞ה</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='5' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='5' WordSequence='3' >אֶל־</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='5' WordSequence='4' >אֲחִיָּ֗הוּ</Word>
@@ -8242,8 +8242,8 @@
 <Word Book='MelakhimA' Chapter='14' Verse='9' WordSequence='14' >וְאֹתִ֥י</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='9' WordSequence='15' >הִשְׁלַ֖כְתָּ</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='9' WordSequence='16' >אַחֲרֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='14' Verse='9' WordSequence='17' >גַוֶּֽךָ</Word>
-<Word Book='MelakhimA' Chapter='14' Verse='10' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='14' Verse='9' WordSequence='17' >גַוֶּֽךָ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='14' Verse='10' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='10' WordSequence='2' >הִנְנִ֨י</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='10' WordSequence='3' >מֵבִ֤יא</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='10' WordSequence='4' >רָעָה֙</Word>
@@ -8423,8 +8423,8 @@
 <Word Book='MelakhimA' Chapter='14' Verse='20' WordSequence='11' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='20' WordSequence='12' >נָדָ֥ב</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='20' WordSequence='13' >בְּנ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='14' Verse='20' WordSequence='14' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='MelakhimA' Chapter='14' Verse='21' WordSequence='1' >וּרְחַבְעָם֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='14' Verse='20' WordSequence='14'>תַּחְתָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='14' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וּרְחַבְעָם֙</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='21' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='21' WordSequence='3' >שְׁלֹמֹ֔ה</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='21' WordSequence='4' >מָלַ֖ךְ</Word>
@@ -8497,8 +8497,8 @@
 <Word Book='MelakhimA' Chapter='14' Verse='24' WordSequence='11' >יְהוָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='24' WordSequence='12' >מִפְּנֵ֖י</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='24' WordSequence='13' >בְּנֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='14' Verse='24' WordSequence='14' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='MelakhimA' Chapter='14' Verse='25' WordSequence='1' >וַיְהִ֛י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='14' Verse='24' WordSequence='14'>יִשְׂרָאֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='14' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֛י</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='25' WordSequence='2' >בַּשָּׁנָ֥ה</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='25' WordSequence='3' >הַחֲמִישִׁ֖ית</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='25' WordSequence='4' >לַמֶּ֣לֶךְ</Word>
@@ -8596,8 +8596,8 @@
 <Word Book='MelakhimA' Chapter='14' Verse='31' WordSequence='14' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='31' WordSequence='15' >אֲבִיָּ֥ם</Word>
 <Word Book='MelakhimA' Chapter='14' Verse='31' WordSequence='16' >בְּנ֖וֹ</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='14' Verse='31' WordSequence='17' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וּבִשְׁנַת֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='14' Verse='31' WordSequence='17'>תַּחְתָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּבִשְׁנַת֙</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='1' WordSequence='2' >שְׁמֹנֶ֣ה</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='1' WordSequence='3' >עֶשְׂרֵ֔ה</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='1' WordSequence='4' >לַמֶּ֖לֶךְ</Word>
@@ -8710,8 +8710,8 @@
 <Word Book='MelakhimA' Chapter='15' Verse='8' WordSequence='9' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='8' WordSequence='10' >אָסָ֥א</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='8' WordSequence='11' >בְנ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='15' Verse='8' WordSequence='12' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='MelakhimA' Chapter='15' Verse='9' WordSequence='1' >וּבִשְׁנַ֣ת</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='15' Verse='8' WordSequence='12'>תַּחְתָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='15' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וּבִשְׁנַ֣ת</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='9' WordSequence='2' >עֶשְׂרִ֔ים</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='9' WordSequence='3' >לְיָרָבְעָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='9' WordSequence='4' >מֶ֣לֶךְ</Word>
@@ -8976,8 +8976,8 @@
 <Word Book='MelakhimA' Chapter='15' Verse='24' WordSequence='11' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='24' WordSequence='12' >יְהוֹשָׁפָ֥ט</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='24' WordSequence='13' >בְּנ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='15' Verse='24' WordSequence='14' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='MelakhimA' Chapter='15' Verse='25' WordSequence='1' >וְנָדָ֣ב</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='15' Verse='24' WordSequence='14'>תַּחְתָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='15' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וְנָדָ֣ב</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='25' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='25' WordSequence='3' >יָרָבְעָ֗ם</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='25' WordSequence='4' >מָלַךְ֙</Word>
@@ -9093,8 +9093,8 @@
 <Word Book='MelakhimA' Chapter='15' Verse='32' WordSequence='7' >מֶֽלֶךְ־</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='32' WordSequence='8' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='32' WordSequence='9' >כָּל־</Word>
-<Word Book='MelakhimA' Chapter='15' Verse='32' WordSequence='10' IsParashaPtuchah='true' >יְמֵיהֶֽם</Word>
-<Word Book='MelakhimA' Chapter='15' Verse='33' WordSequence='1' >בִּשְׁנַ֣ת</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='15' Verse='32' WordSequence='10'>יְמֵיהֶֽם</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='15' Verse='33' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֣ת</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='33' WordSequence='2' >שָׁלֹ֔שׁ</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='33' WordSequence='3' >לְאָסָ֖א</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='33' WordSequence='4' >מֶ֣לֶךְ</Word>
@@ -9121,8 +9121,8 @@
 <Word Book='MelakhimA' Chapter='15' Verse='34' WordSequence='9' >אֲשֶׁ֥ר</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='34' WordSequence='10' >הֶחֱטִ֖יא</Word>
 <Word Book='MelakhimA' Chapter='15' Verse='34' WordSequence='11' >אֶת־</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='15' Verse='34' WordSequence='12' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>וַיְהִ֤י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='15' Verse='34' WordSequence='12' >יִשְׂרָאֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֤י</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='1' WordSequence='3' >יְהוָה֙</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -9229,8 +9229,8 @@
 <Word Book='MelakhimA' Chapter='16' Verse='7' WordSequence='27' >וְעַ֥ל</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='7' WordSequence='28' >אֲשֶׁר־</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='7' WordSequence='29' >הִכָּ֖ה</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='7' WordSequence='30' IsParashaPtuchah='true' >אֹתֽוֹ</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='8' WordSequence='1' >בִּשְׁנַ֨ת</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='16' Verse='7' WordSequence='30'>אֹתֽוֹ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='16' Verse='8' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֨ת</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='8' WordSequence='2' >עֶשְׂרִ֤ים</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='8' WordSequence='3' >וָשֵׁשׁ֙</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='8' WordSequence='4' >שָׁנָ֔ה</Word>
@@ -9339,8 +9339,8 @@
 <Word Book='MelakhimA' Chapter='16' Verse='14' WordSequence='12' >דִּבְרֵ֥י</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='14' WordSequence='13' >הַיָּמִ֖ים</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='14' WordSequence='14' >לְמַלְכֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='14' WordSequence='15' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='15' WordSequence='1' >בִּשְׁנַת֩</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='16' Verse='14' WordSequence='15'>יִשְׂרָאֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='16' Verse='15' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַת֩</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='15' WordSequence='2' >עֶשְׂרִ֨ים</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='15' WordSequence='3' >וָשֶׁ֜בַע</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='15' WordSequence='4' >שָׁנָ֗ה</Word>
@@ -9439,8 +9439,8 @@
 <Word Book='MelakhimA' Chapter='16' Verse='20' WordSequence='12' >דִּבְרֵ֥י</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='20' WordSequence='13' >הַיָּמִ֖ים</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='20' WordSequence='14' >לְמַלְכֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='20' WordSequence='15' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='21' WordSequence='1' >אָ֧ז</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='16' Verse='20' WordSequence='15'>יִשְׂרָאֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='16' Verse='21' WordSequence='1' IsParashaPtuchah='true' >אָ֧ז</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='21' WordSequence='2' >יֵחָלֵ֛ק</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='21' WordSequence='3' >הָעָ֥ם</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='21' WordSequence='4' >יִשְׂרָאֵ֖ל</Word>
@@ -9471,8 +9471,8 @@
 <Word Book='MelakhimA' Chapter='16' Verse='22' WordSequence='13' >וַיָּ֣מָת</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='22' WordSequence='14' >תִּבְנִ֔י</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='22' WordSequence='15' >וַיִּמְלֹ֖ךְ</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='22' WordSequence='16' IsParashaPtuchah='true' >עָמְרִֽי</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='23' WordSequence='1' >בִּשְׁנַת֩</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='16' Verse='22' WordSequence='16'>עָמְרִֽי</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='16' Verse='23' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַת֩</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='23' WordSequence='2' >שְׁלֹשִׁ֨ים</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='23' WordSequence='3' >וְאַחַ֜ת</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='23' WordSequence='4' >שָׁנָ֗ה</Word>
@@ -9566,8 +9566,8 @@
 <Word Book='MelakhimA' Chapter='16' Verse='28' WordSequence='7' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='28' WordSequence='8' >אַחְאָ֥ב</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='28' WordSequence='9' >בְּנ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='28' WordSequence='10' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='MelakhimA' Chapter='16' Verse='29' WordSequence='1' >וְאַחְאָ֣ב</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='16' Verse='28' WordSequence='10'>תַּחְתָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='16' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וְאַחְאָ֣ב</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='29' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='29' WordSequence='3' >עָמְרִ֗י</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='29' WordSequence='4' >מָלַךְ֙</Word>
@@ -9669,8 +9669,8 @@
 <Word Book='MelakhimA' Chapter='16' Verse='34' WordSequence='20' >בְּיַ֖ד</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='34' WordSequence='21' >יְהוֹשֻׁ֥עַ</Word>
 <Word Book='MelakhimA' Chapter='16' Verse='34' WordSequence='22' >בִּן־</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='16' Verse='34' WordSequence='23' IsParashaPtuchah='true' >נֽוּן</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>וַיֹּאמֶר֩</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='16' Verse='34' WordSequence='23' >נֽוּן</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמֶר֩</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='1' WordSequence='2' >אֵלִיָּ֨הוּ</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='1' WordSequence='3' >הַתִּשְׁבִּ֜י</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='1' WordSequence='4' >מִתֹּשָׁבֵ֣י</Word>
@@ -9693,8 +9693,8 @@
 <Word Book='MelakhimA' Chapter='17' Verse='1' WordSequence='21' >כִּ֖י</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='1' WordSequence='22' >אִם־</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='1' WordSequence='23' >לְפִ֥י</Word>
-<Word Book='MelakhimA' Chapter='17' Verse='1' WordSequence='24' >דְבָרִֽי</Word>
-<Word Book='MelakhimA' Chapter='17' Verse='2' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='17' Verse='1' WordSequence='24' >דְבָרִֽי</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='17' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='2' WordSequence='2' >דְבַר־</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='2' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='2' WordSequence='4' >אֵלָ֥יו</Word>
@@ -9752,8 +9752,8 @@
 <Word Book='MelakhimA' Chapter='17' Verse='7' WordSequence='7' >לֹֽא־</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='7' WordSequence='8' >הָיָ֥ה</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='7' WordSequence='9' >גֶ֖שֶׁם</Word>
-<Word Book='MelakhimA' Chapter='17' Verse='7' WordSequence='10' >בָּאָֽרֶץ</Word>
-<Word Book='MelakhimA' Chapter='17' Verse='8' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='17' Verse='7' WordSequence='10' >בָּאָֽרֶץ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='17' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='8' WordSequence='2' >דְבַר־</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='8' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='8' WordSequence='4' >אֵלָ֥יו</Word>
@@ -9852,8 +9852,8 @@
 <Word Book='MelakhimA' Chapter='17' Verse='13' WordSequence='18' >וְלָ֣ךְ</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='13' WordSequence='19' >וְלִבְנֵ֔ךְ</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='13' WordSequence='20' >תַּעֲשִׂ֖י</Word>
-<Word Book='MelakhimA' Chapter='17' Verse='13' WordSequence='21' >בָּאַחֲרֹנָֽה</Word>
-<Word Book='MelakhimA' Chapter='17' Verse='14' WordSequence='1' >כִּ֣י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='17' Verse='13' WordSequence='21' >בָּאַחֲרֹנָֽה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='17' Verse='14' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='14' WordSequence='2' >כֹה֩</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='14' WordSequence='3' >אָמַ֨ר</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='14' WordSequence='4' >יְהוָ֜ה</Word>
@@ -9902,8 +9902,8 @@
 <Word Book='MelakhimA' Chapter='17' Verse='16' WordSequence='11' >אֲשֶׁ֥ר</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='16' WordSequence='12' >דִּבֶּ֖ר</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='16' WordSequence='13' >בְּיַ֥ד</Word>
-<Word Book='MelakhimA' Chapter='17' Verse='16' WordSequence='14' IsParashaPtuchah='true' >אֵלִיָּֽהוּ</Word>
-<Word Book='MelakhimA' Chapter='17' Verse='17' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='17' Verse='16' WordSequence='14'>אֵלִיָּֽהוּ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='17' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='17' WordSequence='2' >אַחַר֙</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='17' WordSequence='3' >הַדְּבָרִ֣ים</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='17' WordSequence='4' >הָאֵ֔לֶּה</Word>
@@ -10030,8 +10030,8 @@
 <Word Book='MelakhimA' Chapter='17' Verse='24' WordSequence='12' >וּדְבַר־</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='24' WordSequence='13' >יְהוָ֥ה</Word>
 <Word Book='MelakhimA' Chapter='17' Verse='24' WordSequence='14' >בְּפִ֖יךָ</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='17' Verse='24' WordSequence='15' IsParashaPtuchah='true' >אֱמֶֽת</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='17' Verse='24' WordSequence='15'>אֱמֶֽת</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='1' WordSequence='2' >יָמִ֣ים</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='1' WordSequence='3' >רַבִּ֔ים</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='1' WordSequence='4' >וּדְבַר־</Word>
@@ -10245,8 +10245,8 @@
 <Word Book='MelakhimA' Chapter='18' Verse='14' WordSequence='6' >לַֽאדֹנֶ֖יךָ</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='14' WordSequence='7' >הִנֵּ֣ה</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='14' WordSequence='8' >אֵלִיָּ֑הוּ</Word>
-<Word Book='MelakhimA' Chapter='18' Verse='14' WordSequence='9' >וַהֲרָגָֽנִי</Word>
-<Word Book='MelakhimA' Chapter='18' Verse='15' WordSequence='1' >וַיֹּ֙אמֶר֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='18' Verse='14' WordSequence='9' >וַהֲרָגָֽנִי</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='18' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֙אמֶר֙</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='15' WordSequence='2' >אֵֽלִיָּ֔הוּ</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='15' WordSequence='3' >חַ֚י</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='15' WordSequence='4' >יְהוָ֣ה</Word>
@@ -10773,8 +10773,8 @@
 <Word Book='MelakhimA' Chapter='18' Verse='46' WordSequence='10' >אַחְאָ֔ב</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='46' WordSequence='11' >עַד־</Word>
 <Word Book='MelakhimA' Chapter='18' Verse='46' WordSequence='12' >בֹּאֲכָ֖ה</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='18' Verse='46' WordSequence='13' >יִזְרְעֶֽאלָה</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַיַּגֵּ֤ד</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='18' Verse='46' WordSequence='13'>יִזְרְעֶֽאלָה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַיַּגֵּ֤ד</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='1' WordSequence='2' >אַחְאָב֙</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='1' WordSequence='3' >לְאִיזֶ֔בֶל</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='1' WordSequence='4' >אֵ֛ת</Word>
@@ -11024,8 +11024,8 @@
 <Word Book='MelakhimA' Chapter='19' Verse='14' WordSequence='22' >וַיְבַקְשׁ֥וּ</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='14' WordSequence='23' >אֶת־</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='14' WordSequence='24' >נַפְשִׁ֖י</Word>
-<Word Book='MelakhimA' Chapter='19' Verse='14' WordSequence='25' >לְקַחְתָּֽהּ</Word>
-<Word Book='MelakhimA' Chapter='19' Verse='15' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='19' Verse='14' WordSequence='25' >לְקַחְתָּֽהּ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='19' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='15' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='15' WordSequence='3' >אֵלָ֔יו</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='15' WordSequence='4' >לֵ֛ךְ</Word>
@@ -11145,8 +11145,8 @@
 <Word Book='MelakhimA' Chapter='19' Verse='21' WordSequence='16' >וַיֵּ֛לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='21' WordSequence='17' >אַחֲרֵ֥י</Word>
 <Word Book='MelakhimA' Chapter='19' Verse='21' WordSequence='18' >אֵלִיָּ֖הוּ</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='19' Verse='21' WordSequence='19' IsParashaPtuchah='true' >וַיְשָׁרְתֵֽהוּ</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וּבֶן־</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='19' Verse='21' WordSequence='19'>וַיְשָׁרְתֵֽהוּ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּבֶן־</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='1' WordSequence='2' >הֲדַ֣ד</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='1' WordSequence='3' >מֶֽלֶךְ־</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='1' WordSequence='4' >אֲרָ֗ם</Word>
@@ -11499,8 +11499,8 @@
 <Word Book='MelakhimA' Chapter='20' Verse='22' WordSequence='18' >מֶ֥לֶךְ</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='22' WordSequence='19' >אֲרָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='22' WordSequence='20' >עֹלֶ֥ה</Word>
-<Word Book='MelakhimA' Chapter='20' Verse='22' WordSequence='21' >עָלֶֽיךָ</Word>
-<Word Book='MelakhimA' Chapter='20' Verse='23' WordSequence='1' >וְעַבְדֵ֨י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='20' Verse='22' WordSequence='21' >עָלֶֽיךָ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='20' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וְעַבְדֵ֨י</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='23' WordSequence='2' >מֶֽלֶךְ־</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='23' WordSequence='3' >אֲרָ֜ם</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='23' WordSequence='4' >אָמְר֣וּ</Word>
@@ -11552,8 +11552,8 @@
 <Word Book='MelakhimA' Chapter='20' Verse='25' WordSequence='19' >וַיִּשְׁמַ֥ע</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='25' WordSequence='20' >לְקֹלָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='25' WordSequence='21' >וַיַּ֥עַשׂ</Word>
-<Word Book='MelakhimA' Chapter='20' Verse='25' WordSequence='22' IsParashaPtuchah='true' >כֵּֽן</Word>
-<Word Book='MelakhimA' Chapter='20' Verse='26' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='20' Verse='25' WordSequence='22'>כֵּֽן</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='20' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='26' WordSequence='2' >לִתְשׁוּבַ֣ת</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='26' WordSequence='3' >הַשָּׁנָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='26' WordSequence='4' >וַיִּפְקֹ֥ד</Word>
@@ -11657,8 +11657,8 @@
 <Word Book='MelakhimA' Chapter='20' Verse='30' WordSequence='18' >אֶל־</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='30' WordSequence='19' >הָעִ֖יר</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='30' WordSequence='20' >חֶ֥דֶר</Word>
-<Word Book='MelakhimA' Chapter='20' Verse='30' WordSequence='21' >בְּחָֽדֶר</Word>
-<Word Book='MelakhimA' Chapter='20' Verse='31' WordSequence='1' >וַיֹּאמְר֣וּ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='20' Verse='30' WordSequence='21' >בְּחָֽדֶר</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='20' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמְר֣וּ</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='31' WordSequence='2' >אֵלָיו֮</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='31' WordSequence='3' >עֲבָדָיו֒</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='31' WordSequence='4' >הִנֵּֽה־</Word>
@@ -11750,8 +11750,8 @@
 <Word Book='MelakhimA' Chapter='20' Verse='34' WordSequence='21' >וַיִּכְרָת־</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='34' WordSequence='22' >ל֥וֹ</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='34' WordSequence='23' >בְרִ֖ית</Word>
-<Word Book='MelakhimA' Chapter='20' Verse='34' WordSequence='24' >וַֽיְשַׁלְּחֵֽהוּ</Word>
-<Word Book='MelakhimA' Chapter='20' Verse='35' WordSequence='1' >וְאִ֨ישׁ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='20' Verse='34' WordSequence='24' >וַֽיְשַׁלְּחֵֽהוּ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='20' Verse='35' WordSequence='1' IsParashaPtuchah='true' >וְאִ֨ישׁ</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='35' WordSequence='2' >אֶחָ֜ד</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='35' WordSequence='3' >מִבְּנֵ֣י</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='35' WordSequence='4' >הַנְּבִיאִ֗ים</Word>
@@ -11892,8 +11892,8 @@
 <Word Book='MelakhimA' Chapter='20' Verse='43' WordSequence='6' >סַ֣ר</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='43' WordSequence='7' >וְזָעֵ֑ף</Word>
 <Word Book='MelakhimA' Chapter='20' Verse='43' WordSequence='8' >וַיָּבֹ֖א</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='20' Verse='43' WordSequence='9' IsParashaPtuchah='true' >שֹׁמְרֽוֹנָה</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='20' Verse='43' WordSequence='9'>שֹׁמְרֽוֹנָה</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='1' WordSequence='2' >אַחַר֙</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='1' WordSequence='3' >הַדְּבָרִ֣ים</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='1' WordSequence='4' >הָאֵ֔לֶּה</Word>
@@ -12184,8 +12184,8 @@
 <Word Book='MelakhimA' Chapter='21' Verse='16' WordSequence='11' >כֶּ֛רֶם</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='16' WordSequence='12' >נָב֥וֹת</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='16' WordSequence='13' >הַיִּזְרְעֵאלִ֖י</Word>
-<Word Book='MelakhimA' Chapter='21' Verse='16' WordSequence='14' >לְרִשְׁתּֽוֹ</Word>
-<Word Book='MelakhimA' Chapter='21' Verse='17' WordSequence='1' >וַיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='21' Verse='16' WordSequence='14' >לְרִשְׁתּֽוֹ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='21' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='17' WordSequence='2' >דְּבַר־</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='17' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='17' WordSequence='4' >אֶל־</Word>
@@ -12331,8 +12331,8 @@
 <Word Book='MelakhimA' Chapter='21' Verse='26' WordSequence='12' >יְהוָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='26' WordSequence='13' >מִפְּנֵ֖י</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='26' WordSequence='14' >בְּנֵ֥י</Word>
-<Word Book='MelakhimA' Chapter='21' Verse='26' WordSequence='15' >יִשְׂרָאֵֽל</Word>
-<Word Book='MelakhimA' Chapter='21' Verse='27' WordSequence='1' >וַיְהִי֩</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='21' Verse='26' WordSequence='15' >יִשְׂרָאֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='21' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֩</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='27' WordSequence='2' >כִשְׁמֹ֨עַ</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='27' WordSequence='3' >אַחְאָ֜ב</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='27' WordSequence='4' >אֶת־</Word>
@@ -12348,8 +12348,8 @@
 <Word Book='MelakhimA' Chapter='21' Verse='27' WordSequence='14' >וַיִּשְׁכַּ֣ב</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='27' WordSequence='15' >בַּשָּׂ֔ק</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='27' WordSequence='16' >וַיְהַלֵּ֖ךְ</Word>
-<Word Book='MelakhimA' Chapter='21' Verse='27' WordSequence='17' >אַֽט</Word>
-<Word Book='MelakhimA' Chapter='21' Verse='28' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='21' Verse='27' WordSequence='17' >אַֽט</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='21' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='28' WordSequence='2' >דְּבַר־</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='28' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='28' WordSequence='4' >אֶל־</Word>
@@ -12375,8 +12375,8 @@
 <Word Book='MelakhimA' Chapter='21' Verse='29' WordSequence='17' >אָבִ֥יא</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='29' WordSequence='18' >הָרָעָ֖ה</Word>
 <Word Book='MelakhimA' Chapter='21' Verse='29' WordSequence='19' >עַל־</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='21' Verse='29' WordSequence='20' >בֵּיתֽוֹ</Word>
-<Word Book='MelakhimA' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיֵּשְׁב֖וּ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='21' Verse='29' WordSequence='20'>בֵּיתֽוֹ</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיֵּשְׁב֖וּ</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='1' WordSequence='2' >שָׁלֹ֣שׁ</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='1' WordSequence='3' >שָׁנִ֑ים</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='1' WordSequence='4' >אֵ֚ין</Word>
@@ -12384,8 +12384,8 @@
 <Word Book='MelakhimA' Chapter='22' Verse='1' WordSequence='6' >בֵּ֥ין</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='1' WordSequence='7' >אֲרָ֖ם</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='1' WordSequence='8' >וּבֵ֥ין</Word>
-<Word Book='MelakhimA' Chapter='22' Verse='1' WordSequence='9' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='MelakhimA' Chapter='22' Verse='2' WordSequence='1' >וַיְהִ֖י</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='22' Verse='1' WordSequence='9'>יִשְׂרָאֵֽל</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='22' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֖י</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='2' WordSequence='2' >בַּשָּׁנָ֣ה</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='2' WordSequence='3' >הַשְּׁלִישִׁ֑ית</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='2' WordSequence='4' >וַיֵּ֛רֶד</Word>
@@ -13008,8 +13008,8 @@
 <Word Book='MelakhimA' Chapter='22' Verse='40' WordSequence='5' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='40' WordSequence='6' >אֲחַזְיָ֥הוּ</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='40' WordSequence='7' >בְנ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='22' Verse='40' WordSequence='8' IsParashaPtuchah='true' >תַּחְתָּֽיו</Word>
-<Word Book='MelakhimA' Chapter='22' Verse='41' WordSequence='1' >וִיהֽוֹשָׁפָט֙</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='22' Verse='40' WordSequence='8'>תַּחְתָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='22' Verse='41' WordSequence='1' IsParashaPtuchah='true' >וִיהֽוֹשָׁפָט֙</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='41' WordSequence='2' >בֶּן־</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='41' WordSequence='3' >אָסָ֔א</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='41' WordSequence='4' >מָלַ֖ךְ</Word>
@@ -13138,8 +13138,8 @@
 <Word Book='MelakhimA' Chapter='22' Verse='51' WordSequence='11' >וַיִּמְלֹ֛ךְ</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='51' WordSequence='12' >יְהוֹרָ֥ם</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='51' WordSequence='13' >בְּנ֖וֹ</Word>
-<Word Book='MelakhimA' Chapter='22' Verse='51' WordSequence='14' >תַּחְתָּֽיו</Word>
-<Word Book='MelakhimA' Chapter='22' Verse='52' WordSequence='1' >אֲחַזְיָ֣הוּ</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='22' Verse='51' WordSequence='14' >תַּחְתָּֽיו</Word>
+<Word Book='MelakhimA' StartParashaBeforeWord='true' Chapter='22' Verse='52' WordSequence='1' IsParashaPtuchah='true' >אֲחַזְיָ֣הוּ</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='52' WordSequence='2' >בֶן־</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='52' WordSequence='3' >אַחְאָ֗ב</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='52' WordSequence='4' >מָלַ֤ךְ</Word>
@@ -13186,5 +13186,5 @@
 <Word Book='MelakhimA' Chapter='22' Verse='54' WordSequence='11' >כְּכֹ֥ל</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='54' WordSequence='12' >אֲשֶׁר־</Word>
 <Word Book='MelakhimA' Chapter='22' Verse='54' WordSequence='13' >עָשָׂ֖ה</Word>
-<Word Book='MelakhimA' EndPerekAfterWord='true' Chapter='22' Verse='54' WordSequence='14' >אָבִֽיו</Word>
+<Word Book='MelakhimA' EndParashaAfterWord='true' Chapter='22' Verse='54' WordSequence='14'>אָבִֽיו</Word>
 </Tanakh>

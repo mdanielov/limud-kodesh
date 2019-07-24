@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>בַּחֹ֙דֶשׁ֙</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>בַּחֹ֙דֶשׁ֙</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='1' WordSequence='2' >הַשְּׁמִינִ֔י</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='1' WordSequence='3' >בִּשְׁנַ֥ת</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='1' WordSequence='4' >שְׁתַּ֖יִם</Word>
@@ -92,8 +92,8 @@
 <Word Book='Zekharyah' Chapter='1' Verse='6' WordSequence='21' >וּכְמַ֣עֲלָלֵ֔ינוּ</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='6' WordSequence='22' >כֵּ֖ן</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='6' WordSequence='23' >עָשָׂ֥ה</Word>
-<Word Book='Zekharyah' Chapter='1' Verse='6' WordSequence='24' >אִתָּֽנוּ</Word>
-<Word Book='Zekharyah' Chapter='1' Verse='7' WordSequence='1' >בְּיוֹם֩</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='1' Verse='6' WordSequence='24' >אִתָּֽנוּ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='1' Verse='7' WordSequence='1' IsParashaPtuchah='true' >בְּיוֹם֩</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='7' WordSequence='2' >עֶשְׂרִ֨ים</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='7' WordSequence='3' >וְאַרְבָּעָ֜ה</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='7' WordSequence='4' >לְעַשְׁתֵּֽי־</Word>
@@ -273,8 +273,8 @@
 <Word Book='Zekharyah' Chapter='1' Verse='17' WordSequence='16' >צִיּ֔וֹן</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='17' WordSequence='17' >וּבָחַ֥ר</Word>
 <Word Book='Zekharyah' Chapter='1' Verse='17' WordSequence='18' >ע֖וֹד</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='1' Verse='17' WordSequence='19' IsParashaPtuchah='true' >בִּירוּשָׁלִָֽם</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וָאֶשָּׂ֥א</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='1' Verse='17' WordSequence='19' >בִּירוּשָׁלִָֽם</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וָאֶשָּׂ֥א</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='1' WordSequence='3' >עֵינַ֖י</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='1' WordSequence='4' >וָאֵ֑רֶא</Word>
@@ -298,8 +298,8 @@
 <Word Book='Zekharyah' Chapter='2' Verse='2' WordSequence='15' >יְהוּדָ֔ה</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='2' WordSequence='16' >אֶת־</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='2' WordSequence='17' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='2' WordSequence='18' >וִירוּשָׁלָֽם</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='3' WordSequence='1' >וַיַּרְאֵ֣נִי</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='2' Verse='2' WordSequence='18' >וִירוּשָׁלָֽם</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='2' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַיַּרְאֵ֣נִי</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='3' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='3' WordSequence='3' >אַרְבָּעָ֖ה</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='3' WordSequence='4' >חָרָשִֽׁים</Word>
@@ -334,8 +334,8 @@
 <Word Book='Zekharyah' Chapter='2' Verse='4' WordSequence='29' >אֶל־</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='4' WordSequence='30' >אֶ֥רֶץ</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='4' WordSequence='31' >יְהוּדָ֖ה</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='4' WordSequence='32' >לְזָרוֹתָֽהּ</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='5' WordSequence='1' >וָאֶשָּׂ֥א</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='2' Verse='4' WordSequence='32' >לְזָרוֹתָֽהּ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='2' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וָאֶשָּׂ֥א</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='5' WordSequence='2' >עֵינַ֛י</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='5' WordSequence='3' >וָאֵ֖רֶא</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='5' WordSequence='4' >וְהִנֵּה־</Word>
@@ -391,8 +391,8 @@
 <Word Book='Zekharyah' Chapter='2' Verse='9' WordSequence='8' >סָבִ֑יב</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='9' WordSequence='9' >וּלְכָב֖וֹד</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='9' WordSequence='10' >אֶֽהְיֶ֥ה</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='9' WordSequence='11' IsParashaPtuchah='true' >בְתוֹכָֽהּ</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='10' WordSequence='1' >ה֣וֹי</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='2' Verse='9' WordSequence='11'>בְתוֹכָֽהּ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='2' Verse='10' WordSequence='1' IsParashaPtuchah='true' >ה֣וֹי</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='10' WordSequence='2' >ה֗וֹי</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='10' WordSequence='3' >וְנֻ֛סוּ</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='10' WordSequence='4' >מֵאֶ֥רֶץ</Word>
@@ -412,8 +412,8 @@
 <Word Book='Zekharyah' Chapter='2' Verse='11' WordSequence='3' >הִמָּלְטִ֑י</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='11' WordSequence='4' >יוֹשֶׁ֖בֶת</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='11' WordSequence='5' >בַּת־</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='11' WordSequence='6' >בָּבֶֽל</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='12' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='2' Verse='11' WordSequence='6' >בָּבֶֽל</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='2' Verse='12' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='12' WordSequence='2' >כֹ֣ה</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='12' WordSequence='3' >אָמַר֮</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='12' WordSequence='4' >יְהוָ֣ה</Word>
@@ -444,8 +444,8 @@
 <Word Book='Zekharyah' Chapter='2' Verse='13' WordSequence='11' >כִּֽי־</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='13' WordSequence='12' >יְהוָ֥ה</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='13' WordSequence='13' >צְבָא֖וֹת</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='13' WordSequence='14' >שְׁלָחָֽנִי</Word>
-<Word Book='Zekharyah' Chapter='2' Verse='14' WordSequence='1' >רָנִּ֥י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='2' Verse='13' WordSequence='14' >שְׁלָחָֽנִי</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='2' Verse='14' WordSequence='1' IsParashaPtuchah='true' >רָנִּ֥י</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='14' WordSequence='2' >וְשִׂמְחִ֖י</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='14' WordSequence='3' >בַּת־</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='14' WordSequence='4' >צִיּ֑וֹן</Word>
@@ -493,8 +493,8 @@
 <Word Book='Zekharyah' Chapter='2' Verse='17' WordSequence='6' >כִּ֥י</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='17' WordSequence='7' >נֵע֖וֹר</Word>
 <Word Book='Zekharyah' Chapter='2' Verse='17' WordSequence='8' >מִמְּע֥וֹן</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='2' Verse='17' WordSequence='9' IsParashaPtuchah='true' >קָדְשֽׁוֹ</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיַּרְאֵ֗נִי</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='2' Verse='17' WordSequence='9' >קָדְשֽׁוֹ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּרְאֵ֗נִי</Word>
 <Word Book='Zekharyah' Chapter='3' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Zekharyah' Chapter='3' Verse='1' WordSequence='3' >יְהוֹשֻׁ֙עַ֙</Word>
 <Word Book='Zekharyah' Chapter='3' Verse='1' WordSequence='4' >הַכֹּהֵ֣ן</Word>
@@ -657,8 +657,8 @@
 <Word Book='Zekharyah' Chapter='3' Verse='10' WordSequence='11' >גֶּ֖פֶן</Word>
 <Word Book='Zekharyah' Chapter='3' Verse='10' WordSequence='12' >וְאֶל־</Word>
 <Word Book='Zekharyah' Chapter='3' Verse='10' WordSequence='13' >תַּ֥חַת</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='3' Verse='10' WordSequence='14' >תְּאֵנָֽה</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיָּ֕שָׁב</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='3' Verse='10' WordSequence='14'>תְּאֵנָֽה</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וַיָּ֕שָׁב</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='1' WordSequence='2' >הַמַּלְאָ֖ךְ</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='1' WordSequence='3' >הַדֹּבֵ֣ר</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='1' WordSequence='4' >בִּ֑י</Word>
@@ -759,8 +759,8 @@
 <Word Book='Zekharyah' Chapter='4' Verse='7' WordSequence='12' >תְּשֻׁא֕וֹת</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='7' WordSequence='13' >חֵ֥ן</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='7' WordSequence='14' >חֵ֖ן</Word>
-<Word Book='Zekharyah' Chapter='4' Verse='7' WordSequence='15' IsParashaPtuchah='true' >לָֽהּ</Word>
-<Word Book='Zekharyah' Chapter='4' Verse='8' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='4' Verse='7' WordSequence='15'>לָֽהּ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='4' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='8' WordSequence='2' >דְבַר־</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='8' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='8' WordSequence='4' >אֵלַ֥י</Word>
@@ -845,8 +845,8 @@
 <Word Book='Zekharyah' Chapter='4' Verse='14' WordSequence='7' >עַל־</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='14' WordSequence='8' >אֲד֥וֹן</Word>
 <Word Book='Zekharyah' Chapter='4' Verse='14' WordSequence='9' >כָּל־</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='4' Verse='14' WordSequence='10' >הָאָֽרֶץ</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וָאָשׁ֕וּב</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='4' Verse='14' WordSequence='10'>הָאָֽרֶץ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וָאָשׁ֕וּב</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='1' WordSequence='2' >וָאֶשָּׂ֥א</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='1' WordSequence='3' >עֵינַ֖י</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='1' WordSequence='4' >וָֽאֶרְאֶ֑ה</Word>
@@ -958,8 +958,8 @@
 <Word Book='Zekharyah' Chapter='5' Verse='8' WordSequence='11' >אֶ֥בֶן</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='8' WordSequence='12' >הָעֹפֶ֖רֶת</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='8' WordSequence='13' >אֶל־</Word>
-<Word Book='Zekharyah' Chapter='5' Verse='8' WordSequence='14' >פִּֽיהָ</Word>
-<Word Book='Zekharyah' Chapter='5' Verse='9' WordSequence='1' >וָאֶשָּׂ֨א</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='5' Verse='8' WordSequence='14' >פִּֽיהָ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='5' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וָאֶשָּׂ֨א</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='9' WordSequence='2' >עֵינַ֜י</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='9' WordSequence='3' >וָאֵ֗רֶא</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='9' WordSequence='4' >וְהִנֵּה֩</Word>
@@ -1000,8 +1000,8 @@
 <Word Book='Zekharyah' Chapter='5' Verse='11' WordSequence='9' >וְהֻנִּ֥יחָה</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='11' WordSequence='10' >שָּׁ֖ם</Word>
 <Word Book='Zekharyah' Chapter='5' Verse='11' WordSequence='11' >עַל־</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='5' Verse='11' WordSequence='12' IsParashaPtuchah='true' >מְכֻנָתָֽהּ</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וָאָשֻׁ֗ב</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='5' Verse='11' WordSequence='12' >מְכֻנָתָֽהּ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וָאָשֻׁ֗ב</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='1' WordSequence='2' >וָאֶשָּׂ֤א</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='1' WordSequence='3' >עֵינַי֙</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='1' WordSequence='4' >וָֽאֶרְאֶ֔ה</Word>
@@ -1098,8 +1098,8 @@
 <Word Book='Zekharyah' Chapter='6' Verse='8' WordSequence='12' >אֶת־</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='8' WordSequence='13' >רוּחִ֖י</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='8' WordSequence='14' >בְּאֶ֥רֶץ</Word>
-<Word Book='Zekharyah' Chapter='6' Verse='8' WordSequence='15' >צָפֽוֹן</Word>
-<Word Book='Zekharyah' Chapter='6' Verse='9' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='6' Verse='8' WordSequence='15' >צָפֽוֹן</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='6' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='9' WordSequence='2' >דְבַר־</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='9' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='9' WordSequence='4' >אֵלַ֥י</Word>
@@ -1203,8 +1203,8 @@
 <Word Book='Zekharyah' Chapter='6' Verse='15' WordSequence='15' >תִּשְׁמְע֔וּן</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='15' WordSequence='16' >בְּק֖וֹל</Word>
 <Word Book='Zekharyah' Chapter='6' Verse='15' WordSequence='17' >יְהוָ֥ה</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='6' Verse='15' WordSequence='18' IsParashaPtuchah='true' >אֱלֹהֵיכֶֽם</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='6' Verse='15' WordSequence='18' >אֱלֹהֵיכֶֽם</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='1' WordSequence='2' >בִּשְׁנַ֣ת</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='1' WordSequence='3' >אַרְבַּ֔ע</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='1' WordSequence='4' >לְדָרְיָ֖וֶשׁ</Word>
@@ -1248,8 +1248,8 @@
 <Word Book='Zekharyah' Chapter='7' Verse='3' WordSequence='16' >עָשִׂ֔יתִי</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='3' WordSequence='17' >זֶ֖ה</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='3' WordSequence='18' >כַּמֶּ֥ה</Word>
-<Word Book='Zekharyah' Chapter='7' Verse='3' WordSequence='19' IsParashaPtuchah='true' >שָׁנִֽים</Word>
-<Word Book='Zekharyah' Chapter='7' Verse='4' WordSequence='1' >וַיְהִ֛י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='7' Verse='3' WordSequence='19'>שָׁנִֽים</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='7' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֛י</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='4' WordSequence='2' >דְּבַר־</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='4' WordSequence='3' >יְהוָ֥ה</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='4' WordSequence='4' >צְבָא֖וֹת</Word>
@@ -1300,8 +1300,8 @@
 <Word Book='Zekharyah' Chapter='7' Verse='7' WordSequence='15' >סְבִיבֹתֶ֑יהָ</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='7' WordSequence='16' >וְהַנֶּ֥גֶב</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='7' WordSequence='17' >וְהַשְּׁפֵלָ֖ה</Word>
-<Word Book='Zekharyah' Chapter='7' Verse='7' WordSequence='18' IsParashaPtuchah='true' >יֹשֵֽׁב</Word>
-<Word Book='Zekharyah' Chapter='7' Verse='8' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='7' Verse='7' WordSequence='18'>יֹשֵֽׁב</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='7' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='8' WordSequence='2' >דְּבַר־</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='8' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='8' WordSequence='4' >אֶל־</Word>
@@ -1390,8 +1390,8 @@
 <Word Book='Zekharyah' Chapter='7' Verse='14' WordSequence='13' >וַיָּשִׂ֥ימוּ</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='14' WordSequence='14' >אֶֽרֶץ־</Word>
 <Word Book='Zekharyah' Chapter='7' Verse='14' WordSequence='15' >חֶמְדָּ֖ה</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='7' Verse='14' WordSequence='16' IsParashaPtuchah='true' >לְשַׁמָּֽה</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיְהִ֛י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='7' Verse='14' WordSequence='16'>לְשַׁמָּֽה</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֛י</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='1' WordSequence='2' >דְּבַר־</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='1' WordSequence='3' >יְהוָ֥ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='1' WordSequence='4' >צְבָא֖וֹת</Word>
@@ -1425,8 +1425,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='3' WordSequence='15' >יְהוָ֥ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='3' WordSequence='16' >צְבָא֖וֹת</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='3' WordSequence='17' >הַ֥ר</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='3' WordSequence='18' >הַקֹּֽדֶשׁ</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='4' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='3' WordSequence='18' >הַקֹּֽדֶשׁ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='4' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='4' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='4' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='4' WordSequence='4' >צְבָא֔וֹת</Word>
@@ -1447,8 +1447,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='5' WordSequence='4' >יְלָדִ֖ים</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='5' WordSequence='5' >וִֽילָד֑וֹת</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='5' WordSequence='6' >מְשַׂחֲקִ֖ים</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='5' WordSequence='7' >בִּרְחֹֽבֹתֶֽיהָ</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='6' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='5' WordSequence='7' >בִּרְחֹֽבֹתֶֽיהָ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='6' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='6' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='6' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='6' WordSequence='4' >צְבָא֔וֹת</Word>
@@ -1465,8 +1465,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='6' WordSequence='15' >יִפָּלֵ֔א</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='6' WordSequence='16' >נְאֻ֖ם</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='6' WordSequence='17' >יְהוָ֥ה</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='6' WordSequence='18' IsParashaPtuchah='true' >צְבָאֽוֹת</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='7' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='6' WordSequence='18'>צְבָאֽוֹת</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='7' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='7' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='7' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='7' WordSequence='4' >צְבָא֔וֹת</Word>
@@ -1492,8 +1492,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='8' WordSequence='11' >לָהֶם֙</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='8' WordSequence='12' >לֵֽאלֹהִ֔ים</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='8' WordSequence='13' >בֶּאֱמֶ֖ת</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='8' WordSequence='14' >וּבִצְדָקָֽה</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='9' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='8' WordSequence='14' >וּבִצְדָקָֽה</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='9' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='9' WordSequence='2' >אָמַר֮</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='9' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='9' WordSequence='4' >צְבָאוֹת֒</Word>
@@ -1587,8 +1587,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='13' WordSequence='15' >אַל־</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='13' WordSequence='16' >תִּירָ֖אוּ</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='13' WordSequence='17' >תֶּחֱזַ֥קְנָה</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='13' WordSequence='18' >יְדֵיכֶֽם</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='14' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='13' WordSequence='18' >יְדֵיכֶֽם</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='14' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='14' WordSequence='2' >כֹ֣ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='14' WordSequence='3' >אָמַר֮</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='14' WordSequence='4' >יְהוָ֣ה</Word>
@@ -1650,8 +1650,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='17' WordSequence='16' >אֲשֶׁ֥ר</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='17' WordSequence='17' >שָׂנֵ֖אתִי</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='17' WordSequence='18' >נְאֻם־</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='17' WordSequence='19' >יְהוָֽה</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='18' WordSequence='1' >וַיְהִ֛י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='17' WordSequence='19' >יְהוָֽה</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֛י</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='18' WordSequence='2' >דְּבַר־</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='18' WordSequence='3' >יְהוָ֥ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='18' WordSequence='4' >צְבָא֖וֹת</Word>
@@ -1678,8 +1678,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='19' WordSequence='19' >טוֹבִ֑ים</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='19' WordSequence='20' >וְהָאֱמֶ֥ת</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='19' WordSequence='21' >וְהַשָּׁל֖וֹם</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='19' WordSequence='22' IsParashaPtuchah='true' >אֱהָֽבוּ</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='20' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='19' WordSequence='22'>אֱהָֽבוּ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='20' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='20' WordSequence='2' >אָמַ֖ר</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='20' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='20' WordSequence='4' >צְבָא֑וֹת</Word>
@@ -1722,8 +1722,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='22' WordSequence='11' >וּלְחַלּ֖וֹת</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='22' WordSequence='12' >אֶת־</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='22' WordSequence='13' >פְּנֵ֥י</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='22' WordSequence='14' >יְהוָֽה</Word>
-<Word Book='Zekharyah' Chapter='8' Verse='23' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='22' WordSequence='14' >יְהוָֽה</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='8' Verse='23' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='23' WordSequence='2' >אָמַר֮</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='23' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='23' WordSequence='4' >צְבָאוֹת֒</Word>
@@ -1746,8 +1746,8 @@
 <Word Book='Zekharyah' Chapter='8' Verse='23' WordSequence='21' >כִּ֥י</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='23' WordSequence='22' >שָׁמַ֖עְנוּ</Word>
 <Word Book='Zekharyah' Chapter='8' Verse='23' WordSequence='23' >אֱלֹהִ֥ים</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='8' Verse='23' WordSequence='24' IsParashaPtuchah='true' >עִמָּכֶֽם</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>מַשָּׂ֤א</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='8' Verse='23' WordSequence='24' >עִמָּכֶֽם</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >מַשָּׂ֤א</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='1' WordSequence='3' >יְהוָה֙</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='1' WordSequence='4' >בְּאֶ֣רֶץ</Word>
@@ -1839,8 +1839,8 @@
 <Word Book='Zekharyah' Chapter='9' Verse='8' WordSequence='11' >כִּ֥י</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='8' WordSequence='12' >עַתָּ֖ה</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='8' WordSequence='13' >רָאִ֥יתִי</Word>
-<Word Book='Zekharyah' Chapter='9' Verse='8' WordSequence='14' >בְעֵינָֽי</Word>
-<Word Book='Zekharyah' Chapter='9' Verse='9' WordSequence='1' >גִּילִ֨י</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='9' Verse='8' WordSequence='14' >בְעֵינָֽי</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='9' Verse='9' WordSequence='1' IsParashaPtuchah='true' >גִּילִ֨י</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='9' WordSequence='2' >מְאֹ֜ד</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='9' WordSequence='3' >בַּת־</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='9' WordSequence='4' >צִיּ֗וֹן</Word>
@@ -1968,8 +1968,8 @@
 <Word Book='Zekharyah' Chapter='9' Verse='17' WordSequence='7' >בַּֽחוּרִ֔ים</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='17' WordSequence='8' >וְתִיר֖וֹשׁ</Word>
 <Word Book='Zekharyah' Chapter='9' Verse='17' WordSequence='9' >יְנוֹבֵ֥ב</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='9' Verse='17' WordSequence='10' >בְּתֻלֽוֹת</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>שַׁאֲל֨וּ</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='9' Verse='17' WordSequence='10'>בְּתֻלֽוֹת</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>שַׁאֲל֨וּ</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='1' WordSequence='2' >מֵיְהוָ֤ה</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='1' WordSequence='3' >מָטָר֙</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='1' WordSequence='4' >בְּעֵ֣ת</Word>
@@ -2004,8 +2004,8 @@
 <Word Book='Zekharyah' Chapter='10' Verse='2' WordSequence='18' >יַעֲנ֖וּ</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='2' WordSequence='19' >כִּֽי־</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='2' WordSequence='20' >אֵ֥ין</Word>
-<Word Book='Zekharyah' Chapter='10' Verse='2' WordSequence='21' IsParashaPtuchah='true' >רֹעֶֽה</Word>
-<Word Book='Zekharyah' Chapter='10' Verse='3' WordSequence='1' >עַל־</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='10' Verse='2' WordSequence='21'>רֹעֶֽה</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='10' Verse='3' WordSequence='1' IsParashaPtuchah='true' >עַל־</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='3' WordSequence='2' >הָֽרֹעִים֙</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='3' WordSequence='3' >חָרָ֣ה</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='3' WordSequence='4' >אַפִּ֔י</Word>
@@ -2134,8 +2134,8 @@
 <Word Book='Zekharyah' Chapter='10' Verse='12' WordSequence='3' >וּבִשְׁמ֖וֹ</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='12' WordSequence='4' >יִתְהַלָּ֑כוּ</Word>
 <Word Book='Zekharyah' Chapter='10' Verse='12' WordSequence='5' >נְאֻ֖ם</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='10' Verse='12' WordSequence='6' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>פְּתַ֥ח</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='10' Verse='12' WordSequence='6' >יְהוָֽה</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >פְּתַ֥ח</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='1' WordSequence='2' >לְבָנ֖וֹן</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='1' WordSequence='3' >דְּלָתֶ֑יךָ</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='1' WordSequence='4' >וְתֹאכַ֥ל</Word>
@@ -2169,8 +2169,8 @@
 <Word Book='Zekharyah' Chapter='11' Verse='3' WordSequence='10' >כִּ֥י</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='3' WordSequence='11' >שֻׁדַּ֖ד</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='3' WordSequence='12' >גְּא֥וֹן</Word>
-<Word Book='Zekharyah' Chapter='11' Verse='3' WordSequence='13' >הַיַּרְדֵּֽן</Word>
-<Word Book='Zekharyah' Chapter='11' Verse='4' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='11' Verse='3' WordSequence='13' >הַיַּרְדֵּֽן</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='11' Verse='4' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='4' WordSequence='2' >אָמַ֖ר</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='4' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='4' WordSequence='4' >אֱלֹהָ֑י</Word>
@@ -2339,8 +2339,8 @@
 <Word Book='Zekharyah' Chapter='11' Verse='14' WordSequence='10' >בֵּ֥ין</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='14' WordSequence='11' >יְהוּדָ֖ה</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='14' WordSequence='12' >וּבֵ֥ין</Word>
-<Word Book='Zekharyah' Chapter='11' Verse='14' WordSequence='13' >יִשְׂרָאֵֽל</Word>
-<Word Book='Zekharyah' Chapter='11' Verse='15' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='11' Verse='14' WordSequence='13' >יִשְׂרָאֵֽל</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='11' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='15' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='15' WordSequence='3' >אֵלָ֑י</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='15' WordSequence='4' >ע֣וֹד</Word>
@@ -2371,8 +2371,8 @@
 <Word Book='Zekharyah' Chapter='11' Verse='16' WordSequence='20' >הַבְּרִיאָה֙</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='16' WordSequence='21' >יֹאכַ֔ל</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='16' WordSequence='22' >וּפַרְסֵיהֶ֖ן</Word>
-<Word Book='Zekharyah' Chapter='11' Verse='16' WordSequence='23' >יְפָרֵֽק</Word>
-<Word Book='Zekharyah' Chapter='11' Verse='17' WordSequence='1' >ה֣וֹי</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='11' Verse='16' WordSequence='23' >יְפָרֵֽק</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='11' Verse='17' WordSequence='1' IsParashaPtuchah='true' >ה֣וֹי</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='17' WordSequence='2' >רֹעִ֤י</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='17' WordSequence='3' >הָֽאֱלִיל֙</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='17' WordSequence='4' >עֹזְבִ֣י</Word>
@@ -2389,8 +2389,8 @@
 <Word Book='Zekharyah' Chapter='11' Verse='17' WordSequence='15' >וְעֵ֥ין</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='17' WordSequence='16' >יְמִינ֖וֹ</Word>
 <Word Book='Zekharyah' Chapter='11' Verse='17' WordSequence='17' >כָּהֹ֥ה</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='11' Verse='17' WordSequence='18' IsParashaPtuchah='true' >תִכְהֶֽה</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>מַשָּׂ֥א</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='11' Verse='17' WordSequence='18' >תִכְהֶֽה</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >מַשָּׂ֥א</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='1' WordSequence='4' >עַל־</Word>
@@ -2404,8 +2404,8 @@
 <Word Book='Zekharyah' Chapter='12' Verse='1' WordSequence='12' >וְיֹצֵ֥ר</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='1' WordSequence='13' >רֽוּחַ־</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='1' WordSequence='14' >אָדָ֖ם</Word>
-<Word Book='Zekharyah' Chapter='12' Verse='1' WordSequence='15' IsParashaPtuchah='true' >בְּקִרְבּֽוֹ</Word>
-<Word Book='Zekharyah' Chapter='12' Verse='2' WordSequence='1' >הִנֵּ֣ה</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='12' Verse='1' WordSequence='15'>בְּקִרְבּֽוֹ</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='12' Verse='2' WordSequence='1' IsParashaPtuchah='true' >הִנֵּ֣ה</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='2' WordSequence='2' >אָ֠נֹכִי</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='2' WordSequence='3' >שָׂ֣ם</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='2' WordSequence='4' >אֶת־</Word>
@@ -2498,8 +2498,8 @@
 <Word Book='Zekharyah' Chapter='12' Verse='6' WordSequence='23' >יְרוּשָׁלִַ֥ם</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='6' WordSequence='24' >ע֛וֹד</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='6' WordSequence='25' >תַּחְתֶּ֖יהָ</Word>
-<Word Book='Zekharyah' Chapter='12' Verse='6' WordSequence='26' IsParashaPtuchah='true' >בִּירוּשָׁלִָֽם</Word>
-<Word Book='Zekharyah' Chapter='12' Verse='7' WordSequence='1' >וְהוֹשִׁ֧יעַ</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='12' Verse='6' WordSequence='26'>בִּירוּשָׁלִָֽם</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='12' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְהוֹשִׁ֧יעַ</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='7' WordSequence='2' >יְהוָ֛ה</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='7' WordSequence='3' >אֶת־</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='7' WordSequence='4' >אָהֳלֵ֥י</Word>
@@ -2616,8 +2616,8 @@
 <Word Book='Zekharyah' Chapter='12' Verse='14' WordSequence='5' >מִשְׁפָּחֹ֖ת</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='14' WordSequence='6' >לְבָ֑ד</Word>
 <Word Book='Zekharyah' Chapter='12' Verse='14' WordSequence='7' >וּנְשֵׁיהֶ֖ם</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='12' Verse='14' WordSequence='8' IsParashaPtuchah='true' >לְבָֽד</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>בַּיּ֣וֹם</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='12' Verse='14' WordSequence='8' >לְבָֽד</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בַּיּ֣וֹם</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='1' WordSequence='2' >הַה֗וּא</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='1' WordSequence='3' >יִֽהְיֶה֙</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='1' WordSequence='4' >מָק֣וֹר</Word>
@@ -2711,8 +2711,8 @@
 <Word Book='Zekharyah' Chapter='13' Verse='6' WordSequence='9' >אֲשֶׁ֥ר</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='6' WordSequence='10' >הֻכֵּ֖יתִי</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='6' WordSequence='11' >בֵּ֥ית</Word>
-<Word Book='Zekharyah' Chapter='13' Verse='6' WordSequence='12' >מְאַהֲבָֽי</Word>
-<Word Book='Zekharyah' Chapter='13' Verse='7' WordSequence='1' >חֶ֗רֶב</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='13' Verse='6' WordSequence='12' >מְאַהֲבָֽי</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='13' Verse='7' WordSequence='1' IsParashaPtuchah='true' >חֶ֗רֶב</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='7' WordSequence='2' >עוּרִ֤י</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='7' WordSequence='3' >עַל־</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='7' WordSequence='4' >רֹעִי֙</Word>
@@ -2768,8 +2768,8 @@
 <Word Book='Zekharyah' Chapter='13' Verse='9' WordSequence='22' >וְה֥וּא</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='9' WordSequence='23' >יֹאמַ֖ר</Word>
 <Word Book='Zekharyah' Chapter='13' Verse='9' WordSequence='24' >יְהוָ֥ה</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='13' Verse='9' WordSequence='25' IsParashaPtuchah='true' >אֱלֹהָֽי</Word>
-<Word Book='Zekharyah' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>הִנֵּ֥ה</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='13' Verse='9' WordSequence='25' >אֱלֹהָֽי</Word>
+<Word Book='Zekharyah' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1' IsParashaPtuchah='true' >הִנֵּ֥ה</Word>
 <Word Book='Zekharyah' Chapter='14' Verse='1' WordSequence='2' >יֽוֹם־</Word>
 <Word Book='Zekharyah' Chapter='14' Verse='1' WordSequence='3' >בָּ֖א</Word>
 <Word Book='Zekharyah' Chapter='14' Verse='1' WordSequence='4' >לַֽיהוָ֑ה</Word>
@@ -3132,5 +3132,5 @@
 <Word Book='Zekharyah' Chapter='14' Verse='21' WordSequence='21' >יְהוָ֥ה</Word>
 <Word Book='Zekharyah' Chapter='14' Verse='21' WordSequence='22' >צְבָא֖וֹת</Word>
 <Word Book='Zekharyah' Chapter='14' Verse='21' WordSequence='23' >בַּיּ֥וֹם</Word>
-<Word Book='Zekharyah' EndPerekAfterWord='true' Chapter='14' Verse='21' WordSequence='24' >הַהֽוּא</Word>
+<Word Book='Zekharyah' EndParashaAfterWord='true' Chapter='14' Verse='21' WordSequence='24'>הַהֽוּא</Word>
 </Tanakh>

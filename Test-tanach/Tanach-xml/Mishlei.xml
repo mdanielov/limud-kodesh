@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>מִ֭שְׁלֵי</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>מִ֭שְׁלֵי</Word>
 <Word Book='Mishlei' Chapter='1' Verse='1' WordSequence='2' >שְׁלֹמֹ֣ה</Word>
 <Word Book='Mishlei' Chapter='1' Verse='1' WordSequence='3' >בֶן־</Word>
 <Word Book='Mishlei' Chapter='1' Verse='1' WordSequence='4' >דָּוִ֑ד</Word>
@@ -43,8 +43,8 @@
 <Word Book='Mishlei' Chapter='1' Verse='7' WordSequence='5' >חָכְמָ֥ה</Word>
 <Word Book='Mishlei' Chapter='1' Verse='7' WordSequence='6' >וּ֝מוּסָ֗ר</Word>
 <Word Book='Mishlei' Chapter='1' Verse='7' WordSequence='7' >אֱוִילִ֥ים</Word>
-<Word Book='Mishlei' Chapter='1' Verse='7' WordSequence='8' IsParashaPtuchah='true' >בָּֽזוּ</Word>
-<Word Book='Mishlei' Chapter='1' Verse='8' WordSequence='1' >שְׁמַ֣ע</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='1' Verse='7' WordSequence='8'>בָּֽזוּ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='1' Verse='8' WordSequence='1' IsParashaPtuchah='true' >שְׁמַ֣ע</Word>
 <Word Book='Mishlei' Chapter='1' Verse='8' WordSequence='2' >בְּ֭נִי</Word>
 <Word Book='Mishlei' Chapter='1' Verse='8' WordSequence='3' >מוּסַ֣ר</Word>
 <Word Book='Mishlei' Chapter='1' Verse='8' WordSequence='4' >אָבִ֑יךָ</Word>
@@ -130,8 +130,8 @@
 <Word Book='Mishlei' Chapter='1' Verse='19' WordSequence='6' >אֶת־</Word>
 <Word Book='Mishlei' Chapter='1' Verse='19' WordSequence='7' >נֶ֖פֶשׁ</Word>
 <Word Book='Mishlei' Chapter='1' Verse='19' WordSequence='8' >בְּעָלָ֣יו</Word>
-<Word Book='Mishlei' Chapter='1' Verse='19' WordSequence='9' IsParashaPtuchah='true' >יִקָּֽח</Word>
-<Word Book='Mishlei' Chapter='1' Verse='20' WordSequence='1' >חָ֭כְמוֹת</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='1' Verse='19' WordSequence='9'>יִקָּֽח</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='1' Verse='20' WordSequence='1' IsParashaPtuchah='true' >חָ֭כְמוֹת</Word>
 <Word Book='Mishlei' Chapter='1' Verse='20' WordSequence='2' >בַּח֣וּץ</Word>
 <Word Book='Mishlei' Chapter='1' Verse='20' WordSequence='3' >תָּרֹ֑נָּה</Word>
 <Word Book='Mishlei' Chapter='1' Verse='20' WordSequence='4' >בָּ֝רְחֹב֗וֹת</Word>
@@ -236,8 +236,8 @@
 <Word Book='Mishlei' Chapter='1' Verse='33' WordSequence='4' >בֶּ֑טַח</Word>
 <Word Book='Mishlei' Chapter='1' Verse='33' WordSequence='5' >וְ֝שַׁאֲנַ֗ן</Word>
 <Word Book='Mishlei' Chapter='1' Verse='33' WordSequence='6' >מִפַּ֥חַד</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='1' Verse='33' WordSequence='7' IsParashaPtuchah='true' >רָעָֽה</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>בְּ֭נִי</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='1' Verse='33' WordSequence='7'>רָעָֽה</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בְּ֭נִי</Word>
 <Word Book='Mishlei' Chapter='2' Verse='1' WordSequence='2' >אִם־</Word>
 <Word Book='Mishlei' Chapter='2' Verse='1' WordSequence='3' >תִּקַּ֣ח</Word>
 <Word Book='Mishlei' Chapter='2' Verse='1' WordSequence='4' >אֲמָרָ֑י</Word>
@@ -381,8 +381,8 @@
 <Word Book='Mishlei' Chapter='2' Verse='22' WordSequence='3' >יִכָּרֵ֑תוּ</Word>
 <Word Book='Mishlei' Chapter='2' Verse='22' WordSequence='4' >וּ֝בוֹגְדִ֗ים</Word>
 <Word Book='Mishlei' Chapter='2' Verse='22' WordSequence='5' >יִסְּח֥וּ</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='2' Verse='22' WordSequence='6' IsParashaPtuchah='true' >מִמֶּֽנָּה</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>בְּ֭נִי</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='2' Verse='22' WordSequence='6'>מִמֶּֽנָּה</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בְּ֭נִי</Word>
 <Word Book='Mishlei' Chapter='3' Verse='1' WordSequence='2' >תּוֹרָתִ֣י</Word>
 <Word Book='Mishlei' Chapter='3' Verse='1' WordSequence='3' >אַל־</Word>
 <Word Book='Mishlei' Chapter='3' Verse='1' WordSequence='4' >תִּשְׁכָּ֑ח</Word>
@@ -414,8 +414,8 @@
 <Word Book='Mishlei' Chapter='3' Verse='4' WordSequence='4' >ט֑וֹב</Word>
 <Word Book='Mishlei' Chapter='3' Verse='4' WordSequence='5' >בְּעֵינֵ֖י</Word>
 <Word Book='Mishlei' Chapter='3' Verse='4' WordSequence='6' >אֱלֹהִ֣ים</Word>
-<Word Book='Mishlei' Chapter='3' Verse='4' WordSequence='7' IsParashaPtuchah='true' >וְאָדָֽם</Word>
-<Word Book='Mishlei' Chapter='3' Verse='5' WordSequence='1' >בְּטַ֣ח</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='3' Verse='4' WordSequence='7'>וְאָדָֽם</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='3' Verse='5' WordSequence='1' IsParashaPtuchah='true' >בְּטַ֣ח</Word>
 <Word Book='Mishlei' Chapter='3' Verse='5' WordSequence='2' >אֶל־</Word>
 <Word Book='Mishlei' Chapter='3' Verse='5' WordSequence='3' >יְ֭הוָה</Word>
 <Word Book='Mishlei' Chapter='3' Verse='5' WordSequence='4' >בְּכָל־</Word>
@@ -456,8 +456,8 @@
 <Word Book='Mishlei' Chapter='3' Verse='10' WordSequence='3' >שָׂבָ֑ע</Word>
 <Word Book='Mishlei' Chapter='3' Verse='10' WordSequence='4' >וְ֝תִיר֗וֹשׁ</Word>
 <Word Book='Mishlei' Chapter='3' Verse='10' WordSequence='5' >יְקָבֶ֥יךָ</Word>
-<Word Book='Mishlei' Chapter='3' Verse='10' WordSequence='6' IsParashaPtuchah='true' >יִפְרֹֽצוּ</Word>
-<Word Book='Mishlei' Chapter='3' Verse='11' WordSequence='1' >מוּסַ֣ר</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='3' Verse='10' WordSequence='6'>יִפְרֹֽצוּ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='3' Verse='11' WordSequence='1' IsParashaPtuchah='true' >מוּסַ֣ר</Word>
 <Word Book='Mishlei' Chapter='3' Verse='11' WordSequence='2' >יְ֭הוָה</Word>
 <Word Book='Mishlei' Chapter='3' Verse='11' WordSequence='3' >בְּנִ֣י</Word>
 <Word Book='Mishlei' Chapter='3' Verse='11' WordSequence='4' >אַל־</Word>
@@ -516,8 +516,8 @@
 <Word Book='Mishlei' Chapter='3' Verse='18' WordSequence='4' >לַמַּחֲזִיקִ֣ים</Word>
 <Word Book='Mishlei' Chapter='3' Verse='18' WordSequence='5' >בָּ֑הּ</Word>
 <Word Book='Mishlei' Chapter='3' Verse='18' WordSequence='6' >וְֽתֹמְכֶ֥יהָ</Word>
-<Word Book='Mishlei' Chapter='3' Verse='18' WordSequence='7' IsParashaPtuchah='true' >מְאֻשָּֽׁר</Word>
-<Word Book='Mishlei' Chapter='3' Verse='19' WordSequence='1' >יְֽהוָ֗ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='3' Verse='18' WordSequence='7'>מְאֻשָּֽׁר</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='3' Verse='19' WordSequence='1' IsParashaPtuchah='true' >יְֽהוָ֗ה</Word>
 <Word Book='Mishlei' Chapter='3' Verse='19' WordSequence='2' >בְּחָכְמָ֥ה</Word>
 <Word Book='Mishlei' Chapter='3' Verse='19' WordSequence='3' >יָֽסַד־</Word>
 <Word Book='Mishlei' Chapter='3' Verse='19' WordSequence='4' >אָ֑רֶץ</Word>
@@ -644,8 +644,8 @@
 <Word Book='Mishlei' Chapter='3' Verse='35' WordSequence='3' >יִנְחָ֑לוּ</Word>
 <Word Book='Mishlei' Chapter='3' Verse='35' WordSequence='4' >וּ֝כְסִילִ֗ים</Word>
 <Word Book='Mishlei' Chapter='3' Verse='35' WordSequence='5' >מֵרִ֥ים</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='3' Verse='35' WordSequence='6' IsParashaPtuchah='true' >קָלֽוֹן</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>שִׁמְע֣וּ</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='3' Verse='35' WordSequence='6'>קָלֽוֹן</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שִׁמְע֣וּ</Word>
 <Word Book='Mishlei' Chapter='4' Verse='1' WordSequence='2' >בָ֭נִים</Word>
 <Word Book='Mishlei' Chapter='4' Verse='1' WordSequence='3' >מ֣וּסַר</Word>
 <Word Book='Mishlei' Chapter='4' Verse='1' WordSequence='4' >אָ֑ב</Word>
@@ -791,8 +791,8 @@
 <Word Book='Mishlei' Chapter='4' Verse='19' WordSequence='4' >לֹ֥א</Word>
 <Word Book='Mishlei' Chapter='4' Verse='19' WordSequence='5' >יָ֝דְע֗וּ</Word>
 <Word Book='Mishlei' Chapter='4' Verse='19' WordSequence='6' >בַּמֶּ֥ה</Word>
-<Word Book='Mishlei' Chapter='4' Verse='19' WordSequence='7' IsParashaPtuchah='true' >יִכָּשֵֽׁלוּ</Word>
-<Word Book='Mishlei' Chapter='4' Verse='20' WordSequence='1' >בְּ֭נִי</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='4' Verse='19' WordSequence='7'>יִכָּשֵֽׁלוּ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='4' Verse='20' WordSequence='1' IsParashaPtuchah='true' >בְּ֭נִי</Word>
 <Word Book='Mishlei' Chapter='4' Verse='20' WordSequence='2' >לִדְבָרַ֣י</Word>
 <Word Book='Mishlei' Chapter='4' Verse='20' WordSequence='3' >הַקְשִׁ֑יבָה</Word>
 <Word Book='Mishlei' Chapter='4' Verse='20' WordSequence='4' >לַ֝אֲמָרַ֗י</Word>
@@ -845,8 +845,8 @@
 <Word Book='Mishlei' Chapter='4' Verse='27' WordSequence='4' >וּשְׂמֹ֑אול</Word>
 <Word Book='Mishlei' Chapter='4' Verse='27' WordSequence='5' >הָסֵ֖ר</Word>
 <Word Book='Mishlei' Chapter='4' Verse='27' WordSequence='6' >רַגְלְךָ֣</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='4' Verse='27' WordSequence='7' >מֵרָֽע</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>בְּ֭נִי</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='4' Verse='27' WordSequence='7'>מֵרָֽע</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>בְּ֭נִי</Word>
 <Word Book='Mishlei' Chapter='5' Verse='1' WordSequence='2' >לְחָכְמָתִ֣י</Word>
 <Word Book='Mishlei' Chapter='5' Verse='1' WordSequence='3' >הַקְשִׁ֑יבָה</Word>
 <Word Book='Mishlei' Chapter='5' Verse='1' WordSequence='4' >לִ֝תְבוּנָתִ֗י</Word>
@@ -884,8 +884,8 @@
 <Word Book='Mishlei' Chapter='5' Verse='6' WordSequence='5' >נָע֥וּ</Word>
 <Word Book='Mishlei' Chapter='5' Verse='6' WordSequence='6' >מַ֝עְגְּלֹתֶ֗יהָ</Word>
 <Word Book='Mishlei' Chapter='5' Verse='6' WordSequence='7' >לֹ֣א</Word>
-<Word Book='Mishlei' Chapter='5' Verse='6' WordSequence='8' IsParashaPtuchah='true' >תֵדָֽע</Word>
-<Word Book='Mishlei' Chapter='5' Verse='7' WordSequence='1' >וְעַתָּ֣ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='5' Verse='6' WordSequence='8'>תֵדָֽע</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='5' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְעַתָּ֣ה</Word>
 <Word Book='Mishlei' Chapter='5' Verse='7' WordSequence='2' >בָ֭נִים</Word>
 <Word Book='Mishlei' Chapter='5' Verse='7' WordSequence='3' >שִׁמְעוּ־</Word>
 <Word Book='Mishlei' Chapter='5' Verse='7' WordSequence='4' >לִ֑י</Word>
@@ -1005,8 +1005,8 @@
 <Word Book='Mishlei' Chapter='5' Verse='23' WordSequence='4' >מוּסָ֑ר</Word>
 <Word Book='Mishlei' Chapter='5' Verse='23' WordSequence='5' >וּבְרֹ֖ב</Word>
 <Word Book='Mishlei' Chapter='5' Verse='23' WordSequence='6' >אִוַּלְתּ֣וֹ</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='5' Verse='23' WordSequence='7' IsParashaPtuchah='true' >יִשְׁגֶּֽה</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>בְּ֭נִי</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='5' Verse='23' WordSequence='7'>יִשְׁגֶּֽה</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בְּ֭נִי</Word>
 <Word Book='Mishlei' Chapter='6' Verse='1' WordSequence='2' >אִם־</Word>
 <Word Book='Mishlei' Chapter='6' Verse='1' WordSequence='3' >עָרַ֣בְתָּ</Word>
 <Word Book='Mishlei' Chapter='6' Verse='1' WordSequence='4' >לְרֵעֶ֑ךָ</Word>
@@ -1043,8 +1043,8 @@
 <Word Book='Mishlei' Chapter='6' Verse='5' WordSequence='3' >מִיָּ֑ד</Word>
 <Word Book='Mishlei' Chapter='6' Verse='5' WordSequence='4' >וּ֝כְצִפּ֗וֹר</Word>
 <Word Book='Mishlei' Chapter='6' Verse='5' WordSequence='5' >מִיַּ֥ד</Word>
-<Word Book='Mishlei' Chapter='6' Verse='5' WordSequence='6' IsParashaPtuchah='true' >יָקֽוּשׁ</Word>
-<Word Book='Mishlei' Chapter='6' Verse='6' WordSequence='1' >לֵֽךְ־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='6' Verse='5' WordSequence='6'>יָקֽוּשׁ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='6' Verse='6' WordSequence='1' IsParashaPtuchah='true' >לֵֽךְ־</Word>
 <Word Book='Mishlei' Chapter='6' Verse='6' WordSequence='2' >אֶל־</Word>
 <Word Book='Mishlei' Chapter='6' Verse='6' WordSequence='3' >נְמָלָ֥ה</Word>
 <Word Book='Mishlei' Chapter='6' Verse='6' WordSequence='4' >עָצֵ֑ל</Word>
@@ -1083,8 +1083,8 @@
 <Word Book='Mishlei' Chapter='6' Verse='11' WordSequence='3' >רֵאשֶׁ֑ךָ</Word>
 <Word Book='Mishlei' Chapter='6' Verse='11' WordSequence='4' >וּ֝מַחְסֹֽרְךָ֗</Word>
 <Word Book='Mishlei' Chapter='6' Verse='11' WordSequence='5' >כְּאִ֣ישׁ</Word>
-<Word Book='Mishlei' Chapter='6' Verse='11' WordSequence='6' IsParashaPtuchah='true' >מָגֵֽן</Word>
-<Word Book='Mishlei' Chapter='6' Verse='12' WordSequence='1' >אָדָ֣ם</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='6' Verse='11' WordSequence='6'>מָגֵֽן</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='6' Verse='12' WordSequence='1' IsParashaPtuchah='true' >אָדָ֣ם</Word>
 <Word Book='Mishlei' Chapter='6' Verse='12' WordSequence='2' >בְּ֭לִיַּעַל</Word>
 <Word Book='Mishlei' Chapter='6' Verse='12' WordSequence='3' >אִ֣ישׁ</Word>
 <Word Book='Mishlei' Chapter='6' Verse='12' WordSequence='4' >אָ֑וֶן</Word>
@@ -1114,8 +1114,8 @@
 <Word Book='Mishlei' Chapter='6' Verse='15' WordSequence='6' >פֶּ֥תַע</Word>
 <Word Book='Mishlei' Chapter='6' Verse='15' WordSequence='7' >יִ֝שָּׁבֵ֗ר</Word>
 <Word Book='Mishlei' Chapter='6' Verse='15' WordSequence='8' >וְאֵ֣ין</Word>
-<Word Book='Mishlei' Chapter='6' Verse='15' WordSequence='9' IsParashaPtuchah='true' >מַרְפֵּֽא</Word>
-<Word Book='Mishlei' Chapter='6' Verse='16' WordSequence='1' >שֶׁשׁ־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='6' Verse='15' WordSequence='9'>מַרְפֵּֽא</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='6' Verse='16' WordSequence='1' IsParashaPtuchah='true' >שֶׁשׁ־</Word>
 <Word Book='Mishlei' Chapter='6' Verse='16' WordSequence='2' >הֵ֭נָּה</Word>
 <Word Book='Mishlei' Chapter='6' Verse='16' WordSequence='3' >שָׂנֵ֣א</Word>
 <Word Book='Mishlei' Chapter='6' Verse='16' WordSequence='4' >יְהוָ֑ה</Word>
@@ -1146,8 +1146,8 @@
 <Word Book='Mishlei' Chapter='6' Verse='19' WordSequence='5' >וּמְשַׁלֵּ֥חַ</Word>
 <Word Book='Mishlei' Chapter='6' Verse='19' WordSequence='6' >מְ֝דָנִ֗ים</Word>
 <Word Book='Mishlei' Chapter='6' Verse='19' WordSequence='7' >בֵּ֣ין</Word>
-<Word Book='Mishlei' Chapter='6' Verse='19' WordSequence='8' IsParashaPtuchah='true' >אַחִֽים</Word>
-<Word Book='Mishlei' Chapter='6' Verse='20' WordSequence='1' >נְצֹ֣ר</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='6' Verse='19' WordSequence='8'>אַחִֽים</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='6' Verse='20' WordSequence='1' IsParashaPtuchah='true' >נְצֹ֣ר</Word>
 <Word Book='Mishlei' Chapter='6' Verse='20' WordSequence='2' >בְּ֭נִי</Word>
 <Word Book='Mishlei' Chapter='6' Verse='20' WordSequence='3' >מִצְוַ֣ת</Word>
 <Word Book='Mishlei' Chapter='6' Verse='20' WordSequence='4' >אָבִ֑יךָ</Word>
@@ -1204,8 +1204,8 @@
 <Word Book='Mishlei' Chapter='6' Verse='26' WordSequence='9' >אִ֑ישׁ</Word>
 <Word Book='Mishlei' Chapter='6' Verse='26' WordSequence='10' >נֶ֖פֶשׁ</Word>
 <Word Book='Mishlei' Chapter='6' Verse='26' WordSequence='11' >יְקָרָ֣ה</Word>
-<Word Book='Mishlei' Chapter='6' Verse='26' WordSequence='12' IsParashaPtuchah='true' >תָצֽוּד</Word>
-<Word Book='Mishlei' Chapter='6' Verse='27' WordSequence='1' >הֲיַחְתֶּ֤ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='6' Verse='26' WordSequence='12'>תָצֽוּד</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='6' Verse='27' WordSequence='1' IsParashaPtuchah='true' >הֲיַחְתֶּ֤ה</Word>
 <Word Book='Mishlei' Chapter='6' Verse='27' WordSequence='2' >אִ֓ישׁ</Word>
 <Word Book='Mishlei' Chapter='6' Verse='27' WordSequence='3' >אֵ֬שׁ</Word>
 <Word Book='Mishlei' Chapter='6' Verse='27' WordSequence='4' >בְּחֵיק֑וֹ</Word>
@@ -1278,8 +1278,8 @@
 <Word Book='Mishlei' Chapter='6' Verse='35' WordSequence='7' >יֹ֝אבֶ֗ה</Word>
 <Word Book='Mishlei' Chapter='6' Verse='35' WordSequence='8' >כִּ֣י</Word>
 <Word Book='Mishlei' Chapter='6' Verse='35' WordSequence='9' >תַרְבֶּה־</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='6' Verse='35' WordSequence='10' IsParashaPtuchah='true' >שֹֽׁחַד</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>בְּ֭נִי</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='6' Verse='35' WordSequence='10'>שֹֽׁחַד</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בְּ֭נִי</Word>
 <Word Book='Mishlei' Chapter='7' Verse='1' WordSequence='2' >שְׁמֹ֣ר</Word>
 <Word Book='Mishlei' Chapter='7' Verse='1' WordSequence='3' >אֲמָרָ֑י</Word>
 <Word Book='Mishlei' Chapter='7' Verse='1' WordSequence='4' >וּ֝מִצְוֺתַ֗י</Word>
@@ -1442,8 +1442,8 @@
 <Word Book='Mishlei' Chapter='7' Verse='23' WordSequence='10' >יָ֝דַ֗ע</Word>
 <Word Book='Mishlei' Chapter='7' Verse='23' WordSequence='11' >כִּֽי־</Word>
 <Word Book='Mishlei' Chapter='7' Verse='23' WordSequence='12' >בְנַפְשׁ֥וֹ</Word>
-<Word Book='Mishlei' Chapter='7' Verse='23' WordSequence='13' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='Mishlei' Chapter='7' Verse='24' WordSequence='1' >וְעַתָּ֣ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='7' Verse='23' WordSequence='13'>הֽוּא</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='7' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וְעַתָּ֣ה</Word>
 <Word Book='Mishlei' Chapter='7' Verse='24' WordSequence='2' >בָ֭נִים</Word>
 <Word Book='Mishlei' Chapter='7' Verse='24' WordSequence='3' >שִׁמְעוּ־</Word>
 <Word Book='Mishlei' Chapter='7' Verse='24' WordSequence='4' >לִ֑י</Word>
@@ -1471,8 +1471,8 @@
 <Word Book='Mishlei' Chapter='7' Verse='27' WordSequence='4' >יֹ֝רְד֗וֹת</Word>
 <Word Book='Mishlei' Chapter='7' Verse='27' WordSequence='5' >אֶל־</Word>
 <Word Book='Mishlei' Chapter='7' Verse='27' WordSequence='6' >חַדְרֵי־</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='7' Verse='27' WordSequence='7' IsParashaPtuchah='true' >מָֽוֶת</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>הֲלֹֽא־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='7' Verse='27' WordSequence='7'>מָֽוֶת</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >הֲלֹֽא־</Word>
 <Word Book='Mishlei' Chapter='8' Verse='1' WordSequence='2' >חָכְמָ֥ה</Word>
 <Word Book='Mishlei' Chapter='8' Verse='1' WordSequence='3' >תִקְרָ֑א</Word>
 <Word Book='Mishlei' Chapter='8' Verse='1' WordSequence='4' >וּ֝תְבוּנָ֗ה</Word>
@@ -1616,8 +1616,8 @@
 <Word Book='Mishlei' Chapter='8' Verse='21' WordSequence='2' >אֹהֲבַ֥י׀</Word>
 <Word Book='Mishlei' Chapter='8' Verse='21' WordSequence='3' >יֵ֑שׁ</Word>
 <Word Book='Mishlei' Chapter='8' Verse='21' WordSequence='4' >וְאֹצְרֹ֖תֵיהֶ֣ם</Word>
-<Word Book='Mishlei' Chapter='8' Verse='21' WordSequence='5' IsParashaPtuchah='true' >אֲמַלֵּֽא</Word>
-<Word Book='Mishlei' Chapter='8' Verse='22' WordSequence='1' >יְֽהוָ֗ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='8' Verse='21' WordSequence='5'>אֲמַלֵּֽא</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='8' Verse='22' WordSequence='1' IsParashaPtuchah='true' >יְֽהוָ֗ה</Word>
 <Word Book='Mishlei' Chapter='8' Verse='22' WordSequence='2' >קָ֭נָנִי</Word>
 <Word Book='Mishlei' Chapter='8' Verse='22' WordSequence='3' >רֵאשִׁ֣ית</Word>
 <Word Book='Mishlei' Chapter='8' Verse='22' WordSequence='4' >דַּרְכּ֑וֹ</Word>
@@ -1692,8 +1692,8 @@
 <Word Book='Mishlei' Chapter='8' Verse='31' WordSequence='4' >וְ֝שַׁעֲשֻׁעַ֗י</Word>
 <Word Book='Mishlei' Chapter='8' Verse='31' WordSequence='5' >אֶת־</Word>
 <Word Book='Mishlei' Chapter='8' Verse='31' WordSequence='6' >בְּנֵ֥י</Word>
-<Word Book='Mishlei' Chapter='8' Verse='31' WordSequence='7' IsParashaPtuchah='true' >אָדָֽם</Word>
-<Word Book='Mishlei' Chapter='8' Verse='32' WordSequence='1' >וְעַתָּ֣ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='8' Verse='31' WordSequence='7'>אָדָֽם</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='8' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וְעַתָּ֣ה</Word>
 <Word Book='Mishlei' Chapter='8' Verse='32' WordSequence='2' >בָ֭נִים</Word>
 <Word Book='Mishlei' Chapter='8' Verse='32' WordSequence='3' >שִׁמְעוּ־</Word>
 <Word Book='Mishlei' Chapter='8' Verse='32' WordSequence='4' >לִ֑י</Word>
@@ -1731,8 +1731,8 @@
 <Word Book='Mishlei' Chapter='8' Verse='36' WordSequence='4' >כָּל־</Word>
 <Word Book='Mishlei' Chapter='8' Verse='36' WordSequence='5' >מְ֝שַׂנְאַ֗י</Word>
 <Word Book='Mishlei' Chapter='8' Verse='36' WordSequence='6' >אָ֣הֲבוּ</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='8' Verse='36' WordSequence='7' IsParashaPtuchah='true' >מָֽוֶת</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>חָ֭כְמוֹת</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='8' Verse='36' WordSequence='7'>מָֽוֶת</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >חָ֭כְמוֹת</Word>
 <Word Book='Mishlei' Chapter='9' Verse='1' WordSequence='2' >בָּנְתָ֣ה</Word>
 <Word Book='Mishlei' Chapter='9' Verse='1' WordSequence='3' >בֵיתָ֑הּ</Word>
 <Word Book='Mishlei' Chapter='9' Verse='1' WordSequence='4' >חָצְבָ֖ה</Word>
@@ -1795,8 +1795,8 @@
 <Word Book='Mishlei' Chapter='9' Verse='9' WordSequence='5' >הוֹדַ֥ע</Word>
 <Word Book='Mishlei' Chapter='9' Verse='9' WordSequence='6' >לְ֝צַדִּ֗יק</Word>
 <Word Book='Mishlei' Chapter='9' Verse='9' WordSequence='7' >וְי֣וֹסֶף</Word>
-<Word Book='Mishlei' Chapter='9' Verse='9' WordSequence='8' IsParashaPtuchah='true' >לֶֽקַח</Word>
-<Word Book='Mishlei' Chapter='9' Verse='10' WordSequence='1' >תְּחִלַּ֣ת</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='9' Verse='9' WordSequence='8'>לֶֽקַח</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='9' Verse='10' WordSequence='1' IsParashaPtuchah='true' >תְּחִלַּ֣ת</Word>
 <Word Book='Mishlei' Chapter='9' Verse='10' WordSequence='2' >חָ֭כְמָה</Word>
 <Word Book='Mishlei' Chapter='9' Verse='10' WordSequence='3' >יִרְאַ֣ת</Word>
 <Word Book='Mishlei' Chapter='9' Verse='10' WordSequence='4' >יְהוָ֑ה</Word>
@@ -1858,9 +1858,9 @@
 <Word Book='Mishlei' Chapter='9' Verse='18' WordSequence='5' >שָׁ֑ם</Word>
 <Word Book='Mishlei' Chapter='9' Verse='18' WordSequence='6' >בְּעִמְקֵ֖י</Word>
 <Word Book='Mishlei' Chapter='9' Verse='18' WordSequence='7' >שְׁא֣וֹל</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='9' Verse='18' WordSequence='8' IsParashaPtuchah='true' >קְרֻאֶֽיהָ</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>מִשְׁלֵ֗י</Word>
-<Word Book='Mishlei' Chapter='10' Verse='1' WordSequence='2' IsParashaPtuchah='true' >שְׁלֹ֫מֹ֥ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='9' Verse='18' WordSequence='8'>קְרֻאֶֽיהָ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >מִשְׁלֵ֗י</Word>
+<Word Book='Mishlei' Chapter='10' Verse='1' WordSequence='2' >שְׁלֹ֫מֹ֥ה</Word>
 <Word Book='Mishlei' Chapter='10' Verse='1' WordSequence='4' >בֵּ֣ן</Word>
 <Word Book='Mishlei' Chapter='10' Verse='1' WordSequence='5' >חָ֭כָם</Word>
 <Word Book='Mishlei' Chapter='10' Verse='1' WordSequence='6' >יְשַׂמַּח־</Word>
@@ -2092,8 +2092,8 @@
 <Word Book='Mishlei' Chapter='10' Verse='32' WordSequence='4' >רָצ֑וֹן</Word>
 <Word Book='Mishlei' Chapter='10' Verse='32' WordSequence='5' >וּפִ֥י</Word>
 <Word Book='Mishlei' Chapter='10' Verse='32' WordSequence='6' >רְ֝שָׁעִ֗ים</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='10' Verse='32' WordSequence='7' >תַּהְפֻּכֽוֹת</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>מֹאזְנֵ֣י</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='10' Verse='32' WordSequence='7'>תַּהְפֻּכֽוֹת</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>מֹאזְנֵ֣י</Word>
 <Word Book='Mishlei' Chapter='11' Verse='1' WordSequence='2' >מִ֭רְמָה</Word>
 <Word Book='Mishlei' Chapter='11' Verse='1' WordSequence='3' >תּוֹעֲבַ֣ת</Word>
 <Word Book='Mishlei' Chapter='11' Verse='1' WordSequence='4' >יְהוָ֑ה</Word>
@@ -2316,8 +2316,8 @@
 <Word Book='Mishlei' Chapter='11' Verse='31' WordSequence='5' >אַ֝֗ף</Word>
 <Word Book='Mishlei' Chapter='11' Verse='31' WordSequence='6' >כִּֽי־</Word>
 <Word Book='Mishlei' Chapter='11' Verse='31' WordSequence='7' >רָשָׁ֥ע</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='11' Verse='31' WordSequence='8' >וְחוֹטֵֽא</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>אֹהֵ֣ב</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='11' Verse='31' WordSequence='8'>וְחוֹטֵֽא</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>אֹהֵ֣ב</Word>
 <Word Book='Mishlei' Chapter='12' Verse='1' WordSequence='2' >מ֭וּסָר</Word>
 <Word Book='Mishlei' Chapter='12' Verse='1' WordSequence='3' >אֹ֣הֵֽב</Word>
 <Word Book='Mishlei' Chapter='12' Verse='1' WordSequence='4' >דָּ֑עַת</Word>
@@ -2519,8 +2519,8 @@
 <Word Book='Mishlei' Chapter='12' Verse='28' WordSequence='4' >וְדֶ֖רֶךְ</Word>
 <Word Book='Mishlei' Chapter='12' Verse='28' WordSequence='5' >נְתִיבָ֣ה</Word>
 <Word Book='Mishlei' Chapter='12' Verse='28' WordSequence='6' >אַל־</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='12' Verse='28' WordSequence='7' >מָֽוֶת</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>בֵּ֣ן</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='12' Verse='28' WordSequence='7'>מָֽוֶת</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>בֵּ֣ן</Word>
 <Word Book='Mishlei' Chapter='13' Verse='1' WordSequence='2' >חָ֭כָם</Word>
 <Word Book='Mishlei' Chapter='13' Verse='1' WordSequence='3' >מ֣וּסַר</Word>
 <Word Book='Mishlei' Chapter='13' Verse='1' WordSequence='4' >אָ֑ב</Word>
@@ -2704,8 +2704,8 @@
 <Word Book='Mishlei' Chapter='13' Verse='25' WordSequence='4' >נַפְשׁ֑וֹ</Word>
 <Word Book='Mishlei' Chapter='13' Verse='25' WordSequence='5' >וּבֶ֖טֶן</Word>
 <Word Book='Mishlei' Chapter='13' Verse='25' WordSequence='6' >רְשָׁעִ֣ים</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='13' Verse='25' WordSequence='7' IsParashaPtuchah='true' >תֶּחְסָֽר</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>חַכְמ֣וֹת</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='13' Verse='25' WordSequence='7'>תֶּחְסָֽר</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1' IsParashaPtuchah='true' >חַכְמ֣וֹת</Word>
 <Word Book='Mishlei' Chapter='14' Verse='1' WordSequence='2' >נָ֭שִׁים</Word>
 <Word Book='Mishlei' Chapter='14' Verse='1' WordSequence='3' >בָּנְתָ֣ה</Word>
 <Word Book='Mishlei' Chapter='14' Verse='1' WordSequence='4' >בֵיתָ֑הּ</Word>
@@ -2953,8 +2953,8 @@
 <Word Book='Mishlei' Chapter='14' Verse='35' WordSequence='4' >מַשְׂכִּ֑יל</Word>
 <Word Book='Mishlei' Chapter='14' Verse='35' WordSequence='5' >וְ֝עֶבְרָת֗וֹ</Word>
 <Word Book='Mishlei' Chapter='14' Verse='35' WordSequence='6' >תִּהְיֶ֥ה</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='14' Verse='35' WordSequence='7' >מֵבִֽישׁ</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>מַֽעֲנֶה־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='14' Verse='35' WordSequence='7'>מֵבִֽישׁ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>מַֽעֲנֶה־</Word>
 <Word Book='Mishlei' Chapter='15' Verse='1' WordSequence='2' >רַּ֭ךְ</Word>
 <Word Book='Mishlei' Chapter='15' Verse='1' WordSequence='3' >יָשִׁ֣יב</Word>
 <Word Book='Mishlei' Chapter='15' Verse='1' WordSequence='4' >חֵמָ֑ה</Word>
@@ -3206,8 +3206,8 @@
 <Word Book='Mishlei' Chapter='15' Verse='33' WordSequence='4' >חָכְמָ֑ה</Word>
 <Word Book='Mishlei' Chapter='15' Verse='33' WordSequence='5' >וְלִפְנֵ֖י</Word>
 <Word Book='Mishlei' Chapter='15' Verse='33' WordSequence='6' >כָב֣וֹד</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='15' Verse='33' WordSequence='7' >עֲנָוָֽה</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>לְאָדָ֥ם</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='15' Verse='33' WordSequence='7'>עֲנָוָֽה</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>לְאָדָ֥ם</Word>
 <Word Book='Mishlei' Chapter='16' Verse='1' WordSequence='2' >מַֽעַרְכֵי־</Word>
 <Word Book='Mishlei' Chapter='16' Verse='1' WordSequence='3' >לֵ֑ב</Word>
 <Word Book='Mishlei' Chapter='16' Verse='1' WordSequence='4' >וּ֝מֵיְהוָ֗ה</Word>
@@ -3460,8 +3460,8 @@
 <Word Book='Mishlei' Chapter='16' Verse='33' WordSequence='4' >הַגּוֹרָ֑ל</Word>
 <Word Book='Mishlei' Chapter='16' Verse='33' WordSequence='5' >וּ֝מֵיְהוָ֗ה</Word>
 <Word Book='Mishlei' Chapter='16' Verse='33' WordSequence='6' >כָּל־</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='16' Verse='33' WordSequence='7' >מִשְׁפָּטֽוֹ</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>ט֤וֹב</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='16' Verse='33' WordSequence='7'>מִשְׁפָּטֽוֹ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>ט֤וֹב</Word>
 <Word Book='Mishlei' Chapter='17' Verse='1' WordSequence='2' >פַּ֣ת</Word>
 <Word Book='Mishlei' Chapter='17' Verse='1' WordSequence='3' >חֲ֭רֵבָה</Word>
 <Word Book='Mishlei' Chapter='17' Verse='1' WordSequence='4' >וְשַׁלְוָה־</Word>
@@ -3690,8 +3690,8 @@
 <Word Book='Mishlei' Chapter='17' Verse='28' WordSequence='5' >יֵחָשֵׁ֑ב</Word>
 <Word Book='Mishlei' Chapter='17' Verse='28' WordSequence='6' >אֹטֵ֖ם</Word>
 <Word Book='Mishlei' Chapter='17' Verse='28' WordSequence='7' >שְׂפָתָ֣יו</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='17' Verse='28' WordSequence='8' >נָבֽוֹן</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>לְֽ֭תַאֲוָה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='17' Verse='28' WordSequence='8'>נָבֽוֹן</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>לְֽ֭תַאֲוָה</Word>
 <Word Book='Mishlei' Chapter='18' Verse='1' WordSequence='2' >יְבַקֵּ֣שׁ</Word>
 <Word Book='Mishlei' Chapter='18' Verse='1' WordSequence='3' >נִפְרָ֑ד</Word>
 <Word Book='Mishlei' Chapter='18' Verse='1' WordSequence='4' >בְּכָל־</Word>
@@ -3868,8 +3868,8 @@
 <Word Book='Mishlei' Chapter='18' Verse='24' WordSequence='4' >וְיֵ֥שׁ</Word>
 <Word Book='Mishlei' Chapter='18' Verse='24' WordSequence='5' >אֹ֝הֵ֗ב</Word>
 <Word Book='Mishlei' Chapter='18' Verse='24' WordSequence='6' >דָּבֵ֥ק</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='18' Verse='24' WordSequence='7' >מֵאָֽח</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>טֽוֹב־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='18' Verse='24' WordSequence='7'>מֵאָֽח</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>טֽוֹב־</Word>
 <Word Book='Mishlei' Chapter='19' Verse='1' WordSequence='2' >רָ֭שׁ</Word>
 <Word Book='Mishlei' Chapter='19' Verse='1' WordSequence='3' >הוֹלֵ֣ךְ</Word>
 <Word Book='Mishlei' Chapter='19' Verse='1' WordSequence='4' >בְּתֻמּ֑וֹ</Word>
@@ -3946,8 +3946,8 @@
 <Word Book='Mishlei' Chapter='19' Verse='9' WordSequence='4' >יִנָּקֶ֑ה</Word>
 <Word Book='Mishlei' Chapter='19' Verse='9' WordSequence='5' >וְיָפִ֖יחַ</Word>
 <Word Book='Mishlei' Chapter='19' Verse='9' WordSequence='6' >כְּזָבִ֣ים</Word>
-<Word Book='Mishlei' Chapter='19' Verse='9' WordSequence='7' IsParashaPtuchah='true' >יֹאבֵֽד</Word>
-<Word Book='Mishlei' Chapter='19' Verse='10' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='19' Verse='9' WordSequence='7'>יֹאבֵֽד</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='19' Verse='10' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Mishlei' Chapter='19' Verse='10' WordSequence='2' >נָאוֶ֣ה</Word>
 <Word Book='Mishlei' Chapter='19' Verse='10' WordSequence='3' >לִכְסִ֣יל</Word>
 <Word Book='Mishlei' Chapter='19' Verse='10' WordSequence='4' >תַּעֲנ֑וּג</Word>
@@ -4103,8 +4103,8 @@
 <Word Book='Mishlei' Chapter='19' Verse='29' WordSequence='3' >שְׁפָטִ֑ים</Word>
 <Word Book='Mishlei' Chapter='19' Verse='29' WordSequence='4' >וּ֝מַהֲלֻמ֗וֹת</Word>
 <Word Book='Mishlei' Chapter='19' Verse='29' WordSequence='5' >לְגֵ֣ו</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='19' Verse='29' WordSequence='6' >כְּסִילִֽים</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>לֵ֣ץ</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='19' Verse='29' WordSequence='6'>כְּסִילִֽים</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>לֵ֣ץ</Word>
 <Word Book='Mishlei' Chapter='20' Verse='1' WordSequence='2' >הַ֭יַּין</Word>
 <Word Book='Mishlei' Chapter='20' Verse='1' WordSequence='3' >הֹמֶ֣ה</Word>
 <Word Book='Mishlei' Chapter='20' Verse='1' WordSequence='4' >שֵׁכָ֑ר</Word>
@@ -4334,8 +4334,8 @@
 <Word Book='Mishlei' Chapter='20' Verse='30' WordSequence='5' >בְּרָ֑ע</Word>
 <Word Book='Mishlei' Chapter='20' Verse='30' WordSequence='6' >וּ֝מַכּ֗וֹת</Word>
 <Word Book='Mishlei' Chapter='20' Verse='30' WordSequence='7' >חַדְרֵי־</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='20' Verse='30' WordSequence='8' >בָֽטֶן</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>פַּלְגֵי־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='20' Verse='30' WordSequence='8'>בָֽטֶן</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>פַּלְגֵי־</Word>
 <Word Book='Mishlei' Chapter='21' Verse='1' WordSequence='2' >מַ֣יִם</Word>
 <Word Book='Mishlei' Chapter='21' Verse='1' WordSequence='3' >לֶב־</Word>
 <Word Book='Mishlei' Chapter='21' Verse='1' WordSequence='4' >מֶ֭לֶךְ</Word>
@@ -4564,14 +4564,14 @@
 <Word Book='Mishlei' Chapter='21' Verse='30' WordSequence='5' >וְאֵ֥ין</Word>
 <Word Book='Mishlei' Chapter='21' Verse='30' WordSequence='6' >עֵ֝צָ֗ה</Word>
 <Word Book='Mishlei' Chapter='21' Verse='30' WordSequence='7' >לְנֶ֣גֶד</Word>
-<Word Book='Mishlei' Chapter='21' Verse='30' WordSequence='8' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Mishlei' Chapter='21' Verse='31' WordSequence='1' >ס֗וּס</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='21' Verse='30' WordSequence='8'>יְהוָֽה</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='21' Verse='31' WordSequence='1' IsParashaPtuchah='true' >ס֗וּס</Word>
 <Word Book='Mishlei' Chapter='21' Verse='31' WordSequence='2' >מ֭וּכָן</Word>
 <Word Book='Mishlei' Chapter='21' Verse='31' WordSequence='3' >לְי֣וֹם</Word>
 <Word Book='Mishlei' Chapter='21' Verse='31' WordSequence='4' >מִלְחָמָ֑ה</Word>
 <Word Book='Mishlei' Chapter='21' Verse='31' WordSequence='5' >וְ֝לַֽיהוָ֗ה</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='21' Verse='31' WordSequence='6' >הַתְּשׁוּעָֽה</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>נִבְחָ֣ר</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='21' Verse='31' WordSequence='6'>הַתְּשׁוּעָֽה</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>נִבְחָ֣ר</Word>
 <Word Book='Mishlei' Chapter='22' Verse='1' WordSequence='2' >שֵׁ֭ם</Word>
 <Word Book='Mishlei' Chapter='22' Verse='1' WordSequence='3' >מֵעֹ֣שֶׁר</Word>
 <Word Book='Mishlei' Chapter='22' Verse='1' WordSequence='4' >רָ֑ב</Word>
@@ -4737,8 +4737,8 @@
 <Word Book='Mishlei' Chapter='22' Verse='21' WordSequence='5' >לְהָשִׁ֥יב</Word>
 <Word Book='Mishlei' Chapter='22' Verse='21' WordSequence='6' >אֲמָרִ֥ים</Word>
 <Word Book='Mishlei' Chapter='22' Verse='21' WordSequence='7' >אֱ֝מֶ֗ת</Word>
-<Word Book='Mishlei' Chapter='22' Verse='21' WordSequence='8' IsParashaPtuchah='true' >לְשֹׁלְחֶֽיךָ</Word>
-<Word Book='Mishlei' Chapter='22' Verse='22' WordSequence='1' >אַֽל־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='22' Verse='21' WordSequence='8'>לְשֹׁלְחֶֽיךָ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='22' Verse='22' WordSequence='1' IsParashaPtuchah='true' >אַֽל־</Word>
 <Word Book='Mishlei' Chapter='22' Verse='22' WordSequence='2' >תִּגְזָל־</Word>
 <Word Book='Mishlei' Chapter='22' Verse='22' WordSequence='3' >דָּ֭ל</Word>
 <Word Book='Mishlei' Chapter='22' Verse='22' WordSequence='4' >כִּ֣י</Word>
@@ -4804,8 +4804,8 @@
 <Word Book='Mishlei' Chapter='22' Verse='29' WordSequence='8' >בַּל־</Word>
 <Word Book='Mishlei' Chapter='22' Verse='29' WordSequence='9' >יִ֝תְיַצֵּב</Word>
 <Word Book='Mishlei' Chapter='22' Verse='29' WordSequence='10' >לִפְנֵ֥י</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='22' Verse='29' WordSequence='11' IsParashaPtuchah='true' >חֲשֻׁכִּֽים</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>כִּֽי־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='22' Verse='29' WordSequence='11'>חֲשֻׁכִּֽים</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Mishlei' Chapter='23' Verse='1' WordSequence='2' >תֵ֭שֵׁב</Word>
 <Word Book='Mishlei' Chapter='23' Verse='1' WordSequence='3' >לִלְח֣וֹם</Word>
 <Word Book='Mishlei' Chapter='23' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -4846,8 +4846,8 @@
 <Word Book='Mishlei' Chapter='23' Verse='5' WordSequence='11' >כְּ֝נֶ֗שֶׁר</Word>
 <Word Book='Mishlei' Chapter='23' Verse='5' WordSequence='12' >ועיף</Word>
 <Word Book='Mishlei' Chapter='23' Verse='5' WordSequence='13' >[יָע֥וּף]</Word>
-<Word Book='Mishlei' Chapter='23' Verse='5' WordSequence='14' IsParashaPtuchah='true' >הַשָּׁמָֽיִם</Word>
-<Word Book='Mishlei' Chapter='23' Verse='6' WordSequence='1' >אַל־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='23' Verse='5' WordSequence='14'>הַשָּׁמָֽיִם</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='23' Verse='6' WordSequence='1' IsParashaPtuchah='true' >אַל־</Word>
 <Word Book='Mishlei' Chapter='23' Verse='6' WordSequence='2' >תִּלְחַ֗ם</Word>
 <Word Book='Mishlei' Chapter='23' Verse='6' WordSequence='3' >אֶת־</Word>
 <Word Book='Mishlei' Chapter='23' Verse='6' WordSequence='4' >לֶ֭חֶם</Word>
@@ -5089,8 +5089,8 @@
 <Word Book='Mishlei' Chapter='23' Verse='35' WordSequence='8' >אָקִ֑יץ</Word>
 <Word Book='Mishlei' Chapter='23' Verse='35' WordSequence='9' >א֝וֹסִ֗יף</Word>
 <Word Book='Mishlei' Chapter='23' Verse='35' WordSequence='10' >אֲבַקְשֶׁ֥נּוּ</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='23' Verse='35' WordSequence='11' >עֽוֹד</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>אַל־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='23' Verse='35' WordSequence='11'>עֽוֹד</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>אַל־</Word>
 <Word Book='Mishlei' Chapter='24' Verse='1' WordSequence='2' >תְּ֭קַנֵּא</Word>
 <Word Book='Mishlei' Chapter='24' Verse='1' WordSequence='3' >בְּאַנְשֵׁ֣י</Word>
 <Word Book='Mishlei' Chapter='24' Verse='1' WordSequence='4' >רָעָ֑ה</Word>
@@ -5201,8 +5201,8 @@
 <Word Book='Mishlei' Chapter='24' Verse='14' WordSequence='8' >אַחֲרִ֑ית</Word>
 <Word Book='Mishlei' Chapter='24' Verse='14' WordSequence='9' >וְ֝תִקְוָתְךָ֗</Word>
 <Word Book='Mishlei' Chapter='24' Verse='14' WordSequence='10' >לֹ֣א</Word>
-<Word Book='Mishlei' Chapter='24' Verse='14' WordSequence='11' IsParashaPtuchah='true' >תִכָּרֵֽת</Word>
-<Word Book='Mishlei' Chapter='24' Verse='15' WordSequence='1' >אַל־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='24' Verse='14' WordSequence='11'>תִכָּרֵֽת</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='24' Verse='15' WordSequence='1' IsParashaPtuchah='true' >אַל־</Word>
 <Word Book='Mishlei' Chapter='24' Verse='15' WordSequence='2' >תֶּאֱרֹ֣ב</Word>
 <Word Book='Mishlei' Chapter='24' Verse='15' WordSequence='3' >רָ֭שָׁע</Word>
 <Word Book='Mishlei' Chapter='24' Verse='15' WordSequence='4' >לִנְוֵ֣ה</Word>
@@ -5265,8 +5265,8 @@
 <Word Book='Mishlei' Chapter='24' Verse='22' WordSequence='5' >וּפִ֥יד</Word>
 <Word Book='Mishlei' Chapter='24' Verse='22' WordSequence='6' >שְׁ֝נֵיהֶ֗ם</Word>
 <Word Book='Mishlei' Chapter='24' Verse='22' WordSequence='7' >מִ֣י</Word>
-<Word Book='Mishlei' Chapter='24' Verse='22' WordSequence='8' >יוֹדֵֽעַ</Word>
-<Word Book='Mishlei' Chapter='24' Verse='23' WordSequence='1' >גַּם־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='24' Verse='22' WordSequence='8' >יוֹדֵֽעַ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='24' Verse='23' WordSequence='1' IsParashaPtuchah='true' >גַּם־</Word>
 <Word Book='Mishlei' Chapter='24' Verse='23' WordSequence='2' >אֵ֥לֶּה</Word>
 <Word Book='Mishlei' Chapter='24' Verse='23' WordSequence='3' >לַֽחֲכָמִ֑ים</Word>
 <Word Book='Mishlei' Chapter='24' Verse='23' WordSequence='4' >הַֽכֵּר־</Word>
@@ -5301,8 +5301,8 @@
 <Word Book='Mishlei' Chapter='24' Verse='27' WordSequence='6' >לָ֑ךְ</Word>
 <Word Book='Mishlei' Chapter='24' Verse='27' WordSequence='7' >אַ֝חַ֗ר</Word>
 <Word Book='Mishlei' Chapter='24' Verse='27' WordSequence='8' >וּבָנִ֥יתָ</Word>
-<Word Book='Mishlei' Chapter='24' Verse='27' WordSequence='9' IsParashaPtuchah='true' >בֵיתֶֽךָ</Word>
-<Word Book='Mishlei' Chapter='24' Verse='28' WordSequence='1' >אַל־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='24' Verse='27' WordSequence='9'>בֵיתֶֽךָ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='24' Verse='28' WordSequence='1' IsParashaPtuchah='true' >אַל־</Word>
 <Word Book='Mishlei' Chapter='24' Verse='28' WordSequence='2' >תְּהִ֣י</Word>
 <Word Book='Mishlei' Chapter='24' Verse='28' WordSequence='3' >עֵד־</Word>
 <Word Book='Mishlei' Chapter='24' Verse='28' WordSequence='4' >חִנָּ֣ם</Word>
@@ -5360,8 +5360,8 @@
 <Word Book='Mishlei' Chapter='24' Verse='34' WordSequence='3' >רֵישֶׁ֑ךָ</Word>
 <Word Book='Mishlei' Chapter='24' Verse='34' WordSequence='4' >וּ֝מַחְסֹרֶ֗יךָ</Word>
 <Word Book='Mishlei' Chapter='24' Verse='34' WordSequence='5' >כְּאִ֣ישׁ</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='24' Verse='34' WordSequence='6' IsParashaPtuchah='true' >מָגֵֽן</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='25' Verse='1' WordSequence='1'>גַּם־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='24' Verse='34' WordSequence='6'>מָגֵֽן</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='25' Verse='1' WordSequence='1' IsParashaPtuchah='true' >גַּם־</Word>
 <Word Book='Mishlei' Chapter='25' Verse='1' WordSequence='2' >אֵ֭לֶּה</Word>
 <Word Book='Mishlei' Chapter='25' Verse='1' WordSequence='3' >מִשְׁלֵ֣י</Word>
 <Word Book='Mishlei' Chapter='25' Verse='1' WordSequence='4' >שְׁלֹמֹ֑ה</Word>
@@ -5471,8 +5471,8 @@
 <Word Book='Mishlei' Chapter='25' Verse='13' WordSequence='7' >לְשֹׁלְחָ֑יו</Word>
 <Word Book='Mishlei' Chapter='25' Verse='13' WordSequence='8' >וְנֶ֖פֶשׁ</Word>
 <Word Book='Mishlei' Chapter='25' Verse='13' WordSequence='9' >אֲדֹנָ֣יו</Word>
-<Word Book='Mishlei' Chapter='25' Verse='13' WordSequence='10' IsParashaPtuchah='true' >יָשִֽׁיב</Word>
-<Word Book='Mishlei' Chapter='25' Verse='14' WordSequence='1' >נְשִׂיאִ֣ים</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='25' Verse='13' WordSequence='10'>יָשִֽׁיב</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='25' Verse='14' WordSequence='1' IsParashaPtuchah='true' >נְשִׂיאִ֣ים</Word>
 <Word Book='Mishlei' Chapter='25' Verse='14' WordSequence='2' >וְ֭רוּחַ</Word>
 <Word Book='Mishlei' Chapter='25' Verse='14' WordSequence='3' >וְגֶ֣שֶׁם</Word>
 <Word Book='Mishlei' Chapter='25' Verse='14' WordSequence='4' >אָ֑יִן</Word>
@@ -5530,8 +5530,8 @@
 <Word Book='Mishlei' Chapter='25' Verse='20' WordSequence='9' >בַּ֝שִּׁרִ֗ים</Word>
 <Word Book='Mishlei' Chapter='25' Verse='20' WordSequence='10' >עַ֣ל</Word>
 <Word Book='Mishlei' Chapter='25' Verse='20' WordSequence='11' >לֶב־</Word>
-<Word Book='Mishlei' Chapter='25' Verse='20' WordSequence='12' IsParashaPtuchah='true' >רָֽע</Word>
-<Word Book='Mishlei' Chapter='25' Verse='21' WordSequence='1' >אִם־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='25' Verse='20' WordSequence='12'>רָֽע</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='25' Verse='21' WordSequence='1' IsParashaPtuchah='true' >אִם־</Word>
 <Word Book='Mishlei' Chapter='25' Verse='21' WordSequence='2' >רָעֵ֣ב</Word>
 <Word Book='Mishlei' Chapter='25' Verse='21' WordSequence='3' >שֹׂ֭נַאֲךָ</Word>
 <Word Book='Mishlei' Chapter='25' Verse='21' WordSequence='4' >הַאֲכִלֵ֣הוּ</Word>
@@ -5600,8 +5600,8 @@
 <Word Book='Mishlei' Chapter='25' Verse='28' WordSequence='6' >אֲשֶׁ֤ר</Word>
 <Word Book='Mishlei' Chapter='25' Verse='28' WordSequence='7' >אֵ֖ין</Word>
 <Word Book='Mishlei' Chapter='25' Verse='28' WordSequence='8' >מַעְצָ֣ר</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='25' Verse='28' WordSequence='9' >לְרוּחֽוֹ</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>כַּשֶּׁ֤לֶג׀</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='25' Verse='28' WordSequence='9'>לְרוּחֽוֹ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>כַּשֶּׁ֤לֶג׀</Word>
 <Word Book='Mishlei' Chapter='26' Verse='1' WordSequence='2' >בַּקַּ֗יִץ</Word>
 <Word Book='Mishlei' Chapter='26' Verse='1' WordSequence='3' >וְכַמָּטָ֥ר</Word>
 <Word Book='Mishlei' Chapter='26' Verse='1' WordSequence='4' >בַּקָּצִ֑יר</Word>
@@ -5759,8 +5759,8 @@
 <Word Book='Mishlei' Chapter='26' Verse='21' WordSequence='6' >מדונים</Word>
 <Word Book='Mishlei' Chapter='26' Verse='21' WordSequence='7' >[מִ֝דְיָנִ֗ים]</Word>
 <Word Book='Mishlei' Chapter='26' Verse='21' WordSequence='8' >לְחַרְחַר־</Word>
-<Word Book='Mishlei' Chapter='26' Verse='21' WordSequence='9' IsParashaPtuchah='true' >רִֽיב</Word>
-<Word Book='Mishlei' Chapter='26' Verse='22' WordSequence='1' >דִּבְרֵ֣י</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='26' Verse='21' WordSequence='9'>רִֽיב</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='26' Verse='22' WordSequence='1' IsParashaPtuchah='true' >דִּבְרֵ֣י</Word>
 <Word Book='Mishlei' Chapter='26' Verse='22' WordSequence='2' >נִ֭רְגָּן</Word>
 <Word Book='Mishlei' Chapter='26' Verse='22' WordSequence='3' >כְּמִֽתְלַהֲמִ֑ים</Word>
 <Word Book='Mishlei' Chapter='26' Verse='22' WordSequence='4' >וְ֝הֵ֗ם</Word>
@@ -5814,8 +5814,8 @@
 <Word Book='Mishlei' Chapter='26' Verse='28' WordSequence='5' >וּפֶ֥ה</Word>
 <Word Book='Mishlei' Chapter='26' Verse='28' WordSequence='6' >חָ֝לָ֗ק</Word>
 <Word Book='Mishlei' Chapter='26' Verse='28' WordSequence='7' >יַעֲשֶׂ֥ה</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='26' Verse='28' WordSequence='8' >מִדְחֶֽה</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>אַֽל־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='26' Verse='28' WordSequence='8'>מִדְחֶֽה</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>אַֽל־</Word>
 <Word Book='Mishlei' Chapter='27' Verse='1' WordSequence='2' >תִּ֭תְהַלֵּל</Word>
 <Word Book='Mishlei' Chapter='27' Verse='1' WordSequence='3' >בְּי֣וֹם</Word>
 <Word Book='Mishlei' Chapter='27' Verse='1' WordSequence='4' >מָחָ֑ר</Word>
@@ -5994,8 +5994,8 @@
 <Word Book='Mishlei' Chapter='27' Verse='22' WordSequence='9' >לֹא־</Word>
 <Word Book='Mishlei' Chapter='27' Verse='22' WordSequence='10' >תָס֥וּר</Word>
 <Word Book='Mishlei' Chapter='27' Verse='22' WordSequence='11' >מֵ֝עָלָ֗יו</Word>
-<Word Book='Mishlei' Chapter='27' Verse='22' WordSequence='12' IsParashaPtuchah='true' >אִוַּלְתּֽוֹ</Word>
-<Word Book='Mishlei' Chapter='27' Verse='23' WordSequence='1' >יָדֹ֣עַ</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='27' Verse='22' WordSequence='12'>אִוַּלְתּֽוֹ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='27' Verse='23' WordSequence='1' IsParashaPtuchah='true' >יָדֹ֣עַ</Word>
 <Word Book='Mishlei' Chapter='27' Verse='23' WordSequence='2' >תֵּ֭דַע</Word>
 <Word Book='Mishlei' Chapter='27' Verse='23' WordSequence='3' >פְּנֵ֣י</Word>
 <Word Book='Mishlei' Chapter='27' Verse='23' WordSequence='4' >צֹאנֶ֑ךָ</Word>
@@ -6030,8 +6030,8 @@
 <Word Book='Mishlei' Chapter='27' Verse='27' WordSequence='5' >לְלֶ֣חֶם</Word>
 <Word Book='Mishlei' Chapter='27' Verse='27' WordSequence='6' >בֵּיתֶ֑ךָ</Word>
 <Word Book='Mishlei' Chapter='27' Verse='27' WordSequence='7' >וְ֝חַיִּ֗ים</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='27' Verse='27' WordSequence='8' >לְנַעֲרוֹתֶֽיךָ</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>נָ֣סוּ</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='27' Verse='27' WordSequence='8'>לְנַעֲרוֹתֶֽיךָ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>נָ֣סוּ</Word>
 <Word Book='Mishlei' Chapter='28' Verse='1' WordSequence='2' >וְאֵין־</Word>
 <Word Book='Mishlei' Chapter='28' Verse='1' WordSequence='3' >רֹדֵ֣ף</Word>
 <Word Book='Mishlei' Chapter='28' Verse='1' WordSequence='4' >רָשָׁ֑ע</Word>
@@ -6062,8 +6062,8 @@
 <Word Book='Mishlei' Chapter='28' Verse='4' WordSequence='5' >וְשֹׁמְרֵ֥י</Word>
 <Word Book='Mishlei' Chapter='28' Verse='4' WordSequence='6' >ת֝וֹרָ֗ה</Word>
 <Word Book='Mishlei' Chapter='28' Verse='4' WordSequence='7' >יִתְגָּ֥רוּ</Word>
-<Word Book='Mishlei' Chapter='28' Verse='4' WordSequence='8' IsParashaPtuchah='true' >בָֽם</Word>
-<Word Book='Mishlei' Chapter='28' Verse='5' WordSequence='1' >אַנְשֵׁי־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='28' Verse='4' WordSequence='8'>בָֽם</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='28' Verse='5' WordSequence='1' IsParashaPtuchah='true' >אַנְשֵׁי־</Word>
 <Word Book='Mishlei' Chapter='28' Verse='5' WordSequence='2' >רָ֭ע</Word>
 <Word Book='Mishlei' Chapter='28' Verse='5' WordSequence='3' >לֹא־</Word>
 <Word Book='Mishlei' Chapter='28' Verse='5' WordSequence='4' >יָבִ֣ינוּ</Word>
@@ -6161,8 +6161,8 @@
 <Word Book='Mishlei' Chapter='28' Verse='16' WordSequence='7' >[שֹׂ֥נֵא]</Word>
 <Word Book='Mishlei' Chapter='28' Verse='16' WordSequence='8' >בֶ֝֗צַע</Word>
 <Word Book='Mishlei' Chapter='28' Verse='16' WordSequence='9' >יַאֲרִ֥יךְ</Word>
-<Word Book='Mishlei' Chapter='28' Verse='16' WordSequence='10' IsParashaPtuchah='true' >יָמִֽים</Word>
-<Word Book='Mishlei' Chapter='28' Verse='17' WordSequence='1' >אָ֭דָם</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='28' Verse='16' WordSequence='10'>יָמִֽים</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='28' Verse='17' WordSequence='1' IsParashaPtuchah='true' >אָ֭דָם</Word>
 <Word Book='Mishlei' Chapter='28' Verse='17' WordSequence='2' >עָשֻׁ֣ק</Word>
 <Word Book='Mishlei' Chapter='28' Verse='17' WordSequence='3' >בְּדַם־</Word>
 <Word Book='Mishlei' Chapter='28' Verse='17' WordSequence='4' >נָפֶשׁ</Word>
@@ -6261,8 +6261,8 @@
 <Word Book='Mishlei' Chapter='28' Verse='28' WordSequence='4' >אָדָ֑ם</Word>
 <Word Book='Mishlei' Chapter='28' Verse='28' WordSequence='5' >וּ֝בְאָבְדָ֗ם</Word>
 <Word Book='Mishlei' Chapter='28' Verse='28' WordSequence='6' >יִרְבּ֥וּ</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='28' Verse='28' WordSequence='7' >צַדִּיקִֽים</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>אִ֣ישׁ</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='28' Verse='28' WordSequence='7'>צַדִּיקִֽים</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>אִ֣ישׁ</Word>
 <Word Book='Mishlei' Chapter='29' Verse='1' WordSequence='2' >תּ֭וֹכָחוֹת</Word>
 <Word Book='Mishlei' Chapter='29' Verse='1' WordSequence='3' >מַקְשֶׁה־</Word>
 <Word Book='Mishlei' Chapter='29' Verse='1' WordSequence='4' >עֹ֑רֶף</Word>
@@ -6391,8 +6391,8 @@
 <Word Book='Mishlei' Chapter='29' Verse='17' WordSequence='3' >וִֽינִיחֶ֑ךָ</Word>
 <Word Book='Mishlei' Chapter='29' Verse='17' WordSequence='4' >וְיִתֵּ֖ן</Word>
 <Word Book='Mishlei' Chapter='29' Verse='17' WordSequence='5' >מַעֲדַנִּ֣ים</Word>
-<Word Book='Mishlei' Chapter='29' Verse='17' WordSequence='6' IsParashaPtuchah='true' >לְנַפְשֶֽׁךָ</Word>
-<Word Book='Mishlei' Chapter='29' Verse='18' WordSequence='1' >בְּאֵ֣ין</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='29' Verse='17' WordSequence='6'>לְנַפְשֶֽׁךָ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='29' Verse='18' WordSequence='1' IsParashaPtuchah='true' >בְּאֵ֣ין</Word>
 <Word Book='Mishlei' Chapter='29' Verse='18' WordSequence='2' >חָ֭זוֹן</Word>
 <Word Book='Mishlei' Chapter='29' Verse='18' WordSequence='3' >יִפָּ֣רַֽע</Word>
 <Word Book='Mishlei' Chapter='29' Verse='18' WordSequence='4' >עָ֑ם</Word>
@@ -6465,8 +6465,8 @@
 <Word Book='Mishlei' Chapter='29' Verse='27' WordSequence='5' >וְתוֹעֲבַ֖ת</Word>
 <Word Book='Mishlei' Chapter='29' Verse='27' WordSequence='6' >רָשָׁ֣ע</Word>
 <Word Book='Mishlei' Chapter='29' Verse='27' WordSequence='7' >יְשַׁר־</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='29' Verse='27' WordSequence='8' IsParashaPtuchah='true' >דָּֽרֶךְ</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>דִּבְרֵ֤י׀</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='29' Verse='27' WordSequence='8'>דָּֽרֶךְ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='30' Verse='1' WordSequence='1' IsParashaPtuchah='true' >דִּבְרֵ֤י׀</Word>
 <Word Book='Mishlei' Chapter='30' Verse='1' WordSequence='2' >אָג֥וּר</Word>
 <Word Book='Mishlei' Chapter='30' Verse='1' WordSequence='3' >בִּן־</Word>
 <Word Book='Mishlei' Chapter='30' Verse='1' WordSequence='4' >יָקֶ֗ה</Word>
@@ -6529,8 +6529,8 @@
 <Word Book='Mishlei' Chapter='30' Verse='6' WordSequence='5' >פֶּן־</Word>
 <Word Book='Mishlei' Chapter='30' Verse='6' WordSequence='6' >יוֹכִ֖יחַ</Word>
 <Word Book='Mishlei' Chapter='30' Verse='6' WordSequence='7' >בְּךָ֣</Word>
-<Word Book='Mishlei' Chapter='30' Verse='6' WordSequence='8' IsParashaPtuchah='true' >וְנִכְזָֽבְתָּ</Word>
-<Word Book='Mishlei' Chapter='30' Verse='7' WordSequence='1' >שְׁ֭תַּיִם</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='30' Verse='6' WordSequence='8'>וְנִכְזָֽבְתָּ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='30' Verse='7' WordSequence='1' IsParashaPtuchah='true' >שְׁ֭תַּיִם</Word>
 <Word Book='Mishlei' Chapter='30' Verse='7' WordSequence='2' >שָׁאַ֣לְתִּי</Word>
 <Word Book='Mishlei' Chapter='30' Verse='7' WordSequence='3' >מֵאִתָּ֑ךְ</Word>
 <Word Book='Mishlei' Chapter='30' Verse='7' WordSequence='4' >אַל־</Word>
@@ -6562,8 +6562,8 @@
 <Word Book='Mishlei' Chapter='30' Verse='9' WordSequence='9' >וְגָנַ֑בְתִּי</Word>
 <Word Book='Mishlei' Chapter='30' Verse='9' WordSequence='10' >וְ֝תָפַ֗שְׂתִּי</Word>
 <Word Book='Mishlei' Chapter='30' Verse='9' WordSequence='11' >שֵׁ֣ם</Word>
-<Word Book='Mishlei' Chapter='30' Verse='9' WordSequence='12' IsParashaPtuchah='true' >אֱלֹהָֽי</Word>
-<Word Book='Mishlei' Chapter='30' Verse='10' WordSequence='1' >אַל־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='30' Verse='9' WordSequence='12'>אֱלֹהָֽי</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='30' Verse='10' WordSequence='1' IsParashaPtuchah='true' >אַל־</Word>
 <Word Book='Mishlei' Chapter='30' Verse='10' WordSequence='2' >תַּלְשֵׁ֣ן</Word>
 <Word Book='Mishlei' Chapter='30' Verse='10' WordSequence='3' >עֶ֭בֶד</Word>
 <Word Book='Mishlei' Chapter='30' Verse='10' WordSequence='4' >אֶל־</Word>
@@ -6600,8 +6600,8 @@
 <Word Book='Mishlei' Chapter='30' Verse='14' WordSequence='7' >עֲנִיִּ֣ים</Word>
 <Word Book='Mishlei' Chapter='30' Verse='14' WordSequence='8' >מֵאֶ֑רֶץ</Word>
 <Word Book='Mishlei' Chapter='30' Verse='14' WordSequence='9' >וְ֝אֶבְיוֹנִ֗ים</Word>
-<Word Book='Mishlei' Chapter='30' Verse='14' WordSequence='10' IsParashaPtuchah='true' >מֵאָדָֽם</Word>
-<Word Book='Mishlei' Chapter='30' Verse='15' WordSequence='1' >לַֽעֲלוּקָ֨ה׀</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='30' Verse='14' WordSequence='10'>מֵאָדָֽם</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='30' Verse='15' WordSequence='1' IsParashaPtuchah='true' >לַֽעֲלוּקָ֨ה׀</Word>
 <Word Book='Mishlei' Chapter='30' Verse='15' WordSequence='2' >שְׁתֵּ֥י</Word>
 <Word Book='Mishlei' Chapter='30' Verse='15' WordSequence='3' >בָנוֹת֮</Word>
 <Word Book='Mishlei' Chapter='30' Verse='15' WordSequence='4' >הַ֤ב׀</Word>
@@ -6636,8 +6636,8 @@
 <Word Book='Mishlei' Chapter='30' Verse='17' WordSequence='9' >נַ֑חַל</Word>
 <Word Book='Mishlei' Chapter='30' Verse='17' WordSequence='10' >וְֽיֹאכְל֥וּהָ</Word>
 <Word Book='Mishlei' Chapter='30' Verse='17' WordSequence='11' >בְנֵי־</Word>
-<Word Book='Mishlei' Chapter='30' Verse='17' WordSequence='12' IsParashaPtuchah='true' >נָֽשֶׁר</Word>
-<Word Book='Mishlei' Chapter='30' Verse='18' WordSequence='1' >שְׁלֹשָׁ֣ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='30' Verse='17' WordSequence='12'>נָֽשֶׁר</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='30' Verse='18' WordSequence='1' IsParashaPtuchah='true' >שְׁלֹשָׁ֣ה</Word>
 <Word Book='Mishlei' Chapter='30' Verse='18' WordSequence='2' >הֵ֭מָּה</Word>
 <Word Book='Mishlei' Chapter='30' Verse='18' WordSequence='3' >נִפְלְא֣וּ</Word>
 <Word Book='Mishlei' Chapter='30' Verse='18' WordSequence='4' >מִמֶּ֑נִּי</Word>
@@ -6669,8 +6669,8 @@
 <Word Book='Mishlei' Chapter='30' Verse='20' WordSequence='8' >וְ֝אָמְרָ֗ה</Word>
 <Word Book='Mishlei' Chapter='30' Verse='20' WordSequence='9' >לֹֽא־</Word>
 <Word Book='Mishlei' Chapter='30' Verse='20' WordSequence='10' >פָעַ֥לְתִּי</Word>
-<Word Book='Mishlei' Chapter='30' Verse='20' WordSequence='11' IsParashaPtuchah='true' >אָֽוֶן</Word>
-<Word Book='Mishlei' Chapter='30' Verse='21' WordSequence='1' >תַּ֣חַת</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='30' Verse='20' WordSequence='11'>אָֽוֶן</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='30' Verse='21' WordSequence='1' IsParashaPtuchah='true' >תַּ֣חַת</Word>
 <Word Book='Mishlei' Chapter='30' Verse='21' WordSequence='2' >שָׁ֭לוֹשׁ</Word>
 <Word Book='Mishlei' Chapter='30' Verse='21' WordSequence='3' >רָ֣גְזָה</Word>
 <Word Book='Mishlei' Chapter='30' Verse='21' WordSequence='4' >אֶ֑רֶץ</Word>
@@ -6694,8 +6694,8 @@
 <Word Book='Mishlei' Chapter='30' Verse='23' WordSequence='5' >וְ֝שִׁפְחָ֗ה</Word>
 <Word Book='Mishlei' Chapter='30' Verse='23' WordSequence='6' >כִּֽי־</Word>
 <Word Book='Mishlei' Chapter='30' Verse='23' WordSequence='7' >תִירַ֥שׁ</Word>
-<Word Book='Mishlei' Chapter='30' Verse='23' WordSequence='8' IsParashaPtuchah='true' >גְּבִרְתָּֽהּ</Word>
-<Word Book='Mishlei' Chapter='30' Verse='24' WordSequence='1' >אַרְבָּ֣עָה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='30' Verse='23' WordSequence='8'>גְּבִרְתָּֽהּ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='30' Verse='24' WordSequence='1' IsParashaPtuchah='true' >אַרְבָּ֣עָה</Word>
 <Word Book='Mishlei' Chapter='30' Verse='24' WordSequence='2' >הֵ֭ם</Word>
 <Word Book='Mishlei' Chapter='30' Verse='24' WordSequence='3' >קְטַנֵּי־</Word>
 <Word Book='Mishlei' Chapter='30' Verse='24' WordSequence='4' >אָ֑רֶץ</Word>
@@ -6727,8 +6727,8 @@
 <Word Book='Mishlei' Chapter='30' Verse='28' WordSequence='3' >תְּתַפֵּ֑שׂ</Word>
 <Word Book='Mishlei' Chapter='30' Verse='28' WordSequence='4' >וְ֝הִ֗יא</Word>
 <Word Book='Mishlei' Chapter='30' Verse='28' WordSequence='5' >בְּהֵ֣יכְלֵי</Word>
-<Word Book='Mishlei' Chapter='30' Verse='28' WordSequence='6' IsParashaPtuchah='true' >מֶֽלֶךְ</Word>
-<Word Book='Mishlei' Chapter='30' Verse='29' WordSequence='1' >שְׁלֹשָׁ֣ה</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='30' Verse='28' WordSequence='6'>מֶֽלֶךְ</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='30' Verse='29' WordSequence='1' IsParashaPtuchah='true' >שְׁלֹשָׁ֣ה</Word>
 <Word Book='Mishlei' Chapter='30' Verse='29' WordSequence='2' >הֵ֭מָּה</Word>
 <Word Book='Mishlei' Chapter='30' Verse='29' WordSequence='3' >מֵיטִ֣יבֵי</Word>
 <Word Book='Mishlei' Chapter='30' Verse='29' WordSequence='4' >צָ֑עַד</Word>
@@ -6768,8 +6768,8 @@
 <Word Book='Mishlei' Chapter='30' Verse='33' WordSequence='10' >וּמִ֥יץ</Word>
 <Word Book='Mishlei' Chapter='30' Verse='33' WordSequence='11' >אַ֝פַּ֗יִם</Word>
 <Word Book='Mishlei' Chapter='30' Verse='33' WordSequence='12' >י֣וֹצִיא</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='30' Verse='33' WordSequence='13' IsParashaPtuchah='true' >רִֽיב</Word>
-<Word Book='Mishlei' StartPerekBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>דִּ֭בְרֵי</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='30' Verse='33' WordSequence='13'>רִֽיב</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='31' Verse='1' WordSequence='1' IsParashaPtuchah='true' >דִּ֭בְרֵי</Word>
 <Word Book='Mishlei' Chapter='31' Verse='1' WordSequence='2' >לְמוּאֵ֣ל</Word>
 <Word Book='Mishlei' Chapter='31' Verse='1' WordSequence='3' >מֶ֑לֶךְ</Word>
 <Word Book='Mishlei' Chapter='31' Verse='1' WordSequence='4' >מַ֝שָּׂ֗א</Word>
@@ -6838,8 +6838,8 @@
 <Word Book='Mishlei' Chapter='31' Verse='9' WordSequence='4' >צֶ֑דֶק</Word>
 <Word Book='Mishlei' Chapter='31' Verse='9' WordSequence='5' >וְ֝דִ֗ין</Word>
 <Word Book='Mishlei' Chapter='31' Verse='9' WordSequence='6' >עָנִ֥י</Word>
-<Word Book='Mishlei' Chapter='31' Verse='9' WordSequence='7' IsParashaPtuchah='true' >וְאֶבְיֽוֹן</Word>
-<Word Book='Mishlei' Chapter='31' Verse='10' WordSequence='1' >אֵֽשֶׁת־</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='31' Verse='9' WordSequence='7'>וְאֶבְיֽוֹן</Word>
+<Word Book='Mishlei' StartParashaBeforeWord='true' Chapter='31' Verse='10' WordSequence='1' IsParashaPtuchah='true' >אֵֽשֶׁת־</Word>
 <Word Book='Mishlei' Chapter='31' Verse='10' WordSequence='2' >חַ֭יִל</Word>
 <Word Book='Mishlei' Chapter='31' Verse='10' WordSequence='3' >מִ֣י</Word>
 <Word Book='Mishlei' Chapter='31' Verse='10' WordSequence='4' >יִמְצָ֑א</Word>
@@ -6990,5 +6990,5 @@
 <Word Book='Mishlei' Chapter='31' Verse='31' WordSequence='4' >יָדֶ֑יהָ</Word>
 <Word Book='Mishlei' Chapter='31' Verse='31' WordSequence='5' >וִֽיהַלְל֖וּהָ</Word>
 <Word Book='Mishlei' Chapter='31' Verse='31' WordSequence='6' >בַשְּׁעָרִ֣ים</Word>
-<Word Book='Mishlei' EndPerekAfterWord='true' Chapter='31' Verse='31' WordSequence='7' >מַעֲשֶֽׂיהָ</Word>
+<Word Book='Mishlei' EndParashaAfterWord='true' Chapter='31' Verse='31' WordSequence='7'>מַעֲשֶֽׂיהָ</Word>
 </Tanakh>

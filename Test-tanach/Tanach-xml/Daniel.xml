@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>בִּשְׁנַ֣ת</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>בִּשְׁנַ֣ת</Word>
 <Word Book='Daniel' Chapter='1' Verse='1' WordSequence='2' >שָׁל֔וֹשׁ</Word>
 <Word Book='Daniel' Chapter='1' Verse='1' WordSequence='3' >לְמַלְכ֖וּת</Word>
 <Word Book='Daniel' Chapter='1' Verse='1' WordSequence='4' >יְהוֹיָקִ֣ים</Word>
@@ -304,8 +304,8 @@
 <Word Book='Daniel' Chapter='1' Verse='21' WordSequence='4' >שְׁנַ֥ת</Word>
 <Word Book='Daniel' Chapter='1' Verse='21' WordSequence='5' >אַחַ֖ת</Word>
 <Word Book='Daniel' Chapter='1' Verse='21' WordSequence='6' >לְכ֥וֹרֶשׁ</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='1' Verse='21' WordSequence='7' IsParashaPtuchah='true' >הַמֶּֽלֶךְ</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וּבִשְׁנַ֣ת</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='1' Verse='21' WordSequence='7'>הַמֶּֽלֶךְ</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּבִשְׁנַ֣ת</Word>
 <Word Book='Daniel' Chapter='2' Verse='1' WordSequence='2' >שְׁתַּ֗יִם</Word>
 <Word Book='Daniel' Chapter='2' Verse='1' WordSequence='3' >לְמַלְכוּת֙</Word>
 <Word Book='Daniel' Chapter='2' Verse='1' WordSequence='4' >נְבֻֽכַדְנֶצַּ֔ר</Word>
@@ -512,8 +512,8 @@
 <Word Book='Daniel' Chapter='2' Verse='13' WordSequence='5' >וּבְע֛וֹ</Word>
 <Word Book='Daniel' Chapter='2' Verse='13' WordSequence='6' >דָּנִיֵּ֥אל</Word>
 <Word Book='Daniel' Chapter='2' Verse='13' WordSequence='7' >וְחַבְר֖וֹהִי</Word>
-<Word Book='Daniel' Chapter='2' Verse='13' WordSequence='8' IsParashaPtuchah='true' >לְהִתְקְטָלָֽה</Word>
-<Word Book='Daniel' Chapter='2' Verse='14' WordSequence='1' >בֵּאדַ֣יִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='2' Verse='13' WordSequence='8'>לְהִתְקְטָלָֽה</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='2' Verse='14' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֣יִן</Word>
 <Word Book='Daniel' Chapter='2' Verse='14' WordSequence='2' >דָּנִיֵּ֗אל</Word>
 <Word Book='Daniel' Chapter='2' Verse='14' WordSequence='3' >הֲתִיב֙</Word>
 <Word Book='Daniel' Chapter='2' Verse='14' WordSequence='4' >עֵטָ֣א</Word>
@@ -557,8 +557,8 @@
 <Word Book='Daniel' Chapter='2' Verse='16' WordSequence='9' >לֵ֔הּ</Word>
 <Word Book='Daniel' Chapter='2' Verse='16' WordSequence='10' >וּפִשְׁרָ֖א</Word>
 <Word Book='Daniel' Chapter='2' Verse='16' WordSequence='11' >לְהַֽחֲוָיָ֥ה</Word>
-<Word Book='Daniel' Chapter='2' Verse='16' WordSequence='12' IsParashaPtuchah='true' >לְמַלְכָּֽא</Word>
-<Word Book='Daniel' Chapter='2' Verse='17' WordSequence='1' >אֱדַ֥יִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='2' Verse='16' WordSequence='12'>לְמַלְכָּֽא</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='2' Verse='17' WordSequence='1' IsParashaPtuchah='true' >אֱדַ֥יִן</Word>
 <Word Book='Daniel' Chapter='2' Verse='17' WordSequence='2' >דָּֽנִיֵּ֖אל</Word>
 <Word Book='Daniel' Chapter='2' Verse='17' WordSequence='3' >לְבַיְתֵ֣הּ</Word>
 <Word Book='Daniel' Chapter='2' Verse='17' WordSequence='4' >אֲזַ֑ל</Word>
@@ -687,8 +687,8 @@
 <Word Book='Daniel' Chapter='2' Verse='24' WordSequence='24' >מַלְכָּ֔א</Word>
 <Word Book='Daniel' Chapter='2' Verse='24' WordSequence='25' >וּפִשְׁרָ֖א</Word>
 <Word Book='Daniel' Chapter='2' Verse='24' WordSequence='26' >לְמַלְכָּ֥א</Word>
-<Word Book='Daniel' Chapter='2' Verse='24' WordSequence='27' >אֲחַוֵּֽא</Word>
-<Word Book='Daniel' Chapter='2' Verse='25' WordSequence='1' >אֱדַ֤יִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='2' Verse='24' WordSequence='27' >אֲחַוֵּֽא</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='2' Verse='25' WordSequence='1' IsParashaPtuchah='true' >אֱדַ֤יִן</Word>
 <Word Book='Daniel' Chapter='2' Verse='25' WordSequence='2' >אַרְיוֹךְ֙</Word>
 <Word Book='Daniel' Chapter='2' Verse='25' WordSequence='3' >בְּהִתְבְּהָלָ֔ה</Word>
 <Word Book='Daniel' Chapter='2' Verse='25' WordSequence='4' >הַנְעֵ֥ל</Word>
@@ -762,8 +762,8 @@
 <Word Book='Daniel' Chapter='2' Verse='28' WordSequence='18' >עַֽל־</Word>
 <Word Book='Daniel' Chapter='2' Verse='28' WordSequence='19' >מִשְׁכְּבָ֖ךְ</Word>
 <Word Book='Daniel' Chapter='2' Verse='28' WordSequence='20' >דְּנָ֥ה</Word>
-<Word Book='Daniel' Chapter='2' Verse='28' WordSequence='21' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='Daniel' Chapter='2' Verse='29' WordSequence='1' >אַ֣נְתְּה</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='2' Verse='28' WordSequence='21'>הֽוּא</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='2' Verse='29' WordSequence='1' IsParashaPtuchah='true' >אַ֣נְתְּה</Word>
 <Word Book='Daniel' Chapter='2' Verse='29' WordSequence='2' >מַלְכָּ֗א</Word>
 <Word Book='Daniel' Chapter='2' Verse='29' WordSequence='3' >רַעְיוֹנָךְ֙</Word>
 <Word Book='Daniel' Chapter='2' Verse='29' WordSequence='4' >עַל־</Word>
@@ -1092,8 +1092,8 @@
 <Word Book='Daniel' Chapter='2' Verse='45' WordSequence='27' >וְיַצִּ֥יב</Word>
 <Word Book='Daniel' Chapter='2' Verse='45' WordSequence='28' >חֶלְמָ֖א</Word>
 <Word Book='Daniel' Chapter='2' Verse='45' WordSequence='29' >וּמְהֵימַ֥ן</Word>
-<Word Book='Daniel' Chapter='2' Verse='45' WordSequence='30' IsParashaPtuchah='true' >פִּשְׁרֵֽהּ</Word>
-<Word Book='Daniel' Chapter='2' Verse='46' WordSequence='1' >בֵּ֠אדַיִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='2' Verse='45' WordSequence='30'>פִּשְׁרֵֽהּ</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='2' Verse='46' WordSequence='1' IsParashaPtuchah='true' >בֵּ֠אדַיִן</Word>
 <Word Book='Daniel' Chapter='2' Verse='46' WordSequence='2' >מַלְכָּ֤א</Word>
 <Word Book='Daniel' Chapter='2' Verse='46' WordSequence='3' >נְבֽוּכַדְנֶצַּר֙</Word>
 <Word Book='Daniel' Chapter='2' Verse='46' WordSequence='4' >נְפַ֣ל</Word>
@@ -1162,8 +1162,8 @@
 <Word Book='Daniel' Chapter='2' Verse='49' WordSequence='14' >נְג֑וֹ</Word>
 <Word Book='Daniel' Chapter='2' Verse='49' WordSequence='15' >וְדָנִיֵּ֖אל</Word>
 <Word Book='Daniel' Chapter='2' Verse='49' WordSequence='16' >בִּתְרַ֥ע</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='2' Verse='49' WordSequence='17' IsParashaPtuchah='true' >מַלְכָּֽא</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>נְבוּכַדְנֶצַּ֣ר</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='2' Verse='49' WordSequence='17'>מַלְכָּֽא</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >נְבוּכַדְנֶצַּ֣ר</Word>
 <Word Book='Daniel' Chapter='3' Verse='1' WordSequence='2' >מַלְכָּ֗א</Word>
 <Word Book='Daniel' Chapter='3' Verse='1' WordSequence='3' >עֲבַד֙</Word>
 <Word Book='Daniel' Chapter='3' Verse='1' WordSequence='4' >צְלֵ֣ם</Word>
@@ -1385,8 +1385,8 @@
 <Word Book='Daniel' Chapter='3' Verse='12' WordSequence='29' >דִּ֥י</Word>
 <Word Book='Daniel' Chapter='3' Verse='12' WordSequence='30' >הֲקֵ֖ימְתָּ</Word>
 <Word Book='Daniel' Chapter='3' Verse='12' WordSequence='31' >לָ֥א</Word>
-<Word Book='Daniel' Chapter='3' Verse='12' WordSequence='32' >סָגְדִֽין</Word>
-<Word Book='Daniel' Chapter='3' Verse='13' WordSequence='1' >בֵּאדַ֤יִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='3' Verse='12' WordSequence='32' >סָגְדִֽין</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='3' Verse='13' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֤יִן</Word>
 <Word Book='Daniel' Chapter='3' Verse='13' WordSequence='2' >נְבוּכַדְנֶצַּר֙</Word>
 <Word Book='Daniel' Chapter='3' Verse='13' WordSequence='3' >בִּרְגַ֣ז</Word>
 <Word Book='Daniel' Chapter='3' Verse='13' WordSequence='4' >וַחֲמָ֔ה</Word>
@@ -1511,8 +1511,8 @@
 <Word Book='Daniel' Chapter='3' Verse='18' WordSequence='16' >דִּ֥י</Word>
 <Word Book='Daniel' Chapter='3' Verse='18' WordSequence='17' >הֲקֵ֖ימְתָּ</Word>
 <Word Book='Daniel' Chapter='3' Verse='18' WordSequence='18' >לָ֥א</Word>
-<Word Book='Daniel' Chapter='3' Verse='18' WordSequence='19' >נִסְגֻּֽד</Word>
-<Word Book='Daniel' Chapter='3' Verse='19' WordSequence='1' >בֵּאדַ֨יִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='3' Verse='18' WordSequence='19' >נִסְגֻּֽד</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='3' Verse='19' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֨יִן</Word>
 <Word Book='Daniel' Chapter='3' Verse='19' WordSequence='2' >נְבוּכַדְנֶצַּ֜ר</Word>
 <Word Book='Daniel' Chapter='3' Verse='19' WordSequence='3' >הִתְמְלִ֣י</Word>
 <Word Book='Daniel' Chapter='3' Verse='19' WordSequence='4' >חֱמָ֗א</Word>
@@ -1600,8 +1600,8 @@
 <Word Book='Daniel' Chapter='3' Verse='23' WordSequence='10' >אַתּוּן־</Word>
 <Word Book='Daniel' Chapter='3' Verse='23' WordSequence='11' >נוּרָ֥א</Word>
 <Word Book='Daniel' Chapter='3' Verse='23' WordSequence='12' >יָֽקִדְתָּ֖א</Word>
-<Word Book='Daniel' Chapter='3' Verse='23' WordSequence='13' IsParashaPtuchah='true' >מְכַפְּתִֽין</Word>
-<Word Book='Daniel' Chapter='3' Verse='24' WordSequence='1' >אֱדַ֙יִן֙</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='3' Verse='23' WordSequence='13'>מְכַפְּתִֽין</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='3' Verse='24' WordSequence='1' IsParashaPtuchah='true' >אֱדַ֙יִן֙</Word>
 <Word Book='Daniel' Chapter='3' Verse='24' WordSequence='2' >נְבוּכַדְנֶצַּ֣ר</Word>
 <Word Book='Daniel' Chapter='3' Verse='24' WordSequence='3' >מַלְכָּ֔א</Word>
 <Word Book='Daniel' Chapter='3' Verse='24' WordSequence='4' >תְּוַ֖הּ</Word>
@@ -1643,8 +1643,8 @@
 <Word Book='Daniel' Chapter='3' Verse='25' WordSequence='19' >[רְֽבִיעָאָ֔ה]</Word>
 <Word Book='Daniel' Chapter='3' Verse='25' WordSequence='20' >דָּמֵ֖ה</Word>
 <Word Book='Daniel' Chapter='3' Verse='25' WordSequence='21' >לְבַר־</Word>
-<Word Book='Daniel' Chapter='3' Verse='25' WordSequence='22' >אֱלָהִֽין</Word>
-<Word Book='Daniel' Chapter='3' Verse='26' WordSequence='1' >בֵּאדַ֜יִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='3' Verse='25' WordSequence='22' >אֱלָהִֽין</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='3' Verse='26' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֜יִן</Word>
 <Word Book='Daniel' Chapter='3' Verse='26' WordSequence='2' >קְרֵ֣ב</Word>
 <Word Book='Daniel' Chapter='3' Verse='26' WordSequence='3' >נְבוּכַדְנֶצַּ֗ר</Word>
 <Word Book='Daniel' Chapter='3' Verse='26' WordSequence='4' >לִתְרַע֮</Word>
@@ -1775,8 +1775,8 @@
 <Word Book='Daniel' Chapter='3' Verse='30' WordSequence='6' >וַעֲבֵ֥ד</Word>
 <Word Book='Daniel' Chapter='3' Verse='30' WordSequence='7' >נְג֖וֹ</Word>
 <Word Book='Daniel' Chapter='3' Verse='30' WordSequence='8' >בִּמְדִינַ֥ת</Word>
-<Word Book='Daniel' Chapter='3' Verse='30' WordSequence='9' IsParashaPtuchah='true' >בָּבֶֽל</Word>
-<Word Book='Daniel' Chapter='3' Verse='31' WordSequence='1' >נְבוּכַדְנֶצַּ֣ר</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='3' Verse='30' WordSequence='9'>בָּבֶֽל</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='3' Verse='31' WordSequence='1' IsParashaPtuchah='true' >נְבוּכַדְנֶצַּ֣ר</Word>
 <Word Book='Daniel' Chapter='3' Verse='31' WordSequence='2' >מַלְכָּ֗א</Word>
 <Word Book='Daniel' Chapter='3' Verse='31' WordSequence='3' >לְֽכָל־</Word>
 <Word Book='Daniel' Chapter='3' Verse='31' WordSequence='4' >עַֽמְמַיָּ֞א</Word>
@@ -1812,8 +1812,8 @@
 <Word Book='Daniel' Chapter='3' Verse='33' WordSequence='10' >וְשָׁלְטָנֵ֖הּ</Word>
 <Word Book='Daniel' Chapter='3' Verse='33' WordSequence='11' >עִם־</Word>
 <Word Book='Daniel' Chapter='3' Verse='33' WordSequence='12' >דָּ֥ר</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='3' Verse='33' WordSequence='13' >וְדָֽר</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>אֲנָ֣ה</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='3' Verse='33' WordSequence='13'>וְדָֽר</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>אֲנָ֣ה</Word>
 <Word Book='Daniel' Chapter='4' Verse='1' WordSequence='2' >נְבוּכַדְנֶצַּ֗ר</Word>
 <Word Book='Daniel' Chapter='4' Verse='1' WordSequence='3' >שְׁלֵ֤ה</Word>
 <Word Book='Daniel' Chapter='4' Verse='1' WordSequence='4' >הֲוֵית֙</Word>
@@ -2250,8 +2250,8 @@
 <Word Book='Daniel' Chapter='4' Verse='25' WordSequence='2' >מְּטָ֔א</Word>
 <Word Book='Daniel' Chapter='4' Verse='25' WordSequence='3' >עַל־</Word>
 <Word Book='Daniel' Chapter='4' Verse='25' WordSequence='4' >נְבוּכַדְנֶצַּ֖ר</Word>
-<Word Book='Daniel' Chapter='4' Verse='25' WordSequence='5' IsParashaPtuchah='true' >מַלְכָּֽא</Word>
-<Word Book='Daniel' Chapter='4' Verse='26' WordSequence='1' >לִקְצָ֥ת</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='4' Verse='25' WordSequence='5'>מַלְכָּֽא</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='4' Verse='26' WordSequence='1' IsParashaPtuchah='true' >לִקְצָ֥ת</Word>
 <Word Book='Daniel' Chapter='4' Verse='26' WordSequence='2' >יַרְחִ֖ין</Word>
 <Word Book='Daniel' Chapter='4' Verse='26' WordSequence='3' >תְּרֵֽי־</Word>
 <Word Book='Daniel' Chapter='4' Verse='26' WordSequence='4' >עֲשַׂ֑ר</Word>
@@ -2433,8 +2433,8 @@
 <Word Book='Daniel' Chapter='4' Verse='34' WordSequence='16' >מַהְלְכִ֣ין</Word>
 <Word Book='Daniel' Chapter='4' Verse='34' WordSequence='17' >בְּגֵוָ֔ה</Word>
 <Word Book='Daniel' Chapter='4' Verse='34' WordSequence='18' >יָכִ֖ל</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='4' Verse='34' WordSequence='19' IsParashaPtuchah='true' >לְהַשְׁפָּלָֽה</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>בֵּלְשַׁאצַּ֣ר</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='4' Verse='34' WordSequence='19'>לְהַשְׁפָּלָֽה</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בֵּלְשַׁאצַּ֣ר</Word>
 <Word Book='Daniel' Chapter='5' Verse='1' WordSequence='2' >מַלְכָּ֗א</Word>
 <Word Book='Daniel' Chapter='5' Verse='1' WordSequence='3' >עֲבַד֙</Word>
 <Word Book='Daniel' Chapter='5' Verse='1' WordSequence='4' >לְחֶ֣ם</Word>
@@ -2565,8 +2565,8 @@
 <Word Book='Daniel' Chapter='5' Verse='7' WordSequence='30' >צַוְּארֵ֔הּ</Word>
 <Word Book='Daniel' Chapter='5' Verse='7' WordSequence='31' >וְתַלְתִּ֥י</Word>
 <Word Book='Daniel' Chapter='5' Verse='7' WordSequence='32' >בְמַלְכוּתָ֖א</Word>
-<Word Book='Daniel' Chapter='5' Verse='7' WordSequence='33' >יִשְׁלַֽט</Word>
-<Word Book='Daniel' Chapter='5' Verse='8' WordSequence='1' >אֱדַ֙יִן֙</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='5' Verse='7' WordSequence='33' >יִשְׁלַֽט</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='5' Verse='8' WordSequence='1' IsParashaPtuchah='true' >אֱדַ֙יִן֙</Word>
 <Word Book='Daniel' Chapter='5' Verse='8' WordSequence='2' >עללין</Word>
 <Word Book='Daniel' Chapter='5' Verse='8' WordSequence='3' >[עָֽלִּ֔ין]</Word>
 <Word Book='Daniel' Chapter='5' Verse='8' WordSequence='4' >כֹּ֖ל</Word>
@@ -2664,8 +2664,8 @@
 <Word Book='Daniel' Chapter='5' Verse='12' WordSequence='23' >דָּנִיֵּ֥אל</Word>
 <Word Book='Daniel' Chapter='5' Verse='12' WordSequence='24' >יִתְקְרֵ֖י</Word>
 <Word Book='Daniel' Chapter='5' Verse='12' WordSequence='25' >וּפִשְׁרָ֥ה</Word>
-<Word Book='Daniel' Chapter='5' Verse='12' WordSequence='26' IsParashaPtuchah='true' >יְהַֽחֲוֵֽה</Word>
-<Word Book='Daniel' Chapter='5' Verse='13' WordSequence='1' >בֵּאדַ֙יִן֙</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='5' Verse='12' WordSequence='26'>יְהַֽחֲוֵֽה</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='5' Verse='13' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֙יִן֙</Word>
 <Word Book='Daniel' Chapter='5' Verse='13' WordSequence='2' >דָּֽנִיֵּ֔אל</Word>
 <Word Book='Daniel' Chapter='5' Verse='13' WordSequence='3' >הֻעַ֖ל</Word>
 <Word Book='Daniel' Chapter='5' Verse='13' WordSequence='4' >קֳדָ֣ם</Word>
@@ -2749,8 +2749,8 @@
 <Word Book='Daniel' Chapter='5' Verse='16' WordSequence='27' >צַוְּארָ֔ךְ</Word>
 <Word Book='Daniel' Chapter='5' Verse='16' WordSequence='28' >וְתַלְתָּ֥א</Word>
 <Word Book='Daniel' Chapter='5' Verse='16' WordSequence='29' >בְמַלְכוּתָ֖א</Word>
-<Word Book='Daniel' Chapter='5' Verse='16' WordSequence='30' IsParashaPtuchah='true' >תִּשְׁלַֽט</Word>
-<Word Book='Daniel' Chapter='5' Verse='17' WordSequence='1' >בֵּאדַ֜יִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='5' Verse='16' WordSequence='30'>תִּשְׁלַֽט</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='5' Verse='17' WordSequence='1' IsParashaPtuchah='true' >בֵּאדַ֜יִן</Word>
 <Word Book='Daniel' Chapter='5' Verse='17' WordSequence='2' >עָנֵ֣ה</Word>
 <Word Book='Daniel' Chapter='5' Verse='17' WordSequence='3' >דָנִיֵּ֗אל</Word>
 <Word Book='Daniel' Chapter='5' Verse='17' WordSequence='4' >וְאָמַר֙</Word>
@@ -2982,8 +2982,8 @@
 <Word Book='Daniel' Chapter='5' Verse='30' WordSequence='4' >בֵּלְאשַׁצַּ֖ר</Word>
 <Word Book='Daniel' Chapter='5' Verse='30' WordSequence='5' >מַלְכָּ֥א</Word>
 <Word Book='Daniel' Chapter='5' Verse='30' WordSequence='6' >כשדיא</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='5' Verse='30' WordSequence='7' IsParashaPtuchah='true' >[כַשְׂדָּאָֽה]</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וְדָרְיָ֙וֶשׁ֙</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='5' Verse='30' WordSequence='7'>[כַשְׂדָּאָֽה]</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְדָרְיָ֙וֶשׁ֙</Word>
 <Word Book='Daniel' Chapter='6' Verse='1' WordSequence='2' >מָֽדָיָ֔א</Word>
 <Word Book='Daniel' Chapter='6' Verse='1' WordSequence='3' >קַבֵּ֖ל</Word>
 <Word Book='Daniel' Chapter='6' Verse='1' WordSequence='4' >מַלְכוּתָ֑א</Word>
@@ -3085,8 +3085,8 @@
 <Word Book='Daniel' Chapter='6' Verse='6' WordSequence='13' >הַשְׁכַּ֥חְנָֽה</Word>
 <Word Book='Daniel' Chapter='6' Verse='6' WordSequence='14' >עֲל֖וֹהִי</Word>
 <Word Book='Daniel' Chapter='6' Verse='6' WordSequence='15' >בְּדָ֥ת</Word>
-<Word Book='Daniel' Chapter='6' Verse='6' WordSequence='16' >אֱלָהֵֽהּ</Word>
-<Word Book='Daniel' Chapter='6' Verse='7' WordSequence='1' >אֱ֠דַיִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='6' Verse='6' WordSequence='16' >אֱלָהֵֽהּ</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='6' Verse='7' WordSequence='1' IsParashaPtuchah='true' >אֱ֠דַיִן</Word>
 <Word Book='Daniel' Chapter='6' Verse='7' WordSequence='2' >סָרְכַיָּ֤א</Word>
 <Word Book='Daniel' Chapter='6' Verse='7' WordSequence='3' >וַאֲחַשְׁדַּרְפְּנַיָּא֙</Word>
 <Word Book='Daniel' Chapter='6' Verse='7' WordSequence='4' >אִלֵּ֔ן</Word>
@@ -3186,8 +3186,8 @@
 <Word Book='Daniel' Chapter='6' Verse='11' WordSequence='30' >עָבֵ֔ד</Word>
 <Word Book='Daniel' Chapter='6' Verse='11' WordSequence='31' >מִן־</Word>
 <Word Book='Daniel' Chapter='6' Verse='11' WordSequence='32' >קַדְמַ֖ת</Word>
-<Word Book='Daniel' Chapter='6' Verse='11' WordSequence='33' >דְּנָֽה</Word>
-<Word Book='Daniel' Chapter='6' Verse='12' WordSequence='1' >אֱ֠דַיִן</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='6' Verse='11' WordSequence='33' >דְּנָֽה</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='6' Verse='12' WordSequence='1' IsParashaPtuchah='true' >אֱ֠דַיִן</Word>
 <Word Book='Daniel' Chapter='6' Verse='12' WordSequence='2' >גֻּבְרַיָּ֤א</Word>
 <Word Book='Daniel' Chapter='6' Verse='12' WordSequence='3' >אִלֵּךְ֙</Word>
 <Word Book='Daniel' Chapter='6' Verse='12' WordSequence='4' >הַרְגִּ֔שׁוּ</Word>
@@ -3540,8 +3540,8 @@
 <Word Book='Daniel' Chapter='6' Verse='29' WordSequence='6' >וּבְמַלְכ֖וּת</Word>
 <Word Book='Daniel' Chapter='6' Verse='29' WordSequence='7' >כּ֥וֹרֶשׁ</Word>
 <Word Book='Daniel' Chapter='6' Verse='29' WordSequence='8' >פרסיא</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='6' Verse='29' WordSequence='9' IsParashaPtuchah='true' >[פָּרְסָאָֽה]</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>בִּשְׁנַ֣ת</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='6' Verse='29' WordSequence='9'>[פָּרְסָאָֽה]</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֣ת</Word>
 <Word Book='Daniel' Chapter='7' Verse='1' WordSequence='2' >חֲדָ֗ה</Word>
 <Word Book='Daniel' Chapter='7' Verse='1' WordSequence='3' >לְבֵלְאשַׁצַּר֙</Word>
 <Word Book='Daniel' Chapter='7' Verse='1' WordSequence='4' >מֶ֣לֶךְ</Word>
@@ -3826,8 +3826,8 @@
 <Word Book='Daniel' Chapter='7' Verse='14' WordSequence='18' >וּמַלְכוּתֵ֖הּ</Word>
 <Word Book='Daniel' Chapter='7' Verse='14' WordSequence='19' >דִּי־</Word>
 <Word Book='Daniel' Chapter='7' Verse='14' WordSequence='20' >לָ֥א</Word>
-<Word Book='Daniel' Chapter='7' Verse='14' WordSequence='21' IsParashaPtuchah='true' >תִתְחַבַּֽל</Word>
-<Word Book='Daniel' Chapter='7' Verse='15' WordSequence='1' >אֶתְכְּרִיַּ֥ת</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='7' Verse='14' WordSequence='21'>תִתְחַבַּֽל</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='7' Verse='15' WordSequence='1' IsParashaPtuchah='true' >אֶתְכְּרִיַּ֥ת</Word>
 <Word Book='Daniel' Chapter='7' Verse='15' WordSequence='2' >רוּחִ֛י</Word>
 <Word Book='Daniel' Chapter='7' Verse='15' WordSequence='3' >אֲנָ֥ה</Word>
 <Word Book='Daniel' Chapter='7' Verse='15' WordSequence='4' >דָנִיֵּ֖אל</Word>
@@ -4047,8 +4047,8 @@
 <Word Book='Daniel' Chapter='7' Verse='28' WordSequence='13' >עֲלַ֔י</Word>
 <Word Book='Daniel' Chapter='7' Verse='28' WordSequence='14' >וּמִלְּתָ֖א</Word>
 <Word Book='Daniel' Chapter='7' Verse='28' WordSequence='15' >בְּלִבִּ֥י</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='7' Verse='28' WordSequence='16' IsParashaPtuchah='true' >נִטְרֵֽת</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>בִּשְׁנַ֣ת</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='7' Verse='28' WordSequence='16'>נִטְרֵֽת</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֣ת</Word>
 <Word Book='Daniel' Chapter='8' Verse='1' WordSequence='2' >שָׁל֔וֹשׁ</Word>
 <Word Book='Daniel' Chapter='8' Verse='1' WordSequence='3' >לְמַלְכ֖וּת</Word>
 <Word Book='Daniel' Chapter='8' Verse='1' WordSequence='4' >בֵּלְאשַׁצַּ֣ר</Word>
@@ -4431,8 +4431,8 @@
 <Word Book='Daniel' Chapter='8' Verse='27' WordSequence='12' >עַל־</Word>
 <Word Book='Daniel' Chapter='8' Verse='27' WordSequence='13' >הַמַּרְאֶ֖ה</Word>
 <Word Book='Daniel' Chapter='8' Verse='27' WordSequence='14' >וְאֵ֥ין</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='8' Verse='27' WordSequence='15' IsParashaPtuchah='true' >מֵבִֽין</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>בִּשְׁנַ֣ת</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='8' Verse='27' WordSequence='15'>מֵבִֽין</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֣ת</Word>
 <Word Book='Daniel' Chapter='9' Verse='1' WordSequence='2' >אַחַ֗ת</Word>
 <Word Book='Daniel' Chapter='9' Verse='1' WordSequence='3' >לְדָרְיָ֛וֶשׁ</Word>
 <Word Book='Daniel' Chapter='9' Verse='1' WordSequence='4' >בֶּן־</Word>
@@ -4898,8 +4898,8 @@
 <Word Book='Daniel' Chapter='9' Verse='27' WordSequence='17' >וְנֶ֣חֱרָצָ֔ה</Word>
 <Word Book='Daniel' Chapter='9' Verse='27' WordSequence='18' >תִּתַּ֖ךְ</Word>
 <Word Book='Daniel' Chapter='9' Verse='27' WordSequence='19' >עַל־</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='9' Verse='27' WordSequence='20' IsParashaPtuchah='true' >שֹׁמֵֽם</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>בִּשְׁנַ֣ת</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='9' Verse='27' WordSequence='20'>שֹׁמֵֽם</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בִּשְׁנַ֣ת</Word>
 <Word Book='Daniel' Chapter='10' Verse='1' WordSequence='2' >שָׁל֗וֹשׁ</Word>
 <Word Book='Daniel' Chapter='10' Verse='1' WordSequence='3' >לְכ֙וֹרֶשׁ֙</Word>
 <Word Book='Daniel' Chapter='10' Verse='1' WordSequence='4' >מֶ֣לֶךְ</Word>
@@ -4947,8 +4947,8 @@
 <Word Book='Daniel' Chapter='10' Verse='3' WordSequence='15' >מְלֹ֕את</Word>
 <Word Book='Daniel' Chapter='10' Verse='3' WordSequence='16' >שְׁלֹ֥שֶׁת</Word>
 <Word Book='Daniel' Chapter='10' Verse='3' WordSequence='17' >שָׁבֻעִ֖ים</Word>
-<Word Book='Daniel' Chapter='10' Verse='3' WordSequence='18' IsParashaPtuchah='true' >יָמִֽים</Word>
-<Word Book='Daniel' Chapter='10' Verse='4' WordSequence='1' >וּבְי֛וֹם</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='10' Verse='3' WordSequence='18'>יָמִֽים</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='10' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וּבְי֛וֹם</Word>
 <Word Book='Daniel' Chapter='10' Verse='4' WordSequence='2' >עֶשְׂרִ֥ים</Word>
 <Word Book='Daniel' Chapter='10' Verse='4' WordSequence='3' >וְאַרְבָּעָ֖ה</Word>
 <Word Book='Daniel' Chapter='10' Verse='4' WordSequence='4' >לַחֹ֣דֶשׁ</Word>
@@ -5240,8 +5240,8 @@
 <Word Book='Daniel' Chapter='10' Verse='21' WordSequence='14' >כִּ֥י</Word>
 <Word Book='Daniel' Chapter='10' Verse='21' WordSequence='15' >אִם־</Word>
 <Word Book='Daniel' Chapter='10' Verse='21' WordSequence='16' >מִיכָאֵ֖ל</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='10' Verse='21' WordSequence='17' IsParashaPtuchah='true' >שַׂרְכֶֽם</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַאֲנִי֙</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='10' Verse='21' WordSequence='17'>שַׂרְכֶֽם</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַאֲנִי֙</Word>
 <Word Book='Daniel' Chapter='11' Verse='1' WordSequence='2' >בִּשְׁנַ֣ת</Word>
 <Word Book='Daniel' Chapter='11' Verse='1' WordSequence='3' >אַחַ֔ת</Word>
 <Word Book='Daniel' Chapter='11' Verse='1' WordSequence='4' >לְדָרְיָ֖וֶשׁ</Word>
@@ -5857,8 +5857,8 @@
 <Word Book='Daniel' Chapter='11' Verse='45' WordSequence='11' >קִצּ֔וֹ</Word>
 <Word Book='Daniel' Chapter='11' Verse='45' WordSequence='12' >וְאֵ֥ין</Word>
 <Word Book='Daniel' Chapter='11' Verse='45' WordSequence='13' >עוֹזֵ֖ר</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='11' Verse='45' WordSequence='14' >לֽוֹ</Word>
-<Word Book='Daniel' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וּבָעֵ֣ת</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='11' Verse='45' WordSequence='14'>לֽוֹ</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וּבָעֵ֣ת</Word>
 <Word Book='Daniel' Chapter='12' Verse='1' WordSequence='2' >הַהִיא֩</Word>
 <Word Book='Daniel' Chapter='12' Verse='1' WordSequence='3' >יַעֲמֹ֨ד</Word>
 <Word Book='Daniel' Chapter='12' Verse='1' WordSequence='4' >מִֽיכָאֵ֜ל</Word>
@@ -5898,8 +5898,8 @@
 <Word Book='Daniel' Chapter='12' Verse='2' WordSequence='9' >וְאֵ֥לֶּה</Word>
 <Word Book='Daniel' Chapter='12' Verse='2' WordSequence='10' >לַחֲרָפ֖וֹת</Word>
 <Word Book='Daniel' Chapter='12' Verse='2' WordSequence='11' >לְדִרְא֥וֹן</Word>
-<Word Book='Daniel' Chapter='12' Verse='2' WordSequence='12' >עוֹלָֽם</Word>
-<Word Book='Daniel' Chapter='12' Verse='3' WordSequence='1' >וְהַ֨מַּשְׂכִּלִ֔ים</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='12' Verse='2' WordSequence='12' >עוֹלָֽם</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='12' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וְהַ֨מַּשְׂכִּלִ֔ים</Word>
 <Word Book='Daniel' Chapter='12' Verse='3' WordSequence='2' >יַזְהִ֖רוּ</Word>
 <Word Book='Daniel' Chapter='12' Verse='3' WordSequence='3' >כְּזֹ֣הַר</Word>
 <Word Book='Daniel' Chapter='12' Verse='3' WordSequence='4' >הָרָקִ֑יעַ</Word>
@@ -5907,8 +5907,8 @@
 <Word Book='Daniel' Chapter='12' Verse='3' WordSequence='6' >הָֽרַבִּ֔ים</Word>
 <Word Book='Daniel' Chapter='12' Verse='3' WordSequence='7' >כַּכּוֹכָבִ֖ים</Word>
 <Word Book='Daniel' Chapter='12' Verse='3' WordSequence='8' >לְעוֹלָ֥ם</Word>
-<Word Book='Daniel' Chapter='12' Verse='3' WordSequence='9' IsParashaPtuchah='true' >וָעֶֽד</Word>
-<Word Book='Daniel' Chapter='12' Verse='4' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='12' Verse='3' WordSequence='9'>וָעֶֽד</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='12' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Daniel' Chapter='12' Verse='4' WordSequence='2' >דָֽנִיֵּ֗אל</Word>
 <Word Book='Daniel' Chapter='12' Verse='4' WordSequence='3' >סְתֹ֧ם</Word>
 <Word Book='Daniel' Chapter='12' Verse='4' WordSequence='4' >הַדְּבָרִ֛ים</Word>
@@ -5985,8 +5985,8 @@
 <Word Book='Daniel' Chapter='12' Verse='8' WordSequence='6' >אֲדֹנִ֕י</Word>
 <Word Book='Daniel' Chapter='12' Verse='8' WordSequence='7' >מָ֥ה</Word>
 <Word Book='Daniel' Chapter='12' Verse='8' WordSequence='8' >אַחֲרִ֖ית</Word>
-<Word Book='Daniel' Chapter='12' Verse='8' WordSequence='9' IsParashaPtuchah='true' >אֵֽלֶּה</Word>
-<Word Book='Daniel' Chapter='12' Verse='9' WordSequence='1' >וַיֹּ֖אמֶר</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='12' Verse='8' WordSequence='9'>אֵֽלֶּה</Word>
+<Word Book='Daniel' StartParashaBeforeWord='true' Chapter='12' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֖אמֶר</Word>
 <Word Book='Daniel' Chapter='12' Verse='9' WordSequence='2' >לֵ֣ךְ</Word>
 <Word Book='Daniel' Chapter='12' Verse='9' WordSequence='3' >דָּנִיֵּ֑אל</Word>
 <Word Book='Daniel' Chapter='12' Verse='9' WordSequence='4' >כִּֽי־</Word>
@@ -6034,5 +6034,5 @@
 <Word Book='Daniel' Chapter='12' Verse='13' WordSequence='5' >וְתַעֲמֹ֥ד</Word>
 <Word Book='Daniel' Chapter='12' Verse='13' WordSequence='6' >לְגֹרָלְךָ֖</Word>
 <Word Book='Daniel' Chapter='12' Verse='13' WordSequence='7' >לְקֵ֥ץ</Word>
-<Word Book='Daniel' EndPerekAfterWord='true' Chapter='12' Verse='13' WordSequence='8' >הַיָּמִֽין</Word>
+<Word Book='Daniel' EndParashaAfterWord='true' Chapter='12' Verse='13' WordSequence='8'>הַיָּמִֽין</Word>
 </Tanakh>

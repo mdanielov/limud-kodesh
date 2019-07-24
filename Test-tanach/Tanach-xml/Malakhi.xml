@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Malakhi' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>מַשָּׂ֥א</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>מַשָּׂ֥א</Word>
 <Word Book='Malakhi' Chapter='1' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Malakhi' Chapter='1' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Malakhi' Chapter='1' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -218,8 +218,8 @@
 <Word Book='Malakhi' Chapter='1' Verse='13' WordSequence='19' >אוֹתָ֛הּ</Word>
 <Word Book='Malakhi' Chapter='1' Verse='13' WordSequence='20' >מִיֶּדְכֶ֖ם</Word>
 <Word Book='Malakhi' Chapter='1' Verse='13' WordSequence='21' >אָמַ֥ר</Word>
-<Word Book='Malakhi' Chapter='1' Verse='13' WordSequence='22' >יְהוָֽה</Word>
-<Word Book='Malakhi' Chapter='1' Verse='14' WordSequence='1' >וְאָר֣וּר</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='1' Verse='13' WordSequence='22' >יְהוָֽה</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='1' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וְאָר֣וּר</Word>
 <Word Book='Malakhi' Chapter='1' Verse='14' WordSequence='2' >נוֹכֵ֗ל</Word>
 <Word Book='Malakhi' Chapter='1' Verse='14' WordSequence='3' >וְיֵ֤שׁ</Word>
 <Word Book='Malakhi' Chapter='1' Verse='14' WordSequence='4' >בְּעֶדְרוֹ֙</Word>
@@ -237,8 +237,8 @@
 <Word Book='Malakhi' Chapter='1' Verse='14' WordSequence='16' >צְבָא֔וֹת</Word>
 <Word Book='Malakhi' Chapter='1' Verse='14' WordSequence='17' >וּשְׁמִ֖י</Word>
 <Word Book='Malakhi' Chapter='1' Verse='14' WordSequence='18' >נוֹרָ֥א</Word>
-<Word Book='Malakhi' EndPerekAfterWord='true' Chapter='1' Verse='14' WordSequence='19' >בַגּוֹיִֽם</Word>
-<Word Book='Malakhi' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וְעַתָּ֗ה</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='1' Verse='14' WordSequence='19'>בַגּוֹיִֽם</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וְעַתָּ֗ה</Word>
 <Word Book='Malakhi' Chapter='2' Verse='1' WordSequence='2' >אֲלֵיכֶ֛ם</Word>
 <Word Book='Malakhi' Chapter='2' Verse='1' WordSequence='3' >הַמִּצְוָ֥ה</Word>
 <Word Book='Malakhi' Chapter='2' Verse='1' WordSequence='4' >הַזֹּ֖את</Word>
@@ -369,8 +369,8 @@
 <Word Book='Malakhi' Chapter='2' Verse='9' WordSequence='14' >דְּרָכַ֔י</Word>
 <Word Book='Malakhi' Chapter='2' Verse='9' WordSequence='15' >וְנֹשְׂאִ֥ים</Word>
 <Word Book='Malakhi' Chapter='2' Verse='9' WordSequence='16' >פָּנִ֖ים</Word>
-<Word Book='Malakhi' Chapter='2' Verse='9' WordSequence='17' IsParashaPtuchah='true' >בַּתּוֹרָֽה</Word>
-<Word Book='Malakhi' Chapter='2' Verse='10' WordSequence='1' >הֲל֨וֹא</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='2' Verse='9' WordSequence='17'>בַּתּוֹרָֽה</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='2' Verse='10' WordSequence='1' IsParashaPtuchah='true' >הֲל֨וֹא</Word>
 <Word Book='Malakhi' Chapter='2' Verse='10' WordSequence='2' >אָ֤ב</Word>
 <Word Book='Malakhi' Chapter='2' Verse='10' WordSequence='3' >אֶחָד֙</Word>
 <Word Book='Malakhi' Chapter='2' Verse='10' WordSequence='4' >לְכֻלָּ֔נוּ</Word>
@@ -414,8 +414,8 @@
 <Word Book='Malakhi' Chapter='2' Verse='12' WordSequence='10' >וּמַגִּ֣ישׁ</Word>
 <Word Book='Malakhi' Chapter='2' Verse='12' WordSequence='11' >מִנְחָ֔ה</Word>
 <Word Book='Malakhi' Chapter='2' Verse='12' WordSequence='12' >לַֽיהוָ֖ה</Word>
-<Word Book='Malakhi' Chapter='2' Verse='12' WordSequence='13' IsParashaPtuchah='true' >צְבָאֽוֹת</Word>
-<Word Book='Malakhi' Chapter='2' Verse='13' WordSequence='1' >וְזֹאת֙</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='2' Verse='12' WordSequence='13'>צְבָאֽוֹת</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='2' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וְזֹאת֙</Word>
 <Word Book='Malakhi' Chapter='2' Verse='13' WordSequence='2' >שֵׁנִ֣ית</Word>
 <Word Book='Malakhi' Chapter='2' Verse='13' WordSequence='3' >תַּֽעֲשׂ֔וּ</Word>
 <Word Book='Malakhi' Chapter='2' Verse='13' WordSequence='4' >כַּסּ֤וֹת</Word>
@@ -486,8 +486,8 @@
 <Word Book='Malakhi' Chapter='2' Verse='16' WordSequence='15' >וְנִשְׁמַרְתֶּ֥ם</Word>
 <Word Book='Malakhi' Chapter='2' Verse='16' WordSequence='16' >בְּרוּחֲכֶ֖ם</Word>
 <Word Book='Malakhi' Chapter='2' Verse='16' WordSequence='17' >וְלֹ֥א</Word>
-<Word Book='Malakhi' Chapter='2' Verse='16' WordSequence='18' >תִבְגֹּֽדוּ</Word>
-<Word Book='Malakhi' Chapter='2' Verse='17' WordSequence='1' >הוֹגַעְתֶּ֤ם</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='2' Verse='16' WordSequence='18' >תִבְגֹּֽדוּ</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='2' Verse='17' WordSequence='1' IsParashaPtuchah='true' >הוֹגַעְתֶּ֤ם</Word>
 <Word Book='Malakhi' Chapter='2' Verse='17' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Malakhi' Chapter='2' Verse='17' WordSequence='3' >בְּדִבְרֵיכֶ֔ם</Word>
 <Word Book='Malakhi' Chapter='2' Verse='17' WordSequence='4' >וַאֲמַרְתֶּ֖ם</Word>
@@ -506,8 +506,8 @@
 <Word Book='Malakhi' Chapter='2' Verse='17' WordSequence='17' >א֥וֹ</Word>
 <Word Book='Malakhi' Chapter='2' Verse='17' WordSequence='18' >אַיֵּ֖ה</Word>
 <Word Book='Malakhi' Chapter='2' Verse='17' WordSequence='19' >אֱלֹהֵ֥י</Word>
-<Word Book='Malakhi' EndPerekAfterWord='true' Chapter='2' Verse='17' WordSequence='20' >הַמִּשְׁפָּֽט</Word>
-<Word Book='Malakhi' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>הִנְנִ֤י</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='2' Verse='17' WordSequence='20'>הַמִּשְׁפָּֽט</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>הִנְנִ֤י</Word>
 <Word Book='Malakhi' Chapter='3' Verse='1' WordSequence='2' >שֹׁלֵחַ֙</Word>
 <Word Book='Malakhi' Chapter='3' Verse='1' WordSequence='3' >מַלְאָכִ֔י</Word>
 <Word Book='Malakhi' Chapter='3' Verse='1' WordSequence='4' >וּפִנָּה־</Word>
@@ -696,8 +696,8 @@
 <Word Book='Malakhi' Chapter='3' Verse='12' WordSequence='9' >חֵ֔פֶץ</Word>
 <Word Book='Malakhi' Chapter='3' Verse='12' WordSequence='10' >אָמַ֖ר</Word>
 <Word Book='Malakhi' Chapter='3' Verse='12' WordSequence='11' >יְהוָ֥ה</Word>
-<Word Book='Malakhi' Chapter='3' Verse='12' WordSequence='12' >צְבָאֽוֹת</Word>
-<Word Book='Malakhi' Chapter='3' Verse='13' WordSequence='1' >חָזְק֥וּ</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='3' Verse='12' WordSequence='12' >צְבָאֽוֹת</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='3' Verse='13' WordSequence='1' IsParashaPtuchah='true' >חָזְק֥וּ</Word>
 <Word Book='Malakhi' Chapter='3' Verse='13' WordSequence='2' >עָלַ֛י</Word>
 <Word Book='Malakhi' Chapter='3' Verse='13' WordSequence='3' >דִּבְרֵיכֶ֖ם</Word>
 <Word Book='Malakhi' Chapter='3' Verse='13' WordSequence='4' >אָמַ֣ר</Word>
@@ -780,8 +780,8 @@
 <Word Book='Malakhi' Chapter='3' Verse='18' WordSequence='8' >אֱלֹהִ֔ים</Word>
 <Word Book='Malakhi' Chapter='3' Verse='18' WordSequence='9' >לַאֲשֶׁ֖ר</Word>
 <Word Book='Malakhi' Chapter='3' Verse='18' WordSequence='10' >לֹ֥א</Word>
-<Word Book='Malakhi' Chapter='3' Verse='18' WordSequence='11' >עֲבָדֽוֹ</Word>
-<Word Book='Malakhi' Chapter='3' Verse='19' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='3' Verse='18' WordSequence='11' >עֲבָדֽוֹ</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='3' Verse='19' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Malakhi' Chapter='3' Verse='19' WordSequence='2' >הִנֵּ֤ה</Word>
 <Word Book='Malakhi' Chapter='3' Verse='19' WordSequence='3' >הַיּוֹם֙</Word>
 <Word Book='Malakhi' Chapter='3' Verse='19' WordSequence='4' >בָּ֔א</Word>
@@ -833,8 +833,8 @@
 <Word Book='Malakhi' Chapter='3' Verse='21' WordSequence='12' >עֹשֶׂ֔ה</Word>
 <Word Book='Malakhi' Chapter='3' Verse='21' WordSequence='13' >אָמַ֖ר</Word>
 <Word Book='Malakhi' Chapter='3' Verse='21' WordSequence='14' >יְהוָ֥ה</Word>
-<Word Book='Malakhi' Chapter='3' Verse='21' WordSequence='15' IsParashaPtuchah='true' >צְבָאֽוֹת</Word>
-<Word Book='Malakhi' Chapter='3' Verse='22' WordSequence='1' >זִכְר֕וּ</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='3' Verse='21' WordSequence='15'>צְבָאֽוֹת</Word>
+<Word Book='Malakhi' StartParashaBeforeWord='true' Chapter='3' Verse='22' WordSequence='1' IsParashaPtuchah='true' >זִכְר֕וּ</Word>
 <Word Book='Malakhi' Chapter='3' Verse='22' WordSequence='2' >תּוֹרַ֖ת</Word>
 <Word Book='Malakhi' Chapter='3' Verse='22' WordSequence='3' >מֹשֶׁ֣ה</Word>
 <Word Book='Malakhi' Chapter='3' Verse='22' WordSequence='4' >עַבְדִּ֑י</Word>
@@ -874,17 +874,18 @@
 <Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='12' >וְהִכֵּיתִ֥י</Word>
 <Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='13' >אֶת־</Word>
 <Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='14' >הָאָ֖רֶץ</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='15' >חֵֽרֶם<br><small>[הנה</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='16' >אנכי</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='17' >שלח</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='18' >לכם</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='19' >את</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='20' >אליה</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='21' >הנביא</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='22' >לפני</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='23' >בוא</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='24' >יום</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='25' >יהוה</Word>
-<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='26' >הגדול</Word>
-<Word Book='Malakhi' EndPerekAfterWord='true' Chapter='3' Verse='24' WordSequence='27' >והנורא]</small></Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='15' >חֵֽרֶם</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='16' >[הנה</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='17' >אנכי</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='18' >שלח</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='19' >לכם</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='20' >את</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='21' >אליה</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='22' >הנביא</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='23' >לפני</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='24' >בוא</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='25' >יום</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='26' >יהוה</Word>
+<Word Book='Malakhi' Chapter='3' Verse='24' WordSequence='27' >הגדול</Word>
+<Word Book='Malakhi' EndParashaAfterWord='true' Chapter='3' Verse='24' WordSequence='28'>והנורא]</Word>
 </Tanakh>

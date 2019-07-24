@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>אֵ֣לֶּה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>אֵ֣לֶּה</Word>
 <Word Book='Devarim' Chapter='1' Verse='1' WordSequence='2' >הַדְּבָרִ֗ים</Word>
 <Word Book='Devarim' Chapter='1' Verse='1' WordSequence='3' >אֲשֶׁ֨ר</Word>
 <Word Book='Devarim' Chapter='1' Verse='1' WordSequence='4' >דִּבֶּ֤ר</Word>
@@ -652,8 +652,8 @@
 <Word Book='Devarim' Chapter='1' Verse='46' WordSequence='4' >רַבִּ֑ים</Word>
 <Word Book='Devarim' Chapter='1' Verse='46' WordSequence='5' >כַּיָּמִ֖ים</Word>
 <Word Book='Devarim' Chapter='1' Verse='46' WordSequence='6' >אֲשֶׁ֥ר</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='1' Verse='46' WordSequence='7' >יְשַׁבְתֶּֽם</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַנֵּ֜פֶן</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='1' Verse='46' WordSequence='7'>יְשַׁבְתֶּֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַנֵּ֜פֶן</Word>
 <Word Book='Devarim' Chapter='2' Verse='1' WordSequence='2' >וַנִּסַּ֤ע</Word>
 <Word Book='Devarim' Chapter='2' Verse='1' WordSequence='3' >הַמִּדְבָּ֙רָה֙</Word>
 <Word Book='Devarim' Chapter='2' Verse='1' WordSequence='4' >דֶּ֣רֶךְ</Word>
@@ -668,8 +668,8 @@
 <Word Book='Devarim' Chapter='2' Verse='1' WordSequence='13' >הַר־</Word>
 <Word Book='Devarim' Chapter='2' Verse='1' WordSequence='14' >שֵׂעִ֖יר</Word>
 <Word Book='Devarim' Chapter='2' Verse='1' WordSequence='15' >יָמִ֥ים</Word>
-<Word Book='Devarim' Chapter='2' Verse='1' WordSequence='16' >רַבִּֽים</Word>
-<Word Book='Devarim' Chapter='2' Verse='2' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='2' Verse='1' WordSequence='16' >רַבִּֽים</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='2' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Devarim' Chapter='2' Verse='2' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Devarim' Chapter='2' Verse='2' WordSequence='3' >אֵלַ֥י</Word>
 <Word Book='Devarim' Chapter='2' Verse='2' WordSequence='4' >לֵאמֹֽר</Word>
@@ -884,8 +884,8 @@
 <Word Book='Devarim' Chapter='2' Verse='16' WordSequence='6' >הַמִּלְחָמָ֛ה</Word>
 <Word Book='Devarim' Chapter='2' Verse='16' WordSequence='7' >לָמ֖וּת</Word>
 <Word Book='Devarim' Chapter='2' Verse='16' WordSequence='8' >מִקֶּ֥רֶב</Word>
-<Word Book='Devarim' Chapter='2' Verse='16' WordSequence='9' >הָעָֽם</Word>
-<Word Book='Devarim' Chapter='2' Verse='17' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='2' Verse='16' WordSequence='9' >הָעָֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='2' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Devarim' Chapter='2' Verse='17' WordSequence='2' >יְהוָ֖ה</Word>
 <Word Book='Devarim' Chapter='2' Verse='17' WordSequence='3' >אֵלַ֥י</Word>
 <Word Book='Devarim' Chapter='2' Verse='17' WordSequence='4' >לֵאמֹֽר</Word>
@@ -1084,8 +1084,8 @@
 <Word Book='Devarim' Chapter='2' Verse='30' WordSequence='18' >תִּתּ֥וֹ</Word>
 <Word Book='Devarim' Chapter='2' Verse='30' WordSequence='19' >בְיָדְךָ֖</Word>
 <Word Book='Devarim' Chapter='2' Verse='30' WordSequence='20' >כַּיּ֥וֹם</Word>
-<Word Book='Devarim' Chapter='2' Verse='30' WordSequence='21' >הַזֶּֽה</Word>
-<Word Book='Devarim' Chapter='2' Verse='31' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='2' Verse='30' WordSequence='21' >הַזֶּֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='2' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Devarim' Chapter='2' Verse='31' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Devarim' Chapter='2' Verse='31' WordSequence='3' >אֵלַ֔י</Word>
 <Word Book='Devarim' Chapter='2' Verse='31' WordSequence='4' >רְאֵ֗ה</Word>
@@ -1185,8 +1185,8 @@
 <Word Book='Devarim' Chapter='2' Verse='37' WordSequence='15' >אֲשֶׁר־</Word>
 <Word Book='Devarim' Chapter='2' Verse='37' WordSequence='16' >צִוָּ֖ה</Word>
 <Word Book='Devarim' Chapter='2' Verse='37' WordSequence='17' >יְהוָ֥ה</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='2' Verse='37' WordSequence='18' >אֱלֹהֵֽינוּ</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַנֵּ֣פֶן</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='2' Verse='37' WordSequence='18'>אֱלֹהֵֽינוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַנֵּ֣פֶן</Word>
 <Word Book='Devarim' Chapter='3' Verse='1' WordSequence='2' >וַנַּ֔עַל</Word>
 <Word Book='Devarim' Chapter='3' Verse='1' WordSequence='3' >דֶּ֖רֶךְ</Word>
 <Word Book='Devarim' Chapter='3' Verse='1' WordSequence='4' >הַבָּשָׁ֑ן</Word>
@@ -1547,8 +1547,8 @@
 <Word Book='Devarim' Chapter='3' Verse='22' WordSequence='5' >אֱלֹֽהֵיכֶ֔ם</Word>
 <Word Book='Devarim' Chapter='3' Verse='22' WordSequence='6' >ה֖וּא</Word>
 <Word Book='Devarim' Chapter='3' Verse='22' WordSequence='7' >הַנִּלְחָ֥ם</Word>
-<Word Book='Devarim' Chapter='3' Verse='22' WordSequence='8' >לָכֶֽם</Word>
-<Word Book='Devarim' Chapter='3' Verse='23' WordSequence='1' >וָאֶתְחַנַּ֖ן</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='3' Verse='22' WordSequence='8' >לָכֶֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='3' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וָאֶתְחַנַּ֖ן</Word>
 <Word Book='Devarim' Chapter='3' Verse='23' WordSequence='2' >אֶל־</Word>
 <Word Book='Devarim' Chapter='3' Verse='23' WordSequence='3' >יְהוָ֑ה</Word>
 <Word Book='Devarim' Chapter='3' Verse='23' WordSequence='4' >בָּעֵ֥ת</Word>
@@ -1646,8 +1646,8 @@
 <Word Book='Devarim' Chapter='3' Verse='29' WordSequence='2' >בַּגָּ֔יְא</Word>
 <Word Book='Devarim' Chapter='3' Verse='29' WordSequence='3' >מ֖וּל</Word>
 <Word Book='Devarim' Chapter='3' Verse='29' WordSequence='4' >בֵּ֥ית</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='3' Verse='29' WordSequence='5' IsParashaPtuchah='true' >פְּעֽוֹר</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וְעַתָּ֣ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='3' Verse='29' WordSequence='5'>פְּעֽוֹר</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְעַתָּ֣ה</Word>
 <Word Book='Devarim' Chapter='4' Verse='1' WordSequence='2' >יִשְׂרָאֵ֗ל</Word>
 <Word Book='Devarim' Chapter='4' Verse='1' WordSequence='3' >שְׁמַ֤ע</Word>
 <Word Book='Devarim' Chapter='4' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -2057,8 +2057,8 @@
 <Word Book='Devarim' Chapter='4' Verse='24' WordSequence='5' >אֹכְלָ֖ה</Word>
 <Word Book='Devarim' Chapter='4' Verse='24' WordSequence='6' >ה֑וּא</Word>
 <Word Book='Devarim' Chapter='4' Verse='24' WordSequence='7' >אֵ֖ל</Word>
-<Word Book='Devarim' Chapter='4' Verse='24' WordSequence='8' IsParashaPtuchah='true' >קַנָּֽא</Word>
-<Word Book='Devarim' Chapter='4' Verse='25' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='4' Verse='24' WordSequence='8'>קַנָּֽא</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='4' Verse='25' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='4' Verse='25' WordSequence='2' >תוֹלִ֤יד</Word>
 <Word Book='Devarim' Chapter='4' Verse='25' WordSequence='3' >בָּנִים֙</Word>
 <Word Book='Devarim' Chapter='4' Verse='25' WordSequence='4' >וּבְנֵ֣י</Word>
@@ -2336,8 +2336,8 @@
 <Word Book='Devarim' Chapter='4' Verse='40' WordSequence='23' >נֹתֵ֥ן</Word>
 <Word Book='Devarim' Chapter='4' Verse='40' WordSequence='24' >לְךָ֖</Word>
 <Word Book='Devarim' Chapter='4' Verse='40' WordSequence='25' >כָּל־</Word>
-<Word Book='Devarim' Chapter='4' Verse='40' WordSequence='26' IsParashaPtuchah='true' >הַיָּמִֽים</Word>
-<Word Book='Devarim' Chapter='4' Verse='41' WordSequence='1' >אָ֣ז</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='4' Verse='40' WordSequence='26'>הַיָּמִֽים</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='4' Verse='41' WordSequence='1' IsParashaPtuchah='true' >אָ֣ז</Word>
 <Word Book='Devarim' Chapter='4' Verse='41' WordSequence='2' >יַבְדִּ֤יל</Word>
 <Word Book='Devarim' Chapter='4' Verse='41' WordSequence='3' >מֹשֶׁה֙</Word>
 <Word Book='Devarim' Chapter='4' Verse='41' WordSequence='4' >שָׁלֹ֣שׁ</Word>
@@ -2459,8 +2459,8 @@
 <Word Book='Devarim' Chapter='4' Verse='49' WordSequence='8' >הָעֲרָבָ֑ה</Word>
 <Word Book='Devarim' Chapter='4' Verse='49' WordSequence='9' >תַּ֖חַת</Word>
 <Word Book='Devarim' Chapter='4' Verse='49' WordSequence='10' >אַשְׁדֹּ֥ת</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='4' Verse='49' WordSequence='11' IsParashaPtuchah='true' >הַפִּסְגָּֽה</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וַיִּקְרָ֣א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='4' Verse='49' WordSequence='11'>הַפִּסְגָּֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרָ֣א</Word>
 <Word Book='Devarim' Chapter='5' Verse='1' WordSequence='2' >מֹשֶׁה֮</Word>
 <Word Book='Devarim' Chapter='5' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Devarim' Chapter='5' Verse='1' WordSequence='4' >כָּל־</Word>
@@ -2531,8 +2531,8 @@
 <Word Book='Devarim' Chapter='5' Verse='5' WordSequence='17' >וְלֹֽא־</Word>
 <Word Book='Devarim' Chapter='5' Verse='5' WordSequence='18' >עֲלִיתֶ֥ם</Word>
 <Word Book='Devarim' Chapter='5' Verse='5' WordSequence='19' >בָּהָ֖ר</Word>
-<Word Book='Devarim' Chapter='5' Verse='5' WordSequence='20' >לֵאמֹֽר</Word>
-<Word Book='Devarim' Chapter='5' Verse='6' WordSequence='1' >אָֽנֹכִי֙</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='5' Verse='5' WordSequence='20' >לֵאמֹֽר</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='5' Verse='6' WordSequence='1' IsParashaPtuchah='true' >אָֽנֹכִי֙</Word>
 <Word Book='Devarim' Chapter='5' Verse='6' WordSequence='2' >יְהוָ֣ה</Word>
 <Word Book='Devarim' Chapter='5' Verse='6' WordSequence='3' >אֱלֹהֶ֔יךָ</Word>
 <Word Book='Devarim' Chapter='5' Verse='6' WordSequence='4' >אֲשֶׁ֧ר</Word>
@@ -2591,8 +2591,8 @@
 <Word Book='Devarim' Chapter='5' Verse='10' WordSequence='4' >לְאֹהֲבַ֖י</Word>
 <Word Book='Devarim' Chapter='5' Verse='10' WordSequence='5' >וּלְשֹׁמְרֵ֥י</Word>
 <Word Book='Devarim' Chapter='5' Verse='10' WordSequence='6' >מצותו</Word>
-<Word Book='Devarim' Chapter='5' Verse='10' WordSequence='7' >[מִצְוֺתָֽי]</Word>
-<Word Book='Devarim' Chapter='5' Verse='11' WordSequence='1' >לֹ֥א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='5' Verse='10' WordSequence='7' >[מִצְוֺתָֽי]</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='5' Verse='11' WordSequence='1' IsParashaPtuchah='true' >לֹ֥א</Word>
 <Word Book='Devarim' Chapter='5' Verse='11' WordSequence='2' >תִשָּׂ֛א</Word>
 <Word Book='Devarim' Chapter='5' Verse='11' WordSequence='3' >אֶת־</Word>
 <Word Book='Devarim' Chapter='5' Verse='11' WordSequence='4' >שֵֽׁם־</Word>
@@ -2608,8 +2608,8 @@
 <Word Book='Devarim' Chapter='5' Verse='11' WordSequence='14' >יִשָּׂ֥א</Word>
 <Word Book='Devarim' Chapter='5' Verse='11' WordSequence='15' >אֶת־</Word>
 <Word Book='Devarim' Chapter='5' Verse='11' WordSequence='16' >שְׁמ֖וֹ</Word>
-<Word Book='Devarim' Chapter='5' Verse='11' WordSequence='17' >לַשָּֽׁוְא</Word>
-<Word Book='Devarim' Chapter='5' Verse='12' WordSequence='1' >שָׁמ֣֛וֹר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='5' Verse='11' WordSequence='17' >לַשָּֽׁוְא</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='5' Verse='12' WordSequence='1' IsParashaPtuchah='true' >שָׁמ֣֛וֹר</Word>
 <Word Book='Devarim' Chapter='5' Verse='12' WordSequence='2' >אֶת־</Word>
 <Word Book='Devarim' Chapter='5' Verse='12' WordSequence='3' >י֥וֹם֩</Word>
 <Word Book='Devarim' Chapter='5' Verse='12' WordSequence='4' >הַשַׁבָּ֖֨ת</Word>
@@ -2672,8 +2672,8 @@
 <Word Book='Devarim' Chapter='5' Verse='15' WordSequence='20' >לַעֲשׂ֖וֹת</Word>
 <Word Book='Devarim' Chapter='5' Verse='15' WordSequence='21' >אֶת־</Word>
 <Word Book='Devarim' Chapter='5' Verse='15' WordSequence='22' >י֥וֹם</Word>
-<Word Book='Devarim' Chapter='5' Verse='15' WordSequence='23' >הַשַׁבָּֽת</Word>
-<Word Book='Devarim' Chapter='5' Verse='16' WordSequence='1' >כַּבֵּ֤ד</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='5' Verse='15' WordSequence='23' >הַשַׁבָּֽת</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='5' Verse='16' WordSequence='1' IsParashaPtuchah='true' >כַּבֵּ֤ד</Word>
 <Word Book='Devarim' Chapter='5' Verse='16' WordSequence='2' >אֶת־</Word>
 <Word Book='Devarim' Chapter='5' Verse='16' WordSequence='3' >אָבִ֙יךָ֙</Word>
 <Word Book='Devarim' Chapter='5' Verse='16' WordSequence='4' >וְאֶת־</Word>
@@ -2694,8 +2694,8 @@
 <Word Book='Devarim' Chapter='5' Verse='16' WordSequence='19' >יְהוָ֥ה</Word>
 <Word Book='Devarim' Chapter='5' Verse='16' WordSequence='20' >אֱלֹהֶ֖יךָ</Word>
 <Word Book='Devarim' Chapter='5' Verse='16' WordSequence='21' >נֹתֵ֥ן</Word>
-<Word Book='Devarim' Chapter='5' Verse='16' WordSequence='22' >לָֽךְ</Word>
-<Word Book='Devarim' Chapter='5' Verse='17' WordSequence='1' >לֹ֥֖א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='5' Verse='16' WordSequence='22' >לָֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='5' Verse='17' WordSequence='1' IsParashaPtuchah='true' >לֹ֥֖א</Word>
 <Word Book='Devarim' Chapter='5' Verse='17' WordSequence='2' >תִּֿרְצָֽח</Word>
 <Word Book='Devarim' Chapter='5' Verse='17' WordSequence='4' >וְלֹ֖֣א</Word>
 <Word Book='Devarim' Chapter='5' Verse='17' WordSequence='5' >תִּֿנְאָֽ֑ף</Word>
@@ -2932,8 +2932,8 @@
 <Word Book='Devarim' Chapter='5' Verse='30' WordSequence='14' >יָמִ֔ים</Word>
 <Word Book='Devarim' Chapter='5' Verse='30' WordSequence='15' >בָּאָ֖רֶץ</Word>
 <Word Book='Devarim' Chapter='5' Verse='30' WordSequence='16' >אֲשֶׁ֥ר</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='5' Verse='30' WordSequence='17' >תִּֽירָשֽׁוּן</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וְזֹ֣את</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='5' Verse='30' WordSequence='17'>תִּֽירָשֽׁוּן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וְזֹ֣את</Word>
 <Word Book='Devarim' Chapter='6' Verse='1' WordSequence='2' >הַמִּצְוָ֗ה</Word>
 <Word Book='Devarim' Chapter='6' Verse='1' WordSequence='3' >הַֽחֻקִּים֙</Word>
 <Word Book='Devarim' Chapter='6' Verse='1' WordSequence='4' >וְהַמִּשְׁפָּטִ֔ים</Word>
@@ -2992,8 +2992,8 @@
 <Word Book='Devarim' Chapter='6' Verse='3' WordSequence='17' >אֶ֛רֶץ</Word>
 <Word Book='Devarim' Chapter='6' Verse='3' WordSequence='18' >זָבַ֥ת</Word>
 <Word Book='Devarim' Chapter='6' Verse='3' WordSequence='19' >חָלָ֖ב</Word>
-<Word Book='Devarim' Chapter='6' Verse='3' WordSequence='20' IsParashaPtuchah='true' >וּדְבָֽשׁ</Word>
-<Word Book='Devarim' Chapter='6' Verse='4' WordSequence='1' >שְׁמַ֖ע</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='6' Verse='3' WordSequence='20'>וּדְבָֽשׁ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='6' Verse='4' WordSequence='1' IsParashaPtuchah='true' >שְׁמַ֖ע</Word>
 <Word Book='Devarim' Chapter='6' Verse='4' WordSequence='2' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='Devarim' Chapter='6' Verse='4' WordSequence='3' >יְהוָ֥ה</Word>
 <Word Book='Devarim' Chapter='6' Verse='4' WordSequence='4' >אֱלֹהֵ֖ינוּ</Word>
@@ -3040,8 +3040,8 @@
 <Word Book='Devarim' Chapter='6' Verse='9' WordSequence='2' >עַל־</Word>
 <Word Book='Devarim' Chapter='6' Verse='9' WordSequence='3' >מְזוּזֹ֥ת</Word>
 <Word Book='Devarim' Chapter='6' Verse='9' WordSequence='4' >בֵּיתֶ֖ךָ</Word>
-<Word Book='Devarim' Chapter='6' Verse='9' WordSequence='5' >וּבִשְׁעָרֶֽיךָ</Word>
-<Word Book='Devarim' Chapter='6' Verse='10' WordSequence='1' >וְהָיָ֞ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='6' Verse='9' WordSequence='5' >וּבִשְׁעָרֶֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='6' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֞ה</Word>
 <Word Book='Devarim' Chapter='6' Verse='10' WordSequence='2' >כִּ֥י</Word>
 <Word Book='Devarim' Chapter='6' Verse='10' WordSequence='3' >יְבִיאֲךָ֣׀</Word>
 <Word Book='Devarim' Chapter='6' Verse='10' WordSequence='4' >יְהוָ֣ה</Word>
@@ -3125,8 +3125,8 @@
 <Word Book='Devarim' Chapter='6' Verse='15' WordSequence='13' >וְהִשְׁמִ֣ידְךָ֔</Word>
 <Word Book='Devarim' Chapter='6' Verse='15' WordSequence='14' >מֵעַ֖ל</Word>
 <Word Book='Devarim' Chapter='6' Verse='15' WordSequence='15' >פְּנֵ֥י</Word>
-<Word Book='Devarim' Chapter='6' Verse='15' WordSequence='16' >הָאֲדָמָֽה</Word>
-<Word Book='Devarim' Chapter='6' Verse='16' WordSequence='1' >לֹ֣א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='6' Verse='15' WordSequence='16' >הָאֲדָמָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='6' Verse='16' WordSequence='1' IsParashaPtuchah='true' >לֹ֣א</Word>
 <Word Book='Devarim' Chapter='6' Verse='16' WordSequence='2' >תְנַסּ֔וּ</Word>
 <Word Book='Devarim' Chapter='6' Verse='16' WordSequence='3' >אֶת־</Word>
 <Word Book='Devarim' Chapter='6' Verse='16' WordSequence='4' >יְהוָ֖ה</Word>
@@ -3168,8 +3168,8 @@
 <Word Book='Devarim' Chapter='6' Verse='19' WordSequence='5' >מִפָּנֶ֑יךָ</Word>
 <Word Book='Devarim' Chapter='6' Verse='19' WordSequence='6' >כַּאֲשֶׁ֖ר</Word>
 <Word Book='Devarim' Chapter='6' Verse='19' WordSequence='7' >דִּבֶּ֥ר</Word>
-<Word Book='Devarim' Chapter='6' Verse='19' WordSequence='8' >יְהוָֽה</Word>
-<Word Book='Devarim' Chapter='6' Verse='20' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='6' Verse='19' WordSequence='8' >יְהוָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='6' Verse='20' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='6' Verse='20' WordSequence='2' >יִשְׁאָלְךָ֥</Word>
 <Word Book='Devarim' Chapter='6' Verse='20' WordSequence='3' >בִנְךָ֛</Word>
 <Word Book='Devarim' Chapter='6' Verse='20' WordSequence='4' >מָחָ֖ר</Word>
@@ -3250,8 +3250,8 @@
 <Word Book='Devarim' Chapter='6' Verse='25' WordSequence='12' >יְהוָ֥ה</Word>
 <Word Book='Devarim' Chapter='6' Verse='25' WordSequence='13' >אֱלֹהֵ֖ינוּ</Word>
 <Word Book='Devarim' Chapter='6' Verse='25' WordSequence='14' >כַּאֲשֶׁ֥ר</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='6' Verse='25' WordSequence='15' IsParashaPtuchah='true' >צִוָּֽנוּ</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>כִּ֤י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='6' Verse='25' WordSequence='15' >צִוָּֽנוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='7' Verse='1' WordSequence='2' >יְבִֽיאֲךָ֙</Word>
 <Word Book='Devarim' Chapter='7' Verse='1' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Devarim' Chapter='7' Verse='1' WordSequence='4' >אֱלֹהֶ֔יךָ</Word>
@@ -3350,8 +3350,8 @@
 <Word Book='Devarim' Chapter='7' Verse='6' WordSequence='17' >אֲשֶׁ֖ר</Word>
 <Word Book='Devarim' Chapter='7' Verse='6' WordSequence='18' >עַל־</Word>
 <Word Book='Devarim' Chapter='7' Verse='6' WordSequence='19' >פְּנֵ֥י</Word>
-<Word Book='Devarim' Chapter='7' Verse='6' WordSequence='20' >הָאֲדָמָֽה</Word>
-<Word Book='Devarim' Chapter='7' Verse='7' WordSequence='1' >לֹ֣א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='7' Verse='6' WordSequence='20' >הָאֲדָמָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='7' Verse='7' WordSequence='1' IsParashaPtuchah='true' >לֹ֣א</Word>
 <Word Book='Devarim' Chapter='7' Verse='7' WordSequence='2' >מֵֽרֻבְּכֶ֞ם</Word>
 <Word Book='Devarim' Chapter='7' Verse='7' WordSequence='3' >מִכָּל־</Word>
 <Word Book='Devarim' Chapter='7' Verse='7' WordSequence='4' >הָֽעַמִּ֗ים</Word>
@@ -3427,8 +3427,8 @@
 <Word Book='Devarim' Chapter='7' Verse='11' WordSequence='9' >אָנֹכִ֧י</Word>
 <Word Book='Devarim' Chapter='7' Verse='11' WordSequence='10' >מְצַוְּךָ֛</Word>
 <Word Book='Devarim' Chapter='7' Verse='11' WordSequence='11' >הַיּ֖וֹם</Word>
-<Word Book='Devarim' Chapter='7' Verse='11' WordSequence='12' IsParashaPtuchah='true' >לַעֲשׂוֹתָֽם</Word>
-<Word Book='Devarim' Chapter='7' Verse='12' WordSequence='1' >וְהָיָ֣ה׀</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='7' Verse='11' WordSequence='12'>לַעֲשׂוֹתָֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='7' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֣ה׀</Word>
 <Word Book='Devarim' Chapter='7' Verse='12' WordSequence='2' >עֵ֣קֶב</Word>
 <Word Book='Devarim' Chapter='7' Verse='12' WordSequence='3' >תִּשְׁמְע֗וּן</Word>
 <Word Book='Devarim' Chapter='7' Verse='12' WordSequence='4' >אֵ֤ת</Word>
@@ -3517,8 +3517,8 @@
 <Word Book='Devarim' Chapter='7' Verse='16' WordSequence='18' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='7' Verse='16' WordSequence='19' >מוֹקֵ֥שׁ</Word>
 <Word Book='Devarim' Chapter='7' Verse='16' WordSequence='20' >ה֖וּא</Word>
-<Word Book='Devarim' Chapter='7' Verse='16' WordSequence='21' >לָֽךְ</Word>
-<Word Book='Devarim' Chapter='7' Verse='17' WordSequence='1' >כִּ֤י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='7' Verse='16' WordSequence='21' >לָֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='7' Verse='17' WordSequence='1' IsParashaPtuchah='true' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='7' Verse='17' WordSequence='2' >תֹאמַר֙</Word>
 <Word Book='Devarim' Chapter='7' Verse='17' WordSequence='3' >בִּלְבָ֣בְךָ֔</Word>
 <Word Book='Devarim' Chapter='7' Verse='17' WordSequence='4' >רַבִּ֛ים</Word>
@@ -3663,8 +3663,8 @@
 <Word Book='Devarim' Chapter='7' Verse='26' WordSequence='12' >תְּֽתַעֲבֶ֖נּוּ</Word>
 <Word Book='Devarim' Chapter='7' Verse='26' WordSequence='13' >כִּי־</Word>
 <Word Book='Devarim' Chapter='7' Verse='26' WordSequence='14' >חֵ֥רֶם</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='7' Verse='26' WordSequence='15' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>כָּל־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='7' Verse='26' WordSequence='15'>הֽוּא</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כָּל־</Word>
 <Word Book='Devarim' Chapter='8' Verse='1' WordSequence='2' >הַמִּצְוָ֗ה</Word>
 <Word Book='Devarim' Chapter='8' Verse='1' WordSequence='3' >אֲשֶׁ֨ר</Word>
 <Word Book='Devarim' Chapter='8' Verse='1' WordSequence='4' >אָנֹכִ֧י</Word>
@@ -3924,8 +3924,8 @@
 <Word Book='Devarim' Chapter='8' Verse='18' WordSequence='17' >נִשְׁבַּ֥ע</Word>
 <Word Book='Devarim' Chapter='8' Verse='18' WordSequence='18' >לַאֲבֹתֶ֖יךָ</Word>
 <Word Book='Devarim' Chapter='8' Verse='18' WordSequence='19' >כַּיּ֥וֹם</Word>
-<Word Book='Devarim' Chapter='8' Verse='18' WordSequence='20' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Devarim' Chapter='8' Verse='19' WordSequence='1' >וְהָיָ֗ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='8' Verse='18' WordSequence='20'>הַזֶּֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='8' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֗ה</Word>
 <Word Book='Devarim' Chapter='8' Verse='19' WordSequence='2' >אִם־</Word>
 <Word Book='Devarim' Chapter='8' Verse='19' WordSequence='3' >שָׁכֹ֤חַ</Word>
 <Word Book='Devarim' Chapter='8' Verse='19' WordSequence='4' >תִּשְׁכַּח֙</Word>
@@ -3957,8 +3957,8 @@
 <Word Book='Devarim' Chapter='8' Verse='20' WordSequence='10' >תִשְׁמְע֔וּן</Word>
 <Word Book='Devarim' Chapter='8' Verse='20' WordSequence='11' >בְּק֖וֹל</Word>
 <Word Book='Devarim' Chapter='8' Verse='20' WordSequence='12' >יְהוָ֥ה</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='8' Verse='20' WordSequence='13' IsParashaPtuchah='true' >אֱלֹהֵיכֶֽם</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>שְׁמַ֣ע</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='8' Verse='20' WordSequence='13'>אֱלֹהֵיכֶֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שְׁמַ֣ע</Word>
 <Word Book='Devarim' Chapter='9' Verse='1' WordSequence='2' >יִשְׂרָאֵ֗ל</Word>
 <Word Book='Devarim' Chapter='9' Verse='1' WordSequence='3' >אַתָּ֨ה</Word>
 <Word Book='Devarim' Chapter='9' Verse='1' WordSequence='4' >עֹבֵ֤ר</Word>
@@ -4456,8 +4456,8 @@
 <Word Book='Devarim' Chapter='9' Verse='29' WordSequence='6' >בְּכֹחֲךָ֣</Word>
 <Word Book='Devarim' Chapter='9' Verse='29' WordSequence='7' >הַגָּדֹ֔ל</Word>
 <Word Book='Devarim' Chapter='9' Verse='29' WordSequence='8' >וּבִֽזְרֹעֲךָ֖</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='9' Verse='29' WordSequence='9' IsParashaPtuchah='true' >הַנְּטוּיָֽה</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>בָּעֵ֨ת</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='9' Verse='29' WordSequence='9'>הַנְּטוּיָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בָּעֵ֨ת</Word>
 <Word Book='Devarim' Chapter='10' Verse='1' WordSequence='2' >הַהִ֜וא</Word>
 <Word Book='Devarim' Chapter='10' Verse='1' WordSequence='3' >אָמַ֧ר</Word>
 <Word Book='Devarim' Chapter='10' Verse='1' WordSequence='4' >יְהוָ֣ה</Word>
@@ -4636,8 +4636,8 @@
 <Word Book='Devarim' Chapter='10' Verse='11' WordSequence='14' >נִשְׁבַּ֥עְתִּי</Word>
 <Word Book='Devarim' Chapter='10' Verse='11' WordSequence='15' >לַאֲבֹתָ֖ם</Word>
 <Word Book='Devarim' Chapter='10' Verse='11' WordSequence='16' >לָתֵ֥ת</Word>
-<Word Book='Devarim' Chapter='10' Verse='11' WordSequence='17' IsParashaPtuchah='true' >לָהֶֽם</Word>
-<Word Book='Devarim' Chapter='10' Verse='12' WordSequence='1' >וְעַתָּה֙</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='10' Verse='11' WordSequence='17'>לָהֶֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='10' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְעַתָּה֙</Word>
 <Word Book='Devarim' Chapter='10' Verse='12' WordSequence='2' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Devarim' Chapter='10' Verse='12' WordSequence='3' >מָ֚ה</Word>
 <Word Book='Devarim' Chapter='10' Verse='12' WordSequence='4' >יְהוָ֣ה</Word>
@@ -4780,8 +4780,8 @@
 <Word Book='Devarim' Chapter='10' Verse='22' WordSequence='9' >אֱלֹהֶ֔יךָ</Word>
 <Word Book='Devarim' Chapter='10' Verse='22' WordSequence='10' >כְּכוֹכְבֵ֥י</Word>
 <Word Book='Devarim' Chapter='10' Verse='22' WordSequence='11' >הַשָּׁמַ֖יִם</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='10' Verse='22' WordSequence='12' >לָרֹֽב</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וְאָ֣הַבְתָּ֔</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='10' Verse='22' WordSequence='12'>לָרֹֽב</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וְאָ֣הַבְתָּ֔</Word>
 <Word Book='Devarim' Chapter='11' Verse='1' WordSequence='2' >אֵ֖ת</Word>
 <Word Book='Devarim' Chapter='11' Verse='1' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Devarim' Chapter='11' Verse='1' WordSequence='4' >אֱלֹהֶ֑יךָ</Word>
@@ -4928,8 +4928,8 @@
 <Word Book='Devarim' Chapter='11' Verse='9' WordSequence='13' >אֶ֛רֶץ</Word>
 <Word Book='Devarim' Chapter='11' Verse='9' WordSequence='14' >זָבַ֥ת</Word>
 <Word Book='Devarim' Chapter='11' Verse='9' WordSequence='15' >חָלָ֖ב</Word>
-<Word Book='Devarim' Chapter='11' Verse='9' WordSequence='16' >וּדְבָֽשׁ</Word>
-<Word Book='Devarim' Chapter='11' Verse='10' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='11' Verse='9' WordSequence='16' >וּדְבָֽשׁ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='11' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Devarim' Chapter='11' Verse='10' WordSequence='2' >הָאָ֗רֶץ</Word>
 <Word Book='Devarim' Chapter='11' Verse='10' WordSequence='3' >אֲשֶׁ֨ר</Word>
 <Word Book='Devarim' Chapter='11' Verse='10' WordSequence='4' >אַתָּ֤ה</Word>
@@ -4979,8 +4979,8 @@
 <Word Book='Devarim' Chapter='11' Verse='12' WordSequence='13' >הַשָּׁנָ֔ה</Word>
 <Word Book='Devarim' Chapter='11' Verse='12' WordSequence='14' >וְעַ֖ד</Word>
 <Word Book='Devarim' Chapter='11' Verse='12' WordSequence='15' >אַחֲרִ֥ית</Word>
-<Word Book='Devarim' Chapter='11' Verse='12' WordSequence='16' >שָׁנָֽה</Word>
-<Word Book='Devarim' Chapter='11' Verse='13' WordSequence='1' >וְהָיָ֗ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='11' Verse='12' WordSequence='16' >שָׁנָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='11' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֗ה</Word>
 <Word Book='Devarim' Chapter='11' Verse='13' WordSequence='2' >אִם־</Word>
 <Word Book='Devarim' Chapter='11' Verse='13' WordSequence='3' >שָׁמֹ֤עַ</Word>
 <Word Book='Devarim' Chapter='11' Verse='13' WordSequence='4' >תִּשְׁמְעוּ֙</Word>
@@ -5101,8 +5101,8 @@
 <Word Book='Devarim' Chapter='11' Verse='21' WordSequence='14' >כִּימֵ֥י</Word>
 <Word Book='Devarim' Chapter='11' Verse='21' WordSequence='15' >הַשָּׁמַ֖יִם</Word>
 <Word Book='Devarim' Chapter='11' Verse='21' WordSequence='16' >עַל־</Word>
-<Word Book='Devarim' Chapter='11' Verse='21' WordSequence='17' >הָאָֽרֶץ</Word>
-<Word Book='Devarim' Chapter='11' Verse='22' WordSequence='1' >כִּי֩</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='11' Verse='21' WordSequence='17' >הָאָֽרֶץ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='11' Verse='22' WordSequence='1' IsParashaPtuchah='true' >כִּי֩</Word>
 <Word Book='Devarim' Chapter='11' Verse='22' WordSequence='2' >אִם־</Word>
 <Word Book='Devarim' Chapter='11' Verse='22' WordSequence='3' >שָׁמֹ֨ר</Word>
 <Word Book='Devarim' Chapter='11' Verse='22' WordSequence='4' >תִּשְׁמְר֜וּן</Word>
@@ -5175,8 +5175,8 @@
 <Word Book='Devarim' Chapter='11' Verse='25' WordSequence='16' >בָ֔הּ</Word>
 <Word Book='Devarim' Chapter='11' Verse='25' WordSequence='17' >כַּאֲשֶׁ֖ר</Word>
 <Word Book='Devarim' Chapter='11' Verse='25' WordSequence='18' >דִּבֶּ֥ר</Word>
-<Word Book='Devarim' Chapter='11' Verse='25' WordSequence='19' >לָכֶֽם</Word>
-<Word Book='Devarim' Chapter='11' Verse='26' WordSequence='1' >רְאֵ֗ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='11' Verse='25' WordSequence='19' >לָכֶֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='11' Verse='26' WordSequence='1' IsParashaPtuchah='true' >רְאֵ֗ה</Word>
 <Word Book='Devarim' Chapter='11' Verse='26' WordSequence='2' >אָנֹכִ֛י</Word>
 <Word Book='Devarim' Chapter='11' Verse='26' WordSequence='3' >נֹתֵ֥ן</Word>
 <Word Book='Devarim' Chapter='11' Verse='26' WordSequence='4' >לִפְנֵיכֶ֖ם</Word>
@@ -5218,8 +5218,8 @@
 <Word Book='Devarim' Chapter='11' Verse='28' WordSequence='20' >אֲחֵרִ֖ים</Word>
 <Word Book='Devarim' Chapter='11' Verse='28' WordSequence='21' >אֲשֶׁ֥ר</Word>
 <Word Book='Devarim' Chapter='11' Verse='28' WordSequence='22' >לֹֽא־</Word>
-<Word Book='Devarim' Chapter='11' Verse='28' WordSequence='23' >יְדַעְתֶּֽם</Word>
-<Word Book='Devarim' Chapter='11' Verse='29' WordSequence='1' >וְהָיָ֗ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='11' Verse='28' WordSequence='23' >יְדַעְתֶּֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='11' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֗ה</Word>
 <Word Book='Devarim' Chapter='11' Verse='29' WordSequence='2' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='11' Verse='29' WordSequence='3' >יְבִֽיאֲךָ֙</Word>
 <Word Book='Devarim' Chapter='11' Verse='29' WordSequence='4' >יְהוָ֣ה</Word>
@@ -5288,8 +5288,8 @@
 <Word Book='Devarim' Chapter='11' Verse='32' WordSequence='9' >אָנֹכִ֛י</Word>
 <Word Book='Devarim' Chapter='11' Verse='32' WordSequence='10' >נֹתֵ֥ן</Word>
 <Word Book='Devarim' Chapter='11' Verse='32' WordSequence='11' >לִפְנֵיכֶ֖ם</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='11' Verse='32' WordSequence='12' >הַיּֽוֹם</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>אֵ֠לֶּה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='11' Verse='32' WordSequence='12'>הַיּֽוֹם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>אֵ֠לֶּה</Word>
 <Word Book='Devarim' Chapter='12' Verse='1' WordSequence='2' >הַֽחֻקִּ֣ים</Word>
 <Word Book='Devarim' Chapter='12' Verse='1' WordSequence='3' >וְהַמִּשְׁפָּטִים֮</Word>
 <Word Book='Devarim' Chapter='12' Verse='1' WordSequence='4' >אֲשֶׁ֣ר</Word>
@@ -5602,8 +5602,8 @@
 <Word Book='Devarim' Chapter='12' Verse='19' WordSequence='7' >כָּל־</Word>
 <Word Book='Devarim' Chapter='12' Verse='19' WordSequence='8' >יָמֶ֖יךָ</Word>
 <Word Book='Devarim' Chapter='12' Verse='19' WordSequence='9' >עַל־</Word>
-<Word Book='Devarim' Chapter='12' Verse='19' WordSequence='10' >אַדְמָתֶֽךָ</Word>
-<Word Book='Devarim' Chapter='12' Verse='20' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='12' Verse='19' WordSequence='10' >אַדְמָתֶֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='12' Verse='20' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='12' Verse='20' WordSequence='2' >יַרְחִיב֩</Word>
 <Word Book='Devarim' Chapter='12' Verse='20' WordSequence='3' >יְהוָ֨ה</Word>
 <Word Book='Devarim' Chapter='12' Verse='20' WordSequence='4' >אֱלֹהֶ֥יךָ</Word>
@@ -5747,8 +5747,8 @@
 <Word Book='Devarim' Chapter='12' Verse='28' WordSequence='20' >וְהַיָּשָׁ֔ר</Word>
 <Word Book='Devarim' Chapter='12' Verse='28' WordSequence='21' >בְּעֵינֵ֖י</Word>
 <Word Book='Devarim' Chapter='12' Verse='28' WordSequence='22' >יְהוָ֥ה</Word>
-<Word Book='Devarim' Chapter='12' Verse='28' WordSequence='23' >אֱלֹהֶֽיךָ</Word>
-<Word Book='Devarim' Chapter='12' Verse='29' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='12' Verse='28' WordSequence='23' >אֱלֹהֶֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='12' Verse='29' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='12' Verse='29' WordSequence='2' >יַכְרִית֩</Word>
 <Word Book='Devarim' Chapter='12' Verse='29' WordSequence='3' >יְהוָ֨ה</Word>
 <Word Book='Devarim' Chapter='12' Verse='29' WordSequence='4' >אֱלֹהֶ֜יךָ</Word>
@@ -5808,8 +5808,8 @@
 <Word Book='Devarim' Chapter='12' Verse='31' WordSequence='19' >בְּנֹ֣תֵיהֶ֔ם</Word>
 <Word Book='Devarim' Chapter='12' Verse='31' WordSequence='20' >יִשְׂרְפ֥וּ</Word>
 <Word Book='Devarim' Chapter='12' Verse='31' WordSequence='21' >בָאֵ֖שׁ</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='12' Verse='31' WordSequence='22' >לֵֽאלֹהֵיהֶֽם</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>אֵ֣ת</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='12' Verse='31' WordSequence='22'>לֵֽאלֹהֵיהֶֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>אֵ֣ת</Word>
 <Word Book='Devarim' Chapter='13' Verse='1' WordSequence='2' >כָּל־</Word>
 <Word Book='Devarim' Chapter='13' Verse='1' WordSequence='3' >הַדָּבָ֗ר</Word>
 <Word Book='Devarim' Chapter='13' Verse='1' WordSequence='4' >אֲשֶׁ֤ר</Word>
@@ -5824,8 +5824,8 @@
 <Word Book='Devarim' Chapter='13' Verse='1' WordSequence='13' >עָלָ֔יו</Word>
 <Word Book='Devarim' Chapter='13' Verse='1' WordSequence='14' >וְלֹ֥א</Word>
 <Word Book='Devarim' Chapter='13' Verse='1' WordSequence='15' >תִגְרַ֖ע</Word>
-<Word Book='Devarim' Chapter='13' Verse='1' WordSequence='16' IsParashaPtuchah='true' >מִמֶּֽנּוּ</Word>
-<Word Book='Devarim' Chapter='13' Verse='2' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='13' Verse='1' WordSequence='16'>מִמֶּֽנּוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='13' Verse='2' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='13' Verse='2' WordSequence='2' >יָק֤וּם</Word>
 <Word Book='Devarim' Chapter='13' Verse='2' WordSequence='3' >בְּקִרְבְּךָ֙</Word>
 <Word Book='Devarim' Chapter='13' Verse='2' WordSequence='4' >נָבִ֔יא</Word>
@@ -6017,8 +6017,8 @@
 <Word Book='Devarim' Chapter='13' Verse='12' WordSequence='8' >כַּדָּבָ֥ר</Word>
 <Word Book='Devarim' Chapter='13' Verse='12' WordSequence='9' >הָרָ֛ע</Word>
 <Word Book='Devarim' Chapter='13' Verse='12' WordSequence='10' >הַזֶּ֖ה</Word>
-<Word Book='Devarim' Chapter='13' Verse='12' WordSequence='11' >בְּקִרְבֶּֽךָ</Word>
-<Word Book='Devarim' Chapter='13' Verse='13' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='13' Verse='12' WordSequence='11' >בְּקִרְבֶּֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='13' Verse='13' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='13' Verse='13' WordSequence='2' >תִשְׁמַ֞ע</Word>
 <Word Book='Devarim' Chapter='13' Verse='13' WordSequence='3' >בְּאַחַ֣ת</Word>
 <Word Book='Devarim' Chapter='13' Verse='13' WordSequence='4' >עָרֶ֗יךָ</Word>
@@ -6137,8 +6137,8 @@
 <Word Book='Devarim' Chapter='13' Verse='19' WordSequence='15' >הַיָּשָׁ֔ר</Word>
 <Word Book='Devarim' Chapter='13' Verse='19' WordSequence='16' >בְּעֵינֵ֖י</Word>
 <Word Book='Devarim' Chapter='13' Verse='19' WordSequence='17' >יְהוָ֥ה</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='13' Verse='19' WordSequence='18' IsParashaPtuchah='true' >אֱלֹהֶֽיךָ</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>בָּנִ֣ים</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='13' Verse='19' WordSequence='18' >אֱלֹהֶֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בָּנִ֣ים</Word>
 <Word Book='Devarim' Chapter='14' Verse='1' WordSequence='2' >אַתֶּ֔ם</Word>
 <Word Book='Devarim' Chapter='14' Verse='1' WordSequence='3' >לַֽיהוָ֖ה</Word>
 <Word Book='Devarim' Chapter='14' Verse='1' WordSequence='4' >אֱלֹהֵיכֶ֑ם</Word>
@@ -6168,8 +6168,8 @@
 <Word Book='Devarim' Chapter='14' Verse='2' WordSequence='16' >אֲשֶׁ֖ר</Word>
 <Word Book='Devarim' Chapter='14' Verse='2' WordSequence='17' >עַל־</Word>
 <Word Book='Devarim' Chapter='14' Verse='2' WordSequence='18' >פְּנֵ֥י</Word>
-<Word Book='Devarim' Chapter='14' Verse='2' WordSequence='19' >הָאֲדָמָֽה</Word>
-<Word Book='Devarim' Chapter='14' Verse='3' WordSequence='1' >לֹ֥א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='14' Verse='2' WordSequence='19' >הָאֲדָמָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='14' Verse='3' WordSequence='1' IsParashaPtuchah='true' >לֹ֥א</Word>
 <Word Book='Devarim' Chapter='14' Verse='3' WordSequence='2' >תֹאכַ֖ל</Word>
 <Word Book='Devarim' Chapter='14' Verse='3' WordSequence='3' >כָּל־</Word>
 <Word Book='Devarim' Chapter='14' Verse='3' WordSequence='4' >תּוֹעֵבָֽה</Word>
@@ -6244,8 +6244,8 @@
 <Word Book='Devarim' Chapter='14' Verse='8' WordSequence='14' >תֹאכֵ֔לוּ</Word>
 <Word Book='Devarim' Chapter='14' Verse='8' WordSequence='15' >וּבְנִבְלָתָ֖ם</Word>
 <Word Book='Devarim' Chapter='14' Verse='8' WordSequence='16' >לֹ֥א</Word>
-<Word Book='Devarim' Chapter='14' Verse='8' WordSequence='17' >תִגָּֽעוּ</Word>
-<Word Book='Devarim' Chapter='14' Verse='9' WordSequence='1' >אֶת־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='14' Verse='8' WordSequence='17' >תִגָּֽעוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='14' Verse='9' WordSequence='1' IsParashaPtuchah='true' >אֶת־</Word>
 <Word Book='Devarim' Chapter='14' Verse='9' WordSequence='2' >זֶה֙</Word>
 <Word Book='Devarim' Chapter='14' Verse='9' WordSequence='3' >תֹּֽאכְל֔וּ</Word>
 <Word Book='Devarim' Chapter='14' Verse='9' WordSequence='4' >מִכֹּ֖ל</Word>
@@ -6267,8 +6267,8 @@
 <Word Book='Devarim' Chapter='14' Verse='10' WordSequence='8' >תֹאכֵ֑לוּ</Word>
 <Word Book='Devarim' Chapter='14' Verse='10' WordSequence='9' >טָמֵ֥א</Word>
 <Word Book='Devarim' Chapter='14' Verse='10' WordSequence='10' >ה֖וּא</Word>
-<Word Book='Devarim' Chapter='14' Verse='10' WordSequence='11' >לָכֶֽם</Word>
-<Word Book='Devarim' Chapter='14' Verse='11' WordSequence='1' >כָּל־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='14' Verse='10' WordSequence='11' >לָכֶֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='14' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כָּל־</Word>
 <Word Book='Devarim' Chapter='14' Verse='11' WordSequence='2' >צִפּ֥וֹר</Word>
 <Word Book='Devarim' Chapter='14' Verse='11' WordSequence='3' >טְהֹרָ֖ה</Word>
 <Word Book='Devarim' Chapter='14' Verse='11' WordSequence='4' >תֹּאכֵֽלוּ</Word>
@@ -6348,8 +6348,8 @@
 <Word Book='Devarim' Chapter='14' Verse='21' WordSequence='20' >תְבַשֵּׁ֥ל</Word>
 <Word Book='Devarim' Chapter='14' Verse='21' WordSequence='21' >גְּדִ֖י</Word>
 <Word Book='Devarim' Chapter='14' Verse='21' WordSequence='22' >בַּחֲלֵ֥ב</Word>
-<Word Book='Devarim' Chapter='14' Verse='21' WordSequence='23' IsParashaPtuchah='true' >אִמּֽוֹ</Word>
-<Word Book='Devarim' Chapter='14' Verse='22' WordSequence='1' >עַשֵּׂ֣ר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='14' Verse='21' WordSequence='23'>אִמּֽוֹ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='14' Verse='22' WordSequence='1' IsParashaPtuchah='true' >עַשֵּׂ֣ר</Word>
 <Word Book='Devarim' Chapter='14' Verse='22' WordSequence='2' >תְּעַשֵּׂ֔ר</Word>
 <Word Book='Devarim' Chapter='14' Verse='22' WordSequence='3' >אֵ֖ת</Word>
 <Word Book='Devarim' Chapter='14' Verse='22' WordSequence='4' >כָּל־</Word>
@@ -6452,8 +6452,8 @@
 <Word Book='Devarim' Chapter='14' Verse='27' WordSequence='8' >ל֛וֹ</Word>
 <Word Book='Devarim' Chapter='14' Verse='27' WordSequence='9' >חֵ֥לֶק</Word>
 <Word Book='Devarim' Chapter='14' Verse='27' WordSequence='10' >וְנַחֲלָ֖ה</Word>
-<Word Book='Devarim' Chapter='14' Verse='27' WordSequence='11' >עִמָּֽךְ</Word>
-<Word Book='Devarim' Chapter='14' Verse='28' WordSequence='1' >מִקְצֵ֣ה׀</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='14' Verse='27' WordSequence='11' >עִמָּֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='14' Verse='28' WordSequence='1' IsParashaPtuchah='true' >מִקְצֵ֣ה׀</Word>
 <Word Book='Devarim' Chapter='14' Verse='28' WordSequence='2' >שָׁלֹ֣שׁ</Word>
 <Word Book='Devarim' Chapter='14' Verse='28' WordSequence='3' >שָׁנִ֗ים</Word>
 <Word Book='Devarim' Chapter='14' Verse='28' WordSequence='4' >תּוֹצִיא֙</Word>
@@ -6488,8 +6488,8 @@
 <Word Book='Devarim' Chapter='14' Verse='29' WordSequence='21' >מַעֲשֵׂ֥ה</Word>
 <Word Book='Devarim' Chapter='14' Verse='29' WordSequence='22' >יָדְךָ֖</Word>
 <Word Book='Devarim' Chapter='14' Verse='29' WordSequence='23' >אֲשֶׁ֥ר</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='14' Verse='29' WordSequence='24' IsParashaPtuchah='true' >תַּעֲשֶֽׂה</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>מִקֵּ֥ץ</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='14' Verse='29' WordSequence='24' >תַּעֲשֶֽׂה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >מִקֵּ֥ץ</Word>
 <Word Book='Devarim' Chapter='15' Verse='1' WordSequence='2' >שֶֽׁבַע־</Word>
 <Word Book='Devarim' Chapter='15' Verse='1' WordSequence='3' >שָׁנִ֖ים</Word>
 <Word Book='Devarim' Chapter='15' Verse='1' WordSequence='4' >תַּעֲשֶׂ֥ה</Word>
@@ -6578,8 +6578,8 @@
 <Word Book='Devarim' Chapter='15' Verse='6' WordSequence='16' >רַבִּ֔ים</Word>
 <Word Book='Devarim' Chapter='15' Verse='6' WordSequence='17' >וּבְךָ֖</Word>
 <Word Book='Devarim' Chapter='15' Verse='6' WordSequence='18' >לֹ֥א</Word>
-<Word Book='Devarim' Chapter='15' Verse='6' WordSequence='19' >יִמְשֹֽׁלוּ</Word>
-<Word Book='Devarim' Chapter='15' Verse='7' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='15' Verse='6' WordSequence='19' >יִמְשֹֽׁלוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='15' Verse='7' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='15' Verse='7' WordSequence='2' >יִהְיֶה֩</Word>
 <Word Book='Devarim' Chapter='15' Verse='7' WordSequence='3' >בְךָ֨</Word>
 <Word Book='Devarim' Chapter='15' Verse='7' WordSequence='4' >אֶבְי֜וֹן</Word>
@@ -6682,8 +6682,8 @@
 <Word Book='Devarim' Chapter='15' Verse='11' WordSequence='16' >לְאָחִ֧יךָ</Word>
 <Word Book='Devarim' Chapter='15' Verse='11' WordSequence='17' >לַעֲנִיֶּ֛ךָ</Word>
 <Word Book='Devarim' Chapter='15' Verse='11' WordSequence='18' >וּלְאֶבְיֹנְךָ֖</Word>
-<Word Book='Devarim' Chapter='15' Verse='11' WordSequence='19' >בְּאַרְצֶֽךָ</Word>
-<Word Book='Devarim' Chapter='15' Verse='12' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='15' Verse='11' WordSequence='19' >בְּאַרְצֶֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='15' Verse='12' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='15' Verse='12' WordSequence='2' >יִמָּכֵ֨ר</Word>
 <Word Book='Devarim' Chapter='15' Verse='12' WordSequence='3' >לְךָ֜</Word>
 <Word Book='Devarim' Chapter='15' Verse='12' WordSequence='4' >אָחִ֣יךָ</Word>
@@ -6782,8 +6782,8 @@
 <Word Book='Devarim' Chapter='15' Verse='18' WordSequence='17' >אֱלֹהֶ֔יךָ</Word>
 <Word Book='Devarim' Chapter='15' Verse='18' WordSequence='18' >בְּכֹ֖ל</Word>
 <Word Book='Devarim' Chapter='15' Verse='18' WordSequence='19' >אֲשֶׁ֥ר</Word>
-<Word Book='Devarim' Chapter='15' Verse='18' WordSequence='20' IsParashaPtuchah='true' >תַּעֲשֶֽׂה</Word>
-<Word Book='Devarim' Chapter='15' Verse='19' WordSequence='1' >כָּֽל־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='15' Verse='18' WordSequence='20'>תַּעֲשֶֽׂה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='15' Verse='19' WordSequence='1' IsParashaPtuchah='true' >כָּֽל־</Word>
 <Word Book='Devarim' Chapter='15' Verse='19' WordSequence='2' >הַבְּכ֡וֹר</Word>
 <Word Book='Devarim' Chapter='15' Verse='19' WordSequence='3' >אֲשֶׁר֩</Word>
 <Word Book='Devarim' Chapter='15' Verse='19' WordSequence='4' >יִוָּלֵ֨ד</Word>
@@ -6842,8 +6842,8 @@
 <Word Book='Devarim' Chapter='15' Verse='23' WordSequence='6' >עַל־</Word>
 <Word Book='Devarim' Chapter='15' Verse='23' WordSequence='7' >הָאָ֥רֶץ</Word>
 <Word Book='Devarim' Chapter='15' Verse='23' WordSequence='8' >תִּשְׁפְּכֶ֖נּוּ</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='15' Verse='23' WordSequence='9' IsParashaPtuchah='true' >כַּמָּֽיִם</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>שָׁמוֹר֙</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='15' Verse='23' WordSequence='9'>כַּמָּֽיִם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שָׁמוֹר֙</Word>
 <Word Book='Devarim' Chapter='16' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Devarim' Chapter='16' Verse='1' WordSequence='3' >חֹ֣דֶשׁ</Word>
 <Word Book='Devarim' Chapter='16' Verse='1' WordSequence='4' >הָאָבִ֔יב</Word>
@@ -6971,8 +6971,8 @@
 <Word Book='Devarim' Chapter='16' Verse='8' WordSequence='9' >אֱלֹהֶ֔יךָ</Word>
 <Word Book='Devarim' Chapter='16' Verse='8' WordSequence='10' >לֹ֥א</Word>
 <Word Book='Devarim' Chapter='16' Verse='8' WordSequence='11' >תַעֲשֶׂ֖ה</Word>
-<Word Book='Devarim' Chapter='16' Verse='8' WordSequence='12' >מְלָאכָֽה</Word>
-<Word Book='Devarim' Chapter='16' Verse='9' WordSequence='1' >שִׁבְעָ֥ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='16' Verse='8' WordSequence='12' >מְלָאכָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='16' Verse='9' WordSequence='1' IsParashaPtuchah='true' >שִׁבְעָ֥ה</Word>
 <Word Book='Devarim' Chapter='16' Verse='9' WordSequence='2' >שָׁבֻעֹ֖ת</Word>
 <Word Book='Devarim' Chapter='16' Verse='9' WordSequence='3' >תִּסְפָּר־</Word>
 <Word Book='Devarim' Chapter='16' Verse='9' WordSequence='4' >לָ֑ךְ</Word>
@@ -7031,8 +7031,8 @@
 <Word Book='Devarim' Chapter='16' Verse='12' WordSequence='7' >וְעָשִׂ֔יתָ</Word>
 <Word Book='Devarim' Chapter='16' Verse='12' WordSequence='8' >אֶת־</Word>
 <Word Book='Devarim' Chapter='16' Verse='12' WordSequence='9' >הַֽחֻקִּ֖ים</Word>
-<Word Book='Devarim' Chapter='16' Verse='12' WordSequence='10' IsParashaPtuchah='true' >הָאֵֽלֶּה</Word>
-<Word Book='Devarim' Chapter='16' Verse='13' WordSequence='1' >חַ֧ג</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='16' Verse='12' WordSequence='10'>הָאֵֽלֶּה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='16' Verse='13' WordSequence='1' IsParashaPtuchah='true' >חַ֧ג</Word>
 <Word Book='Devarim' Chapter='16' Verse='13' WordSequence='2' >הַסֻּכֹּ֛ת</Word>
 <Word Book='Devarim' Chapter='16' Verse='13' WordSequence='3' >תַּעֲשֶׂ֥ה</Word>
 <Word Book='Devarim' Chapter='16' Verse='13' WordSequence='4' >לְךָ֖</Word>
@@ -7108,8 +7108,8 @@
 <Word Book='Devarim' Chapter='16' Verse='17' WordSequence='6' >אֱלֹהֶ֖יךָ</Word>
 <Word Book='Devarim' Chapter='16' Verse='17' WordSequence='7' >אֲשֶׁ֥ר</Word>
 <Word Book='Devarim' Chapter='16' Verse='17' WordSequence='8' >נָֽתַן־</Word>
-<Word Book='Devarim' Chapter='16' Verse='17' WordSequence='9' >לָֽךְ</Word>
-<Word Book='Devarim' Chapter='16' Verse='18' WordSequence='1' >שֹׁפְטִ֣ים</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='16' Verse='17' WordSequence='9' >לָֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='16' Verse='18' WordSequence='1' IsParashaPtuchah='true' >שֹׁפְטִ֣ים</Word>
 <Word Book='Devarim' Chapter='16' Verse='18' WordSequence='2' >וְשֹֽׁטְרִ֗ים</Word>
 <Word Book='Devarim' Chapter='16' Verse='18' WordSequence='3' >תִּֽתֶּן־</Word>
 <Word Book='Devarim' Chapter='16' Verse='18' WordSequence='4' >לְךָ֙</Word>
@@ -7155,8 +7155,8 @@
 <Word Book='Devarim' Chapter='16' Verse='20' WordSequence='10' >יְהוָ֥ה</Word>
 <Word Book='Devarim' Chapter='16' Verse='20' WordSequence='11' >אֱלֹהֶ֖יךָ</Word>
 <Word Book='Devarim' Chapter='16' Verse='20' WordSequence='12' >נֹתֵ֥ן</Word>
-<Word Book='Devarim' Chapter='16' Verse='20' WordSequence='13' >לָֽךְ</Word>
-<Word Book='Devarim' Chapter='16' Verse='21' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='16' Verse='20' WordSequence='13' >לָֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='16' Verse='21' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='16' Verse='21' WordSequence='2' >תִטַּ֥ע</Word>
 <Word Book='Devarim' Chapter='16' Verse='21' WordSequence='3' >לְךָ֛</Word>
 <Word Book='Devarim' Chapter='16' Verse='21' WordSequence='4' >אֲשֵׁרָ֖ה</Word>
@@ -7168,16 +7168,16 @@
 <Word Book='Devarim' Chapter='16' Verse='21' WordSequence='10' >אֱלֹהֶ֖יךָ</Word>
 <Word Book='Devarim' Chapter='16' Verse='21' WordSequence='11' >אֲשֶׁ֥ר</Word>
 <Word Book='Devarim' Chapter='16' Verse='21' WordSequence='12' >תַּעֲשֶׂה־</Word>
-<Word Book='Devarim' Chapter='16' Verse='21' WordSequence='13' >לָּֽךְ</Word>
-<Word Book='Devarim' Chapter='16' Verse='22' WordSequence='1' >וְלֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='16' Verse='21' WordSequence='13' >לָּֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='16' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וְלֹֽא־</Word>
 <Word Book='Devarim' Chapter='16' Verse='22' WordSequence='2' >תָקִ֥ים</Word>
 <Word Book='Devarim' Chapter='16' Verse='22' WordSequence='3' >לְךָ֖</Word>
 <Word Book='Devarim' Chapter='16' Verse='22' WordSequence='4' >מַצֵּבָ֑ה</Word>
 <Word Book='Devarim' Chapter='16' Verse='22' WordSequence='5' >אֲשֶׁ֥ר</Word>
 <Word Book='Devarim' Chapter='16' Verse='22' WordSequence='6' >שָׂנֵ֖א</Word>
 <Word Book='Devarim' Chapter='16' Verse='22' WordSequence='7' >יְהוָ֥ה</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='16' Verse='22' WordSequence='8' IsParashaPtuchah='true' >אֱלֹהֶֽיךָ</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='16' Verse='22' WordSequence='8' >אֱלֹהֶֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='17' Verse='1' WordSequence='2' >תִזְבַּח֩</Word>
 <Word Book='Devarim' Chapter='17' Verse='1' WordSequence='3' >לַיהוָ֨ה</Word>
 <Word Book='Devarim' Chapter='17' Verse='1' WordSequence='4' >אֱלֹהֶ֜יךָ</Word>
@@ -7194,8 +7194,8 @@
 <Word Book='Devarim' Chapter='17' Verse='1' WordSequence='15' >תוֹעֲבַ֛ת</Word>
 <Word Book='Devarim' Chapter='17' Verse='1' WordSequence='16' >יְהוָ֥ה</Word>
 <Word Book='Devarim' Chapter='17' Verse='1' WordSequence='17' >אֱלֹהֶ֖יךָ</Word>
-<Word Book='Devarim' Chapter='17' Verse='1' WordSequence='18' >הֽוּא</Word>
-<Word Book='Devarim' Chapter='17' Verse='2' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='17' Verse='1' WordSequence='18' >הֽוּא</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='17' Verse='2' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='17' Verse='2' WordSequence='2' >יִמָּצֵ֤א</Word>
 <Word Book='Devarim' Chapter='17' Verse='2' WordSequence='3' >בְקִרְבְּךָ֙</Word>
 <Word Book='Devarim' Chapter='17' Verse='2' WordSequence='4' >בְּאַחַ֣ד</Word>
@@ -7297,8 +7297,8 @@
 <Word Book='Devarim' Chapter='17' Verse='7' WordSequence='10' >בָּאַחֲרֹנָ֑ה</Word>
 <Word Book='Devarim' Chapter='17' Verse='7' WordSequence='11' >וּבִֽעַרְתָּ֥</Word>
 <Word Book='Devarim' Chapter='17' Verse='7' WordSequence='12' >הָרָ֖ע</Word>
-<Word Book='Devarim' Chapter='17' Verse='7' WordSequence='13' IsParashaPtuchah='true' >מִקִּרְבֶּֽךָ</Word>
-<Word Book='Devarim' Chapter='17' Verse='8' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='17' Verse='7' WordSequence='13'>מִקִּרְבֶּֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='17' Verse='8' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Devarim' Chapter='17' Verse='8' WordSequence='2' >יִפָּלֵא֩</Word>
 <Word Book='Devarim' Chapter='17' Verse='8' WordSequence='3' >מִמְּךָ֨</Word>
 <Word Book='Devarim' Chapter='17' Verse='8' WordSequence='4' >דָבָ֜ר</Word>
@@ -7407,8 +7407,8 @@
 <Word Book='Devarim' Chapter='17' Verse='13' WordSequence='4' >וְיִרָ֑אוּ</Word>
 <Word Book='Devarim' Chapter='17' Verse='13' WordSequence='5' >וְלֹ֥א</Word>
 <Word Book='Devarim' Chapter='17' Verse='13' WordSequence='6' >יְזִיד֖וּן</Word>
-<Word Book='Devarim' Chapter='17' Verse='13' WordSequence='7' >עֽוֹד</Word>
-<Word Book='Devarim' Chapter='17' Verse='14' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='17' Verse='13' WordSequence='7' >עֽוֹד</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='17' Verse='14' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='17' Verse='14' WordSequence='2' >תָבֹ֣א</Word>
 <Word Book='Devarim' Chapter='17' Verse='14' WordSequence='3' >אֶל־</Word>
 <Word Book='Devarim' Chapter='17' Verse='14' WordSequence='4' >הָאָ֗רֶץ</Word>
@@ -7544,8 +7544,8 @@
 <Word Book='Devarim' Chapter='17' Verse='20' WordSequence='16' >ה֥וּא</Word>
 <Word Book='Devarim' Chapter='17' Verse='20' WordSequence='17' >וּבָנָ֖יו</Word>
 <Word Book='Devarim' Chapter='17' Verse='20' WordSequence='18' >בְּקֶ֥רֶב</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='17' Verse='20' WordSequence='19' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='17' Verse='20' WordSequence='19' >יִשְׂרָאֵֽל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='18' Verse='1' WordSequence='2' >יִ֠הְיֶה</Word>
 <Word Book='Devarim' Chapter='18' Verse='1' WordSequence='3' >לַכֹּהֲנִ֨ים</Word>
 <Word Book='Devarim' Chapter='18' Verse='1' WordSequence='4' >הַלְוִיִּ֜ם</Word>
@@ -7571,8 +7571,8 @@
 <Word Book='Devarim' Chapter='18' Verse='2' WordSequence='9' >נַחֲלָת֔וֹ</Word>
 <Word Book='Devarim' Chapter='18' Verse='2' WordSequence='10' >כַּאֲשֶׁ֖ר</Word>
 <Word Book='Devarim' Chapter='18' Verse='2' WordSequence='11' >דִּבֶּר־</Word>
-<Word Book='Devarim' Chapter='18' Verse='2' WordSequence='12' >לֽוֹ</Word>
-<Word Book='Devarim' Chapter='18' Verse='3' WordSequence='1' >וְזֶ֡ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='18' Verse='2' WordSequence='12' >לֽוֹ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='18' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וְזֶ֡ה</Word>
 <Word Book='Devarim' Chapter='18' Verse='3' WordSequence='2' >יִהְיֶה֩</Word>
 <Word Book='Devarim' Chapter='18' Verse='3' WordSequence='3' >מִשְׁפַּ֨ט</Word>
 <Word Book='Devarim' Chapter='18' Verse='3' WordSequence='4' >הַכֹּהֲנִ֜ים</Word>
@@ -7613,8 +7613,8 @@
 <Word Book='Devarim' Chapter='18' Verse='5' WordSequence='12' >ה֥וּא</Word>
 <Word Book='Devarim' Chapter='18' Verse='5' WordSequence='13' >וּבָנָ֖יו</Word>
 <Word Book='Devarim' Chapter='18' Verse='5' WordSequence='14' >כָּל־</Word>
-<Word Book='Devarim' Chapter='18' Verse='5' WordSequence='15' >הַיָּמִֽים</Word>
-<Word Book='Devarim' Chapter='18' Verse='6' WordSequence='1' >וְכִֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='18' Verse='5' WordSequence='15' >הַיָּמִֽים</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='18' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וְכִֽי־</Word>
 <Word Book='Devarim' Chapter='18' Verse='6' WordSequence='2' >יָבֹ֨א</Word>
 <Word Book='Devarim' Chapter='18' Verse='6' WordSequence='3' >הַלֵּוִ֜י</Word>
 <Word Book='Devarim' Chapter='18' Verse='6' WordSequence='4' >מֵאַחַ֤ד</Word>
@@ -7651,8 +7651,8 @@
 <Word Book='Devarim' Chapter='18' Verse='8' WordSequence='4' >לְבַ֥ד</Word>
 <Word Book='Devarim' Chapter='18' Verse='8' WordSequence='5' >מִמְכָּרָ֖יו</Word>
 <Word Book='Devarim' Chapter='18' Verse='8' WordSequence='6' >עַל־</Word>
-<Word Book='Devarim' Chapter='18' Verse='8' WordSequence='7' >הָאָבֽוֹת</Word>
-<Word Book='Devarim' Chapter='18' Verse='9' WordSequence='1' >כִּ֤י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='18' Verse='8' WordSequence='7' >הָאָבֽוֹת</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='18' Verse='9' WordSequence='1' IsParashaPtuchah='true' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='18' Verse='9' WordSequence='2' >אַתָּה֙</Word>
 <Word Book='Devarim' Chapter='18' Verse='9' WordSequence='3' >בָּ֣א</Word>
 <Word Book='Devarim' Chapter='18' Verse='9' WordSequence='4' >אֶל־</Word>
@@ -7706,8 +7706,8 @@
 <Word Book='Devarim' Chapter='18' Verse='13' WordSequence='2' >תִּֽהְיֶ֔ה</Word>
 <Word Book='Devarim' Chapter='18' Verse='13' WordSequence='3' >עִ֖ם</Word>
 <Word Book='Devarim' Chapter='18' Verse='13' WordSequence='4' >יְהוָ֥ה</Word>
-<Word Book='Devarim' Chapter='18' Verse='13' WordSequence='5' >אֱלֹהֶֽיךָ</Word>
-<Word Book='Devarim' Chapter='18' Verse='14' WordSequence='1' >כִּ֣י׀</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='18' Verse='13' WordSequence='5' >אֱלֹהֶֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='18' Verse='14' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י׀</Word>
 <Word Book='Devarim' Chapter='18' Verse='14' WordSequence='2' >הַגּוֹיִ֣ם</Word>
 <Word Book='Devarim' Chapter='18' Verse='14' WordSequence='3' >הָאֵ֗לֶּה</Word>
 <Word Book='Devarim' Chapter='18' Verse='14' WordSequence='4' >אֲשֶׁ֤ר</Word>
@@ -7848,8 +7848,8 @@
 <Word Book='Devarim' Chapter='18' Verse='22' WordSequence='19' >הַנָּבִ֔יא</Word>
 <Word Book='Devarim' Chapter='18' Verse='22' WordSequence='20' >לֹ֥א</Word>
 <Word Book='Devarim' Chapter='18' Verse='22' WordSequence='21' >תָג֖וּר</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='18' Verse='22' WordSequence='22' IsParashaPtuchah='true' >מִמֶּֽנּוּ</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='18' Verse='22' WordSequence='22' >מִמֶּֽנּוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='19' Verse='1' WordSequence='2' >יַכְרִ֞ית</Word>
 <Word Book='Devarim' Chapter='19' Verse='1' WordSequence='3' >יְהוָ֤ה</Word>
 <Word Book='Devarim' Chapter='19' Verse='1' WordSequence='4' >אֱלֹהֶ֙יךָ֙</Word>
@@ -7974,8 +7974,8 @@
 <Word Book='Devarim' Chapter='19' Verse='7' WordSequence='6' >שָׁלֹ֥שׁ</Word>
 <Word Book='Devarim' Chapter='19' Verse='7' WordSequence='7' >עָרִ֖ים</Word>
 <Word Book='Devarim' Chapter='19' Verse='7' WordSequence='8' >תַּבְדִּ֥יל</Word>
-<Word Book='Devarim' Chapter='19' Verse='7' WordSequence='9' >לָֽךְ</Word>
-<Word Book='Devarim' Chapter='19' Verse='8' WordSequence='1' >וְאִם־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='19' Verse='7' WordSequence='9' >לָֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='19' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וְאִם־</Word>
 <Word Book='Devarim' Chapter='19' Verse='8' WordSequence='2' >יַרְחִ֞יב</Word>
 <Word Book='Devarim' Chapter='19' Verse='8' WordSequence='3' >יְהוָ֤ה</Word>
 <Word Book='Devarim' Chapter='19' Verse='8' WordSequence='4' >אֱלֹהֶ֙יךָ֙</Word>
@@ -8034,8 +8034,8 @@
 <Word Book='Devarim' Chapter='19' Verse='10' WordSequence='12' >נַחֲלָ֑ה</Word>
 <Word Book='Devarim' Chapter='19' Verse='10' WordSequence='13' >וְהָיָ֥ה</Word>
 <Word Book='Devarim' Chapter='19' Verse='10' WordSequence='14' >עָלֶ֖יךָ</Word>
-<Word Book='Devarim' Chapter='19' Verse='10' WordSequence='15' >דָּמִֽים</Word>
-<Word Book='Devarim' Chapter='19' Verse='11' WordSequence='1' >וְכִֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='19' Verse='10' WordSequence='15' >דָּמִֽים</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='19' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וְכִֽי־</Word>
 <Word Book='Devarim' Chapter='19' Verse='11' WordSequence='2' >יִהְיֶ֥ה</Word>
 <Word Book='Devarim' Chapter='19' Verse='11' WordSequence='3' >אִישׁ֙</Word>
 <Word Book='Devarim' Chapter='19' Verse='11' WordSequence='4' >שֹׂנֵ֣א</Word>
@@ -8073,8 +8073,8 @@
 <Word Book='Devarim' Chapter='19' Verse='13' WordSequence='7' >הַנָּקִ֛י</Word>
 <Word Book='Devarim' Chapter='19' Verse='13' WordSequence='8' >מִיִּשְׂרָאֵ֖ל</Word>
 <Word Book='Devarim' Chapter='19' Verse='13' WordSequence='9' >וְט֥וֹב</Word>
-<Word Book='Devarim' Chapter='19' Verse='13' WordSequence='10' >לָֽךְ</Word>
-<Word Book='Devarim' Chapter='19' Verse='14' WordSequence='1' >לֹ֤א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='19' Verse='13' WordSequence='10' >לָֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='19' Verse='14' WordSequence='1' IsParashaPtuchah='true' >לֹ֤א</Word>
 <Word Book='Devarim' Chapter='19' Verse='14' WordSequence='2' >תַסִּיג֙</Word>
 <Word Book='Devarim' Chapter='19' Verse='14' WordSequence='3' >גְּב֣וּל</Word>
 <Word Book='Devarim' Chapter='19' Verse='14' WordSequence='4' >רֵֽעֲךָ֔</Word>
@@ -8090,8 +8090,8 @@
 <Word Book='Devarim' Chapter='19' Verse='14' WordSequence='14' >אֱלֹהֶ֔יךָ</Word>
 <Word Book='Devarim' Chapter='19' Verse='14' WordSequence='15' >נֹתֵ֥ן</Word>
 <Word Book='Devarim' Chapter='19' Verse='14' WordSequence='16' >לְךָ֖</Word>
-<Word Book='Devarim' Chapter='19' Verse='14' WordSequence='17' >לְרִשְׁתָּֽהּ</Word>
-<Word Book='Devarim' Chapter='19' Verse='15' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='19' Verse='14' WordSequence='17' >לְרִשְׁתָּֽהּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='19' Verse='15' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='19' Verse='15' WordSequence='2' >יָקוּם֩</Word>
 <Word Book='Devarim' Chapter='19' Verse='15' WordSequence='3' >עֵ֨ד</Word>
 <Word Book='Devarim' Chapter='19' Verse='15' WordSequence='4' >אֶחָ֜ד</Word>
@@ -8180,8 +8180,8 @@
 <Word Book='Devarim' Chapter='19' Verse='21' WordSequence='10' >יָ֥ד</Word>
 <Word Book='Devarim' Chapter='19' Verse='21' WordSequence='11' >בְּיָ֖ד</Word>
 <Word Book='Devarim' Chapter='19' Verse='21' WordSequence='12' >רֶ֥גֶל</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='19' Verse='21' WordSequence='13' IsParashaPtuchah='true' >בְּרָֽגֶל</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='19' Verse='21' WordSequence='13' >בְּרָֽגֶל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='20' Verse='1' WordSequence='2' >תֵצֵ֨א</Word>
 <Word Book='Devarim' Chapter='20' Verse='1' WordSequence='3' >לַמִּלְחָמָ֜ה</Word>
 <Word Book='Devarim' Chapter='20' Verse='1' WordSequence='4' >עַל־</Word>
@@ -8326,8 +8326,8 @@
 <Word Book='Devarim' Chapter='20' Verse='9' WordSequence='8' >שָׂרֵ֥י</Word>
 <Word Book='Devarim' Chapter='20' Verse='9' WordSequence='9' >צְבָא֖וֹת</Word>
 <Word Book='Devarim' Chapter='20' Verse='9' WordSequence='10' >בְּרֹ֥אשׁ</Word>
-<Word Book='Devarim' Chapter='20' Verse='9' WordSequence='11' >הָעָֽם</Word>
-<Word Book='Devarim' Chapter='20' Verse='10' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='20' Verse='9' WordSequence='11' >הָעָֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='20' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='20' Verse='10' WordSequence='2' >תִקְרַ֣ב</Word>
 <Word Book='Devarim' Chapter='20' Verse='10' WordSequence='3' >אֶל־</Word>
 <Word Book='Devarim' Chapter='20' Verse='10' WordSequence='4' >עִ֔יר</Word>
@@ -8444,8 +8444,8 @@
 <Word Book='Devarim' Chapter='20' Verse='18' WordSequence='11' >לֵֽאלֹהֵיהֶ֑ם</Word>
 <Word Book='Devarim' Chapter='20' Verse='18' WordSequence='12' >וַחֲטָאתֶ֖ם</Word>
 <Word Book='Devarim' Chapter='20' Verse='18' WordSequence='13' >לַיהוָ֥ה</Word>
-<Word Book='Devarim' Chapter='20' Verse='18' WordSequence='14' >אֱלֹהֵיכֶֽם</Word>
-<Word Book='Devarim' Chapter='20' Verse='19' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='20' Verse='18' WordSequence='14' >אֱלֹהֵיכֶֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='20' Verse='19' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='20' Verse='19' WordSequence='2' >תָצ֣וּר</Word>
 <Word Book='Devarim' Chapter='20' Verse='19' WordSequence='3' >אֶל־</Word>
 <Word Book='Devarim' Chapter='20' Verse='19' WordSequence='4' >עִיר֩</Word>
@@ -8496,8 +8496,8 @@
 <Word Book='Devarim' Chapter='20' Verse='20' WordSequence='20' >עִמְּךָ֛</Word>
 <Word Book='Devarim' Chapter='20' Verse='20' WordSequence='21' >מִלְחָמָ֖ה</Word>
 <Word Book='Devarim' Chapter='20' Verse='20' WordSequence='22' >עַ֥ד</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='20' Verse='20' WordSequence='23' IsParashaPtuchah='true' >רִדְתָּֽהּ</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>כִּי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='20' Verse='20' WordSequence='23'>רִדְתָּֽהּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כִּי־</Word>
 <Word Book='Devarim' Chapter='21' Verse='1' WordSequence='2' >יִמָּצֵ֣א</Word>
 <Word Book='Devarim' Chapter='21' Verse='1' WordSequence='3' >חָלָ֗ל</Word>
 <Word Book='Devarim' Chapter='21' Verse='1' WordSequence='4' >בָּאֲדָמָה֙</Word>
@@ -8632,8 +8632,8 @@
 <Word Book='Devarim' Chapter='21' Verse='9' WordSequence='7' >תַעֲשֶׂ֥ה</Word>
 <Word Book='Devarim' Chapter='21' Verse='9' WordSequence='8' >הַיָּשָׁ֖ר</Word>
 <Word Book='Devarim' Chapter='21' Verse='9' WordSequence='9' >בְּעֵינֵ֥י</Word>
-<Word Book='Devarim' Chapter='21' Verse='9' WordSequence='10' >יְהוָֽה</Word>
-<Word Book='Devarim' Chapter='21' Verse='10' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='21' Verse='9' WordSequence='10' >יְהוָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='21' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='21' Verse='10' WordSequence='2' >תֵצֵ֥א</Word>
 <Word Book='Devarim' Chapter='21' Verse='10' WordSequence='3' >לַמִּלְחָמָ֖ה</Word>
 <Word Book='Devarim' Chapter='21' Verse='10' WordSequence='4' >עַל־</Word>
@@ -8702,8 +8702,8 @@
 <Word Book='Devarim' Chapter='21' Verse='14' WordSequence='14' >בָּ֔הּ</Word>
 <Word Book='Devarim' Chapter='21' Verse='14' WordSequence='15' >תַּ֖חַת</Word>
 <Word Book='Devarim' Chapter='21' Verse='14' WordSequence='16' >אֲשֶׁ֥ר</Word>
-<Word Book='Devarim' Chapter='21' Verse='14' WordSequence='17' >עִנִּיתָֽהּ</Word>
-<Word Book='Devarim' Chapter='21' Verse='15' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='21' Verse='14' WordSequence='17' >עִנִּיתָֽהּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='21' Verse='15' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='21' Verse='15' WordSequence='2' >תִהְיֶ֨יןָ</Word>
 <Word Book='Devarim' Chapter='21' Verse='15' WordSequence='3' >לְאִ֜ישׁ</Word>
 <Word Book='Devarim' Chapter='21' Verse='15' WordSequence='4' >שְׁתֵּ֣י</Word>
@@ -8761,8 +8761,8 @@
 <Word Book='Devarim' Chapter='21' Verse='17' WordSequence='18' >אֹנ֔וֹ</Word>
 <Word Book='Devarim' Chapter='21' Verse='17' WordSequence='19' >ל֖וֹ</Word>
 <Word Book='Devarim' Chapter='21' Verse='17' WordSequence='20' >מִשְׁפַּ֥ט</Word>
-<Word Book='Devarim' Chapter='21' Verse='17' WordSequence='21' >הַבְּכֹרָֽה</Word>
-<Word Book='Devarim' Chapter='21' Verse='18' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='21' Verse='17' WordSequence='21' >הַבְּכֹרָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='21' Verse='18' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='21' Verse='18' WordSequence='2' >יִהְיֶ֣ה</Word>
 <Word Book='Devarim' Chapter='21' Verse='18' WordSequence='3' >לְאִ֗ישׁ</Word>
 <Word Book='Devarim' Chapter='21' Verse='18' WordSequence='4' >בֵּ֚ן</Word>
@@ -8816,8 +8816,8 @@
 <Word Book='Devarim' Chapter='21' Verse='21' WordSequence='10' >וְכָל־</Word>
 <Word Book='Devarim' Chapter='21' Verse='21' WordSequence='11' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Devarim' Chapter='21' Verse='21' WordSequence='12' >יִשְׁמְע֥וּ</Word>
-<Word Book='Devarim' Chapter='21' Verse='21' WordSequence='13' >וְיִרָֽאוּ</Word>
-<Word Book='Devarim' Chapter='21' Verse='22' WordSequence='1' >וְכִֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='21' Verse='21' WordSequence='13' >וְיִרָֽאוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='21' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וְכִֽי־</Word>
 <Word Book='Devarim' Chapter='21' Verse='22' WordSequence='2' >יִהְיֶ֣ה</Word>
 <Word Book='Devarim' Chapter='21' Verse='22' WordSequence='3' >בְאִ֗ישׁ</Word>
 <Word Book='Devarim' Chapter='21' Verse='22' WordSequence='4' >חֵ֛טְא</Word>
@@ -8851,8 +8851,8 @@
 <Word Book='Devarim' Chapter='21' Verse='23' WordSequence='21' >אֱלֹהֶ֔יךָ</Word>
 <Word Book='Devarim' Chapter='21' Verse='23' WordSequence='22' >נֹתֵ֥ן</Word>
 <Word Book='Devarim' Chapter='21' Verse='23' WordSequence='23' >לְךָ֖</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='21' Verse='23' WordSequence='24' IsParashaPtuchah='true' >נַחֲלָֽה</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='21' Verse='23' WordSequence='24' >נַחֲלָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='22' Verse='1' WordSequence='2' >תִרְאֶה֩</Word>
 <Word Book='Devarim' Chapter='22' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Devarim' Chapter='22' Verse='1' WordSequence='4' >שׁ֨וֹר</Word>
@@ -8902,8 +8902,8 @@
 <Word Book='Devarim' Chapter='22' Verse='3' WordSequence='15' >וּמְצָאתָ֑הּ</Word>
 <Word Book='Devarim' Chapter='22' Verse='3' WordSequence='16' >לֹ֥א</Word>
 <Word Book='Devarim' Chapter='22' Verse='3' WordSequence='17' >תוּכַ֖ל</Word>
-<Word Book='Devarim' Chapter='22' Verse='3' WordSequence='18' >לְהִתְעַלֵּֽם</Word>
-<Word Book='Devarim' Chapter='22' Verse='4' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='3' WordSequence='18' >לְהִתְעַלֵּֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='4' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='22' Verse='4' WordSequence='2' >תִרְאֶה֩</Word>
 <Word Book='Devarim' Chapter='22' Verse='4' WordSequence='3' >אֶת־</Word>
 <Word Book='Devarim' Chapter='22' Verse='4' WordSequence='4' >חֲמ֨וֹר</Word>
@@ -8916,8 +8916,8 @@
 <Word Book='Devarim' Chapter='22' Verse='4' WordSequence='11' >מֵהֶ֑ם</Word>
 <Word Book='Devarim' Chapter='22' Verse='4' WordSequence='12' >הָקֵ֥ם</Word>
 <Word Book='Devarim' Chapter='22' Verse='4' WordSequence='13' >תָּקִ֖ים</Word>
-<Word Book='Devarim' Chapter='22' Verse='4' WordSequence='14' >עִמּֽוֹ</Word>
-<Word Book='Devarim' Chapter='22' Verse='5' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='4' WordSequence='14' >עִמּֽוֹ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='5' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='22' Verse='5' WordSequence='2' >יִהְיֶ֤ה</Word>
 <Word Book='Devarim' Chapter='22' Verse='5' WordSequence='3' >כְלִי־</Word>
 <Word Book='Devarim' Chapter='22' Verse='5' WordSequence='4' >גֶ֙בֶר֙</Word>
@@ -8934,8 +8934,8 @@
 <Word Book='Devarim' Chapter='22' Verse='5' WordSequence='15' >אֱלֹהֶ֖יךָ</Word>
 <Word Book='Devarim' Chapter='22' Verse='5' WordSequence='16' >כָּל־</Word>
 <Word Book='Devarim' Chapter='22' Verse='5' WordSequence='17' >עֹ֥שֵׂה</Word>
-<Word Book='Devarim' Chapter='22' Verse='5' WordSequence='18' IsParashaPtuchah='true' >אֵֽלֶּה</Word>
-<Word Book='Devarim' Chapter='22' Verse='6' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='5' WordSequence='18'>אֵֽלֶּה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='6' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Devarim' Chapter='22' Verse='6' WordSequence='2' >יִקָּרֵ֣א</Word>
 <Word Book='Devarim' Chapter='22' Verse='6' WordSequence='3' >קַן־</Word>
 <Word Book='Devarim' Chapter='22' Verse='6' WordSequence='4' >צִפּ֣וֹר׀</Word>
@@ -8973,8 +8973,8 @@
 <Word Book='Devarim' Chapter='22' Verse='7' WordSequence='10' >יִ֣יטַב</Word>
 <Word Book='Devarim' Chapter='22' Verse='7' WordSequence='11' >לָ֔ךְ</Word>
 <Word Book='Devarim' Chapter='22' Verse='7' WordSequence='12' >וְהַאֲרַכְתָּ֖</Word>
-<Word Book='Devarim' Chapter='22' Verse='7' WordSequence='13' >יָמִֽים</Word>
-<Word Book='Devarim' Chapter='22' Verse='8' WordSequence='1' >כִּ֤י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='7' WordSequence='13' >יָמִֽים</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='8' WordSequence='1' IsParashaPtuchah='true' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='22' Verse='8' WordSequence='2' >תִבְנֶה֙</Word>
 <Word Book='Devarim' Chapter='22' Verse='8' WordSequence='3' >בַּ֣יִת</Word>
 <Word Book='Devarim' Chapter='22' Verse='8' WordSequence='4' >חָדָ֔שׁ</Word>
@@ -8988,8 +8988,8 @@
 <Word Book='Devarim' Chapter='22' Verse='8' WordSequence='12' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='22' Verse='8' WordSequence='13' >יִפֹּ֥ל</Word>
 <Word Book='Devarim' Chapter='22' Verse='8' WordSequence='14' >הַנֹּפֵ֖ל</Word>
-<Word Book='Devarim' Chapter='22' Verse='8' WordSequence='15' >מִמֶּֽנּוּ</Word>
-<Word Book='Devarim' Chapter='22' Verse='9' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='8' WordSequence='15' >מִמֶּֽנּוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='9' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='22' Verse='9' WordSequence='2' >תִזְרַ֥ע</Word>
 <Word Book='Devarim' Chapter='22' Verse='9' WordSequence='3' >כַּרְמְךָ֖</Word>
 <Word Book='Devarim' Chapter='22' Verse='9' WordSequence='4' >כִּלְאָ֑יִם</Word>
@@ -9000,19 +9000,19 @@
 <Word Book='Devarim' Chapter='22' Verse='9' WordSequence='9' >אֲשֶׁ֣ר</Word>
 <Word Book='Devarim' Chapter='22' Verse='9' WordSequence='10' >תִּזְרָ֔ע</Word>
 <Word Book='Devarim' Chapter='22' Verse='9' WordSequence='11' >וּתְבוּאַ֖ת</Word>
-<Word Book='Devarim' Chapter='22' Verse='9' WordSequence='12' >הַכָּֽרֶם</Word>
-<Word Book='Devarim' Chapter='22' Verse='10' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='9' WordSequence='12' >הַכָּֽרֶם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='10' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='22' Verse='10' WordSequence='2' >תַחֲרֹ֥שׁ</Word>
 <Word Book='Devarim' Chapter='22' Verse='10' WordSequence='3' >בְּשׁוֹר־</Word>
 <Word Book='Devarim' Chapter='22' Verse='10' WordSequence='4' >וּבַחֲמֹ֖ר</Word>
-<Word Book='Devarim' Chapter='22' Verse='10' WordSequence='5' >יַחְדָּֽו</Word>
-<Word Book='Devarim' Chapter='22' Verse='11' WordSequence='1' >לֹ֤א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='10' WordSequence='5' >יַחְדָּֽו</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='11' WordSequence='1' IsParashaPtuchah='true' >לֹ֤א</Word>
 <Word Book='Devarim' Chapter='22' Verse='11' WordSequence='2' >תִלְבַּשׁ֙</Word>
 <Word Book='Devarim' Chapter='22' Verse='11' WordSequence='3' >שַֽׁעַטְנֵ֔ז</Word>
 <Word Book='Devarim' Chapter='22' Verse='11' WordSequence='4' >צֶ֥מֶר</Word>
 <Word Book='Devarim' Chapter='22' Verse='11' WordSequence='5' >וּפִשְׁתִּ֖ים</Word>
-<Word Book='Devarim' Chapter='22' Verse='11' WordSequence='6' >יַחְדָּֽו</Word>
-<Word Book='Devarim' Chapter='22' Verse='12' WordSequence='1' >גְּדִלִ֖ים</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='11' WordSequence='6' >יַחְדָּֽו</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='12' WordSequence='1' IsParashaPtuchah='true' >גְּדִלִ֖ים</Word>
 <Word Book='Devarim' Chapter='22' Verse='12' WordSequence='2' >תַּעֲשֶׂה־</Word>
 <Word Book='Devarim' Chapter='22' Verse='12' WordSequence='3' >לָּ֑ךְ</Word>
 <Word Book='Devarim' Chapter='22' Verse='12' WordSequence='4' >עַל־</Word>
@@ -9021,8 +9021,8 @@
 <Word Book='Devarim' Chapter='22' Verse='12' WordSequence='7' >כְּסוּתְךָ֖</Word>
 <Word Book='Devarim' Chapter='22' Verse='12' WordSequence='8' >אֲשֶׁ֥ר</Word>
 <Word Book='Devarim' Chapter='22' Verse='12' WordSequence='9' >תְּכַסֶּה־</Word>
-<Word Book='Devarim' Chapter='22' Verse='12' WordSequence='10' >בָּֽהּ</Word>
-<Word Book='Devarim' Chapter='22' Verse='13' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='12' WordSequence='10' >בָּֽהּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='13' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='22' Verse='13' WordSequence='2' >יִקַּ֥ח</Word>
 <Word Book='Devarim' Chapter='22' Verse='13' WordSequence='3' >אִ֖ישׁ</Word>
 <Word Book='Devarim' Chapter='22' Verse='13' WordSequence='4' >אִשָּׁ֑ה</Word>
@@ -9122,8 +9122,8 @@
 <Word Book='Devarim' Chapter='22' Verse='19' WordSequence='19' >יוּכַ֥ל</Word>
 <Word Book='Devarim' Chapter='22' Verse='19' WordSequence='20' >לְשַּׁלְּחָ֖הּ</Word>
 <Word Book='Devarim' Chapter='22' Verse='19' WordSequence='21' >כָּל־</Word>
-<Word Book='Devarim' Chapter='22' Verse='19' WordSequence='22' >יָמָֽיו</Word>
-<Word Book='Devarim' Chapter='22' Verse='20' WordSequence='1' >וְאִם־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='19' WordSequence='22' >יָמָֽיו</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וְאִם־</Word>
 <Word Book='Devarim' Chapter='22' Verse='20' WordSequence='2' >אֱמֶ֣ת</Word>
 <Word Book='Devarim' Chapter='22' Verse='20' WordSequence='3' >הָיָ֔ה</Word>
 <Word Book='Devarim' Chapter='22' Verse='20' WordSequence='4' >הַדָּבָ֖ר</Word>
@@ -9155,8 +9155,8 @@
 <Word Book='Devarim' Chapter='22' Verse='21' WordSequence='20' >אָבִ֑יהָ</Word>
 <Word Book='Devarim' Chapter='22' Verse='21' WordSequence='21' >וּבִֽעַרְתָּ֥</Word>
 <Word Book='Devarim' Chapter='22' Verse='21' WordSequence='22' >הָרָ֖ע</Word>
-<Word Book='Devarim' Chapter='22' Verse='21' WordSequence='23' >מִקִּרְבֶּֽךָ</Word>
-<Word Book='Devarim' Chapter='22' Verse='22' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='21' WordSequence='23' >מִקִּרְבֶּֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='22' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='22' Verse='22' WordSequence='2' >יִמָּצֵ֨א</Word>
 <Word Book='Devarim' Chapter='22' Verse='22' WordSequence='3' >אִ֜ישׁ</Word>
 <Word Book='Devarim' Chapter='22' Verse='22' WordSequence='4' >שֹׁכֵ֣ב׀</Word>
@@ -9174,8 +9174,8 @@
 <Word Book='Devarim' Chapter='22' Verse='22' WordSequence='16' >וְהָאִשָּׁ֑ה</Word>
 <Word Book='Devarim' Chapter='22' Verse='22' WordSequence='17' >וּבִֽעַרְתָּ֥</Word>
 <Word Book='Devarim' Chapter='22' Verse='22' WordSequence='18' >הָרָ֖ע</Word>
-<Word Book='Devarim' Chapter='22' Verse='22' WordSequence='19' >מִיִּשְׂרָאֵֽל</Word>
-<Word Book='Devarim' Chapter='22' Verse='23' WordSequence='1' >כִּ֤י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='22' WordSequence='19' >מִיִּשְׂרָאֵֽל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='23' WordSequence='1' IsParashaPtuchah='true' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='22' Verse='23' WordSequence='2' >יִהְיֶה֙</Word>
 <Word Book='Devarim' Chapter='22' Verse='23' WordSequence='3' >נער</Word>
 <Word Book='Devarim' Chapter='22' Verse='23' WordSequence='4' >[נַעֲרָ֣ה]</Word>
@@ -9218,8 +9218,8 @@
 <Word Book='Devarim' Chapter='22' Verse='24' WordSequence='29' >רֵעֵ֑הוּ</Word>
 <Word Book='Devarim' Chapter='22' Verse='24' WordSequence='30' >וּבִֽעַרְתָּ֥</Word>
 <Word Book='Devarim' Chapter='22' Verse='24' WordSequence='31' >הָרָ֖ע</Word>
-<Word Book='Devarim' Chapter='22' Verse='24' WordSequence='32' >מִקִּרְבֶּֽךָ</Word>
-<Word Book='Devarim' Chapter='22' Verse='25' WordSequence='1' >וְֽאִם־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='24' WordSequence='32' >מִקִּרְבֶּֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וְֽאִם־</Word>
 <Word Book='Devarim' Chapter='22' Verse='25' WordSequence='2' >בַּשָּׂדֶ֞ה</Word>
 <Word Book='Devarim' Chapter='22' Verse='25' WordSequence='3' >יִמְצָ֣א</Word>
 <Word Book='Devarim' Chapter='22' Verse='25' WordSequence='4' >הָאִ֗ישׁ</Word>
@@ -9268,8 +9268,8 @@
 <Word Book='Devarim' Chapter='22' Verse='27' WordSequence='7' >הַמְאֹ֣רָשָׂ֔ה</Word>
 <Word Book='Devarim' Chapter='22' Verse='27' WordSequence='8' >וְאֵ֥ין</Word>
 <Word Book='Devarim' Chapter='22' Verse='27' WordSequence='9' >מוֹשִׁ֖יעַ</Word>
-<Word Book='Devarim' Chapter='22' Verse='27' WordSequence='10' >לָֽהּ</Word>
-<Word Book='Devarim' Chapter='22' Verse='28' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='27' WordSequence='10' >לָֽהּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='22' Verse='28' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='22' Verse='28' WordSequence='2' >יִמְצָ֣א</Word>
 <Word Book='Devarim' Chapter='22' Verse='28' WordSequence='3' >אִ֗ישׁ</Word>
 <Word Book='Devarim' Chapter='22' Verse='28' WordSequence='4' >נער</Word>
@@ -9301,8 +9301,8 @@
 <Word Book='Devarim' Chapter='22' Verse='29' WordSequence='17' >יוּכַ֥ל</Word>
 <Word Book='Devarim' Chapter='22' Verse='29' WordSequence='18' >שַׁלְּחָ֖ה</Word>
 <Word Book='Devarim' Chapter='22' Verse='29' WordSequence='19' >כָּל־</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='22' Verse='29' WordSequence='20' IsParashaPtuchah='true' >יָמָֽיו</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='22' Verse='29' WordSequence='20' >יָמָֽיו</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='23' Verse='1' WordSequence='2' >יִקַּ֥ח</Word>
 <Word Book='Devarim' Chapter='23' Verse='1' WordSequence='3' >אִ֖ישׁ</Word>
 <Word Book='Devarim' Chapter='23' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -9311,16 +9311,16 @@
 <Word Book='Devarim' Chapter='23' Verse='1' WordSequence='7' >וְלֹ֥א</Word>
 <Word Book='Devarim' Chapter='23' Verse='1' WordSequence='8' >יְגַלֶּ֖ה</Word>
 <Word Book='Devarim' Chapter='23' Verse='1' WordSequence='9' >כְּנַ֥ף</Word>
-<Word Book='Devarim' Chapter='23' Verse='1' WordSequence='10' >אָבִֽיו</Word>
-<Word Book='Devarim' Chapter='23' Verse='2' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='1' WordSequence='10' >אָבִֽיו</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='2' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='23' Verse='2' WordSequence='2' >יָבֹ֧א</Word>
 <Word Book='Devarim' Chapter='23' Verse='2' WordSequence='3' >פְצֽוּעַ־</Word>
 <Word Book='Devarim' Chapter='23' Verse='2' WordSequence='4' >דַּכָּ֛א</Word>
 <Word Book='Devarim' Chapter='23' Verse='2' WordSequence='5' >וּכְר֥וּת</Word>
 <Word Book='Devarim' Chapter='23' Verse='2' WordSequence='6' >שָׁפְכָ֖ה</Word>
 <Word Book='Devarim' Chapter='23' Verse='2' WordSequence='7' >בִּקְהַ֥ל</Word>
-<Word Book='Devarim' Chapter='23' Verse='2' WordSequence='8' >יְהוָֽה</Word>
-<Word Book='Devarim' Chapter='23' Verse='3' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='2' WordSequence='8' >יְהוָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='3' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='23' Verse='3' WordSequence='2' >יָבֹ֥א</Word>
 <Word Book='Devarim' Chapter='23' Verse='3' WordSequence='3' >מַמְזֵ֖ר</Word>
 <Word Book='Devarim' Chapter='23' Verse='3' WordSequence='4' >בִּקְהַ֣ל</Word>
@@ -9332,8 +9332,8 @@
 <Word Book='Devarim' Chapter='23' Verse='3' WordSequence='10' >יָ֥בֹא</Word>
 <Word Book='Devarim' Chapter='23' Verse='3' WordSequence='11' >ל֖וֹ</Word>
 <Word Book='Devarim' Chapter='23' Verse='3' WordSequence='12' >בִּקְהַ֥ל</Word>
-<Word Book='Devarim' Chapter='23' Verse='3' WordSequence='13' >יְהוָֽה</Word>
-<Word Book='Devarim' Chapter='23' Verse='4' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='3' WordSequence='13' >יְהוָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='4' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='23' Verse='4' WordSequence='2' >יָבֹ֧א</Word>
 <Word Book='Devarim' Chapter='23' Verse='4' WordSequence='3' >עַמּוֹנִ֛י</Word>
 <Word Book='Devarim' Chapter='23' Verse='4' WordSequence='4' >וּמוֹאָבִ֖י</Word>
@@ -9395,8 +9395,8 @@
 <Word Book='Devarim' Chapter='23' Verse='7' WordSequence='4' >וְטֹבָתָ֑ם</Word>
 <Word Book='Devarim' Chapter='23' Verse='7' WordSequence='5' >כָּל־</Word>
 <Word Book='Devarim' Chapter='23' Verse='7' WordSequence='6' >יָמֶ֖יךָ</Word>
-<Word Book='Devarim' Chapter='23' Verse='7' WordSequence='7' >לְעוֹלָֽם</Word>
-<Word Book='Devarim' Chapter='23' Verse='8' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='7' WordSequence='7' >לְעוֹלָֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='8' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='23' Verse='8' WordSequence='2' >תְתַעֵ֣ב</Word>
 <Word Book='Devarim' Chapter='23' Verse='8' WordSequence='3' >אֲדֹמִ֔י</Word>
 <Word Book='Devarim' Chapter='23' Verse='8' WordSequence='4' >כִּ֥י</Word>
@@ -9418,8 +9418,8 @@
 <Word Book='Devarim' Chapter='23' Verse='9' WordSequence='7' >יָבֹ֥א</Word>
 <Word Book='Devarim' Chapter='23' Verse='9' WordSequence='8' >לָהֶ֖ם</Word>
 <Word Book='Devarim' Chapter='23' Verse='9' WordSequence='9' >בִּקְהַ֥ל</Word>
-<Word Book='Devarim' Chapter='23' Verse='9' WordSequence='10' >יְהוָֽה</Word>
-<Word Book='Devarim' Chapter='23' Verse='10' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='9' WordSequence='10' >יְהוָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='23' Verse='10' WordSequence='2' >תֵצֵ֥א</Word>
 <Word Book='Devarim' Chapter='23' Verse='10' WordSequence='3' >מַחֲנֶ֖ה</Word>
 <Word Book='Devarim' Chapter='23' Verse='10' WordSequence='4' >עַל־</Word>
@@ -9499,8 +9499,8 @@
 <Word Book='Devarim' Chapter='23' Verse='15' WordSequence='17' >עֶרְוַ֣ת</Word>
 <Word Book='Devarim' Chapter='23' Verse='15' WordSequence='18' >דָּבָ֔ר</Word>
 <Word Book='Devarim' Chapter='23' Verse='15' WordSequence='19' >וְשָׁ֖ב</Word>
-<Word Book='Devarim' Chapter='23' Verse='15' WordSequence='20' >מֵאַחֲרֶֽיךָ</Word>
-<Word Book='Devarim' Chapter='23' Verse='16' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='15' WordSequence='20' >מֵאַחֲרֶֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='16' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='23' Verse='16' WordSequence='2' >תַסְגִּ֥יר</Word>
 <Word Book='Devarim' Chapter='23' Verse='16' WordSequence='3' >עֶ֖בֶד</Word>
 <Word Book='Devarim' Chapter='23' Verse='16' WordSequence='4' >אֶל־</Word>
@@ -9521,8 +9521,8 @@
 <Word Book='Devarim' Chapter='23' Verse='17' WordSequence='9' >בַּטּ֣וֹב</Word>
 <Word Book='Devarim' Chapter='23' Verse='17' WordSequence='10' >ל֑וֹ</Word>
 <Word Book='Devarim' Chapter='23' Verse='17' WordSequence='11' >לֹ֖א</Word>
-<Word Book='Devarim' Chapter='23' Verse='17' WordSequence='12' >תּוֹנֶֽנּוּ</Word>
-<Word Book='Devarim' Chapter='23' Verse='18' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='17' WordSequence='12' >תּוֹנֶֽנּוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='18' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='23' Verse='18' WordSequence='2' >תִהְיֶ֥ה</Word>
 <Word Book='Devarim' Chapter='23' Verse='18' WordSequence='3' >קְדֵשָׁ֖ה</Word>
 <Word Book='Devarim' Chapter='23' Verse='18' WordSequence='4' >מִבְּנ֣וֹת</Word>
@@ -9579,8 +9579,8 @@
 <Word Book='Devarim' Chapter='23' Verse='21' WordSequence='16' >אַתָּ֥ה</Word>
 <Word Book='Devarim' Chapter='23' Verse='21' WordSequence='17' >בָא־</Word>
 <Word Book='Devarim' Chapter='23' Verse='21' WordSequence='18' >שָׁ֖מָּה</Word>
-<Word Book='Devarim' Chapter='23' Verse='21' WordSequence='19' >לְרִשְׁתָּֽהּ</Word>
-<Word Book='Devarim' Chapter='23' Verse='22' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='21' WordSequence='19' >לְרִשְׁתָּֽהּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='22' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='23' Verse='22' WordSequence='2' >תִדֹּ֥ר</Word>
 <Word Book='Devarim' Chapter='23' Verse='22' WordSequence='3' >נֶ֙דֶר֙</Word>
 <Word Book='Devarim' Chapter='23' Verse='22' WordSequence='4' >לַיהוָ֣ה</Word>
@@ -9615,8 +9615,8 @@
 <Word Book='Devarim' Chapter='23' Verse='24' WordSequence='9' >נְדָבָ֔ה</Word>
 <Word Book='Devarim' Chapter='23' Verse='24' WordSequence='10' >אֲשֶׁ֥ר</Word>
 <Word Book='Devarim' Chapter='23' Verse='24' WordSequence='11' >דִּבַּ֖רְתָּ</Word>
-<Word Book='Devarim' Chapter='23' Verse='24' WordSequence='12' >בְּפִֽיךָ</Word>
-<Word Book='Devarim' Chapter='23' Verse='25' WordSequence='1' >כִּ֤י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='24' WordSequence='12' >בְּפִֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='25' WordSequence='1' IsParashaPtuchah='true' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='23' Verse='25' WordSequence='2' >תָבֹא֙</Word>
 <Word Book='Devarim' Chapter='23' Verse='25' WordSequence='3' >בְּכֶ֣רֶם</Word>
 <Word Book='Devarim' Chapter='23' Verse='25' WordSequence='4' >רֵעֶ֔ךָ</Word>
@@ -9627,8 +9627,8 @@
 <Word Book='Devarim' Chapter='23' Verse='25' WordSequence='9' >וְאֶֽל־</Word>
 <Word Book='Devarim' Chapter='23' Verse='25' WordSequence='10' >כֶּלְיְךָ֖</Word>
 <Word Book='Devarim' Chapter='23' Verse='25' WordSequence='11' >לֹ֥א</Word>
-<Word Book='Devarim' Chapter='23' Verse='25' WordSequence='12' >תִתֵּֽן</Word>
-<Word Book='Devarim' Chapter='23' Verse='26' WordSequence='1' >כִּ֤י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='25' WordSequence='12' >תִתֵּֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='23' Verse='26' WordSequence='1' IsParashaPtuchah='true' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='23' Verse='26' WordSequence='2' >תָבֹא֙</Word>
 <Word Book='Devarim' Chapter='23' Verse='26' WordSequence='3' >בְּקָמַ֣ת</Word>
 <Word Book='Devarim' Chapter='23' Verse='26' WordSequence='4' >רֵעֶ֔ךָ</Word>
@@ -9640,8 +9640,8 @@
 <Word Book='Devarim' Chapter='23' Verse='26' WordSequence='10' >תָנִ֔יף</Word>
 <Word Book='Devarim' Chapter='23' Verse='26' WordSequence='11' >עַ֖ל</Word>
 <Word Book='Devarim' Chapter='23' Verse='26' WordSequence='12' >קָמַ֥ת</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='23' Verse='26' WordSequence='13' IsParashaPtuchah='true' >רֵעֶֽךָ</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='23' Verse='26' WordSequence='13' >רֵעֶֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='24' Verse='1' WordSequence='2' >יִקַּ֥ח</Word>
 <Word Book='Devarim' Chapter='24' Verse='1' WordSequence='3' >אִ֛ישׁ</Word>
 <Word Book='Devarim' Chapter='24' Verse='1' WordSequence='4' >אִשָּׁ֖ה</Word>
@@ -9719,8 +9719,8 @@
 <Word Book='Devarim' Chapter='24' Verse='4' WordSequence='26' >אֱלֹהֶ֔יךָ</Word>
 <Word Book='Devarim' Chapter='24' Verse='4' WordSequence='27' >נֹתֵ֥ן</Word>
 <Word Book='Devarim' Chapter='24' Verse='4' WordSequence='28' >לְךָ֖</Word>
-<Word Book='Devarim' Chapter='24' Verse='4' WordSequence='29' >נַחֲלָֽה</Word>
-<Word Book='Devarim' Chapter='24' Verse='5' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='4' WordSequence='29' >נַחֲלָֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='5' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='24' Verse='5' WordSequence='2' >יִקַּ֥ח</Word>
 <Word Book='Devarim' Chapter='24' Verse='5' WordSequence='3' >אִישׁ֙</Word>
 <Word Book='Devarim' Chapter='24' Verse='5' WordSequence='4' >אִשָּׁ֣ה</Word>
@@ -9742,16 +9742,16 @@
 <Word Book='Devarim' Chapter='24' Verse='5' WordSequence='20' >אֶת־</Word>
 <Word Book='Devarim' Chapter='24' Verse='5' WordSequence='21' >אִשְׁתּ֥וֹ</Word>
 <Word Book='Devarim' Chapter='24' Verse='5' WordSequence='22' >אֲשֶׁר־</Word>
-<Word Book='Devarim' Chapter='24' Verse='5' WordSequence='23' >לָקָֽח</Word>
-<Word Book='Devarim' Chapter='24' Verse='6' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='5' WordSequence='23' >לָקָֽח</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='6' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='24' Verse='6' WordSequence='2' >יַחֲבֹ֥ל</Word>
 <Word Book='Devarim' Chapter='24' Verse='6' WordSequence='3' >רֵחַ֖יִם</Word>
 <Word Book='Devarim' Chapter='24' Verse='6' WordSequence='4' >וָרָ֑כֶב</Word>
 <Word Book='Devarim' Chapter='24' Verse='6' WordSequence='5' >כִּי־</Word>
 <Word Book='Devarim' Chapter='24' Verse='6' WordSequence='6' >נֶ֖פֶשׁ</Word>
 <Word Book='Devarim' Chapter='24' Verse='6' WordSequence='7' >ה֥וּא</Word>
-<Word Book='Devarim' Chapter='24' Verse='6' WordSequence='8' >חֹבֵֽל</Word>
-<Word Book='Devarim' Chapter='24' Verse='7' WordSequence='1' >כִּי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='6' WordSequence='8' >חֹבֵֽל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='7' WordSequence='1' IsParashaPtuchah='true' >כִּי־</Word>
 <Word Book='Devarim' Chapter='24' Verse='7' WordSequence='2' >יִמָּצֵ֣א</Word>
 <Word Book='Devarim' Chapter='24' Verse='7' WordSequence='3' >אִ֗ישׁ</Word>
 <Word Book='Devarim' Chapter='24' Verse='7' WordSequence='4' >גֹּנֵ֨ב</Word>
@@ -9783,8 +9783,8 @@
 <Word Book='Devarim' Chapter='24' Verse='8' WordSequence='13' >כַּאֲשֶׁ֥ר</Word>
 <Word Book='Devarim' Chapter='24' Verse='8' WordSequence='14' >צִוִּיתִ֖ם</Word>
 <Word Book='Devarim' Chapter='24' Verse='8' WordSequence='15' >תִּשְׁמְר֥וּ</Word>
-<Word Book='Devarim' Chapter='24' Verse='8' WordSequence='16' >לַעֲשֽׂוֹת</Word>
-<Word Book='Devarim' Chapter='24' Verse='9' WordSequence='1' >זָכ֕וֹר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='8' WordSequence='16' >לַעֲשֽׂוֹת</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='9' WordSequence='1' IsParashaPtuchah='true' >זָכ֕וֹר</Word>
 <Word Book='Devarim' Chapter='24' Verse='9' WordSequence='2' >אֵ֧ת</Word>
 <Word Book='Devarim' Chapter='24' Verse='9' WordSequence='3' >אֲשֶׁר־</Word>
 <Word Book='Devarim' Chapter='24' Verse='9' WordSequence='4' >עָשָׂ֛ה</Word>
@@ -9793,8 +9793,8 @@
 <Word Book='Devarim' Chapter='24' Verse='9' WordSequence='7' >לְמִרְיָ֑ם</Word>
 <Word Book='Devarim' Chapter='24' Verse='9' WordSequence='8' >בַּדֶּ֖רֶךְ</Word>
 <Word Book='Devarim' Chapter='24' Verse='9' WordSequence='9' >בְּצֵאתְכֶ֥ם</Word>
-<Word Book='Devarim' Chapter='24' Verse='9' WordSequence='10' >מִמִּצְרָֽיִם</Word>
-<Word Book='Devarim' Chapter='24' Verse='10' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='9' WordSequence='10' >מִמִּצְרָֽיִם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='24' Verse='10' WordSequence='2' >תַשֶּׁ֥ה</Word>
 <Word Book='Devarim' Chapter='24' Verse='10' WordSequence='3' >בְרֵֽעֲךָ</Word>
 <Word Book='Devarim' Chapter='24' Verse='10' WordSequence='4' >מַשַּׁ֣את</Word>
@@ -9839,8 +9839,8 @@
 <Word Book='Devarim' Chapter='24' Verse='13' WordSequence='13' >צְדָקָ֔ה</Word>
 <Word Book='Devarim' Chapter='24' Verse='13' WordSequence='14' >לִפְנֵ֖י</Word>
 <Word Book='Devarim' Chapter='24' Verse='13' WordSequence='15' >יְהוָ֥ה</Word>
-<Word Book='Devarim' Chapter='24' Verse='13' WordSequence='16' >אֱלֹהֶֽיךָ</Word>
-<Word Book='Devarim' Chapter='24' Verse='14' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='13' WordSequence='16' >אֱלֹהֶֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='14' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='24' Verse='14' WordSequence='2' >תַעֲשֹׁ֥ק</Word>
 <Word Book='Devarim' Chapter='24' Verse='14' WordSequence='3' >שָׂכִ֖יר</Word>
 <Word Book='Devarim' Chapter='24' Verse='14' WordSequence='4' >עָנִ֣י</Word>
@@ -9873,8 +9873,8 @@
 <Word Book='Devarim' Chapter='24' Verse='15' WordSequence='20' >יְהוָ֔ה</Word>
 <Word Book='Devarim' Chapter='24' Verse='15' WordSequence='21' >וְהָיָ֥ה</Word>
 <Word Book='Devarim' Chapter='24' Verse='15' WordSequence='22' >בְךָ֖</Word>
-<Word Book='Devarim' Chapter='24' Verse='15' WordSequence='23' >חֵֽטְא</Word>
-<Word Book='Devarim' Chapter='24' Verse='16' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='15' WordSequence='23' >חֵֽטְא</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='16' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='24' Verse='16' WordSequence='2' >יוּמְת֤וּ</Word>
 <Word Book='Devarim' Chapter='24' Verse='16' WordSequence='3' >אָבוֹת֙</Word>
 <Word Book='Devarim' Chapter='24' Verse='16' WordSequence='4' >עַל־</Word>
@@ -9886,8 +9886,8 @@
 <Word Book='Devarim' Chapter='24' Verse='16' WordSequence='10' >אָב֑וֹת</Word>
 <Word Book='Devarim' Chapter='24' Verse='16' WordSequence='11' >אִ֥יש</Word>
 <Word Book='Devarim' Chapter='24' Verse='16' WordSequence='12' >בְּחֶטְא֖וֹ</Word>
-<Word Book='Devarim' Chapter='24' Verse='16' WordSequence='13' >יוּמָֽתוּ</Word>
-<Word Book='Devarim' Chapter='24' Verse='17' WordSequence='1' >לֹ֣א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='16' WordSequence='13' >יוּמָֽתוּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='17' WordSequence='1' IsParashaPtuchah='true' >לֹ֣א</Word>
 <Word Book='Devarim' Chapter='24' Verse='17' WordSequence='2' >תַטֶּ֔ה</Word>
 <Word Book='Devarim' Chapter='24' Verse='17' WordSequence='3' >מִשְׁפַּ֖ט</Word>
 <Word Book='Devarim' Chapter='24' Verse='17' WordSequence='4' >גֵּ֣ר</Word>
@@ -9912,8 +9912,8 @@
 <Word Book='Devarim' Chapter='24' Verse='18' WordSequence='14' >לַעֲשׂ֔וֹת</Word>
 <Word Book='Devarim' Chapter='24' Verse='18' WordSequence='15' >אֶת־</Word>
 <Word Book='Devarim' Chapter='24' Verse='18' WordSequence='16' >הַדָּבָ֖ר</Word>
-<Word Book='Devarim' Chapter='24' Verse='18' WordSequence='17' >הַזֶּֽה</Word>
-<Word Book='Devarim' Chapter='24' Verse='19' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='18' WordSequence='17' >הַזֶּֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='19' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Devarim' Chapter='24' Verse='19' WordSequence='2' >תִקְצֹר֩</Word>
 <Word Book='Devarim' Chapter='24' Verse='19' WordSequence='3' >קְצִֽירְךָ֨</Word>
 <Word Book='Devarim' Chapter='24' Verse='19' WordSequence='4' >בְשָׂדֶ֜ךָ</Word>
@@ -9943,8 +9943,8 @@
 <Word Book='Devarim' Chapter='24' Verse='20' WordSequence='7' >לַגֵּ֛ר</Word>
 <Word Book='Devarim' Chapter='24' Verse='20' WordSequence='8' >לַיָּת֥וֹם</Word>
 <Word Book='Devarim' Chapter='24' Verse='20' WordSequence='9' >וְלָאַלְמָנָ֖ה</Word>
-<Word Book='Devarim' Chapter='24' Verse='20' WordSequence='10' >יִהְיֶֽה</Word>
-<Word Book='Devarim' Chapter='24' Verse='21' WordSequence='1' >כִּ֤י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='20' WordSequence='10' >יִהְיֶֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='24' Verse='21' WordSequence='1' IsParashaPtuchah='true' >כִּ֤י</Word>
 <Word Book='Devarim' Chapter='24' Verse='21' WordSequence='2' >תִבְצֹר֙</Word>
 <Word Book='Devarim' Chapter='24' Verse='21' WordSequence='3' >כַּרְמְךָ֔</Word>
 <Word Book='Devarim' Chapter='24' Verse='21' WordSequence='4' >לֹ֥א</Word>
@@ -9967,8 +9967,8 @@
 <Word Book='Devarim' Chapter='24' Verse='22' WordSequence='11' >לַעֲשׂ֔וֹת</Word>
 <Word Book='Devarim' Chapter='24' Verse='22' WordSequence='12' >אֶת־</Word>
 <Word Book='Devarim' Chapter='24' Verse='22' WordSequence='13' >הַדָּבָ֖ר</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='24' Verse='22' WordSequence='14' IsParashaPtuchah='true' >הַזֶּֽה</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='25' Verse='1' WordSequence='1'>כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='24' Verse='22' WordSequence='14' >הַזֶּֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='25' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='25' Verse='1' WordSequence='2' >יִהְיֶ֥ה</Word>
 <Word Book='Devarim' Chapter='25' Verse='1' WordSequence='3' >רִיב֙</Word>
 <Word Book='Devarim' Chapter='25' Verse='1' WordSequence='4' >בֵּ֣ין</Word>
@@ -10008,12 +10008,12 @@
 <Word Book='Devarim' Chapter='25' Verse='3' WordSequence='11' >רַבָּ֔ה</Word>
 <Word Book='Devarim' Chapter='25' Verse='3' WordSequence='12' >וְנִקְלָ֥ה</Word>
 <Word Book='Devarim' Chapter='25' Verse='3' WordSequence='13' >אָחִ֖יךָ</Word>
-<Word Book='Devarim' Chapter='25' Verse='3' WordSequence='14' >לְעֵינֶֽיךָ</Word>
-<Word Book='Devarim' Chapter='25' Verse='4' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='25' Verse='3' WordSequence='14' >לְעֵינֶֽיךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='25' Verse='4' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='25' Verse='4' WordSequence='2' >תַחְסֹ֥ם</Word>
 <Word Book='Devarim' Chapter='25' Verse='4' WordSequence='3' >שׁ֖וֹר</Word>
-<Word Book='Devarim' Chapter='25' Verse='4' WordSequence='4' >בְּדִישֽׁוֹ</Word>
-<Word Book='Devarim' Chapter='25' Verse='5' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='25' Verse='4' WordSequence='4' >בְּדִישֽׁוֹ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='25' Verse='5' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='25' Verse='5' WordSequence='2' >יֵשְׁב֨וּ</Word>
 <Word Book='Devarim' Chapter='25' Verse='5' WordSequence='3' >אַחִ֜ים</Word>
 <Word Book='Devarim' Chapter='25' Verse='5' WordSequence='4' >יַחְדָּ֗ו</Word>
@@ -10110,8 +10110,8 @@
 <Word Book='Devarim' Chapter='25' Verse='10' WordSequence='3' >בְּיִשְׂרָאֵ֑ל</Word>
 <Word Book='Devarim' Chapter='25' Verse='10' WordSequence='4' >בֵּ֖ית</Word>
 <Word Book='Devarim' Chapter='25' Verse='10' WordSequence='5' >חֲל֥וּץ</Word>
-<Word Book='Devarim' Chapter='25' Verse='10' WordSequence='6' >הַנָּֽעַל</Word>
-<Word Book='Devarim' Chapter='25' Verse='11' WordSequence='1' >כִּֽי־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='25' Verse='10' WordSequence='6' >הַנָּֽעַל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='25' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='25' Verse='11' WordSequence='2' >יִנָּצ֨וּ</Word>
 <Word Book='Devarim' Chapter='25' Verse='11' WordSequence='3' >אֲנָשִׁ֤ים</Word>
 <Word Book='Devarim' Chapter='25' Verse='11' WordSequence='4' >יַחְדָּו֙</Word>
@@ -10134,16 +10134,16 @@
 <Word Book='Devarim' Chapter='25' Verse='12' WordSequence='3' >כַּפָּ֑הּ</Word>
 <Word Book='Devarim' Chapter='25' Verse='12' WordSequence='4' >לֹ֥א</Word>
 <Word Book='Devarim' Chapter='25' Verse='12' WordSequence='5' >תָח֖וֹס</Word>
-<Word Book='Devarim' Chapter='25' Verse='12' WordSequence='6' >עֵינֶֽךָ</Word>
-<Word Book='Devarim' Chapter='25' Verse='13' WordSequence='1' >לֹֽא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='25' Verse='12' WordSequence='6' >עֵינֶֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='25' Verse='13' WordSequence='1' IsParashaPtuchah='true' >לֹֽא־</Word>
 <Word Book='Devarim' Chapter='25' Verse='13' WordSequence='2' >יִהְיֶ֥ה</Word>
 <Word Book='Devarim' Chapter='25' Verse='13' WordSequence='3' >לְךָ֛</Word>
 <Word Book='Devarim' Chapter='25' Verse='13' WordSequence='4' >בְּכִֽיסְךָ֖</Word>
 <Word Book='Devarim' Chapter='25' Verse='13' WordSequence='5' >אֶ֣בֶן</Word>
 <Word Book='Devarim' Chapter='25' Verse='13' WordSequence='6' >וָאָ֑בֶן</Word>
 <Word Book='Devarim' Chapter='25' Verse='13' WordSequence='7' >גְּדוֹלָ֖ה</Word>
-<Word Book='Devarim' Chapter='25' Verse='13' WordSequence='8' >וּקְטַנָּֽה</Word>
-<Word Book='Devarim' Chapter='25' Verse='14' WordSequence='1' >לֹא־</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='25' Verse='13' WordSequence='8' >וּקְטַנָּֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='25' Verse='14' WordSequence='1' IsParashaPtuchah='true' >לֹא־</Word>
 <Word Book='Devarim' Chapter='25' Verse='14' WordSequence='2' >יִהְיֶ֥ה</Word>
 <Word Book='Devarim' Chapter='25' Verse='14' WordSequence='3' >לְךָ֛</Word>
 <Word Book='Devarim' Chapter='25' Verse='14' WordSequence='4' >בְּבֵיתְךָ֖</Word>
@@ -10180,8 +10180,8 @@
 <Word Book='Devarim' Chapter='25' Verse='16' WordSequence='7' >אֵ֑לֶּה</Word>
 <Word Book='Devarim' Chapter='25' Verse='16' WordSequence='8' >כֹּ֖ל</Word>
 <Word Book='Devarim' Chapter='25' Verse='16' WordSequence='9' >עֹ֥שֵׂה</Word>
-<Word Book='Devarim' Chapter='25' Verse='16' WordSequence='10' IsParashaPtuchah='true' >עָֽוֶל</Word>
-<Word Book='Devarim' Chapter='25' Verse='17' WordSequence='1' >זָכ֕וֹר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='25' Verse='16' WordSequence='10'>עָֽוֶל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='25' Verse='17' WordSequence='1' IsParashaPtuchah='true' >זָכ֕וֹר</Word>
 <Word Book='Devarim' Chapter='25' Verse='17' WordSequence='2' >אֵ֛ת</Word>
 <Word Book='Devarim' Chapter='25' Verse='17' WordSequence='3' >אֲשֶׁר־</Word>
 <Word Book='Devarim' Chapter='25' Verse='17' WordSequence='4' >עָשָׂ֥ה</Word>
@@ -10227,8 +10227,8 @@
 <Word Book='Devarim' Chapter='25' Verse='19' WordSequence='21' >מִתַּ֖חַת</Word>
 <Word Book='Devarim' Chapter='25' Verse='19' WordSequence='22' >הַשָּׁמָ֑יִם</Word>
 <Word Book='Devarim' Chapter='25' Verse='19' WordSequence='23' >לֹ֖א</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='25' Verse='19' WordSequence='24' IsParashaPtuchah='true' >תִּשְׁכָּֽח</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וְהָיָה֙</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='25' Verse='19' WordSequence='24'>תִּשְׁכָּֽח</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='26' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהָיָה֙</Word>
 <Word Book='Devarim' Chapter='26' Verse='1' WordSequence='2' >כִּֽי־</Word>
 <Word Book='Devarim' Chapter='26' Verse='1' WordSequence='3' >תָב֣וֹא</Word>
 <Word Book='Devarim' Chapter='26' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -10399,8 +10399,8 @@
 <Word Book='Devarim' Chapter='26' Verse='11' WordSequence='11' >וְהַלֵּוִ֔י</Word>
 <Word Book='Devarim' Chapter='26' Verse='11' WordSequence='12' >וְהַגֵּ֖ר</Word>
 <Word Book='Devarim' Chapter='26' Verse='11' WordSequence='13' >אֲשֶׁ֥ר</Word>
-<Word Book='Devarim' Chapter='26' Verse='11' WordSequence='14' >בְּקִרְבֶּֽךָ</Word>
-<Word Book='Devarim' Chapter='26' Verse='12' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='26' Verse='11' WordSequence='14' >בְּקִרְבֶּֽךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='26' Verse='12' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Devarim' Chapter='26' Verse='12' WordSequence='2' >תְכַלֶּ֞ה</Word>
 <Word Book='Devarim' Chapter='26' Verse='12' WordSequence='3' >לַ֠עְשֵׂר</Word>
 <Word Book='Devarim' Chapter='26' Verse='12' WordSequence='4' >אֶת־</Word>
@@ -10483,8 +10483,8 @@
 <Word Book='Devarim' Chapter='26' Verse='15' WordSequence='19' >אֶ֛רֶץ</Word>
 <Word Book='Devarim' Chapter='26' Verse='15' WordSequence='20' >זָבַ֥ת</Word>
 <Word Book='Devarim' Chapter='26' Verse='15' WordSequence='21' >חָלָ֖ב</Word>
-<Word Book='Devarim' Chapter='26' Verse='15' WordSequence='22' >וּדְבָֽשׁ</Word>
-<Word Book='Devarim' Chapter='26' Verse='16' WordSequence='1' >הַיּ֣וֹם</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='26' Verse='15' WordSequence='22' >וּדְבָֽשׁ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='26' Verse='16' WordSequence='1' IsParashaPtuchah='true' >הַיּ֣וֹם</Word>
 <Word Book='Devarim' Chapter='26' Verse='16' WordSequence='2' >הַזֶּ֗ה</Word>
 <Word Book='Devarim' Chapter='26' Verse='16' WordSequence='3' >יְהוָ֨ה</Word>
 <Word Book='Devarim' Chapter='26' Verse='16' WordSequence='4' >אֱלֹהֶ֜יךָ</Word>
@@ -10546,8 +10546,8 @@
 <Word Book='Devarim' Chapter='26' Verse='19' WordSequence='14' >לַיהוָ֥ה</Word>
 <Word Book='Devarim' Chapter='26' Verse='19' WordSequence='15' >אֱלֹהֶ֖יךָ</Word>
 <Word Book='Devarim' Chapter='26' Verse='19' WordSequence='16' >כַּאֲשֶׁ֥ר</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='26' Verse='19' WordSequence='17' IsParashaPtuchah='true' >דִּבֵּֽר</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>וַיְצַ֤ו</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='26' Verse='19' WordSequence='17' >דִּבֵּֽר</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְצַ֤ו</Word>
 <Word Book='Devarim' Chapter='27' Verse='1' WordSequence='2' >מֹשֶׁה֙</Word>
 <Word Book='Devarim' Chapter='27' Verse='1' WordSequence='3' >וְזִקְנֵ֣י</Word>
 <Word Book='Devarim' Chapter='27' Verse='1' WordSequence='4' >יִשְׂרָאֵ֔ל</Word>
@@ -10669,8 +10669,8 @@
 <Word Book='Devarim' Chapter='27' Verse='8' WordSequence='7' >הַתּוֹרָ֥ה</Word>
 <Word Book='Devarim' Chapter='27' Verse='8' WordSequence='8' >הַזֹּ֖את</Word>
 <Word Book='Devarim' Chapter='27' Verse='8' WordSequence='9' >בַּאֵ֥ר</Word>
-<Word Book='Devarim' Chapter='27' Verse='8' WordSequence='10' >הֵיטֵֽב</Word>
-<Word Book='Devarim' Chapter='27' Verse='9' WordSequence='1' >וַיְדַבֵּ֤ר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='8' WordSequence='10' >הֵיטֵֽב</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֤ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='9' WordSequence='2' >מֹשֶׁה֙</Word>
 <Word Book='Devarim' Chapter='27' Verse='9' WordSequence='3' >וְהַכֹּהֲנִ֣ים</Word>
 <Word Book='Devarim' Chapter='27' Verse='9' WordSequence='4' >הַלְוִיִּ֔ם</Word>
@@ -10699,8 +10699,8 @@
 <Word Book='Devarim' Chapter='27' Verse='10' WordSequence='10' >אֲשֶׁ֛ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='10' WordSequence='11' >אָנֹכִ֥י</Word>
 <Word Book='Devarim' Chapter='27' Verse='10' WordSequence='12' >מְצַוְּךָ֖</Word>
-<Word Book='Devarim' Chapter='27' Verse='10' WordSequence='13' >הַיּֽוֹם</Word>
-<Word Book='Devarim' Chapter='27' Verse='11' WordSequence='1' >וַיְצַ֤ו</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='10' WordSequence='13' >הַיּֽוֹם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְצַ֤ו</Word>
 <Word Book='Devarim' Chapter='27' Verse='11' WordSequence='2' >מֹשֶׁה֙</Word>
 <Word Book='Devarim' Chapter='27' Verse='11' WordSequence='3' >אֶת־</Word>
 <Word Book='Devarim' Chapter='27' Verse='11' WordSequence='4' >הָעָ֔ם</Word>
@@ -10744,8 +10744,8 @@
 <Word Book='Devarim' Chapter='27' Verse='14' WordSequence='6' >אִ֥ישׁ</Word>
 <Word Book='Devarim' Chapter='27' Verse='14' WordSequence='7' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Devarim' Chapter='27' Verse='14' WordSequence='8' >ק֥וֹל</Word>
-<Word Book='Devarim' Chapter='27' Verse='14' WordSequence='9' >רָֽם</Word>
-<Word Book='Devarim' Chapter='27' Verse='15' WordSequence='1' >אָר֣וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='14' WordSequence='9' >רָֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='15' WordSequence='1' IsParashaPtuchah='true' >אָר֣וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='15' WordSequence='2' >הָאִ֡ישׁ</Word>
 <Word Book='Devarim' Chapter='27' Verse='15' WordSequence='3' >אֲשֶׁ֣ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='15' WordSequence='4' >יַעֲשֶׂה֩</Word>
@@ -10762,32 +10762,32 @@
 <Word Book='Devarim' Chapter='27' Verse='15' WordSequence='15' >כָל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='15' WordSequence='16' >הָעָ֛ם</Word>
 <Word Book='Devarim' Chapter='27' Verse='15' WordSequence='17' >וְאָמְר֖וּ</Word>
-<Word Book='Devarim' Chapter='27' Verse='15' WordSequence='18' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='16' WordSequence='1' >אָר֕וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='15' WordSequence='18' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='16' WordSequence='1' IsParashaPtuchah='true' >אָר֕וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='16' WordSequence='2' >מַקְלֶ֥ה</Word>
 <Word Book='Devarim' Chapter='27' Verse='16' WordSequence='3' >אָבִ֖יו</Word>
 <Word Book='Devarim' Chapter='27' Verse='16' WordSequence='4' >וְאִמּ֑וֹ</Word>
 <Word Book='Devarim' Chapter='27' Verse='16' WordSequence='5' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='16' WordSequence='6' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='16' WordSequence='7' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='16' WordSequence='8' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='17' WordSequence='1' >אָר֕וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='16' WordSequence='8' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='17' WordSequence='1' IsParashaPtuchah='true' >אָר֕וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='17' WordSequence='2' >מַסִּ֖יג</Word>
 <Word Book='Devarim' Chapter='27' Verse='17' WordSequence='3' >גְּב֣וּל</Word>
 <Word Book='Devarim' Chapter='27' Verse='17' WordSequence='4' >רֵעֵ֑הוּ</Word>
 <Word Book='Devarim' Chapter='27' Verse='17' WordSequence='5' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='17' WordSequence='6' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='17' WordSequence='7' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='17' WordSequence='8' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='18' WordSequence='1' >אָר֕וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='17' WordSequence='8' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='18' WordSequence='1' IsParashaPtuchah='true' >אָר֕וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='18' WordSequence='2' >מַשְׁגֶּ֥ה</Word>
 <Word Book='Devarim' Chapter='27' Verse='18' WordSequence='3' >עִוֵּ֖ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='18' WordSequence='4' >בַּדָּ֑רֶךְ</Word>
 <Word Book='Devarim' Chapter='27' Verse='18' WordSequence='5' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='18' WordSequence='6' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='18' WordSequence='7' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='18' WordSequence='8' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='19' WordSequence='1' >אָר֗וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='18' WordSequence='8' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='19' WordSequence='1' IsParashaPtuchah='true' >אָר֗וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='19' WordSequence='2' >מַטֶּ֛ה</Word>
 <Word Book='Devarim' Chapter='27' Verse='19' WordSequence='3' >מִשְׁפַּ֥ט</Word>
 <Word Book='Devarim' Chapter='27' Verse='19' WordSequence='4' >גֵּר־</Word>
@@ -10796,8 +10796,8 @@
 <Word Book='Devarim' Chapter='27' Verse='19' WordSequence='7' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='19' WordSequence='8' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='19' WordSequence='9' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='19' WordSequence='10' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='20' WordSequence='1' >אָר֗וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='19' WordSequence='10' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='20' WordSequence='1' IsParashaPtuchah='true' >אָר֗וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='20' WordSequence='2' >שֹׁכֵב֙</Word>
 <Word Book='Devarim' Chapter='27' Verse='20' WordSequence='3' >עִם־</Word>
 <Word Book='Devarim' Chapter='27' Verse='20' WordSequence='4' >אֵ֣שֶׁת</Word>
@@ -10809,8 +10809,8 @@
 <Word Book='Devarim' Chapter='27' Verse='20' WordSequence='10' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='20' WordSequence='11' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='20' WordSequence='12' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='20' WordSequence='13' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='21' WordSequence='1' >אָר֕וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='20' WordSequence='13' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='21' WordSequence='1' IsParashaPtuchah='true' >אָר֕וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='21' WordSequence='2' >שֹׁכֵ֖ב</Word>
 <Word Book='Devarim' Chapter='27' Verse='21' WordSequence='3' >עִם־</Word>
 <Word Book='Devarim' Chapter='27' Verse='21' WordSequence='4' >כָּל־</Word>
@@ -10818,8 +10818,8 @@
 <Word Book='Devarim' Chapter='27' Verse='21' WordSequence='6' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='21' WordSequence='7' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='21' WordSequence='8' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='21' WordSequence='9' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='22' WordSequence='1' >אָר֗וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='21' WordSequence='9' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='22' WordSequence='1' IsParashaPtuchah='true' >אָר֗וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='22' WordSequence='2' >שֹׁכֵב֙</Word>
 <Word Book='Devarim' Chapter='27' Verse='22' WordSequence='3' >עִם־</Word>
 <Word Book='Devarim' Chapter='27' Verse='22' WordSequence='4' >אֲחֹת֔וֹ</Word>
@@ -10831,24 +10831,24 @@
 <Word Book='Devarim' Chapter='27' Verse='22' WordSequence='10' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='22' WordSequence='11' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='22' WordSequence='12' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='22' WordSequence='13' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='23' WordSequence='1' >אָר֕וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='22' WordSequence='13' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='23' WordSequence='1' IsParashaPtuchah='true' >אָר֕וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='23' WordSequence='2' >שֹׁכֵ֖ב</Word>
 <Word Book='Devarim' Chapter='27' Verse='23' WordSequence='3' >עִם־</Word>
 <Word Book='Devarim' Chapter='27' Verse='23' WordSequence='4' >חֹֽתַנְתּ֑וֹ</Word>
 <Word Book='Devarim' Chapter='27' Verse='23' WordSequence='5' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='23' WordSequence='6' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='23' WordSequence='7' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='23' WordSequence='8' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='24' WordSequence='1' >אָר֕וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='23' WordSequence='8' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='24' WordSequence='1' IsParashaPtuchah='true' >אָר֕וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='24' WordSequence='2' >מַכֵּ֥ה</Word>
 <Word Book='Devarim' Chapter='27' Verse='24' WordSequence='3' >רֵעֵ֖הוּ</Word>
 <Word Book='Devarim' Chapter='27' Verse='24' WordSequence='4' >בַּסָּ֑תֶר</Word>
 <Word Book='Devarim' Chapter='27' Verse='24' WordSequence='5' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='24' WordSequence='6' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='24' WordSequence='7' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='24' WordSequence='8' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='25' WordSequence='1' >אָרוּר֙</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='24' WordSequence='8' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='25' WordSequence='1' IsParashaPtuchah='true' >אָרוּר֙</Word>
 <Word Book='Devarim' Chapter='27' Verse='25' WordSequence='2' >לֹקֵ֣חַ</Word>
 <Word Book='Devarim' Chapter='27' Verse='25' WordSequence='3' >שֹׁ֔חַד</Word>
 <Word Book='Devarim' Chapter='27' Verse='25' WordSequence='4' >לְהַכּ֥וֹת</Word>
@@ -10858,8 +10858,8 @@
 <Word Book='Devarim' Chapter='27' Verse='25' WordSequence='8' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='25' WordSequence='9' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='25' WordSequence='10' >הָעָ֖ם</Word>
-<Word Book='Devarim' Chapter='27' Verse='25' WordSequence='11' >אָמֵֽן</Word>
-<Word Book='Devarim' Chapter='27' Verse='26' WordSequence='1' >אָר֗וּר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='25' WordSequence='11' >אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='27' Verse='26' WordSequence='1' IsParashaPtuchah='true' >אָר֗וּר</Word>
 <Word Book='Devarim' Chapter='27' Verse='26' WordSequence='2' >אֲשֶׁ֧ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='26' WordSequence='3' >לֹא־</Word>
 <Word Book='Devarim' Chapter='27' Verse='26' WordSequence='4' >יָקִ֛ים</Word>
@@ -10872,8 +10872,8 @@
 <Word Book='Devarim' Chapter='27' Verse='26' WordSequence='11' >וְאָמַ֥ר</Word>
 <Word Book='Devarim' Chapter='27' Verse='26' WordSequence='12' >כָּל־</Word>
 <Word Book='Devarim' Chapter='27' Verse='26' WordSequence='13' >הָעָ֖ם</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='27' Verse='26' WordSequence='14' IsParashaPtuchah='true' >אָמֵֽן</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>וְהָיָ֗ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='27' Verse='26' WordSequence='14'>אָמֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='28' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֗ה</Word>
 <Word Book='Devarim' Chapter='28' Verse='1' WordSequence='2' >אִם־</Word>
 <Word Book='Devarim' Chapter='28' Verse='1' WordSequence='3' >שָׁמ֤וֹעַ</Word>
 <Word Book='Devarim' Chapter='28' Verse='1' WordSequence='4' >תִּשְׁמַע֙</Word>
@@ -11071,8 +11071,8 @@
 <Word Book='Devarim' Chapter='28' Verse='14' WordSequence='13' >אַחֲרֵ֛י</Word>
 <Word Book='Devarim' Chapter='28' Verse='14' WordSequence='14' >אֱלֹהִ֥ים</Word>
 <Word Book='Devarim' Chapter='28' Verse='14' WordSequence='15' >אֲחֵרִ֖ים</Word>
-<Word Book='Devarim' Chapter='28' Verse='14' WordSequence='16' >לְעָבְדָֽם</Word>
-<Word Book='Devarim' Chapter='28' Verse='15' WordSequence='1' >וְהָיָ֗ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='28' Verse='14' WordSequence='16' >לְעָבְדָֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='28' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֗ה</Word>
 <Word Book='Devarim' Chapter='28' Verse='15' WordSequence='2' >אִם־</Word>
 <Word Book='Devarim' Chapter='28' Verse='15' WordSequence='3' >לֹ֤א</Word>
 <Word Book='Devarim' Chapter='28' Verse='15' WordSequence='4' >תִשְׁמַע֙</Word>
@@ -11848,8 +11848,8 @@
 <Word Book='Devarim' Chapter='28' Verse='68' WordSequence='16' >לַעֲבָדִ֥ים</Word>
 <Word Book='Devarim' Chapter='28' Verse='68' WordSequence='17' >וְלִשְׁפָח֖וֹת</Word>
 <Word Book='Devarim' Chapter='28' Verse='68' WordSequence='18' >וְאֵ֥ין</Word>
-<Word Book='Devarim' Chapter='28' Verse='68' WordSequence='19' >קֹנֶֽה</Word>
-<Word Book='Devarim' Chapter='28' Verse='69' WordSequence='1' >אֵלֶּה֩</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='28' Verse='68' WordSequence='19' >קֹנֶֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='28' Verse='69' WordSequence='1' IsParashaPtuchah='true' >אֵלֶּה֩</Word>
 <Word Book='Devarim' Chapter='28' Verse='69' WordSequence='2' >דִבְרֵ֨י</Word>
 <Word Book='Devarim' Chapter='28' Verse='69' WordSequence='3' >הַבְּרִ֜ית</Word>
 <Word Book='Devarim' Chapter='28' Verse='69' WordSequence='4' >אֲ‍ֽשֶׁר־</Word>
@@ -11868,8 +11868,8 @@
 <Word Book='Devarim' Chapter='28' Verse='69' WordSequence='17' >אֲשֶׁר־</Word>
 <Word Book='Devarim' Chapter='28' Verse='69' WordSequence='18' >כָּרַ֥ת</Word>
 <Word Book='Devarim' Chapter='28' Verse='69' WordSequence='19' >אִתָּ֖ם</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='28' Verse='69' WordSequence='20' IsParashaPtuchah='true' >בְּחֹרֵֽב</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>וַיִּקְרָ֥א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='28' Verse='69' WordSequence='20'>בְּחֹרֵֽב</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='29' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרָ֥א</Word>
 <Word Book='Devarim' Chapter='29' Verse='1' WordSequence='2' >מֹשֶׁ֛ה</Word>
 <Word Book='Devarim' Chapter='29' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Devarim' Chapter='29' Verse='1' WordSequence='4' >כָּל־</Word>
@@ -11976,8 +11976,8 @@
 <Word Book='Devarim' Chapter='29' Verse='8' WordSequence='10' >אֵ֖ת</Word>
 <Word Book='Devarim' Chapter='29' Verse='8' WordSequence='11' >כָּל־</Word>
 <Word Book='Devarim' Chapter='29' Verse='8' WordSequence='12' >אֲשֶׁ֥ר</Word>
-<Word Book='Devarim' Chapter='29' Verse='8' WordSequence='13' IsParashaPtuchah='true' >תַּעֲשֽׂוּן</Word>
-<Word Book='Devarim' Chapter='29' Verse='9' WordSequence='1' >אַתֶּ֨ם</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='29' Verse='8' WordSequence='13'>תַּעֲשֽׂוּן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='29' Verse='9' WordSequence='1' IsParashaPtuchah='true' >אַתֶּ֨ם</Word>
 <Word Book='Devarim' Chapter='29' Verse='9' WordSequence='2' >נִצָּבִ֤ים</Word>
 <Word Book='Devarim' Chapter='29' Verse='9' WordSequence='3' >הַיּוֹם֙</Word>
 <Word Book='Devarim' Chapter='29' Verse='9' WordSequence='4' >כֻּלְּכֶ֔ם</Word>
@@ -12308,8 +12308,8 @@
 <Word Book='Devarim' Chapter='29' Verse='28' WordSequence='11' >כָּל־</Word>
 <Word Book='Devarim' Chapter='29' Verse='28' WordSequence='12' >דִּבְרֵ֖י</Word>
 <Word Book='Devarim' Chapter='29' Verse='28' WordSequence='13' >הַתּוֹרָ֥ה</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='29' Verse='28' WordSequence='14' IsParashaPtuchah='true' >הַזֹּֽאת</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וְהָיָה֩</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='29' Verse='28' WordSequence='14' >הַזֹּֽאת</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='30' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהָיָה֩</Word>
 <Word Book='Devarim' Chapter='30' Verse='1' WordSequence='2' >כִֽי־</Word>
 <Word Book='Devarim' Chapter='30' Verse='1' WordSequence='3' >יָבֹ֨אוּ</Word>
 <Word Book='Devarim' Chapter='30' Verse='1' WordSequence='4' >עָלֶ֜יךָ</Word>
@@ -12473,8 +12473,8 @@
 <Word Book='Devarim' Chapter='30' Verse='10' WordSequence='18' >בְּכָל־</Word>
 <Word Book='Devarim' Chapter='30' Verse='10' WordSequence='19' >לְבָבְךָ֖</Word>
 <Word Book='Devarim' Chapter='30' Verse='10' WordSequence='20' >וּבְכָל־</Word>
-<Word Book='Devarim' Chapter='30' Verse='10' WordSequence='21' IsParashaPtuchah='true' >נַפְשֶֽׁךָ</Word>
-<Word Book='Devarim' Chapter='30' Verse='11' WordSequence='1' >כִּ֚י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='30' Verse='10' WordSequence='21'>נַפְשֶֽׁךָ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='30' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כִּ֚י</Word>
 <Word Book='Devarim' Chapter='30' Verse='11' WordSequence='2' >הַמִּצְוָ֣ה</Word>
 <Word Book='Devarim' Chapter='30' Verse='11' WordSequence='3' >הַזֹּ֔את</Word>
 <Word Book='Devarim' Chapter='30' Verse='11' WordSequence='4' >אֲשֶׁ֛ר</Word>
@@ -12524,8 +12524,8 @@
 <Word Book='Devarim' Chapter='30' Verse='14' WordSequence='5' >מְאֹ֑ד</Word>
 <Word Book='Devarim' Chapter='30' Verse='14' WordSequence='6' >בְּפִ֥יךָ</Word>
 <Word Book='Devarim' Chapter='30' Verse='14' WordSequence='7' >וּבִֽלְבָבְךָ֖</Word>
-<Word Book='Devarim' Chapter='30' Verse='14' WordSequence='8' >לַעֲשֹׂתֽוֹ</Word>
-<Word Book='Devarim' Chapter='30' Verse='15' WordSequence='1' >רְאֵ֨ה</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='30' Verse='14' WordSequence='8' >לַעֲשֹׂתֽוֹ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='30' Verse='15' WordSequence='1' IsParashaPtuchah='true' >רְאֵ֨ה</Word>
 <Word Book='Devarim' Chapter='30' Verse='15' WordSequence='2' >נָתַ֤תִּי</Word>
 <Word Book='Devarim' Chapter='30' Verse='15' WordSequence='3' >לְפָנֶ֙יךָ֙</Word>
 <Word Book='Devarim' Chapter='30' Verse='15' WordSequence='4' >הַיּ֔וֹם</Word>
@@ -12634,8 +12634,8 @@
 <Word Book='Devarim' Chapter='30' Verse='20' WordSequence='22' >לְיִצְחָ֥ק</Word>
 <Word Book='Devarim' Chapter='30' Verse='20' WordSequence='23' >וּֽלְיַעֲקֹ֖ב</Word>
 <Word Book='Devarim' Chapter='30' Verse='20' WordSequence='24' >לָתֵ֥ת</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='30' Verse='20' WordSequence='25' IsParashaPtuchah='true' >לָהֶֽם</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>וַיֵּ֖לֶךְ</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='30' Verse='20' WordSequence='25'>לָהֶֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='31' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֖לֶךְ</Word>
 <Word Book='Devarim' Chapter='31' Verse='1' WordSequence='2' >מֹשֶׁ֑ה</Word>
 <Word Book='Devarim' Chapter='31' Verse='1' WordSequence='3' >וַיְדַבֵּ֛ר</Word>
 <Word Book='Devarim' Chapter='31' Verse='1' WordSequence='4' >אֶת־</Word>
@@ -12723,8 +12723,8 @@
 <Word Book='Devarim' Chapter='31' Verse='6' WordSequence='14' >לֹ֥א</Word>
 <Word Book='Devarim' Chapter='31' Verse='6' WordSequence='15' >יַרְפְּךָ֖</Word>
 <Word Book='Devarim' Chapter='31' Verse='6' WordSequence='16' >וְלֹ֥א</Word>
-<Word Book='Devarim' Chapter='31' Verse='6' WordSequence='17' IsParashaPtuchah='true' >יַעַזְבֶֽךָּ</Word>
-<Word Book='Devarim' Chapter='31' Verse='7' WordSequence='1' >וַיִּקְרָ֨א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='31' Verse='6' WordSequence='17'>יַעַזְבֶֽךָּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='31' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרָ֨א</Word>
 <Word Book='Devarim' Chapter='31' Verse='7' WordSequence='2' >מֹשֶׁ֜ה</Word>
 <Word Book='Devarim' Chapter='31' Verse='7' WordSequence='3' >לִֽיהוֹשֻׁ֗עַ</Word>
 <Word Book='Devarim' Chapter='31' Verse='7' WordSequence='4' >וַיֹּ֨אמֶר</Word>
@@ -12863,8 +12863,8 @@
 <Word Book='Devarim' Chapter='31' Verse='13' WordSequence='21' >אֶת־</Word>
 <Word Book='Devarim' Chapter='31' Verse='13' WordSequence='22' >הַיַּרְדֵּ֛ן</Word>
 <Word Book='Devarim' Chapter='31' Verse='13' WordSequence='23' >שָׁ֖מָּה</Word>
-<Word Book='Devarim' Chapter='31' Verse='13' WordSequence='24' IsParashaPtuchah='true' >לְרִשְׁתָּֽהּ</Word>
-<Word Book='Devarim' Chapter='31' Verse='14' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='31' Verse='13' WordSequence='24'>לְרִשְׁתָּֽהּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='31' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Devarim' Chapter='31' Verse='14' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Devarim' Chapter='31' Verse='14' WordSequence='3' >אֶל־</Word>
 <Word Book='Devarim' Chapter='31' Verse='14' WordSequence='4' >מֹשֶׁ֗ה</Word>
@@ -12895,8 +12895,8 @@
 <Word Book='Devarim' Chapter='31' Verse='15' WordSequence='8' >הֶעָנָ֖ן</Word>
 <Word Book='Devarim' Chapter='31' Verse='15' WordSequence='9' >עַל־</Word>
 <Word Book='Devarim' Chapter='31' Verse='15' WordSequence='10' >פֶּ֥תַח</Word>
-<Word Book='Devarim' Chapter='31' Verse='15' WordSequence='11' >הָאֹֽהֶל</Word>
-<Word Book='Devarim' Chapter='31' Verse='16' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='31' Verse='15' WordSequence='11' >הָאֹֽהֶל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='31' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Devarim' Chapter='31' Verse='16' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Devarim' Chapter='31' Verse='16' WordSequence='3' >אֶל־</Word>
 <Word Book='Devarim' Chapter='31' Verse='16' WordSequence='4' >מֹשֶׁ֔ה</Word>
@@ -13187,8 +13187,8 @@
 <Word Book='Devarim' Chapter='31' Verse='30' WordSequence='9' >הַשִּׁירָ֖ה</Word>
 <Word Book='Devarim' Chapter='31' Verse='30' WordSequence='10' >הַזֹּ֑את</Word>
 <Word Book='Devarim' Chapter='31' Verse='30' WordSequence='11' >עַ֖ד</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='31' Verse='30' WordSequence='12' IsParashaPtuchah='true' >תֻּמָּֽם</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='32' Verse='1' WordSequence='1'>הַאֲזִ֥ינוּ</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='31' Verse='30' WordSequence='12'>תֻּמָּֽם</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='32' Verse='1' WordSequence='1' IsParashaPtuchah='true' >הַאֲזִ֥ינוּ</Word>
 <Word Book='Devarim' Chapter='32' Verse='1' WordSequence='2' >הַשָּׁמַ֖יִם</Word>
 <Word Book='Devarim' Chapter='32' Verse='1' WordSequence='3' >וַאֲדַבֵּ֑רָה</Word>
 <Word Book='Devarim' Chapter='32' Verse='1' WordSequence='4' >וְתִשְׁמַ֥ע</Word>
@@ -13650,8 +13650,8 @@
 <Word Book='Devarim' Chapter='32' Verse='43' WordSequence='10' >לְצָרָ֔יו</Word>
 <Word Book='Devarim' Chapter='32' Verse='43' WordSequence='11' >וְכִפֶּ֥ר</Word>
 <Word Book='Devarim' Chapter='32' Verse='43' WordSequence='12' >אַדְמָת֖וֹ</Word>
-<Word Book='Devarim' Chapter='32' Verse='43' WordSequence='13' IsParashaPtuchah='true' >עַמּֽוֹ</Word>
-<Word Book='Devarim' Chapter='32' Verse='44' WordSequence='1' >וַיָּבֹ֣א</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='32' Verse='43' WordSequence='13'>עַמּֽוֹ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='32' Verse='44' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹ֣א</Word>
 <Word Book='Devarim' Chapter='32' Verse='44' WordSequence='2' >מֹשֶׁ֗ה</Word>
 <Word Book='Devarim' Chapter='32' Verse='44' WordSequence='3' >וַיְדַבֵּ֛ר</Word>
 <Word Book='Devarim' Chapter='32' Verse='44' WordSequence='4' >אֶת־</Word>
@@ -13718,8 +13718,8 @@
 <Word Book='Devarim' Chapter='32' Verse='47' WordSequence='19' >אֶת־</Word>
 <Word Book='Devarim' Chapter='32' Verse='47' WordSequence='20' >הַיַּרְדֵּ֛ן</Word>
 <Word Book='Devarim' Chapter='32' Verse='47' WordSequence='21' >שָׁ֖מָּה</Word>
-<Word Book='Devarim' Chapter='32' Verse='47' WordSequence='22' IsParashaPtuchah='true' >לְרִשְׁתָּֽהּ</Word>
-<Word Book='Devarim' Chapter='32' Verse='48' WordSequence='1' >וַיְדַבֵּ֤ר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='32' Verse='47' WordSequence='22'>לְרִשְׁתָּֽהּ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='32' Verse='48' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֤ר</Word>
 <Word Book='Devarim' Chapter='32' Verse='48' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Devarim' Chapter='32' Verse='48' WordSequence='3' >אֶל־</Word>
 <Word Book='Devarim' Chapter='32' Verse='48' WordSequence='4' >מֹשֶׁ֔ה</Word>
@@ -13803,8 +13803,8 @@
 <Word Book='Devarim' Chapter='32' Verse='52' WordSequence='12' >אֲנִ֥י</Word>
 <Word Book='Devarim' Chapter='32' Verse='52' WordSequence='13' >נֹתֵ֖ן</Word>
 <Word Book='Devarim' Chapter='32' Verse='52' WordSequence='14' >לִבְנֵ֥י</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='32' Verse='52' WordSequence='15' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='33' Verse='1' WordSequence='1'>וְזֹ֣את</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='32' Verse='52' WordSequence='15'>יִשְׂרָאֵֽל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְזֹ֣את</Word>
 <Word Book='Devarim' Chapter='33' Verse='1' WordSequence='2' >הַבְּרָכָ֗ה</Word>
 <Word Book='Devarim' Chapter='33' Verse='1' WordSequence='3' >אֲשֶׁ֨ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='1' WordSequence='4' >בֵּרַ֥ךְ</Word>
@@ -13867,8 +13867,8 @@
 <Word Book='Devarim' Chapter='33' Verse='6' WordSequence='4' >יָמֹ֑ת</Word>
 <Word Book='Devarim' Chapter='33' Verse='6' WordSequence='5' >וִיהִ֥י</Word>
 <Word Book='Devarim' Chapter='33' Verse='6' WordSequence='6' >מְתָ֖יו</Word>
-<Word Book='Devarim' Chapter='33' Verse='6' WordSequence='7' >מִסְפָּֽר</Word>
-<Word Book='Devarim' Chapter='33' Verse='7' WordSequence='1' >וְזֹ֣את</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='6' WordSequence='7' >מִסְפָּֽר</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְזֹ֣את</Word>
 <Word Book='Devarim' Chapter='33' Verse='7' WordSequence='2' >לִֽיהוּדָה֮</Word>
 <Word Book='Devarim' Chapter='33' Verse='7' WordSequence='3' >וַיֹּאמַר֒</Word>
 <Word Book='Devarim' Chapter='33' Verse='7' WordSequence='4' >שְׁמַ֤ע</Word>
@@ -13883,8 +13883,8 @@
 <Word Book='Devarim' Chapter='33' Verse='7' WordSequence='13' >ל֔וֹ</Word>
 <Word Book='Devarim' Chapter='33' Verse='7' WordSequence='14' >וְעֵ֥זֶר</Word>
 <Word Book='Devarim' Chapter='33' Verse='7' WordSequence='15' >מִצָּרָ֖יו</Word>
-<Word Book='Devarim' Chapter='33' Verse='7' WordSequence='16' >תִּהְיֶֽה</Word>
-<Word Book='Devarim' Chapter='33' Verse='8' WordSequence='1' >וּלְלֵוִ֣י</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='7' WordSequence='16' >תִּהְיֶֽה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וּלְלֵוִ֣י</Word>
 <Word Book='Devarim' Chapter='33' Verse='8' WordSequence='2' >אָמַ֔ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='8' WordSequence='3' >תֻּמֶּ֥יךָ</Word>
 <Word Book='Devarim' Chapter='33' Verse='8' WordSequence='4' >וְאוּרֶ֖יךָ</Word>
@@ -13938,8 +13938,8 @@
 <Word Book='Devarim' Chapter='33' Verse='11' WordSequence='9' >קָמָ֛יו</Word>
 <Word Book='Devarim' Chapter='33' Verse='11' WordSequence='10' >וּמְשַׂנְאָ֖יו</Word>
 <Word Book='Devarim' Chapter='33' Verse='11' WordSequence='11' >מִן־</Word>
-<Word Book='Devarim' Chapter='33' Verse='11' WordSequence='12' >יְקוּמֽוּן</Word>
-<Word Book='Devarim' Chapter='33' Verse='12' WordSequence='1' >לְבִנְיָמִ֣ן</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='11' WordSequence='12' >יְקוּמֽוּן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='12' WordSequence='1' IsParashaPtuchah='true' >לְבִנְיָמִ֣ן</Word>
 <Word Book='Devarim' Chapter='33' Verse='12' WordSequence='2' >אָמַ֔ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='12' WordSequence='3' >יְדִ֣יד</Word>
 <Word Book='Devarim' Chapter='33' Verse='12' WordSequence='4' >יְהֹוָ֔ה</Word>
@@ -13952,8 +13952,8 @@
 <Word Book='Devarim' Chapter='33' Verse='12' WordSequence='11' >הַיּ֔וֹם</Word>
 <Word Book='Devarim' Chapter='33' Verse='12' WordSequence='12' >וּבֵ֥ין</Word>
 <Word Book='Devarim' Chapter='33' Verse='12' WordSequence='13' >כְּתֵיפָ֖יו</Word>
-<Word Book='Devarim' Chapter='33' Verse='12' WordSequence='14' >שָׁכֵֽן</Word>
-<Word Book='Devarim' Chapter='33' Verse='13' WordSequence='1' >וּלְיוֹסֵ֣ף</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='12' WordSequence='14' >שָׁכֵֽן</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וּלְיוֹסֵ֣ף</Word>
 <Word Book='Devarim' Chapter='33' Verse='13' WordSequence='2' >אָמַ֔ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='13' WordSequence='3' >מְבֹרֶ֥כֶת</Word>
 <Word Book='Devarim' Chapter='33' Verse='13' WordSequence='4' >יְהֹוָ֖ה</Word>
@@ -14006,8 +14006,8 @@
 <Word Book='Devarim' Chapter='33' Verse='17' WordSequence='16' >אֶפְרַ֔יִם</Word>
 <Word Book='Devarim' Chapter='33' Verse='17' WordSequence='17' >וְהֵ֖ם</Word>
 <Word Book='Devarim' Chapter='33' Verse='17' WordSequence='18' >אַלְפֵ֥י</Word>
-<Word Book='Devarim' Chapter='33' Verse='17' WordSequence='19' >מְנַשֶּֽׁה</Word>
-<Word Book='Devarim' Chapter='33' Verse='18' WordSequence='1' >וְלִזְבוּלֻ֣ן</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='17' WordSequence='19' >מְנַשֶּֽׁה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וְלִזְבוּלֻ֣ן</Word>
 <Word Book='Devarim' Chapter='33' Verse='18' WordSequence='2' >אָמַ֔ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='18' WordSequence='3' >שְׂמַ֥ח</Word>
 <Word Book='Devarim' Chapter='33' Verse='18' WordSequence='4' >זְבוּלֻ֖ן</Word>
@@ -14027,8 +14027,8 @@
 <Word Book='Devarim' Chapter='33' Verse='19' WordSequence='11' >יִינָ֔קוּ</Word>
 <Word Book='Devarim' Chapter='33' Verse='19' WordSequence='12' >וּשְׂפוּנֵ֖י</Word>
 <Word Book='Devarim' Chapter='33' Verse='19' WordSequence='13' >טְמ֥וּנֵי</Word>
-<Word Book='Devarim' Chapter='33' Verse='19' WordSequence='14' >חֽוֹל</Word>
-<Word Book='Devarim' Chapter='33' Verse='20' WordSequence='1' >וּלְגָ֣ד</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='19' WordSequence='14' >חֽוֹל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וּלְגָ֣ד</Word>
 <Word Book='Devarim' Chapter='33' Verse='20' WordSequence='2' >אָמַ֔ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='20' WordSequence='3' >בָּר֖וּךְ</Word>
 <Word Book='Devarim' Chapter='33' Verse='20' WordSequence='4' >מַרְחִ֣יב</Word>
@@ -14055,8 +14055,8 @@
 <Word Book='Devarim' Chapter='33' Verse='21' WordSequence='14' >עָשָׂ֔ה</Word>
 <Word Book='Devarim' Chapter='33' Verse='21' WordSequence='15' >וּמִשְׁפָּטָ֖יו</Word>
 <Word Book='Devarim' Chapter='33' Verse='21' WordSequence='16' >עִם־</Word>
-<Word Book='Devarim' Chapter='33' Verse='21' WordSequence='17' >יִשְׂרָאֵֽל</Word>
-<Word Book='Devarim' Chapter='33' Verse='22' WordSequence='1' >וּלְדָ֣ן</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='21' WordSequence='17' >יִשְׂרָאֵֽל</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וּלְדָ֣ן</Word>
 <Word Book='Devarim' Chapter='33' Verse='22' WordSequence='2' >אָמַ֔ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='22' WordSequence='3' >דָּ֖ן</Word>
 <Word Book='Devarim' Chapter='33' Verse='22' WordSequence='4' >גּ֣וּר</Word>
@@ -14074,8 +14074,8 @@
 <Word Book='Devarim' Chapter='33' Verse='23' WordSequence='8' >יְהוָ֑ה</Word>
 <Word Book='Devarim' Chapter='33' Verse='23' WordSequence='9' >יָ֥ם</Word>
 <Word Book='Devarim' Chapter='33' Verse='23' WordSequence='10' >וְדָר֖וֹם</Word>
-<Word Book='Devarim' Chapter='33' Verse='23' WordSequence='11' >יְרָֽשָׁה</Word>
-<Word Book='Devarim' Chapter='33' Verse='24' WordSequence='1' >וּלְאָשֵׁ֣ר</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='23' WordSequence='11' >יְרָֽשָׁה</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='33' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וּלְאָשֵׁ֣ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='24' WordSequence='2' >אָמַ֔ר</Word>
 <Word Book='Devarim' Chapter='33' Verse='24' WordSequence='3' >בָּר֥וּךְ</Word>
 <Word Book='Devarim' Chapter='33' Verse='24' WordSequence='4' >מִבָּנִ֖ים</Word>
@@ -14142,8 +14142,8 @@
 <Word Book='Devarim' Chapter='33' Verse='29' WordSequence='16' >וְאַתָּ֖ה</Word>
 <Word Book='Devarim' Chapter='33' Verse='29' WordSequence='17' >עַל־</Word>
 <Word Book='Devarim' Chapter='33' Verse='29' WordSequence='18' >בָּמוֹתֵ֥ימוֹ</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='33' Verse='29' WordSequence='19' IsParashaPtuchah='true' >תִדְרֹֽךְ</Word>
-<Word Book='Devarim' StartPerekBeforeWord='true' Chapter='34' Verse='1' WordSequence='1'>וַיַּ֨עַל</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='33' Verse='29' WordSequence='19' >תִדְרֹֽךְ</Word>
+<Word Book='Devarim' StartParashaBeforeWord='true' Chapter='34' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֨עַל</Word>
 <Word Book='Devarim' Chapter='34' Verse='1' WordSequence='2' >מֹשֶׁ֜ה</Word>
 <Word Book='Devarim' Chapter='34' Verse='1' WordSequence='3' >מֵֽעַרְבֹ֤ת</Word>
 <Word Book='Devarim' Chapter='34' Verse='1' WordSequence='4' >מוֹאָב֙</Word>
@@ -14318,5 +14318,5 @@
 <Word Book='Devarim' Chapter='34' Verse='12' WordSequence='9' >מֹשֶׁ֔ה</Word>
 <Word Book='Devarim' Chapter='34' Verse='12' WordSequence='10' >לְעֵינֵ֖י</Word>
 <Word Book='Devarim' Chapter='34' Verse='12' WordSequence='11' >כָּל־</Word>
-<Word Book='Devarim' EndPerekAfterWord='true' Chapter='34' Verse='12' WordSequence='12' >יִשְׂרָאֵֽל</Word>
+<Word Book='Devarim' EndParashaAfterWord='true' Chapter='34' Verse='12' WordSequence='12'>יִשְׂרָאֵֽל</Word>
 </Tanakh>

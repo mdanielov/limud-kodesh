@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֖י</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֖י</Word>
 <Word Book='Ester' Chapter='1' Verse='1' WordSequence='2' >בִּימֵ֣י</Word>
 <Word Book='Ester' Chapter='1' Verse='1' WordSequence='3' >אֲחַשְׁוֵר֑וֹשׁ</Word>
 <Word Book='Ester' Chapter='1' Verse='1' WordSequence='4' >ה֣וּא</Word>
@@ -130,8 +130,8 @@
 <Word Book='Ester' Chapter='1' Verse='9' WordSequence='8' >הַמַּלְכ֔וּת</Word>
 <Word Book='Ester' Chapter='1' Verse='9' WordSequence='9' >אֲשֶׁ֖ר</Word>
 <Word Book='Ester' Chapter='1' Verse='9' WordSequence='10' >לַמֶּ֥לֶךְ</Word>
-<Word Book='Ester' Chapter='1' Verse='9' WordSequence='11' >אֲחַשְׁוֵרֽוֹשׁ</Word>
-<Word Book='Ester' Chapter='1' Verse='10' WordSequence='1' >בַּיּוֹם֙</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='1' Verse='9' WordSequence='11' >אֲחַשְׁוֵרֽוֹשׁ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='1' Verse='10' WordSequence='1' IsParashaPtuchah='true' >בַּיּוֹם֙</Word>
 <Word Book='Ester' Chapter='1' Verse='10' WordSequence='2' >הַשְּׁבִיעִ֔י</Word>
 <Word Book='Ester' Chapter='1' Verse='10' WordSequence='3' >כְּט֥וֹב</Word>
 <Word Book='Ester' Chapter='1' Verse='10' WordSequence='4' >לֵב־</Word>
@@ -231,8 +231,8 @@
 <Word Book='Ester' Chapter='1' Verse='15' WordSequence='12' >הַמֶּ֣לֶךְ</Word>
 <Word Book='Ester' Chapter='1' Verse='15' WordSequence='13' >אֲחַשְׁוֵר֔וֹשׁ</Word>
 <Word Book='Ester' Chapter='1' Verse='15' WordSequence='14' >בְּיַ֖ד</Word>
-<Word Book='Ester' Chapter='1' Verse='15' WordSequence='15' >הַסָּרִיסִֽים</Word>
-<Word Book='Ester' Chapter='1' Verse='16' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='1' Verse='15' WordSequence='15' >הַסָּרִיסִֽים</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='1' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Ester' Chapter='1' Verse='16' WordSequence='2' >מומכן</Word>
 <Word Book='Ester' Chapter='1' Verse='16' WordSequence='3' >[מְמוּכָ֗ן]</Word>
 <Word Book='Ester' Chapter='1' Verse='16' WordSequence='4' >לִפְנֵ֤י</Word>
@@ -370,8 +370,8 @@
 <Word Book='Ester' Chapter='1' Verse='22' WordSequence='19' >בְּבֵית֔וֹ</Word>
 <Word Book='Ester' Chapter='1' Verse='22' WordSequence='20' >וּמְדַבֵּ֖ר</Word>
 <Word Book='Ester' Chapter='1' Verse='22' WordSequence='21' >כִּלְשׁ֥וֹן</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='1' Verse='22' WordSequence='22' IsParashaPtuchah='true' >עַמּֽוֹ</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>אַחַר֙</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='1' Verse='22' WordSequence='22'>עַמּֽוֹ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אַחַר֙</Word>
 <Word Book='Ester' Chapter='2' Verse='1' WordSequence='2' >הַדְּבָרִ֣ים</Word>
 <Word Book='Ester' Chapter='2' Verse='1' WordSequence='3' >הָאֵ֔לֶּה</Word>
 <Word Book='Ester' Chapter='2' Verse='1' WordSequence='4' >כְּשֹׁ֕ךְ</Word>
@@ -439,8 +439,8 @@
 <Word Book='Ester' Chapter='2' Verse='4' WordSequence='11' >בְּעֵינֵ֥י</Word>
 <Word Book='Ester' Chapter='2' Verse='4' WordSequence='12' >הַמֶּ֖לֶךְ</Word>
 <Word Book='Ester' Chapter='2' Verse='4' WordSequence='13' >וַיַּ֥עַשׂ</Word>
-<Word Book='Ester' Chapter='2' Verse='4' WordSequence='14' >כֵּֽן</Word>
-<Word Book='Ester' Chapter='2' Verse='5' WordSequence='1' >אִ֣ישׁ</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='2' Verse='4' WordSequence='14' >כֵּֽן</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='2' Verse='5' WordSequence='1' IsParashaPtuchah='true' >אִ֣ישׁ</Word>
 <Word Book='Ester' Chapter='2' Verse='5' WordSequence='2' >יְהוּדִ֔י</Word>
 <Word Book='Ester' Chapter='2' Verse='5' WordSequence='3' >הָיָ֖ה</Word>
 <Word Book='Ester' Chapter='2' Verse='5' WordSequence='4' >בְּשׁוּשַׁ֣ן</Word>
@@ -765,8 +765,8 @@
 <Word Book='Ester' Chapter='2' Verse='20' WordSequence='16' >כַּאֲשֶׁ֛ר</Word>
 <Word Book='Ester' Chapter='2' Verse='20' WordSequence='17' >הָיְתָ֥ה</Word>
 <Word Book='Ester' Chapter='2' Verse='20' WordSequence='18' >בְאָמְנָ֖ה</Word>
-<Word Book='Ester' Chapter='2' Verse='20' WordSequence='19' >אִתּֽוֹ</Word>
-<Word Book='Ester' Chapter='2' Verse='21' WordSequence='1' >בַּיָּמִ֣ים</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='2' Verse='20' WordSequence='19' >אִתּֽוֹ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='2' Verse='21' WordSequence='1' IsParashaPtuchah='true' >בַּיָּמִ֣ים</Word>
 <Word Book='Ester' Chapter='2' Verse='21' WordSequence='2' >הָהֵ֔ם</Word>
 <Word Book='Ester' Chapter='2' Verse='21' WordSequence='3' >וּמָרְדֳּכַ֖י</Word>
 <Word Book='Ester' Chapter='2' Verse='21' WordSequence='4' >יֹשֵׁ֣ב</Word>
@@ -808,8 +808,8 @@
 <Word Book='Ester' Chapter='2' Verse='23' WordSequence='10' >דִּבְרֵ֥י</Word>
 <Word Book='Ester' Chapter='2' Verse='23' WordSequence='11' >הַיָּמִ֖ים</Word>
 <Word Book='Ester' Chapter='2' Verse='23' WordSequence='12' >לִפְנֵ֥י</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='2' Verse='23' WordSequence='13' IsParashaPtuchah='true' >הַמֶּֽלֶךְ</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>אַחַ֣ר׀</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='2' Verse='23' WordSequence='13'>הַמֶּֽלֶךְ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אַחַ֣ר׀</Word>
 <Word Book='Ester' Chapter='3' Verse='1' WordSequence='2' >הַדְּבָרִ֣ים</Word>
 <Word Book='Ester' Chapter='3' Verse='1' WordSequence='3' >הָאֵ֗לֶּה</Word>
 <Word Book='Ester' Chapter='3' Verse='1' WordSequence='4' >גִּדַּל֩</Word>
@@ -941,8 +941,8 @@
 <Word Book='Ester' Chapter='3' Verse='7' WordSequence='22' >עָשָׂ֖ר</Word>
 <Word Book='Ester' Chapter='3' Verse='7' WordSequence='23' >הוּא־</Word>
 <Word Book='Ester' Chapter='3' Verse='7' WordSequence='24' >חֹ֥דֶשׁ</Word>
-<Word Book='Ester' Chapter='3' Verse='7' WordSequence='25' >אֲדָֽר</Word>
-<Word Book='Ester' Chapter='3' Verse='8' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='3' Verse='7' WordSequence='25' >אֲדָֽר</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='3' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Ester' Chapter='3' Verse='8' WordSequence='2' >הָמָן֙</Word>
 <Word Book='Ester' Chapter='3' Verse='8' WordSequence='3' >לַמֶּ֣לֶךְ</Word>
 <Word Book='Ester' Chapter='3' Verse='8' WordSequence='4' >אֲחַשְׁוֵר֔וֹשׁ</Word>
@@ -1112,8 +1112,8 @@
 <Word Book='Ester' Chapter='3' Verse='15' WordSequence='13' >לִשְׁתּ֔וֹת</Word>
 <Word Book='Ester' Chapter='3' Verse='15' WordSequence='14' >וְהָעִ֥יר</Word>
 <Word Book='Ester' Chapter='3' Verse='15' WordSequence='15' >שׁוּשָׁ֖ן</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='3' Verse='15' WordSequence='16' IsParashaPtuchah='true' >נָבֽוֹכָה</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וּמָרְדֳּכַ֗י</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='3' Verse='15' WordSequence='16'>נָבֽוֹכָה</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּמָרְדֳּכַ֗י</Word>
 <Word Book='Ester' Chapter='4' Verse='1' WordSequence='2' >יָדַע֙</Word>
 <Word Book='Ester' Chapter='4' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Ester' Chapter='4' Verse='1' WordSequence='4' >כָּל־</Word>
@@ -1317,8 +1317,8 @@
 <Word Book='Ester' Chapter='4' Verse='12' WordSequence='2' >לְמָרְדֳּכָ֔י</Word>
 <Word Book='Ester' Chapter='4' Verse='12' WordSequence='3' >אֵ֖ת</Word>
 <Word Book='Ester' Chapter='4' Verse='12' WordSequence='4' >דִּבְרֵ֥י</Word>
-<Word Book='Ester' Chapter='4' Verse='12' WordSequence='5' IsParashaPtuchah='true' >אֶסְתֵּֽר</Word>
-<Word Book='Ester' Chapter='4' Verse='13' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='4' Verse='12' WordSequence='5'>אֶסְתֵּֽר</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='4' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Ester' Chapter='4' Verse='13' WordSequence='2' >מָרְדֳּכַ֖י</Word>
 <Word Book='Ester' Chapter='4' Verse='13' WordSequence='3' >לְהָשִׁ֣יב</Word>
 <Word Book='Ester' Chapter='4' Verse='13' WordSequence='4' >אֶל־</Word>
@@ -1398,8 +1398,8 @@
 <Word Book='Ester' Chapter='4' Verse='17' WordSequence='5' >אֲשֶׁר־</Word>
 <Word Book='Ester' Chapter='4' Verse='17' WordSequence='6' >צִוְּתָ֥ה</Word>
 <Word Book='Ester' Chapter='4' Verse='17' WordSequence='7' >עָלָ֖יו</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='4' Verse='17' WordSequence='8' IsParashaPtuchah='true' >אֶסְתֵּֽר</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וַיְהִ֣י׀</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='4' Verse='17' WordSequence='8' >אֶסְתֵּֽר</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י׀</Word>
 <Word Book='Ester' Chapter='5' Verse='1' WordSequence='2' >בַּיּ֣וֹם</Word>
 <Word Book='Ester' Chapter='5' Verse='1' WordSequence='3' >הַשְּׁלִישִׁ֗י</Word>
 <Word Book='Ester' Chapter='5' Verse='1' WordSequence='4' >וַתִּלְבַּ֤שׁ</Word>
@@ -1446,8 +1446,8 @@
 <Word Book='Ester' Chapter='5' Verse='2' WordSequence='21' >אֶסְתֵּ֔ר</Word>
 <Word Book='Ester' Chapter='5' Verse='2' WordSequence='22' >וַתִּגַּ֖ע</Word>
 <Word Book='Ester' Chapter='5' Verse='2' WordSequence='23' >בְּרֹ֥אשׁ</Word>
-<Word Book='Ester' Chapter='5' Verse='2' WordSequence='24' >הַשַּׁרְבִֽיט</Word>
-<Word Book='Ester' Chapter='5' Verse='3' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='5' Verse='2' WordSequence='24' >הַשַּׁרְבִֽיט</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='5' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Ester' Chapter='5' Verse='3' WordSequence='2' >לָהּ֙</Word>
 <Word Book='Ester' Chapter='5' Verse='3' WordSequence='3' >הַמֶּ֔לֶךְ</Word>
 <Word Book='Ester' Chapter='5' Verse='3' WordSequence='4' >מַה־</Word>
@@ -1663,8 +1663,8 @@
 <Word Book='Ester' Chapter='5' Verse='14' WordSequence='27' >לִפְנֵ֥י</Word>
 <Word Book='Ester' Chapter='5' Verse='14' WordSequence='28' >הָמָ֖ן</Word>
 <Word Book='Ester' Chapter='5' Verse='14' WordSequence='29' >וַיַּ֥עַשׂ</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='5' Verse='14' WordSequence='30' IsParashaPtuchah='true' >הָעֵֽץ</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>בַּלַּ֣יְלָה</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='5' Verse='14' WordSequence='30'>הָעֵֽץ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בַּלַּ֣יְלָה</Word>
 <Word Book='Ester' Chapter='6' Verse='1' WordSequence='2' >הַה֔וּא</Word>
 <Word Book='Ester' Chapter='6' Verse='1' WordSequence='3' >נָדְדָ֖ה</Word>
 <Word Book='Ester' Chapter='6' Verse='1' WordSequence='4' >שְׁנַ֣ת</Word>
@@ -1926,8 +1926,8 @@
 <Word Book='Ester' Chapter='6' Verse='14' WordSequence='12' >הַמִּשְׁתֶּ֖ה</Word>
 <Word Book='Ester' Chapter='6' Verse='14' WordSequence='13' >אֲשֶׁר־</Word>
 <Word Book='Ester' Chapter='6' Verse='14' WordSequence='14' >עָשְׂתָ֥ה</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='6' Verse='14' WordSequence='15' >אֶסְתֵּֽר</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיָּבֹ֤א</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='6' Verse='14' WordSequence='15'>אֶסְתֵּֽר</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיָּבֹ֤א</Word>
 <Word Book='Ester' Chapter='7' Verse='1' WordSequence='2' >הַמֶּ֙לֶךְ֙</Word>
 <Word Book='Ester' Chapter='7' Verse='1' WordSequence='3' >וְהָמָ֔ן</Word>
 <Word Book='Ester' Chapter='7' Verse='1' WordSequence='4' >לִשְׁתּ֖וֹת</Word>
@@ -1990,8 +1990,8 @@
 <Word Book='Ester' Chapter='7' Verse='4' WordSequence='15' >הַצָּ֛ר</Word>
 <Word Book='Ester' Chapter='7' Verse='4' WordSequence='16' >שֹׁוֶ֖ה</Word>
 <Word Book='Ester' Chapter='7' Verse='4' WordSequence='17' >בְּנֵ֥זֶק</Word>
-<Word Book='Ester' Chapter='7' Verse='4' WordSequence='18' >הַמֶּֽלֶךְ</Word>
-<Word Book='Ester' Chapter='7' Verse='5' WordSequence='1' >וַיֹּ֙אמֶר֙</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='7' Verse='4' WordSequence='18' >הַמֶּֽלֶךְ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='7' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֙אמֶר֙</Word>
 <Word Book='Ester' Chapter='7' Verse='5' WordSequence='2' >הַמֶּ֣לֶךְ</Word>
 <Word Book='Ester' Chapter='7' Verse='5' WordSequence='3' >אֲחַשְׁוֵר֔וֹשׁ</Word>
 <Word Book='Ester' Chapter='7' Verse='5' WordSequence='4' >וַיֹּ֖אמֶר</Word>
@@ -2073,8 +2073,8 @@
 <Word Book='Ester' Chapter='7' Verse='8' WordSequence='27' >הַמֶּ֔לֶךְ</Word>
 <Word Book='Ester' Chapter='7' Verse='8' WordSequence='28' >וּפְנֵ֥י</Word>
 <Word Book='Ester' Chapter='7' Verse='8' WordSequence='29' >הָמָ֖ן</Word>
-<Word Book='Ester' Chapter='7' Verse='8' WordSequence='30' >חָפֽוּ</Word>
-<Word Book='Ester' Chapter='7' Verse='9' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='7' Verse='8' WordSequence='30' >חָפֽוּ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='7' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Ester' Chapter='7' Verse='9' WordSequence='2' >חַ֠רְבוֹנָה</Word>
 <Word Book='Ester' Chapter='7' Verse='9' WordSequence='3' >אֶחָ֨ד</Word>
 <Word Book='Ester' Chapter='7' Verse='9' WordSequence='4' >מִן־</Word>
@@ -2113,8 +2113,8 @@
 <Word Book='Ester' Chapter='7' Verse='10' WordSequence='8' >לְמָרְדֳּכָ֑י</Word>
 <Word Book='Ester' Chapter='7' Verse='10' WordSequence='9' >וַחֲמַ֥ת</Word>
 <Word Book='Ester' Chapter='7' Verse='10' WordSequence='10' >הַמֶּ֖לֶךְ</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='7' Verse='10' WordSequence='11' IsParashaPtuchah='true' >שָׁכָֽכָה</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>בַּיּ֣וֹם</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='7' Verse='10' WordSequence='11'>שָׁכָֽכָה</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בַּיּ֣וֹם</Word>
 <Word Book='Ester' Chapter='8' Verse='1' WordSequence='2' >הַה֗וּא</Word>
 <Word Book='Ester' Chapter='8' Verse='1' WordSequence='3' >נָתַ֞ן</Word>
 <Word Book='Ester' Chapter='8' Verse='1' WordSequence='4' >הַמֶּ֤לֶךְ</Word>
@@ -2152,8 +2152,8 @@
 <Word Book='Ester' Chapter='8' Verse='2' WordSequence='13' >מָרְדֳּכַ֖י</Word>
 <Word Book='Ester' Chapter='8' Verse='2' WordSequence='14' >עַל־</Word>
 <Word Book='Ester' Chapter='8' Verse='2' WordSequence='15' >בֵּ֥ית</Word>
-<Word Book='Ester' Chapter='8' Verse='2' WordSequence='16' IsParashaPtuchah='true' >הָמָֽן</Word>
-<Word Book='Ester' Chapter='8' Verse='3' WordSequence='1' >וַתּ֣וֹסֶף</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='8' Verse='2' WordSequence='16'>הָמָֽן</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='8' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַתּ֣וֹסֶף</Word>
 <Word Book='Ester' Chapter='8' Verse='3' WordSequence='2' >אֶסְתֵּ֗ר</Word>
 <Word Book='Ester' Chapter='8' Verse='3' WordSequence='3' >וַתְּדַבֵּר֙</Word>
 <Word Book='Ester' Chapter='8' Verse='3' WordSequence='4' >לִפְנֵ֣י</Word>
@@ -2233,8 +2233,8 @@
 <Word Book='Ester' Chapter='8' Verse='6' WordSequence='11' >אוּכַל֙</Word>
 <Word Book='Ester' Chapter='8' Verse='6' WordSequence='12' >וְֽרָאִ֔יתִי</Word>
 <Word Book='Ester' Chapter='8' Verse='6' WordSequence='13' >בְּאָבְדַ֖ן</Word>
-<Word Book='Ester' Chapter='8' Verse='6' WordSequence='14' >מוֹלַדְתִּֽי</Word>
-<Word Book='Ester' Chapter='8' Verse='7' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='8' Verse='6' WordSequence='14' >מוֹלַדְתִּֽי</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='8' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Ester' Chapter='8' Verse='7' WordSequence='2' >הַמֶּ֤לֶךְ</Word>
 <Word Book='Ester' Chapter='8' Verse='7' WordSequence='3' >אֲחַשְׁוֵרֹשׁ֙</Word>
 <Word Book='Ester' Chapter='8' Verse='7' WordSequence='4' >לְאֶסְתֵּ֣ר</Word>
@@ -2409,8 +2409,8 @@
 <Word Book='Ester' Chapter='8' Verse='14' WordSequence='10' >וְהַדָּ֥ת</Word>
 <Word Book='Ester' Chapter='8' Verse='14' WordSequence='11' >נִתְּנָ֖ה</Word>
 <Word Book='Ester' Chapter='8' Verse='14' WordSequence='12' >בְּשׁוּשַׁ֥ן</Word>
-<Word Book='Ester' Chapter='8' Verse='14' WordSequence='13' IsParashaPtuchah='true' >הַבִּירָֽה</Word>
-<Word Book='Ester' Chapter='8' Verse='15' WordSequence='1' >וּמָרְדֳּכַ֞י</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='8' Verse='14' WordSequence='13'>הַבִּירָֽה</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='8' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וּמָרְדֳּכַ֞י</Word>
 <Word Book='Ester' Chapter='8' Verse='15' WordSequence='2' >יָצָ֣א׀</Word>
 <Word Book='Ester' Chapter='8' Verse='15' WordSequence='3' >מִלִּפְנֵ֣י</Word>
 <Word Book='Ester' Chapter='8' Verse='15' WordSequence='4' >הַמֶּ֗לֶךְ</Word>
@@ -2460,8 +2460,8 @@
 <Word Book='Ester' Chapter='8' Verse='17' WordSequence='24' >נָפַ֥ל</Word>
 <Word Book='Ester' Chapter='8' Verse='17' WordSequence='25' >פַּֽחַד־</Word>
 <Word Book='Ester' Chapter='8' Verse='17' WordSequence='26' >הַיְּהוּדִ֖ים</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='8' Verse='17' WordSequence='27' >עֲלֵיהֶֽם</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וּבִשְׁנֵים֩</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='8' Verse='17' WordSequence='27'>עֲלֵיהֶֽם</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וּבִשְׁנֵים֩</Word>
 <Word Book='Ester' Chapter='9' Verse='1' WordSequence='2' >עָשָׂ֨ר</Word>
 <Word Book='Ester' Chapter='9' Verse='1' WordSequence='3' >חֹ֜דֶשׁ</Word>
 <Word Book='Ester' Chapter='9' Verse='1' WordSequence='4' >הוּא־</Word>
@@ -2542,8 +2542,8 @@
 <Word Book='Ester' Chapter='9' Verse='4' WordSequence='11' >הָאִ֥ישׁ</Word>
 <Word Book='Ester' Chapter='9' Verse='4' WordSequence='12' >מָרְדֳּכַ֖י</Word>
 <Word Book='Ester' Chapter='9' Verse='4' WordSequence='13' >הוֹלֵ֥ךְ</Word>
-<Word Book='Ester' Chapter='9' Verse='4' WordSequence='14' IsParashaPtuchah='true' >וְגָדֽוֹל</Word>
-<Word Book='Ester' Chapter='9' Verse='5' WordSequence='1' >וַיַּכּ֤וּ</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='9' Verse='4' WordSequence='14'>וְגָדֽוֹל</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='9' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיַּכּ֤וּ</Word>
 <Word Book='Ester' Chapter='9' Verse='5' WordSequence='2' >הַיְּהוּדִים֙</Word>
 <Word Book='Ester' Chapter='9' Verse='5' WordSequence='3' >בְּכָל־</Word>
 <Word Book='Ester' Chapter='9' Verse='5' WordSequence='4' >אֹ֣יְבֵיהֶ֔ם</Word>
@@ -2603,8 +2603,8 @@
 <Word Book='Ester' Chapter='9' Verse='11' WordSequence='6' >בְּשׁוּשַׁ֥ן</Word>
 <Word Book='Ester' Chapter='9' Verse='11' WordSequence='7' >הַבִּירָ֖ה</Word>
 <Word Book='Ester' Chapter='9' Verse='11' WordSequence='8' >לִפְנֵ֥י</Word>
-<Word Book='Ester' Chapter='9' Verse='11' WordSequence='9' >הַמֶּֽלֶךְ</Word>
-<Word Book='Ester' Chapter='9' Verse='12' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='9' Verse='11' WordSequence='9' >הַמֶּֽלֶךְ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='9' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Ester' Chapter='9' Verse='12' WordSequence='2' >הַמֶּ֜לֶךְ</Word>
 <Word Book='Ester' Chapter='9' Verse='12' WordSequence='3' >לְאֶסְתֵּ֣ר</Word>
 <Word Book='Ester' Chapter='9' Verse='12' WordSequence='4' >הַמַּלְכָּ֗ה</Word>
@@ -2765,8 +2765,8 @@
 <Word Book='Ester' Chapter='9' Verse='19' WordSequence='20' >וּמִשְׁל֥וֹחַ</Word>
 <Word Book='Ester' Chapter='9' Verse='19' WordSequence='21' >מָנ֖וֹת</Word>
 <Word Book='Ester' Chapter='9' Verse='19' WordSequence='22' >אִ֥ישׁ</Word>
-<Word Book='Ester' Chapter='9' Verse='19' WordSequence='23' IsParashaPtuchah='true' >לְרֵעֵֽהוּ</Word>
-<Word Book='Ester' Chapter='9' Verse='20' WordSequence='1' >וַיִּכְתֹּ֣ב</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='9' Verse='19' WordSequence='23'>לְרֵעֵֽהוּ</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='9' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיִּכְתֹּ֣ב</Word>
 <Word Book='Ester' Chapter='9' Verse='20' WordSequence='2' >מָרְדֳּכַ֔י</Word>
 <Word Book='Ester' Chapter='9' Verse='20' WordSequence='3' >אֶת־</Word>
 <Word Book='Ester' Chapter='9' Verse='20' WordSequence='4' >הַדְּבָרִ֖ים</Word>
@@ -2947,8 +2947,8 @@
 <Word Book='Ester' Chapter='9' Verse='28' WordSequence='21' >וְזִכְרָ֖ם</Word>
 <Word Book='Ester' Chapter='9' Verse='28' WordSequence='22' >לֹא־</Word>
 <Word Book='Ester' Chapter='9' Verse='28' WordSequence='23' >יָס֥וּף</Word>
-<Word Book='Ester' Chapter='9' Verse='28' WordSequence='24' >מִזַּרְעָֽם</Word>
-<Word Book='Ester' Chapter='9' Verse='29' WordSequence='1' >וַ֠תִּכְתֹּב</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='9' Verse='28' WordSequence='24' >מִזַּרְעָֽם</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='9' Verse='29' WordSequence='1' IsParashaPtuchah='true' >וַ֠תִּכְתֹּב</Word>
 <Word Book='Ester' Chapter='9' Verse='29' WordSequence='2' >אֶסְתֵּ֨ר</Word>
 <Word Book='Ester' Chapter='9' Verse='29' WordSequence='3' >הַמַּלְכָּ֧ה</Word>
 <Word Book='Ester' Chapter='9' Verse='29' WordSequence='4' >בַת־</Word>
@@ -3008,8 +3008,8 @@
 <Word Book='Ester' Chapter='9' Verse='32' WordSequence='5' >הַפֻּרִ֖ים</Word>
 <Word Book='Ester' Chapter='9' Verse='32' WordSequence='6' >הָאֵ֑לֶּה</Word>
 <Word Book='Ester' Chapter='9' Verse='32' WordSequence='7' >וְנִכְתָּ֖ב</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='9' Verse='32' WordSequence='8' IsParashaPtuchah='true' >בַּסֵּֽפֶר</Word>
-<Word Book='Ester' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וַיָּשֶׂם֩</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='9' Verse='32' WordSequence='8'>בַּסֵּֽפֶר</Word>
+<Word Book='Ester' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיָּשֶׂם֩</Word>
 <Word Book='Ester' Chapter='10' Verse='1' WordSequence='2' >הַמֶּ֨לֶךְ</Word>
 <Word Book='Ester' Chapter='10' Verse='1' WordSequence='3' >אחשרש</Word>
 <Word Book='Ester' Chapter='10' Verse='1' WordSequence='4' >[אֲחַשְׁוֵר֧וֹשׁ׀]</Word>
@@ -3055,5 +3055,5 @@
 <Word Book='Ester' Chapter='10' Verse='3' WordSequence='15' >וְדֹבֵ֥ר</Word>
 <Word Book='Ester' Chapter='10' Verse='3' WordSequence='16' >שָׁל֖וֹם</Word>
 <Word Book='Ester' Chapter='10' Verse='3' WordSequence='17' >לְכָל־</Word>
-<Word Book='Ester' EndPerekAfterWord='true' Chapter='10' Verse='3' WordSequence='18' >זַרְעֽוֹ</Word>
+<Word Book='Ester' EndParashaAfterWord='true' Chapter='10' Verse='3' WordSequence='18'>זַרְעֽוֹ</Word>
 </Tanakh>

@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Nahum' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>מַשָּׂ֖א</Word>
+<Word Book='Nahum' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>מַשָּׂ֖א</Word>
 <Word Book='Nahum' Chapter='1' Verse='1' WordSequence='2' >נִֽינְוֵ֑ה</Word>
 <Word Book='Nahum' Chapter='1' Verse='1' WordSequence='3' >סֵ֧פֶר</Word>
 <Word Book='Nahum' Chapter='1' Verse='1' WordSequence='4' >חֲז֛וֹן</Word>
@@ -118,8 +118,8 @@
 <Word Book='Nahum' Chapter='1' Verse='11' WordSequence='5' >יְהוָ֖ה</Word>
 <Word Book='Nahum' Chapter='1' Verse='11' WordSequence='6' >רָעָ֑ה</Word>
 <Word Book='Nahum' Chapter='1' Verse='11' WordSequence='7' >יֹעֵ֖ץ</Word>
-<Word Book='Nahum' Chapter='1' Verse='11' WordSequence='8' >בְּלִיָּֽעַל</Word>
-<Word Book='Nahum' Chapter='1' Verse='12' WordSequence='1' >כֹּ֣ה׀</Word>
+<Word Book='Nahum' EndParashaAfterWord='true' Chapter='1' Verse='11' WordSequence='8' >בְּלִיָּֽעַל</Word>
+<Word Book='Nahum' StartParashaBeforeWord='true' Chapter='1' Verse='12' WordSequence='1' IsParashaPtuchah='true' >כֹּ֣ה׀</Word>
 <Word Book='Nahum' Chapter='1' Verse='12' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Nahum' Chapter='1' Verse='12' WordSequence='3' >יְהוָ֗ה</Word>
 <Word Book='Nahum' Chapter='1' Verse='12' WordSequence='4' >אִם־</Word>
@@ -154,8 +154,8 @@
 <Word Book='Nahum' Chapter='1' Verse='14' WordSequence='13' >אָשִׂ֥ים</Word>
 <Word Book='Nahum' Chapter='1' Verse='14' WordSequence='14' >קִבְרֶ֖ךָ</Word>
 <Word Book='Nahum' Chapter='1' Verse='14' WordSequence='15' >כִּ֥י</Word>
-<Word Book='Nahum' EndPerekAfterWord='true' Chapter='1' Verse='14' WordSequence='16' IsParashaPtuchah='true' >קַלּֽוֹתָ</Word>
-<Word Book='Nahum' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>הִנֵּ֨ה</Word>
+<Word Book='Nahum' EndParashaAfterWord='true' Chapter='1' Verse='14' WordSequence='16'>קַלּֽוֹתָ</Word>
+<Word Book='Nahum' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >הִנֵּ֨ה</Word>
 <Word Book='Nahum' Chapter='2' Verse='1' WordSequence='2' >עַל־</Word>
 <Word Book='Nahum' Chapter='2' Verse='1' WordSequence='3' >הֶהָרִ֜ים</Word>
 <Word Book='Nahum' Chapter='2' Verse='1' WordSequence='4' >רַגְלֵ֤י</Word>
@@ -330,8 +330,8 @@
 <Word Book='Nahum' Chapter='2' Verse='14' WordSequence='16' >יִשָּׁמַ֥ע</Word>
 <Word Book='Nahum' Chapter='2' Verse='14' WordSequence='17' >ע֖וֹד</Word>
 <Word Book='Nahum' Chapter='2' Verse='14' WordSequence='18' >ק֥וֹל</Word>
-<Word Book='Nahum' EndPerekAfterWord='true' Chapter='2' Verse='14' WordSequence='19' IsParashaPtuchah='true' >מַלְאָכֵֽכֵה</Word>
-<Word Book='Nahum' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>ה֖וֹי</Word>
+<Word Book='Nahum' EndParashaAfterWord='true' Chapter='2' Verse='14' WordSequence='19' >מַלְאָכֵֽכֵה</Word>
+<Word Book='Nahum' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >ה֖וֹי</Word>
 <Word Book='Nahum' Chapter='3' Verse='1' WordSequence='2' >עִ֣יר</Word>
 <Word Book='Nahum' Chapter='3' Verse='1' WordSequence='3' >דָּמִ֑ים</Word>
 <Word Book='Nahum' Chapter='3' Verse='1' WordSequence='4' >כֻּלָּ֗הּ</Word>
@@ -562,5 +562,5 @@
 <Word Book='Nahum' Chapter='3' Verse='19' WordSequence='15' >לֹֽא־</Word>
 <Word Book='Nahum' Chapter='3' Verse='19' WordSequence='16' >עָבְרָ֥ה</Word>
 <Word Book='Nahum' Chapter='3' Verse='19' WordSequence='17' >רָעָתְךָ֖</Word>
-<Word Book='Nahum' EndPerekAfterWord='true' Chapter='3' Verse='19' WordSequence='18' >תָּמִֽיד</Word>
+<Word Book='Nahum' EndParashaAfterWord='true' Chapter='3' Verse='19' WordSequence='18'>תָּמִֽיד</Word>
 </Tanakh>

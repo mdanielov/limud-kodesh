@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Mikhah' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דְּבַר־</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דְּבַר־</Word>
 <Word Book='Mikhah' Chapter='1' Verse='1' WordSequence='2' >יְהוָ֣ה׀</Word>
 <Word Book='Mikhah' Chapter='1' Verse='1' WordSequence='3' >אֲשֶׁ֣ר</Word>
 <Word Book='Mikhah' Chapter='1' Verse='1' WordSequence='4' >הָיָ֗ה</Word>
@@ -213,8 +213,8 @@
 <Word Book='Mikhah' Chapter='1' Verse='16' WordSequence='8' >כַּנֶּ֔שֶׁר</Word>
 <Word Book='Mikhah' Chapter='1' Verse='16' WordSequence='9' >כִּ֥י</Word>
 <Word Book='Mikhah' Chapter='1' Verse='16' WordSequence='10' >גָל֖וּ</Word>
-<Word Book='Mikhah' EndPerekAfterWord='true' Chapter='1' Verse='16' WordSequence='11' IsParashaPtuchah='true' >מִמֵּֽךְ</Word>
-<Word Book='Mikhah' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>ה֧וֹי</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='1' Verse='16' WordSequence='11' >מִמֵּֽךְ</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >ה֧וֹי</Word>
 <Word Book='Mikhah' Chapter='2' Verse='1' WordSequence='2' >חֹֽשְׁבֵי־</Word>
 <Word Book='Mikhah' Chapter='2' Verse='1' WordSequence='3' >אָ֛וֶן</Word>
 <Word Book='Mikhah' Chapter='2' Verse='1' WordSequence='4' >וּפֹ֥עֲלֵי</Word>
@@ -237,8 +237,8 @@
 <Word Book='Mikhah' Chapter='2' Verse='2' WordSequence='7' >גֶּ֣בֶר</Word>
 <Word Book='Mikhah' Chapter='2' Verse='2' WordSequence='8' >וּבֵית֔וֹ</Word>
 <Word Book='Mikhah' Chapter='2' Verse='2' WordSequence='9' >וְאִ֖ישׁ</Word>
-<Word Book='Mikhah' Chapter='2' Verse='2' WordSequence='10' IsParashaPtuchah='true' >וְנַחֲלָתֽוֹ</Word>
-<Word Book='Mikhah' Chapter='2' Verse='3' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='2' Verse='2' WordSequence='10'>וְנַחֲלָתֽוֹ</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='2' Verse='3' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Mikhah' Chapter='2' Verse='3' WordSequence='2' >כֹּ֚ה</Word>
 <Word Book='Mikhah' Chapter='2' Verse='3' WordSequence='3' >אָמַ֣ר</Word>
 <Word Book='Mikhah' Chapter='2' Verse='3' WordSequence='4' >יְהוָ֔ה</Word>
@@ -389,8 +389,8 @@
 <Word Book='Mikhah' Chapter='2' Verse='13' WordSequence='10' >מַלְכָּם֙</Word>
 <Word Book='Mikhah' Chapter='2' Verse='13' WordSequence='11' >לִפְנֵיהֶ֔ם</Word>
 <Word Book='Mikhah' Chapter='2' Verse='13' WordSequence='12' >וַיהוָ֖ה</Word>
-<Word Book='Mikhah' EndPerekAfterWord='true' Chapter='2' Verse='13' WordSequence='13' IsParashaPtuchah='true' >בְּרֹאשָֽׁם</Word>
-<Word Book='Mikhah' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וָאֹמַ֗ר</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='2' Verse='13' WordSequence='13'>בְּרֹאשָֽׁם</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וָאֹמַ֗ר</Word>
 <Word Book='Mikhah' Chapter='3' Verse='1' WordSequence='2' >שִׁמְעוּ־</Word>
 <Word Book='Mikhah' Chapter='3' Verse='1' WordSequence='3' >נָא֙</Word>
 <Word Book='Mikhah' Chapter='3' Verse='1' WordSequence='4' >רָאשֵׁ֣י</Word>
@@ -444,8 +444,8 @@
 <Word Book='Mikhah' Chapter='3' Verse='4' WordSequence='12' >הַהִ֔יא</Word>
 <Word Book='Mikhah' Chapter='3' Verse='4' WordSequence='13' >כַּאֲשֶׁ֥ר</Word>
 <Word Book='Mikhah' Chapter='3' Verse='4' WordSequence='14' >הֵרֵ֖עוּ</Word>
-<Word Book='Mikhah' Chapter='3' Verse='4' WordSequence='15' IsParashaPtuchah='true' >מַעַלְלֵיהֶֽם</Word>
-<Word Book='Mikhah' Chapter='3' Verse='5' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='3' Verse='4' WordSequence='15'>מַעַלְלֵיהֶֽם</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='3' Verse='5' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Mikhah' Chapter='3' Verse='5' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Mikhah' Chapter='3' Verse='5' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Mikhah' Chapter='3' Verse='5' WordSequence='4' >עַל־</Word>
@@ -504,8 +504,8 @@
 <Word Book='Mikhah' Chapter='3' Verse='8' WordSequence='11' >לְיַֽעֲקֹב֙</Word>
 <Word Book='Mikhah' Chapter='3' Verse='8' WordSequence='12' >פִּשְׁע֔וֹ</Word>
 <Word Book='Mikhah' Chapter='3' Verse='8' WordSequence='13' >וּלְיִשְׂרָאֵ֖ל</Word>
-<Word Book='Mikhah' Chapter='3' Verse='8' WordSequence='14' >חַטָּאתֽוֹ</Word>
-<Word Book='Mikhah' Chapter='3' Verse='9' WordSequence='1' >שִׁמְעוּ־</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='3' Verse='8' WordSequence='14' >חַטָּאתֽוֹ</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='3' Verse='9' WordSequence='1' IsParashaPtuchah='true' >שִׁמְעוּ־</Word>
 <Word Book='Mikhah' Chapter='3' Verse='9' WordSequence='2' >נָ֣א</Word>
 <Word Book='Mikhah' Chapter='3' Verse='9' WordSequence='3' >זֹ֗את</Word>
 <Word Book='Mikhah' Chapter='3' Verse='9' WordSequence='4' >רָאשֵׁי֙</Word>
@@ -556,8 +556,8 @@
 <Word Book='Mikhah' Chapter='3' Verse='12' WordSequence='9' >וְהַ֥ר</Word>
 <Word Book='Mikhah' Chapter='3' Verse='12' WordSequence='10' >הַבַּ֖יִת</Word>
 <Word Book='Mikhah' Chapter='3' Verse='12' WordSequence='11' >לְבָמ֥וֹת</Word>
-<Word Book='Mikhah' EndPerekAfterWord='true' Chapter='3' Verse='12' WordSequence='12' IsParashaPtuchah='true' >יָֽעַר</Word>
-<Word Book='Mikhah' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וְהָיָ֣ה׀</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='3' Verse='12' WordSequence='12'>יָֽעַר</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֣ה׀</Word>
 <Word Book='Mikhah' Chapter='4' Verse='1' WordSequence='2' >בְּאַחֲרִ֣ית</Word>
 <Word Book='Mikhah' Chapter='4' Verse='1' WordSequence='3' >הַיָּמִ֗ים</Word>
 <Word Book='Mikhah' Chapter='4' Verse='1' WordSequence='4' >יִ֠הְיֶה</Word>
@@ -647,8 +647,8 @@
 <Word Book='Mikhah' Chapter='4' Verse='5' WordSequence='11' >יְהוָ֥ה</Word>
 <Word Book='Mikhah' Chapter='4' Verse='5' WordSequence='12' >אֱלֹהֵ֖ינוּ</Word>
 <Word Book='Mikhah' Chapter='4' Verse='5' WordSequence='13' >לְעוֹלָ֥ם</Word>
-<Word Book='Mikhah' Chapter='4' Verse='5' WordSequence='14' IsParashaPtuchah='true' >וָעֶֽד</Word>
-<Word Book='Mikhah' Chapter='4' Verse='6' WordSequence='1' >בַּיּ֨וֹם</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='4' Verse='5' WordSequence='14'>וָעֶֽד</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='4' Verse='6' WordSequence='1' IsParashaPtuchah='true' >בַּיּ֨וֹם</Word>
 <Word Book='Mikhah' Chapter='4' Verse='6' WordSequence='2' >הַה֜וּא</Word>
 <Word Book='Mikhah' Chapter='4' Verse='6' WordSequence='3' >נְאֻם־</Word>
 <Word Book='Mikhah' Chapter='4' Verse='6' WordSequence='4' >יְהוָ֗ה</Word>
@@ -672,8 +672,8 @@
 <Word Book='Mikhah' Chapter='4' Verse='7' WordSequence='12' >צִיּ֔וֹן</Word>
 <Word Book='Mikhah' Chapter='4' Verse='7' WordSequence='13' >מֵעַתָּ֖ה</Word>
 <Word Book='Mikhah' Chapter='4' Verse='7' WordSequence='14' >וְעַד־</Word>
-<Word Book='Mikhah' Chapter='4' Verse='7' WordSequence='15' IsParashaPtuchah='true' >עוֹלָֽם</Word>
-<Word Book='Mikhah' Chapter='4' Verse='8' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='4' Verse='7' WordSequence='15'>עוֹלָֽם</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='4' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Mikhah' Chapter='4' Verse='8' WordSequence='2' >מִגְדַּל־</Word>
 <Word Book='Mikhah' Chapter='4' Verse='8' WordSequence='3' >עֵ֗דֶר</Word>
 <Word Book='Mikhah' Chapter='4' Verse='8' WordSequence='4' >עֹ֛פֶל</Word>
@@ -778,8 +778,8 @@
 <Word Book='Mikhah' Chapter='4' Verse='14' WordSequence='11' >הַלְּחִ֔י</Word>
 <Word Book='Mikhah' Chapter='4' Verse='14' WordSequence='12' >אֵ֖ת</Word>
 <Word Book='Mikhah' Chapter='4' Verse='14' WordSequence='13' >שֹׁפֵ֥ט</Word>
-<Word Book='Mikhah' EndPerekAfterWord='true' Chapter='4' Verse='14' WordSequence='14' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Mikhah' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וְאַתָּ֞ה</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='4' Verse='14' WordSequence='14' >יִשְׂרָאֵֽל</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֞ה</Word>
 <Word Book='Mikhah' Chapter='5' Verse='1' WordSequence='2' >בֵּֽית־</Word>
 <Word Book='Mikhah' Chapter='5' Verse='1' WordSequence='3' >לֶ֣חֶם</Word>
 <Word Book='Mikhah' Chapter='5' Verse='1' WordSequence='4' >אֶפְרָ֗תָה</Word>
@@ -857,8 +857,8 @@
 <Word Book='Mikhah' Chapter='5' Verse='5' WordSequence='14' >בְאַרְצֵ֔נוּ</Word>
 <Word Book='Mikhah' Chapter='5' Verse='5' WordSequence='15' >וְכִ֥י</Word>
 <Word Book='Mikhah' Chapter='5' Verse='5' WordSequence='16' >יִדְרֹ֖ךְ</Word>
-<Word Book='Mikhah' Chapter='5' Verse='5' WordSequence='17' >בִּגְבוּלֵֽנוּ</Word>
-<Word Book='Mikhah' Chapter='5' Verse='6' WordSequence='1' >וְהָיָ֣ה׀</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='5' Verse='5' WordSequence='17' >בִּגְבוּלֵֽנוּ</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='5' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֣ה׀</Word>
 <Word Book='Mikhah' Chapter='5' Verse='6' WordSequence='2' >שְׁאֵרִ֣ית</Word>
 <Word Book='Mikhah' Chapter='5' Verse='6' WordSequence='3' >יַעֲקֹ֗ב</Word>
 <Word Book='Mikhah' Chapter='5' Verse='6' WordSequence='4' >בְּקֶ֙רֶב֙</Word>
@@ -904,8 +904,8 @@
 <Word Book='Mikhah' Chapter='5' Verse='8' WordSequence='4' >צָרֶ֑יךָ</Word>
 <Word Book='Mikhah' Chapter='5' Verse='8' WordSequence='5' >וְכָל־</Word>
 <Word Book='Mikhah' Chapter='5' Verse='8' WordSequence='6' >אֹיְבֶ֖יךָ</Word>
-<Word Book='Mikhah' Chapter='5' Verse='8' WordSequence='7' IsParashaPtuchah='true' >יִכָּרֵֽתוּ</Word>
-<Word Book='Mikhah' Chapter='5' Verse='9' WordSequence='1' >וְהָיָ֤ה</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='5' Verse='8' WordSequence='7'>יִכָּרֵֽתוּ</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='5' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֤ה</Word>
 <Word Book='Mikhah' Chapter='5' Verse='9' WordSequence='2' >בַיּוֹם־</Word>
 <Word Book='Mikhah' Chapter='5' Verse='9' WordSequence='3' >הַהוּא֙</Word>
 <Word Book='Mikhah' Chapter='5' Verse='9' WordSequence='4' >נְאֻם־</Word>
@@ -950,8 +950,8 @@
 <Word Book='Mikhah' Chapter='5' Verse='14' WordSequence='6' >הַגּוֹיִ֑ם</Word>
 <Word Book='Mikhah' Chapter='5' Verse='14' WordSequence='7' >אֲשֶׁ֖ר</Word>
 <Word Book='Mikhah' Chapter='5' Verse='14' WordSequence='8' >לֹ֥א</Word>
-<Word Book='Mikhah' EndPerekAfterWord='true' Chapter='5' Verse='14' WordSequence='9' IsParashaPtuchah='true' >שָׁמֵֽעוּ</Word>
-<Word Book='Mikhah' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>שִׁמְעוּ־</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='5' Verse='14' WordSequence='9' >שָׁמֵֽעוּ</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שִׁמְעוּ־</Word>
 <Word Book='Mikhah' Chapter='6' Verse='1' WordSequence='2' >נָ֕א</Word>
 <Word Book='Mikhah' Chapter='6' Verse='1' WordSequence='3' >אֵ֥ת</Word>
 <Word Book='Mikhah' Chapter='6' Verse='1' WordSequence='4' >אֲשֶׁר־</Word>
@@ -1066,8 +1066,8 @@
 <Word Book='Mikhah' Chapter='6' Verse='8' WordSequence='16' >וְהַצְנֵ֥עַ</Word>
 <Word Book='Mikhah' Chapter='6' Verse='8' WordSequence='17' >לֶ֖כֶת</Word>
 <Word Book='Mikhah' Chapter='6' Verse='8' WordSequence='18' >עִם־</Word>
-<Word Book='Mikhah' Chapter='6' Verse='8' WordSequence='19' IsParashaPtuchah='true' >אֱלֹהֶֽיךָ</Word>
-<Word Book='Mikhah' Chapter='6' Verse='9' WordSequence='1' >ק֤וֹל</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='6' Verse='8' WordSequence='19'>אֱלֹהֶֽיךָ</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='6' Verse='9' WordSequence='1' IsParashaPtuchah='true' >ק֤וֹל</Word>
 <Word Book='Mikhah' Chapter='6' Verse='9' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Mikhah' Chapter='6' Verse='9' WordSequence='3' >לָעִ֣יר</Word>
 <Word Book='Mikhah' Chapter='6' Verse='9' WordSequence='4' >יִקְרָ֔א</Word>
@@ -1154,8 +1154,8 @@
 <Word Book='Mikhah' Chapter='6' Verse='16' WordSequence='15' >לִשְׁרֵקָ֔ה</Word>
 <Word Book='Mikhah' Chapter='6' Verse='16' WordSequence='16' >וְחֶרְפַּ֥ת</Word>
 <Word Book='Mikhah' Chapter='6' Verse='16' WordSequence='17' >עַמִּ֖י</Word>
-<Word Book='Mikhah' EndPerekAfterWord='true' Chapter='6' Verse='16' WordSequence='18' IsParashaPtuchah='true' >תִּשָּֽׂאוּ</Word>
-<Word Book='Mikhah' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>אַ֣לְלַי</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='6' Verse='16' WordSequence='18'>תִּשָּֽׂאוּ</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אַ֣לְלַי</Word>
 <Word Book='Mikhah' Chapter='7' Verse='1' WordSequence='2' >לִ֗י</Word>
 <Word Book='Mikhah' Chapter='7' Verse='1' WordSequence='3' >כִּ֤י</Word>
 <Word Book='Mikhah' Chapter='7' Verse='1' WordSequence='4' >הָיִ֙יתִי֙</Word>
@@ -1253,8 +1253,8 @@
 <Word Book='Mikhah' Chapter='7' Verse='8' WordSequence='10' >בַּחֹ֔שֶׁךְ</Word>
 <Word Book='Mikhah' Chapter='7' Verse='8' WordSequence='11' >יְהוָ֖ה</Word>
 <Word Book='Mikhah' Chapter='7' Verse='8' WordSequence='12' >א֥וֹר</Word>
-<Word Book='Mikhah' Chapter='7' Verse='8' WordSequence='13' >לִֽי</Word>
-<Word Book='Mikhah' Chapter='7' Verse='9' WordSequence='1' >זַ֤עַף</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='7' Verse='8' WordSequence='13' >לִֽי</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='7' Verse='9' WordSequence='1' IsParashaPtuchah='true' >זַ֤עַף</Word>
 <Word Book='Mikhah' Chapter='7' Verse='9' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Mikhah' Chapter='7' Verse='9' WordSequence='3' >אֶשָּׂ֔א</Word>
 <Word Book='Mikhah' Chapter='7' Verse='9' WordSequence='4' >כִּ֥י</Word>
@@ -1316,8 +1316,8 @@
 <Word Book='Mikhah' Chapter='7' Verse='13' WordSequence='4' >עַל־</Word>
 <Word Book='Mikhah' Chapter='7' Verse='13' WordSequence='5' >יֹֽשְׁבֶ֑יהָ</Word>
 <Word Book='Mikhah' Chapter='7' Verse='13' WordSequence='6' >מִפְּרִ֖י</Word>
-<Word Book='Mikhah' Chapter='7' Verse='13' WordSequence='7' >מַֽעַלְלֵיהֶֽם</Word>
-<Word Book='Mikhah' Chapter='7' Verse='14' WordSequence='1' >רְעֵ֧ה</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='7' Verse='13' WordSequence='7' >מַֽעַלְלֵיהֶֽם</Word>
+<Word Book='Mikhah' StartParashaBeforeWord='true' Chapter='7' Verse='14' WordSequence='1' IsParashaPtuchah='true' >רְעֵ֧ה</Word>
 <Word Book='Mikhah' Chapter='7' Verse='14' WordSequence='2' >עַמְּךָ֣</Word>
 <Word Book='Mikhah' Chapter='7' Verse='14' WordSequence='3' >בְשִׁבְטֶ֗ךָ</Word>
 <Word Book='Mikhah' Chapter='7' Verse='14' WordSequence='4' >צֹ֚אן</Word>
@@ -1398,5 +1398,5 @@
 <Word Book='Mikhah' Chapter='7' Verse='20' WordSequence='7' >נִשְׁבַּ֥עְתָּ</Word>
 <Word Book='Mikhah' Chapter='7' Verse='20' WordSequence='8' >לַאֲבֹתֵ֖ינוּ</Word>
 <Word Book='Mikhah' Chapter='7' Verse='20' WordSequence='9' >מִ֥ימֵי</Word>
-<Word Book='Mikhah' EndPerekAfterWord='true' Chapter='7' Verse='20' WordSequence='10' >קֶֽדֶם</Word>
+<Word Book='Mikhah' EndParashaAfterWord='true' Chapter='7' Verse='20' WordSequence='10'>קֶֽדֶם</Word>
 </Tanakh>

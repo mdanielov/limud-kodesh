@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='ShirHashshirim' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>שִׁ֥יר</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>שִׁ֥יר</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='1' WordSequence='2' >הַשִּׁירִ֖ים</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='1' WordSequence='3' >אֲשֶׁ֥ר</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='1' WordSequence='4' >לִשְׁלֹמֹֽה</Word>
@@ -33,8 +33,8 @@
 <Word Book='ShirHashshirim' Chapter='1' Verse='4' WordSequence='11' >דֹדֶ֙יךָ֙</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='4' WordSequence='12' >מִיַּ֔יִן</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='4' WordSequence='13' >מֵישָׁרִ֖ים</Word>
-<Word Book='ShirHashshirim' Chapter='1' Verse='4' WordSequence='14' >אֲהֵבֽוּךָ</Word>
-<Word Book='ShirHashshirim' Chapter='1' Verse='5' WordSequence='1' >שְׁחוֹרָ֤ה</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='1' Verse='4' WordSequence='14' >אֲהֵבֽוּךָ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='1' Verse='5' WordSequence='1' IsParashaPtuchah='true' >שְׁחוֹרָ֤ה</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='5' WordSequence='2' >אֲנִי֙</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='5' WordSequence='3' >וְֽנָאוָ֔ה</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='5' WordSequence='4' >בְּנ֖וֹת</Word>
@@ -91,8 +91,8 @@
 <Word Book='ShirHashshirim' Chapter='1' Verse='8' WordSequence='13' >גְּדִיֹּתַ֔יִךְ</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='8' WordSequence='14' >עַ֖ל</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='8' WordSequence='15' >מִשְׁכְּנ֥וֹת</Word>
-<Word Book='ShirHashshirim' Chapter='1' Verse='8' WordSequence='16' >הָרֹעִֽים</Word>
-<Word Book='ShirHashshirim' Chapter='1' Verse='9' WordSequence='1' >לְסֻסָתִי֙</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='1' Verse='8' WordSequence='16' >הָרֹעִֽים</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='1' Verse='9' WordSequence='1' IsParashaPtuchah='true' >לְסֻסָתִי֙</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='9' WordSequence='2' >בְּרִכְבֵ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='9' WordSequence='3' >פַרְעֹ֔ה</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='9' WordSequence='4' >דִּמִּיתִ֖יךְ</Word>
@@ -128,8 +128,8 @@
 <Word Book='ShirHashshirim' Chapter='1' Verse='14' WordSequence='4' >לִ֔י</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='14' WordSequence='5' >בְּכַרְמֵ֖י</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='14' WordSequence='6' >עֵ֥ין</Word>
-<Word Book='ShirHashshirim' Chapter='1' Verse='14' WordSequence='7' >גֶּֽדִי</Word>
-<Word Book='ShirHashshirim' Chapter='1' Verse='15' WordSequence='1' >הִנָּ֤ךְ</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='1' Verse='14' WordSequence='7' >גֶּֽדִי</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='1' Verse='15' WordSequence='1' IsParashaPtuchah='true' >הִנָּ֤ךְ</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='15' WordSequence='2' >יָפָה֙</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='15' WordSequence='3' >רַעְיָתִ֔י</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='15' WordSequence='4' >הִנָּ֥ךְ</Word>
@@ -149,8 +149,8 @@
 <Word Book='ShirHashshirim' Chapter='1' Verse='17' WordSequence='3' >אֲרָזִ֔ים</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='17' WordSequence='4' >רחיטנו</Word>
 <Word Book='ShirHashshirim' Chapter='1' Verse='17' WordSequence='5' >[רַהִיטֵ֖נוּ]</Word>
-<Word Book='ShirHashshirim' EndPerekAfterWord='true' Chapter='1' Verse='17' WordSequence='6' >בְּרוֹתִֽים</Word>
-<Word Book='ShirHashshirim' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>אֲנִי֙</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='1' Verse='17' WordSequence='6'>בְּרוֹתִֽים</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>אֲנִי֙</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='1' WordSequence='2' >חֲבַצֶּ֣לֶת</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='1' WordSequence='3' >הַשָּׁר֔וֹן</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='1' WordSequence='4' >שֽׁוֹשַׁנַּ֖ת</Word>
@@ -210,8 +210,8 @@
 <Word Book='ShirHashshirim' Chapter='2' Verse='7' WordSequence='13' >אֶת־</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='7' WordSequence='14' >הָאַהֲבָ֖ה</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='7' WordSequence='15' >עַ֥ד</Word>
-<Word Book='ShirHashshirim' Chapter='2' Verse='7' WordSequence='16' >שֶׁתֶּחְפָּֽץ</Word>
-<Word Book='ShirHashshirim' Chapter='2' Verse='8' WordSequence='1' >ק֣וֹל</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='2' Verse='7' WordSequence='16' >שֶׁתֶּחְפָּֽץ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='2' Verse='8' WordSequence='1' IsParashaPtuchah='true' >ק֣וֹל</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='8' WordSequence='2' >דּוֹדִ֔י</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='8' WordSequence='3' >הִנֵּה־</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='8' WordSequence='4' >זֶ֖ה</Word>
@@ -281,8 +281,8 @@
 <Word Book='ShirHashshirim' Chapter='2' Verse='13' WordSequence='11' >רַעְיָתִ֥י</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='13' WordSequence='12' >יָפָתִ֖י</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='13' WordSequence='13' >וּלְכִי־</Word>
-<Word Book='ShirHashshirim' Chapter='2' Verse='13' WordSequence='14' >לָֽךְ</Word>
-<Word Book='ShirHashshirim' Chapter='2' Verse='14' WordSequence='1' >יוֹנָתִ֞י</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='2' Verse='13' WordSequence='14' >לָֽךְ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='2' Verse='14' WordSequence='1' IsParashaPtuchah='true' >יוֹנָתִ֞י</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='14' WordSequence='2' >בְּחַגְוֵ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='14' WordSequence='3' >הַסֶּ֗לַע</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='14' WordSequence='4' >בְּסֵ֙תֶר֙</Word>
@@ -297,8 +297,8 @@
 <Word Book='ShirHashshirim' Chapter='2' Verse='14' WordSequence='13' >קוֹלֵ֥ךְ</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='14' WordSequence='14' >עָרֵ֖ב</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='14' WordSequence='15' >וּמַרְאֵ֥יךְ</Word>
-<Word Book='ShirHashshirim' Chapter='2' Verse='14' WordSequence='16' >נָאוֶֽה</Word>
-<Word Book='ShirHashshirim' Chapter='2' Verse='15' WordSequence='1' >אֶֽחֱזוּ־</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='2' Verse='14' WordSequence='16' >נָאוֶֽה</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='2' Verse='15' WordSequence='1' IsParashaPtuchah='true' >אֶֽחֱזוּ־</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='15' WordSequence='2' >לָ֙נוּ֙</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='15' WordSequence='3' >שֽׁוּעָלִ֔ים</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='15' WordSequence='4' >שֽׁוּעָלִ֥ים</Word>
@@ -328,8 +328,8 @@
 <Word Book='ShirHashshirim' Chapter='2' Verse='17' WordSequence='13' >הָאַיָּלִ֖ים</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='17' WordSequence='14' >עַל־</Word>
 <Word Book='ShirHashshirim' Chapter='2' Verse='17' WordSequence='15' >הָ֥רֵי</Word>
-<Word Book='ShirHashshirim' EndPerekAfterWord='true' Chapter='2' Verse='17' WordSequence='16' IsParashaPtuchah='true' >בָֽתֶר</Word>
-<Word Book='ShirHashshirim' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>עַל־</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='2' Verse='17' WordSequence='16' >בָֽתֶר</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >עַל־</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='1' WordSequence='2' >מִשְׁכָּבִי֙</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='1' WordSequence='3' >בַּלֵּיל֔וֹת</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='1' WordSequence='4' >בִּקַּ֕שְׁתִּי</Word>
@@ -394,8 +394,8 @@
 <Word Book='ShirHashshirim' Chapter='3' Verse='5' WordSequence='13' >אֶת־</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='5' WordSequence='14' >הָאַהֲבָ֖ה</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='5' WordSequence='15' >עַ֥ד</Word>
-<Word Book='ShirHashshirim' Chapter='3' Verse='5' WordSequence='16' >שֶׁתֶּחְפָּֽץ</Word>
-<Word Book='ShirHashshirim' Chapter='3' Verse='6' WordSequence='1' >מִ֣י</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='3' Verse='5' WordSequence='16' >שֶׁתֶּחְפָּֽץ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='3' Verse='6' WordSequence='1' IsParashaPtuchah='true' >מִ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='6' WordSequence='2' >זֹ֗את</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='6' WordSequence='3' >עֹלָה֙</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='6' WordSequence='4' >מִן־</Word>
@@ -427,8 +427,8 @@
 <Word Book='ShirHashshirim' Chapter='3' Verse='8' WordSequence='8' >עַל־</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='8' WordSequence='9' >יְרֵכ֔וֹ</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='8' WordSequence='10' >מִפַּ֖חַד</Word>
-<Word Book='ShirHashshirim' Chapter='3' Verse='8' WordSequence='11' >בַּלֵּילּֽוֹת</Word>
-<Word Book='ShirHashshirim' Chapter='3' Verse='9' WordSequence='1' >אַפִּרְי֗וֹן</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='3' Verse='8' WordSequence='11' >בַּלֵּילּֽוֹת</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='3' Verse='9' WordSequence='1' IsParashaPtuchah='true' >אַפִּרְי֗וֹן</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='9' WordSequence='2' >עָ֤שָׂה</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='9' WordSequence='3' >לוֹ֙</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='9' WordSequence='4' >הַמֶּ֣לֶךְ</Word>
@@ -461,8 +461,8 @@
 <Word Book='ShirHashshirim' Chapter='3' Verse='11' WordSequence='12' >חֲתֻנָּת֔וֹ</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='11' WordSequence='13' >וּבְי֖וֹם</Word>
 <Word Book='ShirHashshirim' Chapter='3' Verse='11' WordSequence='14' >שִׂמְחַ֥ת</Word>
-<Word Book='ShirHashshirim' EndPerekAfterWord='true' Chapter='3' Verse='11' WordSequence='15' IsParashaPtuchah='true' >לִבּֽוֹ</Word>
-<Word Book='ShirHashshirim' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>הִנָּ֨ךְ</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='3' Verse='11' WordSequence='15' >לִבּֽוֹ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >הִנָּ֨ךְ</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='1' WordSequence='2' >יָפָ֤ה</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='1' WordSequence='3' >רַעְיָתִי֙</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='1' WordSequence='4' >הִנָּ֣ךְ</Word>
@@ -536,8 +536,8 @@
 <Word Book='ShirHashshirim' Chapter='4' Verse='7' WordSequence='3' >רַעְיָתִ֔י</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='7' WordSequence='4' >וּמ֖וּם</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='7' WordSequence='5' >אֵ֥ין</Word>
-<Word Book='ShirHashshirim' Chapter='4' Verse='7' WordSequence='6' >בָּֽךְ</Word>
-<Word Book='ShirHashshirim' Chapter='4' Verse='8' WordSequence='1' >אִתִּ֤י</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='4' Verse='7' WordSequence='6' >בָּֽךְ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='4' Verse='8' WordSequence='1' IsParashaPtuchah='true' >אִתִּ֤י</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='8' WordSequence='2' >מִלְּבָנוֹן֙</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='8' WordSequence='3' >כַּלָּ֔ה</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='8' WordSequence='4' >אִתִּ֖י</Word>
@@ -587,8 +587,8 @@
 <Word Book='ShirHashshirim' Chapter='4' Verse='11' WordSequence='9' >וְרֵ֥יחַ</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='11' WordSequence='10' >שַׂלְמֹתַ֖יִךְ</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='11' WordSequence='11' >כְּרֵ֥יחַ</Word>
-<Word Book='ShirHashshirim' Chapter='4' Verse='11' WordSequence='12' >לְבָנֽוֹן</Word>
-<Word Book='ShirHashshirim' Chapter='4' Verse='12' WordSequence='1' >גַּ֥ן׀</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='4' Verse='11' WordSequence='12' >לְבָנֽוֹן</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='4' Verse='12' WordSequence='1' IsParashaPtuchah='true' >גַּ֥ן׀</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='12' WordSequence='2' >נָע֖וּל</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='12' WordSequence='3' >אֲחֹתִ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='12' WordSequence='4' >כַלָּ֑ה</Word>
@@ -640,8 +640,8 @@
 <Word Book='ShirHashshirim' Chapter='4' Verse='16' WordSequence='11' >לְגַנּ֔וֹ</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='16' WordSequence='12' >וְיֹאכַ֖ל</Word>
 <Word Book='ShirHashshirim' Chapter='4' Verse='16' WordSequence='13' >פְּרִ֥י</Word>
-<Word Book='ShirHashshirim' EndPerekAfterWord='true' Chapter='4' Verse='16' WordSequence='14' >מְגָדָֽיו</Word>
-<Word Book='ShirHashshirim' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>בָּ֣אתִי</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='4' Verse='16' WordSequence='14'>מְגָדָֽיו</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>בָּ֣אתִי</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='1' WordSequence='2' >לְגַנִּי֮</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='1' WordSequence='3' >אֲחֹתִ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='1' WordSequence='4' >כַלָּה֒</Word>
@@ -661,8 +661,8 @@
 <Word Book='ShirHashshirim' Chapter='5' Verse='1' WordSequence='18' >רֵעִ֔ים</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='1' WordSequence='19' >שְׁת֥וּ</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='1' WordSequence='20' >וְשִׁכְר֖וּ</Word>
-<Word Book='ShirHashshirim' Chapter='5' Verse='1' WordSequence='21' >דּוֹדִֽים</Word>
-<Word Book='ShirHashshirim' Chapter='5' Verse='2' WordSequence='1' >אֲנִ֥י</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='5' Verse='1' WordSequence='21' >דּוֹדִֽים</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='5' Verse='2' WordSequence='1' IsParashaPtuchah='true' >אֲנִ֥י</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='2' WordSequence='2' >יְשֵׁנָ֖ה</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='2' WordSequence='3' >וְלִבִּ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='2' WordSequence='4' >עֵ֑ר</Word>
@@ -825,8 +825,8 @@
 <Word Book='ShirHashshirim' Chapter='5' Verse='16' WordSequence='7' >וְזֶ֣ה</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='16' WordSequence='8' >רֵעִ֔י</Word>
 <Word Book='ShirHashshirim' Chapter='5' Verse='16' WordSequence='9' >בְּנ֖וֹת</Word>
-<Word Book='ShirHashshirim' EndPerekAfterWord='true' Chapter='5' Verse='16' WordSequence='10' >יְרוּשָׁלִָֽם</Word>
-<Word Book='ShirHashshirim' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>אָ֚נָה</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='5' Verse='16' WordSequence='10'>יְרוּשָׁלִָֽם</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>אָ֚נָה</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='1' WordSequence='2' >הָלַ֣ךְ</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='1' WordSequence='3' >דּוֹדֵ֔ךְ</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='1' WordSequence='4' >הַיָּפָ֖ה</Word>
@@ -850,8 +850,8 @@
 <Word Book='ShirHashshirim' Chapter='6' Verse='3' WordSequence='3' >וְדוֹדִ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='3' WordSequence='4' >לִ֔י</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='3' WordSequence='5' >הָרֹעֶ֖ה</Word>
-<Word Book='ShirHashshirim' Chapter='6' Verse='3' WordSequence='6' >בַּשׁוֹשַׁנִּֽים</Word>
-<Word Book='ShirHashshirim' Chapter='6' Verse='4' WordSequence='1' >יָפָ֨ה</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='6' Verse='3' WordSequence='6' >בַּשׁוֹשַׁנִּֽים</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='6' Verse='4' WordSequence='1' IsParashaPtuchah='true' >יָפָ֨ה</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='4' WordSequence='2' >אַ֤תְּ</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='4' WordSequence='3' >רַעְיָתִי֙</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='4' WordSequence='4' >כְּתִרְצָ֔ה</Word>
@@ -909,8 +909,8 @@
 <Word Book='ShirHashshirim' Chapter='6' Verse='9' WordSequence='13' >וַֽיְאַשְּׁר֔וּהָ</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='9' WordSequence='14' >מְלָכ֥וֹת</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='9' WordSequence='15' >וּפִֽילַגְשִׁ֖ים</Word>
-<Word Book='ShirHashshirim' Chapter='6' Verse='9' WordSequence='16' >וַֽיְהַלְלֽוּהָ</Word>
-<Word Book='ShirHashshirim' Chapter='6' Verse='10' WordSequence='1' >מִי־</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='6' Verse='9' WordSequence='16' >וַֽיְהַלְלֽוּהָ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='6' Verse='10' WordSequence='1' IsParashaPtuchah='true' >מִי־</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='10' WordSequence='2' >זֹ֥את</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='10' WordSequence='3' >הַנִּשְׁקָפָ֖ה</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='10' WordSequence='4' >כְּמוֹ־</Word>
@@ -920,8 +920,8 @@
 <Word Book='ShirHashshirim' Chapter='6' Verse='10' WordSequence='8' >בָּרָה֙</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='10' WordSequence='9' >כַּֽחַמָּ֔ה</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='10' WordSequence='10' >אֲיֻמָּ֖ה</Word>
-<Word Book='ShirHashshirim' Chapter='6' Verse='10' WordSequence='11' >כַּנִּדְגָּלֽוֹת</Word>
-<Word Book='ShirHashshirim' Chapter='6' Verse='11' WordSequence='1' >אֶל־</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='6' Verse='10' WordSequence='11' >כַּנִּדְגָּלֽוֹת</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='6' Verse='11' WordSequence='1' IsParashaPtuchah='true' >אֶל־</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='11' WordSequence='2' >גִּנַּ֤ת</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='11' WordSequence='3' >אֱגוֹז֙</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='11' WordSequence='4' >יָרַ֔דְתִּי</Word>
@@ -939,8 +939,8 @@
 <Word Book='ShirHashshirim' Chapter='6' Verse='12' WordSequence='4' >שָׂמַ֔תְנִי</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='12' WordSequence='5' >מַרְכְּב֖וֹת</Word>
 <Word Book='ShirHashshirim' Chapter='6' Verse='12' WordSequence='6' >עַמִּי־</Word>
-<Word Book='ShirHashshirim' EndPerekAfterWord='true' Chapter='6' Verse='12' WordSequence='7' >נָדִֽיב</Word>
-<Word Book='ShirHashshirim' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>שׁ֤וּבִי</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='6' Verse='12' WordSequence='7'>נָדִֽיב</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>שׁ֤וּבִי</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='1' WordSequence='2' >שׁ֙וּבִי֙</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='1' WordSequence='3' >הַשּׁ֣וּלַמִּ֔ית</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='1' WordSequence='4' >שׁ֥וּבִי</Word>
@@ -1044,8 +1044,8 @@
 <Word Book='ShirHashshirim' Chapter='7' Verse='11' WordSequence='1' >אֲנִ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='11' WordSequence='2' >לְדוֹדִ֔י</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='11' WordSequence='3' >וְעָלַ֖י</Word>
-<Word Book='ShirHashshirim' Chapter='7' Verse='11' WordSequence='4' >תְּשׁוּקָתֽוֹ</Word>
-<Word Book='ShirHashshirim' Chapter='7' Verse='12' WordSequence='1' >לְכָ֤ה</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='7' Verse='11' WordSequence='4' >תְּשׁוּקָתֽוֹ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='7' Verse='12' WordSequence='1' IsParashaPtuchah='true' >לְכָ֤ה</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='12' WordSequence='2' >דוֹדִי֙</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='12' WordSequence='3' >נֵצֵ֣א</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='12' WordSequence='4' >הַשָּׂדֶ֔ה</Word>
@@ -1078,8 +1078,8 @@
 <Word Book='ShirHashshirim' Chapter='7' Verse='14' WordSequence='10' >יְשָׁנִ֑ים</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='14' WordSequence='11' >דּוֹדִ֖י</Word>
 <Word Book='ShirHashshirim' Chapter='7' Verse='14' WordSequence='12' >צָפַ֥נְתִּי</Word>
-<Word Book='ShirHashshirim' EndPerekAfterWord='true' Chapter='7' Verse='14' WordSequence='13' >לָֽךְ</Word>
-<Word Book='ShirHashshirim' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>מִ֤י</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='7' Verse='14' WordSequence='13'>לָֽךְ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>מִ֤י</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='1' WordSequence='2' >יִתֶּנְךָ֙</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='1' WordSequence='3' >כְּאָ֣ח</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='1' WordSequence='4' >לִ֔י</Word>
@@ -1120,8 +1120,8 @@
 <Word Book='ShirHashshirim' Chapter='8' Verse='4' WordSequence='9' >אֶת־</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='4' WordSequence='10' >הָאַהֲבָ֖ה</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='4' WordSequence='11' >עַ֥ד</Word>
-<Word Book='ShirHashshirim' Chapter='8' Verse='4' WordSequence='12' >שֶׁתֶּחְפָּֽץ</Word>
-<Word Book='ShirHashshirim' Chapter='8' Verse='5' WordSequence='1' >מִ֣י</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='8' Verse='4' WordSequence='12' >שֶׁתֶּחְפָּֽץ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='8' Verse='5' WordSequence='1' IsParashaPtuchah='true' >מִ֣י</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='5' WordSequence='2' >זֹ֗את</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='5' WordSequence='3' >עֹלָה֙</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='5' WordSequence='4' >מִן־</Word>
@@ -1176,8 +1176,8 @@
 <Word Book='ShirHashshirim' Chapter='8' Verse='7' WordSequence='18' >בָּאַהֲבָ֔ה</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='7' WordSequence='19' >בּ֖וֹז</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='7' WordSequence='20' >יָב֥וּזוּ</Word>
-<Word Book='ShirHashshirim' Chapter='8' Verse='7' WordSequence='21' >לֽוֹ</Word>
-<Word Book='ShirHashshirim' Chapter='8' Verse='8' WordSequence='1' >אָח֥וֹת</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='8' Verse='7' WordSequence='21' >לֽוֹ</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='8' Verse='8' WordSequence='1' IsParashaPtuchah='true' >אָח֥וֹת</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='8' WordSequence='2' >לָ֙נוּ֙</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='8' WordSequence='3' >קְטַנָּ֔ה</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='8' WordSequence='4' >וְשָׁדַ֖יִם</Word>
@@ -1211,8 +1211,8 @@
 <Word Book='ShirHashshirim' Chapter='8' Verse='10' WordSequence='6' >הָיִ֥יתִי</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='10' WordSequence='7' >בְעֵינָ֖יו</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='10' WordSequence='8' >כְּמוֹצְאֵ֥ת</Word>
-<Word Book='ShirHashshirim' Chapter='8' Verse='10' WordSequence='9' IsParashaPtuchah='true' >שָׁלֽוֹם</Word>
-<Word Book='ShirHashshirim' Chapter='8' Verse='11' WordSequence='1' >כֶּ֣רֶם</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='8' Verse='10' WordSequence='9'>שָׁלֽוֹם</Word>
+<Word Book='ShirHashshirim' StartParashaBeforeWord='true' Chapter='8' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כֶּ֣רֶם</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='11' WordSequence='2' >הָיָ֤ה</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='11' WordSequence='3' >לִשְׁלֹמֹה֙</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='11' WordSequence='4' >בְּבַ֣עַל</Word>
@@ -1252,5 +1252,5 @@
 <Word Book='ShirHashshirim' Chapter='8' Verse='14' WordSequence='8' >הָֽאַיָּלִ֔ים</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='14' WordSequence='9' >עַ֖ל</Word>
 <Word Book='ShirHashshirim' Chapter='8' Verse='14' WordSequence='10' >הָרֵ֥י</Word>
-<Word Book='ShirHashshirim' EndPerekAfterWord='true' Chapter='8' Verse='14' WordSequence='11' >בְשָׂמִֽים</Word>
+<Word Book='ShirHashshirim' EndParashaAfterWord='true' Chapter='8' Verse='14' WordSequence='11'>בְשָׂמִֽים</Word>
 </Tanakh>

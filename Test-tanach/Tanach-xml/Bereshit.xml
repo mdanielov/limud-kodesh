@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>בְּרֵאשִׁ֖ית</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>בְּרֵאשִׁ֖ית</Word>
 <Word Book='Bereshit' Chapter='1' Verse='1' WordSequence='2' >בָּרָ֣א</Word>
 <Word Book='Bereshit' Chapter='1' Verse='1' WordSequence='3' >אֱלֹהִ֑ים</Word>
 <Word Book='Bereshit' Chapter='1' Verse='1' WordSequence='4' >אֵ֥ת</Word>
@@ -50,8 +50,8 @@
 <Word Book='Bereshit' Chapter='1' Verse='5' WordSequence='10' >וַֽיְהִי־</Word>
 <Word Book='Bereshit' Chapter='1' Verse='5' WordSequence='11' >בֹ֖קֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='5' WordSequence='12' >י֥וֹם</Word>
-<Word Book='Bereshit' Chapter='1' Verse='5' WordSequence='13' IsParashaPtuchah='true' >אֶחָֽד</Word>
-<Word Book='Bereshit' Chapter='1' Verse='6' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='1' Verse='5' WordSequence='13'>אֶחָֽד</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='1' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='6' WordSequence='2' >אֱלֹהִ֔ים</Word>
 <Word Book='Bereshit' Chapter='1' Verse='6' WordSequence='3' >יְהִ֥י</Word>
 <Word Book='Bereshit' Chapter='1' Verse='6' WordSequence='4' >רָקִ֖יעַ</Word>
@@ -88,8 +88,8 @@
 <Word Book='Bereshit' Chapter='1' Verse='8' WordSequence='7' >וַֽיְהִי־</Word>
 <Word Book='Bereshit' Chapter='1' Verse='8' WordSequence='8' >בֹ֖קֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='8' WordSequence='9' >י֥וֹם</Word>
-<Word Book='Bereshit' Chapter='1' Verse='8' WordSequence='10' IsParashaPtuchah='true' >שֵׁנִֽי</Word>
-<Word Book='Bereshit' Chapter='1' Verse='9' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='1' Verse='8' WordSequence='10'>שֵׁנִֽי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='1' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='9' WordSequence='2' >אֱלֹהִ֗ים</Word>
 <Word Book='Bereshit' Chapter='1' Verse='9' WordSequence='3' >יִקָּו֨וּ</Word>
 <Word Book='Bereshit' Chapter='1' Verse='9' WordSequence='4' >הַמַּ֜יִם</Word>
@@ -157,8 +157,8 @@
 <Word Book='Bereshit' Chapter='1' Verse='13' WordSequence='3' >וַֽיְהִי־</Word>
 <Word Book='Bereshit' Chapter='1' Verse='13' WordSequence='4' >בֹ֖קֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='13' WordSequence='5' >י֥וֹם</Word>
-<Word Book='Bereshit' Chapter='1' Verse='13' WordSequence='6' IsParashaPtuchah='true' >שְׁלִישִֽׁי</Word>
-<Word Book='Bereshit' Chapter='1' Verse='14' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='1' Verse='13' WordSequence='6'>שְׁלִישִֽׁי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='1' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='14' WordSequence='2' >אֱלֹהִ֗ים</Word>
 <Word Book='Bereshit' Chapter='1' Verse='14' WordSequence='3' >יְהִ֤י</Word>
 <Word Book='Bereshit' Chapter='1' Verse='14' WordSequence='4' >מְאֹרֹת֙</Word>
@@ -226,8 +226,8 @@
 <Word Book='Bereshit' Chapter='1' Verse='19' WordSequence='3' >וַֽיְהִי־</Word>
 <Word Book='Bereshit' Chapter='1' Verse='19' WordSequence='4' >בֹ֖קֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='19' WordSequence='5' >י֥וֹם</Word>
-<Word Book='Bereshit' Chapter='1' Verse='19' WordSequence='6' IsParashaPtuchah='true' >רְבִיעִֽי</Word>
-<Word Book='Bereshit' Chapter='1' Verse='20' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='1' Verse='19' WordSequence='6'>רְבִיעִֽי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='1' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='20' WordSequence='2' >אֱלֹהִ֔ים</Word>
 <Word Book='Bereshit' Chapter='1' Verse='20' WordSequence='3' >יִשְׁרְצ֣וּ</Word>
 <Word Book='Bereshit' Chapter='1' Verse='20' WordSequence='4' >הַמַּ֔יִם</Word>
@@ -283,8 +283,8 @@
 <Word Book='Bereshit' Chapter='1' Verse='23' WordSequence='3' >וַֽיְהִי־</Word>
 <Word Book='Bereshit' Chapter='1' Verse='23' WordSequence='4' >בֹ֖קֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='23' WordSequence='5' >י֥וֹם</Word>
-<Word Book='Bereshit' Chapter='1' Verse='23' WordSequence='6' IsParashaPtuchah='true' >חֲמִישִֽׁי</Word>
-<Word Book='Bereshit' Chapter='1' Verse='24' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='1' Verse='23' WordSequence='6'>חֲמִישִֽׁי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='1' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='24' WordSequence='2' >אֱלֹהִ֗ים</Word>
 <Word Book='Bereshit' Chapter='1' Verse='24' WordSequence='3' >תּוֹצֵ֨א</Word>
 <Word Book='Bereshit' Chapter='1' Verse='24' WordSequence='4' >הָאָ֜רֶץ</Word>
@@ -432,8 +432,8 @@
 <Word Book='Bereshit' Chapter='1' Verse='31' WordSequence='12' >וַֽיְהִי־</Word>
 <Word Book='Bereshit' Chapter='1' Verse='31' WordSequence='13' >בֹ֖קֶר</Word>
 <Word Book='Bereshit' Chapter='1' Verse='31' WordSequence='14' >י֥וֹם</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='1' Verse='31' WordSequence='15' IsParashaPtuchah='true' >הַשִּׁשִּֽׁי</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיְכֻלּ֛וּ</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='1' Verse='31' WordSequence='15'>הַשִּׁשִּֽׁי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְכֻלּ֛וּ</Word>
 <Word Book='Bereshit' Chapter='2' Verse='1' WordSequence='2' >הַשָּׁמַ֥יִם</Word>
 <Word Book='Bereshit' Chapter='2' Verse='1' WordSequence='3' >וְהָאָ֖רֶץ</Word>
 <Word Book='Bereshit' Chapter='2' Verse='1' WordSequence='4' >וְכָל־</Word>
@@ -467,8 +467,8 @@
 <Word Book='Bereshit' Chapter='2' Verse='3' WordSequence='13' >אֲשֶׁר־</Word>
 <Word Book='Bereshit' Chapter='2' Verse='3' WordSequence='14' >בָּרָ֥א</Word>
 <Word Book='Bereshit' Chapter='2' Verse='3' WordSequence='15' >אֱלֹהִ֖ים</Word>
-<Word Book='Bereshit' Chapter='2' Verse='3' WordSequence='16' IsParashaPtuchah='true' >לַעֲשֽׂוֹת</Word>
-<Word Book='Bereshit' Chapter='2' Verse='4' WordSequence='1' >אֵ֣לֶּה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='2' Verse='3' WordSequence='16'>לַעֲשֽׂוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='2' Verse='4' WordSequence='1' IsParashaPtuchah='true' >אֵ֣לֶּה</Word>
 <Word Book='Bereshit' Chapter='2' Verse='4' WordSequence='2' >תוֹלְד֧וֹת</Word>
 <Word Book='Bereshit' Chapter='2' Verse='4' WordSequence='3' >הַשָּׁמַ֛יִם</Word>
 <Word Book='Bereshit' Chapter='2' Verse='4' WordSequence='4' >וְהָאָ֖רֶץ</Word>
@@ -760,8 +760,8 @@
 <Word Book='Bereshit' Chapter='2' Verse='25' WordSequence='4' >הָֽאָדָ֖ם</Word>
 <Word Book='Bereshit' Chapter='2' Verse='25' WordSequence='5' >וְאִשְׁתּ֑וֹ</Word>
 <Word Book='Bereshit' Chapter='2' Verse='25' WordSequence='6' >וְלֹ֖א</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='2' Verse='25' WordSequence='7' >יִתְבֹּשָֽׁשׁוּ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וְהַנָּחָשׁ֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='2' Verse='25' WordSequence='7'>יִתְבֹּשָֽׁשׁוּ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וְהַנָּחָשׁ֙</Word>
 <Word Book='Bereshit' Chapter='3' Verse='1' WordSequence='2' >הָיָ֣ה</Word>
 <Word Book='Bereshit' Chapter='3' Verse='1' WordSequence='3' >עָר֔וּם</Word>
 <Word Book='Bereshit' Chapter='3' Verse='1' WordSequence='4' >מִכֹּל֙</Word>
@@ -973,8 +973,8 @@
 <Word Book='Bereshit' Chapter='3' Verse='15' WordSequence='12' >רֹ֔אשׁ</Word>
 <Word Book='Bereshit' Chapter='3' Verse='15' WordSequence='13' >וְאַתָּ֖ה</Word>
 <Word Book='Bereshit' Chapter='3' Verse='15' WordSequence='14' >תְּשׁוּפֶ֥נּוּ</Word>
-<Word Book='Bereshit' Chapter='3' Verse='15' WordSequence='15' >עָקֵֽב</Word>
-<Word Book='Bereshit' Chapter='3' Verse='16' WordSequence='1' >אֶֽל־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='3' Verse='15' WordSequence='15' >עָקֵֽב</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='3' Verse='16' WordSequence='1' IsParashaPtuchah='true' >אֶֽל־</Word>
 <Word Book='Bereshit' Chapter='3' Verse='16' WordSequence='2' >הָאִשָּׁ֣ה</Word>
 <Word Book='Bereshit' Chapter='3' Verse='16' WordSequence='3' >אָמַ֗ר</Word>
 <Word Book='Bereshit' Chapter='3' Verse='16' WordSequence='4' >הַרְבָּ֤ה</Word>
@@ -989,8 +989,8 @@
 <Word Book='Bereshit' Chapter='3' Verse='16' WordSequence='13' >תְּשׁ֣וּקָתֵ֔ךְ</Word>
 <Word Book='Bereshit' Chapter='3' Verse='16' WordSequence='14' >וְה֖וּא</Word>
 <Word Book='Bereshit' Chapter='3' Verse='16' WordSequence='15' >יִמְשָׁל־</Word>
-<Word Book='Bereshit' Chapter='3' Verse='16' WordSequence='16' >בָּֽךְ</Word>
-<Word Book='Bereshit' Chapter='3' Verse='17' WordSequence='1' >וּלְאָדָ֣ם</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='3' Verse='16' WordSequence='16' >בָּֽךְ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='3' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וּלְאָדָ֣ם</Word>
 <Word Book='Bereshit' Chapter='3' Verse='17' WordSequence='2' >אָמַ֗ר</Word>
 <Word Book='Bereshit' Chapter='3' Verse='17' WordSequence='3' >כִּֽי־</Word>
 <Word Book='Bereshit' Chapter='3' Verse='17' WordSequence='4' >שָׁמַעְתָּ֮</Word>
@@ -1056,8 +1056,8 @@
 <Word Book='Bereshit' Chapter='3' Verse='21' WordSequence='5' >וּלְאִשְׁתּ֛וֹ</Word>
 <Word Book='Bereshit' Chapter='3' Verse='21' WordSequence='6' >כָּתְנ֥וֹת</Word>
 <Word Book='Bereshit' Chapter='3' Verse='21' WordSequence='7' >ע֖וֹר</Word>
-<Word Book='Bereshit' Chapter='3' Verse='21' WordSequence='8' IsParashaPtuchah='true' >וַיַּלְבִּשֵֽׁם</Word>
-<Word Book='Bereshit' Chapter='3' Verse='22' WordSequence='1' >וַיֹּ֣אמֶר׀</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='3' Verse='21' WordSequence='8'>וַיַּלְבִּשֵֽׁם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='3' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר׀</Word>
 <Word Book='Bereshit' Chapter='3' Verse='22' WordSequence='2' >יְהוָ֣ה</Word>
 <Word Book='Bereshit' Chapter='3' Verse='22' WordSequence='3' >אֱלֹהִ֗ים</Word>
 <Word Book='Bereshit' Chapter='3' Verse='22' WordSequence='4' >הֵ֤ן</Word>
@@ -1107,8 +1107,8 @@
 <Word Book='Bereshit' Chapter='3' Verse='24' WordSequence='15' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='3' Verse='24' WordSequence='16' >דֶּ֖רֶךְ</Word>
 <Word Book='Bereshit' Chapter='3' Verse='24' WordSequence='17' >עֵ֥ץ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='3' Verse='24' WordSequence='18' IsParashaPtuchah='true' >הַֽחַיִּֽים</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וְהָ֣אָדָ֔ם</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='3' Verse='24' WordSequence='18' >הַֽחַיִּֽים</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְהָ֣אָדָ֔ם</Word>
 <Word Book='Bereshit' Chapter='4' Verse='1' WordSequence='2' >יָדַ֖ע</Word>
 <Word Book='Bereshit' Chapter='4' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='4' Verse='1' WordSequence='4' >חַוָּ֣ה</Word>
@@ -1448,8 +1448,8 @@
 <Word Book='Bereshit' Chapter='4' Verse='26' WordSequence='11' >הוּחַ֔ל</Word>
 <Word Book='Bereshit' Chapter='4' Verse='26' WordSequence='12' >לִקְרֹ֖א</Word>
 <Word Book='Bereshit' Chapter='4' Verse='26' WordSequence='13' >בְּשֵׁ֥ם</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='4' Verse='26' WordSequence='14' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>זֶ֣ה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='4' Verse='26' WordSequence='14'>יְהוָֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >זֶ֣ה</Word>
 <Word Book='Bereshit' Chapter='5' Verse='1' WordSequence='2' >סֵ֔פֶר</Word>
 <Word Book='Bereshit' Chapter='5' Verse='1' WordSequence='3' >תּוֹלְדֹ֖ת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='1' WordSequence='4' >אָדָ֑ם</Word>
@@ -1471,8 +1471,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='2' WordSequence='8' >שְׁמָם֙</Word>
 <Word Book='Bereshit' Chapter='5' Verse='2' WordSequence='9' >אָדָ֔ם</Word>
 <Word Book='Bereshit' Chapter='5' Verse='2' WordSequence='10' >בְּי֖וֹם</Word>
-<Word Book='Bereshit' Chapter='5' Verse='2' WordSequence='11' >הִבָּֽרְאָֽם</Word>
-<Word Book='Bereshit' Chapter='5' Verse='3' WordSequence='1' >וַֽיְחִ֣י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='2' WordSequence='11' >הִבָּֽרְאָֽם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִ֣י</Word>
 <Word Book='Bereshit' Chapter='5' Verse='3' WordSequence='2' >אָדָ֗ם</Word>
 <Word Book='Bereshit' Chapter='5' Verse='3' WordSequence='3' >שְׁלֹשִׁ֤ים</Word>
 <Word Book='Bereshit' Chapter='5' Verse='3' WordSequence='4' >וּמְאַת֙</Word>
@@ -1508,8 +1508,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='5' WordSequence='9' >שָׁנָ֔ה</Word>
 <Word Book='Bereshit' Chapter='5' Verse='5' WordSequence='10' >וּשְׁלֹשִׁ֖ים</Word>
 <Word Book='Bereshit' Chapter='5' Verse='5' WordSequence='11' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' Chapter='5' Verse='5' WordSequence='12' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' Chapter='5' Verse='6' WordSequence='1' >וַֽיְחִי־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='5' WordSequence='12' >וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִי־</Word>
 <Word Book='Bereshit' Chapter='5' Verse='6' WordSequence='2' >שֵׁ֕ת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='6' WordSequence='3' >חָמֵ֥שׁ</Word>
 <Word Book='Bereshit' Chapter='5' Verse='6' WordSequence='4' >שָׁנִ֖ים</Word>
@@ -1542,8 +1542,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='8' WordSequence='8' >וּתְשַׁ֥ע</Word>
 <Word Book='Bereshit' Chapter='5' Verse='8' WordSequence='9' >מֵא֖וֹת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='8' WordSequence='10' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' Chapter='5' Verse='8' WordSequence='11' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' Chapter='5' Verse='9' WordSequence='1' >וַֽיְחִ֥י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='8' WordSequence='11' >וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִ֥י</Word>
 <Word Book='Bereshit' Chapter='5' Verse='9' WordSequence='2' >אֱנ֖וֹשׁ</Word>
 <Word Book='Bereshit' Chapter='5' Verse='9' WordSequence='3' >תִּשְׁעִ֣ים</Word>
 <Word Book='Bereshit' Chapter='5' Verse='9' WordSequence='4' >שָׁנָ֑ה</Word>
@@ -1574,8 +1574,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='11' WordSequence='7' >וּתְשַׁ֥ע</Word>
 <Word Book='Bereshit' Chapter='5' Verse='11' WordSequence='8' >מֵא֖וֹת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='11' WordSequence='9' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' Chapter='5' Verse='11' WordSequence='10' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' Chapter='5' Verse='12' WordSequence='1' >וַֽיְחִ֥י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='11' WordSequence='10' >וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִ֥י</Word>
 <Word Book='Bereshit' Chapter='5' Verse='12' WordSequence='2' >קֵינָ֖ן</Word>
 <Word Book='Bereshit' Chapter='5' Verse='12' WordSequence='3' >שִׁבְעִ֣ים</Word>
 <Word Book='Bereshit' Chapter='5' Verse='12' WordSequence='4' >שָׁנָ֑ה</Word>
@@ -1605,8 +1605,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='14' WordSequence='7' >וּתְשַׁ֥ע</Word>
 <Word Book='Bereshit' Chapter='5' Verse='14' WordSequence='8' >מֵא֖וֹת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='14' WordSequence='9' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' Chapter='5' Verse='14' WordSequence='10' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' Chapter='5' Verse='15' WordSequence='1' >וַֽיְחִ֣י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='14' WordSequence='10' >וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִ֣י</Word>
 <Word Book='Bereshit' Chapter='5' Verse='15' WordSequence='2' >מַֽהֲלַלְאֵ֔ל</Word>
 <Word Book='Bereshit' Chapter='5' Verse='15' WordSequence='3' >חָמֵ֥שׁ</Word>
 <Word Book='Bereshit' Chapter='5' Verse='15' WordSequence='4' >שָׁנִ֖ים</Word>
@@ -1639,8 +1639,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='17' WordSequence='8' >וּשְׁמֹנֶ֥ה</Word>
 <Word Book='Bereshit' Chapter='5' Verse='17' WordSequence='9' >מֵא֖וֹת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='17' WordSequence='10' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' Chapter='5' Verse='17' WordSequence='11' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' Chapter='5' Verse='18' WordSequence='1' >וַֽיְחִי־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='17' WordSequence='11' >וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִי־</Word>
 <Word Book='Bereshit' Chapter='5' Verse='18' WordSequence='2' >יֶ֕רֶד</Word>
 <Word Book='Bereshit' Chapter='5' Verse='18' WordSequence='3' >שְׁתַּ֧יִם</Word>
 <Word Book='Bereshit' Chapter='5' Verse='18' WordSequence='4' >וְשִׁשִּׁ֛ים</Word>
@@ -1672,8 +1672,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='20' WordSequence='8' >וּתְשַׁ֥ע</Word>
 <Word Book='Bereshit' Chapter='5' Verse='20' WordSequence='9' >מֵא֖וֹת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='20' WordSequence='10' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' Chapter='5' Verse='20' WordSequence='11' IsParashaPtuchah='true' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' Chapter='5' Verse='21' WordSequence='1' >וַֽיְחִ֣י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='20' WordSequence='11'>וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִ֣י</Word>
 <Word Book='Bereshit' Chapter='5' Verse='21' WordSequence='2' >חֲנ֔וֹךְ</Word>
 <Word Book='Bereshit' Chapter='5' Verse='21' WordSequence='3' >חָמֵ֥שׁ</Word>
 <Word Book='Bereshit' Chapter='5' Verse='21' WordSequence='4' >וְשִׁשִּׁ֖ים</Word>
@@ -1713,8 +1713,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='24' WordSequence='6' >כִּֽי־</Word>
 <Word Book='Bereshit' Chapter='5' Verse='24' WordSequence='7' >לָקַ֥ח</Word>
 <Word Book='Bereshit' Chapter='5' Verse='24' WordSequence='8' >אֹת֖וֹ</Word>
-<Word Book='Bereshit' Chapter='5' Verse='24' WordSequence='9' IsParashaPtuchah='true' >אֱלֹהִֽים</Word>
-<Word Book='Bereshit' Chapter='5' Verse='25' WordSequence='1' >וַיְחִ֣י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='24' WordSequence='9'>אֱלֹהִֽים</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וַיְחִ֣י</Word>
 <Word Book='Bereshit' Chapter='5' Verse='25' WordSequence='2' >מְתוּשֶׁ֔לַח</Word>
 <Word Book='Bereshit' Chapter='5' Verse='25' WordSequence='3' >שֶׁ֧בַע</Word>
 <Word Book='Bereshit' Chapter='5' Verse='25' WordSequence='4' >וּשְׁמֹנִ֛ים</Word>
@@ -1749,8 +1749,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='27' WordSequence='8' >וּתְשַׁ֥ע</Word>
 <Word Book='Bereshit' Chapter='5' Verse='27' WordSequence='9' >מֵא֖וֹת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='27' WordSequence='10' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' Chapter='5' Verse='27' WordSequence='11' IsParashaPtuchah='true' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' Chapter='5' Verse='28' WordSequence='1' >וַֽיְחִי־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='27' WordSequence='11'>וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִי־</Word>
 <Word Book='Bereshit' Chapter='5' Verse='28' WordSequence='2' >לֶ֕מֶךְ</Word>
 <Word Book='Bereshit' Chapter='5' Verse='28' WordSequence='3' >שְׁתַּ֧יִם</Word>
 <Word Book='Bereshit' Chapter='5' Verse='28' WordSequence='4' >וּשְׁמֹנִ֛ים</Word>
@@ -1799,8 +1799,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='31' WordSequence='8' >וּשְׁבַ֥ע</Word>
 <Word Book='Bereshit' Chapter='5' Verse='31' WordSequence='9' >מֵא֖וֹת</Word>
 <Word Book='Bereshit' Chapter='5' Verse='31' WordSequence='10' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' Chapter='5' Verse='31' WordSequence='11' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' Chapter='5' Verse='32' WordSequence='1' >וַֽיְהִי־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='31' WordSequence='11' >וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='5' Verse='32' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי־</Word>
 <Word Book='Bereshit' Chapter='5' Verse='32' WordSequence='2' >נֹ֕חַ</Word>
 <Word Book='Bereshit' Chapter='5' Verse='32' WordSequence='3' >בֶּן־</Word>
 <Word Book='Bereshit' Chapter='5' Verse='32' WordSequence='4' >חֲמֵ֥שׁ</Word>
@@ -1813,8 +1813,8 @@
 <Word Book='Bereshit' Chapter='5' Verse='32' WordSequence='11' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='5' Verse='32' WordSequence='12' >חָ֥ם</Word>
 <Word Book='Bereshit' Chapter='5' Verse='32' WordSequence='13' >וְאֶת־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='5' Verse='32' WordSequence='14' >יָֽפֶת</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='5' Verse='32' WordSequence='14'>יָֽפֶת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
 <Word Book='Bereshit' Chapter='6' Verse='1' WordSequence='2' >כִּֽי־</Word>
 <Word Book='Bereshit' Chapter='6' Verse='1' WordSequence='3' >הֵחֵ֣ל</Word>
 <Word Book='Bereshit' Chapter='6' Verse='1' WordSequence='4' >הָֽאָדָ֔ם</Word>
@@ -1877,8 +1877,8 @@
 <Word Book='Bereshit' Chapter='6' Verse='4' WordSequence='20' >אֲשֶׁ֥ר</Word>
 <Word Book='Bereshit' Chapter='6' Verse='4' WordSequence='21' >מֵעוֹלָ֖ם</Word>
 <Word Book='Bereshit' Chapter='6' Verse='4' WordSequence='22' >אַנְשֵׁ֥י</Word>
-<Word Book='Bereshit' Chapter='6' Verse='4' WordSequence='23' IsParashaPtuchah='true' >הַשֵּֽׁם</Word>
-<Word Book='Bereshit' Chapter='6' Verse='5' WordSequence='1' >וַיַּ֣רְא</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='6' Verse='4' WordSequence='23'>הַשֵּֽׁם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='6' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֣רְא</Word>
 <Word Book='Bereshit' Chapter='6' Verse='5' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Bereshit' Chapter='6' Verse='5' WordSequence='3' >כִּ֥י</Word>
 <Word Book='Bereshit' Chapter='6' Verse='5' WordSequence='4' >רַבָּ֛ה</Word>
@@ -1929,8 +1929,8 @@
 <Word Book='Bereshit' Chapter='6' Verse='8' WordSequence='2' >מָ֥צָא</Word>
 <Word Book='Bereshit' Chapter='6' Verse='8' WordSequence='3' >חֵ֖ן</Word>
 <Word Book='Bereshit' Chapter='6' Verse='8' WordSequence='4' >בְּעֵינֵ֥י</Word>
-<Word Book='Bereshit' Chapter='6' Verse='8' WordSequence='5' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Bereshit' Chapter='6' Verse='9' WordSequence='1' >אֵ֚לֶּה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='6' Verse='8' WordSequence='5'>יְהוָֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='6' Verse='9' WordSequence='1' IsParashaPtuchah='true' >אֵ֚לֶּה</Word>
 <Word Book='Bereshit' Chapter='6' Verse='9' WordSequence='2' >תּוֹלְדֹ֣ת</Word>
 <Word Book='Bereshit' Chapter='6' Verse='9' WordSequence='3' >נֹ֔חַ</Word>
 <Word Book='Bereshit' Chapter='6' Verse='9' WordSequence='4' >נֹ֗חַ</Word>
@@ -1973,8 +1973,8 @@
 <Word Book='Bereshit' Chapter='6' Verse='12' WordSequence='11' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='6' Verse='12' WordSequence='12' >דַּרְכּ֖וֹ</Word>
 <Word Book='Bereshit' Chapter='6' Verse='12' WordSequence='13' >עַל־</Word>
-<Word Book='Bereshit' Chapter='6' Verse='12' WordSequence='14' >הָאָֽרֶץ</Word>
-<Word Book='Bereshit' Chapter='6' Verse='13' WordSequence='1' >וַיֹּ֨אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='6' Verse='12' WordSequence='14' >הָאָֽרֶץ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='6' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Bereshit' Chapter='6' Verse='13' WordSequence='2' >אֱלֹהִ֜ים</Word>
 <Word Book='Bereshit' Chapter='6' Verse='13' WordSequence='3' >לְנֹ֗חַ</Word>
 <Word Book='Bereshit' Chapter='6' Verse='13' WordSequence='4' >קֵ֤ץ</Word>
@@ -2118,8 +2118,8 @@
 <Word Book='Bereshit' Chapter='6' Verse='22' WordSequence='6' >אֹת֛וֹ</Word>
 <Word Book='Bereshit' Chapter='6' Verse='22' WordSequence='7' >אֱלֹהִ֖ים</Word>
 <Word Book='Bereshit' Chapter='6' Verse='22' WordSequence='8' >כֵּ֥ן</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='6' Verse='22' WordSequence='9' IsParashaPtuchah='true' >עָשָֽׂה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='6' Verse='22' WordSequence='9' >עָשָֽׂה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bereshit' Chapter='7' Verse='1' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Bereshit' Chapter='7' Verse='1' WordSequence='3' >לְנֹ֔חַ</Word>
 <Word Book='Bereshit' Chapter='7' Verse='1' WordSequence='4' >בֹּֽא־</Word>
@@ -2450,8 +2450,8 @@
 <Word Book='Bereshit' Chapter='7' Verse='24' WordSequence='4' >הָאָ֑רֶץ</Word>
 <Word Book='Bereshit' Chapter='7' Verse='24' WordSequence='5' >חֲמִשִּׁ֥ים</Word>
 <Word Book='Bereshit' Chapter='7' Verse='24' WordSequence='6' >וּמְאַ֖ת</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='7' Verse='24' WordSequence='7' >יֽוֹם</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיִּזְכֹּ֤ר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='7' Verse='24' WordSequence='7'>יֽוֹם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיִּזְכֹּ֤ר</Word>
 <Word Book='Bereshit' Chapter='8' Verse='1' WordSequence='2' >אֱלֹהִים֙</Word>
 <Word Book='Bereshit' Chapter='8' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='8' Verse='1' WordSequence='4' >נֹ֔חַ</Word>
@@ -2642,8 +2642,8 @@
 <Word Book='Bereshit' Chapter='8' Verse='14' WordSequence='5' >י֖וֹם</Word>
 <Word Book='Bereshit' Chapter='8' Verse='14' WordSequence='6' >לַחֹ֑דֶשׁ</Word>
 <Word Book='Bereshit' Chapter='8' Verse='14' WordSequence='7' >יָבְשָׁ֖ה</Word>
-<Word Book='Bereshit' Chapter='8' Verse='14' WordSequence='8' >הָאָֽרֶץ</Word>
-<Word Book='Bereshit' Chapter='8' Verse='15' WordSequence='1' >וַיְדַבֵּ֥ר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='8' Verse='14' WordSequence='8' >הָאָֽרֶץ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='8' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיְדַבֵּ֥ר</Word>
 <Word Book='Bereshit' Chapter='8' Verse='15' WordSequence='2' >אֱלֹהִ֖ים</Word>
 <Word Book='Bereshit' Chapter='8' Verse='15' WordSequence='3' >אֶל־</Word>
 <Word Book='Bereshit' Chapter='8' Verse='15' WordSequence='4' >נֹ֥חַ</Word>
@@ -2759,8 +2759,8 @@
 <Word Book='Bereshit' Chapter='8' Verse='22' WordSequence='11' >וְי֥וֹם</Word>
 <Word Book='Bereshit' Chapter='8' Verse='22' WordSequence='12' >וָלַ֖יְלָה</Word>
 <Word Book='Bereshit' Chapter='8' Verse='22' WordSequence='13' >לֹ֥א</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='8' Verse='22' WordSequence='14' >יִשְׁבֹּֽתוּ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיְבָ֣רֶךְ</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='8' Verse='22' WordSequence='14'>יִשְׁבֹּֽתוּ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיְבָ֣רֶךְ</Word>
 <Word Book='Bereshit' Chapter='9' Verse='1' WordSequence='2' >אֱלֹהִ֔ים</Word>
 <Word Book='Bereshit' Chapter='9' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='9' Verse='1' WordSequence='4' >נֹ֖חַ</Word>
@@ -2849,8 +2849,8 @@
 <Word Book='Bereshit' Chapter='9' Verse='7' WordSequence='4' >שִׁרְצ֥וּ</Word>
 <Word Book='Bereshit' Chapter='9' Verse='7' WordSequence='5' >בָאָ֖רֶץ</Word>
 <Word Book='Bereshit' Chapter='9' Verse='7' WordSequence='6' >וּרְבוּ־</Word>
-<Word Book='Bereshit' Chapter='9' Verse='7' WordSequence='7' >בָֽהּ</Word>
-<Word Book='Bereshit' Chapter='9' Verse='8' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='9' Verse='7' WordSequence='7' >בָֽהּ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='9' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bereshit' Chapter='9' Verse='8' WordSequence='2' >אֱלֹהִים֙</Word>
 <Word Book='Bereshit' Chapter='9' Verse='8' WordSequence='3' >אֶל־</Word>
 <Word Book='Bereshit' Chapter='9' Verse='8' WordSequence='4' >נֹ֔חַ</Word>
@@ -2991,8 +2991,8 @@
 <Word Book='Bereshit' Chapter='9' Verse='17' WordSequence='13' >בָּשָׂ֖ר</Word>
 <Word Book='Bereshit' Chapter='9' Verse='17' WordSequence='14' >אֲשֶׁ֥ר</Word>
 <Word Book='Bereshit' Chapter='9' Verse='17' WordSequence='15' >עַל־</Word>
-<Word Book='Bereshit' Chapter='9' Verse='17' WordSequence='16' IsParashaPtuchah='true' >הָאָֽרֶץ</Word>
-<Word Book='Bereshit' Chapter='9' Verse='18' WordSequence='1' >וַיִּֽהְי֣וּ</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='9' Verse='17' WordSequence='16'>הָאָֽרֶץ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='9' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיִּֽהְי֣וּ</Word>
 <Word Book='Bereshit' Chapter='9' Verse='18' WordSequence='2' >בְנֵי־</Word>
 <Word Book='Bereshit' Chapter='9' Verse='18' WordSequence='3' >נֹ֗חַ</Word>
 <Word Book='Bereshit' Chapter='9' Verse='18' WordSequence='4' >הַיֹּֽצְאִים֙</Word>
@@ -3112,8 +3112,8 @@
 <Word Book='Bereshit' Chapter='9' Verse='29' WordSequence='7' >שָׁנָ֔ה</Word>
 <Word Book='Bereshit' Chapter='9' Verse='29' WordSequence='8' >וַחֲמִשִּׁ֖ים</Word>
 <Word Book='Bereshit' Chapter='9' Verse='29' WordSequence='9' >שָׁנָ֑ה</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='9' Verse='29' WordSequence='10' IsParashaPtuchah='true' >וַיָּמֹֽת</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וְאֵ֙לֶּה֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='9' Verse='29' WordSequence='10'>וַיָּמֹֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֙לֶּה֙</Word>
 <Word Book='Bereshit' Chapter='10' Verse='1' WordSequence='2' >תּוֹלְדֹ֣ת</Word>
 <Word Book='Bereshit' Chapter='10' Verse='1' WordSequence='3' >בְּנֵי־</Word>
 <Word Book='Bereshit' Chapter='10' Verse='1' WordSequence='4' >נֹ֔חַ</Word>
@@ -3244,8 +3244,8 @@
 <Word Book='Bereshit' Chapter='10' Verse='14' WordSequence='7' >מִשָּׁ֛ם</Word>
 <Word Book='Bereshit' Chapter='10' Verse='14' WordSequence='8' >פְּלִשְׁתִּ֖ים</Word>
 <Word Book='Bereshit' Chapter='10' Verse='14' WordSequence='9' >וְאֶת־</Word>
-<Word Book='Bereshit' Chapter='10' Verse='14' WordSequence='10' >כַּפְתֹּרִֽים</Word>
-<Word Book='Bereshit' Chapter='10' Verse='15' WordSequence='1' >וּכְנַ֗עַן</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='10' Verse='14' WordSequence='10' >כַּפְתֹּרִֽים</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='10' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וּכְנַ֗עַן</Word>
 <Word Book='Bereshit' Chapter='10' Verse='15' WordSequence='2' >יָלַ֛ד</Word>
 <Word Book='Bereshit' Chapter='10' Verse='15' WordSequence='3' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='10' Verse='15' WordSequence='4' >צִידֹ֥ן</Word>
@@ -3295,8 +3295,8 @@
 <Word Book='Bereshit' Chapter='10' Verse='20' WordSequence='4' >לְמִשְׁפְּחֹתָ֖ם</Word>
 <Word Book='Bereshit' Chapter='10' Verse='20' WordSequence='5' >לִלְשֹֽׁנֹתָ֑ם</Word>
 <Word Book='Bereshit' Chapter='10' Verse='20' WordSequence='6' >בְּאַרְצֹתָ֖ם</Word>
-<Word Book='Bereshit' Chapter='10' Verse='20' WordSequence='7' >בְּגוֹיֵהֶֽם</Word>
-<Word Book='Bereshit' Chapter='10' Verse='21' WordSequence='1' >וּלְשֵׁ֥ם</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='10' Verse='20' WordSequence='7' >בְּגוֹיֵהֶֽם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='10' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וּלְשֵׁ֥ם</Word>
 <Word Book='Bereshit' Chapter='10' Verse='21' WordSequence='2' >יֻלַּ֖ד</Word>
 <Word Book='Bereshit' Chapter='10' Verse='21' WordSequence='3' >גַּם־</Word>
 <Word Book='Bereshit' Chapter='10' Verse='21' WordSequence='4' >ה֑וּא</Word>
@@ -3399,8 +3399,8 @@
 <Word Book='Bereshit' Chapter='10' Verse='32' WordSequence='9' >הַגּוֹיִ֛ם</Word>
 <Word Book='Bereshit' Chapter='10' Verse='32' WordSequence='10' >בָּאָ֖רֶץ</Word>
 <Word Book='Bereshit' Chapter='10' Verse='32' WordSequence='11' >אַחַ֥ר</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='10' Verse='32' WordSequence='12' IsParashaPtuchah='true' >הַמַּבּֽוּל</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַֽיְהִ֥י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='10' Verse='32' WordSequence='12'>הַמַּבּֽוּל</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִ֥י</Word>
 <Word Book='Bereshit' Chapter='11' Verse='1' WordSequence='2' >כָל־</Word>
 <Word Book='Bereshit' Chapter='11' Verse='1' WordSequence='3' >הָאָ֖רֶץ</Word>
 <Word Book='Bereshit' Chapter='11' Verse='1' WordSequence='4' >שָׂפָ֣ה</Word>
@@ -3520,8 +3520,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='9' WordSequence='16' >עַל־</Word>
 <Word Book='Bereshit' Chapter='11' Verse='9' WordSequence='17' >פְּנֵ֖י</Word>
 <Word Book='Bereshit' Chapter='11' Verse='9' WordSequence='18' >כָּל־</Word>
-<Word Book='Bereshit' Chapter='11' Verse='9' WordSequence='19' IsParashaPtuchah='true' >הָאָֽרֶץ</Word>
-<Word Book='Bereshit' Chapter='11' Verse='10' WordSequence='1' >אֵ֚לֶּה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='9' WordSequence='19'>הָאָֽרֶץ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='10' WordSequence='1' IsParashaPtuchah='true' >אֵ֚לֶּה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='10' WordSequence='2' >תּוֹלְדֹ֣ת</Word>
 <Word Book='Bereshit' Chapter='11' Verse='10' WordSequence='3' >שֵׁ֔ם</Word>
 <Word Book='Bereshit' Chapter='11' Verse='10' WordSequence='4' >שֵׁ֚ם</Word>
@@ -3545,8 +3545,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='11' WordSequence='9' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='11' WordSequence='10' >וַיּ֥וֹלֶד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='11' WordSequence='11' >בָּנִ֖ים</Word>
-<Word Book='Bereshit' Chapter='11' Verse='11' WordSequence='12' >וּבָנֽוֹת</Word>
-<Word Book='Bereshit' Chapter='11' Verse='12' WordSequence='1' >וְאַרְפַּכְשַׁ֣ד</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='11' WordSequence='12' >וּבָנֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְאַרְפַּכְשַׁ֣ד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='12' WordSequence='2' >חַ֔י</Word>
 <Word Book='Bereshit' Chapter='11' Verse='12' WordSequence='3' >חָמֵ֥שׁ</Word>
 <Word Book='Bereshit' Chapter='11' Verse='12' WordSequence='4' >וּשְׁלֹשִׁ֖ים</Word>
@@ -3567,8 +3567,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='13' WordSequence='11' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='13' WordSequence='12' >וַיּ֥וֹלֶד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='13' WordSequence='13' >בָּנִ֖ים</Word>
-<Word Book='Bereshit' Chapter='11' Verse='13' WordSequence='14' >וּבָנֽוֹת</Word>
-<Word Book='Bereshit' Chapter='11' Verse='14' WordSequence='1' >וְשֶׁ֥לַח</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='13' WordSequence='14' >וּבָנֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וְשֶׁ֥לַח</Word>
 <Word Book='Bereshit' Chapter='11' Verse='14' WordSequence='2' >חַ֖י</Word>
 <Word Book='Bereshit' Chapter='11' Verse='14' WordSequence='3' >שְׁלֹשִׁ֣ים</Word>
 <Word Book='Bereshit' Chapter='11' Verse='14' WordSequence='4' >שָׁנָ֑ה</Word>
@@ -3588,8 +3588,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='15' WordSequence='11' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='15' WordSequence='12' >וַיּ֥וֹלֶד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='15' WordSequence='13' >בָּנִ֖ים</Word>
-<Word Book='Bereshit' Chapter='11' Verse='15' WordSequence='14' >וּבָנֽוֹת</Word>
-<Word Book='Bereshit' Chapter='11' Verse='16' WordSequence='1' >וַֽיְחִי־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='15' WordSequence='14' >וּבָנֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִי־</Word>
 <Word Book='Bereshit' Chapter='11' Verse='16' WordSequence='2' >עֵ֕בֶר</Word>
 <Word Book='Bereshit' Chapter='11' Verse='16' WordSequence='3' >אַרְבַּ֥ע</Word>
 <Word Book='Bereshit' Chapter='11' Verse='16' WordSequence='4' >וּשְׁלֹשִׁ֖ים</Word>
@@ -3610,8 +3610,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='17' WordSequence='11' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='17' WordSequence='12' >וַיּ֥וֹלֶד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='17' WordSequence='13' >בָּנִ֖ים</Word>
-<Word Book='Bereshit' Chapter='11' Verse='17' WordSequence='14' >וּבָנֽוֹת</Word>
-<Word Book='Bereshit' Chapter='11' Verse='18' WordSequence='1' >וַֽיְחִי־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='17' WordSequence='14' >וּבָנֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִי־</Word>
 <Word Book='Bereshit' Chapter='11' Verse='18' WordSequence='2' >פֶ֖לֶג</Word>
 <Word Book='Bereshit' Chapter='11' Verse='18' WordSequence='3' >שְׁלֹשִׁ֣ים</Word>
 <Word Book='Bereshit' Chapter='11' Verse='18' WordSequence='4' >שָׁנָ֑ה</Word>
@@ -3630,8 +3630,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='19' WordSequence='10' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='19' WordSequence='11' >וַיּ֥וֹלֶד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='19' WordSequence='12' >בָּנִ֖ים</Word>
-<Word Book='Bereshit' Chapter='11' Verse='19' WordSequence='13' >וּבָנֽוֹת</Word>
-<Word Book='Bereshit' Chapter='11' Verse='20' WordSequence='1' >וַיְחִ֣י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='19' WordSequence='13' >וּבָנֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיְחִ֣י</Word>
 <Word Book='Bereshit' Chapter='11' Verse='20' WordSequence='2' >רְע֔וּ</Word>
 <Word Book='Bereshit' Chapter='11' Verse='20' WordSequence='3' >שְׁתַּ֥יִם</Word>
 <Word Book='Bereshit' Chapter='11' Verse='20' WordSequence='4' >וּשְׁלֹשִׁ֖ים</Word>
@@ -3651,8 +3651,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='21' WordSequence='10' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='21' WordSequence='11' >וַיּ֥וֹלֶד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='21' WordSequence='12' >בָּנִ֖ים</Word>
-<Word Book='Bereshit' Chapter='11' Verse='21' WordSequence='13' >וּבָנֽוֹת</Word>
-<Word Book='Bereshit' Chapter='11' Verse='22' WordSequence='1' >וַיְחִ֥י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='21' WordSequence='13' >וּבָנֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַיְחִ֥י</Word>
 <Word Book='Bereshit' Chapter='11' Verse='22' WordSequence='2' >שְׂר֖וּג</Word>
 <Word Book='Bereshit' Chapter='11' Verse='22' WordSequence='3' >שְׁלֹשִׁ֣ים</Word>
 <Word Book='Bereshit' Chapter='11' Verse='22' WordSequence='4' >שָׁנָ֑ה</Word>
@@ -3669,8 +3669,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='23' WordSequence='8' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='23' WordSequence='9' >וַיּ֥וֹלֶד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='23' WordSequence='10' >בָּנִ֖ים</Word>
-<Word Book='Bereshit' Chapter='11' Verse='23' WordSequence='11' >וּבָנֽוֹת</Word>
-<Word Book='Bereshit' Chapter='11' Verse='24' WordSequence='1' >וַיְחִ֣י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='23' WordSequence='11' >וּבָנֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וַיְחִ֣י</Word>
 <Word Book='Bereshit' Chapter='11' Verse='24' WordSequence='2' >נָח֔וֹר</Word>
 <Word Book='Bereshit' Chapter='11' Verse='24' WordSequence='3' >תֵּ֥שַׁע</Word>
 <Word Book='Bereshit' Chapter='11' Verse='24' WordSequence='4' >וְעֶשְׂרִ֖ים</Word>
@@ -3691,8 +3691,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='25' WordSequence='11' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='25' WordSequence='12' >וַיּ֥וֹלֶד</Word>
 <Word Book='Bereshit' Chapter='11' Verse='25' WordSequence='13' >בָּנִ֖ים</Word>
-<Word Book='Bereshit' Chapter='11' Verse='25' WordSequence='14' >וּבָנֽוֹת</Word>
-<Word Book='Bereshit' Chapter='11' Verse='26' WordSequence='1' >וַֽיְחִי־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='25' WordSequence='14' >וּבָנֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='11' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַֽיְחִי־</Word>
 <Word Book='Bereshit' Chapter='11' Verse='26' WordSequence='2' >תֶ֖רַח</Word>
 <Word Book='Bereshit' Chapter='11' Verse='26' WordSequence='3' >שִׁבְעִ֣ים</Word>
 <Word Book='Bereshit' Chapter='11' Verse='26' WordSequence='4' >שָׁנָ֑ה</Word>
@@ -3791,8 +3791,8 @@
 <Word Book='Bereshit' Chapter='11' Verse='32' WordSequence='7' >שָׁנָ֑ה</Word>
 <Word Book='Bereshit' Chapter='11' Verse='32' WordSequence='8' >וַיָּ֥מָת</Word>
 <Word Book='Bereshit' Chapter='11' Verse='32' WordSequence='9' >תֶּ֖רַח</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='11' Verse='32' WordSequence='10' IsParashaPtuchah='true' >בְּחָרָֽן</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='11' Verse='32' WordSequence='10' >בְּחָרָֽן</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bereshit' Chapter='12' Verse='1' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Bereshit' Chapter='12' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bereshit' Chapter='12' Verse='1' WordSequence='4' >אַבְרָ֔ם</Word>
@@ -3918,8 +3918,8 @@
 <Word Book='Bereshit' Chapter='12' Verse='9' WordSequence='2' >אַבְרָ֔ם</Word>
 <Word Book='Bereshit' Chapter='12' Verse='9' WordSequence='3' >הָל֥וֹךְ</Word>
 <Word Book='Bereshit' Chapter='12' Verse='9' WordSequence='4' >וְנָס֖וֹעַ</Word>
-<Word Book='Bereshit' Chapter='12' Verse='9' WordSequence='5' IsParashaPtuchah='true' >הַנֶּֽגְבָּה</Word>
-<Word Book='Bereshit' Chapter='12' Verse='10' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='12' Verse='9' WordSequence='5'>הַנֶּֽגְבָּה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='12' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Bereshit' Chapter='12' Verse='10' WordSequence='2' >רָעָ֖ב</Word>
 <Word Book='Bereshit' Chapter='12' Verse='10' WordSequence='3' >בָּאָ֑רֶץ</Word>
 <Word Book='Bereshit' Chapter='12' Verse='10' WordSequence='4' >וַיֵּ֨רֶד</Word>
@@ -4059,8 +4059,8 @@
 <Word Book='Bereshit' Chapter='12' Verse='20' WordSequence='9' >וְאֶת־</Word>
 <Word Book='Bereshit' Chapter='12' Verse='20' WordSequence='10' >כָּל־</Word>
 <Word Book='Bereshit' Chapter='12' Verse='20' WordSequence='11' >אֲשֶׁר־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='12' Verse='20' WordSequence='12' >לֽוֹ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>וַיַּעַל֩</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='12' Verse='20' WordSequence='12'>לֽוֹ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>וַיַּעַל֩</Word>
 <Word Book='Bereshit' Chapter='13' Verse='1' WordSequence='2' >אַבְרָ֨ם</Word>
 <Word Book='Bereshit' Chapter='13' Verse='1' WordSequence='3' >מִמִּצְרַ֜יִם</Word>
 <Word Book='Bereshit' Chapter='13' Verse='1' WordSequence='4' >ה֠וּא</Word>
@@ -4301,8 +4301,8 @@
 <Word Book='Bereshit' Chapter='13' Verse='18' WordSequence='9' >וַיִּֽבֶן־</Word>
 <Word Book='Bereshit' Chapter='13' Verse='18' WordSequence='10' >שָׁ֥ם</Word>
 <Word Book='Bereshit' Chapter='13' Verse='18' WordSequence='11' >מִזְבֵּ֖חַ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='13' Verse='18' WordSequence='12' IsParashaPtuchah='true' >לַֽיהוָֽה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='13' Verse='18' WordSequence='12'>לַֽיהוָֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Bereshit' Chapter='14' Verse='1' WordSequence='2' >בִּימֵי֙</Word>
 <Word Book='Bereshit' Chapter='14' Verse='1' WordSequence='3' >אַמְרָפֶ֣ל</Word>
 <Word Book='Bereshit' Chapter='14' Verse='1' WordSequence='4' >מֶֽלֶךְ־</Word>
@@ -4644,8 +4644,8 @@
 <Word Book='Bereshit' Chapter='14' Verse='24' WordSequence='13' >וּמַמְרֵ֔א</Word>
 <Word Book='Bereshit' Chapter='14' Verse='24' WordSequence='14' >הֵ֖ם</Word>
 <Word Book='Bereshit' Chapter='14' Verse='24' WordSequence='15' >יִקְח֥וּ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='14' Verse='24' WordSequence='16' IsParashaPtuchah='true' >חֶלְקָֽם</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>אַחַ֣ר׀</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='14' Verse='24' WordSequence='16' >חֶלְקָֽם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אַחַ֣ר׀</Word>
 <Word Book='Bereshit' Chapter='15' Verse='1' WordSequence='2' >הַדְּבָרִ֣ים</Word>
 <Word Book='Bereshit' Chapter='15' Verse='1' WordSequence='3' >הָאֵ֗לֶּה</Word>
 <Word Book='Bereshit' Chapter='15' Verse='1' WordSequence='4' >הָיָ֤ה</Word>
@@ -4902,8 +4902,8 @@
 <Word Book='Bereshit' Chapter='15' Verse='21' WordSequence='5' >וְאֶת־</Word>
 <Word Book='Bereshit' Chapter='15' Verse='21' WordSequence='6' >הַגִּרְגָּשִׁ֖י</Word>
 <Word Book='Bereshit' Chapter='15' Verse='21' WordSequence='7' >וְאֶת־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='15' Verse='21' WordSequence='8' IsParashaPtuchah='true' >הַיְבוּסִֽי</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>וְשָׂרַי֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='15' Verse='21' WordSequence='8' >הַיְבוּסִֽי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְשָׂרַי֙</Word>
 <Word Book='Bereshit' Chapter='16' Verse='1' WordSequence='2' >אֵ֣שֶׁת</Word>
 <Word Book='Bereshit' Chapter='16' Verse='1' WordSequence='3' >אַבְרָ֔ם</Word>
 <Word Book='Bereshit' Chapter='16' Verse='1' WordSequence='4' >לֹ֥א</Word>
@@ -5125,8 +5125,8 @@
 <Word Book='Bereshit' Chapter='16' Verse='16' WordSequence='8' >הָגָ֥ר</Word>
 <Word Book='Bereshit' Chapter='16' Verse='16' WordSequence='9' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='16' Verse='16' WordSequence='10' >יִשְׁמָעֵ֖אל</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='16' Verse='16' WordSequence='11' IsParashaPtuchah='true' >לְאַבְרָֽם</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>וַיְהִ֣י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='16' Verse='16' WordSequence='11' >לְאַבְרָֽם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י</Word>
 <Word Book='Bereshit' Chapter='17' Verse='1' WordSequence='2' >אַבְרָ֔ם</Word>
 <Word Book='Bereshit' Chapter='17' Verse='1' WordSequence='3' >בֶּן־</Word>
 <Word Book='Bereshit' Chapter='17' Verse='1' WordSequence='4' >תִּשְׁעִ֥ים</Word>
@@ -5303,8 +5303,8 @@
 <Word Book='Bereshit' Chapter='17' Verse='14' WordSequence='12' >מֵעַמֶּ֑יהָ</Word>
 <Word Book='Bereshit' Chapter='17' Verse='14' WordSequence='13' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='17' Verse='14' WordSequence='14' >בְּרִיתִ֖י</Word>
-<Word Book='Bereshit' Chapter='17' Verse='14' WordSequence='15' >הֵפַֽר</Word>
-<Word Book='Bereshit' Chapter='17' Verse='15' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='17' Verse='14' WordSequence='15' >הֵפַֽר</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='17' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bereshit' Chapter='17' Verse='15' WordSequence='2' >אֱלֹהִים֙</Word>
 <Word Book='Bereshit' Chapter='17' Verse='15' WordSequence='3' >אֶל־</Word>
 <Word Book='Bereshit' Chapter='17' Verse='15' WordSequence='4' >אַבְרָהָ֔ם</Word>
@@ -5480,8 +5480,8 @@
 <Word Book='Bereshit' Chapter='17' Verse='27' WordSequence='9' >בֶּן־</Word>
 <Word Book='Bereshit' Chapter='17' Verse='27' WordSequence='10' >נֵכָ֑ר</Word>
 <Word Book='Bereshit' Chapter='17' Verse='27' WordSequence='11' >נִמֹּ֖לוּ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='17' Verse='27' WordSequence='12' IsParashaPtuchah='true' >אִתּֽוֹ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַיֵּרָ֤א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='17' Verse='27' WordSequence='12'>אִתּֽוֹ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּרָ֤א</Word>
 <Word Book='Bereshit' Chapter='18' Verse='1' WordSequence='2' >אֵלָיו֙</Word>
 <Word Book='Bereshit' Chapter='18' Verse='1' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Bereshit' Chapter='18' Verse='1' WordSequence='4' >בְּאֵלֹנֵ֖י</Word>
@@ -5917,8 +5917,8 @@
 <Word Book='Bereshit' Chapter='18' Verse='33' WordSequence='7' >אַבְרָהָ֑ם</Word>
 <Word Book='Bereshit' Chapter='18' Verse='33' WordSequence='8' >וְאַבְרָהָ֖ם</Word>
 <Word Book='Bereshit' Chapter='18' Verse='33' WordSequence='9' >שָׁ֥ב</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='18' Verse='33' WordSequence='10' >לִמְקֹמֽוֹ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַ֠יָּבֹאוּ</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='18' Verse='33' WordSequence='10'>לִמְקֹמֽוֹ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וַ֠יָּבֹאוּ</Word>
 <Word Book='Bereshit' Chapter='19' Verse='1' WordSequence='2' >שְׁנֵ֨י</Word>
 <Word Book='Bereshit' Chapter='19' Verse='1' WordSequence='3' >הַמַּלְאָכִ֤ים</Word>
 <Word Book='Bereshit' Chapter='19' Verse='1' WordSequence='4' >סְדֹ֙מָה֙</Word>
@@ -6480,8 +6480,8 @@
 <Word Book='Bereshit' Chapter='19' Verse='38' WordSequence='12' >בְנֵֽי־</Word>
 <Word Book='Bereshit' Chapter='19' Verse='38' WordSequence='13' >עַמּ֖וֹן</Word>
 <Word Book='Bereshit' Chapter='19' Verse='38' WordSequence='14' >עַד־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='19' Verse='38' WordSequence='15' IsParashaPtuchah='true' >הַיּֽוֹם</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וַיִּסַּ֨ע</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='19' Verse='38' WordSequence='15' >הַיּֽוֹם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּסַּ֨ע</Word>
 <Word Book='Bereshit' Chapter='20' Verse='1' WordSequence='2' >מִשָּׁ֤ם</Word>
 <Word Book='Bereshit' Chapter='20' Verse='1' WordSequence='3' >אַבְרָהָם֙</Word>
 <Word Book='Bereshit' Chapter='20' Verse='1' WordSequence='4' >אַ֣רְצָה</Word>
@@ -6762,8 +6762,8 @@
 <Word Book='Bereshit' Chapter='20' Verse='18' WordSequence='11' >דְּבַ֥ר</Word>
 <Word Book='Bereshit' Chapter='20' Verse='18' WordSequence='12' >שָׂרָ֖ה</Word>
 <Word Book='Bereshit' Chapter='20' Verse='18' WordSequence='13' >אֵ֥שֶׁת</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='20' Verse='18' WordSequence='14' IsParashaPtuchah='true' >אַבְרָהָֽם</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַֽיהוָ֛ה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='20' Verse='18' WordSequence='14' >אַבְרָהָֽם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיהוָ֛ה</Word>
 <Word Book='Bereshit' Chapter='21' Verse='1' WordSequence='2' >פָּקַ֥ד</Word>
 <Word Book='Bereshit' Chapter='21' Verse='1' WordSequence='3' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='21' Verse='1' WordSequence='4' >שָׂרָ֖ה</Word>
@@ -7040,8 +7040,8 @@
 <Word Book='Bereshit' Chapter='21' Verse='21' WordSequence='6' >אִמּ֛וֹ</Word>
 <Word Book='Bereshit' Chapter='21' Verse='21' WordSequence='7' >אִשָּׁ֖ה</Word>
 <Word Book='Bereshit' Chapter='21' Verse='21' WordSequence='8' >מֵאֶ֥רֶץ</Word>
-<Word Book='Bereshit' Chapter='21' Verse='21' WordSequence='9' IsParashaPtuchah='true' >מִצְרָֽיִם</Word>
-<Word Book='Bereshit' Chapter='21' Verse='22' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='21' Verse='21' WordSequence='9'>מִצְרָֽיִם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='21' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Bereshit' Chapter='21' Verse='22' WordSequence='2' >בָּעֵ֣ת</Word>
 <Word Book='Bereshit' Chapter='21' Verse='22' WordSequence='3' >הַהִ֔וא</Word>
 <Word Book='Bereshit' Chapter='21' Verse='22' WordSequence='4' >וַיֹּ֣אמֶר</Word>
@@ -7198,8 +7198,8 @@
 <Word Book='Bereshit' Chapter='21' Verse='34' WordSequence='3' >בְּאֶ֥רֶץ</Word>
 <Word Book='Bereshit' Chapter='21' Verse='34' WordSequence='4' >פְּלִשְׁתִּ֖ים</Word>
 <Word Book='Bereshit' Chapter='21' Verse='34' WordSequence='5' >יָמִ֥ים</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='21' Verse='34' WordSequence='6' IsParashaPtuchah='true' >רַבִּֽים</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='21' Verse='34' WordSequence='6'>רַבִּֽים</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Bereshit' Chapter='22' Verse='1' WordSequence='2' >אַחַר֙</Word>
 <Word Book='Bereshit' Chapter='22' Verse='1' WordSequence='3' >הַדְּבָרִ֣ים</Word>
 <Word Book='Bereshit' Chapter='22' Verse='1' WordSequence='4' >הָאֵ֔לֶּה</Word>
@@ -7505,8 +7505,8 @@
 <Word Book='Bereshit' Chapter='22' Verse='19' WordSequence='11' >וַיֵּ֥שֶׁב</Word>
 <Word Book='Bereshit' Chapter='22' Verse='19' WordSequence='12' >אַבְרָהָ֖ם</Word>
 <Word Book='Bereshit' Chapter='22' Verse='19' WordSequence='13' >בִּבְאֵ֥ר</Word>
-<Word Book='Bereshit' Chapter='22' Verse='19' WordSequence='14' IsParashaPtuchah='true' >שָֽׁבַע</Word>
-<Word Book='Bereshit' Chapter='22' Verse='20' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='22' Verse='19' WordSequence='14'>שָֽׁבַע</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='22' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Bereshit' Chapter='22' Verse='20' WordSequence='2' >אַחֲרֵי֙</Word>
 <Word Book='Bereshit' Chapter='22' Verse='20' WordSequence='3' >הַדְּבָרִ֣ים</Word>
 <Word Book='Bereshit' Chapter='22' Verse='20' WordSequence='4' >הָאֵ֔לֶּה</Word>
@@ -7565,8 +7565,8 @@
 <Word Book='Bereshit' Chapter='22' Verse='24' WordSequence='11' >וְאֶת־</Word>
 <Word Book='Bereshit' Chapter='22' Verse='24' WordSequence='12' >תַּ֖חַשׁ</Word>
 <Word Book='Bereshit' Chapter='22' Verse='24' WordSequence='13' >וְאֶֽת־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='22' Verse='24' WordSequence='14' IsParashaPtuchah='true' >מַעֲכָֽה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וַיִּהְיוּ֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='22' Verse='24' WordSequence='14' >מַעֲכָֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּהְיוּ֙</Word>
 <Word Book='Bereshit' Chapter='23' Verse='1' WordSequence='2' >חַיֵּ֣י</Word>
 <Word Book='Bereshit' Chapter='23' Verse='1' WordSequence='3' >שָׂרָ֔ה</Word>
 <Word Book='Bereshit' Chapter='23' Verse='1' WordSequence='4' >מֵאָ֥ה</Word>
@@ -7840,8 +7840,8 @@
 <Word Book='Bereshit' Chapter='23' Verse='20' WordSequence='8' >קָ֑בֶר</Word>
 <Word Book='Bereshit' Chapter='23' Verse='20' WordSequence='9' >מֵאֵ֖ת</Word>
 <Word Book='Bereshit' Chapter='23' Verse='20' WordSequence='10' >בְּנֵי־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='23' Verse='20' WordSequence='11' IsParashaPtuchah='true' >חֵֽת</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>וְאַבְרָהָ֣ם</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='23' Verse='20' WordSequence='11' >חֵֽת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאַבְרָהָ֣ם</Word>
 <Word Book='Bereshit' Chapter='24' Verse='1' WordSequence='2' >זָקֵ֔ן</Word>
 <Word Book='Bereshit' Chapter='24' Verse='1' WordSequence='3' >בָּ֖א</Word>
 <Word Book='Bereshit' Chapter='24' Verse='1' WordSequence='4' >בַּיָּמִ֑ים</Word>
@@ -8759,8 +8759,8 @@
 <Word Book='Bereshit' Chapter='24' Verse='67' WordSequence='13' >וַיִּנָּחֵ֥ם</Word>
 <Word Book='Bereshit' Chapter='24' Verse='67' WordSequence='14' >יִצְחָ֖ק</Word>
 <Word Book='Bereshit' Chapter='24' Verse='67' WordSequence='15' >אַחֲרֵ֥י</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='24' Verse='67' WordSequence='16' IsParashaPtuchah='true' >אִמּֽוֹ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='25' Verse='1' WordSequence='1'>וַיֹּ֧סֶף</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='24' Verse='67' WordSequence='16'>אִמּֽוֹ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='25' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֧סֶף</Word>
 <Word Book='Bereshit' Chapter='25' Verse='1' WordSequence='2' >אַבְרָהָ֛ם</Word>
 <Word Book='Bereshit' Chapter='25' Verse='1' WordSequence='3' >וַיִּקַּ֥ח</Word>
 <Word Book='Bereshit' Chapter='25' Verse='1' WordSequence='4' >אִשָּׁ֖ה</Word>
@@ -8894,8 +8894,8 @@
 <Word Book='Bereshit' Chapter='25' Verse='11' WordSequence='12' >עִם־</Word>
 <Word Book='Bereshit' Chapter='25' Verse='11' WordSequence='13' >בְּאֵ֥ר</Word>
 <Word Book='Bereshit' Chapter='25' Verse='11' WordSequence='14' >לַחַ֖י</Word>
-<Word Book='Bereshit' Chapter='25' Verse='11' WordSequence='15' >רֹאִֽי</Word>
-<Word Book='Bereshit' Chapter='25' Verse='12' WordSequence='1' >וְאֵ֛לֶּה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='25' Verse='11' WordSequence='15' >רֹאִֽי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='25' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֛לֶּה</Word>
 <Word Book='Bereshit' Chapter='25' Verse='12' WordSequence='2' >תֹּלְדֹ֥ת</Word>
 <Word Book='Bereshit' Chapter='25' Verse='12' WordSequence='3' >יִשְׁמָעֵ֖אל</Word>
 <Word Book='Bereshit' Chapter='25' Verse='12' WordSequence='4' >בֶּן־</Word>
@@ -8968,8 +8968,8 @@
 <Word Book='Bereshit' Chapter='25' Verse='18' WordSequence='12' >פְּנֵ֥י</Word>
 <Word Book='Bereshit' Chapter='25' Verse='18' WordSequence='13' >כָל־</Word>
 <Word Book='Bereshit' Chapter='25' Verse='18' WordSequence='14' >אֶחָ֖יו</Word>
-<Word Book='Bereshit' Chapter='25' Verse='18' WordSequence='15' IsParashaPtuchah='true' >נָפָֽל</Word>
-<Word Book='Bereshit' Chapter='25' Verse='19' WordSequence='1' >וְאֵ֛לֶּה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='25' Verse='18' WordSequence='15'>נָפָֽל</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='25' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֛לֶּה</Word>
 <Word Book='Bereshit' Chapter='25' Verse='19' WordSequence='2' >תּוֹלְדֹ֥ת</Word>
 <Word Book='Bereshit' Chapter='25' Verse='19' WordSequence='3' >יִצְחָ֖ק</Word>
 <Word Book='Bereshit' Chapter='25' Verse='19' WordSequence='4' >בֶּן־</Word>
@@ -9165,8 +9165,8 @@
 <Word Book='Bereshit' Chapter='25' Verse='34' WordSequence='11' >וַיִּ֥בֶז</Word>
 <Word Book='Bereshit' Chapter='25' Verse='34' WordSequence='12' >עֵשָׂ֖ו</Word>
 <Word Book='Bereshit' Chapter='25' Verse='34' WordSequence='13' >אֶת־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='25' Verse='34' WordSequence='14' IsParashaPtuchah='true' >הַבְּכֹרָֽה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיְהִ֤י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='25' Verse='34' WordSequence='14' >הַבְּכֹרָֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='26' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֤י</Word>
 <Word Book='Bereshit' Chapter='26' Verse='1' WordSequence='2' >רָעָב֙</Word>
 <Word Book='Bereshit' Chapter='26' Verse='1' WordSequence='3' >בָּאָ֔רֶץ</Word>
 <Word Book='Bereshit' Chapter='26' Verse='1' WordSequence='4' >מִלְּבַד֙</Word>
@@ -9609,8 +9609,8 @@
 <Word Book='Bereshit' Chapter='26' Verse='33' WordSequence='9' >שֶׁ֔בַע</Word>
 <Word Book='Bereshit' Chapter='26' Verse='33' WordSequence='10' >עַ֖ד</Word>
 <Word Book='Bereshit' Chapter='26' Verse='33' WordSequence='11' >הַיּ֥וֹם</Word>
-<Word Book='Bereshit' Chapter='26' Verse='33' WordSequence='12' >הַזֶּֽה</Word>
-<Word Book='Bereshit' Chapter='26' Verse='34' WordSequence='1' >וַיְהִ֤י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='26' Verse='33' WordSequence='12' >הַזֶּֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='26' Verse='34' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֤י</Word>
 <Word Book='Bereshit' Chapter='26' Verse='34' WordSequence='2' >עֵשָׂו֙</Word>
 <Word Book='Bereshit' Chapter='26' Verse='34' WordSequence='3' >בֶּן־</Word>
 <Word Book='Bereshit' Chapter='26' Verse='34' WordSequence='4' >אַרְבָּעִ֣ים</Word>
@@ -9631,8 +9631,8 @@
 <Word Book='Bereshit' Chapter='26' Verse='35' WordSequence='2' >מֹ֣רַת</Word>
 <Word Book='Bereshit' Chapter='26' Verse='35' WordSequence='3' >ר֑וּחַ</Word>
 <Word Book='Bereshit' Chapter='26' Verse='35' WordSequence='4' >לְיִצְחָ֖ק</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='26' Verse='35' WordSequence='5' IsParashaPtuchah='true' >וּלְרִבְקָֽה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>וַיְהִי֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='26' Verse='35' WordSequence='5' >וּלְרִבְקָֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='27' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֙</Word>
 <Word Book='Bereshit' Chapter='27' Verse='1' WordSequence='2' >כִּֽי־</Word>
 <Word Book='Bereshit' Chapter='27' Verse='1' WordSequence='3' >זָקֵ֣ן</Word>
 <Word Book='Bereshit' Chapter='27' Verse='1' WordSequence='4' >יִצְחָ֔ק</Word>
@@ -10271,8 +10271,8 @@
 <Word Book='Bereshit' Chapter='27' Verse='46' WordSequence='18' >הָאָ֔רֶץ</Word>
 <Word Book='Bereshit' Chapter='27' Verse='46' WordSequence='19' >לָ֥מָּה</Word>
 <Word Book='Bereshit' Chapter='27' Verse='46' WordSequence='20' >לִּ֖י</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='27' Verse='46' WordSequence='21' >חַיִּֽים</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>וַיִּקְרָ֥א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='27' Verse='46' WordSequence='21'>חַיִּֽים</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>וַיִּקְרָ֥א</Word>
 <Word Book='Bereshit' Chapter='28' Verse='1' WordSequence='2' >יִצְחָ֛ק</Word>
 <Word Book='Bereshit' Chapter='28' Verse='1' WordSequence='3' >אֶֽל־</Word>
 <Word Book='Bereshit' Chapter='28' Verse='1' WordSequence='4' >יַעֲקֹ֖ב</Word>
@@ -10403,8 +10403,8 @@
 <Word Book='Bereshit' Chapter='28' Verse='9' WordSequence='14' >עַל־</Word>
 <Word Book='Bereshit' Chapter='28' Verse='9' WordSequence='15' >נָשָׁ֖יו</Word>
 <Word Book='Bereshit' Chapter='28' Verse='9' WordSequence='16' >ל֥וֹ</Word>
-<Word Book='Bereshit' Chapter='28' Verse='9' WordSequence='17' >לְאִשָּֽׁה</Word>
-<Word Book='Bereshit' Chapter='28' Verse='10' WordSequence='1' >וַיֵּצֵ֥א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='28' Verse='9' WordSequence='17' >לְאִשָּֽׁה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='28' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֵּצֵ֥א</Word>
 <Word Book='Bereshit' Chapter='28' Verse='10' WordSequence='2' >יַעֲקֹ֖ב</Word>
 <Word Book='Bereshit' Chapter='28' Verse='10' WordSequence='3' >מִבְּאֵ֣ר</Word>
 <Word Book='Bereshit' Chapter='28' Verse='10' WordSequence='4' >שָׁ֑בַע</Word>
@@ -10594,8 +10594,8 @@
 <Word Book='Bereshit' Chapter='28' Verse='22' WordSequence='12' >לִ֔י</Word>
 <Word Book='Bereshit' Chapter='28' Verse='22' WordSequence='13' >עַשֵּׂ֖ר</Word>
 <Word Book='Bereshit' Chapter='28' Verse='22' WordSequence='14' >אֲעַשְּׂרֶ֥נּוּ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='28' Verse='22' WordSequence='15' >לָֽךְ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>וַיִּשָּׂ֥א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='28' Verse='22' WordSequence='15'>לָֽךְ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>וַיִּשָּׂ֥א</Word>
 <Word Book='Bereshit' Chapter='29' Verse='1' WordSequence='2' >יַעֲקֹ֖ב</Word>
 <Word Book='Bereshit' Chapter='29' Verse='1' WordSequence='3' >רַגְלָ֑יו</Word>
 <Word Book='Bereshit' Chapter='29' Verse='1' WordSequence='4' >וַיֵּ֖לֶךְ</Word>
@@ -11065,8 +11065,8 @@
 <Word Book='Bereshit' Chapter='29' Verse='35' WordSequence='13' >שְׁמ֖וֹ</Word>
 <Word Book='Bereshit' Chapter='29' Verse='35' WordSequence='14' >יְהוּדָ֑ה</Word>
 <Word Book='Bereshit' Chapter='29' Verse='35' WordSequence='15' >וַֽתַּעֲמֹ֖ד</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='29' Verse='35' WordSequence='16' >מִלֶּֽדֶת</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וַתֵּ֣רֶא</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='29' Verse='35' WordSequence='16'>מִלֶּֽדֶת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וַתֵּ֣רֶא</Word>
 <Word Book='Bereshit' Chapter='30' Verse='1' WordSequence='2' >רָחֵ֗ל</Word>
 <Word Book='Bereshit' Chapter='30' Verse='1' WordSequence='3' >כִּ֣י</Word>
 <Word Book='Bereshit' Chapter='30' Verse='1' WordSequence='4' >לֹ֤א</Word>
@@ -11627,8 +11627,8 @@
 <Word Book='Bereshit' Chapter='30' Verse='43' WordSequence='9' >וּשְׁפָחוֹת֙</Word>
 <Word Book='Bereshit' Chapter='30' Verse='43' WordSequence='10' >וַעֲבָדִ֔ים</Word>
 <Word Book='Bereshit' Chapter='30' Verse='43' WordSequence='11' >וּגְמַלִּ֖ים</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='30' Verse='43' WordSequence='12' >וַחֲמֹרִֽים</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>וַיִּשְׁמַ֗ע</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='30' Verse='43' WordSequence='12'>וַחֲמֹרִֽים</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>וַיִּשְׁמַ֗ע</Word>
 <Word Book='Bereshit' Chapter='31' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='31' Verse='1' WordSequence='3' >דִּבְרֵ֤י</Word>
 <Word Book='Bereshit' Chapter='31' Verse='1' WordSequence='4' >בְנֵֽי־</Word>
@@ -12395,8 +12395,8 @@
 <Word Book='Bereshit' Chapter='31' Verse='54' WordSequence='9' >וַיֹּ֣אכְלוּ</Word>
 <Word Book='Bereshit' Chapter='31' Verse='54' WordSequence='10' >לֶ֔חֶם</Word>
 <Word Book='Bereshit' Chapter='31' Verse='54' WordSequence='11' >וַיָּלִ֖ינוּ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='31' Verse='54' WordSequence='12' >בָּהָֽר</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='32' Verse='1' WordSequence='1'>וַיַּשְׁכֵּ֨ם</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='31' Verse='54' WordSequence='12'>בָּהָֽר</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='32' Verse='1' WordSequence='1'>וַיַּשְׁכֵּ֨ם</Word>
 <Word Book='Bereshit' Chapter='32' Verse='1' WordSequence='2' >לָבָ֜ן</Word>
 <Word Book='Bereshit' Chapter='32' Verse='1' WordSequence='3' >בַּבֹּ֗קֶר</Word>
 <Word Book='Bereshit' Chapter='32' Verse='1' WordSequence='4' >וַיְנַשֵּׁ֧ק</Word>
@@ -12426,8 +12426,8 @@
 <Word Book='Bereshit' Chapter='32' Verse='3' WordSequence='9' >שֵֽׁם־</Word>
 <Word Book='Bereshit' Chapter='32' Verse='3' WordSequence='10' >הַמָּק֥וֹם</Word>
 <Word Book='Bereshit' Chapter='32' Verse='3' WordSequence='11' >הַה֖וּא</Word>
-<Word Book='Bereshit' Chapter='32' Verse='3' WordSequence='12' IsParashaPtuchah='true' >מַֽחֲנָֽיִם</Word>
-<Word Book='Bereshit' Chapter='32' Verse='4' WordSequence='1' >וַיִּשְׁלַ֨ח</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='32' Verse='3' WordSequence='12'>מַֽחֲנָֽיִם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='32' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֨ח</Word>
 <Word Book='Bereshit' Chapter='32' Verse='4' WordSequence='2' >יַעֲקֹ֤ב</Word>
 <Word Book='Bereshit' Chapter='32' Verse='4' WordSequence='3' >מַלְאָכִים֙</Word>
 <Word Book='Bereshit' Chapter='32' Verse='4' WordSequence='4' >לְפָנָ֔יו</Word>
@@ -12848,8 +12848,8 @@
 <Word Book='Bereshit' Chapter='32' Verse='33' WordSequence='20' >יֶ֣רֶךְ</Word>
 <Word Book='Bereshit' Chapter='32' Verse='33' WordSequence='21' >יַעֲקֹ֔ב</Word>
 <Word Book='Bereshit' Chapter='32' Verse='33' WordSequence='22' >בְּגִ֖יד</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='32' Verse='33' WordSequence='23' >הַנָּשֶֽׁה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='33' Verse='1' WordSequence='1'>וַיִּשָּׂ֨א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='32' Verse='33' WordSequence='23'>הַנָּשֶֽׁה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='33' Verse='1' WordSequence='1'>וַיִּשָּׂ֨א</Word>
 <Word Book='Bereshit' Chapter='33' Verse='1' WordSequence='2' >יַעֲקֹ֜ב</Word>
 <Word Book='Bereshit' Chapter='33' Verse='1' WordSequence='3' >עֵינָ֗יו</Word>
 <Word Book='Bereshit' Chapter='33' Verse='1' WordSequence='4' >וַיַּרְא֙</Word>
@@ -13078,8 +13078,8 @@
 <Word Book='Bereshit' Chapter='33' Verse='17' WordSequence='12' >קָרָ֥א</Word>
 <Word Book='Bereshit' Chapter='33' Verse='17' WordSequence='13' >שֵׁם־</Word>
 <Word Book='Bereshit' Chapter='33' Verse='17' WordSequence='14' >הַמָּק֖וֹם</Word>
-<Word Book='Bereshit' Chapter='33' Verse='17' WordSequence='15' >סֻכּֽוֹת</Word>
-<Word Book='Bereshit' Chapter='33' Verse='18' WordSequence='1' >וַיָּבֹא֩</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='33' Verse='17' WordSequence='15' >סֻכּֽוֹת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='33' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֹא֩</Word>
 <Word Book='Bereshit' Chapter='33' Verse='18' WordSequence='2' >יַעֲקֹ֨ב</Word>
 <Word Book='Bereshit' Chapter='33' Verse='18' WordSequence='3' >שָׁלֵ֜ם</Word>
 <Word Book='Bereshit' Chapter='33' Verse='18' WordSequence='4' >עִ֣יר</Word>
@@ -13116,8 +13116,8 @@
 <Word Book='Bereshit' Chapter='33' Verse='20' WordSequence='5' >ל֔וֹ</Word>
 <Word Book='Bereshit' Chapter='33' Verse='20' WordSequence='6' >אֵ֖ל</Word>
 <Word Book='Bereshit' Chapter='33' Verse='20' WordSequence='7' >אֱלֹהֵ֥י</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='33' Verse='20' WordSequence='8' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='34' Verse='1' WordSequence='1'>וַתֵּצֵ֤א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='33' Verse='20' WordSequence='8' >יִשְׂרָאֵֽל</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='34' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַתֵּצֵ֤א</Word>
 <Word Book='Bereshit' Chapter='34' Verse='1' WordSequence='2' >דִינָה֙</Word>
 <Word Book='Bereshit' Chapter='34' Verse='1' WordSequence='3' >בַּת־</Word>
 <Word Book='Bereshit' Chapter='34' Verse='1' WordSequence='4' >לֵאָ֔ה</Word>
@@ -13537,8 +13537,8 @@
 <Word Book='Bereshit' Chapter='34' Verse='31' WordSequence='2' >הַכְזוֹנָ֕ה</Word>
 <Word Book='Bereshit' Chapter='34' Verse='31' WordSequence='3' >יַעֲשֶׂ֖ה</Word>
 <Word Book='Bereshit' Chapter='34' Verse='31' WordSequence='4' >אֶת־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='34' Verse='31' WordSequence='5' IsParashaPtuchah='true' >אֲחוֹתֵֽנוּ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='35' Verse='1' WordSequence='1'>וַיֹּ֤אמֶר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='34' Verse='31' WordSequence='5'>אֲחוֹתֵֽנוּ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='35' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Bereshit' Chapter='35' Verse='1' WordSequence='2' >אֱלֹהִים֙</Word>
 <Word Book='Bereshit' Chapter='35' Verse='1' WordSequence='3' >אֶֽל־</Word>
 <Word Book='Bereshit' Chapter='35' Verse='1' WordSequence='4' >יַעֲקֹ֔ב</Word>
@@ -13669,8 +13669,8 @@
 <Word Book='Bereshit' Chapter='35' Verse='8' WordSequence='11' >וַיִּקְרָ֥א</Word>
 <Word Book='Bereshit' Chapter='35' Verse='8' WordSequence='12' >שְׁמ֖וֹ</Word>
 <Word Book='Bereshit' Chapter='35' Verse='8' WordSequence='13' >אַלּ֥וֹן</Word>
-<Word Book='Bereshit' Chapter='35' Verse='8' WordSequence='14' IsParashaPtuchah='true' >בָּכֽוּת</Word>
-<Word Book='Bereshit' Chapter='35' Verse='9' WordSequence='1' >וַיֵּרָ֨א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='35' Verse='8' WordSequence='14'>בָּכֽוּת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='35' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וַיֵּרָ֨א</Word>
 <Word Book='Bereshit' Chapter='35' Verse='9' WordSequence='2' >אֱלֹהִ֤ים</Word>
 <Word Book='Bereshit' Chapter='35' Verse='9' WordSequence='3' >אֶֽל־</Word>
 <Word Book='Bereshit' Chapter='35' Verse='9' WordSequence='4' >יַעֲקֹב֙</Word>
@@ -13840,7 +13840,7 @@
 <Word Book='Bereshit' Chapter='35' Verse='22' WordSequence='11' >פִּילֶ֣גֶשׁ</Word>
 <Word Book='Bereshit' Chapter='35' Verse='22' WordSequence='12' >אָבִ֑֔יו</Word>
 <Word Book='Bereshit' Chapter='35' Verse='22' WordSequence='13' >וַיִּשְׁמַ֖ע</Word>
-<Word Book='Bereshit' Chapter='35' Verse='22' WordSequence='14' IsParashaPtuchah='true' >יִשְׂרָאֵֽ֑ל</Word>
+<Word Book='Bereshit' Chapter='35' Verse='22' WordSequence='14' >יִשְׂרָאֵֽ֑ל</Word>
 <Word Book='Bereshit' Chapter='35' Verse='22' WordSequence='16' >וַיִּֽהְי֥וּ</Word>
 <Word Book='Bereshit' Chapter='35' Verse='22' WordSequence='17' >בְנֵֽי־</Word>
 <Word Book='Bereshit' Chapter='35' Verse='22' WordSequence='18' >יַעֲקֹ֖ב</Word>
@@ -13915,8 +13915,8 @@
 <Word Book='Bereshit' Chapter='35' Verse='29' WordSequence='11' >אֹת֔וֹ</Word>
 <Word Book='Bereshit' Chapter='35' Verse='29' WordSequence='12' >עֵשָׂ֥ו</Word>
 <Word Book='Bereshit' Chapter='35' Verse='29' WordSequence='13' >וְיַעֲקֹ֖ב</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='35' Verse='29' WordSequence='14' IsParashaPtuchah='true' >בָּנָֽיו</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='36' Verse='1' WordSequence='1'>וְאֵ֛לֶּה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='35' Verse='29' WordSequence='14'>בָּנָֽיו</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='36' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֛לֶּה</Word>
 <Word Book='Bereshit' Chapter='36' Verse='1' WordSequence='2' >תֹּלְד֥וֹת</Word>
 <Word Book='Bereshit' Chapter='36' Verse='1' WordSequence='3' >עֵשָׂ֖ו</Word>
 <Word Book='Bereshit' Chapter='36' Verse='1' WordSequence='4' >ה֥וּא</Word>
@@ -14175,8 +14175,8 @@
 <Word Book='Bereshit' Chapter='36' Verse='19' WordSequence='4' >וְאֵ֥לֶּה</Word>
 <Word Book='Bereshit' Chapter='36' Verse='19' WordSequence='5' >אַלּוּפֵיהֶ֖ם</Word>
 <Word Book='Bereshit' Chapter='36' Verse='19' WordSequence='6' >ה֥וּא</Word>
-<Word Book='Bereshit' Chapter='36' Verse='19' WordSequence='7' >אֱדֽוֹם</Word>
-<Word Book='Bereshit' Chapter='36' Verse='20' WordSequence='1' >אֵ֤לֶּה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='36' Verse='19' WordSequence='7' >אֱדֽוֹם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='36' Verse='20' WordSequence='1' IsParashaPtuchah='true' >אֵ֤לֶּה</Word>
 <Word Book='Bereshit' Chapter='36' Verse='20' WordSequence='2' >בְנֵֽי־</Word>
 <Word Book='Bereshit' Chapter='36' Verse='20' WordSequence='3' >שֵׂעִיר֙</Word>
 <Word Book='Bereshit' Chapter='36' Verse='20' WordSequence='4' >הַחֹרִ֔י</Word>
@@ -14276,8 +14276,8 @@
 <Word Book='Bereshit' Chapter='36' Verse='30' WordSequence='9' >הַחֹרִ֛י</Word>
 <Word Book='Bereshit' Chapter='36' Verse='30' WordSequence='10' >לְאַלֻּפֵיהֶ֖ם</Word>
 <Word Book='Bereshit' Chapter='36' Verse='30' WordSequence='11' >בְּאֶ֥רֶץ</Word>
-<Word Book='Bereshit' Chapter='36' Verse='30' WordSequence='12' IsParashaPtuchah='true' >שֵׂעִֽיר</Word>
-<Word Book='Bereshit' Chapter='36' Verse='31' WordSequence='1' >וְאֵ֙לֶּה֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='36' Verse='30' WordSequence='12'>שֵׂעִֽיר</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='36' Verse='31' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֙לֶּה֙</Word>
 <Word Book='Bereshit' Chapter='36' Verse='31' WordSequence='2' >הַמְּלָכִ֔ים</Word>
 <Word Book='Bereshit' Chapter='36' Verse='31' WordSequence='3' >אֲשֶׁ֥ר</Word>
 <Word Book='Bereshit' Chapter='36' Verse='31' WordSequence='4' >מָלְכ֖וּ</Word>
@@ -14404,8 +14404,8 @@
 <Word Book='Bereshit' Chapter='36' Verse='43' WordSequence='11' >ה֥וּא</Word>
 <Word Book='Bereshit' Chapter='36' Verse='43' WordSequence='12' >עֵשָׂ֖ו</Word>
 <Word Book='Bereshit' Chapter='36' Verse='43' WordSequence='13' >אֲבִ֥י</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='36' Verse='43' WordSequence='14' IsParashaPtuchah='true' >אֱדֽוֹם</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='37' Verse='1' WordSequence='1'>וַיֵּ֣שֶׁב</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='36' Verse='43' WordSequence='14'>אֱדֽוֹם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='37' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֵּ֣שֶׁב</Word>
 <Word Book='Bereshit' Chapter='37' Verse='1' WordSequence='2' >יַעֲקֹ֔ב</Word>
 <Word Book='Bereshit' Chapter='37' Verse='1' WordSequence='3' >בְּאֶ֖רֶץ</Word>
 <Word Book='Bereshit' Chapter='37' Verse='1' WordSequence='4' >מְגוּרֵ֣י</Word>
@@ -14898,8 +14898,8 @@
 <Word Book='Bereshit' Chapter='37' Verse='36' WordSequence='7' >סְרִ֣יס</Word>
 <Word Book='Bereshit' Chapter='37' Verse='36' WordSequence='8' >פַּרְעֹ֔ה</Word>
 <Word Book='Bereshit' Chapter='37' Verse='36' WordSequence='9' >שַׂ֖ר</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='37' Verse='36' WordSequence='10' IsParashaPtuchah='true' >הַטַּבָּחִֽים</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='38' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='37' Verse='36' WordSequence='10'>הַטַּבָּחִֽים</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='38' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Bereshit' Chapter='38' Verse='1' WordSequence='2' >בָּעֵ֣ת</Word>
 <Word Book='Bereshit' Chapter='38' Verse='1' WordSequence='3' >הַהִ֔וא</Word>
 <Word Book='Bereshit' Chapter='38' Verse='1' WordSequence='4' >וַיֵּ֥רֶד</Word>
@@ -15303,8 +15303,8 @@
 <Word Book='Bereshit' Chapter='38' Verse='30' WordSequence='7' >הַשָּׁנִ֑י</Word>
 <Word Book='Bereshit' Chapter='38' Verse='30' WordSequence='8' >וַיִּקְרָ֥א</Word>
 <Word Book='Bereshit' Chapter='38' Verse='30' WordSequence='9' >שְׁמ֖וֹ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='38' Verse='30' WordSequence='10' IsParashaPtuchah='true' >זָֽרַח</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='39' Verse='1' WordSequence='1'>וְיוֹסֵ֖ף</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='38' Verse='30' WordSequence='10' >זָֽרַח</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='39' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְיוֹסֵ֖ף</Word>
 <Word Book='Bereshit' Chapter='39' Verse='1' WordSequence='2' >הוּרַ֣ד</Word>
 <Word Book='Bereshit' Chapter='39' Verse='1' WordSequence='3' >מִצְרָ֑יְמָה</Word>
 <Word Book='Bereshit' Chapter='39' Verse='1' WordSequence='4' >וַיִּקְנֵ֡הוּ</Word>
@@ -15651,8 +15651,8 @@
 <Word Book='Bereshit' Chapter='39' Verse='23' WordSequence='14' >ה֥וּא</Word>
 <Word Book='Bereshit' Chapter='39' Verse='23' WordSequence='15' >עֹשֶׂ֖ה</Word>
 <Word Book='Bereshit' Chapter='39' Verse='23' WordSequence='16' >יְהוָ֥ה</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='39' Verse='23' WordSequence='17' IsParashaPtuchah='true' >מַצְלִֽיחַ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='40' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='39' Verse='23' WordSequence='17' >מַצְלִֽיחַ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='40' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Bereshit' Chapter='40' Verse='1' WordSequence='2' >אַחַר֙</Word>
 <Word Book='Bereshit' Chapter='40' Verse='1' WordSequence='3' >הַדְּבָרִ֣ים</Word>
 <Word Book='Bereshit' Chapter='40' Verse='1' WordSequence='4' >הָאֵ֔לֶּה</Word>
@@ -15963,8 +15963,8 @@
 <Word Book='Bereshit' Chapter='40' Verse='23' WordSequence='4' >הַמַּשְׁקִ֛ים</Word>
 <Word Book='Bereshit' Chapter='40' Verse='23' WordSequence='5' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='40' Verse='23' WordSequence='6' >יוֹסֵ֖ף</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='40' Verse='23' WordSequence='7' IsParashaPtuchah='true' >וַיִּשְׁכָּחֵֽהוּ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='41' Verse='1' WordSequence='1'>וַיְהִ֕י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='40' Verse='23' WordSequence='7'>וַיִּשְׁכָּחֵֽהוּ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='41' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֕י</Word>
 <Word Book='Bereshit' Chapter='41' Verse='1' WordSequence='2' >מִקֵּ֖ץ</Word>
 <Word Book='Bereshit' Chapter='41' Verse='1' WordSequence='3' >שְׁנָתַ֣יִם</Word>
 <Word Book='Bereshit' Chapter='41' Verse='1' WordSequence='4' >יָמִ֑ים</Word>
@@ -16739,8 +16739,8 @@
 <Word Book='Bereshit' Chapter='41' Verse='57' WordSequence='9' >חָזַ֥ק</Word>
 <Word Book='Bereshit' Chapter='41' Verse='57' WordSequence='10' >הָרָעָ֖ב</Word>
 <Word Book='Bereshit' Chapter='41' Verse='57' WordSequence='11' >בְּכָל־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='41' Verse='57' WordSequence='12' >הָאָֽרֶץ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='42' Verse='1' WordSequence='1'>וַיַּ֣רְא</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='41' Verse='57' WordSequence='12'>הָאָֽרֶץ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='42' Verse='1' WordSequence='1'>וַיַּ֣רְא</Word>
 <Word Book='Bereshit' Chapter='42' Verse='1' WordSequence='2' >יַעֲקֹ֔ב</Word>
 <Word Book='Bereshit' Chapter='42' Verse='1' WordSequence='3' >כִּ֥י</Word>
 <Word Book='Bereshit' Chapter='42' Verse='1' WordSequence='4' >יֶשׁ־</Word>
@@ -17267,8 +17267,8 @@
 <Word Book='Bereshit' Chapter='42' Verse='38' WordSequence='19' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='42' Verse='38' WordSequence='20' >שֵׂיבָתִ֛י</Word>
 <Word Book='Bereshit' Chapter='42' Verse='38' WordSequence='21' >בְּיָג֖וֹן</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='42' Verse='38' WordSequence='22' >שְׁאֽוֹלָה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='43' Verse='1' WordSequence='1'>וְהָרָעָ֖ב</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='42' Verse='38' WordSequence='22'>שְׁאֽוֹלָה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='43' Verse='1' WordSequence='1'>וְהָרָעָ֖ב</Word>
 <Word Book='Bereshit' Chapter='43' Verse='1' WordSequence='2' >כָּבֵ֥ד</Word>
 <Word Book='Bereshit' Chapter='43' Verse='1' WordSequence='3' >בָּאָֽרֶץ</Word>
 <Word Book='Bereshit' Chapter='43' Verse='2' WordSequence='1' >וַיְהִ֗י</Word>
@@ -17753,8 +17753,8 @@
 <Word Book='Bereshit' Chapter='43' Verse='34' WordSequence='12' >יָד֑וֹת</Word>
 <Word Book='Bereshit' Chapter='43' Verse='34' WordSequence='13' >וַיִּשְׁתּ֥וּ</Word>
 <Word Book='Bereshit' Chapter='43' Verse='34' WordSequence='14' >וַֽיִּשְׁכְּר֖וּ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='43' Verse='34' WordSequence='15' >עִמּֽוֹ</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='44' Verse='1' WordSequence='1'>וַיְצַ֞ו</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='43' Verse='34' WordSequence='15'>עִמּֽוֹ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='44' Verse='1' WordSequence='1'>וַיְצַ֞ו</Word>
 <Word Book='Bereshit' Chapter='44' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Bereshit' Chapter='44' Verse='1' WordSequence='3' >אֲשֶׁ֣ר</Word>
 <Word Book='Bereshit' Chapter='44' Verse='1' WordSequence='4' >עַל־</Word>
@@ -17986,8 +17986,8 @@
 <Word Book='Bereshit' Chapter='44' Verse='17' WordSequence='16' >עֲל֥וּ</Word>
 <Word Book='Bereshit' Chapter='44' Verse='17' WordSequence='17' >לְשָׁל֖וֹם</Word>
 <Word Book='Bereshit' Chapter='44' Verse='17' WordSequence='18' >אֶל־</Word>
-<Word Book='Bereshit' Chapter='44' Verse='17' WordSequence='19' IsParashaPtuchah='true' >אֲבִיכֶֽם</Word>
-<Word Book='Bereshit' Chapter='44' Verse='18' WordSequence='1' >וַיִּגַּ֨שׁ</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='44' Verse='17' WordSequence='19'>אֲבִיכֶֽם</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='44' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וַיִּגַּ֨שׁ</Word>
 <Word Book='Bereshit' Chapter='44' Verse='18' WordSequence='2' >אֵלָ֜יו</Word>
 <Word Book='Bereshit' Chapter='44' Verse='18' WordSequence='3' >יְהוּדָ֗ה</Word>
 <Word Book='Bereshit' Chapter='44' Verse='18' WordSequence='4' >וַיֹּאמֶר֮</Word>
@@ -18208,8 +18208,8 @@
 <Word Book='Bereshit' Chapter='44' Verse='34' WordSequence='12' >אֲשֶׁ֥ר</Word>
 <Word Book='Bereshit' Chapter='44' Verse='34' WordSequence='13' >יִמְצָ֖א</Word>
 <Word Book='Bereshit' Chapter='44' Verse='34' WordSequence='14' >אֶת־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='44' Verse='34' WordSequence='15' >אָבִֽי</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='45' Verse='1' WordSequence='1'>וְלֹֽא־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='44' Verse='34' WordSequence='15'>אָבִֽי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='45' Verse='1' WordSequence='1'>וְלֹֽא־</Word>
 <Word Book='Bereshit' Chapter='45' Verse='1' WordSequence='2' >יָכֹ֨ל</Word>
 <Word Book='Bereshit' Chapter='45' Verse='1' WordSequence='3' >יוֹסֵ֜ף</Word>
 <Word Book='Bereshit' Chapter='45' Verse='1' WordSequence='4' >לְהִתְאַפֵּ֗ק</Word>
@@ -18605,8 +18605,8 @@
 <Word Book='Bereshit' Chapter='45' Verse='28' WordSequence='8' >אֵֽלְכָ֥ה</Word>
 <Word Book='Bereshit' Chapter='45' Verse='28' WordSequence='9' >וְאֶרְאֶ֖נּוּ</Word>
 <Word Book='Bereshit' Chapter='45' Verse='28' WordSequence='10' >בְּטֶ֥רֶם</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='45' Verse='28' WordSequence='11' >אָמֽוּת</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='46' Verse='1' WordSequence='1'>וַיִּסַּ֤ע</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='45' Verse='28' WordSequence='11'>אָמֽוּת</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='46' Verse='1' WordSequence='1'>וַיִּסַּ֤ע</Word>
 <Word Book='Bereshit' Chapter='46' Verse='1' WordSequence='2' >יִשְׂרָאֵל֙</Word>
 <Word Book='Bereshit' Chapter='46' Verse='1' WordSequence='3' >וְכָל־</Word>
 <Word Book='Bereshit' Chapter='46' Verse='1' WordSequence='4' >אֲשֶׁר־</Word>
@@ -18702,8 +18702,8 @@
 <Word Book='Bereshit' Chapter='46' Verse='7' WordSequence='9' >זַרְע֑וֹ</Word>
 <Word Book='Bereshit' Chapter='46' Verse='7' WordSequence='10' >הֵבִ֥יא</Word>
 <Word Book='Bereshit' Chapter='46' Verse='7' WordSequence='11' >אִתּ֖וֹ</Word>
-<Word Book='Bereshit' Chapter='46' Verse='7' WordSequence='12' >מִצְרָֽיְמָה</Word>
-<Word Book='Bereshit' Chapter='46' Verse='8' WordSequence='1' >וְאֵ֨לֶּה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='46' Verse='7' WordSequence='12' >מִצְרָֽיְמָה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='46' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֨לֶּה</Word>
 <Word Book='Bereshit' Chapter='46' Verse='8' WordSequence='2' >שְׁמ֧וֹת</Word>
 <Word Book='Bereshit' Chapter='46' Verse='8' WordSequence='3' >בְּנֵֽי־</Word>
 <Word Book='Bereshit' Chapter='46' Verse='8' WordSequence='4' >יִשְׂרָאֵ֛ל</Word>
@@ -18914,8 +18914,8 @@
 <Word Book='Bereshit' Chapter='46' Verse='27' WordSequence='12' >יַעֲקֹ֛ב</Word>
 <Word Book='Bereshit' Chapter='46' Verse='27' WordSequence='13' >הַבָּ֥אָה</Word>
 <Word Book='Bereshit' Chapter='46' Verse='27' WordSequence='14' >מִצְרַ֖יְמָה</Word>
-<Word Book='Bereshit' Chapter='46' Verse='27' WordSequence='15' IsParashaPtuchah='true' >שִׁבְעִֽים</Word>
-<Word Book='Bereshit' Chapter='46' Verse='28' WordSequence='1' >וְאֶת־</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='46' Verse='27' WordSequence='15'>שִׁבְעִֽים</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='46' Verse='28' WordSequence='1' IsParashaPtuchah='true' >וְאֶת־</Word>
 <Word Book='Bereshit' Chapter='46' Verse='28' WordSequence='2' >יְהוּדָ֞ה</Word>
 <Word Book='Bereshit' Chapter='46' Verse='28' WordSequence='3' >שָׁלַ֤ח</Word>
 <Word Book='Bereshit' Chapter='46' Verse='28' WordSequence='4' >לְפָנָיו֙</Word>
@@ -19019,8 +19019,8 @@
 <Word Book='Bereshit' Chapter='46' Verse='34' WordSequence='19' >מִצְרַ֖יִם</Word>
 <Word Book='Bereshit' Chapter='46' Verse='34' WordSequence='20' >כָּל־</Word>
 <Word Book='Bereshit' Chapter='46' Verse='34' WordSequence='21' >רֹ֥עֵה</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='46' Verse='34' WordSequence='22' >צֹֽאן</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='47' Verse='1' WordSequence='1'>וַיָּבֹ֣א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='46' Verse='34' WordSequence='22'>צֹֽאן</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='47' Verse='1' WordSequence='1'>וַיָּבֹ֣א</Word>
 <Word Book='Bereshit' Chapter='47' Verse='1' WordSequence='2' >יוֹסֵף֮</Word>
 <Word Book='Bereshit' Chapter='47' Verse='1' WordSequence='3' >וַיַּגֵּ֣ד</Word>
 <Word Book='Bereshit' Chapter='47' Verse='1' WordSequence='4' >לְפַרְעֹה֒</Word>
@@ -19531,8 +19531,8 @@
 <Word Book='Bereshit' Chapter='47' Verse='31' WordSequence='7' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Bereshit' Chapter='47' Verse='31' WordSequence='8' >עַל־</Word>
 <Word Book='Bereshit' Chapter='47' Verse='31' WordSequence='9' >רֹ֥אשׁ</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='47' Verse='31' WordSequence='10' IsParashaPtuchah='true' >הַמִּטָּֽה</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='48' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='47' Verse='31' WordSequence='10'>הַמִּטָּֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='48' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Bereshit' Chapter='48' Verse='1' WordSequence='2' >אַחֲרֵי֙</Word>
 <Word Book='Bereshit' Chapter='48' Verse='1' WordSequence='3' >הַדְּבָרִ֣ים</Word>
 <Word Book='Bereshit' Chapter='48' Verse='1' WordSequence='4' >הָאֵ֔לֶּה</Word>
@@ -19881,8 +19881,8 @@
 <Word Book='Bereshit' Chapter='48' Verse='22' WordSequence='10' >מִיַּ֣ד</Word>
 <Word Book='Bereshit' Chapter='48' Verse='22' WordSequence='11' >הָֽאֱמֹרִ֔י</Word>
 <Word Book='Bereshit' Chapter='48' Verse='22' WordSequence='12' >בְּחַרְבִּ֖י</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='48' Verse='22' WordSequence='13' IsParashaPtuchah='true' >וּבְקַשְׁתִּֽי</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='49' Verse='1' WordSequence='1'>וַיִּקְרָ֥א</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='48' Verse='22' WordSequence='13'>וּבְקַשְׁתִּֽי</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיִּקְרָ֥א</Word>
 <Word Book='Bereshit' Chapter='49' Verse='1' WordSequence='2' >יַעֲקֹ֖ב</Word>
 <Word Book='Bereshit' Chapter='49' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Bereshit' Chapter='49' Verse='1' WordSequence='4' >בָּנָ֑יו</Word>
@@ -19925,8 +19925,8 @@
 <Word Book='Bereshit' Chapter='49' Verse='4' WordSequence='9' >אָ֥ז</Word>
 <Word Book='Bereshit' Chapter='49' Verse='4' WordSequence='10' >חִלַּ֖לְתָּ</Word>
 <Word Book='Bereshit' Chapter='49' Verse='4' WordSequence='11' >יְצוּעִ֥י</Word>
-<Word Book='Bereshit' Chapter='49' Verse='4' WordSequence='12' IsParashaPtuchah='true' >עָלָֽה</Word>
-<Word Book='Bereshit' Chapter='49' Verse='5' WordSequence='1' >שִׁמְע֥וֹן</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='4' WordSequence='12'>עָלָֽה</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='5' WordSequence='1' IsParashaPtuchah='true' >שִׁמְע֥וֹן</Word>
 <Word Book='Bereshit' Chapter='49' Verse='5' WordSequence='2' >וְלֵוִ֖י</Word>
 <Word Book='Bereshit' Chapter='49' Verse='5' WordSequence='3' >אַחִ֑ים</Word>
 <Word Book='Bereshit' Chapter='49' Verse='5' WordSequence='4' >כְּלֵ֥י</Word>
@@ -19957,8 +19957,8 @@
 <Word Book='Bereshit' Chapter='49' Verse='7' WordSequence='8' >אֲחַלְּקֵ֣ם</Word>
 <Word Book='Bereshit' Chapter='49' Verse='7' WordSequence='9' >בְּיַעֲקֹ֔ב</Word>
 <Word Book='Bereshit' Chapter='49' Verse='7' WordSequence='10' >וַאֲפִיצֵ֖ם</Word>
-<Word Book='Bereshit' Chapter='49' Verse='7' WordSequence='11' >בְּיִשְׂרָאֵֽל</Word>
-<Word Book='Bereshit' Chapter='49' Verse='8' WordSequence='1' >יְהוּדָ֗ה</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='7' WordSequence='11' >בְּיִשְׂרָאֵֽל</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='8' WordSequence='1' IsParashaPtuchah='true' >יְהוּדָ֗ה</Word>
 <Word Book='Bereshit' Chapter='49' Verse='8' WordSequence='2' >אַתָּה֙</Word>
 <Word Book='Bereshit' Chapter='49' Verse='8' WordSequence='3' >יוֹד֣וּךָ</Word>
 <Word Book='Bereshit' Chapter='49' Verse='8' WordSequence='4' >אַחֶ֔יךָ</Word>
@@ -20015,8 +20015,8 @@
 <Word Book='Bereshit' Chapter='49' Verse='12' WordSequence='3' >מִיָּ֑יִן</Word>
 <Word Book='Bereshit' Chapter='49' Verse='12' WordSequence='4' >וּלְבֶן־</Word>
 <Word Book='Bereshit' Chapter='49' Verse='12' WordSequence='5' >שִׁנַּ֖יִם</Word>
-<Word Book='Bereshit' Chapter='49' Verse='12' WordSequence='6' IsParashaPtuchah='true' >מֵחָלָֽב</Word>
-<Word Book='Bereshit' Chapter='49' Verse='13' WordSequence='1' >זְבוּלֻ֕ן</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='12' WordSequence='6'>מֵחָלָֽב</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='13' WordSequence='1' IsParashaPtuchah='true' >זְבוּלֻ֕ן</Word>
 <Word Book='Bereshit' Chapter='49' Verse='13' WordSequence='2' >לְח֥וֹף</Word>
 <Word Book='Bereshit' Chapter='49' Verse='13' WordSequence='3' >יַמִּ֖ים</Word>
 <Word Book='Bereshit' Chapter='49' Verse='13' WordSequence='4' >יִשְׁכֹּ֑ן</Word>
@@ -20025,8 +20025,8 @@
 <Word Book='Bereshit' Chapter='49' Verse='13' WordSequence='7' >אֳנִיּ֔וֹת</Word>
 <Word Book='Bereshit' Chapter='49' Verse='13' WordSequence='8' >וְיַרְכָת֖וֹ</Word>
 <Word Book='Bereshit' Chapter='49' Verse='13' WordSequence='9' >עַל־</Word>
-<Word Book='Bereshit' Chapter='49' Verse='13' WordSequence='10' >צִידֹֽן</Word>
-<Word Book='Bereshit' Chapter='49' Verse='14' WordSequence='1' >יִשָּׂשכָ֖ר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='13' WordSequence='10' >צִידֹֽן</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='14' WordSequence='1' IsParashaPtuchah='true' >יִשָּׂשכָ֖ר</Word>
 <Word Book='Bereshit' Chapter='49' Verse='14' WordSequence='2' >חֲמֹ֣ר</Word>
 <Word Book='Bereshit' Chapter='49' Verse='14' WordSequence='3' >גָּ֑רֶם</Word>
 <Word Book='Bereshit' Chapter='49' Verse='14' WordSequence='4' >רֹבֵ֖ץ</Word>
@@ -20045,8 +20045,8 @@
 <Word Book='Bereshit' Chapter='49' Verse='15' WordSequence='11' >לִסְבֹּ֔ל</Word>
 <Word Book='Bereshit' Chapter='49' Verse='15' WordSequence='12' >וַיְהִ֖י</Word>
 <Word Book='Bereshit' Chapter='49' Verse='15' WordSequence='13' >לְמַס־</Word>
-<Word Book='Bereshit' Chapter='49' Verse='15' WordSequence='14' >עֹבֵֽד</Word>
-<Word Book='Bereshit' Chapter='49' Verse='16' WordSequence='1' >דָּ֖ן</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='15' WordSequence='14' >עֹבֵֽד</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='16' WordSequence='1' IsParashaPtuchah='true' >דָּ֖ן</Word>
 <Word Book='Bereshit' Chapter='49' Verse='16' WordSequence='2' >יָדִ֣ין</Word>
 <Word Book='Bereshit' Chapter='49' Verse='16' WordSequence='3' >עַמּ֑וֹ</Word>
 <Word Book='Bereshit' Chapter='49' Verse='16' WordSequence='4' >כְּאַחַ֖ד</Word>
@@ -20074,21 +20074,21 @@
 <Word Book='Bereshit' Chapter='49' Verse='19' WordSequence='3' >יְגוּדֶ֑נּוּ</Word>
 <Word Book='Bereshit' Chapter='49' Verse='19' WordSequence='4' >וְה֖וּא</Word>
 <Word Book='Bereshit' Chapter='49' Verse='19' WordSequence='5' >יָגֻ֥ד</Word>
-<Word Book='Bereshit' Chapter='49' Verse='19' WordSequence='6' >עָקֵֽב</Word>
-<Word Book='Bereshit' Chapter='49' Verse='20' WordSequence='1' >מֵאָשֵׁ֖ר</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='19' WordSequence='6' >עָקֵֽב</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='20' WordSequence='1' IsParashaPtuchah='true' >מֵאָשֵׁ֖ר</Word>
 <Word Book='Bereshit' Chapter='49' Verse='20' WordSequence='2' >שְׁמֵנָ֣ה</Word>
 <Word Book='Bereshit' Chapter='49' Verse='20' WordSequence='3' >לַחְמ֑וֹ</Word>
 <Word Book='Bereshit' Chapter='49' Verse='20' WordSequence='4' >וְה֥וּא</Word>
 <Word Book='Bereshit' Chapter='49' Verse='20' WordSequence='5' >יִתֵּ֖ן</Word>
 <Word Book='Bereshit' Chapter='49' Verse='20' WordSequence='6' >מַֽעֲדַנֵּי־</Word>
-<Word Book='Bereshit' Chapter='49' Verse='20' WordSequence='7' >מֶֽלֶךְ</Word>
-<Word Book='Bereshit' Chapter='49' Verse='21' WordSequence='1' >נַפְתָּלִ֖י</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='20' WordSequence='7' >מֶֽלֶךְ</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='21' WordSequence='1' IsParashaPtuchah='true' >נַפְתָּלִ֖י</Word>
 <Word Book='Bereshit' Chapter='49' Verse='21' WordSequence='2' >אַיָּלָ֣ה</Word>
 <Word Book='Bereshit' Chapter='49' Verse='21' WordSequence='3' >שְׁלֻחָ֑ה</Word>
 <Word Book='Bereshit' Chapter='49' Verse='21' WordSequence='4' >הַנֹּתֵ֖ן</Word>
 <Word Book='Bereshit' Chapter='49' Verse='21' WordSequence='5' >אִמְרֵי־</Word>
-<Word Book='Bereshit' Chapter='49' Verse='21' WordSequence='6' >שָֽׁפֶר</Word>
-<Word Book='Bereshit' Chapter='49' Verse='22' WordSequence='1' >בֵּ֤ן</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='21' WordSequence='6' >שָֽׁפֶר</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='22' WordSequence='1' IsParashaPtuchah='true' >בֵּ֤ן</Word>
 <Word Book='Bereshit' Chapter='49' Verse='22' WordSequence='2' >פֹּרָת֙</Word>
 <Word Book='Bereshit' Chapter='49' Verse='22' WordSequence='3' >יוֹסֵ֔ף</Word>
 <Word Book='Bereshit' Chapter='49' Verse='22' WordSequence='4' >בֵּ֥ן</Word>
@@ -20148,8 +20148,8 @@
 <Word Book='Bereshit' Chapter='49' Verse='26' WordSequence='13' >יוֹסֵ֔ף</Word>
 <Word Book='Bereshit' Chapter='49' Verse='26' WordSequence='14' >וּלְקָדְקֹ֖ד</Word>
 <Word Book='Bereshit' Chapter='49' Verse='26' WordSequence='15' >נְזִ֥יר</Word>
-<Word Book='Bereshit' Chapter='49' Verse='26' WordSequence='16' IsParashaPtuchah='true' >אֶחָֽיו</Word>
-<Word Book='Bereshit' Chapter='49' Verse='27' WordSequence='1' >בִּנְיָמִין֙</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='26' WordSequence='16'>אֶחָֽיו</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='49' Verse='27' WordSequence='1' IsParashaPtuchah='true' >בִּנְיָמִין֙</Word>
 <Word Book='Bereshit' Chapter='49' Verse='27' WordSequence='2' >זְאֵ֣ב</Word>
 <Word Book='Bereshit' Chapter='49' Verse='27' WordSequence='3' >יִטְרָ֔ף</Word>
 <Word Book='Bereshit' Chapter='49' Verse='27' WordSequence='4' >בַּבֹּ֖קֶר</Word>
@@ -20252,8 +20252,8 @@
 <Word Book='Bereshit' Chapter='49' Verse='33' WordSequence='10' >וַיִּגְוַ֖ע</Word>
 <Word Book='Bereshit' Chapter='49' Verse='33' WordSequence='11' >וַיֵּאָ֥סֶף</Word>
 <Word Book='Bereshit' Chapter='49' Verse='33' WordSequence='12' >אֶל־</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='49' Verse='33' WordSequence='13' >עַמָּֽיו</Word>
-<Word Book='Bereshit' StartPerekBeforeWord='true' Chapter='50' Verse='1' WordSequence='1'>וַיִּפֹּ֥ל</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='49' Verse='33' WordSequence='13'>עַמָּֽיו</Word>
+<Word Book='Bereshit' StartParashaBeforeWord='true' Chapter='50' Verse='1' WordSequence='1'>וַיִּפֹּ֥ל</Word>
 <Word Book='Bereshit' Chapter='50' Verse='1' WordSequence='2' >יוֹסֵ֖ף</Word>
 <Word Book='Bereshit' Chapter='50' Verse='1' WordSequence='3' >עַל־</Word>
 <Word Book='Bereshit' Chapter='50' Verse='1' WordSequence='4' >פְּנֵ֣י</Word>
@@ -20627,5 +20627,5 @@
 <Word Book='Bereshit' Chapter='50' Verse='26' WordSequence='8' >אֹת֔וֹ</Word>
 <Word Book='Bereshit' Chapter='50' Verse='26' WordSequence='9' >וַיִּ֥ישֶׂם</Word>
 <Word Book='Bereshit' Chapter='50' Verse='26' WordSequence='10' >בָּאָר֖וֹן</Word>
-<Word Book='Bereshit' EndPerekAfterWord='true' Chapter='50' Verse='26' WordSequence='11' >בְּמִצְרָֽיִם</Word>
+<Word Book='Bereshit' EndParashaAfterWord='true' Chapter='50' Verse='26' WordSequence='11'>בְּמִצְרָֽיִם</Word>
 </Tanakh>

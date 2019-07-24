@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דְּבַר־</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דְּבַר־</Word>
 <Word Book='Hoshea' Chapter='1' Verse='1' WordSequence='2' >יְהוָ֣ה׀</Word>
 <Word Book='Hoshea' Chapter='1' Verse='1' WordSequence='3' >אֲשֶׁ֣ר</Word>
 <Word Book='Hoshea' Chapter='1' Verse='1' WordSequence='4' >הָיָ֗ה</Word>
@@ -23,7 +23,7 @@
 <Word Book='Hoshea' Chapter='1' Verse='2' WordSequence='1' >תְּחִלַּ֥ת</Word>
 <Word Book='Hoshea' Chapter='1' Verse='2' WordSequence='2' >דִּבֶּר־</Word>
 <Word Book='Hoshea' Chapter='1' Verse='2' WordSequence='3' >יְהוָ֖ה</Word>
-<Word Book='Hoshea' Chapter='1' Verse='2' WordSequence='4' IsParashaPtuchah='true' >בְּהוֹשֵׁ֑עַ</Word>
+<Word Book='Hoshea' Chapter='1' Verse='2' WordSequence='4' >בְּהוֹשֵׁ֑עַ</Word>
 <Word Book='Hoshea' Chapter='1' Verse='2' WordSequence='6' >וַיֹּ֨אמֶר</Word>
 <Word Book='Hoshea' Chapter='1' Verse='2' WordSequence='7' >יְהוָ֜ה</Word>
 <Word Book='Hoshea' Chapter='1' Verse='2' WordSequence='8' >אֶל־</Word>
@@ -135,8 +135,8 @@
 <Word Book='Hoshea' Chapter='1' Verse='9' WordSequence='10' >וְאָנֹכִ֖י</Word>
 <Word Book='Hoshea' Chapter='1' Verse='9' WordSequence='11' >לֹֽא־</Word>
 <Word Book='Hoshea' Chapter='1' Verse='9' WordSequence='12' >אֶהְיֶ֥ה</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='1' Verse='9' WordSequence='13' IsParashaPtuchah='true' >לָכֶֽם</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וְֽ֠הָיָה</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='1' Verse='9' WordSequence='13' >לָכֶֽם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְֽ֠הָיָה</Word>
 <Word Book='Hoshea' Chapter='2' Verse='1' WordSequence='2' >מִסְפַּ֤ר</Word>
 <Word Book='Hoshea' Chapter='2' Verse='1' WordSequence='3' >בְּנֵֽי־</Word>
 <Word Book='Hoshea' Chapter='2' Verse='1' WordSequence='4' >יִשְׂרָאֵל֙</Word>
@@ -349,8 +349,8 @@
 <Word Book='Hoshea' Chapter='2' Verse='15' WordSequence='15' >וְאֹתִ֥י</Word>
 <Word Book='Hoshea' Chapter='2' Verse='15' WordSequence='16' >שָׁכְחָ֖ה</Word>
 <Word Book='Hoshea' Chapter='2' Verse='15' WordSequence='17' >נְאֻם־</Word>
-<Word Book='Hoshea' Chapter='2' Verse='15' WordSequence='18' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Hoshea' Chapter='2' Verse='16' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='2' Verse='15' WordSequence='18'>יְהוָֽה</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='2' Verse='16' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Hoshea' Chapter='2' Verse='16' WordSequence='2' >הִנֵּ֤ה</Word>
 <Word Book='Hoshea' Chapter='2' Verse='16' WordSequence='3' >אָֽנֹכִי֙</Word>
 <Word Book='Hoshea' Chapter='2' Verse='16' WordSequence='4' >מְפַתֶּ֔יהָ</Word>
@@ -376,8 +376,8 @@
 <Word Book='Hoshea' Chapter='2' Verse='17' WordSequence='15' >וִּכְי֖וֹם</Word>
 <Word Book='Hoshea' Chapter='2' Verse='17' WordSequence='16' >עֲלֹתָ֥הּ</Word>
 <Word Book='Hoshea' Chapter='2' Verse='17' WordSequence='17' >מֵאֶֽרֶץ־</Word>
-<Word Book='Hoshea' Chapter='2' Verse='17' WordSequence='18' >מִצְרָֽיִם</Word>
-<Word Book='Hoshea' Chapter='2' Verse='18' WordSequence='1' >וְהָיָ֤ה</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='2' Verse='17' WordSequence='18' >מִצְרָֽיִם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='2' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֤ה</Word>
 <Word Book='Hoshea' Chapter='2' Verse='18' WordSequence='2' >בַיּוֹם־</Word>
 <Word Book='Hoshea' Chapter='2' Verse='18' WordSequence='3' >הַהוּא֙</Word>
 <Word Book='Hoshea' Chapter='2' Verse='18' WordSequence='4' >נְאֻם־</Word>
@@ -433,8 +433,8 @@
 <Word Book='Hoshea' Chapter='2' Verse='22' WordSequence='3' >בֶּאֱמוּנָ֑ה</Word>
 <Word Book='Hoshea' Chapter='2' Verse='22' WordSequence='4' >וְיָדַ֖עַתְּ</Word>
 <Word Book='Hoshea' Chapter='2' Verse='22' WordSequence='5' >אֶת־</Word>
-<Word Book='Hoshea' Chapter='2' Verse='22' WordSequence='6' >יְהוָֽה</Word>
-<Word Book='Hoshea' Chapter='2' Verse='23' WordSequence='1' >וְהָיָ֣ה׀</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='2' Verse='22' WordSequence='6' >יְהוָֽה</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='2' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֣ה׀</Word>
 <Word Book='Hoshea' Chapter='2' Verse='23' WordSequence='2' >בַּיּ֣וֹם</Word>
 <Word Book='Hoshea' Chapter='2' Verse='23' WordSequence='3' >הַה֗וּא</Word>
 <Word Book='Hoshea' Chapter='2' Verse='23' WordSequence='4' >אֶֽעֱנֶה֙</Word>
@@ -473,8 +473,8 @@
 <Word Book='Hoshea' Chapter='2' Verse='25' WordSequence='12' >אַ֔תָּה</Word>
 <Word Book='Hoshea' Chapter='2' Verse='25' WordSequence='13' >וְה֖וּא</Word>
 <Word Book='Hoshea' Chapter='2' Verse='25' WordSequence='14' >יֹאמַ֥ר</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='2' Verse='25' WordSequence='15' IsParashaPtuchah='true' >אֱלֹהָֽי</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיֹּ֨אמֶר</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='2' Verse='25' WordSequence='15'>אֱלֹהָֽי</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֨אמֶר</Word>
 <Word Book='Hoshea' Chapter='3' Verse='1' WordSequence='2' >יְהוָ֜ה</Word>
 <Word Book='Hoshea' Chapter='3' Verse='1' WordSequence='3' >אֵלַ֗י</Word>
 <Word Book='Hoshea' Chapter='3' Verse='1' WordSequence='4' >ע֚וֹד</Word>
@@ -554,8 +554,8 @@
 <Word Book='Hoshea' Chapter='3' Verse='5' WordSequence='15' >וְאֶל־</Word>
 <Word Book='Hoshea' Chapter='3' Verse='5' WordSequence='16' >טוּב֖וֹ</Word>
 <Word Book='Hoshea' Chapter='3' Verse='5' WordSequence='17' >בְּאַחֲרִ֥ית</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='3' Verse='5' WordSequence='18' IsParashaPtuchah='true' >הַיָּמִֽים</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>שִׁמְע֥וּ</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='3' Verse='5' WordSequence='18'>הַיָּמִֽים</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שִׁמְע֥וּ</Word>
 <Word Book='Hoshea' Chapter='4' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Hoshea' Chapter='4' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Hoshea' Chapter='4' Verse='1' WordSequence='4' >בְּנֵ֣י</Word>
@@ -777,8 +777,8 @@
 <Word Book='Hoshea' Chapter='4' Verse='19' WordSequence='3' >אוֹתָ֖הּ</Word>
 <Word Book='Hoshea' Chapter='4' Verse='19' WordSequence='4' >בִּכְנָפֶ֑יהָ</Word>
 <Word Book='Hoshea' Chapter='4' Verse='19' WordSequence='5' >וְיֵבֹ֖שׁוּ</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='4' Verse='19' WordSequence='6' IsParashaPtuchah='true' >מִזִּבְחוֹתָֽם</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>שִׁמְעוּ־</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='4' Verse='19' WordSequence='6' >מִזִּבְחוֹתָֽם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שִׁמְעוּ־</Word>
 <Word Book='Hoshea' Chapter='5' Verse='1' WordSequence='2' >זֹ֨את</Word>
 <Word Book='Hoshea' Chapter='5' Verse='1' WordSequence='3' >הַכֹּהֲנִ֜ים</Word>
 <Word Book='Hoshea' Chapter='5' Verse='1' WordSequence='4' >וְהַקְשִׁ֣יבוּ׀</Word>
@@ -863,8 +863,8 @@
 <Word Book='Hoshea' Chapter='5' Verse='7' WordSequence='8' >יֹאכְלֵ֥ם</Word>
 <Word Book='Hoshea' Chapter='5' Verse='7' WordSequence='9' >חֹ֖דֶשׁ</Word>
 <Word Book='Hoshea' Chapter='5' Verse='7' WordSequence='10' >אֶת־</Word>
-<Word Book='Hoshea' Chapter='5' Verse='7' WordSequence='11' >חֶלְקֵיהֶֽם</Word>
-<Word Book='Hoshea' Chapter='5' Verse='8' WordSequence='1' >תִּקְע֤וּ</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='5' Verse='7' WordSequence='11' >חֶלְקֵיהֶֽם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='5' Verse='8' WordSequence='1' IsParashaPtuchah='true' >תִּקְע֤וּ</Word>
 <Word Book='Hoshea' Chapter='5' Verse='8' WordSequence='2' >שׁוֹפָר֙</Word>
 <Word Book='Hoshea' Chapter='5' Verse='8' WordSequence='3' >בַּגִּבְעָ֔ה</Word>
 <Word Book='Hoshea' Chapter='5' Verse='8' WordSequence='4' >חֲצֹצְרָ֖ה</Word>
@@ -956,8 +956,8 @@
 <Word Book='Hoshea' Chapter='5' Verse='15' WordSequence='9' >פָנָ֑י</Word>
 <Word Book='Hoshea' Chapter='5' Verse='15' WordSequence='10' >בַּצַּ֥ר</Word>
 <Word Book='Hoshea' Chapter='5' Verse='15' WordSequence='11' >לָהֶ֖ם</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='5' Verse='15' WordSequence='12' >יְשַׁחֲרֻֽנְנִי</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>לְכוּ֙</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='5' Verse='15' WordSequence='12'>יְשַׁחֲרֻֽנְנִי</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>לְכוּ֙</Word>
 <Word Book='Hoshea' Chapter='6' Verse='1' WordSequence='2' >וְנָשׁ֣וּבָה</Word>
 <Word Book='Hoshea' Chapter='6' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Hoshea' Chapter='6' Verse='1' WordSequence='4' >יְהוָ֔ה</Word>
@@ -1061,8 +1061,8 @@
 <Word Book='Hoshea' Chapter='6' Verse='11' WordSequence='5' >לָ֑ךְ</Word>
 <Word Book='Hoshea' Chapter='6' Verse='11' WordSequence='6' >בְּשׁוּבִ֖י</Word>
 <Word Book='Hoshea' Chapter='6' Verse='11' WordSequence='7' >שְׁב֥וּת</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='6' Verse='11' WordSequence='8' IsParashaPtuchah='true' >עַמִּֽי</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>כְּרָפְאִ֣י</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='6' Verse='11' WordSequence='8'>עַמִּֽי</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כְּרָפְאִ֣י</Word>
 <Word Book='Hoshea' Chapter='7' Verse='1' WordSequence='2' >לְיִשְׂרָאֵ֗ל</Word>
 <Word Book='Hoshea' Chapter='7' Verse='1' WordSequence='3' >וְנִגְלָ֞ה</Word>
 <Word Book='Hoshea' Chapter='7' Verse='1' WordSequence='4' >עֲוֺ֤ן</Word>
@@ -1198,8 +1198,8 @@
 <Word Book='Hoshea' Chapter='7' Verse='12' WordSequence='8' >אֽוֹרִידֵ֑ם</Word>
 <Word Book='Hoshea' Chapter='7' Verse='12' WordSequence='9' >אַיְסִרֵ֕ם</Word>
 <Word Book='Hoshea' Chapter='7' Verse='12' WordSequence='10' >כְּשֵׁ֖מַע</Word>
-<Word Book='Hoshea' Chapter='7' Verse='12' WordSequence='11' >לַעֲדָתָֽם</Word>
-<Word Book='Hoshea' Chapter='7' Verse='13' WordSequence='1' >א֤וֹי</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='7' Verse='12' WordSequence='11' >לַעֲדָתָֽם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='7' Verse='13' WordSequence='1' IsParashaPtuchah='true' >א֤וֹי</Word>
 <Word Book='Hoshea' Chapter='7' Verse='13' WordSequence='2' >לָהֶם֙</Word>
 <Word Book='Hoshea' Chapter='7' Verse='13' WordSequence='3' >כִּֽי־</Word>
 <Word Book='Hoshea' Chapter='7' Verse='13' WordSequence='4' >נָדְד֣וּ</Word>
@@ -1250,8 +1250,8 @@
 <Word Book='Hoshea' Chapter='7' Verse='16' WordSequence='12' >ז֥וֹ</Word>
 <Word Book='Hoshea' Chapter='7' Verse='16' WordSequence='13' >לַעְגָּ֖ם</Word>
 <Word Book='Hoshea' Chapter='7' Verse='16' WordSequence='14' >בְּאֶ֥רֶץ</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='7' Verse='16' WordSequence='15' >מִצְרָֽיִם</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>אֶל־</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='7' Verse='16' WordSequence='15'>מִצְרָֽיִם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>אֶל־</Word>
 <Word Book='Hoshea' Chapter='8' Verse='1' WordSequence='2' >חִכְּךָ֣</Word>
 <Word Book='Hoshea' Chapter='8' Verse='1' WordSequence='3' >שֹׁפָ֔ר</Word>
 <Word Book='Hoshea' Chapter='8' Verse='1' WordSequence='4' >כַּנֶּ֖שֶׁר</Word>
@@ -1407,8 +1407,8 @@
 <Word Book='Hoshea' Chapter='8' Verse='14' WordSequence='12' >אֵ֣שׁ</Word>
 <Word Book='Hoshea' Chapter='8' Verse='14' WordSequence='13' >בְּעָרָ֔יו</Word>
 <Word Book='Hoshea' Chapter='8' Verse='14' WordSequence='14' >וְאָכְלָ֖ה</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='8' Verse='14' WordSequence='15' IsParashaPtuchah='true' >אַרְמְנֹתֶֽיהָ</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>אַל־</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='8' Verse='14' WordSequence='15' >אַרְמְנֹתֶֽיהָ</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >אַל־</Word>
 <Word Book='Hoshea' Chapter='9' Verse='1' WordSequence='2' >תִּשְׂמַ֨ח</Word>
 <Word Book='Hoshea' Chapter='9' Verse='1' WordSequence='3' >יִשְׂרָאֵ֤ל׀</Word>
 <Word Book='Hoshea' Chapter='9' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -1521,8 +1521,8 @@
 <Word Book='Hoshea' Chapter='9' Verse='9' WordSequence='5' >יִזְכּ֣וֹר</Word>
 <Word Book='Hoshea' Chapter='9' Verse='9' WordSequence='6' >עֲוֺנָ֔ם</Word>
 <Word Book='Hoshea' Chapter='9' Verse='9' WordSequence='7' >יִפְק֖וֹד</Word>
-<Word Book='Hoshea' Chapter='9' Verse='9' WordSequence='8' >חַטֹּאותָֽם</Word>
-<Word Book='Hoshea' Chapter='9' Verse='10' WordSequence='1' >כַּעֲנָבִ֣ים</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='9' Verse='9' WordSequence='8' >חַטֹּאותָֽם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='9' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כַּעֲנָבִ֣ים</Word>
 <Word Book='Hoshea' Chapter='9' Verse='10' WordSequence='2' >בַּמִּדְבָּ֗ר</Word>
 <Word Book='Hoshea' Chapter='9' Verse='10' WordSequence='3' >מָצָ֙אתִי֙</Word>
 <Word Book='Hoshea' Chapter='9' Verse='10' WordSequence='4' >יִשְׂרָאֵ֔ל</Word>
@@ -1613,8 +1613,8 @@
 <Word Book='Hoshea' Chapter='9' Verse='16' WordSequence='12' >יֵֽלֵד֔וּן</Word>
 <Word Book='Hoshea' Chapter='9' Verse='16' WordSequence='13' >וְהֵמַתִּ֖י</Word>
 <Word Book='Hoshea' Chapter='9' Verse='16' WordSequence='14' >מַחֲמַדֵּ֥י</Word>
-<Word Book='Hoshea' Chapter='9' Verse='16' WordSequence='15' >בִטְנָֽם</Word>
-<Word Book='Hoshea' Chapter='9' Verse='17' WordSequence='1' >יִמְאָסֵ֣ם</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='9' Verse='16' WordSequence='15' >בִטְנָֽם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='9' Verse='17' WordSequence='1' IsParashaPtuchah='true' >יִמְאָסֵ֣ם</Word>
 <Word Book='Hoshea' Chapter='9' Verse='17' WordSequence='2' >אֱלֹהַ֔י</Word>
 <Word Book='Hoshea' Chapter='9' Verse='17' WordSequence='3' >כִּ֛י</Word>
 <Word Book='Hoshea' Chapter='9' Verse='17' WordSequence='4' >לֹ֥א</Word>
@@ -1622,8 +1622,8 @@
 <Word Book='Hoshea' Chapter='9' Verse='17' WordSequence='6' >ל֑וֹ</Word>
 <Word Book='Hoshea' Chapter='9' Verse='17' WordSequence='7' >וְיִהְי֥וּ</Word>
 <Word Book='Hoshea' Chapter='9' Verse='17' WordSequence='8' >נֹדְדִ֖ים</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='9' Verse='17' WordSequence='9' IsParashaPtuchah='true' >בַּגּוֹיִֽם</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>גֶּ֤פֶן</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='9' Verse='17' WordSequence='9' >בַּגּוֹיִֽם</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >גֶּ֤פֶן</Word>
 <Word Book='Hoshea' Chapter='10' Verse='1' WordSequence='2' >בּוֹקֵק֙</Word>
 <Word Book='Hoshea' Chapter='10' Verse='1' WordSequence='3' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Hoshea' Chapter='10' Verse='1' WordSequence='4' >פְּרִ֖י</Word>
@@ -1726,8 +1726,8 @@
 <Word Book='Hoshea' Chapter='10' Verse='8' WordSequence='13' >כַּסּ֔וּנוּ</Word>
 <Word Book='Hoshea' Chapter='10' Verse='8' WordSequence='14' >וְלַגְּבָע֖וֹת</Word>
 <Word Book='Hoshea' Chapter='10' Verse='8' WordSequence='15' >נִפְל֥וּ</Word>
-<Word Book='Hoshea' Chapter='10' Verse='8' WordSequence='16' >עָלֵֽינוּ</Word>
-<Word Book='Hoshea' Chapter='10' Verse='9' WordSequence='1' >מִימֵי֙</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='10' Verse='8' WordSequence='16' >עָלֵֽינוּ</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='10' Verse='9' WordSequence='1' IsParashaPtuchah='true' >מִימֵי֙</Word>
 <Word Book='Hoshea' Chapter='10' Verse='9' WordSequence='2' >הַגִּבְעָ֔ה</Word>
 <Word Book='Hoshea' Chapter='10' Verse='9' WordSequence='3' >חָטָ֖אתָ</Word>
 <Word Book='Hoshea' Chapter='10' Verse='9' WordSequence='4' >יִשְׂרָאֵ֑ל</Word>
@@ -1824,8 +1824,8 @@
 <Word Book='Hoshea' Chapter='10' Verse='15' WordSequence='10' >נִדְמֹ֥ה</Word>
 <Word Book='Hoshea' Chapter='10' Verse='15' WordSequence='11' >נִדְמָ֖ה</Word>
 <Word Book='Hoshea' Chapter='10' Verse='15' WordSequence='12' >מֶ֥לֶךְ</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='10' Verse='15' WordSequence='13' >יִשְׂרָאֵֽל</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>כִּ֛י</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='10' Verse='15' WordSequence='13'>יִשְׂרָאֵֽל</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>כִּ֛י</Word>
 <Word Book='Hoshea' Chapter='11' Verse='1' WordSequence='2' >נַ֥עַר</Word>
 <Word Book='Hoshea' Chapter='11' Verse='1' WordSequence='3' >יִשְׂרָאֵ֖ל</Word>
 <Word Book='Hoshea' Chapter='11' Verse='1' WordSequence='4' >וָאֹהֲבֵ֑הוּ</Word>
@@ -1947,8 +1947,8 @@
 <Word Book='Hoshea' Chapter='11' Verse='11' WordSequence='8' >עַל־</Word>
 <Word Book='Hoshea' Chapter='11' Verse='11' WordSequence='9' >בָּתֵּיהֶ֖ם</Word>
 <Word Book='Hoshea' Chapter='11' Verse='11' WordSequence='10' >נְאֻם־</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='11' Verse='11' WordSequence='11' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>סְבָבֻ֤נִי</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='11' Verse='11' WordSequence='11' >יְהוָֽה</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >סְבָבֻ֤נִי</Word>
 <Word Book='Hoshea' Chapter='12' Verse='1' WordSequence='2' >בְכַ֙חַשׁ֙</Word>
 <Word Book='Hoshea' Chapter='12' Verse='1' WordSequence='3' >אֶפְרַ֔יִם</Word>
 <Word Book='Hoshea' Chapter='12' Verse='1' WordSequence='4' >וּבְמִרְמָ֖ה</Word>
@@ -2107,8 +2107,8 @@
 <Word Book='Hoshea' Chapter='12' Verse='15' WordSequence='7' >וְחֶ֨רְפָּת֔וֹ</Word>
 <Word Book='Hoshea' Chapter='12' Verse='15' WordSequence='8' >יָשִׁ֥יב</Word>
 <Word Book='Hoshea' Chapter='12' Verse='15' WordSequence='9' >ל֖וֹ</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='12' Verse='15' WordSequence='10' >אֲדֹנָֽיו</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>כְּדַבֵּ֤ר</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='12' Verse='15' WordSequence='10'>אֲדֹנָֽיו</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>כְּדַבֵּ֤ר</Word>
 <Word Book='Hoshea' Chapter='13' Verse='1' WordSequence='2' >אֶפְרַ֙יִם֙</Word>
 <Word Book='Hoshea' Chapter='13' Verse='1' WordSequence='3' >רְתֵ֔ת</Word>
 <Word Book='Hoshea' Chapter='13' Verse='1' WordSequence='4' >נָשָׂ֥א</Word>
@@ -2216,8 +2216,8 @@
 <Word Book='Hoshea' Chapter='13' Verse='11' WordSequence='3' >מֶ֙לֶךְ֙</Word>
 <Word Book='Hoshea' Chapter='13' Verse='11' WordSequence='4' >בְּאַפִּ֔י</Word>
 <Word Book='Hoshea' Chapter='13' Verse='11' WordSequence='5' >וְאֶקַּ֖ח</Word>
-<Word Book='Hoshea' Chapter='13' Verse='11' WordSequence='6' >בְּעֶבְרָתִֽי</Word>
-<Word Book='Hoshea' Chapter='13' Verse='12' WordSequence='1' >צָרוּר֙</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='13' Verse='11' WordSequence='6' >בְּעֶבְרָתִֽי</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='13' Verse='12' WordSequence='1' IsParashaPtuchah='true' >צָרוּר֙</Word>
 <Word Book='Hoshea' Chapter='13' Verse='12' WordSequence='2' >עֲוֺ֣ן</Word>
 <Word Book='Hoshea' Chapter='13' Verse='12' WordSequence='3' >אֶפְרָ֔יִם</Word>
 <Word Book='Hoshea' Chapter='13' Verse='12' WordSequence='4' >צְפוּנָ֖ה</Word>
@@ -2270,8 +2270,8 @@
 <Word Book='Hoshea' Chapter='13' Verse='15' WordSequence='18' >אוֹצַ֖ר</Word>
 <Word Book='Hoshea' Chapter='13' Verse='15' WordSequence='19' >כָּל־</Word>
 <Word Book='Hoshea' Chapter='13' Verse='15' WordSequence='20' >כְּלִ֥י</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='13' Verse='15' WordSequence='21' >חֶמְדָּֽה</Word>
-<Word Book='Hoshea' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>תֶּאְשַׁם֙</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='13' Verse='15' WordSequence='21'>חֶמְדָּֽה</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>תֶּאְשַׁם֙</Word>
 <Word Book='Hoshea' Chapter='14' Verse='1' WordSequence='2' >שֹֽׁמְר֔וֹן</Word>
 <Word Book='Hoshea' Chapter='14' Verse='1' WordSequence='3' >כִּ֥י</Word>
 <Word Book='Hoshea' Chapter='14' Verse='1' WordSequence='4' >מָרְתָ֖ה</Word>
@@ -2281,8 +2281,8 @@
 <Word Book='Hoshea' Chapter='14' Verse='1' WordSequence='8' >עֹלְלֵיהֶ֣ם</Word>
 <Word Book='Hoshea' Chapter='14' Verse='1' WordSequence='9' >יְרֻטָּ֔שׁוּ</Word>
 <Word Book='Hoshea' Chapter='14' Verse='1' WordSequence='10' >וְהָרִיּוֹתָ֖יו</Word>
-<Word Book='Hoshea' Chapter='14' Verse='1' WordSequence='11' IsParashaPtuchah='true' >יְבֻקָּֽעוּ</Word>
-<Word Book='Hoshea' Chapter='14' Verse='2' WordSequence='1' >שׁ֚וּבָה</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='14' Verse='1' WordSequence='11'>יְבֻקָּֽעוּ</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='14' Verse='2' WordSequence='1' IsParashaPtuchah='true' >שׁ֚וּבָה</Word>
 <Word Book='Hoshea' Chapter='14' Verse='2' WordSequence='2' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Hoshea' Chapter='14' Verse='2' WordSequence='3' >עַ֖ד</Word>
 <Word Book='Hoshea' Chapter='14' Verse='2' WordSequence='4' >יְהוָ֣ה</Word>
@@ -2356,8 +2356,8 @@
 <Word Book='Hoshea' Chapter='14' Verse='8' WordSequence='7' >כַגָּ֑פֶן</Word>
 <Word Book='Hoshea' Chapter='14' Verse='8' WordSequence='8' >זִכְר֖וֹ</Word>
 <Word Book='Hoshea' Chapter='14' Verse='8' WordSequence='9' >כְּיֵ֥ין</Word>
-<Word Book='Hoshea' Chapter='14' Verse='8' WordSequence='10' >לְבָנֽוֹן</Word>
-<Word Book='Hoshea' Chapter='14' Verse='9' WordSequence='1' >אֶפְרַ֕יִם</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='14' Verse='8' WordSequence='10' >לְבָנֽוֹן</Word>
+<Word Book='Hoshea' StartParashaBeforeWord='true' Chapter='14' Verse='9' WordSequence='1' IsParashaPtuchah='true' >אֶפְרַ֕יִם</Word>
 <Word Book='Hoshea' Chapter='14' Verse='9' WordSequence='2' >מַה־</Word>
 <Word Book='Hoshea' Chapter='14' Verse='9' WordSequence='3' >לִּ֥י</Word>
 <Word Book='Hoshea' Chapter='14' Verse='9' WordSequence='4' >ע֖וֹד</Word>
@@ -2386,5 +2386,5 @@
 <Word Book='Hoshea' Chapter='14' Verse='10' WordSequence='13' >בָ֔ם</Word>
 <Word Book='Hoshea' Chapter='14' Verse='10' WordSequence='14' >וּפֹשְׁעִ֖ים</Word>
 <Word Book='Hoshea' Chapter='14' Verse='10' WordSequence='15' >יִכָּ֥שְׁלוּ</Word>
-<Word Book='Hoshea' EndPerekAfterWord='true' Chapter='14' Verse='10' WordSequence='16' >בָֽם</Word>
+<Word Book='Hoshea' EndParashaAfterWord='true' Chapter='14' Verse='10' WordSequence='16'>בָֽם</Word>
 </Tanakh>

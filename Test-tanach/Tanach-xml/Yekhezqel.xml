@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֣י׀</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>וַיְהִ֣י׀</Word>
 <Word Book='Yekhezqel' Chapter='1' Verse='1' WordSequence='2' >בִּשְׁלֹשִׁ֣ים</Word>
 <Word Book='Yekhezqel' Chapter='1' Verse='1' WordSequence='3' >שָׁנָ֗ה</Word>
 <Word Book='Yekhezqel' Chapter='1' Verse='1' WordSequence='4' >בָּֽרְבִיעִי֙</Word>
@@ -381,8 +381,8 @@
 <Word Book='Yekhezqel' Chapter='1' Verse='28' WordSequence='20' >פָּנַ֔י</Word>
 <Word Book='Yekhezqel' Chapter='1' Verse='28' WordSequence='21' >וָאֶשְׁמַ֖ע</Word>
 <Word Book='Yekhezqel' Chapter='1' Verse='28' WordSequence='22' >ק֥וֹל</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='1' Verse='28' WordSequence='23' IsParashaPtuchah='true' >מְדַבֵּֽר</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>וַיֹּ֖אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='1' Verse='28' WordSequence='23' >מְדַבֵּֽר</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֖אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='1' WordSequence='2' >אֵלָ֑י</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='1' WordSequence='3' >בֶּן־</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='1' WordSequence='4' >אָדָם֙</Word>
@@ -403,8 +403,8 @@
 <Word Book='Yekhezqel' Chapter='2' Verse='2' WordSequence='10' >וָאֶשְׁמַ֕ע</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='2' WordSequence='11' >אֵ֖ת</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='2' WordSequence='12' >מִדַּבֵּ֥ר</Word>
-<Word Book='Yekhezqel' Chapter='2' Verse='2' WordSequence='13' IsParashaPtuchah='true' >אֵלָֽי</Word>
-<Word Book='Yekhezqel' Chapter='2' Verse='3' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='2' Verse='2' WordSequence='13'>אֵלָֽי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='2' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='3' WordSequence='2' >אֵלַ֗י</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='3' WordSequence='3' >בֶּן־</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='3' WordSequence='4' >אָדָם֙</Word>
@@ -456,8 +456,8 @@
 <Word Book='Yekhezqel' Chapter='2' Verse='5' WordSequence='11' >כִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='5' WordSequence='12' >נָבִ֖יא</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='5' WordSequence='13' >הָיָ֥ה</Word>
-<Word Book='Yekhezqel' Chapter='2' Verse='5' WordSequence='14' IsParashaPtuchah='true' >בְתוֹכָֽם</Word>
-<Word Book='Yekhezqel' Chapter='2' Verse='6' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='2' Verse='5' WordSequence='14'>בְתוֹכָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='2' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='6' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='6' WordSequence='3' >אָ֠דָם</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='6' WordSequence='4' >אַל־</Word>
@@ -494,8 +494,8 @@
 <Word Book='Yekhezqel' Chapter='2' Verse='7' WordSequence='8' >יֶחְדָּ֑לוּ</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='7' WordSequence='9' >כִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='7' WordSequence='10' >מְרִ֖י</Word>
-<Word Book='Yekhezqel' Chapter='2' Verse='7' WordSequence='11' IsParashaPtuchah='true' >הֵֽמָּה</Word>
-<Word Book='Yekhezqel' Chapter='2' Verse='8' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='2' Verse='7' WordSequence='11'>הֵֽמָּה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='2' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='8' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='8' WordSequence='3' >אָדָ֗ם</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='8' WordSequence='4' >שְׁמַע֙</Word>
@@ -537,8 +537,8 @@
 <Word Book='Yekhezqel' Chapter='2' Verse='10' WordSequence='9' >אֵלֶ֔יהָ</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='10' WordSequence='10' >קִנִ֥ים</Word>
 <Word Book='Yekhezqel' Chapter='2' Verse='10' WordSequence='11' >וָהֶ֖גֶה</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='2' Verse='10' WordSequence='12' IsParashaPtuchah='true' >וָהִֽי</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>וַיֹּ֣אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='2' Verse='10' WordSequence='12' >וָהִֽי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='1' WordSequence='2' >אֵלַ֔י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='1' WordSequence='3' >בֶּן־</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='1' WordSequence='4' >אָדָ֕ם</Word>
@@ -581,8 +581,8 @@
 <Word Book='Yekhezqel' Chapter='3' Verse='3' WordSequence='17' >וַתְּהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='3' WordSequence='18' >בְּפִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='3' WordSequence='19' >כִּדְבַ֥שׁ</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='3' WordSequence='20' IsParashaPtuchah='true' >לְמָתֽוֹק</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='4' WordSequence='1' >וַיֹּ֖אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='3' Verse='3' WordSequence='20'>לְמָתֽוֹק</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='3' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֖אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='4' WordSequence='2' >אֵלָ֑י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='4' WordSequence='3' >בֶּן־</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='4' WordSequence='4' >אָדָ֗ם</Word>
@@ -672,8 +672,8 @@
 <Word Book='Yekhezqel' Chapter='3' Verse='9' WordSequence='12' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='9' WordSequence='13' >בֵּֽית־</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='9' WordSequence='14' >מְרִ֖י</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='9' WordSequence='15' IsParashaPtuchah='true' >הֵֽמָּה</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='10' WordSequence='1' >וַיֹּ֖אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='3' Verse='9' WordSequence='15'>הֵֽמָּה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='3' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֖אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='10' WordSequence='2' >אֵלָ֑י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='10' WordSequence='3' >בֶּן־</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='10' WordSequence='4' >אָדָ֕ם</Word>
@@ -764,7 +764,7 @@
 <Word Book='Yekhezqel' Chapter='3' Verse='16' WordSequence='1' >וַיְהִ֕י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='16' WordSequence='2' >מִקְצֵ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='16' WordSequence='3' >שִׁבְעַ֣ת</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='16' WordSequence='4' IsParashaPtuchah='true' >יָמִ֑ים</Word>
+<Word Book='Yekhezqel' Chapter='3' Verse='16' WordSequence='4' >יָמִ֑ים</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='16' WordSequence='6' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='16' WordSequence='7' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='16' WordSequence='8' >יְהוָ֖ה</Word>
@@ -817,8 +817,8 @@
 <Word Book='Yekhezqel' Chapter='3' Verse='19' WordSequence='13' >וְאַתָּ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='19' WordSequence='14' >אֶֽת־</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='19' WordSequence='15' >נַפְשְׁךָ֥</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='19' WordSequence='16' >הִצַּֽלְתָּ</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='20' WordSequence='1' >וּבְשׁ֨וּב</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='3' Verse='19' WordSequence='16' >הִצַּֽלְתָּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='3' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וּבְשׁ֨וּב</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='20' WordSequence='2' >צַדִּ֤יק</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='20' WordSequence='3' >מִצִּדְקוֹ֙</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='20' WordSequence='4' >וְעָ֣שָׂה</Word>
@@ -858,8 +858,8 @@
 <Word Book='Yekhezqel' Chapter='3' Verse='21' WordSequence='15' >וְאַתָּ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='21' WordSequence='16' >אֶֽת־</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='21' WordSequence='17' >נַפְשְׁךָ֥</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='21' WordSequence='18' >הִצַּֽלְתָּ</Word>
-<Word Book='Yekhezqel' Chapter='3' Verse='22' WordSequence='1' >וַתְּהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='3' Verse='21' WordSequence='18' >הִצַּֽלְתָּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='3' Verse='22' WordSequence='1' IsParashaPtuchah='true' >וַתְּהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='22' WordSequence='2' >עָלַ֛י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='22' WordSequence='3' >שָׁ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='22' WordSequence='4' >יַד־</Word>
@@ -949,8 +949,8 @@
 <Word Book='Yekhezqel' Chapter='3' Verse='27' WordSequence='16' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='27' WordSequence='17' >בֵּ֥ית</Word>
 <Word Book='Yekhezqel' Chapter='3' Verse='27' WordSequence='18' >מְרִ֖י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='3' Verse='27' WordSequence='19' IsParashaPtuchah='true' >הֵֽמָּה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>וְאַתָּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='3' Verse='27' WordSequence='19' >הֵֽמָּה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='1' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='1' WordSequence='3' >אָדָם֙</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='1' WordSequence='4' >קַח־</Word>
@@ -1003,8 +1003,8 @@
 <Word Book='Yekhezqel' Chapter='4' Verse='3' WordSequence='21' >א֥וֹת</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='3' WordSequence='22' >הִ֖יא</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='3' WordSequence='23' >לְבֵ֥ית</Word>
-<Word Book='Yekhezqel' Chapter='4' Verse='3' WordSequence='24' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='4' Verse='4' WordSequence='1' >וְאַתָּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='4' Verse='3' WordSequence='24' >יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='4' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='4' WordSequence='2' >שְׁכַב֙</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='4' WordSequence='3' >עַל־</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='4' WordSequence='4' >צִדְּךָ֣</Word>
@@ -1140,8 +1140,8 @@
 <Word Book='Yekhezqel' Chapter='4' Verse='12' WordSequence='6' >צֵאַ֣ת</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='12' WordSequence='7' >הָֽאָדָ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='12' WordSequence='8' >תְּעֻגֶ֖נָה</Word>
-<Word Book='Yekhezqel' Chapter='4' Verse='12' WordSequence='9' >לְעֵינֵיהֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='4' Verse='13' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='4' Verse='12' WordSequence='9' >לְעֵינֵיהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='4' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='13' WordSequence='2' >יְהוָ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='13' WordSequence='3' >כָּ֣כָה</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='13' WordSequence='4' >יֹאכְל֧וּ</Word>
@@ -1173,8 +1173,8 @@
 <Word Book='Yekhezqel' Chapter='4' Verse='14' WordSequence='17' >בָ֥א</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='14' WordSequence='18' >בְּפִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='14' WordSequence='19' >בְּשַׂ֥ר</Word>
-<Word Book='Yekhezqel' Chapter='4' Verse='14' WordSequence='20' >פִּגּֽוּל</Word>
-<Word Book='Yekhezqel' Chapter='4' Verse='15' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='4' Verse='14' WordSequence='20' >פִּגּֽוּל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='4' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='15' WordSequence='2' >אֵלַ֔י</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='15' WordSequence='3' >רְאֵ֗ה</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='15' WordSequence='4' >נָתַ֤תִּֽי</Word>
@@ -1189,8 +1189,8 @@
 <Word Book='Yekhezqel' Chapter='4' Verse='15' WordSequence='13' >וְעָשִׂ֥יתָ</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='15' WordSequence='14' >אֶֽת־</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='15' WordSequence='15' >לַחְמְךָ֖</Word>
-<Word Book='Yekhezqel' Chapter='4' Verse='15' WordSequence='16' >עֲלֵיהֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='4' Verse='16' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='4' Verse='15' WordSequence='16' >עֲלֵיהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='4' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='16' WordSequence='2' >אֵלַ֗י</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='16' WordSequence='3' >בֶּן־</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='16' WordSequence='4' >אָדָם֙</Word>
@@ -1215,8 +1215,8 @@
 <Word Book='Yekhezqel' Chapter='4' Verse='17' WordSequence='6' >אִ֣ישׁ</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='17' WordSequence='7' >וְאָחִ֔יו</Word>
 <Word Book='Yekhezqel' Chapter='4' Verse='17' WordSequence='8' >וְנָמַ֖קּוּ</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='4' Verse='17' WordSequence='9' IsParashaPtuchah='true' >בַּעֲוֺנָֽם</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>וְאַתָּ֨ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='4' Verse='17' WordSequence='9'>בַּעֲוֺנָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֨ה</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='1' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='1' WordSequence='3' >אָדָ֜ם</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='1' WordSequence='4' >קַח־</Word>
@@ -1281,8 +1281,8 @@
 <Word Book='Yekhezqel' Chapter='5' Verse='4' WordSequence='15' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='4' WordSequence='16' >כָּל־</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='4' WordSequence='17' >בֵּ֥ית</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='4' WordSequence='18' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='5' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='5' Verse='4' WordSequence='18'>יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='5' Verse='5' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='5' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='5' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='5' WordSequence='4' >יְהֹוִ֔ה</Word>
@@ -1311,8 +1311,8 @@
 <Word Book='Yekhezqel' Chapter='5' Verse='6' WordSequence='16' >וְחֻקּוֹתַ֖י</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='6' WordSequence='17' >לֹא־</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='6' WordSequence='18' >הָלְכ֥וּ</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='6' WordSequence='19' >בָהֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='7' WordSequence='1' >לָכֵ֞ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='5' Verse='6' WordSequence='19' >בָהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='5' Verse='7' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֞ן</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='7' WordSequence='2' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='7' WordSequence='3' >אָמַ֣ר׀</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='7' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -1335,8 +1335,8 @@
 <Word Book='Yekhezqel' Chapter='5' Verse='7' WordSequence='21' >אֲשֶׁ֥ר</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='7' WordSequence='22' >סְבִיבוֹתֵיכֶ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='7' WordSequence='23' >לֹ֥א</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='7' WordSequence='24' >עֲשִׂיתֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='8' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='5' Verse='7' WordSequence='24' >עֲשִׂיתֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='5' Verse='8' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='8' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='8' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='8' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -1364,8 +1364,8 @@
 <Word Book='Yekhezqel' Chapter='5' Verse='9' WordSequence='12' >ע֑וֹד</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='9' WordSequence='13' >יַ֖עַן</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='9' WordSequence='14' >כָּל־</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='9' WordSequence='15' >תּוֹעֲבֹתָֽיִךְ</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='10' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='5' Verse='9' WordSequence='15' >תּוֹעֲבֹתָֽיִךְ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='5' Verse='10' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='10' WordSequence='2' >אָב֞וֹת</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='10' WordSequence='3' >יֹאכְל֤וּ</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='10' WordSequence='4' >בָנִים֙</Word>
@@ -1381,8 +1381,8 @@
 <Word Book='Yekhezqel' Chapter='5' Verse='10' WordSequence='14' >כָּל־</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='10' WordSequence='15' >שְׁאֵרִיתֵ֖ךְ</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='10' WordSequence='16' >לְכָל־</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='10' WordSequence='17' IsParashaPtuchah='true' >רֽוּחַ</Word>
-<Word Book='Yekhezqel' Chapter='5' Verse='11' WordSequence='1' >לָכֵ֣ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='5' Verse='10' WordSequence='17'>רֽוּחַ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='5' Verse='11' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֣ן</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='11' WordSequence='2' >חַי־</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='11' WordSequence='3' >אָ֗נִי</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='11' WordSequence='4' >נְאֻם֮</Word>
@@ -1502,8 +1502,8 @@
 <Word Book='Yekhezqel' Chapter='5' Verse='17' WordSequence='13' >עָלַ֔יִךְ</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='17' WordSequence='14' >אֲנִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='5' Verse='17' WordSequence='15' >יְהוָ֖ה</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='5' Verse='17' WordSequence='16' IsParashaPtuchah='true' >דִּבַּֽרְתִּי</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='5' Verse='17' WordSequence='16'>דִּבַּֽרְתִּי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -1631,8 +1631,8 @@
 <Word Book='Yekhezqel' Chapter='6' Verse='10' WordSequence='9' >לַעֲשׂ֥וֹת</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='10' WordSequence='10' >לָהֶ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='10' WordSequence='11' >הָרָעָ֥ה</Word>
-<Word Book='Yekhezqel' Chapter='6' Verse='10' WordSequence='12' IsParashaPtuchah='true' >הַזֹּֽאת</Word>
-<Word Book='Yekhezqel' Chapter='6' Verse='11' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='6' Verse='10' WordSequence='12'>הַזֹּֽאת</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='6' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='11' WordSequence='2' >אָמַ֞ר</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='11' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='11' WordSequence='4' >יְהוִ֗ה</Word>
@@ -1715,8 +1715,8 @@
 <Word Book='Yekhezqel' Chapter='6' Verse='14' WordSequence='14' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='14' WordSequence='15' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='6' Verse='14' WordSequence='16' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='6' Verse='14' WordSequence='17' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='6' Verse='14' WordSequence='17'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -1767,8 +1767,8 @@
 <Word Book='Yekhezqel' Chapter='7' Verse='4' WordSequence='14' >וִידַעְתֶּ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='4' WordSequence='15' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='4' WordSequence='16' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='7' Verse='4' WordSequence='17' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='7' Verse='5' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='7' Verse='4' WordSequence='17'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='7' Verse='5' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='5' WordSequence='2' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='5' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='5' WordSequence='4' >יְהוִ֑ה</Word>
@@ -2000,8 +2000,8 @@
 <Word Book='Yekhezqel' Chapter='7' Verse='22' WordSequence='7' >וּבָאוּ־</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='22' WordSequence='8' >בָ֥הּ</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='22' WordSequence='9' >פָּרִיצִ֖ים</Word>
-<Word Book='Yekhezqel' Chapter='7' Verse='22' WordSequence='10' IsParashaPtuchah='true' >וְחִלְּלֽוּהָ</Word>
-<Word Book='Yekhezqel' Chapter='7' Verse='23' WordSequence='1' >עֲשֵׂ֖ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='7' Verse='22' WordSequence='10'>וְחִלְּלֽוּהָ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='7' Verse='23' WordSequence='1' IsParashaPtuchah='true' >עֲשֵׂ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='23' WordSequence='2' >הָֽרַתּ֑וֹק</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='23' WordSequence='3' >כִּ֣י</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='23' WordSequence='4' >הָאָ֗רֶץ</Word>
@@ -2060,8 +2060,8 @@
 <Word Book='Yekhezqel' Chapter='7' Verse='27' WordSequence='15' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='27' WordSequence='16' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='7' Verse='27' WordSequence='17' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='7' Verse='27' WordSequence='18' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>וַיְהִ֣י׀</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='7' Verse='27' WordSequence='18'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י׀</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='1' WordSequence='2' >בַּשָּׁנָ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='1' WordSequence='3' >הַשִּׁשִּׁ֗ית</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='1' WordSequence='4' >בַּשִּׁשִּׁי֙</Word>
@@ -2179,8 +2179,8 @@
 <Word Book='Yekhezqel' Chapter='8' Verse='6' WordSequence='22' >תָּשׁ֣וּב</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='6' WordSequence='23' >תִּרְאֶ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='6' WordSequence='24' >תּוֹעֵב֖וֹת</Word>
-<Word Book='Yekhezqel' Chapter='8' Verse='6' WordSequence='25' >גְּדֹלֽוֹת</Word>
-<Word Book='Yekhezqel' Chapter='8' Verse='7' WordSequence='1' >וַיָּבֵ֥א</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='8' Verse='6' WordSequence='25' >גְּדֹלֽוֹת</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='8' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וַיָּבֵ֥א</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='7' WordSequence='2' >אֹתִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='7' WordSequence='3' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='7' WordSequence='4' >פֶּ֣תַח</Word>
@@ -2299,8 +2299,8 @@
 <Word Book='Yekhezqel' Chapter='8' Verse='14' WordSequence='14' >יֹֽשְׁב֔וֹת</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='14' WordSequence='15' >מְבַכּ֖וֹת</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='14' WordSequence='16' >אֶת־</Word>
-<Word Book='Yekhezqel' Chapter='8' Verse='14' WordSequence='17' >הַתַּמּֽוּז</Word>
-<Word Book='Yekhezqel' Chapter='8' Verse='15' WordSequence='1' >וַיֹּ֥אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='8' Verse='14' WordSequence='17' >הַתַּמּֽוּז</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='8' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֥אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='15' WordSequence='2' >אֵלַ֖י</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='15' WordSequence='3' >הֲרָאִ֣יתָ</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='15' WordSequence='4' >בֶן־</Word>
@@ -2381,8 +2381,8 @@
 <Word Book='Yekhezqel' Chapter='8' Verse='18' WordSequence='13' >גָּד֔וֹל</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='18' WordSequence='14' >וְלֹ֥א</Word>
 <Word Book='Yekhezqel' Chapter='8' Verse='18' WordSequence='15' >אֶשְׁמַ֖ע</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='8' Verse='18' WordSequence='16' >אוֹתָֽם</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיִּקְרָ֣א</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='8' Verse='18' WordSequence='16'>אוֹתָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>וַיִּקְרָ֣א</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='1' WordSequence='2' >בְאָזְנַ֗י</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='1' WordSequence='3' >ק֤וֹל</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='1' WordSequence='4' >גָּדוֹל֙</Word>
@@ -2441,8 +2441,8 @@
 <Word Book='Yekhezqel' Chapter='9' Verse='3' WordSequence='18' >אֲשֶׁ֛ר</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='3' WordSequence='19' >קֶ֥סֶת</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='3' WordSequence='20' >הַסֹּפֵ֖ר</Word>
-<Word Book='Yekhezqel' Chapter='9' Verse='3' WordSequence='21' >בְּמָתְנָֽיו</Word>
-<Word Book='Yekhezqel' Chapter='9' Verse='4' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='9' Verse='3' WordSequence='21' >בְּמָתְנָֽיו</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='9' Verse='4' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='4' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='4' WordSequence='3' >אלו</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='4' WordSequence='4' >[אֵלָ֔יו]</Word>
@@ -2585,8 +2585,8 @@
 <Word Book='Yekhezqel' Chapter='9' Verse='11' WordSequence='12' >כאשר</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='11' WordSequence='13' >[כְּכֹ֖ל]</Word>
 <Word Book='Yekhezqel' Chapter='9' Verse='11' WordSequence='14' >[אֲשֶׁ֥ר]</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='9' Verse='11' WordSequence='15' IsParashaPtuchah='true' >צִוִּיתָֽנִי</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='10' Verse='1' WordSequence='1'>וָאֶרְאֶ֗ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='9' Verse='11' WordSequence='15' >צִוִּיתָֽנִי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='10' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וָאֶרְאֶ֗ה</Word>
 <Word Book='Yekhezqel' Chapter='10' Verse='1' WordSequence='2' >וְהִנֵּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='10' Verse='1' WordSequence='3' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='10' Verse='1' WordSequence='4' >הָרָקִ֙יעַ֙</Word>
@@ -2895,8 +2895,8 @@
 <Word Book='Yekhezqel' Chapter='10' Verse='22' WordSequence='13' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='10' Verse='22' WordSequence='14' >עֵ֥בֶר</Word>
 <Word Book='Yekhezqel' Chapter='10' Verse='22' WordSequence='15' >פָּנָ֖יו</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='10' Verse='22' WordSequence='16' >יֵלֵֽכוּ</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַתִּשָּׂ֨א</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='10' Verse='22' WordSequence='16'>יֵלֵֽכוּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='11' Verse='1' WordSequence='1'>וַתִּשָּׂ֨א</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='1' WordSequence='2' >אֹתִ֜י</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='1' WordSequence='3' >ר֗וּחַ</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='1' WordSequence='4' >וַתָּבֵ֣א</Word>
@@ -2925,8 +2925,8 @@
 <Word Book='Yekhezqel' Chapter='11' Verse='1' WordSequence='27' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='1' WordSequence='28' >בְּנָיָ֖הוּ</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='1' WordSequence='29' >שָׂרֵ֖י</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='1' WordSequence='30' IsParashaPtuchah='true' >הָעָֽם</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='2' WordSequence='1' >וַיֹּ֖אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='11' Verse='1' WordSequence='30'>הָעָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='11' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֖אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='2' WordSequence='2' >אֵלָ֑י</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='2' WordSequence='3' >בֶּן־</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='2' WordSequence='4' >אָדָ֕ם</Word>
@@ -2978,8 +2978,8 @@
 <Word Book='Yekhezqel' Chapter='11' Verse='6' WordSequence='4' >הַזֹּ֑את</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='6' WordSequence='5' >וּמִלֵּאתֶ֥ם</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='6' WordSequence='6' >חוּצֹתֶ֖יהָ</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='6' WordSequence='7' IsParashaPtuchah='true' >חָלָֽל</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='7' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='11' Verse='6' WordSequence='7'>חָלָֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='11' Verse='7' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='7' WordSequence='2' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='7' WordSequence='3' >אָמַר֮</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='7' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -3075,8 +3075,8 @@
 <Word Book='Yekhezqel' Chapter='11' Verse='13' WordSequence='19' >עֹשֶׂ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='13' WordSequence='20' >אֵ֖ת</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='13' WordSequence='21' >שְׁאֵרִ֥ית</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='13' WordSequence='22' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='14' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='11' Verse='13' WordSequence='22'>יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='11' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='14' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='14' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='14' WordSequence='4' >אֵלַ֥י</Word>
@@ -3103,8 +3103,8 @@
 <Word Book='Yekhezqel' Chapter='11' Verse='15' WordSequence='20' >הִ֛יא</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='15' WordSequence='21' >נִתְּנָ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='15' WordSequence='22' >הָאָ֖רֶץ</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='15' WordSequence='23' >לְמוֹרָשָֽׁה</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='16' WordSequence='1' >לָכֵ֣ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='11' Verse='15' WordSequence='23' >לְמוֹרָשָֽׁה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='11' Verse='16' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֣ן</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='16' WordSequence='2' >אֱמֹ֗ר</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='16' WordSequence='3' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='16' WordSequence='4' >אָמַר֮</Word>
@@ -3123,8 +3123,8 @@
 <Word Book='Yekhezqel' Chapter='11' Verse='16' WordSequence='17' >בָּאֲרָצ֖וֹת</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='16' WordSequence='18' >אֲשֶׁר־</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='16' WordSequence='19' >בָּ֥אוּ</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='16' WordSequence='20' >שָֽׁם</Word>
-<Word Book='Yekhezqel' Chapter='11' Verse='17' WordSequence='1' >לָכֵ֣ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='11' Verse='16' WordSequence='20' >שָֽׁם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='11' Verse='17' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֣ן</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='17' WordSequence='2' >אֱמֹ֗ר</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='17' WordSequence='3' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='17' WordSequence='4' >אָמַר֮</Word>
@@ -3244,8 +3244,8 @@
 <Word Book='Yekhezqel' Chapter='11' Verse='25' WordSequence='6' >דִּבְרֵ֥י</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='25' WordSequence='7' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='11' Verse='25' WordSequence='8' >אֲשֶׁ֥ר</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='11' Verse='25' WordSequence='9' IsParashaPtuchah='true' >הֶרְאָֽנִי</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='12' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='11' Verse='25' WordSequence='9'>הֶרְאָֽנִי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='12' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -3348,8 +3348,8 @@
 <Word Book='Yekhezqel' Chapter='12' Verse='7' WordSequence='17' >עַל־</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='7' WordSequence='18' >כָּתֵ֥ף</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='7' WordSequence='19' >נָשָׂ֖אתִי</Word>
-<Word Book='Yekhezqel' Chapter='12' Verse='7' WordSequence='20' IsParashaPtuchah='true' >לְעֵינֵיהֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='12' Verse='8' WordSequence='1' >וַיְהִ֧י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='12' Verse='7' WordSequence='20'>לְעֵינֵיהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='12' Verse='8' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֧י</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='8' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='8' WordSequence='3' >יְהוָ֛ה</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='8' WordSequence='4' >אֵלַ֖י</Word>
@@ -3474,8 +3474,8 @@
 <Word Book='Yekhezqel' Chapter='12' Verse='16' WordSequence='17' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='16' WordSequence='18' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='16' WordSequence='19' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='12' Verse='16' WordSequence='20' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='12' Verse='17' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='12' Verse='16' WordSequence='20'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='12' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='17' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='17' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='17' WordSequence='4' >אֵלַ֥י</Word>
@@ -3525,8 +3525,8 @@
 <Word Book='Yekhezqel' Chapter='12' Verse='20' WordSequence='7' >וִֽידַעְתֶּ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='20' WordSequence='8' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='20' WordSequence='9' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='12' Verse='20' WordSequence='10' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='12' Verse='21' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='12' Verse='20' WordSequence='10'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='12' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='21' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='21' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='21' WordSequence='4' >אֵלַ֥י</Word>
@@ -3604,8 +3604,8 @@
 <Word Book='Yekhezqel' Chapter='12' Verse='25' WordSequence='19' >וַעֲשִׂיתִ֔יו</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='25' WordSequence='20' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='25' WordSequence='21' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='12' Verse='25' WordSequence='22' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='12' Verse='26' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='12' Verse='25' WordSequence='22'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='12' Verse='26' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='26' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='26' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='26' WordSequence='4' >אֵלַ֥י</Word>
@@ -3644,8 +3644,8 @@
 <Word Book='Yekhezqel' Chapter='12' Verse='28' WordSequence='16' >וְיֵ֣עָשֶׂ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='28' WordSequence='17' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='12' Verse='28' WordSequence='18' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='12' Verse='28' WordSequence='19' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='13' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='12' Verse='28' WordSequence='19' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='13' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -3719,8 +3719,8 @@
 <Word Book='Yekhezqel' Chapter='13' Verse='7' WordSequence='10' >יְהוָ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='7' WordSequence='11' >וַאֲנִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='7' WordSequence='12' >לֹ֥א</Word>
-<Word Book='Yekhezqel' Chapter='13' Verse='7' WordSequence='13' >דִבַּֽרְתִּי</Word>
-<Word Book='Yekhezqel' Chapter='13' Verse='8' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='13' Verse='7' WordSequence='13' >דִבַּֽרְתִּי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='13' Verse='8' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='8' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='8' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='8' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -3803,8 +3803,8 @@
 <Word Book='Yekhezqel' Chapter='13' Verse='12' WordSequence='7' >אַיֵּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='12' WordSequence='8' >הַטִּ֖יחַ</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='12' WordSequence='9' >אֲשֶׁ֥ר</Word>
-<Word Book='Yekhezqel' Chapter='13' Verse='12' WordSequence='10' >טַחְתֶּֽם</Word>
-<Word Book='Yekhezqel' Chapter='13' Verse='13' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='13' Verse='12' WordSequence='10' >טַחְתֶּֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='13' Verse='13' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='13' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='13' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='13' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -3866,8 +3866,8 @@
 <Word Book='Yekhezqel' Chapter='13' Verse='16' WordSequence='11' >שָׁלֹ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='16' WordSequence='12' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='16' WordSequence='13' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='13' Verse='16' WordSequence='14' IsParashaPtuchah='true' >יְהֹוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='13' Verse='17' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='13' Verse='16' WordSequence='14'>יְהֹוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='13' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='17' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='17' WordSequence='3' >אָדָ֗ם</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='17' WordSequence='4' >שִׂ֤ים</Word>
@@ -3926,8 +3926,8 @@
 <Word Book='Yekhezqel' Chapter='13' Verse='19' WordSequence='19' >בְּכַ֨זֶּבְכֶ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='19' WordSequence='20' >לְעַמִּ֖י</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='19' WordSequence='21' >שֹׁמְעֵ֥י</Word>
-<Word Book='Yekhezqel' Chapter='13' Verse='19' WordSequence='22' >כָזָֽב</Word>
-<Word Book='Yekhezqel' Chapter='13' Verse='20' WordSequence='1' >לָכֵ֞ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='13' Verse='19' WordSequence='22' >כָזָֽב</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='13' Verse='20' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֞ן</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='20' WordSequence='2' >כֹּה־</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='20' WordSequence='3' >אָמַ֣ר׀</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='20' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -4002,15 +4002,15 @@
 <Word Book='Yekhezqel' Chapter='13' Verse='23' WordSequence='13' >וִֽידַעְתֶּ֖ן</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='23' WordSequence='14' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='13' Verse='23' WordSequence='15' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='13' Verse='23' WordSequence='16' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וַיָּב֤וֹא</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='13' Verse='23' WordSequence='16'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='14' Verse='1' WordSequence='1'>וַיָּב֤וֹא</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='1' WordSequence='2' >אֵלַי֙</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='1' WordSequence='3' >אֲנָשִׁ֔ים</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='1' WordSequence='4' >מִזִּקְנֵ֖י</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='1' WordSequence='5' >יִשְׂרָאֵ֑ל</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='1' WordSequence='6' >וַיֵּשְׁב֖וּ</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='1' WordSequence='7' IsParashaPtuchah='true' >לְפָנָֽי</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='2' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='14' Verse='1' WordSequence='7'>לְפָנָֽי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='14' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='2' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='2' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='2' WordSequence='4' >אֵלַ֥י</Word>
@@ -4030,8 +4030,8 @@
 <Word Book='Yekhezqel' Chapter='14' Verse='3' WordSequence='13' >פְּנֵיהֶ֑ם</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='3' WordSequence='14' >הַאִדָּרֹ֥שׁ</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='3' WordSequence='15' >אִדָּרֵ֖שׁ</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='3' WordSequence='16' >לָהֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='4' WordSequence='1' >לָכֵ֣ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='14' Verse='3' WordSequence='16' >לָהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='14' Verse='4' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֣ן</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='4' WordSequence='2' >דַּבֵּר־</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='4' WordSequence='3' >א֠וֹתָם</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='4' WordSequence='4' >וְאָמַרְתָּ֨</Word>
@@ -4076,8 +4076,8 @@
 <Word Book='Yekhezqel' Chapter='14' Verse='5' WordSequence='8' >נָזֹ֙רוּ֙</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='5' WordSequence='9' >מֵֽעָלַ֔י</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='5' WordSequence='10' >בְּגִלּֽוּלֵיהֶ֖ם</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='5' WordSequence='11' >כֻּלָּֽם</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='6' WordSequence='1' >לָכֵ֞ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='14' Verse='5' WordSequence='11' >כֻּלָּֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='14' Verse='6' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֞ן</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='6' WordSequence='2' >אֱמֹ֣ר׀</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='6' WordSequence='3' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='6' WordSequence='4' >בֵּ֣ית</Word>
@@ -4139,8 +4139,8 @@
 <Word Book='Yekhezqel' Chapter='14' Verse='8' WordSequence='11' >וִֽידַעְתֶּ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='8' WordSequence='12' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='8' WordSequence='13' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='8' WordSequence='14' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='9' WordSequence='1' >וְהַנָּבִ֤יא</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='14' Verse='8' WordSequence='14' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='14' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וְהַנָּבִ֤יא</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='9' WordSequence='2' >כִֽי־</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='9' WordSequence='3' >יְפֻתֶּה֙</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='9' WordSequence='4' >וְדִבֶּ֣ר</Word>
@@ -4187,8 +4187,8 @@
 <Word Book='Yekhezqel' Chapter='14' Verse='11' WordSequence='19' >לֵֽאלֹהִ֔ים</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='11' WordSequence='20' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='11' WordSequence='21' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='11' WordSequence='22' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='12' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='14' Verse='11' WordSequence='22'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='14' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='12' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='12' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='12' WordSequence='4' >אֵלַ֥י</Word>
@@ -4326,8 +4326,8 @@
 <Word Book='Yekhezqel' Chapter='14' Verse='20' WordSequence='16' >הֵ֥מָּה</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='20' WordSequence='17' >בְצִדְקָתָ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='20' WordSequence='18' >יַצִּ֥ילוּ</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='20' WordSequence='19' IsParashaPtuchah='true' >נַפְשָֽׁם</Word>
-<Word Book='Yekhezqel' Chapter='14' Verse='21' WordSequence='1' >כִּי֩</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='14' Verse='20' WordSequence='19'>נַפְשָֽׁם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='14' Verse='21' WordSequence='1' IsParashaPtuchah='true' >כִּי֩</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='21' WordSequence='2' >כֹ֨ה</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='21' WordSequence='3' >אָמַ֜ר</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='21' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -4396,8 +4396,8 @@
 <Word Book='Yekhezqel' Chapter='14' Verse='23' WordSequence='18' >בָ֔הּ</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='23' WordSequence='19' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='14' Verse='23' WordSequence='20' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='14' Verse='23' WordSequence='21' IsParashaPtuchah='true' >יְהֹוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='15' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='14' Verse='23' WordSequence='21'>יְהֹוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='15' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -4454,8 +4454,8 @@
 <Word Book='Yekhezqel' Chapter='15' Verse='5' WordSequence='11' >וַיֵּחָ֔ר</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='5' WordSequence='12' >וְנַעֲשָׂ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='5' WordSequence='13' >ע֖וֹד</Word>
-<Word Book='Yekhezqel' Chapter='15' Verse='5' WordSequence='14' >לִמְלָאכָֽה</Word>
-<Word Book='Yekhezqel' Chapter='15' Verse='6' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='15' Verse='5' WordSequence='14' >לִמְלָאכָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='15' Verse='6' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='6' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='6' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='6' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -4499,8 +4499,8 @@
 <Word Book='Yekhezqel' Chapter='15' Verse='8' WordSequence='7' >מַ֔עַל</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='8' WordSequence='8' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='15' Verse='8' WordSequence='9' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='15' Verse='8' WordSequence='10' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='16' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='15' Verse='8' WordSequence='10'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='16' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -4938,8 +4938,8 @@
 <Word Book='Yekhezqel' Chapter='16' Verse='35' WordSequence='2' >זוֹנָ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='35' WordSequence='3' >שִׁמְעִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='35' WordSequence='4' >דְּבַר־</Word>
-<Word Book='Yekhezqel' Chapter='16' Verse='35' WordSequence='5' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='16' Verse='36' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='16' Verse='35' WordSequence='5'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='16' Verse='36' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='36' WordSequence='2' >אָמַ֞ר</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='36' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='36' WordSequence='4' >יְהֹוִ֗ה</Word>
@@ -5169,8 +5169,8 @@
 <Word Book='Yekhezqel' Chapter='16' Verse='50' WordSequence='5' >וָאָסִ֥יר</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='50' WordSequence='6' >אֶתְהֶ֖ן</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='50' WordSequence='7' >כַּאֲשֶׁ֥ר</Word>
-<Word Book='Yekhezqel' Chapter='16' Verse='50' WordSequence='8' >רָאִֽיתִי</Word>
-<Word Book='Yekhezqel' Chapter='16' Verse='51' WordSequence='1' >וְשֹׁ֣מְר֔וֹן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='16' Verse='50' WordSequence='8' >רָאִֽיתִי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='16' Verse='51' WordSequence='1' IsParashaPtuchah='true' >וְשֹׁ֣מְר֔וֹן</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='51' WordSequence='2' >כַּחֲצִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='51' WordSequence='3' >חַטֹּאתַ֖יִךְ</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='51' WordSequence='4' >לֹ֣א</Word>
@@ -5277,8 +5277,8 @@
 <Word Book='Yekhezqel' Chapter='16' Verse='58' WordSequence='5' >אַ֣תְּ</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='58' WordSequence='6' >נְשָׂאתִ֑ים</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='58' WordSequence='7' >נְאֻ֖ם</Word>
-<Word Book='Yekhezqel' Chapter='16' Verse='58' WordSequence='8' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='16' Verse='59' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='16' Verse='58' WordSequence='8' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='16' Verse='59' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='59' WordSequence='2' >כֹ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='59' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='59' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -5349,8 +5349,8 @@
 <Word Book='Yekhezqel' Chapter='16' Verse='63' WordSequence='16' >עָשִׂ֔ית</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='63' WordSequence='17' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='16' Verse='63' WordSequence='18' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='16' Verse='63' WordSequence='19' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='17' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='16' Verse='63' WordSequence='19' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='17' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -5463,8 +5463,8 @@
 <Word Book='Yekhezqel' Chapter='17' Verse='8' WordSequence='12' >פֶּ֔רִי</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='8' WordSequence='13' >לִהְי֖וֹת</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='8' WordSequence='14' >לְגֶ֥פֶן</Word>
-<Word Book='Yekhezqel' Chapter='17' Verse='8' WordSequence='15' >אַדָּֽרֶת</Word>
-<Word Book='Yekhezqel' Chapter='17' Verse='9' WordSequence='1' >אֱמֹ֗ר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='17' Verse='8' WordSequence='15' >אַדָּֽרֶת</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='17' Verse='9' WordSequence='1' IsParashaPtuchah='true' >אֱמֹ֗ר</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='9' WordSequence='2' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='9' WordSequence='3' >אָמַ֛ר</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='9' WordSequence='4' >אֲדֹנָ֥י</Word>
@@ -5503,8 +5503,8 @@
 <Word Book='Yekhezqel' Chapter='17' Verse='10' WordSequence='11' >עַל־</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='10' WordSequence='12' >עֲרֻגֹ֥ת</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='10' WordSequence='13' >צִמְחָ֖הּ</Word>
-<Word Book='Yekhezqel' Chapter='17' Verse='10' WordSequence='14' IsParashaPtuchah='true' >תִּיבָֽשׁ</Word>
-<Word Book='Yekhezqel' Chapter='17' Verse='11' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='17' Verse='10' WordSequence='14'>תִּיבָֽשׁ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='17' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='11' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='11' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='11' WordSequence='4' >אֵלַ֥י</Word>
@@ -5621,8 +5621,8 @@
 <Word Book='Yekhezqel' Chapter='17' Verse='18' WordSequence='9' >אֵ֥לֶּה</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='18' WordSequence='10' >עָשָׂ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='18' WordSequence='11' >לֹ֥א</Word>
-<Word Book='Yekhezqel' Chapter='17' Verse='18' WordSequence='12' >יִמָּלֵֽט</Word>
-<Word Book='Yekhezqel' Chapter='17' Verse='19' WordSequence='1' >לָכֵ֞ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='17' Verse='18' WordSequence='12' >יִמָּלֵֽט</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='17' Verse='19' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֞ן</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='19' WordSequence='2' >כֹּה־</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='19' WordSequence='3' >אָמַ֨ר</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='19' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -5669,8 +5669,8 @@
 <Word Book='Yekhezqel' Chapter='17' Verse='21' WordSequence='14' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='21' WordSequence='15' >אֲנִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='21' WordSequence='16' >יְהוָ֖ה</Word>
-<Word Book='Yekhezqel' Chapter='17' Verse='21' WordSequence='17' >דִּבַּֽרְתִּי</Word>
-<Word Book='Yekhezqel' Chapter='17' Verse='22' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='17' Verse='21' WordSequence='17' >דִּבַּֽרְתִּי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='17' Verse='22' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='22' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='22' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='22' WordSequence='4' >יְהוִ֔ה</Word>
@@ -5732,8 +5732,8 @@
 <Word Book='Yekhezqel' Chapter='17' Verse='24' WordSequence='20' >אֲנִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='24' WordSequence='21' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='17' Verse='24' WordSequence='22' >דִּבַּ֥רְתִּי</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='17' Verse='24' WordSequence='23' IsParashaPtuchah='true' >וְעָשִֽׂיתִי</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='18' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='17' Verse='24' WordSequence='23'>וְעָשִֽׂיתִי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='18' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -5782,8 +5782,8 @@
 <Word Book='Yekhezqel' Chapter='18' Verse='4' WordSequence='12' >הַנֶּ֥פֶשׁ</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='4' WordSequence='13' >הַחֹטֵ֖את</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='4' WordSequence='14' >הִ֥יא</Word>
-<Word Book='Yekhezqel' Chapter='18' Verse='4' WordSequence='15' >תָמֽוּת</Word>
-<Word Book='Yekhezqel' Chapter='18' Verse='5' WordSequence='1' >וְאִ֖ישׁ</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='18' Verse='4' WordSequence='15' >תָמֽוּת</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='18' Verse='5' WordSequence='1' IsParashaPtuchah='true' >וְאִ֖ישׁ</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='5' WordSequence='2' >כִּי־</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='5' WordSequence='3' >יִהְיֶ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='5' WordSequence='4' >צַדִּ֑יק</Word>
@@ -6029,8 +6029,8 @@
 <Word Book='Yekhezqel' Chapter='18' Verse='20' WordSequence='20' >רשע</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='20' WordSequence='21' >[הָרָשָׁ֖ע]</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='20' WordSequence='22' >עָלָ֥יו</Word>
-<Word Book='Yekhezqel' Chapter='18' Verse='20' WordSequence='23' >תִּֽהְיֶֽה</Word>
-<Word Book='Yekhezqel' Chapter='18' Verse='21' WordSequence='1' >וְהָרָשָׁ֗ע</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='18' Verse='20' WordSequence='23' >תִּֽהְיֶֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='18' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וְהָרָשָׁ֗ע</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='21' WordSequence='2' >כִּ֤י</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='21' WordSequence='3' >יָשׁוּב֙</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='21' WordSequence='4' >מִכָּל־</Word>
@@ -6070,8 +6070,8 @@
 <Word Book='Yekhezqel' Chapter='18' Verse='23' WordSequence='8' >הֲל֛וֹא</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='23' WordSequence='9' >בְּשׁוּב֥וֹ</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='23' WordSequence='10' >מִדְּרָכָ֖יו</Word>
-<Word Book='Yekhezqel' Chapter='18' Verse='23' WordSequence='11' >וְחָיָֽה</Word>
-<Word Book='Yekhezqel' Chapter='18' Verse='24' WordSequence='1' >וּבְשׁ֨וּב</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='18' Verse='23' WordSequence='11' >וְחָיָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='18' Verse='24' WordSequence='1' IsParashaPtuchah='true' >וּבְשׁ֨וּב</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='24' WordSequence='2' >צַדִּ֤יק</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='24' WordSequence='3' >מִצִּדְקָתוֹ֙</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='24' WordSequence='4' >וְעָ֣שָׂה</Word>
@@ -6124,8 +6124,8 @@
 <Word Book='Yekhezqel' Chapter='18' Verse='26' WordSequence='8' >בְּעַוְל֥וֹ</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='26' WordSequence='9' >אֲשֶׁר־</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='26' WordSequence='10' >עָשָׂ֖ה</Word>
-<Word Book='Yekhezqel' Chapter='18' Verse='26' WordSequence='11' >יָמֽוּת</Word>
-<Word Book='Yekhezqel' Chapter='18' Verse='27' WordSequence='1' >וּבְשׁ֣וּב</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='18' Verse='26' WordSequence='11' >יָמֽוּת</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='18' Verse='27' WordSequence='1' IsParashaPtuchah='true' >וּבְשׁ֣וּב</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='27' WordSequence='2' >רָשָׁ֗ע</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='27' WordSequence='3' >מֵֽרִשְׁעָתוֹ֙</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='27' WordSequence='4' >אֲשֶׁ֣ר</Word>
@@ -6210,8 +6210,8 @@
 <Word Book='Yekhezqel' Chapter='18' Verse='32' WordSequence='7' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='32' WordSequence='8' >יְהוִ֑ה</Word>
 <Word Book='Yekhezqel' Chapter='18' Verse='32' WordSequence='9' >וְהָשִׁ֖יבוּ</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='18' Verse='32' WordSequence='10' IsParashaPtuchah='true' >וִֽחְיֽוּ</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='19' Verse='1' WordSequence='1'>וְאַתָּה֙</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='18' Verse='32' WordSequence='10'>וִֽחְיֽוּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='19' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּה֙</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='1' WordSequence='2' >שָׂ֣א</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='1' WordSequence='3' >קִינָ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='1' WordSequence='4' >אֶל־</Word>
@@ -6303,8 +6303,8 @@
 <Word Book='Yekhezqel' Chapter='19' Verse='9' WordSequence='14' >ע֖וֹד</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='9' WordSequence='15' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='9' WordSequence='16' >הָרֵ֥י</Word>
-<Word Book='Yekhezqel' Chapter='19' Verse='9' WordSequence='17' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='19' Verse='10' WordSequence='1' >אִמְּךָ֥</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='19' Verse='9' WordSequence='17'>יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='19' Verse='10' WordSequence='1' IsParashaPtuchah='true' >אִמְּךָ֥</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='10' WordSequence='2' >כַגֶּ֛פֶן</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='10' WordSequence='3' >בְּדָמְךָ֖</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='10' WordSequence='4' >עַל־</Word>
@@ -6367,8 +6367,8 @@
 <Word Book='Yekhezqel' Chapter='19' Verse='14' WordSequence='14' >קִ֥ינָה</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='14' WordSequence='15' >הִ֖יא</Word>
 <Word Book='Yekhezqel' Chapter='19' Verse='14' WordSequence='16' >וַתְּהִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='19' Verse='14' WordSequence='17' IsParashaPtuchah='true' >לְקִינָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='20' Verse='1' WordSequence='1'>וַיְהִ֣י׀</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='19' Verse='14' WordSequence='17'>לְקִינָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='20' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֣י׀</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='1' WordSequence='2' >בַּשָּׁנָ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='1' WordSequence='3' >הַשְּׁבִיעִ֗ית</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='1' WordSequence='4' >בַּֽחֲמִשִׁי֙</Word>
@@ -6382,8 +6382,8 @@
 <Word Book='Yekhezqel' Chapter='20' Verse='1' WordSequence='12' >אֶת־</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='1' WordSequence='13' >יְהוָ֑ה</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='1' WordSequence='14' >וַיֵּשְׁב֖וּ</Word>
-<Word Book='Yekhezqel' Chapter='20' Verse='1' WordSequence='15' >לְפָנָֽי</Word>
-<Word Book='Yekhezqel' Chapter='20' Verse='2' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='20' Verse='1' WordSequence='15' >לְפָנָֽי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='20' Verse='2' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='2' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='2' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='2' WordSequence='4' >אֵלַ֥י</Word>
@@ -6771,8 +6771,8 @@
 <Word Book='Yekhezqel' Chapter='20' Verse='26' WordSequence='12' >יֵֽדְע֔וּ</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='26' WordSequence='13' >אֲשֶׁ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='26' WordSequence='14' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='20' Verse='26' WordSequence='15' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='20' Verse='27' WordSequence='1' >לָכֵ֞ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='20' Verse='26' WordSequence='15' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='20' Verse='27' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֞ן</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='27' WordSequence='2' >דַּבֵּ֨ר</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='27' WordSequence='3' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='27' WordSequence='4' >בֵּ֤ית</Word>
@@ -7100,8 +7100,8 @@
 <Word Book='Yekhezqel' Chapter='20' Verse='44' WordSequence='15' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='44' WordSequence='16' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='20' Verse='44' WordSequence='17' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='20' Verse='44' WordSequence='18' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='21' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='20' Verse='44' WordSequence='18'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -7171,8 +7171,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='5' WordSequence='8' >הֲלֹ֛א</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='5' WordSequence='9' >מְמַשֵּׁ֥ל</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='5' WordSequence='10' >מְשָׁלִ֖ים</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='5' WordSequence='11' IsParashaPtuchah='true' >הֽוּא</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='6' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='5' WordSequence='11'>הֽוּא</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='6' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='6' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='6' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='6' WordSequence='4' >אֵלַ֥י</Word>
@@ -7231,8 +7231,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='10' WordSequence='9' >מִתַּעְרָ֑הּ</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='10' WordSequence='10' >לֹ֥א</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='10' WordSequence='11' >תָשׁ֖וּב</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='10' WordSequence='12' >עֽוֹד</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='11' WordSequence='1' >וְאַתָּ֥ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='10' WordSequence='12' >עֽוֹד</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='11' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='11' WordSequence='3' >אָדָ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='11' WordSequence='4' >הֵֽאָנַ֑ח</Word>
@@ -7272,8 +7272,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='12' WordSequence='29' >וְנִֽהְיָ֔תָה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='12' WordSequence='30' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='12' WordSequence='31' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='12' WordSequence='32' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='13' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='12' WordSequence='32'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='13' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='13' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='13' WordSequence='4' >אֵלַ֥י</Word>
@@ -7354,8 +7354,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='18' WordSequence='9' >יִֽהְיֶ֑ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='18' WordSequence='10' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='18' WordSequence='11' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='18' WordSequence='12' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='19' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='18' WordSequence='12'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='19' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='19' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='19' WordSequence='3' >אָדָ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='19' WordSequence='4' >הִנָּבֵ֕א</Word>
@@ -7407,8 +7407,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='22' WordSequence='8' >חֲמָתִ֑י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='22' WordSequence='9' >אֲנִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='22' WordSequence='10' >יְהוָ֖ה</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='22' WordSequence='11' IsParashaPtuchah='true' >דִּבַּֽרְתִּי</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='23' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='22' WordSequence='11'>דִּבַּֽרְתִּי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='23' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='23' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='23' WordSequence='4' >אֵלַ֥י</Word>
@@ -7497,8 +7497,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='28' WordSequence='11' >וְהֽוּא־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='28' WordSequence='12' >מַזְכִּ֥יר</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='28' WordSequence='13' >עָוֺ֖ן</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='28' WordSequence='14' IsParashaPtuchah='true' >לְהִתָּפֵֽשׂ</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='29' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='28' WordSequence='14'>לְהִתָּפֵֽשׂ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='29' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='29' WordSequence='2' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='29' WordSequence='3' >אָמַר֮</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='29' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -7515,8 +7515,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='29' WordSequence='15' >יַ֚עַן</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='29' WordSequence='16' >הִזָּ֣כֶרְכֶ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='29' WordSequence='17' >בַּכַּ֖ף</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='29' WordSequence='18' IsParashaPtuchah='true' >תִּתָּפֵֽשׂוּ</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='30' WordSequence='1' >וְאַתָּה֙</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='29' WordSequence='18'>תִּתָּפֵֽשׂוּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּה֙</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='30' WordSequence='2' >חָלָ֣ל</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='30' WordSequence='3' >רָשָׁ֔ע</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='30' WordSequence='4' >נְשִׂ֖יא</Word>
@@ -7526,8 +7526,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='30' WordSequence='8' >יוֹמ֔וֹ</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='30' WordSequence='9' >בְּעֵ֖ת</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='30' WordSequence='10' >עֲוֺ֥ן</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='30' WordSequence='11' >קֵֽץ</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='31' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='30' WordSequence='11' >קֵֽץ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='31' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='31' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='31' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='31' WordSequence='4' >יְהוִ֔ה</Word>
@@ -7555,8 +7555,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='32' WordSequence='11' >אֲשֶׁר־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='32' WordSequence='12' >ל֥וֹ</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='32' WordSequence='13' >הַמִּשְׁפָּ֖ט</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='32' WordSequence='14' IsParashaPtuchah='true' >וּנְתַתִּֽיו</Word>
-<Word Book='Yekhezqel' Chapter='21' Verse='33' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='32' WordSequence='14'>וּנְתַתִּֽיו</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='21' Verse='33' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='33' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='33' WordSequence='3' >אָדָ֗ם</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='33' WordSequence='4' >הִנָּבֵ֤א</Word>
@@ -7632,8 +7632,8 @@
 <Word Book='Yekhezqel' Chapter='21' Verse='37' WordSequence='10' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='37' WordSequence='11' >אֲנִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='21' Verse='37' WordSequence='12' >יְהוָ֖ה</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='21' Verse='37' WordSequence='13' IsParashaPtuchah='true' >דִּבַּֽרְתִּי</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='22' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='21' Verse='37' WordSequence='13'>דִּבַּֽרְתִּי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='22' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -7820,8 +7820,8 @@
 <Word Book='Yekhezqel' Chapter='22' Verse='16' WordSequence='5' >וְיָדַ֖עַתְּ</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='16' WordSequence='6' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='16' WordSequence='7' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='22' Verse='16' WordSequence='8' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='22' Verse='17' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='22' Verse='16' WordSequence='8'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='22' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='17' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='17' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='17' WordSequence='4' >אֵלַ֥י</Word>
@@ -7843,8 +7843,8 @@
 <Word Book='Yekhezqel' Chapter='22' Verse='18' WordSequence='15' >כּ֔וּר</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='18' WordSequence='16' >סִגִ֥ים</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='18' WordSequence='17' >כֶּ֖סֶף</Word>
-<Word Book='Yekhezqel' Chapter='22' Verse='18' WordSequence='18' >הָיֽוּ</Word>
-<Word Book='Yekhezqel' Chapter='22' Verse='19' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='22' Verse='18' WordSequence='18' >הָיֽוּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='22' Verse='19' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='19' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='19' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='19' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -7901,8 +7901,8 @@
 <Word Book='Yekhezqel' Chapter='22' Verse='22' WordSequence='11' >יְהוָ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='22' WordSequence='12' >שָׁפַ֥כְתִּי</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='22' WordSequence='13' >חֲמָתִ֖י</Word>
-<Word Book='Yekhezqel' Chapter='22' Verse='22' WordSequence='14' IsParashaPtuchah='true' >עֲלֵיכֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='22' Verse='23' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='22' Verse='22' WordSequence='14'>עֲלֵיכֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='22' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='23' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='23' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='23' WordSequence='4' >אֵלַ֥י</Word>
@@ -8023,8 +8023,8 @@
 <Word Book='Yekhezqel' Chapter='22' Verse='31' WordSequence='9' >נָתַ֔תִּי</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='31' WordSequence='10' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='22' Verse='31' WordSequence='11' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='22' Verse='31' WordSequence='12' IsParashaPtuchah='true' >יְהֹוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='23' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='22' Verse='31' WordSequence='12'>יְהֹוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='23' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -8135,8 +8135,8 @@
 <Word Book='Yekhezqel' Chapter='23' Verse='10' WordSequence='12' >לַנָּשִׁ֔ים</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='10' WordSequence='13' >וּשְׁפוּטִ֖ים</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='10' WordSequence='14' >עָ֥שׂוּ</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='10' WordSequence='15' >בָֽהּ</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='11' WordSequence='1' >וַתֵּ֙רֶא֙</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='23' Verse='10' WordSequence='15' >בָֽהּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='23' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַתֵּ֙רֶא֙</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='11' WordSequence='2' >אֲחוֹתָ֣הּ</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='11' WordSequence='3' >אָהֳלִיבָ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='11' WordSequence='4' >וַתַּשְׁחֵ֥ת</Word>
@@ -8261,8 +8261,8 @@
 <Word Book='Yekhezqel' Chapter='23' Verse='21' WordSequence='7' >דַּדַּ֔יִךְ</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='21' WordSequence='8' >לְמַ֖עַן</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='21' WordSequence='9' >שְׁדֵ֥י</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='21' WordSequence='10' >נְעוּרָֽיִךְ</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='22' WordSequence='1' >לָכֵ֣ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='23' Verse='21' WordSequence='10' >נְעוּרָֽיִךְ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='23' Verse='22' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֣ן</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='22' WordSequence='2' >אָהֳלִיבָ֗ה</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='22' WordSequence='3' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='22' WordSequence='4' >אָמַר֮</Word>
@@ -8359,8 +8359,8 @@
 <Word Book='Yekhezqel' Chapter='23' Verse='27' WordSequence='12' >וּמִצְרַ֖יִם</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='27' WordSequence='13' >לֹ֥א</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='27' WordSequence='14' >תִזְכְּרִי־</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='27' WordSequence='15' >עֽוֹד</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='28' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='23' Verse='27' WordSequence='15' >עֽוֹד</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='23' Verse='28' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='28' WordSequence='2' >כֹ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='28' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='28' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -8404,8 +8404,8 @@
 <Word Book='Yekhezqel' Chapter='23' Verse='31' WordSequence='3' >הָלָ֑כְתְּ</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='31' WordSequence='4' >וְנָתַתִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='31' WordSequence='5' >כוֹסָ֖הּ</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='31' WordSequence='6' >בְּיָדֵֽךְ</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='32' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='23' Verse='31' WordSequence='6' >בְּיָדֵֽךְ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='23' Verse='32' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='32' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='32' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='32' WordSequence='4' >יְהֹוִ֔ה</Word>
@@ -8441,8 +8441,8 @@
 <Word Book='Yekhezqel' Chapter='23' Verse='34' WordSequence='11' >דִבַּ֔רְתִּי</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='34' WordSequence='12' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='34' WordSequence='13' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='34' WordSequence='14' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='35' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='23' Verse='34' WordSequence='14' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='23' Verse='35' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='35' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='35' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='35' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -8459,8 +8459,8 @@
 <Word Book='Yekhezqel' Chapter='23' Verse='35' WordSequence='15' >שְׂאִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='35' WordSequence='16' >זִמָּתֵ֖ךְ</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='35' WordSequence='17' >וְאֶת־</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='35' WordSequence='18' >תַּזְנוּתָֽיִךְ</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='36' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='23' Verse='35' WordSequence='18' >תַּזְנוּתָֽיִךְ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='23' Verse='36' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='36' WordSequence='2' >יְהוָה֙</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='36' WordSequence='3' >אֵלַ֔י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='36' WordSequence='4' >בֶּן־</Word>
@@ -8603,8 +8603,8 @@
 <Word Book='Yekhezqel' Chapter='23' Verse='45' WordSequence='12' >נֹֽאֲפֹת֙</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='45' WordSequence='13' >הֵ֔נָּה</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='45' WordSequence='14' >וְדָ֖ם</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='45' WordSequence='15' >בִּֽידֵיהֶֽן</Word>
-<Word Book='Yekhezqel' Chapter='23' Verse='46' WordSequence='1' >כִּ֛י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='23' Verse='45' WordSequence='15' >בִּֽידֵיהֶֽן</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='23' Verse='46' WordSequence='1' IsParashaPtuchah='true' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='46' WordSequence='2' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='46' WordSequence='3' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='46' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -8649,8 +8649,8 @@
 <Word Book='Yekhezqel' Chapter='23' Verse='49' WordSequence='8' >כִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='49' WordSequence='9' >אֲנִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='23' Verse='49' WordSequence='10' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='23' Verse='49' WordSequence='11' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='24' Verse='1' WordSequence='1'>וַיְהִי֩</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='23' Verse='49' WordSequence='11'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='24' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִי֩</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='1' WordSequence='3' >יְהוָ֨ה</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='1' WordSequence='4' >אֵלַ֜י</Word>
@@ -8723,8 +8723,8 @@
 <Word Book='Yekhezqel' Chapter='24' Verse='5' WordSequence='10' >גַּם־</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='5' WordSequence='11' >בָּשְׁל֥וּ</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='5' WordSequence='12' >עֲצָמֶ֖יהָ</Word>
-<Word Book='Yekhezqel' Chapter='24' Verse='5' WordSequence='13' >בְּתוֹכָֽהּ</Word>
-<Word Book='Yekhezqel' Chapter='24' Verse='6' WordSequence='1' >לָכֵ֞ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='24' Verse='5' WordSequence='13' >בְּתוֹכָֽהּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='24' Verse='6' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֞ן</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='6' WordSequence='2' >כֹּה־</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='6' WordSequence='3' >אָמַ֣ר׀</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='6' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -8773,8 +8773,8 @@
 <Word Book='Yekhezqel' Chapter='24' Verse='8' WordSequence='9' >צְחִ֣יחַ</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='8' WordSequence='10' >סָ֑לַע</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='8' WordSequence='11' >לְבִלְתִּ֖י</Word>
-<Word Book='Yekhezqel' Chapter='24' Verse='8' WordSequence='12' IsParashaPtuchah='true' >הִכָּסֽוֹת</Word>
-<Word Book='Yekhezqel' Chapter='24' Verse='9' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='24' Verse='8' WordSequence='12'>הִכָּסֽוֹת</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='24' Verse='9' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='9' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='9' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='9' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -8849,8 +8849,8 @@
 <Word Book='Yekhezqel' Chapter='24' Verse='14' WordSequence='14' >שְׁפָט֔וּךְ</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='14' WordSequence='15' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='14' WordSequence='16' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='24' Verse='14' WordSequence='17' IsParashaPtuchah='true' >יְהֹוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='24' Verse='15' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='24' Verse='14' WordSequence='17'>יְהֹוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='24' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='15' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='15' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='15' WordSequence='4' >אֵלַ֥י</Word>
@@ -8983,8 +8983,8 @@
 <Word Book='Yekhezqel' Chapter='24' Verse='24' WordSequence='11' >כִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='24' WordSequence='12' >אֲנִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='24' WordSequence='13' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='24' Verse='24' WordSequence='14' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='24' Verse='25' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='24' Verse='24' WordSequence='14' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='24' Verse='25' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='25' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='25' WordSequence='3' >אָדָ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='25' WordSequence='4' >הֲל֗וֹא</Word>
@@ -9026,8 +9026,8 @@
 <Word Book='Yekhezqel' Chapter='24' Verse='27' WordSequence='14' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='27' WordSequence='15' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='24' Verse='27' WordSequence='16' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='24' Verse='27' WordSequence='17' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='25' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='24' Verse='27' WordSequence='17' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='25' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -9101,8 +9101,8 @@
 <Word Book='Yekhezqel' Chapter='25' Verse='5' WordSequence='11' >וִֽידַעְתֶּ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='5' WordSequence='12' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='5' WordSequence='13' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='25' Verse='5' WordSequence='14' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='25' Verse='6' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='25' Verse='5' WordSequence='14' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='25' Verse='6' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='6' WordSequence='2' >כֹ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='6' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='6' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -9139,8 +9139,8 @@
 <Word Book='Yekhezqel' Chapter='25' Verse='7' WordSequence='18' >וְיָדַעְתָּ֖</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='7' WordSequence='19' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='7' WordSequence='20' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='25' Verse='7' WordSequence='21' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='25' Verse='8' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='25' Verse='7' WordSequence='21' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='25' Verse='8' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='8' WordSequence='2' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='8' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='8' WordSequence='4' >יְהוִ֑ה</Word>
@@ -9189,8 +9189,8 @@
 <Word Book='Yekhezqel' Chapter='25' Verse='11' WordSequence='4' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='11' WordSequence='5' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='11' WordSequence='6' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='25' Verse='11' WordSequence='7' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='25' Verse='12' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='25' Verse='11' WordSequence='7' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='25' Verse='12' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='12' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='12' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='12' WordSequence='4' >יְהוִ֔ה</Word>
@@ -9240,8 +9240,8 @@
 <Word Book='Yekhezqel' Chapter='25' Verse='14' WordSequence='14' >נִקְמָתִ֔י</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='14' WordSequence='15' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='14' WordSequence='16' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='25' Verse='14' WordSequence='17' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='25' Verse='15' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='25' Verse='14' WordSequence='17'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='25' Verse='15' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='15' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='15' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='15' WordSequence='4' >יְהוִ֔ה</Word>
@@ -9287,8 +9287,8 @@
 <Word Book='Yekhezqel' Chapter='25' Verse='17' WordSequence='11' >בְּתִתִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='17' WordSequence='12' >אֶת־</Word>
 <Word Book='Yekhezqel' Chapter='25' Verse='17' WordSequence='13' >נִקְמָתִ֖י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='25' Verse='17' WordSequence='14' IsParashaPtuchah='true' >בָּֽם</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='26' Verse='1' WordSequence='1'>וַיְהִ֛י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='25' Verse='17' WordSequence='14' >בָּֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='26' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֛י</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='1' WordSequence='2' >בְּעַשְׁתֵּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='1' WordSequence='3' >עֶשְׂרֵ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='1' WordSequence='4' >שָׁנָ֖ה</Word>
@@ -9364,8 +9364,8 @@
 <Word Book='Yekhezqel' Chapter='26' Verse='6' WordSequence='6' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='6' WordSequence='7' >כִּי־</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='6' WordSequence='8' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='26' Verse='6' WordSequence='9' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='26' Verse='7' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='26' Verse='6' WordSequence='9'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='26' Verse='7' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='7' WordSequence='2' >כֹ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='7' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='7' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -9472,8 +9472,8 @@
 <Word Book='Yekhezqel' Chapter='26' Verse='14' WordSequence='13' >דִּבַּ֔רְתִּי</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='14' WordSequence='14' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='14' WordSequence='15' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='26' Verse='14' WordSequence='16' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='26' Verse='15' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='26' Verse='14' WordSequence='16' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='26' Verse='15' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='15' WordSequence='2' >אָמַ֛ר</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='15' WordSequence='3' >אֲדֹנָ֥י</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='15' WordSequence='4' >יְהוִ֖ה</Word>
@@ -9541,8 +9541,8 @@
 <Word Book='Yekhezqel' Chapter='26' Verse='18' WordSequence='7' >הָאִיִּ֥ים</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='18' WordSequence='8' >אֲשֶׁר־</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='18' WordSequence='9' >בַּיָּ֖ם</Word>
-<Word Book='Yekhezqel' Chapter='26' Verse='18' WordSequence='10' >מִצֵּאתֵֽךְ</Word>
-<Word Book='Yekhezqel' Chapter='26' Verse='19' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='26' Verse='18' WordSequence='10' >מִצֵּאתֵֽךְ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='26' Verse='19' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='19' WordSequence='2' >כֹ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='19' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='19' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -9594,8 +9594,8 @@
 <Word Book='Yekhezqel' Chapter='26' Verse='21' WordSequence='8' >לְעוֹלָ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='21' WordSequence='9' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='26' Verse='21' WordSequence='10' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='26' Verse='21' WordSequence='11' IsParashaPtuchah='true' >יְהֹוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='27' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='26' Verse='21' WordSequence='11' >יְהֹוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='27' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='27' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='27' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='27' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -10004,8 +10004,8 @@
 <Word Book='Yekhezqel' Chapter='27' Verse='36' WordSequence='6' >הָיִ֔ית</Word>
 <Word Book='Yekhezqel' Chapter='27' Verse='36' WordSequence='7' >וְאֵינֵ֖ךְ</Word>
 <Word Book='Yekhezqel' Chapter='27' Verse='36' WordSequence='8' >עַד־</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='27' Verse='36' WordSequence='9' IsParashaPtuchah='true' >עוֹלָֽם</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='28' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='27' Verse='36' WordSequence='9' >עוֹלָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='28' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -10063,8 +10063,8 @@
 <Word Book='Yekhezqel' Chapter='28' Verse='5' WordSequence='5' >חֵילֶ֑ךָ</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='5' WordSequence='6' >וַיִּגְבַּ֥הּ</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='5' WordSequence='7' >לְבָבְךָ֖</Word>
-<Word Book='Yekhezqel' Chapter='28' Verse='5' WordSequence='8' >בְּחֵילֶֽךָ</Word>
-<Word Book='Yekhezqel' Chapter='28' Verse='6' WordSequence='1' >לָכֵ֕ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='28' Verse='5' WordSequence='8' >בְּחֵילֶֽךָ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='28' Verse='6' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֕ן</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='6' WordSequence='2' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='6' WordSequence='3' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='6' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -10118,8 +10118,8 @@
 <Word Book='Yekhezqel' Chapter='28' Verse='10' WordSequence='8' >דִבַּ֔רְתִּי</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='10' WordSequence='9' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='10' WordSequence='10' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='28' Verse='10' WordSequence='11' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='28' Verse='11' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='28' Verse='10' WordSequence='11' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='28' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='11' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='11' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='11' WordSequence='4' >אֵלַ֥י</Word>
@@ -10248,8 +10248,8 @@
 <Word Book='Yekhezqel' Chapter='28' Verse='19' WordSequence='7' >הָיִ֔יתָ</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='19' WordSequence='8' >וְאֵינְךָ֖</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='19' WordSequence='9' >עַד־</Word>
-<Word Book='Yekhezqel' Chapter='28' Verse='19' WordSequence='10' IsParashaPtuchah='true' >עוֹלָֽם</Word>
-<Word Book='Yekhezqel' Chapter='28' Verse='20' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='28' Verse='19' WordSequence='10'>עוֹלָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='28' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='20' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='20' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='20' WordSequence='4' >אֵלַ֥י</Word>
@@ -10313,8 +10313,8 @@
 <Word Book='Yekhezqel' Chapter='28' Verse='24' WordSequence='15' >כִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='24' WordSequence='16' >אֲנִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='24' WordSequence='17' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='28' Verse='24' WordSequence='18' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='28' Verse='25' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='28' Verse='24' WordSequence='18' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='28' Verse='25' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='25' WordSequence='2' >אָמַר֮</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='25' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='25' WordSequence='4' >יְהוִה֒</Word>
@@ -10357,8 +10357,8 @@
 <Word Book='Yekhezqel' Chapter='28' Verse='26' WordSequence='17' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='26' WordSequence='18' >אֲנִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='28' Verse='26' WordSequence='19' >יְהוָ֖ה</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='28' Verse='26' WordSequence='20' IsParashaPtuchah='true' >אֱלֹהֵיהֶֽם</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='29' Verse='1' WordSequence='1'>בַּשָּׁנָה֙</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='28' Verse='26' WordSequence='20' >אֱלֹהֵיהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='29' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בַּשָּׁנָה֙</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='1' WordSequence='2' >הָעֲשִׂירִ֔ית</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='1' WordSequence='3' >בָּעֲשִׂרִ֕י</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='1' WordSequence='4' >בִּשְׁנֵ֥ים</Word>
@@ -10470,8 +10470,8 @@
 <Word Book='Yekhezqel' Chapter='29' Verse='7' WordSequence='13' >וְהַעֲמַדְתָּ֥</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='7' WordSequence='14' >לָהֶ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='7' WordSequence='15' >כָּל־</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='7' WordSequence='16' >מָתְנָֽיִם</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='8' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='29' Verse='7' WordSequence='16' >מָתְנָֽיִם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='29' Verse='8' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='8' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='8' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='8' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -10551,8 +10551,8 @@
 <Word Book='Yekhezqel' Chapter='29' Verse='12' WordSequence='19' >מִצְרַ֙יִם֙</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='12' WordSequence='20' >בַּגּוֹיִ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='12' WordSequence='21' >וְֽזֵרִיתִ֖ים</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='12' WordSequence='22' IsParashaPtuchah='true' >בָּאֲרָצֽוֹת</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='13' WordSequence='1' >כִּ֛י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='29' Verse='12' WordSequence='22'>בָּאֲרָצֽוֹת</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='29' Verse='13' WordSequence='1' IsParashaPtuchah='true' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='13' WordSequence='2' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='13' WordSequence='3' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='13' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -10610,8 +10610,8 @@
 <Word Book='Yekhezqel' Chapter='29' Verse='16' WordSequence='12' >כִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='16' WordSequence='13' >אֲנִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='16' WordSequence='14' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='16' WordSequence='15' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='17' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='29' Verse='16' WordSequence='15'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='29' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='17' WordSequence='2' >בְּעֶשְׂרִ֤ים</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='17' WordSequence='3' >וָשֶׁ֙בַע֙</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='17' WordSequence='4' >שָׁנָ֔ה</Word>
@@ -10651,8 +10651,8 @@
 <Word Book='Yekhezqel' Chapter='29' Verse='18' WordSequence='26' >הָעֲבֹדָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='18' WordSequence='27' >אֲשֶׁר־</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='18' WordSequence='28' >עָבַ֥ד</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='18' WordSequence='29' >עָלֶֽיהָ</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='19' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='29' Verse='18' WordSequence='29' >עָלֶֽיהָ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='29' Verse='19' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='19' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='19' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='19' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -10688,8 +10688,8 @@
 <Word Book='Yekhezqel' Chapter='29' Verse='20' WordSequence='12' >לִ֔י</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='20' WordSequence='13' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='20' WordSequence='14' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='20' WordSequence='15' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='29' Verse='21' WordSequence='1' >בַּיּ֣וֹם</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='29' Verse='20' WordSequence='15' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='29' Verse='21' WordSequence='1' IsParashaPtuchah='true' >בַּיּ֣וֹם</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='21' WordSequence='2' >הַה֗וּא</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='21' WordSequence='3' >אַצְמִ֤יחַ</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='21' WordSequence='4' >קֶ֙רֶן֙</Word>
@@ -10703,8 +10703,8 @@
 <Word Book='Yekhezqel' Chapter='29' Verse='21' WordSequence='12' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='21' WordSequence='13' >כִּי־</Word>
 <Word Book='Yekhezqel' Chapter='29' Verse='21' WordSequence='14' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='29' Verse='21' WordSequence='15' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='30' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='29' Verse='21' WordSequence='15'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='30' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -10755,8 +10755,8 @@
 <Word Book='Yekhezqel' Chapter='30' Verse='5' WordSequence='9' >הַבְּרִ֑ית</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='5' WordSequence='10' >אִתָּ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='5' WordSequence='11' >בַּחֶ֥רֶב</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='5' WordSequence='12' IsParashaPtuchah='true' >יִפֹּֽלוּ</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='6' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='30' Verse='5' WordSequence='12'>יִפֹּֽלוּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='30' Verse='6' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='6' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='6' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='6' WordSequence='4' >וְנָֽפְלוּ֙</Word>
@@ -10809,8 +10809,8 @@
 <Word Book='Yekhezqel' Chapter='30' Verse='9' WordSequence='15' >מִצְרַ֔יִם</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='9' WordSequence='16' >כִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='9' WordSequence='17' >הִנֵּ֖ה</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='9' WordSequence='18' >בָּאָֽה</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='10' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='30' Verse='9' WordSequence='18' >בָּאָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='30' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='10' WordSequence='2' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='10' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='10' WordSequence='4' >יְהוִ֑ה</Word>
@@ -10853,8 +10853,8 @@
 <Word Book='Yekhezqel' Chapter='30' Verse='12' WordSequence='13' >זָרִ֔ים</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='12' WordSequence='14' >אֲנִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='12' WordSequence='15' >יְהוָ֖ה</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='12' WordSequence='16' >דִּבַּֽרְתִּי</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='13' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='30' Verse='12' WordSequence='16' >דִּבַּֽרְתִּי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='30' Verse='13' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='13' WordSequence='2' >אָמַ֞ר</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='13' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='13' WordSequence='4' >יְהוִ֗ה</Word>
@@ -10938,8 +10938,8 @@
 <Word Book='Yekhezqel' Chapter='30' Verse='19' WordSequence='4' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='19' WordSequence='5' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='19' WordSequence='6' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='19' WordSequence='7' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='20' WordSequence='1' >וַיְהִ֗י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='30' Verse='19' WordSequence='7'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='30' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='20' WordSequence='2' >בְּאַחַ֤ת</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='20' WordSequence='3' >עֶשְׂרֵה֙</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='20' WordSequence='4' >שָׁנָ֔ה</Word>
@@ -10969,8 +10969,8 @@
 <Word Book='Yekhezqel' Chapter='30' Verse='21' WordSequence='16' >לְחָבְשָׁ֥הּ</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='21' WordSequence='17' >לְחָזְקָ֖הּ</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='21' WordSequence='18' >לִתְפֹּ֥שׂ</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='21' WordSequence='19' >בֶּחָֽרֶב</Word>
-<Word Book='Yekhezqel' Chapter='30' Verse='22' WordSequence='1' >לָכֵ֞ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='30' Verse='21' WordSequence='19' >בֶּחָֽרֶב</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='30' Verse='22' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֞ן</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='22' WordSequence='2' >כֹּה־</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='22' WordSequence='3' >אָמַ֣ר׀</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='22' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -11046,8 +11046,8 @@
 <Word Book='Yekhezqel' Chapter='30' Verse='26' WordSequence='8' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='26' WordSequence='9' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='30' Verse='26' WordSequence='10' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='30' Verse='26' WordSequence='11' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='31' Verse='1' WordSequence='1'>וַיְהִ֗י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='30' Verse='26' WordSequence='11' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='31' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֗י</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='1' WordSequence='2' >בְּאַחַ֤ת</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='1' WordSequence='3' >עֶשְׂרֵה֙</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='1' WordSequence='4' >שָׁנָ֔ה</Word>
@@ -11175,8 +11175,8 @@
 <Word Book='Yekhezqel' Chapter='31' Verse='9' WordSequence='8' >עֵ֔דֶן</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='9' WordSequence='9' >אֲשֶׁ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='9' WordSequence='10' >בְּגַ֥ן</Word>
-<Word Book='Yekhezqel' Chapter='31' Verse='9' WordSequence='11' >הָאֱלֹהִֽים</Word>
-<Word Book='Yekhezqel' Chapter='31' Verse='10' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='31' Verse='9' WordSequence='11' >הָאֱלֹהִֽים</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='31' Verse='10' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='10' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='10' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='10' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -11270,8 +11270,8 @@
 <Word Book='Yekhezqel' Chapter='31' Verse='14' WordSequence='32' >אָדָ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='14' WordSequence='33' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='14' WordSequence='34' >י֥וֹרְדֵי</Word>
-<Word Book='Yekhezqel' Chapter='31' Verse='14' WordSequence='35' >בֽוֹר</Word>
-<Word Book='Yekhezqel' Chapter='31' Verse='15' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='31' Verse='14' WordSequence='35' >בֽוֹר</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='31' Verse='15' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='15' WordSequence='2' >אָמַ֞ר</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='15' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='15' WordSequence='4' >יְהוִ֗ה</Word>
@@ -11358,8 +11358,8 @@
 <Word Book='Yekhezqel' Chapter='31' Verse='18' WordSequence='25' >הֲמוֹנֹ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='18' WordSequence='26' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='31' Verse='18' WordSequence='27' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='31' Verse='18' WordSequence='28' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='32' Verse='1' WordSequence='1'>וַֽיְהִי֙</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='31' Verse='18' WordSequence='28' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='32' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='1' WordSequence='2' >בִּשְׁתֵּ֣י</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='1' WordSequence='3' >עֶשְׂרֵ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='1' WordSequence='4' >שָׁנָ֔ה</Word>
@@ -11497,8 +11497,8 @@
 <Word Book='Yekhezqel' Chapter='32' Verse='10' WordSequence='15' >אִ֣ישׁ</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='10' WordSequence='16' >לְנַפְשׁ֔וֹ</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='10' WordSequence='17' >בְּי֖וֹם</Word>
-<Word Book='Yekhezqel' Chapter='32' Verse='10' WordSequence='18' >מַפַּלְתֶּֽךָ</Word>
-<Word Book='Yekhezqel' Chapter='32' Verse='11' WordSequence='1' >כִּ֛י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='32' Verse='10' WordSequence='18' >מַפַּלְתֶּֽךָ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='32' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='11' WordSequence='2' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='11' WordSequence='3' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='11' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -11579,8 +11579,8 @@
 <Word Book='Yekhezqel' Chapter='32' Verse='16' WordSequence='14' >אוֹתָ֔הּ</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='16' WordSequence='15' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='16' WordSequence='16' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='32' Verse='16' WordSequence='17' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='32' Verse='17' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='32' Verse='16' WordSequence='17'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='32' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='17' WordSequence='2' >בִּשְׁתֵּ֣י</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='17' WordSequence='3' >עֶשְׂרֵ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='17' WordSequence='4' >שָׁנָ֔ה</Word>
@@ -11842,8 +11842,8 @@
 <Word Book='Yekhezqel' Chapter='32' Verse='32' WordSequence='16' >הֲמוֹנֹ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='32' WordSequence='17' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='32' Verse='32' WordSequence='18' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='32' Verse='32' WordSequence='19' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='33' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='32' Verse='32' WordSequence='19'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -11931,8 +11931,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='6' WordSequence='21' >וְדָמ֖וֹ</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='6' WordSequence='22' >מִיַּֽד־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='6' WordSequence='23' >הַצֹּפֶ֥ה</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='6' WordSequence='24' >אֶדְרֹֽשׁ</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='7' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='6' WordSequence='24' >אֶדְרֹֽשׁ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='7' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='7' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='7' WordSequence='3' >אָדָ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='7' WordSequence='4' >צֹפֶ֥ה</Word>
@@ -11977,8 +11977,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='9' WordSequence='13' >יָמ֔וּת</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='9' WordSequence='14' >וְאַתָּ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='9' WordSequence='15' >נַפְשְׁךָ֥</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='9' WordSequence='16' >הִצַּֽלְתָּ</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='10' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='9' WordSequence='16' >הִצַּֽלְתָּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='10' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='10' WordSequence='3' >אָדָ֗ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='10' WordSequence='4' >אֱמֹר֙</Word>
@@ -12021,8 +12021,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='11' WordSequence='22' >וְלָ֥מָּה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='11' WordSequence='23' >תָמ֖וּתוּ</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='11' WordSequence='24' >בֵּ֥ית</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='11' WordSequence='25' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='12' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='11' WordSequence='25'>יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='12' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='12' WordSequence='3' >אָדָ֗ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='12' WordSequence='4' >אֱמֹ֤ר</Word>
@@ -12144,8 +12144,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='20' WordSequence='8' >אֶשְׁפּ֥וֹט</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='20' WordSequence='9' >אֶתְכֶ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='20' WordSequence='10' >בֵּ֥ית</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='20' WordSequence='11' IsParashaPtuchah='true' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='21' WordSequence='1' >וַיְהִ֞י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='20' WordSequence='11'>יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='21' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֞י</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='21' WordSequence='2' >בִּשְׁתֵּ֧י</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='21' WordSequence='3' >עֶשְׂרֵ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='21' WordSequence='4' >שָׁנָ֗ה</Word>
@@ -12179,8 +12179,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='22' WordSequence='17' >פִּ֔י</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='22' WordSequence='18' >וְלֹ֥א</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='22' WordSequence='19' >נֶאֱלַ֖מְתִּי</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='22' WordSequence='20' IsParashaPtuchah='true' >עֽוֹד</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='23' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='22' WordSequence='20'>עֽוֹד</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='23' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='23' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='23' WordSequence='3' >יְהֹוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='23' WordSequence='4' >אֵלַ֥י</Word>
@@ -12206,8 +12206,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='24' WordSequence='19' >לָ֛נוּ</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='24' WordSequence='20' >נִתְּנָ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='24' WordSequence='21' >הָאָ֖רֶץ</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='24' WordSequence='22' >לְמוֹרָשָֽׁה</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='25' WordSequence='1' >לָכֵן֩</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='24' WordSequence='22' >לְמוֹרָשָֽׁה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='25' WordSequence='1' IsParashaPtuchah='true' >לָכֵן֩</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='25' WordSequence='2' >אֱמֹ֨ר</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='25' WordSequence='3' >אֲלֵיהֶ֜ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='25' WordSequence='4' >כֹּֽה־</Word>
@@ -12236,8 +12236,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='26' WordSequence='9' >רֵעֵ֖הוּ</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='26' WordSequence='10' >טִמֵּאתֶ֑ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='26' WordSequence='11' >וְהָאָ֖רֶץ</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='26' WordSequence='12' >תִּירָֽשׁוּ</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='27' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='26' WordSequence='12' >תִּירָֽשׁוּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='27' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='27' WordSequence='2' >תֹאמַ֨ר</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='27' WordSequence='3' >אֲלֵהֶ֜ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='27' WordSequence='4' >כֹּה־</Word>
@@ -12290,8 +12290,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='29' WordSequence='11' >כָּל־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='29' WordSequence='12' >תּוֹעֲבֹתָ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='29' WordSequence='13' >אֲשֶׁ֥ר</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='29' WordSequence='14' >עָשֽׂוּ</Word>
-<Word Book='Yekhezqel' Chapter='33' Verse='30' WordSequence='1' >וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='29' WordSequence='14' >עָשֽׂוּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='33' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='30' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='30' WordSequence='3' >אָדָ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='30' WordSequence='4' >בְּנֵ֣י</Word>
@@ -12361,8 +12361,8 @@
 <Word Book='Yekhezqel' Chapter='33' Verse='33' WordSequence='5' >כִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='33' WordSequence='6' >נָבִ֖יא</Word>
 <Word Book='Yekhezqel' Chapter='33' Verse='33' WordSequence='7' >הָיָ֥ה</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='33' Verse='33' WordSequence='8' IsParashaPtuchah='true' >בְתוֹכָֽם</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='34' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='33' Verse='33' WordSequence='8' >בְתוֹכָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='34' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -12489,8 +12489,8 @@
 <Word Book='Yekhezqel' Chapter='34' Verse='8' WordSequence='28' >וְאֶת־</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='8' WordSequence='29' >צֹאנִ֖י</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='8' WordSequence='30' >לֹ֥א</Word>
-<Word Book='Yekhezqel' Chapter='34' Verse='8' WordSequence='31' >רָעֽוּ</Word>
-<Word Book='Yekhezqel' Chapter='34' Verse='9' WordSequence='1' >לָכֵן֙</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='34' Verse='8' WordSequence='31' >רָעֽוּ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='34' Verse='9' WordSequence='1' IsParashaPtuchah='true' >לָכֵן֙</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='9' WordSequence='2' >הָֽרֹעִ֔ים</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='9' WordSequence='3' >שִׁמְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='9' WordSequence='4' >דְּבַר־</Word>
@@ -12520,8 +12520,8 @@
 <Word Book='Yekhezqel' Chapter='34' Verse='10' WordSequence='23' >וְלֹֽא־</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='10' WordSequence='24' >תִהְיֶ֥יןָ</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='10' WordSequence='25' >לָהֶ֖ם</Word>
-<Word Book='Yekhezqel' Chapter='34' Verse='10' WordSequence='26' >לְאָכְלָֽה</Word>
-<Word Book='Yekhezqel' Chapter='34' Verse='11' WordSequence='1' >כִּ֛י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='34' Verse='10' WordSequence='26' >לְאָכְלָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='34' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כִּ֛י</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='11' WordSequence='2' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='11' WordSequence='3' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='11' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -12651,8 +12651,8 @@
 <Word Book='Yekhezqel' Chapter='34' Verse='19' WordSequence='4' >תִּרְעֶ֔ינָה</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='19' WordSequence='5' >וּמִרְפַּ֥שׂ</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='19' WordSequence='6' >רַגְלֵיכֶ֖ם</Word>
-<Word Book='Yekhezqel' Chapter='34' Verse='19' WordSequence='7' >תִּשְׁתֶּֽינָה</Word>
-<Word Book='Yekhezqel' Chapter='34' Verse='20' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='34' Verse='19' WordSequence='7' >תִּשְׁתֶּֽינָה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='34' Verse='20' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='20' WordSequence='2' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='20' WordSequence='3' >אָמַ֛ר</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='20' WordSequence='4' >אֲדֹנָ֥י</Word>
@@ -12819,8 +12819,8 @@
 <Word Book='Yekhezqel' Chapter='34' Verse='31' WordSequence='8' >אֱלֹ֣הֵיכֶ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='31' WordSequence='9' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='34' Verse='31' WordSequence='10' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='34' Verse='31' WordSequence='11' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='35' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='34' Verse='31' WordSequence='11'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='35' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -12984,8 +12984,8 @@
 <Word Book='Yekhezqel' Chapter='35' Verse='13' WordSequence='5' >עָלַ֖י</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='13' WordSequence='6' >דִּבְרֵיכֶ֑ם</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='13' WordSequence='7' >אֲנִ֖י</Word>
-<Word Book='Yekhezqel' Chapter='35' Verse='13' WordSequence='8' >שָׁמָֽעְתִּי</Word>
-<Word Book='Yekhezqel' Chapter='35' Verse='14' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='35' Verse='13' WordSequence='8' >שָׁמָֽעְתִּי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='35' Verse='14' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='14' WordSequence='2' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='14' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='14' WordSequence='4' >יְהוִ֑ה</Word>
@@ -13015,8 +13015,8 @@
 <Word Book='Yekhezqel' Chapter='35' Verse='15' WordSequence='18' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='15' WordSequence='19' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='35' Verse='15' WordSequence='20' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='35' Verse='15' WordSequence='21' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='36' Verse='1' WordSequence='1'>וְאַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='35' Verse='15' WordSequence='21'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='36' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='1' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='1' WordSequence='3' >אָדָ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='1' WordSequence='4' >הִנָּבֵ֖א</Word>
@@ -13092,8 +13092,8 @@
 <Word Book='Yekhezqel' Chapter='36' Verse='4' WordSequence='24' >לִשְׁאֵרִ֥ית</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='4' WordSequence='25' >הַגּוֹיִ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='4' WordSequence='26' >אֲשֶׁ֥ר</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='4' WordSequence='27' >מִסָּבִֽיב</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='5' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='36' Verse='4' WordSequence='27' >מִסָּבִֽיב</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='36' Verse='5' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='5' WordSequence='2' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='5' WordSequence='3' >אָמַר֮</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='5' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -13221,8 +13221,8 @@
 <Word Book='Yekhezqel' Chapter='36' Verse='12' WordSequence='11' >וְלֹא־</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='12' WordSequence='12' >תוֹסִ֥ף</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='12' WordSequence='13' >ע֖וֹד</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='12' WordSequence='14' >לְשַׁכְּלָֽם</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='13' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='36' Verse='12' WordSequence='14' >לְשַׁכְּלָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='36' Verse='13' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='13' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='13' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='13' WordSequence='4' >יְהוִ֔ה</Word>
@@ -13270,8 +13270,8 @@
 <Word Book='Yekhezqel' Chapter='36' Verse='15' WordSequence='16' >ע֔וֹד</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='15' WordSequence='17' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='15' WordSequence='18' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='15' WordSequence='19' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='16' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='36' Verse='15' WordSequence='19' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='36' Verse='16' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='16' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='16' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='16' WordSequence='4' >אֵלַ֥י</Word>
@@ -13339,8 +13339,8 @@
 <Word Book='Yekhezqel' Chapter='36' Verse='21' WordSequence='9' >בַּגּוֹיִ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='21' WordSequence='10' >אֲשֶׁר־</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='21' WordSequence='11' >בָּ֥אוּ</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='21' WordSequence='12' >שָֽׁמָּה</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='22' WordSequence='1' >לָכֵ֞ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='36' Verse='21' WordSequence='12' >שָֽׁמָּה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='36' Verse='22' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֞ן</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='22' WordSequence='2' >אֱמֹ֣ר</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='22' WordSequence='3' >לְבֵֽית־</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='22' WordSequence='4' >יִשְׂרָאֵ֗ל</Word>
@@ -13502,8 +13502,8 @@
 <Word Book='Yekhezqel' Chapter='36' Verse='32' WordSequence='11' >וְהִכָּלְמ֛וּ</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='32' WordSequence='12' >מִדַּרְכֵיכֶ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='32' WordSequence='13' >בֵּ֥ית</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='32' WordSequence='14' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='33' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='36' Verse='32' WordSequence='14' >יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='36' Verse='33' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='33' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='33' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='33' WordSequence='4' >יְהוִ֔ה</Word>
@@ -13555,8 +13555,8 @@
 <Word Book='Yekhezqel' Chapter='36' Verse='36' WordSequence='13' >אֲנִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='36' WordSequence='14' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='36' WordSequence='15' >דִּבַּ֥רְתִּי</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='36' WordSequence='16' >וְעָשִֽׂיתִי</Word>
-<Word Book='Yekhezqel' Chapter='36' Verse='37' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='36' Verse='36' WordSequence='16' >וְעָשִֽׂיתִי</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='36' Verse='37' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='37' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='37' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='37' WordSequence='4' >יְהוִ֔ה</Word>
@@ -13586,8 +13586,8 @@
 <Word Book='Yekhezqel' Chapter='36' Verse='38' WordSequence='13' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='38' WordSequence='14' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='36' Verse='38' WordSequence='15' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='36' Verse='38' WordSequence='16' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='37' Verse='1' WordSequence='1'>הָיְתָ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='36' Verse='38' WordSequence='16' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='37' Verse='1' WordSequence='1' IsParashaPtuchah='true' >הָיְתָ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='1' WordSequence='2' >עָלַי֮</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='1' WordSequence='3' >יַד־</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='1' WordSequence='4' >יְהוָה֒</Word>
@@ -13729,8 +13729,8 @@
 <Word Book='Yekhezqel' Chapter='37' Verse='10' WordSequence='11' >חַ֖יִל</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='10' WordSequence='12' >גָּד֥וֹל</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='10' WordSequence='13' >מְאֹד־</Word>
-<Word Book='Yekhezqel' Chapter='37' Verse='10' WordSequence='14' >מְאֹֽד</Word>
-<Word Book='Yekhezqel' Chapter='37' Verse='11' WordSequence='1' >וַיֹּאמֶר֮</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='37' Verse='10' WordSequence='14' >מְאֹֽד</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='37' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וַיֹּאמֶר֮</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='11' WordSequence='2' >אֵלַי֒</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='11' WordSequence='3' >בֶּן־</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='11' WordSequence='4' >אָדָ֕ם</Word>
@@ -13769,8 +13769,8 @@
 <Word Book='Yekhezqel' Chapter='37' Verse='12' WordSequence='19' >אֶתְכֶ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='12' WordSequence='20' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='12' WordSequence='21' >אַדְמַ֥ת</Word>
-<Word Book='Yekhezqel' Chapter='37' Verse='12' WordSequence='22' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='37' Verse='13' WordSequence='1' >וִֽידַעְתֶּ֖ם</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='37' Verse='12' WordSequence='22' >יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='37' Verse='13' WordSequence='1' IsParashaPtuchah='true' >וִֽידַעְתֶּ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='13' WordSequence='2' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='13' WordSequence='3' >אֲנִ֣י</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='13' WordSequence='4' >יְהוָ֑ה</Word>
@@ -13796,8 +13796,8 @@
 <Word Book='Yekhezqel' Chapter='37' Verse='14' WordSequence='13' >דִּבַּ֥רְתִּי</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='14' WordSequence='14' >וְעָשִׂ֖יתִי</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='14' WordSequence='15' >נְאֻם־</Word>
-<Word Book='Yekhezqel' Chapter='37' Verse='14' WordSequence='16' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' Chapter='37' Verse='15' WordSequence='1' >וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='37' Verse='14' WordSequence='16'>יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='37' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='15' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='15' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='15' WordSequence='4' >אֵלַ֥י</Word>
@@ -14037,8 +14037,8 @@
 <Word Book='Yekhezqel' Chapter='37' Verse='28' WordSequence='9' >בִּהְי֧וֹת</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='28' WordSequence='10' >מִקְדָּשִׁ֛י</Word>
 <Word Book='Yekhezqel' Chapter='37' Verse='28' WordSequence='11' >בְּתוֹכָ֖ם</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='37' Verse='28' WordSequence='12' IsParashaPtuchah='true' >לְעוֹלָֽם</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='38' Verse='1' WordSequence='1'>וַיְהִ֥י</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='37' Verse='28' WordSequence='12' >לְעוֹלָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='38' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֥י</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='1' WordSequence='2' >דְבַר־</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='1' WordSequence='3' >יְהוָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='1' WordSequence='4' >אֵלַ֥י</Word>
@@ -14159,8 +14159,8 @@
 <Word Book='Yekhezqel' Chapter='38' Verse='9' WordSequence='10' >אֲגַפֶּ֔יךָ</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='9' WordSequence='11' >וְעַמִּ֥ים</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='9' WordSequence='12' >רַבִּ֖ים</Word>
-<Word Book='Yekhezqel' Chapter='38' Verse='9' WordSequence='13' >אוֹתָֽךְ</Word>
-<Word Book='Yekhezqel' Chapter='38' Verse='10' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='38' Verse='9' WordSequence='13' >אוֹתָֽךְ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='38' Verse='10' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='10' WordSequence='2' >אָמַ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='10' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='10' WordSequence='4' >יְהוִ֑ה</Word>
@@ -14235,8 +14235,8 @@
 <Word Book='Yekhezqel' Chapter='38' Verse='13' WordSequence='22' >וְקִנְיָ֔ן</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='13' WordSequence='23' >לִשְׁלֹ֖ל</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='13' WordSequence='24' >שָׁלָ֥ל</Word>
-<Word Book='Yekhezqel' Chapter='38' Verse='13' WordSequence='25' >גָּדֽוֹל</Word>
-<Word Book='Yekhezqel' Chapter='38' Verse='14' WordSequence='1' >לָכֵן֙</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='38' Verse='13' WordSequence='25' >גָּדֽוֹל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='38' Verse='14' WordSequence='1' IsParashaPtuchah='true' >לָכֵן֙</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='14' WordSequence='2' >הִנָּבֵ֣א</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='14' WordSequence='3' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='14' WordSequence='4' >אָדָ֔ם</Word>
@@ -14289,8 +14289,8 @@
 <Word Book='Yekhezqel' Chapter='38' Verse='16' WordSequence='18' >בְּהִקָּדְשִׁ֥י</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='16' WordSequence='19' >בְךָ֛</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='16' WordSequence='20' >לְעֵינֵיהֶ֖ם</Word>
-<Word Book='Yekhezqel' Chapter='38' Verse='16' WordSequence='21' >גּֽוֹג</Word>
-<Word Book='Yekhezqel' Chapter='38' Verse='17' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='38' Verse='16' WordSequence='21' >גּֽוֹג</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='38' Verse='17' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='17' WordSequence='2' >אָמַ֞ר</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='17' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='17' WordSequence='4' >יְהוִ֗ה</Word>
@@ -14310,8 +14310,8 @@
 <Word Book='Yekhezqel' Chapter='38' Verse='17' WordSequence='18' >שָׁנִ֑ים</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='17' WordSequence='19' >לְהָבִ֥יא</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='17' WordSequence='20' >אֹתְךָ֖</Word>
-<Word Book='Yekhezqel' Chapter='38' Verse='17' WordSequence='21' >עֲלֵיהֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='38' Verse='18' WordSequence='1' >וְהָיָ֣ה׀</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='38' Verse='17' WordSequence='21' >עֲלֵיהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='38' Verse='18' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֣ה׀</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='18' WordSequence='2' >בַּיּ֣וֹם</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='18' WordSequence='3' >הַה֗וּא</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='18' WordSequence='4' >בְּי֨וֹם</Word>
@@ -14407,8 +14407,8 @@
 <Word Book='Yekhezqel' Chapter='38' Verse='23' WordSequence='7' >וְיָדְע֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='23' WordSequence='8' >כִּֽי־</Word>
 <Word Book='Yekhezqel' Chapter='38' Verse='23' WordSequence='9' >אֲנִ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='38' Verse='23' WordSequence='10' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='39' Verse='1' WordSequence='1'>וְאַתָּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='38' Verse='23' WordSequence='10' >יְהוָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='39' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='1' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='1' WordSequence='3' >אָדָם֙</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='1' WordSequence='4' >הִנָּבֵ֣א</Word>
@@ -14551,8 +14551,8 @@
 <Word Book='Yekhezqel' Chapter='39' Verse='10' WordSequence='19' >בֹּ֣זְזֵיהֶ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='10' WordSequence='20' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='10' WordSequence='21' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='39' Verse='10' WordSequence='22' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='39' Verse='11' WordSequence='1' >וְהָיָ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='39' Verse='10' WordSequence='22' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='39' Verse='11' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='11' WordSequence='2' >בַיּ֣וֹם</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='11' WordSequence='3' >הַה֡וּא</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='11' WordSequence='4' >אֶתֵּ֣ן</Word>
@@ -14641,8 +14641,8 @@
 <Word Book='Yekhezqel' Chapter='39' Verse='16' WordSequence='3' >עִ֛יר</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='16' WordSequence='4' >הֲמוֹנָ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='16' WordSequence='5' >וְטִהֲר֥וּ</Word>
-<Word Book='Yekhezqel' Chapter='39' Verse='16' WordSequence='6' >הָאָֽרֶץ</Word>
-<Word Book='Yekhezqel' Chapter='39' Verse='17' WordSequence='1' >וְאַתָּ֨ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='39' Verse='16' WordSequence='6' >הָאָֽרֶץ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='39' Verse='17' WordSequence='1' IsParashaPtuchah='true' >וְאַתָּ֨ה</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='17' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='17' WordSequence='3' >אָדָ֜ם</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='17' WordSequence='4' >כֹּֽה־</Word>
@@ -14764,8 +14764,8 @@
 <Word Book='Yekhezqel' Chapter='39' Verse='24' WordSequence='4' >אֹתָ֑ם</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='24' WordSequence='5' >וָאַסְתִּ֥ר</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='24' WordSequence='6' >פָּנַ֖י</Word>
-<Word Book='Yekhezqel' Chapter='39' Verse='24' WordSequence='7' >מֵהֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='39' Verse='25' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='39' Verse='24' WordSequence='7' >מֵהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='39' Verse='25' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='25' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='25' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='25' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -14842,8 +14842,8 @@
 <Word Book='Yekhezqel' Chapter='39' Verse='29' WordSequence='12' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='29' WordSequence='13' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='39' Verse='29' WordSequence='14' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='39' Verse='29' WordSequence='15' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='40' Verse='1' WordSequence='1'>בְּעֶשְׂרִ֣ים</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='39' Verse='29' WordSequence='15'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='40' Verse='1' WordSequence='1' IsParashaPtuchah='true' >בְּעֶשְׂרִ֣ים</Word>
 <Word Book='Yekhezqel' Chapter='40' Verse='1' WordSequence='2' >וְחָמֵ֣שׁ</Word>
 <Word Book='Yekhezqel' Chapter='40' Verse='1' WordSequence='3' >שָׁנָ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='40' Verse='1' WordSequence='4' >לְ֠גָלוּתֵנוּ</Word>
@@ -15601,8 +15601,8 @@
 <Word Book='Yekhezqel' Chapter='40' Verse='49' WordSequence='16' >אֶחָ֥ד</Word>
 <Word Book='Yekhezqel' Chapter='40' Verse='49' WordSequence='17' >מִפֹּ֖ה</Word>
 <Word Book='Yekhezqel' Chapter='40' Verse='49' WordSequence='18' >וְאֶחָ֥ד</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='40' Verse='49' WordSequence='19' >מִפֹּֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='41' Verse='1' WordSequence='1'>וַיְבִיאֵ֖נִי</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='40' Verse='49' WordSequence='19'>מִפֹּֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='41' Verse='1' WordSequence='1'>וַיְבִיאֵ֖נִי</Word>
 <Word Book='Yekhezqel' Chapter='41' Verse='1' WordSequence='2' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='41' Verse='1' WordSequence='3' >הַהֵיכָ֑ל</Word>
 <Word Book='Yekhezqel' Chapter='41' Verse='1' WordSequence='4' >וַיָּ֣מָד</Word>
@@ -15973,8 +15973,8 @@
 <Word Book='Yekhezqel' Chapter='41' Verse='26' WordSequence='8' >הָֽאוּלָ֑ם</Word>
 <Word Book='Yekhezqel' Chapter='41' Verse='26' WordSequence='9' >וְצַלְע֥וֹת</Word>
 <Word Book='Yekhezqel' Chapter='41' Verse='26' WordSequence='10' >הַבַּ֖יִת</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='41' Verse='26' WordSequence='11' >וְהָעֻבִּֽים</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='42' Verse='1' WordSequence='1'>וַיּוֹצִאֵ֗נִי</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='41' Verse='26' WordSequence='11'>וְהָעֻבִּֽים</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='42' Verse='1' WordSequence='1'>וַיּוֹצִאֵ֗נִי</Word>
 <Word Book='Yekhezqel' Chapter='42' Verse='1' WordSequence='2' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='42' Verse='1' WordSequence='3' >הֶֽחָצֵר֙</Word>
 <Word Book='Yekhezqel' Chapter='42' Verse='1' WordSequence='4' >הַחִ֣יצוֹנָ֔ה</Word>
@@ -16263,8 +16263,8 @@
 <Word Book='Yekhezqel' Chapter='42' Verse='20' WordSequence='14' >לְהַבְדִּ֕יל</Word>
 <Word Book='Yekhezqel' Chapter='42' Verse='20' WordSequence='15' >בֵּ֥ין</Word>
 <Word Book='Yekhezqel' Chapter='42' Verse='20' WordSequence='16' >הַקֹּ֖דֶשׁ</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='42' Verse='20' WordSequence='17' >לְחֹֽל</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='43' Verse='1' WordSequence='1'>וַיּוֹלִכֵ֖נִי</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='42' Verse='20' WordSequence='17'>לְחֹֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='43' Verse='1' WordSequence='1'>וַיּוֹלִכֵ֖נִי</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='1' WordSequence='2' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='1' WordSequence='3' >הַשָּׁ֑עַר</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='1' WordSequence='4' >שַׁ֕עַר</Word>
@@ -16397,8 +16397,8 @@
 <Word Book='Yekhezqel' Chapter='43' Verse='9' WordSequence='7' >מִמֶּ֑נִּי</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='9' WordSequence='8' >וְשָׁכַנְתִּ֥י</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='9' WordSequence='9' >בְתוֹכָ֖ם</Word>
-<Word Book='Yekhezqel' Chapter='43' Verse='9' WordSequence='10' >לְעוֹלָֽם</Word>
-<Word Book='Yekhezqel' Chapter='43' Verse='10' WordSequence='1' >אַתָּ֣ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='43' Verse='9' WordSequence='10' >לְעוֹלָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='43' Verse='10' WordSequence='1' IsParashaPtuchah='true' >אַתָּ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='10' WordSequence='2' >בֶן־</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='10' WordSequence='3' >אָדָ֗ם</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='10' WordSequence='4' >הַגֵּ֤ד</Word>
@@ -16665,7 +16665,7 @@
 <Word Book='Yekhezqel' Chapter='43' Verse='26' WordSequence='10' >[יָדָֽיו]</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='1' >וִֽיכַלּ֖וּ</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='2' >אֶת־</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='43' Verse='27' WordSequence='21' IsParashaPtuchah='true' >הַיָּמִ֑ים</Word>
+<Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='3' >הַיָּמִ֑ים</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='5' >וְהָיָה֩</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='6' >בַיּ֨וֹם</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='7' >הַשְּׁמִינִ֜י</Word>
@@ -16683,7 +16683,7 @@
 <Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='19' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='20' >אֲדֹנָ֥י</Word>
 <Word Book='Yekhezqel' Chapter='43' Verse='27' WordSequence='21' >יְהֹוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='44' Verse='1' WordSequence='1'>וַיָּ֣שֶׁב</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='44' Verse='1' WordSequence='1'>וַיָּ֣שֶׁב</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='1' WordSequence='2' >אֹתִ֗י</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='1' WordSequence='3' >דֶּ֣רֶךְ</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='1' WordSequence='4' >שַׁ֤עַר</Word>
@@ -16933,8 +16933,8 @@
 <Word Book='Yekhezqel' Chapter='44' Verse='14' WordSequence='8' >וּלְכֹ֛ל</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='14' WordSequence='9' >אֲשֶׁ֥ר</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='14' WordSequence='10' >יֵעָשֶׂ֖ה</Word>
-<Word Book='Yekhezqel' Chapter='44' Verse='14' WordSequence='11' IsParashaPtuchah='true' >בּֽוֹ</Word>
-<Word Book='Yekhezqel' Chapter='44' Verse='15' WordSequence='1' >וְהַכֹּהֲנִ֨ים</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='44' Verse='14' WordSequence='11'>בּֽוֹ</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='44' Verse='15' WordSequence='1' IsParashaPtuchah='true' >וְהַכֹּהֲנִ֨ים</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='15' WordSequence='2' >הַלְוִיִּ֜ם</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='15' WordSequence='3' >בְּנֵ֣י</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='15' WordSequence='4' >צָד֗וֹק</Word>
@@ -17186,8 +17186,8 @@
 <Word Book='Yekhezqel' Chapter='44' Verse='31' WordSequence='7' >הַבְּהֵמָ֑ה</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='31' WordSequence='8' >לֹ֥א</Word>
 <Word Book='Yekhezqel' Chapter='44' Verse='31' WordSequence='9' >יֹאכְל֖וּ</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='44' Verse='31' WordSequence='10' IsParashaPtuchah='true' >הַכֹּהֲנִֽים</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='45' Verse='1' WordSequence='1'>וּבְהַפִּֽילְכֶ֨ם</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='44' Verse='31' WordSequence='10'>הַכֹּהֲנִֽים</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='45' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וּבְהַפִּֽילְכֶ֨ם</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='1' WordSequence='3' >הָאָ֜רֶץ</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='1' WordSequence='4' >בְּנַחֲלָ֗ה</Word>
@@ -17338,8 +17338,8 @@
 <Word Book='Yekhezqel' Chapter='45' Verse='8' WordSequence='13' >יִתְּנ֥וּ</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='8' WordSequence='14' >לְבֵֽית־</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='8' WordSequence='15' >יִשְׂרָאֵ֖ל</Word>
-<Word Book='Yekhezqel' Chapter='45' Verse='8' WordSequence='16' >לְשִׁבְטֵיהֶֽם</Word>
-<Word Book='Yekhezqel' Chapter='45' Verse='9' WordSequence='1' >כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='45' Verse='8' WordSequence='16' >לְשִׁבְטֵיהֶֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='45' Verse='9' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='9' WordSequence='2' >אָמַ֞ר</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='9' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='9' WordSequence='4' >יְהוִ֗ה</Word>
@@ -17476,8 +17476,8 @@
 <Word Book='Yekhezqel' Chapter='45' Verse='17' WordSequence='24' >לְכַפֵּ֖ר</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='17' WordSequence='25' >בְּעַ֥ד</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='17' WordSequence='26' >בֵּֽית־</Word>
-<Word Book='Yekhezqel' Chapter='45' Verse='17' WordSequence='27' >יִשְׂרָאֵֽל</Word>
-<Word Book='Yekhezqel' Chapter='45' Verse='18' WordSequence='1' >כֹּה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='45' Verse='17' WordSequence='27' >יִשְׂרָאֵֽל</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='45' Verse='18' WordSequence='1' IsParashaPtuchah='true' >כֹּה־</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='18' WordSequence='2' >אָמַר֮</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='18' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='18' WordSequence='4' >יְהוִה֒</Word>
@@ -17584,8 +17584,8 @@
 <Word Book='Yekhezqel' Chapter='45' Verse='25' WordSequence='11' >כַּֽחַטָּאת֙</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='25' WordSequence='12' >כָּעֹלָ֔ה</Word>
 <Word Book='Yekhezqel' Chapter='45' Verse='25' WordSequence='13' >וְכַמִּנְחָ֖ה</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='45' Verse='25' WordSequence='14' IsParashaPtuchah='true' >וְכַשָּֽׁמֶן</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='46' Verse='1' WordSequence='1'>כֹּֽה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='45' Verse='25' WordSequence='14' >וְכַשָּֽׁמֶן</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='46' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כֹּֽה־</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='1' WordSequence='2' >אָמַר֮</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='1' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='1' WordSequence='4' >יְהוִה֒</Word>
@@ -17748,8 +17748,8 @@
 <Word Book='Yekhezqel' Chapter='46' Verse='11' WordSequence='11' >יָד֑וֹ</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='11' WordSequence='12' >וְשֶׁ֖מֶן</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='11' WordSequence='13' >הִ֥ין</Word>
-<Word Book='Yekhezqel' Chapter='46' Verse='11' WordSequence='14' >לָאֵיפָֽה</Word>
-<Word Book='Yekhezqel' Chapter='46' Verse='12' WordSequence='1' >וְכִֽי־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='46' Verse='11' WordSequence='14' >לָאֵיפָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='46' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְכִֽי־</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='12' WordSequence='2' >יַעֲשֶׂה֩</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='12' WordSequence='3' >הַנָּשִׂ֨יא</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='12' WordSequence='4' >נְדָבָ֜ה</Word>
@@ -17820,8 +17820,8 @@
 <Word Book='Yekhezqel' Chapter='46' Verse='15' WordSequence='9' >בַּבֹּ֣קֶר</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='15' WordSequence='10' >בַּבֹּ֑קֶר</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='15' WordSequence='11' >עוֹלַ֖ת</Word>
-<Word Book='Yekhezqel' Chapter='46' Verse='15' WordSequence='12' IsParashaPtuchah='true' >תָּמִֽיד</Word>
-<Word Book='Yekhezqel' Chapter='46' Verse='16' WordSequence='1' >כֹּה־</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='46' Verse='15' WordSequence='12'>תָּמִֽיד</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='46' Verse='16' WordSequence='1' IsParashaPtuchah='true' >כֹּה־</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='16' WordSequence='2' >אָמַ֞ר</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='16' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='16' WordSequence='4' >יְהֹוִ֗ה</Word>
@@ -17892,8 +17892,8 @@
 <Word Book='Yekhezqel' Chapter='46' Verse='19' WordSequence='16' >מָק֔וֹם</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='19' WordSequence='17' >בירכתם</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='19' WordSequence='18' >[בַּיַּרְכָתַ֖יִם]</Word>
-<Word Book='Yekhezqel' Chapter='46' Verse='19' WordSequence='19' >יָֽמָּה</Word>
-<Word Book='Yekhezqel' Chapter='46' Verse='20' WordSequence='1' >וַיֹּ֣אמֶר</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='46' Verse='19' WordSequence='19' >יָֽמָּה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='46' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֣אמֶר</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='20' WordSequence='2' >אֵלַ֔י</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='20' WordSequence='3' >זֶ֣ה</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='20' WordSequence='4' >הַמָּק֗וֹם</Word>
@@ -17968,8 +17968,8 @@
 <Word Book='Yekhezqel' Chapter='46' Verse='24' WordSequence='10' >הַבַּ֖יִת</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='24' WordSequence='11' >אֶת־</Word>
 <Word Book='Yekhezqel' Chapter='46' Verse='24' WordSequence='12' >זֶ֥בַח</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='46' Verse='24' WordSequence='13' >הָעָֽם</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='47' Verse='1' WordSequence='1'>וַיְשִׁבֵנִי֮</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='46' Verse='24' WordSequence='13'>הָעָֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='47' Verse='1' WordSequence='1'>וַיְשִׁבֵנִי֮</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='1' WordSequence='2' >אֶל־</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='1' WordSequence='3' >פֶּ֣תַח</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='1' WordSequence='4' >הַבַּיִת֒</Word>
@@ -18174,8 +18174,8 @@
 <Word Book='Yekhezqel' Chapter='47' Verse='12' WordSequence='27' >פִרְיוֹ֙</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='12' WordSequence='28' >לְמַֽאֲכָ֔ל</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='12' WordSequence='29' >וְעָלֵ֖הוּ</Word>
-<Word Book='Yekhezqel' Chapter='47' Verse='12' WordSequence='30' >לִתְרוּפָֽה</Word>
-<Word Book='Yekhezqel' Chapter='47' Verse='13' WordSequence='1' >כֹּ֤ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='47' Verse='12' WordSequence='30' >לִתְרוּפָֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='47' Verse='13' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='13' WordSequence='2' >אָמַר֙</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='13' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='13' WordSequence='4' >יְהוִ֔ה</Word>
@@ -18338,8 +18338,8 @@
 <Word Book='Yekhezqel' Chapter='47' Verse='23' WordSequence='9' >נַחֲלָת֔וֹ</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='23' WordSequence='10' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='47' Verse='23' WordSequence='11' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='47' Verse='23' WordSequence='12' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' StartPerekBeforeWord='true' Chapter='48' Verse='1' WordSequence='1'>וְאֵ֖לֶּה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='47' Verse='23' WordSequence='12' >יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='48' Verse='1' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֖לֶּה</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='1' WordSequence='2' >שְׁמ֣וֹת</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='1' WordSequence='3' >הַשְּׁבָטִ֑ים</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='1' WordSequence='4' >מִקְצֵ֣ה</Word>
@@ -18504,8 +18504,8 @@
 <Word Book='Yekhezqel' Chapter='48' Verse='11' WordSequence='13' >יִשְׂרָאֵ֔ל</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='11' WordSequence='14' >כַּאֲשֶׁ֥ר</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='11' WordSequence='15' >תָּע֖וּ</Word>
-<Word Book='Yekhezqel' Chapter='48' Verse='11' WordSequence='16' >הַלְוִיִּֽם</Word>
-<Word Book='Yekhezqel' Chapter='48' Verse='12' WordSequence='1' >וְהָיְתָ֨ה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='48' Verse='11' WordSequence='16' >הַלְוִיִּֽם</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='48' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וְהָיְתָ֨ה</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='12' WordSequence='2' >לָהֶ֧ם</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='12' WordSequence='3' >תְּרוּמִיָּ֛ה</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='12' WordSequence='4' >מִתְּרוּמַ֥ת</Word>
@@ -18779,8 +18779,8 @@
 <Word Book='Yekhezqel' Chapter='48' Verse='29' WordSequence='9' >מַחְלְקוֹתָ֔ם</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='29' WordSequence='10' >נְאֻ֖ם</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='29' WordSequence='11' >אֲדֹנָ֥י</Word>
-<Word Book='Yekhezqel' Chapter='48' Verse='29' WordSequence='12' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Yekhezqel' Chapter='48' Verse='30' WordSequence='1' >וְאֵ֖לֶּה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='48' Verse='29' WordSequence='12'>יְהוִֽה</Word>
+<Word Book='Yekhezqel' StartParashaBeforeWord='true' Chapter='48' Verse='30' WordSequence='1' IsParashaPtuchah='true' >וְאֵ֖לֶּה</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='30' WordSequence='2' >תּוֹצְאֹ֣ת</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='30' WordSequence='3' >הָעִ֑יר</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='30' WordSequence='4' >מִפְּאַ֣ת</Word>
@@ -18869,5 +18869,5 @@
 <Word Book='Yekhezqel' Chapter='48' Verse='35' WordSequence='6' >הָעִ֥יר</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='35' WordSequence='7' >מִיּ֖וֹם</Word>
 <Word Book='Yekhezqel' Chapter='48' Verse='35' WordSequence='8' >יְהוָ֥ה׀</Word>
-<Word Book='Yekhezqel' EndPerekAfterWord='true' Chapter='48' Verse='35' WordSequence='9' >שָֽׁמָּה</Word>
+<Word Book='Yekhezqel' EndParashaAfterWord='true' Chapter='48' Verse='35' WordSequence='9'>שָֽׁמָּה</Word>
 </Tanakh>

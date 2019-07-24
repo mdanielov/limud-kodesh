@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דִּבְרֵ֣י</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>דִּבְרֵ֣י</Word>
 <Word Book='Amos' Chapter='1' Verse='1' WordSequence='2' >עָמ֔וֹס</Word>
 <Word Book='Amos' Chapter='1' Verse='1' WordSequence='3' >אֲשֶׁר־</Word>
 <Word Book='Amos' Chapter='1' Verse='1' WordSequence='4' >הָיָ֥ה</Word>
@@ -34,8 +34,8 @@
 <Word Book='Amos' Chapter='1' Verse='2' WordSequence='10' >הָרֹעִ֔ים</Word>
 <Word Book='Amos' Chapter='1' Verse='2' WordSequence='11' >וְיָבֵ֖שׁ</Word>
 <Word Book='Amos' Chapter='1' Verse='2' WordSequence='12' >רֹ֥אשׁ</Word>
-<Word Book='Amos' Chapter='1' Verse='2' WordSequence='13' IsParashaPtuchah='true' >הַכַּרְמֶֽל</Word>
-<Word Book='Amos' Chapter='1' Verse='3' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='1' Verse='2' WordSequence='13'>הַכַּרְמֶֽל</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='1' Verse='3' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Amos' Chapter='1' Verse='3' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Amos' Chapter='1' Verse='3' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Amos' Chapter='1' Verse='3' WordSequence='4' >עַל־</Word>
@@ -76,8 +76,8 @@
 <Word Book='Amos' Chapter='1' Verse='5' WordSequence='14' >אֲרָ֛ם</Word>
 <Word Book='Amos' Chapter='1' Verse='5' WordSequence='15' >קִ֖ירָה</Word>
 <Word Book='Amos' Chapter='1' Verse='5' WordSequence='16' >אָמַ֥ר</Word>
-<Word Book='Amos' Chapter='1' Verse='5' WordSequence='17' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Amos' Chapter='1' Verse='6' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='1' Verse='5' WordSequence='17'>יְהוָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='1' Verse='6' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Amos' Chapter='1' Verse='6' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Amos' Chapter='1' Verse='6' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Amos' Chapter='1' Verse='6' WordSequence='4' >עַל־</Word>
@@ -115,8 +115,8 @@
 <Word Book='Amos' Chapter='1' Verse='8' WordSequence='13' >פְּלִשְׁתִּ֔ים</Word>
 <Word Book='Amos' Chapter='1' Verse='8' WordSequence='14' >אָמַ֖ר</Word>
 <Word Book='Amos' Chapter='1' Verse='8' WordSequence='15' >אֲדֹנָ֥י</Word>
-<Word Book='Amos' Chapter='1' Verse='8' WordSequence='16' IsParashaPtuchah='true' >יְהוִֽה</Word>
-<Word Book='Amos' Chapter='1' Verse='9' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='1' Verse='8' WordSequence='16'>יְהוִֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='1' Verse='9' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Amos' Chapter='1' Verse='9' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Amos' Chapter='1' Verse='9' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Amos' Chapter='1' Verse='9' WordSequence='4' >עַל־</Word>
@@ -141,8 +141,8 @@
 <Word Book='Amos' Chapter='1' Verse='10' WordSequence='3' >בְּח֣וֹמַת</Word>
 <Word Book='Amos' Chapter='1' Verse='10' WordSequence='4' >צֹ֑ר</Word>
 <Word Book='Amos' Chapter='1' Verse='10' WordSequence='5' >וְאָכְלָ֖ה</Word>
-<Word Book='Amos' Chapter='1' Verse='10' WordSequence='6' IsParashaPtuchah='true' >אַרְמְנֹתֶֽיהָ</Word>
-<Word Book='Amos' Chapter='1' Verse='11' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='1' Verse='10' WordSequence='6'>אַרְמְנֹתֶֽיהָ</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='1' Verse='11' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Amos' Chapter='1' Verse='11' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Amos' Chapter='1' Verse='11' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Amos' Chapter='1' Verse='11' WordSequence='4' >עַל־</Word>
@@ -170,8 +170,8 @@
 <Word Book='Amos' Chapter='1' Verse='12' WordSequence='3' >בְּתֵימָ֑ן</Word>
 <Word Book='Amos' Chapter='1' Verse='12' WordSequence='4' >וְאָכְלָ֖ה</Word>
 <Word Book='Amos' Chapter='1' Verse='12' WordSequence='5' >אַרְמְנ֥וֹת</Word>
-<Word Book='Amos' Chapter='1' Verse='12' WordSequence='6' IsParashaPtuchah='true' >בָּצְרָֽה</Word>
-<Word Book='Amos' Chapter='1' Verse='13' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='1' Verse='12' WordSequence='6'>בָּצְרָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='1' Verse='13' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Amos' Chapter='1' Verse='13' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Amos' Chapter='1' Verse='13' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Amos' Chapter='1' Verse='13' WordSequence='4' >עַל־</Word>
@@ -210,8 +210,8 @@
 <Word Book='Amos' Chapter='1' Verse='15' WordSequence='5' >וְשָׂרָ֛יו</Word>
 <Word Book='Amos' Chapter='1' Verse='15' WordSequence='6' >יַחְדָּ֖ו</Word>
 <Word Book='Amos' Chapter='1' Verse='15' WordSequence='7' >אָמַ֥ר</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='1' Verse='15' WordSequence='8' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>כֹּ֚ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='1' Verse='15' WordSequence='8'>יְהוָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Amos' Chapter='2' Verse='1' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Amos' Chapter='2' Verse='1' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Amos' Chapter='2' Verse='1' WordSequence='4' >עַל־</Word>
@@ -248,8 +248,8 @@
 <Word Book='Amos' Chapter='2' Verse='3' WordSequence='6' >אֶהֱר֥וֹג</Word>
 <Word Book='Amos' Chapter='2' Verse='3' WordSequence='7' >עִמּ֖וֹ</Word>
 <Word Book='Amos' Chapter='2' Verse='3' WordSequence='8' >אָמַ֥ר</Word>
-<Word Book='Amos' Chapter='2' Verse='3' WordSequence='9' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Amos' Chapter='2' Verse='4' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='2' Verse='3' WordSequence='9'>יְהוָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='2' Verse='4' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Amos' Chapter='2' Verse='4' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Amos' Chapter='2' Verse='4' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Amos' Chapter='2' Verse='4' WordSequence='4' >עַל־</Word>
@@ -279,8 +279,8 @@
 <Word Book='Amos' Chapter='2' Verse='5' WordSequence='3' >בִּֽיהוּדָ֑ה</Word>
 <Word Book='Amos' Chapter='2' Verse='5' WordSequence='4' >וְאָכְלָ֖ה</Word>
 <Word Book='Amos' Chapter='2' Verse='5' WordSequence='5' >אַרְמְנ֥וֹת</Word>
-<Word Book='Amos' Chapter='2' Verse='5' WordSequence='6' IsParashaPtuchah='true' >יְרוּשָׁלִָֽם</Word>
-<Word Book='Amos' Chapter='2' Verse='6' WordSequence='1' >כֹּ֚ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='2' Verse='5' WordSequence='6'>יְרוּשָׁלִָֽם</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='2' Verse='6' WordSequence='1' IsParashaPtuchah='true' >כֹּ֚ה</Word>
 <Word Book='Amos' Chapter='2' Verse='6' WordSequence='2' >אָמַ֣ר</Word>
 <Word Book='Amos' Chapter='2' Verse='6' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Amos' Chapter='2' Verse='6' WordSequence='4' >עַל־</Word>
@@ -424,8 +424,8 @@
 <Word Book='Amos' Chapter='2' Verse='16' WordSequence='6' >בַּיּוֹם־</Word>
 <Word Book='Amos' Chapter='2' Verse='16' WordSequence='7' >הַה֖וּא</Word>
 <Word Book='Amos' Chapter='2' Verse='16' WordSequence='8' >נְאֻם־</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='2' Verse='16' WordSequence='9' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='3' Verse='1' WordSequence='1'>שִׁמְע֞וּ</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='2' Verse='16' WordSequence='9'>יְהוָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='3' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שִׁמְע֞וּ</Word>
 <Word Book='Amos' Chapter='3' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Amos' Chapter='3' Verse='1' WordSequence='3' >הַדָּבָ֣ר</Word>
 <Word Book='Amos' Chapter='3' Verse='1' WordSequence='4' >הַזֶּ֗ה</Word>
@@ -556,8 +556,8 @@
 <Word Book='Amos' Chapter='3' Verse='10' WordSequence='7' >הָאֽוֹצְרִ֛ים</Word>
 <Word Book='Amos' Chapter='3' Verse='10' WordSequence='8' >חָמָ֥ס</Word>
 <Word Book='Amos' Chapter='3' Verse='10' WordSequence='9' >וָשֹׁ֖ד</Word>
-<Word Book='Amos' Chapter='3' Verse='10' WordSequence='10' IsParashaPtuchah='true' >בְּאַרְמְנֽוֹתֵיהֶֽם</Word>
-<Word Book='Amos' Chapter='3' Verse='11' WordSequence='1' >לָכֵ֗ן</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='3' Verse='10' WordSequence='10'>בְּאַרְמְנֽוֹתֵיהֶֽם</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='3' Verse='11' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֗ן</Word>
 <Word Book='Amos' Chapter='3' Verse='11' WordSequence='2' >כֹּ֤ה</Word>
 <Word Book='Amos' Chapter='3' Verse='11' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Amos' Chapter='3' Verse='11' WordSequence='4' >אֲדֹנָ֣י</Word>
@@ -631,8 +631,8 @@
 <Word Book='Amos' Chapter='3' Verse='15' WordSequence='11' >בָּתִּ֥ים</Word>
 <Word Book='Amos' Chapter='3' Verse='15' WordSequence='12' >רַבִּ֖ים</Word>
 <Word Book='Amos' Chapter='3' Verse='15' WordSequence='13' >נְאֻם־</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='3' Verse='15' WordSequence='14' IsParashaPtuchah='true' >יְהוָֽה</Word>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='4' Verse='1' WordSequence='1'>שִׁמְע֞וּ</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='3' Verse='15' WordSequence='14' >יְהוָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='4' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שִׁמְע֞וּ</Word>
 <Word Book='Amos' Chapter='4' Verse='1' WordSequence='2' >הַדָּבָ֣ר</Word>
 <Word Book='Amos' Chapter='4' Verse='1' WordSequence='3' >הַזֶּ֗ה</Word>
 <Word Book='Amos' Chapter='4' Verse='1' WordSequence='4' >פָּר֤וֹת</Word>
@@ -774,8 +774,8 @@
 <Word Book='Amos' Chapter='4' Verse='9' WordSequence='13' >שַׁבְתֶּ֥ם</Word>
 <Word Book='Amos' Chapter='4' Verse='9' WordSequence='14' >עָדַ֖י</Word>
 <Word Book='Amos' Chapter='4' Verse='9' WordSequence='15' >נְאֻם־</Word>
-<Word Book='Amos' Chapter='4' Verse='9' WordSequence='16' >יְהוָֽה</Word>
-<Word Book='Amos' Chapter='4' Verse='10' WordSequence='1' >שִׁלַּ֨חְתִּי</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='4' Verse='9' WordSequence='16' >יְהוָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='4' Verse='10' WordSequence='1' IsParashaPtuchah='true' >שִׁלַּ֨חְתִּי</Word>
 <Word Book='Amos' Chapter='4' Verse='10' WordSequence='2' >בָכֶ֥ם</Word>
 <Word Book='Amos' Chapter='4' Verse='10' WordSequence='3' >דֶּ֙בֶר֙</Word>
 <Word Book='Amos' Chapter='4' Verse='10' WordSequence='4' >בְּדֶ֣רֶךְ</Word>
@@ -811,8 +811,8 @@
 <Word Book='Amos' Chapter='4' Verse='11' WordSequence='14' >שַׁבְתֶּ֥ם</Word>
 <Word Book='Amos' Chapter='4' Verse='11' WordSequence='15' >עָדַ֖י</Word>
 <Word Book='Amos' Chapter='4' Verse='11' WordSequence='16' >נְאֻם־</Word>
-<Word Book='Amos' Chapter='4' Verse='11' WordSequence='17' >יְהוָֽה</Word>
-<Word Book='Amos' Chapter='4' Verse='12' WordSequence='1' >לָכֵ֕ן</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='4' Verse='11' WordSequence='17' >יְהוָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='4' Verse='12' WordSequence='1' IsParashaPtuchah='true' >לָכֵ֕ן</Word>
 <Word Book='Amos' Chapter='4' Verse='12' WordSequence='2' >כֹּ֥ה</Word>
 <Word Book='Amos' Chapter='4' Verse='12' WordSequence='3' >אֶעֱשֶׂה־</Word>
 <Word Book='Amos' Chapter='4' Verse='12' WordSequence='4' >לְּךָ֖</Word>
@@ -846,8 +846,8 @@
 <Word Book='Amos' Chapter='4' Verse='13' WordSequence='18' >יְהוָ֥ה</Word>
 <Word Book='Amos' Chapter='4' Verse='13' WordSequence='19' >אֱלֹהֵֽי־</Word>
 <Word Book='Amos' Chapter='4' Verse='13' WordSequence='20' >צְבָא֖וֹת</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='4' Verse='13' WordSequence='21' IsParashaPtuchah='true' >שְׁמֽוֹ</Word>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='5' Verse='1' WordSequence='1'>שִׁמְע֞וּ</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='4' Verse='13' WordSequence='21' >שְׁמֽוֹ</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='5' Verse='1' WordSequence='1' IsParashaPtuchah='true' >שִׁמְע֞וּ</Word>
 <Word Book='Amos' Chapter='5' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Amos' Chapter='5' Verse='1' WordSequence='3' >הַדָּבָ֣ר</Word>
 <Word Book='Amos' Chapter='5' Verse='1' WordSequence='4' >הַזֶּ֗ה</Word>
@@ -884,8 +884,8 @@
 <Word Book='Amos' Chapter='5' Verse='3' WordSequence='13' >תַּשְׁאִ֥יר</Word>
 <Word Book='Amos' Chapter='5' Verse='3' WordSequence='14' >עֲשָׂרָ֖ה</Word>
 <Word Book='Amos' Chapter='5' Verse='3' WordSequence='15' >לְבֵ֥ית</Word>
-<Word Book='Amos' Chapter='5' Verse='3' WordSequence='16' >יִשְׂרָאֵֽל</Word>
-<Word Book='Amos' Chapter='5' Verse='4' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='5' Verse='3' WordSequence='16' >יִשְׂרָאֵֽל</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='5' Verse='4' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Amos' Chapter='5' Verse='4' WordSequence='2' >כֹ֥ה</Word>
 <Word Book='Amos' Chapter='5' Verse='4' WordSequence='3' >אָמַ֛ר</Word>
 <Word Book='Amos' Chapter='5' Verse='4' WordSequence='4' >יְהוָ֖ה</Word>
@@ -949,8 +949,8 @@
 <Word Book='Amos' Chapter='5' Verse='8' WordSequence='15' >פְּנֵ֥י</Word>
 <Word Book='Amos' Chapter='5' Verse='8' WordSequence='16' >הָאָ֖רֶץ</Word>
 <Word Book='Amos' Chapter='5' Verse='8' WordSequence='17' >יְהוָ֥ה</Word>
-<Word Book='Amos' Chapter='5' Verse='8' WordSequence='18' >שְׁמֽוֹ</Word>
-<Word Book='Amos' Chapter='5' Verse='9' WordSequence='1' >הַמַּבְלִ֥יג</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='5' Verse='8' WordSequence='18' >שְׁמֽוֹ</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='5' Verse='9' WordSequence='1' IsParashaPtuchah='true' >הַמַּבְלִ֥יג</Word>
 <Word Book='Amos' Chapter='5' Verse='9' WordSequence='2' >שֹׁ֖ד</Word>
 <Word Book='Amos' Chapter='5' Verse='9' WordSequence='3' >עַל־</Word>
 <Word Book='Amos' Chapter='5' Verse='9' WordSequence='4' >עָ֑ז</Word>
@@ -1035,8 +1035,8 @@
 <Word Book='Amos' Chapter='5' Verse='15' WordSequence='11' >אֱלֹהֵֽי־</Word>
 <Word Book='Amos' Chapter='5' Verse='15' WordSequence='12' >צְבָא֖וֹת</Word>
 <Word Book='Amos' Chapter='5' Verse='15' WordSequence='13' >שְׁאֵרִ֥ית</Word>
-<Word Book='Amos' Chapter='5' Verse='15' WordSequence='14' >יוֹסֵֽף</Word>
-<Word Book='Amos' Chapter='5' Verse='16' WordSequence='1' >לָ֠כֵן</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='5' Verse='15' WordSequence='14' >יוֹסֵֽף</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='5' Verse='16' WordSequence='1' IsParashaPtuchah='true' >לָ֠כֵן</Word>
 <Word Book='Amos' Chapter='5' Verse='16' WordSequence='2' >כֹּֽה־</Word>
 <Word Book='Amos' Chapter='5' Verse='16' WordSequence='3' >אָמַ֨ר</Word>
 <Word Book='Amos' Chapter='5' Verse='16' WordSequence='4' >יְהוָ֜ה</Word>
@@ -1066,8 +1066,8 @@
 <Word Book='Amos' Chapter='5' Verse='17' WordSequence='5' >אֶעֱבֹ֥ר</Word>
 <Word Book='Amos' Chapter='5' Verse='17' WordSequence='6' >בְּקִרְבְּךָ֖</Word>
 <Word Book='Amos' Chapter='5' Verse='17' WordSequence='7' >אָמַ֥ר</Word>
-<Word Book='Amos' Chapter='5' Verse='17' WordSequence='8' >יְהוָֽה</Word>
-<Word Book='Amos' Chapter='5' Verse='18' WordSequence='1' >ה֥וֹי</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='5' Verse='17' WordSequence='8' >יְהוָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='5' Verse='18' WordSequence='1' IsParashaPtuchah='true' >ה֥וֹי</Word>
 <Word Book='Amos' Chapter='5' Verse='18' WordSequence='2' >הַמִּתְאַוִּ֖ים</Word>
 <Word Book='Amos' Chapter='5' Verse='18' WordSequence='3' >אֶת־</Word>
 <Word Book='Amos' Chapter='5' Verse='18' WordSequence='4' >י֣וֹם</Word>
@@ -1167,8 +1167,8 @@
 <Word Book='Amos' Chapter='5' Verse='27' WordSequence='6' >יְהוָ֥ה</Word>
 <Word Book='Amos' Chapter='5' Verse='27' WordSequence='7' >אֱלֹהֵֽי־</Word>
 <Word Book='Amos' Chapter='5' Verse='27' WordSequence='8' >צְבָא֖וֹת</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='5' Verse='27' WordSequence='9' IsParashaPtuchah='true' >שְׁמֽוֹ</Word>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='6' Verse='1' WordSequence='1'>ה֚וֹי</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='5' Verse='27' WordSequence='9'>שְׁמֽוֹ</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='6' Verse='1' WordSequence='1' IsParashaPtuchah='true' >ה֚וֹי</Word>
 <Word Book='Amos' Chapter='6' Verse='1' WordSequence='2' >הַשַּׁאֲנַנִּ֣ים</Word>
 <Word Book='Amos' Chapter='6' Verse='1' WordSequence='3' >בְּצִיּ֔וֹן</Word>
 <Word Book='Amos' Chapter='6' Verse='1' WordSequence='4' >וְהַבֹּטְחִ֖ים</Word>
@@ -1245,8 +1245,8 @@
 <Word Book='Amos' Chapter='6' Verse='7' WordSequence='5' >גֹּלִ֑ים</Word>
 <Word Book='Amos' Chapter='6' Verse='7' WordSequence='6' >וְסָ֖ר</Word>
 <Word Book='Amos' Chapter='6' Verse='7' WordSequence='7' >מִרְזַ֥ח</Word>
-<Word Book='Amos' Chapter='6' Verse='7' WordSequence='8' IsParashaPtuchah='true' >סְרוּחִֽים</Word>
-<Word Book='Amos' Chapter='6' Verse='8' WordSequence='1' >נִשְׁבַּע֩</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='6' Verse='7' WordSequence='8'>סְרוּחִֽים</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='6' Verse='8' WordSequence='1' IsParashaPtuchah='true' >נִשְׁבַּע֩</Word>
 <Word Book='Amos' Chapter='6' Verse='8' WordSequence='2' >אֲדֹנָ֨י</Word>
 <Word Book='Amos' Chapter='6' Verse='8' WordSequence='3' >יְהוִ֜ה</Word>
 <Word Book='Amos' Chapter='6' Verse='8' WordSequence='4' >בְּנַפְשׁ֗וֹ</Word>
@@ -1344,8 +1344,8 @@
 <Word Book='Amos' Chapter='6' Verse='14' WordSequence='15' >חֲמָ֖ת</Word>
 <Word Book='Amos' Chapter='6' Verse='14' WordSequence='16' >עַד־</Word>
 <Word Book='Amos' Chapter='6' Verse='14' WordSequence='17' >נַ֥חַל</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='6' Verse='14' WordSequence='18' IsParashaPtuchah='true' >הָעֲרָבָֽה</Word>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='7' Verse='1' WordSequence='1'>כֹּ֤ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='6' Verse='14' WordSequence='18' >הָעֲרָבָֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='7' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כֹּ֤ה</Word>
 <Word Book='Amos' Chapter='7' Verse='1' WordSequence='2' >הִרְאַ֙נִי֙</Word>
 <Word Book='Amos' Chapter='7' Verse='1' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Amos' Chapter='7' Verse='1' WordSequence='4' >יְהוִ֔ה</Word>
@@ -1424,8 +1424,8 @@
 <Word Book='Amos' Chapter='7' Verse='6' WordSequence='8' >תִֽהְיֶ֔ה</Word>
 <Word Book='Amos' Chapter='7' Verse='6' WordSequence='9' >אָמַ֖ר</Word>
 <Word Book='Amos' Chapter='7' Verse='6' WordSequence='10' >אֲדֹנָ֥י</Word>
-<Word Book='Amos' Chapter='7' Verse='6' WordSequence='11' >יְהוִֽה</Word>
-<Word Book='Amos' Chapter='7' Verse='7' WordSequence='1' >כֹּ֣ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='7' Verse='6' WordSequence='11' >יְהוִֽה</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='7' Verse='7' WordSequence='1' IsParashaPtuchah='true' >כֹּ֣ה</Word>
 <Word Book='Amos' Chapter='7' Verse='7' WordSequence='2' >הִרְאַ֔נִי</Word>
 <Word Book='Amos' Chapter='7' Verse='7' WordSequence='3' >וְהִנֵּ֧ה</Word>
 <Word Book='Amos' Chapter='7' Verse='7' WordSequence='4' >אֲדֹנָ֛י</Word>
@@ -1467,8 +1467,8 @@
 <Word Book='Amos' Chapter='7' Verse='9' WordSequence='8' >עַל־</Word>
 <Word Book='Amos' Chapter='7' Verse='9' WordSequence='9' >בֵּ֥ית</Word>
 <Word Book='Amos' Chapter='7' Verse='9' WordSequence='10' >יָרָבְעָ֖ם</Word>
-<Word Book='Amos' Chapter='7' Verse='9' WordSequence='11' IsParashaPtuchah='true' >בֶּחָֽרֶב</Word>
-<Word Book='Amos' Chapter='7' Verse='10' WordSequence='1' >וַיִּשְׁלַ֗ח</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='7' Verse='9' WordSequence='11'>בֶּחָֽרֶב</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='7' Verse='10' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁלַ֗ח</Word>
 <Word Book='Amos' Chapter='7' Verse='10' WordSequence='2' >אֲמַצְיָה֙</Word>
 <Word Book='Amos' Chapter='7' Verse='10' WordSequence='3' >כֹּהֵ֣ן</Word>
 <Word Book='Amos' Chapter='7' Verse='10' WordSequence='4' >בֵּֽית־</Word>
@@ -1502,8 +1502,8 @@
 <Word Book='Amos' Chapter='7' Verse='11' WordSequence='9' >גָּלֹ֥ה</Word>
 <Word Book='Amos' Chapter='7' Verse='11' WordSequence='10' >יִגְלֶ֖ה</Word>
 <Word Book='Amos' Chapter='7' Verse='11' WordSequence='11' >מֵעַ֥ל</Word>
-<Word Book='Amos' Chapter='7' Verse='11' WordSequence='12' >אַדְמָתֽוֹ</Word>
-<Word Book='Amos' Chapter='7' Verse='12' WordSequence='1' >וַיֹּ֤אמֶר</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='7' Verse='11' WordSequence='12' >אַדְמָתֽוֹ</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='7' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיֹּ֤אמֶר</Word>
 <Word Book='Amos' Chapter='7' Verse='12' WordSequence='2' >אֲמַצְיָה֙</Word>
 <Word Book='Amos' Chapter='7' Verse='12' WordSequence='3' >אֶל־</Word>
 <Word Book='Amos' Chapter='7' Verse='12' WordSequence='4' >עָמ֔וֹס</Word>
@@ -1531,8 +1531,8 @@
 <Word Book='Amos' Chapter='7' Verse='13' WordSequence='10' >ה֔וּא</Word>
 <Word Book='Amos' Chapter='7' Verse='13' WordSequence='11' >וּבֵ֥ית</Word>
 <Word Book='Amos' Chapter='7' Verse='13' WordSequence='12' >מַמְלָכָ֖ה</Word>
-<Word Book='Amos' Chapter='7' Verse='13' WordSequence='13' >הֽוּא</Word>
-<Word Book='Amos' Chapter='7' Verse='14' WordSequence='1' >וַיַּ֤עַן</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='7' Verse='13' WordSequence='13' >הֽוּא</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='7' Verse='14' WordSequence='1' IsParashaPtuchah='true' >וַיַּ֤עַן</Word>
 <Word Book='Amos' Chapter='7' Verse='14' WordSequence='2' >עָמוֹס֙</Word>
 <Word Book='Amos' Chapter='7' Verse='14' WordSequence='3' >וַיֹּ֣אמֶר</Word>
 <Word Book='Amos' Chapter='7' Verse='14' WordSequence='4' >אֶל־</Word>
@@ -1599,8 +1599,8 @@
 <Word Book='Amos' Chapter='7' Verse='17' WordSequence='21' >גָּלֹ֥ה</Word>
 <Word Book='Amos' Chapter='7' Verse='17' WordSequence='22' >יִגְלֶ֖ה</Word>
 <Word Book='Amos' Chapter='7' Verse='17' WordSequence='23' >מֵעַ֥ל</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='7' Verse='17' WordSequence='24' IsParashaPtuchah='true' >אַדְמָתֽוֹ</Word>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='8' Verse='1' WordSequence='1'>כֹּ֥ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='7' Verse='17' WordSequence='24' >אַדְמָתֽוֹ</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='8' Verse='1' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Amos' Chapter='8' Verse='1' WordSequence='2' >הִרְאַ֖נִי</Word>
 <Word Book='Amos' Chapter='8' Verse='1' WordSequence='3' >אֲדֹנָ֣י</Word>
 <Word Book='Amos' Chapter='8' Verse='1' WordSequence='4' >יְהוִ֑ה</Word>
@@ -1641,8 +1641,8 @@
 <Word Book='Amos' Chapter='8' Verse='3' WordSequence='11' >בְּכָל־</Word>
 <Word Book='Amos' Chapter='8' Verse='3' WordSequence='12' >מָק֖וֹם</Word>
 <Word Book='Amos' Chapter='8' Verse='3' WordSequence='13' >הִשְׁלִ֥יךְ</Word>
-<Word Book='Amos' Chapter='8' Verse='3' WordSequence='14' IsParashaPtuchah='true' >הָֽס</Word>
-<Word Book='Amos' Chapter='8' Verse='4' WordSequence='1' >שִׁמְעוּ־</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='8' Verse='3' WordSequence='14'>הָֽס</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='8' Verse='4' WordSequence='1' IsParashaPtuchah='true' >שִׁמְעוּ־</Word>
 <Word Book='Amos' Chapter='8' Verse='4' WordSequence='2' >זֹ֕את</Word>
 <Word Book='Amos' Chapter='8' Verse='4' WordSequence='3' >הַשֹּׁאֲפִ֖ים</Word>
 <Word Book='Amos' Chapter='8' Verse='4' WordSequence='4' >אֶבְי֑וֹן</Word>
@@ -1701,8 +1701,8 @@
 <Word Book='Amos' Chapter='8' Verse='8' WordSequence='14' >ונשקה</Word>
 <Word Book='Amos' Chapter='8' Verse='8' WordSequence='15' >[וְנִשְׁקְעָ֖ה]</Word>
 <Word Book='Amos' Chapter='8' Verse='8' WordSequence='16' >כִּיא֥וֹר</Word>
-<Word Book='Amos' Chapter='8' Verse='8' WordSequence='17' >מִצְרָֽיִם</Word>
-<Word Book='Amos' Chapter='8' Verse='9' WordSequence='1' >וְהָיָ֣ה׀</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='8' Verse='8' WordSequence='17' >מִצְרָֽיִם</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='8' Verse='9' WordSequence='1' IsParashaPtuchah='true' >וְהָיָ֣ה׀</Word>
 <Word Book='Amos' Chapter='8' Verse='9' WordSequence='2' >בַּיּ֣וֹם</Word>
 <Word Book='Amos' Chapter='8' Verse='9' WordSequence='3' >הַה֗וּא</Word>
 <Word Book='Amos' Chapter='8' Verse='9' WordSequence='4' >נְאֻם֙</Word>
@@ -1792,8 +1792,8 @@
 <Word Book='Amos' Chapter='8' Verse='14' WordSequence='12' >וְנָפְל֖וּ</Word>
 <Word Book='Amos' Chapter='8' Verse='14' WordSequence='13' >וְלֹא־</Word>
 <Word Book='Amos' Chapter='8' Verse='14' WordSequence='14' >יָק֥וּמוּ</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='8' Verse='14' WordSequence='15' IsParashaPtuchah='true' >עֽוֹד</Word>
-<Word Book='Amos' StartPerekBeforeWord='true' Chapter='9' Verse='1' WordSequence='1'>רָאִ֨יתִי</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='8' Verse='14' WordSequence='15' >עֽוֹד</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='9' Verse='1' WordSequence='1' IsParashaPtuchah='true' >רָאִ֨יתִי</Word>
 <Word Book='Amos' Chapter='9' Verse='1' WordSequence='2' >אֶת־</Word>
 <Word Book='Amos' Chapter='9' Verse='1' WordSequence='3' >אֲדֹנָ֜י</Word>
 <Word Book='Amos' Chapter='9' Verse='1' WordSequence='4' >נִצָּ֣ב</Word>
@@ -1993,8 +1993,8 @@
 <Word Book='Amos' Chapter='9' Verse='12' WordSequence='12' >נְאֻם־</Word>
 <Word Book='Amos' Chapter='9' Verse='12' WordSequence='13' >יְהוָ֖ה</Word>
 <Word Book='Amos' Chapter='9' Verse='12' WordSequence='14' >עֹ֥שֶׂה</Word>
-<Word Book='Amos' Chapter='9' Verse='12' WordSequence='15' IsParashaPtuchah='true' >זֹּֽאת</Word>
-<Word Book='Amos' Chapter='9' Verse='13' WordSequence='1' >הִנֵּ֨ה</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='9' Verse='12' WordSequence='15'>זֹּֽאת</Word>
+<Word Book='Amos' StartParashaBeforeWord='true' Chapter='9' Verse='13' WordSequence='1' IsParashaPtuchah='true' >הִנֵּ֨ה</Word>
 <Word Book='Amos' Chapter='9' Verse='13' WordSequence='2' >יָמִ֤ים</Word>
 <Word Book='Amos' Chapter='9' Verse='13' WordSequence='3' >בָּאִים֙</Word>
 <Word Book='Amos' Chapter='9' Verse='13' WordSequence='4' >נְאֻם־</Word>
@@ -2044,5 +2044,5 @@
 <Word Book='Amos' Chapter='9' Verse='15' WordSequence='11' >לָהֶ֔ם</Word>
 <Word Book='Amos' Chapter='9' Verse='15' WordSequence='12' >אָמַ֖ר</Word>
 <Word Book='Amos' Chapter='9' Verse='15' WordSequence='13' >יְהוָ֥ה</Word>
-<Word Book='Amos' EndPerekAfterWord='true' Chapter='9' Verse='15' WordSequence='14' >אֱלֹהֶֽיךָ</Word>
+<Word Book='Amos' EndParashaAfterWord='true' Chapter='9' Verse='15' WordSequence='14'>אֱלֹהֶֽיךָ</Word>
 </Tanakh>

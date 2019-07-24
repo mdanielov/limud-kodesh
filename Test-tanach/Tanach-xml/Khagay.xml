@@ -1,5 +1,5 @@
 <Tanakh>
-<Word Book='Khagay' StartPerekBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>בִּשְׁנַ֤ת</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='1' Verse='1' WordSequence='1'>בִּשְׁנַ֤ת</Word>
 <Word Book='Khagay' Chapter='1' Verse='1' WordSequence='2' >שְׁתַּ֙יִם֙</Word>
 <Word Book='Khagay' Chapter='1' Verse='1' WordSequence='3' >לְדָרְיָ֣וֶשׁ</Word>
 <Word Book='Khagay' Chapter='1' Verse='1' WordSequence='4' >הַמֶּ֔לֶךְ</Word>
@@ -41,8 +41,8 @@
 <Word Book='Khagay' Chapter='1' Verse='2' WordSequence='12' >עֶת־</Word>
 <Word Book='Khagay' Chapter='1' Verse='2' WordSequence='13' >בֵּ֥ית</Word>
 <Word Book='Khagay' Chapter='1' Verse='2' WordSequence='14' >יְהוָ֖ה</Word>
-<Word Book='Khagay' Chapter='1' Verse='2' WordSequence='15' IsParashaPtuchah='true' >לְהִבָּנֽוֹת</Word>
-<Word Book='Khagay' Chapter='1' Verse='3' WordSequence='1' >וַֽיְהִי֙</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='1' Verse='2' WordSequence='15'>לְהִבָּנֽוֹת</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='1' Verse='3' WordSequence='1' IsParashaPtuchah='true' >וַֽיְהִי֙</Word>
 <Word Book='Khagay' Chapter='1' Verse='3' WordSequence='2' >דְּבַר־</Word>
 <Word Book='Khagay' Chapter='1' Verse='3' WordSequence='3' >יְהוָ֔ה</Word>
 <Word Book='Khagay' Chapter='1' Verse='3' WordSequence='4' >בְּיַד־</Word>
@@ -85,8 +85,8 @@
 <Word Book='Khagay' Chapter='1' Verse='6' WordSequence='16' >מִשְׂתַּכֵּ֖ר</Word>
 <Word Book='Khagay' Chapter='1' Verse='6' WordSequence='17' >אֶל־</Word>
 <Word Book='Khagay' Chapter='1' Verse='6' WordSequence='18' >צְר֥וֹר</Word>
-<Word Book='Khagay' Chapter='1' Verse='6' WordSequence='19' IsParashaPtuchah='true' >נָקֽוּב</Word>
-<Word Book='Khagay' Chapter='1' Verse='7' WordSequence='1' >כֹּ֥ה</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='1' Verse='6' WordSequence='19'>נָקֽוּב</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='1' Verse='7' WordSequence='1' IsParashaPtuchah='true' >כֹּ֥ה</Word>
 <Word Book='Khagay' Chapter='1' Verse='7' WordSequence='2' >אָמַ֖ר</Word>
 <Word Book='Khagay' Chapter='1' Verse='7' WordSequence='3' >יְהוָ֣ה</Word>
 <Word Book='Khagay' Chapter='1' Verse='7' WordSequence='4' >צְבָא֑וֹת</Word>
@@ -161,8 +161,8 @@
 <Word Book='Khagay' Chapter='1' Verse='11' WordSequence='21' >וְעַ֖ל</Word>
 <Word Book='Khagay' Chapter='1' Verse='11' WordSequence='22' >כָּל־</Word>
 <Word Book='Khagay' Chapter='1' Verse='11' WordSequence='23' >יְגִ֥יעַ</Word>
-<Word Book='Khagay' Chapter='1' Verse='11' WordSequence='24' >כַּפָּֽיִם</Word>
-<Word Book='Khagay' Chapter='1' Verse='12' WordSequence='1' >וַיִּשְׁמַ֣ע</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='1' Verse='11' WordSequence='24' >כַּפָּֽיִם</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='1' Verse='12' WordSequence='1' IsParashaPtuchah='true' >וַיִּשְׁמַ֣ע</Word>
 <Word Book='Khagay' Chapter='1' Verse='12' WordSequence='2' >זְרֻבָּבֶ֣ל׀</Word>
 <Word Book='Khagay' Chapter='1' Verse='12' WordSequence='3' >בֶּֽן־</Word>
 <Word Book='Khagay' Chapter='1' Verse='12' WordSequence='4' >שַׁלְתִּיאֵ֡ל</Word>
@@ -228,8 +228,8 @@
 <Word Book='Khagay' Chapter='1' Verse='14' WordSequence='25' >בְּבֵית־</Word>
 <Word Book='Khagay' Chapter='1' Verse='14' WordSequence='26' >יְהוָ֥ה</Word>
 <Word Book='Khagay' Chapter='1' Verse='14' WordSequence='27' >צְבָא֖וֹת</Word>
-<Word Book='Khagay' Chapter='1' Verse='14' WordSequence='28' IsParashaPtuchah='true' >אֱלֹהֵיהֶֽם</Word>
-<Word Book='Khagay' Chapter='1' Verse='15' WordSequence='1' >בְּי֨וֹם</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='1' Verse='14' WordSequence='28'>אֱלֹהֵיהֶֽם</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='1' Verse='15' WordSequence='1' IsParashaPtuchah='true' >בְּי֨וֹם</Word>
 <Word Book='Khagay' Chapter='1' Verse='15' WordSequence='2' >עֶשְׂרִ֧ים</Word>
 <Word Book='Khagay' Chapter='1' Verse='15' WordSequence='3' >וְאַרְבָּעָ֛ה</Word>
 <Word Book='Khagay' Chapter='1' Verse='15' WordSequence='4' >לַחֹ֖דֶשׁ</Word>
@@ -237,8 +237,8 @@
 <Word Book='Khagay' Chapter='1' Verse='15' WordSequence='6' >בִּשְׁנַ֥ת</Word>
 <Word Book='Khagay' Chapter='1' Verse='15' WordSequence='7' >שְׁתַּ֖יִם</Word>
 <Word Book='Khagay' Chapter='1' Verse='15' WordSequence='8' >לְדָרְיָ֥וֶשׁ</Word>
-<Word Book='Khagay' EndPerekAfterWord='true' Chapter='1' Verse='15' WordSequence='9' >הַמֶּֽלֶךְ</Word>
-<Word Book='Khagay' StartPerekBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>בַּשְּׁבִיעִ֕י</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='1' Verse='15' WordSequence='9'>הַמֶּֽלֶךְ</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='2' Verse='1' WordSequence='1'>בַּשְּׁבִיעִ֕י</Word>
 <Word Book='Khagay' Chapter='2' Verse='1' WordSequence='2' >בְּעֶשְׂרִ֥ים</Word>
 <Word Book='Khagay' Chapter='2' Verse='1' WordSequence='3' >וְאֶחָ֖ד</Word>
 <Word Book='Khagay' Chapter='2' Verse='1' WordSequence='4' >לַחֹ֑דֶשׁ</Word>
@@ -321,8 +321,8 @@
 <Word Book='Khagay' Chapter='2' Verse='5' WordSequence='9' >עֹמֶ֣דֶת</Word>
 <Word Book='Khagay' Chapter='2' Verse='5' WordSequence='10' >בְּתוֹכְכֶ֑ם</Word>
 <Word Book='Khagay' Chapter='2' Verse='5' WordSequence='11' >אַל־</Word>
-<Word Book='Khagay' Chapter='2' Verse='5' WordSequence='12' >תִּירָֽאוּ</Word>
-<Word Book='Khagay' Chapter='2' Verse='6' WordSequence='1' >כִּ֣י</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='2' Verse='5' WordSequence='12' >תִּירָֽאוּ</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='2' Verse='6' WordSequence='1' IsParashaPtuchah='true' >כִּ֣י</Word>
 <Word Book='Khagay' Chapter='2' Verse='6' WordSequence='2' >כֹ֤ה</Word>
 <Word Book='Khagay' Chapter='2' Verse='6' WordSequence='3' >אָמַר֙</Word>
 <Word Book='Khagay' Chapter='2' Verse='6' WordSequence='4' >יְהוָ֣ה</Word>
@@ -381,8 +381,8 @@
 <Word Book='Khagay' Chapter='2' Verse='9' WordSequence='15' >שָׁל֔וֹם</Word>
 <Word Book='Khagay' Chapter='2' Verse='9' WordSequence='16' >נְאֻ֖ם</Word>
 <Word Book='Khagay' Chapter='2' Verse='9' WordSequence='17' >יְהוָ֥ה</Word>
-<Word Book='Khagay' Chapter='2' Verse='9' WordSequence='18' IsParashaPtuchah='true' >צְבָאֽוֹת</Word>
-<Word Book='Khagay' Chapter='2' Verse='10' WordSequence='1' >בְּעֶשְׂרִ֤ים</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='2' Verse='9' WordSequence='18'>צְבָאֽוֹת</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='2' Verse='10' WordSequence='1' IsParashaPtuchah='true' >בְּעֶשְׂרִ֤ים</Word>
 <Word Book='Khagay' Chapter='2' Verse='10' WordSequence='2' >וְאַרְבָּעָה֙</Word>
 <Word Book='Khagay' Chapter='2' Verse='10' WordSequence='3' >לַתְּשִׁיעִ֔י</Word>
 <Word Book='Khagay' Chapter='2' Verse='10' WordSequence='4' >בִּשְׁנַ֥ת</Word>
@@ -541,8 +541,8 @@
 <Word Book='Khagay' Chapter='2' Verse='19' WordSequence='12' >מִן־</Word>
 <Word Book='Khagay' Chapter='2' Verse='19' WordSequence='13' >הַיּ֥וֹם</Word>
 <Word Book='Khagay' Chapter='2' Verse='19' WordSequence='14' >הַזֶּ֖ה</Word>
-<Word Book='Khagay' Chapter='2' Verse='19' WordSequence='15' >אֲבָרֵֽךְ</Word>
-<Word Book='Khagay' Chapter='2' Verse='20' WordSequence='1' >וַיְהִ֨י</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='2' Verse='19' WordSequence='15' >אֲבָרֵֽךְ</Word>
+<Word Book='Khagay' StartParashaBeforeWord='true' Chapter='2' Verse='20' WordSequence='1' IsParashaPtuchah='true' >וַיְהִ֨י</Word>
 <Word Book='Khagay' Chapter='2' Verse='20' WordSequence='2' >דְבַר־</Word>
 <Word Book='Khagay' Chapter='2' Verse='20' WordSequence='3' >יְהוָ֤ה׀</Word>
 <Word Book='Khagay' Chapter='2' Verse='20' WordSequence='4' >שֵׁנִית֙</Word>
@@ -599,5 +599,5 @@
 <Word Book='Khagay' Chapter='2' Verse='23' WordSequence='17' >בָחַ֔רְתִּי</Word>
 <Word Book='Khagay' Chapter='2' Verse='23' WordSequence='18' >נְאֻ֖ם</Word>
 <Word Book='Khagay' Chapter='2' Verse='23' WordSequence='19' >יְהוָ֥ה</Word>
-<Word Book='Khagay' EndPerekAfterWord='true' Chapter='2' Verse='23' WordSequence='20' >צְבָאֽוֹת</Word>
+<Word Book='Khagay' EndParashaAfterWord='true' Chapter='2' Verse='23' WordSequence='20'>צְבָאֽוֹת</Word>
 </Tanakh>
