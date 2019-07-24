@@ -1,10 +1,10 @@
 var fs = require('fs')
 
 
-fs.readdir('./all_tanach_in_json', (err, dataTxt) => {
+fs.readdir('../../JsonFiles', (err, dataTxt) => {
     if (err) throw err;
     for (var txt in dataTxt) {
-        var data = fs.readFileSync(`./all_tanach_in_json/${dataTxt[txt]}`)
+        var data = fs.readFileSync(`../../JsonFiles/${dataTxt[txt]}`)
 
         var newdata = JSON.parse(data)
 
@@ -81,7 +81,7 @@ fs.readdir('./all_tanach_in_json', (err, dataTxt) => {
         var FinalStatement = `<Tanakh>${'\n\r'}${stmt}</Tanakh>`
         var file = dataTxt[txt].replace(/\.[^\.]+$/, '.xml');
 
-        fs.writeFile(`./Tanach-xml/${file}`, FinalStatement, (err) => {
+        fs.writeFile(`../../XMLFilesProcessed/${file}`, FinalStatement, (err) => {
             if (err) throw err
         })
     }
