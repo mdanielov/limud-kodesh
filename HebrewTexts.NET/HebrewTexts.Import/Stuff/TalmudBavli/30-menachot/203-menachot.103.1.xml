@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:58.065560</dateCreated>
+   <lastModified>2016-08-04 11:57:58.065560</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="103">
+	<amud value="1">
+		<row row_number="1" isdata="1">אלא שקבען בשעת נדר אבל בשעת הפרשה</row>
+		<row row_number="2" isdata="1">לא כאשר נדרת ולא כאשר הפרשת איתמר</row>
+		<row row_number="3" isdata="1">נמי אמר רבי אחא בר חנינא אמר ר' אסי אמר</row>
+		<row row_number="4" isdata="1">רבי יוחנן לא שנו אלא שקבען בשעת נדר</row>
+		<row row_number="5" isdata="1">אבל בשעת הפרשה לא כאשר נדרת ולא</row>
+		<row row_number="6" isdata="1">כאשר הפרשת<EndGemara/><StartMishna/>: מתני' האומר הרי עלי</row>
+		<row row_number="7" isdata="1">מנחה מן השעורים יביא מן החטים קמח יביא</row>
+		<row row_number="8" isdata="1">סולת בלא שמן ובלא לבונה יביא שמן</row>
+		<row row_number="9" isdata="1">ולבונה חצי עשרון יביא עשרון שלם עשרון</row>
+		<row row_number="10" isdata="1">ומחצה יביא שנים רבי שמעון פוטר שלא</row>
+		<row row_number="11" isdata="1">התנדב כדרך המתנדבין: <EndMishna/><StartGemara/>גמ' אמאי נדר</row>
+		<row row_number="12" isdata="1">ופתחו עמו הוא אמר חזקיה הא מני בית</row>
+		<row row_number="13" isdata="1">שמאי היא דאמרי תפוס לשון ראשון דתנן</row>
+		<row row_number="14" isdata="1">הריני נזיר מן הגרוגרות ומן הדבילה ב"ש</row>
+		<row row_number="15" isdata="1">אומרים נזיר ובית הלל אומרים אינו נזיר ר'</row>
+		<row row_number="16" isdata="1">יוחנן אמר אפי' תימא בית הלל באומר אילו</row>
+		<row row_number="17" isdata="1">הייתי יודע שאין נודרין כך לא הייתי נודר כך</row>
+		<row row_number="18" isdata="1">אלא כך אמר חזקיה לא שנו אלא דאמר</row>
+		<row row_number="19" isdata="1">מנחה מן השעורים אבל אמר מנחה מן</row>
+		<row row_number="20" isdata="1">העדשים לא מכדי חזקיה כמאן אמר</row>
+		<row row_number="21" isdata="1">לשמעתיה כבית שמאי ובית שמאי משום</row>
+		<row row_number="22" isdata="1">תפוס לשון ראשון הוא מה לי מן השעורין מה</row>
+		<row row_number="23" isdata="1">לי מן העדשים הדר ביה ומאי טעמא הדר ביה</row>
+		<row row_number="24" isdata="1">אמר רבא מתני' קשיתי' מאי איריא דתני</row>
+		<row row_number="25" isdata="1">מנחה מן השעורים ליתני מן העדשים אלא</row>
+		<row row_number="26" isdata="1">שמע מינה משום דטעי הוא בשעורים טעי</row>
+		<row row_number="27" isdata="1">בעדשים לא טעי ורבי יוחנן אמר אפילו מן</row>
+		<row row_number="28" isdata="1">העדשים מכדי ר' יוחנן כמאן אמרה לשמעתיה</row>
+		<row row_number="29" isdata="1">כבית הלל וב"ה משום דטעי הוא בשעורין</row>
+		<row row_number="30" isdata="1">טעי בעדשים לא טעי לדבריו דחזקיה קאמר</row>
+		<row row_number="31" isdata="1">ליה את מאי טעמא הדרת בך משום דלא</row>
+		<row row_number="32" isdata="1">קתני מן העדשים דלמא לא מיבעיא קאמר</row>
+		<row row_number="33" isdata="1">לא מיבעיא מן העדשים דאיכא למימר מהדר</row>
+		<row row_number="34" isdata="1">הוא דהדר ביה ותפוס לשון ראשון אלא</row>
+		<row row_number="35" isdata="1">אפי' מן השעורין נמי דאיכא למימר מיטעא</row>
+		<row row_number="36" isdata="1">הוא דקא טעי אפי' הכי תפוס לשון ראשון</row>
+		<row row_number="37" isdata="0">אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:38.681019</dateCreated>
+   <lastModified>2016-08-04 11:56:38.681019</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="84">
+	<amud value="2">
+		<row row_number="1" isdata="1">תא שמע שתי גזוזטראות זו למעלה מזו עשו</row>
+		<row row_number="2" isdata="1">לעליונה ולא עשו לתחתונה שתיהן אסורות</row>
+		<row row_number="3" isdata="1">עד שיערבו אמר רב אדא בר אהבה בבאין</row>
+		<row row_number="4" isdata="1">בני תחתונה דרך עליונה למלאות אביי אמר</row>
+		<row row_number="5" isdata="1">כגון דקיימין בתוך עשרה דהדדי ולא מיבעיא</row>
+		<row row_number="6" isdata="1">קאמר לא מיבעיא עשו לתחתונה ולא עשו</row>
+		<row row_number="7" isdata="1">לעליונה דאסירי דכיון דבגו י' דהדדי קיימין</row>
+		<row row_number="8" isdata="1">אסרן אהדדי אלא אפילו עשו לעליונה ולא</row>
+		<row row_number="9" isdata="1">עשו לתחתונה סד"א כיון דלזה בנחת ולזה</row>
+		<row row_number="10" isdata="1">בקשה ליתביה לזה שתשמישו בנחת קמ"ל</row>
+		<row row_number="11" isdata="1">כיון דבגו עשרה קיימין אסרן אהדדי כי הא</row>
+		<row row_number="12" isdata="1">דאמר רב נחמן אמר שמואל גג הסמוך לרה"ר</row>
+		<row row_number="13" isdata="1">צריך סולם קבוע להתירו סולם קבוע אין</row>
+		<row row_number="14" isdata="1">סולם עראי לא מ"ט לאו משום דכיון דבתוך</row>
+		<row row_number="15" isdata="1">עשרה דהדדי קיימי אסרן אהדדי מתקיף לה</row>
+		<row row_number="16" isdata="1">רב פפא ודילמא כשרבים מכתפין עליו</row>
+		<row row_number="17" isdata="1">בכומתא וסודרא אמר רב יהודה אמר שמואל</row>
+		<row row_number="18" isdata="0">בור</row>
+</amud>
+</daf>
+</masechet>
+</root>

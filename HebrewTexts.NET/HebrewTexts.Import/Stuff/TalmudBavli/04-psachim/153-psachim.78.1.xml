@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:42.760253</dateCreated>
+   <lastModified>2016-08-04 11:56:42.761253</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="78">
+	<amud value="1">
+		<row row_number="1" isdata="1">אלא לא קשיא כאן ביחיד כאן בציבור</row>
+		<row row_number="2" isdata="1">נימא מתני' דלא כר' יוסי דתניא ר"א אומר</row>
+		<row row_number="3" isdata="1">הציץ מרצה על אכילות רבי יוסי אומר אין</row>
+		<row row_number="4" isdata="1">הציץ מרצה על אכילות קס"ד מדקאמר ר'</row>
+		<row row_number="5" isdata="1">יוסי אין הציץ מרצה על אכילות כר' יהושע</row>
+		<row row_number="6" isdata="1">ס"ל דאמר בעינן תרתי נימא השתא מתני'</row>
+		<row row_number="7" isdata="1">דלא כר' יוסי לא רבי יוסי כר"א ס"ל דאמר</row>
+		<row row_number="8" isdata="1">דם אע"פ שאין בשר אי הכי למאי הלכתא</row>
+		<row row_number="9" isdata="1">אין הציץ מרצה על אכילות וליטעמיך ר"א</row>
+		<row row_number="10" isdata="1">דאמר הציץ מרצה כיון דאמר דם אע"פ</row>
+		<row row_number="11" isdata="1">שאין בשר הציץ מרצה על אכילות למאי</row>
+		<row row_number="12" isdata="1">הלכתא אלא למיקבעיה בפיגול ולאפוקי</row>
+		<row row_number="13" isdata="1">מידי מעילה קמיפלגי רבי אליעזר סבר</row>
+		<row row_number="14" isdata="1">מרצה ציץ עילויה ומשוי ליה כטהור וקבע</row>
+		<row row_number="15" isdata="1">ליה בפיגול ומפיק ליה מידי מעילה ור' יוסי</row>
+		<row row_number="16" isdata="1">סבר לא מרצה ציץ עילויה ולא משוי ליה</row>
+		<row row_number="17" isdata="1">כטהור ולא קבע ליה בפיגול ולא מפיק ליה</row>
+		<row row_number="18" isdata="1">מידי מעילה מתקיף לה רב מרי נהי נמי</row>
+		<row row_number="19" isdata="1">דרבי יוסי סבר כר"א בשלמא זבחים איכא</row>
+		<row row_number="20" isdata="1">דם עומר נמי איכא קומץ לחם הפנים נמי</row>
+		<row row_number="21" isdata="1">איכא בזיכין אלא שתי הלחם מאי איכא</row>
+		<row row_number="22" isdata="1">למימר וכ"ת לקרב עמהן היינו שלמי ציבור</row>
+		<row row_number="23" isdata="1">א"כ הוו להו ארבעה ואנן חמשה תנן אלא</row>
+		<row row_number="24" isdata="1">קסבר רבי יוסי טומאה הותרה בציבור והא</row>
+		<row row_number="25" isdata="1">תניא אחד זה ואחד זה מזין עליו כל שבעה</row>
+		<row row_number="26" isdata="1">מכל חטאות שהיו שם דברי רבי מאיר רבי יוסי אומר אין מזין עליו אלא</row>
+		<row row_number="27" isdata="1">שלישי ושביעי בלבד ואי סלקא דעתך קסבר רבי יוסי טומאה הותרה</row>
+		<row row_number="28" isdata="1">בציבור למה לי הזאה כלל אלא מחוורתא מתני' דלא כרבי יוסי א"ל רב</row>
+		<row row_number="29" isdata="1">פפא לאביי ורבי יוסי שטרא מזכי לבי תרי הוא דתניא א"ר יוסי רואה אני</row>
+		<row row_number="30" isdata="1">את דברי רבי אליעזר בזבחים ודברי רבי יהושע בזבחים ודברי רבי אליעזר</row>
+		<row row_number="31" isdata="1">במנחות ודברי רבי יהושע במנחות דברי רבי אליעזר בזבחים שהיה אומר</row>
+		<row row_number="32" isdata="1">דם אע"פ שאין בשר דברי רבי יהושע בזבחים שהיה אומר אם אין דם אין</row>
+		<row row_number="33" isdata="1">בשר אם אין בשר אין דם דברי רבי אליעזר במנחות שהיה אומר קומץ</row>
+		<row row_number="34" isdata="1">אע"פ שאין שם שירים ודברי רבי יהושע במנחות שהיה אומר אם אין</row>
+		<row row_number="35" isdata="1">שם שירים אין קומץ אם אין קומץ אין שירים א"ל מסתברא קאמר כי קאי</row>
+		<row row_number="36" isdata="1">בזבחים אמר מסתברא כי היכי דפליגי בזבחים פליגי נמי במנחות קאי</row>
+		<row row_number="37" isdata="1">במנחות אמר מסתברא כי היכי דפליגי במנחות פליגי נמי בזבחים א"ל</row>
+		<row row_number="38" isdata="1">התינח כי קאי בזבחים אמר מסתברא כי היכי דפליגי בזבחים פליגי נמי</row>
+		<row row_number="39" isdata="1">במנחות דעיקר קראי כי כתיבי בזבחים כתיבי אלא כי קאי במנחות ואמר</row>
+		<row row_number="40" isdata="1">מסתברא כי היכי דפליגי במנחות פליגי נמי בזבחים והא עיקר קראי</row>
+		<row row_number="41" isdata="1">בזבחים הוא דכתיבי אלא לא קשיא רואה אני את דברי ר' אליעזר בנטמא</row>
+		<row row_number="42" isdata="1">ודברי רבי יהושע באבוד ושרוף בנטמא מ"ט משום דמרצי ציץ הא שמעת</row>
+		<row row_number="43" isdata="1">ליה לרבי יוסי דאמר אין הציץ מרצה על אכילות אלא לא קשיא רואה אני</row>
+		<row row_number="44" isdata="1">את דברי רבי אליעזר בציבור רואה אני את דברי רבי יהושע ביחיד בציבור</row>
+		<row row_number="45" isdata="1">מ"ט משום דטומאה הותרה בציבור חדא דשמעת ליה לר' יוסי דאמר טומאה</row>
+		<row row_number="46" isdata="1">דחויה היא בציבור ועוד אי בציבור רבי אליעזר מכשיר ולא רבי יהושע</row>
+		<row row_number="47" isdata="0">הא</row>
+</amud>
+</daf>
+</masechet>
+</root>

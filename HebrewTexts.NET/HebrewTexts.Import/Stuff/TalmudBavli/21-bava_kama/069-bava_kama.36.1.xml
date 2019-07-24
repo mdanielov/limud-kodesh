@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:22.005497</dateCreated>
+   <lastModified>2016-08-04 11:57:22.005497</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="36">
+	<amud value="1">
+		<row row_number="1" isdata="1">ראוי ליטול ואין לו והתניא הרי זה משתלם</row>
+		<row row_number="2" isdata="1">לקטן מן המועד ולגדול מן התם דתפס: היו</row>
+		<row row_number="3" isdata="1">שניהם של איש אחד שניהם חייבים: א"ל</row>
+		<row row_number="4" isdata="1">רבא מפרזיקא לרב אשי ש"מ שוורים תמים</row>
+		<row row_number="5" isdata="1">שהזיקו רצה מזה גובה רצה מזה גובה הכא</row>
+		<row row_number="6" isdata="1">במאי עסקינן במועדין אי במועדין אימא סיפא</row>
+		<row row_number="7" isdata="1">היה אחד גדול ואחד קטן הניזק אומר גדול</row>
+		<row row_number="8" isdata="1">הזיק והמזיק אומר לא כי אלא קטן הזיק</row>
+		<row row_number="9" isdata="1">המוציא מחבירו עליו הראיה אי במועדין מאי</row>
+		<row row_number="10" isdata="1">נפקא ליה מיניה סוף סוף דמי תורא</row>
+		<row row_number="11" isdata="1">מעליא בעי לשלומי א"ל סיפא בתמין ורישא</row>
+		<row row_number="12" isdata="1">במועדין א"ל רב אחא סבא לרב אשי אי</row>
+		<row row_number="13" isdata="1">במועדין חייבים חייב גברא מיבעי ליה ותו</row>
+		<row row_number="14" isdata="1">מאי שניהם אלא לעולם בתמין ורבי עקיבא</row>
+		<row row_number="15" isdata="1">היא דאמר שותפין נינהו וטעמא דאיתנהו</row>
+		<row row_number="16" isdata="1">לתרוייהו דלא מצי מדחי ליה אבל ליתנהו</row>
+		<row row_number="17" isdata="1">לתרוייהו מצי אמר ליה זיל אייתי ראיה דהאי</row>
+		<row row_number="18" isdata="1">תורא אזקך ואשלם לך:<EndChapter name = "המניח"/><EndGemara/></row>
+		<row row_number="19" isdata="0">הדרן עלך המניח</row>
+		<row row_number="20" isdata="1"><StartChapter name = "שור שנגח ארבעה וחמשה"/><StartMishna/>שור  שנגח ארבעה וחמשה שוורים זה אחר</row>
+		<row row_number="21" isdata="1">זה ישלם לאחרון שבהם ואם יש בו</row>
+		<row row_number="22" isdata="1">מותר יחזיר לשלפניו ואם יש בו מותר יחזיר</row>
+		<row row_number="23" isdata="1">לשלפני פניו והאחרון אחרון נשכר דברי ר"מ</row>
+		<row row_number="24" isdata="1">רבי שמעון אומר שור שוה מאתים שנגח</row>
+		<row row_number="25" isdata="1">לשור שוה מאתים ואין הנבלה יפה כלום זה</row>
+		<row row_number="26" isdata="1">נוטל מנה וזה נוטל מנה חזר ונגח שור אחר</row>
+		<row row_number="27" isdata="1">שוה מאתים האחרון נוטל מנה ושלפניו זה</row>
+		<row row_number="28" isdata="1">נוטל חמשים זוז וזה נוטל חמשים זוז חזר ונגח</row>
+		<row row_number="29" isdata="1">שור אחר שוה מאתים האחרון נוטל מנה</row>
+		<row row_number="30" isdata="1">ושלפניו חמשים זוז ושנים הראשונים דינר</row>
+		<row row_number="31" isdata="1">זהב: <EndMishna/><StartGemara/>גמ' מתניתין מני דלא כר' ישמעאל</row>
+		<row row_number="32" isdata="1">ודלא כר' עקיבא אי כר' ישמעאל דאמר</row>
+		<row row_number="33" isdata="1">בעלי חובות נינהו האי אחרון אחרון נשכר</row>
+		<row row_number="34" isdata="1">ראשון ראשון נשכר מבעי ליה אי כר' עקיבא</row>
+		<row row_number="35" isdata="1">דאמר תורא דשותפי הוא האי יש בו מותר</row>
+		<row row_number="36" isdata="0">יחזיר</row>
+</amud>
+</daf>
+</masechet>
+</root>

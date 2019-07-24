@@ -1,0 +1,2538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="HebrewTextsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="ContentGroups">
+          <Key>
+            <PropertyRef Name="GroupID" />
+          </Key>
+          <Property Name="GroupID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GroupType" Type="int" />
+          <Property Name="GroupName" Type="nvarchar" MaxLength="50" />
+          <Property Name="SequenceNumber" Type="int" />
+          <Property Name="SequenceNumberByRootGroup" Type="int" />
+          <Property Name="ParentGroupID" Type="int" />
+          <Property Name="XMLData" Type="xml" />
+          <Property Name="RoutePriority" Type="int" />
+          <Property Name="NextGroupIDInLevel" Type="int" />
+          <Property Name="RootGroupID" Type="int" />
+          <Property Name="KeyWordIndex" Type="nvarchar" MaxLength="50" />
+          <Property Name="VersionID" Type="int" />
+        </EntityType>
+        <EntityType Name="ContentOtherVersions">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MainContentID" Type="bigint" Nullable="false" />
+          <Property Name="VersionSourceID" Type="int" Nullable="false" />
+          <Property Name="VersionOperation" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="SequenceNumber" Type="int" Nullable="false" />
+          <Property Name="Content" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="ContentToAlternateGroups">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GroupID" Type="int" Nullable="false" />
+          <Property Name="FromContentID" Type="bigint" Nullable="false" />
+          <Property Name="ToContentID" Type="bigint" Nullable="false" />
+          <Property Name="VersionID" Type="int" />
+        </EntityType>
+        <EntityType Name="GroupsAndDividingTypes">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Description" Type="nvarchar(max)" />
+          <Property Name="GroupLevel" Type="int" />
+          <Property Name="XMLData" Type="xml" />
+          <Property Name="KeyWordIndex" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Letters_Ref">
+          <Key>
+            <PropertyRef Name="LetterID" />
+          </Key>
+          <Property Name="LetterID" Type="int" Nullable="false" />
+          <Property Name="Letter" Type="nvarchar" MaxLength="1" Nullable="false" />
+          <Property Name="NumericValue" Type="int" />
+        </EntityType>
+        <EntityType Name="MainContent">
+          <Key>
+            <PropertyRef Name="MainContentID" />
+          </Key>
+          <Property Name="MainContentID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GroupID" Type="int" Nullable="false" />
+          <Property Name="SequenceNumber" Type="int" Nullable="false" />
+          <Property Name="RootGroupID" Type="int" />
+          <Property Name="SequenceNumberByRootGroup" Type="int" />
+          <Property Name="Content" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="LargeContent" Type="nvarchar(max)" />
+          <Property Name="VersionSourceID" Type="int" />
+          <Property Name="NextContentID" Type="int" />
+          <Property Name="KeyWordIndex" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Niqqud_Ref">
+          <Key>
+            <PropertyRef Name="NiqqudID" />
+          </Key>
+          <Property Name="NiqqudID" Type="int" Nullable="false" />
+          <Property Name="Niqqud" Type="nvarchar" MaxLength="1" Nullable="false" />
+          <Property Name="NiqqudName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Comments" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="SetContentLog">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GrpupID" Type="int" Nullable="false" />
+          <Property Name="FullContent" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Status" Type="nvarchar" MaxLength="50" />
+          <Property Name="AddedRecordDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TanakhCharacters">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MainContentID" Type="bigint" Nullable="false" />
+          <Property Name="SequenceNumber" Type="int" Nullable="false" />
+          <Property Name="LetterID" Type="int" Nullable="false" />
+          <Property Name="NiqqudID" Type="int" />
+          <Property Name="TaamID" Type="int" />
+        </EntityType>
+        <EntityType Name="TextVersionSources">
+          <Key>
+            <PropertyRef Name="VersionSourceID" />
+          </Key>
+          <Property Name="VersionSourceID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" />
+          <Property Name="Description" Type="nvarchar(max)" />
+          <Property Name="Comments" Type="nvarchar(max)" />
+          <Property Name="BookPublishing" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="__RefactorLog">
+          <Key>
+            <PropertyRef Name="OperationKey" />
+          </Key>
+          <Property Name="OperationKey" Type="uniqueidentifier" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Books">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="DistinctWords">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Word" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="Taamim_Ref">
+          <Key>
+            <PropertyRef Name="TaamID" />
+          </Key>
+          <Property Name="TaamID" Type="int" Nullable="false" />
+          <Property Name="Taam" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="TaamName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Comments" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="Tanakh">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="BookID" Type="int" Nullable="false" />
+          <Property Name="Chapter" Type="int" Nullable="false" />
+          <Property Name="Verse" Type="int" Nullable="false" />
+          <Property Name="Content" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="NetContent" Type="nvarchar(max)" />
+          <Property Name="TextOnly" Type="nvarchar(max)" />
+          <Property Name="NewBookID" Type="int" />
+        </EntityType>
+        <EntityType Name="WordsInTanakh">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Word" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="WordWithNiqqud" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="VerseID" Type="int" Nullable="false" />
+          <Property Name="SequenceNumber" Type="int" />
+        </EntityType>
+        <EntityType Name="RawImportStuffs">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GroupSequenceLevel1" Type="int" />
+          <Property Name="GroupSequenceLevel2" Type="int" />
+          <Property Name="GroupSequenceLevel3" Type="int" />
+          <Property Name="Content" Type="nvarchar(max)" />
+          <Property Name="Description" Type="nvarchar(max)" />
+          <Property Name="Source" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="TalmudBavliRawImport">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GeneralSequenceNumber" Type="bigint" />
+          <Property Name="Masechet" Type="nvarchar" MaxLength="4000" />
+          <Property Name="DafNumber" Type="int" />
+          <Property Name="AmudNumber" Type="int" />
+          <Property Name="RowNumber" Type="int" />
+          <Property Name="Content" Type="nvarchar(max)" />
+          <Property Name="StartMishnaPosition" Type="int" />
+          <Property Name="EndMishnaPosition" Type="int" />
+          <Property Name="StartGemaraPosition" Type="int" />
+          <Property Name="EndGemaraPosition" Type="int" />
+          <Property Name="StartChapterName" Type="nvarchar" MaxLength="50" />
+          <Property Name="KeyWordIndex" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupID" Type="int" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'HebrewTexts.Import.TalmudBavliWords' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="TalmudBavliWords">
+          <Key>
+            <PropertyRef Name="KeyWordIndex" />
+            <PropertyRef Name="RootGroupID" />
+          </Key>
+          <Property Name="KeyWordIndex" Type="nvarchar" MaxLength="75" Nullable="false" />
+          <Property Name="Word" Type="nvarchar(max)" />
+          <Property Name="SequenceNumber" Type="bigint" />
+          <Property Name="RootGroupID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CommonExpressions">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="ExpressionWords" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CommonExpressionsToGroups">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CommonExpressionID" Type="int" />
+          <Property Name="GroupID" Type="int" />
+        </EntityType>
+        <EntityType Name="ConceptsDictionary">
+          <Key>
+            <PropertyRef Name="ConceptDictionaryID" />
+          </Key>
+          <Property Name="ConceptDictionaryID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ConceptRootWord" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Description" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="ConceptsDictionaryMeanings">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ConceptDictionaryID" Type="int" Nullable="false" />
+          <Property Name="Meaning" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Comment" Type="nvarchar(max)" />
+          <Property Name="AddedDate" Type="datetime" />
+        </EntityType>
+        <EntityType Name="ConceptsDictionaryMeaningsToGroups">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="ConceptsDictionaryMeaningID" Type="int" Nullable="false" />
+          <Property Name="GroupID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ContentPatterns">
+          <Key>
+            <PropertyRef Name="ContentPatternID" />
+          </Key>
+          <Property Name="ContentPatternID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="PatternFormula" Type="nvarchar(max)" />
+          <Property Name="PatternDescription" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="ContentPatternsToGroups">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ContentPatternID" Type="int" Nullable="false" />
+          <Property Name="GroupID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ContentTypes_Ref">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar(max)" />
+          <Property Name="Description" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="RelationsBetweenCommonExpressions">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FromCommonExpressionID" Type="int" Nullable="false" />
+          <Property Name="ToCommonExpressionID" Type="int" Nullable="false" />
+          <Property Name="RelationType" Type="int" Nullable="false" />
+          <Property Name="RelationDescription" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="RelationTypesBetweenCommonExpressions_Ref">
+          <Key>
+            <PropertyRef Name="RelationTypeID" />
+          </Key>
+          <Property Name="RelationTypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" />
+          <Property Name="Description" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="RootWordForms">
+          <Key>
+            <PropertyRef Name="RootWordFormID" />
+          </Key>
+          <Property Name="RootWordFormID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RootWordID" Type="int" Nullable="false" />
+          <Property Name="WordForm" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Comment" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="RootWords">
+          <Key>
+            <PropertyRef Name="RootWordID" />
+          </Key>
+          <Property Name="RootWordID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RootWord" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Comment" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="RootWordsToContent">
+          <Key>
+            <PropertyRef Name="RootWordsToContentID" />
+          </Key>
+          <Property Name="RootWordsToContentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RootWordID" Type="int" Nullable="false" />
+          <Property Name="MainContentID" Type="bigint" Nullable="false" />
+          <Property Name="Comment" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="WordsDictionary">
+          <Key>
+            <PropertyRef Name="WordID" />
+          </Key>
+          <Property Name="WordID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Word" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Comment" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="WordsRelations">
+          <Key>
+            <PropertyRef Name="WordsRelationID" />
+          </Key>
+          <Property Name="WordsRelationID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FromWordID" Type="int" Nullable="false" />
+          <Property Name="ToWordID" Type="int" Nullable="false" />
+          <Property Name="RelationType" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Comment" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="Personalities">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar(max)" />
+          <Property Name="BornHebrewYear" Type="int" />
+          <Property Name="DeathHebrewYear" Type="int" />
+          <Property Name="LivingArea" Type="nvarchar(max)" />
+          <Property Name="StudyPlace" Type="nvarchar(max)" />
+          <Property Name="Description" Type="nvarchar(max)" />
+          <Property Name="Comments" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="PersonalitiesInstancesInContent">
+          <Key>
+            <PropertyRef Name="InstanceID" />
+          </Key>
+          <Property Name="InstanceID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="PersonalityID" Type="int" Nullable="false" />
+          <Property Name="ContentID" Type="int" />
+          <Property Name="GroupID" Type="int" />
+        </EntityType>
+        <EntityType Name="RelationsBetweenPersonalities">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FromPersonID" Type="int" Nullable="false" />
+          <Property Name="ToPersonID" Type="int" Nullable="false" />
+          <Property Name="RelationType" Type="int" Nullable="false" />
+          <Property Name="Description" Type="nvarchar(max)" />
+          <Property Name="FromHebrewYear" Type="int" />
+          <Property Name="ToHebrewYear" Type="int" />
+        </EntityType>
+        <EntityType Name="RelationsSources">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RelationID" Type="int" Nullable="false" />
+          <Property Name="GroupSourceID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="RelationsBetweenGroups">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="FromGroupID" Type="int" Nullable="false" />
+          <Property Name="ToGroupID" Type="int" Nullable="false" />
+          <Property Name="RelationType" Type="int" Nullable="false" />
+          <Property Name="Description" Type="nvarchar(max)" />
+          <Property Name="Comment" Type="nvarchar(max)" />
+          <Property Name="XMLData" Type="xml" />
+        </EntityType>
+        <EntityType Name="GroupsProperties">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="GroupID" Type="int" Nullable="false" />
+          <Property Name="PropertyName" Type="nvarchar" MaxLength="4000" />
+          <Property Name="PropertyValue" Type="nvarchar(max)" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6005: The data type 'hierarchyid' is currently not supported for the target Entity Framework version; the column 'Hierarchy' in the table 'HebrewTexts.Contents.GroupsPositions' was excluded.
+warning 6013: The table/view 'HebrewTexts.Contents.GroupsPositions' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="GroupsPositions">
+          <Property Name="GroupID" Type="int" />
+          <Property Name="GroupType" Type="int" />
+          <Property Name="ParentGroupID" Type="int" />
+          <Property Name="Path" Type="nvarchar(max)" />
+          <Property Name="Total" Type="nvarchar(max)" />
+          <Property Name="PositionInTree" Type="int" />
+          <Property Name="SequenceNumber" Type="int" />
+          <Property Name="ParentSequenceNumber" Type="int" />
+          <Property Name="NextGroupIDInLevel" Type="int" />
+        </EntityType>-->
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'HebrewTexts.Contents.MainContentWithGroupsLevels' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="MainContentWithGroupsLevels">
+          <Key>
+            <PropertyRef Name="MainContentID" />
+            <PropertyRef Name="GroupID" />
+            <PropertyRef Name="SequenceNumber" />
+            <PropertyRef Name="Content" />
+          </Key>
+          <Property Name="MainContentID" Type="bigint" Nullable="false" />
+          <Property Name="GroupID" Type="int" Nullable="false" />
+          <Property Name="SequenceNumber" Type="int" Nullable="false" />
+          <Property Name="RootGroupID" Type="int" />
+          <Property Name="SequenceNumberByRootGroup" Type="int" />
+          <Property Name="Content" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="LargeContent" Type="nvarchar(max)" />
+          <Property Name="VersionID" Type="int" />
+          <Property Name="NextContentID" Type="int" />
+          <Property Name="KeyWordIndex" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupTypeLevel1" Type="int" />
+          <Property Name="GroupTypeNameLevel1" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupSequenceLevel1" Type="int" />
+          <Property Name="GroupKeyWordIndexLevel1" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupNameLevel1" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupIDLevel2" Type="int" />
+          <Property Name="GroupTypeLevel2" Type="int" />
+          <Property Name="GroupTypeNameLevel2" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupSequenceLevel2" Type="int" />
+          <Property Name="GroupKeyWordIndexLevel2" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupNameLevel2" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupIDLevel3" Type="int" />
+          <Property Name="GroupTypeLevel3" Type="int" />
+          <Property Name="GroupTypeNameLevel3" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupSequenceLevel3" Type="int" />
+          <Property Name="GroupKeyWordIndexLevel3" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupNameLevel3" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupIDLevel4" Type="int" />
+          <Property Name="GroupTypeLevel4" Type="int" />
+          <Property Name="GroupTypeNameLevel4" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupSequenceLevel4" Type="int" />
+          <Property Name="GroupKeyWordIndexLevel4" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupNameLevel4" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupIDLevel5" Type="int" />
+          <Property Name="GroupTypeLevel5" Type="int" />
+          <Property Name="GroupTypeNameLevel5" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupSequenceLevel5" Type="int" />
+          <Property Name="GroupKeyWordIndexLevel5" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupNameLevel5" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupIDLevel6" Type="int" />
+          <Property Name="GroupTypeLevel6" Type="int" />
+          <Property Name="GroupTypeNameLevel6" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupSequenceLevel6" Type="int" />
+          <Property Name="GroupKeyWordIndexLevel6" Type="nvarchar" MaxLength="50" />
+          <Property Name="GroupNameLevel6" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_CommonExpressionsToGroups_ToCommonExpressions">
+          <End Role="CommonExpressions" Type="Self.CommonExpressions" Multiplicity="0..1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="CommonExpressionsToGroups" Type="Self.CommonExpressionsToGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CommonExpressions">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="CommonExpressionsToGroups">
+              <PropertyRef Name="CommonExpressionID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CommonExpressionsToGroups_ToContentGroups">
+          <End Role="ContentGroups" Type="Self.ContentGroups" Multiplicity="0..1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="CommonExpressionsToGroups" Type="Self.CommonExpressionsToGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroups">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="CommonExpressionsToGroups">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConceptsDictionaryMeanings_ToConceptsDictionary">
+          <End Role="ConceptsDictionary" Type="Self.ConceptsDictionary" Multiplicity="1" />
+          <End Role="ConceptsDictionaryMeanings" Type="Self.ConceptsDictionaryMeanings" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ConceptsDictionary">
+              <PropertyRef Name="ConceptDictionaryID" />
+            </Principal>
+            <Dependent Role="ConceptsDictionaryMeanings">
+              <PropertyRef Name="ConceptDictionaryID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings">
+          <End Role="ConceptsDictionaryMeanings" Type="Self.ConceptsDictionaryMeanings" Multiplicity="1" />
+          <End Role="ConceptsDictionaryMeaningsToGroups" Type="Self.ConceptsDictionaryMeaningsToGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ConceptsDictionaryMeanings">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="ConceptsDictionaryMeaningsToGroups">
+              <PropertyRef Name="ConceptsDictionaryMeaningID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Content_ToContentGroups">
+          <End Role="ContentGroups" Type="Self.ContentGroups" Multiplicity="1" />
+          <End Role="MainContent" Type="Self.MainContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroups">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="MainContent">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Content_ToVersions">
+          <End Role="TextVersionSources" Type="Self.TextVersionSources" Multiplicity="0..1" />
+          <End Role="MainContent" Type="Self.MainContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TextVersionSources">
+              <PropertyRef Name="VersionSourceID" />
+            </Principal>
+            <Dependent Role="MainContent">
+              <PropertyRef Name="VersionSourceID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentGroups_ToGroupsAndDividingTypes">
+          <End Role="GroupsAndDividingTypes" Type="Self.GroupsAndDividingTypes" Multiplicity="0..1" />
+          <End Role="ContentGroups" Type="Self.ContentGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GroupsAndDividingTypes">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="ContentGroups">
+              <PropertyRef Name="GroupType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentOtherVersions_ToMainContent">
+          <End Role="MainContent" Type="Self.MainContent" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="ContentOtherVersions" Type="Self.ContentOtherVersions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="ContentOtherVersions">
+              <PropertyRef Name="MainContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentPatternsToGroups_ToContentGroups">
+          <End Role="ContentGroups" Type="Self.ContentGroups" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="ContentPatternsToGroups" Type="Self.ContentPatternsToGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroups">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="ContentPatternsToGroups">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentPatternsToGroups_ToContentPatterns">
+          <End Role="ContentPatterns" Type="Self.ContentPatterns" Multiplicity="1" />
+          <End Role="ContentPatternsToGroups" Type="Self.ContentPatternsToGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentPatterns">
+              <PropertyRef Name="ContentPatternID" />
+            </Principal>
+            <Dependent Role="ContentPatternsToGroups">
+              <PropertyRef Name="ContentPatternID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentToAlternateGroups_ToContent">
+          <End Role="MainContent" Type="Self.MainContent" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="ContentToAlternateGroups" Type="Self.ContentToAlternateGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="ContentToAlternateGroups">
+              <PropertyRef Name="FromContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentToAlternateGroups_ToContent2">
+          <End Role="MainContent" Type="Self.MainContent" Multiplicity="1" />
+          <End Role="ContentToAlternateGroups" Type="Self.ContentToAlternateGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="ContentToAlternateGroups">
+              <PropertyRef Name="ToContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentToAlternateGroups_ToContentGroups">
+          <End Role="ContentGroups" Type="Self.ContentGroups" Multiplicity="1" />
+          <End Role="ContentToAlternateGroups" Type="Self.ContentToAlternateGroups" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroups">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="ContentToAlternateGroups">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GroupsProperties_ToGroups">
+          <End Role="ContentGroups" Type="Self.ContentGroups" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="GroupsProperties" Type="Self.GroupsProperties" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroups">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="GroupsProperties">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_InstancesInContent_ToPersonalities">
+          <End Role="Personalities" Type="Self.Personalities" Multiplicity="1" />
+          <End Role="PersonalitiesInstancesInContent" Type="Self.PersonalitiesInstancesInContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Personalities">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="PersonalitiesInstancesInContent">
+              <PropertyRef Name="PersonalityID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsBetweenCommonExpressions_ToTable">
+          <End Role="RelationTypesBetweenCommonExpressions_Ref" Type="Self.RelationTypesBetweenCommonExpressions_Ref" Multiplicity="1" />
+          <End Role="RelationsBetweenCommonExpressions" Type="Self.RelationsBetweenCommonExpressions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RelationTypesBetweenCommonExpressions_Ref">
+              <PropertyRef Name="RelationTypeID" />
+            </Principal>
+            <Dependent Role="RelationsBetweenCommonExpressions">
+              <PropertyRef Name="RelationType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsBetweenPersonalities_ToPersons">
+          <End Role="Personalities" Type="Self.Personalities" Multiplicity="1" />
+          <End Role="RelationsBetweenPersonalities" Type="Self.RelationsBetweenPersonalities" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Personalities">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RelationsBetweenPersonalities">
+              <PropertyRef Name="FromPersonID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsBetweenPersonalities_ToPersons2">
+          <End Role="Personalities" Type="Self.Personalities" Multiplicity="1" />
+          <End Role="RelationsBetweenPersonalities" Type="Self.RelationsBetweenPersonalities" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Personalities">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RelationsBetweenPersonalities">
+              <PropertyRef Name="ToPersonID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsSources_ToContentGroups">
+          <End Role="ContentGroups" Type="Self.ContentGroups" Multiplicity="1" />
+          <End Role="RelationsSources" Type="Self.RelationsSources" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroups">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="RelationsSources">
+              <PropertyRef Name="GroupSourceID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsSources_ToRelations">
+          <End Role="RelationsBetweenPersonalities" Type="Self.RelationsBetweenPersonalities" Multiplicity="1" />
+          <End Role="RelationsSources" Type="Self.RelationsSources" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RelationsBetweenPersonalities">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RelationsSources">
+              <PropertyRef Name="RelationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RootWordForms_ToRootWord">
+          <End Role="RootWords" Type="Self.RootWords" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="RootWordForms" Type="Self.RootWordForms" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RootWords">
+              <PropertyRef Name="RootWordID" />
+            </Principal>
+            <Dependent Role="RootWordForms">
+              <PropertyRef Name="RootWordID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RootWordsToContent_ToMainContent">
+          <End Role="MainContent" Type="Self.MainContent" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="RootWordsToContent" Type="Self.RootWordsToContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="RootWordsToContent">
+              <PropertyRef Name="MainContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RootWordsToContent_ToRootWords">
+          <End Role="RootWords" Type="Self.RootWords" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="RootWordsToContent" Type="Self.RootWordsToContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RootWords">
+              <PropertyRef Name="RootWordID" />
+            </Principal>
+            <Dependent Role="RootWordsToContent">
+              <PropertyRef Name="RootWordID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TanakhCharacters_ToMainContent">
+          <End Role="MainContent" Type="Self.MainContent" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="TanakhCharacters" Type="Self.TanakhCharacters" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="TanakhCharacters">
+              <PropertyRef Name="MainContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordsRelations_ToWords">
+          <End Role="WordsDictionary" Type="Self.WordsDictionary" Multiplicity="1" />
+          <End Role="WordsRelations" Type="Self.WordsRelations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="WordsDictionary">
+              <PropertyRef Name="WordID" />
+            </Principal>
+            <Dependent Role="WordsRelations">
+              <PropertyRef Name="FromWordID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordsRelations_ToWords2">
+          <End Role="WordsDictionary" Type="Self.WordsDictionary" Multiplicity="1" />
+          <End Role="WordsRelations" Type="Self.WordsRelations" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="WordsDictionary">
+              <PropertyRef Name="WordID" />
+            </Principal>
+            <Dependent Role="WordsRelations">
+              <PropertyRef Name="ToWordID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="HebrewTextsModelStoreContainer">
+          <EntitySet Name="ContentGroups" EntityType="Self.ContentGroups" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="ContentOtherVersions" EntityType="Self.ContentOtherVersions" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="ContentToAlternateGroups" EntityType="Self.ContentToAlternateGroups" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="GroupsAndDividingTypes" EntityType="Self.GroupsAndDividingTypes" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="Letters_Ref" EntityType="Self.Letters_Ref" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="MainContent" EntityType="Self.MainContent" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="Niqqud_Ref" EntityType="Self.Niqqud_Ref" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="SetContentLog" EntityType="Self.SetContentLog" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="TanakhCharacters" EntityType="Self.TanakhCharacters" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="TextVersionSources" EntityType="Self.TextVersionSources" Schema="Contents" store:Type="Tables" />
+          <EntitySet Name="__RefactorLog" EntityType="Self.__RefactorLog" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Books" EntityType="Self.Books" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DistinctWords" EntityType="Self.DistinctWords" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Taamim_Ref" EntityType="Self.Taamim_Ref" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tanakh" EntityType="Self.Tanakh" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="WordsInTanakh" EntityType="Self.WordsInTanakh" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="RawImportStuffs" EntityType="Self.RawImportStuffs" Schema="Import" store:Type="Tables" />
+          <EntitySet Name="TalmudBavliRawImport" EntityType="Self.TalmudBavliRawImport" Schema="Import" store:Type="Tables" />
+          <EntitySet Name="CommonExpressions" EntityType="Self.CommonExpressions" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="CommonExpressionsToGroups" EntityType="Self.CommonExpressionsToGroups" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="ConceptsDictionary" EntityType="Self.ConceptsDictionary" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="ConceptsDictionaryMeanings" EntityType="Self.ConceptsDictionaryMeanings" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="ConceptsDictionaryMeaningsToGroups" EntityType="Self.ConceptsDictionaryMeaningsToGroups" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="ContentPatterns" EntityType="Self.ContentPatterns" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="ContentPatternsToGroups" EntityType="Self.ContentPatternsToGroups" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="ContentTypes_Ref" EntityType="Self.ContentTypes_Ref" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="RelationsBetweenCommonExpressions" EntityType="Self.RelationsBetweenCommonExpressions" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="RelationTypesBetweenCommonExpressions_Ref" EntityType="Self.RelationTypesBetweenCommonExpressions_Ref" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="RootWordForms" EntityType="Self.RootWordForms" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="RootWords" EntityType="Self.RootWords" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="RootWordsToContent" EntityType="Self.RootWordsToContent" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="WordsDictionary" EntityType="Self.WordsDictionary" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="WordsRelations" EntityType="Self.WordsRelations" Schema="Patterns" store:Type="Tables" />
+          <EntitySet Name="Personalities" EntityType="Self.Personalities" Schema="Persons" store:Type="Tables" />
+          <EntitySet Name="PersonalitiesInstancesInContent" EntityType="Self.PersonalitiesInstancesInContent" Schema="Persons" store:Type="Tables" />
+          <EntitySet Name="RelationsBetweenPersonalities" EntityType="Self.RelationsBetweenPersonalities" Schema="Persons" store:Type="Tables" />
+          <EntitySet Name="RelationsSources" EntityType="Self.RelationsSources" Schema="Persons" store:Type="Tables" />
+          <EntitySet Name="RelationsBetweenGroups" EntityType="Self.RelationsBetweenGroups" Schema="Relations" store:Type="Tables" />
+          <EntitySet Name="GroupsProperties" EntityType="Self.GroupsProperties" Schema="UI" store:Type="Tables" />
+          <EntitySet Name="TalmudBavliWords" EntityType="Self.TalmudBavliWords" store:Type="Tables" store:Schema="Import">
+            <DefiningQuery>SELECT 
+    [TalmudBavliWords].[KeyWordIndex] AS [KeyWordIndex], 
+    [TalmudBavliWords].[Word] AS [Word], 
+    [TalmudBavliWords].[SequenceNumber] AS [SequenceNumber], 
+    [TalmudBavliWords].[RootGroupID] AS [RootGroupID]
+    FROM [Import].[TalmudBavliWords] AS [TalmudBavliWords]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="MainContentWithGroupsLevels" EntityType="Self.MainContentWithGroupsLevels" store:Type="Views" store:Schema="Contents">
+            <DefiningQuery>SELECT 
+    [MainContentWithGroupsLevels].[MainContentID] AS [MainContentID], 
+    [MainContentWithGroupsLevels].[GroupID] AS [GroupID], 
+    [MainContentWithGroupsLevels].[SequenceNumber] AS [SequenceNumber], 
+    [MainContentWithGroupsLevels].[RootGroupID] AS [RootGroupID], 
+    [MainContentWithGroupsLevels].[SequenceNumberByRootGroup] AS [SequenceNumberByRootGroup], 
+    [MainContentWithGroupsLevels].[Content] AS [Content], 
+    [MainContentWithGroupsLevels].[LargeContent] AS [LargeContent], 
+    [MainContentWithGroupsLevels].[VersionID] AS [VersionID], 
+    [MainContentWithGroupsLevels].[NextContentID] AS [NextContentID], 
+    [MainContentWithGroupsLevels].[KeyWordIndex] AS [KeyWordIndex], 
+    [MainContentWithGroupsLevels].[GroupTypeLevel1] AS [GroupTypeLevel1], 
+    [MainContentWithGroupsLevels].[GroupTypeNameLevel1] AS [GroupTypeNameLevel1], 
+    [MainContentWithGroupsLevels].[GroupSequenceLevel1] AS [GroupSequenceLevel1], 
+    [MainContentWithGroupsLevels].[GroupKeyWordIndexLevel1] AS [GroupKeyWordIndexLevel1], 
+    [MainContentWithGroupsLevels].[GroupNameLevel1] AS [GroupNameLevel1], 
+    [MainContentWithGroupsLevels].[GroupIDLevel2] AS [GroupIDLevel2], 
+    [MainContentWithGroupsLevels].[GroupTypeLevel2] AS [GroupTypeLevel2], 
+    [MainContentWithGroupsLevels].[GroupTypeNameLevel2] AS [GroupTypeNameLevel2], 
+    [MainContentWithGroupsLevels].[GroupSequenceLevel2] AS [GroupSequenceLevel2], 
+    [MainContentWithGroupsLevels].[GroupKeyWordIndexLevel2] AS [GroupKeyWordIndexLevel2], 
+    [MainContentWithGroupsLevels].[GroupNameLevel2] AS [GroupNameLevel2], 
+    [MainContentWithGroupsLevels].[GroupIDLevel3] AS [GroupIDLevel3], 
+    [MainContentWithGroupsLevels].[GroupTypeLevel3] AS [GroupTypeLevel3], 
+    [MainContentWithGroupsLevels].[GroupTypeNameLevel3] AS [GroupTypeNameLevel3], 
+    [MainContentWithGroupsLevels].[GroupSequenceLevel3] AS [GroupSequenceLevel3], 
+    [MainContentWithGroupsLevels].[GroupKeyWordIndexLevel3] AS [GroupKeyWordIndexLevel3], 
+    [MainContentWithGroupsLevels].[GroupNameLevel3] AS [GroupNameLevel3], 
+    [MainContentWithGroupsLevels].[GroupIDLevel4] AS [GroupIDLevel4], 
+    [MainContentWithGroupsLevels].[GroupTypeLevel4] AS [GroupTypeLevel4], 
+    [MainContentWithGroupsLevels].[GroupTypeNameLevel4] AS [GroupTypeNameLevel4], 
+    [MainContentWithGroupsLevels].[GroupSequenceLevel4] AS [GroupSequenceLevel4], 
+    [MainContentWithGroupsLevels].[GroupKeyWordIndexLevel4] AS [GroupKeyWordIndexLevel4], 
+    [MainContentWithGroupsLevels].[GroupNameLevel4] AS [GroupNameLevel4], 
+    [MainContentWithGroupsLevels].[GroupIDLevel5] AS [GroupIDLevel5], 
+    [MainContentWithGroupsLevels].[GroupTypeLevel5] AS [GroupTypeLevel5], 
+    [MainContentWithGroupsLevels].[GroupTypeNameLevel5] AS [GroupTypeNameLevel5], 
+    [MainContentWithGroupsLevels].[GroupSequenceLevel5] AS [GroupSequenceLevel5], 
+    [MainContentWithGroupsLevels].[GroupKeyWordIndexLevel5] AS [GroupKeyWordIndexLevel5], 
+    [MainContentWithGroupsLevels].[GroupNameLevel5] AS [GroupNameLevel5], 
+    [MainContentWithGroupsLevels].[GroupIDLevel6] AS [GroupIDLevel6], 
+    [MainContentWithGroupsLevels].[GroupTypeLevel6] AS [GroupTypeLevel6], 
+    [MainContentWithGroupsLevels].[GroupTypeNameLevel6] AS [GroupTypeNameLevel6], 
+    [MainContentWithGroupsLevels].[GroupSequenceLevel6] AS [GroupSequenceLevel6], 
+    [MainContentWithGroupsLevels].[GroupKeyWordIndexLevel6] AS [GroupKeyWordIndexLevel6], 
+    [MainContentWithGroupsLevels].[GroupNameLevel6] AS [GroupNameLevel6]
+    FROM [Contents].[MainContentWithGroupsLevels] AS [MainContentWithGroupsLevels]</DefiningQuery>
+          </EntitySet>
+          <AssociationSet Name="FK_CommonExpressionsToGroups_ToCommonExpressions" Association="Self.FK_CommonExpressionsToGroups_ToCommonExpressions">
+            <End Role="CommonExpressions" EntitySet="CommonExpressions" />
+            <End Role="CommonExpressionsToGroups" EntitySet="CommonExpressionsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CommonExpressionsToGroups_ToContentGroups" Association="Self.FK_CommonExpressionsToGroups_ToContentGroups">
+            <End Role="ContentGroups" EntitySet="ContentGroups" />
+            <End Role="CommonExpressionsToGroups" EntitySet="CommonExpressionsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConceptsDictionaryMeanings_ToConceptsDictionary" Association="Self.FK_ConceptsDictionaryMeanings_ToConceptsDictionary">
+            <End Role="ConceptsDictionary" EntitySet="ConceptsDictionary" />
+            <End Role="ConceptsDictionaryMeanings" EntitySet="ConceptsDictionaryMeanings" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings" Association="Self.FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings">
+            <End Role="ConceptsDictionaryMeanings" EntitySet="ConceptsDictionaryMeanings" />
+            <End Role="ConceptsDictionaryMeaningsToGroups" EntitySet="ConceptsDictionaryMeaningsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Content_ToContentGroups" Association="Self.FK_Content_ToContentGroups">
+            <End Role="ContentGroups" EntitySet="ContentGroups" />
+            <End Role="MainContent" EntitySet="MainContent" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Content_ToVersions" Association="Self.FK_Content_ToVersions">
+            <End Role="TextVersionSources" EntitySet="TextVersionSources" />
+            <End Role="MainContent" EntitySet="MainContent" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentGroups_ToGroupsAndDividingTypes" Association="Self.FK_ContentGroups_ToGroupsAndDividingTypes">
+            <End Role="GroupsAndDividingTypes" EntitySet="GroupsAndDividingTypes" />
+            <End Role="ContentGroups" EntitySet="ContentGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentOtherVersions_ToMainContent" Association="Self.FK_ContentOtherVersions_ToMainContent">
+            <End Role="MainContent" EntitySet="MainContent" />
+            <End Role="ContentOtherVersions" EntitySet="ContentOtherVersions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentPatternsToGroups_ToContentGroups" Association="Self.FK_ContentPatternsToGroups_ToContentGroups">
+            <End Role="ContentGroups" EntitySet="ContentGroups" />
+            <End Role="ContentPatternsToGroups" EntitySet="ContentPatternsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentPatternsToGroups_ToContentPatterns" Association="Self.FK_ContentPatternsToGroups_ToContentPatterns">
+            <End Role="ContentPatterns" EntitySet="ContentPatterns" />
+            <End Role="ContentPatternsToGroups" EntitySet="ContentPatternsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentToAlternateGroups_ToContent" Association="Self.FK_ContentToAlternateGroups_ToContent">
+            <End Role="MainContent" EntitySet="MainContent" />
+            <End Role="ContentToAlternateGroups" EntitySet="ContentToAlternateGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentToAlternateGroups_ToContent2" Association="Self.FK_ContentToAlternateGroups_ToContent2">
+            <End Role="MainContent" EntitySet="MainContent" />
+            <End Role="ContentToAlternateGroups" EntitySet="ContentToAlternateGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentToAlternateGroups_ToContentGroups" Association="Self.FK_ContentToAlternateGroups_ToContentGroups">
+            <End Role="ContentGroups" EntitySet="ContentGroups" />
+            <End Role="ContentToAlternateGroups" EntitySet="ContentToAlternateGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GroupsProperties_ToGroups" Association="Self.FK_GroupsProperties_ToGroups">
+            <End Role="ContentGroups" EntitySet="ContentGroups" />
+            <End Role="GroupsProperties" EntitySet="GroupsProperties" />
+          </AssociationSet>
+          <AssociationSet Name="FK_InstancesInContent_ToPersonalities" Association="Self.FK_InstancesInContent_ToPersonalities">
+            <End Role="Personalities" EntitySet="Personalities" />
+            <End Role="PersonalitiesInstancesInContent" EntitySet="PersonalitiesInstancesInContent" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsBetweenCommonExpressions_ToTable" Association="Self.FK_RelationsBetweenCommonExpressions_ToTable">
+            <End Role="RelationTypesBetweenCommonExpressions_Ref" EntitySet="RelationTypesBetweenCommonExpressions_Ref" />
+            <End Role="RelationsBetweenCommonExpressions" EntitySet="RelationsBetweenCommonExpressions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsBetweenPersonalities_ToPersons" Association="Self.FK_RelationsBetweenPersonalities_ToPersons">
+            <End Role="Personalities" EntitySet="Personalities" />
+            <End Role="RelationsBetweenPersonalities" EntitySet="RelationsBetweenPersonalities" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsBetweenPersonalities_ToPersons2" Association="Self.FK_RelationsBetweenPersonalities_ToPersons2">
+            <End Role="Personalities" EntitySet="Personalities" />
+            <End Role="RelationsBetweenPersonalities" EntitySet="RelationsBetweenPersonalities" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsSources_ToContentGroups" Association="Self.FK_RelationsSources_ToContentGroups">
+            <End Role="ContentGroups" EntitySet="ContentGroups" />
+            <End Role="RelationsSources" EntitySet="RelationsSources" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsSources_ToRelations" Association="Self.FK_RelationsSources_ToRelations">
+            <End Role="RelationsBetweenPersonalities" EntitySet="RelationsBetweenPersonalities" />
+            <End Role="RelationsSources" EntitySet="RelationsSources" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RootWordForms_ToRootWord" Association="Self.FK_RootWordForms_ToRootWord">
+            <End Role="RootWords" EntitySet="RootWords" />
+            <End Role="RootWordForms" EntitySet="RootWordForms" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RootWordsToContent_ToMainContent" Association="Self.FK_RootWordsToContent_ToMainContent">
+            <End Role="MainContent" EntitySet="MainContent" />
+            <End Role="RootWordsToContent" EntitySet="RootWordsToContent" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RootWordsToContent_ToRootWords" Association="Self.FK_RootWordsToContent_ToRootWords">
+            <End Role="RootWords" EntitySet="RootWords" />
+            <End Role="RootWordsToContent" EntitySet="RootWordsToContent" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TanakhCharacters_ToMainContent" Association="Self.FK_TanakhCharacters_ToMainContent">
+            <End Role="MainContent" EntitySet="MainContent" />
+            <End Role="TanakhCharacters" EntitySet="TanakhCharacters" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordsRelations_ToWords" Association="Self.FK_WordsRelations_ToWords">
+            <End Role="WordsDictionary" EntitySet="WordsDictionary" />
+            <End Role="WordsRelations" EntitySet="WordsRelations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordsRelations_ToWords2" Association="Self.FK_WordsRelations_ToWords2">
+            <End Role="WordsDictionary" EntitySet="WordsDictionary" />
+            <End Role="WordsRelations" EntitySet="WordsRelations" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="HebrewTextsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="HebrewTextsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="ContentGroups" EntityType="HebrewTextsModel.ContentGroup" />
+          <EntitySet Name="ContentOtherVersions" EntityType="HebrewTextsModel.ContentOtherVersion" />
+          <EntitySet Name="ContentToAlternateGroups" EntityType="HebrewTextsModel.ContentToAlternateGroup" />
+          <EntitySet Name="GroupsAndDividingTypes" EntityType="HebrewTextsModel.GroupsAndDividingType" />
+          <EntitySet Name="Letters_Ref" EntityType="HebrewTextsModel.Letters_Ref" />
+          <EntitySet Name="MainContents" EntityType="HebrewTextsModel.MainContent" />
+          <EntitySet Name="Niqqud_Ref" EntityType="HebrewTextsModel.Niqqud_Ref" />
+          <EntitySet Name="SetContentLogs" EntityType="HebrewTextsModel.SetContentLog" />
+          <EntitySet Name="TanakhCharacters" EntityType="HebrewTextsModel.TanakhCharacter" />
+          <EntitySet Name="TextVersionSources" EntityType="HebrewTextsModel.TextVersionSource" />
+          <EntitySet Name="C__RefactorLog" EntityType="HebrewTextsModel.C__RefactorLog" />
+          <EntitySet Name="Books" EntityType="HebrewTextsModel.Book" />
+          <EntitySet Name="DistinctWords" EntityType="HebrewTextsModel.DistinctWord" />
+          <EntitySet Name="sysdiagrams" EntityType="HebrewTextsModel.sysdiagram" />
+          <EntitySet Name="Taamim_Ref" EntityType="HebrewTextsModel.Taamim_Ref" />
+          <EntitySet Name="Tanakhs" EntityType="HebrewTextsModel.Tanakh" />
+          <EntitySet Name="WordsInTanakhs" EntityType="HebrewTextsModel.WordsInTanakh" />
+          <EntitySet Name="RawImportStuffs" EntityType="HebrewTextsModel.RawImportStuff" />
+          <EntitySet Name="TalmudBavliRawImports" EntityType="HebrewTextsModel.TalmudBavliRawImport" />
+          <EntitySet Name="CommonExpressions" EntityType="HebrewTextsModel.CommonExpression" />
+          <EntitySet Name="CommonExpressionsToGroups" EntityType="HebrewTextsModel.CommonExpressionsToGroup" />
+          <EntitySet Name="ConceptsDictionaries" EntityType="HebrewTextsModel.ConceptsDictionary" />
+          <EntitySet Name="ConceptsDictionaryMeanings" EntityType="HebrewTextsModel.ConceptsDictionaryMeaning" />
+          <EntitySet Name="ConceptsDictionaryMeaningsToGroups" EntityType="HebrewTextsModel.ConceptsDictionaryMeaningsToGroup" />
+          <EntitySet Name="ContentPatterns" EntityType="HebrewTextsModel.ContentPattern" />
+          <EntitySet Name="ContentPatternsToGroups" EntityType="HebrewTextsModel.ContentPatternsToGroup" />
+          <EntitySet Name="ContentTypes_Ref" EntityType="HebrewTextsModel.ContentTypes_Ref" />
+          <EntitySet Name="RelationsBetweenCommonExpressions" EntityType="HebrewTextsModel.RelationsBetweenCommonExpression" />
+          <EntitySet Name="RelationTypesBetweenCommonExpressions_Ref" EntityType="HebrewTextsModel.RelationTypesBetweenCommonExpressions_Ref" />
+          <EntitySet Name="RootWordForms" EntityType="HebrewTextsModel.RootWordForm" />
+          <EntitySet Name="RootWords" EntityType="HebrewTextsModel.RootWord" />
+          <EntitySet Name="RootWordsToContents" EntityType="HebrewTextsModel.RootWordsToContent" />
+          <EntitySet Name="WordsDictionaries" EntityType="HebrewTextsModel.WordsDictionary" />
+          <EntitySet Name="WordsRelations" EntityType="HebrewTextsModel.WordsRelation" />
+          <EntitySet Name="Personalities" EntityType="HebrewTextsModel.Personality" />
+          <EntitySet Name="PersonalitiesInstancesInContents" EntityType="HebrewTextsModel.PersonalitiesInstancesInContent" />
+          <EntitySet Name="RelationsBetweenPersonalities" EntityType="HebrewTextsModel.RelationsBetweenPersonality" />
+          <EntitySet Name="RelationsSources" EntityType="HebrewTextsModel.RelationsSource" />
+          <EntitySet Name="RelationsBetweenGroups" EntityType="HebrewTextsModel.RelationsBetweenGroup" />
+          <EntitySet Name="GroupsProperties" EntityType="HebrewTextsModel.GroupsProperty" />
+          <EntitySet Name="TalmudBavliWords" EntityType="HebrewTextsModel.TalmudBavliWord" />
+          <EntitySet Name="MainContentWithGroupsLevels" EntityType="HebrewTextsModel.MainContentWithGroupsLevel" />
+          <AssociationSet Name="FK_CommonExpressionsToGroups_ToContentGroups" Association="HebrewTextsModel.FK_CommonExpressionsToGroups_ToContentGroups">
+            <End Role="ContentGroup" EntitySet="ContentGroups" />
+            <End Role="CommonExpressionsToGroup" EntitySet="CommonExpressionsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Content_ToContentGroups" Association="HebrewTextsModel.FK_Content_ToContentGroups">
+            <End Role="ContentGroup" EntitySet="ContentGroups" />
+            <End Role="MainContent" EntitySet="MainContents" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentGroups_ToGroupsAndDividingTypes" Association="HebrewTextsModel.FK_ContentGroups_ToGroupsAndDividingTypes">
+            <End Role="GroupsAndDividingType" EntitySet="GroupsAndDividingTypes" />
+            <End Role="ContentGroup" EntitySet="ContentGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentPatternsToGroups_ToContentGroups" Association="HebrewTextsModel.FK_ContentPatternsToGroups_ToContentGroups">
+            <End Role="ContentGroup" EntitySet="ContentGroups" />
+            <End Role="ContentPatternsToGroup" EntitySet="ContentPatternsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentToAlternateGroups_ToContentGroups" Association="HebrewTextsModel.FK_ContentToAlternateGroups_ToContentGroups">
+            <End Role="ContentGroup" EntitySet="ContentGroups" />
+            <End Role="ContentToAlternateGroup" EntitySet="ContentToAlternateGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_GroupsProperties_ToGroups" Association="HebrewTextsModel.FK_GroupsProperties_ToGroups">
+            <End Role="ContentGroup" EntitySet="ContentGroups" />
+            <End Role="GroupsProperty" EntitySet="GroupsProperties" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsSources_ToContentGroups" Association="HebrewTextsModel.FK_RelationsSources_ToContentGroups">
+            <End Role="ContentGroup" EntitySet="ContentGroups" />
+            <End Role="RelationsSource" EntitySet="RelationsSources" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentOtherVersions_ToMainContent" Association="HebrewTextsModel.FK_ContentOtherVersions_ToMainContent">
+            <End Role="MainContent" EntitySet="MainContents" />
+            <End Role="ContentOtherVersion" EntitySet="ContentOtherVersions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentToAlternateGroups_ToContent" Association="HebrewTextsModel.FK_ContentToAlternateGroups_ToContent">
+            <End Role="MainContent" EntitySet="MainContents" />
+            <End Role="ContentToAlternateGroup" EntitySet="ContentToAlternateGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentToAlternateGroups_ToContent2" Association="HebrewTextsModel.FK_ContentToAlternateGroups_ToContent2">
+            <End Role="MainContent" EntitySet="MainContents" />
+            <End Role="ContentToAlternateGroup" EntitySet="ContentToAlternateGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Content_ToVersions" Association="HebrewTextsModel.FK_Content_ToVersions">
+            <End Role="TextVersionSource" EntitySet="TextVersionSources" />
+            <End Role="MainContent" EntitySet="MainContents" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RootWordsToContent_ToMainContent" Association="HebrewTextsModel.FK_RootWordsToContent_ToMainContent">
+            <End Role="MainContent" EntitySet="MainContents" />
+            <End Role="RootWordsToContent" EntitySet="RootWordsToContents" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TanakhCharacters_ToMainContent" Association="HebrewTextsModel.FK_TanakhCharacters_ToMainContent">
+            <End Role="MainContent" EntitySet="MainContents" />
+            <End Role="TanakhCharacter" EntitySet="TanakhCharacters" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CommonExpressionsToGroups_ToCommonExpressions" Association="HebrewTextsModel.FK_CommonExpressionsToGroups_ToCommonExpressions">
+            <End Role="CommonExpression" EntitySet="CommonExpressions" />
+            <End Role="CommonExpressionsToGroup" EntitySet="CommonExpressionsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConceptsDictionaryMeanings_ToConceptsDictionary" Association="HebrewTextsModel.FK_ConceptsDictionaryMeanings_ToConceptsDictionary">
+            <End Role="ConceptsDictionary" EntitySet="ConceptsDictionaries" />
+            <End Role="ConceptsDictionaryMeaning" EntitySet="ConceptsDictionaryMeanings" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings" Association="HebrewTextsModel.FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings">
+            <End Role="ConceptsDictionaryMeaning" EntitySet="ConceptsDictionaryMeanings" />
+            <End Role="ConceptsDictionaryMeaningsToGroup" EntitySet="ConceptsDictionaryMeaningsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ContentPatternsToGroups_ToContentPatterns" Association="HebrewTextsModel.FK_ContentPatternsToGroups_ToContentPatterns">
+            <End Role="ContentPattern" EntitySet="ContentPatterns" />
+            <End Role="ContentPatternsToGroup" EntitySet="ContentPatternsToGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsBetweenCommonExpressions_ToTable" Association="HebrewTextsModel.FK_RelationsBetweenCommonExpressions_ToTable">
+            <End Role="RelationTypesBetweenCommonExpressions_Ref" EntitySet="RelationTypesBetweenCommonExpressions_Ref" />
+            <End Role="RelationsBetweenCommonExpression" EntitySet="RelationsBetweenCommonExpressions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RootWordForms_ToRootWord" Association="HebrewTextsModel.FK_RootWordForms_ToRootWord">
+            <End Role="RootWord" EntitySet="RootWords" />
+            <End Role="RootWordForm" EntitySet="RootWordForms" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RootWordsToContent_ToRootWords" Association="HebrewTextsModel.FK_RootWordsToContent_ToRootWords">
+            <End Role="RootWord" EntitySet="RootWords" />
+            <End Role="RootWordsToContent" EntitySet="RootWordsToContents" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordsRelations_ToWords" Association="HebrewTextsModel.FK_WordsRelations_ToWords">
+            <End Role="WordsDictionary" EntitySet="WordsDictionaries" />
+            <End Role="WordsRelation" EntitySet="WordsRelations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordsRelations_ToWords2" Association="HebrewTextsModel.FK_WordsRelations_ToWords2">
+            <End Role="WordsDictionary" EntitySet="WordsDictionaries" />
+            <End Role="WordsRelation" EntitySet="WordsRelations" />
+          </AssociationSet>
+          <AssociationSet Name="FK_InstancesInContent_ToPersonalities" Association="HebrewTextsModel.FK_InstancesInContent_ToPersonalities">
+            <End Role="Personality" EntitySet="Personalities" />
+            <End Role="PersonalitiesInstancesInContent" EntitySet="PersonalitiesInstancesInContents" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsBetweenPersonalities_ToPersons" Association="HebrewTextsModel.FK_RelationsBetweenPersonalities_ToPersons">
+            <End Role="Personality" EntitySet="Personalities" />
+            <End Role="RelationsBetweenPersonality" EntitySet="RelationsBetweenPersonalities" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsBetweenPersonalities_ToPersons2" Association="HebrewTextsModel.FK_RelationsBetweenPersonalities_ToPersons2">
+            <End Role="Personality" EntitySet="Personalities" />
+            <End Role="RelationsBetweenPersonality" EntitySet="RelationsBetweenPersonalities" />
+          </AssociationSet>
+          <AssociationSet Name="FK_RelationsSources_ToRelations" Association="HebrewTextsModel.FK_RelationsSources_ToRelations">
+            <End Role="RelationsBetweenPersonality" EntitySet="RelationsBetweenPersonalities" />
+            <End Role="RelationsSource" EntitySet="RelationsSources" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="ContentGroup">
+          <Key>
+            <PropertyRef Name="GroupID" />
+          </Key>
+          <Property Name="GroupID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GroupType" Type="Int32" />
+          <Property Name="GroupName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SequenceNumber" Type="Int32" />
+          <Property Name="SequenceNumberByRootGroup" Type="Int32" />
+          <Property Name="ParentGroupID" Type="Int32" />
+          <Property Name="XMLData" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="RoutePriority" Type="Int32" />
+          <Property Name="NextGroupIDInLevel" Type="Int32" />
+          <Property Name="RootGroupID" Type="Int32" />
+          <Property Name="KeyWordIndex" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="VersionID" Type="Int32" />
+          <NavigationProperty Name="CommonExpressionsToGroups" Relationship="HebrewTextsModel.FK_CommonExpressionsToGroups_ToContentGroups" FromRole="ContentGroup" ToRole="CommonExpressionsToGroup" />
+          <NavigationProperty Name="MainContents" Relationship="HebrewTextsModel.FK_Content_ToContentGroups" FromRole="ContentGroup" ToRole="MainContent" />
+          <NavigationProperty Name="GroupsAndDividingType" Relationship="HebrewTextsModel.FK_ContentGroups_ToGroupsAndDividingTypes" FromRole="ContentGroup" ToRole="GroupsAndDividingType" />
+          <NavigationProperty Name="ContentPatternsToGroups" Relationship="HebrewTextsModel.FK_ContentPatternsToGroups_ToContentGroups" FromRole="ContentGroup" ToRole="ContentPatternsToGroup" />
+          <NavigationProperty Name="ContentToAlternateGroups" Relationship="HebrewTextsModel.FK_ContentToAlternateGroups_ToContentGroups" FromRole="ContentGroup" ToRole="ContentToAlternateGroup" />
+          <NavigationProperty Name="GroupsProperties" Relationship="HebrewTextsModel.FK_GroupsProperties_ToGroups" FromRole="ContentGroup" ToRole="GroupsProperty" />
+          <NavigationProperty Name="RelationsSources" Relationship="HebrewTextsModel.FK_RelationsSources_ToContentGroups" FromRole="ContentGroup" ToRole="RelationsSource" />
+        </EntityType>
+        <EntityType Name="ContentOtherVersion">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MainContentID" Type="Int64" Nullable="false" />
+          <Property Name="VersionSourceID" Type="Int32" Nullable="false" />
+          <Property Name="VersionOperation" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="SequenceNumber" Type="Int32" Nullable="false" />
+          <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="MainContent" Relationship="HebrewTextsModel.FK_ContentOtherVersions_ToMainContent" FromRole="ContentOtherVersion" ToRole="MainContent" />
+        </EntityType>
+        <EntityType Name="ContentToAlternateGroup">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GroupID" Type="Int32" Nullable="false" />
+          <Property Name="FromContentID" Type="Int64" Nullable="false" />
+          <Property Name="ToContentID" Type="Int64" Nullable="false" />
+          <Property Name="VersionID" Type="Int32" />
+          <NavigationProperty Name="ContentGroup" Relationship="HebrewTextsModel.FK_ContentToAlternateGroups_ToContentGroups" FromRole="ContentToAlternateGroup" ToRole="ContentGroup" />
+          <NavigationProperty Name="MainContent" Relationship="HebrewTextsModel.FK_ContentToAlternateGroups_ToContent" FromRole="ContentToAlternateGroup" ToRole="MainContent" />
+          <NavigationProperty Name="MainContent1" Relationship="HebrewTextsModel.FK_ContentToAlternateGroups_ToContent2" FromRole="ContentToAlternateGroup" ToRole="MainContent" />
+        </EntityType>
+        <EntityType Name="GroupsAndDividingType">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="GroupLevel" Type="Int32" />
+          <Property Name="XMLData" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="KeyWordIndex" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="ContentGroups" Relationship="HebrewTextsModel.FK_ContentGroups_ToGroupsAndDividingTypes" FromRole="GroupsAndDividingType" ToRole="ContentGroup" />
+        </EntityType>
+        <EntityType Name="Letters_Ref">
+          <Key>
+            <PropertyRef Name="LetterID" />
+          </Key>
+          <Property Name="LetterID" Type="Int32" Nullable="false" />
+          <Property Name="Letter" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
+          <Property Name="NumericValue" Type="Int32" />
+        </EntityType>
+        <EntityType Name="MainContent">
+          <Key>
+            <PropertyRef Name="MainContentID" />
+          </Key>
+          <Property Name="MainContentID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GroupID" Type="Int32" Nullable="false" />
+          <Property Name="SequenceNumber" Type="Int32" Nullable="false" />
+          <Property Name="RootGroupID" Type="Int32" />
+          <Property Name="SequenceNumberByRootGroup" Type="Int32" />
+          <Property Name="Content" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="LargeContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="VersionSourceID" Type="Int32" />
+          <Property Name="NextContentID" Type="Int32" />
+          <Property Name="KeyWordIndex" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="ContentGroup" Relationship="HebrewTextsModel.FK_Content_ToContentGroups" FromRole="MainContent" ToRole="ContentGroup" />
+          <NavigationProperty Name="ContentOtherVersions" Relationship="HebrewTextsModel.FK_ContentOtherVersions_ToMainContent" FromRole="MainContent" ToRole="ContentOtherVersion" />
+          <NavigationProperty Name="ContentToAlternateGroups" Relationship="HebrewTextsModel.FK_ContentToAlternateGroups_ToContent" FromRole="MainContent" ToRole="ContentToAlternateGroup" />
+          <NavigationProperty Name="ContentToAlternateGroups1" Relationship="HebrewTextsModel.FK_ContentToAlternateGroups_ToContent2" FromRole="MainContent" ToRole="ContentToAlternateGroup" />
+          <NavigationProperty Name="TextVersionSource" Relationship="HebrewTextsModel.FK_Content_ToVersions" FromRole="MainContent" ToRole="TextVersionSource" />
+          <NavigationProperty Name="RootWordsToContents" Relationship="HebrewTextsModel.FK_RootWordsToContent_ToMainContent" FromRole="MainContent" ToRole="RootWordsToContent" />
+          <NavigationProperty Name="TanakhCharacters" Relationship="HebrewTextsModel.FK_TanakhCharacters_ToMainContent" FromRole="MainContent" ToRole="TanakhCharacter" />
+        </EntityType>
+        <EntityType Name="Niqqud_Ref">
+          <Key>
+            <PropertyRef Name="NiqqudID" />
+          </Key>
+          <Property Name="NiqqudID" Type="Int32" Nullable="false" />
+          <Property Name="Niqqud" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="true" />
+          <Property Name="NiqqudName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Comments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="SetContentLog">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GrpupID" Type="Int32" Nullable="false" />
+          <Property Name="FullContent" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AddedRecordDate" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityType Name="TanakhCharacter">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MainContentID" Type="Int64" Nullable="false" />
+          <Property Name="SequenceNumber" Type="Int32" Nullable="false" />
+          <Property Name="LetterID" Type="Int32" Nullable="false" />
+          <Property Name="NiqqudID" Type="Int32" />
+          <Property Name="TaamID" Type="Int32" />
+          <NavigationProperty Name="MainContent" Relationship="HebrewTextsModel.FK_TanakhCharacters_ToMainContent" FromRole="TanakhCharacter" ToRole="MainContent" />
+        </EntityType>
+        <EntityType Name="TextVersionSource">
+          <Key>
+            <PropertyRef Name="VersionSourceID" />
+          </Key>
+          <Property Name="VersionSourceID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Comments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="BookPublishing" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="MainContents" Relationship="HebrewTextsModel.FK_Content_ToVersions" FromRole="TextVersionSource" ToRole="MainContent" />
+        </EntityType>
+        <EntityType Name="C__RefactorLog">
+          <Key>
+            <PropertyRef Name="OperationKey" />
+          </Key>
+          <Property Name="OperationKey" Type="Guid" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="DistinctWord">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Word" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Taamim_Ref">
+          <Key>
+            <PropertyRef Name="TaamID" />
+          </Key>
+          <Property Name="TaamID" Type="Int32" Nullable="false" />
+          <Property Name="Taam" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TaamName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Comments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Tanakh">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="BookID" Type="Int32" Nullable="false" />
+          <Property Name="Chapter" Type="Int32" Nullable="false" />
+          <Property Name="Verse" Type="Int32" Nullable="false" />
+          <Property Name="Content" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="NetContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="TextOnly" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="NewBookID" Type="Int32" />
+        </EntityType>
+        <EntityType Name="WordsInTanakh">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Word" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="WordWithNiqqud" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="VerseID" Type="Int32" Nullable="false" />
+          <Property Name="SequenceNumber" Type="Int32" />
+        </EntityType>
+        <EntityType Name="RawImportStuff">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GroupSequenceLevel1" Type="Int32" />
+          <Property Name="GroupSequenceLevel2" Type="Int32" />
+          <Property Name="GroupSequenceLevel3" Type="Int32" />
+          <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Source" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="TalmudBavliRawImport">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GeneralSequenceNumber" Type="Int64" />
+          <Property Name="Masechet" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" />
+          <Property Name="DafNumber" Type="Int32" />
+          <Property Name="AmudNumber" Type="Int32" />
+          <Property Name="RowNumber" Type="Int32" />
+          <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="StartMishnaPosition" Type="Int32" />
+          <Property Name="EndMishnaPosition" Type="Int32" />
+          <Property Name="StartGemaraPosition" Type="Int32" />
+          <Property Name="EndGemaraPosition" Type="Int32" />
+          <Property Name="StartChapterName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="KeyWordIndex" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupID" Type="Int32" />
+        </EntityType>
+        <EntityType Name="CommonExpression">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="ExpressionWords" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="CommonExpressionsToGroups" Relationship="HebrewTextsModel.FK_CommonExpressionsToGroups_ToCommonExpressions" FromRole="CommonExpression" ToRole="CommonExpressionsToGroup" />
+        </EntityType>
+        <EntityType Name="CommonExpressionsToGroup">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CommonExpressionID" Type="Int32" />
+          <Property Name="GroupID" Type="Int32" />
+          <NavigationProperty Name="ContentGroup" Relationship="HebrewTextsModel.FK_CommonExpressionsToGroups_ToContentGroups" FromRole="CommonExpressionsToGroup" ToRole="ContentGroup" />
+          <NavigationProperty Name="CommonExpression" Relationship="HebrewTextsModel.FK_CommonExpressionsToGroups_ToCommonExpressions" FromRole="CommonExpressionsToGroup" ToRole="CommonExpression" />
+        </EntityType>
+        <EntityType Name="ConceptsDictionary">
+          <Key>
+            <PropertyRef Name="ConceptDictionaryID" />
+          </Key>
+          <Property Name="ConceptDictionaryID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ConceptRootWord" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="ConceptsDictionaryMeanings" Relationship="HebrewTextsModel.FK_ConceptsDictionaryMeanings_ToConceptsDictionary" FromRole="ConceptsDictionary" ToRole="ConceptsDictionaryMeaning" />
+        </EntityType>
+        <EntityType Name="ConceptsDictionaryMeaning">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ConceptDictionaryID" Type="Int32" Nullable="false" />
+          <Property Name="Meaning" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="AddedDate" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="ConceptsDictionary" Relationship="HebrewTextsModel.FK_ConceptsDictionaryMeanings_ToConceptsDictionary" FromRole="ConceptsDictionaryMeaning" ToRole="ConceptsDictionary" />
+          <NavigationProperty Name="ConceptsDictionaryMeaningsToGroups" Relationship="HebrewTextsModel.FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings" FromRole="ConceptsDictionaryMeaning" ToRole="ConceptsDictionaryMeaningsToGroup" />
+        </EntityType>
+        <EntityType Name="ConceptsDictionaryMeaningsToGroup">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="ConceptsDictionaryMeaningID" Type="Int32" Nullable="false" />
+          <Property Name="GroupID" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ConceptsDictionaryMeaning" Relationship="HebrewTextsModel.FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings" FromRole="ConceptsDictionaryMeaningsToGroup" ToRole="ConceptsDictionaryMeaning" />
+        </EntityType>
+        <EntityType Name="ContentPattern">
+          <Key>
+            <PropertyRef Name="ContentPatternID" />
+          </Key>
+          <Property Name="ContentPatternID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="PatternFormula" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="PatternDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="ContentPatternsToGroups" Relationship="HebrewTextsModel.FK_ContentPatternsToGroups_ToContentPatterns" FromRole="ContentPattern" ToRole="ContentPatternsToGroup" />
+        </EntityType>
+        <EntityType Name="ContentPatternsToGroup">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ContentPatternID" Type="Int32" Nullable="false" />
+          <Property Name="GroupID" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ContentGroup" Relationship="HebrewTextsModel.FK_ContentPatternsToGroups_ToContentGroups" FromRole="ContentPatternsToGroup" ToRole="ContentGroup" />
+          <NavigationProperty Name="ContentPattern" Relationship="HebrewTextsModel.FK_ContentPatternsToGroups_ToContentPatterns" FromRole="ContentPatternsToGroup" ToRole="ContentPattern" />
+        </EntityType>
+        <EntityType Name="ContentTypes_Ref">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="RelationsBetweenCommonExpression">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FromCommonExpressionID" Type="Int32" Nullable="false" />
+          <Property Name="ToCommonExpressionID" Type="Int32" Nullable="false" />
+          <Property Name="RelationType" Type="Int32" Nullable="false" />
+          <Property Name="RelationDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="RelationTypesBetweenCommonExpressions_Ref" Relationship="HebrewTextsModel.FK_RelationsBetweenCommonExpressions_ToTable" FromRole="RelationsBetweenCommonExpression" ToRole="RelationTypesBetweenCommonExpressions_Ref" />
+        </EntityType>
+        <EntityType Name="RelationTypesBetweenCommonExpressions_Ref">
+          <Key>
+            <PropertyRef Name="RelationTypeID" />
+          </Key>
+          <Property Name="RelationTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="RelationsBetweenCommonExpressions" Relationship="HebrewTextsModel.FK_RelationsBetweenCommonExpressions_ToTable" FromRole="RelationTypesBetweenCommonExpressions_Ref" ToRole="RelationsBetweenCommonExpression" />
+        </EntityType>
+        <EntityType Name="RootWordForm">
+          <Key>
+            <PropertyRef Name="RootWordFormID" />
+          </Key>
+          <Property Name="RootWordFormID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RootWordID" Type="Int32" Nullable="false" />
+          <Property Name="WordForm" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="RootWord" Relationship="HebrewTextsModel.FK_RootWordForms_ToRootWord" FromRole="RootWordForm" ToRole="RootWord" />
+        </EntityType>
+        <EntityType Name="RootWord">
+          <Key>
+            <PropertyRef Name="RootWordID" />
+          </Key>
+          <Property Name="RootWordID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RootWord1" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="RootWordForms" Relationship="HebrewTextsModel.FK_RootWordForms_ToRootWord" FromRole="RootWord" ToRole="RootWordForm" />
+          <NavigationProperty Name="RootWordsToContents" Relationship="HebrewTextsModel.FK_RootWordsToContent_ToRootWords" FromRole="RootWord" ToRole="RootWordsToContent" />
+        </EntityType>
+        <EntityType Name="RootWordsToContent">
+          <Key>
+            <PropertyRef Name="RootWordsToContentID" />
+          </Key>
+          <Property Name="RootWordsToContentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RootWordID" Type="Int32" Nullable="false" />
+          <Property Name="MainContentID" Type="Int64" Nullable="false" />
+          <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="MainContent" Relationship="HebrewTextsModel.FK_RootWordsToContent_ToMainContent" FromRole="RootWordsToContent" ToRole="MainContent" />
+          <NavigationProperty Name="RootWord" Relationship="HebrewTextsModel.FK_RootWordsToContent_ToRootWords" FromRole="RootWordsToContent" ToRole="RootWord" />
+        </EntityType>
+        <EntityType Name="WordsDictionary">
+          <Key>
+            <PropertyRef Name="WordID" />
+          </Key>
+          <Property Name="WordID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Word" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="WordsRelations" Relationship="HebrewTextsModel.FK_WordsRelations_ToWords" FromRole="WordsDictionary" ToRole="WordsRelation" />
+          <NavigationProperty Name="WordsRelations1" Relationship="HebrewTextsModel.FK_WordsRelations_ToWords2" FromRole="WordsDictionary" ToRole="WordsRelation" />
+        </EntityType>
+        <EntityType Name="WordsRelation">
+          <Key>
+            <PropertyRef Name="WordsRelationID" />
+          </Key>
+          <Property Name="WordsRelationID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FromWordID" Type="Int32" Nullable="false" />
+          <Property Name="ToWordID" Type="Int32" Nullable="false" />
+          <Property Name="RelationType" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="WordsDictionary" Relationship="HebrewTextsModel.FK_WordsRelations_ToWords" FromRole="WordsRelation" ToRole="WordsDictionary" />
+          <NavigationProperty Name="WordsDictionary1" Relationship="HebrewTextsModel.FK_WordsRelations_ToWords2" FromRole="WordsRelation" ToRole="WordsDictionary" />
+        </EntityType>
+        <EntityType Name="Personality">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="BornHebrewYear" Type="Int32" />
+          <Property Name="DeathHebrewYear" Type="Int32" />
+          <Property Name="LivingArea" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="StudyPlace" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Comments" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="PersonalitiesInstancesInContents" Relationship="HebrewTextsModel.FK_InstancesInContent_ToPersonalities" FromRole="Personality" ToRole="PersonalitiesInstancesInContent" />
+          <NavigationProperty Name="RelationsBetweenPersonalities" Relationship="HebrewTextsModel.FK_RelationsBetweenPersonalities_ToPersons" FromRole="Personality" ToRole="RelationsBetweenPersonality" />
+          <NavigationProperty Name="RelationsBetweenPersonalities1" Relationship="HebrewTextsModel.FK_RelationsBetweenPersonalities_ToPersons2" FromRole="Personality" ToRole="RelationsBetweenPersonality" />
+        </EntityType>
+        <EntityType Name="PersonalitiesInstancesInContent">
+          <Key>
+            <PropertyRef Name="InstanceID" />
+          </Key>
+          <Property Name="InstanceID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="PersonalityID" Type="Int32" Nullable="false" />
+          <Property Name="ContentID" Type="Int32" />
+          <Property Name="GroupID" Type="Int32" />
+          <NavigationProperty Name="Personality" Relationship="HebrewTextsModel.FK_InstancesInContent_ToPersonalities" FromRole="PersonalitiesInstancesInContent" ToRole="Personality" />
+        </EntityType>
+        <EntityType Name="RelationsBetweenPersonality">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FromPersonID" Type="Int32" Nullable="false" />
+          <Property Name="ToPersonID" Type="Int32" Nullable="false" />
+          <Property Name="RelationType" Type="Int32" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="FromHebrewYear" Type="Int32" />
+          <Property Name="ToHebrewYear" Type="Int32" />
+          <NavigationProperty Name="Personality" Relationship="HebrewTextsModel.FK_RelationsBetweenPersonalities_ToPersons" FromRole="RelationsBetweenPersonality" ToRole="Personality" />
+          <NavigationProperty Name="Personality1" Relationship="HebrewTextsModel.FK_RelationsBetweenPersonalities_ToPersons2" FromRole="RelationsBetweenPersonality" ToRole="Personality" />
+          <NavigationProperty Name="RelationsSources" Relationship="HebrewTextsModel.FK_RelationsSources_ToRelations" FromRole="RelationsBetweenPersonality" ToRole="RelationsSource" />
+        </EntityType>
+        <EntityType Name="RelationsSource">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RelationID" Type="Int32" Nullable="false" />
+          <Property Name="GroupSourceID" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ContentGroup" Relationship="HebrewTextsModel.FK_RelationsSources_ToContentGroups" FromRole="RelationsSource" ToRole="ContentGroup" />
+          <NavigationProperty Name="RelationsBetweenPersonality" Relationship="HebrewTextsModel.FK_RelationsSources_ToRelations" FromRole="RelationsSource" ToRole="RelationsBetweenPersonality" />
+        </EntityType>
+        <EntityType Name="RelationsBetweenGroup">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="FromGroupID" Type="Int32" Nullable="false" />
+          <Property Name="ToGroupID" Type="Int32" Nullable="false" />
+          <Property Name="RelationType" Type="Int32" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="XMLData" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="GroupsProperty">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="GroupID" Type="Int32" Nullable="false" />
+          <Property Name="PropertyName" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" />
+          <Property Name="PropertyValue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="ContentGroup" Relationship="HebrewTextsModel.FK_GroupsProperties_ToGroups" FromRole="GroupsProperty" ToRole="ContentGroup" />
+        </EntityType>
+        <EntityType Name="TalmudBavliWord">
+          <Key>
+            <PropertyRef Name="KeyWordIndex" />
+            <PropertyRef Name="RootGroupID" />
+          </Key>
+          <Property Name="KeyWordIndex" Type="String" Nullable="false" MaxLength="75" FixedLength="false" Unicode="true" />
+          <Property Name="Word" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="SequenceNumber" Type="Int64" />
+          <Property Name="RootGroupID" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="MainContentWithGroupsLevel">
+          <Key>
+            <PropertyRef Name="MainContentID" />
+            <PropertyRef Name="GroupID" />
+            <PropertyRef Name="SequenceNumber" />
+            <PropertyRef Name="Content" />
+          </Key>
+          <Property Name="MainContentID" Type="Int64" Nullable="false" />
+          <Property Name="GroupID" Type="Int32" Nullable="false" />
+          <Property Name="SequenceNumber" Type="Int32" Nullable="false" />
+          <Property Name="RootGroupID" Type="Int32" />
+          <Property Name="SequenceNumberByRootGroup" Type="Int32" />
+          <Property Name="Content" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="LargeContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="VersionID" Type="Int32" />
+          <Property Name="NextContentID" Type="Int32" />
+          <Property Name="KeyWordIndex" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupTypeLevel1" Type="Int32" />
+          <Property Name="GroupTypeNameLevel1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupSequenceLevel1" Type="Int32" />
+          <Property Name="GroupKeyWordIndexLevel1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupNameLevel1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupIDLevel2" Type="Int32" />
+          <Property Name="GroupTypeLevel2" Type="Int32" />
+          <Property Name="GroupTypeNameLevel2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupSequenceLevel2" Type="Int32" />
+          <Property Name="GroupKeyWordIndexLevel2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupNameLevel2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupIDLevel3" Type="Int32" />
+          <Property Name="GroupTypeLevel3" Type="Int32" />
+          <Property Name="GroupTypeNameLevel3" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupSequenceLevel3" Type="Int32" />
+          <Property Name="GroupKeyWordIndexLevel3" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupNameLevel3" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupIDLevel4" Type="Int32" />
+          <Property Name="GroupTypeLevel4" Type="Int32" />
+          <Property Name="GroupTypeNameLevel4" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupSequenceLevel4" Type="Int32" />
+          <Property Name="GroupKeyWordIndexLevel4" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupNameLevel4" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupIDLevel5" Type="Int32" />
+          <Property Name="GroupTypeLevel5" Type="Int32" />
+          <Property Name="GroupTypeNameLevel5" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupSequenceLevel5" Type="Int32" />
+          <Property Name="GroupKeyWordIndexLevel5" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupNameLevel5" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupIDLevel6" Type="Int32" />
+          <Property Name="GroupTypeLevel6" Type="Int32" />
+          <Property Name="GroupTypeNameLevel6" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupSequenceLevel6" Type="Int32" />
+          <Property Name="GroupKeyWordIndexLevel6" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GroupNameLevel6" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <Association Name="FK_CommonExpressionsToGroups_ToContentGroups">
+          <End Type="HebrewTextsModel.ContentGroup" Role="ContentGroup" Multiplicity="0..1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.CommonExpressionsToGroup" Role="CommonExpressionsToGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroup">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="CommonExpressionsToGroup">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Content_ToContentGroups">
+          <End Type="HebrewTextsModel.ContentGroup" Role="ContentGroup" Multiplicity="1" />
+          <End Type="HebrewTextsModel.MainContent" Role="MainContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroup">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="MainContent">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentGroups_ToGroupsAndDividingTypes">
+          <End Type="HebrewTextsModel.GroupsAndDividingType" Role="GroupsAndDividingType" Multiplicity="0..1" />
+          <End Type="HebrewTextsModel.ContentGroup" Role="ContentGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GroupsAndDividingType">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="ContentGroup">
+              <PropertyRef Name="GroupType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentPatternsToGroups_ToContentGroups">
+          <End Type="HebrewTextsModel.ContentGroup" Role="ContentGroup" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.ContentPatternsToGroup" Role="ContentPatternsToGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroup">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="ContentPatternsToGroup">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentToAlternateGroups_ToContentGroups">
+          <End Type="HebrewTextsModel.ContentGroup" Role="ContentGroup" Multiplicity="1" />
+          <End Type="HebrewTextsModel.ContentToAlternateGroup" Role="ContentToAlternateGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroup">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="ContentToAlternateGroup">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_GroupsProperties_ToGroups">
+          <End Type="HebrewTextsModel.ContentGroup" Role="ContentGroup" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.GroupsProperty" Role="GroupsProperty" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroup">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="GroupsProperty">
+              <PropertyRef Name="GroupID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsSources_ToContentGroups">
+          <End Type="HebrewTextsModel.ContentGroup" Role="ContentGroup" Multiplicity="1" />
+          <End Type="HebrewTextsModel.RelationsSource" Role="RelationsSource" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentGroup">
+              <PropertyRef Name="GroupID" />
+            </Principal>
+            <Dependent Role="RelationsSource">
+              <PropertyRef Name="GroupSourceID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentOtherVersions_ToMainContent">
+          <End Type="HebrewTextsModel.MainContent" Role="MainContent" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.ContentOtherVersion" Role="ContentOtherVersion" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="ContentOtherVersion">
+              <PropertyRef Name="MainContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentToAlternateGroups_ToContent">
+          <End Type="HebrewTextsModel.MainContent" Role="MainContent" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.ContentToAlternateGroup" Role="ContentToAlternateGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="ContentToAlternateGroup">
+              <PropertyRef Name="FromContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentToAlternateGroups_ToContent2">
+          <End Type="HebrewTextsModel.MainContent" Role="MainContent" Multiplicity="1" />
+          <End Type="HebrewTextsModel.ContentToAlternateGroup" Role="ContentToAlternateGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="ContentToAlternateGroup">
+              <PropertyRef Name="ToContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Content_ToVersions">
+          <End Type="HebrewTextsModel.TextVersionSource" Role="TextVersionSource" Multiplicity="0..1" />
+          <End Type="HebrewTextsModel.MainContent" Role="MainContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TextVersionSource">
+              <PropertyRef Name="VersionSourceID" />
+            </Principal>
+            <Dependent Role="MainContent">
+              <PropertyRef Name="VersionSourceID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RootWordsToContent_ToMainContent">
+          <End Type="HebrewTextsModel.MainContent" Role="MainContent" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.RootWordsToContent" Role="RootWordsToContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="RootWordsToContent">
+              <PropertyRef Name="MainContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TanakhCharacters_ToMainContent">
+          <End Type="HebrewTextsModel.MainContent" Role="MainContent" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.TanakhCharacter" Role="TanakhCharacter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="MainContent">
+              <PropertyRef Name="MainContentID" />
+            </Principal>
+            <Dependent Role="TanakhCharacter">
+              <PropertyRef Name="MainContentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CommonExpressionsToGroups_ToCommonExpressions">
+          <End Type="HebrewTextsModel.CommonExpression" Role="CommonExpression" Multiplicity="0..1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.CommonExpressionsToGroup" Role="CommonExpressionsToGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CommonExpression">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="CommonExpressionsToGroup">
+              <PropertyRef Name="CommonExpressionID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConceptsDictionaryMeanings_ToConceptsDictionary">
+          <End Type="HebrewTextsModel.ConceptsDictionary" Role="ConceptsDictionary" Multiplicity="1" />
+          <End Type="HebrewTextsModel.ConceptsDictionaryMeaning" Role="ConceptsDictionaryMeaning" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ConceptsDictionary">
+              <PropertyRef Name="ConceptDictionaryID" />
+            </Principal>
+            <Dependent Role="ConceptsDictionaryMeaning">
+              <PropertyRef Name="ConceptDictionaryID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings">
+          <End Type="HebrewTextsModel.ConceptsDictionaryMeaning" Role="ConceptsDictionaryMeaning" Multiplicity="1" />
+          <End Type="HebrewTextsModel.ConceptsDictionaryMeaningsToGroup" Role="ConceptsDictionaryMeaningsToGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ConceptsDictionaryMeaning">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="ConceptsDictionaryMeaningsToGroup">
+              <PropertyRef Name="ConceptsDictionaryMeaningID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ContentPatternsToGroups_ToContentPatterns">
+          <End Type="HebrewTextsModel.ContentPattern" Role="ContentPattern" Multiplicity="1" />
+          <End Type="HebrewTextsModel.ContentPatternsToGroup" Role="ContentPatternsToGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ContentPattern">
+              <PropertyRef Name="ContentPatternID" />
+            </Principal>
+            <Dependent Role="ContentPatternsToGroup">
+              <PropertyRef Name="ContentPatternID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsBetweenCommonExpressions_ToTable">
+          <End Type="HebrewTextsModel.RelationTypesBetweenCommonExpressions_Ref" Role="RelationTypesBetweenCommonExpressions_Ref" Multiplicity="1" />
+          <End Type="HebrewTextsModel.RelationsBetweenCommonExpression" Role="RelationsBetweenCommonExpression" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RelationTypesBetweenCommonExpressions_Ref">
+              <PropertyRef Name="RelationTypeID" />
+            </Principal>
+            <Dependent Role="RelationsBetweenCommonExpression">
+              <PropertyRef Name="RelationType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RootWordForms_ToRootWord">
+          <End Type="HebrewTextsModel.RootWord" Role="RootWord" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.RootWordForm" Role="RootWordForm" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RootWord">
+              <PropertyRef Name="RootWordID" />
+            </Principal>
+            <Dependent Role="RootWordForm">
+              <PropertyRef Name="RootWordID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RootWordsToContent_ToRootWords">
+          <End Type="HebrewTextsModel.RootWord" Role="RootWord" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="HebrewTextsModel.RootWordsToContent" Role="RootWordsToContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RootWord">
+              <PropertyRef Name="RootWordID" />
+            </Principal>
+            <Dependent Role="RootWordsToContent">
+              <PropertyRef Name="RootWordID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordsRelations_ToWords">
+          <End Type="HebrewTextsModel.WordsDictionary" Role="WordsDictionary" Multiplicity="1" />
+          <End Type="HebrewTextsModel.WordsRelation" Role="WordsRelation" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="WordsDictionary">
+              <PropertyRef Name="WordID" />
+            </Principal>
+            <Dependent Role="WordsRelation">
+              <PropertyRef Name="FromWordID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordsRelations_ToWords2">
+          <End Type="HebrewTextsModel.WordsDictionary" Role="WordsDictionary" Multiplicity="1" />
+          <End Type="HebrewTextsModel.WordsRelation" Role="WordsRelation" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="WordsDictionary">
+              <PropertyRef Name="WordID" />
+            </Principal>
+            <Dependent Role="WordsRelation">
+              <PropertyRef Name="ToWordID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_InstancesInContent_ToPersonalities">
+          <End Type="HebrewTextsModel.Personality" Role="Personality" Multiplicity="1" />
+          <End Type="HebrewTextsModel.PersonalitiesInstancesInContent" Role="PersonalitiesInstancesInContent" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Personality">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="PersonalitiesInstancesInContent">
+              <PropertyRef Name="PersonalityID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsBetweenPersonalities_ToPersons">
+          <End Type="HebrewTextsModel.Personality" Role="Personality" Multiplicity="1" />
+          <End Type="HebrewTextsModel.RelationsBetweenPersonality" Role="RelationsBetweenPersonality" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Personality">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RelationsBetweenPersonality">
+              <PropertyRef Name="FromPersonID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsBetweenPersonalities_ToPersons2">
+          <End Type="HebrewTextsModel.Personality" Role="Personality" Multiplicity="1" />
+          <End Type="HebrewTextsModel.RelationsBetweenPersonality" Role="RelationsBetweenPersonality" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Personality">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RelationsBetweenPersonality">
+              <PropertyRef Name="ToPersonID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_RelationsSources_ToRelations">
+          <End Type="HebrewTextsModel.RelationsBetweenPersonality" Role="RelationsBetweenPersonality" Multiplicity="1" />
+          <End Type="HebrewTextsModel.RelationsSource" Role="RelationsSource" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="RelationsBetweenPersonality">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="RelationsSource">
+              <PropertyRef Name="RelationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="HebrewTextsModelStoreContainer" CdmEntityContainer="HebrewTextsEntities">
+          <EntitySetMapping Name="ContentGroups">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ContentGroup">
+              <MappingFragment StoreEntitySet="ContentGroups">
+                <ScalarProperty Name="VersionID" ColumnName="VersionID" />
+                <ScalarProperty Name="KeyWordIndex" ColumnName="KeyWordIndex" />
+                <ScalarProperty Name="RootGroupID" ColumnName="RootGroupID" />
+                <ScalarProperty Name="NextGroupIDInLevel" ColumnName="NextGroupIDInLevel" />
+                <ScalarProperty Name="RoutePriority" ColumnName="RoutePriority" />
+                <ScalarProperty Name="XMLData" ColumnName="XMLData" />
+                <ScalarProperty Name="ParentGroupID" ColumnName="ParentGroupID" />
+                <ScalarProperty Name="SequenceNumberByRootGroup" ColumnName="SequenceNumberByRootGroup" />
+                <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+                <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+                <ScalarProperty Name="GroupType" ColumnName="GroupType" />
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ContentOtherVersions">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ContentOtherVersion">
+              <MappingFragment StoreEntitySet="ContentOtherVersions">
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+                <ScalarProperty Name="VersionOperation" ColumnName="VersionOperation" />
+                <ScalarProperty Name="VersionSourceID" ColumnName="VersionSourceID" />
+                <ScalarProperty Name="MainContentID" ColumnName="MainContentID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ContentToAlternateGroups">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ContentToAlternateGroup">
+              <MappingFragment StoreEntitySet="ContentToAlternateGroups">
+                <ScalarProperty Name="VersionID" ColumnName="VersionID" />
+                <ScalarProperty Name="ToContentID" ColumnName="ToContentID" />
+                <ScalarProperty Name="FromContentID" ColumnName="FromContentID" />
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GroupsAndDividingTypes">
+            <EntityTypeMapping TypeName="HebrewTextsModel.GroupsAndDividingType">
+              <MappingFragment StoreEntitySet="GroupsAndDividingTypes">
+                <ScalarProperty Name="KeyWordIndex" ColumnName="KeyWordIndex" />
+                <ScalarProperty Name="XMLData" ColumnName="XMLData" />
+                <ScalarProperty Name="GroupLevel" ColumnName="GroupLevel" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Letters_Ref">
+            <EntityTypeMapping TypeName="HebrewTextsModel.Letters_Ref">
+              <MappingFragment StoreEntitySet="Letters_Ref">
+                <ScalarProperty Name="NumericValue" ColumnName="NumericValue" />
+                <ScalarProperty Name="Letter" ColumnName="Letter" />
+                <ScalarProperty Name="LetterID" ColumnName="LetterID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MainContents">
+            <EntityTypeMapping TypeName="HebrewTextsModel.MainContent">
+              <MappingFragment StoreEntitySet="MainContent">
+                <ScalarProperty Name="KeyWordIndex" ColumnName="KeyWordIndex" />
+                <ScalarProperty Name="NextContentID" ColumnName="NextContentID" />
+                <ScalarProperty Name="VersionSourceID" ColumnName="VersionSourceID" />
+                <ScalarProperty Name="LargeContent" ColumnName="LargeContent" />
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="SequenceNumberByRootGroup" ColumnName="SequenceNumberByRootGroup" />
+                <ScalarProperty Name="RootGroupID" ColumnName="RootGroupID" />
+                <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="MainContentID" ColumnName="MainContentID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Niqqud_Ref">
+            <EntityTypeMapping TypeName="HebrewTextsModel.Niqqud_Ref">
+              <MappingFragment StoreEntitySet="Niqqud_Ref">
+                <ScalarProperty Name="Comments" ColumnName="Comments" />
+                <ScalarProperty Name="NiqqudName" ColumnName="NiqqudName" />
+                <ScalarProperty Name="Niqqud" ColumnName="Niqqud" />
+                <ScalarProperty Name="NiqqudID" ColumnName="NiqqudID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SetContentLogs">
+            <EntityTypeMapping TypeName="HebrewTextsModel.SetContentLog">
+              <MappingFragment StoreEntitySet="SetContentLog">
+                <ScalarProperty Name="AddedRecordDate" ColumnName="AddedRecordDate" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="FullContent" ColumnName="FullContent" />
+                <ScalarProperty Name="GrpupID" ColumnName="GrpupID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TanakhCharacters">
+            <EntityTypeMapping TypeName="HebrewTextsModel.TanakhCharacter">
+              <MappingFragment StoreEntitySet="TanakhCharacters">
+                <ScalarProperty Name="TaamID" ColumnName="TaamID" />
+                <ScalarProperty Name="NiqqudID" ColumnName="NiqqudID" />
+                <ScalarProperty Name="LetterID" ColumnName="LetterID" />
+                <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+                <ScalarProperty Name="MainContentID" ColumnName="MainContentID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TextVersionSources">
+            <EntityTypeMapping TypeName="HebrewTextsModel.TextVersionSource">
+              <MappingFragment StoreEntitySet="TextVersionSources">
+                <ScalarProperty Name="BookPublishing" ColumnName="BookPublishing" />
+                <ScalarProperty Name="Comments" ColumnName="Comments" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="VersionSourceID" ColumnName="VersionSourceID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="C__RefactorLog">
+            <EntityTypeMapping TypeName="HebrewTextsModel.C__RefactorLog">
+              <MappingFragment StoreEntitySet="__RefactorLog">
+                <ScalarProperty Name="OperationKey" ColumnName="OperationKey" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Books">
+            <EntityTypeMapping TypeName="HebrewTextsModel.Book">
+              <MappingFragment StoreEntitySet="Books">
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DistinctWords">
+            <EntityTypeMapping TypeName="HebrewTextsModel.DistinctWord">
+              <MappingFragment StoreEntitySet="DistinctWords">
+                <ScalarProperty Name="Word" ColumnName="Word" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="HebrewTextsModel.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="definition" ColumnName="definition" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Taamim_Ref">
+            <EntityTypeMapping TypeName="HebrewTextsModel.Taamim_Ref">
+              <MappingFragment StoreEntitySet="Taamim_Ref">
+                <ScalarProperty Name="Comments" ColumnName="Comments" />
+                <ScalarProperty Name="TaamName" ColumnName="TaamName" />
+                <ScalarProperty Name="Taam" ColumnName="Taam" />
+                <ScalarProperty Name="TaamID" ColumnName="TaamID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tanakhs">
+            <EntityTypeMapping TypeName="HebrewTextsModel.Tanakh">
+              <MappingFragment StoreEntitySet="Tanakh">
+                <ScalarProperty Name="NewBookID" ColumnName="NewBookID" />
+                <ScalarProperty Name="TextOnly" ColumnName="TextOnly" />
+                <ScalarProperty Name="NetContent" ColumnName="NetContent" />
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="Verse" ColumnName="Verse" />
+                <ScalarProperty Name="Chapter" ColumnName="Chapter" />
+                <ScalarProperty Name="BookID" ColumnName="BookID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WordsInTanakhs">
+            <EntityTypeMapping TypeName="HebrewTextsModel.WordsInTanakh">
+              <MappingFragment StoreEntitySet="WordsInTanakh">
+                <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+                <ScalarProperty Name="VerseID" ColumnName="VerseID" />
+                <ScalarProperty Name="WordWithNiqqud" ColumnName="WordWithNiqqud" />
+                <ScalarProperty Name="Word" ColumnName="Word" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RawImportStuffs">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RawImportStuff">
+              <MappingFragment StoreEntitySet="RawImportStuffs">
+                <ScalarProperty Name="Source" ColumnName="Source" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="GroupSequenceLevel3" ColumnName="GroupSequenceLevel3" />
+                <ScalarProperty Name="GroupSequenceLevel2" ColumnName="GroupSequenceLevel2" />
+                <ScalarProperty Name="GroupSequenceLevel1" ColumnName="GroupSequenceLevel1" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TalmudBavliRawImports">
+            <EntityTypeMapping TypeName="HebrewTextsModel.TalmudBavliRawImport">
+              <MappingFragment StoreEntitySet="TalmudBavliRawImport">
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="KeyWordIndex" ColumnName="KeyWordIndex" />
+                <ScalarProperty Name="StartChapterName" ColumnName="StartChapterName" />
+                <ScalarProperty Name="EndGemaraPosition" ColumnName="EndGemaraPosition" />
+                <ScalarProperty Name="StartGemaraPosition" ColumnName="StartGemaraPosition" />
+                <ScalarProperty Name="EndMishnaPosition" ColumnName="EndMishnaPosition" />
+                <ScalarProperty Name="StartMishnaPosition" ColumnName="StartMishnaPosition" />
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="RowNumber" ColumnName="RowNumber" />
+                <ScalarProperty Name="AmudNumber" ColumnName="AmudNumber" />
+                <ScalarProperty Name="DafNumber" ColumnName="DafNumber" />
+                <ScalarProperty Name="Masechet" ColumnName="Masechet" />
+                <ScalarProperty Name="GeneralSequenceNumber" ColumnName="GeneralSequenceNumber" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CommonExpressions">
+            <EntityTypeMapping TypeName="HebrewTextsModel.CommonExpression">
+              <MappingFragment StoreEntitySet="CommonExpressions">
+                <ScalarProperty Name="ExpressionWords" ColumnName="ExpressionWords" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CommonExpressionsToGroups">
+            <EntityTypeMapping TypeName="HebrewTextsModel.CommonExpressionsToGroup">
+              <MappingFragment StoreEntitySet="CommonExpressionsToGroups">
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="CommonExpressionID" ColumnName="CommonExpressionID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ConceptsDictionaries">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ConceptsDictionary">
+              <MappingFragment StoreEntitySet="ConceptsDictionary">
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="ConceptRootWord" ColumnName="ConceptRootWord" />
+                <ScalarProperty Name="ConceptDictionaryID" ColumnName="ConceptDictionaryID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ConceptsDictionaryMeanings">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ConceptsDictionaryMeaning">
+              <MappingFragment StoreEntitySet="ConceptsDictionaryMeanings">
+                <ScalarProperty Name="AddedDate" ColumnName="AddedDate" />
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="Meaning" ColumnName="Meaning" />
+                <ScalarProperty Name="ConceptDictionaryID" ColumnName="ConceptDictionaryID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ConceptsDictionaryMeaningsToGroups">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ConceptsDictionaryMeaningsToGroup">
+              <MappingFragment StoreEntitySet="ConceptsDictionaryMeaningsToGroups">
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="ConceptsDictionaryMeaningID" ColumnName="ConceptsDictionaryMeaningID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ContentPatterns">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ContentPattern">
+              <MappingFragment StoreEntitySet="ContentPatterns">
+                <ScalarProperty Name="PatternDescription" ColumnName="PatternDescription" />
+                <ScalarProperty Name="PatternFormula" ColumnName="PatternFormula" />
+                <ScalarProperty Name="ContentPatternID" ColumnName="ContentPatternID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ContentPatternsToGroups">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ContentPatternsToGroup">
+              <MappingFragment StoreEntitySet="ContentPatternsToGroups">
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="ContentPatternID" ColumnName="ContentPatternID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ContentTypes_Ref">
+            <EntityTypeMapping TypeName="HebrewTextsModel.ContentTypes_Ref">
+              <MappingFragment StoreEntitySet="ContentTypes_Ref">
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RelationsBetweenCommonExpressions">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RelationsBetweenCommonExpression">
+              <MappingFragment StoreEntitySet="RelationsBetweenCommonExpressions">
+                <ScalarProperty Name="RelationDescription" ColumnName="RelationDescription" />
+                <ScalarProperty Name="RelationType" ColumnName="RelationType" />
+                <ScalarProperty Name="ToCommonExpressionID" ColumnName="ToCommonExpressionID" />
+                <ScalarProperty Name="FromCommonExpressionID" ColumnName="FromCommonExpressionID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RelationTypesBetweenCommonExpressions_Ref">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RelationTypesBetweenCommonExpressions_Ref">
+              <MappingFragment StoreEntitySet="RelationTypesBetweenCommonExpressions_Ref">
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="RelationTypeID" ColumnName="RelationTypeID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RootWordForms">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RootWordForm">
+              <MappingFragment StoreEntitySet="RootWordForms">
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="WordForm" ColumnName="WordForm" />
+                <ScalarProperty Name="RootWordID" ColumnName="RootWordID" />
+                <ScalarProperty Name="RootWordFormID" ColumnName="RootWordFormID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RootWords">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RootWord">
+              <MappingFragment StoreEntitySet="RootWords">
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="RootWord1" ColumnName="RootWord" />
+                <ScalarProperty Name="RootWordID" ColumnName="RootWordID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RootWordsToContents">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RootWordsToContent">
+              <MappingFragment StoreEntitySet="RootWordsToContent">
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="MainContentID" ColumnName="MainContentID" />
+                <ScalarProperty Name="RootWordID" ColumnName="RootWordID" />
+                <ScalarProperty Name="RootWordsToContentID" ColumnName="RootWordsToContentID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WordsDictionaries">
+            <EntityTypeMapping TypeName="HebrewTextsModel.WordsDictionary">
+              <MappingFragment StoreEntitySet="WordsDictionary">
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="Word" ColumnName="Word" />
+                <ScalarProperty Name="WordID" ColumnName="WordID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WordsRelations">
+            <EntityTypeMapping TypeName="HebrewTextsModel.WordsRelation">
+              <MappingFragment StoreEntitySet="WordsRelations">
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="RelationType" ColumnName="RelationType" />
+                <ScalarProperty Name="ToWordID" ColumnName="ToWordID" />
+                <ScalarProperty Name="FromWordID" ColumnName="FromWordID" />
+                <ScalarProperty Name="WordsRelationID" ColumnName="WordsRelationID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Personalities">
+            <EntityTypeMapping TypeName="HebrewTextsModel.Personality">
+              <MappingFragment StoreEntitySet="Personalities">
+                <ScalarProperty Name="Comments" ColumnName="Comments" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="StudyPlace" ColumnName="StudyPlace" />
+                <ScalarProperty Name="LivingArea" ColumnName="LivingArea" />
+                <ScalarProperty Name="DeathHebrewYear" ColumnName="DeathHebrewYear" />
+                <ScalarProperty Name="BornHebrewYear" ColumnName="BornHebrewYear" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PersonalitiesInstancesInContents">
+            <EntityTypeMapping TypeName="HebrewTextsModel.PersonalitiesInstancesInContent">
+              <MappingFragment StoreEntitySet="PersonalitiesInstancesInContent">
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="ContentID" ColumnName="ContentID" />
+                <ScalarProperty Name="PersonalityID" ColumnName="PersonalityID" />
+                <ScalarProperty Name="InstanceID" ColumnName="InstanceID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RelationsBetweenPersonalities">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RelationsBetweenPersonality">
+              <MappingFragment StoreEntitySet="RelationsBetweenPersonalities">
+                <ScalarProperty Name="ToHebrewYear" ColumnName="ToHebrewYear" />
+                <ScalarProperty Name="FromHebrewYear" ColumnName="FromHebrewYear" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="RelationType" ColumnName="RelationType" />
+                <ScalarProperty Name="ToPersonID" ColumnName="ToPersonID" />
+                <ScalarProperty Name="FromPersonID" ColumnName="FromPersonID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RelationsSources">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RelationsSource">
+              <MappingFragment StoreEntitySet="RelationsSources">
+                <ScalarProperty Name="GroupSourceID" ColumnName="GroupSourceID" />
+                <ScalarProperty Name="RelationID" ColumnName="RelationID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RelationsBetweenGroups">
+            <EntityTypeMapping TypeName="HebrewTextsModel.RelationsBetweenGroup">
+              <MappingFragment StoreEntitySet="RelationsBetweenGroups">
+                <ScalarProperty Name="XMLData" ColumnName="XMLData" />
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="RelationType" ColumnName="RelationType" />
+                <ScalarProperty Name="ToGroupID" ColumnName="ToGroupID" />
+                <ScalarProperty Name="FromGroupID" ColumnName="FromGroupID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GroupsProperties">
+            <EntityTypeMapping TypeName="HebrewTextsModel.GroupsProperty">
+              <MappingFragment StoreEntitySet="GroupsProperties">
+                <ScalarProperty Name="PropertyValue" ColumnName="PropertyValue" />
+                <ScalarProperty Name="PropertyName" ColumnName="PropertyName" />
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TalmudBavliWords">
+            <EntityTypeMapping TypeName="HebrewTextsModel.TalmudBavliWord">
+              <MappingFragment StoreEntitySet="TalmudBavliWords">
+                <ScalarProperty Name="RootGroupID" ColumnName="RootGroupID" />
+                <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+                <ScalarProperty Name="Word" ColumnName="Word" />
+                <ScalarProperty Name="KeyWordIndex" ColumnName="KeyWordIndex" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MainContentWithGroupsLevels">
+            <EntityTypeMapping TypeName="HebrewTextsModel.MainContentWithGroupsLevel">
+              <MappingFragment StoreEntitySet="MainContentWithGroupsLevels">
+                <ScalarProperty Name="GroupNameLevel6" ColumnName="GroupNameLevel6" />
+                <ScalarProperty Name="GroupKeyWordIndexLevel6" ColumnName="GroupKeyWordIndexLevel6" />
+                <ScalarProperty Name="GroupSequenceLevel6" ColumnName="GroupSequenceLevel6" />
+                <ScalarProperty Name="GroupTypeNameLevel6" ColumnName="GroupTypeNameLevel6" />
+                <ScalarProperty Name="GroupTypeLevel6" ColumnName="GroupTypeLevel6" />
+                <ScalarProperty Name="GroupIDLevel6" ColumnName="GroupIDLevel6" />
+                <ScalarProperty Name="GroupNameLevel5" ColumnName="GroupNameLevel5" />
+                <ScalarProperty Name="GroupKeyWordIndexLevel5" ColumnName="GroupKeyWordIndexLevel5" />
+                <ScalarProperty Name="GroupSequenceLevel5" ColumnName="GroupSequenceLevel5" />
+                <ScalarProperty Name="GroupTypeNameLevel5" ColumnName="GroupTypeNameLevel5" />
+                <ScalarProperty Name="GroupTypeLevel5" ColumnName="GroupTypeLevel5" />
+                <ScalarProperty Name="GroupIDLevel5" ColumnName="GroupIDLevel5" />
+                <ScalarProperty Name="GroupNameLevel4" ColumnName="GroupNameLevel4" />
+                <ScalarProperty Name="GroupKeyWordIndexLevel4" ColumnName="GroupKeyWordIndexLevel4" />
+                <ScalarProperty Name="GroupSequenceLevel4" ColumnName="GroupSequenceLevel4" />
+                <ScalarProperty Name="GroupTypeNameLevel4" ColumnName="GroupTypeNameLevel4" />
+                <ScalarProperty Name="GroupTypeLevel4" ColumnName="GroupTypeLevel4" />
+                <ScalarProperty Name="GroupIDLevel4" ColumnName="GroupIDLevel4" />
+                <ScalarProperty Name="GroupNameLevel3" ColumnName="GroupNameLevel3" />
+                <ScalarProperty Name="GroupKeyWordIndexLevel3" ColumnName="GroupKeyWordIndexLevel3" />
+                <ScalarProperty Name="GroupSequenceLevel3" ColumnName="GroupSequenceLevel3" />
+                <ScalarProperty Name="GroupTypeNameLevel3" ColumnName="GroupTypeNameLevel3" />
+                <ScalarProperty Name="GroupTypeLevel3" ColumnName="GroupTypeLevel3" />
+                <ScalarProperty Name="GroupIDLevel3" ColumnName="GroupIDLevel3" />
+                <ScalarProperty Name="GroupNameLevel2" ColumnName="GroupNameLevel2" />
+                <ScalarProperty Name="GroupKeyWordIndexLevel2" ColumnName="GroupKeyWordIndexLevel2" />
+                <ScalarProperty Name="GroupSequenceLevel2" ColumnName="GroupSequenceLevel2" />
+                <ScalarProperty Name="GroupTypeNameLevel2" ColumnName="GroupTypeNameLevel2" />
+                <ScalarProperty Name="GroupTypeLevel2" ColumnName="GroupTypeLevel2" />
+                <ScalarProperty Name="GroupIDLevel2" ColumnName="GroupIDLevel2" />
+                <ScalarProperty Name="GroupNameLevel1" ColumnName="GroupNameLevel1" />
+                <ScalarProperty Name="GroupKeyWordIndexLevel1" ColumnName="GroupKeyWordIndexLevel1" />
+                <ScalarProperty Name="GroupSequenceLevel1" ColumnName="GroupSequenceLevel1" />
+                <ScalarProperty Name="GroupTypeNameLevel1" ColumnName="GroupTypeNameLevel1" />
+                <ScalarProperty Name="GroupTypeLevel1" ColumnName="GroupTypeLevel1" />
+                <ScalarProperty Name="KeyWordIndex" ColumnName="KeyWordIndex" />
+                <ScalarProperty Name="NextContentID" ColumnName="NextContentID" />
+                <ScalarProperty Name="VersionID" ColumnName="VersionID" />
+                <ScalarProperty Name="LargeContent" ColumnName="LargeContent" />
+                <ScalarProperty Name="Content" ColumnName="Content" />
+                <ScalarProperty Name="SequenceNumberByRootGroup" ColumnName="SequenceNumberByRootGroup" />
+                <ScalarProperty Name="RootGroupID" ColumnName="RootGroupID" />
+                <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+                <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+                <ScalarProperty Name="MainContentID" ColumnName="MainContentID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

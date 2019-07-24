@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:11.975924</dateCreated>
+   <lastModified>2016-08-04 11:57:11.975924</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="53">
+	<amud value="1">
+		<row row_number="1" isdata="1">והא רבא הוא דאמר לא נצרכה אלא</row>
+		<row row_number="2" isdata="1">לשדרה וגולגולת שאין בהן רובע עצמות</row>
+		<row row_number="3" isdata="1">בתר דשמעה מר"ע ת"ש שמאי אומר עצם</row>
+		<row row_number="4" isdata="1">אחד מן שדרה או מן גולגולת שאני שמאי</row>
+		<row row_number="5" isdata="1">דמחמיר טפי ליפשוט מינה טעמא דשמאי</row>
+		<row row_number="6" isdata="1">דמחמי' הא לרבנן עד דאיכא חצי קב עצמו'</row>
+		<row row_number="7" isdata="1">דילמא עד כאן לא פליגי רבנן עליה דשמאי</row>
+		<row row_number="8" isdata="1">אלא בעצם אחד אבל ברובע עצמות אפילו</row>
+		<row row_number="9" isdata="1">רבנן מודו אמר רבי אליעזר זקנים הראשונים</row>
+		<row row_number="10" isdata="1">מקצתן היו אומרים חצי קב עצמות וחצי לוג</row>
+		<row row_number="11" isdata="1">דם לכל רובע עצמות ורביעית דם לא</row>
+		<row row_number="12" isdata="1">לכל ומקצתן היו אומרים אף רובע עצמות</row>
+		<row row_number="13" isdata="1">ורביעית דם לכל ב"ד שלאחריהם אמרו</row>
+		<row row_number="14" isdata="1">חצי קב עצמות וחצי לוג דם לכל רובע</row>
+		<row row_number="15" isdata="1">עצמות ורביעית דם לתרומה וקדשים אבל</row>
+		<row row_number="16" isdata="1">לא לנזיר ועושה פסח מכדי אין הכרעת</row>
+		<row row_number="17" isdata="1">שלישית מכרעת אמר רבי יעקב בר אידי</row>
+		<row row_number="18" isdata="1">מפי שמועה אמרו מפי חגי זכריה ומלאכי:</row>
+		<row row_number="19" isdata="1">על אלו הנזיר מגלח: על אלו דרישא למעוטי</row>
+		<row row_number="20" isdata="1">עצם כשעורה דעל מגעו ועל משאו אין</row>
+		<row row_number="21" isdata="1">ועל אהילו לא ועל אלו דסיפא למעוטי</row>
+		<row row_number="22" isdata="1">אבן הסכוכית: וחצי קב עצמות:</row>
+		<row row_number="23" isdata="0">חצי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:47.718968</dateCreated>
+   <lastModified>2016-08-04 11:57:47.718968</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="55">
+	<amud value="2">
+		<row row_number="1" isdata="1">אבל לא בוצרין עמו ישראל שהוא עושה</row>
+		<row row_number="2" isdata="1">בטומאה לא דורכין ולא בוצרין עמו אבל</row>
+		<row row_number="3" isdata="1">מוליכין עמו חביות לגת ומביאין עמו מן</row>
+		<row row_number="4" isdata="1">הגת: נחתום שהוא עושה בטומאה לא</row>
+		<row row_number="5" isdata="1">לשין ולא עורכין עמו אבל מוליכין עמו פת</row>
+		<row row_number="6" isdata="1">לפלטר: <EndMishna/><StartGemara/>גמ' אמר רב הונא יין כיון</row>
+		<row row_number="7" isdata="1">שהתחיל להמשך עושה יין נסך תנן לוקחים</row>
+		<row row_number="8" isdata="1">גת בעוטה מן העובד כוכבים ואע"פ שנטל</row>
+		<row row_number="9" isdata="1">בידו ונתן לתפוח א"ר הונא בגת פקוקה</row>
+		<row row_number="10" isdata="1">ומלאה ת"ש ואינו עושה יין נסך עד שירד</row>
+		<row row_number="11" isdata="1">לבור ה"נ בגת פקוקה ומלאה ת"ש ירד לבור</row>
+		<row row_number="12" isdata="1">מה שבבור אסור והשאר מותר אמר רב</row>
+		<row row_number="13" isdata="1">הונא לא קשיא כאן במשנה ראשונה כאן</row>
+		<row row_number="14" isdata="1">במשנה אחרונה דתניא בראשונה היו</row>
+		<row row_number="15" isdata="1">אומרים בד"ד אין בוצרין עם העובד כוכבים</row>
+		<row row_number="16" isdata="1">בגת שאסור לגרום טומאה לחולין שבא"י ואין</row>
+		<row row_number="17" isdata="1">דורכין עם ישראל שעושה פירותיו בטומאה</row>
+		<row row_number="18" isdata="1">שאסור לסייע ידי עוברי עבירה אבל דורכים</row>
+		<row row_number="19" isdata="1">עם העובד כוכבים בגת ולא חיישינן לדרב</row>
+		<row row_number="20" isdata="1">הונא וחזרו לומר דב"ד אין דורכין עם</row>
+		<row row_number="21" isdata="1">העובד כוכבים בגת משום דרב הונא</row>
+		<row row_number="22" isdata="0">ואין</row>
+</amud>
+</daf>
+</masechet>
+</root>

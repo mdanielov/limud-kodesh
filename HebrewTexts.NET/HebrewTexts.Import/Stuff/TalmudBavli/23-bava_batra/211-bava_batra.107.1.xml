@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:35.573273</dateCreated>
+   <lastModified>2016-08-04 11:57:35.573273</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="107">
+	<amud value="1">
+		<row row_number="1" isdata="1">התם עבוד רבנן מילתא דניחא ליה למוכר</row>
+		<row row_number="2" isdata="1">וניחא ליה ללוקח איתמר אחין שחלקו ובא</row>
+		<row row_number="3" isdata="1">בעל חוב ונטל חלקו של אחד מהן רב אמר</row>
+		<row row_number="4" isdata="1">בטלה מחלוקת ושמואל אמר ויתר ורב</row>
+		<row row_number="5" isdata="1">אסי אמר נוטל רביע בקרקע ורביע במעות</row>
+		<row row_number="6" isdata="1">רב אמר בטלה מחלוקת קא סבר האחין</row>
+		<row row_number="7" isdata="1">שחלקו יורשין הן ושמואל אמר ויתר קא סבר</row>
+		<row row_number="8" isdata="1">האחין שחלקו לקוחות הוו וכלוקח שלא</row>
+		<row row_number="9" isdata="1">באחריות דמי רב אסי מספקא ליה אי יורשין</row>
+		<row row_number="10" isdata="1">הוו אי לקוחות הוו הלכך נוטל רביע בקרקע</row>
+		<row row_number="11" isdata="1">ורביע במעות אמר רב פפא הלכתא בכל</row>
+		<row row_number="12" isdata="1">הני שמעתתא מקמצין אמימר אמר בטלה</row>
+		<row row_number="13" isdata="1">מחלוקת והלכתא בטלה מחלוקת: תנו רבנן</row>
+		<row row_number="14" isdata="1">שלשה שירדו לשום אחד אומר במנה ושנים</row>
+		<row row_number="15" isdata="1">אומרים במאתים אחד אומר במאתים ושנים</row>
+		<row row_number="16" isdata="1">אומרים במנה בטל יחיד במיעוטו אחד אומר</row>
+		<row row_number="17" isdata="1">במנה ואחד אומר בעשרים ואחד אומר</row>
+		<row row_number="18" isdata="1">בשלשים נדון במנה רבי אליעזר ברבי צדוק</row>
+		<row row_number="19" isdata="1">אומר נדון בתשעים אחרים אומרים עושין</row>
+		<row row_number="20" isdata="1">שומא ביניהן ומשלשין מאן דאמר נדון</row>
+		<row row_number="21" isdata="1">במנה מילתא מציעתא רבי אליעזר בר' צדוק</row>
+		<row row_number="22" isdata="1">אומר נדון בתשעים קא סבר הא ארעא</row>
+		<row row_number="23" isdata="0">תשעין</row>
+</amud>
+</daf>
+</masechet>
+</root>

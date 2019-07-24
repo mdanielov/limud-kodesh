@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:52.606248</dateCreated>
+   <lastModified>2016-08-04 11:57:52.606248</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="90">
+	<amud value="1">
+		<row row_number="1" isdata="1">ואין חייבין עליהן משום פיגול נותר וטמא</row>
+		<row row_number="2" isdata="1">ר"ע אומר מועלין בהן וחייבין עליהן משום</row>
+		<row row_number="3" isdata="1">פיגול נותר וטמא א] מאי לאו בדהדר עיילינהו</row>
+		<row row_number="4" isdata="1">פליגי ובהא פליגי דמר סבר מיפסלי ביוצא</row>
+		<row row_number="5" isdata="1">ומר סבר לא מיפסלי ביוצא אמר רב פפא</row>
+		<row row_number="6" isdata="1">בדהדר עיילינהו כ"ע לא פליגי והכא</row>
+		<row row_number="7" isdata="1">בדאיתנהו אבראי פליגי ובהא פליגי דמר</row>
+		<row row_number="8" isdata="1">סבר אין זריקה מועלת ליוצא ומר סבר זריקה</row>
+		<row row_number="9" isdata="1">מועלת ליוצא והא רב פפא הוא דאמר</row>
+		<row row_number="10" isdata="1">בדאיתנהו אבראי כ"ע לא פליגי בדעיילינהו</row>
+		<row row_number="11" isdata="1">לגוואי פליגי ה"מ גבי שתי לחם דלאו גופיה</row>
+		<row row_number="12" isdata="1">דזיבחא ב] אבל אימורין דגופיה דזיבחא הוא</row>
+		<row row_number="13" isdata="1">בדאיתנהו אבראי פליגי: עופות קודמין כו':</row>
+		<row row_number="14" isdata="1">אדרבה מנחות קודמות שכן ישנן בצבור</row>
+		<row row_number="15" isdata="1">כביחיד אפ"ה מיני דמים עדיפי: מנחת חוטא</row>
+		<row row_number="16" isdata="1">כו': אדרבה מנחת נדבה קודמת שכן טעונה</row>
+		<row row_number="17" isdata="1">שמן ולבונה אפ"ה ג] מנחת חוטא הבאה על</row>
+		<row row_number="18" isdata="1">חטא עדיפא דמכפרת איבעיא להו מנחת</row>
+		<row row_number="19" isdata="1">סוטה ומנחת נדבה איזו מהן קודמת מנחת</row>
+		<row row_number="20" isdata="1">נדבה קדמה שכן טעונה שמן ד] (או) ולבונה</row>
+		<row row_number="21" isdata="1">או דלמא מנחת סוטה קדמה שכן באה לברר</row>
+		<row row_number="22" isdata="1">עון ת"ש מנחת חוטא קודמת למנחת נדבה</row>
+		<row row_number="23" isdata="1">מנחת חוטא הוא דקדמה למנחת נדבה הא</row>
+		<row row_number="24" isdata="1">מנחת סוטה לא מי קתני מפני שהיא מכפרת</row>
+		<row row_number="25" isdata="1">מפני שהיא באה על חטא קתני והא נמי באה</row>
+		<row row_number="26" isdata="1">על חטא ת"ש זו קודמת לזו שזו באה מן</row>
+		<row row_number="27" isdata="1">החיטין וזו באה מן השעורין מאי לאו מנחת</row>
+		<row row_number="28" isdata="1">נדבה למנחת סוטה לא מנחת חוטא למנחת</row>
+		<row row_number="29" isdata="1">סוטה תיפוק לי דהא מכפרת והא לא מכפרת</row>
+		<row row_number="30" isdata="1">ואלא מאי מנחת נדבה תיפוק לי דזו טעונה</row>
+		<row row_number="31" isdata="1">שמן ולבונה וזו אינה טעונה שמן ולבונה אלא</row>
+		<row row_number="32" isdata="1">חד מתרי טעמי ה] [נקיט]: חטאת העוף</row>
+		<row row_number="33" isdata="1">קודמת כו': מנא ה"מ דת"ר והקריב את</row>
+		<row row_number="34" isdata="1">אשר לחטאת ראשונה מה ת"ל ו] שאין ת"ל</row>
+		<row row_number="35" isdata="1">ללמד שתקרב ראשונה הרי כבר נאמר ואת</row>
+		<row row_number="36" isdata="1">השני יעשה עולה אלא זה בנה אב לכל</row>
+		<row row_number="37" isdata="1">חטאות שיקדמו ז] לעולה הבאות עמהן בין</row>
+		<row row_number="38" isdata="1">חטאת העוף לעולת העוף בין חטאת בהמה</row>
+		<row row_number="39" isdata="1">לעולת בהמה ואפי' חטאת העוף לעולת</row>
+		<row row_number="40" isdata="1">בהמה הלכך חטאת העוף לעולת העוף</row>
+		<row row_number="41" isdata="1">מואת השני חטאת בהמה לעולת בהמה</row>
+		<row row_number="42" isdata="1">מדרבי ח] רחמנא חטאת העוף לעולת</row>
+		<row row_number="43" isdata="1">בהמה מזה בנה אב תא שמע ר"א אומר</row>
+		<row row_number="44" isdata="1">כל מקום שנתחלפה חטאת חטאת קודמת</row>
+		<row row_number="45" isdata="1">וכאן ט] (ביולדת) עולה קודמת י] כל מקום שבא על חטא חטאת קודמת</row>
+		<row row_number="46" isdata="1">וכאן עולה קודמת יא] וכל מקום ששנים באים תחת חטאת חטאת</row>
+		<row row_number="47" isdata="1">קודמת וכאן עולה קודמת אמר רבא למקראה הקדימה הכתוב: תא</row>
+		<row row_number="48" isdata="1">שמע פרים קודמין לאילים ואילים קודמין לכבשים כבשים לשעירים</row>
+		<row row_number="49" isdata="0">מאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

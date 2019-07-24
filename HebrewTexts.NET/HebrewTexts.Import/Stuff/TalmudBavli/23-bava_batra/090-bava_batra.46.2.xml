@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:32.694109</dateCreated>
+   <lastModified>2016-08-04 11:57:32.694109</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="46">
+	<amud value="2">
+		<row row_number="1" isdata="1">ראה תניא אמר רב אשי ואי חכים משוי ליה</row>
+		<row row_number="2" isdata="1">ראה דאמר ליה אמאי תפיסת ליה לאו משום</row>
+		<row row_number="3" isdata="1">דאית לך גבאי השתא אפקינהו ושימינהו</row>
+		<row row_number="4" isdata="1">שקול את דידך ואשקול אנא דידי א"ל רב</row>
+		<row row_number="5" isdata="1">אחא בריה דרב אויא לרב אשי מצי א"ל</row>
+		<row row_number="6" isdata="1">לא צריכנא לשומא דידך כבר שמוה קמאי</row>
+		<row row_number="7" isdata="1">דקמך: אריס אין לו חזקה: אמאי עד האידנא</row>
+		<row row_number="8" isdata="1">פלגא והשתא כולה א"ר יוחנן באריסי בתי</row>
+		<row row_number="9" isdata="1">אבות אמר רב נחמן אריס שהוריד אריסין</row>
+		<row row_number="10" isdata="1">תחתיו יש לו חזקה מאי טעמא דלא עביד</row>
+		<row row_number="11" isdata="1">אינש דנחתי אריסי לארעיה ושתיק א"ר</row>
+		<row row_number="12" isdata="1">יוחנן אריס שחלק לאריסין אין לו חזקה</row>
+		<row row_number="13" isdata="1">מאי טעמא אימור הרמניא בעלמא שויוה</row>
+		<row row_number="14" isdata="1">שלח ליה ר"נ בר רב חסדא לר"נ בר יעקב</row>
+		<row row_number="15" isdata="1">ילמדנו רבינו אריס מעיד או אינו מעיד</row>
+		<row row_number="16" isdata="1">הוה יתיב רב יוסף קמיה אמר ליה הכי אמר</row>
+		<row row_number="17" isdata="1">שמואל אריס מעיד והתניא אינו מעיד לא</row>
+		<row row_number="18" isdata="1">קשיא הא דאיכא פירא בארעא והא דליכא</row>
+		<row row_number="19" isdata="1">פירא בארעא (עמלק סימן) תנו רבנן ערב</row>
+		<row row_number="20" isdata="1">מעיד ללוה והוא דאית ליה ארעא אחריתי</row>
+		<row row_number="21" isdata="1">מלוה מעיד ללוה והוא דאית ליה ארעא</row>
+		<row row_number="22" isdata="1">אחריתי לוקח ראשון מעיד ללוקח</row>
+		<row row_number="23" isdata="1">שני והוא דאית ליה ארעא אחריתי</row>
+		<row row_number="24" isdata="0">קבלן</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:41.999209</dateCreated>
+   <lastModified>2016-08-04 11:56:41.999209</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="60">
+	<amud value="1">
+		<row row_number="1" isdata="1">או דילמא בשתי עבודות תנן ואפי' לר' מאיר</row>
+		<row row_number="2" isdata="1">דאמר תפוס לשון ראשון הני מילי בעבודה</row>
+		<row row_number="3" isdata="1">אחת אבל בשתי עבודות מודה דמיפסיל</row>
+		<row row_number="4" isdata="1">אמרי אהייא אי נימא אשלא לשמו ולשמו</row>
+		<row row_number="5" isdata="1">בין בעבודה אחת בין בשתי עבודות בין לר'</row>
+		<row row_number="6" isdata="1">מאיר בין לר' יוסי איפסיל ליה מקמייתא דהא</row>
+		<row row_number="7" isdata="1">לרבי יוסי נמי אף בגמר דבריו אדם נתפס</row>
+		<row row_number="8" isdata="1">אית ליה אלא אלשמו ושלא לשמו מאי ת"ש</row>
+		<row row_number="9" isdata="1">הפסח ששחטו שלא לשמו וקבל והלך וזרק</row>
+		<row row_number="10" isdata="1">שלא לשמו היכי דמי אי נימא כדקתני למה</row>
+		<row row_number="11" isdata="1">לי עד דמחשב לכולהו מקמייתא איפסיל ליה</row>
+		<row row_number="12" isdata="1">אלא לאו הכי קתני הפסח ששחטו שלא</row>
+		<row row_number="13" isdata="1">לשמו אי נמי שחטו לשמו וקבל והלך וזרק</row>
+		<row row_number="14" isdata="1">שלא לשמו אי נמי שחטו וקבל והלך לשמו</row>
+		<row row_number="15" isdata="1">וזרק שלא לשמו דהויא לה שתי עבודות</row>
+		<row row_number="16" isdata="1">אימא סיפא לשמו ושלא לשמו היכי דמי</row>
+		<row row_number="17" isdata="1">אי נימא בשתי עבודות היינו רישא אלא לאו</row>
+		<row row_number="18" isdata="1">בעבודה אחת ור' יוסי היא דאמר אף בגמר</row>
+		<row row_number="19" isdata="1">דבריו אדם נתפס לא לעולם בשתי עבודות</row>
+		<row row_number="20" isdata="1">ורישא דקאי בשחיטה וקא מחשב בשחיטה</row>
+		<row row_number="21" isdata="1">א"נ קאי בזריקה וקא מחשב בזריקה סיפא</row>
+		<row row_number="22" isdata="1">דקאי בשחיטה וקחשיב בזריקה דאמר</row>
+		<row row_number="23" isdata="1">הריני שוחט את הפסח לשמו לזרוק דמו</row>
+		<row row_number="24" isdata="1">שלא לשמו וקמ"ל דמחשבין מעבודה</row>
+		<row row_number="25" isdata="1">לעבודה והיינו בעיא דרב פפא ת"ש או</row>
+		<row row_number="26" isdata="1">שלא לשמו ולשמו פסול היכי דמי אי נימא</row>
+		<row row_number="27" isdata="1">בשתי עבודות השתא לשמו ושלא לשמו</row>
+		<row row_number="28" isdata="1">אמרת פסול שלא לשמו ולשמו מיבעיא אלא</row>
+		<row row_number="29" isdata="1">לאו בעבודה אחת ומדסיפא בעבודה אחת</row>
+		<row row_number="30" isdata="1">רישא נמי בעבודה אחת לא לעולם בשתי</row>
+		<row row_number="31" isdata="1">עבודות ובדין הוא דלא איצטריך ליה ואיידי</row>
+		<row row_number="32" isdata="1">דתנא לשמו ושלא לשמו תנא נמי שלא</row>
+		<row row_number="33" isdata="1">לשמו ולשמו תא שמע שחטו שלא לאוכליו</row>
+		<row row_number="34" isdata="1">ושלא למנויו לערלים ולטמאין פסול הכא</row>
+		<row row_number="35" isdata="1">פשיטא בעבודה אחת ומדסיפא בעבודה</row>
+		<row row_number="36" isdata="1">אחת רישא נמי בעבודה אחת מידי איריא</row>
+		<row row_number="37" isdata="1">הא כדאיתא והא כדאיתא סיפא בעבודה</row>
+		<row row_number="38" isdata="1">אחת רישא אי בעבודה אחת אי בשתי</row>
+		<row row_number="39" isdata="1">עבודות תא שמע לאוכליו ושלא לאוכליו</row>
+		<row row_number="40" isdata="1">כשר היכי דמי אי נימא בשתי עבודות</row>
+		<row row_number="41" isdata="1">וטעמא דחשיב בזריקה דאין מחשבת</row>
+		<row row_number="42" isdata="1">אוכלין בזריקה הא בעבודה אחת כגון</row>
+		<row row_number="43" isdata="1">בשחיטה דמהניא ביה מחשבת אוכלין פסול</row>
+		<row row_number="44" isdata="1">והא קיימא לן מקצת אוכלין לא פסלא</row>
+		<row row_number="45" isdata="0">אלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

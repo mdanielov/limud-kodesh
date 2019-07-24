@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:16.958209</dateCreated>
+   <lastModified>2016-08-04 11:57:16.958209</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="75">
+	<amud value="2">
+		<row row_number="1" isdata="1">דתנאי ומעשה בדבר אחד אלא אמר רב</row>
+		<row row_number="2" isdata="1">אדא בר אהבה משום דתנאי ומעשה בדבר</row>
+		<row row_number="3" isdata="1">אחד רב אשי אמר הא מני רבי היא דאמר</row>
+		<row row_number="4" isdata="1">רב הונא אמר רב כל האומר על מנת</row>
+		<row row_number="5" isdata="1">כאומר מעכשיו דמי אתקין שמואל בגיטא</row>
+		<row row_number="6" isdata="1">דשכיב מרע אם לא מתי לא יהא גט ואם</row>
+		<row row_number="7" isdata="1">מתי יהא גט ולימא אם מתי יהא גט ואם לא</row>
+		<row row_number="8" isdata="1">מתי לא יהא גט לא מקדים איניש פורענותא</row>
+		<row row_number="9" isdata="1">לנפשיה ולימא לא יהא גט אם לא מתי</row>
+		<row row_number="10" isdata="1">בעינן תנאי קודם למעשה מתקיף לה רבא</row>
+		<row row_number="11" isdata="1">מכדי כל תנאי מהיכא גמרינן מתנאי בני גד</row>
+		<row row_number="12" isdata="1">ובני ראובן מה התם הן קודם ללאו אף כל</row>
+		<row row_number="13" isdata="1">לאפוקי הכא דלאו קודם להן אלא אמר רבא</row>
+		<row row_number="14" isdata="1">אם לא מתי לא יהא גט אם מתי יהא גט</row>
+		<row row_number="15" isdata="1">אם לא מתי לא יהא גט אם לא מתי לא יהא</row>
+		<row row_number="16" isdata="1">גט לא מקדים איניש פורענותא לנפשיה אם</row>
+		<row row_number="17" isdata="1">מתי יהא גט אם לא מתי לא יהא גט בעינן</row>
+		<row row_number="18" isdata="1">הן קודם ללאו<EndGemara/><StartMishna/>: מתני' הרי זה גיטיך ע"מ</row>
+		<row row_number="19" isdata="1">שתשמשי את אבא על מנת שתניקי את בני</row>
+		<row row_number="20" isdata="1">כמה היא מניקתו שתי שנים רבי יהודה</row>
+		<row row_number="21" isdata="1">אומר שמנה עשר חדש מת הבן או שמת</row>
+		<row row_number="22" isdata="1">האב הרי זה גט הרי זה גיטיך ע"מ שתשמשי</row>
+		<row row_number="23" isdata="1">את אבא שתי שנים ע"מ שתניקי את בני</row>
+		<row row_number="24" isdata="1">שתי שנים מת הבן או שאמר האב אי אפשי</row>
+		<row row_number="25" isdata="1">שתשמשני שלא בהקפדה אינו גט רבן</row>
+		<row row_number="26" isdata="1">שמעון בן גמליאל אומר כזה גט כלל אמר</row>
+		<row row_number="27" isdata="1">רבן שמעון בן גמליאל כל עכבה שאינה</row>
+		<row row_number="28" isdata="1">הימנה הרי זה גט: <EndMishna/><StartGemara/>גמ' ומי בעינן כולי האי</row>
+		<row row_number="29" isdata="1">ורמינהי שמשתו יום אחד הניקתו יום אחד</row>
+		<row row_number="30" isdata="1">ה"ז גט אמר רב חסדא לא קשיא הא רבנן</row>
+		<row row_number="31" isdata="1">והא רבן שמעון בן גמליאל מתניתין רשב"ג</row>
+		<row row_number="32" isdata="1">וברייתא רבנן הא מדסיפא רבן שמעון בן</row>
+		<row row_number="33" isdata="1">גמליאל הוי מכלל דרישא לאו רשב"ג אלא</row>
+		<row row_number="34" isdata="1">ברייתא רשב"ג היא דמיקל בתנאי מתני'</row>
+		<row row_number="35" isdata="1">רבנן רבא אמר לא קשיא כאן בסתם כאן</row>
+		<row row_number="36" isdata="1">במפרש רב אשי אמר כל סתם נמי כמפרש</row>
+		<row row_number="37" isdata="1">יום אחד דמי תנן כמה היא מניקתו שתי שנים</row>
+		<row row_number="38" isdata="1">רבי יהודה אומר שמנה עשר חדש בשלמא</row>
+		<row row_number="39" isdata="1">לרבא ניחא אלא לרב אשי למה לי שתי</row>
+		<row row_number="40" isdata="1">שנים למה לי שמנה עשר חדש ביום אחד</row>
+		<row row_number="41" isdata="1">סגי הכי קאמר יום אחד משתי שנים לאפוקי</row>
+		<row row_number="42" isdata="1">לאחר שתי שנים דלא יום אחד משמנה עשר חדש לאפוקי לאחר</row>
+		<row row_number="43" isdata="1">שמנה עשר חדש דלא מיתיבי הרי זה גיטיך על מנת שתשמשי</row>
+		<row row_number="44" isdata="1">את אבא שתי שנים על מנת שתניקי את בני שתי שנים מת</row>
+		<row row_number="45" isdata="1">הבן או שאמר האב אי אפשי שתשמשני שלא בהקפדה אינו גט</row>
+		<row row_number="46" isdata="0">בשלמא</row>
+</amud>
+</daf>
+</masechet>
+</root>

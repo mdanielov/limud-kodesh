@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.128761</dateCreated>
+   <lastModified>2016-08-04 11:57:09.128761</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="64">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "רבי אליעזר"/><StartMishna/>רבי  אליעזר אומר פותחין לאדם בכבוד</row>
+		<row row_number="2" isdata="1">אביו ואמו וחכמים אוסרין אמר רבי</row>
+		<row row_number="3" isdata="1">צדוק עד שפותחין לו בכבוד אביו ואמו</row>
+		<row row_number="4" isdata="1">יפתחו לו בכבוד המקום אם כן אין נדרים</row>
+		<row row_number="5" isdata="1">מודים חכמים לר' אליעזר בדבר שבינו</row>
+		<row row_number="6" isdata="1">לבין אביו ואמו שפותחין לו בכבוד אביו ואמו</row>
+		<row row_number="7" isdata="1">ועוד אמר רבי אליעזר פותחין בנולד וחכמים</row>
+		<row row_number="8" isdata="1">אוסרין כיצד אמר קונם שאני נהנה לאיש</row>
+		<row row_number="9" isdata="1">פלוני ונעשה סופר או שהיה משיא את בנו</row>
+		<row row_number="10" isdata="1">ואמר אילו הייתי יודע שהוא נעשה סופר או</row>
+		<row row_number="11" isdata="1">שהיה משיא את בנו בקרוב לא הייתי נודר</row>
+		<row row_number="12" isdata="1">קונם לבית זה שאני נכנס ונעשה בית</row>
+		<row row_number="13" isdata="1">הכנסת אמר אילו הייתי יודע שהוא נעשה</row>
+		<row row_number="14" isdata="1">בית הכנסת לא הייתי נודר רבי אליעזר</row>
+		<row row_number="15" isdata="1">מתיר וחכמים אוסרין: <EndMishna/><StartGemara/>גמ' מאי אין נדרים</row>
+		<row row_number="16" isdata="1">אמר אביי אם כן אין נדרים ניתרין יפה</row>
+		<row row_number="17" isdata="0">ורבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

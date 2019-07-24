@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:04.086904</dateCreated>
+   <lastModified>2016-08-04 11:58:04.086904</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="128">
+	<amud value="2">
+		<row row_number="1" isdata="1">מהו שתעשה יד לחברתה תיקו אמר רב</row>
+		<row row_number="2" isdata="1">פפא הרי אמרו יחור של תאנה שנפשח</row>
+		<row row_number="3" isdata="1">ומעורה בקליפתה ר' יהודה מטהר וחכמים</row>
+		<row row_number="4" isdata="1">אומרים אם יכול לחיות טהור ואם לאו</row>
+		<row row_number="5" isdata="1">טמא בעי רב פפא מהו שיעשה יד</row>
+		<row row_number="6" isdata="1">לחבירו תיקו אמר רבי זירא הרי אמרו</row>
+		<row row_number="7" isdata="1">אבן שבזוית כשהוא חולץ חולץ את</row>
+		<row row_number="8" isdata="1">כולה וכשהוא נותץ נותץ את שלו ומניח</row>
+		<row row_number="9" isdata="1">את של חבירו בעי רבי זירא מהו שתעשה</row>
+		<row row_number="10" isdata="1">יד לחברתה תיקו: מתה הבהמה: מאי</row>
+		<row row_number="11" isdata="1">איכא בין אבר מן החי לאבר של הנבלה</row>
+		<row row_number="12" isdata="1">איכא בינייהו בשר הפורש א] ממנו מאבר</row>
+		<row row_number="13" isdata="1">בהמה דאילו בשר הפורש מאבר מן החי</row>
+		<row row_number="14" isdata="1">לא מטמא מאבר מן הנבלה מטמא אבר</row>
+		<row row_number="15" isdata="1">מן החי דמטמא מאי קרא אמר רב יהודה</row>
+		<row row_number="16" isdata="1">אמר רב ב] וכי ימות מן הבהמה והאי מיבעי</row>
+		<row row_number="17" isdata="1">ליה לכאידך דרב יהודה אמר רב דאמר</row>
+		<row row_number="18" isdata="1">רב יהודה אמר רב ואמרי לה במתניתא</row>
+		<row row_number="19" isdata="1">תנא וכי ימות מן הבהמה ג] מקצת בהמה</row>
+		<row row_number="20" isdata="1">מטמאה ומקצת בהמה אינה מטמאה ואיזו</row>
+		<row row_number="21" isdata="1">זו זו טרפה ששחטה אם כן לכתוב רחמנא</row>
+		<row row_number="22" isdata="1">מבהמה מאי מן הבהמה ש"מ תרתי אי</row>
+		<row row_number="23" isdata="1">הכי אפילו בשר נמי לא ס"ד דתניא יכול</row>
+		<row row_number="24" isdata="1">יהא בשר הפורש מן החי טמא ת"ל וכי</row>
+		<row row_number="25" isdata="1">ימות מן הבהמה מה מיתה שאינה עושה</row>
+		<row row_number="26" isdata="1">חליפין אף כל שאינו עושה חליפין דברי</row>
+		<row row_number="27" isdata="1">ר' יוסי ר' עקיבא אומר בהמה מה בהמה</row>
+		<row row_number="28" isdata="1">גידים ועצמות אף כל גידים ועצמות רבי</row>
+		<row row_number="29" isdata="1">אומר בהמה מה בהמה בשר גידים</row>
+		<row row_number="30" isdata="1">ועצמות אף כל בשר גידים ועצמות ד] מאי</row>
+		<row row_number="31" isdata="1">איכא בין רבי לר"ע איכא בינייהו ארכובה</row>
+		<row row_number="32" isdata="1">בין ר"ע לר' יוסי הגלילי מאי איכא ה] בינייהו</row>
+		<row row_number="33" isdata="1">אמר רב פפא כוליא וניב שפתים איכא</row>
+		<row row_number="34" isdata="1">בינייהו תניא נמי גבי שרצים כהאי גוונא</row>
+		<row row_number="35" isdata="1">יכול בשר הפורש מן השרצים יהא טמא</row>
+		<row row_number="36" isdata="1">ת"ל במותם מה מיתה שאינה עושה חליפין אף כל שאינה עושה</row>
+		<row row_number="37" isdata="1">חליפין דברי רבי יוסי הגלילי ר"ע אומר שרץ מה שרץ גידים ועצמות</row>
+		<row row_number="38" isdata="1">אף כל גידים ועצמות רבי אומר שרץ מה שרץ בשר גידים ועצמות</row>
+		<row row_number="39" isdata="1">אף כל בשר גידים ועצמות בין רבי לר"ע איכא בינייהו ארכובה בין ר"ע</row>
+		<row row_number="40" isdata="1">לר' יוסי הגלילי מאי איכא בינייהו אמר רב פפא כוליא וניב שפתים איכא</row>
+		<row row_number="41" isdata="1">בינייהו וצריכא דאי אשמעינן בהמה היינו טעמא דלא מטמא מחיים משום</row>
+		<row row_number="42" isdata="1">דלא מטמא בכעדשה אבל שרץ דמטמא בכעדשה אימא לטמא מחיים ואי</row>
+		<row row_number="43" isdata="1">אשמועינן שרץ משום דלא מטמא במשא לא מטמא מחיים אבל בהמה</row>
+		<row row_number="44" isdata="1">דמטמא במשא אימא תטמא מחיים צריכא א] ת"ר החותך כזית בשר</row>
+		<row row_number="45" isdata="1">מאבר מן החי חתכו ואח"כ חישב עליו טהור חישב עליו ואח"כ חתכו טמא</row>
+		<row row_number="46" isdata="1">רבי אסי לא על לבי מדרשא אשכחיה לרבי זירא א"ל מאי אמור בבי</row>
+		<row row_number="47" isdata="1">מדרשא א"ל מאי קשיא לך אמר ליה דקתני חישב ואח"כ חתכו טמא</row>
+		<row row_number="48" isdata="0">טומאת</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:35.079245</dateCreated>
+   <lastModified>2016-08-04 11:57:35.079245</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="96">
+	<amud value="2">
+		<row row_number="1" isdata="1">ושמואל אמר חמרא אכתפא דמאריה שוואר</row>
+		<row row_number="2" isdata="1">עבד רב יוסף עובדא כוותיה דרב בשיכרא</row>
+		<row row_number="3" isdata="1">וכוותיה דשמואל בחמרא והלכתא כוותיה</row>
+		<row row_number="4" isdata="1">דשמואל: ת"ר אחד שכר תמרים ואחד</row>
+		<row row_number="5" isdata="1">שכר שעורים ואחד שמרי יין מברכין עליהם</row>
+		<row row_number="6" isdata="1">שהכל נהיה בדברו אחרים אומרים שמרים</row>
+		<row row_number="7" isdata="1">שיש בהם טעם יין מברך עליהן בורא פרי</row>
+		<row row_number="8" isdata="1">הגפן רבה ורב יוסף דאמרי תרוייהו אין</row>
+		<row row_number="9" isdata="1">הלכה כאחרים אמר רבא דכולי עלמא רמא</row>
+		<row row_number="10" isdata="1">תלתא ואתא ארבעה חמרא הוא רבא</row>
+		<row row_number="11" isdata="1">לטעמיה דאמר רבא כל חמרא דלא דרי</row>
+		<row row_number="12" isdata="1">על חד תלת מיא לאו חמרא הוא רמא</row>
+		<row row_number="13" isdata="1">תלתא ואתא תלתא ולא כלום הוא כי פליגי</row>
+		<row row_number="14" isdata="1">דרמא תלתא ואתא תלתא ופלגא דרבנן</row>
+		<row row_number="15" isdata="1">סברי תלתא עייל תלתא נפיק פש ליה פלגא</row>
+		<row row_number="16" isdata="1">ופלגא בשיתא פלגי מיא ולא כלום הוא</row>
+		<row row_number="17" isdata="1">ואחרים סברי תלתא עול תרין ופלגא נפיק פש</row>
+		<row row_number="18" isdata="1">ליה כוזא וכוזא בתרי ופלגא חמרא מעליא</row>
+		<row row_number="19" isdata="1">הוא וביותר מכדי מדתו מי פליגי והא תנן</row>
+		<row row_number="20" isdata="0">המתמד</row>
+</amud>
+</daf>
+</masechet>
+</root>

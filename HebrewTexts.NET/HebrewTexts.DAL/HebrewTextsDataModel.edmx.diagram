@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b883474ffebc4e169c34e582cff5af1f" Name="Diagram1">
+        <EntityTypeShape EntityType="HebrewTextsModel.ContentGroup" Width="1.5" PointX="3" PointY="10.875" />
+        <EntityTypeShape EntityType="HebrewTextsModel.ContentOtherVersion" Width="1.5" PointX="10.5" PointY="16.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.ContentToAlternateGroup" Width="1.5" PointX="10.5" PointY="12" />
+        <EntityTypeShape EntityType="HebrewTextsModel.GroupsAndDividingType" Width="1.5" PointX="0.75" PointY="12.125" />
+        <EntityTypeShape EntityType="HebrewTextsModel.Letters_Ref" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.MainContent" Width="1.5" PointX="8.25" PointY="11.125" />
+        <EntityTypeShape EntityType="HebrewTextsModel.Niqqud_Ref" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.SetContentLog" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.TanakhCharacter" Width="1.5" PointX="10.5" PointY="19.875" />
+        <EntityTypeShape EntityType="HebrewTextsModel.TextVersionSource" Width="1.5" PointX="6" PointY="3.125" />
+        <EntityTypeShape EntityType="HebrewTextsModel.C__RefactorLog" Width="1.5" PointX="2.75" PointY="3.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.Book" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.DistinctWord" Width="1.5" PointX="2.75" PointY="5.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.sysdiagram" Width="1.5" PointX="15.75" PointY="4.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.Taamim_Ref" Width="1.5" PointX="15.75" PointY="7.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.Tanakh" Width="1.5" PointX="15.75" PointY="10.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.WordsInTanakh" Width="1.5" PointX="12.75" PointY="15.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RawImportStuff" Width="1.5" PointX="15.75" PointY="14.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.TalmudBavliRawImport" Width="1.5" PointX="7.75" PointY="16.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.CommonExpression" Width="1.5" PointX="6" PointY="6.5" />
+        <EntityTypeShape EntityType="HebrewTextsModel.CommonExpressionsToGroup" Width="1.5" PointX="8.25" PointY="8.25" />
+        <EntityTypeShape EntityType="HebrewTextsModel.ConceptsDictionary" Width="1.5" PointX="8.75" PointY="5.25" />
+        <EntityTypeShape EntityType="HebrewTextsModel.ConceptsDictionaryMeaning" Width="1.5" PointX="11" PointY="5" />
+        <EntityTypeShape EntityType="HebrewTextsModel.ConceptsDictionaryMeaningsToGroup" Width="1.5" PointX="13.25" PointY="5.25" />
+        <EntityTypeShape EntityType="HebrewTextsModel.ContentPattern" Width="1.5" PointX="3" PointY="8.375" />
+        <EntityTypeShape EntityType="HebrewTextsModel.ContentPatternsToGroup" Width="1.5" PointX="5.25" PointY="9.25" />
+        <EntityTypeShape EntityType="HebrewTextsModel.ContentTypes_Ref" Width="1.5" PointX="17.75" PointY="4.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RelationsBetweenCommonExpression" Width="1.5" PointX="16" PointY="0.875" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RelationTypesBetweenCommonExpressions_Ref" Width="1.5" PointX="13.75" PointY="1.125" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RootWordForm" Width="1.5" PointX="13.5" PointY="8.25" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RootWord" Width="1.5" PointX="11.25" PointY="8.25" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RootWordsToContent" Width="1.5" PointX="13.5" PointY="12.125" />
+        <EntityTypeShape EntityType="HebrewTextsModel.WordsDictionary" Width="1.5" PointX="8.75" PointY="1.125" />
+        <EntityTypeShape EntityType="HebrewTextsModel.WordsRelation" Width="1.5" PointX="11" PointY="1" />
+        <EntityTypeShape EntityType="HebrewTextsModel.Personality" Width="1.5" PointX="0.75" PointY="16.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.PersonalitiesInstancesInContent" Width="1.5" PointX="3" PointY="21.25" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RelationsBetweenPersonality" Width="1.5" PointX="3" PointY="16.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RelationsSource" Width="1.5" PointX="5.25" PointY="12.25" />
+        <EntityTypeShape EntityType="HebrewTextsModel.RelationsBetweenGroup" Width="1.5" PointX="17.75" PointY="7.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.GroupsProperty" Width="1.5" PointX="5.25" PointY="17.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.TalmudBavliWord" Width="1.5" PointX="17.75" PointY="11.75" />
+        <EntityTypeShape EntityType="HebrewTextsModel.MainContentWithGroupsLevel" Width="1.5" PointX="17.75" PointY="14.75" />
+        <AssociationConnector Association="HebrewTextsModel.FK_CommonExpressionsToGroups_ToContentGroups" />
+        <AssociationConnector Association="HebrewTextsModel.FK_Content_ToContentGroups" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ContentGroups_ToGroupsAndDividingTypes" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ContentPatternsToGroups_ToContentGroups" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ContentToAlternateGroups_ToContentGroups" />
+        <AssociationConnector Association="HebrewTextsModel.FK_GroupsProperties_ToGroups" />
+        <AssociationConnector Association="HebrewTextsModel.FK_RelationsSources_ToContentGroups" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ContentOtherVersions_ToMainContent" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ContentToAlternateGroups_ToContent" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ContentToAlternateGroups_ToContent2" />
+        <AssociationConnector Association="HebrewTextsModel.FK_Content_ToVersions" />
+        <AssociationConnector Association="HebrewTextsModel.FK_RootWordsToContent_ToMainContent" />
+        <AssociationConnector Association="HebrewTextsModel.FK_TanakhCharacters_ToMainContent" />
+        <AssociationConnector Association="HebrewTextsModel.FK_CommonExpressionsToGroups_ToCommonExpressions" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ConceptsDictionaryMeanings_ToConceptsDictionary" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ConceptsDictionaryMeaningsToGroups_ToConceptsDictionaryMeanings" />
+        <AssociationConnector Association="HebrewTextsModel.FK_ContentPatternsToGroups_ToContentPatterns" />
+        <AssociationConnector Association="HebrewTextsModel.FK_RelationsBetweenCommonExpressions_ToTable" />
+        <AssociationConnector Association="HebrewTextsModel.FK_RootWordForms_ToRootWord" />
+        <AssociationConnector Association="HebrewTextsModel.FK_RootWordsToContent_ToRootWords" />
+        <AssociationConnector Association="HebrewTextsModel.FK_WordsRelations_ToWords" />
+        <AssociationConnector Association="HebrewTextsModel.FK_WordsRelations_ToWords2" />
+        <AssociationConnector Association="HebrewTextsModel.FK_InstancesInContent_ToPersonalities" />
+        <AssociationConnector Association="HebrewTextsModel.FK_RelationsBetweenPersonalities_ToPersons" />
+        <AssociationConnector Association="HebrewTextsModel.FK_RelationsBetweenPersonalities_ToPersons2" />
+        <AssociationConnector Association="HebrewTextsModel.FK_RelationsSources_ToRelations" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

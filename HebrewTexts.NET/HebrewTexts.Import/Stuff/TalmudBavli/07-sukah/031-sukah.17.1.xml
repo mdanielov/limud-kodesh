@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:49.210622</dateCreated>
+   <lastModified>2016-08-04 11:56:49.210622</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="17">
+	<amud value="1">
+		<row row_number="1" isdata="1">מתני' הרחיק את הסיכוך מן הדפנות</row>
+		<row row_number="2" isdata="1">שלשה טפחים פסולה בית שנפחת וסיכך</row>
+		<row row_number="3" isdata="1">על גביו אם יש מן הכותל לסיכוך ארבע</row>
+		<row row_number="4" isdata="1">אמות פסולה וכן חצר שהיא מוקפת</row>
+		<row row_number="5" isdata="1">אכסדרה סוכה גדולה שהקיפוה בדבר שאין</row>
+		<row row_number="6" isdata="1">מסככין בו אם יש תחתיו ארבע אמות</row>
+		<row row_number="7" isdata="1">פסולה: <EndMishna/><StartGemara/>גמ' כל הני למה לי צריכא דאי</row>
+		<row row_number="8" isdata="1">אשמעינן בית שנפחת משום דהני מחיצות</row>
+		<row row_number="9" isdata="1">לבית עבידן אבל חצר המוקפת אכסדרה</row>
+		<row row_number="10" isdata="1">דמחיצות לאו לאכסדרה עבידי אימא לא</row>
+		<row row_number="11" isdata="1">צריכא ואי אשמעינן הני תרתי משום דסככן</row>
+		<row row_number="12" isdata="1">סכך כשר הוא אבל סוכה גדולה שהקיפוה</row>
+		<row row_number="13" isdata="1">בדבר שאין מסככין בו דסככה סכך פסול</row>
+		<row row_number="14" isdata="1">הוא אימא לא צריכא אמר רבה אשכחתינהו</row>
+		<row row_number="15" isdata="1">לרבנן דבי רב דיתבי וקאמרי אויר פוסל</row>
+		<row row_number="16" isdata="1">בשלשה סכך פסול פוסל בארבעה ואמינא</row>
+		<row row_number="17" isdata="1">להו אנא אויר דפוסל בשלשה מנא לכו</row>
+		<row row_number="18" isdata="1">דתנן הרחיק את הסיכוך מן הדפנות שלשה</row>
+		<row row_number="19" isdata="1">טפחים פסולה סכך פסול נמי לא ליפסיל</row>
+		<row row_number="20" isdata="1">אלא בארבע אמות דתנן בית שנפחת וסיכך</row>
+		<row row_number="21" isdata="1">על גביו אם יש בין הסיכוך לכותל ד' אמות</row>
+		<row row_number="22" isdata="1">פסולה ואמרו לי בר מינה דההיא דרב</row>
+		<row row_number="23" isdata="1">ושמואל אמרי תרוייהו משום דופן עקומה</row>
+		<row row_number="24" isdata="1">נגעו בה ואמינא להו אנא מה אילו איכא</row>
+		<row row_number="25" isdata="1">סכך פסול פחות מארבעה ואויר פחות</row>
+		<row row_number="26" isdata="1">משלשה מאי כשרה מלייה בשפודין מאי</row>
+		<row row_number="27" isdata="1">פסולה ולא יהא אויר הפוסל בשלשה כסכך</row>
+		<row row_number="28" isdata="1">פסול הפוסל בארבעה ואמרו לי אי הכי</row>
+		<row row_number="29" isdata="1">לדידך נמי דאמרת סכך פסול פוסל בארבע</row>
+		<row row_number="30" isdata="1">אמות מה אילו איכא סכך פסול פחות מד'</row>
+		<row row_number="31" isdata="1">אמות ואויר פחות משלשה מאי כשרה</row>
+		<row row_number="32" isdata="1">מלייה בשפודין מאי פסולה לא יהא אויר</row>
+		<row row_number="33" isdata="1">הפוסל בשלשה כסכך פסול הפוסל</row>
+		<row row_number="34" isdata="1">בארבע אמות ואמינא להו אנא האי מאי</row>
+		<row row_number="35" isdata="1">בשלמא לדידי דאמינא ארבע אמות</row>
+		<row row_number="36" isdata="0">משום</row>
+</amud>
+</daf>
+</masechet>
+</root>

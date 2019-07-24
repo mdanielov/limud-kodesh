@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:23.653592</dateCreated>
+   <lastModified>2016-08-04 11:57:23.653592</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="75">
+	<amud value="2">
+		<row row_number="1" isdata="1">אלא לאו הא קמ"ל גנב על פי שנים וטבח</row>
+		<row row_number="2" isdata="1">על פי עד אחד או על פי עצמו הוא דלא</row>
+		<row row_number="3" isdata="1">מחייב עצמו בקרן הוא דאמרינן ע"פ עצמו</row>
+		<row row_number="4" isdata="1">דומיא דע"פ עד אחד מה ע"פ עד אחד כי</row>
+		<row row_number="5" isdata="1">אתי עד אחד מצטרף בהדיה מחייב על פי</row>
+		<row row_number="6" isdata="1">עצמו נמי כי אתו עדים מחייב אבל גנב</row>
+		<row row_number="7" isdata="1">וטבח ומכר ע"פ עד אחד או ע"פ עצמו</row>
+		<row row_number="8" isdata="1">דחייב עצמו בקרן לא אמרינן על פי עצמו</row>
+		<row row_number="9" isdata="1">דומיא דעל פי עד אחד ברייתא דתניא ראה</row>
+		<row row_number="10" isdata="1">עדים שממשמשין ובאין ואמר גנבתי אבל</row>
+		<row row_number="11" isdata="1">לא טבחתי ולא מכרתי אינו משלם אלא</row>
+		<row row_number="12" isdata="1">קרן למה לי למיתנא ואמר גנבתי אבל</row>
+		<row row_number="13" isdata="1">לא טבחתי ולא מכרתי ניתני או גנבתי או טבחתי ומכרתי אלא הא קמ"ל</row>
+		<row row_number="14" isdata="1">טעמא דאמר גנבתי הוא דחייב עצמו בקרן דפטור אבל אמר לא גנבתי</row>
+		<row row_number="15" isdata="1">ובאו עדים שגנב וחזר ואמר טבחתי ומכרתי ובאו עדים שטבח ומכר</row>
+		<row row_number="16" isdata="1">דלא חייב עצמו בקרן חייב אלמא הודאה דטביחה לאו הודאה היא אמרי</row>
+		<row row_number="17" isdata="1">לא היא גופה קמ"ל דכיון דאמר גנבתי אע"ג דאמר לא טבחתי ולא</row>
+		<row row_number="18" isdata="1">מכרתי ובאו עדים שטבח ומכר פטור מאי טעמא תשלומי (ארבע) חמשה</row>
+		<row row_number="19" isdata="1">אמר רחמנא ולא תשלומי ארבעה ולא תשלומי שלשה לימא כתנאי היו</row>
+		<row row_number="20" isdata="1">שנים מעידין שגנב והיו שנים מעידים אותו שטבח ומכר הוזמו עדי</row>
+		<row row_number="21" isdata="1">גניבה עדות שבטלה מקצתה בטלה כולה הוזמו עדי טביחה הוא משלם</row>
+		<row row_number="22" isdata="1">תשלומי כפל והן משלמין תשלומי שלשה משום סומכוס אמרו הן משלמין</row>
+		<row row_number="23" isdata="1">תשלומי כפל והוא משלם תשלומי שלשה לפר ושנים לאיל אהייא קאי</row>
+		<row row_number="24" isdata="1">סומכוס אילימא ארישא לית ליה לסומכוס עדות שבטלה מקצתה בטלה</row>
+		<row row_number="25" isdata="1">כולה ואלא אסיפא שפיר קאמרי רבנן הוא משלם תשלומי כפל והם</row>
+		<row row_number="26" isdata="1">משלמין תשלומי שלשה אלא מילתא אחריתי איכא בינייהו כגון דאתו</row>
+		<row row_number="27" isdata="1">בי תרי אמרי ליה גנבת אמר להו אין גנבתי וטבחתי ומכרתי מיהו לא</row>
+		<row row_number="28" isdata="1">בפניכם גנבתי ואייתי סהדי ואזמינהו דלא באפייהו גנב ואייתי בעל הבית</row>
+		<row row_number="29" isdata="1">סהדי ואסהידו ביה דגנב וטבח ומכר ובהודאת טביחה קמיפלגי דרבנן</row>
+		<row row_number="30" isdata="1">סברי אע"ג דהודאה דגניבה מחמת עדים הוא דקא מודה הודאה דטביחה</row>
+		<row row_number="31" isdata="1">הודאה היא ופטור וסומכוס סבר כיון דהודאה דגניבה מחמת עדים הוא</row>
+		<row row_number="32" isdata="1">דקא מודה דטביחה לאו הודאה והנך עדים קמאי דאזמינהו משלמין</row>
+		<row row_number="33" isdata="1">תשלומי כפל והוא משלם שלשה לפר ושנים לאיל אמר רב אחא בריה</row>
+		<row row_number="34" isdata="1">דרב איקא לא דכולי עלמא הודאה דטביחה לאו הודאה היא אלא בעדות</row>
+		<row row_number="35" isdata="1">שאי אתה יכול להזימה קמיפלגי כגון דאתו סהדי ואמרי ליה גנבת ואמר</row>
+		<row row_number="36" isdata="1">להו גנבתי וטבחתי ומכרתי מיהו לא בפניכם גנבתי אלא בפני פלוני ופלוני</row>
+		<row row_number="37" isdata="1">ואייתי סהדי ואזמינהו דלא באפייהו גנב ואתו פלוני ופלוני ואסהידו ביה דגנב</row>
+		<row row_number="38" isdata="1">וטבח ומכר ובהא קמיפלגי דרבנן סברי הויא לה עדות שאי אתה יכול להזימה</row>
+		<row row_number="39" isdata="1">וכל עדות שאי אתה יכול להזימה לא הויא עדות וסומכוס סבר עדות שאי</row>
+		<row row_number="40" isdata="1">אתה יכול להזימה הויא עדות והא קיימא לן דעדות שאי אתה יכול להזימה</row>
+		<row row_number="41" isdata="1">לא הויא עדות הני מילי היכא דלא ידעי באיזה יום באיזה שעה דליכא</row>
+		<row row_number="42" isdata="1">לעדות כלל אבל הכא סיועי הוא דקא מסייעי ליה אמר מר הן משלמין</row>
+		<row row_number="43" isdata="1">תשלומי כפל מדקא מודה דגנב קרן בעי שלומי אמר רבי אלעזר משמיה דרב תני</row>
+		<row row_number="44" isdata="0">תשלום</row>
+</amud>
+</daf>
+</masechet>
+</root>

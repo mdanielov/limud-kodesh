@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:31.920064</dateCreated>
+   <lastModified>2016-08-04 11:57:31.920064</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="30">
+	<amud value="2">
+		<row row_number="1" isdata="1">דהאי ארעא דידי היא ואת לא זבינתה</row>
+		<row row_number="2" isdata="1">מינאי זיל לאו בעל דברים דידי את אמר</row>
+		<row row_number="3" isdata="1">רבא דינא קאמר ליה: ההוא דאמר ליה</row>
+		<row row_number="4" isdata="1">לחבריה מאי בעית בהאי ארעא אמר ליה</row>
+		<row row_number="5" isdata="1">מפלניא זבינא ואכלתיה שני חזקה אמר ליה</row>
+		<row row_number="6" isdata="1">פלניא גזלנא הוא אמר ליה והא אית לי סהדי</row>
+		<row row_number="7" isdata="1">דאתאי אימלכי בך ואמרת לי זיל זבין אמר</row>
+		<row row_number="8" isdata="1">ליה השני נוח לי הראשון קשה הימנו אמר</row>
+		<row row_number="9" isdata="1">רבא דינא קאמר ליה כמאן כאדמון דתנן</row>
+		<row row_number="10" isdata="1">העורר על השדה וחתום עליה בעד אדמון</row>
+		<row row_number="11" isdata="1">אומר השני נוח לי הראשון קשה הימנו וחכ"א</row>
+		<row row_number="12" isdata="1">איבד את זכותו אפילו תימא רבנן התם עבד ליה מעשה אבל הכא דבורא</row>
+		<row row_number="13" isdata="1">עביד איניש דמיקרי ואמר ההוא דאמר ליה לחבריה מאי בעית בהאי ארעא</row>
+		<row row_number="14" isdata="1">אמר ליה מפלניא זבינתה ואכלתיה שני חזקה אמר ליה פלניא גזלנא הוא</row>
+		<row row_number="15" isdata="1">אמר ליה והא אית לי סהדי דאתית באורתא ואמרת לי זבנה ניהלי א"ל אמינא</row>
+		<row row_number="16" isdata="1">איזבון דינאי אמר רבא עביד איניש דזבין דיניה ההוא דאמר ליה לחבריה</row>
+		<row row_number="17" isdata="1">מאי בעית בהאי ארעא אמר ליה מפלניא זבינא ואכלתיה שני חזקה אמר ליה</row>
+		<row row_number="18" isdata="1">והא נקיטנא שטרא דזבני ליה מיניה הא ארבעי שני א"ל מי סברת שני חזקה</row>
+		<row row_number="19" isdata="1">תלת שני קא אמינא שני חזקה טובא קא אמינא אמר רבא עבידי אינשי דקרו</row>
+		<row row_number="20" isdata="1">לשני טובא שני חזקה וה"מ דאכלה שבע דקדים חזקה דהאי לשטרא דהך</row>
+		<row row_number="21" isdata="0">אבל</row>
+</amud>
+</daf>
+</masechet>
+</root>

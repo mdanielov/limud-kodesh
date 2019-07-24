@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:08.506725</dateCreated>
+   <lastModified>2016-08-04 11:57:08.506725</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="46">
+	<amud value="2">
+		<row row_number="1" isdata="1">מחלוקת שיש בה כדי חלוקה אבל אין</row>
+		<row row_number="2" isdata="1">בה כדי חלוקה דברי הכל מותר א"ל רב</row>
+		<row row_number="3" isdata="1">יוסף הרי בית הכנסת דכמי שאין בו כדי</row>
+		<row row_number="4" isdata="1">חלוקה דמי ותנן שניהן אסורין בדבר של</row>
+		<row row_number="5" isdata="1">אותה העיר אלא אמר רב יוסף אמר זעירי</row>
+		<row row_number="6" isdata="1">מחלוקת שאין בה כדי חלוקה אבל יש בה</row>
+		<row row_number="7" isdata="1">כדי חלוקה דברי הכל אסור אמר רב הונא</row>
+		<row row_number="8" isdata="1">הלכה כר"א בן יעקב וכן א"ר אלעזר הלכה</row>
+		<row row_number="9" isdata="1">כר' אליעזר בן יעקב: המודר הנאה מחבירו</row>
+		<row row_number="10" isdata="1">ויש לו שם מרחץ וכו': וכמה תפיסת יד</row>
+		<row row_number="11" isdata="1">אמר רב נחמן למחצה לשליש ולרביע</row>
+		<row row_number="12" isdata="1">אבל בבציר לא אביי אמר אפילו בבציר</row>
+		<row row_number="13" isdata="1">אסור היכי דמי דשרי דמקבל בטסקא:</row>
+		<row row_number="14" isdata="0">האומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

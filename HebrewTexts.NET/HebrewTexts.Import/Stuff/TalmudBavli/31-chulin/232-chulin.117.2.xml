@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:03.585876</dateCreated>
+   <lastModified>2016-08-04 11:58:03.585876</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="117">
+	<amud value="2">
+		<row row_number="1" isdata="1">מיעוטי כתיבי הכא כתיב ושמו התם כתיב</row>
+		<row row_number="2" isdata="1">הערופה ותלתא קראי ל"ל בדם חד למעוטי</row>
+		<row row_number="3" isdata="1">מנותר וחד למעוטי ממעילה וחד למעוטי</row>
+		<row row_number="4" isdata="1">מטומאה אבל מפגול לא צריך קרא דתנן</row>
+		<row row_number="5" isdata="1">כל שיש לו מתירין בין לאדם ובין למזבח</row>
+		<row row_number="6" isdata="1">חייבין עליו משום פגול ודם גופיה מתיר הוא:<EndChapter name = "כל הבשר"/><EndGemara/></row>
+		<row row_number="7" isdata="0">הדרן עלך כל הבשר</row>
+		<row row_number="8" isdata="1"><StartChapter name = "העור והרוטב"/><StartMishna/>העור  והרוטב והקיפה והאלל והעצמות</row>
+		<row row_number="9" isdata="1">והגידין והקרנים והטלפים מצטרפין</row>
+		<row row_number="10" isdata="1">לטמא טומאת אוכלין אבל לא טומאת</row>
+		<row row_number="11" isdata="1">נבלות כיוצא בו השוחט בהמה טמאה לעובד</row>
+		<row row_number="12" isdata="1">כוכבים ומפרכסת מטמאה טומאת אוכלין</row>
+		<row row_number="13" isdata="1">אבל לא טומאת נבלות עד שתמות או עד</row>
+		<row row_number="14" isdata="1">שיתיז את ראשה ריבה לטמא טומאת אוכלין</row>
+		<row row_number="15" isdata="1">ממה שריבה לטמא טומאת נבלות ר' יהודה</row>
+		<row row_number="16" isdata="1">אומר האלל המכונס אם יש בו כזית במקום</row>
+		<row row_number="17" isdata="1">אחד חייב עליו: <EndMishna/><StartGemara/>גמ' תנינא להא דת"ר</row>
+		<row row_number="18" isdata="1">שומרים לטומאה קלה ולא שומרים לטומאה</row>
+		<row row_number="19" isdata="1">חמורה שומרים לטומאה קלה מנלן דתנא</row>
+		<row row_number="20" isdata="1">דבי רבי ישמעאל על כל זרע זרוע א] כדרך</row>
+		<row row_number="21" isdata="1">שבני אדם מוציאין לזריעה חטה בקליפתה</row>
+		<row row_number="22" isdata="1">ושעורה בקליפתה ועדשים בקליפתן ולא</row>
+		<row row_number="23" isdata="1">שומרים לטומאה חמורה מנלן דתנו רבנן</row>
+		<row row_number="24" isdata="1">בנבלתה ולא בעור שאין עליו כזית בשר</row>
+		<row row_number="25" isdata="0">יכול</row>
+</amud>
+</daf>
+</masechet>
+</root>

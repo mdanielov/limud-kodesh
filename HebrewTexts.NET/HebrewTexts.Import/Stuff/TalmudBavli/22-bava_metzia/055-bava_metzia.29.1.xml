@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:26.675764</dateCreated>
+   <lastModified>2016-08-04 11:57:26.675764</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="29">
+	<amud value="1">
+		<row row_number="1" isdata="1">אלא כשנשתמש בהן אבל לא נשתמש</row>
+		<row row_number="2" isdata="1">בהן אם אבדו פטור לימא תיהוי תיובתא</row>
+		<row row_number="3" isdata="1">דרב יוסף דאתמר שומר אבידה רבה אמר</row>
+		<row row_number="4" isdata="1">כש"ח רב יוסף אמר כש"ש אמר לך רב</row>
+		<row row_number="5" isdata="1">יוסף בגניבה ואבידה דכ"ע לא פליגי דחייב</row>
+		<row row_number="6" isdata="1">כי פליגי באונסין דשואל ר"ט סבר שרו ליה</row>
+		<row row_number="7" isdata="1">רבנן לאשתמושי בגוייהו והוה ליה שואל עלייהו ור"ע סבר לא שרו ליה</row>
+		<row row_number="8" isdata="1">רבנן לאשתמושי בגוייהו הלכך לא הוי שואל עלייהו א"ה לפיכך דאמר</row>
+		<row row_number="9" isdata="1">ר"ע למה לי א"א בשלמא בגניבה ואבידה הוא דפליגי היינו דקתני ר"ע</row>
+		<row row_number="10" isdata="1">אומר לא ישתמש בהן לפיכך אם אבדו אינו חייב באחריותן ס"ד אמינא</row>
+		<row row_number="11" isdata="1">שומר שכר הוי כדרב יוסף ובגניבה ואבידה מחייב קא משמע לן לפיכך</row>
+		<row row_number="12" isdata="1">השתא דאמרת לא ישתמש בהן שומר שכר לא הוי ולא מחייב בגניבה</row>
+		<row row_number="13" isdata="1">ואבידה אלא אי אמרת בגניבה ואבידה דכולי עלמא לא פליגי דחייב כי פליגי</row>
+		<row row_number="14" isdata="1">באונסין דשואל מאי לפיכך דרבי עקיבא הכי מבעי ליה למתנא ר"ע אומר</row>
+		<row row_number="15" isdata="1">לא ישתמש בהן ואנא ידענא דכיון דלא ישתמש בהן לאו שואל הוי ואינו</row>
+		<row row_number="16" isdata="1">חייב באחריותן לפיכך דרבי עקיבא למה לי משום לפיכך דרבי טרפון ולפיכך</row>
+		<row row_number="17" isdata="1">דרבי טרפון למה לי הכי קאמר כיון דשרו ליה רבנן לאשתמושי</row>
+		<row row_number="18" isdata="1">בגוייהו כמאן דאישתמש בגוייהו דמי וחייב באחריותן והא אבדו קתני</row>
+		<row row_number="19" isdata="0">כדרבה</row>
+</amud>
+</daf>
+</masechet>
+</root>

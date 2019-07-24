@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33E31E65-10D2-4B41-AC97-A961AA78447A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HebrewTexts.DAL</RootNamespace>
+    <AssemblyName>HebrewTexts.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Book.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CommonExpression.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CommonExpressionsToGroup.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ConceptsDictionary.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ConceptsDictionaryMeaning.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ConceptsDictionaryMeaningsToGroup.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ContentGroup.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ContentOtherVersion.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ContentPattern.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ContentPatternsToGroup.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ContentToAlternateGroup.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ContentTypes_Ref.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="C__RefactorLog.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DistinctWord.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntitiesExtensions\ContentGroupPartial.cs" />
+    <Compile Include="GroupsAndDividingType.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GroupsProperty.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HebrewTextsDataModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HebrewTextsDataModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HebrewTextsDataModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HebrewTextsDataModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HebrewTextsDataModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="HebrewTextsEntities.cs" />
+    <Compile Include="Letters_Ref.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MainContent.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MainContentWithGroupsLevel.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Niqqud_Ref.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Persistence\Repositories\GroupsAndDividingTypesRepository.cs" />
+    <Compile Include="Persistence\Repositories\GroupsRepository.cs" />
+    <Compile Include="Persistence\Repositories\IRepositoryInsertContent.cs" />
+    <Compile Include="PersonalitiesInstancesInContent.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Personality.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RawImportStuff.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RelationsBetweenCommonExpression.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RelationsBetweenGroup.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RelationsBetweenPersonality.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RelationsSource.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RelationTypesBetweenCommonExpressions_Ref.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RootWord.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RootWordForm.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RootWordsToContent.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SetContentLog.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Taamim_Ref.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TalmudBavliRawImport.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TalmudBavliWord.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Tanakh.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TanakhCharacter.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TextVersionSource.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="WordsDictionary.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="WordsInTanakh.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="WordsRelation.cs">
+      <DependentUpon>HebrewTextsDataModel.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <EntityDeploy Include="HebrewTextsDataModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>HebrewTextsDataModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="HebrewTextsDataModel.edmx.diagram">
+      <DependentUpon>HebrewTextsDataModel.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Utilities\MatarahExtensions\MatarahExtensions\MatarahExtensions.csproj">
+      <Project>{B84B8E9A-6B20-4154-87AB-1108C90ACFB3}</Project>
+      <Name>MatarahExtensions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HebrewTextsDataModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HebrewTextsDataModel.edmx</DependentUpon>
+      <LastGenOutput>HebrewTextsDataModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="HebrewTextsDataModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HebrewTextsDataModel.edmx</DependentUpon>
+      <LastGenOutput>HebrewTextsDataModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

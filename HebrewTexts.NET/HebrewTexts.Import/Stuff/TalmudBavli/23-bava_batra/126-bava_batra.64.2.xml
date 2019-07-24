@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:33.520156</dateCreated>
+   <lastModified>2016-08-04 11:57:33.520156</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1">דרבי עקיבא סבר מוכר בעין יפה מוכר</row>
+		<row row_number="2" isdata="1">ורבנן סברי מוכר בעין רעה מוכר ודקאמר</row>
+		<row row_number="3" isdata="1">נמי בעלמא ר' עקיבא לטעמיה דאמר מוכר</row>
+		<row row_number="4" isdata="1">בעין יפה מוכר מהכא ממאי דלמא רבי</row>
+		<row row_number="5" isdata="1">עקיבא סבר אין אדם רוצה שיתן מעותיו</row>
+		<row row_number="6" isdata="1">וידרסוהו אחרים ורבנן סברי אין אדם רוצה</row>
+		<row row_number="7" isdata="1">שיטול מעות ויפרח באויר ואלא מסיפא מכרן לאחר ר' עקיבא אומר אינו צריך</row>
+		<row row_number="8" isdata="1">ליקח לו דרך וחכמים אומרים צריך דלמא בהאי פליגי דרבי עקיבא סבר</row>
+		<row row_number="9" isdata="1">בתר דעתא דלוקח אזלינן ורבנן סברי בתר דעתא דמוכר אזלינן ואלא מהא</row>
+		<row row_number="10" isdata="1">לא את הבור ולא את הגת ולא את השובך בין חרבין בין ישובין וצריך ליקח</row>
+		<row row_number="11" isdata="1">לו דרך דברי ר' עקיבא וחכמים אומרים אינו צריך הא תו למה לי אלא לאו</row>
+		<row row_number="12" isdata="1">הא קמ"ל דרבי עקיבא סבר מוכר בעין יפה מוכר ורבנן סברי מוכר בעין רעה</row>
+		<row row_number="13" isdata="1">מוכר ודלמא אשמועינן בית וקא משמע לן שדה וצריכא דאי אשמועינן</row>
+		<row row_number="14" isdata="1">בית משום דבעי צניעותא אבל שדה אימא לא ואי אשמועינן שדה משום</row>
+		<row row_number="15" isdata="1">דקשי ליה דוושא אבל בית אימא לא אלא מסיפא מכרן לאחר רבי עקיבא</row>
+		<row row_number="16" isdata="1">אומר אינו צריך ליקח לו דרך וחכמים אומרים צריך הא תו למה לי</row>
+		<row row_number="17" isdata="1">היינו הך אלא לאו הא קמ"ל דרבי עקיבא סבר מוכר בעין יפה מוכר</row>
+		<row row_number="18" isdata="1">ורבנן סברי מוכר בעין רעה מוכר שמע מינה איתמר רב הונא אמר רב</row>
+		<row row_number="19" isdata="0">הלכה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:01.234309</dateCreated>
+   <lastModified>2016-08-04 11:57:01.234309</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="97">
+	<amud value="2">
+		<row row_number="1" isdata="1">אח מאב ולא מאם והוא בעלה דאם ואנא</row>
+		<row row_number="2" isdata="1">ברתה דאנתתיה אמר רמי בר חמא דלא</row>
+		<row row_number="3" isdata="1">כר' יהודה דמתני' אח הוא וברי הוא אחתיה</row>
+		<row row_number="4" isdata="1">אנא דהאי דדרינא אכתפאי משכחת לה</row>
+		<row row_number="5" isdata="1">בעובד כוכבים הבא על בתו שלמא לך ברי</row>
+		<row row_number="6" isdata="1">בת אחתיך אנא משכחת לה בעובד</row>
+		<row row_number="7" isdata="1">כוכבים הבא על בת בתו דלאי דדלו דוולא</row>
+		<row row_number="8" isdata="1">ליפול בכו סתר פתר דהאי דדרינא הוא בר</row>
+		<row row_number="9" isdata="1">ואנא ברת אחוה משכחת לה בעובד</row>
+		<row row_number="10" isdata="1">כוכבים הבא על בת בנו בייא בייא מאח</row>
+		<row row_number="11" isdata="1">והוא אב והוא בעל והוא בר בעל והוא בעלה</row>
+		<row row_number="12" isdata="1">דאם ואנא ברתה דאיתתיה ולא יהיב פיתא</row>
+		<row row_number="13" isdata="1">לאחוה יתמי בני ברתיה משכחת לה בעובד כוכבים הבא על אמו והוליד</row>
+		<row row_number="14" isdata="1">ממנה בת וחזר ובא על אותה בת וחזר זקן ובא עליה והוליד ממנה בנים</row>
+		<row row_number="15" isdata="1">אנא ואת אחי אנא ואבוך אחי אנא ואמך אחי משכחת לה בעובד כוכבים</row>
+		<row row_number="16" isdata="1">הבא על אמו והוליד ממנה שתי בנות וחזר ובא על אחת מהן והוליד</row>
+		<row row_number="17" isdata="1">ממנה בן וקריא ליה אחתיה דאימא וקאמרה ליה הכי אנא ואת בני</row>
+		<row row_number="18" isdata="1">אחי אנא ואבוך בני אחי אנא ואמך בני אחי הא בהיתירא נמי משכחת</row>
+		<row row_number="19" isdata="1">לה כגון ראובן שיש לו שתי בנות ואתא שמעון ונסב חדא מינייהו ואתא</row>
+		<row row_number="20" isdata="1">בר לוי ונסב חד מינייהו וקאמר ליה בריה דשמעון לבר בריה דלוי :</row>
+		<row row_number="21" isdata="1">מתני' הגיורת שנתגיירו בניה עמה לא חולצין ולא מייבמין אפילו הורתו</row>
+		<row row_number="22" isdata="1">של ראשון שלא בקדושה ולידתו בקדושה והשני הורתו ולידתו בקדושה</row>
+		<row row_number="23" isdata="1">וכן שפחה שנשתחררו בניה עמה: <EndMishna/><StartGemara/>גמ' בני יודן אמתא אשתחרור שרא</row>
+		<row row_number="24" isdata="1">להו רב אחא בר יעקב למינסב נשי דהדדי אמר ליה רבא והא רב ששת</row>
+		<row row_number="25" isdata="1">אסר א"ל הוא אסר ואנא שרינא מן האב ולא מן האם כ"ע לא פליגי דשרי</row>
+		<row row_number="26" isdata="1">מן האם ולא מן האב כ"ע לא פליגי דאסיר כי פליגי מן האב ומן האם מאן</row>
+		<row row_number="27" isdata="1">דשרי בתר אבא שדינן דהא בני פלניא קרו להו ורב ששת קרו להו נמי</row>
+		<row row_number="28" isdata="1">בני פלונית ואיכא דאמר פליג רב אחא בר יעקב אפילו באחין מן האם ומ"ט</row>
+		<row row_number="29" isdata="1">גר שנתגייר כקטן שנולד דמי תנן הגיורת שנתגיירו בניה עמה לא חולצין</row>
+		<row row_number="30" isdata="1">ולא מייבמין מ"ט לאו משום דאסירי לא דאינה בתורת חליצה וייבום ושריא</row>
+		<row row_number="31" isdata="1">לעלמא ואינהו נמי שרו והא קתני אפילו אי אמרת בשלמא אסירי היינו</row>
+		<row row_number="32" isdata="1">דקתני אפילו דאע"ג דראשון הורתו שלא בקדושה ולידתו בקדושה והשני</row>
+		<row row_number="33" isdata="1">הורתו ולידתו בקדושה וכשתי אמהות דמו אפילו הכי אסירי אלא אי אמרת</row>
+		<row row_number="34" isdata="1">שרו מאי אפילו דאע"ג דתרוייהו לידתן בקדושה ואתי לאיחלופי בישראל</row>
+		<row row_number="35" isdata="1">אפ"ה שרי איכא דאמרי הכי נמי מסתברא דשרו דקתני אפילו אי אמרת</row>
+		<row row_number="36" isdata="1">בשלמא שרו היינו דקתני אפילו דאע"ג דתרוייהו לידתן בקדושה דאתי</row>
+		<row row_number="37" isdata="1">לאיחלופי בישראל אפ"ה שרו אלא אי אמרת אסירי מאי אפי' דאע"ג</row>
+		<row row_number="38" isdata="1">דראשון הורתו שלא בקדושה ולידתו בקדושה והשני הורתו ולידתו</row>
+		<row row_number="39" isdata="1">בקדושה דכשתי אמהות דמי אפילו הכי אסירי ת"ש שני אחים תאומים</row>
+		<row row_number="40" isdata="1">גרים וכן משוחררים לא חולצין ולא מייבמין ואין חייבין משום אשת אח</row>
+		<row row_number="41" isdata="1">היתה הורתן שלא בקדושה ולידתן בקדושה לא חולצין ולא מייבמין</row>
+		<row row_number="42" isdata="1">אבל חייבין משום אשת אח היתה הורתן ולידתן בקדושה הרי הן</row>
+		<row row_number="43" isdata="1">כישראלים לכל דבריהן קתני מיהת אין חייבין משום אשת אח חיובא ליכא</row>
+		<row row_number="44" isdata="0">הא</row>
+</amud>
+</daf>
+</masechet>
+</root>

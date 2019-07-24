@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:48.916605</dateCreated>
+   <lastModified>2016-08-04 11:56:48.916605</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="8">
+	<amud value="2">
+		<row row_number="1" isdata="1">ריבועא דנפיק מגו עיגולא פלגא ולא היא</row>
+		<row row_number="2" isdata="1">דהא קחזינן דלא הוי כולי האי: א"ר לוי</row>
+		<row row_number="3" isdata="1">משום ר"מ שתי סוכות של יוצרים זו לפנים</row>
+		<row row_number="4" isdata="1">מזו הפנימית אינה סוכה וחייבת במזוזה</row>
+		<row row_number="5" isdata="1">והחיצונה סוכה ופטורה מן המזוזה ואמאי</row>
+		<row row_number="6" isdata="1">תהוי חיצונה כבית שער הפנימית ותתחייב</row>
+		<row row_number="7" isdata="1">במזוזה משום דלא קביע תנו רבנן גנב"ך</row>
+		<row row_number="8" isdata="1">סוכת גוים סוכת נשים סוכת בהמה סוכת</row>
+		<row row_number="9" isdata="1">כותים סוכה מכל מקום כשרה ובלבד</row>
+		<row row_number="10" isdata="1">שתהא מסוככת כהלכתה מאי כהלכתה</row>
+		<row row_number="11" isdata="1">אמר רב חסדא והוא שעשאה לצל סוכה</row>
+		<row row_number="12" isdata="1">מכל מקום לאתויי מאי לאתויי סוכת רקב"ש</row>
+		<row row_number="13" isdata="1">דתנו רבנן סוכת רקב"ש סוכת רועים סוכת</row>
+		<row row_number="14" isdata="1">קייצים סוכת בורגנין סוכת שומרי פירות</row>
+		<row row_number="15" isdata="1">סוכה מכל מקום כשרה ובלבד שתהא</row>
+		<row row_number="16" isdata="1">מסוככת כהלכתה מאי כהלכתה אמר רב</row>
+		<row row_number="17" isdata="1">חסדא והוא שעשאה לצל סוכה מכל</row>
+		<row row_number="18" isdata="1">מקום לאתויי מאי לאתויי סוכת גנב"ך</row>
+		<row row_number="19" isdata="1">האי תנא דגנב"ך אלימא ליה גנב"ך</row>
+		<row row_number="20" isdata="1">משום דקביעי וקא תנא מכל מקום לאתויי</row>
+		<row row_number="21" isdata="1">רקב"ש דלא קביעי והאי תנא דרקב"ש</row>
+		<row row_number="22" isdata="1">אלימא ליה רקב"ש דבני חיובא נינהו ותנא</row>
+		<row row_number="23" isdata="1">מ"מ לאתויי גנב"ך דלאו בני חיובא נינהו:</row>
+		<row row_number="24" isdata="0">מתני'</row>
+</amud>
+</daf>
+</masechet>
+</root>

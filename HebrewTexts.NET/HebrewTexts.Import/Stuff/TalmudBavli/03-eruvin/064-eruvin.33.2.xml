@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:36.576899</dateCreated>
+   <lastModified>2016-08-04 11:56:36.576899</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="33">
+	<amud value="2">
+		<row row_number="1" isdata="1">ורבי סבר לה כר' מאיר וסבר לה כר' יהודה</row>
+		<row row_number="2" isdata="1">סבר לה כרבי מאיר דאמר חוקקין להשלים</row>
+		<row row_number="3" isdata="1">וסבר לה כר' יהודה דאמר בעינן עירוב על</row>
+		<row row_number="4" isdata="1">גבי מקום ארבעה וליכא מאי רבי יהודה</row>
+		<row row_number="5" isdata="1">דתניא רבי יהודה אומר נעץ קורה ברשות</row>
+		<row row_number="6" isdata="1">הרבים והניח עירובו עליה גבוה י' ורחבה ד'</row>
+		<row row_number="7" isdata="1">עירובו עירוב ואם לאו אין עירובו עירוב</row>
+		<row row_number="8" isdata="1">אדרבה הוא ועירובו במקום אחד אלא הכי</row>
+		<row row_number="9" isdata="1">קאמר גבוה עשרה צריך שיהא בראשה</row>
+		<row row_number="10" isdata="1">ארבעה אין גבוהה עשרה אין צריך שיהא</row>
+		<row row_number="11" isdata="1">בראשה ארבעה כמאן דלא כרבי יוסי ברבי</row>
+		<row row_number="12" isdata="1">יהודה דתניא רבי יוסי ברבי יהודה אומר</row>
+		<row row_number="13" isdata="1">נעץ קנה ברשות הרבים והניח בראשו טרסקל</row>
+		<row row_number="14" isdata="1">וזרק ונח על גביו חייב אפילו תימא רבי</row>
+		<row row_number="15" isdata="1">יוסי ברבי יהודה התם הדרן מחיצתא הכא</row>
+		<row row_number="16" isdata="1">לא הדרן מחיצתא רבי ירמיה אמר שאני</row>
+		<row row_number="17" isdata="1">כלכלה הואיל ויכול לנטותה ולהביאה לתוך</row>
+		<row row_number="18" isdata="1">עשרה יתיב רב פפא וקא אמר להא שמעתא</row>
+		<row row_number="19" isdata="1">איתיביה רב בר שבא לרב פפא כיצד הוא</row>
+		<row row_number="20" isdata="1">עושה מוליכו בראשון ומחשיך עליו ונוטלו</row>
+		<row row_number="21" isdata="1">ובא לו בשני מחשיך עליו ואוכלו ובא לו</row>
+		<row row_number="22" isdata="0">אמאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

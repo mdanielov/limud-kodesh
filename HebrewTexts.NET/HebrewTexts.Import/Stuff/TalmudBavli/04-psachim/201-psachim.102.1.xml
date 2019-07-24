@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:43.747309</dateCreated>
+   <lastModified>2016-08-04 11:56:43.747309</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="102">
+	<amud value="1">
+		<row row_number="1" isdata="1">מאן תנא עקירות רבי יהודה דתניא חברים</row>
+		<row row_number="2" isdata="1">שהיו מסובין ועקרו רגליהם לילך לבית</row>
+		<row row_number="3" isdata="1">הכנסת או לבית המדרש כשהן יוצאין אין</row>
+		<row row_number="4" isdata="1">טעונין ברכה למפרע וכשהן חוזרין אין</row>
+		<row row_number="5" isdata="1">טעונין ברכה לכתחלה אמר רבי יהודה</row>
+		<row row_number="6" isdata="1">במה דברים אמורים בזמן שהניחו שם</row>
+		<row row_number="7" isdata="1">מקצת חברים אבל לא הניחו שם מקצת</row>
+		<row row_number="8" isdata="1">חברים כשהן יוצאין טעונין ברכה למפרע</row>
+		<row row_number="9" isdata="1">וכשהן חוזרין טעונין ברכה לכתחלה אלא</row>
+		<row row_number="10" isdata="1">טעמא דבדברים הטעונין ברכה לאחריהן</row>
+		<row row_number="11" isdata="1">במקומן דכשהן יוצאין אין טעונין ברכה</row>
+		<row row_number="12" isdata="1">למפרע וכשהן חוזרין אין טעונין ברכה</row>
+		<row row_number="13" isdata="1">לכתחלה אבל דברים שאין טעונין ברכה</row>
+		<row row_number="14" isdata="1">לאחריהן במקומן אפילו לרבנן כשהן יוצאין</row>
+		<row row_number="15" isdata="1">טעונין ברכה למפרע וכשהן חוזרין טעונין</row>
+		<row row_number="16" isdata="1">ברכה לכתחילה לימא תיהוי תיובתא דר'</row>
+		<row row_number="17" isdata="1">יוחנן ולאו מי אותביניה חדא זימנא נימא</row>
+		<row row_number="18" isdata="1">מהא נמי תיהוי תיובתא אמר לך ר' יוחנן</row>
+		<row row_number="19" isdata="1">הוא הדין דאפילו דברים שאין טעונין ברכה</row>
+		<row row_number="20" isdata="1">לאחריהם במקומן נמי אין צריכין לברך</row>
+		<row row_number="21" isdata="1">והא דקתני עקרו רגליהן להודיעך כחו</row>
+		<row row_number="22" isdata="1">דר' יהודה דאפילו דברים שטעונין ברכה</row>
+		<row row_number="23" isdata="1">לאחריהן במקומן טעמא דהניחו מקצת</row>
+		<row row_number="24" isdata="1">חברים אבל לא הניחו מקצת חברים כשהן</row>
+		<row row_number="25" isdata="1">יוצאין טעונין ברכה למפרע וכשהן חוזרין</row>
+		<row row_number="26" isdata="1">טעונין ברכה לכתחלה תניא כוותיה דרב</row>
+		<row row_number="27" isdata="1">חסדא חברים שהיו מסובין לשתות יין ועקרו</row>
+		<row row_number="28" isdata="1">רגליהן וחזרו אין צריכין לברך תנו רבנן בני</row>
+		<row row_number="29" isdata="1">חבורה שהיו מסובין וקדש עליהן היום</row>
+		<row row_number="30" isdata="1">מביאין לו כוס של יין ואומר עליו קדושת</row>
+		<row row_number="31" isdata="1">היום ושני אומר עליו ברכת המזון דברי רבי</row>
+		<row row_number="32" isdata="1">יהודה ר' יוסי אומר אוכל והולך עד שתחשך</row>
+		<row row_number="33" isdata="0">גמרו</row>
+</amud>
+</daf>
+</masechet>
+</root>

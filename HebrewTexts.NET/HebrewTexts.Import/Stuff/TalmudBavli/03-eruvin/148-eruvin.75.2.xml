@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:38.336000</dateCreated>
+   <lastModified>2016-08-04 11:56:38.336000</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="75">
+	<amud value="2">
+		<row row_number="1" isdata="1">תניא נמי הכי נתנו עירובן בחיצונה ושכח</row>
+		<row row_number="2" isdata="1">אחד בין מן החיצונה ובין מן הפנימית ולא</row>
+		<row row_number="3" isdata="1">עירב שתיהן אסורות נתנו עירובן בפנימית</row>
+		<row row_number="4" isdata="1">ושכח אחד מן הפנימית ולא עירב שתיהן</row>
+		<row row_number="5" isdata="1">אסורות מן החיצונה ולא עירב שתיהן</row>
+		<row row_number="6" isdata="1">אסורות דברי רבי עקיבא וחכמים אומרים</row>
+		<row row_number="7" isdata="1">בזו פנימית מותרת וחיצונה אסורה אמר</row>
+		<row row_number="8" isdata="1">ליה רבה בר חנן לאביי מאי שנא לרבנן</row>
+		<row row_number="9" isdata="1">דאמרי פנימית מותרת משום דאחדא דשא</row>
+		<row row_number="10" isdata="1">ומשתמש' לרבי עקיבא נמי תיחד דשא</row>
+		<row row_number="11" isdata="1">ותשמש אמר ליה עירוב מרגילה לרבנן נמי</row>
+		<row row_number="12" isdata="1">עירוב מרגילה דאמרה לתקוני שיתפתיך</row>
+		<row row_number="13" isdata="1">ולא לעוותי לר"ע נמי תימא לתקוני שיתפתיך</row>
+		<row row_number="14" isdata="1">ולא לעוותי דאמרה לה מבטלינן לך רשותי</row>
+		<row row_number="15" isdata="1">ורבנן אין ביטול רשות מחצר לחצר לימא</row>
+		<row row_number="16" isdata="1">שמואל ורבי יוחנן בפלוגתא דרבנן ור"ע קא</row>
+		<row row_number="17" isdata="1">מיפלגי דשמואל אמר כרבנן ורבי יוחנן דאמר</row>
+		<row row_number="18" isdata="1">כר"ע אמר לך שמואל אנא דאמרי אפי' לרבי</row>
+		<row row_number="19" isdata="1">עקיבא ע"כ לא קאמר ר"ע הכא אלא בשתי</row>
+		<row row_number="20" isdata="1">חצירות זו לפנים מזו דאסרן אהדדי אבל התם</row>
+		<row row_number="21" isdata="1">מי קא אסרן אהדדי ורבי יוחנן אמר אנא דאמרי</row>
+		<row row_number="22" isdata="1">אפילו לרבנן ע"כ לא קאמרי רבנן הכא אלא</row>
+		<row row_number="23" isdata="1">דאמרה לה אדמבטלת לי קא אסרת עלאי</row>
+		<row row_number="24" isdata="1">אבל התם מי קאסרת עלה: ואם היו של</row>
+		<row row_number="25" isdata="1">יחידים וכו': אמר רב יוסף תני רבי היו ג'</row>
+		<row row_number="26" isdata="1">אסורין אמר להו רב ביבי לא תציתו ליה אנא</row>
+		<row row_number="27" isdata="1">אמריתה ניהלה ומשמיה דרב אדא בר אהבה</row>
+		<row row_number="28" isdata="1">אמריתה ניהלה הואיל ואני קורא בהן רבים</row>
+		<row row_number="29" isdata="1">בחיצונה אמר רב יוסף מריה דאברהם</row>
+		<row row_number="30" isdata="1">רבים ברבי איחלף לי ושמואל אמר לעולם</row>
+		<row row_number="31" isdata="1">מותרות עד שיהו שנים בפנימית ואחד</row>
+		<row row_number="32" isdata="1">בחיצונה אמר רבי אלעזר ונכרי הרי הוא</row>
+		<row row_number="33" isdata="1">כרבים מאי שנא ישראל דלא אסר דמאן</row>
+		<row row_number="34" isdata="1">דידע ידע ומאן דלא ידע סבר עירובי עירב</row>
+		<row row_number="35" isdata="1">נכרי נמי אמרינן דידע ידע דלא ידע סבר</row>
+		<row row_number="36" isdata="1">אגירי אוגר סתם נכרי אי איתא דאוגר מיפעא</row>
+		<row row_number="37" isdata="1">פעי אמר רב יהודה אמר שמואל י' בתים זה</row>
+		<row row_number="38" isdata="1">לפנים מזה פנימי נותן את עירובו ודיו ור' יוחנן</row>
+		<row row_number="39" isdata="1">אמר אפילו חיצון חיצון בית שער הוא חיצון</row>
+		<row row_number="40" isdata="1">של פנימי במאי קמיפלגי מר סבר בית שער</row>
+		<row row_number="41" isdata="1">דיחיד שמיה בית שער ומ"ס לא שמי' בית שער</row>
+		<row row_number="42" isdata="1">א"ר נחמן אמר רבה בר אבוה אמר רב ב'</row>
+		<row row_number="43" isdata="1">חצירות וג' בתים ביניהן זה בא דרך זה ונותן</row>
+		<row row_number="44" isdata="1">עירובו בזה וזה בא דרך זה ונותן עירובו בזה</row>
+		<row row_number="45" isdata="0">זה</row>
+</amud>
+</daf>
+</masechet>
+</root>

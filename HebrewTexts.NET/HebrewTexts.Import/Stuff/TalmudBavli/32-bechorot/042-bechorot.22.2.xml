@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:05.458983</dateCreated>
+   <lastModified>2016-08-04 11:58:05.458983</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="22">
+	<amud value="2">
+		<row row_number="1" isdata="1">למאה חולין טהורין רבי אליעזר אומר תירום</row>
+		<row row_number="2" isdata="1">א] ותרקב שאני אומר היא סאה שנפלה היא</row>
+		<row row_number="3" isdata="1">סאה שעלתה וחכמים אומרים תעלה ותיאכל</row>
+		<row row_number="4" isdata="1">ניקודים ב] או קליות או תילוש במי פירות</row>
+		<row row_number="5" isdata="1">או תתחלק לעיסות ובלבד שלא יהא</row>
+		<row row_number="6" isdata="1">במקום אחד כביצה ותני עלה אותן חולין</row>
+		<row row_number="7" isdata="0">לר'</row>
+</amud>
+</daf>
+</masechet>
+</root>

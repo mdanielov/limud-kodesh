@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:38.108418</dateCreated>
+   <lastModified>2016-08-04 11:57:38.108418</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="161">
+	<amud value="2">
+		<row row_number="1" isdata="1">לאו דיעקב הוא ודלמא בשמיה דאבוה חתם</row>
+		<row row_number="2" isdata="1">לא שביק איניש שמיה דידיה וחתים בשמיה</row>
+		<row row_number="3" isdata="1">דאבוה ודלמא סימנא בעלמא הוא דשוויה</row>
+		<row row_number="4" isdata="1">דהא רב צייר כוורא ר' חנינא צייר חרותא</row>
+		<row row_number="5" isdata="1">רב חסדא סמ"ך רב הושעיא עי"ן רבא בר</row>
+		<row row_number="6" isdata="1">רב הונא מכותא לא חציף אינש לשוויה</row>
+		<row row_number="7" isdata="1">לשמיה דאבוה סימנא מר זוטרא אמר למה</row>
+		<row row_number="8" isdata="1">לך כולי האי כל מקושר שאין עדיו כלין</row>
+		<row row_number="9" isdata="1">בשיטה אחת פסול א"ר יצחק בר יוסף אמר</row>
+		<row row_number="10" isdata="1">ר' יוחנן כל המחקין כולן צריך שיכתוב</row>
+		<row row_number="11" isdata="1">ודין קיומיהון וצריך שיחזור מענינו</row>
+		<row row_number="12" isdata="1">של שטר בשיטה אחרונה מאי טעמא</row>
+		<row row_number="13" isdata="0">אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

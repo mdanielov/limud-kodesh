@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:33.866744</dateCreated>
+   <lastModified>2016-08-04 11:56:33.866744</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="134">
+	<amud value="2">
+		<row row_number="1" isdata="1">מתני' מרחיצין את הקטן בין לפני המילה</row>
+		<row row_number="2" isdata="1">ובין לאחר המילה ומזלפין עליו ביד אבל</row>
+		<row row_number="3" isdata="1">לא בכלי ר"א בן עזריה אומר מרחיצין את</row>
+		<row row_number="4" isdata="1">הקטן ביום השלישי שחל להיות בשבת</row>
+		<row row_number="5" isdata="1">שנאמר ויהי ביום השלישי בהיותם כואבים</row>
+		<row row_number="6" isdata="1">ספק ואנדרוגינוס אין מחללין עליו את השבת</row>
+		<row row_number="7" isdata="1">ורבי יהודה מתיר באנדרוגינוס: <EndMishna/><StartGemara/>גמ' והא</row>
+		<row row_number="8" isdata="1">אמרת רישא מרחיצין רב יהודה ורבה בר</row>
+		<row row_number="9" isdata="1">אבוה דאמרי תרוייהו כיצד תני מרחיצין את</row>
+		<row row_number="10" isdata="1">הקטן בין לפני מילה בין לאחר מילה כיצד</row>
+		<row row_number="11" isdata="1">מזלפין עליו ביד אבל לא בכלי אמר רבא</row>
+		<row row_number="12" isdata="1">והא מרחיצין קתני אלא אמר רבא הכי קתני</row>
+		<row row_number="13" isdata="1">מרחיצין את הקטן בין מלפני מילה בין</row>
+		<row row_number="14" isdata="1">לאחר המילה ביום הראשון כדרכו וביום</row>
+		<row row_number="15" isdata="1">השלישי שחל להיות בשבת מזלפין עליו ביד</row>
+		<row row_number="16" isdata="1">אבל לא בכלי ר"א בן עזריה אומר מרחיצין</row>
+		<row row_number="17" isdata="1">את הקטן ביום השלישי שחל להיות בשבת</row>
+		<row row_number="18" isdata="1">שנאמר ויהי ביום השלישי בהיותם כואבים תניא כוותיה דרבא מרחיצין הקטן</row>
+		<row row_number="19" isdata="1">בין לפני מילה בין לאחר מילה ביום ראשון כדרכו וביום השלישי שחל להיות</row>
+		<row row_number="20" isdata="1">בשבת מזלפין עליו ביד ר"א בן עזריה אומר מרחיצין את הקטן ביום השלישי</row>
+		<row row_number="21" isdata="1">שחל להיות בשבת ואע"פ שאין ראיה לדבר זכר לדבר שנאמר ויהי ביום</row>
+		<row row_number="22" isdata="1">השלישי בהיותם כואבים וכשהן מזלפין אין מזלפין לא בכוס ולא בקערה ולא</row>
+		<row row_number="23" isdata="1">בכלי אלא ביד אתאן לתנא קמא מאי אע"פ שאין ראיה לדבר זכר לדבר משום</row>
+		<row row_number="24" isdata="1">דגדול לא סליק בישרא הייא קטן סליק ביה בישרא הייא ההוא דאתא לקמיה</row>
+		<row row_number="25" isdata="1">דרבא אורי ליה כשמעתיה איחלש רבא אמר אנא בהדי תרגימנא דסבי למה</row>
+		<row row_number="26" isdata="1">לי אמרו ליה רבנן לרבא והתניא כוותיה דמר אמר להו מתניתין כוותייהו</row>
+		<row row_number="27" isdata="1">דיקא ממאי מדקאמר רבי אלעזר בן עזריה אומר מרחיצין את הקטן ביום</row>
+		<row row_number="28" isdata="1">השלישי שחל להיות בשבת אי אמרת בשלמא תנא קמא מזלפין קאמר</row>
+		<row row_number="29" isdata="1">היינו דקאמר ליה ר"א בן עזריה מרחיצין אלא אי אמרת תנא קמא מרחיצין</row>
+		<row row_number="30" isdata="1">ביום הראשון קאמר ומזלפין ביום השלישי האי רבי אלעזר בן עזריה</row>
+		<row row_number="31" isdata="1">אומר מרחיצין אף מרחיצין מיבעי ליה כי אתא רב דימי אמר רבי אלעזר</row>
+		<row row_number="32" isdata="1">הלכה כר"א בן עזריה הוו בה במערבא הרחצת כל גופו או הרחצת מילה</row>
+		<row row_number="33" isdata="1">אמר להו ההוא מרבנן ורבי יעקב שמיה מסתברא הרחצת כל גופו דאי</row>
+		<row row_number="34" isdata="1">ס"ד הרחצת מילה מי גרע מחמין על גבי מכה דאמר רב אין מונעין חמין</row>
+		<row row_number="35" isdata="1">ושמן מעל גבי מכה בשבת מתקיף לה רב יוסף ולא שני לך בין חמין</row>
+		<row row_number="36" isdata="1">שהוחמו בשבת לחמין שהוחמו מע"ש מתקיף לה רב דימי וממאי דהכא</row>
+		<row row_number="37" isdata="1">בחמין שהוחמו בשבת פליגי דילמא בחמין שהוחמו בע"ש פליגי אמר אביי</row>
+		<row row_number="38" isdata="1">אנא בעאי דאישני ליה וקדם ושני ליה רב יוסף מפני שסכנה הוא לו</row>
+		<row row_number="39" isdata="1">איתמר נמי כי אתא רבין א"ר אבהו א"ר אלעזר ואמרי לה א"ר אבהו א"ר</row>
+		<row row_number="40" isdata="1">יוחנן הלכה כר"א בן עזריה בין בחמין שהוחמו בשבת בין בחמין שהוחמו</row>
+		<row row_number="41" isdata="1">מע"ש בין הרחצת כל גופו בין הרחצת מילה מפני שסכנה היא לו:</row>
+		<row row_number="42" isdata="1">גופא אמר רב אין מונעין חמין ושמן מעל גבי מכה בשבת ושמואל אמר</row>
+		<row row_number="43" isdata="1">נותן חוץ למכה ושותת ויורד למכה מיתיבי אין נותנין שמן וחמין על</row>
+		<row row_number="44" isdata="1">גבי מוך ליתן על גבי מכה בשבת התם משום סחיטה תא שמע אין</row>
+		<row row_number="45" isdata="1">נותנין חמין ושמן על גבי מוך שעל גבי מכה בשבת התם נמי משום</row>
+		<row row_number="46" isdata="1">סחיטה תניא כוותיה דשמואל אין נותנין חמין ושמן על גבי מכה בשבת</row>
+		<row row_number="47" isdata="1">אבל נותנין חוץ למכה ושותת ויורד למכה תנו רבנן נותנין על גבי</row>
+		<row row_number="48" isdata="1">המכה מוך יבש וספוג יבש אבל לא גמי יבש ולא כתיתין יבשין קשיא</row>
+		<row row_number="49" isdata="1">כתיתין אכתיתין לא קשיא הא בחדתי הא בעתיקי אמר אביי שמע</row>
+		<row row_number="50" isdata="1">מינה הני כתיתין מסו: ספק ואנדרוגינוס כו': תנו רבנן ערלתו ערלתו ודאי דוחה את השבת</row>
+		<row row_number="51" isdata="0">ולא</row>
+</amud>
+</daf>
+</masechet>
+</root>

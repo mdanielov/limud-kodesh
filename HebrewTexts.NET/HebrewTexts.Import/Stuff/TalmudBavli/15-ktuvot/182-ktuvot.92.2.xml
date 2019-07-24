@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:06.085587</dateCreated>
+   <lastModified>2016-08-04 11:57:06.085587</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="92">
+	<amud value="2">
+		<row row_number="1" isdata="1">אבל שבק בינונית דכוותה מצי א"ל הנחתי</row>
+		<row row_number="2" isdata="1">לך מקום לגבות הימנו אמר אביי ראובן</row>
+		<row row_number="3" isdata="1">שמכר שדה לשמעון באחריות ואתא בעל</row>
+		<row row_number="4" isdata="1">חוב דראובן וקטריף לה מיניה דינא הוא</row>
+		<row row_number="5" isdata="1">דאזיל ראובן ומפצי ליה ולא מצי אמר ליה</row>
+		<row row_number="6" isdata="1">לאו בעל דברים דידי את משום דאמר</row>
+		<row row_number="7" isdata="1">ליה דמפקת מיניה עלי הדר ואיכא דאמרי</row>
+		<row row_number="8" isdata="1">אפילו שלא באחריות נמי דאמר ליה לא</row>
+		<row row_number="9" isdata="1">ניחא לי דתהוי ליה לשמעון תרעומת עלי</row>
+		<row row_number="10" isdata="1">אמר אביי ראובן שמכר שדה לשמעון שלא באחריות ויצאו עליו</row>
+		<row row_number="11" isdata="0">עסיקין</row>
+</amud>
+</daf>
+</masechet>
+</root>

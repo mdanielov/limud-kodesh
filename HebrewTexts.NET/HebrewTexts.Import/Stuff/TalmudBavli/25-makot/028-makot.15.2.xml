@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:43.896749</dateCreated>
+   <lastModified>2016-08-04 11:57:43.896749</lastModified>
+ </meta>
+ <masechet name="מכות" serial="25">
+<daf value="15">
+	<amud value="2">
+		<row row_number="1" isdata="1">מידי הוא טעמא אלא לרבי יוחנן האמר</row>
+		<row row_number="2" isdata="1">ליה רבי יוחנן לתנא תני בטלו חייב ולא</row>
+		<row row_number="3" isdata="1">בטלו פטור דתני תנא קמיה דרבי יוחנן כל</row>
+		<row row_number="4" isdata="1">מצות לא תעשה שיש בה קום עשה קיים</row>
+		<row row_number="5" isdata="1">עשה שבה פטור ביטל עשה שבה חייב</row>
+		<row row_number="6" isdata="1">א"ל מאי קא אמרת קיים פטור לא קיים</row>
+		<row row_number="7" isdata="1">חייב ביטל חייב לא ביטל פטור תני ביטלו</row>
+		<row row_number="8" isdata="1">ולא ביטלו ורבי שמעון בן לקיש אומר קיימו</row>
+		<row row_number="9" isdata="1">ולא קיימו במאי קא מיפלגי בהתראת ספק</row>
+		<row row_number="10" isdata="1">קא מיפלגי מר סבר התראת ספק שמה</row>
+		<row row_number="11" isdata="1">התראה ומר סבר התראת ספק לא</row>
+		<row row_number="12" isdata="1">שמה התראה ואזדו לטעמייהו דאיתמר</row>
+		<row row_number="13" isdata="1">שבועה שאוכל ככר זה היום ועבר היום</row>
+		<row row_number="14" isdata="1">ולא אכלה רבי יוחנן ור"ל דאמרי תרוייהו</row>
+		<row row_number="15" isdata="1">אינו לוקה רבי יוחנן אומר אינו לוקה</row>
+		<row row_number="16" isdata="0">משום</row>
+</amud>
+</daf>
+</masechet>
+</root>

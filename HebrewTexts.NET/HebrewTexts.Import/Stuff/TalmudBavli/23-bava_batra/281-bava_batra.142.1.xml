@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:37.176365</dateCreated>
+   <lastModified>2016-08-04 11:57:37.176365</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="142">
+	<amud value="1">
+		<row row_number="1" isdata="1">ולימא ליה דאמר לכשתלד רב הונא</row>
+		<row row_number="2" isdata="1">לטעמיה דאמר רב הונא אף לכשתלד לא</row>
+		<row row_number="3" isdata="1">קנה דאמר רב נחמן המזכה לעובר לא קנה</row>
+		<row row_number="4" isdata="1">לכשתלד קנה ורב הונא אמר אף לכשתלד</row>
+		<row row_number="5" isdata="1">לא קנה ורב ששת אמר אחד זה ואחד זה</row>
+		<row row_number="6" isdata="1">קנה אמר רב ששת מנא אמינא לה דתניא</row>
+		<row row_number="7" isdata="1">גר שמת ובזבזו ישראל נכסיו ושמעו שיש</row>
+		<row row_number="8" isdata="1">לו בן או שהיתה אשתו מעוברת חייבין</row>
+		<row row_number="9" isdata="1">להחזיר החזירו הכל ואחר כך שמעו שמת</row>
+		<row row_number="10" isdata="1">בנו או שהפילה אשתו החזיק בשניה קנה</row>
+		<row row_number="11" isdata="1">ובראשונה לא קנה ואי סלקא דעתך עובר</row>
+		<row row_number="12" isdata="1">לא קני למה להו אחזוקי בשניה הא אחזיקו</row>
+		<row row_number="13" isdata="1">להו חדא זימנא אמר אביי ירושה הבאה</row>
+		<row row_number="14" isdata="1">מאיליה שאני רבא אמר שאני התם</row>
+		<row row_number="15" isdata="1">דרפוי מרפיאן בידייהו מעיקרא מאי</row>
+		<row row_number="16" isdata="1">בינייהו איכא בינייהו ששמעו בו שמת</row>
+		<row row_number="17" isdata="1">ולא מת ואחר כך מת תא שמע תינוק</row>
+		<row row_number="18" isdata="1">בן יום אחד נוחל ומנחיל בן יום אחד</row>
+		<row row_number="19" isdata="1">אין עובר לא הא אמר רב ששת נוחל</row>
+		<row row_number="20" isdata="1">בנכסי האם להנחיל לאחין מן האב ודוקא</row>
+		<row row_number="21" isdata="1">בן יום אחד אבל עובר לא מאי טעמא</row>
+		<row row_number="22" isdata="0">דהוא</row>
+</amud>
+</daf>
+</masechet>
+</root>

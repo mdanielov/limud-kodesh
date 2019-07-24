@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:39.478065</dateCreated>
+   <lastModified>2016-08-04 11:56:39.478065</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="104">
+	<amud value="2">
+		<row row_number="1" isdata="1">תרו בה כיתנא אסר להו: ומבאר הקר:</row>
+		<row row_number="2" isdata="1">מאי באר הקר אמר שמואל בור שהקרו עליה</row>
+		<row row_number="3" isdata="1">דברים והתירוה מיתיבי לא כל הבורות הקרות</row>
+		<row row_number="4" isdata="1">התירו אלא זו בלבד ואי אמרת שהקרו דברים</row>
+		<row row_number="5" isdata="1">עליה מאי זו בלבד אלא אמר רב נחמן בר</row>
+		<row row_number="6" isdata="1">יצחק באר מים חיים שנאמר כהקיר ביר</row>
+		<row row_number="7" isdata="1">מימיה וגו' גופא לא כל הבורות הקרות</row>
+		<row row_number="8" isdata="1">התירו אלא זו בלבד וכשעלו בני הגולה חנו</row>
+		<row row_number="9" isdata="1">עליה ונביאים שביניהן התירו להן ולא</row>
+		<row row_number="10" isdata="1">נביאים שביניהן אלא מנהג אבותם בידיהם:</row>
+		<row row_number="11" isdata="1">מתני' שרץ שנמצא במקדש כהן מוציאו</row>
+		<row row_number="12" isdata="1">בהמיינו שלא לשהות את הטומאה דברי רבי</row>
+		<row row_number="13" isdata="1">יוחנן בן ברוקה רבי יהודה אומר בצבת של</row>
+		<row row_number="14" isdata="1">עץ שלא לרבות את הטומאה מהיכן מוציאין</row>
+		<row row_number="15" isdata="1">אותו מן ההיכל ומן האולם ומבין האולם</row>
+		<row row_number="16" isdata="1">ולמזבח דברי ר"ש בן ננס רבי עקיבא אומר כל מקום שחייבין על זדונו</row>
+		<row row_number="17" isdata="1">כרת ועל שגגתו חטאת משם מוציאין אותו ושאר כל המקומות כופין</row>
+		<row row_number="18" isdata="1">עליו פסכתר רבי שמעון אומר מקום שהתירו לך חכמים משלך נתנו</row>
+		<row row_number="19" isdata="1">לך שלא התירו לך אלא משום שבות: <EndMishna/><StartGemara/>גמ' אמר רב טבי בר קיסנא</row>
+		<row row_number="20" isdata="1">אמר שמואל המכניס טמא שרץ למקדש חייב שרץ עצמו פטור מאי</row>
+		<row row_number="21" isdata="1">טעמא אמר קרא מזכר ועד נקבה תשלחו מי שיש לו טהרה במקוה</row>
+		<row row_number="22" isdata="1">יצא שרץ שאין לו טהרה לימא מסייע ליה מזכר עד נקבה תשלחו</row>
+		<row row_number="23" isdata="1">פרט לכלי חרש דברי רבי יוסי הגלילי מאי טעמא לאו משום דלית</row>
+		<row row_number="24" isdata="1">ליה טהרה במקוה לא מי שנעשה אב הטומאה יצא כלי חרס שאינו</row>
+		<row row_number="25" isdata="1">נעשה אב הטומאה לימא כתנאי שרץ שנמצא במקדש כהן מוציאו בהמיינו</row>
+		<row row_number="26" isdata="1">שלא לשהות את הטומאה דברי רבי יוחנן בן ברוקה רבי יהודה אומר בצבת</row>
+		<row row_number="27" isdata="1">של עץ מוציאו שלא לרבות את הטומאה מאי לאו בהא קא מיפלגי דמאן</row>
+		<row row_number="28" isdata="1">דאמר שלא לשהות קסבר המכניס שרץ למקדש חייב ומ"ד שלא לרבות</row>
+		<row row_number="29" isdata="1">קסבר המכניס שרץ למקדש פטור לא דכולי עלמא חייב והכא בהא קא מיפלגי</row>
+		<row row_number="30" isdata="1">מר סבר שהויי טומאה עדיף ומר סבר אפושי טומאה עדיף אלא כהני תנאי</row>
+		<row row_number="31" isdata="1">דתנן מהיכן מוציאין אותו כו' מאי לאו בהא קא מיפלגי דמאן דאמר מעזרה</row>
+		<row row_number="32" isdata="1">לא קסבר המכניס שרץ למקדש פטור ומאן דאמר מכולה עזרה קסבר חייב</row>
+		<row row_number="33" isdata="0">אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:29.553929</dateCreated>
+   <lastModified>2016-08-04 11:57:29.553929</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="97">
+	<amud value="2">
+		<row row_number="1" isdata="1">בשעה שהיתה שאולה מתה והלה אומר</row>
+		<row row_number="2" isdata="1">איני יודע חייב השוכר אומר שכורה מתה</row>
+		<row row_number="3" isdata="1">ביום שהיתה שכורה מתה בשעה שהיתה</row>
+		<row row_number="4" isdata="1">שכורה מתה והלה אומר איני יודע פטור</row>
+		<row row_number="5" isdata="1">זה אומר שאולה וזה אומר שכורה ישבע</row>
+		<row row_number="6" isdata="1">השוכר ששכורה מתה זה אומר איני יודע וזה</row>
+		<row row_number="7" isdata="1">אומר איני יודע יחלוקו: <EndMishna/><StartGemara/>גמ' שמעת מיניה</row>
+		<row row_number="8" isdata="1">מנה לי בידך והלה אומר איני יודע חייב</row>
+		<row row_number="9" isdata="1">לימא תהוי תיובתא דרב נחמן דאיתמר</row>
+		<row row_number="10" isdata="1">מנה לי בידך והלה אומר איני יודע רב</row>
+		<row row_number="11" isdata="1">הונא ורב יהודה אמרי חייב רב נחמן ורבי</row>
+		<row row_number="12" isdata="1">יוחנן אמרי פטור כדאמר רב נחמן כגון שיש</row>
+		<row row_number="13" isdata="1">עסק שבועה ביניהן ה"נ כגון שיש עסק שבועה ביניהן ה"ד עסק שבועה כדרבא</row>
+		<row row_number="14" isdata="0">דאמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

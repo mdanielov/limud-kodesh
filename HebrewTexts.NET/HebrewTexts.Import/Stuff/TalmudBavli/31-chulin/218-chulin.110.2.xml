@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:03.282858</dateCreated>
+   <lastModified>2016-08-04 11:58:03.283858</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="110">
+	<amud value="2">
+		<row row_number="1" isdata="1">טלית שאולה כל שלשים יום פטורה מן</row>
+		<row row_number="2" isdata="1">הציצית אדהכי אייתוה לההוא גברא דלא</row>
+		<row row_number="3" isdata="1">הוה מוקר אבוה ואמיה כפתוהו אמר</row>
+		<row row_number="4" isdata="1">להו שבקוהו דתניא כל מצות עשה שמתן</row>
+		<row row_number="5" isdata="1">שכרה בצדה אין בית דין שלמטה מוזהרין</row>
+		<row row_number="6" isdata="1">עליה אמר ליה חזינא לך דחריפת טובא אמר</row>
+		<row row_number="7" isdata="1">ליה אי הוית באתריה דרב יהודה אחוינא</row>
+		<row row_number="8" isdata="1">לך חורפאי אמר ליה אביי לרב ספרא כי</row>
+		<row row_number="9" isdata="1">סלקת להתם בעי מינייהו כבדא מה אתון</row>
+		<row row_number="10" isdata="1">ביה כי סליק אשכחיה לרב זריקא אמר</row>
+		<row row_number="11" isdata="1">ליה אנא שלקי ליה לרבי אמי ואכל כי</row>
+		<row row_number="12" isdata="1">אתא לגביה אמר ליה למיסר נפשה לא</row>
+		<row row_number="13" isdata="1">קא מיבעיא לי כי קמבעיא לי למיסר חבירתה</row>
+		<row row_number="14" isdata="1">מ"ש למיסר נפשה דלא מיבעיא לך דתנן</row>
+		<row row_number="15" isdata="1">אינה נאסרת למיסר חבירתה נמי לא</row>
+		<row row_number="16" isdata="1">תבעי לך דתנן הכבד אוסרת ואינה</row>
+		<row row_number="17" isdata="1">נאסרת מפני שהיא פולטת ואינה בולעת</row>
+		<row row_number="18" isdata="1">אמר ליה דילמא התם בכבדא דאיסורא</row>
+		<row row_number="19" isdata="0">ומשום</row>
+</amud>
+</daf>
+</masechet>
+</root>

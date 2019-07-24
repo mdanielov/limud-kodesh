@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:17.196222</dateCreated>
+   <lastModified>2016-08-04 11:57:17.196222</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="82">
+	<amud value="1">
+		<row row_number="1" isdata="1">דקא מדלג ותני חד חד שמע מינה אמר</row>
+		<row row_number="2" isdata="1">אביי שמע מינה האי קרוב חתים אי בעי בין</row>
+		<row row_number="3" isdata="1">בתחילה בין באמצע בין בסוף ממאי מדלא</row>
+		<row row_number="4" isdata="1">קבע ליה מקום ושמע מינה מכל תלתא</row>
+		<row row_number="5" isdata="1">מקיימינן ולא בעינן רצופין דאי סלקא דעתך</row>
+		<row row_number="6" isdata="1">בעינן רצופין לקבע ליה מקום להאי קרוב</row>
+		<row row_number="7" isdata="1">בתחילה או באמצע או בסוף ולכשר ביה</row>
+		<row row_number="8" isdata="1">טובא כי אתו לקמיה דרבי אמי אמר ליה</row>
+		<row row_number="9" isdata="1">צא והשלים עליו עבד מן השוק:<EndChapter name = "הזורק"/><EndGemara/></row>
+		<row row_number="10" isdata="0">הדרן עלך הזורק</row>
+		<row row_number="11" isdata="1"><StartChapter name = "המגרש"/><StartMishna/>המגרש  את אשתו ואמר לה הרי את</row>
+		<row row_number="12" isdata="1">מותרת לכל אדם אלא לפלוני ר'</row>
+		<row row_number="13" isdata="1">אליעזר מתיר וחכמים אוסרים כיצד יעשה</row>
+		<row row_number="14" isdata="1">יטלנו הימנה ויחזור ויתננו לה ויאמר לה הרי</row>
+		<row row_number="15" isdata="1">את מותרת לכל אדם כתבו בתוכו אע"פ</row>
+		<row row_number="16" isdata="1">שחזר ומחקו פסול: <EndMishna/><StartGemara/>גמ' איבעיא להו האי</row>
+		<row row_number="17" isdata="1">אלא חוץ הוא או על מנת הוא חוץ הוא ובחוץ</row>
+		<row row_number="18" isdata="1">הוא דפליגי רבנן עליה דר' אליעזר דהא שייר</row>
+		<row row_number="19" isdata="1">לה בגט אבל בעל מנת מודו ליה מידי דהוה</row>
+		<row row_number="20" isdata="1">אכל תנאי דעלמא או דלמא על מנת הוא</row>
+		<row row_number="21" isdata="1">ובע"מ הוא דפליג ר' אליעזר אדרבנן אבל</row>
+		<row row_number="22" isdata="1">בחוץ מודה דהא שייר לה בגט אמר רבינא</row>
+		<row row_number="23" isdata="1">ת"ש כל הבתים מטמאין בנגעים אלא של</row>
+		<row row_number="24" isdata="1">עובדי כוכבים אי אמרת בשלמא חוץ הוא</row>
+		<row row_number="25" isdata="1">שפיר אלא אי אמרת על מנת הוא על מנת</row>
+		<row row_number="26" isdata="1">דלא מיטמו בתי עובדי כוכבים הוא דמיטמו</row>
+		<row row_number="27" isdata="1">בתי ישראל הא מיטמו בתי עובדי כוכבים לא</row>
+		<row row_number="28" isdata="1">מטמאי בתי ישראל ועוד בתי עובדי כוכבים</row>
+		<row row_number="29" isdata="1">מי מטמאי והתניא ונתתי נגע צרעת בבית</row>
+		<row row_number="30" isdata="1">ארץ אחוזתכם ארץ אחוזתכם מטמאה בנגעים</row>
+		<row row_number="31" isdata="1">ואין בתי עובדי כוכבים מטמאין בנגעים</row>
+		<row row_number="32" isdata="1">אלא שמע מינה חוץ הוא ש"מ מתני' דלא</row>
+		<row row_number="33" isdata="1">כי האי תנא דתניא אמר ר' יוסי בר' יהודה</row>
+		<row row_number="34" isdata="1">לא נחלקו רבי אליעזר וחכמים על המגרש</row>
+		<row row_number="35" isdata="1">את אשתו ואמר לה הרי את מותרת לכל</row>
+		<row row_number="36" isdata="1">אדם חוץ מפלוני שאינה מגורשת על מה</row>
+		<row row_number="37" isdata="1">נחלקו על המגרש אשתו ואמר לה הרי את</row>
+		<row row_number="38" isdata="1">מותרת לכל אדם על מנת שלא תנשאי לפלוני</row>
+		<row row_number="39" isdata="0">שר"א</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:26.397317</dateCreated>
+   <lastModified>2016-08-04 11:56:26.397317</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="3">
+	<amud value="1">
+		<row row_number="1" isdata="1">בבא דרישא פטור ומותר לא קתני אלא בבא</row>
+		<row row_number="2" isdata="1">דסיפא דפטור אבל אסור קשיא מי איכ' בכולי</row>
+		<row row_number="3" isdata="1">שבת פטור ומותר והאמר שמואל כל פטורי</row>
+		<row row_number="4" isdata="1">דשבת פטור אבל אסור בר מהני תלת דפטור</row>
+		<row row_number="5" isdata="1">ומותר צידת צבי וצידת נחש ומפיס מורסא</row>
+		<row row_number="6" isdata="1">כי איצטריך ליה לשמואל פטורי דקא עביד</row>
+		<row row_number="7" isdata="1">מעשה פטורי דלא קא עביד מעשה איכא</row>
+		<row row_number="8" isdata="1">טובא מ"מ תרתי סרי הויין פטורי דאתי בהו</row>
+		<row row_number="9" isdata="1">לידי חיוב חטאת קא חשיב דלא אתי בהו</row>
+		<row row_number="10" isdata="1">לידי חיוב חטאת לא קא חשיב שניהן פטורין</row>
+		<row row_number="11" isdata="1">והא אתעבידא מלאכה מבינייהו תניא ר'</row>
+		<row row_number="12" isdata="1">אומר מעם הארץ בעשותה העושה את</row>
+		<row row_number="13" isdata="1">כולה ולא העושה את מקצתה יחיד ועשה</row>
+		<row row_number="14" isdata="1">אותה חייב שנים ועשו אותה פטורין איתמר</row>
+		<row row_number="15" isdata="1">נמי א"ר חייא בר גמדא נזרקה מפי חבורה</row>
+		<row row_number="16" isdata="1">ואמרו בעשותה יחיד שעשאה חייב שנים</row>
+		<row row_number="17" isdata="1">שעשאוה פטורין: בעי מיניה רב מרבי</row>
+		<row row_number="18" isdata="1">הטעינו חבירו אוכלין ומשקין והוציאן לחוץ</row>
+		<row row_number="19" isdata="1">מהו עקירת גופו כעקירת חפץ ממקומו דמי</row>
+		<row row_number="20" isdata="1">ומיחייב או דילמא לא א"ל חייב ואינו דומה</row>
+		<row row_number="21" isdata="1">לידו מאי טעמא גופו נייח ידו לא נייח</row>
+		<row row_number="22" isdata="0">א"ל</row>
+</amud>
+</daf>
+</masechet>
+</root>

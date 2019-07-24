@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:38.984037</dateCreated>
+   <lastModified>2016-08-04 11:56:38.984037</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="92">
+	<amud value="1">
+		<row row_number="1" isdata="1">מי אמר ר' יוחנן הכי והא אמר רבי יוחנן</row>
+		<row row_number="2" isdata="1">הלכה כסתם משנה ותנן כותל שבין שתי</row>
+		<row row_number="3" isdata="1">חצירות גבוה עשרה ורוחב ארבעה מערבין</row>
+		<row row_number="4" isdata="1">שנים ואין מערבין אחד היו בראשו פירות</row>
+		<row row_number="5" isdata="1">אלו עולין מכאן ואוכלים ואלו עולין מכאן</row>
+		<row row_number="6" isdata="1">ואוכלים ובלבד שלא יורידו למטה מאי</row>
+		<row row_number="7" isdata="1">למטה למטה לבתים והא תני רבי חייא</row>
+		<row row_number="8" isdata="1">ובלבד שלא יהא זה עומד במקומו ואוכל</row>
+		<row row_number="9" isdata="1">וזה עומד במקומו ואוכל אמר ליה וכי רבי לא</row>
+		<row row_number="10" isdata="1">שנאה ר' חייא מנין לו אתמר שתי חצירות</row>
+		<row row_number="11" isdata="1">וחורבה אחת ביניהם אחת עירבה ואחת</row>
+		<row row_number="12" isdata="1">לא עירבה אמר רב הונא נותנין אותה לזו</row>
+		<row row_number="13" isdata="1">שלא עירבה אבל לשעירבה לא דילמא אתי</row>
+		<row row_number="14" isdata="1">לאפוקי מאני דבתים לחורבה וחייא בר רב</row>
+		<row row_number="15" isdata="1">אמר אף לשעירבה ושתיהן אסורות וא"ת</row>
+		<row row_number="16" isdata="1">שתיהן מותרות מפני מה אין נותנין חצר</row>
+		<row row_number="17" isdata="1">שלא עירבה לחצר שעירבה התם כיון</row>
+		<row row_number="18" isdata="1">דמנטרי מאני דבתים בחצר אתי לאפוקי</row>
+		<row row_number="19" isdata="1">הכא בחורבה כיון דלא מנטרי מאני דחצר</row>
+		<row row_number="20" isdata="1">בחורבה לא אתי לאפוקי איכא דאמרי חייא</row>
+		<row row_number="21" isdata="1">בר רב אמר אף לשעירבה ושתיהן מותרות</row>
+		<row row_number="22" isdata="1">ואם תאמר שתיהן אסורות לפי שאין נותנים</row>
+		<row row_number="23" isdata="1">חצר שלא עירבה לחצר שעירבה התם כיון</row>
+		<row row_number="24" isdata="1">דמנטרי מאני דבתים בחצר לא שרו בהו</row>
+		<row row_number="25" isdata="1">רבנן דאתי לאפוקי אבל בחורבה לא מנטרי:</row>
+		<row row_number="26" isdata="1">מתני' גג גדול סמוך לקטן הגדול מותר</row>
+		<row row_number="27" isdata="1">והקטן אסור חצר גדולה שנפרצה לקטנה גדולה מותרת וקטנה אסורה מפני</row>
+		<row row_number="28" isdata="1">שהיא כפתחה של גדולה: <EndMishna/><StartGemara/>גמ' למה לי' למיתני תרתי לרב קתני גג דומיא</row>
+		<row row_number="29" isdata="1">דחצר מה חצר מנכרא מחיצתא אף גג נמי מנכרא מחיצתא ולשמואל גג</row>
+		<row row_number="30" isdata="1">דומיא דחצר מה חצר דקא דרסי לה רבים אף גג נמי דקא דרסי ליה רבים</row>
+		<row row_number="31" isdata="1">יתיב רבה ורבי זירא ורבה בר רב חנן ויתיב אביי גבייהו ויתבי וקאמרי</row>
+		<row row_number="32" isdata="1">שמע מינה ממתניתין דיורי גדולה בקטנה ואין דיורי קטנה בגדולה</row>
+		<row row_number="33" isdata="1">כיצד גפנים בגדולה אסור לזרוע את הקטנה ואם זרע זרעין אסורין</row>
+		<row row_number="34" isdata="0">גפנים</row>
+</amud>
+</daf>
+</masechet>
+</root>

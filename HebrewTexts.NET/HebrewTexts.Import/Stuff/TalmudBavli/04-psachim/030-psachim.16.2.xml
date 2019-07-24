@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:40.201106</dateCreated>
+   <lastModified>2016-08-04 11:56:40.201106</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="16">
+	<amud value="2">
+		<row row_number="1" isdata="1">דם שאינו נשפך כמים אינו מכשיר מתקיף</row>
+		<row row_number="2" isdata="1">לה רב שמואל בר אמי הרי דם התמצית</row>
+		<row row_number="3" isdata="1">דנשפך כמים ואינו מכשיר אמר ליה ר' זירא</row>
+		<row row_number="4" isdata="1">הנח לדם התמצית דאפי' בחולין נמי לא</row>
+		<row row_number="5" isdata="1">מכשיר קבלה מיניה רב שמואל בר אמי</row>
+		<row row_number="6" isdata="1">דאמר רחמנא רק חזק לבלתי אכול הדם כי</row>
+		<row row_number="7" isdata="1">הדם הוא הנפש דם שהנפש יוצאה בו קרוי</row>
+		<row row_number="8" isdata="1">דם דם שאין הנפש יוצאה בו אינו קרוי דם תא</row>
+		<row row_number="9" isdata="1">שמע דם שנטמא וזרקו בשוגג הורצה</row>
+		<row row_number="10" isdata="1">במזיד לא הורצה מדרבנן ודלא כר' יוסי בן</row>
+		<row row_number="11" isdata="1">יועזר איש צרידה ת"ש על מה הציץ מרצה</row>
+		<row row_number="12" isdata="1">על הדם ועל הבשר ועל החלב שנטמא בין</row>
+		<row row_number="13" isdata="1">בשוגג בין במזיד בין באונס בין ברצון בין</row>
+		<row row_number="14" isdata="1">ביחיד בין בצבור מדרבנן ודלא (כיוסף) בן</row>
+		<row row_number="15" isdata="1">יועזר איש צרידה ת"ש ונשא אהרן את עון</row>
+		<row row_number="16" isdata="1">הקדשים וכי איזה עון הוא נושא אם עון</row>
+		<row row_number="17" isdata="1">פיגול הרי כבר נאמר לא ירצה אם עון</row>
+		<row row_number="18" isdata="1">נותר הרי כבר נאמר לא יחשב הא אינו</row>
+		<row row_number="19" isdata="1">נושא אלא עון טומאה שהותרה מכללה</row>
+		<row row_number="20" isdata="1">בציבור מאי לאו טומאת דם אמר רב פפא</row>
+		<row row_number="21" isdata="1">לא טומאת קמצים תא שמע הן ישא איש</row>
+		<row row_number="22" isdata="1">בשר קדש בכנף בגדו ונגע בכנפו אל הלחם</row>
+		<row row_number="23" isdata="1">ואל הנזיד ואל היין ואל שמן ואל כל מאכל</row>
+		<row row_number="24" isdata="1">היקדש ויענו הכהנים ויאמרו לא (יקדש)</row>
+		<row row_number="25" isdata="0">ואמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

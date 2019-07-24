@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:34.269199</dateCreated>
+   <lastModified>2016-08-04 11:57:34.269199</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="80">
+	<amud value="1">
+		<row row_number="1" isdata="1">מתני' הלוקח פירות שובך מחבירו מפריח</row>
+		<row row_number="2" isdata="1">בריכה ראשונה פירות כוורת נוטל ג' נחילים</row>
+		<row row_number="3" isdata="1">ומסרס חלות דבש מניח ב' חלות זיתים לקוץ</row>
+		<row row_number="4" isdata="1">מניח שתי גרופיות: <EndMishna/><StartGemara/>גמ' והתניא בריכה</row>
+		<row row_number="5" isdata="1">ראשונה ושניה אמר רב כהנא לא קשיא הא</row>
+		<row row_number="6" isdata="1">לה הא לאמה מאי שנא אמה דמיצטוותא</row>
+		<row row_number="7" isdata="1">אברתא ואזוגא דשבקינן לה איהי נמי</row>
+		<row row_number="8" isdata="1">תיצטוותא אאמה ואזוגא דשבקינן לה אמה</row>
+		<row row_number="9" isdata="1">אברתא מיצטוותא ברתא אאמה לא</row>
+		<row row_number="10" isdata="1">מיצטוותא: פירות כוורת נוטל ג' נחילין</row>
+		<row row_number="11" isdata="1">ומסרס: במה מסרסן אמר רב יהודה אמר</row>
+		<row row_number="12" isdata="1">שמואל בחרדל אמרי במערבא משמיה דר'</row>
+		<row row_number="13" isdata="1">יוסי בר חנינא לא חרדל מסרסן אלא מתוך שפיהן חד חוזרות ואוכלות את</row>
+		<row row_number="14" isdata="1">דובשנן ר' יוחנן אמר נוטל שלשה נחילין בסירוס במתניתא תנא נוטל ג'</row>
+		<row row_number="15" isdata="1">נחילין בזה אחר זה מכאן ואילך נוטל אחת ומניח אחת: חלות דבש</row>
+		<row row_number="16" isdata="1">מניח שתי חלות וכו': אמר רב כהנא דבש בכוורת אינו יוצא מידי מאכל</row>
+		<row row_number="17" isdata="1">לעולם אלמא קסבר לא בעי מחשבה מיתיבי דבש בכוורת אינו לא אוכל ולא</row>
+		<row row_number="18" isdata="1">משקה אמר אביי לא צריכא אלא לאותן שתי חלות רבא אמר רבי אליעזר היא</row>
+		<row row_number="19" isdata="0">דתנן</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:35.845857</dateCreated>
+   <lastModified>2016-08-04 11:56:35.845857</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="15">
+	<amud value="2">
+		<row row_number="1" isdata="1">ור' מאיר מטהר וכותבין עליו גיטי נשים ור'</row>
+		<row row_number="2" isdata="1">יוסי הגלילי פוסל: <EndMishna/><StartGemara/>גמ' תניא ר' מאיר אומר</row>
+		<row row_number="3" isdata="1">כל דבר שיש בו רוח חיים אין עושין אותו</row>
+		<row row_number="4" isdata="1">לא דופן לסוכה ולא לחי למבוי לא פסין</row>
+		<row row_number="5" isdata="1">לביראות ולא גולל לקבר משום רבי יוסי</row>
+		<row row_number="6" isdata="1">הגלילי אמרו אף אין כותבין עליו גיטי נשים</row>
+		<row row_number="7" isdata="1">מאי טעמא דרבי יוסי הגלילי דתניא ספר</row>
+		<row row_number="8" isdata="1">אין לי אלא ספר מניין לרבות כל דבר ת"ל</row>
+		<row row_number="9" isdata="1">וכתב לה מכל מקום אם כן מה ת"ל ספר</row>
+		<row row_number="10" isdata="1">לומר לך מה ספר דבר שאין בו רוח חיים</row>
+		<row row_number="11" isdata="1">ואינו אוכל אף כל דבר שאין בו רוח חיים</row>
+		<row row_number="12" isdata="1">ואינו אוכל ורבנן מי כתיב בספר ספר כתיב</row>
+		<row row_number="13" isdata="1">לספירות דברים בעלמא הוא דאתא ורבנן</row>
+		<row row_number="14" isdata="1">האי וכתב לה מאי דרשי ביה ההוא מבעי</row>
+		<row row_number="15" isdata="1">ליה בכתיבה מתגרשת ואינה מתגרשת</row>
+		<row row_number="16" isdata="1">בכסף סלקא דעתך אמינא הואיל ואיתקש</row>
+		<row row_number="17" isdata="1">יציאה להויה מה הויה בכסף אף יציאה</row>
+		<row row_number="18" isdata="1">בכסף קמ"ל ור' יוסי הגלילי האי סברא מנא</row>
+		<row row_number="19" isdata="1">ליה נפקא ליה מספר כריתות ספר כורתה</row>
+		<row row_number="20" isdata="1">ואין דבר אחר כורתה ורבנן האי ספר</row>
+		<row row_number="21" isdata="1">כריתות מיבעי ליה לדבר הכורת בינו</row>
+		<row row_number="22" isdata="1">לבינה לכדתניא הרי זה גיטך על מנת</row>
+		<row row_number="23" isdata="1">שלא תשתי יין על מנת שלא תלכי לבית</row>
+		<row row_number="24" isdata="1">אביך לעולם אין זה כריתות כל שלשים יום</row>
+		<row row_number="25" isdata="1">הרי זה כריתות ורבי יוסי הגלילי נפקא ליה</row>
+		<row row_number="26" isdata="1">מכרת כריתות ורבנן כרת כריתות לא דרשי:</row>
+		<row row_number="27" isdata="1">מתני' שיירא שחנתה בבקעה והקיפוה</row>
+		<row row_number="28" isdata="1">כלי בהמה מטלטלין בתוכה ובלבד שיהא</row>
+		<row row_number="29" isdata="1">גדר גבוה עשרה טפחים ולא יהו פירצות</row>
+		<row row_number="30" isdata="1">יתרות על הבנין כל פירצה שהיא כעשר</row>
+		<row row_number="31" isdata="1">אמות מותרת מפני שהיא כפתח יתר מכאן</row>
+		<row row_number="32" isdata="1">אסור: <EndMishna/><StartGemara/>גמ' איתמר פרוץ כעומד רב פפא</row>
+		<row row_number="33" isdata="1">אמר מותר רב הונא בריה דרב יהושע אמר</row>
+		<row row_number="34" isdata="1">אסור רב פפא אמר מותר הכי אגמריה</row>
+		<row row_number="35" isdata="1">רחמנא למשה לא תפרוץ רובה רב הונא</row>
+		<row row_number="36" isdata="1">בריה דרב יהושע אמר אסור הכי אגמריה</row>
+		<row row_number="37" isdata="1">רחמנא למשה גדור רובה תנן ולא יהו</row>
+		<row row_number="38" isdata="1">פירצות יתרות על הבנין הא כבנין מותר</row>
+		<row row_number="39" isdata="1">לא תימא הא כבנין מותר אלא אימא אם</row>
+		<row row_number="40" isdata="1">בנין יתר על הפירצה מותר אבל כבנין</row>
+		<row row_number="41" isdata="1">מאי אסור אי הכי ליתני לא יהו פירצות</row>
+		<row row_number="42" isdata="1">כבנין קשיא ת"ש המקרה סוכתו בשפודין</row>
+		<row row_number="43" isdata="1">או בארוכות המטה אם יש ריוח ביניהן</row>
+		<row row_number="44" isdata="1">כמותן כשירה הכא במאי עסקינן כשנכנס</row>
+		<row row_number="45" isdata="1">ויוצא והא אפשר לצמצם אמר רבי אמי</row>
+		<row row_number="46" isdata="1">במעדיף רבא אמר אם היו נתונין ערב</row>
+		<row row_number="47" isdata="1">נותנו שתי שתי נותנו ערב ת"ש שיירא</row>
+		<row row_number="48" isdata="1">שחנתה בבקעה והקיפוה בגמלין באוכפות</row>
+		<row row_number="49" isdata="0">בעביטין</row>
+</amud>
+</daf>
+</masechet>
+</root>

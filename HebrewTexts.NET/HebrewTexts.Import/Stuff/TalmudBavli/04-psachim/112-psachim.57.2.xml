@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:41.895203</dateCreated>
+   <lastModified>2016-08-04 11:56:41.895203</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="57">
+	<amud value="2">
+		<row row_number="1" isdata="1">אחוי בידיה אי גדיא יאי יסק לתמידא אמר מלכא הואיל ולא הוי ליה</row>
+		<row row_number="2" isdata="1">אימתא דמלכותא ניפסקו לימיניה יהב שוחד ופסקיה לשמאליה שמע</row>
+		<row row_number="3" isdata="1">מלכא ופסקיה לימיניה אמר רב יוסף בריך רחמנא דאשקליה ליששכר</row>
+		<row row_number="4" isdata="1">איש כפר ברקאי למיטרפסיה מיניה בהאי עלמא אמר רב אשי יששכר</row>
+		<row row_number="5" isdata="1">איש כפר ברקאי לא תנא מתניתין דתנן ר"ש אומר כבשים קודמים</row>
+		<row row_number="6" isdata="1">לעזים בכל מקום יכול מפני שמובחרין במינן ת"ל אם כבש יביא</row>
+		<row row_number="7" isdata="1">קרבנו מלמד ששניהן שקולין כאחד רבינא אמר אפילו מקרא נמי לא</row>
+		<row row_number="8" isdata="0">קרא דכתיב אם כבש אם עז אי בעי כבש לייתיה אי בעי עז לייתיה:</row>
+</amud>
+</daf>
+</masechet>
+</root>

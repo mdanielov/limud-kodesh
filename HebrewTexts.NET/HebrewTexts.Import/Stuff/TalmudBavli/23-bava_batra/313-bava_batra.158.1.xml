@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:37.949409</dateCreated>
+   <lastModified>2016-08-04 11:57:37.949409</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="158">
+	<amud value="1">
+		<row row_number="1" isdata="1">מתני' נפל הבית עליו ועל אשתו יורשי</row>
+		<row row_number="2" isdata="1">הבעל אומרים אשה מתה ראשון ואחר</row>
+		<row row_number="3" isdata="1">כך מת הבעל יורשי אשה אומרים בעל</row>
+		<row row_number="4" isdata="1">מת ראשון ואחר כך מתה אשה בית שמאי</row>
+		<row row_number="5" isdata="1">אומרים יחלוקו ובית הלל אומרים נכסים</row>
+		<row row_number="6" isdata="1">בחזקתן כתובה בחזקת יורשי הבעל נכסים</row>
+		<row row_number="7" isdata="1">הנכנסין והיוצאין עמה בחזקת יורשי האב:</row>
+		<row row_number="8" isdata="0"><EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:36.706906</dateCreated>
+   <lastModified>2016-08-04 11:56:36.706906</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="36">
+	<amud value="2">
+		<row row_number="1" isdata="1">דאי סלקא דעתך תחילת היום קונה עירוב</row>
+		<row row_number="2" isdata="1">אי אמר עירבו לי בזה אמאי לא אמר כלום</row>
+		<row row_number="3" isdata="1">אמר רב פפא אפילו תימא תחילת היום קונה</row>
+		<row row_number="4" isdata="1">עירוב בעינן סעודה הראויה מבעוד יום</row>
+		<row row_number="5" isdata="1">וליכא<EndGemara/><StartMishna/>: מתני' מתנה אדם על עירובו ואומר</row>
+		<row row_number="6" isdata="1">אם באו נכרים מן המזרח עירובי למערב</row>
+		<row row_number="7" isdata="1">מן המערב עירובי למזרח אם באו לכאן</row>
+		<row row_number="8" isdata="1">ולכאן למקום שארצה אלך לא באו לא לכאן</row>
+		<row row_number="9" isdata="1">ולא לכאן הריני כבני עירי אם בא חכם</row>
+		<row row_number="10" isdata="1">מן המזרח עירובי למזרח מן המערב עירובי</row>
+		<row row_number="11" isdata="1">למערב בא לכאן ולכאן למקום שארצה</row>
+		<row row_number="12" isdata="1">אלך לא לכאן ולא לכאן הריני כבני עירי</row>
+		<row row_number="13" isdata="1">רבי יהודה אומר אם היה אחד מהן רבו</row>
+		<row row_number="14" isdata="1">הולך אצל רבו ואם היו שניהן רבותיו למקום</row>
+		<row row_number="15" isdata="1">שירצה ילך: <EndMishna/><StartGemara/>גמ' כי אתא רבי יצחק תני</row>
+		<row row_number="16" isdata="1">איפכא כולה מתניתין קשיא נכרים אנכרים</row>
+		<row row_number="17" isdata="1">קשיא חכם אחכם נכרים אנכרים לא קשיא</row>
+		<row row_number="18" isdata="1">הא בפרהגבנא הא במרי דמתא חכם אחכם</row>
+		<row row_number="19" isdata="1">לא קשיא הא במותיב פירקי הא במקרי</row>
+		<row row_number="20" isdata="1">שמע: ר' יהודה אומר אם היה אחד מהן וכו':</row>
+		<row row_number="21" isdata="1">ורבנן זימנין דניחא ליה בחבריה טפי מרביה</row>
+		<row row_number="22" isdata="1">אמר רב ליתא למתניתין מדתני איו דתני</row>
+		<row row_number="23" isdata="1">איו ר' יהודה אומר אין אדם מתנה על שני</row>
+		<row row_number="24" isdata="1">דברים כאחד אלא אם (כן) בא חכם למזרח</row>
+		<row row_number="25" isdata="1">עירובו למזרח ואם בא חכם למערב עירובו</row>
+		<row row_number="26" isdata="1">למערב אבל לכאן ולכאן לא מאי שנא לכאן</row>
+		<row row_number="27" isdata="1">ולכאן דלא דאין ברירה למזרח למערב נמי</row>
+		<row row_number="28" isdata="1">אין ברירה אמר רבי יוחנן וכבר בא חכם</row>
+		<row row_number="29" isdata="1">אדרבה ליתא לדאיו ממתניתין לא סלקא</row>
+		<row row_number="30" isdata="1">דעתך דהא שמעינן ליה לרבי יהודה דלית</row>
+		<row row_number="31" isdata="1">ליה ברירה דתנן הלוקח יין מבין הכותים</row>
+		<row row_number="32" isdata="0">אומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

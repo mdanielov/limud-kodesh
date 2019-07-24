@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:28.729450</dateCreated>
+   <lastModified>2016-08-04 11:56:28.729450</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="36">
+	<amud value="1">
+		<row row_number="1" isdata="1">לתינוק בציבור נמי חזי לגמע לתינוק עני ותו</row>
+		<row row_number="2" isdata="1">הא דתניא כשם שמטלטלין את השופר כך</row>
+		<row row_number="3" isdata="1">מטלטלין את חצוצרות מני אלא לא קשיא</row>
+		<row row_number="4" isdata="1">הא ר' יהודה הא ר' שמעון הא ר' נחמיה</row>
+		<row row_number="5" isdata="1">ומאי שופר נמי חצוצרות כדרב חסדא דא"ר</row>
+		<row row_number="6" isdata="1">חסדא הני תלת מילי אישתני שמייהו מכי</row>
+		<row row_number="7" isdata="1">חרב בית המקדש חצוצרתא שופרא שופרא</row>
+		<row row_number="8" isdata="1">חצוצרתא למאי נפקא מינה לשופר של</row>
+		<row row_number="9" isdata="1">ראש השנה ערבה צפצפה צפצפה ערבה</row>
+		<row row_number="10" isdata="1">למאי נ"מ ללולב פתורה פתורתא פתורתא</row>
+		<row row_number="11" isdata="1">פתורה למאי נ"מ למקח וממכר אמר אביי</row>
+		<row row_number="12" isdata="1">אף אנו נאמר הובלילא בי כסי בי כסי</row>
+		<row row_number="13" isdata="1">הובלילא למאי נפקא מינה למחט</row>
+		<row row_number="14" isdata="1">שנמצאת בעובי בית הכוסות דמצד אחד</row>
+		<row row_number="15" isdata="1">כשירה ומשני צדדים טריפה אמר רב אשי</row>
+		<row row_number="16" isdata="1">אף אנו נאמר בבל בורסיף בורסיף בבל</row>
+		<row row_number="17" isdata="0">למאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

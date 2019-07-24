@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.301771</dateCreated>
+   <lastModified>2016-08-04 11:57:09.301771</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="68">
+	<amud value="1">
+		<row row_number="1" isdata="1">דבי רבי ישמעאל תנא בין איש לאשתו בין</row>
+		<row row_number="2" isdata="1">אב לבתו מכאן לנערה המאורסה שאביה</row>
+		<row row_number="3" isdata="1">ובעלה מפירין נדריה ולתנא דבי ר' ישמעאל</row>
+		<row row_number="4" isdata="1">אם היו תהיה לאיש מאי עביד ליה מוקים</row>
+		<row row_number="5" isdata="1">לאידך דרבא ורבא האי דתני דבי רבי</row>
+		<row row_number="6" isdata="1">ישמעאל מאי עביד ליה מיבעי ליה לומר</row>
+		<row row_number="7" isdata="1">שהבעל מיפר נדרים שבינו לבינה איבעיא</row>
+		<row row_number="8" isdata="1">להו בעל מיגז גייז או מקליש קליש</row>
+		<row row_number="9" isdata="1">היכא קא מיבעיא לן כגון דנדרה מתרין</row>
+		<row row_number="10" isdata="1">זיתין ושמע ארוס והיפר לה ואכלתנון אי אמרי'</row>
+		<row row_number="11" isdata="1">מיגז גייז לקייא אי אמרינן מקליש קליש</row>
+		<row row_number="12" isdata="1">איסורא בעלמא הוא מאי תא שמע אימתי</row>
+		<row row_number="13" isdata="1">אמרו מת הבעל נתרוקנה רשות לאב בזמן</row>
+		<row row_number="14" isdata="1">שלא שמע הבעל קודם שימות או</row>
+		<row row_number="15" isdata="1">ששמע ושתק או ששמע והפר ומת בו ביום</row>
+		<row row_number="16" isdata="1">זו היא ששנינו מת הבעל נתרוקנה רשות לאב</row>
+		<row row_number="17" isdata="0">אבל</row>
+</amud>
+</daf>
+</masechet>
+</root>

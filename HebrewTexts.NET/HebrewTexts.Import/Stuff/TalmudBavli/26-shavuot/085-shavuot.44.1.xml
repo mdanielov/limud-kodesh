@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:45.588846</dateCreated>
+   <lastModified>2016-08-04 11:57:45.588846</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="44">
+	<amud value="1">
+		<row row_number="1" isdata="1">מאי טעמיה דרבי אליעזר אלא לאו בדלא</row>
+		<row row_number="2" isdata="1">שוי שיעור זוזי ובדשמואל קא מיפלגי לא</row>
+		<row row_number="3" isdata="1">בדלא שוי כ"ע לית להו דשמואל והכא</row>
+		<row row_number="4" isdata="1">בדשוי שיעור זוזי ובדרבי יצחק קא מיפלגי</row>
+		<row row_number="5" isdata="1">דאמר רבי יצחק מנין לבעל חוב שקונה</row>
+		<row row_number="6" isdata="1">משכון שנאמר ולך תהיה צדקה אם אינו</row>
+		<row row_number="7" isdata="1">קונה משכון צדקה מנין לו מכאן לבעל</row>
+		<row row_number="8" isdata="1">חוב שקונה משכון לימא דרבי יצחק תנאי</row>
+		<row row_number="9" isdata="1">היא ותיסברא אימור דאמר רבי יצחק</row>
+		<row row_number="10" isdata="1">שמשכנו שלא בשעת הלואה משכנו בשעת</row>
+		<row row_number="11" isdata="1">הלואה מי אמר אלא משכנו שלא בשעת</row>
+		<row row_number="12" isdata="1">הלואתו כולי עלמא לא פליגי דאית להו</row>
+		<row row_number="13" isdata="1">דרבי יצחק והכא במשכנו בשעת הלואתו</row>
+		<row row_number="14" isdata="1">ובשומר אבדה קמיפלגי דאיתמר שומר אבדה רבה אמר כשומר חנם</row>
+		<row row_number="15" isdata="0">ורב</row>
+</amud>
+</daf>
+</masechet>
+</root>

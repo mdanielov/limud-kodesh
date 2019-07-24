@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:33.599160</dateCreated>
+   <lastModified>2016-08-04 11:57:33.599160</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="66">
+	<amud value="1">
+		<row row_number="1" isdata="1">ואינה מקבלת טומאה במקומה והרודה</row>
+		<row row_number="2" isdata="1">ממנה בשבת חייב חטאת וחכמים אומרים</row>
+		<row row_number="3" isdata="1">אינה כקרקע ואין כותבין עליה פרוזבול</row>
+		<row row_number="4" isdata="1">ומקבלת טומאה במקומה והרודה ממנה</row>
+		<row row_number="5" isdata="1">בשבת פטור התם כדאמר ר' אלעזר טעמא</row>
+		<row row_number="6" isdata="1">דאמר ר' אלעזר מ"ט דר' אליעזר דכתיב</row>
+		<row row_number="7" isdata="1">ויטבול אותה ביערת הדבש מה יער</row>
+		<row row_number="8" isdata="1">התולש ממנו בשבת חייב חטאת אף דבש</row>
+		<row row_number="9" isdata="1">הרודה ממנו בשבת חייב חטאת אלא ר"א</row>
+		<row row_number="10" isdata="1">דדף דתנן דף של נחתומין שקבעו בכותל</row>
+		<row row_number="11" isdata="1">ר"א מטהר וחכמים מטמאין מני אי רבי</row>
+		<row row_number="12" isdata="1">אליעזר אפי' חקקו ולבסוף קבעו אי רבנן</row>
+		<row row_number="13" isdata="1">אפילו קבעו ולבסוף חקקו נמי לעולם</row>
+		<row row_number="14" isdata="1">רבי אליעזר היא ושאני פשוטי כלי עץ</row>
+		<row row_number="15" isdata="1">דטומאה דרבנן מכלל דשאיבה דאורייתא</row>
+		<row row_number="16" isdata="0">והא</row>
+</amud>
+</daf>
+</masechet>
+</root>

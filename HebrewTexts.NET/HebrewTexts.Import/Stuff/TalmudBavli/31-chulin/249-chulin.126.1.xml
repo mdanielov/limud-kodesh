@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:03.969898</dateCreated>
+   <lastModified>2016-08-04 11:58:03.969898</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="126">
+	<amud value="1">
+		<row row_number="1" isdata="1">ותני עלה רבי יוסי מטהר אהייא אילימא</row>
+		<row row_number="2" isdata="1">אסיפא ת"ק נמי טהורי קא מטהר אלא</row>
+		<row row_number="3" isdata="1">דקאמר ת"ק טומאה בתוכה הבית טמא אי</row>
+		<row row_number="4" isdata="1">משום דדרך טומאה לצאת ואי משום דטומאה</row>
+		<row row_number="5" isdata="1">טמונה בוקעת וקא"ל רבי יוסי דקאמרת דרך</row>
+		<row row_number="6" isdata="1">טומאה לצאת יכול הוא להוציאה לחצאין או</row>
+		<row row_number="7" isdata="1">לשורפה במקומה ודקאמרת טומאה טמונה</row>
+		<row row_number="8" isdata="1">בוקעת טומאה טמונה אינה בוקעת ורמי דר'</row>
+		<row row_number="9" isdata="1">יוסי אדר' יוסי דתנן הכלב שאכל בשר מת</row>
+		<row row_number="10" isdata="1">ומת הכלב ומוטל על האסקופה ר"מ אומר אם</row>
+		<row row_number="11" isdata="1">יש בצוארו פותח טפח מביא את הטומאה</row>
+		<row row_number="12" isdata="1">ואם לאו אינו מביא את הטומאה ר' יוסי אומר</row>
+		<row row_number="13" isdata="1">רואין א] מכנגד השקוף ולפנים הבית טמא</row>
+		<row row_number="14" isdata="1">מכנגד השקוף ולחוץ הבית טהור רבי אלעזר</row>
+		<row row_number="15" isdata="1">אומר פיו לפנים הבית טהור פיו לחוץ הבית</row>
+		<row row_number="16" isdata="1">טמא מפני שטומאה יוצאה דרך שוליו רבי</row>
+		<row row_number="17" isdata="1">יהודה בן בתירא אומר בין כך ובין כך הבית</row>
+		<row row_number="18" isdata="1">טמא מאי לאו אאין בצוארו פותח טפח קאי</row>
+		<row row_number="19" isdata="1">רבי יוסי וש"מ טומאה טמונה בוקעת אמר</row>
+		<row row_number="20" isdata="1">רבא רואין את חלל הטומאה קתני ורבי יוסי</row>
+		<row row_number="21" isdata="1">בתרתי פליג וקא"ל לר' מאיר דקאמרת כי יש</row>
+		<row row_number="22" isdata="1">בצוארו פותח טפח מביא את הטומאה אנן</row>
+		<row row_number="23" isdata="1">בתר חללה אזלינן ודקא אמרת ב] (הבית)</row>
+		<row row_number="24" isdata="1">כולו טמא מכנגד השקוף ולפנים הבית טמא</row>
+		<row row_number="25" isdata="1">מכנגד השקוף ולחוץ הבית טהור רב אחא</row>
+		<row row_number="26" isdata="1">בריה דרבא מתני לה בהדיא רבי יוסי אומר</row>
+		<row row_number="27" isdata="1">רואין את חלל הטומאה ומאן תנא דפליג</row>
+		<row row_number="28" isdata="1">עליה ג] רבי שמעון הוא דתניא ר"ש אומר</row>
+		<row row_number="29" isdata="0">שלש</row>
+</amud>
+</daf>
+</masechet>
+</root>

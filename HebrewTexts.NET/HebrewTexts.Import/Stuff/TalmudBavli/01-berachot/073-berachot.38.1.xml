@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:24.967235</dateCreated>
+   <lastModified>2016-08-04 11:56:24.967235</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="38">
+	<amud value="1">
+		<row row_number="1" isdata="1">א] כעבין חייבין כלמודין פטורים א"ל אביי לרב</row>
+		<row row_number="2" isdata="1">יוסף האי כובא דארעא מאי מברכין עלויה</row>
+		<row row_number="3" isdata="1">א"ל מי סברת נהמא הוא גובלא בעלמא</row>
+		<row row_number="4" isdata="1">הוא ומברכין עלויה בורא מיני מזונות מר</row>
+		<row row_number="5" isdata="1">זוטרא קבע סעודתיה עלויה וברך עלויה</row>
+		<row row_number="6" isdata="1">המוציא לחם מן הארץ ושלש ברכות אמר</row>
+		<row row_number="7" isdata="1">מר בר רב אשי ואדם יוצא בהן ידי חובתו</row>
+		<row row_number="8" isdata="1">בפסח מ"ט לחם עוני קרינן ביה ואמר מר בר</row>
+		<row row_number="9" isdata="1">רב אשי האי דובשא דתמרי מברכין עלויה</row>
+		<row row_number="10" isdata="1">שהכל נהיה בדברו מ"ט זיעה בעלמא הוא</row>
+		<row row_number="11" isdata="1">כמאן כי האי תנא דתנן דבש תמרים ויין</row>
+		<row row_number="12" isdata="1">תפוחים וחומץ ספוניות ושאר מי פירות של</row>
+		<row row_number="13" isdata="1">תרומה רבי אליעזר מחייב קרן וחומש ורבי</row>
+		<row row_number="14" isdata="1">יהושע פוטר א"ל ההוא מרבנן לרבא טרימא</row>
+		<row row_number="15" isdata="1">מהו לא הוה אדעתיה דרבא מאי קאמר ליה</row>
+		<row row_number="16" isdata="1">יתיב רבינא קמיה דרבא א"ל דשומשמי קא</row>
+		<row row_number="17" isdata="1">אמרת או דקורטמי קא אמרת או דפורצני קא</row>
+		<row row_number="18" isdata="1">אמרת אדהכי והכי אסקיה רבא לדעתיה אמר</row>
+		<row row_number="19" isdata="1">ליה חשילתא ודאי קא אמרת ואדכרתן מלתא</row>
+		<row row_number="20" isdata="1">הא דאמר רב אסי האי תמרי של תרומה</row>
+		<row row_number="21" isdata="1">מותר לעשות מהן טרימא ואסור לעשות מהן</row>
+		<row row_number="22" isdata="1">שכר והלכתא תמרי ועבדינהו טרימא</row>
+		<row row_number="23" isdata="1">מברכין עלוייהו בורא פרי העץ מאי טעמא</row>
+		<row row_number="24" isdata="1">במלתייהו קיימי כדמעיקרא. שתיתא רב</row>
+		<row row_number="25" isdata="1">אמר שהכל נהיה בדברו ושמואל אמר בורא</row>
+		<row row_number="26" isdata="1">מיני מזונות אמר רב חסדא ולא פליגי הא</row>
+		<row row_number="27" isdata="1">בעבה הא ברכה עבה לאכילה עבדי לה רכה</row>
+		<row row_number="28" isdata="1">לרפואה קא עבדי לה מתיב רב יוסף ושוין</row>
+		<row row_number="29" isdata="1">[ח] שבוחשין את השתות בשבת [ט] ושותין</row>
+		<row row_number="30" isdata="1">זיתום המצרי ואי ס"ד לרפואה קא מכוין</row>
+		<row row_number="31" isdata="1">רפואה בשבת מי שרי א"ל אביי ואת לא</row>
+		<row row_number="32" isdata="1">תסברא והא תנן כל האוכלין אוכל אדם</row>
+		<row row_number="33" isdata="1">לרפואה בשבת וכל המשקין שותה אלא מה</row>
+		<row row_number="34" isdata="1">אית לך למימר גברא לאכילה קא מכוין ה"נ</row>
+		<row row_number="35" isdata="1">גברא לאכילה קא מכוין לישנא אחרינא אלא</row>
+		<row row_number="36" isdata="1">מה אית לך למימר גברא לאכילה קא מכוין</row>
+		<row row_number="37" isdata="1">ורפואה ממילא קא הויא ה"נ לאכילה קא</row>
+		<row row_number="38" isdata="1">מכוין ורפואה ממילא קא הויא וצריכא דרב</row>
+		<row row_number="39" isdata="1">(ושמואל) דאי מהאי ה"א לאכילה קא מכוין</row>
+		<row row_number="40" isdata="1">ורפואה ממילא קא הויא אבל הכא כיון</row>
+		<row row_number="41" isdata="1">דלכתחלה לרפואה קא מכוין לא לבריך</row>
+		<row row_number="42" isdata="1">עלויה כלל קמ"ל כיון דאית ליה הנאה מיניה</row>
+		<row row_number="43" isdata="1">בעי ברוכי: שעל הפת הוא אומר המוציא</row>
+		<row row_number="44" isdata="1">וכו': ת"ר מה הוא אומר המוציא לחם מן</row>
+		<row row_number="45" isdata="1">הארץ רבי נחמיה אומר מוציא לחם מן הארץ</row>
+		<row row_number="46" isdata="1">אמר רבא במוציא כולי עלמא לא פליגי</row>
+		<row row_number="47" isdata="1">דאפיק משמע דכתיב אל מוציאם ממצרים כי פליגי בהמוציא רבנן סברי</row>
+		<row row_number="48" isdata="1">המוציא דאפיק משמע דכתיב המוציא לך מים מצור החלמיש ורבי</row>
+		<row row_number="49" isdata="1">נחמיה סבר המוציא דמפיק משמע שנאמר המוציא אתכם מתחת סבלות</row>
+		<row row_number="50" isdata="1">מצרים ורבנן ההוא הכי קאמר להו קודשא בריך הוא לישראל כד</row>
+		<row row_number="51" isdata="1">מפיקנא לכו עבידנא לכו מלתא כי היכי דידעיתו דאנא הוא דאפיקית</row>
+		<row row_number="52" isdata="1">יתכון ממצרים דכתיב וידעתם כי אני ה' אלהיכם המוציא משתבחין ליה</row>
+		<row row_number="53" isdata="1">רבנן לרבי זירא [את] בר רב זביד אחוה דר"ש בר רב זביד דאדם גדול</row>
+		<row row_number="54" isdata="1">הוא ובקי בברכות הוא אמר להם לכשיבא לידכם הביאוהו לידי זמנא</row>
+		<row row_number="55" isdata="1">חדא איקלע לגביה אפיקו ליה ריפתא פתח ואמר מוציא אמר זה הוא</row>
+		<row row_number="56" isdata="1">שאומרים עליו דאדם גדול הוא ובקי בברכות הוא בשלמא אי אמר המוציא</row>
+		<row row_number="57" isdata="0">אשמעינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

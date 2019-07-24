@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.427778</dateCreated>
+   <lastModified>2016-08-04 11:57:09.427778</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="71">
+	<amud value="2">
+		<row row_number="1" isdata="1">בית שמאי סברי נדרים נמי שראוי לארוס</row>
+		<row row_number="2" isdata="1">נתרוקנה רשות לאב ומיגז גייז בית הלל</row>
+		<row row_number="3" isdata="1">סברי אביה ובעלה אחרון מפירין נדריה</row>
+		<row row_number="4" isdata="1">ולא מיגז גייז: איבעיא להו גירושין</row>
+		<row row_number="5" isdata="1">כשתיקה דמיא או כהקמה דמיא למאי</row>
+		<row row_number="6" isdata="1">נפקא מינה כגון שנדרה ושמע בעלה וגרשה ואהדרה ביומיה אי אמר מר</row>
+		<row row_number="7" isdata="1">כשתיקה דמי מצי מיפר לה ואי אמר מר כהקמה דמי לא מצי מיפר לה</row>
+		<row row_number="8" isdata="0">ת"ש</row>
+</amud>
+</daf>
+</masechet>
+</root>

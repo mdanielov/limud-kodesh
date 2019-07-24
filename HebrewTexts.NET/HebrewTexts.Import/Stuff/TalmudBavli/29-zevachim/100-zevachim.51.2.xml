@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:51.018157</dateCreated>
+   <lastModified>2016-08-04 11:57:51.018157</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="51">
+	<amud value="2">
+		<row row_number="1" isdata="1">תן יסוד למזבח של עולה דאי סלקא דעתך</row>
+		<row row_number="2" isdata="1">כדכתיב הני למה לי א] קרא לשירים שירים</row>
+		<row row_number="3" isdata="1">הא בראי עביד להו וכי תימא ב] דאפיך מיפך</row>
+		<row row_number="4" isdata="0">דבראי</row>
+</amud>
+</daf>
+</masechet>
+</root>

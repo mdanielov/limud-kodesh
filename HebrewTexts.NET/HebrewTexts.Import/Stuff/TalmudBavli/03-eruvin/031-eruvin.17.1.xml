@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:35.903860</dateCreated>
+   <lastModified>2016-08-04 11:56:35.903860</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="17">
+	<amud value="1">
+		<row row_number="1" isdata="1">רישא רבי יוסי ברבי יהודה וסיפא רבנן</row>
+		<row row_number="2" isdata="1">אין משום דקאי אבוה בשיטתיה אמר רב</row>
+		<row row_number="3" isdata="1">גידל אמר רב שלשה בחמש אסורין בשבע</row>
+		<row row_number="4" isdata="1">מותרין אמרו ליה אמר רב הכי אמר להו</row>
+		<row row_number="5" isdata="1">אורייתא נביאי וכתיבי דאמר רב הכי אמר</row>
+		<row row_number="6" isdata="1">רב אשי מאי קשיא דילמא הכי קאמר</row>
+		<row row_number="7" isdata="1">הוצרכו לשש והקיפו בשבע אפי' בשבע</row>
+		<row row_number="8" isdata="1">מותרין לא הוצרכו אלא לחמש והקיפו</row>
+		<row row_number="9" isdata="1">בשבע אפי' בחמש אסורין ואלא הא דקתני</row>
+		<row row_number="10" isdata="1">ובלבד שלא יהא בית סאתים פנוי מאי</row>
+		<row row_number="11" isdata="1">לאו פנוי מאדם לא פנוי מכלים איתמר</row>
+		<row row_number="12" isdata="1">שלשה ומת אחד מהן שנים ונתוספו עליהן</row>
+		<row row_number="13" isdata="1">רב הונא ורבי יצחק חד אמר שבת גורמת</row>
+		<row row_number="14" isdata="1">וחד אמר דיורין גורמין תסתיים דרב הונא</row>
+		<row row_number="15" isdata="1">הוא דאמר שבת גורמת דאמר רבה בעאי</row>
+		<row row_number="16" isdata="1">מרב הונא ובעאי מרב יהודה עירב דרך</row>
+		<row row_number="17" isdata="1">הפתח ונסתם הפתח דרך החלון ונסתם</row>
+		<row row_number="18" isdata="1">החלון מהו ואמר לי שבת הואיל והותרה</row>
+		<row row_number="19" isdata="1">הותרה תסתיים לימא רב הונא ורבי יצחק</row>
+		<row row_number="20" isdata="1">בפלוגתא דרבי יוסי ורבי יהודה קמיפלגי</row>
+		<row row_number="21" isdata="1">דתנן חצר שנפרצה משתי רוחותיה וכן בית</row>
+		<row row_number="22" isdata="1">שנפרץ משתי רוחותיו וכן מבוי שניטלו</row>
+		<row row_number="23" isdata="1">קורותיו או לחייו מותרין לאותה שבת</row>
+		<row row_number="24" isdata="1">ואסורין לעתיד לבא דברי רבי יהודה ר'</row>
+		<row row_number="25" isdata="1">יוסי אומר אם מותרין לאותה שבת מותרין</row>
+		<row row_number="26" isdata="1">לעתיד לבא ואם אסורין לעתיד לבא אסורין</row>
+		<row row_number="27" isdata="1">לאותה שבת לימא רב הונא דאמר כר'</row>
+		<row row_number="28" isdata="1">יהודה ורבי יצחק דאמר כר' יוסי אמר לך</row>
+		<row row_number="29" isdata="1">רב הונא אנא דאמרי אפי' לר' יוסי עד כאן</row>
+		<row row_number="30" isdata="1">לא קאמר רבי יוסי התם אלא דליתנהו</row>
+		<row row_number="31" isdata="1">למחיצות הכא איתנהו למחיצות ור' יצחק</row>
+		<row row_number="32" isdata="1">אמר אנא דאמרי אפי' לר' יהודה עד כאן</row>
+		<row row_number="33" isdata="1">לא קאמר ר' יהודה התם אלא דאיתנהו</row>
+		<row row_number="34" isdata="1">לדיורין הכא ליתנהו לדיורין: וחכמים</row>
+		<row row_number="35" isdata="1">אומרים אחד משני דברים: היינו ת"ק איכא</row>
+		<row row_number="36" isdata="1">בינייהו יחיד ביישוב<EndGemara/><StartMishna/>: מתני' ארבעה</row>
+		<row row_number="37" isdata="1">דברים פטרו במחנה מביאין עצים מ"מ</row>
+		<row row_number="38" isdata="1">ופטורין מרחיצת ידים ומדמאי ומלערב:</row>
+		<row row_number="39" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר מחנה היוצאת למלחמת הרשות</row>
+		<row row_number="40" isdata="1">מותרין בגזל עצים יבשים ר' יהודה בן</row>
+		<row row_number="41" isdata="1">תימא אומר אף חונין בכל מקום ובמקום</row>
+		<row row_number="42" isdata="1">שנהרגו שם נקברין: מותרין בגזל עצים</row>
+		<row row_number="43" isdata="1">יבשים: האי תקנתא דיהושע הוה דאמר</row>
+		<row row_number="44" isdata="1">מר עשרה תנאים התנה יהושע שיהו</row>
+		<row row_number="45" isdata="1">מרעין בחורשין ומלקטין עצים משדותיהן</row>
+		<row row_number="46" isdata="1">התם בהיזמי והיגי הכא בשאר עצים אי</row>
+		<row row_number="47" isdata="1">נמי התם במחוברין הכא בתלושין אי נמי</row>
+		<row row_number="48" isdata="1">התם בלחין הכא ביבשים: ר' יהודה</row>
+		<row row_number="49" isdata="1">בן תימא אומר אף חונין בכל מקום</row>
+		<row row_number="50" isdata="1">ובמקום שנהרגים שם נקברים: פשיטא</row>
+		<row row_number="51" isdata="1">מת מצוה הוא ומת מצוה קונה מקומו לא צריכא אף על גב</row>
+		<row row_number="52" isdata="0">דאית</row>
+</amud>
+</daf>
+</masechet>
+</root>

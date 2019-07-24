@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:43.648303</dateCreated>
+   <lastModified>2016-08-04 11:56:43.648303</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="99">
+	<amud value="2">
+		<row row_number="1" isdata="1"><StartChapter name = "ערבי פסחים"/><StartMishna/>/div>ערב פסחים  סמוך למנחה לא יאכל</row>
+		<row row_number="2" isdata="1">אדם עד שתחשך אפילו</row>
+		<row row_number="3" isdata="1">עני שבישראל לא יאכל עד שיסב ולא</row>
+		<row row_number="4" isdata="1">יפחתו לו מארבע כוסות של יין ואפילו מן</row>
+		<row row_number="5" isdata="1">התמחוי: <EndMishna/><StartGemara/>גמ' מאי איריא ערבי פסחים אפי'</row>
+		<row row_number="6" isdata="1">ערבי שבתות וימים טובים נמי דתניא לא</row>
+		<row row_number="7" isdata="1">יאכל אדם בערבי שבתות וימים טובים מן</row>
+		<row row_number="8" isdata="1">המנחה ולמעלה כדי שיכנס לשבת כשהוא</row>
+		<row row_number="9" isdata="1">תאוה דברי רבי יהודה רבי יוסי אומר אוכל</row>
+		<row row_number="10" isdata="1">והולך עד שתחשך אמר רב הונא לא צריכא</row>
+		<row row_number="11" isdata="1">אלא לר' יוסי דאמר אוכל והולך עד שתחשך</row>
+		<row row_number="12" isdata="1">הני מילי בערבי שבתות וימים טובים אבל</row>
+		<row row_number="13" isdata="1">בערב הפסח משום חיובא דמצה מודה רב</row>
+		<row row_number="14" isdata="1">פפא אמר אפילו תימא רבי יהודה התם</row>
+		<row row_number="15" isdata="1">בערבי שבתות וימים טובים מן המנחה</row>
+		<row row_number="16" isdata="1">ולמעלה הוא דאסיר סמוך למנחה שרי אבל</row>
+		<row row_number="17" isdata="1">בערב הפסח אפילו סמוך למנחה נמי</row>
+		<row row_number="18" isdata="1">אסור ובערב שבת סמוך למנחה שרי</row>
+		<row row_number="19" isdata="1">והתניא לא יאכל אדם בערב שבת וימים</row>
+		<row row_number="20" isdata="1">טובים מתשע שעות ולמעלה כדי שיכנס</row>
+		<row row_number="21" isdata="1">לשבת כשהוא תאוה דברי רבי יהודה</row>
+		<row row_number="22" isdata="1">רבי יוסי אומר אוכל והולך עד שתחשך</row>
+		<row row_number="23" isdata="1">אמר מר זוטרא מאן לימא לן דמתרצתא היא</row>
+		<row row_number="24" isdata="0">דילמא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:24.127187</dateCreated>
+   <lastModified>2016-08-04 11:56:24.127187</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="22">
+	<amud value="2">
+		<row row_number="1" isdata="1">בקילעא דרב אושעיא אתו ושאלו לרב אסי</row>
+		<row row_number="2" isdata="1">אמר להו לא שנו אלא לחולה המרגיל אבל</row>
+		<row row_number="3" isdata="1">לחולה לאונסו פטור מכלום א"ר יוסף אצטמיד</row>
+		<row row_number="4" isdata="1">חצביה דרב נחמן מכדי כולהו אמוראי ותנאי</row>
+		<row row_number="5" isdata="1">בדעזרא קמיפלגי ונחזי עזרא היכי תקן אמר</row>
+		<row row_number="6" isdata="1">אביי עזרא תקן לבריא המרגיל מ' סאה ובריא</row>
+		<row row_number="7" isdata="1">לאונסו ט' קבין ואתו אמוראי ופליגי בחולה</row>
+		<row row_number="8" isdata="1">מר סבר חולה המרגיל כבריא המרגיל וחולה</row>
+		<row row_number="9" isdata="1">לאונסו כבריא לאונסו ומר סבר חולה המרגיל</row>
+		<row row_number="10" isdata="1">כבריא לאונסו וחולה לאונסו פטור מכלום</row>
+		<row row_number="11" isdata="1">אמר רבא נהי דתקן עזרא טבילה נתינה מי</row>
+		<row row_number="12" isdata="1">תקן והאמר מר עזרא תקן טבילה לבעלי</row>
+		<row row_number="13" isdata="1">קריין אלא אמר רבא עזרא תקן טבילה</row>
+		<row row_number="14" isdata="1">לבריא המרגיל מ' סאה ואתו רבנן והתקינו</row>
+		<row row_number="15" isdata="1">לבריא לאונסו ט' קבין ואתו אמוראי וקא</row>
+		<row row_number="16" isdata="1">מיפלגי בחולה מר סבר חולה המרגיל כבריא</row>
+		<row row_number="17" isdata="1">המרגיל וחולה לאונסו כבריא לאונסו ומר</row>
+		<row row_number="18" isdata="1">סבר לבריא המרגיל מ' סאה וחולה המרגיל</row>
+		<row row_number="19" isdata="1">כבריא לאונסו ט' קבין אבל לחולה לאונסו</row>
+		<row row_number="20" isdata="1">פטור מכלום אמר רבא הלכתא בריא המרגיל</row>
+		<row row_number="21" isdata="1">וחולה המרגיל ארבעים סאה ובריא לאונסו</row>
+		<row row_number="22" isdata="1">תשעה קבין אבל לחולה לאונסו פטור</row>
+		<row row_number="23" isdata="1">מכלום: ת"ר בעל קרי שנתנו עליו ט' קבין</row>
+		<row row_number="24" isdata="1">מים טהור בד"א לעצמו אבל לאחרים ארבעים</row>
+		<row row_number="25" isdata="1">סאה ר' יהודה אומר מ' סאה מכל מקום ר'</row>
+		<row row_number="26" isdata="1">יוחנן וריב"ל ור"א ור' יוסי בר' חנינא חד מהאי</row>
+		<row row_number="27" isdata="1">זוגא וחד מהאי זוגא ארישא חד אמר הא</row>
+		<row row_number="28" isdata="1">דאמרת במה דברים אמורים לעצמו אבל</row>
+		<row row_number="29" isdata="1">לאחרים מ' סאה לא שנו אלא לחולה המרגיל</row>
+		<row row_number="30" isdata="1">אבל לחולה לאונסו ט' קבין וחד אמר כל</row>
+		<row row_number="31" isdata="1">לאחרים אפילו חולה לאונסו עד דאיכא מ'</row>
+		<row row_number="32" isdata="1">סאה וחד מהאי זוגא וחד מהאי זוגא אסיפא</row>
+		<row row_number="33" isdata="1">חד אמר הא דאמר רבי יהודה מ' סאה מכל</row>
+		<row row_number="34" isdata="1">מקום לא שנו אלא בקרקע אבל בכלים לא</row>
+		<row row_number="35" isdata="1">וחד אמר אפי' בכלים נמי בשלמא למ"ד אפי'</row>
+		<row row_number="36" isdata="1">בכלים היינו דקתני ר' יהודה אומר מ' סאה</row>
+		<row row_number="37" isdata="1">מכל מקום אלא למ"ד בקרקע אין בכלים לא</row>
+		<row row_number="38" isdata="1">מכל מקום לאתויי מאי לאתויי מים שאובין רב פפא ורב הונא בריה דרב יהושע</row>
+		<row row_number="39" isdata="1">ורבא (ברבי) בר שמואל כריכו ריפתא בהדי הדדי א"ל רב פפא הבו לי לדידי</row>
+		<row row_number="40" isdata="1">לברוך דנפול עילואי ט' קבין אמר להו רבא (ברבי) [בר] שמואל תנינא במה</row>
+		<row row_number="41" isdata="1">דברים אמורים לעצמו אבל לאחרים מ' סאה אלא הבו לי לדידי לברוך</row>
+		<row row_number="42" isdata="1">דנפול עילואי ארבעים סאה אמר להו רב הונא הבו לי לדידי לברוך דליכא</row>
+		<row row_number="43" isdata="1">עילואי לא האי ולא האי רב חמא טביל במעלי יומא דפסחא להוציא רבים ידי חובתן ולית הלכתא כוותיה:</row>
+		<row row_number="44" isdata="1">מתני' היה עומד בתפלה ונזכר שהוא בעל קרי לא יפסיק אלא יקצר ירד לטבול אם יכול לעלות</row>
+		<row row_number="45" isdata="1">ולהתכסות ולקרות עד שלא תהא הנץ החמה יעלה ויתכסה ויקרא ואם לאו יתכסה במים ויקרא ולא יתכסה</row>
+		<row row_number="46" isdata="1">לא במים הרעים ולא במי המשרה עד שיטיל לתוכן מים וכמה ירחיק מהן ומן הצואה ד' אמות:</row>
+		<row row_number="47" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר היה עומד בתפלה ונזכר שהוא בעל קרי לא יפסיק אלא יקצר היה קורא בתורה ונזכר שהוא</row>
+		<row row_number="48" isdata="1">בעל קרי אינו מפסיק ועולה אלא מגמגם וקורא ר"מ אומר אין בעל קרי רשאי לקרות בתורה יותר מג'</row>
+		<row row_number="49" isdata="1">פסוקים תניא אידך היה עומד בתפלה וראה צואה כנגדו מהלך לפניו עד שיזרקנה לאחוריו ד' אמות</row>
+		<row row_number="50" isdata="1">והתניא לצדדין ל"ק הא דאפשר הא דלא אפשר היה מתפלל ומצא צואה במקומו אמר רבה אע"פ</row>
+		<row row_number="51" isdata="1">שחטא תפלתו תפלה מתקיף ליה רבא והא זבח רשעים תועבה אלא אמר רבא הואיל וחטא אע"פ</row>
+		<row row_number="52" isdata="1">שהתפלל תפלתו תועבה : ת"ר היה עומד בתפלה ומים שותתין על ברכיו א] פוסק עד שיכלו המים וחוזר</row>
+		<row row_number="53" isdata="1">ומתפלל להיכן חוזר רב חסדא ורב המנונא חד אמר חוזר לראש וחד אמר למקום שפסק לימא בהא קמיפלגי</row>
+		<row row_number="54" isdata="0">מר</row>
+</amud>
+</daf>
+</masechet>
+</root>

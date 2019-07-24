@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:45.475408</dateCreated>
+   <lastModified>2016-08-04 11:56:45.475408</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="6">
+	<amud value="2">
+		<row row_number="1" isdata="1">אלא לאו לטבילתן לא לעולם לטומאתן</row>
+		<row row_number="2" isdata="1">סיפא אצטריכא ליה אלא שחמור ממנו</row>
+		<row row_number="3" isdata="1">בועל נדה שמטמא משכב ומושב בטומאה</row>
+		<row row_number="4" isdata="1">קלה לטמא אוכלין ומשקין ת"ש דתני רבי</row>
+		<row row_number="5" isdata="1">חייא הזב והזבה והמצורע והמצורעת ובועל</row>
+		<row row_number="6" isdata="1">נדה וטמא מת טבילתן ביום נדה ויולדת</row>
+		<row row_number="7" isdata="1">טבילתן בלילה תיובתא ועד שאתה מפרישו</row>
+		<row row_number="8" isdata="1">מטומאת ביתו הפרישהו מטומאת המת</row>
+		<row row_number="9" isdata="1">אמר רב תחליפא אבוה דרב הונא (בר</row>
+		<row row_number="10" isdata="1">תחליפא) משמיה דרבא זאת אומרת טומאת</row>
+		<row row_number="11" isdata="1">המת הותרה היא בציבור רבינא אמר אפילו</row>
+		<row row_number="12" isdata="1">תימא טומאת המת דחויה היא בצבור</row>
+		<row row_number="13" isdata="1">טומאת המת לא שכיחא טומאת ביתו</row>
+		<row row_number="14" isdata="1">שכיחא איתמר טומאת המת רב נחמן</row>
+		<row row_number="15" isdata="1">אמר הותרה היא בציבור ורב ששת אמר</row>
+		<row row_number="16" isdata="1">דחויה היא בציבור היכא דאיכא טמאין</row>
+		<row row_number="17" isdata="1">וטהורין בההוא בית אב כולי עלמא לא</row>
+		<row row_number="18" isdata="1">פליגי דטהורין עבדי טמאין לא עבדי כי</row>
+		<row row_number="19" isdata="1">פליגי לאהדורי ולאתויי טהורין מבית אב</row>
+		<row row_number="20" isdata="1">אחרינא רב נחמן אמר היתר היא בציבור</row>
+		<row row_number="21" isdata="1">ולא מהדרינן ורב ששת אמר דחויה היא</row>
+		<row row_number="22" isdata="1">בציבור ומהדרינן איכא דאמרי אפי' היכא</row>
+		<row row_number="23" isdata="1">דאיכא טהורין וטמאין בההוא בית אב פליג רב נחמן ואמר עבדי נמי טמאין</row>
+		<row row_number="24" isdata="0">דכל</row>
+</amud>
+</daf>
+</masechet>
+</root>

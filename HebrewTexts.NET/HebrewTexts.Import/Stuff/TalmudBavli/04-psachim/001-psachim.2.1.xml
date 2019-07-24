@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:39.529068</dateCreated>
+   <lastModified>2016-08-04 11:56:39.529068</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "אור לארבעה עשר"/><StartMishna/>אור</row>
+		<row row_number="2" isdata="1">לארבעה עשר בודקין את החמץ לאור הנר</row>
+		<row row_number="3" isdata="1">כל מקום שאין מכניסין בו חמץ אין צריך</row>
+		<row row_number="4" isdata="1">בדיקה ובמה אמרו ב' שורות במרתף מקום</row>
+		<row row_number="5" isdata="1">שמכניסין בו חמץ בית שמאי אומרים ב'</row>
+		<row row_number="6" isdata="1">שורות על פני כל המרתף ובית הלל אומרים</row>
+		<row row_number="7" isdata="1">שתי שורות החיצונות שהן העליונות:</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' מאי אור רב הונא אמר נגהי ורב יהודה</row>
+		<row row_number="9" isdata="1">אמר לילי קא סלקא דעתך דמאן דאמר נגהי</row>
+		<row row_number="10" isdata="1">נגהי ממש ומאן דאמר לילי לילי ממש מיתיבי</row>
+		<row row_number="11" isdata="1">הבקר אור והאנשים שולחו אלמא אור</row>
+		<row row_number="12" isdata="1">יממא הוא מי כתיב האור בקר הבקר אור</row>
+		<row row_number="13" isdata="1">כתיב כמאן דאמר צפרא נהר וכדרב יהודה</row>
+		<row row_number="14" isdata="1">אמר רב דאמר רב יהודה אמר רב לעולם</row>
+		<row row_number="15" isdata="1">יכנס אדם בכי טוב ויצא בכי טוב מיתיבי</row>
+		<row row_number="16" isdata="1">וכאור בקר יזרח שמש אלמא אור יממא</row>
+		<row row_number="17" isdata="1">הוא מי כתיב אור בקר וכאור בקר כתיב</row>
+		<row row_number="18" isdata="1">והכי קאמר וכאור בקר בעולם הזה כעין</row>
+		<row row_number="19" isdata="1">זריחת שמש לצדיקים לעולם הבא מיתיבי</row>
+		<row row_number="20" isdata="1">ויקרא אלהים לאור יום אלמא אור יממא</row>
+		<row row_number="21" isdata="1">הוא הכי קאמר למאיר ובא קראו יום אלא</row>
+		<row row_number="22" isdata="1">מעתה ולחשך קרא לילה למחשיך ובא קרא</row>
+		<row row_number="23" isdata="1">לילה והא קיימא לן דעד צאת הכוכבים יממא</row>
+		<row row_number="24" isdata="1">הוא אלא הכי קאמר קרייה רחמנא לנהורא</row>
+		<row row_number="25" isdata="1">ופקדיה אמצותא דיממא וקרייה רחמנא</row>
+		<row row_number="26" isdata="1">לחשוכא ופקדיה אמצותא דלילה מיתיבי</row>
+		<row row_number="27" isdata="1">הללוהו כל כוכבי אור אלמא אור אורתא</row>
+		<row row_number="28" isdata="1">הוא הכי קאמר הללוהו כל כוכבים המאירים</row>
+		<row row_number="29" isdata="1">אלא מעתה כוכבים המאירים הוא דבעו</row>
+		<row row_number="30" isdata="1">שבוחי שאינן מאירין לא בעו שבוחי והא</row>
+		<row row_number="31" isdata="1">כתיב הללוהו כל צבאיו אלא הא קמ"ל</row>
+		<row row_number="32" isdata="1">דאור דכוכבים נמי אור הוא למאי נפקא</row>
+		<row row_number="33" isdata="1">מינה לנודר מן האור (דתנן) א] הנודר מן האור</row>
+		<row row_number="34" isdata="1">אסור באורן של כוכבים מיתיבי לאור יקום</row>
+		<row row_number="35" isdata="1">רוצח יקטל עני ואביון ובלילה יהי כגנב</row>
+		<row row_number="36" isdata="0">הא</row>
+</amud>
+</daf>
+</masechet>
+</root>

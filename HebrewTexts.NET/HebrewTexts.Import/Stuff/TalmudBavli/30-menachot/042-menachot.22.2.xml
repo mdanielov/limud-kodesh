@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:54.748370</dateCreated>
+   <lastModified>2016-08-04 11:57:54.748370</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="22">
+	<amud value="2">
+		<row row_number="1" isdata="1">א] מכאן לעולין שאין מבטלין זה את זה ורבי</row>
+		<row row_number="2" isdata="1">יהודה סבר מכאן למין במינו שאינו בטל</row>
+		<row row_number="3" isdata="1">רבנן סברי מכאן לעולין שאין מבטלין זה</row>
+		<row row_number="4" isdata="1">את זה ודלמא משום דמין במינו הוא אי אשמעינן מין במינו ולא אשמעינן</row>
+		<row row_number="5" isdata="1">עולין כדקא אמרת השתא דאשמעינן עולין משום דעולין ודלמא עד דאיכא</row>
+		<row row_number="6" isdata="1">מין במינו ועולין קשיא ור' יהודה סבר מכאן למין במינו שאינו בטל</row>
+		<row row_number="7" isdata="1">ודלמא משום דעולין הוא אי אשמעינן עולין מין בשאינו מינו</row>
+		<row row_number="8" isdata="1">כדקאמרת השתא דאשמעינן מין במינו משום דמין במינו הוא ודילמא</row>
+		<row row_number="9" isdata="1">עד דאיכא מין במינו ועולין קשיא: תנן רבי יהודה אומר ב] (במנחת כהנים)</row>
+		<row row_number="10" isdata="1">במנחת כהן משיח ובמנחת נסכים פסולה שזו בלילתה עבה וזו בלילתה</row>
+		<row row_number="11" isdata="1">רכה והן בולעות זו מזו וכי בולעות זו מזו ג] מה הוי מין במינו הוא</row>
+		<row row_number="12" isdata="0">אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

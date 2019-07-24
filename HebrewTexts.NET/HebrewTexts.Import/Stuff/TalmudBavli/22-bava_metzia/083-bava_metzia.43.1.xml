@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:27.241797</dateCreated>
+   <lastModified>2016-08-04 11:57:27.241797</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="43">
+	<amud value="1">
+		<row row_number="1" isdata="1">ומשלם ליה דמי כיסי<EndGemara/><StartMishna/>: מתני' המפקיד</row>
+		<row row_number="2" isdata="1">מעות אצל שולחני אם צרורין לא ישתמש</row>
+		<row row_number="3" isdata="1">בהן לפיכך אם אבדו אינו חייב באחריותן</row>
+		<row row_number="4" isdata="1">מותרין ישתמש בהן לפיכך אם אבדו חייב</row>
+		<row row_number="5" isdata="1">באחריותן אצל בעל הבית בין צרורין ובין</row>
+		<row row_number="6" isdata="1">מותרין לא ישתמש בהן לפיכך אם אבדו</row>
+		<row row_number="7" isdata="1">אינו חייב באחריותן חנוני כבעל הבית דברי</row>
+		<row row_number="8" isdata="1">ר"מ ר' יהודה אומר חנוני כשולחני: <EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="9" isdata="1">משום דצרורין לא ישתמש בהן אמר רב אסי</row>
+		<row row_number="10" isdata="1">אמר רב יהודה בצרורין וחתומין שנו רב</row>
+		<row row_number="11" isdata="1">מרי אמר בקשר משונה איכא דאמרי בעי</row>
+		<row row_number="12" isdata="1">רב מרי קשר משונה מאי תיקו: מותרין</row>
+		<row row_number="13" isdata="1">ישתמש בהן כו': אמר רב הונא ואפילו</row>
+		<row row_number="14" isdata="1">נאנסו והא אבדו קתני כדרבה דאמר רבה</row>
+		<row row_number="15" isdata="1">נגנבו בלסטין מזויין אבדו שטבעה ספינתו בים</row>
+		<row row_number="16" isdata="1">ורב נחמן אמר נאנסו לא אמר ליה רבא</row>
+		<row row_number="17" isdata="1">לר"נ לדידך דאמרת נאנסו לא אלמא לא הוי</row>
+		<row row_number="18" isdata="1">שואל עלייהו אי שואל לא הוי שומר שכר</row>
+		<row row_number="19" isdata="1">נמי לא הוי א"ל בהא מודינא לך דהואיל</row>
+		<row row_number="20" isdata="1">ונהנה מהנה בההוא הנאה דאי מיתרמי ליה</row>
+		<row row_number="21" isdata="1">זבינא דאית בה רווחא זבן בהו הוי עלייהו</row>
+		<row row_number="22" isdata="1">שומר שכר איתיביה רב נחמן לרב הונא</row>
+		<row row_number="23" isdata="1">המפקיד מעות אצל שולחני אם צרורין לא</row>
+		<row row_number="24" isdata="1">ישתמש בהן לפיכך אם הוציא לא מעל הגזבר</row>
+		<row row_number="25" isdata="1">ואם מותרין ישתמש בהן לפיכך אם הוציא</row>
+		<row row_number="26" isdata="1">מעל הגזבר ואי אמרת אפילו נאנסו מאי</row>
+		<row row_number="27" isdata="1">איריא הוציא אפילו לא הוציא נמי אמר ליה</row>
+		<row row_number="28" isdata="1">הוא הדין אע"ג דלא הוציא ואיידי דתנא רישא</row>
+		<row row_number="29" isdata="1">הוציא תנא סיפא נמי הוציא<EndGemara/><StartMishna/>: מתני' השולח</row>
+		<row row_number="30" isdata="1">יד בפקדון בית שמאי אומרים ילקה בחסר</row>
+		<row row_number="31" isdata="1">וביתר ובית הלל אומרים כשעת הוצאה</row>
+		<row row_number="32" isdata="1">ר"ע אומר כשעת התביעה: <EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="33" isdata="1">רבה האי מאן דגזל חביתא דחמרא</row>
+		<row row_number="34" isdata="1">מחבריה מעיקרא שויא זוזא השתא שויא</row>
+		<row row_number="35" isdata="1">ארבעה תברה או שתייה משלם ארבעה</row>
+		<row row_number="36" isdata="1">איתבר ממילא משלם זוזא מאי טעמא כיון</row>
+		<row row_number="37" isdata="1">דאי איתה הדרא למרה בעינא ההיא שעתא</row>
+		<row row_number="38" isdata="1">דקא שתי ליה או דקא תבר לה קא גזל מיניה</row>
+		<row row_number="39" isdata="1">ותנן כל הגזלנין משלמין כשעת הגזילה</row>
+		<row row_number="40" isdata="1">איתבר ממילא משלם זוזא מ"ט השתא לא</row>
+		<row row_number="41" isdata="1">עביד לה ולא מידי אמאי קא מחייבת ליה</row>
+		<row row_number="42" isdata="1">אההיא שעתא דגזלה ההיא שעתא זוזא</row>
+		<row row_number="43" isdata="1">הוא דשויא תנן בית הלל אומרים</row>
+		<row row_number="44" isdata="1">כשעת הוצאה מאי כשעת הוצאה אילימא</row>
+		<row row_number="45" isdata="1">כשעת הוצאה מן העולם ובמאי אי בחסר</row>
+		<row row_number="46" isdata="1">מי איכא למ"ד והא תנן כל הגזלנין</row>
+		<row row_number="47" isdata="1">משלמין כשעת הגזילה ואי ביתר היינו ב"ש</row>
+		<row row_number="48" isdata="0">אלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:40.112533</dateCreated>
+   <lastModified>2016-08-04 11:57:40.112533</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="32">
+	<amud value="2">
+		<row row_number="1" isdata="1">טעו לא ישלמו כל שכן שתנעול דלת בפני</row>
+		<row row_number="2" isdata="1">לווין רבא אמר מתניתין דהכא בדיני קנסות</row>
+		<row row_number="3" isdata="1">ואידך בהודאות והלואות רב פפא אמר אידי</row>
+		<row row_number="4" isdata="1">ואידי בהודאה והלואה כאן בדין מרומה כאן</row>
+		<row row_number="5" isdata="1">בדין שאינו מרומה כדריש לקיש דריש לקיש</row>
+		<row row_number="6" isdata="1">רמי כתיב בצדק תשפוט עמיתך וכתיב</row>
+		<row row_number="7" isdata="1">צדק צדק תרדף הא כיצד כאן בדין מרומה</row>
+		<row row_number="8" isdata="1">כאן בדין שאין מרומה רב אשי אמר מתניתין</row>
+		<row row_number="9" isdata="1">כדשנין קראי אחד לדין וא' לפשרה כדתניא</row>
+		<row row_number="10" isdata="1">צדק צדק תרדף אחד לדין ואחד לפשרה כיצד</row>
+		<row row_number="11" isdata="1">שתי ספינות עוברות בנהר ופגעו זה בזה אם</row>
+		<row row_number="12" isdata="1">עוברות שתיהן שתיהן טובעות בזה אחר זה</row>
+		<row row_number="13" isdata="1">שתיהן עוברות וכן שני גמלים שהיו עולים</row>
+		<row row_number="14" isdata="1">במעלות בית חורון ופגעו זה בזה אם עלו</row>
+		<row row_number="15" isdata="1">שניהן שניהן נופלין בזה אחר זה שניהן עולין</row>
+		<row row_number="16" isdata="1">הא כיצד טעונה ושאינה טעונה תידחה</row>
+		<row row_number="17" isdata="1">שאינה טעונה מפני טעונה קרובה ושאינה</row>
+		<row row_number="18" isdata="1">קרובה תידחה קרובה מפני שאינה קרובה</row>
+		<row row_number="19" isdata="1">היו שתיהן קרובות שתיהן רחוקות הטל</row>
+		<row row_number="20" isdata="1">פשרה ביניהן ומעלות שכר זו לזו ת"ר צדק</row>
+		<row row_number="21" isdata="1">צדק תרדף הלך אחר ב"ד יפה אחר רבי</row>
+		<row row_number="22" isdata="1">אליעזר ללוד אחר רבן יוחנן בן זכאי לברור</row>
+		<row row_number="23" isdata="1">חיל תנא קול ריחים בבורני שבוע הבן שבוע</row>
+		<row row_number="24" isdata="1">הבן אור הנר בברור חיל משתה שם משתה</row>
+		<row row_number="25" isdata="1">שם ת"ר צדק צדק תרדף הלך אחר חכמים</row>
+		<row row_number="26" isdata="1">לישיבה אחר ר' אליעזר ללוד אחר רבן יוחנן</row>
+		<row row_number="27" isdata="1">בן זכאי לברור חיל אחר רבי יהושע לפקיעין</row>
+		<row row_number="28" isdata="1">אחר רבן גמליאל ליבנא אחר רבי עקיבא</row>
+		<row row_number="29" isdata="1">לבני ברק אחר רבי מתיא לרומי אחר רבי</row>
+		<row row_number="30" isdata="1">חנניא בן תרדיון לסיכני אחר ר' יוסי לציפורי אחר רבי יהודה בן בתירה לנציבין</row>
+		<row row_number="31" isdata="1">אחר רבי יהושע לגולה אחר רבי לבית שערים אחר חכמים ללשכת הגזית:</row>
+		<row row_number="32" isdata="1">דיני ממונות פותחין כו': היכי אמרינן אמר רב יהודה הכי אמרינן להו מי</row>
+		<row row_number="33" isdata="1">יימר כדקאמריתו א"ל עולא והא חסמינן להו וליחסמו מי לא תניא רבי שמעון</row>
+		<row row_number="34" isdata="1">בן אליעזר אומר מסיעין את העדים ממקום למקום כדי שתיטרף דעתן ויחזרו</row>
+		<row row_number="35" isdata="1">בהן מי דמי התם ממילא קא מידחו הכא קא דחינן להו בידים אלא אמר עולא</row>
+		<row row_number="36" isdata="1">הכי אמרינן יש לך עדים להזימם א"ל רבה וכי פותחין בזכותו של זה שהיא</row>
+		<row row_number="37" isdata="1">חובתו של זה ומי הויא חובתו והתנן אין עדים זוממין נהרגין עד שיגמר הדין</row>
+		<row row_number="38" isdata="1">הכי אמינא אילו שתיק האי עד דמיגמר דיניה ומייתי עדים ומזים להו הויא</row>
+		<row row_number="39" isdata="1">ליה חובתו של זה אלא אמר רבה אמרינן ליה יש לך עדים להכחישן רב כהנא</row>
+		<row row_number="40" isdata="1">אמר מדבריכם נזדכה פלוני אביי ורבא דאמרי תרוייהו אמרי' ליה אי לא</row>
+		<row row_number="41" isdata="1">קטלת לא תדחל רב אשי אמר כל מי שיודע לו זכות יבא וילמד עליו תניא</row>
+		<row row_number="42" isdata="1">כוותיה דאביי ורבא רבי אומר אם לא שכב איש אותך ואם לא שטית וגו'</row>
+		<row row_number="43" isdata="0">מיכן</row>
+</amud>
+</daf>
+</masechet>
+</root>

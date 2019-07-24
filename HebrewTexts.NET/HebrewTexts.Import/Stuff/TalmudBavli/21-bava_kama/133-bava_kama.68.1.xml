@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:23.316572</dateCreated>
+   <lastModified>2016-08-04 11:57:23.316572</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="68">
+	<amud value="1">
+		<row row_number="1" isdata="1">מי איכא נשתרש אלא לאחר יאוש ואי ס"ד</row>
+		<row row_number="2" isdata="1">יאוש קני אמאי משלם תשלומי ארבעה</row>
+		<row row_number="3" isdata="1">וחמשה שלו הוא טובח שלו הוא מוכר אמרי</row>
+		<row row_number="4" isdata="1">כדאמר רבא מפני ששנה בחטא הכא נמי</row>
+		<row row_number="5" isdata="1">מפני ששנה בחטא ת"ש וטבחו או מכרו</row>
+		<row row_number="6" isdata="1">מה טביחה שאינה חוזרת אף מכירה שאינה</row>
+		<row row_number="7" isdata="1">חוזרת אימת אילימא לפני יאוש אמאי אינה</row>
+		<row row_number="8" isdata="1">חוזרת אלא לאחר יאוש ואי ס"ד קנייה אמאי</row>
+		<row row_number="9" isdata="1">משלם ד' וה' שלו הוא טובח שלו הוא</row>
+		<row row_number="10" isdata="1">מוכר כדאמר רב נחמן פרט לשהקנה</row>
+		<row row_number="11" isdata="1">לשלשים יום הכא נמי פרט לשהקנה</row>
+		<row row_number="12" isdata="1">לשלשים יום מיתיבי גנב ובא אחר וגנבו הראשון משלם תשלומי כפל והשני</row>
+		<row row_number="13" isdata="1">אינו משלם אלא קרן בלבד גנב ומכר ובא אחר וגנבו הראשון משלם תשלומי</row>
+		<row row_number="14" isdata="1">ארבעה וחמשה והשני משלם תשלומי כפל גנב וטבח ובא אחר וגנבו</row>
+		<row row_number="15" isdata="1">הראשון משלם תשלומי ד' וה' והשני אינו משלם תשלומי כפל אלא</row>
+		<row row_number="16" isdata="1">קרן בלבד קתני מיהא מציעתא גנב ומכר ובא אחר וגנבו הראשון משלם</row>
+		<row row_number="17" isdata="1">תשלומי ד' וה' והשני משלם תשלומי כפל אימת אילימא לפני יאוש שני</row>
+		<row row_number="18" isdata="1">אמאי משלם תשלומי כפל שינוי רשות בלא יאוש מי איכא למ"ד דקני אלא</row>
+		<row row_number="19" isdata="1">פשיטא לאחר יאוש ואי ס"ד יאוש קונה אמאי משלם תשלומי ד' וה' דידיה</row>
+		<row row_number="20" isdata="1">הוא דזבין ותו דקתני רישא גנב ובא אחר וגנבו ראשון משלם תשלומי כפל</row>
+		<row row_number="21" isdata="1">והשני אין משלם אלא קרן מכדי לאחר יאוש קיימינן ואי ס"ד יאוש קונה</row>
+		<row row_number="22" isdata="1">שני אמאי אינו משלם אלא קרן אלא לאו ש"מ יאוש לא קני וקשיא לרב</row>
+		<row row_number="23" isdata="1">אמר רבא ותסברא הא מתרצתא היא אלא דקתני סיפא גנב וטבח ובא אחר</row>
+		<row row_number="24" isdata="1">וגנבו ראשון משלם תשלומי ארבעה וחמשה ושני אינו משלם אלא קרן</row>
+		<row row_number="25" isdata="1">ומי איכא למ"ד שינוי מעשה לא קני אלא לעולם כולה לפני יאוש ואיפוך</row>
+		<row row_number="26" isdata="1">סיפא למציעתא ומציעתא לסיפא ואימא הכי גנב ומכר ובא אחר וגנבו</row>
+		<row row_number="27" isdata="1">הראשון משלם תשלומי ארבעה וחמשה והשני אינו משלם אלא קרן</row>
+		<row row_number="28" isdata="1">דשינוי רשות בלא יאוש לא קני גנב וטבח ובא אחר וגנבו הראשון משלם</row>
+		<row row_number="29" isdata="1">תשלומי ארבעה וחמשה והשני משלם תשלומי כפל דקנייה בשינוי מעשה</row>
+		<row row_number="30" isdata="1">רב פפא אמר לעולם לא תיפוך סיפא ב"ש היא דאמרי שינוי במקומה עומד</row>
+		<row row_number="31" isdata="1">אי הכי קשיא רישא ומציעתא לרב א"ר זביד לעולם כולה לפני יאוש</row>
+		<row row_number="32" isdata="1">והב"ע שנתייאשו הבעלים בלוקח ולא נתייאשו בגנב דה"ל יאוש (ושינוי</row>
+		<row row_number="33" isdata="1">רשות) ולא תימא משום דבעינן יאוש ושינוי רשות אלא אפילו ביאוש</row>
+		<row row_number="34" isdata="1">לחודיה נמי קני גבי גנב אלא דלא משכחת דמשלמי תרוייהו גנב ראשון וגנב</row>
+		<row row_number="35" isdata="1">שני אלא בהכי: איתמר המוכר לפני יאוש רב נחמן אמר חייב רב ששת</row>
+		<row row_number="36" isdata="1">אמר פטור רב נחמן אמר חייב ומכרו אמר רחמנא והא זבין לא שנא לפני</row>
+		<row row_number="37" isdata="1">יאוש לא שנא לאחר יאוש רב ששת אמר פטור חיוביה לאחר יאוש הוא</row>
+		<row row_number="38" isdata="1">דאהנו מעשיו אבל לפני יאוש דלא אהנו מעשיו לא מיחייב דומיא דטביחה</row>
+		<row row_number="39" isdata="1">בעינן דאהנו מעשיו א"ר ששת מנא אמינא לה דתניא א"ר עקיבא מפני מה</row>
+		<row row_number="40" isdata="1">אמרה תורה טבח ומכר משלם ד' וה' מפני שנשתרש בחטא אימת</row>
+		<row row_number="41" isdata="1">אילימא לפני יאוש מי איכא נשתרש אלא לאו לאחר יאוש הוא אמר רבא</row>
+		<row row_number="42" isdata="1">מפני ששנה בחטא ת"ש וטבחו ומכרו מה טביחה שאינה חוזרת אף מכירה</row>
+		<row row_number="43" isdata="1">שאינה חוזרת אימת אילימא לפני יאוש אמאי אינה חוזרת אלא לאחר</row>
+		<row row_number="44" isdata="1">יאוש וש"מ חיובא לאחר יאוש הוא תרגמה רב נחמן פרט לשהקנה לו</row>
+		<row row_number="45" isdata="1">לשלשים יום ואף ר' אלעזר סבר חיוביה לאחר יאוש הוא דאמר ר' אלעזר</row>
+		<row row_number="46" isdata="0">תדע</row>
+</amud>
+</daf>
+</masechet>
+</root>

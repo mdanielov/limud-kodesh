@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:45.516410</dateCreated>
+   <lastModified>2016-08-04 11:56:45.516410</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="7">
+	<amud value="2">
+		<row row_number="1" isdata="1">הא אינו נושא אלא עון טומאה שהותרה</row>
+		<row row_number="2" isdata="1">מכללה בציבור וקשיא לרב ששת תנאי</row>
+		<row row_number="3" isdata="1">היא דתניא ציץ בין שישנו על מצחו בין</row>
+		<row row_number="4" isdata="1">שאינו על מצחו מרצה דברי רבי שמעון</row>
+		<row row_number="5" isdata="1">ר' יהודה אומר עודהו על מצחו מרצה</row>
+		<row row_number="6" isdata="1">אין עודהו על מצחו אינו מרצה אמר לו</row>
+		<row row_number="7" isdata="1">ר"ש כהן גדול ביוה"כ יוכיח שאין עודהו</row>
+		<row row_number="8" isdata="1">על מצחו ומרצה אמר לו ר' יהודה הנח</row>
+		<row row_number="9" isdata="1">לכהן גדול ביוה"כ שטומאה הותרה לו</row>
+		<row row_number="10" isdata="1">בציבור מכלל דר"ש סבר טומאה דחויה</row>
+		<row row_number="11" isdata="1">היא בציבור אמר אביי בנשבר הציץ דכ"ע</row>
+		<row row_number="12" isdata="1">לא פליגי דלא מרצה כי פליגי דתלי בסיכתא</row>
+		<row row_number="13" isdata="1">רבי יהודה סבר על מצח ונשא ורבי שמעון סבר תמיד לרצון לפני ה'</row>
+		<row row_number="14" isdata="1">מאי תמיד אילימא תמיד על מצחו מי משכחת לה מי לא בעי מיעל לבית</row>
+		<row row_number="15" isdata="1">הכסא ומי לא בעי מינם אלא תמיד מרצה הוא ולרבי יהודה נמי הא כתיב</row>
+		<row row_number="16" isdata="1">תמיד ההוא תמיד שלא יסיח דעתו ממנו כדרבה בר רב הונא דאמר רבה</row>
+		<row row_number="17" isdata="1">בר רב הונא חייב אדם למשמש בתפיליו בכל שעה ושעה ק"ו מציץ</row>
+		<row row_number="18" isdata="0">ומה</row>
+</amud>
+</daf>
+</masechet>
+</root>

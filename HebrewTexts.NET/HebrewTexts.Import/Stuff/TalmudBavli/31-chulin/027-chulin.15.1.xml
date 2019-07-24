@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:58.961611</dateCreated>
+   <lastModified>2016-08-04 11:57:58.961611</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="15">
+	<amud value="1">
+		<row row_number="1" isdata="1">כל נרות של מתכת מטלטלין חוץ מן הנר</row>
+		<row row_number="2" isdata="1">שהדליקו בו באותה שבת ודלמא שאני</row>
+		<row row_number="3" isdata="1">התם דהוא דחי ליה בידים אלא אמר</row>
+		<row row_number="4" isdata="1">רב אשי רבי יהודה דמבשל היא דתנן</row>
+		<row row_number="5" isdata="1">המבשל בשבת בשוגג יאכל במזיד לא</row>
+		<row row_number="6" isdata="1">יאכל דברי רבי מאיר רבי יהודה אומר</row>
+		<row row_number="7" isdata="1">בשוגג יאכל במוצאי שבת במזיד לא</row>
+		<row row_number="8" isdata="1">יאכל עולמית רבי יוחנן הסנדלר אומר</row>
+		<row row_number="9" isdata="1">בשוגג יאכל למוצאי שבת לאחרים ולא</row>
+		<row row_number="10" isdata="1">לו במזיד לא יאכל עולמית לא לו ולא</row>
+		<row row_number="11" isdata="1">לאחרים ונוקמה במזיד ורבי מאיר לא סלקא</row>
+		<row row_number="12" isdata="1">דעתך דקתני דומיא דיום הכפורים מה יום</row>
+		<row row_number="13" isdata="1">הכפורים לא שנא בשוגג ולא שנא במזיד</row>
+		<row row_number="14" isdata="1">לא אכיל אף הכא נמי לא שנא בשוגג</row>
+		<row row_number="15" isdata="1">ולא שנא במזיד לא אכיל ומי מצית מוקמת</row>
+		<row row_number="16" isdata="1">לה בשוגג ורבי יהודה והא אף על פי</row>
+		<row row_number="17" isdata="1">שמתחייב בנפשו קתני הכי קאמר אע"פ</row>
+		<row row_number="18" isdata="1">דבמזיד מתחייב בנפשו הוא הכא דבשוגג</row>
+		<row row_number="19" isdata="1">שחיטתו כשרה ונוקמה כרבי יוחנן הסנדלר</row>
+		<row row_number="20" isdata="1">דאמר לא שנא בשוגג ולא שנא במזיד לא</row>
+		<row row_number="21" isdata="1">אכיל רבי יוחנן הסנדלר קמפליג במוצאי</row>
+		<row row_number="22" isdata="1">שבת לאחרים ולא לו תנא דידן שחיטתו כשרה</row>
+		<row row_number="23" isdata="1">קתני לא שנא לו ולא שנא לאחרים תני</row>
+		<row row_number="24" isdata="1">תנא קמיה דרב המבשל בשבת בשוגג</row>
+		<row row_number="25" isdata="1">יאכל במזיד לא יאכל ומשתיק ליה רב</row>
+		<row row_number="26" isdata="1">מאי טעמא משתיק ליה אילימא משום</row>
+		<row row_number="27" isdata="1">דסבירא ליה כרבי יהודה ותנא תני כרבי</row>
+		<row row_number="28" isdata="1">מאיר משום דסבירא ליה כרבי יהודה מאן</row>
+		<row row_number="29" isdata="1">דתני כרבי מאיר משתיק ליה ועוד מי סבר</row>
+		<row row_number="30" isdata="1">לה כרבי יהודה והאמר רב חנן בר אמי</row>
+		<row row_number="31" isdata="1">כי מורי להו רב לתלמידיה מורי להו כר'</row>
+		<row row_number="32" isdata="1">מאיר וכי דריש בפירקא דריש כרבי יהודה</row>
+		<row row_number="33" isdata="1">משום עמי הארץ וכי תימא תנא בפירקיה</row>
+		<row row_number="34" isdata="1">תנא קמיה אטו כולי עלמא לתנא צייתי</row>
+		<row row_number="35" isdata="1">לאמורא צייתי אמר רב נחמן בר יצחק</row>
+		<row row_number="36" isdata="1">תנא שוחט תנא קמיה דרב השוחט בשבת</row>
+		<row row_number="37" isdata="1">בשוגג יאכל במזיד לא יאכל אמר ליה</row>
+		<row row_number="38" isdata="1">מאי דעתיך כרבי מאיר עד כאן לא קשרי</row>
+		<row row_number="39" isdata="1">רבי מאיר אלא במבשל דראוי לכוס אבל</row>
+		<row row_number="40" isdata="1">שוחט דאין ראוי לכוס לא והא מתניתין</row>
+		<row row_number="41" isdata="1">דשוחט הוא ואמר רב הונא דרש חייא</row>
+		<row row_number="42" isdata="1">בר רב משמיה דרב אסורה באכילה ליומא ונסבין חבריא למימר</row>
+		<row row_number="43" isdata="1">רבי יהודה היא הא רבי מאיר שרי כי שרי רבי מאיר</row>
+		<row row_number="44" isdata="0">כגון</row>
+</amud>
+</daf>
+</masechet>
+</root>

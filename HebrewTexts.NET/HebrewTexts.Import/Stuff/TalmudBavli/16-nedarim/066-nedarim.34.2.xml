@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:08.076701</dateCreated>
+   <lastModified>2016-08-04 11:57:08.076701</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="34">
+	<amud value="2">
+		<row row_number="1" isdata="1">אמר רבא היתה לפניו ככר של הפקר ואמר</row>
+		<row row_number="2" isdata="1">ככר זו הקדש נטלה לאוכלה מעל לפי כולה</row>
+		<row row_number="3" isdata="1">להורישה לבניו מעל לפי טובת הנאה שבה</row>
+		<row row_number="4" isdata="1">בעא מיניה רב חייא בר אבין מרבא ככרי</row>
+		<row row_number="5" isdata="1">עליך ונתנה לו במתנה מהו ככרי אמר לו כי</row>
+		<row row_number="6" isdata="1">איתיה ברשותיה הוא דאסור או דלמא עליך</row>
+		<row row_number="7" isdata="1">אמר ליה עילויה שויתיה הקדש א"ל פשיטא</row>
+		<row row_number="8" isdata="1">דאע"ג דיהבה ליה במתנה אסור אלא ככרי</row>
+		<row row_number="9" isdata="1">עליך לאפוקי מאי לאו לאפוקי דאי גנבה מיניה</row>
+		<row row_number="10" isdata="1">מיגנב א"ל לא לאפוקי דאי אזמניה עלה</row>
+		<row row_number="11" isdata="0">איתיביה</row>
+</amud>
+</daf>
+</masechet>
+</root>

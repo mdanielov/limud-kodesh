@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:23.000122</dateCreated>
+   <lastModified>2016-08-04 11:56:23.000122</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="2">
+	<amud value="2">
+		<row row_number="1" isdata="1">דילמא ביאת אורו הוא ומאי וטהר טהר גברא</row>
+		<row row_number="2" isdata="1">אמר רבה בר רב שילא א"כ לימא קרא ויטהר</row>
+		<row row_number="3" isdata="1">מאי וטהר טהר יומא כדאמרי אינשי איערב</row>
+		<row row_number="4" isdata="1">שמשא ואדכי יומא. במערבא הא דרבה בר</row>
+		<row row_number="5" isdata="1">רב שילא לא שמיע להו ובעו לה מיבעיא</row>
+		<row row_number="6" isdata="1">האי ובא השמש ביאת שמשו הוא ומאי וטהר</row>
+		<row row_number="7" isdata="1">טהר יומא או דילמא ביאת אורו הוא ומאי</row>
+		<row row_number="8" isdata="1">וטהר טהר גברא והדר פשטו לה מברייתא</row>
+		<row row_number="9" isdata="1">מדקתני בברייתא סימן לדבר צאת הכוכבים</row>
+		<row row_number="10" isdata="1">שמע מינה ביאת שמשו הוא ומאי וטהר טהר</row>
+		<row row_number="11" isdata="1">יומא: אמר מר משעה שהכהנים נכנסין לאכול</row>
+		<row row_number="12" isdata="1">בתרומתן ורמינהו מאימתי קורין את שמע</row>
+		<row row_number="13" isdata="1">בערבין משהעני נכנס לאכול פתו במלח</row>
+		<row row_number="14" isdata="1">עד שעה שעומד ליפטר מתוך סעודתו. סיפא</row>
+		<row row_number="15" isdata="1">ודאי פליגא אמתניתין. רישא מי לימא פליגי</row>
+		<row row_number="16" isdata="1">אמתני'. לא עני וכהן חד שיעורא הוא. ורמינהו</row>
+		<row row_number="17" isdata="1">מאימתי מתחילין לקרות ק"ש בערבית</row>
+		<row row_number="18" isdata="1">משעה שבני אדם נכנסין לאכול פתן בערבי</row>
+		<row row_number="19" isdata="1">שבתות דברי ר"מ וחכמים אומרים משעה</row>
+		<row row_number="20" isdata="1">שהכהנים זכאין לאכול בתרומתן סימן לדבר</row>
+		<row row_number="21" isdata="1">צאת הכוכבים. ואע"פ שאין ראיה לדבר זכר</row>
+		<row row_number="22" isdata="1">לדבר שנאמר ואנחנו עושים במלאכה וחצים</row>
+		<row row_number="23" isdata="1">מחזיקים ברמחים מעלות השחר עד צאת</row>
+		<row row_number="24" isdata="1">הכוכבים ואומר והיו לנו הלילה משמר והיום</row>
+		<row row_number="25" isdata="1">מלאכה מאי ואומר וכי תימא מכי ערבא</row>
+		<row row_number="26" isdata="1">שמשא ליליא הוא ואינהו דמחשכי ומקדמי</row>
+		<row row_number="27" isdata="1">ת"ש והיו לנו הלילה משמר והיום מלאכה קא</row>
+		<row row_number="28" isdata="1">סלקא דעתך דעני ובני אדם חד שעורא הוא</row>
+		<row row_number="29" isdata="1">ואי אמרת עני וכהן חד שעורא הוא חכמים</row>
+		<row row_number="30" isdata="1">היינו רבי מאיר אלא שמע מינה עני שעורא</row>
+		<row row_number="31" isdata="1">לחוד וכהן שעורא לחוד לא עני וכהן חד</row>
+		<row row_number="32" isdata="1">שעורא הוא ועני ובני אדם לאו חד שעורא</row>
+		<row row_number="33" isdata="1">הוא. ועני וכהן חד שעורא הוא ורמינהו</row>
+		<row row_number="34" isdata="1">מאימתי מתחילין לקרות שמע בערבין משעה</row>
+		<row row_number="35" isdata="1">שקדש היום בערבי שבתות דברי ר' אליעזר</row>
+		<row row_number="36" isdata="1">רבי יהושע אומר משעה שהכהנים מטוהרים</row>
+		<row row_number="37" isdata="1">לאכול בתרומתן רבי מאיר אומר משעה</row>
+		<row row_number="38" isdata="1">שהכהנים טובלין לאכול בתרומתן אמר לו</row>
+		<row row_number="39" isdata="1">ר' יהודה והלא כהנים מבעוד יום הם טובלים</row>
+		<row row_number="40" isdata="1">ר' חנינא אומר משעה שעני נכנס לאכול פתו</row>
+		<row row_number="41" isdata="1">במלח ר' אחאי ואמרי לה ר' אחא אומר</row>
+		<row row_number="42" isdata="1">משעה שרוב בני אדם נכנסין להסב. ואי</row>
+		<row row_number="43" isdata="1">אמרת עני וכהן חד שעורא הוא ר' חנינא היינו</row>
+		<row row_number="44" isdata="1">ר' יהושע אלא לאו שמע מינה שעורא דעני</row>
+		<row row_number="45" isdata="1">לחוד ושעורא דכהן לחוד שמע מינה. הי</row>
+		<row row_number="46" isdata="1">מנייהו מאוחר מסתברא דעני מאוחר דאי</row>
+		<row row_number="47" isdata="1">אמרת דעני מוקדם ר' חנינא היינו ר' אליעזר</row>
+		<row row_number="48" isdata="1">אלא לאו שמע מינה דעני מאוחר שמע</row>
+		<row row_number="49" isdata="1">מינה: אמר מר אמר ליה רבי יהודה והלא</row>
+		<row row_number="50" isdata="1">כהנים מבעוד יום הם טובלים שפיר קאמר ליה רבי יהודה לרבי מאיר ורבי מאיר</row>
+		<row row_number="51" isdata="1">הכי קאמר ליה מי סברת דאנא אבין השמשות דידך קא אמינא אנא אבין</row>
+		<row row_number="52" isdata="1">השמשות דרבי יוסי קא אמינא דאמר רבי יוסי בין השמשות כהרף עין זה נכנס וזה יוצא ואי אפשר לעמוד עליו</row>
+		<row row_number="53" isdata="0">קשיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

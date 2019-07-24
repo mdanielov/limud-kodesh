@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:47.132503</dateCreated>
+   <lastModified>2016-08-04 11:56:47.132503</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="49">
+	<amud value="1">
+		<row row_number="1" isdata="1">מיתיבי זר ואונן שיכור ובעל מום בקבלה</row>
+		<row row_number="2" isdata="1">ובהולכה ובזריקה פסול וכן יושב וכן שמאל</row>
+		<row row_number="3" isdata="1">פסול תיובתא והא רב ששת הוא דאותבה</row>
+		<row row_number="4" isdata="1">דאמר ליה רב ששת לאמוריה דרב חסדא</row>
+		<row row_number="5" isdata="1">בעי מיניה מרב חסדא הולכה בזר מהו</row>
+		<row row_number="6" isdata="1">אמר ליה כשירה ומקרא מסייעני וישחטו</row>
+		<row row_number="7" isdata="1">הפסח ויזרקו הכהנים מידם והלוים מפשיטים</row>
+		<row row_number="8" isdata="1">ומותיב רב ששת זר ואונן שיכור ובעל מום</row>
+		<row row_number="9" isdata="1">בקבלה ובהולכה ובזריקה פסול וכן יושב</row>
+		<row row_number="10" isdata="1">וכן שמאל פסול בתר דשמעה הדר אותבה</row>
+		<row row_number="11" isdata="1">והא רב חסדא קרא קאמר דעבוד מעשה</row>
+		<row row_number="12" isdata="1">איצטבא בעי רב פפא חפן חבירו ונתן</row>
+		<row row_number="13" isdata="1">לתוך חפניו מהו מלא חפניו בעינן והא</row>
+		<row row_number="14" isdata="1">איכא או דילמא ולקח והביא בעינן והא</row>
+		<row row_number="15" isdata="1">ליכא תיקו בעי רבי יהושע בן לוי חפן ומת</row>
+		<row row_number="16" isdata="1">מהו שיכנס אחר בחפינתו א"ר חנינא בא</row>
+		<row row_number="17" isdata="1">וראה שאלת הראשונים למימרא דרבי</row>
+		<row row_number="18" isdata="1">יהושע בן לוי קשיש והאמר רבי יהושע</row>
+		<row row_number="19" isdata="1">בן לוי לי התיר רבי חנינא לשתות שחליים</row>
+		<row row_number="20" isdata="1">בשבת לשתות פשיטא דתנן כל האוכלין</row>
+		<row row_number="21" isdata="1">אוכל אדם לרפואה וכל המשקין שותה</row>
+		<row row_number="22" isdata="1">אלא לשחוק ולשתות שחליים בשבת היכי</row>
+		<row row_number="23" isdata="1">דמי אי דאיכא סכנתא משרא שרי ואי</row>
+		<row row_number="24" isdata="1">דליכא סכנתא מיסר אסיר לעולם דאיכא</row>
+		<row row_number="25" isdata="1">סכנתא והכי קא מבעיא ליה מי מסיא</row>
+		<row row_number="26" isdata="1">דניחול עלייהו שבתא או לא מסיא ולא</row>
+		<row row_number="27" isdata="1">ניחול עלייהו שבתא ומאי שנא רבי חנינא</row>
+		<row row_number="28" isdata="1">משום דבקי ברפואות הוא דאמר ר' חנינא</row>
+		<row row_number="29" isdata="1">מעולם לא שאלני אדם על מכת פרדה</row>
+		<row row_number="30" isdata="1">לבנה וחיה והא קא חזינן דחיי אימא וחיית</row>
+		<row row_number="31" isdata="1">והא קא חזינן דמיתסי בסומקן אינהו וחיורן</row>
+		<row row_number="32" isdata="1">ריש כרעיהו קאמרינן מכל מקום שמע מינה</row>
+		<row row_number="33" isdata="1">דרבי חנינא קשיש אלא הכי קאמר שאלתן</row>
+		<row row_number="34" isdata="1">כשאילה של ראשונים ומי אמר רבי חנינא</row>
+		<row row_number="35" isdata="1">הכי והאמר רבי חנינא בפר ולא בדמו</row>
+		<row row_number="36" isdata="1">של פר ואמר רבי חנינא קטורת שחפנה</row>
+		<row row_number="37" isdata="1">קודם שחיטת הפר לא עשה ולא כלום</row>
+		<row row_number="38" isdata="1">הכי קאמר מדקא מיבעיא ליה הא מכלל</row>
+		<row row_number="39" isdata="1">דקסבר בפר ואפילו בדמו של פר ולמאי</row>
+		<row row_number="40" isdata="1">דסבירא ליה שאילתו כשאילת הראשונים</row>
+		<row row_number="41" isdata="1">מאי הוי עלה אמר רב פפא אי חופן חוזר</row>
+		<row row_number="42" isdata="1">וחופן חבירו נכנס בחפינתו דהא מקיימא</row>
+		<row row_number="43" isdata="1">חפינה אי אין חופן וחוזר וחופן תבעי לך אמר ליה רב הונא בריה דרב</row>
+		<row row_number="44" isdata="1">יהושע לרב פפא אדרבה אי חופן וחוזר וחופן לא יכנס אחר בחפינתו</row>
+		<row row_number="45" isdata="1">אי אפשר שלא יחסר ושלא יותיר ואי אין חופן חוזר וחופן תיבעי לך</row>
+		<row row_number="46" isdata="1">דאיבעיא להו חופן חוזר וחופן או לא תא שמע כך היתה מידתה</row>
+		<row row_number="47" isdata="1">מאי לאו כשם שמדתה מבחוץ כך מדתה מבפנים לא דילמא שאם</row>
+		<row row_number="48" isdata="1">רצה לעשות מדה עושה אי נמי שלא יחסר ושלא יותיר תא שמע</row>
+		<row row_number="49" isdata="0">כיצד</row>
+</amud>
+</daf>
+</masechet>
+</root>

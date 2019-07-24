@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:45.038815</dateCreated>
+   <lastModified>2016-08-04 11:57:45.038815</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="27">
+	<amud value="1">
+		<row row_number="1" isdata="1">מתני' נשבע לבטל את המצוה ולא</row>
+		<row row_number="2" isdata="1">ביטל פטור לקיים ולא קיים פטור שהיה</row>
+		<row row_number="3" isdata="1">בדין שיהא חייב כדברי ר' יהודה בן בתירא</row>
+		<row row_number="4" isdata="1">א"ר יהודה בן בתירא מה אם הרשות שאינו</row>
+		<row row_number="5" isdata="1">מושבע עליו מהר סיני הרי הוא חייב עליו</row>
+		<row row_number="6" isdata="1">מצוה שהוא מושבע עליה מהר סיני אינו</row>
+		<row row_number="7" isdata="1">דין שיהא חייב עליה אמרו לו לא אם אמרת</row>
+		<row row_number="8" isdata="1">בשבועת הרשות שכן עשה בה לאו כהן</row>
+		<row row_number="9" isdata="1">תאמר בשבועת מצוה שלא עשה בה לאו</row>
+		<row row_number="10" isdata="1">כהן שאם נשבע לבטל ולא ביטל פטור:</row>
+		<row row_number="11" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר יכול נשבע לבטל את המצוה</row>
+		<row row_number="12" isdata="1">ולא ביטל יהא חייב ת"ל להרע או להיטיב</row>
+		<row row_number="13" isdata="1">מה הטבה רשות אף הרעה רשות אוציא</row>
+		<row row_number="14" isdata="1">נשבע לבטל את המצוה ולא ביטל שהוא</row>
+		<row row_number="15" isdata="1">פטור יכול נשבע לקיים את המצוה ולא</row>
+		<row row_number="16" isdata="1">קיים שיהא חייב ת"ל להרע או להיטיב מה</row>
+		<row row_number="17" isdata="1">הרעה רשות אף הטבה רשות אוציא נשבע</row>
+		<row row_number="18" isdata="1">לקיים את המצוה ולא קיים שהוא פטור יכול</row>
+		<row row_number="19" isdata="1">נשבע להרע לעצמו ולא הרע יכול יהא</row>
+		<row row_number="20" isdata="1">פטור ת"ל להרע או להיטיב מה הטבה</row>
+		<row row_number="21" isdata="1">רשות אף הרעה רשות אביא נשבע להרע</row>
+		<row row_number="22" isdata="1">לעצמו ולא הרע שהרשות בידו יכול נשבע</row>
+		<row row_number="23" isdata="1">להרע לאחרים ולא הרע שיהא חייב ת"ל</row>
+		<row row_number="24" isdata="1">להרע או להיטיב מה הטבה רשות אף הרעה</row>
+		<row row_number="25" isdata="1">רשות אוציא נשבע להרע לאחרים ולא הרע</row>
+		<row row_number="26" isdata="1">שאין הרשות בידו מנין לרבות הטבת אחרים</row>
+		<row row_number="27" isdata="1">ת"ל או להיטיב ואיזו היא הרעת אחרים</row>
+		<row row_number="28" isdata="1">אכה את פלוני ואפצע את מוחו וממאי</row>
+		<row row_number="29" isdata="1">דקראי בדבר הרשות כתיבי דלמא בדבר</row>
+		<row row_number="30" isdata="1">מצוה כתיבי לא ס"ד דבעינן הטבה דומיא</row>
+		<row row_number="31" isdata="1">דהרעה והרעה דומיא דהטבה דאקיש הרעה</row>
+		<row row_number="32" isdata="1">להטבה מה הטבה אינה בביטול מצוה אף</row>
+		<row row_number="33" isdata="1">הרעה אינה בביטול מצוה הרעה גופה</row>
+		<row row_number="34" isdata="1">הטבה היא ואקיש הטבה להרעה מה הרעה</row>
+		<row row_number="35" isdata="1">אינה בקיום מצוה אף הטבה אינה בקיום</row>
+		<row row_number="36" isdata="1">מצוה הטבה גופה הרעה היא אי הכי בדבר</row>
+		<row row_number="37" isdata="1">הרשות נמי לא משכחת לה אלא מדאיצטריך</row>
+		<row row_number="38" isdata="1">או לרבות הטבת אחרים ש"מ בדבר הרשות</row>
+		<row row_number="39" isdata="1">כתיבי דאי ס"ד בדבר מצוה כתיבי</row>
+		<row row_number="40" isdata="1">השתא הרעת אחרים איתרבי הטבת</row>
+		<row row_number="41" isdata="1">אחרים מיבעיא והאי או מיבעי ליה לחלק</row>
+		<row row_number="42" isdata="1">לחלק לא צריך קרא הניחא לר' יונתן</row>
+		<row row_number="43" isdata="1">אלא לר' יאשיה מאי איכא למימר דתניא</row>
+		<row row_number="44" isdata="1">איש אשר יקלל את אביו ואת אמו אין</row>
+		<row row_number="45" isdata="1">לי אלא אביו ואמו אביו ולא אמו אמו ולא</row>
+		<row row_number="46" isdata="1">אביו מנין ת"ל אביו ואמו קלל אביו קלל</row>
+		<row row_number="47" isdata="1">אמו קלל דברי ר' יאשי' ר' יונתן אומר משמע</row>
+		<row row_number="48" isdata="1">שניהם כאחד ומשמע אחד בפני עצמו</row>
+		<row row_number="49" isdata="0">עד</row>
+</amud>
+</daf>
+</masechet>
+</root>

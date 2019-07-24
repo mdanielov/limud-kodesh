@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:50.780711</dateCreated>
+   <lastModified>2016-08-04 11:56:50.780711</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "ביצה"/><StartMishna/>ביצה</row>
+		<row row_number="2" isdata="1">שנולדה ביום טוב בית שמאי אומרים</row>
+		<row row_number="3" isdata="1">תאכל ובית הלל אומרים לא תאכל בית</row>
+		<row row_number="4" isdata="1">שמאי אומרים שאור בכזית וחמץ בככותבת</row>
+		<row row_number="5" isdata="1">ובית הלל אומרים זה וזה בכזית השוחט</row>
+		<row row_number="6" isdata="1">חיה ועוף ביום טוב בית שמאי אומרים</row>
+		<row row_number="7" isdata="1">יחפור בדקר ויכסה ובית הלל אומרים לא</row>
+		<row row_number="8" isdata="1">ישחוט אלא אם כן היה לו עפר מוכן</row>
+		<row row_number="9" isdata="1">מבעוד יום ומודים שאם שחט שיחפור</row>
+		<row row_number="10" isdata="1">בדקר ויכסה שאפר כירה מוכן הוא:</row>
+		<row row_number="11" isdata="1"><EndMishna/><StartGemara/>גמ' במאי עסקינן אילימא בתרנגולת העומדת</row>
+		<row row_number="12" isdata="1">לאכילה מאי טעמייהו דבית הלל אוכלא</row>
+		<row row_number="13" isdata="1">דאפרת הוא אלא בתרנגולת העומדת לגדל</row>
+		<row row_number="14" isdata="1">ביצים מאי טעמייהו דבית שמאי מוקצה</row>
+		<row row_number="15" isdata="1">היא ומאי קושיא דלמא בית שמאי לית</row>
+		<row row_number="16" isdata="1">להו מוקצה קא סלקא דעתין אפילו מאן</row>
+		<row row_number="17" isdata="1">דשרי במוקצה בנולד אסר מאי טעמייהו</row>
+		<row row_number="18" isdata="1">דבית שמאי אמר רב נחמן לעולם בתרנגולת</row>
+		<row row_number="19" isdata="1">העומדת לגדל ביצים ודאית ליה מוקצה</row>
+		<row row_number="20" isdata="1">אית ליה נולד ודלית ליה מוקצה לית ליה</row>
+		<row row_number="21" isdata="1">נולד בית שמאי כר' שמעון ובית הלל כר'</row>
+		<row row_number="22" isdata="1">יהודה ומי אמר רב נחמן הכי והתנן בית שמאי</row>
+		<row row_number="23" isdata="1">אומרים מגביהין מעל השלחן עצמות</row>
+		<row row_number="24" isdata="1">וקליפין ובית הלל אומרים מסלק את הטבלא</row>
+		<row row_number="25" isdata="1">כולה ומנערה ואמר רב נחמן אנו אין לנו אלא</row>
+		<row row_number="26" isdata="1">בית שמאי כרבי יהודה ובית הלל כר"ש אמר</row>
+		<row row_number="27" isdata="1">לך רב נחמן גבי שבת דסתם לן תנא</row>
+		<row row_number="28" isdata="1">כרבי שמעון דתנן מחתכין את הדלועין</row>
+		<row row_number="29" isdata="1">לפני הבהמה ואת הנבלה לפני הכלבים</row>
+		<row row_number="30" isdata="1">מוקים לה לבית הלל כרבי שמעון אבל</row>
+		<row row_number="31" isdata="0">גבי</row>
+</amud>
+</daf>
+</masechet>
+</root>

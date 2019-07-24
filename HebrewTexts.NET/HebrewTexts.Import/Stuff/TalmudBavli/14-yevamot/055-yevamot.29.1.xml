@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:58.254139</dateCreated>
+   <lastModified>2016-08-04 11:56:58.254139</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="29">
+	<amud value="1">
+		<row row_number="1" isdata="1">והא א"ר שמעון שתי אחיות לא חולצות</row>
+		<row row_number="2" isdata="1">ולא מתייבמות גזירה משום איסור מצוה</row>
+		<row row_number="3" isdata="1">דעלמא הא תינח איהי אחותה מאי איכא</row>
+		<row row_number="4" isdata="1">למימר גזירה אחותה משום לתא דידה והא</row>
+		<row row_number="5" isdata="1">גבי ערוה לא גזרינן שאני ערוה דמגמר גמירי</row>
+		<row row_number="6" isdata="1">לה אינשי וקלא אית לה<EndGemara/><StartMishna/>: מתני' שלשה</row>
+		<row row_number="7" isdata="1">אחין שנים נשואים שתי אחיות ואחד מופנה</row>
+		<row row_number="8" isdata="1">מת אחד מבעלי אחיות ועשה בה מופנה</row>
+		<row row_number="9" isdata="1">מאמר ואח"כ מת אחיו השני בש"א אשתו</row>
+		<row row_number="10" isdata="1">עמו והלזו תצא משום אחות אשה וב"ה</row>
+		<row row_number="11" isdata="1">אומרים מוציא את אשתו בגט ובחליצה</row>
+		<row row_number="12" isdata="1">ואשת אחיו בחליצה זו היא שאמרו אוי לו</row>
+		<row row_number="13" isdata="1">על אשתו ואוי לו על אשת אחיו: <EndMishna/><StartGemara/>גמ' זו</row>
+		<row row_number="14" isdata="1">היא למעוטי מאי למעוטי הך דר' יהושע דלא</row>
+		<row row_number="15" isdata="1">עבדינן כוותיה אלא אי כר"ג אי כר"א א"ר</row>
+		<row row_number="16" isdata="1">אלעזר לא תימא מאמר לב"ש קונה קנין</row>
+		<row row_number="17" isdata="1">גמור דאי בעי לאפוקי סגי לה בגיטא אלא</row>
+		<row row_number="18" isdata="1">מאמר לב"ש אינו קונה אלא לדחות בצרה</row>
+		<row row_number="19" isdata="1">בלבד אמר רבי אבין אף אנן נמי תנינא</row>
+		<row row_number="20" isdata="1">בש"א יקיימו יקיימו אין לכתחלה לא</row>
+		<row row_number="21" isdata="0">ואי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:22.392519</dateCreated>
+   <lastModified>2016-08-04 11:57:22.392519</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="45">
+	<amud value="2">
+		<row row_number="1" isdata="1">דאמר שוכר כשומר חנם דמי ליתני חוץ</row>
+		<row row_number="2" isdata="1">משומר חנם והשוכר ואי כר"י דאמר שוכר</row>
+		<row row_number="3" isdata="1">כנושא שכר דמי ניתני חוץ משומר חנם וכולן</row>
+		<row row_number="4" isdata="1">במועדין פטורין לענין כופר אמר רב הונא</row>
+		<row row_number="5" isdata="1">בר חיננא הא מני ר"א היא דאמר אין לו</row>
+		<row row_number="6" isdata="1">שמירה אלא סכין ולענין שוכר סבר לה</row>
+		<row row_number="7" isdata="1">כר"י דאמר שוכר כנושא שכר דמי אביי</row>
+		<row row_number="8" isdata="1">אמר לעולם כר' מאיר וכדמחליף רבה בר</row>
+		<row row_number="9" isdata="1">אבוה ותני שוכר כיצד משלם ר"מ אומר</row>
+		<row row_number="10" isdata="1">כשומר שכר רבי יהודה אומר כשומר חנם</row>
+		<row row_number="11" isdata="1">א"ר אלעזר מסר שורו לשומר חנם הזיק חייב</row>
+		<row row_number="12" isdata="1">הוזק פטור אמרי היכי דמי אי דקביל עליה</row>
+		<row row_number="13" isdata="1">שמירת נזקיו אפילו הוזק נמי ליחייב ואי</row>
+		<row row_number="14" isdata="1">דלא קביל עליה שמירת נזקיו אפילו הזיק</row>
+		<row row_number="15" isdata="1">נמי ליפטר אמר רבא לעולם שקיבל עליו</row>
+		<row row_number="16" isdata="1">שמירת נזקיו והכא במאי עסקינן כגון שהכיר</row>
+		<row row_number="17" isdata="1">בו שהוא נגחן וסתמא דמילתא דלא אזיל</row>
+		<row row_number="18" isdata="1">איהו ומזיק אחריני קביל עליה דאתי אחריני</row>
+		<row row_number="19" isdata="1">ומזקי ליה לדידיה לא אסיק אדעתיה:</row>
+		<row row_number="20" isdata="1">מתני' קשרו בעליו במוסרה ונעל בפניו</row>
+		<row row_number="21" isdata="1">כראוי ויצא והזיק אחד תם ואחד מועד חייב</row>
+		<row row_number="22" isdata="1">דברי ר"מ רבי יהודה אומר תם חייב ומועד</row>
+		<row row_number="23" isdata="1">פטור שנאמר ולא ישמרנו בעליו ושמור</row>
+		<row row_number="24" isdata="1">הוא זה ר"א אומר אין לו שמירה אלא סכין:</row>
+		<row row_number="25" isdata="1"><EndMishna/><StartGemara/>גמ' מאי טעמא דר"מ קסבר סתם שוורים</row>
+		<row row_number="26" isdata="1">לאו בחזקת שימור קיימי ואמר רחמנא תם</row>
+		<row row_number="27" isdata="1">ניחייב דניבעי ליה שמירה פחותה הדר אמר</row>
+		<row row_number="28" isdata="1">רחמנא ולא ישמרנו גבי מועד דנבעי ליה</row>
+		<row row_number="29" isdata="1">שמירה מעולה ויליף נגיחה לתם נגיחה</row>
+		<row row_number="30" isdata="1">למועד ר"י סבר סתם שוורים בחזקת שימור</row>
+		<row row_number="31" isdata="1">קיימי אמר רחמנא תם נשלם דניבעי ליה שמירה מעולה הדר אמר רחמנא</row>
+		<row row_number="32" isdata="1">ולא ישמרנו גבי מועד דנעביד ליה שמירה מעולה הוי ריבוי אחר ריבוי</row>
+		<row row_number="33" isdata="1">ואין ריבוי אחר ריבוי אלא למעט מיעט הכתוב לשמירה מעולה וכי תימא</row>
+		<row row_number="34" isdata="1">נגיחה לתם נגיחה למועד הא מיעט רחמנא ולא ישמרנו לזה ולא לאחר</row>
+		<row row_number="35" isdata="1">והא מיבעי ליה ללאו אם כן נכתוב רחמנא ולא ישמור מאי ולא ישמרנו</row>
+		<row row_number="36" isdata="1">לזה ולא לאחר תניא ר"א בן יעקב אומר אחד תם ואחד מועד ששמרו</row>
+		<row row_number="37" isdata="1">שמירה פחותה פטור מאי טעמא סבר לה כר"י דאמר מועד בשמירה</row>
+		<row row_number="38" isdata="1">פחותה סגי ליה ויליף נגיחה לתם ונגיחה למועד אמר רב אדא בר אהבה</row>
+		<row row_number="39" isdata="1">לא פטר ר"י אלא צד העדאה שבו אבל צד תמות במקומה עומדת אמר</row>
+		<row row_number="40" isdata="1">רב מועד לקרן ימין אינו מועד לקרן שמאל אמרי אליבא דמאן אי אליבא</row>
+		<row row_number="41" isdata="1">דר"מ האמר אחד תם ואחד מועד שמירה מעולה בעי אי אליבא דרבי</row>
+		<row row_number="42" isdata="1">יהודה מאי אריא קרן שמאל אפילו בימין נמי אית ביה צד תמות ואית</row>
+		<row row_number="43" isdata="1">ביה צד מועדת אמרי לעולם כרבי יהודה ולא סבירא ליה דרב אדא בר</row>
+		<row row_number="44" isdata="1">אהבה והכי קאמר כי האי גוונא הוא דמשכחת ביה צד תמות ומועדת</row>
+		<row row_number="45" isdata="0">אבל</row>
+</amud>
+</daf>
+</masechet>
+</root>

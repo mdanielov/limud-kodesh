@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:12.030927</dateCreated>
+   <lastModified>2016-08-04 11:57:12.030927</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="54">
+	<amud value="2">
+		<row row_number="1" isdata="1">ואינו סותר את הקודמים ומתחיל ומונה מיד</row>
+		<row row_number="2" isdata="1">וקרבן אין לו באמת אמרו ימי הזב והזבה</row>
+		<row row_number="3" isdata="1">וימי הסגרו של מצורע הרי אלו עולין לו:</row>
+		<row row_number="4" isdata="1"><EndMishna/><StartGemara/>גמ' ואלו הן הסככות אילן המיסך על</row>
+		<row row_number="5" isdata="1">הארץ ופרעות היוצאות מן הגדר: וארץ</row>
+		<row row_number="6" isdata="1">העמים: איבעיא להו ארץ העמים משום</row>
+		<row row_number="7" isdata="1">אוירא גזרו עליה או דילמא משום גושא</row>
+		<row row_number="8" isdata="1">גזרו עליה ת"ש ומזה בשלישי ובשביעי ואי</row>
+		<row row_number="9" isdata="1">אמרת משום אוירא הזאה למה לי אלא לאו</row>
+		<row row_number="10" isdata="1">משום גושא לא לעולם אימא לך משום</row>
+		<row row_number="11" isdata="1">אוירא וכי קתני אשארא הכי נמי מסתברא</row>
+		<row row_number="12" isdata="1">מדקתני וכלים הנוגעים במת הני כלים</row>
+		<row row_number="13" isdata="1">בני הזאה אינון אלא שמע מינה אשארא</row>
+		<row row_number="14" isdata="0">לימא</row>
+</amud>
+</daf>
+</masechet>
+</root>

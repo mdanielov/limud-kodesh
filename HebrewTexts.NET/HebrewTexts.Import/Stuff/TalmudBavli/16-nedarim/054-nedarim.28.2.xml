@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:07.867689</dateCreated>
+   <lastModified>2016-08-04 11:57:07.867689</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="28">
+	<amud value="2">
+		<row row_number="1" isdata="1">אין להם פדיון: <EndMishna/><StartGemara/>גמ' וליתני קדושות ואין</row>
+		<row row_number="2" isdata="1">קדושות איידי דבעי למיתנא סיפא אין להם</row>
+		<row row_number="3" isdata="1">פדיון תנא נמי רישא יש להם פדיון היכי נדר</row>
+		<row row_number="4" isdata="1">אמר אמימר באומר אם אינן נקצצות היום</row>
+		<row row_number="5" isdata="1">ועבר היום ולא נקצצו אם כן למה לי למימר</row>
+		<row row_number="6" isdata="1">פשיטא לא צריכא כגון דאיכא זיקא נפישא</row>
+		<row row_number="7" isdata="1">והא קתני לה גבי טלית וטלית לשריפה</row>
+		<row row_number="8" isdata="1">קיימא [אין] כגון דאיכא דליקה ה"נ דאיכא</row>
+		<row row_number="9" isdata="1">זיקא נפישא וס"ד דמסיק אדעתיה דלא</row>
+		<row row_number="10" isdata="1">מיתנצלן ומשום הכי קא נדר קמ"ל: הרי</row>
+		<row row_number="11" isdata="1">נטיעות האלו קרבן כו': ולעולם אמר בר</row>
+		<row row_number="12" isdata="1">פדא פדאן חוזרות וקודשות פדאן חוזרות</row>
+		<row row_number="13" isdata="1">וקודשות עד שיקצצו נקצצו פודן פעם אחת</row>
+		<row row_number="14" isdata="1">ודיו ועולא אמר כיון שנקצצו שוב אין פודן</row>
+		<row row_number="15" isdata="0">א"ל</row>
+</amud>
+</daf>
+</masechet>
+</root>

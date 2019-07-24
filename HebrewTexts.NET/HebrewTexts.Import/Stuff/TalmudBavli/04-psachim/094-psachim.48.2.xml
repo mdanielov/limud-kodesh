@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:41.510181</dateCreated>
+   <lastModified>2016-08-04 11:56:41.510181</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="48">
+	<amud value="2">
+		<row row_number="1" isdata="1">חמשת רבעים קמח ועוד חייבין בחלה הכי</row>
+		<row row_number="2" isdata="1">קאמר קבא מלוגנאי נמי אהאי שיעורא קאי</row>
+		<row row_number="3" isdata="1">אמר רב יוסף הני נשי דידן נהוג למיפא</row>
+		<row row_number="4" isdata="1">קפיזא קפיזא לפיסחא א"ל אביי מאי דעתיך</row>
+		<row row_number="5" isdata="1">לחומרא חומרא דאתי לידי קולא הוא דקא</row>
+		<row row_number="6" isdata="1">מפקע לה מחלה א"ל דעבדן כר' אליעזר</row>
+		<row row_number="7" isdata="1">(דתניא) רבי אליעזר אומר הרודה ונותן</row>
+		<row row_number="8" isdata="1">לסל הסל מצרפן לחלה ואמר רב יהודה</row>
+		<row row_number="9" isdata="1">אמר שמואל הלכה כרבי אליעזר א"ל והא איתמר עלה אמר רבי יהושע בן</row>
+		<row row_number="10" isdata="1">לוי לא שנו אלא ככרות של בבל שנושכות זו מזו אבל כעכין לא הא איתמר</row>
+		<row row_number="11" isdata="1">עלה א"ר חנינא אפי' כעכין בעי ר' ירמיה טבלא שאין לה לבזבזין מהו תוך</row>
+		<row row_number="12" isdata="1">כלי בעינן והא ליכא או דילמא אויר כלי בעינן והא איכא תיקו: תניא ר' אליעזר</row>
+		<row row_number="13" isdata="1">אומר הסל מצרפן ר' יהושע אומר תנור מצרפן רבן שמעון בן גמליאל אומר</row>
+		<row row_number="14" isdata="1">ככרות של בבל שנושכות זו מזו מצטרפות<EndGemara/><StartMishna/>: מתני' רבן גמליאל אומר שלש</row>
+		<row row_number="15" isdata="1">נשים לשות כאחת ואופות בתנור אחד זו אחר זו וחכמים אומרים שלש נשים</row>
+		<row row_number="16" isdata="1">עוסקות בבצק כאחת אחת לשה ואחת עורכת ואחת אופה ר' עקיבא אומר לא</row>
+		<row row_number="17" isdata="1">כל הנשים ולא כל העצים ולא כל התנורים שוין זה הכלל תפח תלטוש בצונן:</row>
+		<row row_number="18" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר לשה היא מקטפת וחבירתה לשה תחתיה מקטפת היא אופה וחבירתה</row>
+		<row row_number="19" isdata="1">מקטפת תחתיה והשלישית לשה אופה היא לשה וחבירתה אופה תחתיה</row>
+		<row row_number="20" isdata="1">והשלישית מקטפת וחוזרת חלילה כל זמן שעוסקות בבצק אינו בא לידי</row>
+		<row row_number="21" isdata="1">חימוץ: ר"ע אומר לא כל הנשים וכו': תניא אמר רבי עקיבא דנתי לפני רבן</row>
+		<row row_number="22" isdata="1">גמליאל ילמדינו רבינו בנשים זריזות או בנשים שאין זריזות בעצים לחים או</row>
+		<row row_number="23" isdata="1">בעצים יבשים בתנור חם או בתנור צונן אמר לי אין לך אלא מה ששנו חכמים</row>
+		<row row_number="24" isdata="1">זה הכלל תפח תלטוש בצונן<EndGemara/><StartMishna/>: מתני' שיאור ישרף והאוכלו פטור סידוק</row>
+		<row row_number="25" isdata="1">ישרף והאוכלו חייב כרת איזהו שיאור כקרני חגבים סידוק שנתערבו סדקין</row>
+		<row row_number="26" isdata="1">זה בזה דברי רבי יהודה וחכמים אומרים זה וזה האוכלו חייב כרת ואיזהו</row>
+		<row row_number="27" isdata="1">שיאור כל שהכסיפו פניו כאדם שעמדו שערותיו: <EndMishna/><StartGemara/>גמ' תנו רבנן איזהו</row>
+		<row row_number="28" isdata="1">שיאור כל שהכסיפו פניו כאדם שעמדו שערותיו סידוק כקרני חגבים</row>
+		<row row_number="29" isdata="1">דברי ר' מאיר וחכמים אומרים איזהו שיאור כקרני חגבים סידוק שנתערבו</row>
+		<row row_number="30" isdata="1">סדקין זה בזה וזה וזה האוכלו חייב כרת והאנן תנן שיאור ישרף והאוכלו פטור</row>
+		<row row_number="31" isdata="1">דברי רבי יהודה אימא לרבי מאיר זה וזה האוכלו חייב כרת אמר רבא מאי</row>
+		<row row_number="32" isdata="1">טעמא דר' מאיר אין לך כל סדק וסדק מלמעלה שאין לו כמה סדקים מלמטה:</row>
+		<row row_number="33" isdata="0">מתני'</row>
+</amud>
+</daf>
+</masechet>
+</root>

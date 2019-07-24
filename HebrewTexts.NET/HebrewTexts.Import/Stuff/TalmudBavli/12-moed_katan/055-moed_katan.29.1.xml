@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:56.232023</dateCreated>
+   <lastModified>2016-08-04 11:56:56.232023</lastModified>
+ </meta>
+ <masechet name="מועד קטן" serial="12">
+<daf value="29">
+	<amud value="1">
+		<row row_number="1" isdata="1">כציפורי בפי הוושט רבי יוחנן אמר כפטירי בפי</row>
+		<row row_number="2" isdata="1">וושט ואמר רבי לוי בר חיתא הנפטר מן המת</row>
+		<row row_number="3" isdata="1">לא יאמר לו לך לשלום אלא לך [א] בשלום הנפטר</row>
+		<row row_number="4" isdata="1">מן החי לא יאמר לו לך בשלום אלא לך [ב] לשלום</row>
+		<row row_number="5" isdata="1">הנפטר מן המת לא יאמר לו לך לשלום אלא לך</row>
+		<row row_number="6" isdata="1">בשלום שנאמר ואתה תבא אל אבותיך בשלום</row>
+		<row row_number="7" isdata="1">הנפטר מן החי לא יאמר לו לך בשלום אלא לך</row>
+		<row row_number="8" isdata="1">לשלום שהרי דוד שאמר לאבשלום לך בשלום</row>
+		<row row_number="9" isdata="1">הלך ונתלה יתרו שאמר למשה לך לשלום הלך והצליח ואמר רבי לוי כל היוצא מבית הכנסת</row>
+		<row row_number="10" isdata="1">לבית המדרש ומבית המדרש לבית הכנסת זוכה ומקבל פני שכינה שנאמר ילכו מחיל אל חיל</row>
+		<row row_number="11" isdata="1">יראה אל אלהים בציון אמר רב חייא בר אשי אמר רב תלמידי חכמים אין להם מנוחה אפילו</row>
+		<row row_number="12" isdata="1">לעולם הבא שנאמר ילכו מחיל אל חיל יראה אל אלהים בציון:<EndChapter name = "ואלו מגלחין "/><EndGemara/></row>
+		<row row_number="13" isdata="0">הדרן עלך ואלו מגלחין וסליקא לה מסכת מועד קטן</row>
+</amud>
+</daf>
+</masechet>
+</root>

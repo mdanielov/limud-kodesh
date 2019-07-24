@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:23.632590</dateCreated>
+   <lastModified>2016-08-04 11:57:23.632590</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="75">
+	<amud value="1">
+		<row row_number="1" isdata="1">שלא בבית דין הוה קאי והתניא אמר לו</row>
+		<row row_number="2" isdata="1">אין בדבריך כלום שכבר הודית מאי לאו</row>
+		<row row_number="3" isdata="1">תנאי היא האי תנא דאמר שכבר אין לך</row>
+		<row row_number="4" isdata="1">עדים סבר מודה בקנס ואחר כך באו עדים</row>
+		<row row_number="5" isdata="1">חייב והאי תנא דאמר שכבר הודית סבר</row>
+		<row row_number="6" isdata="1">מודה בקנס ואח"כ באו עדים פטור לא</row>
+		<row row_number="7" isdata="1">דכ"ע מודה בקנס ואח"כ באו עדים פטור</row>
+		<row row_number="8" isdata="1">ובהא קמיפלגי האי תנא דאמר שכבר אין</row>
+		<row row_number="9" isdata="1">לך עדים סבר חוץ לב"ד הוה והך תנא דאמר</row>
+		<row row_number="10" isdata="1">שכבר הודית סבר בבית דין הוה: איתמר</row>
+		<row row_number="11" isdata="1">מודה בקנס ואח"כ באו עדים רב אמר פטור</row>
+		<row row_number="12" isdata="1">ושמואל אמר חייב אמר רבא בר אהילאי</row>
+		<row row_number="13" isdata="1">מאי טעמא דרב אם המצא בעדים תמצא</row>
+		<row row_number="14" isdata="1">בדיינין פרט למרשיע את עצמו למה לי</row>
+		<row row_number="15" isdata="1">מאשר ירשיעון נפקא אלא ש"מ מודה</row>
+		<row row_number="16" isdata="1">בקנס ואח"כ באו עדים פטור ושמואל אמר</row>
+		<row row_number="17" isdata="1">לך ההוא מבעי ליה לגנב עצמו כדתנא</row>
+		<row row_number="18" isdata="1">דבי חזקיה איתיביה רב לשמואל ראה</row>
+		<row row_number="19" isdata="1">עדים שממשמשים ובאים ואמר גנבתי</row>
+		<row row_number="20" isdata="1">אבל לא טבחתי ולא מכרתי אינו משלם</row>
+		<row row_number="21" isdata="1">אלא קרן אמר ליה הכא במאי עסקינן כגון</row>
+		<row row_number="22" isdata="1">שחזרו עדים לאחוריהם והא מדתני סיפא</row>
+		<row row_number="23" isdata="1">רבי אלעזר בר' שמעון אומר יבואו עדים</row>
+		<row row_number="24" isdata="1">ויעידו מכלל דתנא קמא סבר לא אמר</row>
+		<row row_number="25" isdata="1">ליה שמואל לאו איכא ר' אלעזר בר' שמעון</row>
+		<row row_number="26" isdata="1">דקאי כוותי אנא דאמרי כר' אלעזר בר'</row>
+		<row row_number="27" isdata="1">שמעון לשמואל ודאי תנאי היא לרב מי</row>
+		<row row_number="28" isdata="1">לימא תנאי היא אמר לך רב אנא דאמרי</row>
+		<row row_number="29" isdata="1">אפי' לרבי אלעזר בר' שמעון עד כאן לא</row>
+		<row row_number="30" isdata="1">קאמר ר' אלעזר בר' שמעון התם אלא</row>
+		<row row_number="31" isdata="1">משום דקא מודי מחמת ביעתותא דעדים</row>
+		<row row_number="32" isdata="1">אבל הכא דמודה מעצמו אפי' ר' אלעזר</row>
+		<row row_number="33" isdata="1">בר' שמעון מודה אמר רב המנונא מסתברא</row>
+		<row row_number="34" isdata="1">מילתיה דרב באומר גנבתי ובאו עדים</row>
+		<row row_number="35" isdata="1">שגנב פטור שהרי חייב עצמו בקרן אבל</row>
+		<row row_number="36" isdata="1">אמר לא גנבתי ובאו עדים שגנב וחזר</row>
+		<row row_number="37" isdata="1">ואמר טבחתי ומכרתי ובאו עדים שטבח</row>
+		<row row_number="38" isdata="1">ומכר חייב שהרי פטר עצמו מכלום אמר</row>
+		<row row_number="39" isdata="1">רבא [קפחתי] לסבי דבי רב דהא רבן</row>
+		<row row_number="40" isdata="1">גמליאל פוטר עצמו מכלום הוה וקאמר</row>
+		<row row_number="41" isdata="1">ליה רב חסדא לרב הונא ולא קא משני</row>
+		<row row_number="42" isdata="1">ליה איתמר נמי אמר ר' חייא בר אבא אמר</row>
+		<row row_number="43" isdata="1">ר' יוחנן גנבתי ובאו עדים שגנב פטור</row>
+		<row row_number="44" isdata="1">שהרי חייב עצמו בקרן אבל אמר לא גנב</row>
+		<row row_number="45" isdata="1">ובאו עדים שגנב וחזר ואמר טבחתי ומכרתי</row>
+		<row row_number="46" isdata="1">ובאו עדים שטבח ומכר חייב שהרי פטר עצמו מכלום אמר רב אשי</row>
+		<row row_number="47" isdata="1">מתניתין וברייתא נמי דיקא מתניתין דתנן גנב על פי שנים וטבח</row>
+		<row row_number="48" isdata="1">ומכר ע"פ עד אחד או על פי עצמו משלם תשלומי כפל ואינו משלם</row>
+		<row row_number="49" isdata="1">תשלומי ארבעה וחמשה למה לי דתני גנב על פי שנים ליתני גנב</row>
+		<row row_number="50" isdata="1">וטבח [ומכר] על פי עד אחד או על פי עצמו אינו משלם אלא הקרן</row>
+		<row row_number="51" isdata="0">אלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

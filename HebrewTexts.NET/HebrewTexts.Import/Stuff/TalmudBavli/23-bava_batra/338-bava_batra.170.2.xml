@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:38.518442</dateCreated>
+   <lastModified>2016-08-04 11:57:38.518442</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="170">
+	<amud value="2">
+		<row row_number="1" isdata="1">אמר אלא לברר א"ל אנא נמי לברר</row>
+		<row row_number="2" isdata="1">קאמינא<EndGemara/><StartMishna/>: מתני' מי שפרע מקצת חובו ר'</row>
+		<row row_number="3" isdata="1">יהודה אומר יחליף רבי יוסי אומר יכתוב</row>
+		<row row_number="4" isdata="1">שובר אמר רבי יהודה נמצא זה צריך להיות</row>
+		<row row_number="5" isdata="1">שומר שוברו מן העכברים אמר לו רבי יוסי</row>
+		<row row_number="6" isdata="1">כך יפה לו ולא ירע כחו של זה: <EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="7" isdata="1">רב הונא אמר רב אין הלכה לא כרבי יהודה</row>
+		<row row_number="8" isdata="1">ולא כרבי יוסי אלא ב"ד מקרעין השטר</row>
+		<row row_number="9" isdata="1">וכותבין לו שטר אחר מזמן ראשון אמר ליה</row>
+		<row row_number="10" isdata="1">רב נחמן לרב הונא ואמרי לה רב ירמיה בר</row>
+		<row row_number="11" isdata="1">אבא לרב הונא אי שמיעא ליה לרב הא</row>
+		<row row_number="12" isdata="1">[ברייתא] דתניא עדים מקרעין את השטר</row>
+		<row row_number="13" isdata="1">וכותבין לו שטר אחר מזמן ראשון הוה הדר</row>
+		<row row_number="14" isdata="1">ביה אמר ליה שמיע ליה ולא הדר ביה</row>
+		<row row_number="15" isdata="0">בשלמא</row>
+</amud>
+</daf>
+</masechet>
+</root>

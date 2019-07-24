@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:37.059358</dateCreated>
+   <lastModified>2016-08-04 11:57:37.059358</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="139">
+	<amud value="2">
+		<row row_number="1" isdata="1">והיורש את אשתו אמר ליה רבא והשתא</row>
+		<row row_number="2" isdata="1">דשלח מי ידעינן האמר ר' יוסי בר' חנינא</row>
+		<row row_number="3" isdata="1">באושא התקינו האשה שמכרה נכסי מלוג</row>
+		<row row_number="4" isdata="1">בחיי בעלה ומתה הבעל מוציא מיד הלקוחות</row>
+		<row row_number="5" isdata="1">אלא אמר רב אשי בעל שויוהו רבנן כיורש</row>
+		<row row_number="6" isdata="1">ושויוהו רבנן כלוקח והיכא דטבא ליה עבדו</row>
+		<row row_number="7" isdata="1">ליה גבי יובל שויוהו רבנן כיורש משום</row>
+		<row row_number="8" isdata="1">פסידא דידיה גבי דר' יוסי בר' חנינא שויוהו</row>
+		<row row_number="9" isdata="1">רבנן כלוקח משום פסידא דידיה גבי דרבין</row>
+		<row row_number="10" isdata="1">משום פסידא דאלמנה שויוהו רבנן כיורש</row>
+		<row row_number="11" isdata="1">והא גבי דר' יוסי בר' חנינא דאיכא פסידא</row>
+		<row row_number="12" isdata="1">ללקוחות ושויוהו רבנן כלוקח התם אינהו</row>
+		<row row_number="13" isdata="1">אפסידו אנפשייהו כיון דאיכא בעל לא איבעי</row>
+		<row row_number="14" isdata="1">להו למיזבן מאיתתא דיתבא תותי גברא:<EndChapter name = "יש נוחלין"/><EndGemara/></row>
+		<row row_number="15" isdata="0">הדרן עלך יש נוחלין</row>
+		<row row_number="16" isdata="1"><StartChapter name = "מי שמת"/><StartMishna/>מי  שמת והניח בנים ובנות בזמן שהנכסים</row>
+		<row row_number="17" isdata="1">מרובין הבנים יירשו והבנות יזונו נכסים</row>
+		<row row_number="18" isdata="1">מועטין הבנות יזונו והבנים ישאלו על</row>
+		<row row_number="19" isdata="1">הפתחים אדמון אומר בשביל שאני זכר</row>
+		<row row_number="20" isdata="1">הפסדתי אמר רבן גמליאל רואה אני את</row>
+		<row row_number="21" isdata="1">דברי אדמון: <EndMishna/><StartGemara/>גמ' וכמה מרובין אמר רב</row>
+		<row row_number="22" isdata="1">יהודה אמר רב כדי שיזונו מהן אלו ואלו</row>
+		<row row_number="23" isdata="1">שנים עשר חדש כי אמריתא קמיה דשמואל</row>
+		<row row_number="24" isdata="1">אמר זו דברי רבן גמליאל בר רבי אבל</row>
+		<row row_number="25" isdata="1">חכמים אומרים כדי שיזונו מהן אלו ואלו עד</row>
+		<row row_number="26" isdata="1">שיבגרו איתמר נמי כי אתא רבין אמר ר'</row>
+		<row row_number="27" isdata="1">יוחנן ואמרי לה אמר רבה בר בר חנה אמר</row>
+		<row row_number="28" isdata="1">רבי יוחנן כל שיזונו מהן אלו ואלו עד</row>
+		<row row_number="29" isdata="1">שיבגרו הן מרובין פחות מכאן הרי אלו</row>
+		<row row_number="30" isdata="1">מועטין ואי ליכא לאלו ואלו עד שיבגרו</row>
+		<row row_number="31" isdata="0">שקלי</row>
+</amud>
+</daf>
+</masechet>
+</root>

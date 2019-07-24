@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:08.982752</dateCreated>
+   <lastModified>2016-08-04 11:57:08.982752</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="60">
+	<amud value="1">
+		<row row_number="1" isdata="1">היתר מעלין את האיסור והתנן גידולי</row>
+		<row row_number="2" isdata="1">תרומה תרומה בגידולי גידולין קאמרינן</row>
+		<row row_number="3" isdata="1">הא נמי תנינא גידולי גידולין חולין הא</row>
+		<row row_number="4" isdata="1">קמ"ל אפילו בדבר שאין זרעו כלה והתנן</row>
+		<row row_number="5" isdata="1">הטבל גידוליו מותרין בדבר שזרעו כלה</row>
+		<row row_number="6" isdata="1">אבל דבר שאין זרעו כלה גידולי גידולין</row>
+		<row row_number="7" isdata="1">אסורין רבויא דרבו גידולין על עיקרו מותר</row>
+		<row row_number="8" isdata="1">קא משמע לן:<EndChapter name = "הנודר מן הירק"/><EndGemara/></row>
+		<row row_number="9" isdata="0">הדרן עלך הנודר מן הירק</row>
+		<row row_number="10" isdata="1"><StartChapter name = "קונם יין"/><StartMishna/>קונם  יין שאני טועם היום אינו אסור אלא</row>
+		<row row_number="11" isdata="1">עד שתחשך שבת זו אסור בכל</row>
+		<row row_number="12" isdata="1">השבת ושבת שעברה חדש זה אסור</row>
+		<row row_number="13" isdata="1">בכל החדש ור"ח להבא שנה זו אסור</row>
+		<row row_number="14" isdata="1">בכל השנה וראש השנה לעתיד לבא</row>
+		<row row_number="15" isdata="1">שבוע זה אסור בכל השבוע ושביעית</row>
+		<row row_number="16" isdata="1">שעברה ואם אמר יום אחד שבת אחת</row>
+		<row row_number="17" isdata="1">חדש אחד שנה אחת שבוע אחד אסור</row>
+		<row row_number="18" isdata="1">מיום ליום עד הפסח אסור עד שיגיע</row>
+		<row row_number="19" isdata="1">עד שיהא אסור עד שיצא עד לפני</row>
+		<row row_number="20" isdata="1">הפסח רבי מאיר אומר אסור עד שיגיע</row>
+		<row row_number="21" isdata="1">רבי יוסי אומר אסור עד שיצא: <EndMishna/><StartGemara/>גמ' קונם</row>
+		<row row_number="22" isdata="1">יין שאני טועם כו' אמר רבי ירמיה</row>
+		<row row_number="23" isdata="1">לכשתחשך צריך שאלה לחכם מאי טעמא</row>
+		<row row_number="24" isdata="1">אמר רב יוסף גזירה היום משום יום אחד</row>
+		<row row_number="25" isdata="0">א"ל</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:28.906892</dateCreated>
+   <lastModified>2016-08-04 11:57:28.906892</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="82">
+	<amud value="2">
+		<row row_number="1" isdata="1">במלוה צריך למשכון קמיפלגי מר סבר מצוה</row>
+		<row row_number="2" isdata="1">קא עביד שהלוהו והוי שומר שכר ומר סבר</row>
+		<row row_number="3" isdata="1">לאו מצוה קא עביד שלהנאתו מתכוין והוי</row>
+		<row row_number="4" isdata="1">שומר חנם: אבא שאול אומר מותר לאדם</row>
+		<row row_number="5" isdata="1">להשכיר משכונו של עני להיות פוחת</row>
+		<row row_number="6" isdata="1">והולך: אמר רב חנן בר אמי אמר שמואל</row>
+		<row row_number="7" isdata="1">הלכה כאבא שאול ואף אבא שאול לא</row>
+		<row row_number="8" isdata="1">אמר אלא במרא ופסל וקרדום הואיל ונפיש</row>
+		<row row_number="9" isdata="1">אגרייהו וזוטר פחתייהו<EndGemara/><StartMishna/>: מתני' המעביר</row>
+		<row row_number="10" isdata="1">חבית ממקום למקום ושברה בין ש"ח בין</row>
+		<row row_number="11" isdata="1">שומר שכר ישבע רבי אליעזר אומר זה וזה</row>
+		<row row_number="12" isdata="1">ישבע ותמיה אני אם יכולין זה וזה לישבע:</row>
+		<row row_number="13" isdata="1"><EndMishna/><StartGemara/>גמ' תנו רבנן המעביר חבית לחבירו ממקום</row>
+		<row row_number="14" isdata="1">למקום ושברה בין שומר חנם בין שומר</row>
+		<row row_number="15" isdata="1">שכר ישבע דברי ר' מאיר רבי יהודה אומר</row>
+		<row row_number="16" isdata="1">שומר חנם ישבע נושא שכר ישלם: רבי</row>
+		<row row_number="17" isdata="1">אליעזר אומר זה וזה ישבע ותמיה אני אם</row>
+		<row row_number="18" isdata="1">יכולין זה וזה לישבע: למימרא דסבר ר' מאיר נתקל לאו פושע הוא</row>
+		<row row_number="19" isdata="1">והתניא נשברה כדו ולא סילקו נפלה גמלו ולא העמידה רבי מאיר מחייב</row>
+		<row row_number="20" isdata="1">בהזיקן וחכמים אומרים פטור מדיני אדם וחייב בדיני שמים וקיימא לן</row>
+		<row row_number="21" isdata="1">דבנתקל פושע פליגי אמר ר' אלעזר תברה מי ששנה זו לא שנה זו ואתא</row>
+		<row row_number="22" isdata="1">ר' יהודה למימר שומר חנם ישבע נושא שכר ישלם האי כי דיניה והאי כי</row>
+		<row row_number="23" isdata="1">דיניה ואתא רבי אליעזר למימר אין גמרא כר' מאיר ומיהו תמיה אני אם</row>
+		<row row_number="24" isdata="1">יכולין זה וזה לישבע בשלמא שומר חנם משתבע דלא פשע בה אלא שומר</row>
+		<row row_number="25" isdata="1">שכר אמאי משתבע כי לא פשע נמי שלומי בעי ואפילו שומר חנם</row>
+		<row row_number="26" isdata="1">נמי התינח במקום מדרון שלא במקום מדרון מי מצי משתבע דלא פשע</row>
+		<row row_number="27" isdata="0">ואפילו</row>
+</amud>
+</daf>
+</masechet>
+</root>

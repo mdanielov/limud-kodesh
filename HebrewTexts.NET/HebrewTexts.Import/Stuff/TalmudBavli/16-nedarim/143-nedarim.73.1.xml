@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.478781</dateCreated>
+   <lastModified>2016-08-04 11:57:09.478781</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="73">
+	<amud value="1">
+		<row row_number="1" isdata="1">הכא נמי דאמר ליה לכי שמענא מיפר</row>
+		<row row_number="2" isdata="1">לה לכי שמע ליפר לה הוא סבר דלמא</row>
+		<row row_number="3" isdata="1">מטרידנא בעי רמי בר חמא חרש מהו</row>
+		<row row_number="4" isdata="1">שיפר לאשתו אם תמצא לומר בעל מיפר</row>
+		<row row_number="5" isdata="1">בלא שמיעה משום דבר מישמע הוא</row>
+		<row row_number="6" isdata="1">אבל חרש דלאו בר מישמע הוא היינו</row>
+		<row row_number="7" isdata="1">דר' זירא דאמר רבי זירא כל הראוי לבילה</row>
+		<row row_number="8" isdata="1">אין בילה מעכבת בו וכל שאין ראוי</row>
+		<row row_number="9" isdata="1">לבילה בילה מעכבת בו או דלמא ושמע</row>
+		<row row_number="10" isdata="1">אישה לא מעכב אמר רבא ת"ש ושמע אישה</row>
+		<row row_number="11" isdata="1">פרט לאשת חרש שמע מינה איבעיא להו</row>
+		<row row_number="12" isdata="1">בעל מהו שיפר לשתי נשיו בבת אחת אותה</row>
+		<row row_number="13" isdata="1">דוקא או לאו דוקא אמר רבינא ת"ש אין</row>
+		<row row_number="14" isdata="1">משקין שתי סוטות כאחת מפני שלבה גס</row>
+		<row row_number="15" isdata="1">בחבירתה ר' יהודה אומר לא מן השם הוא</row>
+		<row row_number="16" isdata="1">זה אלא משום שנאמ' והשקה אותה לבדה:</row>
+		<row row_number="17" isdata="0">מתני'</row>
+</amud>
+</daf>
+</masechet>
+</root>

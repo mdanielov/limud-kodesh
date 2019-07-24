@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:32.809115</dateCreated>
+   <lastModified>2016-08-04 11:57:32.809115</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="49">
+	<amud value="1">
+		<row row_number="1" isdata="1">אין נאמנים מודעא היו דברינו אין נאמנין ה"מ</row>
+		<row row_number="2" isdata="1">על פה דלא אתי על פה ומרעא לשטרא</row>
+		<row row_number="3" isdata="1">אבל בשטרא אתי שטרא ומרעא לשטרא</row>
+		<row row_number="4" isdata="1">גופא אמר רב נחמן אמנה היו דברינו אין</row>
+		<row row_number="5" isdata="1">נאמנין מודעא היו דברינו אין נאמנין ומר</row>
+		<row row_number="6" isdata="1">בר רב אשי אמר אמנה היו דברינו אין נאמנין</row>
+		<row row_number="7" isdata="1">מודעא היו דברינו נאמנין מאי טעמא שזה</row>
+		<row row_number="8" isdata="1">ניתן ליכתב וזה לא ניתן ליכתב: ולא לאיש</row>
+		<row row_number="9" isdata="1">חזקה בנכסי אשתו וכו': פשיטא כיון דאית</row>
+		<row row_number="10" isdata="1">ליה לפירא פירא הוא דקאכיל לא צריכא</row>
+		<row row_number="11" isdata="1">דכתב לה דין ודברים אין לי בנכסייך וכי</row>
+		<row row_number="12" isdata="1">כתב לה מאי הוי והתניא האומר לחבירו</row>
+		<row row_number="13" isdata="1">דין ודברים אין לי על שדה זו ואין לי עסק</row>
+		<row row_number="14" isdata="1">בה וידי מסולקות ממנה לא אמר כלום</row>
+		<row row_number="15" isdata="1">אמרי לה דבי רבי ינאי מתניתין בכותב לה</row>
+		<row row_number="16" isdata="1">ועודה ארוסה וכדרב כהנא דאמר רב כהנא</row>
+		<row row_number="17" isdata="0">נחלה</row>
+</amud>
+</daf>
+</masechet>
+</root>

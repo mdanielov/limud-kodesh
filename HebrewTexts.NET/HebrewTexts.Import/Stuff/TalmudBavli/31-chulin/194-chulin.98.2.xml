@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:02.761828</dateCreated>
+   <lastModified>2016-08-04 11:58:02.761828</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="98">
+	<amud value="2">
+		<row row_number="1" isdata="1">אין בשלה אלא שלימה ר' שמעון בן יוחאי</row>
+		<row row_number="2" isdata="1">אומר אין בשלה אלא שנתבשלה עם האיל</row>
+		<row row_number="3" isdata="1">דכולי עלמא בהדי איל מבשל לה מר סבר</row>
+		<row row_number="4" isdata="1">מחתך לה והדר מבשל לה ומר סבר מבשל</row>
+		<row row_number="5" isdata="1">לה והדר מחתך לה ואי בעית אימא דכ"ע</row>
+		<row row_number="6" isdata="1">מחתך לה והדר מבשל לה מיהו מר סבר</row>
+		<row row_number="7" isdata="1">בהדי איל מבשל לה ומר סבר בקדרה אחרת</row>
+		<row row_number="8" isdata="1">מבשל לה ללישנא קמא אליבא דדברי הכל</row>
+		<row row_number="9" isdata="1">ללישנא בתרא אליבא דרבי שמעון בן יוחאי</row>
+		<row row_number="10" isdata="1">מאן דאמר בששים סבר בשר ועצמות</row>
+		<row row_number="11" isdata="1">בהדי בשר ועצמות משערינן והוה ליה</row>
+		<row row_number="12" isdata="1">בששים מאן דאמר במאה סבר בשר בהדי</row>
+		<row row_number="13" isdata="1">בשר משערינן והוה ליה במאה ומי ילפינן</row>
+		<row row_number="14" isdata="1">מינה והתניא זהו היתר הבא מכלל איסור</row>
+		<row row_number="15" isdata="1">זהו למעוטי מאי לאו למעוטי כל איסורין</row>
+		<row row_number="16" isdata="1">שבתורה אמר אביי לא נצרכא אלא</row>
+		<row row_number="17" isdata="1">לרבי יהודה דאמר מין במינו לא בטיל</row>
+		<row row_number="18" isdata="1">קמ"ל דהכא בטיל וליגמר מיניה גלי</row>
+		<row row_number="19" isdata="1">רחמנא ולקח מדם הפר ומדם השעיר</row>
+		<row row_number="20" isdata="1">תרוייהו בהדי הדדי נינהו ולא בטלי ומאי</row>
+		<row row_number="21" isdata="1">חזית דגמרי' מהאיך ליגמר מהאי חדוש</row>
+		<row row_number="22" isdata="1">הוא ומחדוש לא גמרינן אי הכי למאה וס'</row>
+		<row row_number="23" isdata="1">נמי לא ליגמר אטו אנן לקולא גמרינן</row>
+		<row row_number="24" isdata="1">לחומרא גמרינן דמדאורייתא ברובא בטיל</row>
+		<row row_number="25" isdata="1">רבא אמר לא נצרכא אלא לטעם כעיקר</row>
+		<row row_number="26" isdata="1">דבקדשים אסור קא משמע לן דהכא שרי</row>
+		<row row_number="27" isdata="0">וליגמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

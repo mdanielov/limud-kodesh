@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:36.393320</dateCreated>
+   <lastModified>2016-08-04 11:57:36.393320</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="125">
+	<amud value="1">
+		<row row_number="1" isdata="1">מאי שנא מעות דלא דלאו הני מעות שבק</row>
+		<row row_number="2" isdata="1">אבוהון קרקע נמי לאו הא קרקע שבק</row>
+		<row row_number="3" isdata="1">אבוהון ועוד (הא את הוא דאמרת)</row>
+		<row row_number="4" isdata="1">מסתבר טעמא דבני מערבא דאי קדים סבתא</row>
+		<row row_number="5" isdata="1">וזבנא זבינה זביני לרב נחמן קשיא מאי שנא</row>
+		<row row_number="6" isdata="1">קרקע דלא דלאו הא קרקע שבק אבוהון</row>
+		<row row_number="7" isdata="1">מעות נמי לאו הני מעות שבק אבוהון ועוד</row>
+		<row row_number="8" isdata="1">הא אמר רב נחמן אמר רבה בר אבוה</row>
+		<row row_number="9" isdata="1">יתומים שגבו קרקע בחובת אביהן בעל</row>
+		<row row_number="10" isdata="1">חוב חוזר וגובה מהן אמר ליה לא לדידי</row>
+		<row row_number="11" isdata="1">קשיא ולא לרב נחמן קשיא טעמא</row>
+		<row row_number="12" isdata="1">דבני מערבא קאמרינן ולן לא סבירא</row>
+		<row row_number="13" isdata="1">לן מאי סבתא דההוא דאמר להו</row>
+		<row row_number="14" isdata="0">נכסי</row>
+</amud>
+</daf>
+</masechet>
+</root>

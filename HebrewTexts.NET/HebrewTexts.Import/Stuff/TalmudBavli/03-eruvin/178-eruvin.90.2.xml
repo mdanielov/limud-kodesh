@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:38.913033</dateCreated>
+   <lastModified>2016-08-04 11:56:38.913033</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="90">
+	<amud value="2">
+		<row row_number="1" isdata="1">דהא איכא מחיצתא ושמואל אמר אין</row>
+		<row row_number="2" isdata="1">מטלטלין בה אלא בארבע אמות מחיצות</row>
+		<row row_number="3" isdata="1">להבריח מים עשויות אמר ליה רב חייא בר</row>
+		<row row_number="4" isdata="1">יוסף לשמואל הילכתא כוותך או הילכתא</row>
+		<row row_number="5" isdata="1">כרב אמר ליה הילכתא כרב אמר רב גידל</row>
+		<row row_number="6" isdata="1">אמר רב חייא בר יוסף ומודה רב שאם</row>
+		<row row_number="7" isdata="1">כפאה על פיה שאין מטלטלין בה אלא</row>
+		<row row_number="8" isdata="1">בארבע אמות כפאה למאי אילימא לדור</row>
+		<row row_number="9" isdata="1">תחתיה מאי שנא מגג יחידי אלא שכפאה</row>
+		<row row_number="10" isdata="1">לזופתה רב אשי מתני לה אספינה ורב אחא</row>
+		<row row_number="11" isdata="1">בריה דרבא מתני לה אאכסדרא דאיתמר</row>
+		<row row_number="12" isdata="1">אכסדרה בבקעה רב אמר מותר לטלטל</row>
+		<row row_number="13" isdata="1">בכולה ושמואל אמר אין מטלטלין בה אלא</row>
+		<row row_number="14" isdata="1">בארבע רב אמר מותר לטלטל בכולה אמרינן</row>
+		<row row_number="15" isdata="1">פי תקרה יורד וסותם ושמואל אמר אין</row>
+		<row row_number="16" isdata="1">מטלטלין בה אלא בארבע לא אמרינן פי</row>
+		<row row_number="17" isdata="1">תקרה יורד וסותם ורב אליבא דר"מ ליטלטלי</row>
+		<row row_number="18" isdata="1">מגג לחצר גזירה משום דרב יצחק בר</row>
+		<row row_number="19" isdata="1">אבדימי ושמואל אליבא דרבנן ניטלטל</row>
+		<row row_number="20" isdata="1">מגג לקרפף אמר רבא בר עולא גזירה שמא</row>
+		<row row_number="21" isdata="1">יפחת הגג א"ה מקרפף לקרפף נמי לא</row>
+		<row row_number="22" isdata="1">יטלטל דילמא מיפחית ואתי לטלטולי</row>
+		<row row_number="23" isdata="1">התם אי מיפחית מינכרא ליה מילתא הכא</row>
+		<row row_number="24" isdata="1">אי מיפחית לא מינכרא מילתא אמר רב</row>
+		<row row_number="25" isdata="1">יהודה כשתמצא לומר לדברי רבי מאיר</row>
+		<row row_number="26" isdata="1">גגין רשות לעצמן חצירות רשות לעצמן</row>
+		<row row_number="27" isdata="0">קרפיפות</row>
+</amud>
+</daf>
+</masechet>
+</root>

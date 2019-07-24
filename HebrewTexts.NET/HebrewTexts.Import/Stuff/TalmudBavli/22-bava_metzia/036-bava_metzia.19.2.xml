@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:26.248740</dateCreated>
+   <lastModified>2016-08-04 11:57:26.248740</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="19">
+	<amud value="2">
+		<row row_number="1" isdata="1">הא בבריא והא בשכיב מרע מתניתין</row>
+		<row row_number="2" isdata="1">דקתני הא אמר תנו נותנין בשכיב מרע</row>
+		<row row_number="3" isdata="1">דבר מהדר הוא דאמרינן מאי איכא למימר</row>
+		<row row_number="4" isdata="1">דלמא כתבה מעיקרא להאי ואמליך ולא</row>
+		<row row_number="5" isdata="1">יהבה ניהליה והדר כתבה לאיניש אחרינא</row>
+		<row row_number="6" isdata="1">ויהביה ניהליה השתא קא הדר ביה מההוא</row>
+		<row row_number="7" isdata="1">דיהבה ניהליה אי במתנת בריא יהבה ליה</row>
+		<row row_number="8" isdata="1">לית ליה פסידא דכי נפקא תרתי בתרייתא</row>
+		<row row_number="9" isdata="1">זכי דהא הדר ביה מקמייתא אי במתנת</row>
+		<row row_number="10" isdata="1">שכיב מרע נמי יהבה ניהליה לית בה</row>
+		<row row_number="11" isdata="1">פסידא דבתרייתא זכי דקא הדר ביה</row>
+		<row row_number="12" isdata="1">מקמייתא כי קתני בברייתא אע"פ ששניהם</row>
+		<row row_number="13" isdata="1">מודים לא יחזיר לא לזה ולא לזה בבריא</row>
+		<row row_number="14" isdata="1">דלאו בר מהדר הוא דאמרינן דלמא כתבה</row>
+		<row row_number="15" isdata="1">להאי מעיקרא ואמליך ולא יהבה ליה והדר</row>
+		<row row_number="16" isdata="1">כתבה לאיניש אחרינא ויהבה ליה השתא</row>
+		<row row_number="17" isdata="1">קא הדר ביה מההוא דיהבה ליה וסבר</row>
+		<row row_number="18" isdata="1">מהדר לא מצינא הדרנא בי אימר להו</row>
+		<row row_number="19" isdata="1">דאנא להאי יהבתא וניהדרו ניהליה כתבא</row>
+		<row row_number="20" isdata="1">כי היכי דכי מפיק האי כתבא דקדים זכה</row>
+		<row row_number="21" isdata="1">ביה הוא אלא אמרינן ליה אנן האי כתבא</row>
+		<row row_number="22" isdata="1">לא יהבינן ליה להאי דלמא מכתב כתבת</row>
+		<row row_number="23" isdata="1">מיהב לא יהבת ניהליה ויהבתה לאיניש</row>
+		<row row_number="24" isdata="1">אחרינא וקא הדרת ביה אי לא יהבתה</row>
+		<row row_number="25" isdata="1">לאיניש אחרינא וקא בעית דתתבה להאי</row>
+		<row row_number="26" isdata="1">כתיב ליה השתא כתבא אחרינא ויהביה</row>
+		<row row_number="27" isdata="1">ניהליה דאי יהבת לאיניש אחרינא לית בה</row>
+		<row row_number="28" isdata="1">פסידא דקדים זכי מתקיף לה רב זביד והא</row>
+		<row row_number="29" isdata="1">אידי ואידי דייתקאות קא תני אלא אמר</row>
+		<row row_number="30" isdata="1">רב זביד הא והא בשכיב מרע ולא קשיא</row>
+		<row row_number="31" isdata="1">הא ביה והא בבריה מתניתין דקא אמר</row>
+		<row row_number="32" isdata="1">תנו נותנין בדידיה דבר מהדר הוא דאמרינן</row>
+		<row row_number="33" isdata="1">א"נ יהבה לאיניש אחרינא לית בה פסידא</row>
+		<row row_number="34" isdata="1">דקמא ובתרא בתרא זכי דהא הדר ביה</row>
+		<row row_number="35" isdata="1">מקמא כי קא תני בברייתא אע"פ ששניהם</row>
+		<row row_number="36" isdata="1">מודים לא יחזיר לא לזה ולא לזה בבריה</row>
+		<row row_number="37" isdata="1">דאמרינן דלמא כתב אבוה להאי ואמלך ולא</row>
+		<row row_number="38" isdata="1">יהביה ניהליה ובתר אבוה כתב איהו לאיניש</row>
+		<row row_number="39" isdata="1">אחרינא ויהבה ליה והשתא קא הדר ביה מההוא סבר מהדר לא מצינא</row>
+		<row row_number="40" isdata="1">הדרנא בי אימר להו דאבא יהבה ליה להאי ונתבו ליה כתביה וניזיל</row>
+		<row row_number="41" isdata="1">ונפיק מיניה דהוא זכי ונפלוג בהדיה הלכך אמרינן ליה אנן האי כתבא</row>
+		<row row_number="42" isdata="1">לא יהבינן ליה להאי דדלמא מכתב כתביה אבוה מיהב לא יהבה ליה</row>
+		<row row_number="43" isdata="1">ויהבתיה את לאיניש אחרינא וקא הדרת ביה אלא אי קושטא קא אמרת</row>
+		<row row_number="44" isdata="1">דיהב ליה אבוך זיל את השתא כתיב ליה שטרא אחרינא דאי נמי לא</row>
+		<row row_number="45" isdata="1">יהבה ליה אבוה וכתבתיה את לאיניש אחרינא לית בה פסידא דקמא</row>
+		<row row_number="46" isdata="1">ובתרא קמא זכי: ת"ר מצא שובר בזמן שהאשה מודה יחזיר לבעל</row>
+		<row row_number="47" isdata="1">אין האשה מודה לא יחזיר לא לזה ולא לזה בזמן שהאשה מודה</row>
+		<row row_number="48" isdata="1">מיהת יחזיר לבעל וליחוש דלמא כתבה ליתן בניסן ולא נתנה עד</row>
+		<row row_number="49" isdata="1">תשרי ואזלה זבנתה לכתובה בטובת הנאה מניסן עד תשרי ומפיק</row>
+		<row row_number="50" isdata="1">ליה לשובר דכתיב בניסן ואתא למטרף לקוחות שלא כדין אמר רבא</row>
+		<row row_number="51" isdata="0">ש"מ</row>
+</amud>
+</daf>
+</masechet>
+</root>

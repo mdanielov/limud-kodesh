@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:11.537330</dateCreated>
+   <lastModified>2016-08-04 11:58:11.537330</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="30">
+	<amud value="1">
+		<row row_number="1" isdata="1">מכדי ימי טהרה כמה הוו שתין ושיתא דל</row>
+		<row row_number="2" isdata="1">שבוע ג' דאטבלינן לה פשו להו שתין נכי</row>
+		<row row_number="3" isdata="1">חדא שתין נכי חדא ותלתין וה' תשעין וד'</row>
+		<row row_number="4" isdata="1">הויין תשעין וחמש מאי עבידתייהו אמר רב</row>
+		<row row_number="5" isdata="1">ירמיה מדפתי כגון שבאת לפנינו בין</row>
+		<row row_number="6" isdata="1">השמשות דיהבינן לה טבילה יתירתא</row>
+		<row row_number="7" isdata="1">ולב"ה דאמרי טבולת יום ארוך לא בעי</row>
+		<row row_number="8" isdata="1">טבילה ל"ה מאי עבידתייהו עשרים ותמניא</row>
+		<row row_number="9" isdata="1">כדאמרן הך שבוע ה' מטבלינן כל ליליא</row>
+		<row row_number="10" isdata="1">וליליא אימר סוף נדה היא י' שבועין למה</row>
+		<row row_number="11" isdata="1">לי בתמניא ופלגא סגי איידי דתנא פלגא</row>
+		<row row_number="12" isdata="1">דשבוע מסיק ליה ואיידי דתנא שבוע</row>
+		<row row_number="13" isdata="1">טמא תנא נמי שבוע טהור והאיכא טבילת</row>
+		<row row_number="14" isdata="1">זבה דלפני תשמיש קחשיב דלאחר תשמיש</row>
+		<row row_number="15" isdata="1">לא קחשיב ולב"ש דחשיב דלאחר תשמיש</row>
+		<row row_number="16" isdata="1">ניחשוב נמי טבילת זבה בלידה קמיירי</row>
+		<row row_number="17" isdata="1">בזיבה לא קמיירי והאיכא יולדת בזוב יולדת</row>
+		<row row_number="18" isdata="1">בזוב קחשיב זיבה גרידתא לא קחשיב</row>
+		<row row_number="19" isdata="1">שבועתא קמא דאתיא לקמן ליטבלה ביומא</row>
+		<row row_number="20" isdata="1">דילמא כל יומא ויומא שלימו לה ספורים</row>
+		<row row_number="21" isdata="1">דידה הא מני ר"ע היא דאמר בעינן ספורים</row>
+		<row row_number="22" isdata="1">בפנינו סוף שבוע קמא ליטבלה חד בשבוע</row>
+		<row row_number="23" isdata="1">לא קמיירי יומא קמא דאתיא לקמן ליטבלה</row>
+		<row row_number="24" isdata="1">דילמא שומרת יום כנגד יום היא בזבה</row>
+		<row row_number="25" isdata="1">גדולה קמיירי בזבה קטנה לא קמיירי ש"מ</row>
+		<row row_number="26" isdata="1">תלת ש"מ ר"ע היא דאמר בעינן ספורים</row>
+		<row row_number="27" isdata="1">בפנינו וש"מ ר"ש היא דאמר אבל אמרו</row>
+		<row row_number="28" isdata="1">חכמים אסור לעשות כן שמא תבא לידי ספק</row>
+		<row row_number="29" isdata="1">וש"מ טבילה בזמנה מצוה ורבי יוסי בר'</row>
+		<row row_number="30" isdata="1">יהודה אומר דיה לטבילה באחרונה ולא</row>
+		<row row_number="31" isdata="1">אמרינן טבילה בזמנה מצוה<EndGemara/><StartMishna/>: מתני'</row>
+		<row row_number="32" isdata="1">המפלת ליום מ' אינה חוששת לולד</row>
+		<row row_number="33" isdata="1">ליום מ"א תשב לזכר ולנקבה ולנדה רבי</row>
+		<row row_number="34" isdata="1">ישמעאל אומר יום מ"א תשב לזכר ולנדה</row>
+		<row row_number="35" isdata="1">יום פ"א תשב לזכר ולנקבה ולנדה שהזכר</row>
+		<row row_number="36" isdata="1">נגמר למ"א והנקבה לפ"א וחכ"א אחד</row>
+		<row row_number="37" isdata="1">בריית הזכר ואחד בריית הנקבה זה וזה</row>
+		<row row_number="38" isdata="1">מ"א: <EndMishna/><StartGemara/>גמ' למה הוזכר זכר אי לימי</row>
+		<row row_number="39" isdata="1">טומאה הא קתני נקבה ואי לימי טהרה</row>
+		<row row_number="40" isdata="0">הא</row>
+</amud>
+</daf>
+</masechet>
+</root>

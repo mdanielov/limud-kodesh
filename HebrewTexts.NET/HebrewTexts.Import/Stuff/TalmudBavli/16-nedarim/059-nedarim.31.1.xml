@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:07.956694</dateCreated>
+   <lastModified>2016-08-04 11:57:07.956694</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="31">
+	<amud value="1">
+		<row row_number="1" isdata="1">מתני' הנודר משובתי שבת אסור</row>
+		<row row_number="2" isdata="1">בישראל ואסור בכותים מאוכלי שום אסור</row>
+		<row row_number="3" isdata="1">בישראל ואסור בכותים מעולי ירושלים</row>
+		<row row_number="4" isdata="1">אסור בישראל ומותר בכותים: <EndMishna/><StartGemara/>גמ' מאי</row>
+		<row row_number="5" isdata="1">שובתי שבת אילימא ממקיימי שבת מאי</row>
+		<row row_number="6" isdata="1">איריא בכותים אפילו עובדי כוכבים נמי</row>
+		<row row_number="7" isdata="1">אלא ממצווים על השבת אי הכי אימא</row>
+		<row row_number="8" isdata="1">סיפא מעולי ירושלים אסור בישראל ומותר</row>
+		<row row_number="9" isdata="1">בכותים אמאי והא מצווים נינהו אמר</row>
+		<row row_number="10" isdata="1">אביי מצווה ועושה קתני בתרתי בבי</row>
+		<row row_number="11" isdata="1">קמייתא ישראל וכותים מצווין ועושין</row>
+		<row row_number="12" isdata="1">עובדי כוכבים ההוא דעבדי עושין ואינם</row>
+		<row row_number="13" isdata="1">מצווין בעולי ירושלים ישראל מצווין ועושין</row>
+		<row row_number="14" isdata="1">כותים מצווין ואינם עושין<EndGemara/><StartMishna/>: מתני' קונם</row>
+		<row row_number="15" isdata="1">שאיני נהנה לבני נח מותר בישראל ואסור</row>
+		<row row_number="16" isdata="1">בעובדי כוכבים: <EndMishna/><StartGemara/>גמ' וישראל מי נפיק</row>
+		<row row_number="17" isdata="1">מכלל בני נח כיון דאיקדש אברהם איתקרו</row>
+		<row row_number="18" isdata="1">על שמיה<EndGemara/><StartMishna/>: מתני' שאיני נהנה לזרע</row>
+		<row row_number="19" isdata="1">אברהם אסור בישראל ומותר בעובדי</row>
+		<row row_number="20" isdata="1">כוכבים: <EndMishna/><StartGemara/>גמ' והאיכא ישמעאל כי</row>
+		<row row_number="21" isdata="1">ביצחק יקרא לך זרע כתיב והאיכא עשו</row>
+		<row row_number="22" isdata="1">ביצחק ולא כל יצחק<EndGemara/><StartMishna/>: מתני' שאיני</row>
+		<row row_number="23" isdata="1">נהנה מישראל לוקח ביותר ומוכר בפחות</row>
+		<row row_number="24" isdata="1">שישראל נהנין לי לוקח בפחות ומוכר</row>
+		<row row_number="25" isdata="1">ביותר ואין שומעין לו שאיני נהנה להן</row>
+		<row row_number="26" isdata="1">והן לי יהנה לעובדי כוכבים: <EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="27" isdata="1">שמואל הלוקח כלי מן האומן לבקרו</row>
+		<row row_number="28" isdata="1">ונאנס בידו חייב אלמא קסבר הנאת לוקח</row>
+		<row row_number="29" isdata="1">היא תנן שאיני נהנה מישראל מוכר</row>
+		<row row_number="30" isdata="1">בפחות אבל שוה בשוה לא ואי הנאת</row>
+		<row row_number="31" isdata="1">לוקח היא אפילו שוה בשוה מתני' בזבינא</row>
+		<row row_number="32" isdata="1">דרמי על אפיה אם כן אימא רישא</row>
+		<row row_number="33" isdata="1">לוקח ביותר ועוד אימא סיפא שישראל</row>
+		<row row_number="34" isdata="1">נהנין לי [לוקח בפחות] ומוכר ביותר</row>
+		<row row_number="35" isdata="1">ואי בזבינא דרמי על אפיה אפילו שוה</row>
+		<row row_number="36" isdata="1">בשוה סיפא בזבינא חריפא אי הכי</row>
+		<row row_number="37" isdata="1">לוקח בפחות אפילו שוה בשוה אלא</row>
+		<row row_number="38" isdata="0">מתני'</row>
+</amud>
+</daf>
+</masechet>
+</root>

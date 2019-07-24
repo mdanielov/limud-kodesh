@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:05.823004</dateCreated>
+   <lastModified>2016-08-04 11:58:05.823004</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="33">
+	<amud value="1">
+		<row row_number="1" isdata="1">ובית הלל הני מילי תם אבל בעל מום כתיב</row>
+		<row row_number="2" isdata="1">הטמא והטהור יחדיו יאכלנו ומה טמא שאינו</row>
+		<row row_number="3" isdata="1">אוכל בקדשים קלים אוכל בבכור זר שאוכל</row>
+		<row row_number="4" isdata="1">בקדשים קלים אינו דין שיאכל בבכור איכא</row>
+		<row row_number="5" isdata="1">למיפרך מה לטמא שכן הותר מכללו בעבודת</row>
+		<row row_number="6" isdata="1">צבור וב"ה אטו בעבודה קאמר באכילה</row>
+		<row row_number="7" isdata="1">קאמרינן א] אכילת זר עדיף ורבי עקיבא מתיר</row>
+		<row row_number="8" isdata="1">ואפי' עובדי כוכבים מ"ט דרבי עקיבא כצבי</row>
+		<row row_number="9" isdata="1">וכאיל מה צבי ואיל מותר לעובדי כוכבים</row>
+		<row row_number="10" isdata="1">אף ב] פסולין מותר לעובדי כוכבים ואידך</row>
+		<row row_number="11" isdata="1">תלתא צבי ואיל כתיבי חד לכדרבי יצחק ג]</row>
+		<row row_number="12" isdata="1">(וחד לכדר') [ור'] אושעיא וחד לכדרבי</row>
+		<row row_number="13" isdata="1">אלעזר הקפר ד] ואידך מה צבי ואיל פטורים</row>
+		<row row_number="14" isdata="1">מן הבכורה ה] אף פסולי המוקדשין פטורין</row>
+		<row row_number="15" isdata="1">מן הבכורה ו] ת"ר בכור אין מאכילין אותו</row>
+		<row row_number="16" isdata="1">לנדות דברי בית שמאי וב"ה אומרים מאכילין</row>
+		<row row_number="17" isdata="1">אותו לנדות מ"ט דב"ש דכתיב ובשרם יהיה</row>
+		<row row_number="18" isdata="1">לך ז] מה התם נדות לא אף הכא נדות לא</row>
+		<row row_number="19" isdata="1">וב"ה הני מילי תם אבל בעל מום הטמא</row>
+		<row row_number="20" isdata="1">והטהור ח] אכלה וב"ש ה"מ היכא דאין טומאה</row>
+		<row row_number="21" isdata="1">יוצאה עליו מגופו אבל היכא דטומאה יוצאה</row>
+		<row row_number="22" isdata="1">עליו מגופו לא דאשכחן דפליג רחמנא בין</row>
+		<row row_number="23" isdata="1">טומאה יוצאה עליו מגופו לבין ט] שאין טומאה</row>
+		<row row_number="24" isdata="1">יוצאה עליו מגופו דתנן הפסח שבא בטומאה</row>
+		<row row_number="25" isdata="1">לא יאכלו ממנו זבים י] ומצורעין וזבות ונדות</row>
+		<row row_number="26" isdata="1">ויולדות וב"ה התם הוא דגלי רחמנא טמא</row>
+		<row row_number="27" isdata="1">נפש אבל הכא טמא סתמא כתיב לא שנא</row>
+		<row row_number="28" isdata="1">יא] ת"ר אין מרגילין ביום טוב כיוצא בו</row>
+		<row row_number="29" isdata="1">אין מרגילין בבכור ולא בפסולי המוקדשין</row>
+		<row row_number="30" isdata="1">בשלמא יום טוב דקא טרח טירחא דלא</row>
+		<row row_number="31" isdata="1">חזי ליה אלא בכור מאן תנא אמר רב חסדא</row>
+		<row row_number="32" isdata="1">בית שמאי היא דאמר אין מאכילין אותו</row>
+		<row row_number="33" isdata="1">לנדות ולא בפסולי המוקדשין מאן תנא אמר</row>
+		<row row_number="34" isdata="1">רב חסדא רבי אלעזר בר' שמעון היא דתנן</row>
+		<row row_number="35" isdata="1">היו לפניו שתי חטאות אחת תמימה ואחת</row>
+		<row row_number="36" isdata="1">בעלת מום תמימה תקרב בעלת מום תיפדה</row>
+		<row row_number="37" isdata="1">נשחטה בעלת מום אם עד שלא נזרק דמה</row>
+		<row row_number="38" isdata="1">של תמימה מותרת אם משנזרק דמה של</row>
+		<row row_number="39" isdata="1">תמימה אסורה ר"א ברבי שמעון אומר אפילו</row>
+		<row row_number="40" isdata="1">בשר בקדירה ונזרק דמה של תמימה אסורה</row>
+		<row row_number="41" isdata="1">ורב חסדא לוקמה כולה כב"ש דלמא עד כאן</row>
+		<row row_number="42" isdata="1">לא קאמרי ב"ש אלא בבכור דקדושתו מרחם</row>
+		<row row_number="43" isdata="1">אבל פסולי המוקדשין דאין קדושתו מרחם לא</row>
+		<row row_number="44" isdata="0">ולוקמה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:08.249711</dateCreated>
+   <lastModified>2016-08-04 11:57:08.249711</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="39">
+	<amud value="1">
+		<row row_number="1" isdata="1">במאי עסקינן אי בשנכסי מבקר אסורין על</row>
+		<row row_number="2" isdata="1">חולה אפילו יושב נמי אי בשנכסי חולה</row>
+		<row row_number="3" isdata="1">אסורין על המבקר אפי' עומד נמי לא אמר</row>
+		<row row_number="4" isdata="1">שמואל לעולם בשנכסי מבקר אסורין על</row>
+		<row row_number="5" isdata="1">החולה ובמקום שנוטלין שכר על הישיבה</row>
+		<row row_number="6" isdata="1">ואין נוטלין שכר על העמידה מאי פסקא הא</row>
+		<row row_number="7" isdata="1">קא משמע לן דאף במקום שנוטלין שכר על</row>
+		<row row_number="8" isdata="1">הישיבה בעי למשקל על העמידה לא בעי</row>
+		<row row_number="9" isdata="1">למשקל ואיבעית אימא כדרבי שמעון בן</row>
+		<row row_number="10" isdata="1">אליקים גזירה שמא ישהא בעמידה הכא נמי</row>
+		<row row_number="11" isdata="1">גזירה שמא ישהא בישיבה עולא אמר לעולם</row>
+		<row row_number="12" isdata="1">בשנכסי חולה אסורין על המבקר וכגון דלא</row>
+		<row row_number="13" isdata="1">אדריה מן חיותיה אי הכי אפילו יושב נמי הא</row>
+		<row row_number="14" isdata="1">אפשר בעמידה מיתיבי חלה הוא נכנס</row>
+		<row row_number="15" isdata="1">לבקרו חלה בנו שואלו בשוק בשלמא לעולא</row>
+		<row row_number="16" isdata="1">דאמר בשנכסי חולה אסורין על המבקר</row>
+		<row row_number="17" isdata="1">וכגון דלא אדריה מן חיותיה שפיר אלא</row>
+		<row row_number="18" isdata="1">לשמואל דאמר בשנכסי מבקר אסורין על</row>
+		<row row_number="19" isdata="1">החולה מאי שנא הוא ומאי שנא בנו אמר</row>
+		<row row_number="20" isdata="1">לך מתניתין בשנכסי מבקר אסורין על</row>
+		<row row_number="21" isdata="1">החולה ברייתא בשנכסי חולה אסורין על</row>
+		<row row_number="22" isdata="1">המבקר מאי פסקא אמר רבא (אמר) שמואל</row>
+		<row row_number="23" isdata="0">מתניתין</row>
+</amud>
+</daf>
+</masechet>
+</root>

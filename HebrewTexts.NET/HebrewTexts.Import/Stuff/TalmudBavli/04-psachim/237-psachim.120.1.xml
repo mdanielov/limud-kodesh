@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:44.482351</dateCreated>
+   <lastModified>2016-08-04 11:56:44.482351</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="120">
+	<amud value="1">
+		<row row_number="1" isdata="1">בראשונה לא לא מיבעיא קאמר לא מיבעיא</row>
+		<row row_number="2" isdata="1">בראשונה דקאכיל לתיאבון אבל באחרונה</row>
+		<row row_number="3" isdata="1">דילמא אתי למיכל אכילה גסה אימא לא</row>
+		<row row_number="4" isdata="1">קמ"ל מר זוטרא מתני הכי אמר רב יוסף</row>
+		<row row_number="5" isdata="1">אמר רב יהודה אמר שמואל מפטירין אחר</row>
+		<row row_number="6" isdata="1">המצה אפיקומן נימא מסייע ליה אין מפטירין</row>
+		<row row_number="7" isdata="1">אחר הפסח אפיקומן אחר הפסח דלא אבל</row>
+		<row row_number="8" isdata="1">אחר מצה מפטירין לא מיבעיא קאמר לא</row>
+		<row row_number="9" isdata="1">מיבעיא אחר מצה דלא נפיש טעמיה אבל</row>
+		<row row_number="10" isdata="1">לאחר פסח אימא לא קמ"ל מיתיבי הסופגנין</row>
+		<row row_number="11" isdata="1">והדובשנין והאיסקריטין אדם ממלא כריסו</row>
+		<row row_number="12" isdata="1">מהן ובלבד שיאכל (אכילת) כזית מצה</row>
+		<row row_number="13" isdata="1">באחרונה באחרונה אין בראשונה לא לא</row>
+		<row row_number="14" isdata="1">מיבעיא קאמר לא מיבעיא בראשונה דקאכיל</row>
+		<row row_number="15" isdata="1">לתיאבון אבל באחרונה דאתי למיכלה אכילה</row>
+		<row row_number="16" isdata="1">גסה אימא לא קמ"ל: אמר רבא מצה בזמן</row>
+		<row row_number="17" isdata="1">הזה דאורייתא ומרור דרבנן ומאי שנא מרור</row>
+		<row row_number="18" isdata="1">דכתיב על מצות ומרורים בזמן דאיכא פסח</row>
+		<row row_number="19" isdata="1">יש מרור ובזמן דליכא פסח ליכא מרור מצה</row>
+		<row row_number="20" isdata="1">נמי הא כתיב על מצות ומרורים מצה</row>
+		<row row_number="21" isdata="1">מיהדר הדר ביה קרא בערב תאכלו מצות</row>
+		<row row_number="22" isdata="1">ורב אחא בר יעקב אמר אחד זה ואחד זה</row>
+		<row row_number="23" isdata="1">דרבנן אלא הכתיב בערב תאכלו מצות</row>
+		<row row_number="24" isdata="1">ההיא מיבעי ליה לטמא ושהיה בדרך</row>
+		<row row_number="25" isdata="1">רחוקה דס"ד אמינא כיון דפסח לא אכלי מצה</row>
+		<row row_number="26" isdata="1">ומרור נמי לא ניכול קמ"ל ורבא אמר לך</row>
+		<row row_number="27" isdata="1">טמא ושהיה בדרך רחוקה לא צריך קרא דלא</row>
+		<row row_number="28" isdata="1">גרעי מערל ובן נכר דתניא כל ערל לא</row>
+		<row row_number="29" isdata="1">יאכל בו בו אינו אוכל אבל אוכל במצה</row>
+		<row row_number="30" isdata="1">ומרור ואידך כתיב בהאי וכתיב בהאי</row>
+		<row row_number="31" isdata="1">וצריכי תניא כוותיה דרבא ששת ימים</row>
+		<row row_number="32" isdata="1">תאכל מצות וביום השביעי עצרת לה' אלהיך</row>
+		<row row_number="33" isdata="1">מה שביעי רשות אף ששת ימים רשות</row>
+		<row row_number="34" isdata="1">מאי טעמא הוי דבר שהיה בכלל ויצא מן</row>
+		<row row_number="35" isdata="1">הכלל ללמד לא ללמד על עצמו יצא אלא</row>
+		<row row_number="36" isdata="1">ללמד על הכלל כולו יצא יכול אף לילה</row>
+		<row row_number="37" isdata="1">הראשון רשות תלמוד לומר על מצות ומרורים</row>
+		<row row_number="38" isdata="1">יאכלוהו אין לי אלא בזמן שבית המקדש</row>
+		<row row_number="39" isdata="1">קיים בזמן שאין בית המקדש קיים מנין</row>
+		<row row_number="40" isdata="1">ת"ל בערב תאכלו מצות הכתוב קבעו חובה:</row>
+		<row row_number="41" isdata="1">מתני' ישנו מקצתן יאכלו כולן לא יאכלו</row>
+		<row row_number="42" isdata="0">ר'</row>
+</amud>
+</daf>
+</masechet>
+</root>

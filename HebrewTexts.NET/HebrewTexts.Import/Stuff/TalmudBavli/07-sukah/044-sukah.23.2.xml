@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:49.434634</dateCreated>
+   <lastModified>2016-08-04 11:56:49.434634</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="23">
+	<amud value="2">
+		<row row_number="1" isdata="1">וכיון דמייתא כווצא ולאו אדעתיה ומי אמר</row>
+		<row row_number="2" isdata="1">אביי ר"מ חייש למיתה ור' יהודה לא חייש</row>
+		<row row_number="3" isdata="1">והתנן בת ישראל שנשאת לכהן והלך</row>
+		<row row_number="4" isdata="1">בעלה למדינת הים אוכלת בתרומה בחזקת</row>
+		<row row_number="5" isdata="1">שהוא קיים ורמינן עלה הרי זה גיטיך שעה</row>
+		<row row_number="6" isdata="1">אחת קודם מיתתי אסורה לאכול בתרומה</row>
+		<row row_number="7" isdata="1">מיד ואמר אביי לא קשיא הא ר"מ דלא</row>
+		<row row_number="8" isdata="1">חייש למיתה הא רבי יהודה דחייש למיתה</row>
+		<row row_number="9" isdata="1">דתניא הלוקח יין מבין הכותים אומר שני</row>
+		<row row_number="10" isdata="1">לוגין שאני עתיד להפריש הרי הן תרומה</row>
+		<row row_number="11" isdata="1">עשרה מעשר ראשון תשעה מעשר שני</row>
+		<row row_number="12" isdata="1">ומיחל ושותה מיד דברי רבי מאיר</row>
+		<row row_number="13" isdata="0">רבי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:33.761738</dateCreated>
+   <lastModified>2016-08-04 11:56:33.761738</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="132">
+	<amud value="2">
+		<row row_number="1" isdata="1">ועבודה דוחה את השבת מילה דוחה אותה</row>
+		<row row_number="2" isdata="1">שבת שנדחית מפני העבודה אינו דין שתהא</row>
+		<row row_number="3" isdata="1">מילה דוחה אותה ומאי או אינו דקאמר הדר</row>
+		<row row_number="4" isdata="1">אמר וממאי דצרעת חמורה דילמא שבת</row>
+		<row row_number="5" isdata="1">חמורה שכן יש בה עונשין ואזהרות הרבה</row>
+		<row row_number="6" isdata="1">( אי נמי) וממאי משום דחמירא צרעת היא</row>
+		<row row_number="7" isdata="1">דילמא משום גברא הוא דלא חזי ומה</row>
+		<row row_number="8" isdata="1">אני מקיים שמיני ימול חוץ משבת תלמוד</row>
+		<row row_number="9" isdata="1">לומר ביום אפילו בשבת: תנו רבנן</row>
+		<row row_number="10" isdata="1">מילה דוחה את הצרעת בין בזמנה בין</row>
+		<row row_number="11" isdata="1">שלא בזמנה יום טוב אינה דוחה אלא</row>
+		<row row_number="12" isdata="1">בזמנה בלבד מנהני מילי דתנו רבנן ימול</row>
+		<row row_number="13" isdata="1">בשר ערלתו ואע"פ שיש שם בהרת יקוץ</row>
+		<row row_number="14" isdata="1">ומה אני מקיים השמר בנגע הצרעת בשאר</row>
+		<row row_number="15" isdata="1">מקומות חוץ ממילה או אינו אלא אפילו</row>
+		<row row_number="16" isdata="1">מילה ומה אני מקיים ימול בשר ערלתו בזמן</row>
+		<row row_number="17" isdata="1">שאין בה בהרת ת"ל בשר ואע"פ שיש שם</row>
+		<row row_number="18" isdata="1">בהרת אמר רבא האי תנא מעיקרא מאי</row>
+		<row row_number="19" isdata="1">ניחא ליה ולבסוף מאי קשיא ליה הכי קאמר</row>
+		<row row_number="20" isdata="1">ימול בשר ערלתו ואע"פ שיש בהרת ומה</row>
+		<row row_number="21" isdata="1">אני מקיים השמר בנגע הצרעת בשאר</row>
+		<row row_number="22" isdata="1">מקומות חוץ ממילה אבל מילה דוחה את</row>
+		<row row_number="23" isdata="1">הצרעת מ"ט דאתיא מק"ו ומה שבת חמורה</row>
+		<row row_number="24" isdata="1">מילה דוחה אותה צרעת לא כ"ש ומאי או</row>
+		<row row_number="25" isdata="1">אינו דקאמר הדר קאמר ממאי דשבת</row>
+		<row row_number="26" isdata="1">חמירא דילמא צרעת חמירא שכן דוחה את</row>
+		<row row_number="27" isdata="1">העבודה ועבודה דוחה את השבת ת"ל</row>
+		<row row_number="28" isdata="1">בשר ואע"פ שיש שם בהרת לישנא אחרינא</row>
+		<row row_number="29" isdata="1">מילה דוחה את הצרעת מ"ט דאתי עשה</row>
+		<row row_number="30" isdata="1">ודחי לא תעשה ומאי או אינו דקאמר הדר</row>
+		<row row_number="31" isdata="1">קאמר אימר דאמרינן דאתי עשה ודחי את</row>
+		<row row_number="32" isdata="1">לא תעשה לא תעשה גרידא האי עשה ולא</row>
+		<row row_number="33" isdata="1">תעשה הוא ומה אני מקיים ימול בשר</row>
+		<row row_number="34" isdata="1">ערלתו בזמן שאין בה בהרת ת"ל בשר</row>
+		<row row_number="35" isdata="1">ואע"פ שיש שם בהרת תינח גדול דכתיב</row>
+		<row row_number="36" isdata="1">בהו בשר קטן נמי כתיב ביה בשר בינוני</row>
+		<row row_number="37" isdata="1">מנלן אמר אביי אתיא מביניא מגדול לא</row>
+		<row row_number="38" isdata="1">אתיא שכן ענוש כרת מקטן לא אתיא שכן</row>
+		<row row_number="39" isdata="1">מילה בזמנה הצד השוה שבהן שכן נימולין</row>
+		<row row_number="40" isdata="1">ודוחין את הצרעת אף כל שנימולין דוחין</row>
+		<row row_number="41" isdata="1">את הצרעת רבא אמר מילה בזמנה דוחה</row>
+		<row row_number="42" isdata="1">לא צריכא קרא מק"ו אתיא ומה שבת</row>
+		<row row_number="43" isdata="1">דחמירא דוחה צרעת לא כל שכן אמר ליה</row>
+		<row row_number="44" isdata="1">רב ספרא לרבא ממאי דשבת חמירא דילמא</row>
+		<row row_number="45" isdata="1">צרעת חמירא שכן דוחה את העבודה ועבודה</row>
+		<row row_number="46" isdata="1">דוחה את השבת התם לאו משום דחמירא</row>
+		<row row_number="47" isdata="1">צרעת אלא משום דגברא הוא דלא חזי</row>
+		<row row_number="48" isdata="1">אמאי ויקוץ בהרתו ויעבוד מחוסר טבילה</row>
+		<row row_number="49" isdata="1">הוא תינח נגעים טמאים נגעים טהורים מאי</row>
+		<row row_number="50" isdata="1">איכא למימר אלא א"ר אשי היכא אמרינן</row>
+		<row row_number="51" isdata="1">דאתי עשה ודחי ל"ת כגון מילה בצרעת א"נ</row>
+		<row row_number="52" isdata="1">ציצית וכלאים דבעידנא דמתעקר לאו קא מוקי'</row>
+		<row row_number="53" isdata="1">עשה הכא בעידנא דמתעקר ללאו לא קא מוקים עשה והא דרבא ורב ספרא</row>
+		<row row_number="54" isdata="0">תנאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

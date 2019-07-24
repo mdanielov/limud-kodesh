@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:57.781112</dateCreated>
+   <lastModified>2016-08-04 11:56:57.781112</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1">מבית אחד יבומי חדא ואיפטור אידך לא</row>
+		<row row_number="2" isdata="1">דדלמא אין זיקה ככנוסה והוו להו שתי</row>
+		<row row_number="3" isdata="1">יבמות הבאות משני בתים אלמא מספקא</row>
+		<row row_number="4" isdata="1">ליה וכי תימא מדאורייתא ה"נ דמייבמא</row>
+		<row row_number="5" isdata="1">חדא ומפטרא חדא ומדרבנן הוא דאסור</row>
+		<row row_number="6" isdata="1">גזירה משום שמא יאמרו ב' יבמות הבאות</row>
+		<row row_number="7" isdata="1">משני בתים חדא מייבמא ואידך מיפטרא</row>
+		<row row_number="8" isdata="1">בולא כלום והא טעמא דר"ש משום מאמר</row>
+		<row row_number="9" isdata="1">ולאו מאמר הוא דתניא אמר להם רבי</row>
+		<row row_number="10" isdata="1">שמעון לחכמים אם מאמרו של שני מאמר</row>
+		<row row_number="11" isdata="1">אשת שני הוא בועל ואם מאמרו של שני</row>
+		<row row_number="12" isdata="1">אינו מאמר אשת ראשון הוא בועל אמר</row>
+		<row row_number="13" isdata="1">ליה אביי ולא שני לך בין זיקת יבם אחד</row>
+		<row row_number="14" isdata="1">לזיקת שני יבמים דלמא כי אר"ש זיקה</row>
+		<row row_number="15" isdata="1">ככנוסה דמיא ביבם אחד אבל בשני יבמין</row>
+		<row row_number="16" isdata="1">לא ומי שני ליה לר"ש והתניא כלל אר"ש</row>
+		<row row_number="17" isdata="1">כל שהלידה קודמת לנשואין לא חולצת</row>
+		<row row_number="18" isdata="1">ולא מתייבמת נשואין קודם ללידה או</row>
+		<row row_number="19" isdata="1">חולצת או מתייבמת מאי לאו ביבם אחד</row>
+		<row row_number="20" isdata="1">וקתני לא חולצת ולא מתייבמת לא בשני</row>
+		<row row_number="21" isdata="1">יבמים אבל ביבם אחד מאי הכי נמי או חולצת או מתייבמת אי הכי אדתני</row>
+		<row row_number="22" isdata="1">נשואין קודמין ללידה או חולצת או מתייבמת ליפלוג וליתני בדידה בד"א</row>
+		<row row_number="23" isdata="1">בשני יבמים אבל ביבם אחד או חולצת או מתייבמת כולה בשני יבמין</row>
+		<row row_number="24" isdata="1">קמיירי ואלא מאי כללא ועוד מתיב רב אושעיא ג' אחין שנים מהן נשואין</row>
+		<row row_number="25" isdata="1">שתי אחיות או אשה ובתה או אשה ובת בתה או אשה ובת בנה הרי אלו</row>
+		<row row_number="26" isdata="1">חולצות ולא מתייבמות ור"ש פוטר ואי ס"ד קסבר ר"ש זיקה ככנוסה דמיא</row>
+		<row row_number="27" isdata="1">לייבם לקמייתא ותיפטר אידך אמר רב עמרם מאי פוטר נמי פוטר בשניה</row>
+		<row row_number="28" isdata="1">והתניא ר"ש פוטר בשתיהן אמר רבא שניה שבזוג זה והשניה שבזוג זה קא</row>
+		<row row_number="29" isdata="1">טעי רבא בארבעה זוגי חדא דאו או קתני ועוד ר' שמעון פוטר בארבעתן</row>
+		<row row_number="30" isdata="1">מיבעי ליה ועוד תניא ר"ש פוטר בשתיהן מן החליצה ומן הייבום שנא' ואשה</row>
+		<row row_number="31" isdata="1">אל אחותה לא תקח לצרור בשעה שנעשו צרות זו לזו לא יהא לך ליקוחין אפי'</row>
+		<row row_number="32" isdata="1">באחת מהן אלא אמר רב אשי אי דנפול בזה אחר זה הכי נמי הכא במאי עסקינן</row>
+		<row row_number="33" isdata="1">דנפול בבת אחת ורבי שמעון סבר לה כרבי יוסי הגלילי דאמר אפשר</row>
+		<row row_number="34" isdata="1">לצמצם רב פפא אמר בייבם ואח"כ נולד פליג ר"ש בנולד ואח"כ ייבם לא</row>
+		<row row_number="35" isdata="1">פליג ותרווייהו לרבנן איצטריך ולא זו אף זו קתני תניא כוותיה דרב פפא</row>
+		<row row_number="36" isdata="1">ותיובתא דר' אושעיא שני אחים בעולם אחד ומת אחד מהם בלא ולד</row>
+		<row row_number="37" isdata="1">ועמד השני הזה לעשות מאמר ביבמתו ולא הספיק לעשות בה מאמר</row>
+		<row row_number="38" isdata="1">עד שנולד לו אח ומת הראשונה יוצאה משום אשת אחיו שלא היה</row>
+		<row row_number="39" isdata="1">בעולמו ושניה או חולצת או מתייבמת עשה בה מאמר ואח"כ</row>
+		<row row_number="40" isdata="1">נולד אח או שנולד לו אח ואח"כ עשה בה מאמר ומת הראשונה יוצאה</row>
+		<row row_number="41" isdata="1">משום אשת אחיו שלא היה בעולמו ושניה חולצת ולא מתייבמת</row>
+		<row row_number="42" isdata="0">ר'</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:38.171990</dateCreated>
+   <lastModified>2016-08-04 11:56:38.171990</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="72">
+	<amud value="2">
+		<row row_number="1" isdata="1">מיתיבי אמר רבי יהודה הסבר לא נחלקו</row>
+		<row row_number="2" isdata="1">ב"ש וב"ה על מחיצות המגיעות לתקרה</row>
+		<row row_number="3" isdata="1">שצריכין עירוב לכל חבורה וחבורה על מה</row>
+		<row row_number="4" isdata="1">נחלקו על מחיצות שאין מגיעות לתקרה</row>
+		<row row_number="5" isdata="1">שבית שמאי אומרים עירוב לכל חבורה</row>
+		<row row_number="6" isdata="1">וחבורה ובית הלל אומרים עירוב א' לכולן</row>
+		<row row_number="7" isdata="1">למאן דאמר במחיצות המגיעות לתקרה</row>
+		<row row_number="8" isdata="1">מחלוקת תיובתא ולמאן דאמר במחיצות</row>
+		<row row_number="9" isdata="1">שאין מגיעות לתקרה מחלוקת סייעתא להך</row>
+		<row row_number="10" isdata="1">לישנא דאמר רב נחמן מחלוקת במסיפס</row>
+		<row row_number="11" isdata="1">תיובתא להך לישנא דאמר רב נחמן אף</row>
+		<row row_number="12" isdata="1">במסיפס מחלוקת לימא תהוי תיובתא אמר</row>
+		<row row_number="13" isdata="1">לך רב נחמן פליגי במחיצה והוא הדין</row>
+		<row row_number="14" isdata="1">במסיפס והאי דקא מיפלגי במחיצה להודיעך</row>
+		<row row_number="15" isdata="1">כחן דבית הלל וליפלגי במסיפס להודיעך</row>
+		<row row_number="16" isdata="1">כחן דב"ש כח דהיתרא עדיף אמר רב נחמן</row>
+		<row row_number="17" isdata="1">אמר רב הלכה כרבי יהודה הסבר אמר</row>
+		<row row_number="18" isdata="1">רב נחמן בר יצחק מתניתין נמי דיקא דקתני</row>
+		<row row_number="19" isdata="1">ומודים בזמן שמקצתן שרויין בחדרים ובעליות</row>
+		<row row_number="20" isdata="1">שצריכין עירוב לכל חבורה וחבורה מאי</row>
+		<row row_number="21" isdata="1">חדרים ומאי עליות אילימא חדרים חדרים</row>
+		<row row_number="22" isdata="1">ממש ועליות עליות ממש פשיטא אלא לאו</row>
+		<row row_number="23" isdata="1">כעין חדרים כעין עליות ומאי ניהו מחיצות</row>
+		<row row_number="24" isdata="1">המגיעות לתקרה שמע מינה תנא במה</row>
+		<row row_number="25" isdata="1">דברים אמורים כשמוליכין את עירובן למקום</row>
+		<row row_number="26" isdata="1">אחר אבל אם היה עירובן בא אצלן דברי</row>
+		<row row_number="27" isdata="1">הכל עירוב אחד לכולן כמאן אזלא הא</row>
+		<row row_number="28" isdata="1">דתניא חמשה שגבו את עירובן כשמוליכין</row>
+		<row row_number="29" isdata="1">את עירובן למקום אחר עירוב אחד לכולן</row>
+		<row row_number="30" isdata="1">כמאן כבית הלל ואיכא דאמרי במה דברים</row>
+		<row row_number="31" isdata="1">אמורים כשהיה עירוב בא אצלן אבל אם היו</row>
+		<row row_number="32" isdata="1">מוליכין את עירובן למקום אחר דברי הכל</row>
+		<row row_number="33" isdata="1">צריכין עירוב לכל חבורה וחבורה כמאן</row>
+		<row row_number="34" isdata="1">אזלא הא דתניא חמשה שגבו את עירובן</row>
+		<row row_number="35" isdata="1">כשמוליכין את עירובן למקום אחר עירוב</row>
+		<row row_number="36" isdata="1">אחד לכולן כמאן דלא כחד<EndGemara/><StartMishna/>: מתני' האחין</row>
+		<row row_number="37" isdata="1">שהיו אוכלין על שלחן אביהם וישנים</row>
+		<row row_number="38" isdata="1">בבתיהם צריכין עירוב לכל אחד ואחד לפיכך</row>
+		<row row_number="39" isdata="1">אם שכח אחד מהם ולא עירב מבטל את</row>
+		<row row_number="40" isdata="1">רשותו אימתי בזמן שמוליכין עירובן במקום</row>
+		<row row_number="41" isdata="1">אחר אבל אם היה עירוב בא אצלן או שאין</row>
+		<row row_number="42" isdata="1">עמהן דיורין בחצר אינן צריכין לערב:</row>
+		<row row_number="43" isdata="1"><EndMishna/><StartGemara/>גמ' ש"מ מקום לינה גורם אמר רב יהודה</row>
+		<row row_number="44" isdata="1">אמר רב במקבלי פרס שנו ת"ר מי שיש לו</row>
+		<row row_number="45" isdata="1">בית שער אכסדרה ומרפסת בחצר חבירו</row>
+		<row row_number="46" isdata="1">הרי זה אין אוסר עליו (את) בית התבן</row>
+		<row row_number="47" isdata="1">(ואת) בית הבקר בית העצים ובית</row>
+		<row row_number="48" isdata="1">האוצרות הרי זה אוסר עליו רבי יהודה</row>
+		<row row_number="49" isdata="1">אומר אינו אוסר אלא מקום דירה</row>
+		<row row_number="50" isdata="1">בלבד אמר רבי יהודה מעשה בבן</row>
+		<row row_number="51" isdata="1">נפחא שהיו לו חמש חצרות באושא</row>
+		<row row_number="52" isdata="1">ובא מעשה לפני חכמים ואמרו אינו אוסר אלא בית דירה בלבד בית</row>
+		<row row_number="53" isdata="1">דירה סלקא דעתך אלא אימא מקום דירה מאי מקום דירה רב אמר</row>
+		<row row_number="54" isdata="0">מקום</row>
+</amud>
+</daf>
+</masechet>
+</root>

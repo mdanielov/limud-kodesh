@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:35.353829</dateCreated>
+   <lastModified>2016-08-04 11:56:35.353829</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="6">
+	<amud value="1">
+		<row row_number="1" isdata="1">מצידו בעשר מראשו בד' מאי שנא מצידו</row>
+		<row row_number="2" isdata="1">בעשר דאמר פתחא הוא מראשו נמי נימא</row>
+		<row row_number="3" isdata="1">פתחא הוא א"ר הונא בריה דרב יהושע</row>
+		<row row_number="4" isdata="1">כגון שנפרץ בקרן זוית דפתחא בקרן זוית</row>
+		<row row_number="5" isdata="1">לא עבדי אינשי ורב הונא אמר אחד זה וא'</row>
+		<row row_number="6" isdata="1">זה בארבעה וכן א"ל רב הונא לרב חנן בר</row>
+		<row row_number="7" isdata="1">רבא לא תפלוג עלאי דרב איקלע לדמחריא</row>
+		<row row_number="8" isdata="1">ועבד עובדא כוותי א"ל רב בקעה מצא</row>
+		<row row_number="9" isdata="1">וגדר בה גדר אמר רב נחמן בר יצחק כוותיה</row>
+		<row row_number="10" isdata="1">דרב הונא מסתברא דאיתמר מבוי עקום רב</row>
+		<row row_number="11" isdata="1">אמר תורתו כמפולש ושמואל אמר תורתו</row>
+		<row row_number="12" isdata="1">כסתום במאי עסקינן אילימא ביותר מעשר</row>
+		<row row_number="13" isdata="1">בהא לימא שמואל תורתו כסתום אלא לאו</row>
+		<row row_number="14" isdata="1">בעשר וקאמר רב תורתו כמפולש אלמא</row>
+		<row row_number="15" isdata="1">פירצת מבוי מצידו בד' ורב חנן בר רבא שאני</row>
+		<row row_number="16" isdata="1">התם דקא בקעי בה רבים מכלל דרב הונא</row>
+		<row row_number="17" isdata="1">סבר אע"ג דלא בקעי בה רבים מ"ש מדר'</row>
+		<row row_number="18" isdata="1">אמי ורב אסי התם דאיכא גידודי הכא דליכא</row>
+		<row row_number="19" isdata="1">גידודי: ת"ר כיצד מערבין דרך רה"ר עושה</row>
+		<row row_number="20" isdata="1">צורת הפתח מכאן ולחי וקורה מכאן חנניה</row>
+		<row row_number="21" isdata="1">אומר ב"ש אומרים עושה דלת מכאן ודלת</row>
+		<row row_number="22" isdata="1">מכאן וכשהוא יוצא ונכנס נועל ב"ה אומרים</row>
+		<row row_number="23" isdata="1">עושה דלת מכאן ולחי וקורה מכאן ורה"ר</row>
+		<row row_number="24" isdata="1">מי מיערבא והתניא יתר על כן א"ר יהודה</row>
+		<row row_number="25" isdata="0">מי</row>
+</amud>
+</daf>
+</masechet>
+</root>

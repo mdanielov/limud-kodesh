@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:44.525354</dateCreated>
+   <lastModified>2016-08-04 11:56:44.525354</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="121">
+	<amud value="1">
+		<row row_number="1" isdata="1">חד תני אפיגול וחד תני אנותר מאן דתני</row>
+		<row row_number="2" isdata="1">אפיגול משום חשדי כהונה מאן דתני אנותר</row>
+		<row row_number="3" isdata="1">משום עצלי כהונה חד אמר כזית וחד אמר</row>
+		<row row_number="4" isdata="1">כביצה מאן דאמר כזית כאיסורו ומאן דאמר</row>
+		<row row_number="5" isdata="1">כביצה כטומאתו<EndGemara/><StartMishna/>: מתני' בירך ברכת</row>
+		<row row_number="6" isdata="1">הפסח פטר את של זבח בירך את של זבח</row>
+		<row row_number="7" isdata="1">לא פטר את של פסח דברי רבי ישמעאל</row>
+		<row row_number="8" isdata="1">רבי עקיבא אומר [א] לא זו פוטרת זו ולא</row>
+		<row row_number="9" isdata="1">זו פוטרת זו: <EndMishna/><StartGemara/>גמ' כשתמצא לומר לדברי</row>
+		<row row_number="10" isdata="1">רבי ישמעאל זריקה בכלל שפיכה ולא</row>
+		<row row_number="11" isdata="1">שפיכה בכלל זריקה לדברי רבי עקיבא לא</row>
+		<row row_number="12" isdata="1">שפיכה בכלל זריקה ולא זריקה בכלל שפיכה:</row>
+		<row row_number="13" isdata="0">רבי</row>
+</amud>
+</daf>
+</masechet>
+</root>

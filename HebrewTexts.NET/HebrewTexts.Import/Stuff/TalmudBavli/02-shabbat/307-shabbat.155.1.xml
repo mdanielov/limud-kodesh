@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:34.997809</dateCreated>
+   <lastModified>2016-08-04 11:56:34.997809</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="155">
+	<amud value="1">
+		<row row_number="1" isdata="1">יתד באילן ותלה בה כלכלה למעלה מעשרה</row>
+		<row row_number="2" isdata="1">טפחים אין עירובו עירוב למטה מי' טפחים</row>
+		<row row_number="3" isdata="1">עירובו עירוב טעמא דנעץ יתד באילן הא</row>
+		<row row_number="4" isdata="1">לא נעץ אפילו למטה מי' טפחים אין עירובו</row>
+		<row row_number="5" isdata="1">עירוב והא האי תנא דקאסר בצדדין וקשרי</row>
+		<row row_number="6" isdata="1">בצדי צדדין אמר רב פפא הכא בכלכלה</row>
+		<row row_number="7" isdata="1">דחוקה עסקינן דבהדי דשקיל ליה לעירוב</row>
+		<row row_number="8" isdata="1">קמניד ליה לאילן וקמשמש באילן גופיה</row>
+		<row row_number="9" isdata="1">והלכתא צדדין אסורין צדי צדדין מותרין</row>
+		<row row_number="10" isdata="1">אמר רב אשי השתא דאמרת צדדין אסורין</row>
+		<row row_number="11" isdata="1">האי דרגא דמדלא לא לינחיה איניש</row>
+		<row row_number="12" isdata="1">אדיקלא דהוו להו צדדין אלא לינחיה</row>
+		<row row_number="13" isdata="1">אגוואזי לבר מדיקלא וכי סליק לא</row>
+		<row row_number="14" isdata="1">לינח כרעיה אגוואזי אלא ליתנח אקנין:</row>
+		<row row_number="15" isdata="1">מתני' מתירין פקיעי עמיר לפני בהמה</row>
+		<row row_number="16" isdata="1">ומפספסין את הכיפין אבל לא את הזירין</row>
+		<row row_number="17" isdata="1">אין מרסקין לא את השחת ולא את החרובין</row>
+		<row row_number="18" isdata="1">לפני בהמה בין דקה ובין גסה רבי יהודה</row>
+		<row row_number="19" isdata="1">מתיר בחרובין לדקה: <EndMishna/><StartGemara/>גמ' אמר רב הונא הן</row>
+		<row row_number="20" isdata="1">הן פקיעין הן הן כיפין פקיעין תרי כיפין</row>
+		<row row_number="21" isdata="1">תלתא זירין דארזי וה"ק מתירין פקיעי עמיר</row>
+		<row row_number="22" isdata="1">לפני בהמה ומפספסין והוא הדין לכיפין</row>
+		<row row_number="23" isdata="1">אבל לא את הזירין לא לפספס ולא להתיר</row>
+		<row row_number="24" isdata="1">אמר רב חסדא מאי טעמא דרב הונא קא</row>
+		<row row_number="25" isdata="1">סבר למטרח באוכלא טרחינן לשויי אוכלא</row>
+		<row row_number="26" isdata="1">לא משוינן רב יהודה אמר הן הן פקיעין הן</row>
+		<row row_number="27" isdata="1">הן זירין פקיעין תרי זירין תלתא כיפין דארזי</row>
+		<row row_number="28" isdata="1">וה"ק מתירין פקיעי עמיר לפני בהמה</row>
+		<row row_number="29" isdata="1">אבל פספוסי לא וכיפין פספוסי נמי</row>
+		<row row_number="30" isdata="1">מפספסינן אבל לא הזירין לפספס אלא</row>
+		<row row_number="31" isdata="1">להתיר אמר רבא מאי טעמא דרבי יהודה קסבר שווי אוכלא משוינן</row>
+		<row row_number="32" isdata="1">מטרח באוכלא לא טרחינן תנן אין מרסקין את השחת ואת החרובין</row>
+		<row row_number="33" isdata="1">לפני בהמה בין דקה ובין גסה מאי לאו חרובין דומיא דשחת מה שחת</row>
+		<row row_number="34" isdata="1">דרכיכי אף חרובין דרכיכי אלמא לא טרחינן באוכלא ותיובתיה דרב הונא</row>
+		<row row_number="35" isdata="1">אמר לך רב הונא לא שחת דומיא דחרובין מה חרובין דאקושי אף שחת</row>
+		<row row_number="36" isdata="1">דאקושי היכי משכחת לה בעילי זוטרי ת"ש רבי יהודה מתיר בחרובין</row>
+		<row row_number="37" isdata="1">לדקה לדקה אין לגסה לא אי אמרת בשלמא ת"ק סבר מיטרח באוכלא לא</row>
+		<row row_number="38" isdata="1">טרחינן שווי משוינן היינו דקא אמר ר' יהודה החרובין לדקה נמי שווי אוכלא</row>
+		<row row_number="39" isdata="1">הוא אלא אי אמרת ת"ק סבר שווי אוכלא לא משוינן מיטרח באוכלא מטרחינן</row>
+		<row row_number="40" isdata="1">רבי יהודה דמתיר בחרובין לדקה כל שכן לגסה מי סברת דקה דקה ממש</row>
+		<row row_number="41" isdata="1">מאי דקה גסה ומאי קרי לה דקה דדייקא באוכלא הא מדקתני רישא בין דקה</row>
+		<row row_number="42" isdata="1">ובין גסה מכלל דרבי יהודה דקה דקה ממש קאמר קשיא תא שמע מחתכין</row>
+		<row row_number="43" isdata="0">את</row>
+</amud>
+</daf>
+</masechet>
+</root>

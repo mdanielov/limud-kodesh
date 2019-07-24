@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:14.621075</dateCreated>
+   <lastModified>2016-08-04 11:57:14.621075</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="15">
+	<amud value="1">
+		<row row_number="1" isdata="1">כבינתי לבתי והיא בשנים עשר מנה ומתה</row>
+		<row row_number="2" isdata="1">וקיימו חכמים את דבריה אמר להם בני רוכל</row>
+		<row row_number="3" isdata="1">תקברם אמם ת"ק כר"א ור' נתן ור' יעקב נמי</row>
+		<row row_number="4" isdata="1">כר"א אע"ג דמית לא אמרינן מצוה לקיים דברי</row>
+		<row row_number="5" isdata="1">המת ויש אומרים כרבנן ור' יהודה הנשיא</row>
+		<row row_number="6" isdata="1">שאמר משום ר"מ כר"א מיהו היכא דמית</row>
+		<row row_number="7" isdata="1">אמרינן מצוה לקיים דברי המת וחכמים אומרי'</row>
+		<row row_number="8" isdata="1">יחלוקו מספקא להו וכאן אמרו שודא עדיף</row>
+		<row row_number="9" isdata="1">ור"ש הנשיא מעשה אתא לאשמועינן אבעיא</row>
+		<row row_number="10" isdata="1">להו ר"ש הנשיא נשיא הוא או משמיה</row>
+		<row row_number="11" isdata="1">דנשיא קאמר ת"ש דאמר רב יוסף הלכה כר"ש</row>
+		<row row_number="12" isdata="1">הנשיא ועדיין תיבעי לך נשיא הוא או דקאמר</row>
+		<row row_number="13" isdata="1">משמיה דנשיא תיקו גופא אמר רב יוסף</row>
+		<row row_number="14" isdata="1">הלכה כר"ש הנשיא והא קיי"ל דברי שכיב מרע</row>
+		<row row_number="15" isdata="1">ככתובין וכמסורין דמו רב יוסף מוקי לה</row>
+		<row row_number="16" isdata="1">בבריא והא ליורשי משלח קאמר וקיי"ל</row>
+		<row row_number="17" isdata="1">מצוה לקיים דברי המת תני יחזרו למשלח:<EndChapter name = "המביא קמא"/><EndGemara/></row>
+		<row row_number="18" isdata="0">הדרן עלך המביא קמא</row>
+		<row row_number="19" isdata="1"><StartChapter name = "המביא גט"/><StartMishna/>המביא  גט ממדינת הים ואמר בפני נכתב</row>
+		<row row_number="20" isdata="1">אבל לא בפני נחתם בפני נחתם</row>
+		<row row_number="21" isdata="1">אבל לא בפני נכתב בפני נכתב כולו ובפני</row>
+		<row row_number="22" isdata="1">נחתם חציו בפני נכתב חציו ובפני נחתם כולו</row>
+		<row row_number="23" isdata="1">פסול אחד אומר בפני נכתב ואחד אומר בפני</row>
+		<row row_number="24" isdata="1">נחתם פסול שנים אומרים בפנינו נכתב ואחד</row>
+		<row row_number="25" isdata="1">אומר בפני נחתם פסול ור' יהודה מכשיר</row>
+		<row row_number="26" isdata="1">אחד אומר בפני נכתב ושנים אומרים בפנינו</row>
+		<row row_number="27" isdata="1">נחתם כשר: <EndMishna/><StartGemara/>גמ' הא תו ל"ל הא תנא ליה</row>
+		<row row_number="28" isdata="1">חדא זימנא המביא גט ממדינת הים צריך</row>
+		<row row_number="29" isdata="1">שיאמר בפני נכתב ובפני נחתם אי מההיא</row>
+		<row row_number="30" isdata="1">הוה אמינא צריך ואי לא אמר כשר קמ"ל:</row>
+		<row row_number="31" isdata="1">בפני נכתב חציו ובפני נחתם כולו פסול:</row>
+		<row row_number="32" isdata="1">הי חציו אלימא חציו ראשון והאמר ר"א</row>
+		<row row_number="33" isdata="1">אפילו לא כתב בו אלא שיטה אחת לשמה</row>
+		<row row_number="34" isdata="1">שוב אינו צריך אלא אמר רב אשי חציו</row>
+		<row row_number="35" isdata="1">אחרון: בפני נכתב כולו ובפני נחתם חציו</row>
+		<row row_number="36" isdata="1">פסול: אמר רב חסדא ואפילו שנים מעידים</row>
+		<row row_number="37" isdata="1">על חתימת יד שני פסול מאי טעמא או כולו</row>
+		<row row_number="38" isdata="1">בקיום הגט או כולו בתקנת חכמים מתקיף לה</row>
+		<row row_number="39" isdata="1">רבא מי איכא מידי דאילו אמר חד כשר</row>
+		<row row_number="40" isdata="1">השתא דאיכא תרי פסול אלא אמר רבא אפי'</row>
+		<row row_number="41" isdata="0">הוא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:44.789800</dateCreated>
+   <lastModified>2016-08-04 11:57:44.789800</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1">דבעי למיכתב בהמה וחיה לכדרבי כתיב</row>
+		<row row_number="2" isdata="1">נמי שרץ כדתנא דבי רבי ישמעאל כל</row>
+		<row row_number="3" isdata="1">פרשה שנאמרה ונשנית לא נשנית אלא</row>
+		<row row_number="4" isdata="1">בשביל דבר שנתחדש בה ורבי אליעזר</row>
+		<row row_number="5" isdata="1">האי בה מאי עביד ליה פרט למתעסק</row>
+		<row row_number="6" isdata="1">ורבי יוחנן אמר משמעות דורשין איכא</row>
+		<row row_number="7" isdata="1">בינייהו וכן אמר רב ששת משמעות</row>
+		<row row_number="8" isdata="1">דורשין איכא בינייהו דרב ששת מחליף</row>
+		<row row_number="9" isdata="1">דרבי אליעזר לרבי עקיבא ודרבי עקיבא</row>
+		<row row_number="10" isdata="1">לרבי אליעזר בעא מיניה רבא מרב נחמן</row>
+		<row row_number="11" isdata="1">העלם זה וזה בידו מהו אמר ליה הרי</row>
+		<row row_number="12" isdata="1">העלם טומאה בידו וחייב אדרבה הרי</row>
+		<row row_number="13" isdata="1">העלם מקדש בידו ופטור אמר רב אשי</row>
+		<row row_number="14" isdata="1">חזינן אי מטומאה קא פריש הרי העלם</row>
+		<row row_number="15" isdata="1">טומאה בידו וחייב אי ממקדש קא פריש</row>
+		<row row_number="16" isdata="1">הרי העלם מקדש בידו ופטור אמר ליה</row>
+		<row row_number="17" isdata="1">רבינא לרב אשי כלום פריש ממקדש אלא</row>
+		<row row_number="18" isdata="1">משום טומאה כלום פריש מטומאה אלא</row>
+		<row row_number="19" isdata="1">משום מקדש אלא לא שנא תנו רבנן שני</row>
+		<row row_number="20" isdata="1">שבילין אחד טמא ואחד טהור והלך בראשון</row>
+		<row row_number="21" isdata="1">ולא נכנס בשני ונכנס חייב הלך בראשון</row>
+		<row row_number="22" isdata="1">ונכנס הזה ושנה וטבל ואח"כ הלך בשני</row>
+		<row row_number="23" isdata="1">ונכנס חייב ר"ש פוטר ורבי שמעון בן</row>
+		<row row_number="24" isdata="1">יהודה פוטר בכולן משום ר' שמעון: בכולן</row>
+		<row row_number="25" isdata="0">ואפילו</row>
+</amud>
+</daf>
+</masechet>
+</root>

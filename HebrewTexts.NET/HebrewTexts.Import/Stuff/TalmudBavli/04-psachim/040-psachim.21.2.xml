@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:40.416119</dateCreated>
+   <lastModified>2016-08-04 11:56:40.416119</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="21">
+	<amud value="2">
+		<row row_number="1" isdata="1">ר' יהודה בן בתירא אומר כותח וכל מיני</row>
+		<row row_number="2" isdata="1">כותח אסור למכור שלשים יום קודם לפסח:</row>
+		<row row_number="3" isdata="1">ומותר בהנאה: פשיטא לא צריכא שחרכו</row>
+		<row row_number="4" isdata="1">קודם זמנו וקמ"ל כדרבא דאמר רבא חרכו</row>
+		<row row_number="5" isdata="1">קודם זמנו מותר בהנאה אפילו לאחר זמנו:</row>
+		<row row_number="6" isdata="1">עבר זמנו אסור בהנאתו: פשיטא לא צריכא</row>
+		<row row_number="7" isdata="1">לשעות דרבנן דאמר רב גידל אמר רב</row>
+		<row row_number="8" isdata="1">חייא בר יוסף א"ר יוחנן המקדש משש שעות</row>
+		<row row_number="9" isdata="1">ולמעלה אפילו בחיטי קורדניתא אין חוששין</row>
+		<row row_number="10" isdata="1">לקדושין: ולא יסיק בו תנור וכירים: פשיטא</row>
+		<row row_number="11" isdata="1">לא צריכא לר' יהודה דאמר אין ביעור חמץ</row>
+		<row row_number="12" isdata="1">אלא שריפה סלקא דעתך אמינא הואיל</row>
+		<row row_number="13" isdata="1">ואמר ר' יהודה מצותו בשריפה בהדי דקא</row>
+		<row row_number="14" isdata="1">שריף ליה ליתהני מיניה קמ"ל: אמר חזקיה</row>
+		<row row_number="15" isdata="1">מנין לחמץ בפסח שאסור בהנאה שנאמר</row>
+		<row row_number="16" isdata="1">לא יאכל חמץ לא יהא בו היתר אכילה</row>
+		<row row_number="17" isdata="1">טעמא דכתב רחמנא לא יאכל חמץ הא לא</row>
+		<row row_number="18" isdata="1">כתב לא יאכל הוה אמינא איסור אכילה</row>
+		<row row_number="19" isdata="1">משמע איסור הנאה לא משמע ופליגא דר'</row>
+		<row row_number="20" isdata="1">אבהו דא"ר אבהו כל מקום שנאמר לא</row>
+		<row row_number="21" isdata="1">יאכל לא תאכל לא תאכלו אחד איסור אכילה</row>
+		<row row_number="22" isdata="1">ואחד איסור הנאה (משמע) עד שיפרט לך</row>
+		<row row_number="23" isdata="1">הכתוב כדרך שפרט לך בנבילה דתניא לא</row>
+		<row row_number="24" isdata="1">תאכלו כל נבלה לגר אשר בשעריך תתננה</row>
+		<row row_number="25" isdata="1">ואכלה או מכור לנכרי וגו' אין לי אלא לגר</row>
+		<row row_number="26" isdata="1">בנתינה ולנכרי במכירה לגר במכירה מנין</row>
+		<row row_number="27" isdata="1">ת"ל לגר אשר בשעריך תתננה או מכור לנכרי</row>
+		<row row_number="28" isdata="1">בנתינה מנין תלמוד לומר תתננה ואכלה או</row>
+		<row row_number="29" isdata="1">מכור לנכרי נמצאת אומר אחד גר ואחד</row>
+		<row row_number="30" isdata="1">נכרי בין במכירה בין בנתינה דברי ר' מאיר</row>
+		<row row_number="31" isdata="1">ר' יהודה אומר דברים ככתבן לגר בנתינה</row>
+		<row row_number="32" isdata="1">ולנכרי במכירה מאי טעמא דרבי יהודה אי</row>
+		<row row_number="33" isdata="1">סלקא דעתך כדאמר ר' מאיר ליכתוב רחמנא</row>
+		<row row_number="34" isdata="1">לגר אשר בשעריך תתננה ואכלה ומכור או</row>
+		<row row_number="35" isdata="1">למה לי שמע מינה לדברים ככתבן ור' מאיר</row>
+		<row row_number="36" isdata="1">או להקדים נתינה דגר למכירה דנכרי ורבי</row>
+		<row row_number="37" isdata="1">יהודה הא לא צריך קרא כיון דגר אתה</row>
+		<row row_number="38" isdata="1">מצווה להחיותו ונכרי אי אתה מצווה להחיותו</row>
+		<row row_number="39" isdata="1">לא צריך קרא סברא הוא בשלמא לר' מאיר</row>
+		<row row_number="40" isdata="1">דאמר אחד גר ואחד נכרי בין במכירה</row>
+		<row row_number="41" isdata="1">בין בנתינה מדאיצטריך קרא למישרא</row>
+		<row row_number="42" isdata="1">נבילה בהנאה הא כל איסורין שבתורה</row>
+		<row row_number="43" isdata="1">אסורין בין באכילה בין בהנאה אלא לרבי</row>
+		<row row_number="44" isdata="1">יהודה דאמר לדברים ככתבן הוא דאתא הא</row>
+		<row row_number="45" isdata="1">כל איסורים שבתורה מנא ליה דאסורין</row>
+		<row row_number="46" isdata="1">בהנאה נפקא ליה מלכלב תשליכון אותו</row>
+		<row row_number="47" isdata="0">אותו</row>
+</amud>
+</daf>
+</masechet>
+</root>

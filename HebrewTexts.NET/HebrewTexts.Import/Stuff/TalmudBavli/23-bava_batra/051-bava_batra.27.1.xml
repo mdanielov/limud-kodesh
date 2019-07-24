@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:31.751055</dateCreated>
+   <lastModified>2016-08-04 11:57:31.751055</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="27">
+	<amud value="1">
+		<row row_number="1" isdata="1">בית סאה בשבילן כמה הוו להו תרי</row>
+		<row row_number="2" isdata="1">אלפי וה' מאה גרמידי לכל חד כמה מטי</row>
+		<row row_number="3" isdata="1">ליה תמני מאה ותלתין ותלתא ותילתא אכתי</row>
+		<row row_number="4" isdata="1">נפישי ליה דעולא לא דק אימור דאמרינן לא</row>
+		<row row_number="5" isdata="1">דק לחומרא לקולא לא דק מי אמרינן מי</row>
+		<row row_number="6" isdata="1">סברת בריבועא קא אמרינן בעיגולא קא</row>
+		<row row_number="7" isdata="1">אמרינן מכדי כמה מרובע יותר על העיגול</row>
+		<row row_number="8" isdata="1">רביע פשו להו ז' מאה ושתין ותמניא</row>
+		<row row_number="9" isdata="1">אכתי פש ליה פלגא דאמתא היינו דלא דק</row>
+		<row row_number="10" isdata="1">ולחומרא לא דק תא שמע הקונה אילן</row>
+		<row row_number="11" isdata="1">וקרקעו מביא וקורא מאי לאו כל שהוא</row>
+		<row row_number="12" isdata="1">לא י"ו אמה תא שמע קנה שני אילנות</row>
+		<row row_number="13" isdata="1">בתוך של חבירו מביא ואינו קורא הא שלשה</row>
+		<row row_number="14" isdata="1">מביא וקורא מאי לאו כל שהוא לא הכא נמי</row>
+		<row row_number="15" isdata="1">י"ו אמה ת"ש ר"ע אומר קרקע כל שהוא</row>
+		<row row_number="16" isdata="1">חייב בפאה ובבכורים וכותבין עליו פרוזבול</row>
+		<row row_number="17" isdata="0">ונקנין</row>
+</amud>
+</daf>
+</masechet>
+</root>

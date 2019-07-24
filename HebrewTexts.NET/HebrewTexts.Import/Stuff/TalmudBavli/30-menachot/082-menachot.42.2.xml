@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:55.582418</dateCreated>
+   <lastModified>2016-08-04 11:57:55.582418</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="42">
+	<amud value="2">
+		<row row_number="1" isdata="1">מפשרניא ספר תורה תפילין ומזוזות שכתבן</row>
+		<row row_number="2" isdata="1">א] צדוקי כותי עובד כוכבים עבד אשה וקטן</row>
+		<row row_number="3" isdata="1">מומר פסולין שנאמר וקשרתם וכתבתם כל</row>
+		<row row_number="4" isdata="1">שישנו בקשירה ישנו בכתיבה כל שאינו</row>
+		<row row_number="5" isdata="1">בקשירה אינו בכתיבה ובישראל א"צ לברך</row>
+		<row row_number="6" isdata="1">דשלח רב חייא בריה דרב הונא משמיה דר'</row>
+		<row row_number="7" isdata="1">יוחנן על תפילין של יד אומר ברוך אשר</row>
+		<row row_number="8" isdata="1">קדשנו במצותיו וצונו להניח תפילין על תפילין</row>
+		<row row_number="9" isdata="1">של ב] ראש אומר ברוך אשר קדשנו במצותיו</row>
+		<row row_number="10" isdata="1">וצונו על מצות תפילין ואילו לעשות תפילין</row>
+		<row row_number="11" isdata="1">לא מברך אלא לאו היינו טעמא כל מצוה</row>
+		<row row_number="12" isdata="1">דעשייתה גמר מצוה כגון מילה אע"ג דכשירה</row>
+		<row row_number="13" isdata="1">בעובד כוכבים בישראל צריך לברך וכל</row>
+		<row row_number="14" isdata="1">מצוה דעשייתה לאו גמר מצוה כגון תפילין</row>
+		<row row_number="15" isdata="1">אע"ג דפסולות בעובד כוכבים בישראל אינו</row>
+		<row row_number="16" isdata="1">צריך לברך ובציצית בהא קמיפלגי מר סבר</row>
+		<row row_number="17" isdata="1">חובת טלית הוא ומר סבר חובת גברא הוא</row>
+		<row row_number="18" isdata="1">א"ל רב מרדכי לרב אשי אתון הכי מתניתו</row>
+		<row row_number="19" isdata="1">לה אנן הכי מתנינן לה א"ר יהודה אמר רב</row>
+		<row row_number="20" isdata="1">מנין לציצית בעובד כוכבים שכשירה שנאמר</row>
+		<row row_number="21" isdata="1">דבר אל בני ישראל ועשו להם ציצית יעשו</row>
+		<row row_number="22" isdata="1">להם אחרים אמר רב יהודה אמר רב עשאן</row>
+		<row row_number="23" isdata="1">מן הקוצים ומן הנימין ומן הגרדין פסולה מן</row>
+		<row row_number="24" isdata="1">הסיסין כשירה כי אמריתה קמיה דשמואל</row>
+		<row row_number="25" isdata="1">אמר אף מן הסיסין פסולה בעינן טוייה לשמה</row>
+		<row row_number="26" isdata="1">כתנאי ציפן זהב או שטלה עליהן עור בהמה</row>
+		<row row_number="27" isdata="1">טמאה פסולות עור בהמה טהורה כשירות</row>
+		<row row_number="28" isdata="1">ואע"פ שלא עיבדן לשמן רבן שמעון בן</row>
+		<row row_number="29" isdata="1">גמליאל אומר אף עור בהמה טהורה פסולות</row>
+		<row row_number="30" isdata="1">עד שיעבדן לשמן אמר ליה אביי לרב שמואל</row>
+		<row row_number="31" isdata="1">בר רב יהודה הא תכילתא היכי צבעיתו לה</row>
+		<row row_number="32" isdata="1">אמר ליה מייתינן דם ג] חלזון וסמנין ורמינן</row>
+		<row row_number="33" isdata="1">להו ביורה [ומרתחינן ליה] ושקלינא פורתא</row>
+		<row row_number="34" isdata="1">בביעתא וטעמינן להו באודרא ושדינן ליה</row>
+		<row row_number="35" isdata="1">לההוא ד] ביעתא וקלינן ליה לאודרא שמע</row>
+		<row row_number="36" isdata="1">מינה תלת שמע מינה טעימה פסולה ושמע</row>
+		<row row_number="37" isdata="1">מינה דבעינן צביעה לשמה ושמע מינה</row>
+		<row row_number="38" isdata="1">[א] טעימה פסלה היינו טעימה פסולה היינו</row>
+		<row row_number="39" isdata="1">צביעה לשמה אמר רב אשי מה טעם קאמר</row>
+		<row row_number="40" isdata="1">מה טעם טעימה פסולה משום דבעינן צביעה</row>
+		<row row_number="41" isdata="1">לשמה כתנאי טעימה פסולה משום שנאמר</row>
+		<row row_number="42" isdata="1">כליל תכלת דברי ר' חנינא בן גמליאל רבי</row>
+		<row row_number="43" isdata="1">יוחנן בן דהבאי אומר אפילו מראה שני שבה</row>
+		<row row_number="44" isdata="1">כשר משום שנאמר ושני תולעת ת"ר תכלת</row>
+		<row row_number="45" isdata="1">אין לה בדיקה ואין נקחית אלא מן המומחה</row>
+		<row row_number="46" isdata="1">תפילין יש להם בדיקה ואין ניקחין אלא מן המומחה ספרים ומזוזות יש להן</row>
+		<row row_number="47" isdata="1">בדיקה וניקחין מכל אדם ותכלת אין לה בדיקה והא רב יצחק בריה דרב</row>
+		<row row_number="48" isdata="1">יהודה בדיק ליה (סי' בגשם) מייתי מגביא גילא ה] ומיא דשבלילתא ומימי רגלים</row>
+		<row row_number="49" isdata="0">בן</row>
+</amud>
+</daf>
+</masechet>
+</root>

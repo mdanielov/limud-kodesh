@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.017754</dateCreated>
+   <lastModified>2016-08-04 11:57:09.017754</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1">אילימא כדקתני למה לי למימרא אלא לאו</row>
+		<row row_number="2" isdata="1">דאמר שנה אלמא שנה כהשנה דמי ויום</row>
+		<row row_number="3" isdata="1">נמי כהיום דיניה לא לעולם דאמר השנה</row>
+		<row row_number="4" isdata="1">ומהו דתימא הלך אחר רוב השנים ולא אית</row>
+		<row row_number="5" isdata="1">בהו עיבור קא משמע לן איבעיא להו אמר</row>
+		<row row_number="6" isdata="1">יין שאני טועם יובל מאי שנת חמשים</row>
+		<row row_number="7" isdata="1">כלפני חמשים או כלאחר חמשים ת"ש</row>
+		<row row_number="8" isdata="1">דתניא פלוגתא דרבי יהודה ורבנן וקדשתם</row>
+		<row row_number="9" isdata="1">את שנת החמשים שנה שנת החמשים אתה</row>
+		<row row_number="10" isdata="1">מונה ואי אתה מונה שנת חמשים ואחת</row>
+		<row row_number="11" isdata="1">מכאן אמרו יובל אינו עולה למנין שבוע</row>
+		<row row_number="12" isdata="1">רבי יהודה אומר יובל עולה למנין שבוע</row>
+		<row row_number="13" isdata="1">אמרו לו לרבי יהודה הרי הוא אומר שש</row>
+		<row row_number="14" isdata="1">שנים תזרע שדך ואין כאן אלא חמש אמר</row>
+		<row row_number="15" isdata="1">להם לדבריכם הרי הוא אומר ועשת את</row>
+		<row row_number="16" isdata="1">התבואה לשלש השנים הרי כאן</row>
+		<row row_number="17" isdata="1">ארבע אלא איכא לאוקמה בשאר שני</row>
+		<row row_number="18" isdata="1">שבוע דילי נמי איכא לאוקמה בשאר שני</row>
+		<row row_number="19" isdata="1">שבוע: עד הפסח אסור כו': למימרא</row>
+		<row row_number="20" isdata="1">דרבי מאיר סבר לא מעייל איניש נפשיה</row>
+		<row row_number="21" isdata="0">לספיקא</row>
+</amud>
+</daf>
+</masechet>
+</root>

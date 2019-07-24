@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:43.441723</dateCreated>
+   <lastModified>2016-08-04 11:57:43.441723</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="113">
+	<amud value="2">
+		<row row_number="1" isdata="1">קפדן הוה רגיל למיתי גביה איכסי' מיניה תלתא יומי</row>
+		<row row_number="2" isdata="1">ולא אתא כי אתא א"ל אמאי לא אתא מר א"ל קפדן</row>
+		<row row_number="3" isdata="1">קרית לי א"ל הא דקמן דקא קפיד מר: ולא ידבק</row>
+		<row row_number="4" isdata="1">בידך מאומה מן החרם כל זמן שרשעים בעולם חרון</row>
+		<row row_number="5" isdata="1">אף בעולם וכו': מאן רשעים אמר רב יוסף גנבי</row>
+		<row row_number="6" isdata="1">ת"ר רשע בא לעולם חרון בא לעולם שנא' בבא</row>
+		<row row_number="7" isdata="1">רשע בא גם בוז ועם קלון חרפה רשע אבד מן העולם</row>
+		<row row_number="8" isdata="1">טובה באה לעולם שנא' ובאבוד רשעים רנה צדיק</row>
+		<row row_number="9" isdata="1">נפטר מן העולם רעה באה לעולם שנאמר הצדיק אבד ואין איש שם על לב ואנשי חסד נאספים באין מבין</row>
+		<row row_number="10" isdata="1">כי מפני הרעה נאסף הצדיק צדיק בא לעולם טובה באה לעולם שנאמר זה ינחמנו ממעשינו ומעצבון ידינו:<EndChapter name = "כל ישראל יש להם חלק "/><EndGemara/></row>
+		<row row_number="11" isdata="0">הדרן עלך כל ישראל יש להם חלק וסליקא לה מסכת סנהדרין</row>
+</amud>
+</daf>
+</masechet>
+</root>

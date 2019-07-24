@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:37.468382</dateCreated>
+   <lastModified>2016-08-04 11:57:37.468382</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="147">
+	<amud value="2">
+		<row row_number="1" isdata="1">לתפלתו של כהן גדול ורבא אמר רב נחמן</row>
+		<row row_number="2" isdata="1">מתנת שכיב מרע מדרבנן בעלמא היא שמא</row>
+		<row row_number="3" isdata="1">תטרף דעתו עליו ומי אמר רב נחמן הכי</row>
+		<row row_number="4" isdata="1">והא אמר רב נחמן אע"ג דאמר שמואל</row>
+		<row row_number="5" isdata="1">המוכר שטר חוב לחבירו וחזר ומחלו</row>
+		<row row_number="6" isdata="1">מחול ואפילו יורש מוחל מודה שמואל</row>
+		<row row_number="7" isdata="1">שאם נתנו במתנת שכיב מרע דאינו יכול</row>
+		<row row_number="8" isdata="1">למוחלו אי אמרת בשלמא דאורייתא משום</row>
+		<row row_number="9" isdata="1">הכי אינו יכול למחול אלא אי אמרת דרבנן</row>
+		<row row_number="10" isdata="1">היא אמאי אינו יכול למחול אינה של תורה</row>
+		<row row_number="11" isdata="1">ועשאוה כשל תורה אמר רבא אמר רב</row>
+		<row row_number="12" isdata="1">נחמן שכיב מרע שאמר ידור פלוני בבית</row>
+		<row row_number="13" isdata="1">זה יאכל פלוני פירות דקל זה לא אמר כלום</row>
+		<row row_number="14" isdata="1">עד שיאמר תנו בית זה לפלוני וידור בו תנו</row>
+		<row row_number="15" isdata="1">דקל זה לפלוני ויאכל פירותיו למימרא</row>
+		<row row_number="16" isdata="1">דסבר ר"נ מילתא דאיתא בבריא איתא</row>
+		<row row_number="17" isdata="1">בשכיב מרע דליתא בבריא ליתא בשכיב</row>
+		<row row_number="18" isdata="1">מרע והא אמר רבא אמר רב נחמן</row>
+		<row row_number="19" isdata="0">שכיב</row>
+</amud>
+</daf>
+</masechet>
+</root>

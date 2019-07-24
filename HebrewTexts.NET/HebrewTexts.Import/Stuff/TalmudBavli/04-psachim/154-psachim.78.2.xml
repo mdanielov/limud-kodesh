@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:42.781254</dateCreated>
+   <lastModified>2016-08-04 11:56:42.781254</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="78">
+	<amud value="2">
+		<row row_number="1" isdata="1">הא אמרת בציבור אפילו רבי יהושע מודה</row>
+		<row row_number="2" isdata="1">אלא רואה אני דברי ר"א בדיעבד ודברי ר'</row>
+		<row row_number="3" isdata="1">יהושע לכתחלה דיעבד אפילו רבי יהושע</row>
+		<row row_number="4" isdata="1">נמי מודה הוא דקתני מודה רבי יהושע שאם</row>
+		<row row_number="5" isdata="1">זרק הורצה הא בטומאה הא באבוד ושרוף</row>
+		<row row_number="6" isdata="1">כי קתני מודה רבי יהושע שאם זרק הורצה</row>
+		<row row_number="7" isdata="1">בנטמא אבל באבוד ושרוף לא כי קאמר ר'</row>
+		<row row_number="8" isdata="1">יוסי רואה אני את דברי ר"א בדיעבד באבוד</row>
+		<row row_number="9" isdata="1">ושרוף<EndGemara/><StartMishna/>: מתני' נטמא בשר וחלב קיים</row>
+		<row row_number="10" isdata="1">אינו זורק את הדם נטמא החלב והבשר</row>
+		<row row_number="11" isdata="1">קיים זורק את הדם ובמוקדשים אינו כן אלא</row>
+		<row row_number="12" isdata="1">אע"פ שנטמא הבשר והחלב קיים זורק את</row>
+		<row row_number="13" isdata="1">הדם: <EndMishna/><StartGemara/>גמ' אמר רב גידל אמר רב אם זרק</row>
+		<row row_number="14" isdata="1">הורצה והא בעינן אכילה אכילה לא</row>
+		<row row_number="15" isdata="1">מעכבא והא כתיב איש לפי אכלו למצוה</row>
+		<row row_number="16" isdata="1">ולעכב לא והתניא במכסת מלמד שאין</row>
+		<row row_number="17" isdata="1">הפסח נשחט אלא למנויו יכול שחטו שלא</row>
+		<row row_number="18" isdata="1">למנויו יהא כעובר על המצוה וכשר ת"ל</row>
+		<row row_number="19" isdata="1">איש לפי אכלו תכוסו הכתוב שנה עליו</row>
+		<row row_number="20" isdata="1">לעכב ואיתקש אוכלין למנויין אלא רב דאמר</row>
+		<row row_number="21" isdata="1">כרבי נתן דאמר אכילת פסחים לא מעכבא</row>
+		<row row_number="22" isdata="1">הי רבי נתן אילימא הא רבי נתן דתניא רבי</row>
+		<row row_number="23" isdata="1">נתן אומר מניין שכל ישראל יוצאין בפסח</row>
+		<row row_number="24" isdata="1">אחד ת"ל ושחטו אותו כל קהל עדת</row>
+		<row row_number="25" isdata="1">ישראל בין הערבים וכי כל הקהל שוחטין</row>
+		<row row_number="26" isdata="1">והלא אין שוחט אלא אחד אלא מלמד שכל</row>
+		<row row_number="27" isdata="1">ישראל יוצאין בפסח אחד דילמא שאני התם</row>
+		<row row_number="28" isdata="1">דאי ממשכי הני חזי להני ואי ממשכי הני</row>
+		<row row_number="29" isdata="1">חזי להני אלא הא ר' נתן דתניא נמנו עליו</row>
+		<row row_number="30" isdata="1">חבורה אחת וחזרו ונמנו עליו חבורה אחרת</row>
+		<row row_number="31" isdata="1">ראשונים שיש להן כזית אוכלין ופטורין</row>
+		<row row_number="32" isdata="1">מלעשות פסח שני אחרונים שאין להם</row>
+		<row row_number="33" isdata="1">כזית אין אוכלין וחייבין לעשות פסח שני</row>
+		<row row_number="34" isdata="1">רבי נתן אומר אלו ואלו פטורין מלעשות</row>
+		<row row_number="35" isdata="1">פסח שני שכבר נזרק הדם אכתי דילמא</row>
+		<row row_number="36" isdata="1">שאני התם דאי ממשכי הני חזי להו א"כ</row>
+		<row row_number="37" isdata="1">ליתני הואיל וראויים לימשך מאי שכבר</row>
+		<row row_number="38" isdata="1">נזרק הדם ש"מ בדם תליא מילתא אבל</row>
+		<row row_number="39" isdata="1">אכילה לא מעכבא מאי דוחקיה דרב דמוקים</row>
+		<row row_number="40" isdata="1">לה מתני' לכתחלה ור' נתן נוקמה כרבנן</row>
+		<row row_number="41" isdata="1">ואפילו דיעבד נמי לא רב מתני' קשיתיה</row>
+		<row row_number="42" isdata="1">אמאי (תני) אין זורק את הדם ליתני פסול</row>
+		<row row_number="43" isdata="1">אלא שמע מינה אין זורק לכתחלה אבל</row>
+		<row row_number="44" isdata="1">דיעבד שפיר דמי ולר' נתן איש לפי אכלו</row>
+		<row row_number="45" isdata="1">למה לי דבעינן גברא דחזי לאכילה מאן תנא להא דתנו רבנן שחטו</row>
+		<row row_number="46" isdata="1">לאוכליו וזרקו דמו שלא לאוכליו הפסח עצמו כשר ואדם יוצא בו ידי</row>
+		<row row_number="47" isdata="1">חובתו כמאן נימא רבי נתן היא ולא רבנן אפילו תימא רבנן אין</row>
+		<row row_number="48" isdata="1">מחשבת אוכלין בזריקה מאן תנא להא דתנו רבנן הרי שהיה חולה</row>
+		<row row_number="49" isdata="1">בשעת שחיטה וחלים בשעת זריקה חלים בשעת שחיטה וחולה בשעת</row>
+		<row row_number="50" isdata="1">זריקה אין שוחטין וזורקין עליו עד שיהא חלים משעת שחיטה עד שעת</row>
+		<row row_number="51" isdata="1">זריקה כמאן נימא רבנן היא ולא רבי נתן אפילו תימא רבי נתן גברא</row>
+		<row row_number="52" isdata="1">דחזי לאכילה בעינן מאן תנא להא דתנו רבנן שחטו בטהרה ואחר כך</row>
+		<row row_number="53" isdata="1">נטמאו הבעלים יזרק הדם בטהרה ואל יאכל בשר בטומאה כמאן אמר רבי</row>
+		<row row_number="54" isdata="1">(אליעזר) במחלוקת שנויה ורבי נתן היא ורבי יוחנן אמר אפילו תימא</row>
+		<row row_number="55" isdata="1">רבנן היא הכא במאי עסקינן בציבור דאפילו בטומאה נמי עבדי אי</row>
+		<row row_number="56" isdata="1">בציבור אמאי אין הבשר נאכל בטומאה גזירה שמא יטמאו הבעלים לאחר זריקה ויאמרו אשתקד לא נטמאנו</row>
+		<row row_number="57" isdata="1">ואכלנו השתא נמי ניכול ולא ידעי דאשתקד כי איזדריק דם בעלים טמאים הוו השתא בעלים טהורין הוו</row>
+		<row row_number="58" isdata="0">ואיבעית</row>
+</amud>
+</daf>
+</masechet>
+</root>

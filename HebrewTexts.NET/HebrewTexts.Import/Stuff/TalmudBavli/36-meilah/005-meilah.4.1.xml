@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:09.842233</dateCreated>
+   <lastModified>2016-08-04 11:58:09.842233</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="4">
+	<amud value="1">
+		<row row_number="1" isdata="1">והא קתני א] אם אחרים מביא לידי פיגול הוא</row>
+		<row row_number="2" isdata="1">עצמו לא כ"ש הא נמי איסורא דמייתי לידי</row>
+		<row row_number="3" isdata="1">פיגול אמר ליה רבינא לרב אשי והאמר אילפא</row>
+		<row row_number="4" isdata="1">מחלוקת בשתי עבודות כגון דאמר הריני</row>
+		<row row_number="5" isdata="1">שוחט סימן ראשון חוץ לזמנו וסימן שני חוץ</row>
+		<row row_number="6" isdata="1">למקומו אבל בעבודה אחת דכולי עלמא</row>
+		<row row_number="7" isdata="1">ב] עירובי מחשבות הואי ה"נ לכי זריק תיגלי</row>
+		<row row_number="8" isdata="1">מילתא ג] אי בעבודה אחת אי בשתי עבודות</row>
+		<row row_number="9" isdata="1">ד] אי הכי גבי תודה נמי עד ה] דזריק ו] מאי קדש</row>
+		<row row_number="10" isdata="1">ליפסל דבעי שריפה לימא מסייע ליה הפיגול</row>
+		<row row_number="11" isdata="1">לעולם מועלין בו לאו אע"ג דאיזריק דם ומסייע</row>
+		<row row_number="12" isdata="1">ליה לא דלא זרק הדם אי דלא זרק הדם מאי</row>
+		<row row_number="13" isdata="1">למימרא אלא לעולם דזריק וכי תניא ההיא</row>
+		<row row_number="14" isdata="1">בעולה אי בעולה פשיטא דגבוה היא כולה</row>
+		<row row_number="15" isdata="0">ועוד</row>
+</amud>
+</daf>
+</masechet>
+</root>

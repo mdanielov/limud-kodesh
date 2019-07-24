@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:34.856232</dateCreated>
+   <lastModified>2016-08-04 11:57:34.856232</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="92">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "המוכר פירות"/><StartMishna/>המוכר  פירות לחברו וזרען ולא צמחו</row>
+		<row row_number="2" isdata="1">ואפילו זרע פשתן אינו חייב</row>
+		<row row_number="3" isdata="1">באחריותן ר"ש בן גמליאל אומר זרעוני</row>
+		<row row_number="4" isdata="1">גינה שאינן נאכלין חייב באחריותן: <EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="5" isdata="1">איתמר המוכר שור לחבירו ונמצא נגחן</row>
+		<row row_number="6" isdata="1">רב אמר הרי זה מקח טעות ושמואל אמר</row>
+		<row row_number="7" isdata="1">יכול לומר לו לשחיטה מכרתיו לך וליחזי</row>
+		<row row_number="8" isdata="1">אי גברא דזבין לנכסתא לנכסתא אי</row>
+		<row row_number="9" isdata="1">לרדיא לרדיא בגברא דזבין להכי ולהכי</row>
+		<row row_number="10" isdata="1">וליחזי דמי היכי נינהו לא צריכא דאייקר</row>
+		<row row_number="11" isdata="1">בישרא וקם בדמי רדיא אי הכי למאי</row>
+		<row row_number="12" isdata="1">נפקא מינה נפקא מינה לטרחא היכי דמי</row>
+		<row row_number="13" isdata="0">אי</row>
+</amud>
+</daf>
+</masechet>
+</root>

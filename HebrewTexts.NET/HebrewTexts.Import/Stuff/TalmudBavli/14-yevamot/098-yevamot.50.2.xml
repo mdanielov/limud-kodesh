@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:59.157190</dateCreated>
+   <lastModified>2016-08-04 11:56:59.157190</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="50">
+	<amud value="2">
+		<row row_number="1" isdata="1">אחת יבמה אחת ליבם אחד ואחת שתי</row>
+		<row row_number="2" isdata="1">יבמות ליבם אחד כיצד עשה מאמר בזו</row>
+		<row row_number="3" isdata="1">ומאמר בזו צריכות שני גיטין וחליצה מאמר</row>
+		<row row_number="4" isdata="1">בזו וגט לזו צריכה גט וחליצה מאמר בזו</row>
+		<row row_number="5" isdata="1">ובעל את זו צריכות ב' גיטין וחליצה מאמר</row>
+		<row row_number="6" isdata="1">בזו וחלץ לזו הראשונה צריכה גט גט לזו</row>
+		<row row_number="7" isdata="1">וגט לזו צריכות הימנו חליצה גט לזו ובעל</row>
+		<row row_number="8" isdata="1">את זו צריכה גט וחליצה גט לזו ומאמר</row>
+		<row row_number="9" isdata="1">בזו צריכה גט וחליצה גט לזו וחלץ לזו</row>
+		<row row_number="10" isdata="1">אין אחר חליצה כלום חלץ וחלץ או חלץ</row>
+		<row row_number="11" isdata="1">ועשה מאמר נתן גט ובעל או בעל ובעל</row>
+		<row row_number="12" isdata="1">או בעל ועשה מאמר נתן גט וחלץ אין אחר</row>
+		<row row_number="13" isdata="1">חליצה כלום בין יבם אחד לשתי יבמות</row>
+		<row row_number="14" isdata="1">בין שני יבמין ליבמה אחת חלץ ועשה</row>
+		<row row_number="15" isdata="1">מאמר נתן גט ובעל או בעל ועשה מאמר</row>
+		<row row_number="16" isdata="1">ונתן גט וחלץ אין אחר חליצה כלום בין</row>
+		<row row_number="17" isdata="1">בתחלה בין באמצע בין בסוף והבעילה</row>
+		<row row_number="18" isdata="1">בזמן שהיא בתחלה אין אחריה כלום באמצע</row>
+		<row row_number="19" isdata="1">ובסוף יש אחריה כלום רבי נחמיה אומר</row>
+		<row row_number="20" isdata="1">אחת בעילה ואחת חליצה בין בתחלה בין</row>
+		<row row_number="21" isdata="1">באמצע בין בסוף אין אחריה כלום: <EndMishna/><StartGemara/>גמ' עד</row>
+		<row row_number="22" isdata="1">כאן לא פליגי אלא בגט אחר גט ומאמר</row>
+		<row row_number="23" isdata="1">אחר מאמר אבל גט אחד ביבמה [ומאמר אחד ביבמה] מהני מ"ט אמור</row>
+		<row row_number="24" isdata="1">רבנן גט ביבמה מהני משום דמהני בעלמא דאי אמרת לא מהני אמרי</row>
+		<row row_number="25" isdata="1">גט להוציאה וחליצה להוציאה ומדגט לא מהני חליצה נמי לא מהני ואתי</row>
+		<row row_number="26" isdata="1">למיבעל אחר חליצה ומאי טעמא אמור רבנן מאמר ביבמה מהני משום</row>
+		<row row_number="27" isdata="1">דמהני בעלמא דאי אמרת לא מהני אמרי מאמר לקנות וביאה לקנות</row>
+		<row row_number="28" isdata="1">ומדמאמר לא מהני ביאה נמי לא מהניא ואתי למיבעל אחר ביאה</row>
+		<row row_number="29" isdata="1">ומ"ט אמור רבנן ביאה פסולה יש אחריה כלום אמרי אי ביאה אחר הגט</row>
+		<row row_number="30" isdata="1">היא גזירה ביאה אחר הגט משום ביאה אחר חליצה ואי ביאה אחר</row>
+		<row row_number="31" isdata="1">מאמר היא גזירה ביאה אחר מאמר משום ביאה אחר ביאה ומ"ט אמור</row>
+		<row row_number="32" isdata="1">רבנן האי חליצה פסולה אין אחריה כלום אמרי מאי לגזור נגזור חליצה</row>
+		<row row_number="33" isdata="1">אחר הגט משום חליצה אחר חליצה כל כי הני תחלוץ ותיזיל ליגזור</row>
+		<row row_number="34" isdata="1">חליצה אחר מאמר משום חליצה אחר ביאה אטו חליצה אחר מאמר מי</row>
+		<row row_number="35" isdata="1">לא בעיא גט למאמרו חליצה אחר ביאה נמי בעיא גט לביאתו אמר רבא</row>
+		<row row_number="36" isdata="0">מ"ט</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:42.861258</dateCreated>
+   <lastModified>2016-08-04 11:56:42.861258</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="80">
+	<amud value="2">
+		<row row_number="1" isdata="1">טהרה מדחיא טומאה לא מדחיא ומר סבר</row>
+		<row row_number="2" isdata="1">אפילו טומאה נמי מדחיא איתמר היו</row>
+		<row row_number="3" isdata="1">שלישיתן זבין ושלישיתן טהורין ושלישיתן</row>
+		<row row_number="4" isdata="1">טמאי מתים אמר רבי מני בר פטיש אותן</row>
+		<row row_number="5" isdata="1">טמאי מתים אינן עושין לא את הראשון ולא</row>
+		<row row_number="6" isdata="1">השני בראשון לא עבדי הגדילו זבין על</row>
+		<row row_number="7" isdata="1">הטהורים דלא עבדי בטומאה הוה ליה טמאי</row>
+		<row row_number="8" isdata="1">מתים מיעוטא ומיעוטא לא עבדי בראשון</row>
+		<row row_number="9" isdata="1">בשני לא עבדי נצרפו זבין עם טמאי מתים</row>
+		<row row_number="10" isdata="1">דלא עבדי בראשון הוו להו רובא ורובא לא</row>
+		<row row_number="11" isdata="1">מדחו לפסח שני<EndGemara/><StartMishna/>: מתני' הפסח שנזרק דמו</row>
+		<row row_number="12" isdata="1">ואח"כ נודע שהוא טמא הציץ מרצה נטמא</row>
+		<row row_number="13" isdata="1">הגוף אין הציץ מרצה מפני שאמרו הנזיר</row>
+		<row row_number="14" isdata="1">ועושה פסח הציץ מרצה על טומאת הדם</row>
+		<row row_number="15" isdata="1">ואין הציץ מרצה על טומאת הגוף נטמא</row>
+		<row row_number="16" isdata="1">טומאת התהום הציץ מרצה: <EndMishna/><StartGemara/>גמ' טעמא</row>
+		<row row_number="17" isdata="1">דנזרק ואח"כ נודע אבל נודע ואח"כ נזרק לא</row>
+		<row row_number="18" isdata="1">מרצה ורמינהו על מה הציץ מרצה על</row>
+		<row row_number="19" isdata="1">הדם ועל הבשר ועל החלב שנטמא בין</row>
+		<row row_number="20" isdata="1">בשוגג בין במזיד בין באונס בין ברצון בין</row>
+		<row row_number="21" isdata="1">ביחיד בין בציבור אמר רבינא טומאתו</row>
+		<row row_number="22" isdata="1">בין בשוגג בין במזיד הורצה זריקתו בשוגג</row>
+		<row row_number="23" isdata="1">הורצה במזיד לא הורצה רבי שילא אמר</row>
+		<row row_number="24" isdata="1">זריקתו בין בשוגג בין במזיד הורצה טומאתו</row>
+		<row row_number="25" isdata="1">בשוגג הורצה במזיד לא הורצה אלא הא</row>
+		<row row_number="26" isdata="1">דקתני בין בשוגג בין במזיד ה"ק נטמא</row>
+		<row row_number="27" isdata="1">בשוגג וזרקו בין בשוגג בין במזיד הורצה</row>
+		<row row_number="28" isdata="1">והא דקתני דם שנזרק ואח"כ נודע טעמא</row>
+		<row row_number="29" isdata="1">דנזרק ואח"כ נודע אבל נודע ואח"כ נזרק</row>
+		<row row_number="30" isdata="1">לא הוא הדין דאפילו נודע ואח"כ נזרק והאי</row>
+		<row row_number="31" isdata="1">דקתני נזרק ואח"כ נודע משום דבעי למתני</row>
+		<row row_number="32" isdata="1">סיפא נטמא הגוף אין הציץ מרצה דאפילו</row>
+		<row row_number="33" isdata="1">נזרק ואח"כ נודע לא קתני רישא נמי נזרק</row>
+		<row row_number="34" isdata="1">ואח"כ נודע: נטמא טומאת התהום וכו':</row>
+		<row row_number="35" isdata="1">בעי רמי בר חמא כהן המרצה בקרבנותיהן</row>
+		<row row_number="36" isdata="1">הותרה לו טומאת התהום או לא מי אמרינן</row>
+		<row row_number="37" isdata="1">כי גמירי טומאת התהום בבעלים בכהן לא</row>
+		<row row_number="38" isdata="1">גמירי או דילמא בזבחא גמירי לא שנא</row>
+		<row row_number="39" isdata="1">בכהן ול"ש בבעלים אמר רבא ת"ש דתני</row>
+		<row row_number="40" isdata="1">רבי חייא לא אמרו טומאת התהום אלא</row>
+		<row row_number="41" isdata="1">למת בלבד מת למעוטי מאי לאו למעוטי</row>
+		<row row_number="42" isdata="1">טומאת התהום דשרץ ובמאי עסקינן אי נימא</row>
+		<row row_number="43" isdata="1">בבעלים ובמאן אי בנזיר מי מהני ביה כי</row>
+		<row row_number="44" isdata="1">ימות מת עליו אמר רחמנא אלא בעושה</row>
+		<row row_number="45" isdata="1">פסח הניחא למאן דאמר אין שוחטין וזורקין</row>
+		<row row_number="46" isdata="1">על טמאי שרץ אלא למאן דאמר שוחטין</row>
+		<row row_number="47" isdata="1">וזורקין על טמאי שרץ השתא טומאה ידועה</row>
+		<row row_number="48" isdata="1">הותרה לו טומאת התהום לא כל שכן אלא</row>
+		<row row_number="49" isdata="1">לאו בכהן ושמע מינה הותרה לו טומאת</row>
+		<row row_number="50" isdata="1">התהום אמר רב יוסף לא לעולם בבעלים</row>
+		<row row_number="51" isdata="1">ובפסח ולמעוטי טומאת התהום דזיבה וטומאת תהום דזיבה לא</row>
+		<row row_number="52" isdata="1">מרצה והתניא רבי יוסי אומר שומרת יום כנגד יום ששחטו וזרקו עליה</row>
+		<row row_number="53" isdata="0">בשני</row>
+</amud>
+</daf>
+</masechet>
+</root>

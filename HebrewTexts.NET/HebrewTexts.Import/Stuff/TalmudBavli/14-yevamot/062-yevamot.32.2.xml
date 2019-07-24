@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:58.400147</dateCreated>
+   <lastModified>2016-08-04 11:56:58.400147</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="32">
+	<amud value="2">
+		<row row_number="1" isdata="1">אמר ר' אבהו מודה ר' יוסי באיסור מוסיף תינח</row>
+		<row row_number="2" isdata="1">היכא דנשא חי ואח"כ נשא מת מגו דאתוסף</row>
+		<row row_number="3" isdata="1">איסור לגבי אחים אתוסף איסור לגבי דידיה</row>
+		<row row_number="4" isdata="1">אלא היכא דנשא מת ואח"כ נשא חי מאי</row>
+		<row row_number="5" isdata="1">איסור מוסיף איכא וכ"ת מגו דאיתסר בכולהו</row>
+		<row row_number="6" isdata="1">אחוותא האי איסור כולל הוא אלא אמר</row>
+		<row row_number="7" isdata="1">רבא מעלה אני עליו כאילו עשה שתים ואינו</row>
+		<row row_number="8" isdata="1">חייב אלא אחת וכן כי אתא רבין א"ר יוחנן</row>
+		<row row_number="9" isdata="1">מעלה אני עליו כאילו עשה ב' ואינו חייב</row>
+		<row row_number="10" isdata="1">אלא אחת מאי נפקא מינה לקברו בין</row>
+		<row row_number="11" isdata="1">רשעים גמורים ובפלוגתא דאיתמר זר</row>
+		<row row_number="12" isdata="1">ששימש בשבת רבי חייא אומר חייב שתים</row>
+		<row row_number="13" isdata="1">בר קפרא אומר אין חייב אלא אחת קפץ</row>
+		<row row_number="14" isdata="1">רבי חייא ונשבע העבודה כך שמעתי מרבי</row>
+		<row row_number="15" isdata="1">שתים קפץ בר קפרא ונשבע העבודה כך</row>
+		<row row_number="16" isdata="1">שמעתי מרבי אחת התחיל רבי חייא לדון</row>
+		<row row_number="17" isdata="1">שבת לכל נאסרה כשהותרה במקדש אצל</row>
+		<row row_number="18" isdata="1">כהנים הותרה לכהנים הותרה ולא לזרים יש</row>
+		<row row_number="19" isdata="1">כאן משום זרות ויש כאן משום שבת התחיל</row>
+		<row row_number="20" isdata="1">בר קפרא לדון שבת לכל נאסרה כשהותרה</row>
+		<row row_number="21" isdata="1">במקדש הותרה אין כאן אלא זרות בעל מום</row>
+		<row row_number="22" isdata="1">ששימש בטומאה רבי חייא אומר חייב</row>
+		<row row_number="23" isdata="1">שתים בר קפרא אומר אין חייב אלא אחת</row>
+		<row row_number="24" isdata="1">קפץ ר' חייא ונשבע העבודה כך שמעתי מרבי</row>
+		<row row_number="25" isdata="1">שתים קפץ בר קפרא ונשבע העבודה כך</row>
+		<row row_number="26" isdata="1">שמעתי מרבי אחת התחיל ר"ח לדון טומאה</row>
+		<row row_number="27" isdata="1">לכל נאסרה כשהותרה במקדש אצל כהנים</row>
+		<row row_number="28" isdata="1">תמימים הותרה לכהנים תמימים הותרה</row>
+		<row row_number="29" isdata="1">ולא לבעלי מומין יש כאן משום בעלי</row>
+		<row row_number="30" isdata="1">מומין ויש כאן משום טומאה התחיל בר</row>
+		<row row_number="31" isdata="1">קפרא לדון טומאה לכל נאסרה כשהותרה</row>
+		<row row_number="32" isdata="1">במקדש הותרה אין כאן אלא משום בעל</row>
+		<row row_number="33" isdata="1">מום זר שאכל מליקה ר' חייא אומר חייב</row>
+		<row row_number="34" isdata="1">שתים בר קפרא אומר אין חייב אלא אחת</row>
+		<row row_number="35" isdata="1">קפץ רבי חייא ונשבע העבודה כך</row>
+		<row row_number="36" isdata="1">שמעתי מרבי שתים קפץ בר קפרא</row>
+		<row row_number="37" isdata="1">ונשבע העבודה כך שמעתי מרבי אחת</row>
+		<row row_number="38" isdata="1">התחיל רבי חייא לדון נבלה לכל נאסרה</row>
+		<row row_number="39" isdata="1">כשהותרה במקדש אצל כהנים הותרה</row>
+		<row row_number="40" isdata="1">לכהנים הותרה ולא לזרים יש כאן משום</row>
+		<row row_number="41" isdata="1">זרות ויש כאן משום מליקה התחיל בר</row>
+		<row row_number="42" isdata="1">קפרא לדון נבלה לכל נאסרה כשהותרה</row>
+		<row row_number="43" isdata="1">במקדש הותרה אין כאן אלא משום זרות</row>
+		<row row_number="44" isdata="0">במאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

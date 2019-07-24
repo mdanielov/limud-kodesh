@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:52.969268</dateCreated>
+   <lastModified>2016-08-04 11:57:52.969268</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="98">
+	<amud value="2">
+		<row row_number="1" isdata="1">דם חטאת למטה ודם עולה למעלה טעון</row>
+		<row row_number="2" isdata="1">כיבוס בעי רבא דם עולה למטה ודם חטאת</row>
+		<row row_number="3" isdata="1">למעלה מהו משום נוגע הוא והא נוגע או</row>
+		<row row_number="4" isdata="1">דלמא משום בלוע הוא והא לא בלע א] (הוא)</row>
+		<row row_number="5" isdata="1">הדר פשטה דאין טעונין כיבוס אמר רבא</row>
+		<row row_number="6" isdata="1">פשיטא לי דם על בגדו חוצץ ואם טבח הוא</row>
+		<row row_number="7" isdata="1">אינו חוצץ רבב על בגדו חוצץ ואם מוכר רבב</row>
+		<row row_number="8" isdata="1">הוא אינו חוצץ בעי רבא דם ורבב על בגדו</row>
+		<row row_number="9" isdata="1">מהו אם טבח הוא תיפוק לי משום רבב ואי</row>
+		<row row_number="10" isdata="1">מוכר רבב הוא תיפוק לי משום דם לא צריכא</row>
+		<row row_number="11" isdata="1">דעביד הא והא אחדא לא קפיד אתרתי קפיד</row>
+		<row row_number="12" isdata="1">או דלמא אתרתי נמי לא קפיד תיקו:<EndChapter name = "דם חטאת"/><EndGemara/></row>
+		<row row_number="13" isdata="0">הדרן עלך דם חטאת</row>
+		<row row_number="14" isdata="1"><StartChapter name = "טבול יום"/><StartMishna/>טבול  יום ומחוסר כיפורים אינן חולקין</row>
+		<row row_number="15" isdata="1">בקדשים לאכול לערב אונן ב] (אינו)</row>
+		<row row_number="16" isdata="1">נוגע ואינו מקריב ואינו חולק לאכול לערב</row>
+		<row row_number="17" isdata="1">בעלי מומין בין בעלי מומין ג] עוברין בין</row>
+		<row row_number="18" isdata="1">בעלי מומין קבועין חולקין ואוכלין אבל לא</row>
+		<row row_number="19" isdata="1">מקריבין כל שאינו ראוי לעבודה אינו חולק</row>
+		<row row_number="20" isdata="1">בבשר וכל שאין לו בבשר אין לו בעורות</row>
+		<row row_number="21" isdata="1">אפילו טמא בשעת זריקת דמים וטהור</row>
+		<row row_number="22" isdata="1">בשעת הקטר חלבים אינו חולק בבשר שנא'</row>
+		<row row_number="23" isdata="1">ד] המקריב את דם השלמים ה] [ואת החלב</row>
+		<row row_number="24" isdata="1">מבני אהרן] לו (יהיה) [תהיה שוק הימין למנה]:</row>
+		<row row_number="25" isdata="0"><EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

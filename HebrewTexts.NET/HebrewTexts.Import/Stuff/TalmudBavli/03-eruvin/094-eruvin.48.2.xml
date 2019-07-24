@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:37.183934</dateCreated>
+   <lastModified>2016-08-04 11:56:37.183934</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="48">
+	<amud value="2">
+		<row row_number="1" isdata="1">בשני בתים כמאן כבית שמאי דתניא</row>
+		<row row_number="2" isdata="1">חמשה שגבו את עירובן ונתנוהו בשני כלים</row>
+		<row row_number="3" isdata="1">בית שמאי אומרים אין ערובן עירוב ובית</row>
+		<row row_number="4" isdata="1">הלל אומרים עירובן עירוב אפילו תימא בית</row>
+		<row row_number="5" isdata="1">הלל עד כאן לא קאמרי בית הלל התם אלא</row>
+		<row row_number="6" isdata="1">בשני כלים בבית אחד אבל בשני בתים לא</row>
+		<row row_number="7" isdata="1">א"ל רב אחא בריה דרב אויא לרב אשי לרב</row>
+		<row row_number="8" isdata="1">יהודה קשיא ולרב ששת קשיא לרב יהודה</row>
+		<row row_number="9" isdata="1">קשיא דאמר כגון שנתנה אמצעית עירובה</row>
+		<row row_number="10" isdata="1">בזו ועירובה בזו וכיון דעירבה אמצעית בהדי</row>
+		<row row_number="11" isdata="1">חיצונה הויא ליה חדא וכי הדרה וערבה</row>
+		<row row_number="12" isdata="1">בהדי אידך שליחותה עבדה ולרב ששת</row>
+		<row row_number="13" isdata="1">קשיא תיהוי כחמשה ששרויין בחצר אחת</row>
+		<row row_number="14" isdata="1">ושכח אחד מהן ולא עירב דאסרי אהדדי</row>
+		<row row_number="15" isdata="1">א"ל רב אשי לא לרב יהודה קשיא ולא לרב</row>
+		<row row_number="16" isdata="1">ששת קשיא לרב יהודה ל"ק כיון דעירבה לה</row>
+		<row row_number="17" isdata="1">אמצעית בהדי חיצונה ושתים חיצונות בהדי</row>
+		<row row_number="18" isdata="1">הדדי לא עירבו גליא דעתיה דבהא ניחא ליה</row>
+		<row row_number="19" isdata="1">ובהא לא ניחא ליה ולרב ששת לא קשיא אם</row>
+		<row row_number="20" isdata="1">אמרו דיורין להקל יאמרו דיורין להחמיר אמר</row>
+		<row row_number="21" isdata="1">רב יהודה אמר רב זו דברי ר' שמעון אבל</row>
+		<row row_number="22" isdata="1">חכמים אומרים רשות אחת משמשת לשתי</row>
+		<row row_number="23" isdata="1">רשויות אבל לא שתי רשויות משמשות לרשות</row>
+		<row row_number="24" isdata="1">אחת כי אמריתה קמיה דשמואל אמר לי</row>
+		<row row_number="25" isdata="0">אף</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:59.799227</dateCreated>
+   <lastModified>2016-08-04 11:56:59.799227</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="65">
+	<amud value="2">
+		<row row_number="1" isdata="1">הוא אמר אפלת בגו עשר והיא אמרה לא</row>
+		<row row_number="2" isdata="1">אפלית א"ר אמי אף בזו היא נאמנת דאם</row>
+		<row row_number="3" isdata="1">איתא דהפילה נפשה בעקרתה לא מחזקה</row>
+		<row row_number="4" isdata="1">הפילה וחזרה והפילה וחזרה והפילה הוחזקה</row>
+		<row row_number="5" isdata="1">לנפלים הוא אמר אפילה תרי והיא אמרה</row>
+		<row row_number="6" isdata="1">תלת אמר רבי יצחק בן אלעזר עובדא הוה</row>
+		<row row_number="7" isdata="1">בי מדרשא ואמרו היא מהימנא דאם איתא</row>
+		<row row_number="8" isdata="1">דלא אפלה נפשה בניפלי לא מחזקה:</row>
+		<row row_number="9" isdata="1">מתני' האיש מצווה על פריה ורביה אבל</row>
+		<row row_number="10" isdata="1">לא האשה רבי יוחנן בן ברוקה אומר על</row>
+		<row row_number="11" isdata="1">שניהם הוא אומר ויברך אותם אלהים ויאמר</row>
+		<row row_number="12" isdata="1">להם [אלהים] פרו ורבו: <EndMishna/><StartGemara/>גמ' מנא הני מילי</row>
+		<row row_number="13" isdata="1">אמר ר' אילעא משום ר' אלעזר בר' שמעון</row>
+		<row row_number="14" isdata="1">אמר קרא ומלאו את הארץ וכבשוה איש</row>
+		<row row_number="15" isdata="1">דרכו לכבש ואין אשה דרכה לכבש אדרבה</row>
+		<row row_number="16" isdata="1">וכבשוה תרתי משמע אמר רב נחמן בר יצחק</row>
+		<row row_number="17" isdata="1">וכבשה כתיב רב יוסף אמר מהכא אני אל</row>
+		<row row_number="18" isdata="1">שדי פרה ורבה ולא קאמר פרו ורבו ואמר</row>
+		<row row_number="19" isdata="1">רבי אילעא משום ר' אלעזר בר' שמעון כשם</row>
+		<row row_number="20" isdata="1">שמצוה על אדם לומר דבר הנשמע כך</row>
+		<row row_number="21" isdata="1">מצוה על אדם שלא לומר דבר שאינו נשמע</row>
+		<row row_number="22" isdata="1">רבי אבא אומר חובה שנאמר אל תוכח לץ</row>
+		<row row_number="23" isdata="1">פן ישנאך הוכח לחכם ויאהבך וא"ר אילעא</row>
+		<row row_number="24" isdata="1">משום רבי אלעזר בר' שמעון מותר לו לאדם</row>
+		<row row_number="25" isdata="1">לשנות בדבר השלום שנאמר אביך צוה וגו'</row>
+		<row row_number="26" isdata="1">כה תאמרו ליוסף אנא שא נא וגו' ר' נתן</row>
+		<row row_number="27" isdata="1">אומר מצוה שנאמר ויאמר שמואל איך אלך</row>
+		<row row_number="28" isdata="1">ושמע שאול והרגני וגו' דבי רבי ישמעאל</row>
+		<row row_number="29" isdata="1">תנא גדול השלום שאף הקדוש ברוך הוא</row>
+		<row row_number="30" isdata="1">שינה בו דמעיקרא כתיב ואדוני זקן ולבסוף</row>
+		<row row_number="31" isdata="1">כתיב ואני זקנתי: רבי יוחנן בן ברוקה אומר: אתמר רבי יוחנן ור' יהושע בן</row>
+		<row row_number="32" isdata="1">לוי חד אמר הלכה כרבי יוחנן בן ברוקה וחד אמר אין הלכה כרבי יוחנן בן</row>
+		<row row_number="33" isdata="1">ברוקה תסתיים דרבי יוחנן הוא דאמר אין הלכה דיתיב ר' אבהו וקאמר</row>
+		<row row_number="34" isdata="1">משמיה דרבי יוחנן הלכה ואהדרינהו רבי אמי ורבי אסי לאפייהו ואיכא</row>
+		<row row_number="35" isdata="1">דאמרי רבי חייא בר אבא אמר ואהדרינהו רבי אמי ורבי אסי לאפייהו אמר</row>
+		<row row_number="36" isdata="1">רב פפא בשלמא למאן דאמר רבי אבהו אמרה משום כבוד בי קיסר לא</row>
+		<row row_number="37" isdata="1">אמרו ליה ולא מידי אלא למאן דאמר רבי חייא בר אבא אמרה לימרו ליה</row>
+		<row row_number="38" isdata="1">לא אמר רבי יוחנן הכי מאי הוה עלה ת"ש דאמר ר' אחא בר חנינא אמר</row>
+		<row row_number="39" isdata="1">ר' אבהו אמר ר' אסי עובדא הוה קמיה דרבי יוחנן בכנישתא דקיסרי ואמר</row>
+		<row row_number="40" isdata="1">יוציא ויתן כתובה ואי ס"ד לא מפקדה כתובה מאי עבידתה דלמא בבאה</row>
+		<row row_number="41" isdata="1">מחמת טענה כי ההיא דאתאי לקמיה דר' אמי אמרה ליה הב לי כתובה אמר</row>
+		<row row_number="42" isdata="1">לה זיל לא מיפקדת אמרה ליה מסיבו דילה מאי תיהוי עלה דהך אתתא</row>
+		<row row_number="43" isdata="1">אמר כי הא ודאי כפינן ההיא דאתאי לקמיה דרב נחמן אמר לה לא מיפקדת</row>
+		<row row_number="44" isdata="1">אמרה ליה לא בעיא הך אתתא חוטרא לידה ומרה לקבורה אמר כי הא ודאי</row>
+		<row row_number="45" isdata="1">כפינן יהודה וחזקיה תאומים היו אחד נגמרה צורתו לסוף תשעה ואחד</row>
+		<row row_number="46" isdata="1">נגמרה צורתו לתחלת שבעה יהודית דביתהו דר' חייא הוה לה צער לידה</row>
+		<row row_number="47" isdata="1">שנאי מנא ואתיא לקמיה דר' חייא אמרה אתתא מפקדא אפריה ורביה אמר</row>
+		<row row_number="48" isdata="1">לה לא אזלא אשתיא סמא דעקרתא לסוף איגלאי מילתא אמר לה איכו</row>
+		<row row_number="49" isdata="1">ילדת לי חדא כרסא אחריתא דאמר מר יהודה וחזקיה אחי פזי וטוי</row>
+		<row row_number="50" isdata="0">אחוותא</row>
+</amud>
+</daf>
+</masechet>
+</root>

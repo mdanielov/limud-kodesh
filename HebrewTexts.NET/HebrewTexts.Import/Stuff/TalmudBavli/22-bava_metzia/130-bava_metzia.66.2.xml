@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:28.258855</dateCreated>
+   <lastModified>2016-08-04 11:57:28.258855</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="66">
+	<amud value="2">
+		<row row_number="1" isdata="1">איבעית אימא דאמר ליה קני מעכשיו א"ל</row>
+		<row row_number="2" isdata="1">מר ינוקא ומר קשישא בני דרב חסדא לרב</row>
+		<row row_number="3" isdata="1">אשי הכי אמרי נהרדעאי משמיה דרב נחמן</row>
+		<row row_number="4" isdata="1">האי אסמכתא בזמניה קניא בלא זמניה לא</row>
+		<row row_number="5" isdata="1">קניא א"ל כל מידי בזמניה קני בלא זמניה לא</row>
+		<row row_number="6" isdata="1">קני דלמא הכי קאמריתו אשכחיה בגו זמניה</row>
+		<row row_number="7" isdata="1">וא"ל קני קני בתר זמניה ואמר ליה קני לא</row>
+		<row row_number="8" isdata="1">קני מאי טעמא מחמת כיסופא הוא דקאמר</row>
+		<row row_number="9" isdata="1">ליה ולא היא דאפילו בגו זמניה נמי לא קני</row>
+		<row row_number="10" isdata="1">והאי דקאמר ליה קני קא סבר כי מטי זמניה</row>
+		<row row_number="11" isdata="1">לא ליתי ליטרדן אמר רב פפא האי אסמכתא</row>
+		<row row_number="12" isdata="1">זימנין קניא וזימנין לא קניא אשכחיה דקא</row>
+		<row row_number="13" isdata="1">שתי שכרא קני דקא מהפך אזוזי לא קני</row>
+		<row row_number="14" isdata="1">א"ל רב אחא מדפתי לרבינא דלמא לפכוחי</row>
+		<row row_number="15" isdata="1">פחדיה קא שתי אי נמי איניש אחרינא</row>
+		<row row_number="16" isdata="1">אסמכיה אזוזי אלא אמר רבינא אי קפיד</row>
+		<row row_number="17" isdata="1">בדמי ודאי קני אמר ליה רב אחא מדפתי</row>
+		<row row_number="18" isdata="1">לרבינא דלמא סבר כי היכי דלא תיתזיל</row>
+		<row row_number="19" isdata="1">ארעיה אלא אמר רב פפא אי קפיד בארעא</row>
+		<row row_number="20" isdata="1">ודאי קני ואמר רב פפא אף על גב דאמור</row>
+		<row row_number="21" isdata="1">רבנן אסמכתא לא קניא אפותיקי הויא למיגבא</row>
+		<row row_number="22" isdata="1">מינה א"ל רב הונא בריה דרב נתן לרב</row>
+		<row row_number="23" isdata="1">פפא מי קאמר ליה קני לגוביינא אמר ליה</row>
+		<row row_number="24" isdata="1">מר זוטרא בריה דרב מרי לרבינא ואי אמר</row>
+		<row row_number="25" isdata="1">קני למיגבא מיניה קני סוף סוף אסמכתא</row>
+		<row row_number="26" isdata="1">היא ואסמכתא לא קניא אלא אפותיקי</row>
+		<row row_number="27" isdata="1">דקאמר רב פפא מאי היא דאמר ליה לא</row>
+		<row row_number="28" isdata="1">יהא לך פרעון אלא מזו ההוא גברא דזבין</row>
+		<row row_number="29" isdata="1">ליה ארעא לחבריה באחריות א"ל אי טרפו</row>
+		<row row_number="30" isdata="1">ליה מנאי מגבית לי מעידי עידית דאית לך</row>
+		<row row_number="31" isdata="1">אמר ליה מעידי עידית לא מגבינא לך</row>
+		<row row_number="32" isdata="1">דבעינן למיקם קמאי אלא מגבינא לך מעידית</row>
+		<row row_number="33" isdata="1">אחרים דאית לי לסוף טרפוה מיניה אתא</row>
+		<row row_number="34" isdata="1">בדקא שקיל לעידי עידית סבר רב פפא</row>
+		<row row_number="35" isdata="1">למימר מעידית א"ל והא קיימא א"ל רב</row>
+		<row row_number="36" isdata="1">אחא מדפתי לרבינא ולימא ליה כי אמרי לך</row>
+		<row row_number="37" isdata="1">אנא מגבינא לך דהוה עידי עידית קיימא</row>
+		<row row_number="38" isdata="1">השתא קיימא ליה עידית במקום עידי</row>
+		<row row_number="39" isdata="1">עידית רב בר שבא הוה מסיק ביה רב</row>
+		<row row_number="40" isdata="1">כהנא זוזי א"ל אי לא פרענא לך ליום</row>
+		<row row_number="41" isdata="1">פלוני גבי מהאי חמרא סבר רב פפא למימר</row>
+		<row row_number="42" isdata="1">כי אמרינן אסמכתא לא קניא הני מילי</row>
+		<row row_number="43" isdata="1">בארעא דלאו לזבוני קיימא אבל חמרא</row>
+		<row row_number="44" isdata="1">כיון דלזבוני קאי כזוזי דמי א"ל רב הונא</row>
+		<row row_number="45" isdata="1">בריה דרב יהושע לרב פפא הכי אמרי'</row>
+		<row row_number="46" isdata="1">משמיה דרבה כל דאי לא קני אמר רב נחמן</row>
+		<row row_number="47" isdata="1">השתא דאמור רבנן אסמכתא לא קניא הדר</row>
+		<row row_number="48" isdata="1">ארעא והדרי פירי למימרא דסבר רב נחמן</row>
+		<row row_number="49" isdata="1">מחילה בטעות לא הויא מחילה והאיתמר</row>
+		<row row_number="50" isdata="1">המוכר פירות דקל לחבירו אמר רב הונא עד</row>
+		<row row_number="51" isdata="1">שלא באו לעולם יכול לחזור בו משבאו</row>
+		<row row_number="52" isdata="1">לעולם אין יכול לחזור בו ורב נחמן אמר אף</row>
+		<row row_number="53" isdata="1">משבאו לעולם יכול לחזור בו ואמר רב</row>
+		<row row_number="54" isdata="1">נחמן מודינא דאי שמיט ואכיל לא מפקינן</row>
+		<row row_number="55" isdata="1">מיניה התם זביני הכא הלואה אמר רבא</row>
+		<row row_number="56" isdata="0">הוה</row>
+</amud>
+</daf>
+</masechet>
+</root>

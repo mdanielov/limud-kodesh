@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:40.132534</dateCreated>
+   <lastModified>2016-08-04 11:57:40.132534</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="33">
+	<amud value="1">
+		<row row_number="1" isdata="1">מיכן שפותחין בדיני נפשות תחלה לזכות:</row>
+		<row row_number="2" isdata="1">דיני ממונות מחזירין כו': ורמינהו דן</row>
+		<row row_number="3" isdata="1">את הדין זיכה את החייב חייב את הזכאי</row>
+		<row row_number="4" isdata="1">טימא את הטהור טיהר את הטמא מה</row>
+		<row row_number="5" isdata="1">שעשה עשוי וישלם מביתו אמר רב יוסף</row>
+		<row row_number="6" isdata="1">לא קשיא כאן במומחה כאן בשאינו מומחה</row>
+		<row row_number="7" isdata="1">ובמומחה מחזירין והקתני אם היה מומחה</row>
+		<row row_number="8" isdata="1">לב"ד פטור מלשלם א"ר נחמן כאן שיש</row>
+		<row row_number="9" isdata="1">גדול הימנו בחכמה ובמנין כאן שאין גדול</row>
+		<row row_number="10" isdata="1">הימנו בחכמה ובמנין רב ששת אמר כאן</row>
+		<row row_number="11" isdata="1">שטעה בדבר משנה כאן שטעה בשיקול</row>
+		<row row_number="12" isdata="1">הדעת דאמר רב ששת אמר רב אסי טעה</row>
+		<row row_number="13" isdata="1">בדבר משנה חוזר טעה בשיקול הדעת אינו</row>
+		<row row_number="14" isdata="1">חוזר א"ל רבינא לרב אשי אפילו טעה בר'</row>
+		<row row_number="15" isdata="1">חייא ורבי אושעיא א"ל אין אפילו בדרב</row>
+		<row row_number="16" isdata="1">ושמואל אמר ליה אין אפילו בדידי ודידך</row>
+		<row row_number="17" isdata="1">א"ל אטו אנן קטלי קני באגמא אנן היכי דמי</row>
+		<row row_number="18" isdata="1">שיקול הדעת אמר רב פפא כגון תרי תנאי</row>
+		<row row_number="19" isdata="1">או תרי אמוראי דפליגי אהדדי ולא איתמר</row>
+		<row row_number="20" isdata="1">הלכתא לא כמר ולא כמר ואיקרי ועבד</row>
+		<row row_number="21" isdata="1">כחד מינייהו וסוגיא דשמעת' אזלי כאידך</row>
+		<row row_number="22" isdata="1">היינו שיקול הדעת איתיבי' רב המנונא לרב</row>
+		<row row_number="23" isdata="1">ששת מעשה בפרה (של בית מנחם)</row>
+		<row row_number="24" isdata="1">שניטלה האם שלה והאכילה רבי טרפון</row>
+		<row row_number="25" isdata="1">לכלבים ובא מעשה לפני חכמים ביבנה</row>
+		<row row_number="26" isdata="1">והתירוה שאמר תודוס הרופא אין פרה</row>
+		<row row_number="27" isdata="1">וחזירה יוצאת מאלכסנדריא של מצרים</row>
+		<row row_number="28" isdata="1">אלא אם כן חותכין האם שלה כדי שלא</row>
+		<row row_number="29" isdata="1">תלד א"ר טרפון הלכה חמורך טרפון אמר</row>
+		<row row_number="30" isdata="1">לו רבי עקיבא פטור אתה שכל המומחה</row>
+		<row row_number="31" isdata="1">לרבים פטור מלשלם ואי איתא לימא ליה</row>
+		<row row_number="32" isdata="1">טועה בדבר משנה אתה וטועה בדבר</row>
+		<row row_number="33" isdata="1">משנה חוזר חדא ועוד קאמר חדא דטועה</row>
+		<row row_number="34" isdata="1">בדבר משנה אתה וטועה בדבר משנה</row>
+		<row row_number="35" isdata="1">חוזר ועוד אי נמי בשיקול הדעת טעית</row>
+		<row row_number="36" isdata="1">מומחה לרבים אתה וכל המומחה לרבים פטור מלשלם אמר רב נחמן</row>
+		<row row_number="37" isdata="1">בר יצחק לרבא מאי קא מותיב רב המנונא לרב ששת מפרה פרה</row>
+		<row row_number="38" isdata="1">הרי האכילה לכלבים וליתא דתהדר הכי קאמר ליה אי אמרת בשלמא</row>
+		<row row_number="39" isdata="1">טעה בדבר משנה אינו חוזר אלמא קם דינא היינו דקא מפחיד ר"ט</row>
+		<row row_number="40" isdata="1">וקאמר ליה איהו מומחה לב"ד אתה ואתה פטור מלשלם אלא אי אמרת טעה</row>
+		<row row_number="41" isdata="1">בדבר משנה חוזר לימא ליה כיון דאילו הואי פרה דינך לאו דינא ולא כלום</row>
+		<row row_number="42" isdata="1">עבדת השתא נמי לא כלום עבדת רב חסדא אמר כאן שנטל ונתן ביד כאן</row>
+		<row row_number="43" isdata="1">שלא נטל ונתן ביד בשלמא חייב את הזכאי כגון שנטל ונתן ביד אלא זיכה</row>
+		<row row_number="44" isdata="1">את החייב היכי משכחת לה דאמר ליה פטור אתה והא לא נטל ונתן ביד</row>
+		<row row_number="45" isdata="1">כיון דאמר פטור אתה כמו שנטל ונתן ביד דמי אלא מתניתין דקתני דיני</row>
+		<row row_number="46" isdata="1">ממונות מחזירין בין לזכות בין לחובה בשלמא לזכות משכחת לה דא"ל מעיקרא</row>
+		<row row_number="47" isdata="1">חייב אתה ולא נטל ולא נתן ביד אלא לחובה היכי משכחת לה דאמר ליה</row>
+		<row row_number="48" isdata="1">פטור אתה והאמרת כיון דא"ל פטור אתה כמו שנטל ונתן ביד דמי חדא קתני</row>
+		<row row_number="49" isdata="1">דיני ממונות מחזירין לזכות שהיא חובה דכוותה גבי נפשות מחזירין לזכות</row>
+		<row row_number="50" isdata="0">ואין</row>
+</amud>
+</daf>
+</masechet>
+</root>

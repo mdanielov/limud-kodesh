@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.356774</dateCreated>
+   <lastModified>2016-08-04 11:57:09.356774</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="69">
+	<amud value="2">
+		<row row_number="1" isdata="1">תא שמע מפלוגתא דרבי מאיר ורבי יוסי</row>
+		<row row_number="2" isdata="1">דתנן הרי זו תמורת עולה תמורת שלמים</row>
+		<row row_number="3" isdata="1">הרי זו תמורת עולה דברי רבי מאיר ורבי</row>
+		<row row_number="4" isdata="1">יוסי אומר אם לכך נתכוין מתחלה הואיל</row>
+		<row row_number="5" isdata="1">ואי אפשר לקרות שני שמות כאחד דבריו</row>
+		<row row_number="6" isdata="1">קיימין ואפילו רבי מאיר לא קאמר דלא</row>
+		<row row_number="7" isdata="1">אמר לא תיחול זו אלא אם כן חלה זו אבל</row>
+		<row row_number="8" isdata="1">הכא דאמר לא תיחול הקמה אלא אם כן</row>
+		<row row_number="9" isdata="1">חלה הפרה ר"מ נמי מודה דהפרה חלה בעי</row>
+		<row row_number="10" isdata="1">רבה קיים ומופר ליכי בבת אחת מהו ת"ש</row>
+		<row row_number="11" isdata="1">דאמר רבה כל דבר שאינו בזה אחר זה</row>
+		<row row_number="12" isdata="1">אפי' בבת אחת אינו בעי רבה קיים ליכי היום</row>
+		<row row_number="13" isdata="1">מהו מי אמרינן כמאן דאמר לה מופר</row>
+		<row row_number="14" isdata="1">ליכי למחר או דלמא הא לא אמר לה</row>
+		<row row_number="15" isdata="0">את"ל</row>
+</amud>
+</daf>
+</masechet>
+</root>

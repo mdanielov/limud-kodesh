@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:33.715167</dateCreated>
+   <lastModified>2016-08-04 11:57:33.715167</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="68">
+	<amud value="2">
+		<row row_number="1" isdata="1">אלא למאן דאמר בר מחווניתא אמר תנא</row>
+		<row row_number="2" isdata="1">קמא גינונייתא ומהדר ליה רבן שמעון בן</row>
+		<row row_number="3" isdata="1">גמליאל בר מחווניתא מי סברת מאי שלחין</row>
+		<row row_number="4" isdata="1">גינונייתא לא מאי שלחין בגי דכתיב ושולח</row>
+		<row row_number="5" isdata="1">מים על פני חוצות אבל בר מחווניתא לא</row>
+		<row row_number="6" isdata="1">מזדבן ואתא רבן שמעון בן גמליאל למימר</row>
+		<row row_number="7" isdata="1">דאפי' בר מחווניתא נמי מזדבן תא שמע</row>
+		<row row_number="8" isdata="1">ר' יהודה אומר סנטר אינו מכור אנקולמוס</row>
+		<row row_number="9" isdata="1">מכור מאי לאו מדאנקולמוס גברא סנטר</row>
+		<row row_number="10" isdata="1">נמי גברא מידי איריא הא כדאיתא והא</row>
+		<row row_number="11" isdata="1">כדאיתא ומי מצית אמרת הכי והא קתני</row>
+		<row row_number="12" isdata="1">סיפא אבל לא שייריה ולא בנותיה ולא</row>
+		<row row_number="13" isdata="1">חורשין המוקצין לה ולא ביברין של חיה</row>
+		<row row_number="14" isdata="1">ושל עופות ושל דגים ואמרינן מאי שייריה</row>
+		<row row_number="15" isdata="1">ביזלי מאי ביזלי א"ר אבא פיסקי בגי פיסקי</row>
+		<row row_number="16" isdata="1">בגי הוא דלא מזדבני הא בגי עצמן מזדבני</row>
+		<row row_number="17" isdata="1">איפוך ר' יהודה אומר סנטר מכור אנקולמוס</row>
+		<row row_number="18" isdata="1">אינו מכור ומי מצית אמרת רבי יהודה</row>
+		<row row_number="19" isdata="1">כרשב"ג סבירא ליה והא רבי יהודה כרבנן</row>
+		<row row_number="20" isdata="1">סבירא ליה דקתני סיפא אבל לא שיריה ולא</row>
+		<row row_number="21" isdata="1">בנותיה ואילו רשב"ג האמר מכר את העיר מכר בנותיה דתניא המוכר</row>
+		<row row_number="22" isdata="1">את העיר לא מכר את בנותיה רשב"ג אומר המוכר את העיר מכר בנותיה</row>
+		<row row_number="23" isdata="1">רבי יהודה סבר ליה כוותיה בחדא ופליג עליה בחדא: ולא ביברין של</row>
+		<row row_number="24" isdata="1">חיה ושל עופות ושל דגים: ורמינהי היו לה בנות אין נמכרות עמה היה</row>
+		<row row_number="25" isdata="1">לה חלק אחד בים וחלק אחד ביבשה ביברים של חיה ושל עופות ושל דגים</row>
+		<row row_number="26" isdata="1">הרי אלו נמכרים עמה לא קשיא הא דנגיח קאיהי לגו והא דנגיח קאיהי</row>
+		<row row_number="27" isdata="1">לבר והא קא תני ולא את חורשין המוקצין לה אימא המוקצין הימנה:</row>
+		<row row_number="28" isdata="1">מתני' המוכר את השדה מכר את האבנים שהם לצרכה ואת הקנים</row>
+		<row row_number="29" isdata="1">שבכרם שהם לצרכו ואת התבואה שהיא מחוברת לקרקע ואת חיצת</row>
+		<row row_number="30" isdata="1">הקנים שהיא פחותה מבית רובע ואת השומירה שאינה עשויה בטיט ואת</row>
+		<row row_number="31" isdata="1">החרוב שאינו מורכב ואת בתולת השקמה אבל לא מכר לא את האבנים</row>
+		<row row_number="32" isdata="1">שאינן לצרכה ולא את הקנים שבכרם שאינן לצרכו ולא את התבואה שהיא</row>
+		<row row_number="33" isdata="1">תלושה מן הקרקע בזמן שאמר לו היא וכל מה שבתוכה הרי כולן מכורין</row>
+		<row row_number="34" isdata="1">בין כך ובין כך לא מכר לא את חיצת הקנים שהיא בית רובע ולא את</row>
+		<row row_number="35" isdata="1">השומירה שהיא עשויה בטיט ולא את החרוב המורכב ולא את סדן השקמה:</row>
+		<row row_number="36" isdata="0"><EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

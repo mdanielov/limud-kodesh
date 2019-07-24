@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:02.676824</dateCreated>
+   <lastModified>2016-08-04 11:58:02.676824</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="96">
+	<amud value="2">
+		<row row_number="1" isdata="1">ור' יהודה אכילה כתיבה ביה ורבנן ההיא</row>
+		<row row_number="2" isdata="1">אכילה דכי אית ביה ארבעה וחמשה זיתים</row>
+		<row row_number="3" isdata="1">ואכל חד כזית מיחייב ורבי יהודה מאשר</row>
+		<row row_number="4" isdata="1">על כף הירך נפקא ורבנן ההוא מיבעי ליה</row>
+		<row row_number="5" isdata="1">לכדשמואל דאמר שמואל לא אסרה תורה</row>
+		<row row_number="6" isdata="1">אלא שעל כף הירך ור' יהודה הירך כתיב</row>
+		<row row_number="7" isdata="1">דכולה ירך ורבנן ההוא דפשיט איסוריה</row>
+		<row row_number="8" isdata="1">בכוליה ירך לאפוקי חיצון דלא ולעולם שעל</row>
+		<row row_number="9" isdata="1">הכף והאי כף מיבעי ליה למעוטי עוף דלית</row>
+		<row row_number="10" isdata="1">ליה כף תרי כף כתיבי<EndGemara/><StartMishna/>: מתני' ירך</row>
+		<row row_number="11" isdata="1">שנתבשל בה גיד הנשה אם יש בה בנותן</row>
+		<row row_number="12" isdata="1">טעם הרי זו אסורה כיצד משערין אותה</row>
+		<row row_number="13" isdata="1">כבשר בלפת גיד הנשה שנתבשל עם</row>
+		<row row_number="14" isdata="1">הגידים בזמן שמכירו בנותן טעם ואם לאו</row>
+		<row row_number="15" isdata="1">כולן אסורין והרוטב בנותן טעם וכן חתיכה</row>
+		<row row_number="16" isdata="1">של נבלה וכן חתיכה של דג טמא שנתבשלה</row>
+		<row row_number="17" isdata="1">עם החתיכות בזמן שמכירן בנותן טעם ואם</row>
+		<row row_number="18" isdata="1">לאו כולן אסורות והרוטב בנותן טעם:</row>
+		<row row_number="19" isdata="1"><EndMishna/><StartGemara/>גמ' אמר שמואל לא שנו אלא שנתבשל</row>
+		<row row_number="20" isdata="1">בה אבל נצלה בה קולף ואוכל עד</row>
+		<row row_number="21" isdata="1">שמגיע לגיד איני והאמר רב הונא גדי</row>
+		<row row_number="22" isdata="1">שצלאו בחלבו אסור לאכול אפילו מראש אזנו</row>
+		<row row_number="23" isdata="0">שאני</row>
+</amud>
+</daf>
+</masechet>
+</root>

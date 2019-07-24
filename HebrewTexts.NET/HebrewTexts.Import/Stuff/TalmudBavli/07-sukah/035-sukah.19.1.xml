@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:49.274625</dateCreated>
+   <lastModified>2016-08-04 11:56:49.274625</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1">כי פליגי אליבא דרב אביי כרב ורבא אמר</row>
+		<row row_number="2" isdata="1">לך עד כאן לא אמר רב התם אלא דמחיצות</row>
+		<row row_number="3" isdata="1">לאכסדרה הוא דעבידי אבל הכא דלאו להכי</row>
+		<row row_number="4" isdata="1">עבידי לא תנן וכן חצר המוקפת אכסדרה</row>
+		<row row_number="5" isdata="1">ואמאי נימא פי תקרה יורד וסותם תרגמה</row>
+		<row row_number="6" isdata="1">רבא אליבא דאביי כשהשוה את קירויו</row>
+		<row row_number="7" isdata="1">בסורא מתני להא שמעתא בהאי לישנא</row>
+		<row row_number="8" isdata="1">בפומבדיתא מתני סיכך על גבי אכסדרה</row>
+		<row row_number="9" isdata="1">שאין לה פצימין דברי הכל פסולה יש לה</row>
+		<row row_number="10" isdata="1">פצימין אביי אמר כשרה רבא אמר פסולה</row>
+		<row row_number="11" isdata="1">אביי אמר כשרה אמרינן לבוד רבא אמר</row>
+		<row row_number="12" isdata="1">פסולה לא אמרינן לבוד והלכתא כלישנא</row>
+		<row row_number="13" isdata="1">קמא רב אשי אשכחיה לרב כהנא דקא</row>
+		<row row_number="14" isdata="1">מסכך על גבי אכסדרה שאין לה פצימין</row>
+		<row row_number="15" isdata="1">אמר ליה לא סבר מר הא דאמר רבא יש</row>
+		<row row_number="16" isdata="1">לה פצימין כשרה אין לה פצימין פסולה אחוי</row>
+		<row row_number="17" isdata="1">ליה נראה מבפנים ושוה מבחוץ</row>
+		<row row_number="18" isdata="1">אי נמי נראה מבחוץ ושוה מבפנים</row>
+		<row row_number="19" isdata="1">דאתמר נראה מבחוץ ושוה</row>
+		<row row_number="20" isdata="1">מבפנים נידון משום לחי ולחי היינו</row>
+		<row row_number="21" isdata="1">פצימין תנא פסל היוצא מן הסוכה נידון</row>
+		<row row_number="22" isdata="1">כסוכה מאי פסל היוצא מן הסוכה אמר עולא</row>
+		<row row_number="23" isdata="1">קנים היוצאים לאחורי סוכה והא בעינן שלש</row>
+		<row row_number="24" isdata="1">דפנות בדאיכא והא בעינן הכשר סוכה</row>
+		<row row_number="25" isdata="1">בדאיכא והא בעינן צלתה מרובה מחמתה</row>
+		<row row_number="26" isdata="1">בדאיכא אי הכי מאי למימרא מהו דתימא</row>
+		<row row_number="27" isdata="1">הואיל ולגוואי עבידי ולבראי לא עבידי אימא</row>
+		<row row_number="28" isdata="1">לא קמ"ל רבה ורב יוסף אמרי תרווייהו הכא</row>
+		<row row_number="29" isdata="1">בקנים היוצאים לפנים מן הסוכה ומשכא</row>
+		<row row_number="30" isdata="1">ואזלא חדא דופן בהדייהו מהו דתימא הא</row>
+		<row row_number="31" isdata="1">לית בה הכשר סוכה קמ"ל רבה בר בר חנה</row>
+		<row row_number="32" isdata="1">אמר רבי יוחנן לא נצרכה אלא לסוכה</row>
+		<row row_number="33" isdata="1">שרובה צלתה מרובה מחמתה ומעוטה</row>
+		<row row_number="34" isdata="1">חמתה מרובה מצלתה מהו דתימא תפסל</row>
+		<row row_number="35" isdata="1">בהך פורתא קא משמע לן ומאי יוצא יוצא</row>
+		<row row_number="36" isdata="1">מהכשר סוכה רבי אושעיא אמר לא נצרכה</row>
+		<row row_number="37" isdata="1">אלא לסכך פסול פחות משלשה בסוכה</row>
+		<row row_number="38" isdata="1">קטנה ומאי יוצא יוצא מתורת סוכה מתקיף</row>
+		<row row_number="39" isdata="1">לה רב הושעיא לא יהא אלא אויר ואויר</row>
+		<row row_number="40" isdata="1">פחות משלשה טפחים בסוכה קטנה מי</row>
+		<row row_number="41" isdata="1">פסיל אמר ליה רבי אבא זה מצטרף וישנים</row>
+		<row row_number="42" isdata="1">תחתיו וזה מצטרף ואין ישנים תחתיו ומי</row>
+		<row row_number="43" isdata="1">איכא מידי דאצטרופי מצטרף והוא עצמו</row>
+		<row row_number="44" isdata="1">אינו כשר אמר רבי יצחק בן אלישב אין</row>
+		<row row_number="45" isdata="0">טיט</row>
+</amud>
+</daf>
+</masechet>
+</root>

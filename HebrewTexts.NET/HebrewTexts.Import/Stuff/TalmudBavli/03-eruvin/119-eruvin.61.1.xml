@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:37.736965</dateCreated>
+   <lastModified>2016-08-04 11:56:37.736965</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1">ואין אנשי עיר קטנה מהלכין את כל עיר</row>
+		<row row_number="2" isdata="1">גדולה מאי טעמא לאו משום דהני כלתה</row>
+		<row row_number="3" isdata="1">מדתן בחצי העיר והני כלתה מדתן בסוף</row>
+		<row row_number="4" isdata="1">העיר ורבי אידי אנשי אנשי תני ומוקים לה</row>
+		<row row_number="5" isdata="1">בנותן אבל מודד לא תנן ולא והתנן ולמודד</row>
+		<row row_number="6" isdata="1">שאמרו נותנין לו אלפים אמה שאפילו סוף</row>
+		<row row_number="7" isdata="1">מדתו כלה במערה סוף העיר איצטריכא</row>
+		<row row_number="8" isdata="1">ליה דלא תנן אמר רב נחמן מאן דתני אנשי</row>
+		<row row_number="9" isdata="1">לא משתבש ומאן דתני אין אנשי לא</row>
+		<row row_number="10" isdata="1">משתבש מאן דתני אנשי לא משתבש</row>
+		<row row_number="11" isdata="1">דמוקים לה בנותן ומאן דתני אין אנשי לא</row>
+		<row row_number="12" isdata="1">משתבש דמוקים לה במודד וחסורי מחסרא</row>
+		<row row_number="13" isdata="1">והכי קתני אנשי עיר גדולה מהלכין את כל</row>
+		<row row_number="14" isdata="1">עיר קטנה ואין אנשי עיר קטנה מהלכין</row>
+		<row row_number="15" isdata="1">את כל עיר גדולה במה דברים אמורים</row>
+		<row row_number="16" isdata="1">במודד אבל מי שהיה בעיר גדולה והניח</row>
+		<row row_number="17" isdata="1">את עירובו בעיר קטנה היה בעיר קטנה</row>
+		<row row_number="18" isdata="1">והניח את עירובו בעיר גדולה מהלך את</row>
+		<row row_number="19" isdata="1">כולה וחוצה לה אלפים אמה אמר רב יוסף</row>
+		<row row_number="20" isdata="1">אמר רמי בר אבא אמר רב הונא עיר</row>
+		<row row_number="21" isdata="1">שיושבת על שפת הנחל אם יש לפניה</row>
+		<row row_number="22" isdata="1">דקה ארבעה מודדים לה משפת הנחל ואם</row>
+		<row row_number="23" isdata="1">לאו אין מודדין לה אלא מפתח ביתו אמר</row>
+		<row row_number="24" isdata="1">ליה אביי דקה ארבע אמות אמרת לן</row>
+		<row row_number="25" isdata="1">עלה מאי שנא מכל דקי דעלמא דארבעה</row>
+		<row row_number="26" isdata="1">א"ל התם לא בעיתא תשמישתא הכא</row>
+		<row row_number="27" isdata="1">בעיתא תשמישתא אמר רב יוסף מנא</row>
+		<row row_number="28" isdata="1">אמינא לה דתניא התיר ר' שיהו בני</row>
+		<row row_number="29" isdata="1">גדר יורדין לחמתן ואין בני חמתן עולין</row>
+		<row row_number="30" isdata="1">לגדר מאי טעמא לאו משום דהני עבוד</row>
+		<row row_number="31" isdata="1">דקה והני לא עבוד דקה כי אתא רב</row>
+		<row row_number="32" isdata="1">דימי אמר טטרוגי מטטרגי להו בני גדר לבני חמתן ומאי התיר התקין ומאי</row>
+		<row row_number="33" isdata="1">שנא שבת דשכיחא בה שכרות כי אזלי להתם נמי מטטרגי להו כלבא בלא</row>
+		<row row_number="34" isdata="1">מתיה שב שנין לא נבח השתא נמי מטטרגי בני חמתן לבני גדר כולי</row>
+		<row row_number="35" isdata="1">האי לא כייפי להו רב ספרא אמר עיר העשויה כקשת הואי רב דימי</row>
+		<row row_number="36" isdata="1">בר חיננא אמר אנשי עיר גדולה ואנשי עיר קטנה הואי רב כהנא</row>
+		<row row_number="37" isdata="1">מתני הכי רב טביומי מתני הכי רב ספרא ורב דימי בר חיננא חד</row>
+		<row row_number="38" isdata="1">אמר עיר העשויה כקשת הואי וחד אמר אנשי עיר קטנה ואנשי עיר</row>
+		<row row_number="39" isdata="1">גדולה הואי<EndGemara/><StartMishna/>: מתני' אנשי עיר גדולה מהלכין את כל עיר קטנה</row>
+		<row row_number="40" isdata="1">ואנשי עיר קטנה מהלכין את כל עיר גדולה כיצד מי שהיה בעיר גדולה</row>
+		<row row_number="41" isdata="1">ונתן את עירובו בעיר קטנה בעיר קטנה ונתן את עירובו בעיר גדולה</row>
+		<row row_number="42" isdata="1">מהלך את כולה וחוצה לה אלפים אמה רבי עקיבא אומר אין לו אלא ממקום</row>
+		<row row_number="43" isdata="1">עירובו אלפים אמה אמר להן ר"ע אי אתם מודים לי בנותן עירובו במערה שאין</row>
+		<row row_number="44" isdata="1">לו אלא ממקום עירובו אלפים אמה אמרו לו אימתי בזמן שאין בה דיורין אבל</row>
+		<row row_number="45" isdata="1">יש בה דיורין מהלך את כולה וחוצה לה אלפים אמה נמצא קל תוכה מעל</row>
+		<row row_number="46" isdata="1">גבה ולמודד שאמרו נותנין אלפים אמה שאפילו סוף מדתו כלה במערה:</row>
+		<row row_number="47" isdata="0"><EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:32.854118</dateCreated>
+   <lastModified>2016-08-04 11:57:32.854118</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="50">
+	<amud value="1">
+		<row row_number="1" isdata="1">ואחת שיחד לה בכתובתה ואחת שהכניסה</row>
+		<row row_number="2" isdata="1">לו שום משלה למעוטי מאי אילימא למעוטי</row>
+		<row row_number="3" isdata="1">שאר נכסים כל שכן דהויא ליה איבה דאמר</row>
+		<row row_number="4" isdata="1">לה עיניך נתת בגירושין ובמיתה אלא למעוטי</row>
+		<row row_number="5" isdata="1">נכסי מלוג האמר אמימר איש ואשה שמכרו</row>
+		<row row_number="6" isdata="1">בנכסי מלוג לא עשו ולא כלום כי איתמר</row>
+		<row row_number="7" isdata="1">דאמימר היכא דזבין איהו ומית אתיא איהי</row>
+		<row row_number="8" isdata="1">ומפקא א"נ זבנה איהי ומתה אתא איהו ומפיק</row>
+		<row row_number="9" isdata="1">בתקנתא דרבנן וכדר' יוסי בר חנינא דאמר</row>
+		<row row_number="10" isdata="1">רבי יוסי בר חנינא באושא התקינו האשה</row>
+		<row row_number="11" isdata="1">שמכרה בנכסי מלוג ומתה הבעל מוציא מיד</row>
+		<row row_number="12" isdata="1">הלקוחות אבל היכא דזבינו תרוייהו לעלמא</row>
+		<row row_number="13" isdata="1">א"נ זבנה איהי לדידיה זבינה זביני ואיבעית</row>
+		<row row_number="14" isdata="1">אימא אמימר דאמר כר' אלעזר דתניא</row>
+		<row row_number="15" isdata="1">המוכר את עבדו ופסק עמו שישמשנו שלשים</row>
+		<row row_number="16" isdata="1">יום ר' מאיר אומר הראשון ישנו בדין יום או</row>
+		<row row_number="17" isdata="1">יומים מפני שהוא תחתיו והשני אינו בדין יום</row>
+		<row row_number="18" isdata="1">או יומים מפני שאינו תחתיו קסבר קנין פירות</row>
+		<row row_number="19" isdata="1">כקנין הגוף דמי ר' יהודה אומר השני ישנו</row>
+		<row row_number="20" isdata="1">בדין יום או יומים מפני שהוא כספו הראשון</row>
+		<row row_number="21" isdata="1">אינו בדין יום או יומים שאינו כספו קסבר קנין</row>
+		<row row_number="22" isdata="1">פירות לאו כקנין הגוף דמי ר' יוסי אומר</row>
+		<row row_number="23" isdata="0">שניהם</row>
+</amud>
+</daf>
+</masechet>
+</root>

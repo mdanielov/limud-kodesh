@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:40.325113</dateCreated>
+   <lastModified>2016-08-04 11:56:40.325113</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="19">
+	<amud value="2">
+		<row row_number="1" isdata="1">ונימא שאין טומאת ידים וכלים במקדש</row>
+		<row row_number="2" isdata="1">אמר רב יהודה אמר רב ואיתימא ר' יוסי בר'</row>
+		<row row_number="3" isdata="1">חנינא ידים קודם גזירת כלים נשנו אמר</row>
+		<row row_number="4" isdata="1">רבא והא תרוייהו בו ביום גזרו דתנן הספר</row>
+		<row row_number="5" isdata="1">והידים והטבול יום והאוכלין והכלים שנטמאו</row>
+		<row row_number="6" isdata="1">במשקין אלא אמר רבא הנח לטומאת סכין</row>
+		<row row_number="7" isdata="1">דאפי' בחולין נמי לא מטמא האי סכין דנגע</row>
+		<row row_number="8" isdata="1">במאי אילימא דנגע בבשר הא אין אוכל</row>
+		<row row_number="9" isdata="1">מטמא כלי ואלא דנגע במחט והא אין כלי</row>
+		<row row_number="10" isdata="1">מטמא כלי האי מחט מאי עבידתיה אי נימא</row>
+		<row row_number="11" isdata="1">ספק מחט והא איתמר ר' אלעזר ור' יוסי בר'</row>
+		<row row_number="12" isdata="1">חנינא חד אמר לא גזרו על ספק הרוקין</row>
+		<row row_number="13" isdata="1">שבירושלים וחד אמר לא גזרו על ספק</row>
+		<row row_number="14" isdata="1">הכלים שבירושלים אמר רב יהודה אמר רב</row>
+		<row row_number="15" isdata="1">כגון שאבדה לו מחט טמא מת והכירה</row>
+		<row row_number="16" isdata="1">בבשר ר' יוסי ברבי אבין אמר כגון שהיתה</row>
+		<row row_number="17" isdata="1">פרה חסומה ובאה מחוץ לירושלים: גופא</row>
+		<row row_number="18" isdata="1">ר' אלעזר ור' יוסי בר' חנינא חד אמר לא</row>
+		<row row_number="19" isdata="1">גזרו על ספק הרוקין שבירושלים וחד אמר</row>
+		<row row_number="20" isdata="1">לא גזרו על ספק הכלים שבירושלים רוקין</row>
+		<row row_number="21" isdata="1">תנינא כלים תנינא רוקין תנינא דתנן כל</row>
+		<row row_number="22" isdata="1">הרוקין הנמצאין בירושלים טהורין חוץ משל</row>
+		<row row_number="23" isdata="1">שוק העליון לא צריכא אף על גב דאיתחזק</row>
+		<row row_number="24" isdata="1">זב כלים תנינא דתנן כל הכלים הנמצאים</row>
+		<row row_number="25" isdata="1">בירושלים דרך ירידה לבית הטבילה טמאין</row>
+		<row row_number="26" isdata="1">הא דעלמא טהורין ולטעמיך אימא סיפא</row>
+		<row row_number="27" isdata="1">דרך עליה טהורין הא דעלמא טמאין אלא</row>
+		<row row_number="28" isdata="1">רישא דוקא וסיפא לאו דוקא ולאפוקי גזייתא</row>
+		<row row_number="29" isdata="1">ולרב דאמר כגון שאבדה לו מחט טמא מת</row>
+		<row row_number="30" isdata="1">והכירה בבשר כיון דאמר מר בחלל חרב</row>
+		<row row_number="31" isdata="1">חרב הרי הוא כחלל אדם וכלים נמי ליטמא</row>
+		<row row_number="32" isdata="1">אמר רב אשי זאת אומרת עזרה רשות</row>
+		<row row_number="33" isdata="1">הרבים היא והוה ליה ספק טומאה ברשות</row>
+		<row row_number="34" isdata="1">הרבים וכל ספק טומאה ברשות הרבים</row>
+		<row row_number="35" isdata="1">ספיקו טהור הא ברשות היחיד ספיקו טמא</row>
+		<row row_number="36" isdata="1">הוא מכדי האי מחט דבר שאין בו דעת</row>
+		<row row_number="37" isdata="1">לישאל הוא וכל דבר שאין בו דעת לישאל</row>
+		<row row_number="38" isdata="1">בין ברה"ר בין ברה"י ספיקו טהור משום דהוי</row>
+		<row row_number="39" isdata="1">ספק טומאה הבאה בידי אדם ואמר רבי</row>
+		<row row_number="40" isdata="1">יוחנן ספק טומאה הבאה בידי אדם</row>
+		<row row_number="41" isdata="0">נשאלין</row>
+</amud>
+</daf>
+</masechet>
+</root>

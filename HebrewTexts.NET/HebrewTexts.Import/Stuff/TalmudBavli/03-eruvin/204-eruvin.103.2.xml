@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:39.435062</dateCreated>
+   <lastModified>2016-08-04 11:56:39.435062</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="103">
+	<amud value="2">
+		<row row_number="1" isdata="1">מאי היא דתניא כהן שעלתה בו יבלת חבירו</row>
+		<row row_number="2" isdata="1">חותכה לו בשיניו בשיניו אין בכלי לא חבירו</row>
+		<row row_number="3" isdata="1">אין איהו לא מני אילימא רבנן ובמקדש כיון</row>
+		<row row_number="4" isdata="1">דאמרי רבנן בעלמא משום שבות הכא מה</row>
+		<row row_number="5" isdata="1">לי הוא מה לי חבירו אלא לאו ר"א דאמר</row>
+		<row row_number="6" isdata="1">בעלמא חייב חטאת והכא אע"ג דמכשירי</row>
+		<row row_number="7" isdata="1">מצוה דוחין את השבת כמה דאפשר לשנויי</row>
+		<row row_number="8" isdata="1">משנינן לא לעולם רבנן ואי עלתה בכריסו</row>
+		<row row_number="9" isdata="1">הכי נמי הכא במאי עסקינן כגון שעלתה לו</row>
+		<row row_number="10" isdata="1">נשיכה בגבו ובאצילי ידיו דאיהו לא מצי</row>
+		<row row_number="11" isdata="1">שקיל לה ואי רבנן נשקליה ניהליה ביד</row>
+		<row row_number="12" isdata="1">ותפשוט דרבי אלעזר דאמר רבי אלעזר</row>
+		<row row_number="13" isdata="1">מחלוקת ביד אבל בכלי דברי הכל חייב</row>
+		<row row_number="14" isdata="1">וליטעמיך לרבי אליעזר נמי לישקליה</row>
+		<row row_number="15" isdata="1">ניהליה ביד האי מאי אי אמרת בשלמא רבי</row>
+		<row row_number="16" isdata="1">אליעזר היינו דגזר יד אטו כלי אלא אי</row>
+		<row row_number="17" isdata="1">אמרת רבנן היא נשקליה ניהליה ביד ותו</row>
+		<row row_number="18" isdata="1">לא מידי<EndGemara/><StartMishna/>: מתני' כהן שלקה באצבעו</row>
+		<row row_number="19" isdata="1">כורך עליה גמי במקדש אבל לא במדינה</row>
+		<row row_number="20" isdata="1">אם להוציא דם כאן וכאן אסור: <EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="21" isdata="1">רב יהודה בריה דרבי חייא לא שנו אלא</row>
+		<row row_number="22" isdata="1">גמי אבל צלצול קטן הוי יתור בגדים ורבי</row>
+		<row row_number="23" isdata="1">יוחנן אמר לא אמרו יתור בגדים אלא במקום</row>
+		<row row_number="24" isdata="1">בגדים אבל שלא במקום בגדים לא הוי</row>
+		<row row_number="25" isdata="1">יתור בגדים ותיפוק ליה משום חציצה</row>
+		<row row_number="26" isdata="1">בשמאל אי נמי בימין ושלא במקום עבודה</row>
+		<row row_number="27" isdata="1">ופליגא דרבא דאמר רבא אמר רב חסדא</row>
+		<row row_number="28" isdata="1">במקום בגדים אפילו נימא אחת חוצצת</row>
+		<row row_number="29" isdata="1">שלא במקום בגדים שלש על שלש חוצצות</row>
+		<row row_number="30" isdata="1">פחות משלש על שלש אינן חוצצות אדרבי</row>
+		<row row_number="31" isdata="1">יוחנן ודאי פליגא אדרב יהודה בריה דרבי</row>
+		<row row_number="32" isdata="1">חייא מי נימא פליגא שאני צלצול קטן</row>
+		<row row_number="33" isdata="1">דחשיב לישנא אחרינא אמרי לה אמר רב</row>
+		<row row_number="34" isdata="1">יהודה בריה דרבי חייא לא שנו אלא גמי</row>
+		<row row_number="35" isdata="1">אבל צלצול קטן חוצץ ורבי יוחנן אמר לא</row>
+		<row row_number="36" isdata="1">אמרו חציצה בפחות משלש על שלש אלא</row>
+		<row row_number="37" isdata="1">במקום בגדים אבל שלא במקום בגדים</row>
+		<row row_number="38" isdata="0">שלש</row>
+</amud>
+</daf>
+</masechet>
+</root>

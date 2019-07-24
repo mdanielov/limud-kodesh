@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:48.497013</dateCreated>
+   <lastModified>2016-08-04 11:57:48.497013</lastModified>
+ </meta>
+ <masechet name="הוריות" serial="28">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "הורו בית דין"/><StartMishna/>הורו</row>
+		<row row_number="2" isdata="1">בית דין לעבור על אחת מכל מצות האמורות</row>
+		<row row_number="3" isdata="1">בתורה והלך היחיד ועשה שוגג על פיהם בין</row>
+		<row row_number="4" isdata="1">שעשו ועשה עמהן בין שעשו ועשה אחריהן</row>
+		<row row_number="5" isdata="1">בין שלא עשו ועשה פטור מפני שתלה בב"ד</row>
+		<row row_number="6" isdata="1">הורו ב"ד וידע אחד מהן שטעו או תלמיד</row>
+		<row row_number="7" isdata="1">והוא ראוי להוראה והלך ועשה על פיהן בין</row>
+		<row row_number="8" isdata="1">שעשו ועשה עמהן בין שעשו ועשה אחריהן</row>
+		<row row_number="9" isdata="1">בין שלא עשו ועשה הרי זה חייב מפני שלא</row>
+		<row row_number="10" isdata="1">תלה בב"ד זה הכלל התולה בעצמו חייב</row>
+		<row row_number="11" isdata="1">והתולה בב"ד פטור: <EndMishna/><StartGemara/>גמ' אמר שמואל</row>
+		<row row_number="12" isdata="1">לעולם אין ב"ד חייבין עד שיאמרו להם מותרין</row>
+		<row row_number="13" isdata="1">אתם רב דימי מנהרדעא אמר עד שיאמרו</row>
+		<row row_number="14" isdata="1">להם מותרין אתם לעשות מ"ט לפי שלא</row>
+		<row row_number="15" isdata="1">נגמרה הוראה אמר אביי אף אנן נמי תנינא</row>
+		<row row_number="16" isdata="1">חזר לעירו שנה ולימד כדרך שלימד פטור</row>
+		<row row_number="17" isdata="1">הורה לעשות חייב א"ר אבא אף אנן נמי</row>
+		<row row_number="18" isdata="1">תנינא הורו לה ב"ד להנשא והלכה וקלקלה</row>
+		<row row_number="19" isdata="1">חייבת בקרבן שלא התירו לה אלא להנשא</row>
+		<row row_number="20" isdata="1">אמר רבינא אף אנן נמי תנינא הורו ב"ד לעבור</row>
+		<row row_number="21" isdata="1">על אחת מכל מצות האמורות בתורה תו</row>
+		<row row_number="22" isdata="1">לא מידי איכא דאמרי אמר שמואל אין ב"ד</row>
+		<row row_number="23" isdata="1">חייבין עד שיאמרו להם מותרים אתם לעשות</row>
+		<row row_number="24" isdata="1">רב דימי מנהרדעא אמר אפילו מותרים אתם</row>
+		<row row_number="25" isdata="1">נגמרה הוראה אמר אביי והא לא תנן הכי</row>
+		<row row_number="26" isdata="1">חזר לעירו ושנה או לימד כדרך שלימד פטור</row>
+		<row row_number="27" isdata="1">הורה לעשות חייב אמר רבי אבא והא לא</row>
+		<row row_number="28" isdata="1">תנן הכי הורו לה ב"ד להנשא והלכה וקלקלה</row>
+		<row row_number="29" isdata="1">חייבת בקרבן שלא התירו לה אלא להנשא</row>
+		<row row_number="30" isdata="1">אמר רבינא והא לא תנן הכי הורו ב"ד לעבור</row>
+		<row row_number="31" isdata="1">על אחת מכל מצות האמורות בתורה תו לא</row>
+		<row row_number="32" isdata="1">מידי: והלך היחיד ועשה שוגג על פיהם:</row>
+		<row row_number="33" isdata="1">וניתני ועשה על פיהם שוגג למה לי אמר רבא</row>
+		<row row_number="34" isdata="1">שוגג לאתויי הורו ב"ד שחלב מותר ונתחלף</row>
+		<row row_number="35" isdata="1">לו חלב בשומן ואכלו פטור על פיהם על</row>
+		<row row_number="36" isdata="1">פיהם ממש ואיכא דאמרי אמר רבא שוגג על</row>
+		<row row_number="37" isdata="1">פיהם הוא דפטור אבל נתחלף לו חלב בשומן ואכלו חייב מילתא דפשיטא ליה לרבא קמיבעיא ליה לרמי בר</row>
+		<row row_number="38" isdata="1">חמא דבעי רמי בר חמא הורו ב"ד שחלב מותר ונתחלף לו בשומן ואכלו מהו אמר רבא תא שמע הלך יחיד</row>
+		<row row_number="39" isdata="1">ועשה שוגג על פיהם כו' שוגג על פיהם למה לי לאו לאתויי הורו ב"ד שחלב מותר ונתחלף לו חלב</row>
+		<row row_number="40" isdata="1">בשומן ואכלו פטור דלמא שוגג על פיהם הוא דפטור אבל נתחלף לו חלב בשומן ואכלו חייב איכא דאמרי</row>
+		<row row_number="41" isdata="1">אמר רבא ת"ש הלך יחיד ועשה שוגג על פיהם מאי לאו שוגג על פיהם הוא דפטור אבל נתחלף לו חלב</row>
+		<row row_number="42" isdata="1">בשומן ואכלו חייב דלמא או שוגג או על פיהם בפלוגתא הורו ב"ד שחלב מותר ונתחלף לו חלב בשומן</row>
+		<row row_number="43" isdata="1">ואכלו רב אמר פטור ור' יוחנן אמר חייב מיתיבי מעם הארץ בעשותה פרט למומר רבי שמעון בן</row>
+		<row row_number="44" isdata="1">יוסי אומר משום ר"ש (אינו צריך) הרי הוא אומר אשר לא תעשינה בשגגה ואשם או הודע השב מידיעתו</row>
+		<row row_number="45" isdata="1">מביא קרבן על שגגתו לא שב מידיעתו אינו מביא קרבן על שגגתו ואם איתא הא לא שב מידיעתו הוא אמר ר"פ</row>
+		<row row_number="46" isdata="1">קסבר ר' יוחנן כיון דכי מתידע להו לבי דינא הדרי בהו והוא נמי הדר ביה שב מידיעתו קרינן ביה וחייב אמר</row>
+		<row row_number="47" isdata="1">רבא מודה רב שאינו משלים לרוב צבור מ"ט אמר קרא בשגגה עד שיהו כולן בשגגה אחת: בין שעשו ועשה</row>
+		<row row_number="48" isdata="1">עמהן כו': למה ליה למיתנא כל הני בשלמא רישא לא זו אף זו קתני אלא סיפא דלחיובא איפכא מיבעי ליה</row>
+		<row row_number="49" isdata="0">זו</row>
+</amud>
+</daf>
+</masechet>
+</root>

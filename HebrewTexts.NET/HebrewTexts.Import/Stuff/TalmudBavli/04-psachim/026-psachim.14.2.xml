@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:40.122102</dateCreated>
+   <lastModified>2016-08-04 11:56:40.122102</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="14">
+	<amud value="2">
+		<row row_number="1" isdata="1">בחלל חרב חרב הרי הוא כחלל והויא ליה</row>
+		<row row_number="2" isdata="1">אב הטומאה וקסבר שלישי מותר לעשותו</row>
+		<row row_number="3" isdata="1">ראשון ומאי דוחקיה דרב יהודה לאוקמיה</row>
+		<row row_number="4" isdata="1">בנר של מתכת נוקמיה בנר של חרס ומאי</row>
+		<row row_number="5" isdata="1">הוסיף דאילו התם טמא וטמא ואילו הכא</row>
+		<row row_number="6" isdata="1">פסול וטמא אמר רבא מתניתין קשיתיה מאי</row>
+		<row row_number="7" isdata="1">איריא דתני נר שנטמא בטמא מת ניתני</row>
+		<row row_number="8" isdata="1">שנטמא בשרץ אלא איזהו דבר שחלוקה</row>
+		<row row_number="9" isdata="1">טומאתו בין טומאת מת לשרץ הוי אומר זה</row>
+		<row row_number="10" isdata="1">מתכת אמר רבא ש"מ קסבר ר"ע טומאת</row>
+		<row row_number="11" isdata="1">משקין לטמא אחרים דאורייתא דאי ס"ד</row>
+		<row row_number="12" isdata="1">דרבנן מכדי האי נר מאי קא מהניא להאי</row>
+		<row row_number="13" isdata="1">שמן אי לאיפסולי גופי' הא פסיל וקאי ממאי</row>
+		<row row_number="14" isdata="1">דילמא לטמא אחרים מדרבנן אי מדרבנן</row>
+		<row row_number="15" isdata="1">מאי איריא באב הטומאה אפילו בראשון</row>
+		<row row_number="16" isdata="1">ושני נמי תחלה הוי דתנן כל הפוסל את</row>
+		<row row_number="17" isdata="1">התרומה מטמא משקין להיות תחלה חוץ</row>
+		<row row_number="18" isdata="1">מטבול יום אלא ש"מ דאורייתא היא: א"ר</row>
+		<row row_number="19" isdata="1">מאיר מדבריהם למדנו וכו': מדבריהם</row>
+		<row row_number="20" isdata="1">דמאן אילימא מדברי ר' חנינא סגן הכהנים</row>
+		<row row_number="21" isdata="1">מי דמי התם טמא וטמא הכא טהור וטמא</row>
+		<row row_number="22" isdata="1">ואלא מדברי ר"ע מי דמי התם פסול וטמא</row>
+		<row row_number="23" isdata="1">הכא טהור וטמא נימא קסבר רבי מאיר</row>
+		<row row_number="24" isdata="1">מתניתין באב הטומאה דאורייתא וולד</row>
+		<row row_number="25" isdata="1">הטומאה דרבנן דמדאורייתא טהור מעליא</row>
+		<row row_number="26" isdata="0">ומאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

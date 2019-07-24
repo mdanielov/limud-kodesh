@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:39.192049</dateCreated>
+   <lastModified>2016-08-04 11:56:39.192049</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="97">
+	<amud value="2">
+		<row row_number="1" isdata="1">א"ל אביי במאי אוקימתא למתניתין בסכנת</row>
+		<row row_number="2" isdata="1">עו"ג אימא סיפא ר' שמעון אומר נותנן</row>
+		<row row_number="3" isdata="1">לחבירו וחבירו לחבירו כל שכן דאוושא</row>
+		<row row_number="4" isdata="1">מילתא חסורי מיחסרא והכי קתני במה</row>
+		<row row_number="5" isdata="1">דברים אמורים בסכנת עו"ג אבל בסכנת</row>
+		<row row_number="6" isdata="1">ליסטים מוליכן פחות פחות מד' אמות: רבי</row>
+		<row row_number="7" isdata="1">שמעון אומר נותנן לחבירו וכו': במאי קמיפלגי</row>
+		<row row_number="8" isdata="1">מר סבר פחות מארבע אמות עדיף דאי</row>
+		<row row_number="9" isdata="1">אמרת נותנן לחבירו וחבירו לחבירו אוושא</row>
+		<row row_number="10" isdata="1">מלתא דשבת ומר סבר נותנן לחבירו עדיף</row>
+		<row row_number="11" isdata="1">דאי אמרת מוליכן פחות מארבע אמות זימנין</row>
+		<row row_number="12" isdata="1">דלאו אדעתיה ואתי לאתויינהו ארבע אמות</row>
+		<row row_number="13" isdata="1">ברה"ר: וכן בנו: בנו מאי בעי התם דבי</row>
+		<row row_number="14" isdata="1">מנשה תנא בשילדתו אמו בשדה ומאי</row>
+		<row row_number="15" isdata="1">אפילו הן מאה דאע"ג דקשיא ליה ידא</row>
+		<row row_number="16" isdata="1">אפילו הכי הא עדיפא: רבי יהודה אומר</row>
+		<row row_number="17" isdata="1">נותן אדם חבית: ולית ליה לרבי יהודה הא</row>
+		<row row_number="18" isdata="1">דתנן הבהמה והכלים כרגלי הבעלים אמר</row>
+		<row row_number="19" isdata="1">ריש לקיש משום לוי סבא הכא במאי</row>
+		<row row_number="20" isdata="1">עסקינן במערן מחבית לחבית ורבי יהודה</row>
+		<row row_number="21" isdata="1">לטעמיה דאמר מים אין בהם ממש דתנן</row>
+		<row row_number="22" isdata="1">רבי יהודה פוטר במים מפני שאין בהן</row>
+		<row row_number="23" isdata="1">ממש ומאי לא תהלך זו לא יהלך מה שבזו</row>
+		<row row_number="24" isdata="1">יותר מרגלי הבעלים אימר דשמעת ליה לר'</row>
+		<row row_number="25" isdata="1">יהודה היכא דבליען בעיסה היכא דאיתנהו</row>
+		<row row_number="26" isdata="1">בעינייהו מי שמעת ליה השתא בקדירה</row>
+		<row row_number="27" isdata="1">אמר רבי יהודה לא בטלי בעינייהו בטלי</row>
+		<row row_number="28" isdata="1">דתניא רבי יהודה אומר מים ומלח בטלין</row>
+		<row row_number="29" isdata="1">בעיסה ואין בטלין בקדירה מפני רוטבה אלא</row>
+		<row row_number="30" isdata="1">אמר רבא הכא בחבית שקנתה שביתה</row>
+		<row row_number="31" isdata="1">ומים שלא קנו שביתה עסקינן דבטלה</row>
+		<row row_number="32" isdata="1">חבית לגבי מים כדתנן המוציא החי במטה</row>
+		<row row_number="33" isdata="1">פטור אף על המטה מפני שהמטה טפילה</row>
+		<row row_number="34" isdata="1">לו המוציא אוכלין פחות מכשיעור בכלי פטור אף על הכלי מפני שהכלי</row>
+		<row row_number="35" isdata="1">טפל לו מתיב רב יוסף ר' יהודה אומר בשיירא נותן אדם חבית לחבירו</row>
+		<row row_number="36" isdata="1">וחבירו לחבירו בשיירא אין שלא בשיירא לא אלא אמר רב יוסף כי תנן נמי</row>
+		<row row_number="37" isdata="1">במתניתין בשיירא תנן אביי אמר בשיירא אפי' חבית שקנתה שביתה ומים</row>
+		<row row_number="38" isdata="1">שקנו שביתה שלא בשיירא חבית שקנתה שביתה ומים שלא קנו שביתה</row>
+		<row row_number="39" isdata="1">רב אשי אמר הכא בחבית דהפקר עסקינן ומים דהפקר עסקינן ומאן אמרו</row>
+		<row row_number="40" isdata="1">לו רבי יוחנן בן נורי היא דאמר חפצי הפקר קונין שביתה ומאי לא תהלך</row>
+		<row row_number="41" isdata="1">זו יותר מרגלי הבעלים לא יהלכו אלו יותר מכלים שיש להם בעלים:</row>
+		<row row_number="42" isdata="1">מתני' [א] היה קורא בספר על האיסקופה ונתגלגל הספר מידו גוללו</row>
+		<row row_number="43" isdata="1">אצלו היה קורא בראש הגג ונתגלגל הספר מידו עד שלא הגיע</row>
+		<row row_number="44" isdata="1">לעשרה טפחים גוללו אצלו משהגיע לעשרה טפחים הופכו על הכתב</row>
+		<row row_number="45" isdata="1">רבי יהודה אומר אפילו אין מסולק מן הארץ אלא כמלא מחט גוללו אצלו</row>
+		<row row_number="46" isdata="1">ר' שמעון אומר אפילו בארץ עצמו גוללו אצלו שאין לך דבר משום</row>
+		<row row_number="47" isdata="1">שבות עומד בפני כתבי הקודש: <EndMishna/><StartGemara/>גמ' האי איסקופה ה"ד אילימא איסקופה</row>
+		<row row_number="48" isdata="1">רשות היחיד וקמה רשות הרבים ולא גזרינן דילמא נפיל ואתי לאתויי</row>
+		<row row_number="49" isdata="0">מני</row>
+</amud>
+</daf>
+</masechet>
+</root>

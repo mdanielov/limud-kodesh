@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:38.634448</dateCreated>
+   <lastModified>2016-08-04 11:57:38.634448</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="173">
+	<amud value="1">
+		<row row_number="1" isdata="1">ואלא הא דתניא כשם שאין מוציאין שטר</row>
+		<row row_number="2" isdata="1">חוב זה על זה כך אין מוציאין על אחרים</row>
+		<row row_number="3" isdata="1">במאי קמיפלגי באותיות נקנות במסירה</row>
+		<row row_number="4" isdata="1">קמיפלגי תנא דידן סבר אותיות נקנות</row>
+		<row row_number="5" isdata="1">במסירה ותנא ברא סבר אין אותיות נקנות</row>
+		<row row_number="6" isdata="1">במסירה ואי בעית אימא דכולי עלמא</row>
+		<row row_number="7" isdata="1">אותיות נקנות במסירה והכא בצריך להביא</row>
+		<row row_number="8" isdata="1">ראיה קא מיפלגי תנא דידן סבר אין צריך</row>
+		<row row_number="9" isdata="1">להביא ראיה ותנא ברא סבר צריך להביא</row>
+		<row row_number="10" isdata="1">ראיה דאיתמר אותיות נקנות במסירה אביי</row>
+		<row row_number="11" isdata="1">אמר צריך להביא ראיה ורבא אמר אינו</row>
+		<row row_number="12" isdata="1">צריך להביא ראיה אמר אביי מנא אמינא</row>
+		<row row_number="13" isdata="1">לה דתניא אחד מן האחין שהשטר חוב</row>
+		<row row_number="14" isdata="1">יוצא מתחת ידו עליו להביא ראיה מאי</row>
+		<row row_number="15" isdata="1">לאו הוא הדין לאחריני ורבא אמר שאני</row>
+		<row row_number="16" isdata="1">אחין דשמטו מהדדי איכא דאמרי אמר</row>
+		<row row_number="17" isdata="1">רבא מנא אמינא לה דתניא אחד מן האחין</row>
+		<row row_number="18" isdata="1">שהשטר חוב יוצא מתחת ידו עליו להביא</row>
+		<row row_number="19" isdata="1">ראיה אחין הוא דשמטו מהדדי אבל אחריני</row>
+		<row row_number="20" isdata="1">לא ואביי אחין איצטריכא ליה סלקא דעתך</row>
+		<row row_number="21" isdata="1">אמינא כיון דשמטו מהדדי אימא מיזדהר</row>
+		<row row_number="22" isdata="1">זהירי ולא צריכי להביא ראיה קמ"ל ואלא</row>
+		<row row_number="23" isdata="1">הא דתניא כשם שמוציאין הן שטר חוב על אחרים כך מוציאין זה</row>
+		<row row_number="24" isdata="1">על זה במאי קמיפלגי בכותבין שטר ללוה ואע"פ שאין מלוה עמו קמיפלגי תנא</row>
+		<row row_number="25" isdata="1">דידן סבר כותבין שטר ללוה ואף על פי שאין מלוה עמו זימנין דאזיל</row>
+		<row row_number="26" isdata="1">לגבי ספרא וסהדי ואמר להו כתבו לי שטרא דבעינן למיזף מיוסף בן</row>
+		<row row_number="27" isdata="1">שמעון חברי ובתר דכתבי וחתמי ליה נקיטא ליה ואמר ליה הב לי מאה</row>
+		<row row_number="28" isdata="1">דיזפת מינאי תנא ברא סבר אין כותבין שטר ללוה עד שיהא מלוה עמו:</row>
+		<row row_number="29" isdata="1">נמצא לאחד בין שטרותיו שטרו של יוסף בן שמעון פרוע שטרות שניהם</row>
+		<row row_number="30" isdata="1">פרועין וכו': טעמא דנמצא הא לא נמצא מצי מפיק והאנן ולא אחר יכול</row>
+		<row row_number="31" isdata="1">להוציא עליהן שטר חוב תנן אמר רבי ירמיה במשולשין ונחזי תברא</row>
+		<row row_number="32" isdata="1">בשמא דמאן דכתיב אמר רב הושעיא במשולשין בשטר ואין משולשין</row>
+		<row row_number="33" isdata="1">בשובר אביי אמר הכי קאמר נמצא ללוה בין שטרותיו שטרו של יוסף בן</row>
+		<row row_number="34" isdata="1">שמעון עלי פרוע שטרות שניהם פרועין: כיצד יעשו ישלשו כו': תנא אם</row>
+		<row row_number="35" isdata="1">היו שניהם כהנים יכתבו דורות<EndGemara/><StartMishna/>: מתני' האומר לבנו שטר בין שטרותי</row>
+		<row row_number="36" isdata="1">פרוע ואיני יודע אי זהו שטרות כולן פרועין נמצא לאחד שם שנים הגדול</row>
+		<row row_number="37" isdata="1">פרוע והקטן אינו פרוע: <EndMishna/><StartGemara/>גמ' אמר רבא שטר לך בידי פרוע הגדול</row>
+		<row row_number="38" isdata="1">פרוע והקטן אינו פרוע חוב לך בידי פרוע שטרות כולן פרועין אמר</row>
+		<row row_number="39" isdata="1">ליה רבינא לרבא אלא מעתה שדי מכורה לך שדה גדולה מכורה לו</row>
+		<row row_number="40" isdata="1">שדה שיש לי מכורה לך כל שדותיו מכורין לו התם יד בעל השטר על</row>
+		<row row_number="41" isdata="1">התחתונה<EndGemara/><StartMishna/>: מתני' המלוה את חבירו על ידי ערב לא יפרע מן הערב</row>
+		<row row_number="42" isdata="0">ואם</row>
+</amud>
+</daf>
+</masechet>
+</root>

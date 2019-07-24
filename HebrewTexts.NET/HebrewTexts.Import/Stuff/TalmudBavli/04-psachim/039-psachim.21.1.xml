@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:40.396117</dateCreated>
+   <lastModified>2016-08-04 11:56:40.396117</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="21">
+	<amud value="1">
+		<row row_number="1" isdata="1">אין הכרעת שלישית מכרעת אמר ר' יוסי בר'</row>
+		<row row_number="2" isdata="1">חנינא מחלוקת שנפלה לפחות ממאה סאה</row>
+		<row row_number="3" isdata="1">חולין טמאין אבל נפלה למאה חולין טמאין</row>
+		<row row_number="4" isdata="1">דברי הכל תרד ותטמא ואל יטמאנה ביד</row>
+		<row row_number="5" isdata="1">תניא נמי הכי חבית שנשברה בגת העליונה</row>
+		<row row_number="6" isdata="1">ותחתיה מאה חולין טמאין מודה רבי אליעזר</row>
+		<row row_number="7" isdata="1">לרבי יהושע שאם יכול להציל ממנה רביעית</row>
+		<row row_number="8" isdata="1">בטהרה יציל ואם לאו תרד ותטמא ואל</row>
+		<row row_number="9" isdata="1">יטמאנה ביד האי מודה רבי אליעזר לרבי</row>
+		<row row_number="10" isdata="1">יהושע מודה רבי יהושע לר' אליעזר מיבעי</row>
+		<row row_number="11" isdata="1">ליה אמר רבא איפוך רב הונא בריה דרב</row>
+		<row row_number="12" isdata="1">יהושע אמר לעולם לא תיפוך הכא במאי</row>
+		<row row_number="13" isdata="1">עסקינן בכלי שתוכו טהור וגבו טמא מהו</row>
+		<row row_number="14" isdata="1">דתימא ניגזור דילמא נגע גבו בתרומה קמ"ל:<EndChapter name = "אור לארבעה עשר"/><EndGemara/></row>
+		<row row_number="15" isdata="0">הדרן עלך אור לארבעה עשר</row>
+		<row row_number="16" isdata="1"><StartChapter name = "כל שעה"/><StartMishna/>כל שעה  שמותר לאכול מאכיל לבהמה</row>
+		<row row_number="17" isdata="1">לחיה ולעופות ומוכר לנכרי</row>
+		<row row_number="18" isdata="1">ומותר בהנאתו עבר זמנו אסור בהנאתו ולא</row>
+		<row row_number="19" isdata="1">יסיק בו תנור וכירים ר' יהודה אומר אין</row>
+		<row row_number="20" isdata="1">ביעור חמץ אלא שריפה [ג] וחכמים אומרים</row>
+		<row row_number="21" isdata="1">אף מפרר וזורה לרוח או מטיל לים: <EndMishna/><StartGemara/>גמ' כל</row>
+		<row row_number="22" isdata="1">שעה שמותר לאכול מאכיל הא כל שעה</row>
+		<row row_number="23" isdata="1">שאינו מותר לאכול אינו מאכיל לימא מתני'</row>
+		<row row_number="24" isdata="1">דלא כר' יהודה דאי ר' יהודה הא איכא חמש</row>
+		<row row_number="25" isdata="1">דאינו אוכל ומאכיל דתנן ר' מאיר אומר</row>
+		<row row_number="26" isdata="1">אוכלין כל חמש ושורפין בתחלת שש רבי</row>
+		<row row_number="27" isdata="1">יהודה אומר אוכלין כל ארבע ותולין כל</row>
+		<row row_number="28" isdata="1">חמש ושורפין בתחלת שש ואלא מאי ר' מאיר</row>
+		<row row_number="29" isdata="1">היא האי כל שעה שמותר לאכול מאכיל</row>
+		<row row_number="30" isdata="1">כל שעה שאוכל מאכיל מיבעי ליה אמר</row>
+		<row row_number="31" isdata="1">רבה בר עולא מתניתין רבן גמליאל היא</row>
+		<row row_number="32" isdata="1">דתנן רבן גמליאל אומר חולין נאכלין כל</row>
+		<row row_number="33" isdata="1">ארבע תרומה כל חמש ושורפין בתחלת שש</row>
+		<row row_number="34" isdata="1">והכי קאמר כל שעה שמותר לאכול כהן</row>
+		<row row_number="35" isdata="1">בתרומה ישראל מאכיל חולין לבהמה לחיה</row>
+		<row row_number="36" isdata="1">ולעופות למה לי למיתנא בהמה למה לי</row>
+		<row row_number="37" isdata="1">למיתנא חיה צריכא דאי תנא בהמה דאי</row>
+		<row row_number="38" isdata="1">משיירא חזי לה אבל חיה דאי משיירא</row>
+		<row row_number="39" isdata="1">קמצנעא לה אימא לא ואי תנא חיה משום</row>
+		<row row_number="40" isdata="1">דאי משיירא מיהת מצנעא אבל בהמה זימנין</row>
+		<row row_number="41" isdata="1">דמשיירא ולא מסיק אדעתיה וקאי עליה בבל</row>
+		<row row_number="42" isdata="1">יראה ובבל ימצא אימא לא צריכא עופות ל"ל</row>
+		<row row_number="43" isdata="1">איידי דתנא בהמה וחיה תנא נמי עופות:</row>
+		<row row_number="44" isdata="1">ומוכרו לנכרי: פשיטא לאפוקי מהאי תנא</row>
+		<row row_number="45" isdata="1">דתניא ב"ש אומרים לא ימכור אדם חמצו</row>
+		<row row_number="46" isdata="1">לנכרי אא"כ יודע בו שיכלה קודם פסח וב"ה</row>
+		<row row_number="47" isdata="1">אומרים כל שעה שמותר לאכול מותר למכור</row>
+		<row row_number="48" isdata="0">רבי</row>
+</amud>
+</daf>
+</masechet>
+</root>

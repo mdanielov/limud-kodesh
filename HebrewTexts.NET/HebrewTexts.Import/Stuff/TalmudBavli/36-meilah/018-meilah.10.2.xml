@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:10.019244</dateCreated>
+   <lastModified>2016-08-04 11:58:10.019244</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="10">
+	<amud value="2">
+		<row row_number="1" isdata="1"><EndMishna/><StartGemara/>גמ' מה"מ דת"ר יכול אין חייבין משום</row>
+		<row row_number="2" isdata="1">טומאה אלא בדבר שיש לו מתירין ודין הוא</row>
+		<row row_number="3" isdata="1">ומה פיגול שהוא בידיעה אחת וקרבנו קבוע</row>
+		<row row_number="4" isdata="1">ולא הותר מכללו אין חייבין אלא על דבר</row>
+		<row row_number="5" isdata="1">שיש לו מתירין טומאה שהיא בשתי ידיעות</row>
+		<row row_number="6" isdata="1">וקרבנו עולה ויורד והותרה מכללה אינו דין</row>
+		<row row_number="7" isdata="1">שלא יהא חייב אלא על דבר שיש לו מתירין</row>
+		<row row_number="8" isdata="1">תלמוד לומר אמור אליהם לדורותיכם כל</row>
+		<row row_number="9" isdata="1">איש אשר יקרב מכל זרעכם וגו' בכל הקדשים</row>
+		<row row_number="10" isdata="1">הכתוב מדבר יכול יהו חייבין עליהן מיד</row>
+		<row row_number="11" isdata="1">תלמוד לומר אשר יקרב אמר רבי אלעזר וכי</row>
+		<row row_number="12" isdata="1">יש נוגע שהוא חייב א] הא כיצד כל דבר</row>
+		<row row_number="13" isdata="1">שיש לו מתירין אינו חייב עד שיקרבו מתירין</row>
+		<row row_number="14" isdata="1">וכל דבר שאין לו מתירין אינו חייב עד</row>
+		<row row_number="15" isdata="1">שיקדש בכלי:<EndChapter name = "חטאת העוף"/><EndGemara/></row>
+		<row row_number="16" isdata="0">הדרן עלך חטאת העוף</row>
+		<row row_number="17" isdata="1"><StartChapter name = "ולד חטאת"/><StartMishna/>ולד  חטאת ותמורת חטאת וחטאת שמתו</row>
+		<row row_number="18" isdata="1">בעליה ימותו ושעיברה שנתה ושאבדה</row>
+		<row row_number="19" isdata="1">ונמצאת בעלת מום אם משכיפרו הבעלים תמות</row>
+		<row row_number="20" isdata="1">ואינה עושה תמורה ולא נהנין ולא מועלין</row>
+		<row row_number="21" isdata="0">ואם</row>
+</amud>
+</daf>
+</masechet>
+</root>

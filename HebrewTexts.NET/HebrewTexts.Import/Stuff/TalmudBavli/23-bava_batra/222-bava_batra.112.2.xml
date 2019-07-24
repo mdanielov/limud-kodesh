@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:35.826288</dateCreated>
+   <lastModified>2016-08-04 11:57:35.826288</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="112">
+	<amud value="2">
+		<row row_number="1" isdata="1">אי הכי האי לאחד ממשפחת מטה אביה</row>
+		<row row_number="2" isdata="1">ואמה מיבעי ליה אי כתיב הכי הוה אמינא</row>
+		<row row_number="3" isdata="1">אפילו איפכא קא משמע לן תניא בסבת</row>
+		<row row_number="4" isdata="1">הבן ותניא בסבת הבעל תניא בסבת</row>
+		<row row_number="5" isdata="1">הבן ולא תסוב נחלה לבני ישראל ממטה</row>
+		<row row_number="6" isdata="1">אל מטה בסבת הבן הכתוב מדבר אתה</row>
+		<row row_number="7" isdata="1">אומר בסבת הבן או אינו אלא בסבת הבעל</row>
+		<row row_number="8" isdata="1">כשהוא אומר ולא תסוב נחלה ממטה</row>
+		<row row_number="9" isdata="1">למטה אחר הרי בסבת הבעל אמור הא מה</row>
+		<row row_number="10" isdata="1">אני מקיים ולא תסוב נחלה לבני ישראל</row>
+		<row row_number="11" isdata="1">ממטה אל מטה בסבת הבן הכתוב מדבר</row>
+		<row row_number="12" isdata="0">תניא</row>
+</amud>
+</daf>
+</masechet>
+</root>

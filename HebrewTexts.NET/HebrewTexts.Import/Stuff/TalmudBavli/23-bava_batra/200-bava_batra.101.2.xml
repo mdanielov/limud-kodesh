@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:35.319259</dateCreated>
+   <lastModified>2016-08-04 11:57:35.319259</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="101">
+	<amud value="2">
+		<row row_number="1" isdata="1">קבורת חמורים היא זו לר' יוחנן דעביד להו</row>
+		<row row_number="2" isdata="1">בקרן זוית והא נגעי כוכין להדדי אמר רב אשי</row>
+		<row row_number="3" isdata="1">במעמיק דאי לא תימא הכי ארבע מערות לר'</row>
+		<row row_number="4" isdata="1">שמעון היכי עביד להו הא קא נגעי כוכין</row>
+		<row row_number="5" isdata="1">להדדי אלא במעמיק הכא נמי במעמיק רב</row>
+		<row row_number="6" isdata="1">הונא בריה דרב יהושע אמר ארבע מערות</row>
+		<row row_number="7" isdata="1">לר"ש דעביד להו כי חרותא והא דרב הונא</row>
+		<row row_number="8" isdata="1">בריה דרב יהושע ברותא היא מכדי כל</row>
+		<row row_number="9" isdata="1">אמתא בריבועא אמתא ותרי חומשי באלכסונא</row>
+		<row row_number="10" isdata="1">כמה הוי להו חד סרי וחומשא כוכין כמה הוו</row>
+		<row row_number="11" isdata="1">תמניא תמניא בחד סרי וחומשא היכי משכחת</row>
+		<row row_number="12" isdata="1">לה אלא הא דרב הונא בריה דרב יהושע</row>
+		<row row_number="13" isdata="1">ברותא היא ואי בעית אימא כדאמר רב שישא</row>
+		<row row_number="14" isdata="1">בריה דרב אידי בניפלי הכא נמי בניפלי תנן</row>
+		<row row_number="15" isdata="1">התם המוצא מת מושכב כדרכו נוטלו</row>
+		<row row_number="16" isdata="1">ואת תפוסתו שנים נוטלן ואת תפוסתן</row>
+		<row row_number="17" isdata="0">מצא</row>
+</amud>
+</daf>
+</masechet>
+</root>

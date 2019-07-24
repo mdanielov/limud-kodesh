@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:34.293200</dateCreated>
+   <lastModified>2016-08-04 11:57:34.293200</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="80">
+	<amud value="2">
+		<row row_number="1" isdata="1">דתנן כוורת דבורים ר"א אומר הרי היא</row>
+		<row row_number="2" isdata="1">כקרקע וכותבין עליה פרוזבול ואינה מקבלת</row>
+		<row row_number="3" isdata="1">טומאה במקומה והרודה ממנה בשבת חייב</row>
+		<row row_number="4" isdata="1">חטאת וחכ"א אין כותבין עליה פרוזבול ואינה</row>
+		<row row_number="5" isdata="1">כקרקע ומקבלת טומאה במקומה והרודה</row>
+		<row row_number="6" isdata="1">ממנה בשבת פטור א"ר אלעזר מאי טעמא</row>
+		<row row_number="7" isdata="1">דרבי אליעזר דכתיב ויטבול אותה ביערת</row>
+		<row row_number="8" isdata="1">הדבש וכי מה ענין יער אצל דבש אלא לומר</row>
+		<row row_number="9" isdata="1">לך מה יער התולש ממנו בשבת חייב חטאת</row>
+		<row row_number="10" isdata="1">אף דבש הרודה ממנו בשבת חייב חטאת</row>
+		<row row_number="11" isdata="1">מיתיבי דבש הזב מכוורתו אינו לא אוכל ולא</row>
+		<row row_number="12" isdata="1">משקה בשלמא לאביי ניחא אלא לרבא קשיא</row>
+		<row row_number="13" isdata="1">אמר רב זביד כגון שזב ע"ג כלי מאוס רב אחא</row>
+		<row row_number="14" isdata="1">בר יעקב אמר כגון שזב על גבי קשקשין</row>
+		<row row_number="15" isdata="1">מיתיבי דבש בכוורתו אינו לא אוכל ולא</row>
+		<row row_number="16" isdata="1">משקה חישב עליו לאכילה מטמא טומאת</row>
+		<row row_number="17" isdata="1">אוכלין למשקין מטמא טומאת משקין בשלמא</row>
+		<row row_number="18" isdata="1">לאביי ניחא אלא לרבא קשיא אמר לך רבא</row>
+		<row row_number="19" isdata="1">תריץ הכי חישב עליו לאכילה אינו מטמא</row>
+		<row row_number="20" isdata="1">טומאת אוכלין למשקין אינו מטמא טומאת</row>
+		<row row_number="21" isdata="1">משקין תניא כוותיה דרב כהנא דבש</row>
+		<row row_number="22" isdata="1">בכוורתו מטמא טומאת אוכלין שלא במחשבה: זיתים לקוץ מניח שתי</row>
+		<row row_number="23" isdata="1">גרופיות: תנו רבנן הלוקח אילן מחבירו לקוץ מגביה מן הקרקע טפח וקוצץ</row>
+		<row row_number="24" isdata="1">בתולת השקמה ג' טפחים סדן השקמה ב' טפחים בקנים ובגפנים מן הפקק</row>
+		<row row_number="25" isdata="1">ולמעלה בדקלים ובארזים חופר ומשרש לפי שאין גזען מחליף ובתולת השקמה</row>
+		<row row_number="26" isdata="1">ג' טפחים בעינן ורמינהי אין קוצצין בתולת השקמה בשביעית מפני שהיא</row>
+		<row row_number="27" isdata="1">עבודה ר' יהודה אומר כדרכו אסור אלא מגביה י' טפחים וקוצץ או גומם</row>
+		<row row_number="28" isdata="1">מעם הארץ מעם הארץ הוא דקשי הא אידך מעלי לה אמר אביי ג' טפחים</row>
+		<row row_number="29" isdata="1">מעלי לה מעם הארץ ודאי קשי לה מכאן ואילך לא מקשי קשי לה ולאו</row>
+		<row row_number="30" isdata="1">עלויי מעלי לה גבי שביעית עבדינן מידי דודאי קשי לה גבי מקח וממכר</row>
+		<row row_number="31" isdata="1">עבדינן מידי דודאי מעלי לה בדקלים ובארזים חופר ומשרש לפי שאין גזען</row>
+		<row row_number="32" isdata="1">מחליף וארז אין גזעו מחליף והא דריש ר' חייא בר לולייני מאי דכתיב צדיק</row>
+		<row row_number="33" isdata="1">כתמר יפרח כארז בלבנון ישגה אם נאמר תמר למה נאמר ארז ואם נאמר</row>
+		<row row_number="34" isdata="1">ארז למה נאמר תמר אילו נאמר ארז ולא נאמר תמר הייתי אומר מה ארז</row>
+		<row row_number="35" isdata="1">אין עושה פירות אף צדיק אין עושה פירות לכך נאמר תמר ואם נאמר תמר</row>
+		<row row_number="36" isdata="1">ולא נאמר ארז הייתי אומר מה תמר אין גזעו מחליף אף צדיק אין גזעו מחליף</row>
+		<row row_number="37" isdata="1">לכך נאמר ארז אלא הב"ע בשאר מיני ארזים כדרבה בר רב הונא דאמר</row>
+		<row row_number="38" isdata="1">רבה בר רב הונא אמרי בי רב י' מיני ארזים הן שנאמר אתן במדבר ארז שיטה</row>
+		<row row_number="39" isdata="1">והדס ועץ שמן אשים וגו' ארז ארזא שיטה תורניתא הדס אסא עץ שמן אפרסמא</row>
+		<row row_number="40" isdata="1">ברוש ברתי תדהר שאגא ותאשור שורבינא הני ז' הוי כי אתא רב דימי אמר</row>
+		<row row_number="41" isdata="1">הוסיפו עליהן אלונים אלמונים אלמוגים אלונים בוטני אלמונים בלוטי אלמוגים</row>
+		<row row_number="42" isdata="0">כסיתא</row>
+</amud>
+</daf>
+</masechet>
+</root>

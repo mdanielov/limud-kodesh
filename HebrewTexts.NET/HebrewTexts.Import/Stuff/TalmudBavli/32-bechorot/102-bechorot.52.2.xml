@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:06.528044</dateCreated>
+   <lastModified>2016-08-04 11:58:06.528044</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="52">
+	<amud value="2">
+		<row row_number="1" isdata="1">לאיתויי שבחא דממילא חפורה א] והוו</row>
+		<row row_number="2" isdata="1">שובלי שלפופי והוו תמרי: ולא בראוי</row>
+		<row row_number="3" isdata="1">כבמוחזק: לאיתויי נכסי דאבי אבא:</row>
+		<row row_number="4" isdata="1">מתני' ואלו שאין חוזרין ביובל הבכורה</row>
+		<row row_number="5" isdata="1">והיורש את אשתו והמייבם את אשת אחיו</row>
+		<row row_number="6" isdata="1">והמתנה דברי ר"מ וחכמים אומרים המתנה</row>
+		<row row_number="7" isdata="1">כמכר רבי אלעזר אומר כולם חוזרין ביובל</row>
+		<row row_number="8" isdata="1">רבי יוחנן בן ברוקה אומר ב] (אף) היורש</row>
+		<row row_number="9" isdata="1">את אשתו יחזיר לבני משפחה וינכה מהן</row>
+		<row row_number="10" isdata="1">את הדמים: <EndMishna/><StartGemara/>גמ' מאי טעמא דרבי מאיר</row>
+		<row row_number="11" isdata="1">מכר הוא דאמר רחמנא ליהדר ביובל מתנה</row>
+		<row row_number="12" isdata="1">וירושה לא והני ג] מירושה ירושה דמתנה</row>
+		<row row_number="13" isdata="1">מתנה בכור לתת לו פי שנים מתנה קרייה</row>
+		<row row_number="14" isdata="1">רחמנא: והיורש את אשתו: ירושת הבעל</row>
+		<row row_number="15" isdata="1">דאורייתא: והמייבם את אשת אחיו: בכור</row>
+		<row row_number="16" isdata="1">קרייה רחמנא: וחכמים אומרים מתנה כמכר:</row>
+		<row row_number="17" isdata="1">מאי טעמייהו דרבנן תשובו לרבות את</row>
+		<row row_number="18" isdata="1">המתנה והני כולהו ירושה נינהו בכור אמר</row>
+		<row row_number="19" isdata="1">קרא לתת לו פי שנים מקיש חלק בכורה</row>
+		<row row_number="20" isdata="1">לחלק פשוט מה חלק פשוט ירושה אף חלק</row>
+		<row row_number="21" isdata="1">בכורה ירושה: רבי אלעזר אומר כולם חוזרים</row>
+		<row row_number="22" isdata="1">ביובל: סבר לה כרבנן דאמרי תשובו לרבות</row>
+		<row row_number="23" isdata="1">את המתנה והני כולהו מתנה נינהו בכור</row>
+		<row row_number="24" isdata="1">לתת לו פי שנים מתנה קרייה רחמנא והיורש</row>
+		<row row_number="25" isdata="1">את אשתו ירושת הבעל דרבנן והמייבם את</row>
+		<row row_number="26" isdata="1">אשת אחיו בכור קרייה רחמנא אמר רבי אסי</row>
+		<row row_number="27" isdata="1">אמר רבי יוחנן האחין שחלקו לקוחות הן</row>
+		<row row_number="28" isdata="1">ומחזירין זה לזה ביובל מותיב רב הושעיא</row>
+		<row row_number="29" isdata="1">ואלו שאין חוזרין ביובל הבכורה אמר ליה ר'</row>
+		<row row_number="30" isdata="1">אלעזר מאי אין חוזרין אין חוזרין לבטלה</row>
+		<row row_number="31" isdata="1">מתקיף לה רב ששת מכלל דמאן דאמר</row>
+		<row row_number="32" isdata="1">חוזרין חוזרין לבטלה קאמר קרי ד] רב חמא</row>
+		<row row_number="33" isdata="1">עליה דרב ששת טובה חכמה עם נחלה ולא</row>
+		<row row_number="34" isdata="1">שמיע (להו) הא דכי אתי רבין אמר רבי יוחנן</row>
+		<row row_number="35" isdata="1">ואמרי לה ה] ר' אלעזר אמר משום רבי אלעזר</row>
+		<row row_number="36" isdata="1">בן שמוע מאי חוזרין חוזרין לבטלה: ר"י בן</row>
+		<row row_number="37" isdata="1">ברוקה אומר (אף) היורש את אשתו יחזיר</row>
+		<row row_number="38" isdata="1">לבני וכו': מאי קסבר אי קסבר ירושת</row>
+		<row row_number="39" isdata="1">הבעל דאורייתא אמאי יחזיר לבני משפחה</row>
+		<row row_number="40" isdata="1">ואי קסבר ירושת הבעל דרבנן דמים מאי</row>
+		<row row_number="41" isdata="1">עבידתייהו לעולם קסבר ירושת הבעל</row>
+		<row row_number="42" isdata="1">דאוריית' והכא במאי עסקינן כגון שהורישתו</row>
+		<row row_number="43" isdata="1">אשתו בית הקברות ומשום פגם משפחה</row>
+		<row row_number="44" isdata="1">אמור רבנן לשקול דמי וליהדר וכדתניא המוכר קברו ודרך קברו מקום</row>
+		<row row_number="45" isdata="1">מעמדו ובית הספדו באים בני משפחה וקוברים אותו בעל כרחו משום פגם</row>
+		<row row_number="46" isdata="1">משפחה ומאי ינכה להם מן הדמים דמי קבר אשתו:<EndChapter name = "יש בכור"/><EndGemara/></row>
+		<row row_number="47" isdata="0">הדרן עלך יש בכור</row>
+</amud>
+</daf>
+</masechet>
+</root>

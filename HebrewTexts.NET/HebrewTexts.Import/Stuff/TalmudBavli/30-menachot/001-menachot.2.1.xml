@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:53.902322</dateCreated>
+   <lastModified>2016-08-04 11:57:53.902322</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "כל המנחות"/><StartMishna/>כל</row>
+		<row row_number="2" isdata="1">המנחות שנקמצו שלא לשמן כשירות אלא</row>
+		<row row_number="3" isdata="1">שלא עלו לבעלים לשם חובה חוץ ממנחת</row>
+		<row row_number="4" isdata="1">חוטא ומנחת קנאות א] מנחת חוטא ומנחת</row>
+		<row row_number="5" isdata="1">קנאות שקמצן שלא לשמן נתן בכלי והלך</row>
+		<row row_number="6" isdata="1">והקטיר שלא לשמן או לשמן ושלא לשמן או</row>
+		<row row_number="7" isdata="1">שלא לשמן ולשמן פסולות כיצד לשמן ושלא</row>
+		<row row_number="8" isdata="1">לשמן לשם מנחת חוטא ולשם מנחת נדבה</row>
+		<row row_number="9" isdata="1">שלא לשמן ולשמן לשם מנחת נדבה ולשם</row>
+		<row row_number="10" isdata="1">מנחת חוטא: <EndMishna/><StartGemara/>גמ' ב] למה לי למיתנא אלא</row>
+		<row row_number="11" isdata="1">ליתני ולא עלו לבעלים לשם חובה הא קמ"ל</row>
+		<row row_number="12" isdata="1">לבעלים הוא דלא עלו לשום חובה הא מנחה</row>
+		<row row_number="13" isdata="1">גופה כשרה ואסור לשנויי כדרבא דאמר</row>
+		<row row_number="14" isdata="1">רבא עולה ששחטה שלא לשמה אסור לזרוק</row>
+		<row row_number="15" isdata="1">דמה שלא לשמה איבעית אימא סברא ואיבעית אימא קרא איבעית אימא סברא</row>
+		<row row_number="16" isdata="1">משום דמשני בה כל הני לישני בה וניזיל ואיבעית אימא קרא מוצא שפתיך</row>
+		<row row_number="17" isdata="1">תשמור ועשית כאשר נדרת ליי' אלהיך נדבה נדבה נדר הוא ג] קרי ליה נדר</row>
+		<row row_number="18" isdata="1">וקרי ליה נדבה אלא אם כמה שנדרת עשית יהא נדר ואם לאו יהא נדבה</row>
+		<row row_number="19" isdata="0">ונדבה</row>
+</amud>
+</daf>
+</masechet>
+</root>

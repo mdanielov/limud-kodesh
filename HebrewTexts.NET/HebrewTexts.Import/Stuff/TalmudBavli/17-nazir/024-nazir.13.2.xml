@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:10.585844</dateCreated>
+   <lastModified>2016-08-04 11:57:10.585844</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="13">
+	<amud value="2">
+		<row row_number="1" isdata="1">כסיפא ליה מילתא אמר הריני נזיר לכשיהא</row>
+		<row row_number="2" isdata="1">לפלוני בן ושמע חבירו ואמר ואני מהו מי</row>
+		<row row_number="3" isdata="1">אמרינן שלא בפניו אנפשיה קאמר או דילמא</row>
+		<row row_number="4" isdata="1">הכי קאמר ליה רחימנא ליה כוותיך תיבעי:</row>
+		<row row_number="5" isdata="1">מתני' הריני נזיר ונזיר כשיהיה לי בן</row>
+		<row row_number="6" isdata="1">התחיל מונה את שלו ואח"כ נולד לו בן</row>
+		<row row_number="7" isdata="1">משלים את שלו ואח"כ מונה את של בנו</row>
+		<row row_number="8" isdata="1">הריני נזיר כשיהיה לי בן ונזיר התחיל מונה</row>
+		<row row_number="9" isdata="1">את שלו ואח"כ נולד לו בן מניח את שלו</row>
+		<row row_number="10" isdata="1">ומונה את של בנו ואח"כ משלים את</row>
+		<row row_number="11" isdata="1">שלו: <EndMishna/><StartGemara/>גמ' בעי רבא אמר הריני נזיר</row>
+		<row row_number="12" isdata="1">לאחר עשרים יום ומעכשיו מאה יום מהו</row>
+		<row row_number="13" isdata="1">כיון דהלין מאה בעשרין לא שלמין לא</row>
+		<row row_number="14" isdata="1">חיילין או דילמא כיון דאית ליה גידול שער</row>
+		<row row_number="15" isdata="1">לבסוף חיילין ותיבעי ליה נזירות</row>
+		<row row_number="16" isdata="1">מועטת חדא מגו חדא קא מיבעיא ליה</row>
+		<row row_number="17" isdata="0">את"ל</row>
+</amud>
+</daf>
+</masechet>
+</root>

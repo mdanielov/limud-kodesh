@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:07.731681</dateCreated>
+   <lastModified>2016-08-04 11:57:07.731681</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="24">
+	<amud value="2">
+		<row row_number="1" isdata="1">דאפילו בקמייתא ושמע מינה פליגי רבנן</row>
+		<row row_number="2" isdata="1">עליה שמע מינה מאי הוי עלה ת"ש דאמר</row>
+		<row row_number="3" isdata="1">רב הונא הלכה כרבי אליעזר בן יעקב וכן</row>
+		<row row_number="4" isdata="1">אמר רב אדא בר אהבה הלכה כרבי</row>
+		<row row_number="5" isdata="1">אליעזר בן יעקב<EndGemara/><StartMishna/>: מתני' נדרי הבאי אמר</row>
+		<row row_number="6" isdata="1">קונם אם לא ראיתי בדרך הזה כעולי</row>
+		<row row_number="7" isdata="1">מצרים אם לא ראיתי נחש כקורת בית הבד:</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' תנא נדרי הבאי מותרין שבועות</row>
+		<row row_number="9" isdata="1">הבאי אסורין היכי דמי שבועות הבאי</row>
+		<row row_number="10" isdata="1">אילימא דאמר שבועה אם לא ראיתי בדרך</row>
+		<row row_number="11" isdata="1">הזה מידעם קאמר אמר אביי דאמר שבועה</row>
+		<row row_number="12" isdata="1">שראיתי אמר ליה רבא אם כן למה לי</row>
+		<row row_number="13" isdata="1">למימר ועוד דומיא דנדר קתני אלא אמר</row>
+		<row row_number="14" isdata="1">רבא באומר יאסרו פירות העולם עלי</row>
+		<row row_number="15" isdata="1">בשבועה אם לא ראיתי בדרך הזה כעולי</row>
+		<row row_number="16" isdata="1">מצרים א"ל רבינא לרב אשי ודלמא האי</row>
+		<row row_number="17" isdata="1">גברא קינא דשומשמני חזא ואסיק להון שמא עולי מצרים ושפיר משתבע</row>
+		<row row_number="18" isdata="0">א"ל</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:49.387632</dateCreated>
+   <lastModified>2016-08-04 11:56:49.387632</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="22">
+	<amud value="1">
+		<row row_number="1" isdata="1">מתני' סוכה המדובללת ושצילתה מרובה</row>
+		<row row_number="2" isdata="1">מחמתה כשרה המעובה כמין בית אע"פ</row>
+		<row row_number="3" isdata="1">שאין הכוכבים נראין מתוכה כשרה:</row>
+		<row row_number="4" isdata="1"><EndMishna/><StartGemara/>גמ' מאי מדובללת אמר רב סוכה ענייה</row>
+		<row row_number="5" isdata="1">ושמואל אמר קנה עולה וקנה יורד רב</row>
+		<row row_number="6" isdata="1">תני חדא ושמואל תני תרתי רב תני חדא</row>
+		<row row_number="7" isdata="1">סוכה מדובללת מאי מדובללת מדולדלת</row>
+		<row row_number="8" isdata="1">שצילתה מרובה מחמתה כשרה ושמואל</row>
+		<row row_number="9" isdata="1">תני תרתי מאי מדובללת מבולבלת ותרתי</row>
+		<row row_number="10" isdata="1">קתני סוכה מבולבלת כשרה וצילתה מרובה</row>
+		<row row_number="11" isdata="1">מחמתה כשרה אמר אביי לא שנו אלא</row>
+		<row row_number="12" isdata="1">שאין בין זה לזה שלשה טפחים אבל יש בין</row>
+		<row row_number="13" isdata="1">זה לזה ג' טפחים פסולה אמר רבא אפילו</row>
+		<row row_number="14" isdata="1">יש בין זה לזה שלשה טפחים נמי לא אמרן</row>
+		<row row_number="15" isdata="1">אלא שאין בגגו טפח אבל יש בגגו טפח</row>
+		<row row_number="16" isdata="1">כשרה דאמרינן חבוט רמי אמר רבא מנא</row>
+		<row row_number="17" isdata="1">אמינא לה דכי אית ביה טפח אמרינן חבוט</row>
+		<row row_number="18" isdata="1">רמי וכי לית ביה לא אמרינן חבוט רמי דתנן</row>
+		<row row_number="19" isdata="1">קורות הבית והעלייה שאין עליהם מעזיבה</row>
+		<row row_number="20" isdata="1">והן מכוונות טומאה תחת אחת מהן תחתיה</row>
+		<row row_number="21" isdata="1">טמא בין התחתונה לעליונה ביניהן טמא</row>
+		<row row_number="22" isdata="1">על גבי העליונה כנגדה עד לרקיע טמא</row>
+		<row row_number="23" isdata="1">היו העליונות כבין התחתונות טומאה</row>
+		<row row_number="24" isdata="1">תחתיהן תחת כולן טמא על גביהן כנגדן עד</row>
+		<row row_number="25" isdata="1">לרקיע טמא ותני עלה בד"א בזמן שיש</row>
+		<row row_number="26" isdata="1">בהן טפח וביניהן פותח טפח אבל אין ביניהן</row>
+		<row row_number="27" isdata="1">פותח טפח טומאה תחת אחת מהן תחתיה</row>
+		<row row_number="28" isdata="1">טמא ביניהן ועל גביהן טהור אלמא כי</row>
+		<row row_number="29" isdata="1">אית ביה טפח אמרינן חבוט רמי וכי</row>
+		<row row_number="30" isdata="1">לית ביה טפח לא אמרינן חבוט רמי</row>
+		<row row_number="31" isdata="1">שמע מינה יתיב רב כהנא וקאמר להא</row>
+		<row row_number="32" isdata="1">שמעתא אמר ליה רב אשי לרב כהנא</row>
+		<row row_number="33" isdata="1">וכל היכא דלית ביה טפח לא אמרינן</row>
+		<row row_number="34" isdata="1">חבוט רמי והא תניא קורה היוצאה</row>
+		<row row_number="35" isdata="1">מכותל זה ואינה נוגעת בכותל זה וכן שתי</row>
+		<row row_number="36" isdata="1">קורות אחת יוצאה מכותל זה ואחת יוצאה</row>
+		<row row_number="37" isdata="1">מכותל זה ואינן נוגעות זו בזו פחות משלשה אינו צריך להביא קורה</row>
+		<row row_number="38" isdata="1">אחרת שלשה צריך להביא קורה אחרת רבן שמעון בן גמליאל אומר</row>
+		<row row_number="39" isdata="0">פחות</row>
+</amud>
+</daf>
+</masechet>
+</root>

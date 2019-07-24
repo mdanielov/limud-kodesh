@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:43.565299</dateCreated>
+   <lastModified>2016-08-04 11:56:43.565299</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="97">
+	<amud value="2">
+		<row row_number="1" isdata="1">כדרבי אושעיא דא"ר אושעיא הפריש</row>
+		<row row_number="2" isdata="1">שתי חטאות לאחריות מתכפר באחת מהן</row>
+		<row row_number="3" isdata="1">ושניה תרעה והא אילו בפסח כי האי גוונא</row>
+		<row row_number="4" isdata="1">קרב שלמים אלא שמואל כר' שמעון סבירא</row>
+		<row row_number="5" isdata="1">ליה דאמר חמש חטאות מתות והא רועה</row>
+		<row row_number="6" isdata="1">לרבי שמעון לית ליה כלל שמואל נמי חדא</row>
+		<row row_number="7" isdata="1">קאמר כל שבחטאת מתה בפסח קרב</row>
+		<row row_number="8" isdata="1">שלמים ומאי קמ"ל לאפוקי מדר' יוחנן דאמר</row>
+		<row row_number="9" isdata="1">אין הפסח קרב שלמים אלא שנמצא אחר</row>
+		<row row_number="10" isdata="1">שחיטה אבל קודם שחיטה לא אלמא שחיטה</row>
+		<row row_number="11" isdata="1">קבע קמ"ל חצות קבע לישנא אחרינא ואילו</row>
+		<row row_number="12" isdata="1">בפסח היכא דאבד ונמצא אחר חצות קודם</row>
+		<row row_number="13" isdata="1">שחיטה יקרב שלמים שמואל כרבה ס"ל</row>
+		<row row_number="14" isdata="1">דאמר שחיטה קבע והא מדקאמר רבי</row>
+		<row row_number="15" isdata="1">יוחנן עלה אין הפסח קרב שלמים אלא</row>
+		<row row_number="16" isdata="1">שנמצא אחר שחיטה אבל קודם שחיטה</row>
+		<row row_number="17" isdata="1">לא אלמא שחיטה קבע מכלל דשמואל</row>
+		<row row_number="18" isdata="1">סבר חצות קבע אלא שמואל כרבי סבירא</row>
+		<row row_number="19" isdata="1">ליה דאמר אבודה למיתה אזלא והא כל</row>
+		<row row_number="20" isdata="1">אבודין לר' מתין ואילו בפסח היכא דאבד</row>
+		<row row_number="21" isdata="1">קודם חצות ונמצא קודם חצות רועה</row>
+		<row row_number="22" isdata="1">קסבר קודם חצות לאו אבוד הוא וקסבר</row>
+		<row row_number="23" isdata="1">חצות קבע<EndGemara/><StartMishna/>: מתני' המפריש נקבה</row>
+		<row row_number="24" isdata="1">לפסחו או זכר בן שתי שנים ירעה עד</row>
+		<row row_number="25" isdata="1">שיסתאב וימכר ויפלו דמיו לנדבה לשלמים</row>
+		<row row_number="26" isdata="0">המפריש</row>
+</amud>
+</daf>
+</masechet>
+</root>

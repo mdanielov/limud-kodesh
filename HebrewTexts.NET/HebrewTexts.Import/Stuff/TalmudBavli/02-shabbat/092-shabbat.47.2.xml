@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:29.471493</dateCreated>
+   <lastModified>2016-08-04 11:56:29.471493</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="47">
+	<amud value="2">
+		<row row_number="1" isdata="1">אבל אסור ולא יתקע ואם תקע חייב חטאת</row>
+		<row row_number="2" isdata="1">רשב"ג אומר אם היה רפוי מותר בי רב חמא</row>
+		<row row_number="3" isdata="1">הוה מטה גללניתא הוה מהדרי לה ביומא</row>
+		<row row_number="4" isdata="1">טבא א"ל ההוא מדרבנן לרבא מאי דעתיך</row>
+		<row row_number="5" isdata="1">בנין מן הצד הוא נהי דאיסורא דאורייתא</row>
+		<row row_number="6" isdata="1">ליכא איסורא דרבנן מיהא איכא אמר ליה</row>
+		<row row_number="7" isdata="1">אנא כרשב"ג סבירא לי דאמר אם היה רפוי</row>
+		<row row_number="8" isdata="1">מותר<EndGemara/><StartMishna/>: מתני' נותנין כלי תחת הנר</row>
+		<row row_number="9" isdata="1">לקבל ניצוצות ולא יתן לתוכו מים מפני שהוא</row>
+		<row row_number="10" isdata="1">מכבה: <EndMishna/><StartGemara/>גמ' והא קמבטל כלי מהיכנו אמר</row>
+		<row row_number="11" isdata="1">רב הונא בריה דרב יהושע ניצוצות אין בהן</row>
+		<row row_number="12" isdata="1">ממש: ולא יתן לתוכו מים מפני שהוא</row>
+		<row row_number="13" isdata="1">מכבה: לימא תנן סתמא כרבי יוסי דאמר</row>
+		<row row_number="14" isdata="1">גורם לכיבוי אסור ותסברא אימור דאמר ר'</row>
+		<row row_number="15" isdata="1">יוסי בשבת בערב שבת מי אמר וכי תימא</row>
+		<row row_number="16" isdata="1">הכא נמי בשבת והתניא נותנין כלי תחת</row>
+		<row row_number="17" isdata="1">הנר לקבל ניצוצות בשבת ואין צריך לומר</row>
+		<row row_number="18" isdata="1">בע"ש ולא יתן לתוכו מים מפני שהוא</row>
+		<row row_number="19" isdata="1">מכבה מע"ש ואין צריך לומר בשבת אלא</row>
+		<row row_number="20" isdata="1">אמר רב אשי אפילו תימא רבנן שאני הכא</row>
+		<row row_number="21" isdata="1">מפני שמקרב את כיבויו:<EndChapter name = "כירה"/><EndGemara/></row>
+		<row row_number="22" isdata="0">הדרן עלך כירה</row>
+		<row row_number="23" isdata="1"><StartChapter name = "במה טומנין"/><StartMishna/>במה  טומנין ובמה אין טומנין אין</row>
+		<row row_number="24" isdata="1">טומנין לא בגפת ולא בזבל לא</row>
+		<row row_number="25" isdata="1">במלח ולא בסיד ולא בחול בין לחין בין</row>
+		<row row_number="26" isdata="1">יבשין ולא בתבן ולא בזגין ולא במוכין ולא</row>
+		<row row_number="27" isdata="1">בעשבין בזמן שהן לחין אבל טומנין בהן</row>
+		<row row_number="28" isdata="1">כשהן יבשין: <EndMishna/><StartGemara/>גמ' איבעיא להו גפת של</row>
+		<row row_number="29" isdata="1">זיתים תנן אבל דשומשמין שפיר דמי או</row>
+		<row row_number="30" isdata="1">דילמא דשומשמין תנן וכל שכן דזיתים</row>
+		<row row_number="31" isdata="1">ת"ש דאמר ר' זירא משום חד דבי ר' ינאי</row>
+		<row row_number="32" isdata="1">קופה שטמן בה אסור להניחה על גפת של</row>
+		<row row_number="33" isdata="1">זיתים ש"מ של זיתים תנן לעולם אימא לך</row>
+		<row row_number="34" isdata="1">לענין הטמנה דשומשמין נמי אסור לענין</row>
+		<row row_number="35" isdata="0">אסוקי</row>
+</amud>
+</daf>
+</masechet>
+</root>

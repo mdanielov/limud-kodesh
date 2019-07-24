@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:22.880547</dateCreated>
+   <lastModified>2016-08-04 11:57:22.880547</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="57">
+	<amud value="2">
+		<row row_number="1" isdata="1">לא אם אמרת בשומר חנם שכן משלם</row>
+		<row row_number="2" isdata="1">תשלומי כפל תאמר בשומר שכר שאינו</row>
+		<row row_number="3" isdata="1">משלם תשלומי כפל ואי ס"ד לסטים מזויין</row>
+		<row row_number="4" isdata="1">גנב הוא נמצא בשומר שכר משלם תשלומי</row>
+		<row row_number="5" isdata="1">כפל בטוען טענת לסטים מזויין א"ל הכי</row>
+		<row row_number="6" isdata="1">קאמר לא אם אמרת בשומר חנם שכן</row>
+		<row row_number="7" isdata="1">משלם תשלומי כפל בכל טענותיו תאמר</row>
+		<row row_number="8" isdata="1">בשומר שכר שאינו משלם תשלומי כפל</row>
+		<row row_number="9" isdata="1">אלא בטוען טענת לסטים מזויין איתיביה</row>
+		<row row_number="10" isdata="1">ונשבר או מת אין לי אלא שבורה ומתה</row>
+		<row row_number="11" isdata="1">גניבה ואבידה מנין אמרת ק"ו ומה שומר</row>
+		<row row_number="12" isdata="1">שכר שפטר בו שבורה ומתה חייב</row>
+		<row row_number="13" isdata="1">בגניבה ואבידה שואל שחייב בשבורה</row>
+		<row row_number="14" isdata="1">ומתה אינו דין שחייב בגניבה ואבידה</row>
+		<row row_number="15" isdata="1">וזהו ק"ו שאין עליו תשובה ואי ס"ד לסטים</row>
+		<row row_number="16" isdata="1">מזויין גנב הוא אמאי אין עליו תשובה איכא</row>
+		<row row_number="17" isdata="1">למפרך מה לשומר שכר שכן משלם תשלומי</row>
+		<row row_number="18" isdata="1">כפל בטוען טענת לסטים מזויין א"ל קסבר</row>
+		<row row_number="19" isdata="1">האי תנא קרנא בלא שבועה עדיפא מכפילא</row>
+		<row row_number="20" isdata="1">בשבועה לימא מסייע ליה השוכר פרה</row>
+		<row row_number="21" isdata="1">מחבירו ונגנבה ואמר הלה הריני משלם</row>
+		<row row_number="22" isdata="1">ואיני נשבע ואח"כ נמצא הגנב משלם</row>
+		<row row_number="23" isdata="1">תשלומי כפל לשוכר סברוה כרבי יהודה</row>
+		<row row_number="24" isdata="1">דאמר שוכר כנושא שכר דמי ומדקתני ואמר</row>
+		<row row_number="25" isdata="1">הריני משלם ואיני נשבע מכלל דאי בעי</row>
+		<row row_number="26" isdata="1">פטר ליה נפשיה בשבועה ה"ד כגון דקא</row>
+		<row row_number="27" isdata="1">טעין טענת לסטים מזויין וקתני ואח"כ</row>
+		<row row_number="28" isdata="1">נמצא הגנב משלם תשלומי כפל לשוכר</row>
+		<row row_number="29" isdata="1">ש"מ לסטים מזויין גנב הוא אמרי מי סברת</row>
+		<row row_number="30" isdata="1">כר"י דאמר שוכר כנושא שכר דמי דלמא</row>
+		<row row_number="31" isdata="1">כר"מ ס"ל דאמר שוכר כשומר חנם דמי</row>
+		<row row_number="32" isdata="1">איבעית אימא כדמחליף רבה בר אבוה ותני</row>
+		<row row_number="33" isdata="1">שוכר כיצד משלם ר"מ אומר כשומר שכר</row>
+		<row row_number="34" isdata="1">ר"י אומר כשומר חנם רבי זירא אמר הכא</row>
+		<row row_number="35" isdata="1">במאי עסקינן בטוען טענת לסטים מזויין</row>
+		<row row_number="36" isdata="1">ונמצא לסטים שאינו מזויין: נפלה לגינה</row>
+		<row row_number="37" isdata="1">ונהנית משלמת מה שנהנית: אמר רב</row>
+		<row row_number="38" isdata="1">בנחבטה אבל אכלה אפילו מה שנהנית</row>
+		<row row_number="39" isdata="1">אינה משלמת לימא רב לטעמיה דאמר רב</row>
+		<row row_number="40" isdata="1">היה לה שלא תאכל אמרי הכי השתא אימור</row>
+		<row row_number="41" isdata="1">דאמר רב התם היה לה שלא תאכל היכא</row>
+		<row row_number="42" isdata="1">דאיתזקא היא דמצי א"ל מריה דפירי לא</row>
+		<row row_number="43" isdata="1">משלמנא היה לה שלא תאכל לאזוקי היא</row>
+		<row row_number="44" isdata="1">אחריני דפטירה לשלומי מי אמר אלא</row>
+		<row row_number="45" isdata="0">לא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:20.189393</dateCreated>
+   <lastModified>2016-08-04 11:57:20.189393</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="73">
+	<amud value="2">
+		<row row_number="1" isdata="1">אין בו משום אסופי משלטי הדמיה אין בו</row>
+		<row row_number="2" isdata="1">משום אסופי שייף משחא ומלא כוחלא רמי</row>
+		<row row_number="3" isdata="1">חומרי תלי פיתקא ותלי קמיעא אין בו משום</row>
+		<row row_number="4" isdata="1">אסופי תלי בדיקלי אי מטיא ליה חיה יש בו</row>
+		<row row_number="5" isdata="1">משום אסופי אם לאו אין בו משום אסופי</row>
+		<row row_number="6" isdata="1">זרדתא סמיכא למתא יש בו משום אסופי</row>
+		<row row_number="7" isdata="1">ואם לאו אין בו משום אסופי בי כנישתא</row>
+		<row row_number="8" isdata="1">סמיכתא למתא ושכיחי ביה רבים אין בו</row>
+		<row row_number="9" isdata="1">משום אסופי ואם לאו יש בו משום אסופי</row>
+		<row row_number="10" isdata="1">אמר אמימר האי פירא דסופלי יש בו משום</row>
+		<row row_number="11" isdata="1">אסופי חריפתא דנהרא אין בו משום אסופי</row>
+		<row row_number="12" isdata="1">פשרי יש בו משום אסופי צידי רשות הרבים</row>
+		<row row_number="13" isdata="1">אין בו משום אסופי רשות הרבים יש בו</row>
+		<row row_number="14" isdata="1">משום אסופי אמר רבא ובשני רעבון אין</row>
+		<row row_number="15" isdata="1">בו משום אסופי הא דרבא אהייא אילימא</row>
+		<row row_number="16" isdata="1">ארשות הרבים איידי דשני רעבון קטלא ליה</row>
+		<row row_number="17" isdata="1">ואלא אצידי רשות הרבים מאי איריא שני</row>
+		<row row_number="18" isdata="1">רעבון אפילו בלא שני רעבון אלא כי אתמר</row>
+		<row row_number="19" isdata="1">דרבא אהא דאמר רב יהודה אמר רבי אבא</row>
+		<row row_number="20" isdata="1">אמר רבי יהודה בר זבדי אמר רב כל זמן</row>
+		<row row_number="21" isdata="1">שבשוק אביו ואמו נאמנים עליו נאסף מן</row>
+		<row row_number="22" isdata="1">השוק אין נאמנים עליו מאי טעמא אמר רבא</row>
+		<row row_number="23" isdata="1">הואיל ויצא עליו שם אסופי ואמר רבא</row>
+		<row row_number="24" isdata="1">ובשני רעבון אע"פ שנאסף מן השוק אביו</row>
+		<row row_number="25" isdata="1">ואמו נאמנים עליו אמר רב חסדא שלשה</row>
+		<row row_number="26" isdata="1">נאמנים לאלתר אלו הן אסופי חיה ופוטרת</row>
+		<row row_number="27" isdata="1">חברותיה אסופי הא דאמרן חיה דתניא חיה</row>
+		<row row_number="28" isdata="1">נאמנת לומר זה יצא ראשון וזה יצא שני במה</row>
+		<row row_number="29" isdata="1">דברים אמורים שלא יצתה וחזרה אבל יצתה</row>
+		<row row_number="30" isdata="1">וחזרה אינה נאמנת רבי אליעזר אומר הוחזקה</row>
+		<row row_number="31" isdata="1">על עומדה נאמנת ואם לאו אינה נאמנת</row>
+		<row row_number="32" isdata="1">מאי בינייהו איכא בינייהו דאהדר אפה</row>
+		<row row_number="33" isdata="1">פוטרת חברותיה מאי היא דתנן שלש נשים</row>
+		<row row_number="34" isdata="1">שהיו ישנות במטה אחת ונמצא דם תחת אחת</row>
+		<row row_number="35" isdata="1">מהן כולן טמאות בדקה אחת מהן ונמצאת</row>
+		<row row_number="36" isdata="1">טמאה היא טמאה וכולן טהורות אמר רב</row>
+		<row row_number="37" isdata="1">חסדא שבדקה עצמה כשיעור ווסת תנו רבנן</row>
+		<row row_number="38" isdata="1">נאמנת חיה לומר זה כהן וזה לוי זה נתין וזה</row>
+		<row row_number="39" isdata="1">ממזר במה דברים אמורים שלא קרא עליה</row>
+		<row row_number="40" isdata="1">שם ערער אבל קרא עליה ערער אינה נאמנת</row>
+		<row row_number="41" isdata="1">ערער דמאי אילימא ערער חד והאמר רבי</row>
+		<row row_number="42" isdata="1">יוחנן אין ערער פחות משנים אלא ערער תרי</row>
+		<row row_number="43" isdata="1">ואיבעית אימא לעולם אימא לך ערער חד</row>
+		<row row_number="44" isdata="1">וכי אמר רבי יוחנן אין ערער פחות משנים הני</row>
+		<row row_number="45" isdata="1">מילי היכא דאיתא חזקה דכשרות אבל</row>
+		<row row_number="46" isdata="1">היכא דליכא חזקה דכשרות חד נמי מהימן</row>
+		<row row_number="47" isdata="1">נאמן בעל מקח לומר לזה מכרתי ולזה</row>
+		<row row_number="48" isdata="1">אין מכרתי במה דברים אמורים בזמן</row>
+		<row row_number="49" isdata="1">שמקחו בידו אבל אין מקחו בידו אינו נאמן</row>
+		<row row_number="50" isdata="0">וניחזי</row>
+</amud>
+</daf>
+</masechet>
+</root>

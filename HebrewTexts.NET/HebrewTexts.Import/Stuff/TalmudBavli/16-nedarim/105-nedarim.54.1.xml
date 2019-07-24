@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:08.767740</dateCreated>
+   <lastModified>2016-08-04 11:57:08.767740</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="54">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "הנודר מן הירק"/><StartMishna/>הנודר  מן הירק מותר בדלועין ורבי עקיבא</row>
+		<row row_number="2" isdata="1">אוסר אמרו לו לרבי עקיבא והלא</row>
+		<row row_number="3" isdata="1">אומר אדם לשלוחו קח לי ירק והוא אומר לא</row>
+		<row row_number="4" isdata="1">מצאתי אלא דלועין אמר להם כן הדבר או</row>
+		<row row_number="5" isdata="1">שמא אומר הוא לא מצאתי אלא קיטנית</row>
+		<row row_number="6" isdata="1">אלא שהדלועין בכלל ירק וקיטנית אינו בכלל</row>
+		<row row_number="7" isdata="1">ירק ואסור בפול המצרי לח ומותר ביבש:</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' הנודר מן הירק כו': והא מן ירק נדר אמר</row>
+		<row row_number="9" isdata="1">עולא באומר ירקי קדירה עלי ודילמא ירק</row>
+		<row row_number="10" isdata="1">הנאכל בקדרה קאמר באומר ירק המתבשל</row>
+		<row row_number="11" isdata="1">בקדרה עלי במאי קא מיפלגי רבנן סברי כל</row>
+		<row row_number="12" isdata="1">מילתא דצריך שליחא לאמלוכי עלה לאו</row>
+		<row row_number="13" isdata="1">מיניה הוא ורבי עקיבא סבר כל מילתא</row>
+		<row row_number="14" isdata="1">דמימליך שליחא עלה מיניה הוא אמר אביי</row>
+		<row row_number="15" isdata="1">מודה רבי עקיבא לענין מלקות שאינו לוקה</row>
+		<row row_number="16" isdata="1">תנן התם השליח שעשה שליחותו בעל</row>
+		<row row_number="17" isdata="1">הבית מעל לא עשה שליחותו שליח מעל</row>
+		<row row_number="18" isdata="1">מאן תנא אמר רב חסדא מתניתין דלא</row>
+		<row row_number="19" isdata="1">כרבי עקיבא דתנן כיצד אמר לו תן בשר</row>
+		<row row_number="20" isdata="1">לאורחים ונתן להם כבד תן כבד ונתן להם</row>
+		<row row_number="21" isdata="1">בשר השליח מעל ואי רבי עקיבא הא א"ר</row>
+		<row row_number="22" isdata="1">עקיבא כל מילתא דמימליך עלה שליח מיניה</row>
+		<row row_number="23" isdata="1">הוא למעול בעל הבית ולא למעול שליח</row>
+		<row row_number="24" isdata="1">אמר אביי אפילו תימא רבי עקיבא</row>
+		<row row_number="25" isdata="0">מי</row>
+</amud>
+</daf>
+</masechet>
+</root>

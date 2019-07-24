@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:26.596760</dateCreated>
+   <lastModified>2016-08-04 11:57:26.596760</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="27">
+	<amud value="1">
+		<row row_number="1" isdata="1">בלוקח מן התגר אבל בלוקח מבעל הבית</row>
+		<row row_number="2" isdata="1">חייב להחזיר וכן תני תנא קמיה דרב נחמן</row>
+		<row row_number="3" isdata="1">ל"ש אלא בלוקח מן התגר אבל בלוקח</row>
+		<row row_number="4" isdata="1">מבעל הבית חייב להחזיר א"ל רב נחמן</row>
+		<row row_number="5" isdata="1">וכי בעל הבית בעצמו דשן א"ל איסמיה</row>
+		<row row_number="6" isdata="1">א"ל לא תתרגם מתני' כגון שדשן ע"י</row>
+		<row row_number="7" isdata="1">עבדו ושפחתו הכנענים<EndGemara/><StartMishna/>: מתני' אף</row>
+		<row row_number="8" isdata="1">השמלה היתה בכלל כל אלו ולמה יצאת</row>
+		<row row_number="9" isdata="1">להקיש אליה לומר לך מה שמלה מיוחדת</row>
+		<row row_number="10" isdata="1">שיש בה סימנין ויש לה תובעין אף כל</row>
+		<row row_number="11" isdata="1">דבר שיש בו סימנין ויש לו תובעים חייב</row>
+		<row row_number="12" isdata="1">להכריז: <EndMishna/><StartGemara/>גמ' מאי בכלל כל אלו אמר רבא</row>
+		<row row_number="13" isdata="1">בכלל כל אבדת אחיך אמר רבא למה</row>
+		<row row_number="14" isdata="1">לי דכתב רחמנא שור חמור שה ושמלה</row>
+		<row row_number="15" isdata="1">צריכי דאי כתב רחמנא שמלה הוה אמינא</row>
+		<row row_number="16" isdata="1">ה"מ בעדים דגופה וסימנין דגופה אבל חמור</row>
+		<row row_number="17" isdata="1">בעדים דאוכף וסימנין דאוכף אימא לא</row>
+		<row row_number="18" isdata="1">מהדרינן ליה כתב רחמנא חמור דאפילו</row>
+		<row row_number="19" isdata="1">חמור בסימני האוכף שור ושה דכתב רחמנא</row>
+		<row row_number="20" isdata="1">ל"ל שור דאפילו לגיזת זנבו ושה לגיזותיו</row>
+		<row row_number="21" isdata="1">ולכתוב רחמנא שור דאפילו לגיזת זנבו</row>
+		<row row_number="22" isdata="1">וכ"ש שה לגיזותיו אלא אמר רבא חמור</row>
+		<row row_number="23" isdata="1">דבור לרבי יהודה ושה דאבידה לדברי</row>
+		<row row_number="24" isdata="1">הכל קשיא ואימא לגללים הוא דאתא גללים</row>
+		<row row_number="25" isdata="1">אפקורי מפקר להו ודילמא לסימנין הוא</row>
+		<row row_number="26" isdata="1">דאתא דאיבעיא לן סימנין דאורייתא או</row>
+		<row row_number="27" isdata="1">דרבנן כתב רחמנא שה דאפילו בסימנין</row>
+		<row row_number="28" isdata="1">מהדרינן וסימנין דאורייתא אמרי מדקתני</row>
+		<row row_number="29" isdata="1">להו תנא לסימנין גבי שמלה דקתני מה</row>
+		<row row_number="30" isdata="1">שמלה מיוחדת שיש בה סימנין ויש לה</row>
+		<row row_number="31" isdata="1">תובעין חייב להכריז אף כל דבר שיש בו</row>
+		<row row_number="32" isdata="1">סימנין ויש לו תובעין חייב להכריז ש"מ דשה</row>
+		<row row_number="33" isdata="1">לאו לסימנין הוא דאתא: תנו רבנן אשר</row>
+		<row row_number="34" isdata="1">תאבד פרט לאבידה שאין בה שוה פרוטה</row>
+		<row row_number="35" isdata="1">רבי יהודה אומר ומצאתה פרט לאבידה</row>
+		<row row_number="36" isdata="1">שאין בה שוה פרוטה מאי בינייהו אמר אביי</row>
+		<row row_number="37" isdata="1">משמעות דורשין איכא בינייהו מר נפקא</row>
+		<row row_number="38" isdata="1">ליה מאשר תאבד ומר נפקא ליה מומצאתה</row>
+		<row row_number="39" isdata="1">ולמאן דנפקא ליה מאשר תאבד האי</row>
+		<row row_number="40" isdata="1">ומצאתה מאי עביד ליה ההוא מיבעי ליה</row>
+		<row row_number="41" isdata="1">לכדרבנאי דאמר רבנאי ומצאתה דאתאי</row>
+		<row row_number="42" isdata="1">לידיה משמע ולמאן דנפקא ליה מומצאתה</row>
+		<row row_number="43" isdata="1">האי אשר תאבד מאי עביד ליה מבעי ליה</row>
+		<row row_number="44" isdata="1">לכדרבי יוחנן דאמר רבי יוחנן משום ר"ש בן יוחי מניין לאבידה ששטפה</row>
+		<row row_number="45" isdata="1">נהר שהיא מותרת שנאמר כן תעשה לכל אבדת אחיך אשר תאבד ממנו</row>
+		<row row_number="46" isdata="1">ומצאתה מי שאבודה הימנו ומצויה אצל כל אדם יצתה זו שאבודה</row>
+		<row row_number="47" isdata="1">הימנו ואינה מצויה אצל כל אדם ואידך הא דרבנאי מנא ליה נפקא ליה</row>
+		<row row_number="48" isdata="1">מומצאתה ואידך הא דרבי יוחנן מנא ליה נפקא ליה ממנו ואידך ממנו</row>
+		<row row_number="49" isdata="1">לא משמע ליה רבא אמר פרוטה שהוזלה איכא בינייהו מ"ד מאשר תאבד</row>
+		<row row_number="50" isdata="1">איכא ומ"ד מומצאתה ליכא ולמ"ד אשר תאבד הא בעינן ומצאתה וליכא</row>
+		<row row_number="51" isdata="1">אלא פרוטה שהוקרה איכא בינייהו מאן דאמר ומצאתה איכא ומאן</row>
+		<row row_number="52" isdata="1">דאמר אשר תאבד ליכא ולמאן דאמר ומצאתה הא בעינן אשר תאבד</row>
+		<row row_number="53" isdata="1">וליכא אלא פרוטה שהוקרה והוזלה וחזרה והוקרה איכא בינייהו</row>
+		<row row_number="54" isdata="1">מאן דאמר אשר תאבד איכא ומאן דאמר ומצאתה בעינן דאית בה</row>
+		<row row_number="55" isdata="1">שיעור מציאה משעת אבידה ועד שעת מציאה: איבעיא להו סימנין דאורייתא או דרבנן מאי נפקא מינה</row>
+		<row row_number="56" isdata="0">לאהדורי</row>
+</amud>
+</daf>
+</masechet>
+</root>

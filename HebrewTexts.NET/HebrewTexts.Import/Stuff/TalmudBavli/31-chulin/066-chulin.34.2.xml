@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:59.872663</dateCreated>
+   <lastModified>2016-08-04 11:57:59.872663</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="34">
+	<amud value="2">
+		<row row_number="1" isdata="1">טומאה היא אצל הקדש אמר רבי זירא א"ר</row>
+		<row row_number="2" isdata="1">אסי א"ר יוחנן א"ר ינאי האוכל שלישי של</row>
+		<row row_number="3" isdata="1">חולין שנעשו על טהרת הקדש נעשה גופו</row>
+		<row row_number="4" isdata="1">שני לקדש איתיביה רבי זירא לרבי אסי</row>
+		<row row_number="5" isdata="1">שלישי שני לקדש ואין שני לתרומה בחולין</row>
+		<row row_number="6" isdata="1">שנעשו על טהרת תרומה על טהרת תרומה</row>
+		<row row_number="7" isdata="1">אין על טהרת הקדש לא אמר ליה לא</row>
+		<row row_number="8" isdata="1">מיבעיא קאמר והא אף אני לא אמרתי</row>
+		<row row_number="9" isdata="1">אלא בתרומה קאמר אמוראי נינהו ואליבא</row>
+		<row row_number="10" isdata="1">דרבי יוחנן אמר עולא האוכל שלישי של</row>
+		<row row_number="11" isdata="1">חולין שנעשו על טהרת תרומה נפסל גופו</row>
+		<row row_number="12" isdata="1">מלאכול בתרומה מאי קמ"ל תנינא שלישי</row>
+		<row row_number="13" isdata="1">שני לקדש ואין שני לתרומה בחולין שנעשו</row>
+		<row row_number="14" isdata="1">על טהרת תרומה שני הוא דלא הוי הא</row>
+		<row row_number="15" isdata="1">שלישי הוי אי מההיא הוה אמינא לא שני</row>
+		<row row_number="16" isdata="1">הוי ולא שלישי הוי ואיידי דאמר שני בקדש</row>
+		<row row_number="17" isdata="1">אמר נמי אין שני בתרומה קמ"ל איתיביה רב</row>
+		<row row_number="18" isdata="1">המנונא לעולא הראשון שבחולין טמא</row>
+		<row row_number="19" isdata="1">ומטמא והשני פוסל ואינו מטמא והשלישי</row>
+		<row row_number="20" isdata="1">נאכל בנזיד הדמע ואי אמרת נפסל גופו</row>
+		<row row_number="21" isdata="1">מלאכול בתרומה ספינן ליה מידי דפסיל</row>
+		<row row_number="22" isdata="1">ליה לגופיה אמר ליה הנח לנזיד הדמע</row>
+		<row row_number="23" isdata="0">דליכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

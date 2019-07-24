@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:10.005811</dateCreated>
+   <lastModified>2016-08-04 11:57:10.005811</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="88">
+	<amud value="1">
+		<row row_number="1" isdata="1">אמר רבא הכא מעניניה דקרא והכא מעניניה</row>
+		<row row_number="2" isdata="1">דקרא ר' יהודה סבר גבי רוצח כתיב ואשר</row>
+		<row row_number="3" isdata="1">יבא את רעהו ביער כל דבר מיעל ליער</row>
+		<row row_number="4" isdata="1">וסומא נמי בר מיעל ליער הוא ואי אמרת</row>
+		<row row_number="5" isdata="1">בלא ראות לרבות את הסומא מיער נפקא</row>
+		<row row_number="6" isdata="1">ליה אלא שמע מינה בלא ראות פרט לסומא</row>
+		<row row_number="7" isdata="1">רבי מאיר סבר כתיב בבלי דעת כל דבר</row>
+		<row row_number="8" isdata="1">מידע וסומא לאו בר מידע הוא ואי אמרת</row>
+		<row row_number="9" isdata="1">בלא ראות פרט לסומא מבלי דעת נפקא</row>
+		<row row_number="10" isdata="1">ליה אלא שמע מינה בלא ראות לרבות את</row>
+		<row row_number="11" isdata="1">הסומא<EndGemara/><StartMishna/>: מתני' המדיר הנאה מחתנו</row>
+		<row row_number="12" isdata="1">והוא רוצה לתת לבתו מעות אומר לה הרי</row>
+		<row row_number="13" isdata="1">המעות האלו נתונין לך במתנה ובלבד שלא</row>
+		<row row_number="14" isdata="1">יהא לבעליך רשות בהן אלא מה שאת</row>
+		<row row_number="15" isdata="1">נושאת ונותנת בפיך: <EndMishna/><StartGemara/>גמ' אמר רב לא שנו</row>
+		<row row_number="16" isdata="1">אלא דאמר לה מה שאת נושאת ונותנת</row>
+		<row row_number="17" isdata="1">בפיך אבל אמר מה שתרצי עשי קנה יתהון</row>
+		<row row_number="18" isdata="1">בעל ושמואל אומר אפילו אמר מה שתרצי</row>
+		<row row_number="19" isdata="1">עשי לא קנה יתהון בעל מתקיף לה רבי זירא</row>
+		<row row_number="20" isdata="0">כמאן</row>
+</amud>
+</daf>
+</masechet>
+</root>

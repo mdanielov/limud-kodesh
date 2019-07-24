@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:32.132077</dateCreated>
+   <lastModified>2016-08-04 11:57:32.132077</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="35">
+	<amud value="1">
+		<row row_number="1" isdata="1">דרב אמר יחלוקו ושמואל אמר שודא דדייני</row>
+		<row row_number="2" isdata="1">התם ליכא למיקם עלה דמילתא הכא איכא</row>
+		<row row_number="3" isdata="1">למיקם עלה דמילתא ומאי שנא מהא דתנן</row>
+		<row row_number="4" isdata="1">המחליף פרה בחמור וילדה וכן המוכר</row>
+		<row row_number="5" isdata="1">שפחתו וילדה זה אומר עד שלא מכרתי ילדה</row>
+		<row row_number="6" isdata="1">וזה אומר משלקחתי ילדה יחלוקו [ג] התם להאי</row>
+		<row row_number="7" isdata="0">אית</row>
+</amud>
+</daf>
+</masechet>
+</root>

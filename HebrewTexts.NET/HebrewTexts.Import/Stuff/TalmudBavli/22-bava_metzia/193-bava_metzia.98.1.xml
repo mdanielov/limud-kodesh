@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:29.572930</dateCreated>
+   <lastModified>2016-08-04 11:57:29.572930</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="98">
+	<amud value="1">
+		<row row_number="1" isdata="1">דאמר רבא מנה לי בידך והלה אומר אין</row>
+		<row row_number="2" isdata="1">לך בידי אלא חמשים והשאר איני יודע</row>
+		<row row_number="3" isdata="1">מתוך שאינו יכול לישבע משלם משכחת לה</row>
+		<row row_number="4" isdata="1">רישא בב' וסיפא בג' רישא בב' דא"ל ב'</row>
+		<row row_number="5" isdata="1">פרות מסרתי לך פלגיה דיומא בשאילה ופלגיה</row>
+		<row row_number="6" isdata="1">דיומא בשכירות אי נמי חד יומא בשאילה וחד</row>
+		<row row_number="7" isdata="1">יומא בשכירות ומתו תרוייהו בעידן שאילה</row>
+		<row row_number="8" isdata="1">וא"ל שואל חדא אין בעידן שאילה מתה</row>
+		<row row_number="9" isdata="1">ואידך לא ידענא אי בעידן שאילה מתה ואי</row>
+		<row row_number="10" isdata="1">בעידן שכירות מתה דמתוך שאינו יכול</row>
+		<row row_number="11" isdata="1">לישבע משלם וסיפא בג' דא"ל ג' פרות</row>
+		<row row_number="12" isdata="1">נתתי לך ב' בשאילה ואחת בשכירות ומתו</row>
+		<row row_number="13" isdata="1">הני תרתי דשאילה ואמר ליה שואל אין</row>
+		<row row_number="14" isdata="1">חדא דשאילה מתה אידך לא ידענא אי</row>
+		<row row_number="15" isdata="1">דשאילה מתה ודקיימא דשכירות היא אי</row>
+		<row row_number="16" isdata="1">דשכירות מתה והא דקיימא דשאילה היא</row>
+		<row row_number="17" isdata="1">ומתוך שאינו יכול לישבע משלם ולרמי</row>
+		<row row_number="18" isdata="1">בר חמא דאמר ד' שומרים צריכין כפירה</row>
+		<row row_number="19" isdata="1">במקצת והודאה במקצת משכחת לה רישא</row>
+		<row row_number="20" isdata="1">בג' וסיפא בד' רישא בג' דאמר ליה ג'</row>
+		<row row_number="21" isdata="1">פרות נתתי לך פלגיה דיומא בשאלה</row>
+		<row row_number="22" isdata="1">ופלגיה דיומא בשכירות אי נמי חד יומא</row>
+		<row row_number="23" isdata="1">בשאלה וחד יומא בשכירות ומתו ג' כולהו</row>
+		<row row_number="24" isdata="1">בעידן שאילה וא"ל שואל חדא לא היו</row>
+		<row row_number="25" isdata="1">דברים מעולם וחדא אין בעידן שאילה</row>
+		<row row_number="26" isdata="1">מתה ואידך לא ידענא אי בעידן שאילה</row>
+		<row row_number="27" isdata="1">מתה ואי בעידן שכירות מתה דמתוך</row>
+		<row row_number="28" isdata="1">שאינו יכול לישבע משלם סיפא בד'</row>
+		<row row_number="29" isdata="1">דא"ל ד' פרות נתתי לך ג' בשאלה חדא</row>
+		<row row_number="30" isdata="1">בשכירות ומתו הנך ג' דשאלה וא"ל</row>
+		<row row_number="31" isdata="0">שואל</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[WordsInTanakh] (
+﻿CREATE TABLE [Import].[WordsInTanakh] (
     [ID]             INT            NOT NULL,
     [Word]           NVARCHAR (50)  NOT NULL,
     [WordWithNiqqud] NVARCHAR (MAX) NOT NULL,
@@ -10,10 +10,10 @@
 
 GO
 CREATE NONCLUSTERED INDEX [OldID]
-    ON [dbo].[WordsInTanakh]([ID] ASC);
+    ON [Import].[WordsInTanakh]([ID] ASC);
 
 
 GO
 CREATE NONCLUSTERED INDEX [idx_WordsInTanakh_Word]
-    ON [dbo].[WordsInTanakh]([Word] ASC);
+    ON [Import].[WordsInTanakh]([Word] ASC);
 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.340773</dateCreated>
+   <lastModified>2016-08-04 11:57:09.340773</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="69">
+	<amud value="1">
+		<row row_number="1" isdata="1">שמע אביה והפר לה ולא הספיק הבעל</row>
+		<row row_number="2" isdata="1">לשמוע עד שמת חוזר האב ומפר חלקו של</row>
+		<row row_number="3" isdata="1">בעל א"ר נתן הן הן דברי ב"ש ב"ה אומרים</row>
+		<row row_number="4" isdata="1">אין יכול להפר ש"מ לב"ש מיגז גייז לב"ה</row>
+		<row row_number="5" isdata="1">מקלש קליש ש"מ בעי רבא יש שאלה</row>
+		<row row_number="6" isdata="1">בהקם או אין שאלה בהקם א] את"ל יש שאלה</row>
+		<row row_number="7" isdata="1">בהקם יש שאלה בהפר או אין שאלה בהפר</row>
+		<row row_number="8" isdata="1">ת"ש דא"ר יוחנן נשאלין על ההקם ואין</row>
+		<row row_number="9" isdata="1">נשאלין על ההפר בעי רבה קיים ליכי קיים</row>
+		<row row_number="10" isdata="1">ליכי ונשאל על הקמה ראשונה מהו ת"ש</row>
+		<row row_number="11" isdata="1">דאמר רבא אם נשאל על הראשונה שניה</row>
+		<row row_number="12" isdata="1">חלה עליו בעי רבה קיים ליכי ומופר ליכי</row>
+		<row row_number="13" isdata="1">ולא תיחול הקמה אא"כ חלה הפרה מהו</row>
+		<row row_number="14" isdata="0">תא</row>
+</amud>
+</daf>
+</masechet>
+</root>

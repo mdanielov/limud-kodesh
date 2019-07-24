@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:59.178192</dateCreated>
+   <lastModified>2016-08-04 11:56:59.178192</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="51">
+	<amud value="1">
+		<row row_number="1" isdata="1">מ"ט דר"ג דמספקא ליה גט אי דחי אי לא</row>
+		<row row_number="2" isdata="1">דחי מאמר אי קני אי לא קני גט אי דחי אי</row>
+		<row row_number="3" isdata="1">לא דחי אי קמא דחי בתרא מאי קעביד אי</row>
+		<row row_number="4" isdata="1">קמא לא דחי בתרא נמי לא דחי מאמר אי</row>
+		<row row_number="5" isdata="1">קני אי לא קני אי קמא קני בתרא מאי קעביד</row>
+		<row row_number="6" isdata="1">ואי קמא לא קני בתרא נמי לא קני איתיביה</row>
+		<row row_number="7" isdata="1">אביי ומודה ר"ג שיש גט אחר מאמר</row>
+		<row row_number="8" isdata="1">ומאמר אחר הגט וגט אחר ביאה ומאמר</row>
+		<row row_number="9" isdata="1">ומאמר אחר ביאה וגט ואי מספקא ליה לר"ג</row>
+		<row row_number="10" isdata="1">תהוי כביאה דלכתחלה ותקני דהא תנן</row>
+		<row row_number="11" isdata="1">הבעילה בזמן שהיא בתחלה אין אחריה</row>
+		<row row_number="12" isdata="1">כלום אלא אמר אביי לעולם פשיטא ליה</row>
+		<row row_number="13" isdata="1">לר"ג בגט דדחי ומאמר דקני מיהו אמור</row>
+		<row row_number="14" isdata="1">רבנן הא יבמה בחד צד מהני בה גט ובחד</row>
+		<row row_number="15" isdata="1">צד מהני בה מאמר גט אחר גט לא דחי</row>
+		<row row_number="16" isdata="1">דהא דחה ליה קמא ומאמר אחר מאמר לא</row>
+		<row row_number="17" isdata="1">קני דהא קני ליה קמא גט אחר מאמר</row>
+		<row row_number="18" isdata="1">ומאמר אחר הגט האי מילתא קא דחי והאי</row>
+		<row row_number="19" isdata="1">מילתא קא קני ורבנן כל חד וחד תקינו</row>
+		<row row_number="20" isdata="1">ליה רבנן גט ומאמר ביבמה והאי ביאה</row>
+		<row row_number="21" isdata="1">פסולה עדיפא ממאמר וגריעא ממאמר</row>
+		<row row_number="22" isdata="1">עדיפא ממאמר דאילו מאמר אחר מאמר לא</row>
+		<row row_number="23" isdata="1">מהני ואילו ביאה אחר מאמר מהני וגריעא</row>
+		<row row_number="24" isdata="1">ממאמר דאילו מאמר אחר הגט קני לכוליה</row>
+		<row row_number="25" isdata="1">שיורא דגט ואילו ביאה אחר הגט לא קניא</row>
+		<row row_number="26" isdata="1">ליה לכוליה שיורא דגט ת"ר כיצד אר"ג אין</row>
+		<row row_number="27" isdata="1">גט אחר גט שתי יבמות שנפלו לפני יבם</row>
+		<row row_number="28" isdata="1">אחד ונתן גט לזו וגט לזו ר"ג אומר חולץ</row>
+		<row row_number="29" isdata="1">לראשונה ואסור בקרובותיה ומותר בקרובות</row>
+		<row row_number="30" isdata="1">שניה וחכמים אומרים נתן גט לזו וגט לזו</row>
+		<row row_number="31" isdata="1">אסור בקרובות שתיהן וחליצה לאחת מהן</row>
+		<row row_number="32" isdata="1">וכן אתה אומר בשני יבמים ויבמה אחת כיצד</row>
+		<row row_number="33" isdata="1">אמר ר"ג אין מאמר אחר מאמר שתי</row>
+		<row row_number="34" isdata="1">יבמות שנפלו לפני יבם אחד ועשה מאמר</row>
+		<row row_number="35" isdata="1">בזו ומאמר בזו רבן גמליאל אומר נותן גט לראשונה וחולץ לה ואסור</row>
+		<row row_number="36" isdata="1">בקרובותיה ומותר בקרובות שניה וחכמים אומרים נותן גט לשתיהן ואסור</row>
+		<row row_number="37" isdata="1">בקרובות שתיהן וחליצה לאחת מהן וכן אתה אומר בשני יבמים ויבמה</row>
+		<row row_number="38" isdata="1">אחת אמר מר נותן גט לזו וגט לזו ר"ג אומר חולץ לראשונה ואסור</row>
+		<row row_number="39" isdata="1">בקרובותיה ומותר בקרובות שניה לימא תיהוי תיובתא דשמואל דאמר</row>
+		<row row_number="40" isdata="1">שמואל חלץ לבעלת הגט לא נפטרה צרה אמר לך שמואל כי אמרי אנא</row>
+		<row row_number="41" isdata="1">אליבא דמאן דאמר יש זיקה ור"ג סבר אין זיקה ומדר"ג סבר אין זיקה</row>
+		<row row_number="42" isdata="0">רבנן</row>
+</amud>
+</daf>
+</masechet>
+</root>

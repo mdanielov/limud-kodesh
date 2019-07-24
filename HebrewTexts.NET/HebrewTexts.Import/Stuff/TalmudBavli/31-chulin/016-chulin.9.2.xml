@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:58.723597</dateCreated>
+   <lastModified>2016-08-04 11:57:58.723597</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="9">
+	<amud value="2">
+		<row row_number="1" isdata="1">וששין שמא במקום נקב נקב אמר ליה מי</row>
+		<row row_number="2" isdata="1">קא מדמית איסורא לסכנתא סכנה שאני א"ל</row>
+		<row row_number="3" isdata="1">רבא מאי שנא ספק סכנתא לחומרא ספק</row>
+		<row row_number="4" isdata="1">איסורא נמי לחומרא א"ל אביי ולא שאני</row>
+		<row row_number="5" isdata="1">בין איסורא לסכנתא והא אילו ספק טומאה</row>
+		<row row_number="6" isdata="1">ברה"ר ספיקו טהור ואילו ספק מים מגולין</row>
+		<row row_number="7" isdata="1">אסורין א"ל התם הלכתא גמירי לה</row>
+		<row row_number="8" isdata="1">מסוטה מה סוטה ברה"י אף טומאה ברה"י</row>
+		<row row_number="9" isdata="1">מתיב רב שימי שרץ בפי חולדה וחולדה</row>
+		<row row_number="10" isdata="1">מהלכת על גבי ככרות של תרומה ספק</row>
+		<row row_number="11" isdata="1">נגע ספק לא נגע ספיקו טהור ואילו ספק</row>
+		<row row_number="12" isdata="1">מים מגולין אסורין התם נמי הלכתא גמירי</row>
+		<row row_number="13" isdata="1">לה מסוטה מה סוטה דבר שיש בה דעת</row>
+		<row row_number="14" isdata="1">לישאל אף הכא נמי דבר שיש בו דעת</row>
+		<row row_number="15" isdata="1">לישאל אמר רב אשי ת"ש צלוחית</row>
+		<row row_number="16" isdata="1">שהניחה מגולה ובא ומצאה מכוסה טמאה</row>
+		<row row_number="17" isdata="1">שאני אומר אדם טמא נכנס לשם וכיסה</row>
+		<row row_number="18" isdata="1">הניחה מכוסה ובא ומצאה מגולה אם יכולה</row>
+		<row row_number="19" isdata="1">חולדה לשתות ממנה או נחש לדברי</row>
+		<row row_number="20" isdata="1">רבן גמליאל או שירד בה טל בלילה</row>
+		<row row_number="21" isdata="1">פסולה ואמר רבי יהושע בן לוי מה טעם</row>
+		<row row_number="22" isdata="0">מפני</row>
+</amud>
+</daf>
+</masechet>
+</root>

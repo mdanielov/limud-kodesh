@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.091759</dateCreated>
+   <lastModified>2016-08-04 11:57:09.091759</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="63">
+	<amud value="1">
+		<row row_number="1" isdata="1">מיתיבי איזוהי זמנה של רביעה הבכירה בג'</row>
+		<row row_number="2" isdata="1">בינונית בשבעה אפילה בעשרים ושלשה</row>
+		<row row_number="3" isdata="1">דברי רבי מאיר רבי יהודה אומר בשבעה</row>
+		<row row_number="4" isdata="1">ובשבעה עשר ובעשרים ושלשה רבי יוסי</row>
+		<row row_number="5" isdata="1">אומר בשבעה עשר ובעשרים ושלשה</row>
+		<row row_number="6" isdata="1">ובחודש כסליו וכן היה ר' יוסי אומר אין</row>
+		<row row_number="7" isdata="1">היחידים מתענין עד שיגיע ר"ח כסליו ואמרינן</row>
+		<row row_number="8" isdata="1">עלה בשלמא רביעה ראשונה לישאל</row>
+		<row row_number="9" isdata="1">שלישית להתענות אלא שניה למאי ואמר</row>
+		<row row_number="10" isdata="1">רבי זירא לנודר ואמרינן עלה כמאן אזלא</row>
+		<row row_number="11" isdata="1">הא דתניא רשב"ג אומר גשמים שירדו</row>
+		<row row_number="12" isdata="1">שבעה ימים זה אחר זה אתה מונה בהן</row>
+		<row row_number="13" isdata="1">רביעה ראשונה ושניה כמאן כרבי יוסי</row>
+		<row row_number="14" isdata="1">ההוא דאמר עד הגשמים<EndGemara/><StartMishna/>: מתני' קונם יין</row>
+		<row row_number="15" isdata="1">שאיני טועם לשנה נתעברה השנה אסור</row>
+		<row row_number="16" isdata="1">בה ובעיבורה עד ראש אדר עד ראש</row>
+		<row row_number="17" isdata="1">אדר הראשון עד סוף אדר עד סוף אדר</row>
+		<row row_number="18" isdata="1">הראשון: <EndMishna/><StartGemara/>גמ' אלמא סתמא דאדר דקאמר</row>
+		<row row_number="19" isdata="1">ראשון הוא לימא מתני' רבי יהודה היא</row>
+		<row row_number="20" isdata="1">דתניא אדר הראשון כותב אדר הראשון</row>
+		<row row_number="21" isdata="1">אדר שני כותב אדר סתם דברי ר"מ ר' יהודה</row>
+		<row row_number="22" isdata="1">אומר אדר הראשון כותב סתם אדר שני</row>
+		<row row_number="23" isdata="1">כותב תיניין אמר אביי אפילו תימא ר"מ</row>
+		<row row_number="24" isdata="1">הא דידע דמעברא שתא הא דלא ידע</row>
+		<row row_number="25" isdata="0">והתניא</row>
+</amud>
+</daf>
+</masechet>
+</root>

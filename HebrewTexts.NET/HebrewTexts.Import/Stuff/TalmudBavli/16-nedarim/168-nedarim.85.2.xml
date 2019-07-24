@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.920806</dateCreated>
+   <lastModified>2016-08-04 11:57:09.920806</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="85">
+	<amud value="2">
+		<row row_number="1" isdata="1">הרי זו עושה ואוכלת והמותר רבי מאיר</row>
+		<row row_number="2" isdata="1">אומר הקדש רבי יוחנן הסנדלר אומר חולין</row>
+		<row row_number="3" isdata="1">ואמר שמואל הלכה כר' יוחנן הסנדלר</row>
+		<row row_number="4" isdata="1">אלמא אין אדם מקדיש דבר שלא בא לעולם</row>
+		<row row_number="5" isdata="1">וכי תימא כי קאמר הלכה כר' יוחנן בן נורי</row>
+		<row row_number="6" isdata="1">על העדפה הוא דקאמר לימא הלכה כרבי</row>
+		<row row_number="7" isdata="1">יוחנן בן נורי בהעדפה אי נמי הלכה</row>
+		<row row_number="8" isdata="1">כת"ק א"נ (אין) הלכה כרבי עקיבא אלא אמר</row>
+		<row row_number="9" isdata="1">רב יוסף שאני קונמות הואיל ואדם אוסר</row>
+		<row row_number="10" isdata="1">פירות חבירו עליו אוסר נמי דבר שלא בא</row>
+		<row row_number="11" isdata="1">לעולם עליו אמר ליה אביי בשלמא אדם</row>
+		<row row_number="12" isdata="1">אוסר פירות חבירו עליו שהרי אדם אוסר</row>
+		<row row_number="13" isdata="1">פירותיו על חבירו אלא יאסור דבר שלא</row>
+		<row row_number="14" isdata="1">בא לעולם על חבירו שהרי אין אדם אוסר</row>
+		<row row_number="15" isdata="1">פירות חבירו על חבירו אלא אמר רב הונא</row>
+		<row row_number="16" isdata="1">בריה דרב יהושע באומרת יקדשו ידי</row>
+		<row row_number="17" isdata="1">לעושיהן דידים הא איתנהו בעולם וכי</row>
+		<row row_number="18" isdata="1">אמרה הכי קדשה והא משעבדן ידיה</row>
+		<row row_number="19" isdata="1">לבעל דאמרה לכי מגרשה השתא מיהת</row>
+		<row row_number="20" isdata="1">לא מגרשה וממאי דכי אמרה הכי מהניא</row>
+		<row row_number="21" isdata="0">אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

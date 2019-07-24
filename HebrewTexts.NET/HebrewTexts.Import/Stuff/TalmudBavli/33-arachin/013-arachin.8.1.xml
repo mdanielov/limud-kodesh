@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:07.037073</dateCreated>
+   <lastModified>2016-08-04 11:58:07.037073</lastModified>
+ </meta>
+ <masechet name="ערכין" serial="33">
+<daf value="8">
+	<amud value="1">
+		<row row_number="1" isdata="1">נתן ארבע לראשונה ואחת לשניה ידי שניה</row>
+		<row row_number="2" isdata="1">יצא ידי ראשונה לא יצא כולהו משעבדן</row>
+		<row row_number="3" isdata="1">לראשונה בעי רב אדא בר אהבה היו בידו</row>
+		<row row_number="4" isdata="1">חמש סלעים ואמר שני ערכי עלי א] בבת אחת</row>
+		<row row_number="5" isdata="1">מהו כיון דבבת אחת נדר כי הדדי תפסן יהיב</row>
+		<row row_number="6" isdata="1">תרתי ופלגא להאי ותרתי ופלגא להאי או</row>
+		<row row_number="7" isdata="1">דלמא כולהו ב] חזיא להאי וכולהו חזיא להאי</row>
+		<row row_number="8" isdata="1">תיקו: אין בערכין פחות מסלע ולא יתר כו':</row>
+		<row row_number="9" isdata="1">הא תו למה לי הא קמשמע לן פחות מסלע</row>
+		<row row_number="10" isdata="1">הוא דליכא הא יתר על סלע איכא יתר על</row>
+		<row row_number="11" isdata="1">חמשים הוא דליכא הא פחות מחמשים איכא</row>
+		<row row_number="12" isdata="1">וסתמא ג] כרבנן<EndGemara/><StartMishna/>: מתני' אין פתח בטועה</row>
+		<row row_number="13" isdata="1">פחות משבעה ולא יתר על י"ז: <EndMishna/><StartGemara/>גמ' ת"ר</row>
+		<row row_number="14" isdata="1">טועה שאמרה יום אחד טמא ראיתי פתחה</row>
+		<row row_number="15" isdata="1">שבעה עשר שני ימים טמא ראיתי פתחה</row>
+		<row row_number="16" isdata="1">שבעה עשר שלשה ימים טמא ראיתי פתחה</row>
+		<row row_number="17" isdata="1">שבעה עשר ארבעה ימים טמא ראיתי פתחה</row>
+		<row row_number="18" isdata="1">ששה עשר חמשה ימים טמא ראיתי פתחה</row>
+		<row row_number="19" isdata="1">חמשה עשר ששה ימים טמא ראיתי פתחה</row>
+		<row row_number="20" isdata="1">ארבעה עשר שבעה ימים טמא ראיתי פתחה</row>
+		<row row_number="21" isdata="1">שלשה עשר ד] שמונה ימים טמא ראיתי פתחה</row>
+		<row row_number="22" isdata="1">שנים עשר תשעה ימים טמא ראיתי פתחה</row>
+		<row row_number="23" isdata="1">אחד עשר עשרה ימים טמא ראיתי</row>
+		<row row_number="24" isdata="1">פתחה עשרה אחד עשר פתחה תשעה</row>
+		<row row_number="25" isdata="0">שנים</row>
+</amud>
+</daf>
+</masechet>
+</root>

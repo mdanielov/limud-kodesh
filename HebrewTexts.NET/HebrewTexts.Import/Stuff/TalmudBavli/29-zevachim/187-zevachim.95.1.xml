@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:52.824260</dateCreated>
+   <lastModified>2016-08-04 11:57:52.824260</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="95">
+	<amud value="1">
+		<row row_number="1" isdata="1">מדרבנן א] הוא: כלי חרס שיצא כו': ב] כלי</row>
+		<row row_number="2" isdata="1">אמר רחמנא ולא כלי הוא שניקב בשורש</row>
+		<row row_number="3" isdata="1">קטן: כלי נחשת ג] [כו'] פוחתו [וכו']: והא</row>
+		<row row_number="4" isdata="1">לאו כלי הוא דרציף ד] מרציף (הוא) אמר</row>
+		<row row_number="5" isdata="1">ריש לקיש מעיל שניטמא מכניסו בפחות</row>
+		<row row_number="6" isdata="1">משלש על שלש ומכבסו משום שנא' לא</row>
+		<row row_number="7" isdata="1">יקרע מותיב רב אדא בר אהבה ה] העבין</row>
+		<row row_number="8" isdata="1">והרכים אין בהן משום שלש על שלש אגב</row>
+		<row row_number="9" isdata="1">ו] אביהן חשיבי והא בעי שבעת סממנין</row>
+		<row row_number="10" isdata="1">דא"ר נחמן אמר רבה בר אבוה דם חטאת</row>
+		<row row_number="11" isdata="1">ומראות נגעים צריכין שבעת סממנין ותניא</row>
+		<row row_number="12" isdata="1">אלא שאין מכניסין מי רגלים למקדש</row>
+		<row row_number="13" isdata="0">וכי</row>
+</amud>
+</daf>
+</masechet>
+</root>

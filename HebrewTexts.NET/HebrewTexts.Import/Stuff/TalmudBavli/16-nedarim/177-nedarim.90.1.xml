@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:10.075815</dateCreated>
+   <lastModified>2016-08-04 11:57:10.075815</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="90">
+	<amud value="1">
+		<row row_number="1" isdata="1">ושרקיה טינא ואתייה לקמיה דרב חסדא</row>
+		<row row_number="2" isdata="1">אמר רבא מאן חכים למיעבד כי הא מילתא</row>
+		<row row_number="3" isdata="1">אי לאו דרב אחא בר רב הונא דגברא רבה</row>
+		<row row_number="4" isdata="1">הוא דקסבר דכי היכי דפליגי רבנן ור' נתן</row>
+		<row row_number="5" isdata="1">בהפרה הכי נמי פליגי בשאלה ורב פפי</row>
+		<row row_number="6" isdata="1">אמר מחלוקת בהפרה דר' נתן סבר אין הבעל</row>
+		<row row_number="7" isdata="1">מיפר אא"כ חל נדר דכתיב וחפרה הלבנה</row>
+		<row row_number="8" isdata="1">ורבנן סברי בעל מיפר אע"פ שלא חל נדר</row>
+		<row row_number="9" isdata="1">דכתיב מפר מחשבות ערומים אבל בשאלה</row>
+		<row row_number="10" isdata="1">דברי הכל אין חכם מתיר כלום אא"כ חל</row>
+		<row row_number="11" isdata="1">נדר דכתיב לא יחל דברו לימא מסייע ליה</row>
+		<row row_number="12" isdata="1">קונם שאיני נהנה לפלוני ולמי שאשאל עליו</row>
+		<row row_number="13" isdata="1">נשאל על הראשון ואח"כ נשאל על השני</row>
+		<row row_number="14" isdata="1">ואי אמרת נשאל אע"פ שלא חל נדר אי בעי</row>
+		<row row_number="15" isdata="1">על האי ניתשיל ברישא אי בעי על האי</row>
+		<row row_number="16" isdata="1">ניתשיל ברישא ומי ידע אי האי קמא אי</row>
+		<row row_number="17" isdata="1">האי בתרא אלא לימא מסייע ליה קונם שאיני</row>
+		<row row_number="18" isdata="1">נהנה לפלוני הריני נזיר לכשאשאל עליו</row>
+		<row row_number="19" isdata="1">נשאל על נדרו ואח"כ נשאל על נזרו ואי</row>
+		<row row_number="20" isdata="1">אמרת נשאל אע"פ שלא חל נדר אי בעי על</row>
+		<row row_number="21" isdata="1">נדרו איתשיל ברישא אי בעי על נזרו איתשיל</row>
+		<row row_number="22" isdata="1">ברישא ר' נתן היא אמר רבינא אמר לי</row>
+		<row row_number="23" isdata="1">מרימר הכי אמר אבוך משמיה דרב פפי</row>
+		<row row_number="24" isdata="1">מחלוקת בהפרה אבל בשאלה דברי הכל מפר</row>
+		<row row_number="25" isdata="1">ואע"פ שלא חל נדר דכתיב לא יחל דברו</row>
+		<row row_number="26" isdata="0">למימרא</row>
+</amud>
+</daf>
+</masechet>
+</root>

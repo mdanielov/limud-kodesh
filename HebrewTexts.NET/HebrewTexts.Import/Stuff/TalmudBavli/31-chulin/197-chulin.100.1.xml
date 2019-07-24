@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:02.824832</dateCreated>
+   <lastModified>2016-08-04 11:58:02.824832</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="100">
+	<amud value="1">
+		<row row_number="1" isdata="1">בריה שאני: וכן חתיכה של נבלה [וכו']:</row>
+		<row row_number="2" isdata="1">ותבטיל ברובא הניחא למאן דאמר כל</row>
+		<row row_number="3" isdata="1">שדרכו לימנות שנינו אלא למ"ד את שדרכו</row>
+		<row row_number="4" isdata="1">לימנות שנינו מאי איכא למימר שאני חתיכה</row>
+		<row row_number="5" isdata="1">הואיל וראויה להתכבד בה לפני האורחים</row>
+		<row row_number="6" isdata="1">וצריכא דאי אשמעינן גיד משום דבריה היא</row>
+		<row row_number="7" isdata="1">אבל חתיכה אימא לא ואי אשמעינן חתיכה</row>
+		<row row_number="8" isdata="1">הואיל וראויה להתכבד בה לפני האורחים</row>
+		<row row_number="9" isdata="1">אבל גיד אימא לא צריכא דרש רבה בר בר</row>
+		<row row_number="10" isdata="1">חנה חתיכה של נבלה ושל דג טמא אינה</row>
+		<row row_number="11" isdata="1">אוסרת עד שתתן טעם ברוטב ובקיפה</row>
+		<row row_number="12" isdata="1">ובחתיכות אוקי רב אמורא עליה ודרש כיון</row>
+		<row row_number="13" isdata="1">שנתן טעם בחתיכה חתיכה עצמה נעשת נבלה</row>
+		<row row_number="14" isdata="1">ואוסרת כל החתיכות כולן מפני שהן מינה</row>
+		<row row_number="15" isdata="1">אמר ליה רב ספרא לאביי מכדי רב כמאן</row>
+		<row row_number="16" isdata="1">אמרה לשמעתיה כרבי יהודה דאמר מין</row>
+		<row row_number="17" isdata="1">במינו לא בטיל מאי איריא כי נתן טעם</row>
+		<row row_number="18" isdata="1">אפילו כי לא נתן טעם נמי אמר ליה הכא</row>
+		<row row_number="19" isdata="1">במאי עסקינן בשקדם וסלקו רבא אמר</row>
+		<row row_number="20" isdata="0">אפילו</row>
+</amud>
+</daf>
+</masechet>
+</root>

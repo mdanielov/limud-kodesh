@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:33.172136</dateCreated>
+   <lastModified>2016-08-04 11:57:33.172136</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="57">
+	<amud value="1">
+		<row row_number="1" isdata="1">ההוא שטרא דהוה חתימי עליה בי תרי</row>
+		<row row_number="2" isdata="1">שכיב חד מינייהו אתא אחוה דהאי דקאי</row>
+		<row row_number="3" isdata="1">וחד אחרינא לאסהודי אחתימת ידיה דאידך</row>
+		<row row_number="4" isdata="1">סבר רבינא למימר היינו מתני' ג' אחין ואחד</row>
+		<row row_number="5" isdata="1">מצטרף עמהן אמר ליה רב אשי מי דמי התם</row>
+		<row row_number="6" isdata="1">לא נפיק נכי ריבעא דממונא אפומא דאחי</row>
+		<row row_number="7" isdata="1">הכא נפיק נכי ריבעא דממונא אפומא דאחי:</row>
+		<row row_number="8" isdata="1">מתני' אלו דברים שיש להן חזקה ואלו</row>
+		<row row_number="9" isdata="1">דברים שאין להן חזקה היה מעמיד בהמה</row>
+		<row row_number="10" isdata="1">בחצר תנור ריחים וכיריים ומגדל תרנגולים</row>
+		<row row_number="11" isdata="1">ונותן זבלו בחצר אינה חזקה אבל עשה</row>
+		<row row_number="12" isdata="1">מחיצה לבהמתו גבוה עשרה טפחים וכן לתנור וכן לכיריים וכן לריחים הכניס</row>
+		<row row_number="13" isdata="1">תרנגולין לתוך הבית ועשה מקום לזבלו עמוק שלשה או גבוה שלשה הרי</row>
+		<row row_number="14" isdata="1">זו חזקה: <EndMishna/><StartGemara/>גמ' מאי שנא רישא ומאי שנא סיפא אמר עולא כל שאילו</row>
+		<row row_number="15" isdata="1">בנכסי הגר קנה בנכסי חבירו קנה כל שאילו בנכסי הגר לא קנה</row>
+		<row row_number="16" isdata="1">בנכסי חבירו לא קנה מתקיף לה רב ששת וכללא הוא והרי ניר</row>
+		<row row_number="17" isdata="1">דבנכסי הגר קנה בנכסי חבירו לא קנה והרי אכילת פירות דבנכסי</row>
+		<row row_number="18" isdata="1">חבירו קנה בנכסי הגר לא קנה אלא אמר רב נחמן אמר רבה בר אבוה</row>
+		<row row_number="19" isdata="0">הכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

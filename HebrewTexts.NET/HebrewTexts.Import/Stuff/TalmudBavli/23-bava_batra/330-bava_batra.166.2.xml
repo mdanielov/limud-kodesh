@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:38.337431</dateCreated>
+   <lastModified>2016-08-04 11:57:38.337431</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="166">
+	<amud value="2">
+		<row row_number="1" isdata="1">ועמדו קינין בו ביום ברבעתים: כתוב</row>
+		<row row_number="2" isdata="1">מלמעלה וכו': תנו רבנן ילמד התחתון</row>
+		<row row_number="3" isdata="1">מן העליון באות אחת אבל לא בשתי</row>
+		<row row_number="4" isdata="1">אותיות כגון חנן מחנני וענן מענני מאי שנא</row>
+		<row row_number="5" isdata="1">שתי אותיות דלא דלמא מיתרמי שם בן</row>
+		<row row_number="6" isdata="1">ארבע אותיות והוה ליה פלגיה דשמא אי</row>
+		<row row_number="7" isdata="1">הכי אות אחת נמי דלמא מיתרמי שם בן</row>
+		<row row_number="8" isdata="1">שתי אותיות והוה ליה פלגיה דשמא אלא</row>
+		<row row_number="9" isdata="1">שתי אותיות היינו טעמא דלמא מיתרמי</row>
+		<row row_number="10" isdata="1">שם בן שלש אותיות והוה ליה רובא דשמא</row>
+		<row row_number="11" isdata="1">אמר רב פפא פשיטא לי ספל מלמעלה</row>
+		<row row_number="12" isdata="1">וקפל מלמטה הכל הולך אחר התחתון בעי</row>
+		<row row_number="13" isdata="1">רב פפא קפל מלמעלה וספל מלמטה מאי</row>
+		<row row_number="14" isdata="1">מי חיישינן לזבוב או לא תיקו ההוא דהוה</row>
+		<row row_number="15" isdata="1">כתב ביה שית מאה וזוזא שלחה רב שרביא</row>
+		<row row_number="16" isdata="1">קמיה דאביי שית מאה איסתירי וזוזא או</row>
+		<row row_number="17" isdata="1">דלמא שית מאה פריטי וזוזא אמר ליה דל</row>
+		<row row_number="18" isdata="1">פריטי דלא כתבי בשטרא דאסוכי מסכן להו</row>
+		<row row_number="19" isdata="0">ומשוי</row>
+</amud>
+</daf>
+</masechet>
+</root>

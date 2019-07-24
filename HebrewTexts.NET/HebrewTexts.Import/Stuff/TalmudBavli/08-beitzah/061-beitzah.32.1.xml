@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:51.780769</dateCreated>
+   <lastModified>2016-08-04 11:56:51.780769</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="32">
+	<amud value="1">
+		<row row_number="1" isdata="1">הוא דאמר כי האי תנא דתניא חותמות</row>
+		<row row_number="2" isdata="1">שבקרקע מתיר אבל לא מפקיע ולא חותך</row>
+		<row row_number="3" isdata="1">אחד שבת ואחד יו"ט ושבכלי בשבת מתיר</row>
+		<row row_number="4" isdata="1">אבל לא מפקיע ולא חותך ביום טוב מתיר</row>
+		<row row_number="5" isdata="1">ומפקיע וחותך תרצת לך רישא אלא סיפא</row>
+		<row row_number="6" isdata="1">קשיא הא מני ר' נחמיה היא דאמר כל</row>
+		<row row_number="7" isdata="1">הכלים אין ניטלין אלא דרך תשמישן אי רבי</row>
+		<row row_number="8" isdata="1">נחמיה מאי איריא שבת אפילו יום טוב נמי</row>
+		<row row_number="9" isdata="1">וכי תימא שניא ליה לר' נחמיה בין שבות</row>
+		<row row_number="10" isdata="1">שבת לשבות יום טוב ומי שניא ליה והתני</row>
+		<row row_number="11" isdata="1">חדא מסיקין בכלים ואין מסיקין בשברי</row>
+		<row row_number="12" isdata="1">כלים ותניא אידך מסיקין בין בכלים בין</row>
+		<row row_number="13" isdata="1">בשברי כלים ותניא אידך אין מסיקין לא</row>
+		<row row_number="14" isdata="1">בכלים ולא בשברי כלים ומשני לא קשיא</row>
+		<row row_number="15" isdata="1">הא ר' יהודה הא ר"ש הא ר' נחמיה תרי תנאי</row>
+		<row row_number="16" isdata="1">ואליבא דר' נחמיה<EndGemara/><StartMishna/>: מתני' אין פוחתין</row>
+		<row row_number="17" isdata="1">את הנר מפני שהוא עושה כלי ואין עושין</row>
+		<row row_number="18" isdata="1">פחמין ביום טוב ואין חותכין את הפתילה</row>
+		<row row_number="19" isdata="1">ר' יהודה אומר חותכה באור: <EndMishna/><StartGemara/>גמ' מאן</row>
+		<row row_number="20" isdata="1">תנא דפחיתת נר מנא הוא אמר רב יוסף ר'</row>
+		<row row_number="21" isdata="1">מאיר היא דתניא כלי חרס מאימתי מקבל</row>
+		<row row_number="22" isdata="1">טומאה משנגמרה מלאכתו דברי ר' מאיר</row>
+		<row row_number="23" isdata="1">ר' יהושע אומר משיצרפו בכבשן א"ל אביי</row>
+		<row row_number="24" isdata="1">ממאי דלמא עד כאן לא קאמר ר' מאיר התם</row>
+		<row row_number="25" isdata="1">אלא דחזי לקבולי ביה מידי אבל הכא למאי</row>
+		<row row_number="26" isdata="1">חזי לקבולי ביה פשיטי איכא דאמרי אמר</row>
+		<row row_number="27" isdata="1">רב יוסף ר' אליעזר בר' צדוק היא דתנן</row>
+		<row row_number="28" isdata="1">אלפסין חרניות טהורות באהל המת וטמאות</row>
+		<row row_number="29" isdata="1">במשא הזב ר' אליעזר בר' צדוק אומר אף</row>
+		<row row_number="30" isdata="1">טהורות במשא הזב לפי שלא נגמרה</row>
+		<row row_number="31" isdata="1">מלאכתן א"ל אביי דלמא עד כאן לא קאמר</row>
+		<row row_number="32" isdata="1">רבי אליעזר ברבי צדוק התם אלא דחזי</row>
+		<row row_number="33" isdata="1">לקבולי ביה מידי אבל הכא למאי חזי</row>
+		<row row_number="34" isdata="1">לקבולי ביה פשיטי תנו רבנן אין פוחתין</row>
+		<row row_number="35" isdata="1">את הנר ואין עושין אלפסין חרניות ביום</row>
+		<row row_number="36" isdata="1">טוב רבן שמעון בן גמליאל מתיר באלפסין</row>
+		<row row_number="37" isdata="1">חרניות מאי חרניות אמר רב יהודה ערניות</row>
+		<row row_number="38" isdata="1">מאי ערניות אמר אביי צעי חקלייתא ואין</row>
+		<row row_number="39" isdata="1">עושין פחמין פשיטא למאי חזי תני רבי</row>
+		<row row_number="40" isdata="1">חייא לא נצרכה אלא למוסרן לאוליירין לבו</row>
+		<row row_number="41" isdata="1">ביום ובו ביום מי שרי כדאמר רבא להזיע</row>
+		<row row_number="42" isdata="1">וקודם גזרה הכא נמי להזיע וקודם גזרה: ואין</row>
+		<row row_number="43" isdata="1">חותכין את הפתילה לשנים מ"ש בסכין דלא</row>
+		<row row_number="44" isdata="0">דקמתקן</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:47.734969</dateCreated>
+   <lastModified>2016-08-04 11:57:47.734969</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="56">
+	<amud value="1">
+		<row row_number="1" isdata="1">ואין בוצרין עם ישראל שעושה פירותיו</row>
+		<row row_number="2" isdata="1">בטומאה וכ"ש שאין דורכין אבל בוצרין עם</row>
+		<row row_number="3" isdata="1">העובד כוכבים בגת שמותר לגרום טומאה</row>
+		<row row_number="4" isdata="1">לחולין שבא"י: ואינו עושה יין נסך עד שירד</row>
+		<row row_number="5" isdata="1">לבור: והתניא יין משיקפה אמר רבא לא</row>
+		<row row_number="6" isdata="1">קשיא הא ר"ע הא רבנן דתנן יין משירד</row>
+		<row row_number="7" isdata="1">לבור ר"ע אומר משיקפה איבעיא להו קיפוי</row>
+		<row row_number="8" isdata="1">דבור או קיפוי דחבית ת"ש דתניא יין</row>
+		<row row_number="9" isdata="1">משיקפה אע"פ שקפה קולט מן הגת</row>
+		<row row_number="10" isdata="1">העליונה ומן הצינור ושותה ש"מ קיפוי דבור</row>
+		<row row_number="11" isdata="1">קאמרינן ש"מ והתני רב זביד בדבי רבי</row>
+		<row row_number="12" isdata="1">אושעיא יין משירד לבור ויקפה ר"ע אומר</row>
+		<row row_number="13" isdata="1">משישלה בחביות תרצה נמי להך קמייתא</row>
+		<row row_number="14" isdata="1">הכי יין משירד לבור ויקפה ר"ע אומר משישלה</row>
+		<row row_number="15" isdata="1">בחביות ואלא מתניתין דקתני אינו עושה יין</row>
+		<row row_number="16" isdata="1">נסך עד שירד לבור לימא תלתא תנאי היא</row>
+		<row row_number="17" isdata="1">לא שאני יין נסך דאחמירו ביה רבנן</row>
+		<row row_number="18" isdata="0">ולרבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

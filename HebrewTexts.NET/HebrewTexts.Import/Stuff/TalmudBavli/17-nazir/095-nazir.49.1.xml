@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:11.818915</dateCreated>
+   <lastModified>2016-08-04 11:57:11.818915</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="49">
+	<amud value="1">
+		<row row_number="1" isdata="1">ולר"ע מכדי לא שנא כהן גדול לחודיה ולא</row>
+		<row row_number="2" isdata="1">שנא כ"ג והוא נזיר נפקא מלאחיו לאביו ולאמו</row>
+		<row row_number="3" isdata="1">למה לי צריכי דאי כתב אביו הוה אמינא</row>
+		<row row_number="4" isdata="1">היינו טעמא דלא מיטמא ליה משום דחזקה</row>
+		<row row_number="5" isdata="1">בעלמא הוא אבל אמו דידעין דילידתיה</row>
+		<row row_number="6" isdata="1">ליטמא לה ואי כתב רחמנא אמו הוה אמינא</row>
+		<row row_number="7" isdata="1">אמו לא ליטמא לה דלאו אזיל זרעה בתרה</row>
+		<row row_number="8" isdata="1">אבל אביו כיון דאמר מר למשפחותם לבית</row>
+		<row row_number="9" isdata="1">אבותם אימא ליטמא ליה קא משמע לן</row>
+		<row row_number="10" isdata="1">ועל כל נפשות מת לא יבא למה לי</row>
+		<row row_number="11" isdata="0">על</row>
+</amud>
+</daf>
+</masechet>
+</root>

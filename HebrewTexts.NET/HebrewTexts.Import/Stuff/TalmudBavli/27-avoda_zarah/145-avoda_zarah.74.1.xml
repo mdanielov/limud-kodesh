@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:48.385006</dateCreated>
+   <lastModified>2016-08-04 11:57:48.385006</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="74">
+	<amud value="1">
+		<row row_number="1" isdata="1">מתני' אלו אסורין ואוסרין בכל שהו יין</row>
+		<row row_number="2" isdata="1">נסך ועבודת כוכבים ועורות לבובין ושור</row>
+		<row row_number="3" isdata="1">הנסקל ועגלה ערופה וציפורי מצורע ושער</row>
+		<row row_number="4" isdata="1">נזיר ופטר חמור ובשר בחלב ושעיר</row>
+		<row row_number="5" isdata="1">המשתלח וחולין שנשחטו בעזרה הרי אלו</row>
+		<row row_number="6" isdata="1">אסורין ואוסרין בכל שהוא: <EndMishna/><StartGemara/>גמ' תנא מאי</row>
+		<row row_number="7" isdata="1">קחשיב אי דבר שבמנין קחשיב ליתני נמי</row>
+		<row row_number="8" isdata="1">חתיכות נבילה אי איסורי הנאה קא חשיב</row>
+		<row row_number="9" isdata="1">ליתני נמי חמץ בפסח א"ר חייא בר אבא</row>
+		<row row_number="10" isdata="1">ואיתימא ר' יצחק נפחא האי תנא תרתי אית</row>
+		<row row_number="11" isdata="1">ליה דבר שבמנין ואיסורי הנאה וליתני אגוזי</row>
+		<row row_number="12" isdata="1">פרך ורימוני בדן דדבר שבמנין ואיסורי</row>
+		<row row_number="13" isdata="1">הנאה הוא הא תנא ליה התם הראוי</row>
+		<row row_number="14" isdata="1">לערלה ערלה הראוי לכלאי הכרם כלאי</row>
+		<row row_number="15" isdata="1">הכרם וליתני ככרות של בעה"ב לענין חמץ</row>
+		<row row_number="16" isdata="1">בפסח מאן שמעת דא"ל ר"ע הא תנא ליה</row>
+		<row row_number="17" isdata="1">התם ר"ע מוסיף אף ככרות של בעה"ב: הרי</row>
+		<row row_number="18" isdata="1">אלו: למעוטי מאי למעוטי דבר שבמנין ולאו</row>
+		<row row_number="19" isdata="1">איסורי הנאה א"נ למעוטי איסורי הנאה ולא</row>
+		<row row_number="20" isdata="1">דבר שבמנין<EndGemara/><StartMishna/>: מתני' יין נסך שנפל לבור</row>
+		<row row_number="21" isdata="1">כולו אסור בהנאה רשב"ג אומר ימכר כולו</row>
+		<row row_number="22" isdata="1">לעובד כוכבים חוץ מדמי יי"נ שבו: <EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="23" isdata="1">רב הלכה כרשב"ג חבית בחביות אבל לא</row>
+		<row row_number="24" isdata="1">יין ביין ושמואל אמר אפי' יין ביין וכן אמר</row>
+		<row row_number="25" isdata="1">רבב"ח א"ר יוחנן אפי' יין ביין וכן א"ר שמואל</row>
+		<row row_number="26" isdata="1">בר נתן א"ר חנינא אפי' יין ביין וכן א"ר נחמן</row>
+		<row row_number="27" isdata="1">אמר רבה בר אבוה אפי' יין ביין א"ר נחמן</row>
+		<row row_number="28" isdata="1">הלכה למעשה יי"נ יין ביין אסור חבית</row>
+		<row row_number="29" isdata="1">בחבית מותר סתם יין אפי' יין ביין מותר:</row>
+		<row row_number="30" isdata="0">מתני'</row>
+</amud>
+</daf>
+</masechet>
+</root>

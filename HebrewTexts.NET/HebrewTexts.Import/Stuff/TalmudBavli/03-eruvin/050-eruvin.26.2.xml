@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:36.283882</dateCreated>
+   <lastModified>2016-08-04 11:56:36.283882</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1">הא ר"א והא רבנן כשתימצי לומר לדברי</row>
+		<row row_number="2" isdata="1">ר' אליעזר המבטל רשות חצירו רשות ביתו</row>
+		<row row_number="3" isdata="1">ביטל לרבנן המבטל רשות חצירו רשות</row>
+		<row row_number="4" isdata="1">ביתו לא ביטל פשיטא אמר רחבה אנא</row>
+		<row row_number="5" isdata="1">ורב הונא בר חיננא תרגימנא לא נצרכא</row>
+		<row row_number="6" isdata="1">אלא לחמשה ששרוין בחצר אחד ושכח אחד</row>
+		<row row_number="7" isdata="1">מהן ולא עירב לדברי ר"א כשהוא מבטל</row>
+		<row row_number="8" isdata="1">רשותו אין צריך לבטל לכל אחד וא' לרבנן</row>
+		<row row_number="9" isdata="1">כשהוא מבטל רשותו צריך לבטל לכל</row>
+		<row row_number="10" isdata="1">אחד ואחד כמאן אזלא הא דתניא חמשה</row>
+		<row row_number="11" isdata="1">ששרוין בחצר אחד ושכח אחד מהן ולא</row>
+		<row row_number="12" isdata="1">עירב כשהוא מבטל רשותו אין צריך לבטל</row>
+		<row row_number="13" isdata="1">רשות לכל אחד ואחד כמאן כר"א רב כהנא</row>
+		<row row_number="14" isdata="1">מתני הכי רב טביומי מתני הכי כמאן אזלא</row>
+		<row row_number="15" isdata="1">הא דתניא ה' ששרוים בחצר אחד ושכח</row>
+		<row row_number="16" isdata="1">אחד מהן ולא עירב כשהוא מבטל רשותו</row>
+		<row row_number="17" isdata="1">אינו צריך לבטל רשות לכל אחד ואחד כמאן</row>
+		<row row_number="18" isdata="1">אמר רב הונא בר יהודה אמר רב ששת כמאן</row>
+		<row row_number="19" isdata="1">כר"א א"ל רב פפא לאביי לר"א אי אמר לא</row>
+		<row row_number="20" isdata="1">מבטילנא ולרבנן אי אמר מבטילנא מאי</row>
+		<row row_number="21" isdata="1">טעמא דר"א משום דקסבר המבטל רשות</row>
+		<row row_number="22" isdata="1">חצירו רשות ביתו ביטל והאי אמר אנא לא</row>
+		<row row_number="23" isdata="1">מבטילנא או דילמא טעמא דר"א משום</row>
+		<row row_number="24" isdata="1">דבית בלא חצר לא עבידי אינשי דדיירי</row>
+		<row row_number="25" isdata="1">וכי קאמר לא מבטילנא לאו כל כמיניה אע"ג</row>
+		<row row_number="26" isdata="1">דאמר דיירנא לאו כלום קאמר ולרבנן אי אמר</row>
+		<row row_number="27" isdata="1">מבטילנא מאי טעמא דרבנן משום דקסברי</row>
+		<row row_number="28" isdata="1">המבטל רשות חצירו רשות ביתו לא ביטל</row>
+		<row row_number="29" isdata="1">והאי אמר מבטילנא או דלמא טעמא דרבנן</row>
+		<row row_number="30" isdata="1">משום דלא עביד איניש דמסלק נפשיה</row>
+		<row row_number="31" isdata="1">לגמרי מבית וחצר והוי כי אורח לגבייהו</row>
+		<row row_number="32" isdata="1">והאי כי אמר מבטילנא לאו כל כמיניה</row>
+		<row row_number="33" isdata="1">(קאמר) א"ל בין לרבנן בין לר"א כיון דגלי</row>
+		<row row_number="34" isdata="1">דעתיה גלי: וכן שמעתי ממנו שיוצאים</row>
+		<row row_number="35" isdata="1">בערקבלין בפסח: מאי ערקבלין אמר ריש</row>
+		<row row_number="36" isdata="1">לקיש אצוותא חרוזיאתא:<EndChapter name = "במה מדליקין"/><EndGemara/></row>
+		<row row_number="37" isdata="0">הדרן עלך עושין פסין</row>
+		<row row_number="38" isdata="1"><StartChapter name = "כירה"/><StartMishna/>בכל  מערבין ומשתתפין חוץ מן המים</row>
+		<row row_number="39" isdata="1">ומן המלח והכל ניקח בכסף מעשר</row>
+		<row row_number="40" isdata="1">חוץ מן המים ומן המלח הנודר מן המזון</row>
+		<row row_number="41" isdata="1">מותר (במלח ובמים) מערבין לנזיר ביין</row>
+		<row row_number="42" isdata="1">ולישראל בתרומה סומכוס אומר בחולין ולכהן</row>
+		<row row_number="43" isdata="1">בבית הפרס ר' יהודה אומר אפי' בין הקברות</row>
+		<row row_number="44" isdata="0">מפני</row>
+</amud>
+</daf>
+</masechet>
+</root>

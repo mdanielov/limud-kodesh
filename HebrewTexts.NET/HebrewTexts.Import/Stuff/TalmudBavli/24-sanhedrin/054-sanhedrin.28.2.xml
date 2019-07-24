@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:39.951524</dateCreated>
+   <lastModified>2016-08-04 11:57:39.952524</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="28">
+	<amud value="2">
+		<row row_number="1" isdata="1">גוילי בעו מיניה מהו שיעיד אדם באשת</row>
+		<row row_number="2" isdata="1">חורגו בסורא אמרי בעל כאשתו בפומבדיתא</row>
+		<row row_number="3" isdata="1">אמרי אשה כבעלה דאמר רב הונא אמר רב</row>
+		<row row_number="4" isdata="1">(נחמן) מניין שהאשה כבעלה דכתיב</row>
+		<row row_number="5" isdata="1">ערות אחי אביך לא תגלה אל אשתו לא</row>
+		<row row_number="6" isdata="1">תקרב דודתך היא והלא אשת דודו היא</row>
+		<row row_number="7" isdata="1">מכלל דאשה כבעלה: ובעל אמו הוא ובנו</row>
+		<row row_number="8" isdata="1">וחתנו: בנו היינו אחיו אמר רבי ירמיה לא</row>
+		<row row_number="9" isdata="1">נצרכא אלא לאחי האח רב חסדא אכשר</row>
+		<row row_number="10" isdata="1">באחי האח אמרו ליה לא שמיע לך הא דר'</row>
+		<row row_number="11" isdata="1">ירמיה אמר להו לא שמיע לי כלומר לא</row>
+		<row row_number="12" isdata="1">סבירא לי אי הכי היינו אחיו תנא אחיו מן</row>
+		<row row_number="13" isdata="1">האב וקתני אחיו מן האם אמר רב חסדא אבי</row>
+		<row row_number="14" isdata="1">חתן ואבי כלה מעידין זה ע"ז ולא דמו להדדי</row>
+		<row row_number="15" isdata="1">אלא כי אכלא לדנא אמר רבה בר בר חנה</row>
+		<row row_number="16" isdata="1">מעיד אדם לאשתו ארוסה אמר רבינא לא</row>
+		<row row_number="17" isdata="1">אמרן אלא לאפוקי מינה אבל לעיולי לה לא מהימן ולא היא לא שנא לאפוקי</row>
+		<row row_number="18" isdata="1">ולא שנא לעיולי לא מהימן מאי דעתיך כדאמר ר' חייא בר אמי משמיה דעולא</row>
+		<row row_number="19" isdata="1">אשתו ארוסה לא אונן ולא מטמא לה וכן היא לא אוננת ולא מטמאה לו</row>
+		<row row_number="20" isdata="1">מתה אינו יורשה מת הוא גובה כתובתה התם בשארו תלה רחמנא</row>
+		<row row_number="21" isdata="1">אכתי לאו שארו היא הכא משום איקרובי דעתא הוא והא איקרבא</row>
+		<row row_number="22" isdata="1">דעתיה לגבה: חורגו לבדו: ת"ר חורגו לבדו רבי יוסי אומר גיסו ותניא</row>
+		<row row_number="23" isdata="1">אידך גיסו לבדו ר' יהודה אומר חורגו מאי קאמר אילימא הכי קאמר חורגו</row>
+		<row row_number="24" isdata="1">לבדו והוא הדין לגיסו ואתא ר' יוסי למימר גיסו לבדו והוא הדין לחורגו</row>
+		<row row_number="25" isdata="1">אלא מתני' דקתני גיסו הוא ובנו וחתנו מני לא ר' יהודה ולא ר' יוסי ואלא</row>
+		<row row_number="26" isdata="1">הכי קאמר חורגו לבדו אבל גיסו הוא ובנו וחתנו ואתא ר' יוסי למימר</row>
+		<row row_number="27" isdata="1">גיסו לבדו אבל חורגו הוא ובנו וחתנו ואלא הא דתני ר' חייא שמונה אבות</row>
+		<row row_number="28" isdata="1">שהן עשרים וארבעה כמאן לא כר' יוסי ולא כר' יהודה אלא הכי קאמר</row>
+		<row row_number="29" isdata="1">חורגו לבדו אבל גיסו הוא ובנו וחתנו ואתא ר' יוסי למימר גיסו לבדו וכ"ש</row>
+		<row row_number="30" isdata="1">חורגו ומתני' ר' יהודה ברייתא ר' יוסי אמר רב יהודה אמר שמואל הלכה כרבי</row>
+		<row row_number="31" isdata="1">יוסי ההיא מתנתא דהוי חתימי עלה תרי גיסי סבר רב יוסף לאכשורה דאמר</row>
+		<row row_number="32" isdata="1">רב יהודה אמר שמואל הלכה כר' יוסי אמר ליה אביי ממאי דרבי יוסי</row>
+		<row row_number="33" isdata="1">דמתניתין דמכשר בגיסו דילמא רבי יוסי דברייתא דפסיל בגיסו לא ס"ד</row>
+		<row row_number="34" isdata="1">דאמר שמואל כגון אנא ופנחס דהוינן אחי וגיסי אבל גיסי דעלמא שפיר דמי</row>
+		<row row_number="35" isdata="1">ודילמא כגון אנא ופנחס משום דגיסו קאמר אמר ליה זיל קניה בעדי מסירה</row>
+		<row row_number="36" isdata="1">כר' אלעזר והאמר רבי אבא מודה רבי אלעזר במזויף מתוכו שהוא פסול</row>
+		<row row_number="37" isdata="1">א"ל זיל לא שבקי לי דאותביניה לך: ר' יהודה אומר כו': א"ר תנחום א"ר</row>
+		<row row_number="38" isdata="1">טבלא אמר ר' ברונא אמר רב הלכה כרבי יהודה רבא אמר ר"נ אין הלכה</row>
+		<row row_number="39" isdata="1">כרבי יהודה וכן אמר רבה בר בר חנה אמר רבי יוחנן אין הלכה כר' יהודה</row>
+		<row row_number="40" isdata="1">איכא דמתני לה להא דרבה בר בר חנה אהא את זו דרש רבי יוסי הגלילי</row>
+		<row row_number="41" isdata="1">ובאת אל הכהנים הלוים ואל השופט אשר יהיה בימים ההם וכי תעלה על</row>
+		<row row_number="42" isdata="1">דעתך שאדם הולך אצל שופט שלא היה בימיו אלא זה שהיה קרוב ונתרחק</row>
+		<row row_number="43" isdata="1">אמר רבה בר בר חנה א"ר יוחנן הלכה כר' יוסי הגלילי בני חמוה דמר עוקבא</row>
+		<row row_number="44" isdata="0">קרובים</row>
+</amud>
+</daf>
+</masechet>
+</root>

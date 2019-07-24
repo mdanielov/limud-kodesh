@@ -483,4 +483,16 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="[VersionSourceID]" />
   </Operation>
+  <Operation Name="Move Schema" Key="070d592c-03bc-43fb-bacd-ecc59745ad39" ChangeDateTime="07/23/2019 08:15:49">
+    <Property Name="ElementName" Value="[dbo].[WordsInTanakh]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="NewSchema" Value="Import" />
+    <Property Name="IsNewSchemaExternal" Value="False" />
+  </Operation>
+  <Operation Name="Move Schema" Key="7a9462c0-3b4d-4112-bfcf-cbbd947c284b" ChangeDateTime="07/23/2019 08:16:08">
+    <Property Name="ElementName" Value="[dbo].[Tanakh]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="NewSchema" Value="Import" />
+    <Property Name="IsNewSchemaExternal" Value="False" />
+  </Operation>
 </Operations>

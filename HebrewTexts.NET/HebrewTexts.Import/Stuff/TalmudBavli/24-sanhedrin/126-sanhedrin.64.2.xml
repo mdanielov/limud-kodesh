@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:41.422608</dateCreated>
+   <lastModified>2016-08-04 11:57:41.423608</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1">א"ר ינאי אינו חייב עד שימסרנו למשרתי</row>
+		<row row_number="2" isdata="1">ע"ז שנאמר ומזרעך לא תתן להעביר</row>
+		<row row_number="3" isdata="1">למולך תניא נמי הכי יכול העביר ולא מסר</row>
+		<row row_number="4" isdata="1">יהא חייב ת"ל לא תתן מסר למולך ולא</row>
+		<row row_number="5" isdata="1">העביר יכול יהא חייב ת"ל להעביר מסר</row>
+		<row row_number="6" isdata="1">והעביר שלא למולך יכול יהא חייב ת"ל</row>
+		<row row_number="7" isdata="1">למולך מסר והעביר למולך ולא באש יכול</row>
+		<row row_number="8" isdata="1">יהא חייב נאמר כאן להעביר ונאמר להלן</row>
+		<row row_number="9" isdata="1">לא ימצא בך מעביר בנו ובתו באש מה</row>
+		<row row_number="10" isdata="1">להלן באש אף כאן באש ומה כאן מולך אף</row>
+		<row row_number="11" isdata="1">להלן מולך אמר רב אחא בריה דרבא העביר</row>
+		<row row_number="12" isdata="1">כל זרעו פטור שנאמר מזרעך ולא כל זרעך</row>
+		<row row_number="13" isdata="1">בעי רב אשי העבירו סומא מהו ישן מהו בן</row>
+		<row row_number="14" isdata="1">בנו ובן בתו מהו תפשוט מיהא חדא דתניא</row>
+		<row row_number="15" isdata="1">כי מזרעו נתן למולך מה ת"ל לפי שנאמר</row>
+		<row row_number="16" isdata="1">לא ימצא בך מעביר בנו ובתו באש אין לי</row>
+		<row row_number="17" isdata="1">אלא בנו ובתו בן בנו ובן בתו מנין ת"ל בתתו</row>
+		<row row_number="18" isdata="1">מזרעו תנא פתח בכי מזרעו וסליק בתתו</row>
+		<row row_number="19" isdata="1">מזרעו דרשה אחרינא הוא זרעו אין לי אלא</row>
+		<row row_number="20" isdata="1">זרע כשר זרע פסול מנין ת"ל בתתו מזרעו</row>
+		<row row_number="21" isdata="1">אמר רב יהודה אינו חייב עד שיעבירנו דרך</row>
+		<row row_number="22" isdata="1">העברה היכי דמי אמר אביי שרגא דליבני</row>
+		<row row_number="23" isdata="1">במיצעי נורא מהאי גיסא ונורא מהאי גיסא</row>
+		<row row_number="24" isdata="1">רבא אמר כמשוורתא דפוריא תניא כוותיה</row>
+		<row row_number="25" isdata="1">דרבא אינו חייב עד שיעבירנו דרך עברה</row>
+		<row row_number="26" isdata="1">העבירה ברגל פטור ואינו חייב אלא על יוצאי</row>
+		<row row_number="27" isdata="1">יריכו הא כיצד בנו ובתו חייב אביו ואמו אחיו</row>
+		<row row_number="28" isdata="1">ואחותו פטור העביר עצמו פטור ורבי אלעזר</row>
+		<row row_number="29" isdata="1">בר' שמעון מחייב אחד למולך ואחד לשאר</row>
+		<row row_number="30" isdata="1">ע"ז חייב רבי אלעזר ברבי שמעון אומר</row>
+		<row row_number="31" isdata="1">למולך חייב שלא למולך פטור אמר עולא</row>
+		<row row_number="32" isdata="1">מאי טעמא דרבי אלעזר בר' שמעון אמר קרא</row>
+		<row row_number="33" isdata="1">לא ימצא בך בך בעצמך ורבנן לא דרשי</row>
+		<row row_number="34" isdata="1">בך והתנן אבידתו ואבידת אביו שלו קודמת</row>
+		<row row_number="35" isdata="1">ואמרינן מאי טעמא ואמר רב יהודה אמר</row>
+		<row row_number="36" isdata="1">קרא אפס כי לא יהיה בך אביון שלו קודמת</row>
+		<row row_number="37" isdata="1">לשל כל אדם והתם מאפס אמר רבי יוסי בר' חנינא שלש כריתות</row>
+		<row row_number="38" isdata="1">בע"ז למה אחת לכדרכה ואחת לשלא כדרכה ואחת למולך ולמאן דאמר</row>
+		<row row_number="39" isdata="1">מולך ע"ז היא כרת במולך למה לי למעביר בנו שלא כדרכה ולמאן</row>
+		<row row_number="40" isdata="1">דאמר מגדף ע"ז היא כרת במגדף למה לי לכדתניא הכרת תכרת</row>
+		<row row_number="41" isdata="1">הכרת בעולם הזה תכרת לעולם הבא דברי רבי עקיבא אמר לו רבי</row>
+		<row row_number="42" isdata="1">ישמעאל והלא כבר נאמר ונכרתה וכי שלשה עולמים יש אלא ונכרתה</row>
+		<row row_number="43" isdata="1">בעולם הזה הכרת לעולם הבא תכרת דברה תורה כלשון בני אדם:</row>
+		<row row_number="44" isdata="0">מתני'</row>
+</amud>
+</daf>
+</masechet>
+</root>

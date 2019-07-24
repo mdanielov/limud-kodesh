@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:30.177965</dateCreated>
+   <lastModified>2016-08-04 11:57:30.177965</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="111">
+	<amud value="1">
+		<row row_number="1" isdata="1">וזה לפי שאין פעולתו אצלו היכי דמי אי</row>
+		<row row_number="2" isdata="1">דאמר להו שכרכם עלי שכרו עליו הוא</row>
+		<row row_number="3" isdata="1">דתניא השוכר את הפועל לעשות בשלו</row>
+		<row row_number="4" isdata="1">והראהו בשל חבירו נותן לו שכרו משלם</row>
+		<row row_number="5" isdata="1">וחוזר ונוטל מבעל הבית מה שההנה אותו</row>
+		<row row_number="6" isdata="1">לא צריכא דאמר להו שכרכם על בעל</row>
+		<row row_number="7" isdata="1">הבית יהודה בר מרימר א"ל לשמעיה זיל</row>
+		<row row_number="8" isdata="1">אגיר לי פועלים ואימא להו שכרכם על בעל</row>
+		<row row_number="9" isdata="1">הבית מרימר ומר זוטרא אגרי להדדי אמר</row>
+		<row row_number="10" isdata="1">רבה בר רב הונא הני שוקאי דסורא לא</row>
+		<row row_number="11" isdata="1">עברי משום בל תלין מידע ידעי דעל יומא</row>
+		<row row_number="12" isdata="1">דשוקא סמיכי אבל משום בל תשהא ודאי</row>
+		<row row_number="13" isdata="1">עובר: שכיר שעות גובה כל הלילה וכל</row>
+		<row row_number="14" isdata="1">היום: אמר רב שכיר שעות דיום גובה</row>
+		<row row_number="15" isdata="1">כל היום שכיר שעות דלילה גובה כל הלילה ושמואל אמר שכיר שעות דיום</row>
+		<row row_number="16" isdata="1">גובה כל היום ושכיר שעות דלילה גובה כל הלילה וכל היום תנן שכיר שעות</row>
+		<row row_number="17" isdata="1">גובה כל הלילה וכל היום תיובתא דרב אמר לך רב לצדדין קתני שכיר שעות</row>
+		<row row_number="18" isdata="1">דיום גובה כל היום שכיר שעות דלילה גובה כל הלילה תנן היה שכיר שבת</row>
+		<row row_number="19" isdata="1">שכיר חדש שכיר שנה שכיר שבוע יוצא ביום גובה כל היום יוצא בלילה גובה</row>
+		<row row_number="20" isdata="1">כל הלילה וכל היום אמר לך רב תנאי היא דתניא שכיר שעות דיום גובה</row>
+		<row row_number="21" isdata="1">כל היום שכיר שעות דלילה גובה כל הלילה דברי ר' יהודה ר"ש אומר</row>
+		<row row_number="22" isdata="1">שכיר שעות דיום גובה כל היום שכיר שעות דלילה גובה כל הלילה וכל</row>
+		<row row_number="23" isdata="1">היום מכאן אמרו כל הכובש שכר שכיר עובר בה' שמות הללו ועשה</row>
+		<row row_number="24" isdata="1">משום בל תעשוק את ריעך ומשום בל תגזול ומשום בל תעשוק שכיר</row>
+		<row row_number="25" isdata="1">עני ומשום בל תלין ומשום ביומו תתן שכרו ומשום לא תבא עליו השמש</row>
+		<row row_number="26" isdata="1">הני דאיכא ביממא ליכא בליליא דאיכא בליליא ליכא ביממא אמר רב חסדא</row>
+		<row row_number="27" isdata="1">שם שכירות בעלמא איזה הוא עושק ואיזהו גזל א"ר חסדא לך ושוב לך</row>
+		<row row_number="28" isdata="1">ושוב זה הוא עושק יש לך בידי ואיני נותן לך זה הוא גזל מתקיף לה רב</row>
+		<row row_number="29" isdata="1">ששת איזהו עושק שחייבה עליו תורה קרבן דומיא דפקדון דקא כפר</row>
+		<row row_number="30" isdata="1">ליה ממונא אלא אמר רב ששת נתתיו לך זהו עושק יש לך בידי ואיני</row>
+		<row row_number="31" isdata="1">נותן לך זה הוא גזל מתקיף לה אביי איזה הוא גזל שחייבה עליו תורה</row>
+		<row row_number="32" isdata="1">קרבן דומיא דפקדון בעינן דקא כפר ליה ממונא אלא אמר אביי לא שכרתיך</row>
+		<row row_number="33" isdata="1">מעולם זה הוא עושק נתתיו לך זה הוא גזל ולרב ששת מאי שנא עושק</row>
+		<row row_number="34" isdata="1">דקשיא ליה ומאי שנא גזל דלא קשיא ליה אמר לך גזל דגזליה והדר</row>
+		<row row_number="35" isdata="1">כפריה אי הכי אפילו עושק נמי דהדר כפריה הכי השתא בשלמא התם כתיב</row>
+		<row row_number="36" isdata="1">או בגזל מכלל דאודי ליה מעיקרא אבל גבי עושק מי כתיב או בעושק</row>
+		<row row_number="37" isdata="1">או עשק כתיב שעשקו כבר רבא אמר זה הוא עושק זהו גזל ולמה חלקן</row>
+		<row row_number="38" isdata="1">הכתוב לעבור עליו בשני לאוין<EndGemara/><StartMishna/>: מתני' אחד שכר אדם ואחד שכר</row>
+		<row row_number="39" isdata="1">בהמה ואחד שכר כלים יש בו משום ביומו תתן שכרו ויש בו משום</row>
+		<row row_number="40" isdata="1">לא תלין פעולת שכיר אתך עד בוקר אימתי בזמן שתבעו לא תבעו</row>
+		<row row_number="41" isdata="1">אינו עובר עליו המחהו אצל חנוני או אצל שולחני אינו עובר עליו</row>
+		<row row_number="42" isdata="1">שכיר בזמנו נשבע ונוטל עבר זמנו אינו נשבע ונוטל אם יש</row>
+		<row row_number="43" isdata="1">עדים שתבעו (בזמנו) הרי זה נשבע ונוטל גר תושב יש בו משום ביומו</row>
+		<row row_number="44" isdata="1">תתן שכרו ואין בו משום לא תלין פעולת שכיר אתך עד בקר: <EndMishna/><StartGemara/>גמ' מני</row>
+		<row row_number="45" isdata="1">מתני' לא תנא קמא דמאחיך ולא רבי יוסי ברבי יהודה מאי היא דתניא</row>
+		<row row_number="46" isdata="0">מאחיך</row>
+</amud>
+</daf>
+</masechet>
+</root>

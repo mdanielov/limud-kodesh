@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:37.903407</dateCreated>
+   <lastModified>2016-08-04 11:57:37.903407</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="157">
+	<amud value="1">
+		<row row_number="1" isdata="1">אומר בחול אמרו וקל וחומר לשבת כיוצא</row>
+		<row row_number="2" isdata="1">בו זכין לגדול ואין זכין לקטן דברי ר' אליעזר</row>
+		<row row_number="3" isdata="1">רבי יהושע אומר בגדול אמרו קל וחומר</row>
+		<row row_number="4" isdata="1">לקטן רבי יהודה אומר רבי אליעזר אומר</row>
+		<row row_number="5" isdata="1">בשבת דבריו קיימין מפני שאינו יכול לכתוב</row>
+		<row row_number="6" isdata="1">אבל לא בחול רבי יהושע אומר בשבת</row>
+		<row row_number="7" isdata="1">אמרו קל וחומר בחול כיוצא בו זכין לקטן</row>
+		<row row_number="8" isdata="1">ואין זכין לגדול דברי רבי אליעזר ר' יהושע</row>
+		<row row_number="9" isdata="1">אומר לקטן אמרו קל וחומר לגדול<EndGemara/><StartMishna/>: מתני'</row>
+		<row row_number="10" isdata="1">נפל הבית עליו ועל אביו או עליו ועל</row>
+		<row row_number="11" isdata="1">מורישיו והיתה עליו כתובת אשה ובעל</row>
+		<row row_number="12" isdata="1">חוב יורשי האב אומרים הבן מת ראשון</row>
+		<row row_number="13" isdata="1">ואח"כ מת האב ובעלי החוב אומרים האב</row>
+		<row row_number="14" isdata="1">מת ראשון ואח"כ מת הבן ב"ש אומרים</row>
+		<row row_number="15" isdata="1">יחלוקו ובית הלל אומרים נכסים בחזקתן:</row>
+		<row row_number="16" isdata="1"><EndMishna/><StartGemara/>גמ' תנן התם המלוה את חבירו בשטר</row>
+		<row row_number="17" isdata="1">גובה מנכסים משועבדים על ידי עדים גובה</row>
+		<row row_number="18" isdata="1">מנכסים בני חורין בעי שמואל דאיקני וקנה</row>
+		<row row_number="19" isdata="1">מהו אליבא דרבי מאיר דאמר אדם מקנה</row>
+		<row row_number="20" isdata="1">דבר שלא בא לעולם לא תיבעי לך דודאי</row>
+		<row row_number="21" isdata="1">קנה אלא כי תיבעי לך אליבא דרבנן דאמרי</row>
+		<row row_number="22" isdata="1">אין אדם מקנה דבר שלא בא לעולם אמר</row>
+		<row row_number="23" isdata="1">רב יוסף תא שמע וחכמים אומרים זה היה</row>
+		<row row_number="24" isdata="1">פיקח שמכר לו את הקרקע מפני שהוא יכול</row>
+		<row row_number="25" isdata="1">למשכנו עליו אמר ליה רבא מיניה קאמר</row>
+		<row row_number="26" isdata="1">מיניה אפילו מגלימא דעל כתפיה כי קא</row>
+		<row row_number="27" isdata="1">מיבעיא לן דאיקני קנה ומכר דאיקני קנה</row>
+		<row row_number="28" isdata="1">והוריש מאי אמר רב חנא תא שמע נפל הבית</row>
+		<row row_number="29" isdata="1">עליו ועל אביו עליו ועל מורישיו והיתה עליו</row>
+		<row row_number="30" isdata="1">כתובת אשה ובעל חוב יורשי האב אומרים</row>
+		<row row_number="31" isdata="1">הבן מת ראשון ואח"כ מת האב ובעלי חובות</row>
+		<row row_number="32" isdata="1">אומרים האב מת ראשון כו' ואי סלקא דעתך</row>
+		<row row_number="33" isdata="1">דאיקני קנה ומכר דאיקני קנה והוריש לא</row>
+		<row row_number="34" isdata="1">משתעבד נהי נמי דאב מית ברישא דאיקני</row>
+		<row row_number="35" isdata="1">הוא אמר להו רב נחמן זעירא חברין תרגמה</row>
+		<row row_number="36" isdata="1">מצוה על היתומים לפרוע חובת אביהן</row>
+		<row row_number="37" isdata="1">מתקיף לה רב אשי מלוה על פה הוא ורב</row>
+		<row row_number="38" isdata="1">ושמואל דאמרי תרוייהו מלוה על פה</row>
+		<row row_number="39" isdata="1">אינו גובה לא מן היורשין ולא מן הלקוחות</row>
+		<row row_number="40" isdata="0">אלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

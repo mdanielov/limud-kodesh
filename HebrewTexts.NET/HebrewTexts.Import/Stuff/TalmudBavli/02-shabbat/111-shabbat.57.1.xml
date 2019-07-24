@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:30.007523</dateCreated>
+   <lastModified>2016-08-04 11:56:30.007523</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="57">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "במה אשה"/><StartMishna/>במה  אשה יוצאה ובמה אינה יוצאה לא</row>
+		<row row_number="2" isdata="1">תצא אשה לא בחוטי צמר ולא</row>
+		<row row_number="3" isdata="1">בחוטי פשתן ולא ברצועות שבראשה ולא</row>
+		<row row_number="4" isdata="1">תטבול בהן עד שתרפם ולא בטוטפת ולא</row>
+		<row row_number="5" isdata="1">בסרביטין בזמן שאינן תפורים ולא בכבול</row>
+		<row row_number="6" isdata="1">לרה"ר ולא בעיר של זהב ולא בקטלא ולא</row>
+		<row row_number="7" isdata="1">בנזמים ולא בטבעת שאין עליה חותם ולא</row>
+		<row row_number="8" isdata="1">במחט שאינה נקובה ואם יצאת אינה חייבת</row>
+		<row row_number="9" isdata="1">חטאת: <EndMishna/><StartGemara/>גמ' טבילה מאן דכר שמה אמר</row>
+		<row row_number="10" isdata="1">רב נחמן בר יצחק אמר רבה בר אבוה מה</row>
+		<row row_number="11" isdata="1">טעם קאמר מה טעם לא תצא אשה לא</row>
+		<row row_number="12" isdata="1">בחוטי צמר ולא בחוטי פשתן מפני שאמרו</row>
+		<row row_number="13" isdata="1">חכמים בחול לא תטבול בהן עד שתרפם</row>
+		<row row_number="14" isdata="1">וכיון דבחול לא תטבול בהן עד שתרפם</row>
+		<row row_number="15" isdata="1">בשבת לא תצא דילמא מיתרמי לה טבילה</row>
+		<row row_number="16" isdata="1">של מצוה ושריא להו ואתי לאתויינהו ד'</row>
+		<row row_number="17" isdata="1">אמות ברה"ר בעא מיניה רב כהנא מרב</row>
+		<row row_number="18" isdata="1">תיכי חלילתא מאי א"ל אריג קאמרת כל</row>
+		<row row_number="19" isdata="1">שהוא אריג לא גזרו איתמר נמי אמר רב הונא</row>
+		<row row_number="20" isdata="1">בריה דרב יהושע כל שהוא אריג לא גזרו</row>
+		<row row_number="21" isdata="1">ואיכא דאמרי אמר רב הונא בריה דרב יהושע</row>
+		<row row_number="22" isdata="1">חזינא לאחוותי דלא קפדן עלייהו מאי איכא</row>
+		<row row_number="23" isdata="1">בין הך לישנא ובין הך לישנא איכא בינייהו</row>
+		<row row_number="24" isdata="1">דטניפן להך לישנא דאמר כל שהוא אריג</row>
+		<row row_number="25" isdata="1">לא גזרו הני נמי ארוג ולהך לישנא דאמרת</row>
+		<row row_number="26" isdata="1">משום קפידא כיון דטניפא מקפד קפדא עלייהו</row>
+		<row row_number="27" isdata="1">תנן התם ואלו חוצצין באדם חוטי צמר</row>
+		<row row_number="28" isdata="1">וחוטי פשתן והרצועות שבראשי הבנות ר'</row>
+		<row row_number="29" isdata="1">יהודה אומר של צמר ושל שער אין חוצצין מפני</row>
+		<row row_number="30" isdata="1">שהמים באין בהן אמר רב הונא וכולן בראשי</row>
+		<row row_number="31" isdata="1">הבנות שנינו מתקיף לה רב יוסף למעוטי</row>
+		<row row_number="32" isdata="1">מאי אילימא למעוטי דצואר ודמאי אילימא</row>
+		<row row_number="33" isdata="1">למעוטי דצמר השתא רך על גבי קשה חוצץ</row>
+		<row row_number="34" isdata="1">רך על גבי רך מיבעיא ואלא למעוטי דחוטי</row>
+		<row row_number="35" isdata="1">פשתן השתא קשה על גבי קשה חוצץ קשה</row>
+		<row row_number="36" isdata="1">על גבי רך מיבעיא אלא אמר רב יוסף היינו</row>
+		<row row_number="37" isdata="1">טעמא דרב הונא לפי שאין אשה חונקת</row>
+		<row row_number="38" isdata="1">את עצמה איתיביה אביי הבנות יוצאות</row>
+		<row row_number="39" isdata="1">בחוטין שבאזניהן אבל לא בחבקין</row>
+		<row row_number="40" isdata="1">שבצואריהן ואי אמרת אין אשה חונקת עצמה</row>
+		<row row_number="41" isdata="1">חבקין שבצואריהן אמאי לא אמר רבינא</row>
+		<row row_number="42" isdata="0">הכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

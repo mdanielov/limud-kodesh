@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:19.567358</dateCreated>
+   <lastModified>2016-08-04 11:57:19.567358</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="56">
+	<amud value="1">
+		<row row_number="1" isdata="1">ואם לקח בשוגג יחזרו דמים למקומם במזיד</row>
+		<row row_number="2" isdata="1">תעלה ותאכל במקום אמר רבי יהודה במה</row>
+		<row row_number="3" isdata="1">דברים אמורים במתכוין ולקח תחילה לשם</row>
+		<row row_number="4" isdata="1">שלמים אבל במתכוין להוציא מעות מעשר</row>
+		<row row_number="5" isdata="1">שני לחולין בין שוגג בין מזיד יחזרו דמים</row>
+		<row row_number="6" isdata="1">למקומם והאנן תנן רבי יהודה אומר במזיד</row>
+		<row row_number="7" isdata="1">קידש אמר רבי אלעזר אשה יודעת שאין</row>
+		<row row_number="8" isdata="1">מעות מעשר שני מתחללין על ידה ועולה</row>
+		<row row_number="9" isdata="1">ואוכלתו בירושלים מתקיף לה ר' ירמיה</row>
+		<row row_number="10" isdata="1">והרי בהמה טמאה עבדים וקרקעות דאדם</row>
+		<row row_number="11" isdata="1">יודע שאין מעות מעשר שני מתחללין עליהן</row>
+		<row row_number="12" isdata="1">ותנן אין לוקחים בהמה טמאה עבדים וקרקעו'</row>
+		<row row_number="13" isdata="1">במעות מעשר שני אפי' בירושלים ואם לקח</row>
+		<row row_number="14" isdata="1">יאכל כנגדן אלא הכא באשה חבירה עסקינן</row>
+		<row row_number="15" isdata="1">דידעה אמר מר אם לקח יאכל כנגדן ואמאי</row>
+		<row row_number="16" isdata="1">יחזרו דמיו למקומם כי התם אמר שמואל</row>
+		<row row_number="17" isdata="0">כשברח</row>
+</amud>
+</daf>
+</masechet>
+</root>

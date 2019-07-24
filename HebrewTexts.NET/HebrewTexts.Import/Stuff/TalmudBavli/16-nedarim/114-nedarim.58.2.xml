@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:08.931750</dateCreated>
+   <lastModified>2016-08-04 11:57:08.931750</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="58">
+	<amud value="2">
+		<row row_number="1" isdata="1">המנכש עם הכותי בחסיות אוכל מהן</row>
+		<row row_number="2" isdata="1">אכילת עראי ומעשרן ודאי רבי שמעון בן</row>
+		<row row_number="3" isdata="1">אלעזר אומר אם ישראל חשוד על השביעית</row>
+		<row row_number="4" isdata="1">למוצאי שביעית מותר למימרא דגידולי</row>
+		<row row_number="5" isdata="1">היתר מעלין את האיסור ודלמא בדבר שזרעו</row>
+		<row row_number="6" isdata="1">כלה הא תניא אלו הן חסיות כגון הלוף השום</row>
+		<row row_number="7" isdata="1">והבצלים ודלמא במדוכנין חשוד על</row>
+		<row row_number="8" isdata="1">השביעית קתני ודלמא בתערובת המנכש</row>
+		<row row_number="9" isdata="1">קתני לימא תיהוי תיובתיה דרבי יוחנן ודרבי</row>
+		<row row_number="10" isdata="1">יונתן אמר רבי יצחק שניא שביעית הואיל</row>
+		<row row_number="11" isdata="1">ואיסורה ע"י קרקע בטילתה נמי ע"י קרקע</row>
+		<row row_number="12" isdata="1">הרי מעשר דאיסורו ע"י קרקע ואין בטילתו</row>
+		<row row_number="13" isdata="1">על ידי קרקע דתניא ליטרא מעשר טבל</row>
+		<row row_number="14" isdata="1">שזרעה בקרקע והשביחה והרי היא כעשר</row>
+		<row row_number="15" isdata="1">ליטרין חייבת במעשר ובשביעית ואותה</row>
+		<row row_number="16" isdata="1">ליטרא מעשר עליה ממקום אחר לפי חשבון</row>
+		<row row_number="17" isdata="0">אמרי</row>
+</amud>
+</daf>
+</masechet>
+</root>

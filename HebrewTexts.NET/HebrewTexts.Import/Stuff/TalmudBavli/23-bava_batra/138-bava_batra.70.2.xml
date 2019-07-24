@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:33.807172</dateCreated>
+   <lastModified>2016-08-04 11:57:33.807172</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="70">
+	<amud value="2">
+		<row row_number="1" isdata="1">סוף סוף כי אמר ליה נאנסו לאו שבועה בעי</row>
+		<row row_number="2" isdata="1">ה"נ מאי נאמן נאמן בשבועה לימא בפלוגתא</row>
+		<row row_number="3" isdata="1">דהני תנאי דתניא שטר כיס היוצא על</row>
+		<row row_number="4" isdata="1">היתומים דייני גולה אמרי נשבע וגובה כולו</row>
+		<row row_number="5" isdata="1">ודייני א"י אמרי נשבע וגובה מחצה ודכולי</row>
+		<row row_number="6" isdata="1">עלמא אית להו דנהרדעי דאמרי נהרדעי</row>
+		<row row_number="7" isdata="1">האי עיסקא פלגא מלוה ופלגא פקדון מאי</row>
+		<row row_number="8" isdata="1">לאו בהא קא מיפלגי דמר סבר מצי א"ל</row>
+		<row row_number="9" isdata="1">שטרך בידי מאי בעי ומר סבר לא אמרי</row>
+		<row row_number="10" isdata="1">לא דכולי עלמא אית להו דרב חסדא</row>
+		<row row_number="11" isdata="1">והכא בהא קמיפלגי דמר סבר אם איתא</row>
+		<row row_number="12" isdata="1">דפרעיה מימר הוה אמר ומר סבר אימור</row>
+		<row row_number="13" isdata="1">מלאך המות הוא דאנסיה שלח רב הונא בר</row>
+		<row row_number="14" isdata="1">אבין המפקיד אצל חבירו בשטר ואמר</row>
+		<row row_number="15" isdata="1">לו החזרתיו לך נאמן ושטר כיס היוצא על</row>
+		<row row_number="16" isdata="1">היתומין נשבע וגובה כולו תרתי שאני</row>
+		<row row_number="17" isdata="1">התם דאם איתא דפרעיה מימר הוה אמר</row>
+		<row row_number="18" isdata="1">רבא אמר הלכתא נשבע וגובה מחצה</row>
+		<row row_number="19" isdata="1">אמר מר זוטרא הלכתא כדייני גולה א"ל</row>
+		<row row_number="20" isdata="1">רבינא למר זוטרא הא אמר רבא נשבע</row>
+		<row row_number="21" isdata="1">וגובה מחצה אמר ליה אנן דדייני גולה</row>
+		<row row_number="22" isdata="0">איפכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

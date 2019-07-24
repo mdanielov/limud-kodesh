@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:48.472579</dateCreated>
+   <lastModified>2016-08-04 11:56:48.472579</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="83">
+	<amud value="1">
+		<row row_number="1" isdata="1">זורו רשעים מרחם נפק מינה שבתאי אצר</row>
+		<row row_number="2" isdata="1">פירי: חולה מאכילין אותו על פי בקיאין:</row>
+		<row row_number="3" isdata="1">אמר ר' ינאי חולה אומר צריך ורופא אומר</row>
+		<row row_number="4" isdata="1">אינו צריך שומעין לחולה מ"ט לב יודע מרת</row>
+		<row row_number="5" isdata="1">נפשו פשיטא מהו דתימא רופא קים ליה טפי</row>
+		<row row_number="6" isdata="1">קמ"ל רופא אומר צריך וחולה אומר אינו</row>
+		<row row_number="7" isdata="1">צריך שומעין לרופא מ"ט תונבא הוא דנקיט</row>
+		<row row_number="8" isdata="1">ליה תנן חולה מאכילין אותו ע"פ בקיאין ע"פ</row>
+		<row row_number="9" isdata="1">בקיאין אין ע"פ עצמו לא ע"פ בקיאין אין על</row>
+		<row row_number="10" isdata="1">פי בקי אחד לא הכא במאי עסקינן דאמר לא</row>
+		<row row_number="11" isdata="1">צריכנא וליספו ליה ע"פ בקי לא צריכא</row>
+		<row row_number="12" isdata="1">דאיכא אחרינא בהדיה דאמר לא צריך</row>
+		<row row_number="13" isdata="1">מאכילין אותו ע"פ בקיאין פשיטא ספק נפשות</row>
+		<row row_number="14" isdata="1">הוא וספק נפשות להקל לא צריכא דאיכא</row>
+		<row row_number="15" isdata="1">תרי אחריני בהדיה דאמרי לא צריך ואע"ג</row>
+		<row row_number="16" isdata="1">דאמר רב ספרא תרי כמאה ומאה כתרי ה"מ</row>
+		<row row_number="17" isdata="1">לענין עדות אבל לענין אומדנא בתר דעות אזלינן וה"מ לענין אומדנא</row>
+		<row row_number="18" isdata="1">דממונא אבל הכא ספק נפשות הוא והא מדקתני סיפא ואם אין שם בקיאין</row>
+		<row row_number="19" isdata="1">מאכילין אותו על פי עצמו מכלל דרישא דאמר צריך חסורי מיחסרא והכי</row>
+		<row row_number="20" isdata="1">קתני בד"א דאמר לא צריך אני אבל אמר צריך אני אין שם בקיאין תרי אלא</row>
+		<row row_number="21" isdata="1">חד דאמר לא צריך מאכילין אותו על פי עצמו מר בר רב אשי אמר כל</row>
+		<row row_number="22" isdata="1">היכא דאמר צריך אני אפי' איכא מאה דאמרי לא צריך לדידיה שמעינן</row>
+		<row row_number="23" isdata="1">שנאמר לב יודע מרת נפשו תנן אם אין שם בקיאין מאכילין אותו ע"פ עצמו</row>
+		<row row_number="24" isdata="1">טעמא דליכא בקיאין הא איכא בקיאין לא ה"ק בד"א דאמר לא צריך אני אבל</row>
+		<row row_number="25" isdata="1">אמר צריך אני אין שם בקיאין כלל מאכילין אותו ע"פ עצמו שנאמר לב יודע</row>
+		<row row_number="26" isdata="1">מרת נפשו<EndGemara/><StartMishna/>: מתני' מי שאחזו בולמוס מאכילין אותו אפי' דברים טמאים</row>
+		<row row_number="27" isdata="1">עד שיאורו עיניו מי שנשכו כלב שוטה אין מאכילין אותו מחצר כבד שלו</row>
+		<row row_number="28" isdata="1">ור' מתיא בן חרש מתיר ועוד אמר ר' מתיא בן חרש החושש בגרונו מטילין</row>
+		<row row_number="29" isdata="1">לו סם בתוך פיו בשבת מפני שהוא ספק נפשות וכל ספק נפשות דוחה</row>
+		<row row_number="30" isdata="1">את השבת מי שנפלה עליו מפולת ספק הוא שם ספק אינו שם ספק חי</row>
+		<row row_number="31" isdata="1">ספק מת ספק כותי ספק ישראל מפקחין עליו את הגל מצאוהו חי מפקחין ואם</row>
+		<row row_number="32" isdata="1">מת יניחוהו: <EndMishna/><StartGemara/>גמ' ת"ר מניין היו יודעין שהאירו עיניו משיבחין בין טוב</row>
+		<row row_number="33" isdata="1">לרע אמר אביי ובטעמא ת"ר מי שאחזו בולמוס מאכילין אותו הקל הקל</row>
+		<row row_number="34" isdata="1">טבל ונבילה מאכילין אותו נבילה טבל ושביעית שביעית טבל ותרומה</row>
+		<row row_number="35" isdata="1">תנאי היא דתניא מאכילין אותו טבל ואין מאכילין אותו תרומה בן</row>
+		<row row_number="36" isdata="1">תימא אומר תרומה ולא טבל אמר רבה היכא דאפשר בחולין דכולי</row>
+		<row row_number="37" isdata="1">עלמא לא פליגי דמתקנינן ליה ומספינן ליה כי פליגי בדלא אפשר בחולין</row>
+		<row row_number="38" isdata="1">מר סבר טבל חמור ומר סבר תרומה חמורה מר סבר טבל חמור אבל</row>
+		<row row_number="39" isdata="1">תרומה חזיא לכהן ומר סבר תרומה חמורה אבל טבל אפשר לתקוניה</row>
+		<row row_number="40" isdata="0">אפשר</row>
+</amud>
+</daf>
+</masechet>
+</root>

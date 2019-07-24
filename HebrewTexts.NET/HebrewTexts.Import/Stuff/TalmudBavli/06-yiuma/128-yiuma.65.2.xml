@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:47.767539</dateCreated>
+   <lastModified>2016-08-04 11:56:47.767539</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="65">
+	<amud value="2">
+		<row row_number="1" isdata="1">קרבנות צבור קא אמרת שאני קרבנות צבור</row>
+		<row row_number="2" isdata="1">כדרבי טבי אמר רבי יאשיה דאמר רבי טבי</row>
+		<row row_number="3" isdata="1">אמר רבי יאשיה אמר קרא זאת עולת חדש</row>
+		<row row_number="4" isdata="1">בחדשו אמרה תורה חדש והבא לי קרבן</row>
+		<row row_number="5" isdata="1">מתרומה חדשה הא תינח שעיר פר מאי</row>
+		<row row_number="6" isdata="1">איכא למימר גזירה פר אטו שעיר ומשום</row>
+		<row row_number="7" isdata="1">גזירה ימותו ועוד הא דרבי טבי אמר רבי</row>
+		<row row_number="8" isdata="1">יאשיה גופה מצוה היא דאמר רב יהודה</row>
+		<row row_number="9" isdata="1">אמר שמואל קרבנות צבור הבאין באחד</row>
+		<row row_number="10" isdata="1">בניסן מצוה להביא מן החדש ואם הביא מן</row>
+		<row row_number="11" isdata="1">הישן יצא אלא שחסר מצוה אלא אמר רבי</row>
+		<row row_number="12" isdata="1">זירא לפי שאין הגורל קובע משנה לחברתה</row>
+		<row row_number="13" isdata="1">ונייתי ונגריל גזירה שמא יאמרו הגורל קובע</row>
+		<row row_number="14" isdata="1">משנה לחברתה הא תינח שעיר פר מאי איכא</row>
+		<row row_number="15" isdata="1">למימר גזירה פר אטו שעיר ומשום גזירה</row>
+		<row row_number="16" isdata="1">ימותו אמרוה רבנן קמיה דאביי גזירה משום</row>
+		<row row_number="17" isdata="1">חטאת שמתו בעלי' הא תינח פר שעיר מאי</row>
+		<row row_number="18" isdata="1">איכא למימר גזירה שעיר אטו פר ומשום</row>
+		<row row_number="19" isdata="1">גזירה ימותו אלא גזירה משום חטאת</row>
+		<row row_number="20" isdata="1">שעברה שנתה גזירה היא גופה חטאת</row>
+		<row row_number="21" isdata="1">שעברה שנתה היא הא לא קשיא כרבי</row>
+		<row row_number="22" isdata="1">דתניא שנה תמימה מונה שלש מאות</row>
+		<row row_number="23" isdata="1">וששים וחמשה יום כמנין ימות החמה דברי</row>
+		<row row_number="24" isdata="1">ר' וחכ"א מונה שנים עשר חדש מיום ליום</row>
+		<row row_number="25" isdata="0">ואם</row>
+</amud>
+</daf>
+</masechet>
+</root>

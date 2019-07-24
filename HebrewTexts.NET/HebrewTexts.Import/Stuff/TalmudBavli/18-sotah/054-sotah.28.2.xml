@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:13.325001</dateCreated>
+   <lastModified>2016-08-04 11:57:13.325001</lastModified>
+ </meta>
+ <masechet name="סוטה" serial="18">
+<daf value="28">
+	<amud value="2">
+		<row row_number="1" isdata="1">כודאי וממקום שבאת מה סוטה רשות</row>
+		<row row_number="2" isdata="1">היחיד אף שרץ רשות היחיד ומה סוטה</row>
+		<row row_number="3" isdata="1">דבר שיש בו דעת לישאל אף שרץ דבר</row>
+		<row row_number="4" isdata="1">שיש בו דעת לישאל ומכאן אמרו דבר שיש</row>
+		<row row_number="5" isdata="1">בו דעת לישאל ברשות היחיד ספיקו</row>
+		<row row_number="6" isdata="1">טמא ברה"ר ספיקו טהור ושאין בו דעת</row>
+		<row row_number="7" isdata="1">לישאל בין ברה"י בין ברה"ר ספיקו טהור</row>
+		<row row_number="8" isdata="1">ורבי ישמעאל א"ר עקיבא תרומה ומהדר</row>
+		<row row_number="9" isdata="1">ליה איהו כהונה ותו לרבי עקיבא כהונה</row>
+		<row row_number="10" isdata="1">מנא ליה וכי תימא כהונה לא צריכא קרא</row>
+		<row row_number="11" isdata="0">שהרי</row>
+</amud>
+</daf>
+</masechet>
+</root>

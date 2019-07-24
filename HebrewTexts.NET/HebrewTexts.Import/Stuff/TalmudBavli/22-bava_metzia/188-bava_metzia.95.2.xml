@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:29.453923</dateCreated>
+   <lastModified>2016-08-04 11:57:29.453923</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="95">
+	<amud value="2">
+		<row row_number="1" isdata="1">דכתיבא בהדיא קתני דאתיא מדרשא לא</row>
+		<row row_number="2" isdata="1">קתני ת"ש שאלה ושאל בעליה עמה שכרה</row>
+		<row row_number="3" isdata="1">ושכר בעליה עמה שאלה ושכר בעליה</row>
+		<row row_number="4" isdata="1">עמה שכרה ושאל בעליה עמה אף על פי</row>
+		<row row_number="5" isdata="1">שהבעלים עושין מלאכה במקום אחר ומתה</row>
+		<row row_number="6" isdata="1">פטור סברוה הא מני ר' יהודה היא דאמר</row>
+		<row row_number="7" isdata="1">שוכר כשומר שכר דמי והא האי תנא קתני</row>
+		<row row_number="8" isdata="1">מילתא דאתיא מדרשא ואילו שומר חנם</row>
+		<row row_number="9" isdata="1">לא קתני הא מני ר"מ היא דאמר שוכר</row>
+		<row row_number="10" isdata="1">כשומר חנם דמי ותנא שומר חנם והוא הדין</row>
+		<row row_number="11" isdata="1">לשומר שכר איבעית אימא כדמחליף רבה</row>
+		<row row_number="12" isdata="1">בר אבוה ותני שוכר כיצד משלם ר' מאיר</row>
+		<row row_number="13" isdata="1">אומר כשומר שכר ר' יהודה אומר כשומר</row>
+		<row row_number="14" isdata="1">חנם אמר רב המנונא לעולם הוא חייב</row>
+		<row row_number="15" isdata="1">עד שתהא פרה וחורש בה חמור ומחמר</row>
+		<row row_number="16" isdata="1">אחריה ועד שיהו בעלים משעת שאילה</row>
+		<row row_number="17" isdata="1">עד שעת שבורה ומתה אלמא קסבר בעליו</row>
+		<row row_number="18" isdata="1">עמו אכולה מילתא משמע מתיב רבא שאלה</row>
+		<row row_number="19" isdata="1">ושאל בעליה עמה שכרה ושכר בעליה</row>
+		<row row_number="20" isdata="1">עמה שכרה ושאל בעליה עמה שאלה ושכר</row>
+		<row row_number="21" isdata="1">בעליה עמה אע"פ שהבעלים עושין מלאכה</row>
+		<row row_number="22" isdata="1">במקום אחר ומתה פטור מאי לאו במלאכה אחרת לא באותה מלאכה אלא</row>
+		<row row_number="23" isdata="1">מאי מקום אחר דקא מרפי ואזיל קמה והא מדסיפא על גבה הוי רישא במלאכה</row>
+		<row row_number="24" isdata="1">אחרת דקתני סיפא שאלה ואח"כ שאל בעליה שכרה ואח"כ שכר בעליה עמה</row>
+		<row row_number="25" isdata="1">אע"פ שהבעלים חורשין ע"ג ומתה חייב אמרי רישא וסיפא באותה מלאכה</row>
+		<row row_number="26" isdata="1">ורישא רבותא קמ"ל וסיפא רבותא קמ"ל רישא רבותא קמ"ל דאע"ג דלאו על</row>
+		<row row_number="27" isdata="1">גבה אלא באותה מלאכה כיון דהוו בעלים בשעת שאילה פטור וסיפא רבותא</row>
+		<row row_number="28" isdata="1">קמ"ל דאע"ג דעל גבה כיון דלא היו בעלים בשעת שאילה חייב האי מאי</row>
+		<row row_number="29" isdata="1">אי אמרת בשלמא רישא במלאכה אחרת וסיפא באותה מלאכה היינו</row>
+		<row row_number="30" isdata="1">רבותא אלא אי אמרת רישא וסיפא באותה מלאכה מאי רבותא אידי</row>
+		<row row_number="31" isdata="1">ואידי באותה מלאכה הוי ועוד תניא ממשמע שנאמר אם בעליו עמו לא</row>
+		<row row_number="32" isdata="1">ישלם איני יודע שאם בעליו אין עמו שלם ישלם אלא מה ת"ל בעליו</row>
+		<row row_number="33" isdata="1">אין עמו לומר לך היה עמו בשעת שאילה אין צריך להיות עמו בשעת</row>
+		<row row_number="34" isdata="1">שבורה ומתה היה עמו בשעת שבורה ומתה צריך להיות עמו בשעת</row>
+		<row row_number="35" isdata="1">שאילה ותניא אידך ממשמע שנאמר בעליו אין עמו שלם ישלם איני יודע שאם</row>
+		<row row_number="36" isdata="1">בעליו עמו לא ישלם אלא מה ת"ל אם בעליו עמו לומר לך כיון שיצאה מרשות</row>
+		<row row_number="37" isdata="1">משאיל שעה אחת בבעלים ומתה פטור תיובתא דרב המנונא תיובתא</row>
+		<row row_number="38" isdata="1">אביי סבר לה כר' יאשיה ומתרץ לקראי כר' יאשיה רבא סבר לה כר'</row>
+		<row row_number="39" isdata="1">יונתן ומתרץ לקראי כר' יונתן אביי סבר לה כר' יאשיה ומתרץ לקראי</row>
+		<row row_number="40" isdata="1">כר' יאשיה בעליו אין עמו שלם ישלם טעמא דליתיה בתרוייהו הא</row>
+		<row row_number="41" isdata="1">איתיה בחדא וליתיה בחדא פטור והא כתיב אם בעליו עמו לא ישלם</row>
+		<row row_number="42" isdata="1">טעמא דאיתיה בתרוייהו הא אי איתיה בחדא וליתיה בחדא מחייב</row>
+		<row row_number="43" isdata="1">לומר לך היה עמו בשעת שאילה אינו צריך להיות עמו בשעת</row>
+		<row row_number="44" isdata="1">שבורה ומתה היה עמו בשעת שבורה ומתה צריך להיות עמו בשעת שאילה</row>
+		<row row_number="45" isdata="0">רבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:31.007580</dateCreated>
+   <lastModified>2016-08-04 11:56:31.007580</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="76">
+	<amud value="1">
+		<row row_number="1" isdata="1">א"ר אלעזר הא דלא כר"ש בן אלעזר דתניא</row>
+		<row row_number="2" isdata="1">כלל אמר ר' שמעון בן אלעזר כל שאינו כשר</row>
+		<row row_number="3" isdata="1">להצניע ואין מצניעין כמוהו והוכשר לזה</row>
+		<row row_number="4" isdata="1">והצניעו ובא אחר והוציאו נתחייב זה</row>
+		<row row_number="5" isdata="1">במחשבה של זה<EndGemara/><StartMishna/>: מתני' המוציא תבן</row>
+		<row row_number="6" isdata="1">כמלא פי פרה עצה כמלא פי גמל עמיר</row>
+		<row row_number="7" isdata="1">כמלא פי טלה עשבים כמלא פי גדי עלי</row>
+		<row row_number="8" isdata="1">שום ועלי בצלים לחים כגרוגרת יבשים</row>
+		<row row_number="9" isdata="1">כמלא פי גדי ואין מצטרפין זה עם זה מפני</row>
+		<row row_number="10" isdata="1">שלא שוו בשיעוריהן: <EndMishna/><StartGemara/>גמ' מאי עצה אמר</row>
+		<row row_number="11" isdata="1">רב יהודה תבן של מיני קטנית כי אתא רב</row>
+		<row row_number="12" isdata="1">דימי אמר המוציא תבן כמלא פי פרה לגמל</row>
+		<row row_number="13" isdata="1">ר' יוחנן אמר חייב ר"ש בן לקיש אמר פטור</row>
+		<row row_number="14" isdata="1">באורתא א"ר יוחנן הכי לצפרא הדר ביה</row>
+		<row row_number="15" isdata="1">אמר רב יוסף שפיר עבד דהדר דהא לא חזי</row>
+		<row row_number="16" isdata="1">לגמל א"ל אביי אדרבה כדמעיקרא מסתברא</row>
+		<row row_number="17" isdata="1">דהא חזי לפרה אלא כי אתא רבין אמר</row>
+		<row row_number="18" isdata="1">המוציא תבן כמלא פי פרה לגמל דכולי עלמא</row>
+		<row row_number="19" isdata="1">לא פליגי דחייב כי פליגי במוציא עצה כמלא</row>
+		<row row_number="20" isdata="1">פי פרה לפרה ואיפכא איתמר ר' יוחנן אמר</row>
+		<row row_number="21" isdata="1">פטור ריש לקיש אמר חייב ר' יוחנן אמר פטור</row>
+		<row row_number="22" isdata="1">אכילה על ידי הדחק לא שמה אכילה ריש</row>
+		<row row_number="23" isdata="1">לקיש אמר חייב אכילה ע"י הדחק שמה</row>
+		<row row_number="24" isdata="1">אכילה: עמיר כמלא פי טלה: והתניא</row>
+		<row row_number="25" isdata="1">כגרוגרת אידי ואידי חד שיעורא הוא:</row>
+		<row row_number="26" isdata="1">עלי שום ועלי בצלים לחים כגרוגרת ויבשים</row>
+		<row row_number="27" isdata="1">כמלא פי הגדי ואין מצטרפין זה עם זה מפני</row>
+		<row row_number="28" isdata="1">שלא שוו בשיעוריהן: אמר ר' יוסי בר חנינא</row>
+		<row row_number="29" isdata="1">[ב] אין מצטרפין לחמור שבהן אבל מצטרפין</row>
+		<row row_number="30" isdata="1">לקל שבהן וכל דלא שוו בשיעורייהו מי</row>
+		<row row_number="31" isdata="1">מצטרפין והתנן הבגד ג' על ג' והשק ד' על</row>
+		<row row_number="32" isdata="1">ד' והעור ה' על ה' מפץ ו' על ו' ותני עלה</row>
+		<row row_number="33" isdata="1">הבגד והשק השק והעור העור והמפץ מצטרפין</row>
+		<row row_number="34" isdata="1">זה עם זה ואמר ר"ש מה טעם מפני שראויין</row>
+		<row row_number="35" isdata="1">ליטמא מושב טעמא דראויין ליטמא מושב</row>
+		<row row_number="36" isdata="1">אבל אין ראוי ליטמא מושב לא אמר רבא</row>
+		<row row_number="37" isdata="0">ה"נ</row>
+</amud>
+</daf>
+</masechet>
+</root>

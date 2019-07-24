@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:39.916090</dateCreated>
+   <lastModified>2016-08-04 11:56:39.916090</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="10">
+	<amud value="1">
+		<row row_number="1" isdata="1">בתרומה דרבנן בחמץ דאורייתא מי אמרינן</row>
+		<row row_number="2" isdata="1">אטו בדיקת חמץ דאורייתא דרבנן היא</row>
+		<row row_number="3" isdata="1">דמדאוריי' בביטול בעלמא סגי ליה צבור</row>
+		<row row_number="4" isdata="1">אחד של חמץ ולפניו ב' בתים בדוקין ואתא</row>
+		<row row_number="5" isdata="1">עכבר ושקל ולא ידעינן אי להאי על אי להאי</row>
+		<row row_number="6" isdata="1">על היינו שני שבילין דתנן שני שבילין א'</row>
+		<row row_number="7" isdata="1">טמא וא' טהור והלך באחד מהן ועשה</row>
+		<row row_number="8" isdata="1">טהרות ובא חבירו והלך בשני ועשה טהרות</row>
+		<row row_number="9" isdata="1">רבי יהודה אומר אם נשאלו זה בפני עצמו</row>
+		<row row_number="10" isdata="1">וזה בפני עצמו טהורין שניהן בבת אחת</row>
+		<row row_number="11" isdata="1">טמאין רבי יוסי אומר בין כך ובין כך טמאין</row>
+		<row row_number="12" isdata="1">אמר רבא ואיתימא רבי יוחנן בבת אחת</row>
+		<row row_number="13" isdata="1">דברי הכל טמאין בזה אחר זה דברי הכל</row>
+		<row row_number="14" isdata="1">טהורין לא נחלקו אלא בבא להשאל עליו</row>
+		<row row_number="15" isdata="1">ועל חבירו רבי יוסי מדמי ליה לבת אחת</row>
+		<row row_number="16" isdata="1">ורבי יהודה מדמי ליה לזה אחר זה ספק על</row>
+		<row row_number="17" isdata="1">ספק לא על היינו בקעה ובפלוגתא דר"א</row>
+		<row row_number="18" isdata="1">ורבנן דתנן הנכנס לבקעה בימות הגשמים</row>
+		<row row_number="19" isdata="1">וטומאה בשדה פלונית ואמר אחד הלכתי</row>
+		<row row_number="20" isdata="1">במקום הלז ואיני יודע אם נכנסתי באותה</row>
+		<row row_number="21" isdata="1">שדה ואם לא נכנסתי ר"א מטהר וחכמים</row>
+		<row row_number="22" isdata="1">מטמאין שהיה ר"א אומר ספק ביאה טהור</row>
+		<row row_number="23" isdata="1">ספק מגע טומאה טמא על ובדק ולא אשכח</row>
+		<row row_number="24" isdata="1">פלוגתא דר"מ ורבנן דתנן היה ר"מ אומר</row>
+		<row row_number="25" isdata="1">כל דבר שבחזקת טומאה לעולם הוא</row>
+		<row row_number="26" isdata="1">בטומאתו עד שיודע לך הטומאה היכן היא</row>
+		<row row_number="27" isdata="1">וחכמים אומרים בודק עד שמגיע לסלע או</row>
+		<row row_number="28" isdata="1">לקרקע בתולה על ובדק ואשכח פלוגתא</row>
+		<row row_number="29" isdata="1">דר' ורשב"ג דתניא שדה שנאבד בה קבר</row>
+		<row row_number="30" isdata="1">הנכנס לתוכה טמא נמצא בה קבר הנכנס</row>
+		<row row_number="31" isdata="1">לתוכה טהור שאני אומר קבר שאבד הוא</row>
+		<row row_number="32" isdata="1">קבר שנמצא דברי ר' רשב"ג אומר תיבדק</row>
+		<row row_number="33" isdata="1">כל השדה כולה הניח ט' ומצא י' פלוגתא</row>
+		<row row_number="34" isdata="1">דר' ורבנן דתניא הניח מנה ומצא מאתים</row>
+		<row row_number="35" isdata="1">חולין ומעשר שני מעורבין זה בזה דברי ר'</row>
+		<row row_number="36" isdata="1">וחכ"א הכל חולין הניח י' ומצא תשע היינו</row>
+		<row row_number="37" isdata="1">סיפא דתניא הניח מאתים ומצא מנה מנה</row>
+		<row row_number="38" isdata="1">מונח ומנה מוטל דברי ר' וחכ"א הכל חולין</row>
+		<row row_number="39" isdata="0">הניח</row>
+</amud>
+</daf>
+</masechet>
+</root>

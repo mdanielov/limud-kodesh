@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:41.631620</dateCreated>
+   <lastModified>2016-08-04 11:57:41.632620</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="68">
+	<amud value="2">
+		<row row_number="1" isdata="1"><StartChapter name = "בן סורר ומורה"/><StartMishna/>בן  סורר ומורה מאימתי נעשה בן סורר</row>
+		<row row_number="2" isdata="1">ומורה משיביא שתי שערות ועד שיקיף</row>
+		<row row_number="3" isdata="1">זקן התחתון ולא העליון אלא שדברו חכמים</row>
+		<row row_number="4" isdata="1">בלשון נקיה שנאמר כי יהיה לאיש בן בן</row>
+		<row row_number="5" isdata="1">ולא בת בן ולא איש קטן פטור שלא בא</row>
+		<row row_number="6" isdata="1">לכלל מצות: <EndMishna/><StartGemara/>גמ' קטן מנלן דפטור מנלן</row>
+		<row row_number="7" isdata="1">כדקתני טעמא שלא בא לכלל מצות ותו</row>
+		<row row_number="8" isdata="1">היכא אשכחן דענש הכתוב דהכא ליבעי</row>
+		<row row_number="9" isdata="1">קרא למיפטריה אנן הכי קאמרינן אטו בן</row>
+		<row row_number="10" isdata="1">סורר ומורה על חטאו נהרג על שם סופו</row>
+		<row row_number="11" isdata="1">נהרג וכיון דעל שם סופו נהרג אפילו קטן</row>
+		<row row_number="12" isdata="1">נמי ועוד בן ולא איש קטן משמע אמר רב</row>
+		<row row_number="13" isdata="1">יהודה אמר רב דאמר קרא וכי יהיה לאיש</row>
+		<row row_number="14" isdata="1">בן בן הסמוך לגבורתו של איש: ועד שיקיף</row>
+		<row row_number="15" isdata="1">זקן התחתון כו': תני רבי חייא עד שיקיף</row>
+		<row row_number="16" isdata="1">עטרה כי אתא רב דימי אמר הקפת גיד</row>
+		<row row_number="17" isdata="1">ולא הקפת ביצים אמר רב חסדא קטן</row>
+		<row row_number="18" isdata="1">שהוליד אין בנו נעשה בן סורר ומורה שנא'</row>
+		<row row_number="19" isdata="1">כי יהיה לאיש בן לאיש בן ולא לבן בן האי</row>
+		<row row_number="20" isdata="1">מיבעי ליה לכדרב יהודה אמר רב א"כ</row>
+		<row row_number="21" isdata="1">לימא קרא כי יהיה בן לאיש מאי כי יהיה</row>
+		<row row_number="22" isdata="1">לאיש בן ש"מ לכדרב חסדא ואימא כוליה</row>
+		<row row_number="23" isdata="1">להכי הוא דאתא אם כן נימא קרא בן איש</row>
+		<row row_number="24" isdata="1">מאי לאיש בן שמע מינה תרתי ופליגא</row>
+		<row row_number="25" isdata="1">דרבה דאמר רבה קטן אינו מוליד שנא' אם</row>
+		<row row_number="26" isdata="1">אין לאיש גואל וכי יש לך אדם בישראל</row>
+		<row row_number="27" isdata="1">שאין לו גואל אלא בגזל הגר הכתוב מדבר</row>
+		<row row_number="28" isdata="0">ואמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

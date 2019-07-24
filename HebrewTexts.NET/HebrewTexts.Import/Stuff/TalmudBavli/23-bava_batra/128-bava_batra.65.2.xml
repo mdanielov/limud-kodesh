@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:33.577159</dateCreated>
+   <lastModified>2016-08-04 11:57:33.577159</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="65">
+	<amud value="2">
+		<row row_number="1" isdata="1">הרי כולן מכורין: <EndMishna/><StartGemara/>גמ' לימא מתניתין דלא</row>
+		<row row_number="2" isdata="1">כר' מאיר דאי ר"מ הא אמר מכר את</row>
+		<row row_number="3" isdata="1">הכרם מכר תשמישי כרם אפי' תימא ר"מ</row>
+		<row row_number="4" isdata="1">התם קביע הכא לא קביע והא מפתח דומיא</row>
+		<row row_number="5" isdata="1">דדלת קתני מה דלת דקביעא אף מפתח</row>
+		<row row_number="6" isdata="1">דקביע אלא מחוורתא מתני' דלא כר"מ</row>
+		<row row_number="7" isdata="1">ת"ר המוכר את הבית מכר את הדלת ואת</row>
+		<row row_number="8" isdata="1">הנגר ואת המנעול אבל לא את המפתח</row>
+		<row row_number="9" isdata="1">מכר את המכתשת החקוקה אבל לא את</row>
+		<row row_number="10" isdata="1">הקבועה מכר האיצטרוביל אבל לא את</row>
+		<row row_number="11" isdata="1">הקלת לא את התנור ולא את הכירים ולא</row>
+		<row row_number="12" isdata="1">את הריחים ר' אליעזר אומר כל המחובר</row>
+		<row row_number="13" isdata="1">לקרקע הרי הוא כקרקע בזמן שאמר לו</row>
+		<row row_number="14" isdata="1">הוא וכל מה שבתוכו הרי כולן מכורין בין</row>
+		<row row_number="15" isdata="1">כך ובין כך לא מכר לא את הבור ולא את</row>
+		<row row_number="16" isdata="1">הדות ולא את היציע ת"ר צינור שחקקו</row>
+		<row row_number="17" isdata="1">ולבסוף קבעו פוסל את המקוה קבעו</row>
+		<row row_number="18" isdata="1">ולבסוף חקקו אינו פוסל את המקוה מני לא</row>
+		<row row_number="19" isdata="1">ר' אליעזר ולא רבנן הי ר' אליעזר אילימא</row>
+		<row row_number="20" isdata="1">ר"א דבית דלמא היינו טעמא דר"א סבר</row>
+		<row row_number="21" isdata="1">מוכר בעין יפה מוכר ורבנן סברי מוכר</row>
+		<row row_number="22" isdata="1">בעין רעה מוכר ואלא ר"א דכוורת דבורים</row>
+		<row row_number="23" isdata="1">דתנן כוורת דבורים רבי אליעזר אומר</row>
+		<row row_number="24" isdata="1">הרי היא כקרקע וכותבין עליה פרוזבול</row>
+		<row row_number="25" isdata="0">ואינה</row>
+</amud>
+</daf>
+</masechet>
+</root>

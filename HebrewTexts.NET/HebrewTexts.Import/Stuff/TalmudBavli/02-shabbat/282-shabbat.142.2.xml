@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:34.335771</dateCreated>
+   <lastModified>2016-08-04 11:56:34.335771</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="142">
+	<amud value="2">
+		<row row_number="1" isdata="1">והא מיפליג פליג עילויה דתניא רבי יהודה</row>
+		<row row_number="2" isdata="1">אומר מעלין את המדומע באחד ומאה רבי</row>
+		<row row_number="3" isdata="1">שמעון בן אלעזר אומר נותן עיניו בצד זה</row>
+		<row row_number="4" isdata="1">ואוכל מצד אחר דרבי יהודה עדיפא מדר"ש</row>
+		<row row_number="5" isdata="1">בן אלעזר<EndGemara/><StartMishna/>: מתני' האבן שע"פ החבית</row>
+		<row row_number="6" isdata="1">מטה על צדה והיא נופלת היתה בין החביות</row>
+		<row row_number="7" isdata="1">מגביה ומטה על צדה והיא נופלת מעות</row>
+		<row row_number="8" isdata="1">שעל הכר מנער את הכר והן נופלות</row>
+		<row row_number="9" isdata="1">היתה עליו לשלשת מקנחה בסמרטוט</row>
+		<row row_number="10" isdata="1">היתה של עור נותנין עליה מים עד שתכלה:</row>
+		<row row_number="11" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב הונא אמר רב לא שנו אלא</row>
+		<row row_number="12" isdata="1">בשוכח אבל במניח נעשה בסיס לדבר</row>
+		<row row_number="13" isdata="1">האסור: [היתה בין החביות כו']: מאן תנא</row>
+		<row row_number="14" isdata="1">דכל היכא דאיכא איסורא והיתרא בהיתרא</row>
+		<row row_number="15" isdata="1">טרחינן באיסורא לא טרחינן אמר רבה בר</row>
+		<row row_number="16" isdata="1">בר חנה אמר רבי יוחנן רשב"ג היא דתנן</row>
+		<row row_number="17" isdata="1">הבורר קטנית ביו"ט ב"ש אומרים בורר</row>
+		<row row_number="18" isdata="1">אוכל ואוכל וב"ה אומרים בורר כדרכו</row>
+		<row row_number="19" isdata="1">בחיקו ובתמחוי ותניא אמר רשב"ג במה</row>
+		<row row_number="20" isdata="1">דברים אמורים שהאוכל מרובה על הפסולת</row>
+		<row row_number="21" isdata="1">אבל פסולת מרובה על האוכל דברי הכל</row>
+		<row row_number="22" isdata="1">בורר אוכל והא הכא דכי אוכל מרובה על</row>
+		<row row_number="23" isdata="1">הפסולת דמי הכא נמי כיון דאי בעי למישקל</row>
+		<row row_number="24" isdata="1">לא משתקיל ליה יין עד דשקיל לה לאבן</row>
+		<row row_number="25" isdata="1">כפסולת מרובה על האוכל דמי: היתה בין</row>
+		<row row_number="26" isdata="1">החביות מגביה: תניא רבי יוסי אומר</row>
+		<row row_number="27" isdata="1">היתה החבית מונחת באוצר או שהיו כלי זכוכית מונחין תחתיה מגביה</row>
+		<row row_number="28" isdata="1">למקום אחר ומטה על צדה והיא נופלת ונוטל הימנה מה שצריך לו</row>
+		<row row_number="29" isdata="1">ומחזירה למקומה: מעות שעל הכר: אמר רב חייא בר אשי אמר רב</row>
+		<row row_number="30" isdata="1">לא שנו אלא בשוכח אבל במניח נעשה בסיס לדבר האסור אמר רבה בר בר</row>
+		<row row_number="31" isdata="1">חנה אמר ר' יוחנן לא שנו אלא לצורך גופו אבל לצורך מקומו מטלטלו</row>
+		<row row_number="32" isdata="1">ועודן עליו וכן תני חייא בר רב מדיפתי לא שנו אלא לצורך גופו אבל לצורך</row>
+		<row row_number="33" isdata="1">מקומו מטלטלו ועודן עליו: מעות שעל הכר מנער וכו': א"ר אושעיא שכח</row>
+		<row row_number="34" isdata="1">ארנקי בחצר מניח עליה ככר או תינוק ומטלטלה אמר רב יצחק שכח לבינה</row>
+		<row row_number="35" isdata="1">בחצר מניח עליה ככר או תינוק ומטלטלה אמר רבי יהודה בר שילא אמר ר' אסי</row>
+		<row row_number="36" isdata="1">פעם אחת שכחו דסקיא מלאה מעות בסרטיא ובאו ושאלו את ר' יוחנן ואמר</row>
+		<row row_number="37" isdata="1">להן הניחו עליה ככר או תינוק וטלטלוה אמר מר זוטרא הלכתא ככל הני</row>
+		<row row_number="38" isdata="1">שמעתתא בשוכח רב אשי אמר אפילו שכח נמי [לא] ולא אמרו ככר או</row>
+		<row row_number="39" isdata="1">תינוק אלא למת בלבד אביי מנח כפא אכיפי רבא מנח סכינא אבר יונה</row>
+		<row row_number="40" isdata="1">ומטלטלה אמר רב יוסף כמה חריפא שמעתתא דדרדקי אימר דאמור רבנן</row>
+		<row row_number="41" isdata="1">בשוכח לכתחילה מי אמור אמר אביי אי לאו דאדם חשוב אנא כפא</row>
+		<row row_number="42" isdata="1">אכיפי למה לי הא חזו למיזגא עלייהו אמר רבא אנא אי לאו דאדם</row>
+		<row row_number="43" isdata="1">חשוב אנא סכינא אבר יונה למה לי הא חזי לי לאומצא טעמא דחזי</row>
+		<row row_number="44" isdata="1">לאומצא הא לא חזי לאומצא לא למימרא דרבא כרבי יהודה סבירא</row>
+		<row row_number="45" isdata="1">ליה והאמר רבא לשמעיה טווי לי בר אווזא ושדי מיעיה לשונרא</row>
+		<row row_number="46" isdata="0">התם</row>
+</amud>
+</daf>
+</masechet>
+</root>

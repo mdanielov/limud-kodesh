@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Tanakh] (
+﻿CREATE TABLE [Import].[Tanakh] (
     [ID]       INT            NOT NULL,
     [BookID]   INT            NOT NULL,
     [Chapter]  INT            NOT NULL,

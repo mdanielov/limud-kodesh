@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:40.727136</dateCreated>
+   <lastModified>2016-08-04 11:56:40.727136</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="29">
+	<amud value="1">
+		<row row_number="1" isdata="1">דישראל נמי מישרא קא שרי ואי ר' יוסי</row>
+		<row row_number="2" isdata="1">הגלילי אפי' תוך זמנו נמי מישרא קא שרי</row>
+		<row row_number="3" isdata="1">בהנאה אמר רב אחא בר יעקב לעולם ר'</row>
+		<row row_number="4" isdata="1">יהודה היא ויליף שאור דאכילה משאור</row>
+		<row row_number="5" isdata="1">דראייה מה שאור דראייה שלך אי אתה</row>
+		<row row_number="6" isdata="1">רואה אבל אתה רואה של אחרים ושל</row>
+		<row row_number="7" isdata="1">גבוה אף שאור דאכילה שלך אי אתה אוכל</row>
+		<row row_number="8" isdata="1">אבל אתה אוכל של אחרים ושל גבוה ובדין</row>
+		<row row_number="9" isdata="1">הוא דאיבעי ליה למיתנא דאפי' באכילה נמי</row>
+		<row row_number="10" isdata="1">שרי ואיידי דתנא דישראל אסור בהנאה</row>
+		<row row_number="11" isdata="1">תנא נמי דנכרי מותר בהנאה ובדין הוא</row>
+		<row row_number="12" isdata="1">דאיבעי ליה למיתנא דאפילו בתוך זמנו מותר</row>
+		<row row_number="13" isdata="1">בהנאה ואיידי דתנא דישראל לאחר זמנו</row>
+		<row row_number="14" isdata="1">תנא נמי דנכרי לאחר זמנו רבא אמר לעולם</row>
+		<row row_number="15" isdata="1">רבי שמעון היא ורבי שמעון קנסא קניס</row>
+		<row row_number="16" isdata="1">הואיל ועבר עליה בבל יראה ובל ימצא</row>
+		<row row_number="17" isdata="1">בשלמא לרבא היינו דקתני של ישראל אסור</row>
+		<row row_number="18" isdata="1">משום שנאמר לא יראה אלא לרב אחא בר</row>
+		<row row_number="19" isdata="1">יעקב משום לא יאכל חמץ מיבעי ליה מי</row>
+		<row row_number="20" isdata="1">סברת אסיפא קאי ארישא קאי והכי קאמר</row>
+		<row row_number="21" isdata="1">חמץ של נכרי שעבר עליו הפסח מותר</row>
+		<row row_number="22" isdata="1">בהנאה משום שנאמר לא יראה לך שלך</row>
+		<row row_number="23" isdata="1">אי אתה רואה אבל אתה רואה של אחרים</row>
+		<row row_number="24" isdata="1">ושל גבוה ויליף שאור דאכילה משאור</row>
+		<row row_number="25" isdata="1">דראייה ואזדו לטעמייהו דאיתמר האוכל</row>
+		<row row_number="26" isdata="1">שאור של נכרי שעבר עליו הפסח לדברי</row>
+		<row row_number="27" isdata="1">ר' יהודה רבא אמר לוקה ורב אחא בר יעקב</row>
+		<row row_number="28" isdata="1">אמר אינו לוקה רבא אמר לוקה לא יליף רבי</row>
+		<row row_number="29" isdata="1">יהודה שאור דאכילה משאור דראייה ורב</row>
+		<row row_number="30" isdata="1">אחא בר יעקב אמר אינו לוקה יליף שאור</row>
+		<row row_number="31" isdata="1">דאכילה משאור דראייה והדר ביה רב אחא</row>
+		<row row_number="32" isdata="1">בר יעקב מההיא דתניא האוכל חמץ של</row>
+		<row row_number="33" isdata="1">הקדש במועד מעל ויש אומרים לא מעל</row>
+		<row row_number="34" isdata="1">מאן יש אומרים אמר רבי יוחנן רבי נחוניא</row>
+		<row row_number="35" isdata="1">בן הקנה היא דתניא ר' נחוניא בן הקנה היה</row>
+		<row row_number="36" isdata="1">עושה את יום הכפורים כשבת לתשלומין</row>
+		<row row_number="37" isdata="1">מה שבת מתחייב בנפשו ופטור מן</row>
+		<row row_number="38" isdata="1">התשלומין אף יום הכפורים מתחייב בנפשו</row>
+		<row row_number="39" isdata="1">ופטור מתשלומין רב יוסף אמר בפודין</row>
+		<row row_number="40" isdata="1">את הקדשים להאכילן לכלבים קמיפלגי</row>
+		<row row_number="41" isdata="1">מאן דאמר מעל קסבר פודין את הקדשים</row>
+		<row row_number="42" isdata="1">להאכילן לכלבים ומאן דאמר לא מעל</row>
+		<row row_number="43" isdata="1">קסבר אין פודין רב אחא בר רבא תנא לה</row>
+		<row row_number="44" isdata="0">להא</row>
+</amud>
+</daf>
+</masechet>
+</root>

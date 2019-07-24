@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:54.849376</dateCreated>
+   <lastModified>2016-08-04 11:57:54.849376</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="25">
+	<amud value="1">
+		<row row_number="1" isdata="1">מתני' נטמא הקומץ והקריבו הציץ מרצה</row>
+		<row row_number="2" isdata="1">יצא והקריבו אין הציץ מרצה שהציץ מרצה</row>
+		<row row_number="3" isdata="1">על הטמא ואינו מרצה על היוצא: <EndMishna/><StartGemara/>גמ' תנו</row>
+		<row row_number="4" isdata="1">רבנן ונשא אהרן את עון הקדשים א] וכי</row>
+		<row row_number="5" isdata="1">איזה עון הוא נושא אם תאמר ב] עון פיגול</row>
+		<row row_number="6" isdata="1">הרי כבר נאמר לא יחשב א"ת עון נותר</row>
+		<row row_number="7" isdata="1">הרי כבר נאמר לא ירצה ג] הא אינו נושא</row>
+		<row row_number="8" isdata="1">אלא עון טומאה שהותרה מכללה בציבור</row>
+		<row row_number="9" isdata="1">מתקיף לה רבי זירא אימא עון יוצא ד] שהותר</row>
+		<row row_number="10" isdata="1">מכללו בבמה אמר ליה אביי אמר קרא</row>
+		<row row_number="11" isdata="1">לרצון להם לפני ה' עון דלפני ה' אין עון</row>
+		<row row_number="12" isdata="1">דיוצא לא מתקיף לה רבי אילעא אימא עון</row>
+		<row row_number="13" isdata="1">שמאל שהותר מכללו ביום הכפורים אמר</row>
+		<row row_number="14" isdata="1">ליה אביי אמר קרא עון עון שהיה בו ודחיתיו</row>
+		<row row_number="15" isdata="1">לאפוקי יוה"כ דהכשירו בשמאל הוא רב אשי</row>
+		<row row_number="16" isdata="1">אמר עון הקדשים ולא עון המקדישין אמר</row>
+		<row row_number="17" isdata="1">ליה רב סימא בריה דרב אידי לרב אשי</row>
+		<row row_number="18" isdata="1">ואמרי לה רב סימא בריה דרב אשי לרב</row>
+		<row row_number="19" isdata="1">אשי ואימא עון בעל מום שהותר מכללו</row>
+		<row row_number="20" isdata="1">בעופות דאמר מר תמות וזכרות בבהמה</row>
+		<row row_number="21" isdata="1">ואין תמות וזכרות בעופות אמר ליה עליך</row>
+		<row row_number="22" isdata="1">אמר קרא לא ירצה ה] כי לא לרצון יהיה</row>
+		<row row_number="23" isdata="1">לכם: תנו רבנן דם שנטמא וזרקו בשוגג</row>
+		<row row_number="24" isdata="1">הורצה במזיד לא הורצה במה דברים אמורים</row>
+		<row row_number="25" isdata="1">ביחיד אבל בציבור בין בשוגג בין במזיד</row>
+		<row row_number="26" isdata="1">הורצה ובעובד כוכבים בין בשוגג בין במזיד בין באונס בין ברצון</row>
+		<row row_number="27" isdata="0">לא</row>
+</amud>
+</daf>
+</masechet>
+</root>

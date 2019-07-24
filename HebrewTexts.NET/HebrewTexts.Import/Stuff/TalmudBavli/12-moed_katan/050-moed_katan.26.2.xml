@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:56.139018</dateCreated>
+   <lastModified>2016-08-04 11:56:56.139018</lastModified>
+ </meta>
+ <masechet name="מועד קטן" serial="12">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1">ובאיחוי אלכסנדרי ת"ר הקורע מתוך</row>
+		<row row_number="2" isdata="1">השלל מתוך המלל מתוך הלקט מתוך</row>
+		<row row_number="3" isdata="1">הסולמות לא יצא מתוך האיחוי יצא אמר</row>
+		<row row_number="4" isdata="1">רב חסדא ובאיחוי אלכסנדרי ת"ר רשאי</row>
+		<row row_number="5" isdata="1">להופכו למטה ולאחותו ר' שמעון בן אלעזר</row>
+		<row row_number="6" isdata="1">אוסר לאחותו וכשם שהמוכר אסור לאחותו</row>
+		<row row_number="7" isdata="1">כך הלוקח אסור לאחותו ולפיכך מוכר צריך</row>
+		<row row_number="8" isdata="1">להודיעו ללוקח ת"ר תחילת קריעה טפח</row>
+		<row row_number="9" isdata="1">ותוספת שלש אצבעות דברי רבי מאיר רבי</row>
+		<row row_number="10" isdata="1">יהודה אומר תחילת קריעה שלש אצבעות</row>
+		<row row_number="11" isdata="1">ותוספת כל שהו אמר עולא הלכה כרבי</row>
+		<row row_number="12" isdata="1">מאיר בקריעה והלכה כרבי יהודה בתוספת</row>
+		<row row_number="13" isdata="1">תניא נמי הכי רבי יוסי אומר תחילת קריעה</row>
+		<row row_number="14" isdata="1">טפח ותוספת כל שהו ת"ר אמרו לו מת</row>
+		<row row_number="15" isdata="1">אביו וקרע מת בנו והוסיף תחתון מתאחה</row>
+		<row row_number="16" isdata="1">עליון אינו מתאחה מת בנו וקרע מת אביו</row>
+		<row row_number="17" isdata="1">והוסיף עליון מתאחה תחתון אינו מתאחה</row>
+		<row row_number="18" isdata="1">מת אביו מת אמו מת אחיו מתה אחותו קורע</row>
+		<row row_number="19" isdata="1">קרע אחד לכולן רבי יהודה בן בתירה אומר</row>
+		<row row_number="20" isdata="1">על כולן קרע אחד על אביו ואמו קרע</row>
+		<row row_number="21" isdata="1">אחד לפי שאין מוסיפין על קרע אביו ואמו</row>
+		<row row_number="22" isdata="1">מאי טעמא אמר רב נחמן בר יצחק לפי</row>
+		<row row_number="23" isdata="1">שאינן בתוספת אמר שמואל הלכה כרבי</row>
+		<row row_number="24" isdata="1">יהודה בן בתירה ומי אמר שמואל הכי</row>
+		<row row_number="25" isdata="1">והאמר שמואל הלכה כדברי המיקל באבל אבילות לחוד קריעה לחוד עד</row>
+		<row row_number="26" isdata="1">היכן קורע עד טיבורו ויש אומרים עד לבו אע"פ שאין ראיה לדבר זכר</row>
+		<row row_number="27" isdata="1">לדבר שנאמר וקרעו לבבכם ואל בגדיכם הגיע לטיבורו מרחיק שלש</row>
+		<row row_number="28" isdata="1">אצבעות וקורע נתמלא מלפניו מחזירו לאחוריו נתמלא מלמעלה הופכו</row>
+		<row row_number="29" isdata="1">מלמטה והקורע מלמטה ומן הצדדין לא יצא אלא שכהן גדול פורם מלמטה</row>
+		<row row_number="30" isdata="1">פליגו בה רב מתנה ומר עוקבא ותרוייהו משמיה דאבוה דשמואל ולוי חד</row>
+		<row row_number="31" isdata="1">אמר כל שבעה קורע לאחר שבעה מוסיף וחד אמר כל שלשים קורע</row>
+		<row row_number="32" isdata="1">לאחר שלשים מוסיף מתקיף לה רבי זירא מאן דאמר כל שבעה קורע אמאי</row>
+		<row row_number="33" isdata="1">דלא ניתן לשוללו אלא הא דאמר מר האשה שוללתו לאלתר ה"נ התם משום</row>
+		<row row_number="34" isdata="1">כבוד אשה הוא מאן דאמר כל שלשים קורע אמאי דלא ניתן לאחותו אלא</row>
+		<row row_number="35" isdata="1">לאביו ולאמו דלא ניתן לאחותו לעולם ה"נ התם משום כבוד אביו ואמו הוא</row>
+		<row row_number="36" isdata="1">ת"ר היוצא בבגד קרוע לפני המת הרי זה גוזל את המתים ואת החיים</row>
+		<row row_number="37" isdata="1">רשב"ג אומר האומר לחבירו השאילני חלוקך ואלך ואבקר את אבא שהוא</row>
+		<row row_number="38" isdata="1">חולה והלך ומצאו שמת קורע ומאחו וכשיבא לביתו מחזיר לו חלוקו ונותן לו</row>
+		<row row_number="39" isdata="1">דמי קרעו ואם לא הודיעו הרי זה לא יגע בו ת"ר חולה שמת לו מת אין מודיעין</row>
+		<row row_number="40" isdata="1">אותו שמת שמא תטרף דעתו עליו ואין מקרעין בפניו ומשתקין את הנשים</row>
+		<row row_number="41" isdata="1">מפניו ומקרעין לקטן מפני עגמת נפש וקורעין על חמיו ועל חמותו מפני</row>
+		<row row_number="42" isdata="1">כבוד אשתו ואמר רב פפא תנא באבל רבתי אבל לא יניח תינוק בתוך חיקו</row>
+		<row row_number="43" isdata="1">מפני שמביאו לידי שחוק ונמצא מתגנה על הבריות: ואין מברין על מטות</row>
+		<row row_number="44" isdata="1">זקופות: ת"ר ההולך לבית האבל אם היה לבו גס בו יברוהו על מטות כפויות</row>
+		<row row_number="45" isdata="1">ואם לאו יברוהו על מטות זקופות רבא איתרע ביה מילתא על לגביה אבא</row>
+		<row row_number="46" isdata="1">בר מרתא דהוא אבא בר מניומי רבא זקיף אבא בר מרתא כפי אמר כמה</row>
+		<row row_number="47" isdata="1">לית ביה דעתא להאי צורבא מרבנן תנו רבנן ההולך ממקום למקום</row>
+		<row row_number="48" isdata="0">אם</row>
+</amud>
+</daf>
+</masechet>
+</root>

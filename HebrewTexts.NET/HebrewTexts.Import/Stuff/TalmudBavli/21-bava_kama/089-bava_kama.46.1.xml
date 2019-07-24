@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:22.412521</dateCreated>
+   <lastModified>2016-08-04 11:57:22.412521</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="46">
+	<amud value="1">
+		<row row_number="1" isdata="1">אבל מועד לגמרי לא משכחת ביה צד תמות</row>
+		<row row_number="2" isdata="1">כלל: ר"א אומר אין לו שמירה אלא סכין</row>
+		<row row_number="3" isdata="1">(כו'): אמר רבה מאי טעמא דר"א דאמר</row>
+		<row row_number="4" isdata="1">קרא ולא ישמרנו שוב אין לו שמירה לזה</row>
+		<row row_number="5" isdata="1">א"ל אביי אלא מעתה דכתיב ולא יכסנו</row>
+		<row row_number="6" isdata="1">נמי שוב אין לו כיסוי לזה וכי תימא הכי</row>
+		<row row_number="7" isdata="1">נמי והתנן כסהו כראוי ונפל לתוכו שור</row>
+		<row row_number="8" isdata="1">או חמור ומת פטור אלא אמר אביי היינו</row>
+		<row row_number="9" isdata="1">טעמיה דר"א כדתניא ר' נתן אומר מניין</row>
+		<row row_number="10" isdata="1">שלא יגדל אדם כלב רע בתוך ביתו ואל</row>
+		<row row_number="11" isdata="1">יעמיד סולם רעוע בתוך ביתו שנאמר ולא</row>
+		<row row_number="12" isdata="1">תשים דמים בביתך:<EndChapter name = "שור שנגח ארבעה וחמשה"/><EndGemara/></row>
+		<row row_number="13" isdata="0">הדרן עלך שור שנגח ארבעה וחמשה</row>
+		<row row_number="14" isdata="1"><StartChapter name = "שור שנגח את הפרה"/><StartMishna/>שור  שנגח את הפרה ונמצא עוברה בצדה ואין ידוע אם עד שלא</row>
+		<row row_number="15" isdata="1">נגחה ילדה אם משנגחה ילדה משלם חצי נזק לפרה ורביע נזק לולד</row>
+		<row row_number="16" isdata="1">וכן פרה שנגחה את השור ונמצא ולדה בצדה ואין ידוע אם עד שלא</row>
+		<row row_number="17" isdata="1">נגחה ילדה אם משנגחה ילדה משתלם חצי נזק מן הפרה ורביע נזק מן</row>
+		<row row_number="18" isdata="1">הולד: <EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר שמואל זו דברי סומכוס דאמר ממון</row>
+		<row row_number="19" isdata="1">המוטל בספק חולקין אבל חכמים אומרים זה כלל גדול בדין המוציא</row>
+		<row row_number="20" isdata="1">מחבירו עליו הראיה למה לי למימר זה כלל גדול בדין אצטריך דאפילו</row>
+		<row row_number="21" isdata="1">ניזק אומר ברי ומזיק אומר שמא המוציא מחבירו עליו הראיה אי</row>
+		<row row_number="22" isdata="1">נמי לכי הא דאתמר המוכר שור לחבירו ונמצא נגחן רב אמר הרי</row>
+		<row row_number="23" isdata="1">זה מקח טעות ושמואל אמר יכול שיאמר לו לשחיטה מכרתיו לך</row>
+		<row row_number="24" isdata="1">אמאי וניחזי אי גברא דזבין לרדיא אי גברא דזבין לנכסתא לא</row>
+		<row row_number="25" isdata="1">צריכא בגברא דזבין להא ולהא וניחזי אי דמי רדיא לרדיא אי דמי</row>
+		<row row_number="26" isdata="1">נכסתא לנכסתא לא צריכא דאוקיר בישרא וקאי בדמי רדיא אמרי</row>
+		<row row_number="27" isdata="0">ואי</row>
+</amud>
+</daf>
+</masechet>
+</root>

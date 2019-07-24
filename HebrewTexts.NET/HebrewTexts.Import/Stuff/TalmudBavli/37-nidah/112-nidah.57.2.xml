@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:58:12.511386</dateCreated>
+   <lastModified>2016-08-04 11:58:12.511386</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="57">
+	<amud value="2">
+		<row row_number="1" isdata="1"><StartChapter name = "הרואה כתם"/><StartMishna/>הרואה  כתם על בשרה כנגד בית</row>
+		<row row_number="2" isdata="1">התורפה מטמאה ושלא כנגד בית</row>
+		<row row_number="3" isdata="1">התורפה טהורה על עקבה ועל ראש גודלה</row>
+		<row row_number="4" isdata="1">טמאה על שוקה ועל פרסותיה מבפנים</row>
+		<row row_number="5" isdata="1">טמאה מבחוץ טהורה ועל הצדדין מכאן</row>
+		<row row_number="6" isdata="1">ומכאן טהורה ראתה על חלוקה מן החגור</row>
+		<row row_number="7" isdata="1">ולמטה טמאה מן החגור ולמעלה טהורה</row>
+		<row row_number="8" isdata="1">ראתה על בית יד של חלוק אם מגיע כנגד</row>
+		<row row_number="9" isdata="1">בית התורפה טמאה ואם לאו טהורה היתה</row>
+		<row row_number="10" isdata="1">פושטתו ומתכסה בו בלילה כל מקום</row>
+		<row row_number="11" isdata="1">שנמצא בו כתם טמאה מפני שהוא חוזר</row>
+		<row row_number="12" isdata="1">וכן בפוליוס: <EndMishna/><StartGemara/>גמ' אמר שמואל בדקה</row>
+		<row row_number="13" isdata="1">קרקע עולם וישבה עליה ומצאה דם עליה</row>
+		<row row_number="14" isdata="1">טהורה שנאמר בבשרה עד שתרגיש</row>
+		<row row_number="15" isdata="1">בבשרה האי בבשרה מיבעי ליה שמטמאה</row>
+		<row row_number="16" isdata="1">בפנים כבחוץ א"כ לימא קרא בבשר מאי</row>
+		<row row_number="17" isdata="1">בבשרה שמע מינה עד שתרגיש בבשרה</row>
+		<row row_number="18" isdata="1">ואכתי מיבעי ליה בבשרה ולא בשפיר ולא</row>
+		<row row_number="19" isdata="1">בחתיכה תרתי שמע מינה תא שמע האשה</row>
+		<row row_number="20" isdata="1">שהיא עושה צרכיה וראתה דם רבי מאיר</row>
+		<row row_number="21" isdata="1">אומר אם עומדת טמאה ואם יושבת טהורה</row>
+		<row row_number="22" isdata="1">היכי דמי אי דארגשה יושבת אמאי טהורה</row>
+		<row row_number="23" isdata="1">אלא לאו דלא ארגשה וקתני עומדת טמאה</row>
+		<row row_number="24" isdata="1">לעולם דארגשה ואימור הרגשת מי רגלים</row>
+		<row row_number="25" isdata="1">הואי עומדת הדור מי רגלים למקור ואייתי דם</row>
+		<row row_number="26" isdata="1">ויושבת טהורה ת"ש עד שהיה נתון תחת הכר</row>
+		<row row_number="27" isdata="1">ונמצא עליו דם אם עגול טהור ואם משוך טמא</row>
+		<row row_number="28" isdata="1">היכי דמי אי דארגישה עגול אמאי טהור אלא</row>
+		<row row_number="29" isdata="1">לאו דלא ארגישה וקתני משוך טמא לא לעולם</row>
+		<row row_number="30" isdata="1">דארגישה ואימור הרגשת עד הואי משוך ודאי</row>
+		<row row_number="31" isdata="1">מגופה אתא עגול טהור תא שמע נמצא על</row>
+		<row row_number="32" isdata="1">שלו טמאין וחייבין בקרבן נמצא על שלה אתיום טמאין וחייבין בקרבן נמצא</row>
+		<row row_number="33" isdata="1">על שלה לאחר זמן טמאים מספק ופטורין מן הקרבן היכי דמי אי דארגישה</row>
+		<row row_number="34" isdata="1">לאחר זמן אמאי פטורין מן הקרבן אלא לאו דלא ארגישה וקתני נמצא על</row>
+		<row row_number="35" isdata="1">שלה אתיום טמאין וחייבין בקרבן לא לעולם דארגישה ואימא הרגשת</row>
+		<row row_number="36" isdata="1">שמש הוה תא שמע נמצאת אתה אומר ג' ספקות באשה על בשרה ספק</row>
+		<row row_number="37" isdata="1">טמא ספק טהור טמא על חלוקה ספק טמא ספק טהור טהור ובמגעות</row>
+		<row row_number="38" isdata="1">ובהיסטות הלך אחר הרוב מאי הלך אחר הרוב לאו אם רוב ימיה טמאין</row>
+		<row row_number="39" isdata="1">טמאה ואע"ג דלא ארגשה לא אם רוב ימיה בהרגשה חזיא טמאה דאימור</row>
+		<row row_number="40" isdata="1">ארגשה ולאו אדעתה אמר מר על בשרה ספק טמא ספק טהור טמא על</row>
+		<row row_number="41" isdata="1">חלוקה ספק טמא ספק טהור טהור ה"ד אי מחגור ולמטה על חלוקה אמאי</row>
+		<row row_number="42" isdata="1">טהור והא תנן מן החגור ולמטה טמא ואי מחגור ולמעלה על בשרה אמאי</row>
+		<row row_number="43" isdata="1">טמא והתנן ראתה דם על בשרה שלא כנגד בית התורפה טהורה אב"א</row>
+		<row row_number="44" isdata="1">מחגור ולמטה ואב"א מחגור ולמעלה אי בעית אימא מחגור ולמטה כגון</row>
+		<row row_number="45" isdata="1">שעברה בשוק של טבחים על בשרה מגופה אתאי דאי מעלמא אתאי על</row>
+		<row row_number="46" isdata="1">חלוקה מיבעי ליה אשתכוחי על חלוקה מעלמא אתא דאי מגופה אתא על</row>
+		<row row_number="47" isdata="1">בשרה מיבעי ליה אשתכוחי ואיבעית אימא מחגור ולמעלה כגון דאזדקרה</row>
+		<row row_number="48" isdata="1">על בשרה ודאי מגופה אתאי דאי מעלמא אתאי על חלוקה איבעי ליה</row>
+		<row row_number="49" isdata="1">אשתכוחי על חלוקה מעלמא אתאי דאי מגופה אתאי על בשרה איבעי</row>
+		<row row_number="50" isdata="1">ליה אשתכוחי קתני מיהת על בשרה ספק טמא ספק טהור טמא ואע"ג</row>
+		<row row_number="51" isdata="1">דלא הרגישה ועוד תנן הרואה כתם על בשרה כנגד בית התורפה טמאה</row>
+		<row row_number="52" isdata="1">ואע"ג דלא הרגישה אמר רב ירמיה מדפתי מודה שמואל שהיא טמאה</row>
+		<row row_number="53" isdata="0">מדרבנן</row>
+</amud>
+</daf>
+</masechet>
+</root>

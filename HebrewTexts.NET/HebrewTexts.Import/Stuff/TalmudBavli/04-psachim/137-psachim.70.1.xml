@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:42.431234</dateCreated>
+   <lastModified>2016-08-04 11:56:42.431234</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="70">
+	<amud value="1">
+		<row row_number="1" isdata="1">לאו חובה היא דאי סלקא דעתך חובה היא</row>
+		<row row_number="2" isdata="1">תיתי בשבת ותיתי במרובה ותיתי בטומאה</row>
+		<row row_number="3" isdata="1">ובמועט מיהו מ"ט אתיא כדתניא חגיגה</row>
+		<row row_number="4" isdata="1">הבאה עם הפסח נאכלת תחילה כדי שיהא</row>
+		<row row_number="5" isdata="1">פסח נאכל על השבע: ונאכלת לשני ימים</row>
+		<row row_number="6" isdata="1">וכו'<EndGemara/><StartMishna/>: מתני' דלא כבן תימא דתניא בן תימא</row>
+		<row row_number="7" isdata="1">אומר חגיגה הבאה עם הפסח הרי היא כפסח</row>
+		<row row_number="8" isdata="1">ואינה נאכלת אלא ליום ולילה וחגיגת חמשה</row>
+		<row row_number="9" isdata="1">עשר נאכלת לשני ימים ולילה אחד וחגיגת</row>
+		<row row_number="10" isdata="1">ארבעה עשר יוצא בה משום שמחה ואין</row>
+		<row row_number="11" isdata="1">יוצא בה משום חגיגה מ"ט דבן תימא</row>
+		<row row_number="12" isdata="1">כדמתני רב לחייא בריה ולא ילין לבקר זבח</row>
+		<row row_number="13" isdata="1">חג הפסח זבח חג זה חגיגה הפסח כמשמעו</row>
+		<row row_number="14" isdata="1">ואמר רחמנא לא ילין איבעיא להו לבן תימא</row>
+		<row row_number="15" isdata="1">נאכלת צלי או אין נאכלת צלי כי אקשיה</row>
+		<row row_number="16" isdata="1">רחמנא לפסח ללינה אבל לצלי לא או דילמא</row>
+		<row row_number="17" isdata="1">לא שנא ת"ש הלילה הזה כולו צלי ואמר</row>
+		<row row_number="18" isdata="1">רב חסדא זו דברי בן תימא שמע מינה</row>
+		<row row_number="19" isdata="1">איבעיא להו לבן תימא באה מן הבקר או</row>
+		<row row_number="20" isdata="1">אינה באה מן הבקר באה מן הנקבות או</row>
+		<row row_number="21" isdata="1">אינה באה מן הנקבות באה בת שתי שנים</row>
+		<row row_number="22" isdata="1">או אינה באה בת שתי שנים כי אקשיה</row>
+		<row row_number="23" isdata="1">רחמנא לפסח למידי דאכילה אבל לכל מילי</row>
+		<row row_number="24" isdata="1">לא או דילמא לא שנא ת"ש חגיגה הבאה</row>
+		<row row_number="25" isdata="1">עם הפסח הרי היא כפסח באה מן הצאן</row>
+		<row row_number="26" isdata="1">ואינה באה מן הבקר באה מן הזכרים ואינה</row>
+		<row row_number="27" isdata="1">באה מן הנקבות באה בת שנתה ואינה באה בת שתי שנים ואינה נאכלת</row>
+		<row row_number="28" isdata="1">אלא ליום ולילה ואינה נאכלת אלא צלי ואינה נאכלת אלא למנויו מאן שמעת</row>
+		<row row_number="29" isdata="1">ליה דאית ליה האי סברא בן תימא שמע מינה כולהו מילתא בעינן ש"מ</row>
+		<row row_number="30" isdata="1">איבעיא להו לבן תימא יש בה משום שבירת עצם או אין בה משום שבירת</row>
+		<row row_number="31" isdata="1">העצם אע"ג דכי אקשיה רחמנא לפסח אמר קרא בו בו ולא בחגיגה או דילמא</row>
+		<row row_number="32" isdata="1">האי בו בכשר ולא בפסול הוא דאתא ת"ש סכין שנמצאת בארבעה עשר</row>
+		<row row_number="33" isdata="1">שוחט בה מיד בשלשה עשר שונה ומטביל קופיץ בין בזה ובין בזה שונה</row>
+		<row row_number="34" isdata="1">ומטביל מני אילימא רבנן מאי שנא סכין דמטביל דחזיא לפסח קופיץ נמי הא</row>
+		<row row_number="35" isdata="1">חזי לחגיגה אלא לאו דבן תימא היא ושמע מינה יש בה משום שבירת העצם</row>
+		<row row_number="36" isdata="1">לא לעולם רבנן וכגון שבא בשבת והא מדקתני סיפא חל ארבעה עשר</row>
+		<row row_number="37" isdata="1">להיות בשבת שוחט בה מיד ובחמשה עשר שוחט בה מיד נמצאת קופיץ</row>
+		<row row_number="38" isdata="1">קשורה לסכין הרי היא כסכין מכלל דרישא לאו בשבת עסקינן ואלא שבא</row>
+		<row row_number="39" isdata="0">במרובה</row>
+</amud>
+</daf>
+</masechet>
+</root>

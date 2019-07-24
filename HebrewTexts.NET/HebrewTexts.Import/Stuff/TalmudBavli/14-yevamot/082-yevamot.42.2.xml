@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:58.827172</dateCreated>
+   <lastModified>2016-08-04 11:56:58.827172</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="42">
+	<amud value="2">
+		<row row_number="1" isdata="1">דלמא איעברה ומעכר חלבה וקטלה ליה</row>
+		<row row_number="2" isdata="1">אי הכי דידיה נמי דידיה ממסמסא ליה</row>
+		<row row_number="3" isdata="1">בביצים וחלב דידה נמי ממסמסא ליה בבצים</row>
+		<row row_number="4" isdata="1">וחלב לא יהב לה בעל וליתבעיניה ליורשים</row>
+		<row row_number="5" isdata="1">אמר אביי אשה בושה לבא לבית דין והורגת</row>
+		<row row_number="6" isdata="1">את בנה: אחת בתולות ואחת בעולות: הי</row>
+		<row row_number="7" isdata="1">ניהו בתולות והי ניהו ארוסות הי ניהו בעולות</row>
+		<row row_number="8" isdata="1">והי ניהו נשואות א"ר יהודה הכי קאמר אחת</row>
+		<row row_number="9" isdata="1">בתולות ואחת בעולות שנתארמלו או</row>
+		<row row_number="10" isdata="1">שנתגרשו בין מן האירוסין בין מן הנשואין</row>
+		<row row_number="11" isdata="1">ר' אלעזר לא על לבי מדרשא אשכחיה לר'</row>
+		<row row_number="12" isdata="1">אסי אמר ליה מאי אמור רבנן בבי מדרשא</row>
+		<row row_number="13" isdata="1">אמר ליה הכי א"ר יוחנן הלכה כר' יוסי מכלל</row>
+		<row row_number="14" isdata="1">דיחידאה פליג עליה אין והתניא הרי</row>
+		<row row_number="15" isdata="1">שהיתה רדופה לילך לבית אביה או שהיה</row>
+		<row row_number="16" isdata="1">לה כעס בבית בעלה או שהיה בעלה חבוש</row>
+		<row row_number="17" isdata="1">בבית האסורין או שהיה בעלה זקן או חולה</row>
+		<row row_number="18" isdata="1">או שהיתה היא חולה או שהפילה אחר</row>
+		<row row_number="19" isdata="1">מיתת בעלה או שהיתה עקרה או זקנה או</row>
+		<row row_number="20" isdata="1">קטנה או אילונית או שאינה ראויה לילד</row>
+		<row row_number="21" isdata="1">צריכה להמתין ג' חדשים דברי ר' מאיר ר'</row>
+		<row row_number="22" isdata="1">יהודה מתיר ליארס ולינשא מיד אמר רבי</row>
+		<row row_number="23" isdata="1">חייא בר אבא חזר בו רבי יוחנן אמר רב יוסף</row>
+		<row row_number="24" isdata="1">אי הדר ביה ממתני' דכרמא הדר ביה דתניא</row>
+		<row row_number="25" isdata="1">אמר ר' ישמעאל בנו של ר' יוחנן בן ברוקה</row>
+		<row row_number="26" isdata="1">שמעתי מפי חכמים בכרם ביבנה כולן</row>
+		<row row_number="27" isdata="1">צריכות להמתין שלשה חדשים אמר ליה ר'</row>
+		<row row_number="28" isdata="1">ירמיה לר' זריקא כי עיילת לקמיה דר' אבהו</row>
+		<row row_number="29" isdata="1">רמי ליה מי אמר רבי יוחנן הלכה כרבי יוסי</row>
+		<row row_number="30" isdata="1">והאמר ר' יוחנן הלכה כסתם משנה ותנן כל</row>
+		<row row_number="31" isdata="1">הנשים לא ינשאו ולא יתארסו עד שיהו להם</row>
+		<row row_number="32" isdata="1">שלשה חדשים אחת בתולות ואחת בעולות</row>
+		<row row_number="33" isdata="1">אמר ליה דרמא לך הא לא חש לקמחיה</row>
+		<row row_number="34" isdata="1">סתם ואח"כ מחלוקת היא ואין הלכה כסתם</row>
+		<row row_number="35" isdata="1">דאמר רב פפא ואיתימא ר' יוחנן מחלוקת</row>
+		<row row_number="36" isdata="1">ואחר כך סתם הלכה כסתם סתם ואחר כך</row>
+		<row row_number="37" isdata="1">מחלוקת אין הלכה כסתם מסתמיך ואזיל ר'</row>
+		<row row_number="38" isdata="1">אבהו אכתפיה דרבי נחום שמעיה מנקיט</row>
+		<row row_number="39" isdata="1">ואזיל הלכתא מיניה בעא מיניה מחלוקת</row>
+		<row row_number="40" isdata="1">ואחר כך סתם מאי א"ל הלכה כסתם סתם</row>
+		<row row_number="41" isdata="1">ואחר כך מחלוקת מאי אמר ליה אין הלכה כסתם סתמא דמתני' ומחלוקת</row>
+		<row row_number="42" isdata="1">בברייתא מאי א"ל הלכה כסתם מחלוקת במתני' וסתמא בברייתא מאי א"ל</row>
+		<row row_number="43" isdata="0">וכי</row>
+</amud>
+</daf>
+</masechet>
+</root>

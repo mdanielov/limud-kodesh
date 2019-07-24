@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:26.995783</dateCreated>
+   <lastModified>2016-08-04 11:57:26.995783</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="37">
+	<amud value="1">
+		<row row_number="1" isdata="1">אף בראשונה הלכה כמותו או אין הלכה</row>
+		<row row_number="2" isdata="1">כמותו אמר ליה חלוק היה ר' יוסי אף</row>
+		<row row_number="3" isdata="1">בראשונה והלכה כמותו אף בראשונה</row>
+		<row row_number="4" isdata="1">אתמר נמי אמר ר' אלעזר חלוק היה ר' יוסי</row>
+		<row row_number="5" isdata="1">אף בראשונה והלכה כמותו אף בראשונה</row>
+		<row row_number="6" isdata="1">ור' יוחנן אמר מודה היה ר' יוסי בראשונה</row>
+		<row row_number="7" isdata="1">שכבר שילם שילם אין לא שילם לא והאמר</row>
+		<row row_number="8" isdata="1">ר' חייא בר אבא א"ר יוחנן לא שילם שילם</row>
+		<row row_number="9" isdata="1">ממש אלא כיון שאמר הריני משלם אע"פ</row>
+		<row row_number="10" isdata="1">שלא שילם אימא מודה היה ר' יוסי</row>
+		<row row_number="11" isdata="1">בראשונה שכבר אמר הריני משלם:</row>
+		<row row_number="12" isdata="1">מתני' אמר לשנים גזלתי לאחד מכם מנה</row>
+		<row row_number="13" isdata="1">ואיני יודע איזה מכם או אביו של אחד מכם</row>
+		<row row_number="14" isdata="1">הפקיד לי מנה ואיני יודע איזה הוא נותן לזה</row>
+		<row row_number="15" isdata="1">מנה ולזה מנה שהודה מפי עצמו שנים</row>
+		<row row_number="16" isdata="1">שהפקידו אצל אחד זה מנה וזה מאתים זה</row>
+		<row row_number="17" isdata="1">אומר שלי מאתים וזה אומר שלי מאתים נותן</row>
+		<row row_number="18" isdata="1">לזה מנה ולזה מנה והשאר יהא מונח עד</row>
+		<row row_number="19" isdata="1">שיבא אליהו א"ר יוסי א"כ מה הפסיד</row>
+		<row row_number="20" isdata="1">הרמאי אלא הכל יהא מונח עד שיבא אליהו</row>
+		<row row_number="21" isdata="1">וכן שני כלים אחד יפה מנה ואחד יפה אלף</row>
+		<row row_number="22" isdata="1">זוז זה אומר יפה שלי וזה אומר יפה שלי נותן</row>
+		<row row_number="23" isdata="1">את הקטן לאחד מהן ומתוך הגדול נותן דמי</row>
+		<row row_number="24" isdata="1">קטן לשני והשאר יהא מונח עד שיבא אליהו</row>
+		<row row_number="25" isdata="1">א"ר יוסי א"כ מה הפסיד הרמאי אלא הכל</row>
+		<row row_number="26" isdata="1">יהא מונח עד שיבא אליהו: <EndMishna/><StartGemara/>גמ' אלמא</row>
+		<row row_number="27" isdata="1">מספיקא מפקינן ממונא ולא אמרינן אוקי</row>
+		<row row_number="28" isdata="1">ממונא בחזקת מריה ורמינהי שנים שהפקידו</row>
+		<row row_number="29" isdata="1">אצל אחד זה מנה וזה מאתים זה אומר</row>
+		<row row_number="30" isdata="1">שלי מאתים וזה אומר שלי מאתים נותן לזה</row>
+		<row row_number="31" isdata="1">מנה ולזה מנה והשאר יהא מונח עד שיבא</row>
+		<row row_number="32" isdata="1">אליהו א"ל פקדון אגזל קא רמית גזל דעבד</row>
+		<row row_number="33" isdata="1">איסורא קנסוהו רבנן פקדון דלא עבד איסורא</row>
+		<row row_number="34" isdata="1">לא קנסוהו רבנן ורמי פקדון אפקדון ורמי גזל</row>
+		<row row_number="35" isdata="1">אגזל פקדון אפקדון דקתני רישא או אביו</row>
+		<row row_number="36" isdata="1">של אחד מכם הפקיד אצלי מנה ואיני יודע</row>
+		<row row_number="37" isdata="1">איזה הוא נותן לזה מנה ולזה מנה ורמינהי</row>
+		<row row_number="38" isdata="1">שנים שהפקידו וכו' אמר רבא רישא נעשה</row>
+		<row row_number="39" isdata="1">כמי שהפקידו לו בשני כריכות דהוה ליה</row>
+		<row row_number="40" isdata="1">למידק סיפא נעשה כמי שהפקידו לו בכרך אחד דלא הוה ליה למידק כגון</row>
+		<row row_number="41" isdata="1">דאפקידו תרוייהו בהדי הדדי בחד זימנא דאמר להו אנת גופייכו לא קפדיתו</row>
+		<row row_number="42" isdata="1">אהדדי אנא קפידנא ורמי גזל אגזל קתני הכא אמר לשנים גזלתי לאחד מכם</row>
+		<row row_number="43" isdata="1">מנה ואיני יודע איזה מכם או אביו של אחד מכם הפקיד לי מנה ואיני יודע</row>
+		<row row_number="44" isdata="1">איזהו נותן לזה מנה ולזה מנה ורמינהי גזל אחד מחמשה ואינו יודע</row>
+		<row row_number="45" isdata="1">איזה מהן גזל זה אומר אותי גזל וזה אומר אותי גזל מניח גזילה ביניהם</row>
+		<row row_number="46" isdata="1">ומסתלק דברי ר"ט אלמא מספיקא לא מפקינן ממונא ואמרינן אוקים</row>
+		<row row_number="47" isdata="1">ממונא בחזקת מריה וממאי דמתני' דהכא ר"ט היא דקתני עלה דההיא מודה</row>
+		<row row_number="48" isdata="1">ר"ט באומר לשנים גזלתי לאחד מכם מנה ואיני יודע איזה מכם שנותן</row>
+		<row row_number="49" isdata="1">לזה מנה ולזה מנה התם דקא תבעי ליה הכא בבא לצאת ידי שמים דיקא</row>
+		<row row_number="50" isdata="1">נמי דקתני שהודה מפי עצמו שמע מינה אמר מר התם דקא תבעי ליה</row>
+		<row row_number="51" isdata="1">והלה מה טוען רב יהודה אמר רב הלה שותק רב מתנה אמר רב הלה</row>
+		<row row_number="52" isdata="0">צווח</row>
+</amud>
+</daf>
+</masechet>
+</root>

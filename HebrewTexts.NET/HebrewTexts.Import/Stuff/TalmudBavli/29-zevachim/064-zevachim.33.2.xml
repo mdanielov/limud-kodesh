@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:50.229112</dateCreated>
+   <lastModified>2016-08-04 11:57:50.229112</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="33">
+	<amud value="2">
+		<row row_number="1" isdata="1">רבינא אמר לענין מלקות איתמר כי אתא</row>
+		<row row_number="2" isdata="1">רבין אמר רבי אבהו לענין טמא שנגע בקודש</row>
+		<row row_number="3" isdata="1">איתמר דאיתמר טמא שנגע בקודש ריש</row>
+		<row row_number="4" isdata="1">לקיש אמר לוקה רבי יוחנן אמר אינו לוקה</row>
+		<row row_number="5" isdata="1">ריש לקיש אמר לוקה בכל קודש לא תגע</row>
+		<row row_number="6" isdata="1">ורבי יוחנן אמר אינו לוקה א] ההוא בתרומה</row>
+		<row row_number="7" isdata="1">כתיב וריש לקיש האי קרא להכי הוא דאתא</row>
+		<row row_number="8" isdata="1">האי מיבעי ליה אזהרה לאוכל בשר קודש</row>
+		<row row_number="9" isdata="1">דאיתמר אזהרה לאוכל בשר קודש מנין</row>
+		<row row_number="10" isdata="1">ריש לקיש אמר בכל קודש לא תגע רבי</row>
+		<row row_number="11" isdata="1">יוחנן אמר תני ברדלא אתיא טומאתו</row>
+		<row row_number="12" isdata="1">טומאתו מביאת מקדש מה להלן ענש</row>
+		<row row_number="13" isdata="1">והזהיר אף כאן ענש והזהיר טמא שנגע</row>
+		<row row_number="14" isdata="1">בקודש מדאפקה רחמנא בלשון נגיעה</row>
+		<row row_number="15" isdata="1">אזהרה לאוכל מדאיתקש קודש למקדש</row>
+		<row row_number="16" isdata="1">תניא כוותיה דריש לקיש בכל קודש לא</row>
+		<row row_number="17" isdata="1">תגע אזהרה לאוכל אתה אומר אזהרה לאוכל</row>
+		<row row_number="18" isdata="1">או אינו אלא לנוגע תלמוד לומר בכל קודש</row>
+		<row row_number="19" isdata="1">לא תגע ואל המקדש לא תבא מקיש</row>
+		<row row_number="20" isdata="1">קודש למקדש מה מקדש דבר שיש בו</row>
+		<row row_number="21" isdata="0">נטילת</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:37.035357</dateCreated>
+   <lastModified>2016-08-04 11:57:37.035357</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="139">
+	<amud value="1">
+		<row row_number="1" isdata="1">והא תניא שמין את המחוברין ללוקח אמר</row>
+		<row row_number="2" isdata="1">עולא לא קשיא כאן בבנו כאן באחר</row>
+		<row row_number="3" isdata="1">הואיל ודעתו של אדם קרובה אצל בנו:</row>
+		<row row_number="4" isdata="1">מתני' הניח בנים גדולים וקטנים אין</row>
+		<row row_number="5" isdata="1">הגדולים מתפרנסין על ידי הקטנים ולא</row>
+		<row row_number="6" isdata="1">הקטנים נזונין על הגדולים אלא חולקין</row>
+		<row row_number="7" isdata="1">בשוה נשאו הגדולים ישאו הקטנים ואם</row>
+		<row row_number="8" isdata="1">אמרו קטנים הרי אנו נושאין כדרך שנשאתם</row>
+		<row row_number="9" isdata="1">אתם אין שומעין להם אלא מה שנתן להם</row>
+		<row row_number="10" isdata="1">אביהם נתן הניח בנות גדולות וקטנות אין</row>
+		<row row_number="11" isdata="1">הגדולות מתפרנסות על ידי הקטנות ולא</row>
+		<row row_number="12" isdata="1">הקטנות נזונות על הגדולות אלא חולקות</row>
+		<row row_number="13" isdata="1">בשוה נשאו גדולות ישאו קטנות ואם אמרו</row>
+		<row row_number="14" isdata="1">קטנות הרי אנו נושאות כדרך שנשאתם אתם אין שומעין להן זה חומר בבנות</row>
+		<row row_number="15" isdata="1">מבבנים שהבנות נזונות על הבנים ואין נזונות על הבנות: <EndMishna/><StartGemara/>גמ' אמר רבא</row>
+		<row row_number="16" isdata="1">האי גדול אחי דלבש ואיכסי מביתא מאי דעבד עבד והא אנן תנן אין</row>
+		<row row_number="17" isdata="1">הגדולים מתפרנסין על הקטנים מתני' בשרכא שרכא פשיטא מהו דתימא</row>
+		<row row_number="18" isdata="1">ניחא להו דלא נינוול קמ"ל: נשאו גדולים ישאו קטנים: מאי קאמר אמר רב</row>
+		<row row_number="19" isdata="1">יהודה הכי קאמר נשאו גדולים לאחר מיתת אביהן ישאו קטנים לאחר מיתת</row>
+		<row row_number="20" isdata="1">אביהן אבל נשאו גדולים בחיי אביהן ואמרו קטנים לאחר מיתת אביהן</row>
+		<row row_number="21" isdata="1">הרי אנו נושאין כדרך שנשאתם אתם אין שומעין להן אלא מה שנתן להן</row>
+		<row row_number="22" isdata="1">אביהן נתן: הניח בנות גדולות וקטנות: שלח ליה אבוה בר גניבא לרבא</row>
+		<row row_number="23" isdata="1">ילמדנו רבינו לוותה ואכלה ועמדה ונשאת בעל לוקח הוי או יורש הוי</row>
+		<row row_number="24" isdata="1">לוקח הוי ומלוה על פה אינו גובה מן הלקוחות או דלמא יורש הוי</row>
+		<row row_number="25" isdata="1">ומלוה על פה גובה מן היורשין אמר ליה תנינא נשאו גדולות ישאו קטנות</row>
+		<row row_number="26" isdata="1">מאי לאו נשאו גדולות לבעל ישאו קטנות מבעל לא נשאו גדולות לבעל</row>
+		<row row_number="27" isdata="1">ישאו קטנות לבעל איני והא תני ר' חייא נשאו גדולות לבעל ישאו</row>
+		<row row_number="28" isdata="1">קטנות מבעל דלמא שאני פרנסה דאית לה קלא א"ל רב פפא לרבא</row>
+		<row row_number="29" isdata="1">לאו היינו דשלח רבין באגרתיה מי שמת והניח אלמנה ובת אלמנתו</row>
+		<row row_number="30" isdata="1">נזונת מנכסיו נשאת הבת אלמנתו נזונת מנכסיו מתה הבת אמר רב</row>
+		<row row_number="31" isdata="1">יהודה בן אחותו של ר' יוסי (בן) חנינא ע"י היה מעשה ואמרו אלמנתו</row>
+		<row row_number="32" isdata="1">נזונת מנכסיו אי אמרת בשלמא יורש הוי משום הכי אלמנתו נזונת מנכסיו</row>
+		<row row_number="33" isdata="1">אלא אי אמרת לוקח הוי אמאי נזונת מנכסיו אמר אביי אי לאו דשלח</row>
+		<row row_number="34" isdata="1">רבין אנן לא ידעינן והא תנן אלו הן שאין חוזרין ביובל הבכורה</row>
+		<row row_number="35" isdata="0">והיורש</row>
+</amud>
+</daf>
+</masechet>
+</root>

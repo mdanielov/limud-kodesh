@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:38.356001</dateCreated>
+   <lastModified>2016-08-04 11:56:38.356001</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="76">
+	<amud value="1">
+		<row row_number="1" isdata="1">זה נעשה בית שער לזה וזה נעשה בית</row>
+		<row row_number="2" isdata="1">שער לזה אמצעי הוה ליה בית שמניחין</row>
+		<row row_number="3" isdata="1">בו עירוב ואין צריך ליתן את הפת בדיק</row>
+		<row row_number="4" isdata="1">להו רחבה לרבנן ב' חצרות וב' בתים ביניהם</row>
+		<row row_number="5" isdata="1">זה בא דרך זה ונתן עירובו בזה וזה בא</row>
+		<row row_number="6" isdata="1">דרך זה ונתן עירובו בזה קנו עירוב או לא</row>
+		<row row_number="7" isdata="1">מי משוי' להו לגבי דהאי בית ולגבי דהאי</row>
+		<row row_number="8" isdata="1">בית שער [ולגבי דהאי בית שער ולגבי</row>
+		<row row_number="9" isdata="1">דהאי בית] אמרו ליה שניהן לא קנו עירוב</row>
+		<row row_number="10" isdata="1">מה נפשך אי בית שער משוית ליה הנותן</row>
+		<row row_number="11" isdata="1">את עירובו בבית שער אכסדרה ומרפסת</row>
+		<row row_number="12" isdata="1">אינו עירוב אי בית משוית ליה קא מטלטל</row>
+		<row row_number="13" isdata="1">לבית דלא מערב ליה ומאי שנא מדרבא</row>
+		<row row_number="14" isdata="1">דאמר רבא אמרו לו שנים צא וערב עלינו</row>
+		<row row_number="15" isdata="1">לאחד עירב עליו מבעוד יום ולא' עירב</row>
+		<row row_number="16" isdata="1">עליו בין השמשות זה שעירב עליו מבעוד</row>
+		<row row_number="17" isdata="1">יום נאכל עירובו בין השמשות וזה שעירב</row>
+		<row row_number="18" isdata="1">עליו בין השמשות נאכל עירובו משתחשך</row>
+		<row row_number="19" isdata="1">שניהם קנו עירוב הכי השתא התם ספק</row>
+		<row row_number="20" isdata="1">יממא ספק ליליא לא מינכרא מילתא אבל</row>
+		<row row_number="21" isdata="1">הכא אי דלגבי דהאי בית לגבי דהאי בית</row>
+		<row row_number="22" isdata="1">אי לגבי דהאי בית שער לגבי דהאי נמי</row>
+		<row row_number="23" isdata="1">בית שער:<EndChapter name = "במה אשה"/><EndGemara/></row>
+		<row row_number="24" isdata="0">הדרן עלך הדר</row>
+		<row row_number="25" isdata="1"><StartChapter name = "כלל גדול"/><StartMishna/>חלון  שבין ב' חצירות ד' על ד' בתוך</row>
+		<row row_number="26" isdata="1">עשרה מערבין שנים ואם רצו</row>
+		<row row_number="27" isdata="1">מערבין א' פחות מד' על ד' או למעלה מי'</row>
+		<row row_number="28" isdata="1">מערבין שנים ואין מערבין אחד: <EndMishna/><StartGemara/>גמ' לימא</row>
+		<row row_number="29" isdata="1">תנן סתמא כר"ש בן גמליאל דאמר כל</row>
+		<row row_number="30" isdata="1">פחות מד' כלבוד דמי אפי' תימא כרבנן</row>
+		<row row_number="31" isdata="1">עד כאן לא פליגי רבנן עליה דרשב"ג אלא</row>
+		<row row_number="32" isdata="1">לענין לבודין אבל לענין פתחא אפי' רבנן</row>
+		<row row_number="33" isdata="1">מודו דאי איכא ד' על ד' חשיב ואי לא</row>
+		<row row_number="34" isdata="1">לא חשיב: פחות מד' וכו': פשיטא כיון</row>
+		<row row_number="35" isdata="1">דאמר ד' על ד' בתוך עשרה ממילא אנא</row>
+		<row row_number="36" isdata="1">ידענא דפחות מד' ולמעלה מי' לא הא קמ"ל</row>
+		<row row_number="37" isdata="1">טעמא דכוליה למעלה מי' אבל מקצתו בתוך י' מערבין שנים ואם</row>
+		<row row_number="38" isdata="1">רצו מערבין אחד תנינא להא דת"ר כולו למעלה מי' ומקצתו בתוך</row>
+		<row row_number="39" isdata="1">עשרה כולו בתוך י' ומקצתו למעלה מי' מערבין שנים ואם רצו</row>
+		<row row_number="40" isdata="1">מערבין אחד השתא כולו למעלה מי' ומקצתו בתוך י' אמרת מערבין</row>
+		<row row_number="41" isdata="1">שנים ואם רצו מערבין א' כולו בתוך י' ומקצתו למעלה מי' מיבעיא זו</row>
+		<row row_number="42" isdata="1">ואצ"ל זו קתני א"ר יוחנן חלון עגול צריך שיהא בהיקפו עשרים וארבעה</row>
+		<row row_number="43" isdata="1">טפחים ושנים ומשהו מהן בתוך י' שאם ירבענו נמצא משהו בתוך י' מכדי</row>
+		<row row_number="44" isdata="1">כל שיש בהיקפו שלשה טפחים יש בו ברוחבו טפח בתריסר סגיא</row>
+		<row row_number="45" isdata="0">הני</row>
+</amud>
+</daf>
+</masechet>
+</root>

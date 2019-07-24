@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:34.487211</dateCreated>
+   <lastModified>2016-08-04 11:57:34.487211</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="84">
+	<amud value="2">
+		<row row_number="1" isdata="1">יין וחומץ מין אחד הוא רבי אומר שני מינין</row>
+		<row row_number="2" isdata="1">אפילו תימא רבנן עד כאן לא פליגי רבנן</row>
+		<row row_number="3" isdata="1">עליה דרבי אלא לענין מעשר ותרומה וכדר'</row>
+		<row row_number="4" isdata="1">אלעא דאמר רבי אלעא מנין לתורם מן</row>
+		<row row_number="5" isdata="1">הרעה על היפה שתרומתו תרומה שנאמר</row>
+		<row row_number="6" isdata="1">ולא תשאו עליו חטא בהרימכם את חלבו</row>
+		<row row_number="7" isdata="1">ממנו אם אינו קדוש נשיאות חטא למה מכאן</row>
+		<row row_number="8" isdata="1">לתורם מן הרעה על היפה שתרומתו תרומה</row>
+		<row row_number="9" isdata="1">אבל לענין מקח וממכר דכולי עלמא איכא</row>
+		<row row_number="10" isdata="1">דניחא ליה בחמרא ולא ניחא ליה בחלא</row>
+		<row row_number="11" isdata="1">ואיכא דניחא ליה בחלא ולא ניחא ליה</row>
+		<row row_number="12" isdata="1">בחמרא<EndGemara/><StartMishna/>: מתני' המוכר פירות לחבירו</row>
+		<row row_number="13" isdata="1">משך ולא מדד קנה מדד ולא משך לא קנה</row>
+		<row row_number="14" isdata="1">אם היה פיקח שוכר את מקומן הלוקח</row>
+		<row row_number="15" isdata="1">פשתן מחבירו הרי זה לא קנה עד שיטלטלנו</row>
+		<row row_number="16" isdata="1">ממקום למקום ואם היה מחובר לקרקע</row>
+		<row row_number="17" isdata="1">ותלש כל שהוא קנה: <EndMishna/><StartGemara/>גמ' א"ר אסי א"ר</row>
+		<row row_number="18" isdata="1">יוחנן מדד והניח על גבי סימטא קנה א"ל ר'</row>
+		<row row_number="19" isdata="1">זירא לרבי אסי שמא לא שמע רבי אלא</row>
+		<row row_number="20" isdata="1">במודד לתוך קופתו א"ל דמי האי מרבנן</row>
+		<row row_number="21" isdata="1">כדלא גמרי אינשי שמעתא מדד לתוך קופתו</row>
+		<row row_number="22" isdata="1">מימרא בעי קיבלה מיניה או לא קיבלה</row>
+		<row row_number="23" isdata="1">מיניה תא שמע דאמר ר' ינאי אמר רבי חצר</row>
+		<row row_number="24" isdata="1">השותפין קונין זה מזה מאי לאו על גבי</row>
+		<row row_number="25" isdata="1">קרקע לא לתוך קופתו הכי נמי מסתברא</row>
+		<row row_number="26" isdata="1">דא"ר יעקב א"ר יוחנן מדד והניח על גבי</row>
+		<row row_number="27" isdata="1">סימטא לא קנה קשיין אהדדי אלא לאו ש"מ</row>
+		<row row_number="28" isdata="1">כאן במודד לתוך קופתו כאן במודד על</row>
+		<row row_number="29" isdata="1">גבי קרקע שמע מינה תא שמע מדד ולא</row>
+		<row row_number="30" isdata="1">משך לא קנה מאי לאו בסימטא לא ברשות</row>
+		<row row_number="31" isdata="1">הרבים אי הכי אימא רישא משך ולא מדד</row>
+		<row row_number="32" isdata="1">קנה משיכה ברשות הרבים מי קניא והא</row>
+		<row row_number="33" isdata="1">אביי ורבא דאמרי תרוייהו מסירה קונה</row>
+		<row row_number="34" isdata="1">ברשות הרבים ובחצר שאינה של שניהן</row>
+		<row row_number="35" isdata="1">משיכה קונה בסימטא ובחצר שהיא של</row>
+		<row row_number="36" isdata="1">שניהן והגבהה קונה בכל מקום מאי משך</row>
+		<row row_number="37" isdata="1">נמי דקתני מרה"ר לסימטא אי הכי אימא</row>
+		<row row_number="38" isdata="1">סיפא אם היה פיקח שוכר את מקומן ואי</row>
+		<row row_number="39" isdata="1">ברה"ר ממאן אגר הכי קאמר ואם ברשות</row>
+		<row row_number="40" isdata="1">בעלים היא אם היה פיקח שוכר את מקומן רב ושמואל דאמרי תרוייהו</row>
+		<row row_number="41" isdata="0">כליו</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:33.059130</dateCreated>
+   <lastModified>2016-08-04 11:57:33.060130</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="54">
+	<amud value="2">
+		<row row_number="1" isdata="1">ושאינה מסויימת במצריה עד כמה אמר רב</row>
+		<row row_number="2" isdata="1">פפא כדאזיל תיירא דשורי והדר אמר רב</row>
+		<row row_number="3" isdata="1">יהודה אמר שמואל נכסי עובד כוכבים הרי הן</row>
+		<row row_number="4" isdata="1">כמדבר כל המחזיק בהן זכה בהן מ"ט עובד</row>
+		<row row_number="5" isdata="1">כוכבים מכי מטו זוזי לידיה אסתלק ליה ישראל</row>
+		<row row_number="6" isdata="1">לא קני עד דמטי שטרא לידיה הלכך הרי הן</row>
+		<row row_number="7" isdata="1">כמדבר וכל המחזיק בהן זכה בהן א"ל אביי</row>
+		<row row_number="8" isdata="1">לרב יוסף מי אמר שמואל הכי והאמר</row>
+		<row row_number="9" isdata="1">שמואל דינא דמלכותא דינא ומלכא אמר לא</row>
+		<row row_number="10" isdata="1">ליקני ארעא אלא באיגרתא אמר ליה אנא לא</row>
+		<row row_number="11" isdata="1">ידענא עובדא הוה בדורא דרעותא בישראל</row>
+		<row row_number="12" isdata="1">דזבן ארעא מעובד כוכבי' ואתא ישראל אחרינא</row>
+		<row row_number="13" isdata="1">רפיק בה פורתא אתא לקמיה דרב יהודה</row>
+		<row row_number="14" isdata="1">אוקמה בידא דשני א"ל דורא דרעותא קאמרת</row>
+		<row row_number="15" isdata="1">התם באגי מטמרי הוו דאינהו גופייהו לא הוו</row>
+		<row row_number="16" isdata="1">יהבי טסקא למלכא ומלכא אמר מאן דיהיב</row>
+		<row row_number="17" isdata="1">טסקא ליכול ארעא רב הונא זבן ארעא מעובד</row>
+		<row row_number="18" isdata="1">כוכבים אתא ישראל אחר רפיק בה פורתא</row>
+		<row row_number="19" isdata="1">אתא לקמיה דרב נחמן אוקמה בידיה א"ל</row>
+		<row row_number="20" isdata="1">מאי דעתיך דאמר שמואל נכסי עובד כוכבים</row>
+		<row row_number="21" isdata="1">הרי הן כמדבר וכל המחזיק בהם זכה</row>
+		<row row_number="22" isdata="0">ליעבד</row>
+</amud>
+</daf>
+</masechet>
+</root>

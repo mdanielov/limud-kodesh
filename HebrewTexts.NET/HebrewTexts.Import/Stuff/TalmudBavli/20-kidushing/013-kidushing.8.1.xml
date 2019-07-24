@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:17.754254</dateCreated>
+   <lastModified>2016-08-04 11:57:17.754254</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="8">
+	<amud value="1">
+		<row row_number="1" isdata="1">אף שוה כסף נמי דקייץ אמר רב יוסף מנא</row>
+		<row row_number="2" isdata="1">אמינא לה דתניא מכסף מקנתו בכסף הוא</row>
+		<row row_number="3" isdata="1">נקנה ואינו נקנה בתבואה וכלים האי תבואה</row>
+		<row row_number="4" isdata="1">וכלים היכי דמי אילימא דלא מקנו בהו כלל</row>
+		<row row_number="5" isdata="1">ישיב גאולתו אמר רחמנא לרבות שוה</row>
+		<row row_number="6" isdata="1">כסף ככסף ואי דלית בהו שוה פרוטה מאי</row>
+		<row row_number="7" isdata="1">איריא תבואה וכלים אפי' כסף נמי אלא לאו</row>
+		<row row_number="8" isdata="1">דאית בהו שוה פרוטה וכיון דלא קייצי לא</row>
+		<row row_number="9" isdata="1">ואידך ה"ק בתורת כסף הוא נקנה ואין נקנה</row>
+		<row row_number="10" isdata="1">בתורת תבואה וכלים ומאי נינהו חליפין</row>
+		<row row_number="11" isdata="1">ולרב נחמן דאמר פירות לא עבדי חליפין</row>
+		<row row_number="12" isdata="1">מאי איכא למימר אלא לעולם דלית בהו שוה</row>
+		<row row_number="13" isdata="1">פרוטה ודקאמרת מאי איריא תבואה וכלים</row>
+		<row row_number="14" isdata="1">אפי' כסף נמי לא מיבעיא קאמר לא מיבעיא</row>
+		<row row_number="15" isdata="1">כסף דאי אית ביה שוה פרוטה אין אי לא</row>
+		<row row_number="16" isdata="1">לא אבל תבואה וכלים אימא מדמקרבא</row>
+		<row row_number="17" isdata="1">הנאתייהו גמר ומקני נפשיה קא משמע לן</row>
+		<row row_number="18" isdata="1">אמר רב יוסף מנא אמינא לה דתניא עגל זה</row>
+		<row row_number="19" isdata="1">לפדיון בני טלית זה לפדיון בני לא אמר כלום</row>
+		<row row_number="20" isdata="1">עגל זה בחמש סלעים לפדיון בני טלית זו</row>
+		<row row_number="21" isdata="1">בחמש סלעים לפדיון בני בנו פדוי האי פדיון</row>
+		<row row_number="22" isdata="1">היכי דמי אילימא דלא שוי כל כמיניה אלא</row>
+		<row row_number="23" isdata="1">לאו אף על גב דשוי וכיון דלא קייצי לא</row>
+		<row row_number="24" isdata="1">לא לעולם דלא שוי וכגון דקביל כהן</row>
+		<row row_number="25" isdata="1">עילויה כי הא דרב כהנא שקיל סודרא מבי</row>
+		<row row_number="26" isdata="1">פדיון הבן אמר ליה לדידי חזי לי חמש</row>
+		<row row_number="27" isdata="1">סלעים אמר רב אשי לא אמרן אלא כגון רב</row>
+		<row row_number="28" isdata="1">כהנא דגברא רבה הוא ומבעי ליה סודרא</row>
+		<row row_number="29" isdata="1">ארישיה אבל כולי עלמא לא כי הא דמר</row>
+		<row row_number="30" isdata="1">בר רב אשי זבן סודרא מאימיה דרבה מקובי</row>
+		<row row_number="31" isdata="1">שוי עשרה בתליסר: אמר רבי אלעזר</row>
+		<row row_number="32" isdata="1">התקדשי לי במנה ונתן לה דינר הרי זו</row>
+		<row row_number="33" isdata="1">מקודשת וישלים מאי טעמא כיון דאמר לה</row>
+		<row row_number="34" isdata="1">מנה ויהב לה דינר כמאן דאמר לה על מנת</row>
+		<row row_number="35" isdata="1">דמי ואמר רב הונא אמר רב כל האומר ע"מ</row>
+		<row row_number="36" isdata="1">כאומר מעכשיו דמי מיתיבי התקדשי לי</row>
+		<row row_number="37" isdata="1">במנה והיה מונה והולך ורצה אחד מהן</row>
+		<row row_number="38" isdata="1">לחזור אפילו בדינר האחרון הרשות בידו הכא במאי עסקינן דאמר במנה</row>
+		<row row_number="39" isdata="1">זו הא מדסיפא במנה זו רישא במנה סתם דקא תני סיפא אמר לה התקדשי</row>
+		<row row_number="40" isdata="1">לי במנה זו ונמצא מנה חסר דינר או דינר של נחשת אינה מקודשת דינר</row>
+		<row row_number="41" isdata="1">רע הרי זו מקודשת ויחליף לא רישא וסיפא דאמר במנה זו ופרושי קא</row>
+		<row row_number="42" isdata="1">מפרש רצה אחד מהן לחזור אפי' בדינר האחרון הרשות בידו כיצד כגון</row>
+		<row row_number="43" isdata="1">דאמר לה במנה זו והכי נמי מסתברא דאי ס"ד רישא במנה סתם השתא</row>
+		<row row_number="44" isdata="1">במנה סתם לא הוו קידושי במנה זו מיבעיא אי משום הא לא איריא תנא</row>
+		<row row_number="45" isdata="1">סיפא לגלוי רישא שלא תאמר רישא במנה זו אבל במנה סתם הוו</row>
+		<row row_number="46" isdata="1">קידושין תנא סיפא במנה זו מכלל דרישא במנה סתם ואפילו הכי</row>
+		<row row_number="47" isdata="1">לא הוו קידושין רב אשי אמר מונה והולך שאני דדעתה אכוליה האי דינר של נחשת היכי דמי</row>
+		<row row_number="48" isdata="1">אי דידעה ביה הא סברה וקבלה לא צריכא דיהביה ניהליה בליליא אי נמי דאשתכח ליה ביני</row>
+		<row row_number="49" isdata="1">זוזי האי דינר רע היכי דמי אי דלא נפיק היינו דינר של נחשת אמר רב פפא כגון דנפיק על ידי</row>
+		<row row_number="50" isdata="1">הדחק: אמר רבא אמר רב נחמן אמר לה התקדשי לי במנה והניח לה משכון עליה אינה מקודשת</row>
+		<row row_number="51" isdata="0">מנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

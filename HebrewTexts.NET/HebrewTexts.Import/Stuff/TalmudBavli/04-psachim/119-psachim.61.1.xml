@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:42.039211</dateCreated>
+   <lastModified>2016-08-04 11:56:42.039211</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1">וישנו לאחר מיתה וישנו בצבור כביחיד</row>
+		<row row_number="2" isdata="1">תאמר בשינוי בעלים דאין פסולו בגופו ואינו</row>
+		<row row_number="3" isdata="1">בארבע עבודות ואינו לאחר מיתה ואינו</row>
+		<row row_number="4" isdata="1">בצבור כביחיד ואף על גב דתרתי לאו דוקא</row>
+		<row row_number="5" isdata="1">תרתי מיהא דוקא דמאי שנא שינוי בעלים</row>
+		<row row_number="6" isdata="1">דלא הוי פסולו בגופו דפסולו מחשבה בעלמא</row>
+		<row row_number="7" isdata="1">היא שינוי קודש נמי פסולו מחשבה בעלמא</row>
+		<row row_number="8" isdata="1">היא ותו הא דאמר שינוי בעלים אינו לאחר</row>
+		<row row_number="9" isdata="1">מיתה ולרב פנחס ברי' דרב אמי דאמר יש</row>
+		<row row_number="10" isdata="1">שינוי בעלים לאחר מיתה מאי איכא</row>
+		<row row_number="11" isdata="1">למימר תרתי מיהת דוקא נינהו אלא אמר</row>
+		<row row_number="12" isdata="1">רבא פסח ששחטו בשאר ימות השנה</row>
+		<row row_number="13" isdata="1">בשינוי בעלים נעשה כמי שאין לו בעלים</row>
+		<row row_number="14" isdata="1">בזמנו ופסול<EndGemara/><StartMishna/>: מתני' שחטו שלא לאוכליו</row>
+		<row row_number="15" isdata="1">ושלא למנויו לערלים ולטמאים פסול</row>
+		<row row_number="16" isdata="1">לאוכליו ושלא לאוכליו למנויו ושלא למנויו</row>
+		<row row_number="17" isdata="1">למולים ולערלים לטמאים ולטהורים כשר</row>
+		<row row_number="18" isdata="1">שחטו קודם חצות פסול משום שנא' בין</row>
+		<row row_number="19" isdata="1">הערבים שחטו קודם לתמיד כשר ובלבד</row>
+		<row row_number="20" isdata="1">שיהא אחר ממרס בדמו עד שיזרק התמיד</row>
+		<row row_number="21" isdata="1">ואם נזרק כשר: <EndMishna/><StartGemara/>גמ' ת"ר כיצד שלא לאוכליו</row>
+		<row row_number="22" isdata="1">לשום חולה או לשום זקן כיצד שלא למנויו</row>
+		<row row_number="23" isdata="1">נמנו עליו חבורה זו ושחטו לשם חבורה</row>
+		<row row_number="24" isdata="1">אחרת מנהני מילי דת"ר במכסת מלמד</row>
+		<row row_number="25" isdata="1">שאין הפסח נשחט אלא למנויו יכול שחטו</row>
+		<row row_number="26" isdata="1">שלא למנויו יהא כעובר על המצוה וכשר</row>
+		<row row_number="27" isdata="1">ת"ל במכסת תכוסו הכתוב שנה עליו</row>
+		<row row_number="28" isdata="1">לעכב ר' אומר לשון סורסי הוא כאדם שאומר</row>
+		<row row_number="29" isdata="1">לחבירו כוס לי טלה זה אשכחן שלא למנויו</row>
+		<row row_number="30" isdata="1">שלא לאוכליו מנא לן אמר קרא איש</row>
+		<row row_number="31" isdata="1">לפי אכלו תכוסו איתקש אוכלין למנויין</row>
+		<row row_number="32" isdata="0">שחטו</row>
+</amud>
+</daf>
+</masechet>
+</root>

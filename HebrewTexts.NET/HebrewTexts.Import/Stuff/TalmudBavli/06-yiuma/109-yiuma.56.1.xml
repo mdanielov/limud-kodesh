@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:56:47.377517</dateCreated>
+   <lastModified>2016-08-04 11:56:47.377517</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="56">
+	<amud value="1">
+		<row row_number="1" isdata="1">עשרה מעשר ראשון תשעה מעשר שני</row>
+		<row row_number="2" isdata="1">ומיחל ושותה מיד דברי רבי מאיר</row>
+		<row row_number="3" isdata="0">רבי</row>
+</amud>
+</daf>
+</masechet>
+</root>

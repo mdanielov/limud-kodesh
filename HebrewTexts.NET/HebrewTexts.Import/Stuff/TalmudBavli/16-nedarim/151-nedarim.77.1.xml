@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:09.621789</dateCreated>
+   <lastModified>2016-08-04 11:57:09.621789</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="77">
+	<amud value="1">
+		<row row_number="1" isdata="1">תנן התם מפירין נדרים בשבת ונשאלין</row>
+		<row row_number="2" isdata="1">לנדרים שהן לצורך השבת איבעיא להו</row>
+		<row row_number="3" isdata="1">מפירין נדרים בשבת לצורך השבת או דלמא</row>
+		<row row_number="4" isdata="1">אפי' שלא לצורך ת"ש דתני רב זוטי דבי רב</row>
+		<row row_number="5" isdata="1">פפי אין מפירין נדרים אלא לצורך השבת אמר</row>
+		<row row_number="6" isdata="1">רב אשי הא לא תנן הכי נדרה עם חשיכה</row>
+		<row row_number="7" isdata="1">מפר לה עד שלא תחשך ואי אמרת לצורך</row>
+		<row row_number="8" isdata="1">השבת אין שלא לצורך השבת לא מאי איריא</row>
+		<row row_number="9" isdata="1">חשכה אפי' בתוך היום אינו יכול להפר דשלא</row>
+		<row row_number="10" isdata="1">לצורך תנאי היא הפרת נדרים כל היום</row>
+		<row row_number="11" isdata="1">רבי יוסי ברבי יהודה ור"א בר' שמעון אמרו</row>
+		<row row_number="12" isdata="1">מעת לעת למ"ד כל היום אין טפי לא אפילו</row>
+		<row row_number="13" isdata="1">שלא לצורך השבת מפר למאן דאמר מעת</row>
+		<row row_number="14" isdata="1">לעת לצורך השבת אין שלא לצורך השבת</row>
+		<row row_number="15" isdata="1">לא ונשאלין לנדרים שהן לצורך השבת</row>
+		<row row_number="16" isdata="1">איבעיא להו כשלא היה להם פנאי או דלמא</row>
+		<row row_number="17" isdata="1">כשהיה להם פנאי ת"ש דאיזדקיקו ליה רבנן</row>
+		<row row_number="18" isdata="1">לבריה דרב זוטרא בריה דרב זעירא אפילו</row>
+		<row row_number="19" isdata="1">בנדרים שהיה להם פנאי מבעוד יום סבר רב</row>
+		<row row_number="20" isdata="1">יוסף למימר נשאלין נדרי' בשבת ביחיד מומחה</row>
+		<row row_number="21" isdata="1">אין בשלשה הדיוטות לא משום דמתחזי כדינא</row>
+		<row row_number="22" isdata="1">א"ל אביי כיון דסבירא לן אפי' מעומד אפי'</row>
+		<row row_number="23" isdata="1">בקרובים ואפי' בלילה לא מיתחזי כדינא אמר</row>
+		<row row_number="24" isdata="1">ר' אבא אמר רב הונא אמר רב הלכה מפירין</row>
+		<row row_number="25" isdata="1">נדרים בלילה והא מתניתין היא נדרה בלילי</row>
+		<row row_number="26" isdata="1">שבת אלא אימא הלכה נשאלין בלילה א"ל</row>
+		<row row_number="27" isdata="1">ר' אבא לרב הונא אמר רב הכי א"ל אישתיק</row>
+		<row row_number="28" isdata="1">אמר ליה אישתיק קא אמרת או שתי קאמרת</row>
+		<row row_number="29" isdata="1">אמר רב איקא בר אבין איזדקיק ליה רב לרבה</row>
+		<row row_number="30" isdata="0">בקיטונא</row>
+</amud>
+</daf>
+</masechet>
+</root>

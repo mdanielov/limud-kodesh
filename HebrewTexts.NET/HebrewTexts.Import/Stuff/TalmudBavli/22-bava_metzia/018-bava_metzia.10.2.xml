@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2016-08-04 11:57:25.882719</dateCreated>
+   <lastModified>2016-08-04 11:57:25.882719</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="10">
+	<amud value="2">
+		<row row_number="1" isdata="1">רב פפא אמר כי תקינו ליה רבנן ארבע אמות</row>
+		<row row_number="2" isdata="1">בעלמא בשדה דבעל הבית לא תקינו ליה</row>
+		<row row_number="3" isdata="1">רבנן ואע"ג דזכה ליה רחמנא בגוה כי זכה</row>
+		<row row_number="4" isdata="1">ליה רחמנא להלוכי בה ולנקוטי פיאה למיהוי</row>
+		<row row_number="5" isdata="1">חצירו לא זכה ליה רחמנא אמר רבא מותיב</row>
+		<row row_number="6" isdata="1">ר' יעקב בר אידי נזיקין ראה את המציאה</row>
+		<row row_number="7" isdata="1">ונפל לו עליה ובא אחר והחזיק בה זה שהחזיק</row>
+		<row row_number="8" isdata="1">בה זכה בה ואי אמרת ארבע אמות של אדם</row>
+		<row row_number="9" isdata="1">קונות לו בכל מקום נקנו ליה ארבע אמות</row>
+		<row row_number="10" isdata="1">דידיה הכא במאי עסקינן דלא אמר אקני</row>
+		<row row_number="11" isdata="1">ואי תקון רבנן כי לא אמר מאי הוי כיון דנפל</row>
+		<row row_number="12" isdata="1">עליה גלי דעתיה דבנפילה ניחא ליה דנקני</row>
+		<row row_number="13" isdata="1">בארבע אמות לא ניחא ליה דנקני רב ששת</row>
+		<row row_number="14" isdata="1">אמר כי תקינו רבנן בסמטא דלא דחקי רבים</row>
+		<row row_number="15" isdata="1">ברשות הרבים דקא דחקי רבים לא תקינו</row>
+		<row row_number="16" isdata="1">רבנן והא בכל מקום קאמר כל מקום לאתויי</row>
+		<row row_number="17" isdata="1">צידי רשות הרבים ואמר ריש לקיש משום</row>
+		<row row_number="18" isdata="1">אבא כהן ברדלא קטנה אין לה חצר ואין</row>
+		<row row_number="19" isdata="1">לה ארבע אמות ור' יוחנן משום ר' ינאי אמר</row>
+		<row row_number="20" isdata="1">יש לה חצר ויש לה ארבע אמות במאי</row>
+		<row row_number="21" isdata="1">קמיפלגי מר סבר חצר משום ידה איתרבאי</row>
+		<row row_number="22" isdata="1">כי היכי דאית לה יד חצר נמי אית לה ומר</row>
+		<row row_number="23" isdata="1">סבר חצר משום שליחות איתרבאי וכי היכי</row>
+		<row row_number="24" isdata="1">דשליחות לית לה חצר נמי לית לה מי איכא</row>
+		<row row_number="25" isdata="1">מאן דאמר חצר משום שליחות איתרבאי</row>
+		<row row_number="26" isdata="1">והתניא בידו אין לי אלא ידו גגו חצירו</row>
+		<row row_number="27" isdata="1">וקרפיפו מנין ת"ל המצא תמצא מכל מקום</row>
+		<row row_number="28" isdata="1">ואי סלקא דעתך חצר משום שליחות איתרבאי</row>
+		<row row_number="29" isdata="1">אם כן מצינו שליח לדבר עבירה וקיימא לן</row>
+		<row row_number="30" isdata="1">אין שליח לדבר עבירה אמר רבינא היכא</row>
+		<row row_number="31" isdata="1">אמרינן דאין שליח לדבר עבירה היכא</row>
+		<row row_number="32" isdata="1">דשליח בר חיובא הוא אבל בחצר דלאו בר</row>
+		<row row_number="33" isdata="1">חיובא הוא מיחייב שולחו אלא מעתה האומר</row>
+		<row row_number="34" isdata="1">לאשה ועבד צאו גנבו לי דלאו בני חיובא</row>
+		<row row_number="35" isdata="1">נינהו הכי נמי דמיחייב שולחן אמרת אשה</row>
+		<row row_number="36" isdata="1">ועבד בני חיובא נינהו והשתא מיהא לית להו</row>
+		<row row_number="37" isdata="1">לשלומי דתנן נתגרשה האשה נשתחרר</row>
+		<row row_number="38" isdata="1">העבד חייבין לשלם רב סמא אמר היכא</row>
+		<row row_number="39" isdata="1">אמרינן אין שליח לדבר עבירה היכא דאי</row>
+		<row row_number="40" isdata="1">בעי עביד ואי בעי לא עביד אבל חצר דבעל</row>
+		<row row_number="41" isdata="1">כרחיה מותיב בה מיחייב שולחו מאי בינייהו</row>
+		<row row_number="42" isdata="1">איכא בינייהו כהן דאמר ליה לישראל צא</row>
+		<row row_number="43" isdata="1">וקדש לי אשה גרושה אי נמי איש דאמר לה</row>
+		<row row_number="44" isdata="1">לאשה אקפי לי קטן להך לישנא דאמר כל</row>
+		<row row_number="45" isdata="1">היכא דאי בעי עביד אי בעי לא עביד לא</row>
+		<row row_number="46" isdata="1">מיחייב שולחו ה"נ אי בעי עביד אי בעי</row>
+		<row row_number="47" isdata="1">לא עביד לא מיחייב שולחן להך לישנא</row>
+		<row row_number="48" isdata="1">דאמרת כל היכא דשליח לאו בר חיובא מיחייב שולחו הני נמי כיון דלאו בני</row>
+		<row row_number="49" isdata="1">חיובא נינהו מיחייב שולחן ומי איכא למ"ד חצר לאו משום ידה איתרבאי והתניא</row>
+		<row row_number="50" isdata="1">ידה אין לי אלא ידה גגה חצירה וקרפיפה מנין ת"ל ונתן מכל מקום לענין</row>
+		<row row_number="51" isdata="1">גט כולי עלמא לא פליגי דחצר משום ידה איתרבאי כי פליגי לענין מציאה מ"ס</row>
+		<row row_number="52" isdata="0">ילפינן</row>
+</amud>
+</daf>
+</masechet>
+</root>
