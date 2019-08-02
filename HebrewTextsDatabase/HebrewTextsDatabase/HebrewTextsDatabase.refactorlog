@@ -483,4 +483,10 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="[VersionSourceID]" />
   </Operation>
+  <Operation Name="Move Schema" Key="5edae4e7-be19-45e4-80c8-6a45e7ec3829" ChangeDateTime="08/01/2019 11:20:43">
+    <Property Name="ElementName" Value="[dbo].[Taamim_Ref]" />
+    <Property Name="ElementType" Value="SqlTable" />
+    <Property Name="NewSchema" Value="Contents" />
+    <Property Name="IsNewSchemaExternal" Value="False" />
+  </Operation>
 </Operations>
