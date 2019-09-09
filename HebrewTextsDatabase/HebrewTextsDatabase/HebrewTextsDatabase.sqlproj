@@ -127,6 +127,8 @@
     <Folder Include="SchemaObjects\Import" />
     <Folder Include="SchemaObjects\Import\Tables" />
     <Folder Include="SchemaObjects\UI" />
+    <Folder Include="Contents\" />
+    <Folder Include="Contents\Tables\" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="SchemaObjects\dbo\Tables\Books.sql" />
@@ -193,6 +195,9 @@
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
     <Build Include="SchemaObjects\Import\Tables\Import.WordsInTanakh_CodexOfLeningrad.sql">
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
+    <Build Include="Contents\Tables\Contents.Taamim_Ref.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
   </ItemGroup>
