@@ -11,7 +11,6 @@ DROP DATABASE KiMeTztion
 GO
 
 CREATE DATABASE KiMeTztion
-COLLATE Hebrew_CI_AI;
 GO
 
 
