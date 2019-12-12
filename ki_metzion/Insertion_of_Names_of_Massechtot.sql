@@ -1,10 +1,3 @@
-USE KiMeTztion;
-
-INSERT INTO [dbo].[TOSHBA] (WORK_NAME) 
-VALUES 
-('ששה סדרי משנה'),
-('תלמוד')
-
 INSERT INTO [dbo].[SEDER](TOSHBA_id,SEDER_NAME,ORDER_ID) 
 VALUES 
 (1,'זרעים',1),
