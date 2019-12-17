@@ -1,6 +1,5 @@
 import pyodbc 
 import configparser
-import re
 
 config = configparser.ConfigParser()
 config.read('settings.ini')
