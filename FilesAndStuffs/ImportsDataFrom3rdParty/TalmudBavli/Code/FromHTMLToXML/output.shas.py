@@ -63,6 +63,10 @@ def xml_footer():
            '</masechet>\n' \
            '</root>'
 
+def remove_chars(input_string):
+    out_str = input_string.replace('.','').replace(':','')
+    return  out_str
+
 
 for t in massechet:
     print("working on " + t[3])
@@ -142,8 +146,8 @@ for t in massechet:
             elif index == len(new_list) -1:
                 # last line
                 lines =[new_list[index-1],line,""]
-            print(current_chapter, len(chapters))
-            print(daf_no,amud_no,hadran, index, str(len(new_list)))
+            # print(current_chapter, len(chapters))
+            # print(daf_no,amud_no,hadran, index, str(len(new_list)))
             if len(chapters)-1 > current_chapter:
                 chap_param = (chapters[current_chapter],chapters[current_chapter+1])
             else:
@@ -155,7 +159,7 @@ for t in massechet:
                 islast = 0
             results = TranformToXML.parseLine(lines, index, len(new_list), i , daf_no , amud_no, marker_mishna1, marker_mishna2, marker_gemara, chap_param, current_chapter, hadran, islast, gema)
             if index != len(new_list) - 1 or (index == len(new_list) - 1 and len(lines[1].split()) > 1):
-              output_text += results[0]
+                output_text += remove_chars(results[0])
             current_chapter = results[1]
             hadran = results[2]
             gema = results[3]
