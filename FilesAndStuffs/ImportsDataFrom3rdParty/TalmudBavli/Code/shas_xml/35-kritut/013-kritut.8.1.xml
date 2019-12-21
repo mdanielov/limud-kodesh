@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:39.375323</dateCreated>
+   <lastModified>2019-12-21 20:32:39.375323</lastModified>
+ </meta>
+ <masechet name="כריתות" serial="35">
+<daf value="8">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שלשים ושש"/><ContGemara/>גמ' תניא אמרו להן ב"ה לב"ש הרי הוא<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">אומר לבת לרבות אור שמונים ואחד ר'</row>
+		<row row_number="3" isdata="1">הושעיא הוה שכיח קמיה דבר קפרא שבקיה</row>
+		<row row_number="4" isdata="1">ואתא קמיה דרבי חייא יומא חד פגע ביה</row>
+		<row row_number="5" isdata="1">בעא מיניה זב שראה ג' ראיות בליל ח' מה</row>
+		<row row_number="6" isdata="1">ב"ה אומרים בדבר זה טעמייהו דב"ה במפלת</row>
+		<row row_number="7" isdata="1">בלילה משום דכתיב לבת אבל זב שראה</row>
+		<row row_number="8" isdata="1">ג' ראיות בליל ח' פטרי דלא מייתרי קראי או</row>
+		<row row_number="9" isdata="1">דלמא לא שנא א"ל בר קפרא מה בבלי אומר</row>
+		<row row_number="10" isdata="1">בדבר זה אישתיק רבי הושעיא לא אמר כלום</row>
+		<row row_number="11" isdata="1">א"ל בר קפרא צריכין לדברי עייא נחזור על</row>
+		<row row_number="12" isdata="1">הראשונות הרי הוא אומר לבת לרבות אור</row>
+		<row row_number="13" isdata="1">שמונים ואחד נימא כתנאי זב שראה ג' ראיות</row>
+		<row row_number="14" isdata="1">בליל ח' תני חדא מביא ותניא אידך אינו</row>
+		<row row_number="15" isdata="1">מביא מאי לאו תנאי היא דהא דתניא מביא</row>
+		<row row_number="16" isdata="1">קסבר לילה אין מחוסר זמן והדתני אין</row>
+		<row row_number="17" isdata="1">מביא קסבר לילה מחוסר זמן אמר רב הונא</row>
+		<row row_number="18" isdata="1">בר אחא א"ר אלעזר הני תנאי סברי לילה</row>
+		<row row_number="19" isdata="1">מחוסר זמן והא דתניא מביא בזב בעל ב'</row>
+		<row row_number="20" isdata="1">ראיות והדתניא אין מביא בזב בעל ג' ראיות</row>
+		<row row_number="21" isdata="1">זב בעל ב' ראיות מאי למימרא הא קמ"ל דוקא</row>
+		<row row_number="22" isdata="1">ראה בליל ח' אבל ביממא דז' לא קסבר כל</row>
+		<row row_number="23" isdata="1">ראייה שסותרת אין מביאה לידי קרבן אמר</row>
+		<row row_number="24" isdata="1">רבא אמאי אוקימתא להא דתניא אין מביא בזב</row>
+		<row row_number="25" isdata="1">בעל ג' ראיות ליתנייה גבי חמשה מביאין</row>
+		<row row_number="26" isdata="1">קרבן אחד על עבירות הרבה לא פסיקא דא"ר</row>
+		<row row_number="27" isdata="1">יוחנן ראה אחת בלילה וב' ביום מביא ב'</row>
+		<row row_number="28" isdata="1">בלילה ואחת ביום אין מביא אמר רב יוסף תדע</row>
+		<row row_number="29" isdata="1">דאחת בלילה וב' ביום מביא דהא ראייה</row>
+		<row row_number="30" isdata="1">ראשונה שכבת זרע בעלמא ואילו חזי תרתין</row>
+		<row row_number="31" isdata="1">אחרנייתא מצטרפי להו אמר רב ששת בריה</row>
+		<row row_number="32" isdata="1">דרב אידי מידי איריא ראייה ראשונה של זב</row>
+		<row row_number="33" isdata="1">חזייה בזמן חיובא אחת בלילה כיון דלאו</row>
+		<row row_number="34" isdata="1">בזמן חיובא חזייה אי לאו דאשמעינן רבי יוחנן</row>
+		<row row_number="35" isdata="1">דמצטרף ה"א לא תצטרף ומי א"ר יוחנן לילה</row>
+		<row row_number="36" isdata="1">מחוסר זמן והאמר חזקיה נטמא ביום מביא</row>
+		<row row_number="37" isdata="1">בלילה אין מביא ור' יוחנן אמר אפי' בלילה</row>
+		<row row_number="38" isdata="1">מביא כי קא"ר יוחנן ב' בלילה ואחת ביום אין</row>
+		<row row_number="39" isdata="1">מביא לדברי האומר מחוסר זמן לדברי האומר פשיטא ראה אחת בלילה וב' ביום איצטריכא ליה מהו דתימא</row>
+		<row row_number="40" isdata="1">כיון דלאו בזמן חיובא קחזי ליה לא תצטרף קמ"למתני' האשה שיש עליה ספק ה' לידות וספק ה' זיבות מביאה</row>
+		<row row_number="41" isdata="1">קרבן אחד ואוכלת בזבחים ואין השאר עליה חובה ה' זיבות ודאות וה' לידות ודאות מביאה קרבן אחד ואוכלת</row>
+		<row row_number="42" isdata="1">בזבחים והשאר עליה חובה מעשה שעמדו קינין בירושלים בדינר זהב אמר רבן שמעון בן גמליאל המעון</row>
+		<row row_number="43" isdata="1">הזה לא אלין הלילה עד שיהיה בדינרין בסוף נכנס לב"ד ולמד האשה שיש עליה ה' לידות ודאות ה' זיבות</row>
+		<row row_number="44" isdata="1">ודאות מביאה קרבן אחד ואוכלת בזבחים ואין השאר עליה חובה ועמדו קינין ביום ההוא ברבעתים<EndMishna/><StartGemara/>גמ' ת"ר ה'</row>
+		<row row_number="45" isdata="1">לידות ודאי ה' זיבות ספק או ה' לידות ודאי וה' לידות ספק מביאה ב' קינין אחת על הודאי ואחת על הספק של ודאי</row>
+		<row row_number="46" isdata="1">נאכלת והשאר עליה חובה של ספק אין נאכלת ואין השאר עליה חובה ר' יוחנן בן נורי אומר על ודאי תאמר על</row>
+		<row row_number="47" isdata="1">האחרונה ותפטר של ספק אם יש ודאי ביניהן תאמר על הודאי ותפטר ואם לאו תאמר על אחד מהן ותפטר ר"ע אומר</row>
+		<row row_number="48" isdata="1">בין על הודאי בין על הספק תאמר על אחת מהן ותפטר א"ל רב נחמן בר יצחק לרב פפא אימא לך משמיה דרבא</row>
+		<row row_number="49" isdata="1">הני תנאי במאי פליגי דר' יוחנן בן נורי מדמי להון לחטאת דמאן דחייב ה' חטאות עד דמייתי כולהון וסוף מכפר ליה</row>
+		<row row_number="50" isdata="1">ה"נ ל"ש ור"ע מדמי להון לטבילין דמאן דמחייב ה' טבילות כיון דטביל חדא זימנא איטהר ה"נ ל"ש א"ל רב</row>
+		<row row_number="51" isdata="1">פפא אי ס"ד ר' יוחנן בן נורי לחטאת מדמי להן אמאי של ספק תאמר על אחת מהן ותפטר אילו מאן דמחייב</row>
+</amud>
+</daf>
+</masechet>
+</root>

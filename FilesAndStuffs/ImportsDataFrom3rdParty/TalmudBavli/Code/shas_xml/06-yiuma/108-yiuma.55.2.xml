@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:26.030402</dateCreated>
+   <lastModified>2019-12-21 20:29:26.030402</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="55">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הוציאו לו"/><ContGemara/>לית ליה כתיבה דתנן רבי יהודה אומר לא</row>
+		<row row_number="2" isdata="1">היה שם אלא כן אחד בלבד תרי מאי</row>
+		<row row_number="3" isdata="1">טעמא לא משום דמחלפי ונעביד תרי</row>
+		<row row_number="4" isdata="1">וליכתוב עלייהו הי דפר והי דשעיר אלא</row>
+		<row row_number="5" isdata="1">לרבי יהודה לית ליה כתיבה מיתיבי</row>
+		<row row_number="6" isdata="1">שלש עשרה שופרות היו במקדש והיה</row>
+		<row row_number="7" isdata="1">כתוב עליהן תקלין חדתין ותקלין עתיקין</row>
+		<row row_number="8" isdata="1">וקינין וגוזלי עולה ועצים ולבונה וזהב</row>
+		<row row_number="9" isdata="1">לכפורת וששה לנדבה תקלין חדתין אלו</row>
+		<row row_number="10" isdata="1">שקלים של כל שנה ושנה תקלין עתיקין</row>
+		<row row_number="11" isdata="1">מי שלא שקל אשתקד ישקול לשנה הבאה</row>
+		<row row_number="12" isdata="1">קינין הן תורין גוזלי עולה הן בני יונה</row>
+		<row row_number="13" isdata="1">וכולן עולות דברי ר' יהודה כי אתא רב דימי</row>
+		<row row_number="14" isdata="1">אמר אמרי במערבא גזירה משום חטאת</row>
+		<row row_number="15" isdata="1">שמתו בעליה ומי חיישינן והתנן השולח</row>
+		<row row_number="16" isdata="1">חטאתו ממדינת הים מקריבין אותה בחזקת</row>
+		<row row_number="17" isdata="1">שהוא קיים אלא משום חטאת שמתו בעליה</row>
+		<row row_number="18" isdata="1">ודאי ונברור ארבעה זוזי ונשדי במיא והנך</row>
+		<row row_number="19" isdata="1">נישתרו רבי יהודה לית ליה ברירה מנא לן</row>
+		<row row_number="20" isdata="1">אילימא מהא דתנן הלוקח יין מבין הכותיים</row>
+		<row row_number="21" isdata="1">ערב שבת עם חשכה עומד ואומר שני לוגין</row>
+		<row row_number="22" isdata="1">שאני עתיד להפריש הרי הן תרומה</row>
+</amud>
+</daf>
+</masechet>
+</root>

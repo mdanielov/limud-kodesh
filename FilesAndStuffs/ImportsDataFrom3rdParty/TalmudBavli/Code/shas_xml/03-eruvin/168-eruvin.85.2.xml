@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:01.193419</dateCreated>
+   <lastModified>2019-12-21 20:29:01.193419</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="85">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוציא יין"/><ContGemara/>והאמצעי אסור יתיב רב ברונא וקאמר להא</row>
+		<row row_number="2" isdata="1">שמעתא א"ל רבי אליעזר בר בי רב אמר רב</row>
+		<row row_number="3" isdata="1">הכי א"ל אין אחוי לי אושפיזיה אחוי ליה אתא</row>
+		<row row_number="4" isdata="1">לקמיה דרב א"ל אמר מר הכי א"ל אין א"ל</row>
+		<row row_number="5" isdata="1">והא מר הוא דאמר לזה בשלשול ולזה</row>
+		<row row_number="6" isdata="1">בזריקה שניהן אסורין א"ל מי סברת דקיימי</row>
+		<row row_number="7" isdata="1">כשורה לא דקיימי כחצובה</row>
+		<row row_number="8" isdata="1">א"ל רב פפא לרבא לימא</row>
+		<row row_number="9" isdata="1">שמואל לית ליה דרב דימי דכי</row>
+		<row row_number="10" isdata="1">אתא רב דימי א"ר יוחנן מקום</row>
+		<row row_number="11" isdata="1">שאין בו ד' על ד' מותר לבני</row>
+		<row row_number="12" isdata="1">רה"ר ולבני רה"י לכתף עליו ובלבד שלא</row>
+		<row row_number="13" isdata="1">יחליפו התם רשויות דאורייתא הכא רשויות</row>
+		<row row_number="14" isdata="1">דרבנן וחכמים עשו חיזוק לדבריהם יותר</row>
+		<row row_number="15" isdata="1">משל תורה אמר ליה רבינא לרבא מי אמר</row>
+		<row row_number="16" isdata="1">רב הכי והא איתמר שני בתים משני צידי</row>
+		<row row_number="17" isdata="1">רשות הרבים רבה בר רב הונא אמר רב</row>
+		<row row_number="18" isdata="1">אסור לזרוק מזה לזה ושמואל אמר מותר</row>
+		<row row_number="19" isdata="1">לזרוק מזה לזה א"ל לאו מי אוקימנא דמדלי</row>
+		<row row_number="20" isdata="1">חד ומתתי חד זימנין דמגנדר ונפיל ואתי</row>
+		<row row_number="21" isdata="1">לאיתויימתני' הנותן את עירובו בבית</row>
+		<row row_number="22" isdata="1">שער אכסדרה ומרפסת אינו עירוב והדר</row>
+		<row row_number="23" isdata="1">שם אינו אוסר עליו בית התבן ובית הבקר</row>
+		<row row_number="24" isdata="1">ובית העצים ובית האוצרות הרי זה עירוב</row>
+		<row row_number="25" isdata="1">והדר שם אוסר רבי יהודה אומר אם יש שם</row>
+		<row row_number="26" isdata="1">תפיסת יד של בעל הבית אינו אוסר<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="27" isdata="1">אמר רב יהודה בריה דרב שמואל בר שילת</row>
+		<row row_number="28" isdata="1">כל מקום שאמרו הדר שם אינו אוסר הנותן</row>
+		<row row_number="29" isdata="1">את עירובו אינו עירוב חוץ מבית שער דיחיד</row>
+		<row row_number="30" isdata="1">וכל מקום שאמרו חכמים אין מניחין בו עירוב</row>
+		<row row_number="31" isdata="1">מניחין בו שיתוף חוץ מאויר מבוי מאי</row>
+		<row row_number="32" isdata="1">קמ"ל תנינא הנותן את עירובו בבית שער</row>
+		<row row_number="33" isdata="1">אכסדרה ומרפסת אינו עירוב עירוב הוא דלא</row>
+		<row row_number="34" isdata="1">הוי הא שיתוף הוי בית שער דיחיד ואויר</row>
+		<row row_number="35" isdata="1">דמבוי איצטריכא ליה דלא תנן תניא נמי הכי</row>
+		<row row_number="36" isdata="1">הנותן את עירובו בבית שער אכסדרה</row>
+		<row row_number="37" isdata="1">ומרפסת ובחצר ובמבוי ה"ז עירוב והתנן</row>
+		<row row_number="38" isdata="1">אין זה עירוב אימא ה"ז שיתוף שיתוף במבוי לא מינטר אימא בחצר שבמבוי</row>
+		<row row_number="39" isdata="1">אמר רב יהודה אמר שמואל בני חבורה שהיו מסובין וקדש עליהן היום</row>
+		<row row_number="40" isdata="1">פת שעל השלחן סומכין עליהן משום עירוב ואמרי לה משום שיתוף</row>
+		<row row_number="41" isdata="1">אמר רבה ולא פליגי כאן במסובין בבית כאן במסובין בחצר אמר ליה</row>
+		<row row_number="42" isdata="1">אביי לרבה תניא דמסייע לך עירובי חצירות בחצר ושיתופי מבואות</row>
+		<row row_number="43" isdata="1">במבוי והוינן בה עירובי חצירות בחצר והתנן הנותן את עירובו בבית</row>
+		<row row_number="44" isdata="1">שער אכסדרה ומרפסת אינו עירוב אימא עירובי חצירות בבית שבחצר</row>
+		<row row_number="45" isdata="1">שיתופי מבואות בחצר שבמבוי רבי יהודה אומר אם יש שם תפיסת יד</row>
+		<row row_number="46" isdata="1">וכו' היכי דמי תפיסת יד כגון חצירו של בונייס בן בונייס אתא לקמיה</row>
+		<row row_number="47" isdata="1">דרבי אמר להו פנו מקום לבן מאה מנה אתא איניש אחרינא אמר להו</row>
+</amud>
+</daf>
+</masechet>
+</root>

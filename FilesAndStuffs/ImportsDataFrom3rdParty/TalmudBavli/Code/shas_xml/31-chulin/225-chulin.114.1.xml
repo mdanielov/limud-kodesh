@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:25.181920</dateCreated>
+   <lastModified>2019-12-21 20:32:25.181920</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="114">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>כיון דעל אכילה לא לקי אבישול נמי לא</row>
+		<row row_number="2" isdata="1">לקי ואיכא דאמרי אבישול כולי עלמא לא</row>
+		<row row_number="3" isdata="1">פליגי דלקי כי פליגי אאכילה מאן דאמר</row>
+		<row row_number="4" isdata="1">אינו לוקה דהא אין איסור חל על איסור</row>
+		<row row_number="5" isdata="1">ומאן דאמר לוקה להכי אפקה רחמנא</row>
+		<row row_number="6" isdata="1">לאכילה בלשון בישול כיון דאבישול לקי</row>
+		<row row_number="7" isdata="1">אאכילה נמי לקי ואיבעית אימא מר אמר</row>
+		<row row_number="8" isdata="1">חדא ומר אמר חדא ולא פליגי מיתיבי</row>
+		<row row_number="9" isdata="1">המבשל במי חלב פטור דם שבשלו בחלב</row>
+		<row row_number="10" isdata="1">פטור העצמות והגידים והקרנים והטלפים</row>
+		<row row_number="11" isdata="1">שבשלן בחלב פטור הפגול והנותר והטמא</row>
+		<row row_number="12" isdata="1">שבשלן בחלב חייב האי תנא סבר איסור</row>
+		<row row_number="13" isdata="1">חל על איסור המבשל במי חלב פטור מסייע</row>
+		<row row_number="14" isdata="1">ליה לריש לקיש דתנן מי חלב הרי הן</row>
+		<row row_number="15" isdata="1">כחלב והמוחל הרי הוא כשמן אמר ריש</row>
+		<row row_number="16" isdata="1">לקיש לא שנו אלא להכשיר את הזרעים</row>
+		<row row_number="17" isdata="1">אבל לענין בישול בשר בחלב מי חלב אינו</row>
+		<row row_number="18" isdata="1">כחלב תנו רבנן בחלב אמו אין לי אלא בחלב</row>
+		<row row_number="19" isdata="1">אמו בחלב פרה ורחל מנין אמרת קל וחומר</row>
+		<row row_number="20" isdata="1">ומה אמו שלא נאסרה עמו בהרבעה נאסרה</row>
+		<row row_number="21" isdata="1">עמו בבשולו פרה ורחל שנאסרו עמו בהרבעה</row>
+		<row row_number="22" isdata="1">אינו דין שנאסרו עמו בבשולו תלמוד לומר</row>
+		<row row_number="23" isdata="1">בחלב אמו והא למה לי קרא הא אתיא ליה</row>
+		<row row_number="24" isdata="1">אמר רב אשי משום דאיכא למימר מעיקרא</row>
+		<row row_number="25" isdata="1">דדינא פירכא מהיכא קא מייתית לה מאמו מה לאמו שכן נאסרה עמו</row>
+		<row row_number="26" isdata="1">בשחיטה תאמר בפרה שלא נאסרה עמו בשחיטה תלמוד לומר בחלב אמו</row>
+		<row row_number="27" isdata="1">תניא אידך בחלב אמו אין לי אלא בחלב אמו בחלב אחותו גדולה מנין אמרת</row>
+		<row row_number="28" isdata="1">ק"ו ומה אמו שנכנסה עמו לדיר להתעשר נאסרה עמו בבשול אחותו שלא</row>
+		<row row_number="29" isdata="1">נכנסה עמו לדיר להתעשר אינו דין שנאסרה עמו בבשול תלמוד לומר בחלב</row>
+		<row row_number="30" isdata="1">אמו והא למה לי קרא הא אתיא ליה אמר רב אשי משום דאיכא למימר</row>
+		<row row_number="31" isdata="1">מעיקרא דדינא פירכא מהיכא קא מייתית לה מאמו מה לאמו שכן נאסרה</row>
+		<row row_number="32" isdata="1">עמו בשחיטה תאמר באחותו גדולה שלא נאסרה עמו בשחיטה תלמוד לומר</row>
+		<row row_number="33" isdata="1">בחלב אמו אשכחן אחותו גדולה אחותו קטנה מנין אתיא מביניא מהי תיתי</row>
+		<row row_number="34" isdata="1">תיתי מאמו מה לאמו שכן נאסרה עמו בשחיטה אחותו גדולה תוכיח מה</row>
+		<row row_number="35" isdata="1">לאחותו גדולה שלא נכנסה עמו לדיר להתעשר אמו תוכיח וחזר</row>
+		<row row_number="36" isdata="1">הדין לא ראי זה כראי זה ולא ראי זה כראי זה הצד השוה שבהן שהוא</row>
+		<row row_number="37" isdata="1">בשר ואסור לבשל בחלב אף אני אביא אחותו קטנה שהוא בשר ואסור</row>
+		<row row_number="38" isdata="1">לבשל בחלב אי הכי אחותו גדולה נמי תיתי מביניא אין הכי נמי אלא בחלב</row>
+		<row row_number="39" isdata="1">אמו למה לי מבעי ליה לכדתניא בחלב אמו אין לי אלא בחלב אמו</row>
+</amud>
+</daf>
+</masechet>
+</root>

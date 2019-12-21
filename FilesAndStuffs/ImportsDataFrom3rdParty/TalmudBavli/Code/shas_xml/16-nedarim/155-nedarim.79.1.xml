@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:18.865485</dateCreated>
+   <lastModified>2019-12-21 20:30:18.865485</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="79">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "נערה המאורסה"/><ContGemara/>שהשתיקה מקיימת ואין שתיקה מבטלת</row>
+		<row row_number="2" isdata="1">קיים בלבו קיים הפר בלבו אינו מופר קיים</row>
+		<row row_number="3" isdata="1">אין יכול להפר הפר אין יכול לקיים קתני</row>
+		<row row_number="4" isdata="1">שהשתיקה מקיימת מאי לאו בשותק על</row>
+		<row row_number="5" isdata="1">מנת למיקט לא בשותק על מנת לקיים</row>
+		<row row_number="6" isdata="1">היינו קיים בלבו קיים אלא בשותק סתם</row>
+		<row row_number="7" isdata="1">אשכחן חומר בהקם מבהפר בהפר</row>
+		<row row_number="8" isdata="1">מבהקם מנא לן  אר"י נשאלין</row>
+		<row row_number="9" isdata="1">על ההקם ואין נשאלין על ההפר מתיב</row>
+		<row row_number="10" isdata="1">רב כהנא ואם החרש יחריש לה אישה וגו'</row>
+		<row row_number="11" isdata="1">בשותק על מנת למיקט הכתוב מדבר אתה</row>
+		<row row_number="12" isdata="1">אומר בשותק על מנת למיקט או אינו אלא</row>
+		<row row_number="13" isdata="1">בשותק על מנת לקיים כשהוא אומר כי</row>
+		<row row_number="14" isdata="1">החריש לה הרי בשותק על מנת לקיים</row>
+		<row row_number="15" isdata="1">הכתוב מדבר הא מה אני מקיים אם החרש</row>
+		<row row_number="16" isdata="1">יחריש לה אישה בשותק על מנת למיקט</row>
+		<row row_number="17" isdata="1">הכתוב מדבר תיובתא ולוקים הא בשותק על</row>
+		<row row_number="18" isdata="1">מנת לקיים הא בשותק סתם קראי יתירי</row>
+		<row row_number="19" isdata="1">כתיבי מתיב רבא נדרה עם חשכה מפר</row>
+		<row row_number="20" isdata="1">לה עד שלא חשכה שאם לא הפר וחשכה</row>
+		<row row_number="21" isdata="1">אינו יכול להפר אמאי להוי כשותק על מנת</row>
+		<row row_number="22" isdata="1">למיקט תיובתא מתיב רב אשי יודע אני</row>
+		<row row_number="23" isdata="1">שיש נדרים אבל איני יודע שיש מפירין</row>
+		<row row_number="24" isdata="1">יפר יודע אני שיש מפירין אבל איני</row>
+		<row row_number="25" isdata="1">יודע שזה נדר ר"מ אומר לא יפר וחכמים</row>
+		<row row_number="26" isdata="1">אומרים יפר ואמאי ליהוי כשותק על מנת</row>
+		<row row_number="27" isdata="1">למיקט תיובתא<EndChapter name = "נערה המאורסה"/><EndGemara/></row>
+		<row row_number="28" isdata="0">הדרן עלך נערה המאורסה</row>
+		<row row_number="29" isdata="1"><StartChapter name = "ואלו נדרים "/><StartMishna/>ואלו נדרים שהוא מפר דברים שיש</row>
+		<row row_number="30" isdata="1">בהן ענוי נפש אם ארחץ ואם לא</row>
+		<row row_number="31" isdata="1">ארחץ אם אתקשט ואם לא אתקשט</row>
+</amud>
+</daf>
+</masechet>
+</root>

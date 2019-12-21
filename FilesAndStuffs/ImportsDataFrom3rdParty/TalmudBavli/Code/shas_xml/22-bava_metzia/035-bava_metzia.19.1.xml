@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:56.315638</dateCreated>
+   <lastModified>2019-12-21 20:30:56.315638</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שנים אוחזין"/><ContGemara/>אירכס ליה גיטא בי מדרשא אמר אי</row>
+		<row row_number="2" isdata="1">סימנא אית לי בגויה אי טביעות עינא</row>
+		<row row_number="3" isdata="1">אית לי בגויה אהדרוה ניהליה אמר לא</row>
+		<row row_number="4" isdata="1">ידענא אי משום סימנא אהדרוה ניהלי</row>
+		<row row_number="5" isdata="1">וקא סברי סימנין דאורייתא אי משום</row>
+		<row row_number="6" isdata="1">טביעות עינא אהדרוה ניהלי ודוקא צורבא</row>
+		<row row_number="7" isdata="1">מדרבנן אבל איניש דעלמא לא גופא מצא</row>
+		<row row_number="8" isdata="1">גט אשה בשוק בזמן שהבעל מודה יחזיר</row>
+		<row row_number="9" isdata="1">לאשה אין הבעל מודה לא יחזיר לא לזה</row>
+		<row row_number="10" isdata="1">ולא לזה בזמן שהבעל מודה מיהא יחזיר</row>
+		<row row_number="11" isdata="1">לאשה וליחוש שמא כתב ליתן בניסן ולא</row>
+		<row row_number="12" isdata="1">נתן לה עד תשרי ואזל בעל זבין פירי מניסן</row>
+		<row row_number="13" isdata="1">ועד תשרי ומפקא לגיטא דכתב בניסן</row>
+		<row row_number="14" isdata="1">ואתיא למטרף לקוחות שלא כדין הניחא</row>
+		<row row_number="15" isdata="1">למ"ד כיון שנתן עיניו לגרשה שוב אין</row>
+		<row row_number="16" isdata="1">לבעל פירות שפיר אלא למ"ד יש לבעל</row>
+		<row row_number="17" isdata="1">פירות עד שעת נתינה מאי איכא למימר</row>
+		<row row_number="18" isdata="1">כי אתיא למטרף אמרינן לה אייתי ראיה</row>
+		<row row_number="19" isdata="1">אימת מטא גיטא לידך ומאי שנא משטרי</row>
+		<row row_number="20" isdata="1">חוב דתנן מצא שטרי חוב אם יש בהן</row>
+		<row row_number="21" isdata="1">אחריות נכסים לא יחזיר ואוקימנא כשחייב</row>
+		<row row_number="22" isdata="1">מודה ומשום שמא כתב ללוות בניסן ולא</row>
+		<row row_number="23" isdata="1">לוה עד תשרי וקא טריף לקוחות שלא כדין</row>
+		<row row_number="24" isdata="1">התם נמי ליהדר וכי אתי למטרף נימא ליה</row>
+		<row row_number="25" isdata="1">אייתי ראיה אימת מטא שטר חוב לידך</row>
+		<row row_number="26" isdata="1">אמרי הכא גבי גט אשה אתי לוקח ותבעה</row>
+		<row row_number="27" isdata="1">אמר האי דהדרוה ניהלה רבנן לגיטא משום</row>
+		<row row_number="28" isdata="1">דלא תעגין ותיתיב השתא דקא אתיא</row>
+		<row row_number="29" isdata="1">למטרף תיזל ותיתי ראיה אימת מטא גיטא</row>
+		<row row_number="30" isdata="1">לידה הכא גבי שטר חוב לא אתי לוקח</row>
+		<row row_number="31" isdata="1">ותבע מדאהדרוה ניהליה רבנן לשטר</row>
+		<row row_number="32" isdata="1">חוב פשיטא למאי הלכתא אהדרוה ניהליה</row>
+		<row row_number="33" isdata="1">למטרף הוא שמע מינה קמו רבנן במילתא</row>
+		<row row_number="34" isdata="1">ומקמי דידי מטא שטרא לידיה שחרורי</row>
+		<row row_number="35" isdata="1">עבדים וכו' ת"ר מצא שטר שחרור בשוק</row>
+		<row row_number="36" isdata="1">בזמן שהרב מודה יחזיר לעבד אין הרב</row>
+		<row row_number="37" isdata="1">מודה לא יחזיר לא לזה ולא לזה בזמן</row>
+		<row row_number="38" isdata="1">שהרב מודה מיהא יחזיר לעבד ואמאי ניחוש</row>
+		<row row_number="39" isdata="1">שמא כתב ליתן לו בניסן ולא נתן לו עד</row>
+		<row row_number="40" isdata="1">תשרי ואזל עבדא וקנה נכסין מניסן</row>
+		<row row_number="41" isdata="1">ועד תשרי ואזיל הרב וזבנינהו ומפיק</row>
+		<row row_number="42" isdata="1">ליה לשחרור דכתב בניסן וקא טריף לקוחות</row>
+		<row row_number="43" isdata="1">שלא כדין הניחא למ"ד זכות הוא לעבד</row>
+		<row row_number="44" isdata="1">שיוצא מתחת רבו לחירות וכאביי דאמר</row>
+		<row row_number="45" isdata="1">עדיו בחתומיו זכין ליה שפיר אלא למ"ד</row>
+		<row row_number="46" isdata="1">חוב הוא לעבד שיוצא מתחת יד רבו</row>
+		<row row_number="47" isdata="1">לחירות מאי איכא למימר דכי אתי למטרף אמרינן ליה אייתי ראיה</row>
+		<row row_number="48" isdata="1">אימת מטא שחרור לידך דייתיקי מתנה וכו' ת"ר איזו היא דייתיקי</row>
+		<row row_number="49" isdata="1">דא תהא למיקם ולהיות שאם מת נכסיו לפלוני מתנה כל שכתוב בו</row>
+		<row row_number="50" isdata="1">מהיום ולאחר מיתה אלמא אי כתיבא מהיום ולאחר מיתה הוא דקני</row>
+		<row row_number="51" isdata="1">ואי לא לא קני אמר אביי הכי קאמר איזו היא מתנת בריא שהיא כמתנת</row>
+		<row row_number="52" isdata="1">שכיב מרע דלא קני אלא לאחר מיתה כל שכתוב בה מהיום ולאחר</row>
+		<row row_number="53" isdata="1">מיתה טעמא דלא אמר תנו הא אמר תנו נותנין ורמינהו מצא דייתקאות</row>
+		<row row_number="54" isdata="1">אפותיקאות ומתנות אע"פ ששניהם מודין לא יחזיר לא לזה ולא לזה אמר רבי אבא בר ממל לא קשיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

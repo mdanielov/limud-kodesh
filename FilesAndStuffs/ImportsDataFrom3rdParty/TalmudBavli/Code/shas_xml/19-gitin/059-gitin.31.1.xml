@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:30.939396</dateCreated>
+   <lastModified>2019-12-21 20:30:30.939396</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="31">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContGemara/>בשתי תרומות הכתוב מדבר אחת תרומה</row>
+		<row row_number="2" isdata="1">גדולה ואחת תרומת מעשר כשם שתרומה</row>
+		<row row_number="3" isdata="1">גדולה ניטלת באומד ובמחשבה כך תרומת</row>
+		<row row_number="4" isdata="1">מעשר ניטלת באומד ובמחשבה וכשם שיש</row>
+		<row row_number="5" isdata="1">לו רשות לבעל הבית לתרום תרומה גדולה</row>
+		<row row_number="6" isdata="1">כך יש לו רשות לבעל הבית לתרום תרומת</row>
+		<row row_number="7" isdata="1">מעשרמתני' המניח פירות להיות</row>
+		<row row_number="8" isdata="1">מפריש עליהן תרומה ומעשרות מעות להיות</row>
+		<row row_number="9" isdata="1">מפריש עליהן מעשר שני מפריש עליהן</row>
+		<row row_number="10" isdata="1">בחזקת שהן קיימין אם אבדו הרי זה חושש</row>
+		<row row_number="11" isdata="1">מעת לעת דברי ר' אלעזר רבי יהודה אומר</row>
+		<row row_number="12" isdata="1">בשלשה פרקים בודקין את היין בקידום של</row>
+		<row row_number="13" isdata="1">מוצאי החג ובהוצאת סמדר ובשעת כניסת</row>
+		<row row_number="14" isdata="1">מים בבוסר<EndMishna/><StartGemara/>גמ' מאי מעת לעת ר' יוחנן</row>
+		<row row_number="15" isdata="1">אמר מעת לעת של בדיקה רבי אלעזר בן</row>
+		<row row_number="16" isdata="1">אנטיגנוס אומר משום רבי אלעזר בר' ינאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:14.647403</dateCreated>
+   <lastModified>2019-12-21 20:29:14.647403</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="92">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה"/><ContGemara/>שבודקין לעושי פסח ואין בודקין לאוכלי</row>
+		<row row_number="2" isdata="1">תרומה מאי בודקין (לעושי פסח) אמר רב</row>
+		<row row_number="3" isdata="1">יהודה אמר שמואל מנפח בית הפרס והולך</row>
+		<row row_number="4" isdata="1">רב יהודה בר אביי משמיה דרב יהודה</row>
+		<row row_number="5" isdata="1">אמר בית הפרס שנידש טהור<EndChapter name = "האשה"/><EndGemara/></row>
+		<row row_number="6" isdata="0">הדרן עלך האשה</row>
+		<row row_number="7" isdata="1"><StartChapter name = "מי שהיה טמא "/><StartMishna/>מי שהיה טמא או בדרך רחוקה ולא</row>
+		<row row_number="8" isdata="1">עשה את הראשון יעשה את</row>
+		<row row_number="9" isdata="1">השני שגג או נאנס ולא עשה את הראשון</row>
+		<row row_number="10" isdata="1">יעשה את השני א"כ למה נאמר טמא או שהי'</row>
+		<row row_number="11" isdata="1">בדרך רחוקה שאלו פטורין מהכרת ואלו חייבין</row>
+		<row row_number="12" isdata="1">בהכרת<EndMishna/><StartGemara/>גמ' איתמר היה בדרך רחוקה</row>
+		<row row_number="13" isdata="1">ושחטו וזרקו עליו רב נחמן אמר הורצה רב</row>
+		<row row_number="14" isdata="1">ששת אמר לא הורצה רב נחמן אמר הורצה</row>
+		<row row_number="15" isdata="1">מיחס הוא דחס רחמנא עליו ואי עביד</row>
+		<row row_number="16" isdata="1">תבא עליו ברכה ורב ששת אמר לא הורצה</row>
+		<row row_number="17" isdata="1">מידחא דחייה רחמנא כטמא אמר ר"נ מנא</row>
+		<row row_number="18" isdata="1">אמינא לה דתנן מי שהיה טמא או בדרך</row>
+		<row row_number="19" isdata="1">רחוקה ולא עשה את הראשון יעשה את השני</row>
+		<row row_number="20" isdata="1">מכלל דאי בעי עבד ורב ששת אמר לך אי</row>
+		<row row_number="21" isdata="1">הכי סיפא דקתני שגג או נאנס ולא עשה את</row>
+		<row row_number="22" isdata="1">הראשון יעשה את השני מדקתני ולא עשה</row>
+		<row row_number="23" isdata="1">מכלל דאי בעי עבד הרי שגג והרי נאנס</row>
+		<row row_number="24" isdata="1">אלא מזיד קתני בהדייהו ה"נ אונן קתני</row>
+		<row row_number="25" isdata="1">בהדייהו אמר רב אשי מתניתין נמי דיקא</row>
+		<row row_number="26" isdata="1">דקתני אלו פטורין מהכרת ואלו חייבין</row>
+		<row row_number="27" isdata="1">בהכרת אהייא אילימא אשוגג ונאנס שוגג</row>
+		<row row_number="28" isdata="1">ונאנס בני כרת נינהו אלא לאו אמזיד ואונן</row>
+		<row row_number="29" isdata="1">ורב נחמן אמר לך לעולם אמזיד לחודיה ובדין</row>
+		<row row_number="30" isdata="1">הוא דאיבעי ליה למיתנא חייב והאי דקתני</row>
+		<row row_number="31" isdata="1">חייבין איידי דתנא רישא פטורין תנא סיפא</row>
+		<row row_number="32" isdata="1">חייבין אמר רב ששת מנא אמינא לה דתניא</row>
+		<row row_number="33" isdata="1">ר"ע אומר נאמר טמא ונאמ' בדרך רחוקה</row>
+</amud>
+</daf>
+</masechet>
+</root>

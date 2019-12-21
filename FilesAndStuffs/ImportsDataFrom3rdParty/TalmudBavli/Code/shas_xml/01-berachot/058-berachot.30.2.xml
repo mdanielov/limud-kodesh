@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:35.570796</dateCreated>
+   <lastModified>2019-12-21 20:28:35.570796</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="30">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תפלת השחר"/><ContGemara/>בנהרדעא לבר מההוא יומא דאתא פולמוסא</row>
+		<row row_number="2" isdata="1">דמלכא למתא ואטרידו רבנן ולא צלו וצלי</row>
+		<row row_number="3" isdata="1">לי ביחיד והואי יחיד שלא בחבר עיר יתיב</row>
+		<row row_number="4" isdata="1">רבי חנינא קרא קמיה דר' ינאי ויתיב וקאמר</row>
+		<row row_number="5" isdata="1">הלכה כר' יהודה שאמר משום ר' אלעזר בן</row>
+		<row row_number="6" isdata="1">עזריה א"ל פוק קרא קראיך לברא דאין</row>
+		<row row_number="7" isdata="1">הלכה כרבי יהודה שאמר משום ראב"ע א"ר</row>
+		<row row_number="8" isdata="1">יוחנן אני ראיתי את רבי ינאי דצלי והדר צלי</row>
+		<row row_number="9" isdata="1">א"ל רבי ירמיה לר' זירא ודילמא מעיקרא</row>
+		<row row_number="10" isdata="1">לא כוון דעתיה ולבסוף כוון דעתיה א"ל חזי</row>
+		<row row_number="11" isdata="1">מאן גברא רבא דקמסהיד עליה ר' אמי</row>
+		<row row_number="12" isdata="1">ור' אסי אע"ג דהוו להו תליסר בי כנישתא</row>
+		<row row_number="13" isdata="1">בטבריא לא הוו מצלו אלא ביני עמודי היכא</row>
+		<row row_number="14" isdata="1">דהוו גרסי איתמר רב יצחק בר אבדימי משום</row>
+		<row row_number="15" isdata="1">רבינו אמר הלכה כר' יהודה שאמר משום</row>
+		<row row_number="16" isdata="1">ראב"ע ר' חייא בר אבא צלי והדר צלי א"ל</row>
+		<row row_number="17" isdata="1">רבי זירא מאי טעמא עביד מר הכי אילימא</row>
+		<row row_number="18" isdata="1">משום דלא כוון מר דעתיה והאמר ר"א</row>
+		<row row_number="19" isdata="1">לעולם ימוד אדם את עצמו אם יכול לכוין</row>
+		<row row_number="20" isdata="1">את לבו יתפלל ואם לאו אל יתפלל אלא דלא</row>
+		<row row_number="21" isdata="1">אדכר מר דריש ירחא והתניא טעה ולא</row>
+		<row row_number="22" isdata="1">הזכיר של ר"ח בערבית אין מחזירין אותו</row>
+		<row row_number="23" isdata="1">מפני שיכול לאומרה בשחרית בשחרית אין</row>
+		<row row_number="24" isdata="1">מחזירין אותו מפני שיכול לאומרה במוספין</row>
+		<row row_number="25" isdata="1">במוספין אין מחזירין אותו מפני שיכול</row>
+		<row row_number="26" isdata="1">לאומרה במנחה א"ל לאו איתמר עלה א"ר</row>
+		<row row_number="27" isdata="1">יוחנן בצבור שנו כמה ישהה בין תפלה</row>
+		<row row_number="28" isdata="1">לתפלה רב הונא ור"ח חד אמר כדי</row>
+		<row row_number="29" isdata="1">שתתחונן דעתו עליו וחד אמר כדי שתתחולל</row>
+		<row row_number="30" isdata="1">דעתו עליו מאן דאמר כדי שתתחונן דעתו</row>
+		<row row_number="31" isdata="1">עליו דכתיב ואתחנן אל ה' ומ"ד כדי שתתחולל דעתו עליו דכתיב ויחל</row>
+		<row row_number="32" isdata="1">משה אמר רב ענן אמר רב טעה ולא הזכיר של ר"ח ערבית אין מחזירין אותו</row>
+		<row row_number="33" isdata="1">לפי שאין בית דין מקדשין את החדש אלא ביום אמר אמימר מסתברא מילתא</row>
+		<row row_number="34" isdata="1">דרב בחדש מלא אבל בחדש חסר מחזירין אותו א"ל רב אשי לאמימר מכדי</row>
+		<row row_number="35" isdata="1">רב טעמא קאמר מה לי חסר ומה לי מלא אלא לא שנא<EndChapter name = "תפלת השחר"/><EndGemara/></row>
+		<row row_number="36" isdata="0">הדרן עלך תפלת השחר</row>
+		<row row_number="37" isdata="1"><StartChapter name = "אין עומדין"/><StartMishna/>אין עומדין להתפלל אלא מתוך כובד ראש חסידים הראשונים היו שוהין</row>
+		<row row_number="38" isdata="1">שעה אחת ומתפללין כדי שיכוונו לבם לאביהם שבשמים אפי' המלך</row>
+		<row row_number="39" isdata="1">שואל בשלומו לא ישיבנו ואפי' נחש כרוך על עקבו לא יפסיק<EndMishna/><StartGemara/>גמ' מנא</row>
+		<row row_number="40" isdata="1">ה"מ א"ר אלעזר דאמר קרא והיא מרת נפש ממאי דילמא חנה שאני דהות</row>
+		<row row_number="41" isdata="1">מרירא לבא טובא אלא א"ר יוסי בר' חנינא מהכא ואני ברב חסדך אבא</row>
+		<row row_number="42" isdata="1">ביתך אשתחוה אל היכל קדשך ביראתך ממאי דילמא דוד שאני דהוה</row>
+		<row row_number="43" isdata="1">מצער נפשיה ברחמי טובא אלא אמר ר' יהושע בן לוי מהכא השתחוו</row>
+		<row row_number="44" isdata="1">לה' בהדרת קדש אל תקרי בהדרת אלא בחרדת ממאי דילמא לעולם אימא</row>
+		<row row_number="45" isdata="1">לך הדרת ממש כי הא דרב יהודה הוה מציין נפשיה והדר מצלי אלא א"ר</row>
+		<row row_number="46" isdata="1">נחמן בר יצחק מהכא עבדו את ה' ביראה וגילו ברעדה מאי וגילו ברעדה</row>
+		<row row_number="47" isdata="1">א"ר אדא בר מתנא אמר רבה במקום גילה שם תהא רעדה אביי הוה</row>
+		<row row_number="48" isdata="1">יתיב קמיה דרבה חזייה דהוה קא בדח טובא אמר וגילו ברעדה כתיב</row>
+		<row row_number="49" isdata="1">א"ל אנא תפילין מנחנא ר' ירמיה הוה יתיב קמיה דר' זירא חזייה דהוה קא</row>
+		<row row_number="50" isdata="1">בדח טובא אמר ליה בכל עצב יהיה מותר כתיב א"ל אנא תפילין מנחנא</row>
+		<row row_number="51" isdata="1">מר בריה דרבינא עבד הלולא לבריה חזנהו לרבנן דהוו קבדחי טובא</row>
+</amud>
+</daf>
+</masechet>
+</root>

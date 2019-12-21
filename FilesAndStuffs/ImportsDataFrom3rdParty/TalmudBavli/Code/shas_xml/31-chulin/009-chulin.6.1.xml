@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:11.700452</dateCreated>
+   <lastModified>2019-12-21 20:32:11.700452</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="6">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>ואי סלקא דעתיך לא קבלה מיניה לישני</row>
+		<row row_number="2" isdata="1">ליה כאן כשישראל עומד על גביו כאן</row>
+		<row row_number="3" isdata="1">כשאין ישראל עומד על גביו אלא לאו</row>
+		<row row_number="4" isdata="1">ש"מ קבלה מיניה ש"מ ומ"ט גזרו בהו</row>
+		<row row_number="5" isdata="1">רבנן כי הא דר"ש בן אלעזר שדריה ר"מ</row>
+		<row row_number="6" isdata="1">לאתויי חמרא מבי כותאי אשכחיה ההוא</row>
+		<row row_number="7" isdata="1">סבא א"ל ושמת סכין בלועך אם בעל</row>
+		<row row_number="8" isdata="1">נפש אתה הלך ר"ש בן אלעזר וספר דברים</row>
+		<row row_number="9" isdata="1">לפני ר"מ וגזר עליהן מאי טעמא אמר רב</row>
+		<row row_number="10" isdata="1">נחמן בר יצחק דמות יונה מצאו להן בראש</row>
+		<row row_number="11" isdata="1">הר גריזים שהיו עובדין אותה ור"מ לטעמיה</row>
+		<row row_number="12" isdata="1">דחייש למיעוטא וגזר רובא אטו מיעוטא</row>
+		<row row_number="13" isdata="1">ורבן גמליאל ובית דינו נמי כר"מ סבירא להו</row>
+		<row row_number="14" isdata="1">פשטיה דקרא במאי כתיב בתלמיד היושב</row>
+		<row row_number="15" isdata="1">לפני רבו דתני רבי חייא כי תשב ללחום</row>
+		<row row_number="16" isdata="1">את מושל בין תבין את אשר לפניך ושמת סכין בלועך אם בעל נפש</row>
+		<row row_number="17" isdata="1">אתה אם יודע תלמיד ברבו שיודע להחזיר לו טעם בין ואם לאו תבין את</row>
+		<row row_number="18" isdata="1">אשר לפניך ושמת סכין בלועך אם בעל נפש אתה פרוש הימנו רבי יצחק</row>
+		<row row_number="19" isdata="1">בן יוסף שדריה רבי אבהו לאתויי חמרא מבי כותאי אשכחיה ההוא סבא</row>
+		<row row_number="20" isdata="1">א"ל לית כאן שומרי תורה הלך רבי יצחק וספר דברים לפני רבי אבהו והלך</row>
+		<row row_number="21" isdata="1">רבי אבהו וספר דברים לפני רבי אמי ורבי אסי ולא זזו משם עד שעשאום</row>
+		<row row_number="22" isdata="1">עובדי כוכבים גמורין למאי אי לשחיטה ויין נסך מהתם גזרו בהו רבנן</row>
+		<row row_number="23" isdata="1">אינהו גזור ולא קבלו מינייהו אתו רבי אמי ורבי אסי גזרו וקבלו מינייהו מאי</row>
+		<row row_number="24" isdata="1">עובדי כוכבים גמורין אמר ר"נ בר יצחק לבטל רשות וליתן רשות וכדתניא</row>
+		<row row_number="25" isdata="1">ישראל מומר משמר שבתו בשוק מבטל רשות ונותן רשות ושאינו</row>
+		<row row_number="26" isdata="1">משמר שבתו בשוק אינו מבטל רשות ונותן רשות מפני שאמרו ישראל</row>
+		<row row_number="27" isdata="1">נותן רשות ומבטל רשות ובעובד כוכבים עד שישכור כיצד אמר לו רשותי</row>
+		<row row_number="28" isdata="1">קנויה לך רשותי מבוטלת לך קנה ואינו צריך לזכות רבי זירא ורב אסי</row>
+		<row row_number="29" isdata="1">איקלעו לפונדקא דיאי אייתו לקמייהו ביצים המצומקות ביין רבי זירא לא אכל</row>
+		<row row_number="30" isdata="1">ורב אסי אכל א"ל רבי זירא לרב אסי ולא חייש מר לתערובת דמאי א"ל לאו</row>
+		<row row_number="31" isdata="1">אדעתאי א"ר זירא אפשר גזרו על התערובת דמאי ומסתייעא מילתא דרב אסי</row>
+		<row row_number="32" isdata="1">למיכל איסורא השתא בהמתן של צדיקים אין הקב"ה מביא תקלה על</row>
+		<row row_number="33" isdata="1">ידן צדיקים עצמן לא כל שכן נפק רבי זירא דק ואשכח דתנן הלוקח יין</row>
+		<row row_number="34" isdata="1">לתת לתוך המורייס או לתוך האלונתית כרשינין לעשות מהן טחינין עדשים</row>
+		<row row_number="35" isdata="1">לעשות מהן רסיסין חייב משום דמאי ואין צריך לומר משום ודאי והן עצמן</row>
+		<row row_number="36" isdata="1">מותרין מפני שהן תערובת ולא גזרו על תערובת דמאי והתניא הנותן לשכנתו</row>
+		<row row_number="37" isdata="1">עיסה לאפות וקדירה לבשל אינו חושש לשאור ותבלין שבה לא משום</row>
+		<row row_number="38" isdata="1">שביעית ולא משום מעשר ואם אמר לה עשי לי משליכי חושש לשאור</row>
+		<row row_number="39" isdata="1">ותבלין שבה משום שביעית ומשום מעשר שאני התם דכיון דקאמר לה עשי</row>
+		<row row_number="40" isdata="1">לי משליכי כמאן דעריב בידים דמי רפרם אמר שאני שאור ותבלין דלטעמא</row>
+		<row row_number="41" isdata="1">עביד וטעמא לא בטיל ולחלופי לא חיישינן והתנן הנותן לחמותו מעשר את</row>
+		<row row_number="42" isdata="1">שהוא נותן לה ואת שהוא נוטל ממנה מפני שחשודה מחלפת המתקלקל</row>
+		<row row_number="43" isdata="1">התם כדתניא טעמא א"ר יהודה רוצה היא בתקנת בתה ובושה מחתנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

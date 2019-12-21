@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:24.075474</dateCreated>
+   <lastModified>2019-12-21 20:30:24.075474</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="56">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כהן גדול"/><ContGemara/>מה ימי חלוטו טעון תגלחת אף ימי ספרו</row>
+		<row row_number="2" isdata="1">ומה ימי חלוטו אין עולין לו מן המנין אף ימי</row>
+		<row row_number="3" isdata="1">ספרו יכול אף ימי הסגרו כן והדין נותן</row>
+		<row row_number="4" isdata="1">חלוט מטמא משכב ומושב וימי הסגרו</row>
+		<row row_number="5" isdata="1">מטמא משכב ומושב אם למדת לימי חלוטו</row>
+		<row row_number="6" isdata="1">שאין עולין לו מן המנין אף ימי הסגרו אין</row>
+		<row row_number="7" isdata="1">עולין לו מן המנין אמרת לא אם אמרת בימי</row>
+		<row row_number="8" isdata="1">חלוטו שכן חלוטו טעון תגלחת ומביא</row>
+		<row row_number="9" isdata="1">קרבן לפיכך אין עולין תאמר בימי הסגרו</row>
+		<row row_number="10" isdata="1">שאין טעון תגלחת ואינו מביא קרבן לפיכך</row>
+		<row row_number="11" isdata="1">יעלו למנין מכאן אמרו ימי ספרו וימי גמרו</row>
+		<row row_number="12" isdata="1">אין עולין לו מן המנין אבל ימי הזב והזבה</row>
+		<row row_number="13" isdata="1">והסגרו של מצורע הרי אלו עולין לו קתני</row>
+		<row row_number="14" isdata="1">מיהת לא אם אמרת בימי טומאה שכן</row>
+		<row row_number="15" isdata="1">מבטל בהן את הקודמין תאמר בימי חלוטו</row>
+		<row row_number="16" isdata="1">במאי אילימא בנזירות מועטת הא בעינן</row>
+		<row row_number="17" isdata="1">גידול שער אלא לאו בנזירות מרובה וקתני</row>
+		<row row_number="18" isdata="1">שאין עולין לו מן המנין אלמא לא סלקין</row>
+		<row row_number="19" isdata="1">ליה ש"ממתני' אמר רבי אליעזר משום</row>
+		<row row_number="20" isdata="1">ר' יהושע כל טומאה מן המת שנזיר מגלח</row>
+		<row row_number="21" isdata="1">עליה חייבין עליה על ביאת מקדש וכל</row>
+		<row row_number="22" isdata="1">טומאה מן המת שאין הנזיר מגלח עליה אין</row>
+		<row row_number="23" isdata="1">חייבין עליה על ביאת מקדש א"ר מאיר לא</row>
+		<row row_number="24" isdata="1">תהא זו קלה מן השרץ<EndMishna/><StartGemara/>גמ' ורבי אליעזר</row>
+		<row row_number="25" isdata="1">משום רבי יהושע גמר לה והא משום רבי</row>
+		<row row_number="26" isdata="1">יהושע בר ממל גמר לה דתניא אמר רבי</row>
+		<row row_number="27" isdata="1">אליעזר כשהלכתי לערדסקיא מצאתי את</row>
+		<row row_number="28" isdata="1">ר' יהושע בן פתר ראש שהיה יושב ודן לפני</row>
+		<row row_number="29" isdata="1">ר"מ בהלכה כל טומאה מן המת שהנזיר מגלח</row>
+		<row row_number="30" isdata="1">עליה חייבין עליה משום ביאת מקדש וכל</row>
+		<row row_number="31" isdata="1">טומאה מן המת שאין הנזיר מגלח עליה אין</row>
+		<row row_number="32" isdata="1">חייבין עליה משום ביאת מקדש אמר לו אל</row>
+		<row row_number="33" isdata="1">תהא זו קלה משרץ אמרתי לו כלום אתה</row>
+		<row row_number="34" isdata="1">בקי ברבי יהושע בר ממל אמר לי הן כך</row>
+		<row row_number="35" isdata="1">אמר לי רבי יהושע בר ממל משום רבי</row>
+		<row row_number="36" isdata="1">יהושע כל טומאה מן המת שהנזיר מגלח</row>
+		<row row_number="37" isdata="1">עליה חייב עליה משום ביאת מקדש וכל</row>
+		<row row_number="38" isdata="1">טומאה מן המת שאין הנזיר מגלח עליה</row>
+		<row row_number="39" isdata="1">אין חייבין עליה משום ביאת מקדש הוי</row>
+		<row row_number="40" isdata="1">משום רבי יהושע בר ממל גמיר לה אמרו</row>
+		<row row_number="41" isdata="1">שמע מינה כל שמעתתא דמתאמרה בבי</row>
+		<row row_number="42" isdata="1">תלתא קדמאי ובתראי אמרינן מציעאי לא</row>
+		<row row_number="43" isdata="1">אמרינן אמר רב נחמן בר יצחק אף אנן</row>
+		<row row_number="44" isdata="1">נמי תנינא אמר נחום הלבלר כך מקובלני מרבי מיאשא שקיבל מאבא</row>
+		<row row_number="45" isdata="1">שקבל מן הזוגות שקבלו מן הנביאים הלכה למשה מסיני בזורע שבת</row>
+		<row row_number="46" isdata="1">וחרדל בשנים ושלשה מקומות שנותן פאה מכל אחד ואחד ואילו יהושע</row>
+		<row row_number="47" isdata="1">וכלב לא קחשיב ש"ממתני' אר"ע דנתי לפני רבי אליעזר מה אם</row>
+		<row row_number="48" isdata="1">עצם כשעורה שאינו מטמא אדם באהל הנזיר מגלח על מגעו ועל</row>
+		<row row_number="49" isdata="1">משאו רביעית דם שהוא מטמא אדם באהל אינו דין שיהא הנזיר מגלח על</row>
+		<row row_number="50" isdata="1">מגעה ועל משאה אמר לי מה זה עקיבא אין דנין כאן מק"ו וכשבאתי והרציתי</row>
+		<row row_number="51" isdata="1">דברים לפני רבי יהושע אמר לי יפה אמרת אלא כן אמרו הלכה</row>
+</amud>
+</daf>
+</masechet>
+</root>

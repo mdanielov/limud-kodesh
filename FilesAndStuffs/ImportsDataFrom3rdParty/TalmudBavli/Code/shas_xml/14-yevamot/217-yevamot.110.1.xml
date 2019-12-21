@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:02.046476</dateCreated>
+   <lastModified>2019-12-21 20:30:02.046476</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="110">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בית שמאי"/><ContGemara/>מאי לאו דלא בעל לא דבעל אי דבעל</row>
+		<row row_number="2" isdata="1">מאי טעמא דשמואל קסבר כל הבועל על</row>
+		<row row_number="3" isdata="1">דעת קדושין הראשונים הוא בועל והא</row>
+		<row row_number="4" isdata="1">פליגי בה חדא זימנא דאיתמר קדשה על</row>
+		<row row_number="5" isdata="1">תנאי וכנסה סתם רב אמר צריכה הימנו גט</row>
+		<row row_number="6" isdata="1">ושמואל אמר אינה צריכה הימנו גט רב</row>
+		<row row_number="7" isdata="1">אמר צריכה הימנו גט כיון דנסבה אחולי</row>
+		<row row_number="8" isdata="1">אחליה לתנאיה ושמואל אמר אינה צריכה</row>
+		<row row_number="9" isdata="1">הימנו גט כל הבועל על דעת קדושין</row>
+		<row row_number="10" isdata="1">הראשונים הוא בועל צריכא דאי איתמר</row>
+		<row row_number="11" isdata="1">ההיא בההיא קאמר רב משום דאיכא תנאה</row>
+		<row row_number="12" isdata="1">וכיון דבעל אחליה לתנאיה אבל בהא</row>
+		<row row_number="13" isdata="1">אימא מודה ליה לשמואל ואי איתמר בהא</row>
+		<row row_number="14" isdata="1">בהך קאמר שמואל אבל בהך אימא מודה</row>
+		<row row_number="15" isdata="1">ליה לרב צריכא ומי אמר רב כי בעל אין</row>
+		<row row_number="16" isdata="1">אי לא בעל לא והא ההיא עובדא דהוה</row>
+		<row row_number="17" isdata="1">בנרש ואיקדישה כשהיא קטנה וגדלה</row>
+		<row row_number="18" isdata="1">ואותביה אבי כורסייא ואתא אחרינא וחטפה</row>
+		<row row_number="19" isdata="1">מיניה ורב ברונא ורב חננאל תלמידי דרב</row>
+		<row row_number="20" isdata="1">הוו התם ולא הצריכוה גיטא מבתרא אמר</row>
+		<row row_number="21" isdata="1">רב פפא בנרש מינסב נסיבי והדר מותבי</row>
+		<row row_number="22" isdata="1">אבי כורסייא רב אשי אמר הוא עשה שלא</row>
+		<row row_number="23" isdata="1">כהוגן לפיכך עשו בו שלא כהוגן ואפקעינהו</row>
+		<row row_number="24" isdata="1">רבנן לקידושי מיניה אמר ליה רבינא לרב</row>
+		<row row_number="25" isdata="1">אשי תינח דקדיש בכספא קדיש בביאה</row>
+		<row row_number="26" isdata="1">מאי שויוה רבנן לבעילתו בעילת זנות אמר</row>
+		<row row_number="27" isdata="1">רב יהודה אמר שמואל הלכה כרבי אליעזר</row>
+		<row row_number="28" isdata="1">וכן אמר רבי אלעזר הלכה כרבי אליעזר</row>
+		<row row_number="29" isdata="1"><EndGemara/><StartMishna/>מתני' מי שהיה נשוי לשתי יתומות</row>
+		<row row_number="30" isdata="1">קטנות ומת ביאתה או חליצתה של אחת</row>
+		<row row_number="31" isdata="1">מהם פוטרת צרתה וכן שתי חרשות קטנה</row>
+		<row row_number="32" isdata="1">וחרשת אין ביאת אחת מהן פוטרת צרתה</row>
+		<row row_number="33" isdata="1">פקחת וחרשת ביאת הפקחת פוטרת</row>
+		<row row_number="34" isdata="1">החרשת ואין ביאת החרשת פוטרת את</row>
+		<row row_number="35" isdata="1">הפקחת גדולה וקטנה ביאת הגדולה פוטרת</row>
+		<row row_number="36" isdata="1">הקטנה ואין ביאת הקטנה פוטרת הגדולה</row>
+		<row row_number="37" isdata="1"><EndMishna/><StartGemara/>גמ' וחרשת בת חליצה היא והתנן חרש</row>
+		<row row_number="38" isdata="1">שנחלץ וחרשת שחלצה וחולצת מן הקטן</row>
+		<row row_number="39" isdata="1">חליצתה פסולה אמר רב גידל אמר רב</row>
+		<row row_number="40" isdata="1">אביאה רבא אמר אפילו תימא אחליצה</row>
+		<row row_number="41" isdata="1">כאן בחרשת מעיקרא כאן בפקחת ואח"כ</row>
+		<row row_number="42" isdata="1">נתחרשה חרשת מעיקרא כי היכי דעל הכי</row>
+		<row row_number="43" isdata="1">נפק פקחת ואחר כך נתחרשה לא דמעכבא בה קרייה איתיביה אביי וחרשת</row>
+		<row row_number="44" isdata="1">מעיקרא בת חליצה היא והתנן שני אחין אחד פקח ואחד חרש נשואין לשתי</row>
+		<row row_number="45" isdata="1">נכריות אחת פקחת ואחת חרשת מת חרש בעל חרשת מה יעשה פקח בעל</row>
+		<row row_number="46" isdata="1">פקחת כונס ואם רצה להוציא יוציא מת פקח בעל פקחת מה יעשה חרש בעל</row>
+		<row row_number="47" isdata="1">חרשת כונס ואינו מוציא לעולם מאי לאו בחרשת מעיקרא וקתני כונס אין</row>
+</amud>
+</daf>
+</masechet>
+</root>

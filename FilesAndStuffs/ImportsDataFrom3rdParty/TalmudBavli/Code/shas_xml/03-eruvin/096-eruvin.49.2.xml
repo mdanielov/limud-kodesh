@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:57.567415</dateCreated>
+   <lastModified>2019-12-21 20:28:57.567415</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="49">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>וקטן אמר ליה אביי לרבה לדידך קשיא</row>
+		<row row_number="2" isdata="1">ולשמואל קשיא הא תניא חמשה שגבו את</row>
+		<row row_number="3" isdata="1">עירובן כשהם מוליכין את עירובן למקום אחר</row>
+		<row row_number="4" isdata="1">אחד מוליך לכולן הוא ניהו דקא קני ותו לא</row>
+		<row row_number="5" isdata="1">הוא ניהו דקא דייר ותו לא אמר ליה לא</row>
+		<row row_number="6" isdata="1">לדידי קשיא ולא לשמואל קשיא שליחות</row>
+		<row row_number="7" isdata="1">דכולהו קא עביד אמר רבה אמר רב חמא</row>
+		<row row_number="8" isdata="1">בר גוריא אמר רב הלכה כרבי שמעון</row>
+		<row row_number="9" isdata="1"><EndGemara/><StartMishna/>מתני' מי שבא בדרך וחשכה לו והיה</row>
+		<row row_number="10" isdata="1">מכיר אילן או גדר ואמר שביתתי תחתיו לא</row>
+		<row row_number="11" isdata="1">אמר כלום שביתתי בעיקרו מהלך ממקום</row>
+		<row row_number="12" isdata="1">רגליו ועד עיקרו אלפים אמה ומעיקרו ועד</row>
+		<row row_number="13" isdata="1">ביתו אלפים אמה נמצא מהלך משחשיכה</row>
+		<row row_number="14" isdata="1">ארבעת אלפים אמה אם אינו מכיר או</row>
+		<row row_number="15" isdata="1">שאינו בקי בהלכה ואמר שביתתי במקומי</row>
+		<row row_number="16" isdata="1">זכה לו מקומו אלפים אמה לכל רוח עגולות</row>
+		<row row_number="17" isdata="1">דברי ר' חנינא בן אנטיגנוס וחכמים אומרים</row>
+		<row row_number="18" isdata="1">מרובעות כטבלא מרובעת כדי שיהיה</row>
+		<row row_number="19" isdata="1">נשכר לזויות וזו היא שאמרו העני מערב</row>
+		<row row_number="20" isdata="1">ברגליו אמר ר"מ אנו אין לנו אלא עני רבי</row>
+		<row row_number="21" isdata="1">יהודה אומר אחד עני ואחד עשיר לא אמרו</row>
+		<row row_number="22" isdata="1">מערבין בפת אלא להקל על העשיר שלא</row>
+		<row row_number="23" isdata="1">יצא ויערב ברגליו<EndMishna/><StartGemara/>גמ' מאי לא אמר כלום</row>
+		<row row_number="24" isdata="1">אמר רב לא אמר כלום כל עיקר דאפילו</row>
+		<row row_number="25" isdata="1">לתחתיו של אילן לא מצי אזיל ושמואל אמר</row>
+		<row row_number="26" isdata="1">לא אמר כלום לביתו אבל לתחתיו של</row>
+		<row row_number="27" isdata="1">אילן מצי אזיל ונעשה תחתיו של אילן חמר</row>
+		<row row_number="28" isdata="1">גמל בא למדוד מן הצפון מודדין לו מן הדרום</row>
+		<row row_number="29" isdata="1">בא למדוד מן הדרום מודדין לו מן הצפון</row>
+</amud>
+</daf>
+</masechet>
+</root>

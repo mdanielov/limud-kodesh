@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:41.770405</dateCreated>
+   <lastModified>2019-12-21 20:29:41.770405</lastModified>
+ </meta>
+ <masechet name="ראש השנה" serial="09">
+<daf value="25">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אם אינן מכירין"/><ContGemara/>ואומר משה ואהרן בכהניו ושמואל בקוראי</row>
+		<row row_number="2" isdata="1">שמו שקל הכתוב שלשה קלי עולם כשלשה</row>
+		<row row_number="3" isdata="1">חמורי עולם לומר לך ירובעל בדורו כמשה</row>
+		<row row_number="4" isdata="1">בדורו בדן בדורו כאהרן בדורו יפתח בדורו</row>
+		<row row_number="5" isdata="1">כשמואל בדורו ללמדך שאפילו קל</row>
+		<row row_number="6" isdata="1">שבקלין ונתמנה פרנס על הצבור הרי הוא</row>
+		<row row_number="7" isdata="1">כאביר שבאבירים ואומר ובאת אל</row>
+		<row row_number="8" isdata="1">הכהנים הלוים ואל השופט אשר יהיה בימים</row>
+		<row row_number="9" isdata="1">ההם וכי תעלה על דעתך שאדם הולך אצל</row>
+		<row row_number="10" isdata="1">הדיין שלא היה בימיו הא אין לך לילך</row>
+		<row row_number="11" isdata="1">אלא אצל שופט שבימיו ואומר אל תאמר</row>
+		<row row_number="12" isdata="1">מה היה שהימים הראשונים היו טובים</row>
+		<row row_number="13" isdata="1">מאלה נטל מקלו ומעותיו בידו תנו רבנן</row>
+		<row row_number="14" isdata="1">כיון שראה אותו עמד מכסאו ונשקו על ראשו</row>
+		<row row_number="15" isdata="1">אמר לו שלום עליך רבי ותלמידי רבי</row>
+		<row row_number="16" isdata="1">שלמדתני תורה ברבים ותלמידי שאני גוזר</row>
+		<row row_number="17" isdata="1">עליך גזירה ואתה מקיימה כתלמיד אשרי</row>
+		<row row_number="18" isdata="1">הדור שהגדולים נשמעים לקטנים קל וחומר</row>
+		<row row_number="19" isdata="1">קטנים לגדולים קל וחומר חיובא הוא אלא</row>
+		<row row_number="20" isdata="1">מתוך שהגדולים נשמעים לקטנים נושאין</row>
+		<row row_number="21" isdata="1">קטנים קל וחומר בעצמן<EndChapter name = "אם אינן מכירין"/><EndGemara/></row>
+		<row row_number="22" isdata="0">הדרן עלך אם אינן מכירין</row>
+		<row row_number="23" isdata="1"><StartChapter name = "ראוהו בית דין"/><StartMishna/>ראוהו בית דין וכל ישראל נחקרו העדים</row>
+		<row row_number="24" isdata="1">ולא הספיקו לומר מקודש עד</row>
+		<row row_number="25" isdata="1">שחשיכה הרי זה מעובר ראוהו ב"ד בלבד</row>
+		<row row_number="26" isdata="1">יעמדו שנים ויעידו בפניהם ויאמרו מקודש</row>
+		<row row_number="27" isdata="1">מקודש ראוהו שלשה והן בית דין יעמדו השנים ויושיבו מחביריהם אצל</row>
+		<row row_number="28" isdata="1">היחיד ויעידו בפניהם ויאמרו מקודש מקודש שאין היחיד נאמן על ידי</row>
+		<row row_number="29" isdata="1">עצמו<EndMishna/><StartGemara/>גמ' למה לי למיתנא ראוהו בית דין וכל ישראל איצטריך סד"א</row>
+		<row row_number="30" isdata="1">הואיל וראוהו בית דין וכל ישראל איפרסמא לה ולא ליעברוה קמ"ל וכיון</row>
+		<row row_number="31" isdata="1">דתנא ליה ראוהו ב"ד וכל ישראל נחקרו העדים למה לי ה"ק א"נ נחקרו</row>
+		<row row_number="32" isdata="1">העדים ולא הספיקו לומר מקודש עד שחשיכה הרי זה מעובר וכיון דתנא</row>
+		<row row_number="33" isdata="1">עד שחשיכה הרי זה מעובר למה לי למיתנייה חקירת העדים כלל איצטריך</row>
+		<row row_number="34" isdata="1">סד"א תיהוי חקירת עדים כתחילת דין ומקודש מקודש כגמר דין ולקדשי</row>
+		<row row_number="35" isdata="1">בליליא מידי דהוה אדיני ממונות דתנן דיני ממונות דנין ביום וגומרין</row>
+		<row row_number="36" isdata="1">בלילה הכא נמי מקדשין בליליא קמ"ל ואימא הכי נמי אמר קרא כי חק</row>
+		<row row_number="37" isdata="1">לישראל הוא משפט לאלהי יעקב אימת הוי חק בגמר דין וקא קרי ליה</row>
+		<row row_number="38" isdata="1">רחמנא משפט מה משפט ביום אף הכא נמי ביום ראוהו בית דין יעמדו</row>
+		<row row_number="39" isdata="1">שנים ויעידו בפניהם ואמאי לא תהא שמיעה גדולה מראייה א"ר זירא כגון</row>
+		<row row_number="40" isdata="1">שראוהו בלילה ראוהו שלשה והן בית דין יעמדו שנים ויושיבו מחביריהם</row>
+		<row row_number="41" isdata="1">אצל היחיד אמאי הכא נמי נימא לא תהא שמיעה גדולה מראייה וכי</row>
+		<row row_number="42" isdata="1">תימא ה"נ כגון שראוהו בלילה היינו הך סיפא איצטריכא ליה דאין היחיד</row>
+		<row row_number="43" isdata="1">נאמן על ידי עצמו דסלקא דעתך אמינא הואיל (ותנן) דיני ממונות בשלשה ואם היה מומחה לרבים דן</row>
+		<row row_number="44" isdata="1">אפילו ביחיד הכא נמי ניקדשיה ביחידי קמ"ל ואימא הכא נמי אין לך מומחה לרבים בישראל יותר ממשה</row>
+		<row row_number="45" isdata="1">רבינו וקאמר ליה הקב"ה עד דאיכא אהרן בהדך דכתיב ויאמר ה' אל משה ואל אהרן בארץ מצרים לאמר</row>
+		<row row_number="46" isdata="1">החדש הזה לכם למימרא דעד נעשה דיין לימא מתני' דלא כר"ע דתניא סנהדרין שראו אחד שהרג את הנפש</row>
+</amud>
+</daf>
+</masechet>
+</root>

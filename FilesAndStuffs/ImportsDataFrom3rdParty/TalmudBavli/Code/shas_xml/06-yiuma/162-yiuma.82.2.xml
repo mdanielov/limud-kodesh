@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:28.825404</dateCreated>
+   <lastModified>2019-12-21 20:29:28.825404</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="82">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יום הכפורים"/><ContGemara/>ורוצח גופיה מנא לן סברא היא דההוא</row>
+		<row row_number="2" isdata="1">דאתא לקמיה (דרבא) אמר ליה אמר לי</row>
+		<row row_number="3" isdata="1">מרי דוראי קטליה לפלניא ואי לא קטילנא לך</row>
+		<row row_number="4" isdata="1">א"ל נקטלך ולא תקטול מאי חזית דדמא דידך</row>
+		<row row_number="5" isdata="1">סומק טפי דילמא דמא דההוא גברא סומק טפי</row>
+		<row row_number="6" isdata="1">ההיא עוברה דארחא אתו לקמיה דרבי אמר</row>
+		<row row_number="7" isdata="1">להו זילו לחושו לה דיומא דכיפורי הוא לחושו</row>
+		<row row_number="8" isdata="1">לה ואילחישא קרי עליה בטרם אצרך בבטן</row>
+		<row row_number="9" isdata="1">ידעתיך וגו' נפק מינה רבי יוחנן ההיא עוברה</row>
+		<row row_number="10" isdata="1">דארחא אתו לקמיה דרבי חנינא אמר להו לחושו לה ולא אילחישא קרי עליה</row>
+</amud>
+</daf>
+</masechet>
+</root>

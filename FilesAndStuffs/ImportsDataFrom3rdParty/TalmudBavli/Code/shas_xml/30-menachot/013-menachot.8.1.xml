@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:02.034908</dateCreated>
+   <lastModified>2019-12-21 20:32:02.034908</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="8">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל המנחות"/><ContGemara/>ואם איתא לילף מדם וכי תימא רבי אלעזר</row>
+		<row row_number="2" isdata="1">מילתא ממילתא לא גמר והא אמר ר' אלעזר</row>
+		<row row_number="3" isdata="1">מנחה שקמצה בהיכל כשרה שכן מצינו</row>
+		<row row_number="4" isdata="1">בסילוק בזיכין מנחה ממנחה יליף מנחה מדם</row>
+		<row row_number="5" isdata="1">לא יליף ומנחה ממנחה מי יליף והתניא</row>
+		<row row_number="6" isdata="1">עד שלא פרקה נפרס לחמה הלחם פסול</row>
+		<row row_number="7" isdata="1">ואין מקטיר עליו את הבזיכין משפרקה</row>
+		<row row_number="8" isdata="1">נפרס לחמה הלחם פסול ומקטיר עליו את</row>
+		<row row_number="9" isdata="1">הבזיכין ואמר ר' אלעזר לא פרקה ממש אלא</row>
+		<row row_number="10" isdata="1">כיון שהגיע זמנה לפרק אע"פ שלא פרקה כמי</row>
+		<row row_number="11" isdata="1">שפרקה דמיא ואמאי תיהוי כמנחה שחסרה</row>
+		<row row_number="12" isdata="1">קודם קמיצה הא לא קשיא מנחה לא בריר</row>
+		<row row_number="13" isdata="1">ברירה קומץ דידיה והא בריר ברירה קומץ</row>
+		<row row_number="14" isdata="1">דידה וכיון שהגיע זמנה לפרק כמאן דפרקה</row>
+		<row row_number="15" isdata="1">דמיא אלא מעתה תיהוי כשירים שחסרו בין</row>
+		<row row_number="16" isdata="1">קמיצה להקטרה דאין מקטירין קומץ עליהן</row>
+		<row row_number="17" isdata="1">לאו פלוגתא נינהו רבי אלעזר סבר לה כמ"ד</row>
+		<row row_number="18" isdata="1">שירים שחסרו בין קמיצה להקטרה מקטיר</row>
+		<row row_number="19" isdata="1">קומץ עליהן גופא חביתי כהן גדול רבי יוחנן</row>
+		<row row_number="20" isdata="1">אמר אינה קדושה לחצאין ור' אלעזר אמר</row>
+		<row row_number="21" isdata="1">מתוך שקרבה לחצאין קדושה לחצאין א"ר</row>
+		<row row_number="22" isdata="1">אחא מאי טעמא דרבי יוחנן אמר קרא מנחה</row>
+		<row row_number="23" isdata="1">מחציתה הביא מנחה ואח"כ חוציהו מיתיבי</row>
+		<row row_number="24" isdata="1">חביתי כהן גדול לא היו באות חצאין אלא</row>
+		<row row_number="25" isdata="1">מביא עשרון שלם וחוצהו ותניא אילו נאמר</row>
+		<row row_number="26" isdata="1">מנחה מחצית הייתי אומר מביא חצי עשרון</row>
+		<row row_number="27" isdata="1">מביתו שחרית ומקריב חצי עשרון מביתו</row>
+		<row row_number="28" isdata="1">ערבית ומקריב ת"ל מחציתה בבקר מחצה</row>
+		<row row_number="29" isdata="1">משלם הוא מביא למצוה אמר ליה רב גביהא</row>
+		<row row_number="30" isdata="1">מבי כתיל לרב אשי והא חוקה כתיב בה</row>
+		<row row_number="31" isdata="1">אמר ליה לא נצרכא אלא להביאה שלם</row>
+		<row row_number="32" isdata="1">מביתו ומי א"ר יוחנן הכי והא איתמר הפריש</row>
+		<row row_number="33" isdata="1">חצי עשרון ודעתו להוסיף רב אמר אינו</row>
+		<row row_number="34" isdata="1">קדוש ור' יוחנן אמר קדוש ואם איתא לילף</row>
+		<row row_number="35" isdata="1">מחביתין וכי תימא ר' יוחנן מילתא ממילתא</row>
+		<row row_number="36" isdata="1">לא יליף והאמר רבי יוחנן שלמים ששחטן</row>
+		<row row_number="37" isdata="1">בהיכל כשירין דכתיב ושחטו פתח אהל מועד</row>
+		<row row_number="38" isdata="1">שלא יהא טפל חמור מעיקר דעתו להוסיף שאני דתניא מלאים אין</row>
+		<row row_number="39" isdata="1">מלאים אלא שלמים (כלומר שאינו קדוש עד שיהא עשרון שלם) ואמר רבי</row>
+		<row row_number="40" isdata="1">יוסי אימתי בזמן שאין דעתו להוסיף אבל בזמן שדעתו להוסיף ראשון ראשון</row>
+		<row row_number="41" isdata="1">קדוש ורב בחביתין כמאן ס"ל אי כר' אלעזר לילף מחביתין וכי תימא רב מילתא</row>
+		<row row_number="42" isdata="1">ממילתא לא יליף והאמר רב מנחה קדושה בלא שמן  (ובלא לבונה) שכן</row>
+		<row row_number="43" isdata="1">מצינו בלחם הפנים בלא לבונה שכן מצינו במנחת נסכים בלא שמן ובלא לבונה</row>
+		<row row_number="44" isdata="1">שכן מצינו במנחת חוטא על כרחיך רב כר' יוחנן ס"ל גופא אמר רב מנחה קדושה</row>
+		<row row_number="45" isdata="1">בלא שמן (ואין דינה כעשרון חסר) שכן מצינו בלחם הפנים בלא לבונה שכן</row>
+		<row row_number="46" isdata="1">מצינו במנחת נסכים בלא שמן ובלא לבונה שכן מצינו במנחת חוטא ושמן</row>
+		<row row_number="47" isdata="1">ולבונה קדשי האי בלא האי והאי בלא האי שמן שכן מצינו בלוג שמן</row>
+		<row row_number="48" isdata="1">של מצורע לבונה שכן מצינו בלבונה הבאה בבזיכין ורבי חנינא אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

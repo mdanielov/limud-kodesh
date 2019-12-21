@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:01.748443</dateCreated>
+   <lastModified>2019-12-21 20:29:01.748443</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="90">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>לנטורי תרביצא הוא דעבידא בעי רמי בר</row>
+		<row row_number="2" isdata="1">חמא שתי אמות בגג ושתי אמות בעמוד</row>
+		<row row_number="3" isdata="1">מהו אמר רבה מאי קא מיבעיא ליה כרמלית</row>
+		<row row_number="4" isdata="1">ורה"י קא מיבעיא ליה ורמי בר חמא אגב</row>
+		<row row_number="5" isdata="1">חורפיה לא עיין בה אלא הכי קמיבעיא ליה</row>
+		<row row_number="6" isdata="1">ב' אמות בגג וב' אמות באכסדרה מהו מי</row>
+		<row row_number="7" isdata="1">אמרינן כיון דלא האי חזי לדירה ולא האי חזי</row>
+		<row row_number="8" isdata="1">לדירה חדא רשותא היא או דילמא כיון דמגג</row>
+		<row row_number="9" isdata="1">לגג אסיר מגג לאכסדרה נמי אסיר בעי רב</row>
+		<row row_number="10" isdata="1">ביבי בר אביי ב' אמות בגג וב' אמות בחורבה</row>
+		<row row_number="11" isdata="1">מהו אמר רב כהנא לאו היינו דרמי בר חמא</row>
+		<row row_number="12" isdata="1">אמר רב ביבי בר אביי וכי מאחר אתאי</row>
+		<row row_number="13" isdata="1">ונצאי אכסדרה לא חזיא לדירה וחורבה חזיא</row>
+		<row row_number="14" isdata="1">לדירה וכי מאחר דחזיא לדירה מאי קמיבעיא</row>
+		<row row_number="15" isdata="1">ליה אם תימצי לומר קאמר אם תימצי לומר</row>
+		<row row_number="16" isdata="1">אכסדרה לא חזיא לדירה חורבה חזיא</row>
+		<row row_number="17" isdata="1">לדירה או דילמא השתא מיהא לית בה</row>
+		<row row_number="18" isdata="1">דיורין תיקו גגין השוין לר"מ וגג יחידי לרבנן</row>
+		<row row_number="19" isdata="1">רב אמר מותר לטלטל בכולו ושמואל אמר</row>
+		<row row_number="20" isdata="1">אין מטלטלין בו אלא בד' רב אמר מותר</row>
+		<row row_number="21" isdata="1">לטלטל בכולו קשיא דרב אדרב התם לא</row>
+		<row row_number="22" isdata="1">מינכרא מחיצתא הכא מינכרא מחיצתא</row>
+		<row row_number="23" isdata="1">ושמואל אמר אין מטלטלין בו אלא בד'</row>
+		<row row_number="24" isdata="1">אמות קשיא דשמואל אדשמואל התם לא הוי</row>
+		<row row_number="25" isdata="1">יותר מבית סאתים הכא הוי יותר מבית</row>
+		<row row_number="26" isdata="1">סאתים והני מחיצות למטה עבידן למעלה</row>
+		<row row_number="27" isdata="1">לא עבידן והוה כקרפף יתר מבית סאתים</row>
+		<row row_number="28" isdata="1">שלא הוקף לדירה וכל קרפף יותר מבית</row>
+		<row row_number="29" isdata="1">סאתים שלא הוקף לדירה אין מטלטלין בו</row>
+		<row row_number="30" isdata="1">אלא בד' איתמר ספינה רב אמר מותר</row>
+		<row row_number="31" isdata="1">לטלטל בכולה ושמואל אמר אין מטלטלין</row>
+		<row row_number="32" isdata="1">בה אלא בד' רב אמר מותר לטלטל בכולה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:28.098820</dateCreated>
+   <lastModified>2019-12-21 20:32:28.098820</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="6">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר חמורו"/><ContGemara/>תלמוד לומר פטר חמור פטר חמור שני</row>
+		<row row_number="2" isdata="1">פעמים פטרי חמורים אמרתי לך ולא פטרי</row>
+		<row row_number="3" isdata="1">סוסים וגמלים פריך רב אחאי אי כתב רחמנא</row>
+		<row row_number="4" isdata="1">חד הוה אמינא דבר שהיה בכלל ויצא מן הכלל</row>
+		<row row_number="5" isdata="1">ללמד לא ללמד על עצמו יצא אלא ללמד על</row>
+		<row row_number="6" isdata="1">הכלל כולו יצא ולעולם בשה כתב רחמנא פטר</row>
+		<row row_number="7" isdata="1">חמור אחרינא פטרי חמורים ולא פטרי סוסים</row>
+		<row row_number="8" isdata="1">וגמלים ואימא מעטינהו משה ולעולם בכל</row>
+		<row row_number="9" isdata="1">דבר א"כ לכתוב רחמנא פטר חמור תפדה</row>
+		<row row_number="10" isdata="1">בשה וחמור תפדה בשה פטר חמור תפדה</row>
+		<row row_number="11" isdata="1">בשה פטר חמור תפדה בשה למה לי פטרי</row>
+		<row row_number="12" isdata="1">חמורים אמרתי לך ולא פטרי סוסים וגמלים</row>
+		<row row_number="13" isdata="1">ותנא דידן למעוטי סוסים וגמלים מנא ליה</row>
+		<row row_number="14" isdata="1">אמר רב פפא כל מקנך תזכר כלל שור ושה</row>
+		<row row_number="15" isdata="1">וחמור פרט כלל ופרט אין בכלל אלא מה</row>
+		<row row_number="16" isdata="1">שבפרט שור ושה וחמור אין מידי אחרינא לא</row>
+		<row row_number="17" isdata="1">ורבי יוסי הגלילי פטר הפסיק הענין ורבנן וי"ו</row>
+		<row row_number="18" isdata="1">הדר ערבי' קרא ור' יוסי הגלילי לא לכתוב לא</row>
+		<row row_number="19" isdata="1">וי"ו ולא פטר ורבנן איידי דהא קדושת דמים</row>
+		<row row_number="20" isdata="1">והא קדושת הגוף פסיק להו והדר עריב להו</row>
+		<row row_number="21" isdata="1">איבעיא להו פרה שילדה מין חמור ויש בו</row>
+		<row row_number="22" isdata="1">מקצת סימנין מהו עז שילדה מין רחל ורחל</row>
+		<row row_number="23" isdata="1">שילדה מין עז דכי יש מקצת סימנין חייבת</row>
+		<row row_number="24" isdata="1">בבכורה דהא טהורה והא טהורה הא קדושת</row>
+		<row row_number="25" isdata="1">הגוף והא קדושת הגוף הכא דהא טמאה והא</row>
+		<row row_number="26" isdata="1">טהורה הא קדושת הגוף והא קדושת דמים</row>
+		<row row_number="27" isdata="1">לא או דלמא כיון דאידי ואידי בני מיקדש</row>
+		<row row_number="28" isdata="1">בבכורה קדוש ואת"ל כיון דאידי ואידי מיקדש</row>
+		<row row_number="29" isdata="1">בבכורה קדוש חמור שילדה מין סוס מהו הכא</row>
+		<row row_number="30" isdata="1">ודאי לא בת מיקדש בבכורה הוא או דלמא</row>
+		<row row_number="31" isdata="1">כיון דמין טמאה הוא קדוש אם תמצא לומר</row>
+		<row row_number="32" isdata="1">כיון דמין טמאה הוא קדוש פרה שילדה מין</row>
+		<row row_number="33" isdata="1">סוס מהו הכא ודאי הא טהורה והא טמאה הא</row>
+		<row row_number="34" isdata="1">בת מיקדש בבכורה והא לא בת מיקדש</row>
+		<row row_number="35" isdata="1">בבכורה או דלמא סימנין מילתא היא תא</row>
+		<row row_number="36" isdata="1">שמע בהמה טהורה שילדה מין בהמה טמאה</row>
+		<row row_number="37" isdata="1">פטורה מן הבכורה אם יש בו מקצת סימנין</row>
+		<row row_number="38" isdata="1">חייבת בבכורה מאי לאו אפי' פרה שילדה מין</row>
+		<row row_number="39" isdata="1">סוס לא פרה שילדה מין חמור ת"ש פרה</row>
+		<row row_number="40" isdata="1">שילדה מין חמור וחמור שילדה מין סוס</row>
+		<row row_number="41" isdata="1">פטורה מן הבכורה אם יש בו מקצת סימנין</row>
+		<row row_number="42" isdata="1">חייבת בבכורה מאי לאו אתרוייהו לא אפרה</row>
+		<row row_number="43" isdata="1">שילדה מין חמור אבל חמור שילדה מין סוס</row>
+		<row row_number="44" isdata="1">למאי קתני לה לפטורא פשיטא השתא ומה</row>
+		<row row_number="45" isdata="1">פרה שילדה מין חמור דאידי ואידי בני מיקדש</row>
+		<row row_number="46" isdata="1">בבכורה נינהו אמרת אם יש בו מקצת סימנין</row>
+		<row row_number="47" isdata="1">אין ואי לא לא חמור שילדה מין סוס מיבעיא</row>
+		<row row_number="48" isdata="1">איצטריך ס"ד התם הוא דיש לה קרנים והא אין לה קרנים הא פרסותיה סדוקות והא פרסותיה קלוטות אבל</row>
+		<row row_number="49" isdata="1">הכא דאידי ואידי אין לה קרנים אידי ואידי פרסותיה קלוטות אימא חמור אדום בעלמא הוא קמשמע לן ומה</row>
+		<row row_number="50" isdata="1">הן באכילה כו' למה לי למיתני שהיוצא סימנא בעלמא הוא דלא תיחלף לך דלא תימא זיל בתריה דידיה</row>
+		<row row_number="51" isdata="1">והאי טהור מעליא הוא והאי טמא מעליא הוא אלא זיל בתר אימיה מנא הני מילי דתנו רבנן אך את זה לא</row>
+		<row row_number="52" isdata="1">תאכלו ממעלי הגרה וממפריסי הפרסה יש לך שהוא מעלה גרה ומפריס פרסה ואי אתה אוכלו ואיזה זה</row>
+		<row row_number="53" isdata="1">טהור שנולד מן הטמא או אינו אלא טמא הנולד מן הטהור ומאי ממעלי הגרה וממפריסי הפרסה</row>
+</amud>
+</daf>
+</masechet>
+</root>

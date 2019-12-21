@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:46.761710</dateCreated>
+   <lastModified>2019-12-21 20:30:46.761710</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="44">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח ארבעה וחמשה"/><ContGemara/>שור באדם שעשה בו קטנים כגדולים אינו</row>
+		<row row_number="2" isdata="1">דין שחייב על הקטנים כגדולים לא אם</row>
+		<row row_number="3" isdata="1">אמרת אדם באדם שכן חייב בארבעה דברים</row>
+		<row row_number="4" isdata="1">תאמר בשור שאינו חייב בד' דברים ת"ל</row>
+		<row row_number="5" isdata="1">או בן יגח או בת יגח לחייב על הקטנים</row>
+		<row row_number="6" isdata="1">כגדולים ואין לי אלא במועדין בתם מנין דין</row>
+		<row row_number="7" isdata="1">הוא הואיל וחייב באיש ואשה וחייב בבן ובת</row>
+		<row row_number="8" isdata="1">מה כשחייב באיש ואשה לא חלקת בו בין</row>
+		<row row_number="9" isdata="1">תם למועד אף כשחייב בבן ובת לא תחלוק</row>
+		<row row_number="10" isdata="1">בו בין תם למועד ועוד קל וחומר מה איש</row>
+		<row row_number="11" isdata="1">ואשה שכן הורע כחם בנזקין לא חלקת בו</row>
+		<row row_number="12" isdata="1">בין תם למועד בן ובת שיפה כחם בנזקין</row>
+		<row row_number="13" isdata="1">אינו דין שלא תחלוק בהן בין תם למועד</row>
+		<row row_number="14" isdata="1">אמרת וכי דנין קל מחמור להחמיר (עליו</row>
+		<row row_number="15" isdata="1">אם החמיר במועד החמור תחמיר בתם הקל</row>
+		<row row_number="16" isdata="1">ועוד) אם אמרת באיש ואשה שכן חייבין</row>
+		<row row_number="17" isdata="1">במצות תאמר בבן ובת שפטורין מן המצות</row>
+		<row row_number="18" isdata="1">ת"ל או בן יגח או בת יגח נגיחה בתם</row>
+		<row row_number="19" isdata="1">נגיחה במועד נגיחה למיתה נגיחה לנזקין</row>
+		<row row_number="20" isdata="1"><EndGemara/><StartMishna/>מתני' שור שהיה מתחכך בכותל ונפל</row>
+		<row row_number="21" isdata="1">על האדם נתכוין להרוג את הבהמה והרג</row>
+		<row row_number="22" isdata="1">את האדם לכנעני והרג בן ישראל</row>
+		<row row_number="23" isdata="1">לנפלים והרג בן קיימא פטור<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="24" isdata="1">שמואל פטור ממיתה וחייב בכופר ורב אמר</row>
+		<row row_number="25" isdata="1">פטור מזה ומזה ואמאי הא תם הוא כדאמר</row>
+		<row row_number="26" isdata="1">רב במועד ליפול על בני אדם בבורות הכא</row>
+		<row row_number="27" isdata="1">נמי במועד להתחכך על בני אדם בכתלים</row>
+		<row row_number="28" isdata="1">אי הכי בר קטלא הוא בשלמא התם</row>
+		<row row_number="29" isdata="1">דחזא ירוקא ונפל אלא הכא מאי איכא</row>
+		<row row_number="30" isdata="1">למימר הכא נמי במתחכך בכותל להנאתו</row>
+		<row row_number="31" isdata="1">ומנא ידעינן דבתר דנפל קא מתחכך ביה</row>
+</amud>
+</daf>
+</masechet>
+</root>

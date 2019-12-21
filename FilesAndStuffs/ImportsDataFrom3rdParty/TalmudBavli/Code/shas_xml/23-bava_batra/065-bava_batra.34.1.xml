@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:08.651198</dateCreated>
+   <lastModified>2019-12-21 20:31:08.651198</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="34">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>היכי נידיינוה דייני להאי דינא לישלם ליכא</row>
+		<row row_number="2" isdata="1">תרי סהדי ליפטריה איכא חד סהדא לישתבע</row>
+		<row row_number="3" isdata="1">הא אמר מיחטף חטפה וכיון דאמר דחטפה</row>
+		<row row_number="4" isdata="1">הוה ליה כגזלן אמר (להו) רבי אבא הוי</row>
+		<row row_number="5" isdata="1">מחויב שבועה שאינו יכול לישבע וכל</row>
+		<row row_number="6" isdata="1">המחויב שבועה שאינו יכול לישבע משלם</row>
+		<row row_number="7" isdata="1">א"ל אביי מי דמי התם סהדא לאורועי</row>
+		<row row_number="8" isdata="1">קאתי כי אתי אחרינא בהדיה מפקינן לה</row>
+		<row row_number="9" isdata="1">מיניה הכא לסיועי קא אתי כי אתא אחרינא</row>
+		<row row_number="10" isdata="1">מוקמינן לה בידיה אלא אי דמיא הא דרבי</row>
+		<row row_number="11" isdata="1">אבא לחד סהדא ולתרתי שני ולפירי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:17.638180</dateCreated>
+   <lastModified>2019-12-21 20:32:17.638180</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>מה נשר מיוחד שאין לו אצבע יתרה וזפק</row>
+		<row row_number="2" isdata="1">ואין קורקבנו נקלף ודורס ואוכל טמא אף</row>
+		<row row_number="3" isdata="1">כל כיוצא בו טמא תורין שיש להן אצבע</row>
+		<row row_number="4" isdata="1">יתרה וזפק וקורקבן נקלף ואין דורסין</row>
+		<row row_number="5" isdata="1">ואוכלין טהורין אף כל כיוצא בהן טהורין</row>
+		<row row_number="6" isdata="1">אמר אביי לא נאמר פירושן מדברי תורה</row>
+		<row row_number="7" isdata="1">אלא מדברי סופרים תני רבי חייא עוף הבא</row>
+		<row row_number="8" isdata="1">בסימן אחד טהור לפי שאין דומה לנשר</row>
+		<row row_number="9" isdata="1">נשר דלית ליה כלל הוא דלא תיכול הא</row>
+		<row row_number="10" isdata="1">איכא דאית ליה חד תיכול ולילף מתורין מה</row>
+		<row row_number="11" isdata="1">תורין דאיכא כולהו ארבעה אף ה"נ עד</row>
+		<row row_number="12" isdata="1">דאיכא כולהו ארבעה אם כן שאר עופות</row>
+		<row row_number="13" isdata="1">טמאין דכתב רחמנא למה לי ונילף מינייהו</row>
+		<row row_number="14" isdata="1">מה התם תלתא ולא אכלינן אף כל תלתא</row>
+		<row row_number="15" isdata="1">ולא ניכול וכל שכן תרי וחד אם כן עורב</row>
+		<row row_number="16" isdata="1">דכתב רחמנא למה לי השתא דאית ליה</row>
+		<row row_number="17" isdata="1">תלתא לא אכלינן דאית ליה תרי מיבעיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

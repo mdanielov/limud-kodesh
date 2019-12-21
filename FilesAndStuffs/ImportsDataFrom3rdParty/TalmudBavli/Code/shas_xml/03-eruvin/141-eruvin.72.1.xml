@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:59.750458</dateCreated>
+   <lastModified>2019-12-21 20:28:59.750458</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="72">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה אשה"/><ContGemara/>וחד אמר ביין דכו"ע לא פליגי דבעינן תרתי</row>
+		<row row_number="2" isdata="1">כי פליגי בפת מיתיבי וחכמים אומרים או</row>
+		<row row_number="3" isdata="1">מערבין או משתתפין מאי לאו או מערבין</row>
+		<row row_number="4" isdata="1">בחצר בפת או משתתפין במבוי ביין אמר</row>
+		<row row_number="5" isdata="1">רב גידל אמר רב ה"ק או מערבין בחצר</row>
+		<row row_number="6" isdata="1">בפת ומותרין כאן וכאן או משתתפין במבוי</row>
+		<row row_number="7" isdata="1">בפת ומותרין כאן וכאן אמר רב יהודה אמר</row>
+		<row row_number="8" isdata="1">רב הלכה כרבי מאיר ורב הונא אמר מנהג</row>
+		<row row_number="9" isdata="1">כר"מ ורבי יוחנן אמר נהגו העם כרבי מאיר</row>
+		<row row_number="10" isdata="1"><EndGemara/><StartMishna/>מתני' חמשה חבורות ששבתו בטרקלין</row>
+		<row row_number="11" isdata="1">אחד ב"ש אומרים עירוב לכל חבורה וחבורה</row>
+		<row row_number="12" isdata="1">וב"ה אומרים עירוב אחד לכולן ומודים</row>
+		<row row_number="13" isdata="1">בזמן שמקצתן שרויין בחדרים או בעליות</row>
+		<row row_number="14" isdata="1">שהן צריכין עירוב לכל חבורה וחבורה</row>
+		<row row_number="15" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב נחמן מחלוקת במסיפס</row>
+		<row row_number="16" isdata="1">אבל במחיצה עשרה דברי הכל עירוב לכל</row>
+		<row row_number="17" isdata="1">חבורה וחבורה איכא דאמרי אמר ר"נ אף</row>
+		<row row_number="18" isdata="1">במסיפס מחלוקת פליגי בה רבי חייא ורבי</row>
+		<row row_number="19" isdata="1">שמעון ברבי חד אמר מחלוקת במחיצות</row>
+		<row row_number="20" isdata="1">המגיעות לתקרה אבל מחיצות שאין מגיעות</row>
+		<row row_number="21" isdata="1">לתקרה דברי הכל עירוב אחד לכולן וחד</row>
+		<row row_number="22" isdata="1">אמר מחלוקת במחיצות שאין מגיעות</row>
+		<row row_number="23" isdata="1">לתקרה אבל מחיצות המגיעות לתקרה</row>
+		<row row_number="24" isdata="1">דברי הכל צריכין עירוב לכל חבורה וחבורה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:07.653912</dateCreated>
+   <lastModified>2019-12-21 20:32:07.653912</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="71">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>לרבי יאשיה דדריה לא תיתב אכרעיך עד</row>
+		<row row_number="2" isdata="1">דמפרשת ליה להא מתני' מנין לעומר</row>
+		<row row_number="3" isdata="1">שמתיר בהשרשה מנלן דכתיב אביב לאו</row>
+		<row row_number="4" isdata="1">מכלל דאיכא דלאו אביב דלאו אביב</row>
+		<row row_number="5" isdata="1">ולעולם דעייל שליש אלא אמר שמואל</row>
+		<row row_number="6" isdata="1">מהחל חרמש לאו מכלל דאיכא דלאו בר</row>
+		<row row_number="7" isdata="1">חרמש דלאו בר חרמש ולעולם שחת אמר</row>
+		<row row_number="8" isdata="1">רבי יצחק קמה לאו מכלל דלאו בר קמה</row>
+		<row row_number="9" isdata="1">דלאו בר קמה ולעולם אגם אלא אמר רבא</row>
+		<row row_number="10" isdata="1">אשר תזרע משעת זריעה אמר ליה רב פפא</row>
+		<row row_number="11" isdata="1">לרבא אי הכי אע"ג דלא השריש נמי אמר</row>
+		<row row_number="12" isdata="1">ליה סודני בשדה כתיבמתני' קוצרין</row>
+		<row row_number="13" isdata="1">בית השלחין שבעמקים אבל לא גודשין</row>
+		<row row_number="14" isdata="1">אנשי יריחו קוצרין ברצון חכמים וגודשין</row>
+		<row row_number="15" isdata="1">שלא ברצון חכמים ולא מיחו בידם קוצר</row>
+		<row row_number="16" isdata="1">לשחת מאכיל לבהמה א"ר יהודה אימתי</row>
+		<row row_number="17" isdata="1">בזמן שמתחיל עד שלא הביא שליש ר"ש</row>
+		<row row_number="18" isdata="1">אומר יקצור ויאכיל אף משהביא שליש</row>
+		<row row_number="19" isdata="1">וקוצרין מפני נטיעות מפני בית האבל</row>
+		<row row_number="20" isdata="1">מפני ביטול בית המדרש לא יעשה</row>
+		<row row_number="21" isdata="1">אותן כריכות אבל מניחין צבתים מצות</row>
+		<row row_number="22" isdata="1">העומר לבא מן הקמה לא מצא יביא מן</row>
+		<row row_number="23" isdata="1">העמרים מצותו לבא מן הלח לא מצא יביא</row>
+		<row row_number="24" isdata="1">יבש מצותו לקצור בלילה נקצר ביום</row>
+		<row row_number="25" isdata="1">כשר ודוחה את השבת<EndMishna/><StartGemara/>גמ' תניא ר' בנימין</row>
+		<row row_number="26" isdata="1">אומר כתוב אחד אומר וקצרתם את קצירה</row>
+		<row row_number="27" isdata="1">והבאתם את עומר וכתיב ראשית קצירכם</row>
+		<row row_number="28" isdata="1">אל הכהן הא כיצד ממקום שאתה מביא אי</row>
+		<row row_number="29" isdata="1">אתה קוצר ממקום שאי אתה מביא אתה</row>
+		<row row_number="30" isdata="1">קוצר אימא ממין שאתה מביא אי אתה קוצר</row>
+		<row row_number="31" isdata="1">ממין שאי אתה מביא אתה קוצר ההוא לא מצית אמרת מדרבי יוחנן</row>
+		<row row_number="32" isdata="1">אנשי יריחו קוצרין ברצון חכמים וגודשין שלא ברצון חכמים [וכו'] מאן</row>
+		<row row_number="33" isdata="1">שמעת ליה דאמר מיחו ולא מיחו רבי יהודה וסבר ר' יהודה קצירה דאנשי</row>
+		<row row_number="34" isdata="1">יריחו ברצון חכמים הואי והא תניא ששה דברים עשו אנשי יריחו שלשה</row>
+		<row row_number="35" isdata="1">ברצון חכמים ושלשה שלא ברצון חכמים ואלו שברצון חכמים מרכיבין</row>
+		<row row_number="36" isdata="1">דקלים כל היום וכורכין את שמע וקוצרין לפני העומר ברצון חכמים ואלו שלא</row>
+		<row row_number="37" isdata="1">ברצון חכמים גודשין לפני העומר ומתירין גמזיות של הקדש של חרוב ושל</row>
+		<row row_number="38" isdata="1">שקמה ופורצין פרצות בגנותיהן ובפרדסותיהן להאכיל נשר לעניים בשני בצורת</row>
+		<row row_number="39" isdata="1">בשבתות ובימים טובים דברי ר"מ אמר לו רבי יהודה אם ברצון חכמים הן</row>
+		<row row_number="40" isdata="1">עושין יהו כל אדם עושין כן אלא אלו ואלו שלא ברצון חכמים ועל שלשה</row>
+		<row row_number="41" isdata="1">מיחו בידם ועל שלשה לא מיחו בידם ואלו שלא מיחו בידם מרכיבין דקלים כל</row>
+		<row row_number="42" isdata="1">היום וכורכין את שמע וקוצרין וגודשין לפני העומר ואלו שמיחו בידם</row>
+</amud>
+</daf>
+</masechet>
+</root>

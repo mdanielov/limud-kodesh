@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:21.733470</dateCreated>
+   <lastModified>2019-12-21 20:30:21.733470</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="26">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאמר"/><ContGemara/>שהפרישו מעות לקיניהם רצה להביא בהן</row>
+		<row row_number="2" isdata="1">חטאת בהמה יביא עולת בהמה יביא מת</row>
+		<row row_number="3" isdata="1">והיו לו מעות סתומין יפלו לנדבה תנא נזיר</row>
+		<row row_number="4" isdata="1">וחייבי קינין דדמו ליה ולאפוקי מהא דתניא</row>
+		<row row_number="5" isdata="1">מי שהיה מחוייב חטאת ואמר הרי עלי</row>
+		<row row_number="6" isdata="1">עולה והפריש מעות ואמר הרי אלו לחובתי</row>
+		<row row_number="7" isdata="1">רצה להביא בהן חטאת בהמה לא יביא</row>
+		<row row_number="8" isdata="1">עולת בהמה לא יביא מת והיו לו מעות</row>
+		<row row_number="9" isdata="1">סתומים ילכו לים המלח אמר רב אשי הא</row>
+		<row row_number="10" isdata="1">דאמרת מפורשין לא לא תימא דאמר אלו</row>
+		<row row_number="11" isdata="1">לחטאתי ואלו לעולתי ואלו לשלמי אלא</row>
+		<row row_number="12" isdata="1">אפי' אמר אלו לחטאתי ולעולתי ולשלמי</row>
+		<row row_number="13" isdata="1">מפורשין הן ואיכא דאמרי אמר רב אשי</row>
+		<row row_number="14" isdata="1">לא תימא עד דאמר אלו לחטאתי ולעולתי</row>
+		<row row_number="15" isdata="1">ולשלמי אלא אפילו אמר אלו לחובתי</row>
+		<row row_number="16" isdata="1">הרי הן כמפורשין אמר רבא הא דאמרן</row>
+		<row row_number="17" isdata="1">מעות סתומין יפלו לנדבה אם נפלה</row>
+		<row row_number="18" isdata="1">דמי חטאת מביניהן הרי הן כמפורשין</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:46.142705</dateCreated>
+   <lastModified>2019-12-21 20:30:46.142705</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="36">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח ארבעה וחמשה"/><ContGemara/>יחזיר לשלפניו לכולם מבעי ליה אמר רבא</row>
+		<row row_number="2" isdata="1">לעולם כר' ישמעאל דאמר בעלי חובות נינהו</row>
+		<row row_number="3" isdata="1">ודקשיא לך אחרון אחרון נשכר ראשון</row>
+		<row row_number="4" isdata="1">ראשון נשכר מבעי ליה הב"ע כגון שתפסו ניזק</row>
+		<row row_number="5" isdata="1">לגבות הימנו ונעשה עליו כשומר שכר</row>
+		<row row_number="6" isdata="1">לנזקין אי הכי יש בו מותר יחזיר לשלפניו</row>
+		<row row_number="7" isdata="1">יחזיר לבעלים מבעי ליה אמר רבינא הכי</row>
+		<row row_number="8" isdata="1">קתני אם יש בו מותר בנזקיו יחזיר לשלפניו</row>
+		<row row_number="9" isdata="1">וכן כי אתא רבין אמר ר' יוחנן משום פשיעת</row>
+		<row row_number="10" isdata="1">שומרין נגעו בה במאי אוקימתא כר'</row>
+		<row row_number="11" isdata="1">ישמעאל אי הכי אימא סיפא ר' שמעון</row>
+		<row row_number="12" isdata="1">אומר שור שוה מאתים שנגח שור שוה</row>
+		<row row_number="13" isdata="1">מאתים ואין הנבלה יפה כלום זה נוטל מנה</row>
+		<row row_number="14" isdata="1">וזה נוטל מנה חזר ונגח שור אחר שוה מאתים</row>
+		<row row_number="15" isdata="1">האחרון נוטל מנה ושלפניו זה נוטל חמשים</row>
+		<row row_number="16" isdata="1">זוז וזה נוטל חמשים זוז חזר ונגח שור שוה</row>
+		<row row_number="17" isdata="1">מאתים האחרון נוטל מנה ושלפניו נוטל</row>
+		<row row_number="18" isdata="1">חמשים זוז ושנים הראשונים דינר זהב אתאן</row>
+		<row row_number="19" isdata="1">לר' עקיבא דאמר תורא דשותפי הוא רישא</row>
+		<row row_number="20" isdata="1">ר' ישמעאל וסיפא ר' עקיבא אמרי אין דהא</row>
+		<row row_number="21" isdata="1">אמר ליה שמואל לרב יהודה שיננא שבוק</row>
+		<row row_number="22" isdata="1">מתניתין ותא בתראי רישא ר' ישמעאל וסיפא</row>
+		<row row_number="23" isdata="1">ר' עקיבא (אתמר נמי אמר ר' יוחנן הקדישו</row>
+		<row row_number="24" isdata="1">ניזק איכא בינייהו) תנן התם התוקע לחבירו</row>
+		<row row_number="25" isdata="1">נותן לו סלע ר' יהודה אומר משום ר"י</row>
+		<row row_number="26" isdata="1">הגלילי מנה ההוא גברא דתקע לחבריה</row>
+		<row row_number="27" isdata="1">שלחיה רב טוביה בר מתנה לקמיה דרב יוסף</row>
+		<row row_number="28" isdata="1">סלע צורי תנן או סלע מדינה תנן אמר ליה</row>
+		<row row_number="29" isdata="1">תניתוה ושנים הראשונים דינר זהב ואי</row>
+		<row row_number="30" isdata="1">סלקא דעתך תני תנא סלע מדינה נפלוג</row>
+		<row row_number="31" isdata="1">ונתני עד תריסר וסלע א"ל תנא כי רוכלא</row>
+		<row row_number="32" isdata="1">ליתני וליזיל מאי הוי עלה פשטוה מהא</row>
+		<row row_number="33" isdata="1">דאמר רב יהודה אמר רב כל כסף</row>
+		<row row_number="34" isdata="1">האמור בתורה כסף צורי ושל דבריהם כסף</row>
+		<row row_number="35" isdata="1">מדינה אמר ליה ההוא גברא הואיל ופלגא</row>
+		<row row_number="36" isdata="1">דזוזא הוא לא בעינא נתביה לעניים הדר אמר</row>
+		<row row_number="37" isdata="1">ליה נתביה ניהלי איזיל ואברי ביה נפשאי</row>
+		<row row_number="38" isdata="1">א"ל רב יוסף כבר זכו ביה עניים ואף על</row>
+		<row row_number="39" isdata="1">גב דליכא עניים הכא אנן יד עניים אנן</row>
+		<row row_number="40" isdata="1">דאמר רב יהודה אמר שמואל יתומים</row>
+</amud>
+</daf>
+</masechet>
+</root>

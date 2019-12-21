@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:40.755903</dateCreated>
+   <lastModified>2019-12-21 20:28:40.755903</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="27">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>לאתויי ציצית ציצית בהדיא כתיב לא</row>
+		<row row_number="2" isdata="1">תלבש שעטנז צמר ופשתים וכתיב גדילים</row>
+		<row row_number="3" isdata="1">תעשה לך סד"א כדרבא דרבא רמי כתיב</row>
+		<row row_number="4" isdata="1">הכנף מין כנף וכתיב צמר ופשתים יחדיו</row>
+		<row row_number="5" isdata="1">הא כיצד צמר ופשתים פוטרין בין במינן</row>
+		<row row_number="6" isdata="1">בין שלא במינן שאר מינין במינן פוטרין</row>
+		<row row_number="7" isdata="1">שלא במינן אין פוטרין ס"ד כדרבא קמ"ל</row>
+		<row row_number="8" isdata="1">אמר רב אחא בריה דרבא לרב אשי לתנא</row>
+		<row row_number="9" isdata="1">דבי רבי ישמעאל מאי שנא לענין טומאה</row>
+		<row row_number="10" isdata="1">דמרבי שאר בגדים דכתיב או בגד הכא נמי</row>
+		<row row_number="11" isdata="1">לימא לרבות שאר בגדים מאשר תכסה</row>
+		<row row_number="12" isdata="1">בה ההוא לאתויי כסות סומא הוא דאתא</row>
+		<row row_number="13" isdata="1">דתניא וראיתם אותו פרט לכסות לילה</row>
+		<row row_number="14" isdata="1">אתה אומר פרט לכסות לילה או אינו אלא</row>
+		<row row_number="15" isdata="1">פרט לכסות סומא כשהוא אומר אשר</row>
+		<row row_number="16" isdata="1">תכסה בה הרי כסות סומא אמור הא מה</row>
+		<row row_number="17" isdata="1">אני מקיים וראיתם אותו פרט לכסות לילה</row>
+		<row row_number="18" isdata="1">ומה ראית לרבות סומא ולהוציא כסות לילה</row>
+		<row row_number="19" isdata="1">מרבה אני כסות סומא שישנה בראייה אצל</row>
+		<row row_number="20" isdata="1">אחרים ומוציא אני כסות לילה שאינה</row>
+		<row row_number="21" isdata="1">בראייה אצל אחרים ואימא לרבות שאר</row>
+		<row row_number="22" isdata="1">בגדים מסתברא קאי בצמר ופשתים מרבה</row>
+		<row row_number="23" isdata="1">צמר ופשתים קאי בצמר ופשתים מרבה שאר</row>
+		<row row_number="24" isdata="1">בגדים אמר אביי רבי שמעון בן אלעזר</row>
+		<row row_number="25" isdata="1">וסומכוס אמרו דבר אחד רשב"א הא דאמרן</row>
+		<row row_number="26" isdata="1">סומכוס דתניא סומכוס אומר סיככה בטווי</row>
+		<row row_number="27" isdata="1">פסולה מפני שמטמאה בנגעים כמאן כי האי</row>
+		<row row_number="28" isdata="1">תנא דתנן שתי וערב מטמא בנגעים מיד</row>
+		<row row_number="29" isdata="1">דברי רבי מאיר ורבי יהודה אומר השתי</row>
+		<row row_number="30" isdata="1">משישלה והערב מיד והאוני' של פשתן</row>
+		<row row_number="31" isdata="1">משיתלבנומתני' כל היוצא מן העץ</row>
+		<row row_number="32" isdata="1">אין מדליקין בו אלא פשתן וכל היוצא מן</row>
+		<row row_number="33" isdata="1">העץ אינו מטמא טומאת אהלים אלא פשתן</row>
+		<row row_number="34" isdata="1"><EndMishna/><StartGemara/>גמ' מנלן דפשתן איקרי עץ אמר מר זוטרא</row>
+		<row row_number="35" isdata="1">דאמר קרא והיא העלתם הגגה ותטמנם</row>
+		<row row_number="36" isdata="1">בפשתי העץ והיוצא מן העץ אינו</row>
+		<row row_number="37" isdata="1">מטמא טומאת אהלים אלא פשתן</row>
+		<row row_number="38" isdata="1">מנלן אמר רבי אלעזר גמר אהל אהל</row>
+</amud>
+</daf>
+</masechet>
+</root>

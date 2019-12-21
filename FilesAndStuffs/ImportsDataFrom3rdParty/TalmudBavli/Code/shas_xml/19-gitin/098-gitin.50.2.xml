@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:32.506396</dateCreated>
+   <lastModified>2019-12-21 20:30:32.506396</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="50">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הניזקין"/><ContGemara/>יתומין שאמרו גדולים וא"צ לומר קטנים בין</row>
+		<row row_number="2" isdata="1">לשבועה בין לזיבורית אין נפרעין מנכסים</row>
+		<row row_number="3" isdata="1">משועבדים במקום שיש בני חורין בעי</row>
+		<row row_number="4" isdata="1">רב אחדבוי בר אמי במתנה היאך תקנתא</row>
+		<row row_number="5" isdata="1">הוא דעבוד רבנן משום פסידא דלקוחות אבל</row>
+		<row row_number="6" isdata="1">מתנה דליכא פסידא דלקוחות לא או דלמא</row>
+		<row row_number="7" isdata="1">מתנה נמי אי לאו דאית ליה הנאה מיניה</row>
+		<row row_number="8" isdata="1">לא יהיב ליה מתנה והלכך כי פסידא</row>
+		<row row_number="9" isdata="1">דלקוחות דמי א"ל מר קשישא בריה דרב</row>
+		<row row_number="10" isdata="1">חסדא לרב אשי ת"ש שכיב מרע שאמר</row>
+		<row row_number="11" isdata="1">תנו מאתים זוז לפלוני וג' מאות לפלוני וד'</row>
+		<row row_number="12" isdata="1">מאות לפלוני אין אומרים כל הקודם בשטר</row>
+		<row row_number="13" isdata="1">זכה לפיכך יצא עליו שט"ח גובה מכולן אבל</row>
+		<row row_number="14" isdata="1">אם אמר תנו מאתים זוז לפלוני ואחריו לפלוני</row>
+		<row row_number="15" isdata="1">ואחריו לפלוני אומרים כל הקודם בשטר זכה</row>
+		<row row_number="16" isdata="1">לפיכך יצא עליו שט"ח גובה מן האחרון אין</row>
+		<row row_number="17" isdata="1">לו גובה משלפניו אין לו גובה משלפני פניו</row>
+		<row row_number="18" isdata="1">ואע"ג דקמא בינונית ובתרא זיבורית מזיבורית</row>
+		<row row_number="19" isdata="1">גבי מבינונית לא גבי ש"מ במתנה נמי עבוד</row>
+		<row row_number="20" isdata="1">רבנן תקנתא הכא במאי עסקינן בבעל חוב</row>
+		<row row_number="21" isdata="1">והא תנו קאמר תנו בחובי וליחזי שטרא</row>
+		<row row_number="22" isdata="1">דמאן קדים דליכא שטרא והא כל הקודם</row>
+		<row row_number="23" isdata="1">בשטר קאמר בשטר פקדתא ואב"א אפילו</row>
+		<row row_number="24" isdata="1">מתנה נמי ולא קשיא מאי גובה מן האחרון</row>
+		<row row_number="25" isdata="1">אין נפסד אלא אחרון ואב"א דשוו כולהו</row>
+		<row row_number="26" isdata="1">להדדי אין מוציאין לאכילת פירות מאי</row>
+		<row row_number="27" isdata="1">טעמא אמר עולא אמר ריש לקיש לפי שאין</row>
+		<row row_number="28" isdata="1">כתובין אמר ליה רבי אבא לעולא והא מזון</row>
+		<row row_number="29" isdata="1">האשה והבנות דכמאן דכתיבי דמו וקתני</row>
+		<row row_number="30" isdata="1">אין מוציאין א"ל התם מעיקרא הכי אתקון</row>
+		<row row_number="31" isdata="1">כתובין הן אצל בני חורין ואין כתובין הן אצל</row>
+		<row row_number="32" isdata="1">משועבדין וכן אמר רבי אסי אמר ר' יוחנן לפי</row>
+		<row row_number="33" isdata="1">שאין כתובין אמר ליה רבי זירא לרב אסי</row>
+		<row row_number="34" isdata="1">והא מזון האשה והבנות דכמאן דכתיבי דמו</row>
+		<row row_number="35" isdata="1">וקתני אין מוציאין א"ל מעיקרא הכי אתקון</row>
+		<row row_number="36" isdata="1">כתובין הן אצל בני חורין ואין כתובין הן אצל</row>
+		<row row_number="37" isdata="1">משועבדין ר' חנינא אמר לפי שאין קצובין</row>
+		<row row_number="38" isdata="1">איבעיא להו לרבי חנינא קצובין וכתובין בעי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:26.888253</dateCreated>
+   <lastModified>2019-12-21 20:31:26.888253</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="35">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אחד דיני ממונות"/><ContGemara/>ושמע שמת לו מת יכול יטמא אמרת לא</row>
+		<row row_number="2" isdata="1">יטמא יכול כשם שאינו מטמא לאחותו כך</row>
+		<row row_number="3" isdata="1">אינו מטמא למת מצוה ת"ל ולאחותו</row>
+		<row row_number="4" isdata="1">לאחותו הוא דאינו מטמא אבל מטמא</row>
+		<row row_number="5" isdata="1">למת מצוה שבת שנידחת מפני עבודה אינו</row>
+		<row row_number="6" isdata="1">דין שתהא קבורת מת מצוה דוחה אותה</row>
+		<row row_number="7" isdata="1">א"ל רציחה תוכיח שדוחה את העבודה</row>
+		<row row_number="8" isdata="1">ואינה דוחה את השבת רציחה גופה תדחה</row>
+		<row row_number="9" isdata="1">את השבת מק"ו מה עבודה שדוחה את</row>
+		<row row_number="10" isdata="1">השבת רציחה דוחה אותה שנאמר מעם</row>
+		<row row_number="11" isdata="1">מזבחי תקחנו למות שבת שנידחת מפני</row>
+		<row row_number="12" isdata="1">עבודה אינו דין שתהא רציחה דוחה אותה</row>
+		<row row_number="13" isdata="1">אמר רבא כבר פסקה תנא דבי ר' ישמעאל</row>
+		<row row_number="14" isdata="1">דתנא דבי רבי ישמעאל לא תבערו אש</row>
+		<row row_number="15" isdata="1">מה ת"ל מה ת"ל אי לר' יוסי ללאו יצאת אי</row>
+		<row row_number="16" isdata="1">לרבי נתן לחלק יצאת כדתניא הבערה</row>
+		<row row_number="17" isdata="1">ללאו יצאת דברי ר' יוסי ר' נתן אומר לחלק</row>
+		<row row_number="18" isdata="1">יצאת אלא אמר רבא תנא מושבות קשיא</row>
+		<row row_number="19" isdata="1">ליה מושבות מה ת"ל מכדי שבת חובת</row>
+		<row row_number="20" isdata="1">הגוף היא וחובת הגוף נוהגת בין בארץ בין</row>
+		<row row_number="21" isdata="1">בחו"ל מושבות דכתב רחמנא למה לי</row>
+		<row row_number="22" isdata="1">משום רבי ישמעאל אמר תלמיד אחד לפי</row>
+		<row row_number="23" isdata="1">שנאמר כי יהיה באיש חטא משפט מות</row>
+		<row row_number="24" isdata="1">והומת שומע אני בין בחול בין בשבת והא</row>
+		<row row_number="25" isdata="1">מה אני מקיים מחלליה מות יומת בשאר</row>
+		<row row_number="26" isdata="1">מלאכות חוץ ממיתת בית דין או אינו אלא</row>
+		<row row_number="27" isdata="1">אפי' מיתת ב"ד ומה אני מקיים והומת בחול</row>
+		<row row_number="28" isdata="1">אבל לא בשבת או אינו אלא אפילו בשבת</row>
+		<row row_number="29" isdata="1">ת"ל לא תבערו אש בכל מושבותיכם ולהלן</row>
+		<row row_number="30" isdata="1">הוא אומר והיו אלה לכם לחקת משפט</row>
+		<row row_number="31" isdata="1">לדורותיכם בכל מושבותיכם מה מושבות</row>
+		<row row_number="32" isdata="1">האמור להלן ב"ד אף מושבות האמור כאן</row>
+		<row row_number="33" isdata="1">בית דין ואמר רחמנא לא תבערו אש בכל</row>
+		<row row_number="34" isdata="1">מושבותיכם אמר אביי השתא דאמרת אין</row>
+		<row row_number="35" isdata="1">רציחה דוחה את השבת אין רציחה דוחה</row>
+		<row row_number="36" isdata="1">את העבודה מקל וחומר ומה שבת</row>
+		<row row_number="37" isdata="1">שנידחית מפני העבודה אין רציחה דוחה</row>
+		<row row_number="38" isdata="1">אותה עבודה שהיא דוחה את השבת אינו</row>
+		<row row_number="39" isdata="1">דין שלא תהא רציחה דוחה אותה אלא הא</row>
+		<row row_number="40" isdata="1">דכתיב מעם מזבחי תקחנו למות ההוא</row>
+		<row row_number="41" isdata="1">לקרבן יחיד דלא דחי שבת אמר רבא (אי</row>
+		<row row_number="42" isdata="1">הכי) לא תהא רציחה דוחה קרבן יחיד מק"ו</row>
+</amud>
+</daf>
+</masechet>
+</root>

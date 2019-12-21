@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:03.198418</dateCreated>
+   <lastModified>2019-12-21 20:29:03.198418</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="102">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>בשאינו ניטל באיגדו דמר סבר כיון דיש</row>
+		<row row_number="2" isdata="1">בראשו גלוסטרא תורת כלי עליו ומר סבר</row>
+		<row row_number="3" isdata="1">כיון דאינו ניטל באיגדו לאמתני' נגר</row>
+		<row row_number="4" isdata="1">הנגרר נועלין בו במקדש אבל לא במדינה</row>
+		<row row_number="5" isdata="1">והמונח כאן וכאן אסור ר' יהודה אומר</row>
+		<row row_number="6" isdata="1">המונח מותר במקדש והנגרר במדינה</row>
+		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' תנו רבנן איזהו נגר הנגרר שנועלין</row>
+		<row row_number="8" isdata="1">במקדש אבל לא במדינה כל שקשור</row>
+		<row row_number="9" isdata="1">ותלוי וראשו אחד מגיע לארץ רבי יהודה</row>
+		<row row_number="10" isdata="1">אומר זה אף במדינה מותר אלא איזהו</row>
+		<row row_number="11" isdata="1">נגר שנועלין במקדש אבל לא במדינה</row>
+		<row row_number="12" isdata="1">כל שאינו לא קשור ולא תלוי ושומטו</row>
+		<row row_number="13" isdata="1">ומניחו בקרן זוית אמר רב יהודה אמר</row>
+		<row row_number="14" isdata="1">שמואל הלכה כרבי יהודה בנגרר אמר</row>
+		<row row_number="15" isdata="1">רבא והוא שקשור בדלת איני והא רבי</row>
+		<row row_number="16" isdata="1">טבלא איקלע למחוזא וחזא לההוא דהוה</row>
+		<row row_number="17" isdata="1">תלי בעיברא דדשא ולא אמר להו ולא</row>
+		<row row_number="18" isdata="1">מידי ההוא ניטל באיגדו הוה רב אויא</row>
+		<row row_number="19" isdata="1">איקלע לנהרדעא חזייה לההוא גברא דהוה</row>
+		<row row_number="20" isdata="1">קא קטיר בגמי אמר דין לא נטרוק בעי</row>
+		<row row_number="21" isdata="1">רבי זירא נקמז מהו אמר רב יוסף מאי</row>
+		<row row_number="22" isdata="1">תיבעי ליה לא שמיע ליה הא דתניא נשמט</row>
+		<row row_number="23" isdata="1">אסור נקמז מותר ורבי יהודה אמר נקמז</row>
+		<row row_number="24" isdata="1">אף על פי שאינו נשמט אסור ואמר רב</row>
+		<row row_number="25" isdata="1">יהודה אמר שמואל הלכה כרבי יהודה</row>
+		<row row_number="26" isdata="1">בנקמז וטעמא מאי אמר אביי משום</row>
+		<row row_number="27" isdata="1">דמיחזי כבונה בעא מיניה רב נחומי בר</row>
+		<row row_number="28" isdata="1">זכריה מאביי עשה לו בית יד מהו אמר</row>
+		<row row_number="29" isdata="1">ליה בוכנא קאמרת איתמר אמר רב נחומי</row>
+		<row row_number="30" isdata="1">בר אדא עשה לו בית יד מותר ההוא</row>
+		<row row_number="31" isdata="1">שריתא דהוה בי רבי פדת דהוה מדלו לה</row>
+		<row row_number="32" isdata="1">בי עשרה ושדו לה אדשא ולא אמר להו ולא מידי אמר תורת כלי</row>
+		<row row_number="33" isdata="1">עליה ההיא אסיתא דהות בי מר שמואל דהוה מחזקת אדריבא שרא</row>
+		<row row_number="34" isdata="1">מר שמואל למישדייה אדשא אמר תורת כלי עליה שלח ליה רמי בר</row>
+		<row row_number="35" isdata="1">יחזקאל לרב עמרם נימא לן מר מהלין מילי מעלייתא דאמרת לן משמיה</row>
+		<row row_number="36" isdata="1">דרב אסי בכיפי דארבא שלח ליה הכי אמר רב אסי הני כיפי דארבא</row>
+		<row row_number="37" isdata="1">בזמן שיש בהן טפח אי נמי אין בהן טפח ואין בין זה לזה שלשה</row>
+		<row row_number="38" isdata="1">למחר מביא מחצלת ופורס עליהן מאי טעמא מוסיף על אהל עראי הוא</row>
+		<row row_number="39" isdata="1">ושפיר דמי הנהו דכרי דהוו ליה לרב הונא דביממא בעו טולא ובליליא</row>
+		<row row_number="40" isdata="1">בעו אוירא אתא לקמיה דרב א"ל זיל כרוך בודייא ושייר בה טפח</row>
+		<row row_number="41" isdata="1">למחר פשטה ומוסיף על אהל עראי הוא ושפיר דמי אמר רב משום רבי</row>
+		<row row_number="42" isdata="1">חייא וילון מותר לנטותו ומותר לפורקו בשבת כילת חתנים מותר לפורקה</row>
+		<row row_number="43" isdata="1">ולנטותה בשבת אמר רב ששת בריה דרב אידי לא אמרן אלא שאין</row>
+		<row row_number="44" isdata="1">בגגה טפח אבל יש בגגה טפח אסור וכי אין בגגה טפח לא אמרן אלא שאין</row>
+		<row row_number="45" isdata="1">בפחות משלשה סמוך לגג טפח אבל יש בפחות משלשה סמוך לגג</row>
+		<row row_number="46" isdata="1">טפח אסור וכי אין בפחות משלשה סמוך לגג טפח נמי לא אמרן אלא שאין</row>
+</amud>
+</daf>
+</masechet>
+</root>

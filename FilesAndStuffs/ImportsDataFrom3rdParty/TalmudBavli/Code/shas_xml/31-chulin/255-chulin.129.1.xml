@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:26.671920</dateCreated>
+   <lastModified>2019-12-21 20:32:26.671920</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="129">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>טומאת בית הסתרים היא וטומאת בית</row>
+		<row row_number="2" isdata="1">הסתרים לא מטמא אמר ליה אף לדידי</row>
+		<row row_number="3" isdata="1">קשיא לי ושאילתיה לרבי אבא בר ממל</row>
+		<row row_number="4" isdata="1">ואמר לי הא מני רבי מאיר היא דאמר</row>
+		<row row_number="5" isdata="1">טומאת בית הסתרים מטמא אמר ליה ולאו</row>
+		<row row_number="6" isdata="1">זימנין סגיאין אמרה קמאי ואמרי ליה שני</row>
+		<row row_number="7" isdata="1">ליה לר' מאיר בין טומאה דבעיא הכשר ובין</row>
+		<row row_number="8" isdata="1">טומאה דלא בעיא הכשר אמר רבא ומאי</row>
+		<row row_number="9" isdata="1">קושיא דלמא בשהוכשר אמר ליה רבה בר</row>
+		<row row_number="10" isdata="1">רב חנן לרבא למה לי הכשר הרי מטמא</row>
+		<row row_number="11" isdata="1">טומאה חמורה אגב אביו אמר ליה כששימש</row>
+		<row row_number="12" isdata="1">מעשה עץ שימש אמר אביי הרי אמרו</row>
+		<row row_number="13" isdata="1">כופת שאור שיחדה לישיבה בטלה טומאתה</row>
+		<row row_number="14" isdata="1">לאו דאורייתא דאי סלקא דעתך דאורייתא</row>
+		<row row_number="15" isdata="1">מצינו לאוכלין שמטמאין טומאה חמורה</row>
+		<row row_number="16" isdata="1">כששימש מעשה עץ שימש אמר אביי הרי</row>
+		<row row_number="17" isdata="1">אמרו תקרובת עבודת כוכבים של אוכלין</row>
+		<row row_number="18" isdata="1">מטמאין באוהל טומאתה לאו דאורייתא</row>
+		<row row_number="19" isdata="1">דאי סלקא דעתך דאורייתא מצינו לאוכלין</row>
+		<row row_number="20" isdata="1">שמטמאין טומאה חמורה כששימש מעשה</row>
+		<row row_number="21" isdata="1">עץ שימש אמר אביי הרי אמרו חבורי</row>
+		<row row_number="22" isdata="1">אוכלין ככלים דמו טומאתן לאו דאורייתא</row>
+		<row row_number="23" isdata="1">דאי סלקא דעתך דאורייתא מצינו לאוכל</row>
+		<row row_number="24" isdata="1">שמטמא טומאה חמורה כששימש מעשה</row>
+		<row row_number="25" isdata="1">עץ שימש א"ל רב פפא לרבא הא דתניא</row>
+		<row row_number="26" isdata="1">חלב נבלה בכפרים צריך מחשבה והכשר</row>
+		<row row_number="27" isdata="1">טומאתו אגב כוליא לאו דאורייתא דאי סלקא</row>
+		<row row_number="28" isdata="1">דעתך דאורייתא מצינו לאוכל שמטמא</row>
+		<row row_number="29" isdata="1">טומאה חמורה כששימש מעשה עץ שימש</row>
+		<row row_number="30" isdata="1">אמר רב מתנה הרי אמרו בית שסככו</row>
+		<row row_number="31" isdata="1">בזרעים טהרו טומאתו לאו דאורייתא דאי</row>
+		<row row_number="32" isdata="1">סלקא דעתך דאורייתא מצינו לזרעים שמטמא</row>
+		<row row_number="33" isdata="1">טומאה חמורה כששימש מעשה עץ שימש</row>
+		<row row_number="34" isdata="1">ר"ש מטהר מה נפשך אי מיתה עושה</row>
+		<row row_number="35" isdata="1">ניפול ליטמא משום אבר מן החי אי אין</row>
+		<row row_number="36" isdata="1">מיתה עושה ניפול ליטמא משום אבר מן</row>
+		<row row_number="37" isdata="1">הנבלה ר"ש ארישא קאי האבר והבשר</row>
+		<row row_number="38" isdata="1">המדולדלין בבהמה מטמא טומאת אוכלין</row>
+		<row row_number="39" isdata="1">במקומן וצריכין הכשר ורבי שמעון מטהר</row>
+		<row row_number="40" isdata="1">אמר רבי אסי אמר רבי יוחנן מ"ט דר"ש</row>
+		<row row_number="41" isdata="1">אמר קרא מכל האוכל אשר יאכל</row>
+		<row row_number="42" isdata="1">אוכל שאתה יכול להאכילו לאחרים קרוי</row>
+		<row row_number="43" isdata="1">אוכל אוכל שאי אתה יכול להאכילו</row>
+</amud>
+</daf>
+</masechet>
+</root>

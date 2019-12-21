@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:48.273768</dateCreated>
+   <lastModified>2019-12-21 20:30:48.273768</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="62">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכונס"/><ContMishna/>מתני' גץ שיצא מתחת הפטיש והזיק<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">חייב גמל שהיה טעון פשתן ועבר ברשות</row>
+		<row row_number="3" isdata="1">הרבים ונכנס פשתנו לתוך החנות ודלקו</row>
+		<row row_number="4" isdata="1">בנרו של חנוני והדליק את הבירה בעל גמל</row>
+		<row row_number="5" isdata="1">חייב הניח חנוני נרו מבחוץ החנוני חייב</row>
+		<row row_number="6" isdata="1">רבי יהודה אומר בנר חנוכה פטור<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="7" isdata="1">אמר רבינא משמיה דרבא ש"מ מדרבי</row>
+		<row row_number="8" isdata="1">יהודה נר חנוכה מצוה להניחה בתוך עשרה</row>
+		<row row_number="9" isdata="1">דאי סלקא דעתך למעלה מעשרה אמאי אמר</row>
+		<row row_number="10" isdata="1">ר' יהודה נר חנוכה פטור לימא ליה הוה ליה</row>
+		<row row_number="11" isdata="1">לאנוחה למעלה מגמל ורוכבו אלא לאו ש"מ</row>
+		<row row_number="12" isdata="1">מצוה להניחה בתוך עשרה אמרי לא לעולם</row>
+		<row row_number="13" isdata="1">אימא לך אפי' למעלה מעשרה מאי אמרת אבעי לך לאנוחה למעלה מגמל</row>
+		<row row_number="14" isdata="1">ורוכבו כיון דבמצוה קא עסיק כולי האי לא אטרחוה רבנן אמר רב כהנא</row>
+		<row row_number="15" isdata="1">דרש רב נתן בר מניומי משמיה דרבי תנחום נר חנוכה שהניחה למעלה</row>
+		<row row_number="16" isdata="1">מעשרים אמה פסולה כסוכה וכמבוי<EndChapter name = "הכונס"/><EndGemara/></row>
+		<row row_number="17" isdata="0">הדרן עלך הכונס</row>
+		<row row_number="18" isdata="1"><StartChapter name = "מרובה"/><StartMishna/>מרובה מדת תשלומי כפל ממדת תשלומי ארבעה וחמשה שמדת</row>
+		<row row_number="19" isdata="1">תשלומי כפל נוהגת בין בדבר שיש בו רוח חיים ובין בדבר</row>
+		<row row_number="20" isdata="1">שאין בו רוח חיים ומדת תשלומי ארבעה וחמשה אינה נוהגת אלא בשור</row>
+		<row row_number="21" isdata="1">ושה בלבד שנאמר כי יגנוב איש שור או שה וטבחו או מכרו וגו' אין</row>
+		<row row_number="22" isdata="1">הגונב אחר הגנב משלם תשלומי כפל ולא הטובח ולא המוכר אחר הגנב</row>
+		<row row_number="23" isdata="1">משלם תשלומי ארבעה וחמשה<EndMishna/><StartGemara/>גמ' ואילו מדת תשלומי כפל נוהגת בין</row>
+		<row row_number="24" isdata="1">בגנב בין בטוען טענת גנב ומדת תשלומי ארבעה וחמשה אינה נוהגת אלא</row>
+		<row row_number="25" isdata="1">בגנב בלבד לא קתני מסייע ליה לרבי חייא בר אבא דא"ר חייא בר אבא</row>
+		<row row_number="26" isdata="1">א"ר יוחנן הטוען טענת גנב בפקדון משלם תשלומי כפל טבח ומכר משלם</row>
+		<row row_number="27" isdata="1">תשלומי ארבעה וחמשה איכא דאמרי לימא מסייע ליה לרבי חייא בר אבא</row>
+		<row row_number="28" isdata="1">דא"ר חייא בר אבא א"ר יוחנן הטוען טענת גנב בפקדון משלם תשלומי כפל</row>
+		<row row_number="29" isdata="1">טבח ומכר משלם תשלומי ארבעה וחמשה מי קתני אין בין מרובה קתני</row>
+		<row row_number="30" isdata="1">תנא ושייר שמדת תשלומי כפל נוהגת כו' מנה"מ דת"ר על כל דבר</row>
+		<row row_number="31" isdata="1">פשע כלל על שור על חמור על שה ועל שלמה פרט על כל אבידה חזר</row>
+		<row row_number="32" isdata="1">וכלל כלל ופרט וכלל אי אתה דן אלא כעין הפרט מה הפרט מפורש דבר</row>
+		<row row_number="33" isdata="1">המטלטל וגופו ממון אף כל דבר המטלטל וגופו ממון יצאו קרקעות</row>
+		<row row_number="34" isdata="1">שאינן מטלטלין יצאו עבדים שהוקשו לקרקעות יצאו שטרות שאף על</row>
+		<row row_number="35" isdata="1">פי שמטלטלין אין גופן ממון יצא הקדש רעהו כתיב אי מה הפרט</row>
+		<row row_number="36" isdata="1">מפורש דבר שנבלתו מטמא במגע ובמשא אף כל דבר שנבלתו</row>
+		<row row_number="37" isdata="1">מטמא במגע ובמשא אבל עופות לא ומי מצית אמרת הכי והא שלמה</row>
+		<row row_number="38" isdata="1">כתיב אמרי אנן בבעלי חיים קאמרינן אימא בבעלי חיים דבר שנבלתו</row>
+		<row row_number="39" isdata="1">מטמא במגע ובמשא אין דבר שאין נבלתו מטמא במגע ובמשא לא</row>
+</amud>
+</daf>
+</masechet>
+</root>

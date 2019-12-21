@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:26.657402</dateCreated>
+   <lastModified>2019-12-21 20:29:26.657402</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הוציאו לו"/><ContGemara/>בקטורת לא קא מיירי אמר עולא שעיר</row>
+		<row row_number="2" isdata="1">ששחטו קודם מתן דמו של פר לא עשה ולא</row>
+		<row row_number="3" isdata="1">כלום תנן הקדים דם השעיר לדם הפר יחזור</row>
+		<row row_number="4" isdata="1">ויזה מדם השעיר אחר דם הפר ואם איתא</row>
+		<row row_number="5" isdata="1">יחזור וישחוט מבעי ליה תרגמא עולא במתנות</row>
+		<row row_number="6" isdata="1">שבהיכל וכן אמר ר' אפס במתנות שבהיכל</row>
+		<row row_number="7" isdata="1">וכן בהיכל וכן במזבח וכו' ת"ר וכפר את</row>
+		<row row_number="8" isdata="1">מקדש הקודש זה לפני ולפנים אהל מועד זה</row>
+		<row row_number="9" isdata="1">היכל מזבח כמשמעו יכפר אלו עזרות</row>
+		<row row_number="10" isdata="1">הכהנים כמשמען עם הקהל אלו ישראל יכפר</row>
+		<row row_number="11" isdata="1">אלו הלוים הושוו כולן לכפרה אחת שכולן</row>
+		<row row_number="12" isdata="1">מתכפרין בשעיר המשתלח בשאר עבירות</row>
+		<row row_number="13" isdata="1">דברי ר' יהודה ר"ש אומר כשם שדם</row>
+		<row row_number="14" isdata="1">השעיר הנעשה בפנים מכפר על ישראל</row>
+		<row row_number="15" isdata="1">בטומאת מקדש וקדשיו כך דם הפר מכפר</row>
+		<row row_number="16" isdata="1">על הכהנים בטומאת מקדש וקדשיו וכשם</row>
+		<row row_number="17" isdata="1">שוידוי של שעיר המשתלח מכפר על ישראל</row>
+		<row row_number="18" isdata="1">בשאר עבירות כך וידוי של פר מכפר על</row>
+		<row row_number="19" isdata="1">הכהנים בשאר עבירות ת"ר וכלה מכפר</row>
+		<row row_number="20" isdata="1">את הקודש זה לפני ולפנים אהל מועד</row>
+		<row row_number="21" isdata="1">זה היכל מזבח כמשמעו מלמד שכולן כפרה</row>
+		<row row_number="22" isdata="1">כפרה בפני עצמן מכאן אמרו נתן מקצת</row>
+		<row row_number="23" isdata="1">מתנות שבפנים ונשפך הדם יביא דם אחר</row>
+		<row row_number="24" isdata="1">ויתחיל בתחלה במתנות שבפנים רבי אלעזר</row>
+		<row row_number="25" isdata="1">ורבי שמעון אומרים אינו מתחיל אלא ממקום שפסק גמר את המתנות</row>
+		<row row_number="26" isdata="1">שבפנים ונשפך הדם יביא דם אחר ויתחיל בתחילה במתנות שבהיכל נתן</row>
+		<row row_number="27" isdata="1">מקצת מתנות שבהיכל ונשפך הדם יביא דם אחר ויתחיל בתחילה בהיכל</row>
+		<row row_number="28" isdata="1">רבי אלעזר ור' שמעון אומרים אינו מתחיל אלא ממקום שפסק גמר</row>
+		<row row_number="29" isdata="1">מתנות שבהיכל ונשפך הדם יביא דם אחר ויתחיל בתחילה במתנות המזבח</row>
+		<row row_number="30" isdata="1">נתן מקצת מתנות שבמזבח ונשפך הדם יביא דם אחר ויתחיל בתחילה</row>
+		<row row_number="31" isdata="1">במתנות המזבח רבי אלעזר ורבי שמעון אומרים ממקום שפסק הוא</row>
+		<row row_number="32" isdata="1">מתחיל גמר מתנות שבמזבח ונשפך הדם דברי הכל לא מעכבי אמר</row>
+		<row row_number="33" isdata="1">ר' יוחנן ושניהם מקרא אחד דרשו מדם חטאת הכפורים אחת בשנה</row>
+		<row row_number="34" isdata="1">רבי מאיר סבר חטאת אחת אמרתי לך ולא שתי חטאות רבי אלעזר</row>
+		<row row_number="35" isdata="1">ורבי שמעון סברי חטוי אחד אמרתי לך ולא שני חטויין תניא אמר רבי</row>
+		<row row_number="36" isdata="1">לי חלק ר' יעקב בלוגין ולא והתניא נתן מקצת מתנות שבפנים ונשפך</row>
+		<row row_number="37" isdata="1">הלוג יביא לוג אחר ויתחיל בתחילה במתנות שבהיכל רבי אלעזר ור"ש</row>
+		<row row_number="38" isdata="1">אומרים ממקום שפסק הוא מתחיל גמר מתנות שבהיכל ונשפך הלוג</row>
+		<row row_number="39" isdata="1">יביא לוג אחר ויתחיל בתחילה במתנות שבבהונות נתן מקצת מתנות</row>
+		<row row_number="40" isdata="1">בבהונות ונשפך הלוג יביא לוג [אחר] ויתחיל בתחילה במתנות שבבהונות</row>
+		<row row_number="41" isdata="1">רבי אלעזר ורבי שמעון אומרים ממקום שפסק הוא מתחיל גמר מתנות</row>
+		<row row_number="42" isdata="1">שבבהונות ונשפך הלוג דברי הכל מתנות הראש לא מעכבות אימא לי</row>
+		<row row_number="43" isdata="1">שנה ר' יעקב בלוגין אמר מר מתנות הראש אין מעכבות מאי טעמא</row>
+		<row row_number="44" isdata="1">אילימא משום דכתיב והנותר מן השמן אלא מעתה והנותרת מן המנחה</row>
+		<row row_number="45" isdata="1">הכי נמי דלא מעכבי שאני התם דכתיב ומיתר והנותר אמר רבי יוחנן</row>
+</amud>
+</daf>
+</masechet>
+</root>

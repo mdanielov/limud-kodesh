@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:45.181235</dateCreated>
+   <lastModified>2019-12-21 20:28:45.181235</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="76">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>ה"נ חזיא לדוגמאמתני' המוציא אוכלים</row>
+		<row row_number="2" isdata="1">כגרוגרת חייב ומצטרפין זה עם זה מפני ששוו</row>
+		<row row_number="3" isdata="1">בשיעוריהן חוץ מקליפתן וגרעיניהן ועוקציהן</row>
+		<row row_number="4" isdata="1">וסובן ומורסנן ר' יהודה אומר חוץ מקליפי</row>
+		<row row_number="5" isdata="1">עדשין שמתבשלות עמהן<EndMishna/><StartGemara/>גמ' וסובן</row>
+		<row row_number="6" isdata="1">ומורסנן לא מצטרפין והתנן  חמשת רבעים</row>
+		<row row_number="7" isdata="1">קמח ועוד חייבין בחלה הן וסובן ומורסנן</row>
+		<row row_number="8" isdata="1">אמר אביי שכן עני אוכל פתו בעיסה בלוסה</row>
+		<row row_number="9" isdata="1">רבי יהודה אומר חוץ מקליפי עדשים</row>
+		<row row_number="10" isdata="1">המתבשלות עמהן עדשים אין פולין לא</row>
+		<row row_number="11" isdata="1">והתניא ר' יהודה אומר חוץ מקליפי פולין</row>
+		<row row_number="12" isdata="1">ועדשים לא קשיא הא בחדתי הא בעתיקי</row>
+		<row row_number="13" isdata="1">עתיקי מ"ט לא אמר ר' אבהו מפני שנראין</row>
+		<row row_number="14" isdata="1">כזבובין בקערה<EndChapter name = "כלל גדול"/><EndGemara/></row>
+		<row row_number="15" isdata="0">הדרן עלך כלל גדול</row>
+		<row row_number="16" isdata="1"><StartChapter name = "המוציא יין"/><StartMishna/>המוציא יין כדי מזיגת הכוס חלב כדי</row>
+		<row row_number="17" isdata="1">גמיעה דבש כדי ליתן על</row>
+		<row row_number="18" isdata="1">הכתית שמן כדי לסוך אבר קטן מים כדי</row>
+		<row row_number="19" isdata="1">לשוף בהם את הקילור ושאר כל המשקין</row>
+		<row row_number="20" isdata="1">ברביעית וכל השופכין ברביעית ר"ש אומר</row>
+		<row row_number="21" isdata="1">כולן ברביעית ולא נאמרו כל השיעורין הללו</row>
+		<row row_number="22" isdata="1">אלא למצניעיהן<EndMishna/><StartGemara/>גמ' תנא כדי מזיגת כוס</row>
+		<row row_number="23" isdata="1">יפה ומאי כוס יפה כוס של ברכה אמר רב</row>
+		<row row_number="24" isdata="1">נחמן אמר רבה בר אבוה כוס של ברכה</row>
+		<row row_number="25" isdata="1">צריך שיהא בו רובע רביעית כדי שימזגנו</row>
+		<row row_number="26" isdata="1">ויעמוד על רביעית אמר רבא אף אנן נמי</row>
+</amud>
+</daf>
+</masechet>
+</root>

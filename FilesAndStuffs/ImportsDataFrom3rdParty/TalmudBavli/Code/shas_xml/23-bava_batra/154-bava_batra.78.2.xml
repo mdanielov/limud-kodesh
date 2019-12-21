@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:12.451196</dateCreated>
+   <lastModified>2019-12-21 20:31:12.451196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="78">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContGemara/>מלתא אחריתי קאמר א"ל רבינא לרב אשי</row>
+		<row row_number="2" isdata="1">ת"ש מכר את הקרון לא מכר את הפרדות</row>
+		<row row_number="3" isdata="1">ותני רב תחליפא בר מערבא קמיה דרבי</row>
+		<row row_number="4" isdata="1">אבהו מכר את הקרון מכר את הפרדות וא"ל</row>
+		<row row_number="5" isdata="1">והא אנן לא מכר תנן וא"ל איסמייה וא"ל לא</row>
+		<row row_number="6" isdata="1">תתרגם מתניתך באדוקים בו מכלל דמתני'</row>
+		<row row_number="7" isdata="1">בשאין אדוקים בו ומדרישא בשאין עודן עליו סיפא נמי בשאין עודן עליו</row>
+		<row row_number="8" isdata="1">אדרבה אימא רישא אבל לא מכר לא את העבדים ולא את האנתיקי ואמרינן</row>
+		<row row_number="9" isdata="1">מאי אנתיקי אמר רב פפא עיסקא דבגוה ומדרישא בעודן עליו סיפא נמי</row>
+		<row row_number="10" isdata="1">בעודן עליו אלא תנא מילי מילי קתני [סימן זגם נסן] אמר אביי ר"א ורשב"ג</row>
+		<row row_number="11" isdata="1">ור' מאיר ורבי נתן וסומכוס ונחום המדי כולהו סבירא להו כי מזבין איניש</row>
+		<row row_number="12" isdata="1">מידי איהו וכל תשמישתיה מזבין ר"א דתנן ר"א אומר המוכר את בית הבד</row>
+		<row row_number="13" isdata="1">מכר את הקורה רשב"ג דתנן רשב"ג אומר המוכר את העיר מכר את</row>
+		<row row_number="14" isdata="1">הסנטר ר' מאיר דתניא ר' מאיר אומר מכר את הכרם מכר תשמישי הכרם</row>
+		<row row_number="15" isdata="1">רבי נתן וסומכוס ביצית ודוגית נחום המדי הא דאמרן רבי יהודה אומר</row>
+		<row row_number="16" isdata="1">פעמים מכורין וכו' מאי שנא חמורך זו ומאי שנא חמורך הוא אמר רבא</row>
+		<row row_number="17" isdata="1">חמורך זו ידע דחמרא דידיה הוא והאי דקא א"ל זו משום כליו קא"ל חמורך</row>
+		<row row_number="18" isdata="1">הוא דלא ידע דחמרא דידיה הוא והכי קא"ל חמורך הוא שתמכרנה לי</row>
+		<row row_number="19" isdata="1"><EndGemara/><StartMishna/>מתני' המוכר את החמור מכר את הסיח מכר את הפרה לא מכר את בנה</row>
+		<row row_number="20" isdata="1">מכר אשפה מכר זבלה מכר בור מכר מימיה מכר כוורת מכר דבורים מכר</row>
+		<row row_number="21" isdata="1">שובך מכר יונים<EndMishna/><StartGemara/>גמ' היכי דמי אי דאמר ליה היא ובנה אפילו פרה ובנה</row>
+		<row row_number="22" isdata="1">נמי אי דלא א"ל היא ובנה אפילו חמור נמי לא אמר רב פפא דאמר ליה</row>
+		<row row_number="23" isdata="1">חמור מניקה ופרה מניקה אני מוכר לך בשלמא פרה איכא למימר לחלבה</row>
+		<row row_number="24" isdata="1">בעי לה אלא חמור מאי קא"ל ש"מ היא ובנה קאמר ליה ואמאי קרי ליה סיח</row>
+		<row row_number="25" isdata="1">שמהלך אחר סיחה נאה א"ר שמואל בר נחמן א"ר יוחנן מאי דכתיב על כן</row>
+		<row row_number="26" isdata="1">יאמרו המושלים וגו' המושלים אלו המושלים ביצרם בואו חשבון בואו ונחשב</row>
+		<row row_number="27" isdata="1">חשבונו של עולם הפסד מצוה כנגד שכרה ושכר עבירה כנגד הפסדה תבנה</row>
+		<row row_number="28" isdata="1">ותכונן אם אתה עושה כן תבנה בעולם הזה ותכונן לעולם הבא עיר סיחון אם</row>
+		<row row_number="29" isdata="1">משים אדם עצמו כעיר זה שמהלך אחר סיחה נאה מה כתיב אחריו כי אש</row>
+		<row row_number="30" isdata="1">יצאה מחשבון וגו' תצא אש ממחשבין ותאכל את שאינן מחשבין ולהבה</row>
+		<row row_number="31" isdata="1">מקרית סיחון מקרית צדיקים שנקראו שיחין אכלה ער מואב זה המהלך אחר</row>
+		<row row_number="32" isdata="1">יצרו כעיר זה שמהלך אחר סיחה נאה בעלי במות ארנון אלו גסי הרוח דאמר</row>
+		<row row_number="33" isdata="1">מר כל אדם שיש בו גסות הרוח נופל בגיהנם ונירם אמר רשע אין רם אבד</row>
+		<row row_number="34" isdata="1">חשבון אבד חשבונו של עולם עד דיבון אמר הקב"ה המתן עד שיבא דין ונשים</row>
+</amud>
+</daf>
+</masechet>
+</root>

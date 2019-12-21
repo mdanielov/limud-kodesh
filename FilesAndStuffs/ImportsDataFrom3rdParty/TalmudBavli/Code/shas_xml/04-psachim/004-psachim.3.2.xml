@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:03.619418</dateCreated>
+   <lastModified>2019-12-21 20:29:03.619418</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אור לארבעה עשר"/><ContGemara/>משום בניו אורחא הוא והכתיב והיא</row>
+		<row row_number="2" isdata="1">רוכבת על החמור התם משום ביעתותא</row>
+		<row row_number="3" isdata="1">דליליא אורחא הוא ואיבעית אימא משום</row>
+		<row row_number="4" isdata="1">ביעתותא דליליא ליכא משום ביעתותא</row>
+		<row row_number="5" isdata="1">דדוד איכא ואיבעית אימא ביעתותא דדוד</row>
+		<row row_number="6" isdata="1">נמי ליכא משום ביעתותא דהר איכא</row>
+		<row row_number="7" isdata="1">ובאורייתא מי לא כתיב טמא אלא כל היכא</row>
+		<row row_number="8" isdata="1">דכי הדדי נינהו משתעי בלשון נקיה כל</row>
+		<row row_number="9" isdata="1">היכא דנפישין מילי משתעי בלשון קצרה</row>
+		<row row_number="10" isdata="1">כדאמר רב הונא אמר רב ואמרי לה אמר</row>
+		<row row_number="11" isdata="1">רב הונא אמר רב משום ר"מ לעולם ישנה</row>
+		<row row_number="12" isdata="1">אדם לתלמידו דרך קצרה וכל היכא דכי</row>
+		<row row_number="13" isdata="1">הדדי נינהו משתעי בלשון כבוד והא רוכבת</row>
+		<row row_number="14" isdata="1">ויושבת דכי הדדי נינהו וקאמר רוכבת רכבת</row>
+		<row row_number="15" isdata="1">כתיב הנהו תרי תלמידי דהוו יתבי קמיה</row>
+		<row row_number="16" isdata="1">דרב חד אמר שויתינן האי שמעתא כדבר</row>
+		<row row_number="17" isdata="1">אחר מסנקן וחד אמר שויתינן האי שמעתא</row>
+		<row row_number="18" isdata="1">כגדי מסנקן ולא אישתעי רב בהדי דהאיך</row>
+		<row row_number="19" isdata="1">הנהו תרי תלמידי דהוו יתבי קמיה דהלל</row>
+		<row row_number="20" isdata="1">וחד מינייהו רבן יוחנן בן זכאי ואמרי לה</row>
+		<row row_number="21" isdata="1">קמיה דרבי וחד מינייהו רבי יוחנן חד אמר</row>
+		<row row_number="22" isdata="1">מפני מה בוצרין בטהרה ואין מוסקין בטהרה</row>
+		<row row_number="23" isdata="1">וחד אמר מפני מה בוצרין בטהרה ומוסקין</row>
+		<row row_number="24" isdata="1">בטומאה אמר מובטח אני בזה שמורה</row>
+		<row row_number="25" isdata="1">הוראה בישראל ולא היה ימים מועטים עד</row>
+		<row row_number="26" isdata="1">שהורה הוראה בישראל הנהו תלתא כהני</row>
+		<row row_number="27" isdata="1">חד אמר להו הגיעני כפול וחד אמר הגיעני</row>
+		<row row_number="28" isdata="1">כזית וחד אמר הגיעני כזנב הלטאה בדקו</row>
+		<row row_number="29" isdata="1">אחריו ומצאו בו שמץ פסול והא (תניא)</row>
+		<row row_number="30" isdata="1">אין בודקין מן המזבח ולמעלה לא תימא</row>
+		<row row_number="31" isdata="1">שמץ פסול אלא אימא שחץ פסול ואי בעית</row>
+		<row row_number="32" isdata="1">אימא שאני התם דאיהו דארע נפשיה ההוא</row>
+		<row row_number="33" isdata="1">ארמאה דהוה סליק ואכיל פסחים בירושלים</row>
+		<row row_number="34" isdata="1">אמר כתיב כל בן נכר לא יאכל בו כל</row>
+		<row row_number="35" isdata="1">ערל לא יאכל בו ואנא הא קאכילנא משופרי</row>
+		<row row_number="36" isdata="1">שופרי אמר ליה רבי יהודה בן בתירא מי</row>
+		<row row_number="37" isdata="1">קא ספו לך מאליה אמר ליה לא כי סלקת</row>
+		<row row_number="38" isdata="1">להתם אימא להו ספו לי מאליה כי סליק</row>
+		<row row_number="39" isdata="1">אמר להו מאליה ספו לי אמרו ליה אליה</row>
+		<row row_number="40" isdata="1">לגבוה סלקא אמרו ליה מאן אמר לך הכי</row>
+		<row row_number="41" isdata="1">אמר להו רבי יהודה בן בתירא אמרו מאי</row>
+		<row row_number="42" isdata="1">האי דקמן בדקו בתריה ואשכחוהו דארמאה</row>
+		<row row_number="43" isdata="1">הוא וקטלוהו שלחו ליה לרבי יהודה בן</row>
+		<row row_number="44" isdata="1">בתירא שלם לך ר' יהודה בן בתירא דאת</row>
+		<row row_number="45" isdata="1">בנציבין ומצודתך פרוסה בירושלים רב</row>
+		<row row_number="46" isdata="1">כהנא חלש שדרוה רבנן לר' יהושע בריה</row>
+		<row row_number="47" isdata="1">דרב אידי אמרו ליה זיל בדוק מאי דיניה אתא אשכחיה דנח נפשיה קרעיה</row>
+		<row row_number="48" isdata="1">ללבושיה ואהדריה לקרעיה לאחוריה ובכי ואתי אמרו ליה נח נפשיה אמר</row>
+		<row row_number="49" isdata="1">להו אנא לא קאמינא ומוציא דבה הוא כסיל יוחנן חקוקאה נפק לקרייתא כי</row>
+		<row row_number="50" isdata="1">אתא אמרו ליה חיטין נעשו יפות אמר להם שעורים נעשו יפות אמרו</row>
+		<row row_number="51" isdata="1">ליה צא ובשר לסוסים ולחמורים דכתיב השעורים והתבן לסוסים ולרכש</row>
+		<row row_number="52" isdata="1">מאי הוי ליה למימר אשתקד נעשו חיטין יפות אי נמי עדשים נעשו יפות</row>
+</amud>
+</daf>
+</masechet>
+</root>

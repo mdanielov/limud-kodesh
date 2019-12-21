@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:56.991997</dateCreated>
+   <lastModified>2019-12-21 20:29:56.991997</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="52">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "רבן גמליאל"/><ContGemara/>ולאשה בעלמא אין גט מפני שאין בידו</row>
+		<row row_number="2" isdata="1">לגרשה בעי רמי בר חמא ליבמתו מהו כיון</row>
+		<row row_number="3" isdata="1">דאגידא ביה כארוסתו דמיא או דלמא</row>
+		<row row_number="4" isdata="1">כיון דלא עבד בה מאמר לא תיקו בעי</row>
+		<row row_number="5" isdata="1">רב חנניה כתב גט לזיקתו ולא למאמרו</row>
+		<row row_number="6" isdata="1">למאמרו ולא לזיקתו מהו מאמר עילוי זיקה</row>
+		<row row_number="7" isdata="1">קא רמי והוה ליה כמגרש חצי אשה והמגרש</row>
+		<row row_number="8" isdata="1">חצי אשה לא עשה ולא כלום או דלמא</row>
+		<row row_number="9" isdata="1">האי לחודיה קאי והאי לחודיה קאי</row>
+		<row row_number="10" isdata="1">ותפשוט ליה מדרבא דאמר רבא נתן</row>
+		<row row_number="11" isdata="1">גט למאמרו הותרה צרתה לרבא פשיטא</row>
+		<row row_number="12" isdata="1">ליה לרב חנניה מיבעיא ליה מאי תיקו</row>
+		<row row_number="13" isdata="1">חלץ ועשה מאמר אמר רב יהודה אמר</row>
+		<row row_number="14" isdata="1">רב זו דברי ר' עקיבא דאמר אין קדושין</row>
+		<row row_number="15" isdata="1">תופסין בחייבי לאוין אבל חכ"א יש אחר</row>
+		<row row_number="16" isdata="1">חליצה כלום ומי מצית מוקמת לה כרבי</row>
+		<row row_number="17" isdata="1">עקיבא והא קתני רישא נתן גט ועשה מאמר</row>
+		<row row_number="18" isdata="1">צריכה גט וחליצה ואי רבי עקיבא כיון דיהב</row>
+		<row row_number="19" isdata="1">לה גט מי מהני בה מאמר והתניא רבי</row>
+		<row row_number="20" isdata="1">עקיבא אומר מנין לנותן גט ליבמתו</row>
+		<row row_number="21" isdata="1">שנאסרה עליו עולמית שנאמר לא יוכל</row>
+		<row row_number="22" isdata="1">בעלה הראשון אשר שלחה אחר שילוח</row>
+		<row row_number="23" isdata="1">אמר רב אשי גט יבמין מדרבנן וקרא</row>
+		<row row_number="24" isdata="1">אסמכתא בעלמא תניא נמי הכי אמר רבי</row>
+		<row row_number="25" isdata="1">אין הדברים הללו אמורים אלא לדברי</row>
+		<row row_number="26" isdata="1">ר' עקיבא שהיה עושה חלוצה כערוה אבל</row>
+		<row row_number="27" isdata="1">חכמים אומרים יש אחר חליצה כלום ואני</row>
+		<row row_number="28" isdata="1">אומר אימתי בזמן שקדשה לשום אישות</row>
+		<row row_number="29" isdata="1">אבל קדשה לשום יבמות אין אחר חליצה</row>
+		<row row_number="30" isdata="1">כלום תניא אידך החולץ ליבמתו וחזר</row>
+		<row row_number="31" isdata="1">וקדשה רבי אומר אם קדשה לשום אישות</row>
+		<row row_number="32" isdata="1">צריכה הימנו גט לשום יבמות אין צריכה</row>
+		<row row_number="33" isdata="1">הימנו גט וחכמים אומרים בין שקדשה</row>
+		<row row_number="34" isdata="1">לשום אישות בין שקדשה לשום יבמות</row>
+		<row row_number="35" isdata="1">צריכה הימנו גט אמר רב יוסף מ"ט דרבי</row>
+		<row row_number="36" isdata="1">עשאוה כעודר בנכסי הגר וכסבור שלו</row>
+		<row row_number="37" isdata="1">הן דלא קני א"ל אביי מי דמי התם לא</row>
+		<row row_number="38" isdata="1">קא מכוין למיקני הכא קא מכוין למיקני</row>
+		<row row_number="39" isdata="1">הא לא דמיא אלא לעודר בנכסי גר זה</row>
+		<row row_number="40" isdata="1">וכסבור של גר אחר הוא דקני אלא אמר</row>
+		<row row_number="41" isdata="1">אביי הכא במאי עסקינן כגון דאמר לה</row>
+		<row row_number="42" isdata="1">התקדשי לי במאמר יבמין רבי סבר מאמר</row>
+		<row row_number="43" isdata="1">עילוי זיקה קא רמי ואתאי חליצה אפקעתה</row>
+		<row row_number="44" isdata="1">לזיקה ורבנן סברי האי לחודיה קאי והאי</row>
+		<row row_number="45" isdata="1">לחודיה קאי מעיקרא אילו אמר לה</row>
+		<row row_number="46" isdata="1">התקדשי לי במאמר יבמין מי לא מהני</row>
+		<row row_number="47" isdata="1">השתא נמי מהני רבא אמר אי דאמר לה</row>
+		<row row_number="48" isdata="1">במאמר יבמין כולי עלמא לא פליגי</row>
+		<row row_number="49" isdata="1">דמהניא והכא במאי עסקינן כגון דאמר</row>
+		<row row_number="50" isdata="1">לה התקדשי לי בזיקת יבמין רבי סבר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:40.461404</dateCreated>
+   <lastModified>2019-12-21 20:29:40.461404</lastModified>
+ </meta>
+ <masechet name="ראש השנה" serial="09">
+<daf value="12">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה ראשי שנים"/><ContGemara/>ומתוך ששינו מעשיהם שינה הקב"ה עליהם</row>
+		<row row_number="2" isdata="1">מעשה בראשית והעלה מזל כימה ביום</row>
+		<row row_number="3" isdata="1">ונטל שני כוכבים והביא מבול לעולם</row>
+		<row row_number="4" isdata="1">בשלמא לר' יהושע היינו דכתיב שני אלא</row>
+		<row row_number="5" isdata="1">לר"א מאי שני שני לדין בשלמא לרבי</row>
+		<row row_number="6" isdata="1">יהושע היינו דשינה אלא לר"א מאי שינה</row>
+		<row row_number="7" isdata="1">כדרב חסדא דאמר רב חסדא ברותחין</row>
+		<row row_number="8" isdata="1">קלקלו וברותחין נידונו ברותחין קלקלו</row>
+		<row row_number="9" isdata="1">בעבירה וברותחין נידונו כתיב הכא וישכו</row>
+		<row row_number="10" isdata="1">המים וכתיב התם וחמת המלך שככה ת"ר</row>
+		<row row_number="11" isdata="1">חכמי ישראל מונין למבול כר"א ולתקופה</row>
+		<row row_number="12" isdata="1">כר' יהושע חכמי אומות העולם מונין אף</row>
+		<row row_number="13" isdata="1">למבול כר' יהושע ולירקות תנא לירקות</row>
+		<row row_number="14" isdata="1">ולמעשרות ולנדרים לירקות מאי נינהו</row>
+		<row row_number="15" isdata="1">מעשר ירק היינו מעשרות תנא דרבנן</row>
+		<row row_number="16" isdata="1">וקתני דאורייתא וליתני דאורייתא ברישא</row>
+		<row row_number="17" isdata="1">איידי דחביבא ליה אקדמה ותנא דידן</row>
+		<row row_number="18" isdata="1">תנא דרבנן וכל שכן דאורייתא וליתני מעשר</row>
+		<row row_number="19" isdata="1">אחד מעשר בהמה ואחד מעשר דגן</row>
+		<row row_number="20" isdata="1">וליתני ירק תרי גווני ירק דתנן ירק</row>
+		<row row_number="21" isdata="1">הנאגד משיאגד ושאינו נאגד משימלא</row>
+		<row row_number="22" isdata="1">את הכלי ת"ר ליקט ירק ערב ראש</row>
+		<row row_number="23" isdata="1">השנה עד שלא תבא השמש וחזר וליקט</row>
+</amud>
+</daf>
+</masechet>
+</root>

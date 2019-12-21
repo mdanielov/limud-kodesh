@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:19.828494</dateCreated>
+   <lastModified>2019-12-21 20:30:19.828494</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="91">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContMishna/>אהלויי דהוו הכא האידנא אי אנת לא</row>
+		<row row_number="2" isdata="1">דילמא מנהון אמר רב נחמן עיניה נתנה</row>
+		<row row_number="3" isdata="1">באחר ולית בה מששא במלה ההיא</row>
+		<row row_number="4" isdata="1">איתתא דלא הוה בדיחא דעתה בהדי</row>
+		<row row_number="5" isdata="1">גברא אמר לה האידנא מאי שנא אמרה</row>
+		<row row_number="6" isdata="1">ליה מעולם לא צערתן בדרך ארץ כי</row>
+		<row row_number="7" isdata="1">האידנא אמר לה לא הוה הדא מילתא</row>
+		<row row_number="8" isdata="1">האידנא אמרה ליה א"כ הלין נכרים נפטויי</row>
+		<row row_number="9" isdata="1">דהוו הכא האידנא אי אנת לא דילמא חד מנהון אמר להו רב נחמן</row>
+		<row row_number="10" isdata="1">לא תשגיחון בה נותנת עיניה באחר הואי ההוא גברא דהוה מהרזיק</row>
+		<row row_number="11" isdata="1">בביתא הוא ואינתתא על אתא מריה דביתא פרטיה נואף להוצא וערק</row>
+		<row row_number="12" isdata="1">אמר רבא איתתא שריא אם איתא דעבד איסורא ארכוסי הוה מירכס</row>
+		<row row_number="13" isdata="1">ההוא נואף דעל לגבי דההיא אנתתא אתא גברא סליק נואף איתיב [בכלאי] בבא הוה מחתן תחלי</row>
+		<row row_number="14" isdata="1">תמן וטעמינון חויא בעא מרי דביתא למיכל מן הנהו תחלי בלא דעתא דאינתתא אמר ליה ההוא נואף</row>
+		<row row_number="15" isdata="1">לא תיכול מנהון דטעמינון חויא אמר רבא אינתתיה שריא אם איתיה דעבד איסורא ניחא ליה</row>
+		<row row_number="16" isdata="1">דליכול ולימות דכתיב כי נאפו ודם בידיהן פשיטא מהו דתימא איסורא עבד והאי דאמר ליה דניחא</row>
+		<row row_number="17" isdata="1">ליה דלא לימות בעל דתהוי אינתתיה עלויה מים גנובים ימתקו ולחם סתרים ינעם קא משמע לן<EndChapter name = "ואלו נדרים "/><EndGemara/></row>
+		<row row_number="18" isdata="0">הדרן עלך ואלו נדרים וסליקא לה מסכת נדרים</row>
+</amud>
+</daf>
+</masechet>
+</root>

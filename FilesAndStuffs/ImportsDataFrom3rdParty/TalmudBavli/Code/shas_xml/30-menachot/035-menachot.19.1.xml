@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:02.921331</dateCreated>
+   <lastModified>2019-12-21 20:32:02.921331</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הקומץ"/><ContGemara/>הכהנים מקרא נדרש לפניו ולאחריו וסבר</row>
+		<row row_number="2" isdata="1">ר"ש מקרא נדרש לפניו ולאחריו והתניא</row>
+		<row row_number="3" isdata="1">ולקח הכהן מדם החטאת באצבעו ונתן על</row>
+		<row row_number="4" isdata="1">קרנות המזבח באצבעו ולקח מלמד שלא</row>
+		<row row_number="5" isdata="1">תהא קבלה אלא בימין באצבעו ונתן מלמד</row>
+		<row row_number="6" isdata="1">שלא תהא נתינה אלא בימין אר"ש וכי</row>
+		<row row_number="7" isdata="1">נאמר יד בקבלה הואיל ולא נאמר יד</row>
+		<row row_number="8" isdata="1">בקבלה קיבל בשמאל כשר ואמר אביי</row>
+		<row row_number="9" isdata="1">במקרא נדרש לפניו ולאחריו קא מיפלגי</row>
+		<row row_number="10" isdata="1">(ור"ש סבר לאחריו נדרש ולפניו אין נדרש)</row>
+		<row row_number="11" isdata="1">אלא ה"ט דר"ש והביאה וי"ו מוסיף על ענין</row>
+		<row row_number="12" isdata="1">ראשון וסבר ר"ש וי"ו מוסיף על ענין ראשון</row>
+		<row row_number="13" isdata="1">אלא מעתה דכתיב ושחט את בן הבקר</row>
+		<row row_number="14" isdata="1">והקריבו בני אהרן הכהנים את הדם וזרקו את</row>
+		<row row_number="15" isdata="1">הדם מקבלה ואילך מצות כהונה מלמד על</row>
+		<row row_number="16" isdata="1">שחיטה שכשירה בזר אי לר"ש וי"ו מוסיף</row>
+		<row row_number="17" isdata="1">על ענין ראשון שחיטה ה"נ בזר תהא פסולה</row>
+		<row row_number="18" isdata="1">שאני התם דאמר קרא וסמך ושחט מה</row>
+		<row row_number="19" isdata="1">סמיכה בזרים אף שחיטה בזרים אי מה</row>
+		<row row_number="20" isdata="1">סמיכה בבעלים אף שחיטה בבעלים ההוא</row>
+		<row row_number="21" isdata="1">לא מצית אמרת ק"ו ומה זריקה דעיקר</row>
+		<row row_number="22" isdata="1">כפרה לא בעיא בעלים שחיטה דלאו עיקר</row>
+		<row row_number="23" isdata="1">כפרה לא כ"ש וכי תימא אין דנין אפשר</row>
+		<row row_number="24" isdata="1">משאי אפשר גלי רחמנא ביוה"כ ושחט את</row>
+		<row row_number="25" isdata="1">פר החטאת אשר לו מכלל דשחיטה בעלמא</row>
+		<row row_number="26" isdata="1">לא בעינן בעלים אמר רב כל מקום שנאמר</row>
+		<row row_number="27" isdata="1">תורה וחוקה אינו אלא לעכב קא ס"ד תרתי</row>
+		<row row_number="28" isdata="1">בעיא כדכתיב זאת חוקת התורה (סימן</row>
+		<row row_number="29" isdata="1">נת"ץ יקמ"ל) והרי נזיר דלא כתיבא ביה אלא</row>
+		<row row_number="30" isdata="1">תורה ואמר רב תנופה בנזיר מעכבא שאני</row>
+		<row row_number="31" isdata="1">התם כיון דכתיב כן יעשה כמאן דכתיבא בהו</row>
+		<row row_number="32" isdata="1">חוקה דמי הרי תודה דלא כתיבא ביה אלא</row>
+		<row row_number="33" isdata="1">תורה ותנן ארבעה שבתודה מעכבין זה</row>
+		<row row_number="34" isdata="1">את זה שאני תודה דאיתקש לנזיר דכתיב</row>
+		<row row_number="35" isdata="1">על זבח תודת שלמיו ואמר מר שלמיו</row>
+		<row row_number="36" isdata="1">לרבות שלמי נזיר והרי מצורע דלא כתיב ביה</row>
+		<row row_number="37" isdata="1">אלא תורה ותנן ארבעה מינין שבמצורע</row>
+		<row row_number="38" isdata="1">מעכבין זה את זה שאני התם כיון דכתיב</row>
+		<row row_number="39" isdata="1">זאת תהיה תורת המצורע כמאן דכתיב ביה</row>
+		<row row_number="40" isdata="1">חוקה דמי והרי יוה"כ דלא כתיב ביה אלא</row>
+		<row row_number="41" isdata="1">חוקה ותנן שני שעירי יוה"כ מעכבין זה את</row>
+		<row row_number="42" isdata="1">זה אלא או תורה או חוקה והרי שאר קרבנות</row>
+		<row row_number="43" isdata="1">דכתיב בהו תורה ולא מעכבי תורה בעיא</row>
+		<row row_number="44" isdata="1">חוקה וחוקה לא בעיא תורה והא תורה וחוקה</row>
+		<row row_number="45" isdata="1">קא אמר ה"ק אף על גב דכתיב תורה אי כתיבא</row>
+		<row row_number="46" isdata="1">חוקה אין ואי לא לא והרי מנחה דכתיב בה</row>
+		<row row_number="47" isdata="1">חוקה ואמר רב כל מקום שהחזיר הכתוב</row>
+		<row row_number="48" isdata="1">בתורת מנחה אינו אלא לעכב החזיר</row>
+		<row row_number="49" isdata="1">אין לא החזיר לא שאני התם דכי כתיבא</row>
+		<row row_number="50" isdata="1">חוקה אאכילה כתיבא והרי לחם הפנים</row>
+		<row row_number="51" isdata="1">דכי כתיבא חוקה אאכילה כתיבא ותנן שני</row>
+		<row row_number="52" isdata="1">סדרים מעכבין זה את זה שני בזיכין</row>
+		<row row_number="53" isdata="1">מעכבין זה את זה הסדרין והבזיכין מעכבין זה את זה אלא כל היכא דכתיבא</row>
+		<row row_number="54" isdata="1">אאכילה אכולא מילתא כתיבא שאני התם דאמר קרא מגרשה ומשמנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

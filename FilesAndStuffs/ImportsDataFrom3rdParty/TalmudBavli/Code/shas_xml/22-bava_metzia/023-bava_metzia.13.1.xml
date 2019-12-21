@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:55.659637</dateCreated>
+   <lastModified>2019-12-21 20:30:55.659637</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="13">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שנים אוחזין"/><ContGemara/>בשטרי הקנאה דהא שעביד נפשיה אי הכי</row>
+		<row row_number="2" isdata="1">מתניתין דקתני אם יש בהן אחריות נכסים לא</row>
+		<row row_number="3" isdata="1">יחזיר ואוקימנא כשחייב מודה ומשום שמא</row>
+		<row row_number="4" isdata="1">כתב ללות בניסן ולא לוה עד תשרי ואתי</row>
+		<row row_number="5" isdata="1">למטרף לקוחות שלא כדין אמאי לא יחזיר</row>
+		<row row_number="6" isdata="1">נחזי אי בשטר הקנאה הא שעביד ליה נפשיה</row>
+		<row row_number="7" isdata="1">אי בשטר דלא הקנאה ליכא למיחש דהא</row>
+		<row row_number="8" isdata="1">אמרת כי ליכא מלוה בהדיה לא כתבינן א"ל</row>
+		<row row_number="9" isdata="1">רב אסי אע"ג דשטרי דלאו הקנאה כי ליכא</row>
+		<row row_number="10" isdata="1">מלוה בהדיה לא כתבינן מתניתין כיון דנפל</row>
+		<row row_number="11" isdata="1">אתרע ליה וחיישינן דלמא אקרי וכתוב אביי</row>
+		<row row_number="12" isdata="1">אמר עדיו בחתומיו זכין לו ואפילו שטרי</row>
+		<row row_number="13" isdata="1">דלאו הקנאה משום דקשיא ליה כיון דאמרת</row>
+		<row row_number="14" isdata="1">בשטרי דלאו הקנאה כי ליתיה למלוה</row>
+		<row row_number="15" isdata="1">בהדיה לא כתבינן ליכא למיחש דאקרי</row>
+		<row row_number="16" isdata="1">וכתוב אלא הא דתנן מצא גיטי נשים</row>
+		<row row_number="17" isdata="1">ושחרורי עבדים דייתיקי מתנה ושוברים הרי</row>
+		<row row_number="18" isdata="1">זה לא יחזיר שמא כתובים היו ונמלך עליהם</row>
+		<row row_number="19" isdata="1">שלא ליתנם וכי נמלך עליהם מאי הוי והא</row>
+		<row row_number="20" isdata="1">אמרת עדיו בחתומיו זכין לו הני מילי היכא</row>
+		<row row_number="21" isdata="1">דקא מטו לידיה אבל היכא דלא מטו לידיה</row>
+		<row row_number="22" isdata="1">לא אמרינן אלא מתניתין דקתני מצא שטרי</row>
+		<row row_number="23" isdata="1">חוב אם יש בהם אחריות נכסים לא יחזיר</row>
+		<row row_number="24" isdata="1">ואוקימנא כשחייב מודה ומשום שמא כתב</row>
+		<row row_number="25" isdata="1">ללות בניסן ולא לוה עד תשרי בשלמא לרב</row>
+		<row row_number="26" isdata="1">אסי דאמר בשטרי אקנייתא מוקי לה בשטרי</row>
+		<row row_number="27" isdata="1">דלאו אקנייתא וכדאמרינן אלא לאביי דאמר</row>
+		<row row_number="28" isdata="1">עדיו בחתומיו זכין לו מאי איכא למימר אמר</row>
+		<row row_number="29" isdata="1">לך אביי מתני' היינו טעמא דחייש לפרעון</row>
+		<row row_number="30" isdata="1">ולקנוניא ולשמואל דאמר לא חיישינן</row>
+		<row row_number="31" isdata="1">לפרעון ולקנוניא מאי איכא למימר הניחא אי</row>
+		<row row_number="32" isdata="1">סבר לה כרב אסי דאמר בשטרי הקנאה</row>
+		<row row_number="33" isdata="1">מוקי מתניתין בשטרי דלאו הקנאה אלא</row>
+		<row row_number="34" isdata="1">אי סבר כאביי דאמר עדיו בחתומיו זכין</row>
+		<row row_number="35" isdata="1">לו מאי איכא למימר שמואל מוקי למתניתין</row>
+		<row row_number="36" isdata="1">כשאין חייב מודה אי הכי כי אין בהן אחריות</row>
+		<row row_number="37" isdata="1">נכסים אמאי יחזיר נהי דלא גבי מן משעבדי</row>
+		<row row_number="38" isdata="1">מבני חרי מגבי גבי שמואל לטעמיה דאמר</row>
+		<row row_number="39" isdata="1">שמואל אומר היה רבי מאיר שטר חוב שאין</row>
+		<row row_number="40" isdata="1">בו אחריות נכסים אין גובה לא ממשעבדי</row>
+		<row row_number="41" isdata="1">ולא מבני חרי וכי מאחר שאינו גובה אמאי</row>
+		<row row_number="42" isdata="1">יחזיר אמר רבי נתן בר אושעיא לצור על פי</row>
+		<row row_number="43" isdata="1">צלוחיתו של מלוה ונהדריה להו ללוה</row>
+		<row row_number="44" isdata="1">לצור על פי צלוחיתו של לוה לוה הוא</row>
+</amud>
+</daf>
+</masechet>
+</root>

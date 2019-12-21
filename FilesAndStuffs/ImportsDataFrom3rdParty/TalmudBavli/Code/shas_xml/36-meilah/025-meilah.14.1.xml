@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:42.675322</dateCreated>
+   <lastModified>2019-12-21 20:32:42.675322</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="14">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ולד חטאת"/><ContGemara/>איתמר עבודת כוכבים שנשתברה מאליה ר'</row>
+		<row row_number="2" isdata="1">יוחנן אמר אסורה ור"ל אמר מותרת רבי</row>
+		<row row_number="3" isdata="1">יוחנן אמר אסורה דלא בטלה עובד כוכבים</row>
+		<row row_number="4" isdata="1">ור"ל אמר מותרת מימר אמר היא גופה לא</row>
+		<row row_number="5" isdata="1">מצלה לדידי מצלה לי איתיביה ריש לקיש</row>
+		<row row_number="6" isdata="1">לרבי יוחנן הקן שבראש האילן של הקדש אין</row>
+		<row row_number="7" isdata="1">נהנין ואין מועלין שבאשירה יתיז בקנה מאי</row>
+		<row row_number="8" isdata="1">לאו דאיתבר מגופה וקתני יתיז בקנה לא</row>
+		<row row_number="9" isdata="1">דאייתי עצים מעלמא אי הכי אמאי של</row>
+		<row row_number="10" isdata="1">הקדש אין נהנין ואין מועלין אלא בגידולין</row>
+		<row row_number="11" isdata="1">הבאין לאחר מכאן וקסבר אין מועלין בגידולין</row>
+		<row row_number="12" isdata="1">הכי נמי מסתברא דאי ס"ד דאייתי מעלמא</row>
+		<row row_number="13" isdata="1">אמאי יתיז בקנה לשקליה משקל אמר רבי</row>
+		<row row_number="14" isdata="1">אבהו א"ר יוחנן לעולם דאייתי מעלמא</row>
+		<row row_number="15" isdata="1">ומאי יתיז יתיז אפרוחים אמר ליה רבי יעקב</row>
+		<row row_number="16" isdata="1">לרבי ירמיה אפרוחים כאן וכאן מותרין ביצים</row>
+		<row row_number="17" isdata="1">כאן וכאן אסורין אמר רב אשי אם אפרוחים</row>
+		<row row_number="18" isdata="1">צריכין לאמן כביצים דמומתני' הגזברים</row>
+		<row row_number="19" isdata="1">שלקחו עצים מועלין בעצים ואין מועלין לא</row>
+		<row row_number="20" isdata="1">בשיפויי ולא בנבייה<EndMishna/><StartGemara/>גמ' אמר שמואל</row>
+		<row row_number="21" isdata="1">בונין בחול ואח"כ מקדישין מאי טעמא מאן</row>
+		<row row_number="22" isdata="1">דמתנדב מעות מקדש להו דאמר תיחול</row>
+		<row row_number="23" isdata="1">קדושת מעות אבנין ויהיב להון לאומנין בשכרן</row>
+</amud>
+</daf>
+</masechet>
+</root>

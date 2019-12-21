@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:05.870854</dateCreated>
+   <lastModified>2019-12-21 20:30:05.870854</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="29">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "אלו נערות"/><StartMishna/><ContChapter name = "אלו נערות"/><ContMishna/>אלו נערות שיש להן קנס הבא על</row>
+		<row row_number="2" isdata="1">הממזרת ועל הנתינה ועל הכותית</row>
+		<row row_number="3" isdata="1">הבא על הגיורת ועל השבויה ועל השפחה</row>
+		<row row_number="4" isdata="1">שנפדו ושנתגיירו ושנשתחררו פחותות מבנות</row>
+		<row row_number="5" isdata="1">שלש שנים ויום אחד הבא על אחותו</row>
+		<row row_number="6" isdata="1">ועל אחות אביו ועל אחות אמו ועל אחות</row>
+		<row row_number="7" isdata="1">אשתו ועל אשת אחיו ועל אשת אחי אביו</row>
+		<row row_number="8" isdata="1">ועל הנדה יש להם קנס אע"פ שהן בהכרת</row>
+		<row row_number="9" isdata="1">אין בהן מיתת בית דין<EndMishna/><StartGemara/>גמ' הני נערות</row>
+		<row row_number="10" isdata="1">פסולות אית להו קנס כשירות לא הכי קאמר</row>
+		<row row_number="11" isdata="1">אלו נערות פסולות שיש להם קנס הבא על</row>
+		<row row_number="12" isdata="1">הממזרת ועל הנתינה ועל הכותית נערה</row>
+		<row row_number="13" isdata="1">אין קטנה לא מאן תנא אמר רב יהודה אמר</row>
+		<row row_number="14" isdata="1">רב רבי מאיר היא דתניא קטנה מבת יום</row>
+		<row row_number="15" isdata="1">אחד ועד שתביא שתי שערות יש לה מכר</row>
+		<row row_number="16" isdata="1">ואין לה קנס ומשתביא שתי שערות ועד</row>
+		<row row_number="17" isdata="1">שתיבגר יש לה קנס ואין לה מכר דברי</row>
+		<row row_number="18" isdata="1">רבי מאיר שהיה רבי מאיר אומר כל</row>
+		<row row_number="19" isdata="1">מקום שיש מכר אין קנס וכל מקום שיש</row>
+		<row row_number="20" isdata="1">קנס אין מכר וחכמים אומרים קטנה</row>
+		<row row_number="21" isdata="1">מבת שלש שנים ויום אחד ועד שתיבגר</row>
+		<row row_number="22" isdata="1">יש לה קנס קנס אין מכר לא אימא</row>
+</amud>
+</daf>
+</masechet>
+</root>

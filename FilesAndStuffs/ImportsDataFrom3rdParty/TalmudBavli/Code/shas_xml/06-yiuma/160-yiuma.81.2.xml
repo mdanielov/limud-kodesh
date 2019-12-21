@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:28.696402</dateCreated>
+   <lastModified>2019-12-21 20:29:28.696402</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="81">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יום הכפורים"/><ContGemara/>הוא גופיה שבת איקרי דכתיב תשבתו</row>
+		<row row_number="2" isdata="1">שבתכם בשלמא רב פפא לא אמר כרב</row>
+		<row row_number="3" isdata="1">אחא בר יעקב דקרא דכתיב בגופיה עדיף</row>
+		<row row_number="4" isdata="1">אלא רב אחא בר יעקב מאי טעמא לא אמר</row>
+		<row row_number="5" isdata="1">כרב פפא מיבעי ליה לכדתניא ועניתם את</row>
+		<row row_number="6" isdata="1">נפשותיכם בתשעה לחודש יכול יתחיל</row>
+		<row row_number="7" isdata="1">ויתענה בתשעה ת"ל בערב אי בערב יכול</row>
+		<row row_number="8" isdata="1">משתחשך ת"ל בתשעה הא כיצד מתחיל</row>
+		<row row_number="9" isdata="1">ומתענה מבעוד יום מכאן שמוסיפין מחול</row>
+		<row row_number="10" isdata="1">על הקודש ואין לי אלא בכניסתו ביציאתו</row>
+		<row row_number="11" isdata="1">מנין ת"ל מערב עד ערב ואין לי אלא</row>
+		<row row_number="12" isdata="1">יוה"כ (ימים טובים) מניין ת"ל תשבתו אין</row>
+		<row row_number="13" isdata="1">לי אלא (ימים טובים שבתות) מנין ת"ל</row>
+		<row row_number="14" isdata="1">שבתכם הא כיצד כל מקום שנאמר שבות</row>
+		<row row_number="15" isdata="1">(מכאן שמוסיפין) מחול על הקודש ותנא</row>
+		<row row_number="16" isdata="1">דעצם עצם האי בתשעה לחודש מאי עביד</row>
+		<row row_number="17" isdata="1">ליה מיבעי ליה לכדתני חייא בר רב מדיפתי</row>
+		<row row_number="18" isdata="1">דתני חייא בר רב מדיפתי ועניתם את</row>
+		<row row_number="19" isdata="1">נפשותיכם בתשעה וכי בתשעה מתענין</row>
+		<row row_number="20" isdata="1">והלא בעשור מתענין אלא לומר לך כל</row>
+		<row row_number="21" isdata="1">האוכל ושותה בתשיעי מעלה עליו הכתוב</row>
+		<row row_number="22" isdata="1">כאילו התענה תשיעי ועשירי אכל אוכלין</row>
+		<row row_number="23" isdata="1">שאין ראוין לאכילה אמר רבא כס פלפלי</row>
+		<row row_number="24" isdata="1">ביומא דכפורי פטור כס זנגבילא ביומא</row>
+		<row row_number="25" isdata="1">דכפורי פטור מיתיבי היה רבי מאיר אומר</row>
+		<row row_number="26" isdata="1">ממשמע שנאמר וערלתם ערלתו את פריו</row>
+		<row row_number="27" isdata="1">איני יודע שעץ מאכל הוא אלא מה תלמוד</row>
+		<row row_number="28" isdata="1">לומר עץ מאכל עץ שטעם עצו ופריו שוה</row>
+		<row row_number="29" isdata="1">הוי אומר זה פלפלין ללמדך שהפלפלין</row>
+		<row row_number="30" isdata="1">חייבין בערלה ואין ארץ ישראל חסרה כלום</row>
+		<row row_number="31" isdata="1">שנא' לא תחסר כל בה ל"ק הא ברטיבתא</row>
+		<row row_number="32" isdata="1">והא ביבישתא א"ל רבינא למרימר והאמר רב נחמן האי הימלתא דאתי</row>
+		<row row_number="33" isdata="1">מבי הנדואי שריא ומברכינן עליה בורא פרי האדמה לא קשיא הא ברטיבתא</row>
+		<row row_number="34" isdata="1">והא ביבישתא ת"ר אכל עלי קנים פטור לולבי גפנים חייב אלו הן לולבי</row>
+		<row row_number="35" isdata="1">גפנים אמר רבי יצחק מגדלאה כל שלבלבו מר"ה ועד יוה"כ ורב כהנא</row>
+		<row row_number="36" isdata="1">אמר כל שלשים יום תניא כוותיה דר' יצחק מגדלאה אכל עלי קנים</row>
+		<row row_number="37" isdata="1">פטור ולולבי גפנים חייב אלו הן לולבי גפנים כל שלבלבו מר"ה ועד</row>
+		<row row_number="38" isdata="1">יוה"כ שתה ציר או מורייס פטור הא חומץ חייב מתני' מני רבי היא</row>
+		<row row_number="39" isdata="1">דתניא ר' אומר חומץ משיב את הנפש דרש רב גידל בר מנשה מבירי</row>
+		<row row_number="40" isdata="1">דנרש אין הלכה כרבי לשנה נפקי כולי עלמא מזגו ושתו חלא שמע רב</row>
+		<row row_number="41" isdata="1">גידל ואיקפד אמר אימר דאמרי אנא דיעבד לכתחלה מי אמרי אימר</row>
+		<row row_number="42" isdata="1">דאמרי אנא פורתא טובא מי אמרי אימר דאמרי אנא חי מזוג מי אמרי</row>
+</amud>
+</daf>
+</masechet>
+</root>

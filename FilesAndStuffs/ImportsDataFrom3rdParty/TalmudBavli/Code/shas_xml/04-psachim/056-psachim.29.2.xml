@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:05.884444</dateCreated>
+   <lastModified>2019-12-21 20:29:05.884444</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>להא שמעתא משמיה דרב יוסף בהא לישנא</row>
+		<row row_number="2" isdata="1">דכולי עלמא אין פודין את הקדשים להאכילן</row>
+		<row row_number="3" isdata="1">לכלבים והכא בהא קמיפלגי בדבר הגורם</row>
+		<row row_number="4" isdata="1">לממון כממון דמי מאן דאמר מעל קסבר</row>
+		<row row_number="5" isdata="1">דבר הגורם לממון כממון דמי ומאן דאמר</row>
+		<row row_number="6" isdata="1">לא מעל קסבר דבר הגורם לממון לאו כממון</row>
+		<row row_number="7" isdata="1">דמי רב אחא בר יעקב אמר דכולי עלמא</row>
+		<row row_number="8" isdata="1">דבר הגורם לממון כממון דמי והכא</row>
+		<row row_number="9" isdata="1">בפלוגתא דרבי יהודה ורבי שמעון קמיפלגי</row>
+		<row row_number="10" isdata="1">מאן דאמר לא מעל כרבי יהודה ומאן דאמר</row>
+		<row row_number="11" isdata="1">מעל כר"ש והא רב אחא בר יעקב הוא</row>
+		<row row_number="12" isdata="1">דאמר דר' יהודה יליף שאור דאכילה משאור</row>
+		<row row_number="13" isdata="1">דראייה אלא הדר ביה רב אחא בר יעקב</row>
+		<row row_number="14" isdata="1">מההיא רב אשי אמר דכולי עלמא אין פודין</row>
+		<row row_number="15" isdata="1">ודבר הגורם לממון לאו כממון דמי והכא</row>
+		<row row_number="16" isdata="1">בפלוגתא דרבי יוסי הגלילי ורבנן קמיפלגי</row>
+		<row row_number="17" isdata="1">מאן דאמר מעל כרבי יוסי ומאן דאמר לא</row>
+		<row row_number="18" isdata="1">מעל כרבנן אמר רב חמץ בזמנו בין במינו</row>
+		<row row_number="19" isdata="1">בין שלא במינו אסור שלא בזמנו במינו</row>
+		<row row_number="20" isdata="1">אסור שלא במינו מותר במאי עסקינן אילימא</row>
+		<row row_number="21" isdata="1">בנותן טעם שלא בזמנו שלא במינו מותר</row>
+		<row row_number="22" isdata="1">הא יהיב טעמא אלא במשהו חמץ בזמנו בין</row>
+		<row row_number="23" isdata="1">במינו בין שלא במינו אסור רב לטעמיה</row>
+		<row row_number="24" isdata="1">דרב ושמואל דאמרי תרוייהו כל איסורין</row>
+		<row row_number="25" isdata="1">שבתורה במינו במשהו שלא במינו בנותן</row>
+		<row row_number="26" isdata="1">טעם רב גזר חמץ בזמנו שלא במינו אטו</row>
+		<row row_number="27" isdata="1">מינו ושלא בזמנו במינו אסור כרבי יהודה</row>
+		<row row_number="28" isdata="1">ושלא במינו מותר דשלא בזמנו ושלא במינו</row>
+		<row row_number="29" isdata="1">אטו מינו כולי האי לא גזרינן שמואל אמר</row>
+		<row row_number="30" isdata="1">חמץ בזמנו במינו אסור שלא במינו מותר</row>
+		<row row_number="31" isdata="1">שלא בזמנו בין במינו בין שלא במינו מותר</row>
+		<row row_number="32" isdata="1">חמץ בזמנו במינו אסור שמואל לטעמיה דרב</row>
+		<row row_number="33" isdata="1">ושמואל דאמרי תרוייהו כל איסורין שבתורה</row>
+		<row row_number="34" isdata="1">במינו אסורין במשהו שלא במינו בנותן</row>
+		<row row_number="35" isdata="1">טעם שלא במינן אטו מינן לא גזר שלא</row>
+		<row row_number="36" isdata="1">בזמנו בין במינן בין שלא במינן מותרין כר'</row>
+		<row row_number="37" isdata="1">שמעון ורבי יוחנן אמר חמץ בזמנו בין</row>
+		<row row_number="38" isdata="1">במינו ובין שלא במינו אסור בנותן טעם</row>
+		<row row_number="39" isdata="1">שלא בזמנו בין במינן בין שלא במינן מותר</row>
+		<row row_number="40" isdata="1">חמץ בזמנו בין במינו בין שלא במינו בנותן</row>
+		<row row_number="41" isdata="1">טעם ר' יוחנן לטעמיה דר' יוחנן וריש לקיש</row>
+		<row row_number="42" isdata="1">דאמרי תרוייהו כל איסורין שבתורה בין</row>
+		<row row_number="43" isdata="1">במינן בין שלא במינן בנותן טעם שלא בזמנו</row>
+		<row row_number="44" isdata="1">בין במינו בין שלא במינו מותרין כר' שמעון</row>
+</amud>
+</daf>
+</masechet>
+</root>

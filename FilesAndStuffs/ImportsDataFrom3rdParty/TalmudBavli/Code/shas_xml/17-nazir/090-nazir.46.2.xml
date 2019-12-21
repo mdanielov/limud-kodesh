@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:23.318476</dateCreated>
+   <lastModified>2019-12-21 20:30:23.318476</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="46">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שלשה מינין"/><ContGemara/>ומי מעכבא והתניא זאת תורת הנזיר</row>
+		<row row_number="2" isdata="1">בין שיש לו כפים בין שאין לו כפים ואלא</row>
+		<row row_number="3" isdata="1">הא דתניא זאת תורת הנזיר בין שיש לו</row>
+		<row row_number="4" isdata="1">שער בין שאין לו שער הכי נמי דלא</row>
+		<row row_number="5" isdata="1">מעכבא והתניא נזיר ממורט בש"א אינו</row>
+		<row row_number="6" isdata="1">צריך להעביר תער על ראשו וב"ה אומרים</row>
+		<row row_number="7" isdata="1">צריך להעביר תער על ראשו ואמר רבינא</row>
+		<row row_number="8" isdata="1">מאי אינו צריך לב"ש אינו צריך אין לו</row>
+		<row row_number="9" isdata="1">תקנה הא לב"ה יש לו תקנה והיינו דרבי</row>
+		<row row_number="10" isdata="1">פדת דאמר ר' פדת ב"ש ורבי אליעזר אמרו</row>
+		<row row_number="11" isdata="1">דבר אחד מאי ר' אליעזר דתניא אין</row>
+		<row row_number="12" isdata="1">לו בהן יד ורגל אין לו טהרה עולמית</row>
+		<row row_number="13" isdata="1">דברי רבי אליעזר רבי שמעון אומר יניחנו</row>
+		<row row_number="14" isdata="1">על מקומו ויצא וחכ"א יניח על של שמאל</row>
+		<row row_number="15" isdata="1">ויצא לישנא אחרינא אמרי לה אמר רב</row>
+		<row row_number="16" isdata="1">תנופה בנזיר מעכבת אליבא דמאן אילימא</row>
+		<row row_number="17" isdata="1">אליבא דרבי אליעזר פשיטא האמר רבי</row>
+		<row row_number="18" isdata="1">אליעזר אחר מעשים כולם אלא אליבא</row>
+		<row row_number="19" isdata="1">דרבנן השתא יש לומר תגלחת אמרי רבנן</row>
+		<row row_number="20" isdata="1">לא מעכבא תנופה מיבעיא ומי לא מעכבא</row>
+		<row row_number="21" isdata="1">והתניא זאת תורת הנזיר בין שיש לו</row>
+		<row row_number="22" isdata="1">כפים ובין שאין לו כפים ואלא הא דתניא</row>
+		<row row_number="23" isdata="1">זאת תורת הנזיר בין שיש לו שער ובין</row>
+		<row row_number="24" isdata="1">שאין לו שער הכי נמי דמעכבא והתניא</row>
+		<row row_number="25" isdata="1">נזיר ממורט בש"א אינו צריך להעביר תער</row>
+		<row row_number="26" isdata="1">על ראשו וב"ה אומרים צריך אמר רבי</row>
+		<row row_number="27" isdata="1">אבינא מאי צריך לבית הלל צריך ואין לו</row>
+		<row row_number="28" isdata="1">תקנה לב"ש יש לו תקנה ופליגא דרבי</row>
+		<row row_number="29" isdata="1">פדתמתני' גילח על הזבח ונמצא</row>
+		<row row_number="30" isdata="1">פסול תגלחתו פסולה וזבחיו לא עלו</row>
+		<row row_number="31" isdata="1">לו גילח על החטאת שלא לשמה ואח"כ הביא קרבנותיו לשמן תגלחתו</row>
+		<row row_number="32" isdata="1">פסולה וזבחיו לא עלו לו גילח על העולה או על השלמים שלא לשמן</row>
+		<row row_number="33" isdata="1">ואח"כ הביא קרבנותיו לשמן תגלחתו פסולה וזבחיו לא עלו לו רבי שמעון</row>
+		<row row_number="34" isdata="1">אומר אותו הזבח לא עלה לו אבל שאר זבחים עלו ואם גילח על שלשתן</row>
+		<row row_number="35" isdata="1">ונמצא אחד מהן כשר תגלחתו כשרה ויביא שאר זבחים<EndMishna/><StartGemara/>גמ' אמר רב אדא</row>
+		<row row_number="36" isdata="1">בר אהבה זאת אומרת קסבר ר"ש נזיר שגילח על שלמי נדבה יצא מאי</row>
+		<row row_number="37" isdata="1">טעמ' דאמר קרא ונתן על האש אשר תחת זבח השלמים ולא כתב על שלמיו</row>
+</amud>
+</daf>
+</masechet>
+</root>

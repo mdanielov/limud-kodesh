@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:23.840402</dateCreated>
+   <lastModified>2019-12-21 20:29:23.840402</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="34">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר להם הממונה"/><ContGemara/>ת"ל וערך עליה העולה ואמר רבא העולה</row>
+		<row row_number="2" isdata="1">היא עולה ראשונה ומנחה לחביתין עולה</row>
+		<row row_number="3" isdata="1">ומנחה וחביתין לנסכים שום מנחה ונסכים</row>
+		<row row_number="4" isdata="1">למוספין זבח ונסכים ומוספין לבזיכין והתניא</row>
+		<row row_number="5" isdata="1">בזיכין קודמין למוספין תנאי היא אמר אביי</row>
+		<row row_number="6" isdata="1">מסתברא כמאן דאמר מוספין קודמין</row>
+		<row row_number="7" isdata="1">לבזיכין לאו מי אמרת בבקר בבקר להקדים</row>
+		<row row_number="8" isdata="1">הכא נמי ביום ביום לאחר מ"ט דמאן דאמר</row>
+		<row row_number="9" isdata="1">בזיכין קודמין למוספין גמר חוקה חוקה</row>
+		<row row_number="10" isdata="1">מחביתין אי מהתם גמר ליגמרה כולה</row>
+		<row row_number="11" isdata="1">מילתא מהתם להכי אהני ביום ביום לאחר</row>
+		<row row_number="12" isdata="1">קטורת של שחר היתה קריבה בין דם</row>
+		<row row_number="13" isdata="1">לאיברים וכו' מני אי רבנן בין דם לנרות</row>
+		<row row_number="14" isdata="1">מיבעי ליה אי אבא שאול בין נרות לאיברים</row>
+		<row row_number="15" isdata="1">מיבעי ליה לעולם רבנן היא ובסידרא לא</row>
+		<row row_number="16" isdata="1">קא מיירי ושל בין הערבים היתה קריבה</row>
+		<row row_number="17" isdata="1">בין איברים לנסכים וכו' מנא הני מילי</row>
+		<row row_number="18" isdata="1">אמר ר' יוחנן דאמר קרא כמנחת הבקר</row>
+		<row row_number="19" isdata="1">וכנסכו תעשה מה מנחת הבקר קטורת</row>
+		<row row_number="20" isdata="1">קודמת לנסכים אף כאן קטורת קודמת</row>
+		<row row_number="21" isdata="1">לנסכים אי מה להלן קטורת קודמת לאיברים</row>
+		<row row_number="22" isdata="1">אף כאן קטורת קודמת לאיברים מי כתיב</row>
+		<row row_number="23" isdata="1">כאיברי הבקר כמנחת הבקר כתיב כמנחת</row>
+		<row row_number="24" isdata="1">הבקר ולא כאיברי הבקר תנו רבנן ונסכו</row>
+		<row row_number="25" isdata="1">רביעית ההין ילמד של שחרית משל ערבית</row>
+</amud>
+</daf>
+</masechet>
+</root>

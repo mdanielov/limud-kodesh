@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:04.217418</dateCreated>
+   <lastModified>2019-12-21 20:29:04.217418</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="10">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אור לארבעה עשר"/><ContGemara/>הניח בזוית זו ומצא בזוית אחרת פלוגתא</row>
+		<row row_number="2" isdata="1">דרשב"ג ורבנן דתניא קרדום שאבד בבית</row>
+		<row row_number="3" isdata="1">הבית טמא שאני אומר אדם טמא נכנס</row>
+		<row row_number="4" isdata="1">לשם ונטלו רשב"ג אומר הבית טהור שאני</row>
+		<row row_number="5" isdata="1">אומר השאילו לאחר ושכח או שנטלו מזוית</row>
+		<row row_number="6" isdata="1">זו והניח בזוית האחרת ושכח זוית מאן דכר</row>
+		<row row_number="7" isdata="1">שמיה חסורי מחסרא והכי קתני קרדום</row>
+		<row row_number="8" isdata="1">שאבד בבית הבית טמא שאני אומר אדם</row>
+		<row row_number="9" isdata="1">טמא נכנס לשם ונטלו או שהניחו בזוית זו</row>
+		<row row_number="10" isdata="1">ומצאו בזוית אחרת הבית טמא שאני אומר</row>
+		<row row_number="11" isdata="1">אדם טמא נכנס לשם ונטלו מזוית זו והניחו</row>
+		<row row_number="12" isdata="1">בזוית אחרת רשב"ג אומר הבית טהור שאני</row>
+		<row row_number="13" isdata="1">אומר השאילו לאחר ושכח או שנטלו מזוית</row>
+		<row row_number="14" isdata="1">זו והניח בזוית זו ושכח אמר רבא עכבר</row>
+		<row row_number="15" isdata="1">נכנס וככר בפיו ונכנס אחריו ומצא פירורין</row>
+		<row row_number="16" isdata="1">צריך בדיקה מפני שאין דרכו של עכבר</row>
+		<row row_number="17" isdata="1">לפרר ואמר רבא תינוק נכנס וככר בידו</row>
+		<row row_number="18" isdata="1">ונכנס אחריו ומצא פירורין א"צ בדיקה מפני</row>
+		<row row_number="19" isdata="1">שדרכו של תינוק לפרר בעי רבא עכבר</row>
+		<row row_number="20" isdata="1">נכנס וככר בפיו ועכבר יוצא וככר בפיו</row>
+		<row row_number="21" isdata="1">מהו מי אמרינן היינו האי דעל והיינו האי</row>
+		<row row_number="22" isdata="1">דנפק או דילמא אחרינא הוא אם תמצא</row>
+		<row row_number="23" isdata="1">לומר היינו האי דעל והיינו האי דנפק</row>
+		<row row_number="24" isdata="1">עכבר לבן נכנס וככר בפיו ועכבר שחור</row>
+		<row row_number="25" isdata="1">יוצא וככר בפיו מהו האי ודאי אחרינא הוא</row>
+		<row row_number="26" isdata="1">או דילמא ארמויי ארמיה מיניה ואת"ל</row>
+		<row row_number="27" isdata="1">עכברים לא שקלי מהדדי עכבר נכנס</row>
+		<row row_number="28" isdata="1">וככר בפיו וחולדה יוצאה וככר בפיה מהו</row>
+		<row row_number="29" isdata="1">חולדה ודאי מעכבר שקלתיה או דילמא</row>
+		<row row_number="30" isdata="1">אחרינא הוא דאם איתא דמעכבר שקלתיה</row>
+		<row row_number="31" isdata="1">עכבר בפיה הוה משתכח ואת"ל אם איתא</row>
+		<row row_number="32" isdata="1">דמעכבר שקלתיה עכבר בפיה הוה משתכח</row>
+		<row row_number="33" isdata="1">עכבר נכנס וככר בפיו וחולדה יוצאה וככר</row>
+		<row row_number="34" isdata="1">ועכבר בפי חולדה מהו הכא ודאי איהו הוא</row>
+		<row row_number="35" isdata="1">או דילמא אם איתא דאיהו ניהו ככר בפי</row>
+		<row row_number="36" isdata="1">עכבר משתכח הוה בעי אישתכוחי או דילמא</row>
+		<row row_number="37" isdata="1">משום ביעתותא הוא נפל ושקלתיה תיקו</row>
+		<row row_number="38" isdata="1">בעי רבא ככר בשמי קורה צריך סולם</row>
+		<row row_number="39" isdata="1">להורידה או אין צריך מי אמרינן כולי האי לא</row>
+		<row row_number="40" isdata="1">אטרחוהו רבנן כיון דלא נחית מנפשיה לא אתי למיכלה או דילמא זימנין</row>
+		<row row_number="41" isdata="1">דנפל ואתי למיכלה ואם תמצי לומר זימנין דנפל ואתי למיכלה ככר בבור צריך סולם להעלותה או אין</row>
+		<row row_number="42" isdata="1">צריך הכא ודאי דלא עבידא דסלקה מנפשה או דילמא זימנין דנחית למעבד צורכיה ואתי למיכליה את"ל זימנין</row>
+		<row row_number="43" isdata="1">דנחית לצורכיה ואתי למיכלה ככר בפי נחש צריך חבר להוציא או אין צריך בגופיה אטרחוהו רבנן בממוניה</row>
+		<row row_number="44" isdata="1">לא אטרחוהו רבנן או דילמא לא שנא תיקומתני' ר' יהודה אומר בודקין אור י"ד ובי"ד שחרית ובשעת</row>
+		<row row_number="45" isdata="1">הביעור וחכ"א לא בדק אור י"ד יבדוק בי"ד לא בדק בי"ד יבדוק בתוך המועד לא בדק בתוך המועד יבדוק</row>
+		<row row_number="46" isdata="1">לאחר המועד ומה שמשייר יניחנו בצינעא כדי שלא יהא צריך בדיקה אחריו<EndMishna/><StartGemara/>גמ' מ"ט דרבי יהודה</row>
+		<row row_number="47" isdata="1">רב חסדא ורבה בר רב הונא דאמרי תרוייהו כנגד שלש השבתות שבתורה לא יראה לך חמץ ולא</row>
+		<row row_number="48" isdata="1">יראה לך שאור שבעת ימים שאור לא ימצא בבתיכם אך ביום הראשון תשביתו שאור מבתיכם מתיב</row>
+		<row row_number="49" isdata="1">רב יוסף רבי יהודה אומר כל שלא בדק בשלשה פרקים הללו שוב אינו בודק אלמא במכאן ואילך הוא דפליגי</row>
+		<row row_number="50" isdata="1">מר זוטרא מתני הכי מתיב רב יוסף רבי יהודה אומר כל שלא בדק באחד משלשה פרקים הללו שוב אינו</row>
+		<row row_number="51" isdata="1">בודק אלמא בשוב אינו בודק הוא דפליגי אלא רבי יהודה נמי אם לא בדק קאמר והכא בהא קמיפלגי מר סבר</row>
+		<row row_number="52" isdata="1">מקמי איסורא אין בתר איסורא לא גזירה דילמא אתי למיכל מיניה ורבנן סברי לא גזרינן ומי גזר ר' יהודה</row>
+		<row row_number="53" isdata="1">דילמא אתי למיכל מיניה והא תנן משקרב העומר יוצאין ומוצאין שוקי ירושלים שהם מלאים קמח וקלי</row>
+</amud>
+</daf>
+</masechet>
+</root>

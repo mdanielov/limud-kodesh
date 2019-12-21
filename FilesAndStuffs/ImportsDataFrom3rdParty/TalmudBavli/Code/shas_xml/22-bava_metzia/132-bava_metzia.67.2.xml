@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:01.067203</dateCreated>
+   <lastModified>2019-12-21 20:31:01.067203</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="67">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "איזהו נשך"/><ContGemara/>כגדולים אמר רבא בריה דרב יוסף משמיה</row>
+		<row row_number="2" isdata="1">דרבא האי משכנתא באתרא דמסלקי לא</row>
+		<row row_number="3" isdata="1">ניכול אלא בנכייתא וצורבא מדרבנן אפילו</row>
+		<row row_number="4" isdata="1">בנכייתא לא ניכול אלא במאי ניכול בקיצותא</row>
+		<row row_number="5" isdata="1">הניחא למאן דאמר קיצותא שריא אלא למאן</row>
+		<row row_number="6" isdata="1">דאמר קיצותא אסירא מאי איכא למימר</row>
+		<row row_number="7" isdata="1">דאתמר קיצותא פליגא בה רב אחא ורבינא חד</row>
+		<row row_number="8" isdata="1">אמר קיצותא שריא וחד אמר קיצותא אסירא</row>
+		<row row_number="9" isdata="1">היכי דמי קיצותא דאמר ליה עד חמש שנין</row>
+		<row row_number="10" isdata="1">אכילנא לה בלא נכייתא מכאן ואילך שיימנא</row>
+		<row row_number="11" isdata="1">לך כולהו פירי איכא דאמרי כל בלא</row>
+		<row row_number="12" isdata="1">נכייתא אסור אבל היכי דמי קיצותא דאמר ליה</row>
+		<row row_number="13" isdata="1">עד חמש שנין אכילנא בנכייתא מכאן ואילך</row>
+		<row row_number="14" isdata="1">שיימנא לך כולהו פירי מאן דאסר בקמייתא</row>
+		<row row_number="15" isdata="1">שרי בבתרייתא מאן דאסר בבתרייתא היכי</row>
+		<row row_number="16" isdata="1">שרי למיכל שרי כי משכנתא דסורא</row>
+		<row row_number="17" isdata="1">דכתבי בה הכי במשלם שניא אילין תיפוק</row>
+		<row row_number="18" isdata="1">ארעא דא בלא כסף רב פפא ורב הונא בריה</row>
+		<row row_number="19" isdata="1">דרב יהושע אמרי תרוייהו האי משכנתא</row>
+		<row row_number="20" isdata="1">באתרא דמסלקי אין בעל חוב גובה הימנה</row>
+		<row row_number="21" isdata="1">ואין הבכור נוטל בה פי שנים ושביעית</row>
+		<row row_number="22" isdata="1">משמטתה ובאתרא דלא מסלקי בעל חוב</row>
+		<row row_number="23" isdata="1">גובה הימנו ובכור נוטל בו פי שנים ואין</row>
+		<row row_number="24" isdata="1">שביעית משמטתה ואמר מר זוטרא משמיה</row>
+		<row row_number="25" isdata="1">דרב פפא האי משכנתא באתרא דמסלקי</row>
+		<row row_number="26" isdata="1">מסלקי ליה ואפילו מתמרי דאבודיא ואי</row>
+		<row row_number="27" isdata="1">אגבהנהו בסיסני קננהו ולמאן דאמר כליו</row>
+		<row row_number="28" isdata="1">של לוקח ברשות מוכר קנה לוקח אפילו</row>
+		<row row_number="29" isdata="1">דלא אגבהנהו בסיסני קננהו פשיטא</row>
+		<row row_number="30" isdata="1">באתרא דמסלקי ואמר לא מסתלקנא הא</row>
+		<row row_number="31" isdata="1">קאמר דלא מסתלקנא אלא באתרא דלא</row>
+		<row row_number="32" isdata="1">מסלקי ואמר מסתלקנא מאי צריך למקנא</row>
+		<row row_number="33" isdata="1">מיניה או לא רב פפא אמר לא צריך למקנא</row>
+		<row row_number="34" isdata="1">מיניה רב ששת בריה דרב אידי אמר צריך</row>
+		<row row_number="35" isdata="1">למקנא מיניה והלכתא צריך למקנא מיניה</row>
+		<row row_number="36" isdata="1">אמר איזיל ואייתי זוזי לא אכיל איזיל ואטרח</row>
+		<row row_number="37" isdata="1">ואייתי זוזי רבינא אמר אכיל ומר זוטרא</row>
+		<row row_number="38" isdata="1">בריה דרב מרי אמר לא אכיל והלכתא לא</row>
+		<row row_number="39" isdata="1">אכיל רב כהנא ורב פפא ורב אשי לא אכלי</row>
+		<row row_number="40" isdata="1">בנכייתא רבינא אכיל בנכייתא אמר מר</row>
+		<row row_number="41" isdata="1">זוטרא מאי טעמא דמאן דאכיל בנכייתא</row>
+		<row row_number="42" isdata="1">מידי דהוה אשדה אחוזה שדה אחוזה לאו</row>
+		<row row_number="43" isdata="1">אע"ג דקא אכיל פירי טובא אמר רחמנא</row>
+</amud>
+</daf>
+</masechet>
+</root>

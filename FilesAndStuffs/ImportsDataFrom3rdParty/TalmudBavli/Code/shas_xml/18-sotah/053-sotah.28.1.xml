@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:26.891497</dateCreated>
+   <lastModified>2019-12-21 20:30:26.891497</lastModified>
+ </meta>
+ <masechet name="סוטה" serial="18">
+<daf value="28">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כשם שהמים"/><ContGemara/>דאי אית ביה עון בדקי ליה מיא כי אית ביה</row>
+		<row row_number="2" isdata="1">עון בדידיה מי בדקי לה מיא לדידה והא</row>
+		<row row_number="3" isdata="1">תניא ונקה האיש מעון והאשה ההיא תשא</row>
+		<row row_number="4" isdata="1">את עונה בזמן שהאיש מנוקה מעון המים</row>
+		<row row_number="5" isdata="1">בודקין את אשתו אין האיש מנוקה מעון אין</row>
+		<row row_number="6" isdata="1">המים בודקין את אשתו ואלא לבועל ליתני</row>
+		<row row_number="7" isdata="1">כדקתני סיפא כשם שאסורה לבעל כך אסורה</row>
+		<row row_number="8" isdata="1">לבועל לעולם לבועל ורישא איידי דתנא</row>
+		<row row_number="9" isdata="1">אותה תני אותו סיפא איידי דתנא בעל תנא</row>
+		<row row_number="10" isdata="1">בועל שנאמר ובאו ובאו איבעיא להו</row>
+		<row row_number="11" isdata="1">באו ובאו קאמר או ובאו ובאו קאמר ת"ש</row>
+		<row row_number="12" isdata="1">כשם שאסורה לבעל כך אסורה לבועל</row>
+		<row row_number="13" isdata="1">שנאמר נטמאה ונטמאה ועדיין תיבעי</row>
+		<row row_number="14" isdata="1">נטמאה נטמאה קאמר או נטמאה ונטמאה</row>
+		<row row_number="15" isdata="1">קאמר ת"ש מדקתני סיפא רבי אומר שני</row>
+		<row row_number="16" isdata="1">פעמים האמורין בפרשה ונטמאה ונטמאה</row>
+		<row row_number="17" isdata="1">אחד לבעל ואחד לבועל מכלל דרבי עקיבא</row>
+		<row row_number="18" isdata="1">ווי קדריש הלכך לרבי עקיבא שיתא קראי</row>
+		<row row_number="19" isdata="1">כתיבי חד לצואה דידה וחד לצואה דידיה</row>
+		<row row_number="20" isdata="1">חד לעשייה דידה וחד לעשייה דידיה חד</row>
+		<row row_number="21" isdata="1">לידיעה דידה וחד לידיעה דידיה ורבי תלתא</row>
+		<row row_number="22" isdata="1">קראי כתיבי חד לצואה וחד לעשייה וחד</row>
+		<row row_number="23" isdata="1">לידיעה ורבי כשם שהמים בודקין אותה כך</row>
+		<row row_number="24" isdata="1">בודקין אותו מנא ליה נפקא ליה מדתני'</row>
+		<row row_number="25" isdata="1">לצבות בטן ולנפיל ירך בטנו ויריכו של בועל</row>
+		<row row_number="26" isdata="1">אתה אומר בטנו ויריכו של בועל או אינו</row>
+		<row row_number="27" isdata="1">אלא בטנה ויריכה של נבעלת כשהוא אומר</row>
+		<row row_number="28" isdata="1">וצבתה בטנה ונפלה יריכה הרי בטנה ויריכה</row>
+		<row row_number="29" isdata="1">של נבעלת אמור ומה אני מקיים לצבות</row>
+		<row row_number="30" isdata="1">בטן ולנפיל ירך בטנו ויריכו של בועל ואידך</row>
+		<row row_number="31" isdata="1">ההוא דמודע לה כהן דבטן ברישא והדר</row>
+		<row row_number="32" isdata="1">ירך שלא להוציא לעז על המים המרים ואידך</row>
+		<row row_number="33" isdata="1">א"כ לכתוב קרא בטנה ויריכה מאי בטן וירך</row>
+		<row row_number="34" isdata="1">ש"מ לבועל ואימא כולי להכי הוא דאתא</row>
+		<row row_number="35" isdata="1">אם כן לכתוב בטנו ויריכו מאי בטן וירך</row>
+		<row row_number="36" isdata="1">ש"מ תרתי א"ר יהושע כך היה דורש זכריה</row>
+		<row row_number="37" isdata="1">כו' ת"ר שלש פעמים האמורין בפרשה</row>
+		<row row_number="38" isdata="1">אם נטמאה נטמאה ונטמאה למה אחד לבעל</row>
+		<row row_number="39" isdata="1">ואחד לבועל ואחד לתרומה דברי רבי</row>
+		<row row_number="40" isdata="1">עקיבא אמר רבי ישמעאל קל וחומר ומה</row>
+		<row row_number="41" isdata="1">גרושה שמותרת לתרומה אסורה לכהונה זו</row>
+		<row row_number="42" isdata="1">שאסורה בתרומה אינו דין שאסורה לכהונה</row>
+		<row row_number="43" isdata="1">מה ת"ל והיא נטמאה והיא לא נטמאה</row>
+		<row row_number="44" isdata="1">אם נטמאה למה שותה אם לא נטמאה</row>
+		<row row_number="45" isdata="1">למה משקה מגיד לך הכתוב שהספק</row>
+		<row row_number="46" isdata="1">אסורה מכאן אתה דן לשרץ ומה סוטה</row>
+		<row row_number="47" isdata="1">שלא עשה בה שוגג כמזיד ואונס כרצון</row>
+		<row row_number="48" isdata="1">עשה בה ספק כודאי שרץ שעשה בו שוגג</row>
+		<row row_number="49" isdata="1">כמזיד ואונס כרצון אינו דין שיעשה בו ספק</row>
+</amud>
+</daf>
+</masechet>
+</root>

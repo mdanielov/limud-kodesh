@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:28.562817</dateCreated>
+   <lastModified>2019-12-21 20:32:28.562817</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="12">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר חמורו"/><ContMishna/>מתני' אין פודין לא בעגל ולא בחיה לא<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">בשחוטה ולא בטריפה ולא בכלאים ולא בכוי</row>
+		<row row_number="3" isdata="1">ורבי אליעזר מתיר בכלאים מפני שהוא שה</row>
+		<row row_number="4" isdata="1">ואוסר בכוי מפני שהוא ספק נתנו לכהן אין</row>
+		<row row_number="5" isdata="1">הכהן רשאי לקיימו עד שיפריש שה תחתיו</row>
+		<row row_number="6" isdata="1"><EndMishna/><StartGemara/>גמ' מתני' מני בן בג בג היא דתניא בן בג</row>
+		<row row_number="7" isdata="1">בג אומר נאמר כאן שה ונאמר להלן שה</row>
+		<row row_number="8" isdata="1">מה להלן פרט לכל השמות הללו אף כאן</row>
+		<row row_number="9" isdata="1">פרט לכל השמות הללו אי מה להלן זכר</row>
+		<row row_number="10" isdata="1">תמים ובן שנה אף כאן זכר תמים ובן שנה</row>
+		<row row_number="11" isdata="1">ת"ל תפדה תפדה ריבה אי תפדה תפדה ריבה</row>
+		<row row_number="12" isdata="1">אפי' כל הני נמי א"כ שה שה מאי אהני ליה</row>
+		<row row_number="13" isdata="1">איבעי' להו מהו לפדות בבן פקועה אליבא דר'</row>
+		<row row_number="14" isdata="1">מאיר לא תיבעי לך דכיון דאר"מ בן פקועה טעון</row>
+		<row row_number="15" isdata="1">שחיטה שה מעליא הוא אלא כי תבעי לך</row>
+		<row row_number="16" isdata="1">אליבא דרבנן דאמרי שחיטת אמו מטהרתו</row>
+		<row row_number="17" isdata="1">כבישרא בדיקולא דמי או דלמא כיון דהשתא</row>
+		<row row_number="18" isdata="1">מיהא רהיט ואזיל שה קרינא ביה מר זוטרא</row>
+		<row row_number="19" isdata="1">אמר אין פודין ורב אשי אמר פודין א"ל רב אשי</row>
+		<row row_number="20" isdata="1">למר זוטרא מאי דעתיך דילפת מפסח אי מה</row>
+		<row row_number="21" isdata="1">להלן זכר תמים ובן שנה אף כאן זכר תמים</row>
+		<row row_number="22" isdata="1">ובן שנה תפדה תפדה ריבה אי תפדה תפדה</row>
+		<row row_number="23" isdata="1">ריבה אפילו בן פקועה נמי א"כ שה שה מאי</row>
+		<row row_number="24" isdata="1">אהני ליה איבעיא להו מהו לפדות בנדמה</row>
+		<row row_number="25" isdata="1">אליבא דרבי אליעזר לא תיבעי לך השתא</row>
+		<row row_number="26" isdata="1">בכלאים פרקינן בנדמה מיבעיא כי תיבעי לך</row>
+		<row row_number="27" isdata="1">אליבא דרבנן בכלאים הוא דלא פרקינן בנדמה</row>
+		<row row_number="28" isdata="1">פרקינן או דלמא ל"ש ת"ש פרה שילדה מין</row>
+		<row row_number="29" isdata="1">עז אין פודין הא רחל שילדה מין עז פודין מני</row>
+		<row row_number="30" isdata="1">אילימא ר' אליעזר הא בכלאים נמי פרקינן אלא</row>
+		<row row_number="31" isdata="1">לאו רבנן היא לא לעולם ר' אליעזר היא גופה</row>
+		<row row_number="32" isdata="1">קמ"ל דפרה שילדה מין עז אין פודין לא תימא</row>
+		<row row_number="33" isdata="1">זיל אבתריה דידיה והאי עז מעליא הוא אלא</row>
+		<row row_number="34" isdata="1">זיל בתר אימיה והאי עגל הוא ת"ש דתני רבה</row>
+		<row row_number="35" isdata="1">בר שמואל איזהו כלאים רחל שילדה מין עז</row>
+		<row row_number="36" isdata="1">ואביו שה אביו שה כלאים הוא נדמה הוא אלא</row>
+		<row row_number="37" isdata="1">איזהו דמי לכלאים דשויוה רבנן כי כלאים רחל</row>
+		<row row_number="38" isdata="1">שילדה מין עז ואביו שה למאי אי לקדשים</row>
+		<row row_number="39" isdata="1">מהיכא דממעט כלאים מהתם ממעט נדמה</row>
+		<row row_number="40" isdata="1">דתניא שור או כשב פרט לכלאים או עז</row>
+		<row row_number="41" isdata="1">פרט לנדמה אי לבכור אך בכור שור אמר</row>
+		<row row_number="42" isdata="1">רחמנא עד שיהא הוא שור ובכורו שור אלא</row>
+		<row row_number="43" isdata="1">למעשר תחת תחת מקדשים גמר אלא לפטר חמור לא לעולם למעשר וכגון</row>
+		<row row_number="44" isdata="1">שיש בו מקצת סימנין מהו דתימא העברה העברה מבכור גמר קמ"ל תחת</row>
+		<row row_number="45" isdata="1">תחת מקדשים גמר איבעיא להו מהו לפדות בפסולי המוקדשין אליבא דר"ש</row>
+		<row row_number="46" isdata="1">לא תיבעי לך כיון דאמר מותר בהנאה חולין הוא כי תיבעי לך אליבא</row>
+		<row row_number="47" isdata="1">דרבי יהודה דאמר אסור בהנאה מאי כיון דאסור בהנאה אין איסור חל על</row>
+		<row row_number="48" isdata="1">איסור או דלמא כיון דלא תפיס פדיונו אפקועי איסורא בעלמא הוא</row>
+		<row row_number="49" isdata="1">אמר רב מרי בריה דרב כהנא מי זוטר מאי דכתיב בהו כצבי וכאיל מה</row>
+		<row row_number="50" isdata="1">צבי ואיל אין פודין אף פסולי המוקדשין אין פודין השתא דאתית להכי</row>
+</amud>
+</daf>
+</masechet>
+</root>

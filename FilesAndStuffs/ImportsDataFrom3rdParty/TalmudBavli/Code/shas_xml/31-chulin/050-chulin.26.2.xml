@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:13.576173</dateCreated>
+   <lastModified>2019-12-21 20:32:13.576173</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>משיקו במים משהחמיץ אין משיקו במים</row>
+		<row row_number="2" isdata="1">אמר רבא לא שנו אלא שתמדו במים טהורים</row>
+		<row row_number="3" isdata="1">ונטמאו אבל טמאים מעיקרא לא אזל רב</row>
+		<row row_number="4" isdata="1">גביהה מבי כתיל אמרה לשמעתא קמיה דרב</row>
+		<row row_number="5" isdata="1">אשי מ"ש טמאין מעיקרא דלא דאמרינן איידי</row>
+		<row row_number="6" isdata="1">דמיא יקירי שכני תתאי ופירא קפי מלעיל ולא</row>
+		<row row_number="7" isdata="1">קא סלקא להו השקה למיא א"ה טהורים</row>
+		<row row_number="8" isdata="1">ולבסוף נטמאו נמי אלא מבלבלי ה"נ</row>
+		<row row_number="9" isdata="1">מבלבלימתני' כל מקום שיש מכר אין</row>
+		<row row_number="10" isdata="1">קנס וכל מקום שיש קנס אין מכר<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="11" isdata="1">רב יהודה אמר רב זו דברי ר"מ אבל חכמים</row>
+		<row row_number="12" isdata="1">אמרו יש קנס במקום מכר דתניא קטנה</row>
+		<row row_number="13" isdata="1">מבת יום אחד עד שתביא ב' שערות יש לה</row>
+		<row row_number="14" isdata="1">מכר ואין לה קנס משתביא ב' שערות עד</row>
+		<row row_number="15" isdata="1">שתיבגר יש לה קנס ואין לה מכר דברי רבי</row>
+		<row row_number="16" isdata="1">מאיר שהיה רבי מאיר אומר כל מקום שיש</row>
+		<row row_number="17" isdata="1">מכר אין קנס וכל מקום שיש קנס אין מכר</row>
+		<row row_number="18" isdata="1">וחכ"א קטנה מבת ג' שנים ויום אחד עד שתיבגר יש לה קנס קנס אין מכר</row>
+		<row row_number="19" isdata="1">לא אימא אף קנס במקום מכרמתני' כל מקום שיש מיאון אין חליצה</row>
+		<row row_number="20" isdata="1">וכל מקום שיש חליצה אין מיאון<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר רב זו דברי</row>
+		<row row_number="21" isdata="1">ר"מ אבל חכמים אומרים יש מיאון במקום חליצה דתניא עד מתי הבת</row>
+		<row row_number="22" isdata="1">ממאנת עד שתביא שתי שערות דברי ר"מ ר' יהודה אומר עד שירבה</row>
+		<row row_number="23" isdata="1">השחור על הלבןמתני' כל מקום שיש תקיעה אין הבדלה וכל מקום</row>
+		<row row_number="24" isdata="1">שיש הבדלה אין תקיעה יו"ט שחל להיות בע"ש תוקעין ולא מבדילין במ"ש</row>
+		<row row_number="25" isdata="1">מבדילין ולא תוקעין כיצד מבדילין המבדיל בין קודש לקודש ר' דוסא אומר</row>
+		<row row_number="26" isdata="1">בין קודש חמור לקודש הקל<EndMishna/><StartGemara/>גמ' היכי תוקע אמר רב יהודה תוקע ומריע</row>
+		<row row_number="27" isdata="1">מתוך תקיעה ורב אסי אמר תוקע ומריע בנשימה אחת אתקין רב אסי בהוצל</row>
+		<row row_number="28" isdata="1">כשמעתיה מיתיבי יו"ט שחל להיות בע"ש תוקעין ולא מריעין מאי לאו לא</row>
+		<row row_number="29" isdata="1">מריעין כלל לא רב יהודה מתרץ לטעמיה ורב אסי מתרץ לטעמיה רב יהודה</row>
+		<row row_number="30" isdata="1">מתרץ לטעמיה לא מריעין בפני עצמה אלא מתוך תקיעה ורב אסי מתרץ</row>
+		<row row_number="31" isdata="1">לטעמיה לא מריעין בשתי נשימות אלא בנשימה אחת ובמוצאי שבת כו'</row>
+		<row row_number="32" isdata="1">היכא אמר לה א"ר יהודה בחתימתה וכן אמר ר"נ בחתימתה ורב ששת בריה</row>
+		<row row_number="33" isdata="1">דרב אידי אמר אף בפתיחתה ולית הלכתא כוותיה רבי דוסא אומר בין קדש</row>
+		<row row_number="34" isdata="1">חמור לקדש הקל ולית הלכתא כוותיה א"ר זירא יו"ט שחל להיות באמצע</row>
+		<row row_number="35" isdata="1">שבת אומר המבדיל בין קדש לחול ובין אור לחשך ובין ישראל לעמים ובין יום</row>
+		<row row_number="36" isdata="1">השביעי לששת ימי המעשה מ"ט סדר הבדלות הוא מונה<EndChapter name = "הכל שוחטין"/><EndGemara/></row>
+		<row row_number="37" isdata="0">הדרן עלך הכל שוחטין</row>
+</amud>
+</daf>
+</masechet>
+</root>

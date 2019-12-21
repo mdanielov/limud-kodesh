@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:07.046915</dateCreated>
+   <lastModified>2019-12-21 20:32:07.046915</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="64">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>אימא לך כרבנן סבירא ליה אי נמי עד כאן</row>
+		<row row_number="2" isdata="1">לא קא"ר ישמעאל בנו של ר' יוחנן בן ברוקא</row>
+		<row row_number="3" isdata="1">התם אלא דאיתעביד ליה צורך גבוה ולא</row>
+		<row row_number="4" isdata="1">צריך אחולי שבת אבל הכא דלא איתעביד</row>
+		<row row_number="5" isdata="1">ליה צורך גבוה וצריך לאחולי שבת אימא</row>
+		<row row_number="6" isdata="1">כרבנן סבירא ליה אלא אמר רבה ר' ישמעאל</row>
+		<row row_number="7" isdata="1">ורבי חנינא סגן הכהנים אמרו דבר אחד דתנן</row>
+		<row row_number="8" isdata="1">רבי חנינא סגן הכהנים אומר בשבת נקצר</row>
+		<row row_number="9" isdata="1">ביחיד במגל אחד ובקופה אחת ובחול בשלשה</row>
+		<row row_number="10" isdata="1">בשלש קופות ובשלש מגלות וחכ"א אחד שבת</row>
+		<row row_number="11" isdata="1">ואחד חול בשלש קופות ובשלש מגלות מי</row>
+		<row row_number="12" isdata="1">לא קא"ר חנינא סגן הכהנים התם כיון דאפשר</row>
+		<row row_number="13" isdata="1">לא טרחינן הכא נמי כיון דאפשר לא טרחינן</row>
+		<row row_number="14" isdata="1">ממאי דלמא עד כאן לא קא"ר ישמעאל הכא</row>
+		<row row_number="15" isdata="1">אלא דליכא פרסומי מילתא אבל התם דאיכא</row>
+		<row row_number="16" isdata="1">פרסומי מילתא אימא כרבנן סבירא ליה אי</row>
+		<row row_number="17" isdata="1">נמי עד כאן לא קא"ר חנינא סגן הכהנים התם</row>
+		<row row_number="18" isdata="1">דאי בחד אי בשלשה צורך גבוה מיתעביד</row>
+		<row row_number="19" isdata="1">כהלכתו אבל הכא דלא איתעביד כהלכתו</row>
+		<row row_number="20" isdata="1">צורך גבוה אימא כרבנן סבירא ליה אלא אמר</row>
+		<row row_number="21" isdata="1">רב אשי רבי ישמעאל ורבי יוסי אמרו דבר</row>
+		<row row_number="22" isdata="1">אחד דתנן בין שנראה בעליל ובין שלא נראה בעליל מחללין עליו את השבת</row>
+		<row row_number="23" isdata="1">רבי יוסי אומר אם נראה בעליל אין מחללין עליו את השבת מי לא א"ר יוסי</row>
+		<row row_number="24" isdata="1">התם כיון דאפשר לא טרחינן הכא נמי כיון דאפשר לא טרחינן ממאי דלמא</row>
+		<row row_number="25" isdata="1">עד כאן לא קאמר רבי ישמעאל הכא אלא דליכא נמצאת אתה מכשילן לעתיד</row>
+		<row row_number="26" isdata="1">לבא אבל התם דנמצאת אתה מכשילן לעתיד לבא אימא כרבנן סבירא ליה אי</row>
+		<row row_number="27" isdata="1">נמי עד כאן לא קאמר רבי יוסי התם אלא דליכא צורך גבוה ולא ניתנה שבת</row>
+		<row row_number="28" isdata="1">לדחות אבל הכא דאיכא צורך גבוה וניתנה שבת לדחות אימא כרבנן ס"ל</row>
+		<row row_number="29" isdata="1">איתמר שחט שתי חטאות של ציבור ואינו צריך אלא אחת אמר רבה ואיתימא</row>
+		<row row_number="30" isdata="1">רבי אמי חייב על השניה ופטור על הראשונה ואפילו נתכפר לו בשניה ואפילו</row>
+		<row row_number="31" isdata="1">נמצאת ראשונה כחושה ומי אמר רבה הכי והא אמר רבה היו לפניו שתי חטאות</row>
+		<row row_number="32" isdata="1">אחת שמינה ואחת כחושה שחט שמינה ואח"כ שחט כחושה חייב כחושה ואח"כ</row>
+		<row row_number="33" isdata="1">שמינה פטור ולא עוד אלא שאומרים לו הבא שמינה לכתחלה ושחוט איבעית</row>
+		<row row_number="34" isdata="1">אימא סמי כחושה מקמייתא ואיבעית אימא ההיא רבי אמי אמרה א"ל רבינא</row>
+		<row row_number="35" isdata="1">לרב אשי נמצאת הראשונה כחושה בבני מעיין מהו בתר מחשבתו אזלינן וגברא</row>
+		<row row_number="36" isdata="1">לאיסורא קא מיכוין או דלמא בתר מעשיו אזלינן א"ל לאו היינו דרבה ורבא</row>
+		<row row_number="37" isdata="1">דאיתמר שמע שטבע תינוק בים ופרש מצודה להעלות דגים והעלה דגים חייב</row>
+		<row row_number="38" isdata="1">להעלות דגים והעלה דגים ותינוק רבא אמר חייב ורבה אמר פטור ועד כאן</row>
+		<row row_number="39" isdata="1">רבה לא קא פטר אלא כיון דשמע אמרי' נמי דעתיה אתינוק אבל לא שמע</row>
+		<row row_number="40" isdata="1">לא ואיכא דאמרי א"ל היינו פלוגתייהו דרבה ורבא דאיתמר (לא) שמע שטבע</row>
+		<row row_number="41" isdata="1">תינוק בים ופרש מצודה להעלות דגים והעלה דגים חייב להעלות דגים והעלה</row>
+		<row row_number="42" isdata="1">תינוק ודגים רבה אמר פטור ורבא אמר חייב רבה אמר פטור זיל בתר מעשיו</row>
+		<row row_number="43" isdata="1">ורבא אמר חייב זיל בתר מחשבתו אמר רבה חולה שאמדוהו לגרוגרת אחת</row>
+		<row row_number="44" isdata="1">ורצו עשרה בני אדם והביאו עשרה גרוגרות בבת אחת פטורין אפילו בזה אחר</row>
+		<row row_number="45" isdata="1">זה אפילו קדם והבריא בראשונה בעי רבא חולה שאמדוהו לשתי גרוגרות ויש</row>
+		<row row_number="46" isdata="1">שתי גרוגרות בשתי עוקצין ושלש בעוקץ אחת הי מינייהו מייתינן שתים מייתינן</row>
+		<row row_number="47" isdata="1">דחזו ליה או דלמא שלש מייתינן דקא ממעטא קצירה פשיטא שלש מייתינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

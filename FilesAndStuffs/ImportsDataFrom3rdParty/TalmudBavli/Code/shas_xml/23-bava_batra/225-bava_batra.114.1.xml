@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:15.902196</dateCreated>
+   <lastModified>2019-12-21 20:31:15.902196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="114">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>אבל בלילה אפילו שלשה כותבין ואין עושין</row>
+		<row row_number="2" isdata="1">דין מאי טעמא דהוו להו עדים ואין עד</row>
+		<row row_number="3" isdata="1">נעשה דיין אמר ליה אין הכי נמי קאמינא</row>
+		<row row_number="4" isdata="1">איתמר קנין עד אימתי חוזר רבה אמר כל</row>
+		<row row_number="5" isdata="1">זמן שיושבין רב יוסף אמר כל זמן שעוסקין</row>
+		<row row_number="6" isdata="1">באותו ענין אמר רב יוסף כוותי דידי מסתברא</row>
+		<row row_number="7" isdata="1">דאמר רב יהודה שלשה שנכנסו לבקר את</row>
+		<row row_number="8" isdata="1">החולה רצו כותבין רצו עושין דין ואי סלקא</row>
+		<row row_number="9" isdata="1">דעתך כל זמן שיושבין ליחוש דלמא הדר</row>
+		<row row_number="10" isdata="1">ביה אמר רב אשי אמריתה לשמעתא קמיה</row>
+		<row row_number="11" isdata="1">דרב כהנא ולרב יוסף מי ניחא וליחוש דלמא</row>
+		<row row_number="12" isdata="1">הדר ביה אלא מאי אית לך למימר דיסליקו</row>
+</amud>
+</daf>
+</masechet>
+</root>

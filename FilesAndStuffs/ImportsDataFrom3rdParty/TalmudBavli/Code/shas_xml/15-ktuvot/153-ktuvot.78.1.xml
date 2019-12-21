@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:09.982233</dateCreated>
+   <lastModified>2019-12-21 20:30:09.982233</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="78">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "האשה"/><StartMishna/><ContChapter name = "האשה"/><ContMishna/>האשה שנפלו לה נכסים עד שלא תתארס</row>
+		<row row_number="2" isdata="1">מודים ב"ש ובית הלל שמוכרת</row>
+		<row row_number="3" isdata="1">ונותנת וקיים נפלו לה משנתארסה ב"ש</row>
+		<row row_number="4" isdata="1">אומרים תמכור ובית הלל אומרים לא</row>
+		<row row_number="5" isdata="1">תמכור אלו ואלו מודים שאם מכרה ונתנה</row>
+		<row row_number="6" isdata="1">קיים אמר רבי יהודה אמרו חכמים לפני</row>
+		<row row_number="7" isdata="1">ר"ג הואיל וזכה באשה לא יזכה בנכסים</row>
+		<row row_number="8" isdata="1">אמר להם על החדשים אנו בושים אלא</row>
+		<row row_number="9" isdata="1">שאתם מגלגלין עלינו את הישנים נפלו לה</row>
+		<row row_number="10" isdata="1">משנשאת אלו ואלו מודים שאם מכרה</row>
+		<row row_number="11" isdata="1">ונתנה שהבעל מוציא מיד הלקוחות עד</row>
+		<row row_number="12" isdata="1">שלא נשאת ונשאת ר"ג אומר אם מכרה</row>
+		<row row_number="13" isdata="1">ונתנה קיים א"ר חנינא בן עקביא אמרו לפני</row>
+		<row row_number="14" isdata="1">ר"ג הואיל וזכה באשה לא יזכה בנכסים</row>
+		<row row_number="15" isdata="1">אמר להם על החדשים אנו בושים אלא</row>
+		<row row_number="16" isdata="1">שאתם מגלגלין עלינו הישנים ר"ש חולק בין</row>
+		<row row_number="17" isdata="1">נכסים לנכסים נכסים הידועין לבעל לא</row>
+		<row row_number="18" isdata="1">תמכור ואם מכרה ונתנה בטל שאינן ידועין</row>
+		<row row_number="19" isdata="1">לבעל לא תמכור ואם מכרה ונתנה קיים</row>
+		<row row_number="20" isdata="1"><EndMishna/><StartGemara/>גמ' מאי שנא רישא דלא פליגי ומאי שנא</row>
+		<row row_number="21" isdata="1">סיפא דפליגי אמרי דבי רבי ינאי רישא</row>
+		<row row_number="22" isdata="1">בזכותה נפלו סיפא בזכותו נפלו אם בזכותו</row>
+		<row row_number="23" isdata="1">נפלו כי מכרה ונתנה אמאי קיים אלא רישא ודאי בזכותה נפלו סיפא אימר</row>
+		<row row_number="24" isdata="1">בזכותה אימר בזכותו לכתחלה לא תמכור אם מכרה ונתנה קיים א"ר</row>
+		<row row_number="25" isdata="1">יהודה אמרו לפני ר"ג איבעיא להו רבי יהודה אלכתחלה או אדיעבד</row>
+</amud>
+</daf>
+</masechet>
+</root>

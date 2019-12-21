@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:25.359922</dateCreated>
+   <lastModified>2019-12-21 20:32:25.359922</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="115">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>כעורה זו ששנה רבי לא תאכלנו בבשר</row>
+		<row row_number="2" isdata="1">בחלב הכתוב מדבר אתה אומר בבשר</row>
+		<row row_number="3" isdata="1">בחלב הכתוב מדבר או אינו אלא באחד</row>
+		<row row_number="4" isdata="1">מכל האיסורין שבתורה אמרת צא ולמד</row>
+		<row row_number="5" isdata="1">מי"ג מדות שהתורה נדרשת בהן דבר</row>
+		<row row_number="6" isdata="1">הלמד מענינו במה הכתוב מדבר בשני</row>
+		<row row_number="7" isdata="1">מינין אף כאן בשני מינין אי מההיא הוה</row>
+		<row row_number="8" isdata="1">אמינא הני מילי באכילה אבל בהנאה לא</row>
+		<row row_number="9" isdata="1">קמ"ל ורבי בהנאה מנא ליה נפקא ליה</row>
+		<row row_number="10" isdata="1">מהכא נאמר כאן כי עם קדוש אתה לה'</row>
+		<row row_number="11" isdata="1">ונאמר להלן ולא יהיה קדש בבני ישראל</row>
+		<row row_number="12" isdata="1">מה להלן בהנאה אף כאן בהנאה דבי רבי</row>
+		<row row_number="13" isdata="1">אליעזר תנא לא תאכלו כל נבלה [וגו']</row>
+		<row row_number="14" isdata="1">אמרה תורה כשתמכרנה לא תבשלנה</row>
+		<row row_number="15" isdata="1">ותמכרנה דבי רבי ישמעאל תנא לא</row>
+		<row row_number="16" isdata="1">תבשל גדי בחלב אמו ג' פעמים אחד</row>
+		<row row_number="17" isdata="1">לאיסור אכילה ואחד לאיסור הנאה ואחד</row>
+		<row row_number="18" isdata="1">לאיסור בשול תניא איסי בן יהודה אומר</row>
+		<row row_number="19" isdata="1">מנין לבשר בחלב שאסור נאמר כאן כי</row>
+		<row row_number="20" isdata="1">עם קדוש אתה ונאמר להלן ואנשי קדש</row>
+		<row row_number="21" isdata="1">תהיון לי ובשר בשדה טרפה לא תאכלו</row>
+		<row row_number="22" isdata="1">מה להלן אסור אף כאן אסור ואין לי</row>
+		<row row_number="23" isdata="1">אלא באכילה בהנאה מנין אמרת ק"ו ומה</row>
+		<row row_number="24" isdata="1">ערלה שלא נעבדה בה עבירה אסורה</row>
+		<row row_number="25" isdata="1">בהנאה בשר בחלב שנעבדה בו עבירה</row>
+		<row row_number="26" isdata="1">אינו דין שאסור בהנאה מה לערלה שכן</row>
+		<row row_number="27" isdata="1">לא היתה לה שעת הכושר חמץ בפסח</row>
+		<row row_number="28" isdata="1">יוכיח שהיתה לו שעת הכושר ואסור בהנאה</row>
+		<row row_number="29" isdata="1">מה לחמץ בפסח שכן ענוש כרת כלאי</row>
+		<row row_number="30" isdata="1">הכרם יוכיחו שאין ענוש כרת ואסור בהנאה</row>
+		<row row_number="31" isdata="1">למה לי גז"ש לייתי כולה בק"ו מערלה</row>
+		<row row_number="32" isdata="1">ומה ערלה שלא נעבדה בה עבירה אסורה</row>
+		<row row_number="33" isdata="1">בין באכילה בין בהנאה בשר בחלב שנעבדה</row>
+		<row row_number="34" isdata="1">בו עבירה אינו דין שאסור בין באכילה בין</row>
+		<row row_number="35" isdata="1">בהנאה משום דאיכא למימר חורש בשור</row>
+		<row row_number="36" isdata="1">ובחמור וחוסם פי פרה ודש בה יוכיח</row>
+		<row row_number="37" isdata="1">שנעבדה בהם עבירה ושרו למה לי למימר</row>
+		<row row_number="38" isdata="1">כלאי הכרם יוכיחו לימא ערלה תוכיח</row>
+		<row row_number="39" isdata="1">וליהדר דינא וליתי במה הצד אמר רב אשי משום דאיכא למימר</row>
+		<row row_number="40" isdata="1">נבלה תוכיח שאסורה באכילה ומותרת בהנאה אמר ליה רב מרדכי</row>
+		<row row_number="41" isdata="1">לרב אשי הכי אמרינן משמיה דריש לקיש כל מה הצד מגופו פרכינן</row>
+		<row row_number="42" isdata="1">מעלמא לא פרכינן אי הכי תיתי במה הצד משום דאיכא למיפרך מה</row>
+		<row row_number="43" isdata="1">להצד השוה שבהן שכן גדולי קרקע אי הכי השתא נמי איכא למיפרך</row>
+		<row row_number="44" isdata="1">מה לכלאי הכרם שכן גדולי קרקע א"ל רב מרדכי לרב אשי הכי אמרינן</row>
+		<row row_number="45" isdata="1">משמיה דר"ל כל מה הצד פרכינן כל דהו לא אם אמרת (חדא מחדא)</row>
+		<row row_number="46" isdata="1">קל וחומר פרכינן כל דהו לא פרכינן וליפרוך לכולהו מה לכולהו שכן</row>
+		<row row_number="47" isdata="1">גדולי קרקע אלא אמר ליה רב מרדכי לרב אשי הכי אמרינן משמיה דר"ל</row>
+</amud>
+</daf>
+</masechet>
+</root>

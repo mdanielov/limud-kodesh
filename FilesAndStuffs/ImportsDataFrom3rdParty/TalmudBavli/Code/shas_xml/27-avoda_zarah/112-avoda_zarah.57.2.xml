@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:47.587908</dateCreated>
+   <lastModified>2019-12-21 20:31:47.587908</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="57">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>בשוק טמא ואמרי לה טהור יינן גדולים עושין</row>
+		<row row_number="2" isdata="1">יין נסך קטנים אין עושין יין נסך אלו הן</row>
+		<row row_number="3" isdata="1">גדולים ואלו הן קטנים גדולים שיודעין בטיב</row>
+		<row row_number="4" isdata="1">עבודת כוכבים ומשמשיה קטנים שאין</row>
+		<row row_number="5" isdata="1">יודעין בטיב עבודת כוכבים ומשמשיה קתני</row>
+		<row row_number="6" isdata="1">מיהת מלו ולא טבלו אין מלו וטבלו לא</row>
+		<row row_number="7" isdata="1">תרגמה אבני שפחות הא וכן קתני ארוקן</row>
+		<row row_number="8" isdata="1">ומדרסן הניחא למאן דאמר טמא אלא למ"ד</row>
+		<row row_number="9" isdata="1">טהור מאי איכא למימר הא קמ"ל עבדים</row>
+		<row row_number="10" isdata="1">דומיא דבני שפחות מה בני שפחות גדולים</row>
+		<row row_number="11" isdata="1">הוא דעושין יין נסך קטנים אין עושין יין</row>
+		<row row_number="12" isdata="1">נסך אף עבדים נמי גדולים עושין יין נסך</row>
+		<row row_number="13" isdata="1">קטנים אין עושין יין נסך לאפוקי מדרב</row>
+		<row row_number="14" isdata="1">דאמר רב תינוק בן יומו עושה יין נסך קמ"ל</row>
+		<row row_number="15" isdata="1">דלא ההוא עובדא דהוה במחוזא אתא עובד</row>
+		<row row_number="16" isdata="1">כוכבים עייל לחנותא דישראל אמר להו אית</row>
+		<row row_number="17" isdata="1">לכו חמרא לזבוני אמרו ליה לא הוה יתיב</row>
+		<row row_number="18" isdata="1">חמרא בדוולא שדי ביה ידיה שיכשך ביה</row>
+		<row row_number="19" isdata="1">אמר להו האי לאו חמרא הוא שקליה האיך</row>
+		<row row_number="20" isdata="1">בריתחיה שדייה לדנא שרייה רבא לזבוני</row>
+		<row row_number="21" isdata="1">לעובדי כוכבים איפליג עליה רב הונא בר חיננא ורב הונא בריה דרב נחמן</row>
+		<row row_number="22" isdata="1">נפקי שיפורי דרבא ושרו ונפקי שיפורי דרב הונא בר חיננא ור"ה בר ר"נ ואסרי</row>
+</amud>
+</daf>
+</masechet>
+</root>

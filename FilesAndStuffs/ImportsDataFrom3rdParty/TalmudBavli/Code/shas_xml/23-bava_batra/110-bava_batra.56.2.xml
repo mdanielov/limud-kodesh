@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:10.582202</dateCreated>
+   <lastModified>2019-12-21 20:31:10.582202</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="56">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>משלשין ביניהם שלשה אחים ואחד מצטרף</row>
+		<row row_number="2" isdata="1">עמהם הרי אלו שלש עדיות והן עדות אחת</row>
+		<row row_number="3" isdata="1">להזמה<EndMishna/><StartGemara/>גמ' מתני' דלא כרבי עקיבא דתניא</row>
+		<row row_number="4" isdata="1">א"ר יוסי כשהלך אבא חלפתא אצל רבי</row>
+		<row row_number="5" isdata="1">יוחנן בן נורי ללמוד תורה ואמרי לה ר' יוחנן</row>
+		<row row_number="6" isdata="1">בן נורי אצל אבא חלפתא ללמוד תורה אמר</row>
+		<row row_number="7" isdata="1">לו הרי שאכלה שנה ראשונה בפני שנים שניה</row>
+		<row row_number="8" isdata="1">בפני שנים שלישית בפני שנים מהו אמר לו</row>
+		<row row_number="9" isdata="1">הרי זו חזקה אמר לו אף אני אומר כן אלא</row>
+		<row row_number="10" isdata="1">שר"ע חולק בדבר זה שהיה ר"ע אומר דבר</row>
+		<row row_number="11" isdata="1">ולא חצי דבר ורבנן האי דבר ולא חצי דבר</row>
+		<row row_number="12" isdata="1">מאי עבדי ליה אילימא למעוטי אחד אומר</row>
+		<row row_number="13" isdata="1">אחת בגבה ואחד אומר אחת בכריסה האי</row>
+		<row row_number="14" isdata="1">חצי דבר וחצי עדות היא אלא למעוטי</row>
+		<row row_number="15" isdata="1">שנים אומרים אחת בגבה ושנים אומרים אחת</row>
+		<row row_number="16" isdata="1">בכריסה אמר רב יהודה אחד אומר אכלה</row>
+		<row row_number="17" isdata="1">חטים ואחד אומר אכלה שעורים הרי זו</row>
+		<row row_number="18" isdata="1">חזקה מתקיף לה ר"נ אלא מעתה אחד אומר</row>
+		<row row_number="19" isdata="1">אכלה ראשונה שלישית וחמישית ואחד</row>
+		<row row_number="20" isdata="1">אומר אכלה שניה רביעית וששית הכי נמי</row>
+		<row row_number="21" isdata="1">דהויא חזקה א"ל רב יהודה הכי השתא התם</row>
+		<row row_number="22" isdata="1">בשתא דקא מסהיד מר לא קא מסהיד מר</row>
+		<row row_number="23" isdata="1">הכא תרוייהו בחדא שתא קא מסהדי מאי</row>
+		<row row_number="24" isdata="1">איכא למימר בין חיטי לשערי לאו אדעתייהו</row>
+		<row row_number="25" isdata="1">דאינשי שלשה אחין ואחד מצטרף עמהן הרי</row>
+		<row row_number="26" isdata="1">אלו שלש עדיות והן עדות אחת להזמה</row>
+</amud>
+</daf>
+</masechet>
+</root>

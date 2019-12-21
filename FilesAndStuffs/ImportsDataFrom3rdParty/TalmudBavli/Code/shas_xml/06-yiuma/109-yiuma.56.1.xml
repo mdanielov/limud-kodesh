@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:26.093416</dateCreated>
+   <lastModified>2019-12-21 20:29:26.093416</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="56">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הוציאו לו"/><ContGemara/>עשרה מעשר ראשון תשעה מעשר שני</row>
+		<row row_number="2" isdata="1">ומיחל ושותה מיד דברי רבי מאיר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:17.984201</dateCreated>
+   <lastModified>2019-12-21 20:31:17.984201</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="129">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>יירשו אחרים תחתיהם בין שאמר תנו בין</row>
+		<row row_number="2" isdata="1">שאמר אל תתנו אין נותנין להן אלא שקל</row>
+		<row row_number="3" isdata="1">והא הכא דכשתי שדות וכשני בני אדם</row>
+		<row row_number="4" isdata="1">דמי וקתני דקני הוא מותיב לה והוא מפרק</row>
+		<row row_number="5" isdata="1">לה בראוי ליורשו ור' יוחנן בן ברוקה היא</row>
+		<row row_number="6" isdata="1">אמר רב אשי תא שמע נכסי לך ואחריך</row>
+		<row row_number="7" isdata="1">יירש פלוני ואחרי אחריך יירש פלוני מת</row>
+		<row row_number="8" isdata="1">ראשון קנה שני מת שני קנה שלישי ואם מת</row>
+		<row row_number="9" isdata="1">שני בחיי ראשון יחזרו נכסים ליורשי ראשון</row>
+		<row row_number="10" isdata="1">והא הכא דכשתי שדות ושני בני אדם דמי</row>
+		<row row_number="11" isdata="1">וקתני דקנה וכי תימא הכא נמי בראוי</row>
+		<row row_number="12" isdata="1">ליורשו ור' יוחנן בן ברוקה היא אי הכי מת שני</row>
+		<row row_number="13" isdata="1">קנה שלישי הא שלח רב אחא ברי' דרב עויא</row>
+		<row row_number="14" isdata="1">לדברי ר' יוחנן בן ברוקה נכסי לך ואחריך</row>
+		<row row_number="15" isdata="1">לפלוני וראשון ראוי ליורשו אין לשני במקום</row>
+		<row row_number="16" isdata="1">ראשון כלום שאין זה לשון מתנה אלא</row>
+		<row row_number="17" isdata="1">לשון ירושה וירושה אין לה הפסק תיובתא</row>
+		<row row_number="18" isdata="1">דכולהו תיובתא לימא נמי תיהוי תיובתיה</row>
+		<row row_number="19" isdata="1">דריש לקיש ותסברא והא אמר רבא</row>
+		<row row_number="20" isdata="1">הלכתא כותיה דריש לקיש בהני תלת</row>
+		<row row_number="21" isdata="1">לא קשיא כאן בתוך כדי דבור כאן</row>
+		<row row_number="22" isdata="1">לאחר כדי דבור והלכתא כל תוך כדי דבור</row>
+		<row row_number="23" isdata="1">כדבור דמי לבר מעבודת כוכבים</row>
+</amud>
+</daf>
+</masechet>
+</root>

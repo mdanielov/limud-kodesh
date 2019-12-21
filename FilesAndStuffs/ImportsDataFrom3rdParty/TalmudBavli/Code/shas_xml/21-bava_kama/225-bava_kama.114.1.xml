@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:53.980641</dateCreated>
+   <lastModified>2019-12-21 20:30:53.980641</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="114">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הגוזל בתרא "/><ContGemara/>אפומא דחד ולא אמרן אלא חד אבל בתרי</row>
+		<row row_number="2" isdata="1">לא וחד נמי לא אמרן אלא בדיני דמגיסתא</row>
+		<row row_number="3" isdata="1">אבל בי דוואר אינהו נמי חד אמומתא שדו</row>
+		<row row_number="4" isdata="1">ליה אמר רב אשי כי הוינא בי רב הונא</row>
+		<row row_number="5" isdata="1">איבעיא לן אדם חשוב דסמכי עליה כבי תרי</row>
+		<row row_number="6" isdata="1">מפקי ממונא אפומיה ולא איבעי ליה</row>
+		<row row_number="7" isdata="1">לאסהודי או דלמא כיון דאדם חשוב הוא</row>
+		<row row_number="8" isdata="1">לא מצי משתמיט להו ומצי לאסהודי תיקו</row>
+		<row row_number="9" isdata="1">אמר רב אשי האי בר ישראל דזבין ליה ארעא</row>
+		<row row_number="10" isdata="1">לעובד כוכבים אמצרא דבר ישראל חבריה</row>
+		<row row_number="11" isdata="1">משמתינן ליה מאי טעמא אי נימא משום</row>
+		<row row_number="12" isdata="1">דינא דבר מצרא והאמר מר זבין מעכו"ם</row>
+		<row row_number="13" isdata="1">וזבין לעכו"ם ליכא משום דינא דבר מצרא</row>
+		<row row_number="14" isdata="1">אלא דאמרי' ליה ארבעית לי אריא אמצראי</row>
+		<row row_number="15" isdata="1">משמתינן ליה עד דקביל עליה כל אונסא</row>
+		<row row_number="16" isdata="1">דאתי מחמתיהמתני' נטלו מוכסין את</row>
+		<row row_number="17" isdata="1">חמורו ונתנו לו חמור אחר נטלו לסטים את</row>
+		<row row_number="18" isdata="1">כסותו ונתנו לו כסות אחרת הרי אלו שלו</row>
+		<row row_number="19" isdata="1">מפני שהבעלים מתייאשין מהן המציל</row>
+		<row row_number="20" isdata="1">מן הנהר או מן הגייס או מן הלסטין אם</row>
+		<row row_number="21" isdata="1">נתייאשו הבעלים הרי אלו שלו וכן נחיל</row>
+		<row row_number="22" isdata="1">של דבורים אם נתייאשו הרי אלו שלו</row>
+		<row row_number="23" isdata="1">א"ר יוחנן בן ברוקה נאמנת אשה או קטן לומר מכאן יצא נחיל זה ומהלך</row>
+		<row row_number="24" isdata="1">בתוך שדה חבירו להציל את נחילו ואם הזיק משלם מה שהזיק אבל לא</row>
+		<row row_number="25" isdata="1">יקוץ את סוכו על מנת ליתן את הדמים ר' ישמעאל בנו של ר' יוחנן בן</row>
+		<row row_number="26" isdata="1">ברוקה אומר אף קוצץ ונותן את הדמים<EndMishna/><StartGemara/>גמ' תנא אם נטל מחזיר לבעלים</row>
+		<row row_number="27" isdata="1">הראשונים קסבר יאוש כדי לא קני ומעיקרא באיסורא אתא לידיה ואיכא</row>
+		<row row_number="28" isdata="1">דאמרי אם בא להחזיר יחזיר לבעלים ראשונים מ"ט יאוש כדי קני מיהו</row>
+		<row row_number="29" isdata="1">אי אמר אי אפשי בממון שאינו שלי מחזיר לבעלים הראשונים הרי אלו</row>
+		<row row_number="30" isdata="1">שלו מפני שהבעלים כו' אמר רב אשי לא שנו אלא לסטים עובד כוכבים</row>
+		<row row_number="31" isdata="1">אבל ליסטים ישראל לא סבר למחר נקיטנא ליה בדינא מתקיף לה רב יוסף</row>
+		<row row_number="32" isdata="1">אדרבה איפכא מסתברא עכו"ם דדייני בגיתי לא מייאש ישראל כיון</row>
+		<row row_number="33" isdata="1">דאמרי מימר מייאש אלא אי איתמר אסיפא איתמר המציל מן העכו"ם</row>
+		<row row_number="34" isdata="1">ומן הלסטים אם נתייאשו הבעלים אין סתמא לא לא שנו אלא עכו"ם</row>
+		<row row_number="35" isdata="1">משום דדייני בגיתי אבל לסטים ישראל כיון דאמרי מימר מייאש תנן</row>
+		<row row_number="36" isdata="1">התם עורות של בעל הבית מחשבה מטמאתן ושל עבדן אין מחשבה</row>
+		<row row_number="37" isdata="1">מטמאתן של גזלן אין מחשבה מטמאתן ושל גנב מחשבה מטמאתן</row>
+		<row row_number="38" isdata="1">ר"ש אומר חילוף הדברים של גזלן מחשבה מטמאתן של גנב אין</row>
+		<row row_number="39" isdata="1">מחשבה מטמאתן לפי שלא נתייאשו הבעלים אמר עולא מחלוקת בסתם</row>
+		<row row_number="40" isdata="1">אבל בידוע דברי הכל יאוש קני רבה אמר בידוע נמי מחלוקת א"ל אביי</row>
+		<row row_number="41" isdata="1">לרבה לא תיפלוג עליה דעולא דתנן במתני' כוותיה לפי שלא נתייאשו</row>
+		<row row_number="42" isdata="1">הבעלים טעמא דלא נתייאשו הבעלים אבל נתייאשו הבעלים הרי אלו שלו</row>
+		<row row_number="43" isdata="1">אמר ליה אנן לפי שאין יאוש לבעלים מתנינן לה תנן נטלו מוכסין חמורו כו'</row>
+		<row row_number="44" isdata="1">מני אי רבנן קשיא גזלן אי ר"ש קשיא גנב בשלמא לעולא דאמר בידוע קני</row>
+		<row row_number="45" isdata="1">הכא נמי בידוע ודברי הכל אלא לרבה דאמר בידוע נמי מחלוקת הא מני לא</row>
+		<row row_number="46" isdata="1">רבנן ולא ר"ש בלסטים מזויין ור"ש היא אי הכי היינו גזלן תרי גווני גזלן ת"ש</row>
+		<row row_number="47" isdata="1">הגנב והגזלן והאנס הקדשן הקדש ותרומתן תרומה ומעשרותן מעשר מני אי</row>
+		<row row_number="48" isdata="1">רבנן קשיא גזלן אי ר"ש קשיא גנב בשלמא לעולא דאמר בידוע קני הכא נמי</row>
+		<row row_number="49" isdata="1">בידוע ודברי הכל היא אלא לרבה דאמר בידוע נמי מחלוקת הא מני לא</row>
+		<row row_number="50" isdata="1">רבנן ולא ר"ש הכא נמי בלסטים מזויין ור' שמעון היא אי הכי היינו גזלן תרי</row>
+		<row row_number="51" isdata="1">גווני גזלן ואי בעית אימא הא מתניתא רבי היא דתניא רבי אמר גנב כגזלן</row>
+</amud>
+</daf>
+</masechet>
+</root>

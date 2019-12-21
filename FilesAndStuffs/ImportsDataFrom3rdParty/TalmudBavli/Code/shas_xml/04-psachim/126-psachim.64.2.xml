@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:10.096432</dateCreated>
+   <lastModified>2019-12-21 20:29:10.096432</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תמיד נשחט"/><ContGemara/>שחל להיות בשבת מניח ידו על כתף</row>
+		<row row_number="2" isdata="1">חבירו ויד חבירו על כתיפו ותולה ומפשיט</row>
+		<row row_number="3" isdata="1">קרעו והוציא את אימוריו נתנו במגיס</row>
+		<row row_number="4" isdata="1">והקטירן על גבי המזבח יצתה כת הראשונה</row>
+		<row row_number="5" isdata="1">וישבה לה בהר הבית שניה בחיל והשלישית</row>
+		<row row_number="6" isdata="1">במקומה עומדת חשיכה יצאו וצלו את</row>
+		<row row_number="7" isdata="1">פסחיהן<EndMishna/><StartGemara/>גמ' א"ר יצחק אין הפסח נשחט</row>
+		<row row_number="8" isdata="1">אלא בג' כתות של שלשים שלשים בני</row>
+		<row row_number="9" isdata="1">אדם מ"ט קהל ועדה וישראל מספקא לן אי</row>
+		<row row_number="10" isdata="1">בבת אחת אי בזה אחר זה הלכך בעינן</row>
+		<row row_number="11" isdata="1">שלש כתות של שלשים שלשים בני אדם</row>
+		<row row_number="12" isdata="1">דאי בבת אחת הא איכא ואי בזה אחר זה הא איכא הלכך בחמשין נמי</row>
+		<row row_number="13" isdata="1">סגיא דעיילי תלתין ועבדי עיילי עשרה ונפקי עשרה עיילי עשרה ונפקי</row>
+		<row row_number="14" isdata="1">עשרה נכנסה כת ראשונה וכו' איתמר אביי אמר ננעלו תנן רבא אמר</row>
+		<row row_number="15" isdata="1">נועלין תנן מאי בינייהו איכא בינייהו למסמך אניסא אביי אמר ננעלו תנן</row>
+		<row row_number="16" isdata="1">כמה דעיילו מעלו וסמכינן אניסא רבא אמר נועלין תנן ולא סמכינן אניסא</row>
+		<row row_number="17" isdata="1">והא דתנן א"ר יהודה ח"ו שעקביא בן מהללאל נתנדה שאין עזרה ננעלת</row>
+		<row row_number="18" isdata="1">על כל אדם בישראל בחכמה וביראת חטא כעקביא בן מהללאל אביי מתרץ</row>
+		<row row_number="19" isdata="1">לטעמיה ורבא מתרץ לטעמיה אביי מתרץ לטעמיה אין בעזרה בשעה</row>
+		<row row_number="20" isdata="1">שננעלה על כל אדם בישראל בחכמה וביראת חטא כעקביא בן מהללאל רבא</row>
+		<row row_number="21" isdata="1">מתרץ לטעמיה אין בעזרה בשעה שנועלין אותה על כל ישראל בחכמה</row>
+		<row row_number="22" isdata="1">וביראת חטא כעקביא בן מהללאל תנו רבנן מעולם לא נתמעך אדם בעזרה</row>
+		<row row_number="23" isdata="1">חוץ מפסח אחד שהיה בימי הלל שנתמעך בו זקן אחד והיו קוראין אותו</row>
+		<row row_number="24" isdata="1">פסח מעוכין תנו רבנן פעם אחת ביקש אגריפס המלך ליתן עיניו באוכלוסי</row>
+		<row row_number="25" isdata="1">ישראל אמר ליה לכהן גדול תן עיניך בפסחים נטל כוליא מכל אחד</row>
+		<row row_number="26" isdata="1">ונמצאו שם ששים ריבוא זוגי כליות כפלים כיוצאי מצרים חוץ מטמא</row>
+		<row row_number="27" isdata="1">ושהיה בדרך רחוקה ואין לך כל פסח ופסח שלא נמנו עליו יותר מעשרה</row>
+		<row row_number="28" isdata="1">בני אדם והיו קוראין אותו פסח מעובין נטל כוליא הא בעי אקטורה דהדר</row>
+		<row row_number="29" isdata="1">מקטיר להו והכתיב והקטירו שלא יערב חלביו של זה בזה דהדר מקטיר</row>
+		<row row_number="30" isdata="1">להו חדא חדא והתניא והקטירם שיהא כולו כאחד אלא תפיסה בעלמא</row>
+		<row row_number="31" isdata="1">דשקיל מינייהו עד דיהבין ליה מידי אחרינא כהנים עומדין שורות וכו'</row>
+		<row row_number="32" isdata="1">מאי טעמא אילימא דילמא שקלי דדהבא ומעיילי דכספא הכא נמי דילמא</row>
+		<row row_number="33" isdata="1">שקלי בר מאתן ומעיילי בר מאה אלא דהכי שפיר טפי ולא היו לבזיכין</row>
+		<row row_number="34" isdata="1">שוליים וכו' תני רבנן כל הבזיכין שבמקדש לא היו להן שוליים חוץ</row>
+		<row row_number="35" isdata="1">מבזיכי לבונה של לחם הפנים שמא יניחום ויפרוס הלחם שחט ישראל</row>
+		<row row_number="36" isdata="1">וקבל הכהן וכו' לא סגיא דלאו ישראל היא גופא קמ"ל דשחיטה בזר כשירה</row>
+		<row row_number="37" isdata="1">וקבל הכהן הא קמשמע לן מקבלה ואילך מצות כהונה נותנו לחבירו</row>
+		<row row_number="38" isdata="1">שמעת מינה הולכה שלא ברגל הויא הולכה דילמא הוא נייד פורתא</row>
+		<row row_number="39" isdata="1">ואלא מאי קמ"ל הא קמשמע לן ברב עם הדרת מלך קבל את המלא</row>
+		<row row_number="40" isdata="1">ומחזיר את הריקן וכו' אבל איפכא לא מסייע ליה לר"ש בן לקיש דאמר ר"ש</row>
+		<row row_number="41" isdata="1">בן לקיש אין מעבירין על המצות כהן הקרוב אצל המזבח וכו' מאן תנא פסח</row>
+		<row row_number="42" isdata="1">בזריקה א"ר חסדא ר' יוסי הגלילי היא דתניא ר' יוסי הגלילי אומר את דמם</row>
+		<row row_number="43" isdata="1">תזרוק על המזבח ואת חלבם תקטיר דמו לא נאמר אלא דמם חלבו לא נאמר</row>
+		<row row_number="44" isdata="1">אלא חלבם למד על בכור ומעשר ופסח שהן טעונין מתן דמים ואימורין</row>
+		<row row_number="45" isdata="1">לגבי מזבח מנלן דטעונין יסוד אמר רבי אלעזר אתיא זריקה זריקה מעולה</row>
+		<row row_number="46" isdata="1">כתיב הכא את דמם תזרוק על המזבח וכתיב התם וזרקו בני אהרן הכהנים</row>
+		<row row_number="47" isdata="1">את דמו על המזבח סביב מה עולה טעונה יסוד אף פסח נמי טעון יסוד</row>
+</amud>
+</daf>
+</masechet>
+</root>

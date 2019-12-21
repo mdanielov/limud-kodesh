@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:12.221194</dateCreated>
+   <lastModified>2019-12-21 20:31:12.221194</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="76">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContGemara/>ובשטר אותיות מאן דכר שמייהו חסורי</row>
+		<row row_number="2" isdata="1">מחסרא והכי קתני ספינה נקנית במשיכה</row>
+		<row row_number="3" isdata="1">ואותיות במסירה רבי נתן אומר ספינה</row>
+		<row row_number="4" isdata="1">ואותיות נקנות במשיכה ובשטר שטר לספינה</row>
+		<row row_number="5" isdata="1">למה לי מטלטלי היא אלא לאו הכי קתני</row>
+		<row row_number="6" isdata="1">ספינה נקנית במשיכה ואותיות במסירה רבי</row>
+		<row row_number="7" isdata="1">נתן אומר ספינה במשיכה ואותיות בשטר</row>
+		<row row_number="8" isdata="1">ספינה במשיכה היינו תנא קמא אלא דרב</row>
+		<row row_number="9" isdata="1">ושמואל איכא בינייהו לא דכולי עלמא אי</row>
+		<row row_number="10" isdata="1">כרב אי כשמואל ובספינה כולי עלמא לא</row>
+		<row row_number="11" isdata="1">פליגי כי פליגי באותיות והכי קאמר ליה ר'</row>
+		<row row_number="12" isdata="1">נתן לתנא קמא בספינה ודאי מודינא לך</row>
+		<row row_number="13" isdata="1">באותיות אי איכא שטר אין אי לא לא</row>
+		<row row_number="14" isdata="1">ובפלוגתא דהני תנאי דתניא אותיות נקנות</row>
+		<row row_number="15" isdata="1">במסירה דברי רבי וחכמים אומרים בין</row>
+		<row row_number="16" isdata="1">כתב ולא מסר בין מסר ולא כתב לא קנה</row>
+		<row row_number="17" isdata="1">עד שיכתוב וימסור במאי אוקימתא כרבי</row>
+		<row row_number="18" isdata="1">ספינה נמי תיקני במסירה דתניא ספינה</row>
+		<row row_number="19" isdata="1">נקנית במסירה דברי רבי וחכ"א לא קנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:03.616473</dateCreated>
+   <lastModified>2019-12-21 20:30:03.616473</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="6">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בתולה נשאת"/><ContGemara/>או הלכה כר"ש (איתמר) בבי רב אמרי רב</row>
+		<row row_number="2" isdata="1">שרי ושמואל אסר בנהרדעא אמרי רב אסר</row>
+		<row row_number="3" isdata="1">ושמואל שרי אמר רב נחמן בר יצחק וסימניך</row>
+		<row row_number="4" isdata="1">אלו מקילין לעצמן ואלו מקילין לעצמן ורב</row>
+		<row row_number="5" isdata="1">שרי והאמר רב שימי בר חזקיה משמיה דרב</row>
+		<row row_number="6" isdata="1">האי מסוכריא דנזייתא אסור להדוקה ביומא</row>
+		<row row_number="7" isdata="1">טבא בההוא אפילו ר"ש מודה דאביי ורבא</row>
+		<row row_number="8" isdata="1">דאמרי תרוייהו מודה ר"ש בפסיק רישיה ולא</row>
+		<row row_number="9" isdata="1">ימות והא אמר רב חייא בר אשי אמר רב</row>
+		<row row_number="10" isdata="1">הלכה כרבי יהודה ורב חנן בר אמי אמר</row>
+		<row row_number="11" isdata="1">שמואל הלכה כרבי שמעון ורב חייא בר</row>
+		<row row_number="12" isdata="1">אבין מתני לה בלא גברי רב אמר הלכה כר'</row>
+		<row row_number="13" isdata="1">יהודה ושמואל אמר הלכה כרבי שמעון</row>
+		<row row_number="14" isdata="1">לעולם רב כרבי יהודה סבירא ליה להך</row>
+		<row row_number="15" isdata="1">לישנא דאמר דם מיפקד פקיד מקלקל הוא</row>
+		<row row_number="16" isdata="1">אצל הפתח להך לישנא דאמר דם חבורי</row>
+		<row row_number="17" isdata="1">מיחבר מקלקל בחבורה הוא מתיב רב חסדא</row>
+		<row row_number="18" isdata="1">תינוקת שלא הגיע זמנה לראות ונשאת</row>
+		<row row_number="19" isdata="1">ב"ש אומרים נותנין לה ארבעה לילות וב"ה</row>
+		<row row_number="20" isdata="1">אומרים עד שתחיה המכה הגיע זמנה לראות</row>
+		<row row_number="21" isdata="1">ונשאת בש"א נותנין לה לילה הראשון ובית</row>
+		<row row_number="22" isdata="1">הלל אומרים עד מוצאי שבת ארבעה לילות</row>
+</amud>
+</daf>
+</masechet>
+</root>

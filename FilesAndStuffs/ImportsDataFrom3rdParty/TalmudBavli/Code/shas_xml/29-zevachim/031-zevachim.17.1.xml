@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:51.590909</dateCreated>
+   <lastModified>2019-12-21 20:31:51.590909</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="17">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים שקבלו דמן"/><ContGemara/>אלא איכא למיפרך הכי ואיכא למיפרך הכי</row>
+		<row row_number="2" isdata="1">כל חדא וחדא תיקו בדוכתיה טבול יום</row>
+		<row row_number="3" isdata="1">מנלן דתניא רבי סימאי אומר רמז לטבול</row>
+		<row row_number="4" isdata="1">יום שאם עבד חילל מנין ת"ל קדושים יהיו</row>
+		<row row_number="5" isdata="1">ולא יחללו אם אינו ענין לטמא דנפיק</row>
+		<row row_number="6" isdata="1">מוינזרו תנהו ענין לטבול יום אימא תנהו</row>
+		<row row_number="7" isdata="1">ענין לקורח קרחה ולמשחית פאת זקן טבול</row>
+		<row row_number="8" isdata="1">יום דאם עבד במיתה מנא לן דגמר חילול</row>
+		<row row_number="9" isdata="1">חילול מתרומה דפסיל בתרומה מחיל</row>
+		<row row_number="10" isdata="1">עבודה דלא פסיל בתרומה לא מחיל עבודה</row>
+		<row row_number="11" isdata="1">אמר רבה למה לי דכתב רחמנא טמא</row>
+		<row row_number="12" isdata="1">וטבול יום ומחוסר כפורים צריכי דאי כתב</row>
+		<row row_number="13" isdata="1">רחמנא טמא שכן מטמא בטבול יום מחוסר</row>
+		<row row_number="14" isdata="1">כפורים לא אתי מיניה שכן פסול בתרומה</row>
+		<row row_number="15" isdata="1">במחוסר כפורים טבול יום לא אתי מיניה</row>
+		<row row_number="16" isdata="1">שכן מחוסר מעשה מחדא לא אתי תיתי חדא</row>
+		<row row_number="17" isdata="1">מתרתי בהי לא לכתוב רחמנא לא</row>
+		<row row_number="18" isdata="1">לכתוב במחוסר כפורים ותיתי מהנך מה</row>
+		<row row_number="19" isdata="1">להנך שכן פסולים בתרומה אלא לא</row>
+		<row row_number="20" isdata="1">לכתוב רחמנא בטבול יום ותיתי מהנך</row>
+		<row row_number="21" isdata="1">דמאי פרכת מה להנך שכן מחוסרים</row>
+		<row row_number="22" isdata="1">מעשה סוף סוף קלישא לה טומאתן</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:37.105416</dateCreated>
+   <lastModified>2019-12-21 20:29:37.105416</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="14">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ביצה"/><ContGemara/>רבא אמר לא קשיא הא לן והא להו רב</row>
+		<row row_number="2" isdata="1">פפי אקלע לבי מר שמואל אייתי ליה דייסא</row>
+		<row row_number="3" isdata="1">ולא אכל ודלמא במכתשת קטנה עבדוה</row>
+		<row row_number="4" isdata="1">דחזייה דהוה דייק טפי ודלמא מאתמול</row>
+		<row row_number="5" isdata="1">עבדוה דחזייה דהוה קליף צהריה ואי בעית</row>
+		<row row_number="6" isdata="1">אימא שאני בי מר שמואל דאיכא פריצותא</row>
+		<row row_number="7" isdata="1">דעבדימתני' הבורר קטניות ביום טוב</row>
+		<row row_number="8" isdata="1">בית שמאי אומרים בורר אוכל ואוכל ובית</row>
+		<row row_number="9" isdata="1">הלל אומרים בורר כדרכו בחיקו בקנון</row>
+		<row row_number="10" isdata="1">ובתמחוי אבל לא בטבלא ולא בנפה ולא</row>
+		<row row_number="11" isdata="1">בכברה רבן גמליאל אומר אף מדיח ושולה</row>
+		<row row_number="12" isdata="1"><EndMishna/><StartGemara/>גמ' תניא אמר רבן גמליאל בד"א</row>
+		<row row_number="13" isdata="1">כשהאוכל מרובה על הפסולת אבל פסולת</row>
+		<row row_number="14" isdata="1">מרובה על האוכל דברי הכל נוטל את האוכל</row>
+		<row row_number="15" isdata="1">ומניח את הפסולת פסולת מרובה על האוכל</row>
+		<row row_number="16" isdata="1">מי איכא מאן דשרי לא צריכא דנפיש</row>
+		<row row_number="17" isdata="1">בטרחא וזוטר בשיעורא רבן גמליאל אומר</row>
+		<row row_number="18" isdata="1">אף מדיח ושולה תניא אמר רבי אלעזר</row>
+		<row row_number="19" isdata="1">בר' צדוק כך היה מנהגן של בית ר"ג שהיו</row>
+		<row row_number="20" isdata="1">מביאין דלי מלא עדשים ומציפין עליו מים</row>
+		<row row_number="21" isdata="1">ונמצא אוכל למטה ופסולת למעלה והתניא</row>
+		<row row_number="22" isdata="1">איפכא לא קשיא הא בעפרא הא בגילי</row>
+		<row row_number="23" isdata="1"><EndGemara/><StartMishna/>מתני' בית שמאי אומרים אין משלחין</row>
+		<row row_number="24" isdata="1">ביום טוב אלא מנות וב"ה אומרים משלחין</row>
+		<row row_number="25" isdata="1">בהמה חיה ועוף בין חיין בין שחוטין משלחין</row>
+		<row row_number="26" isdata="1">יינות שמנים וסלתות וקטניות אבל לא תבואה</row>
+		<row row_number="27" isdata="1">ורבי שמעון מתיר בתבואה<EndMishna/><StartGemara/>גמ' תני רב</row>
+		<row row_number="28" isdata="1">יחיאל ובלבד שלא יעשנו בשורה תנא אין</row>
+		<row row_number="29" isdata="1">שורה פחותה משלשה בני אדם בעי רב אשי</row>
+		<row row_number="30" isdata="1">תלתא גברי ותלתא מיני מאי תיקו רבי</row>
+		<row row_number="31" isdata="1">שמעון מתיר בתבואה תניא רבי שמעון</row>
+		<row row_number="32" isdata="1">מתיר בתבואה כגון חטין לעשות מהן לודיות</row>
+		<row row_number="33" isdata="1">שעורים ליתן לפני בהמתו עדשים לעשות</row>
+		<row row_number="34" isdata="1">מהן רסיסיןמתני' משלחין כלים בין</row>
+		<row row_number="35" isdata="1">תפורין בין שאינן תפורין ואע"פ שיש בהן</row>
+		<row row_number="36" isdata="1">כלאים והן לצורך המועד אבל לא סנדל</row>
+		<row row_number="37" isdata="1">המסומר ולא מנעל שאינו תפור ר' יהודה</row>
+		<row row_number="38" isdata="1">אומר אף לא מנעל לבן מפני שצריך אומן</row>
+		<row row_number="39" isdata="1">זה הכלל כל שנאותין בו ביו"ט משלחין</row>
+		<row row_number="40" isdata="1">אותו<EndMishna/><StartGemara/>גמ' בשלמא תפורין חזו למלבוש</row>
+		<row row_number="41" isdata="1">שאין תפורין נמי חזו לכסויי אלא כלאים למאי חזו וכי תימא חזו למימך</row>
+		<row row_number="42" isdata="1">תותיה והתניא לא יעלה עליך אבל אתה יכול להציעו תחתיך אבל אמרו</row>
+		<row row_number="43" isdata="1">חכמים אסור לעשות כן שמא תכרך לו נימא על בשרו וכ"ת דמפסיק מידי ביני</row>
+		<row row_number="44" isdata="1">ביני והאמר ר' שמעון בן פזי א"ר יהושע בן לוי אמר ר' יוסי בן שאול אמר</row>
+		<row row_number="45" isdata="1">רבי משום קהלא קדישא דבירושלים אפי' עשר מצעות זו על גבי זו</row>
+		<row row_number="46" isdata="1">וכלאים תחתיהן אסור לישן עליהם (משום שנאמר לא יעלה עליך) אלא</row>
+		<row row_number="47" isdata="1">בוילון והאמר עולא מפני מה אמרו וילון טמא מפני שהשמש מתחמם כנגדו</row>
+</amud>
+</daf>
+</masechet>
+</root>

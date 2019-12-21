@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:23.396403</dateCreated>
+   <lastModified>2019-12-21 20:29:23.396403</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר להם הממונה"/><ContGemara/>נהדרה ונהדר ונקמצה ביממא הוא תני לה</row>
+		<row row_number="2" isdata="1">והוא אמר לה כלי שרת מקדשין אפילו שלא</row>
+		<row row_number="3" isdata="1">בזמנו מיתיבי זה הכלל כל הקרב ביום קדוש</row>
+		<row row_number="4" isdata="1">ביום וכל הקרב בלילה קדוש בלילה וכל</row>
+		<row row_number="5" isdata="1">הקרב בין ביום ובין בלילה קדוש בין ביום</row>
+		<row row_number="6" isdata="1">ובין בלילה קתני מיהת כל הקרב ביום קדוש</row>
+		<row row_number="7" isdata="1">ביום ביום אין בלילה לא דילמא אינו קדוש</row>
+		<row row_number="8" isdata="1">ליקרב אבל קדוש ליפסל מתיב רבי זירא</row>
+		<row row_number="9" isdata="1">סידר את הלחם ואת הבזיכין אחר השבת</row>
+		<row row_number="10" isdata="1">והקטיר את הבזיכין בשבת פסולה כיצד</row>
+		<row row_number="11" isdata="1">יעשה יניחנו לשבת הבאה שאפילו עמדה</row>
+		<row row_number="12" isdata="1">על השלחן ימים רבים אין בכך כלום ואמאי</row>
+		<row row_number="13" isdata="1">תקדוש ותיפסל אמר רבא מאן דקא מותיב</row>
+		<row row_number="14" isdata="1">שפיר קא מותיב ואבוה דר' אבין נמי מתניתא</row>
+		<row row_number="15" isdata="1">קאמר וקסבר לילה אין מחוסר זמן יום</row>
+		<row row_number="16" isdata="1">מחוסר זמן כי מטי בי שמשי תקדוש ותפסול</row>
+		<row row_number="17" isdata="1">אמר רבינא שקדם וסלקו מר זוטרא ואיתימא</row>
+		<row row_number="18" isdata="1">רב אשי אמר אפילו תימא בשלא קדם</row>
+		<row row_number="19" isdata="1">וסלקו כיון שסדרו שלא כמצותו נעשה</row>
+		<row row_number="20" isdata="1">כמו שסדרו הקוף זה הכלל היה במקדש</row>
+		<row row_number="21" isdata="1">בשלמא רגלים משום ניצוצות אלא ידים</row>
+		<row row_number="22" isdata="1">מאי טעמא אמר רבי אבא זאת אומרת</row>
+</amud>
+</daf>
+</masechet>
+</root>

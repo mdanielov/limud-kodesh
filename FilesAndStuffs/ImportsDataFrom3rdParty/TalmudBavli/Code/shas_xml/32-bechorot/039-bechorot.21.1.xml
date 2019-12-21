@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:29.285397</dateCreated>
+   <lastModified>2019-12-21 20:32:29.285397</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="21">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח בהמה"/><ContGemara/>לימא קסבר מטנפת אינה חוזרת ויולדת</row>
+		<row row_number="2" isdata="1">בתוך שנתה אם תימצי לומר מטנפת חוזרת</row>
+		<row row_number="3" isdata="1">ויולדת בתוך שנתה יולדת ודאי אינה חוזרת</row>
+		<row row_number="4" isdata="1">ויולדת בתוך שנתה אמר רבי שמעון אני</row>
+		<row row_number="5" isdata="1">ראיתי גדייה כו' מאי איכא בין תנא קמא לרבי</row>
+		<row row_number="6" isdata="1">שמעון איכא בינייהו דזעירי תנא קמא אית</row>
+		<row row_number="7" isdata="1">ליה דזעירי ור' שמעון לית ליה דזעירי ואיבעית</row>
+		<row row_number="8" isdata="1">אימא דכולי עלמא אית להו דזעירי והכא</row>
+		<row row_number="9" isdata="1">ביולדת למקוטעין קא מיפלגי לתנא קמא</row>
+		<row row_number="10" isdata="1">אינה יולדת למקוטעין לרבי שמעון יולדת</row>
+		<row row_number="11" isdata="1">ואיבעית אימא דכולי עלמא אינה יולדת</row>
+		<row row_number="12" isdata="1">למקוטעין והכא במקצת היום ככולו קמיפלגי</row>
+		<row row_number="13" isdata="1">לתנא קמא לא אמרינן מקצת היום ככולו</row>
+		<row row_number="14" isdata="1">לרבי שמעון אמרי' מקצת היום ככולו ואב"א</row>
+		<row row_number="15" isdata="1">דכ"ע אמרינן מקצת היום ככולו והכא</row>
+		<row row_number="16" isdata="1">במחוסר זמן נכנס לדיר להתעשר קמיפלגי</row>
+</amud>
+</daf>
+</masechet>
+</root>

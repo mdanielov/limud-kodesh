@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:25.577402</dateCreated>
+   <lastModified>2019-12-21 20:29:25.577402</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="51">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הוציאו לו"/><ContGemara/>ותיפוק לי דאשר לו אמר רחמנא משלו</row>
+		<row row_number="2" isdata="1">הוא מביא דתניא אשר לו משלו הוא מביא</row>
+		<row row_number="3" isdata="1">ולא משל ציבור יכול לא יביא משל ציבור</row>
+		<row row_number="4" isdata="1">שאין הציבור מתכפרין בו אבל יביא משל</row>
+		<row row_number="5" isdata="1">אחיו הכהנים שהרי אחיו הכהנים מתכפרים</row>
+		<row row_number="6" isdata="1">בו ת"ל אשר לו יכול לא יביא ואם הביא</row>
+		<row row_number="7" isdata="1">כשר ת"ל שוב אשר לו שנה הכתוב עליו</row>
+		<row row_number="8" isdata="1">לעכב וליטעמיך אחיו הכהנים אי לאו דקנו</row>
+		<row row_number="9" isdata="1">בגויה היכי מכפר להו אלא שאני בי גזא</row>
+		<row row_number="10" isdata="1">דאהרן דאפקריה רחמנא גבי אחיו הכהנים</row>
+		<row row_number="11" isdata="1">הכא [גבי תמורה] נמי שאני בי גזא דאהרן</row>
+		<row row_number="12" isdata="1">דאפקריה רחמנא גבי אחיו הכהנים</row>
+		<row row_number="13" isdata="1"><EndGemara/><StartMishna/>מתני' היה מהלך בהיכל עד שמגיע לבין</row>
+		<row row_number="14" isdata="1">שתי הפרוכת המבדילות בין הקדש ובין</row>
+		<row row_number="15" isdata="1">קדש הקדשים וביניהן אמה ר' יוסי אומר לא</row>
+		<row row_number="16" isdata="1">היתה שם אלא פרוכת אחת בלבד שנאמר</row>
+		<row row_number="17" isdata="1">והבדילה הפרוכת לכם בין הקדש ובין</row>
+		<row row_number="18" isdata="1">קדש הקדשים<EndMishna/><StartGemara/>גמ' שפיר קאמר להו רבי</row>
+		<row row_number="19" isdata="1">יוסי לרבנן ורבנן אמרי לך הני מילי במשכן</row>
+		<row row_number="20" isdata="1">אבל במקדש שני כיון דלא הואי אמה</row>
+		<row row_number="21" isdata="1">טרקסין ובמקדש ראשון הוא דהואי</row>
+		<row row_number="22" isdata="1">ואיסתפקא להו לרבנן בקדושתיה אי כלפנים</row>
+		<row row_number="23" isdata="1">אי כלחוץ ועבוד שתי פרוכת תנו רבנן בין</row>
+		<row row_number="24" isdata="1">המזבח למנורה היה מהלך דברי ר"י ר"מ</row>
+		<row row_number="25" isdata="1">אומר בין שלחן למזבח ויש אומרים בין</row>
+		<row row_number="26" isdata="1">שלחן לכותל מאן יש אומרים אמר רב</row>
+		<row row_number="27" isdata="1">חסדא רבי יוסי היא דאמר פיתחא בצפון</row>
+		<row row_number="28" isdata="1">קאי ורבי יהודה אמר לך פיתחא בדרום</row>
+		<row row_number="29" isdata="1">קאי ורבי מאיר כמאן סבירא ליה אי כרבי</row>
+		<row row_number="30" isdata="1">יהודה סבירא ליה ניעול כרבי יהודה אי כרבי</row>
+		<row row_number="31" isdata="1">יוסי סבירא ליה ניעול כר' יוסי לעולם כרבי</row>
+		<row row_number="32" isdata="1">יוסי סבירא ליה ואמר לך שולחנות צפון</row>
+		<row row_number="33" isdata="1">ודרום מונחין ומפסקא ליה שלחן ולא</row>
+		<row row_number="34" isdata="1">מתעייל ליה ואיבעית אימא לעולם מזרח</row>
+		<row row_number="35" isdata="1">ומערב מונחין ומשום שכינה לאו אורח ארעא</row>
+</amud>
+</daf>
+</masechet>
+</root>

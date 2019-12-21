@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:44.229236</dateCreated>
+   <lastModified>2019-12-21 20:28:44.229236</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="66">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה אשה"/><ContMishna/>ורבי יוסי אוסר ואם יש לו בית קיבול</row>
+		<row row_number="2" isdata="1">כתיתין טמא סמוכות שלו טמאין מדרס</row>
+		<row row_number="3" isdata="1">ויוצאין בהן בשבת ונכנסין בהן בעזרה כסא</row>
+		<row row_number="4" isdata="1">וסמוכות שלו טמאין מדרס ואין יוצאין בהן</row>
+		<row row_number="5" isdata="1">בשבת ואין נכנסין בהן בעזרה לוקטמין</row>
+		<row row_number="6" isdata="1">טהורין ואין יוצאין בהן<EndMishna/><StartGemara/>גמ' אמר ליה רבא</row>
+		<row row_number="7" isdata="1">לרב נחמן היכי תנן אמר ליה לא ידענא</row>
+		<row row_number="8" isdata="1">הילכתא מאי אמר ליה לא ידענא איתמר</row>
+		<row row_number="9" isdata="1">אמר שמואל אין הקיטע וכן אמר רב הונא</row>
+		<row row_number="10" isdata="1">אין הקיטע אמר רב יוסף הואיל ואמר</row>
+		<row row_number="11" isdata="1">שמואל אין הקיטע ואמר רב הונא אין הקיטע</row>
+		<row row_number="12" isdata="1">אנן נמי ניתני אין הקיטע מתקיף לה רבא בר</row>
+		<row row_number="13" isdata="1">שירא לא שמיע להו הא דמתני ליה רב חנן בר</row>
+		<row row_number="14" isdata="1">רבא לחייא בר רב קמיה דרב בקיטונא דבי</row>
+		<row row_number="15" isdata="1">רב אין הקיטע יוצא בקב שלו דברי ר' מאיר</row>
+		<row row_number="16" isdata="1">ור' יוסי מתיר ומחוי ליה רב איפוך אמר רב</row>
+		<row row_number="17" isdata="1">נחמן בר יצחק וסימנא סמך סמך ואף שמואל</row>
+		<row row_number="18" isdata="1">הדר ביה דתנן חלצה בסנדל שאינו שלו</row>
+		<row row_number="19" isdata="1">בסנדל של עץ או של שמאל בימין חליצה</row>
+		<row row_number="20" isdata="1">כשרה ואמרינן מאן תנא אמר שמואל ר"מ היא</row>
+		<row row_number="21" isdata="1">דתנן הקיטע יוצא בקב שלו דברי ר"מ ר' יוסי</row>
+		<row row_number="22" isdata="1">אוסר ואף רב הונא הדר ביה דתניא סנדל</row>
+		<row row_number="23" isdata="1">של סיידין טמא מדרס ואשה חולצת בו ויוצאין</row>
+		<row row_number="24" isdata="1">בו בשבת דברי ר"ע ולא הודו לו והתניא</row>
+		<row row_number="25" isdata="1">הודו לו אמר רב הונא מאן הודו לו ר' מאיר</row>
+		<row row_number="26" isdata="1">ומאן לא הודו לו ר' יוסי ( אמר רב יוסף)</row>
+		<row row_number="27" isdata="1">מאן לא הודו לו ר' יוחנן בן נורי דתנן</row>
+		<row row_number="28" isdata="1">כוורת של קש ושפופרת של קנים ר"ע</row>
+		<row row_number="29" isdata="1">מטמא ור' יוחנן בן נורי מטהר אמר מר</row>
+		<row row_number="30" isdata="1">סנדל של סיידין טמא מדרס הא לאו</row>
+		<row row_number="31" isdata="1">להילוכא עבדי אמר רב אחא בר רב עולא</row>
+		<row row_number="32" isdata="1">שכן הסייד מטייל בו עד שמגיע לביתו</row>
+		<row row_number="33" isdata="1">ואם יש לו בית קיבול כתיתין טמא אמר</row>
+		<row row_number="34" isdata="1">אביי טמא טומאת מת ואין טמא מדרס רבא</row>
+		<row row_number="35" isdata="1">אמר אף טמא מדרס אמר רבא מנא אמינא</row>
+		<row row_number="36" isdata="1">לה דתנן עגלה של קטן טמאה מדרס</row>
+		<row row_number="37" isdata="1">ואביי אמר התם סמיך עילויה הכא לא סמיך</row>
+		<row row_number="38" isdata="1">עילויה אמר אביי מנא אמינא לה דתניא</row>
+		<row row_number="39" isdata="1">מקל של זקנים טהור מכלום ורבא התם</row>
+</amud>
+</daf>
+</masechet>
+</root>

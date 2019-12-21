@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:04.966415</dateCreated>
+   <lastModified>2019-12-21 20:29:04.966415</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אור לארבעה עשר"/><ContGemara/>בכל טמא לא יאכל מי לא עסקינן דנגע</row>
+		<row row_number="2" isdata="1">בשני רביעי מקל וחומר כדאמרינן ואי</row>
+		<row row_number="3" isdata="1">ס"ד סבר כר"ע ניתני נמי רביעי בתרומה</row>
+		<row row_number="4" isdata="1">וחמישי בקודש אלא ר"ע לא סבר כר'</row>
+		<row row_number="5" isdata="1">יוסי מנלן א"ל דלא לישתמיט תנא וליתני</row>
+		<row row_number="6" isdata="1">רביעי בתרומה וחמישי בקודש ונימא ר"ע</row>
+		<row row_number="7" isdata="1">היא ואנן אהכי ניקום ונסמוך נפק רב אשי</row>
+		<row row_number="8" isdata="1">ואי תימא רב כהנא דק ואשכח הא דתנן</row>
+		<row row_number="9" isdata="1">הכלי מצרף את מה שבתוכו לקודש</row>
+		<row row_number="10" isdata="1">אבל לא לתרומה והרביעי בקודש פסול</row>
+		<row row_number="11" isdata="1">והשלישי בתרומה ואמר רבי חייא בר</row>
+		<row row_number="12" isdata="1">אבא א"ר יוחנן מעדותו של ר"ע נשנית</row>
+		<row row_number="13" isdata="1">משנה זו (דתניא) הוסיף ר"ע הסולת</row>
+		<row row_number="14" isdata="1">והקטורת והלבונה והגחלים שאם נגע טבול</row>
+		<row row_number="15" isdata="1">יום במקצתן פסל את כולן רביעי אין חמישי</row>
+		<row row_number="16" isdata="1">לא שלישי אין רביעי לא אלמא קסבר</row>
+		<row row_number="17" isdata="1">צירוף דרבנן ופליגא דרבי חנין דאמר</row>
+		<row row_number="18" isdata="1">צירוף דאורייתא שנאמר כף אחת עשרה</row>
+		<row row_number="19" isdata="1">זהב מלאה קטרת הכתוב עשה כל מה</row>
+		<row row_number="20" isdata="1">שבכף אחת תנן התם על מחט שנמצאת</row>
+		<row row_number="21" isdata="1">בבשר שהסכין והידים טהורות והבשר</row>
+		<row row_number="22" isdata="1">טמא נמצאת בפרש הכל טהור אמר רבי</row>
+		<row row_number="23" isdata="1">עקיבא זכינו שאין טומאת ידים במקדש</row>
+</amud>
+</daf>
+</masechet>
+</root>

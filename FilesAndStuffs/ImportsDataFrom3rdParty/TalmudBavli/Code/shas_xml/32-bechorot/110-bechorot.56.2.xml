@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:32.597225</dateCreated>
+   <lastModified>2019-12-21 20:32:32.597225</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="56">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מעשר בהמה"/><ContGemara/>ותיעשרה איהי בזונית כותית ולוקמה בזונה</row>
+		<row row_number="2" isdata="1">ישראלית ותיעשרה איהי קמ"ל דזונה</row>
+		<row row_number="3" isdata="1">ישראלית לא הוי אתנן כדאביי דאמר אביי</row>
+		<row row_number="4" isdata="1">זונה כותית אתננה אסור וכהן הבא עליה</row>
+		<row row_number="5" isdata="1">אינו לוקה משום לא יחלל זרעו זונה ישראלית</row>
+		<row row_number="6" isdata="1">אתננה מותר וכהן הבא עליה לוקה משום</row>
+		<row row_number="7" isdata="1">לא יחלל זרעו זונה כותית אתננה אסור גמר</row>
+		<row row_number="8" isdata="1">תועבה תועבה מעריות מה עריות דלא</row>
+		<row row_number="9" isdata="1">תפסי בהו קדושי אף זונה בהך דלא תפסי</row>
+		<row row_number="10" isdata="1">בה קדושי וכהן הבא עליה אינו לוקה משום</row>
+		<row row_number="11" isdata="1">לא יחלל זרעו דלא יחלל זרעו אמר רחמנא</row>
+		<row row_number="12" isdata="1">והאי לאו זרעיה הואמתני' האחין</row>
+		<row row_number="13" isdata="1">והשותפין שחייבין בקלבון פטורין</row>
+		<row row_number="14" isdata="1">ממעשר בהמה חייבין במעשר בהמה</row>
+		<row row_number="15" isdata="1">פטורין מן הקלבון קנו מתפיסת הבית חייבין</row>
+		<row row_number="16" isdata="1">ואם לאו פטורין חלקו חזרו ונשתתפו</row>
+		<row row_number="17" isdata="1">חייבין בקלבון ופטורין ממעשר בהמה</row>
+		<row row_number="18" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר יהיה לך ולא של שותפות יכול</row>
+		<row row_number="19" isdata="1">אפילו קנו בתפיסת הבית ת"ל יהיה והאי</row>
+		<row row_number="20" isdata="1">בבכור כתיב אם אינו ענין לבכור דהא</row>
+		<row row_number="21" isdata="1">איתיה בשותפות דכתיב ובכורות בקרכם</row>
+		<row row_number="22" isdata="1">וצאנכם תנהו ענין למעשר בהמה א"ר ירמיה</row>
+		<row row_number="23" isdata="1">פעמים שחייבין בזה ובזה ופעמים שפטורין</row>
+		<row row_number="24" isdata="1">מזה ומזה פעמים שחייבין בקלבון ופטורין</row>
+		<row row_number="25" isdata="1">ממעשר בהמה ופעמים שחייבין במעשר</row>
+		<row row_number="26" isdata="1">בהמה ופטורין מן הקלבון חייבין בזה ובזה</row>
+		<row row_number="27" isdata="1">שחלקו בכספים ולא חלקו בבהמה פטורין</row>
+		<row row_number="28" isdata="1">מזה ומזה שחלקו בבהמה ולא חלקו בכספים</row>
+		<row row_number="29" isdata="1">חייבין בקלבון ופטורין ממעשר בהמה</row>
+		<row row_number="30" isdata="1">שחלקו בזה ובזה חייבין במעשר בהמה</row>
+		<row row_number="31" isdata="1">ופטורין מן הקלבון שלא חלקו בזה ובזה</row>
+		<row row_number="32" isdata="1">פשיטא חלקו בבהמה ולא חלקו בכספים</row>
+		<row row_number="33" isdata="1">איצטריכא ליה סד"א כיון דחלקו בבהמה גלו</row>
+		<row row_number="34" isdata="1">דעתייהו דלמיפלג קיימי וליחייבו בקלבון</row>
+		<row row_number="35" isdata="1">קמ"ל א"ר ענן לא שנו אלא שחלקו גדיים</row>
+		<row row_number="36" isdata="1">כנגד תיישים ותיישים כנגד גדיים אבל חלקו</row>
+		<row row_number="37" isdata="1">גדיים כנגד גדיים ותיישים כנגד תיישים אומר</row>
+		<row row_number="38" isdata="1">זה חלקו המגיעו משעה ראשונה לכך ורב</row>
+		<row row_number="39" isdata="1">נחמן אמר אפילו חלקו גדיים כנגד גדיים</row>
+		<row row_number="40" isdata="1">ותיישים כנגד תיישים אין אומרים זה הוא</row>
+		<row row_number="41" isdata="1">חלקו המגיעו משעה ראשונה לכך ורבי</row>
+		<row row_number="42" isdata="1">אלעזר אמר ל"ש אלא שחלקו ט' כנגד י'</row>
+		<row row_number="43" isdata="1">וי' כנגד ט' אבל חלקו ט' כנגד ט' וי'</row>
+		<row row_number="44" isdata="1">כנגד י' אומר זה חלקו המגיעו משעה</row>
+		<row row_number="45" isdata="1">ראשונה לכך ורבי יוחנן אמר אפילו</row>
+		<row row_number="46" isdata="1">חלקו ט' כנגד ט' ועשרה כנגד עשרה אין</row>
+		<row row_number="47" isdata="1">אומר זה חלקו המגיעו משעה ראשונה לכך</row>
+</amud>
+</daf>
+</masechet>
+</root>

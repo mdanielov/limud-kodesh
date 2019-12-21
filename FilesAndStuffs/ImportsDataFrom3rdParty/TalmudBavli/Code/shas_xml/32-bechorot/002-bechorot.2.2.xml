@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:27.829819</dateCreated>
+   <lastModified>2019-12-21 20:32:27.829819</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="2">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר חמורו"/><ContGemara/>מאי לאו אעובר לא אבהמה והא דמיו קתני</row>
+		<row row_number="2" isdata="1">תני דמיה והא נותן כל דמיו לכהן קתני ואי</row>
+		<row row_number="3" isdata="1">בהמה כהן מאי עבידתיה הכא במאי עסקינן</row>
+		<row row_number="4" isdata="1">כגון דיהיב ליה בהמה מעברתא לפטומה</row>
+		<row row_number="5" isdata="1">דמיגו דקנסינן ליה אבהמה קנסינן ליה</row>
+		<row row_number="6" isdata="1">אעובר אמר רב אשי ת"ש רבי יהודה מתיר</row>
+		<row row_number="7" isdata="1">בשבורה מפני שאינה יכולה להתרפאות הא</row>
+		<row row_number="8" isdata="1">יכולה להתרפאות אסר והא עובר נמי כיכול</row>
+		<row row_number="9" isdata="1">להתרפאות דמי שמע מינה ואיכא דמתני</row>
+		<row row_number="10" isdata="1">לה אמתני' והמוכר לו אע"פ שאינו רשאי</row>
+		<row row_number="11" isdata="1">לימא מתני' דלא כרבי יהודה דתנן רבי</row>
+		<row row_number="12" isdata="1">יהודה מתיר בשבורה אפילו תימא רבי</row>
+		<row row_number="13" isdata="1">יהודה שבורה לאו היינו אורחיה עובר היינו</row>
+		<row row_number="14" isdata="1">אורחיה ת"ש רבי יהודה אומר המקבל</row>
+		<row row_number="15" isdata="1">בהמה מן העובד כוכבים וילדה מעלין אותו</row>
+		<row row_number="16" isdata="1">בשויו ונותן חצי דמיו לכהן והנותן לו</row>
+		<row row_number="17" isdata="1">בקבלה אע"פ שאינו רשאי קונסין אותו עד</row>
+		<row row_number="18" isdata="1">עשרה בדמיו ונותן כל דמיו לכהן מאי לאו</row>
+		<row row_number="19" isdata="1">אעובר לא אבהמה והא דמיו קתני תני דמיה</row>
+		<row row_number="20" isdata="1">והא נותן כל דמיו לכהן קתני ואי בהמה כהן</row>
+		<row row_number="21" isdata="1">מאי עבידתיה הכא במאי עסקינן כגון דיהיב</row>
+		<row row_number="22" isdata="1">בהמה מעברתא לפטומה דמיגו דקנסינן ליה</row>
+		<row row_number="23" isdata="1">אבהמה קנסינן ליה אעובר אמר רב אשי ת"ש</row>
+		<row row_number="24" isdata="1">ר' יהודה מתיר בשבורה מפני שאינה יכולה</row>
+		<row row_number="25" isdata="1">להתרפאות הא יכולה להתרפאות אסור והאי</row>
+		<row row_number="26" isdata="1">נמי כיכול להתרפאות דמי שמע מינה</row>
+		<row row_number="27" isdata="1">איבעיא להו מכר בהמה לעובריה מאי תיבעי</row>
+		<row row_number="28" isdata="1">לר' יהודה תיבעי לרבנן תיבעי לרבי יהודה</row>
+		<row row_number="29" isdata="1">עד כאן לא קא שרי ר' יהודה אלא בשבורה</row>
+		<row row_number="30" isdata="1">דלא אתיא לאיחלופי אבל שלמה דאתיא</row>
+		<row row_number="31" isdata="1">לאיחלופי אסר או דלמא ומה שבורה דפסקה</row>
+		<row row_number="32" isdata="1">מיניה וכל שכן שלמה דלא פסקה מיניה</row>
+		<row row_number="33" isdata="1">תיבעי לרבנן עד כאן לא קאסרי רבנן אלא</row>
+		<row row_number="34" isdata="1">בשבורה דפסקה מיניה אבל שלמה דלא</row>
+		<row row_number="35" isdata="1">פסקה מיניה שרו או דלמא ומה שבורה</row>
+		<row row_number="36" isdata="1">דלא אתיא לאיחלופי אסרי וכל שכן שלמה</row>
+		<row row_number="37" isdata="1">דאתיא לאיחלופי וטעמא דרבנן משום הכי</row>
+		<row row_number="38" isdata="1">הוא והתניא אמרו לו לרבי יהודה והלא</row>
+		<row row_number="39" isdata="1">מרביעין עליה ויולדת אלמא משום עובריה</row>
+		<row row_number="40" isdata="1">הוא הכי קא"ל טעמא דידן משום דאתיא</row>
+		<row row_number="41" isdata="1">לאיחלופי בבהמה אלא את מ"ט שרית משום</row>
+		<row row_number="42" isdata="1">דאין יכולה להתרפאות כמאן דזבנה לשחיטה</row>
+		<row row_number="43" isdata="1">דמי והלא מרביעין עליה ויולדת וכיון</row>
+		<row row_number="44" isdata="1">דמרביעין עליה ויולדת משהא לה ואמר להו</row>
+		<row row_number="45" isdata="1">לכשתלד דלא מקבלת זכר תא שמע והנותן</row>
+		<row row_number="46" isdata="1">לו בקבלה ולא קתני אע"פ שאינו רשאי וליטעמיך המשתתף לו דלא קתני</row>
+		<row row_number="47" isdata="1">הכי נמי דרשאי והא אמר אבוה דשמואל אסור לאדם שיעשה שותפות</row>
+		<row row_number="48" isdata="1">עם העובד כוכבים שמא יתחייב לו שבועה ונשבע לו בשם עבודת</row>
+		<row row_number="49" isdata="1">כוכבים שלו והתורה אמרה לא ישמע על פיך אלא תנא מכירה והוא</row>
+		<row row_number="50" isdata="1">הדין לשותפות ה"נ תנא מכירה והוא הדין לקבלנות ומאי שנא מכירה</row>
+		<row row_number="51" isdata="1">דנקט דעיקר מכירה היא תא שמע רבי יהודה אומר המקבל בהמה מן</row>
+		<row row_number="52" isdata="1">העובד כוכבים וילדה מעלין אותו בשוויו ונותן חצי דמיו לכהן והנותן בקבלה</row>
+		<row row_number="53" isdata="1">אע"פ שאינו רשאי קונסין אותו עד עשרה בדמיו ונותן כל דמיו לכהן</row>
+		<row row_number="54" isdata="1">וחכמים אומרים כל זמן שיד עובד כוכבים באמצע פטורה מן הבכורה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:58.241198</dateCreated>
+   <lastModified>2019-12-21 20:30:58.241198</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="39">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המפקיד"/><ContGemara/>ואפילו הגדיל ולא אמרן אלא באחי דאבא</row>
+		<row row_number="2" isdata="1">אבל באחי דאמא לית לן בה ואחי דאבא</row>
+		<row row_number="3" isdata="1">נמי לא אמרן אלא בארעתא אבל בבתי</row>
+		<row row_number="4" isdata="1">לית לן בה ובארעתא נמי לא אמרן אלא</row>
+		<row row_number="5" isdata="1">דלא עביד עיטדא אבל עביד עיטדא קלא</row>
+		<row row_number="6" isdata="1">אית לה ולא היא לא שנא אחי דאבא ולא</row>
+		<row row_number="7" isdata="1">שנא אחי דאמא לא שנא ארעתא ולא שנא</row>
+		<row row_number="8" isdata="1">בתי ולא שנא עביד עיטדא לא שנא לא</row>
+		<row row_number="9" isdata="1">עביד עיטדא לא מחתינן ההיא סבתא</row>
+		<row row_number="10" isdata="1">דהויא לה תלת בנתא אישתבאי איהי וחדא</row>
+		<row row_number="11" isdata="1">ברתא אידך תרתי בנתא שכיבא חדא מינייהו</row>
+		<row row_number="12" isdata="1">ושבקה ינוקא אמר אביי היכי נעביד</row>
+		<row row_number="13" isdata="1">לוקמינהו לנכסי בידא דאחתא דלמא</row>
+		<row row_number="14" isdata="1">שכיבא סבתא ואין מורידין קרוב לנכסי</row>
+		<row row_number="15" isdata="1">קטן נוקמינהו לנכסיה בידא דינוקא דלמא</row>
+		<row row_number="16" isdata="1">לא שכיבא סבתא ואין מורידין קטן לנכסי</row>
+		<row row_number="17" isdata="1">שבוי אמר אביי הלכך פלגא יהבינא לה</row>
+		<row row_number="18" isdata="1">לאחתא ואידך פלגא מוקמינן ליה אפוטרופא</row>
+		<row row_number="19" isdata="1">לינוקא רבא אמר מגו דמוקמינן אפוטרופא</row>
+		<row row_number="20" isdata="1">לפלגא מוקמינן ליה אפוטרופא לאידך פלגא</row>
+		<row row_number="21" isdata="1">לסוף שמעו דשכיבא סבתא אמר אביי</row>
+		<row row_number="22" isdata="1">תילתא יהבינן לה לאחתא ותילתא יהבינן</row>
+		<row row_number="23" isdata="1">ליה לינוקא ואידך תילתא יהבינן דנקא</row>
+		<row row_number="24" isdata="1">לאחתא ואידך דנקא מוקמינן ליה אפוטרופא</row>
+		<row row_number="25" isdata="1">לינוקא רבא אמר מגו דמוקים אפוטרופא</row>
+		<row row_number="26" isdata="1">לדנקא מוקמינן נמי אפוטרופא לאידך דנקא</row>
+		<row row_number="27" isdata="1">מרי בר איסק אתא ליה אחא מבי חוזאי</row>
+		<row row_number="28" isdata="1">א"ל פלוג לי אמר ליה לא ידענא לך אתא</row>
+		<row row_number="29" isdata="1">לקמיה דרב חסדא א"ל שפיר קאמר לך</row>
+		<row row_number="30" isdata="1">שנאמר ויכר יוסף את אחיו והם לא</row>
+		<row row_number="31" isdata="1">הכירוהו מלמד שיצא בלא חתימת זקן ובא</row>
+		<row row_number="32" isdata="1">בחתימת זקן א"ל זיל אייתי סהדי דאחוה את</row>
+		<row row_number="33" isdata="1">אמר ליה אית לי סהדי ודחלי מיניה דגברא</row>
+		<row row_number="34" isdata="1">אלימא הוא א"ל לדידיה זיל אנת אייתי סהדי</row>
+		<row row_number="35" isdata="1">דלאו אחוך הוא א"ל דינא הכי המוציא</row>
+		<row row_number="36" isdata="1">מחבירו עליו הראיה א"ל הכי דיינינא לך</row>
+		<row row_number="37" isdata="1">ולכל אלימי דחברך אמר ליה סוף סוף</row>
+		<row row_number="38" isdata="1">אתו סהדי ולא מסהדי א"ל תרתי לא עבדי</row>
+		<row row_number="39" isdata="1">לסוף אתו סהדי דאחוה הוא א"ל לפלוג לי</row>
+		<row row_number="40" isdata="1">נמי מפרדיסי ובוסתני דשתל אמר ליה שפיר</row>
+		<row row_number="41" isdata="1">קאמר לך דתנן הניח בנים גדולים וקטנים</row>
+		<row row_number="42" isdata="1">והשביחו גדולים את הנכסים השביחו לאמצע</row>
+</amud>
+</daf>
+</masechet>
+</root>

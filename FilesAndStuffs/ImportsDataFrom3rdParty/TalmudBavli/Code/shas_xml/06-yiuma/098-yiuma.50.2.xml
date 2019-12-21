@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:25.468403</dateCreated>
+   <lastModified>2019-12-21 20:29:25.468403</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="50">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הוציאו לו"/><ContGemara/>לדברי האומר פר יום הכפורים קרבן יחיד</row>
+		<row row_number="2" isdata="1">עושה תמורה או אינו עושה תמורה לאו</row>
+		<row row_number="3" isdata="1">מכלל דאיכא למאן דאמר דצבור לא מכלל</row>
+		<row row_number="4" isdata="1">דאיכא למאן דאמר דשותפין גופא בעי רבי</row>
+		<row row_number="5" isdata="1">(אליעזר) לדברי האומר פר יוה"כ קרבן יחיד</row>
+		<row row_number="6" isdata="1">עושה תמורה או אינו עושה תמורה מאי קא</row>
+		<row row_number="7" isdata="1">מיבעיא ליה אי בתר מקדיש אזלינן אי בתר</row>
+		<row row_number="8" isdata="1">מתכפר אזלינן פשיטא דבתר מתכפר אזלינן</row>
+		<row row_number="9" isdata="1">דא"ר אבהו א"ר יוחנן המקדיש מוסיף חומש</row>
+		<row row_number="10" isdata="1">והמתכפר עושה בה תמורה והתורם</row>
+		<row row_number="11" isdata="1">משלו על של חבירו טובת הנאה שלו לעולם</row>
+		<row row_number="12" isdata="1">פשיטא ליה דבתר מתכפר אזלינן והכי קא</row>
+		<row row_number="13" isdata="1">מיבעיא ליה אחיו הכהנים בקביעותא מתכפרי</row>
+		<row row_number="14" isdata="1">או דילמא בקופיא מתכפרי ת"ש חומר בזבח</row>
+		<row row_number="15" isdata="1">מבתמורה וחומר בתמורה מבזבח חומר</row>
+		<row row_number="16" isdata="1">בזבח שהזבח נוהג ביחיד כבצבור ודוחה</row>
+		<row row_number="17" isdata="1">את השבת ואת הטומאה ועושה תמורה</row>
+		<row row_number="18" isdata="1">מה שאין כן בתמורה חומר בתמורה מבזבח</row>
+		<row row_number="19" isdata="1">שהתמורה חלה על בעל מום קבוע</row>
+		<row row_number="20" isdata="1">ואינה יוצאה לחולין ליגזז וליעבד משא"כ</row>
+		<row row_number="21" isdata="1">בזבח האי זבח היכי דמי אילימא דיחיד מי</row>
+		<row row_number="22" isdata="1">דחי שבת וטומאה אלא דצבור מי עושה</row>
+		<row row_number="23" isdata="1">תמורה אלא לאו דפר ודוחה את השבת</row>
+		<row row_number="24" isdata="1">ואת הטומאה דקביע ליה זמן ועושה תמורה</row>
+		<row row_number="25" isdata="1">דקרבן יחיד הוא אמר רב ששת לא באילו</row>
+		<row row_number="26" isdata="1">של אהרן הכי נמי מסתברא דאי סלקא</row>
+		<row row_number="27" isdata="1">דעתך דפרו תמורה דפר שבת וטומאה</row>
+		<row row_number="28" isdata="1">הוא דלא דחיא הא בחול מקריב קרבה</row>
+		<row row_number="29" isdata="1">הא תמורת חטאת היא ותמורת חטאת</row>
+		<row row_number="30" isdata="1">למיתה אזלא לא לעולם פרו ומאי תמורה</row>
+		<row row_number="31" isdata="1">שם תמורה אי הכי זבח נמי שם זבח שם</row>
+		<row row_number="32" isdata="1">זבח לא קתני ממאי מדקתני חומר בתמורה</row>
+		<row row_number="33" isdata="1">שהתמורה חלה על בעל מום קבוע</row>
+		<row row_number="34" isdata="1">ואינה יוצאה לחולין ליגזז וליעבד ואי</row>
+		<row row_number="35" isdata="1">סלקא דעתך מאי זבח שם זבח והא איכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:15.167404</dateCreated>
+   <lastModified>2019-12-21 20:29:15.167404</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="97">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שהיה טמא "/><ContGemara/>יכול אף לפני הפסח כן תלמוד לומר הוא</row>
+		<row row_number="2" isdata="1">הוא קרב ואין תמורת הפסח קריבה היכי</row>
+		<row row_number="3" isdata="1">דמי אילימא שנמצא קודם שחיטה והמיר</row>
+		<row row_number="4" isdata="1">בו קודם שחיטה פשיטא למה לי קרא אלא</row>
+		<row row_number="5" isdata="1">לאו שנמצא קודם שחיטה והמיר בו אחר</row>
+		<row row_number="6" isdata="1">שחיטה תיובתא דרבא תיובתא אמר שמואל</row>
+		<row row_number="7" isdata="1">כל שבחטאת מתה בפסח קרב שלמים וכל</row>
+		<row row_number="8" isdata="1">שבחטאת רועה בפסח נמי רועה ורבי יוחנן</row>
+		<row row_number="9" isdata="1">אמר אין הפסח קרב שלמים אלא שנמצא</row>
+		<row row_number="10" isdata="1">אחר שחיטה אבל קודם שחיטה לא מתקיף</row>
+		<row row_number="11" isdata="1">לה רב יוסף וכללא הוא והרי חטאת שעברה</row>
+		<row row_number="12" isdata="1">שנתה דלרעיה אזלא דא"ר שמעון בן לקיש</row>
+		<row row_number="13" isdata="1">חטאת שעברה שנתה רואין אותה כאילו</row>
+		<row row_number="14" isdata="1">היא עומדת בבית הקברות ורועה ואילו</row>
+		<row row_number="15" isdata="1">בפסח כי האי גוונא קרב שלמים דתניא</row>
+		<row row_number="16" isdata="1">כשב לרבות את הפסח לאליה כשהוא אומר</row>
+		<row row_number="17" isdata="1">אם כשב לרבות את הפסח שעברה שנתו</row>
+		<row row_number="18" isdata="1">ושלמים הבאין מחמת פסח לכל מצות</row>
+		<row row_number="19" isdata="1">שלמים שטעונים סמיכה ונסכים ותנופת חזה</row>
+		<row row_number="20" isdata="1">ושוק כשהוא אומר אם עז הפסיק הענין</row>
+		<row row_number="21" isdata="1">לימד על העז שאין טעון אליה א"ל כי קאמר</row>
+		<row row_number="22" isdata="1">שמואל באבודין בדחויין לא אמר ואבוד</row>
+		<row row_number="23" isdata="1">מי משכחת לה והרי אבודה בשעת הפרשה</row>
+		<row row_number="24" isdata="1">לרבנן דלרעיה אזלא דתנן הפריש חטאתו</row>
+		<row row_number="25" isdata="1">ואבדה והפריש אחרת תחתיה ונמצאת</row>
+		<row row_number="26" isdata="1">הראשונה והרי שתיהן עומדות אחת מהן</row>
+		<row row_number="27" isdata="1">תקרב ושניה תמות דברי רבי וחכמים</row>
+		<row row_number="28" isdata="1">אומרים אין חטאת מתה אלא שנמצאת</row>
+		<row row_number="29" isdata="1">לאחר שנתכפרו בעלים הא קודם שנתכפרו</row>
+		<row row_number="30" isdata="1">בעלים רועה ואילו בפסח היכא דאבד ונמצא</row>
+		<row row_number="31" isdata="1">אחר חצות קודם שחיטה קרב שלמים שמואל</row>
+		<row row_number="32" isdata="1">כר' סבירא ליה דאמר אבודה למיתה אזלא</row>
+		<row row_number="33" isdata="1">והא כל אבודה לרבי מתה ואילו בפסח</row>
+		<row row_number="34" isdata="1">היכא דאבד קודם חצות ונמצא קודם חצות</row>
+		<row row_number="35" isdata="1">רועה קודם חצות לאו אבוד הוא כדרבא</row>
+		<row row_number="36" isdata="1">דאמר רבא אבידת לילה לאו שמה</row>
+		<row row_number="37" isdata="1">אבידה אלא רועה לרבי היכי משכחת לה</row>
+</amud>
+</daf>
+</masechet>
+</root>

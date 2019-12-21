@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:25.884922</dateCreated>
+   <lastModified>2019-12-21 20:32:25.884922</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="120">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>וליכתוב רחמנא בשרצים וליתו הנך</row>
+		<row row_number="2" isdata="1">וליגמרו מינייהו משום דאיכא למיפרך מה</row>
+		<row row_number="3" isdata="1">לשרצים שכן טומאתן במשהו והא דתניא</row>
+		<row row_number="4" isdata="1">הטבל והחדש וההקדש והשביעית והכלאים</row>
+		<row row_number="5" isdata="1">כולן משקין היוצאין מהן כמותן מנלן וכי</row>
+		<row row_number="6" isdata="1">תימא ליגמר מהנך מה להנך שכן איסור</row>
+		<row row_number="7" isdata="1">הבא מאליו הוו תינח היכא דאיסור בא מאליו</row>
+		<row row_number="8" isdata="1">היכא דלאו איסור הבא מאליו מנלן גמרינן</row>
+		<row row_number="9" isdata="1">מבכורים ובכורים גופייהו מנלן דתני ר'</row>
+		<row row_number="10" isdata="1">יוסי פרי פרי אתה מביא ואי אתה מביא</row>
+		<row row_number="11" isdata="1">משקה הביא ענבים ודרכן מנין תלמוד</row>
+		<row row_number="12" isdata="1">לומר תביא איכא למיפרך מה לבכורים</row>
+		<row row_number="13" isdata="1">שכן טעונין קרייה והנחה אלא גמר מתרומה</row>
+		<row row_number="14" isdata="1">ותרומה גופה מנלן דאיתקש לבכורים</row>
+		<row row_number="15" isdata="1">דאמר מר ותרומת ידך אלו בכורים מה</row>
+		<row row_number="16" isdata="1">לתרומה שכן חייבין עליה מיתה וחומש</row>
+		<row row_number="17" isdata="1">אלא גמר מתרוייהו מתרומה ובכורים מה</row>
+		<row row_number="18" isdata="1">לתרומה ובכורים שכן חייבין עליהם מיתה</row>
+		<row row_number="19" isdata="1">וחומש אלא אתיא מתרומה וחד מהנך או</row>
+		<row row_number="20" isdata="1">מבכורים וחד מהנך והא דתנן דבש</row>
+		<row row_number="21" isdata="1">תמרים ויין תפוחים וחומץ סיתווניות ושאר</row>
+		<row row_number="22" isdata="1">מיני פירות של תרומה רבי אליעזר מחייב</row>
+		<row row_number="23" isdata="1">קרן וחומש ור' יהושע פוטר במאי פליגי</row>
+		<row row_number="24" isdata="1">בדון מינה ומינה ובדון מינה ואוקי באתרה</row>
+		<row row_number="25" isdata="1">קמיפלגי דר' אליעזר סבר דון מינה ומינה</row>
+		<row row_number="26" isdata="1">מה בכורים משקין היוצא מהן כמותן אף</row>
+		<row row_number="27" isdata="1">תרומה נמי משקין היוצא מהן כמותן ומינה</row>
+		<row row_number="28" isdata="1">מה בכורים אפי' שאר מינין אף תרומה</row>
+		<row row_number="29" isdata="1">נמי אפילו שאר מינין ורבי יהושע סבר דון</row>
+		<row row_number="30" isdata="1">מינה מה בכורים משקין היוצאין מהן כמותן</row>
+		<row row_number="31" isdata="1">אף תרומה משקין היוצאין מהן כמותן ואוקי</row>
+		<row row_number="32" isdata="1">באתרה מה משקין דקדשים בתרומה תירוש</row>
+		<row row_number="33" isdata="1">ויצהר אין מידי אחרינא לא אף משקין היוצאין</row>
+		<row row_number="34" isdata="1">מהן כמותן תירוש ויצהר אין מידי אחרינא</row>
+		<row row_number="35" isdata="1">לא והא דתנן אין מביאין בכורים משקה</row>
+		<row row_number="36" isdata="1">אלא היוצא מן הזיתים ומן הענבים מני רבי</row>
+		<row row_number="37" isdata="1">יהושע היא דאמר דון מינה ואוקי באתרה</row>
+		<row row_number="38" isdata="1">וגמר להו לבכורים מתרומה והא דתנן</row>
+		<row row_number="39" isdata="1">אין סופגין את הארבעים משום ערלה</row>
+		<row row_number="40" isdata="1">אלא על היוצא מן הזיתים ומן הענבים מני</row>
+		<row row_number="41" isdata="1">רבי יהושע היא דאמר דון מינה ואוקי</row>
+		<row row_number="42" isdata="1">באתרה וגמר להו לבכורים מתרומה</row>
+</amud>
+</daf>
+</masechet>
+</root>

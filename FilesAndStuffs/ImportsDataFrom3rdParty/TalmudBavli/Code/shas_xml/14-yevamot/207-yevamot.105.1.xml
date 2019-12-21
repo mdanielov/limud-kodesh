@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:01.487483</dateCreated>
+   <lastModified>2019-12-21 20:30:01.487483</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="105">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מצות חליצה"/><ContGemara/>רקקה ולא קראה חליצתה כשירה רקקה</row>
+		<row row_number="2" isdata="1">ולא חלצה ולא קראה חליצתה פסולה</row>
+		<row row_number="3" isdata="1">קראה ולא רקקה ולא חלצה אין כאן בית</row>
+		<row row_number="4" isdata="1">מיחוש מני אילימא רבי אליעזר חלצה ולא</row>
+		<row row_number="5" isdata="1">רקקה ולא קראה חליצתה כשירה והא אמר</row>
+		<row row_number="6" isdata="1">רבי אליעזר ככה יעשה דבר שהוא</row>
+		<row row_number="7" isdata="1">מעשה מעכב אלא פשיטא רבי עקיבא וקתני</row>
+		<row row_number="8" isdata="1">רקקה ולא חלצה ולא קראה חליצתה פסולה</row>
+		<row row_number="9" isdata="1">למאן אילימא לעלמא פשיטא מי הויא חליצה</row>
+		<row row_number="10" isdata="1">דאישתריא לעלמא אלא לאו לאחין שמע</row>
+		<row row_number="11" isdata="1">מינה ולר"ע מאי שנא רקיקה ומאי שנא</row>
+		<row row_number="12" isdata="1">קרייה קרייה דאיתא בין בתחלה בין בסוף</row>
+		<row row_number="13" isdata="1">לא מיחלפא ליה רקיקה דבתחלה ליתא</row>
+		<row row_number="14" isdata="1">ולבסוף איתא מיחלפא ליה ואתו למישרי</row>
+		<row row_number="15" isdata="1">חלוצה לאחין ואיכא דאמרי הכי שלחו ליה</row>
+		<row row_number="16" isdata="1">יבמה שרקקה תחלוץ ואינה צריכה לרוק</row>
+		<row row_number="17" isdata="1">פעם אחרת כי ההיא דאתיא לקמיה דרבי</row>
+		<row row_number="18" isdata="1">אמי הוה יתיב רבי אבא בר ממל קמיה רקקה</row>
+		<row row_number="19" isdata="1">מקמי דתחלוץ אמר ליה רבי אמי חלוץ לה</row>
+		<row row_number="20" isdata="1">ושרי לה תיגרא אמר ליה ר' אבא והא בעינן</row>
+		<row row_number="21" isdata="1">מירק הא רקקה לה ותירוק ומה בכך נפיק</row>
+		<row row_number="22" isdata="1">מיניה חורבא דאי אמרת תיהדר ותירוק</row>
+		<row row_number="23" isdata="1">אמרי רקיקה קמייתא לית בה מששא ואתי</row>
+		<row row_number="24" isdata="1">למישרי חלוצה לאחין והא בעינן כסדרן</row>
+		<row row_number="25" isdata="1">כסדרן לא מעכבא הוא סבר דחויי קא מדחי</row>
+		<row row_number="26" isdata="1">ליה נפק דק ואשכח דתניא בין שהקדים</row>
+		<row row_number="27" isdata="1">חליצה לרקיקה בין שהקדים רקיקה לחליצה</row>
+		<row row_number="28" isdata="1">מה שעשה עשוי לוי נפק לקרייתא בעו</row>
+		<row row_number="29" isdata="1">מיניה גידמת מהו שתחלוץ יבמה שרקקה</row>
+		<row row_number="30" isdata="1">דם מהו אבל אגיד לך את הרשום בכתב</row>
+		<row row_number="31" isdata="1">אמת מכלל דאיכא כתב שאינו אמת לא</row>
+		<row row_number="32" isdata="1">הוה בידיה אתא שאיל בי מדרשא אמרו</row>
+		<row row_number="33" isdata="1">ליה מי כתיב וחלצה ביד ומי כתיב וירקה</row>
+		<row row_number="34" isdata="1">רוק אבל אגיד לך הרשום בכתב אמת וכי</row>
+		<row row_number="35" isdata="1">יש כתב שאינו אמת לא קשיא כאן בגזר</row>
+		<row row_number="36" isdata="1">דין שיש עמו שבועה כאן בגזר דין שאין</row>
+		<row row_number="37" isdata="1">עמו שבועה כדרב שמואל בר אמי דאמר</row>
+		<row row_number="38" isdata="1">רב שמואל בר אמי אמר רבי יונתן מנין לגזר דין שיש עמו שבועה שאינו</row>
+		<row row_number="39" isdata="1">מתקרע שנא' לכן נשבעתי לבית עלי אם יתכפר עון בית עלי בזבח ובמנחה</row>
+		<row row_number="40" isdata="1">עד עולם אמר רבה בזבח ובמנחה אינו מתכפר אבל מתכפר הוא בדברי תורה אביי אמר בזבח ובמנחה</row>
+		<row row_number="41" isdata="1">אינו מתכפר אבל מתכפר בגמילות חסדים רבה ואביי מדבית עלי קאתו רבה דעסק בתורה</row>
+		<row row_number="42" isdata="1">חיה ארבעין שנין אביי דעסק בתורה ובגמילות חסדים חיה שיתין שנין ת"ר משפחה אחת היתה בירושלים</row>
+		<row row_number="43" isdata="1">שהיו מתים כבן שמנה עשרה שנה באו והודיעו את רבן יוחנן בן זכאי אמר להם שמא ממשפחת עלי אתם</row>
+		<row row_number="44" isdata="1">שנא' וכל מרבית ביתך ימותו אנשים לכו ועסקו בתורה ותחיו הלכו ועסקו בתורה וחיו והיו קורין אותן משפחת</row>
+		<row row_number="45" isdata="1">יוחנן על שמו אמר רב שמואל בר אוניא אמר רב מנין לגזר דין של צבור שאינו נחתם אינו נחתם והא כתיב כי</row>
+		<row row_number="46" isdata="1">אם תכבסי בנתר ותרבי לך בורית נכתם עונך לפני אלא מנין שאפי' נחתם מתקרע שנאמר מי כה' אלהינו</row>
+		<row row_number="47" isdata="1">בכל קראנו אליו והכתיב דרשו ה' בהמצאו לא קשיא הא ביחיד הא בציבור יחיד אימת אמר רב נחמן</row>
+		<row row_number="48" isdata="1">אמר רבה בר אבוה אלו עשרה ימים שבין ר"ה ליוה"כ שלחו ליה לאבוה דשמואל יבמה שרקקה דם תחלוץ</row>
+		<row row_number="49" isdata="1">לפי שאי אפשר לדם בלא צחצוח רוק מיתיבי יכול יהא דם היוצא מפיו ומפי האמה טמא ת"ל זובו טמא</row>
+		<row row_number="50" isdata="1">ואין דם היוצא מפיו ומפי האמה טמא אלא טהור ל"ק כאן במוצצת כאן בשותת חרש שנחלץ וכו'</row>
+</amud>
+</daf>
+</masechet>
+</root>

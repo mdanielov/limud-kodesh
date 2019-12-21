@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:39.509423</dateCreated>
+   <lastModified>2019-12-21 20:30:39.509423</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="36">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>והקריבו זו קבלת הדם והזאות הזאה</row>
+		<row row_number="2" isdata="1">דהיכא אי דפרה אלעזר כתוב בה אי דפנים</row>
+		<row row_number="3" isdata="1">הכהן המשיח כתוב בה אלא הזאה דבן</row>
+		<row row_number="4" isdata="1">עוף דאתיא בק"ו מבן צאן ומה בן צאן שלא</row>
+		<row row_number="5" isdata="1">קבע לו כהן לשחיטתו קבע לו כהן להזאתו</row>
+		<row row_number="6" isdata="1">בן עוף שקבע לו כהן למליקתו אינו דין</row>
+		<row row_number="7" isdata="1">שיקבע לו להזאתו חוץ ממנחת סוטה ונזירה</row>
+		<row row_number="8" isdata="1">א"ל רבי אליעזר לרבי יאשיה דדריה לא</row>
+		<row row_number="9" isdata="1">תיתיב אכרעך עד דאמרת לי להא שמעתתא</row>
+		<row row_number="10" isdata="1">מנין למנחת סוטה שטעונה תנופה מנלן</row>
+		<row row_number="11" isdata="1">בגופה כתיב והניף את המנחה אלא תנופה</row>
+		<row row_number="12" isdata="1">בבעלים מנלן אתיא יד יד משלמים כתיב</row>
+		<row row_number="13" isdata="1">הכא ולקח הכהן מיד האשה וכתיב התם</row>
+		<row row_number="14" isdata="1">ידיו תביאנה מה כאן כהן אף להלן כהן מה</row>
+		<row row_number="15" isdata="1">להלן בעלים אף כאן בעלים הא כיצד כהן</row>
+		<row row_number="16" isdata="1">מכניס ידו תחת יד בעלים ומניף אשכחן</row>
+		<row row_number="17" isdata="1">סוטה נזירה מנלן אתיא כף כף מסוטה</row>
+		<row row_number="18" isdata="1"><EndGemara/><StartMishna/>מתני' כל מצוה שהיא תלויה בארץ</row>
+		<row row_number="19" isdata="1">אינה נוהגת אלא בארץ ושאינה תלויה</row>
+		<row row_number="20" isdata="1">בארץ נוהגת בין בארץ בין בחוצה לארץ</row>
+</amud>
+</daf>
+</masechet>
+</root>

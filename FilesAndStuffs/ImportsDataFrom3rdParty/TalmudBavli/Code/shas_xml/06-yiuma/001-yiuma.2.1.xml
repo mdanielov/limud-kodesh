@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:20.630405</dateCreated>
+   <lastModified>2019-12-21 20:29:20.630405</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "שבעת ימים"/><StartMishna/><ContChapter name = "שבעת ימים"/><ContMishna/>שבעת</row>
+		<row row_number="2" isdata="1">ימים קודם יום הכפורים מפרישין כהן גדול</row>
+		<row row_number="3" isdata="1">מביתו ללשכת פרהדרין ומתקינין לו כהן</row>
+		<row row_number="4" isdata="1">אחר תחתיו שמא יארע בו פסול ר' יהודה</row>
+		<row row_number="5" isdata="1">אומר אף אשה אחרת מתקינין לו שמא תמות</row>
+		<row row_number="6" isdata="1">אשתו שנאמר וכפר בעדו ובעד ביתו ביתו</row>
+		<row row_number="7" isdata="1">זו אשתו אמרו לו אם כן אין לדבר סוף</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' תנן התם שבעת ימים קודם שריפת</row>
+		<row row_number="9" isdata="1">הפרה היו מפרישין כהן השורף את הפרה</row>
+		<row row_number="10" isdata="1">מביתו ללשכה שעל פני הבירה צפונה</row>
+		<row row_number="11" isdata="1">מזרחה ולשכת בית האבן היתה נקראת</row>
+		<row row_number="12" isdata="1">ולמה נקרא שמה לשכת בית האבן שכל</row>
+		<row row_number="13" isdata="1">מעשיה בכלי גללים בכלי אבנים ובכלי</row>
+		<row row_number="14" isdata="1">אדמה מאי טעמא כיון דטבול יום כשר בפרה</row>
+		<row row_number="15" isdata="1">דתנן מטמאין היו הכהן השורף את הפרה</row>
+		<row row_number="16" isdata="1">ומטבילין אותו להוציא מלבן של צדוקין</row>
+		<row row_number="17" isdata="1">שהיו אומרים במעורבי השמש היתה נעשית</row>
+		<row row_number="18" isdata="1">תקינו לה רבנן כלי גללים כלי אבנים וכלי</row>
+		<row row_number="19" isdata="1">אדמה דלא ליקבלו טומאה כי היכי דלא</row>
+		<row row_number="20" isdata="1">ליזלזלו בה מאי שנא צפונה מזרחה כיון</row>
+		<row row_number="21" isdata="1">דחטאת היא וחטאת טעונה צפונה וכתיב</row>
+		<row row_number="22" isdata="1">בה אל נכח פני אהל מועד תקינו לה</row>
+		<row row_number="23" isdata="1">רבנן לשכה צפונה מזרחה כי היכי דלהוי</row>
+		<row row_number="24" isdata="1">לה היכירא מאי בירה אמר רבה בר בר</row>
+		<row row_number="25" isdata="1">חנה א"ר יוחנן מקום היה בהר הבית ובירה</row>
+		<row row_number="26" isdata="1">שמו ור"ל אמר כל המקדש כולו קרוי בירה</row>
+		<row row_number="27" isdata="1">שנאמר הבירה אשר הכינותי מנא הני מילי</row>
+		<row row_number="28" isdata="1">א"ר מניומי בר חלקיה א"ר מחסיא בר אידי</row>
+		<row row_number="29" isdata="1">א"ר יוחנן אמר קרא כאשר עשה ביום הזה</row>
+		<row row_number="30" isdata="1">צוה ה' לעשות לכפר עליכם לעשות אלו</row>
+		<row row_number="31" isdata="1">מעשי פרה לכפר אלו מעשי יום הכפורים</row>
+		<row row_number="32" isdata="1">בשלמא כוליה קרא בפרה לא מתוקם לכפר</row>
+		<row row_number="33" isdata="1">כתיב ופרה לאו בת כפרה היא אלא אימא</row>
+		<row row_number="34" isdata="1">כוליה קרא ביום הכפורים כתיב אמרי</row>
+		<row row_number="35" isdata="1">יליף צוה צוה כתיב הכא צוה ה' לעשות</row>
+		<row row_number="36" isdata="1">וכתיב התם זאת חקת התורה אשר</row>
+		<row row_number="37" isdata="1">צוה ה' לאמר מה להלן פרה אף כאן</row>
+		<row row_number="38" isdata="1">פרה ומה כאן פרישה אף להלן פרישה</row>
+</amud>
+</daf>
+</masechet>
+</root>

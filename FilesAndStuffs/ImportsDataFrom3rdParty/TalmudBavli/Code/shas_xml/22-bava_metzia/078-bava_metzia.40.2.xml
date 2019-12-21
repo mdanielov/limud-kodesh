@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:58.325238</dateCreated>
+   <lastModified>2019-12-21 20:30:58.325238</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="40">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המפקיד"/><ContGemara/>דל תלתין ושיתא בשיתא פשו ליה תריסר</row>
+		<row row_number="2" isdata="1">דל תמניא שתותי פשו להו ארבעה והאמר</row>
+		<row row_number="3" isdata="1">שמואל המשתכר אל ישתכר יותר על</row>
+		<row row_number="4" isdata="1">שתות איכא גולפי ושמריא אי הכי נפיש</row>
+		<row row_number="5" isdata="1">ליה טפי משתות איכא טרחיה ודמי ברזנייתא</row>
+		<row row_number="6" isdata="1">אם היה שמן מזוקק אינו יוציא לו שמרים</row>
+		<row row_number="7" isdata="1">[וכו'] והא אי אפשר דלא בלע אמר רב</row>
+		<row row_number="8" isdata="1">נחמן במזופפין שנו אביי אמר אפילו תימא</row>
+		<row row_number="9" isdata="1">שלא במזופפין כיון דטעון טעון ר"י אומר</row>
+		<row row_number="10" isdata="1">אף המוכר שמן מזוקק לחבירו כל ימות</row>
+		<row row_number="11" isdata="1">השנה הרי זה מקבל עליו לוג ומחצה</row>
+		<row row_number="12" isdata="1">שמרים למאה אמר אביי כשתמצא לומר</row>
+		<row row_number="13" isdata="1">לדברי ר"י מותר לערב שמרים לדברי חכמים</row>
+		<row row_number="14" isdata="1">אסור לערב שמרים לדברי רבי יהודה</row>
+		<row row_number="15" isdata="1">מותר לערב שמרים והיינו טעמא דמקבל</row>
+		<row row_number="16" isdata="1">דאמר ליה אי בעי לערובי לך מי לא ערבי</row>
+		<row row_number="17" isdata="1">לך השתא נמי קביל ולימא ליה אי ערבת</row>
+		<row row_number="18" isdata="1">ליה הוה מזדבן לי השתא מאי אעביד ליה</row>
+		<row row_number="19" isdata="1">לחודיה לא מזדבן לי בבעל הבית עסקינן</row>
+		<row row_number="20" isdata="1">דניחא ליה בצילא ולימא ליה מדלא ערבית</row>
+		<row row_number="21" isdata="1">לי אחולי אחלת לי רבי יהודה לטעמיה</row>
+		<row row_number="22" isdata="1">דלית ליה מחילה דתנן מכר לו את הצמד</row>
+		<row row_number="23" isdata="1">לא מכר לו את הבקר מכר לו את הבקר</row>
+		<row row_number="24" isdata="1">לא מכר לו את הצמד ר"י אומר הדמים</row>
+		<row row_number="25" isdata="1">מודיעין כיצד אמר לו מכור לי צמדך</row>
+		<row row_number="26" isdata="1">במאתים זוז הדבר ידוע שאין הצמד במאתים</row>
+		<row row_number="27" isdata="1">זוז וחכ"א אין הדמים ראיה לדברי חכמים</row>
+		<row row_number="28" isdata="1">אסור לערב שמרים והיינו טעמא דלא מקבל</row>
+		<row row_number="29" isdata="1">דא"ל אי בעית לערובי מי הוה שרי לך</row>
+		<row row_number="30" isdata="1">השתא נמי לא מקבילנא א"ל רב פפא</row>
+		<row row_number="31" isdata="1">לאביי אדרבה איפכא מסתברא לדברי</row>
+		<row row_number="32" isdata="1">חכמים מותר לערב שמרים והיינו טעמא</row>
+		<row row_number="33" isdata="1">דלא מקבל דא"ל מדלא ערבת לי אחולי</row>
+		<row row_number="34" isdata="1">אחלית לי לדברי רבי יהודה אסור לערב</row>
+		<row row_number="35" isdata="1">שמרים והיינו טעמא דמקבל דאמר ליה אי</row>
+		<row row_number="36" isdata="1">בעי לערובי לא שרי לי לערובי לך קבולי</row>
+		<row row_number="37" isdata="1">לא מקבלת זבון וזבין תגרא איקרי תנא</row>
+		<row row_number="38" isdata="1">אחד הלוקח ואחד המפקיד לפקטים מאי</row>
+		<row row_number="39" isdata="1">לפקטים אילימא כי היכי דלוקח לא מקבל</row>
+		<row row_number="40" isdata="1">פקטים מפקיד נמי לא מקבל פקטים ולימא</row>
+		<row row_number="41" isdata="1">ליה פקטך מאי איעביד להו אלא כי היכי</row>
+		<row row_number="42" isdata="1">דמפקיד מקבל פקטים לוקח נמי מקבל</row>
+		<row row_number="43" isdata="1">פקטים ומי מקבל לוקח פקטים והתניא ר"י</row>
+		<row row_number="44" isdata="1">אומר לא אמרו שמן עכור אלא למוכר</row>
+		<row row_number="45" isdata="1">בלבד שהרי לוקח מקבל עליו לוג ומחצה</row>
+		<row row_number="46" isdata="1">שמרים בלא פקטים לא קשיא הא דיהיב ליה זוזי בתשרי וקא שקיל</row>
+		<row row_number="47" isdata="1">מיניה בניסן כי מדה דתשרי הא דיהיב ליה זוזי בניסן וקא שקיל מיניה</row>
+		<row row_number="48" isdata="1">בניסן כי מדה דניסןמתני' המפקיד חבית אצל חבירו ולא יחדו לה</row>
+		<row row_number="49" isdata="1">בעלים מקום וטלטלה ונשתברה אם מתוך ידו נשברה לצורכו חייב</row>
+		<row row_number="50" isdata="1">לצורכה פטור אם משהניחה נשברה בין לצורכו בין לצורכה פטור יחדו</row>
+		<row row_number="51" isdata="1">לה הבעלים מקום וטלטלה ונשברה בין מתוך ידו ובין משהניחה</row>
+		<row row_number="52" isdata="1">לצורכו חייב לצורכה פטור<EndMishna/><StartGemara/>גמ' הא מני רבי ישמעאל היא דאמר</row>
+		<row row_number="53" isdata="1">לא בעינן דעת בעלים דתניא הגונב טלה מן העדר וסלע מן</row>
+		<row row_number="54" isdata="1">הכיס למקום שגנב יחזיר דברי רבי ישמעאל רבי עקיבא אומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

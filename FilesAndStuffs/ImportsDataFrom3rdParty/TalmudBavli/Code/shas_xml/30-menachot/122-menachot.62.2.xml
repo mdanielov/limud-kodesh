@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:06.926956</dateCreated>
+   <lastModified>2019-12-21 20:32:06.926956</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="62">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל המנחות"/><ContGemara/>רב פפא אמר דכולי עלמא דון מינה ומינה</row>
+		<row row_number="2" isdata="1">הוא והיינו טעמא דרבי כי התם מה התם</row>
+		<row row_number="3" isdata="1">דבר שמתנה לכהן אף הכא דבר שמתנה</row>
+		<row row_number="4" isdata="1">לכהן רבינא אמר דכ"ע דון מינה ואוקי</row>
+		<row row_number="5" isdata="1">באתרה והיינו טעמא דרבנן שלמיהם ריבויא</row>
+		<row row_number="6" isdata="1">הוא  רבי שמעון אומר שלשה מינין טעונין</row>
+		<row row_number="7" isdata="1">שלש מצות שתים בכל אחד ושלישית אין</row>
+		<row row_number="8" isdata="1">בהן ואלו הן זבחי שלמי יחיד וזבחי שלמי</row>
+		<row row_number="9" isdata="1">צבור ואשם מצורע זבחי שלמי יחיד טעונין</row>
+		<row row_number="10" isdata="1">סמיכה חיים ותנופה שחוטין ואין בהן תנופה</row>
+		<row row_number="11" isdata="1">חיים זבחי שלמי צבור טעונין תנופה חיים</row>
+		<row row_number="12" isdata="1">ושחוטין ואין בהן סמיכה אשם מצורע טעון</row>
+		<row row_number="13" isdata="1">סמיכה ותנופה חי ואין בו תנופה שחוט ויהיו</row>
+		<row row_number="14" isdata="1">זבחי שלמי יחיד טעונין תנופה חיים מקל</row>
+		<row row_number="15" isdata="1">וחומר ומה זבחי שלמי צבור שאין טעונין</row>
+		<row row_number="16" isdata="1">סמיכה חיים טעונין תנופה חיים זבחי שלמי</row>
+		<row row_number="17" isdata="1">יחיד שטעונין סמיכה חיים אינו דין שטעונין</row>
+		<row row_number="18" isdata="1">תנופה חיים מיעט רחמנא גבי זבחי שלמי</row>
+		<row row_number="19" isdata="1">צבור אותם אותם למעוטי זבחי שלמי יחיד</row>
+		<row row_number="20" isdata="1">ויהיו זבחי שלמי צבור טעונין סמיכה מקל</row>
+		<row row_number="21" isdata="1">וחומר ומה זבחי שלמי יחיד שאין טעונין</row>
+		<row row_number="22" isdata="1">תנופה חיים טעונין סמיכה זבחי שלמי צבור</row>
+		<row row_number="23" isdata="1">שטעונין תנופה חיים אינו דין שטעונין סמיכה</row>
+		<row row_number="24" isdata="1">אמר רבינא גמירי שתי סמיכות בצבור</row>
+		<row row_number="25" isdata="1">ויהא אשם מצורע טעון תנופה שחוט</row>
+		<row row_number="26" isdata="1">מקל וחומר מה זבחי שלמי יחיד שאין טעונין תנופה חיים טעונין תנופה</row>
+		<row row_number="27" isdata="1">שחוטין אשם מצורע שטעון תנופה חי אינו דין שטעון תנופה שחוט</row>
+		<row row_number="28" isdata="1">מיעט רחמנא גבי זבחי שלמי יחיד אותו אותו למעוטי אשם מצורע</row>
+		<row row_number="29" isdata="1">ת"ר חמשה שהביאו קרבן אחד אחד מניף על ידי כולם והאשה כהן</row>
+		<row row_number="30" isdata="1">מניף על ידה וכן השולח קרבנותיו ממדינת הים כהן מניף על ידו</row>
+</amud>
+</daf>
+</masechet>
+</root>

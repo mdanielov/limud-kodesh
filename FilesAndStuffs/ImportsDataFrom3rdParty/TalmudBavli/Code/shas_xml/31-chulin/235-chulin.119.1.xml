@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:25.731922</dateCreated>
+   <lastModified>2019-12-21 20:32:25.731922</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="119">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>ורב האי במאי אוקים לה אי ביד קשיא רישא</row>
+		<row row_number="2" isdata="1">אי בשומר קשיא סיפא איבעית אימא בשומר</row>
+		<row row_number="3" isdata="1">איבעית אימא ביד איבעית אימא ביד והוא</row>
+		<row row_number="4" isdata="1">דאמר (כרבי יהודה) בן נקוסא ואיבעית</row>
+		<row row_number="5" isdata="1">אימא בשומר והוא דאמר כתנא קמא ור'</row>
+		<row row_number="6" isdata="1">יוחנן אמר כולה ביד והוא דאמר כת"ק ת"ש</row>
+		<row row_number="7" isdata="1">רבי יהודה אומר קולית שיש עליה כזית</row>
+		<row row_number="8" isdata="1">בשר גוררת כולה לטומאה אחרים אומרים</row>
+		<row row_number="9" isdata="1">אפילו אין עליה אלא כפול גוררת כולה</row>
+		<row row_number="10" isdata="1">לטומאה ורב האי במאי מוקים לה אי ביד</row>
+		<row row_number="11" isdata="1">קשיא סיפא אי בשומר קשיא רישא איבעית</row>
+		<row row_number="12" isdata="1">אימא ביד והוא דאמר כרבי יהודה ואיבעית</row>
+		<row row_number="13" isdata="1">אימא בשומר כאחרים ורבי יוחנן אמר כולה</row>
+		<row row_number="14" isdata="1">בשומר והוא דאמר כאחרים אחרים הא כפול</row>
+		<row row_number="15" isdata="1">קא אמרי איידי דקאמר תנא קמא שיעורא</row>
+		<row row_number="16" isdata="1">קאמרי אינהו נמי שיעורא אמר רבא דיקא</row>
+		<row row_number="17" isdata="1">נמי דבשומר עסקינן דקתני קולית שמע מינה</row>
+		<row row_number="18" isdata="1">איתמר רבי חנינא אמר זהו שיעור ור' יוחנן</row>
+		<row row_number="19" isdata="1">אמר אין זה שיעור אין זה שיעור והא קתני</row>
+		<row row_number="20" isdata="1">כפול איידי דקאמר ת"ק שיעורא קאמרי אינהו</row>
+		<row row_number="21" isdata="1">נמי שיעורא ת"ש רבי אלעזר בן עזריה</row>
+		<row row_number="22" isdata="1">מטהר בשל פול ומטמא בשל קטנית מפני</row>
+		<row row_number="23" isdata="1">שרוצה במשמישן כדאמר רב אחא בריה</row>
+		<row row_number="24" isdata="1">דרבא בקולחא ומשום יד הכא נמי בקולחא</row>
+		<row row_number="25" isdata="1">ומשום יד ומאי במשמישן בתשמישן ת"ש</row>
+		<row row_number="26" isdata="1">דתנא דבי רבי ישמעאל על כל זרע</row>
+		<row row_number="27" isdata="1">זרוע (אשר יזרע) כדרך שבני אדם מוציאין</row>
+		<row row_number="28" isdata="1">חטה בקליפתה ושעורה בקליפתה ועדשים</row>
+		<row row_number="29" isdata="1">בקליפתן בריה שאני בעי רב אושעיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:26.193923</dateCreated>
+   <lastModified>2019-12-21 20:32:26.193923</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="123">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>עולת העוף לרבי אלעזר בר' שמעון ליגזר</row>
+		<row row_number="2" isdata="1">דילמא לא אתי למעבד רוב שנים א"ל רב</row>
+		<row row_number="3" isdata="1">יוסף דקא אמרת גזירה שמא יאמרו טבילה</row>
+		<row row_number="4" isdata="1">בת יומא עולה קרעה מוכיח עליה ודקא</row>
+		<row row_number="5" isdata="1">אמרת עולת העוף לר' אלעזר בר' שמעון</row>
+		<row row_number="6" isdata="1">ליגזר כהנים זריזים הן תא שמע המפשיט</row>
+		<row row_number="7" isdata="1">בבהמה ובחיה בטמאה ובטהורה בדקה</row>
+		<row row_number="8" isdata="1">ובגסה לשטיח כדי אחיזה הא יתר מכדי</row>
+		<row row_number="9" isdata="1">אחיזה טהור אמאי ליגזר דילמא לא אתי</row>
+		<row row_number="10" isdata="1">למעבד אלא כדי אחיזה וקא נגע בטומאה</row>
+		<row row_number="11" isdata="1">וקא מטהרינן ליה אי בטומאה דאורייתא</row>
+		<row row_number="12" isdata="1">הכי נמי הכא במאי עסקינן בטומאה דרבנן</row>
+		<row row_number="13" isdata="1">תינח טמא בטהורה טהור בטמאה טומאה</row>
+		<row row_number="14" isdata="1">דאורייתא היא בטרפה טרפה בת טמויי</row>
+		<row row_number="15" isdata="1">היא אין כדאבוה דשמואל דאמר אבוה</row>
+		<row row_number="16" isdata="1">דשמואל טרפה ששחטה מטמאה במוקדשין</row>
+		<row row_number="17" isdata="1">ת"ש רבי דוסתאי בן יהודה משום ר"ש</row>
+		<row row_number="18" isdata="1">אומר המפשיט בשרצים חבור עד שיפשיט</row>
+		<row row_number="19" isdata="1">את כולו הא בגמל אינו חבור לא תימא הא</row>
+		<row row_number="20" isdata="1">בגמל אינו חבור אלא אימא בעור שעל</row>
+		<row row_number="21" isdata="1">הצואר אינו חבור ור' יוחנן בן נורי היא</row>
+		<row row_number="22" isdata="1">אמר רב הונא משום ר"ש בר' יוסי לא</row>
+		<row row_number="23" isdata="1">שנו אלא שלא שייר בה כדי מעפורת אבל</row>
+		<row row_number="24" isdata="1">שייר בה כדי מעפורת חבור אמר ריש לקיש</row>
+		<row row_number="25" isdata="1">לא שנו אלא טלית אבל עור חלים ורבי</row>
+		<row row_number="26" isdata="1">יוחנן אמר אפי' עור נמי לא חלים איתיביה</row>
+		<row row_number="27" isdata="1">רבי יוחנן לריש לקיש עור טמא מדרס</row>
+		<row row_number="28" isdata="1">חישב עליו לרצועות וסנדלים כיון שנתן</row>
+		<row row_number="29" isdata="1">בו איזמל טהור דברי רבי יהודה וחכ"א</row>
+		<row row_number="30" isdata="1">עד שימעיטנו מחמשה טפחים כי ממעיט</row>
+		<row row_number="31" isdata="1">ליה מיהא טהור אמאי לימא חלים כי</row>
+		<row row_number="32" isdata="1">קאמרי דחלים היכא דקא צרי ליה להדיא</row>
+		<row row_number="33" isdata="1">הב"ע במקצע ובא לו דרך סביבותיו מתיב</row>
+		<row row_number="34" isdata="1">ר' ירמיה המפשיט בבהמה ובחיה בטהורה</row>
+		<row row_number="35" isdata="1">ובטמאה בדקה ובגסה לשטיח כדי אחיזה</row>
+		<row row_number="36" isdata="1">הא יתר מכדי אחיזה טהור ואמאי לימא</row>
+		<row row_number="37" isdata="1">חלים תרגמה ר' אבין ראשון ראשון עושה</row>
+		<row row_number="38" isdata="1">ניפול מתיב רב יוסף עור שעל הצואר רבי</row>
+		<row row_number="39" isdata="1">יוחנן בן נורי אומר אינו חבור אמאי הא</row>
+		<row row_number="40" isdata="1">חלים וקאי אמר ליה אביי אימא סיפא</row>
+		<row row_number="41" isdata="1">וחכ"א חבור אלא אמר אביי בשומר</row>
+		<row row_number="42" isdata="1">העשוי לנתק מאליו קא מיפלגי מר סבר</row>
+		<row row_number="43" isdata="1">הוי שומר ומר סבר לא הוי שומר מתיב</row>
+		<row row_number="44" isdata="1">רבי ירמיה תנור שנטמא כיצד מטהרין</row>
+		<row row_number="45" isdata="1">אותו חולקו לשלשה וגורר את הטפילה</row>
+</amud>
+</daf>
+</masechet>
+</root>

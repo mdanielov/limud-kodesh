@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:17.445483</dateCreated>
+   <lastModified>2019-12-21 20:30:17.445483</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="60">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "קונם יין"/><ContGemara/>א"ל אי הכי ליגזור ביום א' משום היום א"ל</row>
+		<row row_number="2" isdata="1">היום ביום אחד מיחלף יום אחד בהיום לא</row>
+		<row row_number="3" isdata="1">מיחלף אמר רבינא אמר לי מרימר הכי אמר</row>
+		<row row_number="4" isdata="1">אבוך משמיה דרב [יוסף] כמאן אזלא</row>
+		<row row_number="5" isdata="1">שמעתיה דרב ירמיה בר אבא כרבי נתן</row>
+		<row row_number="6" isdata="1">דתניא רבי נתן אומר כל הנודר כאילו בנה</row>
+		<row row_number="7" isdata="1">במה והמקיימו כאילו מקטיר עליה שבת זו</row>
+		<row row_number="8" isdata="1">אסור בכל השבת כולה פשיטא מהו דתימא</row>
+		<row row_number="9" isdata="1">יומי דשבתא קאמר קמ"ל חדש זה אסור בכל</row>
+		<row row_number="10" isdata="1">החדש ור"ח להבא פשיטא כי איצטריכא</row>
+		<row row_number="11" isdata="1">לחדש חסר מהו דתימא ראש חדש לשעבר</row>
+		<row row_number="12" isdata="1">הוי ולא ליתסר קמ"ל קרו אינשי ריש ירחא</row>
+		<row row_number="13" isdata="1">שנה זו אסור בכל השנה כולה איבעיא</row>
+		<row row_number="14" isdata="1">להו אמר קונם יין שאני טועם יום מאי דיניה</row>
+		<row row_number="15" isdata="1">כהיום או כיום אחד ת"ש ממתניתין קונם</row>
+		<row row_number="16" isdata="1">יין שאני טועם היום אין אסור אלא עד</row>
+		<row row_number="17" isdata="1">שתחשך הא יום כיום אחד דמי אימא סיפא</row>
+		<row row_number="18" isdata="1">אמר יום אחד אסור מיום ליום הא יום כהיום</row>
+		<row row_number="19" isdata="1">דמי אלא מהא ליכא למשמע מינה אמר</row>
+		<row row_number="20" isdata="1">רב אשי ת"ש קונם יין שאני טועם השנה</row>
+		<row row_number="21" isdata="1">נתעברה השנה אסור בה ובעיבורה היכי דמי</row>
+</amud>
+</daf>
+</masechet>
+</root>

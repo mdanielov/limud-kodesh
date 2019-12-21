@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:57.884183</dateCreated>
+   <lastModified>2019-12-21 20:30:57.884183</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="35">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המפקיד"/><ContGemara/>אגביה איהו בחובו פליגי בה רב אחא ורבינא</row>
+		<row row_number="2" isdata="1">חד אמר הדרה וחד אמר לא הדרה מאן</row>
+		<row row_number="3" isdata="1">דאמר לא הדרה סבר האי זביני מעליא היא</row>
+		<row row_number="4" isdata="1">דהא מדעתא דנפשיה אגביה ומאן דאמר</row>
+		<row row_number="5" isdata="1">הדרה סבר לא זביני מעליא הוא והאי</row>
+		<row row_number="6" isdata="1">דאגביה מדעתיה ולא אתא לדינא מחמת</row>
+		<row row_number="7" isdata="1">כיסופא הוא דאגביה ומאימת אכיל פירי</row>
+		<row row_number="8" isdata="1">רבה אמר מכי מטיא אדרכתא לידיה אביי</row>
+		<row row_number="9" isdata="1">אמר עדיו בחתומיו זכין לו רבא אמר מכי</row>
+		<row row_number="10" isdata="1">שלימו ימי אכרזתאמתני' השוכר פרה</row>
+		<row row_number="11" isdata="1">מחבירו והשאילה לאחר ומתה כדרכה ישבע</row>
+		<row row_number="12" isdata="1">השוכר שמתה כדרכה והשואל ישלם</row>
+		<row row_number="13" isdata="1">לשוכר א"ר יוסי כיצד הלה עושה סחורה</row>
+		<row row_number="14" isdata="1">בפרתו של חבירו אלא תחזור פרה לבעלים</row>
+		<row row_number="15" isdata="1"><EndMishna/><StartGemara/>גמ' א"ל רב אידי בר אבין לאביי מכדי</row>
+		<row row_number="16" isdata="1">שוכר במאי קני להאי פרה בשבועה ונימא</row>
+		<row row_number="17" isdata="1">ליה משכיר לשוכר דל אנת ודל שבועתך</row>
+		<row row_number="18" isdata="1">ואנא משתעינא דינא בהדי שואל א"ל מי</row>
+		<row row_number="19" isdata="1">סברת שוכר בשבועה הוא דקא קני לה</row>
+		<row row_number="20" isdata="1">משעת מיתה הוא דקני ושבועה כדי להפיס</row>
+		<row row_number="21" isdata="1">דעתו של בעל הבית א"ר זירא פעמים</row>
+		<row row_number="22" isdata="1">שהבעלים משלמין כמה פרות לשוכר היכי</row>
+		<row row_number="23" isdata="1">דמי אגרה מיניה מאה יומי והדר שיילה</row>
+		<row row_number="24" isdata="1">מיניה תשעין יומי הדר אגרה מיניה תמנן</row>
+		<row row_number="25" isdata="1">יומי והדר שיילה מיניה שבעין יומי ומתה</row>
+		<row row_number="26" isdata="1">בתוך ימי שאלתה דאכל שאלה ושאלה</row>
+		<row row_number="27" isdata="1">מיחייב חדא פרה א"ל רב אחא מדיפתי</row>
+		<row row_number="28" isdata="1">לרבינא מכדי חדא פרה היא עיילה ואפקה</row>
+		<row row_number="29" isdata="1">אפקה משכירות ועיילה לשאילה אפקה</row>
+		<row row_number="30" isdata="1">משאילה ועיילה לשכירות א"ל ומי איתא</row>
+		<row row_number="31" isdata="1">לפרה בעינא דנימא ליה הכי מר בר רב</row>
+		<row row_number="32" isdata="1">אשי אמר אין לו עליהן אלא שתי</row>
+		<row row_number="33" isdata="1">פרות חדא דשאלה וחדא דשכירות שום</row>
+		<row row_number="34" isdata="1">שאלה אחת היא ושום שכירות אחת</row>
+		<row row_number="35" isdata="1">היא דשאלה קני לגמרי דשכירות עבד</row>
+		<row row_number="36" isdata="1">בה ימי שכירותיה ומיהדר ליה למרה</row>
+		<row row_number="37" isdata="1">אמר ר' ירמיה פעמים ששניהם בחטאת</row>
+</amud>
+</daf>
+</masechet>
+</root>

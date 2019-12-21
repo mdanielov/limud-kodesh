@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:21.766475</dateCreated>
+   <lastModified>2019-12-21 20:30:21.766475</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאמר"/><ContGemara/>תניא כוותיה דרבא אלו לחטאתי והשאר</row>
+		<row row_number="2" isdata="1">לשאר נזירותי דמי חטאת ילכו לים המלח</row>
+		<row row_number="3" isdata="1">והשאר יביא חציו לעולה וחציו לשלמים</row>
+		<row row_number="4" isdata="1">ומועלין בכולן ואין מועלין במקצתן אלו</row>
+		<row row_number="5" isdata="1">לעולתי והשאר לשאר נזירותי דמי עולה</row>
+		<row row_number="6" isdata="1">יביאו עולה ומועלין בהן והשאר יפלו לנדבה</row>
+		<row row_number="7" isdata="1">ומועלין בכולן ואין מועלין במקצתן א"ר</row>
+		<row row_number="8" isdata="1">הונא אמר רב לא שנו אלא מעות אבל</row>
+		<row row_number="9" isdata="1">בהמה הרי היא כמפורשת אמר ר"נ הא</row>
+		<row row_number="10" isdata="1">דאמרי בהמה הרי היא כמפורשת לא שנו</row>
+		<row row_number="11" isdata="1">אלא תמימה אבל בעלת מום הרי היא</row>
+		<row row_number="12" isdata="1">כסתומה אבל נסכא לא ור"נ בר יצחק</row>
+		<row row_number="13" isdata="1">אמר אפי' נסכא אבל סואר של קורות</row>
+		<row row_number="14" isdata="1">לא א"ל רב שימי בר אשי לרב פפא</row>
+		<row row_number="15" isdata="1">מאי טעמייהו דרבנן דאמרי מעות ולא</row>
+		<row row_number="16" isdata="1">בהמה ולא נסכא מעות ולא סוורא אלא</row>
+		<row row_number="17" isdata="1">מעתה מעות ולא עופות וכי תימא ה"נ</row>
+		<row row_number="18" isdata="1">אלא הא דאמר רב חסדא אין הקינין</row>
+		<row row_number="19" isdata="1">מתפרשות אלא אי בלקיחת בעלים אי</row>
+		<row row_number="20" isdata="1">בעשיית כהן אמאי הא מעות גמירין לה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:52.142539</dateCreated>
+   <lastModified>2019-12-21 20:28:52.142539</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="148">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חבית"/><ContGemara/>הלכה מחזירין את השבר רבה בר בר חנה</row>
+		<row row_number="2" isdata="1">איקלע לפומבדיתא לא על לפירקיה דרב</row>
+		<row row_number="3" isdata="1">יהודה שדריה לאדא דיילא א"ל זיל גרביה</row>
+		<row row_number="4" isdata="1">אזיל גרביה אתא אשכחיה דקא דריש אין</row>
+		<row row_number="5" isdata="1">מחזירין את השבר א"ל הכי אמר רב חנא</row>
+		<row row_number="6" isdata="1">בגדתאה אמר שמואל הלכה מחזירין את</row>
+		<row row_number="7" isdata="1">השבר א"ל הא חנא דידן והא שמואל דידן</row>
+		<row row_number="8" isdata="1">ולא שמיע לי ולאו בדינא גרבתיך מי</row>
+		<row row_number="9" isdata="1">שנפרקה ידו כו' רב אויא הוה יתיב קמיה</row>
+		<row row_number="10" isdata="1">דרב יוסף שניא ליה ידיה א"ל הכי מאי אסור</row>
+		<row row_number="11" isdata="1">והכי מאי א"ל אסור אדהכי איתפח ידיה א"ל</row>
+		<row row_number="12" isdata="1">מאי תיבעי לך הא תנן מי שנפרקה ידו או</row>
+		<row row_number="13" isdata="1">רגלו לא יטרפם בצונן אבל רוחץ כדרכו</row>
+		<row row_number="14" isdata="1">ואם נתרפא נתרפא א"ל ולא תנן אין מחזירין</row>
+		<row row_number="15" isdata="1">את השבר ואמר רב חנא בגדתאה אמר</row>
+		<row row_number="16" isdata="1">שמואל הלכה מחזירין את השבר אמר ליה</row>
+		<row row_number="17" isdata="1">כולהו בחדא מחיתא מחיתנהו היכא דאיתמר</row>
+		<row row_number="18" isdata="1">איתמר היכא דלא איתמר לא איתמר<EndChapter name = "חבית"/><EndGemara/></row>
+		<row row_number="19" isdata="0">הדרן עלך חבית</row>
+		<row row_number="20" isdata="1"><StartChapter name = "שואל"/><StartMishna/>שואל אדם מחבירו כדי יין וכדי שמן</row>
+		<row row_number="21" isdata="1">ובלבד שלא יאמר לו הלויני וכן</row>
+		<row row_number="22" isdata="1">האשה מחבירתה ככרות ואם אינו מאמינו</row>
+		<row row_number="23" isdata="1">מניח טליתו אצלו ועושה עמו חשבון לאחר שבת וכן ערב פסח בירושלים</row>
+		<row row_number="24" isdata="1">שחל להיות בשבת מניח טליתו אצלו ונוטל את פסחו ועושה עמו חשבון</row>
+		<row row_number="25" isdata="1">לאחר יום טוב<EndMishna/><StartGemara/>גמ' א"ל רבא בר רב חנן לאביי מאי שנא השאילני ומאי</row>
+		<row row_number="26" isdata="1">שנא הלויני אמר ליה השאילני לא אתי למיכתב הלויני אתי למיכתב</row>
+		<row row_number="27" isdata="1">והא כיון דבחול זימנין דבעי למימר ליה הלויני וא"ל השאילני ולא קפיד</row>
+		<row row_number="28" isdata="1">עילויה ואתי למיכתב בשבת נמי אתי למיכתב א"ל (בחול דלא שנא כי א"ל</row>
+		<row row_number="29" isdata="1">הלויני ל"ש כי א"ל השאילני לא קפדינן עילויה אתי למיכתב) בשבת כיון</row>
+		<row row_number="30" isdata="1">דהשאילני הוא דשרו ליה רבנן הלויני לא שרו ליה מינכרא מילתא ולא אתי</row>
+		<row row_number="31" isdata="1">למיכתב א"ל רבא בר רב חנן לאביי מכדי אמרו רבנן כל מילי דיום טוב</row>
+		<row row_number="32" isdata="1">כמה דאפשר לשנויי משנינן הני נשי דמליין חצבייהו מיא מ"ט לא משנין משום</row>
+		<row row_number="33" isdata="1">דלא אפשר היכי לעבדי דמליין בחצבא רבא לימלו בחצבא זוטא הא קא</row>
+		<row row_number="34" isdata="1">מפשו בהילוכא דמליין בחצבא זוטא לימלו בחצבא רבא קא מפשו במשוי</row>
+</amud>
+</daf>
+</masechet>
+</root>

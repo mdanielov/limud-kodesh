@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:16.170484</dateCreated>
+   <lastModified>2019-12-21 20:30:16.170484</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="44">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אין בין המודר"/><ContGemara/>אמר תהא שדה זו מופקרת ליום אחד לשבת</row>
+		<row row_number="2" isdata="1">אחת לחדש אחד לשנה אחת לשבוע אחת</row>
+		<row row_number="3" isdata="1">עד שלא זכה בה בין הוא בין אחר יכול לחזור</row>
+		<row row_number="4" isdata="1">בו משזכה בה בין הוא בין אחר אין יכול לחזור</row>
+		<row row_number="5" isdata="1">בו רישא רבנן סיפא ר' יוסי אמר עולא סיפא</row>
+		<row row_number="6" isdata="1">נמי רבנן היא אי הכי אמאי עד שלא זכה בה</row>
+		<row row_number="7" isdata="1">בין הוא בין אחר יכול לחזו' בו שאני שנה ושבוע</row>
+		<row row_number="8" isdata="1">דלא שכיחי ר"ל אמר מדסיפא ר' יוסי רישא</row>
+		<row row_number="9" isdata="1">נמי ר' יוסי ורישא היינו טעמא דלא לישתכח</row>
+		<row row_number="10" isdata="1">תורת הפקר אי הכי אפילו מיום הראשון נמי</row>
+		<row row_number="11" isdata="1">ליהוי הפקר אמר רבה מפני הרמאין דמפקירין</row>
+		<row row_number="12" isdata="1">והדרין בהון אבל דאורייתא לא הוי הפקר</row>
+</amud>
+</daf>
+</masechet>
+</root>

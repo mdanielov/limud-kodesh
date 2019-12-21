@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:51.691540</dateCreated>
+   <lastModified>2019-12-21 20:28:51.692540</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="144">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חבית"/><ContGemara/>שלא לרצון שדם מגפתה טהור אמר להן</row>
+		<row row_number="2" isdata="1">מחמיר אני בחלב מבדם שהחולב לרפואה</row>
+		<row row_number="3" isdata="1">טמא והמקיז לרפואה טהור אמרו לו סלי</row>
+		<row row_number="4" isdata="1">זיתים וענבים יוכיחו שהמשקין היוצאין</row>
+		<row row_number="5" isdata="1">מהן לרצון טמאין שלא לרצון טהורים מאי</row>
+		<row row_number="6" isdata="1">לאו לרצון דניחא ליה שלא לרצון בסתמא</row>
+		<row row_number="7" isdata="1">ומה זיתים וענבים דבני סחיטה נינהו</row>
+		<row row_number="8" isdata="1">שלא לרצון ולא כלום תותים ורמונים דלאו</row>
+		<row row_number="9" isdata="1">בני סחיטה נינהו לא כ"ש לא לרצון בסתמא</row>
+		<row row_number="10" isdata="1">שלא לרצון דגלי אדעתיה דאמר לא</row>
+		<row row_number="11" isdata="1">ניחא לי ואיבעית אימא שאני סלי זיתים</row>
+		<row row_number="12" isdata="1">וענבים כיון דלאיבוד קיימי מעיקרא אפקורי</row>
+		<row row_number="13" isdata="1">מפקרי להו אשכחן ר' יהודה דמודי לרבנן</row>
+		<row row_number="14" isdata="1">בזיתים ובענבים רבנן דמודו ליה לרבי</row>
+		<row row_number="15" isdata="1">יהודה בשאר פירות מנלן דתניא סוחטין</row>
+</amud>
+</daf>
+</masechet>
+</root>

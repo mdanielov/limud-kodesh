@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:14.296403</dateCreated>
+   <lastModified>2019-12-21 20:29:14.296403</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="90">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה"/><ContGemara/>ואין שוחטין וזורקין על טמא שרץ ועולא</row>
+		<row row_number="2" isdata="1">אמר אף שוחטין וזורקין על טמא שרץ לרב</row>
+		<row row_number="3" isdata="1">מאי שנא טבול יום דחזי לאורתא טמא שרץ</row>
+		<row row_number="4" isdata="1">נמי חזי לאורתא מחוסר טבילה טבול יום</row>
+		<row row_number="5" isdata="1">נמי מחוסר הערב שמש שמשא ממילא</row>
+		<row row_number="6" isdata="1">ערבא מחוסר כפורים נמי הא מחוסר כפרה</row>
+		<row row_number="7" isdata="1">שקינו בידו טמא שרץ נמי הרי מקוה לפניו</row>
+		<row row_number="8" isdata="1">דילמא פשע אי הכי מחוסר כפורים נמי</row>
+		<row row_number="9" isdata="1">דילמא פשע כגון דמסרינהו לב"ד וכדרב</row>
+		<row row_number="10" isdata="1">שמעיה דאמר חזקה אין ב"ד של כהנים</row>
+		<row row_number="11" isdata="1">עומדין משם עד שיכלו מעות שבשופרות</row>
+		<row row_number="12" isdata="1">ולרב מדאורייתא מיחזא חזי ורבנן הוא דגזרו</row>
+		<row row_number="13" isdata="1">ביה אלמה אמר רב מטמאין אחד מהן</row>
+		<row row_number="14" isdata="1">בשרץ אלא לרב מדאורייתא נמי לא חזי</row>
+		<row row_number="15" isdata="1">דכתיב איש איש כי יהיה טמא לנפש מי</row>
+		<row row_number="16" isdata="1">לא עסקינן שחל שביעי שלו להיות בערב</row>
+		<row row_number="17" isdata="1">הפסח דהיינו טומאת שרץ ואמר רחמנא</row>
+		<row row_number="18" isdata="1">נידחי וכי תימא ממאי דהכי סבר לה כרבי</row>
+		<row row_number="19" isdata="1">יצחק דאמר טמאי מת מצוה היו שחל</row>
+		<row row_number="20" isdata="1">שביעי שלהן להיות בערב הפסח שנאמר</row>
+		<row row_number="21" isdata="1">ולא יכלו לעשות הפסח ביום ההוא ביום</row>
+		<row row_number="22" isdata="1">ההוא הוא דאינן יכולין לעשות אבל למחר</row>
+		<row row_number="23" isdata="1">יכולין לעשות ואמר רחמנא נדחו תנן זב</row>
+		<row row_number="24" isdata="1">שראה שתי ראיות שוחטין עליו בשביעי מאי</row>
+		<row row_number="25" isdata="1">לאו דלא טביל ושמע מינה שוחטין וזורקין</row>
+		<row row_number="26" isdata="1">על טמא שרץ לא דטביל אי טביל מאי קמ"ל</row>
+		<row row_number="27" isdata="1">הא קמ"ל דאע"ג דמחוסר הערב השמש</row>
+		<row row_number="28" isdata="1">קמ"ל דשמשא ממילא ערבא הכי נמי</row>
+		<row row_number="29" isdata="1">מסתברא מדקתני סיפא ראה שלש ראיות</row>
+		<row row_number="30" isdata="1">שוחטין עליו בשמיני אי אמרת בשלמא זב</row>
+		<row row_number="31" isdata="1">שראה שתי ראיות שוחטין עליו בשביעי</row>
+		<row row_number="32" isdata="1">דטביל איצטריך סד"א ראה שתי ראיות</row>
+		<row row_number="33" isdata="1">בשביעי הוא דלא מחוסר מעשה אבל ראה</row>
+		<row row_number="34" isdata="1">שלש בשמיני דמחוסר מעשה מחוסר כפרה</row>
+		<row row_number="35" isdata="1">לא קמ"ל דאע"ג דמחוסר כפרה שוחטין</row>
+		<row row_number="36" isdata="1">וזורקין עילויה אלא אי אמרת ראה שתי ראיות בשביעי דלא טביל ראה שלש</row>
+		<row row_number="37" isdata="1">בשמיני למה לי השתא יש לומר ראה שתי ראיות בשביעי דלא טביל דטמא</row>
+		<row row_number="38" isdata="1">מעליא הוא שחטינן וזרקינן עילויה ראה שלש בשמיני דטביל ליה</row>
+		<row row_number="39" isdata="1">בשביעי דקלישא טומאה לא כ"ש דשחטינן וזרקינן עילויה אלא לאו ש"מ</row>
+		<row row_number="40" isdata="1">ראה שתי ראיות בשביעי דשחטינן עילויה דטביל לא לעולם אימא לך</row>
+		<row row_number="41" isdata="1">דלא טביל ואיצטריך ס"ד אמינא בשביעי הוא דבידו לתקן אבל בשמיני</row>
+		<row row_number="42" isdata="1">דאין בידו להקריב קרבן אימא פשעי ביה כהנים קמ"ל כדרב שמעיה</row>
+		<row row_number="43" isdata="1">והזבה שוחטין וכו' תני תנא קמיה דרב אדא בר אהבה והזבה שוחטין</row>
+		<row row_number="44" isdata="1">עליה בשביעי שלה אמר ליה זבה בשביעי שלה מי חזיא אפילו למאן</row>
+		<row row_number="45" isdata="1">דאמר שוחטין וזורקין על טמא שרץ הנ"מ טמא שרץ דחזי לאורתא הא</row>
+		<row row_number="46" isdata="1">עד למחר דמתיא כפרה לא חזיא אימא בשמיני פשיטא מהו דתימא כיון</row>
+		<row row_number="47" isdata="1">דמחסרא כפרה לא קמ"ל כדרב שמעיה רבינא אמר נדה תנא קמיה והנדה</row>
+		<row row_number="48" isdata="1">שוחטין עליה בשביעי א"ל נדה בשביעי מי חזיא אפי' למאן דאמר שוחטין וזורקין על טמא שרץ דחזי לאורתא</row>
+		<row row_number="49" isdata="1">נדה לאורתא דשביעי הוא דטבלה עד שמיני דעבדה הערב שמש לא חזיא אלא אימא בשמיני פשיטא</row>
+		<row row_number="50" isdata="1">השתא ומה זבה דמיחסרא כפרה שוחטין וזורקין עליה בשמיני נדה דלא מיחסרא כפרה צריכה למימר</row>
+		<row row_number="51" isdata="1">דשחטינן וזרקינן עלה נדה איצטריכא ליה הא קא משמע לן בשמיני אין בשביעי לא כדתניא כל</row>
+		<row row_number="52" isdata="1">חייבי טבילות טבילתן ביום נדה ויולדת טבילתן בלילה דתניא יכול תהא טובלת מבעוד יום</row>
+		<row row_number="53" isdata="1">תלמוד לומר שבעת ימים תהיה בנדתה תהא בנדתה כל שבעה ויולדת איתקש לנדהמתני' האונן</row>
+</amud>
+</daf>
+</masechet>
+</root>

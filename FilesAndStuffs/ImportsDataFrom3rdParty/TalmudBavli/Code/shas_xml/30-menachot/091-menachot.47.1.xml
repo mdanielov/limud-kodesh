@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:05.333919</dateCreated>
+   <lastModified>2019-12-21 20:32:05.333919</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="47">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "התכלת"/><ContGemara/>ת"ר כבשי עצרת אין מקדשין את הלחם</row>
+		<row row_number="2" isdata="1">אלא בשחיטה כיצד שחטן לשמן וזרק דמן</row>
+		<row row_number="3" isdata="1">לשמן קדש הלחם שחטן שלא לשמן וזרק דמן</row>
+		<row row_number="4" isdata="1">שלא לשמן לא קדש הלחם שחטן לשמן</row>
+		<row row_number="5" isdata="1">וזרק דמן שלא לשמן הלחם קדוש ואינו קדוש</row>
+		<row row_number="6" isdata="1">דברי רבי רבי אלעזר בר' שמעון אומר לעולם</row>
+		<row row_number="7" isdata="1">אינו קדוש עד שישחוט לשמן ויזרוק דמן לשמן</row>
+		<row row_number="8" isdata="1">מאי טעמא דרבי דכתיב ואת האיל יעשה</row>
+		<row row_number="9" isdata="1">זבח שלמים לה' על סל המצות למימרא</row>
+		<row row_number="10" isdata="1">דשחיטה מקדשא ור' אלעזר ברבי שמעון</row>
+		<row row_number="11" isdata="1">יעשה עד שיעשה כל עשיותיו ורבי נמי הכתיב</row>
+		<row row_number="12" isdata="1">יעשה אי כתיב זבח יעשה כדקאמרת השתא</row>
+		<row row_number="13" isdata="1">דכתיב יעשה זבח במה יעשה בזביחה ורבי</row>
+		<row row_number="14" isdata="1">אלעזר בר' שמעון הכתיב זבח ההוא מיבעי</row>
+		<row row_number="15" isdata="1">ליה לכדרבי יוחנן דאמר ר' יוחנן הכל מודים</row>
+		<row row_number="16" isdata="1">שצריך שיהא לחם בשעת שחיטה מאי קדוש</row>
+		<row row_number="17" isdata="1">ואינו קדוש אביי אמר קדוש ואינו גמור רבא</row>
+		<row row_number="18" isdata="1">אמר קדוש ואינו ניתר מאי בינייהו איכא</row>
+		<row row_number="19" isdata="1">בינייהו למיתפס פדיונו לאביי לא תפיס פדיונו</row>
+		<row row_number="20" isdata="1">לרבא תפיס פדיונו בשלמא לרבא היינו דאיכא</row>
+		<row row_number="21" isdata="1">בין רבי לר' אלעזר בר"ש אלא לאביי מאי איכא</row>
+		<row row_number="22" isdata="1">בין רבי לר' אלעזר בר' שמעון איכא [בינייהו]</row>
+		<row row_number="23" isdata="1">לאיפסולי ביוצא בעא מיניה ר' שמואל בר</row>
+		<row row_number="24" isdata="1">רב יצחק מר' חייא בר אבא כבשי עצרת</row>
+		<row row_number="25" isdata="1">ששחטן לשמן וזרק דמן שלא לשמן אותו</row>
+		<row row_number="26" isdata="1">הלחם מהו באכילה אליבא דמאן אי אליבא</row>
+		<row row_number="27" isdata="1">דר' אלעזר בר' שמעון האמר זריקה היא</row>
+		<row row_number="28" isdata="1">דמקדשא אי אליבא דרבי בין לאביי בין לרבא</row>
+		<row row_number="29" isdata="1">קדוש ואינו ניתר הוא אלא אליבא דהאי</row>
+		<row row_number="30" isdata="1">תנא דתני אבוה דר' ירמיה בר אבא שתי</row>
+		<row row_number="31" isdata="1">הלחם שיצאו בין שחיטה לזריקה וזרק דמן</row>
+		<row row_number="32" isdata="1">של כבשים חוץ לזמנן ר' אליעזר אומר אין</row>
+		<row row_number="33" isdata="1">בלחם משום פיגול רבי עקיבא אומר יש</row>
+		<row row_number="34" isdata="1">בלחם משום פיגול אמר רב ששת הני תנאי</row>
+		<row row_number="35" isdata="1">כרבי סבירא להו דאמ' שחיטה מקדשא מיהו</row>
+		<row row_number="36" isdata="1">ר' אליעזר לטעמיה דאמר אין זריקה מועלת ליוצא</row>
+		<row row_number="37" isdata="1">ור"ע לטעמי' דאמ' זריקה מועלת ליוצא</row>
+</amud>
+</daf>
+</masechet>
+</root>

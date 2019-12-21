@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:08.756914</dateCreated>
+   <lastModified>2019-12-21 20:32:08.756914</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="81">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "התודה היתה באה"/><ContGemara/>תודה עלי מן החולין ולחמה מן המעשר יביא</row>
+		<row row_number="2" isdata="1">היא ולחמה מן החולין תודה מן המעשר</row>
+		<row row_number="3" isdata="1">ולחמה מן החולין יביא היא ולחמה מן</row>
+		<row row_number="4" isdata="1">המעשר יביא ולא יביא מחיטי מעשר שני</row>
+		<row row_number="5" isdata="1">אלא ממעות מעשר שני<EndMishna/><StartGemara/>גמ' אמר רב הונא</row>
+		<row row_number="6" isdata="1">האומר הרי עלי לחמי תודה מביא תודה</row>
+		<row row_number="7" isdata="1">ולחמה מאי טעמא מידע ידע האי גברא</row>
+		<row row_number="8" isdata="1">דלחם בלא תודה לא איקריב והאי תודה</row>
+		<row row_number="9" isdata="1">ולחמה קאמר והאי דקאמר לחמי תודה סוף</row>
+		<row row_number="10" isdata="1">מילתא נקט תנן תודה מן המעשר ולחמה מן</row>
+		<row row_number="11" isdata="1">החולין יביא כמה שנדר ואמאי כיון דאמר</row>
+		<row row_number="12" isdata="1">לחמה מן החולין יביא היא ולחמה מן החולין</row>
+		<row row_number="13" isdata="1">שאני התם דכיון דאמר תודה מן המעשר</row>
+		<row row_number="14" isdata="1">נעשה כאומר הרי עלי לחם לפטור תודתו</row>
+		<row row_number="15" isdata="1">של פלוני אי הכי רישא דקתני תודה מן</row>
+		<row row_number="16" isdata="1">החולין ולחמה מן המעשר יביא היא ולחמה</row>
+		<row row_number="17" isdata="1">מן החולין הכא נמי נעשה כאומר הרי עלי</row>
+		<row row_number="18" isdata="1">תודה לפטור לחמו של פלוני הכי השתא</row>
+		<row row_number="19" isdata="1">בשלמא לחם למיפטר תודה אתי תודה</row>
+		<row row_number="20" isdata="1">למיפטר לחם מי אתיא ת"ש האומר הרי עלי</row>
+		<row row_number="21" isdata="1">תודה בלא לחם וזבח בלא נסכים כופין אותו</row>
+		<row row_number="22" isdata="1">ומביא תודה ולחמה זבח ונסכים טעמא</row>
+		<row row_number="23" isdata="1">דאמר אבל לא אמר תודה לא ה"ה</row>
+		<row row_number="24" isdata="1">אע"ג דלא אמר תודה ואיידי דקא בעי למיתנא</row>
+		<row row_number="25" isdata="1">זבח בלא נסכים דלא מתני ליה נסכים בלא</row>
+		<row row_number="26" isdata="1">זבח תנא נמי תודה אמאי נדר ופתחו</row>
+		<row row_number="27" isdata="1">עמו הוא אמר חזקיה הא מני בית שמאי היא</row>
+		<row row_number="28" isdata="1">דאמרי תפוס לשון הראשון דתנן הריני נזיר</row>
+		<row row_number="29" isdata="1">מן הגרוגרות ומן הדבלה ב"ש אומרים נזיר</row>
+		<row row_number="30" isdata="1">ובית הלל אומרים אינו נזיר רבי יוחנן אמר</row>
+		<row row_number="31" isdata="1">אפילו תימא בית הלל באומר אילו הייתי</row>
+		<row row_number="32" isdata="1">יודע שאין נודרין כך לא הייתי נודר כך אלא</row>
+		<row row_number="33" isdata="1">כך ומאי כופין דקא בעי הדר ביה תא שמע</row>
+		<row row_number="34" isdata="1">האומר הרי עלי תודה בלא לחם וזבח בלא</row>
+		<row row_number="35" isdata="1">נסכים ואמרו לו הבא תודה ולחמה וזבח</row>
+		<row row_number="36" isdata="1">ונסכים ואומר אילו הייתי יודע שכן לא הייתי</row>
+		<row row_number="37" isdata="1">נודר כופין אותו ואומר לו שמור ושמעת</row>
+		<row row_number="38" isdata="1">בשלמא לחזקיה ניחא ליה אלא לר' יוחנן קשיא אמר לך ר' יוחנן הא ודאי</row>
+		<row row_number="39" isdata="1">ב"ש היא מאי שמור ושמעת אמר אביי שמור הבא תודה ושמעת הבא</row>
+		<row row_number="40" isdata="1">לחמה רבא אמר שמור הבא תודה ולחמה ושמעת שלא תהא רגיל לעשות</row>
+		<row row_number="41" isdata="1">כן (תודה) היא ולחמה מן המעשר יביא יביא לא סגי דלא מייתי רב נחמן</row>
+		<row row_number="42" isdata="1">ורב חסדא אמרי רצה מביא לא רצה לא יביא ולא יביא מחיטי מעשר שני</row>
+		<row row_number="43" isdata="1">אלא ממעות מעשר שני רב נחמן ורב חסדא דאמרי תרוייהו לא שנו אלא</row>
+		<row row_number="44" isdata="1">מחיטי מעשר שני אבל מחיטין הלקוחות ממעות מעשר שני יביא יתיב</row>
+		<row row_number="45" isdata="1">רבי ירמיה קמיה דרבי זירא ויתיב וקאמר לא שנו אלא מחיטי מעשר שני</row>
+		<row row_number="46" isdata="1">אבל מחיטין הלקוחות במעות מעשר שני יביא א"ל רבי אתה אומר כן אני</row>
+		<row row_number="47" isdata="1">אומר אפי' מחיטין הלקוחות במעות מעשר שני לא יביא ואימא טעמא דידי</row>
+		<row row_number="48" isdata="1">ואימא טעמא דידך אימא טעמא דידך תודה מהיכא קא ילפת לה משלמים</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:09.137237</dateCreated>
+   <lastModified>2019-12-21 20:31:09.137237</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="39">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>לית בה משום לישנא בישא מ"ד בפני שנים</row>
+		<row row_number="2" isdata="1">לית ליה דרבה בר רב הונא ומ"ד בפני ג' אית</row>
+		<row row_number="3" isdata="1">ליה דרבה בר רב הונא לא דכולי עלמא אית</row>
+		<row row_number="4" isdata="1">להו דרבה בר רב הונא והכא בהא קא</row>
+		<row row_number="5" isdata="1">מיפלגי מ"ד בפני שנים קסבר מחאה שלא</row>
+		<row row_number="6" isdata="1">בפניו לא הויא מחאה ומ"ד בפני ג' קסבר</row>
+		<row row_number="7" isdata="1">מחאה שלא בפניו הויא מחאה אי בעית</row>
+		<row row_number="8" isdata="1">אימא דכ"ע מחאה שלא בפניו הויא מחאה</row>
+		<row row_number="9" isdata="1">והכא בהא קמיפלגי מ"ד בפני ב' סבר סהדותא</row>
+		<row row_number="10" isdata="1">בעינן ומאן דאמר בפני ג' קסבר גלויי מילתא</row>
+		<row row_number="11" isdata="1">בעינן גידל בר מניומי הוה ליה מחויאתה</row>
+		<row row_number="12" isdata="1">למחויי אשכחינהו לרב הונא ולחייא בר רב</row>
+		<row row_number="13" isdata="1">ולרב חלקיה בר טובי דהוו יתבי ומחה קמייהו</row>
+		<row row_number="14" isdata="1">לשנה הדר אתא למחויי אמרו ליה לא צריכת</row>
+		<row row_number="15" isdata="1">הכי אמר רב כיון שמיחה שנה ראשונה שוב</row>
+		<row row_number="16" isdata="1">אינו צריך למחות ואיכא דאמרי אמר ליה חייא</row>
+		<row row_number="17" isdata="1">בר רב כיון שמיחה שנה ראשונה שוב אין</row>
+		<row row_number="18" isdata="1">צריך למחות אר"ל משום בר קפרא וצריך</row>
+		<row row_number="19" isdata="1">למחות בסוף כל ג' וג' תהי בה רבי יוחנן</row>
+		<row row_number="20" isdata="1">וכי גזלן יש לו חזקה גזלן ס"ד אלא כגזלן</row>
+		<row row_number="21" isdata="1">יש לו חזקה אמר רבא הלכתא צריך</row>
+		<row row_number="22" isdata="1">למחות בסוף כל ג' וג' תני בר קפרא ערער</row>
+		<row row_number="23" isdata="1">חזר וערער חזר וערער אם מחמת טענה</row>
+		<row row_number="24" isdata="1">ראשונה ערער אין לו חזקה ואם לאו יש לו</row>
+		<row row_number="25" isdata="1">חזקה אמר רבא א"ר נחמן מחאה בפני שנים</row>
+</amud>
+</daf>
+</masechet>
+</root>

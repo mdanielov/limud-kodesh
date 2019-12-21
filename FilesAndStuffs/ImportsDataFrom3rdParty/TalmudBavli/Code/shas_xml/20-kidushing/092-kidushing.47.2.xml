@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:40.406424</dateCreated>
+   <lastModified>2019-12-21 20:30:40.406424</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="47">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContGemara/>הרי היא כפקדון עד כאן לא פליגי אלא</row>
+		<row row_number="2" isdata="1">דמר סבר מלוה אע"ג דלא נשתייר הימנה</row>
+		<row row_number="3" isdata="1">שוה פרוטה ומר סבר נשתייר הימנה שוה</row>
+		<row row_number="4" isdata="1">פרוטה אין ואי לא נשתייר הימנה שוה</row>
+		<row row_number="5" isdata="1">פרוטה לא אבל דכולי עלמא מקדש במלוה</row>
+		<row row_number="6" isdata="1">מקודשת אמר (ליה) רבא ותסברא הא</row>
+		<row row_number="7" isdata="1">מתרצתא הא משבשתא היא האי פקדון היכי</row>
+		<row row_number="8" isdata="1">דמי אי דקביל עליה אחריות היינו מלוה אי</row>
+		<row row_number="9" isdata="1">דלא קביל עליה אחריות אי הכי אדתני סיפא</row>
+		<row row_number="10" isdata="1">ובמלוה אע"פ שלא נשתייר הימנה שוה</row>
+		<row row_number="11" isdata="1">פרוטה מקודשת ניפלוג וניתני בדידה במה</row>
+		<row row_number="12" isdata="1">דברים אמורים שלא קבלה עליה אחריות</row>
+		<row row_number="13" isdata="1">אבל קבלה עליה אחריות אע"ג דלא נשתייר</row>
+		<row row_number="14" isdata="1">הימנה שוה פרוטה מקודשת אלא תריץ הכי</row>
+		<row row_number="15" isdata="1">ובמלוה אע"פ שנשתייר הימנה שוה פרוטה</row>
+		<row row_number="16" isdata="1">אינה מקודשת ר' שמעון בן אלעזר אומר</row>
+		<row row_number="17" isdata="1">משום ר"מ מלוה הרי היא כפקדון במאי</row>
+		<row row_number="18" isdata="1">קמיפלגי אמר רבה אשכחתינהו לרבנן בבי</row>
+		<row row_number="19" isdata="1">רב דיתבי וקאמרי במלוה ברשות בעלים</row>
+		<row row_number="20" isdata="1">לחזרה והוא הדין לאונסין קמיפלגי דמר סבר</row>
+		<row row_number="21" isdata="1">מלוה ברשות לוה קיימא והוא הדין לאונסים</row>
+		<row row_number="22" isdata="1">ומר סבר מלוה ברשות בעלים קיימא והוא</row>
+		<row row_number="23" isdata="1">הדין לאונסים ואמינא להו לאונסים כולי</row>
+		<row row_number="24" isdata="1">עלמא לא פליגי דברשות לוה קיימי מאי</row>
+		<row row_number="25" isdata="1">טעמא לא גרעא משאלה מה שאלה דהדרה</row>
+		<row row_number="26" isdata="1">בעינא חייב באונסים מלוה לא כל שכן אלא</row>
+		<row row_number="27" isdata="1">הכא מלוה ברשות בעלים לחזרה איכא</row>
+		<row row_number="28" isdata="1">בינייהו ואלא הא דאמר רב הונא השואל</row>
+		<row row_number="29" isdata="1">קורדום מחבירו ביקע בו קנאו לא ביקע</row>
+		<row row_number="30" isdata="1">בו לא קנאו לימא כתנאי אמרה לשמעתיה</row>
+		<row row_number="31" isdata="1">לא עד כאן לא פליגי אלא במלוה דלא</row>
+		<row row_number="32" isdata="1">הדרה בעינא אבל בשאלה דהדרה בעינא</row>
+		<row row_number="33" isdata="1">דברי הכל ביקע בו אין לא ביקע בו לא</row>
+		<row row_number="34" isdata="1">קנאו נימא כתנאי התקדשי לי בשטר חוב</row>
+		<row row_number="35" isdata="1">או שהיה לו מלוה ביד אחרים והירשה עליהם</row>
+		<row row_number="36" isdata="1">ר"מ אומר מקודשת וחכ"א אינה מקודשת</row>
+		<row row_number="37" isdata="1">האי שטר חוב היכי דמי אילימא שטר חוב</row>
+		<row row_number="38" isdata="1">דאחרים היינו מלוה ביד אחרים אלא לאו</row>
+		<row row_number="39" isdata="1">שטר חוב דידה ובמקדש במלוה קמיפלגי</row>
+		<row row_number="40" isdata="1">לעולם שטר חוב דאחרים והכא במלוה</row>
+		<row row_number="41" isdata="1">בשטר ובמלוה על פה קא מיפלגי במלוה</row>
+		<row row_number="42" isdata="1">בשטר במאי פליגי בפלוגתא דרבי ורבנן</row>
+		<row row_number="43" isdata="1">קמיפלגי דתניא אותיות נקנות במסירה דברי</row>
+		<row row_number="44" isdata="1">רבי וחכ"א בין שכתב ולא מסר בין שמסר</row>
+		<row row_number="45" isdata="1">ולא כתב לא קנה עד שיכתוב וימסור מר</row>
+		<row row_number="46" isdata="1">אית ליה דרבי ומר לית ליה דרבי ואיבעית</row>
+		<row row_number="47" isdata="1">אימא דכ"ע לית להו דרבי והכא בדרב פפא</row>
+		<row row_number="48" isdata="1">קמיפלגי דאמר רב פפא האי מאן</row>
+		<row row_number="49" isdata="1">דזבין שטרא לחבריה צריך למיכתב ליה קני לך הוא וכל שעבודיה</row>
+		<row row_number="50" isdata="1">מר אית ליה דרב פפא ומר לית ליה דרב פפא ואיבעית אימא</row>
+		<row row_number="51" isdata="1">דכולי עלמא אית להו דרב פפא והכא בדשמואל קמיפלגי דאמר שמואל</row>
+</amud>
+</daf>
+</masechet>
+</root>

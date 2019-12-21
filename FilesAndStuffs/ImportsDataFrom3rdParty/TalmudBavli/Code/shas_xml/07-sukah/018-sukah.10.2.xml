@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:30.295401</dateCreated>
+   <lastModified>2019-12-21 20:29:30.295401</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="10">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContGemara/>עד מוצאי יום טוב האחרון של חג ואם התנה</row>
+		<row row_number="2" isdata="1">עליהם הכל לפי תנאו דלמא מן הצד אתמר</row>
+		<row row_number="3" isdata="1">נויי סוכה אין ממעטין בסוכה אמר רב אשי</row>
+		<row row_number="4" isdata="1">ומן הצד ממעטין מנימין עבדיה דרב אשי</row>
+		<row row_number="5" isdata="1">איטמישא ליה כתונתא במיא ואשתטחא</row>
+		<row row_number="6" isdata="1">אמטללתא אמר ליה רב אשי דלייה דלא</row>
+		<row row_number="7" isdata="1">לימרו קא מסככי בדבר המקבל טומאה והא</row>
+		<row row_number="8" isdata="1">קא חזו ליה דרטיבא לכי יבשה קאמינא לך</row>
+		<row row_number="9" isdata="1">אתמר נויי סוכה המופלגין ממנה ארבעה רב</row>
+		<row row_number="10" isdata="1">נחמן אמר כשרה רב חסדא ורבה בר רב</row>
+		<row row_number="11" isdata="1">הונא אמרי פסולה רב חסדא ורבה בר רב</row>
+		<row row_number="12" isdata="1">הונא איקלעו לבי ריש גלותא אגנינהו רב</row>
+		<row row_number="13" isdata="1">נחמן בסוכה שנוייה מופלגין ממנה ארבעה</row>
+		<row row_number="14" isdata="1">טפחים אשתיקו ולא אמרו ליה ולא מידי אמר</row>
+		<row row_number="15" isdata="1">להו הדור בהו רבנן משמעתייהו אמרו ליה</row>
+		<row row_number="16" isdata="1">אנן שלוחי מצוה אנן ופטורין מן הסוכה אמר</row>
+		<row row_number="17" isdata="1">רב יהודה אמר שמואל מותר לישן בכילה</row>
+		<row row_number="18" isdata="1">בסוכה אע"פ שיש לה גג והוא שאינה גבוהה</row>
+		<row row_number="19" isdata="1">עשרה תא שמע הישן בכילה בסוכה לא</row>
+		<row row_number="20" isdata="1">יצא ידי חובתו הכא במאי עסקינן כשגבוהה</row>
+		<row row_number="21" isdata="1">עשרה מיתיבי הישן תחת המטה בסוכה לא</row>
+		<row row_number="22" isdata="1">יצא ידי חובתו הא תרגמה שמואל במטה</row>
+		<row row_number="23" isdata="1">גבוהה עשרה ת"ש או שפירס על גבי קינופות</row>
+		<row row_number="24" isdata="1">פסולה התם נמי דגביהי עשרה והא לא קתני</row>
+		<row row_number="25" isdata="1">הכי דתניא נקליטין שנים וקינופות ארבעה</row>
+		<row row_number="26" isdata="1">פירס על גבי קינופות פסולה על גבי נקליטין</row>
+		<row row_number="27" isdata="1">כשרה ובלבד שלא יהיו נקליטין גבוהין מן</row>
+		<row row_number="28" isdata="1">המטה עשרה מכלל דקינופות אף על פי</row>
+		<row row_number="29" isdata="1">שאין גבוהין עשרה שאני קינופות דקביעי</row>
+		<row row_number="30" isdata="1">והרי סוכה על גבי סוכה דקביעא ואמר</row>
+		<row row_number="31" isdata="1">שמואל כהכשרה כך פסולה אמרי התם</row>
+		<row row_number="32" isdata="1">דלמפסל סוכה בעשרה הכא דלשויי אוהלא</row>
+		<row row_number="33" isdata="1">בציר מעשרה נמי הוי אוהלא אמר רב</row>
+		<row row_number="34" isdata="1">תחליפא בר אבימי אמר שמואל הישן</row>
+		<row row_number="35" isdata="1">בכילה ערום מוציא ראשו חוץ לכילה וקורא</row>
+		<row row_number="36" isdata="1">קריאת שמע מיתיבי הישן בכילה ערום לא</row>
+		<row row_number="37" isdata="1">יוציא ראשו חוץ לכילה ויקרא קריאת שמע</row>
+		<row row_number="38" isdata="1">הכא במאי עסקינן כשגבוהה עשרה ה"נ</row>
+		<row row_number="39" isdata="1">מסתברא מדקתני סיפא הא למה זה דומה</row>
+		<row row_number="40" isdata="1">לעומד בבית ערום שלא יוציא ראשו חוץ</row>
+		<row row_number="41" isdata="1">לחלון ויקרא קריאת שמע שמע מינה</row>
+</amud>
+</daf>
+</masechet>
+</root>

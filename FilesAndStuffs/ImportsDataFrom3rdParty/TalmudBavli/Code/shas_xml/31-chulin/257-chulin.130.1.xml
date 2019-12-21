@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:26.760920</dateCreated>
+   <lastModified>2019-12-21 20:32:26.760920</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="130">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "הזרוע והלחיים"/><StartMishna/><ContChapter name = "הזרוע והלחיים"/><ContMishna/>הזרוע והלחיים והקבה נוהגין בארץ</row>
+		<row row_number="2" isdata="1">ובחוצה לארץ בפני הבית ושלא</row>
+		<row row_number="3" isdata="1">בפני הבית בחולין אבל לא במוקדשין</row>
+		<row row_number="4" isdata="1">שהיה בדין ומה אם החולין שאינן חייבים</row>
+		<row row_number="5" isdata="1">בחזה ושוק חייבים במתנות קדשים שחייבים</row>
+		<row row_number="6" isdata="1">בחזה ושוק אינו דין שחייבים במתנות ת"ל</row>
+		<row row_number="7" isdata="1">ואתן אותם לאהרן הכהן ולבניו לחק עולם</row>
+		<row row_number="8" isdata="1">אין לו אלא מה שאמור בענין כל הקדשים</row>
+		<row row_number="9" isdata="1">שקדם מום קבוע להקדשן ונפדו חייבין</row>
+		<row row_number="10" isdata="1">בבכורה ובמתנות ויוצאין לחולין להגזז</row>
+		<row row_number="11" isdata="1">ולהעבד וולדן וחלבן מותר לאחר פדיונן</row>
+		<row row_number="12" isdata="1">והשוחטן בחוץ פטור ואין עושין תמורה ואם מתו יפדו חוץ מן הבכור</row>
+		<row row_number="13" isdata="1">ומן המעשר כל שקדם הקדשן את מומן או מום עובר קודם להקדשן</row>
+		<row row_number="14" isdata="1">ולאחר מכאן נולד להם מום קבוע ונפדו פטורין מן הבכורה ומן המתנות</row>
+		<row row_number="15" isdata="1">ואינן יוצאין לחולין להגזז ולהעבד וולדן וחלבן אסור לאחר פדיונן והשוחטן</row>
+		<row row_number="16" isdata="1">בחוץ חייב ועושין תמורה ואם מתו יקברו<EndMishna/><StartGemara/>גמ' טעמא דכתב רחמנא</row>
+		<row row_number="17" isdata="1">אותם הא לאו הכי הוה אמינא קדשים חייבין במתנות איכא למיפרך</row>
+		<row row_number="18" isdata="1">מה לחולין שכן חייבין בבכורה תיתי מזכרים מה לזכרים שכן חייבין</row>
+		<row row_number="19" isdata="1">בראשית הגז מתיישים מה לתיישים שכן נכנסין לדיר להתעשר מזקנים</row>
+		<row row_number="20" isdata="1">מה לזקנים שכן נכנסו לדיר להתעשר מלקוח ויתום מה ללקוח ויתום</row>
+		<row row_number="21" isdata="1">שכן נכנסין במינן לדיר להתעשר במינן קאמרת קדשים נמי במינן</row>
+		<row row_number="22" isdata="1">נכנסין לדיר להתעשר ויהיו חולין חייבין בחזה ושוק מקל וחומר ומה</row>
+		<row row_number="23" isdata="1">קדשים שאין חייבים במתנות חייבין בחזה ושוק חולין שחייבין במתנות אינו</row>
+		<row row_number="24" isdata="1">דין שחייבין בחזה ושוק אמר קרא וזה יהיה משפט הכהנים זה אין מידי</row>
+		<row row_number="25" isdata="1">אחרינא לא אלא טעמא דכתב רחמנא זה הא לאו הכי הוה אמינא חולין</row>
+		<row row_number="26" isdata="1">חייבין בחזה ושוק והא בעי תנופה היכא לינופינהו אי אבראי לפני ה' כתיב</row>
+</amud>
+</daf>
+</masechet>
+</root>

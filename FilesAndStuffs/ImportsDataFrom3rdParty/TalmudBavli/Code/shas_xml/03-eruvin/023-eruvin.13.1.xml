@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:54.137485</dateCreated>
+   <lastModified>2019-12-21 20:28:54.137485</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="13">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>ר"ע אומר על זה ועל זה נחלקו כו' ר"ע</row>
+		<row row_number="2" isdata="1">היינו תנא קמא איכא בינייהו דרב אחלי</row>
+		<row row_number="3" isdata="1">ואיתימא רב יחיאל ולא מסיימי תניא אמר</row>
+		<row row_number="4" isdata="1">ר"ע לא אמר ר' ישמעאל דבר זה אלא אותו</row>
+		<row row_number="5" isdata="1">תלמיד אמר דבר זה והלכה כאותו תלמיד</row>
+		<row row_number="6" isdata="1">הא גופה קשיא אמרת לא א"ר ישמעאל דבר</row>
+		<row row_number="7" isdata="1">זה אלמא לית הלכתא כוותיה והדר אמרת</row>
+		<row row_number="8" isdata="1">הלכה כאותו תלמיד אמר רב יהודה אמר</row>
+		<row row_number="9" isdata="1">שמואל לא אמרה ר' עקיבא אלא לחדד בה</row>
+		<row row_number="10" isdata="1">התלמידים ור"נ בר יצחק אמר נראין איתמר</row>
+		<row row_number="11" isdata="1">א"ר יהושע בן לוי כל מקום שאתה מוצא</row>
+		<row row_number="12" isdata="1">משום רבי ישמעאל אמר תלמיד אחד לפני</row>
+		<row row_number="13" isdata="1">ר"ע אינו אלא ר"מ ששימש את ר' ישמעאל</row>
+		<row row_number="14" isdata="1">ואת ר"ע דתניא אמר ר"מ כשהייתי אצל</row>
+		<row row_number="15" isdata="1">ר' ישמעאל הייתי מטיל קנקנתום לתוך הדיו</row>
+		<row row_number="16" isdata="1">ולא אמר לי דבר כשבאתי אצל רבי עקיבא</row>
+		<row row_number="17" isdata="1">אסרה עלי איני והאמר רב יהודה אמר</row>
+		<row row_number="18" isdata="1">שמואל משום ר' מאיר כשהייתי לומד אצל</row>
+		<row row_number="19" isdata="1">ר' עקיבא הייתי מטיל קנקנתום לתוך הדיו</row>
+		<row row_number="20" isdata="1">ולא אמר לי דבר וכשבאתי אצל ר' ישמעאל</row>
+		<row row_number="21" isdata="1">אמר לי בני מה מלאכתך אמרתי לו לבלר</row>
+		<row row_number="22" isdata="1">אני אמר לי בני הוי זהיר במלאכתך</row>
+		<row row_number="23" isdata="1">שמלאכתך מלאכת שמים היא שמא אתה</row>
+		<row row_number="24" isdata="1">מחסר אות אחת או מייתר אות אחת נמצאת</row>
+		<row row_number="25" isdata="1">מחריב את כל העולם כולו אמרתי לו דבר</row>
+		<row row_number="26" isdata="1">אחד יש לי וקנקנתום שמו שאני מטיל לתוך</row>
+		<row row_number="27" isdata="1">הדיו אמר לי וכי מטילין קנקנתום לתוך הדיו</row>
+		<row row_number="28" isdata="1">והלא אמרה תורה וכתב ומחה כתב</row>
+		<row row_number="29" isdata="1">שיכול למחות מאי קא"ל ומאי קא מהדר ליה</row>
+		<row row_number="30" isdata="1">הכי קא"ל לא מיבעיא בחסירות וביתירות</row>
+		<row row_number="31" isdata="1">[דלא טעינא] דבקי אנא אלא אפילו מיחש</row>
+		<row row_number="32" isdata="1">לזבוב נמי דילמא אתי ויתיב אתגיה דדל"ת</row>
+		<row row_number="33" isdata="1">ומחיק ליה ומשוי ליה רי"ש דבר אחד יש לי</row>
+		<row row_number="34" isdata="1">וקנקנתום שמו שאני מטיל לתוך הדיו קשיא</row>
+		<row row_number="35" isdata="1">שימוש אשימוש קשיא אסרה אאסרה בשלמא שימוש אשימוש לא קשיא</row>
+		<row row_number="36" isdata="1">מעיקרא אתא לקמיה דר"ע ומדלא מצי למיקם אליביה אתא לקמיה דרבי</row>
+		<row row_number="37" isdata="1">ישמעאל וגמר גמרא והדר אתא לקמיה דר"ע וסבר סברא אלא אסרה אאסרה</row>
+		<row row_number="38" isdata="1">קשיא קשיא תניא רבי יהודה אומר ר"מ היה אומר לכל מטילין קנקנתום</row>
+		<row row_number="39" isdata="1">לתוך הדיו חוץ מפרשת סוטה ורבי יעקב אומר משמו חוץ מפרשת סוטה</row>
+		<row row_number="40" isdata="1">שבמקדש מאי בינייהו אמר רב ירמיה למחוק לה מן התורה איכא בינייהו</row>
+		<row row_number="41" isdata="1">והני תנאי כי הני תנאי דתניא אין מגילתה כשירה להשקות בה סוטה</row>
+		<row row_number="42" isdata="1">אחרת ר' אחי בר יאשיה אמר מגילתה כשירה להשקות בה סוטה אחרת</row>
+		<row row_number="43" isdata="1">אמר רב פפא דילמא לא היא עד כאן לא קאמר ת"ק התם אלא כיון</row>
+		<row row_number="44" isdata="1">דאינתיק לשום רחל תו לא הדרא מינתקא לשום לאה אבל גבי תורה</row>
+		<row row_number="45" isdata="1">דסתמא מיכתבא הכי נמי דמחקינן אמר רב נחמן בר יצחק דילמא</row>
+		<row row_number="46" isdata="1">לא היא עד כאן לא קאמר רבי אחי בר יאשיה התם אלא דאיכתיב מיהת</row>
+		<row row_number="47" isdata="1">לשום סוטה בעולם אבל גבי תורה דלהתלמד כתיבא הכי נמי דלא מחקינן</row>
+		<row row_number="48" isdata="1">ולית ליה לרבי אחי בר יאשיה הא דתנן כתב [גט] לגרש את אשתו</row>
+</amud>
+</daf>
+</masechet>
+</root>

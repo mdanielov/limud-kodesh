@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:56.313417</dateCreated>
+   <lastModified>2019-12-21 20:28:56.313417</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="37">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>אומר שני לוגין שאני עתיד להפריש הרי</row>
+		<row row_number="2" isdata="1">הן תרומה עשרה מעשר ראשון תשעה</row>
+		<row row_number="3" isdata="1">מעשר שני ומיחל ושותה מיד דברי ר"מ</row>
+		<row row_number="4" isdata="1">ר' יהודה ור' יוסי ור' שמעון אוסרין עולא</row>
+		<row row_number="5" isdata="1">אמר ליתא לאיו ממתני' ואלא הא דקתני</row>
+		<row row_number="6" isdata="1">ר' יהודה ורבי יוסי ורבי שמעון אוסרין עולא</row>
+		<row row_number="7" isdata="1">זוזי זוזי קתני דברי רבי מאיר ור' יהודה</row>
+		<row row_number="8" isdata="1">ר' יוסי ור' שמעון אוסרין וסבר ר' יוסי אין</row>
+		<row row_number="9" isdata="1">ברירה והתנן רבי יוסי אומר שתי נשים</row>
+		<row row_number="10" isdata="1">שלקחו את קיניהן בעירוב או שנתנו קיניהן</row>
+		<row row_number="11" isdata="1">לכהן איזהו שירצה כהן יקריב עולה ולאיזה</row>
+		<row row_number="12" isdata="1">שירצה יקריב חטאת אמר רבה התם כשהתנו</row>
+		<row row_number="13" isdata="1">אי הכי מאי למימרא קמ"ל כדרב חסדא</row>
+		<row row_number="14" isdata="1">דאמר רב חסדא אין הקינין מתפרשות</row>
+</amud>
+</daf>
+</masechet>
+</root>

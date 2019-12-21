@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:15.374401</dateCreated>
+   <lastModified>2019-12-21 20:29:15.374401</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="99">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שהיה טמא "/><ContGemara/>מכאן אמרו חכמים יפה שתיקה לחכמים</row>
+		<row row_number="2" isdata="1">קל וחומר לטפשים שנאמר אויל מחריש</row>
+		<row row_number="3" isdata="1">חכם יחשב שנים שנתערבו פסחיהם וכו'</row>
+		<row row_number="4" isdata="1">לימא מתניתין דלא כר' יהודה דתניא ואם</row>
+		<row row_number="5" isdata="1">ימעט הבית מהיות משה מלמד שמתמעטין</row>
+		<row row_number="6" isdata="1">והולכין ובלבד שיהא אחד מבני חבורה</row>
+		<row row_number="7" isdata="1">קיים דברי רבי יהודה רבי יוסי אומר ובלבד</row>
+		<row row_number="8" isdata="1">שלא יניחו את הפסח כמות שהוא א"ר יוחנן</row>
+		<row row_number="9" isdata="1">אפילו תימא רבי יהודה כיון דאמר רבי</row>
+		<row row_number="10" isdata="1">יהודה אין שוחטין את הפסח על היחיד</row>
+		<row row_number="11" isdata="1">מעיקרא לאמנויי אחרינא בהדיה קאי וכאחד</row>
+		<row row_number="12" isdata="1">מבני חבורה דמי א"ר אשי מתניתין נמי</row>
+		<row row_number="13" isdata="1">דייקא דקתני וכן חמש חבורות של חמשה</row>
+		<row row_number="14" isdata="1">חמשה של חמשה אין אבל של חמשה</row>
+		<row row_number="15" isdata="1">וארבעה לא לאו משום דלא פייש חד מבני</row>
+		<row row_number="16" isdata="1">חבורה גביה שמע מינה<EndChapter name = "מי שהיה טמא "/><EndGemara/></row>
+		<row row_number="17" isdata="0">הדרן עלך מי שהיה טמא וסליקא לה פסח שני</row>
+</amud>
+</daf>
+</masechet>
+</root>

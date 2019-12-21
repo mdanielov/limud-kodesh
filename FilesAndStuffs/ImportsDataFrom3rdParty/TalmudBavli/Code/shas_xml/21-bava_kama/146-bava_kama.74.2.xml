@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:49.318554</dateCreated>
+   <lastModified>2019-12-21 20:30:49.318554</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="74">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מרובה"/><ContGemara/>ניפוק בעינו הפיל את שינו ניפוק בשינו</row>
+		<row row_number="2" isdata="1">סימא את עינו והפיל את שינו ניפוק בעינו</row>
+		<row row_number="3" isdata="1">ושינו אמר אביי עליך אמר קרא תחת עינו</row>
+		<row row_number="4" isdata="1">ולא תחת עינו ושינו תחת שינו ולא תחת</row>
+		<row row_number="5" isdata="1">שינו ועינו אמר רב אידי בר אבין אף אנן</row>
+		<row row_number="6" isdata="1">נמי תנינא גנב ע"פ שנים וטבח ומכר על</row>
+		<row row_number="7" isdata="1">פיהם ונמצאו זוממין משלמין לו את הכל</row>
+		<row row_number="8" isdata="1">מאי לאו דהעידו על הגניבה וחזרו והעידו</row>
+		<row row_number="9" isdata="1">על הטביחה והוזמו על הגניבה וחזרו</row>
+		<row row_number="10" isdata="1">והוזמו על הטביחה והא כיון שהוזמו על</row>
+		<row row_number="11" isdata="1">הגניבה לגבי טביחה הוה להו מוכחשין</row>
+		<row row_number="12" isdata="1">וקתני משלמין לו את הכל ואי ס"ד הכחשה</row>
+		<row row_number="13" isdata="1">לאו תחילת הזמה היא אטביחה אמאי</row>
+		<row row_number="14" isdata="1">משלמין אלא לאו ש"מ הכחשה תחילת</row>
+		<row row_number="15" isdata="1">הזמה היא אמרי הכא במאי עסקינן כגון</row>
+		<row row_number="16" isdata="1">שהוזמו על הטביחה תחילה ובפלוגתא</row>
+		<row row_number="17" isdata="1">עדים שהוכחשו ולבסוף הוזמו ר' יוחנן ור"א</row>
+		<row row_number="18" isdata="1">חד אמר נהרגין וחד אמר אין נהרגין תסתיים</row>
+		<row row_number="19" isdata="1">דר"א הוא דאמר אין נהרגין דאמר ר"א</row>
+		<row row_number="20" isdata="1">עדים שהוכחשו בנפש לוקין ואי ס"ד ר"א</row>
+		<row row_number="21" isdata="1">הוא דאמר נהרגין אמאי לוקין הוה ליה</row>
+		<row row_number="22" isdata="1">לאו שניתן לאזהרת מיתת ב"ד וכל לאו</row>
+		<row row_number="23" isdata="1">שניתן לאזהרת מיתת ב"ד אין לוקין עליו</row>
+		<row row_number="24" isdata="1">אלא לאו ש"מ ר"א הוא דאמר אין נהרגין</row>
+		<row row_number="25" isdata="1">תסתיים לוקין תרי ותרי נינהו מאי חזית</row>
+		<row row_number="26" isdata="1">דסמכת אהני סמוך אהני אמר אביי בבא</row>
+		<row row_number="27" isdata="1">הרוג ברגליומתני' גנב ע"פ שנים וטבח</row>
+		<row row_number="28" isdata="1">ומכר ע"פ עד אחד או ע"פ עצמו משלם</row>
+		<row row_number="29" isdata="1">תשלומי כפל ואינו משלם תשלומי ד' וה'</row>
+		<row row_number="30" isdata="1">גנב וטבח בשבת גנב וטבח לע"ז גנב</row>
+		<row row_number="31" isdata="1">משל אביו ומת אביו ואח"כ טבח ומכר</row>
+		<row row_number="32" isdata="1">גנב והקדיש ואח"כ טבח ומכר משלם</row>
+		<row row_number="33" isdata="1">תשלומי כפל ואינו משלם תשלומי ד' וה'</row>
+		<row row_number="34" isdata="1">ר"ש אומר קדשים שחייב באחריותם</row>
+		<row row_number="35" isdata="1">משלם תשלומי ד' וה' שאין חייב באחריותם</row>
+		<row row_number="36" isdata="1">פטור<EndMishna/><StartGemara/>גמ' על פי עד אחד פשיטא אמרי</row>
+		<row row_number="37" isdata="1">הא קמ"ל ע"פ עצמו דומיא דע"פ עד אחד</row>
+		<row row_number="38" isdata="1">מה ע"פ [עד] אחד כי אתי עד אחד מצטרף</row>
+		<row row_number="39" isdata="1">בהדיה מיחייב ע"פ עצמו נמי כי אתו עדים</row>
+		<row row_number="40" isdata="1">מיחייב לאפוקי מדרב הונא אמר רב דאמר</row>
+		<row row_number="41" isdata="1">רב הונא אמר רב מודה בקנס ואח"כ</row>
+		<row row_number="42" isdata="1">באו עדים פטור גופא אמר רב הונא אמר</row>
+		<row row_number="43" isdata="1">רב מודה בקנס ואח"כ באו עדים פטור</row>
+		<row row_number="44" isdata="1">איתיביה רב חסדא לרב הונא מעשה בר"ג שסימא את עין טבי עבדו והיה</row>
+		<row row_number="45" isdata="1">שמח שמחה גדולה מצאו לר' יהושע אמר לו אי אתה יודע שטבי עבדי יצא</row>
+		<row row_number="46" isdata="1">לחירות אמר לו למה א"ל שסמיתי את עינו אמר לו אין בדבריך כלום שכבר</row>
+		<row row_number="47" isdata="1">אין לו עדים הא יש לו עדים חייב ושמעינן מינה מודה בקנס ואח"כ באו עדים</row>
+		<row row_number="48" isdata="1">חייב א"ל שאני ר"ג דלא בפני ב"ד אודי והא ר' יהושע אב בית דין הוה</row>
+</amud>
+</daf>
+</masechet>
+</root>

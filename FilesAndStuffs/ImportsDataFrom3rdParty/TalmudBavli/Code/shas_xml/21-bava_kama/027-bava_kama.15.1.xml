@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:44.332706</dateCreated>
+   <lastModified>2019-12-21 20:30:44.332706</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="15">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אבות"/><ContGemara/>בני חורין ובני ברית בני חורין למעוטי עבדים</row>
+		<row row_number="2" isdata="1">בני ברית למעוטי עובדי כוכבים וצריכא דאי</row>
+		<row row_number="3" isdata="1">אשמעינן עבד משום דאין לו יחס אבל נכרי</row>
+		<row row_number="4" isdata="1">דיש לו יחס אימא לא ואי אשמעינן נכרי</row>
+		<row row_number="5" isdata="1">משום דלא שייך במצות אבל עבד דשייך</row>
+		<row row_number="6" isdata="1">במצות אימא לא צריכא והנשים בכלל</row>
+		<row row_number="7" isdata="1">הנזק מנהני מילי אמר רב יהודה אמר רב</row>
+		<row row_number="8" isdata="1">וכן תנא דבי ר' ישמעאל אמר קרא איש או</row>
+		<row row_number="9" isdata="1">אשה כי יעשו מכל חטאת השוה הכתוב</row>
+		<row row_number="10" isdata="1">אשה לאיש לכל עונשין שבתורה דבי רבי</row>
+		<row row_number="11" isdata="1">אלעזר תנא ואלה המשפטים אשר תשים</row>
+		<row row_number="12" isdata="1">לפניהם השוה הכתוב אשה לאיש לכל דינין</row>
+		<row row_number="13" isdata="1">שבתורה דבי חזקיה ורבי יוסי הגלילי תנא</row>
+		<row row_number="14" isdata="1">אמר קרא והמית איש או אשה השוה</row>
+		<row row_number="15" isdata="1">הכתוב אשה לאיש לכל מיתות שבתורה</row>
+		<row row_number="16" isdata="1">וצריכי דאי אשמעינן קמייתא התם הוא דחס</row>
+		<row row_number="17" isdata="1">רחמנא עלה כי היכי דתהוי לה כפרה אבל</row>
+		<row row_number="18" isdata="1">דינין איש דבר משא ומתן אין אשה לא ואי</row>
+		<row row_number="19" isdata="1">אשמעינן דינין כי היכי דתיהוי לה חיותא</row>
+		<row row_number="20" isdata="1">אבל כפרה איש דבר מצוה אין אשה דלאו</row>
+		<row row_number="21" isdata="1">בת מצוה לא ואי אשמעינן הני תרתי הכא</row>
+		<row row_number="22" isdata="1">משום כפרה והכא משום חיותא אבל לענין</row>
+		<row row_number="23" isdata="1">קטלא איש דבר מצוה לשלם כופר אשה</row>
+		<row row_number="24" isdata="1">לא ואי אשמעינן כופר משום דאיכא איבוד</row>
+		<row row_number="25" isdata="1">נשמה אבל הני תרתי דליכא איבוד נשמה</row>
+		<row row_number="26" isdata="1">אימא לא צריכא הניזק והמזיק בתשלומין</row>
+		<row row_number="27" isdata="1">אתמר פלגא נזקא רב פפא אמר ממונא רב</row>
+		<row row_number="28" isdata="1">הונא בריה דרב יהושע אמר קנסא רב פפא</row>
+		<row row_number="29" isdata="1">אמר ממונא קסבר סתם שוורים לאו בחזקת</row>
+		<row row_number="30" isdata="1">שימור קיימן ובדין הוא דבעי לשלומי כוליה</row>
+		<row row_number="31" isdata="1">ורחמנא הוא דחס עליה דאכתי לא אייעד</row>
+		<row row_number="32" isdata="1">תוריה רב הונא בריה דרב יהושע אמר קנסא</row>
+		<row row_number="33" isdata="1">קסבר סתם שוורים בחזקת שימור קיימי ובדין</row>
+		<row row_number="34" isdata="1">הוא דלא לשלם כלל ורחמנא הוא דקנסיה כי</row>
+		<row row_number="35" isdata="1">היכי דלנטריה לתוריה תנן הניזק והמזיק</row>
+		<row row_number="36" isdata="1">בתשלומין בשלמא למאן דאמר פלגא נזקא</row>
+		<row row_number="37" isdata="1">ממונא היינו דשייך ניזק בתשלומין אלא</row>
+		<row row_number="38" isdata="1">למ"ד פלגא נזקא קנסא השתא דלאו דידיה</row>
+		<row row_number="39" isdata="1">שקיל בתשלומין איתיה לא נצרכא אלא</row>
+		<row row_number="40" isdata="1">לפחת נבילה פחת נבילה הא תנא ליה</row>
+		<row row_number="41" isdata="1">רישא תשלומי נזק מלמד שהבעלים</row>
+		<row row_number="42" isdata="1">מטפלין בנבילה חדא בתם וחדא במועד וצריכא דאי אשמעינן תם</row>
+		<row row_number="43" isdata="1">משום דאכתי לא אייעד אבל מועד אימא לא ואי אשמעינן מועד משום</row>
+		<row row_number="44" isdata="1">דקא משלם כוליה אבל תם אימא לא צריכא ת"ש מה בין תם למועד</row>
+		<row row_number="45" isdata="1">שהתם משלם חצי נזק מגופו ומועד משלם נזק שלם מן העלייה ואם</row>
+		<row row_number="46" isdata="1">איתא ליתני נמי הא תם אינו משלם ע"פ עצמו מועד משלם ע"פ עצמו</row>
+		<row row_number="47" isdata="1">תנא ושייר מאי שייר דהאי שייר שייר חצי כופר אי משום חצי כופר לאו</row>
+		<row row_number="48" isdata="1">שיורא הוא הא מני רבי יוסי הגלילי היא דאמר תם משלם חצי כופר ת"ש</row>
+</amud>
+</daf>
+</masechet>
+</root>

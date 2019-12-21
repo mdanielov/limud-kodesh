@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:54.482002</dateCreated>
+   <lastModified>2019-12-21 20:29:54.482002</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="22">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד אשת אחיו"/><ContGemara/>מיזקק נמי זקיק ואחיו הוא לכל דבר למאי</row>
+		<row row_number="2" isdata="1">הלכתא ליורשו וליטמא לו פשיטא אחיו</row>
+		<row row_number="3" isdata="1">הוא סד"א הואיל וכתיב כי אם לשארו</row>
+		<row row_number="4" isdata="1">הקרוב אליו ואמר מר שארו זו אשתו</row>
+		<row row_number="5" isdata="1">וכתיב לא יטמא בעל בעמיו להחלו יש</row>
+		<row row_number="6" isdata="1">בעל שמטמא ויש בעל שאין מטמא הא</row>
+		<row row_number="7" isdata="1">כיצד מטמא הוא לאשתו כשרה ואין</row>
+		<row row_number="8" isdata="1">מטמא לאשתו פסולה ה"נ מטמא הוא לאח</row>
+		<row row_number="9" isdata="1">כשר ואין מטמא לאח פסול קמ"ל ואימא</row>
+		<row row_number="10" isdata="1">ה"נ התם לאפוקי קיימא הכא אחיו הוא</row>
+		<row row_number="11" isdata="1">חוץ ממי שיש לו אח מן השפחה ומן</row>
+		<row row_number="12" isdata="1">העובדת כוכבים מ"ט אמר קרא האשה</row>
+		<row row_number="13" isdata="1">וילדיה תהיה לאדוניה מי שיש לו בן מ"מ</row>
+		<row row_number="14" isdata="1">פוטר וכו' מכל מקום לאתויי מאי אמר</row>
+		<row row_number="15" isdata="1">רב יהודה לאיתויי ממזר מאי טעמא דאמר</row>
+		<row row_number="16" isdata="1">קרא ובן אין לו עיין עליו וחייב על</row>
+		<row row_number="17" isdata="1">מכתו אמאי קרי כאן ונשיא בעמך לא</row>
+		<row row_number="18" isdata="1">תאור בעושה מעשה עמך כדאמר רב</row>
+		<row row_number="19" isdata="1">פנחס משמיה דרב פפא בעושה תשובה</row>
+		<row row_number="20" isdata="1">הכא נמי כשעשה תשובה והאי בר תשובה</row>
+		<row row_number="21" isdata="1">הוא והתנן שמעון בן מנסיא אומר איזהו</row>
+		<row row_number="22" isdata="1">מעוות לא יוכל לתקון זה הבא על הערוה</row>
+		<row row_number="23" isdata="1">והוליד ממנה ממזר השתא מיהא עושה</row>
+		<row row_number="24" isdata="1">מעשה עמך הוא תנו רבנן הבא על אחותו</row>
+		<row row_number="25" isdata="1">והיא בת אשת אביו חייב משום אחותו</row>
+		<row row_number="26" isdata="1">ומשום בת אשת אביו רבי יוסי בן יהודה</row>
+		<row row_number="27" isdata="1">אומר אינו חייב אלא משום אחותו בלבד</row>
+		<row row_number="28" isdata="1">ולא מפני בת אשת אביו מאי טעמייהו</row>
+		<row row_number="29" isdata="1">דרבנן אמרי מכדי כתיב ערות אחותך</row>
+		<row row_number="30" isdata="1">בת אביך או בת אמך ערות בת אשת</row>
+		<row row_number="31" isdata="1">אביך מולדת אביך אחותך היא למה לי</row>
+		<row row_number="32" isdata="1">ש"מ לחייבו משום אחותו ומשום בת אשת</row>
+		<row row_number="33" isdata="1">אביו ורבי יוסי בר' יהודה אמר קרא אחותך</row>
+		<row row_number="34" isdata="1">היא משום אחותו אתה מחייבו ואי אתה</row>
+		<row row_number="35" isdata="1">מחייבו משום בת אשת אביו ורבנן האי</row>
+		<row row_number="36" isdata="1">אחותך היא מאי עבדי ליה מיבעי להו</row>
+		<row row_number="37" isdata="1">לחייבו על אחותו בת אביו ובת אמו לומר</row>
+		<row row_number="38" isdata="1">שאין מזהירין מן הדין ורבי יוסי בר' יהודה</row>
+		<row row_number="39" isdata="1">אם כן לכתוב רחמנא אחותך היא למה לי</row>
+		<row row_number="40" isdata="1">משום אחותך אתה מחייבו ואי אתה מחייבו</row>
+		<row row_number="41" isdata="1">משום בת אשת אביו ורבנן אף על גב דכתיב</row>
+		<row row_number="42" isdata="1">אחותך איצטריך למכתב היא שלא תאמר</row>
+		<row row_number="43" isdata="1">בעלמא מזהירין מן הדין וכ"ת אחותך דכתב</row>
+		<row row_number="44" isdata="1">רחמנא למה לי מילתא דאתיא בק"ו טרח</row>
+		<row row_number="45" isdata="1">וכתב לה קרא כתב רחמנא היא ורבי יוסי</row>
+		<row row_number="46" isdata="1">בר' יהודה אם כן ליכתביה רחמנא לאחותך</row>
+		<row row_number="47" isdata="1">היא באידך קרא ור' יוסי בר' יהודה האי בת</row>
+		<row row_number="48" isdata="1">אשת אביך מאי עביד ליה מיבעי ליה מי שיש</row>
+		<row row_number="49" isdata="1">לו אישות לאביך בה פרט לאחותו משפחה</row>
+		<row row_number="50" isdata="1">ועובדת כוכבים שאין אישות לאביך בה ואימא</row>
+		<row row_number="51" isdata="1">פרט לאחותו מאנוסה ההיא לא מצית אמרת</row>
+		<row row_number="52" isdata="1">מדרבא דרבא רמי כתיב ערות בת בנך או</row>
+		<row row_number="53" isdata="1">בת בתך לא תגלה הא בת בנה דידה ובת</row>
+		<row row_number="54" isdata="1">בתה דידה שרי וכתיב ערות אשה ובתה לא תגלה את בת בנה ואת בת בתה הא כיצד כאן באונסין כאן בנשואין</row>
+</amud>
+</daf>
+</masechet>
+</root>

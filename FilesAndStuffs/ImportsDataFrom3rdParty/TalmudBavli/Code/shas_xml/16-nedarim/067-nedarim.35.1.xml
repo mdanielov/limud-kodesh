@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:15.443312</dateCreated>
+   <lastModified>2019-12-21 20:30:15.443312</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="35">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אין בין המודר"/><ContGemara/>איתיביה אמר לו השאילני פרתך אמר לו</row>
+		<row row_number="2" isdata="1">קונם פרה שאני קנוי לך נכסי עליך אם יש</row>
+		<row row_number="3" isdata="1">לי פרה אלא זו השאילני קרדומך אמר לו</row>
+		<row row_number="4" isdata="1">קונם קרדום שיש לי שאני קנוי נכסי עלי</row>
+		<row row_number="5" isdata="1">אם יש לי קרדום אלא זה ונמצא שיש לו</row>
+		<row row_number="6" isdata="1">בחייו אסור מת או שנתנה לו במתנה הרי</row>
+		<row row_number="7" isdata="1">זה מותר א"ר אחא בריה דרב איקא שניתנה</row>
+		<row row_number="8" isdata="1">לו על ידי אחר א"ר אשי דיקא נמי דקתני</row>
+		<row row_number="9" isdata="1">שניתנה לו ולא קתני שנתנה לו בעא מיניה</row>
+		<row row_number="10" isdata="1">רבא מרב נחמן יש מעילה בקונמות או לא</row>
+		<row row_number="11" isdata="1">אמר ליה תניתוה מקום שנוטלין עליה שכר</row>
+		<row row_number="12" isdata="1">תיפול הנאה להקדש למימרא כי הקדש מה</row>
+		<row row_number="13" isdata="1">הקדש יש בו מעילה אף קונמות יש בהן</row>
+		<row row_number="14" isdata="1">מעילה כתנאי קונם ככר זו הקדש ואכלה</row>
+		<row row_number="15" isdata="1">בין הוא ובין חבירו מעל לפיכך יש לה פדיון</row>
+		<row row_number="16" isdata="1">ככר זו עלי להקדש ואכלה הוא מעל חבירו</row>
+		<row row_number="17" isdata="1">לא מעל לפיכך אין לה פדיון דברי ר' מאיר</row>
+		<row row_number="18" isdata="1">וחכ"א בין כך ובין כך לא מעל לפי שאין</row>
+		<row row_number="19" isdata="1">מעילה בקונמות א"ל רב אחא בריה דרב</row>
+		<row row_number="20" isdata="1">אויא לרב אשי ככרי עליך ונתנה לו במתנה</row>
+		<row row_number="21" isdata="1">מי מעל למעול נותן הא לא אסירא עליה</row>
+		<row row_number="22" isdata="1">למעול מקבל יכול דאמר היתירא בעיתי</row>
+		<row row_number="23" isdata="1">איסורא לא בעיתי אמר ליה מקבל מעל</row>
+		<row row_number="24" isdata="1">לכשיוציא שכל המוציא מעות הקדש לחולין</row>
+		<row row_number="25" isdata="1">כסבור של חולין הוא מועל אף זה מועל</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:07.304913</dateCreated>
+   <lastModified>2019-12-21 20:32:07.304913</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="67">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>גלגול הקדש פוטר דתנן הקדישה עיסתה</row>
+		<row row_number="2" isdata="1">עד שלא גלגלה ופדאתה חייבת משגלגלה</row>
+		<row row_number="3" isdata="1">ופדאתה חייבת הקדישה עד שלא גלגלה</row>
+		<row row_number="4" isdata="1">וגלגלה הגזבר ואחר כך פדאתה פטורה</row>
+		<row row_number="5" isdata="1">שבשעת חובתה היתה פטורה בעי רבא</row>
+		<row row_number="6" isdata="1">גלגול עובד כוכבים מאי מיתנא תנן גר</row>
+		<row row_number="7" isdata="1">שנתגייר והיתה לו עיסה נעשה עד שלא</row>
+		<row row_number="8" isdata="1">נתגייר פטור משנתגייר חייב ספק חייב הא</row>
+		<row row_number="9" isdata="1">מאן קתני לה דברי הכל היא ואפי' רבי מאיר</row>
+		<row row_number="10" isdata="1">ורבי יהודה דקמחייבי התם פטרי הכא התם</row>
+		<row row_number="11" isdata="1">הוא דכתיב דגנך דגנך יתירא הוי מיעוט</row>
+		<row row_number="12" isdata="1">אחר מיעוט ואין מיעוט אחר מיעוט אלא</row>
+		<row row_number="13" isdata="1">לרבות אפילו עובדי כוכבים אבל הכא תרי</row>
+		<row row_number="14" isdata="1">זימני עריסותיכם כתיב חד עריסותיכם כדי</row>
+		<row row_number="15" isdata="1">עיסתכם וחד עריסותיכם ולא עיסת עובדי</row>
+		<row row_number="16" isdata="1">כוכבים ולא עיסת הקדש או דלמא רבי יוסי</row>
+		<row row_number="17" isdata="1">ורבי שמעון קתני לה דקא פטרי אבל רבי</row>
+		<row row_number="18" isdata="1">מאיר ורבי יהודה גמרי ראשית ראשית מהתם</row>
+		<row row_number="19" isdata="1">אמר רבא יהא רעוא דאחזיה בחילמא הדר</row>
+		<row row_number="20" isdata="1">אמר רבא מאן דאמר מירוח העובד כוכבים</row>
+		<row row_number="21" isdata="1">פוטר גלגול העובד כוכבים פוטר מאן דאמר</row>
+		<row row_number="22" isdata="1">מירוח העובד כוכבים אינו פוטר גלגול העובד</row>
+		<row row_number="23" isdata="1">כוכבים אינו פוטר איתיביה רב פפא לרבא</row>
+		<row row_number="24" isdata="1">עובד כוכבים שהפריש פטר חמור וחלה</row>
+		<row row_number="25" isdata="1">מודיעים אותו שהוא פטור וחלתו נאכלת</row>
+		<row row_number="26" isdata="1">לזרים ופטר חמור גוזז ועובד בו הא תרומתו</row>
+		<row row_number="27" isdata="1">אסורה והא האי תנא דאמר מירוח העובד</row>
+		<row row_number="28" isdata="1">כוכבים אינו פוטר וגלגול עובד כוכבים פוטר</row>
+		<row row_number="29" isdata="1">ועוד איתיביה רבינא לרבא חלת עובד</row>
+		<row row_number="30" isdata="1">כוכבים בארץ ותרומתו בחוצה לארץ</row>
+		<row row_number="31" isdata="1">מודיעין אותו שהוא פטור חלתו נאכלת לזרים</row>
+		<row row_number="32" isdata="1">ותרומתו אינה מדמעת הא תרומתו בארץ</row>
+		<row row_number="33" isdata="1">אסורה ומדמעת והא האי תנא דאמר מירוח</row>
+		<row row_number="34" isdata="1">העובד כוכבים אינו פוטר גלגול העובד כוכבים</row>
+		<row row_number="35" isdata="1">פוטר מדרבנן גזירה משום בעלי כיסים</row>
+</amud>
+</daf>
+</masechet>
+</root>

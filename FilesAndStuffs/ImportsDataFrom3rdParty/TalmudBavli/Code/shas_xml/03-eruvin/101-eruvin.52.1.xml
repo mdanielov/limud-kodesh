@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:57.824418</dateCreated>
+   <lastModified>2019-12-21 20:28:57.824418</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="52">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>אמר תהא שביתתי בצינתא א"ל אביי מאי</row>
+		<row row_number="2" isdata="1">דעתיך ר"מ ורבי יהודה הלכה כרבי יהודה</row>
+		<row row_number="3" isdata="1">ואמר רב חסדא מחלוקת במקום פלוני והא</row>
+		<row row_number="4" isdata="1">ר"נ ותניא כוותיה א"ל הדרי בי אמר רמי בר</row>
+		<row row_number="5" isdata="1">חמא הרי אמרו שבת יש לו ד"א הנותן את</row>
+		<row row_number="6" isdata="1">עירובו יש לו ד"א או לא אמר רבא ת"ש לא</row>
+		<row row_number="7" isdata="1">אמרו מערבין בפת אלא להקל על העשיר</row>
+		<row row_number="8" isdata="1">שלא יצא ויערב ברגליו ואי אמרת אין לו האי</row>
+		<row row_number="9" isdata="1">להקל להחמיר הוא אפילו הכי ניחא ליה כי</row>
+		<row row_number="10" isdata="1">היכי דלא נטרח וניפוקמתני' מי שיצא</row>
+		<row row_number="11" isdata="1">לילך בעיר שמערבין בה והחזירו חבירו הוא</row>
+		<row row_number="12" isdata="1">מותר לילך וכל בני העיר אסורין דברי רבי</row>
+		<row row_number="13" isdata="1">יהודה ר"מ אומר כל שהוא יכול לערב ולא</row>
+		<row row_number="14" isdata="1">עירב הרי זה חמר גמל<EndMishna/><StartGemara/>גמ' מאי שנא</row>
+		<row row_number="15" isdata="1">איהו ומאי שנא אינהו אמר רב הונא הכא</row>
+		<row row_number="16" isdata="1">במאי עסקינן כגון שיש לו שני בתים וביניהן</row>
+		<row row_number="17" isdata="1">שני תחומי שבת איהו כיון דנפק ליה</row>
+		<row row_number="18" isdata="1">לאורחא הוה ליה עני והני עשירי נינהו תניא</row>
+		<row row_number="19" isdata="1">נמי הכי מי שיש לו שני בתים וביניהן שני</row>
+		<row row_number="20" isdata="1">תחומי שבת כיון שהחזיק בדרך קנה עירוב</row>
+		<row row_number="21" isdata="1">דברי ר' יהודה יתר על כן אמר ר' יוסי בר'</row>
+		<row row_number="22" isdata="1">יהודה אפילו מצאו חבירו ואמר לו לין פה</row>
+		<row row_number="23" isdata="1">עת חמה הוא עת צינה הוא למחר משכים</row>
+		<row row_number="24" isdata="1">והולך אמר רבה לומר כולי עלמא לא</row>
+		<row row_number="25" isdata="1">פליגי דצריך כי פליגי להחזיק ורב יוסף</row>
+		<row row_number="26" isdata="1">אמר להחזיק דכ"ע לא פליגי דצריך כי פליגי</row>
+		<row row_number="27" isdata="1">לומר כמאן אזלא הא דאמר עולא מי שהחזיק בדרך והחזירו חבירו הרי</row>
+		<row row_number="28" isdata="1">הוא מוחזר ומוחזק אי מוחזר למה מוחזק ואי מוחזק למה מוחזר הכי קאמר</row>
+		<row row_number="29" isdata="1">אע"פ שמוחזר מוחזק כמאן כרב יוסף ואליבא דרבי יוסי ברבי יהודה רב יהודה</row>
+		<row row_number="30" isdata="1">בר אישתתא אייתי ליה כלכלה דפירי לרב נתן בר אושעיא כי הוה</row>
+		<row row_number="31" isdata="1">אזיל שבקיה עד דנחית דרגא אמר ליה בית הכא למחר קדים ואזיל</row>
+</amud>
+</daf>
+</masechet>
+</root>

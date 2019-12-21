@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:16.507196</dateCreated>
+   <lastModified>2019-12-21 20:31:16.507196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="118">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>אלא למאן דאמר לבאי הארץ מאי לרב</row>
+		<row row_number="2" isdata="1">תרבו נחלתו קשיא ואמר ליה רב פפא לאביי</row>
+		<row row_number="3" isdata="1">בשלמא למאן דאמר ליוצאי מצרים היינו</row>
+		<row row_number="4" isdata="1">דקא צווחן בנות צלפחד אלא למ"ד לבאי</row>
+		<row row_number="5" isdata="1">הארץ אמאי צווחן הא ליתיה דלשקול אלא</row>
+		<row row_number="6" isdata="1">לחזרה וליטול בנכסי חפר בשלמא למאן</row>
+		<row row_number="7" isdata="1">דאמר ליוצאי מצרים היינו דקא צווחן בני יוסף</row>
+		<row row_number="8" isdata="1">דכתיב וידברו בני יוסף אלא למאן דאמר</row>
+		<row row_number="9" isdata="1">לבאי הארץ מאי קא צווחי כולהו שקול משום</row>
+		<row row_number="10" isdata="1">טפלים דהוו נפישי להו אמר אביי שמע מינה</row>
+		<row row_number="11" isdata="1">לא הוה חד דלא שקיל דאי סלקא דעתך</row>
+		<row row_number="12" isdata="1">הוה חד דלא שקיל איבעי ליה למצווח וכי</row>
+		<row row_number="13" isdata="1">תימא דצווח ואהני כתביה קרא דצווח ולא</row>
+		<row row_number="14" isdata="1">אהני לא כתביה קרא הא בני יוסף דצווחי ולא</row>
+		<row row_number="15" isdata="1">אהני וכתבינהו קרא התם עצה טובה קא</row>
+		<row row_number="16" isdata="1">משמע לן דאיבעי ליה לאיניש לאיזדהורי</row>
+		<row row_number="17" isdata="1">מעינא בישא והיינו דקאמר להו יהושע</row>
+		<row row_number="18" isdata="1">דכתיב ויאמר אליהם יהושע אם עם רב</row>
+		<row row_number="19" isdata="1">אתה עלה לך היערה אמר להו לכו והחבאו</row>
+		<row row_number="20" isdata="1">עצמכם ביערים שלא תשלוט בכם עין רע</row>
+</amud>
+</daf>
+</masechet>
+</root>

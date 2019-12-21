@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:45.955402</dateCreated>
+   <lastModified>2019-12-21 20:29:45.955402</lastModified>
+ </meta>
+ <masechet name="מגילה" serial="11">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "מגילה נקראת"/><StartMishna/><ContChapter name = "מגילה נקראת"/><ContMishna/>מגילה</row>
+		<row row_number="2" isdata="1">נקראת בי"א בי"ב בי"ג בי"ד בט"ו לא פחות</row>
+		<row row_number="3" isdata="1">ולא יותר כרכין המוקפין חומה מימות</row>
+		<row row_number="4" isdata="1">יהושע בן נון קורין בט"ו כפרים ועיירות</row>
+		<row row_number="5" isdata="1">גדולות קורין בי"ד אלא שהכפרים מקדימין</row>
+		<row row_number="6" isdata="1">ליום הכניסה כיצד חל להיות י"ד בשני</row>
+		<row row_number="7" isdata="1">כפרים ועיירות גדולות קורין בו ביום ומוקפות</row>
+		<row row_number="8" isdata="1">חומה למחר חל להיות בשלישי או ברביעי</row>
+		<row row_number="9" isdata="1">כפרים מקדימין ליום הכניסה ועיירות גדולות</row>
+		<row row_number="10" isdata="1">קורין בו ביום ומוקפות חומה למחר חל</row>
+		<row row_number="11" isdata="1">להיות בחמישי כפרים ועיירות גדולות קורין</row>
+		<row row_number="12" isdata="1">בו ביום ומוקפות חומה למחר חל להיות</row>
+		<row row_number="13" isdata="1">ע"ש כפרים מקדימין ליום הכניסה ועיירות</row>
+		<row row_number="14" isdata="1">גדולות ומוקפות חומה קורין בו ביום חל</row>
+		<row row_number="15" isdata="1">להיות בשבת כפרים ועיירות גדולות מקדימין</row>
+		<row row_number="16" isdata="1">וקורין ליום הכניסה ומוקפות חומה למחר</row>
+		<row row_number="17" isdata="1">חל להיות אחר השבת כפרים מקדימין ליום</row>
+		<row row_number="18" isdata="1">הכניסה ועיירות גדולות קורין בו ביום ומוקפות</row>
+		<row row_number="19" isdata="1">חומה למחר<EndMishna/><StartGemara/>גמ' מגילה נקראת בי"א מנלן</row>
+		<row row_number="20" isdata="1">מנלן כדבעינן למימר לקמן חכמים הקילו</row>
+		<row row_number="21" isdata="1">על הכפרים להיות מקדימין ליום הכניסה</row>
+		<row row_number="22" isdata="1">כדי שיספקו מים ומזון לאחיהם שבכרכים</row>
+		<row row_number="23" isdata="1">אנן הכי קאמרינן מכדי כולהו אנשי כנה"ג</row>
+		<row row_number="24" isdata="1">תקנינהו דאי ס"ד אנשי כנה"ג י"ד וט"ו תקון</row>
+		<row row_number="25" isdata="1">אתו רבנן ועקרי תקנתא דתקינו אנשי כנה"ג</row>
+		<row row_number="26" isdata="1">והתנן אין ב"ד יכול לבטל דברי ב"ד</row>
+		<row row_number="27" isdata="1">חבירו אא"כ גדול ממנו בחכמה ובמנין אלא</row>
+		<row row_number="28" isdata="1">פשיטא כולהו אנשי כנה"ג תקינו היכא</row>
+		<row row_number="29" isdata="1">רמיזא אמר רב שמן בר אבא א"ר יוחנן</row>
+		<row row_number="30" isdata="1">אמר קרא לקיים את ימי הפורים האלה</row>
+		<row row_number="31" isdata="1">בזמניהם זמנים הרבה תקנו להם האי מיבעיא</row>
+		<row row_number="32" isdata="1">ליה לגופיה א"כ לימא קרא זמן מאי זמניהם</row>
+		<row row_number="33" isdata="1">זמנים טובא ואכתי מיבעי ליה זמנו של זה</row>
+		<row row_number="34" isdata="1">לא כזמנו של זה א"כ לימא קרא זמנם מאי</row>
+		<row row_number="35" isdata="1">זמניהם שמעת מינה כולהו אימא זמנים טובא</row>
+		<row row_number="36" isdata="1">זמניהם דומיא דזמנם מה זמנם תרי אף</row>
+		<row row_number="37" isdata="1">זמניהם תרי ואימא תריסר ותליסר כדאמר</row>
+		<row row_number="38" isdata="1">רב שמואל בר יצחק י"ג זמן קהילה לכל היא</row>
+		<row row_number="39" isdata="1">ולא צריך לרבויי הכא נמי י"ג זמן קהילה לכל</row>
+		<row row_number="40" isdata="1">היא ולא צריך לרבויי ואימא שיתסר ושיבסר</row>
+		<row row_number="41" isdata="1">ולא יעבור כתיב ור' שמואל בר נחמני אמר</row>
+		<row row_number="42" isdata="1">אמר קרא כימים אשר נחו בהם היהודים ימים כימים לרבות י"א וי"ב ואימא</row>
+		<row row_number="43" isdata="1">תריסר ותליסר אר"ש בר יצחק י"ג זמן קהילה לכל היא ולא צריך לרבויי ואימא שיתסר ושיבסר ולא יעבור</row>
+		<row row_number="44" isdata="1">כתיב ר"ש בר נחמני מ"ט לא אמר מבזמניהם זמן זמנם זמניהם לא משמע ליה ורב שמן בר אבא מ"ט לא</row>
+		<row row_number="45" isdata="1">אמר מכימים אמר לך ההוא לדורות הוא דכתיב אמר רבה בר בר חנה א"ר יוחנן זו דברי ר"ע סתימתאה</row>
+		<row row_number="46" isdata="1">דדריש זמן זמנם זמניהם אבל חכ"א אין קורין אותה אלא בזמנה מיתיבי א"ר יהודה אימתי בזמן שהשנים</row>
+		<row row_number="47" isdata="1">כתיקנן וישראל שרויין על אדמתן אבל בזמן הזה הואיל ומסתכלין בה אין קורין אותה אלא בזמנה רבי יהודה</row>
+		<row row_number="48" isdata="1">אליבא דמאן אילימא אליבא דר"ע אפילו בזמן הזה איתא להאי תקנתא אלא לאו אליבא דרבנן ובזמן</row>
+		<row row_number="49" isdata="1">שהשנים כתיקנן וישראל שרויין על אדמתן מיהא קרינן תיובתא דרבי יוחנן תיובתא א"ד אמר רבה בר</row>
+		<row row_number="50" isdata="1">בר חנה אמר ר' יוחנן זו דברי ר"ע סתימתאה אבל חכמים אמרו בזמן הזה הואיל ומסתכלין בה אין קורין</row>
+		<row row_number="51" isdata="1">אותה אלא בזמנה תניא נמי הכי אמר רבי יהודה אימתי בזמן שהשנים כתיקנן וישראל שרויין על אדמתן</row>
+		<row row_number="52" isdata="1">אבל בזמן הזה הואיל ומסתכלין בה אין קורין אותה אלא בזמנה רב אשי קשיא ליה דר' יהודה אדר' יהודה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:13.220199</dateCreated>
+   <lastModified>2019-12-21 20:31:13.220199</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="87">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContGemara/>והתנן הרכינה ומיצה הרי זו תרומה א"ל הא</row>
+		<row row_number="2" isdata="1">איתמר עלה אמר רבי אבהו משום יאוש</row>
+		<row row_number="3" isdata="1">בעלים נגעו בה והחנווני אינו חייב להטיף</row>
+		<row row_number="4" isdata="1">וכו' איבעיא להו רבי יהודה ארישא קאי</row>
+		<row row_number="5" isdata="1">ולקולא או דלמא אסיפא קאי ולחומרא</row>
+		<row row_number="6" isdata="1">ת"ש דתניא רבי יהודה אומר ערב שבת עם</row>
+		<row row_number="7" isdata="1">חשכה חנווני פטור מפני שחנווני טרוד</row>
+		<row row_number="8" isdata="1"><EndGemara/><StartMishna/>מתני' השולח את בנו אצל חנווני (ופונדיון</row>
+		<row row_number="9" isdata="1">בידו) ומדד לו באיסר שמן ונתן לו את האיסר</row>
+		<row row_number="10" isdata="1">שבר את הצלוחית ואבד את האיסר חנווני</row>
+		<row row_number="11" isdata="1">חייב רבי יהודה פוטר שעל מנת כן שלחו</row>
+		<row row_number="12" isdata="1">ומודים חכמים לר' יהודה בזמן שהצלוחית ביד</row>
+		<row row_number="13" isdata="1">התינוק ומדד חנווני לתוכה שחנווני פטור</row>
+		<row row_number="14" isdata="1"><EndMishna/><StartGemara/>גמ' בשלמא באיסר ושמן בהא פליגי דרבנן</row>
+		<row row_number="15" isdata="1">סברי לאודועי שדריה ור' יהודה סבר לשדורי</row>
+		<row row_number="16" isdata="1">ליה שדרי' אלא שבר צלוחית אבדה מדעת</row>
+		<row row_number="17" isdata="1">היא אמר רב הושעיא הכא בבעל הבית מוכר</row>
+		<row row_number="18" isdata="1">צלוחיות עסקינן וכגון שנטלה חנווני על מנת</row>
+		<row row_number="19" isdata="1">לבקרה וכדשמואל דאמר שמואל הנוטל</row>
+		<row row_number="20" isdata="1">כלי מן האומן על מנת לבקרו ונאנס בידו</row>
+		<row row_number="21" isdata="1">חייב לימא דשמואל תנאי היא אלא רבה</row>
+		<row row_number="22" isdata="1">ורב יוסף דאמרי תרוייהו הכא בחנווני</row>
+		<row row_number="23" isdata="1">מוכר צלוחיות עסקינן ואזדא רבי יהודה</row>
+		<row row_number="24" isdata="1">לטעמיה ורבנן לטעמייהו אי הכי אימא סיפא</row>
+		<row row_number="25" isdata="1">מודים חכמים לר' יהודה בזמן שהצלוחית ביד</row>
+		<row row_number="26" isdata="1">התינוק ומדד חנווני לתוכה שחנווני פטור והא</row>
+		<row row_number="27" isdata="1">אמרת לאודועי שדריה אלא אביי בר אבין ור'</row>
+		<row row_number="28" isdata="1">חנינא בר אבין דאמרי תרוייהו הכא במאי עסקינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

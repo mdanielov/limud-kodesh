@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:19.530215</dateCreated>
+   <lastModified>2019-12-21 20:32:19.530215</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="75">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContGemara/>בשחיטה יבישתא ודלא כרבי שמעון מאן תנא</row>
+		<row row_number="2" isdata="1">עבר בנהר הוכשר הלך לבית הקברות</row>
+		<row row_number="3" isdata="1">נטמא אמר רבי יוחנן רבי יוסי הגלילי היא</row>
+		<row row_number="4" isdata="1">דתניא רבי שמעון בן אלעזר אומר משום</row>
+		<row row_number="5" isdata="1">רבי יוסי הגלילי מטמא טומאת אוכלים וצריך</row>
+		<row row_number="6" isdata="1">הכשר וחכמים אומרים אינו מטמא טומאת</row>
+		<row row_number="7" isdata="1">אוכלין מפני שהוא חי וכל שהוא חי אינו</row>
+		<row row_number="8" isdata="1">מטמא טומאת אוכלין ואזדא רבי יוחנן</row>
+		<row row_number="9" isdata="1">לטעמיה דאמר רבי יוחנן רבי יוסי הגלילי</row>
+		<row row_number="10" isdata="1">וב"ש אמרו דבר אחד רבי יוסי הגלילי הא</row>
+		<row row_number="11" isdata="1">דאמרן ב"ש דתנן דגים מאימתי מקבלין</row>
+		<row row_number="12" isdata="1">טומאה ב"ש אומרים משיצודו וב"ה אומרים</row>
+		<row row_number="13" isdata="1">משימותו רבי עקיבא אומר משעה שאין</row>
+		<row row_number="14" isdata="1">יכולין לחיות מאי בינייהו אמר רבי יוחנן דג</row>
+		<row row_number="15" isdata="1">מקרטע איכא בינייהו בעי רב חסדא נולדו</row>
+		<row row_number="16" isdata="1">בדגים סימני טרפה מהו תיבעי למ"ד טרפה</row>
+		<row row_number="17" isdata="1">חיה ותיבעי למ"ד טרפה אינה חיה תיבעי</row>
+		<row row_number="18" isdata="1">למ"ד טרפה חיה בהמה הוא דנפישא חיותה</row>
+		<row row_number="19" isdata="1">אבל דגים דלא נפישא חיותייהו לא או דילמא</row>
+		<row row_number="20" isdata="1">אפי' למ"ד טרפה אינה חיה הני מילי בהמה</row>
+		<row row_number="21" isdata="1">דיש במינה שחיטה אבל דגים דאין במינן</row>
+		<row row_number="22" isdata="1">שחיטה (אימא) לא תיקו הטילה נפל רבי</row>
+		<row row_number="23" isdata="1">יוחנן אמר חלבו כחלב בהמה ורבי שמעון</row>
+		<row row_number="24" isdata="1">בן לקיש אמר חלבו כחלב חיה רבי יוחנן</row>
+		<row row_number="25" isdata="1">אמר חלבו כחלב בהמה אוירא גרים רבי</row>
+		<row row_number="26" isdata="1">שמעון בן לקיש אמר חלבו כחלב חיה</row>
+		<row row_number="27" isdata="1">חדשים גרמי איכא דאמרי כל היכא דלא</row>
+		<row row_number="28" isdata="1">כלו לו חדשיו לא כלום הוא כי פליגי היכא</row>
+		<row row_number="29" isdata="1">דהושיט ידו למעי בהמה ותלש חלב של</row>
+		<row row_number="30" isdata="1">בן ט' חי ואכל רבי יוחנן אמר חלבו כחלב</row>
+		<row row_number="31" isdata="1">בהמה חדשים גרמי רבי שמעון בן לקיש</row>
+		<row row_number="32" isdata="1">אמר חלבו כחלב חיה חדשים ואוירא גרמי</row>
+		<row row_number="33" isdata="1">איתיביה ר' יוחנן לרבי שמעון בן לקיש מה</row>
+		<row row_number="34" isdata="1">חלב ושתי כליות האמורות באשם מוצא</row>
+		<row row_number="35" isdata="1">מכלל שליל אף כל מוצא מכלל שליל</row>
+		<row row_number="36" isdata="1">בשלמא לדידי היינו דאיצטריך קרא למעוטי</row>
+		<row row_number="37" isdata="1">אלא לדידך אמאי איצטריך אמר ליה טעמא</row>
+		<row row_number="38" isdata="1">דידי נמי מהכא ואיכא דאמרי איתיביה רבי</row>
+		<row row_number="39" isdata="1">שמעון בן לקיש לרבי יוחנן מה חלב ושתי</row>
+		<row row_number="40" isdata="1">כליות האמורות באשם מוצא מכלל שליל</row>
+		<row row_number="41" isdata="1">אף כל מוצא מכלל שליל בשלמא לדידי</row>
+		<row row_number="42" isdata="1">משום הכי מיעטיה רחמנא אלא לדידך</row>
+		<row row_number="43" isdata="1">ליקרב א"ל מידי דהוה אמחוסר זמן אמר רבי</row>
+		<row row_number="44" isdata="1">אמי השוחט את הטרפה ומצא בה בן ט' חי</row>
+		<row row_number="45" isdata="1">לדברי האוסר מתיר לדברי המתיר אוסר רבא</row>
+		<row row_number="46" isdata="1">אמר לדברי המתיר נמי מותר ד' סימנין</row>
+		<row row_number="47" isdata="1">אכשר ביה רחמנא אמר רב חסדא השוחט את הטרפה ומצא בה בן ט' חי</row>
+</amud>
+</daf>
+</masechet>
+</root>

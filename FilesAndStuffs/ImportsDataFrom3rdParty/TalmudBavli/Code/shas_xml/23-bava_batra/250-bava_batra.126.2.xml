@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:17.631198</dateCreated>
+   <lastModified>2019-12-21 20:31:17.631198</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="126">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>מר סבר לא עשה כלום בפלגא ומר סבר</row>
+		<row row_number="2" isdata="1">בכולהו שלחו מתם בכור שמכר קודם</row>
+		<row row_number="3" isdata="1">חלוקה לא עשה כלום אלמא אין לו לבכור</row>
+		<row row_number="4" isdata="1">קודם חלוקה והלכתא יש לבכור קודם</row>
+		<row row_number="5" isdata="1">חלוקה מר זוטרא מדרישבא פלג בצנא</row>
+		<row row_number="6" isdata="1">דפלפלי בהדי אחין בשוה אתא לקמיה דרב</row>
+		<row row_number="7" isdata="1">אשי אמר ליה הואיל ויתרתה במקצת</row>
+		<row row_number="8" isdata="1">ויתרתה בכל הנכסים כולןמתני'</row>
+		<row row_number="9" isdata="1">האומר איש פלוני בני בכור לא יטול פי</row>
+		<row row_number="10" isdata="1">שנים איש פלוני בני לא יירש עם אחיו לא</row>
+		<row row_number="11" isdata="1">אמר כלום שהתנה על מה שכתוב בתורה</row>
+		<row row_number="12" isdata="1">המחלק נכסיו על פיו ריבה לאחד ומיעט</row>
+		<row row_number="13" isdata="1">לאחד והשוה להן את הבכור דבריו קיימין</row>
+		<row row_number="14" isdata="1">ואם אמר משום ירושה לא אמר כלום כתב</row>
+		<row row_number="15" isdata="1">בין בתחלה בין באמצע בין בסוף משום</row>
+		<row row_number="16" isdata="1">מתנה דבריו קיימין<EndMishna/><StartGemara/>גמ' לימא מתניתין</row>
+		<row row_number="17" isdata="1">דלא כר' יהודה דאי ר' יהודה האמר בדבר</row>
+		<row row_number="18" isdata="1">של ממון תנאו קיים דתניא האומר לאשה</row>
+		<row row_number="19" isdata="1">הרי את מקודשת לי על מנת שאין ליך עלי</row>
+		<row row_number="20" isdata="1">שאר כסות ועונה הרי זו מקודשת ותנאו</row>
+		<row row_number="21" isdata="1">בטל דברי ר' מאיר ר' יהודה אומר בדבר</row>
+		<row row_number="22" isdata="1">של ממון תנאו קיים אפי' תימא ר' יהודה</row>
+		<row row_number="23" isdata="1">התם ידעה וקא מחלה הכא לא קא מחיל</row>
+		<row row_number="24" isdata="1">אמר רב יוסף אמר איש פלוני בני בכורי</row>
+		<row row_number="25" isdata="1">הוא נוטל פי שנים איש פלוני בכור הוא</row>
+		<row row_number="26" isdata="1">אינו נוטל פי שנים דלמא בוכרא דאמא</row>
+		<row row_number="27" isdata="1">קאמר ההוא דאתא לקמיה דרבה בר</row>
+		<row row_number="28" isdata="1">בר חנה א"ל מוחזקני בזה שהוא בכור א"ל</row>
+		<row row_number="29" isdata="1">מנא ידעת דהוה קרי ליה אבוה בוכרא</row>
+		<row row_number="30" isdata="1">סכלא דלמא בוכרא דאמא הוא דכל</row>
+		<row row_number="31" isdata="1">בוכרא דאמא נמי בוכרא סכלא קארו</row>
+		<row row_number="32" isdata="1">ליה ההוא דאתא לקמיה דרבי חנינא אמר ליה מוחזקני בזה שהוא בכור</row>
+		<row row_number="33" isdata="1">אמר ליה מנא ידעת אמר ליה דכי הוו אתו לגבי אבוה אמר להו זילו לגבי</row>
+		<row row_number="34" isdata="1">שכחת ברי דבוכרא הוא ומסי רוקיה ודלמא בוכרא דאמא הוא גמירי בוכרא</row>
+		<row row_number="35" isdata="1">דאבא מסי רוקיה בוכרא דאמא לא מסי רוקיה אמר ר' אמי טומטום שנקרע</row>
+		<row row_number="36" isdata="1">ונמצא זכר אינו נוטל פי שנים דאמר קרא והיה הבן הבכור לשניאה עד</row>
+		<row row_number="37" isdata="1">שיהא בן משעת הויה רב נחמן בר יצחק אמר אף אינו נידון כבן סורר ומורה</row>
+		<row row_number="38" isdata="1">דאמר קרא כי יהיה לאיש בן סורר ומורה עד שיהא בן משעת הויה</row>
+</amud>
+</daf>
+</masechet>
+</root>

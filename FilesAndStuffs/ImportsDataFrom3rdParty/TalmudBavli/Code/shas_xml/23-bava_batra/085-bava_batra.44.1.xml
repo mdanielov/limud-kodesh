@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:09.525236</dateCreated>
+   <lastModified>2019-12-21 20:31:09.525236</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="44">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>ולוקמה בגזלן משום דקא בעי למיתנא סיפא</row>
+		<row row_number="2" isdata="1">מכר לו פרה מכר לו טלית דדוקא מכר דהוה</row>
+		<row row_number="3" isdata="1">ליה יאוש ושינוי רשות אבל לא מכר דהדרא</row>
+		<row row_number="4" isdata="1">ליה לא תנא רישא נמי מכר וסיפא נמי נהי</row>
+		<row row_number="5" isdata="1">דמייאש מגופיה מדמיה מי מייאש לא צריכא</row>
+		<row row_number="6" isdata="1">דמית גזלן דתנן הגוזל ומאכיל את בניו</row>
+		<row row_number="7" isdata="1">והניח לפניהם פטורים מלשלם ולוקמה ביורש</row>
+		<row row_number="8" isdata="1">הניחא למאן דאמר רשות יורש לאו כרשות</row>
+		<row row_number="9" isdata="1">לוקח דמי שפיר אלא למאן דאמר רשות יורש</row>
+		<row row_number="10" isdata="1">כרשות לוקח דמי מאי איכא למימר ועוד קשיא</row>
+		<row row_number="11" isdata="1">ליה לאביי מפני שאחריותו עליו ואין אחריותו</row>
+		<row row_number="12" isdata="1">עליו מפני שהיא חוזרת לו ואינה חוזרת לו</row>
+		<row row_number="13" isdata="1">מיבעי ליה אלא כדרבין בר שמואל דאמר</row>
+		<row row_number="14" isdata="1">רבין בר שמואל משמיה דשמואל המוכר</row>
+		<row row_number="15" isdata="1">שדה לחבירו שלא באחריות אין מעיד לו</row>
+		<row row_number="16" isdata="1">עליה מפני שמעמידה בפני בעל חובו ודוקא</row>
+		<row row_number="17" isdata="1">בית או שדה אבל פרה וטלית לא מיבעיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

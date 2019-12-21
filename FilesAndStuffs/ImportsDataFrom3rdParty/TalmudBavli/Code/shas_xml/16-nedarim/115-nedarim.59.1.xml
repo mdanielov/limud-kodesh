@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:17.328486</dateCreated>
+   <lastModified>2019-12-21 20:30:17.328486</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="59">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הנודר מן הירק"/><ContGemara/>אמרי מעשר דיגון הוא דקא גרים ליה מתיב</row>
+		<row row_number="2" isdata="1">רמי בר חמא קונם פירות האלו עלי קונם</row>
+		<row row_number="3" isdata="1">הן על פי קונם הן לפי אסור בחילופיהן</row>
+		<row row_number="4" isdata="1">ובגידוליהן שאני אוכל ושאני טועם מותר</row>
+		<row row_number="5" isdata="1">בחילופיהן ובגידוליהן בדבר שזרעו כלה</row>
+		<row row_number="6" isdata="1">אבל בדבר שאין זרעו כלה אפילו גידולי</row>
+		<row row_number="7" isdata="1">גידולין אסורין אמר רבי אבא שאני קונמות</row>
+		<row row_number="8" isdata="1">הואיל ואי בעי מתשיל עלייהו הוו להו כדבר</row>
+		<row row_number="9" isdata="1">שיש לו מתירין ואין בטיל ברוב והרי תרומה</row>
+		<row row_number="10" isdata="1">דאי בעי מיתשיל עלה ובטלי ברוב דתנן</row>
+		<row row_number="11" isdata="1">סאה תרומה טמאה שנפלה לפחות ממאה</row>
+		<row row_number="12" isdata="1">חולין תרקב הא למאה תעלה אמרי בתרומה</row>
+		<row row_number="13" isdata="1">ביד כהן עסקינן דלא מצי מיתשיל עלה אי</row>
+		<row row_number="14" isdata="1">הכי אימא סיפא אם היתה טהורה תמכר</row>
+		<row row_number="15" isdata="1">לכהן אלא בישראל שנפלו לו מבית אבי</row>
+		<row row_number="16" isdata="1">אמו כהן עסקינן [והא] קתני סיפא תימכר</row>
+		<row row_number="17" isdata="1">לכהן חוץ מדמי אותה סאה אלא אימא</row>
+		<row row_number="18" isdata="1">בשלמא קונמות מצוה לאיתשולי עליהן</row>
+		<row row_number="19" isdata="1">משום דרבי נתן דאמר רבי נתן כל הנודר</row>
+		<row row_number="20" isdata="1">כאילו בנה במה והמקיימו כאילו מקטיר</row>
+		<row row_number="21" isdata="1">עליה תרומה מאי מצוה לאיתשולי</row>
+		<row row_number="22" isdata="1">עלה גופא אמר רבי יוחנן ליטרא בצלים</row>
+		<row row_number="23" isdata="1">שתיקנה וזרעה מתעשרת לפי כולה יתיב</row>
+		<row row_number="24" isdata="1">רבה וקאמר להא שמעתא אמר ליה רב</row>
+		<row row_number="25" isdata="1">חסדא מאן צאית לך ולר' יוחנן רבך היתר</row>
+		<row row_number="26" isdata="1">שבהן להיכן הלך אמר ליה מי לא תנן דכוותה</row>
+		<row row_number="27" isdata="1">בצלים שירדו עליהם גשמים וצימחו</row>
+</amud>
+</daf>
+</masechet>
+</root>

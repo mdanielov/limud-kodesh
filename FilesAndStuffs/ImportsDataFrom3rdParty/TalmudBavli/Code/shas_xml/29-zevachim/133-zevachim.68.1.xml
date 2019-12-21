@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:56.693910</dateCreated>
+   <lastModified>2019-12-21 20:31:56.693910</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="68">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חטאת העוף"/><ContGemara/>צריכה שתביא עוד חמש פרידין למעלה</row>
+		<row row_number="2" isdata="1">ממין אחד ומב' מינין תביא שש נתנתן</row>
+		<row row_number="3" isdata="1">לכהן ואינה יודעת מה נתנה הלך הכהן ועשה</row>
+		<row row_number="4" isdata="1">ואינו יודע מה עשה צריכה ד' פרידין לנדרה</row>
+		<row row_number="5" isdata="1">ושתים לחובתה וחטאת אחת בן עזאי אומר</row>
+		<row row_number="6" isdata="1">ב' חטאות א"ר יהושע זהו שאמרו כשהוא חי</row>
+		<row row_number="7" isdata="1">קולו אחד וכשהוא מת קולו ז' אימר דא"ר</row>
+		<row row_number="8" isdata="1">יהושע לאפוקה מידי מעילה למיסק ליה</row>
+		<row row_number="9" isdata="1">לחובה מי אמרמתני' (כל הפסולין</row>
+		<row row_number="10" isdata="1">שמלקו מליקתן פסולה ואינו מטמא בבית</row>
+		<row row_number="11" isdata="1">הבליעה) מלק בשמאל או בלילה שחט</row>
+		<row row_number="12" isdata="1">חולין בפנים וקדשים בחוץ אינן</row>
+		<row row_number="13" isdata="1">מטמאות בבית הבליעה מלק</row>
+		<row row_number="14" isdata="1">בסכין מלק חולין בפנים וקדשים בחוץ</row>
+</amud>
+</daf>
+</masechet>
+</root>

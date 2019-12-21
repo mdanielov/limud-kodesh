@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:57.724636</dateCreated>
+   <lastModified>2019-12-21 20:30:57.724636</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="33">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו מציאות"/><ContGemara/>בימי רבי נשנית משנה זו שבקו כולא עלמא</row>
+		<row row_number="2" isdata="1">מתניתין ואזלו בתר גמרא הדר דרש להו</row>
+		<row row_number="3" isdata="1">ולעולם הוי רץ למשנה יותר מן הגמרא מאי</row>
+		<row row_number="4" isdata="1">דרוש כדדריש רבי יהודה ברבי אלעאי מאי</row>
+		<row row_number="5" isdata="1">דכתיב הגד לעמי פשעם ולבית יעקב חטאתם</row>
+		<row row_number="6" isdata="1">הגד לעמי פשעם אלו תלמידי חכמים ששגגות</row>
+		<row row_number="7" isdata="1">נעשות להם כזדונות ולבית יעקב חטאתם אלו</row>
+		<row row_number="8" isdata="1">עמי הארץ שזדונות נעשות להם כשגגות</row>
+		<row row_number="9" isdata="1">והיינו דתנן ר' יהודה אומר הוי זהיר בתלמוד</row>
+		<row row_number="10" isdata="1">ששגגת תלמוד עולה זדון דרש ר' יהודה בר'</row>
+		<row row_number="11" isdata="1">אלעאי מאי דכתיב שמעו דבר ה' החרדים</row>
+		<row row_number="12" isdata="1">אל דברו אלו תלמידי חכמים [אמרו] אחיכם</row>
+		<row row_number="13" isdata="1">אלו בעלי מקרא שנאיכם אלו בעלי משנה</row>
+		<row row_number="14" isdata="1">מנדיכם אלו עמי הארץ שמא תאמר פסק</row>
+		<row row_number="15" isdata="1">סברם ובטל סיכוים ת"ל ונראה בשמחתכם</row>
+		<row row_number="16" isdata="1">שמא תאמר ישראל יבושו תלמוד לומר והם</row>
+		<row row_number="17" isdata="1">יבושו עובדי כוכבים יבושו וישראל ישמחו<EndChapter name = "אלו מציאות"/><EndGemara/></row>
+		<row row_number="18" isdata="0">הדרן עלך אלו מציאות</row>
+		<row row_number="19" isdata="1"><StartChapter name = "המפקיד"/><StartMishna/>המפקיד אצל חבירו בהמה או כלים</row>
+		<row row_number="20" isdata="1">ונגנבו או שאבדו שילם ולא רצה</row>
+		<row row_number="21" isdata="1">לישבע שהרי אמרו שומר חנם נשבע ויוצא</row>
+		<row row_number="22" isdata="1">נמצא הגנב משלם תשלומי כפל טבח ומכר</row>
+		<row row_number="23" isdata="1">משלם תשלומי ארבעה וחמשה למי משלם</row>
+		<row row_number="24" isdata="1">למי שהפקדון אצלו נשבע ולא רצה לשלם</row>
+		<row row_number="25" isdata="1">נמצא הגנב משלם תשלומי כפל טבח ומכר</row>
+		<row row_number="26" isdata="1">משלם תשלומי ארבעה וחמשה למי משלם</row>
+		<row row_number="27" isdata="1">לבעל הפקדון<EndMishna/><StartGemara/>גמ' למה ליה למתני בהמה</row>
+		<row row_number="28" isdata="1">ולמה ליה למתני כלים צריכי דאי תנא</row>
+		<row row_number="29" isdata="1">בהמה הוה אמינא בהמה הוא דמקני ליה</row>
+		<row row_number="30" isdata="1">כפילא משום דנפיש טירחה לעיולה ולאפוקה</row>
+		<row row_number="31" isdata="1">אבל כלים דלא נפיש טירחייהו אימא לא</row>
+		<row row_number="32" isdata="1">מקני ליה כפילא ואי תנא כלים הוה אמינא</row>
+		<row row_number="33" isdata="1">כלים הוא דקמקני ליה כפילא משום דלא</row>
+		<row row_number="34" isdata="1">נפיש כפלייהו אבל בהמה דכי טבח ומכר</row>
+		<row row_number="35" isdata="1">משלם תשלומי ד' וה' אימא לא מקני ליה</row>
+		<row row_number="36" isdata="1">כפילא צריכא מתקיף לה רמי בר חמא והא</row>
+		<row row_number="37" isdata="1">אין אדם מקנה דבר שלא בא לעולם ואפילו</row>
+		<row row_number="38" isdata="1">לר"מ דאמר אדם מקנה דבר שלא בא לעולם</row>
+		<row row_number="39" isdata="1">ה"מ כגון פירות דקל דעבידי דאתו אבל הכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

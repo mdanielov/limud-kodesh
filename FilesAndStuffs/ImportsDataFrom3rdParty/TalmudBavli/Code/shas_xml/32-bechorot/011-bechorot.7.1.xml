@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:28.179816</dateCreated>
+   <lastModified>2019-12-21 20:32:28.179816</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="7">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר חמורו"/><ContGemara/>אישתני מגמל שפיר דמי או דלמא לא שנא</row>
+		<row row_number="2" isdata="1">ת"ש בהמה טהורה שילדה מין בהמה טמאה</row>
+		<row row_number="3" isdata="1">אסור באכילה ואם דומה ראשו ורובו לאמו</row>
+		<row row_number="4" isdata="1">חייב בבכורה שמע מינה לאכילה נמי בעי ר'</row>
+		<row row_number="5" isdata="1">שמעון ראשו ורובו לא לבכורה דוקא דיקא</row>
+		<row row_number="6" isdata="1">נמי דקא שבקה לאכילה וקם ליה אבכור ש"מ</row>
+		<row row_number="7" isdata="1">לבכורה הוא דבעי ר' שמעון ראשו ורובו אבל</row>
+		<row row_number="8" isdata="1">לאכילה לא לעולם אימא לך לאכילה נמי</row>
+		<row row_number="9" isdata="1">בעי ובכורה איצטריך סד"א הואיל וכתיב אך</row>
+		<row row_number="10" isdata="1">בכור שור עד שיהא הוא שור ובכורו שור ולא</row>
+		<row row_number="11" isdata="1">תיסגי ליה בראשו ורובו עד דאיכא כוליה</row>
+		<row row_number="12" isdata="1">קמשמע לן ת"ש אך את זה לא תאכלו</row>
+		<row row_number="13" isdata="1">ממעלי הגרה וממפריסי הפרסה זה אי אתה</row>
+		<row row_number="14" isdata="1">אוכל אבל אתה אוכל הבא בסימן אחד ואי</row>
+		<row row_number="15" isdata="1">זה זה הבא בסימן אחד זה טמא הנולד מן</row>
+		<row row_number="16" isdata="1">הטהור ועבורו מן הטהור יכול אפילו עבורו</row>
+		<row row_number="17" isdata="1">מן הטמא ת"ל שה כשבים ושה עזים עד</row>
+		<row row_number="18" isdata="1">שיהא אביו כבש ואמו כבשה דברי ר' יהושע</row>
+		<row row_number="19" isdata="1">ר' אליעזר אומר לא בא הכתוב להתיר את</row>
+		<row row_number="20" isdata="1">המותר אלא להוסיף על המותר ואיזה זה טמא</row>
+		<row row_number="21" isdata="1">הנולד מן הטהור ועבורו מן הטמא או אינו</row>
+		<row row_number="22" isdata="1">אלא עבורו מן הטהור תלמוד לומר שור</row>
+		<row row_number="23" isdata="1">שה כשבים ושה עזים מכל מקום קרי ליה</row>
+		<row row_number="24" isdata="1">טמא כרבי שמעון וקאמר אבל אתה אוכל</row>
+		<row row_number="25" isdata="1">הבא בסימן אחד האי תנא סבר ליה כוותיה</row>
+		<row row_number="26" isdata="1">בחדא ופליג עליה בחדא ואיכא דמקשי</row>
+		<row row_number="27" isdata="1">ומותיב עבורו מן הטמא מי מעברא והאמר</row>
+		<row row_number="28" isdata="1">ר' יהושע בן לוי לעולם אין מתעברת לא</row>
+		<row row_number="29" isdata="1">טמאה מן הטהור ולא טהורה מן הטמא ולא</row>
+		<row row_number="30" isdata="1">גסה מן הדקה ולא דקה מן הגסה ולא בהמה</row>
+		<row row_number="31" isdata="1">מן חיה ולא חיה מן בהמה חוץ מר' אליעזר</row>
+		<row row_number="32" isdata="1">ומחלוקתו שהיו אומרים חיה מתעברת מבהמה</row>
+		<row row_number="33" isdata="1">וא"ר ירמיה דאיעבר מקלוט בן פרה ואליבא</row>
+		<row row_number="34" isdata="1">דרבי שמעון קאמר וקאמר אבל אתה אוכל</row>
+		<row row_number="35" isdata="1">הבא בסימן אחד האי תנא סבר לה כוותיה</row>
+		<row row_number="36" isdata="1">בחדא ופליג עליה בחדא למימרא דרבי</row>
+		<row row_number="37" isdata="1">אליעזר סבר זה וזה גורם מותר ור' יהושע</row>
+		<row row_number="38" isdata="1">סבר זה וזה גורם אסור והא איפכא שמעינן</row>
+		<row row_number="39" isdata="1">להו ולד טריפה רבי אליעזר אומר לא</row>
+		<row row_number="40" isdata="1">יקרב לגבי מזבח ורבי יהושע אומר יקרב</row>
+		<row row_number="41" isdata="1">לגבי מזבח בעלמא סבר ר' אליעזר זה וזה גורם אסור ושאני הכא דאם כן נכתוב</row>
+		<row row_number="42" isdata="1">קרא שה כשבים ועזים שה ושה למה לי שמע מינה שה מכל מקום ורבי</row>
+		<row row_number="43" isdata="1">יהושע אמר לך בעלמא זה וזה גורם מותר והכא אם כן לכתוב קרא שור</row>
+		<row row_number="44" isdata="1">כשב ועז כשבים ועזים למה לי ש"מ עד שיהא אביו כבש ואמו כבשה ת"ש</row>
+		<row row_number="45" isdata="1">רבי שמעון אומר גמל גמל שני פעמים אחד גמל הנולד מן הגמל ואחד גמל</row>
+		<row row_number="46" isdata="1">הנולד מן הפרה ואם ראשו ורובו דומה לאמו מותר באכילה שמע מינה</row>
+		<row row_number="47" isdata="1">לאכילה נמי בעי רבי שמעון ראשו ורובו שמע מינה שהיוצא מן הטמא</row>
+		<row row_number="48" isdata="1">וכו' בעו מינה מרב ששת מי רגלים של חמור מהו ותיבעי (ליה)</row>
+		<row row_number="49" isdata="1">דסוסים וגמלים דסוסים וגמלים לא מיבעיא להו דלא עכירי ולא דמו</row>
+		<row row_number="50" isdata="1">לחלב מיא עול מיא נפוק כי קמיבעיא להו דחמור דעכירי ודמו לחלב</row>
+		<row row_number="51" isdata="1">מאי מגופיה קא מימצצי ואסירי או דלמא מיא עול מיא נפוק והאי דעכירי הבלא דבישרא הוא</row>
+		<row row_number="52" isdata="1">אמר להו רב ששת תניתוה שהיוצא מן הטמא טמא והיוצא מן הטהור טהור מטמא לא קאמר אלא מן</row>
+</amud>
+</daf>
+</masechet>
+</root>

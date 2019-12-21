@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:20.470491</dateCreated>
+   <lastModified>2019-12-21 20:30:20.470491</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="10">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הריני נזיר"/><ContMishna/>או כמנחת סוטה תקדוש אי לא לא קמ"ל</row>
+		<row row_number="2" isdata="1">דמייתי מן החיטיםמתני' אמר אמרה</row>
+		<row row_number="3" isdata="1">פרה זו הריני נזירה אם עומדת אני אומר</row>
+		<row row_number="4" isdata="1">הדלת הזה הריני נזירה אם נפתח אני בש"א</row>
+		<row row_number="5" isdata="1">נזיר ובה"א אינו נזיר אמר רבי יהודה אף</row>
+		<row row_number="6" isdata="1">כשאמרו ב"ש לא אומרים אלא באומר</row>
+		<row row_number="7" isdata="1">הרי פרה זו עלי קרבן אם עומדת היא</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' פרה מי קא מישתעיא אמר רמי בר</row>
+		<row row_number="9" isdata="1">חמא הכא במאי עסקינן כגון שהיתה פרה</row>
+		<row row_number="10" isdata="1">רבוצה לפניו ואמר כסבורה פרה זו אינה</row>
+		<row row_number="11" isdata="1">עומדת הריני נזיר מבשרה אם עמדה מאליה</row>
+		<row row_number="12" isdata="1">ועמדה מאליה והלכו ב"ש לשיטתן וב"ה</row>
+		<row row_number="13" isdata="1">לשיטתן בית שמאי דאמרי מן הגרוגרות</row>
+		<row row_number="14" isdata="1">ומן הדבילה הוי נזיר הכא נמי כי אמר</row>
+		<row row_number="15" isdata="1">מבשרה הוי נזיר וב"ה אומרים לא הוי נזיר</row>
+		<row row_number="16" isdata="1">והא אמרוה ב"ש חדא זימנא אמר רבא</row>
+		<row row_number="17" isdata="1">תרתי תלת וכן תני ר' חייא תרתי תלת וכן</row>
+		<row row_number="18" isdata="1">א"ר אושעיא תרתי תלת וצריכי דאי איתמר</row>
+		<row row_number="19" isdata="1">בהא גרוגרות ודבילה התם הוא דאמרי ב"ש</row>
+		<row row_number="20" isdata="1">הוי נזיר משום דמיחלפן בענבים אבל בשר</row>
+		<row row_number="21" isdata="1">בענבים לא מיחלף ואי איתמר בשר הכא</row>
+		<row row_number="22" isdata="1">הוא דאמרי ב"ש הוי נזיר בבישרא וחמרא</row>
+		<row row_number="23" isdata="1">אבל גרוגרות ודבילה לא קמ"ל ואי איתמר</row>
+		<row row_number="24" isdata="1">הני תרתי הני הוא דקאמרי בית שמאי אבל</row>
+		<row row_number="25" isdata="1">דלת אימא מודו להו לבית הלל ואי תנא דלת</row>
+		<row row_number="26" isdata="1">בהא קאמרי בית הלל אבל בהך תרתי</row>
+		<row row_number="27" isdata="1">אימא מודו להו לבית שמאי קמשמע לן דלא</row>
+		<row row_number="28" isdata="1">אמר רבא מי קתני אם עמדה מאליה אלא</row>
+		<row row_number="29" isdata="1">אמר רבא כגון שהיתה פרה רבוצה לפניו</row>
+		<row row_number="30" isdata="1">ואמר הרי עלי קרבן בשלמא פרה בת</row>
+		<row row_number="31" isdata="1">קרבן היא אלא דלת בת קרבן היא אלא</row>
+		<row row_number="32" isdata="1">אמר רבא כגון שהיתה פרה רבוצה לפניו</row>
+</amud>
+</daf>
+</masechet>
+</root>

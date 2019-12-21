@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:14.020176</dateCreated>
+   <lastModified>2019-12-21 20:32:14.020176</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="30">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט"/><ContGemara/>שמא ידרוסו זה על זה מתיב רבי אבין שחט</row>
+		<row row_number="2" isdata="1">את הוושט למטה ואת הקנה למעלה או את</row>
+		<row row_number="3" isdata="1">הוושט למעלה ואת הקנה למטה שחיטתו</row>
+		<row row_number="4" isdata="1">כשרה אמאי והא ליכא שחיטה מפורעת הוא</row>
+		<row row_number="5" isdata="1">מותיב לה והוא מפרק לה בשחיטה העשויה</row>
+		<row row_number="6" isdata="1">כקולמוס ההוא תורא דאישחט בשנים ושלשה</row>
+		<row row_number="7" isdata="1">מקומות על רב יצחק בר שמואל בר מרתא</row>
+		<row row_number="8" isdata="1">שקל משופרי שופרי א"ל רבי זירא למדתנו</row>
+		<row row_number="9" isdata="1">רבינו משנתינו בשני סכינין וב' בני אדם</row>
+		<row row_number="10" isdata="1">אמר רב יהודה אמר רב החליד את הסכין</row>
+		<row row_number="11" isdata="1">בין סימן לסימן ופסקו פסולה תחת העור</row>
+		<row row_number="12" isdata="1">כשרה מאי קמ"ל תנינא או שהחליד את</row>
+		<row row_number="13" isdata="1">הסכין תחת השני ופסקו רבי ישבב אומר</row>
+		<row row_number="14" isdata="1">נבלה ר"ע אומר טרפה אי ממתני' ה"א ה"מ</row>
+		<row row_number="15" isdata="1">מלמטה למעלה דלא קעביד כדרך שחיטה</row>
+		<row row_number="16" isdata="1">אבל מלמעלה למטה דקעביד כדרך שחיטה</row>
+		<row row_number="17" isdata="1">אימא שפיר דמי קמ"ל תחת העור כשרה בי</row>
+		<row row_number="18" isdata="1">רב אמרי תחת העור איני יודע איבעיא להו</row>
+		<row row_number="19" isdata="1">לבי רב דאמרי תחת העור איני יודע תחת</row>
+		<row row_number="20" isdata="1">מטלית מהו תחת צמר מסובך מהו תיקו</row>
+		<row row_number="21" isdata="1">בעי רב פפא החליד במיעוט סימנים מהו</row>
+		<row row_number="22" isdata="1">תיקומתני' השוחט ב' ראשין כאחד</row>
+		<row row_number="23" isdata="1">שחיטתו כשרה שנים אוחזין בסכין ושוחטים</row>
+		<row row_number="24" isdata="1">אפילו אחד למעלה ואחד למטה שחיטתו</row>
+		<row row_number="25" isdata="1">כשרה התיז את הראש בבת אחת פסולה</row>
+		<row row_number="26" isdata="1">היה שוחט והתיז את הראש בבת אחת אם</row>
+		<row row_number="27" isdata="1">יש בסכין מלא צואר כשרה היה שוחט והתיז</row>
+		<row row_number="28" isdata="1">ב' ראשין בבת אחת אם יש בסכין מלא</row>
+		<row row_number="29" isdata="1">צואר אחד כשרה בד"א בזמן שהוליך ולא</row>
+		<row row_number="30" isdata="1">הביא או הביא ולא הוליך אבל אם הוליך</row>
+		<row row_number="31" isdata="1">והביא אפי' כל שהוא אפי' באיזמל כשרה</row>
+		<row row_number="32" isdata="1"><EndMishna/><StartGemara/>גמ' מה"מ אמר שמואל דאמר קרא חץ שחוט</row>
+		<row row_number="33" isdata="1">לשונם מרמה דבר תנא דבי רבי ישמעאל</row>
+		<row row_number="34" isdata="1">ושחט אין ושחט אלא ומשך וכן הוא אומר</row>
+		<row row_number="35" isdata="1">זהב שחוט ואומר חץ שחוט לשונם מרמה</row>
+		<row row_number="36" isdata="1">דבר מאי ואומר וכי תימא זהב שחוט שנטווה</row>
+		<row row_number="37" isdata="1">כחוט הוא ת"ש חץ שחוט לשונם רבא הוה בדיק</row>
+		<row row_number="38" isdata="1">ליה גירא לר' יונה בר תחליפא ושחט בה</row>
+		<row row_number="39" isdata="1">עופא בהדי דפרח ודלמא עביד חלדה חזינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:46.000683</dateCreated>
+   <lastModified>2019-12-21 20:28:46.000683</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="85">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>גזירה שמא ימלא את הקרנות ולא יהא</row>
+		<row row_number="2" isdata="1">אלא ראש תור ירק מי לא תנן היה ראש</row>
+		<row row_number="3" isdata="1">תור ירק נכנס לתוך שדה אחר מותר מפני</row>
+		<row row_number="4" isdata="1">שנראה סוף שדה אין ראש תור בערוגה</row>
+		<row row_number="5" isdata="1">ושמואל אמר ערוגה בין הערוגות שנינו והא</row>
+		<row row_number="6" isdata="1">קא מיתערבי בהדדי בנוטה שורה לכאן</row>
+		<row row_number="7" isdata="1">ושורה לכאן אמר עולא בעו במערבא הפקיע</row>
+		<row row_number="8" isdata="1">תלם אחד על פני כולה מהו אמר רב ששת</row>
+		<row row_number="9" isdata="1">בא ערבוב וביטל את השורה רב אסי אמר</row>
+		<row row_number="10" isdata="1">אין עירובו מבטל את השורה איתיביה</row>
+		<row row_number="11" isdata="1">רבינא לרב אשי הנוטע שתי שורות של</row>
+		<row row_number="12" isdata="1">קישואין שתי שורות של דילועין שתי שורות</row>
+		<row row_number="13" isdata="1">של פול המצרי מותר שורה אחת של קישואין</row>
+		<row row_number="14" isdata="1">ושורה אחת של דילועין ושורה אחת של</row>
+		<row row_number="15" isdata="1">פול המצרי אסור שאני הכא דאיכא שראכא</row>
+		<row row_number="16" isdata="1">אמר רב כהנא א"ר יוחנן הרוצה למלאות</row>
+		<row row_number="17" isdata="1">כל גינתו ירק עושה ערוגה ששה על ששה</row>
+		<row row_number="18" isdata="1">ועוגל בה חמשה וממלא קרנותיה כל מה</row>
+		<row row_number="19" isdata="1">שירצה והא איכא דביני וביני אמרי דבי</row>
+		<row row_number="20" isdata="1">רבי ינאי במחריב בין הביניים רב אשי אמר</row>
+		<row row_number="21" isdata="1">אם היו זרועין שתי זורען ערב ערב זורען</row>
+		<row row_number="22" isdata="1">שתי איתיביה רבינא לרב אשי עבודת</row>
+		<row row_number="23" isdata="1">ירק בירק אחר ששה טפחים ורואין אותם</row>
+</amud>
+</daf>
+</masechet>
+</root>

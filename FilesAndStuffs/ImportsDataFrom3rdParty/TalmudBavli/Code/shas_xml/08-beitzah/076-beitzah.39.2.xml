@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:39.511403</dateCreated>
+   <lastModified>2019-12-21 20:29:39.511403</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="39">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "משילין פירות "/><ContGemara/>הרי אתה עלי חרם הנודר אסור הריני עליך</row>
+		<row row_number="2" isdata="1">ואתה עלי שניהם אסורים זה בזה ומותרין</row>
+		<row row_number="3" isdata="1">בשל עולי בבל ואסורין בשל אותה העיר ואלו</row>
+		<row row_number="4" isdata="1">הן דברים של עולי בבל הר הבית הלשכות</row>
+		<row row_number="5" isdata="1">והעזרות ובור של אמצע הדרך ואלו הן של</row>
+		<row row_number="6" isdata="1">אותה העיר הרחוב ובית הכנסת ובית</row>
+		<row row_number="7" isdata="1">המרחץ ואי אמרת בירא דשותפי הוא אמאי</row>
+		<row row_number="8" isdata="1">מותר והתנן השותפין שנדרו הנאה זה</row>
+		<row row_number="9" isdata="1">מזה אסורים ליכנס לחצר לרחוץ בבור</row>
+		<row row_number="10" isdata="1">לרחוץ ה"נ והכא במאי עסקינן למלאות</row>
+		<row row_number="11" isdata="1">מר מדידיה קא ממלא ומר מדידיה קא</row>
+		<row row_number="12" isdata="1">ממלא וסבר רב נחמן יש ברירה והתנן</row>
+		<row row_number="13" isdata="1">האחין השותפין כשחייבין בקלבון פטורין</row>
+		<row row_number="14" isdata="1">ממעשר בהמה וכשחייבין במעשר בהמה</row>
+		<row row_number="15" isdata="1">פטורין מן הקלבון ואמר רב ענן לא שנו</row>
+		<row row_number="16" isdata="1">אלא שחלקו גדים כנגד טלאים וטלאים</row>
+		<row row_number="17" isdata="1">כנגד גדים אבל חלקו גדים כנגד גדים</row>
+		<row row_number="18" isdata="1">וטלאים כנגד טלאים אומר זהו חלקו המגיעו</row>
+		<row row_number="19" isdata="1">משעה ראשונה לכך ורב נחמן אמר אפילו</row>
+		<row row_number="20" isdata="1">חלקו גדים כנגד גדים וטלאים כנגד טלאים</row>
+		<row row_number="21" isdata="1">אין אומר זה חלקו המגיעו משעה ראשונה</row>
+		<row row_number="22" isdata="1">לכך אלא דכולי עלמא בירא דהפקרא היא</row>
+		<row row_number="23" isdata="1">אלא הכא במגביה מציאה לחבירו קא</row>
+		<row row_number="24" isdata="1">מיפלגי מר סבר קנה ומר סבר לא קנה</row>
+		<row row_number="25" isdata="1"><EndGemara/><StartMishna/>מתני' מי שהיו פירותיו בעיר אחרת וערבו</row>
+		<row row_number="26" isdata="1">בני אותה העיר להביא אצלו מפירותיו</row>
+		<row row_number="27" isdata="1">לא יביאו לו ואם ערב הוא פירותיו כמוהו</row>
+</amud>
+</daf>
+</masechet>
+</root>

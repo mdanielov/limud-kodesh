@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:31.125398</dateCreated>
+   <lastModified>2019-12-21 20:32:31.125398</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="41">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "על אלו מומין"/><ContGemara/>גמ' תנא קפץ העליון ולא קפץ התחתון<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">וכנגדו בגמל ניכרמתני' על אלו מומין</row>
+		<row row_number="3" isdata="1">שוחטין את הבכור ופסולי המוקדשין נפדין</row>
+		<row row_number="4" isdata="1">עליהן<EndMishna/><StartGemara/>גמ' הא תו למה לי הא תנא ליה</row>
+		<row row_number="5" isdata="1">רישא על אלו מומין שוחטין את הבכור סיפא</row>
+		<row row_number="6" isdata="1">איצטריכא פסולי המוקדשין נפדין עליהן</row>
+		<row row_number="7" isdata="1">הא נמי פשיטא מישחט שחטינן מיפרק</row>
+		<row row_number="8" isdata="1">מיבעיא אלא איידי דתנא שלשה הוסיף</row>
+		<row row_number="9" isdata="1">ואמרו לו לא שמענו את אלו וקתני</row>
+		<row row_number="10" isdata="1">ואתי דיחידאה וקא סתים לה בכולהו על אלו</row>
+		<row row_number="11" isdata="1">מומין שוחטין את הבכור ופסולי המוקדשין</row>
+		<row row_number="12" isdata="1">נפדין עליהןמתני' ואלו שאין שוחטין</row>
+		<row row_number="13" isdata="1">עליהן לא במקדש ולא במדינה חוורור והמים</row>
+		<row row_number="14" isdata="1">שאין קבועין וחוטין הפנימיות שנפגמו אבל לא שנעקרו ובעל גרב ובעל</row>
+		<row row_number="15" isdata="1">יבלת ובעל חזזית זקן וחולה ומזוהם ושנעבדה בו עבירה ושהמית</row>
+		<row row_number="16" isdata="1">אדם ע"פ עד אחד או ע"פ הבעלים וטומטום ואנדרוגינוס לא במקדש ולא</row>
+		<row row_number="17" isdata="1">במדינה (ר"ש) אומר אין לך מום גדול מזה וחכמים אומרים אינו בכור אלא</row>
+		<row row_number="18" isdata="1">נגזז ונעבד<EndMishna/><StartGemara/>גמ' וגרב לא והכתיב גרב באורייתא וחזזית לא והכתיב ילפת</row>
+		<row row_number="19" isdata="1">באורייתא ותניא גרב זה החרס ילפת זו חזזית המצרית ואמר ר"ל למה נקרא</row>
+		<row row_number="20" isdata="1">שמה ילפת שמלפפת והולכת עד יום המיתה בשלמא חזזית אחזזית לא קשיא</row>
+		<row row_number="21" isdata="1">כאן בחזזית המצרית כאן בחזזית דעלמא אלא גרב אגרב קשיא גרב אגרב</row>
+		<row row_number="22" isdata="1">נמי לא קשיא הא בלח הא ביבש לח איתסי יבש לא מיתסי ולח מיתסי</row>
+		<row row_number="23" isdata="1">והכתיב יככה ה' בשחין מצרים וגו' ומדכתיב ובחרס הרי גרב לח אמור</row>
+		<row row_number="24" isdata="1">וקאמר אשר לא תוכל להרפא אלא תלתא הוו דקרא יבש בין מבפנים בין</row>
+		<row row_number="25" isdata="1">מבחוץ דמתני' לח מבחוץ ומבפנים דמצרים יבש מבפנים ולח מבחוץ דכתיב</row>
+		<row row_number="26" isdata="1">ויהי שחין (פורח אבעבועות) באדם והזקן והחולה והמזוהם מנהני מילי</row>
+		<row row_number="27" isdata="1">דתנו רבנן מן הצאן ומן הכשבים [או] מן העזים פרט לזקן ולחולה ולמזוהם</row>
+		<row row_number="28" isdata="1">וצריכי דאי כתב רחמנא למעוטי זקן דלא הדר בריא אבל חולה דהדר בריא</row>
+		<row row_number="29" isdata="1">אימא לא ואי כתב למעוטי חולה דלאו אורחיה אבל זקן דהיינו אורחיה אימא</row>
+		<row row_number="30" isdata="1">לא ואי כתב רחמנא תרי למעוטי הני דכחישי אבל מזוהם דלא כחיש אימא</row>
+		<row row_number="31" isdata="1">לא ואי נמי למעוטי מזוהם משום דמאיס אבל הני דלא מאיסי אימא לא</row>
+		<row row_number="32" isdata="1">צריכי ושנעבדה בו עבירה וכו' מנא הני מילי דת"ר מן הבהמה להוציא</row>
+		<row row_number="33" isdata="1">רובע ונרבע מן הבקר להוציא את הנעבד מן הצאן להוציא את המוקצה ומן</row>
+		<row row_number="34" isdata="1">הצאן להוציא את הנוגח הני בני קטלא נינהו ע"פ עד אחד או ע"פ הבעלים</row>
+		<row row_number="35" isdata="1">בשלמא טומטום במקדש לא דילמא נקבה היא במדינה לא דילמא זכר</row>
+		<row row_number="36" isdata="1">הוא ולית בה מומא אלא אנדרוגינוס בשלמא במקדש לא דלמא נקבה היא</row>
+		<row row_number="37" isdata="1">אלא במדינה נמי נהי דזכר הוא תעשה נקבות חריץ וישחוט עלה אמר</row>
+		<row row_number="38" isdata="1">אביי אמר קרא או חרוץ או שבור חרוץ דומיא דשבור מה שבור במקום</row>
+		<row row_number="39" isdata="1">עצם אף חרוץ במקום עצם רבא אמר בלא שבור נמי לא מצית אמרת</row>
+		<row row_number="40" isdata="1">חרוץ במקום בשר הוי מומא דאי סלקא דעתך הוי מומא כיון דאמר</row>
+		<row row_number="41" isdata="1">גרב זהו חרס מיחרץ חריץ דכתיב ומראהו עמוק מן העור כמראה</row>
+		<row row_number="42" isdata="1">חמה העמוקה מן הצל וליכתב רחמנא חרוץ ולא בעי גרב ואמינא חרוץ</row>
+		<row row_number="43" isdata="1">דלא מאיס הוי מומא גרב דמאיס לא כל שכן כתב רחמנא גרב למימר</row>
+		<row row_number="44" isdata="1">דחרוץ במקום בשר לא הוי מומא (רבי ישמעאל אומר אין לך מום גדול</row>
+		<row row_number="45" isdata="1">מזה) כאביי לא אמר חרוץ דומיא דשבור לא אמרינן כרבא נמי לא אמר</row>
+		<row row_number="46" isdata="1">דילמא היכא דלא מינכרא אבל היכא דמינכר מום רע קרינא ביה</row>
+</amud>
+</daf>
+</masechet>
+</root>

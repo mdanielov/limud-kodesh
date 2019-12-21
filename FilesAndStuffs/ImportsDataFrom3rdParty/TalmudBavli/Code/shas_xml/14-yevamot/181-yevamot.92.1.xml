@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:00.325509</dateCreated>
+   <lastModified>2019-12-21 20:30:00.325509</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="92">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה רבה"/><ContGemara/>כל קלא דבתר נשואין לא חיישינן מהו</row>
+		<row row_number="2" isdata="1">דתימא הואיל ואתאי לבי דינא ושרינן</row>
+		<row row_number="3" isdata="1">כקלא דקמי נשואין דמי ותיתסר קמ"ל ניסת</row>
+		<row row_number="4" isdata="1">ע"פ ב"ד תצא וכו' אמר זעירי ליתא למתני'</row>
+		<row row_number="5" isdata="1">מדתני בי מדרשא דתני בי מדרשא הורו</row>
+		<row row_number="6" isdata="1">בית דין ששקעה חמה ולבסוף זרחה אין זו</row>
+		<row row_number="7" isdata="1">הוראה אלא טעות ורב נחמן אמר הוראה היא</row>
+		<row row_number="8" isdata="1">א"ר נחמן תדע דהוראה היא דבכל התורה</row>
+		<row row_number="9" isdata="1">כולה עד אחד לא מהימן והכא מהימן מ"ט</row>
+		<row row_number="10" isdata="1">לאו משום דהוראה היא אמר רבא תדע</row>
+		<row row_number="11" isdata="1">דטעות הוא דאילו הורו ב"ד בחלב ובדם</row>
+		<row row_number="12" isdata="1">להיתירא והדר חזו טעמא לאיסורא כי הדרי</row>
+		<row row_number="13" isdata="1">ואמרי להיתירא לא משגחינן להו ואילו היכא</row>
+		<row row_number="14" isdata="1">דאתא עד אחד שרינא אתו תרי אסרנא כי</row>
+		<row row_number="15" isdata="1">הדר אתא עד אחרינא שרינן לה מ"ט לאו</row>
+		<row row_number="16" isdata="1">משום דטעות הוא ואף ר' אליעזר סבר דטעות</row>
+		<row row_number="17" isdata="1">הוא דתניא ר' אליעזר אומר יקוב הדין את</row>
+		<row row_number="18" isdata="1">ההר ותביא חטאת שמינה אי אמרת בשלמא</row>
+		<row row_number="19" isdata="1">דטעות הוא משום הכי מתיא קרבן אלא אי</row>
+		<row row_number="20" isdata="1">אמרת דהוראה היא אמאי מתיא קרבן ודלמא</row>
+		<row row_number="21" isdata="1">קסבר ר' אליעזר יחיד שעשה בהוראת ב"ד</row>
+		<row row_number="22" isdata="1">חייב א"כ מה יקוב הדין את ההר הורוה ב"ד</row>
+		<row row_number="23" isdata="1">להנשא כו' מאי קלקלה ר' אליעזר אומר</row>
+		<row row_number="24" isdata="1">זינתה ר' יוחנן אמר אלמנה לכהן גדול גרושה</row>
+		<row row_number="25" isdata="1">וחלוצה לכהן הדיוט מאן דאמר זינתה כל</row>
+		<row row_number="26" isdata="1">שכן אלמנה לכהן גדול מאן דאמר אלמנה</row>
+		<row row_number="27" isdata="1">לכהן גדול אבל זינתה לא מ"ט [דאמרה]</row>
+		<row row_number="28" isdata="1">אתון הוא דשויתין פנויה תניא כוותיה דר'</row>
+		<row row_number="29" isdata="1">יוחנן הורוה ב"ד להנשא והלכה וקלקלה</row>
+		<row row_number="30" isdata="1">כגון אלמנה לכהן גדול גרושה וחלוצה לכהן</row>
+		<row row_number="31" isdata="1">הדיוט חייבת בקרבן על כל ביאה וביאה דברי ר' אלעזר וחכ"א קרבן אחד</row>
+		<row row_number="32" isdata="1">על הכל ומודים חכמים לר' אלעזר שאם נשאת לחמשה בני אדם שחייבת</row>
+		<row row_number="33" isdata="1">בקרבן על כל אחד ואחד הואיל וגופין מוחלקיןמתני' האשה שהלך</row>
+		<row row_number="34" isdata="1">בעלה ובנה למדינת הים ובאו ואמרו לה מת בעליך ואח"כ מת בנך ונשאת</row>
+		<row row_number="35" isdata="1">ואחר כך אמרו לה חילוף היו הדברים תצא והולד ראשון ואחרון ממזר אמרו</row>
+		<row row_number="36" isdata="1">לה מת בנך ואח"כ מת בעליך ונתייבמה ואח"כ אמרו לה חילוף היו הדברים</row>
+		<row row_number="37" isdata="1">תצא והולד ראשון ואחרון ממזר אמרו לה מת בעליך וניסת ואח"כ אמרו לה</row>
+		<row row_number="38" isdata="1">קיים היה ומת תצא והולד ראשון ממזר והאחרון אינו ממזר אמרו לה מת</row>
+		<row row_number="39" isdata="1">בעליך ונתקדשה ואחר כך בא בעלה מותרת לחזור לו אע"פ שנתן לה אחרון</row>
+		<row row_number="40" isdata="1">גט לא פסלה מן הכהונה את זו דרש רבי אלעזר בן מתיא ואשה גרושה</row>
+		<row row_number="41" isdata="1">מאישה ולא מאיש שאינו אישה<EndMishna/><StartGemara/>גמ' מאי ראשון ומאי אחרון אילימא ראשון</row>
+		<row row_number="42" isdata="1">לפני שמועה ואחרון לאחר שמועה ליתני הולד ממזר משום דקבעי למיתני</row>
+		<row row_number="43" isdata="1">סיפא אמרו לה מת בעליך ונשאת ואח"כ א"ל קיים היה ומת הראשון ממזר</row>
+		<row row_number="44" isdata="1">והאחרון אינו ממזר תנא נמי רישא ראשון ואחרון ממזר ת"ר זו דברי ר"ע</row>
+		<row row_number="45" isdata="1">שהיה אומר אין קדושין תופסין בחייבי לאוין אבל חכמים אומרים אין ממזר</row>
+		<row row_number="46" isdata="1">מיבמה ולימא אין ממזר מחייבי לאוין האי תנא הך תנא דר"ע הוא דאמר</row>
+		<row row_number="47" isdata="1">מחייבי לאוין דשאר הוי ממזר מחייבי לאוין גרידי לא הוי ממזר אמר רב יהודה</row>
+</amud>
+</daf>
+</masechet>
+</root>

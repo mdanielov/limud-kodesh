@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:25.041925</dateCreated>
+   <lastModified>2019-12-21 20:32:25.041925</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="112">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>ומשפייה אמר ליה רב אחא בריה דרב איקא</row>
+		<row row_number="2" isdata="1">לרב אשי ומי אמר שמואל הכי והאמר</row>
+		<row row_number="3" isdata="1">שמואל ככר שחתך עליה בשר אסור לאכלה</row>
+		<row row_number="4" isdata="1">שאני התם דאגב דוחקא דסכינא פליט אמר</row>
+		<row row_number="5" isdata="1">רב נחמן דגים ועופות שמלחן זה עם זה</row>
+		<row row_number="6" isdata="1">אסורין היכי דמי אי בכלי שאינו מנוקב אפי'</row>
+		<row row_number="7" isdata="1">עופות ועופות נמי אסירי אי בכלי מנוקב אפי'</row>
+		<row row_number="8" isdata="1">דגים ועופות נמי שרי לעולם בכלי מנוקב</row>
+		<row row_number="9" isdata="1">ודגים משום דרפו קרמייהו קדמי ופלטי</row>
+		<row row_number="10" isdata="1">ועופות קמיטי בתר דניחי דגים פליטי עופות</row>
+		<row row_number="11" isdata="1">והדר בלעי מיניה רב מרי בר רחל אימלח</row>
+		<row row_number="12" isdata="1">ליה בשר שחוטה בהדי בשר טרפה</row>
+		<row row_number="13" isdata="1">אתא לקמיה דרבא אמר ליה הטמאים</row>
+		<row row_number="14" isdata="1">לאסור צירן ורוטבן וקיפה שלהן</row>
+</amud>
+</daf>
+</masechet>
+</root>

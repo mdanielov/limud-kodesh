@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:42.188700</dateCreated>
+   <lastModified>2019-12-21 20:28:42.188700</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="42">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>אבל נותן הוא לתוך הקערה או לתוך התמחוי</row>
+		<row row_number="2" isdata="1">רבי יהודה אומר לכל הוא נותן חוץ מדבר</row>
+		<row row_number="3" isdata="1">שיש בו חומץ וציר<EndMishna/><StartGemara/>גמ' איבעיא להו רבי</row>
+		<row row_number="4" isdata="1">יהודה ארישא קאי ולקולא או דילמא אסיפא</row>
+		<row row_number="5" isdata="1">קאי ולחומרא ת"ש דתניא רבי יהודה אומר</row>
+		<row row_number="6" isdata="1">לכל אילפסין הוא נותן לכל הקדירות רותחות</row>
+		<row row_number="7" isdata="1">הוא נותן חוץ מדבר שיש בו חומץ וציר</row>
+		<row row_number="8" isdata="1">סבר רב יוסף למימר מלח הרי הוא כתבלין</row>
+		<row row_number="9" isdata="1">דבכלי ראשון בשלה ובכלי שני לא בשלה</row>
+		<row row_number="10" isdata="1">א"ל אביי תני רבי חייא מלח אינה כתבלין</row>
+		<row row_number="11" isdata="1">דבכלי שני נמי בשלה ופליגא דרב נחמן</row>
+		<row row_number="12" isdata="1">דאמר רב נחמן צריכא מילחא בישולא</row>
+		<row row_number="13" isdata="1">כבשרא דתורא ואיכא דאמרי סבר רב יוסף</row>
+		<row row_number="14" isdata="1">למימר מלח הרי הוא כתבלין דבכלי ראשון</row>
+		<row row_number="15" isdata="1">בשלה בכלי שני לא בשלה א"ל אביי תני</row>
+		<row row_number="16" isdata="1">ר' חייא מלח אינה כתבלין דבכלי ראשון</row>
+		<row row_number="17" isdata="1">נמי לא בשלה והיינו דאמר רב נחמן צריכא</row>
+		<row row_number="18" isdata="1">מילחא בישולא כבישרא דתוראמתני' אין</row>
+		<row row_number="19" isdata="1">נותנין כלי תחת הנר לקבל בו את השמן ואם</row>
+		<row row_number="20" isdata="1">נתנוה מבעוד יום מותר ואין ניאותין ממנו</row>
+		<row row_number="21" isdata="1">לפי שאינו מן המוכן<EndMishna/><StartGemara/>גמ' אמר רב חסדא</row>
+		<row row_number="22" isdata="1">אע"פ שאמרו אין נותנין כלי תחת תרנגולת</row>
+		<row row_number="23" isdata="1">לקבל ביצתה אבל כופה עליה כלי שלא</row>
+		<row row_number="24" isdata="1">תשבר אמר רבה מ"ט דרב חסדא קסבר</row>
+		<row row_number="25" isdata="1">תרנגולת עשויה להטיל ביצתה באשפה</row>
+		<row row_number="26" isdata="1">ואינה עשויה להטיל ביצתה במקום מדרון</row>
+		<row row_number="27" isdata="1">והצלה מצויה התירו והצלה שאינה מצויה לא</row>
+		<row row_number="28" isdata="1">התירו איתיבי' אביי והצלה שאינה מצויה לא</row>
+		<row row_number="29" isdata="1">התירו והתניא נשברה לו חבית של טבל</row>
+		<row row_number="30" isdata="1">בראש גגו מביא כלי ומניח תחתיה בגולפי</row>
+		<row row_number="31" isdata="1">חדתי דשכיחי דפקעי איתיביה נותנין כלי</row>
+		<row row_number="32" isdata="1">תחת הנר לקבל ניצוצות ניצוצות נמי שכיחי</row>
+</amud>
+</daf>
+</masechet>
+</root>

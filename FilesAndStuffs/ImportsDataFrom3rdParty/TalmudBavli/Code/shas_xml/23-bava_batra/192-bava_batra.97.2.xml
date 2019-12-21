@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:14.255197</dateCreated>
+   <lastModified>2019-12-21 20:31:14.255197</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="97">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר פירות"/><ContMishna/>דאמר רבא סוחט אדם אשכול של ענבים</row>
+		<row row_number="2" isdata="1">ואומר עליו קידוש היום ואלא למעוטי</row>
+		<row row_number="3" isdata="1">מפיה ומשוליה והא תני רבי חייא מפיה</row>
+		<row row_number="4" isdata="1">ומשוליה לא יביא ואם הביא כשר ואלא</row>
+		<row row_number="5" isdata="1">למעוטי יין כושי בורק היליסטון של מרתף</row>
+		<row row_number="6" isdata="1">של צמוקים והא תניא בכולן לא יביא ואם</row>
+		<row row_number="7" isdata="1">הביא כשר ואלא למעוטי יין קוסס מזוג</row>
+		<row row_number="8" isdata="1">מגולה ושל שמרים ושריחו רע דתניא בכולן</row>
+		<row row_number="9" isdata="1">לא יביא ואם הביא פסול למעוטי מאי אי</row>
+		<row row_number="10" isdata="1">למעוטי קוסס פלוגתא דר' יוחנן ור' יהושע</row>
+		<row row_number="11" isdata="1">בן לוי היא אי למעוטי מזוג עלויי עלייה</row>
+		<row row_number="12" isdata="1">דאמר רבי יוסי ברבי חנינא מודים חכמים</row>
+		<row row_number="13" isdata="1">לר"א בכוס של ברכה שאין מברכין עליו</row>
+		<row row_number="14" isdata="1">עד שיתן לתוכו מים אי למעוטי מגולה</row>
+		<row row_number="15" isdata="1">סכנה היא אי למעוטי של שמרים היכי דמי</row>
+		<row row_number="16" isdata="1">אי דרמא תלתא ואתא ארבעה חמרא מעליא</row>
+		<row row_number="17" isdata="1">הוא אי דרמא תלתא ואתא תלתא ופלגא</row>
+		<row row_number="18" isdata="1">פלוגתא דרבנן ואחרים היא אלא למעוטי</row>
+		<row row_number="19" isdata="1">שריחו רע ואיבעית אימא לעולם למעוטי</row>
+		<row row_number="20" isdata="1">מגולה ואע"ג דעברי' במסננת כר' נחמיה</row>
+		<row row_number="21" isdata="1">אפילו הכי הקריבהו נא לפחתך הירצך</row>
+		<row row_number="22" isdata="1">או הישא פניך בעא מיניה רב כהנא חמוה</row>
+		<row row_number="23" isdata="1">דרב משרשיא מרבא חמר חווריין מהו אמר</row>
+		<row row_number="24" isdata="1">ליה אל תרא יין כי יתאדם קנקנים בשרון</row>
+		<row row_number="25" isdata="1">וכו' תאנא פיטסות נאות ומגופרות</row>
+		<row row_number="26" isdata="1"><EndGemara/><StartMishna/>מתני' המוכר יין לחבירו והחמיץ אינו</row>
+		<row row_number="27" isdata="1">חייב באחריותו ואם ידוע שיינו מחמיץ</row>
+		<row row_number="28" isdata="1">הרי זה מקח טעות ואם אמר לו יין</row>
+</amud>
+</daf>
+</masechet>
+</root>

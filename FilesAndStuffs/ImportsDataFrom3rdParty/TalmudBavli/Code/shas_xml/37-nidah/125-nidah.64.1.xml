@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:50.693358</dateCreated>
+   <lastModified>2019-12-21 20:32:50.693358</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="64">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה"/><ContGemara/>גמ' איתמר ראתה יום חמשה עשר לחדש<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">זה ויום ט"ז לחדש זה ויום שבעה עשר לחדש</row>
+		<row row_number="3" isdata="1">זה רב אמר קבעה לה וסת לדילוג ושמואל</row>
+		<row row_number="4" isdata="1">אמר עד שתשלש בדילוג נימא רב ושמואל</row>
+		<row row_number="5" isdata="1">בפלוגתא דרבי ורשב"ג קמיפלגי דתניא</row>
+		<row row_number="6" isdata="1">ניסת לראשון ומת לשני ומת לשלישי לא</row>
+		<row row_number="7" isdata="1">תנשא דברי רבי רשב"ג אומר לג' תנשא</row>
+		<row row_number="8" isdata="1">לד' לא תנשא לא דכ"ע כרשב"ג והכא בהא</row>
+		<row row_number="9" isdata="1">קמיפלגי רב סבר חמשה עשר ממנינא</row>
+		<row row_number="10" isdata="1">ושמואל סבר כיון דלאו בדילוג חזיתיה לאו</row>
+		<row row_number="11" isdata="1">ממנינא הוא איתיביה היתה למודה להיות</row>
+		<row row_number="12" isdata="1">רואה יום ט"ו ושינתה ליום ששה עשר זה וזה</row>
+		<row row_number="13" isdata="1">אסורין שינתה ליום שבעה עשר הותר ששה</row>
+		<row row_number="14" isdata="1">עשר ונאסר חמשה עשר ושבעה עשר</row>
+		<row row_number="15" isdata="1">שינתה ליום שמונה עשר הותרו כולן ואין</row>
+		<row row_number="16" isdata="1">אסור אלא משמונה עשר ואילך קשיא לרב</row>
+		<row row_number="17" isdata="1">אמר לך רב למודה שאני ודקארי לה מאי</row>
+		<row row_number="18" isdata="1">קארי לה למודה אצטריכא ליה מהו דתימא</row>
+		<row row_number="19" isdata="1">כיון דלמודה ועקרתיה בתרי זימני עקרה ליה</row>
+		<row row_number="20" isdata="1">קמ"ל מיתיבי ראתה יום עשרים ואחד בחדש</row>
+		<row row_number="21" isdata="1">זה יום עשרים ושנים בחדש זה יום עשרים</row>
+		<row row_number="22" isdata="1">ושלשה בחדש זה קבעה לה וסת סירגה ליום</row>
+		<row row_number="23" isdata="1">עשרים וארבעה לא קבעה לה וסת תיובתא</row>
+		<row row_number="24" isdata="1">דשמואל אמר לך שמואל הכא במאי עסקינן</row>
+		<row row_number="25" isdata="1">כגון דרגילה למחזי ביום עשרים ושינתה ליום</row>
+		<row row_number="26" isdata="1">עשרים ואחד דיקא נמי דשבקינן ליום עשרים</row>
+		<row row_number="27" isdata="1">ונקט ליום עשרים ואחד ש"מ שאין האשה</row>
+		<row row_number="28" isdata="1">קובעת לה וסת עד שתקבענה וכו' א"ר פפא</row>
+		<row row_number="29" isdata="1">לא אמרן אלא למקבעה אבל למיחש לה</row>
+		<row row_number="30" isdata="1">בחדא זימנא חיישא מאי קמ"ל תנינא היתה</row>
+		<row row_number="31" isdata="1">למודה להיות רואה יום חמשה עשר ושינתה</row>
+		<row row_number="32" isdata="1">ליום עשרים זה וזה אסורין אי מהתם ה"א</row>
+		<row row_number="33" isdata="1">ה"מ היכא דקיימא בתוך ימי נדתה אבל</row>
+		<row row_number="34" isdata="1">היכא דלא קיימא בתוך ימי נדתה אימא לא</row>
+		<row row_number="35" isdata="1">קמ"ל ואינה מטהרת מן הוסת וכו' א"ר פפא</row>
+		<row row_number="36" isdata="1">לא אמרן אלא דקבעתיה תלתא זימני</row>
+		<row row_number="37" isdata="1">דצריכי תלתא זימני למעקריה אבל תרי זימני</row>
+		<row row_number="38" isdata="1">בחדא זימנא מיעקר מאי קמ"ל תנינא אין</row>
+		<row row_number="39" isdata="1">האשה קובעת לה וסת עד שתקבענה שלש</row>
+		<row row_number="40" isdata="1">פעמים מהו דתימא חדא לחד תרי לתרתי</row>
+		<row row_number="41" isdata="1">ותלתא לתלתא קא משמע לן תניא כותיה</row>
+		<row row_number="42" isdata="1">דרב פפא היתה למודה להיות רואה יום</row>
+		<row row_number="43" isdata="1">עשרים ושינתה ליום שלשים זה וזה אסורין</row>
+		<row row_number="44" isdata="1">הגיע יום עשרים ולא ראתה מותרת לשמש</row>
+		<row row_number="45" isdata="1">עד יום שלשים וחוששת ליום שלשים הגיע</row>
+		<row row_number="46" isdata="1">יום שלשים וראתה הגיע יום עשרים ולא ראתה</row>
+		<row row_number="47" isdata="1">והגיע יום שלשים ולא ראתה והגיע יום עשרים וראתה הותר יום שלשים</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:07.349922</dateCreated>
+   <lastModified>2019-12-21 20:32:07.349922</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="67">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>אי הכי אפי' חלה נמי אפשר דאפי לה פחות</row>
+		<row row_number="2" isdata="1">מחמשת רבעים קמח ועוד תרומה נמי אפשר</row>
+		<row row_number="3" isdata="1">דעביד לה כדר' אושעיא דאמר רבי אושעיא</row>
+		<row row_number="4" isdata="1">מערים אדם על תבואתו ומכניסה במוץ שלה</row>
+		<row row_number="5" isdata="1">כדי שתהא בהמתו אוכלת ופטורה מן</row>
+		<row row_number="6" isdata="1">המעשר אי נמי דעייל לה דרך גגות ודרך</row>
+		<row row_number="7" isdata="1">קרפיפות התם בפרהסיא זילא ביה מילתא</row>
+		<row row_number="8" isdata="1">הכא בצינעא לא זילא ביה מילתאמתני'</row>
+		<row row_number="9" isdata="1">בא לו לעשרון נתן עליו שמנו ולבונתו</row>
+		<row row_number="10" isdata="1">יצק ובלל הניף והגיש קמץ והקטיר והשאר</row>
+		<row row_number="11" isdata="1">נאכל לכהנים משקרב העומר יוצאין ומוצאין</row>
+		<row row_number="12" isdata="1">שוק ירושלים שהוא מלא קמח קלי שלא</row>
+		<row row_number="13" isdata="1">ברצון חכמים דברי רבי מאיר ר' יהודה אומר</row>
+		<row row_number="14" isdata="1">ברצון חכמים היו עושין<EndMishna/><StartGemara/>גמ' ולא גזר רבי</row>
+		<row row_number="15" isdata="1">יהודה דלמא אתי למיכל מיניה ורמינהו ר'</row>
+		<row row_number="16" isdata="1">יהודה אומר בודקין אור ארבעה עשר</row>
+		<row row_number="17" isdata="1">ובארבעה עשר שחרית ובשעת הביעור</row>
+		<row row_number="18" isdata="1">וחכ"א לא בדק כו' אמר רבה שאני חדש</row>
+</amud>
+</daf>
+</masechet>
+</root>

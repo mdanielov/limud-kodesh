@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:35.292595</dateCreated>
+   <lastModified>2019-12-21 20:31:35.292595</lastModified>
+ </meta>
+ <masechet name="מכות" serial="25">
+<daf value="3">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד העדים"/><ContGemara/>מאי ניהו דלא עשו מעשה היינו דרבה אימא</row>
+		<row row_number="2" isdata="1">וכן אמר ר"נ אמר רב יהודה אמר רב עד זומם</row>
+		<row row_number="3" isdata="1">משלם לפי חלקו מאי משלם לפי חלקו</row>
+		<row row_number="4" isdata="1">אילימא דהאי משלם פלגא והאי משלם</row>
+		<row row_number="5" isdata="1">פלגא תנינא משלשין בממון ואין משלשין</row>
+		<row row_number="6" isdata="1">במלקות אלא כגון דאיתזום חד מינייהו</row>
+		<row row_number="7" isdata="1">דמשלם פלגא דידיה ומי משלם והא תניא</row>
+		<row row_number="8" isdata="1">אין עד זומם משלם ממון עד שיזומו שניהם</row>
+		<row row_number="9" isdata="1">אמר רבא באומר עדות שקר העדתי כל</row>
+		<row row_number="10" isdata="1">כמיניה כיון שהגיד שוב אינו חוזר ומגיד</row>
+		<row row_number="11" isdata="1">אלא באומר העדנו והוזמנו בב"ד פלוני כמאן</row>
+		<row row_number="12" isdata="1">דלא כר"ע דאי כר"ע הא אמר אף אינו משלם</row>
+		<row row_number="13" isdata="1">ע"פ עצמו אלא באומר העדנו והוזמנו בב"ד</row>
+		<row row_number="14" isdata="1">פלוני וחוייבנו ממון ס"ד אמינא כיון דלחבריה</row>
+		<row row_number="15" isdata="1">לא מצי מחייב ליה איהו נמי לא מיחייב קמ"ל</row>
+		<row row_number="16" isdata="1"><EndGemara/><StartMishna/>מתני' מעידין אנו את איש פלוני שגירש את</row>
+		<row row_number="17" isdata="1">אשתו ולא נתן לה כתובתה והלא בין היום</row>
+		<row row_number="18" isdata="1">ובין למחר סופו ליתן לה כתובתה אומדין</row>
+		<row row_number="19" isdata="1">כמה אדם רוצה ליתן בכתובתה של זו שאם</row>
+		<row row_number="20" isdata="1">נתאלמנה או נתגרשה ואם מתה יירשנה</row>
+		<row row_number="21" isdata="1">בעלה<EndMishna/><StartGemara/>גמ' כיצד שמין אמר רב חסדא בבעל</row>
+		<row row_number="22" isdata="1">רב נתן בר אושעיא אומר באשה אמר רב</row>
+		<row row_number="23" isdata="1">פפא באשה ובכתובתהמתני' מעידין אנו</row>
+		<row row_number="24" isdata="1">באיש פלוני שהוא חייב לחבירו אלף זוז על</row>
+		<row row_number="25" isdata="1">מנת ליתנן לו מכאן ועד שלשים יום והוא אומר</row>
+		<row row_number="26" isdata="1">מכאן ועד עשר שנים אומדים כמה אדם</row>
+		<row row_number="27" isdata="1">רוצה ליתן ויהיו בידו אלף זוז בין נותנן מכאן</row>
+		<row row_number="28" isdata="1">ועד ל' יום בין נותנן מכאן ועד עשר שנים</row>
+		<row row_number="29" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר שמואל המלוה</row>
+		<row row_number="30" isdata="1">את חבירו לעשר שנים שביעית משמטתו</row>
+</amud>
+</daf>
+</masechet>
+</root>

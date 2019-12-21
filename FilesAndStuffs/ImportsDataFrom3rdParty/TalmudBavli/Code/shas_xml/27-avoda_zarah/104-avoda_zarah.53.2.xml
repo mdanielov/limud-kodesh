@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:47.133917</dateCreated>
+   <lastModified>2019-12-21 20:31:47.133917</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="53">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>אם עתידין לחזור כמלחמת יהושע אינה</row>
+		<row row_number="2" isdata="1">בטילה וצריכא דאי תנא לוה עליה מדלא</row>
+		<row row_number="3" isdata="1">זבנה לא בטלה אבל נפלה עליה מפולת</row>
+		<row row_number="4" isdata="1">מדלא קא מפני לה אימא בטולי בטלה</row>
+		<row row_number="5" isdata="1">צריכא ואי תנא נפלה עליה מפולת משום</row>
+		<row row_number="6" isdata="1">דסבר הא מנחת כל אימת דבעינא לה</row>
+		<row row_number="7" isdata="1">שקילנא לה אבל גנבוה לסטים מדלא קא</row>
+		<row row_number="8" isdata="1">מהדר אבתרה בטולי בטלה צריכא ואי תנא</row>
+		<row row_number="9" isdata="1">גנבוה לסטין משום דסבר אי עובד כוכבים</row>
+		<row row_number="10" isdata="1">שקיל לה מפלח פלח לה אי ישראל שקלה</row>
+		<row row_number="11" isdata="1">איידי דדמיה יקרין מזבין לה לעובד כוכבים</row>
+		<row row_number="12" isdata="1">ופלח לה אבל הניחוה הבעלים והלכו</row>
+		<row row_number="13" isdata="1">למדינת הים מדלא שקלו בהדייהו בטולי</row>
+		<row row_number="14" isdata="1">בטלוה צריכא אם עתידין לחזור כמלחמת</row>
+		<row row_number="15" isdata="1">יהושע אינה בטילה מידי מלחמת יהושע</row>
+		<row row_number="16" isdata="1">מיהדר הדור ה"ק אם עתידין לחזור הרי הוא</row>
+		<row row_number="17" isdata="1">כמלחמת יהושע ואין לה בטילה ולמה לי</row>
+		<row row_number="18" isdata="1">למיתלייה במלחמת יהושע מלתא אגב</row>
+		<row row_number="19" isdata="1">אורחא קמ"ל כי הא דאמר רב יהודה אמר</row>
+		<row row_number="20" isdata="1">רב ישראל שזקף לבינה להשתחות לה ובא</row>
+		<row row_number="21" isdata="1">עובד כוכבים והשתחוה לה אסרה מנלן</row>
+		<row row_number="22" isdata="1">דאסרה א"ר אלעזר כתחילה של א"י דאמר</row>
+		<row row_number="23" isdata="1">רחמנא ואשריהם תשרפון באש מכדי</row>
+		<row row_number="24" isdata="1">ירושה היא להם מאבותיהם ואין אדם אוסר</row>
+		<row row_number="25" isdata="1">דבר שאינו שלו ואי משום הנך דמעיקרא</row>
+		<row row_number="26" isdata="1">בביטולא בעלמא סגי להו אלא מדפלחו</row>
+		<row row_number="27" isdata="1">ישראל לעגל גלו אדעתייהו דניחא להו</row>
+		<row row_number="28" isdata="1">בעבודת כוכבים וכי אתו עובדי כוכבים</row>
+		<row row_number="29" isdata="1">שליחותא דידהו עבדי ה"נ ישראל</row>
+		<row row_number="30" isdata="1">שזקף לבינה גליא דעתיה דניחא ליה</row>
+		<row row_number="31" isdata="1">בעבודת כוכבים וכי אתא עובד כוכבים</row>
+		<row row_number="32" isdata="1">ופלח לה שליחותא דידיה קעביד ודלמא</row>
+		<row row_number="33" isdata="1">בעגל הוא דניחא להו במידי אחרינא לא</row>
+		<row row_number="34" isdata="1">אמר קרא אלה אלהיך ישראל מלמד שאיוו לאלוהות הרבה אימא כל</row>
+		<row row_number="35" isdata="1">דבהדי עגל ניתסרו מכאן ואילך נישתרי מאן מוכחמתני' עבודת</row>
+		<row row_number="36" isdata="1">כוכבים שהניחוה עובדיה בשעת שלום מותרת בשעת מלחמה אסורה</row>
+		<row row_number="37" isdata="1">בימוסיאות של מלכים הרי אלו מותרות מפני שמעמידין אותה בשעה</row>
+		<row row_number="38" isdata="1">שהמלכים עוברים<EndMishna/><StartGemara/>גמ' אמר רבי ירמיה בר אבא אמר רב בית נמרוד הרי</row>
+		<row row_number="39" isdata="1">היא כעבודת כוכבים שהניחוה עובדיה בשעת שלום ומותר אע"ג דכי</row>
+		<row row_number="40" isdata="1">בדרינהו רחמנא כשעת מלחמה דמי אי בעיא למיהדר הדור מדלא</row>
+		<row row_number="41" isdata="1">הדור בטולי בטלה בימוסיאות של מלכים הרי אלו מותרות וכי מפני</row>
+		<row row_number="42" isdata="1">שמעמידין אותה בשעה שהמלכים עוברין מותרין אמר רבה בר בר חנה</row>
+		<row row_number="43" isdata="1">אמר רבי יוחנן ה"ק מפני שמעמידין אותן בשעה שהמלכים עוברין</row>
+		<row row_number="44" isdata="1">ומלכים מניחין דרך זו והולכין בדרך אחרת כי אתא עולא יתיב אבימסא</row>
+		<row row_number="45" isdata="1">פגימא א"ל רב יהודה לעולא והא רב ושמואל דאמרי תרוייהו בימוס שנפגם</row>
+		<row row_number="46" isdata="1">אסור ואפי' למ"ד אין עובדים לשברים ה"מ עבודת כוכבים דזילא ביה מלתא</row>
+		<row row_number="47" isdata="1">למפלח לשברים אבל האי לא איכפת ליה א"ל מאן יהיב לן מעפרא דרב</row>
+		<row row_number="48" isdata="1">ושמואל ומלאינן עיינין הא רבי יוחנן ור"ל דאמרי תרוייהו בימוס שנפגם מותר</row>
+		<row row_number="49" isdata="1">ואפי' למ"ד עובדין לשברים ה"מ עבודת כוכבים דכיון דפלחה זילא ביה מילת'</row>
+		<row row_number="50" isdata="1">לבטולה אבל הני שקלי להאי ומייתו בימוס אחרינא תניא כוותיה דר' יוחנן</row>
+		<row row_number="51" isdata="1">ור"ל בימוס שנפגם מותר מזבח שנפגם אסור עד שינתץ רובו ה"ד בימוס ה"ד</row>
+		<row row_number="52" isdata="1">מזבח א"ר יעקב בר אידי אמר ר' יוחנן בימוס אבן אחת מזבח אבנים הרבה</row>
+</amud>
+</daf>
+</masechet>
+</root>

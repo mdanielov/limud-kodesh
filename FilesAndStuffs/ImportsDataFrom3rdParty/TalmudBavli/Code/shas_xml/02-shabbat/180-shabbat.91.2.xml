@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:46.652573</dateCreated>
+   <lastModified>2019-12-21 20:28:46.652573</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="91">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>יוצא בכזית לענין שבת נמי בכזית הכי</row>
+		<row row_number="2" isdata="1">השתא התם מדאפקיה חוץ לחומת העזרה</row>
+		<row row_number="3" isdata="1">איפסיל ליה ביוצא אשבת לא מיחייב עד</row>
+		<row row_number="4" isdata="1">דמפיק ליה לרה"ר הכא שבת וטומאה בהדי</row>
+		<row row_number="5" isdata="1">הדדי קאתיין חזר והכניסו אינו חייב אלא</row>
+		<row row_number="6" isdata="1">כשיעורו פשיטא אמר אביי הכא במאי</row>
+		<row row_number="7" isdata="1">עסקינן כגון שזרקו לאוצר ומקומו ניכר מהו</row>
+		<row row_number="8" isdata="1">דתימא כיון דמקומו ניכר במילתיה קמייתא</row>
+		<row row_number="9" isdata="1">קאי קמ"ל מדזרקיה לאוצר בטולי בטליה</row>
+		<row row_number="10" isdata="1"><EndGemara/><StartMishna/>מתני' המוציא אוכלין ונתנן על האסקופה</row>
+		<row row_number="11" isdata="1">בין שחזר והוציאן בין שהוציאן אחר פטור</row>
+		<row row_number="12" isdata="1">מפני שלא עשה מלאכתו בבת אחת קופה</row>
+		<row row_number="13" isdata="1">שהיא מליאה פירות ונתנה על אסקופה</row>
+		<row row_number="14" isdata="1">החיצונה אע"פ שרוב פירות מבחוץ פטור</row>
+		<row row_number="15" isdata="1">עד שיוציא את כל הקופה<EndMishna/><StartGemara/>גמ' האי</row>
+		<row row_number="16" isdata="1">אסקופה מאי אילימא אסקופ' רה"ר פטור</row>
+		<row row_number="17" isdata="1">הא קא מפיק מרה"י לרה"ר אלא אסקופה</row>
+		<row row_number="18" isdata="1">רה"י בין שחזר והוציאן בין שהוציאן אחר</row>
+		<row row_number="19" isdata="1">פטור הא קא מפיק מרה"י לרה"ר אלא</row>
+		<row row_number="20" isdata="1">אסקופה כרמלית והא קמ"ל טעמא דנח</row>
+		<row row_number="21" isdata="1">בכרמלית הא לא נח בכרמלית מיחייב</row>
+		<row row_number="22" isdata="1"><EndGemara/><StartMishna/>מתני' דלא כבן עזאי דתניא המוציא</row>
+		<row row_number="23" isdata="1">מחנות לפלטיא דרך סטיו חייב ובן עזאי</row>
+		<row row_number="24" isdata="1">פוטר קופה שהיא מליאה כו' אמר חזקיה</row>
+		<row row_number="25" isdata="1">לא שנו אלא בקופה מליאה קישואין ודלועין</row>
+		<row row_number="26" isdata="1">אבל מליאה חרדל חייב אלמא קסבר אגד</row>
+		<row row_number="27" isdata="1">כלי לא שמיה אגד ור' יוחנן אמר אפי'</row>
+		<row row_number="28" isdata="1">מליאה חרדל פטור אלמא קסבר אגד כלי</row>
+		<row row_number="29" isdata="1">שמיה אגד א"ר זירא מתני' דלא כחזקיה דיקא</row>
+		<row row_number="30" isdata="1">ודלא כר' יוחנן דיקא כחזקיה לא דיקא</row>
+		<row row_number="31" isdata="1">דקתני עד שיוציא את כל הקופה טעמא דכל הקופה הא כל הפירות פטור</row>
+		<row row_number="32" isdata="1">אלמא קסבר אגד כלי שמיה אגד כרבי יוחנן לא דיקא דקתני אע"פ שרוב</row>
+		<row row_number="33" isdata="1">פירות בחוץ טעמא דרוב פירות הא כל פירות אע"ג דאגידא קופה מגואי</row>
+		<row row_number="34" isdata="1">חייב אלמא קסבר אגד כלי לא שמיה אגד ואלא קשיא חזקיה מתרץ לטעמי'</row>
+		<row row_number="35" isdata="1">ור' יוחנן מתרץ לטעמיה חזקיה מתרץ לטעמיה עד שיוציא את כל הקופה</row>
+		<row row_number="36" isdata="1">בד"א בקופה מליאה קישואין ודלועין אבל מליאה חרדל נעשה כמי שהוציא</row>
+		<row row_number="37" isdata="1">את כל הקופה וחייב ר"י מתרץ לטעמיה אע"פ שרוב פירות בחוץ ולא רוב</row>
+		<row row_number="38" isdata="1">פירות בלבד אלא אפילו כל פירות פטור עד שיוציא את כל הקופה מיתיבי</row>
+		<row row_number="39" isdata="1">המוציא קופת הרוכלין ונתנה על אסקופה החיצונה אע"פ שרוב מינין בחוץ</row>
+		<row row_number="40" isdata="1">פטור עד שיוציא את כל הקופה קס"ד בצררי קשיא לחזקיה אמר לך חזקיה</row>
+		<row row_number="41" isdata="1">הכא במאי עסקינן באורנסי מתיב רב ביבי בר אביי הגונב כיס בשבת חייב</row>
+		<row row_number="42" isdata="1">שכבר נתחייב בגניבה קודם שיבא לידי איסור שבת היה מגרר ויוצא פטור</row>
+		<row row_number="43" isdata="1">שהרי איסור גניבה ואיסור שבת באין כאחד ואי סלקא דעתך אגד כלי</row>
+		<row row_number="44" isdata="1">שמיה אגד קדים ליה איסור גניבה לאיסור שבת אי דאפקיה דרך פיו</row>
+		<row row_number="45" isdata="1">הכי נמי הכא במאי עסקינן דאפקיה דרך שוליו והאיכא מקום חלמה</row>
+</amud>
+</daf>
+</masechet>
+</root>

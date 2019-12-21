@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:49.384545</dateCreated>
+   <lastModified>2019-12-21 20:28:49.384545</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="122">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כתבי"/><ContGemara/>א"ל כאותן של בית אביך ואמר ר' אבא בר</row>
+		<row row_number="2" isdata="1">כהנא אמר ר' חנינא קרונות של בית רבי</row>
+		<row row_number="3" isdata="1">מותר לטלטלן בשבת א"ל ר' זירא בניטלין</row>
+		<row row_number="4" isdata="1">באדם אחד או בשני בני אדם א"ל כאותן</row>
+		<row row_number="5" isdata="1">של בית אביך ואמר ר' אבא בר כהנא</row>
+		<row row_number="6" isdata="1">התיר להם ר' חנינא לבית רבי לשתות יין</row>
+		<row row_number="7" isdata="1">בקרונות של נכרי בחותם אחד ולא ידענא</row>
+		<row row_number="8" isdata="1">אי משום דסבר לה כר' אליעזר אי משום</row>
+		<row row_number="9" isdata="1">אימתא דבי נשיאהמתני' נכרי שהדליק</row>
+		<row row_number="10" isdata="1">את הנר משתמש לאורו ישראל ואם בשביל</row>
+		<row row_number="11" isdata="1">ישראל אסור מילא מים להשקות בהמתו</row>
+		<row row_number="12" isdata="1">משקה אחריו ישראל ואם בשביל ישראל</row>
+		<row row_number="13" isdata="1">אסור עשה נכרי כבש לירד בו יורד אחריו</row>
+		<row row_number="14" isdata="1">ישראל ואם בשביל ישראל אסור מעשה ברבן</row>
+		<row row_number="15" isdata="1">גמליאל וזקנים שהיו באין בספינה ועשה נכרי</row>
+		<row row_number="16" isdata="1">כבש לירד בו וירדו בו ר"ג וזקנים<EndMishna/><StartGemara/>גמ' וצריכא</row>
+		<row row_number="17" isdata="1">דאי אשמעינן נר משום דנר לאחד נר למאה</row>
+		<row row_number="18" isdata="1">אבל מים ליגזר דילמא אתי לאפושי בשביל</row>
+		<row row_number="19" isdata="1">ישראל וכבש ל"ל מעשה דרבן גמליאל וזקנים</row>
+		<row row_number="20" isdata="1">קמ"ל ת"ר נכרי שליקט עשבים מאכיל אחריו</row>
+		<row row_number="21" isdata="1">ישראל ואם בשביל ישראל אסור מילא מים</row>
+		<row row_number="22" isdata="1">להשקות בהמתו משקה אחריו ישראל ואם</row>
+		<row row_number="23" isdata="1">בשביל ישראל אסור בד"א שאין מכירו אבל</row>
+		<row row_number="24" isdata="1">מכירו אסור איני והאמר רב הונא אמר רבי</row>
+		<row row_number="25" isdata="1">חנינא מעמיד אדם בהמתו על גבי עשבים</row>
+		<row row_number="26" isdata="1">בשבת אבל לא על גבי מוקצה בשבת</row>
+		<row row_number="27" isdata="1">דקאים לה באפה ואזלא היא ואכלה אמר</row>
+		<row row_number="28" isdata="1">מר בד"א שאין מכירו אבל מכירו אסור הא</row>
+		<row row_number="29" isdata="1">רבן גמליאל מכירו הוה אמר אביי שלא בפניו</row>
+		<row row_number="30" isdata="1">הוה רבא אמר אפי' תימא בפניו נר לאחד</row>
+		<row row_number="31" isdata="1">נר למאה מיתיבי אמר להן רבן גמליאל הואיל</row>
+		<row row_number="32" isdata="1">ושלא בפנינו עשאו נרד בו אימא הואיל ועשאו</row>
+		<row row_number="33" isdata="1">נרד בו תא שמע עיר שישראל ונכרים דרין</row>
+		<row row_number="34" isdata="1">בתוכה והיתה בה מרחץ המרחצת בשבת</row>
+		<row row_number="35" isdata="1">אם רוב נכרים מותר לרחוץ בה מיד אם</row>
+		<row row_number="36" isdata="1">רוב ישראל ימתין בכדי שיחמו חמין התם</row>
+		<row row_number="37" isdata="1">כי מחממי אדעתא דרובא מחממי תא שמע</row>
+		<row row_number="38" isdata="1">נר הדלוק במסיבה אם רוב נכרים מותר</row>
+		<row row_number="39" isdata="1">להשתמש לאורה אם רוב ישראל אסור מחצה</row>
+		<row row_number="40" isdata="1">על מחצה אסור התם נמי כי מדלקי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:53.171485</dateCreated>
+   <lastModified>2019-12-21 20:28:53.171485</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="157">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שהחשיך "/><ContGemara/>וגיגית סדוקה מונחת על גבן ופקקו את</row>
+		<row row_number="2" isdata="1">המאור בטפיח וקשרו את המקידה בגמי</row>
+		<row row_number="3" isdata="1">לידע אם יש שם בגיגית פותח טפח אם לאו</row>
+		<row row_number="4" isdata="1">ומדבריהם למדנו שפוקקין ומודדין וקושרין</row>
+		<row row_number="5" isdata="1">בשבת עולא איקלע לבי ריש גלותא</row>
+		<row row_number="6" isdata="1">חזייה לרבה בר רב הונא דיתיב באוונא</row>
+		<row row_number="7" isdata="1">דמיא וקא משח ליה אמר ליה אימר</row>
+		<row row_number="8" isdata="1">דאמרי רבנן מדידה דמצוה דלאו מצוה מי</row>
+		<row row_number="9" isdata="1">אמור אמר ליה מתעסק בעלמא אנא<EndChapter name = "מי שהחשיך "/><EndGemara/></row>
+		<row row_number="10" isdata="0">הדרן עלך מי שהחשיך וסליקא לה מסכת שבת</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:10.672913</dateCreated>
+   <lastModified>2019-12-21 20:32:10.672913</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="102">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המנחות והנסכים"/><ContGemara/>ואי בעי זריק וקתני דאינו מטמא טומאת</row>
+		<row row_number="2" isdata="1">אוכלין מאי לאו דפיגל בזריקה לא דפיגל</row>
+		<row row_number="3" isdata="1">בשחיטה אבל פיגל בזריקה מאי הכי נמי</row>
+		<row row_number="4" isdata="1">דמטמא טומאת אוכלין אדתני פיגל במנחה</row>
+		<row row_number="5" isdata="1">מטמא טומאת אוכלין ליפלוג בדידה במה</row>
+		<row row_number="6" isdata="1">דברים אמורים דפיגל בשחיטה אבל פיגל</row>
+		<row row_number="7" isdata="1">בזריקה מטמא טומאת אוכלין פיגל במנחה</row>
+		<row row_number="8" isdata="1">איצטריכא ליה דאע"ג דפיגל בקמיצה דקומץ</row>
+		<row row_number="9" isdata="1">במנחה כשחיטה דמי אפי' הכי מטמא טומאת</row>
+		<row row_number="10" isdata="1">אוכלין הואיל והיתה לו שעת הכושר מעיקרו</row>
+		<row row_number="11" isdata="1">אמר רב אשי אמריתה לשמעתא קמיה דרב</row>
+		<row row_number="12" isdata="1">נחמן אפילו תימא לן ממש ואפילו תימא</row>
+		<row row_number="13" isdata="1">דפיגל בזריקה דאי בעי פריק אמר אי בעי</row>
+		<row row_number="14" isdata="1">הוה זריק לא אמרינן מיתיבי כלל אמר</row>
+		<row row_number="15" isdata="1">רבי יהושע כל שהיתה לו שעת היתר</row>
+		<row row_number="16" isdata="1">לכהנים אין מועלין בה וכל שלא היתה לו</row>
+		<row row_number="17" isdata="1">שעת היתר לכהנים מועלין בה ואיזהו</row>
+		<row row_number="18" isdata="1">שעת היתר לכהנים שלנה ושנטמאת ושיצאה</row>
+		<row row_number="19" isdata="1">ואיזו היא שלא היתה לו שעת היתר לכהנים</row>
+		<row row_number="20" isdata="1">שנשחטה חוץ לזמנה וחוץ למקומה ושקבלו</row>
+		<row row_number="21" isdata="1">פסולין וזרקו את דמה קתני מיהא רישא</row>
+		<row row_number="22" isdata="1">שלנה ושנטמאת ושיצאה מאי לאו לנה ממש</row>
+		<row row_number="23" isdata="1">והכא דאי בעי הוה זריק הוא וקתני דאין</row>
+		<row row_number="24" isdata="1">מועלין לא ראויה לצאת וראויה לטמא</row>
+		<row row_number="25" isdata="1">וראויה ללין אבל לינה ממש מאי הכי נמי</row>
+		<row row_number="26" isdata="1">דמועלין האי כל שהיה לו שעת היתר</row>
+		<row row_number="27" isdata="1">לכהנים וכל שלא היתה לו שעת היתר</row>
+		<row row_number="28" isdata="1">לכהנים כל שיש לו שעת היתר לכהנים אין</row>
+		<row row_number="29" isdata="1">מועלין בה וכל שאין לה שעת היתר לכהנים</row>
+		<row row_number="30" isdata="1">מועלין בה מיבעי ליה אלא אמר רב אשי</row>
+		<row row_number="31" isdata="1">מעילה אטומאה קא רמית מעילה משום</row>
+		<row row_number="32" isdata="1">קדושה ולאו קדושה היא לבתר דפקעה לה</row>
+		<row row_number="33" isdata="1">קדושתיה במאי הדרא רכבא לה טומאה</row>
+		<row row_number="34" isdata="1">משום אוכלא ולאו (משום) אוכלא היא כל</row>
+		<row row_number="35" isdata="1">היכא דאי בעי זריק מצי זריק לי' משוי ליה</row>
+		<row row_number="36" isdata="1">אוכלא ומטמא טומאת אוכלין היכא דאי</row>
+		<row row_number="37" isdata="1">בעי (מצי) זריק לא מצי זריק לא משוי ליה</row>
+		<row row_number="38" isdata="1">אוכלא [ולא] מטמא טומאת אוכלין מיתיבי</row>
+		<row row_number="39" isdata="1">המביא אשם תלוי ונודע שלא חטא אם</row>
+		<row row_number="40" isdata="1">עד שלא נשחט נודע לו יצא וירעה</row>
+		<row row_number="41" isdata="1">בעדר דברי רבי מאיר וחכמים אומרים</row>
+</amud>
+</daf>
+</masechet>
+</root>

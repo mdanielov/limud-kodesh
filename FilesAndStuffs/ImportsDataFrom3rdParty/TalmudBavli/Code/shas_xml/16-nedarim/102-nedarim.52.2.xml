@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:16.817484</dateCreated>
+   <lastModified>2019-12-21 20:30:16.817484</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="52">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הנודר מן המבושל"/><ContGemara/>גמ' ורמינהו מן העדשים אסור באשישים<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">ור' יוסי מתיר לא קשיא מר כי אתריה ומר</row>
+		<row row_number="3" isdata="1">כי אתריה באתרא דרבנן קרו לחלבא חלבא</row>
+		<row row_number="4" isdata="1">ולקומא קומא באתריה דרבי יוסי לקומא</row>
+		<row row_number="5" isdata="1">נמי קרו ליה קומא דחלבא תניא הנודר מן</row>
+		<row row_number="6" isdata="1">החלב מותר בקום מן הקום מותר בחלב מן</row>
+		<row row_number="7" isdata="1">החלב מותר בגבינה מן הגבינה מותר בחלב</row>
+		<row row_number="8" isdata="1">מן הרוטב מותר בקיפה מן הקיפה מותר</row>
+		<row row_number="9" isdata="1">ברוטב אם אמר בשר זה עלי אסור בו</row>
+		<row row_number="10" isdata="1">וברוטבו ובקיפו הנודר מן היין מותר</row>
+		<row row_number="11" isdata="1">בתבשיל שיש בו טעם יין אמר קונם יין זה</row>
+		<row row_number="12" isdata="1">שאיני טועם ונפל לתוך התבשיל אם יש בו</row>
+		<row row_number="13" isdata="1">טעם יין הרי זה אסורמתני' הנודר מן</row>
+		<row row_number="14" isdata="1">הענבים מותר ביין מן הזיתים מותר בשמן</row>
+		<row row_number="15" isdata="1">אמר קונם זיתים וענבים אלו שאיני טועם</row>
+		<row row_number="16" isdata="1">אסור בהן וביוצא מהן<EndMishna/><StartGemara/>גמ' בעי רמי בר</row>
+		<row row_number="17" isdata="1">חמא אלו דוקא או שאיני טועם דוקא אי ס"ד</row>
+		<row row_number="18" isdata="1">אלו דוקא שאיני טועם למ"ל הא קמ"ל</row>
+		<row row_number="19" isdata="1">דאע"ג דאמר שאיני טועם אי דאמר אלו</row>
+		<row row_number="20" isdata="1">מיתסר ואי לא לא אמר רבא ת"ש קונם</row>
+		<row row_number="21" isdata="1">פירות האלו עלי קונם הן לפי אסור בחילופיהן</row>
+		<row row_number="22" isdata="1">ובגידוליהן הא ביוצא מהן מותר ה"ה דאפי'</row>
+		<row row_number="23" isdata="1">ביוצא מהן אסור והא עדיפא ליה לאשמועינן</row>
+		<row row_number="24" isdata="1">דחילופיהן כגידוליהן דמי ת"ש שאיני אוכל</row>
+		<row row_number="25" isdata="1">ושאיני טועם מותר בחילופיהן ובגידוליהן</row>
+		<row row_number="26" isdata="1">הא היוצא מהן אסור איידי דלא נסיב ברישא</row>
+		<row row_number="27" isdata="1">יוצא מהן לא נסיב נמי בסיפא יוצא מהן ת"ש</row>
+		<row row_number="28" isdata="1">אמר ר' יהודה מעשה ואסר רבי טרפון עלי</row>
+		<row row_number="29" isdata="1">ביצים שנתבשלו עמו אמרו לו אימתי</row>
+		<row row_number="30" isdata="1">בזמן שאמר בשר זה עלי שהנודר מן</row>
+		<row row_number="31" isdata="1">הדבר ונתערב באחר ויש בו בנותן טעם</row>
+		<row row_number="32" isdata="1">הרי זה אסור באלו לא קא מיבעיא לן</row>
+		<row row_number="33" isdata="1">דדוקא הוא כי מיבעיא לן בשאיני טועם</row>
+		<row row_number="34" isdata="1">דוקא או לאו דוקא ת"ש דג דגים שאיני</row>
+		<row row_number="35" isdata="1">טועם אסור בהן בין גדולים בין קטנים</row>
+		<row row_number="36" isdata="1">בין חיים בין מבושלים ומותר בטרית</row>
+		<row row_number="37" isdata="1">טרופה ובציר אמר רבא וכבר יצא מהן</row>
+</amud>
+</daf>
+</masechet>
+</root>

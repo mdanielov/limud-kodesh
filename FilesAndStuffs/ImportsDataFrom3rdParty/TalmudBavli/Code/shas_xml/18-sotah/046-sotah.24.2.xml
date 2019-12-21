@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:26.625562</dateCreated>
+   <lastModified>2019-12-21 20:30:26.625562</lastModified>
+ </meta>
+ <masechet name="סוטה" serial="18">
+<daf value="24">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארוסה"/><ContGemara/>שעמום ורבי יאשיה האי תחת אישה מאי</row>
+		<row row_number="2" isdata="1">עביד ליה מיבעי ליה להקיש איש לאשה</row>
+		<row row_number="3" isdata="1">ואשה לאיש אלא טעמא דכתיבי הני קראי</row>
+		<row row_number="4" isdata="1">הא לאו הכי הוה אמינא ארוסה שתיא והא</row>
+		<row row_number="5" isdata="1">כי אתא רבי אחא בר חנינא מדרומא אתא</row>
+		<row row_number="6" isdata="1">ואייתי מתניתא בידיה מבלעדי אישך</row>
+		<row row_number="7" isdata="1">משקדמה שכיבת בעל לבועל ולא</row>
+		<row row_number="8" isdata="1">שקדמה שכיבת בועל לבעל אמר רמי בר</row>
+		<row row_number="9" isdata="1">חמא משכחת לה כגון שבא עליה ארוס</row>
+		<row row_number="10" isdata="1">בבית אביה דכוותה גבי שומרת יבם כגון</row>
+		<row row_number="11" isdata="1">שבא עליה יבם בבית חמיה הא שומרת</row>
+		<row row_number="12" isdata="1">יבם קרית לה אשתו מעלייתא היא</row>
+		<row row_number="13" isdata="1">דהאמר רב קנה לכל כשמואל דאמר לא</row>
+		<row row_number="14" isdata="1">קנה אלא לדברים האמורים בפרשה אי</row>
+		<row row_number="15" isdata="1">הכי לימא רב דאמר כרבי יאשיה ושמואל</row>
+		<row row_number="16" isdata="1">דאמר כרבי יונתן אמר לך רב אנא דאמרי</row>
+		<row row_number="17" isdata="1">אפילו לרבי יונתן מדאיצטריך קרא</row>
+		<row row_number="18" isdata="1">למעוטה מכלל דאשתו מעלייתא היא</row>
+</amud>
+</daf>
+</masechet>
+</root>

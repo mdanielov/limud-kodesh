@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:09.669419</dateCreated>
+   <lastModified>2019-12-21 20:29:09.669419</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="61">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תמיד נשחט"/><ContGemara/>שחטו למולין על מנת שיתכפרו בו ערלים</row>
+		<row row_number="2" isdata="1">בזריקה רב חסדא אמר פסול רבה אמר</row>
+		<row row_number="3" isdata="1">כשר רב חסדא אמר פסול יש מחשבת</row>
+		<row row_number="4" isdata="1">ערלים בזריקה רבה אמר כשר אין מחשבת</row>
+		<row row_number="5" isdata="1">ערלים בזריקה אמר רבה מנא אמינא לה</row>
+		<row row_number="6" isdata="1">דתניא יכול יפסול בני חבורה הבאין עמו</row>
+		<row row_number="7" isdata="1">ודין הוא הואיל וערלה פוסלת וטומאה</row>
+		<row row_number="8" isdata="1">פוסלת מה טומאה לא עשה בה מקצת</row>
+		<row row_number="9" isdata="1">טומאה ככל טומאה אף ערלה לא עשה בה</row>
+		<row row_number="10" isdata="1">מקצת ערלה ככל ערלה או כלך לדרך זו</row>
+		<row row_number="11" isdata="1">הואיל וערלה פוסלת וזמן פוסל מה זמן</row>
+		<row row_number="12" isdata="1">עשה בה מקצת זמן ככל זמן אף ערלה עשה</row>
+		<row row_number="13" isdata="1">בה מקצת ערלה ככל ערלה נראה למי</row>
+		<row row_number="14" isdata="1">דומה דנין דבר שאינו נוהג בכל הזבחים</row>
+		<row row_number="15" isdata="1">מדבר שאינו נוהג בכל הזבחים ואל יוכיח</row>
+		<row row_number="16" isdata="1">זמן שנוהג בכל הזבחים או כלך לדרך</row>
+		<row row_number="17" isdata="1">זו דנין דבר שלא הותר מכללו מדבר</row>
+		<row row_number="18" isdata="1">שלא הותר מכללו ואל תוכיח טומאה</row>
+		<row row_number="19" isdata="1">שהותרה מכללה ת"ל זאת מאי זאת</row>
+		<row row_number="20" isdata="1">אילימא דכולה ערלה פסלה מקצתה לא</row>
+		<row row_number="21" isdata="1">פסלה האי מוכל ערל נפקא אלא לאו הכי</row>
+		<row row_number="22" isdata="1">קתני ת"ל וכל ערל כולה ערלה פסלה</row>
+		<row row_number="23" isdata="1">מקצתה לא פסלה וכי תימא הוא הדין</row>
+		<row row_number="24" isdata="1">לזריקה דכולה ערלה מיהא פסלה ת"ל זאת</row>
+		<row row_number="25" isdata="1">בשחיטה הוא דכולה ערלה מיהא פסלה</row>
+		<row row_number="26" isdata="1">אבל זריקה אפילו כולה ערלה נמי לא פסלה</row>
+		<row row_number="27" isdata="1">וכי תימא מאי קולא דזריקה דאין מחשבת</row>
+		<row row_number="28" isdata="1">אוכלין בזריקה ורב חסדא אדרבה לאידך</row>
+		<row row_number="29" isdata="1">גיסא ת"ל וכל ערל כולה ערלה פסלה</row>
+		<row row_number="30" isdata="1">מקצתה לא פסלה אבל זריקה אפילו</row>
+		<row row_number="31" isdata="1">מקצתה נמי פסלה וכי תימא הוא הדין</row>
+		<row row_number="32" isdata="1">לזריקה דעד דאיכא כולה ערלה לא</row>
+		<row row_number="33" isdata="1">פסלה ת"ל זאת שחיטה הוא דמקצתה</row>
+		<row row_number="34" isdata="1">לא פסלה אבל זריקה אפילו מקצתה</row>
+		<row row_number="35" isdata="1">פסלה וכ"ת ומאי חומריה דזריקה דלא</row>
+		<row row_number="36" isdata="1">מקבע פיגול אלא בזריקה מתקיף לה רב</row>
+		<row row_number="37" isdata="1">אשי ממאי דהאי וכל ערל כולה משמע</row>
+		<row row_number="38" isdata="1">דילמא האי וכל ערל משמע כל דהו</row>
+		<row row_number="39" isdata="1">ערלה כתב רחמנא זאת דעד דאיכא</row>
+		<row row_number="40" isdata="1">כולה ערלה לא פסלה לא שנא</row>
+		<row row_number="41" isdata="1">בשחיטה ולא שנא בזריקה אלא אמר רב אשי רב חסדא ורבה</row>
+</amud>
+</daf>
+</masechet>
+</root>

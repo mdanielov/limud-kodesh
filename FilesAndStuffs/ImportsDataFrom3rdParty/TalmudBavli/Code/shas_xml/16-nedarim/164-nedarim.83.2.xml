@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:19.206489</dateCreated>
+   <lastModified>2019-12-21 20:30:19.206489</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="83">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContGemara/>דלמא מיין דאית לה צערא הפר לה</row>
+		<row row_number="2" isdata="1">מטומאת מת דלית לה צערא לא הפר לה</row>
+		<row row_number="3" isdata="1">אמרי טומאת מת נמי אית לה צערא דכתיב</row>
+		<row row_number="4" isdata="1">והחי יתן אל לבו ותניא היה ר' מאיר</row>
+		<row row_number="5" isdata="1">אומר מאי דכתיב והחי יתן אל לבו דיספוד</row>
+		<row row_number="6" isdata="1">יספדון ליה דיבכון יבכון ליה דיקבר יקברוניה</row>
+		<row row_number="7" isdata="1"><EndGemara/><StartMishna/>מתני' קונם שאני נהנה לבריות אינו יכול</row>
+		<row row_number="8" isdata="1">להפר ויכולה היא ליהנות בלקט שכחה</row>
+		<row row_number="9" isdata="1">ובפאה קונם כהנים לוים נהנים לי יטלו על</row>
+		<row row_number="10" isdata="1">כרחו כהנים אלו ולוים אלו נהנים לי יטלו</row>
+		<row row_number="11" isdata="1">אחרים<EndMishna/><StartGemara/>גמ' אלמא אפשר דמתזנה מדיליה</row>
+		<row row_number="12" isdata="1">מכלל דבעל לאו בכלל בריות הוא אימא</row>
+		<row row_number="13" isdata="1">סיפא יכולה ליהנות בלקט שכחה ופאה</row>
+		<row row_number="14" isdata="1">אבל מדבעל לא אכלה אלמא בעל בכלל</row>
+		<row row_number="15" isdata="1">בריות הוא אמר עולא לעולם לאו בכלל</row>
+		<row row_number="16" isdata="1">בריות הוא ועוד אין יכול להפר מפני שיכולה</row>
+		<row row_number="17" isdata="1">ליהנות בלקט שכחה ופאה רבא אמר לעולם</row>
+		<row row_number="18" isdata="1">בעל בכלל בריות הוא ומה טעם קאמר</row>
+		<row row_number="19" isdata="1">מה טעם אין יכול להפר מפני שיכולה</row>
+		<row row_number="20" isdata="1">ליהנות בלקט שכחה ופאה ר"נ אמר לעולם</row>
+		<row row_number="21" isdata="1">בעל לאו בכלל בריות הוא והכי קתני</row>
+		<row row_number="22" isdata="1">נתגרשה יכולה ליהנות בלקט שכחה ופאה</row>
+</amud>
+</daf>
+</masechet>
+</root>

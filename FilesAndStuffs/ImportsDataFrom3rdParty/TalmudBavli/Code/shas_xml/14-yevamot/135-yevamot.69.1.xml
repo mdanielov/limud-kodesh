@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:58.400475</dateCreated>
+   <lastModified>2019-12-21 20:29:58.400475</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="69">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלמנה"/><ContGemara/>מי שיש לו אלמנות וגירושין בה יצאו עובד</row>
+		<row row_number="2" isdata="1">כוכבים ועבד שאין לו אלמנות וגירושין</row>
+		<row row_number="3" isdata="1">אשכחן כהנת לויה וישראלית מנא לן</row>
+		<row row_number="4" isdata="1">כדאמר ר' אבא אמר רב בת ובת ה"נ בת</row>
+		<row row_number="5" isdata="1">ובת כמאן כרבי עקיבא דדריש ווי אפילו</row>
+		<row row_number="6" isdata="1">תימא רבנן כולה ובת קרא יתירא הוא</row>
+		<row row_number="7" isdata="1">ואימא מי שיש לו אלמנות וגירושין בה</row>
+		<row row_number="8" isdata="1">כי לית ליה זרע קאכלה כי אית ליה זרע לא</row>
+		<row row_number="9" isdata="1">אכלה מי שאין לו אלמנות וגירושין בה אע"ג</row>
+		<row row_number="10" isdata="1">דאית ליה זרע נמי תיכול אם כן רבויי לויה</row>
+		<row row_number="11" isdata="1">וישראלית למה לי ולרבי עקיבא דאמר אין</row>
+		<row row_number="12" isdata="1">קדושין תופסין בחייבי לאוין ומאי כי תהיה</row>
+		<row row_number="13" isdata="1">לאיש זר כי תיבעל אלמנה וגרושה למה לי</row>
+		<row row_number="14" isdata="1">אלמנה להחמיר עליה וגרושה להקל עליה</row>
+		<row row_number="15" isdata="1">וצריכא דאי אשמעינן אלמנה אלמנה הוא</row>
+		<row row_number="16" isdata="1">דכי לית לה זרע אכלה משום דחזיא לכהונה</row>
+		<row row_number="17" isdata="1">אבל גרושה דלא חזיא לכהונה אימא אע"ג</row>
+		<row row_number="18" isdata="1">דלית לה זרע לא אכלה ואי אשמעינן גרושה</row>
+		<row row_number="19" isdata="1">גרושה הוא דכי אית לה זרע לא אכלה</row>
+		<row row_number="20" isdata="1">משום דלא חזיא לכהונה אבל אלמנה דחזיא</row>
+		<row row_number="21" isdata="1">לכהונה אימא אע"ג דאית לה זרע נמי תיכול</row>
+		<row row_number="22" isdata="1">צריכא ואימא נבעלה לפסול לה אף מחזיר</row>
+		<row row_number="23" isdata="1">גרושתו לאיש זר אמר רחמנא מי שזר אצלה</row>
+		<row row_number="24" isdata="1">מעיקרא לאפוקי האי דלא זר אצלה מעיקרא</row>
+		<row row_number="25" isdata="1">הוא אי הכי חלל דלאו זר הוא מעיקרא</row>
+		<row row_number="26" isdata="1">לא לפסול אמר קרא לא יחלל זרעו בעמיו</row>
+		<row row_number="27" isdata="1">מקיש זרעו לו מה הוא פוסל אף זרעו נמי</row>
+		<row row_number="28" isdata="1">פוסל ואימא משעת הויה דומיא דכהן גדול</row>
+		<row row_number="29" isdata="1">באלמנה מה כהן גדול באלמנה בביאה אף</row>
+		<row row_number="30" isdata="1">האי נמי בביאה ואימא עד דאיכא הויה</row>
+		<row row_number="31" isdata="1">וביאה דומיא דכ"ג באלמנה מה כהן גדול</row>
+		<row row_number="32" isdata="1">באלמנה בביאה לחודה אף האי נמי בביאה</row>
+		<row row_number="33" isdata="1">לחודה ורבי יוסי אומר כל שזרעו פסול פוסל</row>
+		<row row_number="34" isdata="1">וכל שאין זרעו פסול אינו פוסל מאי איכא</row>
+		<row row_number="35" isdata="1">בין ת"ק לרבי יוסי אמר ר' יוחנן מצרי שני</row>
+		<row row_number="36" isdata="1">ואדומי שני איכא בינייהו ושניהם לא למדוה</row>
+		<row row_number="37" isdata="1">אלא מכהן גדול באלמנה ת"ק סבר מה כ"ג</row>
+		<row row_number="38" isdata="1">באלמנה שביאתו בעבירה ופוסל אף האי</row>
+		<row row_number="39" isdata="1">נמי פוסל ורבי יוסי סבר ככהן גדול מה</row>
+		<row row_number="40" isdata="1">כהן גדול שזרעו פסול ופוסל אף כל שזרעו</row>
+		<row row_number="41" isdata="1">פסול פוסל לאפוקי מצרי שני דאין זרעו</row>
+		<row row_number="42" isdata="1">פסול דכתיב בנים אשר יולדו להם דור</row>
+		<row row_number="43" isdata="1">שלישי יבא להם בקהל ה' רשב"ג אומר</row>
+		<row row_number="44" isdata="1">כל שאתה נושא בתו אתה נושא אלמנתו</row>
+		<row row_number="45" isdata="1">וכו' מאי איכא בין ר' יוסי לרבן שמעון בן</row>
+		<row row_number="46" isdata="1">גמליאל אמר עולא גר עמוני ומואבי איכא</row>
+		<row row_number="47" isdata="1">בינייהו ושניהם לא למדוה אלא מכהן גדול</row>
+		<row row_number="48" isdata="1">באלמנה רבי יוסי סבר מה כהן גדול באלמנה</row>
+		<row row_number="49" isdata="1">שזרעו פסול ופוסל אף כל שזרעו פסול פוסל רשב"ג סבר מה כהן גדול באלמנה</row>
+		<row row_number="50" isdata="1">שכל זרעו פסול ופוסל אף שכל זרעו פסול ופוסל לאפוקי עמוני ומואבי דאין</row>
+		<row row_number="51" isdata="1">כל זרעו פסול דאמר מר עמוני ולא עמונית מואבי ולא מואביתמתני'</row>
+		<row row_number="52" isdata="1">האונס והמפתה והשוטה לא פוסלין ולא מאכילין ואם אינן ראויין לבא בישראל</row>
+		<row row_number="53" isdata="1">הרי אלו פוסלין כיצד (היה) ישראל שבא על בת כהן תאכל בתרומה</row>
+</amud>
+</daf>
+</masechet>
+</root>

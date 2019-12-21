@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:07.473912</dateCreated>
+   <lastModified>2019-12-21 20:32:07.473912</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="69">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>בכורים לפירא קא אמרינן למזבח קא אמרינן</row>
+		<row row_number="2" isdata="1">והא אכיל לה מזבח מפירי דהא שתא בעי</row>
+		<row row_number="3" isdata="1">רמי בר חמא שתי הלחם הנצה שריא או</row>
+		<row row_number="4" isdata="1">חנטה שרייה מאי הנצה ומאי חנטה אילימא</row>
+		<row row_number="5" isdata="1">הנצה דפירא וחנטה דפירא השתא השרשה</row>
+		<row row_number="6" isdata="1">שריא הנצה וחנטה מיבעיא אלא הנצה</row>
+		<row row_number="7" isdata="1">דעלה וחנטה דעלה מי הוי כי השרשה או</row>
+		<row row_number="8" isdata="1">לא תיקו בעי רבא בר רב חנן חטין שזרען</row>
+		<row row_number="9" isdata="1">בקרקע עומר מתירן או אין עומר מתירן היכי</row>
+		<row row_number="10" isdata="1">דמי אי דאשרוש תנינא אי דלא אשרוש</row>
+		<row row_number="11" isdata="1">תנינא דתנן אם השרישו קודם לעומר עומר</row>
+		<row row_number="12" isdata="1">מתירן ואם לאו אסורין עד שיבא עומר הבא</row>
+		<row row_number="13" isdata="1">לא צריכא דחצדינהו וזרעינהו קודם לעומר</row>
+		<row row_number="14" isdata="1">ואתא עומר וחליף עלייהו וקא מיבעיא ליה</row>
+		<row row_number="15" isdata="1">מהו לנקוטי ומיכל מינייהו כמאן דשדייא</row>
+		<row row_number="16" isdata="1">בכדא דמיא ושרינהו עומר או דלמא בטיל</row>
+		<row row_number="17" isdata="1">להו לגבי ארעא יש להן אונאה או אין להן</row>
+		<row row_number="18" isdata="1">אונאה היכי דמי אילימא דאמר ליה שדאי</row>
+		<row row_number="19" isdata="1">בה שיתא ואתו סהדי ואמרי דלא שדא בה</row>
+		<row row_number="20" isdata="1">אלא חמשה והאמר רבא כל דבר שבמדה</row>
+		<row row_number="21" isdata="1">ושבמשקל ושבמנין אפי' פחות מכדי אונאה</row>
+		<row row_number="22" isdata="1">חוזר אלא דאמר ליה שדאי בה כדבעי לה</row>
+		<row row_number="23" isdata="1">ואתו סהדי ואמרי דלא שדא בה כדבעי לה</row>
+		<row row_number="24" isdata="1">יש להן אונאה דכמאן דשדייא בכדא דמיא</row>
+		<row row_number="25" isdata="1">ויש להן אונאה או דלמא בטיל להו לגבי</row>
+		<row row_number="26" isdata="1">ארעא נשבעין עליהן או אין נשבעין עליהן</row>
+		<row row_number="27" isdata="1">כדשדייא בכדא דמיא וכמטלטלי דמו</row>
+		<row row_number="28" isdata="1">ונשבעין עליהן או דלמא בטיל להו אגב</row>
+		<row row_number="29" isdata="1">ארעא וכמקרקעי דמו ואין נשבעין עליהן תיקו</row>
+		<row row_number="30" isdata="1">בעי רמי בר חמא חטין שבגללי בקר ושעורין</row>
+		<row row_number="31" isdata="1">שבגללי בהמה מהו למאי אילימא לטמויי</row>
+		<row row_number="32" isdata="1">טומאת אוכלין תנינא חטין שברעי בקר</row>
+		<row row_number="33" isdata="1">ושעורין שבגללי בהמה חישב עליהן</row>
+		<row row_number="34" isdata="1">לאכילה אין מטמא טומאת אוכלין לקטן</row>
+		<row row_number="35" isdata="1">לאכילה מטמא טומאת אוכלין אלא למנחות</row>
+		<row row_number="36" isdata="1">פשיטא דלא הקריבהו נא לפחתך הירצך</row>
+		<row row_number="37" isdata="1">או הישא פניך לא צריכא דנקטינהו וזרעינהו</row>
+		<row row_number="38" isdata="1">וקא בעי לאיתויי מנחות מינייהו מאי משום</row>
+		<row row_number="39" isdata="1">דמאיסותא הוא וכיון דזרעינהו אזדא</row>
+		<row row_number="40" isdata="1">למאיסותייהו או דלמא משום כחישותא הוא</row>
+		<row row_number="41" isdata="1">והשתא נמי כחושה תיקו בעי רמי בר</row>
+		<row row_number="42" isdata="1">חמא פיל שבלע כפיפה מצרית והקיאה</row>
+		<row row_number="43" isdata="1">דרך בית הרעי מהו למאי אילימא</row>
+		<row row_number="44" isdata="1">למבטל טומאתה תנינא כל הכלים</row>
+		<row row_number="45" isdata="1">יורדין לידי טומאתן במחשבה ואין עולין</row>
+		<row row_number="46" isdata="1">מטומאתן אלא בשינוי מעשה לא צריכא</row>
+		<row row_number="47" isdata="1">דבלע הוצין ועבדינהו כפיפה מצרית מי הוה עיכול הוה ליה</row>
+</amud>
+</daf>
+</masechet>
+</root>

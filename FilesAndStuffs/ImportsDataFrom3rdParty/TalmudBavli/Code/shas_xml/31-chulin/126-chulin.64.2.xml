@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:18.580187</dateCreated>
+   <lastModified>2019-12-21 20:32:18.580187</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>לרבות אפרוחים שלא נפתחו עיניהם</row>
+		<row row_number="2" isdata="1">מדרבנן וקרא אסמכתא בעלמא תנו רבנן</row>
+		<row row_number="3" isdata="1">גיעולי ביצים מותרות ביצים מוזרות</row>
+		<row row_number="4" isdata="1">נפש יפה תאכלם נמצא עליה קורט דם</row>
+		<row row_number="5" isdata="1">זורק את הדם ואוכל את השאר אמר רבי</row>
+		<row row_number="6" isdata="1">ירמיה והוא שנמצא על קשר שלה תני</row>
+		<row row_number="7" isdata="1">דוסתאי אבוה דר' אפטוריקי לא שנו אלא</row>
+		<row row_number="8" isdata="1">שנמצא על חלבון שלה אבל נמצא על</row>
+		<row row_number="9" isdata="1">חלמון שלה אפי' ביצה אסורה מאי טעמא</row>
+		<row row_number="10" isdata="1">דשדא תכלא בכולה א"ל רב גביהה מבי</row>
+		<row row_number="11" isdata="1">כתיל לרב אשי איפכא תני תנא קמיה דאביי</row>
+		<row row_number="12" isdata="1">ואביי הוא דתרצה ניהליה הכי אמר חזקיה</row>
+		<row row_number="13" isdata="1">מנין לביצת טמאה שהיא אסורה מן התורה</row>
+		<row row_number="14" isdata="1">שנאמר ואת בת היענה וכי בת יש לה</row>
+		<row row_number="15" isdata="1">ליענה אלא איזו זו ביצה טמאה ודלמא היינו</row>
+		<row row_number="16" isdata="1">שמייהו לא סלקא דעתך דכתיב בת עמי</row>
+		<row row_number="17" isdata="1">לאכזר כיענים במדבר ולא והא כתיב אעשה</row>
+		<row row_number="18" isdata="1">מספד כתנים ואבל כבנות יענה כיענה זו</row>
+		<row row_number="19" isdata="1">שמתאבלת על בניה והא כתיב ושכנו שם בנות יענה כיענה זו</row>
+		<row row_number="20" isdata="1">ששוכנת עם בניה והכתיב תכבדני חית השדה תנים ובנות יענה ואי</row>
+		<row row_number="21" isdata="1">סלקא דעתך ביצה ביצה בת מימר שירה היא אלא כתיב היענה וכתיב</row>
+		<row row_number="22" isdata="1">בת היענה ושאני הכא דפסק ספרא לשתי תיבות ומדפסיק להו ספרא</row>
+</amud>
+</daf>
+</masechet>
+</root>

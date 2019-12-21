@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:21.265472</dateCreated>
+   <lastModified>2019-12-21 20:30:21.265472</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="20">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאמר"/><ContGemara/>ובית הלל סברי משום אוירא גזרו עליה לא</row>
+		<row row_number="2" isdata="1">דכולי עלמא משום גושה גזרו עליה וב"ש</row>
+		<row row_number="3" isdata="1">סברי בסתם נזירות קניסנא וב"ה סברי כי</row>
+		<row row_number="4" isdata="1">קניסנא בתחילת נזירות מעשה בהילני</row>
+		<row row_number="5" isdata="1">המלכה וכו' איבעיא להו בשנטמאת</row>
+		<row row_number="6" isdata="1">ואליבא דב"ש או דלמא בשלא נטמאת</row>
+		<row row_number="7" isdata="1">ואליבא דב"ה ת"ש עלתה לארץ והורוה ב"ה</row>
+		<row row_number="8" isdata="1">שתהא נזירה עוד שבע שנים אחרות וכו'</row>
+		<row row_number="9" isdata="1">ואי ס"ד בשנטמאת ואליבא דב"ש אי הכי</row>
+		<row row_number="10" isdata="1">ר' יהודה אומר לא היתה נזירה אלא י"ד</row>
+		<row row_number="11" isdata="1">שנה י"ד שנה ושלשים יום מיבעי ליה תניא</row>
+		<row row_number="12" isdata="1">נמי הכי רבי יהודה אומר משום ר' אליעזר</row>
+		<row row_number="13" isdata="1">דאמר קרא זאת תורת הנזיר התורה</row>
+		<row row_number="14" isdata="1">אמרה כי נטמא ביום מלאת תן לו תורת נזיר</row>
+		<row row_number="15" isdata="1"><EndGemara/><StartMishna/>מתני' מי שהיו שתי כיתי עדים מעידות</row>
+		<row row_number="16" isdata="1">אותו אלו מעידים שנזר שתים ואלו מעידים</row>
+		<row row_number="17" isdata="1">שנזר חמש ב"ש אומרים נחלקה העדות</row>
+		<row row_number="18" isdata="1">ואין כאן נזירות וב"ה אומרים יש בכלל</row>
+		<row row_number="19" isdata="1">חמש שתים שיהא נזיר שתים<EndMishna/><StartGemara/>גמ' מתני'</row>
+		<row row_number="20" isdata="1">דלא כי האי תנא דתניא רבי ישמעאל בנו</row>
+		<row row_number="21" isdata="1">של רבי יוחנן בן ברוקא אומר לא נחלקו</row>
+		<row row_number="22" isdata="1">ב"ש וב"ה על שתי כיתי עדים אחת אומרת</row>
+		<row row_number="23" isdata="1">שתים ואחת אומרת חמש שיש בכלל חמש</row>
+		<row row_number="24" isdata="1">שתים על מה נחלקו על כת אחת אחד</row>
+		<row row_number="25" isdata="1">אומר שתים ואחד אומר חמש שב"ש אומרים</row>
+		<row row_number="26" isdata="1">נחלקה עדותן ובה"א יש בכלל חמש שתים</row>
+		<row row_number="27" isdata="1">אמר רב הכל מודים במונה א"ל רב חמא</row>
+		<row row_number="28" isdata="1">לרב חסדא מאי קאמר אילימא אחד אומר</row>
+		<row row_number="29" isdata="1">חמש ולא שתים ואחד אומר שתים ולא</row>
+		<row row_number="30" isdata="1">חמש הא קא מכחשי אהדדי אלא אחד אומר</row>
+		<row row_number="31" isdata="1">אחת ושתים ואחד אומר שלש ארבע חמש</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:40.451428</dateCreated>
+   <lastModified>2019-12-21 20:30:40.451428</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="48">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContGemara/>המוכר שטר חוב לחבירו וחזר ומחלו מחול</row>
+		<row row_number="2" isdata="1">ואפי' יורש מוחל דמר אית ליה דשמואל</row>
+		<row row_number="3" isdata="1">ומר לית ליה דשמואל ואיבעית אימא דכ"ע</row>
+		<row row_number="4" isdata="1">אית להו דשמואל והכא באשה קמיפלגי</row>
+		<row row_number="5" isdata="1">מר סבר אשה סמכה דעתה מימר אמרה לא</row>
+		<row row_number="6" isdata="1">שביק ליה לדידי ומחל ליה לאחריני ומר</row>
+		<row row_number="7" isdata="1">סבר אשה נמי לא סמכה דעתה במלוה</row>
+		<row row_number="8" isdata="1">על פה במאי פליגי בדרב הונא אמר רב</row>
+		<row row_number="9" isdata="1">דאמר רב הונא אמר רב מנה לי בידך</row>
+		<row row_number="10" isdata="1">תנהו לפלוני במעמד שלשתן קנה מר סבר</row>
+		<row row_number="11" isdata="1">כי קאמר רב ה"מ בפקדון אבל מלוה לא</row>
+		<row row_number="12" isdata="1">ומר סבר לא שנא מלוה ולא שנא פקדון</row>
+		<row row_number="13" isdata="1">נימא כתנאי התקדשי לי בשטר ר"מ אומר</row>
+		<row row_number="14" isdata="1">אינה מקודשת ור' אלעזר אומר מקודשת</row>
+		<row row_number="15" isdata="1">וחכ"א שמין את הנייר אם יש בו שוה</row>
+		<row row_number="16" isdata="1">פרוטה מקודשת ואם לאו אינה מקודשת האי</row>
+		<row row_number="17" isdata="1">שטר ה"ד אילימא שט"ח דאחרים קשיא</row>
+		<row row_number="18" isdata="1">דר"מ אדר"מ אלא בשט"ח דידה ובמקדש</row>
+		<row row_number="19" isdata="1">במלוה קא מיפלגי א"ר נחמן בר יצחק הכא</row>
+		<row row_number="20" isdata="1">במאי עסקינן כגון שקדשה בשטר שאין</row>
+		<row row_number="21" isdata="1">עליו עדים ור"מ לטעמיה דאמר עדי חתימה</row>
+		<row row_number="22" isdata="1">כרתי ור' אלעזר לטעמי' דאמר עדי מסירה</row>
+		<row row_number="23" isdata="1">כרתי ורבנן מספקא להו אי כר"מ אי כרבי</row>
+		<row row_number="24" isdata="1">אלעזר הלכך שמין את הנייר אם יש בו</row>
+		<row row_number="25" isdata="1">שוה פרוטה מקודשת ואם לאו אינה מקודשת</row>
+		<row row_number="26" isdata="1">ואיבעית אימא כגון שכתבו שלא לשמה</row>
+		<row row_number="27" isdata="1">ובדר"ל קמיפלגי דבעי ר"ל שטר אירוסין</row>
+		<row row_number="28" isdata="1">שכתבו שלא לשמה מהו הויה ליציאה</row>
+		<row row_number="29" isdata="1">מקשינן מה יציאה בעינן לשמה אף הויה</row>
+		<row row_number="30" isdata="1">נמי בעינן לשמה או דלמא הויות להדדי</row>
+		<row row_number="31" isdata="1">מקשינן מה הויה דכסף לא בעינן לשמה</row>
+		<row row_number="32" isdata="1">אף הויה דשטר לא בעינן לשמה בתר דבעיא</row>
+		<row row_number="33" isdata="1">הדר פשטה ויצאה והיתה מקיש הויה</row>
+		<row row_number="34" isdata="1">ליציאה מר אית ליה דר"ל ומר לית ליה דר"ל</row>
+		<row row_number="35" isdata="1">ואי בעית אימא דכ"ע אית להו דר"ל והכא</row>
+		<row row_number="36" isdata="1">במאי עסקינן שכתבו לשמה ושלא מדעתה</row>
+		<row row_number="37" isdata="1">ובפלוגתא דרבא ורבינא ורב פפא ורב</row>
+		<row row_number="38" isdata="1">שרביא קמיפלגי דאיתמר כתבו לשמה</row>
+		<row row_number="39" isdata="1">ושלא מדעתה רבא ורבינא אמרי מקודשת</row>
+		<row row_number="40" isdata="1">רב פפא ורב שרביא אמרי אינה מקודשת</row>
+		<row row_number="41" isdata="1">נימא כהני תנאי דתניא עשה לי שירים</row>
+		<row row_number="42" isdata="1">נזמים וטבעות ואקדש אני לך כיון שעשאן</row>
+		<row row_number="43" isdata="1">מקודשת דברי רבי מאיר וחכ"א אינה מקודשת עד שיגיע ממון לידה</row>
+		<row row_number="44" isdata="1">האי ממון ה"ד אילימא אותו ממון מכלל דת"ק סבר אפי' אותו ממון</row>
+		<row row_number="45" isdata="1">נמי לא אלא במאי בו מקדשא אלא לאו בממון אחר ושמע מינה במקדש</row>
+		<row row_number="46" isdata="1">במלוה קמיפלגי וסברי דכ"ע ישנה לשכירות מתחלה [ועד] סוף והוה</row>
+		<row row_number="47" isdata="1">מלוה מאי לאו בהא קמיפלגי דמר סבר המקדש במלוה מקודשת ומר</row>
+		<row row_number="48" isdata="1">סבר המקדש במלוה אינה מקודשת לא דכולי עלמא מקדש במלוה אינה</row>
+		<row row_number="49" isdata="1">מקודשת והכא בישנה לשכירות מתחלה ועד סוף קמיפלגי מר סבר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:38.456793</dateCreated>
+   <lastModified>2019-12-21 20:28:38.456793</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "יציאות השבת"/><StartMishna/><ContChapter name = "יציאות השבת"/><ContMishna/>יציאות</row>
+		<row row_number="2" isdata="1">השבת שתים שהן ארבע בפנים ושתים</row>
+		<row row_number="3" isdata="1">שהן ארבע בחוץ כיצד העני עומד בחוץ ובעל</row>
+		<row row_number="4" isdata="1">הבית בפנים פשט העני את ידו לפנים</row>
+		<row row_number="5" isdata="1">ונתן לתוך ידו של בעל הבית או שנטל</row>
+		<row row_number="6" isdata="1">מתוכה והוציא העני חייב ובעל הבית</row>
+		<row row_number="7" isdata="1">פטור פשט בעל הבית את ידו לחוץ ונתן</row>
+		<row row_number="8" isdata="1">לתוך ידו של עני או שנטל מתוכה והכניס</row>
+		<row row_number="9" isdata="1">בעל הבית חייב והעני פטור פשט העני</row>
+		<row row_number="10" isdata="1">את ידו לפנים ונטל בעל הבית מתוכה או</row>
+		<row row_number="11" isdata="1">שנתן לתוכה והוציא שניהם פטורין פשט</row>
+		<row row_number="12" isdata="1">בעל הבית את ידו לחוץ ונטל העני מתוכה</row>
+		<row row_number="13" isdata="1">או שנתן לתוכה והכניס שניהם פטורין</row>
+		<row row_number="14" isdata="1"><EndMishna/><StartGemara/>גמ' תנן התם שבועות שתים שהן ארבע</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:22.270728</dateCreated>
+   <lastModified>2019-12-21 20:31:22.270728</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="171">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>בשלמא בי דינא אלימי לאפקועי ממונא</row>
+		<row row_number="2" isdata="1">אלא עדים שעשו שליחותן חוזרין ועושין</row>
+		<row row_number="3" isdata="1">שליחותן ולא והא אמר רב יהודה אמר רב</row>
+		<row row_number="4" isdata="1">עדים כותבין אפילו עשרה שטרות על שדה</row>
+		<row row_number="5" isdata="1">אחת רב יוסף אמר בשטר מתנה ורבה אמר</row>
+		<row row_number="6" isdata="1">בשטר שאין בו אחריות מאי ברייתא דתניא</row>
+		<row row_number="7" isdata="1">הרי שהיו נושין בו אלף זוז ופרע מהן חמש</row>
+		<row row_number="8" isdata="1">מאות זוז עדים מקרעין את השטר וכותבין</row>
+		<row row_number="9" isdata="1">לו שטר אחר מזמן ראשון דברי רבי יהודה</row>
+		<row row_number="10" isdata="1">רבי יוסי אומר שטר זה יהא מונח במקומו</row>
+		<row row_number="11" isdata="1">ויכתבו שובר ומפני שני דברים אמרו כותבין</row>
+		<row row_number="12" isdata="1">שובר אחת כדי שיכוף לפורעו ואחת כדי</row>
+		<row row_number="13" isdata="1">שיגבה מזמן ראשון והא רבי יהודה נמי מזמן</row>
+		<row row_number="14" isdata="1">ראשון קאמר הכי קאמר ליה ר' יוסי לרבי</row>
+		<row row_number="15" isdata="1">יהודה אי מזמן ראשון קאמרת פליגנא עלך</row>
+		<row row_number="16" isdata="1">בחדא אי מזמן שני קאמרת פליגנא עלך</row>
+		<row row_number="17" isdata="1">בתרתי תנו רבנן שטר שזמנו כתוב</row>
+		<row row_number="18" isdata="1">בשבת או בעשרה בתשרי שטר מאוחר הוא</row>
+		<row row_number="19" isdata="1">וכשר דברי ר' יהודה רבי יוסי פוסל אמר לו</row>
+		<row row_number="20" isdata="1">רבי יהודה והלא מעשה בא לפניך בצפורי</row>
+		<row row_number="21" isdata="1">והכשרת אמר לו כשהכשרתי בזה</row>
+		<row row_number="22" isdata="1">הכשרתי והא רבי יהודה נמי בזה קאמר</row>
+		<row row_number="23" isdata="1">אמר רבי פדת הכל מודים שאם הוזקקנו לעונתו</row>
+		<row row_number="24" isdata="1">של שטר ונמצאת עונתו מכוונת בשבת</row>
+		<row row_number="25" isdata="1">או בעשרה בתשרי ששטר מאוחר הוא וכשר</row>
+</amud>
+</daf>
+</masechet>
+</root>

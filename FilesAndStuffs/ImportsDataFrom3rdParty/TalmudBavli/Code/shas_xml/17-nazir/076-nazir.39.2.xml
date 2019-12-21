@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:22.780472</dateCreated>
+   <lastModified>2019-12-21 20:30:22.780472</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="39">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שלשה מינין"/><ContGemara/>עיקבי נימהון ש"מ מלתחת רבי ש"מ ואלא</row>
+		<row row_number="2" isdata="1">הא דתניא נזיר שגילחוהו לסטים ושיירו</row>
+		<row row_number="3" isdata="1">בו כדי לכוף ראשו לעיקרו אינו סותר ואי</row>
+		<row row_number="4" isdata="1">סלקא דעתך מלתחת רבי ליסתור כגון</row>
+		<row row_number="5" isdata="1">שגילחוהו אחר מלאת ומני רבי אליעזר היא</row>
+		<row row_number="6" isdata="1">דאמר כל אחר מלאת ז' סותר מ"ט דר"א</row>
+		<row row_number="7" isdata="1">יליף תגלחת טהרה מתגלחת טומאה מה</row>
+		<row row_number="8" isdata="1">תגלחת טומאה שבעה אף תגלחת טהרה</row>
+		<row row_number="9" isdata="1">שבעה וקים להו לרבנן כל ז' יומין אתיא</row>
+		<row row_number="10" isdata="1">מזייא כדי לכוף ראשו לעיקרו נזיר שגילח</row>
+		<row row_number="11" isdata="1">בין בתער בין בזוג או שסיפסף כל שהוא חייב</row>
+		<row row_number="12" isdata="1">ת"ר תער אין לי אלא תער תלש מירט</row>
+		<row row_number="13" isdata="1">סיפסף כל שהוא מנין ת"ל קדוש יהיה גדל</row>
+		<row row_number="14" isdata="1">פרע שער ראשו דברי ר' יאשיה ר' יונתן</row>
+		<row row_number="15" isdata="1">אומר תער אין לי אלא תער מירט תלש</row>
+		<row row_number="16" isdata="1">סיפסף כל שהוא פטור והכתיב קדוש יהיה</row>
+		<row row_number="17" isdata="1">למימרא דאם גילח ליה בתער קאים עליה</row>
+		<row row_number="18" isdata="1">בעשה ול"ת תניא אידך תער אין לי אלא</row>
+		<row row_number="19" isdata="1">תער תלש מירט סיפסף כל שהוא מנין ת"ל</row>
+		<row row_number="20" isdata="1">לא יעבור על ראשו ומאחר שסופינו</row>
+		<row row_number="21" isdata="1">לרבות כל דבר מה ת"ל תער לא יעבור על</row>
+		<row row_number="22" isdata="1">ראשו לפי שלא למדנו לתגלחת האחרונה</row>
+		<row row_number="23" isdata="1">שיהיה בתער ללמדו ממצורע אי אפשר</row>
+</amud>
+</daf>
+</masechet>
+</root>

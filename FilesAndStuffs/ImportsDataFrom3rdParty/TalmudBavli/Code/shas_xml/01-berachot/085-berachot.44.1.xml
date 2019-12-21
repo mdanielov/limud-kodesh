@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:36.714793</dateCreated>
+   <lastModified>2019-12-21 20:28:36.714793</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="44">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד מברכין"/><ContMishna/>מתני' הביאו לפניו מליח תחלה ופת<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">עמו מברך על המליח ופוטר את הפת</row>
+		<row row_number="3" isdata="1">שהפת טפלה לו זה הכלל כל שהוא עיקר</row>
+		<row row_number="4" isdata="1">ועמו טפלה מברך על העיקר ופוטר את</row>
+		<row row_number="5" isdata="1">הטפלה<EndMishna/><StartGemara/>גמ' ומי איכא מידי דהוי מליח</row>
+		<row row_number="6" isdata="1">עיקר ופת טפלה אמר רב אחא בריה דרב</row>
+		<row row_number="7" isdata="1">עוירא אמר רב אשי באוכלי פירות גנוסר</row>
+		<row row_number="8" isdata="1">שנו אמר רבה בר בר חנה כי הוה אזלינן</row>
+		<row row_number="9" isdata="1">בתריה דרבי יוחנן למיכל פירות גנוסר כי</row>
+		<row row_number="10" isdata="1">הוינן בי מאה מנקטינן ליה לכל חד וחד</row>
+		<row row_number="11" isdata="1">עשרה עשרה וכי הוינן בי עשרה מנקטינן</row>
+		<row row_number="12" isdata="1">ליה כל חד וחד מאה מאה וכל מאה מינייהו</row>
+		<row row_number="13" isdata="1">הוה מחזיק להו צנא בר תלתא סאוי ואכיל</row>
+		<row row_number="14" isdata="1">להו ומשתבע דלא טעים זיונא זיונא ס"ד</row>
+		<row row_number="15" isdata="1">אלא אימא מזונא רבי אבהו אכיל עד דהוה</row>
+		<row row_number="16" isdata="1">שריק ליה דודבא מאפותיה ורב אמי ורב</row>
+		<row row_number="17" isdata="1">אסי הוו אכלי עד דנתור מזייהו רשב"ל הוה</row>
+		<row row_number="18" isdata="1">אכיל עד דמריד ואמר להו רבי יוחנן לדבי</row>
+		<row row_number="19" isdata="1">נשיאה והוה משדר ליה רבי יהודה נשיאה</row>
+		<row row_number="20" isdata="1">באלושי אבתריה ומייתי ליה לביתיה כי</row>
+		<row row_number="21" isdata="1">אתא רב דימי אמר עיר אחת היתה לו לינאי</row>
+		<row row_number="22" isdata="1">המלך בהר המלך שהיו מוציאים ממנה</row>
+		<row row_number="23" isdata="1">ששים רבוא ספלי טרית לקוצצי תאנים מע"ש</row>
+		<row row_number="24" isdata="1">לע"ש כי אתא רבין אמר אילן אחד היה לו</row>
+		<row row_number="25" isdata="1">לינאי המלך בהר המלך שהיו מורידים</row>
+		<row row_number="26" isdata="1">ממנו ארבעים סאה גוזלות משלש בריכות</row>
+		<row row_number="27" isdata="1">בחדש כי אתא ר' יצחק אמר עיר אחת</row>
+		<row row_number="28" isdata="1">היתה בארץ ישראל וגופנית שמה שהיו בה</row>
+		<row row_number="29" isdata="1">שמנים זוגות אחים כהנים נשואים לשמנים</row>
+		<row row_number="30" isdata="1">זוגות אחיות כהנות ובדקו רבנן מסורא ועד</row>
+		<row row_number="31" isdata="1">נהרדעא ולא אשכחו בר מבנתיה דרב חסדא</row>
+		<row row_number="32" isdata="1">דהוו נסיבן לרמי בר חמא ולמר עוקבא בר</row>
+		<row row_number="33" isdata="1">חמא ואע"ג דאינהי הוו כהנתא אינהו לא הוו</row>
+		<row row_number="34" isdata="1">כהני אמר רב כל סעודה שאין בה מלח אינה</row>
+		<row row_number="35" isdata="1">סעודה אמר רבי חייא בר אבא א"ר יוחנן כל</row>
+		<row row_number="36" isdata="1">סעודה שאין בה שריף אינה סעודה</row>
+		<row row_number="37" isdata="1"><EndGemara/><StartMishna/>מתני' אכל ענבים ותאנים ורמונים מברך</row>
+		<row row_number="38" isdata="1">אחריהם שלש ברכות דברי רבן גמליאל</row>
+		<row row_number="39" isdata="1">וחכ"א ברכה אחת (מעין שלש) ר"ע אומר</row>
+		<row row_number="40" isdata="1">אפי' אכל שלק והוא מזונו מברך עליו ג'</row>
+		<row row_number="41" isdata="1">ברכות השותה מים לצמאו מברך שהכל</row>
+		<row row_number="42" isdata="1">נהיה בדברו ר' טרפון אומר בורא נפשות</row>
+		<row row_number="43" isdata="1">רבות וחסרונן<EndMishna/><StartGemara/>גמ' מ"ט דר"ג דכתיב ארץ חטה ושעורה וגו' וכתיב ארץ</row>
+		<row row_number="44" isdata="1">אשר לא במסכנות תאכל בה לחם וגו' וכתיב ואכלת ושבעת וברכת את ה'</row>
+		<row row_number="45" isdata="1">אלהיך ורבנן ארץ הפסיק הענין ור"ג נמי ארץ הפסיק הענין ההוא מבעי ליה</row>
+		<row row_number="46" isdata="1">למעוטי הכוסס את החטה א"ר יעקב בר אידי א"ר חנינא כל שהוא מחמשת</row>
+		<row row_number="47" isdata="1">המינין בתחלה מברך עליו במ"מ ולבסוף ברכה אחת מעין שלש אמר רבה בר</row>
+		<row row_number="48" isdata="1">מרי אריב"ל כל שהוא משבעת המינין בתחלה מברך בורא פרי העץ ולבסוף</row>
+		<row row_number="49" isdata="1">ברכה אחת מעין שלש א"ל אביי לרב דימי מאי ניהו ברכה אחת מעין שלש</row>
+		<row row_number="50" isdata="1">א"ל אפירי דעץ על העץ ועל פרי העץ ועל תנובת השדה ועל ארץ חמדה</row>
+		<row row_number="51" isdata="1">טובה ורחבה שהנחלת לאבותינו לאכול מפריה ולשבוע מטובה רחם ה' אלהינו על ישראל עמך ועל</row>
+		<row row_number="52" isdata="1">ירושלים עירך ועל מקדשך ועל מזבחך ותבנה ירושלים עיר קדשך במהרה בימינו והעלנו לתוכה</row>
+		<row row_number="53" isdata="1">ושמחנו בה כי אתה טוב ומטיב לכל דחמשת המינין על המחיה ועל הכלכלה ועל תנובת השדה</row>
+		<row row_number="54" isdata="1">כו' וחותם על הארץ ועל המחיה מיחתם במאי חתים כי אתא רב דימי אמר רב חתים בר"ח ברוך</row>
+		<row row_number="55" isdata="1">מקדש ישראל וראשי חדשים הכא מאי רב חסדא אמר על הארץ ועל פירותיה ור' יוחנן אמר על הארץ</row>
+		<row row_number="56" isdata="1">ועל הפירות א"ר עמרם ולא פליגי הא לן והא להו מתקיף לה ר"נ בר יצחק אינהו אכלי ואנן</row>
+		<row row_number="57" isdata="1">מברכין אלא איפוך רב חסדא אמר על הארץ ועל הפירות ר' יוחנן אמר על הארץ ועל פירותיה</row>
+</amud>
+</daf>
+</masechet>
+</root>

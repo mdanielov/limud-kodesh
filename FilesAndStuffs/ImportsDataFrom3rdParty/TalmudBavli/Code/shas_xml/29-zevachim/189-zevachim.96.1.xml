@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:59.121920</dateCreated>
+   <lastModified>2019-12-21 20:31:59.121920</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="96">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "דם חטאת"/><ContGemara/>אלא קדירות של מקדש אמאי (אמר רחמנא)</row>
+		<row row_number="2" isdata="1">ישברו נהדרינהו לכבשונות א"ר זירא לפי</row>
+		<row row_number="3" isdata="1">שאין עושין כבשונות בירושלים אמר</row>
+		<row row_number="4" isdata="1">אביי וכי עושין אשפתות בעזרה</row>
+		<row row_number="5" isdata="1">אישתמיטתיה הא דתני שמעיה בקלנבו</row>
+		<row row_number="6" isdata="1">שברי כלי חרס נבלעין במקומן אלא</row>
+		<row row_number="7" isdata="1">הא דאמר רב נחמן אמר רבה בר אבוה</row>
+		<row row_number="8" isdata="1">תנור של מקדש של מתכת הוה נעביד</row>
+		<row row_number="9" isdata="1">דחרס דהסיקו מבפנים הוא דכיון דאיכא</row>
+		<row row_number="10" isdata="1">שתי הלחם ולחם הפנים דאפייתן בתנור</row>
+		<row row_number="11" isdata="1">וקדושתן בתנור הוה ליה כלי שרת וכלי שרת דחרס לא עבדינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:15.272400</dateCreated>
+   <lastModified>2019-12-21 20:29:15.272400</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="98">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שהיה טמא "/><ContGemara/>המפריש פסחו ומת לא יביאנו בנו אחריו</row>
+		<row row_number="2" isdata="1">לשם פסח אלא לשם שלמים<EndMishna/><StartGemara/>גמ' אמר רב</row>
+		<row row_number="3" isdata="1">הונא בריה דרב יהושע שמע מינה תלת</row>
+		<row row_number="4" isdata="1">שמע מינה בעלי חיים נדחין וש"מ דחוי</row>
+		<row row_number="5" isdata="1">מעיקרא הוי דחוי ושמע מינה יש דחוי</row>
+		<row row_number="6" isdata="1">בדמים המפריש פסחו וכו' ת"ר המפריש</row>
+		<row row_number="7" isdata="1">את פסחו ומת אם בנו ממונה עמו יביאנו</row>
+		<row row_number="8" isdata="1">לשום פסח אין בנו ממונה עמו יביאנו לשום</row>
+		<row row_number="9" isdata="1">שלמים לששה עשר לי"ו אין לט"ו לא קא</row>
+		<row row_number="10" isdata="1">סבר נדרים ונדבות אין קריבין בי"ט דמית</row>
+		<row row_number="11" isdata="1">האב אימת אילימא דמית קודם חצות בנו</row>
+		<row row_number="12" isdata="1">ממונה עמו יביאנו לשום פסח הא חלה</row>
+		<row row_number="13" isdata="1">אנינות עילויה מעיקרא אלא דמית אחר</row>
+		<row row_number="14" isdata="1">חצות אין בנו ממונה עמו יביאנו לשום</row>
+		<row row_number="15" isdata="1">שלמים הא קבעתיה חצות אמר (רבא)</row>
+		<row row_number="16" isdata="1">לעולם דמית קודם חצות ומאי יביאנו לשום</row>
+		<row row_number="17" isdata="1">פסח לשום פסח שני אביי אמר לצדדין קתני</row>
+		<row row_number="18" isdata="1">מת אחר חצות בנו ממונה עמו יביאנו לשום</row>
+		<row row_number="19" isdata="1">פסח מת קודם חצות אין בנו ממונה עמו</row>
+		<row row_number="20" isdata="1">יביאנו לשום שלמים רב שרביא אמר לעולם</row>
+		<row row_number="21" isdata="1">דמית לאחר חצות וכגון שהיה אביו גוסס</row>
+		<row row_number="22" isdata="1">בחצות רב אשי אמר לעולם דמית לאחר</row>
+		<row row_number="23" isdata="1">חצות ור"ש היא דאמר אין בעלי חיים נדחין</row>
+		<row row_number="24" isdata="1">רבינא אמר כגון שהפרישו אחר חצות ומתו</row>
+		<row row_number="25" isdata="1">בעלים אחר חצות וקא סבר חצות קבע</row>
+		<row row_number="26" isdata="1"><EndGemara/><StartMishna/>מתני' הפסח שנתערב בזבחים כולן ירעו</row>
+		<row row_number="27" isdata="1">עד שיסתאבו וימכרו ויביא בדמי היפה</row>
+		<row row_number="28" isdata="1">שבהן ממין זה ובדמי היפה שבהן ממין זה</row>
+		<row row_number="29" isdata="1">[ויפסיד] המותר מביתו נתערב בבכורות</row>
+		<row row_number="30" isdata="1">ר"ש אומר אם חבורות כהנים יאכלו<EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

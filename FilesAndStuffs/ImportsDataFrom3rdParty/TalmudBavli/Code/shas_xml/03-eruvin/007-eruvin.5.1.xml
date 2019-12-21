@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:53.462547</dateCreated>
+   <lastModified>2019-12-21 20:28:53.462547</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="5">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>ומ"ד ארבעה קסבר אסור להשתמש תחת</row>
+		<row row_number="2" isdata="1">הקורה לא דכולי עלמא קסברי מותר</row>
+		<row row_number="3" isdata="1">להשתמש תחת הקורה ובהא קא מיפלגי</row>
+		<row row_number="4" isdata="1">מר סבר קורה משום היכר ומר סבר קורה</row>
+		<row row_number="5" isdata="1">משום מחיצה ואיבעית אימא דכולי עלמא</row>
+		<row row_number="6" isdata="1">קורה משום היכר והכא בהיכר של מטה</row>
+		<row row_number="7" isdata="1">ובהיכר של מעלה קא מיפלגי דמר סבר</row>
+		<row row_number="8" isdata="1">אמרינן היכר של מטה כהיכר של מעלה</row>
+		<row row_number="9" isdata="1">ומר סבר לא אמרינן היכר של מטה כהיכר</row>
+		<row row_number="10" isdata="1">של מעלה ואיבעית אימא דכולי עלמא</row>
+		<row row_number="11" isdata="1">אמרינן היכר של מטה כהיכר של מעלה</row>
+		<row row_number="12" isdata="1">והכא בגזירה שמא יפחות קמיפלגי היה</row>
+		<row row_number="13" isdata="1">פחות מעשרה טפחים וחקק בו להשלימו</row>
+		<row row_number="14" isdata="1">לעשרה כמה חוקק כמה חוקק כמה דצריך</row>
+		<row row_number="15" isdata="1">ליה אלא משכו בכמה רב יוסף אמר בד'</row>
+		<row row_number="16" isdata="1">אביי אמר בארבע אמות לימא בדרבי אמי</row>
+		<row row_number="17" isdata="1">ורבי אסי קמיפלגי דאיתמר מבוי שנפרץ</row>
+		<row row_number="18" isdata="1">מצידו כלפי ראשו איתמר משמיה דר' אמי</row>
+		<row row_number="19" isdata="1">ור' אסי אם יש שם פס ד' מתיר בפירצה</row>
+		<row row_number="20" isdata="1">עד עשר ואם לאו פחות משלשה מתיר</row>
+		<row row_number="21" isdata="1">שלשה אינו מתיר לרב יוסף אית ליה דרבי</row>
+		<row row_number="22" isdata="1">אמי לאביי לית ליה דר' אמי אמר לך אביי</row>
+		<row row_number="23" isdata="1">התם סוף מבוי הכא תחלת מבוי אי איכא</row>
+		<row row_number="24" isdata="1">ארבע אמות אין אי לא לא אמר אביי מנא</row>
+		<row row_number="25" isdata="1">אמינא לה דתניא אין מבוי ניתר בלחי</row>
+		<row row_number="26" isdata="1">וקורה עד שיהו בתים וחצרות פתוחין לתוכו</row>
+		<row row_number="27" isdata="1">ואי בד' היכי משכחת ליה וכי תימא דפתח</row>
+		<row row_number="28" isdata="1">לה בדופן האמצעי והאמר רב נחמן נקיטינן</row>
+		<row row_number="29" isdata="1">איזהו מבוי שניתר בלחי וקורה כל שארכו</row>
+		<row row_number="30" isdata="1">יתר על רחבו ובתים וחצרות פתוחין</row>
+		<row row_number="31" isdata="1">לתוכו ורב יוסף דפתח ליה בקרן זוית</row>
+		<row row_number="32" isdata="1">אמר אביי מנא אמינא לה דאמר רמי בר</row>
+		<row row_number="33" isdata="1">חמא אמר רב הונא לחי הבולט מדופנו של</row>
+		<row row_number="34" isdata="1">מבוי פחות מארבע אמות נידון משום לחי</row>
+		<row row_number="35" isdata="1">ואינו צריך לחי אחר להתירו ד' אמות נידון</row>
+		<row row_number="36" isdata="1">משום מבוי וצריך לחי אחר להתירו ורב</row>
+		<row row_number="37" isdata="1">יוסף לאפוקי מתורת לחי עד דאיכא ארבע</row>
+		<row row_number="38" isdata="1">אמות למיהוי מבוי אפי' בארבעה טפחים</row>
+		<row row_number="39" isdata="1">נמי הוי מבוי גופא אמר רמי בר חמא אמר</row>
+		<row row_number="40" isdata="1">רב הונא לחי הבולט מדפנו של מבוי</row>
+</amud>
+</daf>
+</masechet>
+</root>

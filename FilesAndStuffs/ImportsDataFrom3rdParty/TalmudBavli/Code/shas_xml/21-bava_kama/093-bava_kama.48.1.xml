@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:47.098706</dateCreated>
+   <lastModified>2019-12-21 20:30:47.098706</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="48">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח את הפרה"/><ContGemara/>מאי ברשות ומאי שלא ברשות איכא אמרי</row>
+		<row row_number="2" isdata="1">ברשות הויא לה שן ברשות הניזק ושן</row>
+		<row row_number="3" isdata="1">ברשות הניזק חייבת שלא ברשות הויא לה</row>
+		<row row_number="4" isdata="1">שן ברה"ר ושן ברשות הרבים פטורה ת"ש</row>
+		<row row_number="5" isdata="1">הכניס שורו לחצר בעל הבית שלא ברשות</row>
+		<row row_number="6" isdata="1">ובא שור ממקום אחר ונגחו פטור ואם הכניס</row>
+		<row row_number="7" isdata="1">ברשות חייב מאן פטור ומאן חייב לאו פטור</row>
+		<row row_number="8" isdata="1">בעל חצר וחייב בעל חצר לא פטור בעל</row>
+		<row row_number="9" isdata="1">השור וחייב בעל השור אי הכי מאי ברשות</row>
+		<row row_number="10" isdata="1">ומאי שלא ברשות איכא אמרי הא מני ר'</row>
+		<row row_number="11" isdata="1">טרפון היא דאמר משונה קרן בחצר הניזק</row>
+		<row row_number="12" isdata="1">נזק שלם משלם ברשות הויא לה קרן בחצר</row>
+		<row row_number="13" isdata="1">הניזק ומשלם נזק שלם שלא ברשות הויא</row>
+		<row row_number="14" isdata="1">לה קרן ברה"ר ולא משלמא אלא חצי נזק</row>
+		<row row_number="15" isdata="1">ההיא איתתא דעלתה למיפא בההוא ביתא</row>
+		<row row_number="16" isdata="1">אתא ברחא דמרי דביתא אכלה ללישא חביל</row>
+		<row row_number="17" isdata="1">ומית חייבה רבא לשלומי דמי ברחא לימא</row>
+		<row row_number="18" isdata="1">פליגא אדרב דאמר רב הויא לה שלא תאכל</row>
+		<row row_number="19" isdata="1">אמרי הכי השתא התם שלא ברשות לא</row>
+		<row row_number="20" isdata="1">קביל עליה נטירותא הכא ברשות קביל עליה</row>
+		<row row_number="21" isdata="1">נטירותא ומאי שנא מהאשה שנכנסה לטחון</row>
+		<row row_number="22" isdata="1">חטין אצל בעל הבית שלא ברשות ואכלתן</row>
+		<row row_number="23" isdata="1">בהמתו של בעל הבית פטור ואם הוזקה</row>
+		<row row_number="24" isdata="1">חייבת טעמא שלא ברשות הא ברשות פטור</row>
+		<row row_number="25" isdata="1">אמרי לטחון חטים כיון דלא בעיא צניעותא</row>
+		<row row_number="26" isdata="1">מידי לא בעי מסלקי מרוותא דחצר נפשייהו</row>
+		<row row_number="27" isdata="1">ועליה דידיה רמי נטירותא אבל למיפא כיון</row>
+		<row row_number="28" isdata="1">דבעיא היא צניעותא מרוותא דחצר מסלקי</row>
+		<row row_number="29" isdata="1">נפשייהו הלכך עלה דידה רמיא נטירותא</row>
+		<row row_number="30" isdata="1">הכניס שורו לחצר בעל הבית אמר רבא</row>
+		<row row_number="31" isdata="1">הכניס שורו לחצר בעל הבית שלא ברשות</row>
+		<row row_number="32" isdata="1">וחפר בה בורות שיחין ומערות בעל השור</row>
+		<row row_number="33" isdata="1">חייב בנזקי חצר ובעל חצר חייב בנזקי הבור</row>
+		<row row_number="34" isdata="1">אף על גב דאמר מר כי יכרה איש בור</row>
+		<row row_number="35" isdata="1">ולא שור בור הכא כיון דאית ליה להאיך</row>
+		<row row_number="36" isdata="1">למלוייה ולא קא מלייה כמאן דכרייה דמי</row>
+		<row row_number="37" isdata="1">ואמר רבא הכניס שורו לחצר בעל הבית</row>
+		<row row_number="38" isdata="1">שלא ברשות והזיק את בעל הבית או בעל</row>
+		<row row_number="39" isdata="1">הבית הוזק בו חייב רבץ פטור ומשום דרבץ</row>
+		<row row_number="40" isdata="1">פטור אמר רב פפא מאי רבץ שהרביץ</row>
+		<row row_number="41" isdata="1">גללים ונטנפו כליו של בעל הבית דהויא</row>
+		<row row_number="42" isdata="1">גללים בור ולא מצינו בור שחייב בו את</row>
+		<row row_number="43" isdata="1">הכלים הניחא לשמואל דאמר כל תקלה בור</row>
+		<row row_number="44" isdata="1">הוא אלא לרב דאמר עד דמפקר ליה מאי</row>
+		<row row_number="45" isdata="1">איכא למימר אמרי סתם גללים אפקורי מפקיר להו ואמר רבא נכנס</row>
+		<row row_number="46" isdata="1">לחצר בעל הבית שלא ברשות והזיק את בעל הבית או בעל הבית הוזק בו</row>
+		<row row_number="47" isdata="1">חייב הזיקו בעל הבית פטור א"ר פפא לא אמרן אלא דלא הוה ידע ביה אבל</row>
+		<row row_number="48" isdata="1">הוה ידע ביה הזיקו בעל הבית חייב מ"ט משום דאמר ליה נהי דאית לך רשותא</row>
+		<row row_number="49" isdata="1">לאפוקי לאזוקי לית לך רשותא ואזדו לטעמייהו דאמר רבא ואיתימא רב פפא</row>
+</amud>
+</daf>
+</masechet>
+</root>

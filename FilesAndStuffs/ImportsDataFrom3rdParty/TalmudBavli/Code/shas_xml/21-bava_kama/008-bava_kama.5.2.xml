@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:43.537670</dateCreated>
+   <lastModified>2019-12-21 20:30:43.537670</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="5">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אבות"/><ContGemara/>לכתוב רחמנא תרתי ותיתי אידך מינייהו</row>
+		<row row_number="2" isdata="1">הדר אמר חדא מתרתי לא אתי אמר רבא</row>
+		<row row_number="3" isdata="1">וכולהו כי שדית בור בינייהו אתיא כולהו</row>
+		<row row_number="4" isdata="1">במה הצד לבר מקרן משום דאיכא למיפרך</row>
+		<row row_number="5" isdata="1">מה לכולהו שכן מועדין מתחילתן ולמאן</row>
+		<row row_number="6" isdata="1">דאמר אדרבה קרן עדיפא שכוונתו להזיק</row>
+		<row row_number="7" isdata="1">אפילו קרן נמי אתיא אלא למאי הלכתא</row>
+		<row row_number="8" isdata="1">כתבינהו רחמנא להלכותיהן קרן לחלק בין</row>
+		<row row_number="9" isdata="1">תמה למועדת שן ורגל לפוטרן ברשות</row>
+		<row row_number="10" isdata="1">הרבים בור לפטור בו את הכלים ולרבי</row>
+		<row row_number="11" isdata="1">יהודה דמחייב על נזקי כלים בבור לפטור</row>
+		<row row_number="12" isdata="1">בו את האדם אדם לחייבו בארבעה דברים</row>
+		<row row_number="13" isdata="1">אש לפטור בו את הטמון ולרבי יהודה</row>
+		<row row_number="14" isdata="1">דמחייב על נזקי טמון באש לאתויי מאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

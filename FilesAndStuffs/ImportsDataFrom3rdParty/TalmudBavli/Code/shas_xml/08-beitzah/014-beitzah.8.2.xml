@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:36.563400</dateCreated>
+   <lastModified>2019-12-21 20:29:36.563400</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="8">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ביצה"/><ContGemara/>והא מדקתני סיפא ואם שחטו אין מכסין</row>
+		<row row_number="2" isdata="1">את דמו מכלל (דרישא) בדאית ליה</row>
+		<row row_number="3" isdata="1">עסקינן אלא אמר רבה אפר כירה מוכן</row>
+		<row row_number="4" isdata="1">לודאי ואין מוכן לספק לספק מאי טעמא</row>
+		<row row_number="5" isdata="1">לא דקא עביד גומא ודאי נמי קא עביד</row>
+		<row row_number="6" isdata="1">גומא אלא כדר' אבא הכא נמי כדר'</row>
+		<row row_number="7" isdata="1">אבא אלא ספק מאי טעמא דלמא עביד</row>
+		<row row_number="8" isdata="1">כתישה ודאי נמי נגזור משום כתישה ודאי</row>
+		<row row_number="9" isdata="1">כי קא עביד כתישה אתי עשה ודחי את לא</row>
+		<row row_number="10" isdata="1">תעשה אימר דאמרינן אתי עשה ודחי את</row>
+		<row row_number="11" isdata="1">לא תעשה כגון מילה בצרעת א"נ סדין</row>
+		<row row_number="12" isdata="1">בציצית דבעידנא דקא מעקר לאו קא מוקים</row>
+		<row row_number="13" isdata="1">לעשה הכא בעידנא דקא מעקר לאו לא</row>
+		<row row_number="14" isdata="1">מוקים עשה הא לא קשיא דבהדי דכתיש</row>
+		<row row_number="15" isdata="1">קא מכסי סוף סוף יום טוב עשה ולא</row>
+		<row row_number="16" isdata="1">תעשה הוא ואין עשה דוחה את לא תעשה</row>
+		<row row_number="17" isdata="1">ועשה אלא אמר רבא אפר כירה דעתו</row>
+		<row row_number="18" isdata="1">לודאי ואין דעתו לספק ואזדא רבא לטעמיה</row>
+		<row row_number="19" isdata="1">דאמר רבא הכניס עפר לכסות בו צואה</row>
+		<row row_number="20" isdata="1">מותר לכסות בו דם צפור דם צפור אסור</row>
+		<row row_number="21" isdata="1">לכסות בו צואה נהרבלאי אמרי אפילו</row>
+		<row row_number="22" isdata="1">הכניס עפר לכסות בו דם צפור מותר לכסות</row>
+		<row row_number="23" isdata="1">בו צואה אמרי במערבא פליגי בה ר' יוסי בר חמא ור' זירא ואמרי לה</row>
+		<row row_number="24" isdata="1">רבא בריה דרב יוסף בר חמא ור' זירא חד אמר כוי הרי הוא כצואה וחד</row>
+		<row row_number="25" isdata="1">אמר כוי אינו כצואה תסתיים דרבא הוא דאמר כוי הרי הוא כצואה</row>
+		<row row_number="26" isdata="1">דאמר רבא הכניס עפר לכסות בו צואה מותר לכסות בו דם צפור דם</row>
+		<row row_number="27" isdata="1">צפור אסור לכסות בו צואה תסתיים רמי בריה דרב ייבא אמר כוי היינו</row>
+		<row row_number="28" isdata="1">טעמא דלא מכסינן גזירה משום התרת חלבו אי הכי אפילו בחול</row>
+		<row row_number="29" isdata="1">נמי בחול אמרי לנקר חצרו הוא צריך שחט באשפה מאי איכא למימר</row>
+		<row row_number="30" isdata="1">בא לימלך מאי איכא למימר אלא בחול [אי נמי] מספקא אמרי</row>
+		<row row_number="31" isdata="1">ליה רבנן זיל טרח וכסי ביום טוב אי מספקא מי אמרי ליה רבנן</row>
+		<row row_number="32" isdata="1">זיל טרח וכסי תני רבי זירא לא כוי בלבד אמרו אלא אפילו שחט</row>
+		<row row_number="33" isdata="1">בהמה חיה ועוף ונתערבו דמן זה בזה אסור לכסותו ביום טוב אמר רבי</row>
+		<row row_number="34" isdata="1">יוסי בר יאסיניאה לא שנו אלא שאין יכול לכסותו בדקירה אחת אבל יכול</row>
+		<row row_number="35" isdata="1">לכסותו בדקירה אחת מותר פשיטא מהו דתימא נגזר דקירה אחת אטו</row>
+		<row row_number="36" isdata="1">שתי דקירות קמ"ל אמר רבה שחט צפור מערב יו"ט אין מכסין אותו ביו"ט</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:20.521722</dateCreated>
+   <lastModified>2019-12-21 20:31:20.521722</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="152">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שמת"/><ContGemara/>בידוע שלא היה קנין אלא מחמת המיתה</row>
+		<row row_number="2" isdata="1">ואחוי ליה בידיה ואשתיק כי קם אמר רב</row>
+		<row row_number="3" isdata="1">נחמן בר יצחק לרבא מאי אחוי לך אמר ליה</row>
+		<row row_number="4" isdata="1">במיפה את כחו היכי דמי מיפה את כחו</row>
+		<row row_number="5" isdata="1">אמר רב חסדא וקנינא מיניה מוסיף על</row>
+		<row row_number="6" isdata="1">מתנתא דא פשיטא כתב לזה וכתב לזה</row>
+		<row row_number="7" isdata="1">היינו דכי אתא רב דימי אמר דייתיקי</row>
+		<row row_number="8" isdata="1">מבטלת דייתיקי כתב וזיכה לזה כתב וזיכה</row>
+		<row row_number="9" isdata="1">לזה רב אמר ראשון קנה ושמואל אמר</row>
+		<row row_number="10" isdata="1">שני קנה רב אמר ראשון קנה הרי היא</row>
+		<row row_number="11" isdata="1">כמתנת בריא ושמואל אמר שני קנה הרי</row>
+		<row row_number="12" isdata="1">היא כמתנת שכיב מרע והא אפליגו בה חדא</row>
+		<row row_number="13" isdata="1">זימנא במתנת שכיב מרע שכתוב בה קנין</row>
+		<row row_number="14" isdata="1">צריכא דאי איתמר בהא בהא קאמר רב</row>
+		<row row_number="15" isdata="1">משום דקנו מיניה אבל בהא דלא קנו מיניה</row>
+		<row row_number="16" isdata="1">אימא מודה ליה לשמואל ואי איתמר בהא</row>
+		<row row_number="17" isdata="1">בהא קאמר שמואל אבל בהך אימא מודה</row>
+		<row row_number="18" isdata="1">ליה לרב צריכא בסורא מתנו הכי בפומבדיתא</row>
+		<row row_number="19" isdata="1">מתנו הכי אמר רב ירמיה בר אבא שלחו</row>
+		<row row_number="20" isdata="1">ליה מבי רב לשמואל ילמדנו רבינו שכיב</row>
+		<row row_number="21" isdata="1">מרע שכתב כל נכסיו לאחרים וקנו מידו</row>
+		<row row_number="22" isdata="1">מהו שלח להו אין אחר קנין כלום</row>
+</amud>
+</daf>
+</masechet>
+</root>

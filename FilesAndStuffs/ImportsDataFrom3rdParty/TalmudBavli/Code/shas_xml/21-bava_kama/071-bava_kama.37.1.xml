@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:46.189710</dateCreated>
+   <lastModified>2019-12-21 20:30:46.189710</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="37">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח ארבעה וחמשה"/><ContGemara/>אינן צריכין פרוזבול וכן תני רמי בר חמא</row>
+		<row row_number="2" isdata="1">היתומים אינן צריכין פרוזבול ר"ג ובית דינו</row>
+		<row row_number="3" isdata="1">אביהן של יתומין היו חנן בישא תקע ליה</row>
+		<row row_number="4" isdata="1">לההוא גברא אתא לקמיה דרב הונא א"ל זיל</row>
+		<row row_number="5" isdata="1">הב ליה פלגא דזוזא הוה ליה זוזא מכא בעי</row>
+		<row row_number="6" isdata="1">למיתבה ליה מיניה פלגא דזוזא לא הוה</row>
+		<row row_number="7" isdata="1">משתקיל ליה תקע ליה אחרינא ויהביה</row>
+		<row row_number="8" isdata="1">נהליהמתני' שור שהוא מועד למינו</row>
+		<row row_number="9" isdata="1">ואינו מועד לשאינו מינו מועד לאדם ואינו</row>
+		<row row_number="10" isdata="1">מועד לבהמה מועד לקטנים ואינו מועד</row>
+		<row row_number="11" isdata="1">לגדולים את שהוא מועד לו משלם נזק שלם</row>
+		<row row_number="12" isdata="1">ואת שאינו מועד לו משלם חצי נזק אמרו</row>
+		<row row_number="13" isdata="1">לפני רבי יהודה ה"ז מועד לשבתות</row>
+		<row row_number="14" isdata="1">ואינו מועד לחול אמר להם לשבתות משלם</row>
+		<row row_number="15" isdata="1">נזק שלם לימות החול משלם חצי נזק אימתי</row>
+		<row row_number="16" isdata="1">הוא תם משיחזור בו ג' ימי שבתות</row>
+		<row row_number="17" isdata="1"><EndMishna/><StartGemara/>גמ' איתמר רב זביד אמר ואינו מועד תנן</row>
+		<row row_number="18" isdata="1">רב פפא אמר אינו מועד תנן רב זביד אמר</row>
+		<row row_number="19" isdata="1">ואינו מועד תנן הא סתמא הוי מועד רב פפא</row>
+		<row row_number="20" isdata="1">אמר אינו מועד תנן דסתמא לא הוי מועד רב</row>
+		<row row_number="21" isdata="1">זביד דייק מסיפא רב פפא דייק מרישא רב</row>
+		<row row_number="22" isdata="1">זביד דייק מסיפא דקתני מועד לקטנים ואינו</row>
+		<row row_number="23" isdata="1">מועד לגדולים אי אמרת בשלמא ואינו מועד</row>
+		<row row_number="24" isdata="1">קתני הא סתמיה הוי מועד הא קמ"ל דאפי'</row>
+		<row row_number="25" isdata="1">מקטנים לגדולים נמי מסתמא הוי מועד אלא</row>
+		<row row_number="26" isdata="1">אי אמרת אינו מועד קתני סתמא לא הוי</row>
+		<row row_number="27" isdata="1">מועד השתא י"ל מקטנים לקטנים דעלמא</row>
+		<row row_number="28" isdata="1">סתמא לא הוי מועד מקטנים לגדולים צריכא</row>
+		<row row_number="29" isdata="1">למימר דלא הוי מועד ורב פפא אמר לך</row>
+		<row row_number="30" isdata="1">אצטריך סלקא דעתיך אמינא הואיל ופרץ ביה</row>
+		<row row_number="31" isdata="1">בההוא מינא פרץ ביה לא שנא גדולים דידיה</row>
+		<row row_number="32" isdata="1">ולא שנא קטנים דידיה קמ"ל דלא הוי מועד</row>
+		<row row_number="33" isdata="1">רב פפא דייק מרישא דקתני מועד לאדם אינו</row>
+		<row row_number="34" isdata="1">מועד לבהמה אי אמרת בשלמא אינו</row>
+		<row row_number="35" isdata="1">מועד תנן סתמא לא הוי מועד הא קמ"ל</row>
+		<row row_number="36" isdata="1">דאפילו מאדם לבהמה נמי סתמא לא הוי</row>
+		<row row_number="37" isdata="1">מועד אלא אי אמרת ואינו מועד קתני הא</row>
+		<row row_number="38" isdata="1">סתמא הוי מועד השתא י"ל מבהמה לבהמה</row>
+		<row row_number="39" isdata="1">סתמא הוי מועד מאדם לבהמה צריכא למימר</row>
+		<row row_number="40" isdata="1">דהוי מועד ורב זביד אמר לך רישא אחזרה</row>
+		<row row_number="41" isdata="1">קאי כגון דהוה מועד לאדם ומועד לבהמה</row>
+		<row row_number="42" isdata="1">והדר ביה מבהמה דקאי גבי בהמה תלתא</row>
+		<row row_number="43" isdata="1">זימני ולא נגח מהו דתימא כיון דלא הדר ביה</row>
+		<row row_number="44" isdata="1">מאדם חזרה דבהמה לאו חזרה היא קמ"ל</row>
+		<row row_number="45" isdata="1">דחזרה דבהמה מיהא חזרה היא מיתיבי</row>
+		<row row_number="46" isdata="1">סומכוס אומר מועד לאדם מועד לבהמה מק"ו ומה לאדם מועד לבהמה לכ"ש</row>
+		<row row_number="47" isdata="1">מכלל דת"ק אינו מועד קאמר א"ל רב זביד סומכוס אחזרה קאי והכי קא"ל</row>
+		<row row_number="48" isdata="1">לת"ק דקאמרת חזרה דבהמה חזרה היא חזרה דבהמה לאו חזרה היא</row>
+		<row row_number="49" isdata="1">מק"ו מאדם ומה מאדם לא קא מהדר ביה מבהמה לא כ"ש אמר רב</row>
+		<row row_number="50" isdata="1">אשי ת"ש אמרו לפני רבי יהודה ה"ז מועד לשבתות ואינו מועד לימות</row>
+		<row row_number="51" isdata="1">החול אמר להן לשבתות משלם נזק שלם לימות החול משלם חצי נזק אי</row>
+		<row row_number="52" isdata="1">אמרת בשלמא ואינו מועד קתני שיולי הוא דקא משיילי [ליה] והוא נמי קמהדר להו אלא אי אמרת אינו מועד</row>
+		<row row_number="53" isdata="1">קתני אגמורי הוא דקא מגמרי ליה ותו איהו מאי קא מהדר להו אמר רב ינאי מרישא נמי דיקא דקתני את</row>
+		<row row_number="54" isdata="1">שמועד לו משלם נזק שלם ואת שאינו מועד לו [משלם] ח"נ אי אמרת בשלמא ואינו מועד קתני</row>
+		<row row_number="55" isdata="1">פרושי קא מפרש לה אלא אי אמרת אינו מועד קתני פסקה מאי תו את שמועד לו משלם נזק שלם</row>
+		<row row_number="56" isdata="1">ואת שאינו מועד לו משלם ח"נ עד השתא לא אשמעינן דהתם משלם ח"נ ומועד משלם נזק שלם</row>
+		<row row_number="57" isdata="1">ואת"ל נמי איתא לדרב פפא נגח שור חמור וגמל נעשה מועד לכל ת"ר ראה שור נגח שור לא</row>
+		<row row_number="58" isdata="1">נגח שור נגח שור לא נגח שור נגח שור לא נגח נעשה מועד לסירוגין לשוורים ת"ר ראה שור נגח</row>
+		<row row_number="59" isdata="1">חמור לא נגח סוס נגח גמל לא נגח פרד נגח ערוד לא נגח נעשה מועד לסירוגין לכל איבעיא להו נגח</row>
+</amud>
+</daf>
+</masechet>
+</root>

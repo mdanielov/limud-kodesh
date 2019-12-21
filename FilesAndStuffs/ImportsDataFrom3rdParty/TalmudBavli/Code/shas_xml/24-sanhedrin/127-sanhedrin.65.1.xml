@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:29.820346</dateCreated>
+   <lastModified>2019-12-21 20:31:29.820346</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="65">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבע מיתות"/><ContMishna/>מתני' בעל אוב זה פיתום המדבר<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">משחיו וידעוני זה המדבר בפיו הרי אלו</row>
+		<row row_number="3" isdata="1">בסקילה והנשאל בהם באזהרה<EndMishna/><StartGemara/>גמ' מאי</row>
+		<row row_number="4" isdata="1">שנא הכא דקתני בעל אוב וידעוני ומאי</row>
+		<row row_number="5" isdata="1">שנא גבי כריתות דקתני בעל אוב ושייריה</row>
+		<row row_number="6" isdata="1">לידעוני ר' יוחנן אמר הואיל ושניהן בלאו</row>
+		<row row_number="7" isdata="1">אחד נאמרו ר"ל אמר ידעוני לפי שאין בו</row>
+		<row row_number="8" isdata="1">מעשה ור' יוחנן מאי שנא בעל אוב דנקט</row>
+		<row row_number="9" isdata="1">משום דפתח ביה קרא וריש לקיש מ"ט לא</row>
+		<row row_number="10" isdata="1">אמר כר' יוחנן אמר רב פפא חלוקין הן במיתה</row>
+		<row row_number="11" isdata="1">ור' יוחנן חלוקה דלאו שמה חלוקה דמיתה</row>
+		<row row_number="12" isdata="1">לא שמה חלוקה ורבי יוחנן מ"ט לא אמר</row>
+		<row row_number="13" isdata="1">כריש לקיש אמר לך מתני' דכריתות ר'</row>
+		<row row_number="14" isdata="1">עקיבא היא דאמר לא בעינן מעשה וריש</row>
+		<row row_number="15" isdata="1">לקיש נהי דלא בעי ר' עקיבא מעשה רבה</row>
+		<row row_number="16" isdata="1">מעשה זוטא בעי מגדף מאי מעשה איכא</row>
+		<row row_number="17" isdata="1">עקימת שפתיו הוי מעשה בעל אוב מאי</row>
+		<row row_number="18" isdata="1">מעשה איכא הקשת זרועותיו הוי מעשה</row>
+		<row row_number="19" isdata="1">ואפילו לרבנן והתניא אינו חייב אלא</row>
+		<row row_number="20" isdata="1">על דבר שיש בו מעשה כגון זיבוח קיטור</row>
+		<row row_number="21" isdata="1">וניסוך והשתחואה ואמר ר"ל מאן תנא</row>
+		<row row_number="22" isdata="1">השתחואה ר"ע היא דאמר לא בעינן מעשה</row>
+		<row row_number="23" isdata="1">ור' יוחנן אמר אפילו תימא רבנן כפיפת</row>
+		<row row_number="24" isdata="1">קומתו לרבנן הוי מעשה השתא לריש</row>
+		<row row_number="25" isdata="1">לקיש כפיפת קומתו לרבנן לא הוי מעשה</row>
+		<row row_number="26" isdata="1">הקשת זרועותיו דבעל אוב הוי מעשה כי</row>
+		<row row_number="27" isdata="1">קאמר ר"ל נמי לר"ע אבל לרבנן לא אי הכי</row>
+		<row row_number="28" isdata="1">יצא מגדף ובעל אוב מיבעי ליה אלא אמר</row>
+		<row row_number="29" isdata="1">עולא במקטר לשד א"ל רבא מקטר לשד עובד</row>
+		<row row_number="30" isdata="1">עבודת כוכבים הוא אלא אמר רבא במקטר</row>
+		<row row_number="31" isdata="1">לחבר אמר ליה אביי המקטר לחבר חובר</row>
+		<row row_number="32" isdata="1">חבר הוא אין והתורה אמרה חובר זה</row>
+		<row row_number="33" isdata="1">בסקילה ת"ר חובר חבר אחד חבר גדול</row>
+		<row row_number="34" isdata="1">ואחד חבר קטן ואפי' נחשים ועקרבים אמר</row>
+		<row row_number="35" isdata="1">אביי הלכך האי מאן דצמיד זיבורא ועקרבא</row>
+		<row row_number="36" isdata="1">אע"ג דקא מיכוין דלא ליזקו אסור ורבי</row>
+		<row row_number="37" isdata="1">יוחנן מאי שנא דכפיפת קומתו לרבנן הוי</row>
+		<row row_number="38" isdata="1">מעשה ועקימת שפתיו לא הוי מעשה</row>
+		<row row_number="39" isdata="1">אמר רבא שאני מגדף הואיל וישנו בלב</row>
+</amud>
+</daf>
+</masechet>
+</root>

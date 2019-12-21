@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:10.537238</dateCreated>
+   <lastModified>2019-12-21 20:31:10.537238</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="56">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>ברשות אחת חייב בשתי רשויות פטור</row>
+		<row row_number="2" isdata="1">ואמר רבה והוא שיש חיוב חטאת ביניהם</row>
+		<row row_number="3" isdata="1">אבל כרמלית לא אביי אמר אפילו כרמלית</row>
+		<row row_number="4" isdata="1">אבל פיסלא לא רבא אמר אפי' פיסלא ואזדא</row>
+		<row row_number="5" isdata="1">רבא לטעמיה דאמר רבא רשות שבת</row>
+		<row row_number="6" isdata="1">כרשות גיטין דמי אין שם לא מצר ולא חצב</row>
+		<row row_number="7" isdata="1">מאי פירש רבי מרינוס משמו כל שנקראת</row>
+		<row row_number="8" isdata="1">על שמו היכי דמי אמר רב פפא דקרו ליה בי</row>
+		<row row_number="9" isdata="1">גרגותא דפלניא יתיב רב אחא בר עויא</row>
+		<row row_number="10" isdata="1">קמיה דר' אסי ויתיב וקאמר משמיה דר'</row>
+		<row row_number="11" isdata="1">אסי בר חנינא חצובא מפסיק בנכסי הגר</row>
+		<row row_number="12" isdata="1">מאי חצובא אמר רב יהודה אמר רב שבו</row>
+		<row row_number="13" isdata="1">תיחם יהושע לישראל את הארץ ואמר רב</row>
+		<row row_number="14" isdata="1">יהודה אמר רב לא מנה יהושע אלא עיירות</row>
+		<row row_number="15" isdata="1">העומדות על הגבולין אמר רב יהודה אמר</row>
+		<row row_number="16" isdata="1">שמואל כל שהראהו הקב"ה למשה חייב</row>
+		<row row_number="17" isdata="1">במעשר לאפוקי מאי לאפוקי קיני קניזי</row>
+		<row row_number="18" isdata="1">וקדמוני תניא רבי מאיר אומר נפתוחא</row>
+		<row row_number="19" isdata="1">ערבאה ושלמאה רבי יהודה אומר הר</row>
+		<row row_number="20" isdata="1">שעיר עמון ומואב רבי שמעון אומר</row>
+		<row row_number="21" isdata="1">ערדיסקיס אסיא ואספמיאמתני' היו</row>
+		<row row_number="22" isdata="1">שנים מעידין אותו שאכלה שלש שנים</row>
+		<row row_number="23" isdata="1">ונמצאו זוממים משלמין לו את הכל שנים</row>
+		<row row_number="24" isdata="1">בראשונה שנים בשניה ושנים בשלישית</row>
+</amud>
+</daf>
+</masechet>
+</root>

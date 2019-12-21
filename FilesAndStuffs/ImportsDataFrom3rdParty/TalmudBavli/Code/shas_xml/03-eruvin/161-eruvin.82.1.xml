@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:00.769418</dateCreated>
+   <lastModified>2019-12-21 20:29:00.769418</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="82">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>גברא אגברא קא רמית מר סבר פליגי ומר</row>
+		<row row_number="2" isdata="1">סבר לא פליגי גופא א"ר יהושע בן לוי כל</row>
+		<row row_number="3" isdata="1">מקום שאמר ר' יהודה אימתי ובמה במשנתינו</row>
+		<row row_number="4" isdata="1">אינו אלא לפרש דברי חכמים ור' יוחנן אמר</row>
+		<row row_number="5" isdata="1">אימתי לפרש ובמה לחלוק ואימתי לפרש</row>
+		<row row_number="6" isdata="1">הוא והא תנן ואלו הן הפסולים המשחק</row>
+		<row row_number="7" isdata="1">בקוביא ומלוה בריבית ומפריחי יונים וסוחרי</row>
+		<row row_number="8" isdata="1">שביעית אמר ר' יהודה אימתי בזמן שאין</row>
+		<row row_number="9" isdata="1">לו אומנות אלא היא אבל יש לו אומנות</row>
+		<row row_number="10" isdata="1">שלא היא הרי זה כשר ותני עלה בברייתא</row>
+		<row row_number="11" isdata="1">וחכ"א בין שאין לו אומנות אלא היא ובין</row>
+		<row row_number="12" isdata="1">שיש לו אומנות שלא היא הרי זה פסול</row>
+		<row row_number="13" isdata="1">ההיא דרבי יהודה א"ר טרפון היא דתניא</row>
+		<row row_number="14" isdata="1">א"ר יהודה משום ר"ט לעולם אין אחד מהן</row>
+		<row row_number="15" isdata="1">נזיר לפי שאין נזירות אלא להפלאה אלמא</row>
+		<row row_number="16" isdata="1">כיון דמספקא ליה אי נזיר אי לא נזיר הוא</row>
+		<row row_number="17" isdata="1">לא משעביד נפשיה הכא נמי כיון דלא ידע</row>
+		<row row_number="18" isdata="1">אי קני אי לא קני לא גמר ומקנה<EndChapter name = "כלל גדול"/><EndGemara/></row>
+		<row row_number="19" isdata="0">הדרן עלך חלון</row>
+		<row row_number="20" isdata="1"><StartChapter name = "המוציא יין"/><StartMishna/>כיצד משתתפין בתחומין מניח את החבית</row>
+		<row row_number="21" isdata="1">ואומר הרי זה לכל בני עירי לכל מי</row>
+		<row row_number="22" isdata="1">שילך לבית האבל או לבית המשתה וכל</row>
+		<row row_number="23" isdata="1">שקיבל עליו מבע"י מותר משתחשך אסור</row>
+		<row row_number="24" isdata="1">שאין מערבין משתחשך<EndMishna/><StartGemara/>גמ' אמר רב יוסף</row>
+		<row row_number="25" isdata="1">אין מערבין אלא לדבר מצוה מאי קמ"ל</row>
+		<row row_number="26" isdata="1">תנינא לכל מי שילך לבית האבל או לבית</row>
+		<row row_number="27" isdata="1">המשתה מהו דתימא אורחא דמלתא קתני</row>
+		<row row_number="28" isdata="1">קמ"ל וכל שקיבל עליו מבע"י שמעת מינה</row>
+		<row row_number="29" isdata="1">אין ברירה דאי יש ברירה תיגלי מילתא</row>
+		<row row_number="30" isdata="1">למפרע דמבעוד יום הוה ניחא ליה אמר רב</row>
+		<row row_number="31" isdata="1">אשי הודיעוהו ולא הודיעוהו קתני אמר רב</row>
+		<row row_number="32" isdata="1">אסי קטן בן שש יוצא בעירוב אמו מיתיבי</row>
+		<row row_number="33" isdata="1">קטן שצריך לאמו יוצא בעירוב אמו ושאין</row>
+		<row row_number="34" isdata="1">צריך לאמו אין יוצא בעירוב אמו ותנן נמי</row>
+		<row row_number="35" isdata="1">גבי סוכה כי האי גוונא קטן שאין צריך</row>
+		<row row_number="36" isdata="1">לאמו חייב בסוכה והוינן בה ואיזהו קטן</row>
+		<row row_number="37" isdata="1">שאין צריך לאמו אמרי דבי ר' ינאי כל שנפנה</row>
+		<row row_number="38" isdata="1">ואין אמו מקנחתו ר"ש בן לקיש אמר כל</row>
+		<row row_number="39" isdata="1">שניעור ואינו קורא אימא אימא ס"ד גדולים נמי</row>
+		<row row_number="40" isdata="1">קרו אלא אימא כל שניעור משנתו ואינו קורא</row>
+		<row row_number="41" isdata="1">אימא אימא וכמה כבר ארבע כבר חמש</row>
+</amud>
+</daf>
+</masechet>
+</root>

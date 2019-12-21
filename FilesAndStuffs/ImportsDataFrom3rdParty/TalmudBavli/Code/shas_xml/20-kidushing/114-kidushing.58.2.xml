@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:41.271433</dateCreated>
+   <lastModified>2019-12-21 20:30:41.271433</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="58">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContGemara/>א"ל הוצאה את איכסיף הוא סבר משמעתא</row>
+		<row row_number="2" isdata="1">קאמר ליה א"ל הכי קאמינא רב אסי דהוצל</row>
+		<row row_number="3" isdata="1">קאי כותיך נימא כתנאי הגונב טבלו של</row>
+		<row row_number="4" isdata="1">חבירו משלם לו דמי טבלו של חבירו דברי</row>
+		<row row_number="5" isdata="1">רבי ר' יוסי בר' יהודה אומר אינו משלם אלא</row>
+		<row row_number="6" isdata="1">דמי חולין שבו מאי לאו בהא קמיפלגי דמר</row>
+		<row row_number="7" isdata="1">סבר טובת הנאה ממון ומר סבר טובת הנאה</row>
+		<row row_number="8" isdata="1">אינה ממון לא דכולי עלמא טובת הנאה</row>
+		<row row_number="9" isdata="1">אינה ממון והכא בטבלים שנפלו לו מבית</row>
+		<row row_number="10" isdata="1">אבי אמו כהן ובמתנות שלא הורמו כמי</row>
+		<row row_number="11" isdata="1">שהורמו דמיין קמיפלגי מר סבר כמי שהורמו</row>
+		<row row_number="12" isdata="1">דמיין ומ"ס לאו כמי שהורמו דמיין ואיבעית</row>
+		<row row_number="13" isdata="1">אימא דכולי עלמא כמי שהורמו דמיין וטובת</row>
+		<row row_number="14" isdata="1">הנאה אינה ממון והכא בדשמואל קמיפלגי</row>
+		<row row_number="15" isdata="1">דאמר שמואל חיטה אחת פוטרת את</row>
+		<row row_number="16" isdata="1">הכרי דמר אית ליה דשמואל ומר לית ליה</row>
+		<row row_number="17" isdata="1">דשמואל ואיבעית אימא דכולי עלמא לית להו דשמואל והכא היינו טעמא</row>
+		<row row_number="18" isdata="1">דרבי דקנסוהו רבנן לגנב ואיבעית אימא דכולי עלמא אית להו דשמואל</row>
+		<row row_number="19" isdata="1">והכא היינו טעמא דרבי יוסי בר' יהודה דקנסוהו רבנן לבעל הבית דלא</row>
+		<row row_number="20" isdata="1">איבעי ליה לשהויה לטיבליה תנן המקדש בתרומות ובמעשרות ובמתנות</row>
+		<row row_number="21" isdata="1">במי חטאת ובאפר פרה הרי זו מקודשת ואף על פי ישראל ורמינהו הנוטל</row>
+		<row row_number="22" isdata="1">שכר לדון דיניו בטלים להעיד עדותו בטלה להזות ולקדש מימיו מי מערה</row>
+		<row row_number="23" isdata="1">ואפרו אפר מקלה אמר אביי לא קשיא כאן בשכר הבאה ומילוי כאן בשכר</row>
+		<row row_number="24" isdata="1">הזאה וקידוש דיקא נמי דקתני הכא במי חטאת ובאפר פרה וקתני התם</row>
+		<row row_number="25" isdata="1">להזות ולקדש שמע מינה<EndChapter name = "האיש מקדש"/><EndGemara/></row>
+		<row row_number="26" isdata="0">הדרן עלך האיש מקדש</row>
+		<row row_number="27" isdata="1"><StartChapter name = "האומר"/><StartMishna/>האומר לחבירו צא וקדש לי אשה פלונית והלך וקדשה לעצמו מקודשת</row>
+		<row row_number="28" isdata="1">לשני וכן האומר לאשה הרי את מקודשת לי לאחר שלשים יום ובא</row>
+		<row row_number="29" isdata="1">אחר וקידשה בתוך שלשים יום מקודשת לשני בת ישראל לכהן תאכל בתרומה</row>
+		<row row_number="30" isdata="1">מעכשיו ולאחר שלשים יום ובא אחר וקידשה בתוך שלשים יום מקודשת</row>
+		<row row_number="31" isdata="1">ואינה מקודשת בת ישראל לכהן או בת כהן לישראל לא תאכל בתרומה<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="32" isdata="1">האומר לחבירו צא וקדש תנא מה שעשה עשוי אלא שנהג בו מנהג רמאות</row>
+		<row row_number="33" isdata="1">ותנא דידן הלך נמי דקתני הלך ברמאות מאי שנא הכא דקתני האומר לחבירו</row>
+</amud>
+</daf>
+</masechet>
+</root>

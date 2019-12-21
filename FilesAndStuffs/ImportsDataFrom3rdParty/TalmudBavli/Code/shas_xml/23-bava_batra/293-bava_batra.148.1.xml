@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:19.840723</dateCreated>
+   <lastModified>2019-12-21 20:31:19.840723</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="148">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שמת"/><ContGemara/>שכיב מרע שאמר תנו הלואתי לפלוני</row>
+		<row row_number="2" isdata="1">הלואתו לפלוני ואף על גב דליתיה בבריא</row>
+		<row row_number="3" isdata="1">רב פפא אמר הואיל ויורש יורשה רב</row>
+		<row row_number="4" isdata="1">אחא בריה דרב איקא אמר הלואה איתא</row>
+		<row row_number="5" isdata="1">בבריא וכדרב הונא אמר רב דאמר רב</row>
+		<row row_number="6" isdata="1">הונא אמר רב מנה לי בידך תנהו לפלוני</row>
+		<row row_number="7" isdata="1">במעמד שלשתן קנה איבעיא להו דקל</row>
+		<row row_number="8" isdata="1">לאחד ופירותיו לאחר מהו מי שייר מקום</row>
+		<row row_number="9" isdata="1">פירי או לא שייר אם תמצי לומר לאחר</row>
+		<row row_number="10" isdata="1">לא הוי שיור לעצמו חוץ מפירותיו מהו</row>
+		<row row_number="11" isdata="1">אמר רבא אמר רב נחמן אם תמצי לומר</row>
+		<row row_number="12" isdata="1">דקל לאחד ופירותיו לאחר לא הוי שיור</row>
+		<row row_number="13" isdata="1">מקום פירי דקל לאחד ושייר פירותיו לפניו</row>
+		<row row_number="14" isdata="1">שייר מקום פירי מאי טעמא כל לגבי</row>
+		<row row_number="15" isdata="1">נפשיה בעין יפה משייר אמר ליה ר' אבא</row>
+		<row row_number="16" isdata="1">לרב אשי אנן אדרבי שמעון בן לקיש</row>
+		<row row_number="17" isdata="1">מתנינן לה דאמר רבי שמעון בן לקיש</row>
+		<row row_number="18" isdata="1">המוכר בית לחבירו ואמר לו על מנת</row>
+		<row row_number="19" isdata="1">שדיוטא העליונה שלי דיוטא העליונה שלו</row>
+</amud>
+</daf>
+</masechet>
+</root>

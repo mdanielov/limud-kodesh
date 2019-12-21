@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:13.392413</dateCreated>
+   <lastModified>2019-12-21 20:29:13.392413</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="85">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד צולין"/><ContGemara/>לא הכי קאמר אחד עצם שיש עליו כזית</row>
+		<row row_number="2" isdata="1">בשר מבחוץ ואחד עצם שאין עליו כזית בשר</row>
+		<row row_number="3" isdata="1">מבחוץ ויש עליו כזית בשר מבפנים במקום</row>
+		<row row_number="4" isdata="1">שבירה והתניא ועצם לא תשברו בו אחד</row>
+		<row row_number="5" isdata="1">עצם שיש בו מוח ואחד עצם שאין בו מוח</row>
+		<row row_number="6" isdata="1">ומה אני מקיים ואכלו את הבשר בלילה</row>
+		<row row_number="7" isdata="1">הזה בבשר שעל גבי העצם או אינו אלא</row>
+		<row row_number="8" isdata="1">בבשר שבתוך העצם ומה אני מקיים ועצם</row>
+		<row row_number="9" isdata="1">לא תשברו בו בעצם שאין בו מוח אבל</row>
+		<row row_number="10" isdata="1">בעצם שיש בו מוח שובר ואוכל ואל תתמה</row>
+		<row row_number="11" isdata="1">שהרי יבא עשה וידחה ל"ת כשהוא אומר</row>
+		<row row_number="12" isdata="1">ועצם לא ישברו בו בפסח שני שאין ת"ל</row>
+		<row row_number="13" isdata="1">שהרי כבר נאמר ככל חקת הפסח יעשו</row>
+		<row row_number="14" isdata="1">אותו הוי אומר אחד עצם שיש בו מוח ואחד</row>
+		<row row_number="15" isdata="1">עצם שאין בו מוח מיתיבי אבר שיצא מקצתו</row>
+		<row row_number="16" isdata="1">חותך עד מקום שמגיע לעצם וקולף עד</row>
+		<row row_number="17" isdata="1">שמגיע לפרק וחותך ואי אמרת אבר שאין</row>
+		<row row_number="18" isdata="1">עליו כזית בשר במקום זה ויש במקום</row>
+		<row row_number="19" isdata="1">אחר אין בו משום שבירת העצם למה לי</row>
+		<row row_number="20" isdata="1">דקולף עד שמגיע לפרק וחותך נקלוף ביה</row>
+		<row row_number="21" isdata="1">פורתא ונתבריה אביי אמר משום פקע רבינא</row>
+		<row row_number="22" isdata="1">אמר בקולית תנן התם  הפיגול והנותר</row>
+		<row row_number="23" isdata="1">(והטמא) מטמאין את הידים רב הונא ורב</row>
+		<row row_number="24" isdata="1">חסדא חד אמר מפני חשדי כהונה וחד אמר</row>
+		<row row_number="25" isdata="1">מפני עצלי כהונה מר מתני אפיגול ומר מתני</row>
+		<row row_number="26" isdata="1">אנותר מאן דמתני אפיגול משום חשדי</row>
+		<row row_number="27" isdata="1">כהונה ומאן דמתני אנותר משום עצלי כהונה</row>
+		<row row_number="28" isdata="1">מר מתני כזית ומר מתני כביצה מאן דמתני</row>
+		<row row_number="29" isdata="1">כזית כאיסורו ומאן דמתני כביצה כטומאתו</row>
+		<row row_number="30" isdata="1">איבעיא להו יוצא גזרו רבנן טומאה או לא מי</row>
+		<row row_number="31" isdata="1">אמרינן נותר דגזרו טומאה דאתי לאיעצולי</row>
+		<row row_number="32" isdata="1">ביה אבל יוצא אפוקי בידים לא מפקי ליה</row>
+		<row row_number="33" isdata="1">בידים לא גזרו ביה רבנן טומאה או דילמא</row>
+		<row row_number="34" isdata="1">לא שנא ת"ש אבר שיצא מקצתו חותך עד</row>
+		<row row_number="35" isdata="1">שמגיע לעצם וקולף עד שמגיע לפרק וחותך</row>
+		<row row_number="36" isdata="1">וא"א גזרו ביה רבנן טומאה כי חתיך ליה</row>
+		<row row_number="37" isdata="1">מאי הוי הא קמטמא ליה טומאת סתרים</row>
+		<row row_number="38" isdata="1">היא וטומאת סתרים לא מטמיא ולרבינא</row>
+		<row row_number="39" isdata="1">דאמר חיבורי אוכלין לאו חיבור הוא וכמאן</row>
+		<row row_number="40" isdata="1">דמפרתי דמי מאי איכא למימר הא קנגע</row>
+		<row row_number="41" isdata="1">בהדדי וקא מטמא אלא למאן דמתני כזית</row>
+		<row row_number="42" isdata="1">דלית ביה כזית ומאן דמתני כביצה דלית</row>
+		<row row_number="43" isdata="1">ביה כביצה ת"ש המוציא בשר פסח מחבורה</row>
+		<row row_number="44" isdata="1">לחבורה אע"פ שהוא בלא תעשה טהור מאי</row>
+		<row row_number="45" isdata="1">לאו טהור ואסור דיוצא מחבורה לחבורה</row>
+		<row row_number="46" isdata="1">כיוצא חוץ למחיצתו דמי ומפסיל ואפי' הכי</row>
+		<row row_number="47" isdata="1">קתני טהור אלמא לא גזרו רבנן טומאה לא</row>
+		<row row_number="48" isdata="1">טהור ומותר דיוצא מחבורה לחבורה לאו</row>
+		<row row_number="49" isdata="1">כיוצא חוץ למחיצתו דמי ולא מפסיל והא קא</row>
+		<row row_number="50" isdata="1">תני סיפא האוכלו הרי זה בל"ת בשלמא למאן</row>
+		<row row_number="51" isdata="1">דאמר כביצה דאית ביה כזית ולית ביה</row>
+		<row row_number="52" isdata="1">כביצה אלא למאן דאמר כזית מאי איכא</row>
+		<row row_number="53" isdata="1">למימר אלא ביוצא בפסח לא מיבעיא לן</row>
+		<row row_number="54" isdata="1">דלא גזרו רבנן טומאה מאי טעמא בני חבורה זריזין הן ומזהר זהירי</row>
+		<row row_number="55" isdata="1">ביה אלא כי קמיבעיא לן ביוצא בקדשים מאי תיקו ומוציא בשר פסח</row>
+</amud>
+</daf>
+</masechet>
+</root>

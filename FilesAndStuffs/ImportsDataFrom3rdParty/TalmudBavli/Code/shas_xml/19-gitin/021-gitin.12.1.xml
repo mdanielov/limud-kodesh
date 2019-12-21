@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:29.408520</dateCreated>
+   <lastModified>2019-12-21 20:30:29.408520</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="12">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המביא קמא"/><ContGemara/>דלמא לא היא עד כאן לא קאמר ר' אליעזר</row>
+		<row row_number="2" isdata="1">התם אלא דמיגו דאי בעי מפקר להו לנכסיה</row>
+		<row row_number="3" isdata="1">והוי עני וחזי ליה ומיגו דזכי ליה לנפשיה זכי</row>
+		<row row_number="4" isdata="1">לחבריה אבל הכא לא ועד כאן לא קאמרי</row>
+		<row row_number="5" isdata="1">רבנן התם אלא דכתיב לא תלקט לעני לא</row>
+		<row row_number="6" isdata="1">תלקט לו לעני אבל הכא לא ור"א האי לא</row>
+		<row row_number="7" isdata="1">תלקט מאי עביד ליה מיבעי ליה להזהיר</row>
+		<row row_number="8" isdata="1">לעני על שלו שאם ירצה שלא לזון כו'</row>
+		<row row_number="9" isdata="1">שמעת מינה יכול הרב לומר לעבד עשה</row>
+		<row row_number="10" isdata="1">עמי ואיני זנך הכא במאי עסקינן דא"ל צא</row>
+		<row row_number="11" isdata="1">מעשה ידיך למזונותיך דכוותה גבי אשה</row>
+		<row row_number="12" isdata="1">דאמר לה צאי מעשה ידיך במזונותיך אשה</row>
+		<row row_number="13" isdata="1">אמאי לא אשה בדלא ספקה עבד נמי</row>
+		<row row_number="14" isdata="1">בדלא ספיק עבדא דנהום כרסיה לא שויא</row>
+		<row row_number="15" isdata="1">למריה ולמרתיה למאי מיתבעי תא שמע</row>
+		<row row_number="16" isdata="1">עבד שגלה לערי מקלט אין רבו חייב לזונו</row>
+		<row row_number="17" isdata="1">ולא עוד אלא שמעשה ידיו לרבו ש"מ</row>
+		<row row_number="18" isdata="1">יכול הרב לומר לעבד עשה עמי ואיני זנך</row>
+		<row row_number="19" isdata="1">הכא במאי עסקינן דאמר לו צא מעשה ידיך</row>
+		<row row_number="20" isdata="1">למזונותיך אי הכי מעשה ידיו אמאי לרבו</row>
+		<row row_number="21" isdata="1">להעדפה העדפה פשיטא מהו דתימא כיון</row>
+		<row row_number="22" isdata="1">דכי לית ליה לא יהיב ליה כי אית ליה נמי לא</row>
+		<row row_number="23" isdata="1">לישקול מיניה קמ"ל ומ"ש לערי מקלט סד"א</row>
+		<row row_number="24" isdata="1">וחי עביד ליה חיותא טפי קמ"ל והא מדקתני סיפא אבל אשה שגלתה לערי</row>
+		<row row_number="25" isdata="1">מקלט בעלה חייב במזונותיה מכלל דלא אמר לה דאי אמר לה בעלה אמאי</row>
+		<row row_number="26" isdata="1">חייב ומדסיפא דלא אמר לה רישא נמי דלא אמר ליה לעולם דאמר ליה ואשה</row>
+		<row row_number="27" isdata="1">בדלא ספקה והא מדקתני סיפא ואם אמר לה צאי מעשה ידיך במזונותיך</row>
+		<row row_number="28" isdata="1">רשאי מכלל דרישא דלא אמר לה ה"ק ואם מספקת ואמר לה צאי מעשה</row>
+		<row row_number="29" isdata="1">ידיך במזונותיך רשאי מספקת מאי למימרא מהו דתימא כל כבודה בת מלך</row>
+		<row row_number="30" isdata="1">פנימה קמ"ל לימא כתנאי רבן שמעון בן גמליאל אומר יכול העבד לומר לרבו</row>
+		<row row_number="31" isdata="1">בשני בצורת או פרנסני או הוציאני לחירות וחכמים אומרים הרשות ביד רבו</row>
+		<row row_number="32" isdata="1">מאי לאו בהא קמיפלגי דמר סבר יכול ומר סבר אינו יכול ותיסברא האי</row>
+		<row row_number="33" isdata="1">או פרנסני או הוציאני לחירות או פרנסני או תן לי מעשה ידי בפרנסתי</row>
+		<row row_number="34" isdata="1">מיבעי ליה ועוד מאי שנא בשני בצורת אלא הכא במאי עסקינן דאמר</row>
+		<row row_number="35" isdata="1">לו צא מעשה ידיך למזונותיך ובשני בצורת לא ספק רשב"ג סבר</row>
+		<row row_number="36" isdata="1">או פרנסני או הוציאני לחירות כי היכי דחזו לי אינשי ומרחמין עלי ורבנן</row>
+		<row row_number="37" isdata="1">סברי מאן דמרחם אבני חרי אעבד נמי רחומי מרחם ת"ש דאמר רב</row>
+		<row row_number="38" isdata="1">המקדיש ידי עבדו אותו העבד לוה ואוכל ועושה ופורע ש"מ יכול הרב לומר</row>
+		<row row_number="39" isdata="1">לעבד עשה עמי ואיני זנך הכא במאי עסקינן במעלה לו מזונות א"ה למאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

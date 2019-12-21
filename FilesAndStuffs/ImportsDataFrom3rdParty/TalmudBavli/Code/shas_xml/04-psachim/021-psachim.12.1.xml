@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:04.365416</dateCreated>
+   <lastModified>2019-12-21 20:29:04.365416</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="12">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אור לארבעה עשר"/><ContGemara/>וחד מינייהו קטעי שעה ומשהו אזל רב הונא</row>
+		<row row_number="2" isdata="1">בריה דרב יהודה אמרה לשמעתתא קמיה</row>
+		<row row_number="3" isdata="1">דרבא אמר ומה אילו דייקינן בהני סהדי</row>
+		<row row_number="4" isdata="1">דהאי דקאמר שלש בתחילת שלש והאי</row>
+		<row row_number="5" isdata="1">דקאמר חמש בסוף חמש והויא עדות</row>
+		<row row_number="6" isdata="1">מוכחשת ולא קטלינן ואנן ניקום ונקטיל</row>
+		<row row_number="7" isdata="1">מספקא ורחמנא אמר ושפטו העדה והצילו</row>
+		<row row_number="8" isdata="1">העדה אלא אמר רבא לדברי רבי מאיר אדם</row>
+		<row row_number="9" isdata="1">טועה שתי שעות חסר משהו לדברי רבי</row>
+		<row row_number="10" isdata="1">יהודה אדם טועה שלש שעות חסר משהו</row>
+		<row row_number="11" isdata="1">לדברי רבי מאיר אדם טועה שתי שעות</row>
+		<row row_number="12" isdata="1">חסר משהו מעשה כי הוה או בתחלת שתים</row>
+		<row row_number="13" isdata="1">או בסוף שלש וחד מינייהו קטעי ב' שעות</row>
+		<row row_number="14" isdata="1">חסר משהו לדברי רבי יהודה אדם טועה</row>
+		<row row_number="15" isdata="1">שלש שעות חסר משהו מעשה כי הוה או</row>
+		<row row_number="16" isdata="1">בתחלת שלש או בסוף חמש וחד מינייהו</row>
+		<row row_number="17" isdata="1">קטעי שלש שעות חסר משהו תנן היו</row>
+		<row row_number="18" isdata="1">בודקין אותו בשבע חקירות באיזו שבוע</row>
+		<row row_number="19" isdata="1">באיזו שנה באיזה חדש בכמה בחדש באיזה</row>
+		<row row_number="20" isdata="1">יום באיזו שעה באיזה מקום (ותניא) מה</row>
+		<row row_number="21" isdata="1">בין חקירות לבדיקות חקירות אמר אחד</row>
+		<row row_number="22" isdata="1">מהן איני יודע עדותן בטילה בדיקות אפילו</row>
+		<row row_number="23" isdata="1">שניהם אומרים אין אנו יודעים עדותן קיימת והוינן בה מאי שנא חקירות</row>
+		<row row_number="24" isdata="1">ומאי שנא בדיקות ואמרינן חקירות אמר אחד מהן איני יודע עדותן בטילה</row>
+		<row row_number="25" isdata="1">דהויא לה עדות שאי אתה יכול להזימה בדיקות עדות שאתה יכול להזימה</row>
+		<row row_number="26" isdata="1">היא ואי אמרת טעי איניש כולי האי חקירות דאיזו שעה נמי עדות שאי אתה</row>
+		<row row_number="27" isdata="1">יכול להזימה היא דאמרי מטעי קטעינן דיהבינן להו כולי טעותייהו לרבי מאיר</row>
+		<row row_number="28" isdata="1">יהבינן להו מתחילת שעה ראשונה עד סוף חמש ובדין הוא דניתיב להו</row>
+		<row row_number="29" isdata="1">מעיקרא טפי אלא בין יממא לליליא לא טעו אינשי ולרבי יהודה יהבינן להו</row>
+		<row row_number="30" isdata="1">מתחילת שעה ראשונה ועד סוף ששית ובדין הוא דניתיב להו מעיקרא טפי</row>
+</amud>
+</daf>
+</masechet>
+</root>

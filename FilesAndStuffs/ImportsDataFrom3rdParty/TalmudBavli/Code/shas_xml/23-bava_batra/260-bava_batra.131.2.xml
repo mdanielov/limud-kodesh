@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:18.204201</dateCreated>
+   <lastModified>2019-12-21 20:31:18.204201</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="131">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>ממאי דבחד בי דינא איתקון דלמא בתרי</row>
+		<row row_number="2" isdata="1">בי דינא איתקון לא סלקא דעתך דקתני</row>
+		<row row_number="3" isdata="1">רישא זה מדרש דרש ר' אלעזר בן עזריה</row>
+		<row row_number="4" isdata="1">לפני חכמים בכרם ביבנה הבנים יירשו</row>
+		<row row_number="5" isdata="1">והבנות יזונו מה הבנים אינן יורשין אלא</row>
+		<row row_number="6" isdata="1">לאחר מיתת אביהם אף בנות לא יזונו אלא</row>
+		<row row_number="7" isdata="1">לאחר מיתת אביהן אי אמרת בשלמא בחד בי דינא איתקון היינו דילפינן</row>
+		<row row_number="8" isdata="1">תקנה מתקנה אלא אי אמרת בתרי בי דינא איתקון היכי ילפינן תקנה מתקנה</row>
+		<row row_number="9" isdata="1">ממאי דלמא לעולם אימא לך בתרי בי דינא איתקון ובי דינא בתרא תקון כבי</row>
+		<row row_number="10" isdata="1">דינא קמא כי היכי דלא תקשה תקנתא אתקנתא אמר רב יהודה אמר</row>
+		<row row_number="11" isdata="1">שמואל הכותב כל נכסיו לאשתו לא עשאה אלא אפוטרופא פשיטא בנו</row>
+		<row row_number="12" isdata="1">הגדול לא עשאו אלא אפוטרופוס בנו הקטן מאי איתמר רב חנילאי</row>
+		<row row_number="13" isdata="1">בר אידי אמר שמואל אפילו בנו קטן המוטל בעריסה פשיטא בנו ואחר</row>
+		<row row_number="14" isdata="1">אחר במתנה ובנו אפוטרופוס (אשתו ואחר לאחר במתנה ואשתו אפוטרופוס)</row>
+		<row row_number="15" isdata="1">אשתו ארוסה ואשתו גרושה במתנה איבעיא להו בת אצל הבנים ואשה אצל</row>
+		<row row_number="16" isdata="1">האחים ואשה אצל בני הבעל מהו אמר רבינא משמיה דרבא בכולהו לא</row>
+		<row row_number="17" isdata="1">קנה לבר מאשתו ארוסה ואשתו גרושה רב עוירא משמיה דרבא אמר</row>
+		<row row_number="18" isdata="1">בכולהו קני לבר מהאשה אצל האחין ואשה אצל בני הבעל</row>
+</amud>
+</daf>
+</masechet>
+</root>

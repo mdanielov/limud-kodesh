@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:15.358309</dateCreated>
+   <lastModified>2019-12-21 20:30:15.358309</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="34">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אין בין המודר"/><ContGemara/>תנן מקום שנוטלין עליה שכר תפול הנאה</row>
+		<row row_number="2" isdata="1">להקדש בשלמא למ"ד אפילו בשנכסי בעל</row>
+		<row row_number="3" isdata="1">אבידה אסורים על מחזיר נמי מהדר היינו</row>
+		<row row_number="4" isdata="1">דקתני מקום שנוטלין עליה שכר תפול</row>
+		<row row_number="5" isdata="1">הנאה להקדש אלא למ"ד כשנכסי בעל</row>
+		<row row_number="6" isdata="1">אבידה אסורים על מחזיר לא מהדר אמאי</row>
+		<row row_number="7" isdata="1">תפול הנאה להקדש אחדא קתני איכא דמתני</row>
+		<row row_number="8" isdata="1">לה בהאי לישנא פליגי בה ר' אמי ור' אסי חד</row>
+		<row row_number="9" isdata="1">אמר לא שנו אלא בשנכסי בעל אבידה אסורין</row>
+		<row row_number="10" isdata="1">על מחזיר ומשום פרוטה דרב יוסף לא שכיח</row>
+		<row row_number="11" isdata="1">אבל נכסי מחזיר אסורים על בעל אבדה לא</row>
+		<row row_number="12" isdata="1">מהדר ליה משום דקא מהני ליה וחד אמר</row>
+		<row row_number="13" isdata="1">אפי' נכסי מחזיר אסורים על בעל אבידה</row>
+		<row row_number="14" isdata="1">מותר דכי מהדר ליה מידי דנפשיה קמהדר</row>
+		<row row_number="15" isdata="1">ליה תנן מקום שנוטלין עליה שכר תפול</row>
+		<row row_number="16" isdata="1">הנאה להקדש בשלמא למ"ד אפילו בשנכסי</row>
+		<row row_number="17" isdata="1">מחזיר אסורים על בעל אבידה מהדר היינו</row>
+		<row row_number="18" isdata="1">דמתרץ מקום אלא למ"ד בשנכסי מחזיר</row>
+		<row row_number="19" isdata="1">אסורין ולא מהדר היכי מתרץ מקום קשיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:57.595002</dateCreated>
+   <lastModified>2019-12-21 20:29:57.595002</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="59">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הבא על יבמתו"/><ContGemara/>הא מני ר' מאיר היא ורב דאמר כר' אלעזר</row>
+		<row row_number="2" isdata="1">אי כרבי אלעזר מאי איריא משום בעולה</row>
+		<row row_number="3" isdata="1">תיפוק ליה דהויא לה זונה דהא א"ר אלעזר</row>
+		<row row_number="4" isdata="1">פנוי הבא על הפנויה שלא לשם אישות</row>
+		<row row_number="5" isdata="1">עשאה זונה אמר רב יוסף כגון שנבעלה</row>
+		<row row_number="6" isdata="1">לבהמה דהתם משום בעולה איכא משום זונה</row>
+		<row row_number="7" isdata="1">ליכא אמר ליה אביי ממה נפשך אי בעולה</row>
+		<row row_number="8" isdata="1">הויא זונה נמי הויא ואי זונה לא הויא</row>
+		<row row_number="9" isdata="1">בעולה נמי לא הויא וכי תימא מידי דהויא</row>
+		<row row_number="10" isdata="1">אמוכת עץ שלא כדרכה אם כן אין לך</row>
+		<row row_number="11" isdata="1">אשה שכשרה לכהונה שלא נעשית מוכת</row>
+		<row row_number="12" isdata="1">עץ על ידי צרור אלא אמר רבי זירא</row>
+		<row row_number="13" isdata="1">בממאנת אמר רב שימי בר חייא נבעלה</row>
+		<row row_number="14" isdata="1">לבהמה כשרה לכהונה תניא נמי הכי</row>
+		<row row_number="15" isdata="1">נבעלה למי שאינו איש אע"פ שבסקילה</row>
+		<row row_number="16" isdata="1">כשרה לכהונה כי אתא רב דימי אמר</row>
+		<row row_number="17" isdata="1">מעשה בריבה אחת בהיתלו שהיתה מכבדת</row>
+		<row row_number="18" isdata="1">את הבית ורבעה כלב כופרי מאחריה</row>
+		<row row_number="19" isdata="1">והכשירה רבי לכהונה אמר שמואל ולכהן</row>
+		<row row_number="20" isdata="1">גדול בימי רבי כהן גדול מי הוה אלא ראויה</row>
+		<row row_number="21" isdata="1">לכהן גדול א"ל רבא מפרקין לרב אשי מנא</row>
+		<row row_number="22" isdata="1">הא מילתא דאמור רבנן אין זנות לבהמה</row>
+		<row row_number="23" isdata="1">דכתיב לא תביא אתנן זונה ומחיר כלב</row>
+		<row row_number="24" isdata="1">ותנן אתנן כלב ומחיר זונה מותרין</row>
+		<row row_number="25" isdata="1">(משום) שנאמר גם שניהם שנים ולא</row>
+		<row row_number="26" isdata="1">ארבעה ת"ר אנוסת עצמו ומפותת עצמו לא</row>
+		<row row_number="27" isdata="1">ישא ואם נשא נשוי אנוסת חבירו ומפותת</row>
+		<row row_number="28" isdata="1">חבירו לא ישא ואם נשא ר' אליעזר בן</row>
+		<row row_number="29" isdata="1">יעקב אומר הולד חלל וחכמים אומרים</row>
+		<row row_number="30" isdata="1">הולד כשר אם נשא נשוי אמר רב הונא</row>
+		<row row_number="31" isdata="1">אמר רב ומוציא בגט ואלא הא דקתני אם</row>
+		<row row_number="32" isdata="1">נשא נשוי אמר רב אחא בר יעקב לומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

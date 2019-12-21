@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:03.657336</dateCreated>
+   <lastModified>2019-12-21 20:32:03.657336</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="28">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הקומץ"/><ContGemara/>הא דקאי מזרח ומערב ואדי הא דקאי צפון</row>
+		<row row_number="2" isdata="1">ודרום ואדי אמר מר ושבפנים ושבמצורע</row>
+		<row row_number="3" isdata="1">שלא לשמן פסולות שלא מכוונות כשרות</row>
+		<row row_number="4" isdata="1">והתניא בין שלא לשמן בין שלא מכוונות</row>
+		<row row_number="5" isdata="1">כשרות אמר רב יוסף לא קשיא הא רבי</row>
+		<row row_number="6" isdata="1">אליעזר והא רבנן רבי אליעזר דמקיש אשם</row>
+		<row row_number="7" isdata="1">לחטאת מקיש נמי לוג לאשם רבנן לא מקשי</row>
+		<row row_number="8" isdata="1">ולרבי אליעזר וכי דבר הלמד בהיקש חוזר</row>
+		<row row_number="9" isdata="1">ומלמד בהיקש אלא אמר רבא הא והא רבנן</row>
+		<row row_number="10" isdata="1">כאן להכשיר (הקרבן) כאן להרצות (שלא</row>
+		<row row_number="11" isdata="1">עלו לבעלים לשום חובה)מתני' שבעה</row>
+		<row row_number="12" isdata="1">קני מנורה מעכבין זה את זה שבעה נרותיה</row>
+		<row row_number="13" isdata="1">מעכבין זה את זה שתי פרשיות שבמזוזה</row>
+		<row row_number="14" isdata="1">מעכבות זו את זו אפילו כתב אחד מעכבן</row>
+		<row row_number="15" isdata="1">ד' פרשיות שבתפילין מעכבין זו את זו אפילו</row>
+		<row row_number="16" isdata="1">כתב אחד מעכבן ד' ציציות מעכבות זו את זו</row>
+		<row row_number="17" isdata="1">שארבעתן מצוה אחת רבי ישמעאל אומר</row>
+		<row row_number="18" isdata="1">ארבעתן ארבע מצות<EndMishna/><StartGemara/>גמ' מ"ט הויה כתיב</row>
+		<row row_number="19" isdata="1">בהו תנו רבנן מנורה היתה באה מן העשת</row>
+		<row row_number="20" isdata="1">ומן הזהב עשאה מן הגרוטאות פסולה משאר</row>
+		<row row_number="21" isdata="1">מיני מתכות כשרה מאי שנא מן הגרוטאות</row>
+		<row row_number="22" isdata="1">פסולה דכתיב מקשה והויה שאר מיני</row>
+		<row row_number="23" isdata="1">מתכות נמי זהב והויה אמר קרא תיעשה</row>
+		<row row_number="24" isdata="1">לרבות שאר מיני מתכות ואימא לרבות</row>
+		<row row_number="25" isdata="1">גרוטאות לא ס"ד דאמקשה כתיבה הויה</row>
+		<row row_number="26" isdata="1">תיעשה נמי אמקשה כתיב מקשה מקשה</row>
+		<row row_number="27" isdata="1">לעכב זהב זהב נמי לעכב האי מאי אי אמרת</row>
+		<row row_number="28" isdata="1">בשלמא מן הגרוטאות פסולה משאר מיני</row>
+		<row row_number="29" isdata="1">מתכות כשרה היינו זהב זהב מקשה מקשה</row>
+		<row row_number="30" isdata="1">לדרשא אלא אי אמרת מן הגרוטאות כשרה</row>
+		<row row_number="31" isdata="1">משאר מיני מתכות פסולה זהב זהב מקשה</row>
+		<row row_number="32" isdata="1">מקשה מאי דרשת ביה מאי דרשא דתניא</row>
+		<row row_number="33" isdata="1">ככר זהב טהור יעשה אותה את כל הכלים</row>
+		<row row_number="34" isdata="1">האלה באה זהב באה ככר אינה באה זהב</row>
+		<row row_number="35" isdata="1">אינה באה ככר גביעיה כפתוריה ופרחיה</row>
+		<row row_number="36" isdata="1">באה זהב באה גביעים כפתורים ופרחים</row>
+		<row row_number="37" isdata="1">אינה באה זהב אינה באה גביעים כפתורים</row>
+		<row row_number="38" isdata="1">ופרחים ואימא נמי באה זהב באה קנים</row>
+		<row row_number="39" isdata="1">אינה באה זהב אינה באה קנים ההוא פמוט</row>
+		<row row_number="40" isdata="1">מיקרי וזה מעשה המנורה מקשה זהב באה</row>
+		<row row_number="41" isdata="1">זהב באה מקשה אינה באה זהב אינה באה</row>
+		<row row_number="42" isdata="1">מקשה מקשה דסיפא למאי אתא למעוטי</row>
+		<row row_number="43" isdata="1">חצוצרות דתניא חצוצרות היו באים מן</row>
+		<row row_number="44" isdata="1">העשת מן הכסף עשאם מן הגרוטאות כשרים</row>
+		<row row_number="45" isdata="1">משאר מיני מתכות פסולים ומאי שנא משאר</row>
+		<row row_number="46" isdata="1">מיני מתכות פסולים דכתיב כסף והויה מן הגרוטאות נמי מקשה והויה</row>
+		<row row_number="47" isdata="1">מיעט רחמנא גבי מנורה מקשה היא היא ולא חצוצרות תנו רבנן כל הכלים</row>
+</amud>
+</daf>
+</masechet>
+</root>

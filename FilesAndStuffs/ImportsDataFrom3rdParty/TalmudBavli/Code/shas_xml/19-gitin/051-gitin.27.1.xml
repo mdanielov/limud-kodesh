@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:30.624397</dateCreated>
+   <lastModified>2019-12-21 20:30:30.624397</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="27">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContMishna/>מתני' המביא גט ואבד הימנו מצאו<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">לאלתר כשר ואם לאו פסול מצאו בחפיסה</row>
+		<row row_number="3" isdata="1">או בדלוסקמא אם מכירו כשר<EndMishna/><StartGemara/>גמ' ורמינהו</row>
+		<row row_number="4" isdata="1">מצא גיטי נשים ושחרורי עבדים דייתיקי</row>
+		<row row_number="5" isdata="1">מתנות ושוברין הרי זה לא יחזיר שאני אומר</row>
+		<row row_number="6" isdata="1">כתובין היו ונמלך עליהן שלא ליתנן הא</row>
+		<row row_number="7" isdata="1">אמר תנו נותנין ואפי' לזמן מרובה אמר רבה</row>
+		<row row_number="8" isdata="1">לא קשיא כאן במקום שהשיירות מצויות</row>
+		<row row_number="9" isdata="1">כאן במקום שאין השיירות מצויות ואפילו</row>
+		<row row_number="10" isdata="1">במקום שהשיירות מצויות והוא שהוחזקו</row>
+		<row row_number="11" isdata="1">שני יוסף בן שמעון בעיר אחת דאי לא</row>
+		<row row_number="12" isdata="1">תימא הכי קשיא דרבה אדרבה דההוא</row>
+		<row row_number="13" isdata="1">גיטא דאישתכח בי דינא דרב הונא והוה</row>
+		<row row_number="14" isdata="1">כתיב ביה בשוירי מתא דעל רכיס נהרא</row>
+		<row row_number="15" isdata="1">ואמר רב הונא חוששין לשני שוירי</row>
+		<row row_number="16" isdata="1">ואמר ליה רב חסדא לרבה פוק ועיין בה</row>
+		<row row_number="17" isdata="1">דלאורתא בעי לה מינך רב הונא נפק</row>
+		<row row_number="18" isdata="1">דק ואשכח דתנן כל מעשה ב"ד הרי</row>
+		<row row_number="19" isdata="1">זה יחזיר והא בי דינא דרב הונא דכמקום</row>
+		<row row_number="20" isdata="1">שהשיירו' מצויות דמי וקא פשיט יחזיר אלמא</row>
+		<row row_number="21" isdata="1">אי הוחזקו שני יוסף בן שמעון בעיר אחת אין</row>
+		<row row_number="22" isdata="1">ואי לא לא עבד רבה עובדא בההוא גיטא</row>
+		<row row_number="23" isdata="1">דאישתכח בי כיתנא בפומבדיתא כשמעתיה</row>
+		<row row_number="24" isdata="1">איכא דאמרי בדוכתא היכא דתרו כיתנא</row>
+		<row row_number="25" isdata="1">ואף על גב דהוחזקו דלא שכיחן שיירתא</row>
+		<row row_number="26" isdata="1">ואיכא דאמרי בדוכתא דמזבני כיתנא והוא</row>
+		<row row_number="27" isdata="1">שלא הוחזקו ושכיחן שיירות רבי זירא רמי</row>
+		<row row_number="28" isdata="1"><EndGemara/><StartMishna/>מתני' אברייתא ומשני תנן המביא גט</row>
+		<row row_number="29" isdata="1">ואבד הימנו אם מצאו לאלתר כשר ואם</row>
+		<row row_number="30" isdata="1">לאו פסול ורמינהו מצא גט אשה בשוק</row>
+		<row row_number="31" isdata="1">בזמן שהבעל מודה יחזיר לאשה אין הבעל</row>
+		<row row_number="32" isdata="1">מודה לא יחזיר לא לזה ולא לזה הא</row>
+</amud>
+</daf>
+</masechet>
+</root>

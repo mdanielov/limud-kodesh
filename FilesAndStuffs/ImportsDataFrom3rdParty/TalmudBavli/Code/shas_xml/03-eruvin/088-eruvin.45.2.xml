@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:57.200418</dateCreated>
+   <lastModified>2019-12-21 20:28:57.200418</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="45">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>ובלבד שלא יוציא זה מתוך שלו לתוך של</row>
+		<row row_number="2" isdata="1">חברו היו שלשה והאמצעי מובלע ביניהן</row>
+		<row row_number="3" isdata="1">הוא מותר עמהן והן מותרין עמו ושנים</row>
+		<row row_number="4" isdata="1">החיצונים אסורין זה עם זה אמר רבי שמעון</row>
+		<row row_number="5" isdata="1">למה הדבר דומה לשלש חצירות הפתוחות</row>
+		<row row_number="6" isdata="1">זו לזו ופתוחות לרשות הרבים עירבו שתים</row>
+		<row row_number="7" isdata="1">עם האמצעית היא מותרת עמהן והם מותרות</row>
+		<row row_number="8" isdata="1">עמה ושתים החיצונות אסורות זו עם זו</row>
+		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' בעי רבא מאי קסבר ר' יוחנן בן נורי</row>
+		<row row_number="10" isdata="1">מסבר קא סבר חפצי הפקר קונין שביתה</row>
+		<row row_number="11" isdata="1">ובדין הוא דליפלוג בכלים והא דקמיפלגי</row>
+		<row row_number="12" isdata="1">באדם להודיעך כוחן דרבנן דאע"ג דאיכא</row>
+		<row row_number="13" isdata="1">למימר הואיל וניעור קנה ישן נמי קנה קמ"ל</row>
+		<row row_number="14" isdata="1">דלא או דילמא קסבר ר' יוחנן בן נורי בעלמא</row>
+		<row row_number="15" isdata="1">חפצי הפקר אין קונין שביתה והכא היינו</row>
+		<row row_number="16" isdata="1">טעמא הואיל וניעור קנה ישן נמי קנה אמר</row>
+		<row row_number="17" isdata="1">רב יוסף ת"ש גשמים שירדו מעי"ט יש להן</row>
+		<row row_number="18" isdata="1">אלפים אמה לכל רוח בי"ט הרי הן כרגלי</row>
+		<row row_number="19" isdata="1">כל אדם אי אמרת בשלמא קסבר רבי יוחנן</row>
+		<row row_number="20" isdata="1">בן נורי חפצי הפקר קונין שביתה הא מני ר'</row>
+		<row row_number="21" isdata="1">יוחנן היא אלא אי אמרת חפצי הפקר אין</row>
+		<row row_number="22" isdata="1">קונין שביתה הא מני לא רבי יוחנן ולא רבנן</row>
+		<row row_number="23" isdata="1">יתיב אביי וקאמר לה להא שמעתא א"ל רב</row>
+		<row row_number="24" isdata="1">ספרא לאביי ודילמא בגשמים הסמוכין</row>
+		<row row_number="25" isdata="1">לעיר עסקינן ואנשי אותה העיר דעתם</row>
+		<row row_number="26" isdata="1">עילייהו אמר ליה לא ס"ד דתנן בור של</row>
+		<row row_number="27" isdata="1">יחיד כרגלי יחיד ושל אותה העיר כרגלי</row>
+		<row row_number="28" isdata="1">אותה העיר ושל עולי בבל כרגלי הממלא</row>
+		<row row_number="29" isdata="1">ותניא בור של שבטים יש להן אלפים אמה</row>
+		<row row_number="30" isdata="1">לכל רוח קשיין אהדדי אלא לאו ש"מ הא</row>
+		<row row_number="31" isdata="1">רבי יוחנן בן נורי הא רבנן כי אתא לקמיה</row>
+		<row row_number="32" isdata="1">דרב יוסף א"ל הכי קאמר רב ספרא והכי</row>
+		<row row_number="33" isdata="1">אהדרי ליה אמר ליה ואמאי לא תימא ליה</row>
+		<row row_number="34" isdata="1">מגופה אי סלקא דעתך גשמים הסמוכין</row>
+		<row row_number="35" isdata="1">לעיר עסקינן האי יש להן אלפים אמה לכל</row>
+		<row row_number="36" isdata="1">רוח הא כרגלי אנשי אותה העיר מיבעיא</row>
+		<row row_number="37" isdata="1">ליה אמר מר ביום טוב הרי הן כרגלי כל</row>
+		<row row_number="38" isdata="1">אדם ואמאי ליקני שביתה באוקיינוס לימא</row>
+		<row row_number="39" isdata="1">דלא כרבי אליעזר דאי כר' אליעזר הא אמר</row>
+		<row row_number="40" isdata="1">כל העולם כולו ממי אוקיינוס הוא שותה אמר</row>
+		<row row_number="41" isdata="1">ר' יצחק הכא בעבים שנתקשרו מערב יום טוב</row>
+		<row row_number="42" isdata="1">עסקינן ודילמא הנך אזלי והנך אחריני נינהו</row>
+		<row row_number="43" isdata="1">דאית להו סימנא בגוייהו ואיבעית אימא</row>
+		<row row_number="44" isdata="1">הוי ספק דדבריהם וספק דדבריהם להקל</row>
+		<row row_number="45" isdata="1">וליקני שביתה בעבים תיפשוט מינה דאין תחומין למעלה מי' דאי יש תחומין</row>
+		<row row_number="46" isdata="1">ליקני שביתה בעבים לעולם אימא לך יש תחומין ומיא בעיבא מיבלע בליעי</row>
+</amud>
+</daf>
+</masechet>
+</root>

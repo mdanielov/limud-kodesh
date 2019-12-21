@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:17.977547</dateCreated>
+   <lastModified>2019-12-21 20:30:17.977547</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="67">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "נערה המאורסה"/><ContGemara/>ולאו ממילא שמעת מינה איבעית</row>
+		<row row_number="2" isdata="1">אימא דהויה קדושין משמע אימא אב</row>
+		<row row_number="3" isdata="1">לחודיה מיפר א"כ ואסרה איסר בית</row>
+		<row row_number="4" isdata="1">אביה יניא אותה למה לי השתא י"ל</row>
+		<row row_number="5" isdata="1">במקום ארוס מיפר אב לחודיה שלא במקום</row>
+		<row row_number="6" isdata="1">ארוס מיבעיא אימא אב ליבעי ארוס וארוס</row>
+		<row row_number="7" isdata="1">לחודיה מיפר וכי תימא אב דכתב רחמנא</row>
+		<row row_number="8" isdata="1">למה לי מיבעי ליה דאי הקים הקים א"כ</row>
+		<row row_number="9" isdata="1">בית אישה נדרה למאי כתב ק"ו ומה במקום</row>
+		<row row_number="10" isdata="1">אב ארוס מיפר לחודיה שלא במקום אב</row>
+		<row row_number="11" isdata="1">מיבעיא אימא אם בית אישה נדרה לומר</row>
+		<row row_number="12" isdata="1">שאין הבעל מיפר בקודמין ומיניה ארוס מיפר</row>
+		<row row_number="13" isdata="1">בקודמין אלא לאו משום שותפותיה דאב</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:08.695196</dateCreated>
+   <lastModified>2019-12-21 20:31:08.695196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="34">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>ההוא ארבא דהוו מינצו עלה בי תרי האי</row>
+		<row row_number="2" isdata="1">אמר דידי היא והאי אמר דידי היא אתא חד</row>
+		<row row_number="3" isdata="1">מינייהו לבי דינא ואמר תיפסוה אדמייתינא</row>
+		<row row_number="4" isdata="1">סהדי דדידי היא תפסינן או לא תפסינן רב</row>
+		<row row_number="5" isdata="1">הונא אמר תפסינן רב יהודה אמר לא תפסינן</row>
+		<row row_number="6" isdata="1">אזל ולא אשכח סהדי אמר להו אפקוה וכל</row>
+		<row row_number="7" isdata="1">דאלים גבר מפקינן או לא מפקינן רב יהודה</row>
+		<row row_number="8" isdata="1">אמר לא מפקינן רב פפא אמר מפקינן</row>
+		<row row_number="9" isdata="1">והלכתא לא תפסינן והיכא דתפס לא</row>
+		<row row_number="10" isdata="1">מפקינן זה אומר של אבותי וזה אומר של</row>
+		<row row_number="11" isdata="1">אבותי אמר רב נחמן כל דאלים גבר ומאי</row>
+		<row row_number="12" isdata="1">שנא משני שטרות היוצאין ביום אחד</row>
+</amud>
+</daf>
+</masechet>
+</root>

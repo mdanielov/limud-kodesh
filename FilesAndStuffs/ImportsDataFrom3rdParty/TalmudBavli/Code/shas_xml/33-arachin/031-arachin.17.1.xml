@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:34.171225</dateCreated>
+   <lastModified>2019-12-21 20:32:34.171225</lastModified>
+ </meta>
+ <masechet name="ערכין" serial="33">
+<daf value="17">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יש בערכין"/><ContGemara/>פורענות מזדמנת לו תניא רבי אליעזר הגדול</row>
+		<row row_number="2" isdata="1">אומר אלמלא בא הקב"ה עם אברהם יצחק</row>
+		<row row_number="3" isdata="1">ויעקב בדין אין יכולין לעמוד מפני תוכחה</row>
+		<row row_number="4" isdata="1">שנאמר ועתה התיצבו ואשפטה אתכם לפני</row>
+		<row row_number="5" isdata="1">ה' את כל צדקות ה' אשר עשה אתכם ואת</row>
+		<row row_number="6" isdata="1">אבותיכם זה דור דורשיו מבקשי פניך יעקב</row>
+		<row row_number="7" isdata="1">סלה פליגי בה רבי יהודה נשיאה ורבנן חד</row>
+		<row row_number="8" isdata="1">אמר דור לפי פרנס וחד אמר פרנס לפי דורו</row>
+		<row row_number="9" isdata="1">למאי הלכתא אילימא למעליותא דמר סבר</row>
+		<row row_number="10" isdata="1">אי מעלי דרא מעלי פרנס ומר סבר אי מעלי</row>
+		<row row_number="11" isdata="1">פרנס מעלי דרא הא איכא צדקיה דהוה מעלי</row>
+		<row row_number="12" isdata="1">ודריה לא הוה מעלי והא יהויקים דלא הוה</row>
+		<row row_number="13" isdata="1">מעלי ודריה הוה מעלי דאמר רבי יוחנן משום</row>
+		<row row_number="14" isdata="1">רבי שמעון בן יוחי מאי דכתיב בראשית</row>
+		<row row_number="15" isdata="1">ממלכות יהויקים מלך יהודה ביקש הקב"ה</row>
+		<row row_number="16" isdata="1">להחזיר את העולם לתוהו ובהו בשביל</row>
+		<row row_number="17" isdata="1">יהויקים כיון שנסתכל בדורו נתיישבה דעתו</row>
+		<row row_number="18" isdata="1">ביקש הקדוש ברוך הוא להחזיר את העולם</row>
+		<row row_number="19" isdata="1">לתוהו ובהו מפני דורו של צדקיהו כיון</row>
+		<row row_number="20" isdata="1">שנסתכל בצדקיהו נתיישבה דעתו אלא</row>
+		<row row_number="21" isdata="1">לענין תוקפא וניחותא קאמרינן<EndChapter name = "יש בערכין"/><EndGemara/></row>
+		<row row_number="22" isdata="0">הדרן עלך יש בערכין</row>
+		<row row_number="23" isdata="1"><StartChapter name = "השג יד"/><StartMishna/>השג יד בנודר והשנים בנידר והערכין בנערך</row>
+		<row row_number="24" isdata="1">והערך בזמן הערך השג יד בנודר כיצד</row>
+		<row row_number="25" isdata="1">עני שהעריך את העשיר נותן ערך עני ועשיר</row>
+		<row row_number="26" isdata="1">שהעריך את העני נותן ערך עשיר אבל</row>
+		<row row_number="27" isdata="1">בקרבנות אינו כן הרי שאמר קרבנו של מצורע</row>
+		<row row_number="28" isdata="1">זה עלי היה מצורע עני מביא קרבן עני עשיר</row>
+		<row row_number="29" isdata="1">מביא קרבן עשיר רבי אומר אומר אני אף</row>
+		<row row_number="30" isdata="1">בערכין כן וכי מפני מה עני שהעריך את</row>
+		<row row_number="31" isdata="1">העשיר נותן ערך עני שאין העשיר חייב כלום</row>
+		<row row_number="32" isdata="1">אבל עשיר שאמר ערכי עלי ושמע עני ואמר</row>
+		<row row_number="33" isdata="1">מה שאמר זה עלי נותן ערך עשיר<EndMishna/><StartGemara/>גמ' השג</row>
+		<row row_number="34" isdata="1">יד במעריך הוא כדכתי' אשר תשיג יד הנודר</row>
+		<row row_number="35" isdata="1">יעריכנו הכהן השנים בנידר בנערך הוא איידי</row>
+		<row row_number="36" isdata="1">דאמר השג יד בנודר אמר נמי השנים בנידר</row>
+		<row row_number="37" isdata="1">השג יד בנודר כיצד עני שהעריך את העשיר</row>
+		<row row_number="38" isdata="1">נותן ערך עני מ"ט דאמר קרא אשר תשיג יד</row>
+		<row row_number="39" isdata="1">הנודר בנודר תלה רחמנא אבל בקרבנות אינו</row>
+		<row row_number="40" isdata="1">כן הרי שאמר קרבנו של מצורע זה עלי היה</row>
+		<row row_number="41" isdata="1">מצורע עני מביא קרבן עני ואע"ג דמדירו עשיר</row>
+		<row row_number="42" isdata="1">ואם דל הוא אמר רחמנא ולא דל הוא אמר</row>
+		<row row_number="43" isdata="1">רבי יצחק כשהיה מדירו עני ודלמא עליה</row>
+		<row row_number="44" isdata="1">דידיה חס רחמנא אמדירו לא דהכתיב הוא</row>
+		<row row_number="45" isdata="1">אמר רב אדא בר אהבה ואין ידו משגת לרבות</row>
+		<row row_number="46" isdata="1">את הנודר אבל מדירו עשיר הכי נמי דמייתי</row>
+		<row row_number="47" isdata="1">בעשירות א"כ מאי אבל בקרבנות אינו כן</row>
+</amud>
+</daf>
+</masechet>
+</root>

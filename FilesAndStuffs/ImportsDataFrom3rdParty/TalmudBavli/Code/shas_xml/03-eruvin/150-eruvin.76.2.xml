@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:00.165417</dateCreated>
+   <lastModified>2019-12-21 20:29:00.166418</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="76">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>הני מילי בעיגולא אבל בריבועא בעינן</row>
+		<row row_number="2" isdata="1">טפי מכדי כמה מרובע יתר על העגול</row>
+		<row row_number="3" isdata="1">רביע בשיתסר סגיא ה"מ עיגולא דנפיק</row>
+		<row row_number="4" isdata="1">מגו ריבועא אבל ריבועא דנפיק מגו עיגולא</row>
+		<row row_number="5" isdata="1">בעינן טפי מ"ט משום מורשא דקרנתא מכדי</row>
+		<row row_number="6" isdata="1">כל אמתא בריבוע אמתא ותרי חומשי</row>
+		<row row_number="7" isdata="1">באלכסונא בשיבסר נכי חומשא סגיא רבי</row>
+		<row row_number="8" isdata="1">יוחנן אמר כי דייני דקיסרי ואמרי לה כרבנן</row>
+		<row row_number="9" isdata="1">דקיסרי דאמרי עיגולא מגו ריבועא ריבעא</row>
+		<row row_number="10" isdata="1">ריבועא מגו עיגולא פלגא פחות מד' על</row>
+		<row row_number="11" isdata="1">ד' וכו' אמר רב נחמן לא שנו אלא חלון</row>
+		<row row_number="12" isdata="1">שבין ב' חצירות אבל חלון שבין ב' בתים</row>
+		<row row_number="13" isdata="1">אפילו למעלה מעשרה נמי אם רצו לערב</row>
+		<row row_number="14" isdata="1">מערבין אחד מ"ט ביתא כמאן דמלי דמי</row>
+		<row row_number="15" isdata="1">איתיביה רבא לרב נחמן אחד לי חלון שבין</row>
+		<row row_number="16" isdata="1">ב' חצירות ואחד לי חלון שבין ב' בתים ואחד</row>
+		<row row_number="17" isdata="1">לי חלון שבין ב' עליות ואחד לי חלון שבין</row>
+		<row row_number="18" isdata="1">ב' גגין ואחד לי חלון שבין ב' חדרים כולן ד'</row>
+		<row row_number="19" isdata="1">על ד' בתוך עשרה תרגומא אחצירות והא</row>
+		<row row_number="20" isdata="1">אחד לי קתני תרגומא אד' על ד' בעא מיניה</row>
+		<row row_number="21" isdata="1">ר' אבא מרב נחמן לול הפתוח מן בית</row>
+		<row row_number="22" isdata="1">לעלייה צריך סולם קבוע להתירו או אין צריך</row>
+		<row row_number="23" isdata="1">סולם קבוע להתירו כי אמרינן ביתא</row>
+		<row row_number="24" isdata="1">כמאן דמלי דמי הני מילי מן הצד אבל</row>
+		<row row_number="25" isdata="1">באמצע לא או דילמא לא שנא אמר ליה</row>
+		<row row_number="26" isdata="1">אינו צריך סבור מינה סולם קבוע הוא</row>
+		<row row_number="27" isdata="1">דאינו צריך הא סולם עראי צריך איתמר</row>
+		<row row_number="28" isdata="1">אמר רב יוסף בר מניומי אמר רב נחמן</row>
+		<row row_number="29" isdata="1">אחד סולם קבוע ואחד סולם עראי אינו</row>
+		<row row_number="30" isdata="1">צריךמתני' כותל שבין ב' חצירות</row>
+		<row row_number="31" isdata="1">גבוה עשרה ורוחב ארבעה מערבין שנים ואין</row>
+		<row row_number="32" isdata="1">מערבין אחד היו בראשו פירות אלו עולין</row>
+		<row row_number="33" isdata="1">מכאן ואוכלין ואלו עולין מכאן ואוכלין</row>
+		<row row_number="34" isdata="1">ובלבד שלא יורידו למטן נפרצה הכותל</row>
+		<row row_number="35" isdata="1">עד עשר אמות מערבין שנים ואם רצו</row>
+		<row row_number="36" isdata="1">מערבין אחד מפני שהוא כפתח יותר מכאן</row>
+		<row row_number="37" isdata="1">מערבין אחד ואין מערבין שנים<EndMishna/><StartGemara/>גמ' אין</row>
+		<row row_number="38" isdata="1">בו ארבעה מאי אמר רב אויר שתי רשויות</row>
+		<row row_number="39" isdata="1">שולטת בו לא יזיז בו אפילו מלא נימא</row>
+</amud>
+</daf>
+</masechet>
+</root>

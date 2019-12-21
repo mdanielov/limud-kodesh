@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:33.948399</dateCreated>
+   <lastModified>2019-12-21 20:30:33.948399</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContGemara/>הני מילי לחומרא אבל לקולא לא וליהמנה</row>
+		<row row_number="2" isdata="1">לדידה מדרב המנונא דאמר רב המנונא</row>
+		<row row_number="3" isdata="1">האשה שאמרה לבעלה גירשתני נאמנת</row>
+		<row row_number="4" isdata="1">חזקה אין האשה מעיזה פניה בפני בעלה</row>
+		<row row_number="5" isdata="1">ה"מ היכא דליכא דקא מסייע לה אבל היכא</row>
+		<row row_number="6" isdata="1">דמסייע לה מעיזה ומעיזהמתני' נערה</row>
+		<row row_number="7" isdata="1">המאורסה היא ואביה מקבלין את גיטה</row>
+		<row row_number="8" isdata="1">אמר רבי יהודה אין שתי ידים זוכות כאחת</row>
+		<row row_number="9" isdata="1">אלא אביה מקבל את גיטה בלבד וכל שאינה</row>
+		<row row_number="10" isdata="1">יכולה לשמור את גיטה אינה יכולה להתגרש</row>
+		<row row_number="11" isdata="1"><EndMishna/><StartGemara/>גמ' במאי קמיפלגי רבנן סברי ידא יתירתא</row>
+		<row row_number="12" isdata="1">זכי לה רחמנא ורבי יהודה סבר במקום</row>
+		<row row_number="13" isdata="1">אביה יד דילה לאו כלום היא וכל שאינה</row>
+		<row row_number="14" isdata="1">יכולה לשמור את גיטה ת"ר קטנה היודעת</row>
+		<row row_number="15" isdata="1">לשמור את גיטה מתגרשת ושאינה יודעת</row>
+		<row row_number="16" isdata="1">לשמור את גיטה אינה מתגרשת ואיזו היא</row>
+		<row row_number="17" isdata="1">קטנה יודעת לשמור את גיטה כל שמשמרת</row>
+		<row row_number="18" isdata="1">גיטה ודבר אחר מאי קאמר א"ר יוחנן ה"ק</row>
+		<row row_number="19" isdata="1">כל שמשמרת דבר אחר מחמת גיטה מתקיף</row>
+		<row row_number="20" isdata="1">לה רב הונא בר מנוח הא שוטה בעלמא היא</row>
+		<row row_number="21" isdata="1">אלא אמר רב הונא בר מנוח משמיה דרב</row>
+		<row row_number="22" isdata="1">אחא בריה דרב איקא כל שמבחנת בין גיטה</row>
+		<row row_number="23" isdata="1">לדבר אחר אמר רב יהודה אמר רבי אסי</row>
+		<row row_number="24" isdata="1">צרור וזורקו אגוז ונוטלו זוכה לעצמו ואין זוכה</row>
+		<row row_number="25" isdata="1">לאחרים חפץ ומחזירו לאחר שעה זוכה בין</row>
+		<row row_number="26" isdata="1">לעצמו ובין לאחרים כי אמריתה קמיה</row>
+		<row row_number="27" isdata="1">דשמואל אמר לי דא ודא אחת היא מאי דא</row>
+		<row row_number="28" isdata="1">ודא אחת היא אמר רב חסדא אחד זה ואחד</row>
+		<row row_number="29" isdata="1">זה זוכה לעצמו ואין זוכה לאחרים מתיב רב</row>
+		<row row_number="30" isdata="1">חיננא וורדאן כיצד משתתפין במבוי מניח</row>
+		<row row_number="31" isdata="1">את החבית ואומר הרי זו לכל בני המבוי</row>
+		<row row_number="32" isdata="1">ומזכה להם ע"י בנו ובתו הגדולים וע"י עבדו</row>
+		<row row_number="33" isdata="1">ושפחתו העברים האי שפחה היכי דמי</row>
+		<row row_number="34" isdata="1">אי דאתיא שתי שערות מאי בעיא גביה אלא</row>
+		<row row_number="35" isdata="1">לאו דלא אתיא שתי שערות וקתני זוכה לאחרים שאני שיתופי מבואות</row>
+		<row row_number="36" isdata="1">דרבנן אמר רב חסדא אישתיק וורדאן מאי הוה ליה למימר כל דתקון רבנן</row>
+</amud>
+</daf>
+</masechet>
+</root>

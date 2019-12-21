@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:27.450755</dateCreated>
+   <lastModified>2019-12-21 20:32:27.450755</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="138">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ראשית הגז"/><ContGemara/>אלמא מתנות דכהן לא מזבין איניש הכא</row>
+		<row row_number="2" isdata="1">נמי מתנות דכהן לא מזבין איניש הלכך</row>
+		<row row_number="3" isdata="1">שייר המוכר מוכר חייב דאמר ליה לוקח</row>
+		<row row_number="4" isdata="1">מתנה דכהן גבך היא לא שייר לוקח חייב</row>
+		<row row_number="5" isdata="1">דאמר ליה מוכר מתנה דכהן לא זבני לך<EndChapter name = "ראשית הגז"/><EndGemara/></row>
+		<row row_number="6" isdata="0">הדרן עלך ראשית הגז</row>
+		<row row_number="7" isdata="1"><StartChapter name = "שילוח הקן "/><StartMishna/>שילוח הקן נוהג בארץ ובחו"ל בפני</row>
+		<row row_number="8" isdata="1">הבית ושלא בפני הבית</row>
+		<row row_number="9" isdata="1">בחולין אבל לא במוקדשין חומר בכסוי</row>
+		<row row_number="10" isdata="1">הדם משילוח הקן שכסוי הדם נוהג בחיה</row>
+		<row row_number="11" isdata="1">ובעוף במזומן ובשאין מזומן ושילוח הקן</row>
+		<row row_number="12" isdata="1">אינו נוהג אלא בעוף ואינו נוהג אלא</row>
+		<row row_number="13" isdata="1">בשאינו מזומן איזהו שאינו מזומן כגון אווזין</row>
+		<row row_number="14" isdata="1">ותרנגולים שקננו בפרדס אבל אם קננו</row>
+		<row row_number="15" isdata="1">בבית וכן יוני הרדסיאות פטור משילוח</row>
+		<row row_number="16" isdata="1">עוף טמא פטור מלשלח עוף טמא רובץ</row>
+		<row row_number="17" isdata="1">על ביצי עוף טהור וטהור רובץ על ביצי</row>
+		<row row_number="18" isdata="1">עוף טמא פטור מלשלח קורא זכר רבי</row>
+		<row row_number="19" isdata="1">אליעזר מחייב וחכמים פוטרין<EndMishna/><StartGemara/>גמ' רבי</row>
+		<row row_number="20" isdata="1">אבין ור' מיישא חד אמר כל היכא דתנן</row>
+		<row row_number="21" isdata="1">בארץ ובחו"ל שלא לצורך לבד מראשית</row>
+		<row row_number="22" isdata="1">הגז לאפוקי מדר' אלעאי דאמר ראשית</row>
+		<row row_number="23" isdata="1">הגז אינו נוהג אלא בארץ וחד אמר כל</row>
+		<row row_number="24" isdata="1">היכא דתנן בפני הבית ושלא בפני הבית</row>
+		<row row_number="25" isdata="1">שלא לצורך לבד מאותו ואת בנו סלקא</row>
+		<row row_number="26" isdata="1">דעתך אמינא הואיל ובענינא דקדשים כתיב</row>
+		<row row_number="27" isdata="1">בזמן דאיכא קדשים ננהוג בזמן דליכא</row>
+		<row row_number="28" isdata="1">קדשים לא ננהוג קמ"ל ותרוייהו אמרי כל</row>
+		<row row_number="29" isdata="1">היכא דתנן בחולין ובמוקדשים לצורך לבד</row>
+		<row row_number="30" isdata="1">מגיד הנשה פשיטא משום דאיקדש פקע</row>
+		<row row_number="31" isdata="1">ליה איסור גיד הנשה מיניה ולאו אוקימנא</row>
+		<row row_number="32" isdata="1">בולדות קדשים ומאי טעמא אוקימנא לאו</row>
+		<row row_number="33" isdata="1">משום דקשיא לן לא ליתני מעיקרא נמי</row>
+		<row row_number="34" isdata="1">לא תקשי לך איידי דתנא לצורך תנא נמי</row>
+		<row row_number="35" isdata="1">שלא לצורך בחולין אבל לא במוקדשים</row>
+		<row row_number="36" isdata="1">אמאי לא דאמר קרא שלח תשלח את</row>
+		<row row_number="37" isdata="1">האם במי שאתה מצווה לשלחו יצא זה</row>
+		<row row_number="38" isdata="1">שאי אתה מצווה לשלחו אלא להביאו לידי</row>
+		<row row_number="39" isdata="1">גזבר אמר רבינא הלכך עוף טהור שהרג את הנפש פטור משלוח מ"ט</row>
+		<row row_number="40" isdata="1">דאמר קרא שלח תשלח את האם במי שאתה מצווה לשלחו יצא זה</row>
+		<row row_number="41" isdata="1">שאי אתה מצווה לשלחו אלא להביאו לב"ד היכי דמי אי דגמר דיניה</row>
+</amud>
+</daf>
+</masechet>
+</root>

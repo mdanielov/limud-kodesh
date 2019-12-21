@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:57.109909</dateCreated>
+   <lastModified>2019-12-21 20:31:57.109909</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="72">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים שנתערבו"/><ContGemara/>צריכי דאי מהתם הוה אמינא להדיוט אבל</row>
+		<row row_number="2" isdata="1">לגבוה אימא לא נפסדינהו לכולהו ואי</row>
+		<row row_number="3" isdata="1">מהכא הוה אמינא הני מילי קדשים</row>
+		<row row_number="4" isdata="1">דמאיס אבל חולין דלא מאיס אימא איסורי</row>
+		<row row_number="5" isdata="1">הנאה ליבטלי ברובא צריכא וניבטלו</row>
+		<row row_number="6" isdata="1">ברובא וכי תימא חשיבי ולא בטלי הניחא</row>
+		<row row_number="7" isdata="1">למאן דאמר כל שדרכו לימנות שנינו</row>
+		<row row_number="8" isdata="1">אלא למאן דאמר את שדרכו לימנות</row>
+		<row row_number="9" isdata="1">שנינו מאי איכא למימר דתנן מי שהיו</row>
+		<row row_number="10" isdata="1">לו חבילי תילתן של כלאי הכרם</row>
+</amud>
+</daf>
+</masechet>
+</root>

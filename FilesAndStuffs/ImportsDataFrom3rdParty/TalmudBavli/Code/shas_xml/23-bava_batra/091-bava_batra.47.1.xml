@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:09.783200</dateCreated>
+   <lastModified>2019-12-21 20:31:09.783200</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="47">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>קבלן אמרי לה מעיד ואמרי לה אינו מעיד</row>
+		<row row_number="2" isdata="1">אמרי לה מעיד כערב דמי ואמרי לה אינו</row>
+		<row row_number="3" isdata="1">מעיד דניחא ליה דלהוו בידיה תרוייהו דכי</row>
+		<row row_number="4" isdata="1">אתי בע"ח מאי דבעי שקיל אמר רבי יוחנן</row>
+		<row row_number="5" isdata="1">אומן אין לו חזקה בן אומן יש לו חזקה</row>
+		<row row_number="6" isdata="1">אריס אין לו חזקה בן אריס יש לו חזקה</row>
+		<row row_number="7" isdata="1">גזלן ובן גזלן אין להן חזקה בן בנו של</row>
+		<row row_number="8" isdata="1">גזלן יש לו חזקה היכי דמי אי אתו בטענתא</row>
+		<row row_number="9" isdata="1">דאבוהון אפילו הנך נמי לא אי דלא אתו</row>
+		<row row_number="10" isdata="1">בטענתא דאבוהון אפילו בן גזלן נמי לא</row>
+		<row row_number="11" isdata="1">צריכא דקא אמרי עדים בפנינו הודה לו</row>
+		<row row_number="12" isdata="1">הנך איכא למימר קושטא קא אמרי האי</row>
+		<row row_number="13" isdata="1">אע"ג דאודי נמי לא מהימן כדרב כהנא</row>
+		<row row_number="14" isdata="1">דאמר רב כהנא אי לאו דאודי ליה הוה ממטי</row>
+		<row row_number="15" isdata="1">ליה ולחמריה לשחוור אמר רבא פעמים</row>
+		<row row_number="16" isdata="1">שאפילו בן בנו של גזלן נמי אין לו חזקה</row>
+		<row row_number="17" isdata="1">היכי דמי כגון דקא אתי בטענתא דאבא</row>
+		<row row_number="18" isdata="1">דאבוה היכי דמי גזלן אמר רבי יוחנן כגון</row>
+		<row row_number="19" isdata="1">שהוחזק על שדה זו בגזלנותא ורב חסדא</row>
+		<row row_number="20" isdata="1">אמר כגון דבית פלוני שהורגין נפשות על</row>
+		<row row_number="21" isdata="1">עסקי ממון תנו רבנן אומן אין לו חזקה ירד</row>
+		<row row_number="22" isdata="1">מאומנותו יש לו חזקה אריס אין לו חזקה</row>
+		<row row_number="23" isdata="1">ירד מאריסותו יש לו חזקה בן שחלק</row>
+		<row row_number="24" isdata="1">ואשה שנתגרשה הרי הן כשאר כל אדם</row>
+		<row row_number="25" isdata="1">בשלמא בן שחלק איצטריך סלקא דעתך</row>
+		<row row_number="26" isdata="1">אמינא אחולי אחיל גביה קמ"ל דלא אלא</row>
+		<row row_number="27" isdata="1">אשה שנתגרשה פשיטא לא צריכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

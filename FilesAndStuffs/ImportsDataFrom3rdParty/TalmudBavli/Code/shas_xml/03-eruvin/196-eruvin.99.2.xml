@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:02.856417</dateCreated>
+   <lastModified>2019-12-21 20:29:02.856417</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="99">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>כן בגת ורבא אמר לענין מעשר וכן אמר</row>
+		<row row_number="2" isdata="1">רב ששת וכן בגת לענין מעשר דתנן שותין</row>
+		<row row_number="3" isdata="1">על הגת בין בחמין ובין בצונן ופטור דברי</row>
+		<row row_number="4" isdata="1">רבי מאיר רבי אליעזר בר צדוק מחייב וחכ"א</row>
+		<row row_number="5" isdata="1">על החמין חייב ועל הצונן פטור מפני</row>
+		<row row_number="6" isdata="1">שמחזיר את המותרמתני' קולט אדם</row>
+		<row row_number="7" isdata="1">מן המזחילה למטה מי' טפחים ומן הצינור</row>
+		<row row_number="8" isdata="1">מ"מ שותה<EndMishna/><StartGemara/>גמ' קולט אין אבל מצרף לא</row>
+		<row row_number="9" isdata="1">מ"ט אמר רב נחמן הכא במזחילה פחות</row>
+		<row row_number="10" isdata="1">מג' סמוך לגג עסקינן דכל פחות מג' סמוך</row>
+		<row row_number="11" isdata="1">לגג כגג דמי תניא נמי הכי עומד אדם</row>
+		<row row_number="12" isdata="1">ברה"י ומגביה ידו למעלה מעשרה טפחים</row>
+		<row row_number="13" isdata="1">לפחות משלשה סמוך לגג וקולט ובלבד</row>
+		<row row_number="14" isdata="1">שלא יצרף תניא אידך לא יעמוד אדם ברה"י</row>
+		<row row_number="15" isdata="1">ויגביה ידו למעלה מעשרה טפחים לפחות</row>
+		<row row_number="16" isdata="1">מג' סמוך לגג ויצרף אבל קולט הוא ושותה</row>
+		<row row_number="17" isdata="1">מן הצינור מ"מ שותה תנא אם יש בצינור</row>
+		<row row_number="18" isdata="1">ד' על ד' אסור מפני שהוא כמוציא מרשות</row>
+		<row row_number="19" isdata="1">לרשותמתני' בור ברה"ר וחולייתו גבוה</row>
+		<row row_number="20" isdata="1">י' טפחים חלון שעל גביו ממלאין הימנו</row>
+		<row row_number="21" isdata="1">בשבת אשפה ברה"ר גבוה י' טפחים חלון</row>
+		<row row_number="22" isdata="1">שעל גביו שופכין לתוכה מים בשבת</row>
+		<row row_number="23" isdata="1"><EndMishna/><StartGemara/>גמ' במאי עסקינן אילימא בסמוכה למה לי</row>
+		<row row_number="24" isdata="1">חוליא י' אמר רב הונא הכא במאי עסקינן</row>
+		<row row_number="25" isdata="1">במופלגת מן הכותל ארבעה וטעמא דאיכא</row>
+		<row row_number="26" isdata="1">חוליא עשרה הא ליכא חוליא עשרה קא</row>
+		<row row_number="27" isdata="1">מטלטל מרה"י לרה"י דרך רה"ר ורבי יוחנן</row>
+		<row row_number="28" isdata="1">אמר אפילו תימא בסמוכה הא קמ"ל דבור</row>
+		<row row_number="29" isdata="1">וחולייתו מצטרפין לעשרה אשפה ברה"ר</row>
+		<row row_number="30" isdata="1">וכו' ולא חיישינן שמא תנטל אשפה והא</row>
+		<row row_number="31" isdata="1">רבין בר רב אדא אמר רבי יצחק מעשה</row>
+		<row row_number="32" isdata="1">במבוי אחד שצידו אחד כלה לים וצידו אחד</row>
+		<row row_number="33" isdata="1">כלה לאשפה ובא מעשה לפני רבי ולא אמר</row>
+		<row row_number="34" isdata="1">בו לא איסור ולא היתר היתר לא אמר בו</row>
+		<row row_number="35" isdata="1">דחיישינן שמא תנטל אשפה ויעלה הים</row>
+		<row row_number="36" isdata="1">שירטון איסור לא אמר בו דהא קיימין מחיצות</row>
+		<row row_number="37" isdata="1">לא קשיא הא דיחיד הא דרבים</row>
+		<row row_number="38" isdata="1"><EndGemara/><StartMishna/>מתני' אילן שהיה מיסך על הארץ אם</row>
+		<row row_number="39" isdata="1">אין נופו גבוה מן הארץ שלשה טפחים</row>
+		<row row_number="40" isdata="1">מטלטלים תחתיו שרשיו גבוהים מן הארץ ג' טפחים לא ישב עליהן</row>
+		<row row_number="41" isdata="1"><EndMishna/><StartGemara/>גמ' א"ר הונא בריה דרב יהושע אין מטלטלין בו יתר מבית סאתים מ"ט</row>
+</amud>
+</daf>
+</masechet>
+</root>

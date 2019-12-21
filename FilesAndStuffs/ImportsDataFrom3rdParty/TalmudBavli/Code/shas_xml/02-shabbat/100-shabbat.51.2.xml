@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:42.973700</dateCreated>
+   <lastModified>2019-12-21 20:28:42.973700</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="51">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>אינו נוטל ומחזיר רבי יהודה אומר נעורת</row>
+		<row row_number="2" isdata="1">של פשתן דקה הרי היא כזבל מניחין מיחם</row>
+		<row row_number="3" isdata="1">על גבי מיחם וקדרה על גבי קדרה אבל לא</row>
+		<row row_number="4" isdata="1">קדרה על גבי מיחם ומיחם על גבי קדרה</row>
+		<row row_number="5" isdata="1">וטח את פיה בבצק ולא בשביל שיחמו אלא</row>
+		<row row_number="6" isdata="1">בשביל שיהיו משומרים וכשם שאין טומנין</row>
+		<row row_number="7" isdata="1">את החמין כך אין טומנין את הצונן רבי התיר</row>
+		<row row_number="8" isdata="1">להטמין את הצונן ואין מרזקין לא את</row>
+		<row row_number="9" isdata="1">השלג ולא את הברד בשבת בשביל שיזובו</row>
+		<row row_number="10" isdata="1">מימיו אבל נותן הוא לתוך הכוס או לתוך</row>
+		<row row_number="11" isdata="1">הקערה ואינו חושש<EndChapter name = "במה טומנין"/><EndGemara/></row>
+		<row row_number="12" isdata="0">הדרן עלך במה טומנין</row>
+		<row row_number="13" isdata="1"><StartChapter name = "במה בהמה"/><StartMishna/>במה בהמה יוצאה ובמה אינה יוצאה</row>
+		<row row_number="14" isdata="1">יוצא הגמל באפסר ונאקה בחטם</row>
+		<row row_number="15" isdata="1">ולובדקים בפרומביא וסוס בשיר וכל בעלי</row>
+		<row row_number="16" isdata="1">השיר יוצאין בשיר ונמשכין בשיר ומזין</row>
+		<row row_number="17" isdata="1">עליהן וטובלן במקומן<EndMishna/><StartGemara/>גמ' מאי נאקה</row>
+		<row row_number="18" isdata="1">בחטם אמר רבה בר בר חנה נאקתא</row>
+		<row row_number="19" isdata="1">חיורתי בזממא דפרזלא ולובדקים</row>
+		<row row_number="20" isdata="1">בפרומביא אמר רב הונא חמרא לובא</row>
+		<row row_number="21" isdata="1">בפגי דפרזלא לוי שדר זוזי לבי חוזאי</row>
+		<row row_number="22" isdata="1">למיזבן ליה חמרא לובא צרו שדרו ליה</row>
+		<row row_number="23" isdata="1">שערי למימר דניגרי דחמרא שערי אמר</row>
+		<row row_number="24" isdata="1">רב יהודה אמר שמואל מחליפין לפני רבי</row>
+		<row row_number="25" isdata="1">של זו בזו מהו נאקה באפסר לא תיבעי</row>
+		<row row_number="26" isdata="1">לך כיון דלא מינטרא ביה משאוי הוא כי</row>
+		<row row_number="27" isdata="1">תיבעי לך גמל בחטם מאי כיון דסגי ליה</row>
+		<row row_number="28" isdata="1">באפסר משאוי הוא או דילמא נטירותא</row>
+		<row row_number="29" isdata="1">יתירתא לא אמרי' משאוי הוא אמר לפניו ר'</row>
+		<row row_number="30" isdata="1">ישמעאל ברבי יוסי כך אמר אבא ארבע</row>
+		<row row_number="31" isdata="1">בהמות יוצאות באפסר הסוס והפרד והגמל</row>
+		<row row_number="32" isdata="1">והחמור למעוטי מאי לאו למעוטי גמל</row>
+		<row row_number="33" isdata="1">בחטם לא למעוטי נאקה באפסר במתניתא</row>
+		<row row_number="34" isdata="1">תנא לובדקים וגמל יוצאין באפסר כתנאי</row>
+		<row row_number="35" isdata="1">אין חיה יוצאה בסוגר חנניה אומר יוצאה</row>
+		<row row_number="36" isdata="1">בסוגר ובכל דבר המשתמר במאי עסקינן</row>
+		<row row_number="37" isdata="1">אילימא בחיה גדולה מי סגי לה סוגר</row>
+		<row row_number="38" isdata="1">ואלא בחיה קטנה מי לא סגי לה סוגר</row>
+		<row row_number="39" isdata="1">אלא לאו חתול איכא בינייהו תנא קמא סבר</row>
+		<row row_number="40" isdata="1">כיון דסגי לה במיתנא בעלמא משאוי הוא</row>
+		<row row_number="41" isdata="1">וחנניה סבר כל נטירותא יתירתא לא אמרינן</row>
+		<row row_number="42" isdata="1">משאוי הוא אמר רב הונא בר חייא אמר</row>
+		<row row_number="43" isdata="1">שמואל הלכה כחנניה לוי בריה דרב הונא</row>
+		<row row_number="44" isdata="1">בר חייא ורבה בר רב הונא הוו קאזלי</row>
+		<row row_number="45" isdata="1">באורחא קדמיה חמרא דלוי לחמרא דרבה בר</row>
+		<row row_number="46" isdata="1">רב הונא חלש דעתיה דרבה בר רב הונא אמר אימא ליה מילתא כי היכי</row>
+</amud>
+</daf>
+</masechet>
+</root>

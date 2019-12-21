@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:03.556195</dateCreated>
+   <lastModified>2019-12-21 20:31:03.556195</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="96">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השואל"/><ContGemara/>שואל הוי או שוכר הוי אמר רבא לפום</row>
+		<row row_number="2" isdata="1">חורפא שבשתא מה נפשך אי שואל הוי</row>
+		<row row_number="3" isdata="1">שאלה בבעלים היא אי שוכר הוי שכירות</row>
+		<row row_number="4" isdata="1">בבעלים היא אלא כי קמיבעיא ליה לרמי בר</row>
+		<row row_number="5" isdata="1">חמא דאגר מינה פרה והדר נסבה שואל</row>
+		<row row_number="6" isdata="1">הוי או שוכר הוי שואל הוי ואתיא שאלה</row>
+		<row row_number="7" isdata="1">בבעלים מפקעא שכירות שלא בבעלים או</row>
+		<row row_number="8" isdata="1">דלמא שוכר הוי ושכירות כדקיימא קיימא</row>
+		<row row_number="9" isdata="1">ומאי שנא דאי שואל הוי דאתי שאלה</row>
+		<row row_number="10" isdata="1">בבעלים מפקעא שכירות שלא בבעלים אי</row>
+		<row row_number="11" isdata="1">שוכר נמי הוי תיתי שכירות בבעלים תיפוק</row>
+		<row row_number="12" isdata="1">שכירות שלא בבעלים אלא כי קא מיבעיא</row>
+		<row row_number="13" isdata="1">לרמי בר חמא כגון דאגרא איהי פרה מעלמא</row>
+		<row row_number="14" isdata="1">והדר נסבה ואליבא דרבנן דאמרי שואל</row>
+		<row row_number="15" isdata="1">משלם לשוכר לא תיבעי לך דודאי שאילה</row>
+		<row row_number="16" isdata="1">בבעלים היא כי תיבעי לך אליבא דר' יוסי</row>
+		<row row_number="17" isdata="1">דאמר תחזיר פרה לבעלים הראשונים מאי</row>
+		<row row_number="18" isdata="1">שואל הוי או שוכר הוי אמר רבא בעל לא</row>
+		<row row_number="19" isdata="1">שואל הוי ולא שוכר הוי אלא לוקח הוי</row>
+		<row row_number="20" isdata="1">מדרבי יוסי בר' חנינא דאמר רבי יוסי ברבי</row>
+		<row row_number="21" isdata="1">חנינא באושא התקינו האשה שמכרה בנכסי</row>
+		<row row_number="22" isdata="1">מלוג בחיי בעלה ומתה הבעל מוציא מיד</row>
+		<row row_number="23" isdata="1">הלקוחות בעי רמי בר חמא בעל בנכסי אשתו</row>
+		<row row_number="24" isdata="1">מי מעל אמר רבא מאן לימעול לימעול בעל</row>
+		<row row_number="25" isdata="1">דהיתרא ניחא ליה דליקני איסורא לא ניחא</row>
+		<row row_number="26" isdata="1">ליה דליקני תימעול איהי דהיתרא נמי לא</row>
+		<row row_number="27" isdata="1">ניחא לה דליקני נימעלו בית דין כי עבדו רבנן</row>
+		<row row_number="28" isdata="1">תקנתא ואמרו בעל לוקח הוי להיתרא</row>
+		<row row_number="29" isdata="1">לאיסורא לא עביד רבנן תקנתא אלא אמר</row>
+		<row row_number="30" isdata="1">רבא בעל מעל לכשיוציא מידי דהוה אמוציא</row>
+		<row row_number="31" isdata="1">מעות הקדש לחולין איבעיא להו כחש בשר</row>
+		<row row_number="32" isdata="1">מחמת מלאכה מאי אמר ליה ההוא מרבנן</row>
+		<row row_number="33" isdata="1">ורב חלקיה בריה דרב אויא שמיה מכלל דכי</row>
+		<row row_number="34" isdata="1">מתה מחמת מלאכה מחייב נימא לאו</row>
+		<row row_number="35" isdata="1">לאוקמא בכילתא שאילתה אלא אמר רבא</row>
+		<row row_number="36" isdata="1">לא מיבעיא כחש בשר מחמת מלאכה</row>
+		<row row_number="37" isdata="1">דפטור אלא אפי' מתה מחמת מלאכה</row>
+		<row row_number="38" isdata="1">נמי פטור דאמר ליה לאו לאוקמא</row>
+		<row row_number="39" isdata="1">בכילתא שאילתה ההוא גברא דשאיל</row>
+		<row row_number="40" isdata="1">נרגא מחבריה איתבר אתא לקמיה דרבא</row>
+		<row row_number="41" isdata="1">אמר ליה זיל אייתי סהדי דלאו שנית ביה</row>
+		<row row_number="42" isdata="1">ואיפטר ואי ליכא סהדי מאי ת"ש דההוא גברא דשאיל נרגא מחבריה ואיתבר</row>
+		<row row_number="43" isdata="1">אתא לקמיה דרב א"ל זיל שלים ליה נרגא מעליא א"ל רב כהנא ורב אסי לרב</row>
+</amud>
+</daf>
+</masechet>
+</root>

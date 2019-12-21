@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:58.184912</dateCreated>
+   <lastModified>2019-12-21 20:31:58.184912</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="84">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המזבח מקדש"/><ContGemara/>הכתוב ומיעט מרבה אני את אלו שהיה</row>
+		<row row_number="2" isdata="1">פסולן בקדש ומוציא אני את אלו שלא היה</row>
+		<row row_number="3" isdata="1">פסולן בקודש ורבי יהודה מייתי לה מהכא</row>
+		<row row_number="4" isdata="1">מפני מה אמרו לן בדם כשר שהרי לן כשר</row>
+		<row row_number="5" isdata="1">באימורין לן באימורין כשר שהרי לן כשר</row>
+		<row row_number="6" isdata="1">בבשר יוצא שהיוצא כשר בבמה טמא</row>
+		<row row_number="7" isdata="1">הואיל והותר לעבודת ציבור חוץ לזמנו הואיל</row>
+		<row row_number="8" isdata="1">ומרצה לפיגולו חוץ למקומו הואיל ואיתקש</row>
+		<row row_number="9" isdata="1">לחוץ לזמנו שקבלו פסולין וזרקו את דמו</row>
+		<row row_number="10" isdata="1">בהנך פסולי דחזו לעבודת ציבור וכי דנין</row>
+		<row row_number="11" isdata="1">דבר שלא בהכשרו מדבר שבהכשרו תנא</row>
+		<row row_number="12" isdata="1">אזאת תורת העולה ריבה סמיך ליה א"ר יוחנן</row>
+		<row row_number="13" isdata="1">השוחט בהמה בלילה בפנים (המעלה</row>
+		<row row_number="14" isdata="1">בחוץ פטור בחוץ) והעלה בחוץ חייב</row>
+</amud>
+</daf>
+</masechet>
+</root>

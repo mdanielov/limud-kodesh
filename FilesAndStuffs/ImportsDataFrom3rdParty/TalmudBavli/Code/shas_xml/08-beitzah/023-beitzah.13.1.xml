@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:36.961403</dateCreated>
+   <lastModified>2019-12-21 20:29:36.961403</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="13">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ביצה"/><ContGemara/>הא רבי הא ר' יוסי בר' יהודה דתניא הכניס</row>
+		<row row_number="2" isdata="1">שבלין לעשות מהן עיסה אוכל מהן עראי</row>
+		<row row_number="3" isdata="1">ופטור למוללן במלילות רבי מחייב ור' יוסי</row>
+		<row row_number="4" isdata="1">ברבי יהודה פוטר ולרבי יוסי ברבי יהודה</row>
+		<row row_number="5" isdata="1">נמי משכחת לה כגון שהכניס שבלין לעשות</row>
+		<row row_number="6" isdata="1">מהן עיסה ונמלך עליהן למוללן ביום טוב</row>
+		<row row_number="7" isdata="1">דטבלא ביומיה אלא מאי תרומה רוב תרומה</row>
+		<row row_number="8" isdata="1">אמר אביי מחלוקת בשבלין אבל בקטניות</row>
+		<row row_number="9" isdata="1">דברי הכל אסורייתא טבלא לימא מסייע</row>
+		<row row_number="10" isdata="1">ליה מי שהיו לו חבילי תלתן של טבל הרי</row>
+		<row row_number="11" isdata="1">זה כותש ומחשב כמה זרע יש בהם ומפריש</row>
+		<row row_number="12" isdata="1">על הזרע ואינו מפריש על העץ מאי לאו רבי</row>
+		<row row_number="13" isdata="1">יוסי בר' יהודה היא דאמר התם לא טבלא</row>
+		<row row_number="14" isdata="1">הכא טבלא לא רבי היא אי רבי היא מאי</row>
+		<row row_number="15" isdata="1">איריא תלתן אפי' שבלין נמי אלא מאי רבי</row>
+		<row row_number="16" isdata="1">יוסי בר' יהודה לשמעינן שאר מיני קטניות</row>
+		<row row_number="17" isdata="1">וכ"ש תלתן אלא תלתן אצטריכא ליה סד"א</row>
+		<row row_number="18" isdata="1">הואיל וטעם עצו ופריו שוה לפרוש נמי אעצו</row>
+		<row row_number="19" isdata="1">קמ"ל איכא דאמרי אמר אביי מחלוקת</row>
+		<row row_number="20" isdata="1">בשבלין אבל בקטניות דברי הכל אסורייתא</row>
+		<row row_number="21" isdata="1">לא טבלא מיתיבי מי שהיו לו חבילי תלתן</row>
+		<row row_number="22" isdata="1">של טבל הרי זה כותש ומחשב כמה זרע</row>
+		<row row_number="23" isdata="1">יש בהן ומפריש על הזרע ואינו מפריש על</row>
+		<row row_number="24" isdata="1">העץ מאי לאו טבל טבול של תרומה לא</row>
+		<row row_number="25" isdata="1">טבל טבול של תרומת מעשר וכדר' אבהו</row>
+		<row row_number="26" isdata="1">א"ר שמעון בן לקיש דאמר רבי אבהו אמר</row>
+		<row row_number="27" isdata="1">רבי שמעון בן לקיש מעשר ראשון שהקדימו</row>
+		<row row_number="28" isdata="1">בשבלין שמו טובלו לתרומת מעשר כותש</row>
+		<row row_number="29" isdata="1">למה לי לימא ליה כי היכי דיהבו לי הכי</row>
+		<row row_number="30" isdata="1">יהיבנא לך אמר רבא קנסא תניא נמי הכי בן</row>
+		<row row_number="31" isdata="1">לוי שנתנו לו שבלין במעשרותיו עושה אותן</row>
+		<row row_number="32" isdata="1">גורן ענבים עושה אותן יין זיתים עושה אותן</row>
+		<row row_number="33" isdata="1">שמן ומפריש עליהם תרומת מעשר ונותנן</row>
+		<row row_number="34" isdata="1">לכהן שכשם שתרומה גדולה אינה ניטלת</row>
+</amud>
+</daf>
+</masechet>
+</root>

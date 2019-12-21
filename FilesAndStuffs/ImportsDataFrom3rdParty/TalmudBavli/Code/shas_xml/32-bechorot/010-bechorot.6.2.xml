@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:28.137814</dateCreated>
+   <lastModified>2019-12-21 20:32:28.137814</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="6">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר חמורו"/><ContGemara/>הכי קאמר דבר הבא ממעלי הגרה וממפריסי</row>
+		<row row_number="2" isdata="1">הפרסה לא תיכול ת"ל גמל טמא הוא הוא</row>
+		<row row_number="3" isdata="1">טמא ואין טמא הנולד מן הטהור טמא אלא</row>
+		<row row_number="4" isdata="1">טהור רבי שמעון אומר גמל גמל שני פעמים</row>
+		<row row_number="5" isdata="1">אחד גמל הנולד מן הגמלה ואחד גמל הנולד</row>
+		<row row_number="6" isdata="1">מן הפרה ורבנן האי גמל גמל מאי עבדי ליה</row>
+		<row row_number="7" isdata="1">חד לאסור עצמו וחד לאסור חלבו ור' שמעון</row>
+		<row row_number="8" isdata="1">לאסור חלבו מנא ליה נפקא ליה מאת הגמל</row>
+		<row row_number="9" isdata="1">ורבנן אתים לא דרשי כדתניא שמעון</row>
+		<row row_number="10" isdata="1">העמסוני היה דורש כל את ואת שבתורה כיון</row>
+		<row row_number="11" isdata="1">שהגיע לאת ה' אלהיך תירא פירש אמרו לו</row>
+		<row row_number="12" isdata="1">תלמידיו ר' כל אתין שדרשת מה תהא עליהם</row>
+		<row row_number="13" isdata="1">אמר להם כשם שקבלתי שכר על הדרישה</row>
+		<row row_number="14" isdata="1">כך אני מקבל שכר על הפרישה עד שבא רבי</row>
+		<row row_number="15" isdata="1">עקיבא ולימד את ה' אלהיך תירא לרבות</row>
+		<row row_number="16" isdata="1">תלמידי חכמים אמר ליה רב אחא בריה דרבא</row>
+		<row row_number="17" isdata="1">לרב אשי אלא מעתה טעמא דרבנן מגמל גמל</row>
+		<row row_number="18" isdata="1">ור' שמעון מאת הגמל הא לאו הכי הוה אמינא</row>
+		<row row_number="19" isdata="1">חלב דבהמה טמאה שרי מאי שנא מהא</row>
+		<row row_number="20" isdata="1">דתניא הטמאים לאסור צירן ורוטבן וקיפה</row>
+		<row row_number="21" isdata="1">שלהן איצטריך סלקא דעתך אמינא הואיל</row>
+		<row row_number="22" isdata="1">דבהמה טהורה נמי חידוש הוא דאמר מר דם</row>
+		<row row_number="23" isdata="1">נעכר ונעשה חלב וכיון דחידוש הוא בבהמה</row>
+		<row row_number="24" isdata="1">טמאה נמי לישתרי קמ"ל הניחא למאן דאמר</row>
+		<row row_number="25" isdata="1">דם נעכר ונעשה חלב אלא למאן דאמר</row>
+		<row row_number="26" isdata="1">איבריה מתפרקין הימנה ואין נפשה חוזרת</row>
+		<row row_number="27" isdata="1">עליה עד עשרים וארבעה חדש מאי איכא</row>
+		<row row_number="28" isdata="1">למימר איצטריך סד"א הואיל וליכא מידי</row>
+		<row row_number="29" isdata="1">דאתי מחי ושרייה רחמנא והאי חלב כי אבר</row>
+		<row row_number="30" isdata="1">מן החי הוא ושרי והילכך אפי' בבהמה טמאה</row>
+		<row row_number="31" isdata="1">לישתרי קמ"ל וחלב דבהמה טהורה מנלן</row>
+		<row row_number="32" isdata="1">דשרי אילימא מדאסר רחמנא בשר בחלב הא</row>
+		<row row_number="33" isdata="1">לחודיה שרי ואימא חלב לחודיה אסור באכילה</row>
+		<row row_number="34" isdata="1">ומותר בהנאה בשר בחלב בהנאה נמי אסור</row>
+		<row row_number="35" isdata="1">ולר"ש דשרי בהנאה משכחת לה למילקי על בישוליה אלא מדגלי רחמנא</row>
+		<row row_number="36" isdata="1">דבפסולי המוקדשין תזבח ולא גיזה בשר ולא חלב הא דחולין שרי ואימא</row>
+		<row row_number="37" isdata="1">דחולין אסור באכילה ושרי בהנאה דקדשים בהנאה נמי אסור אלא מדכתיב</row>
+		<row row_number="38" isdata="1">ודי חלב עזים ללחמך ללחם ביתך וחיים לנערותך ודילמא לסחורה אלא</row>
+		<row row_number="39" isdata="1">מדכתיב ואת עשרת חריצי החלב ודלמא לסחורה אטו דרכה של מלחמה</row>
+		<row row_number="40" isdata="1">לסחורה ואיבעית אימא מהכא ארץ זבת חלב ודבש ואי לא דשרי משתבח לן</row>
+		<row row_number="41" isdata="1">קרא במידי דלא חזי ואב"א מהכא לכו שברו ואכלו ולכו שברו בלא כסף ובלא</row>
+		<row row_number="42" isdata="1">מחיר יין וחלב אלא מעתה שפן שפן ארנבת ארנבת חזיר חזיר להני הוא דאתו</row>
+		<row row_number="43" isdata="1">אלא לכדתניא למה נשנו בבהמה מפני השסועה ובעופות מפני הראה גמל</row>
+		<row row_number="44" isdata="1">גמל נמי להכי הוא דאתא כל היכא דאיכא למידרש דרשינן ת"ר רחל שילדה</row>
+		<row row_number="45" isdata="1">מין עז ועז שילדה מין רחל פטורה מן הבכורה ואם יש בו מקצת סימנים</row>
+		<row row_number="46" isdata="1">חייבת ר' שמעון אומר עד שיהא ראשו ורובו דומה לאמו איבעיא להו לאכילה</row>
+		<row row_number="47" isdata="1">מי בעי ר"ש ראשו ורובו או לא לענין בכורה כתיב אך בכור שור עד שיהא</row>
+		<row row_number="48" isdata="1">הוא שור ובכורו שור אבל לאכילה גמל הוא דאמר רחמנא דאסיר הא</row>
+</amud>
+</daf>
+</masechet>
+</root>

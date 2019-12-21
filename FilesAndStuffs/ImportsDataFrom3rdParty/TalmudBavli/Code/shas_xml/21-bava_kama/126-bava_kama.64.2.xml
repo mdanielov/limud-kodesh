@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:48.437768</dateCreated>
+   <lastModified>2019-12-21 20:30:48.437768</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מרובה"/><ContGemara/>אי הכי שפיר קשיא ליה משום דאית ליה</row>
+		<row row_number="2" isdata="1">פירכא לרבות כל דבר מהיכא קמייתי ליה</row>
+		<row row_number="3" isdata="1">מכלל בתרא כללא גופיה חיים כתיב ביה</row>
+		<row row_number="4" isdata="1">כלל ופרט וכלל מאי קא מהני ליה אי לאתויי</row>
+		<row row_number="5" isdata="1">כל דבר הא חיים כתיב בעלי חיים אין מידי</row>
+		<row row_number="6" isdata="1">אחרינא לא משום הכא איצטריך אם</row>
+		<row row_number="7" isdata="1">המצא אמרי והא שני כללות דסמיכי אהדדי</row>
+		<row row_number="8" isdata="1">נינהו אמר רבינא כדאמרי במערבא כל</row>
+		<row row_number="9" isdata="1">מקום שאתה מוצא שני כללות הסמוכים זה</row>
+		<row row_number="10" isdata="1">לזה הטל פרט ביניהם ודונם בכלל ופרט</row>
+		<row row_number="11" isdata="1">שדי שור בין המצא לתמצא לאתויי מאי אי</row>
+		<row row_number="12" isdata="1">לאתויי ב"ח מחיים נפקא אלא לאתויי דבר</row>
+		<row row_number="13" isdata="1">שאין בעלי חיים ודרוש הכי מה הפרט מפורש</row>
+		<row row_number="14" isdata="1">דבר המטלטל וגופו ממון אף כל דבר</row>
+		<row row_number="15" isdata="1">המטלטל וגופו ממון ותו שדי חמור בין המצא</row>
+		<row row_number="16" isdata="1">לתמצא לאתויי מאי אי לאתויי דבר שאין</row>
+		<row row_number="17" isdata="1">בעלי חיים משור נפקא אלא לאתויי דבר</row>
+		<row row_number="18" isdata="1">מסויים א"ה שה למה לי אלא ריבה ומיעט</row>
+		<row row_number="19" isdata="1">וריבה הוא כדתנא דבי רבי ישמעאל דתנא</row>
+		<row row_number="20" isdata="1">דבי ר' ישמעאל במים במים ב' פעמים אין</row>
+		<row row_number="21" isdata="1">זה כלל ופרט אלא ריבה ומיעט וריבה ריבה</row>
+		<row row_number="22" isdata="1">הכל מאי רבי רבי כל מילי אי הכי כל הני</row>
+		<row row_number="23" isdata="1">פרטי למה לי חד למעוטי קרקע וחד למעוטי</row>
+		<row row_number="24" isdata="1">עבדים וחד למעוטי שטרות גניבה וחיים</row>
+		<row row_number="25" isdata="1">לכדרב דאמר אחייה לקרן כעין שגנב ולמ"ד</row>
+		<row row_number="26" isdata="1">חד בגנב וחד בטוען טענת גנב וגנב עצמו</row>
+		<row row_number="27" isdata="1">נפקא ליה מאם ימצא הגנב האי אם המצא</row>
+		<row row_number="28" isdata="1">תמצא מאי דריש ביה מבעי לי' לכדרבא</row>
+		<row row_number="29" isdata="1">בר אהילאי דאמר רבא בר אהילאי מאי</row>
+		<row row_number="30" isdata="1">טעמא דרב דאמר מודה בקנס ואחר כך באו</row>
+		<row row_number="31" isdata="1">עדים פטור דכתיב אם המצא תמצא אם</row>
+		<row row_number="32" isdata="1">המצא בעדים תמצא בדיינים פרט למרשיע</row>
+		<row row_number="33" isdata="1">את עצמו ולמ"ד תרוייהו בטוען טענת גנב</row>
+		<row row_number="34" isdata="1">דהאי אם המצא תמצא מפיק ליה לגנב עצמו</row>
+		<row row_number="35" isdata="1">מרשיע עצמו מנלן מאשר ירשיעון אלהים</row>
+		<row row_number="36" isdata="1">ולא המרשיע את עצמו ולמ"ד חד בגנב</row>
+		<row row_number="37" isdata="1">וחד בטוען טענת גנב דאייתי ליה מהמצא</row>
+		<row row_number="38" isdata="1">תמצא למרשיע את עצמו האי אשר ירשיעון</row>
+		<row row_number="39" isdata="1">מאי דריש ביה אמר לך ההוא מיבעי ליה</row>
+		<row row_number="40" isdata="1">למודה בקנס דפטור ומ"ד תרוייהו בטוען טענת גנב קסבר מודה בקנס ואח"כ</row>
+		<row row_number="41" isdata="1">באו עדים חייב ולמ"ד חד בגנב וחד בטוען טענת גנב דנפקא ליה גנב מהתם</row>
+		<row row_number="42" isdata="1">בשלמא אם המצא תמצא לכדרבא בר אהילאי אבל כל הני פרטי למה לי כדתנא</row>
+		<row row_number="43" isdata="1">דבי רבי ישמעאל דתנא דבי רבי ישמעאל כל פרשה שנאמרה ונשנית לא</row>
+		<row row_number="44" isdata="1">נשנית אלא לדבר שנתחדש בה ואימא גנב עצמו בשבועה לא ס"ד דתניא</row>
+		<row row_number="45" isdata="1">רבי יעקב אומר שנים ישלם שלא בשבועה אתה אומר שלא בשבועה או</row>
+		<row row_number="46" isdata="1">אינו אלא בשבועה אמרת לא כך היה מאי לא כך היה אמר אביי לא לכתוב</row>
+		<row row_number="47" isdata="1">רחמנא שנים ישלם בגנב וליתי בק"ו מטוען טענת גנב ומה טוען טענת גנב</row>
+		<row row_number="48" isdata="1">דבהיתירא אתא לידיה אמר קרא לישלם תרי גנב עצמו דבאיסורא אתא לידיה</row>
+		<row row_number="49" isdata="1">לא כל שכן אלא שנים ישלם דכתב רחמנא בגנב עצמו למה לי דאפילו</row>
+		<row row_number="50" isdata="1">שלא בשבועה והאי אם המצא להכי הוא דאתא הא מיבעי ליה לכדתניא ידו</row>
+</amud>
+</daf>
+</masechet>
+</root>

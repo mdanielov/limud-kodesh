@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:18.676488</dateCreated>
+   <lastModified>2019-12-21 20:30:18.676488</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="76">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "נערה המאורסה"/><ContGemara/>אין בעלמא דרשי ק"ו ושאני הכא דאמר קרא</row>
+		<row row_number="2" isdata="1">אישה יקימנו ואישה יפרנו את שבא לכלל</row>
+		<row row_number="3" isdata="1">הקם בא לכלל הפר את שלא בא לכלל הקם</row>
+		<row row_number="4" isdata="1">לא בא לכלל הפרמתני' הפרת נדרים</row>
+		<row row_number="5" isdata="1">כל היום יש בדבר להקל ולהחמיר כיצד</row>
+		<row row_number="6" isdata="1">נדרה בלילי שבת יפר בלילי שבת וביום</row>
+		<row row_number="7" isdata="1">השבת עד שתחשך נדרה עם חשכה מפר</row>
+		<row row_number="8" isdata="1">עד שלא תחשך שאם חשכה ולא הפר אינו</row>
+		<row row_number="9" isdata="1">יכול להפר<EndMishna/><StartGemara/>גמ' תניא הפרת נדרים כל</row>
+		<row row_number="10" isdata="1">היום רבי יוסי בר' יהודה ור"א בר' שמעון</row>
+		<row row_number="11" isdata="1">אמרו מעת לעת מאי טעמא דתנא קמא אמר</row>
+		<row row_number="12" isdata="1">קרא ביום שמעו ורבנן מאי טעמייהו דכתיב</row>
+		<row row_number="13" isdata="1">מיום אל יום ולת"ק הא כתיב מיום אל יום</row>
+		<row row_number="14" isdata="1">איצטריך דאי ביום שמעו הוה אמינא ביממא</row>
+		<row row_number="15" isdata="1">אין בליליא לא כתיב מיום אל יום ולמ"ד</row>
+		<row row_number="16" isdata="1">מיום אל יום הא כתיב ביום שמעו איצטריך</row>
+		<row row_number="17" isdata="1">דאי כתיב מיום אל יום הוה אמינא מחד</row>
+		<row row_number="18" isdata="1">בשבא לחד בשבא ליפר לה כתיב ביום שמעו</row>
+		<row row_number="19" isdata="1">א"ר שמעון בן פזי אריב"ל אין הלכה כאותו</row>
+		<row row_number="20" isdata="1">הזוג לוי סבר למיעבד כהני תנאי א"ל רב</row>
+		<row row_number="21" isdata="1">הכי אמר חביבי אין הלכה כאותו הזוג חייא בר</row>
+		<row row_number="22" isdata="1">רב שדי גירא ובדיק רבה ב"ר הונא יתיב וקאים</row>
+</amud>
+</daf>
+</masechet>
+</root>

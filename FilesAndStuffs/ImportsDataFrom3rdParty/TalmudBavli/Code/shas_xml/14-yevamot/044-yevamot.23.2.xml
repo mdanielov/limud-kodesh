@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:54.568004</dateCreated>
+   <lastModified>2019-12-21 20:29:54.568004</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="23">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד אשת אחיו"/><ContMishna/>מתני' מי שקידש אחת משתי אחיות<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">ואין יודע אי זה מהן קידש נותן גט לזו וגט</row>
+		<row row_number="3" isdata="1">לזו מת ולו אח אחד חולץ לשתיהן היו לו</row>
+		<row row_number="4" isdata="1">שנים אחד חולץ ואחד מייבם קדמו וכנסו</row>
+		<row row_number="5" isdata="1">אין מוציאין מידם שנים שקדשו שתי</row>
+		<row row_number="6" isdata="1">אחיות זה אינו יודע אי זו קידש וזה אינו</row>
+		<row row_number="7" isdata="1">יודע איזו קידש זה נותן שני גיטין וזה נותן</row>
+		<row row_number="8" isdata="1">שני גיטין מתו לזה אח ולזה אח זה חולץ</row>
+		<row row_number="9" isdata="1">לשתיהן וזה חולץ לשתיהן לזה אחד ולזה</row>
+		<row row_number="10" isdata="1">שנים היחיד חולץ לשתיהן והשנים אחד</row>
+		<row row_number="11" isdata="1">חולץ ואחד מייבם קדמו וכנסו אין מוציאין</row>
+		<row row_number="12" isdata="1">מידם לזה שנים ולזה שנים אחיו של זה</row>
+		<row row_number="13" isdata="1">חולץ לאחת ואחיו של זה חולץ לאחת אחיו</row>
+		<row row_number="14" isdata="1">של זה מייבם חלוצתו של זה ואחיו של זה</row>
+		<row row_number="15" isdata="1">מייבם חלוצתו של זה קדמו שנים וחלצו לא</row>
+		<row row_number="16" isdata="1">ייבמו השנים אלא אחד חולץ ואחד מייבם</row>
+		<row row_number="17" isdata="1">קדמו וכנסו אין מוציאין מידם<EndMishna/><StartGemara/>גמ' שמע</row>
+		<row row_number="18" isdata="1">מינה קדושין שאין מסורין לביאה הוו</row>
+		<row row_number="19" isdata="1">קדושין הכא במאי עסקינן כשהוכרו ולבסוף</row>
+		<row row_number="20" isdata="1">נתערבו דיקא נמי דקתני ואינו יודע ולא קתני ואינו ידוע ש"מ מאי קמ"ל</row>
+		<row row_number="21" isdata="1">סיפא איצטריכא ליה מת ולו אח אחד חולץ לשתיהן היו לו שנים אחד חולץ</row>
+		<row row_number="22" isdata="1">ואחד מייבם דוקא מיחלץ והדר יבומי אבל יבומי ברישא לא דקא פגע באחות</row>
+		<row row_number="23" isdata="1">זקוקתו שנים שקדשו שתי אחיות וכו' שמע מינה קדושין שאין מסורין</row>
+		<row row_number="24" isdata="1">לביאה הוו קדושין הכא נמי כשהוכרו ולבסוף נתערבו דיקא נמי דקתני ואין</row>
+		<row row_number="25" isdata="1">יודע ולא קתני ואין ידוע ש"מ ומאי קמ"ל סיפא איצטריכא ליה מתו לזה אחד</row>
+		<row row_number="26" isdata="1">ולזה שנים היחיד חולץ לשתיהן והשנים אחד חולץ ואחד מייבם פשיטא היינו</row>
+		<row row_number="27" isdata="1">רישא מהו דתימא ליגזור תרי אטו חד קמ"ל ודוקא מיחלץ והדר יבומי אבל</row>
+		<row row_number="28" isdata="1">יבומי ברישא לא דקא פגע ביבמה לשוק לזה שנים ולזה שנים וכו'</row>
+		<row row_number="29" isdata="1">הא תו למה לי היינו הך מהו דתימא ליגזור דלמא מייבם בלא חליצה</row>
+		<row row_number="30" isdata="1">קמ"ל מ"ש מהא דתנן ארבעה אחין שנים מהן נשואין שתי אחיות ומתו</row>
+		<row row_number="31" isdata="1">הנשואין את האחיות הרי אלו חולצות ולא מתייבמות הכי השתא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:46.848705</dateCreated>
+   <lastModified>2019-12-21 20:30:46.848705</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="45">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח ארבעה וחמשה"/><ContGemara/>מכור הקדישו מוקדש שחטו בשרו מותר</row>
+		<row row_number="2" isdata="1">החזירו שומר לבית בעליו מוחזר משנגמר</row>
+		<row row_number="3" isdata="1">דינו מכרו אינו מכור הקדישו אינו מוקדש</row>
+		<row row_number="4" isdata="1">שחטו בשרו אסור החזירו שומר לבית בעליו</row>
+		<row row_number="5" isdata="1">אינו מוחזר ר' יעקב אומר אף משנגמר דינו</row>
+		<row row_number="6" isdata="1">החזירו שומר לבעליו מוחזר לימא בהא</row>
+		<row row_number="7" isdata="1">קמיפלגי דרבנן סברי אין אומרין באיסורי</row>
+		<row row_number="8" isdata="1">הנאה הרי שלך לפניך ורבי יעקב סבר אומרין</row>
+		<row row_number="9" isdata="1">באיסורי הנאה הרי שלך לפניך אמר רבה</row>
+		<row row_number="10" isdata="1">דכולי עלמא אומרין באיסורי הנאה הרי שלך</row>
+		<row row_number="11" isdata="1">לפניך דא"כ נפלוג לענין חמץ בפסח אלא</row>
+		<row row_number="12" isdata="1">הכא בגומרין דינו של שור שלא בפניו</row>
+		<row row_number="13" isdata="1">קמיפלגי דרבנן סברי אין גומרין דינו של</row>
+		<row row_number="14" isdata="1">שור אלא בפניו דאמר ליה אי אהדרתיה</row>
+		<row row_number="15" isdata="1">ניהלי הוה מערקנא ליה לאגמא השתא</row>
+		<row row_number="16" isdata="1">אתפשתיה לתוראי בידא דלא יכילנא</row>
+		<row row_number="17" isdata="1">לאשתעויי דינא בהדיה ור' יעקב סבר גומרין</row>
+		<row row_number="18" isdata="1">דינו של שור שלא בפניו דאמר ליה סוף סוף</row>
+		<row row_number="19" isdata="1">מיגמר הוו גמרי ליה לדינא מאי טעמא דרבנן</row>
+		<row row_number="20" isdata="1">השור יסקל וגם בעליו יומת כמיתת</row>
+		<row row_number="21" isdata="1">הבעלים כך מיתת השור מה בעלים בפניהם</row>
+		<row row_number="22" isdata="1">אף שור בפניו ור' יעקב בשלמא בעלים בני</row>
+		<row row_number="23" isdata="1">טענה נינהו אלא שור בר טענתא הוא מסרו</row>
+		<row row_number="24" isdata="1">לשומר חנם ולשואל כו' תנו רבנן ארבעה</row>
+		<row row_number="25" isdata="1">נכנסו תחת הבעלים ואלו הן שומר חנם</row>
+		<row row_number="26" isdata="1">והשואל נושא שכר והשוכר הרגו תמין</row>
+		<row row_number="27" isdata="1">נהרגין ופטורין מן הכופר מועדין נהרגין</row>
+		<row row_number="28" isdata="1">ומשלמין את הכופר וחייבין להחזיר דמי</row>
+		<row row_number="29" isdata="1">שור לבעליו חוץ משומר חנם אמרי היכי</row>
+		<row row_number="30" isdata="1">דמי אי דנטריה אפילו כולהו נמי ליפטרו</row>
+		<row row_number="31" isdata="1">ואי דלא נטריה אפילו שומר חנם ניחייב</row>
+		<row row_number="32" isdata="1">אמרי הכא במאי עסקינן דנטריה שמירה</row>
+		<row row_number="33" isdata="1">פחותה ולא נטריה שמירה מעולה שומר</row>
+		<row row_number="34" isdata="1">חנם כלתה לו שמירתו הנך לא כלתה</row>
+		<row row_number="35" isdata="1">שמירתן אמרי כמאן אי כרבי מאיר</row>
+</amud>
+</daf>
+</masechet>
+</root>

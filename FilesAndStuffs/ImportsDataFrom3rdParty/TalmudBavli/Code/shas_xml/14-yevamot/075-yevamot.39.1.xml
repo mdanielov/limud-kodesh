@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:55.854810</dateCreated>
+   <lastModified>2019-12-21 20:29:55.854810</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="39">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "החולץ"/><ContGemara/>וקסבר אביי ידו כידה א"ל רבא אי דנפלי לה</row>
+		<row row_number="2" isdata="1">כשהיא תחתיו דבעל דכ"ע לא פליגי דידו</row>
+		<row row_number="3" isdata="1">עדיפא מידה אלא אידי ואידי דנפלו לה</row>
+		<row row_number="4" isdata="1">כשהיא שומרת יבם רישא דלא עבד בה</row>
+		<row row_number="5" isdata="1">מאמר סיפא דעבד בה מאמר וקסבר</row>
+		<row row_number="6" isdata="1">רבא מאמר לב"ש עושה ודאי ארוסה וספק</row>
+		<row row_number="7" isdata="1">נשואה ודאי ארוסה לדחות בצרה וספק</row>
+		<row row_number="8" isdata="1">נשואה לחלוק בנכסים איתמר משמיה דר'</row>
+		<row row_number="9" isdata="1">אלעזר כוותיה דרבא ואיתמר משמיה דרבי</row>
+		<row row_number="10" isdata="1">יוסי ברבי חנינא כוותיה דאביי ומי אמר</row>
+		<row row_number="11" isdata="1">רבי אלעזר הכי והא אמר רבי אלעזר</row>
+		<row row_number="12" isdata="1">מאמר לב"ש אינה קונה אלא לדחות</row>
+		<row row_number="13" isdata="1">בצרה בלבד איפוך ואי בעית אימא לעולם</row>
+		<row row_number="14" isdata="1">לא תיפוך אמר לך רבי אלעזר כי אמרי</row>
+		<row row_number="15" isdata="1">אנא דלא סגי לה בגט אלא דבעי נמי</row>
+		<row row_number="16" isdata="1">חליצה לחלוק בנכסים דלא קני מי אמרי</row>
+		<row row_number="17" isdata="1">אמר רב פפא דיוקא דמתניתין כוותיה</row>
+		<row row_number="18" isdata="1">דאביי ואע"ג דקשיא מתה דקתני נכסים</row>
+		<row row_number="19" isdata="1">הנכנסים ויוצאים עמה מאי נכנסין ומאי</row>
+		<row row_number="20" isdata="1">יוצאין לאו נכנסין לרשות הבעל ויוצאים</row>
+		<row row_number="21" isdata="1">מרשות הבעל לרשות האב ואע"ג דקשיא</row>
+		<row row_number="22" isdata="1">מתה אדמפלגי בגופה ולאחר מיתה לפלגו</row>
+		<row row_number="23" isdata="1">בחייה ולפירות ותו לא מידי כנסה הרי</row>
+		<row row_number="24" isdata="1">היא כו' למאי הלכתא א"ר יוסי בר חנינא</row>
+		<row row_number="25" isdata="1">לומר שמגרשה בגט ומחזירה מגרשה בגט</row>
+		<row row_number="26" isdata="1">פשיטא סד"א הואיל וכתיב ולקחה לו לאשה</row>
+		<row row_number="27" isdata="1">ויבמה אמר רחמנא ועדיין יבומי הראשון</row>
+		<row row_number="28" isdata="1">עליה בחליצה אין בגט לא קמ"ל מחזירה</row>
+		<row row_number="29" isdata="1">פשיטא סד"א מצוה דרמיא רחמנא עליה</row>
+		<row row_number="30" isdata="1">עבדה השתא תיקום עליה באיסור אשת</row>
+		<row row_number="31" isdata="1">אח קמ"ל ואימא הכי נמי אמר קרא ולקחה</row>
+		<row row_number="32" isdata="1">לו לאשה כיון שלקחה הרי היא כאשתו לכל</row>
+		<row row_number="33" isdata="1">דבר ובלבד שתהא כתובתה כו' מ"ט אשה הקנו לו מן השמים ואי</row>
+		<row row_number="34" isdata="1">לית לה מן הראשון תקינו לה משני כדי שלא תהא קלה בעיניו להוציאה</row>
+		<row row_number="35" isdata="1"><EndGemara/><StartMishna/>מתני' מצוה בגדול לייבם לא רצה מהלכין על כל האחין לא רצו</row>
+		<row row_number="36" isdata="1">חוזרין אצל גדול ואומרים לו עליך מצוה או חלוץ או ייבם תלה בקטן</row>
+		<row row_number="37" isdata="1">עד שיגדיל או בגדול עד שיבא ממדינת הים או חרש או שוטה אין</row>
+		<row row_number="38" isdata="1">שומעין לו אלא אומרים לו עליך מצוה או חלוץ או ייבם<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="39" isdata="1">איתמר ביאת קטן וחליצת גדול פליגי בה ר' יוחנן ור' יהושע בן לוי חד</row>
+		<row row_number="40" isdata="1">אמר ביאת קטן עדיפא וחד אמר חליצת גדול עדיפא מאן דאמר ביאת</row>
+		<row row_number="41" isdata="1">קטן עדיפא דהא מצוה בייבום ומאן דאמר חליצת גדול עדיפא במקום גדול</row>
+		<row row_number="42" isdata="1">ביאת קטן לאו כלום היא תנן לא רצה מחזירין על כל האחין מאי לאו לא</row>
+		<row row_number="43" isdata="1">רצה לייבם אלא לחלוץ וקתני מהלכין אצל האחין שמע מינה ביאת קטן</row>
+		<row row_number="44" isdata="1">עדיפא לא לא רצה לחלוץ ולא לייבם דכוותה גבי האחין לא רצו לא</row>
+		<row row_number="45" isdata="1">לחלוץ ולא לייבם אמאי חוזרים אצל הגדול למיכפייה לכפייה לדידהו כיון</row>
+		<row row_number="46" isdata="1">דמצוה עליה דידיה רמיא לדידיה כייפינן תנן תלה בקטן עד שיגדיל אין</row>
+		<row row_number="47" isdata="1">שומעין לו ואי ביאת קטן עדיפא אמאי אין שומעין לו נינטר דלמא גדיל</row>
+		<row row_number="48" isdata="1">ומייבם וליטעמיך ובגדול עד שיבא ממדינת הים אין שומעין לו אמאי</row>
+		<row row_number="49" isdata="1">נינטר דלמא אתי וחליץ אלא כל שהויי מצוה לא משהינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

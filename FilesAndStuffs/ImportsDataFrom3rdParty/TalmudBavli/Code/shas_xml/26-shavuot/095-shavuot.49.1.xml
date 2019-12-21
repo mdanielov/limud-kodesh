@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:42.191908</dateCreated>
+   <lastModified>2019-12-21 20:31:42.191908</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="49">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הנשבעין"/><ContGemara/>לכל מגלגלין חוץ משכיר שאין מגלגלין</row>
+		<row row_number="2" isdata="1">רב חסדא אמר לכל אין מקילין חוץ משכיר</row>
+		<row row_number="3" isdata="1">דמקילין מאי בינייהו איכא בינייהו לפתוח</row>
+		<row row_number="4" isdata="1">לו והשביעית משמטת כו' מנה"מ אמר רב</row>
+		<row row_number="5" isdata="1">גידל אמר רב דאמר קרא וזה דבר השמטה</row>
+		<row row_number="6" isdata="1">ואפילו דיבור משמטת<EndChapter name = "כל הנשבעין"/><EndGemara/></row>
+		<row row_number="7" isdata="0">הדרן עלך כל הנשבעין</row>
+		<row row_number="8" isdata="1"><StartChapter name = "ארבעה שומרין "/><StartMishna/>ארבעה שומרין הן שומר חנם והשואל</row>
+		<row row_number="9" isdata="1">נושא שכר והשוכר שומר חנם</row>
+		<row row_number="10" isdata="1">נשבע על הכל והשואל משלם את הכל</row>
+		<row row_number="11" isdata="1">נושא שכר והשוכר נשבעין על השבורה</row>
+		<row row_number="12" isdata="1">ועל השבויה ועל המתה ומשלמין את האבדה</row>
+		<row row_number="13" isdata="1">ואת הגניבה אמר לשומר חנם היכן שורי</row>
+		<row row_number="14" isdata="1">אמר לו מת והוא שנשבר או נשבה או נגנב</row>
+		<row row_number="15" isdata="1">או אבד נשבר והוא שמת או נשבה או נגנב</row>
+		<row row_number="16" isdata="1">או אבד נשבה והוא שמת או נשבר או נגנב</row>
+		<row row_number="17" isdata="1">או אבד נגנב והוא שמת או נשבר או נשבה</row>
+		<row row_number="18" isdata="1">או אבד אבד והוא שמת או נשבר או נשבה</row>
+		<row row_number="19" isdata="1">או נגנב משביעך אני ואמר אמן פטור היכן</row>
+		<row row_number="20" isdata="1">שורי אמר לו איני יודע מה אתה סח והוא</row>
+		<row row_number="21" isdata="1">שמת או נשבר או נשבה או נגנב או אבד</row>
+		<row row_number="22" isdata="1">משביעך אני ואמר אמן פטור היכן שורי</row>
+		<row row_number="23" isdata="1">אמר לו אבד משביעך אני ואמר אמן והעדים</row>
+		<row row_number="24" isdata="1">מעידים אותו שאכלו משלם את הקרן הודה</row>
+		<row row_number="25" isdata="1">מעצמו משלם קרן וחומש ואשם היכן שורי</row>
+		<row row_number="26" isdata="1">ואמר לו נגנב משביעך אני ואמר אמן והעדים</row>
+		<row row_number="27" isdata="1">מעידים אותו שגנבו משלם תשלומי כפל</row>
+		<row row_number="28" isdata="1">הודה מעצמו משלם קרן וחומש ואשם</row>
+		<row row_number="29" isdata="1">אמר לאחד בשוק היכן שורי שגנבת הוא</row>
+		<row row_number="30" isdata="1">אומר לא גנבתי והעדים מעידים אותו</row>
+		<row row_number="31" isdata="1">שגנבו משלם תשלומי כפל טבח ומכר</row>
+		<row row_number="32" isdata="1">משלם תשלומי ארבעה וחמשה ראה</row>
+		<row row_number="33" isdata="1">עדים שממשמשין ובאין אמר גנבתי אבל</row>
+		<row row_number="34" isdata="1">לא טבחתי ולא מכרתי אינו משלם אלא</row>
+		<row row_number="35" isdata="1">קרן אמר לשואל היכן שורי אמר לו</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:18.759201</dateCreated>
+   <lastModified>2019-12-21 20:31:18.759201</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="136">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>אמר רבי יוחנן לא קנה לוקח וריש לקיש</row>
+		<row row_number="2" isdata="1">אמר קנה לוקח רבי יוחנן אמר לא קנה</row>
+		<row row_number="3" isdata="1">לוקח קנין פירות כקנין הגוף דמי וריש</row>
+		<row row_number="4" isdata="1">לקיש אמר קנה לוקח קנין פירות לאו כקנין</row>
+		<row row_number="5" isdata="1">הגוף דמי והא איפליגו בה חדא זימנא</row>
+		<row row_number="6" isdata="1">דאיתמר המוכר שדהו לפירות רבי יוחנן</row>
+		<row row_number="7" isdata="1">אמר מביא וקורא וריש לקיש אמר מביא</row>
+		<row row_number="8" isdata="1">ואינו קורא רבי יוחנן אמר מביא וקורא קסבר</row>
+		<row row_number="9" isdata="1">קנין פירות כקנין הגוף דמי וריש לקיש אמר</row>
+		<row row_number="10" isdata="1">מביא ואינו קורא קנין פירות לאו כקנין הגוף</row>
+		<row row_number="11" isdata="1">דמי אמר לך ר' יוחנן אף על גב דבעלמא</row>
+		<row row_number="12" isdata="1">קנין פירות כקנין הגוף דמי הכא אצטריך</row>
+		<row row_number="13" isdata="1">סלקא דעתך אמינא אבא לגבי בריה אחולי</row>
+		<row row_number="14" isdata="1">אחיל קא משמע לן ורבי שמעון בן לקיש</row>
+		<row row_number="15" isdata="1">אמר אף על גב דבעלמא קנין פירות לאו</row>
+		<row row_number="16" isdata="1">כקנין הגוף דמי הכא אצטריך סלקא דעתך</row>
+		<row row_number="17" isdata="1">אמינא כל לגבי נפשיה אפילו במקום בריה</row>
+		<row row_number="18" isdata="1">נפשיה עדיפא ליה קא משמע לן איתיביה</row>
+		<row row_number="19" isdata="1">רבי יוחנן לריש לקיש נכסי לך ואחריך</row>
+		<row row_number="20" isdata="1">יירש פלוני ואחריו יירש פלוני מת ראשון קנה</row>
+		<row row_number="21" isdata="1">שני מת שני קנה שלישי מת שני בחיי</row>
+		<row row_number="22" isdata="1">ראשון יחזרו נכסים ליורשי ראשון ואם איתא</row>
+		<row row_number="23" isdata="1">ליורשי נותן מיבעי ליה אמר ליה כבר</row>
+		<row row_number="24" isdata="1">תרגמה רב הושעיא בבבל אחריך שאני</row>
+		<row row_number="25" isdata="1">וכן רמי רבה בר רב הונא קמיה דרב ואמר</row>
+		<row row_number="26" isdata="1">אחריך שאני והתניא יחזרו ליורשי נותן</row>
+</amud>
+</daf>
+</masechet>
+</root>

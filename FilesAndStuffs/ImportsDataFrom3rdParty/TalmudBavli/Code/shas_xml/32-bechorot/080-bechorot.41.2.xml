@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:31.175398</dateCreated>
+   <lastModified>2019-12-21 20:32:31.175398</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="41">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "על אלו מומין"/><ContGemara/>בעי רבא מאי טעמא דרבי ישמעאל מיפשט</row>
+		<row row_number="2" isdata="1">פשיטא ליה אנדרוגינוס בכור הוא ומומו עמו</row>
+		<row row_number="3" isdata="1">או דילמא ספוקי מספקא ליה ואם תימצא</row>
+		<row row_number="4" isdata="1">לומר קאמר אם תימצא לומר בכור הוא הרי</row>
+		<row row_number="5" isdata="1">מומו עמו למאי נפקא מינה למילקא עליה</row>
+		<row row_number="6" isdata="1">משום גיזה ועבודה אי נמי למיתבה לכהן ת"ש</row>
+		<row row_number="7" isdata="1">ר' אילעאי אומר משום ר' ישמעאל אנדרוגינוס</row>
+		<row row_number="8" isdata="1">בכור הוא ומומו עמו ש"מ מיפשט פשיטא</row>
+		<row row_number="9" isdata="1">ליה ודילמא אם תימצא לומר קאמר ת"ש</row>
+		<row row_number="10" isdata="1">זכר ולא נקבה כשהוא אומר למטה זכר שאין</row>
+		<row row_number="11" isdata="1">ת"ל מה ת"ל להוציא טומטום ואנדרוגינוס</row>
+		<row row_number="12" isdata="1">מני אילימא ת"ק ספיקא הוא ואתי קרא</row>
+		<row row_number="13" isdata="1">למעוטי ספיקא אלא רבנן בתראי מחד קרא</row>
+		<row row_number="14" isdata="1">נפקי דהא גבי בכור חד זכר הוא דכתיב קא</row>
+		<row row_number="15" isdata="1">מעטי כולהו מינייהו אלא פשיטא ר' ישמעאל</row>
+		<row row_number="16" isdata="1">ואי אמרת בשלמא רבי ישמעאל מיפשט</row>
+		<row row_number="17" isdata="1">פשיטא ליה היינו דאיצטריך קרא למעוטי אלא</row>
+		<row row_number="18" isdata="1">אי אמרת מספקא ליה אצטריך קרא למעוטי</row>
+		<row row_number="19" isdata="1">ספיקא לעולם רבנן בתראי וגבי בכור תרתי</row>
+		<row row_number="20" isdata="1">קראי כתיב הזכר והזכרים וחכ"א אינו בכור</row>
+		<row row_number="21" isdata="1">כו' אמר רב חסדא מחלוקת באנדרוגינוס</row>
+		<row row_number="22" isdata="1">אבל בטומטום דברי הכל ספיקא הוא וקדוש</row>
+		<row row_number="23" isdata="1">מספיקא א"ל רבא אלא מעתה בערכין יערך</row>
+</amud>
+</daf>
+</masechet>
+</root>

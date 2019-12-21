@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:08.565198</dateCreated>
+   <lastModified>2019-12-21 20:31:08.565198</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="33">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>זוזי אחריני גביה ואכלתה שני משכנתא</row>
+		<row row_number="2" isdata="1">אמינא אי מהדרנא לה ארעא ליתמי ואמינא</row>
+		<row row_number="3" isdata="1">דאית לי זוזי אחריני גבי דאבוכון אמור</row>
+		<row row_number="4" isdata="1">רבנן הבא ליפרע מנכסי יתומים לא יפרע</row>
+		<row row_number="5" isdata="1">אלא בשבועה אלא אכבשיה לשטר</row>
+		<row row_number="6" isdata="1">משכנתא ואוכלה שיעור זוזי דמיגו דאי</row>
+		<row row_number="7" isdata="1">בעינא אמינא לקוחה היא בידי מהימנא כי</row>
+		<row row_number="8" isdata="1">אמינא דאית לי זוזי גבייכו מהימננא א"ל</row>
+		<row row_number="9" isdata="1">לקוחה בידי לא מצית אמרת דהא איכא</row>
+		<row row_number="10" isdata="1">עלה קלא דארעא דיתמי היא אלא זיל</row>
+		<row row_number="11" isdata="1">אהדרה ניהלייהו וכי גדלי יתמי אשתעי דינא</row>
+		<row row_number="12" isdata="1">בהדייהו קריביה דרב אידי בר אבין שכיב</row>
+		<row row_number="13" isdata="1">ושבק דיקלא רב אידי בר אבין אמר אנא</row>
+		<row row_number="14" isdata="1">קריבנא טפי וההוא גברא אמר אנא קריבנא</row>
+		<row row_number="15" isdata="1">טפי לסוף אודי ליה דאיהו קריב טפי אוקמה</row>
+		<row row_number="16" isdata="1">רב חסדא בידיה א"ל ליהדר לי פירי דאכל</row>
+		<row row_number="17" isdata="1">מההוא יומא עד השתא אמר זה הוא</row>
+		<row row_number="18" isdata="1">שאומרים עליו אדם גדול הוא אמאן קא</row>
+		<row row_number="19" isdata="1">סמיך מר אהאי הא קאמר דאנא מקרבנא טפי</row>
+		<row row_number="20" isdata="1">אביי ורבא לא סבירא להו הא דרב חסדא</row>
+</amud>
+</daf>
+</masechet>
+</root>

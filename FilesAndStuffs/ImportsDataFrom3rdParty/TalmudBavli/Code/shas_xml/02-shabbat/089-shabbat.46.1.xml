@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:42.500701</dateCreated>
+   <lastModified>2019-12-21 20:28:42.500701</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="46">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>מותר לנטותה ומותר לפרקה בשבת אלא</row>
+		<row row_number="2" isdata="1">אמר אביי בשל חוליות אי הכי מ"ט דר"ש</row>
+		<row row_number="3" isdata="1">בן לקיש דשרי מאי חוליות כעין חוליות</row>
+		<row row_number="4" isdata="1">דאית בה חידקי הלכך חוליות בין גדולה</row>
+		<row row_number="5" isdata="1">בין קטנה אסורה לטלטלה גדולה נמי דאית</row>
+		<row row_number="6" isdata="1">בה חידקי גזירה אטו גדולה דחוליות כי</row>
+		<row row_number="7" isdata="1">פליגי בקטנה דאית בה חידקי מר סבר</row>
+		<row row_number="8" isdata="1">גזרינן ומר סבר לא גזרינן ומי א"ר יוחנן הכי</row>
+		<row row_number="9" isdata="1">והאמר ר' יוחנן הלכה כסתם משנה ותנן</row>
+		<row row_number="10" isdata="1">מוכני שלה בזמן שהיא נשמטת אין חיבור</row>
+		<row row_number="11" isdata="1">לה ואין נמדדת עמה ואין מצלת עמה באהל</row>
+		<row row_number="12" isdata="1">המת ואין גוררין אותה בשבת בזמן שיש</row>
+		<row row_number="13" isdata="1">עליה מעות הא אין עליה מעות שריא ואע"ג</row>
+		<row row_number="14" isdata="1">דהוו עליה ביה"ש א"ר זירא תהא משנתינו</row>
+		<row row_number="15" isdata="1">שלא היו עליה מעות כל ביה"ש שלא לשבור</row>
+		<row row_number="16" isdata="1">דבריו של ר' יוחנן א"ר יהושע בן לוי פעם</row>
+		<row row_number="17" isdata="1">אחת הלך רבי לדיוספרא והורה במנורה</row>
+		<row row_number="18" isdata="1">כר' שמעון בנר איבעיא להו הורה במנורה</row>
+		<row row_number="19" isdata="1">כר' שמעון בנר להיתרא או דילמא הורה</row>
+		<row row_number="20" isdata="1">במנורה לאיסורא וכר' שמעון בנר להיתרא</row>
+		<row row_number="21" isdata="1">תיקו רב מלכיא איקלע לבי רבי שמלאי</row>
+		<row row_number="22" isdata="1">וטילטל שרגא ואיקפד ר' שמלאי ר' יוסי</row>
+		<row row_number="23" isdata="1">גלילאה איקלע לאתריה דר' יוסי ברבי חנינא</row>
+		<row row_number="24" isdata="1">טילטל שרגא ואיקפד ר' יוסי בר' חנינא ר'</row>
+		<row row_number="25" isdata="1">אבהו כי איקלע לאתריה דר' יהושע בן לוי</row>
+		<row row_number="26" isdata="1">הוה מטלטל שרגא כי איקלע לאתריה דר'</row>
+		<row row_number="27" isdata="1">יוחנן לא הוה מטלטל שרגא מה נפשך אי</row>
+		<row row_number="28" isdata="1">כרבי יהודה סבירא ליה ליעבד כרבי יהודה</row>
+		<row row_number="29" isdata="1">אי כר' שמעון סבירא ליה ליעבד כר' שמעון</row>
+		<row row_number="30" isdata="1">לעולם כר' שמעון ס"ל ומשום כבודו דר' יוחנן</row>
+		<row row_number="31" isdata="1">הוא דלא הוה עביד א"ר יהודה שרגא דמשחא שרי לטלטולה דנפטא</row>
+		<row row_number="32" isdata="1">אסור לטלטולה רבה ורב יוסף דאמרי תרוייהו דנפטא נמי שרי לטלטולה</row>
+		<row row_number="33" isdata="1">(דהואיל וחזי לכסות ביה מנא) רב אויא איקלע לבי רבא הוה מאיסן בי כרעיה</row>
+		<row row_number="34" isdata="1">בטינא אתיבי אפוריא קמיה דרבא איקפד רבא בעא לצעוריה א"ל מ"ט רבה</row>
+		<row row_number="35" isdata="1">ורב יוסף דאמרי תרווייהו שרגא דנפטא נמי שרי לטלטוליה א"ל הואיל וחזיא</row>
+		<row row_number="36" isdata="1">לכסויי בה מנא אלא מעתה כל צרורות שבחצר מטלטלין הואיל וחזיא לכסויי</row>
+		<row row_number="37" isdata="1">בהו מנא א"ל הא איכא תורת כלי עליה הני ליכא תורת כלי עליה מי לא תניא</row>
+</amud>
+</daf>
+</masechet>
+</root>

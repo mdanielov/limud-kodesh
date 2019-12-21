@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:30.216403</dateCreated>
+   <lastModified>2019-12-21 20:29:30.216403</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="9">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContMishna/>span class="shastitle4">מתני' העושה סוכתו תחת האילן כאילו</row>
+		<row row_number="2" isdata="1">עשאה בתוך הבית סוכה על גבי סוכה</row>
+		<row row_number="3" isdata="1">העליונה כשרה והתחתונה פסולה ר' יהודה</row>
+		<row row_number="4" isdata="1">אומר אם אין דיורין בעליונה התחתונה</row>
+		<row row_number="5" isdata="1">כשרה<EndMishna/><StartGemara/>גמ' אמר רבא לא שנו אלא באילן</row>
+		<row row_number="6" isdata="1">שצלתו מרובה מחמתו אבל חמתו מרובה</row>
+		<row row_number="7" isdata="1">מצלתו כשרה ממאי מדקתני כאילו עשאה</row>
+		<row row_number="8" isdata="1">בתוך הבית למה לי למיתני כאילו עשאה</row>
+		<row row_number="9" isdata="1">בתוך הבית ליתני פסולה אלא הא קמ"ל</row>
+		<row row_number="10" isdata="1">דאילן דומיא דבית מה בית צלתו מרובה</row>
+		<row row_number="11" isdata="1">מחמתו אף אילן צלתו מרובה מחמתו וכי</row>
+		<row row_number="12" isdata="1">חמתו מרובה מצלתו מאי הוי הא קא</row>
+		<row row_number="13" isdata="1">מצטרף סכך פסול בהדי סכך כשר אמר רב</row>
+		<row row_number="14" isdata="1">פפא בשחבטן אי בשחבטן מאי למימרא</row>
+		<row row_number="15" isdata="1">מהו דתימא ניגזור היכא דחבטן אטו היכא</row>
+		<row row_number="16" isdata="1">דלא חבטן קמ"ל דלא גזרינן הא נמי תנינא</row>
+		<row row_number="17" isdata="1">הדלה עליה את הגפן ואת הדלעת ואת</row>
+		<row row_number="18" isdata="1">הקיסוס וסיכך על גבן פסולה ואם היה</row>
+		<row row_number="19" isdata="1">סיכוך הרבה מהן או שקצצן כשרה היכי</row>
+		<row row_number="20" isdata="1">דמי אילימא בשלא חבטן הא קא מצטרף</row>
+		<row row_number="21" isdata="1">סכך פסול עם סכך כשר אלא לאו כשחבטן</row>
+		<row row_number="22" isdata="1">ושמע מינה דלא גזרינן מהו דתימא הני מילי</row>
+		<row row_number="23" isdata="1">בדיעבד אבל לכתחילה לא קמ"ל סוכה</row>
+		<row row_number="24" isdata="1">ע"ג סוכה וכו' ת"ר ( בסוכות) תשבו ולא</row>
+		<row row_number="25" isdata="1">בסוכה שתחת הסוכה ולא בסוכה שתחת</row>
+		<row row_number="26" isdata="1">האילן ולא בסוכה שבתוך הבית אדרבה</row>
+		<row row_number="27" isdata="1">בסוכות תרתי משמע אמר רב נחמן בר</row>
+		<row row_number="28" isdata="1">יצחק בסכת כתיב אמר ר' ירמיה פעמים</row>
+		<row row_number="29" isdata="1">ששתיהן כשירות פעמים ששתיהן פסולות</row>
+		<row row_number="30" isdata="1">פעמים שתחתונה כשרה והעליונה פסולה</row>
+		<row row_number="31" isdata="1">פעמים שתחתונה פסולה והעליונה כשרה</row>
+		<row row_number="32" isdata="1">פעמים ששתיהן כשירות היכי דמי כגון</row>
+		<row row_number="33" isdata="1">שתחתונה חמתה מרובה מצלתה והעליונה</row>
+		<row row_number="34" isdata="1">צלתה מרובה מחמתה וקיימא עליונה בתוך</row>
+		<row row_number="35" isdata="1">עשרים פעמים ששתיהן פסולות היכי דמי</row>
+		<row row_number="36" isdata="1">כגון דתרוייהו צלתן מרובה מחמתן וקיימא</row>
+		<row row_number="37" isdata="1">עליונה למעלה מעשרים אמה פעמים</row>
+		<row row_number="38" isdata="1">שתחתונה כשרה והעליונה פסולה</row>
+</amud>
+</daf>
+</masechet>
+</root>

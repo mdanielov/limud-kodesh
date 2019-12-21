@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:19.228188</dateCreated>
+   <lastModified>2019-12-21 20:32:19.228188</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="71">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContGemara/>אדם שמציל על טומאה שבתוכו מלטמא</row>
+		<row row_number="2" isdata="1">אינו דין שמציל על טהרה שבתוכו מליטמא</row>
+		<row row_number="3" isdata="1">מה לכלי חרס שכן אין מטמא מגבו תאמר</row>
+		<row row_number="4" isdata="1">באדם שמטמא מגבו אטו אנן מגבו קאמרינן</row>
+		<row row_number="5" isdata="1">מתוכו קאמרינן אדרבה כלי חרס חמור שכן</row>
+		<row row_number="6" isdata="1">מטמא מאוירו אשכחן בלוע דלמעלה בלוע</row>
+		<row row_number="7" isdata="1">דלמטה מנלן קל וחומר ומה למעלה שאינו</row>
+		<row row_number="8" isdata="1">עושה עיכול מציל למטה שעושה עיכול אינו</row>
+		<row row_number="9" isdata="1">דין שמציל כלום עושה עיכול למטה אלא על</row>
+		<row row_number="10" isdata="1">ידי מעלה אפי' הכי עיכול דלמטה רב אשכחן</row>
+		<row row_number="11" isdata="1">בלוע דאדם בלוע דבהמה מנלן קל וחומר</row>
+		<row row_number="12" isdata="1">ומה אדם שמטמא מחיים מציל בבלוע בהמה</row>
+		<row row_number="13" isdata="1">שאינה מטמאה מחיים אינו דין שתציל בבלוע</row>
+		<row row_number="14" isdata="1">מה לאדם שכן צריך שהייה בבית המנוגע</row>
+		<row row_number="15" isdata="1">תאמר בבהמה שאינה צריכה שהייה בבית</row>
+		<row row_number="16" isdata="1">המנוגע בהמה דאינה צריכה שהייה בבית</row>
+		<row row_number="17" isdata="1">המנוגע למאי הלכתא לכלים שעל גבה אדם</row>
+		<row row_number="18" isdata="1">נמי לא בעי דתנן הנכנס לבית המנוגע</row>
+		<row row_number="19" isdata="1">וכליו על כתפיו וסנדליו וטבעותיו בידיו הוא</row>
+		<row row_number="20" isdata="1">והן טמאין מיד היה לבוש כליו וסנדליו</row>
+		<row row_number="21" isdata="1">ברגליו וטבעותיו באצבעו הוא טמא מיד</row>
+		<row row_number="22" isdata="1">והן טהורין עד שישהא בכדי אכילת פרס</row>
+		<row row_number="23" isdata="1">פת חטים ולא פת שעורים מיסב ואוכל</row>
+		<row row_number="24" isdata="1">בליפתן אמר רבא תרוייהו תננהי טומאה</row>
+		<row row_number="25" isdata="1">בלועה תנינא טהרה בלועה תנינא טומאה</row>
+		<row row_number="26" isdata="1">בלועה דתנן בלע טבעת טמאה טובל</row>
+		<row row_number="27" isdata="1">ואוכל בתרומתו הקיאה טמאה וטמאתו</row>
+		<row row_number="28" isdata="1">טהרה בלועה תנינא דתנן בלע טבעת</row>
+		<row row_number="29" isdata="1">טהורה ונכנס לאהל המת והזה ושנה וטבל</row>
+		<row row_number="30" isdata="1">והקיאה הרי היא כמה שהיתה כי קאמר רבה</row>
+		<row row_number="31" isdata="1">כגון שבלע שתי טבעות אחת טמאה ואחת</row>
+		<row row_number="32" isdata="1">טהורה דלא מטמיא לה מטמאה לטהורה</row>
+</amud>
+</daf>
+</masechet>
+</root>

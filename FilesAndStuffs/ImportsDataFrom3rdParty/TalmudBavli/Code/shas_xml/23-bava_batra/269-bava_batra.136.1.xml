@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:18.716251</dateCreated>
+   <lastModified>2019-12-21 20:31:18.716251</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="136">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>כדאמר רב חסדא וקנינא מיניה מוסיף על</row>
+		<row row_number="2" isdata="1">מתנתא דא ה"נ דאמר אף כתובו וחתומו</row>
+		<row row_number="3" isdata="1">והבו ליה איתמר רב יהודה אמר שמואל</row>
+		<row row_number="4" isdata="1">הלכה כותבין ונותנין וכן אמר רבא אמר</row>
+		<row row_number="5" isdata="1">רב נחמן הלכה כותבין ונותנין</row>
+		<row row_number="6" isdata="1"><EndGemara/><StartMishna/>מתני' הכותב נכסיו לבניו צריך שיכתוב</row>
+		<row row_number="7" isdata="1">מהיום ולאחר מיתה דברי רבי יהודה רבי</row>
+		<row row_number="8" isdata="1">יוסי אומר אינו צריך הכותב נכסיו לבנו</row>
+		<row row_number="9" isdata="1">לאחר מותו האב אינו יכול למכור מפני שהן כתובין לבן והבן אינו יכול</row>
+		<row row_number="10" isdata="1">למכור מפני שהן ברשות האב מכר האב מכורים עד שימות מכר הבן אין</row>
+		<row row_number="11" isdata="1">ללוקח בהן כלום עד שימות האב<EndMishna/><StartGemara/>גמ' וכי כתב מהיום ולאחר מיתה</row>
+		<row row_number="12" isdata="1">מאי הוי הא תנן מהיום ולאחר מיתה גט ואינו גט ואם מת חולצת</row>
+		<row row_number="13" isdata="1">ולא מתייבמת התם מספקא לן אי תנאה הוי אי חזרה הוי אבל הכא</row>
+		<row row_number="14" isdata="1">הכי קאמר ליה גופא קני מהיום פירא לאחר מיתה רבי יוסי אומר אינו</row>
+		<row row_number="15" isdata="1">צריך רבה בר אבוה חלש על לגביה רב הונא ורב נחמן אמר ליה</row>
+		<row row_number="16" isdata="1">רב הונא לרב נחמן בעי מיניה הלכה כרבי יוסי או אין הלכה כר' יוסי</row>
+		<row row_number="17" isdata="1">אמר ליה טעמיה דרבי יוסי לא ידענא הלכה איבעי מיניה אמר ליה את</row>
+		<row row_number="18" isdata="1">בעי מיניה אי הלכה אי לא וטעמיה אנא אמינא לך בעא מיניה אמר</row>
+		<row row_number="19" isdata="1">ליה הכי אמר רב הלכה כרבי יוסי בתר דנפקו אמר ליה היינו טעמיה</row>
+		<row row_number="20" isdata="1">דרבי יוסי דאמר זמנו של שטר מוכיח עליו תניא נמי הכי רבי יוסי</row>
+		<row row_number="21" isdata="1">אומר אינו צריך מפני שזמנו של שטר מוכיח עליו בעא מיניה רבא</row>
+		<row row_number="22" isdata="1">מרב נחמן בהקנאה מהו אמר ליה בהקנאה אינו צריך רב פפי אמר איכא</row>
+		<row row_number="23" isdata="1">אקניתא דצריך ואיכא אקניתא דלא צריך אקנייה וקנינא מיניה לא צריך</row>
+		<row row_number="24" isdata="1">קנינא מיניה ואקנייה צריך מתקיף לה רב חנינא מסורא מי איכא מידי</row>
+		<row row_number="25" isdata="1">דאנן לא ידעינן וספרי ידעי שאלונהו לספרי דאביי וידעי ולספרי דרבא</row>
+		<row row_number="26" isdata="1">וידעי רב הונא בריה דרב יהושע אמר בין אקנייה וקנינא מיניה בין</row>
+		<row row_number="27" isdata="1">קנינא מיניה ואקנייה לא צריך ובדוכרן פתגמי דהוי באנפנא פליגי אמר</row>
+		<row row_number="28" isdata="1">רב כהנא אמריתה לשמעתא קמיה דרב זביד מנהרדעא ואמר לי אתון</row>
+		<row row_number="29" isdata="1">הכי מתניתו לה אנן הכי מתנינן לה אמר רבא אמר רב נחמן</row>
+		<row row_number="30" isdata="1">בהקנאה אינו צריך בין אקנייה וקנינא מיניה בין קנינא מיניה ואקנייה</row>
+		<row row_number="31" isdata="1">לא צריך בדוכרן פתגמי דהוו באנפנא פליגי הכותב נכסיו לבנו</row>
+		<row row_number="32" isdata="1">לאחר מותו איתמר מכר הבן בחיי האב ומת הבן בחיי האב</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:44.097273</dateCreated>
+   <lastModified>2019-12-21 20:28:44.097273</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה אשה"/><ContGemara/>שזנו עיניהם מן הערוה אמר רב ששת</row>
+		<row row_number="2" isdata="1">מפני מה מנה הכתוב תכשיטין שבחוץ עם</row>
+		<row row_number="3" isdata="1">תכשיטין שבפנים לומר לך כל המסתכל</row>
+		<row row_number="4" isdata="1">באצבע קטנה של אשה כאילו מסתכל</row>
+		<row row_number="5" isdata="1">במקום התורפהמתני' יוצאה אשה</row>
+		<row row_number="6" isdata="1">בחוטי שער בין משלה בין משל חבירתה</row>
+		<row row_number="7" isdata="1">בין משל בהמה ובטוטפת ובסרביטין בזמן</row>
+		<row row_number="8" isdata="1">שהן תפורין בכבול ובפאה נכרית לחצר</row>
+		<row row_number="9" isdata="1">במוך שבאזנה ובמוך שבסנדלה ובמוך</row>
+		<row row_number="10" isdata="1">שהתקינה לנדתה בפילפל ובגלגל מלח</row>
+		<row row_number="11" isdata="1">וכל דבר שניתן לתוך פיה ובלבד שלא תתן</row>
+		<row row_number="12" isdata="1">לכתחלה בשבת ואם נפל לא תחזיר שן</row>
+		<row row_number="13" isdata="1">תותבת שן של זהב רבי מתיר וחכמים</row>
+		<row row_number="14" isdata="1">אוסרים<EndMishna/><StartGemara/>גמ' וצריכא דאי אשמעינן דידה</row>
+		<row row_number="15" isdata="1">משום דלא מאיס אבל חבירתה דמאיס אימא</row>
+		<row row_number="16" isdata="1">לא ואי אשמעינן דחבירתה דבת מינה הוא</row>
+		<row row_number="17" isdata="1">אבל דבהמה לאו בר מינה הוא אימא לא</row>
+		<row row_number="18" isdata="1">צריכא תנא ובלבד שלא תצא ילדה בשל</row>
+		<row row_number="19" isdata="1">זקנה וזקנה בשל ילדה בשלמא זקנה בשל</row>
+		<row row_number="20" isdata="1">ילדה שבח הוא לה אלא ילדה בשל זקנה</row>
+		<row row_number="21" isdata="1">אמאי גנאי הוא לה איידי דתנא זקנה בשל</row>
+		<row row_number="22" isdata="1">ילדה תנא נמי ילדה בשל זקנה בכבול</row>
+		<row row_number="23" isdata="1">ובפאה נכרית לחצר אמר רב כל שאסרו</row>
+		<row row_number="24" isdata="1">חכמים לצאת בו לרה"ר אסור לצאת בו לחצר</row>
+		<row row_number="25" isdata="1">חוץ מכבול ופאה נכרית רבי ענני בר ששון</row>
+		<row row_number="26" isdata="1">משמיה דר' ישמעאל אמר הכל ככבול תנן</row>
+		<row row_number="27" isdata="1">בכבול ובפאה נכרית לחצר בשלמא לרב</row>
+		<row row_number="28" isdata="1">ניחא אלא לרבי ענני בר ששון קשיא רבי</row>
+		<row row_number="29" isdata="1">ענני בר ששון משמיה דמאן קאמר ליה</row>
+		<row row_number="30" isdata="1">משמיה דר' ישמעאל בר יוסי רבי ישמעאל</row>
+		<row row_number="31" isdata="1">בר יוסי תנא הוא ופליג ורב מאי שנא הני</row>
+		<row row_number="32" isdata="1">אמר עולא כדי שלא תתגנה על בעלה</row>
+		<row row_number="33" isdata="1">כדתניא והדוה בנדתה זקנים הראשונים</row>
+		<row row_number="34" isdata="1">אמרו שלא תכחול ולא תפקוס ולא תתקשט</row>
+		<row row_number="35" isdata="1">בבגדי צבעונין עד שבא ר"ע ולימד אם כן</row>
+		<row row_number="36" isdata="1">אתה מגנה על בעלה ונמצא בעלה מגרשה</row>
+		<row row_number="37" isdata="1">אלא מה ת"ל והדוה בנדתה בנדתה תהא</row>
+		<row row_number="38" isdata="1">עד שתבא במים אמר רב יהודה אמר רב כל</row>
+		<row row_number="39" isdata="1">מקום שאסרו חכמים מפני מראית העין אפילו</row>
+		<row row_number="40" isdata="1">בחדרי חדרים אסור תנן ולא בזוג אע"פ</row>
+		<row row_number="41" isdata="1">שפקוק ותניא אידך פוקק לה זוג בצוארה</row>
+		<row row_number="42" isdata="1">ומטייל עמה בחצר תנאי היא דתניא</row>
+</amud>
+</daf>
+</masechet>
+</root>

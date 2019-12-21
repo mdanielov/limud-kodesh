@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:52.269501</dateCreated>
+   <lastModified>2019-12-21 20:29:52.269501</lastModified>
+ </meta>
+ <masechet name="חגיגה" serial="13">
+<daf value="21">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חומר בקודש "/><ContGemara/>דקיטרא במיא אהדוקי מיהדק אבל רישא</row>
+		<row row_number="2" isdata="1">דמיא אקפויי מקפו ליה למנא לא הויא חציצה</row>
+		<row row_number="3" isdata="1">צריכא רבי אילא לטעמיה דאמר רבי אילא</row>
+		<row row_number="4" isdata="1">א"ר חנינא בר פפא עשר מעלות שנו כאן</row>
+		<row row_number="5" isdata="1">חמש ראשונות בין לקדש בין לחולין שנעשו</row>
+		<row row_number="6" isdata="1">על טהרת הקדש אחרונות לקדש אבל לא</row>
+		<row row_number="7" isdata="1">לחולין שנעשו על טהרת הקדש מ"ט חמש</row>
+		<row row_number="8" isdata="1">קמייתא דאית להו דררא דטומאה מדאורייתא</row>
+		<row row_number="9" isdata="1">גזרו בהו רבנן בין לקדש בין לחולין</row>
+		<row row_number="10" isdata="1">שנעשו על טהרת הקדש בתרייתא</row>
+		<row row_number="11" isdata="1">דלית להו דררא דטומאה מדאורייתא</row>
+		<row row_number="12" isdata="1">גזרו בהו רבנן לקדש לחולין שנעשו על</row>
+		<row row_number="13" isdata="1">טהרת הקדש לא גזרו בהו רבנן רבא</row>
+		<row row_number="14" isdata="1">אמר מדסיפא הוי משום חציצה רישא</row>
+		<row row_number="15" isdata="1">לאו משום חציצה ורישא היינו טעמא</row>
+		<row row_number="16" isdata="1">גזירה שלא יטביל מחטין וצינורות</row>
+		<row row_number="17" isdata="1">בכלי שאין בפיו כשפופרת הנוד כדתנן</row>
+		<row row_number="18" isdata="1">עירוב מקוואות כשפופרת הנוד כעוביה</row>
+</amud>
+</daf>
+</masechet>
+</root>

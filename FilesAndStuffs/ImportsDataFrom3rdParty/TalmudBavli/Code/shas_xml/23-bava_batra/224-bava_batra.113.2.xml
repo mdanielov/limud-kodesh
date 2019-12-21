@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:15.850196</dateCreated>
+   <lastModified>2019-12-21 20:31:15.850196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="113">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>למאי הלכתא אמר רב ששת לקדם תני</row>
+		<row row_number="2" isdata="1">רב שמואל בר רב יצחק קמיה דרב הונא וירש</row>
+		<row row_number="3" isdata="1">מקיש ירושה שניה לירושה ראשונה מה</row>
+		<row row_number="4" isdata="1">ירושה ראשונה בן קודם לבת אף ירושה</row>
+		<row row_number="5" isdata="1">שניה בן קודם לבת תני רבה בר חנינא</row>
+		<row row_number="6" isdata="1">קמיה דרב נחמן והיה ביום הנחילו את בניו</row>
+		<row row_number="7" isdata="1">ביום אתה מפיל נחלות ואי אתה מפיל נחלות</row>
+		<row row_number="8" isdata="1">בלילה א"ל אביי אלא מעתה דשכיב ביממא</row>
+		<row row_number="9" isdata="1">הוא דירתי ליה בניה מאן דשכיב בליליא</row>
+		<row row_number="10" isdata="1">לא ירתי ליה בניה דלמא דין נחלות קא</row>
+		<row row_number="11" isdata="1">אמרת דתניא והיתה לבני ישראל לחוקת</row>
+		<row row_number="12" isdata="1">משפט אורעה כל הפרשה כולה להיות דין</row>
+		<row row_number="13" isdata="1">וכדרב יהודה דאמר רב יהודה שלשה</row>
+		<row row_number="14" isdata="1">שנכנסו לבקר את החולה רצו כותבין</row>
+		<row row_number="15" isdata="1">רצו עושין דין שנים כותבין ואין עושין</row>
+		<row row_number="16" isdata="1">דין ואמר רב חסדא לא שנו אלא ביום</row>
+</amud>
+</daf>
+</masechet>
+</root>

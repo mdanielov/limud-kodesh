@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:03.366335</dateCreated>
+   <lastModified>2019-12-21 20:32:03.366335</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="24">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הקומץ"/><ContGemara/>מדרס ועשאו וילון טהור מן המדרס אבל</row>
+		<row row_number="2" isdata="1">טמא מגע מדרס א"ר יוסי באיזה מדרס</row>
+		<row row_number="3" isdata="1">נגע זה אלא שאם נגע בו הזב טמא מגע הזב</row>
+		<row row_number="4" isdata="1">כי נגע בו הזב מיהא טמא ואפי' לבסוף</row>
+		<row row_number="5" isdata="1">(כטמא מדרס ואח"כ מגע הזב) אמאי</row>
+		<row row_number="6" isdata="1">לימא שבע ליה טומאה א"ל וממאי דהאי</row>
+		<row row_number="7" isdata="1">שאם נגע בו הזב לבתר מדרס דילמא מקמי</row>
+		<row row_number="8" isdata="1">מדרס דהויא טומאה חמורה על טומאה קלה</row>
+		<row row_number="9" isdata="1">אבל הכא דאידי ואידי טומאה קלה לא אלא</row>
+		<row row_number="10" isdata="1">מסיפא מודה רבי יוסי בשני סדינין המקופלין</row>
+		<row row_number="11" isdata="1">ומונחין זה על זה וישב זב עליהן שהעליון</row>
+		<row row_number="12" isdata="1">טמא מדרס והתחתון טמא מדרס ומגע מדרס</row>
+		<row row_number="13" isdata="1">ואמאי לימא שבע ליה טומאה התם בבת</row>
+		<row row_number="14" isdata="1">אחת הכא בזה אחר זה אמר רבא עשרון</row>
+		<row row_number="15" isdata="1">שחלקו ואבד אחד מהן והפריש אחר תחתיו</row>
+		<row row_number="16" isdata="1">ונמצא הראשון והרי שלשתן מונחין בביסא</row>
+		<row row_number="17" isdata="1">נטמא אבוד אבוד וראשון מצטרפין מופרש</row>
+		<row row_number="18" isdata="1">אין מצטרף נטמא מופרש מופרש וראשון</row>
+		<row row_number="19" isdata="1">מצטרפין אבוד אין מצטרף נטמא ראשון</row>
+		<row row_number="20" isdata="1">שניהם מצטרפין אביי אמר אפילו נטמא אחד</row>
+		<row row_number="21" isdata="1">מהן נמי שניהם מצטרפין מ"ט כולהו בני</row>
+		<row row_number="22" isdata="1">ביקתא דהדדי נינהו וכן לענין קמיצה קמץ</row>
+		<row row_number="23" isdata="1">מן האבוד שיריו וראשון נאכלין מופרש אינו</row>
+		<row row_number="24" isdata="1">נאכל קמץ מן המופרש שיריו וראשון נאכלין</row>
+		<row row_number="25" isdata="1">אבוד אינו נאכל קמץ מן ראשון שניהם אינן</row>
+		<row row_number="26" isdata="1">נאכלין אביי אמר אפילו קמץ מאחד מהן</row>
+		<row row_number="27" isdata="1">שניהן אינן נאכלין מ"ט כולהו נמי בני</row>
+		<row row_number="28" isdata="1">ביקתא דהדדי נינהו מתקיף לה רב פפא</row>
+		<row row_number="29" isdata="1">ושירים דידיה מיהא נאכלין הא איכא</row>
+		<row row_number="30" isdata="1">דנקא דקומץ דלא קריב מתקיף לה רב</row>
+		<row row_number="31" isdata="1">יצחק בריה דרב משרשיא וקומץ גופיה</row>
+		<row row_number="32" isdata="1">היכי קריב הא איכא תלתא חולין רב</row>
+		<row row_number="33" isdata="1">אשי אמר קומץ בדעתא דכהן תליא</row>
+		<row row_number="34" isdata="1">מילתא וכהן כי קמיץ אעשרון קא קמיץ</row>
+</amud>
+</daf>
+</masechet>
+</root>

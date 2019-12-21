@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:23.493927</dateCreated>
+   <lastModified>2019-12-21 20:32:23.493927</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="102">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "גיד הנשה"/><ContGemara/>לא תאכל הנפש עם הבשר ר' יהודה ור'</row>
+		<row row_number="2" isdata="1">אלעזר סברי כל שאתה מצווה על דמו</row>
+		<row row_number="3" isdata="1">אתה מצווה על אבריו והני טמאין נמי</row>
+		<row row_number="4" isdata="1">הואיל ואתה מצווה על דמן אתה מצווה</row>
+		<row row_number="5" isdata="1">על אברין ורבנן סברי לא תאכל הנפש עם</row>
+		<row row_number="6" isdata="1">הבשר אלא בשר לחודיה כל שבשרו מותר</row>
+		<row row_number="7" isdata="1">אתה מצווה על אבריו וכל שאין בשרו</row>
+		<row row_number="8" isdata="1">מותר אי אתה מצווה על אבריו ור' יהודה</row>
+		<row row_number="9" isdata="1">למה ליה קרא ליתי איסור אבר ליחול על</row>
+		<row row_number="10" isdata="1">איסור טומאה שכן איסורו נוהג בבני נח</row>
+		<row row_number="11" isdata="1">אין הכי נמי וכי איצטריך קרא לרבי אלעזר</row>
+		<row row_number="12" isdata="1">תניא נמי הכי אבר מן החי נוהג בבהמה</row>
+		<row row_number="13" isdata="1">חיה ועוף בין טמאה בין טהורה שנאמר</row>
+		<row row_number="14" isdata="1">רק חזק לבלתי אכול הדם כל שאתה</row>
+		<row row_number="15" isdata="1">מצווה על דמו אתה מצווה על אבריו וכל</row>
+		<row row_number="16" isdata="1">שאי אתה מצווה על דמו אי אתה מצווה</row>
+		<row row_number="17" isdata="1">על אבריו דברי רבי אלעזר וחכמים אומרים</row>
+		<row row_number="18" isdata="1">אינו נוהג אלא בטהורין שנאמר לא תאכל</row>
+		<row row_number="19" isdata="1">הנפש עם הבשר אלא בשר לחודיה כל</row>
+		<row row_number="20" isdata="1">שבשרו מותר אתה מצווה על אבריו וכל</row>
+		<row row_number="21" isdata="1">שאין בשרו מותר אין אתה מצווה על</row>
+		<row row_number="22" isdata="1">אבריו ר' מאיר אומר אינו נוהג אלא בבהמה</row>
+		<row row_number="23" isdata="1">טהורה בלבד (סימן שמואל שילא שימי)</row>
+		<row row_number="24" isdata="1">אמר רבה בר שמואל אמר רב חסדא</row>
+		<row row_number="25" isdata="1">ואיתימא רב יוסף ואמרי לה אמר רבה בר</row>
+		<row row_number="26" isdata="1">שילא אמר רב חסדא ואיתימא רב יוסף</row>
+		<row row_number="27" isdata="1">ואמרי לה רבה בר שימי אמר רב חסדא</row>
+		<row row_number="28" isdata="1">ואיתימא רב יוסף מאי טעמא דר"מ אמר</row>
+		<row row_number="29" isdata="1">קרא וזבחת מבקרך ומצאנך אמר רב גידל</row>
+		<row row_number="30" isdata="1">אמר רב מחלוקת בישראל  אבל בבן נח</row>
+		<row row_number="31" isdata="1">דברי הכל מוזהר על הטמאין כטהורין תניא</row>
+		<row row_number="32" isdata="1">נמי הכי אבר מן החי בן נח מוזהר עליו</row>
+		<row row_number="33" isdata="1">על הטמאים כטהורים וישראל אינו מוזהר</row>
+		<row row_number="34" isdata="1">אלא על הטהורין בלבד איכא דאמרי טהורה</row>
+		<row row_number="35" isdata="1">ור"מ איכא דאמרי טהורים ורבנן אמר רב</row>
+		<row row_number="36" isdata="1">שיזבי אף אנן נמי תנינא אכל אבר מן</row>
+		<row row_number="37" isdata="1">החי ממנה אינו סופג ארבעים ואין שחיטה</row>
+		<row row_number="38" isdata="1">מטהרתה במאי אילימא בישראל פשיטא</row>
+		<row row_number="39" isdata="1">דאין שחיטה מטהרתה אלא לאו בבני נח</row>
+		<row row_number="40" isdata="1">מכלל דאסור רבי מני בר פטיש רמי רישא</row>
+		<row row_number="41" isdata="1">אסיפא ומשני רישא בישראל וסיפא בבן</row>
+		<row row_number="42" isdata="1">נח אמר רב אבר מן החי צריך כזית מ"ט</row>
+		<row row_number="43" isdata="1">אכילה כתיבה ביה מתיב רב עמרם אכל</row>
+		<row row_number="44" isdata="1">אבר מן החי ממנה אינו סופג את הארבעים ואין שחיטה מטהרתה ואי סלקא</row>
+		<row row_number="45" isdata="1">דעתך בעינן כזית תיפוק ליה דקאכל כזית כדאמר רב נחמן במשהו בשר</row>
+		<row row_number="46" isdata="1">גידין ועצמות הכא נמי במשהו בשר גידין ועצמות תא שמע דאמר רב</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:45.283911</dateCreated>
+   <lastModified>2019-12-21 20:31:45.283911</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="32">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אין מעמידין"/><ContGemara/>אין עליו קורט דם מותר אמר רב הונא לא</row>
+		<row row_number="2" isdata="1">שנו אלא שלא מלחו אבל מלחו אסור אימא</row>
+		<row row_number="3" isdata="1">מלחו העברתו רשב"ג אומר בזמן שהקרע</row>
+		<row row_number="4" isdata="1">שלו עגול אסור משוך מותר אמר רב יוסף</row>
+		<row row_number="5" isdata="1">אמר רב יהודה אמר שמואל הלכה כרשב"ג</row>
+		<row row_number="6" isdata="1">א"ל אביי הלכה מכלל דפליגי א"ל מאי נפקא</row>
+		<row row_number="7" isdata="1">לך מינה א"ל גמרא גמור זמורתא תהא</row>
+		<row row_number="8" isdata="1">בשר הנכנס לעבודת כוכבים מותר מאן</row>
+		<row row_number="9" isdata="1">תנא אמר ר' חייא בר אבא א"ר יוחנן דלא</row>
+		<row row_number="10" isdata="1">כרבי אלעזר דאי כרבי אלעזר האמר</row>
+		<row row_number="11" isdata="1">סתם מחשבת עובד כוכבים לעבודת</row>
+		<row row_number="12" isdata="1">כוכבים והיוצא אסור מפני שהוא כזבחי</row>
+		<row row_number="13" isdata="1">מתים מ"ט אי אפשר דליכא תקרובת</row>
+		<row row_number="14" isdata="1">עבודת כוכבים מני רבי יהודה בן בתירא היא</row>
+		<row row_number="15" isdata="1">דתניא רבי יהודה בן בתירא אומר מנין</row>
+		<row row_number="16" isdata="1">לתקרובת עבודת כוכבים שמטמא באהל</row>
+		<row row_number="17" isdata="1">שנאמר ויצמדו לבעל פעור ויאכלו זבחי</row>
+		<row row_number="18" isdata="1">מתים מה מת מטמא באהל אף תקרובת</row>
+		<row row_number="19" isdata="1">עבודת כוכבים מטמאה באהל ההולכין</row>
+		<row row_number="20" isdata="1">לתרפות אסורין לשאת ולתת עמהם אמר</row>
+		<row row_number="21" isdata="1">שמואל עובד כוכבים ההולך לתרפות</row>
+		<row row_number="22" isdata="1">בהליכה אסור דאזיל ומודי קמי עבודת כוכבים בחזרה מותר מאי דהוה הוה ישראל</row>
+		<row row_number="23" isdata="1">ההולך לתרפות בהליכה מותר דלמא הדר ביה ולא אזיל בחזרה אסור כיון</row>
+</amud>
+</daf>
+</masechet>
+</root>

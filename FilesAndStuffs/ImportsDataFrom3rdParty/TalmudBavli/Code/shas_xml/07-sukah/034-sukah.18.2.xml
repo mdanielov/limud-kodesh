@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:31.057404</dateCreated>
+   <lastModified>2019-12-21 20:29:31.057404</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="18">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContGemara/>אמרינן פי תקרה יורד וסותם רבא אמר</row>
+		<row row_number="2" isdata="1">פסולה לא אמרינן פי תקרה יורד וסותם</row>
+		<row row_number="3" isdata="1">אמר ליה רבא לאביי לדידך דאמרת פי</row>
+		<row row_number="4" isdata="1">תקרה יורד וסותם אפילו הפחית דופן אמצעי</row>
+		<row row_number="5" isdata="1">אמר ליה מודינא לך בההיא דהוה ליה כמבוי</row>
+		<row row_number="6" isdata="1">המפולש לימא אביי ורבא בפלוגתא דרב</row>
+		<row row_number="7" isdata="1">ושמואל קמיפלגי דאתמר אכסדרה בבקעה</row>
+		<row row_number="8" isdata="1">רב אמר מותר לטלטל בכולו דאמרינן פי</row>
+		<row row_number="9" isdata="1">תקרה יורד וסותם ושמואל אמר אין מטלטלין</row>
+		<row row_number="10" isdata="1">בה אלא בד' אמות דלא אמרינן פי תקרה</row>
+		<row row_number="11" isdata="1">יורד וסותם אליבא דשמואל כ"ע לא פליגי</row>
+</amud>
+</daf>
+</masechet>
+</root>

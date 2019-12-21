@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:32.259224</dateCreated>
+   <lastModified>2019-12-21 20:32:32.259224</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="52">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יש בכור"/><ContGemara/>ולא האשה בכתובתה ולא הבנות במזונותיהן</row>
+		<row row_number="2" isdata="1">ולא (את) היבם וכולם אין נוטלין בשבח ולא</row>
+		<row row_number="3" isdata="1">בראוי כבמוחזק<EndMishna/><StartGemara/>גמ' מ"ט אמר קרא ולו</row>
+		<row row_number="4" isdata="1">משפט הבכורה משפט הבכורה לאיש ואין</row>
+		<row row_number="5" isdata="1">משפט הבכורה לאשה ואינו נוטל בשבח</row>
+		<row row_number="6" isdata="1">דכתיב בכל אשר ימצא לו ולא בראוי כבמוחזק</row>
+		<row row_number="7" isdata="1">דכתיב בכל אשר ימצא לו ולא האשה</row>
+		<row row_number="8" isdata="1">בכתובתה איני והאמר שמואל בעל חוב גובה</row>
+		<row row_number="9" isdata="1">את השבח א"ר אבא מקולי כתובה שנו כאן</row>
+		<row row_number="10" isdata="1">ולא הבנות במזונותיהן מ"ט תנאי כתובה</row>
+		<row row_number="11" isdata="1">ככתובה דמי ולא (את) היבם מ"ט בכור</row>
+		<row row_number="12" isdata="1">קרייה רחמנא אמר אביי ל"ש אלא בשבח</row>
+		<row row_number="13" isdata="1">ששבחו נכסים בין מיתה ליבום אבל דבין יבום</row>
+		<row row_number="14" isdata="1">לחלוקה שקיל מ"ט יקום על שם אחיו המת</row>
+		<row row_number="15" isdata="1">אמר רחמנא והרי קם רבא אמר אפי' דבין</row>
+		<row row_number="16" isdata="1">יבום לחלוקה נמי לא שקיל מ"ט כבכור מה</row>
+		<row row_number="17" isdata="1">בכור אין לו קודם חלוקה אף יבם נמי אין לו</row>
+		<row row_number="18" isdata="1">קודם חלוקה וכולם אין נוטלין בשבח</row>
+</amud>
+</daf>
+</masechet>
+</root>

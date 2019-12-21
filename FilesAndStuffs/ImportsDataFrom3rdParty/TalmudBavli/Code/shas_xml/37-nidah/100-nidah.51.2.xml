@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:49.114362</dateCreated>
+   <lastModified>2019-12-21 20:32:49.114362</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="51">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בא סימן"/><ContGemara/>והא שבת דמיחייב בפאה ומיחייב</row>
+		<row row_number="2" isdata="1">במעשר דתנן כל שחייב בפאה חייב</row>
+		<row row_number="3" isdata="1">במעשר ומדחייב במעשר מטמא טומאת</row>
+		<row row_number="4" isdata="1">אוכלין אלמא כל מילי דעביד לטעמא מטמא</row>
+		<row row_number="5" isdata="1">טומאת אוכלין דהאי שבת לטעמא עבידא</row>
+		<row row_number="6" isdata="1">ורמינהי הקושט והחימום וראשי בשמים</row>
+		<row row_number="7" isdata="1">והתיאה והחלתית והפלפלים וחלת חריע</row>
+		<row row_number="8" isdata="1">נקחין בכסף מעשר ואין מטמאין טומאת</row>
+		<row row_number="9" isdata="1">אוכלין דברי רבי עקיבא אמר לו רבי יוחנן</row>
+		<row row_number="10" isdata="1">בן נורי אם נקחין בכסף מעשר מפני מה</row>
+		<row row_number="11" isdata="1">אין מטמאין טומאת אוכלין ואם אינן מטמאין</row>
+		<row row_number="12" isdata="1">אף הם לא ילקחו בכסף מעשר וא"ר יוחנן</row>
+		<row row_number="13" isdata="1">בן נורי נמנו וגמרו שאין נקחין בכסף מעשר</row>
+		<row row_number="14" isdata="1">ואין מטמאין טומאת אוכלין אמר רב חסדא</row>
+		<row row_number="15" isdata="1">כי תניא ההיא בשבת העשויה לכמך אמר</row>
+		<row row_number="16" isdata="1">רב אשי אמריתה לשמעתי' קמיה דרב</row>
+		<row row_number="17" isdata="1">כהנא (אמר) לא תימא בשבת העשויה</row>
+		<row row_number="18" isdata="1">לכמך הא סתמא לקדרה אלא סתם שבת</row>
+		<row row_number="19" isdata="1">לכמך עשויה דתנן השבת משנתנה טעם</row>
+		<row row_number="20" isdata="1">בקדרה אין בה משום תרומה ואינה מטמאה</row>
+		<row row_number="21" isdata="1">טומאת אוכלין הא עד שלא נתנה טעם</row>
+		<row row_number="22" isdata="1">בקדרה יש בה משום תרומה ומטמאה</row>
+		<row row_number="23" isdata="1">טומאת אוכלין ואי ס"ד סתמא לקדרה כי</row>
+		<row row_number="24" isdata="1">לא נתנה נמי סתמא לקדרה אלא לאו ש"מ</row>
+		<row row_number="25" isdata="1">סתמא לכמך עשויה ש"ממתני' כל</row>
+		<row row_number="26" isdata="1">שחייב בראשית הגז חייב במתנות ויש</row>
+		<row row_number="27" isdata="1">שחייב במתנות ואינו חייב בראשית הגז כל</row>
+		<row row_number="28" isdata="1">שיש לו ביעור יש לו שביעית ויש שיש</row>
+		<row row_number="29" isdata="1">לו שביעית ואין לו ביעור<EndMishna/><StartGemara/>גמ' כגון עלה</row>
+		<row row_number="30" isdata="1">הלוף שוטה והדנדנה יש שיש לו שביעית</row>
+		<row row_number="31" isdata="1">ואין לו ביעור עיקר הלוף שוטה ועיקר</row>
+		<row row_number="32" isdata="1">הדנדנה דכתיב ולבהמתך ולחיה אשר</row>
+		<row row_number="33" isdata="1">בארצך תהיה כל תבואתה לאכול כל זמן</row>
+		<row row_number="34" isdata="1">שחיה אוכלת מן השדה אתה מאכיל</row>
+		<row row_number="35" isdata="1">לבהמתך בבית כלה לחיה מן השדה כלה</row>
+		<row row_number="36" isdata="1">לבהמתך שבבית והני לא כלו להומתני'</row>
+		<row row_number="37" isdata="1">כל שיש לו קשקשת יש לו סנפיר ויש</row>
+		<row row_number="38" isdata="1">שיש לו סנפיר ואין לו קשקשת כל שיש לו</row>
+		<row row_number="39" isdata="1">קרנים יש לו טלפים ויש שיש לו טלפים ואין</row>
+		<row row_number="40" isdata="1">לו קרנים<EndMishna/><StartGemara/>גמ' כל שיש לו קשקשת דג</row>
+		<row row_number="41" isdata="1">טהור יש שיש לו סנפיר ואין לו קשקשת</row>
+		<row row_number="42" isdata="1">דג טמא מכדי אנן אקשקשת סמכינן</row>
+		<row row_number="43" isdata="1">סנפיר דכתב רחמנא למה לי אי לא כתב</row>
+		<row row_number="44" isdata="1">רחמנא סנפיר הוה אמינא מאי קשקשת</row>
+		<row row_number="45" isdata="1">דכתיב סנפיר ואפילו דג טמא כתב רחמנא</row>
+		<row row_number="46" isdata="1">סנפיר וקשקשת והשתא דכתב רחמנא סנפיר</row>
+		<row row_number="47" isdata="1">וקשקשת מנלן דקשקשת לבושא הוא</row>
+		<row row_number="48" isdata="1">דכתיב ושריון קשקשים הוא לבוש ולכתוב</row>
+		<row row_number="49" isdata="1">רחמנא קשקשת ולא בעי סנפיר א"ר אבהו</row>
+		<row row_number="50" isdata="1">וכן תנא דבי רבי ישמעאל יגדיל תורה</row>
+		<row row_number="51" isdata="1">ויאדירמתני' כל הטעון ברכה לאחריו</row>
+		<row row_number="52" isdata="1">טעון ברכה לפניו ויש שטעון ברכה לפניו</row>
+		<row row_number="53" isdata="1">ואין טעון ברכה לאחריו<EndMishna/><StartGemara/>גמ' לאתויי מאי</row>
+		<row row_number="54" isdata="1">לאתויי ירק ולרבי יצחק דמברך אירק לאתויי</row>
+		<row row_number="55" isdata="1">מאי לאתויי מיא ולרב פפא דמברך אמיא</row>
+		<row row_number="56" isdata="1">לאתויי מאי לאתויי מצות ולבני מערבא דמברכי בתר דסליקו תפילייהו</row>
+		<row row_number="57" isdata="1">אשר קדשנו במצותיו וצונו לשמור חוקיו לאתויי מאי לאתויי</row>
+</amud>
+</daf>
+</masechet>
+</root>

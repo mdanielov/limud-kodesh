@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:30.900426</dateCreated>
+   <lastModified>2019-12-21 20:32:30.900426</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="39">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "על אלו מומין"/><ContGemara/>או דלמא בכל סעודה וסעודה אם תימצי</row>
+		<row row_number="2" isdata="1">לומר בסעודה ראשונה קודם אכילה או</row>
+		<row row_number="3" isdata="1">לאחר אכילה קודם אכילה ודאי מעלי ליה</row>
+		<row row_number="4" isdata="1">כסמא לאחר אכילה מאי קודם שתיה או</row>
+		<row row_number="5" isdata="1">לאחר שתיה וקודם שתיה ודאי מעלי</row>
+		<row row_number="6" isdata="1">ליה כשערי לאחר שתיה מאי קשור או מותר</row>
+		<row row_number="7" isdata="1">מותר ודאי מעלי ליה קשור מאי לבדו או עם</row>
+		<row row_number="8" isdata="1">חבירו עם חבירו ודאי מעלי ליה לבדו מאי</row>
+		<row row_number="9" isdata="1">בעיר ובשדה בשדה ודאי מעלי ליה בעיר</row>
+		<row row_number="10" isdata="1">מאי בעי רב אשי אם תימצי לומר בשדה</row>
+		<row row_number="11" isdata="1">גינה הסמוכה לעיר מאי תיקו ר"ח בן</row>
+		<row row_number="12" isdata="1">אנטיגנוס אומר [וכו'] אמר רב נחמן</row>
+		<row row_number="13" isdata="1">בר יצחק ובלבד שיהו משולשים בעי</row>
+		<row row_number="14" isdata="1">מיניה פנחס אחוה דמר שמואל משמואל</row>
+		<row row_number="15" isdata="1">אכל ולא איתסי למפרע הוי מומא או מיכן</row>
+		<row row_number="16" isdata="1">ולהבא הוי מומא למאי נ"מ למימעל בפדיונו</row>
+		<row row_number="17" isdata="1">אי אמרת למפרע הוי מומא מעיל ואי מיכן</row>
+		<row row_number="18" isdata="1">ולהבא הוי מומא לא מעיל מאי קרי שמואל</row>
+		<row row_number="19" isdata="1">עליה פסחים בזזו (בוז)מתני' חוטמו</row>
+		<row row_number="20" isdata="1">שניקב ושנפגם ושנסדק שפמו שניקבה</row>
+		<row row_number="21" isdata="1">שנפגמה שנסדקה<EndMishna/><StartGemara/>גמ' ת"ר ניקבו חוטמין</row>
+		<row row_number="22" isdata="1">זה לתוך זה מבחוץ הרי זה מום מבפנים אינו</row>
+		<row row_number="23" isdata="1">מום שפתו שניקבה ושנפגמה ושנסדקה</row>
+		<row row_number="24" isdata="1">אמר רב פפא תורא ברא דשיפתיהמתני'</row>
+		<row row_number="25" isdata="1">חוטין החיצונות שנפגמו ושנגממו</row>
+		<row row_number="26" isdata="1">הפנימים שנעקרו רבי חנינא בן אנטיגנוס</row>
+		<row row_number="27" isdata="1">אומר אין בודקין מן התיומת ולפנים ואף לא את התיומת<EndMishna/><StartGemara/>גמ' ת"ר</row>
+		<row row_number="28" isdata="1">התיומת איזהו תיומת מן התיומת ולפנים ותיומת עצמה כלפנים רבי יהושע</row>
+		<row row_number="29" isdata="1">בן קפוצאי אומר אין שוחטין אלא על החיצונות בלבד רבי חנינא בן אנטיגנוס</row>
+		<row row_number="30" isdata="1">אומר אין משגיחין על התיומת כל עיקר מאי קאמר ותו רבי יהושע בן קפוצאי</row>
+		<row row_number="31" isdata="1">היינו תנא קמא חסורי מיחסרא והכי קתני איזהו הפנימית מן התיומת ולפנים</row>
+		<row row_number="32" isdata="1">ותיומת עצמה כלפנים בד"א שנפגמו ושנגממו אבל נעקרו שוחטין ר' יהושע</row>
+		<row row_number="33" isdata="1">בן קפוצאי אומר אין שוחטין אלא על החיצונות אבל פנימיות שנעקרו</row>
+		<row row_number="34" isdata="1">מישחט עלייהו לא שחטינן אבל אפסולי מיפסל ר' חנינא בן אנטיגנוס</row>
+		<row row_number="35" isdata="1">אומר אין משגיחין על התיומת כל עיקר ואפי' איפסולי לא איפסיל בעי</row>
+		<row row_number="36" isdata="1">רב אחדבוי בר אמי יש מחוסר אבר מבפנים או אין מחוסר אבר</row>
+		<row row_number="37" isdata="1">מבפנים למאי אי לבכור פסח או עור כתיב אי לקדשים עורת או שבור</row>
+		<row row_number="38" isdata="1">כתיב לאישחוטי ולאיפרוקי לא איבעיא לן כי מיבעיא לן לאיפסולי מאי</row>
+		<row row_number="39" isdata="1">תמים יהיה לרצון אמר רחמנא תמים אין חסרון לא או דלמא תמים יהיה</row>
+		<row row_number="40" isdata="1">לרבות כל מום לא יהיה בו מה מום מאבראי אף חסרון מאבראי ת"ש ואת</row>
+		<row row_number="41" isdata="1">שתי הכליות ולא בעל כוליא אחת ולא בעל שלש כוליות ותניא אידך יסירנה</row>
+		<row row_number="42" isdata="1">לרבות בעל כוליא אחת סברוה דכ"ע אין בריה באחת דהא מיחסר</row>
+		<row row_number="43" isdata="1">חסר לימא בהא קמיפלגי דמר סבר חסרון מבפנים שמיה חסרון ומר סבר</row>
+		<row row_number="44" isdata="1">חסרון מבפנים לא שמיה חסרון אמר רב חייא בר יוסף דכ"ע יש בריה</row>
+		<row row_number="45" isdata="1">באחת וחסרון מבפנים שמיה חסרון ולא קשיא כאן כשנבראה בשתים</row>
+		<row row_number="46" isdata="1">וחסרו כאן כשנבראה באחת מעיקרא והא דומיא דשלש קתני מה שלש</row>
+		<row row_number="47" isdata="1">מעיקרא אף אחת מעיקרא אלא הכא ביש בריה מעיקרא קמיפלגי מר</row>
+		<row row_number="48" isdata="1">סבר יש בריה באחת ומר סבר אין בריה באחת ור' יוחנן אמר דכולי עלמא</row>
+		<row row_number="49" isdata="1">אין בריה באחת וחסרון מבפנים שמיה חסרון ולא קשיא כאן שחסרה</row>
+		<row row_number="50" isdata="1">קודם שחיטה כאן שחסרה לאחר שחיטה ולאחר שחיטה קודם קבלה מי שרי</row>
+</amud>
+</daf>
+</masechet>
+</root>

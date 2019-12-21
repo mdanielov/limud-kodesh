@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:24.800497</dateCreated>
+   <lastModified>2019-12-21 20:30:24.800497</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="66">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הכותים אין להם נזירות"/><ContGemara/>אמר רבא לא תימא ספק חזא ספק לא חזא</row>
+		<row row_number="2" isdata="1">אלא ודאי חזא ספק מחמת שכבת זרע</row>
+		<row row_number="3" isdata="1">ספק מחמת ראייה כיון שנזקק לטומאה</row>
+		<row row_number="4" isdata="1">ספיקו טמא שכבת זרעו טמאה למאי אילימא</row>
+		<row row_number="5" isdata="1">למגע מי גרע משכבת זרע דטהור אלא</row>
+		<row row_number="6" isdata="1">זרעו של זב מטמא במשא מאן שמעת להא</row>
+		<row row_number="7" isdata="1">דאמר שכבת זרע של זב מטמא במשא</row>
+		<row row_number="8" isdata="1">אילימא האי תנא דתניא רבי אליעזר אומר</row>
+		<row row_number="9" isdata="1">שכבת זרעו של זב אינו מטמא במשא ורבי</row>
+		<row row_number="10" isdata="1">יהושע אומר מטמא במשא לפי שאי</row>
+		<row row_number="11" isdata="1">אפשר לה בלא ציחצוחי זיבה אפי' רבי</row>
+		<row row_number="12" isdata="1">יהושע לא אמר אלא משום ציחצוחי זיבה</row>
+		<row row_number="13" isdata="1">אבל בעיניה לא אמר אלא אמר רב אדא</row>
+		<row row_number="14" isdata="1">בר אהבה לומר שאין תולין בה סבר רב</row>
+		<row row_number="15" isdata="1">פפא קמיה דרבא למימר איידי חולשא הוא</row>
+		<row row_number="16" isdata="1">דחזי א"ל רבא והתנן גר שנתגייר מטמא</row>
+		<row row_number="17" isdata="1">מיד בזיבה א"ל אין לך חולי גדול מזה</row>
+		<row row_number="18" isdata="1">אלא תנאי היא דתניא שכבת זרע של זב</row>
+		<row row_number="19" isdata="1">מטמא במשא כל מעת לעת ור' יוסי אומר</row>
+		<row row_number="20" isdata="1">יומו במאי קמיפלגי בדשמואל דשמואל</row>
+		<row row_number="21" isdata="1">רמי כתיב כי יהיה בך איש אשר לא</row>
+		<row row_number="22" isdata="1">יהיה טהור מקרה לילה וכתיב לפנות ערב</row>
+		<row row_number="23" isdata="1">ירחץ במים מ"ד מעת לעת דייק מלפנות</row>
+		<row row_number="24" isdata="1">ערב ואידך דייק מקרה לילה ומ"ד מלפנות</row>
+		<row row_number="25" isdata="1">ערב הכתיב מקרה לילה א"ל אורחא דקרי</row>
+		<row row_number="26" isdata="1">למתיא בליליאמתני' נזיר היה שמואל</row>
+		<row row_number="27" isdata="1">כדברי ר' נהוראי שנא' ומורה לא יעלה</row>
+		<row row_number="28" isdata="1">על ראשו נאמר בשמשון ומורה ונאמר</row>
+		<row row_number="29" isdata="1">בשמואל ומורה מה מורה האמורה בשמשון</row>
+		<row row_number="30" isdata="1">נזיר אף מורה האמורה בשמואל נזיר א"ר</row>
+		<row row_number="31" isdata="1">יוסי והלא אין מורה אלא של בשר ודם</row>
+		<row row_number="32" isdata="1">א"ל רבי נהוראי והלא כבר נאמר</row>
+		<row row_number="33" isdata="1">ויאמר שמואל איך אלך ושמע שאול</row>
+		<row row_number="34" isdata="1">והרגני שכבר היה עליו מורא של</row>
+		<row row_number="35" isdata="1">בשר ודם<EndMishna/><StartGemara/>גמ' א"ל רב לחייא בריה</row>
+</amud>
+</daf>
+</masechet>
+</root>

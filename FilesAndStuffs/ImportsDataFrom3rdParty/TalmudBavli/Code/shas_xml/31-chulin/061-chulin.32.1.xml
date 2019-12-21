@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:14.187178</dateCreated>
+   <lastModified>2019-12-21 20:32:14.187178</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="32">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט"/><ContGemara/>נשחטה בהמה אחרת עמה לרבי נתן פרה</row>
+		<row row_number="2" isdata="1">פסולה בהמה כשרה לרבנן פרה כשרה</row>
+		<row row_number="3" isdata="1">בהמה פסולה פשיטא נשחטה בהמה אחרת</row>
+		<row row_number="4" isdata="1">לרבי נתן איצטריכא ליה סד"א ושחט אותה</row>
+		<row row_number="5" isdata="1">אמר רחמנא ולא אותה וחבירתה והיכי דמי</row>
+		<row row_number="6" isdata="1">כגון ששחט שתי פרות בהדי הדדי אבל</row>
+		<row row_number="7" isdata="1">בהמה דחולין אימא לא קמ"ל חתך דלעת</row>
+		<row row_number="8" isdata="1">עמה דברי הכל פסולה נחתכה דלעת עמה</row>
+		<row row_number="9" isdata="1">דברי הכל כשרהמתני' נפלה סכין</row>
+		<row row_number="10" isdata="1">והגביהה נפלו כליו והגביהן השחיז את הסכין</row>
+		<row row_number="11" isdata="1">ועף בא חבירו ושחט אם שהה כדי שחיטה</row>
+		<row row_number="12" isdata="1">פסולה רבי שמעון אומר אם שהה כדי</row>
+		<row row_number="13" isdata="1">ביקור<EndMishna/><StartGemara/>גמ' מאי כדי שחיטה אמר רב כדי</row>
+		<row row_number="14" isdata="1">שחיטת בהמה אחרת אמרי ליה רב כהנא</row>
+		<row row_number="15" isdata="1">ורב אסי לרב כדי שחיטת בהמה לבהמה</row>
+		<row row_number="16" isdata="1">ועוף לעוף או דלמא אף בהמה לעוף אמר</row>
+		<row row_number="17" isdata="1">להו לא הוה בדיחנא ביה בחביבי דאישייליה</row>
+		<row row_number="18" isdata="1">אתמר אמר רב כדי שחיטת בהמה לבהמה</row>
+		<row row_number="19" isdata="1">ועוף לעוף ושמואל אמר אפילו בהמה לעוף</row>
+		<row row_number="20" isdata="1">וכן כי אתא רבין אמר רבי יוחנן אפילו בהמה</row>
+		<row row_number="21" isdata="1">לעוף רבי חנניא אמר כדי שיביא בהמה</row>
+		<row row_number="22" isdata="1">אחרת וישחוט יביא אפילו מעלמא נתת</row>
+		<row row_number="23" isdata="1">דבריך לשיעורין אמר רב פפא עומדת להטיל</row>
+		<row row_number="24" isdata="1">איכא בינייהו אמרי במערבא משמיה דרבי</row>
+		<row row_number="25" isdata="1">יוסי ברבי חנינא כדי שיגביהנה וירביצנה</row>
+		<row row_number="26" isdata="1">וישחוט דקה לדקה וגסה לגסה אמר רבא</row>
+		<row row_number="27" isdata="1">השוחט בסכין רעה אפילו כל היום כולו</row>
+		<row row_number="28" isdata="1">כשרה בעי רבא שהיות מהו שיצטרפו</row>
+		<row row_number="29" isdata="1">ותפשוט לה מדידיה התם בדלא שהה בעי</row>
+		<row row_number="30" isdata="1">רב הונא בריה דרב נתן שהה במיעוט</row>
+		<row row_number="31" isdata="1">סימנים מהו תיקו ר"ש אומר אם שהה [כדי</row>
+		<row row_number="32" isdata="1">ביקור] מאי כדי ביקור אמר רבי יוחנן כדי</row>
+		<row row_number="33" isdata="1">ביקרו של חכם אם כן נתת דבריך לשיעורין</row>
+		<row row_number="34" isdata="1">אלא כדי ביקור טבח חכםמתני' שחט את</row>
+		<row row_number="35" isdata="1">הוושט ופסק את הגרגרת או פסק את</row>
+		<row row_number="36" isdata="1">הגרגרת ואח"כ שחט את הוושט או שחט אחד</row>
+		<row row_number="37" isdata="1">מהן והמתין לה עד שמתה או שהחליד את</row>
+		<row row_number="38" isdata="1">הסכין תחת השני ופסקו רבי ישבב אומר</row>
+		<row row_number="39" isdata="1">נבלה ר"ע אומר טרפה כלל אמר רבי ישבב</row>
+		<row row_number="40" isdata="1">משום רבי יהושע כל שנפסלה בשחיטתה</row>
+		<row row_number="41" isdata="1">נבלה כל ששחיטתה כראוי ודבר אחר גרם לה</row>
+		<row row_number="42" isdata="1">ליפסל טרפה והודה לו רבי עקיבא<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="43" isdata="1">שחט את הוושט וכו' והודה לו רבי עקיבא ורמינהי אלו טרפות בבהמה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:11.129199</dateCreated>
+   <lastModified>2019-12-21 20:31:11.129199</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="63">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הבית"/><ContGemara/>ולא היא דאמר רב יימר בר שלמיה לדידי</row>
+		<row row_number="2" isdata="1">מפרשא לי מיניה דאביי בין מצר ארעא</row>
+		<row row_number="3" isdata="1">דמינה פלגא ובין מצר ארעא דמינה פסיקא</row>
+		<row row_number="4" isdata="1">אי א"ל אלין מצרנהא פלגא לא א"ל אלין</row>
+		<row row_number="5" isdata="1">מצרנהא תשעה קבין פשיטא אמר יחלוק</row>
+		<row row_number="6" isdata="1">פלוני בנכסי פלגא תנו חלק לפלוני בנכסי</row>
+		<row row_number="7" isdata="1">מאי אמר רבינא בר קיסי תא שמע דתניא</row>
+		<row row_number="8" isdata="1">האומר תנו חלק לפלוני בבור סומכוס</row>
+		<row row_number="9" isdata="1">אומר אין פחות מרביע לחבית אין פחות</row>
+		<row row_number="10" isdata="1">משמינית לקדרה אין פחות מי"ב לטפיח אין</row>
+		<row row_number="11" isdata="1">פחות מששה עשר תנו רבנן בן לוי שמכר</row>
+		<row row_number="12" isdata="1">שדה לישראל ואמר לו על מנת שמעשר</row>
+		<row row_number="13" isdata="1">ראשון שלי מעשר ראשון שלו ואם אמר לי</row>
+		<row row_number="14" isdata="1">ולבניי מת יתן לבניו ואם אמר לו כל זמן</row>
+		<row row_number="15" isdata="1">שהשדה זו בידך מכרה וחזר ולקחה אין לו</row>
+		<row row_number="16" isdata="1">עליו כלום אמאי אין אדם מקנה דבר שלא</row>
+		<row row_number="17" isdata="1">בא לעולם כיון דאמר ליה על מנת שמעשר</row>
+		<row row_number="18" isdata="1">ראשון שלי שיורי שייריה למקום מעשר</row>
+		<row row_number="19" isdata="1">אמר ריש לקיש זאת אומרת המוכר בית</row>
+		<row row_number="20" isdata="1">לחבירו ואמר לו על מנת שדיוטא</row>
+		<row row_number="21" isdata="1">העליונה שלי דיוטא העליונה שלו</row>
+</amud>
+</daf>
+</masechet>
+</root>

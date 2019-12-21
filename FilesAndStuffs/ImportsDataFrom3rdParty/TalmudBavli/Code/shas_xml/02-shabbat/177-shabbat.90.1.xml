@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:46.509516</dateCreated>
+   <lastModified>2019-12-21 20:28:46.509516</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="90">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>במיני מתיקה שנו הואיל וראויין למתק קדירה</row>
+		<row row_number="2" isdata="1">טעמא דחזו למתק את הקדירה הא לאו הכי</row>
+		<row row_number="3" isdata="1">לא הכי נמי חזו למתק קליפי אגוזין וקליפי</row>
+		<row row_number="4" isdata="1">רמונים סטיס ופואה כדי לצבוע בגד קטן</row>
+		<row row_number="5" isdata="1">ורמינהי המוציא סמנים שרויין כדי לצבוע</row>
+		<row row_number="6" isdata="1">בהן דוגמא לאירא (הא איתמר עלה) אמר</row>
+		<row row_number="7" isdata="1">רב נחמן אמר רבה בר אבוה לפי שאין אדם</row>
+		<row row_number="8" isdata="1">טורח לשרות סממנים לצבוע בהן דוגמא</row>
+		<row row_number="9" isdata="1">לאירא מי רגלים תנא מי רגלים עד בן מ'</row>
+		<row row_number="10" isdata="1">יום נתר תנא נתר אלכסנדרית ולא נתר</row>
+		<row row_number="11" isdata="1">אנפנטרין בורית אמר רב יהודה זה חול</row>
+		<row row_number="12" isdata="1">והתניא הבורית והחול אלא מאי בורית</row>
+		<row row_number="13" isdata="1">כבריתא מיתיבי הוסיפו עליהן החלביצין</row>
+		<row row_number="14" isdata="1">והלעינון והבורית והאהל ואי ס"ד כבריתא</row>
+		<row row_number="15" isdata="1">כבריתא מי איתא בשביעית ( והתנן) זה</row>
+		<row row_number="16" isdata="1">הכלל כל שיש לו עיקר יש לו שביעית ושאין</row>
+		<row row_number="17" isdata="1">לו עיקר אין לו שביעית אלא מאי בורית</row>
+		<row row_number="18" isdata="1">אהלא והתניא והבורית ואהלא (אלא) תרי</row>
+		<row row_number="19" isdata="1">גווני אהלא קימוליא אמר רב יהודה שלוף</row>
+		<row row_number="20" isdata="1">דוץ אשלג אמר שמואל שאילתינהו לכל</row>
+		<row row_number="21" isdata="1">נחותי ימא ואמרו לי שונאנה שמיה</row>
+		<row row_number="22" isdata="1">ומשתכח בנוקבא דמרגניתא ומפקי ליה</row>
+		<row row_number="23" isdata="1">ברמצא דפרזלאמתני' פלפלת כל שהוא</row>
+		<row row_number="24" isdata="1">ועטרן כל שהוא מיני בשמים ומיני מתכות</row>
+		<row row_number="25" isdata="1">כל שהן מאבני המזבח ומעפר המזבח מקק</row>
+		<row row_number="26" isdata="1">ספרים ומקק מטפחותיהם כל שהוא שמצניעין</row>
+		<row row_number="27" isdata="1">אותן לגונזן רבי יהודה אומר אף המוציא</row>
+		<row row_number="28" isdata="1">משמשי ע"ז כל שהוא שנאמר ולא ידבק</row>
+		<row row_number="29" isdata="1">בידך מאומה מן החרם<EndMishna/><StartGemara/>גמ' פלפלת כל</row>
+		<row row_number="30" isdata="1">שהוא למאי חזיא לריח הפה עיטרן כל</row>
+		<row row_number="31" isdata="1">שהוא למאי חזיא לצילחתא מיני בשמים</row>
+		<row row_number="32" isdata="1">כל שהן ת"ר המוציא ריח רע כל שהוא</row>
+		<row row_number="33" isdata="1">שמן טוב כל שהוא ארגמן כל שהוא</row>
+		<row row_number="34" isdata="1">ובתולת הוורד אחת מיני מתכות כל</row>
+		<row row_number="35" isdata="1">שהן למאי חזו תניא רבי שמעון בן אלעזר</row>
+		<row row_number="36" isdata="1">אומר שכן ראוי לעשות ממנה דרבן קטן</row>
+		<row row_number="37" isdata="1">ת"ר האומר הרי עלי ברזל אחרים אומרים</row>
+		<row row_number="38" isdata="1">לא יפחות מאמה על אמה למאי חזיא</row>
+		<row row_number="39" isdata="1">אמר רב יוסף לכלייא עורב ואיכא דאמרי</row>
+		<row row_number="40" isdata="1">אחרים אומרים לא יפחות מכלייא עורב</row>
+		<row row_number="41" isdata="1">וכמה אמר רב יוסף אמה על אמה נחשת</row>
+		<row row_number="42" isdata="1">לא יפחות ממעה כסף תניא רבי אליעזר</row>
+		<row row_number="43" isdata="1">אומר לא יפחות מצינורא קטנה של נחשת</row>
+		<row row_number="44" isdata="1">למאי חזיא אמר אביי שמחטטין בה את</row>
+		<row row_number="45" isdata="1">הפתילות ומקנחין הנרות מקק ספרים</row>
+		<row row_number="46" isdata="1">ומקק מטפחת א"ר יהודה מקק דסיפרי</row>
+		<row row_number="47" isdata="1">תכך דשיראי ואילא דעינבי ופה דתאני</row>
+		<row row_number="48" isdata="1">והה דרימוני כולהו סכנתא ההוא תלמידא</row>
+		<row row_number="49" isdata="1">דהוה יתיב קמיה דר' יוחנן הוה קאכיל</row>
+		<row row_number="50" isdata="1">תאיני אמר ליה רבי קוצין יש בתאנים א"ל קטליה פה לדיןמתני' המוציא</row>
+		<row row_number="51" isdata="1">קופת הרוכלין אף על פי שיש בה מינין הרבה אינו חייב אלא חטאת</row>
+		<row row_number="52" isdata="1">אחת זרעוני גינה פחות מכגרוגרת ר' יהודה בן בתירה אומר חמשה</row>
+</amud>
+</daf>
+</masechet>
+</root>

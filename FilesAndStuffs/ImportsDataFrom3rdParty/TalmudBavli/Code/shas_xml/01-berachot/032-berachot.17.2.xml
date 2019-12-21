@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:34.438802</dateCreated>
+   <lastModified>2019-12-21 20:28:34.438802</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="17">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "היה קורא"/><ContGemara/>אין פרץ שלא תהא סיעתנו כסיעתו של</row>
+		<row row_number="2" isdata="1">דוד שיצא ממנו אחיתופל ואין יוצאת שלא</row>
+		<row row_number="3" isdata="1">תהא סיעתנו כסיעתו של שאול שיצא ממנו</row>
+		<row row_number="4" isdata="1">דואג האדומי ואין צוחה שלא תהא סיעתנו</row>
+		<row row_number="5" isdata="1">כסיעתו של אלישע שיצא ממנו גחזי</row>
+		<row row_number="6" isdata="1">ברחובותינו שלא יהא לנו בן או תלמיד</row>
+		<row row_number="7" isdata="1">שמקדיח תבשילו ברבים שמעו אלי</row>
+		<row row_number="8" isdata="1">אבירי לב הרחוקים מצדקה רב ושמואל</row>
+		<row row_number="9" isdata="1">ואמרי לה רבי יוחנן ורבי אלעזר חד אמר</row>
+		<row row_number="10" isdata="1">כל העולם כולו נזונין בצדקה והם נזונין</row>
+		<row row_number="11" isdata="1">בזרוע וחד אמר כל העולם כולו נזונין</row>
+		<row row_number="12" isdata="1">בזכותם והם אפילו בזכות עצמן אין נזונין</row>
+		<row row_number="13" isdata="1">כדרב יהודה אמר רב דאמר רב יהודה</row>
+		<row row_number="14" isdata="1">אמר רב בכל יום ויום בת קול יוצאת מהר</row>
+		<row row_number="15" isdata="1">חורב ואומרת כל העולם כולו נזונין בשביל</row>
+		<row row_number="16" isdata="1">חנינא בני וחנינא בני די לו בקב חרובין</row>
+		<row row_number="17" isdata="1">מערב שבת לערב שבת ופליגא דרב יהודה</row>
+		<row row_number="18" isdata="1">דאמר רב יהודה מאן אבירי לב גובאי טפשאי</row>
+		<row row_number="19" isdata="1">אמר רב יוסף תדע דהא לא איגייר גיורא</row>
+		<row row_number="20" isdata="1">מינייהו אמר רב אשי בני מתא מחסיא אבירי</row>
+		<row row_number="21" isdata="1">לב נינהו דקא חזו יקרא דאורייתא תרי זמני</row>
+		<row row_number="22" isdata="1">בשתא ולא קמגייר גיורא מינייהו חתן אם</row>
+		<row row_number="23" isdata="1">רוצה לקרות וכו' למימרא דרבן שמעון</row>
+		<row row_number="24" isdata="1">בן גמליאל חייש ליוהרא ורבנן לא חיישי</row>
+		<row row_number="25" isdata="1">ליוהרא והא איפכא שמעינן להו דתנן מקום</row>
+		<row row_number="26" isdata="1">שנהגו לעשות מלאכה בתשעה באב עושין</row>
+		<row row_number="27" isdata="1">מקום שנהגו שלא לעשות אין עושין וכל</row>
+		<row row_number="28" isdata="1">מקום תלמידי חכמים בטלים רבן שמעון בן</row>
+		<row row_number="29" isdata="1">גמליאל אומר לעולם יעשה כל אדם את</row>
+		<row row_number="30" isdata="1">עצמו כתלמיד חכם קשיא דרבנן אדרבנן</row>
+		<row row_number="31" isdata="1">קשיא דרבן שמעון בן גמליאל אדרבן שמעון</row>
+		<row row_number="32" isdata="1">בן גמליאל אמר רבי יוחנן מוחלפת השיטה</row>
+		<row row_number="33" isdata="1">רב שישא בריה דרב אידי אמר לעולם לא</row>
+		<row row_number="34" isdata="1">תחליף דרבנן אדרבנן לא קשיא ק"ש כיון</row>
+		<row row_number="35" isdata="1">דכ"ע קא קרו ואיהו נמי קרי לא מיחזי כיוהרא</row>
+		<row row_number="36" isdata="1">הכא כיון דכולי עלמא עבדי מלאכה ואיהו</row>
+		<row row_number="37" isdata="1">לא קא עביד מיחזי כיוהרא דרבן שמעון בן</row>
+		<row row_number="38" isdata="1">גמליאל אדרבן שמעון בן גמליאל לא קשיא</row>
+		<row row_number="39" isdata="1">התם בכונה תליא מילתא ואנן סהדי דלא</row>
+		<row row_number="40" isdata="1">מצי לכווני דעתיה אבל הכא הרואה אומר מלאכה הוא דאין לו פוק חזי</row>
+		<row row_number="41" isdata="1">כמה בטלני איכא בשוקא<EndChapter name = "היה קורא"/><EndGemara/></row>
+		<row row_number="42" isdata="0">הדרן עלך היה קורא</row>
+		<row row_number="43" isdata="1"><StartChapter name = "מי שמתו"/><StartMishna/>מי שמתו מוטל לפניו פטור מק"ש ומן התפלה ומן התפילין ומכל מצות</row>
+		<row row_number="44" isdata="1">האמורות בתורה נושאי המטה וחלופיהן וחלופי חלופיהן את שלפני</row>
+		<row row_number="45" isdata="1">המטה ואת שלאחר המטה את שלפני המטה צורך בהם פטורים ואת שלאחר</row>
+		<row row_number="46" isdata="1">המטה צורך בהם חייבין ואלו ואלו פטורים מן התפלה קברו את המת</row>
+		<row row_number="47" isdata="1">וחזרו אם יכולין להתחיל ולגמור עד שלא יגיעו לשורה יתחילו ואם לאו לא</row>
+		<row row_number="48" isdata="1">יתחילו העומדים בשורה הפנימיים פטורים והחיצונים חייבים ( נשים ועבדים</row>
+		<row row_number="49" isdata="1">וקטנים פטורים מק"ש ומן התפילין וחייבין בתפלה ובמזוזה ובברכת המזון)</row>
+		<row row_number="50" isdata="1"><EndMishna/><StartGemara/>גמ' מוטל לפניו אין ושאינו מוטל לפניו לא ורמינהי מי שמתו מוטל</row>
+		<row row_number="51" isdata="1">לפניו אוכל בבית אחר ואם אין לו בית אחר אוכל בבית חבירו ואם אין לו</row>
+		<row row_number="52" isdata="1">בית חבירו עושה מחיצה ואוכל ואם אין לו דבר לעשות מחיצה מחזיר פניו</row>
+		<row row_number="53" isdata="1">ואוכל ואינו מיסב ואוכל ואינו אוכל בשר ואינו שותה יין ואינו מברך ואינו מזמן</row>
+</amud>
+</daf>
+</masechet>
+</root>

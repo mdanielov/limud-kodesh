@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:20.906723</dateCreated>
+   <lastModified>2019-12-21 20:31:20.906723</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="156">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שמת"/><ContGemara/>אמרו לו מעשה באמן של בני רוכל שהיתה</row>
+		<row row_number="2" isdata="1">חולה ואמרה תנו כבינתי לבתי והיא</row>
+		<row row_number="3" isdata="1">בשנים עשר מנה ומתה וקיימו את דבריה</row>
+		<row row_number="4" isdata="1">אמר להן בני רוכל תקברם אמן<EndMishna/><StartGemara/>גמ' תניא</row>
+		<row row_number="5" isdata="1">אמר להן רבי אליעזר לחכמים מעשה</row>
+		<row row_number="6" isdata="1">במרוני אחד שהיה בירושלים והיו לו</row>
+		<row row_number="7" isdata="1">מטלטלין הרבה וביקש ליתנם במתנה</row>
+		<row row_number="8" isdata="1">אמרו לו אין להם תקנה עד שיקנה על גב</row>
+		<row row_number="9" isdata="1">קרקע הלך ולקח בית סלע אחד סמוך</row>
+		<row row_number="10" isdata="1">לירושלים ואמר צפונו לפלוני ועמו מאה</row>
+		<row row_number="11" isdata="1">צאן ומאה חביות ודרומו לפלוני ועמו מאה</row>
+		<row row_number="12" isdata="1">צאן ומאה חביות ומת וקיימו חכמים את</row>
+		<row row_number="13" isdata="1">דבריו אמרו לו משם ראיה מרוני בריא</row>
+		<row row_number="14" isdata="1">היה אמר להן בני רוכל תקברם אמן וכו'</row>
+		<row row_number="15" isdata="1">מאי טעמא קא לייט להו אמר רב יהודה</row>
+		<row row_number="16" isdata="1">אמר שמואל מקיימי קוצים בכרם היו ורבי</row>
+		<row row_number="17" isdata="1">אליעזר לטעמיה דתנן המקיים קוצים</row>
+		<row row_number="18" isdata="1">בכרם רבי אליעזר אומר קדש וחכמים</row>
+		<row row_number="19" isdata="1">אומרים לא קדש אלא דבר שכמוהו</row>
+		<row row_number="20" isdata="1">מקיימין בשלמא כרכום חזי אלא קוצים</row>
+		<row row_number="21" isdata="1">למאי חזי אמר רבי חנינא מאי טעמא דר'</row>
+		<row row_number="22" isdata="1">אליעזר שכן בערביא מקיימין קוצים</row>
+		<row row_number="23" isdata="1">בשדות לגמליהן אמר רבי לוי קונין קנין</row>
+		<row row_number="24" isdata="1">משכיב מרע אפי' בשבת ולא לחוש לדברי</row>
+		<row row_number="25" isdata="1">ר' אליעזר אלא שמא תטרוף דעתו עליו</row>
+		<row row_number="26" isdata="1"><EndGemara/><StartMishna/>מתני' רבי אליעזר אומר בשבת דבריו</row>
+		<row row_number="27" isdata="1">קיימין מפני שאין יכול לכתוב אבל לא בחול</row>
+		<row row_number="28" isdata="1">רבי יהושע אומר בשבת אמרו קל וחומר</row>
+		<row row_number="29" isdata="1">בחול כיוצא בו זכין לקטן ואין זכין לגדול</row>
+		<row row_number="30" isdata="1">דברי רבי אליעזר רבי יהושע אומר לקטן</row>
+		<row row_number="31" isdata="1">אמרו קל וחומר לגדול<EndMishna/><StartGemara/>גמ' מתני' מני</row>
+		<row row_number="32" isdata="1">רבי יהודה היא דתניא רבי מאיר אומר ר'</row>
+		<row row_number="33" isdata="1">אליעזר אומר בחול דבריו קיימין מפני</row>
+		<row row_number="34" isdata="1">שיכול לכתוב אבל לא בשבת רבי יהושע</row>
+</amud>
+</daf>
+</masechet>
+</root>

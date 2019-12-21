@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:21.569473</dateCreated>
+   <lastModified>2019-12-21 20:30:21.569473</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="24">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאמר"/><ContGemara/>זכתה וקדמה ארבעה דורות בישראל למלכו'</row>
+		<row row_number="2" isdata="1"><EndGemara/><StartMishna/>מתני' האשה שנדרה בנזיר והפרישה</row>
+		<row row_number="3" isdata="1">את בהמתה ואח"כ היפר לה בעלה אם שלו</row>
+		<row row_number="4" isdata="1">היתה הבהמה תצא ותרעה בעדר ואם שלה</row>
+		<row row_number="5" isdata="1">היתה הבהמה החטאת תמות ועולה תקרב</row>
+		<row row_number="6" isdata="1">עולה שלמים תקרב שלמים ונאכלין ליום</row>
+		<row row_number="7" isdata="1">אחד ואינן טעונין לחם היו לה מעות</row>
+		<row row_number="8" isdata="1">סתומין יפלו לנדבה מעות מפורשין דמי</row>
+		<row row_number="9" isdata="1">חטאת ילכו לים המלח לא נהנין ולא מועלין</row>
+		<row row_number="10" isdata="1">בהן דמי עולה יביאו עולה ומועלין בהן</row>
+		<row row_number="11" isdata="1">דמי שלמים יביאו שלמים ונאכלין ליום</row>
+		<row row_number="12" isdata="1">אחד ואין טעונין לחם<EndMishna/><StartGemara/>גמ' מאן תנא דבעל</row>
+		<row row_number="13" isdata="1">לא משתעבד לה אמר רב חסדא רבנן היא</row>
+		<row row_number="14" isdata="1">דאי ס"ד רבי יהודה היא אמאי תצא ותרעה</row>
+		<row row_number="15" isdata="1">בעדר הא משתעבד לה דתניא ר' יהודה</row>
+		<row row_number="16" isdata="1">אומר אדם מביא קרבן עשיר על אשתו וכן</row>
+		<row row_number="17" isdata="1">כל קרבנותיה שהיא חייבת שכך כתב לה</row>
+		<row row_number="18" isdata="1">כל אחריות דאית ליך עלי מן קדמת דנא</row>
+		<row row_number="19" isdata="1">רבא אמר אפי' תימא ר' יהודה כי משעבד</row>
+		<row row_number="20" isdata="1">לה במילתא דצריכא לה במילתא דלא צריכא</row>
+		<row row_number="21" isdata="1">לה לא איכא דאמרי מאן תנא אמר רב</row>
+		<row row_number="22" isdata="1">חסדא רבי יהודה היא וכי משעבד לה</row>
+		<row row_number="23" isdata="1">במילתא דצריכא לה במילתא דלא צריכא</row>
+		<row row_number="24" isdata="1">לה לא דאי רבנן לא משעבד לה כלל</row>
+		<row row_number="25" isdata="1">אלא היכי דמי דמשעבד לה כגון</row>
+		<row row_number="26" isdata="1">דאקנייה לה וכיון דאקני לה הוה דנפשה</row>
+</amud>
+</daf>
+</masechet>
+</root>

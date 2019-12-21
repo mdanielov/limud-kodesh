@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:18.329196</dateCreated>
+   <lastModified>2019-12-21 20:31:18.329196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="132">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>ומקולי כתובה שנו כאן תנן ר' יוסי אומר</row>
+		<row row_number="2" isdata="1">אם קבלה עליה אע"פ שלא כתב לה אבדה</row>
+		<row row_number="3" isdata="1">כתובתה מכלל דת"ק סבר כתיבה וקבלה בעי</row>
+		<row row_number="4" isdata="1">וכי תימא כולה ר' יוסי היא והא תניא אמר רבי</row>
+		<row row_number="5" isdata="1">יהודה אימתי שהיתה שם וקבלה עליה אבל</row>
+		<row row_number="6" isdata="1">היתה שם ולא קבלה עליה קבלה עליה ולא</row>
+		<row row_number="7" isdata="1">היתה שם לא אבדה כתובתה תיובתא דכולהו</row>
+		<row row_number="8" isdata="1">תיובתא אמר ליה רבא לרב נחמן הא רב הא</row>
+		<row row_number="9" isdata="1">שמואל הא ר' יוסי בר' חנינא מר מאי סבירא</row>
+		<row row_number="10" isdata="1">ליה א"ל שאני אומר כיון שעשאה שותף בין</row>
+		<row row_number="11" isdata="1">הבנים אבדה כתובתה איתמר נמי אמר רב</row>
+		<row row_number="12" isdata="1">יוסף בר מניומי אמר רב נחמן כיון שעשאה שותף</row>
+		<row row_number="13" isdata="1">בין הבנים אבדה כתובתה בעי רבא בבריא</row>
+		<row row_number="14" isdata="1">היאך מי אמרינן בשכיב מרע הוא דידעה</row>
+		<row row_number="15" isdata="1">דלית ליה וקמחלה אבל בבריא סברה הדר</row>
+		<row row_number="16" isdata="1">קני או דלמא השתא מיהת לית ליה תיקו ההוא דאמר להו פלגא לברת</row>
+		<row row_number="17" isdata="1">ופלגא לברת ותילתא לאיתת בפירי איקלע רב נחמן לסורא עול לגבי רב</row>
+		<row row_number="18" isdata="1">חסדא אמר ליה כי האי גוונא מאי אמר ליה הכי אמר שמואל אפילו לא הקנה</row>
+		<row row_number="19" isdata="1">לה אלא דקל אחד לפירותיו אבדה כתובתה אמר ליה אימור דאמר שמואל</row>
+		<row row_number="20" isdata="1">התם דאקני לה בגופה דארעא הכא פירא הוא אמר ליה מטלטלי קא אמרת</row>
+		<row row_number="21" isdata="1">מטלטלי ודאי לא קא אמינא ההוא דאמר להו תלתא לברת ותלתא לברת</row>
+		<row row_number="22" isdata="1">ותלתא לאיתת שכיבא חדא מבנתיה סבר רב פפי למימר לא שקלא אלא תלתא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:24.839501</dateCreated>
+   <lastModified>2019-12-21 20:30:24.839501</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="66">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכותים אין להם נזירות"/><ContGemara/>חטוף ובריך וכן א"ל רב הונא לרבה בריה</row>
+		<row row_number="2" isdata="1">חטוף ובריך למימרא דמברך עדיף והתניא</row>
+		<row row_number="3" isdata="1">רבי יוסי אומר גדול העונה אמן יותר מן</row>
+		<row row_number="4" isdata="1">המברך וא"ל רבי נהוראי השמים כך הוא</row>
+		<row row_number="5" isdata="1">תדע שהרי גוליירים מתגרין במלחמה וגבורים נוצחין תנאי היא דתניא</row>
+		<row row_number="6" isdata="1">אחד המברך ואחד העונה אמן במשמע אלא שממהרין למברך תחילה</row>
+		<row row_number="7" isdata="1">אמר רבי אלעזר א"ר חנינא תלמידי חכמים מרבים שלום בעולם שנאמר</row>
+		<row row_number="8" isdata="1">וכל בניך למודי ה' ורב שלום בניך<EndChapter name = "הכותים אין להם נזירות"/><EndGemara/></row>
+		<row row_number="9" isdata="0">הדרן עלך הכותים אין להם נזירות</row>
+		<row row_number="10" isdata="0">וסליקא לה מסכת נזיר</row>
+</amud>
+</daf>
+</masechet>
+</root>

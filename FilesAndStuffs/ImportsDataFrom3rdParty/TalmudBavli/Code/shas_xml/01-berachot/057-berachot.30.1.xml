@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:35.516794</dateCreated>
+   <lastModified>2019-12-21 20:28:35.516794</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="30">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "תפלת השחר"/><ContGemara/>לישתף איניש נפשיה בהדי צבורא היכי</row>
+		<row row_number="2" isdata="1">נימא יהי רצון מלפניך ה' אלהינו שתוליכנו</row>
+		<row row_number="3" isdata="1">לשלום וכו' אימת מצלי אמר רבי יעקב</row>
+		<row row_number="4" isdata="1">אמר רב חסדא משעה שמהלך בדרך</row>
+		<row row_number="5" isdata="1">עד כמה אמר רבי יעקב אמר רב חסדא</row>
+		<row row_number="6" isdata="1">עד פרסה והיכי מצלי לה רב חסדא אמר</row>
+		<row row_number="7" isdata="1">מעומד רב ששת אמר אפילו מהלך רב</row>
+		<row row_number="8" isdata="1">חסדא ורב ששת הוו קאזלי באורחא קם</row>
+		<row row_number="9" isdata="1">רב חסדא וקא מצלי א"ל רב ששת</row>
+		<row row_number="10" isdata="1">לשמעיה מאי קא עביד רב חסדא אמר</row>
+		<row row_number="11" isdata="1">ליה קאי ומצלי א"ל אוקמן נמי לדידי</row>
+		<row row_number="12" isdata="1">ואצלי מהיות טוב אל תקרא רע. מאי</row>
+		<row row_number="13" isdata="1">איכא בין הביננו לתפלה קצרה הביננו בעי</row>
+		<row row_number="14" isdata="1">לצלויי ג' קמייתא וג' בתרייתא וכי מטי</row>
+		<row row_number="15" isdata="1">לביתיה לא בעי למהדר לצלויי בתפלה</row>
+		<row row_number="16" isdata="1">קצרה לא בעי לצלויי לא ג' קמייתא ולא</row>
+		<row row_number="17" isdata="1">ג' בתרייתא וכי מטי לביתיה בעי למהדר</row>
+		<row row_number="18" isdata="1">לצלויי והלכתא הביננו מעומד תפלה קצרה</row>
+		<row row_number="19" isdata="1">בין מעומד בין מהלך היה רוכב על החמור</row>
+		<row row_number="20" isdata="1">וכו' ת"ר היה רוכב על החמור והגיע זמן</row>
+		<row row_number="21" isdata="1">תפלה אם יש לו מי שיאחז את חמורו ירד</row>
+		<row row_number="22" isdata="1">למטה ויתפלל ואם לאו ישב במקומו</row>
+		<row row_number="23" isdata="1">ויתפלל רבי אומר בין כך ובין כך ישב</row>
+		<row row_number="24" isdata="1">במקומו ויתפלל לפי שאין דעתו מיושבת</row>
+		<row row_number="25" isdata="1">עליו אמר רבא ואיתימא רבי יהושע בן</row>
+		<row row_number="26" isdata="1">לוי הלכה כרבי ת"ר סומא ומי שאינו</row>
+		<row row_number="27" isdata="1">יכול לכוין את הרוחות יכוין לבו כנגד</row>
+		<row row_number="28" isdata="1">אביו שבשמים שנא' והתפללו אל ה' היה</row>
+		<row row_number="29" isdata="1">עומד בח"ל יכוין את לבו כנגד ארץ ישראל</row>
+		<row row_number="30" isdata="1">שנא' והתפללו אליך דרך ארצם היה עומד</row>
+		<row row_number="31" isdata="1">בארץ ישראל יכוין את לבו כנגד ירושלים</row>
+		<row row_number="32" isdata="1">שנאמר והתפללו אל ה' דרך העיר אשר</row>
+		<row row_number="33" isdata="1">בחרת היה עומד בירושלים יכוין את לבו</row>
+		<row row_number="34" isdata="1">כנגד בית המקדש שנאמר והתפללו</row>
+		<row row_number="35" isdata="1">אל הבית הזה היה עומד בבית המקדש</row>
+		<row row_number="36" isdata="1">יכוין את לבו כנגד בית קדשי הקדשים</row>
+		<row row_number="37" isdata="1">שנאמר והתפללו אל המקום הזה היה</row>
+		<row row_number="38" isdata="1">עומד בבית קדשי הקדשים יכוין את לבו</row>
+		<row row_number="39" isdata="1">כנגד בית הכפורת היה עומד אחורי בית</row>
+		<row row_number="40" isdata="1">הכפורת יראה עצמו כאילו לפני הכפורת</row>
+		<row row_number="41" isdata="1">נמצא עומד במזרח מחזיר פניו למערב</row>
+		<row row_number="42" isdata="1">במערב מחזיר פניו למזרח בדרום מחזיר פניו לצפון בצפון מחזיר פניו לדרום</row>
+		<row row_number="43" isdata="1">נמצאו כל ישראל מכוונין את לבם למקום אחד א"ר אבין ואיתימא ר' אבינא</row>
+		<row row_number="44" isdata="1">מאי קראה כמגדל דויד צוארך בנוי לתלפיות תל שכל פיות פונים בו</row>
+		<row row_number="45" isdata="1">אבוה דשמואל ולוי כי הוו בעו למיפק לאורחא הוו מקדמי ומצלי וכי</row>
+		<row row_number="46" isdata="1">הוה מטי זמן ק"ש קרו כמאן כי האי תנא דתניא השכים לצאת לדרך</row>
+		<row row_number="47" isdata="1">מביאין לו שופר ותוקע לולב ומנענע מגילה וקורא בה וכשיגיע זמן ק"ש</row>
+		<row row_number="48" isdata="1">קורא השכים לישב בקרון או בספינה מתפלל וכשיגיע זמן ק"ש קורא</row>
+		<row row_number="49" isdata="1">רשב"א אומר בין כך ובין כך קורא ק"ש ומתפלל כדי שיסמוך גאולה</row>
+		<row row_number="50" isdata="1">לתפלה במאי קמיפלגי מר סבר תפלה מעומד עדיף ומר סבר מסמך</row>
+		<row row_number="51" isdata="1">גאולה לתפלה עדיף מרימר ומר זוטרא הוו מכנפי בי עשרה בשבתא</row>
+		<row row_number="52" isdata="1">דרגלא ומצלו והדר נפקא לפרקא רב אשי מצלי בהדי צבורא ביחיד</row>
+		<row row_number="53" isdata="1">מיושב כי הוה אתי לביתיה הדר ומצלי מעומד אמרי ליה רבנן ולעביד</row>
+		<row row_number="54" isdata="1">מר כמרימר ומר זוטרא אמר להו טריחא לי מלתא ולעביד מר כאבוה</row>
+		<row row_number="55" isdata="1">דשמואל ולוי אמר להו לא חזינא להו לרבנן קשישי מינן דעבדי הכי</row>
+		<row row_number="56" isdata="1"><EndGemara/><StartMishna/>מתני' ר' אלעזר בן עזריה אומר אין תפלת המוספין אלא בחבר עיר</row>
+		<row row_number="57" isdata="1">וחכ"א בחבר עיר ושלא בחבר עיר ר' יהודה אומר משמו כל מקום שיש שם</row>
+		<row row_number="58" isdata="1">חבר עיר יחיד פטור מתפלת המוספין<EndMishna/><StartGemara/>גמ' ר' יהודה היינו ת"ק איכא בינייהו</row>
+		<row row_number="59" isdata="1">יחיד שלא בחבר עיר ת"ק סבר פטור ור' יהודה סבר חייב א"ר הונא בר חיננא</row>
+		<row row_number="60" isdata="1">אמר ר' חייא בר רב הלכה כר' יהודה שאמר משום ראב"ע א"ל רב חייא בר</row>
+		<row row_number="61" isdata="1">אבין שפיר קאמרת דאמר שמואל מימי לא מצלינא צלותא דמוספין ביחיד</row>
+</amud>
+</daf>
+</masechet>
+</root>

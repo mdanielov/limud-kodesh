@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:15.068401</dateCreated>
+   <lastModified>2019-12-21 20:29:15.068401</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="96">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שהיה טמא "/><ContGemara/>מהו מדאישתרי טומאת בשר אישתרי נמי</row>
+		<row row_number="2" isdata="1">טומאת אימורין או דילמא מאי דאישתרי</row>
+		<row row_number="3" isdata="1">אישתרי מאי דלא אישתרי לא אישתרי אמר</row>
+		<row row_number="4" isdata="1">רבא מכדי טומאת אימורין מהיכא איתרבי</row>
+		<row row_number="5" isdata="1">מטומאת בשר דכתיב אשר לה' לרבות</row>
+		<row row_number="6" isdata="1">את האימורין כל היכא דאיתיה לטומאת</row>
+		<row row_number="7" isdata="1">בשר איתיה לטומאת אימורין כל היכא</row>
+		<row row_number="8" isdata="1">דליתיה לטומאת בשר ליתיה לטומאת</row>
+		<row row_number="9" isdata="1">אימורין בעי רבי זירא אימורי פסח מצרים</row>
+		<row row_number="10" isdata="1">היכא אקטרינהו א"ל אביי ומאן לימא לן דלא</row>
+		<row row_number="11" isdata="1">שויסקי עבוד ועוד הא תנא רב יוסף ג'</row>
+		<row row_number="12" isdata="1">מזבחות היו שם על המשקוף ועל שתי</row>
+		<row row_number="13" isdata="1">המזוזות ותו מידי אחרינא לא הוה</row>
+		<row row_number="14" isdata="1"><EndGemara/><StartMishna/>מתני' מה בין פסח מצרים לפסח דורות</row>
+		<row row_number="15" isdata="1">פסח מצרים מקחו מבעשור וטעון הזאה</row>
+		<row row_number="16" isdata="1">באגודת אזוב ועל המשקוף ועל שתי</row>
+		<row row_number="17" isdata="1">המזוזות ונאכל בחפזון בלילה אחד ופסח</row>
+		<row row_number="18" isdata="1">דורות נוהג כל שבעה<EndMishna/><StartGemara/>גמ' מנא לן דכתיב</row>
+		<row row_number="19" isdata="1">דברו אל כל עדת ישראל לאמר בעשור</row>
+		<row row_number="20" isdata="1">לחדש הזה ויקחו זה מקחו מבעשור ואין</row>
+		<row row_number="21" isdata="1">פסח דורות מקחו מבעשור אלא מעתה</row>
+		<row row_number="22" isdata="1">והיה לכם למשמרת עד ארבעה עשר יום</row>
+		<row row_number="23" isdata="1">לחדש הזה הכי נמי זה טעון ביקור ד' ימים</row>
+		<row row_number="24" isdata="1">קודם שחיטה ואין אחר טעון ביקור והתניא בן בג בג אומר מניין לתמיד</row>
+		<row row_number="25" isdata="1">שטעון ביקור ד' ימים קודם שחיטה שנא' תשמרו להקריב לי במועדו ולהלן</row>
+		<row row_number="26" isdata="1">הוא אומר והיה לכם למשמרת עד ארבעה עשר מה להלן טעון ביקור ד'</row>
+		<row row_number="27" isdata="1">ימים קודם שחיטה אף כאן טעון ביקור ד' ימים קודם שחיטה שאני התם</row>
+		<row row_number="28" isdata="1">דכתיב תשמרו ופסח דורות נמי הכתיב ועבדת את העבודה הזאת בחדש</row>
+		<row row_number="29" isdata="1">הזה שיהו כל עבודות חדש זה כזה אלא ההוא הזה למעוטי פסח שני</row>
+		<row row_number="30" isdata="1">דכוותיה אלא מעתה דכתיב ואכלו את הבשר בלילה הזה ה"נ דזה נאכל</row>
+		<row row_number="31" isdata="1">בלילה ואין אחר נאכל בלילה אמר קרא ועבדת את העבודה אלא הזה למה</row>
+		<row row_number="32" isdata="1">לי לכדר' אלעזר בן עזריה ור"ע אלא מעתה דכתיב וכל ערל לא יאכל בו</row>
+		<row row_number="33" isdata="1">ה"נ דבו אינו אוכל אבל אוכל בפסח דורות אמר קרא ועבדת אלא בו למה</row>
+		<row row_number="34" isdata="1">לי בו אינו אוכל אבל הוא אוכל במצה ומרור אלא מעתה (וכל) בן נכר לא</row>
+		<row row_number="35" isdata="1">יאכל בו ה"נ דבו אינו אוכל אבל אוכל הוא פסח לדורות אמר קרא ועבדת</row>
+		<row row_number="36" isdata="1">אלא בו למה לי בו המרת דת פוסלת ואין המרת דת פוסלת בתרומה</row>
+		<row row_number="37" isdata="1">ואיצטריך למיכתב ערל ואיצטריך למכתב בן נכר דאי כתב רחמנא ערל</row>
+		<row row_number="38" isdata="1">משום דמאיס אבל בן נכר לא מאיס אימא לא צריכא ואי אשמעינן בן נכר</row>
+		<row row_number="39" isdata="1">משום דאין לבו לשמים אבל ערל דלבו לשמים אימא לא צריכא אלא מעתה</row>
+		<row row_number="40" isdata="1">תושב ושכיר לא יאכל בו הכי נמי דבו הוא אינו אוכל אבל אוכל הוא בפסח</row>
+		<row row_number="41" isdata="1">דורות אמר קרא ועבדת אלא בו למה לי בו המרת דת פוסלת ואין המרת דת</row>
+		<row row_number="42" isdata="1">פוסלת בתרומה אלא מעתה ומלתה אותו אז יאכל בו ה"נ דבו אינו אוכל אבל</row>
+		<row row_number="43" isdata="1">אוכל בפסח דורות אמר קרא ועבדת אלא בו ל"ל בו מילת זכריו ועבדיו מעכבת</row>
+		<row row_number="44" isdata="1">ואין מילת זכריו ועבדיו מעכבת בתרומה אלא מעתה דכתיב ועצם לא ישברו</row>
+		<row row_number="45" isdata="1">בו ה"נ דבו אינו שובר אבל שובר בפסח דורות אמר קרא ועבדת אלא בו</row>
+		<row row_number="46" isdata="1">למה לי בו בכשר ולא בפסול אלא מעתה דכתיב אל תאכלו ממנו נא ממנו</row>
+		<row row_number="47" isdata="1">אי אתה אוכל אבל אתה אוכל נא בפסח דורות אמר קרא ועבדת אלא ממנו</row>
+		<row row_number="48" isdata="1">למה לי לכדרבה א"ר יצחק ונאכל בחפזון וכו' מנא לן דאמר קרא ואכלתם</row>
+		<row row_number="49" isdata="1">אותו בחפזון אותו נאכל בחפזון ואין אחר נאכל בחפזון ופסח דורות</row>
+		<row row_number="50" isdata="1">נוהג כל שבעה וכו' אמאי קאי אי לימא אפסח פסח כל שבעה מי איכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

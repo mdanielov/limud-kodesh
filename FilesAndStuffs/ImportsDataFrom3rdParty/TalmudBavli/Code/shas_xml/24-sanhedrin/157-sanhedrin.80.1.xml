@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:31.437846</dateCreated>
+   <lastModified>2019-12-21 20:31:31.437846</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="80">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו הן הנשרפין"/><ContGemara/>אי הכי היינו דקתני עלה אמר ר' יוסי אפילו</row>
+		<row row_number="2" isdata="1">אבא חלפתא ביניהן אלא אמר רבא הכי</row>
+		<row row_number="3" isdata="1">קאמר שנים שהיו עומדין ויצא חץ מביניהם</row>
+		<row row_number="4" isdata="1">והרג שניהם פטורין וא"ר יוסי אפילו אבא</row>
+		<row row_number="5" isdata="1">חלפתא ביניהן ושור שנגמר דינו שנתערב</row>
+		<row row_number="6" isdata="1">בשוורין אחרים מעלייא סוקלין אותן ר' יהודה</row>
+		<row row_number="7" isdata="1">אומר כונסין אותן לכיפה והתניא פרה</row>
+		<row row_number="8" isdata="1">שהמיתה ואחר כך ילדה אם עד שלא נגמר</row>
+		<row row_number="9" isdata="1">דינה ילדה וולדה מותר אם משנגמר דינה</row>
+		<row row_number="10" isdata="1">ילדה וולדה אסור נתערב באחרים ואחרים</row>
+		<row row_number="11" isdata="1">באחרים כונסין אותן לכיפה ר' אלעזר בר'</row>
+		<row row_number="12" isdata="1">שמעון אומר מביאין אותן לב"ד וסוקלין</row>
+		<row row_number="13" isdata="1">אותן אמר מר אם עד שלא נגמר דינה</row>
+		<row row_number="14" isdata="1">ילדה וולדה מותרת ואף על גב דכי נגחה</row>
+		<row row_number="15" isdata="1">הות מיעברה והאמר רבא ולד הנוגחת</row>
+		<row row_number="16" isdata="1">אסור היא וולדה נגחו ולד הנרבעת אסור</row>
+		<row row_number="17" isdata="1">היא וולדה נרבעו אימא אם עד שלא נגמר</row>
+		<row row_number="18" isdata="1">דינה עיברה וילדה וולדה מותר אם</row>
+		<row row_number="19" isdata="1">משנגמר דינה עיברה וילדה וולדה אסור</row>
+		<row row_number="20" isdata="1">הניחא למאן דאמר זה וזה גורם אסור</row>
+</amud>
+</daf>
+</masechet>
+</root>

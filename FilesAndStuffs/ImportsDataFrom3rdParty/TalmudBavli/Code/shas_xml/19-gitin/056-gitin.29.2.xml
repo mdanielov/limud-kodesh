@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:30.828396</dateCreated>
+   <lastModified>2019-12-21 20:30:30.828396</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContGemara/>שקול מינה חפץ והדר הב לה גיטא ואזל איהו</row>
+		<row row_number="2" isdata="1">ויהיב לה גיטא והדר שקל מינה חפץ רבי</row>
+		<row row_number="3" isdata="1">יוחנן פוסל בו וכ"ש בשלוחו וריש לקיש</row>
+		<row row_number="4" isdata="1">מכשיר בשלוחו וכ"ש בומתני' המביא</row>
+		<row row_number="5" isdata="1">גט ממדינת הים וחלה עושה שליח בב"ד</row>
+		<row row_number="6" isdata="1">ומשלחו ואומר לפניהם בפני נכתב ובפני</row>
+		<row row_number="7" isdata="1">נחתם ואין שליח אחרון צריך שיאמר בפני</row>
+		<row row_number="8" isdata="1">נכתב ובפני נחתם אלא אומר שליח ב"ד אני</row>
+		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' אמרו ליה רבנן לאבימי בריה דר' אבהו</row>
+		<row row_number="10" isdata="1">בעי מיניה מרבי אבהו שליח דשליח משוי</row>
+		<row row_number="11" isdata="1">שליח או לא אמר להו הא לא תיבעי לכו</row>
+		<row row_number="12" isdata="1">מדקתני אין השליח האחרון מכלל דמשוי</row>
+		<row row_number="13" isdata="1">שליח אלא כי תיבעי לכו כי משוי שליח</row>
+		<row row_number="14" isdata="1">בב"ד או אפילו שלא בב"ד אמרו ליה הא לא</row>
+		<row row_number="15" isdata="1">מבעיא לן מדקתני אלא אומר שליח ב"ד אני</row>
+		<row row_number="16" isdata="1">רב נחמן בר יצחק מתני הכי אמרו ליה רבנן</row>
+		<row row_number="17" isdata="1">לאבימי בריה דר' אבהו בעי מיניה מר' אבהו</row>
+		<row row_number="18" isdata="1">שליח דשליח כי משוי שליח בב"ד או שלא</row>
+		<row row_number="19" isdata="1">בב"ד אמר להו ותיבעי לכו אי משוי שליח</row>
+		<row row_number="20" isdata="1">בעלמא אמרו ליה הא לא קא מיבעיא לן</row>
+		<row row_number="21" isdata="1">דתנן אין השליח האחרון מכלל דשליח משוי</row>
+		<row row_number="22" isdata="1">שליח אלא כי קא מיבעיא לן בב"ד או שלא</row>
+		<row row_number="23" isdata="1">בבית דין אמר להו הא נמי לא תיבעי לכו</row>
+		<row row_number="24" isdata="1">דקתני אלא אומר שליח ב"ד אני אמר רבה</row>
+		<row row_number="25" isdata="1">שליח בא"י עושה כמה שלוחין אמר רב אשי</row>
+		<row row_number="26" isdata="1">אם מת ראשון בטלו כולן אמר מר בר רב</row>
+		<row row_number="27" isdata="1">אשי הא דאבא דקטנותא היא אילו מת בעל</row>
+		<row row_number="28" isdata="1">מידי מששא אית בהו כולהו מכח מאן קאתו</row>
+		<row row_number="29" isdata="1">מכח דבעל קאתו איתיה לבעל איתנהו</row>
+		<row row_number="30" isdata="1">לכולהו ליתיה לבעל ליתנהו לכולהו ההוא</row>
+		<row row_number="31" isdata="1">גברא דשדר לה גיטא לדביתהו אמר שליח</row>
+		<row row_number="32" isdata="1">לא ידענא לה אמר ליה זיל יהביה לאבא בר</row>
+		<row row_number="33" isdata="1">מניומי דאיהו ידע לה וליזיל וליתביה ניהלה</row>
+		<row row_number="34" isdata="1">אתא ולא אשכח לאבא בר מניומי אשכחיה לרבי אבהו ורבי חנינא בר פפא</row>
+		<row row_number="35" isdata="1">ור' יצחק נפחא ויתיב רב ספרא גבייהו אמרו ליה מסור מילך קמי דידן דכי</row>
+		<row row_number="36" isdata="1">ייתי אבא בר מניומי ניתביניה ליה וליזיל וליתביניה לה אמר להו רב ספרא</row>
+		<row row_number="37" isdata="1">והא שליח שלא ניתן לגירושין הוא איכסופו אמר רבא קפחינהו רב ספרא</row>
+		<row row_number="38" isdata="1">לתלתא רבנן סמוכי א"ר אשי במאי קפחינהו מי קאמר ליה אבא בר מניומי</row>
+		<row row_number="39" isdata="1">ולא את איכא דאמרי אמר רבא קפחינהו רב ספרא לתלתא רבנן סמוכי</row>
+		<row row_number="40" isdata="1">בטעותא א"ר אשי מאי טעותא מאי קא אמר ליה אבא בר מניומי ולא את</row>
+		<row row_number="41" isdata="1">ההוא גברא דשדר לה גיטא לדביתהו א"ל לשליח לא תיתביה ניהלה עד</row>
+		<row row_number="42" isdata="1">תלתין יומין אתניס בגו תלתין יומין אתא לקמיה דרבא אמר רבא חלה טעמא</row>
+		<row row_number="43" isdata="1">מאי משום דאנוס האי נמי אנוס הוא אמר ליה מסור מילך קמי דידן דלבתר</row>
+		<row row_number="44" isdata="1">תלתין יומין משוינן שליח ויהיב ליה ניהלה א"ל רבנן לרבא והא שליח שלא</row>
+		<row row_number="45" isdata="1">ניתן לגירושין הוא אמר להו כיון דלבתר תלתין יומין מצי מגרש כשליח</row>
+		<row row_number="46" isdata="1">שניתן לגירושין הוא וליחוש שמא פייס מי לא תנן מעכשיו אם לא באתי</row>
+		<row row_number="47" isdata="1">מכאן ועד יב"ח ומת בתוך יב"ח הרי זה גט והוינן בה וניחוש שמא פייס ואמר</row>
+		<row row_number="48" isdata="1">רבה בר רב הונא הכי אמר אבא מרי משמיה דרב באומר נאמנת עלי</row>
+		<row row_number="49" isdata="1">לומר שלא באתי איכסיף לסוף איגלאי מילתא דארוסה הואי אמר רבא</row>
+		<row row_number="50" isdata="1">אם אמרו בנשואה יאמרו בארוסה אמר רבא הא ודאי קא מיבעיא לן</row>
+</amud>
+</daf>
+</masechet>
+</root>

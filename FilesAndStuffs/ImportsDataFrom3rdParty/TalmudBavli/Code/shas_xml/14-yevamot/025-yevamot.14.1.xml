@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:53.754416</dateCreated>
+   <lastModified>2019-12-21 20:29:53.754416</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="14">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חמש עשרה נשים"/><ContGemara/>מי סברת עשו ב"ש כדבריהם לא עשו ב"ש</row>
+		<row row_number="2" isdata="1">כדבריהם ור' יוחנן אמר עשו ועשו ובפלוגתא</row>
+		<row row_number="3" isdata="1">[דרב ושמואל] דרב אומר לא עשו ב"ש</row>
+		<row row_number="4" isdata="1">כדבריהם ושמואל אמר עשו ועשו אימת</row>
+		<row row_number="5" isdata="1">אילימא קודם בת קול מ"ט דמ"ד לא עשו</row>
+		<row row_number="6" isdata="1">ואלא לאחר בת קול מ"ט דמ"ד עשו אי</row>
+		<row row_number="7" isdata="1">בעית אימא קודם בת קול ואי בעית</row>
+		<row row_number="8" isdata="1">אימא לאחר בת קול אי בעית אימא קודם</row>
+		<row row_number="9" isdata="1">בת קול וכגון דב"ה רובא למ"ד לא עשו</row>
+		<row row_number="10" isdata="1">דהא ב"ה רובא ומ"ד עשו כי אזלינן בתר</row>
+		<row row_number="11" isdata="1">רובא היכא דכי הדדי נינהו הכא בית שמאי</row>
+		<row row_number="12" isdata="1">מחדדי טפי ואי בעית אימא לאחר בת קול</row>
+		<row row_number="13" isdata="1">מ"ד לא עשו דהא נפקא בת קול ומ"ד עשו</row>
+		<row row_number="14" isdata="1">רבי יהושע היא דאמר אין משגיחין בבת</row>
+		<row row_number="15" isdata="1">קול ומ"ד עשו קרינן כאן לא תתגודדו לא</row>
+		<row row_number="16" isdata="1">תעשו אגודות אגודות אמר אביי כי</row>
+		<row row_number="17" isdata="1">אמרינן לא תתגודדו כגון שתי בתי דינים</row>
+		<row row_number="18" isdata="1">בעיר אחת הללו מורים כדברי ב"ש והללו</row>
+		<row row_number="19" isdata="1">מורים כדברי ב"ה אבל שתי בתי דינים</row>
+		<row row_number="20" isdata="1">בשתי עיירות לית לן בה אמר ליה רבא</row>
+		<row row_number="21" isdata="1">והא ב"ש וב"ה כשתי בתי דינים בעיר אחת</row>
+		<row row_number="22" isdata="1">דמי אלא אמר רבא כי אמרינן לא תתגודדו</row>
+		<row row_number="23" isdata="1">כגון ב"ד בעיר אחת פלג מורין כדברי ב"ש</row>
+		<row row_number="24" isdata="1">ופלג מורין כדברי ב"ה אבל שתי בתי דינין</row>
+		<row row_number="25" isdata="1">בעיר אחת לית לן בה תא שמע במקומו</row>
+		<row row_number="26" isdata="1">של רבי אליעזר היו כורתים עצים לעשות</row>
+		<row row_number="27" isdata="1">פחמים בשבת לעשות ברזל במקומו של ר'</row>
+		<row row_number="28" isdata="1">יוסי הגלילי היו אוכלים בשר עוף בחלב</row>
+		<row row_number="29" isdata="1">במקומו של רבי אליעזר אין במקומו של רבי עקיבא לא דתניא כלל אמר</row>
+		<row row_number="30" isdata="1">רבי עקיבא כל מלאכה שאפשר לעשותה מע"ש אין דוחה את השבת והאי</row>
+		<row row_number="31" isdata="1">מאי תיובתא מקומות מקומות שאני ודקארי לה מאי קארי לה ס"ד אמינא</row>
+		<row row_number="32" isdata="1">משום חומרא דשבת כמקום אחד דמי קמ"ל ת"ש דרבי אבהו כי איקלע</row>
+		<row row_number="33" isdata="1">לאתריה דרבי יהושע בן לוי הוה מטלטל שרגא וכי איקלע לאתריה</row>
+		<row row_number="34" isdata="1">דר' יוחנן לא הוה מטלטל שרגא והאי מאי קושיא ולא אמרינן</row>
+		<row row_number="35" isdata="1">מקומות שאני אנן הכי קאמרינן ר' אבהו היכי עביד הכא הכי</row>
+		<row row_number="36" isdata="1">והיכי עביד הכא הכי רבי אבהו כר' יהושע בן לוי סבירא ליה וכי מקלע</row>
+		<row row_number="37" isdata="1">לאתריה דרבי יוחנן לא הוה מטלטל משום כבודו דרבי יוחנן והאיכא שמעא</row>
+		<row row_number="38" isdata="1">דמודע ליה לשמעא ת"ש אע"פ שאלו אוסרים ואלו מתירים לא נמנעו</row>
+		<row row_number="39" isdata="1">ב"ש מלישא נשים מב"ה ולא ב"ה מב"ש אי אמרת בשלמא לא עשו</row>
+		<row row_number="40" isdata="1">משום הכי לא נמנעו אלא אי אמרת עשו אמאי לא נמנעו בשלמא ב"ש</row>
+		<row row_number="41" isdata="1">מב"ה לא נמנעו דבני חייבי לאוין נינהו אלא ב"ה מבית שמאי אמאי לא</row>
+		<row row_number="42" isdata="1">נמנעו בני חייבי כריתות ממזרים נינהו וכי תימא קסברי ב"ה דאין ממזר</row>
+		<row row_number="43" isdata="1">מחייבי כריתות והאמר רבי אלעזר אף על פי שנחלקו ב"ש וב"ה בצרות</row>
+		<row row_number="44" isdata="1">מודים שאין ממזר אלא ממי שאיסורו איסור ערוה וענוש כרת</row>
+		<row row_number="45" isdata="1">אלא לאו שמע מינה לא עשו לא לעולם עשו דמודעי להו ופרשי</row>
+		<row row_number="46" isdata="1">והכי נמי מסתברא דקתני סיפא כל הטהרות וכל הטמאות שהיו אלו</row>
+		<row row_number="47" isdata="1">מטהרין ואלו מטמאין לא נמנעו עושים טהרות אלו על גבי אלו</row>
+</amud>
+</daf>
+</masechet>
+</root>

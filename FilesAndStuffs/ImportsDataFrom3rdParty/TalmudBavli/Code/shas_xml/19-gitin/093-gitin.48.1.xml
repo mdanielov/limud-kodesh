@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:32.306401</dateCreated>
+   <lastModified>2019-12-21 20:30:32.306401</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="48">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "השולח"/><ContGemara/>בזמן שהיובל נוהג ר' יוחנן אמר מביא וקורא</row>
+		<row row_number="2" isdata="1">ר"ל אמר מביא ואינו קורא רבי יוחנן אמר</row>
+		<row row_number="3" isdata="1">מביא וקורא קנין פירות כקנין הגוף דמי ר"ל</row>
+		<row row_number="4" isdata="1">אמר מביא ואינו קורא קנין פירות לאו כקנין</row>
+		<row row_number="5" isdata="1">הגוף דמי וצריכא דאי איתמר בההיא בההיא</row>
+		<row row_number="6" isdata="1">קאמר ריש לקיש דכי קא נחית אדעתא</row>
+		<row row_number="7" isdata="1">דפירא קא נחית אבל בהך דאדעתא דגופיה</row>
+		<row row_number="8" isdata="1">קא נחית אימא מודי ליה לר' יוחנן ואי איתמר</row>
+		<row row_number="9" isdata="1">בהא בהא קאמר רבי יוחנן אבל בהך אימא</row>
+		<row row_number="10" isdata="1">מודי ליה לריש לקיש צריכא ת"ש הקונה</row>
+		<row row_number="11" isdata="1">אילן וקרקעו מביא וקורא הכא במאי עסקינן</row>
+		<row row_number="12" isdata="1">בזמן שאין היובל נוהג ת"ש הקונה שני</row>
+		<row row_number="13" isdata="1">אילנות בתוך שדהו של חבירו מביא ואינו</row>
+		<row row_number="14" isdata="1">קורא הא שלשה מביא וקורא ה"נ בזמן שאין</row>
+		<row row_number="15" isdata="1">היובל נוהג והשתא דאמר רב חסדא מחלוקת</row>
+		<row row_number="16" isdata="1">ביובל שני אבל ביובל ראשון דברי הכל מביא</row>
+		<row row_number="17" isdata="1">וקורא דאכתי לא סמך דעתייהו ל"ק הא</row>
+		<row row_number="18" isdata="1">ביובל ראשון הא ביובל שני לימא כתנאי</row>
+		<row row_number="19" isdata="1">מנין ללוקח שדה מאביו והקדישה ואח"כ</row>
+		<row row_number="20" isdata="1">מת אביו מניין שתהא לפניו כשדה אחוזה</row>
+		<row row_number="21" isdata="1">ת"ל אם את שדה מקנתו אשר לא משדה</row>
+		<row row_number="22" isdata="1">אחוזתו שדה שאינה ראויה להיות שדה</row>
+		<row row_number="23" isdata="1">אחוזה יצתה זו שראויה להיות שדה אחוזה</row>
+		<row row_number="24" isdata="1">דברי ר' יהודה ור"ש ר"מ אומר מניין ללוקח</row>
+		<row row_number="25" isdata="1">שדה מאביו ומת אביו ואח"כ הקדישה מניין</row>
+		<row row_number="26" isdata="1">שתהא לפניו כשדה אחוזה ת"ל אם את שדה</row>
+		<row row_number="27" isdata="1">מקנתו אשר לא משדה אחוזתו שדה שאינה</row>
+		<row row_number="28" isdata="1">שדה אחוזה יצתה זו שהיא שדה אחוזה ואילו</row>
+		<row row_number="29" isdata="1">לרבי יהודה ור"ש מת אביו ואח"כ הקדישה</row>
+		<row row_number="30" isdata="1">לא צריכא קרא מאי לאו בהא קמיפלגי דר"מ</row>
+		<row row_number="31" isdata="1">סבר קנין פירות כקנין הגוף דמי ובהא במיתת</row>
+		<row row_number="32" isdata="1">אביו הוא דלא ירית ולא מידי והלכך מת אביו</row>
+		<row row_number="33" isdata="1">ואח"כ הקדישה צריך קרא רבי יהודה ור"ש</row>
+		<row row_number="34" isdata="1">סברי קנין פירות לאו כקנין הגוף דמי ובהא</row>
+		<row row_number="35" isdata="1">במיתת אביו השתא הוא דקא ירית והלכך</row>
+		<row row_number="36" isdata="1">מת אביו ואח"כ הקדישה לא צריכא קרא וכי</row>
+		<row row_number="37" isdata="1">איצטריך קרא להקדישה ואח"כ מת אביו הוא</row>
+		<row row_number="38" isdata="1">דאיצטריך אמר רב נחמן בר יצחק לעולם</row>
+		<row row_number="39" isdata="1">אימא לך בעלמא קסברי ר' יהודה ור"ש קנין</row>
+		<row row_number="40" isdata="1">פירות כקנין הגוף דמי והכא רבי יהודה ור"ש</row>
+		<row row_number="41" isdata="1">קרא אשכחו ודרוש לכתוב רחמנא אם את</row>
+		<row row_number="42" isdata="1">שדה מקנתו אשר לא אחוזתו מאי משדה</row>
+		<row row_number="43" isdata="1">אחוזתו שדה שאינה ראויה להיות שדה</row>
+		<row row_number="44" isdata="1">אחוזה יצתה זו שראויה להיות שדה אחוזה</row>
+		<row row_number="45" isdata="1">א"ר יוסף אי לאו דא"ר יוחנן קנין פירות כקנין</row>
+		<row row_number="46" isdata="1">הגוף דמי לא מצא ידיו ורגליו בבית המדרש</row>
+		<row row_number="47" isdata="1">דא"ר אסי א"ר יוחנן האחין שחלקו לקוחות</row>
+		<row row_number="48" isdata="1">הן ומחזירין זה לזה ביובל ואי ס"ד לאו</row>
+		<row row_number="49" isdata="1">כקנין הגוף דמי לא משכחת דמייתי ביכורים</row>
+		<row row_number="50" isdata="1">אלא חד בר חד עד יהושע בן נון אמר</row>
+		<row row_number="51" isdata="1">רבא קרא ומתניתא מסייעי ליה לר"ל קרא</row>
+</amud>
+</daf>
+</masechet>
+</root>

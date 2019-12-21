@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:49.660514</dateCreated>
+   <lastModified>2019-12-21 20:30:49.660514</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="77">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מרובה"/><ContGemara/>ואמר ריש לקיש אומר היה רבי שמעון פרה</row>
+		<row row_number="2" isdata="1">נפדית ע"ג מערכתה אלמא כל העומד לפדות</row>
+		<row row_number="3" isdata="1">כפדוי דמי בשלמא רבי יוחנן לא אמר כרבי</row>
+		<row row_number="4" isdata="1">שמעון בן לקיש דקא בעי לאוקמה למתניתין</row>
+		<row row_number="5" isdata="1">אפילו בתמימין אלא ריש לקיש מאי טעמא</row>
+		<row row_number="6" isdata="1">לא אמר כרבי יוחנן אמר לך וטבחו ומכרו</row>
+		<row row_number="7" isdata="1">כל היכא דאיתיה במכירה איתיה בטביחה</row>
+		<row row_number="8" isdata="1">וכל היכא דליתיה במכירה ליתיה בטביחה</row>
+		<row row_number="9" isdata="1">והני קדשים הואיל דכי מזבין קדשים לא</row>
+		<row row_number="10" isdata="1">הויא מכירה ליתנהו בטביחה ואזדו לטעמייהו</row>
+		<row row_number="11" isdata="1">דאתמר המוכר טריפה לדברי ר' שמעון רבי</row>
+		<row row_number="12" isdata="1">יוחנן אמר חייב וריש לקיש אמר פטור רבי</row>
+		<row row_number="13" isdata="1">יוחנן אמר חייב אע"ג דליתיה בטביחה איתיה</row>
+		<row row_number="14" isdata="1">במכירה וריש לקיש אמר פטור כיון דליתיה</row>
+		<row row_number="15" isdata="1">בטביחה ליתיה במכירה איתיביה רבי יוחנן</row>
+		<row row_number="16" isdata="1">לר"ש בן לקיש גנב כלאים וטבחה טריפה</row>
+		<row row_number="17" isdata="1">ומכרה משלם תשלומי ארבעה וחמשה מאי</row>
+		<row row_number="18" isdata="1">לאו ר"ש היא אלמא אע"ג דליתיה בטביחה</row>
+		<row row_number="19" isdata="1">איתיה במכירה אמר ליה לא רבנן אי רבנן</row>
+		<row row_number="20" isdata="1">טריפה במכירה איתא בזביחה ליתא ואלא</row>
+		<row row_number="21" isdata="1">מאי ר"ש כלאים בטביחה איתא במכירה</row>
+		<row row_number="22" isdata="1">ליתא אלא תנא טביחה והוא הדין למכירה</row>
+		<row row_number="23" isdata="1">אימא לרבנן נמי תנא מכירה והוא הדין</row>
+		<row row_number="24" isdata="1">לטביחה ורבי יוחנן אמר לך האי מאי אי</row>
+		<row row_number="25" isdata="1">אמרת בשלמא ר"ש איידי דתנא טריפה</row>
+		<row row_number="26" isdata="1">בחדא תנא כלאים בחדא אלא אי אמרת</row>
+		<row row_number="27" isdata="1">רבנן נערבינהו וניתנינהו גנב כלאים וטריפה</row>
+		<row row_number="28" isdata="1">טבחן ומכרן משלם תשלומי ארבעה וחמשה</row>
+		<row row_number="29" isdata="1">קשיא כלאים שה כתיב ואמר רבא זה בנה</row>
+		<row row_number="30" isdata="1">אב כל מקום שנאמר שה אינו אלא להוציא</row>
+		<row row_number="31" isdata="1">את הכלאים שאני הכא דאמר קרא או לרבות את הכלאים וכל או לרבות</row>
+		<row row_number="32" isdata="1">הוא והתניא שור או כשב פרט לכלאים או עז פרט לנדמה אמר רבא</row>
+		<row row_number="33" isdata="1">הכא מענייניה דקרא והכא מענייניה דקרא הכא גבי גניבה דכתיב שור</row>
+		<row row_number="34" isdata="1">או שה שאי אתה יכול להוציא כלאים מביניהם או לרבות כלאים גבי</row>
+		<row row_number="35" isdata="1">קדשים דכתיב כשב ועז שאתה יכול להוציא כלאים מביניהם או למעט הוא</row>
+</amud>
+</daf>
+</masechet>
+</root>

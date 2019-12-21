@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:27.630804</dateCreated>
+   <lastModified>2019-12-21 20:32:27.630804</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="140">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שילוח הקן "/><ContGemara/>אם כן צפור למעוטי עוף טמא ל"ל והתניא</row>
+		<row row_number="2" isdata="1">אם אפרוחין טרפה חייב בשילוח אמר אביי</row>
+		<row row_number="3" isdata="1">הכי קאמר אפרוח שאמן טרפה חייב בשילוח</row>
+		<row row_number="4" isdata="1">בעי רב הושעיא הושיט ידו לקן ושחט</row>
+		<row row_number="5" isdata="1">מיעוט סימנים מהו מי אמרינן כיון דאילו</row>
+		<row row_number="6" isdata="1">שביק להו מטרפי בעינן לך ולא לכלביך</row>
+		<row row_number="7" isdata="1">או דלמא כיון דבידו למגמר שחיטה תקח</row>
+		<row row_number="8" isdata="1">לך קרינא ביה וחייב בשילוח תיקו בעי ר'</row>
+		<row row_number="9" isdata="1">ירמיה מטלית מהו שתחוץ כנפים מהו</row>
+		<row row_number="10" isdata="1">שיחוצו ביצים מוזרות מהו שני סדרי ביצים</row>
+		<row row_number="11" isdata="1">זו על גב זו מהו זכר על גבי ביצים ונקבה</row>
+		<row row_number="12" isdata="1">על גבי זכר מהו תיקו בעי ר' זירא יונה על</row>
+		<row row_number="13" isdata="1">ביצי תסיל מהו תסיל על ביצי יונה מהו</row>
+		<row row_number="14" isdata="1">אמר אביי ת"ש עוף טמא רובץ על ביצי עוף</row>
+		<row row_number="15" isdata="1">טהור וטהור רובץ על ביצי עוף טמא פטור</row>
+		<row row_number="16" isdata="1">משילוח הא טהור וטהור חייב דלמא בקורא קורא זכר רבי אליעזר מחייב</row>
+		<row row_number="17" isdata="1">וחכמים פוטרין אמר רבי אבהו מאי טעמא דרבי אליעזר אתיא דגירה</row>
+		<row row_number="18" isdata="1">דגירה כתיב הכא קורא דגר ולא ילד וכתיב התם ובקעה ודגרה בצלה</row>
+		<row row_number="19" isdata="1">אמר ר"א מחלוקת בקורא זכר אבל בקורא נקבה דברי הכל חייב פשיטא</row>
+		<row row_number="20" isdata="1">קורא זכר תנן מהו דתימא רבנן אפילו קורא נקבה פטרי והא דקתני זכר</row>
+		<row row_number="21" isdata="1">להודיעך כחו דרבי אליעזר קמשמע לן ואמר רבי אלעזר מחלוקת בקורא</row>
+		<row row_number="22" isdata="1">זכר אבל בזכר דעלמא דברי הכל פטור פשיטא קורא זכר תנן מהו דתימא</row>
+		<row row_number="23" isdata="1">רבי אליעזר אפי' זכר דעלמא מחייב והאי דקתני קורא זכר להודיעך כחן</row>
+		<row row_number="24" isdata="1">דרבנן קמ"ל תניא נמי הכי זכר דעלמא פטור קורא זכר ר"א מחייב וחכמים</row>
+		<row row_number="25" isdata="1">פוטריןמתני' היתה מעופפת בזמן שכנפיה נוגעות בקן חייב לשלח</row>
+		<row row_number="26" isdata="1">אין כנפיה נוגעות בקן פטור מלשלח אין שם אלא אפרוח אחד או ביצה</row>
+		<row row_number="27" isdata="1">אחת חייב לשלח שנאמר קן קן מכל מקום היו שם אפרוחים מפריחים או</row>
+		<row row_number="28" isdata="1">ביצים מוזרות פטור מלשלח שנאמר והאם רובצת על האפרוחים או על</row>
+		<row row_number="29" isdata="1">הביצים מה אפרוחים בני קיימא אף ביצים בני קיימא יצאו מוזרות ומה</row>
+		<row row_number="30" isdata="1">הביצים צריכין לאמן אף האפרוחין צריכין לאמן יצאו מפריחין<EndMishna/><StartGemara/>גמ' תנו</row>
+		<row row_number="31" isdata="1">רבנן רובצת ולא מעופפת יכול אפי' כנפיה נוגעות בקן ת"ל רובצת מאי</row>
+		<row row_number="32" isdata="1">תלמודא מדלא כתיב יושבת אמר רב יהודה אמר רב היתה יושבת בין</row>
+		<row row_number="33" isdata="1">שני רובדי אילן רואים כל שאם תשמט נופלת עליהם חייב לשלח ואם לאו</row>
+		<row row_number="34" isdata="1">פטור מיתיבי היתה יושבת ביניהן פטור מלשלח על גביהן חייב לשלח היתה</row>
+		<row row_number="35" isdata="1">מעופפת אפי' כנפיה נוגעות בקן פטור מלשלח מאי לאו על גביהן דומיא דביניהן</row>
+		<row row_number="36" isdata="1">מה ביניהן דנגעה בהו אף על גביהן דנגעה בהו אבל רובדי אילן פטור לא על</row>
+		<row row_number="37" isdata="1">גביהן דומיא דביניהן מה ביניהן דלא נגעה עלייהו אף על גביהן דלא נגעה</row>
+		<row row_number="38" isdata="1">עלייהו והיינו רובדי אילן ה"נ מסתברא דאי סלקא דעתך רובדי אילן פטור</row>
+		<row row_number="39" isdata="1">אדתני היתה מעופפת אפי' כנפיה נוגעות בקן פטור מלשלח ליתני רובדי</row>
+		<row row_number="40" isdata="1">אילן וכ"ש מעופפת מעופפת איצטריך ליה דאפי' כנפיה נוגעות בקן פטור</row>
+		<row row_number="41" isdata="1">מלשלח והאנן תנן בזמן שכנפיה נוגעות בקן חייב לשלח אמר ר' ירמיה כי</row>
+		<row row_number="42" isdata="1">קתני מתניתא בנוגע מן הצד איכא דאמרי לימא מסייע ליה היתה יושבת</row>
+		<row row_number="43" isdata="1">ביניהן פטור מלשלח על גביהן חייב לשלח היתה מעופפת אפי' כנפיה</row>
+		<row row_number="44" isdata="1">נוגעות בקן פטור מלשלח מאי לאו על גביהן דומיא דביניהן מה ביניהן דלא</row>
+		<row row_number="45" isdata="1">נגעה עלייהו אף על גביהן דלא נגעה עלייהו והיינו רובדי אילן לא על גביהן</row>
+		<row row_number="46" isdata="1">דומיא דביניהן מה ביניהן דנגעה בהו אף על גביהן דנגעה בהו אבל רובדי אילן</row>
+		<row row_number="47" isdata="1">פטור אי הכי אדקתני סיפא היתה מעופפת אפי' כנפיה נוגעות בקן פטור</row>
+</amud>
+</daf>
+</masechet>
+</root>

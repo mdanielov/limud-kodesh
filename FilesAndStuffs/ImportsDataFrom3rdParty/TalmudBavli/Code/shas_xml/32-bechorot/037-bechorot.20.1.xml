@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:29.210439</dateCreated>
+   <lastModified>2019-12-21 20:32:29.210439</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="20">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח בהמה"/><ContGemara/>מחוורתא ר' ישמעאל כרבי מאיר סבירא ליה</row>
+		<row row_number="2" isdata="1">דחייש למיעוטא רבינא אמר אפילו תימא</row>
+		<row row_number="3" isdata="1">רבנן כי אזלי רבנן בתר רובא ברובא דלא</row>
+		<row row_number="4" isdata="1">תלי במעשה אבל רובא דתלי במעשה לא</row>
+		<row row_number="5" isdata="1">ת"ר עז בת שנתה ודאי לכהן מיכן ולהלן</row>
+		<row row_number="6" isdata="1">ספק רחל בת שתים ודאי לכהן מיכן ולהלן</row>
+		<row row_number="7" isdata="1">ספק פרה בת שלש ודאי לכהן מיכן ולהלן</row>
+		<row row_number="8" isdata="1">ספק חמורה כפרה ר' יוסי ברבי יהודה אומר</row>
+		<row row_number="9" isdata="1">חמורה בת ארבע שנים עד כאן דברי רבי</row>
+		<row row_number="10" isdata="1">ישמעאל כשנאמרו דברים לפני רבי יהושע</row>
+		<row row_number="11" isdata="1">אמר להן צאו אמרו לו לר' ישמעאל טעית</row>
+		<row row_number="12" isdata="1">אילו בוולד בלבד הבהמה נפטרת היה</row>
+		<row row_number="13" isdata="1">כדבריך (אלא) סימן הוולד בבהמה דקה</row>
+		<row row_number="14" isdata="1">טינוף ובגסה שליא ובאשה שפיר ושליא</row>
+		<row row_number="15" isdata="1">ואני אין אני אומר כן אלא עז שטינפה</row>
+		<row row_number="16" isdata="1">בת ששה יולדת בתוך שנתה רחל שטינפה</row>
+		<row row_number="17" isdata="1">בת שנתה יולדת בתוך שתים אמר ר' עקיבא</row>
+		<row row_number="18" isdata="1">אני לא באתי לידי מדה זו אלא כל שידוע</row>
+		<row row_number="19" isdata="1">שביכרה אין כאן לכהן כלום וכל שלא ביכרה</row>
+		<row row_number="20" isdata="1">הרי זו לכהן ספק יאכל במומו לבעלים במאי</row>
+		<row row_number="21" isdata="1">קמיפלגי ר' ישמעאל ור' יהושע לימא בטינוף</row>
+		<row row_number="22" isdata="1">פוטר קמיפלגי רבי ישמעאל סבר טינוף אינו</row>
+		<row row_number="23" isdata="1">פוטר ורבי יהושע סבר טינוף פוטר אי דחזינן</row>
+		<row row_number="24" isdata="1">דטינוף דכולי עלמא לא פליגי דטינוף פוטר</row>
+		<row row_number="25" isdata="1">והכא בחוששין לטינוף קא מיפלגי רבי</row>
+		<row row_number="26" isdata="1">ישמעאל סבר אין חוששין לטינוף ור' יהושע</row>
+		<row row_number="27" isdata="1">סבר חוששין לטינוף ולא חייש והאמר רבא</row>
+		<row row_number="28" isdata="1">מחוורתא רבי ישמעאל כר"מ ס"ל דחייש</row>
+		<row row_number="29" isdata="1">למיעוט כי חייש לחומרא לקולא לא חייש</row>
+		<row row_number="30" isdata="1">ואיבעית אימא בין לקולא בין לחומרא חייש</row>
+		<row row_number="31" isdata="1">והכא במטנפת וחוזרת ויולדת בתוך שנתה</row>
+		<row row_number="32" isdata="1">קמיפלגי דרבי ישמעאל סבר מטנפת אינה</row>
+		<row row_number="33" isdata="1">חוזרת ויולדת בתוך שנתה והא מדאוליד</row>
+		<row row_number="34" isdata="1">ודאי לא טניף ור' יהושע סבר מטנפת חוזרת</row>
+		<row row_number="35" isdata="1">ויולדת בתוך שנתה ואני איני אומר כן אלא עז שטינפה בת ששה יולדת</row>
+		<row row_number="36" isdata="1">תוך שנתה רחל שטינפה בת שנתה יולדת בתוך שתים מאי איכא בין גמריה</row>
+		<row row_number="37" isdata="1">לסבריה שטינפה בסוף ששה ואיכא בינייהו דזעירי דאמר זעירי אין</row>
+		<row row_number="38" isdata="1">טינוף פחות משלשים יום לגמריה אית ליה דזעירי לסבריה לית ליה דזעירי</row>
+		<row row_number="39" isdata="1">ואיבעית אימא דכולי עלמא אית להו דזעירי והכא ביולדת למקוטעין קמיפלגי</row>
+</amud>
+</daf>
+</masechet>
+</root>

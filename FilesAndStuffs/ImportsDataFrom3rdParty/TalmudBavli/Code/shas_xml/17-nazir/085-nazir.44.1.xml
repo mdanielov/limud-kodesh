@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:23.128472</dateCreated>
+   <lastModified>2019-12-21 20:30:23.128472</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="44">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שלשה מינין"/><ContGemara/>יכול לא יטמא לשדרה ולגולגולת ולרוב</row>
+		<row row_number="2" isdata="1">בניינו ולרוב מניינו של אחרים אמרת מה</row>
+		<row row_number="3" isdata="1">אחותו מיוחדת שגופה תלוי בו ומיטמא</row>
+		<row row_number="4" isdata="1">לשדרה ולגולגולת ולרוב בניינה ולרוב</row>
+		<row row_number="5" isdata="1">מניינה אף כל שגופו תלוי בו מיטמא לשדרה</row>
+		<row row_number="6" isdata="1">ולגולגולת ולרוב בניינו ולרוב מניינו ההיא</row>
+		<row row_number="7" isdata="1">נמי רבי יהודה היא ורב דאמר כי האי תנא</row>
+		<row row_number="8" isdata="1">דתניא מעשה שמת אביו של רבי יצחק</row>
+		<row row_number="9" isdata="1">בגינזק ובאו והודיעוהו לאחר שלש שנים</row>
+		<row row_number="10" isdata="1">ובא ושאל את ר' יהושע בן אלישע וד' זקנים</row>
+		<row row_number="11" isdata="1">[שעמו] ואמרו לאביו בזמן שהוא שלם ולא</row>
+		<row row_number="12" isdata="1">בזמן שהוא חסרמתני' שלשה מינין</row>
+		<row row_number="13" isdata="1">אסורין בנזיר הטומאה והתגלחת והיוצא מן</row>
+		<row row_number="14" isdata="1">הגפן חומר בטומאה ובתגלחת מביוצא מן</row>
+		<row row_number="15" isdata="1">הגפן שהטומאה והתגלחת סותרין והיוצא</row>
+		<row row_number="16" isdata="1">מן הגפן אינו סותר חומר ביוצא מן הגפן</row>
+		<row row_number="17" isdata="1">מבטומאה ובתגלחת שהיוצא מן הגפן לא</row>
+		<row row_number="18" isdata="1">הותר מכללו וטומאה ותגלחת הותרו מכללן</row>
+		<row row_number="19" isdata="1">בתגלחת מצוה ובמת מצוה וחומר בטומאה</row>
+		<row row_number="20" isdata="1">מבתגלחת שהטומאה סותרת את הכל</row>
+		<row row_number="21" isdata="1">וחייבין עליה קרבן ותגלחת אינה סותרת</row>
+		<row row_number="22" isdata="1">אלא שלשים ואין חייבין עליה קרבן<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="23" isdata="1">וטומאה לא תותר מכללה ק"ו מיין ומה</row>
+		<row row_number="24" isdata="1">יין שאינו סותר לא הותר מכללו טומאה</row>
+		<row row_number="25" isdata="1">שסותרת אינו דין שלא תותר מכללה ת"ל</row>
+		<row row_number="26" isdata="1">לאביו ולאמו לא יטמא לאביו ולאמו לא</row>
+		<row row_number="27" isdata="1">יטמא אבל מיטמא הוא למת מצוה ויין יותר</row>
+		<row row_number="28" isdata="1">מכללו ק"ו מטומאה מה טומאה שהיא סותרת</row>
+		<row row_number="29" isdata="1">הותרה מכללה יין שאינו סותר אינו דין</row>
+		<row row_number="30" isdata="1">שיותר מכללו אמר קרא מיין ושכר יזיר לאסור יין מצוה כיין רשות ויין יסתור</row>
+		<row row_number="31" isdata="1">את הכל ק"ו מטומאה מה טומאה שהותרה מכללה סותרת את הכל יין שלא</row>
+		<row row_number="32" isdata="1">הותר מכללו לא כ"ש שיסתור אמר קרא והימים הראשונים יפלו כי טמא</row>
+		<row row_number="33" isdata="1">נזרו טומאה סותרת ואין היין סותר והתגלחת תסתור את הכל ק"ו מטומאה</row>
+		<row row_number="34" isdata="1">ומה טומאה שלא עשו בה מטמא כמיטמא סותרת את הכל תגלחת שעשו</row>
+		<row row_number="35" isdata="1">בה מגלח כמתגלח אינו דין שתסתור את הכל אמר קרא והימים הראשונים</row>
+		<row row_number="36" isdata="1">יפלו כי טמא נזרו טומאה סותרת את הכל ואין תגלחת סותרת את הכל וטומאה</row>
+		<row row_number="37" isdata="1">נעשה בה מטמא כמיטמא ק"ו מתגלחת ומה תגלחת שאינה סותרת אלא</row>
+		<row row_number="38" isdata="1">שלשים עשה בה מגלח כמתגלח טומאה שהיא סותרת את הכל אינו דין</row>
+		<row row_number="39" isdata="1">שנעשה בה מטמא כמיטמא אמר קרא וטמא ראש נזרו למטמא ראש נזרו</row>
+		<row row_number="40" isdata="1">ותגלחת לא נעשה בה מגלח כמתגלח ק"ו מטומאה ומה טומאה שהיא סותרת</row>
+		<row row_number="41" isdata="1">את הכל לא עשו בה מטמא כמיטמא תגלחת שאינה סותרת אלא שלשים</row>
+		<row row_number="42" isdata="1">יום לא כל שכן שלא נעשה מגלח כמתגלח אמר קרא תער לא יעבור על</row>
+		<row row_number="43" isdata="1">ראשו קרי ביה לא יעבור הוא ולא יעבור לאחר ותגלחת לא תותר מכללה ק"ו</row>
+		<row row_number="44" isdata="1">מיין ומה יין שאינו סותר לא הותר מכללו תגלחת שסותרת אינו דין שלא</row>
+		<row row_number="45" isdata="1">תותר מכללה אמר רחמנא ראשו ואמר רחמנא זקנו ותגלחת לא תסתור כלל</row>
+		<row row_number="46" isdata="1">קל וחומר מיין ומה יין שלא הותר מכללו אינו סותר תגלחת שהותרה מכללה</row>
+		<row row_number="47" isdata="1">אינו דין שלא תסתור בעינן גידול שער והא ליכא ויין יסתור שלשים יום</row>
+		<row row_number="48" isdata="1">ק"ו מתגלחת ומה תגלחת שהותרה מכללה סותרת יין שלא הותר מכללו אינו</row>
+		<row row_number="49" isdata="1">דין שיסתור מידי הוא טעמא אלא משום גידול שער גבי יין הא קאים שערו</row>
+</amud>
+</daf>
+</masechet>
+</root>

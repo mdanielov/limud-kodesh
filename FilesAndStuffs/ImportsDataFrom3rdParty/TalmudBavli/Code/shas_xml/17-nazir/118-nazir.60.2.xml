@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:24.378473</dateCreated>
+   <lastModified>2019-12-21 20:30:24.378473</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="60">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שני נזירים"/><ContGemara/>ואי ודאי נזיר הוא עולה הראשונה חובה</row>
+		<row row_number="2" isdata="1">וזו נדבה ואם טמא ומוחלט הוא עולה</row>
+		<row row_number="3" isdata="1">הראשונה נדבה וזו חובה וזה שאר קרבנו</row>
+		<row row_number="4" isdata="1">טמא ספק ומוחלט ודאי אוכל בקדשים</row>
+		<row row_number="5" isdata="1">לאחר שמונה ימים ושותה יין ומיטמא למתים</row>
+		<row row_number="6" isdata="1">לאחר ששים ושבעה ימים מוחלט ספק</row>
+		<row row_number="7" isdata="1">וטמא ודאי אוכל בקדשים לאחר שלשים</row>
+		<row row_number="8" isdata="1">ושבעה ימים ושותה יין ומיטמא למתים</row>
+		<row row_number="9" isdata="1">לאחר שבעים וארבעה ימים טמא ודאי</row>
+		<row row_number="10" isdata="1">ומוחלט ודאי אוכל בקדשים לאחר שמונה</row>
+		<row row_number="11" isdata="1">ימים ושותה יין ומיטמא למתים לאחר</row>
+		<row row_number="12" isdata="1">ארבעים וארבעה ימים שאלו תלמידיו את</row>
+		<row row_number="13" isdata="1">ר' שמעון בן יוחי נזיר טהור ומצורע מהו</row>
+		<row row_number="14" isdata="1">שיגלח תגלחת אחת ועולה לו לכאן ולכאן</row>
+		<row row_number="15" isdata="1">אמר להן אינו מגלח אמרו לו למה אמר</row>
+		<row row_number="16" isdata="1">להן אילו זה לגדל וזה לגדל וזה להעביר וזה</row>
+		<row row_number="17" isdata="1">להעביר יפה אתם אומרים עכשיו נזיר</row>
+		<row row_number="18" isdata="1">להעביר ומצורע לגדל ולא תעלה לו לימי</row>
+		<row row_number="19" isdata="1">חלוטו ותעלה לו לימי ספרו ואמר להן אילו</row>
+		<row row_number="20" isdata="1">זה לפני זריקת דמים וזה לפני זריקת דמים</row>
+		<row row_number="21" isdata="1">יפה אתם אומרים אלא מצורע לפני</row>
+		<row row_number="22" isdata="1">זריקת דמים ונזיר לאחר זריקת דמים ולא</row>
+		<row row_number="23" isdata="1">תעלה לו לימי צרעתו ונזירותו ותעלה לו לימי</row>
+		<row row_number="24" isdata="1">צרעתו וטומאתו אמר להן אילו זה לפני ביאת</row>
+		<row row_number="25" isdata="1">מים וזה לפני ביאת מים יפה אתם אומרים</row>
+		<row row_number="26" isdata="1">אלא טמא לאחר ביאת מים מצורע לפני ביאת</row>
+		<row row_number="27" isdata="1">מים אמרו לו יפה אמרת שלא תעלה לו</row>
+		<row row_number="28" isdata="1">לימי ספרו ולנזירותו ותעלה לו לימי חלוטו</row>
+		<row row_number="29" isdata="1">וטומאתו דזה לגדל וזה לגדל הוא אמר</row>
+		<row row_number="30" isdata="1">להן נזיר טהור והוא מצורע זה לגדל</row>
+		<row row_number="31" isdata="1">וזה להעביר ואם נזיר טמא והוא מצורע</row>
+		<row row_number="32" isdata="1">זה לפני ביאת מים וזה לאחר ביאת מים</row>
+</amud>
+</daf>
+</masechet>
+</root>

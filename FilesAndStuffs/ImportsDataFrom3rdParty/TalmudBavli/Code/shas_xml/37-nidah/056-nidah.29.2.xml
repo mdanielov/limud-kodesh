@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:46.376360</dateCreated>
+   <lastModified>2019-12-21 20:32:46.376360</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המפלת חתיכה"/><ContGemara/>אשה שיצתה מלאה ובאה ריקנית והביאה</row>
+		<row row_number="2" isdata="1">לפנינו שלשה שבועין טהורין ועשרה שבועות</row>
+		<row row_number="3" isdata="1">אחד טמא ואחד טהור משמשת לאור שלשים</row>
+		<row row_number="4" isdata="1">וחמש ומטבילין אותה תשעים וחמש טבילות</row>
+		<row row_number="5" isdata="1">דברי ב"ש וב"ה אומרים שלשים וחמש רבי</row>
+		<row row_number="6" isdata="1">יוסי בר' יהודה אומר דיה לטבילה שתהא</row>
+		<row row_number="7" isdata="1">באחרונה בשלמא שבוע ראשון לא משמשת</row>
+		<row row_number="8" isdata="1">אימר יולדת זכר היא שבוע שני אימר יולדת</row>
+		<row row_number="9" isdata="1">נקבה היא שבוע שלישי אימר יולדת נקבה</row>
+		<row row_number="10" isdata="1">בזוב היא אלא שבוע רביעי אע"ג דקא חזיא</row>
+		<row row_number="11" isdata="1">דם תשמש דהא דם טהור הוא לאו משום</row>
+		<row row_number="12" isdata="1">דלא אזלינן בתר רובא אלא מאי לא ידענא</row>
+		<row row_number="13" isdata="1">מאי תיובתא אימר הרחיקה לידתה הך</row>
+		<row row_number="14" isdata="1">שבוע חמישי דטהור הוא תשמש הך שבוע</row>
+		<row row_number="15" isdata="1">רביעי כל יומא ויומא מספקין בסוף לידה</row>
+		<row row_number="16" isdata="1">ובתחלת נדה ועשרין ותמניא גופיה אימר</row>
+		<row row_number="17" isdata="1">תחלת נדה היא ובעיא למיתב שבעה לנדתה</row>
+		<row row_number="18" isdata="1">בעשרים וחד תשמש רבי שמעון היא דאמר</row>
+		<row row_number="19" isdata="1">אסור לעשות כן שמא תבא לידי ספק</row>
+		<row row_number="20" isdata="1">לאורתא תשמש כשראתה בערב</row>
+		<row row_number="21" isdata="1">ומטבילין אותה תשעים וחמש טבילות</row>
+		<row row_number="22" isdata="1">שבוע קמא מטבילין אותה בלילותא אימר יולדת זכר היא שבוע שני</row>
+		<row row_number="23" isdata="1">מטבילין אותה בלילותא אימר יולדת נקבה היא ביממא אימר יולדת</row>
+		<row row_number="24" isdata="1">זכר בזוב היא שבוע שלישי מטבילין לה ביממא אימר יולדת נקבה</row>
+		<row row_number="25" isdata="1">בזוב היא בלילותא ב"ש לטעמייהו דאמרי טבולת יום ארוך בעי טבילה</row>
+</amud>
+</daf>
+</masechet>
+</root>

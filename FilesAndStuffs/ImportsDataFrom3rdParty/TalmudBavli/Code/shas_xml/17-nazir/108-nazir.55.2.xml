@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:24.001475</dateCreated>
+   <lastModified>2019-12-21 20:30:24.001475</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="55">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כהן גדול"/><ContGemara/>אלא לאו בנזירות מרובה וקתני מתחיל</row>
+		<row row_number="2" isdata="1">ומונה מיד הוא מותיב לה והוא מפרק</row>
+		<row row_number="3" isdata="1">לה בנזירות בת חמשים יום דיתיב</row>
+		<row row_number="4" isdata="1">עשרין ואיתילידא ביה צרעת מגלח</row>
+		<row row_number="5" isdata="1">צרעתו והדר יתיב תלתין יומין דנזיר דהא</row>
+		<row row_number="6" isdata="1">אית ליה גידול שער מתיב רמי בר חמא</row>
+		<row row_number="7" isdata="1">נזיר שהיה טמא בספק ומוחלט בספק</row>
+</amud>
+</daf>
+</masechet>
+</root>

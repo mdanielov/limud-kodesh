@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:52.236442</dateCreated>
+   <lastModified>2019-12-21 20:29:52.236442</lastModified>
+ </meta>
+ <masechet name="חגיגה" serial="13">
+<daf value="21">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חומר בקודש "/><ContMishna/>האונן ומחוסר כפורים צריכין טבילה לקדש</row>
+		<row row_number="2" isdata="1">אבל לא לתרומה<EndMishna/><StartGemara/>גמ' בקדש מ"ט לא א"ר</row>
+		<row row_number="3" isdata="1">אילא מפני שכבידו של כלי חוצץ והא</row>
+		<row row_number="4" isdata="1">מדסיפא משום חציצה רישא לאו משום</row>
+		<row row_number="5" isdata="1">חציצה דקתני סיפא ולא כמדת הקדש מדת</row>
+		<row row_number="6" isdata="1">התרומה שבקדש מתיר ומנגיב ומטביל ואחר</row>
+		<row row_number="7" isdata="1">כך קושר ובתרומה קושר ואחר כך מטביל</row>
+		<row row_number="8" isdata="1">רישא וסיפא משום חציצה וצריכא דאי</row>
+		<row row_number="9" isdata="1">אשמעינן רישא הוה אמינא היינו טעמא</row>
+		<row row_number="10" isdata="1">דלקדש לא משום כבידו של כלי דאיכא אבל</row>
+		<row row_number="11" isdata="1">סיפא דליכא כבידו של כלי אימא לקדש נמי</row>
+		<row row_number="12" isdata="1">לא הוי חציצה ואי אשמעינן סיפא הוה</row>
+		<row row_number="13" isdata="1">אמינא היינו טעמא דלקדש לא משום</row>
+</amud>
+</daf>
+</masechet>
+</root>

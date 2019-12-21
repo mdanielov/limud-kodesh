@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:21.800471</dateCreated>
+   <lastModified>2019-12-21 20:30:21.800471</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="27">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאמר"/><ContGemara/>אמר ליה וליטעמיך הא דתנן רשב"ג אומר</row>
+		<row row_number="2" isdata="1">הביא שלש בהמות ולא פירש הראויה</row>
+		<row row_number="3" isdata="1">לחטאת תקרב חטאת לעולה תקרב עולה</row>
+		<row row_number="4" isdata="1">לשלמים תקרב שלמים אמאי הא אמרת</row>
+		<row row_number="5" isdata="1">בהמה לאו כמפורשת דמיא אמר ליה</row>
+		<row row_number="6" isdata="1">התם ולקח ועשה אמר רחמנא אי</row>
+		<row row_number="7" isdata="1">בלקיחת בעלים אי בעשיית כהן הכא נמי</row>
+</amud>
+</daf>
+</masechet>
+</root>

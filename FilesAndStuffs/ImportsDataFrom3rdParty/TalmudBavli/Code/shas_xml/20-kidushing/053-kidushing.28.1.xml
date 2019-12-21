@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:38.782422</dateCreated>
+   <lastModified>2019-12-21 20:30:38.782422</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="28">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>שלא ניתנה להתבע בעד אחד מגלגלין ממון</row>
+		<row row_number="2" isdata="1">שניתן להתבע בעד אחד אינו דין שמגלגלין</row>
+		<row row_number="3" isdata="1">אשכחן בודאי ספק מנלן תניא רשב"י אומר</row>
+		<row row_number="4" isdata="1">נאמרה שבועה בחוץ ונאמרה שבועה בפנים</row>
+		<row row_number="5" isdata="1">מה שבועה האמורה בפנים עשה בה ספק</row>
+		<row row_number="6" isdata="1">כודאי אף שבועה האמורה בחוץ עשה בה</row>
+		<row row_number="7" isdata="1">ספק כודאי עד היכן גלגול שבועה אמר רב</row>
+		<row row_number="8" isdata="1">יהודה אמר רב דא"ל הישבע לי שאין עבדי</row>
+		<row row_number="9" isdata="1">אתה ההוא שמותי משמתינן ליה דתניא</row>
+		<row row_number="10" isdata="1">הקורא לחבירו עבד יהא בנידוי ממזר סופג</row>
+		<row row_number="11" isdata="1">את הארבעים רשע יורד עמו לחייו אלא</row>
+		<row row_number="12" isdata="1">אמר רבא הישבע לי שלא נמכרת לי בעבד</row>
+		<row row_number="13" isdata="1">עברי האי טענתא מעלייתא היא ממונא אית</row>
+		<row row_number="14" isdata="1">ליה גביה רבא לטעמיה דאמר רבא עבד</row>
+		<row row_number="15" isdata="1">עברי גופו קנוי אי הכי היינו קרקע מהו</row>
+		<row row_number="16" isdata="1">דתימא קרקע הוא דעבדי אינשי דמזבני</row>
+		<row row_number="17" isdata="1">בצינעא אם איתא דזבין לית ליה קלא האי</row>
+		<row row_number="18" isdata="1">אם איתא דזבין קלא אית ליה קמ"ל</row>
+		<row row_number="19" isdata="1"><EndGemara/><StartMishna/>מתני' כל הנעשה דמים באחר כיון שזכה</row>
+		<row row_number="20" isdata="1">זה נתחייב זה בחליפיו כיצד החליף שור</row>
+		<row row_number="21" isdata="1">בפרה או חמור בשור כיון שזכה זה נתחייב</row>
+		<row row_number="22" isdata="1">זה בחליפיו<EndMishna/><StartGemara/>גמ' חליפין מאי ניהו מטבע</row>
+		<row row_number="23" isdata="1">שמע מינה מטבע נעשה חליפין אמר רב</row>
+		<row row_number="24" isdata="1">יהודה הכי קאמר כל הנישום דמים באחר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:11.363452</dateCreated>
+   <lastModified>2019-12-21 20:32:11.363452</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "הכל שוחטין"/><StartMishna/><ContChapter name = "הכל שוחטין"/><ContMishna/>הכל</row>
+		<row row_number="2" isdata="1">שוחטין ושחיטתן כשרה חוץ מחרש שוטה</row>
+		<row row_number="3" isdata="1">וקטן שמא יקלקלו את שחיטתן וכולן ששחטו</row>
+		<row row_number="4" isdata="1">ואחרים רואין אותן שחיטתן כשרה<EndMishna/><StartGemara/>גמ' הכל</row>
+		<row row_number="5" isdata="1">שוחטין לכתחלה ושחיטתן כשרה דיעבד</row>
+		<row row_number="6" isdata="1">אמר ליה רב אחא בריה דרבא לרב אשי</row>
+		<row row_number="7" isdata="1">וכל הכל לכתחלה הוא אלא מעתה הכל</row>
+		<row row_number="8" isdata="1">ממירין אחד האנשים ואחד הנשים ה"נ</row>
+		<row row_number="9" isdata="1">דלכתחלה הוא והא כתיב לא יחליפנו ולא</row>
+		<row row_number="10" isdata="1">ימיר אותו טוב ברע או רע בטוב התם</row>
+		<row row_number="11" isdata="1">כדקתני טעמא לא שהאדם רשאי להמיר</row>
+		<row row_number="12" isdata="1">אלא שאם המיר מומר וסופג את הארבעים</row>
+		<row row_number="13" isdata="1">אלא הכל מעריכין ונערכין נודרין ונידרין</row>
+		<row row_number="14" isdata="1">הכי נמי דלכתחלה והא כתיב וכי תחדל</row>
+		<row row_number="15" isdata="1">לנדור לא יהיה בך חטא וכתיב טוב אשר</row>
+		<row row_number="16" isdata="1">לא תדור משתדור ולא תשלם ותניא טוב מזה</row>
+		<row row_number="17" isdata="1">ומזה שאינו נודר כל עיקר דברי רבי מאיר ר'</row>
+		<row row_number="18" isdata="1">יהודה אומר טוב מזה ומזה נודר ומשלם ואפי'</row>
+		<row row_number="19" isdata="1">רבי יהודה לא קאמר אלא באומר הרי זו</row>
+</amud>
+</daf>
+</masechet>
+</root>

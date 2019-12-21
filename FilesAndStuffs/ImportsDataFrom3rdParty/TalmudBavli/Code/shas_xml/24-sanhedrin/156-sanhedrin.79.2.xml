@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:31.386850</dateCreated>
+   <lastModified>2019-12-21 20:31:31.386850</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="79">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו הן הנשרפין"/><ContGemara/>נתינה למעלה מה להלן ממון אף כאן ממון</row>
+		<row row_number="2" isdata="1">אמר רבא האי דתנא דבי חזקיה מפקא</row>
+		<row row_number="3" isdata="1">מדרבי ומפקא מדרבנן דתנא דבי חזקיה</row>
+		<row row_number="4" isdata="1">מכה אדם ומכה בהמה מה מכה בהמה</row>
+		<row row_number="5" isdata="1">לא חלקת בה בין שוגג למזיד בין מתכוין</row>
+		<row row_number="6" isdata="1">לשאינו מתכוין בין דרך ירידה לדרך עלייה</row>
+		<row row_number="7" isdata="1">לפוטרו ממון אלא לחייבו ממון אף מכה</row>
+		<row row_number="8" isdata="1">אדם לא תחלוק בו בין שוגג למזיד בין</row>
+		<row row_number="9" isdata="1">מתכוין לשאין מתכוין בין דרך ירידה לדרך</row>
+		<row row_number="10" isdata="1">עלייה לחייבו ממון אלא לפוטרו ממון מאי</row>
+		<row row_number="11" isdata="1">שאין מתכוין אילימא שאין מתכוין כלל</row>
+		<row row_number="12" isdata="1">היינו שוגג אלא פשיטא שאין מתכוין לזה</row>
+		<row row_number="13" isdata="1">אלא לזה וקתני לחייבו ממון אלא לפוטרו</row>
+		<row row_number="14" isdata="1">ממון ואי בר קטלא הוא מאי איצטריך</row>
+		<row row_number="15" isdata="1">למיפטריה ממון אלא לאו שמע מינה לאו</row>
+		<row row_number="16" isdata="1">בר קטלא הוא ולאו בר ממונא הוא</row>
+		<row row_number="17" isdata="1"><EndGemara/><StartMishna/>מתני' רוצח שנתערב באחרים כולן</row>
+		<row row_number="18" isdata="1">פטורין ר' יהודה אומר כונסין אותן לכיפה</row>
+		<row row_number="19" isdata="1">כל חייבי מיתות שנתערבו זה בזה נידונין</row>
+		<row row_number="20" isdata="1">בקלה הנסקלין בנשרפין ר' שמעון אומר</row>
+		<row row_number="21" isdata="1">נידונין בסקילה שהשריפה חמורה וחכמים</row>
+		<row row_number="22" isdata="1">אומרים נידונין בשריפה שהסקילה חמורה</row>
+		<row row_number="23" isdata="1">אמר להן ר"ש אילו לא היתה שריפה</row>
+		<row row_number="24" isdata="1">חמורה לא נתנה לבת כהן שזנתה אמרו לו</row>
+		<row row_number="25" isdata="1">אילו לא היתה סקילה חמורה לא נתנה</row>
+		<row row_number="26" isdata="1">למגדף ולעובד עבודת כוכבים הנהרגין</row>
+		<row row_number="27" isdata="1">בנחנקין ר"ש אומר בסייף וחכ"א בחנק</row>
+		<row row_number="28" isdata="1"><EndMishna/><StartGemara/>גמ' מאן אחרים אילימא אחרים כשרים</row>
+		<row row_number="29" isdata="1">פשיטא ותו בהא לימא רבי יהודה כונסין</row>
+		<row row_number="30" isdata="1">אותן לכיפה (סימן בשר"ק) א"ר אבהו אמר</row>
+		<row row_number="31" isdata="1">שמואל הכא ברוצח שלא נגמר דינו</row>
+		<row row_number="32" isdata="1">שנתערב ברוצחים אחרים שנגמר דינן עסקינן</row>
+		<row row_number="33" isdata="1">רבנן סברי אין גומרין דינו של אדם אלא בפניו</row>
+		<row row_number="34" isdata="1">הלכך כולן פטורין ור' יהודה מיפטרינהו</row>
+		<row row_number="35" isdata="1">לגמרי נמי לא כיון דרוצחין נינהו הלכך</row>
+		<row row_number="36" isdata="1">כונסין אותן לכיפה ריש לקיש אמר באדם</row>
+		<row row_number="37" isdata="1">דכולי עלמא לא פליגי דפטירי אבל הכא</row>
+		<row row_number="38" isdata="1">בשור שלא נגמר דינו שנתערב בשורים</row>
+		<row row_number="39" isdata="1">אחרים שנגמר דינן קמיפלגי רבנן סברי</row>
+		<row row_number="40" isdata="1">כמיתת בעלים כך מיתת השור ואין גומרין</row>
+		<row row_number="41" isdata="1">דינו של שור אלא בפניו הלכך כולן פטורין</row>
+		<row row_number="42" isdata="1">ור' יהודה סבר כונסין אותן לכיפה אמר רבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

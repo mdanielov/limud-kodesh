@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:48.742361</dateCreated>
+   <lastModified>2019-12-21 20:32:48.742361</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="49">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בא סימן"/><ContGemara/>רבי יהודה אומר כופף אזני קדרה לתוכה</row>
+		<row row_number="2" isdata="1">ומציף עליה מים ואם כונס בידוע שכונס</row>
+		<row row_number="3" isdata="1">משקה ואם לאו בידוע שמוציא משקה או</row>
+		<row row_number="4" isdata="1">שופתה על גבי האור אם האור מעמידה בידוע</row>
+		<row row_number="5" isdata="1">שמוציא משקה ואם לאו בידוע שמכניס</row>
+		<row row_number="6" isdata="1">משקה ר' יוסי אומר אף לא שופתה על גבי</row>
+		<row row_number="7" isdata="1">האור מפני שהאור מעמידה אלא שופתה על</row>
+		<row row_number="8" isdata="1">גבי הרמץ אם רמץ מעמידה בידוע שמוציא</row>
+		<row row_number="9" isdata="1">משקה ואם לאו בידוע שכונס משקה היה</row>
+		<row row_number="10" isdata="1">טורד טיפה אחר טיפה בידוע שכונס משקה</row>
+		<row row_number="11" isdata="1">מאי איכא בין ת"ק לר' יהודה אמר עולא</row>
+		<row row_number="12" isdata="1">כינוס על ידי הדחק איכא בינייהו כל אבר</row>
+		<row row_number="13" isdata="1">שיש בו צפורן וכו' יש בו צפורן מטמא</row>
+		<row row_number="14" isdata="1">במגע ובמשא ובאהל יש בו עצם ואין בו</row>
+		<row row_number="15" isdata="1">צפורן מטמא במגע ובמשא ואינו מטמא</row>
+		<row row_number="16" isdata="1">באהל אמר רב חסדא דבר זה רבינו הגדול</row>
+		<row row_number="17" isdata="1">אמרו המקום יהיה בעזרו אצבע יתרה שיש</row>
+		<row row_number="18" isdata="1">בו עצם ואין בו צפורן מטמא במגע ובמשא</row>
+		<row row_number="19" isdata="1">ואינו מטמא באהל אמר רבה בר בר חנה</row>
+		<row row_number="20" isdata="1">א"ר יוחנן וכשאינה נספרת על גב היד כל</row>
+		<row row_number="21" isdata="1">המטמא מדרס וכו' כל דחזי למדרס מטמא</row>
+		<row row_number="22" isdata="1">טמא מת ויש שמטמא טמא מת ואין מטמא</row>
+		<row row_number="23" isdata="1">מדרס לאתויי מאי לאתויי סאה ותרקב</row>
+		<row row_number="24" isdata="1">דתניא והיושב על הכלי יכול כפה סאה</row>
+		<row row_number="25" isdata="1">וישב עליה או תרקב וישב עליו יהא טמא</row>
+		<row row_number="26" isdata="1">ת"ל אשר ישב עליו הזב מי שמיוחד לישיבה</row>
+		<row row_number="27" isdata="1">יצא זה שאומרים לו עמוד ונעשה מלאכתנו</row>
+		<row row_number="28" isdata="1"><EndGemara/><StartMishna/>מתני' כל הראוי לדון דיני נפשות ראוי</row>
+		<row row_number="29" isdata="1">לדון דיני ממונות ויש שראוי לדון דיני</row>
+		<row row_number="30" isdata="1">ממונות ואינו ראוי לדון דיני נפשות<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="31" isdata="1">אמר רב יהודה לאתויי ממזר תנינא חדא</row>
+		<row row_number="32" isdata="1">זימנא הכל כשרין לדון דיני ממונות ואין הכל</row>
+		<row row_number="33" isdata="1">כשרין לדון דיני נפשות והוינן בה לאתויי מאי</row>
+		<row row_number="34" isdata="1">ואמר רב יהודה לאתויי ממזר חדא לאתויי</row>
+		<row row_number="35" isdata="1">גר וחדא לאתויי ממזר וצריכי דאי אשמעינן</row>
+		<row row_number="36" isdata="1">גר משום דראוי לבא בקהל אבל ממזר</row>
+		<row row_number="37" isdata="1">דאין ראוי לבא בקהל אימא לא ואי</row>
+		<row row_number="38" isdata="1">אשמעינן ממזר משום דקאתי מטפה כשרה</row>
+		<row row_number="39" isdata="1">אבל גר דקאתי מטפה פסולה אימא לא</row>
+		<row row_number="40" isdata="1">צריכאמתני' כל הכשר לדון כשר להעיד ויש שכשר להעיד ואינו</row>
+		<row row_number="41" isdata="1">כשר לדון<EndMishna/><StartGemara/>גמ' לאתויי מאי א"ר יוחנן לאתויי סומא באחת מעיניו ומני</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:59.308474</dateCreated>
+   <lastModified>2019-12-21 20:29:59.308474</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="80">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הערל"/><ContGemara/>שלא ראה שעה אחת בכשרותו מנא ידעינן</row>
+		<row row_number="2" isdata="1">אמר אביי כל המטיל מים ואינו עושה כיפה</row>
+		<row row_number="3" isdata="1">ממאי הואי דאפיה אימיה בטיהרא ושתיא</row>
+		<row row_number="4" isdata="1">שיכרא מרקא אמר רב יוסף היינו דשמענא</row>
+		<row row_number="5" isdata="1">לאמי דאמר כל שממעי אמו לקוי ולא ידענא</row>
+		<row row_number="6" isdata="1">מאי ניהו וליחוש שמא הבריא בינתים כיון</row>
+		<row row_number="7" isdata="1">דתחלתו וסופו לקוי לא חיישינן מתיב רב</row>
+		<row row_number="8" isdata="1">מרי רבי חנינא בן אנטיגנוס אומר בודקין</row>
+		<row row_number="9" isdata="1">אותו שלש פעמים בתוך שמונים יום לחד</row>
+		<row row_number="10" isdata="1">אבר חיישינן לכוליה גופא לא חיישינן רבי</row>
+		<row row_number="11" isdata="1">אליעזר אומר לא כי וכו' ורמינהו בן עשרים</row>
+		<row row_number="12" isdata="1">שנה ולא הביא שתי שערות יביאו ראיה</row>
+		<row row_number="13" isdata="1">שהוא בן עשרים והוא הסריס לא חולץ ולא</row>
+		<row row_number="14" isdata="1">מייבם בת עשרים ולא הביאה שתי שערות</row>
+		<row row_number="15" isdata="1">יביאו ראיה שהיא בת עשרים והיא האילונית</row>
+		<row row_number="16" isdata="1">לא חולצת ולא מתייבמת דברי בית הלל ובית</row>
+		<row row_number="17" isdata="1">שמאי אומרים זה וזה בני שמנה עשרה רבי</row>
+		<row row_number="18" isdata="1">אליעזר אומר הזכר כדברי ב"ה ונקבה כדברי</row>
+		<row row_number="19" isdata="1">ב"ש מפני שהאשה ממהרת לבא לפני האיש</row>
+		<row row_number="20" isdata="1">אמר רמי בר דיקולי אמר שמואל חזר בו ר'</row>
+		<row row_number="21" isdata="1">אליעזר איבעיא להו מהי הדר ביה תא שמע</row>
+		<row row_number="22" isdata="1">דתניא רבי אליעזר אומר סריס חמה חולץ</row>
+		<row row_number="23" isdata="1">וחולצין לאשתו שכן במינן מתרפאין</row>
+		<row row_number="24" isdata="1">באלכסנדריא של מצרים רבי אלעזר אומר</row>
+		<row row_number="25" isdata="1">לעולם לא הדר ביה וכי תנן ההיא לעונשין</row>
+		<row row_number="26" isdata="1">איתמר אכל חלב מבן שתים עשרה [ויום</row>
+		<row row_number="27" isdata="1">אחד] עד בן שמנה עשרה ונולדו בו סימני</row>
+		<row row_number="28" isdata="1">סריס ולאחר מכאן הביא שתי שערות</row>
+		<row row_number="29" isdata="1">רב אמר נעשה סריס למפרע ושמואל</row>
+		<row row_number="30" isdata="1">אמר קטן היה באותה שעה מתקיף לה רב</row>
+		<row row_number="31" isdata="1">יוסף לרב אילונית לרבי מאיר יהא לה קנס</row>
+		<row row_number="32" isdata="1">אמר ליה אביי מקטנותה יצתה לבגר א"ל</row>
+		<row row_number="33" isdata="1">כל כי הני מילי מעלייתא יתאמרו משמאי</row>
+		<row row_number="34" isdata="1">דתניא אין הסריס נידון כבן סורר ומורה לפי</row>
+		<row row_number="35" isdata="1">שאין בן סורר ומורה נידון אלא בחתימת זקן</row>
+		<row row_number="36" isdata="1">התחתון ואין אילונית נידונית כנערה</row>
+		<row row_number="37" isdata="1">המאורסה שמקטנותה יצתה לבגר אמר רבי</row>
+		<row row_number="38" isdata="1">אבהו סימני סריס ואילונית ובן שמנה אין</row>
+		<row row_number="39" isdata="1">עושין בהן מעשה עד שיהו בן עשרים ובן שמנה מי קחיי והתניא</row>
+		<row row_number="40" isdata="1">בן שמנה הרי הוא כאבן ואסור לטלטלו אבל אמו שוחה עליו ומניקתו</row>
+</amud>
+</daf>
+</masechet>
+</root>

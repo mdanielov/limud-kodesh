@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:45.959684</dateCreated>
+   <lastModified>2019-12-21 20:28:45.959684</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="85">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>וקים להו לרבנן דחמשא בשיתא לא ינקי</row>
+		<row row_number="2" isdata="1">מהדדי ומנלן דהא דקים להו לרבנן (דחמשא</row>
+		<row row_number="3" isdata="1">בשיתא) מילתא היא דא"ר חייא בר אבא</row>
+		<row row_number="4" isdata="1">א"ר יוחנן מאי דכתיב לא תסיג גבול רעך</row>
+		<row row_number="5" isdata="1">[אשר גבלו ראשונים] גבול שגבלו ראשונים</row>
+		<row row_number="6" isdata="1">לא תסיג מאי גבלו ראשונים אמר רבי</row>
+		<row row_number="7" isdata="1">שמואל בר נחמני אמר רבי יונתן (מאי)</row>
+		<row row_number="8" isdata="1">דכתיב אלה בני שעיר החורי יושבי הארץ</row>
+		<row row_number="9" isdata="1">אטו כולי עלמא יושבי רקיע נינהו אלא שהיו</row>
+		<row row_number="10" isdata="1">בקיאין בישובה של ארץ שהיו אומרים</row>
+		<row row_number="11" isdata="1">מלא קנה זה לזית מלא קנה זה לגפנים מלא</row>
+		<row row_number="12" isdata="1">קנה זה לתאנים וחורי שמריחים את הארץ</row>
+		<row row_number="13" isdata="1">וחוי אמר רב פפא שהיו טועמין את הארץ</row>
+		<row row_number="14" isdata="1">כחויא רב אחא בר יעקב אמר חורי שנעשו</row>
+		<row row_number="15" isdata="1">בני חורין מנכסיהן אמר רב אסי ערוגה</row>
+		<row row_number="16" isdata="1">תוכה ו' חוץ מגבוליה תניא נמי הכי ערוגה</row>
+		<row row_number="17" isdata="1">תוכה ששה גבוליה בכמה כדתנן רבי</row>
+		<row row_number="18" isdata="1">יהודה אומר רוחב כמלא רוחב פרסה א"ר</row>
+		<row row_number="19" isdata="1">זירא ואיתימא רבי חנינא בר פפא מ"ט דר'</row>
+		<row row_number="20" isdata="1">יהודה דכתיב והשקית ברגלך כגן הירק</row>
+		<row row_number="21" isdata="1">מה רגל טפח אף גבול נמי טפח אמר רב</row>
+		<row row_number="22" isdata="1">ערוגה בחורבה שנינו והאיכא מקום קרנות</row>
+		<row row_number="23" isdata="1">אמרי בי רב משמיה דרב בממלא את</row>
+		<row row_number="24" isdata="1">הקרנות וליזרע מאבראי ולא לימלי מגואי</row>
+</amud>
+</daf>
+</masechet>
+</root>

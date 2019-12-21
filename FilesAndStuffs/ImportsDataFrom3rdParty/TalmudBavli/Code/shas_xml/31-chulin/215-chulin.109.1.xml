@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:24.630921</dateCreated>
+   <lastModified>2019-12-21 20:32:24.630921</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="109">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>מכלל דר' יהודה סבר כי ניער מתחלה ועד</row>
+		<row row_number="2" isdata="1">סוף וכסה מתחלה ועד סוף אסור אמאי</row>
+		<row row_number="3" isdata="1">הא לא בלע כלל אימא לא ניער יפה יפה</row>
+		<row row_number="4" isdata="1">ולא כסה יפה יפה אמר מר ודברי חכמים</row>
+		<row row_number="5" isdata="1">כשניער וכסה מאי ניער ומאי כסה אילימא</row>
+		<row row_number="6" isdata="1">ניער בסוף ולא ניער בתחלה וכסה בסוף</row>
+		<row row_number="7" isdata="1">ולא כסה בתחלה האמרת נראין דברי ר'</row>
+		<row row_number="8" isdata="1">יהודה בהא אלא ניער מתחלה ועד סוף</row>
+		<row row_number="9" isdata="1">וכסה מתחלה ועד סוף מכלל דרבנן סברי</row>
+		<row row_number="10" isdata="1">ניער בסוף ולא ניער בתחלה כסה בסוף ולא</row>
+		<row row_number="11" isdata="1">כסה בתחלה מותר אלמא קסברי אפשר</row>
+		<row row_number="12" isdata="1">לסוחטו מותר א"ל רב אחא מדיפתי לרבינא</row>
+		<row row_number="13" isdata="1">ממאי דבאפשר לסוחטו פליגי דלמא אפשר</row>
+		<row row_number="14" isdata="1">לסוחטו דברי הכל אסור והכא במין במינו</row>
+		<row row_number="15" isdata="1">קא מיפלגי ורבי יהודה לטעמיה דאמר מין</row>
+		<row row_number="16" isdata="1">במינו לא בטיל ורבנן לטעמייהו דאמרי מין</row>
+		<row row_number="17" isdata="1">במינו בטיל האי מאי אי אמרת בשלמא</row>
+		<row row_number="18" isdata="1">דרבנן במין במינו הכא כרבי יהודה סבירא</row>
+		<row row_number="19" isdata="1">להו ובאפשר לסוחטו פליגי היינו דקאמר רבי</row>
+		<row row_number="20" isdata="1">נראין דברי רבי יהודה בהא ודברי חכמים</row>
+		<row row_number="21" isdata="1">בהא אלא אי אמרת אפשר לסוחטו דברי</row>
+		<row row_number="22" isdata="1">הכל אסור והכא במין במינו קמיפלגי האי</row>
+		<row row_number="23" isdata="1">נראין דברי ר' יהודה ואין נראין מבעי ליה ותו</row>
+		<row row_number="24" isdata="1">לא מידימתני' הכחל קורעו ומוציא את</row>
+		<row row_number="25" isdata="1">חלבו לא קרעו אינו עובר עליו הלב קורעו</row>
+		<row row_number="26" isdata="1">ומוציא את דמו לא קרעו אינו עובר עליו<EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

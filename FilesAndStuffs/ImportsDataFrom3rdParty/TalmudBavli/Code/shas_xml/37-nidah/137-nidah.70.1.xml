@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:51.816361</dateCreated>
+   <lastModified>2019-12-21 20:32:51.816361</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="70">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "תינוקת "/><ContGemara/>היא תועבה ואין בניה תועבין שני</row>
+		<row row_number="2" isdata="1">מצורעין שנתערבו קרבנותיהן זה בזה וקרב</row>
+		<row row_number="3" isdata="1">קרבנו של אחד מהן ומת אחד מהן השני מה</row>
+		<row row_number="4" isdata="1">תהא עליו אמר להן כותב נכסיו לאחרים</row>
+		<row row_number="5" isdata="1">והוי עני ומביא חטאת העוף הבא על הספק</row>
+		<row row_number="6" isdata="1">והאיכא אשם אמר שמואל כשקרב אשמו</row>
+		<row row_number="7" isdata="1">אמר רב ששת גברא רבה כשמואל לימא כי</row>
+		<row row_number="8" isdata="1">האי מילתא כמאן אי כר' יהודה דאמר אשם</row>
+		<row row_number="9" isdata="1">קבעה וכיון דקבעה לה אשם בעשירות לא</row>
+		<row row_number="10" isdata="1">מצי מייתי חטאת בדלות דתנן מצורע</row>
+		<row row_number="11" isdata="1">שהביא קרבן עני והעשיר או עשיר והעני</row>
+		<row row_number="12" isdata="1">הכל הולך אחר חטאת דברי ר' שמעון ורבי</row>
+		<row row_number="13" isdata="1">יהודה אומר הכל הולך אחר אשם רבי</row>
+		<row row_number="14" isdata="1">אליעזר בן יעקב אומר הכל הולך אחר צפורים</row>
+		<row row_number="15" isdata="1">ואי כרבי שמעון דאמר חטאת קבעה אע"ג</row>
+		<row row_number="16" isdata="1">דלא קרב אשם ניתי אחר דהא שמעינן ליה</row>
+		<row row_number="17" isdata="1">לרבי שמעון דאמר לייתי ולתני דתניא אמר</row>
+		<row row_number="18" isdata="1">ר"ש למחרת מביא אשמו ולוגו עמו ומעמידו</row>
+		<row row_number="19" isdata="1">בשער נקנור ומתנה עליו ואומר אם מצורע</row>
+		<row row_number="20" isdata="1">הוא הרי אשמו ולוגו עמו ואם לאו אשם</row>
+		<row row_number="21" isdata="1">זה יהא שלמי נדבה ואותו אשם טעון</row>
+</amud>
+</daf>
+</masechet>
+</root>

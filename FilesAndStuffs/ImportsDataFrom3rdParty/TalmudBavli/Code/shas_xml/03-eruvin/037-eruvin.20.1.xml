@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:54.862489</dateCreated>
+   <lastModified>2019-12-21 20:28:54.862489</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="20">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContMishna/>תרי גווני אילן הכא נמי תרי גווני גדר בעא</row>
+		<row row_number="2" isdata="1">מיניה אביי מרבה חצר שראשה נכנס לבין</row>
+		<row row_number="3" isdata="1">הפסין מהו לטלטל מתוכה לבין הפסין ומבין</row>
+		<row row_number="4" isdata="1">הפסין לתוכה א"ל מותר שתים מאי אמר ליה</row>
+		<row row_number="5" isdata="1">אסור אמר רב הונא שתים אסורין ואפילו</row>
+		<row row_number="6" isdata="1">עירבו גזירה שמא יאמרו עירוב מועיל לבין</row>
+		<row row_number="7" isdata="1">הפסין רבא אמר עירבו מותר א"ל אביי לרבא</row>
+		<row row_number="8" isdata="1">תניא דמסייע לך חצר שראשה אחד נכנס</row>
+		<row row_number="9" isdata="1">לבין הפסין מותר לטלטל מתוכה לבין הפסין</row>
+		<row row_number="10" isdata="1">ומבין הפסין לתוכה אבל שתים אסור בד"א</row>
+		<row row_number="11" isdata="1">שלא עירבו אבל עירבו מותרין לימא תיהוי</row>
+		<row row_number="12" isdata="1">תיובתא דרב הונא אמר לך רב הונא התם</row>
+		<row row_number="13" isdata="1">דהדרן וערבן בעא מיניה אביי מרבה יבשו</row>
+		<row row_number="14" isdata="1">מים בשבת מהו א"ל כלום נעשית מחיצה</row>
+		<row row_number="15" isdata="1">אלא בשביל מים מים אין כאן מחיצה אין</row>
+		<row row_number="16" isdata="1">כאן בעי רבין יבשו מים בשבת ובאו בשבת</row>
+		<row row_number="17" isdata="1">מהו א"ל אביי יבשו בשבת לא תיבעי לך</row>
+		<row row_number="18" isdata="1">דבעי מיניה דמר ופשיט לי דאסיר באו נמי</row>
+		<row row_number="19" isdata="1">לא תיבעי לך דהוה ליה מחיצה העשויה</row>
+		<row row_number="20" isdata="1">בשבת ותניא כל מחיצה העשויה בשבת</row>
+		<row row_number="21" isdata="1">בין בשוגג בין במזיד בין באונס בין ברצון</row>
+		<row row_number="22" isdata="1">שמה מחיצה ולאו אתמר עלה אמר ר"נ לא</row>
+		<row row_number="23" isdata="1">שנו אלא לזרוק אבל לטלטל לא כי איתמר</row>
+		<row row_number="24" isdata="1">דר"נ אמזיד איתמר אמר ר"א הזורק לבין פסי</row>
+		<row row_number="25" isdata="1">הביראות חייב (א"ל) פשיטא אי לאו מחיצה</row>
+		<row row_number="26" isdata="1">היא היכי משתרי ליה למלאות לא צריכא</row>
+		<row row_number="27" isdata="1">דעבד כעין פסי ביראות ברה"ר וזרק לתוכה</row>
+		<row row_number="28" isdata="1">חייב הא נמי פשיטא אי לאו דבעלמא מחיצה</row>
+		<row row_number="29" isdata="1">היא גבי בור היכי משתרי ליה לטלטלי לא</row>
+		<row row_number="30" isdata="1">צריכא אע"ג דקא בקעי בה רבים ומאי קמ"ל</row>
+		<row row_number="31" isdata="1">דלא אתו רבים ומבטלי מחיצתא הא א"ר</row>
+		<row row_number="32" isdata="1">אלעזר חדא זימנא דתנן רבי יהודה אומר</row>
+		<row row_number="33" isdata="1">אם היתה דרך רה"ר מפסקתן יסלקנה לצדדין</row>
+		<row row_number="34" isdata="1">וחכ"א אינו צריך רבי יוחנן ור"א דאמרי</row>
+		<row row_number="35" isdata="1">תרווייהו כאן הודיעך כחן של מחיצות אי</row>
+		<row row_number="36" isdata="1">מהתם הוה אמינא כאן ולא סבירא ליה קא</row>
+		<row row_number="37" isdata="1">משמע לן כאן וסבירא ליה ולימא הא ולא</row>
+		<row row_number="38" isdata="1">בעי הך חדא מכלל חבירתה איתמר מותר</row>
+		<row row_number="39" isdata="1">להקריב לבאר וכו' תנן התם לא יעמוד</row>
+		<row row_number="40" isdata="1">אדם ברשות הרבים וישתה ברשות היחיד</row>
+		<row row_number="41" isdata="1">ברשות היחיד וישתה ברשות הרבים אלא אם</row>
+		<row row_number="42" isdata="1">כן מכניס ראשו ורובו למקום שהוא שותה</row>
+</amud>
+</daf>
+</masechet>
+</root>

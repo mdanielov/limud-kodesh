@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:13.061231</dateCreated>
+   <lastModified>2019-12-21 20:30:13.061231</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="4">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContGemara/>ואם גילח על אחת משלשתן יצא לא ליעבור</row>
+		<row row_number="2" isdata="1">עליה בבל תאחר קמ"ל ואיבעית אימא מאי</row>
+		<row row_number="3" isdata="1">חדושיה משום דלא מתפיסו בנדר והא דקא</row>
+		<row row_number="4" isdata="1">קשיא לך חטאת חלב חטאת חלב קאתיא</row>
+		<row row_number="5" isdata="1">לכפרה חטאת נזיר למאי אתיא והרי חטאת</row>
+		<row row_number="6" isdata="1">יולדת דלא אתיא לכפרה ועבר עלה משום</row>
+		<row row_number="7" isdata="1">בל תאחר ההיא קא שריא לה למיכל בקדשי'</row>
+		<row row_number="8" isdata="1">אמר מר ומה נדרים האב מיפר נדרי בתו</row>
+		<row row_number="9" isdata="1">ובעל מיפר נדרי אשתו אף נזירות האב מיפר</row>
+		<row row_number="10" isdata="1">נזירות בתו ובעל מיפר נזירות אשתו למה לי</row>
+		<row row_number="11" isdata="1">היקשא תיתי במה מצינו מנדרים דילמא גבי</row>
+		<row row_number="12" isdata="1">נדרים הוא דמיפר משום דלא אית ליה</row>
+		<row row_number="13" isdata="1">קיצותא אבל גבי נזירות דאית ליה קיצותא</row>
+		<row row_number="14" isdata="1">דסתם נזירות ל' יום אימא לא קמ"ל האומר</row>
+		<row row_number="15" isdata="1">לחבירו מודר אני וכו' אמר שמואל בכולן</row>
+		<row row_number="16" isdata="1">עד שיאמר שאני אוכל לך שאני טועם לך</row>
+		<row row_number="17" isdata="1">מיתיבי מודר אני ממך מופרשני ממך</row>
+		<row row_number="18" isdata="1">מרוחקני ממך ה"ז אסור שאני אוכל לך שאני</row>
+		<row row_number="19" isdata="1">טועם לך ה"ז אסור הכי קתני בד"א באומר</row>
+		<row row_number="20" isdata="1">שאני אוכל לך שאני טועם לך והתניא איפכא</row>
+		<row row_number="21" isdata="1">שאני אוכל לך שאני טועם לך אסור מודרני</row>
+		<row row_number="22" isdata="1">ממך ומופרשני ממך מרוחקני ממך ה"ז אסור</row>
+		<row row_number="23" isdata="1">תני הכי וכבר אמר מודרני אי הכי היינו רישא</row>
+		<row row_number="24" isdata="1">ועוד אסור אסור ל"ל למתני אלא אמר</row>
+		<row row_number="25" isdata="1">שמואל טעמא דאמר שאני אוכל לך שאני</row>
+		<row row_number="26" isdata="1">טועם לך הוא דאסור וחבירו מותר</row>
+</amud>
+</daf>
+</masechet>
+</root>

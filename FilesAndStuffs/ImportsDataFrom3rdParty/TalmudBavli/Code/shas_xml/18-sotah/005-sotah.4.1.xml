@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:25.044496</dateCreated>
+   <lastModified>2019-12-21 20:30:25.044496</lastModified>
+ </meta>
+ <masechet name="סוטה" serial="18">
+<daf value="4">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המקנא לאשתו"/><ContGemara/>וכמה שיעור סתירה כדי טומאה כדי ביאה</row>
+		<row row_number="2" isdata="1">כדי העראה כדי הקפת דקל דברי רבי</row>
+		<row row_number="3" isdata="1">ישמעאל ר"א אומר כדי מזיגת הכוס רבי</row>
+		<row row_number="4" isdata="1">יהושע אומר כדי לשתותו בן עזאי אומר</row>
+		<row row_number="5" isdata="1">כדי לצלות ביצה ר"ע אומר כדי לגומעה</row>
+		<row row_number="6" isdata="1">רבי יהודה בן בתירא אומר כדי לגמוע שלש</row>
+		<row row_number="7" isdata="1">ביצים זו אחר זו ר"א בן ירמיה אומר כדי</row>
+		<row row_number="8" isdata="1">לקשור גרדי נימא חנין בן פנחס אומר כדי</row>
+		<row row_number="9" isdata="1">שתושיט ידה לתוך פיה ליטול קיסם פלימו</row>
+		<row row_number="10" isdata="1">אומר כדי שתושיט ידה לסל ליטול ככר</row>
+		<row row_number="11" isdata="1">אע"פ שאין ראיה לדבר זכר לדבר כי בעד</row>
+		<row row_number="12" isdata="1">אשה זונה עד ככר לחם וכל הני למה לי</row>
+		<row row_number="13" isdata="1">צריכי דאי תנא כדי טומאה הוה אמינא</row>
+		<row row_number="14" isdata="1">כדי טומאתה וארצותה קמ"ל כדי ביאה</row>
+		<row row_number="15" isdata="1">ואי תנא כדי ביאה הוה אמינא כדי גמר</row>
+		<row row_number="16" isdata="1">ביאה קמ"ל כדי העראה ואי אשמעינן</row>
+		<row row_number="17" isdata="1">כדי העראה ה"א כדי העראה וארצותה</row>
+		<row row_number="18" isdata="1">קמ"ל כדי טומאה וכמה כדי [העראה]</row>
+		<row row_number="19" isdata="1">כדי הקפת דקל ורמינהי ונסתרה וכמה</row>
+		<row row_number="20" isdata="1">שיעור סתירה לא שמענו כשהוא אומר והיא</row>
+		<row row_number="21" isdata="1">נטמאה הוי אומר כדי טומאה כדי ביאה כדי העראה כדי חזרת דקל דברי ר"א</row>
+		<row row_number="22" isdata="1">רבי יהושע אומר כדי מזיגת הכוס בן עזאי אומר כדי לשתותו ר"ע אומר כדי</row>
+		<row row_number="23" isdata="1">לצלות ביצה רבי יהודה בן בתירא אומר כדי לגומעה קס"ד היינו הקפת דקל</row>
+		<row row_number="24" isdata="1">היינו חזרת דקל התם א"ר ישמעאל כדי הקפת דקל ופליג ר"א עליה הכא</row>
+		<row row_number="25" isdata="1">אמר ר' אליעזר כדי חזרת דקל אמר אביי הקפה ברגל חזרה ברוח בעי</row>
+		<row row_number="26" isdata="1">רב אשי חזרה ברוח כי היכי דאזיל והדר אתי או דילמא כי היכי דאזיל ואתי</row>
+		<row row_number="27" isdata="1">והדר קאי בדוכתיה תיקו התם אמר ר"א כדי מזיגת הכוס הכא כדי חזרת</row>
+		<row row_number="28" isdata="1">דקל אידי ואידי חד שיעורא הוא התם א"ר יהושע כדי לשתותו הכא אמר</row>
+		<row row_number="29" isdata="1">כדי מזיגת הכוס אימא כדי למזוג ולשתות ולימא אידי ואידי חד שיעורא הוא</row>
+		<row row_number="30" isdata="1">א"כ היינו ר"א התם אמר בן עזאי כדי לצלות ביצה הכא אמר כדי לשתותו</row>
+		<row row_number="31" isdata="1">אידי ואידי חד שיעורא הוא התם אמר רבי עקיבא כדי לגומעה הכא אמר</row>
+		<row row_number="32" isdata="1">כדי לצלות ביצה אימא כדי לצלות ביצה ולגומעה ולימא אידי ואידי חד</row>
+		<row row_number="33" isdata="1">שיעורא הוא אם כן היינו בן עזאי התם א"ר יהודה בן בתירא כדי לגמוע</row>
+		<row row_number="34" isdata="1">שלש ביצים זו אחר זו הכא אמר כדי לגומעה לדבריו דרבי עקיבא קאמר</row>
+		<row row_number="35" isdata="1">דקאמר משערין בצליאה ובגמיעה אימא שיעור גמיעה לחודה כדי לגמע</row>
+		<row row_number="36" isdata="1">שלש ביצים זו אחר זו דהיינו צליאה וגמיעה ר"א בן ירמיה אומר כדי</row>
+		<row row_number="37" isdata="1">שיקשור גרדי נימא בעי רב אשי דמרחק או דמקרב תיקו חנין בן פנחס</row>
+		<row row_number="38" isdata="1">אומר כדי שתושיט ידה לתוך פיה ליטול קיסם בעי רב אשי דמהדק או</row>
+		<row row_number="39" isdata="1">דלא מהדק תיקו פלימו אומר כדי שתושיט ידה לסל ליטול ככר בעי</row>
+		<row row_number="40" isdata="1">רב אשי דמהדק או דלא מהדק בחדתא או בעתיקא בחמימא או בקרירא</row>
+</amud>
+</daf>
+</masechet>
+</root>

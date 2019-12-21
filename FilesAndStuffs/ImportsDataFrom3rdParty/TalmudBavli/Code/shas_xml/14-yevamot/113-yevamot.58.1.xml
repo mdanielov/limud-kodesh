@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:57.458041</dateCreated>
+   <lastModified>2019-12-21 20:29:57.458041</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="58">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הבא על יבמתו"/><ContGemara/>לרבי מאיר דאמר קדושין פסלי חופה נמי</row>
+		<row row_number="2" isdata="1">פסלה לר' אלעזר ור' שמעון דאמרי קדושין</row>
+		<row row_number="3" isdata="1">לא פסלי חופה נמי לא פסלה וממאי דלמא</row>
+		<row row_number="4" isdata="1">עד כאן לא קאמר ר"מ התם אלא בקדושין</row>
+		<row row_number="5" isdata="1">דקני לה אבל חופה דלא קנה לה לא א"נ עד</row>
+		<row row_number="6" isdata="1">כאן לא קאמרי רבי אלעזר ורבי שמעון התם</row>
+		<row row_number="7" isdata="1">אלא בקדושין דלא קריבי לביאה אבל</row>
+		<row row_number="8" isdata="1">חופה דקריבא לביאה הכי נמי דפסלה</row>
+		<row row_number="9" isdata="1">אלא אי איכא למימר בפלוגתא דהני</row>
+		<row row_number="10" isdata="1">תנאי דתניא נישאו זו וזו כשרות ופסולות</row>
+		<row row_number="11" isdata="1">או שנכנסו לחופה ולא נבעלו אוכלות משלו</row>
+		<row row_number="12" isdata="1">ואוכלות בתרומה נכנסו מכלל דנישאו</row>
+		<row row_number="13" isdata="1">נישאו ממש אלא לאו כגון שנכנסו לחופה</row>
+		<row row_number="14" isdata="1">ולא נבעלו וקתני אוכלות משלו ואוכלות</row>
+		<row row_number="15" isdata="1">בתרומה רבי ישמעאל בנו של ר' יוחנן בן</row>
+		<row row_number="16" isdata="1">ברוקה אומר כל שביאתה מאכילתה חופתה</row>
+		<row row_number="17" isdata="1">מאכילתה וכל שאין ביאתה מאכילתה אין</row>
+		<row row_number="18" isdata="1">חופתה מאכילתה ממאי דלמא רבי ישמעאל</row>
+		<row row_number="19" isdata="1">בנו של רבי יוחנן בן ברוקה כר' מאיר סבירא</row>
+		<row row_number="20" isdata="1">ליה דאמר קדושין לא אכלה האי כל שאין</row>
+		<row row_number="21" isdata="1">ביאתה מאכילתה אין חופתה מאכילתה כל</row>
+		<row row_number="22" isdata="1">שאין ביאתה מאכילתה אין כספה מאכילתה</row>
+		<row row_number="23" isdata="1">מיבעי ליה דלמא איידי דאמר ת"ק חופה</row>
+		<row row_number="24" isdata="1">אמר איהו נמי חופה אמר רב עמרם הא</row>
+		<row row_number="25" isdata="1">מילתא אמר לן רב ששת ואנהרינהו לעיינין</row>
+		<row row_number="26" isdata="1">ממתניתין יש חופה לפסולות ותנא תונא</row>
+		<row row_number="27" isdata="1">אמן שלא שטיתי ארוסה ונשואה שומרת</row>
+		<row row_number="28" isdata="1">יבם וכנוסה האי ארוסה היכי דמי אילימא</row>
+		<row row_number="29" isdata="1">דקני לה כשהיא ארוסה וקא משקה לה</row>
+		<row row_number="30" isdata="1">כשהיא ארוסה ארוסה בת משתיא היא</row>
+		<row row_number="31" isdata="1">והא תנן ארוסה ושומרת יבם לא שותות</row>
+		<row row_number="32" isdata="1">ולא נוטלות כתובה אלא דקני לה כשהיא</row>
+		<row row_number="33" isdata="1">ארוסה ואיסתתרה וקמשקה לה כשהיא</row>
+		<row row_number="34" isdata="1">נשואה מי בדקי לה מיא והתניא ונקה</row>
+		<row row_number="35" isdata="1">האיש מעון בזמן שהאיש מנוקה מעון</row>
+		<row row_number="36" isdata="1">המים בודקין את אשתו אין האיש מנוקה</row>
+		<row row_number="37" isdata="1">מעון אין המים בודקין את אשתו אלא דקני</row>
+		<row row_number="38" isdata="1">לה כשהיא ארוסה ואיסתתרה ונכנסה לחופה</row>
+		<row row_number="39" isdata="1">ולא נבעלה ושמע מינה יש חופה לפסולות</row>
+		<row row_number="40" isdata="1">אמר רבא ותסברא דהא מתרצתא היא</row>
+		<row row_number="41" isdata="1">והא כי אתא רבי אחא בר חנינא מדרומא</row>
+		<row row_number="42" isdata="1">אתא ואייתי מתניתא בידיה מבלעדי</row>
+		<row row_number="43" isdata="1">אישך מי שקדמה שכיבת בעל</row>
+		<row row_number="44" isdata="1">לבועל ולא שקדמה שכיבת בועל לבעל</row>
+		<row row_number="45" isdata="1">אמר רמי בר חמא משכחת לה כגון שבא</row>
+		<row row_number="46" isdata="1">עליה ארוסה בבית אביה דכוותה גבי שומרת יבם שבא עליה יבם בבית חמיה</row>
+</amud>
+</daf>
+</masechet>
+</root>

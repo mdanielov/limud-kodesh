@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:50.952538</dateCreated>
+   <lastModified>2019-12-21 20:28:50.952538</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="136">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי אליעזר דמילה"/><ContGemara/>אם אשת ישראל היא חולצת אם אשת כהן</row>
+		<row row_number="2" isdata="1">היא אינה חולצת ורב שרביא משמיה</row>
+		<row row_number="3" isdata="1">דרבא אמר אחת זו ואחת זו חולצת אמר ליה</row>
+		<row row_number="4" isdata="1">רבינא לרב שרביא באורתא אמר רבא הכי</row>
+		<row row_number="5" isdata="1">לצפרא הדר ביה אמר ליה שריתוה יהא</row>
+		<row row_number="6" isdata="1">רעוא דתשרו תרבא ר' יהודה מתיר וכו'</row>
+		<row row_number="7" isdata="1">אמר רב שיזבי אמר רב חסדא לא לכל</row>
+		<row row_number="8" isdata="1">אמר רבי יהודה אנדרוגינוס זכר הוא שאם</row>
+		<row row_number="9" isdata="1">אתה אומר כן בערכין יערך ומנלן דלא</row>
+		<row row_number="10" isdata="1">מיערך דתניא הזכר ולא טומטום</row>
+		<row row_number="11" isdata="1">ואנדרוגינוס יכול לא יהא בערך איש אבל</row>
+		<row row_number="12" isdata="1">יהא בערך אשה תלמוד לומר הזכר ואם</row>
+		<row row_number="13" isdata="1">נקבה היא זכר ודאי נקבה ודאית ולא טומטום ואנדרוגינוס</row>
+</amud>
+</daf>
+</masechet>
+</root>

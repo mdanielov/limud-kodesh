@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:16.216402</dateCreated>
+   <lastModified>2019-12-21 20:29:16.216402</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="107">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>ואתי לאימנועי מלמיעבד פסחא או דילמא</row>
+		<row row_number="2" isdata="1">סמוך למנחה קטנה תנן ומשום מצה דילמא</row>
+		<row row_number="3" isdata="1">אתי למיכלה למצה אכילה גסה אמר רבינא</row>
+		<row row_number="4" isdata="1">ת"ש אפילו אגריפס המלך שהוא רגיל לאכול</row>
+		<row row_number="5" isdata="1">בתשע שעות אותו היום לא יאכל עד שתחשך</row>
+		<row row_number="6" isdata="1">אי אמרת בשלמא סמוך למנחה קטנה תנן</row>
+		<row row_number="7" isdata="1">היינו רבותיה דאגריפס אלא אי אמרת סמוך</row>
+		<row row_number="8" isdata="1">למנחה גדולה תנן מאי רבותיה דאגריפס חל</row>
+		<row row_number="9" isdata="1">איסור עליה מעיקרא אלא סמוך למנחה</row>
+		<row row_number="10" isdata="1">קטנה תנן סוף סוף מאי רבותיה דאגריפס הא</row>
+		<row row_number="11" isdata="1">מטיא ליה זמן איסורא מהו דתימא תשע</row>
+		<row row_number="12" isdata="1">שעות לאגריפס כארבע שעות דידן דמי</row>
+		<row row_number="13" isdata="1">קמ"ל אמר רבי (יוסי) אבל מטביל הוא</row>
+		<row row_number="14" isdata="1">במיני תרגימא ר' יצחק מטביל בירקי תניא</row>
+		<row row_number="15" isdata="1">נמי הכי השמש מטביל בבני מעיין ונותנן</row>
+		<row row_number="16" isdata="1">לפני האורחים ואע"פ שאין ראיה לדבר</row>
+		<row row_number="17" isdata="1">זכר לדבר שנאמר נירו לכם ניר</row>
+		<row row_number="18" isdata="1">ואל תזרעו אל קוצים רבא הוה שתי חמרא</row>
+		<row row_number="19" isdata="1">כולי מעלי יומא דפיסחא כי היכי דניגרריה</row>
+		<row row_number="20" isdata="1">לליביה דניכול מצה טפי לאורתא אמר רבא</row>
+		<row row_number="21" isdata="1">מנא אמינא לה דחמרא מיגרר גריר דתנן</row>
+</amud>
+</daf>
+</masechet>
+</root>

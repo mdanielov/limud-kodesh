@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:11.167196</dateCreated>
+   <lastModified>2019-12-21 20:31:11.167196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="63">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הבית"/><ContGemara/>למאי הלכתא רב זביד אמר שאם רצה</row>
+		<row row_number="2" isdata="1">להוציא בה זיזין מוציא רב פפא אמר שאם</row>
+		<row row_number="3" isdata="1">רצה לבנות עלייה על גבה בונה בשלמא</row>
+		<row row_number="4" isdata="1">לרב זביד היינו דקתני זאת אומרת אלא</row>
+		<row row_number="5" isdata="1">לרב פפא מאי זאת אומרת קשיא אמר רב</row>
+		<row row_number="6" isdata="1">דימי מנהרדעא האי מאן דמזבין ליה ביתא</row>
+		<row row_number="7" isdata="1">לחבריה אף על גב דכתב ליה עומקא ורומא</row>
+		<row row_number="8" isdata="1">צריך למכתב ליה קני לך מתהום ארעא ועד</row>
+		<row row_number="9" isdata="1">רום רקיעא מאי טעמא דעומקא ורומא</row>
+		<row row_number="10" isdata="1">בסתמא לא קני אהני עומקא ורומא למיקנא</row>
+		<row row_number="11" isdata="1">עומקא ורומא ואהני מתהום ארעא ועד רום</row>
+		<row row_number="12" isdata="1">רקיעא למיקנא בור ודות ומחילות לימא</row>
+		<row row_number="13" isdata="1">מסייע ליה ולא את הבור ולא את הדות</row>
+		<row row_number="14" isdata="1">אף על פי שכתב לו עומקא ורומא ואי</row>
+		<row row_number="15" isdata="1">סלקא דעתך בסתמא קני עומקא ורומא ליהני</row>
+		<row row_number="16" isdata="1">עומקא ורומא למיקנא בור ודות ומחילות</row>
+		<row row_number="17" isdata="1">דלא כתב ליה והא אע"פ שכתב לו קתני</row>
+		<row row_number="18" isdata="1">ה"ק אע"פ שלא כתב לו כמי שכתב דמי</row>
+		<row row_number="19" isdata="1">למיקנא עומקא ורומא למיקנא בור ודות</row>
+		<row row_number="20" isdata="1">ומחילות אי כתב ליה עומקא ורומא קני ואי</row>
+		<row row_number="21" isdata="1">לא כתב לא קני תא שמע ולא את הגג בזמן</row>
+		<row row_number="22" isdata="1">שיש לו מעקה גבוה עשרה טפחים</row>
+</amud>
+</daf>
+</masechet>
+</root>

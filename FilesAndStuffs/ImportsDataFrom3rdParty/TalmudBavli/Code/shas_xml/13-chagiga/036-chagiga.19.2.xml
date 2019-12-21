@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:52.087442</dateCreated>
+   <lastModified>2019-12-21 20:29:52.087442</lastModified>
+ </meta>
+ <masechet name="חגיגה" serial="13">
+<daf value="19">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אין דורשין"/><ContGemara/>מאיר היה אומר מטביל בעליונה ואני אומר</row>
+		<row row_number="2" isdata="1">בתחתונה ולא בעליונה א"ל אי תניא תניא</row>
+		<row row_number="3" isdata="1">הטובל לחולין והוחזק לחולין כו' מני</row>
+		<row row_number="4" isdata="1">מתניתין רבנן היא דשני להו בין חולין</row>
+		<row row_number="5" isdata="1">למעשר אימא סיפא בגדי עם הארץ מדרס</row>
+		<row row_number="6" isdata="1">לפרושין בגדי פרושין מדרס לאוכלי תרומה</row>
+		<row row_number="7" isdata="1">אתאן לר' מאיר דאמר חולין ומעשר כהדדי</row>
+		<row row_number="8" isdata="1">נינהו רישא רבנן וסיפא ר' מאיר אין רישא</row>
+		<row row_number="9" isdata="1">רבנן וסיפא ר' מאיר רב אחא בר אדא מתני</row>
+		<row row_number="10" isdata="1">לה בסיפא חמש מעלות ומוקי לה כולה</row>
+		<row row_number="11" isdata="1">כרבנן אמר רב מרי שמע מינה חולין</row>
+		<row row_number="12" isdata="1">שנעשו על טהרת הקודש כקודש דמו ממאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

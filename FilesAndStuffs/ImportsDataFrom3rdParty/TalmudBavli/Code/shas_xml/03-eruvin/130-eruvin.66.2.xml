@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:59.310424</dateCreated>
+   <lastModified>2019-12-21 20:28:59.310424</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="66">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה אשה"/><ContGemara/>אלא לאו דאתא בשבתא וקתני אוסרין ואין</row>
+		<row row_number="2" isdata="1">מערבין אין מבטלין שמע מינה אמר רב</row>
+		<row row_number="3" isdata="1">יוסף לא שמיע לי הא שמעתא אמר ליה</row>
+		<row row_number="4" isdata="1">אביי את אמרת ניהלן ואהא אמרת ניהלן</row>
+		<row row_number="5" isdata="1">דאמר שמואל אין ביטול רשות מחצר</row>
+		<row row_number="6" isdata="1">לחצר ואין ביטול רשות בחורבה ואמרת לן</row>
+		<row row_number="7" isdata="1">עלה כי אמר שמואל אין ביטול רשות</row>
+		<row row_number="8" isdata="1">מחצר לחצר לא אמרן אלא שתי חצירות</row>
+		<row row_number="9" isdata="1">ופתח אחד ביניהן אבל זו לפנים מזו מתוך</row>
+		<row row_number="10" isdata="1">שאוסרין זה על זה מבטלין א"ל אנא אמינא</row>
+		<row row_number="11" isdata="1">משמיה דשמואל הכי והאמר שמואל אין</row>
+		<row row_number="12" isdata="1">לנו בעירובין אלא כלשון משנתנו אנשי</row>
+		<row row_number="13" isdata="1">חצר ולא אנשי חצירות אמר ליה כי אמרת</row>
+		<row row_number="14" isdata="1">לן אין לנו בעירובין אלא כלשון משנתנו</row>
+		<row row_number="15" isdata="1">אהא אמרת לן שהמבוי לחצירות כחצר</row>
+		<row row_number="16" isdata="1">לבתים גופא אמר שמואל אין ביטול רשות</row>
+		<row row_number="17" isdata="1">מחצר לחצר ואין ביטול רשות בחורבה ורבי</row>
+		<row row_number="18" isdata="1">יוחנן אמר יש ביטול רשות מחצר לחצר</row>
+		<row row_number="19" isdata="1">ויש ביטול רשות בחורבה וצריכא דאי</row>
+		<row row_number="20" isdata="1">אשמעינן מחצר לחצר בהא קאמר שמואל</row>
+		<row row_number="21" isdata="1">משום דהא תשמישתא לחוד והא תשמישתא</row>
+		<row row_number="22" isdata="1">לחוד אבל חורבה דתשמישתא חדא לתרווייהו</row>
+		<row row_number="23" isdata="1">אימא מודי ליה לרבי יוחנן וכי אתמר בהא</row>
+		<row row_number="24" isdata="1">בהא קאמר רבי יוחנן אבל בהך מודי ליה</row>
+		<row row_number="25" isdata="1">לשמואל צריכא אמר אביי הא דאמר שמואל</row>
+		<row row_number="26" isdata="1">אין ביטול רשות מחצר לחצר לא אמרן</row>
+		<row row_number="27" isdata="1">אלא בשתי חצירות ופתח אחד ביניהן אבל</row>
+		<row row_number="28" isdata="1">ב' חצירות זו לפנים מזו מתוך שאוסרין</row>
+		<row row_number="29" isdata="1">מבטלין רבא אמר אפילו שתי חצירות זו לפנים</row>
+		<row row_number="30" isdata="1">מזו פעמים מבטלין ופעמים אין מבטלין</row>
+		<row row_number="31" isdata="1">כיצד נתנו עירובן בחיצונה ושכח אחד בין</row>
+		<row row_number="32" isdata="1">מן הפנימית ובין מן החיצונה ולא עירב</row>
+		<row row_number="33" isdata="1">שתיהן אסורות נתנו עירובן בפנימית ושכח</row>
+		<row row_number="34" isdata="1">אחד מן הפנימית ולא עירב שתיהן אסורות שכח אחד מן החיצונה ולא</row>
+		<row row_number="35" isdata="1">עירב פנימית מותרת וחיצונה אסורה נתנו עירובן בחיצונה ושכח אחד</row>
+		<row row_number="36" isdata="1">בין מן הפנימית ובין מן החיצונה ולא עירב שתיהן אסורות האי בר פנימית</row>
+		<row row_number="37" isdata="1">למאן ניבטיל ליבטיל לבני פנימית ליתא לערובייהו גבייהו ליבטיל לבני</row>
+		<row row_number="38" isdata="1">חיצונה אין בטול רשות מחצר לחצר האי בר חיצונה למאן נבטיל ליבטיל</row>
+		<row row_number="39" isdata="1">לבני חיצונה איכא פנימית דאסרה עלייהו ליבטיל לבני פנימית אין ביטול</row>
+		<row row_number="40" isdata="1">רשות מחצר לחצר נתנו עירובן בפנימית ושכח אחד מן הפנימית ולא עירב</row>
+		<row row_number="41" isdata="1">שתיהן אסורות האי בר פנימית למאן נבטיל ליבטיל לבני הפנימית איכא</row>
+		<row row_number="42" isdata="1">חיצונה דאסרה עלייהו ליבטיל לבני חיצונה אין ביטול רשות מחצר לחצר</row>
+</amud>
+</daf>
+</masechet>
+</root>

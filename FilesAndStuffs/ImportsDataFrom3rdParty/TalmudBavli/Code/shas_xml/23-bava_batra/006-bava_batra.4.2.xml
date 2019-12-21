@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:05.675196</dateCreated>
+   <lastModified>2019-12-21 20:31:05.675196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="4">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השותפין"/><ContGemara/>נשעייה באמתא מלבר וניעבד מלגיו עביד</row>
+		<row row_number="2" isdata="1">חבריה מלבר ואמר דידי ודידיה הוא אי הכי</row>
+		<row row_number="3" isdata="1">השתא נמי דקפיל ליה חבריה ואמר דידי</row>
+		<row row_number="4" isdata="1">ודידיה הוא קילופא מידע ידיע הוצא אמר</row>
+		<row row_number="5" isdata="1">רב נחמן סינופי יריכי מלבר וניעבד מלגיו</row>
+		<row row_number="6" isdata="1">עביד נמי חבריה מלבר ואמר דידי ודידיה</row>
+		<row row_number="7" isdata="1">הוא אי הכי השתא נמי גייז ושדי ליה ואמר</row>
+		<row row_number="8" isdata="1">דידי ודידיה הוא משריק ליה טינא השתא נמי</row>
+		<row row_number="9" isdata="1">אתי חבריה וקליף ליה קילופא מידע ידיע</row>
+		<row row_number="10" isdata="1">אביי אמר הוצא לית ליה תקנתא אלא</row>
+		<row row_number="11" isdata="1">בשטרא אבל אם עשו מדעת שניהם אמר</row>
+		<row row_number="12" isdata="1">ליה רבא מפרזיקא לרב אשי לא יעשו לא זה</row>
+		<row row_number="13" isdata="1">ולא זה א"ל לא צריכא דקדים חד מנייהו</row>
+		<row row_number="14" isdata="1">ועבד דידיה ואי לא עביד חבריה אמר דידיה</row>
+		<row row_number="15" isdata="1">הוא ותנא תקנתא לרמאי קמ"ל א"ל ורישא</row>
+		<row row_number="16" isdata="1">לאו תקנתא לרמאי הוא א"ל בשלמא רישא</row>
+		<row row_number="17" isdata="1">תנא דינא ומשום דינא תנא תקנתא אלא</row>
+		<row row_number="18" isdata="1">סיפא דינא קתני דקתני תקנתא אמר רבינא</row>
+		<row row_number="19" isdata="1">הכא בהוצי עסקינן לאפוקי מדאביי דאמר</row>
+		<row row_number="20" isdata="1">הוצא לית ליה תקנתא אלא בשטרא קמ"ל</row>
+		<row row_number="21" isdata="1">דבחזית סגיאמתני' המקיף את חבירו משלש רוחותיו וגדר את</row>
+		<row row_number="22" isdata="1">הראשונה ואת השניה ואת השלישית אין מחייבין אותו רבי יוסי אומר אם</row>
+		<row row_number="23" isdata="1">עמד וגדר את הרביעית מגלגלין עליו את הכל<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר</row>
+		<row row_number="24" isdata="1">שמואל הלכה כר' יוסי דאמר אם עמד וגדר את הרביעית מגלגלין עליו את</row>
+		<row row_number="25" isdata="1">הכל ל"ש עמד ניקף ל"ש עמד מקיף איתמר רב הונא אמר הכל לפי מה</row>
+		<row row_number="26" isdata="1">שגדר חייא בר רב אמר הכל לפי דמי קנים בזול תנן המקיף את חבירו משלש</row>
+		<row row_number="27" isdata="1">רוחותיו וגדר את הראשונה ואת השניה ואת השלישית אין מחייבין אותו הא</row>
+		<row row_number="28" isdata="1">רביעית מחייבין אותו אימא סיפא רבי יוסי אומר אם עמד וגדר את הרביעית</row>
+		<row row_number="29" isdata="1">מגלגלין עליו את הכל בשלמא לרב הונא דאמר הכל לפי מה שגדר בה היינו</row>
+		<row row_number="30" isdata="1">דאיכא בין ת"ק ורבי יוסי ת"ק סבר הכל לפי דמי קנים בזול אין ומה שגדר</row>
+		<row row_number="31" isdata="1">לא ורבי יוסי סבר הכל לפי מה שגדר אלא לחייא בר רב דאמר הכל לפי דמי</row>
+		<row row_number="32" isdata="1">קנים בזול מאי איכא בין ת"ק לר' יוסי אי דמי קנים בזול לא קיהיב ליה מאי</row>
+		<row row_number="33" isdata="1">קיהיב ליה אי בעית אימא אגר נטירא איכא בינייהו תנא קמא סבר אגר</row>
+		<row row_number="34" isdata="1">נטירא אין דמי קנים בזול לא ורבי יוסי סבר דמי קנים בזול ואי בעית אימא</row>
+		<row row_number="35" isdata="1">ראשונה שניה ושלישית איכא בינייהו ת"ק סבר רביעית הוא דיהיב ליה אבל</row>
+		<row row_number="36" isdata="1">ראשונה שניה ושלישית לא יהיב ליה ור' יוסי סבר ראשונה שנייה ושלישית</row>
+		<row row_number="37" isdata="1">נמי יהיב ליה איבעית אימא מקיף וניקף איכא בינייהו דת"ק סובר טעמא</row>
+		<row row_number="38" isdata="1">דעמד ניקף דמגלגלין עליו את הכל אבל עמד מקיף אינו נותן לו אלא דמי</row>
+		<row row_number="39" isdata="1">רביעית ורבי יוסי סבר ל"ש ניקף ול"ש מקיף אם עמד וגדר מגלגלין עליו את</row>
+		<row row_number="40" isdata="1">הכל לישנא אחרינא מקיף וניקף איכא בינייהו ת"ק סבר אם גדר מקיף את</row>
+		<row row_number="41" isdata="1">הרביעית נמי יהיב ליה ורבי יוסי סבר אם עמד ניקף וגדר את הרביעית הוא</row>
+		<row row_number="42" isdata="1">דיהיב ליה דגלי דעתיה דניחא ליה אבל אם גדר מקיף לא יהיב ליה מידי</row>
+</amud>
+</daf>
+</masechet>
+</root>

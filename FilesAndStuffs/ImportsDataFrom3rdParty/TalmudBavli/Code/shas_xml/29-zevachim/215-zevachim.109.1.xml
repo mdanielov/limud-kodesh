@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:00.202908</dateCreated>
+   <lastModified>2019-12-21 20:32:00.202908</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="109">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט והמעלה"/><ContMishna/>מתני' אחד קדשים כשרין ואחד קדשים<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">פסולין שהיה פסולן בקודש והקריבן בחוץ</row>
+		<row row_number="3" isdata="1">חייב המעלה כזית מן העולה ומן האימורין</row>
+		<row row_number="4" isdata="1">בחוץ חייב<EndMishna/><StartGemara/>גמ' ת"ר אשר יעלה עולה או</row>
+		<row row_number="5" isdata="1">זבח אין לי אלא עולה מנין לרבות אימורי</row>
+		<row row_number="6" isdata="1">אשם ואימורי חטאת ואימורי קדשי קדשים</row>
+		<row row_number="7" isdata="1">ואימורי קדשים קלים ת"ל זבח מנין לרבות</row>
+		<row row_number="8" isdata="1">הקומץ והלבונה והקטורת ומנחת כהנים</row>
+		<row row_number="9" isdata="1">ומנחת כהן משיח והמנסך שלשת לוגין יין</row>
+		<row row_number="10" isdata="1">ושלשת לוגין מים ת"ל ואל פתח אהל מועד</row>
+		<row row_number="11" isdata="1">לא יביאנו כל הבא לפתח אהל מועד חייבין</row>
+		<row row_number="12" isdata="1">עליו בחוץ ואין לי אלא קדשים כשרים מנין</row>
+		<row row_number="13" isdata="1">לרבות פסולין כגון הלן והיוצא והטמא</row>
+		<row row_number="14" isdata="1">ושנשחט חוץ לזמנו וחוץ למקומו ושקבלו</row>
+		<row row_number="15" isdata="1">פסולין וזרקו את דמו והניתנין למטה שנתנן</row>
+		<row row_number="16" isdata="1">למעלה והניתנין למעלה שנתנן למטה</row>
+		<row row_number="17" isdata="1">והניתנין בחוץ שנתנן בפנים והניתנין בפנים</row>
+		<row row_number="18" isdata="1">שנתנן בחוץ ופסח וחטאת שנתנן שלא</row>
+		<row row_number="19" isdata="1">לשמן מנין ת"ל לא יביאנו לעשות כל</row>
+		<row row_number="20" isdata="1">המתקבל בפתח אהל מועד חייבין עליו בחוץ</row>
+		<row row_number="21" isdata="1">המעלה כזית מן העולה כו' עולה ואימוריה</row>
+		<row row_number="22" isdata="1">אין שלמים ואימוריהן לא תנינא להא דת"ר</row>
+		<row row_number="23" isdata="1">עולה ואימוריה מצטרפין לכזית להעלותן</row>
+		<row row_number="24" isdata="1">בחוץ ולחייב עליהן משום פיגול נותר וטמא</row>
+		<row row_number="25" isdata="1">בשלמא העלאת עולה דכליל אין שלמים לא</row>
+		<row row_number="26" isdata="1">אלא פיגול ונותר וטמא מ"ט והא תנן כל</row>
+		<row row_number="27" isdata="1">הפגולין מצטרפין וכל הנותרין מצטרפין</row>
+		<row row_number="28" isdata="1">קשיא פיגול אפיגול קשיא נותר אנותר פיגול</row>
+		<row row_number="29" isdata="1">אפיגול לא קשיא כאן בפיגול כאן במחשבת</row>
+		<row row_number="30" isdata="1">פיגול נותר אנותר לא קשיא כאן בנותר</row>
+		<row row_number="31" isdata="1">כאן בשניתותרו עד שלא נזרק הדם ומני</row>
+		<row row_number="32" isdata="1">רבי יהושע היא דתניא ר' יהושע אומר כל</row>
+		<row row_number="33" isdata="1">הזבחים שבתורה שנשתייר בהן כזית בשר</row>
+</amud>
+</daf>
+</masechet>
+</root>

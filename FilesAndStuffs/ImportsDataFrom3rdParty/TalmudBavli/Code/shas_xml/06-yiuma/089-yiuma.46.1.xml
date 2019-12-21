@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:24.943399</dateCreated>
+   <lastModified>2019-12-21 20:29:24.943399</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="46">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "טרף בקלפי"/><ContGemara/>אבל מהאי גיסא ומהאי גיסא אימא לא</row>
+		<row row_number="2" isdata="1">צריכא א"ר אלעזר משום בר קפרא אומר</row>
+		<row row_number="3" isdata="1">היה רבי מאיר איברי עולה שנתותרו עושה</row>
+		<row row_number="4" isdata="1">להן מערכה בפני עצמה וסודרן ואפילו</row>
+		<row row_number="5" isdata="1">בשבת מאי קמ"ל תנינא בכל יום היו שם</row>
+		<row row_number="6" isdata="1">ארבע מערכות א"ר אבין לא נצרכה אלא</row>
+		<row row_number="7" isdata="1">לפסולין ודוקא שמשלה בהן האור אבל לא</row>
+		<row row_number="8" isdata="1">משלה בהן האור לא איכא דאמרי אחד</row>
+		<row row_number="9" isdata="1">כשירין ואחד פסולין אי משלה בהן האור</row>
+		<row row_number="10" isdata="1">אין ואי לא לא ואפילו בשבת תנינא והיום</row>
+		<row row_number="11" isdata="1">חמש אמר רב אחא בר יעקב איצטריך</row>
+		<row row_number="12" isdata="1">סלקא דעתך אמינא הני מילי היכא דחל</row>
+		<row row_number="13" isdata="1">יום הכפורים להיות אחר השבת דחלבי</row>
+		<row row_number="14" isdata="1">שבת קרבין ביוה"כ אבל באמצע שבת</row>
+		<row row_number="15" isdata="1">לא קמ"ל אמר רבא מאן האי דלא חייש</row>
+		<row row_number="16" isdata="1">לקמחיה הא בכל יום תנן קשיא ופליגא דרב</row>
+		<row row_number="17" isdata="1">הונא דאמר תחילתו דוחה סופו אינו דוחה</row>
+		<row row_number="18" isdata="1">גופא אמר רב הונא תמיד תחילתו דוחה</row>
+		<row row_number="19" isdata="1">סופו אינו דוחה מאי אינו דוחה רב חסדא</row>
+		<row row_number="20" isdata="1">אמר דוחה את השבת ואינו דוחה את</row>
+		<row row_number="21" isdata="1">הטומאה (ורבא) אמר דוחה את הטומאה</row>
+		<row row_number="22" isdata="1">ואינו דוחה את השבת אמר ליה אביי</row>
+		<row row_number="23" isdata="1">(לרבא) לדידך קשיא ולרב חסדא קשיא</row>
+		<row row_number="24" isdata="1">לדידך קשיא מאי שנא טומאה דכתיב במועדו</row>
+		<row row_number="25" isdata="1">ואפי' בטומאה שבת נמי במועדו ואפי' בשבת ולרב חסדא קשיא מאי שנא</row>
+		<row row_number="26" isdata="1">שבת דכתי' במועדו אפי' בשבת טומאה נמי במועדו ואפי' בטומאה אמר ליה</row>
+		<row row_number="27" isdata="1">לא לדידי קשיא ולא לרב חסדא קשיא לדידי לא קשיא סופו כתחילתו</row>
+</amud>
+</daf>
+</masechet>
+</root>

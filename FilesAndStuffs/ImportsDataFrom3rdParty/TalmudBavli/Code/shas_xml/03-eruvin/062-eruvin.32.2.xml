@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:55.914421</dateCreated>
+   <lastModified>2019-12-21 20:28:55.914421</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="32">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>סבר אותו חבר אוכל ואינו צריך לעשר דודאי</row>
+		<row row_number="2" isdata="1">עישורי מעשר ההוא חבר קמא עילויה</row>
+		<row row_number="3" isdata="1">ורבן שמעון בן גמליאל אומר לא יאכל</row>
+		<row row_number="4" isdata="1">עד שיעשר לפי שלא נחשדו חברים</row>
+		<row row_number="5" isdata="1">לתרום שלא מן המוקף ואמר ליה רבי</row>
+		<row row_number="6" isdata="1">מוטב שיחשדו חברים לתרום שלא מן</row>
+		<row row_number="7" isdata="1">המוקף ואל יאכילו עמי הארץ טבלים במאי</row>
+		<row row_number="8" isdata="1">קמיפלגי רבי סבר ניחא ליה לחבר דלעביד</row>
+		<row row_number="9" isdata="1">הוא איסורא קלילא ולא ליעבד עם הארץ</row>
+		<row row_number="10" isdata="1">איסורא רבה ורבן שמעון בן גמליאל סבר</row>
+		<row row_number="11" isdata="1">ניחא ליה לחבר דליעבד עם הארץ איסורא</row>
+		<row row_number="12" isdata="1">רבה ואיהו אפי' איסורא קלילא לא ליעבד</row>
+		<row row_number="13" isdata="1"><EndGemara/><StartMishna/>מתני' נתנו באילן למעלה מעשרה</row>
+		<row row_number="14" isdata="1">טפחים אין עירובו עירוב למטה מעשרה</row>
+		<row row_number="15" isdata="1">טפחים עירובו עירוב נתנו בבור אפילו עמוק</row>
+		<row row_number="16" isdata="1">מאה אמה עירובו עירוב<EndMishna/><StartGemara/>גמ' יתיב רבי</row>
+		<row row_number="17" isdata="1">חייא בר אבא ורבי אסי ורבא בר נתן ויתיב</row>
+		<row row_number="18" isdata="1">רב נחמן גבייהו ויתבי וקאמרי האי אילן</row>
+		<row row_number="19" isdata="1">דקאי היכא אילימא דקאי ברשות היחיד</row>
+		<row row_number="20" isdata="1">מה לי למעלה מה לי למטה רשות היחיד</row>
+		<row row_number="21" isdata="1">עולה עד לרקיע ואלא דקאי ברשות הרבים</row>
+		<row row_number="22" isdata="1">דמתכוין לשבות היכא אילימא דנתכוון</row>
+		<row row_number="23" isdata="1">לשבות למעלה הוא ועירובו במקום אחד</row>
+		<row row_number="24" isdata="1">הוא אלא נתכוון לשבות למטה והא קא</row>
+		<row row_number="25" isdata="1">משתמש באילן לעולם דקאי ברה"ר ונתכוון</row>
+		<row row_number="26" isdata="1">לשבות למטה ורבי היא דאמר כל דבר</row>
+		<row row_number="27" isdata="1">שהוא משום שבות לא גזרו עליו בין</row>
+		<row row_number="28" isdata="1">השמשות אמר להו רב נחמן ישר וכן</row>
+		<row row_number="29" isdata="1">אמר שמואל אמרו ליה פתריתו בה כולי</row>
+		<row row_number="30" isdata="1">האי אינהו נמי הכי קא פתרי בה [אלא</row>
+		<row row_number="31" isdata="1">הכי] אמרו ליה קבעיתו ליה בגמרא אמר</row>
+		<row row_number="32" isdata="1">להו אין אתמר נמי אמר רב נחמן אמר</row>
+		<row row_number="33" isdata="1">שמואל הכא באילן העומד ברשות הרבים</row>
+		<row row_number="34" isdata="1">עסקינן גבוה עשרה ורחב ארבעה ונתכוון</row>
+		<row row_number="35" isdata="1">לשבות למטה ורבי היא דאמר כל דבר</row>
+		<row row_number="36" isdata="1">שהוא משום שבות לא גזרו עליו בין</row>
+		<row row_number="37" isdata="1">השמשות אמר רבא ל"ש אלא באילן העומד</row>
+		<row row_number="38" isdata="1">חוץ לעיבורה של עיר אבל אילן העומד בתוך</row>
+		<row row_number="39" isdata="1">עיבורה של עיר אפילו למעלה מעשרה הרי</row>
+		<row row_number="40" isdata="1">זה עירוב דמתא כמאן דמליא דמיא אי הכי</row>
+		<row row_number="41" isdata="1">חוץ לעיבורה של עיר נמי כיון דאמר רבא</row>
+		<row row_number="42" isdata="1">הנותן עירובו יש לו ארבע אמות הויא לה</row>
+		<row row_number="43" isdata="1">רשות היחיד ורשות היחיד עולה עד לרקיע</row>
+		<row row_number="44" isdata="1">אמר רב יצחק בריה דרב משרשיא הכא</row>
+		<row row_number="45" isdata="1">באילן הנוטה חוץ לארבע אמות עסקינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

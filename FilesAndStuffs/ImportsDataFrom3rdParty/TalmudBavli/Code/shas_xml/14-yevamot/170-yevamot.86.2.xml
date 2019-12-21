@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:59.867474</dateCreated>
+   <lastModified>2019-12-21 20:29:59.867474</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="86">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש מותרות"/><ContGemara/>לכהן לכהן ולא ללוי אימא אף לכהן מאי</row>
+		<row row_number="2" isdata="1">טעמא דר' עקיבא דכתיב ואל הלוים תדבר</row>
+		<row row_number="3" isdata="1">ואמרת אליהם בלוים קא משתעי קרא</row>
+		<row row_number="4" isdata="1">ואידך כדר' יהושע ב"ל דאמר ר' יהושע ב"ל</row>
+		<row row_number="5" isdata="1">בעשרים וארבעה מקומות נקראו כהנים לוים</row>
+		<row row_number="6" isdata="1">וזה אחד מהם והכהנים הלוים בני צדוק ור"ע</row>
+		<row row_number="7" isdata="1">הכא לא מצית אמרת דכתיב ואכלתם אותו</row>
+		<row row_number="8" isdata="1">בכל מקום מי שיכול לאוכלו בכל מקום יצא</row>
+		<row row_number="9" isdata="1">כהן שאין יכול לאוכלו בבית הקברות ואידך</row>
+		<row row_number="10" isdata="1">כל היכא דבעי דלא בעי חומה ואי אכיל ליה</row>
+		<row row_number="11" isdata="1">בטומאת הגוף לא לקי ההיא גינתא דהוה</row>
+		<row row_number="12" isdata="1">שקיל רבי אלעזר בן עזריה מעשר ראשון</row>
+		<row row_number="13" isdata="1">מינה אזל ר"ע אהדריה לפתחא לבי קברי</row>
+		<row row_number="14" isdata="1">אמר עקיבא בתרמילו ואנא חיי איתמר</row>
+		<row row_number="15" isdata="1">מפני מה קנסו לוים במעשר פליגי בה רבי</row>
+		<row row_number="16" isdata="1">יונתן וסביא חד אמר שלא עלו בימי עזרא</row>
+		<row row_number="17" isdata="1">וח"א כדי שיסמכו כהנים עליו בימי טומאתן</row>
+		<row row_number="18" isdata="1">בשלמא למאן דאמר שלא עלו משום הכי</row>
+		<row row_number="19" isdata="1">קנסינהו אלא למ"ד כדי שיסמכו עליו כהנים</row>
+		<row row_number="20" isdata="1">בימי טומאתן משום כהנים קנסינהו ללוים</row>
+		<row row_number="21" isdata="1">אלא כולי עלמא קנסא שלא עלו בימי עזרא</row>
+		<row row_number="22" isdata="1">והכא בהא קמיפלגי מר סבר קנסא לעניים</row>
+		<row row_number="23" isdata="1">ומר סבר כהנים בימי טומאתן עניים נינהו</row>
+		<row row_number="24" isdata="1">( בשלמא למאן דאמר קנסא לעניים משום</row>
+		<row row_number="25" isdata="1">הכי אהדריה ר"ע לפתחא לבי קברי אלא</row>
+		<row row_number="26" isdata="1">למאן דאמר לכהנים אמאי אהדריה לפתחא</row>
+		<row row_number="27" isdata="1">לבי קברי) הכי קאמר ליה אי דקא אתית</row>
+		<row row_number="28" isdata="1">בתורת קנסא אית לך ואי קא אתית בתורת</row>
+		<row row_number="29" isdata="1">חלוקה לית לך ומנא לן דלא סליקו בימי</row>
+		<row row_number="30" isdata="1">עזרא דכתיב ואקבצם אל הנהר הבא על</row>
+		<row row_number="31" isdata="1">אהוא ונחנה שם ימים שלשה ואבינה בעם</row>
+		<row row_number="32" isdata="1">ובכהנים ומבני לוי לא מצאתי שם אמר רב</row>
+		<row row_number="33" isdata="1">חסדא בתחלה לא היו מעמידים שוטרי' אלא</row>
+		<row row_number="34" isdata="1">מן הלוים שנאמר ושוטרים הלוים לפניכם עכשיו אין מעמידין שוטרים אלא</row>
+		<row row_number="35" isdata="1">מישראל שנאמר ושוטרים הרבים בראשיכםמתני' בת ישראל</row>
+		<row row_number="36" isdata="1">שניסת לכהן תאכל בתרומה מת ולה הימנו בן תאכל בתרומה ניסת</row>
+		<row row_number="37" isdata="1">ללוי תאכל במעשר מת ולה הימנו בן תאכל במעשר ניסת לישראל</row>
+		<row row_number="38" isdata="1">לא תאכל לא בתרומה ולא במעשר מת ולה הימנו בן לא תאכל לא</row>
+		<row row_number="39" isdata="1">בתרומה ולא במעשר מת בנה מישראל תאכל במעשר מת בנה מלוי</row>
+		<row row_number="40" isdata="1">תאכל בתרומה מת בנה מכהן לא תאכל לא בתרומה ולא במעשר</row>
+</amud>
+</daf>
+</masechet>
+</root>

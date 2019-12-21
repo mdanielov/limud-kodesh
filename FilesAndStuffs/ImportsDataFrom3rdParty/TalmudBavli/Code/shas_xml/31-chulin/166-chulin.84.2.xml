@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:20.566924</dateCreated>
+   <lastModified>2019-12-21 20:32:20.566924</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="84">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כסוי הדם"/><ContGemara/>הרוצה שיתעשר יעסוק בבהמה דקה אמר</row>
+		<row row_number="2" isdata="1">רב חסדא מאי דכתיב ועשתרות צאנך</row>
+		<row row_number="3" isdata="1">שמעשרות את בעליהן ואמר רבי יוחנן</row>
+		<row row_number="4" isdata="1">כסא דחרשין ולא כסא דפושרין והני מילי</row>
+		<row row_number="5" isdata="1">בכלי מתכות אבל בכלי חרש לית לן בה</row>
+		<row row_number="6" isdata="1">ובכלי מתכות נמי לא אמרן אלא דלא שדי</row>
+		<row row_number="7" isdata="1">בהו ציביא אבל שדי בהו ציביא לית לן בה</row>
+		<row row_number="8" isdata="1">וכי לא שדי בהו ציביא נמי לא אמרן אלא</row>
+		<row row_number="9" isdata="1">דלא ציץ אבל ציץ לית לן בה ואמר ר' יוחנן</row>
+		<row row_number="10" isdata="1">מי שהניח לו אביו מעות ורוצה לאבדן</row>
+		<row row_number="11" isdata="1">ילבש כלי פשתן וישתמש בכלי זכוכית</row>
+		<row row_number="12" isdata="1">וישכור פועלים ואל ישב עמהן ילבוש כלי</row>
+		<row row_number="13" isdata="1">פשתן בכיתנא רומיתא וישתמש בכלי</row>
+		<row row_number="14" isdata="1">זכוכית בזוגיתא חיורתא וישכור פועלים ואל</row>
+		<row row_number="15" isdata="1">ישב עמהן בתורי דנפיש פסידייהו דרש</row>
+		<row row_number="16" isdata="1">רב עוירא זימנין אמר לה משמיה דרבי אמי</row>
+		<row row_number="17" isdata="1">וזימנין אמר לה משמיה דרבי אסי מאי</row>
+		<row row_number="18" isdata="1">דכתיב טוב איש חונן ומלוה יכלכל דבריו</row>
+		<row row_number="19" isdata="1">במשפט לעולם יאכל אדם וישתה פחות</row>
+		<row row_number="20" isdata="1">ממה שיש לו וילבש ויתכסה במה שיש לו</row>
+		<row row_number="21" isdata="1">ויכבד אשתו ובניו יותר ממה שיש לו שהן</row>
+		<row row_number="22" isdata="1">תלויין בו והוא תלוי במי שאמר והיה</row>
+		<row row_number="23" isdata="1">העולם דרש רב עינא אפתחא דבי ריש</row>
+		<row row_number="24" isdata="1">גלותא השוחט לחולה בשבת חייב לכסות</row>
+		<row row_number="25" isdata="1">אמר להו רבה אשתומא קאמר לישמטוה</row>
+		<row row_number="26" isdata="1">לאמוריה מיניה דתניא ר' יוסי אומר כוי אין</row>
+		<row row_number="27" isdata="1">שוחטין אותו ביו"ט ואם שחטו אין מכסין</row>
+		<row row_number="28" isdata="1">את דמו מקל וחומר ומה מילה שודאה דוחה</row>
+		<row row_number="29" isdata="1">שבת אין ספיקה דוחה יו"ט כסוי שאין ודאו</row>
+		<row row_number="30" isdata="1">דוחה שבת אין דין שאין ספקו דוחה יו"ט</row>
+		<row row_number="31" isdata="1">אמר לו תקיעת שופר בגבולים תוכיח</row>
+		<row row_number="32" isdata="1">שאין ודאה דוחה שבת וספיקה דוחה יו"ט</row>
+		<row row_number="33" isdata="1">השיב רבי אלעזר הקפר בריבי תשובה מה</row>
+		<row row_number="34" isdata="1">למילה שכן אינה נוהגת בלילי ימים טובים</row>
+		<row row_number="35" isdata="1">תאמר בכסוי שנוהג בלילי ימים טובים אמר</row>
+		<row row_number="36" isdata="1">רבי אבא זה אחד מן הדברים שאמר רבי</row>
+		<row row_number="37" isdata="1">חייא אין לי עליהם תשובה והשיב רבי</row>
+		<row row_number="38" isdata="1">אלעזר הקפר בריבי תשובה קתני מיהת</row>
+		<row row_number="39" isdata="1">כסוי שאין ודאו דוחה שבת מאי ודאו דכסוי</row>
+		<row row_number="40" isdata="1">דלא דחי שבת לאו השוחט לחולה בשבת</row>
+		<row row_number="41" isdata="1">ודלמא דעבר ושחט דומיא דמילה מה מילה</row>
+		<row row_number="42" isdata="1">ברשות אף כסוי נמי ברשות אמרו לו תקיעת</row>
+		<row row_number="43" isdata="1">שופר בגבולין תוכיח שאין ודאה דוחה</row>
+		<row row_number="44" isdata="1">שבת וספיקה דוחה יום טוב מאי ספיקה</row>
+		<row row_number="45" isdata="1">אילימא ספק חול ספק יום טוב השתא ודאי</row>
+		<row row_number="46" isdata="1">יום טוב דחיא ספק יו"ט ספק חול מיבעיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:32.342405</dateCreated>
+   <lastModified>2019-12-21 20:29:32.342405</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הישן"/><ContGemara/>ועל שהיה ספק בידם למחות ולא מיחו ועל</row>
+		<row row_number="2" isdata="1">שפוסקים צדקה ברבים ואינן נותנין אמר</row>
+		<row row_number="3" isdata="1">רב בשביל ארבעה דברים נכסי בעלי בתים</row>
+		<row row_number="4" isdata="1">יוצאין לטמיון על כובשי שכר שכיר ועל</row>
+		<row row_number="5" isdata="1">עושקי שכר שכיר ועל שפורקין עול מעל</row>
+		<row row_number="6" isdata="1">צואריהן ונותנין על חבריהן ועל גסות הרוח</row>
+		<row row_number="7" isdata="1">וגסות הרוח כנגד כולן אבל בענוים כתיב</row>
+		<row row_number="8" isdata="1">וענוים יירשו ארץ והתענגו על רוב שלום<EndChapter name = "הישן"/><EndGemara/></row>
+		<row row_number="9" isdata="0">הדרן עלך הישן</row>
+		<row row_number="10" isdata="1"><StartChapter name = "לולב הגזול"/><StartMishna/>לולב הגזול והיבש פסול של אשירה</row>
+		<row row_number="11" isdata="1">ושל עיר הנדחת פסול נקטם</row>
+		<row row_number="12" isdata="1">ראשו נפרצו עליו פסול נפרדו עליו כשר</row>
+		<row row_number="13" isdata="1">רבי יהודה אומר יאגדנו מלמעלה ציני</row>
+		<row row_number="14" isdata="1">הר הברזל כשירות לולב שיש בו שלשה</row>
+		<row row_number="15" isdata="1">טפחים כדי לנענע בו כשר<EndMishna/><StartGemara/>גמ' קא פסיק</row>
+		<row row_number="16" isdata="1">ותני לא שנא ביו"ט ראשון ולא שנא ביום</row>
+		<row row_number="17" isdata="1">טוב שני בשלמא יבש הדר בעינן וליכא</row>
+		<row row_number="18" isdata="1">אלא גזול בשלמא יום טוב ראשון דכתיב</row>
+		<row row_number="19" isdata="1">לכם משלכם אלא ביום טוב שני אמאי</row>
+		<row row_number="20" isdata="1">לא א"ר יוחנן משום רבי שמעון בן יוחי</row>
+</amud>
+</daf>
+</masechet>
+</root>

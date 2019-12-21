@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:12.904230</dateCreated>
+   <lastModified>2019-12-21 20:30:12.904230</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="2">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContGemara/>גמ' כל כינויי נדרים כנדרים מאי שנא גבי<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">נזיר דלא קתני להו לכולהו ומאי שנא גבי</row>
+		<row row_number="3" isdata="1">נדרים דקתני לכולהו משום דנדר ושבועה</row>
+		<row row_number="4" isdata="1">כתיבי גבי הדדי תני תרתין וכיון דתני תרתין</row>
+		<row row_number="5" isdata="1">תני לכולהו וליתני כינוי שבועות בתר נדרים</row>
+		<row row_number="6" isdata="1">איידי דתנא נדרים דמיתסר חפצא עליה תנא</row>
+		<row row_number="7" isdata="1">נמי חרמים דמיתסר חפצא עליה לאפוקי</row>
+		<row row_number="8" isdata="1">שבועה דקאסר נפשיה מן חפצא פתח בכינויין</row>
+		<row row_number="9" isdata="1">כל כנויי נדרים ומפרש ידות האומר לחבירו</row>
+		<row row_number="10" isdata="1">מודר אני ממך ותו ידות אינשי איירי בהון</row>
+		<row row_number="11" isdata="1">וחסורי מיחסרא והכי קתני כל כינויי נדרים</row>
+		<row row_number="12" isdata="1">כנדרים וידות נדרים כנדרים וליפרוש כינויין</row>
+		<row row_number="13" isdata="1">ברישא ההוא דסליק מיניה ההוא מפרש</row>
+		<row row_number="14" isdata="1">ברישא כדתנן במה מדליקין ובמה אין</row>
+		<row row_number="15" isdata="1">מדליקין אין מדליקין כו' במה טומנין ובמה</row>
+		<row row_number="16" isdata="1">אין טומנין אין טומנין כו' במה אשה יוצאה</row>
+		<row row_number="17" isdata="1">ובמה אינה יוצאה לא תצא אשה וכל היכא</row>
+		<row row_number="18" isdata="1">דפתח לא מפרש ברישא והתנן יש נוחלין</row>
+		<row row_number="19" isdata="1">ומנחילין נוחלין ולא מנחילין ואלו נוחלין</row>
+		<row row_number="20" isdata="1">ומנחילין יש מותרות לבעליהן ואסורות</row>
+		<row row_number="21" isdata="1">ליבמיהן מותרות ליבמיהן ואסורות לבעליהן</row>
+		<row row_number="22" isdata="1">ואלו מותרות לבעליהן ואסורות ליבמיהן</row>
+		<row row_number="23" isdata="1">יש טעונות שמן ולבונה שמן ולא לבונה ואלו</row>
+		<row row_number="24" isdata="1">טעונות שמן ולבונה יש טעונות הגשה ואין</row>
+		<row row_number="25" isdata="1">טעונות תנופה תנופה ולא הגשה ואלו טעונות</row>
+		<row row_number="26" isdata="1">הגשה יש בכור לנחלה ואין בכור לכהן בכור</row>
+		<row row_number="27" isdata="1">לכהן ואין בכור לנחלה ואיזהו בכור לנחלה ואין</row>
+		<row row_number="28" isdata="1">בכור לכהן הלין משום דאוושו ליה מפרש ההוא</row>
+		<row row_number="29" isdata="1">דפתח ברישא והא במה בהמה יוצאה ובמה</row>
+		<row row_number="30" isdata="1">אינה יוצאה דלא אוושא וקתני יוצא גמל</row>
+</amud>
+</daf>
+</masechet>
+</root>

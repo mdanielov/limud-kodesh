@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:01.522416</dateCreated>
+   <lastModified>2019-12-21 20:29:01.522416</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="88">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוציא יין"/><ContGemara/>אנשי טבריא כמי שלא יבטל ממלאכתו דמי</row>
+		<row row_number="2" isdata="1">ומסתפגין באלונטית מאי היא דתניא</row>
+		<row row_number="3" isdata="1">מסתפג אדם באלונטית ומניחה בחלון ולא</row>
+		<row row_number="4" isdata="1">ימסרנה לאוליירין מפני שחשודין על אותו</row>
+		<row row_number="5" isdata="1">דבר ר"ש אומר אף מביאה בידו לתוך ביתו</row>
+		<row row_number="6" isdata="1">אמר רבה בר רב הונא לא שנו אלא למלאות</row>
+		<row row_number="7" isdata="1">אבל לשפוך אסור מתקיף לה רב שיזבי</row>
+		<row row_number="8" isdata="1">וכי מה בין זה לעוקה הני תיימי והני לא</row>
+		<row row_number="9" isdata="1">תיימי איכא דאמרי אמר רבה בר רב הונא</row>
+		<row row_number="10" isdata="1">לא תימא למלאות הוא דשרי לשפוך אסור</row>
+		<row row_number="11" isdata="1">אלא לשפוך נמי שרי אמר רב שיזבי פשיטא</row>
+		<row row_number="12" isdata="1">היינו עוקה מהו דתימא הני תיימי והני לא</row>
+		<row row_number="13" isdata="1">תיימי קמ"ל וכן שתי גזוזטראות זו וכו'</row>
+		<row row_number="14" isdata="1">אמר רב הונא אמר רב לא שנו אלא בסמוכה</row>
+		<row row_number="15" isdata="1">אבל במופלגת עליונה מותרת ורב לטעמיה</row>
+		<row row_number="16" isdata="1">דאמר רב אין אדם אוסר על חבירו דרך</row>
+		<row row_number="17" isdata="1">אויר אמר רבה א"ר חייא ורב יוסף אמר רבי</row>
+		<row row_number="18" isdata="1">אושעיא יש גזל בשבת וחורבה מחזיר</row>
+		<row row_number="19" isdata="1">לבעלים הא גופא קשיא אמרת יש גזל בשבת</row>
+		<row row_number="20" isdata="1">אלמא קניא וחורבה מחזיר לבעלים אלמא</row>
+		<row row_number="21" isdata="1">לא קניא הכי קאמר יש דין גזל בשבת כיצד</row>
+		<row row_number="22" isdata="1">דחורבה מחזיר לבעלים אמר רבה ומותבינן</row>
+		<row row_number="23" isdata="1">אשמעתין וכן שתי גזוזטראות זו למעלה מזו</row>
+		<row row_number="24" isdata="1">וכו' ואי אמרת יש דין גזל בשבת אמאי</row>
+		<row row_number="25" isdata="1">אסורות אמר רב ששת הכא במאי עסקינן</row>
+		<row row_number="26" isdata="1">כגון שעשו מחיצה בשותפות אי הכי כי</row>
+		<row row_number="27" isdata="1">עשו לתחתונה נמי כיון דעשו לתחתונה גלוי</row>
+		<row row_number="28" isdata="1">גלי דעתה דאנא בהדך לא ניחא לי</row>
+		<row row_number="29" isdata="1"><EndGemara/><StartMishna/>מתני' חצר שהיא פחותה מארבע אמות</row>
+		<row row_number="30" isdata="1">אין שופכין בתוכה מים בשבת אא"כ עשו לה עוקה מחזקת סאתים מן הנקב</row>
+		<row row_number="31" isdata="1">ולמטה בין מבחוץ בין מבפנים אלא שמבחוץ צריך לקמור מבפנים אין צריך</row>
+		<row row_number="32" isdata="1">לקמור ר"א בן יעקב אומר ביב שהוא קמור ארבע אמות ברה"ר שופכים לתוכו</row>
+		<row row_number="33" isdata="1">מים בשבת וחכ"א אפילו גג או חצר מאה אמה לא ישפוך על פי הביב אבל</row>
+		<row row_number="34" isdata="1">שופך הוא לגג והמים יורדין לביב החצר והאכסדרה מצטרפין לארבע אמות</row>
+		<row row_number="35" isdata="1">וכן שתי דיוטאות זו כנגד זו מקצתן עשו עוקה ומקצתן לא עשו עוקה את</row>
+		<row row_number="36" isdata="1">שעשו עוקה מותרין את שלא עשו עוקה אסורין<EndMishna/><StartGemara/>גמ' מ"ט אמר רבה מפני</row>
+		<row row_number="37" isdata="1">שאדם עשוי להסתפק סאתים מים בכל יום בארבע אמות אדם רוצה לזלפן</row>
+</amud>
+</daf>
+</masechet>
+</root>

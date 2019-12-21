@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:23.340733</dateCreated>
+   <lastModified>2019-12-21 20:31:23.340733</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="5">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "דיני ממונות"/><ContGemara/>ואם היה מומחה לרבים דן אפילו יחידי</row>
+		<row row_number="2" isdata="1">אמר רב נחמן כגון אנא דן דיני ממונות ביחידי</row>
+		<row row_number="3" isdata="1">וכן אמר ר' חייא כגון אנא דן דיני ממונות</row>
+		<row row_number="4" isdata="1">ביחידי איבעיא להו כגון אנא דגמירנא</row>
+		<row row_number="5" isdata="1">וסבירנא ונקיטנא רשותא אבל לא נקיט</row>
+		<row row_number="6" isdata="1">רשותא דיניה לא דינא או דילמא אע"ג דלא</row>
+		<row row_number="7" isdata="1">נקיט רשותא דיניה דינא ת"ש דמר זוטרא</row>
+		<row row_number="8" isdata="1">בריה דר"נ דן דינא וטעה אתא לקמיה דרב</row>
+		<row row_number="9" isdata="1">יוסף א"ל אם קיבלוך עלייהו לא תשלם ואי</row>
+		<row row_number="10" isdata="1">לא זיל שלים ש"מ כי לא נקיט רשותא דיניה</row>
+		<row row_number="11" isdata="1">דינא ש"מ אמר רב האי מאן דבעי למידן</row>
+		<row row_number="12" isdata="1">דינא ואי טעה מיבעי למיפטרא לישקול</row>
+		<row row_number="13" isdata="1">רשותא מבי ריש גלותא וכן אמר שמואל</row>
+		<row row_number="14" isdata="1">לשקול רשותא מבי ריש גלותא פשיטא</row>
+		<row row_number="15" isdata="1">מהכא להכא ומהתם להתם (מהני) ומהכא</row>
+		<row row_number="16" isdata="1">להתם (נמי) מהני דהכא שבט והתם מחוקק</row>
+		<row row_number="17" isdata="1">כדתניא לא יסור שבט מיהודה אלו ראשי</row>
+		<row row_number="18" isdata="1">גליות שבבבל שרודין את ישראל בשבט</row>
+		<row row_number="19" isdata="1">ומחוקק מבין רגליו אלו בני בניו של הלל</row>
+		<row row_number="20" isdata="1">שמלמדין תורה ברבים מהתם להכא מאי</row>
+		<row row_number="21" isdata="1">ת"ש דרבה בר חנה דן דינא וטעה אתא</row>
+		<row row_number="22" isdata="1">לקמיה דרבי חייא א"ל אי קיבלוך עלייהו לא</row>
+		<row row_number="23" isdata="1">תשלם ואי לא זיל שלים והא רבה בר חנה</row>
+		<row row_number="24" isdata="1">רשותא הוה נקיט ש"מ מהתם להכא לא</row>
+		<row row_number="25" isdata="1">מהני ש"מ ולא מהני והא רבה בר רב הונא כי</row>
+		<row row_number="26" isdata="1">הוה מינצי בהדי דבי ריש גלותא אמר לאו</row>
+		<row row_number="27" isdata="1">מינייכו נקיטנא רשותא נקיטנא רשותא</row>
+		<row row_number="28" isdata="1">מאבא מרי ואבא מרי מרב ורב מר' חייא</row>
+		<row row_number="29" isdata="1">ור' חייא מרבי במילתא דעלמא הוא דאוקים</row>
+		<row row_number="30" isdata="1">להו וכי מאחר דלא מהני רבה בר חנה</row>
+		<row row_number="31" isdata="1">רשותא דנקט למה לי לעיירות העומדים</row>
+		<row row_number="32" isdata="1">על הגבולין מאי רשותא כי הוה נחית</row>
+		<row row_number="33" isdata="1">רבה בר חנה לבבל אמר ליה רבי חייא</row>
+		<row row_number="34" isdata="1">לרבי בן אחי יורד לבבל יורה יורה ידין</row>
+		<row row_number="35" isdata="1">ידין יתיר בכורות יתיר כי הוה נחית רב</row>
+		<row row_number="36" isdata="1">לבבל אמר ליה רבי חייא לר' בן אחותי</row>
+		<row row_number="37" isdata="1">יורד לבבל יורה יורה ידין ידין יתיר בכורות</row>
+		<row row_number="38" isdata="1">אל יתיר מ"ש למר דקא קרי בן אחי ומ"ש</row>
+		<row row_number="39" isdata="1">למר דקא קרי בן אחותי וכי תימא הכי הוה מעשה והאמר מר איבו וחנה ושילא</row>
+		<row row_number="40" isdata="1">ומרתא ורבי חייא כולהו בני אבא בר אחא כרסלא מכפרי הוו רב בר אחוה</row>
+		<row row_number="41" isdata="1">דהוה בר אחתיה רבה בר חנה בר אחוה דלאו בר אחתיה ואי בעית אימא</row>
+</amud>
+</daf>
+</masechet>
+</root>

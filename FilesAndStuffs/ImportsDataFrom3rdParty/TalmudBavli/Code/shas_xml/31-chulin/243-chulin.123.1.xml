@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:26.143922</dateCreated>
+   <lastModified>2019-12-21 20:32:26.143922</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="123">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>איבו אמרה וארבעי אמר בה וחדא מינייהו</row>
+		<row row_number="2" isdata="1">עבודה א"ר יוסי בר' חנינא לא שנו אלא</row>
+		<row row_number="3" isdata="1">לפניו אבל לאחריו אפילו מיל אחד אינו</row>
+		<row row_number="4" isdata="1">חוזר רב אחא בר יעקב אמר ומינה מיל</row>
+		<row row_number="5" isdata="1">הוא דאינו חוזר הא פחות ממיל חוזר</row>
+		<row row_number="6" isdata="1">ת"ר ליגיון העובר ממקום למקום ונכנס</row>
+		<row row_number="7" isdata="1">לבית הבית טמא שאין לך כל ליגיון</row>
+		<row row_number="8" isdata="1">וליגיון שאין לו כמה קרקפלין ואל תתמה</row>
+		<row row_number="9" isdata="1">שהרי קרקפלו של ר' ישמעאל מונח בראש</row>
+		<row row_number="10" isdata="1">מלכיםמתני' המפשיט בבהמה ובחיה</row>
+		<row row_number="11" isdata="1">בטהורה ובטמאה בדקה ובגסה לשטיח</row>
+		<row row_number="12" isdata="1">כדי אחיזה ולחמת עד שיפשיט את החזה</row>
+		<row row_number="13" isdata="1">המרגיל כולו חבור לטומאה ליטמא ולטמא</row>
+		<row row_number="14" isdata="1">עור שעל הצואר רבי יוחנן בן נורי אומר</row>
+		<row row_number="15" isdata="1">אינו חבור וחכ"א חבור עד שיפשיט את</row>
+		<row row_number="16" isdata="1">כולו<EndMishna/><StartGemara/>גמ' מכאן ואילך מאי אמר רב</row>
+		<row row_number="17" isdata="1">טהור המופשט רבי אסי אמר טפח הסמוך</row>
+		<row row_number="18" isdata="1">לבשר טמא מיתיבי המפשיט כשיעור</row>
+		<row row_number="19" isdata="1">הזה מכאן ואילך הנוגע במופשט טהור</row>
+		<row row_number="20" isdata="1">מאי לאו אפי' בטפח הסמוך לבשר לא</row>
+		<row row_number="21" isdata="1">לבד מטפח הסמוך לבשר תא שמע בעור</row>
+		<row row_number="22" isdata="1">שכנגד הבשר טמא עור שכנגד הבשר</row>
+		<row row_number="23" isdata="1">טמא הא בטפח הסמוך לבשר טהור תנא</row>
+		<row row_number="24" isdata="1">כל טפח הסמוך לבשר עור שכנגד הבשר</row>
+		<row row_number="25" isdata="1">קרי ליה ת"ש המפשיט בבהמה ובחיה</row>
+		<row row_number="26" isdata="1">בטהורה ובטמאה בדקה ובגסה לשטיח</row>
+		<row row_number="27" isdata="1">כדי אחיזה וטפח הסמוך לבשר טהור הכא</row>
+		<row row_number="28" isdata="1">במאי עסקינן בטפח ראשון תנא כמה כדי</row>
+		<row row_number="29" isdata="1">אחיזה טפח והא תניא טפחיים אמר אביי</row>
+		<row row_number="30" isdata="1">טפח כפול תניא נמי הכי כמה כדי אחיזה</row>
+		<row row_number="31" isdata="1">טפח כפול תנן התם טלית שהתחיל</row>
+		<row row_number="32" isdata="1">בה לקורעה כיון שנקרע רובה שוב אינו</row>
+		<row row_number="33" isdata="1">חבור וטהורה אמר רב נחמן אמר רבה</row>
+		<row row_number="34" isdata="1">בר אבוה לא שנו אלא בטלית טבולת</row>
+		<row row_number="35" isdata="1">יום דמיגו דלא חס עלה ואטבלה לא חייס</row>
+		<row row_number="36" isdata="1">עלה וקרע לה רובה אבל טלית שאינה</row>
+		<row row_number="37" isdata="1">טבולת יום לא גזרה דלמא לא אתי למיקרעה</row>
+		<row row_number="38" isdata="1">רובה אמר רבה שתי תשובות בדבר חדא</row>
+		<row row_number="39" isdata="1">שמא יאמרו טבילה בת יומא עולה ועוד</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:56.412639</dateCreated>
+   <lastModified>2019-12-21 20:30:56.412639</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="20">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שנים אוחזין"/><ContGemara/>שמע מינה איתא לדשמואל דאמר שמואל</row>
+		<row row_number="2" isdata="1">המוכר שטר חוב לחבירו וחזר ומחלו מחול</row>
+		<row row_number="3" isdata="1">ואפי' יורש מוחל אביי אמר אפילו תימא</row>
+		<row row_number="4" isdata="1">ליתיה לדשמואל הכא במאי עסקינן</row>
+		<row row_number="5" isdata="1">בששטר כתובה יוצא מתחת ידה ורבא</row>
+		<row row_number="6" isdata="1">אמר אי משום שטר כתובה חיישינן לשתי</row>
+		<row row_number="7" isdata="1">כתובות ואביי אמר חדא לשתי כתובות לא</row>
+		<row row_number="8" isdata="1">חיישינן ועוד שובר בזמנו טריף אביי</row>
+		<row row_number="9" isdata="1">לטעמיה דאמר עדיו בחתומיו זכין לו</row>
+		<row row_number="10" isdata="1"><EndGemara/><StartMishna/>מתני' מצא איגרות שום ואיגרות מזון</row>
+		<row row_number="11" isdata="1">שטרי חליצה ומיאונין ושטרי בירורין וכל</row>
+		<row row_number="12" isdata="1">מעשה ב"ד הרי זה יחזיר מצא בחפיסה</row>
+		<row row_number="13" isdata="1">או בדלוסקמא תכריך של שטרות או</row>
+		<row row_number="14" isdata="1">אגודה של שטרות הרי זה יחזיר וכמה</row>
+		<row row_number="15" isdata="1">אגודה של שטרות שלשה קשורין זה בזה</row>
+		<row row_number="16" isdata="1">רשב"ג אומר אחד הלוה משלשה יחזיר</row>
+		<row row_number="17" isdata="1">ללוה שלשה הלוין מן האחד יחזיר למלוה</row>
+		<row row_number="18" isdata="1">מצא שטר בין שטרותיו ואינו יודע מה</row>
+		<row row_number="19" isdata="1">טיבו יהא מונח עד שיבא אליהו אם יש</row>
+		<row row_number="20" isdata="1">עמהן סמפונות יעשה מה שבסמפונות</row>
+		<row row_number="21" isdata="1"><EndMishna/><StartGemara/>גמ' מאי שטרי ברורין הכא תרגמו שטרי</row>
+		<row row_number="22" isdata="1">טענתא רבי ירמיה אמר זה בורר לו אחד</row>
+		<row row_number="23" isdata="1">וזה בורר לו אחד וכל מעשה ב"ד הרי</row>
+		<row row_number="24" isdata="1">זה יחזיר ההוא גיטא דאשתכח בי דינא</row>
+		<row row_number="25" isdata="1">דרב הונא דהוה כתיב ביה בשוירי</row>
+		<row row_number="26" isdata="1">מתא דעל רכיס נהרא אמר רב הונא</row>
+</amud>
+</daf>
+</masechet>
+</root>

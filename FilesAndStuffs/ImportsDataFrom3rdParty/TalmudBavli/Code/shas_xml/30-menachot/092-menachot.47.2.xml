@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:05.378920</dateCreated>
+   <lastModified>2019-12-21 20:32:05.378920</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="47">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "התכלת"/><ContGemara/>דתנן אימורי קדשים קלים שיצאו לפני זריקת</row>
+		<row row_number="2" isdata="1">דמים ר' אליעזר אומר אין מועלין בהן ואין</row>
+		<row row_number="3" isdata="1">חייבין עליהן משום פיגול ונותר וטמא ר"ע</row>
+		<row row_number="4" isdata="1">אומר מועלין בהן וחייבין עליהן משום פיגול</row>
+		<row row_number="5" isdata="1">ונותר וטמא מאי מדזריקת פיגול קבעה ללחם</row>
+		<row row_number="6" isdata="1">בפיגול ביוצא כבשר זריקה שלא לשמה נמי</row>
+		<row row_number="7" isdata="1">שריא ליה ללחם או דלמא לחומרא אמרינן</row>
+		<row row_number="8" isdata="1">לקולא לא אמרי' מתקיף לה רב פפא</row>
+		<row row_number="9" isdata="1">וממאי דכי איתנהו אבראי פליגי דילמא</row>
+		<row row_number="10" isdata="1">בדאיתנהו אבראי דכ"ע לא פליגי דאין זריקה</row>
+		<row row_number="11" isdata="1">מועלת ליוצא ובהדר עיילינהו פליגי דרבי</row>
+		<row row_number="12" isdata="1">אליעזר סבר לה כרבי דאמר שחיטה מקדשא</row>
+		<row row_number="13" isdata="1">ואיפסלו להו ביוצא ור"ע כר' אלעזר בר' שמעון</row>
+		<row row_number="14" isdata="1">דאמר שחיטה לא מקדשא ולא מיפסלי ביוצא</row>
+		<row row_number="15" isdata="1">האי מאי אי אמרת בשלמא ר"ע כרבי ס"ל</row>
+		<row row_number="16" isdata="1">דאמר שחיטה מקדשא להו היינו דקאמר</row>
+		<row row_number="17" isdata="1">ר' עקיבא דקדשי להו בשחיטה ואתיא זריקה</row>
+		<row row_number="18" isdata="1">קבעה להו בפיגול אלא אי אמרת כר' אלעזר</row>
+		<row row_number="19" isdata="1">בר' שמעון ס"ל דאמר זביחה לא מקדשא</row>
+		<row row_number="20" isdata="1">זריקת פיגול מי מקדשא והאמר רב גידל</row>
+		<row row_number="21" isdata="1">אמר רב זריקת פיגול אינה מביאה לידי</row>
+		<row row_number="22" isdata="1">מעיל' ואינה מוציאה מידי מעיל' אינה מביאה</row>
+		<row row_number="23" isdata="1">לידי מעילה באימורי קדשים קלים ואינה</row>
+		<row row_number="24" isdata="1">מוציאה מידי מעילה בבשר קדשי קדשים לאו</row>
+		<row row_number="25" isdata="1">איתותב דרב גידל אמר רב בעא מיני' ר' ירמי'</row>
+		<row row_number="26" isdata="1">מר' זירא כבשי עצרת ששחטן לשמן ואבד</row>
+		<row row_number="27" isdata="1">הלחם מהו שיזרוק דמן שלא לשמן להתיר</row>
+		<row row_number="28" isdata="1">בשר באכילה א"ל יש לך דבר שאינו כשר</row>
+		<row row_number="29" isdata="1">לשמו וכשר שלא לשמו ולא והרי פסח קודם</row>
+		<row row_number="30" isdata="1">חצות דאינו כשר לשמו וכשר שלא לשמו</row>
+		<row row_number="31" isdata="1">הכי קא אמינא יש לך דבר שנראה לשמו</row>
+		<row row_number="32" isdata="1">ונדחה מלשמו ואינו כשר לשמו וכשר שלא</row>
+		<row row_number="33" isdata="1">לשמו ולא והרי פסח אחר זמנו בשאר</row>
+		<row row_number="34" isdata="1">ימות השנה (קודם חצות) הכי קאמינא</row>
+		<row row_number="35" isdata="1">יש לך דבר שנראה לשמו ונשחט לשמו</row>
+		<row row_number="36" isdata="1">ונדחה מלשמו ואינו כשר לשמו וכשר</row>
+		<row row_number="37" isdata="1">שלא לשמו ולא והרי תודה שאני תודה</row>
+		<row row_number="38" isdata="1">דרחמנא קרייה שלמים ת"ר שחט שני</row>
+		<row row_number="39" isdata="1">כבשים על ארבע חלות מושך שתים מהן ומניפן</row>
+</amud>
+</daf>
+</masechet>
+</root>

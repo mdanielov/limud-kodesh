@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:14.751236</dateCreated>
+   <lastModified>2019-12-21 20:31:14.752200</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="102">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר פירות"/><ContGemara/>מצא שלשה אם יש ביניהן מארבע עד</row>
+		<row row_number="2" isdata="1">שמונה הרי זו שכונת קברות ובודק ממנו</row>
+		<row row_number="3" isdata="1">ולהלן עשרים אמה מצא אחד בסוף עשרים</row>
+		<row row_number="4" isdata="1">אמה בודק ממנו ולהלן כ' אמה שרגלים</row>
+		<row row_number="5" isdata="1">לדבר שאילו מתחלה מצאו נוטלו ואת</row>
+		<row row_number="6" isdata="1">תפוסתו אמר מר מארבע ועד שמונה מני</row>
+		<row row_number="7" isdata="1">אי רבנן הא אמרי ד' אמות על שש אי ר'</row>
+		<row row_number="8" isdata="1">שמעון הא אמר שש על שמונה לעולם ר'</row>
+		<row row_number="9" isdata="1">שמעון היא והאי תנא הוא דתניא מצאן</row>
+		<row row_number="10" isdata="1">רצופין ואין ביניהן מד' אמות עד ח' יש להן</row>
+		<row row_number="11" isdata="1">תפוסה ואין להן שכונת קברות רבי שמעון</row>
+		<row row_number="12" isdata="1">בן יהודה אומר משום ר' שמעון רואין את</row>
+		<row row_number="13" isdata="1">האמצעיים כאילו אינן והשאר מצטרפין מד'</row>
+		<row row_number="14" isdata="1">אמות ועד ח' במאי אוקימתא כר' שמעון</row>
+		<row row_number="15" isdata="1">אימא סיפא בודק הימנו ולהלן עשרים אמה</row>
+		<row row_number="16" isdata="1">מני אי ר"ש עשרים ותרתין הויין אי רבנן תמני</row>
+		<row row_number="17" isdata="1">סרי הויין לעולם רבנן היא וכגון דבדק</row>
+		<row row_number="18" isdata="1">באלכסונא ומדהא באלכסונא הא נמי</row>
+		<row row_number="19" isdata="1">באלכסונא עשרים ותרתי הויין חדא</row>
+		<row row_number="20" isdata="1">באלכסונא אמרינן תרי באלכסון לא אמרינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

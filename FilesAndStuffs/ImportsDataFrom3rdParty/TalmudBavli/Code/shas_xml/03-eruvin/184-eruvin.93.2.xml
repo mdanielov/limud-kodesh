@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:02.179415</dateCreated>
+   <lastModified>2019-12-21 20:29:02.179415</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="93">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>גידוד חמשה ומחיצה חמשה אין מצטרפין</row>
+		<row row_number="2" isdata="1">עד שיהא או כולו בגידוד או כולו במחיצה</row>
+		<row row_number="3" isdata="1">מיתיבי שתי חצירות זו למעלה מזו ועליונה</row>
+		<row row_number="4" isdata="1">גבוהה מן התחתונה עשרה טפחים או שיש</row>
+		<row row_number="5" isdata="1">בה גידוד חמשה ומחיצה חמשה מערבין</row>
+		<row row_number="6" isdata="1">שנים ואין מערבין אחד פחות מכאן מערבין</row>
+		<row row_number="7" isdata="1">אחד ואין מערבין שנים אמר (רב) מודה רב</row>
+		<row row_number="8" isdata="1">חסדא בתחתונה הואיל ורואה פני עשרה</row>
+		<row row_number="9" isdata="1">אי הכי תחתונה תערב שנים ולא תערב</row>
+		<row row_number="10" isdata="1">אחד עליונה לא תערב לא אחד ולא שנים</row>
+		<row row_number="11" isdata="1">אמר רבה בר עולא כגון שהיתה עליונה</row>
+		<row row_number="12" isdata="1">מגופפת עד עשר אמות אי הכי אימא סיפא</row>
+		<row row_number="13" isdata="1">פחות מכאן מערבין אחד ואין מערבין שנים</row>
+		<row row_number="14" isdata="1">אי בעיא חד תערב אי בעיא תרי תערב אמר</row>
+		<row row_number="15" isdata="1">רבה בריה דרבא כגון שנפרצה התחתונה</row>
+		<row row_number="16" isdata="1">במלואה לעליונה אי הכי תחתונה חד תערב</row>
+		<row row_number="17" isdata="1">תרי לא תערב עליונה אי בעיא תרי תערב</row>
+		<row row_number="18" isdata="1">אי בעיא חד תערב אין הכי נמי וכי קתני</row>
+		<row row_number="19" isdata="1">פחות מכאן מערבין אחד ואין מערבין שנים</row>
+		<row row_number="20" isdata="1">אתחתונה דרש מרימר גידוד חמשה ומחיצה</row>
+		<row row_number="21" isdata="1">חמשה מצטרפין אשכחיה רבינא לרב אחא</row>
+		<row row_number="22" isdata="1">בריה דרבא אמר ליה תני מר מידי במחיצה</row>
+		<row row_number="23" isdata="1">אמר ליה לא והלכתא גידוד חמשה ומחיצה</row>
+		<row row_number="24" isdata="1">חמשה מצטרפין בעי רב הושעיא דיורין</row>
+		<row row_number="25" isdata="1">הבאין בשבת מהו שיאסרו אמר רב חסדא</row>
+		<row row_number="26" isdata="1">תא שמע חצר גדולה שנפרצה לקטנה</row>
+		<row row_number="27" isdata="1">הגדולה מותרת והקטנה אסורה מפני שהיא</row>
+		<row row_number="28" isdata="1">כפתחה של גדולה אמר רבה אימר מבעוד</row>
+		<row row_number="29" isdata="1">יום נפרצה אמר ליה אביי לא תימא מר</row>
+		<row row_number="30" isdata="1">אימר אלא ודאי מבעוד יום נפרצה דהא</row>
+		<row row_number="31" isdata="1">מר הוא דאמר בעי מיניה מרב הונא ובעי</row>
+		<row row_number="32" isdata="1">מיניה מרב יהודה עירב דרך הפתח ונסתם</row>
+		<row row_number="33" isdata="1">הפתח עירב דרך חלון ונסתם החלון מהו</row>
+		<row row_number="34" isdata="1">ואמר לי שבת כיון שהותרה הותרה אתמר</row>
+		<row row_number="35" isdata="1">כותל שבין שתי חצירות שנפל רב אמר</row>
+		<row row_number="36" isdata="1">אין מטלטלין בו אלא בד"א ושמואל אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:16.010492</dateCreated>
+   <lastModified>2019-12-21 20:30:16.010492</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="42">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אין בין המודר"/><ContMishna/>מתני' המודר הנאה מחבירו לפני שביעית<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">אינו יורד לתוך שדהו ואינו אוכל מן הנוטות</row>
+		<row row_number="3" isdata="1">ובשביעית אינו יורד לתוך שדהו אבל אוכל</row>
+		<row row_number="4" isdata="1">הוא מן הנטיעות הנוטות נדר הימנו</row>
+		<row row_number="5" isdata="1">מאכל לפני שביעית יורד לתוך שדהו</row>
+		<row row_number="6" isdata="1">ואינו אוכל מן הפירות ובשביעית יורד ואוכל</row>
+		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' רב ושמואל דאמרי תרוייהו נכסים</row>
+		<row row_number="8" isdata="1">אלו עליך לפני שביעית אין יורד לתוך שדהו</row>
+		<row row_number="9" isdata="1">ואינו אוכל מן הנוטות אע"פ שהגיע שביעית</row>
+		<row row_number="10" isdata="1">ואם בשביעית נדר אין יורד לתוך שדהו</row>
+		<row row_number="11" isdata="1">אבל אוכל מן הנוטות ור' יוחנן וריש לקיש</row>
+		<row row_number="12" isdata="1">דאמרי תרוייהו נכסי עליך לפני שביעית אין</row>
+		<row row_number="13" isdata="1">יורד לתוך שדהו ואין אוכל מן הנוטות הגיע</row>
+		<row row_number="14" isdata="1">שביעית אינו יורד לתוך שדהו אבל אוכל</row>
+		<row row_number="15" isdata="1">הוא את הנוטות לימא בהא קמיפלגי דרב</row>
+		<row row_number="16" isdata="1">ושמואל סברי אדם אוסר דבר שברשותו</row>
+		<row row_number="17" isdata="1">אפילו לכשיצא מרשותו ורבי יוחנן ור"ל</row>
+		<row row_number="18" isdata="1">סברי אין אדם אוסר דבר שברשותו לכשיצא</row>
+		<row row_number="19" isdata="1">מרשותו ותיסברא מי איכא למ"ד אין אדם</row>
+		<row row_number="20" isdata="1">אוסר דבר שברשותו לכשיצא מרשותו</row>
+		<row row_number="21" isdata="1">א"כ ניפלגי בנכסים אלו וכ"ש בנכסי</row>
+		<row row_number="22" isdata="1">ותו הא תנן דאדם אוסר דבר שברשותו</row>
+		<row row_number="23" isdata="1">לכשיצא מרשותו דתנן האומר לבנו קונם</row>
+		<row row_number="24" isdata="1">שאתה נהנה לי מת יירשנו בחייו ובמותו</row>
+</amud>
+</daf>
+</masechet>
+</root>

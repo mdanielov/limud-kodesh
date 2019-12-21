@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:20.414723</dateCreated>
+   <lastModified>2019-12-21 20:31:20.414723</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="152">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שמת"/><ContGemara/>איתמר מתנת שכיב מרע שכתוב בה קנין</row>
+		<row row_number="2" isdata="1">בי רב משמיה דרב אמרי ארכביה אתרי</row>
+		<row row_number="3" isdata="1">ריכשי ושמואל אמר לא ידענא מאי אדון</row>
+		<row row_number="4" isdata="1">בה בי רב משמיה דרב אמרי ארכביה אתרי</row>
+		<row row_number="5" isdata="1">ריכשי הרי היא כמתנת בריא הרי היא</row>
+		<row row_number="6" isdata="1">כמתנת שכיב מרע הרי היא כמתנת בריא</row>
+		<row row_number="7" isdata="1">שאם עמד אינו חוזר הרי היא כמתנת שכיב</row>
+		<row row_number="8" isdata="1">מרע שאם אמר הלואתו לפלוני הלואתו</row>
+		<row row_number="9" isdata="1">לפלוני ושמואל אמר לא ידענא מאי אדון</row>
+		<row row_number="10" isdata="1">בה שמא לא גמר להקנותו אלא בשטר ואין</row>
+		<row row_number="11" isdata="1">שטר לאחר מיתה ורמי דרב אדרב ודשמואל</row>
+		<row row_number="12" isdata="1">אדשמואל דשלח רבין משמיה דרבי אבהו</row>
+		<row row_number="13" isdata="1">הוו ידעי ששלח ר' אלעזר לגולה משום</row>
+		<row row_number="14" isdata="1">רבינו שכיב מרע שאמר כתבו ותנו מנה</row>
+		<row row_number="15" isdata="1">לפלוני ומת אין כותבין ונותנין שמא לא</row>
+		<row row_number="16" isdata="1">גמר להקנותו אלא בשטר ואין שטר לאחר</row>
+		<row row_number="17" isdata="1">מיתה ואמר רב יהודה אמר שמואל הלכתא</row>
+		<row row_number="18" isdata="1">כותבין ונותנין קשיא דרב אדרב קשיא</row>
+		<row row_number="19" isdata="1">דשמואל אדשמואל דרב אדרב לא קשיא הא</row>
+		<row row_number="20" isdata="1">דקנו מיניה הא דלא קנו מיניה דשמואל</row>
+		<row row_number="21" isdata="1">אדשמואל לא קשיא במיפה את כחו יתיב</row>
+		<row row_number="22" isdata="1">רב נחמן בר יצחק אחוריה דרבא ויתיב</row>
+		<row row_number="23" isdata="1">רבא קמיה דרב נחמן קא בעי מיניה מי אמר</row>
+		<row row_number="24" isdata="1">שמואל שמא לא גמר להקנותו אלא בשטר</row>
+		<row row_number="25" isdata="1">ואין שטר לאחר מיתה והא אמר רב יהודה</row>
+		<row row_number="26" isdata="1">אמר שמואל שכיב מרע שכתב כל נכסיו</row>
+		<row row_number="27" isdata="1">לאחרים אף על פי שקנו מידו עמד חוזר</row>
+</amud>
+</daf>
+</masechet>
+</root>

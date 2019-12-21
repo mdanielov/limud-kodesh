@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:00.239476</dateCreated>
+   <lastModified>2019-12-21 20:30:00.239476</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="91">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה רבה"/><ContGemara/>פשיטא בת לוי מן המעשר איצטריכא ליה</row>
+		<row row_number="2" isdata="1">ובת לוי מן המעשר מי מיפסלא בזנות והתני'</row>
+		<row row_number="3" isdata="1">לויה שנשבית או שנבעלה בעילת זנות</row>
+		<row row_number="4" isdata="1">נותנין לה מעשר ואוכלת אמר רב ששת</row>
+		<row row_number="5" isdata="1">קנסא בת כהן מן התרומה אפי' בתרומה</row>
+		<row row_number="6" isdata="1">דרבנן ואין יורשיו של זה ויורשיו של זה</row>
+		<row row_number="7" isdata="1">יורשין כתובתה וכו' כתובה מאי עבידתה</row>
+		<row row_number="8" isdata="1">אמר רב פפא כתובת בנין דיכרין פשיטא</row>
+		<row row_number="9" isdata="1">מהו דתימא לדידה דעבדא איסורא קנסוה</row>
+		<row row_number="10" isdata="1">רבנן לזרעה לא קנסו רבנן קמ"ל אחיו של</row>
+		<row row_number="11" isdata="1">זה ואחיו של זה חולצין ולא מייבמין אחיו</row>
+		<row row_number="12" isdata="1">של ראשון חולץ מדאורייתא ולא מייבם</row>
+		<row row_number="13" isdata="1">מדרבנן אחיו של שני חולץ מדרבנן ולא</row>
+		<row row_number="14" isdata="1">מייבם לא מדאורייתא ולא מדרבנן ר' יוסי</row>
+		<row row_number="15" isdata="1">אומר כתובתה על נכסי בעלה וכו' אמר רב</row>
+		<row row_number="16" isdata="1">הונא בתראי מודו לקמאי קמאי לא מודו</row>
+		<row row_number="17" isdata="1">לבתראי ר' שמעון מודי ליה לר' אלעזר דמה</row>
+		<row row_number="18" isdata="1">ביאה דעיקר איסורא לא קניס וכ"ש מציאתה</row>
+		<row row_number="19" isdata="1">ומעשה ידיה דממונא הוא ור' אלעזר לא מודי</row>
+		<row row_number="20" isdata="1">ליה לר' שמעון מציאתה ומעשה ידיה דממונא</row>
+		<row row_number="21" isdata="1">הוא לא קניס אבל ביאה דאיסורא הוא קניס</row>
+		<row row_number="22" isdata="1">ותרוייהו מודו ליה לר' יוסי הני דיתבא תותיה</row>
+		<row row_number="23" isdata="1">לא קניס וכל שכן כתובה דלמשקל ומיפק</row>
+		<row row_number="24" isdata="1">קאי ורבי יוסי לא מודי להו כתובה דלמשקל</row>
+		<row row_number="25" isdata="1">ומיפק הוא דלא קניס אבל הני דיתבא תותיה</row>
+		<row row_number="26" isdata="1">קניס רבי יוחנן אמר קמאי מודו לבתראי</row>
+		<row row_number="27" isdata="1">בתראי לא מודו לקמאי ר' יוסי מודי ליה לר'</row>
+		<row row_number="28" isdata="1">אלעזר כתובה דמדידיה לדידה לא קניס וכ"ש</row>
+		<row row_number="29" isdata="1">מציאתה ומעשה ידיה דמדידה לדידיה ור'</row>
+		<row row_number="30" isdata="1">אלעזר לא מודי ליה מציאתה ומעשה ידיה</row>
+		<row row_number="31" isdata="1">הוא דמדידה לדידיה לא קניס אבל כתובה</row>
+		<row row_number="32" isdata="1">דמדידיה לדידה קניס ותרוייהו מודו ליה לר'</row>
+		<row row_number="33" isdata="1">שמעון ומה הני דמחיים לא קנסי ביאה</row>
+		<row row_number="34" isdata="1">דלאחר מיתה לא כ"ש ור' שמעון לא מודי</row>
+		<row row_number="35" isdata="1">להו ביאה הוא דלאחר מיתה לא קניס אבל</row>
+		<row row_number="36" isdata="1">הני דמחיים קניס נשאת שלא ברשות וכו'</row>
+		<row row_number="37" isdata="1">אמר רב הונא אמר רב הכי הלכתא א"ל</row>
+		<row row_number="38" isdata="1">רב נחמן גנבא גנובי למה לך אי סבירא לך</row>
+		<row row_number="39" isdata="1">כרבי שמעון אימא הלכה כרבי שמעון</row>
+		<row row_number="40" isdata="1">דשמעתיך כרבי שמעון קאזלה וכי תימא אי</row>
+		<row row_number="41" isdata="1">אמינא הלכה כרבי שמעון משמע אפילו</row>
+		<row row_number="42" isdata="1">בקמייתא אימא הלכה כר' שמעון באחרונה</row>
+		<row row_number="43" isdata="1">קשיא א"ר ששת אמינא כי ניים ושכיב רב</row>
+		<row row_number="44" isdata="1">אמרה להא שמעתתא הלכה מכלל דפליגי</row>
+		<row row_number="45" isdata="1">מאי הוה לה למיעבד מיאנס אנסה ועוד תניא</row>
+		<row row_number="46" isdata="1">כל עריות שבתורה אין צריכות הימנו גט חוץ מאשת איש שניסת על פי</row>
+		<row row_number="47" isdata="1">ב"ד על פי בית דין הוא דבעיא גיטא על פי עדים לא בעיא גיטא מני</row>
+		<row row_number="48" isdata="1">אילימא רבי שמעון על פי בית דין מי בעיא גט והתניא ר' שמעון</row>
+		<row row_number="49" isdata="1">אומר עשו ב"ד בהוראתן כזדון איש באשה על פי עדים כשגגת איש</row>
+		<row row_number="50" isdata="1">באשה אידי ואידי לא בעיא גט אלא לאו רבנן היא לעולם רבי שמעון היא</row>
+		<row row_number="51" isdata="1">ותריץ הכי ר"ש אומר עשו ב"ד בהוראתן ככוונת איש באשה [ובעיא גט] על</row>
+		<row row_number="52" isdata="1">פי עדים כשלא בכוונת איש באשה [ולא בעיא גט] רב אשי אמר לענין איסורא קתני והכי קאמר עשו ב"ד</row>
+		<row row_number="53" isdata="1">בהוראתן כזדון איש באשה ומיתסרא על בעלה על פי עדים כשגגת איש באשה ולא מיתסרא על בעלה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:40.905881</dateCreated>
+   <lastModified>2019-12-21 20:31:40.905881</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="33">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שבועת העדות"/><ContGemara/>שהוציא איש פלוני שם רע על בתי חייבין</row>
+		<row row_number="2" isdata="1">הודה מפי עצמו פטור הא מני ר' אלעזר בר'</row>
+		<row row_number="3" isdata="1">שמעון היא דאמר יבואו עדים ויעידו אימא</row>
+		<row row_number="4" isdata="1">סיפא הודה מעצמו פטור אתאן לרבנן כולה</row>
+		<row row_number="5" isdata="1">ר' אלעזר בר' שמעון היא וה"ק לא משכחת</row>
+		<row row_number="6" isdata="1">לה הודה מפי עצמו דפטור אלא היכא דליכא</row>
+		<row row_number="7" isdata="1">עדים כלל והודה מעצמומתני' משביע</row>
+		<row row_number="8" isdata="1">אני עליכם אם לא תבואו ותעידו שאני כהן</row>
+		<row row_number="9" isdata="1">שאני לוי שאיני בן גרושה שאיני בן חלוצה</row>
+		<row row_number="10" isdata="1">שאיש פלוני כהן שאיש פלוני לוי שאינו בן</row>
+		<row row_number="11" isdata="1">גרושה שאינו בן חלוצה שאנס איש פלוני</row>
+		<row row_number="12" isdata="1">את בתו ופתה את בתו ושחבל בי בני</row>
+		<row row_number="13" isdata="1">ושחבל בי חבירי שהדליק גדישי בשבת</row>
+		<row row_number="14" isdata="1">הרי אלו פטורין<EndMishna/><StartGemara/>גמ' טעמא דאיש פלוני</row>
+		<row row_number="15" isdata="1">כהן דאיש פלוני לוי הא מנה לפלוני ביד</row>
+		<row row_number="16" isdata="1">פלוני חייבין הא קתני סיפא עד שישמעו</row>
+		<row row_number="17" isdata="1">מפי התובע אמר שמואל בבא בהרשאה</row>
+		<row row_number="18" isdata="1">והאמרי נהרדעי לא כתבינן אורכתא</row>
+		<row row_number="19" isdata="1">אמטלטלי ה"מ היכא דכפריה אבל לא</row>
+		<row row_number="20" isdata="1">כפריה כתבינן ת"ר מנין שאין הכתוב מדבר</row>
+		<row row_number="21" isdata="1">אלא בתביעת ממון ר' אליעזר אומר נאמר</row>
+		<row row_number="22" isdata="1">כאן אואין ונאמר להלן אואין מה להלן</row>
+		<row row_number="23" isdata="1">אינו מדבר אלא בתביעת ממון אף כאן אינו</row>
+		<row row_number="24" isdata="1">מדבר אלא בתביעת ממון אואין דרוצח</row>
+		<row row_number="25" isdata="1">יוכיחו שהן אואין ומדברים שלא בתביעת</row>
+		<row row_number="26" isdata="1">ממון דנין אואין שיש עמהן שבועה מאואין</row>
+		<row row_number="27" isdata="1">שיש עמהן שבועה ואל יוכיחו אואין דרוצח</row>
+		<row row_number="28" isdata="1">שאין עמהן שבועה אואין דסוטה יוכיחו</row>
+		<row row_number="29" isdata="1">שהן אואין ויש עמהן שבועה ומדברים שלא</row>
+		<row row_number="30" isdata="1">בתביעת ממון דנין אואין שיש עמהן שבועה</row>
+		<row row_number="31" isdata="1">ואין עמהן כהן מאואין שיש עמהן שבועה</row>
+		<row row_number="32" isdata="1">ואין עמהן כהן ואל יוכיחו אואין דרוצח</row>
+		<row row_number="33" isdata="1">שאין עמהן שבועה ואל יוכיחו אואין דסוטה</row>
+		<row row_number="34" isdata="1">שאע"פ שיש עמהן שבועה יש עמהן כהן</row>
+		<row row_number="35" isdata="1">ר"ע אומר והיה כי יאשם לאחת מאלה</row>
+		<row row_number="36" isdata="1">יש מאלה שהוא חייב ויש מאלה שהוא</row>
+		<row row_number="37" isdata="1">פטור הא כיצד תבעו ממון חייב ד"א פטור</row>
+		<row row_number="38" isdata="1">ר' יוסי הגלילי אומר הרי הוא אומר והוא</row>
+		<row row_number="39" isdata="1">עד או ראה או ידע בעדות המתקיימת</row>
+		<row row_number="40" isdata="1">בראיה בלא ידיעה ובידיעה בלא ראיה</row>
+		<row row_number="41" isdata="1">הכתוב מדבר ראיה בלא ידיעה כיצד מנה</row>
+		<row row_number="42" isdata="1">מניתי לך בפני פלוני ופלוני יבואו פלוני</row>
+		<row row_number="43" isdata="1">ופלוני ויעידו זו היא ראיה בלא ידיעה ידיעה</row>
+		<row row_number="44" isdata="1">בלא ראיה כיצד מנה הודיתה לי בפני פלוני</row>
+		<row row_number="45" isdata="1">ופלוני יבואו פלוני ופלוני ויעידו זו היא ידיעה</row>
+		<row row_number="46" isdata="1">בלא ראיה ר"ש אומר חייב כאן וחייב בפקדון</row>
+		<row row_number="47" isdata="1">מה להלן אינו מדבר אלא בתביעת ממון אף</row>
+		<row row_number="48" isdata="1">כאן אינו מדבר אלא בתביעת ממון ועוד</row>
+		<row row_number="49" isdata="1">ק"ו מה פקדון שעשה בו נשים כאנשים</row>
+		<row row_number="50" isdata="1">קרובים כרחוקים פסולים ככשרים וחייב על</row>
+</amud>
+</daf>
+</masechet>
+</root>

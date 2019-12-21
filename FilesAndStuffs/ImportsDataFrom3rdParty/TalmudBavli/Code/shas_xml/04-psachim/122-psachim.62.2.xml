@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:09.826420</dateCreated>
+   <lastModified>2019-12-21 20:29:09.826420</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="62">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תמיד נשחט"/><ContGemara/>בטומאת בשר היכא הותרה אלא פשיטא</row>
+		<row row_number="2" isdata="1">בטומאת גברי והיכא הותרה מכללה בציבור</row>
+		<row row_number="3" isdata="1">רישא בטומאת בשר סיפא בטומאת גברי</row>
+		<row row_number="4" isdata="1">אין שם טומאה קפריך ואיבעית אימא כולה</row>
+		<row row_number="5" isdata="1">בטומאת בשר והיכא הותרה בטומאת פסח</row>
+		<row row_number="6" isdata="1">דתנן פסח הבא בטומאה נאכל בטומאה</row>
+		<row row_number="7" isdata="1">שלא בא מתחילתו אלא לאכילה מתיב רב</row>
+		<row row_number="8" isdata="1">הונא בריה דרב יהושע הפסח שעברה שנתו</row>
+		<row row_number="9" isdata="1">ושחטו בזמנו לשמו וכן השוחט אחרים לשם</row>
+		<row row_number="10" isdata="1">פסח בזמנו ר"א פוסל ורבי יהושע מכשיר</row>
+		<row row_number="11" isdata="1">טעמא בזמנו הא שלא בזמנו כשר ואמאי</row>
+		<row row_number="12" isdata="1">נימא הואיל ובזמנו פוסל שלא בזמנו נמי</row>
+		<row row_number="13" isdata="1">פוסל אמר רב פפא שאני התם דאמר קרא</row>
+		<row row_number="14" isdata="1">ואמרתם זבח פסח הוא הוא בהוייתו לא</row>
+		<row row_number="15" isdata="1">הוא לשום אחרים ולא אחרים לשמו בזמנו</row>
+		<row row_number="16" isdata="1">שהוא פסול לשום אחרים אחרים פסולין</row>
+		<row row_number="17" isdata="1">לשמו שלא בזמנו שהוא כשר לשום אחרים</row>
+		<row row_number="18" isdata="1">אחרים כשרים לשמו ר' שמלאי אתא לקמיה</row>
+		<row row_number="19" isdata="1">דרבי יוחנן א"ל ניתני לי מר ספר יוחסין א"ל</row>
+		<row row_number="20" isdata="1">מהיכן את א"ל מלוד והיכן מותבך בנהרדעא</row>
+		<row row_number="21" isdata="1">א"ל אין נידונין לא ללודים ולא לנהרדעים</row>
+		<row row_number="22" isdata="1">וכל שכן דאת מלוד ומותבך בנהרדעא כפייה</row>
+		<row row_number="23" isdata="1">וארצי א"ל ניתנייה בג' ירחי שקל קלא פתק</row>
+		<row row_number="24" isdata="1">ביה א"ל ומה ברוריה דביתהו דר"מ ברתיה</row>
+		<row row_number="25" isdata="1">דר"ח בן תרדיון דתניא תלת מאה שמעתתא</row>
+		<row row_number="26" isdata="1">ביומא מג' מאה רבוותא ואפ"ה לא יצתה</row>
+		<row row_number="27" isdata="1">ידי חובתה בתלת שנין ואת אמרת בתלתא</row>
+		<row row_number="28" isdata="1">ירחי כי שקיל ואזיל א"ל רבי מה בין לשמו</row>
+		<row row_number="29" isdata="1">ושלא לשמו לאוכליו ושלא לאוכליו א"ל הואיל</row>
+		<row row_number="30" isdata="1">וצורבא מרבנן את תא ואימא לך לשמו ושלא</row>
+		<row row_number="31" isdata="1">לשמו פסולו בגופו לאוכליו ושלא לאוכליו אין</row>
+		<row row_number="32" isdata="1">פסולו בגופו לשמו ושלא לשמו א"א לברר</row>
+		<row row_number="33" isdata="1">איסורו לאוכליו ושלא לאוכליו אפשר לברר</row>
+		<row row_number="34" isdata="1">איסורו לשמו ושלא לשמו ישנו בד' עבודות</row>
+		<row row_number="35" isdata="1">לאוכליו ושלא לאוכליו אינו בארבע עבודות</row>
+		<row row_number="36" isdata="1">לשמו ושלא לשמו ישנו בציבור כביחיד</row>
+		<row row_number="37" isdata="1">לאוכליו ושלא לאוכליו אינו בציבור כביחיד</row>
+		<row row_number="38" isdata="1">רב אשי אמר פסולו בגופו וא"א לברר איסורו</row>
+		<row row_number="39" isdata="1">חדא מילתא היא דמה טעם אמר פסולו בגופו</row>
+		<row row_number="40" isdata="1">משום דא"א לברר איסורו אמר רמי בר רב</row>
+		<row row_number="41" isdata="1">יודא א"ר מיום שנגנז ספר יוחסין תשש כחן</row>
+		<row row_number="42" isdata="1">של חכמי' וכהה מאור עיניהם אמר מר זוטרא</row>
+		<row row_number="43" isdata="1">בין אצל לאצל טעינו ד' מאה גמלי דדרשא</row>
+		<row row_number="44" isdata="1">תניא אחרים אומרים הקדים מולים לערלים</row>
+		<row row_number="45" isdata="1">כשר ערלים למולים פסול מאי שנא מולין</row>
+		<row row_number="46" isdata="1">לערלים דכשר דכולה ערלה בעינן וליכא</row>
+		<row row_number="47" isdata="1">ערלים למולין נמי כולה ערלה בעינן וליכא</row>
+</amud>
+</daf>
+</masechet>
+</root>

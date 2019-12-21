@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:26.568405</dateCreated>
+   <lastModified>2019-12-21 20:29:26.568405</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="60">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הוציאו לו"/><ContGemara/>משום דהוי תרומת הדשן ובגדי כהונה שני</row>
+		<row row_number="2" isdata="1">כתובין הבאין כאחד וכל שני כתובין הבאין</row>
+		<row row_number="3" isdata="1">כאחד אין מלמדין הניחא לרבנן דאמרי</row>
+		<row row_number="4" isdata="1">והניחם שם מלמד שטעונין גניזה אלא</row>
+		<row row_number="5" isdata="1">לרבי דוסא דאמר בגדי כהונה ראוין הן</row>
+		<row row_number="6" isdata="1">לכהן הדיוט מאי איכא למימר משום דהוי</row>
+		<row row_number="7" isdata="1">תרומת הדשן ועגלה ערופה שני כתובין</row>
+		<row row_number="8" isdata="1">הבאין כאחד וכל שני כתובין הבאין כאחד</row>
+		<row row_number="9" isdata="1">אין מלמדין הניחא למ"ד אין מלמדין אלא</row>
+		<row row_number="10" isdata="1">למ"ד מלמדין מאי איכא למימר תרי מיעוטי</row>
+		<row row_number="11" isdata="1">כתיבי ושמו הערופה והני תלתי קראי</row>
+		<row row_number="12" isdata="1">בדם ל"ל חד למעוטי מנותר וחד למעוטי</row>
+		<row row_number="13" isdata="1">ממעילה וחד למעוטי מטומאה אבל מפיגול</row>
+		<row row_number="14" isdata="1">לא צריך למעוטי קרא דתנן כל שיש לו</row>
+		<row row_number="15" isdata="1">מתירין בין לאדם בין למזבח חייבין עליו</row>
+		<row row_number="16" isdata="1">משום פיגול ודם עצמו מתיר הוא</row>
+		<row row_number="17" isdata="1"><EndGemara/><StartMishna/>מתני' כל מעשה יוה"כ האמור על הסדר</row>
+		<row row_number="18" isdata="1">אם הקדים מעשה לחבירו לא עשה כלום</row>
+		<row row_number="19" isdata="1">הקדים דם השעיר לדם הפר יחזור ויזה</row>
+		<row row_number="20" isdata="1">מדם השעיר לאחר דם הפר ואם עד שלא</row>
+		<row row_number="21" isdata="1">גמר את המתנות שבפנים נשפך הדם יביא</row>
+		<row row_number="22" isdata="1">דם אחר ויחזור בתחילה מבפנים וכן בהיכל</row>
+		<row row_number="23" isdata="1">וכן במזבח הזהב שכולן כפרה בפני עצמן</row>
+		<row row_number="24" isdata="1">רבי אלעזר ור"ש אומרים ממקום שפסק</row>
+		<row row_number="25" isdata="1">משם הוא מתחיל<EndMishna/><StartGemara/>גמ' ת"ר כל מעשה</row>
+		<row row_number="26" isdata="1">יוה"כ האמור על הסדר אם הקדים מעשה</row>
+		<row row_number="27" isdata="1">לחבירו לא עשה כלום א"ר יהודה אימתי</row>
+		<row row_number="28" isdata="1">בדברים הנעשין בבגדי לבן מבפנים אבל</row>
+		<row row_number="29" isdata="1">דברים הנעשין בבגדי לבן מבחוץ אם הקדים</row>
+		<row row_number="30" isdata="1">מעשה לחבירו מה שעשה עשוי רבי נחמיה</row>
+		<row row_number="31" isdata="1">אומר בד"א בדברים הנעשים בבגדי לבן בין</row>
+		<row row_number="32" isdata="1">מבפנים בין מבחוץ אבל בדברים הנעשים</row>
+		<row row_number="33" isdata="1">בבגדי זהב מבחוץ מה שעשה עשוי אמר</row>
+		<row row_number="34" isdata="1">ר' יוחנן ושניהם מקרא אחד דרשו והיתה</row>
+		<row row_number="35" isdata="1">זאת לכם לחוקת עולם אחת בשנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

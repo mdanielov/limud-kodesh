@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:23.647925</dateCreated>
+   <lastModified>2019-12-21 20:32:23.647925</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="103">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "גיד הנשה"/><ContGemara/>אכל אבר מן החי מן הטרפה ר' יוחנן אמר</row>
+		<row row_number="2" isdata="1">חייב שתים ור' שמעון בן לקיש אמר אינו</row>
+		<row row_number="3" isdata="1">חייב אלא אחת בשלמא לר' יוחנן ניחא אלא</row>
+		<row row_number="4" isdata="1">לר' שמעון בן לקיש קשיא אמר רב יוסף לא</row>
+		<row row_number="5" isdata="1">קשיא כאן בבהמה אחת כאן בשתי בהמות</row>
+		<row row_number="6" isdata="1">בשתי בהמות מיחייב שתים בבהמה אחת</row>
+		<row row_number="7" isdata="1">פליגי בבהמה אחת במאי פליגי אמר אביי</row>
+		<row row_number="8" isdata="1">כגון שנטרפה עם יציאת רובה מ"ס בהמה</row>
+		<row row_number="9" isdata="1">בחייה לאברים עומדת ואיסור טרפה ואיסור</row>
+		<row row_number="10" isdata="1">אבר בהדי הדדי קאתו ומ"ס בהמה בחייה</row>
+		<row row_number="11" isdata="1">לאו לאברים עומדת ולא אתי איסור אבר</row>
+		<row row_number="12" isdata="1">חייל אאיסור טרפה ואיבעית אימא דכ"ע</row>
+		<row row_number="13" isdata="1">בהמה בחייה לאו לאברים עומדת ובמיתי</row>
+		<row row_number="14" isdata="1">איסור אבר מיחל אאיסור טרפה קא מיפלגי</row>
+		<row row_number="15" isdata="1">מר סבר אתי איסור אבר חייל אאיסור טרפה</row>
+		<row row_number="16" isdata="1">ומר סבר לא אתי איסור אבר חייל אאיסור</row>
+		<row row_number="17" isdata="1">טרפה איבעית אימא דכ"ע בהמה בחייה</row>
+		<row row_number="18" isdata="1">לאברים עומדת וכגון שנטרפה לאחר מכאן</row>
+		<row row_number="19" isdata="1">ובמיתי איסור טרפה חייל אאיסור אבר קא</row>
+		<row row_number="20" isdata="1">מיפלגי מר סבר אתי וחייל ומר סבר לא אתי</row>
+		<row row_number="21" isdata="1">וחייל רבא אמר כגון שתלש ממנה אבר</row>
+		<row row_number="22" isdata="1">וטרפה בו מר סבר בהמה בחייה לאברים</row>
+		<row row_number="23" isdata="1">אינה עומדת איסור אבר ואיסור טרפה בהדי</row>
+		<row row_number="24" isdata="1">הדדי קאתו ומר סבר בהמה בחייה לאברים</row>
+		<row row_number="25" isdata="1">עומדת ולא אתי איסור טרפה חייל אאיסור</row>
+		<row row_number="26" isdata="1">אבר אמר ר' חייא בר אבא אמר ר' יוחנן אכל</row>
+		<row row_number="27" isdata="1">חלב מן החי מן הטרפה חייב שתים אמר ליה</row>
+		<row row_number="28" isdata="1">ר' אמי ולימא מר שלש שאני אומר שלש</row>
+		<row row_number="29" isdata="1">איתמר נמי אמר ר' אבהו א"ר יוחנן אכל</row>
+		<row row_number="30" isdata="1">חלב מן החי מן הטרפה חייב שלש במאי</row>
+		<row row_number="31" isdata="1">קמיפלגי כגון שנטרפה עם יציאת רובה מ"ד</row>
+		<row row_number="32" isdata="1">שלש קסבר בהמה בחייה לאברים עומדת</row>
+		<row row_number="33" isdata="1">דאיסור חלב ואיסור אבר ואיסור טרפה בהדי</row>
+		<row row_number="34" isdata="1">הדדי קאתו ומ"ד שתים קסבר בהמה בחייה</row>
+		<row row_number="35" isdata="1">לאו לאברים עומדת ואיסור חלב ואיסור</row>
+		<row row_number="36" isdata="1">טרפה איכא איסור אבר לא אתי חייל ואי</row>
+		<row row_number="37" isdata="1">בעית אימא דכ"ע בהמה בחייה לאו לאברים</row>
+		<row row_number="38" isdata="1">עומדת ובמיתי איסור אבר וחייל אאיסור</row>
+		<row row_number="39" isdata="1">חלב ואאיסור טרפה קא מיפלגי מר סבר</row>
+		<row row_number="40" isdata="1">אתי חייל ומר סבר לא אתי חייל ואי בעית</row>
+		<row row_number="41" isdata="1">אימא דכולי עלמא בהמה בחייה לאברים</row>
+		<row row_number="42" isdata="1">עומדת וכגון שנטרפה לאחר מכאן ובמיתי</row>
+		<row row_number="43" isdata="1">איסור טרפה מיחל אאיסור אבר קא מיפלגי</row>
+		<row row_number="44" isdata="1">מר סבר אתי חייל מידי דהוה אחלב דאמר</row>
+		<row row_number="45" isdata="1">מר התורה אמרה יבא איסור נבלה יחול</row>
+		<row row_number="46" isdata="1">על איסור חלב ויבא איסור טרפה יחול על</row>
+		<row row_number="47" isdata="1">איסור חלב ואידך אחלב הוא דחייב דהותר</row>
+</amud>
+</daf>
+</masechet>
+</root>

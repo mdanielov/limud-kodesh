@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:39.088794</dateCreated>
+   <lastModified>2019-12-21 20:28:39.088794</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="9">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>דרך עליו חייב התם לא נח הכא נח אחרים</row>
+		<row row_number="2" isdata="1">אומרים אסקופה משמשת שתי רשויות בזמן</row>
+		<row row_number="3" isdata="1">שהפתח פתוח כלפנים פתח נעול כלחוץ ואף</row>
+		<row row_number="4" isdata="1">על גב דלית ליה לחי והאמר רב חמא בר</row>
+		<row row_number="5" isdata="1">גוריא אמר רב תוך הפתח צריך לחי אחר</row>
+		<row row_number="6" isdata="1">להתירו וכי תימא דלית ביה ד' על ד' והאמר</row>
+		<row row_number="7" isdata="1">רב חמא בר גוריא אמר רב תוך הפתח אע"פ</row>
+		<row row_number="8" isdata="1">שאין בו ד' על ד' צריך לחי אחר להתירו אמר</row>
+		<row row_number="9" isdata="1">רב יהודה אמר רב הכא באיסקופת מבוי</row>
+		<row row_number="10" isdata="1">עסקינן חציו מקורה וחציו שאינו מקורה</row>
+		<row row_number="11" isdata="1">וקירויו כלפי פנים פתח פתוח כלפנים פתח</row>
+		<row row_number="12" isdata="1">נעול כלחוץ רב אשי אמר לעולם באיסקופת</row>
+		<row row_number="13" isdata="1">בית עסקינן וכגון שקירה בשתי קורות</row>
+		<row row_number="14" isdata="1">שאין בזו ארבעה ואין בזו ארבעה ואין בין</row>
+		<row row_number="15" isdata="1">זו לזו שלשה ודלת באמצע פתח פתוח</row>
+		<row row_number="16" isdata="1">כלפנים פתח נעול כלחוץ ואם היתה</row>
+		<row row_number="17" isdata="1">איסקופה גבוהה י' ורחבה ד' הרי זו רשות</row>
+		<row row_number="18" isdata="1">לעצמה מסייע ליה לרב יצחק בר אבדימי דאמר</row>
+		<row row_number="19" isdata="1">רב יצחק בר אבדימי אומר היה רבי מאיר כל</row>
+		<row row_number="20" isdata="1">מקום שאתה מוצא ב' רשויות והן רשות</row>
+		<row row_number="21" isdata="1">אחת כגון עמוד ברה"י גבוה י' ורחב ד'</row>
+		<row row_number="22" isdata="1">אסור לכתף עליו גזירה משום תל ברה"ר</row>
+</amud>
+</daf>
+</masechet>
+</root>

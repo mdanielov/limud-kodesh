@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:41.879328</dateCreated>
+   <lastModified>2019-12-21 20:32:41.879328</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="6">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "קדשי קדשים"/><ContMishna/>מתני' בשר קדשי קדשים שיצא לפני זריקת<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">דמים ר' אליעזר אומר מועלין בו ואין חייבין</row>
+		<row row_number="3" isdata="1">עליו משום פיגול ונותר וטמא ר"ע אומר אין</row>
+		<row row_number="4" isdata="1">מועלין בו וחייבין עליו משום פיגול ונותר</row>
+		<row row_number="5" isdata="1">וטמא אמר ר"ע והרי המפריש חטאתו ואבדה</row>
+		<row row_number="6" isdata="1">והפריש אחרת תחתיה ואחר כך נמצאת</row>
+		<row row_number="7" isdata="1">הראשונה והרי שתיהן עומדות לא כשם שדמה</row>
+		<row row_number="8" isdata="1">פוטר את בשרה כך הוא פוטר את בשר</row>
+		<row row_number="9" isdata="1">חברתה אם פטר דמה את בשר חברתה מן</row>
+		<row row_number="10" isdata="1">המעילה דין הוא שיפטר את בשר עצמה</row>
+		<row row_number="11" isdata="1">אימורי קדשים קלים שיצאו לפני זריקת דמים</row>
+		<row row_number="12" isdata="1">רבי אליעזר אומר אין מועלין בהן ואין חייבין</row>
+		<row row_number="13" isdata="1">עליהן משום פיגול נותר וטמא רבי עקיבא</row>
+		<row row_number="14" isdata="1">אומר מועלין בהן וחייבין עליהן משום פיגול</row>
+		<row row_number="15" isdata="1">נותר וטמא<EndMishna/><StartGemara/>גמ' והני תרתי למה לי צריכי</row>
+		<row row_number="16" isdata="1">דאי איתמר בקדשי קדשים הוה אמינא בהא</row>
+		<row row_number="17" isdata="1">קא אמר ר' אליעזר מועלין בו משום דזריקה</row>
+		<row row_number="18" isdata="1">כתיקנה מפקא מידי מעילה שלא כתיקנה לא</row>
+		<row row_number="19" isdata="1">מפקא מידי מעילה אבל לאיתויי לידי מעילה</row>
+		<row row_number="20" isdata="1">מודי לר"ע דאפילו שלא כתיקנה מייתא לידי</row>
+		<row row_number="21" isdata="1">מעילה ואי איתמר גבי קדשים קלים הוה אמינא</row>
+		<row row_number="22" isdata="1">גבי קדשים קלים הוא דאמר ר"ע מועלין בהן</row>
+		<row row_number="23" isdata="1">דאפילו זריקה שלא כתיקנה מייתא לידי מעילה</row>
+		<row row_number="24" isdata="1">אבל קדשי קדשים דלאפוקי הוא שלא כתיקנה</row>
+		<row row_number="25" isdata="1">לא מפקא מידי מעילה קמ"ל אתמר אמר ר'</row>
+		<row row_number="26" isdata="1">יוחנן כי אמר ר"ע זריקה מועלת ליוצא שיצא</row>
+		<row row_number="27" isdata="1">מקצתו אבל יוצא כולו לא אמר ר"ע א"ל רב</row>
+		<row row_number="28" isdata="1">אסי לרבי יוחנן כבר לימדוני חבירי שבגולה</row>
+</amud>
+</daf>
+</masechet>
+</root>

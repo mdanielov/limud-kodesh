@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:13.338202</dateCreated>
+   <lastModified>2019-12-21 20:31:13.338202</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="89">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContGemara/>מוהיה אם שמוע תשמע ועד לעבדם וקללן</row>
+		<row row_number="2" isdata="1">בעשרים ושתים מוהיה אם לא תשמע עד</row>
+		<row row_number="3" isdata="1">ואין קונה מקום שנהגו למוד בגסה כו'</row>
+		<row row_number="4" isdata="1">(סימן אין מעיינין ואין גודשין באגרדמין</row>
+		<row row_number="5" isdata="1">ובליטרא שלשה ועשר נפש משקלות ממחק</row>
+		<row row_number="6" isdata="1">עבה לא תעשו לא יעשה) ת"ר מנין שאין</row>
+		<row row_number="7" isdata="1">מוחקין במקום שגודשין ואין גודשין במקום שמוחקין ת"ל איפה שלמה</row>
+		<row row_number="8" isdata="1">ומנין שאם אמר הריני מוחק במקום שגודשין ולפחות לו מן הדמים והריני גודש</row>
+		<row row_number="9" isdata="1">במקום שמוחקין ולהוסיף לו על הדמים שאין שומעין לו ת"ל איפה שלמה</row>
+		<row row_number="10" isdata="1">וצדק יהיה לך ת"ר מנין שאין מעיינין במקום שמכריעין ואין מכריעין במקום</row>
+		<row row_number="11" isdata="1">שמעיינין ת"ל אבן שלמה ומנין שאם אמר הריני מעיין במקום שמכריעין</row>
+		<row row_number="12" isdata="1">ולפחות לו מן הדמים והריני מכריע במקום שמעיינין ולהוסיף לו על הדמים שאין</row>
+		<row row_number="13" isdata="1">שומעין לו ת"ל אבן שלמה וצדק אמר רב יהודה מסורא לא יהיה לך בביתך</row>
+		<row row_number="14" isdata="1">מה טעם משום איפה ואיפה לא יהיה לך בכיסך מה טעם משום אבן ואבן אבל</row>
+		<row row_number="15" isdata="1">אבן שלמה וצדק יהיה לך איפה שלמה וצדק יהיה לך ת"ר (לא) יהיה לך מלמד</row>
+		<row row_number="16" isdata="1">שמעמידין אגרדמין למדות ואין מעמידין אגרדמין לשערים דבי נשיאה אוקימו</row>
+		<row row_number="17" isdata="1">אגרדמין בין למדות בין לשערים א"ל שמואל לקרנא פוק תני להו מעמידין</row>
+		<row row_number="18" isdata="1">אגרדמין למדות ואין מעמידין אגרדמין לשערים נפק דרש להו מעמידין</row>
+		<row row_number="19" isdata="1">אגרדמין בין למדות בין לשערים א"ל מה שמך קרנא תיפוק ליה קרנא</row>
+		<row row_number="20" isdata="1">בעיניה נפקא ליה קרנא בעיניה ואיהו כמאן סבר כי הא דאמר רמי בר חמא</row>
+		<row row_number="21" isdata="1">א"ר יצחק מעמידין אגרדמין בין למדות בין לשערים מפני הרמאין ת"ר היה</row>
+		<row row_number="22" isdata="1">מבקש ממנו ליטרא שוקל לו ליטרא חצי ליטרא שוקל לו חצי ליטרא רביע</row>
+		<row row_number="23" isdata="1">ליטרא שוקל לו רביע ליטרא מאי קמ"ל דמתקנינן מתקלי עד הכי ת"ר היה</row>
+		<row row_number="24" isdata="1">מבקש ממנו שלשה רבעי ליטרא לא יאמר לו שקול לי שלשה רבעי ליטרא</row>
+		<row row_number="25" isdata="1">אחת אחת אלא שוקל ליטרא ומניח רביע ליטרא עם הבשר ת"ר היה</row>
+		<row row_number="26" isdata="1">מבקש ממנו עשר ליטרין לא יאמר לו שקול לי אחת אחת והכריע</row>
+		<row row_number="27" isdata="1">אלא שוקל לו כולן בבת אחת ונותן הכרע אחד לכולן ת"ר נפש מאזנים</row>
+		<row row_number="28" isdata="1">תלויה באויר ג' טפחים וגבוהה מן הארץ שלשה טפחים וקנה ומתנא</row>
+		<row row_number="29" isdata="1">שלה שנים עשר טפחים ושל צמרים ושל זגגין תלויה באויר שני טפחים</row>
+		<row row_number="30" isdata="1">וגבוהה מן הארץ שני טפחים וקנה ומתנא שלה ט' טפחים ושל חנווני</row>
+		<row row_number="31" isdata="1">ושל בעה"ב תלויה באויר טפח וגבוהה מן הארץ טפח וקנה ומתנא שלה</row>
+		<row row_number="32" isdata="1">ששה טפחים ושל טורטני תלויה באויר שלש אצבעות וגבוהה מן</row>
+		<row row_number="33" isdata="1">הארץ שלש אצבעות וקנה ומתנא שלה איני יודע ואלא הך קמייתא דמאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

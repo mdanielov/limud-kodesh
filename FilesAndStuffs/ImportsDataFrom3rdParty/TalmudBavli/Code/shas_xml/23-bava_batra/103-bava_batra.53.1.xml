@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:10.286196</dateCreated>
+   <lastModified>2019-12-21 20:31:10.286196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="53">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>שלא בפניו צריך למימר ליה לך חזק וקני</row>
+		<row row_number="2" isdata="1">בעי רב מתנה היאך אמר שמואל מאי תבעי</row>
+		<row row_number="3" isdata="1">ליה לאבא השתא ומה מכר דקא יהיב ליה</row>
+		<row row_number="4" isdata="1">זוזי אי א"ל לך חזק וקני אין אי לא לא מתנה</row>
+		<row row_number="5" isdata="1">לא כל שכן ורב סבר מאן דיהיב מתנה בעין</row>
+		<row row_number="6" isdata="1">יפה יהיב וכמה כל שהוא כדשמואל דאמר</row>
+		<row row_number="7" isdata="1">שמואל גדר גדר והשלימו לעשרה ופרץ</row>
+		<row row_number="8" isdata="1">פרצה כדי שיכנס ויצא בה הרי זו חזקה האי</row>
+		<row row_number="9" isdata="1">גדר היכי דמי אילימא דמעיקרא לא הוו</row>
+		<row row_number="10" isdata="1">סלקי לה והשתא נמי לא סלקי לה מאי עבד</row>
+		<row row_number="11" isdata="1">ואלא דמעיקרא הוו סלקי לה והשתא לא</row>
+		<row row_number="12" isdata="1">סלקי לה טובא עבד לא צריכא דמעיקרא</row>
+		<row row_number="13" isdata="1">הוו סלקי לה ברווחא והשתא קא סלקי לה</row>
+		<row row_number="14" isdata="1">בדוחקא האי פרצה ה"ד אילימא דמעיקרא</row>
+		<row row_number="15" isdata="1">הוו עיילי בה והשתא נמי עיילי בה מאי</row>
+		<row row_number="16" isdata="1">עבד ואלא דמעיקרא לא הוו עיילי בה</row>
+		<row row_number="17" isdata="1">והשתא קא עיילי בה טובא עבד לא צריכא</row>
+		<row row_number="18" isdata="1">דמעיקרא הוו עיילי בה בדוחקא והשתא</row>
+		<row row_number="19" isdata="1">עיילי בה ברווחא א"ר אסי א"ר יוחנן נתן</row>
+		<row row_number="20" isdata="1">צרור והועיל נטל צרור והועיל ה"ז חזקה</row>
+		<row row_number="21" isdata="1">מאי נתן ומאי נטל אילימא נתן צרור וסכר</row>
+		<row row_number="22" isdata="1">מיא מינה נטל צרור ואפיק מיא מינה האי</row>
+		<row row_number="23" isdata="1">מבריח ארי מנכסי חברו הוא אלא נתן צרור</row>
+		<row row_number="24" isdata="1">דצמד לה מיא נטל צרור וארוח לה מיא</row>
+		<row row_number="25" isdata="1">ואמר רב אסי א"ר יוחנן שתי שדות ומצר</row>
+		<row row_number="26" isdata="1">אחד ביניהן החזיק באחת מהן לקנותה קנאה</row>
+</amud>
+</daf>
+</masechet>
+</root>

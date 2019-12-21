@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:31.516406</dateCreated>
+   <lastModified>2019-12-21 20:29:31.516406</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="22">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הישן"/><ContGemara/>פחות מארבעה אין צריך להביא קורה</row>
+		<row row_number="2" isdata="1">אחרת ארבעה צריך להביא קורה אחרת</row>
+		<row row_number="3" isdata="1">וכן שתי קורות המתאימות לא בזו כדי</row>
+		<row row_number="4" isdata="1">לקבל אריח ולא בזו כדי לקבל אריח אם</row>
+		<row row_number="5" isdata="1">מקבלות אריח לרחבו טפח אין צריך להביא</row>
+		<row row_number="6" isdata="1">קורה אחרת ואם לאו צריך להביא קורה</row>
+		<row row_number="7" isdata="1">אחרת רשב"ג אומר אם מקבלות אריח</row>
+		<row row_number="8" isdata="1">לארכו שלשה טפחים אין צריך להביא קורה</row>
+		<row row_number="9" isdata="1">אחרת ואם לאו צריך להביא קורה אחרת</row>
+		<row row_number="10" isdata="1">היו אחת למעלה ואחת למטה רבי יוסי</row>
+		<row row_number="11" isdata="1">בר' יהודה אומר רואין העליונה כאילו היא</row>
+		<row row_number="12" isdata="1">למטה ואת התחתונה כאילו היא למעלה</row>
+		<row row_number="13" isdata="1">ובלבד שלא תהא עליונה למעלה מעשרים</row>
+		<row row_number="14" isdata="1">אמה והתחתונה למטה מעשרה הא זה</row>
+		<row row_number="15" isdata="1">וזה בתוך עשרים אמרינן חבוט רמי אע"ג</row>
+		<row row_number="16" isdata="1">דלית ביה טפח א"ל תריץ ואימא הכי</row>
+		<row row_number="17" isdata="1">ובלבד שלא תהא עליונה למעלה מעשרים</row>
+		<row row_number="18" isdata="1">אלא בתוך עשרים והתחתונה סמוכה לה</row>
+		<row row_number="19" isdata="1">בפחות משלשה אי נמי בלבד שלא תהא</row>
+		<row row_number="20" isdata="1">תחתונה למטה מעשרה אלא למעלה</row>
+		<row row_number="21" isdata="1">מעשרה ועליונה סמוכה לה בפחות משלשה</row>
+		<row row_number="22" isdata="1">אבל שלשה כיון דלית ביה טפח לא אמרינן</row>
+		<row row_number="23" isdata="1">חבוט רמי ושצילתה מרובה מחמתה</row>
+		<row row_number="24" isdata="1">כשרה הא כי הדדי פסולה והא תנן</row>
+		<row row_number="25" isdata="1">באידך פירקין ושחמתה מרובה מצילתה</row>
+		<row row_number="26" isdata="1">פסולה הא כי הדדי כשרה לא קשיא כאן</row>
+		<row row_number="27" isdata="1">מלמעלה כאן מלמטה אמר רב פפא היינו</row>
+		<row row_number="28" isdata="1">דאמרי אינשי כזוזא מלעיל כאיסתרא</row>
+		<row row_number="29" isdata="1">מלתחת מעובה כמין בית ת"ר המעובה</row>
+		<row row_number="30" isdata="1">כמין בית אע"פ שאין הכוכבים נראין מתוכה</row>
+		<row row_number="31" isdata="1">כשרה אין כוכבי חמה נראין מתוכה בית</row>
+		<row row_number="32" isdata="1">שמאי פוסלין ובית הלל מכשירין</row>
+		<row row_number="33" isdata="1"><EndGemara/><StartMishna/>מתני' העושה סוכתו בראש העגלה או</row>
+		<row row_number="34" isdata="1">בראש הספינה כשרה ועולין לה ביום טוב</row>
+		<row row_number="35" isdata="1">בראש האילן או על גבי גמל כשרה ואין</row>
+		<row row_number="36" isdata="1">עולין לה בי"ט שתים באילן ואחת בידי</row>
+		<row row_number="37" isdata="1">אדם או שתים בידי אדם ואחת באילן כשרה</row>
+		<row row_number="38" isdata="1">ואין עולין לה ביום טוב שלש בידי</row>
+		<row row_number="39" isdata="1">אדם ואחת באילן כשרה ועולין לה בי"ט</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:53.927487</dateCreated>
+   <lastModified>2019-12-21 20:28:53.927487</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="10">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>עושה פס גבוה עשרה במשך ארבע אמות</row>
+		<row row_number="2" isdata="1">ומעמידו לארכו של מבוי אי נמי כדרב יהודה</row>
+		<row row_number="3" isdata="1">דאמר רב יהודה מבוי שהוא רחב חמש עשרה</row>
+		<row row_number="4" isdata="1">אמה מרחיק שתי אמות ועושה פס שלש</row>
+		<row row_number="5" isdata="1">אמות ואמאי יעשה פס אמה ומחצה וירחיק</row>
+		<row row_number="6" isdata="1">שתי אמות ויעשה פס אמה ומחצה שמע מינה</row>
+		<row row_number="7" isdata="1">עומד מרובה על הפרוץ משתי רוחות לא הוי</row>
+		<row row_number="8" isdata="1">עומד לעולם אימא לך הוי עומד ושאני הכא</row>
+		<row row_number="9" isdata="1">דאתי אוירא דהאי גיסא ואוירא דהאי גיסא</row>
+		<row row_number="10" isdata="1">ומבטל ליה ויעשה פס אמה וירחיק אמה</row>
+		<row row_number="11" isdata="1">ויעשה פס אמה וירחיק אמה ויעשה פס אמה</row>
+		<row row_number="12" isdata="1">ש"מ עומד כפרוץ אסור לעולם אימא לך</row>
+		<row row_number="13" isdata="1">מותר ושאני הכא דאתא אוירא דהאי גיסא</row>
+		<row row_number="14" isdata="1">ודהאי גיסא ומבטל ליה וירחיק אמה ויעשה</row>
+		<row row_number="15" isdata="1">פס אמה ומחצה וירחיק אמה ויעשה פס אמה</row>
+		<row row_number="16" isdata="1">ומחצה אין הכי נמי וכולי האי לא אטרחוה</row>
+		<row row_number="17" isdata="1">רבנן וליחוש דלמא שביק פיתחא רבה ועייל</row>
+		<row row_number="18" isdata="1">בפיתחא זוטא אמר רב אדא בר מתנה חזקה</row>
+		<row row_number="19" isdata="1">אין אדם מניח פתח גדול ונכנס בפתח קטן</row>
+		<row row_number="20" isdata="1">ומאי שנא מדרבי אמי ודרבי אסי התם קא</row>
+		<row row_number="21" isdata="1">ממעט בהילוכא הכא לא קא ממעט</row>
+		<row row_number="22" isdata="1">בהילוכא תנן התם עור העסלא וחלל שלו</row>
+		<row row_number="23" isdata="1">מצטרפין בטפח מאי עור העסלא אמר רבה</row>
+		<row row_number="24" isdata="1">בר בר חנה א"ר יוחנן עור כיסוי של בית הכסא</row>
+		<row row_number="25" isdata="1">וכמה כי אתא רב דימי אמר אצבעיים מכאן</row>
+		<row row_number="26" isdata="1">ואצבעיים מכאן ואצבעיים ריוח באמצע כי</row>
+		<row row_number="27" isdata="1">אתא רבין אמר אצבע ומחצה מכאן ואצבע</row>
+		<row row_number="28" isdata="1">ומחצה מכאן ואצבע ריוח באמצע א"ל אביי</row>
+		<row row_number="29" isdata="1">לרב דימי מי פליגיתו א"ל לא הא ברברבתא</row>
+		<row row_number="30" isdata="1">הא בזוטרתא ולא פליגין א"ל לאיי פליגיתו</row>
+		<row row_number="31" isdata="1">ובעומד מרובה על הפרוץ משתי רוחות</row>
+		<row row_number="32" isdata="1">פליגיתו לדידך הוי עומד משתי רוחות לרבין</row>
+		<row row_number="33" isdata="1">מרוח אחת הוי עומד משתי רוחות לא הוי</row>
+		<row row_number="34" isdata="1">עומד דאי סלקא דעתך לא פליגיתו לרבין</row>
+		<row row_number="35" isdata="1">הכי איבעי ליה למימר אצבע ושליש מכאן</row>
+		<row row_number="36" isdata="1">ואצבע ושליש מכאן ואצבע ושליש ריוח</row>
+		<row row_number="37" isdata="1">באמצע ואלא מאי פליגינן לדידי הכי איבעי</row>
+		<row row_number="38" isdata="1">לי למימר אצבע ושני שלישים מכאן ואצבע</row>
+		<row row_number="39" isdata="1">ושני שלישים מכאן ואצבעיים ושני שלישים</row>
+		<row row_number="40" isdata="1">ריוח באמצע אלא אי איכא למימר דפלגינן</row>
+		<row row_number="41" isdata="1">בפרוץ כעומד פלגינן אם יש לו צורת</row>
+		<row row_number="42" isdata="1">הפתח אף על פי שרחב מעשר אינו צריך</row>
+		<row row_number="43" isdata="1">למעט אשכחן צורת הפתח דמהניא</row>
+		<row row_number="44" isdata="1">ברחבו ואמלתרא דמהניא בגבהו</row>
+</amud>
+</daf>
+</masechet>
+</root>

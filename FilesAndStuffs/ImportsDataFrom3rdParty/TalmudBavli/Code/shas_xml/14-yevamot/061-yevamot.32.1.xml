@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:55.261004</dateCreated>
+   <lastModified>2019-12-21 20:29:55.261004</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="32">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אחין"/><ContGemara/>ומקצתו חלוץ ויאמרו אי דמייבם והדר חליץ</row>
+		<row row_number="2" isdata="1">הכי נמי אלא גזירה דילמא חליץ ברישא</row>
+		<row row_number="3" isdata="1">והדר מייבם וקם ליה באשר לא יבנה ורחמנא</row>
+		<row row_number="4" isdata="1">אמר כיון שלא בנה שוב לא יבנה אמר</row>
+		<row row_number="5" isdata="1">רבא נתן גט למאמרו הותרה צרתה אבל</row>
+		<row row_number="6" isdata="1">היא אסורה דמחלפה בבעלת גט איכא</row>
+		<row row_number="7" isdata="1">דאמרי אמר רבא נתן גט למאמרו הותרה</row>
+		<row row_number="8" isdata="1">אפי' היא מאי טעמא מאי דעבד בה שקליה</row>
+		<row row_number="9" isdata="1"><EndGemara/><StartMishna/>מתני' שני אחין נשואין שתי אחיות ומת</row>
+		<row row_number="10" isdata="1">אחד מהן ואחר כך מתה אשתו של שני הרי</row>
+		<row row_number="11" isdata="1">זו אסורה עליו עולמית הואיל ונאסרה עליו</row>
+		<row row_number="12" isdata="1">שעה אחת<EndMishna/><StartGemara/>גמ' פשיטא השתא ומה התם</row>
+		<row row_number="13" isdata="1">דלא מידחיא מהאי ביתא לגמרי אמרת</row>
+		<row row_number="14" isdata="1">לא הכא דקא מידחיא מהאי ביתא לגמרי</row>
+		<row row_number="15" isdata="1">לא כ"ש תנא הא תנא ברישא והך חזיא</row>
+		<row row_number="16" isdata="1">להיתירא ושריא והדר חזיא לאיסורא</row>
+		<row row_number="17" isdata="1">ואיידי דחביבה ליה אקדמה ומשנה לא</row>
+		<row row_number="18" isdata="1">זזה ממקומה ת"ר בא עליה חייב עליה</row>
+		<row row_number="19" isdata="1">משום אשת אח ומשום אחות אשה דברי</row>
+		<row row_number="20" isdata="1">רבי יוסי רבי שמעון אומר אינו חייב אלא</row>
+		<row row_number="21" isdata="1">משום אשת אח בלבד והא תניא ר"ש אומר</row>
+		<row row_number="22" isdata="1">אינו חייב אלא משום אחות אשה בלבד לא</row>
+		<row row_number="23" isdata="1">קשיא כאן שנשא חי ואח"כ נשא מת כאן</row>
+		<row row_number="24" isdata="1">שנשא מת ואח"כ נשא חי ור' שמעון היכא</row>
+		<row row_number="25" isdata="1">דנשא מת ואח"כ נשא חי כיון דאיסור אחות</row>
+		<row row_number="26" isdata="1">אשה לא חייל תתייבם יבומי אמר רב אשי</row>
+		<row row_number="27" isdata="1">איסור אחות אשה מיתלא תלי וקאי אי פקע</row>
+		<row row_number="28" isdata="1">איסור אשת אח אתי איסור אחות אשה</row>
+		<row row_number="29" isdata="1">וחייל והילכך לא פקע וסבר רבי יוסי איסור</row>
+		<row row_number="30" isdata="1">חל על איסור והא תניא עבר עבירה שיש</row>
+		<row row_number="31" isdata="1">בה שתי מיתות נידון בחמורה רבי יוסי</row>
+		<row row_number="32" isdata="1">אומר נידון בזיקה הראשונה הבאה עליו</row>
+		<row row_number="33" isdata="1">ותניא כיצד אמר רבי יוסי נידון בזיקה</row>
+		<row row_number="34" isdata="1">הראשונה הבאה עליו חמותו ונעשית</row>
+		<row row_number="35" isdata="1">אשת איש נידון בחמותו אשת איש</row>
+		<row row_number="36" isdata="1">ונעשית חמותו נידון באשת איש</row>
+</amud>
+</daf>
+</masechet>
+</root>

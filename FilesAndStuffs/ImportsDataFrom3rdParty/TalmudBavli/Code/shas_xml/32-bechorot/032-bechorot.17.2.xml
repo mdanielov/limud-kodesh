@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:29.017045</dateCreated>
+   <lastModified>2019-12-21 20:32:29.017045</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="17">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר פרתו"/><ContGemara/>וחייב במתנות ורבי יוסי פוטר מת אחד מהן</row>
+		<row row_number="2" isdata="1">ר"ט אומר יחלוקו ר"ע אומר המוציא מחבירו</row>
+		<row row_number="3" isdata="1">עליו הראיה זכר ונקבה אין כאן לכהן כלום</row>
+		<row row_number="4" isdata="1"><EndMishna/><StartGemara/>גמ' אמרי דבי רבי ינאי לרבי יוסי הגלילי</row>
+		<row row_number="5" isdata="1">שמעינן ליה דאמר אפשר לצמצם בידי</row>
+		<row row_number="6" isdata="1">שמים וכ"ש בידי אדם ורבנן בידי שמים אי</row>
+		<row row_number="7" isdata="1">אפשר לצמצם בידי אדם מאי ת"ש חוט</row>
+		<row row_number="8" isdata="1">של סיקרא חוגרו באמצע להבדיל בין דמים</row>
+		<row row_number="9" isdata="1">העליונים ובין דמים התחתונים ואי אמרת אי</row>
+		<row row_number="10" isdata="1">אפשר לצמצם בידי אדם זימנין דקא יהיב</row>
+		<row row_number="11" isdata="1">עליונים למטה ותחתונים למעלה דמרווח בה</row>
+		<row row_number="12" isdata="1">פורתא תא שמע ממדת כלים ממדת מזבח</row>
+		<row row_number="13" isdata="1">שאני התם דרחמנא אמר עביד ובכל היכי</row>
+		<row row_number="14" isdata="1">דמצית למיעבד ניחא ליה הכל בכתב מיד</row>
+		<row row_number="15" isdata="1">ה' עלי השכיל אמר רב קטינא ת"ש חלקו</row>
+		<row row_number="16" isdata="1">לשנים והן שוין שניהן טמאים לפי שאי אפשר</row>
+		<row row_number="17" isdata="1">לצמצם אמר רב כהנא שאני כלי חרס הואיל</row>
+		<row row_number="18" isdata="1">ויש בו גומות ת"ש נמצא מכוון בין שתי</row>
+		<row row_number="19" isdata="1">עיירות שתיהן מביאות שתי עגלות דברי ר"א</row>
+		<row row_number="20" isdata="1">מ"ט לאו משום דקסבר בידי אדם אפשר</row>
+		<row row_number="21" isdata="1">לצמצם וקרובה ואפילו קרובות לא ר' אליעזר</row>
+</amud>
+</daf>
+</masechet>
+</root>

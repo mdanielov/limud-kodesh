@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:31.264398</dateCreated>
+   <lastModified>2019-12-21 20:32:31.264398</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="42">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "על אלו מומין"/><ContGemara/>בן יהודה למימר טומטום בריה הוא ולא</row>
+		<row row_number="2" isdata="1">קדוש לא דכולי עלמא טומטום בבריה לא</row>
+		<row row_number="3" isdata="1">מספקא זכר ונקבה הוא דמספקא מטיל</row>
+		<row row_number="4" isdata="1">מים במקום זכרות דכולי עלמא לא פליגי דזכר</row>
+		<row row_number="5" isdata="1">הוא כי פליגי במטיל מים במקום נקבות מר</row>
+		<row row_number="6" isdata="1">סבר חיישינן שמא נהפכה זכרותו לנקבותו</row>
+		<row row_number="7" isdata="1">ומר סבר לא חיישינן כי הא דהורה רבי</row>
+		<row row_number="8" isdata="1">אלעזר בבהמה מטיל מים במקום נקבות</row>
+		<row row_number="9" isdata="1">חולין תהי בה ר' יוחנן מאן דלא חש לתנא</row>
+		<row row_number="10" isdata="1">קמא ולרבי ישמעאל ולימא רבי יוחנן נמי</row>
+		<row row_number="11" isdata="1">מאן דלא חש לרבנן בתראי דא"ר חסדא</row>
+		<row row_number="12" isdata="1">מחלוקת באנדרוגינוס אבל בטומטום דברי</row>
+		<row row_number="13" isdata="1">הכל ספיקא רבי יוחנן לא ס"ל דרב חסדא אי</row>
+		<row row_number="14" isdata="1">לא ס"ל לימא הוא דאמר כרבנן בתראי הכי</row>
+		<row row_number="15" isdata="1">נמי קאמר מאן שביק תרי ועביד כחד ורבי</row>
+		<row row_number="16" isdata="1">אלעזר כמאן סברא כי הא דאמר ריש לקיש</row>
+		<row row_number="17" isdata="1">לא אמרו טומטום ספק אלא באדם הואיל</row>
+		<row row_number="18" isdata="1">וזכרותו ונקבותו במקום אחד אבל בהמה</row>
+		<row row_number="19" isdata="1">מטיל מים במקום זכרות זכר מטיל מים</row>
+		<row row_number="20" isdata="1">במקום נקבות נקבה מתקיף לה רב אושעיא</row>
+		<row row_number="21" isdata="1">וליחוש שמא נהפכה זכרותו לנקבותו א"ל</row>
+		<row row_number="22" isdata="1">כמאן כר"מ דחייש למיעוטא אביי בר אבין</row>
+		<row row_number="23" isdata="1">ורב חנניא בר אבין דאמרי תרוייהו אפי' תימא</row>
+		<row row_number="24" isdata="1">רבנן הואיל ואישתני אישתני אית דאמר</row>
+		<row row_number="25" isdata="1">אישתני ואית דאמר לא אישתני לימא אישתני</row>
+		<row row_number="26" isdata="1">ולא אישתני תנאי דתניא טומטום שקידש קדושיו קדושין נתקדש קדושיו</row>
+		<row row_number="27" isdata="1">קדושין וחולץ וחולצין לאשתו ומיבמים לאשתו ותניא אידך אשת טומטום</row>
+		<row row_number="28" isdata="1">חולצת ולא מתייבמת סברוה דכ"ע כר"ע דאמר סריס חמה לא חולץ</row>
+		<row row_number="29" isdata="1">ולא מייבם מאי לאו בהא קמיפלגי דמ"ד חולץ וחולצין לאשתו</row>
+		<row row_number="30" isdata="1">ומיבמים את אשתו לא אמרינן הואיל ואישתני אישתני ומ"ד חולצת ולא</row>
+		<row row_number="31" isdata="1">מתייבמת אמרינן הואיל ואישתני אישתני לא דכ"ע אמרינן הואיל ואישתני</row>
+		<row row_number="32" isdata="1">אישתני הא ר"א והא ר"ע ומאן תנא אליבא דר"ע אילימא ר' יהודה הא</row>
+		<row row_number="33" isdata="1">ודאי סריס משוי ליה דתנן רבי יהודה אומר טומטום שנקרע ונמצא זכר</row>
+		<row row_number="34" isdata="1">ה"ז לא יחלוץ מפני שהוא כסריס אלא רבי יוסי ברבי יהודה היא דתניא</row>
+		<row row_number="35" isdata="1">ר' יוסי בר' יהודה אומר טומטום לא חולץ שמא יקרע וימצא סריס חמה</row>
+		<row row_number="36" isdata="1">אטו כל דמיקרע זכר משתכח נקבה לא משתכח שמא קאמר שמא</row>
+		<row row_number="37" isdata="1">יקרע וימצא נקבה א"נ זכר נמי שמא ימצא סריס חמה מאי בינייהו אמר רבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

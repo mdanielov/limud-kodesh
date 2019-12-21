@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:41.402423</dateCreated>
+   <lastModified>2019-12-21 20:30:41.402423</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="60">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContGemara/>ובא אחר ואמר לה הרי את מקודשת לי</row>
+		<row row_number="2" isdata="1">מעכשיו ולאחר עשרה ימים מראשון ומאחרון</row>
+		<row row_number="3" isdata="1">צריכה גט מאמצעי אינה צריכה גט מה</row>
+		<row row_number="4" isdata="1">נפשך אי תנאה הואי דקמא קידושי דהנך</row>
+		<row row_number="5" isdata="1">לאו קידושי אי חזרה הואי דבתרא קידושי</row>
+		<row row_number="6" isdata="1">דהנך לאו קידושי פשיטא מהו דתימא האי</row>
+		<row row_number="7" isdata="1">לישנא משמע תנאה ומשמע חזרה ותיבעי</row>
+		<row row_number="8" isdata="1">גיטא מכל חד וחד קמ"ל עולא אמר רבי</row>
+		<row row_number="9" isdata="1">יוחנן אפי' מאה תופסין בה וכן אמר ר'</row>
+		<row row_number="10" isdata="1">אסי אמר רבי יוחנן אפילו מאה תופסין בה</row>
+		<row row_number="11" isdata="1">אמר ליה רב משרשיא בריה דרב אמי</row>
+		<row row_number="12" isdata="1">לר' אסי אסברה לך טעמא דרבי יוחנן</row>
+		<row row_number="13" isdata="1">שוו נפשיה כי שרגא דליבני דכל חד וחד</row>
+		<row row_number="14" isdata="1">רוחא לחבריה שבק מתיב רב חנינא מהיום</row>
+		<row row_number="15" isdata="1">ולאחר מיתה גט ואינו גט ואם מת חולצת</row>
+		<row row_number="16" isdata="1">ולא מתייבמת בשלמא לרב מסייעא ליה</row>
+		<row row_number="17" isdata="1">לשמואל נמי הא מני רבנן היא ואנן דאמרי</row>
+		<row row_number="18" isdata="1">כרבי אלא לר' יוחנן דאמר שיורא הוי כל</row>
+		<row row_number="19" isdata="1">גיטא דמשייר בה ולא כלום הוא יבומי</row>
+		<row row_number="20" isdata="1">מייבם אמר רבא גט להוציא ומיתה להוציא</row>
+		<row row_number="21" isdata="1">מה ששייר גט גמרתו מיתה אמר ליה אביי</row>
+		<row row_number="22" isdata="1">מי דמי גט מוציאה מרשות יבם מיתה</row>
+		<row row_number="23" isdata="1">מכנסה לרשות יבם אלא אמר אביי התם</row>
+		<row row_number="24" isdata="1">טעמא מאי גזירה משום מהיום אם מתי</row>
+		<row row_number="25" isdata="1">הרי זה גט ונגזור מהיום אם מתי דתחלוץ</row>
+		<row row_number="26" isdata="1">אטו מהיום ולאחר מיתה אם אתה אומר חולצת מתייבמת הכא נמי אם</row>
+		<row row_number="27" isdata="1">אתה אומר חולצת מתייבמת תתייבם ואין בכך כלום חששא דרבנן הוא</row>
+		<row row_number="28" isdata="1"><EndGemara/><StartMishna/>מתני' האומר לאשה הרי את מקודשת לי על מנת שאתן לך מאתים זוז</row>
+		<row row_number="29" isdata="1">הרי זו מקודשת והוא יתן על מנת שאתן לך מכאן ועד ל' יום נתן לה</row>
+		<row row_number="30" isdata="1">בתוך שלשים מקודשת ואם לאו אינה מקודשת ע"מ שיש לי מאתים זוז</row>
+		<row row_number="31" isdata="1">הרי זו מקודשת ויש לו על מנת שאראך מאתים זוז הרי זו מקודשת ויראה</row>
+		<row row_number="32" isdata="1">לה ואם הראה על השלחן אינה מקודשת<EndMishna/><StartGemara/>גמ' איתמר רב הונא אמר</row>
+		<row row_number="33" isdata="1">והוא יתן רב יהודה אמר לכשיתן רב הונא אמר והוא יתן תנאה הוי מקיים</row>
+		<row row_number="34" isdata="1">תנאה ואזיל רב יהודה אמר לכשיתן לכי יהיב הוו קידושי השתא מיהא לא</row>
+		<row row_number="35" isdata="1">הוו קידושי מאי בינייהו איכא בינייהו שפשטה ידה וקבלה קידושין מאחר</row>
+		<row row_number="36" isdata="1">לרב הונא לא הוו קידושי לרב יהודה הוו קידושי ותנן נמי גבי גיטין כי</row>
+		<row row_number="37" isdata="1">האי גוונא האומר לאשה הרי זה גיטך על מנת שתתני לי מאתים זוז הרי</row>
+		<row row_number="38" isdata="1">זו מגורשת והיא תתן איתמר רב הונא אמר והיא תתן רב יהודה אמר</row>
+		<row row_number="39" isdata="1">לכשתתן רב הונא אמר והיא תתן תנאה הוי מקיימא תנאה ואזלה רב</row>
+		<row row_number="40" isdata="1">יהודה אמר לכשתתן לכי יהיבה ליה הוא דהוי גט השתא מיהא לא הוי גט</row>
+</amud>
+</daf>
+</masechet>
+</root>

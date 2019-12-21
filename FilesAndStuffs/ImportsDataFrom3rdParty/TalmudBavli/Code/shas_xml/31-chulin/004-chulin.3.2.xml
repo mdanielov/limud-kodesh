@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:11.492490</dateCreated>
+   <lastModified>2019-12-21 20:32:11.492490</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>בודק סכין ונותן לו ומותר לאכול משחיטתו</row>
+		<row row_number="2" isdata="1">אבל לא בדק ונתן לו לא ישחוט ואם שחט</row>
+		<row row_number="3" isdata="1">בודק סכינו אחריו נמצאת סכינו יפה מותר</row>
+		<row row_number="4" isdata="1">לאכול משחיטתו ואם לאו אסור לאכול</row>
+		<row row_number="5" isdata="1">משחיטתו חוץ מחרש שוטה וקטן דאפילו</row>
+		<row row_number="6" isdata="1">דיעבד נמי לא שמא ישהו שמא ידרסו ושמא</row>
+		<row row_number="7" isdata="1">יחלידו וכולן ששחטו אהייא אילימא אחרש</row>
+		<row row_number="8" isdata="1">שוטה וקטן עלה קאי ואם שחטו מיבעי ליה</row>
+		<row row_number="9" isdata="1">אלא אישראל מומר אי דבדק סכין ונותן לו</row>
+		<row row_number="10" isdata="1">הא אמרת שוחט לכתחלה אלא דלא בדק אי</row>
+		<row row_number="11" isdata="1">דאיתיה לסכין ליבדקיה השתא ואי דליתיה</row>
+		<row row_number="12" isdata="1">לסכין כי אחרים רואין אותו מאי הוי דלמא</row>
+		<row row_number="13" isdata="1">בסכין פגומה שחיט קשיא רבינא אמר הכי</row>
+		<row row_number="14" isdata="1">קתני הכל שוחטין הכל מומחין שוחטין</row>
+		<row row_number="15" isdata="1">מומחין ואע"פ שאין מוחזקין בד"א שיודעין</row>
+		<row row_number="16" isdata="1">בו שיודע לומר הלכות שחיטה אבל אין</row>
+		<row row_number="17" isdata="1">יודעין בו שיודע לומר הלכות שחיטה לא</row>
+		<row row_number="18" isdata="1">ישחוט ואם שחט בודקין אותו אם יודע לומר</row>
+		<row row_number="19" isdata="1">הלכות שחיטה מותר לאכול משחיטתו ואם</row>
+		<row row_number="20" isdata="1">לאו אסור לאכול משחיטתו חוץ מחרש שוטה</row>
+		<row row_number="21" isdata="1">וקטן דאפילו דיעבד נמי לא שמא ישהו שמא</row>
+		<row row_number="22" isdata="1">ידרסו ושמא יחלידו וכולן ששחטו אהייא</row>
+		<row row_number="23" isdata="1">אילימא אחרש שוטה וקטן עלה קאי ואם</row>
+		<row row_number="24" isdata="1">שחטו מבעי ליה אלא אשאין מומחין בבודקין</row>
+		<row row_number="25" isdata="1">אותו סגי דליתיה לקמן דליבדקיה ואיכא</row>
+		<row row_number="26" isdata="1">דאמרי רבינא אמר הכי קתני הכל שוחטין</row>
+		<row row_number="27" isdata="1">הכל מוחזקין שוחטין מוחזקין אע"פ שאין</row>
+		<row row_number="28" isdata="1">מומחין בד"א ששחטו לפנינו ב' וג' פעמים</row>
+		<row row_number="29" isdata="1">ולא נתעלף אבל לא שחט לפנינו ב' וג'</row>
+		<row row_number="30" isdata="1">פעמים לא ישחוט שמא יתעלף ואם שחט</row>
+		<row row_number="31" isdata="1">ואמר ברי לי שלא נתעלפתי שחיטתו כשרה</row>
+		<row row_number="32" isdata="1">חוץ מחרש שוטה וקטן דאפילו דיעבד נמי</row>
+		<row row_number="33" isdata="1">לא שמא ישהו שמא ידרסו ושמא יחלידו</row>
+		<row row_number="34" isdata="1">וכולן ששחטו אהייא אילימא אחרש שוטה</row>
+		<row row_number="35" isdata="1">וקטן עלה קאי ואם שחטו מיבעי ליה אלא</row>
+		<row row_number="36" isdata="1">אשאין מוחזקין והאמרת בברי לי סגי דליתיה</row>
+		<row row_number="37" isdata="1">קמן דלישייליה רבינא ורבה בר עולא כאביי</row>
+		<row row_number="38" isdata="1">ורבא ורב אשי לא אמרי משום דקשיא להו</row>
+		<row row_number="39" isdata="1">וכולן כולהו כרבה בר עולא לא אמרי להך</row>
+		<row row_number="40" isdata="1">לישנא דאמרת הכא עיקר אדרבה התם</row>
+		<row row_number="41" isdata="1">עיקר דבקדשים קאי להך לישנא דאמרת</row>
+		<row row_number="42" isdata="1">התם עיקר והכא איידי דתנא טמא בחולין</row>
+		<row row_number="43" isdata="1">תנא נמי טמא במוקדשין טמא בחולין גופיה</row>
+		<row row_number="44" isdata="1">לא איצטריכא ליה חולין שנעשו על טהרת</row>
+		<row row_number="45" isdata="1">קדש לאו כקדש דמו כולהו כרבינא לא</row>
+		<row row_number="46" isdata="1">אמרי להך לישנא דאמר מומחין אין שאין</row>
+		<row row_number="47" isdata="1">מומחין לא רוב מצויין אצל שחיטה מומחין הן להך לישנא דאמר מוחזקין</row>
+		<row row_number="48" isdata="1">אין שאין מוחזקין לא לעלופי לא חיישינן רבא לא אמר כאביי כי קושייה</row>
+		<row row_number="49" isdata="1">אביי לא אמר כרבא התם לא נגע הכא נגע רב אשי לא אמר כתרוייהו</row>
+		<row row_number="50" isdata="1">קסבר כותים גרי אריות הן אביי לא אמר כרב אשי לא סבירא ליה</row>
+		<row row_number="51" isdata="1">הא דרבא אלא רבא מאי טעמא לא אמר כשמעתיה לדבריו דאביי קאמר</row>
+		<row row_number="52" isdata="1">וליה לא סבירא ליה תנו רבנן שחיטת כותי מותרת במה דברים אמורים</row>
+		<row row_number="53" isdata="1">כשישראל עומד על גביו אבל בא ומצאו ששחט חותך כזית ונותן לו ואכלו</row>
+		<row row_number="54" isdata="1">מותר לאכול משחיטתו ואם לאו אסור לאכול משחיטתו כיוצא בו מצא בידו</row>
+</amud>
+</daf>
+</masechet>
+</root>

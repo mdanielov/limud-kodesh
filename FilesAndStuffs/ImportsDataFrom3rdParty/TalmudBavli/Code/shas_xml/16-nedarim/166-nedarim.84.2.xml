@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:19.277498</dateCreated>
+   <lastModified>2019-12-21 20:30:19.277498</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="84">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContGemara/>וחכ"א קורא שם ואין צריך להפריש מאי</row>
+		<row row_number="2" isdata="1">לאו למ"ד ספקו טובל קסבר אית ליה</row>
+		<row row_number="3" isdata="1">טובת הנאה וכיון דאית ליה טובת הנאה לא</row>
+		<row row_number="4" isdata="1">מהניא ולמאן דאמר [אינו] קורא שם קסבר</row>
+		<row row_number="5" isdata="1">ספקו אינו טובל וכל שספקו אינו טובל</row>
+		<row row_number="6" isdata="1">לית ליה טובת הנאה ושרי ליה לאיתהנויי</row>
+		<row row_number="7" isdata="1">אמר ליה אביי דכ"ע ספקו טובל ור' אליעזר</row>
+		<row row_number="8" isdata="1">ורבנן בהא קמיפלגי רבי אליעזר סבר לא</row>
+		<row row_number="9" isdata="1">נחשדו עמי הארץ על מעשר עני כיון דאילו</row>
+		<row row_number="10" isdata="1">מפקר נכסיה והוי עני ושקל ליה הוא לית</row>
+		<row row_number="11" isdata="1">ליה פסידא ורבנן סברי נכסיה לא מפקר</row>
+		<row row_number="12" isdata="1">איניש דמירתת דלמא זכי בהו איניש אחרינא</row>
+		<row row_number="13" isdata="1">הלכך נחשדו רבא אומר כאן במעשר עני</row>
+		<row row_number="14" isdata="1">המתחלק בתוך הבית דכתיבא ביה נתינה</row>
+		<row row_number="15" isdata="1">ונתת ללוי לגר וגו' מש"ה אסור ליה</row>
+		<row row_number="16" isdata="1">לאיתהנויי כאן במעשר עני המתחלק בתוך</row>
+		<row row_number="17" isdata="1">הגרנות כיון דכתיב ביה והנחת בשעריך שרי</row>
+		<row row_number="18" isdata="1">ליה לאיתהנויי כהנים ולוים נהנין לי יטלו</row>
+		<row row_number="19" isdata="1">כו' אלמא טובת הנאה אינה ממון אימא</row>
+		<row row_number="20" isdata="1">סיפא כהנים אלו ולוים אלו נהנין לי יטלו</row>
+		<row row_number="21" isdata="1">אחרים אבל להני לא אלמא טובת הנאה</row>
+		<row row_number="22" isdata="1">ממון אמר רב הושעיא לא קשיא הא רבי</row>
+		<row row_number="23" isdata="1">והא ר' יוסי ב"ר יהודה דתניא הגונב טבלו</row>
+		<row row_number="24" isdata="1">של חבירו ואכלו משלם לו דמי טבלו דברי</row>
+		<row row_number="25" isdata="1">רבי רבי יוסי בר"י אומר אינו משלם אלא</row>
+		<row row_number="26" isdata="1">דמי חולין שבו מאי לאו בהא קמיפלגי</row>
+</amud>
+</daf>
+</masechet>
+</root>

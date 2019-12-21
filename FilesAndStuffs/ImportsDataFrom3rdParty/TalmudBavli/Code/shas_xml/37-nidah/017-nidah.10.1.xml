@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:44.386361</dateCreated>
+   <lastModified>2019-12-21 20:32:44.386361</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="10">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שמאי אומר"/><ContGemara/>הדר קחזיא בעונות מאי אמר רב גידל אמר</row>
+		<row row_number="2" isdata="1">רב פעם ראשונה ושניה דיה שעתה שלישית</row>
+		<row row_number="3" isdata="1">מטמאה מעת לעת ומפקידה לפקידה ועוד</row>
+		<row row_number="4" isdata="1">עברו עליה ג' עונות וראתה דיה שעתה הדר</row>
+		<row row_number="5" isdata="1">קחזיא בעונות מאי אמר רב כהנא אמר רב</row>
+		<row row_number="6" isdata="1">גידל אמר רב פעם ראשונה דיה שעתה</row>
+		<row row_number="7" isdata="1">שניה מטמאה מעת לעת ומפקידה לפקידה</row>
+		<row row_number="8" isdata="1">מני רבי היא דאמר בתרי זימני הוי חזקה</row>
+		<row row_number="9" isdata="1">אימא סיפא עברו עליה ג' עונות וראתה דיה</row>
+		<row row_number="10" isdata="1">שעתה אתאן לר"א וכי תימא רבי היא</row>
+		<row row_number="11" isdata="1">ובעונות סבר לה כר"א ומי סבר לה והא</row>
+		<row row_number="12" isdata="1">לאחר שנזכר קאמר אלא ר"א היא ובוסתות</row>
+		<row row_number="13" isdata="1">סבר לה כרבי כתם שבין ראשונה ושניה</row>
+		<row row_number="14" isdata="1">טהור שבין שניה ושלישית חזקיה אמר</row>
+		<row row_number="15" isdata="1">טמא רבי יוחנן אמר טהור חזקיה אמר</row>
+		<row row_number="16" isdata="1">טמא כיון דאילו חזיא מטמאה כתמה נמי</row>
+		<row row_number="17" isdata="1">טמא ורבי יוחנן אמר טהור כיון דלא</row>
+		<row row_number="18" isdata="1">אתחזקה בדם כתמה נמי לא מטמינן לה</row>
+</amud>
+</daf>
+</masechet>
+</root>

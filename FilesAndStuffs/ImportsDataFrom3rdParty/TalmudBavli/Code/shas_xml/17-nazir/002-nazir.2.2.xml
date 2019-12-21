@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:19.907488</dateCreated>
+   <lastModified>2019-12-21 20:30:19.907488</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="2">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContGemara/>גבי יש נוחלין נמי מפרש עיקר נחלה ברישא</row>
+		<row row_number="2" isdata="1">אלא [הכא] לפרוש כינויי ברישא אלא היינו</row>
+		<row row_number="3" isdata="1">טעם ידות הואיל ואתיין ליה מדרשא חביבין</row>
+		<row row_number="4" isdata="1">ליה וליפתח בהון ברישא תנא כי מתחיל</row>
+		<row row_number="5" isdata="1">מתחיל בעיקר קרבן ולענין פירושי מפרש</row>
+		<row row_number="6" isdata="1">ידות ברישא האומר אהא הרי זה נזיר דלמא</row>
+		<row row_number="7" isdata="1">אהא בתענית קאמר אמר שמואל כגון שהיה</row>
+		<row row_number="8" isdata="1">נזיר עובר לפניו לימא קסבר שמואל ידים</row>
+		<row row_number="9" isdata="1">שאינן מוכיחות לא הוויין ידים אמרי</row>
+		<row row_number="10" isdata="1">בזמן שנזיר עובר לפניו ליכא לספוקא</row>
+		<row row_number="11" isdata="1">במילתא אחרינא אבל ודאי אין הנזיר</row>
+		<row row_number="12" isdata="1">עובר לפניו אמרינן דלמא אהא בתענית</row>
+		<row row_number="13" isdata="1">קאמר ודלמא לפוטרו מן קרבנותיו קאמר</row>
+		<row row_number="14" isdata="1">דקאמר בלבו אי הכי מאי למימרא מהו</row>
+		<row row_number="15" isdata="1">דתימא בעינן פיו ולבו שוין קמ"ל אהא נאה</row>
+		<row row_number="16" isdata="1">נזיר ודלמא אנאה לפניו במצות כדתניא</row>
+		<row row_number="17" isdata="1">זה אלי ואנוהו אנאה לפניו במצות אעשה</row>
+		<row row_number="18" isdata="1">לפניו סוכה נאה לולב נאה ציצית נאה אכתוב</row>
+		<row row_number="19" isdata="1">לפניו ספר תורה נאה ואכרכנו בשיראין</row>
+		<row row_number="20" isdata="1">נאים אמר שמואל שתפוס בשערו ואמר</row>
+		<row row_number="21" isdata="1">אנאה נזירא מילתא דעבירה ואמרי' ליה נאה</row>
+</amud>
+</daf>
+</masechet>
+</root>

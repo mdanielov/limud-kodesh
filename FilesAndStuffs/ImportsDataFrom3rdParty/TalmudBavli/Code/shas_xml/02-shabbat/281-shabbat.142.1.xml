@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:51.454541</dateCreated>
+   <lastModified>2019-12-21 20:28:51.454541</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="142">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "נוטל אדם את בנו"/><ContGemara/>מאי איריא אבן אפילו דינר נמי אלמה אמר</row>
+		<row row_number="2" isdata="1">רבא לא שנו אלא אבן אבל דינר אסור</row>
+		<row row_number="3" isdata="1">אבן אי נפלה לה לא אתי אבוה לאיתויי</row>
+		<row row_number="4" isdata="1">דינר אי נפיל אתי אבוה לאתויי תניא כוותיה</row>
+		<row row_number="5" isdata="1">דרבא המוציא כליו מקופלים ומונחים על</row>
+		<row row_number="6" isdata="1">כתפו וסנדליו וטבעותיו בידו חייב ואם היה</row>
+		<row row_number="7" isdata="1">מלובש בהן פטור המוציא אדם וכליו עליו</row>
+		<row row_number="8" isdata="1">וסנדליו ברגליו וטבעותיו בידיו פטור ואילו</row>
+		<row row_number="9" isdata="1">הוציאן כמות שהן חייב כלכלה והאבן</row>
+		<row row_number="10" isdata="1">בתוכה ואמאי תיהוי כלכלה בסיס לדבר</row>
+		<row row_number="11" isdata="1">האסור אמר רבה בר בר חנה אמר ר' יוחנן</row>
+		<row row_number="12" isdata="1">הכא בכלכלה מלאה פירות עסקינן</row>
+		<row row_number="13" isdata="1">ולישדינהו לפירי ונישדי לאבן ונינקטינהו</row>
+		<row row_number="14" isdata="1">בידים כדרבי אלעי אמר רב בפירות</row>
+		<row row_number="15" isdata="1">המיטנפין ה"נ בפירות המיטנפין ולינערינהו</row>
+		<row row_number="16" isdata="1">נעורי אמר רב חייא בר אשי אמר רבא הכא</row>
+		<row row_number="17" isdata="1">בכלכלה פחותה עסקינן דאבן גופה נעשית</row>
+		<row row_number="18" isdata="1">דופן לכלכלה מטלטלין תרומה וכו' אמר</row>
+		<row row_number="19" isdata="1">רב חסדא לא שנו אלא שטהורה למטה</row>
+		<row row_number="20" isdata="1">וטמאה למעלה אבל טהורה למעלה וטמאה</row>
+		<row row_number="21" isdata="1">למטה שקיל ליה לטהורה ושביק ליה</row>
+		<row row_number="22" isdata="1">לטמאה וכי טהורה למטה נמי לישדינהו</row>
+		<row row_number="23" isdata="1">ולינקטינהו אמר רבי אלעי אמר רב בפירות</row>
+		<row row_number="24" isdata="1">המיטנפין עסקינן מיתיבי מטלטלין תרומה</row>
+		<row row_number="25" isdata="1">טמאה עם הטהורה ועם החולין בין שטהורה</row>
+		<row row_number="26" isdata="1">למעלה וטמאה למטה בין שטמאה למעלה</row>
+		<row row_number="27" isdata="1">וטהורה למטה תיובתא דרב חסדא אמר</row>
+		<row row_number="28" isdata="1">לך רב חסדא מתניתין לצורך גופו ברייתא</row>
+		<row row_number="29" isdata="1">לצורך מקומו מאי דוחקיה דרב חסדא</row>
+		<row row_number="30" isdata="1">לאוקמי מתניתין לצורך גופו אמר רבא</row>
+		<row row_number="31" isdata="1"><EndGemara/><StartMishna/>מתני' כוותיה דייקא דקתני סיפא מעות שעל</row>
+		<row row_number="32" isdata="1">הכר מנער את הכר והן נופלות ואמר רבה</row>
+		<row row_number="33" isdata="1">בר בר חנה אמר רבי יוחנן לא שנו אלא</row>
+		<row row_number="34" isdata="1">לצורך גופו אבל לצורך מקומו מטלטלו</row>
+		<row row_number="35" isdata="1">ועודן עליו ומדסיפא לצורך גופו רישא נמי</row>
+		<row row_number="36" isdata="1">לצורך גופו רבי יהודה אומר אף מעלין</row>
+		<row row_number="37" isdata="1">וכו' ואמאי הא קא מתקן רבי יהודה כר'</row>
+		<row row_number="38" isdata="1">אליעזר סבירא ליה דאמר תרומה בעינא</row>
+		<row row_number="39" isdata="1">מחתא דתנן סאה תרומה שנפלה לפחות</row>
+		<row row_number="40" isdata="1">ממאה ונדמעו ונפל מן המדומע למקום אחר</row>
+		<row row_number="41" isdata="1">רבי אליעזר אומר מדמעת כתרומת ודאי</row>
+		<row row_number="42" isdata="1">וחכמים אומרים אין המדומע מדמע אלא</row>
+		<row row_number="43" isdata="1">לפי חשבון אימר דשמעת ליה לחומרא</row>
+		<row row_number="44" isdata="1">לקולא מי שמעת ליה אלא הוא דאמר</row>
+		<row row_number="45" isdata="1">כר"ש כדתנן סאה תרומה שנפלה למאה</row>
+		<row row_number="46" isdata="1">ולא הספיק להגביה עד שנפלה אחרת הרי</row>
+		<row row_number="47" isdata="1">זו אסורה ור"ש מתיר וממאי דילמא התם</row>
+		<row row_number="48" isdata="1">בהא קמיפלגי דתנא קמא סבר אע"ג דנפלו</row>
+		<row row_number="49" isdata="1">בזה אחר זה כמאן דנפל בבת אחת דמי</row>
+		<row row_number="50" isdata="1">והא לחמשין נפלה והא לחמשין נפלה ור"ש</row>
+		<row row_number="51" isdata="1">סבר קמייתא בטיל במאה והא תיבטיל</row>
+		<row row_number="52" isdata="1">במאה וחד אלא הוא דאמר כרבי</row>
+		<row row_number="53" isdata="1">שמעון בן אלעזר דתניא ר' שמעון בן</row>
+		<row row_number="54" isdata="1">אלעזר אומר נותן עיניו בצד זה ואוכל מצד אחר ומי סבר ליה כוותיה</row>
+</amud>
+</daf>
+</masechet>
+</root>

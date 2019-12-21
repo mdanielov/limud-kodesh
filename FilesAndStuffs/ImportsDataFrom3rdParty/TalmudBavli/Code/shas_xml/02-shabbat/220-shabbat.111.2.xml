@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:48.435537</dateCreated>
+   <lastModified>2019-12-21 20:28:48.435537</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="111">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שמנה שרצים"/><ContGemara/>אסור להדוקיה ביומא טבא בההיא אפילו</row>
+		<row row_number="2" isdata="1">ר"ש מודה דאביי ורבא דאמרי תרווייהו</row>
+		<row row_number="3" isdata="1">מודה ר"ש בפסיק רישיה ולא ימות והאמר</row>
+		<row row_number="4" isdata="1">רב חייא בר אשי אמר רב הלכה כר'</row>
+		<row row_number="5" isdata="1">יהודה ורב חנן בר אמי אמר שמואל הלכה</row>
+		<row row_number="6" isdata="1">כר"ש ורב חייא בר אבין מתני לה בלא</row>
+		<row row_number="7" isdata="1">גברי רב אמר הלכה כר' יהודה ושמואל</row>
+		<row row_number="8" isdata="1">אמר הלכה כר"ש אלא אמר רבא אני וארי</row>
+		<row row_number="9" isdata="1">שבחבורה תרגימנא ומנו רבי חייא בר אבין</row>
+		<row row_number="10" isdata="1">הלכה כר"ש ולאו מטעמיה מאי הלכה כר'</row>
+		<row row_number="11" isdata="1">שמעון ולאו מטעמיה אילימא הלכה כר"ש</row>
+		<row row_number="12" isdata="1">דשרי ולאו מטעמיה דאילו ר"ש סבר מסי</row>
+		<row row_number="13" isdata="1">ורב סבר לא מסי וסבר רב לא מסי והא</row>
+		<row row_number="14" isdata="1">מדקתני בני מלכים סכין על גבי מכותיהן</row>
+		<row row_number="15" isdata="1">שמן וורד מכלל דמסי אלא הלכה כר"ש</row>
+		<row row_number="16" isdata="1">דשרי ולאו מטעמיה דאילו ר"ש סבר אף</row>
+		<row row_number="17" isdata="1">ע"ג דלא שכיח שרי ורב סבר אי שכיח</row>
+		<row row_number="18" isdata="1">אין ואי לא שכיח לא ובאתרא דרב שכיח</row>
+		<row row_number="19" isdata="1">משחא דוורדא<EndChapter name = "שמנה שרצים"/><EndGemara/></row>
+		<row row_number="20" isdata="0">הדרן עלך שמנה שרצים</row>
+		<row row_number="21" isdata="1"><StartChapter name = "ואלו קשרים"/><StartMishna/>ואלו קשרים שחייבין עליהן קשר הגמלין</row>
+		<row row_number="22" isdata="1">וקשר הספנין וכשם שהוא חייב על</row>
+		<row row_number="23" isdata="1">קישורן כך הוא חייב על היתרן ר"מ אומר</row>
+		<row row_number="24" isdata="1">כל קשר שהוא יכול להתירו באחת מידיו אין</row>
+		<row row_number="25" isdata="1">חייבין עליו<EndMishna/><StartGemara/>גמ' מאי קשר הגמלין וקשר</row>
+		<row row_number="26" isdata="1">הספנין אילימא קטרא דקטרי בזממא וקטרא</row>
+		<row row_number="27" isdata="1">דקטרי באיסטרידא האי קשר שאינו של</row>
+		<row row_number="28" isdata="1">קיימא הוא אלא קיטרא דזממא גופיה</row>
+		<row row_number="29" isdata="1">ודאיסטרידא גופה ר"מ אומר כל קשר כו'</row>
+		<row row_number="30" isdata="1">בעי רב אחדבוי אחוי דמר אחא עניבה</row>
+		<row row_number="31" isdata="1">לר"מ מהו טעמיה דר"מ משום דיכול</row>
+		<row row_number="32" isdata="1">להתירו באחת מידיו הוא והא נמי יכול</row>
+		<row row_number="33" isdata="1">להתירו או דילמא טעמא דר"מ משום דלא</row>
+		<row row_number="34" isdata="1">מיהדק והא מיהדק תיקומתני' יש</row>
+		<row row_number="35" isdata="1">לך קשרין שאין חייבין עליהן כקשר</row>
+		<row row_number="36" isdata="1">הגמלין וכקשר הספנין קושרת אשה מפתח</row>
+		<row row_number="37" isdata="1">חלוקה וחוטי סבכה ושל פסקיא ורצועות</row>
+		<row row_number="38" isdata="1">מנעל וסנדל ונודות יין ושמן וקדירה של</row>
+		<row row_number="39" isdata="1">בשר ראב"י אומר קושרין לפני הבהמה</row>
+		<row row_number="40" isdata="1">בשביל שלא תצא<EndMishna/><StartGemara/>גמ' הא גופא קשיא</row>
+		<row row_number="41" isdata="1">אמרת יש קשרין שאין חייבין עליהן</row>
+		<row row_number="42" isdata="1">כקשר הגמלין וכקשר הספנין חיובא הוא</row>
+		<row row_number="43" isdata="1">דליכא הא איסורא איכא והדר תני קושרת</row>
+		<row row_number="44" isdata="1">אשה מפתח חלוקה אפילו לכתחילה הכי</row>
+		<row row_number="45" isdata="1">קאמר יש קשרין שאין חייבין עליהן</row>
+		<row row_number="46" isdata="1">כקשר הגמלין וכקשר הספנין ומאי ניהו</row>
+</amud>
+</daf>
+</masechet>
+</root>

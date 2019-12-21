@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:42.642366</dateCreated>
+   <lastModified>2019-12-21 20:32:42.642366</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="13">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ולד חטאת"/><ContMishna/>מתני' שרשי אילן [של] הדיוט הבאין בשל<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">הקדש ושל הקדש שבאין בשל הדיוט לא נהנין</row>
+		<row row_number="3" isdata="1">ולא מועלין מעין שהוא יוצא מתוך השדה</row>
+		<row row_number="4" isdata="1">של הקדש לא נהנין ולא מועלין יצא חוץ לשדה</row>
+		<row row_number="5" isdata="1">נהנין ממנו המים שבכד של זהב לא נהנין ולא</row>
+		<row row_number="6" isdata="1">מועלין נתנן בצלוחית מועלין בהן ערבה לא</row>
+		<row row_number="7" isdata="1">נהנין ולא מועלין ר"א ברבי צדוק אומר נוהגין</row>
+		<row row_number="8" isdata="1">היו הזקנים שנהנים ממנו בלולביהן</row>
+		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' אמר ר"ל אין מועלין בכולן אבל מועלין</row>
+		<row row_number="10" isdata="1">בשלש לוגין והקתני סיפא נתנו לצלוחית</row>
+		<row row_number="11" isdata="1">מועלין בהן מכלל דרישא אפילו בשלשת לוגין</row>
+		<row row_number="12" isdata="1">נמי לא אלא אי איתמר אסיפא איתמר מועלין</row>
+		<row row_number="13" isdata="1">בהן אמר ר"ל אין מועלין אלא בג' לוגין ורבי</row>
+		<row row_number="14" isdata="1">יוחנן אמר מועלין בכולן למימרא דקסבר ר"ל</row>
+		<row row_number="15" isdata="1">יש שיעור למים והתנן אמר ר"א המנסך מי</row>
+		<row row_number="16" isdata="1">חג בחג בחוץ חייב ואמר רבי יוחנן משום</row>
+		<row row_number="17" isdata="1">מנחם יודאפה ר"א בשיטת ר"ע אמר דדריש</row>
+		<row row_number="18" isdata="1">נסכיהם אחד ניסוך המים ואחד ניסוך היין</row>
+		<row row_number="19" isdata="1">ואמר ריש לקיש אי מה יין שלש לוגין אף</row>
+		<row row_number="20" isdata="1">מים שלש לוגין מכלל דסבר ריש לקיש אין</row>
+		<row row_number="21" isdata="1">שיעור למים לטעמא דמנחם יודאפה קאמר</row>
+		<row row_number="22" isdata="1"><EndGemara/><StartMishna/>מתני' הקן שבראש האילן של הקדש</row>
+		<row row_number="23" isdata="1">לא נהנין ולא מועלין שבאשירה יתיז בקנה</row>
+		<row row_number="24" isdata="1">המקדיש את החורש מועלין בכולו<EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

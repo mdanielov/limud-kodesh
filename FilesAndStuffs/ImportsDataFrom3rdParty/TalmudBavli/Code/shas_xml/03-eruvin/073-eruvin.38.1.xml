@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:56.415416</dateCreated>
+   <lastModified>2019-12-21 20:28:56.415416</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="38">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>אי אתה מודה שמא יבקע הנוד ונמצא שותה</row>
+		<row row_number="2" isdata="1">טבלים למפרע אמר להן לכשיבקעמתני'</row>
+		<row row_number="3" isdata="1">רבי אליעזר אומר יו"ט הסמוך לשבת בין</row>
+		<row row_number="4" isdata="1">מלפניה ובין מלאחריה מערב אדם שני</row>
+		<row row_number="5" isdata="1">עירובין ואומר עירובי בראשון למזרח ובשני</row>
+		<row row_number="6" isdata="1">למערב בראשון למערב ובשני למזרח</row>
+		<row row_number="7" isdata="1">עירובי בראשון ובשני כבני עירי עירובי בשני</row>
+		<row row_number="8" isdata="1">ובראשון כבני עירי וחכ"א או מערב לרוח</row>
+		<row row_number="9" isdata="1">אחת או אינו מערב כל עיקר או מערב לשני</row>
+		<row row_number="10" isdata="1">ימים או אינו מערב כל עיקר כיצד יעשה</row>
+		<row row_number="11" isdata="1">מוליכו בראשון ומחשיך עליו ונוטלו ובא</row>
+		<row row_number="12" isdata="1">לו בשני מחשיך עליו ואוכלו ובא לו ונמצא</row>
+		<row row_number="13" isdata="1">משתכר בהליכתו ומשתכר בעירובו נאכל</row>
+		<row row_number="14" isdata="1">בראשון עירובו לראשון ואין עירובו לשני</row>
+		<row row_number="15" isdata="1">אמר (להן) ר' אליעזר מודים אתם לי שהן</row>
+		<row row_number="16" isdata="1">שתי קדושות<EndMishna/><StartGemara/>גמ' לרוח אחת מאי ניהו</row>
+		<row row_number="17" isdata="1">לשני ימים לשני ימים מאי ניהו לרוח אחת</row>
+		<row row_number="18" isdata="1">היינו קמייתא הכי קאמרי ליה רבנן לר'</row>
+		<row row_number="19" isdata="1">אליעזר אי אתה מודה שאין מערבין ליום</row>
+		<row row_number="20" isdata="1">אחד חציו לצפון וחציו לדרום אמר להן אבל</row>
+		<row row_number="21" isdata="1">כשם שאין מערבין ליום אחד חציו לדרום</row>
+		<row row_number="22" isdata="1">וחציו לצפון כך אין מערבין לשני ימים יום</row>
+		<row row_number="23" isdata="1">אחד למזרח ויום אחד למערב ור"א התם</row>
+		<row row_number="24" isdata="1">קדושה אחת הכא ב' קדושות אמר להן ר"א</row>
+		<row row_number="25" isdata="1">אי אתם מודים שאם עירב ברגליו ביום ראשון</row>
+		<row row_number="26" isdata="1">מערב ברגליו ביום שני נאכל עירובו ביום</row>
+		<row row_number="27" isdata="1">ראשון אין יוצא עליו ביום שני אמרו לו אבל</row>
+		<row row_number="28" isdata="1">הא לאיי ב' קדושות הן ורבנן ספוקי מספקא</row>
+		<row row_number="29" isdata="1">להו והכא לחומרא והכא לחומרא אמרו לו</row>
+		<row row_number="30" isdata="1">לרבי אליעזר אי אתה מודה שאין מערבין</row>
+		<row row_number="31" isdata="1">בתחילה מיו"ט לשבת אמר להן אבל הא לאיי</row>
+		<row row_number="32" isdata="1">קדושה אחת היא ורבי אליעזר התם משום</row>
+		<row row_number="33" isdata="1">הכנה ת"ר עירב ברגליו ביום ראשון מערב</row>
+		<row row_number="34" isdata="1">ברגליו ביום שני נאכל עירובו ביום ראשון אין</row>
+		<row row_number="35" isdata="1">יוצא עליו ביום שני דברי רבי ר' יהודה אומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

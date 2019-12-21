@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:19.396497</dateCreated>
+   <lastModified>2019-12-21 20:30:19.396497</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="86">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContGemara/>אמר ר' אילא ומה אילו אומר לחבירו שדה</row>
+		<row row_number="2" isdata="1">זו שאני מוכר לך לכשאקחנה ממך תקדיש</row>
+		<row row_number="3" isdata="1">מי לא קדשה מתקיף לה ר' ירמיה מי דמי</row>
+		<row row_number="4" isdata="1">שדה זו שאני מוכר לך השתא בידיה היא</row>
+		<row row_number="5" isdata="1">אשה בידה להקדיש מעשה ידיה הא לא דמי</row>
+		<row row_number="6" isdata="1">אלא לאומר לחבירו שדה זו שמכרתי לך</row>
+		<row row_number="7" isdata="1">לכשאקחנה ממך תקדיש מי קדשה מתקיף</row>
+		<row row_number="8" isdata="1">לה רב פפא מי דמי גבי זבינא פסיקא</row>
+		<row row_number="9" isdata="1">מילתייהו גבי אשה מי פסיקא מילתא הא לא</row>
+		<row row_number="10" isdata="1">דמי אלא לאומר לחבירו שדה זו שמשכנתי</row>
+		<row row_number="11" isdata="1">לך לכשאפדנה ממך תקדיש מי לא קדשה</row>
+		<row row_number="12" isdata="1">מתקיף לה רב שישא בריה דרב אידי מי דמי</row>
+		<row row_number="13" isdata="1">שדה בידו לפדותו אשה בידה להתגרש הא</row>
+		<row row_number="14" isdata="1">לא דמיא אלא לאומר לחבירו שדה זו</row>
+		<row row_number="15" isdata="1">שמשכנתי לך לעשר שנים לכשאפדנה ממך</row>
+		<row row_number="16" isdata="1">תקדיש מי לא קדשה מתקיף לה רב אשי</row>
+		<row row_number="17" isdata="1">מי דמי התם קיץ אשה מי אית לה קיצותא</row>
+</amud>
+</daf>
+</masechet>
+</root>

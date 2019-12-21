@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:21.033924</dateCreated>
+   <lastModified>2019-12-21 20:32:21.033924</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="88">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כסוי הדם"/><ContGemara/>ואלו ואלו אין מטמאין ושאר כל הטמאין</row>
+		<row row_number="2" isdata="1">בין קלין בין חמורין משקין היוצאין מהן</row>
+		<row row_number="3" isdata="1">כמשקה הנוגע בהן ואלו ואלו תחלה חוץ</row>
+		<row row_number="4" isdata="1">מן המשקה שהוא אב הטומאה מאי קלין</row>
+		<row row_number="5" isdata="1">ומאי חמורין מאי לאו קלין שרץ וזב</row>
+		<row row_number="6" isdata="1">וחמורין מת לא קלין שרץ וחמורין זב מאי</row>
+		<row row_number="7" isdata="1">שנא זב דגזרו ביה רבנן ומאי שנא מת</row>
+		<row row_number="8" isdata="1">דלא גזרו ביה רבנן זב דלא בדילי אינשי</row>
+		<row row_number="9" isdata="1">מיניה גזרו ביה רבנן מת דבדילי אינשי</row>
+		<row row_number="10" isdata="1">מיניה לא גזרו ביה רבנן דם הניתז ושעל</row>
+		<row row_number="11" isdata="1">הסכין [וכו'] תנו רבנן וכסהו מלמד שדם</row>
+		<row row_number="12" isdata="1">הניתז ושעל הסכין חייב לכסות אמר רבי</row>
+		<row row_number="13" isdata="1">יהודה אימתי בזמן שאין שם דם אלא הוא</row>
+		<row row_number="14" isdata="1">אבל יש שם דם שלא הוא פטור מלכסות</row>
+		<row row_number="15" isdata="1">תניא אידך וכסהו מלמד שכל דמו חייב</row>
+		<row row_number="16" isdata="1">לכסות מכאן אמרו דם הניתז ושעל אגפיים</row>
+		<row row_number="17" isdata="1">חייב לכסות אמר רבן שמעון בן גמליאל</row>
+		<row row_number="18" isdata="1">במה דברים אמורים שלא כסה דם הנפש</row>
+		<row row_number="19" isdata="1">אבל כסה דם הנפש פטור מלכסות במאי קא</row>
+		<row row_number="20" isdata="1">מיפלגי רבנן סברי דמו כל דמו ר' יהודה</row>
+		<row row_number="21" isdata="1">סבר דמו ואפילו מקצת דמו ורשב"ג סבר דמו</row>
+		<row row_number="22" isdata="1">המיוחדמתני' במה מכסין ובמה אין</row>
+		<row row_number="23" isdata="1">מכסין מכסין בזבל הדק ובחול הדק בסיד</row>
+		<row row_number="24" isdata="1">ובחרסית ובלבנה ובמגופה שכתשן אבל</row>
+		<row row_number="25" isdata="1">אין מכסין לא בזבל הגס ולא בחול הגס ולא</row>
+		<row row_number="26" isdata="1">בלבנה ובמגופה שלא כתשן ולא יכפה עליו</row>
+		<row row_number="27" isdata="1">את הכלי כלל אמר רשב"ג דבר שמגדל בו</row>
+		<row row_number="28" isdata="1">צמחים מכסין בו ושאינו מגדל צמחים אין</row>
+		<row row_number="29" isdata="1">מכסין בו<EndMishna/><StartGemara/>גמ' היכי דמי חול הדק אמר</row>
+		<row row_number="30" isdata="1">רבה בר בר חנה אמר רבי יוחנן כל שאין</row>
+		<row row_number="31" isdata="1">היוצר צריך לכתשו ואיכא דמתני לה אסיפא</row>
+		<row row_number="32" isdata="1">אבל אין מכסין לא בזבל הגס ולא בחול הגס</row>
+		<row row_number="33" isdata="1">היכי דמי חול הגס אמר רבה בר בר חנה</row>
+		<row row_number="34" isdata="1">אמר ר' יוחנן כל שהיוצר צריך לכתשו מאי</row>
+		<row row_number="35" isdata="1">בינייהו איכא בינייהו דצריך ולא צריך</row>
+		<row row_number="36" isdata="1">דמיפריך איפרוכי תנו רבנן וכסהו יכול</row>
+		<row row_number="37" isdata="1">יכסנו באבנים או יכפה עליו את הכלי</row>
+		<row row_number="38" isdata="1">תלמוד לומר בעפר ואין לי אלא עפר</row>
+		<row row_number="39" isdata="1">מנין לרבות זבל הדק וחול הדק ושחיקת</row>
+		<row row_number="40" isdata="1">אבנים ושחיקת חרסית ונעורת פשתן דקה</row>
+</amud>
+</daf>
+</masechet>
+</root>

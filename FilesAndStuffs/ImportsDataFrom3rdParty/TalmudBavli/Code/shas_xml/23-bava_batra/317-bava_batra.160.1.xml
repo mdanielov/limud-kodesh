@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:21.199720</dateCreated>
+   <lastModified>2019-12-21 20:31:21.199720</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="160">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "גט פשוט "/><StartMishna/><ContChapter name = "גט פשוט "/><ContMishna/>גט פשוט עדיו מתוכו מקושר עדיו מאחוריו</row>
+		<row row_number="2" isdata="1">פשוט שכתבו עדיו מאחוריו מקושר</row>
+		<row row_number="3" isdata="1">שכתבו עדיו מתוכו שניהם פסולין רבי</row>
+		<row row_number="4" isdata="1">חנינא בן גמליאל אומר מקושר שכתבו עדיו</row>
+		<row row_number="5" isdata="1">מתוכו כשר מפני שיכול לעשותו פשוט</row>
+		<row row_number="6" isdata="1">רבן שמעון בן גמליאל אומר הכל כמנהג</row>
+		<row row_number="7" isdata="1">המדינה גט פשוט עדיו בשנים ומקושר</row>
+		<row row_number="8" isdata="1">בשלשה פשוט שכתב בו עד אחד ומקושר</row>
+		<row row_number="9" isdata="1">שכתב בו שני עדים שניהם פסולין<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="10" isdata="1">מנהני מילי אמר ר' חנינא דאמר קרא</row>
+		<row row_number="11" isdata="1">שדות בכסף יקנו וכתוב בספר וחתום והעד</row>
+		<row row_number="12" isdata="1">עדים שדות בכסף יקנו וכתוב בספר</row>
+</amud>
+</daf>
+</masechet>
+</root>

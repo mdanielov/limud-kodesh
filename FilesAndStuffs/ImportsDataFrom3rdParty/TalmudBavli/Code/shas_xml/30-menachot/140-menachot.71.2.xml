@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:07.691912</dateCreated>
+   <lastModified>2019-12-21 20:32:07.691912</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="71">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>מתירין גמזיות של הקדש של חרוב ושל</row>
+		<row row_number="2" isdata="1">שקמה ופורצין פרצות בגנותיהן ובפרדסותיהן</row>
+		<row row_number="3" isdata="1">כדי להאכיל נשר לעניים בשני בצורת בשבתו'</row>
+		<row row_number="4" isdata="1">ובימים טובים ונותנין פאה לירק ומיחו בידם</row>
+		<row row_number="5" isdata="1">וליטעמיך ששה שבעה הוו אלא סמי</row>
+		<row row_number="6" isdata="1">מכאן קצירה קוצר לשחת ומאכיל לבהמה</row>
+		<row row_number="7" isdata="1">תנן התם ואלו מפסיקין לפאה הנחל</row>
+		<row row_number="8" isdata="1">והשלולית ודרך היחיד ודרך הרבים ושביל</row>
+		<row row_number="9" isdata="1">הרבים ושביל היחיד הקבוע בימות החמה</row>
+		<row row_number="10" isdata="1">ובימות הגשמים והבור והניר וזרע אחר</row>
+		<row row_number="11" isdata="1">וקוצר לשחת מפסיק דברי רבי מאיר וחכמים</row>
+		<row row_number="12" isdata="1">אומרים אין מפסיק אלא א"כ חרש אמר</row>
+		<row row_number="13" isdata="1">רבה בר בר חנה אמר ר' יוחנן ר' מאיר</row>
+		<row row_number="14" isdata="1">בשיטת ר"ש אמרה דאמר יקצור ויאכיל אף</row>
+		<row row_number="15" isdata="1">משהביאה שליש אלמא קסבר כל לשחת</row>
+		<row row_number="16" isdata="1">לאו קצירה היא יתיב רבה וקאמר לה להא</row>
+		<row row_number="17" isdata="1">שמעתא איתיביה רב אחא בר הונא לרבא</row>
+		<row row_number="18" isdata="1">אכלה חגב קרסמוה נמלים שברתהו הרוח</row>
+		<row row_number="19" isdata="1">הכל מודים חרש מפסיק לא חרש אינו מפסיק</row>
+		<row row_number="20" isdata="1">הכל מודים מאן רבי מאיר אי אמרת בשלמא</row>
+		<row row_number="21" isdata="1"><EndGemara/><StartMishna/>מתני' בשלא הביאה שליש ברייתא דחרש</row>
+		<row row_number="22" isdata="1">אין לא חרש לא בשהביא שליש אלא</row>
+		<row row_number="23" isdata="1">אי אמרת מתניתין נמי בשהביא שליש</row>
+		<row row_number="24" isdata="1">השתא ומה התם דקצירה (דהתם) אמר רבי</row>
+		<row row_number="25" isdata="1">מאיר לא שמה קצירה הכא לא כל שכן אלא</row>
+		<row row_number="26" isdata="1">רבי מאיר בשיטת רבי יהודה אמרה דאמר</row>
+		<row row_number="27" isdata="1">אימתי בזמן שהתחיל עד שלא הביא שליש</row>
+		<row row_number="28" isdata="1">אבל אם התחיל עד שהביא שליש אסור</row>
+		<row row_number="29" isdata="1">אימר דשמעת ליה לרבי יהודה לבהמה</row>
+		<row row_number="30" isdata="1">לאדם מי שמעת ליה דאם כן הוו להו תלתא</row>
+		<row row_number="31" isdata="1">תנאי אלא כי אתא רב דימי אמר רבי מאיר</row>
+		<row row_number="32" isdata="1">בשיטת רבי עקיבא רבו אמר אף לאדם</row>
+		<row row_number="33" isdata="1">נמי לא הויא קצירה דתנן המנמר שדה</row>
+		<row row_number="34" isdata="1">ושייר בו קלחים לחים רבי עקיבא אומר פאה</row>
+		<row row_number="35" isdata="1">לכל אחד ואחד וחכמים אומרים מאחד</row>
+		<row row_number="36" isdata="1">על הכל ואמר רב יהודה אמר שמואל לא חייב</row>
+		<row row_number="37" isdata="1">רבי עקיבא אלא במנמר לקליות אבל במנמר</row>
+		<row row_number="38" isdata="1">לאוצר לא איני והא כי אתא רבין אמר רבי</row>
+		<row row_number="39" isdata="1">יוחנן מחייב היה רבי עקיבא אף במנמר לאוצר</row>
+</amud>
+</daf>
+</masechet>
+</root>

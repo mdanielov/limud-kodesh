@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:15.004352</dateCreated>
+   <lastModified>2019-12-21 20:30:15.004352</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה נדרים"/><ContGemara/>היינו דאיצטריך ליה לתנא למיתנא תרתי</row>
+		<row row_number="2" isdata="1">דס"ד אמינא קדושת הגוף לא פקעה בכדי</row>
+		<row row_number="3" isdata="1">קדושת דמים פקעה בכדי אמטו להכי תנא</row>
+		<row row_number="4" isdata="1">תרתי אלא אי אמרת אידי ואידי קדושת</row>
+		<row row_number="5" isdata="1">דמים למה לי למיתנא תרתי השתא יש לומר</row>
+		<row row_number="6" isdata="1">מקדושה חמורה לקדושה קלה פקעה מקדושה</row>
+		<row row_number="7" isdata="1">קלה לקדושה חמורה צריכא למימר לימא</row>
+		<row row_number="8" isdata="1">תיהוי תיובתא דבר פדא דאמר לא פקעה</row>
+		<row row_number="9" isdata="1">קדושה בכדי אמר רב פפא אמר לך בר פדא</row>
+		<row row_number="10" isdata="1">הכי קאמר אם לא אמר מעכשיו שלמים</row>
+		<row row_number="11" isdata="1">לאחר ל' יום עולה הוי מידי דהוה האומר</row>
+		<row row_number="12" isdata="1">לאשה התקדשי לי לאחר ל' יום דמקודשת</row>
+		<row row_number="13" isdata="1">ואע"פ שנתעכלו המעות פשיטא לא צריכא</row>
+		<row row_number="14" isdata="1">דהדר ביה הניחא למ"ד אינה חוזרת אלא</row>
+		<row row_number="15" isdata="1">למ"ד חוזרת מאי איכא למימר אפי' למ"ד</row>
+		<row row_number="16" isdata="1">התם חוזרת הכא שאני דאמירתו לגבוה</row>
+		<row row_number="17" isdata="1">כמסירתו להדיוט יתיב ר' אבין ורב יצחק ברבי</row>
+		<row row_number="18" isdata="1">קמיה דר' ירמיה וקא מנמנם ר' ירמיה יתבי</row>
+		<row row_number="19" isdata="1">וקאמרי לבר פדא דאמ' פדאן חוזרות וקודשות</row>
+</amud>
+</daf>
+</masechet>
+</root>

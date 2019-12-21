@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:41.621901</dateCreated>
+   <lastModified>2019-12-21 20:28:41.621901</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="36">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>למאי נפקא מינה לגיטי נשים<EndChapter name = "במה מדליקין"/><EndGemara/></row>
+		<row row_number="2" isdata="0">הדרן עלך במה מדליקין</row>
+		<row row_number="3" isdata="1"><StartChapter name = "כירה"/><StartMishna/>כירה שהסיקוה בקש ובגבבא נותנים</row>
+		<row row_number="4" isdata="1">עליה תבשיל בגפת ובעצים לא</row>
+		<row row_number="5" isdata="1">יתן עד שיגרוף או עד שיתן את האפר בית</row>
+		<row row_number="6" isdata="1">שמאי אומרים חמין אבל לא תבשיל ובית</row>
+		<row row_number="7" isdata="1">הלל אומרים חמין ותבשיל בית שמאי</row>
+		<row row_number="8" isdata="1">אומרים נוטלין אבל לא מחזירין ובית הלל</row>
+		<row row_number="9" isdata="1">אומרים אף מחזירין<EndMishna/><StartGemara/>גמ' איבעיא להו האי</row>
+		<row row_number="10" isdata="1">לא יתן לא יחזיר הוא אבל לשהות משהין אף</row>
+		<row row_number="11" isdata="1">על פי שאינו גרוף ואינו קטום ומני חנניה היא</row>
+		<row row_number="12" isdata="1">דתניא חנניה אומר כל שהוא כמאכל בן</row>
+		<row row_number="13" isdata="1">דרוסאי מותר לשהותו על גבי כירה אע"פ</row>
+		<row row_number="14" isdata="1">שאינו גרוף ואינו קטום או דילמא לשהות</row>
+		<row row_number="15" isdata="1">תנן ואי גרוף וקטום אין אי לא לא וכל שכן</row>
+		<row row_number="16" isdata="1">להחזיר ת"ש מדקתני תרי בבי במתני' ב"ש</row>
+		<row row_number="17" isdata="1">אומרים חמין אבל לא תבשיל ובית הלל</row>
+		<row row_number="18" isdata="1">אומרים חמין ותבשיל ב"ש אומרים נוטלין</row>
+		<row row_number="19" isdata="1">אבל לא מחזירין וב"ה אומרים אף מחזירין</row>
+		<row row_number="20" isdata="1">אי אמרת בשלמא לשהות תנן הכי קתני</row>
+		<row row_number="21" isdata="1">כירה שהסיקוה בקש ובגבבא משהין עליה</row>
+		<row row_number="22" isdata="1">תבשיל בגפת ובעצים לא ישהא עד שיגרוף</row>
+		<row row_number="23" isdata="1">או עד שיתן אפר ומה הן משהין בית שמאי</row>
+		<row row_number="24" isdata="1">אומרים חמין אבל לא תבשיל וב"ה אומרים</row>
+		<row row_number="25" isdata="1">חמין ותבשיל וכי היכי דפליגי בלשהות פליגי</row>
+		<row row_number="26" isdata="1">נמי בלהחזיר שבית שמאי אומרים נוטלין</row>
+		<row row_number="27" isdata="1">אבל לא מחזירין ובית הלל אומרים אף</row>
+		<row row_number="28" isdata="1">מחזירין אלא אי אמרת להחזיר תנן הכי</row>
+		<row row_number="29" isdata="1">קתני כירה שהסיקוה בקש ובגבבא</row>
+		<row row_number="30" isdata="1">מחזירין עליה תבשיל בגפת ובעצים לא</row>
+		<row row_number="31" isdata="1">יחזיר עד שיגרוף או עד שיתן אפר ומה הן מחזירין בית שמאי אומרים</row>
+		<row row_number="32" isdata="1">חמין אבל לא תבשיל ובית הלל אומרים חמין ותבשיל בית שמאי אומרים</row>
+		<row row_number="33" isdata="1">נוטלין אבל לא מחזירין ובית הלל אומרים אף מחזירין הא תו למה לי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:42.531666</dateCreated>
+   <lastModified>2019-12-21 20:30:42.531666</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="74">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "עשרה יוחסין "/><ContGemara/>וניחזי זוזי ממאן נקט לא צריכא דנקט</row>
+		<row row_number="2" isdata="1">מתרוייהו ואמר חד מדעתאי וחד בעל כורחי</row>
+		<row row_number="3" isdata="1">ולא ידיע הי מדעתו והי לא מדעתו נאמן</row>
+		<row row_number="4" isdata="1">דיין לומר לזה זכיתי ולזה חייבתי במה</row>
+		<row row_number="5" isdata="1">דברים אמורים שבעלי דינים עומדים לפניו</row>
+		<row row_number="6" isdata="1">אבל אין בעלי דינים עומדים לפניו אינו נאמן</row>
+		<row row_number="7" isdata="1">וניחזי זכותא מאן נקיט לא צריכא דקריע</row>
+		<row row_number="8" isdata="1">זכותייהו וניהדר ונידיינינהו בשודא דדייני</row>
+		<row row_number="9" isdata="1">אמר רב נחמן שלשה נאמנין על הבכור</row>
+		<row row_number="10" isdata="1">אלו הן חיה אביו ואמו חיה לאלתר אמו כל</row>
+		<row row_number="11" isdata="1">שבעה אביו לעולם כדתניא יכיר יכירנו</row>
+		<row row_number="12" isdata="1">לאחרים מכאן א"ר יהודה נאמן אדם לומר</row>
+		<row row_number="13" isdata="1">זה בני בכור וכשם שנאמן לומר זה בני</row>
+		<row row_number="14" isdata="1">בכור כך נאמן לומר זה בן גרושה וזה בן</row>
+		<row row_number="15" isdata="1">חלוצה וחכמים אומרים אינו נאמן אבא</row>
+		<row row_number="16" isdata="1">שאול היה קורא לשתוקי בדוקי מאי בדוקי</row>
+		<row row_number="17" isdata="1">אילימא שבודקין את אמו ואומרת לכשר</row>
+		<row row_number="18" isdata="1">נבעלתי נאמנת כמאן כרבן גמליאל תנינא</row>
+		<row row_number="19" isdata="1">חדא זימנא דתנן היתה מעוברת ואמרו</row>
+		<row row_number="20" isdata="1">לה מה טיבו של עובר זה אמרה להם מאיש</row>
+		<row row_number="21" isdata="1">פלוני וכהן הוא רבן גמליאל ור' אליעזר</row>
+		<row row_number="22" isdata="1">אומרים נאמנת ורבי יהושע אומר לא מפיה</row>
+		<row row_number="23" isdata="1">אנו חיין ואמר רב יהודה אמר שמואל</row>
+		<row row_number="24" isdata="1">הלכה כרבן גמליאל חדא להכשיר בה וחדא</row>
+		<row row_number="25" isdata="1">להכשיר בבתה הניחא למאן דאמר לדברי</row>
+		<row row_number="26" isdata="1">המכשיר בה פוסל בבתה אלא למ"ד לדברי</row>
+		<row row_number="27" isdata="1">המכשיר בה מכשיר בבתה אבא שאול</row>
+		<row row_number="28" isdata="1">מאי אתא לאשמועינן דאבא שאול עדיפא</row>
+		<row row_number="29" isdata="1">מדרבן גמליאל דאי מהתם ה"א התם</row>
+		<row row_number="30" isdata="1">דרוב כשרין אצלה אבל היכא דרוב פסולין</row>
+		<row row_number="31" isdata="1">אצלה אימא לא צריכא אמר רבא הלכה</row>
+		<row row_number="32" isdata="1">כאבא שאולמתני' כל האסורין לבא</row>
+		<row row_number="33" isdata="1">בקהל מותרים לבא זה בזה רבי יהודה</row>
+		<row row_number="34" isdata="1">אוסר רבי אליעזר אומר ודאן בודאן מותר</row>
+		<row row_number="35" isdata="1">ודאן בספיקן וספיקן בודאן וספיקן בספיקן</row>
+		<row row_number="36" isdata="1">אסור ואלו הן הספיקות שתוקי אסופי</row>
+		<row row_number="37" isdata="1">וכותי<EndMishna/><StartGemara/>גמ' מאי כל האסורין לבא בקהל</row>
+		<row row_number="38" isdata="1">אילימא ממזירי ונתיני שתוקי ואסופי הא תנא</row>
+		<row row_number="39" isdata="1">ליה רישא ממזירי ונתיני שתוקי ואסופי</row>
+		<row row_number="40" isdata="1">מותרים לבא זה בזה ותו ר' יהודה אוסר</row>
+		<row row_number="41" isdata="1">אהייא אילימא אודאן בספיקן הא מדקתני</row>
+		<row row_number="42" isdata="1">סיפא ר"א אומר ודאן בודאן מותר ודאן</row>
+		<row row_number="43" isdata="1">בספיקן וספיקן בספיקן אסור מכלל דר'</row>
+		<row row_number="44" isdata="1">יהודה לא סבירא ליה וכי תימא ר"י אוסר</row>
+		<row row_number="45" isdata="1">אגר בממזרת מידי גר בממזרת קתני כל</row>
+		<row row_number="46" isdata="1">האסורין לבא בקהל קתני אמר רב יהודה</row>
+</amud>
+</daf>
+</masechet>
+</root>

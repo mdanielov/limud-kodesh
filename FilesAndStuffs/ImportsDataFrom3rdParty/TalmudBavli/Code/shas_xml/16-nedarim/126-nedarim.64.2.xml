@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:17.747485</dateCreated>
+   <lastModified>2019-12-21 20:30:17.747485</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי אליעזר"/><ContGemara/>ורבא אמר א"כ אין נדרים נשאלין לחכם</row>
+		<row row_number="2" isdata="1">תנן ומודין חכמים לרבי אליעזר בדבר</row>
+		<row row_number="3" isdata="1">שבינו לבין אביו ואמו שפותחים לו בכבוד</row>
+		<row row_number="4" isdata="1">אביו ואמו בשלמא לאביי דאמר אם כן</row>
+		<row row_number="5" isdata="1">אין נדרים ניתרין הכא כיון דאיחצף</row>
+		<row row_number="6" isdata="1">ליה הא איחצף ליה אלא לרבא דאמר אם</row>
+		<row row_number="7" isdata="1">כן אין נדרים נשאלין לחכם הכא אמאי</row>
+		<row row_number="8" isdata="1">פותחין אמרי כיון דכל נדרי לא סגיא להון</row>
+		<row row_number="9" isdata="1">דלאו חכם הכא נמי פותחין ועוד אמר</row>
+		<row row_number="10" isdata="1">רבי אליעזר פותחין בנולד כו' מ"ט דרבי</row>
+		<row row_number="11" isdata="1">אליעזר אמר רב חסדא דאמר קרא כי מתו</row>
+		<row row_number="12" isdata="1">כל האנשים והא מיתה דנולד הוא מכאן</row>
+		<row row_number="13" isdata="1">שפותחין בנולד ורבנן מאי טעמייהו קסברי</row>
+		<row row_number="14" isdata="1">הנהו מי מייתי והא אמר ר' יוחנן משום</row>
+		<row row_number="15" isdata="1">ר' שמעון בן יוחי כל מקום שנאמר נצים</row>
+		<row row_number="16" isdata="1">ונצבים אינן אלא דתן ואבירם אלא אמר ר"ל</row>
+		<row row_number="17" isdata="1">שירדו מנכסיהן אריב"ל כל אדם שאין לו</row>
+		<row row_number="18" isdata="1">בנים חשוב כמת שנאמר הבה לי בנים ואם</row>
+		<row row_number="19" isdata="1">אין מתה אנכי ותניא ארבעה חשובין כמת</row>
+		<row row_number="20" isdata="1">עני ומצורע וסומא ומי שאין לו בנים עני</row>
+		<row row_number="21" isdata="1">דכתיב כי מתו כל האנשים מצורע דכתיב</row>
+		<row row_number="22" isdata="1">אל נא תהי כמת וסומא דכתיב במחשכים</row>
+		<row row_number="23" isdata="1">הושיבני כמתי עולם ומי שאין לו בנים</row>
+		<row row_number="24" isdata="1">דכתיב הבה לי בנים ואם אין מתה אנכי</row>
+</amud>
+</daf>
+</masechet>
+</root>

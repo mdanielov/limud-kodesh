@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:48.684360</dateCreated>
+   <lastModified>2019-12-21 20:32:48.684360</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="49">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בא סימן"/><ContGemara/>ואיבעית אימא רבי שמעון ולאחר הפרק</row>
+		<row row_number="2" isdata="1">ולית ליה חזקה דרבא מפני שאמרו אפשר</row>
+		<row row_number="3" isdata="1">כו' הא תו למה לי הא תנא ליה רישא וכי</row>
+		<row row_number="4" isdata="1">תימא משום דקא בעי למסתמה כרבנן פשיטא</row>
+		<row row_number="5" isdata="1">יחיד ורבים הלכה כרבים מהו דתימא</row>
+		<row row_number="6" isdata="1">מסתברא טעמא דר"מ דקא מסייע ליה קראי</row>
+		<row row_number="7" isdata="1">קמ"ל ואיבעית אימא משום דקא בעי למתני</row>
+		<row row_number="8" isdata="1">כיוצא בומתני' כיוצא בו כל כלי חרס</row>
+		<row row_number="9" isdata="1">שהוא מכניס מוציא ויש שמוציא ואינו מכניס</row>
+		<row row_number="10" isdata="1">כל אבר שיש בו צפורן יש בו עצם ויש שיש</row>
+		<row row_number="11" isdata="1">בו עצם ואין בו צפורן כל המטמא מדרס</row>
+		<row row_number="12" isdata="1">מטמא טמא מת ויש שמטמא טמא מת ואינו</row>
+		<row row_number="13" isdata="1">מטמא מדרס<EndMishna/><StartGemara/>גמ' מכניס פסול למי חטאת</row>
+		<row row_number="14" isdata="1">ופסול משום גסטרא מוציא כשר למי חטאת</row>
+		<row row_number="15" isdata="1">ופסול משום גסטרא אמר רב אסי שונין כלי</row>
+		<row row_number="16" isdata="1">חרס שיעורו בכונס משקה ולא אמרו מוציא</row>
+		<row row_number="17" isdata="1">משקה אלא לענין גסטרא בלבד מאי טעמא</row>
+		<row row_number="18" isdata="1">אמר מר זוטרא בריה דרב נחמן לפי שאין</row>
+		<row row_number="19" isdata="1">אומרים הבא גסטרא לגסטרא תנו רבנן</row>
+		<row row_number="20" isdata="1">כיצד בודקין כלי חרס לידע אם ניקב בכונס</row>
+		<row row_number="21" isdata="1">משקה אם לאו יביא עריבה מלאה מים</row>
+		<row row_number="22" isdata="1">ונותן קדרה לתוכה אם כנסה בידוע שכונס</row>
+		<row row_number="23" isdata="1">משקה ואם לאו בידוע שמוציא משקה</row>
+</amud>
+</daf>
+</masechet>
+</root>

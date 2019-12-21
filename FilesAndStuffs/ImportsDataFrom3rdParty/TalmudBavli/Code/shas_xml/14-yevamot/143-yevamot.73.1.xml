@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:58.739478</dateCreated>
+   <lastModified>2019-12-21 20:29:58.739478</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="73">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הערל"/><ContGemara/>והזה הטהור על הטמא טהור מכלל שהוא</row>
+		<row row_number="2" isdata="1">טמא לימד על טבול יום שכשר בפרה</row>
+		<row row_number="3" isdata="1">בעו מיניה מרב ששת ערל מהו במעשר כי</row>
+		<row row_number="4" isdata="1">היכי דיליף פסח ממעשר לענין אנינות</row>
+		<row row_number="5" isdata="1">יליף נמי מעשר מפסח לענין ערלות או</row>
+		<row row_number="6" isdata="1">דלמא חמור מקל יליף קל מחמור לא יליף</row>
+		<row row_number="7" isdata="1">אמר להו תניתוה התרומה והבכורים</row>
+		<row row_number="8" isdata="1">חייבים עליהן מיתה וחומש ואסורין לזרים</row>
+		<row row_number="9" isdata="1">והן נכסי כהן ועולין באחד ומאה וטעונין</row>
+		<row row_number="10" isdata="1">רחיצת ידים והערב שמש הרי אלו בתרומה</row>
+		<row row_number="11" isdata="1">ובבכורים מה שאין כן במעשר ואם איתא</row>
+		<row row_number="12" isdata="1">ניתני ערל אסור בהן מה שאין כן במעשר</row>
+		<row row_number="13" isdata="1">תנא ושייר ומאי שייר דהאי שייר שייר</row>
+		<row row_number="14" isdata="1">דקא תני סיפא יש במעשר ובבכורים מה</row>
+		<row row_number="15" isdata="1">שאין כן בתרומה שהמעשר והבכורים</row>
+		<row row_number="16" isdata="1">טעונין הבאת מקום וטעונין וידוי ואסור</row>
+		<row row_number="17" isdata="1">לאונן ורבי שמעון מתיר וחייבין בביעור</row>
+		<row row_number="18" isdata="1">ור"ש פוטר ואילו אסור לבער מהן בטומאה</row>
+</amud>
+</daf>
+</masechet>
+</root>

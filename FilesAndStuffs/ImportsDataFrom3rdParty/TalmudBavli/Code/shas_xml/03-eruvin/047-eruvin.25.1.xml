@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:55.269530</dateCreated>
+   <lastModified>2019-12-21 20:28:55.269530</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="25">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>מאן דשרי דהא ליכא דיורין ומאן דאסר</row>
+		<row row_number="2" isdata="1">זימנין דהוי בה דיורין ואתי לטלטולי קרפף</row>
+		<row row_number="3" isdata="1">יותר מבית סאתים שלא הוקף לדירה ובא</row>
+		<row row_number="4" isdata="1">למעטו מיעטו באילנות לא הוי מיעוט בנה</row>
+		<row row_number="5" isdata="1">בו עמוד גבוה עשרה ורחב ד' הוי מיעוט</row>
+		<row row_number="6" isdata="1">פחות מג' לא הוי מיעוט מג' ועד ד' רבה</row>
+		<row row_number="7" isdata="1">אמר הוי מיעוט ורבא אמר לא הוי מיעוט</row>
+		<row row_number="8" isdata="1">רבה אמר הוי מיעוט דהא נפיק ליה מתורת</row>
+		<row row_number="9" isdata="1">לבוד רבא אמר לא הוי מיעוט כיון דלא הוי</row>
+		<row row_number="10" isdata="1">מקום ד' לא חשיב הרחיק מן הכותל ד'</row>
+		<row row_number="11" isdata="1">ועשה מחיצה הועיל פחות מג' לא הועיל</row>
+		<row row_number="12" isdata="1">מג' ועד ד' רבה אמר הועיל רבא אמר</row>
+		<row row_number="13" isdata="1">אינו מועיל רבה אמר הועיל דהא נפיק ליה</row>
+		<row row_number="14" isdata="1">מתורת לבוד רבא אמר אינו מועיל כיון דלא</row>
+		<row row_number="15" isdata="1">הוי מקום ד' לא חשיב רב שימי מתני</row>
+		<row row_number="16" isdata="1">לקולא טח בו טיט ויכול לעמוד בפני עצמו</row>
+		<row row_number="17" isdata="1">הוי מיעוט אינו יכול לעמוד בפני עצמו רבה</row>
+		<row row_number="18" isdata="1">אמר  הוי מיעוט רבא אמר לא הוי מיעוט</row>
+		<row row_number="19" isdata="1">רבה אמר הוי מיעוט השתא מיהא קאי רבא</row>
+		<row row_number="20" isdata="1">אמר לא הוי מיעוט כיון דלא יכול למיקם</row>
+		<row row_number="21" isdata="1">בפני עצמו לא כלום הוא הרחיק מן התל</row>
+		<row row_number="22" isdata="1">ד' ועשה מחיצה הועיל פחות מג' או על</row>
+		<row row_number="23" isdata="1">שפת התל רב חסדא ורב המנונא חד אמר</row>
+		<row row_number="24" isdata="1">הועיל וחד אמר לא הועיל תסתיים דרב</row>
+		<row row_number="25" isdata="1">חסדא אמר הועיל דאתמר העושה מחיצה</row>
+		<row row_number="26" isdata="1">על גבי מחיצה אמר רב חסדא בשבת הועיל</row>
+		<row row_number="27" isdata="1">בנכסי הגר לא קנה ורב ששת אמר אף</row>
+		<row row_number="28" isdata="1">בשבת נמי לא הועיל תסתיים אמר רב חסדא</row>
+		<row row_number="29" isdata="1">ומודה לי רב ששת שאם עשה מחיצה על</row>
+		<row row_number="30" isdata="1">התל שהועיל מאי טעמא הואיל ובאויר</row>
+		<row row_number="31" isdata="1">מחיצות העליונות הוא דר בעי רבה בר בר</row>
+		<row row_number="32" isdata="1">חנה נבלעו מחיצות התחתונות והעליונות</row>
+		<row row_number="33" isdata="1">קיימות מהו למאי אי לנכסי הגר היינו</row>
+		<row row_number="34" isdata="1">דירמיה ביראה דאמר ירמיה ביראה אמר</row>
+		<row row_number="35" isdata="1">רב יהודה האי מאן דשדא ליפתא אפילא</row>
+		<row row_number="36" isdata="1">דארעא דגר ואתא ישראל אחרינא רפק בה פורתא בתרא קני קמא לא קני</row>
+		<row row_number="37" isdata="1">מ"ט בעידנא דשדא לא קא שבח כי קא שבחא ממילא קא משבחא ואלא</row>
+		<row row_number="38" isdata="1">לענין שבת הוי מחיצה הנעשה בשבת ותניא כל מחיצה הנעשה בשבת בין</row>
+		<row row_number="39" isdata="1">בשוגג בין במזיד שמה מחיצה לאו איתמר עלה אמר רב נחמן לא שנו אלא</row>
+		<row row_number="40" isdata="1">לזרוק אבל לטלטל אסור כי איתמר דרב נחמן אמזיד איתמר ההיא איתתא</row>
+		<row row_number="41" isdata="1">דעבדה מחיצה על גבי מחיצה בנכסי הגר אתא ההוא גברא רפק בה פורתא</row>
+		<row row_number="42" isdata="1">אתא לקמיה דרב נחמן אוקמה בידיה אתת איהי וקא צווחא קמיה אמר</row>
+		<row row_number="43" isdata="1">לה מאי איעביד לך דלא מחזקת כדמחזקי אינשי קרפף בית שלש וקירה בו</row>
+		<row row_number="44" isdata="1">בית סאה רבא אמר אויר קירויו מייתרו ורבי זירא אמר אין אויר קירויו</row>
+		<row row_number="45" isdata="1">מייתרו לימא רבא ורבי זירא בפלוגתא דרב ושמואל קא מיפלגי דאיתמר</row>
+		<row row_number="46" isdata="1">אכסדרה בבקעה רב אמר מותר לטלטל בכולה ושמואל אמר אין מטלטלין</row>
+		<row row_number="47" isdata="1">אלא בד' אמות רב אמר מותר לטלטל בכולה אמרינן פי תקרה יורד וסותם</row>
+		<row row_number="48" isdata="1">ושמואל אמר אין מטלטלין אלא בארבע אמות לא אמרי' פי תקרה יורד וסותם</row>
+</amud>
+</daf>
+</masechet>
+</root>

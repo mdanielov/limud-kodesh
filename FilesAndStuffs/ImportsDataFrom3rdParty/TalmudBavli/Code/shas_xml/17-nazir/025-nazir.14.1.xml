@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:20.803493</dateCreated>
+   <lastModified>2019-12-21 20:30:20.803493</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="14">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הריני נזיר"/><ContGemara/>את"ל נזירות מועטת כיון דעשרה יומין הוא</row>
+		<row row_number="2" isdata="1">דיתרין לא סליק ליה הלין עשרה ודאי נזיר</row>
+		<row row_number="3" isdata="1">מאה יום כיון דאית ליה תמנין יומין לבסוף</row>
+		<row row_number="4" isdata="1">סלקין ליה או לא ואת"ל חיילי אמר הריני</row>
+		<row row_number="5" isdata="1">נזיר לאחר כ' יום ומעכשיו נזיר עולם מהו</row>
+		<row row_number="6" isdata="1">מי חיילא עליה או לא את"ל הכא כיון</row>
+		<row row_number="7" isdata="1">דאפשר לאיתשולי חיילא אמר הריני נזיר</row>
+		<row row_number="8" isdata="1">שמשון לאחר עשרים יום ומעכשיו נזיר סתם</row>
+		<row row_number="9" isdata="1">מהו הכא לא אפשר לאיתשולי מי חיילא</row>
+		<row row_number="10" isdata="1">או לא אמר כמשה בשבעה באדר מאי</row>
+		<row row_number="11" isdata="1">פשוט מינייהו קדמייתא הריני נזיר לאחר</row>
+		<row row_number="12" isdata="1">עשרים יום ומעכשיו מאה יום מונה עשרים</row>
+		<row row_number="13" isdata="1">ואח"כ מונה שלשים ואח"כ מונה שמונים</row>
+		<row row_number="14" isdata="1">כדי להשלים נזירות ראשונה נטמא בימי בנו</row>
+		<row row_number="15" isdata="1">רבי יוחנן אמר סותר ריש לקיש אמר</row>
+		<row row_number="16" isdata="1">אינו סותר רבי יוחנן אמר סותר חדא</row>
+		<row row_number="17" isdata="1">נזירות אריכתא היא ריש לקיש אמר אינו</row>
+		<row row_number="18" isdata="1">סותר נזירות דידיה לחוד ודבריה לחוד</row>
+</amud>
+</daf>
+</masechet>
+</root>

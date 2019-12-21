@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:14.183235</dateCreated>
+   <lastModified>2019-12-21 20:30:14.183235</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו מותרין"/><ContGemara/>כל שכן דלא מעייל לספיקא אמר ליה אביי</row>
+		<row row_number="2" isdata="1">במאי אוקימתא לספק נזירות להקל כרבי</row>
+		<row row_number="3" isdata="1">אליעזר אימא סיפא ספק בכורות אחד</row>
+		<row row_number="4" isdata="1">בכורי אדם ואחד בכורי בהמה בין טמאה בין</row>
+		<row row_number="5" isdata="1">טהורה המוציא מחבירו עליו הראיה ותני עלה</row>
+		<row row_number="6" isdata="1">ואסורים בגיזה ועבודה אמר ליה אמאי קא</row>
+		<row row_number="7" isdata="1">מדמית קדושה הבאה מאליה לקדושה הבאה</row>
+		<row row_number="8" isdata="1">בידי אדם אלא אי קשיא הא קשיא ספק</row>
+		<row row_number="9" isdata="1">משקין ליטמא טמא לטמא אחרים טהור דברי</row>
+		<row row_number="10" isdata="1">ר' מאיר וכן היה ר' אלעזר אומר כדבריו ומי</row>
+		<row row_number="11" isdata="1">ס"ל לר"א ליטמא טמא והתניא ר"א אומר</row>
+		<row row_number="12" isdata="1">אין טומאה למשקין כל עיקר תדע שהרי</row>
+		<row row_number="13" isdata="1">העיד יוסי בן יועזר איש צרידה על איל קמצא</row>
+		<row row_number="14" isdata="1">דכן ועל משקין בית מטבחיא דכן הניחא</row>
+		<row row_number="15" isdata="1">לשמואל דאמר דכן מלטמא אחרים אבל</row>
+		<row row_number="16" isdata="1">טומאת עצמן יש בהן שפיר אלא לרב דאמר</row>
+		<row row_number="17" isdata="1">דכן ממש מאי איכא למימר אלא הא רבי</row>
+		<row row_number="18" isdata="1">יהודה והא ר"ש דתניא הריני נזיר אם יש</row>
+		<row row_number="19" isdata="1">בכרי הזה מאה כור והלך ומצאו שנגנב</row>
+		<row row_number="20" isdata="1">או שאבד רבי יהודה מתיר ורבי שמעון אוסר</row>
+		<row row_number="21" isdata="1">ורמי דרבי יהודה אדרבי יהודה מי א"ר יהודה</row>
+		<row row_number="22" isdata="1">לא מעייל איניש נפשיה לספיקא ורמינהי</row>
+		<row row_number="23" isdata="1">רבי יהודה אומר סתם תרומה ביהודה אסורה</row>
+		<row row_number="24" isdata="1">ובגליל מותרת שאין אנשי הגליל מכירין</row>
+		<row row_number="25" isdata="1">את תרומת הלשכה טעמא דאין מכירין</row>
+</amud>
+</daf>
+</masechet>
+</root>

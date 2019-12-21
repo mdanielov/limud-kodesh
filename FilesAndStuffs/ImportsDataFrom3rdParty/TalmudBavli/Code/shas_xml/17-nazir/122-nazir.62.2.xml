@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:24.530700</dateCreated>
+   <lastModified>2019-12-21 20:30:24.530700</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="62">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכותים אין להם נזירות"/><ContMishna/>מתני' חומר בעבדים מבנשים שהוא מפר<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">נדרי אשתו ואינו מפר נדרי עבדו הפר</row>
+		<row row_number="3" isdata="1">לאשתו הפר עולמית הפר לעבדו יצא</row>
+		<row row_number="4" isdata="1">לחירות ומשלים נזירותו<EndMishna/><StartGemara/>גמ' ת"ר למה רבו</row>
+		<row row_number="5" isdata="1">כופו לנזירות אבל לא לנדרים ולערכין מאי</row>
+		<row row_number="6" isdata="1">שנא גבי נזיר דאמר רחמנא לאסור איסר</row>
+		<row row_number="7" isdata="1">על נפשו במי שנפשו קנויה לו יצא עבד</row>
+		<row row_number="8" isdata="1">שאין נפשו קנויה לו אי הכי אפילו גבי נדרים</row>
+		<row row_number="9" isdata="1">נמי אמר רב ששת הכא במאי עסקינן כגון</row>
+		<row row_number="10" isdata="1">שהיה אשכול של ענבים מונח לפניו גבי</row>
+		<row row_number="11" isdata="1">נדרים דכי מיתסר בהאי לא מיתסר באחריני</row>
+		<row row_number="12" isdata="1">לא מצי כפי ליה גבי נזירות דכי מיתסר בהאי</row>
+		<row row_number="13" isdata="1">איתסר בכולהו מצי כפי ליה וגבי נדרים מי</row>
+		<row row_number="14" isdata="1">לא עסקינן דליכא אלא האי אשכול דאי לא</row>
+		<row row_number="15" isdata="1">אכיל ליה חליש אלא אמר רבא כגון</row>
+		<row row_number="16" isdata="1">שהיה חרצן מונח לפניו גבי נדרים בהאי הוא</row>
+		<row row_number="17" isdata="1">דמיתסר לא מצי כפי ליה גבי נזיר דאיתסר</row>
+		<row row_number="18" isdata="1">נמי באחריני מצי כפי ליה וגבי נדרים מי לא</row>
+		<row row_number="19" isdata="1">עסקינן דליכא אלא האי חרצן דאי לא אכיל</row>
+		<row row_number="20" isdata="1">ליה חליש אלא אמר אביי למה רבו</row>
+		<row row_number="21" isdata="1">צריך לכפותו לנזירות ואין צריך לכפותו</row>
+		<row row_number="22" isdata="1">לנדרים ואינו צריך לכפותו לשבועה מ"ט</row>
+		<row row_number="23" isdata="1">דאמר קרא להרע או להיטיב מה הטבה</row>
+		<row row_number="24" isdata="1">רשות אף הרעה רשות יצא להרע לאחרים</row>
+		<row row_number="25" isdata="1">שאין הרשות בידומתני' עבר מכנגד פניו</row>
+		<row row_number="26" isdata="1">ר"מ אומר לא ישתה ורבי יוסי אומר ישתה</row>
+		<row row_number="27" isdata="1"><EndMishna/><StartGemara/>גמ' לימא בדשמואל קמיפלגי דאמר שמואל</row>
+		<row row_number="28" isdata="1">המפקיר עבדו יצא לחירות וא"צ גט שיחרור</row>
+		<row row_number="29" isdata="1">ר"מ אית ליה דשמואל רבי יוסי לית ליה</row>
+		<row row_number="30" isdata="1">דשמואל לא דכולי עלמא אית להו דשמואל</row>
+		<row row_number="31" isdata="1">אלא מאן דאמר ישתה סבר סוף סוף מיהדר</row>
+		<row row_number="32" isdata="1">הדר ואתי גביה לישתי חמרא כי היכי דלא</row>
+		<row row_number="33" isdata="1">ליכחוש ולמאן דאמר לא ישתה סבר</row>
+		<row row_number="34" isdata="1">ליהוי ליה צערא כי היכי דליהדר גביה</row>
+</amud>
+</daf>
+</masechet>
+</root>

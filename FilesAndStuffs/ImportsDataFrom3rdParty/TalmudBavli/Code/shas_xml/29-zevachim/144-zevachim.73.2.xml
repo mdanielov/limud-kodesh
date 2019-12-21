@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:57.268909</dateCreated>
+   <lastModified>2019-12-21 20:31:57.268909</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="73">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים שנתערבו"/><ContGemara/>וכל קבוע כמחצה על מחצה דמי אלא</row>
+		<row row_number="2" isdata="1">ניכבשינהו דניידי ונימא כל דפריש מרובא</row>
+		<row row_number="3" isdata="1">פריש אמר רבא (השתא דאמור רבנן לא</row>
+		<row row_number="4" isdata="1">ניקרב) גזירה שמא יבאו י' כהנים בבת</row>
+		<row row_number="5" isdata="1">אחת ויקרבו א"ל ההוא מרבנן לרבא אלא</row>
+		<row row_number="6" isdata="1">מעתה מגיסא אסירא משום שמא יבאו י'</row>
+		<row row_number="7" isdata="1">כהנים בבת אחת ויקחו בעשרה כהנים</row>
+		<row row_number="8" isdata="1">בבת אחת מי אפשר אלא אמר רבא משום</row>
+		<row row_number="9" isdata="1">קבוע אמר רבא השתא דאמרי רבנן לא</row>
+		<row row_number="10" isdata="1">נקריב אי נקריב לא מרצי איתיביה רב</row>
+		<row row_number="11" isdata="1">הונא בר יהודה לרבא חטאת שנתערבה</row>
+		<row row_number="12" isdata="1">בעולה ועולה שנתערבה בחטאת אפי' אחת</row>
+		<row row_number="13" isdata="1">בריבוא ימותו כולן במה דברים אמורים</row>
+		<row row_number="14" isdata="1">בכהן נמלך אבל בכהן שאין נמלך עשאן</row>
+		<row row_number="15" isdata="1">למעלה מחצה כשר ומחצה פסול למטה</row>
+		<row row_number="16" isdata="1">מחצה כשר ומחצה פסול אחת למטה ואחת</row>
+		<row row_number="17" isdata="1">למעלה שניהן פסולות שאני אומר חטאת</row>
+		<row row_number="18" isdata="1">קריבה למעלה ועולה קריבה למטה אלא</row>
+		<row row_number="19" isdata="1">הא כמאן דאמר בעלי חיים נדחין הא</row>
+		<row row_number="20" isdata="1">כמאן דאמר בעלי חיים אינן נידחין</row>
+		<row row_number="21" isdata="1">הרי שחוטין דלכולי עלמא נידחין</row>
+</amud>
+</daf>
+</masechet>
+</root>

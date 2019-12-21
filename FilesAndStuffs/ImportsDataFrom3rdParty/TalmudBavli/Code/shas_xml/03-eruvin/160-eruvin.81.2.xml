@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:00.706427</dateCreated>
+   <lastModified>2019-12-21 20:29:00.706427</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="81">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContMishna/>ומודים בשאר כל האדם שזכו לו מעותיו</row>
+		<row row_number="2" isdata="1">שאין מערבין לאדם אלא מדעתו אמר רבי</row>
+		<row row_number="3" isdata="1">יהודה במה דברים אמורים בעירובי תחומין</row>
+		<row row_number="4" isdata="1">אבל בעירובי חצירות מערבין לדעתו ושלא</row>
+		<row row_number="5" isdata="1">לדעתו לפי שזכין לאדם שלא בפניו ואין</row>
+		<row row_number="6" isdata="1">חבין לאדם שלא בפניו<EndMishna/><StartGemara/>גמ' מ"ט דר' אליעזר</row>
+		<row row_number="7" isdata="1">הא לא משך אמר רב נחמן אמר רבה בר</row>
+		<row row_number="8" isdata="1">אבהו עשאו ר"א כד' פרקים בשנה דתנן</row>
+		<row row_number="9" isdata="1">בד' פרקים אלו משחיטין את הטבח בעל</row>
+		<row row_number="10" isdata="1">כרחו אפילו שור שוה אלף דינר ואין ללוקח</row>
+		<row row_number="11" isdata="1">אלא דינר אחד כופין אותו לשחוט לפיכך</row>
+		<row row_number="12" isdata="1">אם מת מת ללוקח מת ללוקח הא לא משך</row>
+		<row row_number="13" isdata="1">אמר רב הונא בשמשך אי הכי אימא סיפא</row>
+		<row row_number="14" isdata="1">בשאר ימות השנה אינו כן לפיכך אם מת</row>
+		<row row_number="15" isdata="1">מת למוכר אמאי הא משך א"ר שמואל בר</row>
+		<row row_number="16" isdata="1">יצחק לעולם בשלא משך הכא במאי עסקינן</row>
+		<row row_number="17" isdata="1">בשזיכה לו על ידי אחר בד' פרקים אלו דזכות</row>
+		<row row_number="18" isdata="1">הוא לו זכין לו שלא בפניו בשאר ימות השנה</row>
+		<row row_number="19" isdata="1">דחוב הוא לו אין חבין לו אלא בפניו ורב</row>
+		<row row_number="20" isdata="1">אילא אמר ר' יוחנן בד' פרקים אלו העמידו</row>
+		<row row_number="21" isdata="1">חכמים דבריהן על דברי תורה דאמר רבי</row>
+		<row row_number="22" isdata="1">יוחנן דבר תורה מעות קונות ומפני מה אמרו</row>
+		<row row_number="23" isdata="1">משיכה קונה גזירה שמא יאמר לו נשרפו</row>
+		<row row_number="24" isdata="1">חיטיך בעלייה ומודים בשאר כל האדם</row>
+		<row row_number="25" isdata="1">כו' מאן שאר כל אדם אמר רב בעל הבית</row>
+		<row row_number="26" isdata="1">וכן אמר שמואל בעה"ב דאמר שמואל ל"ש</row>
+		<row row_number="27" isdata="1">אלא נחתום אבל בעה"ב קונה ואמר שמואל</row>
+		<row row_number="28" isdata="1">ל"ש אלא מעה אבל כלי קונה ואמר</row>
+		<row row_number="29" isdata="1">שמואל לא שנו אלא דאמר לו זכה לי אבל</row>
+		<row row_number="30" isdata="1">אמר ערב לי שליח שויה וקני אמר רבי</row>
+		<row row_number="31" isdata="1">יהודה בד"א וכו' אמר רב יהודה אמר</row>
+		<row row_number="32" isdata="1">שמואל הלכה כרבי יהודה ולא עוד אלא כל</row>
+		<row row_number="33" isdata="1">מקום ששנה רבי יהודה בעירובין הלכה</row>
+		<row row_number="34" isdata="1">כמותו אמר ליה רב חנא בגדתאה לרב</row>
+		<row row_number="35" isdata="1">יהודה אמר שמואל אפילו במבוי שניטלו</row>
+		<row row_number="36" isdata="1">קורותיו או לחייו אמר ליה בעירובין אמרתי</row>
+		<row row_number="37" isdata="1">לך ולא במחיצות אמר ליה רב אחא בריה</row>
+		<row row_number="38" isdata="1">דרבא לרב אשי הלכה מכלל דפליגי</row>
+		<row row_number="39" isdata="1">והאמר ר' יהושע בן לוי כל מקום שאמר ר'</row>
+		<row row_number="40" isdata="1">יהודה אימתי ובמה במשנתנו אינו אלא</row>
+		<row row_number="41" isdata="1">לפרש דברי חכמים ולא פליגי והא אנן תנן</row>
+		<row row_number="42" isdata="1">נתוספו עליהן מוסיף ומזכה וצריך להודיע</row>
+		<row row_number="43" isdata="1">התם בחצר שבין שני מבואות והאמר רב</row>
+		<row row_number="44" isdata="1">שיזבי אמר רב חסדא זאת אומרת חלוקין עליו חביריו על רבי יהודה אלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

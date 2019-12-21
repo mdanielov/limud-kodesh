@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:55.315530</dateCreated>
+   <lastModified>2019-12-21 20:28:55.315530</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="25">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>אי דעבידא כי אכסדרה הכי נמי הב"ע</row>
+		<row row_number="2" isdata="1">דעבדה כי אורזילא אמר רבי זירא</row>
+		<row row_number="3" isdata="1">ומודינא בקרפף שנפרץ במלואו לחצר</row>
+		<row row_number="4" isdata="1">שאסור מ"ט הואיל ואויר חצר מייתרו</row>
+		<row row_number="5" isdata="1">מתקיף לה רב יוסף וכי אויר המותר לו אוסרו</row>
+		<row row_number="6" isdata="1">א"ל אביי כמאן כרבי שמעון לרבי שמעון</row>
+		<row row_number="7" isdata="1">נמי הא איכא אויר מקום מחיצות דאמר</row>
+		<row row_number="8" isdata="1">רב חסדא קרפף שנפרץ במלואו לחצר חצר</row>
+		<row row_number="9" isdata="1">מותרת וקרפף אסור חצר מאי טעמא דאית</row>
+		<row row_number="10" isdata="1">ליה גיפופי והא זמנין דמשכחת לה איפכא</row>
+		<row row_number="11" isdata="1">אלא משום דאמרינן זה אויר מחיצות מייתרו</row>
+		<row row_number="12" isdata="1">וזה אין אויר מחיצות מייתרו ההוא בוסתנא</row>
+		<row row_number="13" isdata="1">דהוה סמיך לגודא דאפדנא נפל אשיתא</row>
+		<row row_number="14" isdata="1">ברייתא דאפדנא סבר רב ביבי למימר</row>
+		<row row_number="15" isdata="1">ליסמוך אגודא גוויאתא אמר ליה רב פפי</row>
+		<row row_number="16" isdata="1">משום דאתו ממולאי אמריתו מילי מולייאתא</row>
+		<row row_number="17" isdata="1">הנך מחיצות לגואי עבידן לבראי לא עבידן</row>
+		<row row_number="18" isdata="1">ההיא אבוורנקא דהוה ליה לריש גלותא</row>
+		<row row_number="19" isdata="1">בבוסתניה א"ל לרב הונא בר חיננא ליעביד</row>
+		<row row_number="20" isdata="1">מר תקנתא דלמחר נאכול נהמא התם אזל</row>
+		<row row_number="21" isdata="1">עבד קנה קנה פחות משלשה אזל רבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

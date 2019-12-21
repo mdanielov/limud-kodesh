@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:53.836486</dateCreated>
+   <lastModified>2019-12-21 20:28:53.836486</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="9">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>ב אשי אמר כגון שרצפו בלחיים פחות</row>
+		<row row_number="2" isdata="1">פחות מארבעה במשך ארבע אמות לרבן</row>
+		<row row_number="3" isdata="1">שמעון בן גמליאל דאמר אמרינן לבוד הוה</row>
+		<row row_number="4" isdata="1">ליה מבוי וצריך לחי אחר להתירו ולרבנן</row>
+		<row row_number="5" isdata="1">דאמרי לא אמרינן לבוד לא צריך לחי אחר</row>
+		<row row_number="6" isdata="1">להתירו ולרבן שמעון בן גמליאל להוי</row>
+		<row row_number="7" isdata="1">כנראה מבחוץ ושוה מבפנים מידי הוא</row>
+		<row row_number="8" isdata="1">טעמא אלא לר' יוחנן הא כי אתא רבין אמר</row>
+		<row row_number="9" isdata="1">רבי יוחנן נראה מבחוץ ושוה מבפנים אינו</row>
+		<row row_number="10" isdata="1">נידון משום לחי איתמר נראה מבפנים ושוה</row>
+		<row row_number="11" isdata="1">מבחוץ נידון משום לחי נראה מבחוץ ושוה</row>
+		<row row_number="12" isdata="1">מבפנים רבי חייא ורבי שמעון ב"ר חד אמר</row>
+		<row row_number="13" isdata="1">נידון משום לחי וחד אמר אינו נידון משום</row>
+		<row row_number="14" isdata="1">לחי תסתיים דר' חייא הוא דאמר נידון משום</row>
+		<row row_number="15" isdata="1">לחי דתני רבי חייא כותל שצידו אחד כנוס</row>
+		<row row_number="16" isdata="1">מחבירו בין שנראה מבחוץ ושוה מבפנים</row>
+		<row row_number="17" isdata="1">ובין שנראה מבפנים ושוה מבחוץ נידון משום</row>
+		<row row_number="18" isdata="1">לחי תסתיים ורבי יוחנן מי לא שמיע ליה הא</row>
+		<row row_number="19" isdata="1">אלא שמיע ליה ולא סבר לה רבי חייא נמי לא</row>
+		<row row_number="20" isdata="1">סבר לה האי מאי בשלמא ר' יוחנן לא סבר</row>
+		<row row_number="21" isdata="1">לה משום הכי לא תני לה אלא ר' חייא אי</row>
+		<row row_number="22" isdata="1">איתא דלא סבר לה למה ליה למיתנא אמר</row>
+		<row row_number="23" isdata="1">רבה בר רב הונא נראה מבחוץ ושוה</row>
+		<row row_number="24" isdata="1">מבפנים נידון משום לחי אמר רבה ומותבינן</row>
+		<row row_number="25" isdata="1">אשמעתין חצר קטנה שנפרצה לגדולה</row>
+		<row row_number="26" isdata="1">גדולה מותרת וקטנה אסורה מפני שהיא</row>
+		<row row_number="27" isdata="1">כפתחה של גדולה ואם איתא קטנה נמי</row>
+		<row row_number="28" isdata="1">תשתרי בנראה מבחוץ ושוה מבפנים אמר</row>
+		<row row_number="29" isdata="1">ר' זירא בנכנסין כותלי קטנה לגדולה ולימא</row>
+		<row row_number="30" isdata="1">לבוד ותשתרי וכי תימא דמפלגי טובא והא</row>
+		<row row_number="31" isdata="1">תני רב אדא בר אבימי קמיה דר' חנינא</row>
+		<row row_number="32" isdata="1">קטנה בעשר גדולה באחת עשרה אמר</row>
+		<row row_number="33" isdata="1">רבינא במופלגין מכותל זה בשנים ומכותל</row>
+		<row row_number="34" isdata="1">זה בד' ולימא לבוד מרוח אחת ותשתרי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:43.696323</dateCreated>
+   <lastModified>2019-12-21 20:32:43.696323</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שמאי אומר"/><ContGemara/>איכא בינייהו למרמי חבית ומקוה ומבוי</row>
+		<row row_number="2" isdata="1">להאיך לישנא איכא למרמינהו להני לישני</row>
+		<row row_number="3" isdata="1">ליכא למרמי ומאי איכא בין האי לישנא</row>
+		<row row_number="4" isdata="1">להאיך לישנא לאביי איכא מוך לרבא איכא</row>
+		<row row_number="5" isdata="1">מוך דחוק תניא כי האי לישנא דאם איתא</row>
+		<row row_number="6" isdata="1">דהוה דם מעיקרא הוה אתי אמר לו הלל</row>
+		<row row_number="7" isdata="1">לשמאי אי אתה מודה בקופה שנשתמשו בה</row>
+		<row row_number="8" isdata="1">טהרות בזוית זו ונמצא שרץ בזוית אחרת</row>
+		<row row_number="9" isdata="1">שטהרות הראשונות טמאות אמר לו אבל</row>
+		<row row_number="10" isdata="1">ומה הפרש בין זו לזו לזו יש לה שולים לזו</row>
+		<row row_number="11" isdata="1">אין לה שולים רבא אמר טעמא דשמאי משום</row>
+		<row row_number="12" isdata="1">בטול פריה ורביה תניא נמי הכי אמר לו</row>
+		<row row_number="13" isdata="1">שמאי להלל א"כ בטלת בנות ישראל מפריה</row>
+		<row row_number="14" isdata="1">ורביה ומאן דתני האי לישנא הא תניא כי</row>
+		<row row_number="15" isdata="1">האיך לישנא דאם איתא דהוה דם מעיקרא</row>
+		<row row_number="16" isdata="1">הוה אתי התם הלל הוא דקטעי הוא סבר</row>
+		<row row_number="17" isdata="1">טעמא דשמאי דאם איתא דהוה דם מעיקרא</row>
+		<row row_number="18" isdata="1">הוה אתי וקא מקשי ליה קופה ואמר ליה</row>
+		<row row_number="19" isdata="1">שמאי טעמא דידי משום בטול פריה ורביה</row>
+		<row row_number="20" isdata="1">ולמאי דקטעית נמי דקמקשית קופה לזו יש</row>
+		<row row_number="21" isdata="1">לה שולים ולזו אין לה שולים ולמאן דתני האי</row>
+		<row row_number="22" isdata="1">לישנא הא תניא כי האיך לישנא משום בטול</row>
+		<row row_number="23" isdata="1">פריה ורביה הכי קאמר ליה הלל לשמאי אין</row>
+		<row row_number="24" isdata="1">טעמא קאמרת דאם איתא דהוה דם מעיקרא</row>
+		<row row_number="25" isdata="1">הוה אתי ומיהו עשה סייג לדבריך דמאי שנא</row>
+		<row row_number="26" isdata="1">מכל התורה כולה דעבדינן סייג אמר ליה</row>
+		<row row_number="27" isdata="1">א"כ בטלת בנות ישראל מפריה ורביה והלל</row>
+		<row row_number="28" isdata="1">מפריה ורביה מי קאמינא לטהרות הוא</row>
+		<row row_number="29" isdata="1">דקאמינא ושמאי לטהרות נמי לא דאם כן</row>
+		<row row_number="30" isdata="1">לבו נוקפו ופורש (שולי"ם בדוקי"ן מכוסי"ן</row>
+		<row row_number="31" isdata="1">בזוי"ת סימ"ן) איתמר קופה שנשתמשו בה</row>
+		<row row_number="32" isdata="1">טהרות בזוית זו ונמצא שרץ בזוית אחרת</row>
+		<row row_number="33" isdata="1">חזקיה אמר טהרות הראשונות טהורות רבי</row>
+		<row row_number="34" isdata="1">יוחנן אמר טהרות הראשונות טמאות והא</row>
+		<row row_number="35" isdata="1">(בית) שמאי והלל מודו בקופה דטהרות</row>
+		<row row_number="36" isdata="1">הראשונות טמאות כי מודו שמאי והלל בקופה</row>
+		<row row_number="37" isdata="1">שיש לה שולים כי פליגי חזקיה ורבי יוחנן</row>
+		<row row_number="38" isdata="1">בקופה שאין לה שולים אין לה שולים מ"ט</row>
+		<row row_number="39" isdata="1">דר' יוחנן אין לה שולים ויש לה אוגנים</row>
+		<row row_number="40" isdata="1">והתניא המדלה עשרה דליים מים בזה</row>
+		<row row_number="41" isdata="1">אחר זה ונמצא שרץ באחד מהן הוא טמא</row>
+		<row row_number="42" isdata="1">וכולן טהורין ואמר ריש לקיש משום רבי ינאי</row>
+		<row row_number="43" isdata="1">לא שנו אלא שאין לה אוגנים אבל יש לה</row>
+		<row row_number="44" isdata="1">אוגנים כולן טמאין לימא חזקיה לית ליה דר'</row>
+		<row row_number="45" isdata="1">ינאי מיא שרקי פירי לא שרקי אי נמי מיא לא</row>
+		<row row_number="46" isdata="1">קפיד עלייהו פירי קפיד עלייהו ואי בעית אימא</row>
+		<row row_number="47" isdata="1">כי מודו שמאי והלל בקופה שאינה בדוקה</row>
+</amud>
+</daf>
+</masechet>
+</root>

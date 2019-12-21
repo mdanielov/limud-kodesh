@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:15.341195</dateCreated>
+   <lastModified>2019-12-21 20:31:15.341195</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="108">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בית כור"/><ContGemara/>כדי שלא תהא חיה קופצת ולעביד חריץ</row>
+		<row row_number="2" isdata="1">ולא לעביד בן חריץ איידי דרווח קיימא</row>
+		<row row_number="3" isdata="1">בגויה וקפצה ולעביד בן חריץ ולא לעביד</row>
+		<row row_number="4" isdata="1">חריץ איידי דקטין קיימא אשפתיה וקפצה</row>
+		<row row_number="5" isdata="1">וכמה בין חריץ לבן חריץ טפח<EndChapter name = "בית כור"/><EndGemara/></row>
+		<row row_number="6" isdata="0">הדרן עלך בית כור</row>
+		<row row_number="7" isdata="1"><StartChapter name = "יש נוחלין"/><StartMishna/>יש נוחלין ומנחילין ויש נוחלין ולא</row>
+		<row row_number="8" isdata="1">מנחילין מנחילין ולא נוחלין</row>
+		<row row_number="9" isdata="1">לא נוחלין ולא מנחילין ואלו נוחלין</row>
+		<row row_number="10" isdata="1">ומנחילין האב את הבנים והבנים את האב</row>
+		<row row_number="11" isdata="1">והאחין מן האב נוחלין ומנחילין האיש</row>
+		<row row_number="12" isdata="1">את אמו והאיש את אשתו ובני אחיות</row>
+		<row row_number="13" isdata="1">נוחלין ולא מנחילין האשה את בניה</row>
+		<row row_number="14" isdata="1">והאשה את בעלה ואחי האם מנחילין ולא</row>
+		<row row_number="15" isdata="1">נוחלין והאחין מן האם לא נוחלין ולא</row>
+		<row row_number="16" isdata="1">מנחילין<EndMishna/><StartGemara/>גמ' מאי שנא דקתני האב את</row>
+		<row row_number="17" isdata="1">הבנים ברישא ליתני הבנים את האב ברישא</row>
+		<row row_number="18" isdata="1">חדא דאתחולי בפורענותא לא מתחלינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

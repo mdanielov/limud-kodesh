@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:05.065238</dateCreated>
+   <lastModified>2019-12-21 20:31:05.065238</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="115">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המקבל"/><ContGemara/>למה חוזרין וממשכנין שלא תהא שביעית</row>
+		<row row_number="2" isdata="1">משמטתו ולא יעשה מטלטלין אצל בניו</row>
+		<row row_number="3" isdata="1">טעמא דהדר ומשכניה הא לא הדר ומשכניה</row>
+		<row row_number="4" isdata="1">לא אמר רב אדא בר מתנא ולאו תרוצי קא</row>
+		<row row_number="5" isdata="1">מתרצת לה תריץ הכי וכי מאחר שמחזירין</row>
+		<row row_number="6" isdata="1">למה ממשכנין מעיקרא שלא תהא שביעית</row>
+		<row row_number="7" isdata="1">משמטתו ולא יעשה מטלטלין אצל בניו</row>
+		<row row_number="8" isdata="1">ת"ר לא תבא אל ביתו לעבוט עבוטו לביתו</row>
+		<row row_number="9" isdata="1">אי אתה נכנס אבל אתה נכנס לביתו של</row>
+		<row row_number="10" isdata="1">ערב וכן הוא אומר לקח בגדו כי ערב זר</row>
+		<row row_number="11" isdata="1">וגו' ואומר בני אם ערבת לרעך תקעת לזר</row>
+		<row row_number="12" isdata="1">כפיך נוקשת באמרי פיך נלכדת באמרי פיך</row>
+		<row row_number="13" isdata="1">עשה זאת אפוא בני והנצל כי באת בכף</row>
+		<row row_number="14" isdata="1">רעך לך התרפס ורהב רעיך אם ממון יש</row>
+		<row row_number="15" isdata="1">לו בידך התר לו פיסת יד ואם לאו הרבה</row>
+		<row row_number="16" isdata="1">עליו רעים לצד שני לביתו אי אתה נכנס</row>
+		<row row_number="17" isdata="1">אבל אתה נכנס לשכר כתף לשכר חמר</row>
+		<row row_number="18" isdata="1">לשכר פונדק לשכר דיוקנאות יכול אפילו</row>
+		<row row_number="19" isdata="1">זקפן עליו במלוה ת"ל משאת מאומהמתני'</row>
+		<row row_number="20" isdata="1">אלמנה בין שהיא ענייה בין שהיא עשירה</row>
+		<row row_number="21" isdata="1">אין ממשכנין אותה שנאמר לא תחבול</row>
+		<row row_number="22" isdata="1">בגד אלמנה<EndMishna/><StartGemara/>גמ' ת"ר אלמנה בין שהיא ענייה בין שהיא עשירה אין</row>
+		<row row_number="23" isdata="1">ממשכנין אותה דברי ר' יהודה ר"ש אומר עשירה ממשכנין אותה ענייה אין</row>
+		<row row_number="24" isdata="1">ממשכנין אותה שאתה חייב להחזיר לה ואתה משיאה שם רע בשכנותיה</row>
+		<row row_number="25" isdata="1">למימרא דר' יהודה לא דריש טעמא דקרא ור"ש דריש טעמא דקרא והא</row>
+		<row row_number="26" isdata="1">איפכא שמעינן להו דתניא ולא ירבה לו נשים ר' יהודה אומר מרבה הוא</row>
+		<row row_number="27" isdata="1">ובלבד שלא יהו מסירות את לבו ר"ש אומר אפילו אחת והיא מסירה את</row>
+		<row row_number="28" isdata="1">לבו ה"ז לא ישאנה א"כ מה ת"ל ולא ירבה לו נשים אפילו כאביגיל</row>
+		<row row_number="29" isdata="1">לעולם ר' יהודה לא דריש טעמא דקרא ושאני הכא דמפרש קרא ולא</row>
+		<row row_number="30" isdata="1">ירבה לו נשים ולא יסור מאי טעמא לא ירבה לו נשים משום דלא</row>
+		<row row_number="31" isdata="1">יסור ור"ש מכדי בעלמא דרשינן טעמא דקרא לכתוב רחמנא לא</row>
+		<row row_number="32" isdata="1">ירבה ולא בעינן לא יסור ואנא ידענא מאי טעמא לא ירבה משום</row>
+		<row row_number="33" isdata="1">דלא יסור לא יסור דכתב רחמנא למה לי אפילו אחת ומסירה את</row>
+		<row row_number="34" isdata="1">לבו הרי זה לא ישאנהמתני' החובל את הריחים עובר משום לא</row>
+		<row row_number="35" isdata="1">תעשה וחייב משום שני כלים שנאמר לא יחבול ריחים ורכב ולא</row>
+		<row row_number="36" isdata="1">ריחים ורכב בלבד אמרו אלא כל דבר שעושין בו אוכל נפש שנאמר</row>
+		<row row_number="37" isdata="1">כי נפש הוא חובל<EndMishna/><StartGemara/>גמ' אמר רב הונא חבל ריחים לוקה שתים</row>
+		<row row_number="38" isdata="1">משום ריחים ומשום כי נפש הוא חובל ריחים ורכב לוקה שלש משום</row>
+		<row row_number="39" isdata="1">ריחים ורכב ומשום כי נפש הוא חובל ורב יהודה אמר חבל ריחים</row>
+		<row row_number="40" isdata="1">לוקה אחת ורכב לוקה אחת ריחים ורכב לוקה שתים כי נפש הוא חובל</row>
+</amud>
+</daf>
+</masechet>
+</root>

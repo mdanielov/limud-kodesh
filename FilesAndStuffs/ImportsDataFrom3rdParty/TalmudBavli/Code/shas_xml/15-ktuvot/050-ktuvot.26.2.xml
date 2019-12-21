@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:05.633859</dateCreated>
+   <lastModified>2019-12-21 20:30:05.633859</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה שנתארמלה"/><ContGemara/>ואסקיניה ואתו בי תרי ואמרי בן גרושה ובן</row>
+		<row row_number="2" isdata="1">חלוצה הוא ואחתיניה ואתא עד אחד ואמר</row>
+		<row row_number="3" isdata="1">ידענא ביה דכהן הוא ודכולי עלמא מצטרפין</row>
+		<row row_number="4" isdata="1">לעדות והכא במיחש לזילותא דבי דינא</row>
+		<row row_number="5" isdata="1">קמיפלגי תנא קמא סבר כיון דאחתיניה לא</row>
+		<row row_number="6" isdata="1">מסקינן ליה חיישינן לזילותא דבי דינא</row>
+		<row row_number="7" isdata="1">ורשב"ג סבר אנן אחתינן ליה ואנן מסקינן</row>
+		<row row_number="8" isdata="1">ליה ולזילותא דבי דינא לא חיישינן מתקיף</row>
+		<row row_number="9" isdata="1">לה רב אשי אי הכי אפי' תרי ותרי נמי אלא</row>
+		<row row_number="10" isdata="1">אמר רב אשי במצטרפין לעדות קמיפלגי</row>
+		<row row_number="11" isdata="1">ובפלוגתא דהני תנאי דתניא אין עדותן</row>
+		<row row_number="12" isdata="1">מצטרפת עד שיראו שניהם כאחד ר' יהושע</row>
+		<row row_number="13" isdata="1">בן קרחה אמר אפי' בזה אחר זה ואין עדותן</row>
+		<row row_number="14" isdata="1">מתקיימת בב"ד עד שיעידו שניהם כאחד ר'</row>
+		<row row_number="15" isdata="1">נתן אומר שומעין דבריו של זה היום</row>
+		<row row_number="16" isdata="1">וכשיבא חבירו למחר שומעין דבריו</row>
+		<row row_number="17" isdata="1"><EndGemara/><StartMishna/>מתני' האשה שנחבשה בידי עובדי</row>
+		<row row_number="18" isdata="1">כוכבים על ידי ממון מותרת לבעלה על ידי</row>
+		<row row_number="19" isdata="1">נפשות אסורה לבעלה<EndMishna/><StartGemara/>גמ' אמר רב</row>
+		<row row_number="20" isdata="1">שמואל בר רב יצחק אמר רב לא שנו</row>
+		<row row_number="21" isdata="1">אלא שיד ישראל תקיפה על עובדי כוכבים</row>
+		<row row_number="22" isdata="1">אבל יד עובדי כוכבים תקיפה על עצמן</row>
+		<row row_number="23" isdata="1">אפילו על ידי ממון אסורה לבעלה</row>
+		<row row_number="24" isdata="1">מתיב רבא העיד רבי יוסי הכהן ור' זכריה</row>
+		<row row_number="25" isdata="1">בן הקצב על בת ישראל שהורהנה באשקלון</row>
+		<row row_number="26" isdata="1">וריחקוה בני משפחתה ועדיה מעידים</row>
+		<row row_number="27" isdata="1">אותה שלא נסתרה ושלא נטמאה ואמרו</row>
+		<row row_number="28" isdata="1">להם חכמים אם אתם מאמינים שהורהנה האמינו שלא נסתרה ושלא</row>
+		<row row_number="29" isdata="1">נטמאה ואם אי אתם מאמינים שלא נסתרה ושלא נטמאה אל תאמינו</row>
+		<row row_number="30" isdata="1">שהורהנה והא אשקלון דיד עובדי כוכבים תקיפה על עצמן וקתני</row>
+</amud>
+</daf>
+</masechet>
+</root>

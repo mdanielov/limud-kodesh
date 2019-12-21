@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:57.035000</dateCreated>
+   <lastModified>2019-12-21 20:29:57.035000</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="53">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "רבן גמליאל"/><ContGemara/>יש זיקה ואתאי חליצה אפקעתיה לזיקה</row>
+		<row row_number="2" isdata="1">ורבנן סברי אין זיקה מעיקרא אילו אמר</row>
+		<row row_number="3" isdata="1">לה התקדשי לי בזיקת יבמין מי לא מהני</row>
+		<row row_number="4" isdata="1">השתא נמי מהני רב שרביא אמר בחליצה</row>
+		<row row_number="5" isdata="1">כשירה אי דאמר לה התקדשי לי בזיקת</row>
+		<row row_number="6" isdata="1">יבמין כ"ע לא פליגי דלא מהני והכא בחליצה</row>
+		<row row_number="7" isdata="1">פסולה קמיפלגי מר סבר חליצה פסולה</row>
+		<row row_number="8" isdata="1">פוטרת ומר סבר חליצה פסולה אינה פוטרת</row>
+		<row row_number="9" isdata="1">רב אשי אמר דכ"ע חליצה פסולה אינה</row>
+		<row row_number="10" isdata="1">פוטרת והכא ביש תנאי בחליצה קמיפלגי</row>
+		<row row_number="11" isdata="1">מר סבר יש תנאי בחליצה ומר סבר אין</row>
+		<row row_number="12" isdata="1">תנאי בחליצה רבינא אמר דכ"ע יש תנאי</row>
+		<row row_number="13" isdata="1">בחליצה והכא בתנאי כפול קמיפלגי מר</row>
+		<row row_number="14" isdata="1">סבר בעינן תנאי כפול ומר סבר לא בעינן</row>
+		<row row_number="15" isdata="1">תנאי כפול חלץ ועשה מאמר ונתן גט</row>
+		<row row_number="16" isdata="1">ובעל וכו' וניתני נמי אין אחר ביאה כלום</row>
+		<row row_number="17" isdata="1">אביי ורבא דאמרי תרוייהו תני אין אחר</row>
+		<row row_number="18" isdata="1">ביאה כלום ותנא דידן התרת יבמה לשוק</row>
+		<row row_number="19" isdata="1">עדיפא ליה אחד יבמה אחת אחד שתי</row>
+		<row row_number="20" isdata="1">יבמות מתני' דלא כבן עזאי דתניא בן</row>
+		<row row_number="21" isdata="1">עזאי אומר יש מאמר אחר מאמר בשני</row>
+		<row row_number="22" isdata="1">יבמין ויבמה אחת ואין מאמר אחר מאמר</row>
+		<row row_number="23" isdata="1">בשתי יבמות ויבם אחד כיצד מאמר לזו</row>
+		<row row_number="24" isdata="1">וכו' לימא מסייע ליה לשמואל דאמר שמואל</row>
+		<row row_number="25" isdata="1">חלץ לבעלת מאמר לא נפטרה צרתה</row>
+		<row row_number="26" isdata="1">ותיובתא דרב יוסף מי קתני חולץ חלץ</row>
+		<row row_number="27" isdata="1">קתני דיעבד גט לזו וגט לזו כו' לימא</row>
+		<row row_number="28" isdata="1">מסייע ליה לרבה בר רב הונא דאמר רבה</row>
+		<row row_number="29" isdata="1">בר רב הונא חליצה פסולה צריכה לחזר</row>
+		<row row_number="30" isdata="1">על כל האחין מאי צריכות צריכות דעלמא</row>
+		<row row_number="31" isdata="1">גט לזו וחלץ לזו לימא מסייע ליה לשמואל</row>
+		<row row_number="32" isdata="1">ותהוי תיובתא דרב יוסף מי קתני חולץ חלץ</row>
+		<row row_number="33" isdata="1">קתני דיעבד חלץ וחלץ או חלץ וכו'</row>
+		<row row_number="34" isdata="1">וליתני נמי אין אחר ביאה כלום אביי ורבא</row>
+		<row row_number="35" isdata="1">דאמרי תרוייהו תני אין אחר ביאה כלום</row>
+		<row row_number="36" isdata="1">ותנא דידן התרת יבמה לשוק עדיפא ליה</row>
+		<row row_number="37" isdata="1">בין יבם אחד לשתי יבמות כו' בשלמא</row>
+		<row row_number="38" isdata="1">לרבי יוחנן דאמר כולה ביתא בלאו קאי</row>
+		<row row_number="39" isdata="1">איצטריך לאשמועינן דאין קדושין תופסין</row>
+		<row row_number="40" isdata="1">בחייבי לאוין אלא לר"ל דאמר כולה ביתא בכרת קאי איצטריך לאשמועינן</row>
+		<row row_number="41" isdata="1">דאין קדושין תופסין בחייבי כריתות אמר לך ר"ל וליטעמיך סיפא דקתני</row>
+		<row row_number="42" isdata="1">בעל ועשה מאמר איצטריך לאשמועינן דאין קדושין תופסין באשת איש</row>
+		<row row_number="43" isdata="1">אלא איידי דתנא התרת יבם אחד ויבמה אחת תנא נמי שתי יבמות ויבם</row>
+		<row row_number="44" isdata="1">אחד ואיידי דתנא שתי יבמות ויבם אחד תנא נמי שתי יבמין ויבמה אחת</row>
+</amud>
+</daf>
+</masechet>
+</root>

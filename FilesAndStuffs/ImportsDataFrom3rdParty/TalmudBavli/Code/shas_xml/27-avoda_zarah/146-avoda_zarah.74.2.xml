@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:49.130908</dateCreated>
+   <lastModified>2019-12-21 20:31:49.130908</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="74">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השוכר את הפועל"/><ContMishna/>מתני' גת של אבן שזפתה עובד כוכבים<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">מנגבה והיא טהורה ושל עץ רבי אומר</row>
+		<row row_number="3" isdata="1">ינגב וחכ"א יקלוף את הזפת ושל חרס</row>
+		<row row_number="4" isdata="1">אע"פ שקלף את הזפת הרי זו אסורה</row>
+		<row row_number="5" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רבא דוקא זפתה אבל דרך בה</row>
+		<row row_number="6" isdata="1">לא פשיטא זפתה תנן מהו דתימא הוא הדין</row>
+		<row row_number="7" isdata="1">אפילו דרך בה והאי דקתני זפתה אורחא</row>
+		<row row_number="8" isdata="1">דמלתא קתני קמ"ל איכא דאמרי אמר רבא</row>
+		<row row_number="9" isdata="1">דוקא זפתה אבל דרך בה לא סגי לה בניגוב</row>
+		<row row_number="10" isdata="1">פשיטא זפתה תנן מהו דתימא ה"ה דאפילו</row>
+		<row row_number="11" isdata="1">דרך בה והאי דקתני זפתה אורחא דמלתא</row>
+		<row row_number="12" isdata="1">קתני קמ"ל דוקא זפתה אבל דרך בה</row>
+		<row row_number="13" isdata="1">לא סגי לה בניגוב כי ההוא דאתא</row>
+		<row row_number="14" isdata="1">לקמיה דרבי חייא א"ל הב לי גברא דדכי</row>
+		<row row_number="15" isdata="1">לי מעצרתאי א"ל לרב זיל בהדיה וחזי דלא</row>
+		<row row_number="16" isdata="1">מצוחת עלי בי מדרשא אזל חזייה דהוה</row>
+		<row row_number="17" isdata="1">שיעא טפי אמר הא ודאי בניגוב סגי לה</row>
+		<row row_number="18" isdata="1">בהדי דקא אזיל ואתי חזא פילא מתותיה וחזא</row>
+		<row row_number="19" isdata="1">דהוה מלא חמרא אמר הא לא סגי לה</row>
+		<row row_number="20" isdata="1">בניגוב אלא בקילוף והיינו דא"ל חביבי</row>
+		<row row_number="21" isdata="1">חזי דלא מצוחת עלי בי מדרשא ת"ר הגת</row>
+		<row row_number="22" isdata="1">והמחץ והמשפך של עובדי כוכבים רבי</row>
+		<row row_number="23" isdata="1">מתיר בניגוב וחכמים אוסרין ומודה רבי</row>
+		<row row_number="24" isdata="1">בקנקנים של עובדי כוכבים שהן אסורין ומה</row>
+		<row row_number="25" isdata="1">הפרש בין זה לזה זה מכניסו בקיום וזה</row>
+		<row row_number="26" isdata="1">אין מכניסו בקיום ושל עץ ושל אבן ינגב</row>
+		<row row_number="27" isdata="1">ואם היו מזופפין אסורין והתנן גת של אבן</row>
+		<row row_number="28" isdata="1">שזפתה עובד כוכבים מנגבה והיא טהורה</row>
+		<row row_number="29" isdata="1">מתניתין דלא דרך בה ברייתא דדרך בה</row>
+		<row row_number="30" isdata="1">אמר מר הגת והמחץ והמשפך של עובדי</row>
+		<row row_number="31" isdata="1">כוכבים רבי מתיר בניגוב וחכמים אוסרין</row>
+		<row row_number="32" isdata="1">והאנן תנן של חרס אע"פ שקלף את הזפת</row>
+		<row row_number="33" isdata="1">הרי זו אסורה אמר רבא סיפא דמתני' אתאן</row>
+		<row row_number="34" isdata="1">לרבנן דרש רבא נעוה ארתחו רבא כי הוה</row>
+		<row row_number="35" isdata="1">משדר גולפי להרפניא סחיף להו אפומייהו</row>
+		<row row_number="36" isdata="1">וחתים להו אבירצייהו קסבר כל דבר שמכניסו</row>
+		<row row_number="37" isdata="1">לקיום אפילו לפי שעה גזרו ביה רבנן במה</row>
+		<row row_number="38" isdata="1">מנגבן רב אמר במים רבה בר בר חנה אמר</row>
+		<row row_number="39" isdata="1">באפר רב אמר במים במים ולא באפר רבה</row>
+		<row row_number="40" isdata="1">בר בר חנה אמר באפר באפר ולא במים אלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

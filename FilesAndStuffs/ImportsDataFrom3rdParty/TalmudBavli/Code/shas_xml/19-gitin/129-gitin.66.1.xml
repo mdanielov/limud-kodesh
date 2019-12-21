@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:34.111400</dateCreated>
+   <lastModified>2019-12-21 20:30:34.111400</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="66">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContGemara/>דרא רבי אבינא לסילתיה ואזל לגבי דרב</row>
+		<row row_number="2" isdata="1">הונא רביה דאמר רב הונא גיטו כמתנתו</row>
+		<row row_number="3" isdata="1">מה מתנתו אם עמד חוזר אף גיטו אם עמד</row>
+		<row row_number="4" isdata="1">חוזר ומה גיטו אע"ג דלא פריש כיון דאמר</row>
+		<row row_number="5" isdata="1">כתבו אע"ג דלא אמר תנו אף מתנתו</row>
+		<row row_number="6" isdata="1">כיון דאמר תנו אע"ג דלא קנו מיניה</row>
+		<row row_number="7" isdata="1">מתקיף לה רבי אבא אי מה מתנה ישנה</row>
+		<row row_number="8" isdata="1">לאחר מיתה אף גט ישנו לאחר מיתה</row>
+		<row row_number="9" isdata="1">הכי השתא בשלמא מתנה איתה לאחר</row>
+		<row row_number="10" isdata="1">מיתה אלא גט לאחר מיתה מי איכא אלא</row>
+		<row row_number="11" isdata="1">רבי אבא הכי קא קשיא ליה מתנת שכיב</row>
+		<row row_number="12" isdata="1">מרע במקצת היא ומתנת שכ"מ במקצת</row>
+		<row row_number="13" isdata="1">בעיא קנין מכלל דרב הונא סבר לא בעיא</row>
+		<row row_number="14" isdata="1">קנין והא קי"ל דבעיא קנין שאני הכא</row>
+		<row row_number="15" isdata="1">דמצוה מחמת מיתה הוא מכלל דר' אבא</row>
+		<row row_number="16" isdata="1">סבר מצוה מחמת מיתה בעיא קנין והא</row>
+		<row row_number="17" isdata="1">קי"ל דלא בעי קנין אלא רבי אבא הכי קא</row>
+		<row row_number="18" isdata="1">קשיא ליה חמרא לא קאמר דמי חמרא לא</row>
+		<row row_number="19" isdata="1">קאמר מחמרא קאמר ואידך מחמרא כדי</row>
+		<row row_number="20" isdata="1">לייפות את כחו שלחו מתם מחמרא כדי</row>
+		<row row_number="21" isdata="1">לייפות את כחומתני' מי שהיה מושלך</row>
+		<row row_number="22" isdata="1">לבור ואמר כל השומע את קולו יכתוב גט</row>
+		<row row_number="23" isdata="1">לאשתו הרי אלו יכתבו ויתנו<EndMishna/><StartGemara/>גמ' וליחוש</row>
+		<row row_number="24" isdata="1">שמא שד הוא א"ר יהודה כשראו לו דמות</row>
+		<row row_number="25" isdata="1">אדם אינהו נמי אידמויי אידמו דחזו ליה</row>
+		<row row_number="26" isdata="1">בבואה אינהו נמי אית להו בבואה דחזו ליה</row>
+		<row row_number="27" isdata="1">בבואה דבבואה ודלמא אינהו נמי אית</row>
+		<row row_number="28" isdata="1">להו א"ר חנינא לימדני יונתן בני בבואה</row>
+		<row row_number="29" isdata="1">אית להו בבואה דבבואה לית להו ודלמא</row>
+		<row row_number="30" isdata="1">צרה היא תנא דבי רבי ישמעאל בשעת</row>
+		<row row_number="31" isdata="1">הסכנה כותבין ונותנין אע"פ שאין מכירין</row>
+		<row row_number="32" isdata="1"><EndGemara/><StartMishna/>מתני' הבריא שאמר כתבו גט לאשתי</row>
+		<row row_number="33" isdata="1">רצה לשחק בה מעשה בבריא אחד שאמר</row>
+		<row row_number="34" isdata="1">כתבו גט לאשתי ועלה לראש הגג ונפל</row>
+		<row row_number="35" isdata="1">ומת אמר רשב"ג אם מעצמו נפל הרי זה</row>
+		<row row_number="36" isdata="1">גט אם הרוח דחתו אינו גט<EndMishna/><StartGemara/>גמ' מעשה</row>
+		<row row_number="37" isdata="1">לסתור חסורי מיחסרא והכי קתני אם הוכיח</row>
+		<row row_number="38" isdata="1">סופו על תחילתו הרי זה גט ומעשה נמי</row>
+		<row row_number="39" isdata="1">בבריא שאמר כתבו גט לאשתי ועלה</row>
+		<row row_number="40" isdata="1">לראש הגג ונפל ומת ואמר רשב"ג אם</row>
+		<row row_number="41" isdata="1">מעצמו נפל הרי זה גט אם הרוח דחתו</row>
+		<row row_number="42" isdata="1">אינו גט ההוא גברא דעל לבי כנישתא</row>
+		<row row_number="43" isdata="1">אשכח מקרי ינוקא ובריה דיתבי ויתיב איניש</row>
+		<row row_number="44" isdata="1">אחרינא גבייהו אמר להו בי תרי מינייכו</row>
+		<row row_number="45" isdata="1">נכתבו גיטא לדביתהו לסוף שכיב מקרי ינוקא</row>
+		<row row_number="46" isdata="1">מי משוו אינשי ברא שליחא במקום אבא או</row>
+		<row row_number="47" isdata="1">לא רב נחמן אמר לא משוו אינשי ברא</row>
+		<row row_number="48" isdata="1">שליחא במקום אבא ורב פפי אמר משוו</row>
+		<row row_number="49" isdata="1">אינשי ברא שליחא במקום אבא אמר רבא</row>
+		<row row_number="50" isdata="1">הילכת' משוו אינשי ברא שליח' במקום אבא</row>
+		<row row_number="51" isdata="1"><EndGemara/><StartMishna/>מתני' אמר לשנים תנו גט לאשתי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:09.573200</dateCreated>
+   <lastModified>2019-12-21 20:31:09.573200</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="44">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>בסתמא דלא משתעבדא ליה מאי טעמא</row>
+		<row row_number="2" isdata="1">מטלטלי נינהו ומטלטלי לבע"ח לא</row>
+		<row row_number="3" isdata="1">משתעבדי ואע"ג דכתב ליה מגלימא דעל</row>
+		<row row_number="4" isdata="1">כתפיה הני מילי דאיתנהו בעינייהו אבל</row>
+		<row row_number="5" isdata="1">ליתנהו בעינייהו לא אלא אפילו עשאו</row>
+		<row row_number="6" isdata="1">אפותיקי נמי לא מאי טעמא כדרבא דאמר</row>
+		<row row_number="7" isdata="1">רבא עשה עבדו אפותיקי ומכרו בעל חוב</row>
+		<row row_number="8" isdata="1">גובה ממנו שורו וחמורו אפותיקי ומכרו אין</row>
+		<row row_number="9" isdata="1">בעל חוב גובה הימנו מאי טעמא האי אית</row>
+		<row row_number="10" isdata="1">ליה קלא והא לית ליה קלא וליחוש דלמא</row>
+		<row row_number="11" isdata="1">אקני ליה מטלטלי אגב מקרקעי דאמר רבה</row>
+		<row row_number="12" isdata="1">אי אקני ליה מטלטלי אגב מקרקעי קני</row>
+		<row row_number="13" isdata="1">מקרקעי קני מטלטלי ואמר רב חסדא והוא</row>
+		<row row_number="14" isdata="1">דכתב ליה דלא כאסמכתא ודלא כטופסא</row>
+		<row row_number="15" isdata="1">דשטרי הכא במאי עסקינן כגון שלקח ומכר</row>
+		<row row_number="16" isdata="1">לאלתר וליחוש דילמא דאיקני הוא שמעת</row>
+		<row row_number="17" isdata="1">מינה דאיקני קנה ומכר קנה והוריש לא</row>
+		<row row_number="18" isdata="1">משתעבד לא צריכא דקאמרי עדים ידעינן</row>
+		<row row_number="19" isdata="1">ביה בהאי דלא הוה ליה ארעא מעולם</row>
+		<row row_number="20" isdata="1">והאמר רב פפא אע"ג דאמור רבנן המוכר</row>
+		<row row_number="21" isdata="1">שדה לחבירו שלא באחריות ובא בע"ח</row>
+		<row row_number="22" isdata="1">וטרפה אינו חוזר עליו נמצאת שאינה שלו</row>
+		<row row_number="23" isdata="1">חוזר עליו הכא במאי עסקינן במכיר בה</row>
+		<row row_number="24" isdata="1">שהיא בת חמורו ורב זביד אמר אפילו</row>
+		<row row_number="25" isdata="1">נמצאת שאינה שלו אינו חוזר עליו דא"ל</row>
+		<row row_number="26" isdata="1">להכי זביני לך שלא באחריות גופא אמר</row>
+		<row row_number="27" isdata="1">רבין בר שמואל משמיה דשמואל המוכר</row>
+		<row row_number="28" isdata="1">שדה לחבירו שלא באחריות אין מעיד לו עליה</row>
+		<row row_number="29" isdata="1">מפני שמעמידה בפני בעל חובו היכי דמי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:37.774734</dateCreated>
+   <lastModified>2019-12-21 20:31:37.774734</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="3">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שבועות שתים"/><ContGemara/>ועל הזקן שתים מיכן ושתים מיכן ואחת</row>
+		<row row_number="2" isdata="1">מלמטה חדא דמיחייב עלה תרתי תנא</row>
+		<row row_number="3" isdata="1">שבועות שתים שהן ארבע מאי שנא הכא</row>
+		<row row_number="4" isdata="1">דתני להו לכולהו ומאי שנא גבי יציאות</row>
+		<row row_number="5" isdata="1">שבת ומראות נגעים דלא קתני להו לכולהו</row>
+		<row row_number="6" isdata="1">אמרי שבועות וידיעות הטומאה דגבי הדדי</row>
+		<row row_number="7" isdata="1">כתיבין ודמיין אהדדי בקרבן עולה ויורד</row>
+		<row row_number="8" isdata="1">תני להו גבי הדדי ואיידי דתנא תרתי תנא</row>
+		<row row_number="9" isdata="1">כולהו פתח בשבועות ומפרש ידיעות</row>
+		<row row_number="10" isdata="1">הטומאה איידי דזוטרין מילייהו פסיק שרי</row>
+		<row row_number="11" isdata="1">להו והדר תני שבועות דנפישן מילייהו</row>
+		<row row_number="12" isdata="1">שבועות שתים שהן ארבע שתים שאוכל</row>
+		<row row_number="13" isdata="1">ושלא אוכל שהן ארבע אכלתי ושלא</row>
+		<row row_number="14" isdata="1">אכלתי ידיעות הטומאה שתים שהן ארבע</row>
+		<row row_number="15" isdata="1">שתים ידיעת טומאת קדש וידיעת טומאת</row>
+		<row row_number="16" isdata="1">מקדש שהן ארבע קדש ומקדש יציאות</row>
+		<row row_number="17" isdata="1">שבת שתים שהן ארבע שתים הוצאה דעני</row>
+		<row row_number="18" isdata="1">והוצאה דבעל הבית שהן ארבע הכנסה</row>
+		<row row_number="19" isdata="1">דעני והכנסה דבעל הבית מראות נגעים</row>
+		<row row_number="20" isdata="1">שנים שהן ארבעה שנים שאת ובהרת</row>
+		<row row_number="21" isdata="1">שהן ארבעה שאת ותולדתה בהרת ותולדתה</row>
+		<row row_number="22" isdata="1">מני מתניתין לא רבי ישמעאל ולא ר'</row>
+		<row row_number="23" isdata="1">עקיבא אי רבי ישמעאל האמר אינו חייב</row>
+		<row row_number="24" isdata="1">אלא על העתיד לבוא אי ר' עקיבא האמר על העלם טומאה הוא חייב</row>
+		<row row_number="25" isdata="1">ואינו חייב על העלם מקדש איבעית אימא רבי ישמעאל איבעית</row>
+		<row row_number="26" isdata="1">אימא ר' עקיבא איבעית אימא רבי ישמעאל מהן לחיוב ומהן</row>
+		<row row_number="27" isdata="1">לפטור ואיבעית אימא רבי עקיבא מהן לחיוב ומהן לפטור לפטור</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:23.879925</dateCreated>
+   <lastModified>2019-12-21 20:32:23.879925</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="104">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>נאכלת עם הזר על השלחן וניתנת לכל</row>
+		<row row_number="2" isdata="1">כהן שירצה אמר ליה אביי בשלמא אי</row>
+		<row row_number="3" isdata="1">אשמועינן חלת חוצה לארץ בארץ דאיכא</row>
+		<row row_number="4" isdata="1">למיגזר משום חלת הארץ דאורייתא ולא</row>
+		<row row_number="5" isdata="1">גזרינן איכא למשמע מינה אלא חו"ל משום</row>
+		<row row_number="6" isdata="1">דליכא למיגזר הוא אבל הכא אי שרית ליה</row>
+		<row row_number="7" isdata="1">לאסוקי עוף וגבינה אתי לאסוקי בשר</row>
+		<row row_number="8" isdata="1">וגבינה ומיכל בשר בחלב דאורייתא מתקיף</row>
+		<row row_number="9" isdata="1">לה רב ששת סוף סוף צונן בצונן הוא</row>
+		<row row_number="10" isdata="1">אמר אביי גזירה שמא יעלה באילפס רותח</row>
+		<row row_number="11" isdata="1">סוף סוף כלי שני הוא וכלי שני אינו מבשל</row>
+		<row row_number="12" isdata="1">אלא גזירה שמא יעלה באילפס ראשון</row>
+		<row row_number="13" isdata="1"><EndGemara/><StartMishna/>מתני' העוף עולה עם הגבינה על</row>
+		<row row_number="14" isdata="1">השולחן ואינו נאכל דברי ב"ש וב"ה אומרים</row>
+		<row row_number="15" isdata="1">לא עולה ולא נאכל א"ר יוסי זו מקולי</row>
+		<row row_number="16" isdata="1">ב"ש ומחומרי ב"ה באיזה שולחן אמרו</row>
+		<row row_number="17" isdata="1">בשולחן שאוכל עליו אבל בשולחן שסודר</row>
+		<row row_number="18" isdata="1">עליו את התבשיל נותן זה בצד זה ואינו</row>
+		<row row_number="19" isdata="1">חושש<EndMishna/><StartGemara/>גמ' רבי יוסי היינו ת"ק וכ"ת</row>
+		<row row_number="20" isdata="1">אכילה גופה איכא בינייהו דקאמר ת"ק</row>
+		<row row_number="21" isdata="1">בהעלאה קא מיפלגי באכילה לא פליגי</row>
+		<row row_number="22" isdata="1">ואמר ליה רבי יוסי אכילה גופה מקולי</row>
+		<row row_number="23" isdata="1">בית שמאי ומחומרי ב"ה והתניא רבי יוסי</row>
+		<row row_number="24" isdata="1">אומר ששה דברים מקולי ב"ש ומחומרי ב"ה</row>
+		<row row_number="25" isdata="1">וזו אחת מהן עוף עולה עם הגבינה על</row>
+		<row row_number="26" isdata="1">השולחן ואינו נאכל דברי ב"ש ובה"א לא</row>
+		<row row_number="27" isdata="1">עולה ולא נאכל אלא הא קמשמע לן מאן</row>
+		<row row_number="28" isdata="1">תנא קמא רבי יוסי כל האומר דבר בשם</row>
+		<row row_number="29" isdata="1">אומרו מביא גאולה לעולם שנאמר ותאמר</row>
+		<row row_number="30" isdata="1">אסתר למלך בשם מרדכי תנא אגרא חמוה</row>
+		<row row_number="31" isdata="1">דרבי אבא עוף וגבינה נאכלין באפיקורן הוא</row>
+		<row row_number="32" isdata="1">תני לה והוא אמר לה בלא נטילת ידים</row>
+		<row row_number="33" isdata="1">ובלא קינוח הפה רב יצחק בריה דרב</row>
+		<row row_number="34" isdata="1">משרשיא איקלע לבי רב אשי אייתו ליה</row>
+		<row row_number="35" isdata="1">גבינה אכל אייתו ליה בשרא אכל ולא משא</row>
+		<row row_number="36" isdata="1">ידיה אמרי ליה והא תאני אגרא חמוה דרבי</row>
+		<row row_number="37" isdata="1">אבא עוף וגבינה נאכלין באפיקורן עוף</row>
+		<row row_number="38" isdata="1">וגבינה אין בשר וגבינה לא אמר להו</row>
+		<row row_number="39" isdata="1">הני מילי בליליא אבל ביממא הא חזינא</row>
+		<row row_number="40" isdata="1">תניא בית שמאי אומרים מקנח ובית הלל</row>
+		<row row_number="41" isdata="1">אומרים מדיח מאי מקנח ומאי מדיח</row>
+</amud>
+</daf>
+</masechet>
+</root>

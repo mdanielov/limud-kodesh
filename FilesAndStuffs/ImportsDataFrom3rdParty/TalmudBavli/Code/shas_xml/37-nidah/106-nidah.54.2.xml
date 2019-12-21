@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:49.733364</dateCreated>
+   <lastModified>2019-12-21 20:32:49.733364</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="54">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בא סימן"/><ContGemara/>ימי לידה שאינה רואה בהן מהו שיעלו</row>
+		<row row_number="2" isdata="1">לספירת זיבתה אמר רב כהנא ת"ש ראתה</row>
+		<row row_number="3" isdata="1">שנים ולשלישי הפילה ואינה יודעת מה</row>
+		<row row_number="4" isdata="1">הפילה הרי זו ספק זיבה ספק לידה מביאה</row>
+		<row row_number="5" isdata="1">קרבן ואינו נאכל וימי לידתה שאין רואה</row>
+		<row row_number="6" isdata="1">בהן עולין לה לספירת זיבתה אמר רב</row>
+		<row row_number="7" isdata="1">פפא שאני התם כיון דאיכא למימר יולדת</row>
+		<row row_number="8" isdata="1">זכר היא וכל הני שבעה יתירי דקיהבינן</row>
+		<row row_number="9" isdata="1">לה סלקי לה לספירת זיבתה אמר ליה רב</row>
+		<row row_number="10" isdata="1">הונא בריה דרב יהושע לרב פפא ביולדת</row>
+		<row row_number="11" isdata="1">זכר איכא לספוקי ביולדת נקבה ליכא</row>
+		<row row_number="12" isdata="1">לספוקי אלא לאו שמע מינה עולין שמע</row>
+		<row row_number="13" isdata="1">מינה תשעה ימים טמאין ותשעה ימים</row>
+		<row row_number="14" isdata="1">טהורין משמשת שמונה ימים מתוך שמונה</row>
+		<row row_number="15" isdata="1">עשר עשרה ימים טמאין ועשרה ימים</row>
+		<row row_number="16" isdata="1">טהורים ימי שמושה כימי זיבתה וכן</row>
+		<row row_number="17" isdata="1">למאה וכן לאלף<EndChapter name = "בא סימן"/><EndGemara/></row>
+		<row row_number="18" isdata="0">הדרן עלך בא סימן</row>
+		<row row_number="19" isdata="1"><StartChapter name = "דם הנדה"/><StartMishna/>דם הנדה ובשר המת מטמאין לחין</row>
+		<row row_number="20" isdata="1">ומטמאין יבשין אבל הזוב והניע</row>
+		<row row_number="21" isdata="1">והרוק והשרץ והנבלה והשכבת זרע</row>
+		<row row_number="22" isdata="1">מטמאין לחין ואין מטמאין יבשין ואם יכולין</row>
+		<row row_number="23" isdata="1">להשרות ולחזור לכמות שהן מטמאין לחין</row>
+		<row row_number="24" isdata="1">ומטמאין יבשין וכמה היא שרייתן</row>
+		<row row_number="25" isdata="1">בפושרין מעת לעת רבי יוסי אומר בשר</row>
+		<row row_number="26" isdata="1">המת יבש ואינו יכול להשרות ולחזור</row>
+		<row row_number="27" isdata="1">לכמות שהיה טהור<EndMishna/><StartGemara/>גמ' מנא הני מילי</row>
+		<row row_number="28" isdata="1">אמר חזקיה דאמר קרא והדוה בנדתה</row>
+		<row row_number="29" isdata="1">מדוה כמותה מה היא מטמאה אף מדוה</row>
+		<row row_number="30" isdata="1">מטמאה אשכחן לח יבש מנלן אמר רבי</row>
+		<row row_number="31" isdata="1">יצחק אמר קרא יהיה בהויתו יהא ואימא</row>
+		<row row_number="32" isdata="1">הני מילי בלח ונעשה יבש יבש מעיקרו מנלן</row>
+		<row row_number="33" isdata="1">ותו הא דתנן המפלת כמין קליפה כמין</row>
+		<row row_number="34" isdata="1">עפר כמין שערה כמין יבחושין אדומים</row>
+		<row row_number="35" isdata="1">תטיל למים אם נמוחו טמא מנלן יהיה רבויא</row>
+		<row row_number="36" isdata="1">הוא אי מה היא עושה משכב ומושב לטמא</row>
+		<row row_number="37" isdata="1">אדם ולטמא בגדים אף דמה נמי עושה</row>
+		<row row_number="38" isdata="1">משכב ומושב לטמא אדם ולטמא בגדים</row>
+		<row row_number="39" isdata="1">אטו דמה בר משכב ומושב הוא ולטעמיך</row>
+		<row row_number="40" isdata="1">אבן מנוגעת בת משכב ומושב היא דאיצטריך</row>
+		<row row_number="41" isdata="1">קרא למעוטי דתניא יכול תהא אבן מנוגעת עושה משכב ומושב לטמא</row>
+		<row row_number="42" isdata="1">אדם לטמא בגדים ודין הוא ומה זב שאינו מטמא בביאה עושה משכב</row>
+		<row row_number="43" isdata="1">ומושב לטמא אדם לטמא בגדים אבן מנוגעת שמטמאה בביאה אינו</row>
+		<row row_number="44" isdata="1">דין שמטמאה משכב ומושב לטמא אדם לטמא בגדים ת"ל הזב הזב ולא</row>
+		<row row_number="45" isdata="1">אבן מנוגעת טעמא דמעטיה קרא הא לאו הכי מטמאה ומינה לאו מי אמרת</row>
+		<row row_number="46" isdata="1">הזב ולא אבן מנוגעת ה"נ אמר קרא אשר היא יושבת עליו היא ולא דמה</row>
+</amud>
+</daf>
+</masechet>
+</root>

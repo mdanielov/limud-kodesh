@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:49.415443</dateCreated>
+   <lastModified>2019-12-21 20:29:49.415443</lastModified>
+ </meta>
+ <masechet name="מועד קטן" serial="12">
+<daf value="13">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שהפך"/><ContGemara/>והתניא מביאין כלים מבית האומן כגון</row>
+		<row row_number="2" isdata="1">כד מבית הכדר וכוס מבית הזגג אבל לא</row>
+		<row row_number="3" isdata="1">צמר מבית הצבע ולא כלים מבית האומן</row>
+		<row row_number="4" isdata="1">ואם אין לו מה יאכל נותן לו שכרו ומניחו</row>
+		<row row_number="5" isdata="1">אצלו ואם אינו מאמינו מניחו בבית הסמוך</row>
+		<row row_number="6" isdata="1">לו ואם חושש להם שמא יגנבו (מפנן</row>
+		<row row_number="7" isdata="1">לחצר אחרת ואם אינו מאמינו) מביאן</row>
+		<row row_number="8" isdata="1">בצנעה בתוך ביתו תרצת מביאין מוליכין</row>
+		<row row_number="9" isdata="1">קשיא דקתני אין מביאין וכל שכן שאין</row>
+		<row row_number="10" isdata="1">מוליכין אלא מחוורתא כדשניין מעיקרא</row>
+		<row row_number="11" isdata="1"><EndGemara/><StartMishna/>מתני' מחפין את הקציעות בקש רבי</row>
+		<row row_number="12" isdata="1">יהודה אומר אף מעבין מוכרי פירות כסות</row>
+		<row row_number="13" isdata="1">וכלים מוכרים בצנעה לצורך המועד</row>
+		<row row_number="14" isdata="1">הציידין והדשושות והגרוסות עושין בצנעה</row>
+		<row row_number="15" isdata="1">לצורך המועד רבי יוסי אומר הם החמירו</row>
+		<row row_number="16" isdata="1">על עצמן<EndMishna/><StartGemara/>גמ' פליגי בה רבי חייא בר</row>
+		<row row_number="17" isdata="1">אבא ורבי אסי ותרוייהו משמיה דחזקיה</row>
+		<row row_number="18" isdata="1">ורבי יוחנן חד אמר מחפין אקלושי מעבין</row>
+		<row row_number="19" isdata="1">אסמוכי וחד אמר מחפין בין אקלושי בין</row>
+		<row row_number="20" isdata="1">אסמוכי מעבין עושה אותו כמין כרי תניא</row>
+		<row row_number="21" isdata="1">נמי הכי מעבין עושה אותו כמין כרי דברי</row>
+		<row row_number="22" isdata="1">ר' יהודה מוכרי פירות כסות וכלים מוכרין בצנעה וכו' איבעיא להו הן</row>
+		<row row_number="23" isdata="1">החמירו על עצמן דלא הוו עבדי כלל או דלמא דהוו עבדי בצנעה ת"ש</row>
+		<row row_number="24" isdata="1">מוכרי פירות כסות וכלים מוכרין בצנעה לצורך המועד ר' יוסי אומר תגרי</row>
+		<row row_number="25" isdata="1">טבריא הן החמירו על עצמן שלא יהו מוכרין כל עיקר צדי חיות ועופות</row>
+		<row row_number="26" isdata="1">ודגים צדין בצנעה לצורך המועד רבי יוסי אומר צדי עכו הן החמירו על</row>
+		<row row_number="27" isdata="1">עצמן שלא יהו צדין כל עיקר דשושי חילקא טרגיס וטיסני דוששין בצנעה</row>
+		<row row_number="28" isdata="1">לצורך המועד ר' יוסי אומר דשושי ציפורי הן החמירו על עצמן שלא יהו</row>
+		<row row_number="29" isdata="1">דוששין כל עיקר אמר אביי חילקא חדא לתרתי טרגיס חדא לתלת טיסני</row>
+		<row row_number="30" isdata="1">חדא לארבעה כי אתא רב דימי אמר כונתא מיתיבי חילקא טרגיס וטיסני</row>
+		<row row_number="31" isdata="1">טמאין בכל מקום בשלמא למ"ד חדא לתרתי לתלת ולארבעה משום הכי</row>
+		<row row_number="32" isdata="1">טמאין בכל מקום דאתכשור אלא למ"ד כונתא אמאי טמאין בכל מקום</row>
+		<row row_number="33" isdata="1">הא לא איתכשור כגון דמיקלפן דאי לאו דשרא להו במיא לא הוה מיקלפא</row>
+		<row row_number="34" isdata="1">ואמאי קרי ליה חילקא דשקל חלקיהו מיתיבי הנודר מן הדגן אסור אף</row>
+		<row row_number="35" isdata="1">בפול המצרי יבש ומותר בלח ומותר באורז בחילקא וטרגיס וטיסני בשלמא</row>
+		<row row_number="36" isdata="1">למ"ד חדא לתרתי חדא לתלת וחדא לארבעה שפיר דנפקו להו מתורת דגן</row>
+		<row row_number="37" isdata="1">אלא למ"ד כונתא דגן מעליא הוא קשיא רב הונא שרא להו להנהו כרופייתא</row>
+		<row row_number="38" isdata="1">למיזל לזבוני כי אורחייהו בשוקא איתיביה רב כהנא חנות פתוחה</row>
+		<row row_number="39" isdata="1">לסטיו פותח ונועל כדרכו פתוחה לרה"ר פותח אחת ונועל אחת וערב</row>
+		<row row_number="40" isdata="1">יום טוב האחרון של חג מוציא ומעטר את שוקי העיר בפירות בשביל</row>
+		<row row_number="41" isdata="1">כבוד י"ט האחרון מפני כבוד י"ט האחרון אין שלא מפני כבוד י"ט לא</row>
+		<row row_number="42" isdata="1">לא קשיא הא בפירי הא בתבלין<EndChapter name = "מי שהפך"/><EndGemara/></row>
+		<row row_number="43" isdata="0">הדרן עלך מי שהפך</row>
+		<row row_number="44" isdata="1"><StartChapter name = "ואלו מגלחין "/><StartMishna/>ואלו מגלחין במועד הבא ממדינת הים ומבית השביה והיוצא</row>
+		<row row_number="45" isdata="1">מבית האסורין והמנודה שהתירו לו חכמים וכן מי שנשאל</row>
+		<row row_number="46" isdata="1">לחכם והותר והנזיר והמצורע מטומאתו לטהרתו ואלו מכבסין</row>
+		<row row_number="47" isdata="1">במועד הבא ממדינת הים ומבית השביה והיוצא מבית האסורין</row>
+</amud>
+</daf>
+</masechet>
+</root>

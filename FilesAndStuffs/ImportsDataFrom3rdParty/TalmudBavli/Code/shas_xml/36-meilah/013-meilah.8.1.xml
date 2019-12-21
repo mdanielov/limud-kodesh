@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:42.148328</dateCreated>
+   <lastModified>2019-12-21 20:32:42.148328</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="8">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "קדשי קדשים"/><ContGemara/>אבל לאכילה הוא דלא מרצה<EndChapter name = "קדשי קדשים"/><EndGemara/></row>
+		<row row_number="2" isdata="0">הדרן עלך קדשי קדשים</row>
+		<row row_number="3" isdata="1"><StartChapter name = "חטאת העוף"/><StartMishna/>חטאת העוף מועלין בה משהוקדשה</row>
+		<row row_number="4" isdata="1">נמלקה הוכשרה להפסל בטבול</row>
+		<row row_number="5" isdata="1">יום ובמחוסר כפורים ובלינה הוזה דמה</row>
+		<row row_number="6" isdata="1">חייבין עליו משום פיגול נותר וטמא ואין</row>
+		<row row_number="7" isdata="1">בה מעילה<EndMishna/><StartGemara/>גמ' קתני הוכשרה ליפסל</row>
+		<row row_number="8" isdata="1">בטבול יום ובמחוסר כפורים ובלינה ליפסל</row>
+		<row row_number="9" isdata="1">אין אבל לטמויי לא מתניתין מני רבנן היא</row>
+		<row row_number="10" isdata="1">דתניא אבא שאול אומר טבול יום</row>
+</amud>
+</daf>
+</masechet>
+</root>

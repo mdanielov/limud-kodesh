@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:19.490187</dateCreated>
+   <lastModified>2019-12-21 20:32:19.490187</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="74">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContGemara/>ר"ש שזורי אומר אפילו בן חמש שנים וחורש</row>
+		<row row_number="2" isdata="1">בשדה שחיטת אמו מטהרתו קרעה ומצא</row>
+		<row row_number="3" isdata="1">בה בן ט' חי טעון שחיטה לפי שלא נשחטה</row>
+		<row row_number="4" isdata="1">אמו<EndMishna/><StartGemara/>גמ' א"ר אלעזר א"ר אושעיא לא</row>
+		<row row_number="5" isdata="1">הילכו בו אלא על עסקי שחיטה בלבד</row>
+		<row row_number="6" isdata="1">למעוטי מאי למעוטי חלבו וגידו חלבו דמאי</row>
+		<row row_number="7" isdata="1">אילימא חלבו דשליל מפלג פליגי דתניא</row>
+		<row row_number="8" isdata="1">גיד הנשה נוהג בשליל וחלבו אסור דברי</row>
+		<row row_number="9" isdata="1">ר"מ ר' יהודה אומר אינו נוהג בשליל וחלבו</row>
+		<row row_number="10" isdata="1">מותר וא"ר אלעזר א"ר אושעיא מחלוקת</row>
+		<row row_number="11" isdata="1">בבן ט' חי והלך ר"מ לשיטתו ור' יהודה</row>
+		<row row_number="12" isdata="1">לשיטתו אלא חלבו דגיד מפלג פליגי</row>
+		<row row_number="13" isdata="1">דתניא גיד הנשה מחטט אחריו בכל מקום</row>
+		<row row_number="14" isdata="1">שהוא וחותך שמנו מעיקרו דברי ר"מ רבי</row>
+		<row row_number="15" isdata="1">יהודה אומר גוממו עם השופי אלא אי אתמר</row>
+		<row row_number="16" isdata="1">הכי אתמר א"ר אלעזר אמר ר' אושעיא</row>
+		<row row_number="17" isdata="1">לא הילכו בו אלא על עסקי אכילה בלבד</row>
+		<row row_number="18" isdata="1">למעוטי רובעו וחורש בו א"ר שמעון בן</row>
+		<row row_number="19" isdata="1">לקיש לדברי המתיר בחלבו מתיר בדמו</row>
+		<row row_number="20" isdata="1">לדברי האוסר בחלבו אוסר בדמו ורבי יוחנן</row>
+		<row row_number="21" isdata="1">אמר אף לדברי המתיר בחלבו אוסר בדמו</row>
+		<row row_number="22" isdata="1">איתיביה רבי יוחנן לר"ש בן לקיש קורעו</row>
+		<row row_number="23" isdata="1">ומוציא את דמו א"ר זירא לומר שאין ענוש</row>
+		<row row_number="24" isdata="1">כרת למאן קאמרי לרבי יהודה לא יהא אלא</row>
+		<row row_number="25" isdata="1">דם התמצית דתניא דם התמצית באזהרה</row>
+		<row row_number="26" isdata="1">ר' יהודה אומר בהכרת תרגמא רב יוסף</row>
+		<row row_number="27" isdata="1">בריה דרב סלא חסידא קמיה דרב פפא אית</row>
+		<row row_number="28" isdata="1">ליה לר' יהודה דם וכל דם כל היכא דמיחייב</row>
+		<row row_number="29" isdata="1">אדם הנפש מיחייב אדם התמצית וכל היכא</row>
+		<row row_number="30" isdata="1">דלא מחייב אדם הנפש לא מחייב אדם</row>
+		<row row_number="31" isdata="1">התמצית איבעיא להו מהו לפדות בבן</row>
+		<row row_number="32" isdata="1">פקועה אליבא דר"מ לא תיבעי לך דכיון</row>
+		<row row_number="33" isdata="1">דאמר טעון שחיטה שה מעליא הוא כי</row>
+		<row row_number="34" isdata="1">תיבעי לך אליבא דרבנן דאמרי שחיטת אמו</row>
+		<row row_number="35" isdata="1">מטהרתו מאי כיון דאמרי שחיטת אמו מטהרתו כבשרא בדיקולא הוא או</row>
+		<row row_number="36" isdata="1">דילמא כיון דרהיט ואזיל ורהיט ואתי שה קרינא ביה מר זוטרא אמר אין פודין</row>
+		<row row_number="37" isdata="1">ורב אשי אמר פודין א"ל רב אשי למר זוטרא מאי דעתך דגמרת שה שה</row>
+		<row row_number="38" isdata="1">מפסחים אי מה להלן זכר תמים ובן שנה אף כאן זכר תמים ובן שנה תפדה</row>
+		<row row_number="39" isdata="1">תפדה ריבה אי תפדה תפדה ריבה אפילו כל מילי נמי אם כן שה שה מאי</row>
+		<row row_number="40" isdata="1">אהני לך איבעיא להו מהו למנות בו ראשון ושני ר' יוחנן אמר מונין בו ראשון</row>
+		<row row_number="41" isdata="1">ושני רבי שמעון בן לקיש אומר אין מונין בו ראשון ושני נעשה כאגוז</row>
+		<row row_number="42" isdata="1">המתקשקש בקליפתו איתיביה ר"ש בן לקיש לרבי יוחנן הבשר מגע נבלה</row>
+		<row row_number="43" isdata="1">דברי ר"מ וחכ"א מגע טרפה שחוטה בשלמא לדידי דאמינא חד גופא הוא היינו</row>
+		<row row_number="44" isdata="1">דאיתכשר בדמא דאמיה אלא לדידך במאי איתכשר א"ל בשחיטה וכר"ש</row>
+		<row row_number="45" isdata="1">איתיביה רבי יוחנן לר"ש בן לקיש עבר בנהר הוכשר הלך לבית הקברות</row>
+		<row row_number="46" isdata="1">נטמא בשלמא לדידי דאמינא תרי גופי נינהו משום הכי הוכשר אין לא</row>
+		<row row_number="47" isdata="1">הוכשר לא אלא לדידך דאמרת חד גופא הוא הא איתכשר בדמא דאמיה</row>
+</amud>
+</daf>
+</masechet>
+</root>

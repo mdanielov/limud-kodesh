@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:47.265707</dateCreated>
+   <lastModified>2019-12-21 20:30:47.265707</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="50">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח את הפרה"/><ContGemara/>בבור ברשותו ר"ע סבר בור ברשותו נמי</row>
+		<row row_number="2" isdata="1">חייב דכתיב בעל הבור בבור דאית ליה</row>
+		<row row_number="3" isdata="1">בעלים קאמר רחמנא ור' ישמעאל סבר בעל</row>
+		<row row_number="4" isdata="1">התקלה אלא מאי זהו בור האמור בתורה</row>
+		<row row_number="5" isdata="1">דקאמר ר"ע זהו בור שפתח בו הכתוב תחלה</row>
+		<row row_number="6" isdata="1">לתשלומין ורב יוסף אמר בבור ברה"י כולי</row>
+		<row row_number="7" isdata="1">עלמא לא פליגי דמחייב מאי טעמא בעל</row>
+		<row row_number="8" isdata="1">הבור אמר רחמנא בבור דאית ליה בעלים</row>
+		<row row_number="9" isdata="1">עסקינן כי פליגי בבור ברה"ר רבי ישמעאל</row>
+		<row row_number="10" isdata="1">סבר בור ברה"ר נמי חייב דכתיב כי יפתח</row>
+		<row row_number="11" isdata="1">וכי יכרה אם על פתיחה חייב על כרייה</row>
+		<row row_number="12" isdata="1">לא כ"ש אלא שעל עסקי פתיחה ועל עסקי</row>
+		<row row_number="13" isdata="1">כרייה באה לו ור"ע הנהו מיצרך צריכי דאי</row>
+		<row row_number="14" isdata="1">כתב רחמנא כי יפתח הוה אמינא פותח</row>
+		<row row_number="15" isdata="1">הוא דסגי ליה בכסוי כורה לא סגי ליה</row>
+		<row row_number="16" isdata="1">בכסוי עד דטאים ליה ואי כתב רחמנא</row>
+		<row row_number="17" isdata="1">כי יכרה הוה אמינא כרייה הוא דבעי</row>
+		<row row_number="18" isdata="1">כסוי משום דעבד מעשה אבל פותח דלא</row>
+		<row row_number="19" isdata="1">עבד מעשה אימא כסוי נמי לא בעי קמ"ל ואלא מאי זהו בור האמור</row>
+		<row row_number="20" isdata="1">בתורה דקאמר ר' ישמעאל זהו בור שפתח בו הכתוב תחלה לניזקין</row>
+		<row row_number="21" isdata="1">מיתיבי החופר בור ברה"ר ופתחו לרה"י פטור ואף על פי שאינו רשאי</row>
+		<row row_number="22" isdata="1">לעשות כן לפי שאין עושין חלל תחת רה"ר החופר בורות שיחין ומערות</row>
+		<row row_number="23" isdata="1">ברשות היחיד ופתחו לרה"ר חייב והחופר בורות ברה"י הסמוכה לרשות</row>
+		<row row_number="24" isdata="1">הרבים כגון אלו החופרים לאושין פטור ור' יוסי בר' יהודה מחייב עד</row>
+		<row row_number="25" isdata="1">שיעשה מחיצה עשרה או עד שירחיק ממקום דריסת רגלי אדם וממקום</row>
+		<row row_number="26" isdata="1">דריסת רגלי בהמה ארבעה טפחים טעמא דלאושין הא לאו לאושין חייב</row>
+		<row row_number="27" isdata="1">הא מני בשלמא לרבה רישא ר' ישמעאל וסיפא ר"ע אלא לרב יוסף</row>
+		<row row_number="28" isdata="1">בשלמא סיפא דברי הכל אלא רישא מני לא רבי ישמעאל ולא ר"ע אמר</row>
+		<row row_number="29" isdata="1">לך רב יוסף כולה דברי הכל היא ורישא שלא הפקיר לא רשותו ולא</row>
+		<row row_number="30" isdata="1">בורו אמר רב אשי השתא דאוקימתא לרב יוסף לדברי הכל לרבה נמי</row>
+		<row row_number="31" isdata="1">לא תוקמה כתנאי מדרישא ר' ישמעאל סיפא נמי ר' ישמעאל וטעמא</row>
+		<row row_number="32" isdata="1">דלאושין הא לאו לאושין חייב כגון דארווח ארווחי לרה"ר מיתיבי החופר</row>
+		<row row_number="33" isdata="1">בור ברשות היחיד ופתחו לרה"ר חייב ברה"י הסמוכה לרה"ר פטור בשלמא</row>
+		<row row_number="34" isdata="1">לרבה כולה ר' ישמעאל היא אלא לרב יוסף בשלמא רישא רבי ישמעאל</row>
+		<row row_number="35" isdata="1">אלא סיפא מני לא ר' ישמעאל ולא ר"ע אמר לך בחופר לאושין ודברי</row>
+		<row row_number="36" isdata="1">הכל ת"ר חפר ופתח ומסר לרבים פטור חפר ופתח ולא מסר לרבים</row>
+		<row row_number="37" isdata="1">חייב וכן מנהגו של נחוניא חופר בורות שיחין ומערות שהיה חופר</row>
+		<row row_number="38" isdata="1">ופותח ומוסר לרבים וכששמעו חכמים בדבר אמרו קיים זה הלכה זו</row>
+		<row row_number="39" isdata="1">הלכה זו ותו לא אלא אימא אף הלכה זו תנו רבנן מעשה בבתו של</row>
+		<row row_number="40" isdata="1">נחוניא חופר שיחין שנפלה לבור גדול באו והודיעו את רבי חנינא בן דוסא</row>
+		<row row_number="41" isdata="1">שעה ראשונה אמר להם שלום שניה אמר להם שלום שלישית אמר להם</row>
+		<row row_number="42" isdata="1">עלתה אמרו לה מי העלך אמרה להם זכר של רחלים נזדמן לי וזקן אחד</row>
+		<row row_number="43" isdata="1">מנהיגו אמרו לו נביא אתה אמר להם לא נביא אנכי ולא בן נביא</row>
+		<row row_number="44" isdata="1">אנכי אלא כך אמרתי דבר שאותו צדיק מצטער בו יכשל בו זרעו</row>
+		<row row_number="45" isdata="1">אמר רבי אחא אף על פי כן מת בנו בצמא שנאמר וסביביו נשערה</row>
+		<row row_number="46" isdata="1">מאד מלמד שהקדוש ברוך הוא מדקדק עם סביביו אפילו כחוט השערה</row>
+		<row row_number="47" isdata="1">ר' נחוניא אמר מהכא אל נערץ בסוד קדושים רבה ונורא על כל סביביו</row>
+		<row row_number="48" isdata="1">אמר ר' חנינא כל האומר הקב"ה ותרן הוא יותרו חייו שנאמר הצור תמים</row>
+		<row row_number="49" isdata="1">פעלו כי כל דרכיו משפט א"ר חנא ואיתימא ר' שמואל בר נחמני מאי דכתיב</row>
+</amud>
+</daf>
+</masechet>
+</root>

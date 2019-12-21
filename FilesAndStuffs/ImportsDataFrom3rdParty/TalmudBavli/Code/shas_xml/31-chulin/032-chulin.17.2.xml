@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:12.720177</dateCreated>
+   <lastModified>2019-12-21 20:32:12.720177</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="17">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>סכין שיש בה פגימות הרבה תידון כמגירה</row>
+		<row row_number="2" isdata="1">ושאין בה אלא פגימה אחת אוגרת פסולה</row>
+		<row row_number="3" isdata="1">מסוכסכת כשרה היכי דמיא אוגרת היכי</row>
+		<row row_number="4" isdata="1">דמיא מסוכסכת א"ר אליעזר אוגרת משתי</row>
+		<row row_number="5" isdata="1">רוחות מסוכסכת מרוח אחת מאי שנא משתי</row>
+		<row row_number="6" isdata="1">רוחות דמורשא קמא מחליש ומורשא בתרא</row>
+		<row row_number="7" isdata="1">בזע מרוח אחת נמי חורפא דסכינא מחליש</row>
+		<row row_number="8" isdata="1">מורשא בזע דקאים ארישא דסכינא סוף</row>
+		<row row_number="9" isdata="1">סוף כי אזלא מחלשא כי אתא בזע כגון</row>
+		<row row_number="10" isdata="1">שהוליך ולא הביא אמר רבא ג' מדות בסכין</row>
+		<row row_number="11" isdata="1">אוגרת לא ישחוט ואם שחט שחיטתו פסולה</row>
+		<row row_number="12" isdata="1">מסוכסכת לא ישחוט בה לכתחלה ואם שחט שחיטתו כשרה עולה ויורד</row>
+		<row row_number="13" isdata="1">בסכין שוחט בה לכתחלה א"ל רב הונא בריה דרב נחמיה לרב אשי אמרת</row>
+		<row row_number="14" isdata="1">לן משמיה דרבא מסוכסכת פסולה והא (אמר רבא) מסוכסכת כשרה לא</row>
+		<row row_number="15" isdata="1">קשיא כאן שהוליך והביא כאן שהוליך ולא הביא אמר ליה רב אחא בריה</row>
+		<row row_number="16" isdata="1">דרב אויא לרב אשי דמיא לסאסאה מאי אמר ליה מאן יהיב לן מבשריה</row>
+		<row row_number="17" isdata="1">ואכלינן אמר רב חסדא מנין לבדיקת סכין מן התורה שנאמר ושחטתם</row>
+		<row row_number="18" isdata="1">בזה ואכלתם פשיטא כיון דכי נקב טריפה בעיא בדיקה לחכם קאמרינן והאמר</row>
+		<row row_number="19" isdata="1">רבי יוחנן לא אמרו להראות סכין לחכם אלא מפני כבודו של חכם מדרבנן</row>
+		<row row_number="20" isdata="1">וקרא אסמכתא בעלמא הוא במערבא בדקי לה בשימשא בנהרדעא בדקו</row>
+		<row row_number="21" isdata="1">לה במיא רב ששת בדק לה בריש לישניה רב אחא בר יעקב בדק לה בחוט</row>
+		<row row_number="22" isdata="1">השערה בסורא אמרי בישרא אכלה בישרא לבדקה אמר רב פפא צריכא</row>
+		<row row_number="23" isdata="1">בדיקה אבישרא ואטופרא (ואתלתא רוחתא) אמר ליה רבינא לרב אשי אמר</row>
+		<row row_number="24" isdata="1">לן רב סמא בריה דרב משרשיא משמך דאמרת ליה משמיה דרבא צריכא</row>
+		<row row_number="25" isdata="1">בדיקה אבישרא ואטופרא ואתלתא רוחתא אמר ליה אבישרא ואטופרא</row>
+		<row row_number="26" isdata="1">אמרי ואתלתא רוחתא לא אמרי איכא דאמרי אבישרא ואטופרא ואתלתא</row>
+		<row row_number="27" isdata="1">רוחתא אמרי משמיה דרבא לא אמרי רבינא ורב אחא בריה דרבא הוו</row>
+		<row row_number="28" isdata="1">יתבי קמיה דרב אשי אייתו סכין לקמיה דרב אשי לבדקה אמר ליה</row>
+		<row row_number="29" isdata="1">לרב אחא בריה דרבא בידקא בדקה אטופרא ואבישרא ואתלתא רוחתא</row>
+		<row row_number="30" isdata="1">אמר ליה יישר וכן אמר רב כהנא רב יימר אמר אטופרא ואבישרא צריכא</row>
+		<row row_number="31" isdata="1">אתלתא רוחתא לא צריכא מי לא א"ר זירא אמר שמואל ליבן סכין ושחט</row>
+		<row row_number="32" isdata="1">בה שחיטתו כשרה שחידודה קודם לליבונה וקשיא לן האיכא צדדין</row>
+		<row row_number="33" isdata="1">ואמרינן בית השחיטה מרווח רווח הכא נמי בית השחיטה מרווח רווח אמר</row>
+		<row row_number="34" isdata="1">רב הונא בר רב קטינא אמר רבי שמעון בן לקיש שלש פגימות הן פגימת</row>
+		<row row_number="35" isdata="1">עצם בפסח פגימת אוזן בבכור פגימת מום בקדשים ורב חסדא אמר אף</row>
+		<row row_number="36" isdata="1">פגימת סכין ואידך בחולין לא קא מיירי וכולן פגימתן כדי פגימת המזבח</row>
+</amud>
+</daf>
+</masechet>
+</root>

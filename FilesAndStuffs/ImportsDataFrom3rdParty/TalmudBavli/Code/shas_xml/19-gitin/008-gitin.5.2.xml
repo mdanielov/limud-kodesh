@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:28.889521</dateCreated>
+   <lastModified>2019-12-21 20:30:28.889521</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="5">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המביא קמא"/><ContGemara/>טעמא מאי דילמא אתי בעל מערער ופסיל</row>
+		<row row_number="2" isdata="1">ליה השתא בעל לא קא מערער אנן ניקום</row>
+		<row row_number="3" isdata="1">ונערער עלה בפלוגתא דר' יוחנן ור' יהושע</row>
+		<row row_number="4" isdata="1">בן לוי חד אמר לפי שאין בקיאין לשמה וחד</row>
+		<row row_number="5" isdata="1">אמר לפי שאין עדים מצויין לקיימו תסתיים</row>
+		<row row_number="6" isdata="1">דר"י בן לוי הוא דאמר לפי שאין בקיאין</row>
+		<row row_number="7" isdata="1">לשמה דר' שמעון בר אבא אייתי גיטא לקמיה</row>
+		<row row_number="8" isdata="1">דר' יהושע בן לוי וא"ל צריכנא למימר בפני</row>
+		<row row_number="9" isdata="1">נכתב ובפני נחתם או לא א"ל לא צריכת לא</row>
+		<row row_number="10" isdata="1">אמרו אלא בדורות הראשונים שאין בקיאין</row>
+		<row row_number="11" isdata="1">לשמה אבל בדורות האחרונים דבקיאין</row>
+		<row row_number="12" isdata="1">לשמה לא תסתיים ותסברא והא רבה אית</row>
+		<row row_number="13" isdata="1">ליה דרבא ועוד הא אמרינן שמא יחזור דבר</row>
+		<row row_number="14" isdata="1">לקלקולו אלא ר"ש בר אבא איניש אחרינא</row>
+		<row row_number="15" isdata="1">הוה בהדיה והא דלא חשיב ליה משום כבודו</row>
+		<row row_number="16" isdata="1">דר"ש איתמר בפני כמה נותנו לה רבי</row>
+		<row row_number="17" isdata="1">יוחנן ור' חנינא חד אמר בפני שנים וחד אמר</row>
+		<row row_number="18" isdata="1">בפני שלשה תסתיים דר' יוחנן הוא דאמר</row>
+		<row row_number="19" isdata="1">בפני שנים דרבין בר רב חסדא אייתי גיטא</row>
+		<row row_number="20" isdata="1">לקמיה דר' יוחנן ואמר ליה זיל הב לה באפי</row>
+		<row row_number="21" isdata="1">תרי ואימא להו בפ"נ ובפני נחתם תסתיים</row>
+		<row row_number="22" isdata="1">לימא בהא קמיפלגי דמאן דאמר בפני שנים</row>
+		<row row_number="23" isdata="1">קסבר לפי שאין בקיאין לשמה ומאן דאמר</row>
+		<row row_number="24" isdata="1">בפני שלשה קסבר לפי שאין עדים מצויין</row>
+		<row row_number="25" isdata="1">לקיימו ותסברא הא מדר' יהושע בן לוי אמר</row>
+		<row row_number="26" isdata="1">לפי שאין בקיאין לשמה רבי יוחנן אמר לפי</row>
+		<row row_number="27" isdata="1">שאין עדים מצויין לקיימו והכא היכי קאמר</row>
+		<row row_number="28" isdata="1">ר' יוחנן בפני שנים ועוד הא רבה אית ליה</row>
+		<row row_number="29" isdata="1">דרבא אלא דכ"ע בעינן עדים מצויין לקיימו</row>
+		<row row_number="30" isdata="1">והכא בשליח נעשה עד ועד נעשה דיין</row>
+		<row row_number="31" isdata="1">קמיפלגי מ"ד בפני שנים קסבר שליח נעשה</row>
+		<row row_number="32" isdata="1">עד ועד נעשה דיין ומאן דאמר בפני ג'</row>
+		<row row_number="33" isdata="1">קסבר שליח נעשה עד ואין עד נעשה דיין</row>
+		<row row_number="34" isdata="1">והא קיימא לן בדרבנן דעד נעשה דיין אלא</row>
+		<row row_number="35" isdata="1">הכא בהא קמיפלגי דמר סבר כיון דאשה</row>
+		<row row_number="36" isdata="1">כשירה להביא את הגט זמנין דמייתא ליה</row>
+		<row row_number="37" isdata="1">איתתא וסמכי עלה ואידך אשה מידע ידעי</row>
+		<row row_number="38" isdata="1">ולא סמכי עלה תניא כוותיה דרבי יוחנן</row>
+		<row row_number="39" isdata="1">המביא גט ממדינת הים ונתנו לה ולא אמר</row>
+		<row row_number="40" isdata="1">לה בפני נכתב ובפני נחתם יוציא והולד</row>
+		<row row_number="41" isdata="1">ממזר דברי רבי מאיר וחכ"א אין הולד ממזר</row>
+		<row row_number="42" isdata="1">כיצד יעשה יטלנו הימנה ויחזור ויתננו לה</row>
+		<row row_number="43" isdata="1">בפני שנים ויאמר בפני נכתב ובפני נחתם</row>
+		<row row_number="44" isdata="1">ור"מ משום דלא אמר בפני נכתב ובפני נחתם</row>
+		<row row_number="45" isdata="1">יוציא והולד ממזר אין ר"מ לטעמיה דאמר</row>
+		<row row_number="46" isdata="1">רב המנונא משמיה דעולא אומר היה ר"מ</row>
+		<row row_number="47" isdata="1">כל המשנה ממטבע שטבעו חכמים בגיטין</row>
+		<row row_number="48" isdata="1">יוציא והולד ממזר בר הדיא בעי לאתויי גיטא</row>
+		<row row_number="49" isdata="1">אתא לקמיה דרבי אחי דהוה ממונה אגיטי</row>
+		<row row_number="50" isdata="1">א"ל צריך אתה לעמוד על כל אות ואות אתא</row>
+		<row row_number="51" isdata="1">לקמיה דרבי אמי ור' אסי אמרי ליה לא צריכת וכי תימא אעביד לחומרא</row>
+		<row row_number="52" isdata="1">נמצא אתה מוציא לעז על גיטין הראשונים רבה בר בר חנה אייתי</row>
+		<row row_number="53" isdata="1">גיטא פלגא איכתב קמיה ופלגא לא איכתב קמיה אתא לקמיה דרבי</row>
+		<row row_number="54" isdata="1">אלעזר אמר ליה אפילו לא כתב בו אלא שיטה אחת לשמה שוב אינו צריך רב אשי אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

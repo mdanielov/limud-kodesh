@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:36.611401</dateCreated>
+   <lastModified>2019-12-21 20:29:36.611401</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="9">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ביצה"/><ContGemara/>גלגל עיסה מערב יו"ט מפריש ממנה חלתה</row>
+		<row row_number="2" isdata="1">ביום טוב אבוה דשמואל אמר אפילו גלגל</row>
+		<row row_number="3" isdata="1">עיסה מערב יום טוב אין מפריש ממנה</row>
+		<row row_number="4" isdata="1">חלתה ביו"ט לימא פליגא דשמואל אדאבוה</row>
+		<row row_number="5" isdata="1">(דשמואל) דאמר שמואל חלת חוצה</row>
+		<row row_number="6" isdata="1">לארץ אוכל והולך ואח"כ מפריש אמר רבא</row>
+		<row row_number="7" isdata="1">מי לא מודה שמואל שאם קרא עליה שם</row>
+		<row row_number="8" isdata="1">שאסורה לזריםמתני' ב"ש אומרים</row>
+		<row row_number="9" isdata="1">אין מוליכין את הסולם משובך לשובך</row>
+		<row row_number="10" isdata="1">אבל מטהו מחלון לחלון וב"ה מתירין</row>
+		<row row_number="11" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב חנן בר אמי מחלוקת</row>
+		<row row_number="12" isdata="1">ברשות הרבים דב"ש סברי הרואה אומר</row>
+		<row row_number="13" isdata="1">להטיח גגו הוא צריך וב"ה סברי שובכו</row>
+		<row row_number="14" isdata="1">מוכיח עליו אבל ברשות היחיד דברי הכל</row>
+		<row row_number="15" isdata="1">מותר איני והא אמר רב יהודה אמר רב</row>
+		<row row_number="16" isdata="1">כל מקום שאסרו חכמים מפני מראית</row>
+		<row row_number="17" isdata="1">העין אפילו בחדרי חדרים אסור תנאי היא</row>
+		<row row_number="18" isdata="1">דתניא שוטחן בחמה אבל לא כנגד העם</row>
+		<row row_number="19" isdata="1">ר' (אליעזר) ור' שמעון אוסרין איכא דאמרי</row>
+		<row row_number="20" isdata="1">אמר רב חנן בר אמי מחלוקת ברשות היחיד</row>
+		<row row_number="21" isdata="1">דב"ש אית להו דרב יהודה אמר רב וב"ה</row>
+		<row row_number="22" isdata="1">לית להו דרב יהודה אמר רב אבל ברשות</row>
+		<row row_number="23" isdata="1">הרבים דברי הכל אסור לימא רב דאמר</row>
+		<row row_number="24" isdata="1">כב"ש תנאי היא דתניא שוטחן בחמה אבל</row>
+		<row row_number="25" isdata="1">לא כנגד העם רבי (אליעזר) ור"ש אוסרין</row>
+</amud>
+</daf>
+</masechet>
+</root>

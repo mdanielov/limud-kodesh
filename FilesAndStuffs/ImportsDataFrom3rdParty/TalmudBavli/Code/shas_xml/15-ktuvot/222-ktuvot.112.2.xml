@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:12.817230</dateCreated>
+   <lastModified>2019-12-21 20:30:12.817230</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="112">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שני דייני גזירות "/><ContGemara/>קיימי משמשא לטולא ומטולא לשמשא ר'</row>
+		<row row_number="2" isdata="1">חייא בר גמדא מיגנדר בעפרה שנאמר כי</row>
+		<row row_number="3" isdata="1">רצו עבדיך את אבניה ואת עפרה יחוננו אמר רבי זירא אמר רבי ירמיה</row>
+		<row row_number="4" isdata="1">בר אבא דור שבן דוד בא קטיגוריא בתלמידי חכמים כי אמריתה קמיה</row>
+		<row row_number="5" isdata="1">דשמואל אמר צירוף אחר צירוף שנאמר ועוד בה עשיריה ושבה והיתה</row>
+		<row row_number="6" isdata="1">לבער תני רב יוסף בזוזי ובזוזי דבזוזי אמר רב חייא בר אשי אמר רב</row>
+		<row row_number="7" isdata="1">עתידין כל אילני סרק שבארץ ישראל שיטענו פירות שנאמר כי עץ</row>
+		<row row_number="8" isdata="1">נשא פריו תאנה וגפן נתנו חילם<EndChapter name = "שני דייני גזירות "/><EndGemara/></row>
+		<row row_number="9" isdata="0">הדרן עלך שני דייני גזירות וסליקא לה מסכת כתובות</row>
+</amud>
+</daf>
+</masechet>
+</root>

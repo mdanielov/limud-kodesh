@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:07.713199</dateCreated>
+   <lastModified>2019-12-21 20:31:07.713199</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="23">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "לא יחפור"/><ContGemara/>אתו אומני ויתבי תותייהו ואתו עורבי אכלי</row>
+		<row row_number="2" isdata="1">דמא וסלקי אבי תאלי ומפסדי תמרי אמר</row>
+		<row row_number="3" isdata="1">להו רב יוסף אפיקו לי קורקור מהכא א"ל</row>
+		<row row_number="4" isdata="1">אביי והא גרמא הוא א"ל הכי אמר רב טובי</row>
+		<row row_number="5" isdata="1">בר מתנה זאת אומרת גרמא בניזקין אסור</row>
+		<row row_number="6" isdata="1">והא אחזיק [להו] הא אמר רב נחמן אמר</row>
+		<row row_number="7" isdata="1">רבה בר אבוה אין חזקה לנזקין ולאו איתמר</row>
+		<row row_number="8" isdata="1">עלה רב מרי אמר בקוטרא ורב זביד אמר</row>
+		<row row_number="9" isdata="1">בבית הכסא אמר ליה הני לדידי דאנינא</row>
+		<row row_number="10" isdata="1">דעתאי כי קוטרא ובית הכסא דמו לי</row>
+		<row row_number="11" isdata="1"><EndGemara/><StartMishna/>מתני' מרחיקין את השובך מן העיר</row>
+		<row row_number="12" isdata="1">חמשים אמה ולא יעשה אדם שובך בתוך</row>
+		<row row_number="13" isdata="1">שלו אלא אם כן יש לו חמשים אמה לכל</row>
+		<row row_number="14" isdata="1">רוח רבי יהודה אומר בית ארבעת כורין מלא</row>
+		<row row_number="15" isdata="1">שגר היונה ואם לקחו אפילו בית רובע</row>
+		<row row_number="16" isdata="1">הרי הוא בחזקתו<EndMishna/><StartGemara/>גמ' חמשים אמה ותו</row>
+		<row row_number="17" isdata="1">לא ורמינהי אין פורסין נשבין ליונים אלא</row>
+		<row row_number="18" isdata="1">אם כן היה רחוק מן הישוב שלשים ריס</row>
+		<row row_number="19" isdata="1">אמר אביי מישט שייטי טובא וכרסייהו</row>
+		<row row_number="20" isdata="1">בחמשים אמתא מליא ומישט שלשים ריס</row>
+		<row row_number="21" isdata="1">ותו לא והתניא ובישוב אפילו מאה מיל</row>
+		<row row_number="22" isdata="1">לא יפרוס רב יוסף אמר בישוב כרמים</row>
+		<row row_number="23" isdata="1">רבא אמר בישוב שובכין ותיפוק ליה</row>
+		<row row_number="24" isdata="1">משום שובכין גופייהו איבעית אימא דידיה</row>
+		<row row_number="25" isdata="1">ואיבעית אימא דכנעני ואיבעית אימא</row>
+		<row row_number="26" isdata="1">דהפקר רבי יהודה אומר בית ארבעת כורין</row>
+		<row row_number="27" isdata="1">וכו' אמר רב פפא ואיתימא רב זביד זאת</row>
+		<row row_number="28" isdata="1">אומרת טוענין ללוקח וטוענין ליורש יורש</row>
+		<row row_number="29" isdata="1">תנינא הבא משום ירושה אינו צריך</row>
+		<row row_number="30" isdata="1">טענה לוקח איצטריכא ליה לוקח נמי תנינא</row>
+		<row row_number="31" isdata="1">לקח חצר ובה זיזין וגזוזטראות הרי זה</row>
+		<row row_number="32" isdata="1">בחזקתה צריכא דאי אשמעינן התם גבי</row>
+		<row row_number="33" isdata="1">רשות הרבים דאימור כונס לתוך שלו</row>
+		<row row_number="34" isdata="1">הוא אי נמי אחולי אחול בני רשות הרבים</row>
+		<row row_number="35" isdata="1">גביה אבל הכא לא ואי אשמעינן הכא</row>
+		<row row_number="36" isdata="1">דכיון דיחיד הוא אימא פיוסיה פייסיה אי</row>
+		<row row_number="37" isdata="1">נמי אחולי אחיל גביה אבל רבים מאן פייס</row>
+		<row row_number="38" isdata="1">ומאן שביק אימא לא צריכא הרי הוא</row>
+		<row row_number="39" isdata="1">בחזקתו והא אמר רב נחמן אמר רבה</row>
+		<row row_number="40" isdata="1">בר אבוה אין חזקה לנזקין רב מרי אמר</row>
+		<row row_number="41" isdata="1">בקוטרא רב זביד אמר בבית הכסא</row>
+</amud>
+</daf>
+</masechet>
+</root>

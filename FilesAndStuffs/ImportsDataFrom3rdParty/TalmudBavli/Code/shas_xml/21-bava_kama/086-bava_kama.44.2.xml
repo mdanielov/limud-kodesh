@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:46.806711</dateCreated>
+   <lastModified>2019-12-21 20:30:46.806711</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="44">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח ארבעה וחמשה"/><ContGemara/>ואכתי צרורות נינהו אמר רב מרי בריה דרב</row>
+		<row row_number="2" isdata="1">כהנא דקאזיל מיניה מיניה תניא כוותיה</row>
+		<row row_number="3" isdata="1">דשמואל ותיובתא דרב יש חייב במיתה</row>
+		<row row_number="4" isdata="1">ובכופר ויש חייב בכופר ופטור ממיתה ויש</row>
+		<row row_number="5" isdata="1">חייב במיתה ופטור מן הכופר ויש פטור מזה</row>
+		<row row_number="6" isdata="1">ומזה הא כיצד מועד בכוונה חייב במיתה</row>
+		<row row_number="7" isdata="1">ובכופר מועד שלא בכוונה חייב בכופר</row>
+		<row row_number="8" isdata="1">ופטור ממיתה תם בכוונה חייב במיתה ופטור</row>
+		<row row_number="9" isdata="1">מכופר תם שלא בכוונה פטור מזה ומזה</row>
+		<row row_number="10" isdata="1">והנזקין שלא בכוונה ר' יהודה  מחייב ור'</row>
+		<row row_number="11" isdata="1">שמעון פוטר מאי טעמא דרבי יהודה יליף</row>
+		<row row_number="12" isdata="1">מכופרו מה כופרו שלא בכוונה חייב אף</row>
+		<row row_number="13" isdata="1">הנזקין נמי שלא בכוונה חייב ורבי שמעון</row>
+		<row row_number="14" isdata="1">יליף מקטליה דשור מה קטליה שלא בכוונה</row>
+		<row row_number="15" isdata="1">פטור אף נזקין שלא בכוונה פטור ור' יהודה</row>
+		<row row_number="16" isdata="1">נמי נילף מקטליה דנין תשלומין מתשלומין</row>
+		<row row_number="17" isdata="1">ואין דנין תשלומין ממיתה ור' שמעון נמי</row>
+		<row row_number="18" isdata="1">נילף מכופרו דנין חיוביה דשור מחיוביה</row>
+		<row row_number="19" isdata="1">דשור לאפוקי כופר דחיוביה דבעלים הוא</row>
+		<row row_number="20" isdata="1">נתכוין להרוג את הבהמה והרג את האדם</row>
+		<row row_number="21" isdata="1">[וכו'] פטור הא נתכוין להרוג את זה והרג</row>
+		<row row_number="22" isdata="1">את זה חייב מתניתין דלא כר' שמעון דתניא</row>
+		<row row_number="23" isdata="1">ר' שמעון אומר אפילו נתכוין להרוג את זה</row>
+		<row row_number="24" isdata="1">והרג את זה פטור מ"ט דרבי שמעון דאמר</row>
+		<row row_number="25" isdata="1">קרא השור יסקל וגם בעליו יומת כמיתת</row>
+		<row row_number="26" isdata="1">בעלים כך מיתת השור מה בעלים עד</row>
+		<row row_number="27" isdata="1">דמיכוין ליה אף שור נמי עד דמיכוין ליה</row>
+		<row row_number="28" isdata="1">ובעלים גופייהו מנלן דאמר קרא וארב לו</row>
+		<row row_number="29" isdata="1">וקם עליו עד שיתכוין לו ורבנן האי וארב לו מאי עבדי ליה אמרי דבי רבי</row>
+		<row row_number="30" isdata="1">ינאי פרט לזורק אבן לגו היכי דמי אילימא דאיכא תשעה כנענים ואחד</row>
+		<row row_number="31" isdata="1">ישראל ביניהם תיפוק ליה דרובא כנענים נינהו אי נמי פלגא ופלגא ספק</row>
+		<row row_number="32" isdata="1">נפשות להקל לא צריכא דאיכא תשעה ישראלים ואחד כנעני דאע"ג דרובא</row>
+		<row row_number="33" isdata="1">ישראלים נינהו כיון דאיכא חדא כנעני בינייהו הוי ליה קבוע וכל קבוע כמחצה</row>
+		<row row_number="34" isdata="1">על מחצה דמי וספק נפשות להקלמתני' שור האשה ושור היתומים</row>
+		<row row_number="35" isdata="1">שור האפוטרופוס שור המדבר שור ההקדש שור הגר שמת ואין לו יורשין</row>
+		<row row_number="36" isdata="1">הרי אלו חייבין מיתה ר' יהודה אומר שור המדבר שור ההקדש שור הגר</row>
+		<row row_number="37" isdata="1">שמת פטורין מן המיתה לפי שאין להם בעלים<EndMishna/><StartGemara/>גמ' ת"ר שור שור שבעה</row>
+		<row row_number="38" isdata="1">להביא שור האשה שור היתומים שור האפוטרופוס שור המדבר שור ההקדש</row>
+		<row row_number="39" isdata="1">שור הגר שמת ואין לו יורשין ר' יהודה אומר שור המדבר שור ההקדש</row>
+		<row row_number="40" isdata="1">שור הגר שמת ואין לו יורשין פטורין מן המיתה לפי שאין להם בעלים אמר</row>
+		<row row_number="41" isdata="1">רב הונא פוטר היה רבי יהודה אפילו נגח ולבסוף הקדיש נגח ולבסוף הפקיר</row>
+		<row row_number="42" isdata="1">ממאי מדקתני תרתי שור המדבר ושור הגר שמת ואין לו יורשין שור הגר</row>
+		<row row_number="43" isdata="1">שמת מאי ניהו דכיון דאין לו יורשין הוה ליה שור הפקר היינו שור המדבר</row>
+		<row row_number="44" isdata="1">היינו שור הגר שמת ואין לו יורשין אלא לאו הא קמשמע לן דאפילו</row>
+		<row row_number="45" isdata="1">נגח ולבסוף הקדיש נגח ולבסוף הפקיר שמע מינה תניא נמי הכי</row>
+		<row row_number="46" isdata="1">יתר על כן אמר ר' יהודה אפילו נגח ולבסוף הקדיש נגח ולבסוף הפקיר פטור שנאמר</row>
+		<row row_number="47" isdata="1">והועד בבעליו והמית וגו' עד שתהא מיתה והעמדה בדין שוין כאחד וגמר דין לא בעינן והא השור יסקל</row>
+		<row row_number="48" isdata="1">גמר דין הוא אלא אימא עד שתהא מיתה והעמדה בדין וגמר דין שוין כאחדמתני' שור שהוא יוצא</row>
+		<row row_number="49" isdata="1">ליסקל והקדישו בעליו אינו מוקדש שחטו בשרו אסור ואם עד שלא נגמר דינו הקדישו בעליו מוקדש</row>
+		<row row_number="50" isdata="1">ואם שחטו בשרו מותר מסרו לשומר חנם ולשואל לנושא שכר ולשוכר נכנסו תחת הבעלים</row>
+		<row row_number="51" isdata="1">מועד משלם נזק שלם ותם משלם חצי נזק<EndMishna/><StartGemara/>גמ' תנו רבנן שור שהמית עד שלא נגמר דינו מכרו</row>
+</amud>
+</daf>
+</masechet>
+</root>

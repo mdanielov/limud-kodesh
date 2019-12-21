@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:22.033470</dateCreated>
+   <lastModified>2019-12-21 20:30:22.033470</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="30">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאמר"/><ContGemara/>הא ברשותיה דאבוה קאים אלא דאמר אהא</row>
+		<row row_number="2" isdata="1">בשביל אבא אהא בשביל עצמי אי אייתי</row>
+		<row row_number="3" isdata="1">שתי שערות מעיקרא קאים בנזירות דיליה</row>
+		<row row_number="4" isdata="1">ולבסוף קאים בנזירות דאבוה ואי אייתי</row>
+		<row row_number="5" isdata="1">במצעי מאי הניחא לר' יוסי בר' יהודה דאמר</row>
+		<row row_number="6" isdata="1">עד שיגיע לעונת נדרים אלא לרבי דאמר</row>
+		<row row_number="7" isdata="1">עד שיביא שתי שערות מאי איכא למימר</row>
+		<row row_number="8" isdata="1">אמרי לרבי ליכא תקנתא עד דיתיב דיליה</row>
+		<row row_number="9" isdata="1">ויתיב דאבוהימתני' האיש מגלח על</row>
+		<row row_number="10" isdata="1">נזירות אביו ואין האשה מגלחת על נזירות</row>
+		<row row_number="11" isdata="1">אביה כיצד מי שהיה אביו נזיר והפריש</row>
+		<row row_number="12" isdata="1">מעות סתומים על נזירותו ומת ואמר הריני</row>
+		<row row_number="13" isdata="1">נזיר על מנת שאגלח על מעות אבא אמר</row>
+		<row row_number="14" isdata="1">ר' יוסי הרי אלו יפלו לנדבה אין זה מגלח</row>
+		<row row_number="15" isdata="1">על נזירות אביו איזהו שמגלח על נזירות אביו</row>
+		<row row_number="16" isdata="1">מי שהיה הוא ואביו נזירים והפריש אביו</row>
+		<row row_number="17" isdata="1">מעות סתומים לנזירותו ומת זה הוא שמגלח</row>
+		<row row_number="18" isdata="1">על נזירות אביו<EndMishna/><StartGemara/>גמ' מ"ט אמר ר' יוחנן</row>
+		<row row_number="19" isdata="1">הלכה היא בנזיר פשיטא מאי למימרא דבן</row>
+		<row row_number="20" isdata="1">יורש את אביו בת לא לא צריכא דלית</row>
+		<row row_number="21" isdata="1">ליה אלא בת מהו דתימא יורשין גמירין לה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:11.961258</dateCreated>
+   <lastModified>2019-12-21 20:31:11.961258</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="73">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הבית"/><ContGemara/>ולימא מחלוקת רבי שמעון ורבנן הא קמ"ל</row>
+		<row row_number="2" isdata="1">דרבי מנחם בר' יוסי כר' שמעון סבירא ליה<EndChapter name = "המוכר את הבית"/><EndGemara/></row>
+		<row row_number="3" isdata="0">הדרן עלך המוכר את הבית</row>
+		<row row_number="4" isdata="1"><StartChapter name = "המוכר את הספינה"/><StartMishna/>המוכר את הספינה מכר את התורן ואת</row>
+		<row row_number="5" isdata="1">הנס ואת העוגין ואת כל המנהיגין</row>
+		<row row_number="6" isdata="1">אותה אבל לא מכר לא את העבדים ולא את</row>
+		<row row_number="7" isdata="1">המרצופין ולא את האנתיקי ובזמן שאמר לו</row>
+		<row row_number="8" isdata="1">היא וכל מה שבתוכה הרי כולן מכורין<EndMishna/><StartGemara/>גמ' תורן איסקריא וכן הוא אומר</row>
+		<row row_number="9" isdata="1">ארז מלבנון לקחו לעשות תורן עליך נס אדרא וכן הוא אומר שש ברקמה</row>
+		<row row_number="10" isdata="1">ממצרים היה מפרשך להיות לך לנס עוגין תני רבי חייא אלו עוגינין שלה וכן</row>
+		<row row_number="11" isdata="1">הוא אומר הלהן תשברנה עד אשר יגדלו הלהן תעגנה לבלתי היות לאיש</row>
+		<row row_number="12" isdata="1">מנהיגין א"ר אבא אלו המשוטין שלה וכן הוא אומר אלונים מבשן עשו</row>
+		<row row_number="13" isdata="1">משוטיך ואבע"א מהכא וירדו מאניותיהם כל תופשי משוט ת"ר המוכר את</row>
+		<row row_number="14" isdata="1">הספינה מכר את האיסכלה ואת בור המים שבתוכה רבי נתן אומר המוכר</row>
+		<row row_number="15" isdata="1">את הספינה מכר את הביצית סומכוס אומר מוכר את הספינה מכר את</row>
+		<row row_number="16" isdata="1">הדוגית אמר רבא ביצית היינו דוגית רבי נתן בבלאה הוה קארי לה בוצית</row>
+		<row row_number="17" isdata="1">כדאמרי אינשי בוציאתא דמיאשן סומכוס דבר ארץ ישראל קארי לה דוגית</row>
+		<row row_number="18" isdata="1">כדכתיב ואחריתכן בסירות דוגה אמר רבה אשתעו לי נחותי ימא האי גלא</row>
+		<row row_number="19" isdata="1">דמטבע לספינה מיתחזי כי צוציתא דנורא חיוורתא ברישא ומחינן ליה</row>
+		<row row_number="20" isdata="1">באלוותא דחקיק עליה אהיה אשר אהיה יה ה' צבאות אמן אמן סלה ונייח</row>
+		<row row_number="21" isdata="1">אמר רבה אשתעו לי נחותי ימא בין גלא לגלא תלת מאה פרסי ורומא</row>
+		<row row_number="22" isdata="1">דגלא תלת מאה פרסי זימנא חדא הוה אזלינן באורחא ודלינן גלא עד</row>
+		<row row_number="23" isdata="1">דחזינן בי מרבעתיה דכוכבא זוטא והויא לי כמבזר ארבעין גריוי בזרא</row>
+		<row row_number="24" isdata="1">דחרדלא ואי דלינן טפי הוה מקלינן מהבליה ורמי לה גלא קלא לחברתה</row>
+		<row row_number="25" isdata="1">חבירתי שבקת מידי בעלמא דלא שטפתיה דניתי אנא ונאבדיה</row>
+		<row row_number="26" isdata="1">א"ל פוק חזי גבורתא דמריך מלא חוטא חלא ולא עברי שנאמר</row>
+		<row row_number="27" isdata="1">האותי לא תיראו נאם ה' אם מפני לא תחילו אשר שמתי חול גבול</row>
+		<row row_number="28" isdata="1">לים חוק עולם ולא יעברנהו אמר רבה לדידי חזי לי הורמין בר לילית</row>
+		<row row_number="29" isdata="1">כי קא רהיט אקופיא דשורא דמחוזא ורהיט פרשא כי רכיב חיותא</row>
+		<row row_number="30" isdata="1">מתתאיה ולא יכיל ליה זמנא חדא הוה מסרגאן ליה תרתי כודנייתי וקיימן</row>
+</amud>
+</daf>
+</masechet>
+</root>

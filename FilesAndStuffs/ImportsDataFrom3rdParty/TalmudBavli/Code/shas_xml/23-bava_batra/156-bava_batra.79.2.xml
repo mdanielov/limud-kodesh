@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:12.540196</dateCreated>
+   <lastModified>2019-12-21 20:31:12.540196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="79">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContGemara/>ואי בשדה ואילן אמאי מחליף אלא אמר רבה</row>
+		<row row_number="2" isdata="1">מחלוקת בבור ושובך אבל בשדה ואילן</row>
+		<row row_number="3" isdata="1">דברי הכל מועלין בהן ובמה שבתוכן ובבור</row>
+		<row row_number="4" isdata="1">ושובך בריקנין במאי פליגי ובמלאין במאי</row>
+		<row row_number="5" isdata="1">פליגי בריקנין פליגי בפלוגתא דרבי מאיר</row>
+		<row row_number="6" isdata="1">ורבנן דתנא קמא סבר לה כרבנן דאמרי</row>
+		<row row_number="7" isdata="1">אין אדם מקנה דבר שלא בא לעולם ור"א</row>
+		<row row_number="8" isdata="1">ברבי שמעון סבר כר"מ דאמר אדם מקנה</row>
+		<row row_number="9" isdata="1">דבר שלא בא לעולם אימור דשמעת ליה</row>
+		<row row_number="10" isdata="1">לרבי מאיר כגון פירות דקל דעבידי דאתו</row>
+		<row row_number="11" isdata="1">הני מי יימר דאתו אמר רבא משכחת לה</row>
+		<row row_number="12" isdata="1">במים הבאין דרך חצרו לבור ויונים הבאין</row>
+		<row row_number="13" isdata="1">דרך שובכו לשובך ובמלאים במאי פליגי</row>
+		<row row_number="14" isdata="1">אמר רבא כגון שהקדיש בור סתם ור' אלעזר</row>
+		<row row_number="15" isdata="1">ברבי שמעון סבר לה כאבוה דאמר דנין דין</row>
+		<row row_number="16" isdata="1">גבוה מדין הדיוט מה דין הדיוט מצי אמר</row>
+		<row row_number="17" isdata="1">בירא זביני לך מיא לא זביני לך אף דין</row>
+		<row row_number="18" isdata="1">גבוה בירא אקדיש מיא לא אקדיש (ות"ק</row>
+		<row row_number="19" isdata="1">סבר אין דנין דין גבוה מדין הדיוט) ודין</row>
+		<row row_number="20" isdata="1">הדיוט לא והתנן מכר בור מכר מימיו אמר</row>
+		<row row_number="21" isdata="1">רבא מתני' יחידאה היא דתניא מכר בור לא</row>
+		<row row_number="22" isdata="1">מכר מימיו ר' נתן אומר מכר בור מכר מימיו</row>
+</amud>
+</daf>
+</masechet>
+</root>

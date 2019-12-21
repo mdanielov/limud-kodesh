@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:18.502176</dateCreated>
+   <lastModified>2019-12-21 20:32:18.502176</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="64">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>עוברי דגים ותניא גבי ביצים אלו הן</row>
+		<row row_number="2" isdata="1">סימני ביצים כל שכודרת ועגולגולת ראשה</row>
+		<row row_number="3" isdata="1">אחד כד וראשה אחד חד טהורה ב' ראשיה</row>
+		<row row_number="4" isdata="1">כדין או ב' ראשיה חדין טמאין חלבון</row>
+		<row row_number="5" isdata="1">מבחוץ וחלמון מבפנים טהורה חלמון</row>
+		<row row_number="6" isdata="1">מבחוץ וחלבון מבפנים טמאה חלמון וחלבון</row>
+		<row row_number="7" isdata="1">מעורבין זה בזה בידוע שהיא ביצת השרץ</row>
+		<row row_number="8" isdata="1">לא צריכא דחתוכות וליבדוק בחלמון וחלבון</row>
+		<row row_number="9" isdata="1">בטרופות בקערה וכה"ג מי זבנינן מינייהו</row>
+		<row row_number="10" isdata="1">והא תניא אין מוכרין ביצת טרפה לעובד</row>
+		<row row_number="11" isdata="1">כוכבים אלא א"כ טרופה בקערה לפיכך</row>
+		<row row_number="12" isdata="1">אין לוקחין מהם ביצים טרופות בקערה</row>
+		<row row_number="13" isdata="1">אלא אמר ר' זירא סימנין לאו דאורייתא דאי</row>
+		<row row_number="14" isdata="1">לא תימא הכי הא דאמר רב אסי שמנה</row>
+		<row row_number="15" isdata="1">ספיקות הן ליבדוק בביצים דידהו אלא ש"מ</row>
+		<row row_number="16" isdata="1">סימנין לאו דאורייתא אלא למאי הלכתא</row>
+		<row row_number="17" isdata="1">קתני לה הכי קאמר ב' ראשיה כדין או ב'</row>
+		<row row_number="18" isdata="1">ראשיה חדין או חלמון מבחוץ וחלבון</row>
+		<row row_number="19" isdata="1">מבפנים ודאי טמאה רישיה חד חד רישיה</row>
+		<row row_number="20" isdata="1">חד כד וחלבון מבחוץ וחלמון מבפנים ואמר</row>
+		<row row_number="21" isdata="1">לך של עוף פלוני וטהור הוא סמוך עליהם</row>
+		<row row_number="22" isdata="1">בסתמא לא תסמוך עליהם דאיכא דעורבא</row>
+		<row row_number="23" isdata="1">דדמי לדיונה אמר מר חלבון וחלמון מעורבין</row>
+		<row row_number="24" isdata="1">זה בזה בידוע שהיא ביצת השרץ למאי</row>
+		<row row_number="25" isdata="1">הלכתא אמר רב עוקבא בר חמא לומר שאם</row>
+		<row row_number="26" isdata="1">ריקמה וניקבה (בכעדשה מטמא) מתקיף</row>
+		<row row_number="27" isdata="1">לה רבינא ודלמא דנחש היא אלא אמר</row>
+		<row row_number="28" isdata="1">רבא שאם ריקמה ואכלה לוקה עליה</row>
+		<row row_number="29" isdata="1">משום שרץ השורץ על הארץ אי הכי</row>
+		<row row_number="30" isdata="1">מאי איריא דטמאה אפילו דטהורה נמי</row>
+		<row row_number="31" isdata="1">דתניא כל השרץ השורץ על הארץ</row>
+</amud>
+</daf>
+</masechet>
+</root>

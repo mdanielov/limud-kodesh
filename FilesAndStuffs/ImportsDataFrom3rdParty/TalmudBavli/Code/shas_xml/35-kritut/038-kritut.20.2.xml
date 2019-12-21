@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:40.773332</dateCreated>
+   <lastModified>2019-12-21 20:32:40.773332</lastModified>
+ </meta>
+ <masechet name="כריתות" serial="35">
+<daf value="20">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ספק אכל חלב"/><ContGemara/>כגון שנתכוין לכבות ולהבעיר דתנא קמא</row>
+		<row row_number="2" isdata="1">סבר לה כר' יוסי דאמר הבערה ללאו יצאת</row>
+		<row row_number="3" isdata="1">ור' אליעזר ברבי צדוק סבר לה כרבי נתן</row>
+		<row row_number="4" isdata="1">דאמר הבערה לחלק יצאת רבא אמר להקדים</row>
+		<row row_number="5" isdata="1">איכא בינייהו רב אשי אמר כגון שנתכוין</row>
+		<row row_number="6" isdata="1">לכבות והובערו מאיליהן ותנא קמא סבר לה</row>
+		<row row_number="7" isdata="1">כרבי שמעון דאמר דבר שאין מתכוין</row>
+		<row row_number="8" isdata="1">פטור ורבי אליעזר ברבי צדוק סבר לה כרבי</row>
+		<row row_number="9" isdata="1">יהודה דאמר דבר שאין מתכוין חייב</row>
+		<row row_number="10" isdata="1">תנו רבנן החותה גחלים בשבת להתחמם</row>
+		<row row_number="11" isdata="1">בהם והובערו מאיליהן תני חדא חייב ותני</row>
+		<row row_number="12" isdata="1">אידך פטור הדתניא חייב קסבר מלאכה</row>
+		<row row_number="13" isdata="1">שאינה צריכה לגופה חייב עליה והא דתנא</row>
+		<row row_number="14" isdata="1">פטור קסבר מלאכה שאינה צריכה לגופה</row>
+		<row row_number="15" isdata="1">פטור עליה<EndChapter name = "ספק אכל חלב"/><EndGemara/></row>
+		<row row_number="16" isdata="0">הדרן עלך ספק אכל חלב</row>
+		<row row_number="17" isdata="1"><StartChapter name = "דם שחיטה"/><StartMishna/>אכל דם שחיטה בבהמה בחיה ובעוף</row>
+		<row row_number="18" isdata="1">בין טמאין בין טהורין דם נחירה</row>
+		<row row_number="19" isdata="1">דם עיקור דם הקזה שהנשמה יוצאה</row>
+		<row row_number="20" isdata="1">בו חייבין עליו דם הטחול דם הלב דם ביצים</row>
+		<row row_number="21" isdata="1">דם חגבים דם התמצית אין חייבין</row>
+		<row row_number="22" isdata="1">עליו רבי יהודה מחייב בדם התמצית</row>
+		<row row_number="23" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר כל דם לא תאכלו שומע אני אפי'</row>
+		<row row_number="24" isdata="1">דם מהלכי שתים דם ביצים דם חגבים דם</row>
+		<row row_number="25" isdata="1">דגים הכל בכלל ת"ל לעוף ולבהמה מה עוף ובהמה מיוחדין שיש בהן טומאה</row>
+		<row row_number="26" isdata="1">קלה וטומאה חמורה ויש בהן איסור והיתר והן מין בשר אף כל שיש בהן טומאה</row>
+		<row row_number="27" isdata="1">קלה אוציא דם מהלכי שתים שיש בהן טומאה חמורה ואין בהם טומאה קלה</row>
+</amud>
+</daf>
+</masechet>
+</root>

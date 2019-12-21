@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:16.550486</dateCreated>
+   <lastModified>2019-12-21 20:30:16.550486</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="49">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "הנודר מן המבושל"/><StartMishna/><ContChapter name = "הנודר מן המבושל"/><ContMishna/>הנודר מן המבושל מותר בצלי ובשלוק</row>
+		<row row_number="2" isdata="1">אמר קונם תבשיל שאיני טועם</row>
+		<row row_number="3" isdata="1">אסור במעשה קדרה רך ומותר בעבה ומותר</row>
+		<row row_number="4" isdata="1">בביצה טורמוטא ובדלעת הרמוצה הנודר</row>
+		<row row_number="5" isdata="1">ממעשה קדרה אין אסור אלא ממעשה</row>
+		<row row_number="6" isdata="1">רתחתה אמר קונם היורד לקדרה שאיני</row>
+		<row row_number="7" isdata="1">טועם אסור בכל המתבשלין בקדרה</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' תניא ר' יאשיה אוסר ואע"פ שאין ראיה</row>
+		<row row_number="9" isdata="1">לדבר זכר לדבר שנא' ויבשלו (את) הפסח</row>
+		<row row_number="10" isdata="1">באש כמשפט לימא בהא קמיפלגי דרבי</row>
+		<row row_number="11" isdata="1">יאשיה סבר הלך אחר לשון תורה ותנא דילן</row>
+		<row row_number="12" isdata="1">סבר בנדרים הלך אחר לשון בני אדם לא</row>
+		<row row_number="13" isdata="1">דכולי עלמא בנדרים הלך אחר לשון בני</row>
+		<row row_number="14" isdata="1">אדם מר כי אתריה ומר כי אתריה באתרא</row>
+		<row row_number="15" isdata="1">דתנא דילן לצלי קרו ליה צלי ולמבושל קרו</row>
+		<row row_number="16" isdata="1">ליה מבושל באתרא דר' יאשיה אפילו צלי</row>
+		<row row_number="17" isdata="1">קרו מבושל והא קרא נסיב לה אסמכתא</row>
+		<row row_number="18" isdata="1">בעלמא קונם תבשיל כו' והא מתבשיל</row>
+		<row row_number="19" isdata="1">נדר אמר אביי האי תנא כל מידי דמתאכל</row>
+		<row row_number="20" isdata="1">ביה ריפתא תבשיל קרו ליה והתניא הנודר</row>
+		<row row_number="21" isdata="1">מן התבשיל אסור בכל מיני תבשיל ואסור</row>
+		<row row_number="22" isdata="1">בצלי ובשלוק ובמבושל ואסור בהיטריות</row>
+		<row row_number="23" isdata="1">רכות שהחולין אוכלין בהן פיתן איני והא</row>
+		<row row_number="24" isdata="1">רבי ירמיה חלש על לגביה ההוא אסיא לאסיוה חזא קרא דמחת</row>
+		<row row_number="25" isdata="1">בביתיה שבקיה ונפק אמר מלאך מותא אית ליה לדין בביתיה ואנא</row>
+		<row row_number="26" isdata="1">איעול לאסאה יתיה לא קשיא הא ברכיכי הא באשוני רבא בר</row>
+		<row row_number="27" isdata="1">עולא אמר הא בקרא גופיה והא בגוויה דקרא דאמר רב יהודה לוליבא</row>
+		<row row_number="28" isdata="1">דקרא בסילקא לוליבא דכיתנא בכותחא ודבר זה אסור לאומרו בפני</row>
+		<row row_number="29" isdata="1">עם הארץ רבא אמר מאן חולין רבנן רבא לטעמיה דאמר רבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

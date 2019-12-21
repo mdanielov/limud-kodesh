@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:14.715402</dateCreated>
+   <lastModified>2019-12-21 20:29:14.715402</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="93">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שהיה טמא "/><ContGemara/>מה טמא שספק בידו לעשות ואינו עושה אף</row>
+		<row row_number="2" isdata="1">דרך רחוקה נמי שספק בידו לעשות ואינו</row>
+		<row row_number="3" isdata="1">עושה ורב נחמן אמר לך ר' עקיבא לטעמי'</row>
+		<row row_number="4" isdata="1">דקסבר אין שוחטין וזורקין על טמא שרץ</row>
+		<row row_number="5" isdata="1">ואנא סבירא ליה כמ"ד שוחטין וזורקין על</row>
+		<row row_number="6" isdata="1">טמא שרץ ת"ר אלו שעושין את השני</row>
+		<row row_number="7" isdata="1">הזבין והזבות המצורעין והמצורעות [ונדות]</row>
+		<row row_number="8" isdata="1">ובועלי נדות והיולדות השוגגין והאנוסין</row>
+		<row row_number="9" isdata="1">והמזידין וטמא ושהיה בדרך רחוקה א"כ</row>
+		<row row_number="10" isdata="1">למה נאמר טמא למה נאמר דאי בעי</row>
+		<row row_number="11" isdata="1">למיעבד בראשון לא שבקינן ליה אלא א"כ</row>
+		<row row_number="12" isdata="1">למה נאמר בדרך רחוקה לפוטרו מן הכרת</row>
+		<row row_number="13" isdata="1">וכמ"ד הורצה אשה בשני מי מיחייבא והא</row>
+		<row row_number="14" isdata="1">תניא יכול לא יהו עושין את השני אלא</row>
+		<row row_number="15" isdata="1">טמא נפש ושהיה בדרך רחוקה זבין</row>
+		<row row_number="16" isdata="1">ומצורעין ובועלי נדות מנין ת"ל איש</row>
+		<row row_number="17" isdata="1">איש לא קשיא הא ר' יוסי הא ר"י ור"ש ת"ר</row>
+		<row row_number="18" isdata="1">חייב כרת על הראשון וחייב כרת על השני</row>
+		<row row_number="19" isdata="1">דברי רבי רבי נתן אומר חייב כרת על הראשון</row>
+		<row row_number="20" isdata="1">ופטור על השני ר"ח בן עקביא אומר אף [על]</row>
+		<row row_number="21" isdata="1">הראשון אינו חייב כרת אא"כ לא עשה את</row>
+		<row row_number="22" isdata="1">השני ואזדו לטעמייהו דתניא גר שנתגייר</row>
+		<row row_number="23" isdata="1">בין שני פסחים וכן קטן שהגדיל בין שני</row>
+		<row row_number="24" isdata="1">פסחים חייב לעשות פסח שני דברי רבי</row>
+		<row row_number="25" isdata="1">רבי נתן אומר כל שזקוק לראשון זקוק לשני כל</row>
+		<row row_number="26" isdata="1">שאין זקוק לראשון אין זקוק לשני במאי</row>
+		<row row_number="27" isdata="1">קמיפלגי רבי סבר שני רגל בפני עצמו</row>
+		<row row_number="28" isdata="1">הוא רבי נתן סבר שני תשלומין דראשון</row>
+		<row row_number="29" isdata="1">הוא תקוני לראשון לא מתקין ליה ורבי</row>
+		<row row_number="30" isdata="1">חנניא בן עקביא סבר שני תקנתא דראשון</row>
+		<row row_number="31" isdata="1">הוא ושלשתן מקרא אחד דרשו והאיש</row>
+		<row row_number="32" isdata="1">אשר הוא טהור ובדרך לא היה רבי סבר</row>
+		<row row_number="33" isdata="1">וחדל לעשות הפסח ונכרתה דלא עבד</row>
+		<row row_number="34" isdata="1">בראשון אי נמי קרבן ה' לא הקריב במועדו</row>
+		<row row_number="35" isdata="1">בשני וממאי (דהא) חטאו ישא כרת הוא</row>
+</amud>
+</daf>
+</masechet>
+</root>

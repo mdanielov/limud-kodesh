@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:08.899195</dateCreated>
+   <lastModified>2019-12-21 20:31:08.899195</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="37">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContMishna/>לאו מי אמר ר' ישמעאל חד פירא הוי חזקה</row>
+		<row row_number="2" isdata="1">לכולהו פירי הכא נמי הני הוו חזקה להני</row>
+		<row row_number="3" isdata="1">והני הוו חזקה להני והני מילי היכא דלא</row>
+		<row row_number="4" isdata="1">אפיקו אבל אפיקו ולא אכל לא הויא</row>
+		<row row_number="5" isdata="1">חזקה והוא דבאזי באזוזי זה החזיק באילנות</row>
+		<row row_number="6" isdata="1">וזה החזיק בקרקע אמר רב זביד זה קנה</row>
+		<row row_number="7" isdata="1">אילנות וזה קנה קרקע מתקיף לה רב פפא</row>
+		<row row_number="8" isdata="1">אם כן אין לו לבעל אילנות בקרקע כלום</row>
+		<row row_number="9" isdata="1">לימא ליה בעל קרקע לבעל אילנות עקור</row>
+		<row row_number="10" isdata="1">אילנך שקול וזיל אלא אמר רב פפא זה</row>
+		<row row_number="11" isdata="1">קנה אילנות וחצי קרקע וזה קנה חצי</row>
+		<row row_number="12" isdata="1">קרקע פשיטא מכר קרקע ושייר אילנות</row>
+		<row row_number="13" isdata="1">לפניו יש לו קרקע ואפילו לר' עקיבא</row>
+		<row row_number="14" isdata="1">דאמר מוכר בעין יפה מוכר ה"מ גבי בור</row>
+		<row row_number="15" isdata="1">ודות דלא מכחשו בארעא אבל אילנות</row>
+</amud>
+</daf>
+</masechet>
+</root>

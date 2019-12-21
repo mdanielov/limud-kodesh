@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:43.027915</dateCreated>
+   <lastModified>2019-12-21 20:31:43.027915</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="9">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "לפני אידיהן"/><ContGemara/>ארבעים ושמונה עיר ואי טעי ספרא נשייליה</row>
+		<row row_number="2" isdata="1">לתנא כמה קתני וניבצר מינייהו ארבעים</row>
+		<row row_number="3" isdata="1">ושמונה ומשכח ליה לחומריה וסימניך</row>
+		<row row_number="4" isdata="1">ספרא בצירא תנא תוספאה אמר רב הונא</row>
+		<row row_number="5" isdata="1">בריה דרב יהושע האי מאן דלא ידע כמה</row>
+		<row row_number="6" isdata="1">שני בשבוע הוא עומד ניטפי חד שתא</row>
+		<row row_number="7" isdata="1">ונחשוב כללי ביובלי ופרטי בשבועי</row>
+		<row row_number="8" isdata="1">ונשקל ממאה תרי ונשדי אפרטי ונחשובינהו</row>
+		<row row_number="9" isdata="1">לפרטי בשבועי וידע כמה שני בשבוע</row>
+		<row row_number="10" isdata="1">וסימניך כי זה שנתים הרעב בקרב</row>
+		<row row_number="11" isdata="1">הארץ אמר רבי חנינא אחר ארבע מאות</row>
+		<row row_number="12" isdata="1">לחורבן הבית אם יאמר לך אדם קח</row>
+		<row row_number="13" isdata="1">שדה שוה אלף דינרים בדינר אחד לא</row>
+		<row row_number="14" isdata="1">תקח במתניתא תנא אחר ארבעת אלפים</row>
+		<row row_number="15" isdata="1">ומאתים ושלשים ואחת שנה לבריאת עולם</row>
+		<row row_number="16" isdata="1">אם יאמר לך אדם קח לך שדה שוה אלף</row>
+		<row row_number="17" isdata="1">דינרים בדינר אחד אל תקח מאי בינייהו</row>
+		<row row_number="18" isdata="1">איכא בינייהו תלת שנין דמתניתא טפיא</row>
+		<row row_number="19" isdata="1">תלת שני ההוא שטרא דהוה כתיב ביה</row>
+</amud>
+</daf>
+</masechet>
+</root>

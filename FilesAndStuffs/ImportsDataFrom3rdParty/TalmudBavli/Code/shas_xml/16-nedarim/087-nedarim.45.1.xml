@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:16.243487</dateCreated>
+   <lastModified>2019-12-21 20:30:16.243487</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="45">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אין בין המודר"/><ContGemara/>איבעית אימא הא דאפקריה באנפי תרין והא</row>
+		<row row_number="2" isdata="1">דאפקריה באפי תלתא דאמר ר' יוחנן משום</row>
+		<row row_number="3" isdata="1">רבי שמעון בן יהוצדק כל המפקיר בפני</row>
+		<row row_number="4" isdata="1">שלשה הוי הפקר בפני שנים לא הוי הפקר</row>
+		<row row_number="5" isdata="1">ור' יהושע בן לוי אמר דבר תורה אפילו</row>
+		<row row_number="6" isdata="1">באחד הוי הפקר ומה טעם אמרו בשלשה</row>
+		<row row_number="7" isdata="1">כדי שיהא אחד זוכה ושנים מעידין<EndChapter name = "אין בין המודר"/><EndGemara/></row>
+		<row row_number="8" isdata="0">הדרן עלך אין בין המודר</row>
+</amud>
+</daf>
+</masechet>
+</root>

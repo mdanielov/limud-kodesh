@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:06.939422</dateCreated>
+   <lastModified>2019-12-21 20:29:06.939422</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="40">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>מנקטא ליה אימיה בארבי ההוא ארבא</row>
+		<row row_number="2" isdata="1">דחיטי דטבעא בחישתא שריא רבא לזבוני</row>
+		<row row_number="3" isdata="1">לנכרים איתיביה רבה בר ליואי לרבא</row>
+		<row row_number="4" isdata="1">בגד שאבד בו כלאים הרי זה לא ימכרנו</row>
+		<row row_number="5" isdata="1">לנכרי ולא יעשה בו מרדעת לחמור אבל</row>
+		<row row_number="6" isdata="1">עושין אותו תכריכין למת לנכרי מאי</row>
+		<row row_number="7" isdata="1">טעמא לא לאו משום דהדר מזבין לישראל</row>
+		<row row_number="8" isdata="1">הדר אמר רבא לזבינהו קבא קבא לישראל</row>
+		<row row_number="9" isdata="1">כי היכי דכליא קמי פיסחא תנו רבנן אין</row>
+		<row row_number="10" isdata="1">מוללין את הקדירה בפסח והרוצה שימלול</row>
+		<row row_number="11" isdata="1">נותן את הקמח ואח"כ נותן את החומץ</row>
+		<row row_number="12" isdata="1">ויש אומרים אף נותן את החומץ ואח"כ</row>
+		<row row_number="13" isdata="1">נותן את הקמח מאן י"א א"ר חסדא רבי</row>
+		<row row_number="14" isdata="1">יהודה היא דתנן האילפס והקדירה</row>
+		<row row_number="15" isdata="1">שהעבירן מרותחין לא יתן לתוכן תבלין</row>
+		<row row_number="16" isdata="1">אבל נותן לתוך הקערה או לתוך התמחוי</row>
+		<row row_number="17" isdata="1">רבי יהודה אומר לכל הוא נותן חוץ מדבר</row>
+		<row row_number="18" isdata="1">שיש בו חומץ וציר ונוקמה כר' יוסי (דתנן)</row>
+		<row row_number="19" isdata="1">ר' יוסי אומר שורן בחומץ וחומץ צומתן כי</row>
+		<row row_number="20" isdata="1">אשמעינן ליה לרבי יוסי הני מילי דאיתיה</row>
+		<row row_number="21" isdata="1">בעיניה אבל על ידי תערובת לא עולא אמר</row>
+		<row row_number="22" isdata="1">אחד זה ואחד זה אסור משום לך לך</row>
+		<row row_number="23" isdata="1">אמרינן נזירא סחור סחור לכרמא לא תקרב</row>
+		<row row_number="24" isdata="1">רב פפי שרי ליה לבורדיקי דבי ריש גלותא</row>
+		<row row_number="25" isdata="1">לממחה קדירה בחסיסי אמר רבא איכא</row>
+		<row row_number="26" isdata="1">דשרי כי האי מילתא בדוכתא דשכיחי עבדי</row>
+		<row row_number="27" isdata="1">א"ד רבא גופא מחי לה קידרא בחסיסי</row>
+		<row row_number="28" isdata="1"><EndGemara/><StartMishna/>מתני' אין נותנין קמח לתוך חרוסת או</row>
+		<row row_number="29" isdata="1">לתוך החרדל ואם נתן יאכל מיד ורבי מאיר</row>
+		<row row_number="30" isdata="1">אוסר אין מבשלין את הפסח לא במשקין</row>
+		<row row_number="31" isdata="1">ולא במי פירות אבל סכין ומטבילין אותו</row>
+		<row row_number="32" isdata="1">בהן מי תשמישו של נחתום ישפכו</row>
+		<row row_number="33" isdata="1">מפני שהן מחמיצין<EndMishna/><StartGemara/>גמ' אמר רב כהנא</row>
+		<row row_number="34" isdata="1">מחלוקת לתוך החרדל אבל לתוך חרוסת</row>
+		<row row_number="35" isdata="1">דברי הכל ישרף מיד ותניא נמי הכי אין</row>
+		<row row_number="36" isdata="1">נותנין קמח לתוך החרוסת ואם נתן ישרף</row>
+		<row row_number="37" isdata="1">מיד לתוך החרדל ר' מאיר אומר ישרף</row>
+		<row row_number="38" isdata="1">מיד וחכמים אומרים יאכל מיד אמר</row>
+		<row row_number="39" isdata="1">רב הונא בריה דרב יהודה אמר רב נחמן</row>
+		<row row_number="40" isdata="1">אמר שמואל הלכה כדברי חכמים א"ל רב</row>
+		<row row_number="41" isdata="1">נחמן בר יצחק לרב הונא בריה דרב יהודה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:23.268923</dateCreated>
+   <lastModified>2019-12-21 20:32:23.268923</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="100">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "גיד הנשה"/><ContGemara/>אפילו תימא לא קדם וסלקו הוי מין ומינו</row>
+		<row row_number="2" isdata="1">ודבר אחר וכל מין ומינו ודבר אחר סלק</row>
+		<row row_number="3" isdata="1">את מינו כמי שאינו ושאין מינו רבה עליו</row>
+		<row row_number="4" isdata="1">ומבטלומתני' נוהג בטהורה ואינו נוהג</row>
+		<row row_number="5" isdata="1">בטמאה רבי יהודה אומר אף בטמאה אמר</row>
+		<row row_number="6" isdata="1">ר' יהודה והלא מבני יעקב נאסר גיד הנשה</row>
+		<row row_number="7" isdata="1">ועדיין בהמה טמאה מותרת להן אמרו לו</row>
+		<row row_number="8" isdata="1">בסיני נאמר אלא שנכתב במקומו<EndMishna/><StartGemara/>גמ' וסבר</row>
+		<row row_number="9" isdata="1">ר' יהודה איסור חל על איסור והתניא ר'</row>
+		<row row_number="10" isdata="1">יהודה אומר יכול תהא נבלת עוף טמא</row>
+		<row row_number="11" isdata="1">מטמא בגדים בבית הבליעה תלמוד לומר</row>
+		<row row_number="12" isdata="1">נבלה וטרפה לא יאכל לטמאה בה מי</row>
+		<row row_number="13" isdata="1">שאיסורו משום בל תאכל נבלה יצא זה</row>
+		<row row_number="14" isdata="1">שאין איסורו משום בל תאכל נבלה אלא</row>
+		<row row_number="15" isdata="1">משום בל תאכל טמאה וכי תימא קסבר אין</row>
+		<row row_number="16" isdata="1">בגידין בנותן טעם ובטמאה נמי איסור גיד</row>
+		<row row_number="17" isdata="1">איכא איסור טומאה ליכא וסבר ר' יהודה</row>
+		<row row_number="18" isdata="1">אין בגידין בנותן טעם והתניא האוכל גיד</row>
+		<row row_number="19" isdata="1">הנשה של בהמה טמאה ר' יהודה מחייב</row>
+		<row row_number="20" isdata="1">שתים ור"ש פוטר לעולם קסבר יש בגידין</row>
+		<row row_number="21" isdata="1">בנותן טעם וקסבר נוהג בשליל דאיסור גיד</row>
+		<row row_number="22" isdata="1">ואיסור טומאה בהדי הדדי קאתי ומי מצית</row>
+		<row row_number="23" isdata="1">אמרת נוהג בשליל והתנן נוהג בשליל ר'</row>
+		<row row_number="24" isdata="1">יהודה אומר אינו נוהג בשליל וחלבו מותר</row>
+		<row row_number="25" isdata="1">הני מילי גבי טהורה דרחמנא אמר כל</row>
+		<row row_number="26" isdata="1">בבהמה תאכלו אבל בטמאה נוהג ומי</row>
+		<row row_number="27" isdata="1">מצית אמרת דתרוייהו בהדי הדדי קאתו</row>
+		<row row_number="28" isdata="1">והתנן על אלו טומאות הנזיר מגלח על</row>
+		<row row_number="29" isdata="1">המת ועל כזית מן המת וקשיא לן על כזית</row>
+		<row row_number="30" isdata="1">מן המת מגלח על המת כולו לא כ"ש</row>
+		<row row_number="31" isdata="1">וא"ר יוחנן לא נצרכא אלא לנפל שלא</row>
+		<row row_number="32" isdata="1">נתקשרו אבריו בגידין אלמא איסור טומאה</row>
+		<row row_number="33" isdata="1">קדים אע"ג דאיסור טומאה קדים אתי איסור</row>
+		<row row_number="34" isdata="1">גיד חייל עליה שכן איסורו נוהג בבני נח</row>
+		<row row_number="35" isdata="1">דיקא נמי דקתני א"ר יהודה והלא מבני</row>
+		<row row_number="36" isdata="1">יעקב נאסר גיד הנשה ועדיין בהמה טמאה</row>
+		<row row_number="37" isdata="1">מותרת להם גופא האוכל גיד הנשה של</row>
+		<row row_number="38" isdata="1">בהמה טמאה רבי יהודה מחייב שתים</row>
+</amud>
+</daf>
+</masechet>
+</root>

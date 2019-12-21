@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:29:03.277417</dateCreated>
+   <lastModified>2019-12-21 20:29:03.277417</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="103">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>אי אליבא דר' אליעזר קאמר אפי' לכתחילה</row>
+		<row row_number="2" isdata="1">נמי אלא לא קשיא הא ר"ש הא רבנן דתניא</row>
+		<row row_number="3" isdata="1">בן לוי שנפסקה לו נימא בכנור קושרה</row>
+		<row row_number="4" isdata="1">ר' שמעון אומר עונבה רבי שמעון בן אלעזר</row>
+		<row row_number="5" isdata="1">אומר אף היא אינה משמעת את הקול אלא</row>
+		<row row_number="6" isdata="1">משלשל מלמטה וכורך מלמעלה או משלשל</row>
+		<row row_number="7" isdata="1">מלמעלה וכורך מלמטה ואיבעית אימא הא</row>
+		<row row_number="8" isdata="1">והא רבנן ולא קשיא כאן באמצע כאן מן</row>
+		<row row_number="9" isdata="1">הצד ואיבע"א הא והא באמצע מר סבר</row>
+		<row row_number="10" isdata="1">גזרינן ומר סבר לא גזרינןמתני' חותכין</row>
+		<row row_number="11" isdata="1">יבלת במקדש אבל לא במדינה ואם בכלי</row>
+		<row row_number="12" isdata="1">כאן וכאן אסור<EndMishna/><StartGemara/>גמ' ורמינהו הרכיבו</row>
+		<row row_number="13" isdata="1">והבאתו מחוץ לתחום וחתיכת יבלתו אין דוחין רבי אליעזר אומר דוחין</row>
+		<row row_number="14" isdata="1">רבי אלעזר ורבי יוסי (בן) חנינא חד אמר הא והא בלחה ולא קשיא</row>
+		<row row_number="15" isdata="1">כאן ביד כאן בכלי וחד אמר הא והא ביד ולא קשיא הא בלחה הא</row>
+		<row row_number="16" isdata="1">ביבישה ולמאן דאמר הא ביד הא בכלי מאי טעמא לא אמר הא בלחה</row>
+		<row row_number="17" isdata="1">הא ביבישה אמר לך יבישה אפילו בכלי נמי שרי מ"ט איפרוכי איפרכא</row>
+		<row row_number="18" isdata="1">ולמ"ד הא בלחה והא ביבישה מאי טעמא לא אמר הא ביד הא בכלי אמר לך</row>
+		<row row_number="19" isdata="1">בכלי הא תנן אם בכלי כאן וכאן אסור ואידך הא דקתני התם משום דקא בעי</row>
+		<row row_number="20" isdata="1">איפלוגי ר' אליעזר ורבנן ואידך דומיא דהרכיבו והבאתו מחוץ לתחום קתני</row>
+		<row row_number="21" isdata="1">דרבנן ואידך הרכיבו דלא כרבי נתן דאמר החי נושא את עצמו הבאתו</row>
+		<row row_number="22" isdata="1">מחוץ לתחום כר"ע דאמר תחומין דאורייתא מתיב רב יוסף אמר רבי אליעזר</row>
+		<row row_number="23" isdata="1">ק"ו ומה שחיטה שהיא משום מלאכה דוחה את השבת אלו שמשום שבות</row>
+		<row row_number="24" isdata="1">אינו דין שידחו את השבת אלא אמר רב יוסף הא והא ביד ושבות מקדש</row>
+		<row row_number="25" isdata="1">במקדש התירו שבות דמקדש במדינה לא התירו יתיב אביי וקאמר להא</row>
+		<row row_number="26" isdata="1">שמעתא איתיביה רב ספרא לאביי היה קורא בספר על האסקופה ונתגלגל</row>
+		<row row_number="27" isdata="1">הספר מידו גוללו אצלו והא הכא דשבות דמקדש במדינה הוא ולא גזרי' דילמא</row>
+		<row row_number="28" isdata="1">נפיל ואתי לאיתויי ולא אוקימנא באסקופה כרמלית ורה"ר עוברת לפניה</row>
+		<row row_number="29" isdata="1">דכיון דאיגדו בידו אפילו שבות נמי ליכא איתיביה משלשלין את הפסח</row>
+		<row row_number="30" isdata="1">לתנור עם חשיכה והא הכא דשבות דמקדש במדינה ולא גזרינן שמא יחתה</row>
+		<row row_number="31" isdata="1">בגחלים אישתיק כי אתא לקמיה דרב יוסף א"ל הכי אמר לי רב ספרא אמר</row>
+		<row row_number="32" isdata="1">ליה מאי טעמא לא תשני ליה בני חבורה זריזין הן ואביי כהנים זריזין הן</row>
+		<row row_number="33" isdata="1">אמרינן בני חבורה זריזין הן לא אמרינן רבא אמר רבי אליעזר היא דאמר</row>
+		<row row_number="34" isdata="1">מכשירי מצוה דוחין את השבת ומודה ר' אליעזר דכמה דאפשר לשנויי משנינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

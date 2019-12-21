@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:53.722484</dateCreated>
+   <lastModified>2019-12-21 20:28:53.722484</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="8">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>ולמאי דסליק אדעתין מעיקרא בין שעירבו</row>
+		<row row_number="2" isdata="1">ובין שלא עירבו פליגי בעירבו במאי פליגי</row>
+		<row row_number="3" isdata="1">בשלא עירבו במאי פליגי בשלא עירבו</row>
+		<row row_number="4" isdata="1">פליגי בנראה מבחוץ ושוה מבפנים בעירבו</row>
+		<row row_number="5" isdata="1">קמיפלגי בדרב יוסף דאמר רב יוסף לא שנו</row>
+		<row row_number="6" isdata="1">אלא שכלה לאמצע רחבה אבל כלה לצידי</row>
+		<row row_number="7" isdata="1">רחבה אסור אמר רבה הא דאמרת לאמצע</row>
+		<row row_number="8" isdata="1">רחבה מותר לא אמרן אלא זה שלא כנגד</row>
+		<row row_number="9" isdata="1">זה אבל זה כנגד זה אסור אמר רב משרשיא</row>
+		<row row_number="10" isdata="1">הא דאמרת זה שלא כנגד זה מותר לא אמרן</row>
+		<row row_number="11" isdata="1">אלא רחבה דרבים אבל רחבה דיחיד</row>
+		<row row_number="12" isdata="1">זימנין דמימלך עלה ובני לה בתים וה"ל</row>
+		<row row_number="13" isdata="1">כמבוי שכלה לה לצידי רחבה ואסור ומנא תימרא דשני לן בין רחבה דרבים</row>
+		<row row_number="14" isdata="1">לרחבה דיחיד דאמר רבין בר רב אדא אמר רבי יצחק מעשה במבוי</row>
+		<row row_number="15" isdata="1">אחד שצידו אחד כלה לים וצידו אחד כלה לאשפה ובא מעשה לפני רבי</row>
+		<row row_number="16" isdata="1">ולא אמר בה לא היתר ולא איסור איסור לא אמר בה דהא קיימי מחיצות</row>
+		<row row_number="17" isdata="1">היתר לא אמר בה חיישינן שמא תינטל אשפה ויעלה הים שרטון ומי חיישינן</row>
+		<row row_number="18" isdata="1">שמא תינטל אשפה והתנן אשפה ברשות הרבים גבוה י' טפחים חלון</row>
+		<row row_number="19" isdata="1">שעל גבה זורקין לה בשבת אלמא שני בין אשפה דרבים לאשפה דיחיד הכא</row>
+		<row row_number="20" isdata="1">נמי שני בין רחבה דרבים לרחבה דיחיד ורבנן מאי אמר רב יוסף בר אבדימי</row>
+		<row row_number="21" isdata="1">תנא וחכמים אוסרין אמר רב נחמן הלכה כדברי חכמים איכא דאמרי אמר</row>
+		<row row_number="22" isdata="1">רב יוסף בר אבדימי תנא וחכמים מתירין אמר רב נחמן אין הלכה כדברי</row>
+		<row row_number="23" isdata="1">חכמים מרימר פסיק לה לסורא באוזלי אמר חיישינן שמא יעלה הים שרטון</row>
+		<row row_number="24" isdata="1">ההוא מבוי עקום דהוה בסורא כרוך בודיא אותיבו ביה בעקמומיתיה אמר</row>
+		<row row_number="25" isdata="1">רב חסדא הא לא כרב ולא כשמואל לרב דאמר תורתו כמפולש צורת</row>
+		<row row_number="26" isdata="1">הפתח בעי לשמואל דאמר תורתו כסתום הני מילי לחי מעליא אבל האי כיון</row>
+		<row row_number="27" isdata="1">דנשיב ביה זיקא ושדי ליה לא כלום הוא ואי נעיץ ביה סיכתא וחבריה חבריה</row>
+		<row row_number="28" isdata="1">גופא אמר רב ירמיה בר אבא אמר רב מבוי שנפרץ במלואו לחצר ונפרצה</row>
+		<row row_number="29" isdata="1">חצר כנגדו חצר מותרת ומבוי אסור אמר ליה רבה בר עולא לרב ביבי בר אביי</row>
+		<row row_number="30" isdata="1">רבי לא משנתנו היא זו חצר קטנה שנפרצה לגדולה גדולה מותרת וקטנה</row>
+		<row row_number="31" isdata="1">אסורה מפני שהיא כפתחה של גדולה אמר ליה אי מהתם הוה אמינא הני מילי</row>
+		<row row_number="32" isdata="1">היכא דלא קא דרסי בה רבים אבל היכא דקא דרסי בה רבים אימא אפילו</row>
+		<row row_number="33" isdata="1">חצר נמי והא נמי תנינא חצר שהרבים נכנסין לה בזו ויוצאין לה בזו רה"ר</row>
+		<row row_number="34" isdata="1">לטומאה ורה"י לשבת אי מהתם הוה אמינא הני מילי זה שלא כנגד זה</row>
+</amud>
+</daf>
+</masechet>
+</root>

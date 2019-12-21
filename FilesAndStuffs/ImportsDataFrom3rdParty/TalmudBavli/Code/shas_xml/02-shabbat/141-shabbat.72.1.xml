@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:28:44.787274</dateCreated>
+   <lastModified>2019-12-21 20:28:44.787274</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="72">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>בעל חמש בעילות בשפחה חרופה אינו</row>
+		<row row_number="2" isdata="1">חייב אלא אחת מתקיף לה רב המנונא אלא</row>
+		<row row_number="3" isdata="1">מעתה בעל וחזר ובעל והפריש קרבן ואמר</row>
+		<row row_number="4" isdata="1">המתינו לי עד שאבעול הכי נמי דאינו חייב</row>
+		<row row_number="5" isdata="1">אלא אחת א"ל מעשה דלאחר הפרשה</row>
+		<row row_number="6" isdata="1">קאמרת מעשה דלאחר הפרשה לא קאמינא</row>
+		<row row_number="7" isdata="1">כי אתא רב דימי אמר למאן דאמר אשם</row>
+		<row row_number="8" isdata="1">ודאי בעי ידיעה בתחלה בעל חמש בעילות</row>
+		<row row_number="9" isdata="1">בשפחה חרופה חייב על כל אחת ואחת אמר</row>
+		<row row_number="10" isdata="1">ליה אביי הרי חטאת דבעינן ידיעה בתחלה</row>
+		<row row_number="11" isdata="1">ופליגי ר' יוחנן ורבי שמעון בן לקיש אישתיק</row>
+		<row row_number="12" isdata="1">אמר ליה דלמא במעשה דלאחר הפרשה</row>
+		<row row_number="13" isdata="1">קאמרת וכדרב המנונא א"ל אין כי אתא</row>
+		<row row_number="14" isdata="1">רבין אמר הכל מודים בשפחה חרופה והכל</row>
+		<row row_number="15" isdata="1">מודים בשפחה חרופה ומחלוקת בשפחה</row>
+		<row row_number="16" isdata="1">חרופה הכל מודים בשפחה חרופה דאינו</row>
+		<row row_number="17" isdata="1">חייב אלא אחת כדעולא והכל מודים בשפחה</row>
+		<row row_number="18" isdata="1">חרופה דחייב על כל אחת ואחת כרב</row>
+		<row row_number="19" isdata="1">המנונא ומחלוקת בשפחה חרופה למ"ד</row>
+		<row row_number="20" isdata="1">אשם ודאי בעי ידיעה בתחלה מחלוקת</row>
+		<row row_number="21" isdata="1">דרבי יוחנן ורבי שמעון בן לקיש איתמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

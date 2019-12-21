@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:30:24.110471</dateCreated>
+   <lastModified>2019-12-21 20:30:24.110471</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="57">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כהן גדול"/><ContGemara/>גמ' איבעיא להו עצם כשעורה הלכה<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">ורביעית דם קל וחומר ואין דנין קל וחומר</row>
+		<row row_number="3" isdata="1">מהלכה או דלמא רביעית דם הלכה ועצם</row>
+		<row row_number="4" isdata="1">כשעורה קל וחומר ואין דנין קל וחומר</row>
+		<row row_number="5" isdata="1">מהלכה ת"ש עצם כשעורה הלכה ורביעית</row>
+		<row row_number="6" isdata="1">דם קל וחומר ואין דנין קל וחומר מהלכה<EndChapter name = "כהן גדול"/><EndGemara/></row>
+		<row row_number="7" isdata="0">הדרן עלך כהן גדול</row>
+		<row row_number="8" isdata="1"><StartChapter name = "שני נזירים"/><StartMishna/>שני נזירים שאמר להן אחד ראיתי אחד</row>
+		<row row_number="9" isdata="1">מכם שנטמא ואיני יודע איזה מכם</row>
+		<row row_number="10" isdata="1">מגלחין ומביאין קרבן טומאה וקרבן טהרה</row>
+		<row row_number="11" isdata="1">ואומר אם אני הוא טמא קרבן טומאה שלי</row>
+		<row row_number="12" isdata="1">וקרבן טהרה שלך ואם אני הוא הטהור קרבן</row>
+		<row row_number="13" isdata="1">טהרה שלי וקרבן טומאה שלך וסופרין</row>
+		<row row_number="14" isdata="1">שלשים יום ומביאין קרבן טהרה ואומר אם</row>
+		<row row_number="15" isdata="1">אני הוא הטמא קרבן טומאה שלי וקרבן</row>
+		<row row_number="16" isdata="1">טהרה שלך וזה קרבן טהרתי ואם אני הוא</row>
+		<row row_number="17" isdata="1">הטהור קרבן טהרה שלי וקרבן טומאה שלך</row>
+		<row row_number="18" isdata="1">וזה קרבן טהרתך<EndMishna/><StartGemara/>גמ' קתני שני נזירים</row>
+		<row row_number="19" isdata="1">שאמר להם ראיתי אחד מכם שנטמא ואיני</row>
+		<row row_number="20" isdata="1">יודע איזה מכם ואמאי כל ספק טומאה ברשות</row>
+		<row row_number="21" isdata="1">היחיד מהיכא ילפינן לה מסוטה מה סוטה</row>
+		<row row_number="22" isdata="1">בועל ונבעלת אף כל ספק טומאה ברה"י</row>
+		<row row_number="23" isdata="1">כגון דאיכא בי תרי אבל הכא שני נזירים</row>
+		<row row_number="24" isdata="1">והאי דקאי גביהון הא תלתא הוה ליה ספק</row>
+		<row row_number="25" isdata="1">טומאה ברשות הרבים וכל ספק טומאה</row>
+		<row row_number="26" isdata="1">ברשות הרבים ספיקו טהור אמר רבה</row>
+		<row row_number="27" isdata="1">בר רב הונא באומר ראיתי טומאה</row>
+		<row row_number="28" isdata="1">שנזרקה ביניכם אמר רב אשי דיקא נמי</row>
+</amud>
+</daf>
+</masechet>
+</root>

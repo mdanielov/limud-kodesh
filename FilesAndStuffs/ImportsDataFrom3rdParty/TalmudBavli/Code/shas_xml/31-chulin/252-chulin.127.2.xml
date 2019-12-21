@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:26.538922</dateCreated>
+   <lastModified>2019-12-21 20:32:26.538922</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="127">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>נשחטה הבהמה הוכשרו בדמיה דברי רבי</row>
+		<row row_number="2" isdata="1">מאיר רבי שמעון אומר לא הוכשרו מתה</row>
+		<row row_number="3" isdata="1">הבהמה הבשר צריך הכשר האבר מטמא</row>
+		<row row_number="4" isdata="1">משום אבר מן החי ואינו מטמא משום אבר</row>
+		<row row_number="5" isdata="1">נבלה דברי ר' מאיר ור' שמעון מטהר<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="6" isdata="1">טומאת אוכלין אין טומאת נבלה לא היכי</row>
+		<row row_number="7" isdata="1">דמי אי דמעלין ארוכה אפילו טומאת אוכלין</row>
+		<row row_number="8" isdata="1">נמי לא ליטמו ואי דאין מעלין ארוכה טומאת</row>
+		<row row_number="9" isdata="1">נבלה נמי ליטמו לעולם דאין מעלין ארוכה</row>
+		<row row_number="10" isdata="1">ושאני טומאת נבלה דרחמנא אמר כי יפול</row>
+		<row row_number="11" isdata="1">עד שיפול תניא נמי הכי האבר והבשר</row>
+		<row row_number="12" isdata="1">המדולדלין בבהמה ומעורין בחוט השערה</row>
+		<row row_number="13" isdata="1">יכול יטמאו טומאת נבלה תלמוד לומר יפול</row>
+		<row row_number="14" isdata="1">עד שיפול ואפילו הכי טומאת אוכלין מיטמו</row>
+		<row row_number="15" isdata="1">מסייע ליה לרב חייא בר אשי דאמר רב חייא</row>
+		<row row_number="16" isdata="1">בר אשי אמר שמואל תאנים שצמקו באיביהן</row>
+		<row row_number="17" isdata="1">מטמאות טומאת אוכלין והתולש מהן</row>
+		<row row_number="18" isdata="1">בשבת חייב חטאת לימא מסייע ליה ירקות</row>
+		<row row_number="19" isdata="1">שצמקו באיביהן כגון הכרוב והדלעת אין</row>
+		<row row_number="20" isdata="1">מטמאין טומאת אוכלין קצצן ויבשן מטמאין</row>
+		<row row_number="21" isdata="1">טומאת אוכלין קצצן ויבשן ס"ד עץ בעלמא</row>
+		<row row_number="22" isdata="1">הוא וא"ר יצחק בעל מנת ליבשן טעמא</row>
+		<row row_number="23" isdata="1">דכרוב ודלעת הוא כיון דיבשן לאו בני אכילה</row>
+		<row row_number="24" isdata="1">נינהו הא שאר פירות מטמאי היכי דמי אי</row>
+		<row row_number="25" isdata="1">דיבשן הן ועוקציהן פשיטא אלא לאו בלא</row>
+		<row row_number="26" isdata="1">עוקציהן לעולם הן ועוקציהן וקצצן על מנת</row>
+		<row row_number="27" isdata="1">ליבשן איצטריכא ליה ת"ש אילן שנפשח ובו</row>
+		<row row_number="28" isdata="1">פירות הרי הן כתלושין יבשו הרי הן כמחוברין</row>
+		<row row_number="29" isdata="1">מאי לאו מה תלושין לכל דבריהן אף מחוברין</row>
+		<row row_number="30" isdata="1">לכל דבריהן מידי איריא הא כדאיתא והא</row>
+		<row row_number="31" isdata="1">כדאיתא נשחטה הבהמה [וכו'] במאי קא</row>
+		<row row_number="32" isdata="1">מיפלגי אמר רבה בבהמה נעשית יד לאבר</row>
+		<row row_number="33" isdata="1">קמיפלגי מר סבר אין בהמה נעשית יד לאבר</row>
+		<row row_number="34" isdata="1">ומר סבר בהמה נעשית יד לאבר אביי אמר</row>
+		<row row_number="35" isdata="1">באוחז בקטן ואין גדול עולה עמו קמיפלגי מר</row>
+		<row row_number="36" isdata="1">סבר אוחז בקטן ואין גדול עולה עמו הרי הוא</row>
+		<row row_number="37" isdata="1">כמוהו ומר סבר אינו כמוהו ואף ר' יוחנן סבר</row>
+		<row row_number="38" isdata="1">באוחז בקטן ואין גדול עולה עמו קא מיפלגי</row>
+		<row row_number="39" isdata="1">דרבי יוחנן רמי דר"מ אדר"מ מי אמר ר' מאיר</row>
+		<row row_number="40" isdata="1">אוחז בקטן ואין גדול עולה עמו הרי הוא</row>
+		<row row_number="41" isdata="1">כמוהו ורמינהו אוכל שנפרס ומעורה במקצת</row>
+</amud>
+</daf>
+</masechet>
+</root>

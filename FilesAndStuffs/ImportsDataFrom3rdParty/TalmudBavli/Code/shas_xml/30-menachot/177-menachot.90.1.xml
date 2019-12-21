@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:32:09.650913</dateCreated>
+   <lastModified>2019-12-21 20:32:09.650913</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="90">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שתי מדות"/><ContGemara/>אי לא חזו לעולת חובה קרבי לעולת נדבה</row>
+		<row row_number="2" isdata="1">אלא הכא אי לא מוקמית ליה במילתיה אשם</row>
+		<row row_number="3" isdata="1">נדבה מי איכא תניא כוותיה דרבי יוחנן אשם</row>
+		<row row_number="4" isdata="1">מצורע ששחטו שלא לשמו או שלא נתן</row>
+		<row row_number="5" isdata="1">מדמו על גבי בהונות הרי זו עולה לגבי</row>
+		<row row_number="6" isdata="1">מזבח וטעון נסכים וצריך אשם אחר להתירו</row>
+		<row row_number="7" isdata="1"><EndGemara/><StartMishna/>מתני' כל מדות שבמקדש היו נגדשות חוץ</row>
+		<row row_number="8" isdata="1">משל כהן גדול שהיה גודשה לתוכה מדת</row>
+		<row row_number="9" isdata="1">הלח בירוציהן קדש ומדת היבש בירוציהן</row>
+		<row row_number="10" isdata="1">חול רבי עקיבא אומר מדת הלח קדש לפיכך</row>
+		<row row_number="11" isdata="1">בירוציהן קדש מדת היבש חול לפיכך</row>
+		<row row_number="12" isdata="1">בירוציהן חול רבי יוסי אומר לא משום זה</row>
+		<row row_number="13" isdata="1">אלא שהלח נעקר והיבש אינו נעקר<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="14" isdata="1">מני אי רבי מאיר חד גדוש הוה אי רבנן</row>
+		<row row_number="15" isdata="1">חדא ומחוק הוה אמר רב חסדא לעולם רבי</row>
+		<row row_number="16" isdata="1">מאיר ומאי כל מדות כל מדידות מדת הלח</row>
+		<row row_number="17" isdata="1">בירוציהן קדש במאי קא מיפלגי תנא קמא</row>
+		<row row_number="18" isdata="1">סבר מדת הלח נמשחה בין מבפנים בין</row>
+		<row row_number="19" isdata="1">מבחוץ מדת יבש נמשחה מבפנים ולא</row>
+		<row row_number="20" isdata="1">נמשחה מבחוץ ורבי עקיבא סבר מדת הלח</row>
+		<row row_number="21" isdata="1">נמשחה בין מבפנים בין מבחוץ מדת יבש לא</row>
+		<row row_number="22" isdata="1">נמשחה כל עיקר ורבי יוסי סבר אידי ואידי</row>
+		<row row_number="23" isdata="1">נמשחה מבפנים ולא נמשחה מבחוץ והכא</row>
+		<row row_number="24" isdata="1">היינו טעמא דלח נעקר ומגווה דמנא קא אתי</row>
+		<row row_number="25" isdata="1">והיבש אינו נעקר וכי נעקר מאי הוי גברא</row>
+		<row row_number="26" isdata="1">למאי דצריך קא מכוין אמר רב דימי בר</row>
+		<row row_number="27" isdata="1">שישנא משמיה דרב זאת אומרת כלי שרת</row>
+		<row row_number="28" isdata="1">מקדשין שלא מדעת רבינא אמר לעולם אימא</row>
+		<row row_number="29" isdata="1">לך כלי שרת אין מקדשין אלא מדעת וגזרה</row>
+		<row row_number="30" isdata="1">שמא יאמרו מוציאין מכלי שרת לחול מותיב</row>
+		<row row_number="31" isdata="1">ר' זירא סידר את הלחם ואת הבזיכין לאחר</row>
+		<row row_number="32" isdata="1">השבת והקטיר את הבזיכין בשבת פסולה</row>
+		<row row_number="33" isdata="1">כיצד יעשה יניחנו לשבת הבאה שאפילו הוא</row>
+		<row row_number="34" isdata="1">על שלחן ימים רבים אין בכך כלום ואמאי</row>
+		<row row_number="35" isdata="1">התם נמי לימא גזירה שמא יאמרו מפקידין</row>
+		<row row_number="36" isdata="1">בכלי שרת פנים אחוץ קא רמית פנים לאו</row>
+		<row row_number="37" isdata="1">כולי עלמא ידעי חוץ כולי עלמא ידעי תנן</row>
+		<row row_number="38" isdata="1">התם מותר נסכים לקיץ המזבח מאי מותר</row>
+		<row row_number="39" isdata="1">נסכים רבי חייא בר יוסף אמר בירוצי מדות ר'</row>
+		<row row_number="40" isdata="1">יוחנן אמר כאותה ששנינו המקבל עליו לספק</row>
+		<row row_number="41" isdata="1">סלתות מארבע ועמדו בשלש יספק מארבע</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2019-12-21 20:31:12.668196</dateCreated>
+   <lastModified>2019-12-21 20:31:12.668196</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="81">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContGemara/>כסיתא איכא דאמרי ערונים ערמונים אלמוגים</row>
+		<row row_number="2" isdata="1">ערונים ערי ערמונים דולבי אלמוגים כסיתא</row>
+		<row row_number="3" isdata="1"><EndGemara/><StartMishna/>מתני' הקונה שני אילנות בתוך שדה</row>
+		<row row_number="4" isdata="1">חבירו הרי זה לא קנה קרקע רבי מאיר אומר</row>
+		<row row_number="5" isdata="1">קנה קרקע הגדילו לא ישפה והעולה מן</row>
+		<row row_number="6" isdata="1">הגזע שלו ומן השרשים של בעל הקרקע</row>
+		<row row_number="7" isdata="1">ואם מתו אין לו קרקע קנה שלשה קנה</row>
+		<row row_number="8" isdata="1">קרקע הגדילו ישפה והעולה מן הגזע ומן</row>
+		<row row_number="9" isdata="1">השרשין שלו ואם מתו יש לו קרקע</row>
+		<row row_number="10" isdata="1"><EndMishna/><StartGemara/>גמ' תנן התם הקונה שני אילנות בתוך</row>
+		<row row_number="11" isdata="1">של חבירו מביא ואינו קורא ר"מ אומר מביא</row>
+		<row row_number="12" isdata="1">וקורא אמר רב יהודה אמר שמואל מחייב</row>
+		<row row_number="13" isdata="1">היה ר"מ אף בלוקח פירות מן השוק ממאי</row>
+		<row row_number="14" isdata="1">מדקתני משנה יתירא מכדי תנא ליה דיש</row>
+		<row row_number="15" isdata="1">לו קרקע פשיטא דמביא וקורא אלא ש"מ</row>
+		<row row_number="16" isdata="1">מחייב היה ר"מ אף בלוקח פירות מן השוק</row>
+		<row row_number="17" isdata="1">והא כתיב אשר תביא מארצך ההוא</row>
+		<row row_number="18" isdata="1">למעוטי חוצה לארץ והא כתיב אדמתך</row>
+		<row row_number="19" isdata="1">למעוטי אדמת עכו"ם והכתיב אשר נתתה לי</row>
+		<row row_number="20" isdata="1">דיהבת לי זוזי וזבני בהו מתיב רבה הקונה</row>
+		<row row_number="21" isdata="1">אילן אחד בתוך של חבירו מביא ואינו</row>
+		<row row_number="22" isdata="1">קורא לפי שלא קנה קרקע דברי ר"מ</row>
+		<row row_number="23" isdata="1">תיובתא א"ל ר"ש בן אליקים לר' אלעזר</row>
+</amud>
+</daf>
+</masechet>
+</root>
