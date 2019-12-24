@@ -1,27 +1,18 @@
 import sql_connect
 import configparser 
+import os, fnmatch
+
 
 config = configparser.ConfigParser()
 config.read('settings.ini')
 
-# Path of table files
+schema_dir = config.get("Path","schema_dir")
+data_dir = config.get("Path","data_dir")
 
-toshba_table = config.get('Path','toshba_table')
-talmud_type_table = config.get('Path','talmud_type_table')
-seder_table = config.get('Path','seder_table')
-talmud_seder_table = config.get('Path','talmud_seder_table')
-massechet_table = config.get('Path','massechet_table')
-talmud_massechet_table = config.get('Path','talmud_massechet_table')
-massechet_perek_table = config.get('Path','massechet_perek_table')
 
-# Path of data insertion files
+listOfFiles = os.listdir(schema_dir)
+print(listOfFiles)
 
-toshba_data = config.get('Path','toshba_data')
-talmud_type_data = config.get('Path','talmud_type_data')
-seder_data = config.get('Path','seder_data')
-talmud_seder_data = config.get('Path','talmud_seder_data')
-massechet_data = config.get('Path','massechet_data')
-talmud_massechet_data = config.get('Path','talmud_massechet_data')
 
 # creation of database KiMeTztion
 
@@ -52,13 +43,6 @@ def creation_table(filename):
             cur2.commit()
 
 
-creation_table(toshba_table)
-creation_table(talmud_type_table)
-creation_table(seder_table)
-creation_table(talmud_seder_table)
-creation_table(massechet_table)
-creation_table(talmud_massechet_table)
-creation_table(massechet_perek_table)
 
 
 # insertion of data into reference's tables
@@ -80,21 +64,5 @@ def insert_data(filename):
             cur2.commit()
 
 
-insert_data(toshba_data)
-insert_data(talmud_type_data)
-insert_data(seder_data)
-insert_data(talmud_seder_data)
-insert_data(massechet_data)
-insert_data(talmud_massechet_data)
-
-
-
-
-
-
-
-
-
-
-
-
+if __name__ == '__main__':
+    main()
