@@ -1,67 +1,59 @@
-import sql_connect
 import configparser 
 import os, fnmatch
-
+import textwrap
+import pyodbc
 
 config = configparser.ConfigParser()
 config.read('settings.ini')
 
+
+server_name = config.get("Sql","Server")
 schema_dir = config.get("Path","schema_dir")
 data_dir = config.get("Path","data_dir")
 
+conn = pyodbc.connect('Driver={SQL Server};'
+                      'Server='+ server_name + ';'
+                      'Database=master;'
+                      'Trusted_Connection=yes;',
+                      autocommit=True)
+conn.autocommit = True
 
-listOfFiles = os.listdir(schema_dir)
-print(listOfFiles)
+cursor = conn.cursor()
+
+ls_schema = os.listdir(schema_dir)
+ls_data = os.listdir(data_dir)
 
 
-# creation of database KiMeTztion
+
+def query_string(sql_full_path):
+    with open(sql_full_path, 'r',encoding='utf-8') as f:
+        lines = f.read()
+        # remove any common leading whitespace from every line
+        query_string = textwrap.dedent("""{}""".format(lines))
+ 
+    return query_string
+
+
 
 def main():
+    
     # check if db exists on target, if not create
-    qry_create_db = "if not exists(select * from sys.databases where name = '{}') create database {};".format('KiMeTztion','KiMeTztion')
-    with sql_connect.conn:
-        cur1 = sql_connect.cursor.execute(qry_create_db)
-        cur1.commit() 
-   
-main() 
-
-# creation of tables
-
-def creation_table(filename):    
-    # Open and read the file as a single buffer
-    fd = open(filename, 'r')
-    sqlFile = fd.read()
-    fd.close()
-
-    # all SQL commands (split on ';')
-    sqlCommands = sqlFile.split(';')
-
-    # Execute every command from the input file
-    for command in sqlCommands:
-        with sql_connect.conn:
-            cur2 = sql_connect.cursor.execute(command)
-            cur2.commit()
-
-
-
-
-# insertion of data into reference's tables
-
-def insert_data(filename):    
-    # Open and read the file as a single buffer
-    fd = open(filename, 'r', encoding="utf8")
-    sqlFile = fd.read()
-    fd.close()
-
-    # all SQL commands (split on ';')
-    sqlCommands = sqlFile.split(';')
-    # print(sqlCommands)
-
-    # Execute every command from the input file
-    for command in sqlCommands:
-        with sql_connect.conn:
-            cur2 = sql_connect.cursor.execute(command)
-            cur2.commit()
+    qry_create_db = "if not exists(select * from sys.databases where name = 'KiMeTztion') create database KiMeTztion;"
+    cursor.execute(qry_create_db)
+    cursor.commit() 
+    
+    # List Schema directory and execute scripts.
+    i = 0
+    while i < len(ls_schema) :
+        
+        print(f"working on {ls_schema[i]}")
+        ls_dir = os.listdir(schema_dir +'\\'+ ls_schema[i])
+        
+        for file in ls_dir:
+            query = query_string(f"{schema_dir}\\{ls_schema[i]}\\{file}")
+            cursor.execute(query)
+            print(f"{file} script executed successfully !")
+        i += 1
 
 
 if __name__ == '__main__':
