@@ -1,4 +1,4 @@
-import xml.etree.ElementTree as ET
+import xml.etree.cElementTree as ET
 import os
 import configparser
 
@@ -6,18 +6,43 @@ import configparser
 config = configparser.ConfigParser()
 config.read('settings.ini')
 
-base_path_xml_file = config.get('Path','base_path_of_xml_files')
+parent_dir_path = config.get('XML','parent_dir')
+massechet_dir_list = os.listdir(parent_dir_path) 
 
-dir_list = os.listdir(base_path_xml_file) 
-for item in dir_list:
-    dir_list2 = os.listdir(base_path_xml_file+item)
-    for item2 in dir_list2:
-        print(base_path_xml_file+item+"\\\\"+item2)
+
+for massechet_dir in massechet_dir_list:
     
+    daf = []
+    amud = []
+    chapter = []
+    daf_start_chapter = []
+    daf_end_chapter = []
+    amud_start_chapter = []
+    amud_end_chapter = []
+    count_chapter = 0
+    start = {}
+
+    massechet_dir_path = parent_dir_path + "\\" + massechet_dir
+    massechet_xml_list = os.listdir(massechet_dir_path)
     
-    
-tree = ET.parse('C:\\Git\\limud-kodesh\\FilesAndStuffs\\ImportsDataFrom3rdParty\\TalmudBavli\\Code\\shas_XML\\01-berachot\\001-berachot.2.1.xml')
-root = tree.getroot()
-# print(root[1][0][0][0][0].tag)
-# for elem in tree.iter(tag="masechet"):
-#     print (elem[0].tag, elem[0].attrib)   
+    for xml in massechet_xml_list:
+        
+        xml_path = massechet_dir_path + "\\" + xml
+        tree = ET.ElementTree(file=xml_path)
+        
+        for elem in tree.iter():
+            if elem.tag == 'daf':
+                daf.append(elem.attrib['value'])
+            if elem.tag == 'amud':
+                amud.append(elem.attrib['value'])
+            if elem.tag == 'StartChapter':
+                count_chapter += 1
+                chapter.append(count_chapter)
+                start["chapter"] = chapter[-1]
+                start["daf_start"] = daf[-1]
+                daf_start_chapter.append(start.copy())
+            if elem.tag == ''
+    # print(len(daf))
+    # print(len(amud))
+    # print(chapter)
+    # print(daf_start_chapter)
