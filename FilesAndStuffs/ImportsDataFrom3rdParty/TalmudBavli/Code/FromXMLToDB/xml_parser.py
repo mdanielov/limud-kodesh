@@ -41,7 +41,8 @@ for massechet_dir in massechet_dir_list:
                 start["chapter"] = chapter[-1]
                 start["daf_start"] = daf[-1]
                 daf_start_chapter.append(start.copy())
-            if elem.tag == ''
+            if elem.tag == 'EndChapter':
+                
     # print(len(daf))
     # print(len(amud))
     # print(chapter)
