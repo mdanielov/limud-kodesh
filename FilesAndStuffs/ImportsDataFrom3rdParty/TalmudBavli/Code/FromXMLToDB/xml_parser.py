@@ -16,7 +16,7 @@ conn = pyodbc.connect('Driver={SQL Server};'
                       'Server=' + server + ';'
                       'Database=' + database_name + ';'
                       'Trusted_Connection=yes;',
-                      autocommit=True)
+                      autocommit=True,encoding='utf-8')
 # conn.autocommit = True
 
 cursor = conn.cursor()
@@ -90,7 +90,7 @@ for massechet_dir in massechet_dir_list:
 
     for row in cursor:
         massechet_id = row[0]
-
+        
     ##############################################
     # Build SQL query and insert previous values.#
     ##############################################
@@ -112,13 +112,11 @@ for massechet_dir in massechet_dir_list:
             {daf_end_chapter[i]['daf_end']},\
             {daf_end_chapter[i]['amud_end']})"
 
-        if massechet_name == 'תמורה':
-            print(query_string)
         
         cursor.execute(query_string.strip())
-        # print(f"{massechet_name} inserted with success !")
         i += 1
 
+    print(f"{''.join(reversed(massechet_name))} inserted with success !")
 
 
 
