@@ -10,7 +10,7 @@ config.read(os.path.join(os.path.abspath(os.path.dirname(__file__)),'settings.in
 parent_dir_path = config.get('XML','parent_dir')
 massechet_dir_list = os.listdir(parent_dir_path) 
 server = config.get("SQL","server")
-table_names = config.get("SQL","table_name").split(',')
+table_names = config.get("SQL","table_names").split(',')
 database_name = config.get("SQL","database_name")
 
 conn = pyodbc.connect('Driver={SQL Server};'
@@ -37,8 +37,10 @@ for massechet_dir in massechet_dir_list:
     start = {}
     end = {}
 
-    # for BAVLI_DAF
-    daf_name = []
+    # for BAVLI_DAF_WORD
+    row = []
+    row_number = []
+
 
     massechet_dir_path = parent_dir_path + "\\" + massechet_dir
     massechet_xml_list = os.listdir(massechet_dir_path)
@@ -78,6 +80,12 @@ for massechet_dir in massechet_dir_list:
                 end["amud_end"] = amud[-1]
                 end["name"] = elem.attrib["name"]
                 daf_end_chapter.append(end.copy())
+            
+            if elem.tag == 'row':
+                row_number.append(elem.attrib['row_number'])
+                row.append(elem.text)
+                # print(row[-1])
+                
 
 
 
@@ -137,19 +145,16 @@ for massechet_dir in massechet_dir_list:
     cursor.execute(query)
     perek_id = int
 
-    for row in cursor:
+    for row in cursor.fetchall():
         perek_id = row[0]
-
     i=0
 
     while i < len(daf):
-        query_string = f"INSERT INTO {table_names[1]} ([PEREK_ID]\
-        ,[DAF_NUM]\
+        query_string = f"INSERT INTO {table_names[1]} ([DAF_NUM]\
         ,[DAF_NAME]\
         ,[AMUD_NUM]\
         ,[AMUD_NAME])\
-        VALUES ({perek_id},\
-            {daf[i]},\
+        VALUES ({daf[i]},\
             '{int_to_gematria(daf[i], gershayim=False)}',\
             {amud[i]},\
             '{int_to_gematria(amud[i], gershayim=False)}')"
@@ -160,3 +165,17 @@ for massechet_dir in massechet_dir_list:
 
     #---------------------------------------------BAVLI_DAF---------------------------------------------#
 
+
+    #-------------------------------------------BAVLI_DAF_WORD---------------------------------------------#
+
+    #################################################################
+    # Get the PEREK_ID foreign key value from MASSECHET_PEREK table #
+    #################################################################
+
+    # query = f"SELECT PEREK_ID from MASSECHET_PEREK WHERE MASSECHET_ID='{massechet_id}'"
+    # cursor.execute(f"USE {database_name}")
+    # cursor.execute(query)
+    # perek_id = int
+
+    # for row in cursor.fetchall():
+    #     perek_id = row[0]
