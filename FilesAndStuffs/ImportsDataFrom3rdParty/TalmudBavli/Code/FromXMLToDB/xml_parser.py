@@ -37,9 +37,9 @@ for massechet_dir in massechet_dir_list:
     start = {}
     end = {}
 
-    # for BAVLI_DAF_WORD
-    row = []
-    row_number = []
+    # # for BAVLI_DAF_WORD
+    # row = []
+    # row_number = []
 
 
     massechet_dir_path = parent_dir_path + "\\" + massechet_dir
@@ -81,30 +81,29 @@ for massechet_dir in massechet_dir_list:
                 end["name"] = elem.attrib["name"]
                 daf_end_chapter.append(end.copy())
             
-            if elem.tag == 'row':
-                row_number.append(elem.attrib['row_number'])
-                row.append(elem.text)
-                # print(row[-1])
+
                 
+    
 
 
-
- #---------------------------------------------MASSECHET_PEREK---------------------------------------------#
+ #---------------------------------------------TBL_MASSECHET_PEREK---------------------------------------------#
 
 
     ##########################################
     # Get the MASSECHET_ID foreign key value #
     ##########################################
 
-    query = f"SELECT MASSECHET_ID from MASSECHET WHERE MASSECHET_NAME = '{massechet_name}'"
-    
-    cursor.execute(f"USE {database_name}")
-    cursor.execute(query)
+    query = f"SELECT MASSECHET_ID from TBL_MASSECHET WHERE MASSECHET_NAME = '{massechet_name}'"
 
-    massechet_id = int
+    cursor.execute(f"USE {database_name}")
+    
+    cursor.execute(query)
 
     for row in cursor:
         massechet_id = row[0]
+    
+    
+
     ##############################################
     # Build SQL query and insert previous values.#
     ##############################################
@@ -126,56 +125,47 @@ for massechet_dir in massechet_dir_list:
             {daf_end_chapter[i]['daf_end']},\
             {daf_end_chapter[i]['amud_end']})"
 
-
         cursor.execute(query_string.strip())
         i += 1
 
-    # print(f"{''.join(reversed(massechet_name))} inserted with success !")
+    print(f"{''.join(reversed(massechet_name))} inserted with success in {table_names[0]}!")
+    print("")
 
 
 
-    #---------------------------------------------BAVLI_DAF---------------------------------------------#
+#---------------------------------------------TBL_DAF---------------------------------------------#
 
-    #################################################################
-    # Get the PEREK_ID foreign key value from MASSECHET_PEREK table #
-    #################################################################
+daf = 2
+amud_1 = 1
+amud_2 = 2
+count = 1
 
-    query = f"SELECT PEREK_ID from MASSECHET_PEREK WHERE MASSECHET_ID='{massechet_id}'"
-    cursor.execute(f"USE {database_name}")
-    cursor.execute(query)
-    perek_id = int
+while daf <= 176 :
+    if(count % 2) != 0:
+        query_string = f"INSERT INTO {table_names[1]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_1},'{int_to_gematria(amud_1, gershayim=False)}')"
+        daf += 1
+        count += 1
+        cursor.execute(query_string)
+    elif(count % 2) == 0 :
+        query_string = f"INSERT INTO {table_names[1]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_2},'{int_to_gematria(amud_2, gershayim=False)}')"
+        daf += 1
+        count += 1
+        cursor.execute(query_string)
 
-    for row in cursor.fetchall():
-        perek_id = row[0]
-    i=0
+print("--------------------------------------")
+print("")
+print(f"Insertion in {table_names[1]} done with success !")
 
-    while i < len(daf):
-        query_string = f"INSERT INTO {table_names[1]} ([DAF_NUM]\
-        ,[DAF_NAME]\
-        ,[AMUD_NUM]\
-        ,[AMUD_NAME])\
-        VALUES ({daf[i]},\
-            '{int_to_gematria(daf[i], gershayim=False)}',\
-            {amud[i]},\
-            '{int_to_gematria(amud[i], gershayim=False)}')"
 
+
+
+#--------------------------------------- TBL_MASSECHET_DAF -------------------------------------#
+
+
+for massechet_dir in massechet_dir_list:
+    massechet_dir_path = parent_dir_path + "\\" + massechet_dir
+    massechet_xml_list = os.listdir(massechet_dir_path)
+
+    daf_start = daf_start_chapter[-1][""]
         
-        cursor.execute(query_string.strip())
-        i += 1
-
-    #---------------------------------------------BAVLI_DAF---------------------------------------------#
-
-
-    #-------------------------------------------BAVLI_DAF_WORD---------------------------------------------#
-
-    #################################################################
-    # Get the PEREK_ID foreign key value from MASSECHET_PEREK table #
-    #################################################################
-
-    # query = f"SELECT PEREK_ID from MASSECHET_PEREK WHERE MASSECHET_ID='{massechet_id}'"
-    # cursor.execute(f"USE {database_name}")
-    # cursor.execute(query)
-    # perek_id = int
-
-    # for row in cursor.fetchall():
-    #     perek_id = row[0]
+        

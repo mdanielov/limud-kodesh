@@ -1,4 +1,4 @@
-INSERT INTO [dbo].[SEDER](SEDER_NAME,ORDER_ID) 
+INSERT INTO [dbo].[TBL_SEDER](SEDER_NAME,ORDER_ID) 
 VALUES 
 ('זרעים',1),
 ('מועד',2),
