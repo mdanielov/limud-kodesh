@@ -8,7 +8,7 @@ config = configparser.ConfigParser()
 config.read(os.path.join(os.path.abspath(os.path.dirname(__file__)),'settings.ini'))
 
 parent_dir_path = config.get('XML','parent_dir')
-massechet_dir_list = os.listdir(parent_dir_path) 
+massechet_dir_list = os.listdir(parent_dir_path)
 server = config.get("SQL","server")
 table_names = config.get("SQL","table_names").split(',')
 database_name = config.get("SQL","database_name")
@@ -21,6 +21,11 @@ conn = pyodbc.connect('Driver={SQL Server};'
 # conn.autocommit = True
 
 cursor = conn.cursor()
+
+def parse_row(row_text,row_number):
+    text = str(row_text).split()
+    print(text)
+    
 
 
 
@@ -60,6 +65,13 @@ def get_xml_values(massechet_xml_list,daf,amud,chapter,daf_start_chapter,daf_end
                 end["amud_end"] = amud[-1]
                 end["name"] = elem.attrib["name"]
                 daf_end_chapter.append(end.copy())
+
+            if elem.tag == 'row':
+                if elem.attrib['isdata'] == '1':
+                    if elem.attrib['row_number'] == '1':
+                        parse_row(elem.tail,elem.attrib['row_number'])
+                    else:
+                        parse_row(elem.text,elem.attrib['row_number'])
 
     return daf,amud,chapter,daf_start_chapter,daf_end_chapter,amud_start_chapter,amud_end_chapter,count_chapter,massechet_name
 
@@ -211,7 +223,10 @@ for massechet_dir in massechet_dir_list:
 
     #print(massechet_daf_id)
 
-    query = f"INSERT INTO [dbo].[TBL_MASSECHET_WORD]\
+    for elem in massechet_daf_id:
+        get_perek_id = f"SELECT PEREK_ID FROM TBL_MASSECHET_PEREK WHERE MASSECHET_ID = {massechet_id} AND  "
+        
+        query = f"INSERT INTO [dbo].[TBL_MASSECHET_WORD]\
            ([MASSECHET_DAF_ID]\
            ,[PEREK_ID]\
            ,[ROW_ID]\
@@ -220,5 +235,5 @@ for massechet_dir in massechet_dir_list:
            ,[WORD_POSITION]\
            ,[WORD_TYPE]\
            ,[WORD])\
-     VALUES"
+            VALUES ({elem})"
 
