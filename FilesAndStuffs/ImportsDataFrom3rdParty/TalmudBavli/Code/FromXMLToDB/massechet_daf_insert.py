@@ -10,7 +10,7 @@ config.read(os.path.join(os.path.abspath(os.path.dirname(__file__)),'settings.in
 parent_dir_path = config.get('XML','parent_dir')
 massechet_dir_list = os.listdir(parent_dir_path) 
 server = config.get("SQL","server")
-table_names = config.get("SQL","table_names").split(',')
+# table_names = config.get("SQL","table_names").split(',')
 database_name = config.get("SQL","database_name")
 
 conn = pyodbc.connect('Driver={SQL Server};'

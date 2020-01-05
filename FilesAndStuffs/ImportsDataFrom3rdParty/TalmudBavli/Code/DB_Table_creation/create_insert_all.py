@@ -50,6 +50,7 @@ def main():
         # print("ls_dir:", ls_dir)
 
         for file in ls_dir:
+            print(schema_dir+"\\" + ls_schema[i] + "\\" + file)
             query = query_string(f"{schema_dir}\\{ls_schema[i]}\\{file}")
             cursor.execute(query)
             # print(f"{file} script executed successfully !")
