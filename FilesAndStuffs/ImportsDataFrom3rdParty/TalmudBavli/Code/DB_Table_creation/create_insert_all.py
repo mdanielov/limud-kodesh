@@ -46,11 +46,13 @@ def main():
     while i < len(ls_schema):
         # print("ls schema:", ls_schema)
         # print(f"working on {ls_schema[i]}")
-        ls_dir = os.listdir(schema_dir + '\\' + ls_schema[i])
-        # print("ls_dir:", ls_dir)
+        if ls_schema[i] == '02-functions':
+            break
+        else:
+            ls_dir = os.listdir(schema_dir + '\\' + ls_schema[i])
+            # print("ls_dir:", ls_dir)
 
         for file in ls_dir:
-            print(schema_dir+"\\" + ls_schema[i] + "\\" + file)
             query = query_string(f"{schema_dir}\\{ls_schema[i]}\\{file}")
             cursor.execute(query)
             # print(f"{file} script executed successfully !")
@@ -62,18 +64,12 @@ def main():
 
     ls_data_folders=[]
     for filename in ls_data:
-        if os.path.isdir(os.path.join(data_dir,filename)):
+        if os.path.exists(os.path.join(data_dir,filename)):
             ls_data_folders.append(filename)
-
     while i < len(ls_data_folders):
-        print("ls data:", ls_data)
-        print("ls_data_folders:", ls_data_folders)
-        ls_dir = os.listdir(data_dir + '\\' + ls_data_folders[i])
-
-        for file in ls_dir:
-            query = query_string(f"{data_dir}\\{ls_data_folders[i]}\\{file}")
-            cursor.execute(query)
-            print(f"{file} script executed successfully !")
+        ls_dir = os.listdir(data_dir)
+        query = query_string(f"{data_dir}\\{ls_data_folders[i]}")
+        cursor.execute(query)
         i += 1
 
 
