@@ -73,16 +73,12 @@ amud_2 = 2
 count = 1
 
 while daf <= 176 :
-    if(count % 2) != 0:
-        query_string = f"INSERT INTO {table_names[1]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_1},'{int_to_gematria(amud_1, gershayim=False)}')"
-        daf += 1
-        count += 1
-        cursor.execute(query_string)
-    elif(count % 2) == 0 :
-        query_string = f"INSERT INTO {table_names[1]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_2},'{int_to_gematria(amud_2, gershayim=False)}')"
-        daf += 1
-        count += 1
-        cursor.execute(query_string)
+    query_string_1 = f"INSERT INTO {table_names[1]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_1},'{int_to_gematria(amud_1, gershayim=False)}')"
+    query_string_2 = f"INSERT INTO {table_names[1]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_2},'{int_to_gematria(amud_2, gershayim=False)}')"
+    daf += 1
+    count += 1
+    cursor.execute(query_string_1)
+    cursor.execute(query_string_2)
 
 print("--------------------------------------")
 print("")
@@ -213,7 +209,7 @@ for massechet_dir in massechet_dir_list:
     for row in cursor:
         massechet_daf_id.append(row[0])
 
-    print(massechet_daf_id)
+    #print(massechet_daf_id)
 
     query = f"INSERT INTO [dbo].[TBL_MASSECHET_WORD]\
            ([MASSECHET_DAF_ID]\
