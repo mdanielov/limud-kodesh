@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.498232</dateCreated>
-   <lastModified>2019-12-21 21:42:34.498232</lastModified>
+   <dateCreated>2020-01-06 09:34:48.710638</dateCreated>
+   <lastModified>2020-01-06 09:34:48.710638</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="82">
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">מיתיבי המתפיס מעות מעשר שני לשלמים</row>
 		<row row_number="27" isdata="1">כשהוא פודן מוסיף עליהם שני חומשין אחד</row>
 		<row row_number="28" isdata="1">לקדש ואחד למעשר מי סברת דברי הכל</row>
-		<row row_number="29" isdata="1">היא הא מני רבי יהודה היאמתני' מנין</row>
+		<row row_number="29" isdata="1">היא הא מני רבי יהודה היא<EndGemara/><StartMishna/>מתני' מנין</row>
 		<row row_number="30" isdata="1">לאומר הרי עלי תודה שלא יביא אלא מן</row>
 		<row row_number="31" isdata="1">החולין תלמוד לומר וזבחת פסח לה' אלהיך</row>
 		<row row_number="32" isdata="1">צאן ובקר והלא פסח אין בא אלא מן</row>
@@ -49,7 +49,7 @@
 		<row row_number="35" isdata="1">הבקר לפסח מה פסח דבר שבחובה ואין בא</row>
 		<row row_number="36" isdata="1">אלא מן החולין אף כל דבר שבחובה אין בא אלא מן החולין לפיכך</row>
 		<row row_number="37" isdata="1">האומר הרי עלי תודה הרי עלי שלמים הואיל ובאין חובה לא יביאו אלא מן</row>
-		<row row_number="38" isdata="1">החולין ונסכים בכל מקום לא יביאו אלא מן החולין<EndMishna/><StartGemara/>גמ' ופסח גופיה</row>
+		<row row_number="38" isdata="1">החולין ונסכים בכל מקום לא יביאו אלא מן החולין:<EndMishna/><StartGemara/>גמ' ופסח גופיה</row>
 		<row row_number="39" isdata="1">מנא לן דתניא ר' אליעזר אומר נאמר פסח במצרים ונאמר פסח לדורות</row>
 		<row row_number="40" isdata="1">מה פסח האמור במצרים לא בא אלא מן החולין אף פסח האמור לדורות</row>
 		<row row_number="41" isdata="1">לא בא אלא מן החולין אמר לו רבי עקיבא וכי דנין אפשר משאי</row>

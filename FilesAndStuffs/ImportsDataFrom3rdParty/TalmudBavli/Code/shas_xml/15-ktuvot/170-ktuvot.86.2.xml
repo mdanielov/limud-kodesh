@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.169729</dateCreated>
-   <lastModified>2019-12-21 21:42:07.169729</lastModified>
+   <dateCreated>2020-01-06 09:32:41.327279</dateCreated>
+   <lastModified>2020-01-06 09:32:41.327279</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="86">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "הכותב לאשתו"/><ContGemara/>מכין אותו עד שתצא נפשו בעא מיניה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הכותב לאשתו"/><ContGemara/>מכין אותו עד שתצא נפשו: בעא מיניה</row>
 		<row row_number="2" isdata="1">רמי בר חמא מרב חסדא הרי זה גיטיך</row>
 		<row row_number="3" isdata="1">ולא תתגרשי בו אלא לאחר שלשים יום</row>
 		<row row_number="4" isdata="1">והלכה והניחתו בצידי רשות הרבים מהו</row>
@@ -30,10 +30,10 @@
 		<row row_number="16" isdata="1">כאגם דמי אדרבה אינה מגורשת מדרב</row>
 		<row row_number="17" isdata="1">ושמואל מאי לאו היינו רשות הרבים והיינו</row>
 		<row row_number="18" isdata="1">צידי רשות הרבים לא רשות הרבים לחוד</row>
-		<row row_number="19" isdata="1">וצידי רשות הרבים לחודמתני' המושיב</row>
+		<row row_number="19" isdata="1">וצידי רשות הרבים לחוד<EndGemara/><StartMishna/>מתני' המושיב</row>
 		<row row_number="20" isdata="1">את אשתו חנוונית או שמינה אפוטרופיא</row>
 		<row row_number="21" isdata="1">הרי זה משביעה כל זמן שירצה ר' אליעזר</row>
-		<row row_number="22" isdata="1">אומר אפילו על פילכה ועל עיסתה<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="22" isdata="1">אומר אפילו על פילכה ועל עיסתה:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="23" isdata="1">איבעיא להו ר' אליעזר על ידי גלגול קאמר</row>
 		<row row_number="24" isdata="1">או לכתחלה קאמר ת"ש אמרו לו לרבי</row>
 		<row row_number="25" isdata="1">אליעזר אין אדם דר עם נחש בכפיפה אי</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">שלא נעשית אפוטרופיא שעה אחת בחיי</row>
 		<row row_number="38" isdata="1">בעלה על פילכה ועל עיסתה אמרו לו אין</row>
 		<row row_number="39" isdata="1">אדם דר עם נחש בכפיפה שמע מינה</row>
-		<row row_number="40" isdata="1">לכתחלה שמע מינהמתני' כתב</row>
+		<row row_number="40" isdata="1">לכתחלה שמע מינה<EndGemara/><StartMishna/>מתני' כתב</row>
 		<row row_number="41" isdata="1">לה נדר ושבועה אין לי עליך אין יכול</row>
 		<row row_number="42" isdata="1">להשביעה אבל משביע הוא את יורשיה</row>
 		<row row_number="43" isdata="1">ואת הבאים ברשותה נדר ושבועה אין</row>
@@ -68,7 +68,7 @@
 		<row row_number="54" isdata="1">אפוטרופיא אין היורשין משביעין אותה</row>
 		<row row_number="55" isdata="1">ואם נעשית אפוטרופיא היורשין משביעין</row>
 		<row row_number="56" isdata="1">אותה על העתיד לבא ואין משביעין</row>
-		<row row_number="57" isdata="1">אותה על מה שעבר<EndMishna/><StartGemara/>גמ' שבועה מאי עבידתה אמר רב יהודה אמר רב</row>
+		<row row_number="57" isdata="1">אותה על מה שעבר:<EndMishna/><StartGemara/>גמ' שבועה מאי עבידתה אמר רב יהודה אמר רב</row>
 </amud>
 </daf>
 </masechet>

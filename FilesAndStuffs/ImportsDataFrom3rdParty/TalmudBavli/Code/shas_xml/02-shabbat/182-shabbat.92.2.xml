@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.749025</dateCreated>
-   <lastModified>2019-12-21 21:41:49.749025</lastModified>
+   <dateCreated>2020-01-06 09:31:07.563476</dateCreated>
+   <lastModified>2020-01-06 09:31:07.563476</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="92">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>ואת"ל אנשי הוצל עושין כן בטלה דעתן אצל</row>
-		<row row_number="2" isdata="1">כל אדםמתני' המתכוין להוציא לפניו</row>
+		<row row_number="2" isdata="1">כל אדם<EndGemara/><StartMishna/>מתני' המתכוין להוציא לפניו</row>
 		<row row_number="3" isdata="1">ובא לו לאחריו פטור לאחריו ובא לו לפניו</row>
 		<row row_number="4" isdata="1">חייב באמת אמרו האשה החוגרת בסינר בין</row>
 		<row row_number="5" isdata="1">מלפניה ובין מלאחריה חייבת שכן ראוי להיות</row>
-		<row row_number="6" isdata="1">חוזר רבי יהודה אומר אף מקבלי פתקין</row>
+		<row row_number="6" isdata="1">חוזר רבי יהודה אומר אף מקבלי פתקין:</row>
 		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' מאי שנא לפניו ובא לו לאחריו דפטור</row>
 		<row row_number="8" isdata="1">דלא אתעביד מחשבתו לאחריו ובא לו לפניו</row>
 		<row row_number="9" isdata="1">נמי הא לא אתעביד מחשבתו א"ר אלעזר</row>
@@ -52,10 +52,10 @@
 		<row row_number="38" isdata="1">מכלל דמחייב רבי יהודה והתניא לאחר ידו ורגלו ד"ה פטור אלא לאחריו</row>
 		<row row_number="39" isdata="1">ובא לו לאחריו ד"ה חייב לאחר ידו ורגלו דברי הכל פטור כי פליגי בפונדתו</row>
 		<row row_number="40" isdata="1">ופיה למטה מר מדמי ליה לאחריו ובא לו לאחריו ומר מדמי ליה לאחר ידו</row>
-		<row row_number="41" isdata="1">ורגלו באמת אמרו האשה כו' [תנא כל באמת הלכה היא רבי יהודה</row>
-		<row row_number="42" isdata="1">אומר אף מקבלי פתקין] תנא שכן לבלרי מלכות עושין כןמתני'</row>
+		<row row_number="41" isdata="1">ורגלו: באמת אמרו האשה כו': [תנא כל באמת הלכה היא: רבי יהודה</row>
+		<row row_number="42" isdata="1">אומר אף מקבלי פתקין]: תנא שכן לבלרי מלכות עושין כן<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="43" isdata="1">המוציא ככר לרשות הרבים חייב הוציאוהו שנים פטורין לא יכול אחד</row>
-		<row row_number="44" isdata="1">להוציאו והוציאוהו שנים חייבין ור' שמעון פוטר<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר</row>
+		<row row_number="44" isdata="1">להוציאו והוציאוהו שנים חייבין ור' שמעון פוטר:<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר</row>
 		<row row_number="45" isdata="1">רב ואמרי לה אמר אביי ואמרי לה במתניתא תנא זה יכול וזה יכול רבי מאיר</row>
 		<row row_number="46" isdata="1">מחייב ור' יהודה ור' שמעון פוטרים זה אינו יכול וזה אינו יכול רבי יהודה ור'</row>
 		<row row_number="47" isdata="1">מאיר מחייבים ורבי שמעון פוטר זה יכול וזה אינו יכול דברי הכל חייב תניא</row>

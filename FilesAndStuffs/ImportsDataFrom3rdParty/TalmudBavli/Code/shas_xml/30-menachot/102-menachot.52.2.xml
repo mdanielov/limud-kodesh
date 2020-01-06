@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.890452</dateCreated>
-   <lastModified>2019-12-21 21:42:33.890452</lastModified>
+   <dateCreated>2020-01-06 09:34:45.999371</dateCreated>
+   <lastModified>2020-01-06 09:34:45.999371</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="52">
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">לרבנן נמי לא הוכפלו א"ר יוחנן הלכה כאבא</row>
 		<row row_number="21" isdata="1">יוסי בן דוסתאי ומי א"ר יוחנן הכי והא א"ר</row>
 		<row row_number="22" isdata="1">יוחנן הלכה כסתם משנה ותנן חמשה קמצין</row>
-		<row row_number="23" isdata="1">הן אמוראי נינהו ואליבא דרבי יוחנן<EndChapter name = "התכלת"/><EndGemara/></row>
+		<row row_number="23" isdata="1">הן אמוראי נינהו ואליבא דרבי יוחנן:<EndChapter name = "התכלת"/><EndGemara/></row>
 		<row row_number="24" isdata="0">הדרן עלך התכלת</row>
 		<row row_number="25" isdata="1"><StartChapter name = "כל המנחות"/><StartMishna/>כל המנחות באות מצה חוץ מחמץ</row>
 		<row row_number="26" isdata="1">שבתודה ושתי הלחם שהן באות חמץ</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">ר' יהודה אומר אף היא אינה מן המובחר אלא</row>
 		<row row_number="29" isdata="1">מביא את השאור ונותנו לתוך המדה וממלא</row>
 		<row row_number="30" isdata="1">את המדה אמרו לו אף היא היתה חסרה או</row>
-		<row row_number="31" isdata="1">יתרה<EndMishna/><StartGemara/>גמ' בעא מיניה רבי פרידא מרבי</row>
+		<row row_number="31" isdata="1">יתרה:<EndMishna/><StartGemara/>גמ' בעא מיניה רבי פרידא מרבי</row>
 		<row row_number="32" isdata="1">אמי מנין לכל המנחות שהן באות מצה מנלן</row>
 		<row row_number="33" isdata="1">דכתיב בה כתיב בה דלא כתיב בה כתיב בה</row>
 </amud>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:48.480641</dateCreated>
-   <lastModified>2019-12-21 21:41:48.480641</lastModified>
+   <dateCreated>2020-01-06 09:31:01.855526</dateCreated>
+   <lastModified>2020-01-06 09:31:01.855526</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="38">
@@ -37,10 +37,10 @@
 		<row row_number="23" isdata="1">בידו אע"פ שאין דעתו להחזיר מותר בעי</row>
 		<row row_number="24" isdata="1">ר' ירמיה תלאן במקל מהו הניחן על גבי מטה</row>
 		<row row_number="25" isdata="1">מהו בעי רב אשי פינן ממיחם למיחם</row>
-		<row row_number="26" isdata="1">מהו תיקומתני' תנור שהסיקוהו בקש</row>
+		<row row_number="26" isdata="1">מהו תיקו<EndGemara/><StartMishna/>מתני' תנור שהסיקוהו בקש</row>
 		<row row_number="27" isdata="1">ובגבבא לא יתן בין מתוכו בין מעל גביו</row>
 		<row row_number="28" isdata="1">כופח שהסיקוהו בקש ובגבבא ה"ז ככיריים</row>
-		<row row_number="29" isdata="1">בגפת ובעצים הרי הוא כתנור<EndMishna/><StartGemara/>גמ' תנור</row>
+		<row row_number="29" isdata="1">בגפת ובעצים הרי הוא כתנור:<EndMishna/><StartGemara/>גמ' תנור</row>
 		<row row_number="30" isdata="1">שהסיקוהו סבר רב יוסף למימר תוכו תוכו</row>
 		<row row_number="31" isdata="1">ממש על גביו על גביו ממש אבל לסמוך</row>
 		<row row_number="32" isdata="1">שפיר דמי איתיביה אביי כופח שהסיקוהו</row>
@@ -53,7 +53,7 @@
 		<row row_number="39" isdata="1">אמר רב אדא בר אהבה הכא בכופח גרוף</row>
 		<row row_number="40" isdata="1">וקטום ותנור גרופה וקטומה עסקינן הרי</row>
 		<row row_number="41" isdata="1">הוא כתנור דאע"ג דגרוף וקטום על גביו</row>
-		<row row_number="42" isdata="1">אסור דאי ככירה כי גרופה וקטומה שפיר דמי תניא כוותיה דאביי</row>
+		<row row_number="42" isdata="1">אסור דאי ככירה כי גרופה וקטומה שפיר דמי: תניא כוותיה דאביי</row>
 		<row row_number="43" isdata="1">תנור שהסיקוהו בקש ובגבבא אין סומכין לו ואין צריך לומר על גביו</row>
 		<row row_number="44" isdata="1">ואין צריך לומר לתוכו ואין צריך לומר בגפת ובעצים כופח שהסיקוהו</row>
 		<row row_number="45" isdata="1">בקש ובגבבא סומכין לו ואין נותנין על גביו בגפת ובעצים אין סומכין</row>
@@ -63,12 +63,12 @@
 		<row row_number="49" isdata="1">כופח היכי דמי כירה א"ר יוסי בר חנינא כופח מקום שפיתת קדרה אחת</row>
 		<row row_number="50" isdata="1">כירה מקום שפיתת שתי קדרות אמר אביי ואיתימא רבי ירמיה אף אנן</row>
 		<row row_number="51" isdata="1">נמי תנינא כירה שנחלקה לאורכה טהורה לרחבה טמאה כופח בין</row>
-		<row row_number="52" isdata="1">לאורכו בין לרוחבו טהורמתני' אין נותנין ביצה בצד המיחם</row>
+		<row row_number="52" isdata="1">לאורכו בין לרוחבו טהור<EndGemara/><StartMishna/>מתני' אין נותנין ביצה בצד המיחם</row>
 		<row row_number="53" isdata="1">בשביל שתתגלגל ולא יפקיענה בסודרין ור' יוסי מתיר ולא יטמיננה</row>
 		<row row_number="54" isdata="1">בחול ובאבק דרכים בשביל שתצלה מעשה שעשו אנשי טבריא והביאו</row>
 		<row row_number="55" isdata="1">סילון של צונן לתוך אמה של חמין אמרו להם חכמים אם בשבת</row>
 		<row row_number="56" isdata="1">כחמין שהוחמו בשבת ואסורין ברחיצה ובשתיה אם ביום טוב כחמין</row>
-		<row row_number="57" isdata="1">שהוחמו ביום טוב ואסורין ברחיצה ומותרין בשתיה<EndMishna/><StartGemara/>גמ' איבעיא</row>
+		<row row_number="57" isdata="1">שהוחמו ביום טוב ואסורין ברחיצה ומותרין בשתיה:<EndMishna/><StartGemara/>גמ' איבעיא</row>
 		<row row_number="58" isdata="1">להו גלגל מאי אמר רב יוסף  גלגל חייב חטאת אמר מר בריה דרבינא אף אנן נמי תנינא</row>
 </amud>
 </daf>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:53.085286</dateCreated>
-   <lastModified>2019-12-21 21:41:53.085286</lastModified>
+   <dateCreated>2020-01-06 09:31:20.192605</dateCreated>
+   <lastModified>2020-01-06 09:31:20.192605</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="61">
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">מותבי עירובייהו בבי כנישתא דבי אגובר</row>
 		<row row_number="29" isdata="1">אמר להו גוו ביה טפי כי היכי דלישתרי</row>
 		<row row_number="30" isdata="1">לכו טפי אמר ליה רבא פלגאה בעירובין</row>
-		<row row_number="31" isdata="1">לית דחש להא דרבי עקיבא<EndChapter name = "במה בהמה"/><EndGemara/></row>
+		<row row_number="31" isdata="1">לית דחש להא דרבי עקיבא:<EndChapter name = "במה בהמה"/><EndGemara/></row>
 		<row row_number="32" isdata="0">הדרן עלך כיצד מעברין</row>
 		<row row_number="33" isdata="1"><StartChapter name = "במה אשה"/><StartMishna/>הדר עם העכו"ם בחצר או עם מי שאינו</row>
 		<row row_number="34" isdata="1">מודה בעירוב הרי זה אוסר עליו ר'</row>
@@ -52,7 +52,7 @@
 		<row row_number="38" isdata="1">בירושלים ואמר לנו אבא מהרו והוציאו את</row>
 		<row row_number="39" isdata="1">הכלים למבוי עד שלא יוציא ויאסר עליכם</row>
 		<row row_number="40" isdata="1">רבי יהודה אומר בלשון אחר מהרו ועשו</row>
-		<row row_number="41" isdata="1">צרכיכם במבוי עד שלא יוציא ויאסר עליכם</row>
+		<row row_number="41" isdata="1">צרכיכם במבוי עד שלא יוציא ויאסר עליכם:</row>
 </amud>
 </daf>
 </masechet>

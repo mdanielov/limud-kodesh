@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.354138</dateCreated>
-   <lastModified>2019-12-21 21:42:13.354138</lastModified>
+   <dateCreated>2020-01-06 09:33:11.116736</dateCreated>
+   <lastModified>2020-01-06 09:33:11.116736</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="74">
@@ -24,14 +24,14 @@
 		<row row_number="10" isdata="1">דרבי זירא דאמר רבי זירא אמר רבה בר</row>
 		<row row_number="11" isdata="1">ירמיה אמר שמואל כל מקום שאמרו חכמים</row>
 		<row row_number="12" isdata="1">מגורשת ואינה מגורשת בעלה חייב</row>
-		<row row_number="13" isdata="1">במזונותיהמתני' הרי זה גיטך ע"מ</row>
+		<row row_number="13" isdata="1">במזונותיה<EndGemara/><StartMishna/>מתני' הרי זה גיטך ע"מ</row>
 		<row row_number="14" isdata="1">שתתני לי מאתים זוז הרי זו מגורשת ותתן</row>
 		<row row_number="15" isdata="1">ע"מ שתתני לי מיכן ועד שלשים יום אם נתנה</row>
 		<row row_number="16" isdata="1">לו בתוך שלשים יום מגורשת ואם לאו אינה</row>
 		<row row_number="17" isdata="1">מגורשת אמר רבן שמעון בן גמליאל מעשה</row>
 		<row row_number="18" isdata="1">בצידן באחד שאמר לאשתו ה"ז גיטך ע"מ</row>
 		<row row_number="19" isdata="1">שתתני לי איצטליתי ואבדה איצטליתו ואמרו</row>
-		<row row_number="20" isdata="1">חכמים תתן לו את דמיה<EndMishna/><StartGemara/>גמ' מאי ותתן</row>
+		<row row_number="20" isdata="1">חכמים תתן לו את דמיה:<EndMishna/><StartGemara/>גמ' מאי ותתן</row>
 		<row row_number="21" isdata="1">רב הונא אמר והיא תתן רב יהודה אמר</row>
 		<row row_number="22" isdata="1">לכשתתן מאי בינייהו איכא בינייהו שנתקרע</row>
 		<row row_number="23" isdata="1">הגט או שאבד רב הונא אמר והיא תתן</row>

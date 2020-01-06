@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:10.221980</dateCreated>
-   <lastModified>2019-12-21 21:42:10.221980</lastModified>
+   <dateCreated>2020-01-06 09:32:53.661146</dateCreated>
+   <lastModified>2020-01-06 09:32:53.661146</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="28">
@@ -35,14 +35,14 @@
 		<row row_number="21" isdata="1">מום לא תמימה אבל בעלת מום מאי</row>
 		<row row_number="22" isdata="1">כסתומה דמיא מאי איריא דקתני מעות</row>
 		<row row_number="23" isdata="1">שהפריש אביו ליתני בעלת מום הכי נמי</row>
-		<row row_number="24" isdata="1">דלמאי חזיא לדמי דמי היינו מעותמתני'</row>
+		<row row_number="24" isdata="1">דלמאי חזיא לדמי דמי היינו מעות<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="25" isdata="1">נזרק עליה אחד מן הדמים אינו יכול להפר</row>
 		<row row_number="26" isdata="1">ר"ע אומר אפילו נשחטה עליה אחת מכל</row>
 		<row row_number="27" isdata="1">הבהמות אינו יכול להפר בד"א בתגלחת</row>
 		<row row_number="28" isdata="1">הטהרה אבל בתגלחת הטומאה יפר שהוא</row>
 		<row row_number="29" isdata="1">יכול לומר אי אפשי באשה מנוולת רבי</row>
 		<row row_number="30" isdata="1">(מאיר) אומר אף בתגלחת הטהרה יפר שהוא יכול לומר אי אפשי באשה</row>
-		<row row_number="31" isdata="1">מגלחת<EndMishna/><StartGemara/>גמ' מתני' דלא כר' אליעזר דאי ר"א האמר תגלחת מעכבת וכיון</row>
+		<row row_number="31" isdata="1">מגלחת:<EndMishna/><StartGemara/>גמ' מתני' דלא כר' אליעזר דאי ר"א האמר תגלחת מעכבת וכיון</row>
 		<row row_number="32" isdata="1">דלא גילחה אסירה בחמרא וכיון דאית לה ניוול מצי מיפר (ובהא פליגי)</row>
 </amud>
 </daf>

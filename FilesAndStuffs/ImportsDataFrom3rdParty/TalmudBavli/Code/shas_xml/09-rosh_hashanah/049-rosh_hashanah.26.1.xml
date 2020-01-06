@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.024751</dateCreated>
-   <lastModified>2019-12-21 21:42:01.024751</lastModified>
+   <dateCreated>2020-01-06 09:32:09.426246</dateCreated>
+   <lastModified>2020-01-06 09:32:09.426246</lastModified>
  </meta>
  <masechet name="ראש השנה" serial="09">
 <daf value="26">
@@ -19,10 +19,10 @@
 		<row row_number="5" isdata="1">התם אלא בדיני נפשות דרחמנא אמר</row>
 		<row row_number="6" isdata="1">ושפטו העדה והצילו העדה וכיון דחזיוהו</row>
 		<row row_number="7" isdata="1">דקטל נפשא לא מצו חזו ליה זכותא אבל</row>
-		<row row_number="8" isdata="1">הכא אפילו ר' עקיבא מודהמתני' כל</row>
+		<row row_number="8" isdata="1">הכא אפילו ר' עקיבא מודה<EndGemara/><StartMishna/>מתני' כל</row>
 		<row row_number="9" isdata="1">השופרות כשרים חוץ משל פרה מפני שהוא</row>
 		<row row_number="10" isdata="1">קרן אמר רבי יוסי והלא כל השופרות נקראו</row>
-		<row row_number="11" isdata="1">קרן שנאמר במשוך בקרן היובל<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="11" isdata="1">קרן שנאמר במשוך בקרן היובל:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="12" isdata="1">שפיר קאמר רבי יוסי ורבנן כל השופרות</row>
 		<row row_number="13" isdata="1">אקרו שופר ואקרו קרן דפרה קרן אקרי שופר</row>
 		<row row_number="14" isdata="1">לא אקרי דכתיב בכור שורו הדר לו וקרני</row>

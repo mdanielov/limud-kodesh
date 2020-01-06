@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.059511</dateCreated>
-   <lastModified>2019-12-21 21:42:12.059511</lastModified>
+   <dateCreated>2020-01-06 09:33:03.846864</dateCreated>
+   <lastModified>2020-01-06 09:33:03.846864</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="11">
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">כדקתני טעמא מפני שרוב ישראל שבחוץ</row>
 		<row row_number="11" isdata="1">לארץ שמותיהן כשמות עובדי כוכבים</row>
 		<row row_number="12" isdata="1">ואיכא דאמרי כי מתניתא בעא מיניה ופשט</row>
-		<row row_number="13" isdata="1">ליה ממתניתאמתני' האומר תן גט זה</row>
+		<row row_number="13" isdata="1">ליה ממתניתא<EndGemara/><StartMishna/>מתני' האומר תן גט זה</row>
 		<row row_number="14" isdata="1">לאשתי ושטר שחרור זה לעבדי אם רצה</row>
 		<row row_number="15" isdata="1">לחזור בשניהן יחזור דברי ר"מ וחכ"א בגיטי</row>
 		<row row_number="16" isdata="1">נשים אבל לא בשחרורי עבדים לפי שזכין</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">שאם ירצה שלא לזון את עבדו רשאי ושלא</row>
 		<row row_number="19" isdata="1">לזון את אשתו אינו רשאי אמר להם והרי</row>
 		<row row_number="20" isdata="1">הוא פוסל את עבדו מן התרומה כשם שהוא</row>
-		<row row_number="21" isdata="1">פוסל את אשתו אמרו לו מפני שהוא קניינו</row>
+		<row row_number="21" isdata="1">פוסל את אשתו אמרו לו מפני שהוא קניינו:</row>
 		<row row_number="22" isdata="1"><EndMishna/><StartGemara/>גמ' יתיב רב הונא ורב יצחק בר יוסף קמיה</row>
 		<row row_number="23" isdata="1">דר' ירמיה ויתיב ר' ירמיה וקא מנמנם ויתיב</row>
 		<row row_number="24" isdata="1">רב הונא וקאמר ש"מ מדרבנן התופס לבעל</row>

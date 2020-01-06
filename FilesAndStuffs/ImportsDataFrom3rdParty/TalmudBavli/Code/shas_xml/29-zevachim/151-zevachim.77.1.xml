@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.917760</dateCreated>
-   <lastModified>2019-12-21 21:42:31.918763</lastModified>
+   <dateCreated>2020-01-06 09:34:36.991233</dateCreated>
+   <lastModified>2020-01-06 09:34:36.991233</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="77">
@@ -23,12 +23,12 @@
 		<row row_number="9" isdata="1">אשם זה יהא אשם תלוי ש"מ מאן תנא דפליג</row>
 		<row row_number="10" isdata="1">עליה דר' אליעזר רבי שמעון הוא דאמר</row>
 		<row row_number="11" isdata="1">אין מתנדבין אשם תלוי אמר ליה תורה</row>
-		<row row_number="12" isdata="1">תורה אימרי בדיכרי מיחלפי לךמתני'</row>
+		<row row_number="12" isdata="1">תורה אימרי בדיכרי מיחלפי לך<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="13" isdata="1">איברי חטאת שנתערבו באיברי עולה ר'</row>
 		<row row_number="14" isdata="1">אליעזר אומר יתן למעלה ורואה אני את</row>
 		<row row_number="15" isdata="1">בשר החטאת מלמעלה כאילו הן עצים</row>
 		<row row_number="16" isdata="1">וחכמים אומרים תעובר צורתן ויצאו לבית</row>
-		<row row_number="17" isdata="1">השריפה<EndMishna/><StartGemara/>גמ' מ"ט דרבי אליעזר אמר</row>
+		<row row_number="17" isdata="1">השריפה :<EndMishna/><StartGemara/>גמ' מ"ט דרבי אליעזר אמר</row>
 		<row row_number="18" isdata="1">קרא ואל המזבח לא יעלו לריח ניחוח לריח</row>
 		<row row_number="19" isdata="1">ניחוח אי אתה מעלה אבל אתה מעלה</row>
 		<row row_number="20" isdata="1">לשם עצים ורבנן מיעט רחמנא אותם אותם</row>

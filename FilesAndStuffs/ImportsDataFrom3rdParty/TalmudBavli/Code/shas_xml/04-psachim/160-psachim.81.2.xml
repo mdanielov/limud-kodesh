@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:55.987698</dateCreated>
-   <lastModified>2019-12-21 21:41:55.987698</lastModified>
+   <dateCreated>2020-01-06 09:31:32.997969</dateCreated>
+   <lastModified>2020-01-06 09:31:32.997969</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="81">
@@ -38,7 +38,7 @@
 		<row row_number="24" isdata="1">הוא אלא אי איתמר הכי איתמר אמר מר בר</row>
 		<row row_number="25" isdata="1">רב אשי לא תימא נודע לו לאחר זריקה הוא</row>
 		<row row_number="26" isdata="1">דמרצה אבל נודע לו לפני זריקה לא מרצה</row>
-		<row row_number="27" isdata="1">אלא אפילו נודע לו לפני זריקה מרצה</row>
+		<row row_number="27" isdata="1">אלא אפילו נודע לו לפני זריקה מרצה:</row>
 		<row row_number="28" isdata="1">גופא המוצא מת מושכב לרחבו של דרך</row>
 		<row row_number="29" isdata="1">לתרומה טמא לנזיר ועושה פסח טהור בד"א</row>
 		<row row_number="30" isdata="1">שאין לו מקום לעבור אבל יש מקום לעבור</row>
@@ -56,13 +56,13 @@
 		<row row_number="42" isdata="1">ובצרורות הרי זה טומאת התהום במים</row>
 		<row row_number="43" isdata="1">באפילה בנקיקי הסלעים אין זה טומאת</row>
 		<row row_number="44" isdata="1">התהום ולא אמרו טומאת התהום אלא למת</row>
-		<row row_number="45" isdata="1">בלבדמתני' נטמא שלם או רובו שורפין</row>
+		<row row_number="45" isdata="1">בלבד<EndGemara/><StartMishna/>מתני' נטמא שלם או רובו שורפין</row>
 		<row row_number="46" isdata="1">אותו לפני הבירה מעצי המערכה נטמא</row>
 		<row row_number="47" isdata="1">מיעוטו והנותר שורפין אותו בחצרותיהן או</row>
 		<row row_number="48" isdata="1">על גגותיהן מעצי עצמן הציקנין שורפין אותו</row>
-		<row row_number="49" isdata="1">לפני הבירה בשביל ליהנות מעצי המערכה</row>
-		<row row_number="50" isdata="1"><EndMishna/><StartGemara/>גמ' מ"ט א"ר יוסי בר חנינא כדי לביישן</row>
-		<row row_number="51" isdata="1">נטמא מיעוטו וכו' ורמינהו וכן מי שיצא</row>
+		<row row_number="49" isdata="1">לפני הבירה בשביל ליהנות מעצי המערכה:</row>
+		<row row_number="50" isdata="1"><EndMishna/><StartGemara/>גמ' מ"ט א"ר יוסי בר חנינא כדי לביישן:</row>
+		<row row_number="51" isdata="1">נטמא מיעוטו וכו': ורמינהו וכן מי שיצא</row>
 		<row row_number="52" isdata="1">מירושלים ונזכר שיש בידו בשר קדש אם</row>
 		<row row_number="53" isdata="1">עבר צופים שורפו במקומו ואם לאו</row>
 </amud>

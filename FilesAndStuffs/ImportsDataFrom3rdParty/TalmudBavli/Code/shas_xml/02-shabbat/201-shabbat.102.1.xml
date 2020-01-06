@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.962347</dateCreated>
-   <lastModified>2019-12-21 21:41:49.962347</lastModified>
+   <dateCreated>2020-01-06 09:31:08.567542</dateCreated>
+   <lastModified>2020-01-06 09:31:08.567542</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="102">
@@ -19,7 +19,7 @@
 		<row row_number="5" isdata="1">הכלל כל חייבי חטאות אינן חייבין עד שתהא</row>
 		<row row_number="6" isdata="1">תחלתן וסופן שגגה תחלתן שגגה וסופן</row>
 		<row row_number="7" isdata="1">זדון תחילתן זדון וסופן שגגה פטורין עד</row>
-		<row row_number="8" isdata="1">שתהא תחילתן וסופן שגגה<EndMishna/><StartGemara/>גמ' הא נחה</row>
+		<row row_number="8" isdata="1">שתהא תחילתן וסופן שגגה:<EndMishna/><StartGemara/>גמ' הא נחה</row>
 		<row row_number="9" isdata="1">חייב והלא נזכר ותנן כל חייבי חטאות אינן</row>
 		<row row_number="10" isdata="1">חייבין עד שתהא תחלתן וסופן שגגה אמר רב</row>
 		<row row_number="11" isdata="1">כהנא סיפא אתאן ללכתא ומתנא לכתא</row>
@@ -35,8 +35,8 @@
 		<row row_number="21" isdata="1">קלטה אחר או קלטה כלב או שנשרפה פטור</row>
 		<row row_number="22" isdata="1">הא נחה חייב בד"א שחזר ושכח אבל לא</row>
 		<row row_number="23" isdata="1">חזר ושכח פטור שכל חייבי חטאות אינן</row>
-		<row row_number="24" isdata="1">חייבין עד שתהא תחלתן וסופן שגגה זה</row>
-		<row row_number="25" isdata="1">הכלל כל חייבי חטאות כו' איתמר שתי</row>
+		<row row_number="24" isdata="1">חייבין עד שתהא תחלתן וסופן שגגה: זה</row>
+		<row row_number="25" isdata="1">הכלל כל חייבי חטאות כו': איתמר שתי</row>
 		<row row_number="26" isdata="1">אמות בשוגג שתי אמות במזיד שתי אמות</row>
 		<row row_number="27" isdata="1">בשוגג רבה אמר פטור רבא אמר חייב רבה</row>
 		<row row_number="28" isdata="1">אמר פטור אפילו לרבן גמליאל דאמר אין</row>
@@ -56,7 +56,7 @@
 		<row row_number="42" isdata="1">רבי מאיר אומר אף אם היתה שבת והוציאו</row>
 		<row row_number="43" isdata="1">[בפיו] חייב אמרו לו אינו מן השם ואמאי</row>
 		<row row_number="44" isdata="1">הא אין דרך הוצאה בכך אלא כיון דקא מיכוין מחשבתו משויא ליה מקום</row>
-		<row row_number="45" isdata="1">הכא נמי כיון דקא מיכוין מחשבתו משויא ליה מקום<EndChapter name = "הזורק"/><EndGemara/></row>
+		<row row_number="45" isdata="1">הכא נמי כיון דקא מיכוין מחשבתו משויא ליה מקום:<EndChapter name = "הזורק"/><EndGemara/></row>
 		<row row_number="46" isdata="0">הדרן עלך הזורק</row>
 </amud>
 </daf>

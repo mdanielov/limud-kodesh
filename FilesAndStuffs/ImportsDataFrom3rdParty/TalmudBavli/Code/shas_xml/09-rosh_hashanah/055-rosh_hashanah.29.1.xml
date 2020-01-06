@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.067751</dateCreated>
-   <lastModified>2019-12-21 21:42:01.067751</lastModified>
+   <dateCreated>2020-01-06 09:32:09.719077</dateCreated>
+   <lastModified>2020-01-06 09:32:09.719077</lastModified>
  </meta>
  <masechet name="ראש השנה" serial="09">
 <daf value="29">
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">דתניא שומע שומע לעצמו ומשמיע משמיע</row>
 		<row row_number="14" isdata="1">לפי דרכו אמר רבי יוסי בד"א בשליח צבור</row>
 		<row row_number="15" isdata="1">אבל ביחיד לא יצא עד שיתכוין שומע</row>
-		<row row_number="16" isdata="1">ומשמיעמתני' והיה כאשר ירים משה</row>
+		<row row_number="16" isdata="1">ומשמיע<EndGemara/><StartMishna/>מתני' והיה כאשר ירים משה</row>
 		<row row_number="17" isdata="1">ידו וגבר ישראל וגו' וכי ידיו של משה עושות</row>
 		<row row_number="18" isdata="1">מלחמה או שוברות מלחמה אלא לומר לך</row>
 		<row row_number="19" isdata="1">כל זמן שהיו ישראל מסתכלין כלפי מעלה</row>
@@ -41,7 +41,7 @@
 		<row row_number="27" isdata="1">היו נימוקים חרש שוטה וקטן אין מוציאין</row>
 		<row row_number="28" isdata="1">את הרבים ידי חובתן זה הכלל כל שאינו</row>
 		<row row_number="29" isdata="1">מחוייב בדבר אינו מוציא את הרבים ידי</row>
-		<row row_number="30" isdata="1">חובתן<EndMishna/><StartGemara/>גמ' ת"ר הכל חייבין בתקיעת</row>
+		<row row_number="30" isdata="1">חובתן:<EndMishna/><StartGemara/>גמ' ת"ר הכל חייבין בתקיעת</row>
 		<row row_number="31" isdata="1">שופר כהנים ולוים וישראלים גרים ועבדים</row>
 		<row row_number="32" isdata="1">משוחררים וטומטום ואנדרוגינוס מי שחציו</row>
 		<row row_number="33" isdata="1">עבד וחציו בן חורין טומטום אינו מוציא</row>
@@ -64,8 +64,8 @@
 		<row row_number="50" isdata="1">והני כהנים הואיל וליתנהו במצוה דיובל</row>
 		<row row_number="51" isdata="1">דתנן כהנים ולוים מוכרין לעולם וגואלין</row>
 		<row row_number="52" isdata="1">לעולם אימא במצוה דראש השנה לא</row>
-		<row row_number="53" isdata="1">ליחייבו קמ"ל מי שחציו עבד וחציו בן חורין אינו מוציא לא את מינו</row>
-		<row row_number="54" isdata="1">ולא את שאינו מינו אמר רב הונא ולעצמו מוציא א"ל רב נחמן לרב הונא</row>
+		<row row_number="53" isdata="1">ליחייבו קמ"ל: מי שחציו עבד וחציו בן חורין אינו מוציא לא את מינו</row>
+		<row row_number="54" isdata="1">ולא את שאינו מינו: אמר רב הונא ולעצמו מוציא א"ל רב נחמן לרב הונא</row>
 		<row row_number="55" isdata="1">מאי שנא לאחרים דלא דלא אתי צד עבדות ומפיק צד חירות לעצמו נמי לא</row>
 		<row row_number="56" isdata="1">אתי צד עבדות דידיה ומפיק צד חירות דידיה אלא אר"נ אף לעצמו אינו מוציא</row>
 		<row row_number="57" isdata="1">תניא נמי הכי מי שחציו עבד וחציו בן חורין אף לעצמו אינו מוציא תני אהבה בריה דר' זירא כל הברכות</row>

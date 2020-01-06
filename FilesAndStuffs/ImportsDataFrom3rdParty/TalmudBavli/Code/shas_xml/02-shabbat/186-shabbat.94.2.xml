@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.791026</dateCreated>
-   <lastModified>2019-12-21 21:41:49.791026</lastModified>
+   <dateCreated>2020-01-06 09:31:07.803231</dateCreated>
+   <lastModified>2020-01-06 09:31:07.803231</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="94">
@@ -40,17 +40,17 @@
 		<row row_number="26" isdata="1">לאו הא דתניא חייב דאפיק חצי זית מכזית</row>
 		<row row_number="27" isdata="1">והא דתנן פטור דאפיק חצי זית מכזית ומחצה</row>
 		<row row_number="28" isdata="1">ורב נחמן אידי ואידי חייב והא דתנן פטור</row>
-		<row row_number="29" isdata="1">דאפיק חצי זית ממת גדולמתני' הנוטל</row>
+		<row row_number="29" isdata="1">דאפיק חצי זית ממת גדול<EndGemara/><StartMishna/>מתני' הנוטל</row>
 		<row row_number="30" isdata="1">צפרניו זו בזו או בשיניו וכן שערו וכן שפמו</row>
 		<row row_number="31" isdata="1">וכן זקנו וכן הגודלת וכן הכוחלת וכן הפוקסת</row>
 		<row row_number="32" isdata="1">רבי אליעזר מחייב וחכמים אוסרין משום</row>
-		<row row_number="33" isdata="1">שבות<EndMishna/><StartGemara/>גמ' אמר ר"א מחלוקת ביד אבל</row>
+		<row row_number="33" isdata="1">שבות:<EndMishna/><StartGemara/>גמ' אמר ר"א מחלוקת ביד אבל</row>
 		<row row_number="34" isdata="1">בכלי חייב פשיטא זו בזו תנן מהו דתימא</row>
 		<row row_number="35" isdata="1">רבנן בכלי נמי פטרי והא דקתני זו בזו</row>
 		<row row_number="36" isdata="1">להודיעך כחו דר' אליעזר קא משמע לן ואמר</row>
 		<row row_number="37" isdata="1">רבי אלעזר מחלוקת לעצמו אבל לחבירו</row>
 		<row row_number="38" isdata="1">דברי הכל פטור פשיטא צפרניו תנן מהו דתימא רבי אליעזר לחבירו נמי</row>
-		<row row_number="39" isdata="1">מחייב והא דקתני צפרניו להודיעך כחן דרבנן קמ"ל וכן שערו כו' תנא</row>
+		<row row_number="39" isdata="1">מחייב והא דקתני צפרניו להודיעך כחן דרבנן קמ"ל: וכן שערו כו': תנא</row>
 		<row row_number="40" isdata="1">הנוטל מלא פי הזוג חייב וכמה מלא פי הזוג אמר רב יהודה שתים והתניא</row>
 		<row row_number="41" isdata="1">ולקרחה שתים אימא וכן לקרחה שתים תניא נמי הכי הנוטל מלא פי הזוג</row>
 		<row row_number="42" isdata="1">בשבת חייב וכמה מלא פי הזוג שתים רבי אליעזר אומר אחת ומודים</row>
@@ -60,8 +60,8 @@
 		<row row_number="46" isdata="1">חטאת מי איכא מידי דבכלי חייב חטאת וביד מותר לכתחלה הכי קאמר</row>
 		<row row_number="47" isdata="1">פירשו רובן ביד מותר בכלי פטור אבל אסור לא פירשו רובן ביד פטור אבל</row>
 		<row row_number="48" isdata="1">אסור בכלי חייב חטאת אמר רב יהודה הלכה כרבי שמעון בן אלעזר אמר</row>
-		<row row_number="49" isdata="1">רבה בר בר חנה אמר רבי יוחנן והוא שפרשו כלפי מעלה ומצערות אותו</row>
-		<row row_number="50" isdata="1">וכן הגודלת כו' גודלת כוחלת ופוקסת משום מאי מחייבא אמר רבי אבין</row>
+		<row row_number="49" isdata="1">רבה בר בר חנה אמר רבי יוחנן והוא שפרשו כלפי מעלה ומצערות אותו:</row>
+		<row row_number="50" isdata="1">וכן הגודלת כו': גודלת כוחלת ופוקסת משום מאי מחייבא אמר רבי אבין</row>
 		<row row_number="51" isdata="1">א"ר יוסי בר' חנינא גודלת משום אורגת כוחלת משום כותבת פוקסת משום</row>
 		<row row_number="52" isdata="1">טווה אמרו רבנן קמיה דרבי אבהו וכי דרך אריגה בכך וכי דרך כתיבה בכך</row>
 		<row row_number="53" isdata="1">וכי דרך טויה בכך אלא א"ר אבהו לדידי מפרשא לי מיניה דר' יוסי בר' חנינא</row>

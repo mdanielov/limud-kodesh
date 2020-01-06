@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.745729</dateCreated>
-   <lastModified>2019-12-21 21:42:06.745729</lastModified>
+   <dateCreated>2020-01-06 09:32:39.219549</dateCreated>
+   <lastModified>2020-01-06 09:32:39.219549</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="64">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "אף על פי"/><ContGemara/>מיחזי כשכר שבת אמר ליה ר' חייא בר יוסף</row>
 		<row row_number="2" isdata="1">לשמואל מה בין מורד למורדת אמר ליה</row>
 		<row row_number="3" isdata="1">צא ולמד משוק של זונות מי שוכר את מי</row>
-		<row row_number="4" isdata="1">דבר אחר זה יצרו מבחוץ וזו יצרה מבפנים</row>
+		<row row_number="4" isdata="1">דבר אחר זה יצרו מבחוץ וזו יצרה מבפנים:</row>
 		<row row_number="5" isdata="1"><EndGemara/><StartMishna/>מתני' המשרה את אשתו על ידי שליש</row>
 		<row row_number="6" isdata="1">לא יפחות לה משני קבין חטין או מארבעה</row>
 		<row row_number="7" isdata="1">קבין שעורין אמר רבי יוסי לא פסק לה</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">לו משקל חמש סלעים שתי ביהודה שהן עשר סלעים בגליל או משקל עשר</row>
 		<row row_number="19" isdata="1">סלעים ערב ביהודה שהן עשרים סלעים בגליל ואם היתה מניקה פוחתין לה</row>
 		<row row_number="20" isdata="1">ממעשה ידיה ומוסיפין לה על מזונותיה במה דברים אמורים בעני שבישראל</row>
-		<row row_number="21" isdata="1">אבל במכובד הכל לפי כבודו<EndMishna/><StartGemara/>גמ' מני מתניתין לא רבי יוחנן בן ברוקא</row>
+		<row row_number="21" isdata="1">אבל במכובד הכל לפי כבודו:<EndMishna/><StartGemara/>גמ' מני מתניתין לא רבי יוחנן בן ברוקא</row>
 		<row row_number="22" isdata="1">ולא ר"ש דתנן וכמה שיעורו מזון שתי סעודות לכל אחד ואחד מזונו לחול</row>
 		<row row_number="23" isdata="1">ולא לשבת דברי ר"מ רבי יהודה אומר לשבת ולא לחול וזה וזה מתכוונין</row>
 		<row row_number="24" isdata="1">להקל ר' יוחנן בן ברוקא אומר ככר הלקוח בפונדיון מארבע סאין לסלע ר"ש</row>
@@ -47,10 +47,10 @@
 		<row row_number="33" isdata="1">יהבי ציבי אי הכי שיתסרי הויין כמאן כרבי חידקא דאמר ארבע סעודות חייב</row>
 		<row row_number="34" isdata="1">אדם לאכול בשבת אפילו תימא רבנן דל חדא לארחי ופרחי השתא דאתית</row>
 		<row row_number="35" isdata="1">להכי אפילו תימא ר' שמעון לרבנן דל תלת לארחי ופרחי לרבי חידקא דל</row>
-		<row row_number="36" isdata="1">תרתי לארחי ופרחי אמר רבי יוסי לא פסק שעורין וכו' אלא באדום הוא</row>
+		<row row_number="36" isdata="1">תרתי לארחי ופרחי: אמר רבי יוסי לא פסק שעורין וכו': אלא באדום הוא</row>
 		<row row_number="37" isdata="1">דאכלין שעורים בכולי עלמא לא אכלי ה"ק לא פסק שעורים כפלים בחטין</row>
-		<row row_number="38" isdata="1">אלא רבי ישמעאל שהיה סמוך לאדום מפני ששעורין אדומיות רעות הן ונותן</row>
-		<row row_number="39" isdata="1">לה חצי קב קיטנית ואילו יין לא קתני מסייע ליה לר' אלעזר דאמר ר' אלעזר</row>
+		<row row_number="38" isdata="1">אלא רבי ישמעאל שהיה סמוך לאדום מפני ששעורין אדומיות רעות הן: ונותן</row>
+		<row row_number="39" isdata="1">לה חצי קב קיטנית: ואילו יין לא קתני מסייע ליה לר' אלעזר דאמר ר' אלעזר</row>
 </amud>
 </daf>
 </masechet>

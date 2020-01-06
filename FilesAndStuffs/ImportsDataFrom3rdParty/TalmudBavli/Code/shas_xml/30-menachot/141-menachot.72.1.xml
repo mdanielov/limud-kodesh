@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.315231</dateCreated>
-   <lastModified>2019-12-21 21:42:34.315231</lastModified>
+   <dateCreated>2020-01-06 09:34:47.767118</dateCreated>
+   <lastModified>2020-01-06 09:34:47.767118</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="72">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContMishna/>סבר לה כוותיה בחדא ופליג עליה בחדא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContMishna/>סבר לה כוותיה בחדא ופליג עליה בחדא:</row>
 		<row row_number="2" isdata="1">קוצרין מפני הנטיעות ומפני בית האבל ומפני</row>
-		<row row_number="3" isdata="1">בית המדרש מאי טעמא קצירכם אמר</row>
-		<row row_number="4" isdata="1">רחמנא ולא קציר מצוה ולא יעשה כריכות</row>
-		<row row_number="5" isdata="1">אבל מניחן צבתים מאי טעמא דכמה</row>
-		<row row_number="6" isdata="1">דאפשר לא טרחינן מצות העומר להביא מן</row>
-		<row row_number="7" isdata="1">הקמה תנו רבנן ואם תקריב מנחת בכורים</row>
+		<row row_number="3" isdata="1">בית המדרש: מאי טעמא קצירכם אמר</row>
+		<row row_number="4" isdata="1">רחמנא ולא קציר מצוה: ולא יעשה כריכות</row>
+		<row row_number="5" isdata="1">אבל מניחן צבתים: מאי טעמא דכמה</row>
+		<row row_number="6" isdata="1">דאפשר לא טרחינן: מצות העומר להביא מן</row>
+		<row row_number="7" isdata="1">הקמה: תנו רבנן ואם תקריב מנחת בכורים</row>
 		<row row_number="8" isdata="1">מה תלמוד לומר לפי שמצות העומר להביא</row>
 		<row row_number="9" isdata="1">מן הקמה מנין שאם לא מצא מן הקמה יביא</row>
 		<row row_number="10" isdata="1">מן העומרין תלמוד לומר תקריב דבר אחר</row>
@@ -28,8 +28,8 @@
 		<row row_number="14" isdata="1">לקצור בלילה מנין שאם נקצר ביום כשר</row>
 		<row row_number="15" isdata="1">(ת"ל תקריב) ודוחה את השבת ת"ל תקריב</row>
 		<row row_number="16" isdata="1">תקריב כל שהוא תקריב מ"מ תקריב ואפילו</row>
-		<row row_number="17" isdata="1">בשבת תקריב ואפילו בטומאה נקצר</row>
-		<row row_number="18" isdata="1">ביום כשר והתנן כל הלילה כשר לקצירת</row>
+		<row row_number="17" isdata="1">בשבת תקריב ואפילו בטומאה: נקצר</row>
+		<row row_number="18" isdata="1">ביום כשר: והתנן כל הלילה כשר לקצירת</row>
 		<row row_number="19" isdata="1">העומר ולהקטיר חלבים ואברים זה הכלל</row>
 		<row row_number="20" isdata="1">דבר שמצותו כל היום כשר כל היום דבר</row>
 		<row row_number="21" isdata="1">שמצותו בלילה כשר כל הלילה קתני לילה</row>

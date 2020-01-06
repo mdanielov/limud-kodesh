@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:11.701752</dateCreated>
-   <lastModified>2019-12-21 21:42:11.701752</lastModified>
+   <dateCreated>2020-01-06 09:33:01.943805</dateCreated>
+   <lastModified>2020-01-06 09:33:01.943805</lastModified>
  </meta>
  <masechet name="סוטה" serial="18">
 <daf value="40">
@@ -18,7 +18,7 @@
 		<row row_number="4" isdata="1">העולם ומנין שעל כל ברכה וברכה תהלה</row>
 		<row row_number="5" isdata="1">שנאמר [ ויברכו שם כבודך] ומרומם על</row>
 		<row row_number="6" isdata="1">כל ברכה ותהלה על כל ברכה וברכה תן</row>
-		<row row_number="7" isdata="1">לו תהלהמתני' ברכות כהן גדול כיצד</row>
+		<row row_number="7" isdata="1">לו תהלה<EndGemara/><StartMishna/>מתני' ברכות כהן גדול כיצד</row>
 		<row row_number="8" isdata="1">חזן הכנסת נוטל ספר תורה ונותנה לו</row>
 		<row row_number="9" isdata="1">לראש הכנסת וראש הכנסת נותנה לסגן</row>
 		<row row_number="10" isdata="1">והסגן נותנה לכהן גדול וכ"ג עומד ומקבל</row>
@@ -29,10 +29,10 @@
 		<row row_number="15" isdata="1">עליה שמנה ברכות על התורה ועל</row>
 		<row row_number="16" isdata="1">העבודה ועל ההודייה ועל מחילת העון ועל</row>
 		<row row_number="17" isdata="1">המקדש ועל ישראל ועל הכהנים ועל</row>
-		<row row_number="18" isdata="1">ירושלים והשאר תפלה<EndMishna/><StartGemara/>גמ' שמעת</row>
+		<row row_number="18" isdata="1">ירושלים והשאר תפלה:<EndMishna/><StartGemara/>גמ' שמעת</row>
 		<row row_number="19" isdata="1">מינה חולקין כבוד לתלמיד במקום הרב אמר</row>
-		<row row_number="20" isdata="1">אביי כולה משום כבודו דכ"ג הוא וכ"ג</row>
-		<row row_number="21" isdata="1">עומד ומקבל וקורא וכו' עומד מכלל דיושב</row>
+		<row row_number="20" isdata="1">אביי כולה משום כבודו דכ"ג הוא: וכ"ג</row>
+		<row row_number="21" isdata="1">עומד ומקבל וקורא וכו': עומד מכלל דיושב</row>
 		<row row_number="22" isdata="1">הוא והאמר מר אין ישיבה בעזרה אלא</row>
 		<row row_number="23" isdata="1">למלכי בית דוד בלבד שנאמר ויבא המלך</row>
 		<row row_number="24" isdata="1">דוד וישב לפני ה' ויאמר מי אנכי וגו'</row>

@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:02.367785</dateCreated>
-   <lastModified>2019-12-21 21:42:02.367785</lastModified>
+   <dateCreated>2020-01-06 09:32:17.630001</dateCreated>
+   <lastModified>2020-01-06 09:32:17.630001</lastModified>
  </meta>
  <masechet name="מועד קטן" serial="12">
 <daf value="19">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "ואלו מגלחין "/><ContGemara/>וטווה על יריכו תכלת לציציתוגמ' ת"רוטווה על יריכו תכלת לציציתו<EndMishna/><StartGemara/></row>
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו מגלחין "/><ContMishna/>וטווה על יריכו תכלת לציציתו:גמ' ת"רוטווה על יריכו תכלת לציציתו:<EndMishna/><StartGemara/></row>
 		<row row_number="2" isdata="1">כותב אדם תפילין ומזוזות לעצמו וטווה על</row>
 		<row row_number="3" isdata="1">יריכו תכלת לציציתו ולאחרים בטובה דברי</row>
 		<row row_number="4" isdata="1">רבי מאיר ר' יהודה אומר מערים ומוכר את</row>
@@ -20,14 +20,14 @@
 		<row row_number="6" isdata="1">ומוכר כדרכו כדי פרנסתו אורי ליה רב לרב</row>
 		<row row_number="7" isdata="1">חננאל ואמרי לה רבה בר בר חנה לרב</row>
 		<row row_number="8" isdata="1">חננאל הלכה כותב ומוכר כדרכו כדי</row>
-		<row row_number="9" isdata="1">פרנסתו וטווה על יריכו תכלת ת"ר טווה</row>
+		<row row_number="9" isdata="1">פרנסתו: וטווה על יריכו תכלת: ת"ר טווה</row>
 		<row row_number="10" isdata="1">אדם על יריכו תכלת לציציתו אבל לא באבן</row>
 		<row row_number="11" isdata="1">דברי ר' אליעזר וחכמים אומרים אף באבן ר'</row>
 		<row row_number="12" isdata="1">יהודה אומר משמו באבן אבל לא בפלך</row>
 		<row row_number="13" isdata="1">וחכמים אומרים בין באבן בין בפלך אמר רב</row>
 		<row row_number="14" isdata="1">יהודה אמר שמואל וכן א"ר חייא בר אבא</row>
 		<row row_number="15" isdata="1">א"ר יוחנן הלכה בין באבן בין בפלך והלכה</row>
-		<row row_number="16" isdata="1">כותב כדרכו ומוכר כדי פרנסתומתני'</row>
+		<row row_number="16" isdata="1">כותב כדרכו ומוכר כדי פרנסתו<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="17" isdata="1">הקובר את מתו שלשה ימים קודם לרגל</row>
 		<row row_number="18" isdata="1">בטלה הימנו גזרת שבעה שמונה בטלו</row>
 		<row row_number="19" isdata="1">הימנו גזרת שלשים מפני שאמרו שבת עולה</row>
@@ -36,7 +36,7 @@
 		<row row_number="22" isdata="1">כשבת רבן גמליאל אומר ראש השנה ויום</row>
 		<row row_number="23" isdata="1">הכפורים כרגלים וחכמים אומרים לא כדברי</row>
 		<row row_number="24" isdata="1">זה ולא כדברי זה אלא עצרת כרגלים ראש</row>
-		<row row_number="25" isdata="1">השנה ויוה"כ כשבת<EndMishna/><StartGemara/>גמ' אמר רב גזרת</row>
+		<row row_number="25" isdata="1">השנה ויוה"כ כשבת:<EndMishna/><StartGemara/>גמ' אמר רב גזרת</row>
 		<row row_number="26" isdata="1">בטלו ימים לא בטלו וכן א"ר הונא גזרת</row>
 		<row row_number="27" isdata="1">בטלו ימים לא בטלו ורב ששת אמר אפילו</row>
 		<row row_number="28" isdata="1">ימים נמי בטלו מ"ט ימים לא בטלו שאם לא</row>

@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.285281</dateCreated>
-   <lastModified>2019-12-21 21:42:41.285281</lastModified>
+   <dateCreated>2020-01-06 09:35:23.263457</dateCreated>
+   <lastModified>2020-01-06 09:35:23.263457</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="7">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "שמאי אומר"/><ContGemara/>אבל הלכה כרבי אליעזר איזו היא בתולה כל</row>
+		<row row_number="1" isdata="1"><ContChapter name = "שמאי אומר"/><ContMishna/>אבל הלכה כרבי אליעזר איזו היא בתולה כל</row>
 		<row row_number="2" isdata="1">שלא ראתה דם מימיה אע"פ שנשואה מעוברת</row>
 		<row row_number="3" isdata="1">משיודע עוברה מניקה עד שתגמול את בנה</row>
 		<row row_number="4" isdata="1">נתנה בנה למניקה גמלתו או מת ר"מ אומר</row>
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">דיין שעתן ובמה אמר דיה שעתה בראייה</row>
 		<row row_number="11" isdata="1">ראשונה אבל בשניה מטמאה מעת לעת</row>
 		<row row_number="12" isdata="1">ואם ראתה הראשונה מאונס אף השניה</row>
-		<row row_number="13" isdata="1">דיה שעתה<EndMishna/><StartGemara/>גמ' תניא אמר לו רבי אליעזר</row>
+		<row row_number="13" isdata="1">דיה שעתה:<EndMishna/><StartGemara/>גמ' תניא אמר לו רבי אליעזר</row>
 		<row row_number="14" isdata="1">לרבי יהושע אתה לא שמעת אני שמעתי</row>
 		<row row_number="15" isdata="1">אתה לא שמעת אלא אחת ואני שמעתי</row>
 		<row row_number="16" isdata="1">הרבה אין אומרים למי שלא ראה את החדש</row>

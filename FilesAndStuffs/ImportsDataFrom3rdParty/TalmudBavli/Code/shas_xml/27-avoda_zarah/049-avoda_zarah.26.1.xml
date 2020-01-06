@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:29.059190</dateCreated>
-   <lastModified>2019-12-21 21:42:29.059190</lastModified>
+   <dateCreated>2020-01-06 09:34:24.266378</dateCreated>
+   <lastModified>2020-01-06 09:34:24.266378</lastModified>
  </meta>
  <masechet name="עבודה זרה" serial="27">
 <daf value="26">
@@ -22,12 +22,12 @@
 		<row row_number="8" isdata="1">חד גירדנא דלא אתא לשרויה שמתיה אכלי'</row>
 		<row row_number="9" isdata="1">אריא היינו דאמרי אינשי גירדנא דלא טייזן</row>
 		<row row_number="10" isdata="1">שתא בציר משני תא חזי מה בין גנבי בבל</row>
-		<row row_number="11" isdata="1">ולסטין דארץ ישראלמתני' בת ישראל</row>
+		<row row_number="11" isdata="1">ולסטין דארץ ישראל<EndGemara/><StartMishna/>מתני' בת ישראל</row>
 		<row row_number="12" isdata="1">לא תיילד את העובדת כוכבים מפני שמילדת</row>
 		<row row_number="13" isdata="1">בן לעבודת כוכבים אבל עובדת כוכבים</row>
 		<row row_number="14" isdata="1">מילדת בת ישראל בת ישראל לא תניק</row>
 		<row row_number="15" isdata="1">בנה של עובדת כוכבים אבל עובדת כוכבי'</row>
-		<row row_number="16" isdata="1">מניקה בנה של ישראל ברשותה<EndMishna/><StartGemara/>גמ' ת"ר</row>
+		<row row_number="16" isdata="1">מניקה בנה של ישראל ברשותה:<EndMishna/><StartGemara/>גמ' ת"ר</row>
 		<row row_number="17" isdata="1">בת ישראל לא תיילד את העובדת כוכבים</row>
 		<row row_number="18" isdata="1">מפני שמילדת בן לעבודת כוכבים ועובדת</row>
 		<row row_number="19" isdata="1">כוכבים לא תיילד את בת ישראל מפני</row>
@@ -41,8 +41,8 @@
 		<row row_number="27" isdata="1">בת מולדא יהודייתא אמרה לה נפישין</row>
 		<row row_number="28" isdata="1">בישתא דההיא איתתא דקא משפילנא</row>
 		<row row_number="29" isdata="1">מינייהו דמא כי אופיא דנהרא ורבנן א"ל לא</row>
-		<row row_number="30" isdata="1">היא במילתא בעלמא הוא דאוקימתה בת</row>
-		<row row_number="31" isdata="1">ישראל לא תניק ת"ר בת ישראל לא תניק בנה</row>
+		<row row_number="30" isdata="1">היא במילתא בעלמא הוא דאוקימתה: בת</row>
+		<row row_number="31" isdata="1">ישראל לא תניק: ת"ר בת ישראל לא תניק בנה</row>
 		<row row_number="32" isdata="1">של עובדת כוכבים מפני שמגדלת בן לעבודת</row>
 		<row row_number="33" isdata="1">כוכבים ועובדת כוכבים לא תניק את בנה של</row>
 		<row row_number="34" isdata="1">בת ישראל מפני שחשודה על שפיכות דמים</row>

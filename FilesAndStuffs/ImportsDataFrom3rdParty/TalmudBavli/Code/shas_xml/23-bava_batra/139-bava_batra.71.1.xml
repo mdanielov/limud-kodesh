@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:22.262792</dateCreated>
-   <lastModified>2019-12-21 21:42:22.262792</lastModified>
+   <dateCreated>2020-01-06 09:33:52.013519</dateCreated>
+   <lastModified>2020-01-06 09:33:52.013519</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="71">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הבית"/><ContGemara/>איפכא מתנינן להמתני' לא את הבור</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הבית"/><ContGemara/>איפכא מתנינן לה:מתני' לא את הבוראיפכא מתנינן לה<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">ולא את הגת ולא את השובך בין חרבין בין</row>
 		<row row_number="3" isdata="1">ישובין וצריך ליקח לו דרך דברי ר"ע וחכ"א</row>
 		<row row_number="4" isdata="1">אינו צריך ומודה ר"ע בזמן שאמר לו חוץ</row>
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">החזיק בכולה המקדיש את השדה הקדיש</row>
 		<row row_number="11" isdata="1">את כולה ר"ש אומר המקדיש את השדה</row>
 		<row row_number="12" isdata="1">לא הקדיש אלא את החרוב המורכב ואת</row>
-		<row row_number="13" isdata="1">סדן השקמה<EndMishna/><StartGemara/>גמ' מאי שנא מכר ומאי שנא</row>
+		<row row_number="13" isdata="1">סדן השקמה:<EndMishna/><StartGemara/>גמ' מאי שנא מכר ומאי שנא</row>
 		<row row_number="14" isdata="1">מתנה פירש יהודה בן נקוסא לפני רבי זה</row>
 		<row row_number="15" isdata="1">פירש וזה לא פירש האי זה פירש וזה לא</row>
 		<row row_number="16" isdata="1">פירש זה לא פירש וזה לא פירש הוא אלא</row>
@@ -33,8 +33,8 @@
 		<row row_number="19" isdata="1">דמחזיק מאה גולפי אשתכח דהוה מחזיק</row>
 		<row row_number="20" isdata="1">מאה ועשרין אמר מר זוטרא מאה אמר ליה מאה ועשרין לא אמר ליה רב אשי</row>
 		<row row_number="21" isdata="1">אמר מי לא תנן במה דברים אמורים במוכר אבל בנותן מתנה נותן את כולן</row>
-		<row row_number="22" isdata="1">אלמא מאן דיהיב מתנה בעין יפה יהיב ה"נ מאן דיהיב מתנה בעין יפה יהיב</row>
-		<row row_number="23" isdata="1">המקדיש את השדה הקדיש וכו' אמר רב הונא אע"ג דאמור רבנן הקונה</row>
+		<row row_number="22" isdata="1">אלמא מאן דיהיב מתנה בעין יפה יהיב ה"נ מאן דיהיב מתנה בעין יפה יהיב:</row>
+		<row row_number="23" isdata="1">המקדיש את השדה הקדיש וכו': אמר רב הונא אע"ג דאמור רבנן הקונה</row>
 		<row row_number="24" isdata="1">שני אילנות בתוך של חבירו הרי זה לא קנה קרקע מכר קרקע ושייר שני</row>
 		<row row_number="25" isdata="1">אילנות לפניו יש לו קרקע ואפי' לר"ע דאמר מוכר בעין יפה מוכר הני מילי</row>
 		<row row_number="26" isdata="1">גבי בור ודות דלא קא מכחשי בארעא אבל אילנות דקא מכחשי בארעא</row>

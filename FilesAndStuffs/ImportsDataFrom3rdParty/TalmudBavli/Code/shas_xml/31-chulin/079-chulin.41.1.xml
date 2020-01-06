@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:36.018381</dateCreated>
-   <lastModified>2019-12-21 21:42:36.018381</lastModified>
+   <dateCreated>2020-01-06 09:34:55.088483</dateCreated>
+   <lastModified>2020-01-06 09:34:55.088483</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="41">
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">בישראל מומר אמר ליה רב אחא בריה דרבא</row>
 		<row row_number="24" isdata="1">לרב אשי התרו בו וקבל עליו התראה מאי</row>
 		<row row_number="25" isdata="1">אמר ליה התיר עצמו למיתה קאמרת אין לך</row>
-		<row row_number="26" isdata="1">מומר גדול מזהמתני' אין שוחטין לא</row>
+		<row row_number="26" isdata="1">מומר גדול מזה<EndGemara/><StartMishna/>מתני' אין שוחטין לא</row>
 		<row row_number="27" isdata="1">לתוך ימים ולא לתוך נהרות ולא לתוך כלים</row>
 		<row row_number="28" isdata="1">אבל שוחט הוא לתוך עוגה של מים</row>
 		<row row_number="29" isdata="1">ובספינה על גבי כלים אין שוחטין לגומא כל</row>

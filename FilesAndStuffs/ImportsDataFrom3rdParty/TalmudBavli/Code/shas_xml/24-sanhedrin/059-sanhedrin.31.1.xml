@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:25.523745</dateCreated>
-   <lastModified>2019-12-21 21:42:25.523745</lastModified>
+   <dateCreated>2020-01-06 09:34:07.218253</dateCreated>
+   <lastModified>2020-01-06 09:34:07.218253</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="31">
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">גוונא מי אמר לא צריכא לדמי אחד אומר</row>
 		<row row_number="20" isdata="1">בדיוטא העליונה ואחד אומר בדיוטא</row>
 		<row row_number="21" isdata="1">התחתונה אמר רבי חנינא מעשה בא לפני</row>
-		<row row_number="22" isdata="1">רבי וצירף עדותן ומניין לכשיצא כו'</row>
+		<row row_number="22" isdata="1">רבי וצירף עדותן: ומניין לכשיצא כו':</row>
 		<row row_number="23" isdata="1">תנו רבנן מניין לכשיצא לא יאמר הריני</row>
 		<row row_number="24" isdata="1">מזכה וחבירי מחייבין אבל מה אעשה</row>
 		<row row_number="25" isdata="1">שחבירי רבו עלי תלמוד לומר לא תלך</row>
@@ -41,7 +41,7 @@
 		<row row_number="27" isdata="1">ההוא תלמידא דנפיק עליה קלא דגלי</row>
 		<row row_number="28" isdata="1">מילתא דאיתמר בי מדרשא בתר עשרין</row>
 		<row row_number="29" isdata="1">ותרתין שנין אפקיה רב אמי מבי מדרשא</row>
-		<row row_number="30" isdata="1">אמר דין גלי רזיאמתני' כל זמן שמביא</row>
+		<row row_number="30" isdata="1">אמר דין גלי רזיא<EndGemara/><StartMishna/>מתני' כל זמן שמביא</row>
 		<row row_number="31" isdata="1">ראיה סותר את הדין אמר לו כל ראיות</row>
 		<row row_number="32" isdata="1">שיש לך הבא מיכן עד שלשים יום מצא</row>
 		<row row_number="33" isdata="1">בתוך שלשים יום סותר לאחר שלשים יום</row>
@@ -51,10 +51,10 @@
 		<row row_number="37" isdata="1">הרי זה אינו כלום אמר רשב"ג מה יעשה זה שלא היה יודע שיש לו עדים</row>
 		<row row_number="38" isdata="1">ומצא עדים לא היה יודע שיש לו ראיה ומצא ראיה ראה שמתחייב בדין</row>
 		<row row_number="39" isdata="1">ואמר קרבו פלוני ופלוני ויעידוני או שהוציא ראיה מתחת פונדתו הרי זה אינו</row>
-		<row row_number="40" isdata="1">כלום<EndMishna/><StartGemara/>גמ' אמר רבה בר רב הונא הלכה כרשב"ג ואמר רבה בר רב הונא</row>
+		<row row_number="40" isdata="1">כלום:<EndMishna/><StartGemara/>גמ' אמר רבה בר רב הונא הלכה כרשב"ג ואמר רבה בר רב הונא</row>
 		<row row_number="41" isdata="1">אין הלכה כדברי חכמים פשיטא כיון דאמר הלכה כרשב"ג ממילא ידענא</row>
 		<row row_number="42" isdata="1">דאין הלכה כחכמים מהו דתימא הני מילי לכתחילה אבל דיעבד שפיר דמי</row>
-		<row row_number="43" isdata="1">קמ"ל דאי עביד מהדרינן ליה אמר לו הבא עדים כו' אמר רשב"ג כו' אמר</row>
+		<row row_number="43" isdata="1">קמ"ל דאי עביד מהדרינן ליה: אמר לו הבא עדים כו' אמר רשב"ג כו': אמר</row>
 		<row row_number="44" isdata="1">רבה בר רב הונא א"ר יוחנן הלכה כדברי חכמים ואמר רבה בר רב הונא</row>
 		<row row_number="45" isdata="1">אמר רבי יוחנן אין הלכה כרשב"ג פשיטא כיון דאמר הלכה כדברי חכמים</row>
 		<row row_number="46" isdata="1">ממילא ידענא דאין הלכה כרשב"ג הא קמ"ל דבההיא אין הלכה כרשב"ג הא</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:37.363577</dateCreated>
-   <lastModified>2019-12-21 21:42:37.363577</lastModified>
+   <dateCreated>2020-01-06 09:35:00.213914</dateCreated>
+   <lastModified>2020-01-06 09:35:00.213914</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="93">
@@ -50,8 +50,8 @@
 		<row row_number="36" isdata="1">פפא ולא פליגי כאן להלקותו כאן לעברו</row>
 		<row row_number="37" isdata="1">אמר מר זוטרא כשעורה במקום אחד כזית</row>
 		<row row_number="38" isdata="1">אפילו בב' ובג' מקומות והלכתא להלקותו</row>
-		<row row_number="39" isdata="1">בכזית לעברו בכשעורה אין הטבחין</row>
-		<row row_number="40" isdata="1">נאמנין [וכו'] א"ר חייא בר אבא א"ר</row>
+		<row row_number="39" isdata="1">בכזית לעברו בכשעורה: אין הטבחין</row>
+		<row row_number="40" isdata="1">נאמנין [וכו']: א"ר חייא בר אבא א"ר</row>
 		<row row_number="41" isdata="1">יוחנן חזרו לומר נאמנין אמר רב נחמן</row>
 		<row row_number="42" isdata="1">אכשור דרי מעיקרא דהוו סברי לה כרבי</row>
 		<row row_number="43" isdata="1">מאיר לא הוו מהימני ולבסוף סברי כרבי</row>
@@ -62,10 +62,10 @@
 		<row row_number="48" isdata="1">מעיקרא סברוה כרבי יהודה הדר סברוה</row>
 		<row row_number="49" isdata="1">כרבי מאיר כמה דהוו דכירי לה לדרבי</row>
 		<row row_number="50" isdata="1">יהודה לא מהימני והשתא דאנשיוה</row>
-		<row row_number="51" isdata="1">לדרבי יהודה מהימני ועל החלב חלב</row>
+		<row row_number="51" isdata="1">לדרבי יהודה מהימני: ועל החלב: חלב</row>
 		<row row_number="52" isdata="1">מאן דכר שמיה הכי קאמר אין נאמנין</row>
-		<row row_number="53" isdata="1">עליו ועל החלב וחכמים אומרים נאמנין עליו ועל החלבמתני' שולח</row>
-		<row row_number="54" isdata="1">אדם ירך לעובד כוכבים שגיד הנשה בתוכה מפני שמקומו ניכר</row>
+		<row row_number="53" isdata="1">עליו ועל החלב וחכמים אומרים נאמנין עליו ועל החלב<EndGemara/><StartMishna/>מתני' שולח</row>
+		<row row_number="54" isdata="1">אדם ירך לעובד כוכבים שגיד הנשה בתוכה מפני שמקומו ניכר:</row>
 		<row row_number="55" isdata="1"><EndMishna/><StartGemara/>גמ' שלמה אין חתוכה לא במאי עסקינן אילימא במקום שאין מכריזין</row>
 </amud>
 </daf>

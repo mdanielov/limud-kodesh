@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.550976</dateCreated>
-   <lastModified>2019-12-21 21:41:49.550976</lastModified>
+   <dateCreated>2020-01-06 09:31:06.726033</dateCreated>
+   <lastModified>2020-01-06 09:31:06.726033</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="84">
@@ -26,11 +26,11 @@
 		<row row_number="12" isdata="1">וכל כלי פתוח אשר אין צמיד פתיל עליו</row>
 		<row row_number="13" isdata="1">הא יש צמיד פתיל עליו טהור הוא מי לא</row>
 		<row row_number="14" isdata="1">עסקינן דיחדינהו לאשתו נדה וקאמר רחמנא</row>
-		<row row_number="15" isdata="1">טהורמתני' מנין לערוגה שהיא ששה על</row>
+		<row row_number="15" isdata="1">טהור<EndGemara/><StartMishna/>מתני' מנין לערוגה שהיא ששה על</row>
 		<row row_number="16" isdata="1">ששה טפחים שזורעין בתוכה חמשה זרעונין</row>
 		<row row_number="17" isdata="1">ד' על ד' רוחות הערוגה ואחת באמצע שנא'</row>
 		<row row_number="18" isdata="1">כי כארץ תוציא צמחה וכגנה זרועיה תצמיח</row>
-		<row row_number="19" isdata="1">זרעה לא נאמר אלא זרועיה<EndMishna/><StartGemara/>גמ' מאי</row>
+		<row row_number="19" isdata="1">זרעה לא נאמר אלא זרועיה:<EndMishna/><StartGemara/>גמ' מאי</row>
 		<row row_number="20" isdata="1">משמע אמר רב יהודה כי כארץ תוציא</row>
 		<row row_number="21" isdata="1">צמחה תוציא חד צמחה חד הרי תרי זרועיה</row>
 		<row row_number="22" isdata="1">תרי הא ארבע תצמיח חד הא חמשה</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:53.795286</dateCreated>
-   <lastModified>2019-12-21 21:41:53.795286</lastModified>
+   <dateCreated>2020-01-06 09:31:22.819621</dateCreated>
+   <lastModified>2020-01-06 09:31:22.819621</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="89">
@@ -15,14 +15,14 @@
 		<row row_number="1" isdata="1"><ContChapter name = "המוציא יין"/><ContGemara/>לא שנו אלא שלא עירבו אבל עירבו</row>
 		<row row_number="2" isdata="1">מותרין וכי לא עירבו מאי טעמא לא אמר</row>
 		<row row_number="3" isdata="1">רב אשי גזירה דילמא אתי לאפוקי ממאני</row>
-		<row row_number="4" isdata="1">דבתים להתם<EndChapter name = "המוציא יין"/><EndGemara/></row>
+		<row row_number="4" isdata="1">דבתים להתם:<EndChapter name = "המוציא יין"/><EndGemara/></row>
 		<row row_number="5" isdata="0">הדרן עלך כיצד משתתפין</row>
 		<row row_number="6" isdata="1"><StartChapter name = "אמר רבי עקיבא"/><StartMishna/>כל גגות העיר רשות אחת ובלבד שלא</row>
 		<row row_number="7" isdata="1">יהא גג גבוה י' או נמוך י' דברי</row>
 		<row row_number="8" isdata="1">ר"מ וחכ"א כל אחד ואחד רשות בפני עצמו</row>
 		<row row_number="9" isdata="1">רבי שמעון אומר אחד גגות ואחד חצירות</row>
 		<row row_number="10" isdata="1">ואחד קרפיפות רשות אחת הן לכלים ששבתו</row>
-		<row row_number="11" isdata="1">לתוכן ולא לכלים ששבתו בתוך הבית</row>
+		<row row_number="11" isdata="1">לתוכן ולא לכלים ששבתו בתוך הבית:</row>
 		<row row_number="12" isdata="1"><EndMishna/><StartGemara/>גמ' יתיב אביי בר אבין ורבי חנינא בר אבין</row>
 		<row row_number="13" isdata="1">ויתיב אביי גבייהו ויתבי וקאמרי בשלמא</row>
 		<row row_number="14" isdata="1">רבנן סברי כשם שדיורין חלוקין למטה כך</row>
@@ -45,8 +45,8 @@
 		<row row_number="31" isdata="1">לעצמן חצירות רשות לעצמן קרפיפות רשות</row>
 		<row row_number="32" isdata="1">לעצמן מאי לאו דשרי לטלטולי דרך כותל</row>
 		<row row_number="33" isdata="1">אמר רב הונא בר יהודה אמר רב ששת לא</row>
-		<row row_number="34" isdata="1">להכניס ולהוציא דרך פתחים וחכ"א כל</row>
-		<row row_number="35" isdata="1">אחד ואחד רשות בפני עצמו איתמר רב</row>
+		<row row_number="34" isdata="1">להכניס ולהוציא דרך פתחים: וחכ"א כל</row>
+		<row row_number="35" isdata="1">אחד ואחד רשות בפני עצמו: איתמר רב</row>
 		<row row_number="36" isdata="1">אמר אין מטלטלין בו אלא בד' אמות ושמואל</row>
 		<row row_number="37" isdata="1">אמר מותר לטלטל בכולו במחיצות הניכרות</row>
 		<row row_number="38" isdata="1">דכולי עלמא לא פליגי כי פליגי במחיצות</row>

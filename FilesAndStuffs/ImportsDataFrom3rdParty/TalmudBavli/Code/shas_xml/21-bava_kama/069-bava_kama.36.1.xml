@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.001485</dateCreated>
-   <lastModified>2019-12-21 21:42:16.001485</lastModified>
+   <dateCreated>2020-01-06 09:33:23.609448</dateCreated>
+   <lastModified>2020-01-06 09:33:23.609448</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="36">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "המניח"/><ContGemara/>ראוי ליטול ואין לו והתניא הרי זה משתלם</row>
-		<row row_number="2" isdata="1">לקטן מן המועד ולגדול מן התם דתפס היו</row>
-		<row row_number="3" isdata="1">שניהם של איש אחד שניהם חייבים א"ל</row>
+		<row row_number="2" isdata="1">לקטן מן המועד ולגדול מן התם דתפס: היו</row>
+		<row row_number="3" isdata="1">שניהם של איש אחד שניהם חייבים: א"ל</row>
 		<row row_number="4" isdata="1">רבא מפרזיקא לרב אשי ש"מ שוורים תמים</row>
 		<row row_number="5" isdata="1">שהזיקו רצה מזה גובה רצה מזה גובה הכא</row>
 		<row row_number="6" isdata="1">במאי עסקינן במועדין אי במועדין אימא סיפא</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">היא דאמר שותפין נינהו וטעמא דאיתנהו</row>
 		<row row_number="16" isdata="1">לתרוייהו דלא מצי מדחי ליה אבל ליתנהו</row>
 		<row row_number="17" isdata="1">לתרוייהו מצי אמר ליה זיל אייתי ראיה דהאי</row>
-		<row row_number="18" isdata="1">תורא אזקך ואשלם לך<EndChapter name = "המניח"/><EndGemara/></row>
+		<row row_number="18" isdata="1">תורא אזקך ואשלם לך:<EndChapter name = "המניח"/><EndGemara/></row>
 		<row row_number="19" isdata="0">הדרן עלך המניח</row>
 		<row row_number="20" isdata="1"><StartChapter name = "שור שנגח ארבעה וחמשה"/><StartMishna/>שור שנגח ארבעה וחמשה שוורים זה אחר</row>
 		<row row_number="21" isdata="1">זה ישלם לאחרון שבהם ואם יש בו</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">נוטל חמשים זוז וזה נוטל חמשים זוז חזר ונגח</row>
 		<row row_number="29" isdata="1">שור אחר שוה מאתים האחרון נוטל מנה</row>
 		<row row_number="30" isdata="1">ושלפניו חמשים זוז ושנים הראשונים דינר</row>
-		<row row_number="31" isdata="1">זהב<EndMishna/><StartGemara/>גמ' מתניתין מני דלא כר' ישמעאל</row>
+		<row row_number="31" isdata="1">זהב:<EndMishna/><StartGemara/>גמ' מתניתין מני דלא כר' ישמעאל</row>
 		<row row_number="32" isdata="1">ודלא כר' עקיבא אי כר' ישמעאל דאמר</row>
 		<row row_number="33" isdata="1">בעלי חובות נינהו האי אחרון אחרון נשכר</row>
 		<row row_number="34" isdata="1">ראשון ראשון נשכר מבעי ליה אי כר' עקיבא</row>

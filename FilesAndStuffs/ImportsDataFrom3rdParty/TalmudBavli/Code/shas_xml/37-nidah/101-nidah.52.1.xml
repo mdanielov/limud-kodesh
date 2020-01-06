@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.181286</dateCreated>
-   <lastModified>2019-12-21 21:42:42.181286</lastModified>
+   <dateCreated>2020-01-06 09:35:27.514273</dateCreated>
+   <lastModified>2020-01-06 09:35:27.514273</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="52">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "בא סימן"/><ContGemara/>ריחנימתני' תינוקת שהביאה שתי שערות</row>
+		<row row_number="1" isdata="1"><ContChapter name = "בא סימן"/><ContGemara/>ריחני:מתני' תינוקת שהביאה שתי שערותריחני<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">או חולצת או מתיבמת וחייבת בכל מצות</row>
 		<row row_number="3" isdata="1">האמורות בתורה וכן תינוק שהביא שתי</row>
 		<row row_number="4" isdata="1">שערות חייב בכל מצות האמורות בתורה</row>
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">שערות עד שיקיף זקן התחתון ולא העליון</row>
 		<row row_number="7" isdata="1">אלא שדברו חכמים בלשון נקיה תינוקת</row>
 		<row row_number="8" isdata="1">שהביאה שתי שערות אינה יכולה למאן רבי</row>
-		<row row_number="9" isdata="1">יהודה אומר עד שירבה השחור<EndMishna/><StartGemara/>גמ' וכיון</row>
+		<row row_number="9" isdata="1">יהודה אומר עד שירבה השחור:<EndMishna/><StartGemara/>גמ' וכיון</row>
 		<row row_number="10" isdata="1">דתנן חייבת בכל מצות האמורות בתורה או</row>
 		<row row_number="11" isdata="1">חולצת או מתיבמת למה לי לאפוקי מדרבי</row>
 		<row row_number="12" isdata="1">יוסי דאמר איש כתוב בפרשה אבל אשה בין</row>
@@ -33,8 +33,8 @@
 		<row row_number="19" isdata="1">סורר ומורה משיביא שתי שערות ועד שיקיף</row>
 		<row row_number="20" isdata="1">זקן התחתון ולא העליון אלא שדברו חכמים</row>
 		<row row_number="21" isdata="1">בלשון נקיה אין ה"נ אלא איידי דפריש מילי</row>
-		<row row_number="22" isdata="1">דתינוקת קמפרש נמי מילי דתינוק תינוקת</row>
-		<row row_number="23" isdata="1">שהביאה כו' א"ר אבהו א"ר אלעזר הלכה</row>
+		<row row_number="22" isdata="1">דתינוקת קמפרש נמי מילי דתינוק: תינוקת</row>
+		<row row_number="23" isdata="1">שהביאה כו': א"ר אבהו א"ר אלעזר הלכה</row>
 		<row row_number="24" isdata="1">כרבי יהודה ומודה רבי יהודה שאם נבעלה</row>
 		<row row_number="25" isdata="1">לאחר שהביאה שתי שערות שוב אינה יכולה</row>
 		<row row_number="26" isdata="1">למאן חברוהי דרב כהנא סבור למעבד עובדא</row>

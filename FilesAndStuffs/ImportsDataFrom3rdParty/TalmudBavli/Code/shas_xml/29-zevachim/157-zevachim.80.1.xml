@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.987766</dateCreated>
-   <lastModified>2019-12-21 21:42:31.987766</lastModified>
+   <dateCreated>2020-01-06 09:34:37.236325</dateCreated>
+   <lastModified>2020-01-06 09:34:37.236325</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="80">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים שנתערבו"/><ContGemara/>הניתנין במתנה אחת שנתערבו בניתנין</row>
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים שנתערבו"/><ContMishna/>הניתנין במתנה אחת שנתערבו בניתנין</row>
 		<row row_number="2" isdata="1">במתנה אחת ינתנו במתנה אחת (מהן)</row>
 		<row row_number="3" isdata="1">מתן ארבע במתן ארבע ינתנו במתן ארבע</row>
 		<row row_number="4" isdata="1">מתן ארבע במתנה אחת ר"א אומר ינתנו</row>
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">יהושע לא נאמר בל תגרע אלא כשהוא</row>
 		<row row_number="11" isdata="1">בעצמו ועוד א"ר יהושע כשנתת עברת על</row>
 		<row row_number="12" isdata="1">בל תוסיף ועשית מעשה בידך כשלא נתת</row>
-		<row row_number="13" isdata="1">עברת על בל תגרע ולא עשית מעשה בידך</row>
+		<row row_number="13" isdata="1">עברת על בל תגרע ולא עשית מעשה בידך:</row>
 		<row row_number="14" isdata="1"><EndMishna/><StartGemara/>גמ' א"ר אלעזר לא הכשיר ר"א אלא שנים</row>
 		<row row_number="15" isdata="1">שנים אבל אחד אחד לא מתיב רב דימי</row>
 		<row row_number="16" isdata="1">וחכמים אומרים אפילו קרבו כולן חוץ מאחד</row>

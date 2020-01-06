@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:59.340752</dateCreated>
-   <lastModified>2019-12-21 21:41:59.340752</lastModified>
+   <dateCreated>2020-01-06 09:31:55.547570</dateCreated>
+   <lastModified>2020-01-06 09:31:55.547570</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="21">
@@ -38,8 +38,8 @@
 		<row row_number="24" isdata="1">(הא) ואתי אהל עראי ומבטל אהל קבע</row>
 		<row row_number="25" isdata="1">(אין) בהא פליגי מר סבר אתי אהל עראי</row>
 		<row row_number="26" isdata="1">ומבטל אהל קבע ומר סבר לא אתי אהל</row>
-		<row row_number="27" isdata="1">עראי ומבטל אהל קבע א"ר שמעון מעשה</row>
-		<row row_number="28" isdata="1">בטבי עבדו תניא א"ר שמעון משיחתו של</row>
+		<row row_number="27" isdata="1">עראי ומבטל אהל קבע: א"ר שמעון מעשה</row>
+		<row row_number="28" isdata="1">בטבי עבדו: תניא א"ר שמעון משיחתו של</row>
 		<row row_number="29" isdata="1">רבן גמליאל למדנו שני דברים למדנו</row>
 		<row row_number="30" isdata="1">שעבדים פטורים מן הסוכה ולמדנו שהישן</row>
 		<row row_number="31" isdata="1">תחת המטה לא יצא ידי חובתו ולימא</row>
@@ -48,9 +48,9 @@
 		<row row_number="34" isdata="1">ואמרי לה אמר רב אחא בר אדא אמר רב</row>
 		<row row_number="35" isdata="1">המנונא אמר רב מנין שאפי' שיחת תלמידי</row>
 		<row row_number="36" isdata="1">חכמים צריכה לימוד שנאמר ועלהו לא</row>
-		<row row_number="37" isdata="1">יבולמתני' הסומך סוכתו בכרעי המטה</row>
+		<row row_number="37" isdata="1">יבול<EndGemara/><StartMishna/>מתני' הסומך סוכתו בכרעי המטה</row>
 		<row row_number="38" isdata="1">כשרה ר' יהודה אומר אם אינה יכולה לעמוד</row>
-		<row row_number="39" isdata="1">בפני עצמה פסולה<EndMishna/><StartGemara/>גמ' מ"ט דר' יהודה</row>
+		<row row_number="39" isdata="1">בפני עצמה פסולה:<EndMishna/><StartGemara/>גמ' מ"ט דר' יהודה</row>
 		<row row_number="40" isdata="1">פליגי בה רבי זירא ורבי אבא בר ממל חד</row>
 		<row row_number="41" isdata="1">אמר מפני שאין לה קבע וחד אמר מפני</row>
 		<row row_number="42" isdata="1">שמעמידה בדבר המקבל טומאה מאי בינייהו</row>
@@ -60,7 +60,7 @@
 		<row row_number="46" isdata="1">בדבר המקבל טומאה הרי מעמידה בדבר המקבל טומאה אמר</row>
 		<row row_number="47" isdata="1">אביי לא שנו אלא סמך אבל סיכך על גב המטה כשרה מאי טעמא</row>
 		<row row_number="48" isdata="1">למאן דאמר לפי שאין לה קבע הרי יש לה קבע למאן דאמר מפני</row>
-		<row row_number="49" isdata="1">שמעמידה בדבר המקבל טומאה הרי אין מעמידה בדבר המקבל טומאה</row>
+		<row row_number="49" isdata="1">שמעמידה בדבר המקבל טומאה הרי אין מעמידה בדבר המקבל טומאה:</row>
 </amud>
 </daf>
 </masechet>

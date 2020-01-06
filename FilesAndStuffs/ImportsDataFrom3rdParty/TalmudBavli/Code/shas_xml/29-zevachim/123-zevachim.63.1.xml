@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.604779</dateCreated>
-   <lastModified>2019-12-21 21:42:31.604779</lastModified>
+   <dateCreated>2020-01-06 09:34:35.758981</dateCreated>
+   <lastModified>2020-01-06 09:34:35.758981</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="63">
@@ -15,10 +15,10 @@
 		<row row_number="1" isdata="1"><ContChapter name = "קדשי קדשים"/><ContGemara/>אמר רמי בר חמא כל כבשי כבשים</row>
 		<row row_number="2" isdata="1">שלש אמות לאמה חוץ מכבשו של מזבח</row>
 		<row row_number="3" isdata="1">שהיה שלש אמות ומחצה ואצבע ושליש</row>
-		<row row_number="4" isdata="1">אצבע בזכרותאמתני' מנחות היו</row>
+		<row row_number="4" isdata="1">אצבע בזכרותא<EndGemara/><StartMishna/>מתני' מנחות היו</row>
 		<row row_number="5" isdata="1">נקמצות בכל מקום בעזרה ונאכלות לפנים</row>
 		<row row_number="6" isdata="1">מן הקלעים לזכרי כהונה בכל מאכל ליום</row>
-		<row row_number="7" isdata="1">ולילה עד חצות<EndMishna/><StartGemara/>גמ' א"ר אלעזר מנחה</row>
+		<row row_number="7" isdata="1">ולילה עד חצות:<EndMishna/><StartGemara/>גמ' א"ר אלעזר מנחה</row>
 		<row row_number="8" isdata="1">שנקמצה בהיכל כשירה שכן מצינו בסילוק</row>
 		<row row_number="9" isdata="1">בזיכין מתיב רבי ירמיה וקמץ משם ממקום</row>
 		<row row_number="10" isdata="1">שרגלי הזר עומדות בן בתירא אומר מנין שאם</row>
@@ -49,7 +49,7 @@
 		<row row_number="35" isdata="1">עובד במקום רבו אמרינן לא יהא טפל</row>
 		<row row_number="36" isdata="1">חמור מן העיקר אכילה דאין אדם אוכל</row>
 		<row row_number="37" isdata="1">במקום רבו לא יהא טפל חמור מן</row>
-		<row row_number="38" isdata="1">העיקר לא אמרינןמתני' חטאת העוף</row>
+		<row row_number="38" isdata="1">העיקר לא אמרינן<EndGemara/><StartMishna/>מתני' חטאת העוף</row>
 		<row row_number="39" isdata="1">היתה נעשית על קרן דרומית מערבית</row>
 		<row row_number="40" isdata="1">ובכל מקום היתה כשירה אלא זה היתה</row>
 		<row row_number="41" isdata="1">מקומה ושלשה דברים היתה אותה קרן</row>

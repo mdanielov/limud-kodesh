@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.590728</dateCreated>
-   <lastModified>2019-12-21 21:42:07.590728</lastModified>
+   <dateCreated>2020-01-06 09:32:43.496349</dateCreated>
+   <lastModified>2020-01-06 09:32:43.496349</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="109">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "שני דייני גזירות "/><ContGemara/>תשב עד שתלבין ראשה אדמון אומר</row>
+		<row row_number="1" isdata="1"><ContChapter name = "שני דייני גזירות "/><ContMishna/>תשב עד שתלבין ראשה אדמון אומר</row>
 		<row row_number="2" isdata="1">יכולה היא שתאמר אילו אני פסקתי לעצמי</row>
 		<row row_number="3" isdata="1">אשב עד שתלבין ראשי עכשיו שאבא פסק</row>
 		<row row_number="4" isdata="1">מה אני יכולה לעשות או כנוס או פטור אמר</row>
-		<row row_number="5" isdata="1">רבן גמליאל רואה אני את דברי אדמון<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="5" isdata="1">רבן גמליאל רואה אני את דברי אדמון:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="6" isdata="1"><EndGemara/><StartMishna/>מתני' דלא כי האי תנא דתניא אמר רבי</row>
 		<row row_number="7" isdata="1">יוסי ברבי יהודה לא נחלקו אדמון וחכמים</row>
 		<row row_number="8" isdata="1">על הפוסק מעות לחתנו ופשט לו את הרגל</row>
@@ -51,10 +51,10 @@
 		<row row_number="37" isdata="1">את דברי אדמון הלכה כמותו אמר אין לא אמר לא אלא ה"ק שני דברי' שאמר</row>
 		<row row_number="38" isdata="1">חנן הלכה כמותו וכיוצא בו שבעה דברים שאמר אדמון יש מהן שהלכה</row>
 		<row row_number="39" isdata="1">כמותו וכיוצא בו ויש מהן שאין הלכה כמותו אלא כיוצא בו בכ"מ</row>
-		<row row_number="40" isdata="1">שאמר רבן גמליאל רואה אני את דברי אדמון הלכה כמותו אינך לא</row>
+		<row row_number="40" isdata="1">שאמר רבן גמליאל רואה אני את דברי אדמון הלכה כמותו אינך לא:</row>
 		<row row_number="41" isdata="1"><EndGemara/><StartMishna/>מתני' העורר על השדה והוא חתום עליה בעד אדמון אומר השני נוח</row>
 		<row row_number="42" isdata="1">לי והראשון קשה הימנו וחכמים אומרים איבד את זכותו עשאה סימן</row>
-		<row row_number="43" isdata="1">לאחר איבד את זכותו<EndMishna/><StartGemara/>גמ' אמר אביי לא שנו אלא עד אבל דיין לא</row>
+		<row row_number="43" isdata="1">לאחר איבד את זכותו:<EndMishna/><StartGemara/>גמ' אמר אביי לא שנו אלא עד אבל דיין לא</row>
 		<row row_number="44" isdata="1">איבד את זכותו דתני ר' חייא אין העדים חותמין על השטר אלא א"כ קראוהו</row>
 </amud>
 </daf>

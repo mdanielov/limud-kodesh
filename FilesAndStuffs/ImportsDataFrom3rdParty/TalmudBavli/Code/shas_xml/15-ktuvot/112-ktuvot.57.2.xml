@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.591729</dateCreated>
-   <lastModified>2019-12-21 21:42:06.591729</lastModified>
+   <dateCreated>2020-01-06 09:32:38.518508</dateCreated>
+   <lastModified>2020-01-06 09:32:38.518508</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="57">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "אף על פי"/><ContGemara/>אין האשה אוכלת בתרומה עד שתכנס</row>
-		<row row_number="2" isdata="1">לחופה<EndMishna/><StartGemara/>גמ' מנא הני מילי אמר רב חסדא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "אף על פי"/><ContMishna/>אין האשה אוכלת בתרומה עד שתכנס</row>
+		<row row_number="2" isdata="1">לחופה:<EndMishna/><StartGemara/>גמ' מנא הני מילי אמר רב חסדא</row>
 		<row row_number="3" isdata="1">דאמר קרא ויאמר אחיה ואמה תשב הנערה</row>
 		<row row_number="4" isdata="1">אתנו ימים או עשור מאי ימים אילימא תרי</row>
 		<row row_number="5" isdata="1">יומי משתעי איניש הכי אמרו ליה תרי</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">תיובתא דרב הונא תיובתא מאי ולארוסה</row>
 		<row row_number="37" isdata="1">שלשים יום אמר רב פפא הכי קאמר בוגרת</row>
 		<row row_number="38" isdata="1">שעברו עליה שנים עשר חדש בבגרות</row>
-		<row row_number="39" isdata="1">ונתקדשה נותנין לה שלשים יום כאלמנה הגיע זמן ולא נישאו</row>
+		<row row_number="39" isdata="1">ונתקדשה נותנין לה שלשים יום כאלמנה: הגיע זמן ולא נישאו:</row>
 		<row row_number="40" isdata="1">אמר עולא דבר תורה ארוסה בת ישראל אוכלת בתרומה שנאמר</row>
 		<row row_number="41" isdata="1">וכהן כי יקנה נפש קנין כספו והאי נמי קנין כספו הוא מה טעם אמרו</row>
 		<row row_number="42" isdata="1">אינה אוכלת שמא ימזגו לה כוס בבית אביה ותשקה לאחיה ולאחותה</row>

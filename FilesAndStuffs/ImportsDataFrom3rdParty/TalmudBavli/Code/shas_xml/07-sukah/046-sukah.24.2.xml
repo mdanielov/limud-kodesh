@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:59.387754</dateCreated>
-   <lastModified>2019-12-21 21:41:59.387754</lastModified>
+   <dateCreated>2020-01-06 09:31:55.820837</dateCreated>
+   <lastModified>2020-01-06 09:31:55.820837</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="24">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "הישן"/><ContGemara/>הרי עשויה בידי אדם אמר מר משום</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הישן"/><ContGemara/>הרי עשויה בידי אדם: אמר מר משום</row>
 		<row row_number="2" isdata="1">רבי יוסי הגלילי אמרו אף אין כותבין עליו</row>
 		<row row_number="3" isdata="1">גיטי נשים מ"ט דר' יוסי הגלילי דתניא ספר</row>
 		<row row_number="4" isdata="1">אין לי אלא ספר מנין לרבות כל דבר תלמוד</row>
@@ -32,9 +32,9 @@
 		<row row_number="18" isdata="1">גיטיך על מנת שלא תשתי יין ועל מנת שלא</row>
 		<row row_number="19" isdata="1">תלכי לבית אביך לעולם אין זה כריתות כל</row>
 		<row row_number="20" isdata="1">שלשים יום הרי זה כריתות ואידך מכרת</row>
-		<row row_number="21" isdata="1">כריתות נפקא ואידך כרת כריתות לא דרשי</row>
+		<row row_number="21" isdata="1">כריתות נפקא ואידך כרת כריתות לא דרשי:</row>
 		<row row_number="22" isdata="1"><EndGemara/><StartMishna/>מתני' העושה סוכתו בין האילנות</row>
-		<row row_number="23" isdata="1">והאילנות דפנות לה כשרה<EndMishna/><StartGemara/>גמ' אמר רב</row>
+		<row row_number="23" isdata="1">והאילנות דפנות לה כשרה:<EndMishna/><StartGemara/>גמ' אמר רב</row>
 		<row row_number="24" isdata="1">אחא בר יעקב כל מחיצה שאינה יכולה</row>
 		<row row_number="25" isdata="1">לעמוד ברוח מצויה אינה מחיצה תנן העושה</row>
 		<row row_number="26" isdata="1">סוכתו בין האילנות והאילנות דפנות לה</row>

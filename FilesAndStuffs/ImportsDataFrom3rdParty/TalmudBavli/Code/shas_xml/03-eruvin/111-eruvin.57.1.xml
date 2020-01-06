@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:52.963288</dateCreated>
-   <lastModified>2019-12-21 21:41:52.963288</lastModified>
+   <dateCreated>2020-01-06 09:31:19.753996</dateCreated>
+   <lastModified>2020-01-06 09:31:19.753996</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="57">
@@ -33,17 +33,17 @@
 		<row row_number="19" isdata="1">נכי תילתא הוי אמר ליה ה"מ בעיגולא</row>
 		<row row_number="20" isdata="1">מגו רבוע אבל באלכסונא בעינא טפי דאמר</row>
 		<row row_number="21" isdata="1">מר כל אמתא בריבוע אמתא ותרי חומשי</row>
-		<row row_number="22" isdata="1">באלכסונאמתני' נותנין קרפף לעיר</row>
+		<row row_number="22" isdata="1">באלכסונא<EndGemara/><StartMishna/>מתני' נותנין קרפף לעיר</row>
 		<row row_number="23" isdata="1">דברי רבי מאיר וחכ"א לא אמרו קרפף אלא</row>
 		<row row_number="24" isdata="1">בין שתי עיירות אם יש לזו שבעים אמה</row>
 		<row row_number="25" isdata="1">ושיריים ולזו שבעים אמה ושיריים עושה</row>
 		<row row_number="26" isdata="1">קרפף את שתיהן להיות אחד וכן ג' כפרים</row>
 		<row row_number="27" isdata="1">המשולשין אם יש בין שנים חיצונים מאה</row>
 		<row row_number="28" isdata="1">וארבעים ואחת ושליש עשה אמצעי את</row>
-		<row row_number="29" isdata="1">שלשתן להיות אחד<EndMishna/><StartGemara/>גמ' מנא הני מילי</row>
+		<row row_number="29" isdata="1">שלשתן להיות אחד:<EndMishna/><StartGemara/>גמ' מנא הני מילי</row>
 		<row row_number="30" isdata="1">אמר רבא דאמר קרא מקיר העיר וחוצה</row>
-		<row row_number="31" isdata="1">אמרה תורה תן חוצה ואחר כך מדוד</row>
-		<row row_number="32" isdata="1">וחכ"א לא אמרו וכו' איתמר רב הונא אמר</row>
+		<row row_number="31" isdata="1">אמרה תורה תן חוצה ואחר כך מדוד:</row>
+		<row row_number="32" isdata="1">וחכ"א לא אמרו וכו': איתמר רב הונא אמר</row>
 		<row row_number="33" isdata="1">נותנין קרפף לזו וקרפף לזו חייא בר רב אמר</row>
 		<row row_number="34" isdata="1">קרפף [א'] לשתיהן תנן וחכמים אומרים לא</row>
 		<row row_number="35" isdata="1">אמרו קרפף אלא בין ב' עיירות תיובתא דרב</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:57.815056</dateCreated>
-   <lastModified>2019-12-21 21:41:57.815056</lastModified>
+   <dateCreated>2020-01-06 09:31:41.587364</dateCreated>
+   <lastModified>2020-01-06 09:31:41.587364</lastModified>
  </meta>
  <masechet name="יומא" serial="06">
 <daf value="28">
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">אשי אף אנן נמי תנינא אמר להם הממונה</row>
 		<row row_number="20" isdata="1">צאו וראו אם הגיע זמן השחיטה ואילו זמן</row>
 		<row row_number="21" isdata="1">סידור גזירי עצים לא קתני הך דלית לה</row>
-		<row row_number="22" isdata="1">תקנתא קתני הך דאית לה תקנתא לא קתני<EndChapter name = "בראשונה"/><EndGemara/></row>
+		<row row_number="22" isdata="1">תקנתא קתני הך דאית לה תקנתא לא קתני:<EndChapter name = "בראשונה"/><EndGemara/></row>
 		<row row_number="23" isdata="0">הדרן עלך בראשונה</row>
 		<row row_number="24" isdata="1"><StartChapter name = "אמר להם הממונה"/><StartMishna/>אמר להם הממונה צאו וראו אם הגיע</row>
 		<row row_number="25" isdata="1">זמן השחיטה אם הגיע הרואה אומר</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">התמיד והוציאוהו לבית השריפה הורידו</row>
 		<row row_number="31" isdata="1">כ"ג לבית הטבילה זה הכלל היה במקדש</row>
 		<row row_number="32" isdata="1">כל המיסך את רגליו טעון טבילה וכל</row>
-		<row row_number="33" isdata="1">המטיל מים טעון קידוש ידים ורגלים</row>
+		<row row_number="33" isdata="1">המטיל מים טעון קידוש ידים ורגלים:</row>
 </amud>
 </daf>
 </masechet>

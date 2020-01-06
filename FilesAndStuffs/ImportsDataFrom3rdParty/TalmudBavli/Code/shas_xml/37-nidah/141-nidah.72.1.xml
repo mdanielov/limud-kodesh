@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.515282</dateCreated>
-   <lastModified>2019-12-21 21:42:42.515282</lastModified>
+   <dateCreated>2020-01-06 09:35:29.395586</dateCreated>
+   <lastModified>2020-01-06 09:35:29.395586</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="72">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "תינוקת "/><ContGemara/>וב"ה אומרים פטורים מן הקרבן טבלה ביום</row>
+		<row row_number="1" isdata="1"><ContChapter name = "תינוקת "/><ContMishna/>וב"ה אומרים פטורים מן הקרבן טבלה ביום</row>
 		<row row_number="2" isdata="1">של אחריו ושמשה את ביתה ואח"כ ראתה</row>
 		<row row_number="3" isdata="1">ב"ש אומרים מטמאין משכב ומושב ופטורין</row>
 		<row row_number="4" isdata="1">מן הקרבן וב"ה אומרים ה"ז גרגרן ומודים</row>
 		<row row_number="5" isdata="1">ברואה בתוך י"א יום וטבלה לערב ושמשה</row>
 		<row row_number="6" isdata="1">שמטמאין משכב ומושב וחייבין בקרבן</row>
 		<row row_number="7" isdata="1">טבלה ביום של אחריו ושמשה ה"ז תרבות</row>
-		<row row_number="8" isdata="1">רעה ומגען ובעילתן תלויין<EndMishna/><StartGemara/>גמ' ת"ר ושוין</row>
+		<row row_number="8" isdata="1">רעה ומגען ובעילתן תלויין:<EndMishna/><StartGemara/>גמ' ת"ר ושוין</row>
 		<row row_number="9" isdata="1">בטובלת לילה לזבה שאינה טבילה ושוין</row>
 		<row row_number="10" isdata="1">ברואה בתוך י"א יום וטבלה לערב ושמשה</row>
 		<row row_number="11" isdata="1">שמטמאה משכב ומושב וחייבין בקרבן לא</row>

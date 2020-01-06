@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:09.769983</dateCreated>
-   <lastModified>2019-12-21 21:42:09.769983</lastModified>
+   <dateCreated>2020-01-06 09:32:52.219029</dateCreated>
+   <lastModified>2020-01-06 09:32:52.219029</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="11">
@@ -28,10 +28,10 @@
 		<row row_number="14" isdata="1">צריכין שאלה לחכמים כי אמריתה קמיה</row>
 		<row row_number="15" isdata="1">דשמואל אמר לי תנא קתני התירו חכמים</row>
 		<row row_number="16" isdata="1">ואת אמרת צריכין שאלה לחכמים רבנן סברי</row>
-		<row row_number="17" isdata="1">כשמואל ור"ש כרב אסימתני' הריני</row>
+		<row row_number="17" isdata="1">כשמואל ור"ש כרב אסי<EndGemara/><StartMishna/>מתני' הריני</row>
 		<row row_number="18" isdata="1">נזיר ועלי לגלח נזיר ושמע חבירו ואמר ואני</row>
 		<row row_number="19" isdata="1">ועלי לגלח נזיר אם היו פקחים מגלחין זה</row>
-		<row row_number="20" isdata="1">את זה ואם לאו מגלחין נזירים אחרים</row>
+		<row row_number="20" isdata="1">את זה ואם לאו מגלחין נזירים אחרים:</row>
 		<row row_number="21" isdata="1"><EndMishna/><StartGemara/>גמ' איבעיא להו שמע חבירו ואמר ואני</row>
 		<row row_number="22" isdata="1">מהו ואני אכוליה דיבורא משמע או דלמא</row>
 		<row row_number="23" isdata="1">אפלגיה דדיבורא משמע את"ל אפלגיה</row>

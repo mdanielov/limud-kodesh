@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.209577</dateCreated>
-   <lastModified>2019-12-21 21:42:38.209577</lastModified>
+   <dateCreated>2020-01-06 09:35:03.589584</dateCreated>
+   <lastModified>2020-01-06 09:35:03.589584</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="129">
@@ -32,9 +32,9 @@
 		<row row_number="18" isdata="1">ור' שמעון מטהר אמר ר' יוחנן מ"ט דרבי</row>
 		<row row_number="19" isdata="1">שמעון אמר קרא מכל האוכל אשר יאכל</row>
 		<row row_number="20" isdata="1">אוכל שאתה יכול להאכילו לאחרים קרוי אוכל אוכל שאי אתה יכול להאכילו</row>
-		<row row_number="21" isdata="1">לאחרים אין קרוי אוכלמתני' האבר והבשר המדולדלין באדם טהורים</row>
+		<row row_number="21" isdata="1">לאחרים אין קרוי אוכל<EndGemara/><StartMishna/>מתני' האבר והבשר המדולדלין באדם טהורים</row>
 		<row row_number="22" isdata="1">מת האדם הבשר טהור האבר מטמא משום אבר מן החי ואינו מטמא משום</row>
-		<row row_number="23" isdata="1">אבר מן המת דברי ר' מאיר ורבי שמעון מטהר<EndMishna/><StartGemara/>גמ' ורבי שמעון מה</row>
+		<row row_number="23" isdata="1">אבר מן המת דברי ר' מאיר ורבי שמעון מטהר:<EndMishna/><StartGemara/>גמ' ורבי שמעון מה</row>
 		<row row_number="24" isdata="1">נפשך אי מיתה עושה ניפול ליטמא משום אבר מן החי ואי אין מיתה עושה</row>
 		<row row_number="25" isdata="1">ניפול ליטמא משום אבר מן המת ר' שמעון בעלמא קאי דקאמר תנא קמא</row>
 		<row row_number="26" isdata="1">האבר מטמא משום אבר מן החי ואין מטמא משום אבר מן המת אלמא</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">מן החי איכא בינייהו דתנן כזית בשר הפורש מאבר מן החי ר' אליעזר</row>
 		<row row_number="34" isdata="1">מטמא ור' נחוניא בן הקנה ור' יהושע מטהרין עצם כשעורה הפורש מאבר</row>
 		<row row_number="35" isdata="1">מן החי ר' נחוניא מטמא רבי אליעזר ור' יהושע מטהרין השתא דאתית להכי</row>
-		<row row_number="36" isdata="1">בין תנא קמא לרבי שמעון נמי כזית בשר ועצם כשעורה איכא בינייהו<EndChapter name = "העור והרוטב"/><EndGemara/></row>
+		<row row_number="36" isdata="1">בין תנא קמא לרבי שמעון נמי כזית בשר ועצם כשעורה איכא בינייהו:<EndChapter name = "העור והרוטב"/><EndGemara/></row>
 		<row row_number="37" isdata="0">הדרן עלך העור והרוטב</row>
 </amud>
 </daf>

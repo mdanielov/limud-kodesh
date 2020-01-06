@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.794095</dateCreated>
-   <lastModified>2019-12-21 21:42:12.794095</lastModified>
+   <dateCreated>2020-01-06 09:33:08.322278</dateCreated>
+   <lastModified>2020-01-06 09:33:08.322278</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="47">
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">אמר להו אימא לתיאבון הוא דקאכיל אמרו</row>
 		<row row_number="7" isdata="1">ליה והא זמנין דאיכא היתירא ואיסורא קמיה</row>
 		<row row_number="8" isdata="1">ושביק היתירא ואכיל איסורא א"ל זיל לא קא</row>
-		<row row_number="9" isdata="1">שבקי לי דאפרקינך ריש לקיש זבין נפשיה</row>
+		<row row_number="9" isdata="1">שבקי לי דאפרקינך: ריש לקיש זבין נפשיה</row>
 		<row row_number="10" isdata="1">ללודאי שקל בהדיה חייתא וגלגלתא אמר</row>
 		<row row_number="11" isdata="1">גמירי דיומא בתרא כל דבעי מינייהו עבדי</row>
 		<row row_number="12" isdata="1">ליה כי היכי דליחול אדמיה יומא בתרא</row>
@@ -34,9 +34,9 @@
 		<row row_number="20" isdata="1">ליה ברתיה לא בעית מידי למזגא עליה</row>
 		<row row_number="21" isdata="1">אמר לה בתי כריסי כרי כי נח נפשיה שבק</row>
 		<row row_number="22" isdata="1">קבא דמוריקא קרא אנפשיה ועזבו לאחרים</row>
-		<row row_number="23" isdata="1">חילםמתני' המוכר את שדהו לעובד</row>
+		<row row_number="23" isdata="1">חילם<EndGemara/><StartMishna/>מתני' המוכר את שדהו לעובד</row>
 		<row row_number="24" isdata="1">כוכבים לוקח ומביא ממנו בכורים מפני</row>
-		<row row_number="25" isdata="1">תיקון העולם<EndMishna/><StartGemara/>גמ' אמר רבה אע"פ שאין</row>
+		<row row_number="25" isdata="1">תיקון העולם:<EndMishna/><StartGemara/>גמ' אמר רבה אע"פ שאין</row>
 		<row row_number="26" isdata="1">קנין לעובד כוכבים בארץ ישראל להפקיע</row>
 		<row row_number="27" isdata="1">מידי מעשר שנאמר כי לי הארץ לי קדושת</row>
 		<row row_number="28" isdata="1">הארץ אבל יש קנין לעובד כוכבים בא"י</row>

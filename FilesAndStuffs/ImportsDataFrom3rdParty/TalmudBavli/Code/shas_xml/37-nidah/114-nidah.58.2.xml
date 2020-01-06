@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.299282</dateCreated>
-   <lastModified>2019-12-21 21:42:42.299282</lastModified>
+   <dateCreated>2020-01-06 09:35:28.167313</dateCreated>
+   <lastModified>2020-01-06 09:35:28.167313</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="58">
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">ואפילו בתחתון אין יכולה לתלות אינה</row>
 		<row row_number="7" isdata="1">תולה ואפי' בעליון כיצד עברה בשוק של</row>
 		<row row_number="8" isdata="1">טבחים תולה אפילו בתחתון לא עברה בשוק</row>
-		<row row_number="9" isdata="1">של טבחים אף בעליון אינה תולהמתני'</row>
+		<row row_number="9" isdata="1">של טבחים אף בעליון אינה תולה<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="10" isdata="1">ותולה בכל דבר שהיא יכולה לתלות שחטה</row>
 		<row row_number="11" isdata="1">בהמה חיה ועוף נתעסקה בכתמים או</row>
 		<row row_number="12" isdata="1">שישבה בצד העסוקין בהן הרגה מאכולת</row>
@@ -37,10 +37,10 @@
 		<row row_number="23" isdata="1">בעיניכם שלא אמרו חכמים הדבר להחמיר</row>
 		<row row_number="24" isdata="1">אלא להקל שנאמר ואשה כי תהיה זבה דם יהיה זובה בבשרה דם ולא כתם</row>
 		<row row_number="25" isdata="1">עד שהוא נתון תחת הכר ונמצא עליו דם עגול טהור משוך טמא דברי ר"א</row>
-		<row row_number="26" isdata="1">ברבי צדוק<EndMishna/><StartGemara/>גמ' תנינא להא דת"ר מעשה ותלה ר"מ בקילור ורבי תלה בשרף</row>
-		<row row_number="27" isdata="1">שקמה או שישבה ישבה אין לא ישבה לא תנינא להא דת"ר עברה בשוק של</row>
+		<row row_number="26" isdata="1">ברבי צדוק:<EndMishna/><StartGemara/>גמ' תנינא להא דת"ר מעשה ותלה ר"מ בקילור ורבי תלה בשרף</row>
+		<row row_number="27" isdata="1">שקמה: או שישבה: ישבה אין לא ישבה לא תנינא להא דת"ר עברה בשוק של</row>
 		<row row_number="28" isdata="1">טבחים ספק ניתז עליה ספק לא ניתז עליה תולה ספק עברה ספק לא עברה</row>
-		<row row_number="29" isdata="1">טמאה הרגה מאכולת הרגה אין לא הרגה לא מתני' מני רשב"ג היא</row>
+		<row row_number="29" isdata="1">טמאה: הרגה מאכולת: הרגה אין לא הרגה לא מתני' מני רשב"ג היא</row>
 		<row row_number="30" isdata="1">דתניא הרגה תולה לא הרגה אינה תולה דברי רשב"ג וחכ"א בין כך ובין כך</row>
 		<row row_number="31" isdata="1">תולה אמר רשב"ג לדברי אין קץ ולדברי חברי אין סוף לדברי אין קץ שאין לך</row>
 		<row row_number="32" isdata="1">אשה שטהורה לבעלה שאין לך כל מטה ומטה שאין בה כמה טיפי דם</row>
@@ -53,8 +53,8 @@
 		<row row_number="39" isdata="1">לענין תרומה דתנן או שטעם טעם פשפש בפיו ה"ז יפלוט מנא ידע</row>
 		<row row_number="40" isdata="1">טעמו כריחו ואכתי מנא ידע ברית כרותה לו שכל המוללו מריח בו</row>
 		<row row_number="41" isdata="1">אמר רב אשי עיר שיש בה חזירים אין חוששין לכתמים אמר ר"נ בר</row>
-		<row row_number="42" isdata="1">יצחק והא דדוקרת כעיר שיש בה חזירים דמיא עד כמה היא תולה</row>
-		<row row_number="43" isdata="1">וכו' אמר רב הונא כגריס אינה תולה פחות מכגריס תולה ורב חסדא</row>
+		<row row_number="42" isdata="1">יצחק והא דדוקרת כעיר שיש בה חזירים דמיא: עד כמה היא תולה</row>
+		<row row_number="43" isdata="1">וכו': אמר רב הונא כגריס אינה תולה פחות מכגריס תולה ורב חסדא</row>
 		<row row_number="44" isdata="1">אמר כגריס תולה יתר מכגריס אינה תולה לימא בעד ועד בכלל קא מיפלגי</row>
 		<row row_number="45" isdata="1">דרב הונא סבר עד ולא עד בכלל ורב חסדא סבר עד ועד בכלל אמר לך</row>
 		<row row_number="46" isdata="1">רב הונא איכא עד ועד בכלל ואיכא עד ולא עד בכלל והכא לחומרא</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.385731</dateCreated>
-   <lastModified>2019-12-21 21:42:07.385731</lastModified>
+   <dateCreated>2020-01-06 09:32:42.403191</dateCreated>
+   <lastModified>2020-01-06 09:32:42.403191</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="98">
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">בארבע מאה זוזי אייקר קם בשית מאה</row>
 		<row row_number="19" isdata="1">אתא לקמיה דרבי אמי אמר ליה מאן שם</row>
 		<row row_number="20" isdata="1">לך והלכתא צריכה שבועה ואינה צריכה</row>
-		<row row_number="21" isdata="1">הכרזהמתני' אלמנה שהיתה כתובתה</row>
+		<row row_number="21" isdata="1">הכרזה<EndGemara/><StartMishna/>מתני' אלמנה שהיתה כתובתה</row>
 		<row row_number="22" isdata="1">מאתים ומכרה שוה מנה במאתים או שוה</row>
 		<row row_number="23" isdata="1">מאתים במנה נתקבלה כתובתה היתה</row>
 		<row row_number="24" isdata="1">כתובתה מנה ומכרה שוה מנה ודינר במנה</row>
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">ליורשין מכרה בטל רשב"ג אומר לעולם מכרה קיים עד שתהא שם כדי</row>
 		<row row_number="27" isdata="1">שתשייר בשדה בת תשעה קבין ובגנה בת חצי קב וכדברי רבי עקיבא</row>
 		<row row_number="28" isdata="1">בית רובע היתה כתובתה ארבע מאות זוז ומכרה לזה במנה ולזה במנה</row>
-		<row row_number="29" isdata="1">ולאחרון יפה מנה ודינר במנה של אחרון בטל ושל כולן מכרן קיים</row>
+		<row row_number="29" isdata="1">ולאחרון יפה מנה ודינר במנה של אחרון בטל ושל כולן מכרן קיים:</row>
 		<row row_number="30" isdata="1"><EndMishna/><StartGemara/>גמ' מאי שנא שוה מאתים במנה דאמרי לה את אפסדת שוה מנה</row>
 		<row row_number="31" isdata="1">במאתים נמי תימא אנא ארווחנא אמר רב נחמן אמר רבה בר אבוה</row>
 </amud>

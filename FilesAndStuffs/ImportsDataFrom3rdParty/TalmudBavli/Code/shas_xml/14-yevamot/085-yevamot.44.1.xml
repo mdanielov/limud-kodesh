@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:03.763644</dateCreated>
-   <lastModified>2019-12-21 21:42:03.763644</lastModified>
+   <dateCreated>2020-01-06 09:32:25.310567</dateCreated>
+   <lastModified>2020-01-06 09:32:25.310567</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="44">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "החולץ"/><ContGemara/>היתה אחת כשרה ואחת פסולה אם היה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "החולץ"/><ContMishna/>היתה אחת כשרה ואחת פסולה אם היה</row>
 		<row row_number="2" isdata="1">חולץ חולץ לפסולה ואם היה מייבם מייבם</row>
-		<row row_number="3" isdata="1">לכשרה<EndMishna/><StartGemara/>גמ' ארבעה אחין ס"ד אלא אימא</row>
-		<row row_number="4" isdata="1">ארבעה מאחין הרשות בידו ושבקי ליה</row>
+		<row row_number="3" isdata="1">לכשרה:<EndMishna/><StartGemara/>גמ' ארבעה אחין ס"ד אלא אימא</row>
+		<row row_number="4" isdata="1">ארבעה מאחין: הרשות בידו: ושבקי ליה</row>
 		<row row_number="5" isdata="1">והתניא וקראו לו זקני עירו הן ולא שלוחן</row>
 		<row row_number="6" isdata="1">ודברו אליו מלמד שמשיאין לו עצה הוגנת</row>
 		<row row_number="7" isdata="1">לו שאם היה הוא ילד והיא זקנה הוא זקן</row>
@@ -23,8 +23,8 @@
 		<row row_number="9" isdata="1">לך אצל זקנה כלך אצל שכמותך ואל</row>
 		<row row_number="10" isdata="1">תשים קטטה בביתך לא צריכא דאפשר</row>
 		<row row_number="11" isdata="1">ליה א"ה אפילו טובא נמי עצה טובה קמ"ל</row>
-		<row row_number="12" isdata="1">ד' אין טפי לא כי היכי דנמטייה עונה בחדש</row>
-		<row row_number="13" isdata="1">מי שהיה נשוי וכו' ונייבם לתרוייהו א"ר</row>
+		<row row_number="12" isdata="1">ד' אין טפי לא כי היכי דנמטייה עונה בחדש:</row>
+		<row row_number="13" isdata="1">מי שהיה נשוי וכו': ונייבם לתרוייהו א"ר</row>
 		<row row_number="14" isdata="1">חייא בר אבא א"ר יוחנן אמר קרא אשר</row>
 		<row row_number="15" isdata="1">לא יבנה את בית אחיו בית אחד הוא בונה</row>
 		<row row_number="16" isdata="1">ואין בונה שני בתים ונחלוץ לתרוייהו אמר</row>
@@ -43,13 +43,13 @@
 		<row row_number="29" isdata="1">לאו בני חליצה ויבום נינהו צרת ערוה מיבעיא</row>
 		<row row_number="30" isdata="1">אלמה לא אצטריך סד"א ערוה אבראי קיימא</row>
 		<row row_number="31" isdata="1">ותתייבם צרתה קמ"ל דאסירא אלא יבמתו</row>
-		<row row_number="32" isdata="1">יבמתו ריבה היתה אחת כשרה אמר רב</row>
+		<row row_number="32" isdata="1">יבמתו ריבה: היתה אחת כשרה: אמר רב</row>
 		<row row_number="33" isdata="1">יוסף כאן שנה רבי לא ישפוך אדם מי בורו</row>
-		<row row_number="34" isdata="1">ואחרים צריכים להםמתני' המחזיר גרושתו</row>
+		<row row_number="34" isdata="1">ואחרים צריכים להם<EndGemara/><StartMishna/>מתני' המחזיר גרושתו</row>
 		<row row_number="35" isdata="1">והנושא חלוצתו והנושא קרובת חלוצתו</row>
 		<row row_number="36" isdata="1">יוציא והולד ממזר דברי ר"ע וחכ"א אין הולד</row>
 		<row row_number="37" isdata="1">ממזר ומודים בנושא קרובת גרושתו שהולד</row>
-		<row row_number="38" isdata="1">ממזר<EndMishna/><StartGemara/>גמ' וסבר ר' עקיבא הנושא קרובת</row>
+		<row row_number="38" isdata="1">ממזר:<EndMishna/><StartGemara/>גמ' וסבר ר' עקיבא הנושא קרובת</row>
 		<row row_number="39" isdata="1">חלוצתו הולד ממזר והאמר ריש לקיש כאן שנה רבי אחות גרושה מדברי</row>
 		<row row_number="40" isdata="1">תורה אחות חלוצה מדברי סופרים תני קרובת גרושתו הכי נמי מסתברא</row>
 		<row row_number="41" isdata="1">דקתני סיפא ומודים בנושא קרובת גרושתו שהולד ממזר אי אמרת בשלמא</row>

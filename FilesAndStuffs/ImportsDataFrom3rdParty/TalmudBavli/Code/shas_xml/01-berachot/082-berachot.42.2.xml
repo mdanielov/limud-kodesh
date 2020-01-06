@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:47.250048</dateCreated>
-   <lastModified>2019-12-21 21:41:47.250048</lastModified>
+   <dateCreated>2020-01-06 09:30:55.372674</dateCreated>
+   <lastModified>2020-01-06 09:30:55.372674</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="42">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "כיצד מברכין"/><ContGemara/>בא להם יין בתוך המזון כל אחד ואחד מברך</row>
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד מברכין"/><ContMishna/>בא להם יין בתוך המזון כל אחד ואחד מברך</row>
 		<row row_number="2" isdata="1">לעצמו אחר המזון אחד מברך לכולם והוא</row>
 		<row row_number="3" isdata="1">אומר על המוגמר ואע"פ שאין מביאין את</row>
-		<row row_number="4" isdata="1">המוגמר אלא לאחר סעודה<EndMishna/><StartGemara/>גמ' אמר רבה</row>
+		<row row_number="4" isdata="1">המוגמר אלא לאחר סעודה:<EndMishna/><StartGemara/>גמ' אמר רבה</row>
 		<row row_number="5" isdata="1">בר בר חנה א"ר יוחנן לא שנו אלא בשבתות</row>
 		<row row_number="6" isdata="1">וימים טובים הואיל ואדם קובע סעודתו על</row>
 		<row row_number="7" isdata="1">היין אבל בשאר ימות השנה מברך על כל</row>
@@ -42,16 +42,16 @@
 		<row row_number="28" isdata="1">בא להם יין בתוך המזון כל אחד ואחד מברך</row>
 		<row row_number="29" isdata="1">לעצמו לאחר המזון אחד מברך לכולם א"ל</row>
 		<row row_number="30" isdata="1">הכי קאמר אם לא בא להם יין בתוך המזון</row>
-		<row row_number="31" isdata="1">אלא לאחר המזון אחד מברך לכולם ברך</row>
+		<row row_number="31" isdata="1">אלא לאחר המזון אחד מברך לכולם: ברך</row>
 		<row row_number="32" isdata="1">על הפת פטר את הפרפרת על הפרפרת לא</row>
 		<row row_number="33" isdata="1">פטר את הפת ב"ש אומרים אף לא מעשה</row>
-		<row row_number="34" isdata="1">קדרה איבעיא להו ב"ש ארישא פליגי או</row>
+		<row row_number="34" isdata="1">קדרה: איבעיא להו ב"ש ארישא פליגי או</row>
 		<row row_number="35" isdata="1">דילמא אסיפא פליגי דקאמר תנא קמא ברך</row>
 		<row row_number="36" isdata="1">על הפת פטר את הפרפרת וכ"ש מעשה</row>
 		<row row_number="37" isdata="1">קדרה ואתי ב"ש למימר לא מיבעיא פרפרת דלא פטרה להו פת אלא אפילו</row>
 		<row row_number="38" isdata="1">מעשה קדרה נמי לא פטרה או דילמא אסיפא פליגי דקתני ברך על הפרפרת</row>
 		<row row_number="39" isdata="1">לא פטר את הפת פת הוא דלא פטר אבל מעשה קדרה פטר ואתו ב"ש למימר</row>
-		<row row_number="40" isdata="1">ואפי' מעשה קדרה נמי לא פטר תיקו היו יושבין כל אחד ואחד כו' הסבו אין</row>
+		<row row_number="40" isdata="1">ואפי' מעשה קדרה נמי לא פטר תיקו: היו יושבין כל אחד ואחד כו': הסבו אין</row>
 		<row row_number="41" isdata="1">לא הסבו לא ורמינהו עשרה שהיו הולכים בדרך אע"פ שכולם אוכלים מככר</row>
 		<row row_number="42" isdata="1">אחד כל אחד ואחד מברך לעצמו ישבו לאכול אע"פ שכל אחד ואחד אוכל</row>
 		<row row_number="43" isdata="1">מככרו אחד מברך לכולם קתני ישבו אע"פ שלא הסבו אמר רב נחמן בר</row>

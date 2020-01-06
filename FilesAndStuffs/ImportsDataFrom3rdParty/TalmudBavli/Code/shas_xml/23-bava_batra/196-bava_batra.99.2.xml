@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:23.017364</dateCreated>
-   <lastModified>2019-12-21 21:42:23.017364</lastModified>
+   <dateCreated>2020-01-06 09:33:55.093817</dateCreated>
+   <lastModified>2020-01-06 09:33:55.093817</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="99">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "המוכר פירות"/><ContGemara/>שום חשד אשתומתני' מי שיש לו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר פירות"/><ContGemara/>שום חשד אשתו:מתני' מי שיש לושום חשד אשתו<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">גינה לפנים מגינתו של חברו נכנס בשעה</row>
 		<row row_number="3" isdata="1">שדרך בני אדם נכנסים ויוצא בשעה שדרך</row>
 		<row row_number="4" isdata="1">בני אדם יוצאין ואינו מכניס לתוכה תגרין ולא</row>
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">את הדרך נתנו לו דרך מן הצד מדעת שניהן</row>
 		<row row_number="7" isdata="1">נכנס בשעה שהוא רוצה ויוצא בשעה שרוצה</row>
 		<row row_number="8" isdata="1">ומכניס לתוכה תגרין ולא יכנס מתוכה לתוך</row>
-		<row row_number="9" isdata="1">שדה אחרת זה וזה אינן רשאים לזורעה</row>
+		<row row_number="9" isdata="1">שדה אחרת זה וזה אינן רשאים לזורעה:</row>
 		<row row_number="10" isdata="1"><EndMishna/><StartGemara/>גמ' א"ר יהודה אמר שמואל אמה בית</row>
 		<row row_number="11" isdata="1">השלחין אני מוכר לך נותן לו ב' אמות לתוכה</row>
 		<row row_number="12" isdata="1">ואמה מכאן ואמה מכאן לאגפיה אמה</row>
@@ -31,10 +31,10 @@
 		<row row_number="17" isdata="1">רב יהודה אמר שמואל אמת המים שכלו אגפיה מתקנה מאותה שדה</row>
 		<row row_number="18" isdata="1">בידוע שלא כלו אגפיה אלא באותה שדה מתקיף לה רב פפא ולימא</row>
 		<row row_number="19" isdata="1">ליה מייך אשפלוה לארעיך אלא אמר רב פפא שעל מנת כן קבל עליו</row>
-		<row row_number="20" isdata="1">בעל השדהמתני' מי שהיתה דרך הרבים עוברת לתוך שדהו</row>
+		<row row_number="20" isdata="1">בעל השדה<EndGemara/><StartMishna/>מתני' מי שהיתה דרך הרבים עוברת לתוך שדהו</row>
 		<row row_number="21" isdata="1">נטלה ונתן להם מן הצד מה שנתן נתן ושלו לא הגיעו דרך היחיד ד'</row>
 		<row row_number="22" isdata="1">אמות דרך הרבים שש עשרה אמה דרך המלך אין לה שיעור דרך</row>
-		<row row_number="23" isdata="1">הקבר אין לה שיעור המעמד דייני צפורי אמרו בית ארבעה קבין</row>
+		<row row_number="23" isdata="1">הקבר אין לה שיעור המעמד דייני צפורי אמרו בית ארבעה קבין:</row>
 		<row row_number="24" isdata="1"><EndMishna/><StartGemara/>גמ' אמאי שלו לא הגיעו לינקוט פזרא וליתיב שמעת מינה לא עביד איניש</row>
 		<row row_number="25" isdata="1">דינא לנפשיה אפי' במקום פסידא אמר רב זביד משמיה דרבא גזירה שמא</row>
 		<row row_number="26" isdata="1">יתן להן דרך עקלתון רב משרשיא משמיה דרבא אמר בנותן להם דרך עקלתון</row>

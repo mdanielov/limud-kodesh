@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:20.574467</dateCreated>
-   <lastModified>2019-12-21 21:42:20.574467</lastModified>
+   <dateCreated>2020-01-06 09:33:43.305516</dateCreated>
+   <lastModified>2020-01-06 09:33:43.305516</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="4">
@@ -22,7 +22,7 @@
 		<row row_number="8" isdata="1">דידי ודידיה הוא משריק ליה טינא השתא נמי</row>
 		<row row_number="9" isdata="1">אתי חבריה וקליף ליה קילופא מידע ידיע</row>
 		<row row_number="10" isdata="1">אביי אמר הוצא לית ליה תקנתא אלא</row>
-		<row row_number="11" isdata="1">בשטרא אבל אם עשו מדעת שניהם אמר</row>
+		<row row_number="11" isdata="1">בשטרא: אבל אם עשו מדעת שניהם: אמר</row>
 		<row row_number="12" isdata="1">ליה רבא מפרזיקא לרב אשי לא יעשו לא זה</row>
 		<row row_number="13" isdata="1">ולא זה א"ל לא צריכא דקדים חד מנייהו</row>
 		<row row_number="14" isdata="1">ועבד דידיה ואי לא עביד חבריה אמר דידיה</row>
@@ -32,9 +32,9 @@
 		<row row_number="18" isdata="1">סיפא דינא קתני דקתני תקנתא אמר רבינא</row>
 		<row row_number="19" isdata="1">הכא בהוצי עסקינן לאפוקי מדאביי דאמר</row>
 		<row row_number="20" isdata="1">הוצא לית ליה תקנתא אלא בשטרא קמ"ל</row>
-		<row row_number="21" isdata="1">דבחזית סגיאמתני' המקיף את חבירו משלש רוחותיו וגדר את</row>
+		<row row_number="21" isdata="1">דבחזית סגיא<EndGemara/><StartMishna/>מתני' המקיף את חבירו משלש רוחותיו וגדר את</row>
 		<row row_number="22" isdata="1">הראשונה ואת השניה ואת השלישית אין מחייבין אותו רבי יוסי אומר אם</row>
-		<row row_number="23" isdata="1">עמד וגדר את הרביעית מגלגלין עליו את הכל<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר</row>
+		<row row_number="23" isdata="1">עמד וגדר את הרביעית מגלגלין עליו את הכל:<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר</row>
 		<row row_number="24" isdata="1">שמואל הלכה כר' יוסי דאמר אם עמד וגדר את הרביעית מגלגלין עליו את</row>
 		<row row_number="25" isdata="1">הכל ל"ש עמד ניקף ל"ש עמד מקיף איתמר רב הונא אמר הכל לפי מה</row>
 		<row row_number="26" isdata="1">שגדר חייא בר רב אמר הכל לפי דמי קנים בזול תנן המקיף את חבירו משלש</row>

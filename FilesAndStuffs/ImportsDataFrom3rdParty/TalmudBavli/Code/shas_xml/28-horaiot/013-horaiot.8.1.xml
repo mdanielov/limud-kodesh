@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:30.137189</dateCreated>
-   <lastModified>2019-12-21 21:42:30.137189</lastModified>
+   <dateCreated>2020-01-06 09:34:29.451575</dateCreated>
+   <lastModified>2020-01-06 09:34:29.451575</lastModified>
  </meta>
  <masechet name="הוריות" serial="28">
 <daf value="8">
@@ -24,10 +24,10 @@
 		<row row_number="10" isdata="1">ורבנן מי שחטאו בשגגה יצא משיח שאין</row>
 		<row row_number="11" isdata="1">חטאו בשגגה לא בעבודת כוכבים ולא</row>
 		<row row_number="12" isdata="1">בשאר מצות אלא בהעלם דבר עם שגגת</row>
-		<row row_number="13" isdata="1">מעשהמתני' אין בית דין חייבין עד</row>
+		<row row_number="13" isdata="1">מעשה<EndGemara/><StartMishna/>מתני' אין בית דין חייבין עד</row>
 		<row row_number="14" isdata="1">שיורו בדבר שזדונו כרת ושגגתו חטאת</row>
 		<row row_number="15" isdata="1">וכן המשיח ולא בעבודת כוכבים עד שיורו</row>
-		<row row_number="16" isdata="1">על דבר שזדונו כרת ושגגתו חטאת</row>
+		<row row_number="16" isdata="1">על דבר שזדונו כרת ושגגתו חטאת:</row>
 		<row row_number="17" isdata="1"><EndMishna/><StartGemara/>גמ' מנלן דתניא רבי אומר נאמר כאן</row>
 		<row row_number="18" isdata="1">עליה ונאמר להלן עליה מה להלן דבר</row>
 		<row row_number="19" isdata="1">שזדונו כרת ושגגתו חטאת אף כאן דבר</row>
@@ -38,8 +38,8 @@
 		<row row_number="24" isdata="1">ועשו אחת מכל מצות מה צבור דבר שזדונו</row>
 		<row row_number="25" isdata="1">כרת ושגגתו חטאת אף נשיא דבר שזדונו כרת</row>
 		<row row_number="26" isdata="1">ושגגתו חטאת יחיד אמר קרא ואם נפש</row>
-		<row row_number="27" isdata="1">וילמד תחתון מעליון ולא בעבודת כוכבים</row>
-		<row row_number="28" isdata="1">עד שיורו בעבודת כוכבים מנלן דת"ר</row>
+		<row row_number="27" isdata="1">וילמד תחתון מעליון: ולא בעבודת כוכבים</row>
+		<row row_number="28" isdata="1">עד שיורו: בעבודת כוכבים מנלן דת"ר</row>
 		<row row_number="29" isdata="1">לפי שיצאה עבודת כוכבים לדון בעצמה</row>
 		<row row_number="30" isdata="1">יכול יהו חייבין אפילו על דבר שאין זדונו</row>
 		<row row_number="31" isdata="1">כרת ושגגתו חטאת נאמר כאן מעיני ונאמר</row>

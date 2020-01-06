@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:36.896571</dateCreated>
-   <lastModified>2019-12-21 21:42:36.896571</lastModified>
+   <dateCreated>2020-01-06 09:34:58.135053</dateCreated>
+   <lastModified>2020-01-06 09:34:58.135053</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="72">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContGemara/>מה מצינו בטרפה ששחיטתה מטהרתה אף</row>
+		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContMishna/>מה מצינו בטרפה ששחיטתה מטהרתה אף</row>
 		<row row_number="2" isdata="1">שחיטת בהמה תטהר את האבר אמר להם</row>
 		<row row_number="3" isdata="1">ר"מ לא אם טיהרה שחיטת טרפה אותה</row>
 		<row row_number="4" isdata="1">דבר שגופה תטהר את האבר דבר שאינו</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">בבהמה טמאה שכן אין במינה שחיטה</row>
 		<row row_number="14" isdata="1">תאמר בטרפה שיש במינה שחיטה בן</row>
 		<row row_number="15" isdata="1">שמנה חי אין שחיטתו מטהרתו לפי שאין</row>
-		<row row_number="16" isdata="1">במינו שחיטה<EndMishna/><StartGemara/>גמ' אמאי טומאת בית</row>
+		<row row_number="16" isdata="1">במינו שחיטה:<EndMishna/><StartGemara/>גמ' אמאי טומאת בית</row>
 		<row row_number="17" isdata="1">הסתרים היא וטומאת בית הסתרים לא</row>
 		<row row_number="18" isdata="1">מטמיא לימא ר' מאיר לטעמיה דתנן שלשה</row>
 		<row row_number="19" isdata="1">על שלשה שנחלק טהור מן המדרס אבל</row>

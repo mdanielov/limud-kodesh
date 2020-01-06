@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:10.838985</dateCreated>
-   <lastModified>2019-12-21 21:42:10.838985</lastModified>
+   <dateCreated>2020-01-06 09:32:57.398503</dateCreated>
+   <lastModified>2020-01-06 09:32:57.398503</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="57">
@@ -17,7 +17,7 @@
 		<row row_number="3" isdata="1">מהלכה או דלמא רביעית דם הלכה ועצם</row>
 		<row row_number="4" isdata="1">כשעורה קל וחומר ואין דנין קל וחומר</row>
 		<row row_number="5" isdata="1">מהלכה ת"ש עצם כשעורה הלכה ורביעית</row>
-		<row row_number="6" isdata="1">דם קל וחומר ואין דנין קל וחומר מהלכה<EndChapter name = "כהן גדול"/><EndGemara/></row>
+		<row row_number="6" isdata="1">דם קל וחומר ואין דנין קל וחומר מהלכה:<EndChapter name = "כהן גדול"/><EndGemara/></row>
 		<row row_number="7" isdata="0">הדרן עלך כהן גדול</row>
 		<row row_number="8" isdata="1"><StartChapter name = "שני נזירים"/><StartMishna/>שני נזירים שאמר להן אחד ראיתי אחד</row>
 		<row row_number="9" isdata="1">מכם שנטמא ואיני יודע איזה מכם</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">אני הוא הטמא קרבן טומאה שלי וקרבן</row>
 		<row row_number="16" isdata="1">טהרה שלך וזה קרבן טהרתי ואם אני הוא</row>
 		<row row_number="17" isdata="1">הטהור קרבן טהרה שלי וקרבן טומאה שלך</row>
-		<row row_number="18" isdata="1">וזה קרבן טהרתך<EndMishna/><StartGemara/>גמ' קתני שני נזירים</row>
+		<row row_number="18" isdata="1">וזה קרבן טהרתך:<EndMishna/><StartGemara/>גמ' קתני שני נזירים</row>
 		<row row_number="19" isdata="1">שאמר להם ראיתי אחד מכם שנטמא ואיני</row>
 		<row row_number="20" isdata="1">יודע איזה מכם ואמאי כל ספק טומאה ברשות</row>
 		<row row_number="21" isdata="1">היחיד מהיכא ילפינן לה מסוטה מה סוטה</row>

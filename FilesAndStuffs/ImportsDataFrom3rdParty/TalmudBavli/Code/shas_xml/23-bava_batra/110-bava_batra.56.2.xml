@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:21.892801</dateCreated>
-   <lastModified>2019-12-21 21:42:21.892801</lastModified>
+   <dateCreated>2020-01-06 09:33:49.714229</dateCreated>
+   <lastModified>2020-01-06 09:33:49.714229</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="56">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>משלשין ביניהם שלשה אחים ואחד מצטרף</row>
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContMishna/>משלשין ביניהם שלשה אחים ואחד מצטרף</row>
 		<row row_number="2" isdata="1">עמהם הרי אלו שלש עדיות והן עדות אחת</row>
-		<row row_number="3" isdata="1">להזמה<EndMishna/><StartGemara/>גמ' מתני' דלא כרבי עקיבא דתניא</row>
+		<row row_number="3" isdata="1">להזמה:<EndMishna/><StartGemara/>גמ' מתני' דלא כרבי עקיבא דתניא</row>
 		<row row_number="4" isdata="1">א"ר יוסי כשהלך אבא חלפתא אצל רבי</row>
 		<row row_number="5" isdata="1">יוחנן בן נורי ללמוד תורה ואמרי לה ר' יוחנן</row>
 		<row row_number="6" isdata="1">בן נורי אצל אבא חלפתא ללמוד תורה אמר</row>
@@ -36,8 +36,8 @@
 		<row row_number="22" isdata="1">בשתא דקא מסהיד מר לא קא מסהיד מר</row>
 		<row row_number="23" isdata="1">הכא תרוייהו בחדא שתא קא מסהדי מאי</row>
 		<row row_number="24" isdata="1">איכא למימר בין חיטי לשערי לאו אדעתייהו</row>
-		<row row_number="25" isdata="1">דאינשי שלשה אחין ואחד מצטרף עמהן הרי</row>
-		<row row_number="26" isdata="1">אלו שלש עדיות והן עדות אחת להזמה</row>
+		<row row_number="25" isdata="1">דאינשי: שלשה אחין ואחד מצטרף עמהן הרי</row>
+		<row row_number="26" isdata="1">אלו שלש עדיות והן עדות אחת להזמה:</row>
 </amud>
 </daf>
 </masechet>

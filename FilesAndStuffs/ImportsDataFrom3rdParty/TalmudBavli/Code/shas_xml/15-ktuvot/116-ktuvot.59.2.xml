@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.637772</dateCreated>
-   <lastModified>2019-12-21 21:42:06.637772</lastModified>
+   <dateCreated>2020-01-06 09:32:38.714416</dateCreated>
+   <lastModified>2020-01-06 09:32:38.714416</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="59">
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">וכדרבא דאמר רבא הקדש חמץ ושחרור</row>
 		<row row_number="12" isdata="1">מפקיעין מידי שיעבוד ונקדשו מהשתא אלמוה</row>
 		<row row_number="13" isdata="1">רבנן לשיעבודיה דבעל כי היכי דלא תיקדש</row>
-		<row row_number="14" isdata="1">מהשתאמתני' ואלו מלאכות שהאשה</row>
+		<row row_number="14" isdata="1">מהשתא<EndGemara/><StartMishna/>מתני' ואלו מלאכות שהאשה</row>
 		<row row_number="15" isdata="1">עושה לבעלה טוחנת ואופה ומכבסת מבשלת</row>
 		<row row_number="16" isdata="1">ומניקה את בנה מצעת לו המטה ועושה</row>
 		<row row_number="17" isdata="1">בצמר הכניסה לו שפחה אחת לא טוחנת ולא</row>
@@ -36,15 +36,15 @@
 		<row row_number="22" isdata="1">כופה לעשות בצמר שהבטלה מביאה לידי</row>
 		<row row_number="23" isdata="1">זימה רשב"ג אומר אף המדיר את אשתו</row>
 		<row row_number="24" isdata="1">מלעשות מלאכה יוציא ויתן כתובה שהבטלה</row>
-		<row row_number="25" isdata="1">מביאה לידי שיעמום<EndMishna/><StartGemara/>גמ' טוחנת ס"ד אלא</row>
+		<row row_number="25" isdata="1">מביאה לידי שיעמום:<EndMishna/><StartGemara/>גמ' טוחנת ס"ד אלא</row>
 		<row row_number="26" isdata="1">אימא מטחנת ואיבעית אימא בריחיא דידא</row>
 		<row row_number="27" isdata="1"><EndGemara/><StartMishna/>מתני' דלא כר' חייא דתני ר' חייא אין אשה</row>
 		<row row_number="28" isdata="1">אלא ליופי אין אשה אלא לבנים ותני ר' חייא</row>
 		<row row_number="29" isdata="1">אין אשה אלא לתכשיטי אשה ותני ר' חייא</row>
 		<row row_number="30" isdata="1">הרוצה שיעדן את אשתו ילבישנה כלי</row>
 		<row row_number="31" isdata="1">פשתן הרוצה שילבין את בתו יאכילנה</row>
-		<row row_number="32" isdata="1">אפרוחים וישקנה חלב סמוך לפירקה</row>
-		<row row_number="33" isdata="1">ומניקה את בנה לימא מתניתין דלא</row>
+		<row row_number="32" isdata="1">אפרוחים וישקנה חלב סמוך לפירקה:</row>
+		<row row_number="33" isdata="1">ומניקה את בנה: לימא מתניתין דלא</row>
 		<row row_number="34" isdata="1">כבית שמאי דתניא נדרה שלא להניק את</row>
 		<row row_number="35" isdata="1">בנה בש"א שומטת דד מפיו בה"א כופה</row>
 		<row row_number="36" isdata="1">ומניקתו נתגרשה אינו כופה ואם היה</row>
@@ -54,7 +54,7 @@
 		<row row_number="40" isdata="1">הוא נותן אצבע בין שיניה וב"ה סברי היא</row>
 		<row row_number="41" isdata="1">נתנה אצבע בין שיניה ונפלגו בכתובה בעלמא</row>
 		<row row_number="42" isdata="1">ועוד תניא בש"א אינה מניקה אלא מחוורתא</row>
-		<row row_number="43" isdata="1">מתניתין דלא כב"ש אם היה מכירה</row>
+		<row row_number="43" isdata="1">מתניתין דלא כב"ש: אם היה מכירה:</row>
 </amud>
 </daf>
 </masechet>

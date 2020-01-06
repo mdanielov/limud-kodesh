@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.472180</dateCreated>
-   <lastModified>2019-12-21 21:42:27.472180</lastModified>
+   <dateCreated>2020-01-06 09:34:15.806262</dateCreated>
+   <lastModified>2020-01-06 09:34:15.806262</lastModified>
  </meta>
  <masechet name="מכות" serial="25">
 <daf value="5">
@@ -33,12 +33,12 @@
 		<row row_number="19" isdata="1">הכא איכא הא דקא מהדרא ורבי יוחנן אמר</row>
 		<row row_number="20" isdata="1">לך אנא דאמרי אפי' לרבי יהודה עד כאן</row>
 		<row row_number="21" isdata="1">לא קאמר רבי יהודה התם דאמרינן אטו כולי עלמא גבי הני הוו קיימי</row>
-		<row row_number="22" isdata="1">אבל הכא הני ידעי בסהדותא והני לא ידעי בסהדותאמתני' אין</row>
+		<row row_number="22" isdata="1">אבל הכא הני ידעי בסהדותא והני לא ידעי בסהדותא<EndGemara/><StartMishna/>מתני' אין</row>
 		<row row_number="23" isdata="1">העדים זוממין נהרגין עד שיגמר הדין שהרי הצדוקין אומרים עד שיהרג</row>
 		<row row_number="24" isdata="1">שנאמר נפש תחת נפש אמרו להם חכמים והלא כבר נאמר ועשיתם לו</row>
 		<row row_number="25" isdata="1">כאשר זמם לעשות לאחיו והרי אחיו קיים ואם כן למה נאמר נפש תחת נפש</row>
 		<row row_number="26" isdata="1">יכול משעה שקבלו עדותן יהרגו תלמוד לומר נפש תחת נפש הא אינן</row>
-		<row row_number="27" isdata="1">נהרגין עד שיגמר הדין<EndMishna/><StartGemara/>גמ' תנא בריבי אומר לא הרגו נהרגין הרגו אין</row>
+		<row row_number="27" isdata="1">נהרגין עד שיגמר הדין:<EndMishna/><StartGemara/>גמ' תנא בריבי אומר לא הרגו נהרגין הרגו אין</row>
 		<row row_number="28" isdata="1">נהרגין אמר אביו בני לאו קל וחומר הוא אמר לו לימדתנו רבינו שאין עונשין</row>
 		<row row_number="29" isdata="1">מן הדין דתניא איש אשר יקח [את] אחותו בת אביו או בת אמו אין לי אלא</row>
 		<row row_number="30" isdata="1">בת אביו שלא בת אמו ובת אמו שלא בת אביו בת אמו ובת אביו מנין ת"ל</row>
@@ -58,7 +58,7 @@
 		<row row_number="44" isdata="1">לפני שמעון בן שטח וכל ימיו של ר' יהודה בן טבאי היה משתטח על קברו</row>
 		<row row_number="45" isdata="1">של אותו העד והיה קולו נשמע וכסבורין העם לומר קולו של הרוג אמר קולי</row>
 		<row row_number="46" isdata="1">שלי הוא תדעו למחר הוא מת אין קולו נשמע אמר ליה רב אחא בריה דרבא</row>
-		<row row_number="47" isdata="1">לרב אשי דלמא בדינא קם בהדיה אי נמי פיוסי פייסיהמתני' על פי</row>
+		<row row_number="47" isdata="1">לרב אשי דלמא בדינא קם בהדיה אי נמי פיוסי פייסיה<EndGemara/><StartMishna/>מתני' על פי</row>
 		<row row_number="48" isdata="1">שנים עדים או שלשה עדים יומת המת אם מתקיימת העדות בשנים למה פרט</row>
 		<row row_number="49" isdata="1">הכתוב בשלשה אלא להקיש (שלשה לשנים) מה שלשה מזימין את השנים</row>
 		<row row_number="50" isdata="1">אף השנים יזומו את הג' ומנין אפי' מאה ת"ל עדים ר' שמעון אומר מה שנים</row>

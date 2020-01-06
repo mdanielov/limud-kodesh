@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:55.111237</dateCreated>
-   <lastModified>2019-12-21 21:41:55.111237</lastModified>
+   <dateCreated>2020-01-06 09:31:28.698785</dateCreated>
+   <lastModified>2020-01-06 09:31:28.698785</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="40">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>מנקטא ליה אימיה בארבי ההוא ארבא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>מנקטא ליה אימיה בארבי: ההוא ארבא</row>
 		<row row_number="2" isdata="1">דחיטי דטבעא בחישתא שריא רבא לזבוני</row>
 		<row row_number="3" isdata="1">לנכרים איתיביה רבה בר ליואי לרבא</row>
 		<row row_number="4" isdata="1">בגד שאבד בו כלאים הרי זה לא ימכרנו</row>
@@ -38,13 +38,13 @@
 		<row row_number="24" isdata="1">רב פפי שרי ליה לבורדיקי דבי ריש גלותא</row>
 		<row row_number="25" isdata="1">לממחה קדירה בחסיסי אמר רבא איכא</row>
 		<row row_number="26" isdata="1">דשרי כי האי מילתא בדוכתא דשכיחי עבדי</row>
-		<row row_number="27" isdata="1">א"ד רבא גופא מחי לה קידרא בחסיסי</row>
+		<row row_number="27" isdata="1">א"ד רבא גופא מחי לה קידרא בחסיסי:</row>
 		<row row_number="28" isdata="1"><EndGemara/><StartMishna/>מתני' אין נותנין קמח לתוך חרוסת או</row>
 		<row row_number="29" isdata="1">לתוך החרדל ואם נתן יאכל מיד ורבי מאיר</row>
 		<row row_number="30" isdata="1">אוסר אין מבשלין את הפסח לא במשקין</row>
 		<row row_number="31" isdata="1">ולא במי פירות אבל סכין ומטבילין אותו</row>
 		<row row_number="32" isdata="1">בהן מי תשמישו של נחתום ישפכו</row>
-		<row row_number="33" isdata="1">מפני שהן מחמיצין<EndMishna/><StartGemara/>גמ' אמר רב כהנא</row>
+		<row row_number="33" isdata="1">מפני שהן מחמיצין:<EndMishna/><StartGemara/>גמ' אמר רב כהנא</row>
 		<row row_number="34" isdata="1">מחלוקת לתוך החרדל אבל לתוך חרוסת</row>
 		<row row_number="35" isdata="1">דברי הכל ישרף מיד ותניא נמי הכי אין</row>
 		<row row_number="36" isdata="1">נותנין קמח לתוך החרוסת ואם נתן ישרף</row>

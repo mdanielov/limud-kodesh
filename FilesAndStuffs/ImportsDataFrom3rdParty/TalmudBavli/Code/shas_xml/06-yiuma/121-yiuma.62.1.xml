@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:58.494285</dateCreated>
-   <lastModified>2019-12-21 21:41:58.494285</lastModified>
+   <dateCreated>2020-01-06 09:31:48.249174</dateCreated>
+   <lastModified>2020-01-06 09:31:48.249174</lastModified>
  </meta>
  <masechet name="יומא" serial="06">
 <daf value="62">
@@ -31,7 +31,7 @@
 		<row row_number="17" isdata="1">אחר תחתיו ואחר כך נמצא הראשון והרי</row>
 		<row row_number="18" isdata="1">שניהן עומדין אי זה מהן שירצה יקריב דברי</row>
 		<row row_number="19" isdata="1">חכמים רבי יוסי אומר מצוה בראשון ואם היה</row>
-		<row row_number="20" isdata="1">שני מובחר ממנו יביאנו<EndChapter name = "הוציאו לו"/><EndGemara/></row>
+		<row row_number="20" isdata="1">שני מובחר ממנו יביאנו:<EndChapter name = "הוציאו לו"/><EndGemara/></row>
 		<row row_number="21" isdata="0">הדרן עלך הוציאו לו</row>
 		<row row_number="22" isdata="1"><StartChapter name = "שני שעירי"/><StartMishna/>שני שעירי יום הכפורים מצותן שיהיו</row>
 		<row row_number="23" isdata="1">שניהן שוין במראה ובקומה ובדמים</row>
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">שיסתאב וימכר ויפלו דמיו לנדבה שאין</row>
 		<row row_number="33" isdata="1">חטאת צבור מתה רבי יהודה אומר תמות</row>
 		<row row_number="34" isdata="1">ועוד אמר רבי יהודה נשפך הדם ימות</row>
-		<row row_number="35" isdata="1">המשתלח מת המשתלח ישפך הדם</row>
+		<row row_number="35" isdata="1">המשתלח מת המשתלח ישפך הדם:</row>
 </amud>
 </daf>
 </masechet>

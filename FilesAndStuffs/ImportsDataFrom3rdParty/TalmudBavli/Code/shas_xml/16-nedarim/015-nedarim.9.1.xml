@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.828729</dateCreated>
-   <lastModified>2019-12-21 21:42:07.828729</lastModified>
+   <dateCreated>2020-01-06 09:32:44.465361</dateCreated>
+   <lastModified>2020-01-06 09:32:44.465361</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="9">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContMishna/>מתני' כנדרי רשעים נדר בנזיר ובקרבן<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">ובשבועה כנדרי כשרים לא אמר כלום</row>
-		<row row_number="3" isdata="1">כנדבותם נדר בנזיר ובקרבן<EndMishna/><StartGemara/>גמ' ודלמא</row>
+		<row row_number="3" isdata="1">כנדבותם נדר בנזיר ובקרבן:<EndMishna/><StartGemara/>גמ' ודלמא</row>
 		<row row_number="4" isdata="1">הכי קאמר כנדרי רשעים לא נדרנא אמר</row>
 		<row row_number="5" isdata="1">שמואל באומר כנדרי רשעים הריני עלי</row>
 		<row row_number="6" isdata="1">והימנו הריני בנזירות עלי בקרבן הימנו</row>
@@ -24,8 +24,8 @@
 		<row row_number="10" isdata="1">בשבועה דלמא הימנו דאכילנא קאמר</row>
 		<row row_number="11" isdata="1">אמר רבא דאמר הימנו שלא אוכל אי</row>
 		<row row_number="12" isdata="1">הכי מאי למימרא מהו דתימא הא לא</row>
-		<row row_number="13" isdata="1">מפיק שבועה מפומיה קמ"ל הדין כנדרי</row>
-		<row row_number="14" isdata="1">כשרים לא אמר כלום כנדבותם נדר וכו'</row>
+		<row row_number="13" isdata="1">מפיק שבועה מפומיה קמ"ל הדין: כנדרי</row>
+		<row row_number="14" isdata="1">כשרים לא אמר כלום כנדבותם נדר וכו':</row>
 		<row row_number="15" isdata="1">מאן תנא דשאני ליה בין נדר לנדבה לימא לא</row>
 		<row row_number="16" isdata="1">רבי מאיר ולא רבי יהודה דתניא טוב</row>
 		<row row_number="17" isdata="1">אשר לא תדור וגו' טוב מזה ומזה שאינו נודר</row>

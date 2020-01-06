@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.501899</dateCreated>
-   <lastModified>2019-12-21 21:42:12.501899</lastModified>
+   <dateCreated>2020-01-06 09:33:05.753774</dateCreated>
+   <lastModified>2020-01-06 09:33:05.753774</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="32">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContGemara/>שופתא בקופינא דמרא רפיא רב יוסף אמר</row>
 		<row row_number="2" isdata="1">אפילו סיכתא בדפנא רפיא רב אחא בר</row>
-		<row row_number="3" isdata="1">יעקב אמר אפילו קניא בכופתא רפיא<EndChapter name = "כל הגט"/><EndGemara/></row>
+		<row row_number="3" isdata="1">יעקב אמר אפילו קניא בכופתא רפיא:<EndChapter name = "כל הגט"/><EndGemara/></row>
 		<row row_number="4" isdata="0">הדרן עלך כל הגט</row>
 		<row row_number="5" isdata="1"><StartChapter name = "השולח"/><StartMishna/>השולח גט לאשתו והגיע בשליח או</row>
 		<row row_number="6" isdata="1">ששלח אחריו שליח ואמר לו גט</row>
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">אם משהגיע גט לידה שוב אינו יכול לבטלו</row>
 		<row row_number="11" isdata="1">בראשונה היה עושה ב"ד ממקום אחר</row>
 		<row row_number="12" isdata="1">ומבטלו התקין רבן גמליאל הזקן שלא יהו</row>
-		<row row_number="13" isdata="1">עושין כן מפני תיקון העולם<EndMishna/><StartGemara/>גמ' הגיעו לא</row>
+		<row row_number="13" isdata="1">עושין כן מפני תיקון העולם:<EndMishna/><StartGemara/>גמ' הגיעו לא</row>
 		<row row_number="14" isdata="1">קתני אלא הגיע ואפי' ממילא ולא אמרינן</row>
 		<row row_number="15" isdata="1">לצעורה הוא דקא מיכוין או ששלח אחריו</row>
 		<row row_number="16" isdata="1">שליח ל"ל מהו דתימא לא אלימא שליחותיה</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">משהגיע גט לידה אינו יכול לבטלו פשיטא</row>
 		<row row_number="26" isdata="1">לא צריכא דמהדר עליה מעיקרא לבטולי</row>
 		<row row_number="27" isdata="1">מהו דתימא איגלאי מלתא למפרע דבטולי</row>
-		<row row_number="28" isdata="1">בטליה קמ"ל ת"ר בטל הוא אי איפשי בו</row>
+		<row row_number="28" isdata="1">בטליה קמ"ל: ת"ר בטל הוא אי איפשי בו</row>
 		<row row_number="29" isdata="1">דבריו קיימין פסול הוא אינו גט לא אמר</row>
 		<row row_number="30" isdata="1">כלום למימרא דבטל לישנא דלבטיל משמע</row>
 		<row row_number="31" isdata="1">והאמר רבה בר איבו אמר רב ששת</row>

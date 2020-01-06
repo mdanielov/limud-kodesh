@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:47.956002</dateCreated>
-   <lastModified>2019-12-21 21:41:47.956002</lastModified>
+   <dateCreated>2020-01-06 09:30:59.612601</dateCreated>
+   <lastModified>2020-01-06 09:30:59.612601</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="17">
@@ -20,9 +20,9 @@
 		<row row_number="6" isdata="1">למעבד חטה אחת כדשמואל ולא קעביד</row>
 		<row row_number="7" isdata="1">הימוני מהימני אלא גזירה משום תרומה</row>
 		<row row_number="8" isdata="1">טמאה ביד כהן דילמא משהי לה גביה</row>
-		<row row_number="9" isdata="1">ואתי לידי תקלה ואידך אמר ר' חייא בר</row>
+		<row row_number="9" isdata="1">ואתי לידי תקלה: ואידך אמר ר' חייא בר</row>
 		<row row_number="10" isdata="1">אמי משמיה דעולא אף מי שהחשיך לו</row>
-		<row row_number="11" isdata="1">בדרך נותן כיסו לנכרי בו ביום גזרו</row>
+		<row row_number="11" isdata="1">בדרך נותן כיסו לנכרי בו ביום גזרו:</row>
 		<row row_number="12" isdata="1">ואידך אמר באלי אמר אבימי סנוותאה פתן</row>
 		<row row_number="13" isdata="1">ושמנן ויינן ובנותיהן כולן מי"ח דבר הן הניחא</row>
 		<row row_number="14" isdata="1">לרבי מאיר אלא לר' יוסי שבסרי הויין איכא</row>
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">בזיבה שלא יהא תינוק ישראל רגיל אצלו</row>
 		<row row_number="24" isdata="1">במשכב זכור אי הכי לר"מ נמי תשסרי הויין</row>
 		<row row_number="25" isdata="1">אוכלין וכלים שנטמאו במשקין בחדא חשיב</row>
-		<row row_number="26" isdata="1">להומתני' ב"ש אומרים אין שורין דיו</row>
+		<row row_number="26" isdata="1">להו<EndGemara/><StartMishna/>מתני' ב"ש אומרים אין שורין דיו</row>
 		<row row_number="27" isdata="1">וסמנים וכרשינין אלא כדי שישורו מבעוד</row>
 		<row row_number="28" isdata="1">יום וב"ה מתירין ב"ש אומרים אין נותנין</row>
 		<row row_number="29" isdata="1">אונין של פשתן לתוך התנור אלא כדי</row>

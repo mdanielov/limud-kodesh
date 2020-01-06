@@ -6,21 +6,21 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.714751</dateCreated>
-   <lastModified>2019-12-21 21:42:01.714751</lastModified>
+   <dateCreated>2020-01-06 09:32:13.681413</dateCreated>
+   <lastModified>2020-01-06 09:32:13.682434</lastModified>
  </meta>
  <masechet name="מגילה" serial="11">
 <daf value="8">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "מגילה נקראת"/><ContMishna/>מתני' אין בין המודר הנאה מחבירו<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">למודר ממנו מאכל אלא דריסת הרגל וכלים</row>
-		<row row_number="3" isdata="1">שאין עושין בהן אוכל נפש<EndMishna/><StartGemara/>גמ' הא לענין</row>
-		<row row_number="4" isdata="1">כלים שעושין בהן אוכל נפש זה וזה שוין</row>
-		<row row_number="5" isdata="1">דריסת הרגל הא לא קפדי אינשי אמר</row>
+		<row row_number="3" isdata="1">שאין עושין בהן אוכל נפש:<EndMishna/><StartGemara/>גמ' הא לענין</row>
+		<row row_number="4" isdata="1">כלים שעושין בהן אוכל נפש זה וזה שוין:</row>
+		<row row_number="5" isdata="1">דריסת הרגל: הא לא קפדי אינשי אמר</row>
 		<row row_number="6" isdata="1">רבא הא מני רבי אליעזר דאמר ויתור אסור</row>
-		<row row_number="7" isdata="1">במודר הנאהמתני' אין בין נדרים</row>
+		<row row_number="7" isdata="1">במודר הנאה<EndGemara/><StartMishna/>מתני' אין בין נדרים</row>
 		<row row_number="8" isdata="1">לנדבות אלא שהנדרים חייב באחריותן</row>
-		<row row_number="9" isdata="1">ונדבות אינו חייב באחריותן<EndMishna/><StartGemara/>גמ' הא לענין</row>
+		<row row_number="9" isdata="1">ונדבות אינו חייב באחריותן:<EndMishna/><StartGemara/>גמ' הא לענין</row>
 		<row row_number="10" isdata="1">בל תאחר זה וזה שוין תנן התם אי זהו</row>
 		<row row_number="11" isdata="1">נדר האומר הרי עלי עולה איזו היא נדבה</row>
 		<row row_number="12" isdata="1">האומר הרי זו עולה ומה בין נדרים לנדבות</row>
@@ -30,9 +30,9 @@
 		<row row_number="16" isdata="1">לכפר עליו ר' שמעון אומר את שעליו חייב</row>
 		<row row_number="17" isdata="1">באחריותו ואת שאינו עליו אינו חייב באחריותו</row>
 		<row row_number="18" isdata="1">מאי משמע א"ר יצחק בר אבדימי כיון דאמר</row>
-		<row row_number="19" isdata="1">עלי כמאן דטעין אכתפיה דמימתני' אין</row>
+		<row row_number="19" isdata="1">עלי כמאן דטעין אכתפיה דמי<EndGemara/><StartMishna/>מתני' אין</row>
 		<row row_number="20" isdata="1">בין זב הרואה שתי ראיות לרואה שלש אלא</row>
-		<row row_number="21" isdata="1">קרבן<EndMishna/><StartGemara/>גמ' הא לענין משכב ומושב וספירת</row>
+		<row row_number="21" isdata="1">קרבן:<EndMishna/><StartGemara/>גמ' הא לענין משכב ומושב וספירת</row>
 		<row row_number="22" isdata="1">שבעה זה וזה שוין מנהני מילי דתנו רבנן</row>
 		<row row_number="23" isdata="1">רבי סימאי אומר מנה הכתוב שתים וקראו</row>
 		<row row_number="24" isdata="1">טמא שלש וקראו טמא הא כיצד שתים</row>

@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:19.208861</dateCreated>
-   <lastModified>2019-12-21 21:42:19.208861</lastModified>
+   <dateCreated>2020-01-06 09:33:37.826898</dateCreated>
+   <lastModified>2020-01-06 09:33:37.826898</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="65">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "איזהו נשך"/><ContGemara/>והלכתא כרב חמא והלכתא כרבי אלעזר</row>
 		<row row_number="2" isdata="1">והלכתא כרבי ינאי דאמר מה לי הן ומה</row>
-		<row row_number="3" isdata="1">לי דמיהןמתני' מכר לו את השדה</row>
+		<row row_number="3" isdata="1">לי דמיהן<EndGemara/><StartMishna/>מתני' מכר לו את השדה</row>
 		<row row_number="4" isdata="1">ונתן לו מקצת דמים ואמר לו אימתי שתרצה</row>
 		<row row_number="5" isdata="1">הבא מעות וטול את שלך אסור הלוהו על</row>
 		<row row_number="6" isdata="1">שדהו ואמר לו אם אי אתה נותן לי מכאן</row>
 		<row row_number="7" isdata="1">ועד שלש שנים הרי היא שלי הרי היא שלו</row>
-		<row row_number="8" isdata="1">וכך היה ביתוס בן זונין עושה ע"פ חכמים</row>
+		<row row_number="8" isdata="1">וכך היה ביתוס בן זונין עושה ע"פ חכמים:</row>
 		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' מי אוכל פירות רב הונא אמר מוכר</row>
 		<row row_number="10" isdata="1">אוכל פירות רב ענן אמר משלשין את</row>
 		<row row_number="11" isdata="1">הפירות ולא פליגי הא דאמר לכי מייתית</row>
@@ -37,19 +37,19 @@
 		<row row_number="23" isdata="1">מאן תנא שניהם אסורין אמר רב הונא</row>
 		<row row_number="24" isdata="1">בריה דרב יהושע דלא כרבי יהודה דאי</row>
 		<row row_number="25" isdata="1">רבי יהודה הא אמר צד אחד ברבית</row>
-		<row row_number="26" isdata="1">מותר משכן לו בית משכן לו שדה ואמר</row>
+		<row row_number="26" isdata="1">מותר: משכן לו בית משכן לו שדה ואמר</row>
 		<row row_number="27" isdata="1">לו לכשתרצה למוכרם לא תמכרם אלא</row>
 		<row row_number="28" isdata="1">לי בדמים הללו אסור בשוייהן מותר מאן</row>
 		<row row_number="29" isdata="1">תנא בדמים הללו אסור אמר רב הונא</row>
 		<row row_number="30" isdata="1">בריה דרב יהושע דלא כרבי יהודה דאי רבי</row>
-		<row row_number="31" isdata="1">יהודה האמר צד אחד ברבית מותר</row>
+		<row row_number="31" isdata="1">יהודה האמר צד אחד ברבית מותר:</row>
 		<row row_number="32" isdata="1">מכר לו בית מכר לו שדה ואמר לו לכשיהיו</row>
 		<row row_number="33" isdata="1">לי מעות החזירם לי אסור לכשיהיו לך מעות</row>
-		<row row_number="34" isdata="1">אחזירם לך מותר מאן תנא אמר רב הונא</row>
+		<row row_number="34" isdata="1">אחזירם לך מותר: מאן תנא אמר רב הונא</row>
 		<row row_number="35" isdata="1">בריה דרב יהושע דלא כרבי יהודה דאי רבי</row>
 		<row row_number="36" isdata="1">יהודה האמר צד אחד בריבית מותר מאי</row>
 		<row row_number="37" isdata="1">שנא רישא ומ"ש סיפא אמר רבא (רישא</row>
-		<row row_number="38" isdata="1">דלא א"ל מדעתיה) סיפא דא"ל מדעתיה</row>
+		<row row_number="38" isdata="1">דלא א"ל מדעתיה) סיפא דא"ל מדעתיה:</row>
 		<row row_number="39" isdata="1">ההוא גברא דזבין ליה ארעא לחבריה שלא</row>
 		<row row_number="40" isdata="1">באחריות חזייה דהוה קא עציב אמר ליה</row>
 		<row row_number="41" isdata="1">אמאי עציבת אי טרפו לה מינך מגבינא</row>

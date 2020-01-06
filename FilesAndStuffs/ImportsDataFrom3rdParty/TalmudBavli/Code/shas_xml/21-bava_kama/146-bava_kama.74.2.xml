@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.837448</dateCreated>
-   <lastModified>2019-12-21 21:42:16.837448</lastModified>
+   <dateCreated>2020-01-06 09:33:27.210591</dateCreated>
+   <lastModified>2020-01-06 09:33:27.210591</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="74">
@@ -38,7 +38,7 @@
 		<row row_number="24" isdata="1">אלא לאו ש"מ ר"א הוא דאמר אין נהרגין</row>
 		<row row_number="25" isdata="1">תסתיים לוקין תרי ותרי נינהו מאי חזית</row>
 		<row row_number="26" isdata="1">דסמכת אהני סמוך אהני אמר אביי בבא</row>
-		<row row_number="27" isdata="1">הרוג ברגליומתני' גנב ע"פ שנים וטבח</row>
+		<row row_number="27" isdata="1">הרוג ברגליו<EndGemara/><StartMishna/>מתני' גנב ע"פ שנים וטבח</row>
 		<row row_number="28" isdata="1">ומכר ע"פ עד אחד או ע"פ עצמו משלם</row>
 		<row row_number="29" isdata="1">תשלומי כפל ואינו משלם תשלומי ד' וה'</row>
 		<row row_number="30" isdata="1">גנב וטבח בשבת גנב וטבח לע"ז גנב</row>
@@ -47,14 +47,14 @@
 		<row row_number="33" isdata="1">תשלומי כפל ואינו משלם תשלומי ד' וה'</row>
 		<row row_number="34" isdata="1">ר"ש אומר קדשים שחייב באחריותם</row>
 		<row row_number="35" isdata="1">משלם תשלומי ד' וה' שאין חייב באחריותם</row>
-		<row row_number="36" isdata="1">פטור<EndMishna/><StartGemara/>גמ' על פי עד אחד פשיטא אמרי</row>
+		<row row_number="36" isdata="1">פטור:<EndMishna/><StartGemara/>גמ' על פי עד אחד פשיטא אמרי</row>
 		<row row_number="37" isdata="1">הא קמ"ל ע"פ עצמו דומיא דע"פ עד אחד</row>
 		<row row_number="38" isdata="1">מה ע"פ [עד] אחד כי אתי עד אחד מצטרף</row>
 		<row row_number="39" isdata="1">בהדיה מיחייב ע"פ עצמו נמי כי אתו עדים</row>
 		<row row_number="40" isdata="1">מיחייב לאפוקי מדרב הונא אמר רב דאמר</row>
 		<row row_number="41" isdata="1">רב הונא אמר רב מודה בקנס ואח"כ</row>
-		<row row_number="42" isdata="1">באו עדים פטור גופא אמר רב הונא אמר</row>
-		<row row_number="43" isdata="1">רב מודה בקנס ואח"כ באו עדים פטור</row>
+		<row row_number="42" isdata="1">באו עדים פטור: גופא אמר רב הונא אמר</row>
+		<row row_number="43" isdata="1">רב מודה בקנס ואח"כ באו עדים פטור:</row>
 		<row row_number="44" isdata="1">איתיביה רב חסדא לרב הונא מעשה בר"ג שסימא את עין טבי עבדו והיה</row>
 		<row row_number="45" isdata="1">שמח שמחה גדולה מצאו לר' יהושע אמר לו אי אתה יודע שטבי עבדי יצא</row>
 		<row row_number="46" isdata="1">לחירות אמר לו למה א"ל שסמיתי את עינו אמר לו אין בדבריך כלום שכבר</row>

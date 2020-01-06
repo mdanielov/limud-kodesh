@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.271729</dateCreated>
-   <lastModified>2019-12-21 21:42:08.271729</lastModified>
+   <dateCreated>2020-01-06 09:32:46.484499</dateCreated>
+   <lastModified>2020-01-06 09:32:46.484499</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="33">
@@ -25,15 +25,15 @@
 		<row row_number="11" isdata="1">אילימא שלא ליראות בהן צריכא למימר</row>
 		<row row_number="12" isdata="1">אלא לאו אפילו ליראות בהן וקתני משאילו</row>
 		<row row_number="13" isdata="1">לא לעולם שלא ליראות ואיידי דקתני</row>
-		<row row_number="14" isdata="1">רישא לא ישאילנו תנא סיפא משאילו</row>
+		<row row_number="14" isdata="1">רישא לא ישאילנו תנא סיפא משאילו:</row>
 		<row row_number="15" isdata="1"><EndGemara/><StartMishna/>מתני' וכל דבר שאין עושין בו אוכל</row>
-		<row row_number="16" isdata="1">נפש מקום שמשכירין כיוצא בהן אסור</row>
+		<row row_number="16" isdata="1">נפש מקום שמשכירין כיוצא בהן אסור:</row>
 		<row row_number="17" isdata="1"><EndMishna/><StartGemara/>גמ' מכלל דרישא אף על פי שאין</row>
 		<row row_number="18" isdata="1">משכירין מאן תנא אמר רב אדא בר</row>
-		<row row_number="19" isdata="1">אהבה ר' אליעזר היאמתני' המודר</row>
+		<row row_number="19" isdata="1">אהבה ר' אליעזר היא<EndGemara/><StartMishna/>מתני' המודר</row>
 		<row row_number="20" isdata="1">הנאה מחבירו שוקל לו את שקלו ופורע</row>
 		<row row_number="21" isdata="1">את חובו ומחזיר לו את אבידתו מקום</row>
-		<row row_number="22" isdata="1">שנוטלין עליה שכר תפול הנאה להקדש</row>
+		<row row_number="22" isdata="1">שנוטלין עליה שכר תפול הנאה להקדש:</row>
 		<row row_number="23" isdata="1"><EndMishna/><StartGemara/>גמ' אלמא אברוחי ארי בעלמא הוא</row>
 		<row row_number="24" isdata="1">ושרי מאן תנא אמר רב הושעיא זו</row>
 </amud>

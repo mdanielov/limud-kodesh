@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:52.707550</dateCreated>
-   <lastModified>2019-12-21 21:41:52.707550</lastModified>
+   <dateCreated>2020-01-06 09:31:18.627187</dateCreated>
+   <lastModified>2020-01-06 09:31:18.627187</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="45">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>ובלבד שלא יוציא זה מתוך שלו לתוך של</row>
+		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContMishna/>ובלבד שלא יוציא זה מתוך שלו לתוך של</row>
 		<row row_number="2" isdata="1">חברו היו שלשה והאמצעי מובלע ביניהן</row>
 		<row row_number="3" isdata="1">הוא מותר עמהן והן מותרין עמו ושנים</row>
 		<row row_number="4" isdata="1">החיצונים אסורין זה עם זה אמר רבי שמעון</row>
 		<row row_number="5" isdata="1">למה הדבר דומה לשלש חצירות הפתוחות</row>
 		<row row_number="6" isdata="1">זו לזו ופתוחות לרשות הרבים עירבו שתים</row>
 		<row row_number="7" isdata="1">עם האמצעית היא מותרת עמהן והם מותרות</row>
-		<row row_number="8" isdata="1">עמה ושתים החיצונות אסורות זו עם זו</row>
+		<row row_number="8" isdata="1">עמה ושתים החיצונות אסורות זו עם זו:</row>
 		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' בעי רבא מאי קסבר ר' יוחנן בן נורי</row>
 		<row row_number="10" isdata="1">מסבר קא סבר חפצי הפקר קונין שביתה</row>
 		<row row_number="11" isdata="1">ובדין הוא דליפלוג בכלים והא דקמיפלגי</row>
@@ -48,7 +48,7 @@
 		<row row_number="34" isdata="1">מגופה אי סלקא דעתך גשמים הסמוכין</row>
 		<row row_number="35" isdata="1">לעיר עסקינן האי יש להן אלפים אמה לכל</row>
 		<row row_number="36" isdata="1">רוח הא כרגלי אנשי אותה העיר מיבעיא</row>
-		<row row_number="37" isdata="1">ליה אמר מר ביום טוב הרי הן כרגלי כל</row>
+		<row row_number="37" isdata="1">ליה: אמר מר ביום טוב הרי הן כרגלי כל</row>
 		<row row_number="38" isdata="1">אדם ואמאי ליקני שביתה באוקיינוס לימא</row>
 		<row row_number="39" isdata="1">דלא כרבי אליעזר דאי כר' אליעזר הא אמר</row>
 		<row row_number="40" isdata="1">כל העולם כולו ממי אוקיינוס הוא שותה אמר</row>

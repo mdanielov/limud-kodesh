@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.176729</dateCreated>
-   <lastModified>2019-12-21 21:42:08.176729</lastModified>
+   <dateCreated>2020-01-06 09:32:45.982035</dateCreated>
+   <lastModified>2020-01-06 09:32:45.982035</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="27">
@@ -26,10 +26,10 @@
 		<row row_number="12" isdata="1">הותר לאחד מהם הותרו כולן חוץ מאחד</row>
 		<row row_number="13" isdata="1">מהן הוא מותר והן אסורין אי לרבה רישא</row>
 		<row row_number="14" isdata="1">רבי עקיבא וסיפא דברי הכל אי לרבא סיפא</row>
-		<row row_number="15" isdata="1">רבנן ורישא דברי הכלמתני' נדרי</row>
+		<row row_number="15" isdata="1">רבנן ורישא דברי הכל<EndGemara/><StartMishna/>מתני' נדרי</row>
 		<row row_number="16" isdata="1">אונסין הדירו חבירו שיאכל אצלו וחלה</row>
 		<row row_number="17" isdata="1">הוא או שחלה בנו או שעכבו נהר הרי אלו</row>
-		<row row_number="18" isdata="1">נדרי אונסין<EndMishna/><StartGemara/>גמ' ההוא גברא דאתפיס</row>
+		<row row_number="18" isdata="1">נדרי אונסין:<EndMishna/><StartGemara/>גמ' ההוא גברא דאתפיס</row>
 		<row row_number="19" isdata="1">זכוותא בבי דינא ואמר אי לא אתינא עד</row>
 		<row row_number="20" isdata="1">תלתין יומין ליבטלון הני זכוותאי איתניס</row>
 		<row row_number="21" isdata="1">ולא אתא אמר רב הונא בטיל זכוותיה</row>

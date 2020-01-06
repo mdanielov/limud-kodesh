@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.901257</dateCreated>
-   <lastModified>2019-12-21 21:42:34.901257</lastModified>
+   <dateCreated>2020-01-06 09:34:50.694246</dateCreated>
+   <lastModified>2020-01-06 09:34:50.694246</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="103">
@@ -17,12 +17,12 @@
 		<row row_number="3" isdata="1">נמי אמר רבי אחא בר חנינא אמר ר' אסי אמר</row>
 		<row row_number="4" isdata="1">רבי יוחנן לא שנו אלא שקבען בשעת נדר</row>
 		<row row_number="5" isdata="1">אבל בשעת הפרשה לא כאשר נדרת ולא</row>
-		<row row_number="6" isdata="1">כאשר הפרשתמתני' האומר הרי עלי</row>
+		<row row_number="6" isdata="1">כאשר הפרשת<EndGemara/><StartMishna/>מתני' האומר הרי עלי</row>
 		<row row_number="7" isdata="1">מנחה מן השעורים יביא מן החטים קמח יביא</row>
 		<row row_number="8" isdata="1">סולת בלא שמן ובלא לבונה יביא שמן</row>
 		<row row_number="9" isdata="1">ולבונה חצי עשרון יביא עשרון שלם עשרון</row>
 		<row row_number="10" isdata="1">ומחצה יביא שנים רבי שמעון פוטר שלא</row>
-		<row row_number="11" isdata="1">התנדב כדרך המתנדבין<EndMishna/><StartGemara/>גמ' אמאי נדר</row>
+		<row row_number="11" isdata="1">התנדב כדרך המתנדבין:<EndMishna/><StartGemara/>גמ' אמאי נדר</row>
 		<row row_number="12" isdata="1">ופתחו עמו הוא אמר חזקיה הא מני בית</row>
 		<row row_number="13" isdata="1">שמאי היא דאמרי תפוס לשון ראשון דתנן</row>
 		<row row_number="14" isdata="1">הריני נזיר מן הגרוגרות ומן הדבילה ב"ש</row>

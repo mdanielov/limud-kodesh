@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.586001</dateCreated>
-   <lastModified>2019-12-21 21:42:13.586001</lastModified>
+   <dateCreated>2020-01-06 09:33:12.231414</dateCreated>
+   <lastModified>2020-01-06 09:33:12.231414</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="85">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "המגרש"/><ContGemara/>רבי יהודה אומר ודן דיהוי ליכי מינאי ספר</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המגרש"/><ContMishna/>רבי יהודה אומר ודן דיהוי ליכי מינאי ספר</row>
 		<row row_number="2" isdata="1">תירוכין ואגרת שבוקין וגט פטורין למהך</row>
 		<row row_number="3" isdata="1">להתנסבא לכל גבר דיתצביין גופו של גט</row>
-		<row row_number="4" isdata="1">שחרור הרי את בת חורין הרי את לעצמך</row>
+		<row row_number="4" isdata="1">שחרור הרי את בת חורין הרי את לעצמך:</row>
 		<row row_number="5" isdata="1"><EndMishna/><StartGemara/>גמ' פשיטא אמר לה לאשתו הרי את בת</row>
 		<row row_number="6" isdata="1">חורין לא אמר ולא כלום אמר לה לשפחתו</row>
 		<row row_number="7" isdata="1">הרי את מותרת לכל אדם לא אמר ולא כלום</row>
@@ -33,8 +33,8 @@
 		<row row_number="19" isdata="1">גמליאל בד"א שלא כתב עליו אונו אבל כתב</row>
 		<row row_number="20" isdata="1">עליו אונו זהו שחרורו מאי אונו אמר רב</row>
 		<row row_number="21" isdata="1">ששת דכתב ליה לכשתברח ממנו אין לי</row>
-		<row row_number="22" isdata="1">עסק בך ר' יהודה אומר ודן דיהוי ליכי מינאי</row>
-		<row row_number="23" isdata="1">ספר תירוכין ואגרת שבוקין במאי קמיפלגי</row>
+		<row row_number="22" isdata="1">עסק בך: ר' יהודה אומר ודן דיהוי ליכי מינאי</row>
+		<row row_number="23" isdata="1">ספר תירוכין ואגרת שבוקין: במאי קמיפלגי</row>
 		<row row_number="24" isdata="1">רבנן סברי ידים שאין מוכיחות הויין ידים</row>
 		<row row_number="25" isdata="1">ואף על גב דלא כתב לה ודן מוכחא מילתא</row>
 		<row row_number="26" isdata="1">דבהאי גיטא קא מגרש לה ור' יהודה סבר</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">בר פלניא פטר ותריך ית פלוניתא אינתתיה</row>
 		<row row_number="44" isdata="1">דהות אינתתיה מן קדם דנא מיומא דנן</row>
 		<row row_number="45" isdata="1">ולעלם ואילו ודן לא קאמר ולטעמיך כולהו</row>
-		<row row_number="46" isdata="1">מי קאמר אלא בעינן הכא נמי בעינן</row>
+		<row row_number="46" isdata="1">מי קאמר אלא בעינן הכא נמי בעינן:</row>
 		<row row_number="47" isdata="1">מיומא דנן לאפוקי מדרבי יוסי דאמר זמנו של שטר מוכיח עליו ולעלם</row>
 </amud>
 </daf>

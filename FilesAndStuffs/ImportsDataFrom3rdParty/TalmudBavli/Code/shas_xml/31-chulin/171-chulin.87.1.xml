@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:37.204572</dateCreated>
-   <lastModified>2019-12-21 21:42:37.204572</lastModified>
+   <dateCreated>2020-01-06 09:34:59.553281</dateCreated>
+   <lastModified>2020-01-06 09:34:59.553281</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="87">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כסוי הדם"/><ContGemara/>הכי השתא התם משתא וברוכי בהדי הדדי</row>
 		<row row_number="2" isdata="1">לא אפשר הכא אפשר דשחיט בחדא ומכסי</row>
-		<row row_number="3" isdata="1">בחדאמתני' שחט ולא כסה וראהו</row>
+		<row row_number="3" isdata="1">בחדא<EndGemara/><StartMishna/>מתני' שחט ולא כסה וראהו</row>
 		<row row_number="4" isdata="1">אחר חייב לכסות כסהו ונתגלה פטור</row>
-		<row row_number="5" isdata="1">מלכסות כסהו הרוח חייב לכסות<EndMishna/><StartGemara/>גמ' ת"ר</row>
+		<row row_number="5" isdata="1">מלכסות כסהו הרוח חייב לכסות:<EndMishna/><StartGemara/>גמ' ת"ר</row>
 		<row row_number="6" isdata="1">ושפך וכסה מי ששפך יכסה שחט ולא</row>
 		<row row_number="7" isdata="1">כסה וראהו אחר מנין שחייב לכסות שנאמר</row>
 		<row row_number="8" isdata="1">ואומר לבני ישראל אזהרה לכל בני ישראל</row>
@@ -45,15 +45,15 @@
 		<row row_number="31" isdata="1">שותה יצתה בת קול ואמרה כוס של ברכה</row>
 		<row row_number="32" isdata="1">ישוה ארבעים זהובים אמר רבי יצחק עדיין</row>
 		<row row_number="33" isdata="1">ישנה לאותה משפחה בין גדולי רומי</row>
-		<row row_number="34" isdata="1">וקוראין אותה משפחת בר לויאנוס כסהו</row>
-		<row row_number="35" isdata="1">ונתגלה אמר ליה רב אחא בריה דרבא לרב</row>
+		<row row_number="34" isdata="1">וקוראין אותה משפחת בר לויאנוס: כסהו</row>
+		<row row_number="35" isdata="1">ונתגלה: אמר ליה רב אחא בריה דרבא לרב</row>
 		<row row_number="36" isdata="1">אשי מאי שנא מהשבת אבדה דאמר מר השב אפילו מאה</row>
-		<row row_number="37" isdata="1">פעמים אמר ליה התם לא כתיב מיעוטא הכא כתיב מיעוטא וכסהו</row>
-		<row row_number="38" isdata="1">כסהו הרוח אמר רבה בר בר חנה אמר רבי יוחנן לא שנו אלא</row>
+		<row row_number="37" isdata="1">פעמים אמר ליה התם לא כתיב מיעוטא הכא כתיב מיעוטא וכסהו:</row>
+		<row row_number="38" isdata="1">כסהו הרוח: אמר רבה בר בר חנה אמר רבי יוחנן לא שנו אלא</row>
 		<row row_number="39" isdata="1">שחזר ונתגלה אבל לא חזר ונתגלה פטור מלכסות וכי חזר ונתגלה מאי</row>
 		<row row_number="40" isdata="1">הוי הא אידחי ליה אמר רב פפא זאת אומרת אין דיחוי אצל מצות</row>
 		<row row_number="41" isdata="1">ומאי שנא מהא דתניא השוחט ונבלע דם בקרקע חייב לכסות התם</row>
-		<row row_number="42" isdata="1">כשרשומו ניכרמתני' דם שנתערב במים אם יש בו מראית דם חייב</row>
+		<row row_number="42" isdata="1">כשרשומו ניכר<EndGemara/><StartMishna/>מתני' דם שנתערב במים אם יש בו מראית דם חייב</row>
 		<row row_number="43" isdata="1">לכסות נתערב ביין רואין אותו כאילו הוא מים נתערב בדם הבהמה</row>
 </amud>
 </daf>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.854750</dateCreated>
-   <lastModified>2019-12-21 21:42:01.854750</lastModified>
+   <dateCreated>2020-01-06 09:32:14.568548</dateCreated>
+   <lastModified>2020-01-06 09:32:14.568548</lastModified>
  </meta>
  <masechet name="מגילה" serial="11">
 <daf value="17">
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">דהוה בבית עבר לא חשיב להו סוף סוף דבית לבן עשרין שנין הויין אלא</row>
 		<row row_number="21" isdata="1">משום דאשתהי באורחא תרתין שנין דתניא יצא מארם נהרים ובא לו לסכות</row>
 		<row row_number="22" isdata="1">ועשה שם שמונה עשר חודש שנאמר ויעקב נסע סכותה ויבן לו בית</row>
-		<row row_number="23" isdata="1">ולמקנהו עשה סכות ובבית אל עשה ששה חדשים והקריב זבחים<EndChapter name = "מגילה נקראת"/><EndGemara/></row>
+		<row row_number="23" isdata="1">ולמקנהו עשה סכות ובבית אל עשה ששה חדשים והקריב זבחים:<EndChapter name = "מגילה נקראת"/><EndGemara/></row>
 		<row row_number="24" isdata="0">הדרן עלך מגילה נקראת</row>
 		<row row_number="25" isdata="1"><StartChapter name = "הקורא למפרע"/><StartMishna/>הקורא את המגילה למפרע לא יצא</row>
 		<row row_number="26" isdata="1">קראה על פה קראה תרגום בכל</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">אם כוון לבו יצא ואם לאו לא יצא היתה</row>
 		<row row_number="31" isdata="1">כתובה בסם ובסיקרא ובקומוס ובקנקנתום</row>
 		<row row_number="32" isdata="1">על הנייר ועל הדפתרא לא יצא עד שתהא</row>
-		<row row_number="33" isdata="1">כתובה אשורית על הספר ובדיו<EndMishna/><StartGemara/>גמ' מה"מ אמר רבא דאמר קרא</row>
+		<row row_number="33" isdata="1">כתובה אשורית על הספר ובדיו:<EndMishna/><StartGemara/>גמ' מה"מ אמר רבא דאמר קרא</row>
 		<row row_number="34" isdata="1">ככתבם וכזמנם מה זמנם למפרע לא אף כתבם למפרע לא מידי קריאה</row>
 		<row row_number="35" isdata="1">כתיבה הכא עשייה כתיבה דכתיב להיות עושים את שני הימים</row>
 		<row row_number="36" isdata="1">אלא מהכא דכתיב והימים האלה נזכרים ונעשים איתקש זכירה לעשייה</row>

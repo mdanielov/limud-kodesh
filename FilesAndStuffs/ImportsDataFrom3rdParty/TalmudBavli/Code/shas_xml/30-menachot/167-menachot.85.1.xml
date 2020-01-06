@@ -6,26 +6,26 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.553231</dateCreated>
-   <lastModified>2019-12-21 21:42:34.553231</lastModified>
+   <dateCreated>2020-01-06 09:34:48.994033</dateCreated>
+   <lastModified>2020-01-06 09:34:48.994033</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="85">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כל קרבנות הצבור"/><ContGemara/>אלא לרבי יוחנן קשיא תנאי היא דתניא</row>
 		<row row_number="2" isdata="1">שבגג ושבחורבה מביא וקורא שבעציץ</row>
-		<row row_number="3" isdata="1">ושבספינה אינו מביא כל עיקר וכולן אינן</row>
-		<row row_number="4" isdata="1">באות אלא מן המובחר כו' אמרי ליה</row>
+		<row row_number="3" isdata="1">ושבספינה אינו מביא כל עיקר: וכולן אינן</row>
+		<row row_number="4" isdata="1">באות אלא מן המובחר כו': אמרי ליה</row>
 		<row row_number="5" isdata="1">יוחנא וממרא למשה תבן אתה מכניס</row>
 		<row row_number="6" isdata="1">לעפריים אמר להו אמרי אינשי למתא</row>
-		<row row_number="7" isdata="1">ירקא ירקא שקולמתני' אין מביאין לא</row>
+		<row row_number="7" isdata="1">ירקא ירקא שקול<EndGemara/><StartMishna/>מתני' אין מביאין לא</row>
 		<row row_number="8" isdata="1">מבית הזבלים ולא מבית השלחים ולא מבית</row>
 		<row row_number="9" isdata="1">האילן ואם הביא כשר כיצד הוא עושה</row>
 		<row row_number="10" isdata="1">נרה שנה ראשונה ובשנה שניה זורעה</row>
 		<row row_number="11" isdata="1">קודם לפסח שבעים יום והוא עושה סולת</row>
 		<row row_number="12" isdata="1">מרובה כיצד בודק הגזבר מכניס ידו</row>
 		<row row_number="13" isdata="1">לתוכן עלה בה אבק פסולה עד שינפנה</row>
-		<row row_number="14" isdata="1">ואם התליעה פסולה<EndMishna/><StartGemara/>גמ' כיצד עושה נרה</row>
+		<row row_number="14" isdata="1">ואם התליעה פסולה:<EndMishna/><StartGemara/>גמ' כיצד עושה נרה</row>
 		<row row_number="15" isdata="1">שנה ראשונה איבעיא להו היכי קאמר</row>
 		<row row_number="16" isdata="1">נרה שנה ראשונה ושניה נרה וזורעה או</row>
 		<row row_number="17" isdata="1">דלמא נרה שנה ראשונה ושניה זורעה בלא</row>

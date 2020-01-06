@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.080285</dateCreated>
-   <lastModified>2019-12-21 21:41:54.080285</lastModified>
+   <dateCreated>2020-01-06 09:31:24.431664</dateCreated>
+   <lastModified>2020-01-06 09:31:24.431664</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="103">
@@ -29,9 +29,9 @@
 		<row row_number="15" isdata="1">ניהליה ביד האי מאי אי אמרת בשלמא רבי</row>
 		<row row_number="16" isdata="1">אליעזר היינו דגזר יד אטו כלי אלא אי</row>
 		<row row_number="17" isdata="1">אמרת רבנן היא נשקליה ניהליה ביד ותו</row>
-		<row row_number="18" isdata="1">לא מידימתני' כהן שלקה באצבעו</row>
+		<row row_number="18" isdata="1">לא מידי<EndGemara/><StartMishna/>מתני' כהן שלקה באצבעו</row>
 		<row row_number="19" isdata="1">כורך עליה גמי במקדש אבל לא במדינה</row>
-		<row row_number="20" isdata="1">אם להוציא דם כאן וכאן אסור<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="20" isdata="1">אם להוציא דם כאן וכאן אסור:<EndMishna/><StartGemara/>גמ' אמר</row>
 		<row row_number="21" isdata="1">רב יהודה בריה דרבי חייא לא שנו אלא</row>
 		<row row_number="22" isdata="1">גמי אבל צלצול קטן הוי יתור בגדים ורבי</row>
 		<row row_number="23" isdata="1">יוחנן אמר לא אמרו יתור בגדים אלא במקום</row>

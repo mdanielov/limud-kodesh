@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.767139</dateCreated>
-   <lastModified>2019-12-21 21:42:12.767139</lastModified>
+   <dateCreated>2020-01-06 09:33:08.170245</dateCreated>
+   <lastModified>2020-01-06 09:33:08.170245</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="45">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "השולח"/><ContGemara/>מפני תיקון העולםגמ' אמר ליה רב בודיאמפני תיקון העולם<EndMishna/><StartGemara/></row>
+		<row row_number="1" isdata="1"><ContChapter name = "השולח"/><ContMishna/>מפני תיקון העולם:גמ' אמר ליה רב בודיאמפני תיקון העולם:<EndMishna/><StartGemara/></row>
 		<row row_number="2" isdata="1">לרב אשי יתר על כדי דמיהן הוא דאין לוקחין</row>
 		<row row_number="3" isdata="1">הא בכדי דמיהן לוקחין שמע מינה ס"ת</row>
 		<row row_number="4" isdata="1">שנמצא ביד עובד כוכבים קורין בו דילמא</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">טייעתא דאייתי חייתא דתפילי לקמיה דאביי</row>
 		<row row_number="34" isdata="1">אמר לה יהבת לי ריש ריש בתמרי אימליא</row>
 		<row row_number="35" isdata="1">זיהרא שקלא שדתינהו בנהרא אמר לא אבעי</row>
-		<row row_number="36" isdata="1">לי לזלזולינהו באפה כולי האימתני'</row>
+		<row row_number="36" isdata="1">לי לזלזולינהו באפה כולי האי<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="37" isdata="1">המוציא את אשתו משום שם רע לא יחזיר</row>
 		<row row_number="38" isdata="1">משום נדר לא יחזיר רבי יהודה אומר כל נדר</row>
 		<row row_number="39" isdata="1">שידעו בו רבים לא יחזיר ושלא ידעו בו רבים</row>
@@ -56,7 +56,7 @@
 		<row row_number="42" isdata="1">אלעזר לא אסרו זה אלא מפני זה אמר ר' יוסי</row>
 		<row row_number="43" isdata="1">בר' יהודה מעשה בצידן באחד שאמר לאשתו</row>
 		<row row_number="44" isdata="1">קונם אם איני מגרשיך וגרשה והתירו לו</row>
-		<row row_number="45" isdata="1">חכמים שיחזירנה מפני תיקון העולם<EndMishna/><StartGemara/>גמ' א"ר</row>
+		<row row_number="45" isdata="1">חכמים שיחזירנה מפני תיקון העולם:<EndMishna/><StartGemara/>גמ' א"ר</row>
 		<row row_number="46" isdata="1">יוסף בר מניומי אמר רב נחמן והוא</row>
 		<row row_number="47" isdata="1">שאמר לה משום שם רע אני מוציאך</row>
 </amud>

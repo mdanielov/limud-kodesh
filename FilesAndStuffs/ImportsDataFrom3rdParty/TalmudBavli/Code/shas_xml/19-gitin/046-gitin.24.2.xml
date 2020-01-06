@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.355899</dateCreated>
-   <lastModified>2019-12-21 21:42:12.355899</lastModified>
+   <dateCreated>2020-01-06 09:33:05.038977</dateCreated>
+   <lastModified>2020-01-06 09:33:05.038977</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="24">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContMishna/>יתר מיכן היו לו שתי נשים ושמותיהן</row>
 		<row row_number="2" isdata="1">שוות כתב לגרש את הגדולה לא יגרש</row>
 		<row row_number="3" isdata="1">בו את הקטנה יתר מיכן אמר ללבלר</row>
-		<row row_number="4" isdata="1">כתוב לאיזו שארצה אגרש פסול לגרש בו</row>
+		<row row_number="4" isdata="1">כתוב לאיזו שארצה אגרש פסול לגרש בו:</row>
 		<row row_number="5" isdata="1"><EndMishna/><StartGemara/>גמ' כתב לגרש את אשתו ונמלך וכו'</row>
 		<row row_number="6" isdata="1">ואלא רישא במאי אמר רב פפא בסופרין</row>
 		<row row_number="7" isdata="1">העשויין להתלמד עסקינן אמר רב אשי</row>
@@ -37,8 +37,8 @@
 		<row row_number="23" isdata="1">לה אבל יש לו שתי נשים דאיהו קא</row>
 		<row row_number="24" isdata="1">כתיב לה אימא כשר כתב רחמנא לה</row>
 		<row row_number="25" isdata="1">לשמה וסיפא למה לי הא קא משמע לן</row>
-		<row row_number="26" isdata="1">דאין ברירה כתב לגרש את הגדולה לא</row>
-		<row row_number="27" isdata="1">יגרש בו את הקטנה קטנה הוא דלא</row>
+		<row row_number="26" isdata="1">דאין ברירה: כתב לגרש את הגדולה לא</row>
+		<row row_number="27" isdata="1">יגרש בו את הקטנה: קטנה הוא דלא</row>
 		<row row_number="28" isdata="1">מצי מגרש ביה הא גדולה מצי מגרש</row>
 		<row row_number="29" isdata="1">ביה אמר רבא זאת אומרת שני יוסף בן</row>
 		<row row_number="30" isdata="1">שמעון הדרין בעיר אחת מוציאין שטר</row>

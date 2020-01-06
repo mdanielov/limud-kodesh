@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.490315</dateCreated>
-   <lastModified>2019-12-21 21:42:35.490315</lastModified>
+   <dateCreated>2020-01-06 09:34:53.094173</dateCreated>
+   <lastModified>2020-01-06 09:34:53.094173</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="19">
@@ -34,11 +34,11 @@
 		<row row_number="20" isdata="1">אמר רבא שפיר קרי עליה עובד כוכבים עובד כוכבים בשלמא התם מדהוה</row>
 		<row row_number="21" isdata="1">ליה לישראל למשחט רובא ולא שחט כי נפקא חיותא בידא דעובד כוכבים</row>
 		<row row_number="22" isdata="1">קא נפקא אלא הכא מכדי משחט שחיט מה לי במקום נקב מה לי פגע בו</row>
-		<row row_number="23" isdata="1">נקבמתני' השוחט מן הצדדין שחיטתו כשרה המולק מן הצדדין מליקתו</row>
+		<row row_number="23" isdata="1">נקב<EndGemara/><StartMishna/>מתני' השוחט מן הצדדין שחיטתו כשרה המולק מן הצדדין מליקתו</row>
 		<row row_number="24" isdata="1">פסולה השוחט מן העורף שחיטתו פסולה המולק מן העורף מליקתו כשירה</row>
 		<row row_number="25" isdata="1">השוחט מן הצואר שחיטתו כשרה המולק מן הצואר מליקתו פסולה שכל</row>
 		<row row_number="26" isdata="1">העורף כשר למליקה וכל הצואר כשר לשחיטה נמצא כשר בשחיטה</row>
-		<row row_number="27" isdata="1">פסול במליקה כשר במליקה פסול בשחיטה<EndMishna/><StartGemara/>גמ' מאי עורף אילימא עורף</row>
+		<row row_number="27" isdata="1">פסול במליקה כשר במליקה פסול בשחיטה:<EndMishna/><StartGemara/>גמ' מאי עורף אילימא עורף</row>
 		<row row_number="28" isdata="1">ממש מאי אריא שוחט אפילו מולק נמי ממול ערפו אמר רחמנא ולא</row>
 		<row row_number="29" isdata="1">ערפו אלא מאי עורף ממול עורף כדקתני סיפא כל העורף כשר למליקה</row>
 		<row row_number="30" isdata="1">מנהני מילי דתנו רבנן ממול ערפו מול הרואה את העורף וכן הוא אומר</row>

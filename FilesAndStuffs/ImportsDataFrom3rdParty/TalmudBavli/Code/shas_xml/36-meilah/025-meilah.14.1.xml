@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.083287</dateCreated>
-   <lastModified>2019-12-21 21:42:41.083287</lastModified>
+   <dateCreated>2020-01-06 09:35:20.853756</dateCreated>
+   <lastModified>2020-01-06 09:35:20.853756</lastModified>
  </meta>
  <masechet name="מעילה" serial="36">
 <daf value="14">
@@ -29,9 +29,9 @@
 		<row row_number="15" isdata="1">ומאי יתיז יתיז אפרוחים אמר ליה רבי יעקב</row>
 		<row row_number="16" isdata="1">לרבי ירמיה אפרוחים כאן וכאן מותרין ביצים</row>
 		<row row_number="17" isdata="1">כאן וכאן אסורין אמר רב אשי אם אפרוחים</row>
-		<row row_number="18" isdata="1">צריכין לאמן כביצים דמומתני' הגזברים</row>
+		<row row_number="18" isdata="1">צריכין לאמן כביצים דמו<EndGemara/><StartMishna/>מתני' הגזברים</row>
 		<row row_number="19" isdata="1">שלקחו עצים מועלין בעצים ואין מועלין לא</row>
-		<row row_number="20" isdata="1">בשיפויי ולא בנבייה<EndMishna/><StartGemara/>גמ' אמר שמואל</row>
+		<row row_number="20" isdata="1">בשיפויי ולא בנבייה:<EndMishna/><StartGemara/>גמ' אמר שמואל</row>
 		<row row_number="21" isdata="1">בונין בחול ואח"כ מקדישין מאי טעמא מאן</row>
 		<row row_number="22" isdata="1">דמתנדב מעות מקדש להו דאמר תיחול</row>
 		<row row_number="23" isdata="1">קדושת מעות אבנין ויהיב להון לאומנין בשכרן</row>

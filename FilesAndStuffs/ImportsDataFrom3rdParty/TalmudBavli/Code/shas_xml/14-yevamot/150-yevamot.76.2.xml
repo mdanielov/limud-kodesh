@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:04.474392</dateCreated>
-   <lastModified>2019-12-21 21:42:04.474392</lastModified>
+   <dateCreated>2020-01-06 09:32:28.659024</dateCreated>
+   <lastModified>2020-01-06 09:32:28.659024</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="76">
@@ -31,7 +31,7 @@
 		<row row_number="17" isdata="1">הא בנתינה אסירי א"ל וליטעמיך אימא</row>
 		<row row_number="18" isdata="1">סיפא ואינן אסורין אלא מלבא בקהל הא</row>
 		<row row_number="19" isdata="1">בנתינה שרו אלא מהא ליכא למשמע</row>
-		<row row_number="20" isdata="1">מינהמתני' עמוני ומואבי אסורים</row>
+		<row row_number="20" isdata="1">מינה<EndGemara/><StartMishna/>מתני' עמוני ומואבי אסורים</row>
 		<row row_number="21" isdata="1">ואיסורן איסור עולם אבל נקבותיהם מותרות</row>
 		<row row_number="22" isdata="1">מיד מצרי ואדומי אינם אסורים אלא עד</row>
 		<row row_number="23" isdata="1">שלשה דורות אחד זכרים ואחד נקבות ר"ש</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">הדברים ומה אם במקום שאסר את הזכרים איסור עולם התיר את הנקבות</row>
 		<row row_number="26" isdata="1">מיד מקום שלא אסר את הזכרים אלא עד שלשה דורות אינו דין</row>
 		<row row_number="27" isdata="1">שנתיר את הנקבות מיד אמרו לו אם הלכה נקבל ואם לדין יש תשובה</row>
-		<row row_number="28" isdata="1">אמר להם לא כי הלכה אני אומר<EndMishna/><StartGemara/>גמ' מנא ה"מ א"ר יוחנן דאמר קרא</row>
+		<row row_number="28" isdata="1">אמר להם לא כי הלכה אני אומר:<EndMishna/><StartGemara/>גמ' מנא ה"מ א"ר יוחנן דאמר קרא</row>
 		<row row_number="29" isdata="1">וכראות שאול את דוד יוצא לקראת הפלשתי אמר אל אבנר שר הצבא בן</row>
 		<row row_number="30" isdata="1">מי זה הנער אבנר ויאמר אבנר חי נפשך המלך אם ידעתי ולא ידע</row>
 		<row row_number="31" isdata="1">ליה והכתיב ויאהבהו מאד ויהי לו נושא כלים אלא אאבוה קא משאיל</row>

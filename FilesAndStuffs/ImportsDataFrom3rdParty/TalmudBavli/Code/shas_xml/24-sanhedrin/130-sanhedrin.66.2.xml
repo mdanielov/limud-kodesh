@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:26.297791</dateCreated>
-   <lastModified>2019-12-21 21:42:26.297791</lastModified>
+   <dateCreated>2020-01-06 09:34:10.725058</dateCreated>
+   <lastModified>2020-01-06 09:34:10.725058</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="66">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "ארבע מיתות"/><ContGemara/>מאי לא תקלל ש"מ תרתימתני' הבא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "ארבע מיתות"/><ContGemara/>מאי לא תקלל ש"מ תרתי:מתני' הבאמאי לא תקלל ש"מ תרתי<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">על נערה המאורסה אינו חייב עד שתהא</row>
 		<row row_number="3" isdata="1">נערה בתולה מאורסה והיא בבית אביה</row>
 		<row row_number="4" isdata="1">באו עליה שנים הראשון בסקילה והשני</row>
-		<row row_number="5" isdata="1">בחנק<EndMishna/><StartGemara/>גמ' תנו רבנן נערה ולא בוגרת</row>
+		<row row_number="5" isdata="1">בחנק:<EndMishna/><StartGemara/>גמ' תנו רבנן נערה ולא בוגרת</row>
 		<row row_number="6" isdata="1">בתולה ולא בעולה מאורסה ולא נשואה</row>
 		<row row_number="7" isdata="1">בבית אביה פרט לשמסר האב לשלוחי</row>
 		<row row_number="8" isdata="1">הבעל אמר רב יהודה אמר רב זו דברי ר"מ</row>

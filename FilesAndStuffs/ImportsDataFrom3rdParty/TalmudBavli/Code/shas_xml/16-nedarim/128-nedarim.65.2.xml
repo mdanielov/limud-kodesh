@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.837651</dateCreated>
-   <lastModified>2019-12-21 21:42:08.837651</lastModified>
+   <dateCreated>2020-01-06 09:32:49.182818</dateCreated>
+   <lastModified>2020-01-06 09:32:49.182818</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="65">
@@ -21,19 +21,19 @@
 		<row row_number="7" isdata="1">נעשה כתולה נדרו בדבר תנא תולה נדרו</row>
 		<row row_number="8" isdata="1">בדבר ותנא נדר טעות אלא לר' יוחנן</row>
 		<row row_number="9" isdata="1">דאמר כבר מת וכבר עשה תשובה למה</row>
-		<row row_number="10" isdata="1">לי למתני תרי זימני נדר טעות קשיא</row>
+		<row row_number="10" isdata="1">לי למתני תרי זימני נדר טעות קשיא:</row>
 		<row row_number="11" isdata="1"><EndGemara/><StartMishna/>מתני' ועוד אמר ר"מ פותחין לו מן</row>
 		<row row_number="12" isdata="1">הכתוב שבתורה ואומרין לו אילו היית יודע</row>
 		<row row_number="13" isdata="1">שאתה עובר על לא תקום ועל לא תטור</row>
 		<row row_number="14" isdata="1">ועל לא תשנא את אחיך בלבבך ואהבת</row>
 		<row row_number="15" isdata="1">לרעך כמוך וחי אחיך עמך שהוא עני ואין</row>
 		<row row_number="16" isdata="1">אתה יכול לפרנסו אמר אילו הייתי יודע</row>
-		<row row_number="17" isdata="1">שהוא כן לא הייתי נודר הרי זה מותר</row>
+		<row row_number="17" isdata="1">שהוא כן לא הייתי נודר הרי זה מותר:</row>
 		<row row_number="18" isdata="1"><EndMishna/><StartGemara/>גמ' א"ל רב הונא בר רב קטינא לרבנן</row>
 		<row row_number="19" isdata="1">נימא כל דמעני לאו עלי נפיל מאי דמטי</row>
 		<row row_number="20" isdata="1">לי לפרנסו בהדי כ"ע מפרנסנא ליה א"ל</row>
 		<row row_number="21" isdata="1">אני אומר כל הנופל אינו נופל לידי גבאי</row>
-		<row row_number="22" isdata="1">תחלהמתני' פותחין לאדם בכתובת</row>
+		<row row_number="22" isdata="1">תחלה<EndGemara/><StartMishna/>מתני' פותחין לאדם בכתובת</row>
 		<row row_number="23" isdata="1">אשתו ומעשה באחד שנדר מאשתו הנאה</row>
 		<row row_number="24" isdata="1">והיתה כתובתה ת' דינרים ובא לפני ר"ע</row>
 		<row row_number="25" isdata="1">וחייבו ליתן לה כתובתה אמר לו רבי ח'</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">ואני מאתים א"ל ר"ע אפי' אתה מוכר שער</row>
 		<row row_number="29" isdata="1">ראשך אתה נותן לה כתובתה אמר לו</row>
 		<row row_number="30" isdata="1">אילו הייתי יודע שהוא כן לא הייתי נודר</row>
-		<row row_number="31" isdata="1">והתירה רבי עקיבא<EndMishna/><StartGemara/>גמ' מטלטלי מי</row>
+		<row row_number="31" isdata="1">והתירה רבי עקיבא:<EndMishna/><StartGemara/>גמ' מטלטלי מי</row>
 		<row row_number="32" isdata="1">משתעבדי לכתובה אמר אביי קרקע שוה</row>
 		<row row_number="33" isdata="1">ח' מאות דינר והקתני שער ראשו ושער</row>
 		<row row_number="34" isdata="1">ראשו מטלטלי הוא ה"ק אפי' אתה מוכר</row>

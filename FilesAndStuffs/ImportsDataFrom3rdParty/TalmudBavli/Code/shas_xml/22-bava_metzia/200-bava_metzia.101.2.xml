@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:20.118430</dateCreated>
-   <lastModified>2019-12-21 21:42:20.118430</lastModified>
+   <dateCreated>2020-01-06 09:33:41.287944</dateCreated>
+   <lastModified>2020-01-06 09:33:41.287944</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="101">
@@ -15,14 +15,14 @@
 		<row row_number="1" isdata="1"><ContChapter name = "השואל"/><ContGemara/>בבית שומעין לו בשדה אין שומעין לו</row>
 		<row row_number="2" isdata="1">בשדה מ"ט משום ישוב א"י איכא דאמרי</row>
 		<row row_number="3" isdata="1">משום כחשא דארעא מאי בינייהו איכא</row>
-		<row row_number="4" isdata="1">בינייהו חוצה לארץמתני' המשכיר בית</row>
+		<row row_number="4" isdata="1">בינייהו חוצה לארץ<EndGemara/><StartMishna/>מתני' המשכיר בית</row>
 		<row row_number="5" isdata="1">לחבירו בימות הגשמים אינו יכול להוציאו</row>
 		<row row_number="6" isdata="1">מן החג ועד הפסח בימות החמה שלשים</row>
 		<row row_number="7" isdata="1">יום ובכרכים אחד ימות החמה ואחד ימות</row>
 		<row row_number="8" isdata="1">הגשמים שנים עשר חדש ובחנויות אחד</row>
 		<row row_number="9" isdata="1">עיירות ואחד כרכים שנים עשר חדש רשב"ג</row>
 		<row row_number="10" isdata="1">אומר חנות של נחתומים ושל צבעים שלש</row>
-		<row row_number="11" isdata="1">שנים<EndMishna/><StartGemara/>גמ' מ"ש ימות הגשמים דכי אגר</row>
+		<row row_number="11" isdata="1">שנים:<EndMishna/><StartGemara/>גמ' מ"ש ימות הגשמים דכי אגר</row>
 		<row row_number="12" isdata="1">איניש ביתא בימות הגשמים אגר לכולהו</row>
 		<row row_number="13" isdata="1">ימות הגשמים ימות החמה נמי דכי אגר איניש ביתא לכולהו ימות החמה</row>
 		<row row_number="14" isdata="1">אגר אלא בימות הגשמים היינו טעמא דלא שכיח ביתא למיגר אימא סיפא</row>
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">והא אנן שלשים יום קאמר הכי קאמר אם נכנס יום אחד בימות הגשמים</row>
 		<row row_number="24" isdata="1">מהני שלשים יום אינו יכול להוציאו מן החג ועד הפסח אמר רב הונא ואם</row>
 		<row row_number="25" isdata="1">בא לרבות בדמיה מרבה א"ל רב נחמן האי לנקטיה בכובסיה דלשבקיה</row>
-		<row row_number="26" isdata="1">לגלימא לא צריכא דאייקור בתי פשיטא נפל ליה ביתא א"ל לא עדיפת</row>
+		<row row_number="26" isdata="1">לגלימא לא צריכא דאייקור בתי: פשיטא נפל ליה ביתא א"ל לא עדיפת</row>
 		<row row_number="27" isdata="1">מינאי זבניה או אורתיה או יהביה במתנה א"ל לא עדיפת מגברא דאתית</row>
 		<row row_number="28" isdata="1">מיניה כלליה לבריה חזינן אי הוה אפשר לאודועיה איבעי ליה לאודועיה</row>
 		<row row_number="29" isdata="1">ואי לא א"ל לא עדיפת מינאי ההוא גברא דזבן ארבא דחמרא לא אשכח</row>
@@ -47,11 +47,11 @@
 		<row row_number="33" isdata="1">אמר רב הונא בריה דרב יהושע כאשר עשה כן יעשה לו גמולו ישוב</row>
 		<row row_number="34" isdata="1">בראשו לא מיבעיא חצר דלא קיימא לאגרא אלא אפילו חצר דקיימא לאגרא</row>
 		<row row_number="35" isdata="1">אמרה ליה לכ"ע ניחא לי לאוגורי ולך לא ניחא לי דדמית עלי כי אריא</row>
-		<row row_number="36" isdata="1">ארבא רשב"ג אומר של נחתומים ושל צבעין שלש שנים תנא מפני</row>
-		<row row_number="37" isdata="1">שהקיפן מרובהמתני' המשכיר בית לחבירו המשכיר חייב בדלת בנגר</row>
+		<row row_number="36" isdata="1">ארבא: רשב"ג אומר של נחתומים ושל צבעין שלש שנים: תנא מפני</row>
+		<row row_number="37" isdata="1">שהקיפן מרובה<EndGemara/><StartMishna/>מתני' המשכיר בית לחבירו המשכיר חייב בדלת בנגר</row>
 		<row row_number="38" isdata="1">ובמנעול ובכל דבר שמעשה אומן אבל דבר שאינו מעשה אומן השוכר</row>
 		<row row_number="39" isdata="1">עושהו הזבל של בעל הבית ואין לשוכר אלא היוצא מן התנור ומן הכירים</row>
-		<row row_number="40" isdata="1">בלבד<EndMishna/><StartGemara/>גמ' תנו רבנן המשכיר בית לחבירו משכיר חייב להעמיד לו</row>
+		<row row_number="40" isdata="1">בלבד:<EndMishna/><StartGemara/>גמ' תנו רבנן המשכיר בית לחבירו משכיר חייב להעמיד לו</row>
 		<row row_number="41" isdata="1">דלתות לפתוח לו חלונות לחזק לו תקרה לסמוך לו קורה ושוכר חייב</row>
 		<row row_number="42" isdata="1">לעשות לו סולם לעשות לו מעקה לעשות לו מרזב ולהטיח את גגו בעו</row>
 		<row row_number="43" isdata="1">מיניה מרב ששת מזוזה על מי מזוזה האמר רב משרשיא מזוזה חובת</row>

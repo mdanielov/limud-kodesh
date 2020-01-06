@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.491195</dateCreated>
-   <lastModified>2019-12-21 21:42:31.491195</lastModified>
+   <dateCreated>2020-01-06 09:34:35.287558</dateCreated>
+   <lastModified>2020-01-06 09:34:35.287558</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="57">
@@ -23,7 +23,7 @@
 		<row row_number="9" isdata="1">למצה מנין ת"ל על חלת לחם חמץ נגד</row>
 		<row row_number="10" isdata="1">חמץ הבא מצה אלא למאן דאמר (לא)</row>
 		<row row_number="11" isdata="1">הוי היקש מאי איכא למימר תביאו יתירא</row>
-		<row row_number="12" isdata="1">היא הפסח אינו נאכל מאן תנא אמר רב</row>
+		<row row_number="12" isdata="1">היא: הפסח אינו נאכל: מאן תנא אמר רב</row>
 		<row row_number="13" isdata="1">יוסף רבי אלעזר בן עזריה היא דתניא רבי</row>
 		<row row_number="14" isdata="1">אלעזר [בן עזריה] אומר נאמר כאן בלילה</row>
 		<row row_number="15" isdata="1">[הזה] ונאמר להלן ועברתי בארץ מצרים</row>
@@ -35,7 +35,7 @@
 		<row row_number="21" isdata="1">נאכל ביום א"ל אביי וממאי דרבי אלעזר ב"ע</row>
 		<row row_number="22" isdata="1">ודאורייתא דלמא דרבנן ולהרחיק מן</row>
 		<row row_number="23" isdata="1">העבירה א"כ מאי אלא עד חצות [אלא] כי</row>
-		<row row_number="24" isdata="1">התם מה התם דאורייתא אף כאן נמי דאוריית'<EndChapter name = "איזהו מקומן"/><EndGemara/></row>
+		<row row_number="24" isdata="1">התם מה התם דאורייתא אף כאן נמי דאוריית':<EndChapter name = "איזהו מקומן"/><EndGemara/></row>
 		<row row_number="25" isdata="0">הדרן עלך איזהו מקומן</row>
 </amud>
 </daf>

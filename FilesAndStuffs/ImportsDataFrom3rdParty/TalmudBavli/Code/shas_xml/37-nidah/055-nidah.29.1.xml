@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.779284</dateCreated>
-   <lastModified>2019-12-21 21:42:41.779284</lastModified>
+   <dateCreated>2020-01-06 09:35:25.345319</dateCreated>
+   <lastModified>2020-01-06 09:35:25.345319</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="29">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "המפלת חתיכה"/><ContGemara/>לחלק בין ערך איש לערך אשה יצא</row>
-		<row row_number="2" isdata="1">מחותך או מסורס וכו' א"ר אלעזר אפילו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המפלת חתיכה"/><ContGemara/>לחלק בין ערך איש לערך אשה: יצא</row>
+		<row row_number="2" isdata="1">מחותך או מסורס וכו': א"ר אלעזר אפילו</row>
 		<row row_number="3" isdata="1">הראש עמהן ור' יוחנן אמר לא שנו אלא שאין</row>
 		<row row_number="4" isdata="1">הראש עמהן אבל הראש עמהן (הראש</row>
 		<row row_number="5" isdata="1">פוטר) לימא בדשמואל קמיפלגי דאמר</row>
@@ -47,8 +47,8 @@
 		<row row_number="33" isdata="1">משיצא רובו הרי זה כילוד הא כתקנו הראש פוטר ר' יוסי אומר משיצא כתקנו</row>
 		<row row_number="34" isdata="1">לחיים ואיזהו כתקנו לחיים משיצא רוב ראשו ואיזהו רוב ראשו ר' יוסי אומר</row>
 		<row row_number="35" isdata="1">משיצאו צדעיו אבא חנן משום ר' יהושע אומר משיצא פדחתו וי"א משיראו</row>
-		<row row_number="36" isdata="1">קרני ראשומתני' המפלת ואין ידוע מהו תשב לזכר ולנקבה אין ידוע אם</row>
-		<row row_number="37" isdata="1">ולד היה אם לאו תשב לזכר ולנקבה ולנדה<EndMishna/><StartGemara/>גמ' א"ר יהושע בן לוי עברה</row>
+		<row row_number="36" isdata="1">קרני ראשו<EndGemara/><StartMishna/>מתני' המפלת ואין ידוע מהו תשב לזכר ולנקבה אין ידוע אם</row>
+		<row row_number="37" isdata="1">ולד היה אם לאו תשב לזכר ולנקבה ולנדה:<EndMishna/><StartGemara/>גמ' א"ר יהושע בן לוי עברה</row>
 		<row row_number="38" isdata="1">נהר והפילה מביאה קרבן ונאכל הלך אחר רוב נשים ורוב נשים ולד מעליא</row>
 		<row row_number="39" isdata="1">ילדן תנן אין ידוע אם ולד היה תשב לזכר ולנקבה ולנדה אמאי תשב לנדה</row>
 		<row row_number="40" isdata="1">לימא הלך אחר רוב נשים ורוב נשים ולד מעליא ילדן מתני' בשלא הוחזקה</row>

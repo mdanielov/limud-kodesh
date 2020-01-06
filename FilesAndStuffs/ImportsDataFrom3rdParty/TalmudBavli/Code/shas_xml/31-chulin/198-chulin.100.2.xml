@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:37.516576</dateCreated>
-   <lastModified>2019-12-21 21:42:37.516576</lastModified>
+   <dateCreated>2020-01-06 09:35:00.891684</dateCreated>
+   <lastModified>2020-01-06 09:35:00.891684</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="100">
@@ -15,11 +15,11 @@
 		<row row_number="1" isdata="1"><ContChapter name = "גיד הנשה"/><ContGemara/>אפילו תימא לא קדם וסלקו הוי מין ומינו</row>
 		<row row_number="2" isdata="1">ודבר אחר וכל מין ומינו ודבר אחר סלק</row>
 		<row row_number="3" isdata="1">את מינו כמי שאינו ושאין מינו רבה עליו</row>
-		<row row_number="4" isdata="1">ומבטלומתני' נוהג בטהורה ואינו נוהג</row>
+		<row row_number="4" isdata="1">ומבטלו<EndGemara/><StartMishna/>מתני' נוהג בטהורה ואינו נוהג</row>
 		<row row_number="5" isdata="1">בטמאה רבי יהודה אומר אף בטמאה אמר</row>
 		<row row_number="6" isdata="1">ר' יהודה והלא מבני יעקב נאסר גיד הנשה</row>
 		<row row_number="7" isdata="1">ועדיין בהמה טמאה מותרת להן אמרו לו</row>
-		<row row_number="8" isdata="1">בסיני נאמר אלא שנכתב במקומו<EndMishna/><StartGemara/>גמ' וסבר</row>
+		<row row_number="8" isdata="1">בסיני נאמר אלא שנכתב במקומו:<EndMishna/><StartGemara/>גמ' וסבר</row>
 		<row row_number="9" isdata="1">ר' יהודה איסור חל על איסור והתניא ר'</row>
 		<row row_number="10" isdata="1">יהודה אומר יכול תהא נבלת עוף טמא</row>
 		<row row_number="11" isdata="1">מטמא בגדים בבית הבליעה תלמוד לומר</row>

@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:50.061308</dateCreated>
-   <lastModified>2019-12-21 21:41:50.061308</lastModified>
+   <dateCreated>2020-01-06 09:31:08.963162</dateCreated>
+   <lastModified>2020-01-06 09:31:08.963162</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="105">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "האורג"/><ContGemara/>דעבדה כי כיסתאמתני' הקורע בחמתו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האורג"/><ContGemara/>דעבדה כי כיסתא:מתני' הקורע בחמתודעבדה כי כיסתא<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">ועל מתו וכל המקלקלין פטורין והמקלקל</row>
 		<row row_number="3" isdata="1">ע"מ לתקן שיעורו כמתקן שיעור המלבן</row>
 		<row row_number="4" isdata="1">והמנפץ והצובע והטווה כמלא רחב הסיט</row>
 		<row row_number="5" isdata="1">כפול והאורג שני חוטין שיעורו כמלא</row>
-		<row row_number="6" isdata="1">הסיט<EndMishna/><StartGemara/>גמ' ורמינהו הקורע בחמתו ובאבלו</row>
+		<row row_number="6" isdata="1">הסיט:<EndMishna/><StartGemara/>גמ' ורמינהו הקורע בחמתו ובאבלו</row>
 		<row row_number="7" isdata="1">ועל מתו חייב ואע"פ שמחלל את השבת</row>
 		<row row_number="8" isdata="1">יצא ידי קריעה לא קשיא הא במת דידיה</row>
 		<row row_number="9" isdata="1">הא במת דעלמא והא מתו קתני לעולם</row>

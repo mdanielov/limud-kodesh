@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:17.687806</dateCreated>
-   <lastModified>2019-12-21 21:42:17.687806</lastModified>
+   <dateCreated>2020-01-06 09:33:30.954682</dateCreated>
+   <lastModified>2020-01-06 09:33:30.954682</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="114">
@@ -27,21 +27,21 @@
 		<row row_number="13" isdata="1">וזבין לעכו"ם ליכא משום דינא דבר מצרא</row>
 		<row row_number="14" isdata="1">אלא דאמרי' ליה ארבעית לי אריא אמצראי</row>
 		<row row_number="15" isdata="1">משמתינן ליה עד דקביל עליה כל אונסא</row>
-		<row row_number="16" isdata="1">דאתי מחמתיהמתני' נטלו מוכסין את</row>
+		<row row_number="16" isdata="1">דאתי מחמתיה<EndGemara/><StartMishna/>מתני' נטלו מוכסין את</row>
 		<row row_number="17" isdata="1">חמורו ונתנו לו חמור אחר נטלו לסטים את</row>
 		<row row_number="18" isdata="1">כסותו ונתנו לו כסות אחרת הרי אלו שלו</row>
-		<row row_number="19" isdata="1">מפני שהבעלים מתייאשין מהן המציל</row>
+		<row row_number="19" isdata="1">מפני שהבעלים מתייאשין מהן: המציל</row>
 		<row row_number="20" isdata="1">מן הנהר או מן הגייס או מן הלסטין אם</row>
 		<row row_number="21" isdata="1">נתייאשו הבעלים הרי אלו שלו וכן נחיל</row>
 		<row row_number="22" isdata="1">של דבורים אם נתייאשו הרי אלו שלו</row>
 		<row row_number="23" isdata="1">א"ר יוחנן בן ברוקה נאמנת אשה או קטן לומר מכאן יצא נחיל זה ומהלך</row>
 		<row row_number="24" isdata="1">בתוך שדה חבירו להציל את נחילו ואם הזיק משלם מה שהזיק אבל לא</row>
 		<row row_number="25" isdata="1">יקוץ את סוכו על מנת ליתן את הדמים ר' ישמעאל בנו של ר' יוחנן בן</row>
-		<row row_number="26" isdata="1">ברוקה אומר אף קוצץ ונותן את הדמים<EndMishna/><StartGemara/>גמ' תנא אם נטל מחזיר לבעלים</row>
+		<row row_number="26" isdata="1">ברוקה אומר אף קוצץ ונותן את הדמים:<EndMishna/><StartGemara/>גמ' תנא אם נטל מחזיר לבעלים</row>
 		<row row_number="27" isdata="1">הראשונים קסבר יאוש כדי לא קני ומעיקרא באיסורא אתא לידיה ואיכא</row>
 		<row row_number="28" isdata="1">דאמרי אם בא להחזיר יחזיר לבעלים ראשונים מ"ט יאוש כדי קני מיהו</row>
-		<row row_number="29" isdata="1">אי אמר אי אפשי בממון שאינו שלי מחזיר לבעלים הראשונים הרי אלו</row>
-		<row row_number="30" isdata="1">שלו מפני שהבעלים כו' אמר רב אשי לא שנו אלא לסטים עובד כוכבים</row>
+		<row row_number="29" isdata="1">אי אמר אי אפשי בממון שאינו שלי מחזיר לבעלים הראשונים: הרי אלו</row>
+		<row row_number="30" isdata="1">שלו מפני שהבעלים כו': אמר רב אשי לא שנו אלא לסטים עובד כוכבים</row>
 		<row row_number="31" isdata="1">אבל ליסטים ישראל לא סבר למחר נקיטנא ליה בדינא מתקיף לה רב יוסף</row>
 		<row row_number="32" isdata="1">אדרבה איפכא מסתברא עכו"ם דדייני בגיתי לא מייאש ישראל כיון</row>
 		<row row_number="33" isdata="1">דאמרי מימר מייאש אלא אי איתמר אסיפא איתמר המציל מן העכו"ם</row>

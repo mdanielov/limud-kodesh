@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.618732</dateCreated>
-   <lastModified>2019-12-21 21:42:06.618732</lastModified>
+   <dateCreated>2020-01-06 09:32:38.611277</dateCreated>
+   <lastModified>2020-01-06 09:32:38.611277</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="58">
@@ -16,10 +16,10 @@
 		<row row_number="2" isdata="1">סימפון ובתרייתא משום סימפון מאי בינייהו</row>
 		<row row_number="3" isdata="1">איכא בינייהו בדיקת חוץ מר סבר בדיקת</row>
 		<row row_number="4" isdata="1">חוץ שמה בדיקה ומר סבר בדיקת חוץ לא</row>
-		<row row_number="5" isdata="1">שמה בדיקהמתני' המקדיש מעשה</row>
+		<row row_number="5" isdata="1">שמה בדיקה<EndGemara/><StartMishna/>מתני' המקדיש מעשה</row>
 		<row row_number="6" isdata="1">ידי אשתו הרי זו עושה ואוכלת המותר</row>
 		<row row_number="7" isdata="1">רבי מאיר אומר הקדש רבי יוחנן הסנדלר</row>
-		<row row_number="8" isdata="1">אומר חולין<EndMishna/><StartGemara/>גמ' אמר רב הונא אמר</row>
+		<row row_number="8" isdata="1">אומר חולין:<EndMishna/><StartGemara/>גמ' אמר רב הונא אמר</row>
 		<row row_number="9" isdata="1">רב יכולה אשה לומר לבעלה איני ניזונת</row>
 		<row row_number="10" isdata="1">ואיני עושה קסבר כי תקינו רבנן מזוני</row>
 		<row row_number="11" isdata="1">עיקר ומעשה ידיה משום איבה וכי אמרה</row>
@@ -50,8 +50,8 @@
 		<row row_number="36" isdata="1">שתשתחררי לאחר שימות בעליך או שתמות</row>
 		<row row_number="37" isdata="1">אחותיך או לאחר שיחלוץ ליך יבמיך רבי</row>
 		<row row_number="38" isdata="1">מאיר אומר מקודשת מההיא אין מהא</row>
-		<row row_number="39" isdata="1">ליכא למשמע מינה המותר רבי מאיר</row>
-		<row row_number="40" isdata="1">אומר הקדש אימת קדוש רב ושמואל</row>
+		<row row_number="39" isdata="1">ליכא למשמע מינה: המותר רבי מאיר</row>
+		<row row_number="40" isdata="1">אומר הקדש: אימת קדוש רב ושמואל</row>
 		<row row_number="41" isdata="1">דאמרי תרווייהו מותר לאחר מיתה קדוש</row>
 		<row row_number="42" isdata="1">רב אדא בר אהבה אמר מותר מחיים קדוש</row>
 		<row row_number="43" isdata="1">הוי בה רב פפא במאי אילימא במעלה</row>

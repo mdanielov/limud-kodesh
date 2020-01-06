@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.106282</dateCreated>
-   <lastModified>2019-12-21 21:42:42.106282</lastModified>
+   <dateCreated>2020-01-06 09:35:27.146132</dateCreated>
+   <lastModified>2020-01-06 09:35:27.146132</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="48">
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">דמרא כי סליק אשכחיה לר' אלעזר אמר ליה</row>
 		<row row_number="19" isdata="1">אמרת הלכה כרבי יוסי בן כיפר אמר ליה</row>
 		<row row_number="20" isdata="1">מסתברא אמרי מדכוליה פירקין תני יום אחד</row>
-		<row row_number="21" isdata="1">והכא לא קתני שמע מינה מסתברא כותיה<EndChapter name = "יוצא דופן"/><EndGemara/></row>
+		<row row_number="21" isdata="1">והכא לא קתני שמע מינה מסתברא כותיה:<EndChapter name = "יוצא דופן"/><EndGemara/></row>
 		<row row_number="22" isdata="0">הדרן עלך יוצא דופן</row>
 		<row row_number="23" isdata="1"><StartChapter name = "בא סימן"/><StartMishna/>בא סימן התחתון עד שלא בא העליון או</row>
 		<row row_number="24" isdata="1">חולצת או מתיבמת בא העליון</row>
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">ר' מאיר אומר לא חולצת ולא מתיבמת וחכ"א</row>
 		<row row_number="27" isdata="1">או חולצת או מתיבמת מפני שאמרו אפשר</row>
 		<row row_number="28" isdata="1">לתחתון לבא עד שלא בא העליון אבל אי</row>
-		<row row_number="29" isdata="1">אפשר לעליון לבא עד שלא בא התחתון</row>
+		<row row_number="29" isdata="1">אפשר לעליון לבא עד שלא בא התחתון:</row>
 		<row row_number="30" isdata="1"><EndMishna/><StartGemara/>גמ' אע"פ שאי אפשר והלא בא בא לר'</row>
 		<row row_number="31" isdata="1">מאיר אע"פ שאי אפשר לרבנן ולתני בא</row>
 		<row row_number="32" isdata="1">העליון ר"מ אומר לא חולצת ולא מתיבמת</row>

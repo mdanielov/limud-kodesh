@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.334613</dateCreated>
-   <lastModified>2019-12-21 21:42:38.334613</lastModified>
+   <dateCreated>2020-01-06 09:35:04.066092</dateCreated>
+   <lastModified>2020-01-06 09:35:04.066092</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="134">
@@ -31,9 +31,9 @@
 		<row row_number="17" isdata="1">מעצמו רבי אמי נמי לעניים זכה בהן ואיבעית אימא אדם חשוב שאני דתניא</row>
 		<row row_number="18" isdata="1">והכהן הגדול מאחיו שיהא גדול מאחיו בנוי בחכמה ובעושר אחרים אומרים</row>
 		<row row_number="19" isdata="1">מנין שאם אין לו שאחיו הכהנים מגדלין אותו תלמוד לומר והכהן הגדול</row>
-		<row row_number="20" isdata="1">מאחיו גדלהו משל אחיומתני' איזהו הזרוע מן הפרק של ארכובה עד</row>
+		<row row_number="20" isdata="1">מאחיו גדלהו משל אחיו<EndGemara/><StartMishna/>מתני' איזהו הזרוע מן הפרק של ארכובה עד</row>
 		<row row_number="21" isdata="1">כף של יד והוא של נזיר וכנגדו ברגל שוק ר' יהודה אומר שוק מן הפרק של</row>
-		<row row_number="22" isdata="1">ארכובה עד סובך של רגל אי זהו לחי מן הפרק של לחי עד פיקה של גרגרת</row>
+		<row row_number="22" isdata="1">ארכובה עד סובך של רגל אי זהו לחי מן הפרק של לחי עד פיקה של גרגרת:</row>
 		<row row_number="23" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר הזרוע זה זרוע ימין אתה אומר זה זרוע ימין או אינו אלא זרוע</row>
 		<row row_number="24" isdata="1">שמאל ת"ל הזרוע מאי תלמודא כדאמר רבא הירך המיומנת שבירך הכא נמי</row>
 		<row row_number="25" isdata="1">הזרוע המיומן שבזרוע והלחיים למאי אתא להביא צמר שבראש כבשים</row>
@@ -43,10 +43,10 @@
 		<row row_number="29" isdata="1">היד וכן הוא אומר ויקח רומח בידו ולחיים כנגד תפלה וכן הוא אומר ויעמוד</row>
 		<row row_number="30" isdata="1">פנחס ויפלל קבה כמשמעה וכן הוא אומר ואת האשה אל קבתה ותנא מייתי</row>
 		<row row_number="31" isdata="1">לה מהכא שוק הימין אין לי אלא שוק הימין זרוע מוקדשין מנין ת"ל תרומה</row>
-		<row row_number="32" isdata="1">זרוע חולין מנין ת"ל תתנו איזהו לחי מן הפרק של לחי ועד פיקה של גרגרת</row>
+		<row row_number="32" isdata="1">זרוע חולין מנין ת"ל תתנו: איזהו לחי מן הפרק של לחי ועד פיקה של גרגרת:</row>
 		<row row_number="33" isdata="1">והתניא נוטלה ובית שחיטה עמה לא קשיא הא רבנן והא רבי חנינא בן</row>
 		<row row_number="34" isdata="1">אנטיגנוס דתניא מוגרמת פסולה העיד רבי חנינא בן אנטיגנוס על מוגרמת</row>
-		<row row_number="35" isdata="1">שהיא כשרה איבעית אימא הא והא רבנן ומאי עמה עמה דבהמה<EndChapter name = "הזרוע והלחיים"/><EndGemara/></row>
+		<row row_number="35" isdata="1">שהיא כשרה איבעית אימא הא והא רבנן ומאי עמה עמה דבהמה:<EndChapter name = "הזרוע והלחיים"/><EndGemara/></row>
 		<row row_number="36" isdata="0">הדרן עלך הזרוע והלחיים</row>
 </amud>
 </daf>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.957453</dateCreated>
-   <lastModified>2019-12-21 21:42:33.957453</lastModified>
+   <dateCreated>2020-01-06 09:34:46.220623</dateCreated>
+   <lastModified>2020-01-06 09:34:46.220623</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="55">
@@ -36,9 +36,9 @@
 		<row row_number="22" isdata="1">דליכא כהן סיפא דאיכא כהן אין רישא</row>
 		<row row_number="23" isdata="1">דליכא כהן סיפא דאיכא כהן אמר רב פפא</row>
 		<row row_number="24" isdata="1">ש"מ דחקינן ומוקמינן מתני' בתרי טעמי</row>
-		<row row_number="25" isdata="1">ולא מוקמינן בתרי תנאימתני' כל המנחות נילושות בפושרין ומשמרן</row>
+		<row row_number="25" isdata="1">ולא מוקמינן בתרי תנאי<EndGemara/><StartMishna/>מתני' כל המנחות נילושות בפושרין ומשמרן</row>
 		<row row_number="26" isdata="1">שלא יחמיצו ואם החמיצו שיריה עובר בלא תעשה שנאמר כל המנחה</row>
-		<row row_number="27" isdata="1">אשר תקריבו לה' לא תעשה חמץ וחייב על לישתה ועל עריכתה ועל אפיית'</row>
+		<row row_number="27" isdata="1">אשר תקריבו לה' לא תעשה חמץ וחייב על לישתה ועל עריכתה ועל אפיית':</row>
 		<row row_number="28" isdata="1"><EndMishna/><StartGemara/>גמ' מנא הני מילי אמר ריש לקיש דאמר קרא לא תאפה חמץ חלקם אפי'</row>
 		<row row_number="29" isdata="1">חלקם לא תאפה חמץ והאי להכי הוא דאתא האי מיבעי ליה לכדתניא לא</row>
 </amud>

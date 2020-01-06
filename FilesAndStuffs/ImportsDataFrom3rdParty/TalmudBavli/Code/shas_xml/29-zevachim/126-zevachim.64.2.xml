@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.636778</dateCreated>
-   <lastModified>2019-12-21 21:42:31.636778</lastModified>
+   <dateCreated>2020-01-06 09:34:35.898047</dateCreated>
+   <lastModified>2020-01-06 09:34:35.898047</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="64">
@@ -22,11 +22,11 @@
 		<row row_number="8" isdata="1">שמאל הוא אמר רבינא תני שמאל רבא</row>
 		<row row_number="9" isdata="1">אמר מאי ימין ימין דמזבח ומאי שמאל שמאל</row>
 		<row row_number="10" isdata="1">דגברא וניתני או אידי ואידי דמזבח או אידי</row>
-		<row row_number="11" isdata="1">ואידי דגברא קשיאמתני' חטאת העוף</row>
+		<row row_number="11" isdata="1">ואידי דגברא קשיא<EndGemara/><StartMishna/>מתני' חטאת העוף</row>
 		<row row_number="12" isdata="1">כיצד היה נעשית (עלה לכבש ופנה לסובב</row>
 		<row row_number="13" isdata="1">בא לו לקרן דרומית מזרחית) היה מולק את</row>
 		<row row_number="14" isdata="1">ראשה ממול ערפה ואינו מבדיל ומזה מדמה על קיר המזבח שירי הדם היה</row>
-		<row row_number="15" isdata="1">מתמצה על היסוד ואין למזבח אלא דמה וכולה לכהנים<EndMishna/><StartGemara/>גמ' ת"ר והזה</row>
+		<row row_number="15" isdata="1">מתמצה על היסוד ואין למזבח אלא דמה וכולה לכהנים:<EndMishna/><StartGemara/>גמ' ת"ר והזה</row>
 		<row row_number="16" isdata="1">מדם החטאת מגוף החטאת הא כיצד אוחז בראש ובגוף ומזה על קיר</row>
 		<row row_number="17" isdata="1">המזבח ולא על קיר הכבש ולא על קיר היכל ולא על קיר אולם ואיזה זה קיר</row>
 		<row row_number="18" isdata="1">התחתון או אינו אלא קיר העליון ודין הוא ומה בהמה שעולתה למטה</row>
@@ -38,7 +38,7 @@
 		<row row_number="24" isdata="1">אצבעות ומותח צוארה על רוחב גודלו ומולקה במתניתא תנא ציפרא מלבר</row>
 		<row row_number="25" isdata="1">אוחז גפיו בשתי אצבעות ושני רגלים בשתי אצבעות ומותח צוארו על רוחב</row>
 		<row row_number="26" isdata="1">שתי אצבעותיו ומולק וזו עבודה קשה שבמקדש זו היא ותו לא והאיכא</row>
-		<row row_number="27" isdata="1">קמיצה וחפינה אלא אימא זו עבודה קשה מעבודות קשות שבמקדש</row>
+		<row row_number="27" isdata="1">קמיצה וחפינה אלא אימא זו עבודה קשה מעבודות קשות שבמקדש:</row>
 		<row row_number="28" isdata="1"><EndGemara/><StartMishna/>מתני' עולת העוף כיצד נעשית עלה לכבש ופנה לסובב בא לו לקרן</row>
 		<row row_number="29" isdata="1">דרומית מזרחית היה מולק את ראשה ממול ערפה ומבדיל ומיצה את דמה</row>
 		<row row_number="30" isdata="1">על קיר המזבח נטל את הראש והקיף בית מליקתו למזבח וספגו במלח וזרקו</row>

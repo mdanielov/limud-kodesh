@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.586222</dateCreated>
-   <lastModified>2019-12-21 21:42:27.586222</lastModified>
+   <dateCreated>2020-01-06 09:34:16.516184</dateCreated>
+   <lastModified>2020-01-06 09:34:16.516184</lastModified>
  </meta>
  <masechet name="מכות" serial="25">
 <daf value="13">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "אלו הן הגולין"/><ContGemara/>מעלים היו שכר ללוים דברי רבי יהודה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "אלו הן הגולין"/><ContMishna/>מעלים היו שכר ללוים דברי רבי יהודה</row>
 		<row row_number="2" isdata="1">רבי מאיר אומר לא היו מעלים להן שכר</row>
 		<row row_number="3" isdata="1">וחוזר לשררה שהיה בה דברי רבי מאיר רבי</row>
-		<row row_number="4" isdata="1">יהודה אומר לא היה חוזר לשררה שהיה בה</row>
+		<row row_number="4" isdata="1">יהודה אומר לא היה חוזר לשררה שהיה בה:</row>
 		<row row_number="5" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב כהנא מחלוקת בשש דמר סבר</row>
 		<row row_number="6" isdata="1">לכם לקליטה ומר סבר לכם לכל צרכיכם</row>
 		<row row_number="7" isdata="1">אבל בארבעים ושתים דברי הכל היו מעלין</row>
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">הנך לקליטה ומר סבר ועליהם תתנו כי הנך</row>
 		<row row_number="12" isdata="1">מה הנך לכל צרכיכם אף הני נמי לכל</row>
 		<row row_number="13" isdata="1">צרכיכם אבל בשש דברי הכל לא היו מעלים</row>
-		<row row_number="14" isdata="1">להן שכר חוזר לשררה שהיה בה כו' תנו</row>
+		<row row_number="14" isdata="1">להן שכר: חוזר לשררה שהיה בה כו': תנו</row>
 		<row row_number="15" isdata="1">רבנן ושב אל משפחתו ואל אחוזת אבותיו</row>
 		<row row_number="16" isdata="1">ישוב למשפחתו הוא שב [דד] ואינו שב למה</row>
 		<row row_number="17" isdata="1">שהחזיקו אבותיו דברי ר"י ר"מ אומר אף הוא</row>
@@ -35,14 +35,14 @@
 		<row row_number="21" isdata="1">הרוצח אל ארץ אחוזתו לארץ אחוזתו הוא שב</row>
 		<row row_number="22" isdata="1">ואינו שב למה שהחזיקו אבותיו דברי רבי</row>
 		<row row_number="23" isdata="1">יהודה ר"מ אומר אף הוא שב למה שהחזיקו</row>
-		<row row_number="24" isdata="1">אבותיו גמר שיבה שיבה מהתם<EndChapter name = "אלו הן הגולין"/><EndGemara/></row>
+		<row row_number="24" isdata="1">אבותיו גמר שיבה שיבה מהתם:<EndChapter name = "אלו הן הגולין"/><EndGemara/></row>
 		<row row_number="25" isdata="0">הדרן עלך אלו הן הגולין</row>
 		<row row_number="26" isdata="1"><StartChapter name = "אלו הן הלוקין "/><StartMishna/>ואלו הן הלוקין הבא על אחותו ועל אחות</row>
 		<row row_number="27" isdata="1">אביו ועל אחות אמו ועל אחות אשתו</row>
 		<row row_number="28" isdata="1">ועל אשת אחיו ועל אשת אחי אביו ועל הנדה אלמנה לכהן גדול גרושה</row>
 		<row row_number="29" isdata="1">וחלוצה לכהן הדיוט ממזרת ונתינה לישראל בת ישראל לנתין ולממזר</row>
 		<row row_number="30" isdata="1">אלמנה וגרושה חייבין עליה משום שני שמות גרושה וחלוצה אינו חייב</row>
-		<row row_number="31" isdata="1">אלא משום אחת בלבד הטמא שאכל את הקדש והבא אל המקדש טמא</row>
+		<row row_number="31" isdata="1">אלא משום אחת בלבד: הטמא שאכל את הקדש והבא אל המקדש טמא</row>
 		<row row_number="32" isdata="1">ואוכל חלב ודם ונותר ופגול וטמא והשוחט ומעלה בחוץ והאוכל חמץ בפסח</row>
 		<row row_number="33" isdata="1">והאוכל והעושה מלאכה ביום הכפורים והמפטם את השמן והמפטם את</row>
 		<row row_number="34" isdata="1">הקטורת והסך בשמן המשחה והאוכל נבילות וטריפות שקצים ורמשים</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">נפדו כמה יאכל מן הטבל ויהא חייב רבי שמעון אומר כל שהוא וחכמים</row>
 		<row row_number="37" isdata="1">אומרים כזית אמר להן רבי שמעון אי אתם מודים לי באוכל נמלה כל</row>
 		<row row_number="38" isdata="1">שהוא שהוא חייב אמרו לו מפני שהיא כברייתה אמר להן אף חטה אחת</row>
-		<row row_number="39" isdata="1">כברייתה<EndMishna/><StartGemara/>גמ' חייבי כריתות קא תני חייבי מיתות ב"ד לא קתני מתניתין</row>
+		<row row_number="39" isdata="1">כברייתה:<EndMishna/><StartGemara/>גמ' חייבי כריתות קא תני חייבי מיתות ב"ד לא קתני מתניתין</row>
 		<row row_number="40" isdata="1">מני רבי עקיבא היא דתניא אחד חייבי כריתות ואחד חייבי מיתות בית דין</row>
 </amud>
 </daf>

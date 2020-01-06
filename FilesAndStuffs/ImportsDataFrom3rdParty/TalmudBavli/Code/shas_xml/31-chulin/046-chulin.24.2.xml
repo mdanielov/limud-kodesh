@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.683274</dateCreated>
-   <lastModified>2019-12-21 21:42:35.683274</lastModified>
+   <dateCreated>2020-01-06 09:34:53.531462</dateCreated>
+   <lastModified>2020-01-06 09:34:53.531462</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="24">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>ויהי כאחד למחצצרים ולמשוררים להשמיע</row>
-		<row row_number="2" isdata="1">קול אחד עד שיזקין עד כמה אמר רבי</row>
+		<row row_number="2" isdata="1">קול אחד: עד שיזקין עד כמה אמר רבי</row>
 		<row row_number="3" isdata="1">אלעא אמר ר' חנינא עד שירתת תנן התם</row>
 		<row row_number="4" isdata="1">בעל קרי שטבל ולא הטיל מים לכשיטיל טמא</row>
 		<row row_number="5" isdata="1">ר' יוסי אומר בחולה ובזקן טמא בילד ובבריא</row>
@@ -41,9 +41,9 @@
 		<row row_number="27" isdata="1">דאמרי הא רבי היא ואפי' פסול דרבנן לית</row>
 		<row row_number="28" isdata="1">ליה ואיכא דאמרי רבי אית ליה פסול מדרבנן</row>
 		<row row_number="29" isdata="1">והא רבנן היא ולכתחלה הוא דלא אבל</row>
-		<row row_number="30" isdata="1">דיעבד עבודתו כשרהמתני' טהור בכלי</row>
+		<row row_number="30" isdata="1">דיעבד עבודתו כשרה<EndGemara/><StartMishna/>מתני' טהור בכלי</row>
 		<row row_number="31" isdata="1">חרש טמא בכל הכלים טהור בכל הכלים</row>
-		<row row_number="32" isdata="1">טמא בכלי חרש<EndMishna/><StartGemara/>גמ' ת"ר אויר כלי</row>
+		<row row_number="32" isdata="1">טמא בכלי חרש:<EndMishna/><StartGemara/>גמ' ת"ר אויר כלי</row>
 		<row row_number="33" isdata="1">חרש טמא וגבו טהור אויר כל הכלים טהור</row>
 		<row row_number="34" isdata="1">וגבן טמא נמצא טהור בכלי חרש טמא בכל</row>
 		<row row_number="35" isdata="1">הכלים טהור בכל הכלים טמא בכלי חרש</row>

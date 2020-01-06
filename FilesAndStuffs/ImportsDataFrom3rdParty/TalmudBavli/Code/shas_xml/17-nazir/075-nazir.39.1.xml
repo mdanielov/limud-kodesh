@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:10.453981</dateCreated>
-   <lastModified>2019-12-21 21:42:10.453981</lastModified>
+   <dateCreated>2020-01-06 09:32:54.634390</dateCreated>
+   <lastModified>2020-01-06 09:32:54.634390</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="39">
@@ -15,12 +15,12 @@
 		<row row_number="1" isdata="1"><ContChapter name = "שלשה מינין"/><ContMishna/>אותביה חמש ומאחר דלא תניא חמש מ"ט</row>
 		<row row_number="2" isdata="1">אותביה אמר רב פפא אנא סברי לאו גמרא</row>
 		<row row_number="3" isdata="1">היא בידיה והדר ביה ולא ידענא דגמרא היא</row>
-		<row row_number="4" isdata="1">בידיה ולא הדר ביה רבי אלעזר בן עזריה</row>
-		<row row_number="5" isdata="1">אומר כו' אמר רב יוסף כמאן מתרגמינן</row>
-		<row row_number="6" isdata="1">מפורצנין ועד עיצורין כר' יוסימתני' סתם</row>
+		<row row_number="4" isdata="1">בידיה ולא הדר ביה: רבי אלעזר בן עזריה</row>
+		<row row_number="5" isdata="1">אומר כו': אמר רב יוסף כמאן מתרגמינן</row>
+		<row row_number="6" isdata="1">מפורצנין ועד עיצורין כר' יוסי<EndGemara/><StartMishna/>מתני' סתם</row>
 		<row row_number="7" isdata="1">נזירות ל' יום גילח או שגילחוהו לסטים</row>
 		<row row_number="8" isdata="1">סותר ל' יום נזיר שגילח בין בזוג בין בתער</row>
-		<row row_number="9" isdata="1">או שסיפסף כל שהוא חייב<EndMishna/><StartGemara/>גמ' איבעיא</row>
+		<row row_number="9" isdata="1">או שסיפסף כל שהוא חייב:<EndMishna/><StartGemara/>גמ' איבעיא</row>
 		<row row_number="10" isdata="1">להו האי מזיא מלתחת רבי או מלעיל</row>
 		<row row_number="11" isdata="1">למאי נפקא מינה לנזיר שגילחוהו ליסטים</row>
 		<row row_number="12" isdata="1">ושיירו בו כדי לכוף ראשו לעיקרו אי אמרת</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.285126</dateCreated>
-   <lastModified>2019-12-21 21:41:49.285126</lastModified>
+   <dateCreated>2020-01-06 09:31:05.548626</dateCreated>
+   <lastModified>2020-01-06 09:31:05.548626</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="73">
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">דסבור רוק הוא ובלעו משא"כ בשבת</row>
 		<row row_number="7" isdata="1">דפטור דנתכוון להגביה את התלוש וחתך</row>
 		<row row_number="8" isdata="1">את המחובר פטור אבל נתכוון לחתוך את</row>
-		<row row_number="9" isdata="1">התלוש וחתך את המחובר חייב איתמר</row>
+		<row row_number="9" isdata="1">התלוש וחתך את המחובר חייב: איתמר</row>
 		<row row_number="10" isdata="1">נתכוון לזרוק שתים וזרק ארבע רבא</row>
 		<row row_number="11" isdata="1">אמר פטור אביי אמר חייב רבא אמר פטור</row>
 		<row row_number="12" isdata="1">דלא קמיכוין לזריקה דארבע אביי אמר</row>
@@ -49,7 +49,7 @@
 		<row row_number="35" isdata="1">לה דידע לה לשבת בלאו אלא אי סבר</row>
 		<row row_number="36" isdata="1">לה כרשב"ל דאמר עד שישגוג בלאו וכרת</row>
 		<row row_number="37" isdata="1">דידע לה לשבת במאי דידע לה בתחומין</row>
-		<row row_number="38" isdata="1">ואליבא דר"עמתני' אבות מלאכות</row>
+		<row row_number="38" isdata="1">ואליבא דר"ע<EndGemara/><StartMishna/>מתני' אבות מלאכות</row>
 		<row row_number="39" isdata="1">ארבעים חסר אחת הזורע והחורש והקוצר</row>
 		<row row_number="40" isdata="1">והמעמר והדש והזורה הבורר הטוחן והמרקד</row>
 		<row row_number="41" isdata="1">והלש והאופה הגוזז את הצמר המלבנו</row>
@@ -60,7 +60,7 @@
 		<row row_number="46" isdata="1">הצד צבי השוחטו והמפשיטו המולחו</row>
 		<row row_number="47" isdata="1">והמעבד את עורו והממחקו והמחתכו הכותב שתי אותיות והמוחק על</row>
 		<row row_number="48" isdata="1">מנת לכתוב שתי אותיות הבונה והסותר המכבה והמבעיר המכה בפטיש</row>
-		<row row_number="49" isdata="1">המוציא מרשות לרשות הרי אלו אבות מלאכות ארבעים חסר אחת</row>
+		<row row_number="49" isdata="1">המוציא מרשות לרשות הרי אלו אבות מלאכות ארבעים חסר אחת:</row>
 </amud>
 </daf>
 </masechet>

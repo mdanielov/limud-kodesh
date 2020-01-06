@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.913987</dateCreated>
-   <lastModified>2019-12-21 21:41:49.913987</lastModified>
+   <dateCreated>2020-01-06 09:31:08.370257</dateCreated>
+   <lastModified>2020-01-06 09:31:08.370257</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="100">
@@ -32,10 +32,10 @@
 		<row row_number="18" isdata="1">תניא נמי הכי הזורק מן הים לאיסרטיא ומן</row>
 		<row row_number="19" isdata="1">האיסרטיא לים פטור ר"ש אומר אם יש</row>
 		<row row_number="20" isdata="1">במקום שזרק עמוק עשרה ורחב ארבעה</row>
-		<row row_number="21" isdata="1">חייבמתני' הזורק ארבע אמות בכותל</row>
+		<row row_number="21" isdata="1">חייב<EndGemara/><StartMishna/>מתני' הזורק ארבע אמות בכותל</row>
 		<row row_number="22" isdata="1">למעלה מעשרה טפחים כזורק באויר למטה</row>
 		<row row_number="23" isdata="1">מעשרה טפחים כזורק בארץ הזורק בארץ</row>
-		<row row_number="24" isdata="1">ארבע אמות חייב<EndMishna/><StartGemara/>גמ' והא לא נח א"ר</row>
+		<row row_number="24" isdata="1">ארבע אמות חייב:<EndMishna/><StartGemara/>גמ' והא לא נח א"ר</row>
 		<row row_number="25" isdata="1">יוחנן בדבילה שמינה שנינו א"ר יהודה</row>
 		<row row_number="26" isdata="1">אמר רב א"ר חייא זרק למעלה מעשרה</row>
 		<row row_number="27" isdata="1">והלכה ונחה בחור כל שהוא באנו למחלוקת</row>
@@ -50,9 +50,9 @@
 		<row row_number="36" isdata="1">לתוכו אותו מבוי אינו צריך לא לחי ולא</row>
 		<row row_number="37" isdata="1">קורה רבי חנינא בן גמליאל אומר תל</row>
 		<row row_number="38" isdata="1">המתלקט עשרה מתוך ארבע וזרק ונח על</row>
-		<row row_number="39" isdata="1">גביו חייבמתני' זרק לתוך ד' אמות</row>
+		<row row_number="39" isdata="1">גביו חייב<EndGemara/><StartMishna/>מתני' זרק לתוך ד' אמות</row>
 		<row row_number="40" isdata="1">ונתגלגל חוץ לד' אמות פטור חוץ לד' אמות</row>
-		<row row_number="41" isdata="1">ונתגלגל לתוך ד' אמות חייב<EndMishna/><StartGemara/>גמ' והא לא</row>
+		<row row_number="41" isdata="1">ונתגלגל לתוך ד' אמות חייב:<EndMishna/><StartGemara/>גמ' והא לא</row>
 		<row row_number="42" isdata="1">נח אמר ר' יוחנן והוא שנח על גבי משהו</row>
 		<row row_number="43" isdata="1">תניא נמי הכי זרק חוץ לד' אמות ודחפתו</row>
 		<row row_number="44" isdata="1">הרוח והכניסתו ואע"פ שחזרה והוציאתו</row>

@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:17.190038</dateCreated>
-   <lastModified>2019-12-21 21:42:17.190038</lastModified>
+   <dateCreated>2020-01-06 09:33:28.713674</dateCreated>
+   <lastModified>2020-01-06 09:33:28.713674</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="90">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "החובל"/><ContGemara/>זה הכלל הכל לפי כבודו אמר ר' עקיבא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "החובל"/><ContMishna/>זה הכלל הכל לפי כבודו אמר ר' עקיבא</row>
 		<row row_number="2" isdata="1">אפי' עניים שבישראל רואין אותם כאילו</row>
 		<row row_number="3" isdata="1">הם בני חורין שירדו מנכסיהם שהם בני</row>
 		<row row_number="4" isdata="1">אברהם יצחק ויעקב ומעשה באחד שפרע</row>
@@ -26,7 +26,7 @@
 		<row row_number="12" isdata="1">מאות זוז א"ל לא אמרת כלום החובל</row>
 		<row row_number="13" isdata="1">בעצמו אף על פי שאינו רשאי פטור אחרים</row>
 		<row row_number="14" isdata="1">שחבלו בו חייבים והקוצץ נטיעותיו אף</row>
-		<row row_number="15" isdata="1">על פי שאינו רשאי פטור אחרים חייבין</row>
+		<row row_number="15" isdata="1">על פי שאינו רשאי פטור אחרים חייבין:</row>
 		<row row_number="16" isdata="1"><EndMishna/><StartGemara/>גמ' איבעיא להו מנה צורי תנן או מנה</row>
 		<row row_number="17" isdata="1">מדינה תנן תא שמע דההוא גברא דתקע</row>
 		<row row_number="18" isdata="1">ליה לחבריה אתא לקמיה דר' יהודה נשיאה</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">מיוחד שהוא מסור לעדים אף כל שהוא מסור לעדים פרט לכשיצתה</row>
 		<row row_number="44" isdata="1">אבן מתחת ידו של מכה פטור קתני מיהת אמר לו רבי עקיבא וכי בפני ב"ד</row>
 		<row row_number="45" isdata="1">הכהו שיודעין כמה הכהו הא הכהו בפניהם עד נעשה דיין לדבריו דרבי</row>
-		<row row_number="46" isdata="1">שמעון התימני קאמר וליה לא סבירא ליה תנו רבנן שור תם שהמית והזיק</row>
+		<row row_number="46" isdata="1">שמעון התימני קאמר וליה לא סבירא ליה: תנו רבנן שור תם שהמית והזיק</row>
 		<row row_number="47" isdata="1">דנין אותו דיני נפשות ואין דנין אותו דיני ממונות מועד שהמית והזיק דנין</row>
 		<row row_number="48" isdata="1">אותו דיני ממונות וחוזרין ודנין אותו דיני נפשות קדמו ודנוהו דיני נפשות</row>
 		<row row_number="49" isdata="1">אין חוזרין ודנין אותו דיני ממונות וכי קדמו ודנוהו דיני נפשות מאי הוי ליהדר</row>

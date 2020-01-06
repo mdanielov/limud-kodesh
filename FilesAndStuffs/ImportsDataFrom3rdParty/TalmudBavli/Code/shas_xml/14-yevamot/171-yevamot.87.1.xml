@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:04.691713</dateCreated>
-   <lastModified>2019-12-21 21:42:04.691713</lastModified>
+   <dateCreated>2020-01-06 09:32:29.703715</dateCreated>
+   <lastModified>2020-01-06 09:32:29.703715</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="87">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "יש מותרות"/><ContGemara/>בת כהן שניסת לישראל לא תאכל בתרומה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "יש מותרות"/><ContMishna/>בת כהן שניסת לישראל לא תאכל בתרומה</row>
 		<row row_number="2" isdata="1">מת ולה הימנו בן לא תאכל בתרומה ניסת</row>
 		<row row_number="3" isdata="1">ללוי תאכל במעשר מת ולה הימנו בן תאכל</row>
 		<row row_number="4" isdata="1">במעשר ניסת לכהן תאכל בתרומה מת ולה</row>
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">תאכל בתרומה מת בנה מלוי לא תאכל</row>
 		<row row_number="7" isdata="1">במעשר מת בנה מישראל חוזרת לבית אביה</row>
 		<row row_number="8" isdata="1">ועל זו נאמר ושבה אל בית אביה כנעוריה</row>
-		<row row_number="9" isdata="1">מלחם אביה תאכל<EndMishna/><StartGemara/>גמ' מת בנה מלוי</row>
+		<row row_number="9" isdata="1">מלחם אביה תאכל:<EndMishna/><StartGemara/>גמ' מת בנה מלוי</row>
 		<row row_number="10" isdata="1">תאכל בתרומה דהדרא אכלה משום בנה</row>
 		<row row_number="11" isdata="1">מנלן אמר ר' אבא אמר רב בת ובת כמאן</row>
 		<row row_number="12" isdata="1">כר"ע דדריש ווי אפילו תימא רבנן כולא</row>
@@ -49,7 +49,7 @@
 		<row row_number="35" isdata="1">כשהיא חוזרת לבית אביה חוזרת לתרומה ואינה חוזרת לחזה ושוק בשביל</row>
 		<row row_number="36" isdata="1">בנה חוזרת אף לחזה ושוק אזל רב מרדכי אמרה לשמעתא קמיה דרב אשי</row>
 		<row row_number="37" isdata="1">אמר מהיכא קא מתרביא מובת מי עדיפא לה מינה התם כתיבי מיעוטי</row>
-		<row row_number="38" isdata="1">הכא לא כתיבי מיעוטי בת כהן שניסת לישראל וכו' ת"ר ושבה אל</row>
+		<row row_number="38" isdata="1">הכא לא כתיבי מיעוטי: בת כהן שניסת לישראל וכו': ת"ר ושבה אל</row>
 		<row row_number="39" isdata="1">בית אביה פרט לשומרת יבם כנעוריה פרט למעוברת והלא דין הוא</row>
 		<row row_number="40" isdata="1">ומה במקום שלא עשה ולד מן הראשון כולד מן השני לפוטרה מן הייבום</row>
 		<row row_number="41" isdata="1">עשה עובר כילוד מקום שעשה ולד מן הראשון כולד מן השני לפוסלה</row>

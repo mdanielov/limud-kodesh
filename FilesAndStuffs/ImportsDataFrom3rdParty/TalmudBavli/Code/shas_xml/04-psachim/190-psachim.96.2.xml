@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:56.329148</dateCreated>
-   <lastModified>2019-12-21 21:41:56.329148</lastModified>
+   <dateCreated>2020-01-06 09:31:34.528828</dateCreated>
+   <lastModified>2020-01-06 09:31:34.528828</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="96">
@@ -18,13 +18,13 @@
 		<row row_number="4" isdata="1">אחד ת"ל לא יאכל חמץ וסמיך ליה היום</row>
 		<row row_number="5" isdata="1">אתם יוצאים אלא ה"ק לילה אחד והוא הדין</row>
 		<row row_number="6" isdata="1">לפסח דורות וחימוצו כל היום ופסח דורות</row>
-		<row row_number="7" isdata="1">נוהג כל שבעהמתני' א"ר יהושע</row>
+		<row row_number="7" isdata="1">נוהג כל שבעה<EndGemara/><StartMishna/>מתני' א"ר יהושע</row>
 		<row row_number="8" isdata="1">שמעתי שתמורת פסח קריבה ותמורת פסח</row>
 		<row row_number="9" isdata="1">אינה קריבה ואין לי לפרש א"ר עקיבא אני</row>
 		<row row_number="10" isdata="1">אפרש הפסח שנמצא קודם שחיטת הפסח</row>
 		<row row_number="11" isdata="1">ירעה עד שיסתאב וימכר ויביא בדמיו</row>
 		<row row_number="12" isdata="1">שלמים וכן תמורתו אחר שחיטת הפסח קרב</row>
-		<row row_number="13" isdata="1">שלמים וכן תמורתו<EndMishna/><StartGemara/>גמ' ולימא פסח קרב</row>
+		<row row_number="13" isdata="1">שלמים וכן תמורתו:<EndMishna/><StartGemara/>גמ' ולימא פסח קרב</row>
 		<row row_number="14" isdata="1">ופסח אינו קרב הא קמ"ל דאיכא תמורת</row>
 		<row row_number="15" isdata="1">הפסח דלא קרבה איתמר רבה אמר קודם</row>
 		<row row_number="16" isdata="1">שחיטה ולאחר שחיטה שנינו רבי זירא אמר</row>
@@ -32,8 +32,8 @@
 		<row row_number="18" isdata="1">הא קתני קודם שחיטת הפסח אימא קודם</row>
 		<row row_number="19" isdata="1">זמן שחיטת הפסח כתנאי הפסח שנמצא</row>
 		<row row_number="20" isdata="1">קודם שחיטה ירעה לאחר שחיטה יקרב ר"א</row>
-		<row row_number="21" isdata="1">אומר קודם חצות ירעה לאחר חצות יקרב</row>
-		<row row_number="22" isdata="1">אחר שחיטת הפסח יביא שלמים וכו' אמר</row>
+		<row row_number="21" isdata="1">אומר קודם חצות ירעה לאחר חצות יקרב:</row>
+		<row row_number="22" isdata="1">אחר שחיטת הפסח יביא שלמים וכו': אמר</row>
 		<row row_number="23" isdata="1">רבא לא שנו אלא שנמצא אחר שחיטה</row>
 		<row row_number="24" isdata="1">והמיר בו אחר שחיטה אבל נמצא קודם</row>
 		<row row_number="25" isdata="1">שחיטה והמיר בו אחר שחיטה תמורתו מכח</row>

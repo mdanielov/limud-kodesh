@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:24.819009</dateCreated>
-   <lastModified>2019-12-21 21:42:24.819009</lastModified>
+   <dateCreated>2020-01-06 09:34:03.973031</dateCreated>
+   <lastModified>2020-01-06 09:34:03.973031</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="173">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>ואם אמר לו על מנת שאפרע ממי שארצה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContMishna/>ואם אמר לו על מנת שאפרע ממי שארצה</row>
 		<row row_number="2" isdata="1">יפרע מן הערב רשב"ג אומר אם יש נכסים</row>
 		<row row_number="3" isdata="1">ללוה בין כך ובין כך לא יפרע מן הערב וכן</row>
 		<row row_number="4" isdata="1">היה רבן שמעון בן גמליאל אומר הערב</row>
 		<row row_number="5" isdata="1">לאשה בכתובתה והיה בעלה מגרשה ידירנה</row>
 		<row row_number="6" isdata="1">הנאה שמא יעשו קנוניא על נכסים של</row>
-		<row row_number="7" isdata="1">זה ויחזיר את אשתו<EndMishna/><StartGemara/>גמ' מאי טעמא</row>
+		<row row_number="7" isdata="1">זה ויחזיר את אשתו:<EndMishna/><StartGemara/>גמ' מאי טעמא</row>
 		<row row_number="8" isdata="1">רבה ורב יוסף דאמרי תרוייהו גברא</row>
 		<row row_number="9" isdata="1">אשלימת לי גברא אשלימי לך מתקיף לה</row>
 		<row row_number="10" isdata="1">רב נחמן האי דינא דפרסאי אדרבה בתר</row>
@@ -46,8 +46,8 @@
 		<row row_number="32" isdata="1">לאמימר הא מעשים בכל יום דאסמכתא לא</row>
 		<row row_number="33" isdata="1">קניא וערב משתעבד אלא אמר רב אשי</row>
 		<row row_number="34" isdata="1">בההוא הנאה דקא מהימן ליה גמר</row>
-		<row row_number="35" isdata="1">ומשתעבד נפשיה ואם אמר על מנת</row>
-		<row row_number="36" isdata="1">שאפרע ממי שארצה כו' אמר רבה בר בר</row>
+		<row row_number="35" isdata="1">ומשתעבד נפשיה: ואם אמר על מנת</row>
+		<row row_number="36" isdata="1">שאפרע ממי שארצה כו': אמר רבה בר בר</row>
 		<row row_number="37" isdata="1">חנה אמר רבי יוחנן לא שנו אלא שאין</row>
 		<row row_number="38" isdata="1">נכסים ללוה אבל יש נכסים ללוה לא יפרע</row>
 		<row row_number="39" isdata="1">מן הערב והא מדקתני סיפא רבן שמעון בן</row>

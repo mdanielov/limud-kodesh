@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.795282</dateCreated>
-   <lastModified>2019-12-21 21:42:41.795282</lastModified>
+   <dateCreated>2020-01-06 09:35:25.441594</dateCreated>
+   <lastModified>2020-01-06 09:35:25.441594</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="30">
@@ -42,14 +42,14 @@
 		<row row_number="28" isdata="1">חכמים אסור לעשות כן שמא תבא לידי ספק</row>
 		<row row_number="29" isdata="1">וש"מ טבילה בזמנה מצוה ורבי יוסי בר'</row>
 		<row row_number="30" isdata="1">יהודה אומר דיה לטבילה באחרונה ולא</row>
-		<row row_number="31" isdata="1">אמרינן טבילה בזמנה מצוהמתני'</row>
+		<row row_number="31" isdata="1">אמרינן טבילה בזמנה מצוה<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="32" isdata="1">המפלת ליום מ' אינה חוששת לולד</row>
 		<row row_number="33" isdata="1">ליום מ"א תשב לזכר ולנקבה ולנדה רבי</row>
 		<row row_number="34" isdata="1">ישמעאל אומר יום מ"א תשב לזכר ולנדה</row>
 		<row row_number="35" isdata="1">יום פ"א תשב לזכר ולנקבה ולנדה שהזכר</row>
 		<row row_number="36" isdata="1">נגמר למ"א והנקבה לפ"א וחכ"א אחד</row>
 		<row row_number="37" isdata="1">בריית הזכר ואחד בריית הנקבה זה וזה</row>
-		<row row_number="38" isdata="1">מ"א<EndMishna/><StartGemara/>גמ' למה הוזכר זכר אי לימי</row>
+		<row row_number="38" isdata="1">מ"א:<EndMishna/><StartGemara/>גמ' למה הוזכר זכר אי לימי</row>
 		<row row_number="39" isdata="1">טומאה הא קתני נקבה ואי לימי טהרה</row>
 </amud>
 </daf>

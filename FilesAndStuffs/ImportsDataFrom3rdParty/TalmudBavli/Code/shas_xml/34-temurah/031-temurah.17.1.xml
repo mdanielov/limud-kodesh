@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:40.196018</dateCreated>
-   <lastModified>2019-12-21 21:42:40.196018</lastModified>
+   <dateCreated>2020-01-06 09:35:15.850646</dateCreated>
+   <lastModified>2020-01-06 09:35:15.850646</lastModified>
  </meta>
  <masechet name="תמורה" serial="34">
 <daf value="17">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "יש בקרבנות"/><ContGemara/>לגזוז וליעבד ר' יוסי בר' יהודה אומר עשה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "יש בקרבנות"/><ContMishna/>לגזוז וליעבד ר' יוסי בר' יהודה אומר עשה</row>
 		<row row_number="2" isdata="1">שוגג כמזיד בתמורה ולא עשה שוגג כמזיד</row>
 		<row row_number="3" isdata="1">במוקדשין ר' אלעזר אומר הכלאי' והטרפה</row>
 		<row row_number="4" isdata="1">והיוצא דופן וטומטום ואנדרוגינוס לא קדושין</row>
-		<row row_number="5" isdata="1">ולא מקדישין<EndMishna/><StartGemara/>גמ' מ"ט דר' יוסי בר' יהודה</row>
+		<row row_number="5" isdata="1">ולא מקדישין:<EndMishna/><StartGemara/>גמ' מ"ט דר' יוסי בר' יהודה</row>
 		<row row_number="6" isdata="1">אמר קרא יהיה קודש לרבות שוגג כמזיד</row>
 		<row row_number="7" isdata="1">ה"ד שוגג כמזיד אמר חזקיה כסבור שהוא</row>
 		<row row_number="8" isdata="1">מותר להמיר גבי תמורה לקי גבי קדשי' לא</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">לא לקי ר' יוחנן אמר באומר תצא זו ותיכנס זו גבי קדשים (באומר)</row>
 		<row row_number="16" isdata="1">שנולד בהם מום נאכלין בלא פדיון לא לקי גבי תמורה לקי רב ששת אמר</row>
 		<row row_number="17" isdata="1">באומר אכנס לבית זה ואקדיש ואמיר מדעתי ונכנס והמיר והקדיש שלא</row>
-		<row row_number="18" isdata="1">מדעתו גבי תמורה לקי גבי קדשים לא לקי ר"א אומר הכלאים והטרפה וכו'</row>
+		<row row_number="18" isdata="1">מדעתו גבי תמורה לקי גבי קדשים לא לקי: ר"א אומר הכלאים והטרפה וכו':</row>
 		<row row_number="19" isdata="1">אמר שמואל לא קדושין בתמורה ולא מקדישין לעשות תמורה תניא אמר</row>
 		<row row_number="20" isdata="1">ר' מאיר ומאחר שאין קדושין מהיכן מקדישין אלא אי אתה מוצא אלא</row>
 		<row row_number="21" isdata="1">במקדיש בהמה ואח"כ נטרפה במקדיש ולד ויצא [דרך] דופן אבל</row>

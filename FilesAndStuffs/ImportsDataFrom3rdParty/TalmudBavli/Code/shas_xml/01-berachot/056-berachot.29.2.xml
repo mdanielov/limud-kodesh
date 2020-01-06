@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:47.034045</dateCreated>
-   <lastModified>2019-12-21 21:41:47.034045</lastModified>
+   <dateCreated>2020-01-06 09:30:53.874614</dateCreated>
+   <lastModified>2020-01-06 09:30:53.874614</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="29">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "תפלת השחר"/><ContGemara/>הא דאדכר בתר שומע תפלה אמר רבי</row>
+		<row row_number="1" isdata="1"><ContChapter name = "תפלת השחר"/><ContGemara/>הא דאדכר בתר שומע תפלה: אמר רבי</row>
 		<row row_number="2" isdata="1">תנחום אמר רב אסי אמר ר' יהושע בן לוי</row>
 		<row row_number="3" isdata="1">טעה ולא הזכיר של ר"ח בעבודה חוזר</row>
 		<row row_number="4" isdata="1">לעבודה נזכר בהודאה חוזר לעבודה בשים</row>
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">דאמרן סיים חוזר לראש לא אמרן אלא שעקר</row>
 		<row row_number="8" isdata="1">רגליו אבל לא עקר רגליו חוזר לעבודה א"ל</row>
 		<row row_number="9" isdata="1">מנא לך הא א"ל מאבא מרי שמיע לי ואבא</row>
-		<row row_number="10" isdata="1">מרי מרב אמר רב נחמן בר יצחק הא דאמרן</row>
+		<row row_number="10" isdata="1">מרי מרב. אמר רב נחמן בר יצחק הא דאמרן</row>
 		<row row_number="11" isdata="1">עקר רגליו חוזר לראש לא אמרן אלא שאינו</row>
 		<row row_number="12" isdata="1">רגיל לומר תחנונים אחר תפלתו אבל רגיל</row>
 		<row row_number="13" isdata="1">לומר תחנונים אחר תפלתו חוזר לעבודה</row>
@@ -29,8 +29,8 @@
 		<row row_number="15" isdata="1">דאמרן כי לא עקר רגליו חוזר לעבודה לא</row>
 		<row row_number="16" isdata="1">אמרן אלא שרגיל לומר תחנונים אחר תפלתו</row>
 		<row row_number="17" isdata="1">אבל אם אינו רגיל לומר תחנונים אחר תפלתו</row>
-		<row row_number="18" isdata="1">חוזר לראש ר' אליעזר אומר העושה תפלתו</row>
-		<row row_number="19" isdata="1">קבע וכו' מאי קבע א"ר יעקב בר אידי אמר</row>
+		<row row_number="18" isdata="1">חוזר לראש: ר' אליעזר אומר העושה תפלתו</row>
+		<row row_number="19" isdata="1">קבע וכו': מאי קבע א"ר יעקב בר אידי אמר</row>
 		<row row_number="20" isdata="1">רבי אושעיא כל שתפלתו דומה עליו כמשוי</row>
 		<row row_number="21" isdata="1">ורבנן אמרי כל מי שאינו אומרה בלשון</row>
 		<row row_number="22" isdata="1">תחנונים רבה ורב יוסף דאמרי תרוייהו כל</row>
@@ -43,9 +43,9 @@
 		<row row_number="29" isdata="1">קראה ייראוך עם שמש ולפני ירח דור דורים</row>
 		<row row_number="30" isdata="1">לייטי עלה במערבא אמאן דמצלי עם</row>
 		<row row_number="31" isdata="1">דמדומי חמה מאי טעמא דלמא מיטרפא ליה</row>
-		<row row_number="32" isdata="1">שעתא רבי יהושע אומר המהלך במקום</row>
+		<row row_number="32" isdata="1">שעתא: רבי יהושע אומר המהלך במקום</row>
 		<row row_number="33" isdata="1">סכנה מתפלל תפלה קצרה וכו' בכל פרשת</row>
-		<row row_number="34" isdata="1">העבור מאי פרשת העבור אמר רב חסדא</row>
+		<row row_number="34" isdata="1">העבור: מאי פרשת העבור אמר רב חסדא</row>
 		<row row_number="35" isdata="1">אמר מר עוקבא אפי' בשעה שאתה מתמלא עליהם עברה כאשה עוברה</row>
 		<row row_number="36" isdata="1">יהיו כל צרכיהם לפניך איכא דאמרי אמר רב חסדא אמר מר עוקבא אפילו</row>
 		<row row_number="37" isdata="1">בשעה שהם עוברים על דברי תורה יהיו כל צרכיהם לפניך ת"ר המהלך</row>

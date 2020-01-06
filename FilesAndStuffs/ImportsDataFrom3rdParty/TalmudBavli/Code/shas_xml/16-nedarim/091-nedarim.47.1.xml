@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.493733</dateCreated>
-   <lastModified>2019-12-21 21:42:08.493733</lastModified>
+   <dateCreated>2020-01-06 09:32:47.612845</dateCreated>
+   <lastModified>2020-01-06 09:32:47.612845</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="47">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "השותפין"/><ContGemara/>האומר לחבירו וכו' בעי אבימי קונם לבית</row>
+		<row row_number="1" isdata="1"><ContChapter name = "השותפין"/><ContGemara/>האומר לחבירו וכו': בעי אבימי קונם לבית</row>
 		<row row_number="2" isdata="1">זה שאתה נכנס מת או שמכרו לאחר מהו</row>
 		<row row_number="3" isdata="1">אדם אוסר דבר שברשותו לכשיצא מרשותו</row>
 		<row row_number="4" isdata="1">או לא אמר רבא ת"ש האומר לבנו קונם</row>
 		<row row_number="5" isdata="1">שאי אתה נהנה לי ומת יירשנו בחייו ובמותו</row>
 		<row row_number="6" isdata="1">ומת לא יירשנו ש"מ אדם אוסר דבר</row>
-		<row row_number="7" isdata="1">שברשותו לכשיצא מרשותו שמע מינה</row>
+		<row row_number="7" isdata="1">שברשותו לכשיצא מרשותו שמע מינה:</row>
 		<row row_number="8" isdata="1">תנן התם קונם פירות האלו עלי קונם</row>
 		<row row_number="9" isdata="1">הן על פי קונם הן לפי אסור בחילופיהן</row>
 		<row row_number="10" isdata="1">ובגידוליהן בעי רמי בר חמא אמר קונם</row>

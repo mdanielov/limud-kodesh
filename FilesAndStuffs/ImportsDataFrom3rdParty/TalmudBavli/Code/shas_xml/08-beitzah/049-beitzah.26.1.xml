@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.399750</dateCreated>
-   <lastModified>2019-12-21 21:42:00.399750</lastModified>
+   <dateCreated>2020-01-06 09:32:04.651511</dateCreated>
+   <lastModified>2020-01-06 09:32:04.651511</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="26">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "אין צדין"/><ContGemara/>אם יש בו מום יעלה וישחוט ואם לאו לא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "אין צדין"/><ContMishna/>אם יש בו מום יעלה וישחוט ואם לאו לא</row>
 		<row row_number="2" isdata="1">ישחוט ר' שמעון אומר כל שאין מומו ניכר</row>
-		<row row_number="3" isdata="1">מבעוד יום אין זה מן המוכן<EndMishna/><StartGemara/>גמ' במאי</row>
+		<row row_number="3" isdata="1">מבעוד יום אין זה מן המוכן:<EndMishna/><StartGemara/>גמ' במאי</row>
 		<row row_number="4" isdata="1">קא מפלגי אי נימא ברואין מומין קמפלגי</row>
 		<row row_number="5" isdata="1">דר' יהודה סבר רואין מומין בי"ט ור' שמעון</row>
 		<row row_number="6" isdata="1">סבר אין רואין מומין בי"ט ולפלגו ברואין</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">מומא והא מוקצה הוא אלא דנפל ביה מום</row>
 		<row row_number="14" isdata="1">עובר מערב יום טוב והשתא הוה ליה מום</row>
 		<row row_number="15" isdata="1">קבוע מהו דתימא דדעתיה עלויה ונשחטיה</row>
-		<row row_number="16" isdata="1">קמ"ל ת"ר בכור תם שנפל לבור ר' יהודה</row>
+		<row row_number="16" isdata="1">קמ"ל: ת"ר בכור תם שנפל לבור ר' יהודה</row>
 		<row row_number="17" isdata="1">הנשיא אומר ירד מומחה ויראה אם יש בו</row>
 		<row row_number="18" isdata="1">מום יעלה וישחוט ואם לאו לא ישחוט אמר</row>
 		<row row_number="19" isdata="1">לו ר' שמעון בן מנסיא הרי אמרו אין רואין</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.453750</dateCreated>
-   <lastModified>2019-12-21 21:42:00.453750</lastModified>
+   <dateCreated>2020-01-06 09:32:04.967688</dateCreated>
+   <lastModified>2020-01-06 09:32:04.967688</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="29">
@@ -15,14 +15,14 @@
 		<row row_number="1" isdata="1"><ContChapter name = "אין צדין"/><ContGemara/>דבסורא אמרי תרטא ופלגו תרטא בנרש</row>
 		<row row_number="2" isdata="1">אמרי חלקא ופלגו חלקא בפומבדיתא אמרי</row>
 		<row row_number="3" isdata="1">אוזיא ופלגו אוזיא בנהר פקוד ובמתא מחסיא</row>
-		<row row_number="4" isdata="1">אמרי רבעא ופלגו רבעאמתני' אומר</row>
+		<row row_number="4" isdata="1">אמרי רבעא ופלגו רבעא<EndGemara/><StartMishna/>מתני' אומר</row>
 		<row row_number="5" isdata="1">אדם לחברו מלא לי כלי זה אבל לא במדה</row>
 		<row row_number="6" isdata="1">ר' יהודה אומר אם היה כלי של מדה לא</row>
 		<row row_number="7" isdata="1">ימלאנו מעשה באבא שאול בן בטנית שהיה</row>
 		<row row_number="8" isdata="1">ממלא מדותיו מערב יו"ט ונותנן ללקוחות</row>
 		<row row_number="9" isdata="1">ביו"ט אבא שאול אומר אף במועד עושה</row>
 		<row row_number="10" isdata="1">כן מפני ברורי המדות וחכמים אומרים אף</row>
-		<row row_number="11" isdata="1">בחול עושה כן מפני מצוי המדות<EndMishna/><StartGemara/>גמ' מאי</row>
+		<row row_number="11" isdata="1">בחול עושה כן מפני מצוי המדות:<EndMishna/><StartGemara/>גמ' מאי</row>
 		<row row_number="12" isdata="1">אבל לא במדה אמר רב יהודה אמר שמואל</row>
 		<row row_number="13" isdata="1">אבל לא בכלי המיוחד למדה אבל כלי</row>
 		<row row_number="14" isdata="1">העומד למדה ימלאנו ואתא ר' יהודה למימר</row>
@@ -50,8 +50,8 @@
 		<row row_number="36" isdata="1">קשיא דרבנן אדרבנן דר' יהודה אדר' יהודה</row>
 		<row row_number="37" isdata="1">ל"ק התם בשאינו מיוחד למדה הכא מיוחד</row>
 		<row row_number="38" isdata="1">למדה דרבנן אדרבנן נמי לא קשיא התם</row>
-		<row row_number="39" isdata="1">קא עביד כדעבדין בחול הכא לא קעביד כדעבדין בחול דעבדי אינשי דמקרבי חמרא במנא דכילא ושתו</row>
-		<row row_number="40" isdata="1">מעשה באבא שאול בן בטנית תנא אף במועד עושה כן מפני בטול בית המדרש תנו רבנן הוא כנס</row>
+		<row row_number="39" isdata="1">קא עביד כדעבדין בחול הכא לא קעביד כדעבדין בחול דעבדי אינשי דמקרבי חמרא במנא דכילא ושתו:</row>
+		<row row_number="40" isdata="1">מעשה באבא שאול בן בטנית: תנא אף במועד עושה כן מפני בטול בית המדרש תנו רבנן הוא כנס</row>
 		<row row_number="41" isdata="1">שלש מאות גרבי יין מברורי המדות וחבריו כנסו שלש מאות גרבי שמן ממצוי המדות והביאום לפני הגזברים</row>
 		<row row_number="42" isdata="1">לירושלים אמרו להם אי אתם זקוקים לכך אמרו להם אף אנו אין רצוננו בכך אמרו להם הואיל והחמרתם על</row>
 		<row row_number="43" isdata="1">עצמכם עשו מהם צרכי רבים דתניא גזל ואינו יודע למי גזל יעשה בהם צרכי רבים מאי נינהו אמר רב חסדא</row>

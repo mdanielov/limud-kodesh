@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.434231</dateCreated>
-   <lastModified>2019-12-21 21:42:34.434231</lastModified>
+   <dateCreated>2020-01-06 09:34:48.380775</dateCreated>
+   <lastModified>2020-01-06 09:34:48.380775</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="78">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "התודה היתה באה"/><ContMishna/>מתני' השוחט את התודה לפנים<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">ולחמה חוץ לחומה לא קדש הלחם שחטה</row>
 		<row row_number="3" isdata="1">עד שלא קרמו פניה בתנור ואפילו קרמו</row>
-		<row row_number="4" isdata="1">כולן חוץ מאחד מהן לא קדש הלחם</row>
+		<row row_number="4" isdata="1">כולן חוץ מאחד מהן לא קדש הלחם:</row>
 		<row row_number="5" isdata="1"><EndMishna/><StartGemara/>גמ' מאי חוץ לחומה רבי יוחנן אמר</row>
 		<row row_number="6" isdata="1">חוץ לחומת בית פאגי וריש לקיש אמר חוץ</row>
 		<row row_number="7" isdata="1">לחומת העזרה ריש לקיש אמר חוץ לחומת</row>
@@ -32,8 +32,8 @@
 		<row row_number="18" isdata="1">לענין מקדש לחם אימא מודי ליה לריש לקיש דאי איתיה בפנים קדוש</row>
 		<row row_number="19" isdata="1">אבראי לא קדוש ואי איתמר בהא בהא קאמר ריש לקיש אבל בהך</row>
 		<row row_number="20" isdata="1">אימא מודה ליה לרבי יוחנן צריכא תניא כוותיה דרבי יוחנן השוחט את</row>
-		<row row_number="21" isdata="1">התודה לפנים ולחמה חוץ לחומת בית פאגי לא קדש הלחם שחטה עד שלא</row>
-		<row row_number="22" isdata="1">קרמו פניה בתנור מנא הני מילי דתנו רבנן על חלות לחם חמץ יקריב</row>
+		<row row_number="21" isdata="1">התודה לפנים ולחמה חוץ לחומת בית פאגי לא קדש הלחם: שחטה עד שלא</row>
+		<row row_number="22" isdata="1">קרמו פניה בתנור: מנא הני מילי דתנו רבנן על חלות לחם חמץ יקריב</row>
 		<row row_number="23" isdata="1">קרבנו על זבח מלמד שאין הלחם קדוש אלא אם כן קרמו פניה בתנור</row>
 		<row row_number="24" isdata="1">יקריב קרבנו על זבח מלמד שאין הלחם קדוש אלא בשחיטת הזבח</row>
 		<row row_number="25" isdata="1">זבח תודת מלמד שאם שחט שלא לשמן לא קדש הלחם תנו רבנן</row>
@@ -53,11 +53,11 @@
 		<row row_number="39" isdata="1">סבר סכין כיון דלית ליה תוך אינה מקדשת ככלי שרת] ואיכא דאמרי רב</row>
 		<row row_number="40" isdata="1">פפא אמר דכולי עלמא כלי שרת אין מקדשין אלא מדעת והכא בסכין</row>
 		<row row_number="41" isdata="1">קא מיפלגי מר סבר סכין אלימא מכלי שרת דאע"ג דלית ליה תוך מיקדשה</row>
-		<row row_number="42" isdata="1">ומר סבר סכין לא אלימא ליה מכלי שרתמתני' שחטה חוץ לזמנה וחוץ</row>
+		<row row_number="42" isdata="1">ומר סבר סכין לא אלימא ליה מכלי שרת<EndGemara/><StartMishna/>מתני' שחטה חוץ לזמנה וחוץ</row>
 		<row row_number="43" isdata="1">למקומה קדש הלחם שחטה ונמצאת טריפה לא קדש הלחם שחטה ונמצאת</row>
 		<row row_number="44" isdata="1">בעלת מום ר' אליעזר אומר קידש וחכמים אומרים לא קידש שחטה שלא</row>
 		<row row_number="45" isdata="1">לשמה וכן איל המילואים וכן שני כבשי עצרת ששחטן שלא לשמן לא</row>
-		<row row_number="46" isdata="1">קדש הלחם<EndMishna/><StartGemara/>גמ' מתני' מני רבי מאיר דתניא זה הכלל כל שפיסולו</row>
+		<row row_number="46" isdata="1">קדש הלחם:<EndMishna/><StartGemara/>גמ' מתני' מני רבי מאיר דתניא זה הכלל כל שפיסולו</row>
 		<row row_number="47" isdata="1">קודם שחיטה לא קדש הלחם פיסולו אחר שחיטה קדש הלחם שחטה</row>
 		<row row_number="48" isdata="1">חוץ לזמנה וחוץ למקומה קדש הלחם שחטה ונמצאת טריפה לא קדש הלחם</row>
 </amud>

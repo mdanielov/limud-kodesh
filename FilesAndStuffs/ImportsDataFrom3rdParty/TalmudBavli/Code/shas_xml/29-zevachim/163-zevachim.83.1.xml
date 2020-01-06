@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.061768</dateCreated>
-   <lastModified>2019-12-21 21:42:32.061768</lastModified>
+   <dateCreated>2020-01-06 09:34:37.505392</dateCreated>
+   <lastModified>2020-01-06 09:34:37.505392</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="83">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים שנתערבו"/><ContGemara/>והוציאו למזבח והכניסן מהו הכא ודאי חד</row>
 		<row row_number="2" isdata="1">מקום הוא או [דילמא] יציאה קרינא ביה</row>
-		<row row_number="3" isdata="1">תיקו נכנס לכפר תניא רבי אליעזר אומר</row>
+		<row row_number="3" isdata="1">תיקו: נכנס לכפר: תניא רבי אליעזר אומר</row>
 		<row row_number="4" isdata="1">נאמר כאן לכפר בקודש ונאמר להלן וכל</row>
 		<row row_number="5" isdata="1">אדם לא יהיה באהל מועד בבואו לכפר</row>
 		<row row_number="6" isdata="1">בקדש מה להלן בשלא כיפר אף כאן בשלא</row>
@@ -23,8 +23,8 @@
 		<row row_number="9" isdata="1">אשר הובא את דמם לכפר מה להלן בשכיפר</row>
 		<row row_number="10" isdata="1">אף כאן בשכיפר במאי קמיפלגי מ"ס דנין</row>
 		<row row_number="11" isdata="1">חוץ מחוץ ואין דנין חוץ מבפנים ומ"ס דנין</row>
-		<row row_number="12" isdata="1">בהמה מבהמה ואין דנין בהמה מאדם רבי</row>
-		<row row_number="13" isdata="1">יהודה אומר כו' הא מזיד פסול בשכיפר</row>
+		<row row_number="12" isdata="1">בהמה מבהמה ואין דנין בהמה מאדם: רבי</row>
+		<row row_number="13" isdata="1">יהודה אומר כו': הא מזיד פסול בשכיפר</row>
 		<row row_number="14" isdata="1">או בשלא כיפר אמר רבי ירמיה ממשמע</row>
 		<row row_number="15" isdata="1">שנאמר ואת פר החטאת ואת שעיר החטאת</row>
 		<row row_number="16" isdata="1">אשר הובא את דמם (אל אהל מועד) לכפר</row>
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">אומר אינו צריך הרי הוא אומר ואת פר החטאת ואת שעיר החטאת שאין</row>
 		<row row_number="24" isdata="1">תלמוד לומר לכפר מה תלמוד לומר לכפר לימד על כל המתכפרים</row>
 		<row row_number="25" isdata="1">שהשורפן מטמא בגדים ורבי יהודה לכפר לא משמע ליה מאי טעמא לאו</row>
-		<row row_number="26" isdata="1">משום דמיבעיא ליה לגזירה שוה<EndChapter name = "כל הזבחים שנתערבו"/><EndGemara/></row>
+		<row row_number="26" isdata="1">משום דמיבעיא ליה לגזירה שוה:<EndChapter name = "כל הזבחים שנתערבו"/><EndGemara/></row>
 		<row row_number="27" isdata="0">הדרן עלך כל הזבחים שנתערבו</row>
 		<row row_number="28" isdata="1"><StartChapter name = "המזבח מקדש"/><StartMishna/>המזבח מקדש [את] הראוי לו רבי יהושע אומר כל הראוי לאישים אם</row>
 		<row row_number="29" isdata="1">עלה לא ירד שנאמר היא העולה על מוקדה מה עולה שהיא</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">תרד אף כל דבר שהוא ראוי למזבח אם עלתה לא תרד אין בין דברי רבן</row>
 		<row row_number="34" isdata="1">גמליאל לדברי רבי יהושע אלא הדם והנסכים שרבן גמליאל אומר לא</row>
 		<row row_number="35" isdata="1">ירדו ורבי יהושע אומר ירדו רבי שמעון אומר הזבח כשר ונסכים פסולין</row>
-		<row row_number="36" isdata="1">הנסכים כשירים והזבח פסול אפי' זה וזה פסולין הזבח לא ירד והנסכים ירדו</row>
+		<row row_number="36" isdata="1">הנסכים כשירים והזבח פסול אפי' זה וזה פסולין הזבח לא ירד והנסכים ירדו:</row>
 </amud>
 </daf>
 </masechet>

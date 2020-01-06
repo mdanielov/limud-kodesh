@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.317515</dateCreated>
-   <lastModified>2019-12-21 21:42:12.317515</lastModified>
+   <dateCreated>2020-01-06 09:33:04.837636</dateCreated>
+   <lastModified>2020-01-06 09:33:04.837636</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="22">
@@ -21,10 +21,10 @@
 		<row row_number="7" isdata="1">בגיטין אבל בשאר שטרות לא דכתי' ונתתם</row>
 		<row row_number="8" isdata="1">בכלי חרש למען יעמדו ימים רבים ורבי יוחנן</row>
 		<row row_number="9" isdata="1">אמר אפי' בשטרות והכתיב למען יעמדו ימים</row>
-		<row row_number="10" isdata="1">רבים התם עצה טובה קמ"למתני' הכל</row>
+		<row row_number="10" isdata="1">רבים התם עצה טובה קמ"ל<EndGemara/><StartMishna/>מתני' הכל</row>
 		<row row_number="11" isdata="1">כשרין לכתוב את הגט אפי' חרש שוטה וקטן</row>
 		<row row_number="12" isdata="1">האשה כותבת את גיטה והאיש כותב את</row>
-		<row row_number="13" isdata="1">שוברו שאין קיום הגט אלא בחותמיו</row>
+		<row row_number="13" isdata="1">שוברו שאין קיום הגט אלא בחותמיו:</row>
 		<row row_number="14" isdata="1"><EndMishna/><StartGemara/>גמ' והא לאו בני דיעה נינהו אמר רב הונא</row>
 </amud>
 </daf>

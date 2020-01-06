@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.508728</dateCreated>
-   <lastModified>2019-12-21 21:42:07.508728</lastModified>
+   <dateCreated>2020-01-06 09:32:43.080002</dateCreated>
+   <lastModified>2020-01-06 09:32:43.080002</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="104">
@@ -30,7 +30,7 @@
 		<row row_number="16" isdata="1">רב לא שנו אלא מנה מאתים אבל תוספת יש</row>
 		<row row_number="17" isdata="1">לה אמר ליה רבי אבא לרב הונא אמר רב</row>
 		<row row_number="18" isdata="1">הכי אמר ליה אישתיקן קאמרת או אשקיין</row>
-		<row row_number="19" isdata="1">קאמרת אמר ליה אישתיקן קאמינא חמתיה</row>
+		<row row_number="19" isdata="1">קאמרת אמר ליה אישתיקן קאמינא: חמתיה</row>
 		<row row_number="20" isdata="1">דרב חייא אריכא אינתת אחוה הואי ואלמנה</row>
 		<row row_number="21" isdata="1">בבית אביה הואי וזנה עשרים וחמש שנין</row>
 		<row row_number="22" isdata="1">בבי נשא לסוף אמרה ליה הב לי מזוני אמר</row>
@@ -61,7 +61,7 @@
 		<row row_number="47" isdata="1">סבור הני והני דידיה מה לי מהני מה לי</row>
 		<row row_number="48" isdata="1">מהני ולא היא זימנין דאזלה ומשבחה להו</row>
 		<row row_number="49" isdata="1">ודבעלה מכספי ואמר לה שקיל דידך והב לי</row>
-		<row row_number="50" isdata="1">דידי ואתי לאפוקי לעז על בי דינא<EndChapter name = "הנושא"/><EndGemara/></row>
+		<row row_number="50" isdata="1">דידי ואתי לאפוקי לעז על בי דינא:<EndChapter name = "הנושא"/><EndGemara/></row>
 		<row row_number="51" isdata="0">הדרן עלך הנושא</row>
 		<row row_number="52" isdata="1"><StartChapter name = "שני דייני גזירות "/><StartMishna/>שני דייני גזירות היו בירושלים אדמון וחנן בן אבישלום חנן אומר</row>
 		<row row_number="53" isdata="1">שני דברים אדמון אומר שבעה מי שהלך למדינת הים ואשתו תובעת מזונות חנן אומר</row>

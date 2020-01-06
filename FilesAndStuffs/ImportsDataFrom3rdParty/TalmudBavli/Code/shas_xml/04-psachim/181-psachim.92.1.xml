@@ -6,22 +6,22 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:56.223146</dateCreated>
-   <lastModified>2019-12-21 21:41:56.223146</lastModified>
+   <dateCreated>2020-01-06 09:31:34.061953</dateCreated>
+   <lastModified>2020-01-06 09:31:34.061953</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="92">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "האשה"/><ContGemara/>והמלקט לו עצמות טובל ואוכל בקדשים</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האשה"/><ContMishna/>והמלקט לו עצמות טובל ואוכל בקדשים</row>
 		<row row_number="2" isdata="1">גר שנתגייר בע"פ ב"ש אומרים טובל ואוכל</row>
 		<row row_number="3" isdata="1">את פסחו לערב וב"ה אומרים הפורש מן</row>
-		<row row_number="4" isdata="1">הערלה כפורש מן הקבר<EndMishna/><StartGemara/>גמ' מ"ט קא</row>
+		<row row_number="4" isdata="1">הערלה כפורש מן הקבר:<EndMishna/><StartGemara/>גמ' מ"ט קא</row>
 		<row row_number="5" isdata="1">סבר אנינות דלילה דרבנן וגבי פסח לא</row>
 		<row row_number="6" isdata="1">העמידו דבריהם במקום כרת גבי קדשים</row>
-		<row row_number="7" isdata="1">העמידו דבריהם במקום עשה השומע על</row>
-		<row row_number="8" isdata="1">מתו וכו' מלקט עצמות הא בעי הזאת</row>
-		<row row_number="9" isdata="1">שלישי ושביעי אימא שליקטו לו עצמות גר</row>
-		<row row_number="10" isdata="1">שנתגייר וכו' אמר רבה בר בר חנה א"ר</row>
+		<row row_number="7" isdata="1">העמידו דבריהם במקום עשה: השומע על</row>
+		<row row_number="8" isdata="1">מתו וכו': מלקט עצמות הא בעי הזאת</row>
+		<row row_number="9" isdata="1">שלישי ושביעי אימא שליקטו לו עצמות: גר</row>
+		<row row_number="10" isdata="1">שנתגייר וכו': אמר רבה בר בר חנה א"ר</row>
 		<row row_number="11" isdata="1">יוחנן מחלוקת בערל נכרי דב"ה סברי</row>
 		<row row_number="12" isdata="1">גזירה שמא יטמא לשנה הבאה ויאמר</row>
 		<row row_number="13" isdata="1">אישתקד מי לא טבלתי ואכלתי עכשיו נמי</row>
@@ -35,7 +35,7 @@
 		<row row_number="21" isdata="1">ואוכל את פסחו לערב על מה נחלקו על ערל</row>
 		<row row_number="22" isdata="1">נכרי שב"ש אומרים טובל ואוכל את</row>
 		<row row_number="23" isdata="1">פסחו לערב וב"ה אומרים הפורש מן הערלה</row>
-		<row row_number="24" isdata="1">כפורש מן הקבר אמר רבא ערל הזאה</row>
+		<row row_number="24" isdata="1">כפורש מן הקבר: אמר רבא ערל הזאה</row>
 		<row row_number="25" isdata="1">ואיזמל העמידו דבריהן במקום כרת אונן</row>
 		<row row_number="26" isdata="1">ומצורע ובית הפרס לא העמידו דבריהן</row>
 		<row row_number="27" isdata="1">במקום כרת ערל הא דאמרן הזאה דאמר</row>

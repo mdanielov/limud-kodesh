@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.323441</dateCreated>
-   <lastModified>2019-12-21 21:42:16.323441</lastModified>
+   <dateCreated>2020-01-06 09:33:25.145075</dateCreated>
+   <lastModified>2020-01-06 09:33:25.145075</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="52">
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">משכוכית הכא תרגמו קרקשתא ר' יעקב</row>
 		<row row_number="12" isdata="1">אומר עיזא דאזלא בריש עדרא כדדרש ההוא</row>
 		<row row_number="13" isdata="1">גלילאה עליה דרב חסדא כד רגיז רעיא</row>
-		<row row_number="14" isdata="1">על ענא עביד לנגדא סמותאמתני' כסהו</row>
+		<row row_number="14" isdata="1">על ענא עביד לנגדא סמותא<EndGemara/><StartMishna/>מתני' כסהו</row>
 		<row row_number="15" isdata="1">הראשון ובא השני ומצאו מגולה ולא כסהו</row>
 		<row row_number="16" isdata="1">השני חייב כסהו כראוי ונפל לתוכו שור</row>
 		<row row_number="17" isdata="1">או חמור ומת פטור לא כסהו כראוי ונפל</row>
@@ -34,12 +34,12 @@
 		<row row_number="20" isdata="1">פטור נפל לתוכו שור וכליו ונשתברו חמור</row>
 		<row row_number="21" isdata="1">וכליו ונתקרעו חייב על הבהמה ופטור על</row>
 		<row row_number="22" isdata="1">הכלים נפל לתוכו שור חרש שוטה</row>
-		<row row_number="23" isdata="1">וקטן חייב בן או בת עבד או אמה פטור</row>
+		<row row_number="23" isdata="1">וקטן חייב בן או בת עבד או אמה פטור:</row>
 		<row row_number="24" isdata="1"><EndMishna/><StartGemara/>גמ' וראשון עד אימת מיפטר אמר רב בכדי</row>
 		<row row_number="25" isdata="1">שידע ושמואל אמר בכדי שיודיעוהו ורבי</row>
 		<row row_number="26" isdata="1">יוחנן אמר בכדי שיודיעוהו וישכור פועלים</row>
-		<row row_number="27" isdata="1">ויכרות ארזים ויכסנו כסהו כראוי ונפל</row>
-		<row row_number="28" isdata="1">לתוכו שור או חמור ומת פטור כיון</row>
+		<row row_number="27" isdata="1">ויכרות ארזים ויכסנו: כסהו כראוי ונפל</row>
+		<row row_number="28" isdata="1">לתוכו שור או חמור ומת פטור: כיון</row>
 		<row row_number="29" isdata="1">דכסהו כראוי היכי נפל אמר ר' יצחק בר</row>
 		<row row_number="30" isdata="1">בר חנה שהתליע מתוכו איבעיא להו כסהו</row>
 		<row row_number="31" isdata="1">כסוי שיכול לעמוד לפני שוורים ואין יכול</row>

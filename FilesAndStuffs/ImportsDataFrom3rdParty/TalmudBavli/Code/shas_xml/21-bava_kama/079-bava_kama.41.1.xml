@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.102440</dateCreated>
-   <lastModified>2019-12-21 21:42:16.102440</lastModified>
+   <dateCreated>2020-01-06 09:33:24.100709</dateCreated>
+   <lastModified>2020-01-06 09:33:24.100709</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="41">
@@ -20,12 +20,12 @@
 		<row row_number="6" isdata="1">הניזק לאביי משלם כופר לרבא לא משלם</row>
 		<row row_number="7" isdata="1">כופר תניא כוותיה דרב שור האיצטדין אינו</row>
 		<row row_number="8" isdata="1">חייב מיתה וכשר לגבי מזבח מפני שהוא</row>
-		<row row_number="9" isdata="1">כמעושהמתני' שור שנגח את האדם</row>
+		<row row_number="9" isdata="1">כמעושה<EndGemara/><StartMishna/>מתני' שור שנגח את האדם</row>
 		<row row_number="10" isdata="1">ומת מועד משלם כופר ותם פטור מן הכופר</row>
 		<row row_number="11" isdata="1">וזה וזה חייבין מיתה וכן בבן וכן בבת נגח</row>
 		<row row_number="12" isdata="1">עבד או אמה נותן שלשים סלעים בין שהוא</row>
 		<row row_number="13" isdata="1">יפה מאה מנה ובין שאינו יפה אלא דינר</row>
-		<row row_number="14" isdata="1">אחד<EndMishna/><StartGemara/>גמ' וכי מאחר דמתם קטלינן ליה</row>
+		<row row_number="14" isdata="1">אחד:<EndMishna/><StartGemara/>גמ' וכי מאחר דמתם קטלינן ליה</row>
 		<row row_number="15" isdata="1">מועד היכי משכחת לה אמר רבה הכא</row>
 		<row row_number="16" isdata="1">במאי עסקינן כגון שאמדוהו לשלשה בני</row>
 		<row row_number="17" isdata="1">אדם רב אשי אמר אומדנא לאו כלום הוא</row>
@@ -45,8 +45,8 @@
 		<row row_number="31" isdata="1">קאי רבינא אמר במכירין את בעל השור</row>
 		<row row_number="32" isdata="1">ואין מכירין את השור מאי ה"ל למעבד</row>
 		<row row_number="33" isdata="1">משום דאמרי ליה תורא נגחנא אית לך</row>
-		<row row_number="34" isdata="1">בבקרך איבעי לך נטורי כולי בקרך וזה</row>
-		<row row_number="35" isdata="1">וזה חייבין מיתה כו' ת"ר ממשמע שנאמר</row>
+		<row row_number="34" isdata="1">בבקרך איבעי לך נטורי כולי בקרך: וזה</row>
+		<row row_number="35" isdata="1">וזה חייבין מיתה כו': ת"ר ממשמע שנאמר</row>
 		<row row_number="36" isdata="1">סקל יסקל השור איני יודע שנבילה היא</row>
 		<row row_number="37" isdata="1">ונבילה אסורה באכילה מה ת"ל לא יאכל</row>
 		<row row_number="38" isdata="1">את בשרו מגיד לך הכתוב שאם שחטו</row>

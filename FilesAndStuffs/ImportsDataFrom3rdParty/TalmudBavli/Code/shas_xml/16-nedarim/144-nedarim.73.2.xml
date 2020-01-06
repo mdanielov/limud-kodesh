@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.979984</dateCreated>
-   <lastModified>2019-12-21 21:42:08.979984</lastModified>
+   <dateCreated>2020-01-06 09:32:49.865957</dateCreated>
+   <lastModified>2020-01-06 09:32:49.865957</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="73">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "נערה המאורסה"/><ContMishna/>מתני' בוגרת ששהתה י"ב חדש<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">ואלמנה ל' יום ר' אליעזר אומר הואיל ובעלה</row>
 		<row row_number="3" isdata="1">חייב במזונותיה יפר וחכ"א אין הבעל מיפר</row>
-		<row row_number="4" isdata="1">עד שתכנס לרשותו<EndMishna/><StartGemara/>גמ' אמר רבה ר"א</row>
+		<row row_number="4" isdata="1">עד שתכנס לרשותו:<EndMishna/><StartGemara/>גמ' אמר רבה ר"א</row>
 		<row row_number="5" isdata="1">ומשנה ראשונה אמרו דבר אחד דתנן</row>
 		<row row_number="6" isdata="1">נותנין לבתולה י"ב חדש לפרנס עצמה</row>
 		<row row_number="7" isdata="1">הגיע י"ב חדש אוכלת משלו ואוכלת</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">שמעת ליה לר' אליעזר אלא גבי נדרים</row>
 		<row row_number="19" isdata="1">כדרב פנחס משמיה דרבא דאמר כל</row>
 		<row row_number="20" isdata="1">הנודרת על דעת בעלה היא נודרת אבל</row>
-		<row row_number="21" isdata="1">תרומה אפילו מדרבנן נמי לא אכלה</row>
+		<row row_number="21" isdata="1">תרומה אפילו מדרבנן נמי לא אכלה:</row>
 </amud>
 </daf>
 </masechet>

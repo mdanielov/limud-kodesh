@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:09.899984</dateCreated>
-   <lastModified>2019-12-21 21:42:09.899984</lastModified>
+   <dateCreated>2020-01-06 09:32:52.588544</dateCreated>
+   <lastModified>2020-01-06 09:32:52.588544</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="16">
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">פלגיה דיומא סליק לה לשימור אב"א דקא</row>
 		<row row_number="7" isdata="1">שפעה תלתא תלתא יומי בהדי הדדי ואב"א</row>
 		<row row_number="8" isdata="1">דחזיא תלתא יומי סמוך לשקיעת החמה</row>
-		<row row_number="9" isdata="1">דלא הואי שהות דסליק ליה למניינא<EndChapter name = "הריני נזיר"/><EndGemara/></row>
+		<row row_number="9" isdata="1">דלא הואי שהות דסליק ליה למניינא:<EndChapter name = "הריני נזיר"/><EndGemara/></row>
 		<row row_number="10" isdata="0">הדרן עלך הריני נזיר</row>
 		<row row_number="11" isdata="1"><StartChapter name = "מי שאמר"/><StartMishna/>מי שאמר הריני נזיר מגלח יום שלשים</row>
 		<row row_number="12" isdata="1">ואחד ואם גילח ליום שלשים יצא הריני</row>
@@ -41,7 +41,7 @@
 		<row row_number="27" isdata="1">הכל הריני נזיר מאה יום נטמא יום מאה סותר</row>
 		<row row_number="28" isdata="1">את הכל ר"א אומר אינו סותר אלא שלשים</row>
 		<row row_number="29" isdata="1">נטמא יום מאה ואחד סותר שלשים יום רבי</row>
-		<row row_number="30" isdata="1">אליעזר אומר אינו סותר אלא שבעה</row>
+		<row row_number="30" isdata="1">אליעזר אומר אינו סותר אלא שבעה:</row>
 		<row row_number="31" isdata="1"><EndMishna/><StartGemara/>גמ' מי שאמר הריני נזיר ונטמא יום</row>
 		<row row_number="32" isdata="1">שלשים סותר את הכל רבי אליעזר אומר אינו סותר אלא שבעה</row>
 </amud>

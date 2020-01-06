@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.438750</dateCreated>
-   <lastModified>2019-12-21 21:42:00.438750</lastModified>
+   <dateCreated>2020-01-06 09:32:04.860968</dateCreated>
+   <lastModified>2020-01-06 09:32:04.860968</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="28">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "אין צדין"/><ContMishna/>מתני' ר' יהודה אומר שוקל אדם בשר כנגד הכלי או כנגד הקופיץ וחכ"א<EndGemara/><StartMishna/></row>
-		<row row_number="2" isdata="1">אין משגיחין בכף מאזנים כל עיקר<EndMishna/><StartGemara/>גמ' מאי כל עיקר אמר רב יהודה אמר</row>
+		<row row_number="2" isdata="1">אין משגיחין בכף מאזנים כל עיקר:<EndMishna/><StartGemara/>גמ' מאי כל עיקר אמר רב יהודה אמר</row>
 		<row row_number="3" isdata="1">שמואל אפי' לשמרו מן העכברים אמר רב אידי בר אבין והוא דתליא</row>
 		<row row_number="4" isdata="1">בתריטא ואמר רב יהודה אמר שמואל טבח אומן אסור לשקול בשר ביד</row>
 		<row row_number="5" isdata="1">ואמר רב יהודה אמר שמואל טבח אומן אסור לשקול בשר במים ואמר רב</row>
@@ -30,8 +30,8 @@
 		<row row_number="16" isdata="1">אלא משום דלא מחזי כעובדין דחול אבל הכא דמחזי כעובדין דחול לא</row>
 		<row row_number="17" isdata="1">למימרא דקפדי אהדדי והא הנהו שב בניתא דאתו לבי רבי ואשתכח חמש</row>
 		<row row_number="18" isdata="1">מנייהו בי ר' חייא ולא קפיד ר"ש ברבי אמר רב פפא שדי גברא בינייהו אי ר'</row>
-		<row row_number="19" isdata="1">חייא ור' ישמעאל בר' יוסי אי ר"ש ברבי ובר קפראמתני' אין משחיזין את</row>
-		<row row_number="20" isdata="1">הסכין ביום טוב אבל משיאה על גבי חברתה<EndMishna/><StartGemara/>גמ' אמר רב הונא לא שנו</row>
+		<row row_number="19" isdata="1">חייא ור' ישמעאל בר' יוסי אי ר"ש ברבי ובר קפרא<EndGemara/><StartMishna/>מתני' אין משחיזין את</row>
+		<row row_number="20" isdata="1">הסכין ביום טוב אבל משיאה על גבי חברתה:<EndMishna/><StartGemara/>גמ' אמר רב הונא לא שנו</row>
 		<row row_number="21" isdata="1">אלא במשחזת של אבן אבל במשחזת של עץ מותר אמר רב יהודה אמר</row>
 		<row row_number="22" isdata="1">שמואל הא דאמרת של אבן אסור לא אמרן אלא לחדדה אבל להעביר</row>
 		<row row_number="23" isdata="1">שמנוניתה מותר מכלל דבשל עץ אפילו לחדדה נמי מותר איכא דמתני</row>

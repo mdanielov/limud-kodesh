@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:24.756009</dateCreated>
-   <lastModified>2019-12-21 21:42:24.756009</lastModified>
+   <dateCreated>2020-01-06 09:34:03.695512</dateCreated>
+   <lastModified>2020-01-06 09:34:03.695512</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="170">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>אמר אלא לברר א"ל אנא נמי לברר</row>
-		<row row_number="2" isdata="1">קאמינאמתני' מי שפרע מקצת חובו ר'</row>
+		<row row_number="2" isdata="1">קאמינא<EndGemara/><StartMishna/>מתני' מי שפרע מקצת חובו ר'</row>
 		<row row_number="3" isdata="1">יהודה אומר יחליף רבי יוסי אומר יכתוב</row>
 		<row row_number="4" isdata="1">שובר אמר רבי יהודה נמצא זה צריך להיות</row>
 		<row row_number="5" isdata="1">שומר שוברו מן העכברים אמר לו רבי יוסי</row>
-		<row row_number="6" isdata="1">כך יפה לו ולא ירע כחו של זה<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="6" isdata="1">כך יפה לו ולא ירע כחו של זה:<EndMishna/><StartGemara/>גמ' אמר</row>
 		<row row_number="7" isdata="1">רב הונא אמר רב אין הלכה לא כרבי יהודה</row>
 		<row row_number="8" isdata="1">ולא כרבי יוסי אלא ב"ד מקרעין השטר</row>
 		<row row_number="9" isdata="1">וכותבין לו שטר אחר מזמן ראשון אמר ליה</row>

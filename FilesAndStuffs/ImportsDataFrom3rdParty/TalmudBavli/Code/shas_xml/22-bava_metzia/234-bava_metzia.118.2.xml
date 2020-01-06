@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:20.493466</dateCreated>
-   <lastModified>2019-12-21 21:42:20.493466</lastModified>
+   <dateCreated>2020-01-06 09:33:42.969384</dateCreated>
+   <lastModified>2020-01-06 09:33:42.969384</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="118">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "הבית והעלייה"/><ContGemara/>ומה אתה אומר הכי קאמרי ליה מדבריך</row>
 		<row row_number="2" isdata="1">לדברינו אין באין משל צבור וכן כי אתא</row>
 		<row row_number="3" isdata="1">רבין אמר רבי יוחנן חוששין לבעלי זרועות</row>
-		<row row_number="4" isdata="1">איכא בינייהומתני' המוציא זבל לרשות</row>
+		<row row_number="4" isdata="1">איכא בינייהו<EndGemara/><StartMishna/>מתני' המוציא זבל לרשות</row>
 		<row row_number="5" isdata="1">הרבים המוציא מוציא והמזבל מזבל אין</row>
 		<row row_number="6" isdata="1">שורין טיט ברשות הרבים ואין לובנים לבנים</row>
 		<row row_number="7" isdata="1">אבל גובלין טיט ברשות הרבים אבל לא</row>
@@ -23,7 +23,7 @@
 		<row row_number="9" isdata="1">אבנים מביא והבונה בונה ואם הזיק משלם</row>
 		<row row_number="10" isdata="1">מה שהזיק רבן שמעון בן גמליאל אומר</row>
 		<row row_number="11" isdata="1">אף מתקן הוא את מלאכתו לפני שלשים</row>
-		<row row_number="12" isdata="1">יום<EndMishna/><StartGemara/>גמ' לימא מתני' דלא כרבי יהודה</row>
+		<row row_number="12" isdata="1">יום:<EndMishna/><StartGemara/>גמ' לימא מתני' דלא כרבי יהודה</row>
 		<row row_number="13" isdata="1">דתניא רבי יהודה אומר בשעת הוצאת זבלים אדם מוציא זבלו לרה"ר</row>
 		<row row_number="14" isdata="1">וצוברו כל שלשים יום כדי שיהא נישוף ברגלי אדם וברגלי בהמה שעל</row>
 		<row row_number="15" isdata="1">מנת כן הנחיל יהושע לישראל את הארץ אפילו תימא רבי יהודה מודה ר'</row>
@@ -40,12 +40,12 @@
 		<row row_number="26" isdata="1">שמסר לחמר החמר חייב החמר שמסר לכתף הכתף חייב הכתף שמסר</row>
 		<row row_number="27" isdata="1">לבנאי הבנאי חייב הבנאי שמסר לאדריכל אדריכל חייב ואם הניח אבן על</row>
 		<row row_number="28" isdata="1">הדימוס והזיקה כולן חייבין לשלם והתניא אחרון חייב וכולן פטורים לא</row>
-		<row row_number="29" isdata="1">קשיא כאן בשכירות כאן בקבלנותמתני' שתי גנות זו על גב זו והירק</row>
+		<row row_number="29" isdata="1">קשיא כאן בשכירות כאן בקבלנות<EndGemara/><StartMishna/>מתני' שתי גנות זו על גב זו והירק</row>
 		<row row_number="30" isdata="1">בינתים ר"מ אומר של עליון ר' יהודה אומר של תחתון אמר ר"מ אם ירצה</row>
 		<row row_number="31" isdata="1">העליון ליקח את עפרו אין כאן ירק אמר ר' יהודה אם ירצה התחתון</row>
 		<row row_number="32" isdata="1">למלאות את גנתו אין כאן ירק אמר ר"מ מאחר ששניהן יכולין למחות</row>
 		<row row_number="33" isdata="1">זה על זה רואין מהיכן ירק זה חי אמר ר"ש כל שהעליון יכול לפשוט את</row>
-		<row row_number="34" isdata="1">ידו וליטול הרי הוא שלו והשאר של תחתון<EndMishna/><StartGemara/>גמ' אמר רבא בעיקרו כולי</row>
+		<row row_number="34" isdata="1">ידו וליטול הרי הוא שלו והשאר של תחתון:<EndMishna/><StartGemara/>גמ' אמר רבא בעיקרו כולי</row>
 		<row row_number="35" isdata="1">עלמא לא פליגי דעליון הוי כי פליגי בנופו ר"מ סבר שדי נופו בתר עיקרו</row>
 		<row row_number="36" isdata="1">ור' יהודה סבר לא אמרינן שדי נופו בתר עיקרו (ואזדא לטעמייהו) דתניא</row>
 		<row row_number="37" isdata="1">היוצא מן הגזע ומן השרשין הרי אלו של בעל הקרקע דברי ר' מאיר ר'</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.605378</dateCreated>
-   <lastModified>2019-12-21 21:42:32.605378</lastModified>
+   <dateCreated>2020-01-06 09:34:40.058354</dateCreated>
+   <lastModified>2020-01-06 09:34:40.058354</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="109">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "השוחט והמעלה"/><ContMishna/>מתני' אחד קדשים כשרין ואחד קדשים<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">פסולין שהיה פסולן בקודש והקריבן בחוץ</row>
 		<row row_number="3" isdata="1">חייב המעלה כזית מן העולה ומן האימורין</row>
-		<row row_number="4" isdata="1">בחוץ חייב<EndMishna/><StartGemara/>גמ' ת"ר אשר יעלה עולה או</row>
+		<row row_number="4" isdata="1">בחוץ חייב:<EndMishna/><StartGemara/>גמ' ת"ר אשר יעלה עולה או</row>
 		<row row_number="5" isdata="1">זבח אין לי אלא עולה מנין לרבות אימורי</row>
 		<row row_number="6" isdata="1">אשם ואימורי חטאת ואימורי קדשי קדשים</row>
 		<row row_number="7" isdata="1">ואימורי קדשים קלים ת"ל זבח מנין לרבות</row>
@@ -31,8 +31,8 @@
 		<row row_number="17" isdata="1">והניתנין בחוץ שנתנן בפנים והניתנין בפנים</row>
 		<row row_number="18" isdata="1">שנתנן בחוץ ופסח וחטאת שנתנן שלא</row>
 		<row row_number="19" isdata="1">לשמן מנין ת"ל לא יביאנו לעשות כל</row>
-		<row row_number="20" isdata="1">המתקבל בפתח אהל מועד חייבין עליו בחוץ</row>
-		<row row_number="21" isdata="1">המעלה כזית מן העולה כו' עולה ואימוריה</row>
+		<row row_number="20" isdata="1">המתקבל בפתח אהל מועד חייבין עליו בחוץ:</row>
+		<row row_number="21" isdata="1">המעלה כזית מן העולה כו': עולה ואימוריה</row>
 		<row row_number="22" isdata="1">אין שלמים ואימוריהן לא תנינא להא דת"ר</row>
 		<row row_number="23" isdata="1">עולה ואימוריה מצטרפין לכזית להעלותן</row>
 		<row row_number="24" isdata="1">בחוץ ולחייב עליהן משום פיגול נותר וטמא</row>

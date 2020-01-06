@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.050287</dateCreated>
-   <lastModified>2019-12-21 21:42:42.050287</lastModified>
+   <dateCreated>2020-01-06 09:35:26.845461</dateCreated>
+   <lastModified>2020-01-06 09:35:26.845461</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="45">
@@ -15,8 +15,8 @@
 		<row row_number="1" isdata="1"><ContChapter name = "יוצא דופן"/><ContGemara/>בשלמא לר' יוחנן כי היכי דאיכא תנא</row>
 		<row row_number="2" isdata="1">דקאמר יום אחד בשנה חשוב שנה הכי נמי</row>
 		<row row_number="3" isdata="1">איכא תנא דאמר ל' יום בשנה חשובין שנה</row>
-		<row row_number="4" isdata="1">אלא לר' ינאי קשיא קשיא פחות מכאן</row>
-		<row row_number="5" isdata="1">כנותן אצבע בעין איבעיא להו הני בתולין</row>
+		<row row_number="4" isdata="1">אלא לר' ינאי קשיא קשיא: פחות מכאן</row>
+		<row row_number="5" isdata="1">כנותן אצבע בעין: איבעיא להו הני בתולין</row>
 		<row row_number="6" isdata="1">מיזל אזלי ואתו או דלמא אתצודי הוא דלא</row>
 		<row row_number="7" isdata="1">מתצדי עד לאחר ג' למאי נפקא מינה כגון</row>
 		<row row_number="8" isdata="1">שבעל בתוך ג' ומצא דם ובעל לאחר שלש</row>
@@ -62,11 +62,11 @@
 		<row row_number="48" isdata="1">לכהונה ראה התלמידים מסתכלים זה בזה אמר להם למה הדבר קשה</row>
 		<row row_number="49" isdata="1">בעיניכם [אמרו ליה] כשם שכל התורה הלכה למשה מסיני כך פחותה מבת</row>
 		<row row_number="50" isdata="1">שלש שנים כשרה לכהונה הלכה למשה מסיני ואף רבי עקיבא לא אמרה</row>
-		<row row_number="51" isdata="1">אלא לחדד בה את התלמידיםמתני' בן תשע שנים ויום אחד שבא</row>
+		<row row_number="51" isdata="1">אלא לחדד בה את התלמידים<EndGemara/><StartMishna/>מתני' בן תשע שנים ויום אחד שבא</row>
 		<row row_number="52" isdata="1">על יבמתו קנאה ואין נותן גט עד שיגדיל ומטמא בנדה לטמא משכב תחתון</row>
 		<row row_number="53" isdata="1">כעליון ופוסל ואינו מאכיל בתרומה ופוסל את הבהמה מע"ג המזבח</row>
 		<row row_number="54" isdata="1">ונסקלת על ידו ואם בא על אחת מכל העריות האמורות בתורה מומתין על</row>
-		<row row_number="55" isdata="1">ידו והוא פטור<EndMishna/><StartGemara/>גמ' ולכשיגדיל בגט סגי לה והתניא עשו ביאת בן ט' כמאמר בגדול מה מאמר בגדול</row>
+		<row row_number="55" isdata="1">ידו והוא פטור:<EndMishna/><StartGemara/>גמ' ולכשיגדיל בגט סגי לה והתניא עשו ביאת בן ט' כמאמר בגדול מה מאמר בגדול</row>
 		<row row_number="56" isdata="1">צריך גט למאמרו וחליצה לזיקתו אף ביאת בן ט' צריך גט למאמרו וחליצה לזיקתו אמר רב הכי קאמר</row>
 </amud>
 </daf>

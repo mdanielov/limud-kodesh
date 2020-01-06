@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.842329</dateCreated>
-   <lastModified>2019-12-21 21:41:54.842329</lastModified>
+   <dateCreated>2020-01-06 09:31:27.419354</dateCreated>
+   <lastModified>2020-01-06 09:31:27.419354</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="28">
@@ -21,8 +21,8 @@
 		<row row_number="7" isdata="1">היינו דאמרי אינשי כפא דחטא נגרא בגווה</row>
 		<row row_number="8" isdata="1">נשרוף חרדלא (אמר אביי) סדנא בסדני</row>
 		<row row_number="9" isdata="1">יתיב מדויל ידיה משתלים רבא אמר גירא</row>
-		<row row_number="10" isdata="1">בגירי מקטיל מדויל ידיה משתלים וחכ"א</row>
-		<row row_number="11" isdata="1">מפרר וזורה וכו' איבעיא להו היכי קאמר</row>
+		<row row_number="10" isdata="1">בגירי מקטיל מדויל ידיה משתלים: וחכ"א</row>
+		<row row_number="11" isdata="1">מפרר וזורה וכו': איבעיא להו היכי קאמר</row>
 		<row row_number="12" isdata="1">מפרר וזורה לרוח ומפרר ומטיל לים או</row>
 		<row row_number="13" isdata="1">דילמא מפרר וזורה לרוח אבל מטיל לים</row>
 		<row row_number="14" isdata="1">בעיניה ותנן נמי גבי ע"ז כי האי גוונא</row>
@@ -43,10 +43,10 @@
 		<row row_number="29" isdata="1">לים שחיקה קשיא לרבה פירור קשיא לרב</row>
 		<row row_number="30" isdata="1">יוסף שחיקה לרבה לא קשיא הא לים המלח</row>
 		<row row_number="31" isdata="1">הא לשאר נהרות פירור לרב יוסף לא קשיא</row>
-		<row row_number="32" isdata="1">הא בחיטי הא בנהמאמתני' חמץ של</row>
+		<row row_number="32" isdata="1">הא בחיטי הא בנהמא<EndGemara/><StartMishna/>מתני' חמץ של</row>
 		<row row_number="33" isdata="1">נכרי שעבר עליו הפסח מותר בהנאה ושל</row>
 		<row row_number="34" isdata="1">ישראל אסור בהנאה שנאמר לא יראה לך</row>
-		<row row_number="35" isdata="1">שאור<EndMishna/><StartGemara/>גמ' מני מתניתין לא רבי יהודה</row>
+		<row row_number="35" isdata="1">שאור:<EndMishna/><StartGemara/>גמ' מני מתניתין לא רבי יהודה</row>
 		<row row_number="36" isdata="1">ולא רבי שמעון ולא רבי יוסי הגלילי</row>
 		<row row_number="37" isdata="1">מאי היא דתניא חמץ בין לפני זמנו</row>
 		<row row_number="38" isdata="1">בין לאחר זמנו עובר עליו בלאו תוך זמנו</row>

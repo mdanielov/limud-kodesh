@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.492750</dateCreated>
-   <lastModified>2019-12-21 21:42:00.492750</lastModified>
+   <dateCreated>2020-01-06 09:32:05.201528</dateCreated>
+   <lastModified>2020-01-06 09:32:05.201528</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="31">
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">במגרה אלא בקופיץ תניא נמי הכי אין</row>
 		<row row_number="8" isdata="1">מבקעין עצים לא מן הסואר של קורות ולא</row>
 		<row row_number="9" isdata="1">מן הקורה שנשברה ביו"ט לפי שאינו מן</row>
-		<row row_number="10" isdata="1">המוכן ולא בקרדום אמר רב חיננא בר</row>
+		<row row_number="10" isdata="1">המוכן: ולא בקרדום: אמר רב חיננא בר</row>
 		<row row_number="11" isdata="1">שלמיא משמיה דרב לא שנו אלא בנקבות</row>
 		<row row_number="12" isdata="1">שלו אבל בזכרות שלו מותר פשיטא בקופיץ</row>
 		<row row_number="13" isdata="1">תנן מהו דתימא ה"מ קופיץ לחודיה אבל</row>
@@ -32,9 +32,9 @@
 		<row row_number="18" isdata="1">שלו אבל בנקבות שלו אסור פשיטא ולא</row>
 		<row row_number="19" isdata="1">בקרדום תנן מהו דתימא ה"מ קרדום אבל</row>
 		<row row_number="20" isdata="1">קופיץ וקרדום אימא מגו דהאי גיסא שרי</row>
-		<row row_number="21" isdata="1">האי גיסא נמי שרי קמ"למתני' בית</row>
+		<row row_number="21" isdata="1">האי גיסא נמי שרי קמ"ל<EndGemara/><StartMishna/>מתני' בית</row>
 		<row row_number="22" isdata="1">שהוא מלא פירות ונפחת נוטל ממקום הפחת</row>
-		<row row_number="23" isdata="1">ר' מאיר אומר אף פוחת לכתחלה ונוטל</row>
+		<row row_number="23" isdata="1">ר' מאיר אומר אף פוחת לכתחלה ונוטל:</row>
 		<row row_number="24" isdata="1"><EndMishna/><StartGemara/>גמ' אמאי והא קא סתר אהלא אמר רב</row>
 		<row row_number="25" isdata="1">נחומי בר אדא אמר שמואל באוירא דליבני</row>
 		<row row_number="26" isdata="1">איני והאמר רב נחמן הני ליבני דאייתור</row>

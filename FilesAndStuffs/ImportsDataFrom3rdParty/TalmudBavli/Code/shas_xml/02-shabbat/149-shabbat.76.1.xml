@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.354120</dateCreated>
-   <lastModified>2019-12-21 21:41:49.354120</lastModified>
+   <dateCreated>2020-01-06 09:31:05.862167</dateCreated>
+   <lastModified>2020-01-06 09:31:05.862167</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="76">
@@ -16,12 +16,12 @@
 		<row row_number="2" isdata="1">כלל אמר ר' שמעון בן אלעזר כל שאינו כשר</row>
 		<row row_number="3" isdata="1">להצניע ואין מצניעין כמוהו והוכשר לזה</row>
 		<row row_number="4" isdata="1">והצניעו ובא אחר והוציאו נתחייב זה</row>
-		<row row_number="5" isdata="1">במחשבה של זהמתני' המוציא תבן</row>
+		<row row_number="5" isdata="1">במחשבה של זה<EndGemara/><StartMishna/>מתני' המוציא תבן</row>
 		<row row_number="6" isdata="1">כמלא פי פרה עצה כמלא פי גמל עמיר</row>
 		<row row_number="7" isdata="1">כמלא פי טלה עשבים כמלא פי גדי עלי</row>
 		<row row_number="8" isdata="1">שום ועלי בצלים לחים כגרוגרת יבשים</row>
 		<row row_number="9" isdata="1">כמלא פי גדי ואין מצטרפין זה עם זה מפני</row>
-		<row row_number="10" isdata="1">שלא שוו בשיעוריהן<EndMishna/><StartGemara/>גמ' מאי עצה אמר</row>
+		<row row_number="10" isdata="1">שלא שוו בשיעוריהן:<EndMishna/><StartGemara/>גמ' מאי עצה אמר</row>
 		<row row_number="11" isdata="1">רב יהודה תבן של מיני קטנית כי אתא רב</row>
 		<row row_number="12" isdata="1">דימי אמר המוציא תבן כמלא פי פרה לגמל</row>
 		<row row_number="13" isdata="1">ר' יוחנן אמר חייב ר"ש בן לקיש אמר פטור</row>
@@ -35,11 +35,11 @@
 		<row row_number="21" isdata="1">פטור ריש לקיש אמר חייב ר' יוחנן אמר פטור</row>
 		<row row_number="22" isdata="1">אכילה על ידי הדחק לא שמה אכילה ריש</row>
 		<row row_number="23" isdata="1">לקיש אמר חייב אכילה ע"י הדחק שמה</row>
-		<row row_number="24" isdata="1">אכילה עמיר כמלא פי טלה והתניא</row>
-		<row row_number="25" isdata="1">כגרוגרת אידי ואידי חד שיעורא הוא</row>
+		<row row_number="24" isdata="1">אכילה: עמיר כמלא פי טלה: והתניא</row>
+		<row row_number="25" isdata="1">כגרוגרת אידי ואידי חד שיעורא הוא:</row>
 		<row row_number="26" isdata="1">עלי שום ועלי בצלים לחים כגרוגרת ויבשים</row>
 		<row row_number="27" isdata="1">כמלא פי הגדי ואין מצטרפין זה עם זה מפני</row>
-		<row row_number="28" isdata="1">שלא שוו בשיעוריהן אמר ר' יוסי בר חנינא</row>
+		<row row_number="28" isdata="1">שלא שוו בשיעוריהן: אמר ר' יוסי בר חנינא</row>
 		<row row_number="29" isdata="1">אין מצטרפין לחמור שבהן אבל מצטרפין</row>
 		<row row_number="30" isdata="1">לקל שבהן וכל דלא שוו בשיעורייהו מי</row>
 		<row row_number="31" isdata="1">מצטרפין והתנן הבגד ג' על ג' והשק ד' על</row>

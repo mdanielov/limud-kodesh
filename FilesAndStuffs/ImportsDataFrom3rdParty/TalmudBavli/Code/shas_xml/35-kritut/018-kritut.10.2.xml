@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:40.619408</dateCreated>
-   <lastModified>2019-12-21 21:42:40.619408</lastModified>
+   <dateCreated>2020-01-06 09:35:18.188582</dateCreated>
+   <lastModified>2020-01-06 09:35:18.188582</lastModified>
  </meta>
  <masechet name="כריתות" serial="35">
 <daf value="10">
@@ -20,14 +20,14 @@
 		<row row_number="6" isdata="1">אלימא רבנן מי אית להו לרבנן מפוזרין</row>
 		<row row_number="7" isdata="1">האמרי רבנן לולד שני מניא אלא לאו רבי</row>
 		<row row_number="8" isdata="1">יהודה היא וש"מ חומרא אית ליה קולא לית</row>
-		<row row_number="9" isdata="1">ליה ש"ממתני' אלו מביאין קרבן עולה</row>
+		<row row_number="9" isdata="1">ליה ש"מ<EndGemara/><StartMishna/>מתני' אלו מביאין קרבן עולה</row>
 		<row row_number="10" isdata="1">ויורד על שמיעת קול ועל בטוי שפתים ועל</row>
-		<row row_number="11" isdata="1">טומאת מקדש וקדשיו והיולדת והמצורע<EndMishna/><StartGemara/>גמ' תנו רבנן יש מביא בדלות</row>
+		<row row_number="11" isdata="1">טומאת מקדש וקדשיו והיולדת והמצורע:<EndMishna/><StartGemara/>גמ' תנו רבנן יש מביא בדלות</row>
 		<row row_number="12" isdata="1">ועשירות ויש מביא בדלות ויש מביא בדלי דלות יולדת מביאה בדלות ועשירות</row>
 		<row row_number="13" isdata="1">מצורע מביא בדלות שמיעת הקול ובטוי שפתים וטומאת מקדש וקדשיו</row>
 		<row row_number="14" isdata="1">מביאין בדלות ודלי דלות תניא אידך יש מביא אחד תחת אחד יש מביא שנים</row>
 		<row row_number="15" isdata="1">תחת שנים יש מביא שנים תחת אחד יש מביא אחד תחת שנים מכאן אתה למד</row>
-		<row row_number="16" isdata="1">לעשירית האיפה בפרוטה יולדת מביאה אחת תחת אחת פרידה אחת ועוף תחת</row>
+		<row row_number="16" isdata="1">לעשירית האיפה בפרוטה: יולדת מביאה אחת תחת אחת פרידה אחת ועוף תחת</row>
 		<row row_number="17" isdata="1">כבש מצורע שתי פרידין תחת שני כבשים שמיעת הקול ובטוי שפתים וטומאת</row>
 		<row row_number="18" isdata="1">מקדש וקדשיו מביאין ב' פרידין תחת כבשה אחת ומביאין בדלי דלות עשירית</row>
 		<row row_number="19" isdata="1">האיפה תחת שתי פרידין קתני מכאן אתה למד לעשירית האיפה שהיא בפרוטה</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">וה"ק מדחס רחמנא עליה דדלות למיהוי חד מתלתין ותרין בעשירות ומאי היא</row>
 		<row row_number="32" isdata="1">יולדת הכי חס רחמנא עליה דדלי דלות למיהוי חד מן תלתין ותרין בדלות א"ה</row>
 		<row row_number="33" isdata="1">(נכי) ריבעא דפרוטה הוי ה"נ אלא דלאו אורח ארעא לאיתויי פחות מפרוטה</row>
-		<row row_number="34" isdata="1">למקוםמתני' מה בין שפחה לבין כל העריות שלא שוותה להן לא בעונש ולא</row>
+		<row row_number="34" isdata="1">למקום <EndGemara/><StartMishna/>מתני' מה בין שפחה לבין כל העריות שלא שוותה להן לא בעונש ולא</row>
 		<row row_number="35" isdata="1">בקרבן שכל העריות בחטאת ושפחה באשם כל העריות (בנקבה ושפחה</row>
 		<row row_number="36" isdata="1">בזכר כל העריות) אחד האיש ואחד האשה שוין במכות ובקרבן ובשפחה לא</row>
 		<row row_number="37" isdata="1">השוה לא האיש לאשה במכות ולא השוה אשה לאיש בקרבן כל העריות עשה</row>

@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:18.604858</dateCreated>
-   <lastModified>2019-12-21 21:42:18.604858</lastModified>
+   <dateCreated>2020-01-06 09:33:35.064729</dateCreated>
+   <lastModified>2020-01-06 09:33:35.064729</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="38">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "המפקיד"/><ContGemara/>והא טעמא דרבי יוסי משום הפסד הרמאי</row>
 		<row row_number="2" isdata="1">הוא אלא תרוייהו לרבנן איצטריך ולא זו</row>
-		<row row_number="3" isdata="1">אף זו קתנימתני' המפקיד פירות</row>
+		<row row_number="3" isdata="1">אף זו קתני<EndGemara/><StartMishna/>מתני' המפקיד פירות</row>
 		<row row_number="4" isdata="1">אצל חבירו אפילו הן אבודין לא יגע בהן</row>
 		<row row_number="5" isdata="1">רשב"ג אומר מוכרן בפני ב"ד מפני שהוא</row>
-		<row row_number="6" isdata="1">כמשיב אבידה לבעלים<EndMishna/><StartGemara/>גמ' מאי טעמא</row>
+		<row row_number="6" isdata="1">כמשיב אבידה לבעלים:<EndMishna/><StartGemara/>גמ' מאי טעמא</row>
 		<row row_number="7" isdata="1">אמר רב כהנא אדם רוצה בקב שלו</row>
 		<row row_number="8" isdata="1">מתשעה קבים של חבירו ורב נחמן בר</row>
 		<row row_number="9" isdata="1">יצחק אמר חיישינן שמא עשאן המפקיד</row>

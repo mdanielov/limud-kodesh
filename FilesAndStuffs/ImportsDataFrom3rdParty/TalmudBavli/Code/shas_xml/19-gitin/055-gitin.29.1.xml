@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.440900</dateCreated>
-   <lastModified>2019-12-21 21:42:12.440900</lastModified>
+   <dateCreated>2020-01-06 09:33:05.455855</dateCreated>
+   <lastModified>2020-01-06 09:33:05.455855</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="29">
@@ -33,11 +33,11 @@
 		<row row_number="19" isdata="1">גבי עובדי כוכבים אמאי לא והא קיי"ל דכל</row>
 		<row row_number="20" isdata="1">מסיח לפי תומו הימוני מהימני הני מילי</row>
 		<row row_number="21" isdata="1">במילתא דלא שייכי בה אבל במילתא</row>
-		<row row_number="22" isdata="1">דשייכי בה עבדי לאחזוקי שקרייהומתני'</row>
+		<row row_number="22" isdata="1">דשייכי בה עבדי לאחזוקי שקרייהו<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="23" isdata="1">המביא גט בא"י וחלה הרי זה משלחו ביד</row>
 		<row row_number="24" isdata="1">אחר ואם אמר לו טול לי הימנה חפץ פלוני</row>
 		<row row_number="25" isdata="1">לא ישלחנו ביד אחר שאין רצונו שיהא</row>
-		<row row_number="26" isdata="1">פקדונו ביד אחר<EndMishna/><StartGemara/>גמ' אמר רב כהנא חלה</row>
+		<row row_number="26" isdata="1">פקדונו ביד אחר:<EndMishna/><StartGemara/>גמ' אמר רב כהנא חלה</row>
 		<row row_number="27" isdata="1">תנן פשיטא חלה קתני מהו דתימא ה"ה</row>
 		<row row_number="28" isdata="1">אע"ג דלא חלה והאי דקתני חלה אורחא</row>
 		<row row_number="29" isdata="1">דמילתא קתני קמ"ל היכי דמי אי דא"ל הולך</row>
@@ -58,8 +58,8 @@
 		<row row_number="44" isdata="1">משום דמילי נינהו ומילי לא מימסרן לשליח</row>
 		<row row_number="45" isdata="1">מאי בינייהו איכא בינייהו שליח מתנה</row>
 		<row row_number="46" isdata="1">ובפלוגתא דרב ושמואל רב אמר מתנה אינה</row>
-		<row row_number="47" isdata="1">כגט ושמואל אמר מתנה הרי היא כגט ואם אמר לו טול לי הימנה</row>
-		<row row_number="48" isdata="1">חפץ פלוני אמר ריש לקיש כאן שנה רבי אין השואל רשאי להשאיל</row>
+		<row row_number="47" isdata="1">כגט ושמואל אמר מתנה הרי היא כגט: ואם אמר לו טול לי הימנה</row>
+		<row row_number="48" isdata="1">חפץ פלוני: אמר ריש לקיש כאן שנה רבי אין השואל רשאי להשאיל</row>
 		<row row_number="49" isdata="1">ואין השוכר רשאי להשכיר אמר לו רבי יוחנן זו אפילו תינוקות של</row>
 		<row row_number="50" isdata="1">בית רבן יודעים אותה אלא זימנין דגיטא נמי לא הוי דנעשה כמי שאמר</row>
 		<row row_number="51" isdata="1">לו אל תגרשה אלא בבית וגירשה בעלייה אל תגרשה אלא בימין וגירשה</row>

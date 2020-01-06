@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:46.677048</dateCreated>
-   <lastModified>2019-12-21 21:41:46.677048</lastModified>
+   <dateCreated>2020-01-06 09:30:51.557385</dateCreated>
+   <lastModified>2020-01-06 09:30:51.557385</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="11">
@@ -36,7 +36,7 @@
 		<row row_number="22" isdata="1">התם טריד טרדא דמצוה הכא טריד טרדא</row>
 		<row row_number="23" isdata="1">דרשות וב"ש ההוא מבעי להו פרט לשלוחי</row>
 		<row row_number="24" isdata="1">מצוה וב"ה אמרי ממילא ש"מ דאפילו בדרך</row>
-		<row row_number="25" isdata="1">נמי קרי ת"ר בה"א עומדין וקורין יושבין</row>
+		<row row_number="25" isdata="1">נמי קרי: ת"ר בה"א עומדין וקורין יושבין</row>
 		<row row_number="26" isdata="1">וקורין ומטין וקורין הולכין בדרך וקורין עושין</row>
 		<row row_number="27" isdata="1">במלאכתן וקורין ומעשה ברבי ישמעאל ור'</row>
 		<row row_number="28" isdata="1">אלעזר בן עזריה שהיו מסובין במקום אחד</row>
@@ -55,7 +55,7 @@
 		<row row_number="41" isdata="1">ה"מ דמטה ואתא מעיקרא אבל הכא כיון דעד</row>
 		<row row_number="42" isdata="1">השתא הוית זקוף והשתא מוטה אמרי ש"מ</row>
 		<row row_number="43" isdata="1">כב"ש סבירא להו שמא יראו התלמידים</row>
-		<row row_number="44" isdata="1">ויקבעו הלכה לדורות תני רב יחזקאל עשה</row>
+		<row row_number="44" isdata="1">ויקבעו הלכה לדורות. תני רב יחזקאל עשה</row>
 		<row row_number="45" isdata="1">כדברי ב"ש עשה כדברי ב"ה עשה רב יוסף</row>
 		<row row_number="46" isdata="1">אמר עשה כדברי ב"ש לא עשה ולא כלום</row>
 		<row row_number="47" isdata="1">דתנן מי שהיה ראשו ורובו בסוכה ושלחנו בתוך הבית ב"ש פוסלין וב"ה</row>
@@ -64,9 +64,9 @@
 		<row row_number="50" isdata="1">אמרו לו כלום אמרו להם משם ראיה אף הם אמרו לו א"כ היית נוהג לא קיימת</row>
 		<row row_number="51" isdata="1">מצות סוכה מימיך רב נחמן בר יצחק אמר עשה כדברי בית שמאי חייב מיתה</row>
 		<row row_number="52" isdata="1">דתנן אמר ר"ט אני הייתי בא בדרך והטתי לקרות כדברי ב"ש וסכנתי בעצמי מפני הלסטים אמרו לו כדאי היית</row>
-		<row row_number="53" isdata="1">לחוב בעצמך שעברת על דברי ב"המתני' בשחר מברך שתים לפניה ואחת לאחריה ובערב מברך שתים</row>
+		<row row_number="53" isdata="1">לחוב בעצמך שעברת על דברי ב"ה<EndGemara/><StartMishna/>מתני' בשחר מברך שתים לפניה ואחת לאחריה ובערב מברך שתים</row>
 		<row row_number="54" isdata="1">לפניה ושתים לאחריה אחת ארוכה ואחת קצרה מקום שאמרו להאריך אינו רשאי לקצר לקצר אינו רשאי להאריך</row>
-		<row row_number="55" isdata="1">לחתום אינו רשאי שלא לחתום שלא לחתום אינו רשאי לחתום<EndMishna/><StartGemara/>גמ' מאי מברך אמר ר' יעקב א"ר אושעיא</row>
+		<row row_number="55" isdata="1">לחתום אינו רשאי שלא לחתום שלא לחתום אינו רשאי לחתום:<EndMishna/><StartGemara/>גמ' מאי מברך אמר ר' יעקב א"ר אושעיא</row>
 </amud>
 </daf>
 </masechet>

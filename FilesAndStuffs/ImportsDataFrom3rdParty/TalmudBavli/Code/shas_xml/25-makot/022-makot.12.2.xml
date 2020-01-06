@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.575186</dateCreated>
-   <lastModified>2019-12-21 21:42:27.575186</lastModified>
+   <dateCreated>2020-01-06 09:34:16.475510</dateCreated>
+   <lastModified>2020-01-06 09:34:16.475510</lastModified>
  </meta>
  <masechet name="מכות" serial="25">
 <daf value="12">
@@ -30,8 +30,8 @@
 		<row row_number="16" isdata="1">עיקרו דרגא לנופו מר סבר הוי עיקרו</row>
 		<row row_number="17" isdata="1">דרגא לנופו ומר סבר לא הוי עיקרו דרגא</row>
 		<row row_number="18" isdata="1">לנופו רב אשי אמר מאי אחר הנוף אף אחר</row>
-		<row row_number="19" isdata="1">הנוףמתני' הרג באותה העיר גולה</row>
-		<row row_number="20" isdata="1">משכונה לשכונה ובן לוי גולה מעיר לעיר</row>
+		<row row_number="19" isdata="1">הנוף<EndGemara/><StartMishna/>מתני' הרג באותה העיר גולה</row>
+		<row row_number="20" isdata="1">משכונה לשכונה ובן לוי גולה מעיר לעיר:</row>
 		<row row_number="21" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר ושמתי לך מקום וגו' ושמתי</row>
 		<row row_number="22" isdata="1">לך בחייך מקום ממקומך אשר ינוס</row>
 		<row row_number="23" isdata="1">שמה מלמד שהיו ישראל מגלין במדבר</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">שהרג גולה מפלך לפלך ואם גלה לפלכו</row>
 		<row row_number="26" isdata="1">פלכו קולטו אמר רב אחא בריה דרב איקא</row>
 		<row row_number="27" isdata="1">מאי קרא כי בעיר מקלטו ישב עיר שקלטתו</row>
-		<row row_number="28" isdata="1">כברמתני' כיוצא בו רוצח שגלה לעיר</row>
+		<row row_number="28" isdata="1">כבר<EndGemara/><StartMishna/>מתני' כיוצא בו רוצח שגלה לעיר</row>
 		<row row_number="29" isdata="1">מקלטו ורצו אנשי העיר לכבדו יאמר</row>
 		<row row_number="30" isdata="1">להם רוצח אני אמרו לו אף על פי כן</row>
 		<row row_number="31" isdata="1">יקבל מהן שנאמר וזה דבר הרוצח</row>

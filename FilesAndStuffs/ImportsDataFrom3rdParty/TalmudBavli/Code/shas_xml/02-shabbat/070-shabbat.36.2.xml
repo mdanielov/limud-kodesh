@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:48.429645</dateCreated>
-   <lastModified>2019-12-21 21:41:48.429645</lastModified>
+   <dateCreated>2020-01-06 09:31:01.636605</dateCreated>
+   <lastModified>2020-01-06 09:31:01.636605</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="36">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>למאי נפקא מינה לגיטי נשים<EndChapter name = "במה מדליקין"/><EndGemara/></row>
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>למאי נפקא מינה לגיטי נשים:<EndChapter name = "במה מדליקין"/><EndGemara/></row>
 		<row row_number="2" isdata="0">הדרן עלך במה מדליקין</row>
 		<row row_number="3" isdata="1"><StartChapter name = "כירה"/><StartMishna/>כירה שהסיקוה בקש ובגבבא נותנים</row>
 		<row row_number="4" isdata="1">עליה תבשיל בגפת ובעצים לא</row>
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">שמאי אומרים חמין אבל לא תבשיל ובית</row>
 		<row row_number="7" isdata="1">הלל אומרים חמין ותבשיל בית שמאי</row>
 		<row row_number="8" isdata="1">אומרים נוטלין אבל לא מחזירין ובית הלל</row>
-		<row row_number="9" isdata="1">אומרים אף מחזירין<EndMishna/><StartGemara/>גמ' איבעיא להו האי</row>
+		<row row_number="9" isdata="1">אומרים אף מחזירין:<EndMishna/><StartGemara/>גמ' איבעיא להו האי</row>
 		<row row_number="10" isdata="1">לא יתן לא יחזיר הוא אבל לשהות משהין אף</row>
 		<row row_number="11" isdata="1">על פי שאינו גרוף ואינו קטום ומני חנניה היא</row>
 		<row row_number="12" isdata="1">דתניא חנניה אומר כל שהוא כמאכל בן</row>

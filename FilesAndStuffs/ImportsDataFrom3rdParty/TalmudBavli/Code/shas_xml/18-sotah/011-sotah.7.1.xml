@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:11.139989</dateCreated>
-   <lastModified>2019-12-21 21:42:11.139989</lastModified>
+   <dateCreated>2020-01-06 09:32:58.765899</dateCreated>
+   <lastModified>2020-01-06 09:32:58.765899</lastModified>
  </meta>
  <masechet name="סוטה" serial="18">
 <daf value="7">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "המקנא לאשתו"/><ContGemara/>יש לה עדים במדינת הים לא שכיחא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המקנא לאשתו"/><ContGemara/>יש לה עדים במדינת הים לא שכיחא:</row>
 		<row row_number="2" isdata="1"><EndGemara/><StartMishna/>מתני' כיצד עושה לה מוליכה לבית דין</row>
 		<row row_number="3" isdata="1">שבאותו מקום ומוסרין לו שני תלמידי</row>
 		<row row_number="4" isdata="1">חכמים שמא יבא עליה בדרך רבי יהודה</row>
-		<row row_number="5" isdata="1">אומר בעלה נאמן עליה<EndMishna/><StartGemara/>גמ' תרי ואיהו הא</row>
+		<row row_number="5" isdata="1">אומר בעלה נאמן עליה:<EndMishna/><StartGemara/>גמ' תרי ואיהו הא</row>
 		<row row_number="6" isdata="1">תלתא לימא מסייע לי' לרב דאמר רב יהודה</row>
 		<row row_number="7" isdata="1">אמר רב לא שנו אלא בעיר אבל בדרך</row>
 		<row row_number="8" isdata="1">עד דאיכא שלשה שמא יצטרך אחד מהן</row>
@@ -27,8 +27,8 @@
 		<row row_number="13" isdata="1">יהודה אמר רב לא שנו אלא כשרין אבל</row>
 		<row row_number="14" isdata="1">פרוצין אפילו עשרה נמי לא מעשה היה</row>
 		<row row_number="15" isdata="1">והוציאוה עשרה במטה לא הכא היינו</row>
-		<row row_number="16" isdata="1">טעמא דידעי לאתרויי ביה רבי יהודה אומר</row>
-		<row row_number="17" isdata="1">בעלה וכו' תניא רבי יהודה אומר בעלה</row>
+		<row row_number="16" isdata="1">טעמא דידעי לאתרויי ביה: רבי יהודה אומר</row>
+		<row row_number="17" isdata="1">בעלה וכו': תניא רבי יהודה אומר בעלה</row>
 		<row row_number="18" isdata="1">נאמן מקל וחומר ומה נדה שהיא בכרת</row>
 		<row row_number="19" isdata="1">בעלה נאמן עליה סוטה שהיא בלאו לא כל</row>
 		<row row_number="20" isdata="1">שכן ורבנן היא הנותנת נדה דכרת חמירא</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">את אשתו אל הכהן שנא' והביא האיש את</row>
 		<row row_number="34" isdata="1">אשתו אמר להו קל וחומר ברישא ופרכוה</row>
 		<row row_number="35" isdata="1">והדר אמר להו קרא רבי יהודה היינו תנא</row>
-		<row row_number="36" isdata="1">קמא איכא בינייהו אבל אמרומתני' היו</row>
+		<row row_number="36" isdata="1">קמא איכא בינייהו אבל אמרו<EndGemara/><StartMishna/>מתני' היו</row>
 		<row row_number="37" isdata="1">מעלין אותה לבית דין הגדול שבירושלים</row>
 		<row row_number="38" isdata="1">ומאיימין עליה כדרך שמאיימין על עדי</row>
 		<row row_number="39" isdata="1">נפשות ואומר לה בתי הרבה יין עושה</row>

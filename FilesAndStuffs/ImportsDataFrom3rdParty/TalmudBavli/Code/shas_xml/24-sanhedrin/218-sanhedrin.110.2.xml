@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.285180</dateCreated>
-   <lastModified>2019-12-21 21:42:27.285180</lastModified>
+   <dateCreated>2020-01-06 09:34:15.164129</dateCreated>
+   <lastModified>2020-01-06 09:34:15.164129</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="110">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "כל ישראל יש להם חלק "/><ContGemara/>א"ל כל תלתין יומין מהדרא להו גיהנם</row>
 		<row row_number="2" isdata="1">כבשר בתוך קלחת ואמרי הכי משה</row>
-		<row row_number="3" isdata="1">ותורתו אמת והן בדאים דור המדבר אין</row>
-		<row row_number="4" isdata="1">להם חלק לעולם הבא וכו' ת"ר דור</row>
+		<row row_number="3" isdata="1">ותורתו אמת והן בדאים: דור המדבר אין</row>
+		<row row_number="4" isdata="1">להם חלק לעולם הבא וכו': ת"ר דור</row>
 		<row row_number="5" isdata="1">המדבר אין להם חלק לעולם הבא שנאמר</row>
 		<row row_number="6" isdata="1">במדבר הזה יתמו ושם ימותו יתמו בעולם</row>
 		<row row_number="7" isdata="1">הזה ושם ימותו בעולם הבא ואמר אשר</row>
@@ -37,13 +37,13 @@
 		<row row_number="23" isdata="1">ירושלים לאמר זכרתי לך חסד נעוריך</row>
 		<row row_number="24" isdata="1">אהבת כלולותיך לכתך אחרי במדבר</row>
 		<row row_number="25" isdata="1">בארץ לא זרועה ומה אחרים באים בזכותם</row>
-		<row row_number="26" isdata="1">הם עצמן לא כל שכןמתני' עשרת</row>
+		<row row_number="26" isdata="1">הם עצמן לא כל שכן<EndGemara/><StartMishna/>מתני' עשרת</row>
 		<row row_number="27" isdata="1">השבטים אינן עתידין לחזור שנא' וישליכם</row>
 		<row row_number="28" isdata="1">אל ארץ אחרת כיום הזה מה היום הולך</row>
 		<row row_number="29" isdata="1">ואינו חוזר אף הם הולכים ואינן חוזרים דברי</row>
 		<row row_number="30" isdata="1">ר"ע ר"א אומר כיום הזה מה יום מאפיל</row>
 		<row row_number="31" isdata="1">ומאיר אף עשרת השבטים שאפילה להן</row>
-		<row row_number="32" isdata="1">כך עתידה להאיר להם<EndMishna/><StartGemara/>גמ' ת"ר עשרת</row>
+		<row row_number="32" isdata="1">כך עתידה להאיר להם:<EndMishna/><StartGemara/>גמ' ת"ר עשרת</row>
 		<row row_number="33" isdata="1">השבטים אין להם חלק לעוה"ב שנאמר</row>
 		<row row_number="34" isdata="1">ויתשם ה' מעל אדמתם באף ובחמה</row>
 		<row row_number="35" isdata="1">ובקצף גדול ויתשם ה' מעל אדמתם בעוה"ז</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:18.331859</dateCreated>
-   <lastModified>2019-12-21 21:42:18.331859</lastModified>
+   <dateCreated>2020-01-06 09:33:33.828958</dateCreated>
+   <lastModified>2020-01-06 09:33:33.828958</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="25">
@@ -22,11 +22,11 @@
 		<row row_number="8" isdata="1">אמר כלום ולא עוד אלא אפילו שמו כתוב</row>
 		<row row_number="9" isdata="1">עליה לא אמר כלום לפי שאין סימן למטבע</row>
 		<row row_number="10" isdata="1">דאמר דלמא אפוקי אפקה ומאיניש אחרינא</row>
-		<row row_number="11" isdata="1">נפלמתני' מצא אחר הגפה או אחר</row>
+		<row row_number="11" isdata="1">נפל<EndGemara/><StartMishna/>מתני' מצא אחר הגפה או אחר</row>
 		<row row_number="12" isdata="1">הגדר גוזלות מקושרים או בשבילין שבשדות</row>
 		<row row_number="13" isdata="1">הרי זה לא יגע בהן מצא כלי באשפה</row>
 		<row row_number="14" isdata="1">אם מכוסה לא יגע בו אם מגולה נוטל</row>
-		<row row_number="15" isdata="1">ומכריז<EndMishna/><StartGemara/>גמ' מאי טעמא דאמרינן הני</row>
+		<row row_number="15" isdata="1">ומכריז:<EndMishna/><StartGemara/>גמ' מאי טעמא דאמרינן הני</row>
 		<row row_number="16" isdata="1">אינש אצנעינהו ואי שקיל להו</row>
 		<row row_number="17" isdata="1">לית להו למרייהו סימנא בגווייהו הלכך</row>
 		<row row_number="18" isdata="1">לשבקינהו עד דאתי מרייהו ושקיל להו ואמאי</row>
@@ -38,8 +38,8 @@
 		<row row_number="24" isdata="1">ואיכא למימר אינש אצנעינהו והוה ליה</row>
 		<row row_number="25" isdata="1">ספק הינוח ואמר רבי אבא בר זבדא אמר</row>
 		<row row_number="26" isdata="1">רב כל ספק הינוח לכתחילה לא יטול ואם</row>
-		<row row_number="27" isdata="1">נטל לא יחזיר מצא כלי באשפה מכוסה</row>
-		<row row_number="28" isdata="1">לא יגע בו מגולה נוטל ומכריז ורמינהו</row>
+		<row row_number="27" isdata="1">נטל לא יחזיר: מצא כלי באשפה מכוסה</row>
+		<row row_number="28" isdata="1">לא יגע בו מגולה נוטל ומכריז: ורמינהו</row>
 		<row row_number="29" isdata="1">מצא כלי טמון באשפה נוטל ומכריז שכן</row>
 		<row row_number="30" isdata="1">דרך אשפה לפנות אמר רב זביד לא קשיא</row>
 		<row row_number="31" isdata="1">הא בכובי וכסי הא בסכיני והמניק בכובי</row>
@@ -52,10 +52,10 @@
 		<row row_number="38" isdata="1">לרב פפא היינו דקתני שכן דרך אשפה</row>
 		<row row_number="39" isdata="1">לפנות אלא לרב זביד מאי שכן דרך אשפה</row>
 		<row row_number="40" isdata="1">לפנות שכן דרך אשפה לפנות לה כלים</row>
-		<row row_number="41" isdata="1">קטניםמתני' מצא בגל ובכותל ישן</row>
+		<row row_number="41" isdata="1">קטנים<EndGemara/><StartMishna/>מתני' מצא בגל ובכותל ישן</row>
 		<row row_number="42" isdata="1">הרי אלו שלו מצא בכותל חדש מחציו</row>
 		<row row_number="43" isdata="1">ולחוץ שלו מחציו ולפנים של בעל הבית אם היה משכירו לאחרים</row>
-		<row row_number="44" isdata="1">אפילו בתוך הבית הרי אלו שלו<EndMishna/><StartGemara/>גמ' תנא מפני שיכול לומר לו</row>
+		<row row_number="44" isdata="1">אפילו בתוך הבית הרי אלו שלו:<EndMishna/><StartGemara/>גמ' תנא מפני שיכול לומר לו</row>
 		<row row_number="45" isdata="1">של אמוריים הן אטו אמורים מצנעי ישראל לא מצנעי לא צריכא</row>
 </amud>
 </daf>

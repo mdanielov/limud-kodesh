@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:29.825189</dateCreated>
-   <lastModified>2019-12-21 21:42:29.825189</lastModified>
+   <dateCreated>2020-01-06 09:34:27.904390</dateCreated>
+   <lastModified>2020-01-06 09:34:27.904390</lastModified>
  </meta>
  <masechet name="עבודה זרה" serial="27">
 <daf value="65">
@@ -19,7 +19,7 @@
 		<row row_number="5" isdata="1">נצטרו זיקי דמתני בהדייהו א"נ דמייתו</row>
 		<row row_number="6" isdata="1">פריסדקי בהדייהו והא קא מעבר להו</row>
 		<row row_number="7" isdata="1">מעברא דקא טרח באיסורא דא"ל למברויא</row>
-		<row row_number="8" isdata="1">מעיקרא א"נ דנקיטי ביה קיטרימתני' יין</row>
+		<row row_number="8" isdata="1">מעיקרא א"נ דנקיטי ביה קיטרי<EndGemara/><StartMishna/>מתני' יין</row>
 		<row row_number="9" isdata="1">נסך שנפל ע"ג ענבים ידיחן והן מותרות ואם</row>
 		<row row_number="10" isdata="1">היו מבוקעות אסורות נפל ע"ג תאנים או</row>
 		<row row_number="11" isdata="1">על גבי תמרים אם יש בהן בנותן טעם</row>
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">על גביהן ושאל לחכמים והתירום זה הכלל</row>
 		<row row_number="15" isdata="1">כל שבהנאתו בנותן טעם אסור כל שאין</row>
 		<row row_number="16" isdata="1">בהנאתו בנותן טעם מותר כגון חומץ</row>
-		<row row_number="17" isdata="1">שנפל ע"ג גריסין<EndMishna/><StartGemara/>גמ' מעשה לסתור חסורי</row>
+		<row row_number="17" isdata="1">שנפל ע"ג גריסין:<EndMishna/><StartGemara/>גמ' מעשה לסתור חסורי</row>
 		<row row_number="18" isdata="1">מיחסרא והכי קתני אם נותן טעם לפגם</row>
 		<row row_number="19" isdata="1">הוא מותר ומעשה נמי בביתוס בן זונן שהיה</row>
 		<row row_number="20" isdata="1">מביא גרוגרות בספינה ונשתברה חבית של</row>

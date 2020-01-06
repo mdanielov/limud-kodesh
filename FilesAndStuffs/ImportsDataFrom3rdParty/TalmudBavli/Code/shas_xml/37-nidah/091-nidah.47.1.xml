@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.089286</dateCreated>
-   <lastModified>2019-12-21 21:42:42.089286</lastModified>
+   <dateCreated>2020-01-06 09:35:27.051037</dateCreated>
+   <lastModified>2020-01-06 09:35:27.051037</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="47">
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">בבואכם יכול משנכנסו לה שנים ושלשה</row>
 		<row row_number="19" isdata="1">מרגלים ת"ל בבואכם בביאת כולכם אמרתי</row>
 		<row row_number="20" isdata="1">ולא בביאת מקצתכם וכי אסקינהו עזרא לא</row>
-		<row row_number="21" isdata="1">כולהו סלוקמתני' משל משלו חכמים</row>
+		<row row_number="21" isdata="1">כולהו סלוק<EndGemara/><StartMishna/>מתני' משל משלו חכמים</row>
 		<row row_number="22" isdata="1">באשה פגה בוחל וצמל פגה עודה תנוקת</row>
 		<row row_number="23" isdata="1">בוחל אלו ימי נעוריה בזו ובזו אמרו</row>
 		<row row_number="24" isdata="1">אביה זכאי במציאתה ובמעשה ידיה</row>
@@ -41,14 +41,14 @@
 		<row row_number="27" isdata="1">אומר משיעלה הקמט תחת הדד ר"ע אומר</row>
 		<row row_number="28" isdata="1">משיטו הדדים בן עזאי אומר משישחיר</row>
 		<row row_number="29" isdata="1">הפיטומת רבי יוסי אומר כדי שיהא נותן ידו</row>
-		<row row_number="30" isdata="1">על העוקץ והוא שוקע ושוהא לחזור<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="30" isdata="1">על העוקץ והוא שוקע ושוהא לחזור:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="31" isdata="1">פגה עודה תנוקת כדכתיב התאנה חנטה</row>
 		<row row_number="32" isdata="1">פגיה בוחל אלו ימי הנעורים כדתנן התאנים</row>
 		<row row_number="33" isdata="1">משיבחלו ואמר רבה בר בר חנה אמר רב</row>
 		<row row_number="34" isdata="1">משילבין ראשיהן ואיבעית אימא מהכא</row>
 		<row row_number="35" isdata="1">ותקצר נפשי בהם וגם נפשם בחלה בי</row>
-		<row row_number="36" isdata="1">צמל כמ"ד יצתה מלאה ואיזהו סימנים ר'</row>
-		<row row_number="37" isdata="1">יוסי הגלילי אומר משיעלה הקמט אמר</row>
+		<row row_number="36" isdata="1">צמל כמ"ד יצתה מלאה: ואיזהו סימנים ר'</row>
+		<row row_number="37" isdata="1">יוסי הגלילי אומר משיעלה הקמט: אמר</row>
 		<row row_number="38" isdata="1">שמואל לא משיעלה הקמט ממש אלא כדי</row>
 		<row row_number="39" isdata="1">שתחזיר ידיה לאחוריה ונראית כמי שיעלה</row>
 		<row row_number="40" isdata="1">הקמט תחת הדד שמואל בדק באמתיה ויהב</row>
@@ -56,8 +56,8 @@
 		<row row_number="42" isdata="1">דאמר שמואל לעולם בהם תעבודו לעבודה</row>
 		<row row_number="43" isdata="1">נתתים ולא לבושה שמואל מייחד להן רב</row>
 		<row row_number="44" isdata="1">נחמן מחליף להן רב ששת מסר להן לערבי</row>
-		<row row_number="45" isdata="1">ואמר להן אזדהרו מישראל רבי יוסי אומר</row>
-		<row row_number="46" isdata="1">כו' מאי עוקץ אמר שמואל עוקצו של דד</row>
+		<row row_number="45" isdata="1">ואמר להן אזדהרו מישראל: רבי יוסי אומר</row>
+		<row row_number="46" isdata="1">כו': מאי עוקץ אמר שמואל עוקצו של דד</row>
 		<row row_number="47" isdata="1">ת"ר אלו הן סימני בגרות ר"א בר' צדוק אומר</row>
 		<row row_number="48" isdata="1">משיתקשקשו הדדין ר' יוחנן בן ברוקה אומר</row>
 		<row row_number="49" isdata="1">משיכסיף ראש החוטם משיכסיף אזקונה לה</row>

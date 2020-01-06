@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:24.863009</dateCreated>
-   <lastModified>2019-12-21 21:42:24.863009</lastModified>
+   <dateCreated>2020-01-06 09:34:04.170532</dateCreated>
+   <lastModified>2020-01-06 09:34:04.170532</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="175">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>הוציא עליו כתב ידו שהוא חייב לו גובה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContMishna/>הוציא עליו כתב ידו שהוא חייב לו גובה</row>
 		<row row_number="2" isdata="1">מנכסים בני חורין ערב היוצא לאחר חיתום</row>
 		<row row_number="3" isdata="1">שטרות גובה מנכסים בני חורין מעשה ובא</row>
 		<row row_number="4" isdata="1">לפני ר' ישמעאל ואמר גובה מנכסים בני</row>
@@ -26,7 +26,7 @@
 		<row row_number="12" isdata="1">ישמעאל הרוצה שיחכים יעסוק בדיני ממונות</row>
 		<row row_number="13" isdata="1">שאין לך מקצוע בתורה יותר מהן והן</row>
 		<row row_number="14" isdata="1">כמעיין הנובע והרוצה שיעסוק בדיני ממונות</row>
-		<row row_number="15" isdata="1">ישמש את שמעון בן ננס<EndMishna/><StartGemara/>גמ' אמר עולא</row>
+		<row row_number="15" isdata="1">ישמש את שמעון בן ננס:<EndMishna/><StartGemara/>גמ' אמר עולא</row>
 		<row row_number="16" isdata="1">דבר תורה אחד מלוה בשטר ואחד מלוה</row>
 		<row row_number="17" isdata="1">ע"פ גובה מנכסים משועבדים מאי טעמא</row>
 		<row row_number="18" isdata="1">שעבודא דאורייתא ואלא מה טעם אמרו</row>

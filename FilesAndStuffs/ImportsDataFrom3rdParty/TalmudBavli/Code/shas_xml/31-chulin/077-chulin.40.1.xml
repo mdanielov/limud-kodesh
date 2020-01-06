@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.999339</dateCreated>
-   <lastModified>2019-12-21 21:42:35.999339</lastModified>
+   <dateCreated>2020-01-06 09:34:55.006490</dateCreated>
+   <lastModified>2020-01-06 09:34:55.006490</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="40">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "השוחט"/><ContGemara/>שנים אוחזין בסכין ושוחטין אחד לשם אחד</row>
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט"/><ContMishna/>שנים אוחזין בסכין ושוחטין אחד לשם אחד</row>
 		<row row_number="2" isdata="1">מכל אלו ואחד לשם דבר כשר שחיטתו</row>
-		<row row_number="3" isdata="1">פסולה<EndMishna/><StartGemara/>גמ' פסולה אין זבחי מתים לא</row>
+		<row row_number="3" isdata="1">פסולה:<EndMishna/><StartGemara/>גמ' פסולה אין זבחי מתים לא</row>
 		<row row_number="4" isdata="1">ורמינהי השוחט לשום הרים לשום גבעות</row>
 		<row row_number="5" isdata="1">לשום נהרות לשום מדברות לשום חמה</row>
 		<row row_number="6" isdata="1">ולבנה לשום כוכבים ומזלות לשום מיכאל</row>

@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:53.068286</dateCreated>
-   <lastModified>2019-12-21 21:41:53.068286</lastModified>
+   <dateCreated>2020-01-06 09:31:20.091613</dateCreated>
+   <lastModified>2020-01-06 09:31:20.091613</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="60">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "במה בהמה"/><ContGemara/>מה שנשכר הוא מפסידגמ' קא סלקאמה שנשכר הוא מפסיד<EndMishna/><StartGemara/></row>
+		<row row_number="1" isdata="1"><ContChapter name = "במה בהמה"/><ContMishna/>מה שנשכר הוא מפסיד:גמ' קא סלקאמה שנשכר הוא מפסיד:<EndMishna/><StartGemara/></row>
 		<row row_number="2" isdata="1">דעתך למזרח למזרח ביתו למערב למערב</row>
 		<row row_number="3" isdata="1">ביתו בשלמא הימנו ולביתו אלפים אמה</row>
 		<row row_number="4" isdata="1">ולעירובו יתר מכאן משכחת לה דמטי</row>
@@ -23,9 +23,9 @@
 		<row row_number="9" isdata="1">לא למזרח למזרח בנו למערב למערב בנו</row>
 		<row row_number="10" isdata="1">רבא בר רב שילא אמר אפי' תימא למזרח</row>
 		<row row_number="11" isdata="1">למזרח ביתו ולמערב למערב ביתו כגון</row>
-		<row row_number="12" isdata="1">דקאי ביתיה באלכסונא הנותן עירובו בתוך</row>
-		<row row_number="13" isdata="1">עיבורה וכו' חוץ לתחום ס"ד אלא אימא</row>
-		<row row_number="14" isdata="1">חוץ לעיבורה מה שנשכר הוא מפסיד</row>
+		<row row_number="12" isdata="1">דקאי ביתיה באלכסונא: הנותן עירובו בתוך</row>
+		<row row_number="13" isdata="1">עיבורה וכו': חוץ לתחום ס"ד אלא אימא</row>
+		<row row_number="14" isdata="1">חוץ לעיבורה: מה שנשכר הוא מפסיד:</row>
 		<row row_number="15" isdata="1">מה שנשכר ותו לא והתניא הנותן את</row>
 		<row row_number="16" isdata="1">עירובו בתוך עיבורה של עיר לא עשה ולא</row>
 		<row row_number="17" isdata="1">כלום נתנו חוץ לעיבורה של עיר אפילו אמה</row>

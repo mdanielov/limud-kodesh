@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.084715</dateCreated>
-   <lastModified>2019-12-21 21:42:05.084715</lastModified>
+   <dateCreated>2020-01-06 09:32:31.603244</dateCreated>
+   <lastModified>2020-01-06 09:32:31.603244</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="106">
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">בישראל בית חלוץ הנעל מצוה בדיינין</row>
 		<row row_number="15" isdata="1">ולא מצוה בתלמידים רבי יהודה אומר</row>
 		<row row_number="16" isdata="1">מצוה על כל העומדים שם לומר חלוץ</row>
-		<row row_number="17" isdata="1">הנעל<EndMishna/><StartGemara/>גמ' אמר רב יהודה מצות חליצה</row>
+		<row row_number="17" isdata="1">הנעל:<EndMishna/><StartGemara/>גמ' אמר רב יהודה מצות חליצה</row>
 		<row row_number="18" isdata="1">קוראה וקורא וחולצת ורוקקה וקוראה</row>
 		<row row_number="19" isdata="1">מאי קמשמע לן מתני' היא הא קמשמע לן</row>
 		<row row_number="20" isdata="1">מצוה הכי ואי אפיך לית לן בה תניא נמי הכי בין שהקדים חליצה לרקיקה</row>
@@ -47,9 +47,9 @@
 		<row row_number="33" isdata="1">והיא גוצה קלטתהו הרוח איכא בפניו היא ארוכה והוא גוץ בעינן עד דמטי</row>
 		<row row_number="34" isdata="1">להדי אפיה והדר אזיל אמר רבא אכלה תומא ורקתה אכלה גרגישתא</row>
 		<row row_number="35" isdata="1">ורקתה לא עשתה ולא כלום מאי טעמא וירקה מעצמה בעינן וליכא ואמר</row>
-		<row row_number="36" isdata="1">רבא צריכי דייני למיחזי רוקא כי נפיק מפומא דיבמה דכתיב לעיני הזקנים וירקה ונקרא שמו בישראל בית</row>
-		<row row_number="37" isdata="1">חלוץ הנעל מצוה בדיינין ולא בתלמידים תניא א"ר יהודה פעם אחת היינו יושבים לפני רבי טרפון</row>
-		<row row_number="38" isdata="1">ובאתה יבמה לחלוץ ואמר לנו ענו כולכם חלוץ הנעל חלוץ הנעל חלוץ הנעל<EndChapter name = "מצות חליצה"/><EndGemara/></row>
+		<row row_number="36" isdata="1">רבא צריכי דייני למיחזי רוקא כי נפיק מפומא דיבמה דכתיב לעיני הזקנים וירקה: ונקרא שמו בישראל בית</row>
+		<row row_number="37" isdata="1">חלוץ הנעל מצוה בדיינין ולא בתלמידים: תניא א"ר יהודה פעם אחת היינו יושבים לפני רבי טרפון</row>
+		<row row_number="38" isdata="1">ובאתה יבמה לחלוץ ואמר לנו ענו כולכם חלוץ הנעל חלוץ הנעל חלוץ הנעל:<EndChapter name = "מצות חליצה"/><EndGemara/></row>
 		<row row_number="39" isdata="0">הדרן עלך מצות חליצה</row>
 </amud>
 </daf>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.543445</dateCreated>
-   <lastModified>2019-12-21 21:42:16.543445</lastModified>
+   <dateCreated>2020-01-06 09:33:25.980843</dateCreated>
+   <lastModified>2020-01-06 09:33:25.980843</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="61">
@@ -25,9 +25,9 @@
 		<row row_number="11" isdata="1">דבר הלכה משמו ויסך אותם לה' בשלמא</row>
 		<row row_number="12" isdata="1">למ"ד הני תרתי משום דעבד לשם שמים</row>
 		<row row_number="13" isdata="1">אלא למ"ד טמון באש מאי ויסך אותם</row>
-		<row row_number="14" isdata="1">לה' דאמרינהו משמא דגמראמתני' עברה</row>
+		<row row_number="14" isdata="1">לה' דאמרינהו משמא דגמרא<EndGemara/><StartMishna/>מתני' עברה</row>
 		<row row_number="15" isdata="1">גדר שהוא גבוה ד' אמות או דרך הרבים</row>
-		<row row_number="16" isdata="1">או נהר פטור<EndMishna/><StartGemara/>גמ' והתניא עברה גדר</row>
+		<row row_number="16" isdata="1">או נהר פטור:<EndMishna/><StartGemara/>גמ' והתניא עברה גדר</row>
 		<row row_number="17" isdata="1">שהוא גבוה ארבע אמות חייב אמר רב פפא</row>
 		<row row_number="18" isdata="1">תנא דידן קא חשיב מלמעלה למטה שש</row>
 		<row row_number="19" isdata="1">אמות פטור חמש אמות פטור עד ארבע</row>
@@ -42,10 +42,10 @@
 		<row row_number="28" isdata="1">פטור תניא כוותיה דרב בד"א בקולחת אבל</row>
 		<row row_number="29" isdata="1">בנכפפת ועצים מצויין לה אפילו עד מאה</row>
 		<row row_number="30" isdata="1">מיל חייב עברה נהר או שלולית שהם</row>
-		<row row_number="31" isdata="1">רחבים ח' אמות פטור דרך הרבים מאן</row>
+		<row row_number="31" isdata="1">רחבים ח' אמות פטור: דרך הרבים: מאן</row>
 		<row row_number="32" isdata="1">תנא אמר רבא ר"א היא דתנן רבי אליעזר</row>
-		<row row_number="33" isdata="1">אומר שש עשרה אמות כדרך רה"ר (פטור)</row>
-		<row row_number="34" isdata="1">או נהר רב אמר נהר ממש ושמואל אמר אריתא דדלאי מ"ד נהר ממש</row>
+		<row row_number="33" isdata="1">אומר שש עשרה אמות כדרך רה"ר (פטור):</row>
+		<row row_number="34" isdata="1">או נהר: רב אמר נהר ממש ושמואל אמר אריתא דדלאי מ"ד נהר ממש</row>
 		<row row_number="35" isdata="1">אע"ג דליכא מיא ומ"ד אריתא דדלאי אי אית ביה מיא אין אבל לית ביה</row>
 		<row row_number="36" isdata="1">מיא לא תנן התם ואלו מפסיקין לפאה הנחל והשלולית ודרך היחיד</row>
 		<row row_number="37" isdata="1">ודרך הרבים מאי שלולית אמר רב יהודה אמר שמואל מקום שמי</row>

@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.099572</dateCreated>
-   <lastModified>2019-12-21 21:42:38.099572</lastModified>
+   <dateCreated>2020-01-06 09:35:03.173113</dateCreated>
+   <lastModified>2020-01-06 09:35:03.173113</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="125">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>וקולית המוקדשין הנוגע בהן בין סתומים</row>
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContMishna/>וקולית המוקדשין הנוגע בהן בין סתומים</row>
 		<row row_number="2" isdata="1">בין נקובים טמא קולית נבלה וקולית השרץ</row>
 		<row row_number="3" isdata="1">הנוגע בהם סתומים טהורים נקובים כל שהוא</row>
 		<row row_number="4" isdata="1">מטמא במגע מנין שאף במשא ת"ל הנוגע</row>
 		<row row_number="5" isdata="1">והנושא את שבא לכלל מגע בא לכלל משא</row>
-		<row row_number="6" isdata="1">לא בא לכלל מגע לא בא לכלל משא</row>
+		<row row_number="6" isdata="1">לא בא לכלל מגע לא בא לכלל משא:</row>
 		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' נוגע אין אבל מאהיל לא היכי דמי אי</row>
 		<row row_number="8" isdata="1">דאיכא כזית בשר באהל נמי ליטמא דליכא</row>
 		<row row_number="9" isdata="1">כזית בשר ואי דאיכא כזית מוח מבפנים</row>

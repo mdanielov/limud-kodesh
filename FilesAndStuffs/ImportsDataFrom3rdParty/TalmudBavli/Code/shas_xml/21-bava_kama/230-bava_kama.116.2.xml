@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:17.739850</dateCreated>
-   <lastModified>2019-12-21 21:42:17.739850</lastModified>
+   <dateCreated>2020-01-06 09:33:31.197418</dateCreated>
+   <lastModified>2020-01-06 09:33:31.197418</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="116">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "הגוזל בתרא "/><ContGemara/>להביא כרוב ודורמסקנין לחולה והלך ומצאו</row>
 		<row row_number="2" isdata="1">שמת או שהבריא נותן לו שכרו משלם א"ל</row>
 		<row row_number="3" isdata="1">מי דמי התם עביד שליח שליחותיה הכא לא</row>
-		<row row_number="4" isdata="1">עביד שליח שליחותיה ת"ר שיירא שהיתה</row>
+		<row row_number="4" isdata="1">עביד שליח שליחותיה: ת"ר שיירא שהיתה</row>
 		<row row_number="5" isdata="1">מהלכת במדבר ועמד עליה גייס לטורפה</row>
 		<row row_number="6" isdata="1">מחשבין לפי ממון ואין מחשבין לפי נפשות</row>
 		<row row_number="7" isdata="1">ואם שכרו תייר ההולך לפניהם מחשבין אף</row>
@@ -26,7 +26,7 @@
 		<row row_number="12" isdata="1">ואני אשמור אין שומעין לו פשיטא לא</row>
 		<row row_number="13" isdata="1">צריכא דאית ליה חמרא אחרינא מהו דתימא</row>
 		<row row_number="14" isdata="1">הא קא מינטר ליה קמ"ל שאני נטירותא דחד</row>
-		<row row_number="15" isdata="1">מנטירותא דבי תרי ת"ר ספינה שהיתה</row>
+		<row row_number="15" isdata="1">מנטירותא דבי תרי: ת"ר ספינה שהיתה</row>
 		<row row_number="16" isdata="1">מהלכת בים עמד עליה נחשול לטובעה והקילו</row>
 		<row row_number="17" isdata="1">ממשאה מחשבין לפי משאוי ואין מחשבין</row>
 		<row row_number="18" isdata="1">לפי ממון ולא ישנו ממנהג הספנים ורשאין</row>
@@ -52,14 +52,14 @@
 		<row row_number="38" isdata="1">טעמא אחרינא הוא דכתיב כי לי בני ישראל</row>
 		<row row_number="39" isdata="1">עבדים ולא עבדים לעבדים רב אשי אמר</row>
 		<row row_number="40" isdata="1">כשיכול להציל ע"י הדחק גלי דעתיה לעצמו</row>
-		<row row_number="41" isdata="1">לא גלי דעתיה לאמצעמתני' הגוזל</row>
+		<row row_number="41" isdata="1">לא גלי דעתיה לאמצע<EndGemara/><StartMishna/>מתני' הגוזל</row>
 		<row row_number="42" isdata="1">שדה מחבירו ונטלוה מסיקין אם מכת מדינה</row>
 		<row row_number="43" isdata="1">היא אומר לו הרי שלך לפניך אם מחמת</row>
-		<row row_number="44" isdata="1">הגזלן חייב להעמיד לו שדה אחר<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="44" isdata="1">הגזלן חייב להעמיד לו שדה אחר:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="45" isdata="1">אמר רב נחמן בר יצחק מאן דתני מסיקין</row>
 		<row row_number="46" isdata="1">לא משתבש ומאן דתני מציקין לא משתבש מאן דתני מציקין לא משתבש</row>
 		<row row_number="47" isdata="1">דכתיב במצור ובמצוק ומאן דתני מסיקין לא משתבש דכתיב יירש הצלצל</row>
-		<row row_number="48" isdata="1">ומתרגמינן יחסניניה סקאה אם מחמת הגזלן חייב היכי דמי אילימא</row>
+		<row row_number="48" isdata="1">ומתרגמינן יחסניניה סקאה: אם מחמת הגזלן חייב: היכי דמי אילימא</row>
 		<row row_number="49" isdata="1">דאנסוה לארעא דידיה ולא אנסוה כולי ארעתא הא מרישא שמעת מינה</row>
 		<row row_number="50" isdata="1">אם מכת מדינה היא כו' אי לא לא לא צריכא דאחוי אחוויי לישנא אחרינא הב"ע</row>
 		<row row_number="51" isdata="1">כגון דאנסוה עכו"ם ואמרי ליה אחויי ארעתיה ואחוי ההוא בהדייהו</row>

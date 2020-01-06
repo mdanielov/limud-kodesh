@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:52.515551</dateCreated>
-   <lastModified>2019-12-21 21:41:52.515551</lastModified>
+   <dateCreated>2020-01-06 09:31:18.001990</dateCreated>
+   <lastModified>2020-01-06 09:31:18.001990</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="39">
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">דיקא נמי מתני' דקתני כיצד הוא עושה</row>
 		<row row_number="15" isdata="1">מוליכו בראשון ומחשיך עליו ונוטלו ובא</row>
 		<row row_number="16" isdata="1">לו בשני מחשיך עליו ואוכלו ובא לו ורבנן</row>
-		<row row_number="17" isdata="1">דילמא התם עצה טובה קמ"למתני' ר'</row>
+		<row row_number="17" isdata="1">דילמא התם עצה טובה קמ"ל<EndGemara/><StartMishna/>מתני' ר'</row>
 		<row row_number="18" isdata="1">יהודה אומר ראש השנה שהיה ירא שמא</row>
 		<row row_number="19" isdata="1">תתעבר מערב אדם שני עירובין ואומר</row>
 		<row row_number="20" isdata="1">עירובי בראשון למזרח ובשני למערב</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">ביו"ט של ר"ה אומר החליצנו ה' אלהינו את</row>
 		<row row_number="29" isdata="1">יום ראש החדש הזה אם היום אם למחר</row>
 		<row row_number="30" isdata="1">ולמחר הוא אומר אם היום אם אמש ולא</row>
-		<row row_number="31" isdata="1">הודו לו חכמים<EndMishna/><StartGemara/>גמ' מאן לא הודו לו</row>
+		<row row_number="31" isdata="1">הודו לו חכמים:<EndMishna/><StartGemara/>גמ' מאן לא הודו לו</row>
 		<row row_number="32" isdata="1">אמר רב ר' יוסי היא דתניא מודים חכמים</row>
 		<row row_number="33" isdata="1">לר"א בר"ה שהיה ירא שמא תתעבר מערב</row>
 		<row row_number="34" isdata="1">אדם שני עירובין ואומר עירובי בראשון</row>

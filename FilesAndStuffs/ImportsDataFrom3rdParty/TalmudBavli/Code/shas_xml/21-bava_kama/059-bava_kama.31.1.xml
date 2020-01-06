@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:15.891440</dateCreated>
-   <lastModified>2019-12-21 21:42:15.891440</lastModified>
+   <dateCreated>2020-01-06 09:33:23.137963</dateCreated>
+   <lastModified>2020-01-06 09:33:23.137963</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="31">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "המניח"/><ContGemara/>סליקוסתא בשלמא רב אדא בר אהבה</row>
 		<row row_number="2" isdata="1">כשמעתיה אלא רב הונא לימא הדר ביה</row>
-		<row row_number="3" isdata="1">הנהו מותרין הוומתני' שני קדרין</row>
+		<row row_number="3" isdata="1">הנהו מותרין הוו<EndGemara/><StartMishna/>מתני' שני קדרין</row>
 		<row row_number="4" isdata="1">שהיו מהלכין זה אחר זה ונתקל הראשון</row>
 		<row row_number="5" isdata="1">ונפל ונתקל השני בראשון הראשון חייב</row>
-		<row row_number="6" isdata="1">בנזקי שני<EndMishna/><StartGemara/>גמ' אמר רבי יוחנן לא תימא</row>
+		<row row_number="6" isdata="1">בנזקי שני:<EndMishna/><StartGemara/>גמ' אמר רבי יוחנן לא תימא</row>
 		<row row_number="7" isdata="1"><EndGemara/><StartMishna/>מתני' ר' מאיר היא דאמר נתקל פושע הוא וחייב אלא אפילו לרבנן</row>
 		<row row_number="8" isdata="1">דאמרי אנוס הוא ופטור הכא חייב שהיה לו לעמוד ולא עמד רב נחמן בר</row>
 		<row row_number="9" isdata="1">יצחק אמר אפילו תימא לא היה לו לעמוד היה לו להזהיר ולא הזהיר ורבי</row>

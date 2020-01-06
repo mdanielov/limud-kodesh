@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:28.597248</dateCreated>
-   <lastModified>2019-12-21 21:42:28.597248</lastModified>
+   <dateCreated>2020-01-06 09:34:21.843851</dateCreated>
+   <lastModified>2020-01-06 09:34:21.843851</lastModified>
  </meta>
  <masechet name="שבועות" serial="26">
 <daf value="49">
@@ -15,9 +15,9 @@
 		<row row_number="1" isdata="1"><ContChapter name = "כל הנשבעין"/><ContGemara/>לכל מגלגלין חוץ משכיר שאין מגלגלין</row>
 		<row row_number="2" isdata="1">רב חסדא אמר לכל אין מקילין חוץ משכיר</row>
 		<row row_number="3" isdata="1">דמקילין מאי בינייהו איכא בינייהו לפתוח</row>
-		<row row_number="4" isdata="1">לו והשביעית משמטת כו' מנה"מ אמר רב</row>
+		<row row_number="4" isdata="1">לו: והשביעית משמטת כו': מנה"מ אמר רב</row>
 		<row row_number="5" isdata="1">גידל אמר רב דאמר קרא וזה דבר השמטה</row>
-		<row row_number="6" isdata="1">ואפילו דיבור משמטת<EndChapter name = "כל הנשבעין"/><EndGemara/></row>
+		<row row_number="6" isdata="1">ואפילו דיבור משמטת:<EndChapter name = "כל הנשבעין"/><EndGemara/></row>
 		<row row_number="7" isdata="0">הדרן עלך כל הנשבעין</row>
 		<row row_number="8" isdata="1"><StartChapter name = "ארבעה שומרין "/><StartMishna/>ארבעה שומרין הן שומר חנם והשואל</row>
 		<row row_number="9" isdata="1">נושא שכר והשוכר שומר חנם</row>

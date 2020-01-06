@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.453231</dateCreated>
-   <lastModified>2019-12-21 21:42:34.453231</lastModified>
+   <dateCreated>2020-01-06 09:34:48.477547</dateCreated>
+   <lastModified>2020-01-06 09:34:48.477547</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="79">
@@ -34,10 +34,10 @@
 		<row row_number="20" isdata="1">ליה לרבי שמעון (בן אלעזר) לב בית דין מתנה עליהן והא אמר רב</row>
 		<row row_number="21" isdata="1">אידי בר אבין אמר רב עמרם אמר רבי יצחק אמר רבי יוחנן תמידין</row>
 		<row row_number="22" isdata="1">שלא הוצרכו לציבור לדברי רבי שמעון אין נפדין תמימים לדברי חכמים</row>
-		<row row_number="23" isdata="1">נפדין תמימים שאני התם דאית להו תקנתא ברעייהמתני' ולד תודה</row>
+		<row row_number="23" isdata="1">נפדין תמימים שאני התם דאית להו תקנתא ברעייה<EndGemara/><StartMishna/>מתני' ולד תודה</row>
 		<row row_number="24" isdata="1">ותמורתה הפריש תודה ואבדה והפריש אחרת תחתיה אינה טעונה לחם</row>
 		<row row_number="25" isdata="1">שנאמר והקריב על זבח התודה התודה טעונה לחם ולא ולדה ולא חילופה</row>
-		<row row_number="26" isdata="1">ולא תמורתה טעונין לחם<EndMishna/><StartGemara/>גמ' תנו רבנן מהו אומר תודה יקריב (אם</row>
+		<row row_number="26" isdata="1">ולא תמורתה טעונין לחם:<EndMishna/><StartGemara/>גמ' תנו רבנן מהו אומר תודה יקריב (אם</row>
 		<row row_number="27" isdata="1">על תודה יקריב) מנין למפריש תודתו ואבדה והפריש אחרת תחתיה ונמצאת</row>
 		<row row_number="28" isdata="1">הראשונה והרי שתיהן עומדות מנין שאיזה מהן שירצה יקריב ולחמה עמה</row>
 		<row row_number="29" isdata="1">תלמוד לומר התודה יקריב יכול שתהא שניה טעונה לחם תלמוד לומר</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">וחליפות ותמורות להקרבה תלמוד לומר אם על תודה יכול יהו טעונות לחם</row>
 		<row row_number="32" isdata="1">ת"ל והקריב על זבח התודה תודה טעונה לחם ולא ולדה ולא חילופה</row>
 		<row row_number="33" isdata="1">ולא תמורתה טעונין לחם שלח רב חנינא משמיה דרבי יוחנן לא שנו</row>
-		<row row_number="34" isdata="1">אלא לאחר כפרה אבל לפני כפרה טעונין לחם הוי בה רב עמרם אהייא</row>
+		<row row_number="34" isdata="1">אלא לאחר כפרה אבל לפני כפרה טעונין לחם: הוי בה רב עמרם אהייא</row>
 		<row row_number="35" isdata="1">אילימא אחליפי תודת חובה אי לפני כפרה תנינא אי לאחר כפרה תנינא</row>
 </amud>
 </daf>

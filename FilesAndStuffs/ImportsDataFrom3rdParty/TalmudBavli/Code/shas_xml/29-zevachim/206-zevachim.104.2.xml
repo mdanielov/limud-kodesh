@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.502802</dateCreated>
-   <lastModified>2019-12-21 21:42:32.502802</lastModified>
+   <dateCreated>2020-01-06 09:34:39.528998</dateCreated>
+   <lastModified>2020-01-06 09:34:39.528998</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="104">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "טבול יום"/><ContGemara/>היו סובלין אותו במוטות יצאו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "טבול יום"/><ContMishna/>היו סובלין אותו במוטות יצאו</row>
 		<row row_number="2" isdata="1">הראשונים חוץ לחומת העזרה והאחרונים</row>
 		<row row_number="3" isdata="1">לא יצאו הראשונים מטמאין בגדים והאחרונים</row>
 		<row row_number="4" isdata="1">אינן מטמאין בגדים עד שיצאו יצאו אלו</row>
 		<row row_number="5" isdata="1">ואלו מטמאין בגדים רבי שמעון אומר</row>
 		<row row_number="6" isdata="1">אינן מטמאין עד שיוצת האור ברובן ניתך</row>
-		<row row_number="7" isdata="1">הבשר אין השורף מטמא בגדים<EndMishna/><StartGemara/>גמ' מאי</row>
+		<row row_number="7" isdata="1">הבשר אין השורף מטמא בגדים:<EndMishna/><StartGemara/>גמ' מאי</row>
 		<row row_number="8" isdata="1">בירה אמר רבה בר בר חנה אמר רבי יוחנן</row>
 		<row row_number="9" isdata="1">מקום יש בהר הבית ובירה שמו ור"ל אמר כל</row>
 		<row row_number="10" isdata="1">הבית כולו קרוי בירה שנאמר (ואל) הבירה</row>

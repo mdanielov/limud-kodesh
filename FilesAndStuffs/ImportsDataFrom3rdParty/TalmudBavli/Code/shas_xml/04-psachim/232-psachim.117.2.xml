@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:56.854148</dateCreated>
-   <lastModified>2019-12-21 21:41:56.854148</lastModified>
+   <dateCreated>2020-01-06 09:31:36.545740</dateCreated>
+   <lastModified>2020-01-06 09:31:36.545740</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="117">
@@ -26,7 +26,7 @@
 		<row row_number="12" isdata="1">דאמר עד בצאת ישראל סבר עד ולא עד</row>
 		<row row_number="13" isdata="1">בכלל ונימא עד הללויה וכי תימא דלא</row>
 		<row row_number="14" isdata="1">ידעינן הי הללויה ונימא עד הללויה שבצאת</row>
-		<row row_number="15" isdata="1">ישראל קשיא וחותם בגאולה אמר רבא</row>
+		<row row_number="15" isdata="1">ישראל קשיא: וחותם בגאולה: אמר רבא</row>
 		<row row_number="16" isdata="1">ק"ש והלל גאל ישראל דצלותא גואל ישראל</row>
 		<row row_number="17" isdata="1">מ"ט דרחמי נינהו אמר רבי זירא דקידושא</row>
 		<row row_number="18" isdata="1">אשר קדשנו במצותיו וצונו דצלותא קדשנו</row>
@@ -53,11 +53,11 @@
 		<row row_number="39" isdata="1">פפא אמר כסבי דפומבדיתא ושבחיה רב פפא אמר רבינא אנא איקלע לסורא</row>
 		<row row_number="40" isdata="1">קמיה דמרימר ונחית קמיה שלוחא דציבורא ואמר כסבי דפומבדיתא והוו</row>
 		<row row_number="41" isdata="1">משתקי ליה כולי עלמא אמר להו שבקוהו הילכתא כסבי דפומבדיתא</row>
-		<row row_number="42" isdata="1">ולא הוו משתקו ליהמתני' מזגו לו כוס שלישי מברך על מזונו</row>
+		<row row_number="42" isdata="1">ולא הוו משתקו ליה <EndGemara/><StartMishna/>מתני' מזגו לו כוס שלישי מברך על מזונו</row>
 		<row row_number="43" isdata="1">רביעי גומר עליו את הלל ואומר עליו ברכת השיר בין הכוסות הללו אם</row>
-		<row row_number="44" isdata="1">רוצה לשתות ישתה בין שלישי לרביעי לא ישתה<EndMishna/><StartGemara/>גמ' א"ל רב חנן לרבא</row>
+		<row row_number="44" isdata="1">רוצה לשתות ישתה בין שלישי לרביעי לא ישתה:<EndMishna/><StartGemara/>גמ' א"ל רב חנן לרבא</row>
 		<row row_number="45" isdata="1">ש"מ ברכת המזון טעונה כוס א"ל ארבע כסי תיקנו רבנן דרך חירות כל חד</row>
-		<row row_number="46" isdata="1">וחד נעביד ביה מצוה רביעי גומר עליו את ההלל ואומר עליו ברכת השיר</row>
+		<row row_number="46" isdata="1">וחד נעביד ביה מצוה: רביעי גומר עליו את ההלל ואומר עליו ברכת השיר:</row>
 </amud>
 </daf>
 </masechet>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.065653</dateCreated>
-   <lastModified>2019-12-21 21:42:39.065653</lastModified>
+   <dateCreated>2020-01-06 09:35:09.148214</dateCreated>
+   <lastModified>2020-01-06 09:35:09.148214</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="35">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "כל פסולי המוקדשין"/><ContGemara/>טימא טהרות ומת לא קנסו בנו אחריו מ"ט</row>
 		<row row_number="2" isdata="1">היזק שאינו ניכר לא שמיה היזק קנסא</row>
 		<row row_number="3" isdata="1">דרבנן לדידיה קנסו רבנן לבריה לא קנסו</row>
-		<row row_number="4" isdata="1">רבנןמתני' מעשה בזכר של רחלים זקן</row>
+		<row row_number="4" isdata="1">רבנן<EndGemara/><StartMishna/>מתני' מעשה בזכר של רחלים זקן</row>
 		<row row_number="5" isdata="1">ושערו מדולדל וראהו קסטור אחד ואמר מה</row>
 		<row row_number="6" isdata="1">טיבו של זה אמרו לו בכור הוא ואינו נשחט אלא</row>
 		<row row_number="7" isdata="1">א"כ היה בו מום נטל פיגום וצרם אזנו ובא</row>
@@ -26,8 +26,8 @@
 		<row row_number="12" isdata="1">והרי הוא בכור ובא מעשה לפני חכמים</row>
 		<row row_number="13" isdata="1">והתירו ראו שהתירו הלכו וקשרו זנבות</row>
 		<row row_number="14" isdata="1">בכורות אחרים ואסרו זה הכלל כל שהוא</row>
-		<row row_number="15" isdata="1">לדעתו אסור שלא לדעתו מותר<EndMishna/><StartGemara/>גמ' פעם</row>
-		<row row_number="16" isdata="1">אחרת היה כו' וצריכא דאי אשמעינן עובד</row>
+		<row row_number="15" isdata="1">לדעתו אסור שלא לדעתו מותר:<EndMishna/><StartGemara/>גמ' פעם</row>
+		<row row_number="16" isdata="1">אחרת היה כו': וצריכא דאי אשמעינן עובד</row>
 		<row row_number="17" isdata="1">כוכבים דלא אתי למיסרך אבל קטן דאתי</row>
 		<row row_number="18" isdata="1">למיסרך אימא לא ואי אשמועינן קטן משום</row>
 		<row row_number="19" isdata="1">דלא אתי לאיחלופי בגדול אבל עובד כוכבים</row>
@@ -36,11 +36,11 @@
 		<row row_number="22" isdata="1">אא"כ היה בו מום אבל אם א"ל אם נעשה בו</row>
 		<row row_number="23" isdata="1">מום כמאן דא"ל זיל עביד ביה מומא דמי אמר</row>
 		<row row_number="24" isdata="1">רבא מכדי ממילא הוא מה לי היה מה לי</row>
-		<row row_number="25" isdata="1">נעשה אלא נעשה נמי ממילא הוא ולא שנא</row>
-		<row row_number="26" isdata="1">זה הכלל כל שהוא לדעת אסור לאיתויי מאי</row>
-		<row row_number="27" isdata="1">לאיתויי גרמא שלא לדעת לאיתויי מסיח</row>
-		<row row_number="28" isdata="1">לפי תומומתני' היה בכור רדפו בעטו</row>
-		<row row_number="29" isdata="1">ועשה בו מום ה"ז שוחטין עליו<EndMishna/><StartGemara/>גמ' א"ר פפא</row>
+		<row row_number="25" isdata="1">נעשה אלא נעשה נמי ממילא הוא ולא שנא:</row>
+		<row row_number="26" isdata="1">זה הכלל כל שהוא לדעת אסור: לאיתויי מאי</row>
+		<row row_number="27" isdata="1">לאיתויי גרמא: שלא לדעת: לאיתויי מסיח</row>
+		<row row_number="28" isdata="1">לפי תומו<EndGemara/><StartMishna/>מתני' היה בכור רדפו בעטו</row>
+		<row row_number="29" isdata="1">ועשה בו מום ה"ז שוחטין עליו:<EndMishna/><StartGemara/>גמ' א"ר פפא</row>
 		<row row_number="30" isdata="1">לא שנו אלא שבעטו בשעת רדיפה אבל</row>
 		<row row_number="31" isdata="1">לאחר רדיפה לא פשיטא מהו דתימא צעריה הוא דמדכר קמ"ל איכא דאמרי</row>
 		<row row_number="32" isdata="1">אמר רב פפא לא תימא בשעת רדיפה אין אבל שלא בשעת רדיפה לא אלא</row>
@@ -50,10 +50,10 @@
 		<row row_number="36" isdata="1">צדעיו נפק אמר רבא אכל ולא מיחזי פעי ומיחזי הוי מומא מאי קמ"ל</row>
 		<row row_number="37" isdata="1">תנינא החוטין החיצונות שנפגמו ושנגממו הפנימיות שנעקרו מ"ט לאו</row>
 		<row row_number="38" isdata="1">משום דכי פעי מיחזי אמר רב פפא רבא נמי טעמא דמתני' מפרש מאי טעמא</row>
-		<row row_number="39" isdata="1">נעקרו הוי מומא משום דכי פעי מיחזימתני' כל המומין הראויין לבא</row>
+		<row row_number="39" isdata="1">נעקרו הוי מומא משום דכי פעי מיחזי<EndGemara/><StartMishna/>מתני' כל המומין הראויין לבא</row>
 		<row row_number="40" isdata="1">בידי אדם רועי ישראל נאמנין רועים כהנים אינן נאמנין רשב"ג אומר נאמן</row>
 		<row row_number="41" isdata="1">הוא על של חבירו ואין נאמן על של עצמו ר"מ אומר החשוד על הדבר</row>
-		<row row_number="42" isdata="1">לא דנו ולא מעידו<EndMishna/><StartGemara/>גמ' ר' יוחנן ור' אלעזר חד אמר רועי ישראל</row>
+		<row row_number="42" isdata="1">לא דנו ולא מעידו:<EndMishna/><StartGemara/>גמ' ר' יוחנן ור' אלעזר חד אמר רועי ישראל</row>
 		<row row_number="43" isdata="1">בי כהנים נאמנין ללגימא לא חיישינן רועי כהנים בי ישראל אין נאמנין</row>
 		<row row_number="44" isdata="1">מימר אמר כיון דקא טרחנא ביה לא שביק לדידי ויהיב לאחריני והוא</row>
 		<row row_number="45" isdata="1">הדין כהן לכהן דחיישינן לגומלין ואתא רבן שמעון בן גמליאל למימר</row>

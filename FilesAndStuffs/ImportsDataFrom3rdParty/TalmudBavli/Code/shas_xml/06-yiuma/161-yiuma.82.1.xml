@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:58.885516</dateCreated>
-   <lastModified>2019-12-21 21:41:58.885516</lastModified>
+   <dateCreated>2020-01-06 09:31:51.138448</dateCreated>
+   <lastModified>2020-01-06 09:31:51.138448</lastModified>
  </meta>
  <masechet name="יומא" serial="06">
 <daf value="82">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "יום הכפורים"/><ContMishna/>מתני' התינוקות אין מענין אותן ביוה"כ אבל<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">מחנכין אותן לפני שנה ולפני שנתיים בשביל</row>
-		<row row_number="3" isdata="1">שיהיו רגילין במצות<EndMishna/><StartGemara/>גמ' השתא בפני</row>
+		<row row_number="3" isdata="1">שיהיו רגילין במצות:<EndMishna/><StartGemara/>גמ' השתא בפני</row>
 		<row row_number="4" isdata="1">שתים מחנכין להו בפני שנה מבעיא אמר</row>
 		<row row_number="5" isdata="1">רב חסדא לא קשיא הא בחולה הא בבריא</row>
 		<row row_number="6" isdata="1">א"ר הונא בן ח' ובן ט' מחנכין אותו לשעות</row>
@@ -35,9 +35,9 @@
 		<row row_number="21" isdata="1">לרב הונא ולרב נחמן קשיא אמרי לך רבנן מאי חינוך נמי דקתני השלמה</row>
 		<row row_number="22" isdata="1">ומי קרי לחינוך השלמה והא תניא אי זה חינוך היה רגיל לאכול בשתי שעות</row>
 		<row row_number="23" isdata="1">מאכילין אותו לשלש בשלש מאכילין אותו בארבע אמר רבא בר עולא</row>
-		<row row_number="24" isdata="1">תרי חנוכי הוומתני' עוברה שהריחה מאכילין אותה עד שתשיב נפשה</row>
+		<row row_number="24" isdata="1">תרי חנוכי הוו<EndGemara/><StartMishna/>מתני' עוברה שהריחה מאכילין אותה עד שתשיב נפשה</row>
 		<row row_number="25" isdata="1">חולה מאכילין אותו ע"פ בקיאין ואם אין שם בקיאין מאכילין אותו על פי</row>
-		<row row_number="26" isdata="1">עצמו עד שיאמר די<EndMishna/><StartGemara/>גמ' ת"ר עוברה שהריחה בשר קודש או בשר חזיר</row>
+		<row row_number="26" isdata="1">עצמו עד שיאמר די:<EndMishna/><StartGemara/>גמ' ת"ר עוברה שהריחה בשר קודש או בשר חזיר</row>
 		<row row_number="27" isdata="1">תוחבין לה כוש ברוטב ומניחין לה על פיה אם נתיישבה דעתה מוטב ואם</row>
 		<row row_number="28" isdata="1">לאו מאכילין אותה רוטב עצמה ואם נתיישבה דעתה מוטב ואם לאו מאכילין</row>
 		<row row_number="29" isdata="1">אותה שומן עצמו שאין לך דבר שעומד בפני פקוח נפש חוץ מע"ז וגילוי</row>

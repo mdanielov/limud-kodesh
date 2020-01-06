@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.720639</dateCreated>
-   <lastModified>2019-12-21 21:42:38.720639</lastModified>
+   <dateCreated>2020-01-06 09:35:05.965509</dateCreated>
+   <lastModified>2020-01-06 09:35:05.965509</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="13">
@@ -19,7 +19,7 @@
 		<row row_number="5" isdata="1">כל שלשים יום אי הכי מכאן ואילך או פודהו</row>
 		<row row_number="6" isdata="1">או עובר עליו מיבעי ליה אלא אמר רבא לא</row>
 		<row row_number="7" isdata="1">קשיא הא רבי אליעזר דמקשי הא רבנן דלא</row>
-		<row row_number="8" isdata="1">מקשימתני' לא רצה לפדותו עורפו</row>
+		<row row_number="8" isdata="1">מקשי<EndGemara/><StartMishna/>מתני' לא רצה לפדותו עורפו</row>
 		<row row_number="9" isdata="1">מאחוריו וקוברו מצות הפדייה קודמת</row>
 		<row row_number="10" isdata="1">למצות עריפה שנאמר אם לא תפדה וערפתו</row>
 		<row row_number="11" isdata="1">מצות יעידה קודמת למצות הפדייה שנאמר</row>
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">מתכוונין לשם מצוה ועכשיו שאין מתכוונין</row>
 		<row row_number="15" isdata="1">לשם מצוה אמרו מצות חליצה קודמת למצות</row>
 		<row row_number="16" isdata="1">יבום מצות הגאולה באדון הוא קודם לכל</row>
-		<row row_number="17" isdata="1">אדם שנאמר ואם לא יגאל ונמכר בערכך<EndChapter name = "הלוקח עובר חמורו"/><EndGemara/></row>
+		<row row_number="17" isdata="1">אדם שנאמר ואם לא יגאל ונמכר בערכך:<EndChapter name = "הלוקח עובר חמורו"/><EndGemara/></row>
 		<row row_number="18" isdata="0">הדרן עלך הלוקח עובר חמורו</row>
 		<row row_number="19" isdata="1"><StartChapter name = "הלוקח עובר פרתו"/><StartMishna/>הלוקח עובר פרתו של עובד כוכבים</row>
 		<row row_number="20" isdata="1">והמוכר לו אע"פ שאינו רשאי</row>
@@ -36,7 +36,7 @@
 		<row row_number="22" isdata="1">בקבלה פטור מן הבכורה שנאמר בישראל</row>
 		<row row_number="23" isdata="1">אבל לא באחרים הכהנים והלוים חייבים</row>
 		<row row_number="24" isdata="1">שלא נפטרו מבכור בהמה טהורה אלא</row>
-		<row row_number="25" isdata="1">מפדיון הבן ומפטר חמור<EndMishna/><StartGemara/>גמ' מאי איריא</row>
+		<row row_number="25" isdata="1">מפדיון הבן ומפטר חמור:<EndMishna/><StartGemara/>גמ' מאי איריא</row>
 		<row row_number="26" isdata="1">דתני עובר חמורו ברישא והדר תני עובר</row>
 		<row row_number="27" isdata="1">פרתו ליתני ברישא עובר פרתו דקדושת הגוף</row>
 		<row row_number="28" isdata="1">הוא והדר ליתני עובר חמורו דקדושת דמים</row>

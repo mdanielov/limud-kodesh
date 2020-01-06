@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.453281</dateCreated>
-   <lastModified>2019-12-21 21:42:42.453281</lastModified>
+   <dateCreated>2020-01-06 09:35:29.041721</dateCreated>
+   <lastModified>2020-01-06 09:35:29.041721</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="68">
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">וליכא והלכתא אשה חופפת ביום וטובלת</row>
 		<row row_number="16" isdata="1">בלילה והלכתא אשה לא תחוף אלא בלילה</row>
 		<row row_number="17" isdata="1">(אלא) קשיא הלכתא אהלכתא לא קשיא</row>
-		<row row_number="18" isdata="1">הא דאפשר הא דלא אפשרמתני' נדה</row>
+		<row row_number="18" isdata="1">הא דאפשר הא דלא אפשר<EndGemara/><StartMishna/>מתני' נדה</row>
 		<row row_number="19" isdata="1">שבדקה עצמה יום שביעי שחרית ומצאה</row>
 		<row row_number="20" isdata="1">טהורה ובין השמשות לא הפרישה ולאחר</row>
 		<row row_number="21" isdata="1">ימים בדקה ומצאה טמאה הרי היא בחזקת</row>
@@ -43,7 +43,7 @@
 		<row row_number="29" isdata="1">וחכמים אומרים אפילו בשנים לנדתה</row>
 		<row row_number="30" isdata="1">בדקה ומצאה טהורה ובין השמשות לא</row>
 		<row row_number="31" isdata="1">הפרישה ולאחר זמן בדקה ומצאה טמאה</row>
-		<row row_number="32" isdata="1">הרי זו בחזקת טהורה<EndMishna/><StartGemara/>גמ' איתמר רב</row>
+		<row row_number="32" isdata="1">הרי זו בחזקת טהורה:<EndMishna/><StartGemara/>גמ' איתמר רב</row>
 		<row row_number="33" isdata="1">אמר זבה ודאי ולוי אמר זבה ספק אהייא אילימא ארישא הרי זו</row>
 		<row row_number="34" isdata="1">בחזקת טהורה קתני אלא אסיפא בשלמא ספק זבה אמרינן אלא</row>
 		<row row_number="35" isdata="1">זבה ודאי נמי הרי בדקה ומצאה טהורה אלא כי איתמר דרב ולוי שמעתא</row>

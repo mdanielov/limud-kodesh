@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.821291</dateCreated>
-   <lastModified>2019-12-21 21:42:35.821291</lastModified>
+   <dateCreated>2020-01-06 09:34:54.154051</dateCreated>
+   <lastModified>2020-01-06 09:34:54.154051</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="31">
@@ -18,7 +18,7 @@
 		<row row_number="4" isdata="1">שנאמר וכסהו בעפר עפר לא נאמר אלא</row>
 		<row row_number="5" isdata="1">בעפר מלמד שהשוחט צריך שיתן עפר</row>
 		<row row_number="6" isdata="1">למטה ועפר למעלה דמזמין ליה לעפר דכולה</row>
-		<row row_number="7" isdata="1">פתקא היה שוחט והתיז [וכו'] אמר רבי</row>
+		<row row_number="7" isdata="1">פתקא: היה שוחט והתיז [וכו']: אמר רבי</row>
 		<row row_number="8" isdata="1">זירא מלא צואר וחוץ לצואר איבעיא להו</row>
 		<row row_number="9" isdata="1">מלא צואר וחוץ לצואר כמלא צואר דהוו לה</row>
 		<row row_number="10" isdata="1">תרי צוארי או דלמא מלא צואר וחוץ לצואר</row>
@@ -29,8 +29,8 @@
 		<row row_number="15" isdata="1">מלא צואר וחוץ לצואר בשתי בהמות סגי</row>
 		<row row_number="16" isdata="1">להו כמלא צואר אחד אלא פשיטא מלא</row>
 		<row row_number="17" isdata="1">צואר חוץ לשני צוארין ש"מ מלא צואר</row>
-		<row row_number="18" isdata="1">חוץ לצואר ש"מ בד"א בזמן שהוליך ולא</row>
-		<row row_number="19" isdata="1">הביא וכו' אמר רב מנשה באיזמל שאין לו</row>
+		<row row_number="18" isdata="1">חוץ לצואר ש"מ: בד"א בזמן שהוליך ולא</row>
+		<row row_number="19" isdata="1">הביא וכו': אמר רב מנשה באיזמל שאין לו</row>
 		<row row_number="20" isdata="1">קרנים אמר ליה רב אחא בריה דרב אויא</row>
 		<row row_number="21" isdata="1">לרב מנשה מחטא מאי אמר ליה מחטא מבזע</row>
 		<row row_number="22" isdata="1">בזע מחטא דאושכפי מאי אמר ליה תנינא</row>
@@ -41,9 +41,9 @@
 		<row row_number="27" isdata="1">דאושכפי שריא איזמל מיבעיא איזמל</row>
 		<row row_number="28" isdata="1">אצטריכא ליה ס"ד אמינא ליגזר איזמל שאין</row>
 		<row row_number="29" isdata="1">לו קרנים אטו איזמל שיש לו קרנים קא משמע</row>
-		<row row_number="30" isdata="1">לןמתני' נפלה סכין ושחטה אע"פ</row>
+		<row row_number="30" isdata="1">לן<EndGemara/><StartMishna/>מתני' נפלה סכין ושחטה אע"פ</row>
 		<row row_number="31" isdata="1">ששחטה כדרכה פסולה שנאמר וזבחת</row>
-		<row row_number="32" isdata="1">ואכלת מה שאתה זובח אתה אוכל<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="32" isdata="1">ואכלת מה שאתה זובח אתה אוכל:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="33" isdata="1">טעמא דנפלה הא הפילה הוא כשרה ואע"ג</row>
 		<row row_number="34" isdata="1">דלא מיכוין מאן תנא דלא בעינן כוונה</row>
 		<row row_number="35" isdata="1">לשחיטה אמר רבא ר' נתן היא דתני אושעיא</row>
@@ -58,7 +58,7 @@
 		<row row_number="44" isdata="1">חתיכה בעולם אבל הכא דלא קא מיכוין</row>
 		<row row_number="45" isdata="1">אימא לא ואי אשמעינן הכא משום דקאתי</row>
 		<row row_number="46" isdata="1">מכח בן דעת אבל התם דלא קאתי מכח בן</row>
-		<row row_number="47" isdata="1">דעת אימא לא צריכא אתמר נדה שנאנסה</row>
+		<row row_number="47" isdata="1">דעת אימא לא צריכא: אתמר נדה שנאנסה</row>
 		<row row_number="48" isdata="1">וטבלה אמר רב יהודה אמר רב טהורה</row>
 		<row row_number="49" isdata="1">לביתה ואסורה לאכול בתרומה ור' יוחנן אמר אף לביתה לא טהרה א"ל רבא</row>
 		<row row_number="50" isdata="1">לר"נ לרב דאמר טהורה לביתה ואסורה לאכול בתרומה עון כרת הותרה איסור</row>

@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.414183</dateCreated>
-   <lastModified>2019-12-21 21:41:49.414183</lastModified>
+   <dateCreated>2020-01-06 09:31:06.111305</dateCreated>
+   <lastModified>2020-01-06 09:31:06.111305</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="78">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "המוציא יין"/><ContGemara/>נייר מחוק כדי לכרוך על צלוחית קטנה של</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המוציא יין"/><ContMishna/>נייר מחוק כדי לכרוך על צלוחית קטנה של</row>
 		<row row_number="2" isdata="1">פלייטון עור כדי לעשות קמיע (דוכסוסטוס</row>
 		<row row_number="3" isdata="1">כדי לכתוב מזוזה) קלף כדי לכתוב עליו</row>
 		<row row_number="4" isdata="1">פרשה קטנה שבתפילין שהיא שמע ישראל</row>
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">פיטפוט סובין כדי ליתן על פי כור של צורפי</row>
 		<row row_number="11" isdata="1">זהב סיד כדי לסוד קטנה שבבנות ר' יהודה</row>
 		<row row_number="12" isdata="1">אומר כדי לעשות כלכל רבי נחמיה אומר</row>
-		<row row_number="13" isdata="1">כדי לסוד אונדפי<EndMishna/><StartGemara/>גמ' חבל נמי ליחייב כדי</row>
+		<row row_number="13" isdata="1">כדי לסוד אונדפי:<EndMishna/><StartGemara/>גמ' חבל נמי ליחייב כדי</row>
 		<row row_number="14" isdata="1">לעשות תלאי לנפה ולכברה כיון דחריק</row>
 		<row row_number="15" isdata="1">במנא לא עבדי אינשי תנו רבנן הוצין כדי</row>
 		<row row_number="16" isdata="1">לעשות אוזן לסל כפיפה מצרית סיב אחרים</row>
@@ -32,8 +32,8 @@
 		<row row_number="18" isdata="1">היין רבב כדי לסוך תחת אספגין קטנה</row>
 		<row row_number="19" isdata="1">וכמה שיעורה כסלע והתניא כגרוגרת אידי</row>
 		<row row_number="20" isdata="1">ואידי חד שיעורא הוא מוכין כדי לעשות</row>
-		<row row_number="21" isdata="1">כדור קטנה וכמה שיעורו כאגוז נייר כדי</row>
-		<row row_number="22" isdata="1">לכתוב עליו קשר מוכסין תנא כמה קשר</row>
+		<row row_number="21" isdata="1">כדור קטנה וכמה שיעורו כאגוז: נייר כדי</row>
+		<row row_number="22" isdata="1">לכתוב עליו קשר מוכסין: תנא כמה קשר</row>
 		<row row_number="23" isdata="1">מוכסין שתי אותיות (של קשר מוכסין)</row>
 		<row row_number="24" isdata="1">ורמינהו המוציא נייר חלק אם יש בו כדי</row>
 		<row row_number="25" isdata="1">לכתוב שתי אותיות חייב ואם לאו פטור אמר</row>
@@ -55,7 +55,7 @@
 		<row row_number="41" isdata="1">בינייהו רהיטי מוכסא רבא אמר מוכס גדול</row>
 		<row row_number="42" isdata="1">ומוכס קטן איכא בינייהו רב אשי אמר חד</row>
 		<row row_number="43" isdata="1">מוכס איכא בינייהו מפני שצריך לו להראות</row>
-		<row row_number="44" isdata="1">למוכס שני דא"ל חזי גברא דמוכס אנא</row>
+		<row row_number="44" isdata="1">למוכס שני דא"ל חזי גברא דמוכס אנא:</row>
 		<row row_number="45" isdata="1">ת"ר המוציא שטר חוב עד שלא פרעו חייב</row>
 		<row row_number="46" isdata="1">משפרעו פטור רבי יהודה אומר אף משפרעו</row>
 		<row row_number="47" isdata="1">חייב מפני שצריך לו מאי בינייהו אמר רב</row>

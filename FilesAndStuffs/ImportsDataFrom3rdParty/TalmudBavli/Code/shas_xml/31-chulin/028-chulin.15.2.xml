@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.401314</dateCreated>
-   <lastModified>2019-12-21 21:42:35.401314</lastModified>
+   <dateCreated>2020-01-06 09:34:52.692720</dateCreated>
+   <lastModified>2020-01-06 09:34:52.692720</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="15">
@@ -27,10 +27,10 @@
 		<row row_number="13" isdata="1">דאי אפשר לכזית בשר בלא שחיטה כי קא</row>
 		<row row_number="14" isdata="1">שחיט אדעתא דחולה קא שחיט המבשל</row>
 		<row row_number="15" isdata="1">לחולה בשבת אסור לבריא גזירה שמא ירבה</row>
-		<row row_number="16" isdata="1">בשבילומתני' השוחט במגל יד בצור</row>
+		<row row_number="16" isdata="1">בשבילו<EndGemara/><StartMishna/>מתני' השוחט במגל יד בצור</row>
 		<row row_number="17" isdata="1">ובקנה שחיטתו כשרה הכל שוחטין ולעולם</row>
 		<row row_number="18" isdata="1">שוחטין ובכל שוחטין חוץ ממגל קציר</row>
-		<row row_number="19" isdata="1">והמגירה והשינים והציפורן מפני שהם חונקין</row>
+		<row row_number="19" isdata="1">והמגירה והשינים והציפורן מפני שהם חונקין:</row>
 		<row row_number="20" isdata="1"><EndMishna/><StartGemara/>גמ' השוחט דיעבד אין לכתחלה לא</row>
 		<row row_number="21" isdata="1">בשלמא במגל יד דלמא אתי למעבד</row>
 		<row row_number="22" isdata="1">באידך גיסא אלא צור וקנה לכתחלה לא</row>

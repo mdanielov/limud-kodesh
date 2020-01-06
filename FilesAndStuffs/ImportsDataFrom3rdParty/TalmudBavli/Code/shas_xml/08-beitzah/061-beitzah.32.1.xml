@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.505794</dateCreated>
-   <lastModified>2019-12-21 21:42:00.505794</lastModified>
+   <dateCreated>2020-01-06 09:32:05.248830</dateCreated>
+   <lastModified>2020-01-06 09:32:05.248830</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="32">
@@ -27,10 +27,10 @@
 		<row row_number="13" isdata="1">בשברי כלים ותניא אידך אין מסיקין לא</row>
 		<row row_number="14" isdata="1">בכלים ולא בשברי כלים ומשני לא קשיא</row>
 		<row row_number="15" isdata="1">הא ר' יהודה הא ר"ש הא ר' נחמיה תרי תנאי</row>
-		<row row_number="16" isdata="1">ואליבא דר' נחמיהמתני' אין פוחתין</row>
+		<row row_number="16" isdata="1">ואליבא דר' נחמיה<EndGemara/><StartMishna/>מתני' אין פוחתין</row>
 		<row row_number="17" isdata="1">את הנר מפני שהוא עושה כלי ואין עושין</row>
 		<row row_number="18" isdata="1">פחמין ביום טוב ואין חותכין את הפתילה</row>
-		<row row_number="19" isdata="1">ר' יהודה אומר חותכה באור<EndMishna/><StartGemara/>גמ' מאן</row>
+		<row row_number="19" isdata="1">ר' יהודה אומר חותכה באור:<EndMishna/><StartGemara/>גמ' מאן</row>
 		<row row_number="20" isdata="1">תנא דפחיתת נר מנא הוא אמר רב יוסף ר'</row>
 		<row row_number="21" isdata="1">מאיר היא דתניא כלי חרס מאימתי מקבל</row>
 		<row row_number="22" isdata="1">טומאה משנגמרה מלאכתו דברי ר' מאיר</row>
@@ -53,7 +53,7 @@
 		<row row_number="39" isdata="1">עושין פחמין פשיטא למאי חזי תני רבי</row>
 		<row row_number="40" isdata="1">חייא לא נצרכה אלא למוסרן לאוליירין לבו</row>
 		<row row_number="41" isdata="1">ביום ובו ביום מי שרי כדאמר רבא להזיע</row>
-		<row row_number="42" isdata="1">וקודם גזרה הכא נמי להזיע וקודם גזרה ואין</row>
+		<row row_number="42" isdata="1">וקודם גזרה הכא נמי להזיע וקודם גזרה: ואין</row>
 		<row row_number="43" isdata="1">חותכין את הפתילה לשנים מ"ש בסכין דלא</row>
 </amud>
 </daf>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:24.369008</dateCreated>
-   <lastModified>2019-12-21 21:42:24.369008</lastModified>
+   <dateCreated>2020-01-06 09:34:00.904960</dateCreated>
+   <lastModified>2020-01-06 09:34:00.904960</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="153">
@@ -39,11 +39,11 @@
 		<row row_number="25" isdata="1">ספריה זיל כתוב לה וכתוב בה שוכר עליהן</row>
 		<row row_number="26" isdata="1">או מטען אמרה ליטבע ארביה אטעויי קא</row>
 		<row row_number="27" isdata="1">מטעית לי אמשינהו למניה דרבא במיא ואפי'</row>
-		<row row_number="28" isdata="1">הכי לא איפרק מטיבעאמתני' לא כתב בה</row>
+		<row row_number="28" isdata="1">הכי לא איפרק מטיבעא<EndGemara/><StartMishna/>מתני' לא כתב בה</row>
 		<row row_number="29" isdata="1">שכיב מרע הוא אומר שכיב מרע הייתי והן</row>
 		<row row_number="30" isdata="1">אומרים בריא היית צריך להביא ראיה</row>
 		<row row_number="31" isdata="1">ששכיב מרע היה דברי ר"מ וחכ"א המוציא</row>
-		<row row_number="32" isdata="1">מחברו עליו הראיה<EndMishna/><StartGemara/>גמ' ההוא מתנתא דהוה</row>
+		<row row_number="32" isdata="1">מחברו עליו הראיה:<EndMishna/><StartGemara/>גמ' ההוא מתנתא דהוה</row>
 		<row row_number="33" isdata="1">כתב בה כד הוה קציר ורמי בערסיה ולא</row>
 		<row row_number="34" isdata="1">כתב בה ומגו מרעיה איפטר לבית עולמיה</row>
 </amud>

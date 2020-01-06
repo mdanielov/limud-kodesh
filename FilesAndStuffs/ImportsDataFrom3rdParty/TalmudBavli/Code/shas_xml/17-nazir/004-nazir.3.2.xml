@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:09.479985</dateCreated>
-   <lastModified>2019-12-21 21:42:09.479985</lastModified>
+   <dateCreated>2020-01-06 09:32:51.532131</dateCreated>
+   <lastModified>2020-01-06 09:32:51.532131</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="3">
@@ -32,9 +32,9 @@
 		<row row_number="18" isdata="1">איקרי שבועה דתניא מניין לאומר ימין</row>
 		<row row_number="19" isdata="1">שהיא שבועה שנאמר נשבע ה' בימינו</row>
 		<row row_number="20" isdata="1">ומניין לאומר שמאל שהיא שבועה שנאמר</row>
-		<row row_number="21" isdata="1">ובזרוע עוזומתני' הריני נזיר מן החרצנים</row>
+		<row row_number="21" isdata="1">ובזרוע עוזו<EndGemara/><StartMishna/>מתני' הריני נזיר מן החרצנים</row>
 		<row row_number="22" isdata="1">ומן הזגים ומן התגלחת ומן הטומאה הרי זה</row>
-		<row row_number="23" isdata="1">נזיר וכל דקדוקי נזירות עליו<EndMishna/><StartGemara/>גמ' מתני'</row>
+		<row row_number="23" isdata="1">נזיר וכל דקדוקי נזירות עליו:<EndMishna/><StartGemara/>גמ' מתני'</row>
 		<row row_number="24" isdata="1">דלא כר' שמעון דתניא ר"ש אומר אינו חייב</row>
 		<row row_number="25" isdata="1">עד שידור מכולם ורבנן אמרי אפילו לא</row>
 		<row row_number="26" isdata="1">נזר אלא בחד מנהון הוי נזיר מ"ט דר"ש</row>

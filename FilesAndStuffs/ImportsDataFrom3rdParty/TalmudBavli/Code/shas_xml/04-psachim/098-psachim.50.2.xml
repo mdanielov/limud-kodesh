@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:55.323986</dateCreated>
-   <lastModified>2019-12-21 21:41:55.323986</lastModified>
+   <dateCreated>2020-01-06 09:31:29.713413</dateCreated>
+   <lastModified>2020-01-06 09:31:29.713413</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="50">
@@ -16,7 +16,7 @@
 		<row row_number="2" isdata="1">המוליך פירות שביעית ממקום שכלו</row>
 		<row row_number="3" isdata="1">למקום שלא כלו או ממקום שלא כלו למקום</row>
 		<row row_number="4" isdata="1">שכלו חייב לבער ר' יהודה אומר צא והבא</row>
-		<row row_number="5" isdata="1">לך אף אתה<EndMishna/><StartGemara/>גמ' מאי איריא ערבי פסחים</row>
+		<row row_number="5" isdata="1">לך אף אתה:<EndMishna/><StartGemara/>גמ' מאי איריא ערבי פסחים</row>
 		<row row_number="6" isdata="1">אפילו ערבי שבתות וערבי ימים טובים נמי</row>
 		<row row_number="7" isdata="1">דתניא העושה מלאכה בערבי שבתות</row>
 		<row row_number="8" isdata="1">וימים טובים מן המנחה ולמעלה אינו רואה</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">ולמעלה ובמוצאי שבת ובמוצאי יו"ט</row>
 		<row row_number="16" isdata="1">ובמוצאי יום הכפורים ובכל מקום שיש שם</row>
 		<row row_number="17" isdata="1">נידנוד עבירה לאתויי תענית ציבור אינו</row>
-		<row row_number="18" isdata="1">רואה סימן ברכה לעולם ת"ר יש זריז</row>
+		<row row_number="18" isdata="1">רואה סימן ברכה לעולם: ת"ר יש זריז</row>
 		<row row_number="19" isdata="1">ונשכר ויש זריז ונפסד יש שפל ונשכר ויש</row>
 		<row row_number="20" isdata="1">שפל ונפסד זריז ונשכר דעביד כולי שבתא</row>
 		<row row_number="21" isdata="1">ולא עביד במעלי שבתא זריז ונפסד דעביד</row>
@@ -46,25 +46,25 @@
 		<row row_number="32" isdata="1">בעושין שלא לשמה וכדרב יהודה דאמר</row>
 		<row row_number="33" isdata="1">רב יהודה אמר רב לעולם יעסוק אדם</row>
 		<row row_number="34" isdata="1">בתורה ומצות אף על פי שלא לשמה</row>
-		<row row_number="35" isdata="1">שמתוך שלא לשמה בא לשמה תנו רבנן</row>
+		<row row_number="35" isdata="1">שמתוך שלא לשמה בא לשמה: תנו רבנן</row>
 		<row row_number="36" isdata="1">המצפה לשכר אשתו וריחים אינו רואה סימן ברכה לעולם שכר אשתו</row>
 		<row row_number="37" isdata="1">מתקולתא ריחייא אגרתא אבל עבדה ומזבנה אישתבוחי משתבח בה</row>
-		<row row_number="38" isdata="1">קרא דכתיב סדין עשתה ותמכור ת"ר המשתכר בקנים ובקנקנים</row>
+		<row row_number="38" isdata="1">קרא דכתיב סדין עשתה ותמכור: ת"ר המשתכר בקנים ובקנקנים</row>
 		<row row_number="39" isdata="1">אינו רואה סימן ברכה לעולם מאי טעמא כיון דנפיש אפחזייהו שלטא</row>
-		<row row_number="40" isdata="1">בהו עינא תנו רבנן תגרי סימטא ומגדלי בהמה דקה וקוצצי אילנות</row>
+		<row row_number="40" isdata="1">בהו עינא: תנו רבנן תגרי סימטא ומגדלי בהמה דקה וקוצצי אילנות</row>
 		<row row_number="41" isdata="1">טובות ונותנין עיניהן בחלק יפה אינו רואה סימן ברכה לעולם מאי טעמא</row>
-		<row row_number="42" isdata="1">דתהו ביה אינשי ת"ר ד' פרוטות אין בהן סימן ברכה לעולם שכר כותבין</row>
+		<row row_number="42" isdata="1">דתהו ביה אינשי: ת"ר ד' פרוטות אין בהן סימן ברכה לעולם שכר כותבין</row>
 		<row row_number="43" isdata="1">ושכר מתורגמנין ושכר יתומים ומעות הבאות ממדינת הים בשלמא שכר</row>
 		<row row_number="44" isdata="1">מתורגמנין משום דמיחזי כשכר שבת ומעות יתומים נמי לאו בני מחילה</row>
 		<row row_number="45" isdata="1">נינהו מעות הבאות ממדינת הים משום דלאו כל יומא מתרחיש ניסא אלא</row>
 		<row row_number="46" isdata="1">שכר כותבין מאי טעמא א"ר יהושע בן לוי כ"ד תעניות ישבו אנשי כנסת</row>
 		<row row_number="47" isdata="1">הגדולה על כותבי ספרים תפילין ומזוזות שלא יתעשרו שאילמלי מתעשרין</row>
-		<row row_number="48" isdata="1">אין כותבין ת"ר כותבי ספרים תפילין ומזוזות הן ותגריהן ותגרי תגריהן וכל</row>
+		<row row_number="48" isdata="1">אין כותבין: ת"ר כותבי ספרים תפילין ומזוזות הן ותגריהן ותגרי תגריהן וכל</row>
 		<row row_number="49" isdata="1">העוסקין במלאכת שמים לאיתויי מוכרי תכלת אינן רואין סימן ברכה לעולם</row>
-		<row row_number="50" isdata="1">ואם עוסקין לשמה רואין בני ביישן   נהוג דלא הוו אזלין מצור לצידון</row>
+		<row row_number="50" isdata="1">ואם עוסקין לשמה רואין: בני ביישן   נהוג דלא הוו אזלין מצור לצידון</row>
 		<row row_number="51" isdata="1">במעלי שבתא אתו בנייהו קמיה דר' יוחנן אמרו לו אבהתין אפשר להו</row>
 		<row row_number="52" isdata="1">אנן לא אפשר לן אמר להו כבר קיבלו אבותיכם עליהם שנאמר שמע בני</row>
-		<row row_number="53" isdata="1">מוסר אביך ואל תטוש תורת אמך בני חוזאי נהגי דמפרשי חלה מארוזא</row>
+		<row row_number="53" isdata="1">מוסר אביך ואל תטוש תורת אמך: בני חוזאי נהגי דמפרשי חלה מארוזא</row>
 		<row row_number="54" isdata="1">אתו ואמרו ליה לרב יוסף אמר להו ניכלה זר באפייהו איתיביה אביי דברים המותרים ואחרים נהגו בהן איסור</row>
 </amud>
 </daf>

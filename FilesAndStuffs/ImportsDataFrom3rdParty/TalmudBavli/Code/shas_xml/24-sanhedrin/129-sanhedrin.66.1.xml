@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:26.286798</dateCreated>
-   <lastModified>2019-12-21 21:42:26.286798</lastModified>
+   <dateCreated>2020-01-06 09:34:10.675193</dateCreated>
+   <lastModified>2020-01-06 09:34:10.675193</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="66">
@@ -15,15 +15,15 @@
 		<row row_number="1" isdata="1"><ContChapter name = "ארבע מיתות"/><ContGemara/>אל תתחיל בי שחרית הוא ראש חודש הוא</row>
 		<row row_number="2" isdata="1">מוצאי שבת הוא תנו רבנן לא תנחשו ולא</row>
 		<row row_number="3" isdata="1">תעוננו כגון אלו המנחשים בחולדה</row>
-		<row row_number="4" isdata="1">בעופות ובדגיםמתני' המחלל את</row>
+		<row row_number="4" isdata="1">בעופות ובדגים<EndGemara/><StartMishna/>מתני' המחלל את</row>
 		<row row_number="5" isdata="1">השבת בדבר שחייבין על זדונו כרת ועל</row>
-		<row row_number="6" isdata="1">שגגתו חטאת<EndMishna/><StartGemara/>גמ' מכלל דאיכא מידי</row>
+		<row row_number="6" isdata="1">שגגתו חטאת:<EndMishna/><StartGemara/>גמ' מכלל דאיכא מידי</row>
 		<row row_number="7" isdata="1">דחילול שבת הוי ואין חייבין לא על שגגתו</row>
 		<row row_number="8" isdata="1">חטאת ולא על זדונו כרת מאי היא תחומין</row>
 		<row row_number="9" isdata="1">ואליבא דרבי עקיבא הבערה ואליבא דר'</row>
-		<row row_number="10" isdata="1">יוסימתני' המקלל אביו ואמו אינו חייב</row>
+		<row row_number="10" isdata="1">יוסי<EndGemara/><StartMishna/>מתני' המקלל אביו ואמו אינו חייב</row>
 		<row row_number="11" isdata="1">עד שיקללם בשם קללם בכנוי ר' מאיר</row>
-		<row row_number="12" isdata="1">מחייב וחכמים פוטרין<EndMishna/><StartGemara/>גמ' מאן חכמים</row>
+		<row row_number="12" isdata="1">מחייב וחכמים פוטרין:<EndMishna/><StartGemara/>גמ' מאן חכמים</row>
 		<row row_number="13" isdata="1">ר' מנחם בר' יוסי הוא דתניא ר' מנחם בר'</row>
 		<row row_number="14" isdata="1">יוסי אומר בנקבו שם יומת מה ת"ל שם</row>
 		<row row_number="15" isdata="1">לימד על מקלל אביו ואמו שאינו חייב עד</row>

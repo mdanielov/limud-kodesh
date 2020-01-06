@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.172453</dateCreated>
-   <lastModified>2019-12-21 21:42:34.172453</lastModified>
+   <dateCreated>2020-01-06 09:34:47.135024</dateCreated>
+   <lastModified>2020-01-06 09:34:47.135024</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="65">
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">כשפים ויודעים שבעים לשון שלא תהא</row>
 		<row row_number="8" isdata="1">סנהדרין שומעת מפי התורגמן אלא דהוה</row>
 		<row row_number="9" isdata="1">בייל לישני ודריש והיינו דכתיב במרדכי</row>
-		<row row_number="10" isdata="1">בלשןמתני' כיצד הן עושין שלוחי</row>
+		<row row_number="10" isdata="1">בלשן<EndGemara/><StartMishna/>מתני' כיצד הן עושין שלוחי</row>
 		<row row_number="11" isdata="1">בית דין יוצאין מערב יום טוב ועושין אותן</row>
 		<row row_number="12" isdata="1">כריכות במחובר לקרקע כדי שיהא נוח לקצור</row>
 		<row row_number="13" isdata="1">כל העיירות הסמוכות לשם מתכנסות לשם</row>
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">אקצור והם אומרים לו קצור שלש פעמים</row>
 		<row row_number="21" isdata="1">על כל דבר ודבר והן אומרים לו הין הין</row>
 		<row row_number="22" isdata="1">הין כל כך למה (לי) מפני הבייתוסים שהיו</row>
-		<row row_number="23" isdata="1">אומרים אין קצירת העומר במוצאי יו"ט</row>
+		<row row_number="23" isdata="1">אומרים אין קצירת העומר במוצאי יו"ט:</row>
 		<row row_number="24" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר אלין יומיא דלא להתענאה בהון</row>
 		<row row_number="25" isdata="1">ומקצתהון דלא למספד בהון מריש ירחא</row>
 		<row row_number="26" isdata="1">דניסן עד תמניא ביה איתוקם תמידא דלא</row>

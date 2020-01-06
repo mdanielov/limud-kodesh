@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.049649</dateCreated>
-   <lastModified>2019-12-21 21:42:39.049649</lastModified>
+   <dateCreated>2020-01-06 09:35:09.063753</dateCreated>
+   <lastModified>2020-01-06 09:35:09.063753</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="34">
@@ -38,9 +38,9 @@
 		<row row_number="24" isdata="1">ושמואל אמר הלכה כר"ש אלא ר"ש דברייתא</row>
 		<row row_number="25" isdata="1">ורב שישא בריה דרב אידי מתני לה בהדיא</row>
 		<row row_number="26" isdata="1">אמר רב יהודה אמר שמואל הלכה כר"ש</row>
-		<row row_number="27" isdata="1">דברייתאמתני' הצורם אוזן בבכור הרי</row>
+		<row row_number="27" isdata="1">דברייתא<EndGemara/><StartMishna/>מתני' הצורם אוזן בבכור הרי</row>
 		<row row_number="28" isdata="1">זה לא ישחוט עולמית דברי רבי אליעזר וחכמים אומרים נולד בו מום אחר</row>
-		<row row_number="29" isdata="1">ישחוט עליו<EndMishna/><StartGemara/>גמ' ומי קניס רבי אליעזר לעולם ורמינהי מי שהיתה לו בהרת</row>
+		<row row_number="29" isdata="1">ישחוט עליו:<EndMishna/><StartGemara/>גמ' ומי קניס רבי אליעזר לעולם ורמינהי מי שהיתה לו בהרת</row>
 </amud>
 </daf>
 </masechet>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.589754</dateCreated>
-   <lastModified>2019-12-21 21:42:00.589754</lastModified>
+   <dateCreated>2020-01-06 09:32:05.705152</dateCreated>
+   <lastModified>2020-01-06 09:32:05.705152</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="36">
@@ -18,7 +18,7 @@
 		<row row_number="4" isdata="1">בימות החמה ובימות הגשמים בחמה מפני</row>
 		<row row_number="5" isdata="1">החמה ובגשמים מפני הגשמים קתני ביומי</row>
 		<row row_number="6" isdata="1">ניסן וביומי תשרי דאיכא חמה ואיכא גשמים</row>
-		<row row_number="7" isdata="1">ואיכא דבש ונותנין כלי תחת הדלף בשבת</row>
+		<row row_number="7" isdata="1">ואיכא דבש: ונותנין כלי תחת הדלף בשבת:</row>
 		<row row_number="8" isdata="1">תנא אם נתמלא הכלי שופך ושונה ואינו</row>
 		<row row_number="9" isdata="1">נמנע בי רחיא דאביי דלוף אתא לקמיה</row>
 		<row row_number="10" isdata="1">דרבה אמר ליה זיל עייליה לפוריך להתם</row>
@@ -31,7 +31,7 @@
 		<row row_number="17" isdata="1">מינה גרף של רעי אגב מנא אין בפני עצמו</row>
 		<row row_number="18" isdata="1">לא ת"ש דההוא עכברתא דאשתכח בי</row>
 		<row row_number="19" isdata="1">אספרמקי דרב אשי אמר להו רב אשי</row>
-		<row row_number="20" isdata="1">נקטה בצוציתה ואפקוהמתני' כל</row>
+		<row row_number="20" isdata="1">נקטה בצוציתה ואפקוה<EndGemara/><StartMishna/>מתני' כל</row>
 		<row row_number="21" isdata="1">שחייבין עליו משום שבות משום רשות משום</row>
 		<row row_number="22" isdata="1">מצוה בשבת חייבין עליו ביו"ט ואלו הן משום</row>
 		<row row_number="23" isdata="1">שבות לא עולין באילן ולא רוכבין על גבי</row>
@@ -42,16 +42,16 @@
 		<row row_number="28" isdata="1">מקדישין ולא מעריכין ולא מחרימין ולא</row>
 		<row row_number="29" isdata="1">מגביהין תרומה ומעשר כל אלו ביו"ט אמרו</row>
 		<row row_number="30" isdata="1">קל וחומר בשבת אין בין יו"ט לשבת אלא</row>
-		<row row_number="31" isdata="1">אוכל נפש בלבד<EndMishna/><StartGemara/>גמ' לא עולין באילן</row>
+		<row row_number="31" isdata="1">אוכל נפש בלבד:<EndMishna/><StartGemara/>גמ' לא עולין באילן</row>
 		<row row_number="32" isdata="1">גזרה שמא יתלוש ולא רוכבין על גבי בהמה</row>
 		<row row_number="33" isdata="1">גזרה שמא יצא חוץ לתחום שמע מינה</row>
 		<row row_number="34" isdata="1">תחומין דאורייתא אלא גזרה שמא יחתוך</row>
 		<row row_number="35" isdata="1">זמורה ולא שטין על פני המים גזרה שמא</row>
-		<row row_number="36" isdata="1">יעשה חבית של שייטין ולא מטפחין ולא</row>
-		<row row_number="37" isdata="1">מספקין ולא מרקדין גזרה שמא יתקן כלי</row>
-		<row row_number="38" isdata="1">שיר ואלו הן משום רשות לא דנין והא</row>
-		<row row_number="39" isdata="1">מצוה קעביד לא צריכא דאיכא דעדיף מיניה</row>
-		<row row_number="40" isdata="1">ולא מקדשין והא מצוה קעביד לא צריכא</row>
+		<row row_number="36" isdata="1">יעשה חבית של שייטין: ולא מטפחין ולא</row>
+		<row row_number="37" isdata="1">מספקין ולא מרקדין: גזרה שמא יתקן כלי</row>
+		<row row_number="38" isdata="1">שיר: ואלו הן משום רשות לא דנין: והא</row>
+		<row row_number="39" isdata="1">מצוה קעביד לא צריכא דאיכא דעדיף מיניה:</row>
+		<row row_number="40" isdata="1">ולא מקדשין: והא מצוה קעביד לא צריכא</row>
 </amud>
 </daf>
 </masechet>

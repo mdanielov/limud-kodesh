@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.061314</dateCreated>
-   <lastModified>2019-12-21 21:42:35.061314</lastModified>
+   <dateCreated>2020-01-06 09:34:51.374033</dateCreated>
+   <lastModified>2020-01-06 09:34:51.374033</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="110">
@@ -46,11 +46,11 @@
 		<row row_number="32" isdata="1">אמר רבא כל העוסק בתורה אינו צריך לא עולה (ולא חטאת) ולא מנחה</row>
 		<row row_number="33" isdata="1">ולא אשם אמר רבי יצחק מאי דכתיב זאת תורת החטאת וזאת תורת</row>
 		<row row_number="34" isdata="1">האשם כל העוסק בתורת חטאת כאילו הקריב חטאת וכל העוסק בתורת</row>
-		<row row_number="35" isdata="1">אשם כאילו הקריב אשםמתני' נאמר בעולת בהמה אשה ריח ניחוח</row>
+		<row row_number="35" isdata="1">אשם כאילו הקריב אשם<EndGemara/><StartMishna/>מתני' נאמר בעולת בהמה אשה ריח ניחוח</row>
 		<row row_number="36" isdata="1">ובעולת עוף אשה ריח ניחוח ובמנחה אשה ריח ניחוח לומר לך אחד</row>
-		<row row_number="37" isdata="1">המרבה ואחד הממעיט ובלבד שיכוין לבו לשמים<EndMishna/><StartGemara/>גמ' אמר ר' זירא מאי</row>
+		<row row_number="37" isdata="1">המרבה ואחד הממעיט ובלבד שיכוין לבו לשמים:<EndMishna/><StartGemara/>גמ' אמר ר' זירא מאי</row>
 		<row row_number="38" isdata="1">קראה מתוקה שנת העובד אם מעט ואם הרבה יאכל רב אדא בר אהבה אמר מהכא ברבות הטובה</row>
-		<row row_number="39" isdata="1">רבו אוכליה ומה כשרון לבעליו תניא אמר רבי שמעון בן עזאי בוא וראה מה כתיב בפרשת קרבנות</row>
+		<row row_number="39" isdata="1">רבו אוכליה ומה כשרון לבעליו: תניא אמר רבי שמעון בן עזאי בוא וראה מה כתיב בפרשת קרבנות</row>
 		<row row_number="40" isdata="1">שלא נאמר בהן לא אל ולא אלהים אלא ה' שלא ליתן פתחון פה לבעל דין לחלוק ונאמר בשור הגס</row>
 		<row row_number="41" isdata="1">אשה ריח ניחוח ובעוף הדק אשה ריח ניחוח ובמנחה אשה ריח ניחוח לומר לך אחד המרבה ואחד</row>
 		<row row_number="42" isdata="1">הממעיט ובלבד שיכוין את לבו לשמים ושמא תאמר לאכילה הוא צריך ת"ל אם ארעב לא אומר</row>
@@ -59,7 +59,7 @@
 		<row row_number="45" isdata="1">ויעשה רצוני לא לרצוני אתם זובחים אלא לרצונכם אתם זובחים שנאמר לרצונכם תזבחהו דבר אחר</row>
 		<row row_number="46" isdata="1">לרצונכם תזבחהו לרצונכם זבחו לדעתכם זבחו כדבעא מיניה שמואל מרב הונא מנין למתעסק</row>
 		<row row_number="47" isdata="1">בקדשים שהוא פסול שנאמר ושחט את בן הבקר שתהא שחיטה לשם בן בקר אמר לו זו בידינו</row>
-		<row row_number="48" isdata="1">הוא לעכב מנין ת"ל לרצונכם תזבחהו לדעתכם זבחו<EndChapter name = "הרי עלי עשרון "/><EndGemara/></row>
+		<row row_number="48" isdata="1">הוא לעכב מנין ת"ל לרצונכם תזבחהו לדעתכם זבחו:<EndChapter name = "הרי עלי עשרון "/><EndGemara/></row>
 		<row row_number="49" isdata="0">הדרן עלך הרי עלי עשרון וסליקא לה מסכת מנחות</row>
 </amud>
 </daf>

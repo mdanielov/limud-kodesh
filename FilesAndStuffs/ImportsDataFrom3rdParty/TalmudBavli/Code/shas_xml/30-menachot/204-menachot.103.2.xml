@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.910257</dateCreated>
-   <lastModified>2019-12-21 21:42:34.910257</lastModified>
+   <dateCreated>2020-01-06 09:34:50.740029</dateCreated>
+   <lastModified>2020-01-06 09:34:50.740029</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="103">
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">עשרון אחרינא אי הכי רבי שמעון פוטר שלא</row>
 		<row row_number="16" isdata="1">התנדב כדרך המתנדבין אמאי אמר רבא ר'</row>
 		<row row_number="17" isdata="1">שמעון בשיטת ר' יוסי אמרה דאמר [אף]</row>
-		<row row_number="18" isdata="1">בגמר דבריו אדם מתפיסמתני' מתנדב</row>
+		<row row_number="18" isdata="1">בגמר דבריו אדם מתפיס<EndGemara/><StartMishna/>מתני' מתנדב</row>
 		<row row_number="19" isdata="1">אדם מנחה של ששים עשרון ומביא בכלי</row>
 		<row row_number="20" isdata="1">אחד (אם אמר הרי עלי ששים עשרון מביא</row>
 		<row row_number="21" isdata="1">בכלי אחד) אם אמר הרי עלי ס"א מביא</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">ששים נבללין וששים ואחד אין נבללין אמר</row>
 		<row row_number="29" isdata="1">להם כל מדות חכמים כן בארבעים סאה הוא</row>
 		<row row_number="30" isdata="1">טובל ובארבעים סאה חסר קרטוב אינו יכול</row>
-		<row row_number="31" isdata="1">לטבול בהן<EndMishna/><StartGemara/>גמ' שאיל שאילה למעלה</row>
+		<row row_number="31" isdata="1">לטבול בהן:<EndMishna/><StartGemara/>גמ' שאיל שאילה למעלה</row>
 		<row row_number="32" isdata="1">מרבי יהודה בר אילעאי מנין לאומר הרי עלי</row>
 		<row row_number="33" isdata="1">ששים ואחד מביא ששים בכלי אחד ואחד</row>
 		<row row_number="34" isdata="1">בכלי אחד פתח רבי יהודה בר אילעאי ראש</row>

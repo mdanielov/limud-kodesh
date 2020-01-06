@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:15.959443</dateCreated>
-   <lastModified>2019-12-21 21:42:15.959443</lastModified>
+   <dateCreated>2020-01-06 09:33:23.414838</dateCreated>
+   <lastModified>2020-01-06 09:33:23.414838</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="34">
@@ -17,7 +17,7 @@
 		<row row_number="3" isdata="1">לא גבה לא לעולם אימא לך מה שגבה</row>
 		<row row_number="4" isdata="1">גבה ושאני התם דא"ל אילו גבך הוה לא</row>
 		<row row_number="5" isdata="1">מינך הוה גבי ליה דהאי תורא דאזקן מיניה</row>
-		<row row_number="6" isdata="1">משתלמנא ת"ר שור שוה מאתים שנגח</row>
+		<row row_number="6" isdata="1">משתלמנא: ת"ר שור שוה מאתים שנגח</row>
 		<row row_number="7" isdata="1">שור שוה מאתים וחבל בו בחמשים זוז</row>
 		<row row_number="8" isdata="1">ושבח ועמד על ארבע מאות זוז שאלמלא</row>
 		<row row_number="9" isdata="1">(לא) הזיקו היה עומד על שמנה מאות</row>
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">אילימא דכחשא מחמת מלאכה לימא ליה</row>
 		<row row_number="27" isdata="1">את מכחשת ואנא יהיבנא אמר רב אשי</row>
 		<row row_number="28" isdata="1">דכחש מחמת מכה דא"ל קרנא דתורך</row>
-		<row row_number="29" isdata="1">קבירא ביהמתני' שור שוה מאתים</row>
+		<row row_number="29" isdata="1">קבירא ביה<EndGemara/><StartMishna/>מתני' שור שוה מאתים</row>
 		<row row_number="30" isdata="1">שנגח שור שוה מאתים ואין הנבילה יפה</row>
 		<row row_number="31" isdata="1">כלום אמר ר"מ על זה נאמר ומכרו את</row>
 		<row row_number="32" isdata="1">השור החי וחצו את כספו א"ל רבי יהודה וכן</row>
@@ -48,7 +48,7 @@
 		<row row_number="34" isdata="1">כספו ולא קיימת וגם המת יחצון ואיזה זה</row>
 		<row row_number="35" isdata="1">שור שוה מאתים שנגח שור שוה מאתים</row>
 		<row row_number="36" isdata="1">והנבילה יפה חמשים זוז שזה נוטל חצי החי</row>
-		<row row_number="37" isdata="1">וחצי המת וזה נוטל חצי החי וחצי המת</row>
+		<row row_number="37" isdata="1">וחצי המת וזה נוטל חצי החי וחצי המת:</row>
 		<row row_number="38" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר שור שוה מאתים שנגח שור שוה</row>
 		<row row_number="39" isdata="1">מאתים והנבילה יפה חמשים זוז זה נוטל חצי</row>
 		<row row_number="40" isdata="1">החי וחצי המת וזה נוטל חצי החי וחצי המת</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:30.911184</dateCreated>
-   <lastModified>2019-12-21 21:42:30.911184</lastModified>
+   <dateCreated>2020-01-06 09:34:32.908000</dateCreated>
+   <lastModified>2020-01-06 09:34:32.908000</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="31">
@@ -21,8 +21,8 @@
 		<row row_number="7" isdata="1">שאין אכילה והקטרה מצטרפין טעמא דלאכול</row>
 		<row row_number="8" isdata="1">ולהקטיר הא לאכול ולאכול מצטרף והא</row>
 		<row row_number="9" isdata="1">הקטרה ביותר מכדי אכילת פרס הוא דלמא</row>
-		<row row_number="10" isdata="1">בהיסק גדול לאכול כחצי זית ולהקטיר כחצי</row>
-		<row row_number="11" isdata="1">זית כשר  טעמא דלאכול ולהקטיר הא</row>
+		<row row_number="10" isdata="1">בהיסק גדול: לאכול כחצי זית ולהקטיר כחצי</row>
+		<row row_number="11" isdata="1">זית כשר : טעמא דלאכול ולהקטיר הא</row>
 		<row row_number="12" isdata="1">לאכול ולאכול דבר שאין דרכו לאכול</row>
 		<row row_number="13" isdata="1">מצטרף הא קתני רישא לאכול את שדרכו</row>
 		<row row_number="14" isdata="1">לאכול (מצטרף) את שדרכו לאכול אין</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">ולהקטיר איצטריך ס"ד אמינא התם הוא דלאו</row>
 		<row row_number="32" isdata="1">כי אורחיה קא מחשב אבל הכא דבהאי כי</row>
 		<row row_number="33" isdata="1">אורחיה ובהאי כי אורחיה אימא ליצטרף קא</row>
-		<row row_number="34" isdata="1">משמע לן<EndChapter name = "כל הזבחים שקבלו דמן"/><EndGemara/></row>
+		<row row_number="34" isdata="1">משמע לן:<EndChapter name = "כל הזבחים שקבלו דמן"/><EndGemara/></row>
 		<row row_number="35" isdata="0">הדרן עלך כל הזבחים שקבלו דמן</row>
 		<row row_number="36" isdata="1"><StartChapter name = "כל הפסולין"/><StartMishna/>כל הפסולין ששחטו שחיטתן כשרה</row>
 		<row row_number="37" isdata="1">שהשחיטה כשרה בזרים ובנשים</row>

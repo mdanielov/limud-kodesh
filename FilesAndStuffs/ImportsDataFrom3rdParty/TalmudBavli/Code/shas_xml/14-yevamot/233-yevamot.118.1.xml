@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.305714</dateCreated>
-   <lastModified>2019-12-21 21:42:05.305714</lastModified>
+   <dateCreated>2020-01-06 09:32:32.772490</dateCreated>
+   <lastModified>2020-01-06 09:32:32.772490</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="118">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "האשה שלום"/><ContGemara/>אשה אומרת מת ואשה אומרת לא מת הרי</row>
-		<row row_number="2" isdata="1">זו לא תנשא<EndMishna/><StartGemara/>גמ' טעמא דאמרה לא מת</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האשה שלום"/><ContMishna/>אשה אומרת מת ואשה אומרת לא מת הרי</row>
+		<row row_number="2" isdata="1">זו לא תנשא:<EndMishna/><StartGemara/>גמ' טעמא דאמרה לא מת</row>
 		<row row_number="3" isdata="1">הא אישתיקא תנשא הא אין צרה מעידה</row>
 		<row row_number="4" isdata="1">לחברתה לא מת איצטריכא ליה סד"א הא</row>
 		<row row_number="5" isdata="1">מיית והא דקאמרה לא מת לקלקולה לצרה</row>
 		<row row_number="6" isdata="1">היא דקמיכוונא ותמות נפשה עם פלשתים</row>
-		<row row_number="7" isdata="1">קאמרה קמשמע לן אחת אומרת מת כו'</row>
+		<row row_number="7" isdata="1">קאמרה קמשמע לן: אחת אומרת מת כו':</row>
 		<row row_number="8" isdata="1">וליפלוג רבי מאיר ברישא אמר רבי אלעזר</row>
 		<row row_number="9" isdata="1">במחלוקת שנויה ורבי יהודה ורבי שמעון</row>
 		<row row_number="10" isdata="1">היא ורבי יוחנן אמר אפילו תימא רבי מאיר</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">מת ועד אומר לא מת אשה אומרת מת ואשה</row>
 		<row row_number="14" isdata="1">אומרת לא מת הרי זו לא תנשא בשלמא</row>
 		<row row_number="15" isdata="1">לרבי אלעזר סתמא כר' מאיר אלא לרבי</row>
-		<row row_number="16" isdata="1">יוחנן קשיא קשיאמתני' האשה</row>
+		<row row_number="16" isdata="1">יוחנן קשיא קשיא<EndGemara/><StartMishna/>מתני' האשה</row>
 		<row row_number="17" isdata="1">שהלכה היא ובעלה למדינת הים ובאה</row>
 		<row row_number="18" isdata="1">ואמרה מת בעלי תנשא ותטול כתובתה</row>
 		<row row_number="19" isdata="1">וצרתה אסורה היתה בת ישראל לכהן</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">היתה בת ישראל לכהן תאכל בתרומה דברי</row>
 		<row row_number="26" isdata="1">רבי טרפון רבי עקיבא אומר אין זו דרך</row>
 		<row row_number="27" isdata="1">מוציאה מידי עבירה עד שתהא אסורה לינשא</row>
-		<row row_number="28" isdata="1">ואסורה מלאכול בתרומה<EndMishna/><StartGemara/>גמ' וצריכא</row>
+		<row row_number="28" isdata="1">ואסורה מלאכול בתרומה:<EndMishna/><StartGemara/>גמ' וצריכא</row>
 		<row row_number="29" isdata="1">דאי איתמר הך קמייתא בהא קא"ר טרפון</row>
 		<row row_number="30" isdata="1">משום דצערא דגופה אבל חמותה דצערא</row>
 		<row row_number="31" isdata="1">מילי דעלמא אימא מודי ליה לרבי עקיבא</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">בן במדינת הים מת בני ואח"כ בעלי נאמנת</row>
 		<row row_number="37" isdata="1">בעלי ואחר כך בני אינה נאמנת וחוששין</row>
 		<row row_number="38" isdata="1">לדבריה וחולצת ולא מתייבמת לדבריה הוא</row>
-		<row row_number="39" isdata="1">דחוששין הא לדברי צרה אין חוששין ש"מ</row>
+		<row row_number="39" isdata="1">דחוששין הא לדברי צרה אין חוששין ש"מ:</row>
 </amud>
 </daf>
 </masechet>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.455284</dateCreated>
-   <lastModified>2019-12-21 21:42:41.455284</lastModified>
+   <dateCreated>2020-01-06 09:35:24.092487</dateCreated>
+   <lastModified>2020-01-06 09:35:24.092487</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="16">
@@ -52,10 +52,10 @@
 		<row row_number="38" isdata="1">קמיפלגי רשב"ג סבר אשה טהורה ודם טמא</row>
 		<row row_number="39" isdata="1">דקאתי דרך מקור ואמר ליה רבי אי חיישת</row>
 		<row row_number="40" isdata="1">לוסת אשה נמי טמאה ואי לא חיישת לוסת</row>
-		<row row_number="41" isdata="1">מקור מקומו טהור הואמתני' בית שמאי</row>
+		<row row_number="41" isdata="1">מקור מקומו טהור הוא<EndGemara/><StartMishna/>מתני' בית שמאי</row>
 		<row row_number="42" isdata="1">אומרים צריכה ב' עדים על כל תשמיש</row>
 		<row row_number="43" isdata="1">ותשמיש או תשמש לאור הנר בית הלל</row>
-		<row row_number="44" isdata="1">אומרים דיה בשני עדים כל הלילה</row>
+		<row row_number="44" isdata="1">אומרים דיה בשני עדים כל הלילה:</row>
 </amud>
 </daf>
 </masechet>

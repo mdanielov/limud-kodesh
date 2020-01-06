@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:24.714009</dateCreated>
-   <lastModified>2019-12-21 21:42:24.714009</lastModified>
+   <dateCreated>2020-01-06 09:34:03.470531</dateCreated>
+   <lastModified>2020-01-06 09:34:03.470531</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="168">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>ופלוני ופלוני עדיוגמ' ת"ר איזהו קיומוופלוני ופלוני עדיו<EndMishna/><StartGemara/></row>
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContMishna/>ופלוני ופלוני עדיו:גמ' ת"ר איזהו קיומוופלוני ופלוני עדיו:<EndMishna/><StartGemara/></row>
 		<row row_number="2" isdata="1">במותב תלתא הוינא אנו פלוני ופלוני</row>
 		<row row_number="3" isdata="1">ופלוני הוציא פלוני בן פלוני שטר מחוק לפנינו</row>
 		<row row_number="4" isdata="1">ביום פלוני ופלוני ופלוני עדיו ואם כתוב בו</row>

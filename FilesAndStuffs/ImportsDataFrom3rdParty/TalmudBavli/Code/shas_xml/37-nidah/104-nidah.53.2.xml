@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.208288</dateCreated>
-   <lastModified>2019-12-21 21:42:42.208288</lastModified>
+   <dateCreated>2020-01-06 09:35:27.669593</dateCreated>
+   <lastModified>2020-01-06 09:35:27.669593</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="53">
@@ -37,18 +37,18 @@
 		<row row_number="23" isdata="1">דכתמים צריכין הפסקת טהרה א"ל אין והא</row>
 		<row row_number="24" isdata="1">זימנין סגיאין בעא מינך ולא אמרת ולא מידי</row>
 		<row row_number="25" isdata="1">דלמא אגב שיטפך אתיא לך א"ל אין</row>
-		<row row_number="26" isdata="1">אגב שיטפאי אתיא לימתני' הרואה יום</row>
+		<row row_number="26" isdata="1">אגב שיטפאי אתיא לי<EndGemara/><StartMishna/>מתני' הרואה יום</row>
 		<row row_number="27" isdata="1">י"א בין השמשות תחלת נדה וסוף נדה</row>
 		<row row_number="28" isdata="1">תחלת זיבה וסוף זיבה יום ארבעים</row>
 		<row row_number="29" isdata="1">לזכר ויום שמונים לנקבה בין השמשות</row>
 		<row row_number="30" isdata="1">לכולן הרי אלו טועות א"ר יהושע עד</row>
 		<row row_number="31" isdata="1">שאתם מתקנים את השוטות באו ותקנו</row>
-		<row row_number="32" isdata="1">את הפקחות<EndMishna/><StartGemara/>גמ' תחלת נדה וסוף נדה</row>
+		<row row_number="32" isdata="1">את הפקחות:<EndMishna/><StartGemara/>גמ' תחלת נדה וסוף נדה</row>
 		<row row_number="33" isdata="1">תחלת נדה וסוף זיבה היא אמר רב חסדא</row>
 		<row row_number="34" isdata="1">הכי קאמר הרואה יום י"א בין השמשות</row>
 		<row row_number="35" isdata="1">תחילת נדה וסוף זיבה ובשביעי לנדתה</row>
-		<row row_number="36" isdata="1">סוף נדה ותחלת זיבה א"ר יהושע עד</row>
-		<row row_number="37" isdata="1">שאתם מתקנין את השוטות כו' הני</row>
+		<row row_number="36" isdata="1">סוף נדה ותחלת זיבה: א"ר יהושע עד</row>
+		<row row_number="37" isdata="1">שאתם מתקנין את השוטות כו': הני</row>
 </amud>
 </daf>
 </masechet>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:30.870183</dateCreated>
-   <lastModified>2019-12-21 21:42:30.870183</lastModified>
+   <dateCreated>2020-01-06 09:34:32.708543</dateCreated>
+   <lastModified>2020-01-06 09:34:32.708543</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="29">
@@ -26,7 +26,7 @@
 		<row row_number="12" isdata="1">אשתו של אדם מתה אא"כ מבקשין ממנו</row>
 		<row row_number="13" isdata="1">ממון ואין לו שנאמר אם אין לך לשלם למה</row>
 		<row row_number="14" isdata="1">יקח משכבך מתחתיך בהאי עון דבל תאחר</row>
-		<row row_number="15" isdata="1">נמי מתה קמ"ל אחרים אומרים במחשבה</row>
+		<row row_number="15" isdata="1">נמי מתה קמ"ל: אחרים אומרים במחשבה</row>
 		<row row_number="16" isdata="1">הוא נפסל ואינו נפסל בשלישי ורבי אליעזר</row>
 		<row row_number="17" isdata="1">לא יחשב מאי עביד ליה מיבעי ליה לכדרבי</row>
 		<row row_number="18" isdata="1">ינאי דאמר רבי ינאי מנין למחשבות שמוציאות</row>
@@ -36,7 +36,7 @@
 		<row row_number="22" isdata="1">א"ל רב אשי לרב מרי לאו שאין בו מעשה</row>
 		<row row_number="23" isdata="1">הוא וכל לאו שאין בו מעשה אין לוקין עליו</row>
 		<row row_number="24" isdata="1">אמר ליה רבי יהודה היא דאמר לאו שאין בו</row>
-		<row row_number="25" isdata="1">מעשה לוקין עליומתני' זה הכלל כל</row>
+		<row row_number="25" isdata="1">מעשה לוקין עליו<EndGemara/><StartMishna/>מתני' זה הכלל כל</row>
 		<row row_number="26" isdata="1">השוחט והמקבל והמהלך והזורק לאכול דבר</row>
 		<row row_number="27" isdata="1">שדרכו לאכול ולהקטיר דבר שדרכו להקטיר</row>
 		<row row_number="28" isdata="1">כזית חוץ למקומו פסול ואין בו כרת חוץ</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">שמחשבת הזמן קדמה למחשבת המקום פגול וחייבין עליו כרת ואם מחשבת</row>
 		<row row_number="44" isdata="1">המקום קדמה למחשבת הזמן פסול ואין בו כרת וחכמים אומרים זה וזה</row>
 		<row row_number="45" isdata="1">פסול ואין בו כרת לאכול כחצי זית להקטיר כחצי כזית כשר שאין אכילה</row>
-		<row row_number="46" isdata="1">והקטרה מצטרפין<EndMishna/><StartGemara/>גמ' אמר אילפא מחלוקת בשתי עבודות אבל</row>
+		<row row_number="46" isdata="1">והקטרה מצטרפין:<EndMishna/><StartGemara/>גמ' אמר אילפא מחלוקת בשתי עבודות אבל</row>
 		<row row_number="47" isdata="1">בעבודה אחת דברי הכל עירוב מחשבות הוי ורבי יוחנן אמר אף בעבודה</row>
 		<row row_number="48" isdata="1">אחת מחלוקת בשלמא לאילפא מדרישא בשתי עבודות סיפא נמי בשתי</row>
 		<row row_number="49" isdata="1">עבודות אלא לרבי יוחנן רישא בשתי עבודות וסיפא בעבודה אחת</row>

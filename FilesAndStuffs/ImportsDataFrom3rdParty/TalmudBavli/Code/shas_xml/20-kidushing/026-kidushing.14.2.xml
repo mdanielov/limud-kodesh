@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.932667</dateCreated>
-   <lastModified>2019-12-21 21:42:13.932667</lastModified>
+   <dateCreated>2020-01-06 09:33:13.903487</dateCreated>
+   <lastModified>2020-01-06 09:33:13.903487</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="14">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>למסולים שאין לו עקב אם כן ניכתוב קרא</row>
-		<row row_number="2" isdata="1">נעל מאי הנעל שמעת מינה תרתימתני'</row>
+		<row row_number="2" isdata="1">נעל מאי הנעל שמעת מינה תרתי<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="3" isdata="1">עבד עברי נקנה בכסף ובשטר וקונה עצמו</row>
 		<row row_number="4" isdata="1">בשנים וביובל ובגרעון כסף יתירה עליו</row>
 		<row row_number="5" isdata="1">אמה העבריה שקונה את עצמה בסימנין</row>
 		<row row_number="6" isdata="1">הנרצע נקנה ברציעה וקונה את עצמו ביובל</row>
-		<row row_number="7" isdata="1">ובמיתת האדון<EndMishna/><StartGemara/>גמ' עבד עברי נקנה בכסף</row>
+		<row row_number="7" isdata="1">ובמיתת האדון:<EndMishna/><StartGemara/>גמ' עבד עברי נקנה בכסף</row>
 		<row row_number="8" isdata="1">מנלן אמר קרא מכסף מקנתו מלמד שנקנה</row>
 		<row row_number="9" isdata="1">בכסף אשכחן עבד עברי הנמכר לעובד</row>
 		<row row_number="10" isdata="1">כוכבים הואיל וכל קנינו בכסף נמכר לישראל</row>

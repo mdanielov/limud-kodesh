@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:50.862305</dateCreated>
-   <lastModified>2019-12-21 21:41:50.862305</lastModified>
+   <dateCreated>2020-01-06 09:31:11.667671</dateCreated>
+   <lastModified>2020-01-06 09:31:11.667671</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="131">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "רבי אליעזר דמילה"/><ContGemara/>כל שעתא ושעתא זמניה הוא אלא אמר רב</row>
 		<row row_number="2" isdata="1">נחמן א"ר יצחק ואיתימא רב הונא בריה דרב</row>
-		<row row_number="3" isdata="1">יהושע הואיל ובידו להפקירן אמר מר</row>
+		<row row_number="3" isdata="1">יהושע הואיל ובידו להפקירן: אמר מר</row>
 		<row row_number="4" isdata="1">לולב וכל מכשיריו דוחין את השבת דברי</row>
 		<row row_number="5" isdata="1">ר"א מנא ליה לר"א הא אי מעומר ושתי</row>
 		<row row_number="6" isdata="1">הלחם שכן צורך גבוה אלא אמר קרא ביום</row>
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">להלן ימים ואפילו לילות אף כאן ימים ואפילו</row>
 		<row row_number="15" isdata="1">לילות קמ"ל וליכתוב רחמנא בלולב וניתו</row>
 		<row row_number="16" isdata="1">הנך ונילפו מיניה משום דאיכא למיפרך</row>
-		<row row_number="17" isdata="1">מה ללולב שכן טעון ארבעה מינים סוכה</row>
+		<row row_number="17" isdata="1">מה ללולב שכן טעון ארבעה מינים: סוכה</row>
 		<row row_number="18" isdata="1">וכל מכשיריה דוחין את השבת דברי רבי</row>
 		<row row_number="19" isdata="1">אליעזר מנא ליה לר"א הא אי מעומר ושתי</row>
 		<row row_number="20" isdata="1">הלחם שכן צורך גבוה הוא אי מלולב שכן</row>
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">אף כאן נמי מכשיריו דוחין את השבת</row>
 		<row row_number="24" isdata="1">וליכתוב רחמנא בסוכה וניתי הנך וניגמור</row>
 		<row row_number="25" isdata="1">מיניה משום דאיכא למיפרך מה לסוכה שכן</row>
-		<row row_number="26" isdata="1">נוהגת בלילות כבימים מצה וכל מכשיריה</row>
+		<row row_number="26" isdata="1">נוהגת בלילות כבימים: מצה וכל מכשיריה</row>
 		<row row_number="27" isdata="1">דוחין את השבת דברי ר"א מנא ליה לר"א</row>
 		<row row_number="28" isdata="1">הא אי מעומר ושתי הלחם שכן צורך גבוה</row>
 		<row row_number="29" isdata="1">אי מלולב שכן טעון ארבעה מינים אי מסוכה</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">דוחין את השבת וליכתוב רחמנא במצה</row>
 		<row row_number="34" isdata="1">וניתו הנך וליגמור מיניה משום דאיכא</row>
 		<row row_number="35" isdata="1">למיפרך מה למצה שכן נוהגת בנשים</row>
-		<row row_number="36" isdata="1">כבאנשים שופר וכל מכשיריו דוחין את</row>
+		<row row_number="36" isdata="1">כבאנשים: שופר וכל מכשיריו דוחין את</row>
 		<row row_number="37" isdata="1">השבת דברי ר"א מנא ליה לר"א הא אי</row>
 		<row row_number="38" isdata="1">מעומר ושתי הלחם שכן צורך גבוה אי</row>
 		<row row_number="39" isdata="1">מלולב שכן טעון ארבעה מינים אי מסוכה</row>
@@ -63,7 +63,7 @@
 		<row row_number="49" isdata="1">בשופר וליתו הנך וליגמרו מיניה מתקיעת שופר דראש השנה ליכא למיגמר</row>
 		<row row_number="50" isdata="1">שכן מכנסת זכרונות של ישראל לאביהן שבשמים מתקיעות [שופר] דיוה"כ</row>
 		<row row_number="51" isdata="1">ליכא למיגמרי דאמר מר תקעו ב"ד שופר נפטרו עבדים לבתיהם ושדות</row>
-		<row row_number="52" isdata="1">חוזרות לבעליהן (אמר מר) מילה וכל מכשיריה דוחין את השבת דברי</row>
+		<row row_number="52" isdata="1">חוזרות לבעליהן: (אמר מר) מילה וכל מכשיריה דוחין את השבת דברי</row>
 		<row row_number="53" isdata="1">רבי אליעזר מנא ליה לר"א הא אי מכולהו גמר כדאמרינן ועוד מה להנך</row>
 </amud>
 </daf>

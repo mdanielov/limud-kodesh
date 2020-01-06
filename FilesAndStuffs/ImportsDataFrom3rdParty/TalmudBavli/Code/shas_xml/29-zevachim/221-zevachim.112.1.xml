@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.664961</dateCreated>
-   <lastModified>2019-12-21 21:42:32.664961</lastModified>
+   <dateCreated>2020-01-06 09:34:40.373191</dateCreated>
+   <lastModified>2020-01-06 09:34:40.373191</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="112">
@@ -22,9 +22,9 @@
 		<row row_number="8" isdata="1">והאמר רבי נחמיה שירי הדם שהקריבן</row>
 		<row row_number="9" isdata="1">בחוץ חייב סיפא אתאן לתנא קמא</row>
 		<row row_number="10" isdata="1">דרבי אלעזר ברבי שמעון דאמר כוס</row>
-		<row row_number="11" isdata="1">עושה דחוי לחבירו למה הדבר דומה</row>
+		<row row_number="11" isdata="1">עושה דחוי לחבירו: למה הדבר דומה</row>
 		<row row_number="12" isdata="1">למפריש חטאתו ואבדה והפריש אחרת</row>
-		<row row_number="13" isdata="1">תחתיה ואחר כך נמצאת הראשונה</row>
+		<row row_number="13" isdata="1">תחתיה ואחר כך נמצאת הראשונה:</row>
 		<row row_number="14" isdata="1">למה הדבר דומה למה לי הא מני רבי</row>
 		<row row_number="15" isdata="1">היא דאמר אבודה בשעת הפרשה מתה</row>
 		<row row_number="16" isdata="1">והכי קאמר טעמא דאבדה הא הפריש</row>
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">רב הונא אמר רב אשם שניתק לרעייה</row>
 		<row row_number="20" isdata="1">ושחטו סתם כשר לעולה מי דמי התם</row>
 		<row row_number="21" isdata="1">אשם זכר ועולה זכר אבל חטאת נקבה</row>
-		<row row_number="22" isdata="1">היא א"ר חייא מיוסתיניא בשעיר נשיא<EndChapter name = "השוחט והמעלה"/><EndGemara/></row>
+		<row row_number="22" isdata="1">היא א"ר חייא מיוסתיניא בשעיר נשיא:<EndChapter name = "השוחט והמעלה"/><EndGemara/></row>
 		<row row_number="23" isdata="0">הדרן עלך השוחט והמעלה</row>
 		<row row_number="24" isdata="1"><StartChapter name = "פרת חטאת "/><StartMishna/>פרת חטאת ששרפה חוץ מגתה וכן</row>
 		<row row_number="25" isdata="1">שעיר המשתלח שהקריב בחוץ</row>

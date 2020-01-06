@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:20.039414</dateCreated>
-   <lastModified>2019-12-21 21:42:20.039414</lastModified>
+   <dateCreated>2020-01-06 09:33:41.002810</dateCreated>
+   <lastModified>2020-01-06 09:33:41.002810</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="98">
@@ -15,14 +15,14 @@
 		<row row_number="1" isdata="1"><ContChapter name = "השואל"/><ContGemara/>שואל חדא להד"מ וחדא אין דשאלה מתה</row>
 		<row row_number="2" isdata="1">ואידך לא ידענא אי דשכירות מתה ודקיימא</row>
 		<row row_number="3" isdata="1">דשאלה או דשאלה מתה ודקיימא דשכירות</row>
-		<row row_number="4" isdata="1">דמתוך שאינו יכול לישבע משלם זה אומר</row>
+		<row row_number="4" isdata="1">דמתוך שאינו יכול לישבע משלם: זה אומר</row>
 		<row row_number="5" isdata="1">שאולה וזה אומר שכורה ישבע השוכר</row>
-		<row row_number="6" isdata="1">ששכורה מתה ואמאי מה שטענו לא הודה</row>
+		<row row_number="6" isdata="1">ששכורה מתה: ואמאי מה שטענו לא הודה</row>
 		<row row_number="7" isdata="1">לו ומה שהודה לו לא טענו אמר עולא</row>
 		<row row_number="8" isdata="1">על ידי גלגול דא"ל אישתבע לי איזו מיהת</row>
 		<row row_number="9" isdata="1">דכדרכה מתה ומיגו דמישתבע דכדרכה</row>
-		<row row_number="10" isdata="1">מתה מישתבע נמי דשכורה מתה זה אומר</row>
-		<row row_number="11" isdata="1">איני יודע וזה אומר כו' הא מני סומכוס היא</row>
+		<row row_number="10" isdata="1">מתה מישתבע נמי דשכורה מתה: זה אומר</row>
+		<row row_number="11" isdata="1">איני יודע וזה אומר כו': הא מני סומכוס היא</row>
 		<row row_number="12" isdata="1">דאמר ממון המוטל בספק חולקין בעי ר'</row>
 		<row row_number="13" isdata="1">אבא בר ממל שאלה בבעלים שכרה שלא</row>
 		<row row_number="14" isdata="1">בבעלים מהו מי אמרינן שאילה לחודה קיימא</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">אפסיקא לה שכירות ביני וביני שכרה</row>
 		<row row_number="26" isdata="1">בבעלים ושאלה וחזר ושכרה מהו מי אמרינן</row>
 		<row row_number="27" isdata="1">אתיא לה שכירות לדוכתה או דלמא</row>
-		<row row_number="28" isdata="1">אפסיקא לה שאלה ביני וביני תיקומתני'</row>
+		<row row_number="28" isdata="1">אפסיקא לה שאלה ביני וביני תיקו<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="29" isdata="1">השואל את הפרה ושלחה לו ביד בנו ביד</row>
 		<row row_number="30" isdata="1">עבדו ביד שלוחו או ביד בנו ביד עבדו ביד</row>
 		<row row_number="31" isdata="1">שלוחו של שואל ומתה פטור אמר לו</row>
@@ -48,7 +48,7 @@
 		<row row_number="34" isdata="1">או שאמר לו המשאיל הריני משלחה לך</row>
 		<row row_number="35" isdata="1">ביד בני ביד עבדי ביד שלוחי או ביד בנך ביד</row>
 		<row row_number="36" isdata="1">עבדך ביד שלוחך וא"ל השואל שלח ושלחה</row>
-		<row row_number="37" isdata="1">ומתה חייב וכן בשעה שמחזירה<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="37" isdata="1">ומתה חייב וכן בשעה שמחזירה:<EndMishna/><StartGemara/>גמ'</row>
 </amud>
 </daf>
 </masechet>

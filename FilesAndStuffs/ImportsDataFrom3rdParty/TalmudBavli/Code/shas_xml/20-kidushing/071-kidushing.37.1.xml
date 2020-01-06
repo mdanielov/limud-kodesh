@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:14.353709</dateCreated>
-   <lastModified>2019-12-21 21:42:14.353709</lastModified>
+   <dateCreated>2020-01-06 09:33:16.041338</dateCreated>
+   <lastModified>2020-01-06 09:33:16.041338</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="37">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContMishna/>חוץ מן הערלה וכלאים ר"א אומר אף</row>
-		<row row_number="2" isdata="1">החדש<EndMishna/><StartGemara/>גמ' מאי תלויה ומאי שאינה תלויה</row>
+		<row row_number="2" isdata="1">החדש:<EndMishna/><StartGemara/>גמ' מאי תלויה ומאי שאינה תלויה</row>
 		<row row_number="3" isdata="1">אילימא תלויה דכתיב בה ביאה ושאינה</row>
 		<row row_number="4" isdata="1">תלויה דלא כתיב בה ביאה והרי תפילין ופטר</row>
 		<row row_number="5" isdata="1">חמור דכתיב בהן ביאה ונוהגין בין בארץ בין</row>
@@ -31,8 +31,8 @@
 		<row row_number="17" isdata="1">עבדו שם וגו' מה עבודת כוכבים מיוחדת</row>
 		<row row_number="18" isdata="1">שהיא חובת הגוף ונוהגת בין בארץ בין</row>
 		<row row_number="19" isdata="1">בחוץ לארץ אף כל שהיא חובת הגוף נוהגת</row>
-		<row row_number="20" isdata="1">בין בארץ בין בח"ל חוץ מן הערלה</row>
-		<row row_number="21" isdata="1">והכלאים איבעיא להו ר"א לקולא פליג או</row>
+		<row row_number="20" isdata="1">בין בארץ בין בח"ל: חוץ מן הערלה</row>
+		<row row_number="21" isdata="1">והכלאים: איבעיא להו ר"א לקולא פליג או</row>
 		<row row_number="22" isdata="1">לחומרא פליג לחומרא פליג וה"ק ת"ק חוץ מן</row>
 		<row row_number="23" isdata="1">הערלה ומן הכלאים דהלכתא גמירי לה</row>
 		<row row_number="24" isdata="1">אע"ג דאיכא למימר חובת קרקע היא אבל</row>

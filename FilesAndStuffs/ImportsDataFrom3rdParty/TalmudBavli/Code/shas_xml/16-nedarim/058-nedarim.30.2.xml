@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.229728</dateCreated>
-   <lastModified>2019-12-21 21:42:08.229728</lastModified>
+   <dateCreated>2020-01-06 09:32:46.262789</dateCreated>
+   <lastModified>2020-01-06 09:32:46.262789</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="30">
@@ -17,22 +17,22 @@
 		<row row_number="3" isdata="1">אסיפא מתני הכי הנודר מיושבי יבשה</row>
 		<row row_number="4" isdata="1">אסור ביורדי הים ולא באלו ההולכים מעכו</row>
 		<row row_number="5" isdata="1">ליפו בלבד אלא אפילו במי שדרכו לפרש</row>
-		<row row_number="6" isdata="1">הואיל וסופו ליבשה סליקמתני' הנודר</row>
+		<row row_number="6" isdata="1">הואיל וסופו ליבשה סליק<EndGemara/><StartMishna/>מתני' הנודר</row>
 		<row row_number="7" isdata="1">מרואי החמה אסור אף בסומין שלא</row>
-		<row row_number="8" isdata="1">נתכוון זה אלא למי שהחמה רואה אותן</row>
+		<row row_number="8" isdata="1">נתכוון זה אלא למי שהחמה רואה אותן:</row>
 		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' מ"ט מדלא קאמר מן הרואין לאפוקי</row>
-		<row row_number="10" isdata="1">דגים ועובריםמתני' הנודר משחורי</row>
+		<row row_number="10" isdata="1">דגים ועוברים<EndGemara/><StartMishna/>מתני' הנודר משחורי</row>
 		<row row_number="11" isdata="1">הראש אסור בקרחין ובעלי שיבות ומותר</row>
 		<row row_number="12" isdata="1">בנשים ובקטנים שאין נקראין שחורי הראש</row>
-		<row row_number="13" isdata="1">אלא אנשים<EndMishna/><StartGemara/>גמ' מ"ט מדלא קאמר</row>
-		<row row_number="14" isdata="1">מבעלי שער ומותר בנשים ובקטנים שאין</row>
-		<row row_number="15" isdata="1">נקראין שחורי הראש אלא אנשים מ"ט</row>
+		<row row_number="13" isdata="1">אלא אנשים:<EndMishna/><StartGemara/>גמ' מ"ט מדלא קאמר</row>
+		<row row_number="14" isdata="1">מבעלי שער: ומותר בנשים ובקטנים שאין</row>
+		<row row_number="15" isdata="1">נקראין שחורי הראש אלא אנשים: מ"ט</row>
 		<row row_number="16" isdata="1">אנשים זימנין דמיכסו רישייהו וזימנין דמגלו</row>
 		<row row_number="17" isdata="1">רישייהו אבל נשים לעולם מיכסו וקטנים</row>
-		<row row_number="18" isdata="1">לעולם מיגלומתני' הנודר מן הילודים</row>
+		<row row_number="18" isdata="1">לעולם מיגלו<EndGemara/><StartMishna/>מתני' הנודר מן הילודים</row>
 		<row row_number="19" isdata="1">מותר בנולדים מן הנולדים אסור מן</row>
 		<row row_number="20" isdata="1">הילודים ר' מאיר מתיר אף בילודים וחכ"א</row>
-		<row row_number="21" isdata="1">לא נתכוון זה אלא במי שדרכו להוולד</row>
+		<row row_number="21" isdata="1">לא נתכוון זה אלא במי שדרכו להוולד:</row>
 		<row row_number="22" isdata="1"><EndMishna/><StartGemara/>גמ' לר' מאיר ולא מיבעיא נולדים אלא</row>
 		<row row_number="23" isdata="1">ממאן אסור חסורי מיחסרא והכי קתני</row>
 		<row row_number="24" isdata="1">הנודר מן הילודים מותר בנולדים מן הנולדים</row>
@@ -46,8 +46,8 @@
 		<row row_number="32" isdata="1">נולד לבית דוד יאשיהו שמו הכי נמי דהוה</row>
 		<row row_number="33" isdata="1">והא עדיין מנשה לא בא אלא משמע הכי</row>
 		<row row_number="34" isdata="1">ומשמע הכי ובנדרים הלך אחר לשון בני</row>
-		<row row_number="35" isdata="1">אדם וחכ"א לא נתכוין זה אלא ממי שדרכו</row>
-		<row row_number="36" isdata="1">להוולד לאפוקי מאי לאפוקי דגים ועופות</row>
+		<row row_number="35" isdata="1">אדם: וחכ"א לא נתכוין זה אלא ממי שדרכו</row>
+		<row row_number="36" isdata="1">להוולד: לאפוקי מאי לאפוקי דגים ועופות:</row>
 </amud>
 </daf>
 </masechet>

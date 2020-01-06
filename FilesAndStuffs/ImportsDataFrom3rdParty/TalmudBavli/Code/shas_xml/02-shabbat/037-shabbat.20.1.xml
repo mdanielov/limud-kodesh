@@ -6,35 +6,35 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:48.041006</dateCreated>
-   <lastModified>2019-12-21 21:41:48.041006</lastModified>
+   <dateCreated>2020-01-06 09:30:59.873491</dateCreated>
+   <lastModified>2020-01-06 09:30:59.873491</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="20">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>ובגבולין כדי שתאחוז האור ברובו ר' יהודה</row>
-		<row row_number="2" isdata="1">אומר בפחמין כל שהוא<EndMishna/><StartGemara/>גמ' וכמה א"ר</row>
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContMishna/>ובגבולין כדי שתאחוז האור ברובו ר' יהודה</row>
+		<row row_number="2" isdata="1">אומר בפחמין כל שהוא:<EndMishna/><StartGemara/>גמ' וכמה א"ר</row>
 		<row row_number="3" isdata="1">אלעזר אמר רב כדי שיצולו מבעו"י כמאכל</row>
 		<row row_number="4" isdata="1">בן דרוסאי איתמר נמי אמר רב אסי א"ר</row>
 		<row row_number="5" isdata="1">יוחנן כל שהוא כמאכל בן דרוסאי אין בו</row>
 		<row row_number="6" isdata="1">משום בישולי נכרים תניא חנניא אומר כל</row>
 		<row row_number="7" isdata="1">שהוא כמאכל בן דרוסאי מותר להשהותו</row>
-		<row row_number="8" isdata="1">ע"ג כירה ואע"פ שאין גרופה וקטומה אין</row>
-		<row row_number="9" isdata="1">נותנין את הפת כו' איבעיא להו תחתון</row>
+		<row row_number="8" isdata="1">ע"ג כירה ואע"פ שאין גרופה וקטומה: אין</row>
+		<row row_number="9" isdata="1">נותנין את הפת כו': איבעיא להו תחתון</row>
 		<row row_number="10" isdata="1">האיך דגבי תנור או דילמא תחתון האיך</row>
 		<row row_number="11" isdata="1">דגבי האור ת"ש ר"א אומר כדי שיקרמו</row>
-		<row row_number="12" isdata="1">פניה המדובקין בתנור משלשלין את הפסח</row>
+		<row row_number="12" isdata="1">פניה המדובקין בתנור: משלשלין את הפסח:</row>
 		<row row_number="13" isdata="1">מ"ט משום דבני חבורה זריזין הן הא לאו</row>
 		<row row_number="14" isdata="1">הכי לא והאמר מר גדיא בין שריק בין לא</row>
-		<row row_number="15" isdata="1">שריק שפיר דמי התם מינתח הכא לא מינתח</row>
-		<row row_number="16" isdata="1">ומאחיזין את האור וכו' מנהני מילי אמר רב</row>
+		<row row_number="15" isdata="1">שריק שפיר דמי התם מינתח הכא לא מינתח:</row>
+		<row row_number="16" isdata="1">ומאחיזין את האור וכו': מנהני מילי אמר רב</row>
 		<row row_number="17" isdata="1">הונא לא תבערו אש בכל מושבותיכם בכל</row>
 		<row row_number="18" isdata="1">מושבותיכם אי אתה מבעיר אבל אתה</row>
 		<row row_number="19" isdata="1">מבעיר במדורת בית המוקד מתקיף לה רב</row>
 		<row row_number="20" isdata="1">חסדא אי הכי אפילו בשבת נמי אלא אמר רב</row>
 		<row row_number="21" isdata="1">חסדא קרא כי אתא למשרי אברים ופדרים</row>
-		<row row_number="22" isdata="1">הוא דאתא וכהנים זריזין הן ובגבולין כדי</row>
-		<row row_number="23" isdata="1">שתאחוז כו' מאי רובן אמר רב רוב כל אחד</row>
+		<row row_number="22" isdata="1">הוא דאתא וכהנים זריזין הן: ובגבולין כדי</row>
+		<row row_number="23" isdata="1">שתאחוז כו': מאי רובן אמר רב רוב כל אחד</row>
 		<row row_number="24" isdata="1">ואחד ושמואל אמר כדי שלא יאמרו הבא</row>
 		<row row_number="25" isdata="1">עצים ונניח תחתיהן תנא רב חייא לסיועיה</row>
 		<row row_number="26" isdata="1">לשמואל כדי שתהא שלהבת עולה מאיליה</row>
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">בתירא אומר כדי שתאחז האש משני צדדין</row>
 		<row row_number="33" isdata="1">ואע"פ שאין ראיה לדבר זכר לדבר את שני</row>
 		<row row_number="34" isdata="1">קצותיו אכלה האש ותוכו נחר היצלח</row>
-		<row row_number="35" isdata="1">למלאכה והאח לפניו מבערת מאי אח אמר</row>
+		<row row_number="35" isdata="1">למלאכה: והאח לפניו מבערת מאי אח אמר</row>
 		<row row_number="36" isdata="1">רב אחוונא ושמואל אמר עצים שנדלקו</row>
 		<row row_number="37" isdata="1">באחוונא ההוא דאמר להו מאן בעי אחוונא</row>
 		<row row_number="38" isdata="1">אשתכח ערבתא א"ר הונא קנים אין צריכין</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:26.029793</dateCreated>
-   <lastModified>2019-12-21 21:42:26.029793</lastModified>
+   <dateCreated>2020-01-06 09:34:09.649868</dateCreated>
+   <lastModified>2020-01-06 09:34:09.649868</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="55">
@@ -49,7 +49,7 @@
 		<row row_number="35" isdata="1">הבא על הבהמה בשוגג לא סיפא תקלה</row>
 		<row row_number="36" isdata="1">וקלון רישא תקלה בלא קלון והיכי דמי</row>
 		<row row_number="37" isdata="1">עובד כוכבים הבא על הבהמה וכדבעו מיניה</row>
-		<row row_number="38" isdata="1">מרב ששתמתני' המגדף אינו חייב</row>
+		<row row_number="38" isdata="1">מרב ששת<EndGemara/><StartMishna/>מתני' המגדף אינו חייב</row>
 		<row row_number="39" isdata="1">עד שיפרש השם א"ר יהושע בן קרחה</row>
 </amud>
 </daf>

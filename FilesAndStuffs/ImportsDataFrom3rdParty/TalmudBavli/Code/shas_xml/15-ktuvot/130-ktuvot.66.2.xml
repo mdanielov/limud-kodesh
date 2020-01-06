@@ -6,31 +6,31 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.782729</dateCreated>
-   <lastModified>2019-12-21 21:42:06.782729</lastModified>
+   <dateCreated>2020-01-06 09:32:39.406840</dateCreated>
+   <lastModified>2020-01-06 09:32:39.406840</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="66">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "מציאת האשה"/><ContGemara/>שחתן פוסק הוא פוסק פחות חומשגמ'שחתן פוסק הוא פוסק פחות חומש<EndMishna/><StartGemara/></row>
+		<row row_number="1" isdata="1"><ContChapter name = "מציאת האשה"/><ContMishna/>שחתן פוסק הוא פוסק פחות חומש:גמ'שחתן פוסק הוא פוסק פחות חומש:<EndMishna/><StartGemara/></row>
 		<row row_number="2" isdata="1">תנו רבנן אין צריך לומר ראשון תלמיד חכם</row>
 		<row row_number="3" isdata="1">ושני עם הארץ אלא אפילו ראשון עם</row>
 		<row row_number="4" isdata="1">הארץ ושני תלמיד חכם יכול לומר לאחיך</row>
-		<row row_number="5" isdata="1">הייתי רוצה ליתן לך אי אפשי ליתן פסקה</row>
-		<row row_number="6" isdata="1">להכניס לו אלף דינר כו' היינו רישא תנא</row>
+		<row row_number="5" isdata="1">הייתי רוצה ליתן לך אי אפשי ליתן: פסקה</row>
+		<row row_number="6" isdata="1">להכניס לו אלף דינר כו': היינו רישא תנא</row>
 		<row row_number="7" isdata="1">שומא רבה וקתני שומא זוטא תנא שומא</row>
-		<row row_number="8" isdata="1">דידיה וקתני שומא דידהמתני' פסקה</row>
+		<row row_number="8" isdata="1">דידיה וקתני שומא דידה<EndGemara/><StartMishna/>מתני' פסקה</row>
 		<row row_number="9" isdata="1">להכניס לו כספים סלעה נעשה ששה דינרין</row>
 		<row row_number="10" isdata="1">החתן מקבל עליו עשרה דינרים לקופה לכל</row>
 		<row row_number="11" isdata="1">מנה ומנה רבן שמעון בן גמליאל אומר הכל</row>
-		<row row_number="12" isdata="1">כמנהג המדינה<EndMishna/><StartGemara/>גמ' היינו פוסק כנגדם</row>
+		<row row_number="12" isdata="1">כמנהג המדינה:<EndMishna/><StartGemara/>גמ' היינו פוסק כנגדם</row>
 		<row row_number="13" isdata="1">חמשה עשר מנה תנא עסקא רבה ותנא</row>
 		<row row_number="14" isdata="1">עסקא זוטא וצריכא דאי תנא עסקא רבה</row>
 		<row row_number="15" isdata="1">דנפיש רווחא אבל עסקא זוטא דזוטר רווחא</row>
 		<row row_number="16" isdata="1">אימא לא צריכא ואי אשמעינן עסקא זוטא</row>
 		<row row_number="17" isdata="1">דזוטר זיונא אבל עסקא רבה דנפיש זיונא</row>
-		<row row_number="18" isdata="1">אימא לא צריכא החתן מקבל עליו עשרה</row>
-		<row row_number="19" isdata="1">דינר לקופה מאי קופה אמר רב אשי קופה</row>
+		<row row_number="18" isdata="1">אימא לא צריכא: החתן מקבל עליו עשרה</row>
+		<row row_number="19" isdata="1">דינר לקופה: מאי קופה אמר רב אשי קופה</row>
 		<row row_number="20" isdata="1">של בשמים ואמר רב אשי לא נאמרו דברים</row>
 		<row row_number="21" isdata="1">הללו אלא בירושלים בעי רב אשי במנה</row>
 		<row row_number="22" isdata="1">הנישום או במנה המתקבל את"ל מנה</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">אמר רב מעשה בבתו של נקדימון בן גוריון</row>
 		<row row_number="29" isdata="1">שפסקו לה חכמים ארבע מאות זהובים</row>
 		<row row_number="30" isdata="1">לקופה של בשמים לבו ביום אמרה להם</row>
-		<row row_number="31" isdata="1">כך תפסקו לבנותיכם וענו אחריה אמן</row>
+		<row row_number="31" isdata="1">כך תפסקו לבנותיכם וענו אחריה אמן:</row>
 		<row row_number="32" isdata="1">ת"ר מעשה ברבן יוחנן בן זכאי שהיה רוכב</row>
 		<row row_number="33" isdata="1">על החמור והיה יוצא מירושלים והיו תלמידיו</row>
 		<row row_number="34" isdata="1">מהלכין אחריו ראה ריבה אחת שהיתה</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:11.362792</dateCreated>
-   <lastModified>2019-12-21 21:42:11.362792</lastModified>
+   <dateCreated>2020-01-06 09:33:00.004348</dateCreated>
+   <lastModified>2020-01-06 09:33:00.004348</lastModified>
  </meta>
  <masechet name="סוטה" serial="18">
 <daf value="20">
@@ -22,7 +22,7 @@
 		<row row_number="8" isdata="1">שותה אני גליא דעתה דמחמת ביעתותא</row>
 		<row row_number="9" isdata="1">הוא דאמרה תיקו אמר אבוה דשמואל צריך</row>
 		<row row_number="10" isdata="1">שיתן מר לתוך המים מ"ט דאמר קרא מי</row>
-		<row row_number="11" isdata="1">המרים שמרים כברמתני' עד שלא</row>
+		<row row_number="11" isdata="1">המרים שמרים כבר<EndGemara/><StartMishna/>מתני' עד שלא</row>
 		<row row_number="12" isdata="1">נמחקה המגילה אמרה איני שותה מגילתה</row>
 		<row row_number="13" isdata="1">נגנזת ומנחתה מתפזרת על הדשן ואין</row>
 		<row row_number="14" isdata="1">מגילתה כשרה להשקות בה סוטה אחרת</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">ר' יהושע אומר רוצה אשה בקב ותפלות</row>
 		<row row_number="29" isdata="1">מט' קבין ופרישות הוא היה אומר חסיד</row>
 		<row row_number="30" isdata="1">שוטה ורשע ערום ואשה פרושה ומכות</row>
-		<row row_number="31" isdata="1">פרושין הרי אלו מבלי עולם<EndMishna/><StartGemara/>גמ' א"ר</row>
+		<row row_number="31" isdata="1">פרושין הרי אלו מבלי עולם:<EndMishna/><StartGemara/>גמ' א"ר</row>
 		<row row_number="32" isdata="1">יהודה אמר שמואל משום ר"מ כשהייתי למד</row>
 		<row row_number="33" isdata="1">תורה אצל ר"ע הייתי מטיל קנקנתום לתוך</row>
 		<row row_number="34" isdata="1">הדיו ולא אמר לי דבר כשבאתי אצל ר'</row>

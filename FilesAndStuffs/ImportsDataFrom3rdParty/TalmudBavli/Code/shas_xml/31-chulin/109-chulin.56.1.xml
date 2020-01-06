@@ -6,22 +6,22 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:36.437572</dateCreated>
-   <lastModified>2019-12-21 21:42:36.437572</lastModified>
+   <dateCreated>2020-01-06 09:34:56.557538</dateCreated>
+   <lastModified>2020-01-06 09:34:56.557538</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="56">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>להביא עור בית הבושת חוץ למקומו פסול</row>
 		<row row_number="2" isdata="1">ואין בו כרת חוץ לזמנו פיגול וחייבים עליו</row>
-		<row row_number="3" isdata="1">כרתמתני' ואלו טרפות בעוף נקובת</row>
+		<row row_number="3" isdata="1">כרת<EndGemara/><StartMishna/>מתני' ואלו טרפות בעוף נקובת</row>
 		<row row_number="4" isdata="1">הוושט ופסוקת הגרגרת הכתה חולדה על</row>
 		<row row_number="5" isdata="1">ראשה מקום שעושה אותה טרפה ניקב</row>
 		<row row_number="6" isdata="1">הקורקבן ניקבו הדקין נפלה לאור ונחמרו</row>
 		<row row_number="7" isdata="1">בני מעיה אם ירוקים פסולים אם אדומים</row>
 		<row row_number="8" isdata="1">כשרים דרסה וטרפה בכותל או שריצצתה</row>
 		<row row_number="9" isdata="1">בהמה ומפרכסת ושהתה מעת לעת</row>
-		<row row_number="10" isdata="1">ושחטה כשרה<EndMishna/><StartGemara/>גמ' רב ושמואל ולוי</row>
+		<row row_number="10" isdata="1">ושחטה כשרה:<EndMishna/><StartGemara/>גמ' רב ושמואל ולוי</row>
 		<row row_number="11" isdata="1">דאמרי מכניס ידו לפנים ובודק אם מבצבץ</row>
 		<row row_number="12" isdata="1">ועולה טרפה ואם לאו כשרה הניחא למאן</row>
 		<row row_number="13" isdata="1">דאמר עד דמנקיב קרמא תתאה אלא</row>

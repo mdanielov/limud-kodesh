@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:11.314980</dateCreated>
-   <lastModified>2019-12-21 21:42:11.314980</lastModified>
+   <dateCreated>2020-01-06 09:32:59.732244</dateCreated>
+   <lastModified>2020-01-06 09:32:59.732244</lastModified>
  </meta>
  <masechet name="סוטה" serial="18">
 <daf value="17">
@@ -22,7 +22,7 @@
 		<row row_number="8" isdata="1">לא היה מפסיק ר' יהודה אומר כל עצמו</row>
 		<row row_number="9" isdata="1">אינו כותב אלא יתן ה' אותך לאלה ולשבועה</row>
 		<row row_number="10" isdata="1">וגו' ובאו המים המאררים האלה במעיך</row>
-		<row row_number="11" isdata="1">וגו' ואינו כותב ואמרה האשה אמן אמן</row>
+		<row row_number="11" isdata="1">וגו' ואינו כותב ואמרה האשה אמן אמן:</row>
 		<row row_number="12" isdata="1"><EndMishna/><StartGemara/>גמ' במאי קא מיפלגי בהאי קרא קמיפלגי</row>
 		<row row_number="13" isdata="1">וכתב את האלות האלה הכהן בספר ר"מ</row>
 		<row row_number="14" isdata="1">סבר אלות אלות ממש האלות לרבות קללות</row>
@@ -58,7 +58,7 @@
 		<row row_number="44" isdata="1">נשתנה תכלת מכל מיני צבעונין מפני שהתכלת דומה לים וים דומה לרקיע</row>
 		<row row_number="45" isdata="1">ורקיע דומה לכסא הכבוד שנאמר ויראו את אלהי ישראל ותחת רגליו</row>
 		<row row_number="46" isdata="1">כמעשה לבנת הספיר וכעצם השמים לטהר וכתיב כמראה אבן ספיר</row>
-		<row row_number="47" isdata="1">דמות כסאמתני' אינו כותב לא על הלוח ולא על הנייר ולא על</row>
+		<row row_number="47" isdata="1">דמות כסא<EndGemara/><StartMishna/>מתני' אינו כותב לא על הלוח ולא על הנייר ולא על</row>
 </amud>
 </daf>
 </masechet>

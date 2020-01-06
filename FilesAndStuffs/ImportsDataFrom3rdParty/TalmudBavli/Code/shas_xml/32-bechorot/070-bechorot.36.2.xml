@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.088654</dateCreated>
-   <lastModified>2019-12-21 21:42:39.088654</lastModified>
+   <dateCreated>2020-01-06 09:35:09.307480</dateCreated>
+   <lastModified>2020-01-06 09:35:09.307480</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="36">
@@ -37,15 +37,15 @@
 		<row row_number="23" isdata="1">דכהן חשיד הכא מכדי ידע דהאי מום מובהק</row>
 		<row row_number="24" isdata="1">הוא מ"ט אתיוה קמיה רבנן משום כבודו</row>
 		<row row_number="25" isdata="1">דחכם על כבודו דחכם לא עביד איסורא</row>
-		<row row_number="26" isdata="1">עבדמתני' הכל נאמנין על מומי מעשר</row>
+		<row row_number="26" isdata="1">עבד<EndGemara/><StartMishna/>מתני' הכל נאמנין על מומי מעשר:</row>
 		<row row_number="27" isdata="1"><EndMishna/><StartGemara/>גמ' מ"ט דאי בעי שדי ביה מומא מעיקרא</row>
 		<row row_number="28" isdata="1">מי ידע הי נפיק וכי תימא מפיק ליה בריש</row>
 		<row row_number="29" isdata="1">עשרה לא יבקר בין טוב לרע אמר רחמנא</row>
-		<row row_number="30" isdata="1">אלא דאי בעי שדי ביה מומא בכולי עדריה</row>
+		<row row_number="30" isdata="1">אלא דאי בעי שדי ביה מומא בכולי עדריה :</row>
 		<row row_number="31" isdata="1"><EndGemara/><StartMishna/>מתני' בכור שנסמית עינו ושנקטעה ידו</row>
 		<row row_number="32" isdata="1">ושנשברה רגלו הרי זה ישחט על פי ג' בני</row>
 		<row row_number="33" isdata="1">הכנסת רבי יוסי אומר אפילו יש שם כ"ג אינו</row>
-		<row row_number="34" isdata="1">נשחט אלא על פי מומחה<EndMishna/><StartGemara/>גמ' רבי שמלאי</row>
+		<row row_number="34" isdata="1">נשחט אלא על פי מומחה:<EndMishna/><StartGemara/>גמ' רבי שמלאי</row>
 		<row row_number="35" isdata="1">ור' יהודה נשיאה תרוייהו משמיה דרבי</row>
 		<row row_number="36" isdata="1">יהושע בן לוי אמרי ואמרי לה רבי שמלאי</row>
 		<row row_number="37" isdata="1">וריב"ל תרוייהו משום ר' יהודה נשיאה אמרי</row>

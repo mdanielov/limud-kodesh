@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:23.001361</dateCreated>
-   <lastModified>2019-12-21 21:42:23.001361</lastModified>
+   <dateCreated>2020-01-06 09:33:54.993390</dateCreated>
+   <lastModified>2020-01-06 09:33:54.993390</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="99">
@@ -33,10 +33,10 @@
 		<row row_number="19" isdata="1">עושין רצונו של מקום כאן בזמן שאין ישראל עושין רצונו של מקום ולמ"ד</row>
 		<row row_number="20" isdata="1">ופניהם לבית הא כתיב ופניהם איש אל אחיו דמצדדי אצדודי דתניא</row>
 		<row row_number="21" isdata="1">אונקלוס הגר אמר כרובים מעשה צעצועים הן ומצודדים פניהם כתלמיד</row>
-		<row row_number="22" isdata="1">הנפטר מרבומתני' מי שיש לו בור לפנים מביתו של חבירו נכנס בשעה</row>
+		<row row_number="22" isdata="1">הנפטר מרבו<EndGemara/><StartMishna/>מתני' מי שיש לו בור לפנים מביתו של חבירו נכנס בשעה</row>
 		<row row_number="23" isdata="1">שדרך בני אדם נכנסין ויוצא בשעה שדרך בני אדם יוצאין ואינו מכניס בהמתו</row>
 		<row row_number="24" isdata="1">ומשקה מבורו אלא ממלא ומשקה מבחוץ וזה עושה לו פותחת וזה עושה לו</row>
-		<row row_number="25" isdata="1">פותחת<EndMishna/><StartGemara/>גמ' פותחת להיכא אמר ר' יוחנן שניהם לבור בשלמא בעל</row>
+		<row row_number="25" isdata="1">פותחת:<EndMishna/><StartGemara/>גמ' פותחת להיכא אמר ר' יוחנן שניהם לבור בשלמא בעל</row>
 		<row row_number="26" isdata="1">הבור בעי לאשתמורי מיא דבוריה אלא בעל הבית למה ליה א"ר אלעזר</row>
 </amud>
 </daf>

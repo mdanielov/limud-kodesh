@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:53.408285</dateCreated>
-   <lastModified>2019-12-21 21:41:53.408285</lastModified>
+   <dateCreated>2020-01-06 09:31:21.498514</dateCreated>
+   <lastModified>2020-01-06 09:31:21.498514</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="75">
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">כוכבים אמר רב יוסף אי הכי היינו דשמענא</row>
 		<row row_number="8" isdata="1">ליה לרבי טבלא דאמר עובד כוכבים</row>
 		<row row_number="9" isdata="1">עובד כוכבים תרי זימני ולא ידענא מאי</row>
-		<row row_number="10" isdata="1">אמרמתני' שתי חצירות זו לפנים מזו</row>
+		<row row_number="10" isdata="1">אמר<EndGemara/><StartMishna/>מתני' שתי חצירות זו לפנים מזו</row>
 		<row row_number="11" isdata="1">עירבה הפנימית ולא עירבה החיצונה</row>
 		<row row_number="12" isdata="1">הפנימית מותרת והחיצונה אסורה החיצונה</row>
 		<row row_number="13" isdata="1">ולא הפנימית שתיהן אסורות עירבה זו</row>
@@ -30,7 +30,7 @@
 		<row row_number="16" isdata="1">וחכ"א אין דריסת הרגל אוסרתה שכח אחד מן החיצונה ולא עירב</row>
 		<row row_number="17" isdata="1">הפנימית מותרת והחיצונה אסורה מן הפנימית ולא עירב שתיהן אסורות</row>
 		<row row_number="18" isdata="1">נתנו עירובן במקום אחד ושכח אחד בין מן הפנימית בין מן החיצונה</row>
-		<row row_number="19" isdata="1">ולא עירב שתיהן אסורות ואם היו של יחידים אינן צריכין לערב<EndMishna/><StartGemara/>גמ' כי</row>
+		<row row_number="19" isdata="1">ולא עירב שתיהן אסורות ואם היו של יחידים אינן צריכין לערב:<EndMishna/><StartGemara/>גמ' כי</row>
 		<row row_number="20" isdata="1">אתא רב דימי א"ר ינאי זו דברי רבי עקיבא דאמר אפילו רגל המותרת</row>
 		<row row_number="21" isdata="1">במקומה אוסרת שלא במקומה אבל חכמים אומרים כשם שרגל המותרת</row>
 		<row row_number="22" isdata="1">אינה אוסרת כך רגל האסורה אינה אוסרת תנן עירבה חיצונה ולא</row>
@@ -53,7 +53,7 @@
 		<row row_number="39" isdata="1">אלא כי אתא רבין א"ר ינאי ג' מחלוקות בדבר ת"ק סבר רגל המותרת</row>
 		<row row_number="40" isdata="1">אינה אוסרת רגל האסורה אוסרת ר"ע סבר אפילו רגל המותרת אוסרת</row>
 		<row row_number="41" isdata="1">ורבנן בתראי סברי כשם שרגל מותרת אינה אוסרת כך רגל האסורה אינה</row>
-		<row row_number="42" isdata="1">אוסרת נתנו עירובן במקום אחד ושכח אחד בין מן הפנימית וכו' מאי מקום</row>
+		<row row_number="42" isdata="1">אוסרת: נתנו עירובן במקום אחד ושכח אחד בין מן הפנימית וכו': מאי מקום</row>
 		<row row_number="43" isdata="1">אחד (סימן חיצונה עצמה בבית יחידאה רבינא דלא משכח בפנים) אמר רב</row>
 		<row row_number="44" isdata="1">יהודה אמר רב חיצונה ומאי קרו לה מקום אחד מקום המיוחד לשתיהן</row>
 </amud>

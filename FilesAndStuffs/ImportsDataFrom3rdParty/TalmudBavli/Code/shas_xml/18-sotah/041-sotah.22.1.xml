@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:11.396793</dateCreated>
-   <lastModified>2019-12-21 21:42:11.396793</lastModified>
+   <dateCreated>2020-01-06 09:33:00.200821</dateCreated>
+   <lastModified>2020-01-06 09:33:00.200821</lastModified>
  </meta>
  <masechet name="סוטה" serial="18">
 <daf value="22">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "היה נוטל"/><ContGemara/>שקרא ושנה ולא שימש תלמידי חכמים</row>
+		<row row_number="1" isdata="1"><ContChapter name = "היה נוטל"/><ContGemara/>שקרא ושנה ולא שימש תלמידי חכמים:</row>
 		<row row_number="2" isdata="1">אתמר קרא ושנה ולא שימש ת"ח ר' אלעזר</row>
 		<row row_number="3" isdata="1">אומר הרי זה עם הארץ ר' שמואל בר נחמני</row>
 		<row row_number="4" isdata="1">אמר הרי זה בור ר' ינאי אומר ה"ז כותי רב</row>
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">אפילו קורא ושונה ולא שימש ת"ח זהו ע"ה</row>
 		<row row_number="15" isdata="1">קרא ולא שנה הרי זה בור לא קרא ולא שנה</row>
 		<row row_number="16" isdata="1">עליו הכתוב אומר וזרעתי את בית ישראל</row>
-		<row row_number="17" isdata="1">ואת בית יהודה זרע אדם וזרע בהמה ירא</row>
+		<row row_number="17" isdata="1">ואת בית יהודה זרע אדם וזרע בהמה: ירא</row>
 		<row row_number="18" isdata="1">את ה' בני ומלך ועם שונים אל תתערב אמר</row>
 		<row row_number="19" isdata="1">רבי יצחק אלו ששונים הלכות פשיטא מהו</row>
 		<row row_number="20" isdata="1">דתימא שונין בחטא וכדרב הונא דאמר רב</row>
@@ -38,7 +38,7 @@
 		<row row_number="24" isdata="1">מתוך משנתן תניא נמי הכי א"ר יהושע וכי</row>
 		<row row_number="25" isdata="1">מבלי עולם הן והלא מיישבי עולם הן שנאמר</row>
 		<row row_number="26" isdata="1">הליכות עולם לו אלא שמורין הלכה מתוך</row>
-		<row row_number="27" isdata="1">משנתן אשה פרושה וכו' ת"ר בתולה</row>
+		<row row_number="27" isdata="1">משנתן: אשה פרושה וכו': ת"ר בתולה</row>
 		<row row_number="28" isdata="1">צליינית ואלמנה שובבית וקטן שלא כלו לו</row>
 		<row row_number="29" isdata="1">חדשיו הרי אלו מבלי עולם איני והאמר רבי</row>
 		<row row_number="30" isdata="1">יוחנן למדנו יראת חטא מבתולה וקיבול</row>

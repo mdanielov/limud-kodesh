@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:04.701713</dateCreated>
-   <lastModified>2019-12-21 21:42:04.701713</lastModified>
+   <dateCreated>2020-01-06 09:32:29.753476</dateCreated>
+   <lastModified>2020-01-06 09:32:29.753476</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="87">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "יש מותרות"/><ContGemara/>סריקא והשתא גופא מליא אבל זרע אין לה</row>
 		<row row_number="2" isdata="1">דמעיקרא גופא סריקא והשתא גופא סריקא</row>
-		<row row_number="3" isdata="1">אימא לא צריכא סימ"ן אמר ליה לא נעש"ה</row>
+		<row row_number="3" isdata="1">אימא לא צריכא: סימ"ן אמר ליה לא נעש"ה</row>
 		<row row_number="4" isdata="1">מעשי"ה במית"ה נעש"ה ולא נעשה בולד</row>
-		<row row_number="5" isdata="1">יבם ותרומה יבום ותרומה סימ"ן אמר ליה</row>
+		<row row_number="5" isdata="1">יבם ותרומה יבום ותרומה סימ"ן: אמר ליה</row>
 		<row row_number="6" isdata="1">רב יהודה מדאסקרתא לרבא לא נעשה מתים</row>
 		<row row_number="7" isdata="1">כחיים לענין יבום מקל וחומר ומה במקום</row>
 		<row row_number="8" isdata="1">שעשה ולד מן הראשון כולד מן השני</row>
@@ -36,7 +36,7 @@
 		<row row_number="22" isdata="1">מן השני לתרומה מק"ו מה במקום שעשה מתים כחיים לפוטרה מן הייבום</row>
 		<row row_number="23" isdata="1">לא עשה ולד מן הראשון כולד מן השני מקום שלא עשה מתים כחיים</row>
 		<row row_number="24" isdata="1">לענין תרומה אינו דין שלא נעשה ולד מן הראשון כולד מן השני תלמוד</row>
-		<row row_number="25" isdata="1">לומר אין לה והא יש לה<EndChapter name = "יש מותרות"/><EndGemara/></row>
+		<row row_number="25" isdata="1">לומר אין לה והא יש לה:<EndChapter name = "יש מותרות"/><EndGemara/></row>
 		<row row_number="26" isdata="0">הדרן עלך יש מותרות</row>
 		<row row_number="27" isdata="1"><StartChapter name = "האשה רבה"/><StartMishna/>האשה שהלך בעלה למדינת הים ובאו ואמרו לה מת בעליך וניסת</row>
 		<row row_number="28" isdata="1">ואח"כ בא בעלה תצא מזה ומזה וצריכה גט מזה ומזה ואין לה</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">ואין הולד ממנו ממזר ואם ניסת שלא ברשות מותרת לחזור לו ניסת על פי</row>
 		<row row_number="38" isdata="1">ב"ד תצא ופטורה מן הקרבן לא ניסת על פי ב"ד תצא וחייבת בקרבן יפה</row>
 		<row row_number="39" isdata="1">כח ב"ד שפוטרה מן הקרבן הורוה ב"ד לינשא והלכה וקלקלה חייבת</row>
-		<row row_number="40" isdata="1">בקרבן שלא התירוה אלא לינשא<EndMishna/><StartGemara/>גמ' מדקתני סיפא נשאת שלא ברשות</row>
+		<row row_number="40" isdata="1">בקרבן שלא התירוה אלא לינשא:<EndMishna/><StartGemara/>גמ' מדקתני סיפא נשאת שלא ברשות</row>
 		<row row_number="41" isdata="1">מותרת לחזור לו שלא ברשות ב"ד אלא בעדים מכלל דרישא ברשות ב"ד</row>
 		<row row_number="42" isdata="1">ובעד אחד אלמא עד אחד נאמן ותנן נמי הוחזקו להיות משיאין עד מפי עד</row>
 		<row row_number="43" isdata="1">ואשה מפי אשה ואשה מפי עבד ומפי שפחה אלמא עד אחד מהימן ותנן</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.990237</dateCreated>
-   <lastModified>2019-12-21 21:41:54.990237</lastModified>
+   <dateCreated>2020-01-06 09:31:28.121855</dateCreated>
+   <lastModified>2020-01-06 09:31:28.121855</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="35">
@@ -19,7 +19,7 @@
 		<row row_number="5" isdata="1">אלא מעלה ה"נ מעלה אמר רב אשי אף אנן</row>
 		<row row_number="6" isdata="1">נמי תנינא והבשר לרבות את העצים</row>
 		<row row_number="7" isdata="1">ולבונה עצים ולבונה בני איטמויי נינהו אלא</row>
-		<row row_number="8" isdata="1">מעלה הכא נמי מעלהמתני' אלו</row>
+		<row row_number="8" isdata="1">מעלה הכא נמי מעלה<EndGemara/><StartMishna/>מתני' אלו</row>
 		<row row_number="9" isdata="1">דברים שאדם יוצא בהן ידי חובתו בפסח</row>
 		<row row_number="10" isdata="1">בחטים בשעורים בכוסמין ובשיפון ובשיבולת</row>
 		<row row_number="11" isdata="1">שועל ויוצאין בדמאי ובמעשר ראשון שנטלה</row>
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">ראשון שלא נטלה תרומתו ולא במעשר שני</row>
 		<row row_number="15" isdata="1">והקדש שלא נפדו חלות התודה ורקיקי נזיר</row>
 		<row row_number="16" isdata="1">עשאן לעצמו אין יוצא בהן עשאן למכור</row>
-		<row row_number="17" isdata="1">בשוק יוצאין בהן<EndMishna/><StartGemara/>גמ' תנא כוסמין מין</row>
+		<row row_number="17" isdata="1">בשוק יוצאין בהן:<EndMishna/><StartGemara/>גמ' תנא כוסמין מין</row>
 		<row row_number="18" isdata="1">חיטין שיבולת שועל ושיפון מין שעורין כוסמין גולבא שיפון דישרא שיבולת</row>
 		<row row_number="19" isdata="1">שועל שבילי תעלא הני אין אורז ודוחן לא מנהני מילי אמר רבי שמעון</row>
 		<row row_number="20" isdata="1">בן לקיש וכן תנא דבי רבי ישמעאל וכן תנא דבי ר' אליעזר בן יעקב אמר</row>

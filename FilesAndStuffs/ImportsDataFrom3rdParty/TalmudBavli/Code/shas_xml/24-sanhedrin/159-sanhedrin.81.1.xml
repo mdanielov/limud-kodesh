@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:26.606663</dateCreated>
-   <lastModified>2019-12-21 21:42:26.606663</lastModified>
+   <dateCreated>2020-01-06 09:34:12.103853</dateCreated>
+   <lastModified>2020-01-06 09:34:12.103853</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="81">
@@ -17,10 +17,10 @@
 		<row row_number="3" isdata="1">עברת על דברי תורה אלא אומר לו אבא</row>
 		<row row_number="4" isdata="1">כך כתיב בתורה סוף סוף היינו הך אלא</row>
 		<row row_number="5" isdata="1">אומר לו אבא מקרא כתוב בתורה כך</row>
-		<row row_number="6" isdata="1">(הוא)מתני' מי שנתחייב בשתי</row>
+		<row row_number="6" isdata="1">(הוא)<EndGemara/><StartMishna/>מתני' מי שנתחייב בשתי</row>
 		<row row_number="7" isdata="1">מיתות בית דין נידון בחמורה עבר עבירה</row>
 		<row row_number="8" isdata="1">שנתחייב שתי מיתות נידון בחמורה ר' יוסי</row>
-		<row row_number="9" isdata="1">אומר נידון בזיקה הראשונה שבאה עליו</row>
+		<row row_number="9" isdata="1">אומר נידון בזיקה הראשונה שבאה עליו:</row>
 		<row row_number="10" isdata="1"><EndMishna/><StartGemara/>גמ' פשיטא אלא איתגורי איתגור אמר רבא</row>
 		<row row_number="11" isdata="1">הכא במאי עסקינן כגון שעבר עבירה קלה</row>
 		<row row_number="12" isdata="1">ונגמר דינו על עבירה קלה וחזר ועבר עבירה</row>
@@ -54,8 +54,8 @@
 		<row row_number="40" isdata="1">לכולהו הוא דחיי בחדא מינייהו לא א"ל ר"ע</row>
 		<row row_number="41" isdata="1">אלא מעתה אל תטמאו בכל אלה הכי נמי</row>
 		<row row_number="42" isdata="1">בכולהו אין בחדא מינייהו לא אלא באחת</row>
-		<row row_number="43" isdata="1">מכל אלה הכי נמי באחת מכל אלה עבר</row>
-		<row row_number="44" isdata="1">עבירה תניא כיצד אמר רבי יוסי נידון</row>
+		<row row_number="43" isdata="1">מכל אלה הכי נמי באחת מכל אלה: עבר</row>
+		<row row_number="44" isdata="1">עבירה: תניא כיצד אמר רבי יוסי נידון</row>
 		<row row_number="45" isdata="1">בזיקה ראשונה הבאה עליו חמותו ונעשית</row>
 		<row row_number="46" isdata="1">אשת איש נידון בחמותו אשת איש ונעשית</row>
 		<row row_number="47" isdata="1">חמותו נידון באשת איש אמר ליה רב אדא</row>

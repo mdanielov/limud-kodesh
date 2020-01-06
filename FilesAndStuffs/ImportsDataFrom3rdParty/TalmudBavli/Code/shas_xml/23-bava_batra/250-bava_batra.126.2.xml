@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:23.697767</dateCreated>
-   <lastModified>2019-12-21 21:42:23.697767</lastModified>
+   <dateCreated>2020-01-06 09:33:58.285164</dateCreated>
+   <lastModified>2020-01-06 09:33:58.285164</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="126">
@@ -19,7 +19,7 @@
 		<row row_number="5" isdata="1">חלוקה מר זוטרא מדרישבא פלג בצנא</row>
 		<row row_number="6" isdata="1">דפלפלי בהדי אחין בשוה אתא לקמיה דרב</row>
 		<row row_number="7" isdata="1">אשי אמר ליה הואיל ויתרתה במקצת</row>
-		<row row_number="8" isdata="1">ויתרתה בכל הנכסים כולןמתני'</row>
+		<row row_number="8" isdata="1">ויתרתה בכל הנכסים כולן<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="9" isdata="1">האומר איש פלוני בני בכור לא יטול פי</row>
 		<row row_number="10" isdata="1">שנים איש פלוני בני לא יירש עם אחיו לא</row>
 		<row row_number="11" isdata="1">אמר כלום שהתנה על מה שכתוב בתורה</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">לאחד והשוה להן את הבכור דבריו קיימין</row>
 		<row row_number="14" isdata="1">ואם אמר משום ירושה לא אמר כלום כתב</row>
 		<row row_number="15" isdata="1">בין בתחלה בין באמצע בין בסוף משום</row>
-		<row row_number="16" isdata="1">מתנה דבריו קיימין<EndMishna/><StartGemara/>גמ' לימא מתניתין</row>
+		<row row_number="16" isdata="1">מתנה דבריו קיימין:<EndMishna/><StartGemara/>גמ' לימא מתניתין</row>
 		<row row_number="17" isdata="1">דלא כר' יהודה דאי ר' יהודה האמר בדבר</row>
 		<row row_number="18" isdata="1">של ממון תנאו קיים דתניא האומר לאשה</row>
 		<row row_number="19" isdata="1">הרי את מקודשת לי על מנת שאין ליך עלי</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:46.774049</dateCreated>
-   <lastModified>2019-12-21 21:41:46.774049</lastModified>
+   <dateCreated>2020-01-06 09:30:52.241484</dateCreated>
+   <lastModified>2020-01-06 09:30:52.241484</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="16">
@@ -16,7 +16,7 @@
 		<row row_number="2" isdata="1">עלי נהר כאהלים נטע וגו' לומר לך מה</row>
 		<row row_number="3" isdata="1">נחלים מעלין את האדם מטומאה לטהרה</row>
 		<row row_number="4" isdata="1">אף אהלים מעלין את האדם מכף חובה לכף</row>
-		<row row_number="5" isdata="1">זכות הקורא למפרע לא יצא וכו' רבי</row>
+		<row row_number="5" isdata="1">זכות: הקורא למפרע לא יצא וכו': רבי</row>
 		<row row_number="6" isdata="1">אמי ורבי אסי הוו קא קטרין ליה גננא לר'</row>
 		<row row_number="7" isdata="1">אלעזר אמר להו אדהכי והכי איזיל ואשמע</row>
 		<row row_number="8" isdata="1">מלתא דבי מדרשא ואיתי ואימא לכו אזל</row>
@@ -28,14 +28,14 @@
 		<row row_number="14" isdata="1">פתח בלמען ירבו ימיכם אבל פתח בלמען</row>
 		<row row_number="15" isdata="1">ירבו ימיכם סרכיה נקט ואתי אתא ואמר להו</row>
 		<row row_number="16" isdata="1">אמרו ליה אלו לא באנו אלא לשמוע דבר</row>
-		<row row_number="17" isdata="1">זה דיינומתני' האומנין קורין בראש</row>
+		<row row_number="17" isdata="1">זה דיינו<EndGemara/><StartMishna/>מתני' האומנין קורין בראש</row>
 		<row row_number="18" isdata="1">האילן ובראש הנדבך מה שאינן רשאין</row>
 		<row row_number="19" isdata="1">לעשות כן בתפלה חתן פטור מק"ש לילה</row>
 		<row row_number="20" isdata="1">הראשונה ועד מוצאי שבת אם לא עשה</row>
 		<row row_number="21" isdata="1">מעשה ומעשה בר"ג שנשא אשה וקרא לילה</row>
 		<row row_number="22" isdata="1">הראשונה אמרו לו תלמידיו למדתנו רבינו</row>
 		<row row_number="23" isdata="1">שחתן פטור מק"ש אמר להם איני שומע לכם</row>
-		<row row_number="24" isdata="1">לבטל הימני מלכות שמים אפי' שעה אחת</row>
+		<row row_number="24" isdata="1">לבטל הימני מלכות שמים אפי' שעה אחת:</row>
 		<row row_number="25" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר האומנין קורין בראש האילן</row>
 		<row row_number="26" isdata="1">ובראש הנדבך ומתפללין בראש הזית</row>
 		<row row_number="27" isdata="1">ובראש התאנה ושאר כל האילנות יורדים</row>
@@ -56,7 +56,7 @@
 		<row row_number="42" isdata="1">ואין מברכים לפניה אבל מברכין לאחריה שתים כיצד ברכה ראשונה</row>
 		<row row_number="43" isdata="1">כתקונה שניה פותח בברכת הארץ וכוללין בונה ירושלים בברכת הארץ</row>
 		<row row_number="44" isdata="1">במה דברים אמורים בעושין בשכרן אבל עושין בסעודתן או שהיה</row>
-		<row row_number="45" isdata="1">בעל הבית מיסב עמהן מברכין כתיקונה חתן פטור מק"ש תנו רבנן</row>
+		<row row_number="45" isdata="1">בעל הבית מיסב עמהן מברכין כתיקונה: חתן פטור מק"ש: תנו רבנן</row>
 		<row row_number="46" isdata="1">בשבתך בביתך פרט לעוסק במצוה ובלכתך בדרך פרט לחתן מכאן</row>
 		<row row_number="47" isdata="1">אמרו הכונס את הבתולה פטור ואת האלמנה חייב מאי משמע אמר</row>
 		<row row_number="48" isdata="1">רב פפא כי דרך מה דרך רשות אף הכא נמי רשות מי לא עסקינן</row>

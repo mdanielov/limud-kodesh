@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:22.973359</dateCreated>
-   <lastModified>2019-12-21 21:42:22.973359</lastModified>
+   <dateCreated>2020-01-06 09:33:54.788175</dateCreated>
+   <lastModified>2020-01-06 09:33:54.788175</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="98">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "המוכר פירות"/><ContMishna/>מבושם אני מוכר לך חייב להעמיד לו עד</row>
 		<row row_number="2" isdata="1">העצרת וישן משל אשתקד ומיושן משל ג'</row>
-		<row row_number="3" isdata="1">שנים<EndMishna/><StartGemara/>גמ' אמר ר' יוסי בר' חנינא לא שנו</row>
+		<row row_number="3" isdata="1">שנים:<EndMishna/><StartGemara/>גמ' אמר ר' יוסי בר' חנינא לא שנו</row>
 		<row row_number="4" isdata="1">אלא בקנקנים דלוקח אבל בקנקנים דמוכר</row>
 		<row row_number="5" isdata="1">אמר ליה הא חמרך והא קנקנך וכי קנקנין</row>
 		<row row_number="6" isdata="1">דמוכר מאי הוי לימא ליה לא איבעי לך</row>
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">דקביל חמרא אדעתא דממטי ליה לפרוותא דוול שפט ואדמטי התם זל דינא</row>
 		<row row_number="27" isdata="1">הוא דמקבל ליה איבעיא להו הוה חלא מאי אמר ליה רב הלל לרב אשי כי</row>
 		<row row_number="28" isdata="1">הואן בי רב כהנא אמר לן חלא לא ודלא כר' יוסי בר' חנינא ואיכא דאמרי</row>
-		<row row_number="29" isdata="1">אפילו חלא נמי מקבל כמאן כר' יוסי בר' חנינא ישן משל אשתקד כו'</row>
+		<row row_number="29" isdata="1">אפילו חלא נמי מקבל כמאן כר' יוסי בר' חנינא: ישן משל אשתקד כו':</row>
 </amud>
 </daf>
 </masechet>

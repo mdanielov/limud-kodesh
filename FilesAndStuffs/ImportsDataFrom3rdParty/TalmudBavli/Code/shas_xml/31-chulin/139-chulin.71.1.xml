@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:36.829574</dateCreated>
-   <lastModified>2019-12-21 21:42:36.829574</lastModified>
+   <dateCreated>2020-01-06 09:34:57.995550</dateCreated>
+   <lastModified>2020-01-06 09:34:57.995550</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="71">
@@ -35,10 +35,10 @@
 		<row row_number="21" isdata="1">לזכר ולנקבה דברי רבי מאיר וחכמים</row>
 		<row row_number="22" isdata="1">אומרים כל שאינו מצורת אדם אינו ולד</row>
 		<row row_number="23" isdata="1">ולרבנן האי קרא למה לי כוליה לכדרבי הוא</row>
-		<row row_number="24" isdata="1">דאתאמתני' האשה שמת ולדה בתוך</row>
+		<row row_number="24" isdata="1">דאתא<EndGemara/><StartMishna/>מתני' האשה שמת ולדה בתוך</row>
 		<row row_number="25" isdata="1">מעיה ופשטה חיה את ידה ונגעה בו החיה</row>
 		<row row_number="26" isdata="1">טמאה טומאת שבעה והאשה טהורה עד</row>
-		<row row_number="27" isdata="1">שיצא הולד<EndMishna/><StartGemara/>גמ' אמר רבה כשם שטומאה</row>
+		<row row_number="27" isdata="1">שיצא הולד:<EndMishna/><StartGemara/>גמ' אמר רבה כשם שטומאה</row>
 		<row row_number="28" isdata="1">בלועה אינה מטמאה כך טהרה בלועה</row>
 		<row row_number="29" isdata="1">אינה מיטמאה טומאה בלועה מנלן דכתיב</row>
 		<row row_number="30" isdata="1">והאוכל מנבלתה יכבס בגדיו מי לא</row>

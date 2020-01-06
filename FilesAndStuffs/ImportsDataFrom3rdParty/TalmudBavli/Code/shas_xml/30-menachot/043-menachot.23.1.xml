@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.258449</dateCreated>
-   <lastModified>2019-12-21 21:42:33.258449</lastModified>
+   <dateCreated>2020-01-06 09:34:43.197852</dateCreated>
+   <lastModified>2020-01-06 09:34:43.197852</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="23">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "הקומץ"/><ContGemara/>אמר רבא קסבר רבי יהודה כל שהוא מין</row>
 		<row row_number="2" isdata="1">במינו ודבר אחר סלק את מינו כמי שאינו</row>
-		<row row_number="3" isdata="1">ושאינו מינו רבה עליו ומבטלו איתמר קומץ</row>
+		<row row_number="3" isdata="1">ושאינו מינו רבה עליו ומבטלו: איתמר קומץ</row>
 		<row row_number="4" isdata="1">דמנחת חוטא ששמנו רבי יוחנן אומר פסול</row>
 		<row row_number="5" isdata="1">וריש לקיש אמר הוא עצמו משכשכו</row>
 		<row row_number="6" isdata="1">בשירי הלוג ומעלהו והכתיב לא ישים עליה</row>
@@ -41,7 +41,7 @@
 		<row row_number="27" isdata="1">הוא לא או דלמא אפי' לריש לקיש לא קא</row>
 		<row row_number="28" isdata="1">אמר אלא בעצם דבר מפרש הוא ואי פריש</row>
 		<row row_number="29" isdata="1">לאו מצוה לאהדורי אבל שמן דלאו בר</row>
-		<row row_number="30" isdata="1">מפרש הוא לא או דלמא לא שנא תיקו</row>
+		<row row_number="30" isdata="1">מפרש הוא לא או דלמא לא שנא תיקו:</row>
 		<row row_number="31" isdata="1"><EndGemara/><StartMishna/>מתני' שתי מנחות שלא נקמצו ונתערבו</row>
 		<row row_number="32" isdata="1">זו בזו אם יכול לקמוץ מזו בפני עצמה ומזו</row>
 		<row row_number="33" isdata="1">בפני עצמה כשירות ואם לאו פסולות קומץ</row>
@@ -49,7 +49,7 @@
 		<row row_number="35" isdata="1">הקטיר זו שנקמצה עולה לבעלים וזו שלא</row>
 		<row row_number="36" isdata="1">נקמצה לא עולה לבעלים נתערב קומצה</row>
 		<row row_number="37" isdata="1">בשיריה או בשיריה של חבירתה לא יקטיר</row>
-		<row row_number="38" isdata="1">ואם הקטיר עולה לבעלים<EndMishna/><StartGemara/>גמ' אמר רב</row>
+		<row row_number="38" isdata="1">ואם הקטיר עולה לבעלים:<EndMishna/><StartGemara/>גמ' אמר רב</row>
 		<row row_number="39" isdata="1">חסדא נבילה בטילה בשחוטה שאי אפשר</row>
 		<row row_number="40" isdata="1">לשחוטה שתעשה נבילה ושחוטה אינה</row>
 		<row row_number="41" isdata="1">בטילה בנבילה שאפשר לנבילה שתעשה שחוטה דלכי מסרחה פרחה</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.450897</dateCreated>
-   <lastModified>2019-12-21 21:42:12.450897</lastModified>
+   <dateCreated>2020-01-06 09:33:05.505147</dateCreated>
+   <lastModified>2020-01-06 09:33:05.505147</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="29">
@@ -15,11 +15,11 @@
 		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContGemara/>שקול מינה חפץ והדר הב לה גיטא ואזל איהו</row>
 		<row row_number="2" isdata="1">ויהיב לה גיטא והדר שקל מינה חפץ רבי</row>
 		<row row_number="3" isdata="1">יוחנן פוסל בו וכ"ש בשלוחו וריש לקיש</row>
-		<row row_number="4" isdata="1">מכשיר בשלוחו וכ"ש בומתני' המביא</row>
+		<row row_number="4" isdata="1">מכשיר בשלוחו וכ"ש בו<EndGemara/><StartMishna/>מתני' המביא</row>
 		<row row_number="5" isdata="1">גט ממדינת הים וחלה עושה שליח בב"ד</row>
 		<row row_number="6" isdata="1">ומשלחו ואומר לפניהם בפני נכתב ובפני</row>
 		<row row_number="7" isdata="1">נחתם ואין שליח אחרון צריך שיאמר בפני</row>
-		<row row_number="8" isdata="1">נכתב ובפני נחתם אלא אומר שליח ב"ד אני</row>
+		<row row_number="8" isdata="1">נכתב ובפני נחתם אלא אומר שליח ב"ד אני:</row>
 		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' אמרו ליה רבנן לאבימי בריה דר' אבהו</row>
 		<row row_number="10" isdata="1">בעי מיניה מרבי אבהו שליח דשליח משוי</row>
 		<row row_number="11" isdata="1">שליח או לא אמר להו הא לא תיבעי לכו</row>

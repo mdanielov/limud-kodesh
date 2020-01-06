@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:03.115004</dateCreated>
-   <lastModified>2019-12-21 21:42:03.115004</lastModified>
+   <dateCreated>2020-01-06 09:32:22.052099</dateCreated>
+   <lastModified>2020-01-06 09:32:22.052099</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="13">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "חמש עשרה נשים"/><ContGemara/>חלצו ב"ש פוסלין מן הכהונה ובית הלל</row>
+		<row row_number="1" isdata="1"><ContChapter name = "חמש עשרה נשים"/><ContMishna/>חלצו ב"ש פוסלין מן הכהונה ובית הלל</row>
 		<row row_number="2" isdata="1">מכשירין נתייבמו בית שמאי מכשירין ובית</row>
 		<row row_number="3" isdata="1">הלל פוסלין אע"פ שאלו אוסרים ואלו מתירין</row>
 		<row row_number="4" isdata="1">אלו פוסלין ואלו מכשירין לא נמנעו בית</row>
 		<row row_number="5" isdata="1">שמאי מלישא נשים מבית הלל ולא בית הלל</row>
 		<row row_number="6" isdata="1">מבית שמאי כל הטהרות והטמאות שהיו</row>
 		<row row_number="7" isdata="1">אלו מטהרים ואלו מטמאין לא נמנעו עושין</row>
-		<row row_number="8" isdata="1">טהרות אלו על גבי אלו<EndMishna/><StartGemara/>גמ' אמר רבי</row>
+		<row row_number="8" isdata="1">טהרות אלו על גבי אלו:<EndMishna/><StartGemara/>גמ' אמר רבי</row>
 		<row row_number="9" isdata="1">שמעון בן פזי מאי טעמא דבית שמאי דכתיב</row>
 		<row row_number="10" isdata="1">לא תהיה אשת המת החוצה לאיש זר</row>
 		<row row_number="11" isdata="1">חוצה מכלל דאיכא פנימית ואמר רחמנא</row>
@@ -45,10 +45,10 @@
 		<row row_number="31" isdata="1">אשת אח אלא נשא חי ואחר כך נשא מת</row>
 		<row row_number="32" isdata="1">אחות אשה קדים כיון דלא אתי איסור אשת</row>
 		<row row_number="33" isdata="1">אח וחייל אאיסור אחות אשה הויא לה</row>
-		<row row_number="34" isdata="1">צרת ערוה שלא במקום מצוה ושריא חלצו</row>
-		<row row_number="35" isdata="1">בית שמאי פוסלים וכו' פשיטא לאפוקי</row>
+		<row row_number="34" isdata="1">צרת ערוה שלא במקום מצוה ושריא: חלצו</row>
+		<row row_number="35" isdata="1">בית שמאי פוסלים וכו': פשיטא לאפוקי</row>
 		<row row_number="36" isdata="1">דרבי יוחנן בן נורי דאמר בואו ונתקן להם לצרות שיהו חולצות ולא</row>
-		<row row_number="37" isdata="1">מתייבמות קמ"ל דבית הלל מכשירים נתייבמו בית הלל פוסלין כו'</row>
+		<row row_number="37" isdata="1">מתייבמות קמ"ל דבית הלל מכשירים: נתייבמו בית הלל פוסלין כו':</row>
 		<row row_number="38" isdata="1">הא תו למה לי איידי דתנא חלצו תנא נמי נתייבמו תנן התם מגילה</row>
 		<row row_number="39" isdata="1">נקראת באחד עשר ובשנים עשר ובשלשה עשר ובארבעה עשר ובחמשה</row>
 		<row row_number="40" isdata="1">עשר לא פחות ולא יותר אמר ליה ר"ל לר' יוחנן איקרי כאן לא תתגודדו</row>

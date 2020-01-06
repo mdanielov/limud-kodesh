@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:48.759634</dateCreated>
-   <lastModified>2019-12-21 21:41:48.759634</lastModified>
+   <dateCreated>2020-01-06 09:31:03.164947</dateCreated>
+   <lastModified>2020-01-06 09:31:03.164947</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="51">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>לא משום כלאים ולא משום שביעית ולא</row>
-		<row row_number="2" isdata="1">משום מעשר וניטלין בשבת תיובתא</row>
+		<row row_number="2" isdata="1">משום מעשר וניטלין בשבת תיובתא:</row>
 		<row row_number="3" isdata="1"><EndGemara/><StartMishna/>מתני' לא כסהו מבעוד יום לא יכסנו</row>
 		<row row_number="4" isdata="1">משתחשך כסהו ונתגלה מותר לכסותו</row>
 		<row row_number="5" isdata="1">ממלא את הקיתון ונותן לתחת הכר או תחת</row>
-		<row row_number="6" isdata="1">הכסת<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר שמואל</row>
+		<row row_number="6" isdata="1">הכסת:<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר שמואל</row>
 		<row row_number="7" isdata="1">מותר להטמין את הצונן אמר רב יוסף מאי</row>
 		<row row_number="8" isdata="1">קמ"ל תנינא ממלא אדם קיתון ונותן תחת</row>
 		<row row_number="9" isdata="1">הכר או תחת הכסת אמר ליה אביי טובא</row>
@@ -43,7 +43,7 @@
 		<row row_number="29" isdata="1">מותר להטמין את הצונן כרב דאמר רב</row>
 		<row row_number="30" isdata="1">שמואל בר רב יצחק אמר רב כל שהוא</row>
 		<row row_number="31" isdata="1">נאכל כמות שהוא חי אין בו משום בשולי</row>
-		<row row_number="32" isdata="1">נכרים ( הוא) סבר אדם חשוב שאני</row>
+		<row row_number="32" isdata="1">נכרים ( הוא) סבר אדם חשוב שאני:</row>
 		<row row_number="33" isdata="1">ת"ר אע"פ שאמרו אין טומנין אפילו בדבר</row>
 		<row row_number="34" isdata="1">שאינו מוסיף הבל משחשכה אם בא להוסיף</row>
 		<row row_number="35" isdata="1">מוסיף כיצד הוא עושה רשב"ג אומר נוטל</row>

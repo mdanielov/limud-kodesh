@@ -6,25 +6,25 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.884750</dateCreated>
-   <lastModified>2019-12-21 21:42:01.884750</lastModified>
+   <dateCreated>2020-01-06 09:32:14.756512</dateCreated>
+   <lastModified>2020-01-06 09:32:14.756512</lastModified>
  </meta>
  <masechet name="מגילה" serial="11">
 <daf value="19">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "הקורא למפרע"/><ContGemara/>קנקנתום חרתא דאושכפי דיפתרא דמליח</row>
-		<row row_number="2" isdata="1">וקמיח ולא עפיץ נייר מחקא עד שתהא</row>
-		<row row_number="3" isdata="1">כתובה אשורית דכתיב ככתבם וכזמנם</row>
-		<row row_number="4" isdata="1">על הספר ובדיו וכו' מנלן אתיא כתיבה</row>
+		<row row_number="2" isdata="1">וקמיח ולא עפיץ נייר מחקא: עד שתהא</row>
+		<row row_number="3" isdata="1">כתובה אשורית: דכתיב ככתבם וכזמנם:</row>
+		<row row_number="4" isdata="1">על הספר ובדיו וכו': מנלן אתיא כתיבה</row>
 		<row row_number="5" isdata="1">כתיבה כתיב הכא ותכתב אסתר המלכה</row>
 		<row row_number="6" isdata="1">וכתיב התם ויאמר להם ברוך מפיו יקרא</row>
 		<row row_number="7" isdata="1">אלי את כל הדברים האלה ואני כותב על</row>
-		<row row_number="8" isdata="1">הספר בדיומתני' בן עיר שהלך לכרך</row>
+		<row row_number="8" isdata="1">הספר בדיו<EndGemara/><StartMishna/>מתני' בן עיר שהלך לכרך</row>
 		<row row_number="9" isdata="1">ובן כרך שהלך לעיר אם עתיד לחזור למקומו</row>
 		<row row_number="10" isdata="1">קורא כמקומו ואם לאו קורא עמהן ומהיכן</row>
 		<row row_number="11" isdata="1">קורא אדם את המגילה ויוצא בה י"ח ר"מ</row>
 		<row row_number="12" isdata="1">אומר כולה ר' יהודה אומר מאיש יהודי</row>
-		<row row_number="13" isdata="1">רבי יוסי אומר מאחר הדברים האלה</row>
+		<row row_number="13" isdata="1">רבי יוסי אומר מאחר הדברים האלה:</row>
 		<row row_number="14" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רבא לא שנו אלא שעתיד לחזור</row>
 		<row row_number="15" isdata="1">בלילי י"ד אבל אין עתיד לחזור בלילי</row>
 		<row row_number="16" isdata="1">ארבעה עשר קורא עמהן אמר רבא מנא</row>
@@ -43,8 +43,8 @@
 		<row row_number="29" isdata="1">איתיביה אביי בן כרך שהלך לעיר בין כך</row>
 		<row row_number="30" isdata="1">ובין כך קורא כמקומו בן כרך ס"ד באם עתיד</row>
 		<row row_number="31" isdata="1">לחזור תליא מילתא אלא לאו בן כפר ולאו</row>
-		<row row_number="32" isdata="1">תרוצי מתרצת תני קורא עמהן מהיכן</row>
-		<row row_number="33" isdata="1">קורא אדם את המגילה וכו' תניא רשב"י</row>
+		<row row_number="32" isdata="1">תרוצי מתרצת תני קורא עמהן: מהיכן</row>
+		<row row_number="33" isdata="1">קורא אדם את המגילה וכו': תניא רשב"י</row>
 		<row row_number="34" isdata="1">אומר מבלילה ההוא א"ר יוחנן וכולן מקרא</row>
 		<row row_number="35" isdata="1">אחד דרשו ותכתב אסתר המלכה ומרדכי</row>
 		<row row_number="36" isdata="1">היהודי את כל תוקף מאן דאמר כולה</row>

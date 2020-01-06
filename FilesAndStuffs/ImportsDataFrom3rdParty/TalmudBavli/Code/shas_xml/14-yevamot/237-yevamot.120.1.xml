@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.350713</dateCreated>
-   <lastModified>2019-12-21 21:42:05.350713</lastModified>
+   <dateCreated>2020-01-06 09:32:32.975141</dateCreated>
+   <lastModified>2020-01-06 09:32:32.975141</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="120">
@@ -37,13 +37,13 @@
 		<row row_number="23" isdata="1">וליחוש דלמא בגיטא אתאי והאי דקאמרה</row>
 		<row row_number="24" isdata="1">הכי לקלקלא לצרה היא מיכוונה אי דאינסיב</row>
 		<row row_number="25" isdata="1">לישראל הכי נמי הכא במאי עסקי' דאינסיב</row>
-		<row row_number="26" isdata="1">לכהןמתני' אין מעידין אלא על פרצוף</row>
+		<row row_number="26" isdata="1">לכהן<EndGemara/><StartMishna/>מתני' אין מעידין אלא על פרצוף</row>
 		<row row_number="27" isdata="1">פנים עם החוטם אע"פ שיש סימנין בגופו</row>
 		<row row_number="28" isdata="1">ובכליו אין מעידין אלא עד שתצא נפשו</row>
 		<row row_number="29" isdata="1">ואפי' ראוהו מגוייד וצלוב והחיה אוכלת</row>
 		<row row_number="30" isdata="1">בו אין מעידין אלא עד ג' ימים ר' יהודה</row>
 		<row row_number="31" isdata="1">בן בבא אומר לא כל האדם ולא כל המקום</row>
-		<row row_number="32" isdata="1">ולא כל השעות שוין<EndMishna/><StartGemara/>גמ' תנו רבנן</row>
+		<row row_number="32" isdata="1">ולא כל השעות שוין:<EndMishna/><StartGemara/>גמ' תנו רבנן</row>
 		<row row_number="33" isdata="1">פדחת ולא פרצוף פנים פרצוף פנים</row>
 		<row row_number="34" isdata="1">ולא פדחת אין מעידין עד שיהו שניהם</row>
 		<row row_number="35" isdata="1">עם החוטם אמר אביי ואיתימא רב כהנא</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">בר מרתא דהוא אבא בר מניומי הוה מסקי</row>
 		<row row_number="38" isdata="1">ביה דבי רישא גלותא זוזי אייתי קירא דבק</row>
 		<row row_number="39" isdata="1">בבלייתא דבק באפותיה חלף קמייהו ולא</row>
-		<row row_number="40" isdata="1">בשקרוה אע"פ שיש סימנין וכו'</row>
+		<row row_number="40" isdata="1">בשקרוה: אע"פ שיש סימנין וכו':</row>
 		<row row_number="41" isdata="1">למימרא דסימנין לאו דאורייתא ורמינהי</row>
 		<row row_number="42" isdata="1">מצאו קשור בכיס ובארנקי ובטבעת או</row>
 		<row row_number="43" isdata="1">שנמצא בין כליו אפילו לזמן מרובה כשר</row>

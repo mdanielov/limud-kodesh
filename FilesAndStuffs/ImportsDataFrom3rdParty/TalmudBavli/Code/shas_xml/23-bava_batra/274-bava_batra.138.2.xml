@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:23.996010</dateCreated>
-   <lastModified>2019-12-21 21:42:23.996010</lastModified>
+   <dateCreated>2020-01-06 09:33:59.443645</dateCreated>
+   <lastModified>2020-01-06 09:33:59.443645</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="138">
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">שאינו צריך ליקח לו דרך אלמא כיון</row>
 		<row row_number="14" isdata="1">דלא צריך וקאמר לטפויי מלתא קאתי הכא</row>
 		<row row_number="15" isdata="1">נמי כיון דלא צריך וקאמר לטפויי מלתא</row>
-		<row row_number="16" isdata="1">קא אתי ת"ר שכיב מרע שאמר מנה יש</row>
+		<row row_number="16" isdata="1">קא אתי: ת"ר שכיב מרע שאמר מנה יש</row>
 		<row row_number="17" isdata="1">לי אצל פלוני העדים כותבין אף על פי</row>
 		<row row_number="18" isdata="1">שאין מכירין לפיכך כשהוא גובה צריך</row>
 		<row row_number="19" isdata="1">להביא ראיה דברי ר' מאיר וחכ"א אין</row>
@@ -43,9 +43,9 @@
 		<row row_number="29" isdata="1">וגט מיאון ואע"פ שאין מכירין (מ"ט לאו)</row>
 		<row row_number="30" isdata="1">משום דחוששין לב"ד טועין לא ב"ד בתר</row>
 		<row row_number="31" isdata="1">בית דינא לא דייקי בית דינא בתר עדים</row>
-		<row row_number="32" isdata="1">דייקימתני' האב תולש ומאכיל לכל</row>
+		<row row_number="32" isdata="1">דייקי<EndGemara/><StartMishna/>מתני' האב תולש ומאכיל לכל</row>
 		<row row_number="33" isdata="1">מי שירצה ומה שהניח תלוש הרי הוא של</row>
-		<row row_number="34" isdata="1">יורשין<EndMishna/><StartGemara/>גמ' תלוש אין מחובר לא</row>
+		<row row_number="34" isdata="1">יורשין:<EndMishna/><StartGemara/>גמ' תלוש אין מחובר לא</row>
 </amud>
 </daf>
 </masechet>

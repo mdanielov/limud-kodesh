@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.986018</dateCreated>
-   <lastModified>2019-12-21 21:42:39.986018</lastModified>
+   <dateCreated>2020-01-06 09:35:14.536140</dateCreated>
+   <lastModified>2020-01-06 09:35:14.536140</lastModified>
  </meta>
  <masechet name="תמורה" serial="34">
 <daf value="2">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><StartChapter name = "הכל ממירין"/><StartMishna/><ContChapter name = "הכל ממירין"/><ContMishna/>הכל</row>
 		<row row_number="2" isdata="1">ממירין אחד אנשים ואחד נשים לא שאדם</row>
 		<row row_number="3" isdata="1">רשאי להמיר אלא שאם המיר מומר וסופג</row>
-		<row row_number="4" isdata="1">את הארבעים<EndMishna/><StartGemara/>גמ' הא גופא קשיא אמרת</row>
+		<row row_number="4" isdata="1">את הארבעים:<EndMishna/><StartGemara/>גמ' הא גופא קשיא אמרת</row>
 		<row row_number="5" isdata="1">הכל ממירין לכתחילה והדר תני לא</row>
 		<row row_number="6" isdata="1">שאדם רשאי להמיר (אלא שאם המיר מומר)</row>
 		<row row_number="7" isdata="1">דיעבד ותיסברא הכל ממירין לכתחילה</row>
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">רב יהודה הכי קתני הכל מתפיסין בתמורה</row>
 		<row row_number="11" isdata="1">אחד אנשים ואחד נשים לא שאדם רשאי</row>
 		<row row_number="12" isdata="1">להמיר שאם המיר מומר וסופג את</row>
-		<row row_number="13" isdata="1">הארבעים הכל לאיתויי מאי לאיתויי יורש</row>
+		<row row_number="13" isdata="1">הארבעים: הכל לאיתויי מאי לאיתויי יורש</row>
 		<row row_number="14" isdata="1">ודלא כר' יהודה דתנן יורש סומך יורש</row>
 		<row row_number="15" isdata="1">ממיר דברי ר' מאיר ר' יהודה אומר יורש</row>
 		<row row_number="16" isdata="1">אינו סומך ויורש אינו ממיר מאי טעמא דרבי</row>
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">לא מיחד קרבן דידהו ואיבעית אימא לעולם</row>
 		<row row_number="27" isdata="1">אית ליה וקרבן עובד כוכבים וקרבן חבירו מחד</row>
 		<row row_number="28" isdata="1">קרא נפקא דאייתר ליה חד לבעלי חוברין</row>
-		<row row_number="29" isdata="1">לסמיכה ור"מ דאמר יורש ממיר מאי</row>
+		<row row_number="29" isdata="1">לסמיכה: ור"מ דאמר יורש ממיר מאי</row>
 		<row row_number="30" isdata="1">טעמא אמר לך אם המר ימיר לרבו' היורש</row>
 </amud>
 </daf>

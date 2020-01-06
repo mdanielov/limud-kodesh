@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:55.313049</dateCreated>
-   <lastModified>2019-12-21 21:41:55.313049</lastModified>
+   <dateCreated>2020-01-06 09:31:29.660294</dateCreated>
+   <lastModified>2020-01-06 09:31:29.660294</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="50">
@@ -41,7 +41,7 @@
 		<row row_number="27" isdata="1">כנעני ממש אפשר בא אברהם והזהיר את יצחק בא יצחק והזהיר את יעקב</row>
 		<row row_number="28" isdata="1">ויהודה אזיל ונסיב אלא אמר רבי שמעון בן לקיש בת גברא תגרא דכתיב</row>
 		<row row_number="29" isdata="1">כנען בידו מאזני מרמה ואיבעית אימא מהכא אשר סוחריה שרים כנעניה</row>
-		<row row_number="30" isdata="1">נכבדי ארץ והיה ה' למלך על כל הארץ ביום ההוא יהיה ה' אחד ושמו</row>
+		<row row_number="30" isdata="1">נכבדי ארץ: והיה ה' למלך על כל הארץ ביום ההוא יהיה ה' אחד ושמו</row>
 		<row row_number="31" isdata="1">אחד אטו האידנא לאו אחד הוא אמר רבי אחא בר חנינא לא כעולם</row>
 		<row row_number="32" isdata="1">הזה העולם הבא העולם הזה על בשורות טובות אומר ברוך הטוב והמטיב</row>
 		<row row_number="33" isdata="1">ועל בשורות רעות אומר ברוך דיין האמת לעולם הבא כולו הטוב והמטיב</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">דל"ת אבל לעולם הבא כולו אחד נקרא ביו"ד ה"י ונכתב ביו"ד ה"י סבר</row>
 		<row row_number="37" isdata="1">רבא למדרשה בפירקא א"ל ההוא סבא לעלם כתיב ר' אבינא רמי כתיב זה</row>
 		<row row_number="38" isdata="1">שמי לעלם וזה זכרי לדור דור אמר הקב"ה לא כשאני נכתב אני נקרא</row>
-		<row row_number="39" isdata="1">נכתב אני ביו"ד ה"א ונקרא אני באל"ף דל"ת<EndChapter name = "אלו עוברין"/><EndGemara/></row>
+		<row row_number="39" isdata="1">נכתב אני ביו"ד ה"א ונקרא אני באל"ף דל"ת:<EndChapter name = "אלו עוברין"/><EndGemara/></row>
 		<row row_number="40" isdata="0">הדרן עלך אלו עוברין</row>
 		<row row_number="41" isdata="1"><StartChapter name = "מקום שנהגו"/><StartMishna/>מקום שנהגו לעשות מלאכה בערבי פסחים עד חצות עושין מקום</row>
 		<row row_number="42" isdata="1">שנהגו שלא לעשות אין עושין ההולך ממקום שעושין למקום</row>

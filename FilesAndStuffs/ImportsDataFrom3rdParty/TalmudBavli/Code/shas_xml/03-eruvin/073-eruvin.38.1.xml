@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:52.495549</dateCreated>
-   <lastModified>2019-12-21 21:41:52.495549</lastModified>
+   <dateCreated>2020-01-06 09:31:17.897525</dateCreated>
+   <lastModified>2020-01-06 09:31:17.897525</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="38">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>אי אתה מודה שמא יבקע הנוד ונמצא שותה</row>
-		<row row_number="2" isdata="1">טבלים למפרע אמר להן לכשיבקעמתני'</row>
+		<row row_number="2" isdata="1">טבלים למפרע אמר להן לכשיבקע<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="3" isdata="1">רבי אליעזר אומר יו"ט הסמוך לשבת בין</row>
 		<row row_number="4" isdata="1">מלפניה ובין מלאחריה מערב אדם שני</row>
 		<row row_number="5" isdata="1">עירובין ואומר עירובי בראשון למזרח ובשני</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">משתכר בהליכתו ומשתכר בעירובו נאכל</row>
 		<row row_number="14" isdata="1">בראשון עירובו לראשון ואין עירובו לשני</row>
 		<row row_number="15" isdata="1">אמר (להן) ר' אליעזר מודים אתם לי שהן</row>
-		<row row_number="16" isdata="1">שתי קדושות<EndMishna/><StartGemara/>גמ' לרוח אחת מאי ניהו</row>
+		<row row_number="16" isdata="1">שתי קדושות:<EndMishna/><StartGemara/>גמ' לרוח אחת מאי ניהו</row>
 		<row row_number="17" isdata="1">לשני ימים לשני ימים מאי ניהו לרוח אחת</row>
 		<row row_number="18" isdata="1">היינו קמייתא הכי קאמרי ליה רבנן לר'</row>
 		<row row_number="19" isdata="1">אליעזר אי אתה מודה שאין מערבין ליום</row>

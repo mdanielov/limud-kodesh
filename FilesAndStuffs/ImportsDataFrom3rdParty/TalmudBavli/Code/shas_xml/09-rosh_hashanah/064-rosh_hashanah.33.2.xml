@@ -6,22 +6,22 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.141752</dateCreated>
-   <lastModified>2019-12-21 21:42:01.141752</lastModified>
+   <dateCreated>2020-01-06 09:32:10.152885</dateCreated>
+   <lastModified>2020-01-06 09:32:10.152885</lastModified>
  </meta>
  <masechet name="ראש השנה" serial="09">
 <daf value="33">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "יום טוב "/><ContGemara/>בקטן שהגיע לחינוך כאן בקטן שלא הגיע</row>
-		<row row_number="2" isdata="1">לחינוך והמתעסק לא יצא הא תוקע</row>
+		<row row_number="2" isdata="1">לחינוך: והמתעסק לא יצא: הא תוקע</row>
 		<row row_number="3" isdata="1">לשיר יצא לימא מסייע ליה לרבא דאמר</row>
 		<row row_number="4" isdata="1">רבא התוקע לשיר יצא דלמא תוקע לשיר</row>
-		<row row_number="5" isdata="1">נמי מתעסק קרי ליה והשומע מן המתעסק</row>
-		<row row_number="6" isdata="1">לא יצא אבל השומע מן המשמיע לעצמו</row>
+		<row row_number="5" isdata="1">נמי מתעסק קרי ליה: והשומע מן המתעסק</row>
+		<row row_number="6" isdata="1">לא יצא: אבל השומע מן המשמיע לעצמו</row>
 		<row row_number="7" isdata="1">מאי יצא לימא תיהוי תיובתיה דרבי זירא</row>
 		<row row_number="8" isdata="1">דאמר ליה רבי זירא לשמעיה איכוון ותקע</row>
 		<row row_number="9" isdata="1">לי דלמא איידי דתנא רישא מתעסק תנא</row>
-		<row row_number="10" isdata="1">סיפא נמי מתעסקמתני' סדר תקיעות</row>
+		<row row_number="10" isdata="1">סיפא נמי מתעסק<EndGemara/><StartMishna/>מתני' סדר תקיעות</row>
 		<row row_number="11" isdata="1">שלש של שלש שלש שיעור תקיעה כשלש</row>
 		<row row_number="12" isdata="1">תרועות שיעור תרועה כשלש יבבות תקע</row>
 		<row row_number="13" isdata="1">בראשונה ומשך בשניה כשתים אין בידו</row>
@@ -29,11 +29,11 @@
 		<row row_number="15" isdata="1">שופר תוקע ומריע ותוקע שלש פעמים כשם</row>
 		<row row_number="16" isdata="1">ששליח צבור חייב כך כל יחיד ויחיד חייב</row>
 		<row row_number="17" isdata="1">רבן גמליאל אומר שליח צבור מוציא את</row>
-		<row row_number="18" isdata="1">הרבים ידי חובתן<EndMishna/><StartGemara/>גמ' והתניא שיעור</row>
+		<row row_number="18" isdata="1">הרבים ידי חובתן:<EndMishna/><StartGemara/>גמ' והתניא שיעור</row>
 		<row row_number="19" isdata="1">תקיעה כתרועה אמר אביי תנא דידן קא</row>
 		<row row_number="20" isdata="1">חשיב תקיעה דכולהו בבי ותרועות דכולהו</row>
-		<row row_number="21" isdata="1">בבי תנא ברא קא חשיב חד בבא ותו לא</row>
-		<row row_number="22" isdata="1">שיעור תרועה כג' יבבות והתניא שיעור</row>
+		<row row_number="21" isdata="1">בבי תנא ברא קא חשיב חד בבא ותו לא:</row>
+		<row row_number="22" isdata="1">שיעור תרועה כג' יבבות: והתניא שיעור</row>
 		<row row_number="23" isdata="1">תרועה כשלשה שברים אמר אביי בהא ודאי</row>
 		<row row_number="24" isdata="1">פליגי דכתיב יום תרועה יהיה לכם</row>
 		<row row_number="25" isdata="1">ומתרגמינן יום יבבא יהא לכון וכתיב באימיה</row>

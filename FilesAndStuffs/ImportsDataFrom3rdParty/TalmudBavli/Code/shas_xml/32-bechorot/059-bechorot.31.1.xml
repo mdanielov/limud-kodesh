@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.004650</dateCreated>
-   <lastModified>2019-12-21 21:42:39.004650</lastModified>
+   <dateCreated>2020-01-06 09:35:08.779144</dateCreated>
+   <lastModified>2020-01-06 09:35:08.779144</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="31">
@@ -31,7 +31,7 @@
 		<row row_number="17" isdata="1">להו הדרי בי רב יוסף לא אזל רבה אזל רב</row>
 		<row row_number="18" isdata="1">יוסף אמר תנינא פירש אין מקבלין אותו רבה</row>
 		<row row_number="19" isdata="1">אמר תנינא חזרו לומר פירש הרי הוא ככל</row>
-		<row row_number="20" isdata="1">אדם תנו רבנן כל הבכורות אדם רואה</row>
+		<row row_number="20" isdata="1">אדם: תנו רבנן כל הבכורות אדם רואה</row>
 		<row row_number="21" isdata="1">חוץ משל עצמו ורואה את קדשיו ואת</row>
 		<row row_number="22" isdata="1">מעשרותיו ונשאל על טהרותיו אמר מר כל</row>
 		<row row_number="23" isdata="1">הבכורות אדם רואה חוץ משל עצמו במאי</row>
@@ -42,13 +42,13 @@
 		<row row_number="28" isdata="1">הכא נמי ביחיד מומחה ורואה את קדשיו</row>
 		<row row_number="29" isdata="1">דאי בעי מיתשיל עלייהו ומעשרותיו דאי בעי</row>
 		<row row_number="30" isdata="1">שדי ביה מומא בכוליה עדריה ונשאל על</row>
-		<row row_number="31" isdata="1">טהרותיו דהא חזא ליה בימי טומאתו<EndChapter name = "עד כמה ישראל חייבין"/><EndGemara/></row>
+		<row row_number="31" isdata="1">טהרותיו דהא חזא ליה בימי טומאתו:<EndChapter name = "עד כמה ישראל חייבין"/><EndGemara/></row>
 		<row row_number="32" isdata="0">הדרן עלך עד כמה ישראל חייבין</row>
 		<row row_number="33" isdata="1"><StartChapter name = "כל פסולי המוקדשין"/><StartMishna/>כל פסולי המוקדשין (הנאתן להקדש)</row>
 		<row row_number="34" isdata="1">נמכרין באיטליז ונשחטין באיטליז</row>
 		<row row_number="35" isdata="1">ונשקלין בליטרא חוץ מן הבכור והמעשר</row>
 		<row row_number="36" isdata="1">שהנייתן לבעלים פסולי המוקדשין הנייתן</row>
-		<row row_number="37" isdata="1">להקדש ושוקלין מנה כנגד מנה בבכור</row>
+		<row row_number="37" isdata="1">להקדש ושוקלין מנה כנגד מנה בבכור:</row>
 </amud>
 </daf>
 </masechet>

@@ -6,27 +6,27 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:09.811984</dateCreated>
-   <lastModified>2019-12-21 21:42:09.811984</lastModified>
+   <dateCreated>2020-01-06 09:32:52.352162</dateCreated>
+   <lastModified>2020-01-06 09:32:52.352162</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="13">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "הריני נזיר"/><ContGemara/>הפילה אשתו אינו נזיר ר"ש אומר יאמר אם</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הריני נזיר"/><ContMishna/>הפילה אשתו אינו נזיר ר"ש אומר יאמר אם</row>
 		<row row_number="2" isdata="1">היה בן קיימא הרי אני נזיר חובה ואם לאו</row>
 		<row row_number="3" isdata="1">הרי אני נזיר נדבה חזרה וילדה ה"ז נזיר</row>
 		<row row_number="4" isdata="1">ר"ש אומר יאמר אם הראשון בן קיימא</row>
 		<row row_number="5" isdata="1">הראשון חובה וזו נדבה ואם לאו הראשון</row>
-		<row row_number="6" isdata="1">נדבה וזו חובה<EndMishna/><StartGemara/>גמ' האי מאי למימרא</row>
+		<row row_number="6" isdata="1">נדבה וזו חובה:<EndMishna/><StartGemara/>גמ' האי מאי למימרא</row>
 		<row row_number="7" isdata="1">משום סיפא בת טומטום ואנדרוגינוס אינו</row>
 		<row row_number="8" isdata="1">נזיר פשיטא מהו דתימא לכשאבנה הוא</row>
-		<row row_number="9" isdata="1">דקאמר קמ"ל דלא ואם אמר כשיהיה לי</row>
-		<row row_number="10" isdata="1">ולד כו' פשיטא מהו דתימא ולד דמיחשב</row>
-		<row row_number="11" isdata="1">ביני אינשי בעינן קמ"ל הפילה אשתו</row>
-		<row row_number="12" isdata="1">אינו נזיר מאן קתני לה רבי יהודה</row>
-		<row row_number="13" isdata="1">דכרי הוא ר"ש אומר יאמר אם היה בן</row>
+		<row row_number="9" isdata="1">דקאמר קמ"ל דלא: ואם אמר כשיהיה לי</row>
+		<row row_number="10" isdata="1">ולד כו': פשיטא מהו דתימא ולד דמיחשב</row>
+		<row row_number="11" isdata="1">ביני אינשי בעינן קמ"ל: הפילה אשתו</row>
+		<row row_number="12" isdata="1">אינו נזיר: מאן קתני לה רבי יהודה</row>
+		<row row_number="13" isdata="1">דכרי הוא: ר"ש אומר יאמר אם היה בן</row>
 		<row row_number="14" isdata="1">קיימא הריני נזיר חובה ואם לאו הריני נזיר</row>
-		<row row_number="15" isdata="1">נדבה בעא מיניה רבי אבא מרב הונא</row>
+		<row row_number="15" isdata="1">נדבה: בעא מיניה רבי אבא מרב הונא</row>
 		<row row_number="16" isdata="1">הריני נזיר לכשיהיה לי בן והפילה אשתו</row>
 		<row row_number="17" isdata="1">והפריש קרבן וחזרה וילדה מהו אליבא</row>
 		<row row_number="18" isdata="1">דמאן אי אליבא דר"ש מאי תיבעי ליה הא</row>

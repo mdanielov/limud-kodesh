@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:59.394751</dateCreated>
-   <lastModified>2019-12-21 21:41:59.394751</lastModified>
+   <dateCreated>2020-01-06 09:31:55.865744</dateCreated>
+   <lastModified>2020-01-06 09:31:55.865744</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="25">
@@ -21,9 +21,9 @@
 		<row row_number="7" isdata="1">קמה קצורה ושבולות מקיפות אותה מהלך</row>
 		<row row_number="8" isdata="1">את כולה וחוצה לה אלפים אמה אע"ג</row>
 		<row row_number="9" isdata="1">דקאזיל ואתי התם נמי דעביד ליה בהוצא</row>
-		<row row_number="10" isdata="1">ודפנאמתני' שלוחי מצוה פטורין מן</row>
+		<row row_number="10" isdata="1">ודפנא<EndGemara/><StartMishna/>מתני' שלוחי מצוה פטורין מן</row>
 		<row row_number="11" isdata="1">הסוכה חולין ומשמשיהן פטורין מן הסוכה</row>
-		<row row_number="12" isdata="1">אוכלין ושותין עראי חוץ לסוכה<EndMishna/><StartGemara/>גמ' מה"מ</row>
+		<row row_number="12" isdata="1">אוכלין ושותין עראי חוץ לסוכה:<EndMishna/><StartGemara/>גמ' מה"מ</row>
 		<row row_number="13" isdata="1">דת"ר בשבתך בביתך פרט לעוסק במצוה</row>
 		<row row_number="14" isdata="1">ובלכתך בדרך פרט לחתן מכאן אמרו</row>
 		<row row_number="15" isdata="1">הכונס את הבתולה פטור ואת האלמנה</row>

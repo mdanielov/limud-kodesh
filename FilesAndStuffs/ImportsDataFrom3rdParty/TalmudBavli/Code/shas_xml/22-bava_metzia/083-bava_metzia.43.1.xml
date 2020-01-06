@@ -6,25 +6,25 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:18.723902</dateCreated>
-   <lastModified>2019-12-21 21:42:18.723902</lastModified>
+   <dateCreated>2020-01-06 09:33:35.573785</dateCreated>
+   <lastModified>2020-01-06 09:33:35.573785</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="43">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "המפקיד"/><ContGemara/>ומשלם ליה דמי כיסימתני' המפקיד</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המפקיד"/><ContGemara/>ומשלם ליה דמי כיסי:מתני' המפקידומשלם ליה דמי כיסי<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">מעות אצל שולחני אם צרורין לא ישתמש</row>
 		<row row_number="3" isdata="1">בהן לפיכך אם אבדו אינו חייב באחריותן</row>
 		<row row_number="4" isdata="1">מותרין ישתמש בהן לפיכך אם אבדו חייב</row>
 		<row row_number="5" isdata="1">באחריותן אצל בעל הבית בין צרורין ובין</row>
 		<row row_number="6" isdata="1">מותרין לא ישתמש בהן לפיכך אם אבדו</row>
 		<row row_number="7" isdata="1">אינו חייב באחריותן חנוני כבעל הבית דברי</row>
-		<row row_number="8" isdata="1">ר"מ ר' יהודה אומר חנוני כשולחני<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="8" isdata="1">ר"מ ר' יהודה אומר חנוני כשולחני:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="9" isdata="1">משום דצרורין לא ישתמש בהן אמר רב אסי</row>
 		<row row_number="10" isdata="1">אמר רב יהודה בצרורין וחתומין שנו רב</row>
 		<row row_number="11" isdata="1">מרי אמר בקשר משונה איכא דאמרי בעי</row>
-		<row row_number="12" isdata="1">רב מרי קשר משונה מאי תיקו מותרין</row>
-		<row row_number="13" isdata="1">ישתמש בהן כו' אמר רב הונא ואפילו</row>
+		<row row_number="12" isdata="1">רב מרי קשר משונה מאי תיקו: מותרין</row>
+		<row row_number="13" isdata="1">ישתמש בהן כו': אמר רב הונא ואפילו</row>
 		<row row_number="14" isdata="1">נאנסו והא אבדו קתני כדרבה דאמר רבה</row>
 		<row row_number="15" isdata="1">נגנבו בלסטין מזויין אבדו שטבעה ספינתו בים</row>
 		<row row_number="16" isdata="1">ורב נחמן אמר נאנסו לא אמר ליה רבא</row>
@@ -40,10 +40,10 @@
 		<row row_number="26" isdata="1">מעל הגזבר ואי אמרת אפילו נאנסו מאי</row>
 		<row row_number="27" isdata="1">איריא הוציא אפילו לא הוציא נמי אמר ליה</row>
 		<row row_number="28" isdata="1">הוא הדין אע"ג דלא הוציא ואיידי דתנא רישא</row>
-		<row row_number="29" isdata="1">הוציא תנא סיפא נמי הוציאמתני' השולח</row>
+		<row row_number="29" isdata="1">הוציא תנא סיפא נמי הוציא<EndGemara/><StartMishna/>מתני' השולח</row>
 		<row row_number="30" isdata="1">יד בפקדון בית שמאי אומרים ילקה בחסר</row>
 		<row row_number="31" isdata="1">וביתר ובית הלל אומרים כשעת הוצאה</row>
-		<row row_number="32" isdata="1">ר"ע אומר כשעת התביעה<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="32" isdata="1">ר"ע אומר כשעת התביעה:<EndMishna/><StartGemara/>גמ' אמר</row>
 		<row row_number="33" isdata="1">רבה האי מאן דגזל חביתא דחמרא</row>
 		<row row_number="34" isdata="1">מחבריה מעיקרא שויא זוזא השתא שויא</row>
 		<row row_number="35" isdata="1">ארבעה תברה או שתייה משלם ארבעה</row>

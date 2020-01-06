@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.030284</dateCreated>
-   <lastModified>2019-12-21 21:42:42.030284</lastModified>
+   <dateCreated>2020-01-06 09:35:26.755234</dateCreated>
+   <lastModified>2020-01-06 09:35:26.755234</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="44">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "יוצא דופן"/><ContGemara/>ונוחל ומנחיל וההורגו חייב והרי הוא</row>
-		<row row_number="2" isdata="1">לאביו ולאמו ולכל קרוביו כחתן שלם<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="1" isdata="1"><ContChapter name = "יוצא דופן"/><ContMishna/>ונוחל ומנחיל וההורגו חייב והרי הוא</row>
+		<row row_number="2" isdata="1">לאביו ולאמו ולכל קרוביו כחתן שלם:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="3" isdata="1">מנהני מילי דת"ר אשה אין לי אלא אשה</row>
-		<row row_number="4" isdata="1">בת יום אחד לנדה מנין ת"ל ואשה בת י'</row>
-		<row row_number="5" isdata="1">ימים לזיבה מנא ה"מ דת"ר אשה אין לי אלא</row>
-		<row row_number="6" isdata="1">אשה בת י' ימים לזיבה מנין ת"ל ואשה</row>
-		<row row_number="7" isdata="1">תינוק בן יום אחד כו' מנא הני מילי דת"ר</row>
+		<row row_number="4" isdata="1">בת יום אחד לנדה מנין ת"ל ואשה: בת י'</row>
+		<row row_number="5" isdata="1">ימים לזיבה: מנא ה"מ דת"ר אשה אין לי אלא</row>
+		<row row_number="6" isdata="1">אשה בת י' ימים לזיבה מנין ת"ל ואשה:</row>
+		<row row_number="7" isdata="1">תינוק בן יום אחד כו': מנא הני מילי דת"ר</row>
 		<row row_number="8" isdata="1">איש איש מה ת"ל איש איש לרבות בן יום</row>
 		<row row_number="9" isdata="1">אחד שמטמא בזיבה דברי רבי יהודה רבי</row>
 		<row row_number="10" isdata="1">ישמעאל בנו של רבי יוחנן בן ברוקא אומר</row>
@@ -26,15 +26,15 @@
 		<row row_number="12" isdata="1">ולנקבה לזכר כל שהוא בין גדול בין קטן</row>
 		<row row_number="13" isdata="1">לנקבה כל שהיא בין גדולה בין קטנה אם כן</row>
 		<row row_number="14" isdata="1">מה ת"ל איש איש דברה תורה כלשון בני</row>
-		<row row_number="15" isdata="1">אדם ומטמא בנגעים דכתיב אדם כי יהיה</row>
-		<row row_number="16" isdata="1">בעור בשרו אדם כל שהו ומטמא בטמא</row>
-		<row row_number="17" isdata="1">מת דכתיב ועל הנפשות אשר היו שם</row>
-		<row row_number="18" isdata="1">נפש כל דהו וזוקק ליבום דכתיב כי ישבו</row>
+		<row row_number="15" isdata="1">אדם: ומטמא בנגעים: דכתיב אדם כי יהיה</row>
+		<row row_number="16" isdata="1">בעור בשרו אדם כל שהו: ומטמא בטמא</row>
+		<row row_number="17" isdata="1">מת: דכתיב ועל הנפשות אשר היו שם</row>
+		<row row_number="18" isdata="1">נפש כל דהו: וזוקק ליבום: דכתיב כי ישבו</row>
 		<row row_number="19" isdata="1">אחים יחדיו אחים שהיה להם ישיבה אחת</row>
-		<row row_number="20" isdata="1">בעולם ופוטר מן היבום ובן אין לו אמר</row>
-		<row row_number="21" isdata="1">רחמנא והא אית ליה ומאכיל בתרומה</row>
+		<row row_number="20" isdata="1">בעולם: ופוטר מן היבום: ובן אין לו אמר</row>
+		<row row_number="21" isdata="1">רחמנא והא אית ליה: ומאכיל בתרומה:</row>
 		<row row_number="22" isdata="1">דכתיב ויליד ביתו הם יאכלו בלחמו קרי ביה</row>
-		<row row_number="23" isdata="1">יאכילו בלחמו ופוסל מן התרומה וזרע אין</row>
+		<row row_number="23" isdata="1">יאכילו בלחמו: ופוסל מן התרומה: וזרע אין</row>
 		<row row_number="24" isdata="1">לה אמר רחמנא והא אית לה מאי איריא זרע</row>
 		<row row_number="25" isdata="1">אפילו עובר נמי דכתיב כנעוריה פרט</row>
 		<row row_number="26" isdata="1">למעוברת צריכי דאי כתב רחמנא וזרע אין</row>
@@ -51,8 +51,8 @@
 		<row row_number="37" isdata="1">לו בנים משאינה גרושה ויש לו בן יום אחד</row>
 		<row row_number="38" isdata="1">מן הגרושה דפוסל בעבדי אביו מלאכול</row>
 		<row row_number="39" isdata="1">בתרומה ולאפוקי מדר' יוסי דאמר עובר נמי</row>
-		<row row_number="40" isdata="1">פוסל קמ"ל בן יום אחד אין עובר לא נוחל</row>
-		<row row_number="41" isdata="1">ומנחיל נוחל ממאן מאביו ומנחיל למאן לאחיו מאביו אי בעי מאבוה לירתי ואי</row>
+		<row row_number="40" isdata="1">פוסל קמ"ל בן יום אחד אין עובר לא: נוחל</row>
+		<row row_number="41" isdata="1">ומנחיל: נוחל ממאן מאביו ומנחיל למאן לאחיו מאביו אי בעי מאבוה לירתי ואי</row>
 		<row row_number="42" isdata="1">בעי מיניה לירתי אמר רב ששת נוחל בנכסי האם להנחיל לאחיו מן האב ודוקא</row>
 		<row row_number="43" isdata="1">בן יום אחד אבל עובר לא מ"ט דהוא מיית ברישא ואין הבן יורש את אמו</row>
 </amud>

@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:56.827148</dateCreated>
-   <lastModified>2019-12-21 21:41:56.827148</lastModified>
+   <dateCreated>2020-01-06 09:31:36.449019</dateCreated>
+   <lastModified>2020-01-06 09:31:36.449019</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="116">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>שלשה דברים אלו בפסח לא יצא ידי חובתו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContMishna/>שלשה דברים אלו בפסח לא יצא ידי חובתו</row>
 		<row row_number="2" isdata="1">ואלו הן פסח מצה ומרור פסח על שום</row>
 		<row row_number="3" isdata="1">שפסח המקום על בתי אבותינו במצרים</row>
 		<row row_number="4" isdata="1">[שנאמר ואמרתם זבח פסח הוא לה' אשר</row>
@@ -35,7 +35,7 @@
 		<row row_number="21" isdata="1">את אבותינו ממצרים ולא היה חותם רבי עקיבא אומר כן ה' אלהינו ואלהי</row>
 		<row row_number="22" isdata="1">אבותינו יגיענו למועדים ולרגלים אחרים הבאים לקראתנו לשלום שמחים</row>
 		<row row_number="23" isdata="1">בבנין עירך וששים בעבודתך ונאכל שם (מן הפסחים ומן הזבחים) כו' עד</row>
-		<row row_number="24" isdata="1">בא"י גאל ישראל<EndMishna/><StartGemara/>גמ' אמר רבא צריך שיאמר ואותנו הוציא משם אמר</row>
+		<row row_number="24" isdata="1">בא"י גאל ישראל:<EndMishna/><StartGemara/>גמ' אמר רבא צריך שיאמר ואותנו הוציא משם אמר</row>
 		<row row_number="25" isdata="1">רבא מצה צריך להגביה ומרור צריך להגביה בשר א"צ להגביה ולא עוד</row>
 		<row row_number="26" isdata="1">אלא שנראה כאוכל קדשים בחוץ אמר רב אחא בר יעקב סומא פטור מלומר</row>
 		<row row_number="27" isdata="1">הגדה כתיב הכא בעבור זה וכתיב התם בננו זה מה להלן פרט לסומא</row>
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">קסבר כל דתקון רבנן כעין דאורייתא תיקון לרב ששת ולרב יוסף נמי הא ודאי</row>
 		<row row_number="33" isdata="1">כל דתקון רבנן כעין דאורייתא תיקון הכי השתא בשלמא התם מדהוה ליה</row>
 		<row row_number="34" isdata="1">למיכתב בננו הוא וכתיב בננו זה ש"מ פרט לסומין הוא דאתא אבל הכא אי לאו</row>
-		<row row_number="35" isdata="1">בעבור זה מאי לכתוב אלא בעבור מצה ומרור הוא דאתא לפיכך אנחנו חייבין</row>
+		<row row_number="35" isdata="1">בעבור זה מאי לכתוב אלא בעבור מצה ומרור הוא דאתא: לפיכך אנחנו חייבין:</row>
 </amud>
 </daf>
 </masechet>

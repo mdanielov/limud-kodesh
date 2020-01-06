@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:21.141069</dateCreated>
-   <lastModified>2019-12-21 21:42:21.141069</lastModified>
+   <dateCreated>2020-01-06 09:33:46.584729</dateCreated>
+   <lastModified>2020-01-06 09:33:46.584729</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="25">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "לא יחפור"/><ContGemara/>שעושה אותו גללמתני' מרחיקין את</row>
+		<row row_number="1" isdata="1"><ContChapter name = "לא יחפור"/><ContGemara/>שעושה אותו גלל:מתני' מרחיקין אתשעושה אותו גלל<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">הנבלות ואת הקברות ואת הבורסקי מן העיר</row>
 		<row row_number="3" isdata="1">חמשים אמה אין עושין בורסקי אלא למזרח</row>
 		<row row_number="4" isdata="1">העיר רבי עקיבא אומר לכל רוח הוא עושה</row>
 		<row row_number="5" isdata="1">חוץ ממערבה ומרחיק חמשים אמה</row>
 		<row row_number="6" isdata="1">ומרחיקין את המשרה מן הירק ואת</row>
 		<row row_number="7" isdata="1">הכרישין מן הבצלים ואת החרדל מן</row>
-		<row row_number="8" isdata="1">הדבורים ורבי יוסי מתיר בחרדל</row>
+		<row row_number="8" isdata="1">הדבורים ורבי יוסי מתיר בחרדל:</row>
 		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' איבעיא להו ר' עקיבא היכי קאמר לכל</row>
 		<row row_number="10" isdata="1">רוח הוא עושה וסומך חוץ ממערבה</row>
 		<row row_number="11" isdata="1">דמרחיק נ' אמה ועושה או דלמא לכל רוח</row>

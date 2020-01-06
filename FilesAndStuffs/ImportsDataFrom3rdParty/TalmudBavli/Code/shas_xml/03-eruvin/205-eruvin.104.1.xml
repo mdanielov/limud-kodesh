@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.102286</dateCreated>
-   <lastModified>2019-12-21 21:41:54.102286</lastModified>
+   <dateCreated>2020-01-06 09:31:24.483526</dateCreated>
+   <lastModified>2020-01-06 09:31:24.483526</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="104">
@@ -17,10 +17,10 @@
 		<row row_number="3" isdata="1">פליגא דרב יהודה בריה דרבי חייא שאני</row>
 		<row row_number="4" isdata="1">צלצול קטן דחשיב ולרבי יוחנן אדאשמעינן</row>
 		<row row_number="5" isdata="1">גמי לישמעינן צלצול קטן מילתא אגב</row>
-		<row row_number="6" isdata="1">אורחיה קמ"ל דגמי מסימתני' בוזקין</row>
+		<row row_number="6" isdata="1">אורחיה קמ"ל דגמי מסי<EndGemara/><StartMishna/>מתני' בוזקין</row>
 		<row row_number="7" isdata="1">מלח על גבי כבש בשביל שלא יחליקו</row>
 		<row row_number="8" isdata="1">וממלאין מבור הגולה ומבור הגדול בגלגל</row>
-		<row row_number="9" isdata="1">בשבת ומבאר הקר ביום טוב<EndMishna/><StartGemara/>גמ' רמי</row>
+		<row row_number="9" isdata="1">בשבת ומבאר הקר ביום טוב:<EndMishna/><StartGemara/>גמ' רמי</row>
 		<row row_number="10" isdata="1">ליה רב איקא מפשרוניא לרבא תנן בוזקין</row>
 		<row row_number="11" isdata="1">מלח על גבי הכבש בשביל שלא יחליקו</row>
 		<row row_number="12" isdata="1">במקדש אין במדינה לא ורמינהי חצר</row>
@@ -41,8 +41,8 @@
 		<row row_number="27" isdata="1">הדר אוקים רבא אמורא עליה ודרש דברים</row>
 		<row row_number="28" isdata="1">שאמרתי לפניכם טעות הן בידי ברם כך</row>
 		<row row_number="29" isdata="1">אמרו משום רבי אליעזר וכשהוא מרדה אינו</row>
-		<row row_number="30" isdata="1">מרדה לא בסל ולא בקופה אלא בשולי קופה</row>
-		<row row_number="31" isdata="1">ממלאין מבור הגולה עולא איקלע לבי רב</row>
+		<row row_number="30" isdata="1">מרדה לא בסל ולא בקופה אלא בשולי קופה:</row>
+		<row row_number="31" isdata="1">ממלאין מבור הגולה: עולא איקלע לבי רב</row>
 		<row row_number="32" isdata="1">מנשה אתא ההוא גברא טרף אבבא אמר</row>
 		<row row_number="33" isdata="1">מאן האי ליתחל גופיה דקא מחיל ליה</row>
 		<row row_number="34" isdata="1">לשבתא א"ל רבה לא אסרו אלא קול של</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:28.828250</dateCreated>
-   <lastModified>2019-12-21 21:42:28.828250</lastModified>
+   <dateCreated>2020-01-06 09:34:23.078477</dateCreated>
+   <lastModified>2020-01-06 09:34:23.078477</lastModified>
  </meta>
  <masechet name="עבודה זרה" serial="27">
 <daf value="13">
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">שמכניסו תחת כנפי השכינה אמר רב אשי</row>
 		<row row_number="27" isdata="1">אטו בהמה מאי מכניס תחת כנפי השכינה</row>
 		<row row_number="28" isdata="1">איכא אלא משום מעוטייהו וה"נ דממעטי</row>
-		<row row_number="29" isdata="1">שרי רבי יעקב זבן סנדלא ר' ירמיה זבן פיתא</row>
+		<row row_number="29" isdata="1">שרי: רבי יעקב זבן סנדלא ר' ירמיה זבן פיתא</row>
 		<row row_number="30" isdata="1">אמר ליה חד לחבריה יתמא עבד רבך הכי</row>
 		<row row_number="31" isdata="1">אמר ליה אידך יתמא עבד רבך הכי ותרוייהו</row>
 		<row row_number="32" isdata="1">מבעה"ב זבון וכל חד וחד סבר חבראי מתגר</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">בר אבא אילמלא היה ר' יוחנן הא זימנא</row>
 		<row row_number="38" isdata="1">באתרא דקא שקלי מיכסא אפי' מבעה"ב הוה</row>
 		<row row_number="39" isdata="1">אסר אלא אינהו היכי זבון מבעה"ב שאינו</row>
-		<row row_number="40" isdata="1">קבוע זבוןמתני' אלו דברים אסורים</row>
+		<row row_number="40" isdata="1">קבוע זבון<EndGemara/><StartMishna/>מתני' אלו דברים אסורים</row>
 		<row row_number="41" isdata="1">למכור לעובד כוכבים אצטרובלין ובנות שוח</row>
 		<row row_number="42" isdata="1">ופטוטרות ולבונה ותרנגול הלבן רבי יהודה</row>
 		<row row_number="43" isdata="1">אומר מותר למכור לו תרנגול לבן בין</row>
@@ -59,7 +59,7 @@
 		<row row_number="45" isdata="1">אצבעו ומוכרו לו לפי שאין מקריבים חסר</row>
 		<row row_number="46" isdata="1">לעבודת כוכבים ושאר כל הדברים סתמן</row>
 		<row row_number="47" isdata="1">מותר ופירושן אסור ר"מ אומר אף דקל טב וחצב</row>
-		<row row_number="48" isdata="1">(ונקלב) אסור למכור לעובדי כוכבים<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="48" isdata="1">(ונקלב) אסור למכור לעובדי כוכבים:<EndMishna/><StartGemara/>גמ'</row>
 </amud>
 </daf>
 </masechet>

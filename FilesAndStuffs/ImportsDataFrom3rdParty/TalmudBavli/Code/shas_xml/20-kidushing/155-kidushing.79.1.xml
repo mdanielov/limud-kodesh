@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:15.192442</dateCreated>
-   <lastModified>2019-12-21 21:42:15.192442</lastModified>
+   <dateCreated>2020-01-06 09:33:20.021433</dateCreated>
+   <lastModified>2020-01-06 09:33:20.021433</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="79">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "עשרה יוחסין "/><ContGemara/>שניהם נותנים גט ואם רצו אחד נותן גט ואחד</row>
+		<row row_number="1" isdata="1"><ContChapter name = "עשרה יוחסין "/><ContMishna/>שניהם נותנים גט ואם רצו אחד נותן גט ואחד</row>
 		<row row_number="2" isdata="1">כונס וכן האשה שנתנה רשות לשלוחה</row>
 		<row row_number="3" isdata="1">לקדשה והלכה וקדשה את עצמה אם שלה</row>
 		<row row_number="4" isdata="1">קדמו קדושיה קידושין ואם של שלוחה קדמו</row>
 		<row row_number="5" isdata="1">קידושיו קידושין ואם אינן יודעין שניהם נותנים</row>
-		<row row_number="6" isdata="1">לה גט ואם רצו אחד נותן לה גט ואחד כונס</row>
+		<row row_number="6" isdata="1">לה גט ואם רצו אחד נותן לה גט ואחד כונס:</row>
 		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' וצריכא דאי אשמעינן גבי דידיה משום</row>
 		<row row_number="8" isdata="1">דגברא קים ליה ביוחסין אבל איתתא דלא</row>
 		<row row_number="9" isdata="1">קים לה ביוחסין אימא לא ניהוו קידושיה</row>

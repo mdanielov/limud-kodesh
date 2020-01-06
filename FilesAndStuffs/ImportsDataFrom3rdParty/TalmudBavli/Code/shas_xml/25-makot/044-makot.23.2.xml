@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.739223</dateCreated>
-   <lastModified>2019-12-21 21:42:27.739223</lastModified>
+   <dateCreated>2020-01-06 09:34:17.440094</dateCreated>
+   <lastModified>2020-01-06 09:34:17.440094</lastModified>
  </meta>
  <masechet name="מכות" serial="25">
 <daf value="23">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "אלו הן הלוקין "/><ContGemara/>אשר יעשה אותם האדם וחי בהם הא כל</row>
+		<row row_number="1" isdata="1"><ContChapter name = "אלו הן הלוקין "/><ContMishna/>אשר יעשה אותם האדם וחי בהם הא כל</row>
 		<row row_number="2" isdata="1">היושב ולא עבר עבירה נותנין לו שכר</row>
 		<row row_number="3" isdata="1">כעושה מצוה ר"ש בר רבי אומר הרי הוא</row>
 		<row row_number="4" isdata="1">אומר רק חזק לבלתי אכול (את) הדם כי</row>
@@ -22,7 +22,7 @@
 		<row row_number="8" isdata="1">להן ומחמדתן הפורש מהן על אחת כמה וכמה שיזכה לו ולדורותיו ולדורות</row>
 		<row row_number="9" isdata="1">דורותיו עד סוף כל הדורות ר' חנניא בן עקשיא אומר רצה הקב"ה לזכות את</row>
 		<row row_number="10" isdata="1">ישראל לפיכך הרבה להם תורה ומצות שנאמר ה' חפץ למען צדקו יגדיל</row>
-		<row row_number="11" isdata="1">תורה ויאדיר<EndMishna/><StartGemara/>גמ' א"ר יוחנן חלוקין עליו חבריו על רבי חנניה בן גמליאל</row>
+		<row row_number="11" isdata="1">תורה ויאדיר:<EndMishna/><StartGemara/>גמ' א"ר יוחנן חלוקין עליו חבריו על רבי חנניה בן גמליאל</row>
 		<row row_number="12" isdata="1">אמר רב אדא בר אהבה אמרי בי רב תנינן אין בין שבת ליום הכפורים</row>
 		<row row_number="13" isdata="1">אלא שזה זדונו בידי אדם וזה זדונו בהכרת ואם איתא אידי ואידי בידי אדם</row>
 		<row row_number="14" isdata="1">הוא רב נחמן (בר יצחק) אומר הא מני רבי יצחק היא דאמר מלקות בחייבי</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">הופיע רוח הקודש בבית דינו של שם ובבית דינו של שמואל הרמתי ובבית</row>
 		<row row_number="32" isdata="1">דינו של שלמה בבית דינו של שם דכתיב ויכר יהודה ויאמר צדקה ממני</row>
 		<row row_number="33" isdata="1">מנא ידע דלמא כי היכי דאזל איהו לגבה אזל נמי אינש אחרינא [לגבה]</row>
-		<row row_number="34" isdata="1">יצאת בת קול ואמרה ממני יצאו כבושים בבית דינו של שמואל דכתיב</row>
+		<row row_number="34" isdata="1">יצאת בת קול ואמרה ממני יצאו כבושים: בבית דינו של שמואל דכתיב</row>
 		<row row_number="35" isdata="1">הנני ענו בי נגד ה' ונגד משיחו את שור מי לקחתי ויאמרו לא עשקתנו ולא</row>
 		<row row_number="36" isdata="1">רצותנו ויאמר עד ה' ועד משיחו כי לא מצאתם בידי מאומה ויאמר עד</row>
 		<row row_number="37" isdata="1">ויאמר ויאמרו מיבעי ליה יצאת בת קול ואמרה אני עד בדבר זה בבית דינו</row>
@@ -54,7 +54,7 @@
 		<row row_number="40" isdata="1">ואמרה היא אמו אמר רבא ממאי דלמא יהודה כיון דחשיב ירחי ויומי</row>
 		<row row_number="41" isdata="1">ואיתרמי דחזינן מחזקינן דלא חזינן לא מחזקינן שמואל נמי כולהו ישראל</row>
 		<row row_number="42" isdata="1">קרי להו בלשון יחידי דכתיב ישראל נושע בה' שלמה נמי מדהא קא</row>
-		<row row_number="43" isdata="1">מרחמתא והא לא קא מרחמתא אלא גמרא דרש רבי שמלאי שש מאות</row>
+		<row row_number="43" isdata="1">מרחמתא והא לא קא מרחמתא אלא גמרא: דרש רבי שמלאי שש מאות</row>
 		<row row_number="44" isdata="1">ושלש עשרה מצות נאמרו לו למשה שלש מאות וששים וחמש לאוין כמנין</row>
 		<row row_number="45" isdata="1">ימות החמה ומאתים וארבעים ושמונה עשה כנגד איבריו של אדם אמר</row>
 		<row row_number="46" isdata="1">רב המנונא מאי קרא תורה צוה לנו משה מורשה תורה בגימטריא</row>

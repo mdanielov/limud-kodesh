@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.431729</dateCreated>
-   <lastModified>2019-12-21 21:42:08.431729</lastModified>
+   <dateCreated>2020-01-06 09:32:47.319310</dateCreated>
+   <lastModified>2020-01-06 09:32:47.319310</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="43">
@@ -18,7 +18,7 @@
 		<row row_number="4" isdata="1">מיניה אלא לא ישאל הימנו מאי קא מיתהני</row>
 		<row row_number="5" isdata="1">מיניה א"ר יוסי בר' חנינא כגון שנדרו הנאה</row>
 		<row row_number="6" isdata="1">זה מזה אביי אמר גזירה לשאול משום</row>
-		<row row_number="7" isdata="1">להשאיל וכן בכולהו גזירהמתני' אמר לו</row>
+		<row row_number="7" isdata="1">להשאיל וכן בכולהו גזירה<EndGemara/><StartMishna/>מתני' אמר לו</row>
 		<row row_number="8" isdata="1">השאילני פרתך אמר לו אינה פנויה אמר</row>
 		<row row_number="9" isdata="1">קונם שדי שאני חורש בה לעולם אם היה</row>
 		<row row_number="10" isdata="1">דרכו לחרוש הוא אסור וכל אדם מותרים</row>
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">יאכל נותן לאחד לשום מתנה והלה מותר</row>
 		<row row_number="21" isdata="1">בה אם אין עמהם אחר מניח על הסלע או על</row>
 		<row row_number="22" isdata="1">הגדר ואומר הרי הן מופקרים לכל מי שיחפוץ</row>
-		<row row_number="23" isdata="1">והלה נוטל ואוכל ור' יוסי אוסר<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="23" isdata="1">והלה נוטל ואוכל ור' יוסי אוסר:<EndMishna/><StartGemara/>גמ' אמר</row>
 		<row row_number="24" isdata="1">ר' יוחנן מ"ט דר' יוסי קסבר הפקר כמתנה</row>
 		<row row_number="25" isdata="1">מה מתנה עד דאתיא מרשות נותן לרשות</row>
 		<row row_number="26" isdata="1">מקבל אף הפקר עד דאתי לרשות זוכה מתיב</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.097523</dateCreated>
-   <lastModified>2019-12-21 21:42:12.097523</lastModified>
+   <dateCreated>2020-01-06 09:33:03.990855</dateCreated>
+   <lastModified>2020-01-06 09:33:03.990855</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="13">
@@ -22,10 +22,10 @@
 		<row row_number="8" isdata="1">שמואל בר רב יצחק מפני שמפסידו משפחה</row>
 		<row row_number="9" isdata="1">כנענית אדרבה הרי הוא מתירו בבת חורין</row>
 		<row row_number="10" isdata="1">עבדא בהפקירא ניחא ליה זילא ליה שכיחא</row>
-		<row row_number="11" isdata="1">ליה פריצה ליהמתני' האומר תנו גט זה</row>
+		<row row_number="11" isdata="1">ליה פריצה ליה<EndGemara/><StartMishna/>מתני' האומר תנו גט זה</row>
 		<row row_number="12" isdata="1">לאשתי שטר שחרור זה לעבדי ומת לא יתנו</row>
 		<row row_number="13" isdata="1">לאחר מיתה תנו מנה לאיש פלוני ומת יתנו</row>
-		<row row_number="14" isdata="1">לאחר מיתה<EndMishna/><StartGemara/>גמ' אמר רב יצחק בר שמואל</row>
+		<row row_number="14" isdata="1">לאחר מיתה:<EndMishna/><StartGemara/>גמ' אמר רב יצחק בר שמואל</row>
 		<row row_number="15" isdata="1">בר מרתא משמיה דרב והוא שצבורין ומונחין</row>
 		<row row_number="16" isdata="1">בקרן זוית במאי עסקינן אילימא בבריא כי</row>
 		<row row_number="17" isdata="1">צבורין מאי הוי הא לא משך ואלא בשכיב</row>

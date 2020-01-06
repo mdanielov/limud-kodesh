@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.671275</dateCreated>
-   <lastModified>2019-12-21 21:42:35.671275</lastModified>
+   <dateCreated>2020-01-06 09:34:53.481801</dateCreated>
+   <lastModified>2020-01-06 09:34:53.481801</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="24">
@@ -27,9 +27,9 @@
 		<row row_number="13" isdata="1">מק"ו ומה פרה שלא הוכשרה בעריפה כשרה</row>
 		<row row_number="14" isdata="1">בשחיטה עגלה שכשרה בעריפה אינו דין</row>
 		<row row_number="15" isdata="1">שהוכשרה בשחיטה אמר קרא וערפו</row>
-		<row row_number="16" isdata="1">העגלה בעריפה אין בשחיטה לאמתני'</row>
+		<row row_number="16" isdata="1">העגלה בעריפה אין בשחיטה לא<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="17" isdata="1">כשר בכהנים פסול בלוים כשר בלוים פסול</row>
-		<row row_number="18" isdata="1">בכהנים<EndMishna/><StartGemara/>גמ' ת"ר כהנים במומין פסולים</row>
+		<row row_number="18" isdata="1">בכהנים:<EndMishna/><StartGemara/>גמ' ת"ר כהנים במומין פסולים</row>
 		<row row_number="19" isdata="1">בשנים כשרים לוים במומין כשרים בשנים</row>
 		<row row_number="20" isdata="1">פסולים נמצא כשר בכהנים פסול בלוים כשר</row>
 		<row row_number="21" isdata="1">בלוים פסול בכהנים מנה"מ דת"ר זאת</row>

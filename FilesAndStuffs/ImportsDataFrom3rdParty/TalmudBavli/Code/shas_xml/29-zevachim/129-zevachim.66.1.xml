@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.667735</dateCreated>
-   <lastModified>2019-12-21 21:42:31.667735</lastModified>
+   <dateCreated>2020-01-06 09:34:36.040325</dateCreated>
+   <lastModified>2020-01-06 09:34:36.040325</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="66">
@@ -19,11 +19,11 @@
 		<row row_number="5" isdata="1">הוא דרמי לכסויי אבל הכא מכדי כתיב</row>
 		<row row_number="6" isdata="1">והקריבו חלק הכתוב בין חטאת העוף לעולת</row>
 		<row row_number="7" isdata="1">העוף לא יבדיל למה לי ש"מ אין צריך</row>
-		<row row_number="8" isdata="1">להבדיל מיצה דם הגוף ת"ר עולה אע"פ</row>
+		<row row_number="8" isdata="1">להבדיל: מיצה דם הגוף: ת"ר עולה אע"פ</row>
 		<row row_number="9" isdata="1">שמיצה דם הגוף ולא מיצה דם הראש יכול</row>
 		<row row_number="10" isdata="1">מיצה דם הראש ולא מיצה דם הגוף ת"ל</row>
 		<row row_number="11" isdata="1">הוא מאי תלמודא אמר רבינא מסתברא</row>
-		<row row_number="12" isdata="1">דרוב דמים בגוף שכיחי<EndChapter name = "קדשי קדשים"/><EndGemara/></row>
+		<row row_number="12" isdata="1">דרוב דמים בגוף שכיחי:<EndChapter name = "קדשי קדשים"/><EndGemara/></row>
 		<row row_number="13" isdata="0">הדרן עלך קדשי קדשים</row>
 		<row row_number="14" isdata="1"><StartChapter name = "חטאת העוף"/><StartMishna/>חטאת העוף שעשאה למטה כמעשה</row>
 		<row row_number="15" isdata="1">חטאת לשם חטאת כשירה</row>
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">עולה כשירה כמעשה עולה לשם חטאת</row>
 		<row row_number="21" isdata="1">כשירה ובלבד שלא עלתה לבעליה כמעשה</row>
 		<row row_number="22" isdata="1">חטאת לשם עולה כמעשה חטאת לשם חטאת</row>
-		<row row_number="23" isdata="1">פסולה עשאה למטה כמעשה כולן פסולה</row>
+		<row row_number="23" isdata="1">פסולה עשאה למטה כמעשה כולן פסולה :</row>
 </amud>
 </daf>
 </masechet>

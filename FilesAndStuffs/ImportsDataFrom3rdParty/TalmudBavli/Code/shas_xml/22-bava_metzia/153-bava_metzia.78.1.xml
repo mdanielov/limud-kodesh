@@ -6,23 +6,23 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:19.482420</dateCreated>
-   <lastModified>2019-12-21 21:42:19.482420</lastModified>
+   <dateCreated>2020-01-06 09:33:39.012913</dateCreated>
+   <lastModified>2020-01-06 09:33:39.012913</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="78">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "השוכר את האומנין"/><ContGemara/>מפני רעתה פשיטא בעי לזבוני במאה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "השוכר את האומנין"/><ContGemara/>מפני רעתה: פשיטא בעי לזבוני במאה</row>
 		<row row_number="2" isdata="1">ולא אשכח וזבין במאתים וקא עייל ונפיק אזוזי</row>
 		<row row_number="3" isdata="1">לא קני אלא אי בעי לזבוני במאה ולא אשכח</row>
 		<row row_number="4" isdata="1">ואי טרח הוה משכח ולא טרח וזבין במאתים</row>
 		<row row_number="5" isdata="1">וקא עייל ונפיק אזוזי מאי כמוכר שדהו מפני</row>
-		<row row_number="6" isdata="1">רעתה דמי או לא תיקו שכר את החמר</row>
-		<row row_number="7" isdata="1">ואת הקדר וכו' שוכר עליהן או מטען עד</row>
+		<row row_number="6" isdata="1">רעתה דמי או לא תיקו: שכר את החמר</row>
+		<row row_number="7" isdata="1">ואת הקדר וכו' שוכר עליהן או מטען: עד</row>
 		<row row_number="8" isdata="1">כמה שוכר עליהן אמר רב נחמן עד כדי</row>
 		<row row_number="9" isdata="1">שכרן איתיביה רבא לרב נחמן עד ארבעים</row>
 		<row row_number="10" isdata="1">וחמשים זוז אמר ליה כי תניא ההיא שבאתה</row>
-		<row row_number="11" isdata="1">חבילה לידומתני' השוכר את החמור</row>
+		<row row_number="11" isdata="1">חבילה לידו<EndGemara/><StartMishna/>מתני' השוכר את החמור</row>
 		<row row_number="12" isdata="1">להוליכו בהר והוליכו בבקעה בבקע' והוליכו</row>
 		<row row_number="13" isdata="1">בהר אפילו זו עשר מילין וזו עשר מילין ומתה</row>
 		<row row_number="14" isdata="1">חייב השוכר את החמור להוליכה בהר</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">מחמת המעלה חייב השוכר את החמור</row>
 		<row row_number="19" isdata="1">והבריקה או שנעשית אנגריא אומר לו הרי</row>
 		<row row_number="20" isdata="1">שלך לפניך מתה או נשברה חייב להעמיד</row>
-		<row row_number="21" isdata="1">[לו] חמור<EndMishna/><StartGemara/>גמ' מ"ש רישא דלא קא מפליג</row>
+		<row row_number="21" isdata="1">[לו] חמור:<EndMishna/><StartGemara/>גמ' מ"ש רישא דלא קא מפליג</row>
 		<row row_number="22" isdata="1">ומאי שנא סיפא דקא מפליג אמרי דבי ר' ינאי</row>
 		<row row_number="23" isdata="1">רישא שמתה מחמת אויר דאמרינן אוירא</row>
 		<row row_number="24" isdata="1">דהר קטלה ואמרינן אוירא דבקעה קטלה ר'</row>

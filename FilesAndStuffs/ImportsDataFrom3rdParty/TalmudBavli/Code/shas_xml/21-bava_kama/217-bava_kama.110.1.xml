@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:17.605850</dateCreated>
-   <lastModified>2019-12-21 21:42:17.605850</lastModified>
+   <dateCreated>2020-01-06 09:33:30.574666</dateCreated>
+   <lastModified>2020-01-06 09:33:30.574666</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="110">
@@ -35,7 +35,7 @@
 		<row row_number="21" isdata="1">ואינו אוכל ואינו חולק לאכול לערב ס"ד</row>
 		<row row_number="22" isdata="1">אמינא כי חס רחמנא עליה דכהן גדול</row>
 		<row row_number="23" isdata="1">לקרובי הוא אבל לשוויי שליח לא מצי</row>
-		<row row_number="24" isdata="1">משוי קמ"למתני' הגוזל את הגר ונשבע</row>
+		<row row_number="24" isdata="1">משוי קמ"ל<EndGemara/><StartMishna/>מתני' הגוזל את הגר ונשבע</row>
 		<row row_number="25" isdata="1">לו ומת הרי זה משלם קרן וחומש לכהנים</row>
 		<row row_number="26" isdata="1">ואשם למזבח שנאמר ואם אין לאיש גואל</row>
 		<row row_number="27" isdata="1">להשיב האשם אליו האשם המושב לה'</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">יקריבוהו בני ידעיה ואם לא יחזיר ויביא</row>
 		<row row_number="37" isdata="1">אשם אחר שהמביא גזילו עד שלא הביא אשמו יצא הביא אשמו עד</row>
 		<row row_number="38" isdata="1">שלא הביא גזילו לא יצא נתן את הקרן ולא נתן את החומש אין החומש</row>
-		<row row_number="39" isdata="1">מעכב<EndMishna/><StartGemara/>גמ' ת"ר אשם זה קרן המושב זה חומש או אינו אלא אשם זה</row>
+		<row row_number="39" isdata="1">מעכב:<EndMishna/><StartGemara/>גמ' ת"ר אשם זה קרן המושב זה חומש או אינו אלא אשם זה</row>
 		<row row_number="40" isdata="1">איל ולמאי נפקא מינה לאפוקי מדרבא דאמר רבא גזל הגר שהחזירו בלילה</row>
 		<row row_number="41" isdata="1">לא יצא החזירו חצאין לא יצא מ"ט אשם קרייה רחמנא כשהוא אומר מלבד</row>
 		<row row_number="42" isdata="1">איל הכפורים הוי אומר אשם זה קרן תניא אידך אשם זה קרן המושב זה</row>

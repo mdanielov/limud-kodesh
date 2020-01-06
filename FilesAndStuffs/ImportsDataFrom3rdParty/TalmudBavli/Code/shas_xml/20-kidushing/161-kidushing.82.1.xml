@@ -6,27 +6,27 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:15.252445</dateCreated>
-   <lastModified>2019-12-21 21:42:15.252445</lastModified>
+   <dateCreated>2020-01-06 09:33:20.298391</dateCreated>
+   <lastModified>2020-01-06 09:33:20.298391</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="82">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "עשרה יוחסין "/><ContGemara/>הכל לשם שמיםמתני' לא ילמד אדם</row>
+		<row row_number="1" isdata="1"><ContChapter name = "עשרה יוחסין "/><ContGemara/>הכל לשם שמים:מתני' לא ילמד אדםהכל לשם שמים<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">רווק סופרים ולא תלמד אשה סופרים רבי</row>
 		<row row_number="3" isdata="1">אלעזר אומר אף מי שאין לו אשה לא ילמד</row>
 		<row row_number="4" isdata="1">סופרים ר' יהודה אומר לא ירעה רווק בהמה</row>
 		<row row_number="5" isdata="1">ולא יישנו שני רווקין בטלית אחת וחכמים</row>
-		<row row_number="6" isdata="1">מתירים<EndMishna/><StartGemara/>גמ' מאי טעמא אילימא משום</row>
+		<row row_number="6" isdata="1">מתירים:<EndMishna/><StartGemara/>גמ' מאי טעמא אילימא משום</row>
 		<row row_number="7" isdata="1">ינוקי והתניא אמרו לו לר' יהודה לא נחשדו</row>
 		<row row_number="8" isdata="1">ישראל על משכב זכור ולא על הבהמה אלא</row>
 		<row row_number="9" isdata="1">רווק משום אמהתא דינוקי אשה משום</row>
-		<row row_number="10" isdata="1">אבהתא דינוקי ר' אלעזר אומר אף מי שאין</row>
-		<row row_number="11" isdata="1">כו' איבעיא להו מי שאין לו אשה כלל</row>
+		<row row_number="10" isdata="1">אבהתא דינוקי: ר' אלעזר אומר אף מי שאין</row>
+		<row row_number="11" isdata="1">כו': איבעיא להו מי שאין לו אשה כלל</row>
 		<row row_number="12" isdata="1">או דלמא בשאינה שרויה אצלו תא שמע</row>
 		<row row_number="13" isdata="1">אף מי שיש לו ואינה שרויה אצלו לא ילמד</row>
-		<row row_number="14" isdata="1">סופרים ר' יהודה אומר לא ירעה כו' תניא אמרו לו לרבי יהודה לא נחשדו</row>
-		<row row_number="15" isdata="1">ישראל על משכב זכור ולא על הבהמהמתני' כל שעסקיו עם הנשים</row>
+		<row row_number="14" isdata="1">סופרים: ר' יהודה אומר לא ירעה כו': תניא אמרו לו לרבי יהודה לא נחשדו</row>
+		<row row_number="15" isdata="1">ישראל על משכב זכור ולא על הבהמה<EndGemara/><StartMishna/>מתני' כל שעסקיו עם הנשים</row>
 		<row row_number="16" isdata="1">לא יתיחד עם הנשים ולא ילמד אדם את בנו אומנות הנשים רבי מאיר</row>
 		<row row_number="17" isdata="1">אומר לעולם ילמד אדם את בנו אומנות נקיה וקלה ויתפלל למי שהעושר</row>
 		<row row_number="18" isdata="1">והנכסים שלו שאין אומנות שאין בה עניות ועשירות שלא עניות מן האומנות</row>
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">ינובון בשיבה וכן הוא אומר באברהם אבינו ואברהם זקן וה' ברך את</row>
 		<row row_number="33" isdata="1">אברהם בכל מצינו שעשה אברהם אבינו את כל התורה כולה עד שלא</row>
 		<row row_number="34" isdata="1">ניתנה שנאמ' עקב אשר שמע אברהם בקולי וישמור משמרתי מצותי חוקותי</row>
-		<row row_number="35" isdata="1">ותורותי<EndMishna/><StartGemara/>גמ' תנו רבנן כל שעסקיו עם הנשים סורו רע כגון הצורפים</row>
+		<row row_number="35" isdata="1">ותורותי:<EndMishna/><StartGemara/>גמ' תנו רבנן כל שעסקיו עם הנשים סורו רע כגון הצורפים</row>
 		<row row_number="36" isdata="1">והסריקים והנקורות והרוכלין והגרדיים והספרים והכובסים והגרע והבלן</row>
 		<row row_number="37" isdata="1">והבורסקי אין מעמידים מהם לא מלך ולא כהן גדול מאי טעמא לא</row>
 		<row row_number="38" isdata="1">משום דפסילי אלא משום דזיל אומנותיהו תנו רבנן עשרה דברים נאמרו</row>

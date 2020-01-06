@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:47.291045</dateCreated>
-   <lastModified>2019-12-21 21:41:47.291045</lastModified>
+   <dateCreated>2020-01-06 09:30:55.678956</dateCreated>
+   <lastModified>2020-01-06 09:30:55.678956</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="45">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "כיצד מברכין"/><ContGemara/>דחנקתיה אומצא רבי טרפון אומר בורא</row>
-		<row row_number="2" isdata="1">נפשות רבות וחסרונן אמר ליה רבא בר</row>
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד מברכין"/><ContGemara/>דחנקתיה אומצא: רבי טרפון אומר בורא</row>
+		<row row_number="2" isdata="1">נפשות רבות וחסרונן: אמר ליה רבא בר</row>
 		<row row_number="3" isdata="1">רב חנן לאביי ואמרי לה לרב יוסף הלכתא</row>
-		<row row_number="4" isdata="1">מאי אמר ליה פוק חזי מאי עמא דבר<EndChapter name = "כיצד מברכין"/><EndGemara/></row>
+		<row row_number="4" isdata="1">מאי אמר ליה פוק חזי מאי עמא דבר:<EndChapter name = "כיצד מברכין"/><EndGemara/></row>
 		<row row_number="5" isdata="0">הדרן עלך כיצד מברכין</row>
 		<row row_number="6" isdata="1"><StartChapter name = "שלשה שאכלו"/><StartMishna/>שלשה שאכלו כאחת חייבין לזמן אכל</row>
 		<row row_number="7" isdata="1">דמאי ומעשר ראשון שנטלה</row>
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">שני והקדש שלא נפדו והשמש שאכל פחות</row>
 		<row row_number="12" isdata="1">מכזית והנכרי אין מזמנין עליו נשים</row>
 		<row row_number="13" isdata="1">ועבדים וקטנים אין מזמנין עליהן עד כמה</row>
-		<row row_number="14" isdata="1">מזמנין עד כזית ר' יהודה אומר עד כביצה</row>
+		<row row_number="14" isdata="1">מזמנין עד כזית ר' יהודה אומר עד כביצה:</row>
 		<row row_number="15" isdata="1"><EndMishna/><StartGemara/>גמ' מה"מ אמר רב אסי דאמר קרא גדלו</row>
 		<row row_number="16" isdata="1">לה' אתי ונרוממה שמו יחדו רבי אבהו אמר</row>
 		<row row_number="17" isdata="1">מהכא כי שם ה' אקרא הבו גודל לאלהינו</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">תניא נמי הכי אין המתרגם רשאי להגביה</row>
 		<row row_number="26" isdata="1">קולו יותר מן הקורא ואם אי אפשר למתרגם</row>
 		<row row_number="27" isdata="1">להגביה קולו כנגד הקורא ימעך הקורא קולו</row>
-		<row row_number="28" isdata="1">ויקרא אתמר שנים שאכלו כאחת פליגי רב</row>
+		<row row_number="28" isdata="1">ויקרא: אתמר שנים שאכלו כאחת פליגי רב</row>
 		<row row_number="29" isdata="1">ורבי יוחנן חד אמר אם רצו לזמן מזמנין וחד אמר אם רצו לזמן אין מזמנין תנן</row>
 		<row row_number="30" isdata="1">שלשה שאכלו כאחת חייבין לזמן שלשה אין שנים לא התם חובה הכא רשות</row>
 		<row row_number="31" isdata="1">תא שמע שלשה שאכלו כאחת חייבין לזמן ואין רשאין ליחלק שלשה אין</row>

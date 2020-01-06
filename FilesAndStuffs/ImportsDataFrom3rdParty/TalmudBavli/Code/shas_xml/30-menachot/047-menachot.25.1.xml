@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.299451</dateCreated>
-   <lastModified>2019-12-21 21:42:33.299451</lastModified>
+   <dateCreated>2020-01-06 09:34:43.383854</dateCreated>
+   <lastModified>2020-01-06 09:34:43.383854</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="25">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "הקומץ"/><ContMishna/>מתני' נטמא הקומץ והקריבו הציץ מרצה<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">יצא והקריבו אין הציץ מרצה שהציץ מרצה</row>
-		<row row_number="3" isdata="1">על הטמא ואינו מרצה על היוצא<EndMishna/><StartGemara/>גמ' תנו</row>
+		<row row_number="3" isdata="1">על הטמא ואינו מרצה על היוצא:<EndMishna/><StartGemara/>גמ' תנו</row>
 		<row row_number="4" isdata="1">רבנן ונשא אהרן את עון הקדשים וכי</row>
 		<row row_number="5" isdata="1">איזה עון הוא נושא אם תאמר עון פיגול</row>
 		<row row_number="6" isdata="1">הרי כבר נאמר לא יחשב א"ת עון נותר</row>
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">בעופות דאמר מר תמות וזכרות בבהמה</row>
 		<row row_number="21" isdata="1">ואין תמות וזכרות בעופות אמר ליה עליך</row>
 		<row row_number="22" isdata="1">אמר קרא לא ירצה כי לא לרצון יהיה</row>
-		<row row_number="23" isdata="1">לכם תנו רבנן דם שנטמא וזרקו בשוגג</row>
+		<row row_number="23" isdata="1">לכם: תנו רבנן דם שנטמא וזרקו בשוגג</row>
 		<row row_number="24" isdata="1">הורצה במזיד לא הורצה במה דברים אמורים</row>
 		<row row_number="25" isdata="1">ביחיד אבל בציבור בין בשוגג בין במזיד</row>
 		<row row_number="26" isdata="1">הורצה ובעובד כוכבים בין בשוגג בין במזיד בין באונס בין ברצון</row>

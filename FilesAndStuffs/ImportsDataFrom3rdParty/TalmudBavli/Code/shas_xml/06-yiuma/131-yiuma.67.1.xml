@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:58.601286</dateCreated>
-   <lastModified>2019-12-21 21:41:58.601286</lastModified>
+   <dateCreated>2020-01-06 09:31:49.463925</dateCreated>
+   <lastModified>2020-01-06 09:31:49.463925</lastModified>
  </meta>
  <masechet name="יומא" serial="06">
 <daf value="67">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "שני שעירי"/><ContGemara/>תשעים ריס שבעה ומחצה לכל מיל על כל</row>
+		<row row_number="1" isdata="1"><ContChapter name = "שני שעירי"/><ContMishna/>תשעים ריס שבעה ומחצה לכל מיל על כל</row>
 		<row row_number="2" isdata="1">סוכה וסוכה אומרין לו הרי מזון והרי מים</row>
 		<row row_number="3" isdata="1">ומלוין אותו מסוכה לסוכה חוץ מאחרון</row>
 		<row row_number="4" isdata="1">שבהן שאינו מגיע עמו לצוק אלא עומד</row>
@@ -23,7 +23,7 @@
 		<row row_number="9" isdata="1">שנעשה אברים אברים בא וישב לו תחת</row>
 		<row row_number="10" isdata="1">סוכה אחרונה עד שתחשך ומאימתי מטמא</row>
 		<row row_number="11" isdata="1">בגדים משיצא חוץ לחומת ירושלים ר' שמעון</row>
-		<row row_number="12" isdata="1">אומר משעת דחייתו לצוק<EndMishna/><StartGemara/>גמ' תנו רבנן</row>
+		<row row_number="12" isdata="1">אומר משעת דחייתו לצוק:<EndMishna/><StartGemara/>גמ' תנו רבנן</row>
 		<row row_number="13" isdata="1">עשר סוכות ושנים עשר מילין היו דברי</row>
 		<row row_number="14" isdata="1">ר' מאיר ר' יהודה אומר תשע סוכות ועשרה</row>
 		<row row_number="15" isdata="1">מילין ר' יוסי אומר חמש סוכות ועשרה מילין</row>
@@ -32,11 +32,11 @@
 		<row row_number="18" isdata="1">אפילו שתי סוכות ועשרה מילין כמאן אזלא</row>
 		<row row_number="19" isdata="1">הא דתניא חוץ מאחרון שבהן שלא הגיע עמו</row>
 		<row row_number="20" isdata="1">לצוק אלא עומד מרחוק ורואה את מעשיו</row>
-		<row row_number="21" isdata="1">כמאן כר' מאיר על כל סוכה וסוכה אומרים</row>
-		<row row_number="22" isdata="1">לו הרי מזון והרי מים תנא מעולם לא</row>
+		<row row_number="21" isdata="1">כמאן כר' מאיר: על כל סוכה וסוכה אומרים</row>
+		<row row_number="22" isdata="1">לו הרי מזון והרי מים: תנא מעולם לא</row>
 		<row row_number="23" isdata="1">הוצרך אדם לכך אלא שאינו דומה מי שיש</row>
-		<row row_number="24" isdata="1">לו פת בסלו למי שאין לו פת בסלו מה היה</row>
-		<row row_number="25" isdata="1">עושה חולק לשון של זהורית ונקטריה</row>
+		<row row_number="24" isdata="1">לו פת בסלו למי שאין לו פת בסלו: מה היה</row>
+		<row row_number="25" isdata="1">עושה חולק לשון של זהורית: ונקטריה</row>
 		<row row_number="26" isdata="1">כוליה בסלע כיון דמצוה בשעיר דילמא קדים</row>
 		<row row_number="27" isdata="1">ומלבין ומיתבא דעתיה ונקטריה כוליה בין</row>
 		<row row_number="28" isdata="1">קרניו זמנין דגמיש ליה לרישיה ולאו אדעתיה</row>
@@ -51,8 +51,8 @@
 		<row row_number="37" isdata="1">קושרין לשון של זהורית על פתח אולם</row>
 		<row row_number="38" isdata="1">מבפנים וכיון שהגיע שעיר למדבר היה מלבין</row>
 		<row row_number="39" isdata="1">וידעו שנעשית מצותו שנאמר אם יהיו</row>
-		<row row_number="40" isdata="1">חטאיכם כשנים כשלג ילבינו לא היה מגיע</row>
-		<row row_number="41" isdata="1">למחצית ההר איבעיא להו אותן אברים</row>
+		<row row_number="40" isdata="1">חטאיכם כשנים כשלג ילבינו: לא היה מגיע</row>
+		<row row_number="41" isdata="1">למחצית ההר: איבעיא להו אותן אברים</row>
 		<row row_number="42" isdata="1">מה הן בהנאה רב ושמואל חד אמר</row>
 		<row row_number="43" isdata="1">מותרין וחד אמר אסורין מאן דאמר מותרין</row>
 </amud>

@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.760071</dateCreated>
-   <lastModified>2019-12-21 21:42:39.760071</lastModified>
+   <dateCreated>2020-01-06 09:35:13.197874</dateCreated>
+   <lastModified>2020-01-06 09:35:13.197874</lastModified>
  </meta>
  <masechet name="ערכין" serial="33">
 <daf value="19">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "האומר משקלי"/><ContGemara/>רוחבו מהו ישיבתו מהו עוביו מהו היקיפו</row>
-		<row row_number="2" isdata="1">מהו תיקו משקל ידי עלי וכו' ת"ר</row>
+		<row row_number="2" isdata="1">מהו תיקו: משקל ידי עלי וכו': ת"ר</row>
 		<row row_number="3" isdata="1">משקל ידי ומשקל רגלי עלי רבי יהודה</row>
 		<row row_number="4" isdata="1">אומר מביא חבית וממלא מים ומכניס ביד</row>
 		<row row_number="5" isdata="1">עד האציל וברגל עד הארכובה ושוקל</row>
@@ -42,9 +42,9 @@
 		<row row_number="28" isdata="1">ארעא נחית דאי סלקא דעתך מיפסק פסיק</row>
 		<row row_number="29" isdata="1">הוה ליה איסתוירא מעל ושקא מעל דמעל</row>
 		<row row_number="30" isdata="1">רב אשי אמר אפילו תימא מיפסק פסיק כל</row>
-		<row row_number="31" isdata="1">דבהדי כרעא ככרעא דמימתני' דמי ידי</row>
+		<row row_number="31" isdata="1">דבהדי כרעא ככרעא דמי<EndGemara/><StartMishna/>מתני' דמי ידי</row>
 		<row row_number="32" isdata="1">עלי שמין אותו כמה הוא שוה ביד ובלא</row>
-		<row row_number="33" isdata="1">יד זה חומר בנדרים מבערכין<EndMishna/><StartGemara/>גמ' היכי</row>
+		<row row_number="33" isdata="1">יד זה חומר בנדרים מבערכין:<EndMishna/><StartGemara/>גמ' היכי</row>
 		<row row_number="34" isdata="1">שיימינן ליה אמר רבא אומדין אותו אומד</row>
 		<row row_number="35" isdata="1">של נזקין א"ל אביי מי דמי התם גברא זילא</row>
 		<row row_number="36" isdata="1">הוא הכא גברא שביח הוא אמר אביי</row>

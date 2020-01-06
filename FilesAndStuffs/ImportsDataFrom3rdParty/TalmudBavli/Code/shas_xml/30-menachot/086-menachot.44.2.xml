@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.715451</dateCreated>
-   <lastModified>2019-12-21 21:42:33.715451</lastModified>
+   <dateCreated>2020-01-06 09:34:45.241693</dateCreated>
+   <lastModified>2020-01-06 09:34:45.241693</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="44">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "התכלת"/><ContGemara/>ה' עליהם יחיו ולכל בהן חיי רוחי ותחלימני</row>
-		<row row_number="2" isdata="1">והחיינימתני' הסולת והשמן אין מעכבין</row>
+		<row row_number="2" isdata="1">והחייני<EndGemara/><StartMishna/>מתני' הסולת והשמן אין מעכבין</row>
 		<row row_number="3" isdata="1">את היין ולא היין מעכבן המתנות שעל</row>
-		<row row_number="4" isdata="1">המזבח החיצון אין מעכבות זו את זו<EndMishna/><StartGemara/>גמ' ת"ר</row>
+		<row row_number="4" isdata="1">המזבח החיצון אין מעכבות זו את זו:<EndMishna/><StartGemara/>גמ' ת"ר</row>
 		<row row_number="5" isdata="1">ומנחתם ונסכיהם הבא מנחה ואחר כך הבא</row>
 		<row row_number="6" isdata="1">נסכים רבי אומר זבח ונסכים הבא זבח ואחר</row>
 		<row row_number="7" isdata="1">כך הבא נסכים ורבי נמי הכתיב ומנחתם</row>
@@ -35,15 +35,15 @@
 		<row row_number="21" isdata="1">מנחה ואחר כך נסכים ורבי התם הוא דאיידי</row>
 		<row row_number="22" isdata="1">דאתחיל באכילה גמר לה לכולא מילתא</row>
 		<row row_number="23" isdata="1">דאכילה אבל בפני עצמן נסכים עדיפי הואיל</row>
-		<row row_number="24" isdata="1">דמיתאמרא שירה עלייהו המתנות שעל</row>
-		<row row_number="25" isdata="1">מזבח החיצון אין מעכבות זו את זו ת"ר</row>
+		<row row_number="24" isdata="1">דמיתאמרא שירה עלייהו: המתנות שעל</row>
+		<row row_number="25" isdata="1">מזבח החיצון אין מעכבות זו את זו: ת"ר</row>
 		<row row_number="26" isdata="1">מנין לכל הניתנין על מזבח החיצון שנתנן</row>
 		<row row_number="27" isdata="1">במתנה אחת שכיפר שנאמר ודם זבחיך</row>
-		<row row_number="28" isdata="1">ישפך על מזבח ה' אלהיךמתני' הפרים</row>
+		<row row_number="28" isdata="1">ישפך על מזבח ה' אלהיך<EndGemara/><StartMishna/>מתני' הפרים</row>
 		<row row_number="29" isdata="1">והאילים והכבשים (והשעירים) אינן מעכבין</row>
 		<row row_number="30" isdata="1">זה את זה ר' שמעון [אומר] אם היו</row>
 		<row row_number="31" isdata="1">להם פרים מרובים ולא היו להם נסכים יביא פר אחד ונסכים</row>
-		<row row_number="32" isdata="1">ולא יקריבו כולם בלא נסכים<EndMishna/><StartGemara/>גמ' הני פרים וכבשים דהיכא אילימא</row>
+		<row row_number="32" isdata="1">ולא יקריבו כולם בלא נסכים:<EndMishna/><StartGemara/>גמ' הני פרים וכבשים דהיכא אילימא</row>
 		<row row_number="33" isdata="1">דחג כמשפט כמשפטם כתיב בהו אלא דר"ח ועצרת דחומש הפקודים</row>
 </amud>
 </daf>

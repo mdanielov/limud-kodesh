@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:11.330984</dateCreated>
-   <lastModified>2019-12-21 21:42:11.330984</lastModified>
+   <dateCreated>2020-01-06 09:32:59.818448</dateCreated>
+   <lastModified>2020-01-06 09:32:59.818448</lastModified>
  </meta>
  <masechet name="סוטה" serial="18">
 <daf value="18">
@@ -41,7 +41,7 @@
 		<row row_number="27" isdata="1">אמר רבא אלה לחודה קיימא ושבועה לחודה קיימא אלא אמר רבא</row>
 		<row row_number="28" isdata="1">משביעני עליך שאם נטמאת יבואו ביך אמר רב אשי אלה איכא שבועה</row>
 		<row row_number="29" isdata="1">ליכא אלא אמר רב אשי משביעני עליך שלא נטמאת ואם נטמאת</row>
-		<row row_number="30" isdata="1">יבואו ביךמתני' על מה היא אומרת אמן אמן אמן על האלה אמן על</row>
+		<row row_number="30" isdata="1">יבואו ביך<EndGemara/><StartMishna/>מתני' על מה היא אומרת אמן אמן אמן על האלה אמן על</row>
 		<row row_number="31" isdata="1">השבועה אמן מאיש זה אמן מאיש אחר אמן שלא שטיתי ארוסה ונשואה</row>
 </amud>
 </daf>

@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:15.922443</dateCreated>
-   <lastModified>2019-12-21 21:42:15.922443</lastModified>
+   <dateCreated>2020-01-06 09:33:23.266641</dateCreated>
+   <lastModified>2020-01-06 09:33:23.266641</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="32">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "המניח"/><ContGemara/>בואו ונצא לקראת כלה מלכתא ואמרי לה</row>
 		<row row_number="2" isdata="1">לקראת שבת כלה מלכתא רבי ינאי</row>
-		<row row_number="3" isdata="1">מתעטף וקאי ואמר בואי כלה בואי כלה</row>
+		<row row_number="3" isdata="1">מתעטף וקאי ואמר בואי כלה בואי כלה:</row>
 		<row row_number="4" isdata="1"><EndGemara/><StartMishna/>מתני' המבקע ברה"ר והזיק ברה"י ברה"י</row>
-		<row row_number="5" isdata="1">והזיק ברה"ר ברה"י והזיק ברה"י אחר חייב</row>
+		<row row_number="5" isdata="1">והזיק ברה"ר ברה"י והזיק ברה"י אחר חייב:</row>
 		<row row_number="6" isdata="1"><EndMishna/><StartGemara/>גמ' וצריכא דאי תנא המבקע ברה"י והזיק</row>
 		<row row_number="7" isdata="1">ברה"ר משום דשכיחי רבים אבל מרה"ר</row>
 		<row row_number="8" isdata="1">לרה"י דלא שכיחי רבים אימא לא ואי תנא</row>
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">עביד אימא לא ואי תנא הנך תרתי הא</row>
 		<row row_number="12" isdata="1">משום דשכיחי רבים והא משום דשלא</row>
 		<row row_number="13" isdata="1">ברשות אבל מרה"י לרה"י אחר דלא שכיחי</row>
-		<row row_number="14" isdata="1">רבים ומעיקרא ברשות אימא לא צריכא</row>
+		<row row_number="14" isdata="1">רבים ומעיקרא ברשות אימא לא צריכא:</row>
 		<row row_number="15" isdata="1">ת"ר הנכנס לחנותו של נגר שלא ברשות</row>
 		<row row_number="16" isdata="1">ונתזה בקעת וטפחה על פניו ומת פטור</row>
 		<row row_number="17" isdata="1">ואם נכנס ברשות חייב מאי חייב א"ר יוסי</row>

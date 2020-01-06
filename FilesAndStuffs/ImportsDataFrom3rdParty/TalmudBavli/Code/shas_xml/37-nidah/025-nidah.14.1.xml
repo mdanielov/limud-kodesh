@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.401282</dateCreated>
-   <lastModified>2019-12-21 21:42:41.401282</lastModified>
+   <dateCreated>2020-01-06 09:35:23.900769</dateCreated>
+   <lastModified>2020-01-06 09:35:23.900769</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="14">
@@ -22,7 +22,7 @@
 		<row row_number="8" isdata="1">הוא דלא יקרא הא מגנא שפיר דמי לענין</row>
 		<row row_number="9" isdata="1">מגנא כי מצלי שפיר דמי לענין ק"ש כי מצלי</row>
 		<row row_number="10" isdata="1">אסור והא ר' יוחנן מצלי וקרי ק"ש שאני רבי</row>
-		<row row_number="11" isdata="1">יוחנן דבעל בשר הוהמתני' דרך בנות</row>
+		<row row_number="11" isdata="1">יוחנן דבעל בשר הוה<EndGemara/><StartMishna/>מתני' דרך בנות</row>
 		<row row_number="12" isdata="1">ישראל משמשות בשני עדים אחד לו ואחד</row>
 		<row row_number="13" isdata="1">לה והצנועות מתקנות שלישי לתקן את</row>
 		<row row_number="14" isdata="1">הבית נמצא על שלו טמאין וחייבין קרבן</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">מן המטה ותדיח פניה ואח"כ מטמאה מעת</row>
 		<row row_number="19" isdata="1">לעת ואינה מטמאה את בועלה ר"ע אומר</row>
 		<row row_number="20" isdata="1">אף מטמאה את בועלה מודים חכמים לרבי</row>
-		<row row_number="21" isdata="1">עקיבא ברואה כתם שמטמאה את בועלה</row>
+		<row row_number="21" isdata="1">עקיבא ברואה כתם שמטמאה את בועלה:</row>
 		<row row_number="22" isdata="1"><EndMishna/><StartGemara/>גמ' וניחוש דלמא דם מאכולת הוא אמר</row>
 		<row row_number="23" isdata="1">רבי זירא אותו מקום בדוק הוא אצל מאכולת</row>
 		<row row_number="24" isdata="1">ואיכא דאמרי דחוק הוא אצל מאכולת מאי</row>

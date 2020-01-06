@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.445792</dateCreated>
-   <lastModified>2019-12-21 21:42:00.445792</lastModified>
+   <dateCreated>2020-01-06 09:32:04.911836</dateCreated>
+   <lastModified>2020-01-06 09:32:04.911836</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="28">
@@ -52,8 +52,8 @@
 		<row row_number="38" isdata="1">איקא שפוד שפחות וגומות רב מלכיו בלורית</row>
 		<row row_number="39" isdata="1">אפר מקלה וגבינה רב מלכיא רב פפא אמר</row>
 		<row row_number="40" isdata="1">מתניתין ומתניתא רב מלכיא שמעתתא רב מלכיו וסימניך מתניתין מלכתא</row>
-		<row row_number="41" isdata="1">מאי בינייהו איכא בינייהו שפחותמתני' לא יאמר אדם לטבח שקול</row>
-		<row row_number="42" isdata="1">לי בדינר בשר אבל שוחט ומחלק ביניהם<EndMishna/><StartGemara/>גמ' היכי עביד כי הא</row>
+		<row row_number="41" isdata="1">מאי בינייהו איכא בינייהו שפחות<EndGemara/><StartMishna/>מתני' לא יאמר אדם לטבח שקול</row>
+		<row row_number="42" isdata="1">לי בדינר בשר אבל שוחט ומחלק ביניהם:<EndMishna/><StartGemara/>גמ' היכי עביד כי הא</row>
 </amud>
 </daf>
 </masechet>

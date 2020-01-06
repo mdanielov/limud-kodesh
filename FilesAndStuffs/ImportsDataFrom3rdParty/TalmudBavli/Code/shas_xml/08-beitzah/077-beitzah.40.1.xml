@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.642750</dateCreated>
-   <lastModified>2019-12-21 21:42:00.642750</lastModified>
+   <dateCreated>2020-01-06 09:32:06.029920</dateCreated>
+   <lastModified>2020-01-06 09:32:06.029920</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="40">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "משילין פירות "/><ContMishna/>מי שזמן אצלו אורחים לא יוליכו בידם</row>
 		<row row_number="2" isdata="1">מנות אלא אם כן זכה להם מנותיהם מערב</row>
-		<row row_number="3" isdata="1">יו"ט<EndMishna/><StartGemara/>גמ' אתמר המפקיד פירות אצל חבירו</row>
+		<row row_number="3" isdata="1">יו"ט:<EndMishna/><StartGemara/>גמ' אתמר המפקיד פירות אצל חבירו</row>
 		<row row_number="4" isdata="1">רב אמר כרגלי מי שהפקידו לו ושמואל</row>
 		<row row_number="5" isdata="1">אמר כרגלי המפקיד לימא רב ושמואל</row>
 		<row row_number="6" isdata="1">דאזדו לטעמייהו דתנן אם הכניס ברשות</row>
@@ -47,9 +47,9 @@
 		<row row_number="33" isdata="1">כהנא ואי אינהו תלו ליה לא שקיל והתנן הבהמה והכלים כרגלי הבעלים אלא</row>
 		<row row_number="34" isdata="1">שאני רב חנא בר חנילאי דגברא רבה הוא וטריד בשמעתיה וה"ק ליה אי את</row>
 		<row row_number="35" isdata="1">תלית אית לך סימנא בגוויה ולא מסחת דעתך מניה זיל שקול ואי אינהו תלו לך</row>
-		<row row_number="36" isdata="1">מסחת דעתך ולא תשקולמתני' אין משקין ושוחטין את המדבריות</row>
+		<row row_number="36" isdata="1">מסחת דעתך ולא תשקול<EndGemara/><StartMishna/>מתני' אין משקין ושוחטין את המדבריות</row>
 		<row row_number="37" isdata="1">אבל משקין ושוחטין את הבייתות אלו הן בייתות הלנות בעיר מדבריות</row>
-		<row row_number="38" isdata="1">הלנות באפר<EndMishna/><StartGemara/>גמ' למה לי למימר משקין ושוחטין מילתא אגב אורחיה</row>
+		<row row_number="38" isdata="1">הלנות באפר:<EndMishna/><StartGemara/>גמ' למה לי למימר משקין ושוחטין מילתא אגב אורחיה</row>
 		<row row_number="39" isdata="1">קמ"ל דלשקי אינש בהמתו והדר לשחוט משום סרכא דמשכא ת"ר</row>
 		<row row_number="40" isdata="1">אלו הן מדבריות ואלו הן בייתות מדבריות כל שיוצאות בפסח ורועות</row>
 		<row row_number="41" isdata="1">באפר ונכנסות ברביעה ראשונה ואלו הן בייתות כל שיוצאות ורועות חוץ</row>

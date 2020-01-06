@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.030730</dateCreated>
-   <lastModified>2019-12-21 21:42:07.030730</lastModified>
+   <dateCreated>2020-01-06 09:32:40.616444</dateCreated>
+   <lastModified>2020-01-06 09:32:40.616444</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="79">
@@ -31,7 +31,7 @@
 		<row row_number="17" isdata="1">זירא לא קשיא הא בכולה הא במקצתה ואי</row>
 		<row row_number="18" isdata="1">לא קננהי לוקח ניקנינהו בעל אמר אביי</row>
 		<row row_number="19" isdata="1">עשאום כנכסים שאין ידועין לבעל ואליבא</row>
-		<row row_number="20" isdata="1">דר"שמתני' נפלו לה כספים ילקח בהן</row>
+		<row row_number="20" isdata="1">דר"ש<EndGemara/><StartMishna/>מתני' נפלו לה כספים ילקח בהן</row>
 		<row row_number="21" isdata="1">קרקע והוא אוכל פירות פירות התלושין</row>
 		<row row_number="22" isdata="1">מן הקרקע ילקח בהן קרקע והוא אוכל</row>
 		<row row_number="23" isdata="1">פירות [פירות] המחוברים בקרקע א"ר מאיר</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">ביציאתה מקום שהורע כחו בכניסתה יפה</row>
 		<row row_number="31" isdata="1">כחו ביציאתה כיצד פירות המחוברים לקרקע</row>
 		<row row_number="32" isdata="1">בכניסתה שלו וביציאתה שלה והתלושין מן</row>
-		<row row_number="33" isdata="1">הקרקע בכניסתה שלה וביציאתה שלו</row>
+		<row row_number="33" isdata="1">הקרקע בכניסתה שלה וביציאתה שלו:</row>
 		<row row_number="34" isdata="1"><EndMishna/><StartGemara/>גמ' פשיטא ארעא ובתי ארעא בתי ודיקלי</row>
 		<row row_number="35" isdata="1">בתי דיקלי ואילני דיקלי אילני וגופני אילני</row>
 		<row row_number="36" isdata="1">אבא זרדתא ופירא דכוורי אמרי לה פירא</row>

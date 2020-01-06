@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:50.104307</dateCreated>
-   <lastModified>2019-12-21 21:41:50.104307</lastModified>
+   <dateCreated>2020-01-06 09:31:09.059898</dateCreated>
+   <lastModified>2020-01-06 09:31:09.059898</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="106">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "האורג"/><ContMishna/>וצבי לגינה ולחצר ולביברין [חייב] רשב"ג</row>
 		<row row_number="2" isdata="1">אומר לא כל הביברין שוין זה הכלל מחוסר</row>
-		<row row_number="3" isdata="1">צידה פטור שאינו מחוסר צידה חייב</row>
+		<row row_number="3" isdata="1">צידה פטור שאינו מחוסר צידה חייב:</row>
 		<row row_number="4" isdata="1"><EndMishna/><StartGemara/>גמ' תנן התם אין צדין דגים מן הביברין</row>
 		<row row_number="5" isdata="1">בי"ט ואין נותנין לפניהם מזונות אבל צדין</row>
 		<row row_number="6" isdata="1">חיה ועוף ונותנין לפניהם מזונות ורמינהו</row>
@@ -38,8 +38,8 @@
 		<row row_number="24" isdata="1">ואידך ביבר גדול אי נמי כל היכא דנפיל</row>
 		<row row_number="25" isdata="1">טולא דכתלים אהדדי ביבר קטן ואידך ביבר</row>
 		<row row_number="26" isdata="1">גדול ואי נמי כל היכא דליכא עוקצי עוקצי</row>
-		<row row_number="27" isdata="1">ביבר קטן ואידך ביבר גדול רשב"ג אומר</row>
-		<row row_number="28" isdata="1">וכו' אמר רב יוסף אמר רב יהודה אמר</row>
+		<row row_number="27" isdata="1">ביבר קטן ואידך ביבר גדול: רשב"ג אומר</row>
+		<row row_number="28" isdata="1">וכו': אמר רב יוסף אמר רב יהודה אמר</row>
 		<row row_number="29" isdata="1">שמואל הלכה כרבן שמעון בן גמליאל</row>
 		<row row_number="30" isdata="1">אמר ליה אביי הלכה מכלל דפליגי א"ל</row>
 		<row row_number="31" isdata="1">מאי נפקא לך מינה א"ל גמרא גמור</row>
@@ -58,14 +58,14 @@
 		<row row_number="44" isdata="1">בן מהבאי ארישא קאי או אסיפא קאי ת"ש</row>
 		<row row_number="45" isdata="1">הצד חגבין בשעת הטל פטור בשעת השרב</row>
 		<row row_number="46" isdata="1">חייב אלעזר בן מהבאי אומר אפילו בשעת</row>
-		<row row_number="47" isdata="1">השרב אם היו מקלחות ובאות פטור</row>
+		<row row_number="47" isdata="1">השרב אם היו מקלחות ובאות פטור:</row>
 		<row row_number="48" isdata="1"><EndGemara/><StartMishna/>מתני' צבי שנכנס לבית ונעל אחד בפניו</row>
-		<row row_number="49" isdata="1">חייב נעלו שנים פטורין לא יכול אחד לנעול ונעלו שנים חייבין ור"ש פוטר</row>
+		<row row_number="49" isdata="1">חייב נעלו שנים פטורין לא יכול אחד לנעול ונעלו שנים חייבין ור"ש פוטר:</row>
 		<row row_number="50" isdata="1"><EndMishna/><StartGemara/>גמ' א"ר ירמיה בר אבא אמר שמואל הצד ארי בשבת אינו חייב עד שיכניסנו</row>
-		<row row_number="51" isdata="1">לגורזקי שלומתני' ישב האחד על הפתח ולא מילאהו ישב השני</row>
+		<row row_number="51" isdata="1">לגורזקי שלו<EndGemara/><StartMishna/>מתני' ישב האחד על הפתח ולא מילאהו ישב השני</row>
 		<row row_number="52" isdata="1">ומילאהו השני חייב ישב הראשון על הפתח ומילאהו ובא השני וישב</row>
 		<row row_number="53" isdata="1">בצידו אף על פי שעמד הראשון והלך לו הראשון חייב והשני פטור</row>
-		<row row_number="54" isdata="1">הא למה זה דומה לנועל את ביתו לשומרו ונמצא צבי שמור בתוכו</row>
+		<row row_number="54" isdata="1">הא למה זה דומה לנועל את ביתו לשומרו ונמצא צבי שמור בתוכו:</row>
 </amud>
 </daf>
 </masechet>

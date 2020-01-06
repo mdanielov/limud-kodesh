@@ -6,24 +6,24 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:26.407706</dateCreated>
-   <lastModified>2019-12-21 21:42:26.407706</lastModified>
+   <dateCreated>2020-01-06 09:34:11.209373</dateCreated>
+   <lastModified>2020-01-06 09:34:11.209373</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="71">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "בן סורר ומורה"/><ContGemara/>דכוליה קרא יתירא הוא ומתרין בפני</row>
-		<row row_number="2" isdata="1">שלשה למה לי בתרי סגיא אמר אביי הכי</row>
+		<row row_number="1" isdata="1"><ContChapter name = "בן סורר ומורה"/><ContGemara/>דכוליה קרא יתירא הוא: ומתרין בפני</row>
+		<row row_number="2" isdata="1">שלשה: למה לי בתרי סגיא אמר אביי הכי</row>
 		<row row_number="3" isdata="1">קאמר מתרין בו בפני שנים ומלקין אותו</row>
 		<row row_number="4" isdata="1">בפני שלשה מלקות בבן סורר ומורה היכא</row>
 		<row row_number="5" isdata="1">כתיבא כדר' אבהו דאמר ר' אבהו למדנו ויסרו</row>
 		<row row_number="6" isdata="1">מויסרו ויסרו מבן ובן מבן והיה אם בן</row>
-		<row row_number="7" isdata="1">הכות הרשע חזר וקלקל נידון בכ"ג [וכו'] האי</row>
+		<row row_number="7" isdata="1">הכות הרשע: חזר וקלקל נידון בכ"ג [וכו']: האי</row>
 		<row row_number="8" isdata="1">מבעי ליה זה ולא סומין אם כן לכתוב</row>
-		<row row_number="9" isdata="1">בננו הוא מאי בננו זה שמע מינה תרתי</row>
+		<row row_number="9" isdata="1">בננו הוא מאי בננו זה שמע מינה תרתי:</row>
 		<row row_number="10" isdata="1"><EndGemara/><StartMishna/>מתני' ברח עד שלא נגמר דינו ואחר כך</row>
 		<row row_number="11" isdata="1">הקיף זקן התחתון פטור ואם משנגמר דינו</row>
-		<row row_number="12" isdata="1">ברח ואחר כך הקיף זקן התחתון חייב</row>
+		<row row_number="12" isdata="1">ברח ואחר כך הקיף זקן התחתון חייב:</row>
 		<row row_number="13" isdata="1"><EndMishna/><StartGemara/>גמ' אמר ר' חנינא בן נח שבירך את השם</row>
 		<row row_number="14" isdata="1">ואחר כך נתגייר פטור הואיל ונשתנה דינו</row>
 		<row row_number="15" isdata="1">(נשתנה) מיתתו נימא מסייעא ליה ברח עד</row>
@@ -47,12 +47,12 @@
 		<row row_number="33" isdata="1">חנק והשתא סייף קלה בחמורה מישך שייכא לימא מסייעא ליה סרחה</row>
 		<row row_number="34" isdata="1">ואחר כך בגרה תידון בחנק בסקילה מ"ט לא לאו משום דהואיל ואישתני</row>
 		<row row_number="35" isdata="1">אישתני וכ"ש הכא דאישתני לגמרי האמר ליה רבי יוחנן לתנא תני תידון</row>
-		<row row_number="36" isdata="1">בסקילהמתני' בן סורר ומורה נידון על שם סופו ימות זכאי ואל</row>
+		<row row_number="36" isdata="1">בסקילה<EndGemara/><StartMishna/>מתני' בן סורר ומורה נידון על שם סופו ימות זכאי ואל</row>
 		<row row_number="37" isdata="1">ימות חייב שמיתתן של רשעים הנאה להן והנאה לעולם לצדיקים רע להן</row>
 		<row row_number="38" isdata="1">ורע לעולם יין ושינה לרשעים הנאה להן והנאה לעולם ולצדיקים רע להן</row>
 		<row row_number="39" isdata="1">ורע לעולם פיזור לרשעים הנאה להן והנאה לעולם ולצדיקים רע להן ורע</row>
 		<row row_number="40" isdata="1">לעולם כנוס לרשעים רע להן ורע לעולם ולצדיקים הנאה להן והנאה לעולם</row>
-		<row row_number="41" isdata="1">שקט לרשעים רע להן ורע לעולם לצדיקים הנאה להן והנאה לעולם</row>
+		<row row_number="41" isdata="1">שקט לרשעים רע להן ורע לעולם לצדיקים הנאה להן והנאה לעולם:</row>
 </amud>
 </daf>
 </masechet>
