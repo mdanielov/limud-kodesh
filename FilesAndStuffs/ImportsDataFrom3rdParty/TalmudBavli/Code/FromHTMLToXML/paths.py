@@ -6,4 +6,3 @@ if platform.platform().__contains__("Windows"):
     output_dir_separator = "\\"
     download_base_dir = "E:\\kodesh\\hebrewbooks-shas\\"
 
-

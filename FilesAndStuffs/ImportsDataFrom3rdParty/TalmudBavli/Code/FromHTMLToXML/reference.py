@@ -1,4 +1,4 @@
-marker_mishna1 = ": מתני'"
+marker_mishna1 = ":מתני'"
 marker_mishna2 = "^מתני'"
 marker_gemara = "גמ'"
 
