@@ -97,6 +97,9 @@ def parse_row(row_text, row_number, daf, amud, massechet_name,chapter_num):
 
 def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter, amud_start_chapter,
                    amud_end_chapter, count_chapter, start, end):
+
+    count = 1
+
     for xml in massechet_xml_list:
 
         xml_path = massechet_dir_path + "\\" + xml
@@ -133,13 +136,31 @@ def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, da
 
             if elem.tag == 'row':
                 row_number = elem.attrib['row_number']
+                # print(f"daf : {daf[-1]}, row num : {row_number}, massechet name : {massechet_name} Chapter : {count}")
                 if elem.attrib['isdata'] == '1':
-                    if elem.attrib['row_number'] == '1':
-                        for tag in elem:
-                            if tag.tail != None:
-                                parse_row(tag.tail, row_number, daf[-1],amud[-1], massechet_name, count_chapter)
+
+                    if len(list(elem)) > 0 and elem.text == None:   # check if the tag contains children and the parent tag does not contain text
+                        for child in elem:
+                            if child.tag == "EndChapter":
+                                count += 1
+                                if child.tail != None:
+                                    parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count)
+                            if child.tail != None:
+                                parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count)
+
+                    if len(list(elem)) > 0 and elem.text != None:   # check if the tag contains children and the parent tag contain text
+                        parse_row(elem.text, row_number, daf[-1], amud[-1], massechet_name, count)
+                        for child in elem:
+                            if child.tag == "EndChapter":
+                                count += 1
+                                if child.tail != None:
+                                    parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count)
+                            if child.tail != None:
+                                parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count)
+
                     else:
-                        parse_row(elem.text, elem.attrib['row_number'], daf[-1], amud[-1], massechet_name, count_chapter)
+                        parse_row(elem.text, row_number, daf[-1], amud[-1], massechet_name, count)
+
 
     return daf, amud, chapter, daf_start_chapter, daf_end_chapter, amud_start_chapter, amud_end_chapter, count_chapter, massechet_name
 
