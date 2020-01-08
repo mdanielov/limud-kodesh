@@ -18,12 +18,18 @@ conn = pyodbc.connect('Driver={SQL Server};'
                                            'Database=' + database_name + ';'
                                                                          'Trusted_Connection=yes;',
                       autocommit=True, encoding='utf-8')
-# conn.autocommit = True
 
 cursor = conn.cursor()
 
 
 def get_massechet_id(massechet_name):
+
+    """
+    This function will get the MASSECHET_ID Foreign key from the reference table TBL_MASSECHET according to
+    the massechet name.
+    :param massechet_name: the actual massechet name
+    :return: MASSECHET_ID
+    """
     query = f"SELECT MASSECHET_ID FROM TBL_MASSECHET WHERE MASSECHET_NAME = '{massechet_name}'"
 
     cursor.execute(f"USE {database_name};")
@@ -35,8 +41,16 @@ def get_massechet_id(massechet_name):
     return massechet_id
 
 
+def get_perek_id(daf, massechet_id, chapter_num):
 
-def get_perek_id(daf,massechet_id,chapter_num):
+    """
+    This function will return the Foreign key PEREK_ID from the reference table TBL_MASSECHET_PEREK according to the
+    page number, the MASSECHET_ID and the PEREK_NUM.
+    :param daf: actual page number
+    :param massechet_id: actual MASSECHET_ID Primary key from TBL_MASSECHET
+    :param chapter_num: actual chapter num
+    :return: PEREK_ID
+    """
 
     if chapter_num == 0:
         chapter_num = 1
@@ -55,6 +69,14 @@ def get_perek_id(daf,massechet_id,chapter_num):
 
 def get_daf_amud_id(daf, amud):
 
+    """
+    This function will return the Foreign key DAF_AMUD_ID from the TBL_DAF table according to the page number (daf)
+    and the side (amud) number
+    :param daf: page number
+    :param amud: side number
+    :return: foreign_key DAF_AMUD_ID
+    """
+
     query = f"SELECT DAF_AMUD_ID FROM TBL_DAF WHERE DAF_NUM = {daf} AND AMUD_NUM = {amud}"
 
     cursor.execute(f"USE {database_name};")
@@ -66,7 +88,37 @@ def get_daf_amud_id(daf, amud):
     return daf_amud_id
 
 
-def parse_row(row_text, row_number, daf, amud, massechet_name,chapter_num):
+def replaceMultiple(mainString, toBeReplaces, newString):
+    """
+    This function will replace multiple character in the same string.
+    :param mainString: The original string to work on
+    :param toBeReplaces: An array of string that needs to be replaced
+    :param newString: The replacement character
+    :return: The mainString with the replaced characters
+    """
+
+    for elem in toBeReplaces:
+
+        if elem in mainString:
+            mainString = mainString.replace(elem, newString)
+
+    return mainString
+
+
+def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mishna, guemara):
+    """
+     This function will inspect each row in the xml file, extract words and insert values in the
+     TBL_MASSECHET_WORD table.
+     :param row_text: The actual text of the row that will be converted into array of string.
+     :param row_number: The actual row number
+     :param daf: The actual page number
+     :param amud: The actual page side number
+     :param massechet_name: The actual Massechet name
+     :param chapter_num: The actual chapter number
+     :param mishna: Boolean, if 1 = the actual text is a mishna, if 0 = the actual text is not a mishna
+     :param guemara: Boolean, if 1 = the actual text is a guemara, if 0 = the actual text is not a guemara
+     :return: Insert data into TBL_MASSECHET_WORD
+    """
 
     massechet_id = get_massechet_id(massechet_name)
 
@@ -76,10 +128,28 @@ def parse_row(row_text, row_number, daf, amud, massechet_name,chapter_num):
 
     text = str(row_text).split()
 
+    w_type = 0
+
+    if mishna == 1:
+        w_type = 0
+
+    if guemara == 1:
+        w_type = 1
+
     for elem in text:
+
+        w_deleted = 0
+        w_added = 0
+
+        if '(' in elem or ')' in elem:
+            w_deleted = 1
+
+        if '[' in elem or ']' in elem:
+            w_added = 1
 
         word_position = text.index(elem) + 1
 
+        elem = replaceMultiple(elem, ["(", ")", ".", "[", "]"], "")
         elem = elem.replace("'", "''")
 
         query = f"INSERT INTO {table_names[3]} \
@@ -91,14 +161,31 @@ def parse_row(row_text, row_number, daf, amud, massechet_name,chapter_num):
            ,[WORD_POSITION] \
            ,[WORD_TYPE] \
            ,[WORD]) \
-            VALUES ({daf_amud_id},{perek_id},{row_number},0,0,{word_position},0,'{elem}')"
+            VALUES ({daf_amud_id},{perek_id},{row_number},{w_deleted},{w_added},{word_position},{w_type},'{elem}')"
         cursor.execute(query)
 
 
-def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter, amud_start_chapter,
-                   amud_end_chapter, count_chapter, start, end):
+def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter, count_chapter, start, end):
+
+    """
+    This function go over every xml file present in the actual massechet folder and will extract all the interesting
+    values needed for the insertion into TBL_MASSECHET_PEREK, TBL_DAF, TBL_MASSECHET_DAF, TBL_MASSECHET_WORD
+    and will insert this data into them.
+    :param massechet_xml_list: The list of all the xml file for the current massechet.
+    :param daf: The list of all page numbers of the massechet.
+    :param amud: The list of all page side numbers of the massechet.
+    :param chapter: The list of all chapter numbers of the massechet.
+    :param daf_start_chapter: List of dictionaries that contain the starting page number and page side number of each chapter.
+    :param daf_end_chapter: List of dictionaries that contain the ending page number and page side number of each chapter.
+    :param count_chapter: The actual chapter number.
+    :param start: Dictionary that contains the actual starting page number and page side number for the current chapter.
+    :param end: Dictionary that contains the actual ending page number and page side number for the current chapter.
+    :return: all the previous parameters are returned by the function.
+    """
 
     count = 1
+    mishna = 0
+    guemara = 0
 
     for xml in massechet_xml_list:
 
@@ -136,31 +223,48 @@ def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, da
 
             if elem.tag == 'row':
                 row_number = elem.attrib['row_number']
-                # print(f"daf : {daf[-1]}, row num : {row_number}, massechet name : {massechet_name} Chapter : {count}")
+                print(f"daf : {daf[-1]}, row num : {row_number}, massechet name : {massechet_name} Chapter : {count}")
                 if elem.attrib['isdata'] == '1':
 
-                    if len(list(elem)) > 0 and elem.text == None:   # check if the tag contains children and the parent tag does not contain text
+                    if len(list(
+                            elem)) > 0 and elem.text == None:  # check if the tag contains children and the parent tag does not contain text
                         for child in elem:
+                            if child.tag == 'StartMishna' or child.tag == 'EndGemara':
+                                mishna = 1
+                                guemara = 0
+                            if child.tag == 'EndMishna' or child.tag == 'StartGemara':
+                                mishna = 0
+                                guemara = 1
                             if child.tag == "EndChapter":
                                 count += 1
                                 if child.tail != None:
-                                    parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count)
+                                    parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count, mishna,
+                                              guemara)
                             if child.tail != None:
-                                parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count)
+                                parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count, mishna,
+                                          guemara)
 
-                    if len(list(elem)) > 0 and elem.text != None:   # check if the tag contains children and the parent tag contain text
-                        parse_row(elem.text, row_number, daf[-1], amud[-1], massechet_name, count)
+                    if len(list(
+                            elem)) > 0 and elem.text != None:  # check if the tag contains children and the parent tag contain text before children
+                        parse_row(elem.text, row_number, daf[-1], amud[-1], massechet_name, count, mishna, guemara)
                         for child in elem:
+                            if child.tag == 'StartMishna' or child.tag == 'EndGemara':
+                                mishna = 1
+                                guemara = 0
+                            if child.tag == 'EndMishna' or child.tag == 'StartGemara':
+                                mishna = 0
+                                guemara = 1
                             if child.tag == "EndChapter":
                                 count += 1
                                 if child.tail != None:
-                                    parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count)
+                                    parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count, mishna,
+                                              guemara)
                             if child.tail != None:
-                                parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count)
+                                parse_row(child.tail, row_number, daf[-1], amud[-1], massechet_name, count, mishna,
+                                          guemara)
 
-                    else:
-                        parse_row(elem.text, row_number, daf[-1], amud[-1], massechet_name, count)
-
+                    elif len(list(elem)) == 0 and elem.text != None:
+                        parse_row(elem.text, row_number, daf[-1], amud[-1], massechet_name, count, mishna, guemara)
 
     return daf, amud, chapter, daf_start_chapter, daf_end_chapter, amud_start_chapter, amud_end_chapter, count_chapter, massechet_name
 
@@ -191,8 +295,6 @@ for massechet_dir in massechet_dir_list:
     chapter = []
     daf_start_chapter = []
     daf_end_chapter = []
-    amud_start_chapter = []
-    amud_end_chapter = []
     count_chapter = 0
     start = {}
     end = {}
@@ -203,7 +305,7 @@ for massechet_dir in massechet_dir_list:
     # Runnning a loop for each xml file in the massechet directory
 
     result = get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter,
-                            amud_start_chapter, amud_end_chapter, count_chapter, start, end)
+                            count_chapter, start, end)
 
     daf = result[0]
     amud = result[1]
