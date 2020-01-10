@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.386452</dateCreated>
-   <lastModified>2019-12-21 21:42:33.386452</lastModified>
+   <dateCreated>2020-01-06 09:34:43.857093</dateCreated>
+   <lastModified>2020-01-06 09:34:43.857093</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="29">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "הקומץ"/><ContGemara/>איפסיקא ליה כרעא דה"י דהעם בניקבא</row>
 		<row row_number="2" isdata="1">אתא לקמיה דר' אבא א"ל אם משתייר בו</row>
-		<row row_number="3" isdata="1">כשיעור אות קטנה כשר ואם לאו פסול</row>
+		<row row_number="3" isdata="1">כשיעור אות קטנה כשר ואם לאו פסול:</row>
 		<row row_number="4" isdata="1">ראמי בר תמרי דהוא חמוה דרמי בר דיקולי</row>
 		<row row_number="5" isdata="1">איפסיקא ליה כרעא דוי"ו דויהרג בניקבא</row>
 		<row row_number="6" isdata="1">אתא לקמיה דרבי זירא א"ל זיל אייתי ינוקא</row>
@@ -62,9 +62,9 @@
 		<row row_number="48" isdata="1">שצדיקים שבו כפוף ראשיהם מפני מעשיהן שאינן דומין זה לזה אמר רב יוסף</row>
 		<row row_number="49" isdata="1">הני תרתי מילי אמר רב בספרים ותניא תיובתיה חדא הא דאמר רב ס"ת</row>
 		<row row_number="50" isdata="1">שיש בו שתי טעיות בכל דף ודף יתקן שלש יגנז ותניא תיובתיה שלש יתקן</row>
-		<row row_number="51" isdata="1">ארבע יגנז תנא אם יש בו דף אחת שלימה מצלת על כולו א"ר יצחק בר שמואל בר מרתא משמיה דרב והוא</row>
+		<row row_number="51" isdata="1">ארבע יגנז תנא אם יש בו דף אחת שלימה מצלת על כולו: א"ר יצחק בר שמואל בר מרתא משמיה דרב והוא</row>
 		<row row_number="52" isdata="1">דכתיב רוביה דספרא שפיר א"ל אביי לרב יוסף אי אית בההוא דף שלש טעיות מאי א"ל הואיל ואיתיהיב</row>
-		<row row_number="53" isdata="1">לאיתקוני מיתקן וה"מ חסירות אבל יתירות לית לן בה חסירות מ"ט לא אמר רב כהנא משום דמיחזי כמנומר</row>
+		<row row_number="53" isdata="1">לאיתקוני מיתקן וה"מ חסירות אבל יתירות לית לן בה חסירות מ"ט לא אמר רב כהנא משום דמיחזי כמנומר:</row>
 		<row row_number="54" isdata="1">אגרא חמוה דרבי אבא הוה ליה יתירות בסיפריה אתא לקמיה דרבי אבא א"ל לא אמרן אלא בחסירות</row>
 </amud>
 </daf>

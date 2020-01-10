@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:09.917985</dateCreated>
-   <lastModified>2019-12-21 21:42:09.917985</lastModified>
+   <dateCreated>2020-01-06 09:32:52.632065</dateCreated>
+   <lastModified>2020-01-06 09:32:52.632065</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="16">
@@ -18,13 +18,13 @@
 		<row row_number="4" isdata="1">הריני נזיר מאה יום ונטמא יום מאה סותר</row>
 		<row row_number="5" isdata="1">את הכל ר"א אומר אינו סותר אלא שלשים</row>
 		<row row_number="6" isdata="1">וכולה כדהוינן בה אליבא דבר פדא ורב</row>
-		<row row_number="7" isdata="1">מתנאמתני' מי שנזר והוא בבית</row>
+		<row row_number="7" isdata="1">מתנא<EndGemara/><StartMishna/>מתני' מי שנזר והוא בבית</row>
 		<row row_number="8" isdata="1">הקברות אפי' היה שם ל' יום אין עולין לו</row>
 		<row row_number="9" isdata="1">מן המנין ואינו מביא קרבן טומאה יצא</row>
 		<row row_number="10" isdata="1">ונכנס עולין לו מן המנין ומביא קרבן</row>
 		<row row_number="11" isdata="1">טומאה ר"א אומר לא בו ביום שנאמר</row>
 		<row row_number="12" isdata="1">והימים הראשונים יפלו עד שיהו לו ימים</row>
-		<row row_number="13" isdata="1">ראשונים<EndMishna/><StartGemara/>גמ' איתמר מי שנזר והוא</row>
+		<row row_number="13" isdata="1">ראשונים:<EndMishna/><StartGemara/>גמ' איתמר מי שנזר והוא</row>
 		<row row_number="14" isdata="1">בבית הקברות ר' יוחנן אמר נזירות חלה</row>
 		<row row_number="15" isdata="1">עליו ור"ל אמר אין נזירות חלה עליו ר' יוחנן</row>
 		<row row_number="16" isdata="1">אמר נזירות חלה עליו סבר מיתלא תליא</row>

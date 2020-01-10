@@ -6,28 +6,28 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.352802</dateCreated>
-   <lastModified>2019-12-21 21:42:32.352802</lastModified>
+   <dateCreated>2020-01-06 09:34:38.802118</dateCreated>
+   <lastModified>2020-01-06 09:34:38.802118</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="97">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "דם חטאת"/><ContGemara/>השפוד והאסכלא מגעילן בחמיןגמ' מאיהשפוד והאסכלא מגעילן בחמין<EndMishna/><StartGemara/></row>
+		<row row_number="1" isdata="1"><ContChapter name = "דם חטאת"/><ContMishna/>השפוד והאסכלא מגעילן בחמין:גמ' מאיהשפוד והאסכלא מגעילן בחמין:<EndMishna/><StartGemara/></row>
 		<row row_number="2" isdata="1">טעמא דר"ט דאמר קרא ופנית בבקר והלכת</row>
 		<row row_number="3" isdata="1">לאהלך הכתוב עשאו לכולן בקר אחד מתקיף</row>
 		<row row_number="4" isdata="1">לה רב אחדבוי בר אמי וכי אין פיגול ברגל</row>
 		<row row_number="5" isdata="1">ואין נותר ברגל וכי תימא ה"נ והתניא ר' נתן</row>
 		<row row_number="6" isdata="1">אומר לא אמר ר"ט אלא זו בלבד אלא כדר"נ</row>
 		<row row_number="7" isdata="1">אמר רבה בר אבוה דאמר ר"נ אמר רבה</row>
-		<row row_number="8" isdata="1">בר אבוה כל יום ויום נעשה גיעול לחבירו</row>
-		<row row_number="9" isdata="1">וחכ"א עד זמן אכילה כו' מאי קאמר אמר</row>
+		<row row_number="8" isdata="1">בר אבוה כל יום ויום נעשה גיעול לחבירו:</row>
+		<row row_number="9" isdata="1">וחכ"א עד זמן אכילה כו': מאי קאמר אמר</row>
 		<row row_number="10" isdata="1">ר"נ אמר רבה בר אבוה ממתין לה עד זמן</row>
 		<row row_number="11" isdata="1">אכילה והדר עביד לה מריקה ושטיפה</row>
 		<row row_number="12" isdata="1">מנהני מילי א"ר יוחנן משום אבא יוסי בן</row>
 		<row row_number="13" isdata="1">אבא כתיב ומורק ושוטף וכתיב כל זכר</row>
 		<row row_number="14" isdata="1">בכהנים יאכל הא כיצד ממתין לה עד זמן</row>
-		<row row_number="15" isdata="1">אכילה והדר עביד לה מריקה ושטיפה</row>
-		<row row_number="16" isdata="1">מריקה כמריקת הכוס שטיפה כשטיפת הכוס</row>
+		<row row_number="15" isdata="1">אכילה והדר עביד לה מריקה ושטיפה:</row>
+		<row row_number="16" isdata="1">מריקה כמריקת הכוס שטיפה כשטיפת הכוס:</row>
 		<row row_number="17" isdata="1">ת"ר מריקה ושטיפה בצונן דברי רבי וחכמים</row>
 		<row row_number="18" isdata="1">אומרים מריקה בחמין ושטיפה בצונן מ"ט</row>
 		<row row_number="19" isdata="1">דרבנן מידי דהוה אגיעולי עובדי כוכבים ורבי</row>
@@ -38,14 +38,14 @@
 		<row row_number="24" isdata="1">בצונן ורבי אי כתיב ומורק מורק ה"א תרי</row>
 		<row row_number="25" isdata="1">זימני מורק או תרי זימני שוטף לכך כתיב</row>
 		<row row_number="26" isdata="1">ומורק ושוטף לומר לך מריקה כמריקת הכוס</row>
-		<row row_number="27" isdata="1">שטיפה כשטיפת הכוסמתני' בישל</row>
+		<row row_number="27" isdata="1">שטיפה כשטיפת הכוס<EndGemara/><StartMishna/>מתני' בישל</row>
 		<row row_number="28" isdata="1">בו קדשים וחולין או קדשי קדשים וקדשים</row>
 		<row row_number="29" isdata="1">קלים אם יש בהן בנותן טעם הרי הקלים</row>
 		<row row_number="30" isdata="1">נאכלין כחמורין שבהן ואינן טעונין מריקה</row>
 		<row row_number="31" isdata="1">ושטיפה ואינן פוסלים במגע רקיק שנגע</row>
 		<row row_number="32" isdata="1">ברקיק וחתיכה בחתיכה לא כל הרקיקין ולא</row>
 		<row row_number="33" isdata="1">כל החתיכות אסורין אינו אסור אלא במקום</row>
-		<row row_number="34" isdata="1">שבלע<EndMishna/><StartGemara/>גמ' מאי קאמר אם יש בהן בנותן</row>
+		<row row_number="34" isdata="1">שבלע:<EndMishna/><StartGemara/>גמ' מאי קאמר אם יש בהן בנותן</row>
 		<row row_number="35" isdata="1">טעם הרי הקלין נאכלין כחמורין וטעונין</row>
 		<row row_number="36" isdata="1">מריקה ושטיפה ופוסלין במגע אין בהן בנותן</row>
 		<row row_number="37" isdata="1">טעם אין הקלין נאכלין כחמורים ואין טעונין</row>
@@ -61,7 +61,7 @@
 		<row row_number="47" isdata="1">קדשי קדשים וקדשים קלים אימא לא ואי תנא</row>
 		<row row_number="48" isdata="1">קדשי קדשים וקדשים קלים ה"א קדשים הוא</row>
 		<row row_number="49" isdata="1">דאלימי לבטולי קדשים אבל חולין אימא</row>
-		<row row_number="50" isdata="1">לא צריכא רקיק שהגיע ברקיק כו' ת"ר כל</row>
+		<row row_number="50" isdata="1">לא צריכא: רקיק שהגיע ברקיק כו': ת"ר כל</row>
 		<row row_number="51" isdata="1">אשר יגע יכול אפי' שלא בלע ת"ל בבשרה</row>
 </amud>
 </daf>

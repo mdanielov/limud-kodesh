@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:18.667859</dateCreated>
-   <lastModified>2019-12-21 21:42:18.667859</lastModified>
+   <dateCreated>2020-01-06 09:33:35.322485</dateCreated>
+   <lastModified>2020-01-06 09:33:35.322485</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="40">
@@ -16,14 +16,14 @@
 		<row row_number="2" isdata="1">דל תמניא שתותי פשו להו ארבעה והאמר</row>
 		<row row_number="3" isdata="1">שמואל המשתכר אל ישתכר יותר על</row>
 		<row row_number="4" isdata="1">שתות איכא גולפי ושמריא אי הכי נפיש</row>
-		<row row_number="5" isdata="1">ליה טפי משתות איכא טרחיה ודמי ברזנייתא</row>
+		<row row_number="5" isdata="1">ליה טפי משתות איכא טרחיה ודמי ברזנייתא:</row>
 		<row row_number="6" isdata="1">אם היה שמן מזוקק אינו יוציא לו שמרים</row>
-		<row row_number="7" isdata="1">[וכו'] והא אי אפשר דלא בלע אמר רב</row>
+		<row row_number="7" isdata="1">[וכו']: והא אי אפשר דלא בלע אמר רב</row>
 		<row row_number="8" isdata="1">נחמן במזופפין שנו אביי אמר אפילו תימא</row>
-		<row row_number="9" isdata="1">שלא במזופפין כיון דטעון טעון ר"י אומר</row>
+		<row row_number="9" isdata="1">שלא במזופפין כיון דטעון טעון: ר"י אומר</row>
 		<row row_number="10" isdata="1">אף המוכר שמן מזוקק לחבירו כל ימות</row>
 		<row row_number="11" isdata="1">השנה הרי זה מקבל עליו לוג ומחצה</row>
-		<row row_number="12" isdata="1">שמרים למאה אמר אביי כשתמצא לומר</row>
+		<row row_number="12" isdata="1">שמרים למאה: אמר אביי כשתמצא לומר</row>
 		<row row_number="13" isdata="1">לדברי ר"י מותר לערב שמרים לדברי חכמים</row>
 		<row row_number="14" isdata="1">אסור לערב שמרים לדברי רבי יהודה</row>
 		<row row_number="15" isdata="1">מותר לערב שמרים והיינו טעמא דמקבל</row>
@@ -59,11 +59,11 @@
 		<row row_number="45" isdata="1">בלבד שהרי לוקח מקבל עליו לוג ומחצה</row>
 		<row row_number="46" isdata="1">שמרים בלא פקטים לא קשיא הא דיהיב ליה זוזי בתשרי וקא שקיל</row>
 		<row row_number="47" isdata="1">מיניה בניסן כי מדה דתשרי הא דיהיב ליה זוזי בניסן וקא שקיל מיניה</row>
-		<row row_number="48" isdata="1">בניסן כי מדה דניסןמתני' המפקיד חבית אצל חבירו ולא יחדו לה</row>
+		<row row_number="48" isdata="1">בניסן כי מדה דניסן<EndGemara/><StartMishna/>מתני' המפקיד חבית אצל חבירו ולא יחדו לה</row>
 		<row row_number="49" isdata="1">בעלים מקום וטלטלה ונשתברה אם מתוך ידו נשברה לצורכו חייב</row>
 		<row row_number="50" isdata="1">לצורכה פטור אם משהניחה נשברה בין לצורכו בין לצורכה פטור יחדו</row>
 		<row row_number="51" isdata="1">לה הבעלים מקום וטלטלה ונשברה בין מתוך ידו ובין משהניחה</row>
-		<row row_number="52" isdata="1">לצורכו חייב לצורכה פטור<EndMishna/><StartGemara/>גמ' הא מני רבי ישמעאל היא דאמר</row>
+		<row row_number="52" isdata="1">לצורכו חייב לצורכה פטור:<EndMishna/><StartGemara/>גמ' הא מני רבי ישמעאל היא דאמר</row>
 		<row row_number="53" isdata="1">לא בעינן דעת בעלים דתניא הגונב טלה מן העדר וסלע מן</row>
 		<row row_number="54" isdata="1">הכיס למקום שגנב יחזיר דברי רבי ישמעאל רבי עקיבא אומר</row>
 </amud>

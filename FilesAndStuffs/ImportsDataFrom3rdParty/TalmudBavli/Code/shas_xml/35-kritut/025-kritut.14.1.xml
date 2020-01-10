@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:40.678368</dateCreated>
-   <lastModified>2019-12-21 21:42:40.678368</lastModified>
+   <dateCreated>2020-01-06 09:35:18.498119</dateCreated>
+   <lastModified>2020-01-06 09:35:18.498119</lastModified>
  </meta>
  <masechet name="כריתות" serial="35">
 <daf value="14">
@@ -52,7 +52,7 @@
 		<row row_number="38" isdata="1">ונוקמה כגון דאכל כזית דם בחדא אכילה קא</row>
 		<row row_number="39" isdata="1">מיירי בשתי אכילות לא קא מיירי ושיערו</row>
 		<row row_number="40" isdata="1">חכמים דאין בית הבליעה מחזיק יותר משני</row>
-		<row row_number="41" isdata="1">זיתים ר"מ אומר וכו' ונתני אם הוציאו חייב</row>
+		<row row_number="41" isdata="1">זיתים: ר"מ אומר וכו': ונתני אם הוציאו חייב</row>
 		<row row_number="42" isdata="1">מ"ט קתני אם היתה שבת אמר רפרם זאת</row>
 		<row row_number="43" isdata="1">אומרת עירוב והוצאה לשבת ואין עירוב</row>
 		<row row_number="44" isdata="1">והוצאה לי"ה ממאי דלמא יש עירוב והוצאה</row>
@@ -63,8 +63,8 @@
 		<row row_number="49" isdata="1">ואפי' בשבת עתי במזומן קתני עתי אפילו</row>
 		<row row_number="50" isdata="1">בשבת אמר רפרם זאת אומרת עירוב והוצאה לשבת ואין עירוב והוצאה ליה"כ</row>
 		<row row_number="51" isdata="1">ממאי שאני שעיר המשתלח דהכשירו ביה"כ בכך אלא דרפרם ברותא</row>
-		<row row_number="52" isdata="1">היאמתני' יש בא ביאה אחת וחייב עליה ו' חטאות כיצד הבא על בתו</row>
-		<row row_number="53" isdata="1">חייב עליה משום בתו ואחותו אשת אחיו ואשת אחי אביו ואשת איש ונדה<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="52" isdata="1">היא<EndGemara/><StartMishna/>מתני' יש בא ביאה אחת וחייב עליה ו' חטאות כיצד הבא על בתו</row>
+		<row row_number="53" isdata="1">חייב עליה משום בתו ואחותו אשת אחיו ואשת אחי אביו ואשת איש ונדה:<EndMishna/><StartGemara/>גמ'</row>
 </amud>
 </daf>
 </masechet>

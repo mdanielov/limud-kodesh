@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.963750</dateCreated>
-   <lastModified>2019-12-21 21:42:00.963750</lastModified>
+   <dateCreated>2020-01-06 09:32:09.050661</dateCreated>
+   <lastModified>2020-01-06 09:32:09.050661</lastModified>
  </meta>
  <masechet name="ראש השנה" serial="09">
 <daf value="22">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "ארבעה ראשי שנים"/><ContGemara/>מעשה שעברו יותר מארבעים זוג ועיכבן ר"ע</row>
-		<row row_number="2" isdata="1">כו' תניא אמר רבי יהודה ח"ו שר"ע עיכבן</row>
+		<row row_number="2" isdata="1">כו': תניא אמר רבי יהודה ח"ו שר"ע עיכבן</row>
 		<row row_number="3" isdata="1">אלא שזפר ראשה של גדר עיכבן ושלח רבן</row>
-		<row row_number="4" isdata="1">גמליאל והורידוהו מגדולתומתני' אב</row>
+		<row row_number="4" isdata="1">גמליאל והורידוהו מגדולתו<EndGemara/><StartMishna/>מתני' אב</row>
 		<row row_number="5" isdata="1">ובנו שראו את החדש ילכו לא שמצטרפין</row>
 		<row row_number="6" isdata="1">זה עם זה אלא שאם יפסל אחד מהן יצטרף</row>
 		<row row_number="7" isdata="1">השני עם אחר ר"ש אומר אב ובנו וכל</row>
@@ -24,11 +24,11 @@
 		<row row_number="10" isdata="1">הוא ובנו ועבדו משוחרר וקבלו הכהנים</row>
 		<row row_number="11" isdata="1">אותו ואת בנו ופסלו את עבדו וכשבאו לפני</row>
 		<row row_number="12" isdata="1">בית דין קבלו אותו ואת עבדו ופסלו את</row>
-		<row row_number="13" isdata="1">בנו<EndMishna/><StartGemara/>גמ' א"ר לוי מאי טעמא דר"ש דכתיב</row>
+		<row row_number="13" isdata="1">בנו:<EndMishna/><StartGemara/>גמ' א"ר לוי מאי טעמא דר"ש דכתיב</row>
 		<row row_number="14" isdata="1">ויאמר ה' אל משה ואל אהרן בארץ</row>
 		<row row_number="15" isdata="1">מצרים לאמר החדש הזה לכם עדות זו תהא</row>
-		<row row_number="16" isdata="1">כשרה בכם ורבנן עדות זו תהא מסורה לכם</row>
-		<row row_number="17" isdata="1">א"ר יוסי מעשה בטוביה הרופא כו' אמר</row>
+		<row row_number="16" isdata="1">כשרה בכם ורבנן עדות זו תהא מסורה לכם:</row>
+		<row row_number="17" isdata="1">א"ר יוסי מעשה בטוביה הרופא כו': אמר</row>
 		<row row_number="18" isdata="1">רב חנן בר רבא הלכתא כר"ש א"ל רב</row>
 		<row row_number="19" isdata="1">הונא לרב חנן בר רבא רבי יוסי ומעשה</row>
 		<row row_number="20" isdata="1">ואת אמרת הלכתא כר"ש אמר לו והא זמנין</row>
@@ -36,26 +36,26 @@
 		<row row_number="22" isdata="1">אמר לי ולא מידי א"ל היכי תנית א"ל אפכא</row>
 		<row row_number="23" isdata="1">א"ל משום הכי לא אמר לך ולא מידי אמר</row>
 		<row row_number="24" isdata="1">טבי בריה דמרי טבי אמר מר עוקבא אמר</row>
-		<row row_number="25" isdata="1">שמואל הלכתא כר"שמתני' אלו הן</row>
+		<row row_number="25" isdata="1">שמואל הלכתא כר"ש<EndGemara/><StartMishna/>מתני' אלו הן</row>
 		<row row_number="26" isdata="1">הפסולין המשחק בקוביא ומלוי ברבית</row>
 		<row row_number="27" isdata="1">ומפריחי יונים וסוחרי שביעית ועבדים זה</row>
 		<row row_number="28" isdata="1">הכלל כל עדות שאין האשה כשירה לה</row>
-		<row row_number="29" isdata="1">אף הן אינן כשירין לה<EndMishna/><StartGemara/>גמ' הא אשה</row>
+		<row row_number="29" isdata="1">אף הן אינן כשירין לה:<EndMishna/><StartGemara/>גמ' הא אשה</row>
 		<row row_number="30" isdata="1">כשירה לה אף הן כשירין לה אמר רב אשי</row>
 		<row row_number="31" isdata="1">זאת אומרת גזלן דדבריהם כשירין לעדות</row>
-		<row row_number="32" isdata="1">אשהמתני' מי שראה את החדש ואינו</row>
+		<row row_number="32" isdata="1">אשה<EndGemara/><StartMishna/>מתני' מי שראה את החדש ואינו</row>
 		<row row_number="33" isdata="1">יכול להלך מוליכים אותו על החמור אפי'</row>
 		<row row_number="34" isdata="1">במטה ואם צודה להם לוקחין בידן מקלות</row>
 		<row row_number="35" isdata="1">ואם היתה דרך רחוקה לוקחין בידם מזונות</row>
 		<row row_number="36" isdata="1">שעל מהלך לילה ויום מחללין את השבת</row>
 		<row row_number="37" isdata="1">ויוצאין לעדות החדש שנאמר אלה מועדי</row>
-		<row row_number="38" isdata="1">ה' אשר תקראו אותם במועדם<EndChapter name = "ארבעה ראשי שנים"/><EndGemara/></row>
+		<row row_number="38" isdata="1">ה' אשר תקראו אותם במועדם:<EndChapter name = "ארבעה ראשי שנים"/><EndGemara/></row>
 		<row row_number="39" isdata="0">הדרן עלך ארבעה ראשי שנים</row>
 		<row row_number="40" isdata="1"><StartChapter name = "אם אינן מכירין"/><StartMishna/>אם אינן מכירין אותו משלחין עמו</row>
 		<row row_number="41" isdata="1">אחר להעידו בראשונה היו מקבלין</row>
 		<row row_number="42" isdata="1">עדות החדש מכל אדם משקלקלו</row>
 		<row row_number="43" isdata="1">הבייתוסים התקינו שלא יהו מקבלין</row>
-		<row row_number="44" isdata="1">אלא מן המכירין<EndMishna/><StartGemara/>גמ' מאי אחר חד</row>
+		<row row_number="44" isdata="1">אלא מן המכירין:<EndMishna/><StartGemara/>גמ' מאי אחר חד</row>
 </amud>
 </daf>
 </masechet>

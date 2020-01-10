@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.629757</dateCreated>
-   <lastModified>2019-12-21 21:42:05.629757</lastModified>
+   <dateCreated>2020-01-06 09:32:34.158309</dateCreated>
+   <lastModified>2020-01-06 09:32:34.158309</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="11">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "בתולה נשאת"/><ContGemara/>ואין להן טענת בתולים הגיורת והשבויה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "בתולה נשאת"/><ContMishna/>ואין להן טענת בתולים הגיורת והשבויה</row>
 		<row row_number="2" isdata="1">והשפחה שנפדו ושנתגיירו ושנשתחררו</row>
 		<row row_number="3" isdata="1">יתירות על בנות שלש שנים ויום אחד</row>
-		<row row_number="4" isdata="1">כתובתן מנה ואין להן טענת בתולין<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="4" isdata="1">כתובתן מנה ואין להן טענת בתולין:<EndMishna/><StartGemara/>גמ' אמר</row>
 		<row row_number="5" isdata="1">רב יהודה אמר רב קטן הבא על הגדולה</row>
 		<row row_number="6" isdata="1">עשאה מוכת עץ כי אמריתה קמיה דשמואל</row>
 		<row row_number="7" isdata="1">אמר אין מוכת עץ בבשר איכא דמתני</row>

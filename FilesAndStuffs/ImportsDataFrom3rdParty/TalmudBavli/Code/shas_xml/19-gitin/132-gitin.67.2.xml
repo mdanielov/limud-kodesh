@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.223139</dateCreated>
-   <lastModified>2019-12-21 21:42:13.223139</lastModified>
+   <dateCreated>2020-01-06 09:33:10.435262</dateCreated>
+   <lastModified>2020-01-06 09:33:10.435262</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="67">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContGemara/>ואיכא דאפיך להו אמר לעשרה כתבו</row>
-		<row row_number="2" isdata="1">גט ת"ר אמר לעשרה כתבו גט ותנו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContGemara/>ואיכא דאפיך להו: אמר לעשרה כתבו</row>
+		<row row_number="2" isdata="1">גט: ת"ר אמר לעשרה כתבו גט ותנו</row>
 		<row row_number="3" isdata="1">לאשתי אחד כותב על ידי כולם כולכם</row>
 		<row row_number="4" isdata="1">כתובו אחד כותב במעמד כולם הוליכו גט</row>
 		<row row_number="5" isdata="1">לאשתי אחד מוליך ע"י כולם כולכם הוליכו</row>
@@ -25,12 +25,12 @@
 		<row row_number="11" isdata="1">כולכון או כל חד וחד מינכון חתומו או כולכון או כל תרי מינכון אובילו</row>
 		<row row_number="12" isdata="1">או כולכון או כל חד וחד מינכון אמר רבא זימנין דגאיז ליה לדיבוריה ואמר</row>
 		<row row_number="13" isdata="1">כולכון ולא אמר כל חד מינכון ואתי לאיפסולי אלא אמר רבא כתובו</row>
-		<row row_number="14" isdata="1">כל חד מינכון חתומו כל תרי מינכון אובילו כל חד מינכון<EndChapter name = "האומר"/><EndGemara/></row>
+		<row row_number="14" isdata="1">כל חד מינכון חתומו כל תרי מינכון אובילו כל חד מינכון:<EndChapter name = "האומר"/><EndGemara/></row>
 		<row row_number="15" isdata="0">הדרן עלך האומר</row>
 		<row row_number="16" isdata="1"><StartChapter name = "מי שאחזו"/><StartMishna/>מי שאחזו קורדייקוס ואמר כתבו גט לאשתי לא אמר כלום אמר כתבו</row>
 		<row row_number="17" isdata="1">גט לאשתי ואחזו קורדייקוס וחזר ואמר לא תכתבנו אין דבריו האחרונים</row>
 		<row row_number="18" isdata="1">כלום נשתתק ואמרו לו נכתוב גט לאשתך והרכין בראשו בודקין אותו</row>
-		<row row_number="19" isdata="1">שלשה פעמים אם אמר על לאו לאו ועל הן הן הרי אלו יכתבו ויתנו</row>
+		<row row_number="19" isdata="1">שלשה פעמים אם אמר על לאו לאו ועל הן הן הרי אלו יכתבו ויתנו:</row>
 		<row row_number="20" isdata="1"><EndMishna/><StartGemara/>גמ' מאי קורדייקוס אמר שמואל דנכתיה חמרא חדתא דמעצרתא וליתני</row>
 		<row row_number="21" isdata="1">מי שנשכו יין חדש הא קמ"ל דהא רוחא קורדייקוס שמה למאי נפקא</row>
 		<row row_number="22" isdata="1">מינה לקמיעא מאי אסותיה בישרא סומקא אגומרי וחמרא מרקא אמר</row>

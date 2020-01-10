@@ -6,22 +6,22 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:52.988287</dateCreated>
-   <lastModified>2019-12-21 21:41:52.988287</lastModified>
+   <dateCreated>2020-01-06 09:31:19.848075</dateCreated>
+   <lastModified>2020-01-06 09:31:19.848075</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="58">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "במה בהמה"/><ContMishna/>ובלבד שלא יצא חוץ לתחום אם אינו יכול</row>
 		<row row_number="2" isdata="1">להבליעו בזו אמר רבי דוסתאי בר ינאי משום</row>
-		<row row_number="3" isdata="1">ר' מאיר שמעתי שמקדרין בהרים<EndMishna/><StartGemara/>גמ' מנא</row>
+		<row row_number="3" isdata="1">ר' מאיר שמעתי שמקדרין בהרים:<EndMishna/><StartGemara/>גמ' מנא</row>
 		<row row_number="4" isdata="1">הני מילי אמר רב יהודה אמר רב דאמר קרא</row>
 		<row row_number="5" isdata="1">ארך החצר מאה באמה ורוחב חמשים</row>
 		<row row_number="6" isdata="1">בחמשים אמרה תורה בחבל של חמשים אמה</row>
 		<row row_number="7" isdata="1">מדוד האי מיבעי ליה ליטול חמשים</row>
 		<row row_number="8" isdata="1">ולסבב חמשים א"כ לימא קרא חמשים</row>
 		<row row_number="9" isdata="1">חמשים מאי חמשים בחמשים שמעת מינה</row>
-		<row row_number="10" isdata="1">תרתי לא פחות ולא יותר תנא לא</row>
+		<row row_number="10" isdata="1">תרתי: לא פחות ולא יותר: תנא לא</row>
 		<row row_number="11" isdata="1">פחות מפני שמרבה ולא יותר מפני שממעט</row>
 		<row row_number="12" isdata="1">א"ר אסי אין מודדין אלא בחבל של</row>
 		<row row_number="13" isdata="1">אפסקימא מאי אפסקימא א"ר אבא נרגילא</row>
@@ -37,8 +37,8 @@
 		<row row_number="23" isdata="1">של מגג לפרה דתנן כפתוה בחבל המגג</row>
 		<row row_number="24" isdata="1">ונתנוה על גב מערכתה של נצרים לסוטה</row>
 		<row row_number="25" isdata="1">דתנן ואח"כ מביא חבל המצרי וקושרו</row>
-		<row row_number="26" isdata="1">למעלה מדדיה של פשתן למדידה היה</row>
-		<row row_number="27" isdata="1">מודד והגיע מדתני חוזר למידתו מכלל</row>
+		<row row_number="26" isdata="1">למעלה מדדיה של פשתן למדידה: היה</row>
+		<row row_number="27" isdata="1">מודד והגיע: מדתני חוזר למידתו מכלל</row>
 		<row row_number="28" isdata="1">דאם אינו יכול להבליעו הולך למקום שיכול</row>
 		<row row_number="29" isdata="1">להבליעו ומבליעו וצופה כנגד מידתו וחוזר</row>
 		<row row_number="30" isdata="1">תנינא להא דתנו רבנן היה מודד והגיע</row>

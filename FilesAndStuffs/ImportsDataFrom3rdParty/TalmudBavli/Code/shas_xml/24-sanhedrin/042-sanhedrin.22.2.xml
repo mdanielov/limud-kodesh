@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:25.339739</dateCreated>
-   <lastModified>2019-12-21 21:42:25.339739</lastModified>
+   <dateCreated>2020-01-06 09:34:06.363976</dateCreated>
+   <lastModified>2020-01-06 09:34:06.363976</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="22">
@@ -25,11 +25,11 @@
 		<row row_number="11" isdata="1">לבעלה אין איש מת אלא לאשתו שנאמר</row>
 		<row row_number="12" isdata="1">וימת אלימלך איש נעמי ואין אשה מתה</row>
 		<row row_number="13" isdata="1">אלא לבעלה שנאמר ואני בבאי מפדן מתה</row>
-		<row row_number="14" isdata="1">עלי רחל אין רואין אותו כו' ת"ר מלך</row>
+		<row row_number="14" isdata="1">עלי רחל: אין רואין אותו כו': ת"ר מלך</row>
 		<row row_number="15" isdata="1">מסתפר בכל יום כהן גדול מערב שבת</row>
 		<row row_number="16" isdata="1">לערב שבת כהן הדיוט אחד לשלשים יום</row>
 		<row row_number="17" isdata="1">מלך מסתפר בכל יום שנאמר מלך ביפיו</row>
-		<row row_number="18" isdata="1">תחזינה עיניך כהן גדול מע"ש אמר רב</row>
+		<row row_number="18" isdata="1">תחזינה עיניך: כהן גדול מע"ש: אמר רב</row>
 		<row row_number="19" isdata="1">שמואל בר נחמן א"ר יוחנן הואיל ומשמרות</row>
 		<row row_number="20" isdata="1">מתחדשות כהן הדיוט אחד לשלשים יום</row>
 		<row row_number="21" isdata="1">דכתיב וראשם לא יגלחו ופרע לא ישלחו</row>
@@ -63,7 +63,7 @@
 		<row row_number="49" isdata="1">מאי כסום יכסמו את ראשיהם תנא כמין תספורת לוליינית מאי תספורת</row>
 		<row row_number="50" isdata="1">לוליינית אמר רב יהודה אמר שמואל תספורתא יחידאה ה"ד אמר רב אשי</row>
 		<row row_number="51" isdata="1">ראשו של זה בצד עיקרו של זה שאלו את רבי איזהו תספורת של כ"ג אמר להן צאו וראו מתספורת של בן</row>
-		<row row_number="52" isdata="1">אלעשה תניא רבי אומר לא על חנם פיזר בן אלעשה את מעותיו אלא כדי להראות בו תספורת של כהן גדול<EndChapter name = "כהן גדול"/><EndGemara/></row>
+		<row row_number="52" isdata="1">אלעשה תניא רבי אומר לא על חנם פיזר בן אלעשה את מעותיו אלא כדי להראות בו תספורת של כהן גדול:<EndChapter name = "כהן גדול"/><EndGemara/></row>
 		<row row_number="53" isdata="0">הדרן עלך כהן גדול</row>
 </amud>
 </daf>

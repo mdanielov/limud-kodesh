@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:52.411563</dateCreated>
-   <lastModified>2019-12-21 21:41:52.411563</lastModified>
+   <dateCreated>2020-01-06 09:31:17.595861</dateCreated>
+   <lastModified>2020-01-06 09:31:17.595861</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="35">
@@ -43,17 +43,17 @@
 		<row row_number="29" isdata="1">הכלים ניטלין בשבת חוץ ממסר הגדול ויתד</row>
 		<row row_number="30" isdata="1">של מחרישה ורבי אליעזר סבר לה כרבי</row>
 		<row row_number="31" isdata="1">נחמיה דאמר אפי' טלית אפי' תרווד אין</row>
-		<row row_number="32" isdata="1">ניטלין אלא לצורך תשמישןמתני' נתגלגל</row>
+		<row row_number="32" isdata="1">ניטלין אלא לצורך תשמישן<EndGemara/><StartMishna/>מתני' נתגלגל</row>
 		<row row_number="33" isdata="1">חוץ לתחום נפל עליו גל או נשרף תרומה</row>
 		<row row_number="34" isdata="1">ונטמאת מבעוד יום אינו עירוב משחשיכה</row>
 		<row row_number="35" isdata="1">הרי זה עירוב אם ספק ר"מ ור' יהודה</row>
 		<row row_number="36" isdata="1">אומרים הרי זה חמר גמל ר' יוסי ור"ש</row>
 		<row row_number="37" isdata="1">אומרים ספק עירוב כשר אמר ר' יוסי</row>
 		<row row_number="38" isdata="1">אבטולמוס העיד משום חמשה זקנים על</row>
-		<row row_number="39" isdata="1">ספק עירוב שכשר<EndMishna/><StartGemara/>גמ' נתגלגל חוץ לתחום</row>
+		<row row_number="39" isdata="1">ספק עירוב שכשר:<EndMishna/><StartGemara/>גמ' נתגלגל חוץ לתחום</row>
 		<row row_number="40" isdata="1">אמר רבא לא שנו אלא שנתגלגל חוץ לארבע</row>
 		<row row_number="41" isdata="1">אמות אבל לתוך ד' אמות הנותן עירובו יש</row>
-		<row row_number="42" isdata="1">לו ד' אמות נפל עליו גל וכו' קא ס"ד דאי</row>
+		<row row_number="42" isdata="1">לו ד' אמות: נפל עליו גל וכו': קא ס"ד דאי</row>
 		<row row_number="43" isdata="1">בעי מצי שקיל ליה לימא מתניתין דלא כרבי</row>
 		<row row_number="44" isdata="1">דאי כרבי האמר כל דבר שהוא משום</row>
 		<row row_number="45" isdata="1">שבות לא גזרו עליו בין השמשות אפילו</row>
@@ -62,7 +62,7 @@
 		<row row_number="48" isdata="1">גביה אבל נפל עליו גל דאיתיה גביה</row>
 		<row row_number="49" isdata="1">אימא ליהוי עירוב ואי תנא נפל עליו גל</row>
 		<row row_number="50" isdata="1">משום דמיכסי אבל נתגלגל זימנין דאתי זיקא ומייתי ליה אימא ליהוי</row>
-		<row row_number="51" isdata="1">עירוב צריכא או נשרף תרומה ונטמאת למה לי תנא נשרף</row>
+		<row row_number="51" isdata="1">עירוב צריכא: או נשרף תרומה ונטמאת: למה לי תנא נשרף</row>
 </amud>
 </daf>
 </masechet>

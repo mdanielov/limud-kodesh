@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.345100</dateCreated>
-   <lastModified>2019-12-21 21:42:13.345100</lastModified>
+   <dateCreated>2020-01-06 09:33:11.070184</dateCreated>
+   <lastModified>2020-01-06 09:33:11.070184</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="73">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "מי שאחזו"/><ContMishna/>כאשת איש לכל דבריה רבי יוסי אומר</row>
-		<row row_number="2" isdata="1">מגורשת ואינה מגורשת<EndMishna/><StartGemara/>גמ' ת"ר ראוה</row>
+		<row row_number="2" isdata="1">מגורשת ואינה מגורשת:<EndMishna/><StartGemara/>גמ' ת"ר ראוה</row>
 		<row row_number="3" isdata="1">שנתייחדה עמו באפילה או שישנה עמו</row>
 		<row row_number="4" isdata="1">תחת מרגלות המטה אין חוששין שמא</row>
 		<row row_number="5" isdata="1">נתעסקו בדבר אחר וחוששין משום זנות</row>
@@ -42,12 +42,12 @@
 		<row row_number="28" isdata="1">חוששין משום קידושין כמאן אזלא הא דאמר</row>
 		<row row_number="29" isdata="1">רבה בר בר חנה א"ר יוחנן מחלוקת כשראוה</row>
 		<row row_number="30" isdata="1">שנבעלה אבל לא ראוה שנבעלה דברי הכל</row>
-		<row row_number="31" isdata="1">אינה צריכה הימנו גט כמאן דלא כחד מה</row>
+		<row row_number="31" isdata="1">אינה צריכה הימנו גט כמאן דלא כחד: מה</row>
 		<row row_number="32" isdata="1">היא באותן הימים רבי יהודה אומר כאשת</row>
 		<row row_number="33" isdata="1">איש לכל דבריה ר' יוסי אומר מגורשת ואינה</row>
-		<row row_number="34" isdata="1">מגורשת תנא ובלבד שימות ולכי מיית הוי</row>
+		<row row_number="34" isdata="1">מגורשת: תנא ובלבד שימות ולכי מיית הוי</row>
 		<row row_number="35" isdata="1">גיטא והא קיימא לן דאין גט לאחר מיתה</row>
-		<row row_number="36" isdata="1">אמר רבה באומר מעת שאני בעולם תנו</row>
+		<row row_number="36" isdata="1">אמר רבה באומר מעת שאני בעולם: תנו</row>
 		<row row_number="37" isdata="1">רבנן ימים שבינתים בעלה זכאי במציאתה</row>
 		<row row_number="38" isdata="1">ובמעשה ידיה ובהפרת נדריה ויורשה</row>
 </amud>

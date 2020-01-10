@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:23.172359</dateCreated>
-   <lastModified>2019-12-21 21:42:23.172359</lastModified>
+   <dateCreated>2020-01-06 09:33:56.181152</dateCreated>
+   <lastModified>2020-01-06 09:33:56.181152</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="105">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "בית כור"/><ContMishna/>בטל מדה בחבל הן חסר הן יתר דברי בן</row>
-		<row row_number="2" isdata="1">ננס<EndMishna/><StartGemara/>גמ' אמר רבי אבא בר ממל אמר רב</row>
+		<row row_number="2" isdata="1">ננס:<EndMishna/><StartGemara/>גמ' אמר רבי אבא בר ממל אמר רב</row>
 		<row row_number="3" isdata="1">חולקין עליו חביריו על בן ננס מאי קא משמע</row>
 		<row row_number="4" isdata="1">לן תנינא מעשה בציפורי באחד ששכר</row>
 		<row row_number="5" isdata="1">מרחץ מחבירו בשנים עשר זהובים לשנה</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:36.792571</dateCreated>
-   <lastModified>2019-12-21 21:42:36.792571</lastModified>
+   <dateCreated>2020-01-06 09:34:57.843319</dateCreated>
+   <lastModified>2020-01-06 09:34:57.843319</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="69">
@@ -38,9 +38,9 @@
 		<row row_number="24" isdata="1">יהיה לרבות את כולה למאן אי לרבי מאיר</row>
 		<row row_number="25" isdata="1">ורבי יהודה מי אית להו האי סברא אלא</row>
 		<row row_number="26" isdata="1">לאו לרבי שמעון לא רבי יוסי טעמא</row>
-		<row row_number="27" isdata="1">דנפשיה קאמרמתני' המבכרת המקשה</row>
+		<row row_number="27" isdata="1">דנפשיה קאמר<EndGemara/><StartMishna/>מתני' המבכרת המקשה</row>
 		<row row_number="28" isdata="1">לילד מחתך אבר אבר ומשליך לכלבים יצא</row>
-		<row row_number="29" isdata="1">רובו הרי זה יקבר ונפטרת מן הבכורה</row>
+		<row row_number="29" isdata="1">רובו הרי זה יקבר ונפטרת מן הבכורה:</row>
 		<row row_number="30" isdata="1"><EndMishna/><StartGemara/>גמ' אתמר יצא שליש ומכרו לעובד כוכבים</row>
 		<row row_number="31" isdata="1">וחזר ויצא שליש אחר רב הונא אמר קדוש</row>
 		<row row_number="32" isdata="1">רבה אמר אינו קדוש רב הונא אמר קדוש</row>

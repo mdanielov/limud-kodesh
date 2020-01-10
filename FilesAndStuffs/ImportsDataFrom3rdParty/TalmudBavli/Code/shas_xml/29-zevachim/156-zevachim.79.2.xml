@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.978823</dateCreated>
-   <lastModified>2019-12-21 21:42:31.978823</lastModified>
+   <dateCreated>2020-01-06 09:34:37.194438</dateCreated>
+   <lastModified>2020-01-06 09:34:37.194438</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="79">
@@ -22,8 +22,8 @@
 		<row row_number="8" isdata="1">נדה מסיטו טהור ואם היה לח מסיטו טמא</row>
 		<row row_number="9" isdata="1">משום משקה פיה רבי יהודה אומר אף</row>
 		<row row_number="10" isdata="1">הרוטבו במים טמא משום משקה פיה ואפילו</row>
-		<row row_number="11" isdata="1">טובא אמר רב פפא שאני רוק דקריר נתערב</row>
-		<row row_number="12" isdata="1">בדם הפסולין ישפך לאמה במאי קמיפלגי</row>
+		<row row_number="11" isdata="1">טובא אמר רב פפא שאני רוק דקריר: נתערב</row>
+		<row row_number="12" isdata="1">בדם הפסולין ישפך לאמה: במאי קמיפלגי</row>
 		<row row_number="13" isdata="1">אמר רב זביד בגוזרין גזירה במקדש קא</row>
 		<row row_number="14" isdata="1">מיפלגי דמר סבר גוזרין ומר סבר לא גוזרין</row>
 		<row row_number="15" isdata="1">רב פפא אמר דכולי עלמא גוזרין והכא</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">בשלמא לרב פפא היינו דקתני נתערב בדם</row>
 		<row row_number="19" isdata="1">הפסולין ישפך לאמה (או) בדם התמצית</row>
 		<row row_number="20" isdata="1">ישפך לאמה אלא לרב זביד ליערבינהו</row>
-		<row row_number="21" isdata="1">וליתנינהו קשיאמתני' דם תמימים בדם</row>
+		<row row_number="21" isdata="1">וליתנינהו קשיא<EndGemara/><StartMishna/>מתני' דם תמימים בדם</row>
 		<row row_number="22" isdata="1">בעלי מומין ישפך לאמה כוס בכוסות</row>
 		<row row_number="23" isdata="1">רבי אליעזר אומר אם קרב כוס אחד</row>
 		<row row_number="24" isdata="1">יקרבו כל הכוסות וחכמים אומרים אפילו</row>

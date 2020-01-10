@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.454572</dateCreated>
-   <lastModified>2019-12-21 21:42:38.454572</lastModified>
+   <dateCreated>2020-01-06 09:35:04.465107</dateCreated>
+   <lastModified>2020-01-06 09:35:04.465107</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="138">
@@ -16,7 +16,7 @@
 		<row row_number="2" isdata="1">נמי מתנות דכהן לא מזבין איניש הלכך</row>
 		<row row_number="3" isdata="1">שייר המוכר מוכר חייב דאמר ליה לוקח</row>
 		<row row_number="4" isdata="1">מתנה דכהן גבך היא לא שייר לוקח חייב</row>
-		<row row_number="5" isdata="1">דאמר ליה מוכר מתנה דכהן לא זבני לך<EndChapter name = "ראשית הגז"/><EndGemara/></row>
+		<row row_number="5" isdata="1">דאמר ליה מוכר מתנה דכהן לא זבני לך:<EndChapter name = "ראשית הגז"/><EndGemara/></row>
 		<row row_number="6" isdata="0">הדרן עלך ראשית הגז</row>
 		<row row_number="7" isdata="1"><StartChapter name = "שילוח הקן "/><StartMishna/>שילוח הקן נוהג בארץ ובחו"ל בפני</row>
 		<row row_number="8" isdata="1">הבית ושלא בפני הבית</row>
@@ -30,7 +30,7 @@
 		<row row_number="16" isdata="1">עוף טמא פטור מלשלח עוף טמא רובץ</row>
 		<row row_number="17" isdata="1">על ביצי עוף טהור וטהור רובץ על ביצי</row>
 		<row row_number="18" isdata="1">עוף טמא פטור מלשלח קורא זכר רבי</row>
-		<row row_number="19" isdata="1">אליעזר מחייב וחכמים פוטרין<EndMishna/><StartGemara/>גמ' רבי</row>
+		<row row_number="19" isdata="1">אליעזר מחייב וחכמים פוטרין:<EndMishna/><StartGemara/>גמ' רבי</row>
 		<row row_number="20" isdata="1">אבין ור' מיישא חד אמר כל היכא דתנן</row>
 		<row row_number="21" isdata="1">בארץ ובחו"ל שלא לצורך לבד מראשית</row>
 		<row row_number="22" isdata="1">הגז לאפוקי מדר' אלעאי דאמר ראשית</row>
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">בולדות קדשים ומאי טעמא אוקימנא לאו</row>
 		<row row_number="33" isdata="1">משום דקשיא לן לא ליתני מעיקרא נמי</row>
 		<row row_number="34" isdata="1">לא תקשי לך איידי דתנא לצורך תנא נמי</row>
-		<row row_number="35" isdata="1">שלא לצורך בחולין אבל לא במוקדשים</row>
+		<row row_number="35" isdata="1">שלא לצורך: בחולין אבל לא במוקדשים:</row>
 		<row row_number="36" isdata="1">אמאי לא דאמר קרא שלח תשלח את</row>
 		<row row_number="37" isdata="1">האם במי שאתה מצווה לשלחו יצא זה</row>
 		<row row_number="38" isdata="1">שאי אתה מצווה לשלחו אלא להביאו לידי</row>

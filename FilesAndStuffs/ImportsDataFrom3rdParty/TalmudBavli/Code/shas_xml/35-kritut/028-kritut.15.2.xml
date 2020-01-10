@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:40.704364</dateCreated>
-   <lastModified>2019-12-21 21:42:40.704364</lastModified>
+   <dateCreated>2020-01-06 09:35:18.631221</dateCreated>
+   <lastModified>2020-01-06 09:35:18.631221</lastModified>
  </meta>
  <masechet name="כריתות" serial="35">
 <daf value="15">
@@ -16,7 +16,7 @@
 		<row row_number="2" isdata="1">אצל הרופא וחותכו עד שמניח בו כשערה</row>
 		<row row_number="3" isdata="1">ותוחבו בסירא ונמשך ממנו והלה עושה פסחו</row>
 		<row row_number="4" isdata="1">והרופא עושה פסחו (ורואה אני) שהדברים</row>
-		<row row_number="5" isdata="1">ק"ו<EndMishna/><StartGemara/>גמ' תנן התם המוחק את הכרישה</row>
+		<row row_number="5" isdata="1">ק"ו:<EndMishna/><StartGemara/>גמ' תנן התם המוחק את הכרישה</row>
 		<row row_number="6" isdata="1">והסוחט בשערו ובכסותו משקה שבתוכו</row>
 		<row row_number="7" isdata="1">אינם בכי יותן והיוצאין ממנו הרי הן בכי</row>
 		<row row_number="8" isdata="1">יותן אמר שמואל וכרישה עצמה הוכשרה מאי</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">טהורים שאין מחשבין אלא שיצאו מכולן</row>
 		<row row_number="19" isdata="1">יצאו מכולן הרי מכשירין (שאין נחשבין אלא</row>
 		<row row_number="20" isdata="1">לאחר שיצאו מגופו) אמר רב יוסף בניתזין</row>
-		<row row_number="21" isdata="1">בכל כחןמתני' ועוד שאלו ר' עקיבא</row>
+		<row row_number="21" isdata="1">בכל כחן<EndGemara/><StartMishna/>מתני' ועוד שאלו ר' עקיבא</row>
 		<row row_number="22" isdata="1">השוחט ה' זבחים בחוץ בהעלם אחת מהו</row>
 		<row row_number="23" isdata="1">חייב על כל אחת ואחת או אחת על כולן</row>
 		<row row_number="24" isdata="1">אמרו לו לא שמענו אמר רבי יהושע שמעתי באוכל מזבח אחד מה'</row>
@@ -43,7 +43,7 @@
 		<row row_number="29" isdata="1">שהוא חייב על כל אחת ואחת משום מעילה ורואה אני שהדברים ק"ו אמר</row>
 		<row row_number="30" isdata="1">לו ר' עקיבא אם הלכה נקבל אם לדין יש תשובה אמר לו השב אמר ולא</row>
 		<row row_number="31" isdata="1">אם אמרת במעילה שעשה בה את המאכיל כאוכל ואת המהנה כנהנה צירף</row>
-		<row row_number="32" isdata="1">את המעילה לזמן מרובה תאמר בנותר שאין בו אחת מאלו<EndMishna/><StartGemara/>גמ' מאי קשיא</row>
+		<row row_number="32" isdata="1">את המעילה לזמן מרובה תאמר בנותר שאין בו אחת מאלו:<EndMishna/><StartGemara/>גמ' מאי קשיא</row>
 		<row row_number="33" isdata="1">ליה לר"ש הכי קא קשיא ליה מה ראיה לשוחט מאוכל מה לאוכל שכן נהנה</row>
 		<row row_number="34" isdata="1">אלא כך שאלו האוכל נותר מחמשה זבחים בהעלם אחת מהו חייב בכל</row>
 		<row row_number="35" isdata="1">אחת ואחת או אחת על כולן אמרו לו לא שמענו אמר ר' יהושע שמעתי באוכל</row>
@@ -53,8 +53,8 @@
 		<row row_number="39" isdata="1">כל שכן אמר ר' שמעון לא כך שאלו אלא באוכל (מזבח אחד) נותר מחמשה</row>
 		<row row_number="40" isdata="1">זבחים בהעלם אחת מהו חייב אחת על כולן או חייב על כל אחת ואחת אמרו לו</row>
 		<row row_number="41" isdata="1">לא שמענו רבי יהושע אומר שמעתי באוכל מזבח אחד בחמשה תמחויין שהוא</row>
-		<row row_number="42" isdata="1">חייב על כל אחת ואחת משום מעילה ורואה אני שהדברים ק"ו אמר לו ר'</row>
-		<row row_number="43" isdata="1">עקיבא אם הלכה נקבל כו' קיבלה רבי יהושע להא תשובה מר' עקיבא או לא</row>
+		<row row_number="42" isdata="1">חייב על כל אחת ואחת משום מעילה ורואה אני שהדברים ק"ו: אמר לו ר'</row>
+		<row row_number="43" isdata="1">עקיבא אם הלכה נקבל כו': קיבלה רבי יהושע להא תשובה מר' עקיבא או לא</row>
 		<row row_number="44" isdata="1">ת"ש דתניא אכל ה' חתיכות נותר מזבח אחד בהעלם אחת בחמשה</row>
 		<row row_number="45" isdata="1">תמחויין אינו מביא אלא חטאת אחת ועל לא הודע שלהן אינו מביא אלא</row>
 		<row row_number="46" isdata="1">אשם תלוי אחת מחמשה תמחויין בחמש העלמות מביא חטאת על כל אחת</row>

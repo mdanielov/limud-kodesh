@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.188730</dateCreated>
-   <lastModified>2019-12-21 21:42:06.188730</lastModified>
+   <dateCreated>2020-01-06 09:32:36.634274</dateCreated>
+   <lastModified>2020-01-06 09:32:36.634274</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="38">
@@ -35,9 +35,9 @@
 		<row row_number="21" isdata="1">קמ"ל ולרבה דאמר חידוש הוא שחידשה</row>
 		<row row_number="22" isdata="1">תורה בקנס אע"ג דמיקטיל משלם האי כל</row>
 		<row row_number="23" isdata="1">חרם מאי עביד ליה סבר לה כתנא קמא דר'</row>
-		<row row_number="24" isdata="1">חנניא בן עקביאמתני' נערה שנתארסה</row>
+		<row row_number="24" isdata="1">חנניא בן עקביא<EndGemara/><StartMishna/>מתני' נערה שנתארסה</row>
 		<row row_number="25" isdata="1">ונתגרשה רבי יוסי הגלילי אומר אין לה קנס</row>
-		<row row_number="26" isdata="1">ר"ע אומר יש לה קנס וקנסה לעצמה</row>
+		<row row_number="26" isdata="1">ר"ע אומר יש לה קנס וקנסה לעצמה:</row>
 		<row row_number="27" isdata="1"><EndMishna/><StartGemara/>גמ' מ"ט דר' יוסי הגלילי אמר קרא אשר</row>
 		<row row_number="28" isdata="1">לא אורשה הא אורסה אין לה קנס ור"ע</row>
 		<row row_number="29" isdata="1">אשר לא אורשה לאביה הא אורסה לעצמה</row>

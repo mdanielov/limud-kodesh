@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.142282</dateCreated>
-   <lastModified>2019-12-21 21:42:42.142282</lastModified>
+   <dateCreated>2020-01-06 09:35:27.326569</dateCreated>
+   <lastModified>2020-01-06 09:35:27.326569</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="50">
@@ -35,11 +35,11 @@
 		<row row_number="21" isdata="1">בלילה ומאי אולמיה דהאי סתמא מהאי</row>
 		<row row_number="22" isdata="1">סתמא איבעית אימא סתמא דרבים עדיף</row>
 		<row row_number="23" isdata="1">ואיבעית אימא משום דקתני לה גבי הלכתא</row>
-		<row row_number="24" isdata="1">דדינימתני' כל שחייב במעשרות מטמא</row>
+		<row row_number="24" isdata="1">דדיני<EndGemara/><StartMishna/>מתני' כל שחייב במעשרות מטמא</row>
 		<row row_number="25" isdata="1">טומאת אוכלין ויש שמטמא טומאת אוכלין</row>
-		<row row_number="26" isdata="1">ואינו חייב במעשרות<EndMishna/><StartGemara/>גמ' לאתויי מאי</row>
-		<row row_number="27" isdata="1">לאתויי בשר ודגים וביציםמתני' כל</row>
-		<row row_number="28" isdata="1">שחייב בפאה חייב במעשרות ויש שחייב במעשרות ואינו חייב בפאה<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="26" isdata="1">ואינו חייב במעשרות:<EndMishna/><StartGemara/>גמ' לאתויי מאי</row>
+		<row row_number="27" isdata="1">לאתויי בשר ודגים וביצים<EndGemara/><StartMishna/>מתני' כל</row>
+		<row row_number="28" isdata="1">שחייב בפאה חייב במעשרות ויש שחייב במעשרות ואינו חייב בפאה:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="29" isdata="1">לאתויי מאי לאתויי תאנה וירק שאינו חייב בפאה דתנן כלל אמרו בפאה כל</row>
 		<row row_number="30" isdata="1">שהוא אוכל ונשמר וגידולו מן הארץ ולקיטתו כאחד ומכניסו לקיום חייב</row>
 		<row row_number="31" isdata="1">בפאה אוכל למעוטי ספיחי סטים וקוצה ונשמר למעוטי הפקר וגידולו מן</row>

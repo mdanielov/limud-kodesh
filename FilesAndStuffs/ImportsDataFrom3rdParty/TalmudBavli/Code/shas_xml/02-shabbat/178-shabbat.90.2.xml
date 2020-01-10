@@ -6,31 +6,31 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.706978</dateCreated>
-   <lastModified>2019-12-21 21:41:49.706978</lastModified>
+   <dateCreated>2020-01-06 09:31:07.356078</dateCreated>
+   <lastModified>2020-01-06 09:31:07.356078</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="90">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>זרע קישואין שנים זרע דילועין שנים זרע פול</row>
+		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContMishna/>זרע קישואין שנים זרע דילועין שנים זרע פול</row>
 		<row row_number="2" isdata="1">המצרי שנים חגב חי טהור כל שהוא מת</row>
 		<row row_number="3" isdata="1">כגרוגרת צפורת כרמים בין חיה בין מתה</row>
 		<row row_number="4" isdata="1">כל שהוא שמצניעין אותה לרפואה ר' יהודה</row>
 		<row row_number="5" isdata="1">אומר אף המוציא חגב חי טמא כל שהוא</row>
-		<row row_number="6" isdata="1">שמצניעין אותו לקטן לשחוק בו<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="6" isdata="1">שמצניעין אותו לקטן לשחוק בו:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="7" isdata="1">ורמינהי זבל וחול הדק כדי לזבל קלח של</row>
 		<row row_number="8" isdata="1">כרוב דברי ר"ע וחכמים אומרים כדי לזבל</row>
 		<row row_number="9" isdata="1">כרישא אמר רב פפא הא דזריע הא דלא</row>
 		<row row_number="10" isdata="1">זריע לפי שאין אדם טורח להוציא נימא</row>
-		<row row_number="11" isdata="1">אחת לזריעה זרע קישואין ת"ר המוציא</row>
+		<row row_number="11" isdata="1">אחת לזריעה: זרע קישואין: ת"ר המוציא</row>
 		<row row_number="12" isdata="1">גרעינין אם לנטיעה שתים אם לאכילה</row>
 		<row row_number="13" isdata="1">כמלא פי חזיר וכמה מלא פי חזיר אחת אם</row>
 		<row row_number="14" isdata="1">להסיק כדי לבשל ביצה קלה אם לחשבון</row>
 		<row row_number="15" isdata="1">שתים אחרים אומרים חמש ת"ר המוציא</row>
 		<row row_number="16" isdata="1">שני נימין מזנב הסוס ומזנב הפרה חייב</row>
 		<row row_number="17" isdata="1">שמצניעין אותן לנישבין מקשה של חזיר</row>
-		<row row_number="18" isdata="1">אחת צורי דקל שתים תורי דקל אחת</row>
-		<row row_number="19" isdata="1">ציפורת כרמים בין חיה בין מתה כל שהוא</row>
+		<row row_number="18" isdata="1">אחת צורי דקל שתים תורי דקל אחת:</row>
+		<row row_number="19" isdata="1">ציפורת כרמים בין חיה בין מתה כל שהוא:</row>
 		<row row_number="20" isdata="1">מאי ציפורת כרמים אמר רב פליא ביארי</row>
 		<row row_number="21" isdata="1">אמר אביי ומשתכח בדיקלא דחד נבארא</row>
 		<row row_number="22" isdata="1">ועבדי לה לחוכמא אכיל ליה לפלגא דימיני'</row>
@@ -39,20 +39,20 @@
 		<row row_number="25" isdata="1">דשמאלא וסימניך לב חכם לימינו ולב</row>
 		<row row_number="26" isdata="1">כסיל לשמאלו וחכים כמה דבעי וגמר כמה</row>
 		<row row_number="27" isdata="1">דבעי ואכיל ליה לאידך פלגא דאי לא</row>
-		<row row_number="28" isdata="1">מיעקר תלמודו ר' יהודה אומר אף המוציא</row>
-		<row row_number="29" isdata="1">כו' ותנא קמא סבר לא מאי טעמא דילמא</row>
+		<row row_number="28" isdata="1">מיעקר תלמודו: ר' יהודה אומר אף המוציא</row>
+		<row row_number="29" isdata="1">כו': ותנא קמא סבר לא מאי טעמא דילמא</row>
 		<row row_number="30" isdata="1">אכיל ליה אי הכי טהור נמי דהא רב כהנא</row>
 		<row row_number="31" isdata="1">הוה קאים קמיה דרב והוה קמעבר שושיבא</row>
 		<row row_number="32" isdata="1">אפומיה אמר ליה שקליה דלא לימרו מיכל</row>
 		<row row_number="33" isdata="1">קאכיל ליה וקעבר משום בל תשקצו</row>
 		<row row_number="34" isdata="1">את נפשותיכם אלא דילמא מיית ואכיל</row>
 		<row row_number="35" isdata="1">ליה ורבי יהודה אי מיית קטן מיספד</row>
-		<row row_number="36" isdata="1">ספיד ליה<EndChapter name = "אמר רבי עקיבא"/><EndGemara/></row>
+		<row row_number="36" isdata="1">ספיד ליה:<EndChapter name = "אמר רבי עקיבא"/><EndGemara/></row>
 		<row row_number="37" isdata="0">הדרן עלך אמר רבי עקיבא</row>
 		<row row_number="38" isdata="1"><StartChapter name = "המצניע"/><StartMishna/>המצניע לזרע ולדוגמא ולרפואה</row>
 		<row row_number="39" isdata="1">והוציאו בשבת חייב בכל</row>
 		<row row_number="40" isdata="1">שהוא וכל אדם אין חייב עליו אלא כשיעורו</row>
-		<row row_number="41" isdata="1">חזר והכניסו אינו חייב אלא כשיעורו<EndMishna/><StartGemara/>גמ' למה ליה למיתני המצניע ליתני</row>
+		<row row_number="41" isdata="1">חזר והכניסו אינו חייב אלא כשיעורו:<EndMishna/><StartGemara/>גמ' למה ליה למיתני המצניע ליתני</row>
 		<row row_number="42" isdata="1">המוציא לזרע ולדוגמא ולרפואה חייב בכל שהוא אמר אביי הכא במאי</row>
 		<row row_number="43" isdata="1">עסקינן כגון שהצניעו ושכח למה הצניעו והשתא קא מפיק ליה סתמא</row>
 </amud>

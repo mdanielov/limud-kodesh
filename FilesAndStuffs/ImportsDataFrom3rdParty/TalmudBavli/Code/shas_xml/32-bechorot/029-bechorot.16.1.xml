@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.778634</dateCreated>
-   <lastModified>2019-12-21 21:42:38.778634</lastModified>
+   <dateCreated>2020-01-06 09:35:06.614771</dateCreated>
+   <lastModified>2020-01-06 09:35:06.614771</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="16">
@@ -22,10 +22,10 @@
 		<row row_number="8" isdata="1">נפדין ואיידי דתנא רישא נפדין תמימים תנא</row>
 		<row row_number="9" isdata="1">נמי סיפא אין נפדין תמימים ואיידי דתנא</row>
 		<row row_number="10" isdata="1">רישא לכל זבח שירצה תנא נמי סיפא לכל</row>
-		<row row_number="11" isdata="1">זבח שירצה והשוחטן בחוץ פטור רב</row>
+		<row row_number="11" isdata="1">זבח שירצה: והשוחטן בחוץ פטור: רב</row>
 		<row row_number="12" isdata="1">הונא מתני חייב ומוקים לה בדוקין שבעין</row>
-		<row row_number="13" isdata="1">ואליבא דר"ע דאמר אם עלו לא ירדו בין</row>
-		<row row_number="14" isdata="1">לפני פדיונו בין לאחר פדיונו עושה תמורה</row>
+		<row row_number="13" isdata="1">ואליבא דר"ע דאמר אם עלו לא ירדו: בין</row>
+		<row row_number="14" isdata="1">לפני פדיונו בין לאחר פדיונו עושה תמורה:</row>
 		<row row_number="15" isdata="1">אמר ר"נ אמר רבה בר אבוה ותמורתו לאחר</row>
 		<row row_number="16" isdata="1">פדיונו מתה מאי טעמא היכי ליעביד ליקרביה</row>
 		<row row_number="17" isdata="1">מכח קדושה דחויה קאתיא ליפרקה לא</row>
@@ -58,7 +58,7 @@
 		<row row_number="44" isdata="1">איכא לאו ליכא קמשמע לן דאיכא לאו</row>
 		<row row_number="45" isdata="1">ואיבעית אימא לאקושי דבר הבא ממעלי</row>
 		<row row_number="46" isdata="1">גרה לדבר הבא ממפריסי הפרסה מה להלן</row>
-		<row row_number="47" isdata="1">במיתה אף כאן במיתהמתני' המקבל צאן ברזל מן העובד כוכבים</row>
+		<row row_number="47" isdata="1">במיתה אף כאן במיתה<EndGemara/><StartMishna/>מתני' המקבל צאן ברזל מן העובד כוכבים</row>
 </amud>
 </daf>
 </masechet>

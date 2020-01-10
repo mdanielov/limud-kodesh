@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:25.447738</dateCreated>
-   <lastModified>2019-12-21 21:42:25.447738</lastModified>
+   <dateCreated>2020-01-06 09:34:06.863589</dateCreated>
+   <lastModified>2020-01-06 09:34:06.863589</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="27">
@@ -36,7 +36,7 @@
 		<row row_number="22" isdata="1">יוסי והאיכא עדות בדיני נפשות שאין</row>
 		<row row_number="23" isdata="1">האשה כשרה לה והן כשרין לה אלא לאו</row>
 		<row row_number="24" isdata="1">רבי מאיר היא קם בר חמא נשקיה אכרעיה</row>
-		<row row_number="25" isdata="1">וקבליה לכרגיה דכולי שניהמתני' ואלו</row>
+		<row row_number="25" isdata="1">וקבליה לכרגיה דכולי שניה<EndGemara/><StartMishna/>מתני' ואלו</row>
 		<row row_number="26" isdata="1">הן הקרובין אחיו ואחי אביו ואחי אמו ובעל</row>
 		<row row_number="27" isdata="1">אחותו ובעל אחות אביו ובעל אחות אמו</row>
 		<row row_number="28" isdata="1">ובעל אמו וחמיו וגיסו הן ובניהן וחתניהן</row>
@@ -48,7 +48,7 @@
 		<row row_number="34" isdata="1">הרי זה קרוב האוהב והשונא אוהב זה</row>
 		<row row_number="35" isdata="1">שושבינו שונא כל שלא דבר עמו שלשה</row>
 		<row row_number="36" isdata="1">ימים באיבה א"ל לא נחשדו ישראל על</row>
-		<row row_number="37" isdata="1">כך<EndMishna/><StartGemara/>גמ' מנהני מילי דת"ר לא יומתו</row>
+		<row row_number="37" isdata="1">כך:<EndMishna/><StartGemara/>גמ' מנהני מילי דת"ר לא יומתו</row>
 		<row row_number="38" isdata="1">אבות על בנים מה ת"ל אם ללמד שלא</row>
 		<row row_number="39" isdata="1">יומתו אבות בעון בנים ובנים בעון אבות</row>
 		<row row_number="40" isdata="1">הרי כבר נאמר איש בחטאו יומתו אלא</row>

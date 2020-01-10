@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.694273</dateCreated>
-   <lastModified>2019-12-21 21:42:35.694273</lastModified>
+   <dateCreated>2020-01-06 09:34:53.579416</dateCreated>
+   <lastModified>2020-01-06 09:34:53.579416</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="25">
@@ -37,9 +37,9 @@
 		<row row_number="23" isdata="1">עליו טמא הוא האי הוא דכי אין צמיד פתיל</row>
 		<row row_number="24" isdata="1">עליו טמא הא יש צמיד פתיל עליו טהור הא</row>
 		<row row_number="25" isdata="1">כל הכלים בין שיש צמיד פתיל עליהם בין</row>
-		<row row_number="26" isdata="1">שאין צמיד פתיל עליהם מיטמאיןמתני'</row>
+		<row row_number="26" isdata="1">שאין צמיד פתיל עליהם מיטמאין<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="27" isdata="1">טהור בכלי עץ טמא בכלי מתכות טהור</row>
-		<row row_number="28" isdata="1">בכלי מתכות טמא בכלי עץ<EndMishna/><StartGemara/>גמ' תנו</row>
+		<row row_number="28" isdata="1">בכלי מתכות טמא בכלי עץ:<EndMishna/><StartGemara/>גמ' תנו</row>
 		<row row_number="29" isdata="1">רבנן גולמי כלי עץ טמאין פשוטיהן</row>
 		<row row_number="30" isdata="1">טהורין גולמי כלי מתכות טהורין</row>
 		<row row_number="31" isdata="1">פשוטיהן טמאין נמצא טהור בכלי עץ</row>

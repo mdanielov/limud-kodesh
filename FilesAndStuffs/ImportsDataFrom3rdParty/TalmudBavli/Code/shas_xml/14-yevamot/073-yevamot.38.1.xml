@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:03.646641</dateCreated>
-   <lastModified>2019-12-21 21:42:03.646641</lastModified>
+   <dateCreated>2020-01-06 09:32:24.677528</dateCreated>
+   <lastModified>2020-01-06 09:32:24.677528</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="38">
@@ -30,7 +30,7 @@
 		<row row_number="16" isdata="1">שקל פש להו דנקא הוי ממון המוטל בספק</row>
 		<row row_number="17" isdata="1">וחולקין סבא ויבם בנכסי ספק או סבא</row>
 		<row row_number="18" isdata="1">וספק בנכסי יבם הוי ממון המוטל בספק</row>
-		<row row_number="19" isdata="1">וחולקיןמתני' שומרת יבם שנפלו לה</row>
+		<row row_number="19" isdata="1">וחולקין<EndGemara/><StartMishna/>מתני' שומרת יבם שנפלו לה</row>
 		<row row_number="20" isdata="1">נכסים מודים ב"ש וב"ה שמוכרת ונותנת</row>
 		<row row_number="21" isdata="1">וקיים מתה מה יעשה בכתובתה ובנכסים</row>
 		<row row_number="22" isdata="1">הנכנסים ויוצאין עמה ב"ש אומרים יחלוקו</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">נכסים הנכנסים ויוצאין עמה בחזקת יורשי</row>
 		<row row_number="26" isdata="1">האב כנסה הרי היא כאשתו לכל דבר</row>
 		<row row_number="27" isdata="1">ובלבד שתהא כתובה על נכסי בעלה</row>
-		<row row_number="28" isdata="1">הראשון<EndMishna/><StartGemara/>גמ' מ"ש רישא דלא פליגי ומ"ש</row>
+		<row row_number="28" isdata="1">הראשון:<EndMishna/><StartGemara/>גמ' מ"ש רישא דלא פליגי ומ"ש</row>
 		<row row_number="29" isdata="1">סיפא דפליגי אמר עולא רישא דנפלה כשהיא</row>
 		<row row_number="30" isdata="1">ארוסה וסיפא דנפלה כשהיא נשואה וקסבר</row>
 		<row row_number="31" isdata="1">עולא זיקת ארוסה עושה ספק ארוסה</row>

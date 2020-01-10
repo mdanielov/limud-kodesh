@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.367750</dateCreated>
-   <lastModified>2019-12-21 21:42:00.368752</lastModified>
+   <dateCreated>2020-01-06 09:32:04.442047</dateCreated>
+   <lastModified>2020-01-06 09:32:04.442047</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="24">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "אין צדין"/><ContMishna/>המחוסר צידה אסור ושאינו מחוסר צידה</row>
-		<row row_number="2" isdata="1">מותר<EndMishna/><StartGemara/>גמ' ורמינהו ביברין של חיה ושל</row>
+		<row row_number="2" isdata="1">מותר:<EndMishna/><StartGemara/>גמ' ורמינהו ביברין של חיה ושל</row>
 		<row row_number="3" isdata="1">עופות אין צדין מהם ביום טוב ואין נותנין</row>
 		<row row_number="4" isdata="1">לפניהם מזונות קשיא חיה אחיה קשיא עופות</row>
 		<row row_number="5" isdata="1">אעופות בשלמא חיה אחיה לא קשיא הא</row>
@@ -36,12 +36,12 @@
 		<row row_number="22" isdata="1">ביבר קטן ואידך ביבר גדול אי נמי כל היכא</row>
 		<row row_number="23" isdata="1">דאיכא עוקצי עוקצי ביבר גדול ואידך ביבר</row>
 		<row row_number="24" isdata="1">קטן אי נמי כל היכא דנפלי טולא דכתלי</row>
-		<row row_number="25" isdata="1">אהדדי ביבר קטן ואידך ביבר גדול רשב"ג</row>
-		<row row_number="26" isdata="1">אומר לא כל הביברין שוין וכו' אמר רב</row>
+		<row row_number="25" isdata="1">אהדדי ביבר קטן ואידך ביבר גדול: רשב"ג</row>
+		<row row_number="26" isdata="1">אומר לא כל הביברין שוין וכו': אמר רב</row>
 		<row row_number="27" isdata="1">יוסף אמר רב יהודה אמר שמואל הלכה</row>
 		<row row_number="28" isdata="1">כרבי שמעון בן גמליאל אמר ליה אביי הלכה מכלל דפליגי אמר ליה</row>
-		<row row_number="29" isdata="1">ומאי נפקא לך מינה אמר ליה גמרא גמור זמורתא תהא זה הכלל כל</row>
-		<row row_number="30" isdata="1">המחוסר צידה וכו' היכי דמי מחוסר צידה אמר רב יוסף אמר רב יהודה</row>
+		<row row_number="29" isdata="1">ומאי נפקא לך מינה אמר ליה גמרא גמור זמורתא תהא: זה הכלל כל</row>
+		<row row_number="30" isdata="1">המחוסר צידה וכו': היכי דמי מחוסר צידה אמר רב יוסף אמר רב יהודה</row>
 		<row row_number="31" isdata="1">אמר שמואל כל שאומר הבא מצודה ונצודנו אמר ליה אביי והא אווזין</row>
 		<row row_number="32" isdata="1">ותרנגולין שאומרים הבא מצודה ונצודנו ותניא הצד אווזין ותרנגולין ויוני</row>
 		<row row_number="33" isdata="1">הרדיסאות פטור אמר רבה בר רב הונא אמר שמואל הללו באין לכלובן</row>
@@ -50,10 +50,10 @@
 		<row row_number="36" isdata="1">בבירות חייב אלא אמר רבה בר רב הונא אמר שמואל הללו באין לכלובן</row>
 		<row row_number="37" isdata="1">לערב ומזונותן עליך והללו באין לכלובן לערב ואין מזונותן עליך רב מרי</row>
 		<row row_number="38" isdata="1">אמר הני עבידי לרבויי והני לא עבידי לרבויי כולהו נמי עבידי לרבויי לכלובן</row>
-		<row row_number="39" isdata="1">קאמרינן דעבידי לרבויימתני' מצודות חיה ועוף ודגים שעשאן מערב יום</row>
+		<row row_number="39" isdata="1">קאמרינן דעבידי לרבויי<EndGemara/><StartMishna/>מתני' מצודות חיה ועוף ודגים שעשאן מערב יום</row>
 		<row row_number="40" isdata="1">טוב לא יטול מהן ביום טוב אלא אם כן יודע שנצודו מערב יום טוב ומעשה</row>
 		<row row_number="41" isdata="1">בנכרי אחד שהביא דגים לרבן גמליאל ואמר מותרין הן אלא שאין רצוני</row>
-		<row row_number="42" isdata="1">לקבל הימנו<EndMishna/><StartGemara/>גמ' מעשה לסתור חסורי מחסרא והכי קתני ספק מוכן אסור</row>
+		<row row_number="42" isdata="1">לקבל הימנו:<EndMishna/><StartGemara/>גמ' מעשה לסתור חסורי מחסרא והכי קתני ספק מוכן אסור</row>
 		<row row_number="43" isdata="1">ורבן גמליאל מתיר ומעשה נמי בנכרי אחד שהביא דגים לרבן גמליאל ואמר</row>
 		<row row_number="44" isdata="1">מותרין הן אלא שאין רצוני לקבל הימנו אמר רב יהודה אמר שמואל אין הלכה</row>
 		<row row_number="45" isdata="1">כר"ג ואיכא דמתני לה אהא דתניא ספק מוכן ר"ג מתיר ורבי יהושע אוסר</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:14.867668</dateCreated>
-   <lastModified>2019-12-21 21:42:14.867668</lastModified>
+   <dateCreated>2020-01-06 09:33:18.571641</dateCreated>
+   <lastModified>2020-01-06 09:33:18.571641</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="63">
@@ -22,11 +22,11 @@
 		<row row_number="8" isdata="1">מוקמינן בתרי תנאי ובחד טעמא רב יוסף</row>
 		<row row_number="9" isdata="1">בר אמי אמר לעולם חד טעמא הוא ומאי</row>
 		<row row_number="10" isdata="1">על מנת שירצה אבא ע"מ שלא ימחה אבא</row>
-		<row row_number="11" isdata="1">מכאן ועד שלשים יוםמתני' קדשתי</row>
+		<row row_number="11" isdata="1">מכאן ועד שלשים יום<EndGemara/><StartMishna/>מתני' קדשתי</row>
 		<row row_number="12" isdata="1">את בתי ואיני יודע למי קידשתיה ובא אחד</row>
 		<row row_number="13" isdata="1">ואמר אני קידשתיה נאמן זה אמר אני</row>
 		<row row_number="14" isdata="1">קידשתיה וזה אמר אני קידשתיה שניהם</row>
-		<row row_number="15" isdata="1">נותנים גט ואם רצו אחד נותן גט ואחד כונס</row>
+		<row row_number="15" isdata="1">נותנים גט ואם רצו אחד נותן גט ואחד כונס:</row>
 		<row row_number="16" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב נאמן ליתן גט ואין נאמן</row>
 		<row row_number="17" isdata="1">לכנוס נאמן ליתן גט אין אדם חוטא ולא לו</row>
 		<row row_number="18" isdata="1">ואין נאמן לכנוס אימא יצרו תוקפו רב אסי</row>

@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.058450</dateCreated>
-   <lastModified>2019-12-21 21:42:33.058450</lastModified>
+   <dateCreated>2020-01-06 09:34:42.183636</dateCreated>
+   <lastModified>2020-01-06 09:34:42.183636</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="12">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "כל המנחות"/><ContGemara/>פיגול וחייבין עליו כרת זה הכלל כל הקומץ</row>
+		<row row_number="1" isdata="1"><ContChapter name = "כל המנחות"/><ContMishna/>פיגול וחייבין עליו כרת זה הכלל כל הקומץ</row>
 		<row row_number="2" isdata="1">[או] נותן בכלי המוליך המקטיר לאכול דבר</row>
 		<row row_number="3" isdata="1">שדרכו לאכול ולהקטיר דבר שדרכו להקטיר</row>
 		<row row_number="4" isdata="1">חוץ למקומו פסול ואין בו כרת חוץ לזמנו</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">אם מחשבת הזמן קדמה למחשבת המקום</row>
 		<row row_number="26" isdata="1">פיגול וחייבין עליו כרת אם מחשבת המקום</row>
 		<row row_number="27" isdata="1">קדמה למחשבת הזמן פסול ואין בו כרת</row>
-		<row row_number="28" isdata="1">וחכמי' אומרים זה וזה פסול ואין בו כרת<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="28" isdata="1">וחכמי' אומרים זה וזה פסול ואין בו כרת:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="29" isdata="1">איבעיא להו לדברי האומר שירים שחסרו</row>
 		<row row_number="30" isdata="1">בין קמיצה להקטרה מקטיר קומץ עליהן</row>
 		<row row_number="31" isdata="1">וקיימא לן דאותן שירים אסורים באכילה</row>

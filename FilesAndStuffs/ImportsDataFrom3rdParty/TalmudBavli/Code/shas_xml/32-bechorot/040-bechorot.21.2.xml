@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.862648</dateCreated>
-   <lastModified>2019-12-21 21:42:38.862648</lastModified>
+   <dateCreated>2020-01-06 09:35:07.752688</dateCreated>
+   <lastModified>2020-01-06 09:35:07.752688</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="21">
@@ -39,10 +39,10 @@
 		<row row_number="25" isdata="1">כוותיה דרבי יוחנן דאמר חולין אם לא</row>
 		<row row_number="26" isdata="1">הודיעו הולך ושוחט ואינו נמנע לימא תיהוי</row>
 		<row row_number="27" isdata="1">תיובתא דרב ושמואל התם במוכר תליא</row>
-		<row row_number="28" isdata="1">מילתא הכא בלוקח תליא מילתאמתני'</row>
+		<row row_number="28" isdata="1">מילתא הכא בלוקח תליא מילתא<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="29" isdata="1">רבי אליעזר בן יעקב אומר בהמה גסה</row>
 		<row row_number="30" isdata="1">ששפעה חררת דם הרי זו תקבר ופטורה מן</row>
-		<row row_number="31" isdata="1">הבכורה<EndMishna/><StartGemara/>גמ' תני רבי חייא אינה מטמאה</row>
+		<row row_number="31" isdata="1">הבכורה:<EndMishna/><StartGemara/>גמ' תני רבי חייא אינה מטמאה</row>
 		<row row_number="32" isdata="1">לא במגע ולא במשא ומאחר דאינה</row>
 		<row row_number="33" isdata="1">מטמאה לא במגע ולא במשא אמאי תקבר</row>
 </amud>

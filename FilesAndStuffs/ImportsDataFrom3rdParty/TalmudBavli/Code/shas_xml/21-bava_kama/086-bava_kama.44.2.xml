@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.169439</dateCreated>
-   <lastModified>2019-12-21 21:42:16.169439</lastModified>
+   <dateCreated>2020-01-06 09:33:24.436347</dateCreated>
+   <lastModified>2020-01-06 09:33:24.436347</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="44">
@@ -30,9 +30,9 @@
 		<row row_number="16" isdata="1">נמי נילף מקטליה דנין תשלומין מתשלומין</row>
 		<row row_number="17" isdata="1">ואין דנין תשלומין ממיתה ור' שמעון נמי</row>
 		<row row_number="18" isdata="1">נילף מכופרו דנין חיוביה דשור מחיוביה</row>
-		<row row_number="19" isdata="1">דשור לאפוקי כופר דחיוביה דבעלים הוא</row>
+		<row row_number="19" isdata="1">דשור לאפוקי כופר דחיוביה דבעלים הוא:</row>
 		<row row_number="20" isdata="1">נתכוין להרוג את הבהמה והרג את האדם</row>
-		<row row_number="21" isdata="1">[וכו'] פטור הא נתכוין להרוג את זה והרג</row>
+		<row row_number="21" isdata="1">[וכו'] פטור: הא נתכוין להרוג את זה והרג</row>
 		<row row_number="22" isdata="1">את זה חייב מתניתין דלא כר' שמעון דתניא</row>
 		<row row_number="23" isdata="1">ר' שמעון אומר אפילו נתכוין להרוג את זה</row>
 		<row row_number="24" isdata="1">והרג את זה פטור מ"ט דרבי שמעון דאמר</row>
@@ -45,10 +45,10 @@
 		<row row_number="31" isdata="1">ישראל ביניהם תיפוק ליה דרובא כנענים נינהו אי נמי פלגא ופלגא ספק</row>
 		<row row_number="32" isdata="1">נפשות להקל לא צריכא דאיכא תשעה ישראלים ואחד כנעני דאע"ג דרובא</row>
 		<row row_number="33" isdata="1">ישראלים נינהו כיון דאיכא חדא כנעני בינייהו הוי ליה קבוע וכל קבוע כמחצה</row>
-		<row row_number="34" isdata="1">על מחצה דמי וספק נפשות להקלמתני' שור האשה ושור היתומים</row>
+		<row row_number="34" isdata="1">על מחצה דמי וספק נפשות להקל<EndGemara/><StartMishna/>מתני' שור האשה ושור היתומים</row>
 		<row row_number="35" isdata="1">שור האפוטרופוס שור המדבר שור ההקדש שור הגר שמת ואין לו יורשין</row>
 		<row row_number="36" isdata="1">הרי אלו חייבין מיתה ר' יהודה אומר שור המדבר שור ההקדש שור הגר</row>
-		<row row_number="37" isdata="1">שמת פטורין מן המיתה לפי שאין להם בעלים<EndMishna/><StartGemara/>גמ' ת"ר שור שור שבעה</row>
+		<row row_number="37" isdata="1">שמת פטורין מן המיתה לפי שאין להם בעלים:<EndMishna/><StartGemara/>גמ' ת"ר שור שור שבעה</row>
 		<row row_number="38" isdata="1">להביא שור האשה שור היתומים שור האפוטרופוס שור המדבר שור ההקדש</row>
 		<row row_number="39" isdata="1">שור הגר שמת ואין לו יורשין ר' יהודה אומר שור המדבר שור ההקדש</row>
 		<row row_number="40" isdata="1">שור הגר שמת ואין לו יורשין פטורין מן המיתה לפי שאין להם בעלים אמר</row>
@@ -59,10 +59,10 @@
 		<row row_number="45" isdata="1">נגח ולבסוף הקדיש נגח ולבסוף הפקיר שמע מינה תניא נמי הכי</row>
 		<row row_number="46" isdata="1">יתר על כן אמר ר' יהודה אפילו נגח ולבסוף הקדיש נגח ולבסוף הפקיר פטור שנאמר</row>
 		<row row_number="47" isdata="1">והועד בבעליו והמית וגו' עד שתהא מיתה והעמדה בדין שוין כאחד וגמר דין לא בעינן והא השור יסקל</row>
-		<row row_number="48" isdata="1">גמר דין הוא אלא אימא עד שתהא מיתה והעמדה בדין וגמר דין שוין כאחדמתני' שור שהוא יוצא</row>
+		<row row_number="48" isdata="1">גמר דין הוא אלא אימא עד שתהא מיתה והעמדה בדין וגמר דין שוין כאחד<EndGemara/><StartMishna/>מתני' שור שהוא יוצא</row>
 		<row row_number="49" isdata="1">ליסקל והקדישו בעליו אינו מוקדש שחטו בשרו אסור ואם עד שלא נגמר דינו הקדישו בעליו מוקדש</row>
 		<row row_number="50" isdata="1">ואם שחטו בשרו מותר מסרו לשומר חנם ולשואל לנושא שכר ולשוכר נכנסו תחת הבעלים</row>
-		<row row_number="51" isdata="1">מועד משלם נזק שלם ותם משלם חצי נזק<EndMishna/><StartGemara/>גמ' תנו רבנן שור שהמית עד שלא נגמר דינו מכרו</row>
+		<row row_number="51" isdata="1">מועד משלם נזק שלם ותם משלם חצי נזק:<EndMishna/><StartGemara/>גמ' תנו רבנן שור שהמית עד שלא נגמר דינו מכרו</row>
 </amud>
 </daf>
 </masechet>

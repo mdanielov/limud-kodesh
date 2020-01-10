@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.861282</dateCreated>
-   <lastModified>2019-12-21 21:42:41.861282</lastModified>
+   <dateCreated>2020-01-06 09:35:25.823179</dateCreated>
+   <lastModified>2020-01-06 09:35:25.823179</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="34">
@@ -15,12 +15,12 @@
 		<row row_number="1" isdata="1"><ContChapter name = "בנות כותים"/><ContGemara/>רגל הוה וטומאת עם הארץ ברגל כטהרה</row>
 		<row row_number="2" isdata="1">שוינהו רבנן דכתיב ויאסף כל איש ישראל</row>
 		<row row_number="3" isdata="1">אל העיר כאיש אחד חברים הכתוב עשאן כולן</row>
-		<row row_number="4" isdata="1">חבריםמתני' דם עובדת כוכבים ודם טהרה</row>
+		<row row_number="4" isdata="1">חברים<EndGemara/><StartMishna/>מתני' דם עובדת כוכבים ודם טהרה</row>
 		<row row_number="5" isdata="1">של מצורעת ב"ש מטהרים ובית הלל אומרים</row>
 		<row row_number="6" isdata="1">כרוקה וכמימי רגליה דם היולדת שלא</row>
 		<row row_number="7" isdata="1">טבלה ב"ש אומרים כרוקה וכמימי רגליה</row>
 		<row row_number="8" isdata="1">וב"ה אומרים מטמא לח ויבש ומודים</row>
-		<row row_number="9" isdata="1">ביולדת בזוב שהיא מטמאה לח ויבש</row>
+		<row row_number="9" isdata="1">ביולדת בזוב שהיא מטמאה לח ויבש:</row>
 		<row row_number="10" isdata="1"><EndMishna/><StartGemara/>גמ' ולית להו לב"ש דבר אל בני ישראל</row>
 		<row row_number="11" isdata="1">ואמרת אליהם איש איש כי יהיה זב בני</row>
 		<row row_number="12" isdata="1">ישראל מטמאין בזיבה ואין העובדי כוכבים</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.031751</dateCreated>
-   <lastModified>2019-12-21 21:42:01.031751</lastModified>
+   <dateCreated>2020-01-06 09:32:09.473057</dateCreated>
+   <lastModified>2020-01-06 09:32:09.473057</lastModified>
  </meta>
  <masechet name="ראש השנה" serial="09">
 <daf value="26">
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">על ה' יהבך והוא יכלכלך אמר רבה בר</row>
 		<row row_number="24" isdata="1">בר חנה יומא חד הוה אזלינא בהדי ההוא</row>
 		<row row_number="25" isdata="1">טייעא הוה דרינא טונא ואמר לי שקול</row>
-		<row row_number="26" isdata="1">יהביך ושדי אגמלאימתני' שופר של</row>
+		<row row_number="26" isdata="1">יהביך ושדי אגמלאי<EndGemara/><StartMishna/>מתני' שופר של</row>
 		<row row_number="27" isdata="1">ראש השנה של יעל פשוט ופיו מצופה זהב</row>
 		<row row_number="28" isdata="1">ושתי חצוצרות מן הצדדין שופר מאריך</row>
 		<row row_number="29" isdata="1">וחצוצרות מקצרות שמצות היום בשופר</row>
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">וחצוצרות מאריכות שמצות היום בחצוצרות</row>
 		<row row_number="33" isdata="1">שוה היובל לר"ה לתקיעה ולברכות רבי</row>
 		<row row_number="34" isdata="1">יהודה אומר בר"ה תוקעין בשל זכרים</row>
-		<row row_number="35" isdata="1">וביובלות בשל יעלים<EndMishna/><StartGemara/>גמ' א"ר לוי מצוה</row>
+		<row row_number="35" isdata="1">וביובלות בשל יעלים:<EndMishna/><StartGemara/>גמ' א"ר לוי מצוה</row>
 		<row row_number="36" isdata="1">של ר"ה ושל יוה"כ בכפופין ושל כל השנה</row>
 		<row row_number="37" isdata="1">בפשוטין והתנן שופר של ר"ה של יעל</row>
 		<row row_number="38" isdata="1">פשוט הוא דאמר כי האי תנא דתניא רבי</row>
@@ -58,7 +58,7 @@
 		<row row_number="44" isdata="1">מר סבר בר"ה כמה דכייף איניש דעתיה</row>
 		<row row_number="45" isdata="1">טפי מעלי וביום הכפורים כמה דפשיט איניש</row>
 		<row row_number="46" isdata="1">דעתיה טפי מעלי ומר סבר בראש השנה כמה דפשיט איניש דעתיה</row>
-		<row row_number="47" isdata="1">טפי מעלי ובתעניות כמה דכייף איניש דעתיה טפי מעלי</row>
+		<row row_number="47" isdata="1">טפי מעלי ובתעניות כמה דכייף איניש דעתיה טפי מעלי:</row>
 </amud>
 </daf>
 </masechet>

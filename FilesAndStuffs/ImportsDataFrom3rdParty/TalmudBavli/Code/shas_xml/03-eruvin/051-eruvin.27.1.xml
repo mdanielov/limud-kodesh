@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:52.186549</dateCreated>
-   <lastModified>2019-12-21 21:41:52.187555</lastModified>
+   <dateCreated>2020-01-06 09:31:16.796491</dateCreated>
+   <lastModified>2020-01-06 09:31:16.796491</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="27">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContMishna/>מפני שיכול לחוץ ולילך ולאכולגמ' א"רמפני שיכול לחוץ ולילך ולאכול<EndMishna/><StartGemara/></row>
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContMishna/>מפני שיכול לחוץ ולילך ולאכול:גמ' א"רמפני שיכול לחוץ ולילך ולאכול:<EndMishna/><StartGemara/></row>
 		<row row_number="2" isdata="1">יוחנן אין למידין מן הכללות ואפילו במקום</row>
 		<row row_number="3" isdata="1">שנאמר בו חוץ מדקאמר אפי' במקום שנאמר</row>
 		<row row_number="4" isdata="1">בו חוץ מכלל דלאו הכא קאי היכא קאי התם</row>
@@ -40,8 +40,8 @@
 		<row row_number="26" isdata="1">אנן נמי תנינא בכל מערבין ומשתתפין חוץ</row>
 		<row row_number="27" isdata="1">מן המים והמלח ותו ליכא והא איכא</row>
 		<row row_number="28" isdata="1">כמיהין ופטריות אלא שמע מינה אין למידין</row>
-		<row row_number="29" isdata="1">מן הכללות ואפי' במקום שנאמר בו חוץ</row>
-		<row row_number="30" isdata="1">הכל ניקח בכסף מעשר כו' ר' אליעזר</row>
+		<row row_number="29" isdata="1">מן הכללות ואפי' במקום שנאמר בו חוץ:</row>
+		<row row_number="30" isdata="1">הכל ניקח בכסף מעשר כו': ר' אליעזר</row>
 		<row row_number="31" isdata="1">ור' יוסי בר חנינא חד מתני אעירוב וחד</row>
 		<row row_number="32" isdata="1">מתני אמעשר חד מתני אעירוב ל"ש אלא</row>
 		<row row_number="33" isdata="1">מים בפני עצמו ומלח בפני עצמו דאין</row>

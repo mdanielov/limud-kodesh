@@ -6,30 +6,30 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.581728</dateCreated>
-   <lastModified>2019-12-21 21:42:07.581728</lastModified>
+   <dateCreated>2020-01-06 09:32:43.445695</dateCreated>
+   <lastModified>2020-01-06 09:32:43.445695</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="108">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "שני דייני גזירות "/><ContGemara/>כיסופא מי לית ליה התם נמי אית ליה</row>
-		<row row_number="2" isdata="1">הנאה בההיא הנאה דמיכסיף מיניהמתני'</row>
+		<row row_number="2" isdata="1">הנאה בההיא הנאה דמיכסיף מיניה<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="3" isdata="1">אדמון אומר שבעה מי שמת והניח בנים</row>
 		<row row_number="4" isdata="1">ובנות בזמן שהנכסים מרובין הבנים יורשים</row>
 		<row row_number="5" isdata="1">והבנות נזונות ובנכסים מועטים הבנות יזונו</row>
 		<row row_number="6" isdata="1">והבנים יחזרו על הפתחים אדמון אומר</row>
 		<row row_number="7" isdata="1">בשביל שאני זכר הפסדתי אמר רבן גמליאל</row>
-		<row row_number="8" isdata="1">רואה אני את דברי אדמון<EndMishna/><StartGemara/>גמ' מאי קאמר</row>
+		<row row_number="8" isdata="1">רואה אני את דברי אדמון:<EndMishna/><StartGemara/>גמ' מאי קאמר</row>
 		<row row_number="9" isdata="1">אמר אביי ה"ק בשביל שאני זכר וראוי</row>
 		<row row_number="10" isdata="1">לעסוק בתורה הפסדתי אמר ליה רבא מאן</row>
 		<row row_number="11" isdata="1">דעסיק בתורה הוא דירית מאן דלא עסיק</row>
 		<row row_number="12" isdata="1">בתורה לא ירית אלא אמר רבא הכי קאמר</row>
 		<row row_number="13" isdata="1">בשביל שאני זכר וראוי לירש בנכסים מרובין</row>
-		<row row_number="14" isdata="1">הפסדתי בנכסים מועטיןמתני' הטוען</row>
+		<row row_number="14" isdata="1">הפסדתי בנכסים מועטין<EndGemara/><StartMishna/>מתני' הטוען</row>
 		<row row_number="15" isdata="1">את חבירו כדי שמן והודה בקנקנים אדמון</row>
 		<row row_number="16" isdata="1">אומר הואיל והודה במקצת הטענה ישבע</row>
 		<row row_number="17" isdata="1">וחכ"א אין הודאת מקצת ממין הטענה אמר</row>
-		<row row_number="18" isdata="1">רבן גמליאל רואה אני את דברי אדמון</row>
+		<row row_number="18" isdata="1">רבן גמליאל רואה אני את דברי אדמון:</row>
 		<row row_number="19" isdata="1"><EndMishna/><StartGemara/>גמ' שמע מינה לרבנן טענו חטין ושעורין</row>
 		<row row_number="20" isdata="1">והודה בשעורין פטור לימא תהוי תיובתא</row>
 		<row row_number="21" isdata="1">דרב נחמן אמר שמואל דא"ר נחמן אמר</row>
@@ -58,7 +58,7 @@
 		<row row_number="44" isdata="1">לשון קנקנים ומגו דקמשתבע אקנקנים</row>
 		<row row_number="45" isdata="1">משתבע נמי אשמן על ידי גלגול ורבנן</row>
 		<row row_number="46" isdata="1">סברי אין בלשון הזה לשון קנקנים מה שטענו לא הודה לו ומה</row>
-		<row row_number="47" isdata="1">שהודה לו לא טענומתני' הפוסק מעות לחתנו ופשט לו את הרגל</row>
+		<row row_number="47" isdata="1">שהודה לו לא טענו<EndGemara/><StartMishna/>מתני' הפוסק מעות לחתנו ופשט לו את הרגל</row>
 </amud>
 </daf>
 </masechet>

@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:02.157805</dateCreated>
-   <lastModified>2019-12-21 21:42:02.157805</lastModified>
+   <dateCreated>2020-01-06 09:32:16.544381</dateCreated>
+   <lastModified>2020-01-06 09:32:16.544381</lastModified>
  </meta>
  <masechet name="מועד קטן" serial="12">
 <daf value="7">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "משקין בית השלחין"/><ContGemara/>עד כמה עד פרסה רבי יהודה אומר משדה</row>
-		<row row_number="2" isdata="1">האילן כדרכו ומשדה הלבן שלא כדרכו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "משקין בית השלחין"/><ContGemara/>עד כמה עד פרסה: רבי יהודה אומר משדה</row>
+		<row row_number="2" isdata="1">האילן כדרכו ומשדה הלבן שלא כדרכו:</row>
 		<row row_number="3" isdata="1">תנו רבנן כיצד כדרכו חופר גומא ותולה</row>
 		<row row_number="4" isdata="1">בה מצודה כיצד שלא כדרכו נועץ שפוד</row>
 		<row row_number="5" isdata="1">ומכה בקורדום ומרדה האדמה מתחתיה</row>
@@ -21,8 +21,8 @@
 		<row row_number="7" isdata="1">משדה לבן שלא כדרכו לא אמרו אלא</row>
 		<row row_number="8" isdata="1">בשדה לבן הסמוכה לעיר אבל בשדה לבן</row>
 		<row row_number="9" isdata="1">הסמוכה לשדה האילן אפילו כדרכו שמא</row>
-		<row row_number="10" isdata="1">יצאו משדה הלבן ויחריבו את האילנות</row>
-		<row row_number="11" isdata="1">ומקרין את הפירצה במועד כיצד מקרין</row>
+		<row row_number="10" isdata="1">יצאו משדה הלבן ויחריבו את האילנות:</row>
+		<row row_number="11" isdata="1">ומקרין את הפירצה במועד: כיצד מקרין</row>
 		<row row_number="12" isdata="1">רב יוסף אמר בהוצא ודפנא במתניתא</row>
 		<row row_number="13" isdata="1">תנא צר בצרור ואינו טח בטיט אמר</row>
 		<row row_number="14" isdata="1">רב חסדא לא שנו אלא כותל הגינה אבל</row>
@@ -40,9 +40,9 @@
 		<row row_number="26" isdata="1">ובשביעית בונה כדרכו דהיכא אילימא</row>
 		<row row_number="27" isdata="1">דחצר צריכא למימר אלא לאו דגינה ואע"ג</row>
 		<row row_number="28" isdata="1">דמיחזי כמאן דעביד נטירותא לפירי שמע</row>
-		<row row_number="29" isdata="1">מינהמתני' ר' מאיר אומר רואין את</row>
+		<row row_number="29" isdata="1">מינה<EndGemara/><StartMishna/>מתני' ר' מאיר אומר רואין את</row>
 		<row row_number="30" isdata="1">הנגעים (בתחילה) להקל אבל לא להחמיר</row>
-		<row row_number="31" isdata="1">וחכמים אומרים לא להקל ולא להחמיר</row>
+		<row row_number="31" isdata="1">וחכמים אומרים לא להקל ולא להחמיר:</row>
 		<row row_number="32" isdata="1"><EndMishna/><StartGemara/>גמ' תניא רבי מאיר אומר רואין את</row>
 		<row row_number="33" isdata="1">הנגעים להקל אבל לא להחמיר רבי יוסי</row>
 		<row row_number="34" isdata="1">אומר לא להקל ולא להחמיר שאם אתה</row>

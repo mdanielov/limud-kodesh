@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:59.307751</dateCreated>
-   <lastModified>2019-12-21 21:41:59.307751</lastModified>
+   <dateCreated>2020-01-06 09:31:55.364059</dateCreated>
+   <lastModified>2020-01-06 09:31:55.364059</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="19">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContGemara/>טיט הנרוק יוכיח שמצטרף לארבעים סאה</row>
-		<row row_number="2" isdata="1">והטובל בו לא עלתה לו טבילהמתני'</row>
+		<row row_number="2" isdata="1">והטובל בו לא עלתה לו טבילה<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="3" isdata="1">העושה סוכתו כמין צריף או שסמכה לכותל</row>
 		<row row_number="4" isdata="1">ר' אליעזר פוסל מפני שאין לה גג וחכמים</row>
-		<row row_number="5" isdata="1">מכשירין<EndMishna/><StartGemara/>גמ' תנא מודה ר' אליעזר שאם</row>
+		<row row_number="5" isdata="1">מכשירין:<EndMishna/><StartGemara/>גמ' תנא מודה ר' אליעזר שאם</row>
 		<row row_number="6" isdata="1">הגביהה מן הקרקע טפח או שהפליגה מן</row>
 		<row row_number="7" isdata="1">הכותל טפח שהיא כשרה מאי טעמייהו</row>
 		<row row_number="8" isdata="1">דרבנן שיפועי אהלים כאהלים דמו אביי</row>
@@ -28,13 +28,13 @@
 		<row row_number="14" isdata="1">מתניתין יחידאה היא דתניא העושה סוכתו</row>
 		<row row_number="15" isdata="1">כמין צריף או שסמכה לכותל רבי נתן אומר</row>
 		<row row_number="16" isdata="1">רבי אליעזר פוסל מפני שאין לה גג וחכמים</row>
-		<row row_number="17" isdata="1">מכשיריןמתני' מחצלת קנים גדולה</row>
+		<row row_number="17" isdata="1">מכשירין<EndGemara/><StartMishna/>מתני' מחצלת קנים גדולה</row>
 		<row row_number="18" isdata="1">עשאה לשכיבה מקבלת טומאה ואין</row>
 		<row row_number="19" isdata="1">מסככין בה לסיכוך מסככין בה ואינה</row>
 		<row row_number="20" isdata="1">מקבלת טומאה רבי אליעזר אומר אחת</row>
 		<row row_number="21" isdata="1">קטנה ואחת גדולה עשאה לשכיבה מקבלת</row>
 		<row row_number="22" isdata="1">טומאה ואין מסככין בה לסיכוך מסככין בה</row>
-		<row row_number="23" isdata="1">ואינה מקבלת טומאה<EndMishna/><StartGemara/>גמ' הא גופה קשיא</row>
+		<row row_number="23" isdata="1">ואינה מקבלת טומאה:<EndMishna/><StartGemara/>גמ' הא גופה קשיא</row>
 		<row row_number="24" isdata="1">אמרת עשאה לשכיבה מקבלת טומאה ואין</row>
 		<row row_number="25" isdata="1">מסככין בה טעמא דעשאה לשכיבה הא</row>
 		<row row_number="26" isdata="1">סתמא לסיכוך והדר תני לסיכוך מסככין בה</row>

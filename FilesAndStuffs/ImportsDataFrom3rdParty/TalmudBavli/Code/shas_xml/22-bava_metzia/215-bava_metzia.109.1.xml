@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:20.293419</dateCreated>
-   <lastModified>2019-12-21 21:42:20.293419</lastModified>
+   <dateCreated>2020-01-06 09:33:42.068778</dateCreated>
+   <lastModified>2020-01-06 09:33:42.068778</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="109">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "המקבל"/><ContMishna/>מתני' המקבל שדה מחבירו לשנים<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">מועטות לא יזרענה פשתן ואין לו בקורות</row>
 		<row row_number="3" isdata="1">שקמה קיבלה הימנו לז' שנים שנה ראשונה</row>
-		<row row_number="4" isdata="1">יזרענה פשתן ויש לו בקורות שקמה<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="4" isdata="1">יזרענה פשתן ויש לו בקורות שקמה:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="5" isdata="1">אמר אביי בקורות שקמה אין לו בשבח</row>
 		<row row_number="6" isdata="1">שקמה יש לו ורבא אמר אפילו בשבח</row>
 		<row row_number="7" isdata="1">שקמה נמי אין לו מיתיבי המקבל שדה</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">רב ביבי בר אביי קביל ארעא ואהדר ליה משוניתא קדחו ביה זרדתא כי</row>
 		<row row_number="32" isdata="1">קא מיסתלק אמר להו הבו לי שבחאי אמר רב פפי משום דאתיתו ממולאי</row>
 		<row row_number="33" isdata="1">אמריתו מילי מולייתא אפילו רב פפא לא אמר אלא דאית ליה פסידא הכא</row>
-		<row row_number="34" isdata="1">מאי פסידא אית לך רב יוסף הוה ליה ההוא שתלא שכיב ושבק חמשה</row>
+		<row row_number="34" isdata="1">מאי פסידא אית לך: רב יוסף הוה ליה ההוא שתלא שכיב ושבק חמשה</row>
 		<row row_number="35" isdata="1">חתנוותא אמר עד האידנא חד השתא חמשה עד האידנא לא הוו סמכו</row>
 		<row row_number="36" isdata="1">אהדדי ולא מפסדו לי השתא חמשה סמכו אהדדי ומפסדו לי אמר להו</row>
 		<row row_number="37" isdata="1">אי שקליתו שבחייכו ומסתלקיתו מוטב ואי לא מסליקנא לכו בלא שבחא דאמר</row>

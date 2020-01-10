@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:37.428571</dateCreated>
-   <lastModified>2019-12-21 21:42:37.428571</lastModified>
+   <dateCreated>2020-01-06 09:35:00.539290</dateCreated>
+   <lastModified>2020-01-06 09:35:00.539290</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="96">
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">דכולה ירך ורבנן ההוא דפשיט איסוריה</row>
 		<row row_number="8" isdata="1">בכוליה ירך לאפוקי חיצון דלא ולעולם שעל</row>
 		<row row_number="9" isdata="1">הכף והאי כף מיבעי ליה למעוטי עוף דלית</row>
-		<row row_number="10" isdata="1">ליה כף תרי כף כתיבימתני' ירך</row>
+		<row row_number="10" isdata="1">ליה כף תרי כף כתיבי<EndGemara/><StartMishna/>מתני' ירך</row>
 		<row row_number="11" isdata="1">שנתבשל בה גיד הנשה אם יש בה בנותן</row>
 		<row row_number="12" isdata="1">טעם הרי זו אסורה כיצד משערין אותה</row>
 		<row row_number="13" isdata="1">כבשר בלפת גיד הנשה שנתבשל עם</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">כולן אסורין והרוטב בנותן טעם וכן חתיכה</row>
 		<row row_number="16" isdata="1">של נבלה וכן חתיכה של דג טמא שנתבשלה</row>
 		<row row_number="17" isdata="1">עם החתיכות בזמן שמכירן בנותן טעם ואם</row>
-		<row row_number="18" isdata="1">לאו כולן אסורות והרוטב בנותן טעם</row>
+		<row row_number="18" isdata="1">לאו כולן אסורות והרוטב בנותן טעם:</row>
 		<row row_number="19" isdata="1"><EndMishna/><StartGemara/>גמ' אמר שמואל לא שנו אלא שנתבשל</row>
 		<row row_number="20" isdata="1">בה אבל נצלה בה קולף ואוכל עד</row>
 		<row row_number="21" isdata="1">שמגיע לגיד איני והאמר רב הונא גדי</row>

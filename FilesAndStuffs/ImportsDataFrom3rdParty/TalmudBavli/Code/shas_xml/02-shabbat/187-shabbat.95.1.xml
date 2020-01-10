@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.801025</dateCreated>
-   <lastModified>2019-12-21 21:41:49.801025</lastModified>
+   <dateCreated>2020-01-06 09:31:07.861716</dateCreated>
+   <lastModified>2020-01-06 09:31:07.861716</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="95">
@@ -47,8 +47,8 @@
 		<row row_number="33" isdata="1">מהבלא א"ל לא סבר לה מר להא דתניא הרוצה לרבץ את ביתו בשבת מביא</row>
 		<row row_number="34" isdata="1">עריבה מלאה מים ורוחץ פניו בזוית זו ידיו בזוית זו רגליו בזוית זו ונמצא הבית</row>
 		<row row_number="35" isdata="1">מתרבץ מאליו א"ל לאו אדעתאי תנא אשה חכמה מרבצת ביתה בשבת</row>
-		<row row_number="36" isdata="1">והאידנא דסבירא לן כר' שמעון שרי אפי' לכתחלהמתני' התולש מעציץ</row>
-		<row row_number="37" isdata="1">נקוב חייב ושאינו נקוב פטור ור"ש פוטר בזה ובזה<EndMishna/><StartGemara/>גמ' רמי ליה אביי לרבא</row>
+		<row row_number="36" isdata="1">והאידנא דסבירא לן כר' שמעון שרי אפי' לכתחלה<EndGemara/><StartMishna/>מתני' התולש מעציץ</row>
+		<row row_number="37" isdata="1">נקוב חייב ושאינו נקוב פטור ור"ש פוטר בזה ובזה:<EndMishna/><StartGemara/>גמ' רמי ליה אביי לרבא</row>
 		<row row_number="38" isdata="1">ואמרי לה רבי חייא בר רב לרב תנן רבי שמעון פוטר בזה ובזה אלמא נקוב</row>
 		<row row_number="39" isdata="1">לר"ש כשאינו נקוב משוי ליה ורמינהו ר"ש אומר אין בין נקוב לשאינו נקוב</row>
 </amud>

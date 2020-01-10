@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.019329</dateCreated>
-   <lastModified>2019-12-21 21:41:54.019329</lastModified>
+   <dateCreated>2020-01-06 09:31:24.216902</dateCreated>
+   <lastModified>2020-01-06 09:31:24.216902</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="101">
@@ -16,7 +16,7 @@
 		<row row_number="2" isdata="1">טפחים דברי רבי מאיר אמרו לו מעשה בשוק</row>
 		<row row_number="3" isdata="1">של פטמים שהיה בירושלים שהיו נועלין</row>
 		<row row_number="4" isdata="1">ומניחין את המפתח בחלון שעל גבי הפתח</row>
-		<row row_number="5" isdata="1">רבי יוסי אומר שוק של צמרים היה תנו רבנן</row>
+		<row row_number="5" isdata="1">רבי יוסי אומר שוק של צמרים היה: תנו רבנן</row>
 		<row row_number="6" isdata="1">פתחי שערי גינה בזמן שיש להן בית שער</row>
 		<row row_number="7" isdata="1">מבפנים פותח ונועל מבפנים מבחוץ פותח</row>
 		<row row_number="8" isdata="1">ונועל מבחוץ מכאן ומכאן פותח ונועל כאן</row>
@@ -51,11 +51,11 @@
 		<row row_number="37" isdata="1">דימי א"ר יוחנן מקום שאין בו ארבעה על</row>
 		<row row_number="38" isdata="1">ארבעה מותר לבני רשות הרבים ולבני</row>
 		<row row_number="39" isdata="1">רשות היחיד לכתף עליו ובלבד שלא</row>
-		<row row_number="40" isdata="1">יחליפומתני' נגר שיש בראשו</row>
+		<row row_number="40" isdata="1">יחליפו<EndGemara/><StartMishna/>מתני' נגר שיש בראשו</row>
 		<row row_number="41" isdata="1">גלוסטרא רבי אליעזר אוסר ורבי יוסי מתיר</row>
 		<row row_number="42" isdata="1">אמר רבי אליעזר מעשה בכנסת שבטבריא שהיו נוהגין בו היתר עד</row>
 		<row row_number="43" isdata="1">שבא רבן גמליאל והזקנים ואסרו להן ר' יוסי אומר איסור נהגו בו ובא</row>
-		<row row_number="44" isdata="1">רבן גמליאל והזקנים והתירו להן<EndMishna/><StartGemara/>גמ' בניטל באגדו כ"ע לא פליגי כי פליגי</row>
+		<row row_number="44" isdata="1">רבן גמליאל והזקנים והתירו להן:<EndMishna/><StartGemara/>גמ' בניטל באגדו כ"ע לא פליגי כי פליגי</row>
 </amud>
 </daf>
 </masechet>

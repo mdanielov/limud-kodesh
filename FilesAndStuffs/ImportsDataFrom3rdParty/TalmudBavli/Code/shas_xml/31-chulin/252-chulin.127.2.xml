@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.159575</dateCreated>
-   <lastModified>2019-12-21 21:42:38.159575</lastModified>
+   <dateCreated>2020-01-06 09:35:03.403559</dateCreated>
+   <lastModified>2020-01-06 09:35:03.403559</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="127">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>נשחטה הבהמה הוכשרו בדמיה דברי רבי</row>
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContMishna/>נשחטה הבהמה הוכשרו בדמיה דברי רבי</row>
 		<row row_number="2" isdata="1">מאיר רבי שמעון אומר לא הוכשרו מתה</row>
 		<row row_number="3" isdata="1">הבהמה הבשר צריך הכשר האבר מטמא</row>
 		<row row_number="4" isdata="1">משום אבר מן החי ואינו מטמא משום אבר</row>
-		<row row_number="5" isdata="1">נבלה דברי ר' מאיר ור' שמעון מטהר<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="5" isdata="1">נבלה דברי ר' מאיר ור' שמעון מטהר:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="6" isdata="1">טומאת אוכלין אין טומאת נבלה לא היכי</row>
 		<row row_number="7" isdata="1">דמי אי דמעלין ארוכה אפילו טומאת אוכלין</row>
 		<row row_number="8" isdata="1">נמי לא ליטמו ואי דאין מעלין ארוכה טומאת</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">פירות הרי הן כתלושין יבשו הרי הן כמחוברין</row>
 		<row row_number="29" isdata="1">מאי לאו מה תלושין לכל דבריהן אף מחוברין</row>
 		<row row_number="30" isdata="1">לכל דבריהן מידי איריא הא כדאיתא והא</row>
-		<row row_number="31" isdata="1">כדאיתא נשחטה הבהמה [וכו'] במאי קא</row>
+		<row row_number="31" isdata="1">כדאיתא: נשחטה הבהמה [וכו']: במאי קא</row>
 		<row row_number="32" isdata="1">מיפלגי אמר רבה בבהמה נעשית יד לאבר</row>
 		<row row_number="33" isdata="1">קמיפלגי מר סבר אין בהמה נעשית יד לאבר</row>
 		<row row_number="34" isdata="1">ומר סבר בהמה נעשית יד לאבר אביי אמר</row>

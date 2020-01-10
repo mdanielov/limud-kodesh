@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:37.003571</dateCreated>
-   <lastModified>2019-12-21 21:42:37.003571</lastModified>
+   <dateCreated>2020-01-06 09:34:58.567439</dateCreated>
+   <lastModified>2020-01-06 09:34:58.567439</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="77">
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">יהודה אמר רב דבר זה שאלתי לחכמים</row>
 		<row row_number="24" isdata="1">ולרופאים ואמרו מסרטו בעצם ומעלה ארוכה</row>
 		<row row_number="25" isdata="1">אבל פרזלא מזרף זריף אמר רב פפא והוא</row>
-		<row row_number="26" isdata="1">דקנה גרמא דידיהמתני' השוחט את</row>
+		<row row_number="26" isdata="1">דקנה גרמא דידיה<EndGemara/><StartMishna/>מתני' השוחט את</row>
 		<row row_number="27" isdata="1">הבהמה ומצא בה שליא נפש היפה תאכלנה</row>
 		<row row_number="28" isdata="1">ואינה מטמאה לא טומאת אוכלין ולא טומאת</row>
 		<row row_number="29" isdata="1">נבלות חישב עליה מטמאה טומאת אוכלין</row>
@@ -46,11 +46,11 @@
 		<row row_number="32" isdata="1">וסימן ולד בבהמה המבכרת שהפילה שליא</row>
 		<row row_number="33" isdata="1">ישליכנה לכלבים ובמוקדשין תקבר ואין</row>
 		<row row_number="34" isdata="1">קוברין אותה בפרשת דרכים ואין תולין אותה</row>
-		<row row_number="35" isdata="1">באילן מפני דרכי האמורי<EndMishna/><StartGemara/>גמ' מנא הני מילי</row>
+		<row row_number="35" isdata="1">באילן מפני דרכי האמורי:<EndMishna/><StartGemara/>גמ' מנא הני מילי</row>
 		<row row_number="36" isdata="1">דת"ר כל בהמה תאכלו לרבות את השליא</row>
 		<row row_number="37" isdata="1">יכול אפילו יצתה מקצתה ת"ל אותה אותה ולא</row>
 		<row row_number="38" isdata="1">שליתה מכדי אין שליא בלא ולד למה לי</row>
-		<row row_number="39" isdata="1">קרא קרא אסמכתא בעלמא ואינה מטמאה</row>
+		<row row_number="39" isdata="1">קרא קרא אסמכתא בעלמא: ואינה מטמאה:</row>
 		<row row_number="40" isdata="1">בעי ר' יצחק בר נפחא עור חמור ששלקו מהו למאי אי לטומאת אוכלין תנינא</row>
 </amud>
 </daf>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.317100</dateCreated>
-   <lastModified>2019-12-21 21:42:13.317100</lastModified>
+   <dateCreated>2020-01-06 09:33:10.892659</dateCreated>
+   <lastModified>2020-01-06 09:33:10.892659</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="72">
@@ -30,14 +30,14 @@
 		<row row_number="16" isdata="1">שישמעו קולו שיאמר לסופר כתוב ולעדים</row>
 		<row row_number="17" isdata="1">חתומו ישמעו לאפוקי ממ"ד מודה רבי יוסי</row>
 		<row row_number="18" isdata="1">באומר אמרו קולו לאפוקי מדרב כהנא אמר</row>
-		<row row_number="19" isdata="1">רבמתני' זה גיטיך אם מתי זה גיטיך</row>
+		<row row_number="19" isdata="1">רב<EndGemara/><StartMishna/>מתני' זה גיטיך אם מתי זה גיטיך</row>
 		<row row_number="20" isdata="1">מחולי זה זה גיטיך לאחר מיתה לא אמר</row>
 		<row row_number="21" isdata="1">כלום מהיום אם מתי מעכשיו אם מתי</row>
 		<row row_number="22" isdata="1">ה"ז גט מהיום ולאחר מיתה גט ואינו</row>
 		<row row_number="23" isdata="1">גט ואם מת חולצת ולא מתייבמת זה גיטיך</row>
 		<row row_number="24" isdata="1">מהיום אם מתי מחולי זה ועמד והלך בשוק</row>
 		<row row_number="25" isdata="1">וחלה ומת אומדין אותו אם מחמת חולי</row>
-		<row row_number="26" isdata="1">הראשון מת ה"ז גט ואם לאו אינו גט</row>
+		<row row_number="26" isdata="1">הראשון מת ה"ז גט ואם לאו אינו גט:</row>
 		<row row_number="27" isdata="1"><EndMishna/><StartGemara/>גמ' אלמא אם מתי כלאחר מיתה דמי והדר</row>
 		<row row_number="28" isdata="1">תני מהיום אם מתי מעכשיו אם מתי אלמא</row>
 		<row row_number="29" isdata="1">אם מתי לאו כלאחר מיתה דמי אמר אביי</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">כמעכשיו ומשמע כלאחר מיתה אמר לה</row>
 		<row row_number="32" isdata="1">מהיום כמאן דאמר לה מעכשיו דמי לא</row>
 		<row row_number="33" isdata="1">אמר לה מהיום כמאן דאמר לה לאחר מיתה</row>
-		<row row_number="34" isdata="1">דמי זה גיטך אם מתי לא אמר כלום אמר</row>
+		<row row_number="34" isdata="1">דמי: זה גיטך אם מתי לא אמר כלום: אמר</row>
 		<row row_number="35" isdata="1">רב הונא וחולצת והא לא אמר כלום קתני</row>
 		<row row_number="36" isdata="1">לא אמר כלום דאסירא לעלמא וליבם נמי</row>
 		<row row_number="37" isdata="1">אסירא והא מדסיפא חולצת מכלל דרישא</row>

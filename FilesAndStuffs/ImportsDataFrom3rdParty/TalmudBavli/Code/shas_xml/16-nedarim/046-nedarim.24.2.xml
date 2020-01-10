@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.137731</dateCreated>
-   <lastModified>2019-12-21 21:42:08.137731</lastModified>
+   <dateCreated>2020-01-06 09:32:45.764351</dateCreated>
+   <lastModified>2020-01-06 09:32:45.764351</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="24">
@@ -16,9 +16,9 @@
 		<row row_number="2" isdata="1">עליה שמע מינה מאי הוי עלה ת"ש דאמר</row>
 		<row row_number="3" isdata="1">רב הונא הלכה כרבי אליעזר בן יעקב וכן</row>
 		<row row_number="4" isdata="1">אמר רב אדא בר אהבה הלכה כרבי</row>
-		<row row_number="5" isdata="1">אליעזר בן יעקבמתני' נדרי הבאי אמר</row>
+		<row row_number="5" isdata="1">אליעזר בן יעקב<EndGemara/><StartMishna/>מתני' נדרי הבאי אמר</row>
 		<row row_number="6" isdata="1">קונם אם לא ראיתי בדרך הזה כעולי</row>
-		<row row_number="7" isdata="1">מצרים אם לא ראיתי נחש כקורת בית הבד</row>
+		<row row_number="7" isdata="1">מצרים אם לא ראיתי נחש כקורת בית הבד:</row>
 		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' תנא נדרי הבאי מותרין שבועות</row>
 		<row row_number="9" isdata="1">הבאי אסורין היכי דמי שבועות הבאי</row>
 		<row row_number="10" isdata="1">אילימא דאמר שבועה אם לא ראיתי בדרך</row>

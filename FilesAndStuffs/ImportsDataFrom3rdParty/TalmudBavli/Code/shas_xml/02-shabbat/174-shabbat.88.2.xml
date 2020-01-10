@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.655972</dateCreated>
-   <lastModified>2019-12-21 21:41:49.656975</lastModified>
+   <dateCreated>2020-01-06 09:31:07.126871</dateCreated>
+   <lastModified>2020-01-06 09:31:07.126871</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="88">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>דסגינן בשלימותא כתיב בן תומת ישרים</row>
 		<row row_number="2" isdata="1">תנחם הנך אינשי דסגן בעלילותא כתיב בהו</row>
-		<row row_number="3" isdata="1">וסלף בוגדים ישדם א"ר שמואל בר</row>
+		<row row_number="3" isdata="1">וסלף בוגדים ישדם: א"ר שמואל בר</row>
 		<row row_number="4" isdata="1">נחמני א"ר יונתן מאי דכתיב לבבתני</row>
 		<row row_number="5" isdata="1">אחותי כלה לבבתני באחת מעיניך בתחילה</row>
 		<row row_number="6" isdata="1">באחת מעיניך לכשתעשי בשתי עיניך</row>
@@ -38,22 +38,22 @@
 		<row row_number="24" isdata="1">ד"ת יש בם להמית ולהחיות היינו דאמר רבא</row>
 		<row row_number="25" isdata="1">למיימינין בה סמא דחיי למשמאילים בה סמא</row>
 		<row row_number="26" isdata="1">דמותא ד"א נגידים כל דיבור ודיבור שיצא מפי הקב"ה קושרים לו שני</row>
-		<row row_number="27" isdata="1">כתרים א"ר יהושע בן לוי מ"ד צרור המור דודי לי בין שדי ילין אמרה</row>
+		<row row_number="27" isdata="1">כתרים: א"ר יהושע בן לוי מ"ד צרור המור דודי לי בין שדי ילין אמרה</row>
 		<row row_number="28" isdata="1">כנסת ישראל לפני הקב"ה רבש"ע אף על פי שמיצר ומימר לי דודי בין</row>
 		<row row_number="29" isdata="1">שדי ילין אשכול הכופר דודי לי בכרמי עין גדי מי שהכל שלו מכפר</row>
 		<row row_number="30" isdata="1">לי על עון גדי שכרמתי לי מאי משמע דהאי כרמי לישנא דמכניש הוא</row>
 		<row row_number="31" isdata="1">אמר מר זוטרא בריה דרב נחמן כדתנן כסא של כובס שכורמים עליו את</row>
-		<row row_number="32" isdata="1">הכלים וא"ר יהושע בן לוי מאי דכתיב לחייו כערוגת הבושם כל דיבור</row>
+		<row row_number="32" isdata="1">הכלים: וא"ר יהושע בן לוי מאי דכתיב לחייו כערוגת הבושם כל דיבור</row>
 		<row row_number="33" isdata="1">ודיבור שיצא מפי הקב"ה נתמלא כל העולם כולו בשמים וכיון שמדיבור ראשון</row>
 		<row row_number="34" isdata="1">נתמלא דיבור שני להיכן הלך הוציא הקב"ה הרוח מאוצרותיו והיה מעביר</row>
 		<row row_number="35" isdata="1">ראשון ראשון שנאמר שפתותיו שושנים נוטפות מור עובר אל תקרי שושנים</row>
-		<row row_number="36" isdata="1">אלא ששונים ואריב"ל כל דיבור ודיבור שיצא מפי הקב"ה יצתה נשמתן של</row>
+		<row row_number="36" isdata="1">אלא ששונים: ואריב"ל כל דיבור ודיבור שיצא מפי הקב"ה יצתה נשמתן של</row>
 		<row row_number="37" isdata="1">ישראל שנאמר נפשי יצאה בדברו ומאחר שמדיבור ראשון יצתה נשמתן</row>
 		<row row_number="38" isdata="1">דיבור שני היאך קיבלו הוריד טל שעתיד להחיות בו מתים והחיה אותם</row>
 		<row row_number="39" isdata="1">שנאמר גשם נדבות תניף אלהים נחלתך ונלאה אתה כוננתה ואמר ר'</row>
 		<row row_number="40" isdata="1">יהושע בן לוי כל דיבור ודיבור שיצא מפי הקב"ה חזרו ישראל לאחוריהן</row>
 		<row row_number="41" isdata="1">י"ב מיל והיו מלאכי השרת מדדין אותן שנאמר מלאכי צבאות ידודון ידודון</row>
-		<row row_number="42" isdata="1">אל תיקרי ידודון אלא ידדון ואריב"ל בשעה שעלה משה למרום אמרו</row>
+		<row row_number="42" isdata="1">אל תיקרי ידודון אלא ידדון: ואריב"ל בשעה שעלה משה למרום אמרו</row>
 		<row row_number="43" isdata="1">מלאכי השרת לפני הקב"ה רבש"ע מה לילוד אשה בינינו אמר להן לקבל</row>
 		<row row_number="44" isdata="1">תורה בא אמרו לפניו חמודה גנוזה שגנוזה לך תשע מאות ושבעים</row>
 		<row row_number="45" isdata="1">וארבעה דורות קודם שנברא העולם אתה מבקש ליתנה לבשר ודם מה אנוש</row>

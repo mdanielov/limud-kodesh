@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.132712</dateCreated>
-   <lastModified>2019-12-21 21:42:05.132712</lastModified>
+   <dateCreated>2020-01-06 09:32:31.853795</dateCreated>
+   <lastModified>2020-01-06 09:32:31.853795</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="109">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "בית שמאי"/><ContGemara/>ורבי אלעזר אוסר וכן המגרש את היתומה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "בית שמאי"/><ContMishna/>ורבי אלעזר אוסר וכן המגרש את היתומה</row>
 		<row row_number="2" isdata="1">והחזירה מותרת ליבם ורבי אלעזר אוסר</row>
 		<row row_number="3" isdata="1">קטנה שהשיאה אביה ונתגרשה כיתומה</row>
-		<row row_number="4" isdata="1">בחיי האב והחזירה דברי הכל אסורה ליבם</row>
+		<row row_number="4" isdata="1">בחיי האב והחזירה דברי הכל אסורה ליבם:</row>
 		<row row_number="5" isdata="1"><EndMishna/><StartGemara/>גמ' אמר עיפה מאי טעמא דרבי אלעזר</row>
 		<row row_number="6" isdata="1">הואיל ועמדה עליו שעה אחת באיסורא</row>
 		<row row_number="7" isdata="1">אמרו ליה רבנן לעיפה אי הכי חליצה נמי</row>
@@ -42,16 +42,16 @@
 		<row row_number="28" isdata="1">גזירה ואנן ניקום וניגזור גזירה לגזירה והא תניא משום רבי אלעזר אמרו</row>
 		<row row_number="29" isdata="1">היא וצרתה חולצת היא וצרתה סלקא דעתך אלא לאו או היא או צרתה</row>
 		<row row_number="30" isdata="1">חולצת לאו תרוצי קמתרצת תריץ הכי היא חולצת צרתה או חולצת או</row>
-		<row row_number="31" isdata="1">מתייבמתמתני' שני אחין נשואין לשתי אחיות קטנות ומת בעלה של</row>
+		<row row_number="31" isdata="1">מתייבמת<EndGemara/><StartMishna/>מתני' שני אחין נשואין לשתי אחיות קטנות ומת בעלה של</row>
 		<row row_number="32" isdata="1">אחת מהן הלזו תצא משום אחות אשה וכן שתי חרשות גדולה וקטנה מת</row>
 		<row row_number="33" isdata="1">בעלה של קטנה תצא הקטנה משום אחות אשה מת בעלה של גדולה רבי</row>
 		<row row_number="34" isdata="1">אליעזר אומר מלמדין את הקטנה שתמאן בו רבן גמליאל אומר אם מיאנה</row>
 		<row row_number="35" isdata="1">מיאנה ואם לאו תמתין עד שתגדיל ותצא הלזו משום אחות אשה רבי</row>
 		<row row_number="36" isdata="1">יהושע אומר אי לו על אשתו אי לו על אשת אחיו מוציא את אשתו בגט</row>
-		<row row_number="37" isdata="1">ואשת אחיו בחליצה<EndMishna/><StartGemara/>גמ' ומי שרי והתני בר קפרא לעולם ידבק אדם</row>
+		<row row_number="37" isdata="1">ואשת אחיו בחליצה:<EndMishna/><StartGemara/>גמ' ומי שרי והתני בר קפרא לעולם ידבק אדם</row>
 		<row row_number="38" isdata="1">בשלשה דברים ויתרחק משלשה דברים ידבק בשלשה דברים בחליצה</row>
 		<row row_number="39" isdata="1">ובהבאת שלום ובהפרת נדרים ויתרחק משלשה דברים מן המיאון ומן</row>
-		<row row_number="40" isdata="1">הפקדונות ומן הערבונות מיאון דמצוה שאני גופא תני בר קפרא לעולם ידבק</row>
+		<row row_number="40" isdata="1">הפקדונות ומן הערבונות מיאון דמצוה שאני: גופא תני בר קפרא לעולם ידבק</row>
 		<row row_number="41" isdata="1">אדם בשלשה דברים בחליצה כאבא שאול דתניא אבא שאול אומר הכונס</row>
 		<row row_number="42" isdata="1">את יבמתו לשם נוי לשם אישות לשם דבר אחר כאילו פוגע בערוה וקרוב</row>
 		<row row_number="43" isdata="1">בעיני להיות הולד ממזר בהבאת שלום דכתיב בקש שלום ורדפהו</row>

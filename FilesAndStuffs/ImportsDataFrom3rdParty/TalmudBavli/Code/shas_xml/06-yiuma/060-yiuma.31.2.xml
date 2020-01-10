@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:57.889057</dateCreated>
-   <lastModified>2019-12-21 21:41:57.889057</lastModified>
+   <dateCreated>2020-01-06 09:31:42.261182</dateCreated>
+   <lastModified>2020-01-06 09:31:42.261182</lastModified>
  </meta>
  <masechet name="יומא" serial="06">
 <daf value="31">
@@ -15,11 +15,11 @@
 		<row row_number="1" isdata="1"><ContChapter name = "אמר להם הממונה"/><ContGemara/>והא איכא אמה תקרה ואמה מעזיבה</row>
 		<row row_number="2" isdata="1">שערים דבית המקדש כיון דשישא נינהו</row>
 		<row row_number="3" isdata="1">במשהו עבדי להו והא איכא האיך משהו</row>
-		<row row_number="4" isdata="1">כיון דלא הואי אמתא לא חשיב לה פרסו</row>
-		<row row_number="5" isdata="1">סדין של בוץ וכו' מאי שנא של בוץ</row>
+		<row row_number="4" isdata="1">כיון דלא הואי אמתא לא חשיב לה: פרסו</row>
+		<row row_number="5" isdata="1">סדין של בוץ וכו': מאי שנא של בוץ</row>
 		<row row_number="6" isdata="1">כדאמר רב כהנא כדי שיכיר שעבודת</row>
 		<row row_number="7" isdata="1">היום בבגדי בוץ הכא נמי שיכיר שעבודת</row>
-		<row row_number="8" isdata="1">היום בבגדי בוץמתני' פשט ירד וטבל</row>
+		<row row_number="8" isdata="1">היום בבגדי בוץ<EndGemara/><StartMishna/>מתני' פשט ירד וטבל</row>
 		<row row_number="9" isdata="1">עלה ונסתפג הביאו לו בגדי זהב ולבש וקידש</row>
 		<row row_number="10" isdata="1">ידיו ורגליו הביאו לו את התמיד קרצו</row>
 		<row row_number="11" isdata="1">ומירק אחר שחיטה על ידו קבל את הדם</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">שחר היתה קריבה בין דם לאברים של בין</row>
 		<row row_number="16" isdata="1">הערבים בין איברים לנסכים אם היה כ"ג</row>
 		<row row_number="17" isdata="1">זקן או איסטניס מחמין לו חמין ומטילין</row>
-		<row row_number="18" isdata="1">לתוך הצונן כדי שתפיג צינתן<EndMishna/><StartGemara/>גמ' אמרוה</row>
+		<row row_number="18" isdata="1">לתוך הצונן כדי שתפיג צינתן:<EndMishna/><StartGemara/>גמ' אמרוה</row>
 		<row row_number="19" isdata="1">רבנן קמיה דרב פפא הא דלא כר"מ דאי</row>
 		<row row_number="20" isdata="1">ר"מ כיון דאמר תרי קידושי אלבישה עביד</row>
 		<row row_number="21" isdata="1">להו הכא נמי ליעביד תרי קידושי אלבישה</row>

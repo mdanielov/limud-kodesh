@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:15.129443</dateCreated>
-   <lastModified>2019-12-21 21:42:15.129443</lastModified>
+   <dateCreated>2020-01-06 09:33:19.745227</dateCreated>
+   <lastModified>2020-01-06 09:33:19.745227</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="76">
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">כריתות ניתני חדא מעשה שהיה כך היה</row>
 		<row row_number="19" isdata="1">ורבא אמר עבד ושפחה נתערבו בהן</row>
 		<row row_number="20" isdata="1">איסורא משום מאי משום שפחה ניתני חדא</row>
-		<row row_number="21" isdata="1">מעשה שהיה כך היהמתני' הנושא</row>
+		<row row_number="21" isdata="1">מעשה שהיה כך היה<EndGemara/><StartMishna/>מתני' הנושא</row>
 		<row row_number="22" isdata="1">אשה כהנת צריך לבדוק אחריה ארבע אמהות</row>
 		<row row_number="23" isdata="1">שהן שמנה אמה ואם אמה ואם אבי אמה</row>
 		<row row_number="24" isdata="1">ואמה ואם אביה ואמה ואם אבי אביה ואמה</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">אחריהן רבי יוסי אומר אף מי שהיה חתום</row>
 		<row row_number="31" isdata="1">עד בערכי הישנה של ציפורי רבי חנינא</row>
 		<row row_number="32" isdata="1">בן אנטיגנוס אומר אף מי שהיה מוכתב</row>
-		<row row_number="33" isdata="1">באסטרטיא של מלך<EndMishna/><StartGemara/>גמ' מאי שנא בנשי</row>
+		<row row_number="33" isdata="1">באסטרטיא של מלך:<EndMishna/><StartGemara/>גמ' מאי שנא בנשי</row>
 		<row row_number="34" isdata="1">בדקינן ומאי שנא בגברי לא בדקו נשי דכי</row>
 		<row row_number="35" isdata="1">מינצו בהדי הדדי בעריות הוא דמינצו ואם</row>
 		<row row_number="36" isdata="1">איתא דאיכא מילתא לא אית ליה קלא גברי</row>

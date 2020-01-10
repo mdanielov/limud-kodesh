@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:50.264303</dateCreated>
-   <lastModified>2019-12-21 21:41:50.264303</lastModified>
+   <dateCreated>2020-01-06 09:31:09.528174</dateCreated>
+   <lastModified>2020-01-06 09:31:09.528174</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="111">
@@ -22,14 +22,14 @@
 		<row row_number="8" isdata="1">אלא באשה ולר' יוחנן בן ברוקא דאמר</row>
 		<row row_number="9" isdata="1">על שניהם הוא אומר ויברך אותם אלהים</row>
 		<row row_number="10" isdata="1">ויאמר להם פרו ורבו מאי איכא למימר</row>
-		<row row_number="11" isdata="1">בזקינה אי נמי בעקרהמתני' החושש</row>
+		<row row_number="11" isdata="1">בזקינה אי נמי בעקרה<EndGemara/><StartMishna/>מתני' החושש</row>
 		<row row_number="12" isdata="1">בשיניו לא יגמע בהן את החומץ אבל</row>
 		<row row_number="13" isdata="1">מטבל הוא כדרכו ואם נתרפא נתרפא</row>
 		<row row_number="14" isdata="1">החושש במתניו לא יסוך יין וחומץ אבל</row>
 		<row row_number="15" isdata="1">סך הוא את השמן ולא שמן וורד בני</row>
 		<row row_number="16" isdata="1">מלכים סכין שמן ורד על מכותיהן שכן</row>
 		<row row_number="17" isdata="1">דרכן לסוך בחול ר"ש אומר כל ישראל</row>
-		<row row_number="18" isdata="1">בני מלכים הם<EndMishna/><StartGemara/>גמ' רמי ליה רב אחא</row>
+		<row row_number="18" isdata="1">בני מלכים הם:<EndMishna/><StartGemara/>גמ' רמי ליה רב אחא</row>
 		<row row_number="19" isdata="1">אריכא דהוא רב אחא בר פפא לר' אבהו</row>
 		<row row_number="20" isdata="1">תנן החושש בשיניו לא יגמע בהן את</row>
 		<row row_number="21" isdata="1">החומץ למימרא דחומץ מעלי לשינים</row>
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">קשיא הא בקיוהא דפרי הא בחלא ואיבעית</row>
 		<row row_number="24" isdata="1">אימא הא והא בחלא הא דאיכא מכה הא</row>
 		<row row_number="25" isdata="1">דליכא מכה איכא מכה מסי ליכא מכה</row>
-		<row row_number="26" isdata="1">מרפי לא יגמע בהן את החומץ והתניא</row>
+		<row row_number="26" isdata="1">מרפי: לא יגמע בהן את החומץ: והתניא</row>
 		<row row_number="27" isdata="1">לא יגמע ופולט אבל מגמע ובולע אמר</row>
 		<row row_number="28" isdata="1">אביי כי תנן נמי מתני' מגמע ופולט תנן</row>
 		<row row_number="29" isdata="1">רבא אמר אפי' תימא מגמע ובולע כאן</row>
@@ -49,8 +49,8 @@
 		<row row_number="35" isdata="1">נמי שרי הדר ביה רבא מהך ממאי דמהך</row>
 		<row row_number="36" isdata="1">הדר ביה דילמא מההיא הדר ביה לא</row>
 		<row row_number="37" isdata="1">ס"ד דתניא כל חייבי טבילות טובלין</row>
-		<row row_number="38" isdata="1">כדרכן בין בט' באב בין ביוה"כ החושש</row>
-		<row row_number="39" isdata="1">במתניו כו' אמר ר' אבא בר זבדא אמר</row>
+		<row row_number="38" isdata="1">כדרכן בין בט' באב בין ביוה"כ: החושש</row>
+		<row row_number="39" isdata="1">במתניו כו': אמר ר' אבא בר זבדא אמר</row>
 		<row row_number="40" isdata="1">רב הלכה כר' שמעון למימרא דרב כר'</row>
 		<row row_number="41" isdata="1">שמעון סבירא ליה והאמר רב שימי בר</row>
 		<row row_number="42" isdata="1">חייא משמיה דרב האי מסוכרייא דנזייתא</row>

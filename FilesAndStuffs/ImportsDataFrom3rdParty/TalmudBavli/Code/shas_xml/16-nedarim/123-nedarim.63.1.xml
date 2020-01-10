@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.785652</dateCreated>
-   <lastModified>2019-12-21 21:42:08.785652</lastModified>
+   <dateCreated>2020-01-06 09:32:48.981619</dateCreated>
+   <lastModified>2020-01-06 09:32:48.981619</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="63">
@@ -25,11 +25,11 @@
 		<row row_number="11" isdata="1">הא דתניא רשב"ג אומר גשמים שירדו</row>
 		<row row_number="12" isdata="1">שבעה ימים זה אחר זה אתה מונה בהן</row>
 		<row row_number="13" isdata="1">רביעה ראשונה ושניה כמאן כרבי יוסי</row>
-		<row row_number="14" isdata="1">ההוא דאמר עד הגשמיםמתני' קונם יין</row>
+		<row row_number="14" isdata="1">ההוא דאמר עד הגשמים<EndGemara/><StartMishna/>מתני' קונם יין</row>
 		<row row_number="15" isdata="1">שאיני טועם לשנה נתעברה השנה אסור</row>
 		<row row_number="16" isdata="1">בה ובעיבורה עד ראש אדר עד ראש</row>
 		<row row_number="17" isdata="1">אדר הראשון עד סוף אדר עד סוף אדר</row>
-		<row row_number="18" isdata="1">הראשון<EndMishna/><StartGemara/>גמ' אלמא סתמא דאדר דקאמר</row>
+		<row row_number="18" isdata="1">הראשון:<EndMishna/><StartGemara/>גמ' אלמא סתמא דאדר דקאמר</row>
 		<row row_number="19" isdata="1">ראשון הוא לימא מתני' רבי יהודה היא</row>
 		<row row_number="20" isdata="1">דתניא אדר הראשון כותב אדר הראשון</row>
 		<row row_number="21" isdata="1">אדר שני כותב אדר סתם דברי ר"מ ר' יהודה</row>

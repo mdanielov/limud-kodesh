@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:53.438285</dateCreated>
-   <lastModified>2019-12-21 21:41:53.438285</lastModified>
+   <dateCreated>2020-01-06 09:31:21.640228</dateCreated>
+   <lastModified>2020-01-06 09:31:21.640228</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="76">
@@ -21,8 +21,8 @@
 		<row row_number="7" isdata="1">באלכסונא בשיבסר נכי חומשא סגיא רבי</row>
 		<row row_number="8" isdata="1">יוחנן אמר כי דייני דקיסרי ואמרי לה כרבנן</row>
 		<row row_number="9" isdata="1">דקיסרי דאמרי עיגולא מגו ריבועא ריבעא</row>
-		<row row_number="10" isdata="1">ריבועא מגו עיגולא פלגא פחות מד' על</row>
-		<row row_number="11" isdata="1">ד' וכו' אמר רב נחמן לא שנו אלא חלון</row>
+		<row row_number="10" isdata="1">ריבועא מגו עיגולא פלגא: פחות מד' על</row>
+		<row row_number="11" isdata="1">ד' וכו': אמר רב נחמן לא שנו אלא חלון</row>
 		<row row_number="12" isdata="1">שבין ב' חצירות אבל חלון שבין ב' בתים</row>
 		<row row_number="13" isdata="1">אפילו למעלה מעשרה נמי אם רצו לערב</row>
 		<row row_number="14" isdata="1">מערבין אחד מ"ט ביתא כמאן דמלי דמי</row>
@@ -41,14 +41,14 @@
 		<row row_number="27" isdata="1">דאינו צריך הא סולם עראי צריך איתמר</row>
 		<row row_number="28" isdata="1">אמר רב יוסף בר מניומי אמר רב נחמן</row>
 		<row row_number="29" isdata="1">אחד סולם קבוע ואחד סולם עראי אינו</row>
-		<row row_number="30" isdata="1">צריךמתני' כותל שבין ב' חצירות</row>
+		<row row_number="30" isdata="1">צריך<EndGemara/><StartMishna/>מתני' כותל שבין ב' חצירות</row>
 		<row row_number="31" isdata="1">גבוה עשרה ורוחב ארבעה מערבין שנים ואין</row>
 		<row row_number="32" isdata="1">מערבין אחד היו בראשו פירות אלו עולין</row>
 		<row row_number="33" isdata="1">מכאן ואוכלין ואלו עולין מכאן ואוכלין</row>
 		<row row_number="34" isdata="1">ובלבד שלא יורידו למטן נפרצה הכותל</row>
 		<row row_number="35" isdata="1">עד עשר אמות מערבין שנים ואם רצו</row>
 		<row row_number="36" isdata="1">מערבין אחד מפני שהוא כפתח יותר מכאן</row>
-		<row row_number="37" isdata="1">מערבין אחד ואין מערבין שנים<EndMishna/><StartGemara/>גמ' אין</row>
+		<row row_number="37" isdata="1">מערבין אחד ואין מערבין שנים:<EndMishna/><StartGemara/>גמ' אין</row>
 		<row row_number="38" isdata="1">בו ארבעה מאי אמר רב אויר שתי רשויות</row>
 		<row row_number="39" isdata="1">שולטת בו לא יזיז בו אפילו מלא נימא</row>
 </amud>

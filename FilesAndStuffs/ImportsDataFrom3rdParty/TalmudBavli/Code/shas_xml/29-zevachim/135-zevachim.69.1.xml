@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.740762</dateCreated>
-   <lastModified>2019-12-21 21:42:31.740762</lastModified>
+   <dateCreated>2020-01-06 09:34:36.299435</dateCreated>
+   <lastModified>2020-01-06 09:34:36.299435</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="69">
@@ -27,8 +27,8 @@
 		<row row_number="13" isdata="1">מנחה בבמה יש עופות בבמה לדברי האומר</row>
 		<row row_number="14" isdata="1">אין מנחה אין עופות מ"ט זבחים ולא מנחות</row>
 		<row row_number="15" isdata="1">זבחים ולא עופות אלא אימא אין קידוש</row>
-		<row row_number="16" isdata="1">בכלי שרת במנחה בבמה מלק בשמאל</row>
-		<row row_number="17" isdata="1">או בלילה כו' ת"ר יכול תהא מליקה שהיא</row>
+		<row row_number="16" isdata="1">בכלי שרת במנחה בבמה: מלק בשמאל</row>
+		<row row_number="17" isdata="1">או בלילה כו': ת"ר יכול תהא מליקה שהיא</row>
 		<row row_number="18" isdata="1">לפנים מטמאה בגדים בבית הבליעה תלמוד</row>
 		<row row_number="19" isdata="1">לומר נבלה הא נמי נבלה היא אלא ת"ל</row>
 		<row row_number="20" isdata="1">טריפה מה טריפה שאין מתרת את האיסור</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">בהיכשרו מדבר שבהיכשרו ולא והתניא</row>
 		<row row_number="44" isdata="1">מנין ליוצא שאם עלה לא ירד שהרי יוצא</row>
 		<row row_number="45" isdata="1">כשר בבמה תנא אזאת תורת העולה ריבה</row>
-		<row row_number="46" isdata="1">סמיך ליהמתני' מלק ונמצאת טריפה</row>
+		<row row_number="46" isdata="1">סמיך ליה<EndGemara/><StartMishna/>מתני' מלק ונמצאת טריפה</row>
 		<row row_number="47" isdata="1">ר' מאיר אומר אינו מטמא בבית הבליעה</row>
 </amud>
 </daf>

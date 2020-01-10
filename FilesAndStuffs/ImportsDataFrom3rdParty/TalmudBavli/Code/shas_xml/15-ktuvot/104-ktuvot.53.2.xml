@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.511729</dateCreated>
-   <lastModified>2019-12-21 21:42:06.511729</lastModified>
+   <dateCreated>2020-01-06 09:32:38.147143</dateCreated>
+   <lastModified>2020-01-06 09:32:38.148117</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="53">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "נערה"/><ContGemara/>שקילא טיבותך שדיא אחיזרי כבר תרגמא</row>
-		<row row_number="2" isdata="1">רב הושעיא לשמעתי' בבבל בנן נוקבן</row>
-		<row row_number="3" isdata="1">דיהויין ליכי מינאי וכו' רב תני עד</row>
+		<row row_number="2" isdata="1">רב הושעיא לשמעתי' בבבל: בנן נוקבן</row>
+		<row row_number="3" isdata="1">דיהויין ליכי מינאי וכו': רב תני עד</row>
 		<row row_number="4" isdata="1">דתלקחן לגוברין ולוי תני עד דתבגרן לרב</row>
 		<row row_number="5" isdata="1">אע"ג דבגר ולוי אע"ג דאינסיב אלא בגר</row>
 		<row row_number="6" isdata="1">ולא אינסיב אינסיב ולא בגר דכולי עלמא</row>
@@ -36,8 +36,8 @@
 		<row row_number="22" isdata="1">לה כיון דלא קים ליה בגוה לא שדי זוזי</row>
 		<row row_number="23" isdata="1">בכדי אמר ליה אי משמע לא שמיע לך</row>
 		<row row_number="24" isdata="1">מסברא לית לה כיון דאירסה לא ניחא ליה</row>
-		<row row_number="25" isdata="1">דתיתזיל סימן דגברי שק זרף מאנה ויבמה</row>
-		<row row_number="26" isdata="1">שניה ארוסה ואנסה בעו מיניה מרב</row>
+		<row row_number="25" isdata="1">דתיתזיל: סימן דגברי שק זרף מאנה ויבמה</row>
+		<row row_number="26" isdata="1">שניה ארוסה ואנסה: בעו מיניה מרב</row>
 		<row row_number="27" isdata="1">ששת ממאנת יש לה מזונות או אין לה</row>
 		<row row_number="28" isdata="1">מזונות אמר להו רב ששת תניתוה אלמנה</row>
 		<row row_number="29" isdata="1">בבית אביה וגרושה בבית אביה ושומרת</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">או אין לה מזונות כיון דאמר מר כתובתה</row>
 		<row row_number="37" isdata="1">על נכסי בעלה הראשון לית לה או דלמא</row>
 		<row row_number="38" isdata="1">כיון דאי לית לה מראשון תקינו לה רבנן</row>
-		<row row_number="39" isdata="1">משני אית לה תיקו בעי רבי אלעזר בת</row>
+		<row row_number="39" isdata="1">משני אית לה תיקו: בעי רבי אלעזר בת</row>
 		<row row_number="40" isdata="1">שניה יש לה מזונות או אין לה מזונות</row>
 </amud>
 </daf>

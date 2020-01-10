@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.360728</dateCreated>
-   <lastModified>2019-12-21 21:42:08.360728</lastModified>
+   <dateCreated>2020-01-06 09:32:46.953031</dateCreated>
+   <lastModified>2020-01-06 09:32:46.953031</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="38">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "אין בין המודר"/><ContGemara/>נפשה וגופה לשמים אמרו לו אף הטמאה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "אין בין המודר"/><ContMishna/>נפשה וגופה לשמים אמרו לו אף הטמאה</row>
 		<row row_number="2" isdata="1">נפשה לשמים וגופה שלו שאם ירצה הרי הוא</row>
-		<row row_number="3" isdata="1">מוכרה לעובדי כוכבים או מאכילה לכלבים</row>
+		<row row_number="3" isdata="1">מוכרה לעובדי כוכבים או מאכילה לכלבים:</row>
 		<row row_number="4" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב יצחק בר חנניה אמר רב הונא</row>
 		<row row_number="5" isdata="1">המודר הנאה מחבירו מותר להשיא לו בתו</row>
 		<row row_number="6" isdata="1">הוי בה רבי זירא במאי עסקינן אילימא</row>
@@ -32,11 +32,11 @@
 		<row row_number="18" isdata="1">לו דג קטן אמר ר' ירמיה אמר רבי יוחנן</row>
 		<row row_number="19" isdata="1">המודר הנאה מחבירו מותר להשקותו כוס</row>
 		<row row_number="20" isdata="1">של שלום מאי ניהו הכא תרגימו כוס של</row>
-		<row row_number="21" isdata="1">בית האבל במערבא אמרי כוס של בית המרחץ ולא יזון את בהמתו בין</row>
-		<row row_number="22" isdata="1">כו' תניא יהושע איש עוזא אומר זן עבדיו ושפחותיו הכנענים ולא יזון</row>
+		<row row_number="21" isdata="1">בית האבל במערבא אמרי כוס של בית המרחץ: ולא יזון את בהמתו בין</row>
+		<row row_number="22" isdata="1">כו': תניא יהושע איש עוזא אומר זן עבדיו ושפחותיו הכנענים ולא יזון</row>
 		<row row_number="23" isdata="1">את בהמתו בין טמאה בין טהורה מאי טעמא עבדיו ושפחותיו הכנענים</row>
-		<row row_number="24" isdata="1">למנחרותא עבידן בהמה לפטומא עבידאמתני' המודר הנאה מחבירו</row>
-		<row row_number="25" isdata="1">ונכנס לבקרו עומד אבל לא יושב ומרפאו רפואת נפש אבל לא רפואת ממון<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="24" isdata="1">למנחרותא עבידן בהמה לפטומא עבידא<EndGemara/><StartMishna/>מתני' המודר הנאה מחבירו</row>
+		<row row_number="25" isdata="1">ונכנס לבקרו עומד אבל לא יושב ומרפאו רפואת נפש אבל לא רפואת ממון:<EndMishna/><StartGemara/>גמ'</row>
 </amud>
 </daf>
 </masechet>

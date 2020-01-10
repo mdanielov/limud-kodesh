@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:10.936981</dateCreated>
-   <lastModified>2019-12-21 21:42:10.936981</lastModified>
+   <dateCreated>2020-01-06 09:32:57.918885</dateCreated>
+   <lastModified>2020-01-06 09:32:57.918885</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="62">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "הכותים אין להם נזירות"/><ContMishna/>מתני' חומר בעבדים מבנשים שהוא מפר<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">נדרי אשתו ואינו מפר נדרי עבדו הפר</row>
 		<row row_number="3" isdata="1">לאשתו הפר עולמית הפר לעבדו יצא</row>
-		<row row_number="4" isdata="1">לחירות ומשלים נזירותו<EndMishna/><StartGemara/>גמ' ת"ר למה רבו</row>
+		<row row_number="4" isdata="1">לחירות ומשלים נזירותו:<EndMishna/><StartGemara/>גמ' ת"ר למה רבו</row>
 		<row row_number="5" isdata="1">כופו לנזירות אבל לא לנדרים ולערכין מאי</row>
 		<row row_number="6" isdata="1">שנא גבי נזיר דאמר רחמנא לאסור איסר</row>
 		<row row_number="7" isdata="1">על נפשו במי שנפשו קנויה לו יצא עבד</row>
@@ -36,8 +36,8 @@
 		<row row_number="22" isdata="1">לנדרים ואינו צריך לכפותו לשבועה מ"ט</row>
 		<row row_number="23" isdata="1">דאמר קרא להרע או להיטיב מה הטבה</row>
 		<row row_number="24" isdata="1">רשות אף הרעה רשות יצא להרע לאחרים</row>
-		<row row_number="25" isdata="1">שאין הרשות בידומתני' עבר מכנגד פניו</row>
-		<row row_number="26" isdata="1">ר"מ אומר לא ישתה ורבי יוסי אומר ישתה</row>
+		<row row_number="25" isdata="1">שאין הרשות בידו<EndGemara/><StartMishna/>מתני' עבר מכנגד פניו</row>
+		<row row_number="26" isdata="1">ר"מ אומר לא ישתה ורבי יוסי אומר ישתה:</row>
 		<row row_number="27" isdata="1"><EndMishna/><StartGemara/>גמ' לימא בדשמואל קמיפלגי דאמר שמואל</row>
 		<row row_number="28" isdata="1">המפקיר עבדו יצא לחירות וא"צ גט שיחרור</row>
 		<row row_number="29" isdata="1">ר"מ אית ליה דשמואל רבי יוסי לית ליה</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">אלא מאן דאמר ישתה סבר סוף סוף מיהדר</row>
 		<row row_number="32" isdata="1">הדר ואתי גביה לישתי חמרא כי היכי דלא</row>
 		<row row_number="33" isdata="1">ליכחוש ולמאן דאמר לא ישתה סבר</row>
-		<row row_number="34" isdata="1">ליהוי ליה צערא כי היכי דליהדר גביה</row>
+		<row row_number="34" isdata="1">ליהוי ליה צערא כי היכי דליהדר גביה:</row>
 </amud>
 </daf>
 </masechet>

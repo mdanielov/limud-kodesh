@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.039449</dateCreated>
-   <lastModified>2019-12-21 21:42:33.039449</lastModified>
+   <dateCreated>2020-01-06 09:34:42.091612</dateCreated>
+   <lastModified>2020-01-06 09:34:42.091612</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="11">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "כל המנחות"/><ContGemara/>או קורט לבונה פסול כל הני למה לי צריכא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "כל המנחות"/><ContGemara/>או קורט לבונה פסול: כל הני למה לי צריכא</row>
 		<row row_number="2" isdata="1">דאי תנא צרור משום דלאו בת הקרבה היא</row>
 		<row row_number="3" isdata="1">אבל מלח דבת הקרבה היא אימא תתכשר</row>
 		<row row_number="4" isdata="1">ואי תנא מלח דלא איקבע בהדי מנחה</row>
 		<row row_number="5" isdata="1">מעיקרא (שאינו מולח אלא הקומץ בלבד)</row>
 		<row row_number="6" isdata="1">אבל לבונה דאיקבע בהדי מנחה מעיקרא</row>
-		<row row_number="7" isdata="1">אימא תתכשר קמ"ל מפני שאמרו הקומץ</row>
-		<row row_number="8" isdata="1">החסר או היתר פסול מאי איריא משום</row>
+		<row row_number="7" isdata="1">אימא תתכשר קמ"ל: מפני שאמרו הקומץ</row>
+		<row row_number="8" isdata="1">החסר או היתר פסול: מאי איריא משום</row>
 		<row row_number="9" isdata="1">חסר ויתר ותיפוק ליה משום חציצה א"ר</row>
 		<row row_number="10" isdata="1">ירמיה מן הצד אמר ליה אביי לרבא כיצד</row>
 		<row row_number="11" isdata="1">קומצין אמר ליה כדקמצי אינשי איתיביה זו</row>
@@ -41,8 +41,8 @@
 		<row row_number="27" isdata="1">רב פפא דבקיה לקומץ בדפניה דמנא מאי תוך כלי בעינן והאיכא או דלמא</row>
 		<row row_number="28" isdata="1">הנחה בתוכו בעינן וליכא תיקו בעי מר בר רב אשי הפכיה למנא ודבקיה</row>
 		<row row_number="29" isdata="1">לקומץ בארעיתא דמנא מאי הנחה בתוכו בעינן והאיכא או דלמא כתיקנו</row>
-		<row row_number="30" isdata="1">בעינן וליכא תיקומתני' כיצד הוא עושה פושט את אצבעותיו על פס ידו</row>
-		<row row_number="31" isdata="1">ריבה שמנה חסר שמנה חיסר לבונתה פסולה<EndMishna/><StartGemara/>גמ' היכי דמי ריבה שמנה</row>
+		<row row_number="30" isdata="1">בעינן וליכא תיקו<EndGemara/><StartMishna/>מתני' כיצד הוא עושה פושט את אצבעותיו על פס ידו</row>
+		<row row_number="31" isdata="1">ריבה שמנה חסר שמנה חיסר לבונתה פסולה:<EndMishna/><StartGemara/>גמ' היכי דמי ריבה שמנה</row>
 		<row row_number="32" isdata="1">א"ר אליעזר כגון שהפריש לה שני לוגין ולוקמה כגון דעריב בה שמן</row>
 		<row row_number="33" isdata="1">דחולין ושמן דחבירתה וכי תימא שמן דחולין ושמן דחבירתה לא פסל</row>
 		<row row_number="34" isdata="1">מתקיף לה רב זוטרא בר טוביה אלא מעתה מנחת חוטא דפסל בה שמן</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">אליעזר לא מיבעיא קאמר לא מיבעיא דחולין ודחבירתה דפסיל אבל הפריש</row>
 		<row row_number="38" isdata="1">לה שני לוגין הואיל והאי חזי לי' והאי חזי לי' אימא לא ליפסיל קמ"ל ומנא ליה</row>
 		<row row_number="39" isdata="1">לר' אליעזר הא אמר רבא מתני' קשיתיה מאי איריא דתני ריבה שמנה ליתני</row>
-		<row row_number="40" isdata="1">ריבה לה שמן אלא הא קמ"ל דאע"ג דהפריש לה שני לוגין חיסר לבונתה</row>
+		<row row_number="40" isdata="1">ריבה לה שמן אלא הא קמ"ל דאע"ג דהפריש לה שני לוגין: חיסר לבונתה:</row>
 		<row row_number="41" isdata="1">ת"ר חסרה ועמדה על קורט אחד פסולה על שני קרטין כשרה דברי</row>
 		<row row_number="42" isdata="1">רבי יהודה רבי שמעון אומר על קורט אחד כשרה פחות מכאן פסולה</row>
 </amud>

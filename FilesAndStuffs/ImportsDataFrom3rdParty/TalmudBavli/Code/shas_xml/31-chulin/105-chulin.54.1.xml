@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:36.391575</dateCreated>
-   <lastModified>2019-12-21 21:42:36.391575</lastModified>
+   <dateCreated>2020-01-06 09:34:56.367641</dateCreated>
+   <lastModified>2020-01-06 09:34:56.367641</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="54">
@@ -36,8 +36,8 @@
 		<row row_number="22" isdata="1">אפשר לשמוטה שתיעשה שחוטה ור' יוחנן</row>
 		<row row_number="23" isdata="1">אומר יביא ויקיף אמר רב נחמן לא שנו</row>
 		<row row_number="24" isdata="1">אלא שלא תפס בסימנים אבל תפס בסימנים</row>
-		<row row_number="25" isdata="1">ושחט אפשר לשמוטה שתיעשה שחוטה</row>
-		<row row_number="26" isdata="1">זה הכלל לאתויי מאי לאתויי שב שמעתתא</row>
+		<row row_number="25" isdata="1">ושחט אפשר לשמוטה שתיעשה שחוטה:</row>
+		<row row_number="26" isdata="1">זה הכלל: לאתויי מאי לאתויי שב שמעתתא</row>
 		<row row_number="27" isdata="1">דבי יוסף רישבא מחו בגידא נשיא וקטלי</row>
 		<row row_number="28" isdata="1">אתו לקמיה דרבי יהודה בן בתירא אמר להו</row>
 		<row row_number="29" isdata="1">וכי להוסיף על הטרפות יש אין לך אלא מה</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">מחו בכוליא וקטלי אתו לקמיה דרבי אבא</row>
 		<row row_number="32" isdata="1">אמר להו וכי להוסיף על הטרפות יש אין לך</row>
 		<row row_number="33" isdata="1">אלא מה שמנו חכמים והא קא חזינן דקא</row>
-		<row row_number="34" isdata="1">מתה גמירי דאי בדרי לה סמא חייאמתני'</row>
+		<row row_number="34" isdata="1">מתה גמירי דאי בדרי לה סמא חייא<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="35" isdata="1">ואלו כשרות בבהמה ניקבה הגרגרת או</row>
 		<row row_number="36" isdata="1">שנסדקה עד כמה תחסר רשב"ג אומר עד</row>
 		<row row_number="37" isdata="1">כאיסר האיטלקי נפחתה הגולגולת ולא ניקב</row>
@@ -56,7 +56,7 @@
 		<row row_number="42" isdata="1">ניטל הטחול ניטלו הכליות ניטל לחי</row>
 		<row row_number="43" isdata="1">התחתון ניטלה האם שלה וחרותה בידי</row>
 		<row row_number="44" isdata="1">שמים הגלודה רבי מאיר מכשיר וחכמים</row>
-		<row row_number="45" isdata="1">פוסלין<EndMishna/><StartGemara/>גמ' אתמר רבי יוחנן אמר אלו</row>
+		<row row_number="45" isdata="1">פוסלין:<EndMishna/><StartGemara/>גמ' אתמר רבי יוחנן אמר אלו</row>
 		<row row_number="46" isdata="1">טרפות דוקא ור' שמעון בן לקיש אמר אלו</row>
 		<row row_number="47" isdata="1">כשרות דוקא במאי קא מיפלגי בדרב מתנא</row>
 		<row row_number="48" isdata="1">דאמר רב מתנא האי בוקא דאטמא דשף</row>

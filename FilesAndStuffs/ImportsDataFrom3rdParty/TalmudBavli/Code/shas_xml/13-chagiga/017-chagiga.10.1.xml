@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:02.624761</dateCreated>
-   <lastModified>2019-12-21 21:42:02.624761</lastModified>
+   <dateCreated>2020-01-06 09:32:19.323675</dateCreated>
+   <lastModified>2020-01-06 09:32:19.323675</lastModified>
  </meta>
  <masechet name="חגיגה" serial="13">
 <daf value="10">
@@ -18,12 +18,12 @@
 		<row row_number="4" isdata="1">כיון שיוצא אדם מדבר הלכה לדבר מקרא</row>
 		<row row_number="5" isdata="1">שוב אין לו שלום ושמואל אמר זה הפורש</row>
 		<row row_number="6" isdata="1">מתלמוד למשנה ור' יוחנן אמר אפילו מש"ס</row>
-		<row row_number="7" isdata="1">לש"סמתני' היתר נדרים פורחין באויר</row>
+		<row row_number="7" isdata="1">לש"ס<EndGemara/><StartMishna/>מתני' היתר נדרים פורחין באויר</row>
 		<row row_number="8" isdata="1">ואין להם על מה שיסמכו הלכות שבת</row>
 		<row row_number="9" isdata="1">חגיגות והמעילות הרי הם כהררים התלוין</row>
 		<row row_number="10" isdata="1">בשערה שהן מקרא מועט והלכות מרובות</row>
 		<row row_number="11" isdata="1">הדינין והעבודות הטהרות והטמאות ועריות</row>
-		<row row_number="12" isdata="1">יש להן על מה שיסמכו והן הן גופי תורה</row>
+		<row row_number="12" isdata="1">יש להן על מה שיסמכו והן הן גופי תורה:</row>
 		<row row_number="13" isdata="1"><EndMishna/><StartGemara/>גמ' תניא רבי אליעזר אומר יש להם על</row>
 		<row row_number="14" isdata="1">מה שיסמכו שנאמר כי יפליא כי יפליא</row>
 		<row row_number="15" isdata="1">שתי פעמים אחת הפלאה לאיסור ואחת</row>
@@ -54,7 +54,7 @@
 		<row row_number="40" isdata="1">צדקך אלא דשמואל לית ליה פירכא אמר</row>
 		<row row_number="41" isdata="1">רבא ואיתימא רב נחמן בר יצחק היינו דאמרי</row>
 		<row row_number="42" isdata="1">אינשי טבא חדא פלפלתא חריפתא ממלי</row>
-		<row row_number="43" isdata="1">צנא דקרי הלכות שבת מיכתב כתיבן</row>
+		<row row_number="43" isdata="1">צנא דקרי: הלכות שבת: מיכתב כתיבן</row>
 		<row row_number="44" isdata="1">לא צריכא לכדר' אבא דאמר רבי אבא</row>
 		<row row_number="45" isdata="1">החופר גומא בשבת ואין צריך אלא</row>
 		<row row_number="46" isdata="1">לעפרה פטור עליה כמאן כרבי שמעון</row>

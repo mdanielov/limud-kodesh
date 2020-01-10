@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.608568</dateCreated>
-   <lastModified>2019-12-21 21:42:12.608568</lastModified>
+   <dateCreated>2020-01-06 09:33:06.420191</dateCreated>
+   <lastModified>2020-01-06 09:33:06.420191</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="37">
@@ -42,10 +42,10 @@
 		<row row_number="28" isdata="1">חוב ואין עמו פרוסבול הרי אלו לא יפרעו</row>
 		<row row_number="29" isdata="1">תנאי היא דתניא המוציא שטר חוב צריך</row>
 		<row row_number="30" isdata="1">שיהא עמו פרוסבול וחכמים אומרים אינו</row>
-		<row row_number="31" isdata="1">צריךמתני' עבד שנשבה ופדאוהו אם</row>
+		<row row_number="31" isdata="1">צריך<EndGemara/><StartMishna/>מתני' עבד שנשבה ופדאוהו אם</row>
 		<row row_number="32" isdata="1">לשום עבד ישתעבד אם לשום בן חורין לא</row>
 		<row row_number="33" isdata="1">ישתעבד רשב"ג אומר בין כך ובין כך</row>
-		<row row_number="34" isdata="1">ישתעבד<EndMishna/><StartGemara/>גמ' במאי עסקינן אילימא לפני</row>
+		<row row_number="34" isdata="1">ישתעבד:<EndMishna/><StartGemara/>גמ' במאי עסקינן אילימא לפני</row>
 		<row row_number="35" isdata="1">יאוש לשום בן חורין אמאי לא ישתעבד אלא</row>
 		<row row_number="36" isdata="1">לאחר יאוש לשום עבד אמאי ישתעבד</row>
 		<row row_number="37" isdata="1">אמר אביי לעולם לפני יאוש ולשום עבד</row>

@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:47.977002</dateCreated>
-   <lastModified>2019-12-21 21:41:47.977002</lastModified>
+   <dateCreated>2020-01-06 09:30:59.661616</dateCreated>
+   <lastModified>2020-01-06 09:30:59.661616</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="18">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>השמש אמר רשב"ג נוהגין היו בית אבא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContMishna/>השמש אמר רשב"ג נוהגין היו בית אבא</row>
 		<row row_number="2" isdata="1">שהיו נותנין כלי לבן לכובס נכרי שלשה ימים</row>
 		<row row_number="3" isdata="1">קודם לשבת ושוין אלו ואלו שטוענין קורת</row>
-		<row row_number="4" isdata="1">בית הבד ועגולי הגת<EndMishna/><StartGemara/>גמ' מאן תנא נתינת</row>
+		<row row_number="4" isdata="1">בית הבד ועגולי הגת:<EndMishna/><StartGemara/>גמ' מאן תנא נתינת</row>
 		<row row_number="5" isdata="1">מים לדיו זו היא שרייתן אמר רב יוסף רבי</row>
 		<row row_number="6" isdata="1">היא דתניא אחד נותן את הקמח וא' נותן</row>
 		<row row_number="7" isdata="1">את המים האחרון חייב דברי רבי רבי יוסי</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">רבי ר' יוסי ברבי יהודה אומר עד שיגבל</row>
 		<row row_number="14" isdata="1">ודילמא מאי אפר עפר דבר גיבול הוא</row>
 		<row row_number="15" isdata="1">והתניא אפר והתניא עפר מידי גבי הדדי</row>
-		<row row_number="16" isdata="1">תניא ת"ר פותקין מים לגינה ע"ש עם</row>
+		<row row_number="16" isdata="1">תניא: ת"ר פותקין מים לגינה ע"ש עם</row>
 		<row row_number="17" isdata="1">חשיכה ומתמלאת והולכת כל היום כולו</row>
 		<row row_number="18" isdata="1">ומניחין מוגמר תחת הכלים (ע"ש) ומתגמרין</row>
 		<row row_number="19" isdata="1">והולכין כל היום כולו ומניחין גפרית תחת</row>

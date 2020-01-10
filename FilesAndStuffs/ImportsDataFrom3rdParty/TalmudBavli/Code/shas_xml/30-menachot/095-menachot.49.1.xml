@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.816453</dateCreated>
-   <lastModified>2019-12-21 21:42:33.816453</lastModified>
+   <dateCreated>2020-01-06 09:34:45.672051</dateCreated>
+   <lastModified>2020-01-06 09:34:45.672051</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="49">
@@ -48,7 +48,7 @@
 		<row row_number="34" isdata="1">קמיץ לה לשום מרחשת ודקא אמרת כי</row>
 		<row row_number="35" isdata="1">מעשיה מוכיחין עליה מאי הוי רבא לטעמיה</row>
 		<row row_number="36" isdata="1">דאמר רבא מחשבה דלא מינכרא פסל רחמנא</row>
-		<row row_number="37" isdata="1">מחשבה דמינכרא לא פסל רחמנאמתני'</row>
+		<row row_number="37" isdata="1">מחשבה דמינכרא לא פסל רחמנא<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="38" isdata="1">התמידין אין מעכבין את המוספין ולא</row>
 		<row row_number="39" isdata="1">המוספין מעכבין את התמידין ולא המוספין</row>
 		<row row_number="40" isdata="1">מעכבין זה את זה לא הקריבו כבש בבוקר</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">בבוקר יקטירו בין הערבים אמר רבי שמעון וכולה היתה קריבה בין הערבים</row>
 		<row row_number="44" isdata="1">שאין מחנכין את מזבח הזהב אלא בקטורת הסמים  ולא מזבח העולה אלא</row>
 		<row row_number="45" isdata="1">בתמיד של שחר ולא את השולחן אלא בלחם הפנים בשבת ולא את המנורה</row>
-		<row row_number="46" isdata="1">אלא בשבעה נרותיה בין הערבים<EndMishna/><StartGemara/>גמ' בעא מיניה ר' חייא בר אבין מרב</row>
+		<row row_number="46" isdata="1">אלא בשבעה נרותיה בין הערבים:<EndMishna/><StartGemara/>גמ' בעא מיניה ר' חייא בר אבין מרב</row>
 		<row row_number="47" isdata="1">חסדא ציבור שאין להן תמידין ומוספין אי זה מהן קודם היכי דמי אילימא</row>
 		<row row_number="48" isdata="1">תמידין דיומיה ומוספין דיומיה פשיטא תמידין עדיפי דהוו להו תדיר ומקודש</row>
 		<row row_number="49" isdata="1">אלא תמידין דלמחר ומוספין דהאידנא תמידין עדיפי שכן תדיר או דלמא</row>

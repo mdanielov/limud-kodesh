@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:47.110003</dateCreated>
-   <lastModified>2019-12-21 21:41:47.110003</lastModified>
+   <dateCreated>2020-01-06 09:30:54.390563</dateCreated>
+   <lastModified>2020-01-06 09:30:54.390563</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="34">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "אין עומדין"/><ContGemara/>חברותא כלפי שמיא מי איכא אי לא כוון</row>
 		<row row_number="2" isdata="1">דעתיה מעיקרא מחינן ליה במרזפתא דנפחא</row>
-		<row row_number="3" isdata="1">עד דמכוין דעתיהמתני' ( האומר</row>
+		<row row_number="3" isdata="1">עד דמכוין דעתיה<EndGemara/><StartMishna/>מתני' ( האומר</row>
 		<row row_number="4" isdata="1">יברכוך טובים הרי זה דרכי מינות) העובר</row>
 		<row row_number="5" isdata="1">לפני התיבה וטעה יעבור אחר תחתיו ולא</row>
 		<row row_number="6" isdata="1">יהא סרבן באותה שעה מהיכן הוא מתחיל</row>
@@ -22,7 +22,7 @@
 		<row row_number="8" isdata="1">התיבה לא יענה אמן אחר הכהנים מפני</row>
 		<row row_number="9" isdata="1">הטרוף ואם אין שם כהן אלא הוא לא ישא</row>
 		<row row_number="10" isdata="1">את כפיו ואם הבטחתו שהוא נושא את כפיו</row>
-		<row row_number="11" isdata="1">וחוזר לתפלתו רשאי<EndMishna/><StartGemara/>גמ' ת"ר העובר לפני</row>
+		<row row_number="11" isdata="1">וחוזר לתפלתו רשאי:<EndMishna/><StartGemara/>גמ' ת"ר העובר לפני</row>
 		<row row_number="12" isdata="1">התיבה צריך לסרב ואם אינו מסרב דומה</row>
 		<row row_number="13" isdata="1">לתבשיל שאין בו מלח ואם מסרב יותר מדאי</row>
 		<row row_number="14" isdata="1">דומה לתבשיל שהקדיחתו מלח כיצד הוא</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">שוב מעשה בתלמיד א' שירד לפני התיבה בפני ר"א והיה מקצר יותר מדאי</row>
 		<row row_number="37" isdata="1">א"ל תלמידיו כמה קצרן הוא זה א"ל כלום מקצר יותר ממשה רבינו דכתיב</row>
 		<row row_number="38" isdata="1">אל נא רפא נא לה א"ר יעקב אמר רב חסדא כל המבקש רחמים על חבירו</row>
-		<row row_number="39" isdata="1">אין צריך להזכיר שמו שנאמר אל נא רפא נא לה ולא קמדכר שמה דמרים</row>
+		<row row_number="39" isdata="1">אין צריך להזכיר שמו שנאמר אל נא רפא נא לה ולא קמדכר שמה דמרים:</row>
 		<row row_number="40" isdata="1">ת"ר אלו ברכות שאדם שוחה בהן באבות תחלה וסוף בהודאה תחלה וסוף</row>
 		<row row_number="41" isdata="1">ואם בא לשוח בסוף כל ברכה וברכה ובתחלת כל ברכה וברכה מלמדין</row>
 		<row row_number="42" isdata="1">אותו שלא ישחה אר"ש בן פזי אריב"ל משום בר קפרא הדיוט כמו שאמרנו</row>

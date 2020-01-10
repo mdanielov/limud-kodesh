@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.528571</dateCreated>
-   <lastModified>2019-12-21 21:42:38.528571</lastModified>
+   <dateCreated>2020-01-06 09:35:04.824438</dateCreated>
+   <lastModified>2020-01-06 09:35:04.824438</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="142">
@@ -16,11 +16,11 @@
 		<row row_number="2" isdata="1">פירי חדתי הוו דלוי בר סימון גופיה לא</row>
 		<row row_number="3" isdata="1">הוה קני להו והכי קאמר ליה זיל וטריף</row>
 		<row row_number="4" isdata="1">אקן דליתגבהו וניקנינהו לוי בר סימון והדר</row>
-		<row row_number="5" isdata="1">ליקנינהו ניהלך בסודרמתני' לא יטול</row>
+		<row row_number="5" isdata="1">ליקנינהו ניהלך בסודר<EndGemara/><StartMishna/>מתני' לא יטול</row>
 		<row row_number="6" isdata="1">אדם אם על בנים אפי' לטהר את המצורע</row>
 		<row row_number="7" isdata="1">ומה אם מצוה קלה שהיא כאיסר אמרה</row>
 		<row row_number="8" isdata="1">תורה למען ייטב לך והארכת ימים ק"ו על</row>
-		<row row_number="9" isdata="1">מצות חמורות שבתורה<EndMishna/><StartGemara/>גמ' תניא דבי ר' יעקב אומר אין לך כל מצוה ומצוה שבתורה שמתן שכרה</row>
+		<row row_number="9" isdata="1">מצות חמורות שבתורה:<EndMishna/><StartGemara/>גמ' תניא דבי ר' יעקב אומר אין לך כל מצוה ומצוה שבתורה שמתן שכרה</row>
 		<row row_number="10" isdata="1">בצדה שאין תחיית המתים תלויה בה בכבוד אב ואם כתיב למען יאריכון ימיך ולמען ייטב לך בשילוח</row>
 		<row row_number="11" isdata="1">הקן כתיב למען ייטב לך והארכת ימים הרי שאמר לו אביו עלה לבירה והבא לי גוזלות ועלה ושלח את</row>
 		<row row_number="12" isdata="1">האם ולקח את הבנים ובחזרתו נפל ומת היכן אריכות ימיו של זה והיכן טובתו של זה אלא למען יאריכון</row>
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">דכתיב ויאמר שמואל איך אלך ושמע שאול והרגני אמר רב יוסף אלמלא דרשיה אחר להאי קרא</row>
 		<row row_number="20" isdata="1">כרבי יעקב בר ברתיה לא חטא מאי חזא איכא דאמרי כי האי מעשה חזא ואיכא דאמרי לישנא דרבי</row>
 		<row row_number="21" isdata="1">חוצפית המתורגמן חזא דהוה מוטלת באשפה אמר פה שהפיק מרגליות ילחוך עפר והוא לא ידע למען</row>
-		<row row_number="22" isdata="1">ייטב לך בעולם שכולו טוב ולמען יאריכון ימיך בעולם שכולו ארוך<EndChapter name = "שילוח הקן "/><EndGemara/></row>
+		<row row_number="22" isdata="1">ייטב לך בעולם שכולו טוב ולמען יאריכון ימיך בעולם שכולו ארוך:<EndChapter name = "שילוח הקן "/><EndGemara/></row>
 		<row row_number="23" isdata="0">הדרן עלך שילוח הקן וסליקא לה מסכת חולין</row>
 </amud>
 </daf>

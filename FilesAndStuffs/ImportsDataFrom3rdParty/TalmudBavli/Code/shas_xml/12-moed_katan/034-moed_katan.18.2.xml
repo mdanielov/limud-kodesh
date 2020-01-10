@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:02.359766</dateCreated>
-   <lastModified>2019-12-21 21:42:02.359766</lastModified>
+   <dateCreated>2020-01-06 09:32:17.584395</dateCreated>
+   <lastModified>2020-01-06 09:32:17.584395</lastModified>
  </meta>
  <masechet name="מועד קטן" serial="12">
 <daf value="18">
@@ -17,12 +17,12 @@
 		<row row_number="3" isdata="1">לדידי חזי לי ימה של טבריה דמפקי לה</row>
 		<row row_number="4" isdata="1">משיכלי דמני כיתנא בחולא דמועדא מתקיף</row>
 		<row row_number="5" isdata="1">לה אביי מאן לימא לן דברצון חכמים עבדי</row>
-		<row row_number="6" isdata="1">דלמא שלא ברצון חכמים עבדימתני'</row>
+		<row row_number="6" isdata="1">דלמא שלא ברצון חכמים עבדי<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="7" isdata="1">ואלו כותבין במועד קדושי נשים וגיטין</row>
 		<row row_number="8" isdata="1">ושוברין דייתיקי מתנה ופרוזבולין איגרות</row>
 		<row row_number="9" isdata="1">שום ואיגרות מזון שטרי חליצה ומיאונים</row>
 		<row row_number="10" isdata="1">ושטרי בירורין גזרות בית דין ואיגרות של</row>
-		<row row_number="11" isdata="1">רשות<EndMishna/><StartGemara/>גמ' אמר שמואל מותר לארס</row>
+		<row row_number="11" isdata="1">רשות:<EndMishna/><StartGemara/>גמ' אמר שמואל מותר לארס</row>
 		<row row_number="12" isdata="1">אשה בחולו של מועד שמא יקדמנו אחר</row>
 		<row row_number="13" isdata="1">לימא מסייע ליה ואלו כותבין במועד קדושי</row>
 		<row row_number="14" isdata="1">נשים מאי לאו שטרי קדושין ממש לא</row>
@@ -64,7 +64,7 @@
 		<row row_number="50" isdata="1">חשדון ולא הוה בי לא קשיא הא בקלא דפסיק הא בקלא דלא פסיק וקלא דלא פסיק עד כמה אמר אביי אמרה</row>
 		<row row_number="51" isdata="1">לי אם דומי דמתא יומא ופלגא והני מילי דלא פסק ביני ביני אבל פסק ביני ביני לית לן בה וכי פסק</row>
 		<row row_number="52" isdata="1">ביני ביני לא אמרן אלא דלא פסק מחמת יראה אבל פסק מחמת יראה לא ולא אמרן אלא דלא הדר נבט אבל</row>
-		<row row_number="53" isdata="1">הדר נבט לא ולא אמרן אלא דלית ליה אויבים אבל אית ליה אויבים אויבים הוא דאפקוה לקלאמתני' אין</row>
+		<row row_number="53" isdata="1">הדר נבט לא ולא אמרן אלא דלית ליה אויבים אבל אית ליה אויבים אויבים הוא דאפקוה לקלא<EndGemara/><StartMishna/>מתני' אין</row>
 		<row row_number="54" isdata="1">כותבין שטרי חוב במועד ואם אינו מאמינו או שאין לו מה יאכל הרי זה יכתוב אין כותבין ספרים תפילין</row>
 		<row row_number="55" isdata="1">ומזוזות במועד ואין מגיהין אות אחת אפילו בספר עזרא רבי יהודה אומר כותב אדם תפילין ומזוזות לעצמו</row>
 </amud>

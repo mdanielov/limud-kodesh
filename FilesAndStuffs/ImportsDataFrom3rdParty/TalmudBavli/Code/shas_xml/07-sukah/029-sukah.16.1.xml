@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:59.248756</dateCreated>
-   <lastModified>2019-12-21 21:41:59.248756</lastModified>
+   <dateCreated>2020-01-06 09:31:55.044914</dateCreated>
+   <lastModified>2020-01-06 09:31:55.044914</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="16">
@@ -26,7 +26,7 @@
 		<row row_number="12" isdata="1">מכשיעורה אין מסככין בהן מחצלת הקנים</row>
 		<row row_number="13" isdata="1">גדולה מסככין בה קטנה אין מסככין בה ר'</row>
 		<row row_number="14" isdata="1">אליעזר אומר אף היא מקבלת טומאה ואין</row>
-		<row row_number="15" isdata="1">מסככין בה החוטט בגדיש אמר רב</row>
+		<row row_number="15" isdata="1">מסככין בה: החוטט בגדיש: אמר רב</row>
 		<row row_number="16" isdata="1">הונא לא שנו אלא שאין שם חלל טפח</row>
 		<row row_number="17" isdata="1">במשך שבעה אבל יש שם חלל טפח</row>
 		<row row_number="18" isdata="1">במשך שבעה הרי זה סוכה תניא נמי הכי</row>
@@ -37,12 +37,12 @@
 		<row row_number="23" isdata="1">אינה סוכה והא תניא הרי זו סוכה אמר רב</row>
 		<row row_number="24" isdata="1">הונא לא קשיא כאן בשיש שם חלל טפח</row>
 		<row row_number="25" isdata="1">במשך שבעה כאן בשאין שם חלל טפח</row>
-		<row row_number="26" isdata="1">במשך שבעהמתני' המשלשל דפנות</row>
+		<row row_number="26" isdata="1">במשך שבעה<EndGemara/><StartMishna/>מתני' המשלשל דפנות</row>
 		<row row_number="27" isdata="1">מלמעלה למטה אם גבוה מן הארץ שלשה</row>
 		<row row_number="28" isdata="1">טפחים פסולה מלמטה למעלה אם גבוה</row>
 		<row row_number="29" isdata="1">עשרה טפחים כשרה רבי יוסי אומר כשם</row>
 		<row row_number="30" isdata="1">שמלמטה למעלה עשרה טפחים כך מלמעלה</row>
-		<row row_number="31" isdata="1">למטה עשרה טפחים<EndMishna/><StartGemara/>גמ' במאי קמיפלגי</row>
+		<row row_number="31" isdata="1">למטה עשרה טפחים:<EndMishna/><StartGemara/>גמ' במאי קמיפלגי</row>
 		<row row_number="32" isdata="1">מר סבר מחיצה תלויה מתרת ומר סבר</row>
 		<row row_number="33" isdata="1">מחיצה תלויה אינה מתרת תנן התם</row>
 		<row row_number="34" isdata="1">בור שבין שתי חצירות אין ממלאין ממנה</row>

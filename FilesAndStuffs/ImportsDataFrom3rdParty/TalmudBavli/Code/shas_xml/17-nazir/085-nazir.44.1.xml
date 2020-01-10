@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:10.587981</dateCreated>
-   <lastModified>2019-12-21 21:42:10.587981</lastModified>
+   <dateCreated>2020-01-06 09:32:55.105384</dateCreated>
+   <lastModified>2020-01-06 09:32:55.105384</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="44">
@@ -23,7 +23,7 @@
 		<row row_number="9" isdata="1">בגינזק ובאו והודיעוהו לאחר שלש שנים</row>
 		<row row_number="10" isdata="1">ובא ושאל את ר' יהושע בן אלישע וד' זקנים</row>
 		<row row_number="11" isdata="1">[שעמו] ואמרו לאביו בזמן שהוא שלם ולא</row>
-		<row row_number="12" isdata="1">בזמן שהוא חסרמתני' שלשה מינין</row>
+		<row row_number="12" isdata="1">בזמן שהוא חסר<EndGemara/><StartMishna/>מתני' שלשה מינין</row>
 		<row row_number="13" isdata="1">אסורין בנזיר הטומאה והתגלחת והיוצא מן</row>
 		<row row_number="14" isdata="1">הגפן חומר בטומאה ובתגלחת מביוצא מן</row>
 		<row row_number="15" isdata="1">הגפן שהטומאה והתגלחת סותרין והיוצא</row>
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">בתגלחת מצוה ובמת מצוה וחומר בטומאה</row>
 		<row row_number="20" isdata="1">מבתגלחת שהטומאה סותרת את הכל</row>
 		<row row_number="21" isdata="1">וחייבין עליה קרבן ותגלחת אינה סותרת</row>
-		<row row_number="22" isdata="1">אלא שלשים ואין חייבין עליה קרבן<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="22" isdata="1">אלא שלשים ואין חייבין עליה קרבן:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="23" isdata="1">וטומאה לא תותר מכללה ק"ו מיין ומה</row>
 		<row row_number="24" isdata="1">יין שאינו סותר לא הותר מכללו טומאה</row>
 		<row row_number="25" isdata="1">שסותרת אינו דין שלא תותר מכללה ת"ל</row>
@@ -60,7 +60,7 @@
 		<row row_number="46" isdata="1">קל וחומר מיין ומה יין שלא הותר מכללו אינו סותר תגלחת שהותרה מכללה</row>
 		<row row_number="47" isdata="1">אינו דין שלא תסתור בעינן גידול שער והא ליכא ויין יסתור שלשים יום</row>
 		<row row_number="48" isdata="1">ק"ו מתגלחת ומה תגלחת שהותרה מכללה סותרת יין שלא הותר מכללו אינו</row>
-		<row row_number="49" isdata="1">דין שיסתור מידי הוא טעמא אלא משום גידול שער גבי יין הא קאים שערו</row>
+		<row row_number="49" isdata="1">דין שיסתור מידי הוא טעמא אלא משום גידול שער גבי יין הא קאים שערו:</row>
 </amud>
 </daf>
 </masechet>

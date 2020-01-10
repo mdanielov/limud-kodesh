@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.784714</dateCreated>
-   <lastModified>2019-12-21 21:42:05.784714</lastModified>
+   <dateCreated>2020-01-06 09:32:34.833036</dateCreated>
+   <lastModified>2020-01-06 09:32:34.833036</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="18">
@@ -19,12 +19,12 @@
 		<row row_number="5" isdata="1">יעקב סבר לא שנא בו ולא שנא בבנו אינו</row>
 		<row row_number="6" isdata="1">מעיז והלכך לאו משיב אבידה הוי ורבנן</row>
 		<row row_number="7" isdata="1">סברי בו הוא דאינו מעיז אבל בבנו מעיז</row>
-		<row row_number="8" isdata="1">ומדלא העיז משיב אבידה הוימתני'</row>
+		<row row_number="8" isdata="1">ומדלא העיז משיב אבידה הוי<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="9" isdata="1">העדים שאמרו כתב ידינו הוא זה אבל</row>
 		<row row_number="10" isdata="1">אנוסים היינו קטנים היינו פסולי עדות היינו</row>
 		<row row_number="11" isdata="1">הרי אלו נאמנים ואם יש עדים שהוא כתב</row>
 		<row row_number="12" isdata="1">ידם או שהיה כתב ידם יוצא ממקום אחר</row>
-		<row row_number="13" isdata="1">אינן נאמנין<EndMishna/><StartGemara/>גמ' אמר רמי בר חמא לא שנו</row>
+		<row row_number="13" isdata="1">אינן נאמנין:<EndMishna/><StartGemara/>גמ' אמר רמי בר חמא לא שנו</row>
 		<row row_number="14" isdata="1">אלא שאמרו אנוסים היינו מחמת ממון אבל</row>
 		<row row_number="15" isdata="1">אנוסים היינו מחמת נפשות הרי אלו נאמנין</row>
 		<row row_number="16" isdata="1">אמר ליה רבא כל כמיניה כיון שהגיד שוב</row>

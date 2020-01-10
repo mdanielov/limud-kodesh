@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:12.940095</dateCreated>
-   <lastModified>2019-12-21 21:42:12.940095</lastModified>
+   <dateCreated>2020-01-06 09:33:09.082642</dateCreated>
+   <lastModified>2020-01-06 09:33:09.082642</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="54">
@@ -27,8 +27,8 @@
 		<row row_number="13" isdata="1">הא אתמר עלה אמר רבא חזקה אין אדם</row>
 		<row row_number="14" isdata="1">אוסר את כרמו בנטיעה אחת וכן כי אתא</row>
 		<row row_number="15" isdata="1">רבין א"ר יוחנן חזקה אין אדם אוסר את</row>
-		<row row_number="16" isdata="1">כרמו בנטיעה אחתמתני' הכהנים</row>
-		<row row_number="17" isdata="1">שפגלו במקדש מזידין חייבין<EndMishna/><StartGemara/>גמ' ת"ר</row>
+		<row row_number="16" isdata="1">כרמו בנטיעה אחת<EndGemara/><StartMishna/>מתני' הכהנים</row>
+		<row row_number="17" isdata="1">שפגלו במקדש מזידין חייבין:<EndMishna/><StartGemara/>גמ' ת"ר</row>
 		<row row_number="18" isdata="1">היה עושה עמו בטהרות ואמר לו טהרות</row>
 		<row row_number="19" isdata="1">שעשיתי עמך נטמאו היה עושה עמו</row>
 		<row row_number="20" isdata="1">בזבחים וא"ל זבחים שעשיתי עמך נתפגלו</row>

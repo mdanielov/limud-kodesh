@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.035100</dateCreated>
-   <lastModified>2019-12-21 21:42:13.035100</lastModified>
+   <dateCreated>2020-01-06 09:33:09.581296</dateCreated>
+   <lastModified>2020-01-06 09:33:09.581296</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="59">
@@ -29,12 +29,12 @@
 		<row row_number="15" isdata="1">שני קאמרינן והא הוה עזרא הוה נחמיה בן חכליה אמר רב אחא בריה</row>
 		<row row_number="16" isdata="1">דרבא אף אני אומר מימות רבי ועד רב אשי לא מצינו תורה וגדולה במקום</row>
 		<row row_number="17" isdata="1">אחד ולא והא הוה הונא בר נתן שאני הונא בר נתן דמיכף הוה כייף ליה לרב</row>
-		<row row_number="18" isdata="1">אשימתני' חרש רומז ונרמז ובן בתירא אומר קופץ ונקפץ במטלטלין</row>
-		<row row_number="19" isdata="1">הפעוטות מקחן מקח וממכרן ממכר במטלטלין<EndMishna/><StartGemara/>גמ' א"ר נחמן מחלוקת</row>
+		<row row_number="18" isdata="1">אשי<EndGemara/><StartMishna/>מתני' חרש רומז ונרמז ובן בתירא אומר קופץ ונקפץ במטלטלין</row>
+		<row row_number="19" isdata="1">הפעוטות מקחן מקח וממכרן ממכר במטלטלין:<EndMishna/><StartGemara/>גמ' א"ר נחמן מחלוקת</row>
 		<row row_number="20" isdata="1">במטלטלין אבל בגיטין דברי הכל ברמיזה פשיטא במטלטלין תנן מהו</row>
 		<row row_number="21" isdata="1">דתימא אף במטלטלין קמ"ל איכא דאמרי א"ר נחמן כמחלוקת במטלטלין כך</row>
-		<row row_number="22" isdata="1">מחלוקת בגיטין והאנן במטלטלין תנן אימא אף במטלטלין הפעוטות מקחן</row>
-		<row row_number="23" isdata="1">מקח וממכרן ממכר במטלטלין ועד כמה מחוי רב יהודה לרב יצחק בריה</row>
+		<row row_number="22" isdata="1">מחלוקת בגיטין והאנן במטלטלין תנן אימא אף במטלטלין: הפעוטות מקחן</row>
+		<row row_number="23" isdata="1">מקח וממכרן ממכר במטלטלין: ועד כמה מחוי רב יהודה לרב יצחק בריה</row>
 		<row row_number="24" isdata="1">כבר שית כבר שב רב כהנא אמר כבר שב כבר תמני במתניתא תנא כבר</row>
 		<row row_number="25" isdata="1">תשע כבר עשר ולא פליגי כל חד וחד לפי חורפיה וטעמא מאי א"ר אבא</row>
 		<row row_number="26" isdata="1">בר יעקב א"ר יוחנן משום כדי חייו ויאמר לאשר על המלתחה הוצא לבוש</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">מרדכי א"ל זילו אמרו לבר מר לאו הכי הוה עובדא כי הוה קאי מר חד כרעיה</row>
 		<row row_number="34" isdata="1">אארעא וחד כרעיה אדרגא ואמרנא ליה מתנתו מאי ואמר לן מתנתו מתנה</row>
 		<row row_number="35" isdata="1">אחת מתנת שכיב מרע ואחת מתנת בריא אחת מתנה מרובה ואחת מתנה</row>
-		<row row_number="36" isdata="1">מועטתמתני' אלו דברים אמרו מפני דרכי שלום כהן קורא ראשון ואחריו</row>
+		<row row_number="36" isdata="1">מועטת<EndGemara/><StartMishna/>מתני' אלו דברים אמרו מפני דרכי שלום כהן קורא ראשון ואחריו</row>
 		<row row_number="37" isdata="1">לוי ואחריו ישראל מפני דרכי שלום מערבין בבית ישן מפני דרכי שלום</row>
 </amud>
 </daf>

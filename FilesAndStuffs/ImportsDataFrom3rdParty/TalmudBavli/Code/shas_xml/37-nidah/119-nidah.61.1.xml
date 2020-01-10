@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.342282</dateCreated>
-   <lastModified>2019-12-21 21:42:42.342282</lastModified>
+   <dateCreated>2020-01-06 09:35:28.406170</dateCreated>
+   <lastModified>2020-01-06 09:35:28.406170</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="61">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "האשה"/><ContGemara/>כאילו הן ראויותמתני' שלש נשים שהיו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האשה"/><ContGemara/>כאילו הן ראויות:מתני' שלש נשים שהיוכאילו הן ראויות<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">ישנות במטה אחת ונמצא דם תחת האמצעית</row>
 		<row row_number="3" isdata="1">כולן טמאות תחת הפנימית שתים הפנימיות</row>
 		<row row_number="4" isdata="1">טמאות והחיצונה טהורה תחת החיצונה</row>
@@ -30,9 +30,9 @@
 		<row row_number="16" isdata="1">אומר כל דבר שהוא בחזקת טומאה</row>
 		<row row_number="17" isdata="1">לעולם הוא בטומאתו עד שיודע לך טומאה</row>
 		<row row_number="18" isdata="1">היכן היא וחכמים אומרים בודק עד שמגיע</row>
-		<row row_number="19" isdata="1">לסלע או לבתולה<EndMishna/><StartGemara/>גמ' מאי שנא רישא דלא</row>
+		<row row_number="19" isdata="1">לסלע או לבתולה:<EndMishna/><StartGemara/>גמ' מאי שנא רישא דלא</row>
 		<row row_number="20" isdata="1">מפליג ומאי שנא סיפא דקמפליג אמר רבי</row>
-		<row row_number="21" isdata="1">אמי במשולבות בדקה אחת [וכו'] למה</row>
+		<row row_number="21" isdata="1">אמי במשולבות: בדקה אחת [וכו']: למה</row>
 		<row row_number="22" isdata="1">ליה למתני למה זה דומה הכי קאמר להו ר'</row>
 		<row row_number="23" isdata="1">מאיר לרבנן מ"ש בדם דלא פליגיתו ומ"ש</row>
 		<row row_number="24" isdata="1">בגל דפליגיתו ורבנן בשלמא התם אימא</row>

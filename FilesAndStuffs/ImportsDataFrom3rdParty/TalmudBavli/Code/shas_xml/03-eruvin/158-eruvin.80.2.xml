@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:53.550286</dateCreated>
-   <lastModified>2019-12-21 21:41:53.550286</lastModified>
+   <dateCreated>2020-01-06 09:31:22.019888</dateCreated>
+   <lastModified>2020-01-06 09:31:22.019888</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="80">
@@ -17,7 +17,7 @@
 		<row row_number="3" isdata="1">אשירה ור' שמעון בן לקיש אמר עושין קורה</row>
 		<row row_number="4" isdata="1">אשירה מאן דאמר קורה כל שכן לחי ומאן</row>
 		<row row_number="5" isdata="1">דאמר לחי אבל קורה לא כתותי מכתת</row>
-		<row row_number="6" isdata="1">שיעוריהמתני' נתמעט האוכל מוסיף</row>
+		<row row_number="6" isdata="1">שיעוריה<EndGemara/><StartMishna/>מתני' נתמעט האוכל מוסיף</row>
 		<row row_number="7" isdata="1">ומזכה ואין צריך להודיע נתוספו עליהן</row>
 		<row row_number="8" isdata="1">מוסיף ומזכה וצריך להודיע כמה הוא שיעורן</row>
 		<row row_number="9" isdata="1">בזמן שהן מרובין מזון שתי סעודות לכולם</row>
@@ -25,23 +25,23 @@
 		<row row_number="11" isdata="1">אמר ר' יוסי במה דברים אמורים בתחילת</row>
 		<row row_number="12" isdata="1">עירוב אבל בשירי עירוב כל שהוא ולא</row>
 		<row row_number="13" isdata="1">אמרו לערב בחצירות אלא כדי שלא לשכח</row>
-		<row row_number="14" isdata="1">את התינוקות<EndMishna/><StartGemara/>גמ' במאי עסקינן אילימא</row>
+		<row row_number="14" isdata="1">את התינוקות:<EndMishna/><StartGemara/>גמ' במאי עסקינן אילימא</row>
 		<row row_number="15" isdata="1">במין אחד מאי איריא נתמעט אפילו כלה נמי</row>
 		<row row_number="16" isdata="1">אלא בשני מינין אפילו נתמעט נמי לא דתניא</row>
 		<row row_number="17" isdata="1">כלה האוכל ממין אחד אין צריך להודיע מב'</row>
 		<row row_number="18" isdata="1">מינים צריך להודיע איבעית אימא ממין אחד</row>
 		<row row_number="19" isdata="1">ואיבעית אימא משני מינין איבעית אימא</row>
 		<row row_number="20" isdata="1">ממין אחד מאי נתמעט נתמטמט ואיבעית</row>
-		<row row_number="21" isdata="1">אימא משני מינין כלה שאני ניתוספו עליהן</row>
-		<row row_number="22" isdata="1">מוסיף ומזכה וכו' אמר רב שיזבי אמר רב</row>
+		<row row_number="21" isdata="1">אימא משני מינין כלה שאני: ניתוספו עליהן</row>
+		<row row_number="22" isdata="1">מוסיף ומזכה וכו': אמר רב שיזבי אמר רב</row>
 		<row row_number="23" isdata="1">חסדא זאת אומרת חלוקין עליו חביריו על</row>
 		<row row_number="24" isdata="1">ר' יהודה דתנן אמר רבי יהודה במה דברים</row>
 		<row row_number="25" isdata="1">אמורים בעירובי תחומין אבל בעירובי</row>
 		<row row_number="26" isdata="1">חצירות מערבין בין לדעת ובין שלא לדעת</row>
 		<row row_number="27" isdata="1">פשיטא דחלוקין מהו דתימא הני מילי בחצר</row>
 		<row row_number="28" isdata="1">שבין שני מבואות אבל חצר של מבוי אחד</row>
-		<row row_number="29" isdata="1">אימא לא קמשמע לן כמה הוא שיעורו</row>
-		<row row_number="30" isdata="1">וכו' כמה הוא מרובין אמר רב יהודה</row>
+		<row row_number="29" isdata="1">אימא לא קמשמע לן: כמה הוא שיעורו</row>
+		<row row_number="30" isdata="1">וכו': כמה הוא מרובין אמר רב יהודה</row>
 		<row row_number="31" isdata="1">אמר שמואל שמונה עשרה בני אדם שמונה</row>
 		<row row_number="32" isdata="1">עשרה ותו לא אימא משמונה עשרה ואילך</row>
 		<row row_number="33" isdata="1">ומאי שמונה עשרה דנקט אמר רב יצחק</row>
@@ -51,11 +51,11 @@
 		<row row_number="37" isdata="1">הן הן מרובין וסגי במזון שתי סעודות ואי</row>
 		<row row_number="38" isdata="1">לא (הן הן) מועטין נינהו ואגב אורחיה קא</row>
 		<row row_number="39" isdata="1">משמע לן דשתי סעודות הויין שמונה</row>
-		<row row_number="40" isdata="1">עשרה גרוגרותמתני' בכל מערבין</row>
+		<row row_number="40" isdata="1">עשרה גרוגרות<EndGemara/><StartMishna/>מתני' בכל מערבין</row>
 		<row row_number="41" isdata="1">ומשתתפין חוץ מן המים ומן המלח דברי</row>
 		<row row_number="42" isdata="1">ר"א רבי יהושע אומר ככר הוא עירוב</row>
 		<row row_number="43" isdata="1">אפילו מאפה סאה והוא פרוסה אין מערבין</row>
-		<row row_number="44" isdata="1">בה ככר כאיסר והוא שלם מערבין בו</row>
+		<row row_number="44" isdata="1">בה ככר כאיסר והוא שלם מערבין בו:</row>
 </amud>
 </daf>
 </masechet>

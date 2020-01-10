@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.271439</dateCreated>
-   <lastModified>2019-12-21 21:42:16.271439</lastModified>
+   <dateCreated>2020-01-06 09:33:24.902081</dateCreated>
+   <lastModified>2020-01-06 09:33:24.902081</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="49">
@@ -26,7 +26,7 @@
 		<row row_number="12" isdata="1">דמי ולדות ומדרשב"ג לישמע לרבנן אמרי</row>
 		<row row_number="13" isdata="1">לא שבח ולדות דשייכא ידה בגוייהו זכיא</row>
 		<row row_number="14" isdata="1">בהו בכולהו דמי ולדות דלא שייכא ידה</row>
-		<row row_number="15" isdata="1">בגוייהו לא זכיא בהו כלל בעי מיניה רב</row>
+		<row row_number="15" isdata="1">בגוייהו לא זכיא בהו כלל: בעי מיניה רב</row>
 		<row row_number="16" isdata="1">ייבא סבא מר"נ המחזיק בשטרותיו של גר</row>
 		<row row_number="17" isdata="1">מהו מאן דמחזיק בשטרא אדעתיה דארעא</row>
 		<row row_number="18" isdata="1">הוא דמחזיק ובארעא הא לא אחזיק</row>
@@ -46,9 +46,9 @@
 		<row row_number="32" isdata="1">מקני [מצי] קני קניא ליה [נמי] חצירו כל</row>
 		<row row_number="33" isdata="1">היכא דליתיה לדידיה דאי בעי הוא למיקני</row>
 		<row row_number="34" isdata="1">לא מצי קני חצירו נמי לא קניא והלכתא</row>
-		<row row_number="35" isdata="1">דליתיה בחצירו דלא קנהמתני' החופר</row>
+		<row row_number="35" isdata="1">דליתיה בחצירו דלא קנה<EndGemara/><StartMishna/>מתני' החופר</row>
 		<row row_number="36" isdata="1">בור ברה"י ופתחו לרה"ר או ברה"ר ופתחו</row>
-		<row row_number="37" isdata="1">לרה"י ברה"י ופתחו לרה"י אחר חייב</row>
+		<row row_number="37" isdata="1">לרה"י ברה"י ופתחו לרה"י אחר חייב:</row>
 		<row row_number="38" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר החופר בור ברה"י ופתחו לרה"ר</row>
 		<row row_number="39" isdata="1">(ברה"ר ופתחו לרה"י) חייב וזהו בור האמור</row>
 		<row row_number="40" isdata="1">בתורה דברי ר' ישמעאל ר"ע אומר הפקיר</row>

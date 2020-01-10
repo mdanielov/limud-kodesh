@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:10.609983</dateCreated>
-   <lastModified>2019-12-21 21:42:10.609983</lastModified>
+   <dateCreated>2020-01-06 09:32:55.318194</dateCreated>
+   <lastModified>2020-01-06 09:32:55.318194</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="45">
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">עייל אף למחנה לוייה נמי מחוסר כפרה לא</row>
 		<row row_number="11" isdata="1">עייל והתם מנלן דתניא טמא יהיה לרבות</row>
 		<row row_number="12" isdata="1">טבול יום עוד טומאתו בו לרבות מחוסר</row>
-		<row row_number="13" isdata="1">כפרהמתני' תגלחת הטהרה כיצד היה</row>
+		<row row_number="13" isdata="1">כפרה<EndGemara/><StartMishna/>מתני' תגלחת הטהרה כיצד היה</row>
 		<row row_number="14" isdata="1">מביא ג' בהמות חטאת עולה ושלמים ושוחט</row>
 		<row row_number="15" isdata="1">את השלמים ומגלח עליהם דברי רבי יהודה</row>
 		<row row_number="16" isdata="1">רבי אלעזר אומר לא היה מגלח אלא על</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">גלח על אחת משלשתן יצא רשב"ג אומר</row>
 		<row row_number="19" isdata="1">הביא ג' בהמות ולא פירש הראויה לחטאת</row>
 		<row row_number="20" isdata="1">תקרב חטאת לעולה תקרב עולה לשלמים</row>
-		<row row_number="21" isdata="1">תקרב שלמים<EndMishna/><StartGemara/>גמ' ת"ר וגלח הנזיר</row>
+		<row row_number="21" isdata="1">תקרב שלמים:<EndMishna/><StartGemara/>גמ' ת"ר וגלח הנזיר</row>
 		<row row_number="22" isdata="1">פתח אהל מועד וגו' בשלמים הכתוב מדבר</row>
 		<row row_number="23" isdata="1">שנאמר ושחטו פתח אהל מועד אתה</row>
 		<row row_number="24" isdata="1">אומר בשלמים הכתוב מדבר או אינו אלא</row>

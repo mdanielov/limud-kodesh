@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:29.968759</dateCreated>
-   <lastModified>2019-12-21 21:42:29.968759</lastModified>
+   <dateCreated>2020-01-06 09:34:28.549411</dateCreated>
+   <lastModified>2020-01-06 09:34:28.549411</lastModified>
  </meta>
  <masechet name="עבודה זרה" serial="27">
 <daf value="73">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "השוכר את הפועל"/><ContGemara/>איכא דאמרי רבה בר רב הונא גופיה אישתי</row>
-		<row row_number="2" isdata="1">בקנישקניןמתני' יין נסך אסור ואוסר</row>
+		<row row_number="2" isdata="1">בקנישקנין<EndGemara/><StartMishna/>מתני' יין נסך אסור ואוסר</row>
 		<row row_number="3" isdata="1">בכל שהוא יין ביין ומים במים בכל שהוא יין</row>
 		<row row_number="4" isdata="1">במים ומים ביין בנותן טעם זה הכלל מין</row>
-		<row row_number="5" isdata="1">במינו במשהו ושלא במינו בנותן טעם</row>
+		<row row_number="5" isdata="1">במינו במשהו ושלא במינו בנותן טעם:</row>
 		<row row_number="6" isdata="1"><EndMishna/><StartGemara/>גמ' כי אתא רב דימי א"ר יוחנן המערה</row>
 		<row row_number="7" isdata="1">יין נסך מחבית לבור אפילו כל היום כולו</row>
 		<row row_number="8" isdata="1">ראשון ראשון בטל תנן יין נסך אסור ואוסר</row>

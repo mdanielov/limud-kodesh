@@ -6,21 +6,21 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.403154</dateCreated>
-   <lastModified>2019-12-21 21:42:31.403154</lastModified>
+   <dateCreated>2020-01-06 09:34:34.911746</dateCreated>
+   <lastModified>2020-01-06 09:34:34.911746</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="53">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "איזהו מקומן"/><ContGemara/>תנא דבי ר' ישמעאל כרבי שמעון בן יוחי</row>
 		<row row_number="2" isdata="1">אומרים זה וזה יסוד מערבי וסימניך משכו</row>
-		<row row_number="3" isdata="1">גברי לגבראמתני' העולה קדשי קדשים</row>
+		<row row_number="3" isdata="1">גברי לגברא<EndGemara/><StartMishna/>מתני' העולה קדשי קדשים</row>
 		<row row_number="4" isdata="1">שחיטתה בצפון וקיבול דמה בכלי שרת</row>
 		<row row_number="5" isdata="1">בצפון ודמה טעון שתי מתנות שהן ארבע</row>
-		<row row_number="6" isdata="1">וטעונה הפשט וניתוח וכליל לאשים<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="6" isdata="1">וטעונה הפשט וניתוח וכליל לאשים:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="7" isdata="1">עולה מ"ט תני ליה קדשי קדשים משום</row>
-		<row row_number="8" isdata="1">דלא כתיב בה (לה') קדשי קדשים היא</row>
-		<row row_number="9" isdata="1">ודמה טעון שתי מתנות היכי עביד אמר</row>
+		<row row_number="8" isdata="1">דלא כתיב בה (לה') קדשי קדשים היא:</row>
+		<row row_number="9" isdata="1">ודמה טעון שתי מתנות: היכי עביד אמר</row>
 		<row row_number="10" isdata="1">רב נותן וחוזר ונותן ושמואל אמר מתנה</row>
 		<row row_number="11" isdata="1">אחת כמין גמא נותן כתנאי יכול יזרקנו</row>
 		<row row_number="12" isdata="1">זריקה אחת ת"ל סביב אי סביב יכול יקיפנו</row>

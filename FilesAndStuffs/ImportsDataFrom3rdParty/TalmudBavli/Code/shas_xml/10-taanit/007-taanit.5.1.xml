@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.236751</dateCreated>
-   <lastModified>2019-12-21 21:42:01.236751</lastModified>
+   <dateCreated>2020-01-06 09:32:10.606982</dateCreated>
+   <lastModified>2020-01-06 09:32:10.606982</lastModified>
  </meta>
  <masechet name="תענית" serial="10">
 <daf value="5">
@@ -18,10 +18,10 @@
 		<row row_number="4" isdata="1">מונה עשרים ואחד יום כדרך שמונה עשרה</row>
 		<row row_number="5" isdata="1">ימים מר"ה עד יוה"כ ומתחיל וכיון שהתחיל</row>
 		<row row_number="6" isdata="1">שוב אינו פוסק והלכתא כיון שהתחיל שוב</row>
-		<row row_number="7" isdata="1">אינו פוסקמתני' עד מתי שואלין את</row>
+		<row row_number="7" isdata="1">אינו פוסק<EndGemara/><StartMishna/>מתני' עד מתי שואלין את</row>
 		<row row_number="8" isdata="1">הגשמים ר' יהודה אומר עד שיעבור הפסח</row>
 		<row row_number="9" isdata="1">ר' מאיר אומר עד שיצא ניסן שנאמר ויורד</row>
-		<row row_number="10" isdata="1">לכם גשם מורה ומלקוש בראשון<EndMishna/><StartGemara/>גמ' א"ל</row>
+		<row row_number="10" isdata="1">לכם גשם מורה ומלקוש בראשון:<EndMishna/><StartGemara/>גמ' א"ל</row>
 		<row row_number="11" isdata="1">רב נחמן לר' יצחק יורה בניסן יורה</row>
 		<row row_number="12" isdata="1">במרחשון הוא (דתנן) יורה במרחשון</row>
 		<row row_number="13" isdata="1">ומלקוש בניסן א"ל הכי אמר רבי יוחנן בימי</row>

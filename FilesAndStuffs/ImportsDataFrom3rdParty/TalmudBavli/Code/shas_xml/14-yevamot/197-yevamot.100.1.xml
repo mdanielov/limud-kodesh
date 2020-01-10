@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:04.939716</dateCreated>
-   <lastModified>2019-12-21 21:42:04.939716</lastModified>
+   <dateCreated>2020-01-06 09:32:30.950788</dateCreated>
+   <lastModified>2020-01-06 09:32:30.950788</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="100">
@@ -34,11 +34,11 @@
 		<row row_number="20" isdata="1">לדינא קמאי הוה שרינא תיגרא דגברא</row>
 		<row row_number="21" isdata="1">ברישא אמינא דמיחייב במצות כיון דשמענא</row>
 		<row row_number="22" isdata="1">להא שרינא תיגרא דאתתא ברישא מ"ט</row>
-		<row row_number="23" isdata="1">משום זילותא הגדילו התערובות וכו'</row>
+		<row row_number="23" isdata="1">משום זילותא: הגדילו התערובות וכו':</row>
 		<row row_number="24" isdata="1">שיחררו אי בעי אין אי לא בעי לא ואמאי</row>
 		<row row_number="25" isdata="1">לישא שפחה אינו יכול בת חורין אינו יכול</row>
 		<row row_number="26" isdata="1">אמר רבא אימא כופין אותן ומשחררין זה</row>
-		<row row_number="27" isdata="1">את זה נותנין עליהם חומרי וכו' למאי</row>
+		<row row_number="27" isdata="1">את זה: נותנין עליהם חומרי וכו': למאי</row>
 		<row row_number="28" isdata="1">הלכתא אמר רב פפא למנחתם נקמצת</row>
 		<row row_number="29" isdata="1">כמנחת ישראל ואינה נאכלת כמנחת</row>
 		<row row_number="30" isdata="1">כהנים הא כיצד הקומץ קרב בעצמו והשירים</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">שמעון דתניא ר' אלעזר בר' שמעון אומר הקומץ קרב לעצמו והשירים</row>
 		<row row_number="38" isdata="1">מתפזרין על בית הדשן ואפילו רבנן לא פליגי עליה דרבי אלעזר ברבי</row>
 		<row row_number="39" isdata="1">שמעון אלא במנחת חוטא של כהנים דבת הקרבה היא אבל הכא אפי' רבנן</row>
-		<row row_number="40" isdata="1">מודומתני' מי שלא שהתה אחר בעלה שלשה חדשים ונשאת וילדה</row>
+		<row row_number="40" isdata="1">מודו<EndGemara/><StartMishna/>מתני' מי שלא שהתה אחר בעלה שלשה חדשים ונשאת וילדה</row>
 		<row row_number="41" isdata="1">ואין ידוע אם בן תשעה לראשון אם בן שבעה לאחרון היו לה בנים מן</row>
 		<row row_number="42" isdata="1">הראשון ובנים מן השני חולצין ולא מייבמין וכן הוא להם חולץ ולא מייבם</row>
 </amud>

@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.469755</dateCreated>
-   <lastModified>2019-12-21 21:42:00.469755</lastModified>
+   <dateCreated>2020-01-06 09:32:05.064430</dateCreated>
+   <lastModified>2020-01-06 09:32:05.064430</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="30">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "המביא"/><ContMishna/>בערמת התבן אבל לא בעצים שבמוקצה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המביא"/><ContMishna/>בערמת התבן אבל לא בעצים שבמוקצה:</row>
 		<row row_number="2" isdata="1"><EndMishna/><StartGemara/>גמ' תנא אם אי אפשר לשנות מותר</row>
 		<row row_number="3" isdata="1">אתקין רבא במחוזא דדרו בדוחקא</row>
 		<row row_number="4" isdata="1">לדרו ברגלא דדרו ברגלא לדרו באגרא</row>
@@ -46,8 +46,8 @@
 		<row row_number="32" isdata="1">לא ולא היא לא שנא בדאורייתא ולא שנא</row>
 		<row row_number="33" isdata="1">בדרבנן לא אמרינן להו ולא מידי דהא</row>
 		<row row_number="34" isdata="1">תוספת יום הכפורים דאורייתא הוא ואכלי</row>
-		<row row_number="35" isdata="1">ושתו עד שחשכה ולא אמרינן להו ולא מידי</row>
-		<row row_number="36" isdata="1">ומתחילין בערמת התבן אמר רב כהנא</row>
+		<row row_number="35" isdata="1">ושתו עד שחשכה ולא אמרינן להו ולא מידי:</row>
+		<row row_number="36" isdata="1">ומתחילין בערמת התבן: אמר רב כהנא</row>
 		<row row_number="37" isdata="1">זאת אומרת מתחילין באוצר תחלה מני ר'</row>
 		<row row_number="38" isdata="1">שמעון היא דלית ליה מוקצה אימא סיפא</row>
 		<row row_number="39" isdata="1">אבל לא בעצים שבמוקצה אתאן לר' יהודה</row>
@@ -59,7 +59,7 @@
 		<row row_number="45" isdata="1">רבי יהודה היא דאית ליה מוקצה אימא</row>
 		<row row_number="46" isdata="1">רישא מתחילין בערמת התבן אתאן לר"ש</row>
 		<row row_number="47" isdata="1">דלית ליה מוקצה התם בתבנא סריא תבנא</row>
-		<row row_number="48" isdata="1">סריא הא חזי לטינא דאית ביה קוצים</row>
+		<row row_number="48" isdata="1">סריא הא חזי לטינא דאית ביה קוצים:</row>
 </amud>
 </daf>
 </masechet>

@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:36.946576</dateCreated>
-   <lastModified>2019-12-21 21:42:36.946576</lastModified>
+   <dateCreated>2020-01-06 09:34:58.323777</dateCreated>
+   <lastModified>2020-01-06 09:34:58.323777</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="74">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContGemara/>ר"ש שזורי אומר אפילו בן חמש שנים וחורש</row>
+		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContMishna/>ר"ש שזורי אומר אפילו בן חמש שנים וחורש</row>
 		<row row_number="2" isdata="1">בשדה שחיטת אמו מטהרתו קרעה ומצא</row>
 		<row row_number="3" isdata="1">בה בן ט' חי טעון שחיטה לפי שלא נשחטה</row>
-		<row row_number="4" isdata="1">אמו<EndMishna/><StartGemara/>גמ' א"ר אלעזר א"ר אושעיא לא</row>
+		<row row_number="4" isdata="1">אמו:<EndMishna/><StartGemara/>גמ' א"ר אלעזר א"ר אושעיא לא</row>
 		<row row_number="5" isdata="1">הילכו בו אלא על עסקי שחיטה בלבד</row>
 		<row row_number="6" isdata="1">למעוטי מאי למעוטי חלבו וגידו חלבו דמאי</row>
 		<row row_number="7" isdata="1">אילימא חלבו דשליל מפלג פליגי דתניא</row>

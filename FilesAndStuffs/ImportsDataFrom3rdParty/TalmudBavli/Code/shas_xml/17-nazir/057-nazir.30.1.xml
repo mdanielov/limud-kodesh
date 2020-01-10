@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:10.266985</dateCreated>
-   <lastModified>2019-12-21 21:42:10.266985</lastModified>
+   <dateCreated>2020-01-06 09:32:53.843627</dateCreated>
+   <lastModified>2020-01-06 09:32:53.843627</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="30">
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">עד שיגיע לעונת נדרים אלא לרבי דאמר</row>
 		<row row_number="7" isdata="1">עד שיביא שתי שערות מאי איכא למימר</row>
 		<row row_number="8" isdata="1">אמרי לרבי ליכא תקנתא עד דיתיב דיליה</row>
-		<row row_number="9" isdata="1">ויתיב דאבוהימתני' האיש מגלח על</row>
+		<row row_number="9" isdata="1">ויתיב דאבוהי<EndGemara/><StartMishna/>מתני' האיש מגלח על</row>
 		<row row_number="10" isdata="1">נזירות אביו ואין האשה מגלחת על נזירות</row>
 		<row row_number="11" isdata="1">אביה כיצד מי שהיה אביו נזיר והפריש</row>
 		<row row_number="12" isdata="1">מעות סתומים על נזירותו ומת ואמר הריני</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">על נזירות אביו איזהו שמגלח על נזירות אביו</row>
 		<row row_number="16" isdata="1">מי שהיה הוא ואביו נזירים והפריש אביו</row>
 		<row row_number="17" isdata="1">מעות סתומים לנזירותו ומת זה הוא שמגלח</row>
-		<row row_number="18" isdata="1">על נזירות אביו<EndMishna/><StartGemara/>גמ' מ"ט אמר ר' יוחנן</row>
+		<row row_number="18" isdata="1">על נזירות אביו:<EndMishna/><StartGemara/>גמ' מ"ט אמר ר' יוחנן</row>
 		<row row_number="19" isdata="1">הלכה היא בנזיר פשיטא מאי למימרא דבן</row>
 		<row row_number="20" isdata="1">יורש את אביו בת לא לא צריכא דלית</row>
 		<row row_number="21" isdata="1">ליה אלא בת מהו דתימא יורשין גמירין לה</row>

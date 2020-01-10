@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.655376</dateCreated>
-   <lastModified>2019-12-21 21:42:32.655376</lastModified>
+   <dateCreated>2020-01-06 09:34:40.286406</dateCreated>
+   <lastModified>2020-01-06 09:34:40.286406</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="111">
@@ -16,9 +16,9 @@
 		<row row_number="2" isdata="1">הכשירו בפנים פטורו בחוץ דרך הכשירו</row>
 		<row row_number="3" isdata="1">מבחוץ פטורו בפנים ר"ש אומר כל שחייבין</row>
 		<row row_number="4" isdata="1">עליו בחוץ חייבין על כיוצא בו בפנים שהעלה</row>
-		<row row_number="5" isdata="1">בחוץ חוץ מן השוחט בפנים ומעלה בחוץ</row>
-		<row row_number="6" isdata="1"><EndMishna/><StartGemara/>גמ' האי הכשירו חיובו הוא תני חיובו</row>
-		<row row_number="7" isdata="1">ר"ש אומר [וכו'] אהיכא קאי אילימא ארישא קאי המולק עוף בפנים</row>
+		<row row_number="5" isdata="1">בחוץ חוץ מן השוחט בפנים ומעלה בחוץ:</row>
+		<row row_number="6" isdata="1"><EndMishna/><StartGemara/>גמ' האי הכשירו חיובו הוא תני חיובו:</row>
+		<row row_number="7" isdata="1">ר"ש אומר [וכו']: אהיכא קאי אילימא ארישא קאי המולק עוף בפנים</row>
 		<row row_number="8" isdata="1">והעלה בחוץ חייב מלק בחוץ והעלה בחוץ פטור וא"ל ר"ש כי היכי</row>
 		<row row_number="9" isdata="1">דפנים מיחייב בחוץ נמי מיחייב האי כל שחייבין עליו בחוץ כל שחייבין</row>
 		<row row_number="10" isdata="1">עליו בפנים מיבעי ליה אלא כי היכי דבחוץ לא מיחייב בפנים נמי לא</row>
@@ -36,7 +36,7 @@
 		<row row_number="22" isdata="1">בפנים והעלו בחוץ חוץ מן השוחט עוף בפנים והעלו בחוץ השתא דתני</row>
 		<row row_number="23" isdata="1">אבוה דשמואל בר רב יצחק המולק עוף בפנים והעלו בחוץ חייב מלק</row>
 		<row row_number="24" isdata="1">בחוץ והעלה בחוץ פטור ור"ש מיחייב ר"ש התם קאי ותני כל שחייבין</row>
-		<row row_number="25" isdata="1">עליו בפנים והעלה בחוץ חייבין עליו בחוץמתני' חטאת שקבל דמה</row>
+		<row row_number="25" isdata="1">עליו בפנים והעלה בחוץ חייבין עליו בחוץ<EndGemara/><StartMishna/>מתני' חטאת שקבל דמה</row>
 		<row row_number="26" isdata="1">בכוס אחד נתן בחוץ וחזר ונתן בפנים בפנים וחזר ונתן בחוץ חייב שכולו</row>
 		<row row_number="27" isdata="1">ראוי בפנים קבל דמה בשתי כוסות נתן שניהם בפנים פטור שניהם</row>
 		<row row_number="28" isdata="1">בחוץ חייב אחד בפנים ואחד בחוץ פטור אחד בחוץ ואחד בפנים</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">והפריש אחרת תחתיה ואח"כ נמצאת הראשונה והרי שתיהן עומדות שחט</row>
 		<row row_number="31" isdata="1">שתיהן בפנים פטור שתיהן בחוץ חייב אחת בפנים ואחת בחוץ פטור</row>
 		<row row_number="32" isdata="1">אחת בחוץ ואחת בפנים חייב על החיצונה והפנימית מכפרת כשם</row>
-		<row row_number="33" isdata="1">שדמה פוטר את בשרה כך היא פוטרת את בשר חבירתה</row>
+		<row row_number="33" isdata="1">שדמה פוטר את בשרה כך היא פוטרת את בשר חבירתה:</row>
 </amud>
 </daf>
 </masechet>

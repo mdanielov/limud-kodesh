@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:03.189005</dateCreated>
-   <lastModified>2019-12-21 21:42:03.189005</lastModified>
+   <dateCreated>2020-01-06 09:32:22.452583</dateCreated>
+   <lastModified>2020-01-06 09:32:22.452583</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="17">
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">פסולי דתרמוד משום עבדי שלמה והיינו</row>
 		<row row_number="33" isdata="1">דאמרי אינשי קבא רבא וקבא זוטא</row>
 		<row row_number="34" isdata="1">מיגנדר ואזיל לשאול ומשאול לתרמוד</row>
-		<row row_number="35" isdata="1">ומתרמוד למישן וממישן להרפניא<EndChapter name = "חמש עשרה נשים"/><EndGemara/></row>
+		<row row_number="35" isdata="1">ומתרמוד למישן וממישן להרפניא:<EndChapter name = "חמש עשרה נשים"/><EndGemara/></row>
 		<row row_number="36" isdata="0">הדרן עלך חמש עשרה נשים</row>
 		<row row_number="37" isdata="1"><StartChapter name = "כיצד אשת אחיו"/><StartMishna/>כיצד אשת אחיו שלא היה בעולמו</row>
 		<row row_number="38" isdata="1">שני אחים ומת אחד מהן ונולד</row>
@@ -54,7 +54,7 @@
 		<row row_number="40" isdata="1">אחיו ומת הראשונה יוצאה משום אשת</row>
 		<row row_number="41" isdata="1">אחיו שלא היה בעולמו והשניה משום</row>
 		<row row_number="42" isdata="1">צרתה עשה בה מאמר ומת שניה</row>
-		<row row_number="43" isdata="1">חולצת ולא מתייבמת<EndMishna/><StartGemara/>גמ' אמר רב</row>
+		<row row_number="43" isdata="1">חולצת ולא מתייבמת:<EndMishna/><StartGemara/>גמ' אמר רב</row>
 		<row row_number="44" isdata="1">נחמן מאן דתני ראשונה לא משתבש מאן</row>
 		<row row_number="45" isdata="1">דתני שניה לא משתבש מאן דתני</row>
 </amud>

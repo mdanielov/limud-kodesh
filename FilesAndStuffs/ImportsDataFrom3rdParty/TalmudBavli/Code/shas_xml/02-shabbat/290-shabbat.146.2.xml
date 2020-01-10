@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:51.251309</dateCreated>
-   <lastModified>2019-12-21 21:41:51.251309</lastModified>
+   <dateCreated>2020-01-06 09:31:13.167708</dateCreated>
+   <lastModified>2020-01-06 09:31:13.167708</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="146">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "חבית"/><ContGemara/>משום ריחשא וי"א אין מוסיפים זימנין דלא</row>
 		<row row_number="2" isdata="1">תקניה מעיקרא ואתי לארוחי ביה דרש רב</row>
-		<row row_number="3" isdata="1">נחמן משום רבי יוחנן הלכה כיש אומרים</row>
-		<row row_number="4" isdata="1">ושוין שנוקבין נקב ישן לכתחלה אמר רב</row>
+		<row row_number="3" isdata="1">נחמן משום רבי יוחנן הלכה כיש אומרים:</row>
+		<row row_number="4" isdata="1">ושוין שנוקבין נקב ישן לכתחלה: אמר רב</row>
 		<row row_number="5" isdata="1">יהודה אמר שמואל לא שנו אלא במקום</row>
 		<row row_number="6" isdata="1">העשוי לשמר אבל לחזק אסור היכי דמי</row>
 		<row row_number="7" isdata="1">לשמר היכי דמי לחזק א"ר חסדא למעלה</row>
@@ -38,8 +38,8 @@
 		<row row_number="24" isdata="1">ת"ק נמי מישרא קשרי אלא דחתיכה ולא</row>
 		<row row_number="25" isdata="1">מתקנא איכא בינייהו מ"ס גזרינן ומ"ס לא</row>
 		<row row_number="26" isdata="1">גזרינן דרש רב שישא בריה דרב אידי משמיה</row>
-		<row row_number="27" isdata="1">דר' יוחנן הלכה כר' יאשיה ואם היתה</row>
-		<row row_number="28" isdata="1">נקובה וכו' מישחא רב אסר ושמואל שרי</row>
+		<row row_number="27" isdata="1">דר' יוחנן הלכה כר' יאשיה: ואם היתה</row>
+		<row row_number="28" isdata="1">נקובה וכו': מישחא רב אסר ושמואל שרי</row>
 		<row row_number="29" isdata="1">מאן דאסר גזרינן משום שעוה ומאן דשרי</row>
 		<row row_number="30" isdata="1">לא גזרינן אמר ליה רב שמואל בר בר</row>
 		<row row_number="31" isdata="1">חנה לרב יוסף בפירוש אמרת לן משמיה</row>
@@ -58,15 +58,15 @@
 		<row row_number="44" isdata="1">לא יתיב מאן דחזא סבר משום דבי סדיא</row>
 		<row row_number="45" isdata="1">אסור ולא היא דרב אכרוזי מכריז בי סדיא</row>
 		<row row_number="46" isdata="1">שרי ומשום כבוד רבותינו לא ישב עליו ומאן</row>
-		<row row_number="47" isdata="1">נינהו רב כהנא ורב אסימתני' נותנין</row>
+		<row row_number="47" isdata="1">נינהו רב כהנא ורב אסי<EndGemara/><StartMishna/>מתני' נותנין</row>
 		<row row_number="48" isdata="1">תבשיל לתוך הבור בשביל שיהא שמור</row>
 		<row row_number="49" isdata="1">ואת המים היפים ברעים בשביל שיצננו</row>
 		<row row_number="50" isdata="1">ואת הצונן בחמה בשביל שיחמו מי</row>
 		<row row_number="51" isdata="1">שנשרו כליו בדרך במים מהלך בהן ואינו</row>
-		<row row_number="52" isdata="1">חושש הגיע לחצר החיצונה שוטחן בחמה אבל לא כנגד העם<EndMishna/><StartGemara/>גמ' פשיטא</row>
-		<row row_number="53" isdata="1">מהו דתימא ניגזר משום אשוויי גומות קא משמע לן ואת המים היפים</row>
-		<row row_number="54" isdata="1">ברעים פשיטא סיפא איצטריכא ליה ואת הצונן בחמה הא נמי פשיטא</row>
-		<row row_number="55" isdata="1">מהו דתימא ניגזור דילמא אתי לאטמוני ברמץ קמ"ל מי שנשרו וכו'</row>
+		<row row_number="52" isdata="1">חושש הגיע לחצר החיצונה שוטחן בחמה אבל לא כנגד העם:<EndMishna/><StartGemara/>גמ' פשיטא</row>
+		<row row_number="53" isdata="1">מהו דתימא ניגזר משום אשוויי גומות קא משמע לן: ואת המים היפים</row>
+		<row row_number="54" isdata="1">ברעים: פשיטא סיפא איצטריכא ליה ואת הצונן בחמה הא נמי פשיטא</row>
+		<row row_number="55" isdata="1">מהו דתימא ניגזור דילמא אתי לאטמוני ברמץ קמ"ל: מי שנשרו וכו':</row>
 		<row row_number="56" isdata="1">אמר רב יהודה אמר רב כל מקום שאסרו חכמים מפני מראית העין</row>
 		<row row_number="57" isdata="1">אפילו בחדרי חדרים אסור תנן שוטחן בחמה אבל לא כנגד העם תנאי</row>
 		<row row_number="58" isdata="1">היא דתניא שוטחן בחמה אבל לא כנגד העם ר"א ור"ש אוסרין אמר רב הונא</row>

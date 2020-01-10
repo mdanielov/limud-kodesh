@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.614735</dateCreated>
-   <lastModified>2019-12-21 21:42:31.614735</lastModified>
+   <dateCreated>2020-01-06 09:34:35.805760</dateCreated>
+   <lastModified>2020-01-06 09:34:35.805760</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="63">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "קדשי קדשים"/><ContGemara/>ומקיפין ויורדין דרך שמאל חוץ מן העולה</row>
-		<row row_number="2" isdata="1">לג' אלו שהיו עולין ויורדין על העקב</row>
+		<row row_number="1" isdata="1"><ContChapter name = "קדשי קדשים"/><ContMishna/>ומקיפין ויורדין דרך שמאל חוץ מן העולה</row>
+		<row row_number="2" isdata="1">לג' אלו שהיו עולין ויורדין על העקב:</row>
 		<row row_number="3" isdata="1"><EndMishna/><StartGemara/>גמ' מנא ה"מ א"ר יהושע אמר קרא לא</row>
 		<row row_number="4" isdata="1">ישים עליה שמן ולא יתן עליה לבונה כי</row>
 		<row row_number="5" isdata="1">חטאת היא חטאת קרויה מנחה ומנחה</row>
@@ -34,8 +34,8 @@
 		<row row_number="20" isdata="1">במערב היכן קיימת אל פני המזבח וכשאתה</row>
 		<row row_number="21" isdata="1">אומר אל פני המזבח בדרום קיימת לפני ה'</row>
 		<row row_number="22" isdata="1">בדרום היכן קיימת אמר רב אשי קסבר האי</row>
-		<row row_number="23" isdata="1">תנא כוליה מזבח בצפון קאי בכל מקום</row>
-		<row row_number="24" isdata="1">היתה כשירה [וכו'] מאי קאמר אמר רב אשי</row>
+		<row row_number="23" isdata="1">תנא כוליה מזבח בצפון קאי: בכל מקום</row>
+		<row row_number="24" isdata="1">היתה כשירה [וכו']: מאי קאמר אמר רב אשי</row>
 		<row row_number="25" isdata="1">ה"ק בכל מקום היתה כשירה למליקתה אלא</row>
 		<row row_number="26" isdata="1">זה היה מקומה להזאתה תנינא להא דת"ר</row>
 		<row row_number="27" isdata="1">מלקה בכל מקום במזבח כשירה היזה</row>

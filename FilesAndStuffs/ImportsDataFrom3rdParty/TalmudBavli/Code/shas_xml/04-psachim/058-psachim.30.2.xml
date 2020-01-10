@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.895285</dateCreated>
-   <lastModified>2019-12-21 21:41:54.895285</lastModified>
+   <dateCreated>2020-01-06 09:31:27.670130</dateCreated>
+   <lastModified>2020-01-06 09:31:27.670130</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="30">
@@ -53,9 +53,9 @@
 		<row row_number="39" isdata="1">רב אשי ובית חרוסת כבית שאור שחימוצו</row>
 		<row row_number="40" isdata="1">קשה דמי אמר רבא הני אגני דמחוזא הואיל ותדירי למילש בהו חמירא</row>
 		<row row_number="41" isdata="1">ומשהו בהו חמירא כבית שאור שחימוצו קשה דמי פשיטא מהו דתימא</row>
-		<row row_number="42" isdata="1">כיון דרויחא שליט בהו אוירא ולא בלעי קמ"למתני' נכרי שהלוה</row>
+		<row row_number="42" isdata="1">כיון דרויחא שליט בהו אוירא ולא בלעי קמ"ל<EndGemara/><StartMishna/>מתני' נכרי שהלוה</row>
 		<row row_number="43" isdata="1">את ישראל על חמצו אחר הפסח מותר בהנאה וישראל שהלוה את</row>
-		<row row_number="44" isdata="1">נכרי על חמצו אחר הפסח אסור בהנאה<EndMishna/><StartGemara/>גמ' איתמר בעל חוב</row>
+		<row row_number="44" isdata="1">נכרי על חמצו אחר הפסח אסור בהנאה:<EndMishna/><StartGemara/>גמ' איתמר בעל חוב</row>
 		<row row_number="45" isdata="1">אביי אמר למפרע הוא גובה ורבא אמר מכאן ולהבא הוא גובה כל</row>
 		<row row_number="46" isdata="1">היכא דאקדיש לוה וזבין לוה כולי עלמא לא פליגי דאתי מלוה וטריף</row>
 </amud>

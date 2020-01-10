@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.534804</dateCreated>
-   <lastModified>2019-12-21 21:42:32.534804</lastModified>
+   <dateCreated>2020-01-06 09:34:39.696302</dateCreated>
+   <lastModified>2020-01-06 09:34:39.696302</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="106">
@@ -30,7 +30,7 @@
 		<row row_number="16" isdata="1">מטמאין בגדים רבי שמעון אומר אותם</row>
 		<row row_number="17" isdata="1">מטמאין בגדים ניתך הבשר אין מטמאין</row>
 		<row row_number="18" isdata="1">בגדים מאי בינייהו אמר רבא איכא בינייהו</row>
-		<row row_number="19" isdata="1">דשוייה חרוכא<EndChapter name = "טבול יום"/><EndGemara/></row>
+		<row row_number="19" isdata="1">דשוייה חרוכא:<EndChapter name = "טבול יום"/><EndGemara/></row>
 		<row row_number="20" isdata="0">הדרן עלך טבול יום</row>
 		<row row_number="21" isdata="1"><StartChapter name = "השוחט והמעלה"/><StartMishna/>השוחט והמעלה בחוץ חייב על השחיטה</row>
 		<row row_number="22" isdata="1">וחייב על העלאה רבי יוסי הגלילי</row>
@@ -43,7 +43,7 @@
 		<row row_number="29" isdata="1">שאכל טמא פטור שלא אכל אלא דבר טמא</row>
 		<row row_number="30" isdata="1">אמרו לו אף טמא שאכל את הטהור כיון</row>
 		<row row_number="31" isdata="1">שנגע בו טמאוהו וטהור שאכל טמא פטור</row>
-		<row row_number="32" isdata="1">שאינו חייב אלא על טומאת הגוף<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="32" isdata="1">שאינו חייב אלא על טומאת הגוף:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="33" isdata="1">בשלמא העלה כתיב עונש וכתיב אזהרה</row>
 		<row row_number="34" isdata="1">עונש דכתיב ואל פתח אהל מועד לא</row>
 		<row row_number="35" isdata="1">הביאו אזהרה דכתיב השמר לך פן תעלה</row>

@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.558750</dateCreated>
-   <lastModified>2019-12-21 21:42:00.558750</lastModified>
+   <dateCreated>2020-01-06 09:32:05.525908</dateCreated>
+   <lastModified>2020-01-06 09:32:05.525908</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="34">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "המביא"/><ContGemara/>ערב שבת בשביעית ואומר מכאן אני אוכל</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המביא"/><ContMishna/>ערב שבת בשביעית ואומר מכאן אני אוכל</row>
 		<row row_number="2" isdata="1">למחר וחכמים אומרים עד שירשום ויאמר</row>
-		<row row_number="3" isdata="1">מכאן ועד כאן<EndMishna/><StartGemara/>גמ' תנן התם תינוקות</row>
+		<row row_number="3" isdata="1">מכאן ועד כאן:<EndMishna/><StartGemara/>גמ' תנן התם תינוקות</row>
 		<row row_number="4" isdata="1">שטמנו תאנים מערב שבת ושכחו ולא</row>
 		<row row_number="5" isdata="1">עשרו למוצאי שבת לא יאכלו אלא אם כן</row>
 		<row row_number="6" isdata="1">עשרו ותנן נמי המעביר תאנים בחצרו</row>

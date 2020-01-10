@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:18.307902</dateCreated>
-   <lastModified>2019-12-21 21:42:18.307902</lastModified>
+   <dateCreated>2020-01-06 09:33:33.730856</dateCreated>
+   <lastModified>2020-01-06 09:33:33.730856</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="24">
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">אסי סבר לה כוותיה בחדא ופליג עליה</row>
 		<row row_number="12" isdata="1">בחדא וכי מאחר דאסירא בהנאה מותרת</row>
 		<row row_number="13" isdata="1">משום מציאה למאי הלכתא אמר רב אשי</row>
-		<row row_number="14" isdata="1">לקנקנה ההוא גברא דאשכח ארבעה זוזי</row>
+		<row row_number="14" isdata="1">לקנקנה: ההוא גברא דאשכח ארבעה זוזי</row>
 		<row row_number="15" isdata="1">דציירי בסדינא ושדו בנהר בירן אתא לקמיה</row>
 		<row row_number="16" isdata="1">דרב יהודה א"ל זיל אכריז והא זוטו של ים</row>
 		<row row_number="17" isdata="1">הוא שאני נהר בירן כיון דמתקיל לא מיאש</row>
@@ -49,7 +49,7 @@
 		<row row_number="35" isdata="1">בשוקא ושדיה בצנייתא דבי בר מריון אתא לקמיה דאביי א"ל זיל שקול</row>
 		<row row_number="36" isdata="1">לנפשך והא רובא דישראל נינהו שמעת מינה הלכה כרבי שמעון בן אלעזר</row>
 		<row row_number="37" isdata="1">אפי' ברוב ישראל שאני דיו דכזוטו של ים דמי והא אמר רב בשר שנתעלם</row>
-		<row row_number="38" isdata="1">מן העין אסור בעומד ורואהו ר' חנינא מצא גדי שחוט בין טבריא לציפורי</row>
+		<row row_number="38" isdata="1">מן העין אסור בעומד ורואהו: ר' חנינא מצא גדי שחוט בין טבריא לציפורי</row>
 		<row row_number="39" isdata="1">והתירוהו לו אמר רבי אמי התירוהו לו משום מציאה כר"ש בן אלעזר משום</row>
 		<row row_number="40" isdata="1">שחיטה כרבי חנניא בנו של רבי יוסי הגלילי דתניא הרי שאבדו לו גדייו</row>
 		<row row_number="41" isdata="1">ותרנגוליו והלך ומצאן שחוטין ר' יהודה אוסר ורבי חנניא בנו של רבי יוסי</row>
@@ -60,7 +60,7 @@
 		<row row_number="46" isdata="1">שחוטות בין טבריא לציפורי אתא לקמיה דר' אסי ואמרי לה לקמיה דר' יוחנן</row>
 		<row row_number="47" isdata="1">ואמרי לה בי מדרשא ואמרו ליה זיל שקול לנפשך רבי יצחק נפחא אשכח</row>
 		<row row_number="48" isdata="1">קיבורא דאזלי ביה אזלויי אתא לקמיה דר' יוחנן ואמרי לה בבי מדרשא ואמרו</row>
-		<row row_number="49" isdata="1">ליה זיל שקול לנפשךמתני' ואלו חייב להכריז מצא פירות בכלי או</row>
+		<row row_number="49" isdata="1">ליה זיל שקול לנפשך<EndGemara/><StartMishna/>מתני' ואלו חייב להכריז מצא פירות בכלי או</row>
 		<row row_number="50" isdata="1">כלי כמות שהוא מעות בכיס או כיס כמות שהוא צבורי פירות צבורי מעות</row>
 </amud>
 </daf>

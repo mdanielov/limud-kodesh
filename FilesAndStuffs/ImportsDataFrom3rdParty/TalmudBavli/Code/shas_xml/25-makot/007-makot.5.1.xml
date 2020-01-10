@@ -6,24 +6,24 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.465180</dateCreated>
-   <lastModified>2019-12-21 21:42:27.465180</lastModified>
+   <dateCreated>2020-01-06 09:34:15.759085</dateCreated>
+   <lastModified>2020-01-06 09:34:15.759085</lastModified>
  </meta>
  <masechet name="מכות" serial="25">
 <daf value="5">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כיצד העדים"/><ContGemara/>להכרזה ורבי מאיר הכרזה מישמעו ויראו</row>
-		<row row_number="2" isdata="1">נפקאמתני' משלשין בממון ואין משלשין</row>
+		<row row_number="2" isdata="1">נפקא<EndGemara/><StartMishna/>מתני' משלשין בממון ואין משלשין</row>
 		<row row_number="3" isdata="1">במכות כיצד העידוהו שהוא חייב לחבירו</row>
 		<row row_number="4" isdata="1">מאתים זוז ונמצאו זוממין משלשין ביניהם</row>
 		<row row_number="5" isdata="1">אבל אם העידוהו שהוא חייב מלקות ארבעים</row>
-		<row row_number="6" isdata="1">ונמצאו זוממין כל אחד ואחד לוקה ארבעים</row>
+		<row row_number="6" isdata="1">ונמצאו זוממין כל אחד ואחד לוקה ארבעים:</row>
 		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' מנא ה"מ אמר אביי נאמר רשע בחייבי</row>
 		<row row_number="8" isdata="1">מלקיות ונאמר רשע בחייבי מיתות ב"ד מה</row>
 		<row row_number="9" isdata="1">להלן אין מיתה למחצה אף כאן אין מלקות</row>
 		<row row_number="10" isdata="1">למחצה רבא אמר בעינן כאשר זמם לעשות</row>
 		<row row_number="11" isdata="1">לאחיו וליכא אי הכי ממון נמי ממון מצטרף</row>
-		<row row_number="12" isdata="1">מלקות לא מצטרףמתני' אין העדים</row>
+		<row row_number="12" isdata="1">מלקות לא מצטרף<EndGemara/><StartMishna/>מתני' אין העדים</row>
 		<row row_number="13" isdata="1">נעשים זוממין עד שיזימו את עצמן כיצד</row>
 		<row row_number="14" isdata="1">אמרו מעידין אנו באיש פלוני שהרג את</row>
 		<row row_number="15" isdata="1">הנפש אמרו להם היאך אתם מעידין שהרי</row>
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">אותו היום במקום פלוני הרי אלו זוממין</row>
 		<row row_number="20" isdata="1">ונהרגין על פיהם באו אחרים והזימום באו</row>
 		<row row_number="21" isdata="1">אחרים והזימום אפי' מאה כולם יהרגו רבי</row>
-		<row row_number="22" isdata="1">יהודה אומר איסטטית היא זו ואינו נהרג אלא כת הראשונה בלבד</row>
+		<row row_number="22" isdata="1">יהודה אומר איסטטית היא זו ואינו נהרג אלא כת הראשונה בלבד:</row>
 		<row row_number="23" isdata="1"><EndMishna/><StartGemara/>גמ' מנא הני מילי אמר רב אדא דאמר קרא והנה עד שקר העד שקר ענה</row>
 		<row row_number="24" isdata="1">עד שתשקר גופה של עדות דבי ר' ישמעאל תנא לענות בו סרה עד שתסרה</row>
 		<row row_number="25" isdata="1">גופה של עדות אמר רבא באו שנים ואמרו במזרח בירה הרג פלוני את הנפש</row>
@@ -59,7 +59,7 @@
 		<row row_number="45" isdata="1">ומכר ונגמר דינו ובאו שנים ואמרו בחד בשבתא עמנו הייתם אלא ערב שבת</row>
 		<row row_number="46" isdata="1">גנב וטבח ומכר ונגמר דינו ולא עוד אלא אפי' אמרו בחד בשבתא גנב</row>
 		<row row_number="47" isdata="1">וטבח ומכר ובתרי בשבתא נגמר דינו אין משלמין דבעידנא דקא</row>
-		<row row_number="48" isdata="1">מסהדי גברא בר תשלומין הוא רבי יהודה אומר איסטטית היא זו כו'</row>
+		<row row_number="48" isdata="1">מסהדי גברא בר תשלומין הוא: רבי יהודה אומר איסטטית היא זו כו':</row>
 </amud>
 </daf>
 </masechet>

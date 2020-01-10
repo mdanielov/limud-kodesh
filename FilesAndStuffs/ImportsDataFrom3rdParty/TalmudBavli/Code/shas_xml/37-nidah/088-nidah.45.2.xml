@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:42.061287</dateCreated>
-   <lastModified>2019-12-21 21:42:42.061287</lastModified>
+   <dateCreated>2020-01-06 09:35:26.908643</dateCreated>
+   <lastModified>2020-01-06 09:35:26.908643</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="45">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "יוצא דופן"/><ContGemara/>לכשיגדיל יבעול ויתן גטמתני' בת</row>
+		<row row_number="1" isdata="1"><ContChapter name = "יוצא דופן"/><ContGemara/>לכשיגדיל יבעול ויתן גט:מתני' בתלכשיגדיל יבעול ויתן גט<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">אחת עשרה שנה ויום א' נדריה נבדקין בת</row>
 		<row row_number="3" isdata="1">שתים עשרה שנה ויום א' נדריה קיימין ובודקין</row>
 		<row row_number="4" isdata="1">כל שתים עשרה בן שתים עשרה שנה ויום</row>
@@ -22,7 +22,7 @@
 		<row row_number="8" isdata="1">נדרנו לשם מי הקדשנו אין נדריהם נדר ואין</row>
 		<row row_number="9" isdata="1">הקדשן הקדש לאחר הזמן הזה אע"פ שאמרו</row>
 		<row row_number="10" isdata="1">אין אנו יודעין לשם מי נדרנו לשם מי הקדשנו</row>
-		<row row_number="11" isdata="1">נדרן נדר והקדשן הקדש<EndMishna/><StartGemara/>גמ' וכיון דתנא</row>
+		<row row_number="11" isdata="1">נדרן נדר והקדשן הקדש:<EndMishna/><StartGemara/>גמ' וכיון דתנא</row>
 		<row row_number="12" isdata="1">בת אחת עשרה שנה ויום א' נדריה נבדקין</row>
 		<row row_number="13" isdata="1">בת י"ב שנה ויום א' נדריה קיימין למה לי</row>
 		<row row_number="14" isdata="1">סד"א בודקין לעולם קמ"ל וכיון דתני בת י"ב</row>

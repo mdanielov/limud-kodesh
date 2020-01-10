@@ -6,22 +6,22 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:46.964004</dateCreated>
-   <lastModified>2019-12-21 21:41:46.964004</lastModified>
+   <dateCreated>2020-01-06 09:30:53.396819</dateCreated>
+   <lastModified>2020-01-06 09:30:53.396819</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="25">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "מי שמתו"/><ContGemara/>והכא בטופח על מנת להטפיח איכא</row>
-		<row row_number="2" isdata="1">בינייהו ירד לטבול אם יכול לעלות כו'</row>
+		<row row_number="2" isdata="1">בינייהו: ירד לטבול אם יכול לעלות כו':</row>
 		<row row_number="3" isdata="1">לימא תנא סתמא כר' אליעזר דאמר עד הנץ</row>
 		<row row_number="4" isdata="1">החמה אפי' תימא ר' יהושע ודלמא כותיקין</row>
 		<row row_number="5" isdata="1">דא"ר יוחנן ותיקין היו גומרין אותה עם הנץ</row>
-		<row row_number="6" isdata="1">החמה ואם לאו יתכסה במים ויקרא והרי</row>
+		<row row_number="6" isdata="1">החמה: ואם לאו יתכסה במים ויקרא: והרי</row>
 		<row row_number="7" isdata="1">לבו רואה את הערוה א"ר אלעזר ואי תימא</row>
 		<row row_number="8" isdata="1">ר' אחא בר אבא בר אחא משום רבינו במים</row>
 		<row row_number="9" isdata="1">עכורין שנו דדמו כארעא סמיכתא שלא יראה</row>
-		<row row_number="10" isdata="1">לבו ערותו ת"ר מים צלולין ישב בהן עד</row>
+		<row row_number="10" isdata="1">לבו ערותו. ת"ר מים צלולין ישב בהן עד</row>
 		<row row_number="11" isdata="1">צוארו וקורא וי"א עוכרן ברגלו ות"ק והרי לבו רואה את הערוה קסבר לבו</row>
 		<row row_number="12" isdata="1">רואה את הערוה מותר והרי עקבו רואה את הערוה קסבר עקבו רואה את</row>
 		<row row_number="13" isdata="1">הערוה מותר אתמר עקבו רואה את הערוה מותר נוגע אביי אמר אסור ורבא</row>
@@ -37,13 +37,13 @@
 		<row row_number="23" isdata="1">ערום אסור לקרות ק"ש כנגדו מאי איריא עכו"ם אפילו ישראל נמי ישראל</row>
 		<row row_number="24" isdata="1">פשיטא ליה דאסור אלא עכו"ם אצטריכא ליה מהו דתימא הואיל וכתיב בהו</row>
 		<row row_number="25" isdata="1">אשר בשר חמורים בשרם אימא כחמור בעלמא הוא קמ"ל דאינהו נמי איקרו</row>
-		<row row_number="26" isdata="1">ערוה דכתיב וערות אביהם לא ראו ולא יתכסה לא במים הרעים ולא במי</row>
-		<row row_number="27" isdata="1">המשרה עד שיטיל לתוכן מים וכמה מיא רמי ואזיל אלא ה"ק לא יתכסה</row>
+		<row row_number="26" isdata="1">ערוה דכתיב וערות אביהם לא ראו: ולא יתכסה לא במים הרעים ולא במי</row>
+		<row row_number="27" isdata="1">המשרה עד שיטיל לתוכן מים: וכמה מיא רמי ואזיל אלא ה"ק לא יתכסה</row>
 		<row row_number="28" isdata="1">לא במים הרעים ולא במי המשרה כלל ומי רגלים עד שיטיל לתוכן מים</row>
 		<row row_number="29" isdata="1">ויקרא ת"ר כמה יטיל לתוכן מים כל שהוא ר' זכאי אומר רביעית אמר רב</row>
 		<row row_number="30" isdata="1">נחמן מחלוקת לבסוף אבל בתחלה כל שהן ורב יוסף אמר מחלוקת</row>
 		<row row_number="31" isdata="1">לכתחלה אבל לבסוף דברי הכל רביעית אמר ליה רב יוסף לשמעיה אייתי לי</row>
-		<row row_number="32" isdata="1">רביעיתא דמיא כר' זכאי ת"ר גרף של רעי ועביט של מי רגלים אסור לקרות</row>
+		<row row_number="32" isdata="1">רביעיתא דמיא כר' זכאי: ת"ר גרף של רעי ועביט של מי רגלים אסור לקרות</row>
 		<row row_number="33" isdata="1">ק"ש כנגדן ואף ע"פ שאין בהן כלום ומי רגלים עצמן עד שיטיל לתוכן מים</row>
 		<row row_number="34" isdata="1">וכמה יטיל לתוכן מים כל שהוא ר' זכאי אומר רביעית בין לפני המטה בין</row>
 		<row row_number="35" isdata="1">לאחר המטה רבן שמעון בן גמליאל אומר לאחר המטה קורא לפני המטה אינו</row>

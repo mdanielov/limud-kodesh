@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:14.422673</dateCreated>
-   <lastModified>2019-12-21 21:42:14.422673</lastModified>
+   <dateCreated>2020-01-06 09:33:16.365134</dateCreated>
+   <lastModified>2020-01-06 09:33:16.365134</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="40">
@@ -33,11 +33,11 @@
 		<row row_number="19" isdata="1">רשעו שנאמר ורשעת הרשע לא יכשל בה</row>
 		<row row_number="20" isdata="1">ביום שובו מרשעו וניהוי כמחצה עונות</row>
 		<row row_number="21" isdata="1">ומחצה זכיות אמר ריש לקיש בתוהא</row>
-		<row row_number="22" isdata="1">על הראשונותמתני' כל שישנו במקרא</row>
+		<row row_number="22" isdata="1">על הראשונות<EndGemara/><StartMishna/>מתני' כל שישנו במקרא</row>
 		<row row_number="23" isdata="1">ובמשנה ובדרך ארץ לא במהרה הוא חוטא</row>
 		<row row_number="24" isdata="1">שנאמר והחוט המשולש לא במהרה ינתק</row>
 		<row row_number="25" isdata="1">וכל שאינו לא במקרא ולא במשנה ולא</row>
-		<row row_number="26" isdata="1">בדרך ארץ אינו מן היישוב<EndMishna/><StartGemara/>גמ' אמר רבי</row>
+		<row row_number="26" isdata="1">בדרך ארץ אינו מן היישוב:<EndMishna/><StartGemara/>גמ' אמר רבי</row>
 		<row row_number="27" isdata="1">אלעזר ברבי צדוק למה צדיקים נמשלים</row>
 		<row row_number="28" isdata="1">בעולם הזה לאילן שכולו עומד במקום</row>
 		<row row_number="29" isdata="1">טהרה ונופו נוטה למקום טומאה נקצץ נופו</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">משפיע להן טובה לרשעים בעולם הזה</row>
 		<row row_number="38" isdata="1">כדי לטורדן ולהורישן למדריגה התחתונה</row>
 		<row row_number="39" isdata="1">שנאמר יש דרך ישר לפני איש ואחריתה</row>
-		<row row_number="40" isdata="1">דרכי מות וכבר היה רבי טרפון וזקנים</row>
+		<row row_number="40" isdata="1">דרכי מות: וכבר היה רבי טרפון וזקנים</row>
 		<row row_number="41" isdata="1">מסובין בעלית בית נתזה בלוד נשאלה שאילה זו בפניהם תלמוד גדול</row>
 		<row row_number="42" isdata="1">או מעשה גדול נענה רבי טרפון ואמר מעשה גדול נענה ר"ע ואמר תלמוד</row>
 		<row row_number="43" isdata="1">גדול נענו כולם ואמרו תלמוד גדול שהתלמוד מביא לידי מעשה תניא</row>
@@ -62,7 +62,7 @@
 		<row row_number="48" isdata="1">המנונא אין תחילת דינו של אדם אלא על דברי תורה שנאמר פוטר</row>
 		<row row_number="49" isdata="1">מים ראשית מדון וכשם שדינו קודם למעשה כך שכרו קודם למעשה</row>
 		<row row_number="50" isdata="1">שנאמר ויתן להם ארצות גוים ועמל לאומים יירשו בעבור ישמרו חקיו</row>
-		<row row_number="51" isdata="1">ותורותיו ינצורו כל שאינו לא במקרא ולא במשנה א"ר יוחנן ופסול לעדות ת"ר האוכל בשוק הרי זה דומה</row>
+		<row row_number="51" isdata="1">ותורותיו ינצורו: כל שאינו לא במקרא ולא במשנה: א"ר יוחנן ופסול לעדות ת"ר האוכל בשוק הרי זה דומה</row>
 		<row row_number="52" isdata="1">לכלב ויש אומרים פסול לעדות אמר רב אידי בר אבין הלכה כיש אומרים דרש בר קפרא רגזן</row>
 </amud>
 </daf>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:18.998865</dateCreated>
-   <lastModified>2019-12-21 21:42:18.998865</lastModified>
+   <dateCreated>2020-01-06 09:33:36.830022</dateCreated>
+   <lastModified>2020-01-06 09:33:36.830022</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="55">
@@ -17,14 +17,14 @@
 		<row row_number="3" isdata="1">אתמר אמר רב קטינא אם הוזקקו בית דין</row>
 		<row row_number="4" isdata="1">לשוה פרוטה גומרין אפילו לפחות משוה</row>
 		<row row_number="5" isdata="1">פרוטה תחילת הדין בעינן פרוטה גמר דין לא</row>
-		<row row_number="6" isdata="1">בעינן פרוטהמתני' חמשה חומשין הן</row>
+		<row row_number="6" isdata="1">בעינן פרוטה<EndGemara/><StartMishna/>מתני' חמשה חומשין הן</row>
 		<row row_number="7" isdata="1">אלו הן האוכל תרומה ותרומת מעשר</row>
 		<row row_number="8" isdata="1">ותרומת מעשר של דמאי והחלה והבכורים</row>
 		<row row_number="9" isdata="1">מוסיף חומש והפודה נטע רבעי ומעשר</row>
 		<row row_number="10" isdata="1">שני שלו מוסיף חומש הפודה את הקדשו</row>
 		<row row_number="11" isdata="1">מוסיף חומש הנהנה שוה פרוטה מן ההקדש</row>
 		<row row_number="12" isdata="1">מוסיף חומש והגוזל את חבירו שוה פרוטה</row>
-		<row row_number="13" isdata="1">ונשבע לו מוסיף חומש<EndMishna/><StartGemara/>גמ' אמר רבא</row>
+		<row row_number="13" isdata="1">ונשבע לו מוסיף חומש:<EndMishna/><StartGemara/>גמ' אמר רבא</row>
 		<row row_number="14" isdata="1">קשיא ליה לר' אלעזר תרומת מעשר של</row>
 		<row row_number="15" isdata="1">דמאי וכי עשו חכמים חיזוק לדבריהם כשל</row>
 		<row row_number="16" isdata="1">תורה אמר רב נחמן אמר שמואל הא מני</row>

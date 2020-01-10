@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.934019</dateCreated>
-   <lastModified>2019-12-21 21:42:39.934019</lastModified>
+   <dateCreated>2020-01-06 09:35:14.226454</dateCreated>
+   <lastModified>2020-01-06 09:35:14.226454</lastModified>
  </meta>
  <masechet name="ערכין" serial="33">
 <daf value="31">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "המוכר שדהו"/><ContGemara/>תני חדא לוה וגואל וגואל לחצאין ותניא</row>
 		<row row_number="2" isdata="1">אידך אינו לוה וגואל ואינו גואל לחצאין לא</row>
-		<row row_number="3" isdata="1">קשיא הא רבנן והא ר"שמתני' המוכר</row>
+		<row row_number="3" isdata="1">קשיא הא רבנן והא ר"ש<EndGemara/><StartMishna/>מתני' המוכר</row>
 		<row row_number="4" isdata="1">בית בבתי ערי חומה הרי זה גואל מיד וגואל</row>
 		<row row_number="5" isdata="1">כל שנים עשר חדש הרי זה כמין רבית ואינו</row>
 		<row row_number="6" isdata="1">רבית מת המוכר יגאל בנו מת הלוקח יגאל</row>
@@ -23,7 +23,7 @@
 		<row row_number="9" isdata="1">תמימה להביא את חדש העיבור רבי אומר</row>
 		<row row_number="10" isdata="1">ליתן לו שנה ועיבורה הגיע יום שנים עשר</row>
 		<row row_number="11" isdata="1">חדש ולא נגאלה היתה חלוטה לו אחד הלוקח</row>
-		<row row_number="12" isdata="1">ואחד הניתן לו במתנה שנאמר לצמיתות</row>
+		<row row_number="12" isdata="1">ואחד הניתן לו במתנה שנאמר לצמיתות:</row>
 		<row row_number="13" isdata="1"><EndMishna/><StartGemara/>גמ' מתני' דלא כרבי דתניא רבי אומר</row>
 		<row row_number="14" isdata="1">ימים אין ימים פחות משנים ורבנן האי ימים</row>
 		<row row_number="15" isdata="1">מאי עבדי ליה מיבעי ליה מיום ליום ורבי מיום</row>
@@ -36,7 +36,7 @@
 		<row row_number="22" isdata="1">נפקא ליה מתמימה ורבנן ההוא מיבעי ליה</row>
 		<row row_number="23" isdata="1">לעיבורה ורבי נמי הא מיבעי ליה לעיבורה</row>
 		<row row_number="24" isdata="1">הכי נמי מיום ליום ומעת לעת מעד תום</row>
-		<row row_number="25" isdata="1">שנת ממכרו נפקא הרי זו כמין רבית וכו'</row>
+		<row row_number="25" isdata="1">שנת ממכרו נפקא: הרי זו כמין רבית וכו':</row>
 		<row row_number="26" isdata="1">והתניא הרי זו רבית גמורה אלא שהתורה</row>
 		<row row_number="27" isdata="1">התירתו אמר רבי יוחנן לא קשיא הא רבי</row>
 		<row row_number="28" isdata="1">יהודה והא רבנן דתניא הרי שהיה נושה</row>

@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:50.189304</dateCreated>
-   <lastModified>2019-12-21 21:41:50.189304</lastModified>
+   <dateCreated>2020-01-06 09:31:09.269501</dateCreated>
+   <lastModified>2020-01-06 09:31:09.269501</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="108">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "שמנה שרצים"/><ContGemara/>אבל עושה הוא את מי המלח וטובל בהן פתו ונותן לתוך התבשיל א"ר</row>
+		<row row_number="1" isdata="1"><ContChapter name = "שמנה שרצים"/><ContMishna/>אבל עושה הוא את מי המלח וטובל בהן פתו ונותן לתוך התבשיל א"ר</row>
 		<row row_number="2" isdata="1">יוסי והלא הוא הילמי בין מרובה ובין מועט ואלו הן מי מלח המותרין נותן</row>
-		<row row_number="3" isdata="1">שמן לכתחלה לתוך המים או לתוך המלח<EndMishna/><StartGemara/>גמ' מאי קאמר א"ר יהודה אמר</row>
-		<row row_number="4" isdata="1">שמואל ה"ק אין עושין מי מלח מרובין אבל עושה הוא מי מלח מועטין א"ר</row>
-		<row row_number="5" isdata="1">יוסי והלא הוא הילמי בין מרובין בין מועטין איבעיא להו רבי יוסי לאסור</row>
+		<row row_number="3" isdata="1">שמן לכתחלה לתוך המים או לתוך המלח:<EndMishna/><StartGemara/>גמ' מאי קאמר א"ר יהודה אמר</row>
+		<row row_number="4" isdata="1">שמואל ה"ק אין עושין מי מלח מרובין אבל עושה הוא מי מלח מועטין: א"ר</row>
+		<row row_number="5" isdata="1">יוסי והלא הוא הילמי בין מרובין בין מועטין: איבעיא להו רבי יוסי לאסור</row>
 		<row row_number="6" isdata="1">או להתיר אמר רב יהודה להתיר מדלא קתני רבי יוסי אוסר א"ל רבה הא מדקתני</row>
 		<row row_number="7" isdata="1">סיפא ואלו הן מי מלח המותרין מכלל דר' יוסי לאסור אלא אמר רבה לאסור</row>
 		<row row_number="8" isdata="1">וכן אמר רבי יוחנן לאסור תניא נמי הכי אין עושין מי מלח מרובין לתת לתוך</row>
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">לתוך התבשיל א"ר יוסי וכי מפני שהללו מרובין והללו מועטין הללו אסורין</row>
 		<row row_number="11" isdata="1">והללו מותרין יאמרו מלאכה מרובה אסורה מלאכה מועטת מותרת אלא אלו</row>
 		<row row_number="12" isdata="1">ואלו אסורין הן ואלו הן מי מלח המותרין נותן שמן ומלח או שמן ומים ובלבד</row>
-		<row row_number="13" isdata="1">שלא יתן מים ומלח לכתחלה (עזין צנון ואתרוג סימן) תני רבי יהודה בר</row>
+		<row row_number="13" isdata="1">שלא יתן מים ומלח לכתחלה: (עזין צנון ואתרוג סימן): תני רבי יהודה בר</row>
 		<row row_number="14" isdata="1">חביבא אין עושין מי מלח עזין מאי מי מלח עזין רבה ורב יוסף בר אבא</row>
 		<row row_number="15" isdata="1">דאמרי תרווייהו כל שהביצה צפה בהן וכמה אמר אביי תרי תילתי מילחא</row>
 		<row row_number="16" isdata="1">ותילתא מיא למאי עבדי לה א"ר אבהו למורייסא תני רבי יהודה בר חביבא</row>

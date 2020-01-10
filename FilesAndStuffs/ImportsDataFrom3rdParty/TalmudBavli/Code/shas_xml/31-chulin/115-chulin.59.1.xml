@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:36.551576</dateCreated>
-   <lastModified>2019-12-21 21:42:36.551576</lastModified>
+   <dateCreated>2020-01-06 09:34:56.862269</dateCreated>
+   <lastModified>2020-01-06 09:34:56.862269</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="59">
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">בתנורא דאיהו בדיק נפשיה אותביה נפל</row>
 		<row row_number="16" isdata="1">תילחי תילחי קרי שמואל עליה דרב לא</row>
 		<row row_number="17" isdata="1">יאונה לצדיק כל און קרי רב עליה דשמואל</row>
-		<row row_number="18" isdata="1">כל רז לא אנס לךמתני' סימני בהמה</row>
+		<row row_number="18" isdata="1">כל רז לא אנס לך<EndGemara/><StartMishna/>מתני' סימני בהמה</row>
 		<row row_number="19" isdata="1">וחיה נאמרו מן התורה וסימני העוף לא</row>
 		<row row_number="20" isdata="1">נאמרו אבל אמרו חכמים כל עוף הדורס</row>
 		<row row_number="21" isdata="1">טמא כל שיש לו אצבע יתירה וזפק</row>
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">יוסי אומר ושמו חגב ובדגים כל שיש לו</row>
 		<row row_number="27" isdata="1">סנפיר וקשקשת רבי יהודה אומר שני</row>
 		<row row_number="28" isdata="1">קשקשין וסנפיר אחד ואלו הן קשקשין</row>
-		<row row_number="29" isdata="1">הקבועין בו וסנפירים הפורח בהן<EndMishna/><StartGemara/>גמ' תנו</row>
+		<row row_number="29" isdata="1">הקבועין בו וסנפירים הפורח בהן:<EndMishna/><StartGemara/>גמ' תנו</row>
 		<row row_number="30" isdata="1">רבנן אלו הן סימני בהמה כל בהמה</row>
 		<row row_number="31" isdata="1">מפרסת פרסה וגו' כל בהמה שמעלת גרה</row>
 		<row row_number="32" isdata="1">בידוע שאין לה שינים למעלה וטהורה</row>
@@ -69,7 +69,7 @@
 		<row row_number="55" isdata="1">הוא ואמר רב חסדא היה מהלך במדבר ומצא בהמה שפיה גמום ופרסותיה חתוכות בודק בבשרה אם</row>
 		<row row_number="56" isdata="1">מהלך שתי וערב בידוע שהיא טהורה ואם לאו בידוע שהיא טמאה ובלבד שיכיר ערוד לאו אמרת איכא</row>
 		<row row_number="57" isdata="1">ערוד איכא נמי מינא אחרינא דדמיא לערוד גמירי דליכא והיכא בודק אמר אביי ואיתימא רב חסדא</row>
-		<row row_number="58" isdata="1">בכנפי העוקץ סימני חיה ת"ר אלו הן סימני חיה חיה בכלל בהמה היא לסימנין אמר רבי זירא</row>
+		<row row_number="58" isdata="1">בכנפי העוקץ: סימני חיה: ת"ר אלו הן סימני חיה חיה בכלל בהמה היא לסימנין אמר רבי זירא</row>
 </amud>
 </daf>
 </masechet>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:35.811279</dateCreated>
-   <lastModified>2019-12-21 21:42:35.811279</lastModified>
+   <dateCreated>2020-01-06 09:34:54.108379</dateCreated>
+   <lastModified>2020-01-06 09:34:54.108379</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="30">
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">לבי רב דאמרי תחת העור איני יודע תחת</row>
 		<row row_number="20" isdata="1">מטלית מהו תחת צמר מסובך מהו תיקו</row>
 		<row row_number="21" isdata="1">בעי רב פפא החליד במיעוט סימנים מהו</row>
-		<row row_number="22" isdata="1">תיקומתני' השוחט ב' ראשין כאחד</row>
+		<row row_number="22" isdata="1">תיקו<EndGemara/><StartMishna/>מתני' השוחט ב' ראשין כאחד</row>
 		<row row_number="23" isdata="1">שחיטתו כשרה שנים אוחזין בסכין ושוחטים</row>
 		<row row_number="24" isdata="1">אפילו אחד למעלה ואחד למטה שחיטתו</row>
 		<row row_number="25" isdata="1">כשרה התיז את הראש בבת אחת פסולה</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">ב' ראשין בבת אחת אם יש בסכין מלא</row>
 		<row row_number="29" isdata="1">צואר אחד כשרה בד"א בזמן שהוליך ולא</row>
 		<row row_number="30" isdata="1">הביא או הביא ולא הוליך אבל אם הוליך</row>
-		<row row_number="31" isdata="1">והביא אפי' כל שהוא אפי' באיזמל כשרה</row>
+		<row row_number="31" isdata="1">והביא אפי' כל שהוא אפי' באיזמל כשרה:</row>
 		<row row_number="32" isdata="1"><EndMishna/><StartGemara/>גמ' מה"מ אמר שמואל דאמר קרא חץ שחוט</row>
 		<row row_number="33" isdata="1">לשונם מרמה דבר תנא דבי רבי ישמעאל</row>
 		<row row_number="34" isdata="1">ושחט אין ושחט אלא ומשך וכן הוא אומר</row>

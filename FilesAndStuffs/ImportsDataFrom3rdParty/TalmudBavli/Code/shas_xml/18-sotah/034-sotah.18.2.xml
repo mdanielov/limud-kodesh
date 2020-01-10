@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:11.338982</dateCreated>
-   <lastModified>2019-12-21 21:42:11.338982</lastModified>
+   <dateCreated>2020-01-06 09:32:59.861540</dateCreated>
+   <lastModified>2020-01-06 09:32:59.861540</lastModified>
  </meta>
  <masechet name="סוטה" serial="18">
 <daf value="18">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "היה מביא"/><ContGemara/>ושומרת יבם וכנוסה אמן שלא נטמאתי ואם</row>
+		<row row_number="1" isdata="1"><ContChapter name = "היה מביא"/><ContMishna/>ושומרת יבם וכנוסה אמן שלא נטמאתי ואם</row>
 		<row row_number="2" isdata="1">נטמאתי יבואו בי ר"מ אומר אמן שלא</row>
 		<row row_number="3" isdata="1">נטמאתי אמן שלא אטמא הכל שוין שאין</row>
 		<row row_number="4" isdata="1">מתנה עמה לא על קודם שתתארס ולא</row>
 		<row row_number="5" isdata="1">על אחר שתתגרש נסתרה לאחד ונטמאת</row>
 		<row row_number="6" isdata="1">ואח"כ החזירה לא היה מתנה עמה זה</row>
 		<row row_number="7" isdata="1">הכלל כל שתבעל ולא היתה אסורה לו לא</row>
-		<row row_number="8" isdata="1">היה מתנה עמה<EndMishna/><StartGemara/>גמ' אמר רב המנונא</row>
+		<row row_number="8" isdata="1">היה מתנה עמה:<EndMishna/><StartGemara/>גמ' אמר רב המנונא</row>
 		<row row_number="9" isdata="1">שומרת יבם שזינתה אסורה ליבמה ממאי</row>
 		<row row_number="10" isdata="1">מדקתני שומרת יבם וכנוסה אא"ב אסירה</row>
 		<row row_number="11" isdata="1">משום הכי מתנה בהדה אלא א"א לא אסירה</row>
@@ -32,8 +32,8 @@
 		<row row_number="18" isdata="1">ירמיה מהו שיתנה אדם על נישואין הראשונים</row>
 		<row row_number="19" isdata="1">על נישואי אחיו מהו ת"ש זה הכלל כל</row>
 		<row row_number="20" isdata="1">שתיבעל ולא תהא אסורה לו לא היה מתנה</row>
-		<row row_number="21" isdata="1">עמה הא אסירה ה"נ דמתנה ש"מ ר"מ</row>
-		<row row_number="22" isdata="1">אומר אמן שלא נטמאתי וכו' תניא לא</row>
+		<row row_number="21" isdata="1">עמה הא אסירה ה"נ דמתנה ש"מ: ר"מ</row>
+		<row row_number="22" isdata="1">אומר אמן שלא נטמאתי וכו': תניא לא</row>
 		<row row_number="23" isdata="1">כשאמר ר"מ אמן שלא אטמא שאם תטמא</row>
 		<row row_number="24" isdata="1">מים בודקין אותה מעכשיו אלא לכשתטמא</row>
 		<row row_number="25" isdata="1">מים מערערין אותה ובודקין אותה בעי רב</row>

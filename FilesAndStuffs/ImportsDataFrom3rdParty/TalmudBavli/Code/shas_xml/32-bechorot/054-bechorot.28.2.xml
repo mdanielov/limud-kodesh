@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.966649</dateCreated>
-   <lastModified>2019-12-21 21:42:38.966649</lastModified>
+   <dateCreated>2020-01-06 09:35:08.525965</dateCreated>
+   <lastModified>2020-01-06 09:35:08.525965</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="28">
@@ -23,27 +23,27 @@
 		<row row_number="9" isdata="1">דאמר רבה בר בר חנה שח לי רבי יאשיה</row>
 		<row row_number="10" isdata="1">דמן אושא בא ואראך בדוקין שהן משתנים</row>
 		<row row_number="11" isdata="1">מדקאמר ליה בא ואראך מכלל דאיכא</row>
-		<row row_number="12" isdata="1">דמשתני ואיכא דלא משתני מי שאינו מומחה</row>
+		<row row_number="12" isdata="1">דמשתני ואיכא דלא משתני: מי שאינו מומחה</row>
 		<row row_number="13" isdata="1">וראה את הבכור ונשחט על פיו הרי זה יקבר</row>
-		<row row_number="14" isdata="1">וישלם מביתו לימא תנן סתמא כר' מאיר</row>
-		<row row_number="15" isdata="1">דלמא בדוקין שבעין ודברי הכל תנא</row>
+		<row row_number="14" isdata="1">וישלם מביתו: לימא תנן סתמא כר' מאיר</row>
+		<row row_number="15" isdata="1">דלמא בדוקין שבעין ודברי הכל: תנא</row>
 		<row row_number="16" isdata="1">כשהוא משלם משלם רביע לדקה ומחצה</row>
 		<row row_number="17" isdata="1">לגסה מאי טעמא אמר רב פפא זה הפסד</row>
 		<row row_number="18" isdata="1">מרובה וזה הפסד מועט אי הכי לפום פסידא</row>
 		<row row_number="19" isdata="1">לישלם אמר רב הונא בר מנוח משמיה דרב</row>
 		<row row_number="20" isdata="1">אחא בר איקא משום גזירת מגדלי בהמה</row>
-		<row row_number="21" isdata="1">דקה נגעו בהמתני' דן את הדין זיכה</row>
+		<row row_number="21" isdata="1">דקה נגעו בה<EndGemara/><StartMishna/>מתני' דן את הדין זיכה</row>
 		<row row_number="22" isdata="1">את החייב וחייב את הזכאי טימא את הטהור</row>
 		<row row_number="23" isdata="1">וטיהר את הטמא מה שעשה עשוי וישלם</row>
-		<row row_number="24" isdata="1">מביתו ואם היה מומחה לב"ד פטור מלשלם</row>
+		<row row_number="24" isdata="1">מביתו ואם היה מומחה לב"ד פטור מלשלם:</row>
 		<row row_number="25" isdata="1"><EndMishna/><StartGemara/>גמ' לימא תנן סתמא כר' מאיר דדאין דינא</row>
 		<row row_number="26" isdata="1">דגרמי א"ר אילעא אמר רב כגון שנשא ונתן</row>
 		<row row_number="27" isdata="1">ביד בשלמא חייב את הזכאי כגון שנשא</row>
 		<row row_number="28" isdata="1">ונתן ביד אלא זיכה את החייב היכי דמי אי</row>
 		<row row_number="29" isdata="1">דאמר ליה פטור אתה והא לא נשא ונתן ביד</row>
 		<row row_number="30" isdata="1">אמר רבינא כגון שהיה לו משכון ונטלו</row>
-		<row row_number="31" isdata="1">הימנו טימא את הטהור דאגע בהו שרץ</row>
-		<row row_number="32" isdata="1">טיהר את הטמא שעירבן עם פירותיו</row>
+		<row row_number="31" isdata="1">הימנו: טימא את הטהור דאגע בהו שרץ</row>
+		<row row_number="32" isdata="1">טיהר את הטמא שעירבן עם פירותיו:</row>
 		<row row_number="33" isdata="1"><EndGemara/><StartMishna/>מתני' ומעשה בפרה שניטלה האם שלה</row>
 		<row row_number="34" isdata="1">והאכילה רבי טרפון לכלבים ובא מעשה</row>
 		<row row_number="35" isdata="1">לפני חכמים ביבנה והתירוה (ואמר) תודוס</row>
@@ -52,11 +52,11 @@
 		<row row_number="38" isdata="1">שלא תלד אמר רבי טרפון הלכה חמורך</row>
 		<row row_number="39" isdata="1">טרפון אמר לו ר' עקיבא ר' טרפון אתה</row>
 		<row row_number="40" isdata="1">מומחה לב"ד וכל המומחה לב"ד פטור</row>
-		<row row_number="41" isdata="1">מלשלם<EndMishna/><StartGemara/>גמ' ותיפוק ליה דטעה בדבר</row>
+		<row row_number="41" isdata="1">מלשלם:<EndMishna/><StartGemara/>גמ' ותיפוק ליה דטעה בדבר</row>
 		<row row_number="42" isdata="1">משנה וטעה בדבר משנה חוזר חדא ועוד</row>
 		<row row_number="43" isdata="1">קאמר חדא דטעה בדבר משנה חוזר ועוד</row>
 		<row row_number="44" isdata="1">א"נ בשיקול הדעת טעיתה מומחה לב"ד אתה</row>
-		<row row_number="45" isdata="1">וכל המומחה לב"ד פטור מלשלםמתני'</row>
+		<row row_number="45" isdata="1">וכל המומחה לב"ד פטור מלשלם<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="46" isdata="1">הנוטל שכר להיות רואה את הבכורות אין שוחטין על פיו אא"כ היה מומחה</row>
 </amud>
 </daf>

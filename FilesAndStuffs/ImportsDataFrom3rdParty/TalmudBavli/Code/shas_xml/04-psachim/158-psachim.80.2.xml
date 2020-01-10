@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:55.968696</dateCreated>
-   <lastModified>2019-12-21 21:41:55.968696</lastModified>
+   <dateCreated>2020-01-06 09:31:32.896795</dateCreated>
+   <lastModified>2020-01-06 09:31:32.896795</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="80">
@@ -22,12 +22,12 @@
 		<row row_number="8" isdata="1">מתים מיעוטא ומיעוטא לא עבדי בראשון</row>
 		<row row_number="9" isdata="1">בשני לא עבדי נצרפו זבין עם טמאי מתים</row>
 		<row row_number="10" isdata="1">דלא עבדי בראשון הוו להו רובא ורובא לא</row>
-		<row row_number="11" isdata="1">מדחו לפסח שנימתני' הפסח שנזרק דמו</row>
+		<row row_number="11" isdata="1">מדחו לפסח שני<EndGemara/><StartMishna/>מתני' הפסח שנזרק דמו</row>
 		<row row_number="12" isdata="1">ואח"כ נודע שהוא טמא הציץ מרצה נטמא</row>
 		<row row_number="13" isdata="1">הגוף אין הציץ מרצה מפני שאמרו הנזיר</row>
 		<row row_number="14" isdata="1">ועושה פסח הציץ מרצה על טומאת הדם</row>
 		<row row_number="15" isdata="1">ואין הציץ מרצה על טומאת הגוף נטמא</row>
-		<row row_number="16" isdata="1">טומאת התהום הציץ מרצה<EndMishna/><StartGemara/>גמ' טעמא</row>
+		<row row_number="16" isdata="1">טומאת התהום הציץ מרצה:<EndMishna/><StartGemara/>גמ' טעמא</row>
 		<row row_number="17" isdata="1">דנזרק ואח"כ נודע אבל נודע ואח"כ נזרק לא</row>
 		<row row_number="18" isdata="1">מרצה ורמינהו על מה הציץ מרצה על</row>
 		<row row_number="19" isdata="1">הדם ועל הבשר ועל החלב שנטמא בין</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">דקתני נזרק ואח"כ נודע משום דבעי למתני</row>
 		<row row_number="32" isdata="1">סיפא נטמא הגוף אין הציץ מרצה דאפילו</row>
 		<row row_number="33" isdata="1">נזרק ואח"כ נודע לא קתני רישא נמי נזרק</row>
-		<row row_number="34" isdata="1">ואח"כ נודע נטמא טומאת התהום וכו'</row>
+		<row row_number="34" isdata="1">ואח"כ נודע: נטמא טומאת התהום וכו':</row>
 		<row row_number="35" isdata="1">בעי רמי בר חמא כהן המרצה בקרבנותיהן</row>
 		<row row_number="36" isdata="1">הותרה לו טומאת התהום או לא מי אמרינן</row>
 		<row row_number="37" isdata="1">כי גמירי טומאת התהום בבעלים בכהן לא</row>

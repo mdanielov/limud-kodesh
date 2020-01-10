@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:37.896575</dateCreated>
-   <lastModified>2019-12-21 21:42:37.896575</lastModified>
+   <dateCreated>2020-01-06 09:35:02.368613</dateCreated>
+   <lastModified>2020-01-06 09:35:02.368613</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="116">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContMishna/>אם יש בנותן טעם הרי זו אסורה כשרה</row>
 		<row row_number="2" isdata="1">שינקה מן הטרפה קבתה אסורה טרפה</row>
 		<row row_number="3" isdata="1">שינקה מן הכשרה קבתה מותרת מפני שכנוס</row>
-		<row row_number="4" isdata="1">במעיה<EndMishna/><StartGemara/>גמ' אטו קבת עובד כוכבים לאו</row>
+		<row row_number="4" isdata="1">במעיה:<EndMishna/><StartGemara/>גמ' אטו קבת עובד כוכבים לאו</row>
 		<row row_number="5" isdata="1">נבלה היא אמר רב הונא הכא בלוקח גדי</row>
 		<row row_number="6" isdata="1">מן העובד כוכבים עסקינן וחיישינן שמא</row>
 		<row row_number="7" isdata="1">ינק מן הטרפה ומי חיישינן שמא ינק מן</row>
@@ -33,8 +33,8 @@
 		<row row_number="19" isdata="1">הכי והאמר שמואל מפני מה אסרו גבינת</row>
 		<row row_number="20" isdata="1">העובדי כוכבים מפני שמעמידין אותה בעור</row>
 		<row row_number="21" isdata="1">קבת נבלה הא קבה גופה שריא לא קשיא</row>
-		<row row_number="22" isdata="1">כאן קודם חזרה כאן לאחר חזרה כשרה</row>
-		<row row_number="23" isdata="1">שינקה מן הטרפה [וכו'] והא קתני רישא</row>
+		<row row_number="22" isdata="1">כאן קודם חזרה כאן לאחר חזרה: כשרה</row>
+		<row row_number="23" isdata="1">שינקה מן הטרפה [וכו']: והא קתני רישא</row>
 		<row row_number="24" isdata="1">קבת עובד כוכבים ושל נבלה הרי זו אסורה</row>
 		<row row_number="25" isdata="1">אמר רב חסדא רישא נראה כאוכל נבלות</row>
 		<row row_number="26" isdata="1">הכא איכא שחיטה א"ל רבא ולאו כל דכן הוא</row>
@@ -49,7 +49,7 @@
 		<row row_number="35" isdata="1">נבלה בין בקבת שחיטת עובד כוכבים שלא לחוש לדברי רבי אליעזר</row>
 		<row row_number="36" isdata="1">והלכתא אין מעמידין בעור קבת נבלה אבל מעמידין בקבת נבלה ובקבת</row>
 		<row row_number="37" isdata="1">שחיטת עובד כוכבים (ובקבת כשרה שינקה מן הטרפה וכ"ש בקבת</row>
-		<row row_number="38" isdata="1">טרפה שינקה מן הכשרה מ"ט חלב המכונס בה פירשא בעלמא הוא)</row>
+		<row row_number="38" isdata="1">טרפה שינקה מן הכשרה מ"ט חלב המכונס בה פירשא בעלמא הוא):</row>
 		<row row_number="39" isdata="1"><EndGemara/><StartMishna/>מתני' חומר בחלב מבדם וחומר בדם מבחלב חומר בחלב שהחלב</row>
 </amud>
 </daf>

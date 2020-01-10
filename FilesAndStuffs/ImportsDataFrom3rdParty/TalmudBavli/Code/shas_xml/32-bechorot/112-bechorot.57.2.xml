@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.434460</dateCreated>
-   <lastModified>2019-12-21 21:42:39.434460</lastModified>
+   <dateCreated>2020-01-06 09:35:11.260084</dateCreated>
+   <lastModified>2020-01-06 09:35:11.260084</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="57">
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">יוכני וטבעה ששים כרכים ושברה שלש</row>
 		<row row_number="14" isdata="1">מאות ארזים ומי שדיא ליה והא כתיב כנף</row>
 		<row row_number="15" isdata="1">רננים נעלסה אמר רב אשי ההוא מוזרתא</row>
-		<row row_number="16" isdata="1">הואימתני' שלש גרנות למעשר בהמה</row>
+		<row row_number="16" isdata="1">הואי<EndGemara/><StartMishna/>מתני' שלש גרנות למעשר בהמה</row>
 		<row row_number="17" isdata="1">בפרס הפסח ובפרס העצרת ובפרס החג (והן</row>
 		<row row_number="18" isdata="1">גרנות של מעשר בהמה) דברי ר' עקיבא בן</row>
 		<row row_number="19" isdata="1">עזאי אומר בעשרים ותשעה באדר באחד</row>
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">לאחר הגורן הרי אלו מצטרפין אם כן למה</row>
 		<row row_number="33" isdata="1">נאמרו שלש גרנות למעשר בהמה שעד</row>
 		<row row_number="34" isdata="1">שלא הגיע הגורן מותר למכור ולשחוט הגיע</row>
-		<row row_number="35" isdata="1">הגורן לא ישחוט ואם שחט פטור<EndMishna/><StartGemara/>גמ' מאי</row>
+		<row row_number="35" isdata="1">הגורן לא ישחוט ואם שחט פטור:<EndMishna/><StartGemara/>גמ' מאי</row>
 		<row row_number="36" isdata="1">שנא תלת אמר רבה בר שילא לקבל חורפי</row>
 		<row row_number="37" isdata="1">ואפלי וקייטי ומאי שנא בהני זימני אמר</row>
 		<row row_number="38" isdata="1">רבי תנחום בריה דרב חייא איש כפר עכו</row>

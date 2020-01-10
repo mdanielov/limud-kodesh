@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.477751</dateCreated>
-   <lastModified>2019-12-21 21:42:00.477751</lastModified>
+   <dateCreated>2020-01-06 09:32:05.112347</dateCreated>
+   <lastModified>2020-01-06 09:32:05.112347</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="30">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "המביא"/><ContMishna/>מתני' אין נוטלין עצים מן הסוכה אלא<EndGemara/><StartMishna/></row>
-		<row row_number="2" isdata="1">מן הסמוך לה<EndMishna/><StartGemara/>גמ' מאי שנא מן הסוכה דלא</row>
+		<row row_number="2" isdata="1">מן הסמוך לה:<EndMishna/><StartGemara/>גמ' מאי שנא מן הסוכה דלא</row>
 		<row row_number="3" isdata="1">דקא סתר אהלא מן הסמוך לה נמי קא סתר</row>
 		<row row_number="4" isdata="1">אהלא אמר רב יהודה אמר שמואל מאי</row>
 		<row row_number="5" isdata="1">סמוך סמוך לדפנות רב מנשיא אמר אפילו</row>
@@ -30,9 +30,9 @@
 		<row row_number="16" isdata="1">דמי התם אדם יושב ומצפה אימתי תכבה נרו</row>
 		<row row_number="17" isdata="1">הכא אדם יושב ומצפה אימתי תפול סוכתו</row>
 		<row row_number="18" isdata="1">אמר רב נחמן בר יצחק הכא בסוכה רעועה</row>
-		<row row_number="19" isdata="1">עסקינן דמאתמול דעתיה עלויה ושוין בסוכת</row>
+		<row row_number="19" isdata="1">עסקינן דמאתמול דעתיה עלויה: ושוין בסוכת</row>
 		<row row_number="20" isdata="1">החג בחג שהיא אסורה ואם התנה עליה הכל</row>
-		<row row_number="21" isdata="1">לפי תנאו ומי מהני בה תנאי והאמר רב</row>
+		<row row_number="21" isdata="1">לפי תנאו: ומי מהני בה תנאי והאמר רב</row>
 		<row row_number="22" isdata="1">ששת משום ר' עקיבא מנין לעצי סוכה</row>
 		<row row_number="23" isdata="1">שאסורין כל שבעה שנאמר חג הסוכות</row>
 		<row row_number="24" isdata="1">שבעת ימים לה' ותניא ר' יהודה בן בתירא</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">אמר כל אחת יוצא בה ואוכלה למחר התם</row>
 		<row row_number="44" isdata="1">דמפסקו לילות מימים כל חד וחד יומא מצוה</row>
 		<row row_number="45" isdata="1">באפי נפשיה הוא הכא דלא מפסקו לילות</row>
-		<row row_number="46" isdata="1">מימים כולהו יומי כחדא יומא אריכתא דמי</row>
+		<row row_number="46" isdata="1">מימים כולהו יומי כחדא יומא אריכתא דמי:</row>
 </amud>
 </daf>
 </masechet>

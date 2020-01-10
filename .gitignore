@@ -1,5 +1,7 @@
+**/settings.ini*
 FilesAndStuffs/ImportsDataFrom3rdParty/Tanakh/FromSefaria/.vs
 FilesAndStuffs/ImportsDataFrom3rdParty/TalmudBavli/Code/parsed_shas/
-FilesAndStuffs/ImportsDataFrom3rdParty/TalmudBavli/Code/FromHTMLToXML/__pycache__/
-FilesAndStuffs/ImportsDataFrom3rdParty/TalmudBavli/Code/FromXMLToDB/__pycache__/
-FilesAndStuffs/ImportsDataFrom3rdParty/TalmudBavli/Code/FromXMLToDB/settings.ini
+__pycache__/
+*/settings.ini
+FilesAndStuffs/ImportsDataFrom3rdParty/TalmudBavli/Code/Test_xml
+

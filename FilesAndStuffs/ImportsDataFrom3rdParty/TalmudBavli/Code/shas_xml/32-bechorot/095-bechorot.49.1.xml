@@ -6,24 +6,24 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.291025</dateCreated>
-   <lastModified>2019-12-21 21:42:39.291025</lastModified>
+   <dateCreated>2020-01-06 09:35:10.507737</dateCreated>
+   <lastModified>2020-01-06 09:35:10.507737</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="49">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "יש בכור"/><ContGemara/>בבא בהרשאה והאמרי נהרדעי לא כתבינן</row>
 		<row row_number="2" isdata="1">אדרכתא אמטלטלי ה"מ היכא דכפריה</row>
-		<row row_number="3" isdata="1">אבל היכא דלא כפריה כתבינן זכר</row>
-		<row row_number="4" isdata="1">ונקבה אין כאן לכהן כלום תנא רב הונא</row>
+		<row row_number="3" isdata="1">אבל היכא דלא כפריה כתבינן: זכר</row>
+		<row row_number="4" isdata="1">ונקבה אין כאן לכהן כלום: תנא רב הונא</row>
 		<row row_number="5" isdata="1">שני זכרים ונקבה אין כאן לכהן כלום ותנא</row>
 		<row row_number="6" isdata="1">דידן כיון דבשני אנשים הוא דמשכחת לה</row>
 		<row row_number="7" isdata="1">באיש אחד ושתי נשים לא משכחת לה לא</row>
-		<row row_number="8" isdata="1">מתני ליהמתני' מת הבן בתוך שלשים</row>
+		<row row_number="8" isdata="1">מתני ליה<EndGemara/><StartMishna/>מתני' מת הבן בתוך שלשים</row>
 		<row row_number="9" isdata="1">יום אע"פ שנתן לכהן יחזיר לאחר ל' יום אע"פ</row>
 		<row row_number="10" isdata="1">שלא נתן יתן מת ביום שלשים כיום שלפניו</row>
 		<row row_number="11" isdata="1">ר' עקיבא אומר אם נתן לא יטול ואם לא נתן</row>
-		<row row_number="12" isdata="1">לא יתן<EndMishna/><StartGemara/>גמ' מאי טעמייהו דרבנן גמרי חדש</row>
+		<row row_number="12" isdata="1">לא יתן:<EndMishna/><StartGemara/>גמ' מאי טעמייהו דרבנן גמרי חדש</row>
 		<row row_number="13" isdata="1">חדש ממדבר מה התם ומעלה אף הכא נמי</row>
 		<row row_number="14" isdata="1">ומעלה ור"ע מספקא ליה מדאיצטריך</row>
 		<row row_number="15" isdata="1">למכתב ומעלה גבי ערכין ולא גמרי</row>
@@ -33,13 +33,13 @@
 		<row row_number="19" isdata="1">לגופייהו מלמדין ומשום הכי מספקינן ליה</row>
 		<row row_number="20" isdata="1">אמר רב אשי הכל מודים לענין אבילות יום</row>
 		<row row_number="21" isdata="1">שלשים כיום שלפניו ואמר שמואל הלכה</row>
-		<row row_number="22" isdata="1">כדברי המיקל באבלמתני' מת האב</row>
+		<row row_number="22" isdata="1">כדברי המיקל באבל<EndGemara/><StartMishna/>מתני' מת האב</row>
 		<row row_number="23" isdata="1">בתוך שלשים בחזקת שלא נפדה עד</row>
 		<row row_number="24" isdata="1">שיביא ראיה שנפדה לאחר שלשים יום</row>
 		<row row_number="25" isdata="1">בחזקת שנפדה עד שיאמרו לו שלא נפדה</row>
 		<row row_number="26" isdata="1">הוא לפדות ובנו לפדות הוא קודם לבנו</row>
 		<row row_number="27" isdata="1">רבי יהודה אומר בנו קודמו שמצותו על אביו</row>
-		<row row_number="28" isdata="1">ומצות בנו עליו<EndMishna/><StartGemara/>גמ' איתמר הפודה את</row>
+		<row row_number="28" isdata="1">ומצות בנו עליו:<EndMishna/><StartGemara/>גמ' איתמר הפודה את</row>
 		<row row_number="29" isdata="1">בנו בתוך שלשים יום רב אמר בנו פדוי</row>
 		<row row_number="30" isdata="1">ושמואל אמר אין בנו פדוי דכולי</row>
 		<row row_number="31" isdata="1">עלמא מעכשיו אין בנו פדוי לאחר שלשים</row>

@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:26.374904</dateCreated>
-   <lastModified>2019-12-21 21:42:26.374904</lastModified>
+   <dateCreated>2020-01-06 09:34:11.059587</dateCreated>
+   <lastModified>2020-01-06 09:34:11.059587</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="70">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "בן סורר ומורה"/><ContGemara/>שהכל מצויין אצלה בעבירה אלא גזירת</row>
-		<row row_number="2" isdata="1">הכתוב היא בן ולא בתמתני' מאימתי</row>
+		<row row_number="2" isdata="1">הכתוב היא בן ולא בת<EndGemara/><StartMishna/>מתני' מאימתי</row>
 		<row row_number="3" isdata="1">חייב משיאכל תרטימר בשר וישתה חצי</row>
 		<row row_number="4" isdata="1">לוג יין האיטלקי ר' יוסי אומר מנה בשר</row>
 		<row row_number="5" isdata="1">ולוג יין אכל בחבורת מצוה אכל בעיבור</row>
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">ולא אכל בשר שתה כל משקה ולא שתה יין</row>
 		<row row_number="12" isdata="1">אינו נעשה בן סורר ומורה עד שיאכל בשר</row>
 		<row row_number="13" isdata="1">וישתה יין שנאמר זולל וסובא ואע"פ שאין</row>
-		<row row_number="14" isdata="1">ראיה לדבר זכר לדבר שנאמר אל תהי בסובאי יין בזוללי בשר למו</row>
+		<row row_number="14" isdata="1">ראיה לדבר זכר לדבר שנאמר אל תהי בסובאי יין בזוללי בשר למו:</row>
 		<row row_number="15" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רבי זירא תרטימר זה איני יודע מהו אלא מתוך שכפל ר' יוסי</row>
 		<row row_number="16" isdata="1">ביין נמצא כופל אף בבשר ונמצא תרטימר חצי מנה אמר רב חנן בר</row>
 		<row row_number="17" isdata="1">מולדה אמר רב הונא אינו חייב עד שיקח בשר בזול ויאכל יין בזול וישתה</row>

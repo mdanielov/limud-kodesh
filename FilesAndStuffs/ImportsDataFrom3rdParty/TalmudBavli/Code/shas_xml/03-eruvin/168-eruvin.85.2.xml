@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:53.669285</dateCreated>
-   <lastModified>2019-12-21 21:41:53.669285</lastModified>
+   <dateCreated>2020-01-06 09:31:22.481738</dateCreated>
+   <lastModified>2020-01-06 09:31:22.481738</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="85">
@@ -32,12 +32,12 @@
 		<row row_number="18" isdata="1">אסור לזרוק מזה לזה ושמואל אמר מותר</row>
 		<row row_number="19" isdata="1">לזרוק מזה לזה א"ל לאו מי אוקימנא דמדלי</row>
 		<row row_number="20" isdata="1">חד ומתתי חד זימנין דמגנדר ונפיל ואתי</row>
-		<row row_number="21" isdata="1">לאיתויימתני' הנותן את עירובו בבית</row>
+		<row row_number="21" isdata="1">לאיתויי<EndGemara/><StartMishna/>מתני' הנותן את עירובו בבית</row>
 		<row row_number="22" isdata="1">שער אכסדרה ומרפסת אינו עירוב והדר</row>
 		<row row_number="23" isdata="1">שם אינו אוסר עליו בית התבן ובית הבקר</row>
 		<row row_number="24" isdata="1">ובית העצים ובית האוצרות הרי זה עירוב</row>
 		<row row_number="25" isdata="1">והדר שם אוסר רבי יהודה אומר אם יש שם</row>
-		<row row_number="26" isdata="1">תפיסת יד של בעל הבית אינו אוסר<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="26" isdata="1">תפיסת יד של בעל הבית אינו אוסר :<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="27" isdata="1">אמר רב יהודה בריה דרב שמואל בר שילת</row>
 		<row row_number="28" isdata="1">כל מקום שאמרו הדר שם אינו אוסר הנותן</row>
 		<row row_number="29" isdata="1">את עירובו אינו עירוב חוץ מבית שער דיחיד</row>
@@ -56,8 +56,8 @@
 		<row row_number="42" isdata="1">אביי לרבה תניא דמסייע לך עירובי חצירות בחצר ושיתופי מבואות</row>
 		<row row_number="43" isdata="1">במבוי והוינן בה עירובי חצירות בחצר והתנן הנותן את עירובו בבית</row>
 		<row row_number="44" isdata="1">שער אכסדרה ומרפסת אינו עירוב אימא עירובי חצירות בבית שבחצר</row>
-		<row row_number="45" isdata="1">שיתופי מבואות בחצר שבמבוי רבי יהודה אומר אם יש שם תפיסת יד</row>
-		<row row_number="46" isdata="1">וכו' היכי דמי תפיסת יד כגון חצירו של בונייס בן בונייס אתא לקמיה</row>
+		<row row_number="45" isdata="1">שיתופי מבואות בחצר שבמבוי: רבי יהודה אומר אם יש שם תפיסת יד</row>
+		<row row_number="46" isdata="1">וכו': היכי דמי תפיסת יד כגון חצירו של בונייס בן בונייס אתא לקמיה</row>
 		<row row_number="47" isdata="1">דרבי אמר להו פנו מקום לבן מאה מנה אתא איניש אחרינא אמר להו</row>
 </amud>
 </daf>

@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:20.144415</dateCreated>
-   <lastModified>2019-12-21 21:42:20.144415</lastModified>
+   <dateCreated>2020-01-06 09:33:41.388003</dateCreated>
+   <lastModified>2020-01-06 09:33:41.388003</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="102">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "השואל"/><ContGemara/>ובא מעשה לפני רבן שמעון בן גמליאל</row>
-		<row row_number="2" isdata="1">ולפני ר' יוסי ואמרו יחלוקו את חדש העיבור</row>
+		<row row_number="1" isdata="1"><ContChapter name = "השואל"/><ContMishna/>ובא מעשה לפני רבן שמעון בן גמליאל</row>
+		<row row_number="2" isdata="1">ולפני ר' יוסי ואמרו יחלוקו את חדש העיבור:</row>
 		<row row_number="3" isdata="1"><EndMishna/><StartGemara/>גמ' מעשה לסתור חסורי מחסרא והכי קתני</row>
 		<row row_number="4" isdata="1">ואם אמר לו בשנים עשר זהובים לשנה</row>
 		<row row_number="5" isdata="1">מדינר זהב לחדש יחלוקו ומעשה נמי</row>

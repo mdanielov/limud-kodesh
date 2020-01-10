@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:58.192290</dateCreated>
-   <lastModified>2019-12-21 21:41:58.192290</lastModified>
+   <dateCreated>2020-01-06 09:31:45.267144</dateCreated>
+   <lastModified>2020-01-06 09:31:45.267144</lastModified>
  </meta>
  <masechet name="יומא" serial="06">
 <daf value="46">
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">אביי אמר חייב אש המזבח הוא רבא אמר פטור כיון דנתקה נתקה</row>
 		<row row_number="20" isdata="1">אלא הא דאמר רב נחמן אמר רבה בר אבוה המוריד גחלת מעל גבי</row>
 		<row row_number="21" isdata="1">המזבח וכבה חייב כמאן לא כאביי ולא כרבא התם לא אינתיק למצותה</row>
-		<row row_number="22" isdata="1">הכא אינתיק למצותה<EndChapter name = "טרף בקלפי"/><EndGemara/></row>
+		<row row_number="22" isdata="1">הכא אינתיק למצותה:<EndChapter name = "טרף בקלפי"/><EndGemara/></row>
 		<row row_number="23" isdata="0">הדרן עלך טרף בקלפי</row>
 </amud>
 </daf>

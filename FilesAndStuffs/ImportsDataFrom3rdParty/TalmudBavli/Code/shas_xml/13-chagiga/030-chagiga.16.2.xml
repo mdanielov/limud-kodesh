@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:02.716767</dateCreated>
-   <lastModified>2019-12-21 21:42:02.716767</lastModified>
+   <dateCreated>2020-01-06 09:32:19.992860</dateCreated>
+   <lastModified>2020-01-06 09:32:19.992860</lastModified>
  </meta>
  <masechet name="חגיגה" serial="13">
 <daf value="16">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "אין דורשין"/><ContGemara/>הראשונים היו נשיאים ושניים להם אב ב"ד</row>
+		<row row_number="1" isdata="1"><ContChapter name = "אין דורשין"/><ContMishna/>הראשונים היו נשיאים ושניים להם אב ב"ד:</row>
 		<row row_number="2" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר שלשה מזוגות הראשונים שאמרו</row>
 		<row row_number="3" isdata="1">שלא לסמוך ושנים מזוגות האחרונים</row>
 		<row row_number="4" isdata="1">שאמרו לסמוך (הראשונים) היו נשיאים</row>
@@ -42,8 +42,8 @@
 		<row row_number="28" isdata="1">יהודה בן טבאי אב ב"ד שמעון בן שטח</row>
 		<row row_number="29" isdata="1">נשיא אב ב"ד בפני נשיא מי מורה הלכה</row>
 		<row row_number="30" isdata="1">לא מאי קבל עליו דקאמר לאצטרופי דאפי'</row>
-		<row row_number="31" isdata="1">אצטרופי נמי לא מצטריפנא יצא מנחם</row>
-		<row row_number="32" isdata="1">ונכנס שמאי כו' להיכן יצא אביי אמר יצא</row>
+		<row row_number="31" isdata="1">אצטרופי נמי לא מצטריפנא: יצא מנחם</row>
+		<row row_number="32" isdata="1">ונכנס שמאי כו': להיכן יצא אביי אמר יצא</row>
 		<row row_number="33" isdata="1">לתרבות רעה רבא אמר יצא לעבודת המלך</row>
 		<row row_number="34" isdata="1">תניא נמי הכי יצא מנחם לעבודת המלך</row>
 		<row row_number="35" isdata="1">ויצאו עמו שמונים זוגות תלמידים לבושין</row>

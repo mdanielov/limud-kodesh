@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.921649</dateCreated>
-   <lastModified>2019-12-21 21:42:38.921649</lastModified>
+   <dateCreated>2020-01-06 09:35:08.237886</dateCreated>
+   <lastModified>2020-01-06 09:35:08.237886</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="25">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "הלוקח בהמה"/><ContGemara/>וחכמים אוסרין דברי ר' יהודה אמר לו ר' יוסי</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח בהמה"/><ContMishna/>וחכמים אוסרין דברי ר' יהודה אמר לו ר' יוסי</row>
 		<row row_number="2" isdata="1">לא בזה התיר עקביא בן מהללאל אלא</row>
 		<row row_number="3" isdata="1">שער בעל מום שנשר והניחו בחלון ואחר כך</row>
 		<row row_number="4" isdata="1">מת בזה עקביא בן מהללאל מתיר וחכמים</row>
 		<row row_number="5" isdata="1">אוסרין צמר המדולדל בבכור את שנראה</row>
 		<row row_number="6" isdata="1">עם הגיזה מותר ואת שאינו נראה עם</row>
-		<row row_number="7" isdata="1">הגיזה אסור<EndMishna/><StartGemara/>גמ' מכלל דאסר השתא במת</row>
+		<row row_number="7" isdata="1">הגיזה אסור:<EndMishna/><StartGemara/>גמ' מכלל דאסר השתא במת</row>
 		<row row_number="8" isdata="1">שרי שחטו מיבעיא אלא לא בזה התיר</row>
 		<row row_number="9" isdata="1">עקביא וחכמים אוסרין שחטו דברי הכל</row>
 		<row row_number="10" isdata="1">שרי כי פליגי במת אמר רבי אסי אמר ריש</row>

@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.802632</dateCreated>
-   <lastModified>2019-12-21 21:42:38.802632</lastModified>
+   <dateCreated>2020-01-06 09:35:06.944637</dateCreated>
+   <lastModified>2020-01-06 09:35:06.944637</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="17">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר פרתו"/><ContGemara/>וחייב במתנות ורבי יוסי פוטר מת אחד מהן</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר פרתו"/><ContMishna/>וחייב במתנות ורבי יוסי פוטר מת אחד מהן</row>
 		<row row_number="2" isdata="1">ר"ט אומר יחלוקו ר"ע אומר המוציא מחבירו</row>
-		<row row_number="3" isdata="1">עליו הראיה זכר ונקבה אין כאן לכהן כלום</row>
+		<row row_number="3" isdata="1">עליו הראיה זכר ונקבה אין כאן לכהן כלום:</row>
 		<row row_number="4" isdata="1"><EndMishna/><StartGemara/>גמ' אמרי דבי רבי ינאי לרבי יוסי הגלילי</row>
 		<row row_number="5" isdata="1">שמעינן ליה דאמר אפשר לצמצם בידי</row>
 		<row row_number="6" isdata="1">שמים וכ"ש בידי אדם ורבנן בידי שמים אי</row>

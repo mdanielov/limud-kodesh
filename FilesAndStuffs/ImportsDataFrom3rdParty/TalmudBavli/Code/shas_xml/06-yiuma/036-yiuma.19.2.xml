@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:57.653055</dateCreated>
-   <lastModified>2019-12-21 21:41:57.653055</lastModified>
+   <dateCreated>2020-01-06 09:31:40.679793</dateCreated>
+   <lastModified>2020-01-06 09:31:40.679793</lastModified>
  </meta>
  <masechet name="יומא" serial="06">
 <daf value="19">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "שבעת ימים"/><ContGemara/>מי איכא מידי דאנן לא מצינן למעבד ושלוחי</row>
 		<row row_number="2" isdata="1">דידן מצו עבדי הכי קאמרי ליה משביעין</row>
-		<row row_number="3" isdata="1">אנו עליך על דעתינו ועל דעת בית דין</row>
-		<row row_number="4" isdata="1">הוא פורש ובוכה והן פורשין ובוכין וכו'</row>
+		<row row_number="3" isdata="1">אנו עליך על דעתינו ועל דעת בית דין:</row>
+		<row row_number="4" isdata="1">הוא פורש ובוכה והן פורשין ובוכין וכו':</row>
 		<row row_number="5" isdata="1">הוא פורש ובוכה שחשדוהו צדוקי והם</row>
 		<row row_number="6" isdata="1">פורשין ובוכין דא"ר יהושע בן לוי כל</row>
 		<row row_number="7" isdata="1">החושד בכשרים לוקה בגופו וכל כך למה</row>
@@ -33,8 +33,8 @@
 		<row row_number="19" isdata="1">קול נשמע בעזרה שבא מלאך וחבטו על</row>
 		<row row_number="20" isdata="1">פניו ונכנסו אחיו הכהנים ומצאו ככף רגל</row>
 		<row row_number="21" isdata="1">עגל בין כתפיו שנאמר ורגליהם רגל ישרה</row>
-		<row row_number="22" isdata="1">וכף רגליהם ככף רגל עגל א"ר זכריה בן</row>
-		<row row_number="23" isdata="1">קבוטל וכו' מתני ליה רב חנן בר רבא</row>
+		<row row_number="22" isdata="1">וכף רגליהם ככף רגל עגל: א"ר זכריה בן</row>
+		<row row_number="23" isdata="1">קבוטל וכו': מתני ליה רב חנן בר רבא</row>
 		<row row_number="24" isdata="1">לחייא בר רב קמיה דרב א"ר זכריה בן</row>
 		<row row_number="25" isdata="1">קפוטל ומחוי ליה רב בידיה קבוטל ונימא</row>
 		<row row_number="26" isdata="1">ליה מימר ק"ש הוה קרי וכי האי גוונא מי</row>
@@ -51,12 +51,12 @@
 		<row row_number="37" isdata="1">ואל תעשם עראי אמר רבא השח שיחת</row>
 		<row row_number="38" isdata="1">חולין עובר בעשה שנאמר ודברת בם בם</row>
 		<row row_number="39" isdata="1">ולא בדברים אחרים רב אחא בר יעקב אמר עובר בלאו שנאמר כל</row>
-		<row row_number="40" isdata="1">הדברים יגעים לא יוכל איש לדברמתני' בקש להתנמנם פרחי כהונה</row>
+		<row row_number="40" isdata="1">הדברים יגעים לא יוכל איש לדבר<EndGemara/><StartMishna/>מתני' בקש להתנמנם פרחי כהונה</row>
 		<row row_number="41" isdata="1">מכין לפניו באצבע צרדא ואומרים לו אישי כ"ג עמוד והפג אחת על</row>
-		<row row_number="42" isdata="1">הרצפה ומעסיקין אותו עד שיגיע זמן השחיטה<EndMishna/><StartGemara/>גמ' מאי צרדא אמר רב</row>
-		<row row_number="43" isdata="1">יהודה צרתה דדא מאי היא גודל מחוי רב הונא ואזל קלא בכולי בי רב</row>
-		<row row_number="44" isdata="1">ואומרים לו אישי כ"ג הפג אחת על הרצפה וכו' אמר רב יצחק על חדת</row>
-		<row row_number="45" isdata="1">מאי היא אמרי ליה אחוי קידה ומעסיקין אותו עד שיגיע זמן שחיטה (וכו')</row>
+		<row row_number="42" isdata="1">הרצפה ומעסיקין אותו עד שיגיע זמן השחיטה:<EndMishna/><StartGemara/>גמ' מאי צרדא אמר רב</row>
+		<row row_number="43" isdata="1">יהודה צרתה דדא מאי היא גודל מחוי רב הונא ואזל קלא בכולי בי רב:</row>
+		<row row_number="44" isdata="1">ואומרים לו אישי כ"ג הפג אחת על הרצפה וכו': אמר רב יצחק על חדת</row>
+		<row row_number="45" isdata="1">מאי היא אמרי ליה אחוי קידה: ומעסיקין אותו עד שיגיע זמן שחיטה (וכו'):</row>
 		<row row_number="46" isdata="1">תנא לא היו מעסיקין אותו לא בנבל ולא בכנור אלא בפה ומה היו אומרין</row>
 		<row row_number="47" isdata="1">אם ה' לא יבנה בית שוא עמלו בוניו בו מיקירי ירושלים לא היו ישנין כל</row>
 		<row row_number="48" isdata="1">הלילה כדי שישמע כ"ג קול הברה ולא תהא שינה חוטפתו תניא אבא שאול</row>

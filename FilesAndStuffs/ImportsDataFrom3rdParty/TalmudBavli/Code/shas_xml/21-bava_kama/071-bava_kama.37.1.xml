@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.022439</dateCreated>
-   <lastModified>2019-12-21 21:42:16.022439</lastModified>
+   <dateCreated>2020-01-06 09:33:23.704690</dateCreated>
+   <lastModified>2020-01-06 09:33:23.704690</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="37">
@@ -19,7 +19,7 @@
 		<row row_number="5" isdata="1">הב ליה פלגא דזוזא הוה ליה זוזא מכא בעי</row>
 		<row row_number="6" isdata="1">למיתבה ליה מיניה פלגא דזוזא לא הוה</row>
 		<row row_number="7" isdata="1">משתקיל ליה תקע ליה אחרינא ויהביה</row>
-		<row row_number="8" isdata="1">נהליהמתני' שור שהוא מועד למינו</row>
+		<row row_number="8" isdata="1">נהליה<EndGemara/><StartMishna/>מתני' שור שהוא מועד למינו</row>
 		<row row_number="9" isdata="1">ואינו מועד לשאינו מינו מועד לאדם ואינו</row>
 		<row row_number="10" isdata="1">מועד לבהמה מועד לקטנים ואינו מועד</row>
 		<row row_number="11" isdata="1">לגדולים את שהוא מועד לו משלם נזק שלם</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">לפני רבי יהודה ה"ז מועד לשבתות</row>
 		<row row_number="14" isdata="1">ואינו מועד לחול אמר להם לשבתות משלם</row>
 		<row row_number="15" isdata="1">נזק שלם לימות החול משלם חצי נזק אימתי</row>
-		<row row_number="16" isdata="1">הוא תם משיחזור בו ג' ימי שבתות</row>
+		<row row_number="16" isdata="1">הוא תם משיחזור בו ג' ימי שבתות:</row>
 		<row row_number="17" isdata="1"><EndMishna/><StartGemara/>גמ' איתמר רב זביד אמר ואינו מועד תנן</row>
 		<row row_number="18" isdata="1">רב פפא אמר אינו מועד תנן רב זביד אמר</row>
 		<row row_number="19" isdata="1">ואינו מועד תנן הא סתמא הוי מועד רב פפא</row>
@@ -68,8 +68,8 @@
 		<row row_number="54" isdata="1">שמועד לו משלם נזק שלם ואת שאינו מועד לו [משלם] ח"נ אי אמרת בשלמא ואינו מועד קתני</row>
 		<row row_number="55" isdata="1">פרושי קא מפרש לה אלא אי אמרת אינו מועד קתני פסקה מאי תו את שמועד לו משלם נזק שלם</row>
 		<row row_number="56" isdata="1">ואת שאינו מועד לו משלם ח"נ עד השתא לא אשמעינן דהתם משלם ח"נ ומועד משלם נזק שלם</row>
-		<row row_number="57" isdata="1">ואת"ל נמי איתא לדרב פפא נגח שור חמור וגמל נעשה מועד לכל ת"ר ראה שור נגח שור לא</row>
-		<row row_number="58" isdata="1">נגח שור נגח שור לא נגח שור נגח שור לא נגח נעשה מועד לסירוגין לשוורים ת"ר ראה שור נגח</row>
+		<row row_number="57" isdata="1">ואת"ל נמי איתא לדרב פפא נגח שור חמור וגמל נעשה מועד לכל: ת"ר ראה שור נגח שור לא</row>
+		<row row_number="58" isdata="1">נגח שור נגח שור לא נגח שור נגח שור לא נגח נעשה מועד לסירוגין לשוורים: ת"ר ראה שור נגח</row>
 		<row row_number="59" isdata="1">חמור לא נגח סוס נגח גמל לא נגח פרד נגח ערוד לא נגח נעשה מועד לסירוגין לכל איבעיא להו נגח</row>
 </amud>
 </daf>

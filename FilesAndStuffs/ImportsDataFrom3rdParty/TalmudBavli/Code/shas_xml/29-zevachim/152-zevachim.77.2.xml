@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.930766</dateCreated>
-   <lastModified>2019-12-21 21:42:31.930766</lastModified>
+   <dateCreated>2020-01-06 09:34:37.035144</dateCreated>
+   <lastModified>2020-01-06 09:34:37.035144</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="77">
@@ -25,16 +25,16 @@
 		<row row_number="11" isdata="1">קאמר להו לדידי רחמנא אכשריה לדידכו</row>
 		<row row_number="12" isdata="1">אודו לי מיהא בשר בעלת מום כעצים דמי</row>
 		<row row_number="13" isdata="1">מידי דהוה אבשר חטאת ורבנן הכא מאיסי</row>
-		<row row_number="14" isdata="1">התם לא מאיסימתני' אברין באברין</row>
+		<row row_number="14" isdata="1">התם לא מאיסי<EndGemara/><StartMishna/>מתני' אברין באברין</row>
 		<row row_number="15" isdata="1">בעלי מומין ר"א אומר אם קרב ראש אחד</row>
 		<row row_number="16" isdata="1">מהן יקרבו כל הראשין כרעים של אחד מהן</row>
 		<row row_number="17" isdata="1">יקרבו כל הכרעים וחכ"א אפי' קרבו כלם</row>
-		<row row_number="18" isdata="1">חוץ מאחד מהן יצא לבית השריפה<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="18" isdata="1">חוץ מאחד מהן יצא לבית השריפה:<EndMishna/><StartGemara/>גמ'</row>
 		<row row_number="19" isdata="1">אמר ר"א לא הכשיר ר"א אלא שנים שנים</row>
 		<row row_number="20" isdata="1">אבל אחד אחד לא מתיב ר' ירמיה וחכ"א</row>
 		<row row_number="21" isdata="1">אפי' קרבו כולן חוץ מאחד מהן יצא לבית</row>
 		<row row_number="22" isdata="1">השריפה אמר לו ר' ירמיה בר תחליפא אסברה</row>
-		<row row_number="23" isdata="1">לך מאי אחד זוג אחדמתני' דם שנתערב</row>
+		<row row_number="23" isdata="1">לך מאי אחד זוג אחד<EndGemara/><StartMishna/>מתני' דם שנתערב</row>
 		<row row_number="24" isdata="1">במים אם יש בו מראית דם כשר נתערב ביין</row>
 		<row row_number="25" isdata="1">רואין אותו כאילו הוא מים נתערב בדם</row>
 		<row row_number="26" isdata="1">בהמה או בדם החיה רואין אותו כאילו הוא מים</row>

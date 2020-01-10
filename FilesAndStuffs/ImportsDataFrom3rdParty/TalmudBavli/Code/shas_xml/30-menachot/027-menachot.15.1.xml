@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.114449</dateCreated>
-   <lastModified>2019-12-21 21:42:33.114449</lastModified>
+   <dateCreated>2020-01-06 09:34:42.456257</dateCreated>
+   <lastModified>2020-01-06 09:34:42.456257</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="15">
@@ -30,7 +30,7 @@
 		<row row_number="16" isdata="1">והטהור יאכל ואם איתא לפי שאין הציץ</row>
 		<row row_number="17" isdata="1">מרצה על אכילות מיבעי ליה אלא א"ר יוחנן</row>
 		<row row_number="18" isdata="1">למוד ערוך הוא בפיו של רבי יהודה שאין</row>
-		<row row_number="19" isdata="1">קרבן ציבור חלוקמתני' התודה מפגלת</row>
+		<row row_number="19" isdata="1">קרבן ציבור חלוק<EndGemara/><StartMishna/>מתני' התודה מפגלת</row>
 		<row row_number="20" isdata="1">את הלחם והלחם אינו מפגל את התודה</row>
 		<row row_number="21" isdata="1">כיצד שחט את התודה לאכול ממנה למחר</row>
 		<row row_number="22" isdata="1">היא והלחם מפוגלין לאכול מן הלחם למחר</row>
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">הכבשים כיצד השוחט את הכבשים לאכול</row>
 		<row row_number="26" isdata="1">מהן למחר הם והלחם מפוגלין לאכול את</row>
 		<row row_number="27" isdata="1">הלחם למחר הלחם מפוגל והכבשים אינן</row>
-		<row row_number="28" isdata="1">מפוגלין<EndMishna/><StartGemara/>גמ' מ"ט אילימא משום דרב</row>
+		<row row_number="28" isdata="1">מפוגלין:<EndMishna/><StartGemara/>גמ' מ"ט אילימא משום דרב</row>
 		<row row_number="29" isdata="1">כהנא דאמר רב כהנא מנין ללחמי תודה</row>
 		<row row_number="30" isdata="1">שנקראו תודה שנאמר והקריב על זבח</row>
 		<row row_number="31" isdata="1">התודה חלות אי הכי איפכא נמי הא לא קשיא</row>
@@ -53,7 +53,7 @@
 		<row row_number="39" isdata="1">מפגל בלחם לא מפגלא תודה משום דלא</row>
 		<row row_number="40" isdata="1">הוזקקו זה לזה בתנופה אבל כבשים דהוזקקו</row>
 		<row row_number="41" isdata="1">זה לזה בתנופה אימא כי מפגל בלחם ליפגלי</row>
-		<row row_number="42" isdata="1">נמי כבשים צריכא בעא מיניה ר"א מרב</row>
+		<row row_number="42" isdata="1">נמי כבשים צריכא: בעא מיניה ר"א מרב</row>
 		<row row_number="43" isdata="1">השוחט את התודה לאכול כזית ממנה</row>
 		<row row_number="44" isdata="1">ומלחמה למחר מהו לאיפגולי תודה לא</row>
 		<row row_number="45" isdata="1">מיבעיא לי השתא כולו מלחמה לא מיפגלא</row>

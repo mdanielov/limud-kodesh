@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.984346</dateCreated>
-   <lastModified>2019-12-21 21:41:49.984346</lastModified>
+   <dateCreated>2020-01-06 09:31:08.670280</dateCreated>
+   <lastModified>2020-01-06 09:31:08.670280</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="103">
@@ -16,9 +16,9 @@
 		<row row_number="2" isdata="1">כמאן דחר חורתא לבניינא אלא לשמואל</row>
 		<row row_number="3" isdata="1">לאו גמר מלאכה הוא הכא במאי עסקינן</row>
 		<row row_number="4" isdata="1">דבזעיה ברמצא דפרזלא ושבקיה בגוויה</row>
-		<row row_number="5" isdata="1">דהיינו גמר מלאכה זה הכלל זה הכלל</row>
-		<row row_number="6" isdata="1">לאתויי מאי לאתויי דחק קפיזא בקבא</row>
-		<row row_number="7" isdata="1">רשב"ג אומר המכה בקורנס על הסדן כו'</row>
+		<row row_number="5" isdata="1">דהיינו גמר מלאכה: זה הכלל: זה הכלל</row>
+		<row row_number="6" isdata="1">לאתויי מאי לאתויי דחק קפיזא בקבא:</row>
+		<row row_number="7" isdata="1">רשב"ג אומר המכה בקורנס על הסדן כו':</row>
 		<row row_number="8" isdata="1">מאי קעביד רבה ורב יוסף דאמרי תרוייהו</row>
 		<row row_number="9" isdata="1">מפני שמאמן את ידו קשו בה בני רחבה</row>
 		<row row_number="10" isdata="1">אלא מעתה חזא אומנתא בשבתא וגמר הכי</row>
@@ -26,14 +26,14 @@
 		<row row_number="12" isdata="1">שכן מרדדי טסי משכן עושין כן תניא נמי</row>
 		<row row_number="13" isdata="1">הכי רשב"ג אומר אף המכה בקורנס על</row>
 		<row row_number="14" isdata="1">הסדן בשעת מלאכה חייב שכן מרדדי טסי</row>
-		<row row_number="15" isdata="1">משכן עושין כןמתני' החורש כל שהוא</row>
+		<row row_number="15" isdata="1">משכן עושין כן<EndGemara/><StartMishna/>מתני' החורש כל שהוא</row>
 		<row row_number="16" isdata="1">המנכש והמקרסם והמזרד כל שהוא חייב</row>
 		<row row_number="17" isdata="1">המלקט עצים אם לתקן כל שהן אם להיסק</row>
 		<row row_number="18" isdata="1">כדי לבשל ביצה קלה המלקט עשבים אם</row>
-		<row row_number="19" isdata="1">לתקן כל שהוא אם לבהמה כמלא פי הגדי</row>
+		<row row_number="19" isdata="1">לתקן כל שהוא אם לבהמה כמלא פי הגדי:</row>
 		<row row_number="20" isdata="1"><EndMishna/><StartGemara/>גמ' למאי חזי חזי לביזרא דקרא דכוותה</row>
-		<row row_number="21" isdata="1">גבי משכן שכן ראוי לקלח אחד של סמנין</row>
-		<row row_number="22" isdata="1">המנכש והמקרסם והמזרד ת"ר התולש</row>
+		<row row_number="21" isdata="1">גבי משכן שכן ראוי לקלח אחד של סמנין:</row>
+		<row row_number="22" isdata="1">המנכש והמקרסם והמזרד: ת"ר התולש</row>
 		<row row_number="23" isdata="1">עולשין והמזרד זרדים אם לאכילה כגרוגרת</row>
 		<row row_number="24" isdata="1">אם לבהמה כמלא פי הגדי אם להיסק כדי</row>
 		<row row_number="25" isdata="1">לבשל ביצה קלה אם לייפות את הקרקע כל</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">אביי אמר אפילו תימא בשדה דלאו אגם</row>
 		<row row_number="29" isdata="1">וכגון דלא קמיכוין והא אביי ורבא דאמרי</row>
 		<row row_number="30" isdata="1">תרוייהו מודה רבי שמעון בפסיק רישיה ולא</row>
-		<row row_number="31" isdata="1">ימות לא צריכא דקעביד בארעא דחבריה</row>
+		<row row_number="31" isdata="1">ימות לא צריכא דקעביד בארעא דחבריה:</row>
 		<row row_number="32" isdata="1"><EndGemara/><StartMishna/>מתני' הכותב שתי אותיות בין בימינו בין</row>
 		<row row_number="33" isdata="1">בשמאלו בין משם אחד בין משתי שמות</row>
 		<row row_number="34" isdata="1">בין משתי סמניות בכל לשון חייב אמר רבי</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">שכך כותבין על קרשי המשכן לידע איזו בן</row>
 		<row row_number="37" isdata="1">זוגו א"ר יהודה מצינו שם קטן משם גדול</row>
 		<row row_number="38" isdata="1">שם משמעון ומשמואל נח מנחור דן מדניאל</row>
-		<row row_number="39" isdata="1">גד מגדיאל<EndMishna/><StartGemara/>גמ' בשלמא אימין ליחייב</row>
+		<row row_number="39" isdata="1">גד מגדיאל:<EndMishna/><StartGemara/>גמ' בשלמא אימין ליחייב</row>
 		<row row_number="40" isdata="1">משום דדרך כתיבה בכך אלא אשמאל</row>
 		<row row_number="41" isdata="1">אמאי הא אין דרך כתיבה בכך א"ר ירמיה</row>
 		<row row_number="42" isdata="1">באטר יד שנו ותהוי שמאל דידיה כימין</row>
@@ -59,7 +59,7 @@
 		<row row_number="45" isdata="1">בריה דבת יעקב אמר הא מני ר' יוסי היא</row>
 		<row row_number="46" isdata="1">דאמר לא חייבו שתי אותיות אלא משום</row>
 		<row row_number="47" isdata="1">רושם והא מדסיפא ר' יוסי היא רישא לאו ר'</row>
-		<row row_number="48" isdata="1">יוסי כולה רבי יוסי היא א"ר יהודה מצינו</row>
+		<row row_number="48" isdata="1">יוסי כולה רבי יוסי היא: א"ר יהודה מצינו:</row>
 		<row row_number="49" isdata="1">אלא ר' יהודה שתי אותיות והן שני שמות</row>
 		<row row_number="50" isdata="1">הוא דמחייב שתי אותיות והן שם אחד לא</row>
 		<row row_number="51" isdata="1">מחייב והתניא ועשה אחת יכול עד שיכתוב</row>

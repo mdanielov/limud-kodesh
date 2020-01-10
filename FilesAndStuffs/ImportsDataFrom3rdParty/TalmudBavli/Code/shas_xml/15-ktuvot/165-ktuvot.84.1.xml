@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.123728</dateCreated>
-   <lastModified>2019-12-21 21:42:07.123728</lastModified>
+   <dateCreated>2020-01-06 09:32:41.093062</dateCreated>
+   <lastModified>2020-01-06 09:32:41.093062</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="84">
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">קברו מעמדו ומקום הספידו באין בני משפחה</row>
 		<row row_number="31" isdata="1">וקוברין אותו בעל כרחו משום פגם משפחה</row>
 		<row row_number="32" isdata="1">רב לטעמיה דרבי יוחנן בן ברוקא קאמר וליה</row>
-		<row row_number="33" isdata="1">לא סבירא ליהמתני' מי שמת והניח אשה</row>
+		<row row_number="33" isdata="1">לא סבירא ליה<EndGemara/><StartMishna/>מתני' מי שמת והניח אשה</row>
 		<row row_number="34" isdata="1">ובעל חוב ויורשין והיה לו פקדון או מלוה ביד</row>
 		<row row_number="35" isdata="1">אחרים רבי טרפון אומר ינתנו לכושל שבהן</row>
 		<row row_number="36" isdata="1">רבי עקיבא אומר אין מרחמין בדין אלא ינתנו</row>
@@ -55,15 +55,15 @@
 		<row row_number="41" isdata="1">רבי טרפון אומר ינתנו לכושל שבהן רבי</row>
 		<row row_number="42" isdata="1">עקיבא אומר אין מרחמין בדין אלא ינתנו</row>
 		<row row_number="43" isdata="1">ליורשין שכולם צריכין שבועה ואין היורשין</row>
-		<row row_number="44" isdata="1">צריכין שבועה<EndMishna/><StartGemara/>גמ' למה לי למיתני מלוה</row>
+		<row row_number="44" isdata="1">צריכין שבועה:<EndMishna/><StartGemara/>גמ' למה לי למיתני מלוה</row>
 		<row row_number="45" isdata="1">למה לי למיתני פקדון צריכא דאי תנא מלוה</row>
 		<row row_number="46" isdata="1">בהא קאמר רבי טרפון משום דמלוה להוצאה</row>
 		<row row_number="47" isdata="1">ניתנה אבל פקדון דאיתיה בעיניה אימא מודי ליה לרבי עקיבא ואי</row>
 		<row row_number="48" isdata="1">תנא הא בהא קאמר רבי עקיבא אבל בהך אימא מודי לרבי טרפון</row>
-		<row row_number="49" isdata="1">צריכא מאי לכושל רבי יוסי ברבי חנינא אומר לכושל שבראיה רבי</row>
+		<row row_number="49" isdata="1">צריכא: מאי לכושל רבי יוסי ברבי חנינא אומר לכושל שבראיה רבי</row>
 		<row row_number="50" isdata="1">יוחנן אמר לכתובת אשה משום חינא כתנאי ר' בנימין אומר לכושל</row>
-		<row row_number="51" isdata="1">שבראיה והוא כשר רבי אלעזר אומר לכתובת אשה משום חינא הניח</row>
-		<row row_number="52" isdata="1">פירות התלושין ורבי עקיבא מאי איריא מותר כולהו נמי דיורשין הוו</row>
+		<row row_number="51" isdata="1">שבראיה והוא כשר רבי אלעזר אומר לכתובת אשה משום חינא: הניח</row>
+		<row row_number="52" isdata="1">פירות התלושין: ורבי עקיבא מאי איריא מותר כולהו נמי דיורשין הוו</row>
 		<row row_number="53" isdata="1">אין הכי נמי ואיידי דאמר רבי טרפון מותר תנא איהו נמי מותר</row>
 </amud>
 </daf>

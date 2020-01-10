@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:04.024393</dateCreated>
-   <lastModified>2019-12-21 21:42:04.024393</lastModified>
+   <dateCreated>2020-01-06 09:32:26.531013</dateCreated>
+   <lastModified>2020-01-06 09:32:26.531013</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="56">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "הבא על יבמתו"/><ContGemara/>מכאן ואילך אינו אלא נשיקה ופטור עליה</row>
-		<row row_number="2" isdata="1">ופליג אדשמואל אחד המערה ואחד הגומר</row>
-		<row row_number="3" isdata="1">קנה מאי קנה רב אמר קנה לכל ושמואל</row>
+		<row row_number="2" isdata="1">ופליג אדשמואל: אחד המערה ואחד הגומר</row>
+		<row row_number="3" isdata="1">קנה: מאי קנה רב אמר קנה לכל ושמואל</row>
 		<row row_number="4" isdata="1">אמר לא קנה אלא לדברים האמורים בפרשה</row>
 		<row row_number="5" isdata="1">לירש בנכסי אחיו ולפוטרה מן הייבום מן</row>
 		<row row_number="6" isdata="1">הנשואין לד"ה אכלה דהא הות קאכלה</row>
@@ -50,7 +50,7 @@
 		<row row_number="36" isdata="1">מת ונפלה לפני יבם חרש אוכלת ובזו יפה</row>
 		<row row_number="37" isdata="1">כח יבם מכח בעל בשלמא לרב מתרץ</row>
 		<row row_number="38" isdata="1">כדתריץ מעיקרא אלא לשמואל קשיא</row>
-		<row row_number="39" isdata="1">קשיא ת"ר בת ישראל פקחת שנתארסה</row>
+		<row row_number="39" isdata="1">קשיא: ת"ר בת ישראל פקחת שנתארסה</row>
 		<row row_number="40" isdata="1">לכהן פקח ולא הספיק לכונסה עד שנתחרש</row>
 		<row row_number="41" isdata="1">אינה אוכלת נולד לה בן אוכלת מת הבן</row>
 		<row row_number="42" isdata="1">רבי נתן אומר אוכלת וחכמים אומרים אינה</row>
@@ -62,8 +62,8 @@
 		<row row_number="48" isdata="1">יוסף קסבר ר' נתן נשואי חרש מאכילין בתרומה ולא גזרינן נשואי חרש אטו</row>
 		<row row_number="49" isdata="1">קדושי חרש א"ל אביי אי הכי נולד לה בן למה לי משום רבנן וליפלוג רבי</row>
 		<row row_number="50" isdata="1">נתן עלייהו ברישא שביק להו לרבנן עד דמסיימי מילתייהו והדר פליג עלייהו</row>
-		<row row_number="51" isdata="1">אי הכי ליתני מת הבן אינה אוכלת רבי נתן אומר אוכלת קשיא וכן</row>
-		<row row_number="52" isdata="1">הבא על אחת מכל העריות אמר רב עמרם הא מלתא אמר לן רב ששת</row>
+		<row row_number="51" isdata="1">אי הכי ליתני מת הבן אינה אוכלת רבי נתן אומר אוכלת קשיא: וכן</row>
+		<row row_number="52" isdata="1">הבא על אחת מכל העריות: אמר רב עמרם הא מלתא אמר לן רב ששת</row>
 </amud>
 </daf>
 </masechet>

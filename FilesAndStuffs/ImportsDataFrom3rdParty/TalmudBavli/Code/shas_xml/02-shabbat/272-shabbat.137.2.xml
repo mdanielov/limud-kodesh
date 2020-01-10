@@ -6,23 +6,23 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:51.051303</dateCreated>
-   <lastModified>2019-12-21 21:41:51.051303</lastModified>
+   <dateCreated>2020-01-06 09:31:12.267631</dateCreated>
+   <lastModified>2020-01-06 09:31:12.267631</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="137">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "רבי אליעזר דמילה"/><ContGemara/>מל ולא פרע את המילה כאילו לא מל</row>
+		<row row_number="1" isdata="1"><ContChapter name = "רבי אליעזר דמילה"/><ContMishna/>מל ולא פרע את המילה כאילו לא מל:</row>
 		<row row_number="2" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רבי אבינא א"ר ירמיה בר אבא</row>
 		<row row_number="3" isdata="1">אמר רב בשר החופה את רוב גובהה של</row>
-		<row row_number="4" isdata="1">עטרה ואם היה בעל בשר וכו' אמר</row>
+		<row row_number="4" isdata="1">עטרה: ואם היה בעל בשר וכו': אמר</row>
 		<row row_number="5" isdata="1">שמואל קטן המסורבל בבשר רואין אותו</row>
 		<row row_number="6" isdata="1">כ"ז שמתקשה ונראה מהול אינו צריך למול</row>
 		<row row_number="7" isdata="1">ואם לאו צריך למול במתניתא תנא רשב"ג</row>
 		<row row_number="8" isdata="1">אומר קטן המסורבל בבשר רואין אותו כל</row>
 		<row row_number="9" isdata="1">זמן שמתקשה ואינו נראה מהול צריך למולו</row>
 		<row row_number="10" isdata="1">ואם לאו אינו צריך למולו מאי בינייהו איכא</row>
-		<row row_number="11" isdata="1">בינייהו נראה ואינו נראה מל ולא פרע</row>
+		<row row_number="11" isdata="1">בינייהו נראה ואינו נראה: מל ולא פרע:</row>
 		<row row_number="12" isdata="1">ת"ר המל אומר אקב"ו על המילה אבי</row>
 		<row row_number="13" isdata="1">הבן אומר אקב"ו להכניסו בבריתו של</row>
 		<row row_number="14" isdata="1">אברהם אבינו העומדים אומרים כשם</row>
@@ -43,11 +43,11 @@
 		<row row_number="29" isdata="1">את העבדים ולהטיף מהם דם ברית שאילמלא</row>
 		<row row_number="30" isdata="1">דם ברית חוקות שמים וארץ לא נתקיימו שנאמ'</row>
 		<row row_number="31" isdata="1">אם לא בריתי יומם ולילה חוקות שמים וארץ</row>
-		<row row_number="32" isdata="1">לא שמתי בא"י כורת הברית<EndChapter name = "רבי אליעזר דמילה"/><EndGemara/></row>
+		<row row_number="32" isdata="1">לא שמתי בא"י כורת הברית:<EndChapter name = "רבי אליעזר דמילה"/><EndGemara/></row>
 		<row row_number="33" isdata="0">הדרן עלך רבי אליעזר דמילה</row>
 		<row row_number="34" isdata="1"><StartChapter name = "תולין"/><StartMishna/>רבי אליעזר אומר תולין את המשמרת בי"ט</row>
 		<row row_number="35" isdata="1">ונותנין לתלויה בשבת וחכ"א אין תולין</row>
-		<row row_number="36" isdata="1">את המשמרת בי"ט ואין נותנין לתלויה בשבת אבל נותנין לתלויה ביו"ט</row>
+		<row row_number="36" isdata="1">את המשמרת בי"ט ואין נותנין לתלויה בשבת אבל נותנין לתלויה ביו"ט:</row>
 		<row row_number="37" isdata="1"><EndMishna/><StartGemara/>גמ' השתא ר"א אוסופי אהל עראי לא מוספינן למיעבד לכתחלה שרי מאי</row>
 		<row row_number="38" isdata="1">היא דתנן פקק החלון ר"א אומר בזמן שקשור ותלוי פוקקין בו ואם לאו אין</row>
 		<row row_number="39" isdata="1">פוקקין בו וחכ"א בין כך ובין כך פוקקין בו ואמר רבה בר בר חנה א"ר יוחנן</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">לשבת אלא אוכל נפש בלבד רבי יהודה מתיר אף מכשירי אוכל נפש</row>
 		<row row_number="44" isdata="1">אימר דשמעינן ליה לר' יהודה במכשירין שאי אפשר לעשותם מערב</row>
 		<row row_number="45" isdata="1">יום טוב במכשירין שאפשר לעשותם מעיו"ט מי שמעת ליה דר"א</row>
-		<row row_number="46" isdata="1">עדיפא מדרבי יהודה וחכ"א איבעיא להו תלה מאי אמר רב יוסף תלה</row>
+		<row row_number="46" isdata="1">עדיפא מדרבי יהודה: וחכ"א: איבעיא להו תלה מאי אמר רב יוסף תלה</row>
 		<row row_number="47" isdata="1">חייב חטאת א"ל אביי אלא מעתה תלא כוזא בסיכתא הכי נמי דמיחייב</row>
 </amud>
 </daf>

@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:02.066806</dateCreated>
-   <lastModified>2019-12-21 21:42:02.066806</lastModified>
+   <dateCreated>2020-01-06 09:32:15.959741</dateCreated>
+   <lastModified>2020-01-06 09:32:15.959741</lastModified>
  </meta>
  <masechet name="מגילה" serial="11">
 <daf value="31">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "בני העיר "/><ContGemara/>ברכות וקללות אין מפסיקין בקללות אלא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "בני העיר "/><ContMishna/>ברכות וקללות אין מפסיקין בקללות אלא</row>
 		<row row_number="2" isdata="1">אחד קורא את כולן בשני ובחמישי בשבת</row>
 		<row row_number="3" isdata="1">במנחה קורין כסדרן ואין עולים להם מן</row>
 		<row row_number="4" isdata="1">החשבון שנאמר וידבר משה את מועדי ה'</row>
 		<row row_number="5" isdata="1">אל בני ישראל מצותן שיהו קורין כל אחד</row>
-		<row row_number="6" isdata="1">ואחד בזמנו<EndMishna/><StartGemara/>גמ' ת"ר בפסח קורין בפרשת</row>
+		<row row_number="6" isdata="1">ואחד בזמנו:<EndMishna/><StartGemara/>גמ' ת"ר בפסח קורין בפרשת</row>
 		<row row_number="7" isdata="1">מועדות ומפטירין בפסח גלגל והאידנא</row>
 		<row row_number="8" isdata="1">דאיכא תרי יומי יומא קמא בפסח גלגל</row>
 		<row row_number="9" isdata="1">ולמחר בפסח יאשיהו ושאר ימות הפסח</row>

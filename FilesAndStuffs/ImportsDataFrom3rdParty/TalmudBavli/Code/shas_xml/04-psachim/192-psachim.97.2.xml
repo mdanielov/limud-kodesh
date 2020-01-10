@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:56.357149</dateCreated>
-   <lastModified>2019-12-21 21:41:56.357149</lastModified>
+   <dateCreated>2020-01-06 09:31:34.621604</dateCreated>
+   <lastModified>2020-01-06 09:31:34.621604</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="97">
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">אבודין לר' מתין ואילו בפסח היכא דאבד</row>
 		<row row_number="21" isdata="1">קודם חצות ונמצא קודם חצות רועה</row>
 		<row row_number="22" isdata="1">קסבר קודם חצות לאו אבוד הוא וקסבר</row>
-		<row row_number="23" isdata="1">חצות קבעמתני' המפריש נקבה</row>
+		<row row_number="23" isdata="1">חצות קבע<EndGemara/><StartMishna/>מתני' המפריש נקבה</row>
 		<row row_number="24" isdata="1">לפסחו או זכר בן שתי שנים ירעה עד</row>
 		<row row_number="25" isdata="1">שיסתאב וימכר ויפלו דמיו לנדבה לשלמים</row>
 </amud>

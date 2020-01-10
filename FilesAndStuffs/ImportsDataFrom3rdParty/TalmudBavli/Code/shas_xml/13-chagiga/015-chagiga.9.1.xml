@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:02.611805</dateCreated>
-   <lastModified>2019-12-21 21:42:02.611805</lastModified>
+   <dateCreated>2020-01-06 09:32:19.228088</dateCreated>
+   <lastModified>2020-01-06 09:32:19.228088</lastModified>
  </meta>
  <masechet name="חגיגה" serial="13">
 <daf value="9">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "הכל חייבין"/><ContGemara/>לא שנו אלא שלא גמר אבל גמר חוזר</row>
 		<row row_number="2" isdata="1">ומקריב מאי גמר אילימא גמר קרבנותיו</row>
 		<row row_number="3" isdata="1">מאי מקריב אלא שלא גמר היום אבל גמר</row>
-		<row row_number="4" isdata="1">היום חוזר ומקריבמתני' מי שלא חג</row>
+		<row row_number="4" isdata="1">היום חוזר ומקריב<EndGemara/><StartMishna/>מתני' מי שלא חג</row>
 		<row row_number="5" isdata="1">ביו"ט הראשון של חג חוגג את כל הרגל</row>
 		<row row_number="6" isdata="1">ויו"ט האחרון של חג עבר הרגל ולא חג אינו</row>
 		<row row_number="7" isdata="1">חייב באחריותו על זה נאמר מעוות לא יוכל</row>
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">ממזר א"ת בגונב וגוזל יכול הוא להחזירו</row>
 		<row row_number="12" isdata="1">ויתקן ר"ש בן יוחי אומר אין קורין מעוות</row>
 		<row row_number="13" isdata="1">אלא למי שהיה מתוקן בתחילה ונתעוות</row>
-		<row row_number="14" isdata="1">ואי זה זה תלמיד חכם הפורש מן התורה</row>
+		<row row_number="14" isdata="1">ואי זה זה תלמיד חכם הפורש מן התורה:</row>
 		<row row_number="15" isdata="1"><EndMishna/><StartGemara/>גמ' מנהני מילי אמר רבי יוחנן משום רבי</row>
 		<row row_number="16" isdata="1">ישמעאל נאמר עצרת בשביעי של פסח</row>
 		<row row_number="17" isdata="1">ונאמר עצרת בשמיני של חג מה להלן</row>

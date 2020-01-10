@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:26.418663</dateCreated>
-   <lastModified>2019-12-21 21:42:26.418663</lastModified>
+   <dateCreated>2020-01-06 09:34:11.255988</dateCreated>
+   <lastModified>2020-01-06 09:34:11.255988</lastModified>
  </meta>
  <masechet name="סנהדרין" serial="24">
 <daf value="72">
@@ -26,9 +26,9 @@
 		<row row_number="12" isdata="1">לרשעים רע להם ורע לעולם ולצדיקים</row>
 		<row row_number="13" isdata="1">הנאה להם והנאה לעולם פיזור לרשעים</row>
 		<row row_number="14" isdata="1">הנאה להם והנאה לעולם ולצדיקים רע להם</row>
-		<row row_number="15" isdata="1">ורע לעולםמתני' הבא במחתרת נידון</row>
+		<row row_number="15" isdata="1">ורע לעולם<EndGemara/><StartMishna/>מתני' הבא במחתרת נידון</row>
 		<row row_number="16" isdata="1">על שם סופו היה בא במחתרת ושבר את החבית אם יש לו דמים חייב אם</row>
-		<row row_number="17" isdata="1">אין לו דמים פטור<EndMishna/><StartGemara/>גמ' אמר רבא מאי טעמא דמחתרת חזקה אין אדם</row>
+		<row row_number="17" isdata="1">אין לו דמים פטור:<EndMishna/><StartGemara/>גמ' אמר רבא מאי טעמא דמחתרת חזקה אין אדם</row>
 		<row row_number="18" isdata="1">מעמיד עצמו על ממונו והאי מימר אמר אי אזילנא קאי לאפאי ולא שביק</row>
 		<row row_number="19" isdata="1">לי ואי קאי לאפאי קטילנא ליה והתורה אמרה אם בא להורגך השכם</row>
 		<row row_number="20" isdata="1">להורגו אמר רב הבא במחתרת ונטל כלים ויצא פטור מאי טעמא בדמים</row>

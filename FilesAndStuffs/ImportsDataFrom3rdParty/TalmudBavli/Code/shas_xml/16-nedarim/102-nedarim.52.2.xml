@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.590734</dateCreated>
-   <lastModified>2019-12-21 21:42:08.590734</lastModified>
+   <dateCreated>2020-01-06 09:32:48.065710</dateCreated>
+   <lastModified>2020-01-06 09:32:48.065710</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="52">
@@ -24,10 +24,10 @@
 		<row row_number="10" isdata="1">וברוטבו ובקיפו הנודר מן היין מותר</row>
 		<row row_number="11" isdata="1">בתבשיל שיש בו טעם יין אמר קונם יין זה</row>
 		<row row_number="12" isdata="1">שאיני טועם ונפל לתוך התבשיל אם יש בו</row>
-		<row row_number="13" isdata="1">טעם יין הרי זה אסורמתני' הנודר מן</row>
+		<row row_number="13" isdata="1">טעם יין הרי זה אסור<EndGemara/><StartMishna/>מתני' הנודר מן</row>
 		<row row_number="14" isdata="1">הענבים מותר ביין מן הזיתים מותר בשמן</row>
 		<row row_number="15" isdata="1">אמר קונם זיתים וענבים אלו שאיני טועם</row>
-		<row row_number="16" isdata="1">אסור בהן וביוצא מהן<EndMishna/><StartGemara/>גמ' בעי רמי בר</row>
+		<row row_number="16" isdata="1">אסור בהן וביוצא מהן:<EndMishna/><StartGemara/>גמ' בעי רמי בר</row>
 		<row row_number="17" isdata="1">חמא אלו דוקא או שאיני טועם דוקא אי ס"ד</row>
 		<row row_number="18" isdata="1">אלו דוקא שאיני טועם למ"ל הא קמ"ל</row>
 		<row row_number="19" isdata="1">דאע"ג דאמר שאיני טועם אי דאמר אלו</row>
@@ -48,7 +48,7 @@
 		<row row_number="34" isdata="1">דוקא או לאו דוקא ת"ש דג דגים שאיני</row>
 		<row row_number="35" isdata="1">טועם אסור בהן בין גדולים בין קטנים</row>
 		<row row_number="36" isdata="1">בין חיים בין מבושלים ומותר בטרית</row>
-		<row row_number="37" isdata="1">טרופה ובציר אמר רבא וכבר יצא מהן</row>
+		<row row_number="37" isdata="1">טרופה ובציר אמר רבא וכבר יצא מהן:</row>
 </amud>
 </daf>
 </masechet>

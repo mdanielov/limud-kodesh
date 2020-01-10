@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.941281</dateCreated>
-   <lastModified>2019-12-21 21:42:41.941281</lastModified>
+   <dateCreated>2020-01-06 09:35:26.295156</dateCreated>
+   <lastModified>2020-01-06 09:35:26.295156</lastModified>
  </meta>
  <masechet name="נידה" serial="37">
 <daf value="39">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "בנות כותים"/><ContGemara/>ישבה לה ולא בדקה שגגה נאנסה הזידה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "בנות כותים"/><ContMishna/>ישבה לה ולא בדקה שגגה נאנסה הזידה</row>
 		<row row_number="2" isdata="1">ולא בדקה טהורה הגיע שעת וסתה ולא</row>
 		<row row_number="3" isdata="1">בדקה הרי זו טמאה ר"מ אומר אם היתה</row>
 		<row row_number="4" isdata="1">במחבא והגיע שעת וסתה ולא בדקה הרי</row>
 		<row row_number="5" isdata="1">זו טהורה מפני שחרדה מסלקת את הדמים</row>
 		<row row_number="6" isdata="1">אבל ימי הזב והזבה ושומרת יום כנגד יום</row>
-		<row row_number="7" isdata="1">הרי אלו בחזקת טומאה<EndMishna/><StartGemara/>גמ' למאי הלכתא</row>
+		<row row_number="7" isdata="1">הרי אלו בחזקת טומאה:<EndMishna/><StartGemara/>גמ' למאי הלכתא</row>
 		<row row_number="8" isdata="1">אמר רב יהודה לומר שאינה צריכה בדיקה</row>
 		<row row_number="9" isdata="1">והא מדקתני סיפא ישבה ולא בדקה מכלל</row>
 		<row row_number="10" isdata="1">דלכתחלה בעיא בדיקה סיפא אתאן לימי נדה</row>

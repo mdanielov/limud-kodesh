@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.045140</dateCreated>
-   <lastModified>2019-12-21 21:42:13.045140</lastModified>
+   <dateCreated>2020-01-06 09:33:09.627735</dateCreated>
+   <lastModified>2020-01-06 09:33:09.627735</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="59">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "הניזקין"/><ContGemara/>בור שהוא קרוב לאמה מתמלא ראשון מפני</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הניזקין"/><ContMishna/>בור שהוא קרוב לאמה מתמלא ראשון מפני</row>
 		<row row_number="2" isdata="1">דרכי שלום מצודות חיה ועופות ודגים יש</row>
 		<row row_number="3" isdata="1">בהן משום גזל מפני דרכי שלום ר' יוסי אומר</row>
 		<row row_number="4" isdata="1">גזל גמור מציאת חרש שוטה וקטן יש בהן</row>
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">גמור עני המנקף בראש הזית מה שתחתיו</row>
 		<row row_number="7" isdata="1">גזל מפני דרכי שלום ר' יוסי אומר גזל גמור</row>
 		<row row_number="8" isdata="1">אין ממחין ביד עניי עובדי כוכבים בלקט</row>
-		<row row_number="9" isdata="1">שכחה ופאה מפני דרכי שלום<EndMishna/><StartGemara/>גמ' מנה"מ</row>
+		<row row_number="9" isdata="1">שכחה ופאה מפני דרכי שלום:<EndMishna/><StartGemara/>גמ' מנה"מ</row>
 		<row row_number="10" isdata="1">אמר רב מתנה דאמר קרא ויכתוב משה את</row>
 		<row row_number="11" isdata="1">התורה הזאת ויתנה אל הכהנים בני לוי אטו</row>
 		<row row_number="12" isdata="1">אנא לא ידענא דכהנים בני לוי נינהו אלא</row>

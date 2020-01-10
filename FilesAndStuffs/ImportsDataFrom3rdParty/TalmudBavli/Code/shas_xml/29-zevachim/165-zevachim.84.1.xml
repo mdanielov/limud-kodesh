@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.081762</dateCreated>
-   <lastModified>2019-12-21 21:42:32.081762</lastModified>
+   <dateCreated>2020-01-06 09:34:37.598360</dateCreated>
+   <lastModified>2020-01-06 09:34:37.598360</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="84">
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">להו למחר וליומא חרא ס"ד אמינא הואיל</row>
 		<row row_number="11" isdata="1">ואמר מר מנחתם ונסכיהם בלילה מנחתם</row>
 		<row row_number="12" isdata="1">ונסכיהם למחר כנסכים הבאין בפני עצמן</row>
-		<row row_number="13" isdata="1">דמו ומודי ר"ש דלא ירדו קמ"למתני' אלו</row>
+		<row row_number="13" isdata="1">דמו ומודי ר"ש דלא ירדו קמ"ל<EndGemara/><StartMishna/>מתני' אלו</row>
 		<row row_number="14" isdata="1">אם עלו לא ירדו הלן והיוצא והטמא ושנשחט</row>
 		<row row_number="15" isdata="1">חוץ לזמנו וחוץ למקומו ושקבלו פסולין</row>
 		<row row_number="16" isdata="1">וזרקו את דמו רבי יהודה אומר שנשחט</row>
@@ -41,7 +41,7 @@
 		<row row_number="27" isdata="1">שאם עלו לא ירדו כך אם ירדו לא יעלו וכולן</row>
 		<row row_number="28" isdata="1">שעלו חיים לראש המזבח ירדו עולה שעלתה</row>
 		<row row_number="29" isdata="1">חיה לראש המזבח תרד שחטה בראש</row>
-		<row row_number="30" isdata="1">המזבח יפשיט וינתחה במקומה<EndMishna/><StartGemara/>גמ' תניא ר'</row>
+		<row row_number="30" isdata="1">המזבח יפשיט וינתחה במקומה:<EndMishna/><StartGemara/>גמ' תניא ר'</row>
 		<row row_number="31" isdata="1">יהודה אומר זאת היא העולה הרי אלו ג'</row>
 		<row row_number="32" isdata="1">מיעוטין פרט לשנשחטה בלילה ושנשפך</row>
 		<row row_number="33" isdata="1">דמה ושיצא דמה חוץ לקלעים שאם עלתה</row>

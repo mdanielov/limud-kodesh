@@ -44,7 +44,9 @@ def parseLine(lines , index , index_max , file_name , daf , amud, marker_mishna1
     if re.search(marker_gemara, lines[1]):
         sub_lines = re.split(marker_gemara, lines[1])
         gema = 1
-        if index != 0:
+        if index != 0 and re.search('הדרן עלך',lines[2]):
+            line_text = sub_lines[0] + "<EndMishna/><StartGemara/>" + marker_gemara + sub_lines[1] + '<EndChapter name = "' + chapters[0][5]+'"/>' + "<EndGemara/>"
+        if index != 0 and re.search('הדרן עלך',lines[2]) == None:
             line_text = sub_lines[0] + "<EndMishna/><StartGemara/>" + marker_gemara + sub_lines[1]
         if index == 0:
             line_text += sub_lines[0] + "<EndMishna/><StartGemara/>"

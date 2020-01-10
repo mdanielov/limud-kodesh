@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:56.043152</dateCreated>
-   <lastModified>2019-12-21 21:41:56.043152</lastModified>
+   <dateCreated>2020-01-06 09:31:33.238704</dateCreated>
+   <lastModified>2020-01-06 09:31:33.238704</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="84">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כיצד צולין"/><ContGemara/>ולא מילה שלא בזמנה הבאה מק"ו רב אשי</row>
 		<row row_number="2" isdata="1">אמר שבתון די"ט עשה הוא ואין עשה דוחה</row>
-		<row row_number="3" isdata="1">לא תעשה ועשהמתני' כל הנאכל בשור</row>
+		<row row_number="3" isdata="1">לא תעשה ועשה<EndGemara/><StartMishna/>מתני' כל הנאכל בשור</row>
 		<row row_number="4" isdata="1">הגדול יאכל בגדי הרך וראשי כנפים</row>
-		<row row_number="5" isdata="1">והסחוסים<EndMishna/><StartGemara/>גמ' רבה רמי תנן כל הנאכל</row>
+		<row row_number="5" isdata="1">והסחוסים:<EndMishna/><StartGemara/>גמ' רבה רמי תנן כל הנאכל</row>
 		<row row_number="6" isdata="1">בשור הגדול יאכל בגדי הרך ושאינו נאכל</row>
 		<row row_number="7" isdata="1">לא אימא סיפא ראשי כנפים והסחוסים והא</row>
 		<row row_number="8" isdata="1">הני לא מתאכלי בשור הגדול אלא תנאי היא</row>
@@ -47,10 +47,10 @@
 		<row row_number="33" isdata="1">בתר בסוף אזלינן א"ל דרמא לך הא לא חש</row>
 		<row row_number="34" isdata="1">לקמחיה הא הדר ביה רבי יוחנן לגבי דריש</row>
 		<row row_number="35" isdata="1">לקיש וא"ל אל תקניטני שבלשון יחיד אני</row>
-		<row row_number="36" isdata="1">שונה אותהמתני' השובר את העצם</row>
+		<row row_number="36" isdata="1">שונה אותה<EndGemara/><StartMishna/>מתני' השובר את העצם</row>
 		<row row_number="37" isdata="1">בפסח הטהור הרי זה לוקה ארבעים אבל</row>
 		<row row_number="38" isdata="1">המותיר בטהור והשובר בטמא אינו לוקה</row>
-		<row row_number="39" isdata="1">את הארבעים<EndMishna/><StartGemara/>גמ' בשלמא מותיר בטהור</row>
+		<row row_number="39" isdata="1">את הארבעים:<EndMishna/><StartGemara/>גמ' בשלמא מותיר בטהור</row>
 		<row row_number="40" isdata="1">דתניא לא תותירו ממנו עד בקר והנותר</row>
 		<row row_number="41" isdata="1">ממנו עד בקר וגו' בא הכתוב ליתן עשה</row>
 		<row row_number="42" isdata="1">אחר לא תעשה לומר שאין לוקה דברי רבי</row>

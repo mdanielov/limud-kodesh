@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.062280</dateCreated>
-   <lastModified>2019-12-21 21:42:41.062280</lastModified>
+   <dateCreated>2020-01-06 09:35:20.737545</dateCreated>
+   <lastModified>2020-01-06 09:35:20.737545</lastModified>
  </meta>
  <masechet name="מעילה" serial="36">
 <daf value="12">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "ולד חטאת"/><ContGemara/>דאמר רב המקיז דם לבהמת קדשים אסור</row>
-		<row row_number="2" isdata="1">בהנאה ומועלין בו גופא אמר רב הונא אמר</row>
+		<row row_number="2" isdata="1">בהנאה ומועלין בו: גופא אמר רב הונא אמר</row>
 		<row row_number="3" isdata="1">רב המקיז דם לבהמת קדשים אסור בהנאה</row>
 		<row row_number="4" isdata="1">ומועלין בו מתיב רב המנונא חלב המוקדשין</row>
 		<row row_number="5" isdata="1">וביצי תורין לא נהנין ולא מועלין אמר ליה כי</row>
@@ -26,18 +26,18 @@
 		<row row_number="12" isdata="1">אחרינא לאפוקי דם מגופה הא קתני לא נהנין</row>
 		<row row_number="13" isdata="1">ולא מועלין ודמיו ללשכה מסייעא ליה לרבי</row>
 		<row row_number="14" isdata="1">אלעזר דאמר ר"א כל מקום שאמרו חכמים</row>
-		<row row_number="15" isdata="1">קדוש ואינו קדוש דמיו יפלו ללשכהמתני'</row>
+		<row row_number="15" isdata="1">קדוש ואינו קדוש דמיו יפלו ללשכה<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="16" isdata="1">חלב המוקדשין וביצי תורין לא נהנין ולא</row>
 		<row row_number="17" isdata="1">מועלין בד"א בקדשי מזבח אבל בקדשי בדק</row>
 		<row row_number="18" isdata="1">הבית הקדיש תרנגולת מועלין בה ובביצתה</row>
-		<row row_number="19" isdata="1">חמורה מועלין בה ובחלבה<EndMishna/><StartGemara/>גמ' אלא גבי</row>
+		<row row_number="19" isdata="1">חמורה מועלין בה ובחלבה:<EndMishna/><StartGemara/>גמ' אלא גבי</row>
 		<row row_number="20" isdata="1">מזבח כי אקדשה קדושת דמים לא אית בה</row>
 		<row row_number="21" isdata="1">מעילה אמר רב פפא חסורי מיחסרא והכי</row>
 		<row row_number="22" isdata="1">קתני בד"א כשהקדיש קדושת הגוף לגבי</row>
 		<row row_number="23" isdata="1">מזבח אבל הקדישו קדושת דמים לגבי מזבח</row>
 		<row row_number="24" isdata="1">נעשה כמי שהקדישו לבדק הבית הקדיש</row>
 		<row row_number="25" isdata="1">תרנגולת מועלין בה ובביצתה חמורה מועלין</row>
-		<row row_number="26" isdata="1">בה ובחלבהמתני' כל הראוי למזבח</row>
+		<row row_number="26" isdata="1">בה ובחלבה<EndGemara/><StartMishna/>מתני' כל הראוי למזבח</row>
 </amud>
 </daf>
 </masechet>

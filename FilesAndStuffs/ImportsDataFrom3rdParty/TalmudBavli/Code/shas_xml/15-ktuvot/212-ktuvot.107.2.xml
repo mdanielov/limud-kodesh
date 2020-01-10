@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.564728</dateCreated>
-   <lastModified>2019-12-21 21:42:07.564728</lastModified>
+   <dateCreated>2020-01-06 09:32:43.360969</dateCreated>
+   <lastModified>2020-01-06 09:32:43.360969</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="107">
@@ -54,10 +54,10 @@
 		<row row_number="40" isdata="1">רב יכולה אשה שתאמר לבעלה איני ניזונת ואיני עושה והלכתא כותיה</row>
 		<row row_number="41" isdata="1">דרב זביד בקוניא דאמר רב זביד הני מאני דקוניא חיורי ואוכמי שרו</row>
 		<row row_number="42" isdata="1">ירוקי אסירי ולא אמרן אלא דלית בהו קרטופני אבל אית בהו קרטופני</row>
-		<row row_number="43" isdata="1">אסירימתני' מי שהלך למדינת הים ועמד אחד ופירנס את אשתו</row>
+		<row row_number="43" isdata="1">אסירי<EndGemara/><StartMishna/>מתני' מי שהלך למדינת הים ועמד אחד ופירנס את אשתו</row>
 		<row row_number="44" isdata="1">חנן אומר איבד את מעותיו נחלקו עליו בני כהנים גדולים ואמרו ישבע</row>
 		<row row_number="45" isdata="1">כמה הוציא ויטול א"ר דוסא בן הרכינס כדבריהם א"ר יוחנן בן זכאי יפה</row>
-		<row row_number="46" isdata="1">אמר חנן הניח מעותיו על קרן הצבי<EndMishna/><StartGemara/>גמ' תנן התם המודר הנאה מחבירו</row>
+		<row row_number="46" isdata="1">אמר חנן הניח מעותיו על קרן הצבי:<EndMishna/><StartGemara/>גמ' תנן התם המודר הנאה מחבירו</row>
 </amud>
 </daf>
 </masechet>

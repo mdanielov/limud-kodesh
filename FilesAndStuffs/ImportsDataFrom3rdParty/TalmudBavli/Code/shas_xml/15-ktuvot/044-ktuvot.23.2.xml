@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.895721</dateCreated>
-   <lastModified>2019-12-21 21:42:05.895721</lastModified>
+   <dateCreated>2020-01-06 09:32:35.291432</dateCreated>
+   <lastModified>2020-01-06 09:32:35.291432</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="23">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "האשה שנתארמלה"/><ContMishna/>מתני' שתי נשים שנשבו זאת אומרת<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">נשביתי וטהורה אני וזאת אומרת נשביתי</row>
 		<row row_number="3" isdata="1">וטהורה אני אינן נאמנות ובזמן שהן מעידות</row>
-		<row row_number="4" isdata="1">זו את זו הרי אלו נאמנות<EndMishna/><StartGemara/>גמ' ת"ר אני</row>
+		<row row_number="4" isdata="1">זו את זו הרי אלו נאמנות:<EndMishna/><StartGemara/>גמ' ת"ר אני</row>
 		<row row_number="5" isdata="1">טמאה וחברתי טהורה נאמנת אני טהורה</row>
 		<row row_number="6" isdata="1">וחברתי טמאה אינה נאמנת אני וחברתי</row>
 		<row row_number="7" isdata="1">טמאה נאמנת על עצמה ואינה נאמנת על</row>
@@ -50,12 +50,12 @@
 		<row row_number="36" isdata="1">וחברתי טהורה ואמר לה עד אחד את וחברתך טמאה איהי כיון דאיכא עדים</row>
 		<row row_number="37" isdata="1">לאו כל כמינה חברתה משתריא אפומא דידה הא תו למה לי היינו רישא</row>
 		<row row_number="38" isdata="1">דרישא מהו דתימא כי מהימנא במקום דפסלה נפשה אבל במקום</row>
-		<row row_number="39" isdata="1">דמכשרא נפשה אימא לא מהימנא קא משמע לןמתני' וכן שני אנשים</row>
+		<row row_number="39" isdata="1">דמכשרא נפשה אימא לא מהימנא קא משמע לן<EndGemara/><StartMishna/>מתני' וכן שני אנשים</row>
 		<row row_number="40" isdata="1">זה אומר כהן אני וזה אומר כהן אני אינן נאמנין ובזמן שהן מעידין זה את</row>
 		<row row_number="41" isdata="1">זה הרי אלו נאמנין רבי יהודה אומר אין מעלין לכהונה על פי עד אחד</row>
 		<row row_number="42" isdata="1">אמר רבי אלעזר אימתי במקום שיש עוררין אבל במקום שאין עוררין</row>
 		<row row_number="43" isdata="1">מעלין לכהונה על פי עד אחד רשב"ג אומר משום רבי שמעון בן הסגן</row>
-		<row row_number="44" isdata="1">מעלין לכהונה על פי עד אחד<EndMishna/><StartGemara/>גמ' כל הני למה לי צריכי דאי תנא</row>
+		<row row_number="44" isdata="1">מעלין לכהונה על פי עד אחד:<EndMishna/><StartGemara/>גמ' כל הני למה לי צריכי דאי תנא</row>
 		<row row_number="45" isdata="1">מודה רבי יהושע משום דאיכא דררא דממונא אבל עדים דליכא דררא</row>
 		<row row_number="46" isdata="1">דממונא אימא לא ואי תנא עדים משום דלעלמא אבל איהו דלנפשיה</row>
 </amud>

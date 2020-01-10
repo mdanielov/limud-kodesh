@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:00.460792</dateCreated>
-   <lastModified>2019-12-21 21:42:00.460792</lastModified>
+   <dateCreated>2020-01-06 09:32:05.021543</dateCreated>
+   <lastModified>2020-01-06 09:32:05.021543</lastModified>
  </meta>
  <masechet name="ביצה" serial="08">
 <daf value="29">
@@ -28,10 +28,10 @@
 		<row row_number="14" isdata="1">אשי נהלא קמחא אגבא דפתורא אמר רב</row>
 		<row row_number="15" isdata="1">אשי הא דידן ברתיה דרמי בר חמא ורמי בר</row>
 		<row row_number="16" isdata="1">חמא מרא דעובדא הוה ואי לאו דחזיא מבי</row>
-		<row row_number="17" isdata="1">נשא לא הוה עבדאמתני' הולך אדם</row>
+		<row row_number="17" isdata="1">נשא לא הוה עבדא<EndGemara/><StartMishna/>מתני' הולך אדם</row>
 		<row row_number="18" isdata="1">אצל חנוני הרגיל אצלו ואומר לו תן לי ביצים</row>
 		<row row_number="19" isdata="1">ואגוזים במנין שכן דרך בעל הבית להיות</row>
-		<row row_number="20" isdata="1">מונה בתוך ביתו<EndMishna/><StartGemara/>גמ' ת"ר הולך אדם</row>
+		<row row_number="20" isdata="1">מונה בתוך ביתו:<EndMishna/><StartGemara/>גמ' ת"ר הולך אדם</row>
 		<row row_number="21" isdata="1">אצל רועה הרגיל אצלו ואומר לו תן לי גדי</row>
 		<row row_number="22" isdata="1">אחד או טלה אחד אצל טבח הרגיל אצלו</row>
 		<row row_number="23" isdata="1">ואומר לו תן לי כף אחת או ירך אחת אצל</row>
@@ -42,7 +42,7 @@
 		<row row_number="28" isdata="1">ביצים או חמשים אגוזים עשרה אפרסקין</row>
 		<row row_number="29" isdata="1">וחמשה רמונים ואתרוג אחד ובלבד שלא</row>
 		<row row_number="30" isdata="1">יזכיר לו סכום מדה ר' שמעון בן אלעזר</row>
-		<row row_number="31" isdata="1">אומר ובלבד שלא יזכיר לו סכום מקח<EndChapter name = "אין צדין"/><EndGemara/></row>
+		<row row_number="31" isdata="1">אומר ובלבד שלא יזכיר לו סכום מקח:<EndChapter name = "אין צדין"/><EndGemara/></row>
 		<row row_number="32" isdata="0">הדרן עלך אין צדין</row>
 		<row row_number="33" isdata="1"><StartChapter name = "המביא"/><StartMishna/>המביא כדי יין ממקום למקום לא יביאם בסל ובקופה אבל</row>
 		<row row_number="34" isdata="1">מביא הוא על כתפו או לפניו וכן המוליך את התבן</row>

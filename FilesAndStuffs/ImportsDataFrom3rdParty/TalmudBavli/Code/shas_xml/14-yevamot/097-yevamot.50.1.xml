@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:03.885394</dateCreated>
-   <lastModified>2019-12-21 21:42:03.885394</lastModified>
+   <dateCreated>2020-01-06 09:32:25.939112</dateCreated>
+   <lastModified>2020-01-06 09:32:25.939112</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="50">
@@ -21,9 +21,9 @@
 		<row row_number="7" isdata="1">הנה בן נולד לבית דוד יאשיהו שמו ועדיין</row>
 		<row row_number="8" isdata="1">לא נולד מנשה ורבנן מי כתיב מחזקיה</row>
 		<row row_number="9" isdata="1">לבית דוד כתיב אי מחזקיה נולד אי מאינש</row>
-		<row row_number="10" isdata="1">אחרינא אשתו שמתה וכו' יבמתו שמתה</row>
-		<row row_number="11" isdata="1">וכו' אמר רב יוסף כאן שנה רבי משנה</row>
-		<row row_number="12" isdata="1">שאינה צריכה<EndChapter name = "החולץ"/><EndGemara/></row>
+		<row row_number="10" isdata="1">אחרינא: אשתו שמתה וכו' יבמתו שמתה</row>
+		<row row_number="11" isdata="1">וכו': אמר רב יוסף כאן שנה רבי משנה</row>
+		<row row_number="12" isdata="1">שאינה צריכה:<EndChapter name = "החולץ"/><EndGemara/></row>
 		<row row_number="13" isdata="0">הדרן עלך החולץ</row>
 		<row row_number="14" isdata="1"><StartChapter name = "רבן גמליאל"/><StartMishna/>רבן גמליאל אומר אין גט אחר גט ולא</row>
 		<row row_number="15" isdata="1">מאמר אחר מאמר ולא בעילה אחר</row>

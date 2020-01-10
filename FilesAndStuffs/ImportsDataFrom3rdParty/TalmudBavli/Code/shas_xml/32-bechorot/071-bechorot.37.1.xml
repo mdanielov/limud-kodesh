@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.097611</dateCreated>
-   <lastModified>2019-12-21 21:42:39.097611</lastModified>
+   <dateCreated>2020-01-06 09:35:09.356073</dateCreated>
+   <lastModified>2020-01-06 09:35:09.356073</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="37">
@@ -18,13 +18,13 @@
 		<row row_number="4" isdata="1">מהם חכם במקום שאין חכם כגון מאן אמר</row>
 		<row row_number="5" isdata="1">רב נחמן כגון אנא ר' יהודה אומר אחד מהן</row>
 		<row row_number="6" isdata="1">חכם מכלל דהנך כל דהו אמר רבינא</row>
-		<row row_number="7" isdata="1">דמסתברי ליה וסבר רבי יוסי אומר אפילו</row>
-		<row row_number="8" isdata="1">יש שם כ"ג כו' אמר רב חננאל אמר רב</row>
+		<row row_number="7" isdata="1">דמסתברי ליה וסבר: רבי יוסי אומר אפילו</row>
+		<row row_number="8" isdata="1">יש שם כ"ג כו': אמר רב חננאל אמר רב</row>
 		<row row_number="9" isdata="1">אין הלכה כרבי יוסי פשיטא יחיד ורבים</row>
 		<row row_number="10" isdata="1">הלכה כרבים מהו דתימא נמוקו עמו קמ"ל</row>
 		<row row_number="11" isdata="1">תפשוט מהא דהך קמייתא משמיה דשמואל</row>
 		<row row_number="12" isdata="1">איתמר דאי משמיה דרב תרתי למה לי חדא</row>
-		<row row_number="13" isdata="1">מכלל דחבירתה איתמרמתני' השוחט</row>
+		<row row_number="13" isdata="1">מכלל דחבירתה איתמר<EndGemara/><StartMishna/>מתני' השוחט</row>
 		<row row_number="14" isdata="1">את הבכור ונודע שלא הראהו מה שאכלו</row>
 		<row row_number="15" isdata="1">אכלו ויחזיר להם הדמים ומה שלא אכלו</row>
 		<row row_number="16" isdata="1">הבשר יקבר ויחזיר את הדמים וכן השוחט</row>
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">שאכלו אכלו ומה שלא אכלו הם יחזירו לו</row>
 		<row row_number="19" isdata="1">את הבשר והוא יחזיר להם את הדמים</row>
 		<row row_number="20" isdata="1">מכרוהו לעובד כוכבים או הטילוהו לכלבים</row>
-		<row row_number="21" isdata="1">ישלמו דמי טרפה<EndMishna/><StartGemara/>גמ' ת"ר המוכר בשר</row>
+		<row row_number="21" isdata="1">ישלמו דמי טרפה:<EndMishna/><StartGemara/>גמ' ת"ר המוכר בשר</row>
 		<row row_number="22" isdata="1">לחבירו ונמצא בשר בכור פירות ונמצא</row>
 		<row row_number="23" isdata="1">טבלים יין ונמצא יין נסך מה שאכלו אכלו</row>
 		<row row_number="24" isdata="1">ויחזיר להם את הדמים ר' שמעון בן אלעזר</row>
@@ -48,14 +48,14 @@
 		<row row_number="34" isdata="1">להו ואכלנא להו יין נסך על ידי תערובת</row>
 		<row row_number="35" isdata="1">וכרשב"ג דתנן יין נסך שנפל לבור כולו</row>
 		<row row_number="36" isdata="1">אסור בהנאה רבן שמעון בן גמליאל אומר</row>
-		<row row_number="37" isdata="1">ימכר כולו לעובדי כוכבים חוץ מדמי יי"נ שבו<EndChapter name = "כל פסולי המוקדשין"/><EndGemara/></row>
+		<row row_number="37" isdata="1">ימכר כולו לעובדי כוכבים חוץ מדמי יי"נ שבו:<EndChapter name = "כל פסולי המוקדשין"/><EndGemara/></row>
 		<row row_number="38" isdata="0">הדרן עלך כל פסולי המוקדשין</row>
 		<row row_number="39" isdata="1"><StartChapter name = "על אלו מומין"/><StartMishna/>על אלו מומין שוחטין את הבכור נפגמה</row>
 		<row row_number="40" isdata="1">אזנו מן החסחוס אבל לא העור</row>
 		<row row_number="41" isdata="1">נסדקה אעפ"י שלא חסרה ניקבה מלא</row>
 		<row row_number="42" isdata="1">כרשינה או שיבשה איזהו יבשה כל שתנקב</row>
 		<row row_number="43" isdata="1">ואינה מוציאה טיפת דם ר' יוסי בן המשולם</row>
-		<row row_number="44" isdata="1">אומר יבשה שתהא נפרכת<EndMishna/><StartGemara/>גמ' אמאי</row>
+		<row row_number="44" isdata="1">אומר יבשה שתהא נפרכת:<EndMishna/><StartGemara/>גמ' אמאי</row>
 		<row row_number="45" isdata="1">פסח ועור כתיב כתיב נמי כי יהיה בו מום</row>
 		<row row_number="46" isdata="1">ואימא כי יהיה בו מום כלל פסח או עור פרט</row>
 		<row row_number="47" isdata="1">כלל ופרט אין בכלל אלא מה שבפרט פסח</row>

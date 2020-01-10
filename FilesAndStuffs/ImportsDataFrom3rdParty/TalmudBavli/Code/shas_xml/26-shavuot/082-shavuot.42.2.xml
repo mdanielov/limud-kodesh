@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:28.467246</dateCreated>
-   <lastModified>2019-12-21 21:42:28.467246</lastModified>
+   <dateCreated>2020-01-06 09:34:21.277594</dateCreated>
+   <lastModified>2020-01-06 09:34:21.277594</lastModified>
  </meta>
  <masechet name="שבועות" serial="26">
 <daf value="42">
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">עושה קנוניא על הקדש קא משמע לן והאמר רב הונא שכיב מרע</row>
 		<row row_number="32" isdata="1">שהקדיש כל נכסיו ואמר מנה לפלוני בידי נאמן חזקה אין אדם עושה</row>
 		<row row_number="33" isdata="1">קנוניא על הקדש אמרי ה"מ שכיב מרע דאין אדם חוטא ולא לו אבל</row>
-		<row row_number="34" isdata="1">גבי בריא ודאי חיישינןמתני' ואלו דברים שאין נשבעין עליהן העבדים</row>
+		<row row_number="34" isdata="1">גבי בריא ודאי חיישינן<EndGemara/><StartMishna/>מתני' ואלו דברים שאין נשבעין עליהן העבדים</row>
 		<row row_number="35" isdata="1">והשטרות והקרקעות וההקדשות אין בהן תשלומי כפל ולא תשלומי</row>
 		<row row_number="36" isdata="1">ארבעה וחמשה שומר חנם אינו נשבע נושא שכר אינו משלם ר' שמעון</row>
 		<row row_number="37" isdata="1">אומר קדשים שחייב באחריותן נשבעין עליהן ושאינו חייב באחריותן אין</row>
@@ -54,14 +54,14 @@
 		<row row_number="40" isdata="1">חמש רבי מאיר מחייב שבועה וחכ"א כל המחובר לקרקע הרי הוא כקרקע</row>
 		<row row_number="41" isdata="1">אין נשבעין אלא על דבר שבמדה ושבמשקל ושבמנין כיצד בית מלא</row>
 		<row row_number="42" isdata="1">מסרתי לך וכיס מלא מסרתי לך והלה אומר איני יודע אלא מה שהנחת</row>
-		<row row_number="43" isdata="1">אתה נוטל פטור זה אומר עד הזיז וזה אומר עד החלון חייב<EndMishna/><StartGemara/>גמ' תשלומי</row>
+		<row row_number="43" isdata="1">אתה נוטל פטור זה אומר עד הזיז וזה אומר עד החלון חייב:<EndMishna/><StartGemara/>גמ' תשלומי</row>
 		<row row_number="44" isdata="1">כפל מנלן דתנו רבנן על כל דבר פשע כלל על שור ועל חמור ועל שה</row>
 		<row row_number="45" isdata="1">ועל שלמה פרט על כל אבדה חזר וכלל כלל ופרט וכלל אי אתה דן אלא כעין</row>
 		<row row_number="46" isdata="1">הפרט מה הפרט מפורש דבר המטלטל וגופו ממון אף כל דבר המטלטל</row>
 		<row row_number="47" isdata="1">וגופו ממון יצאו קרקעות שאין מטלטלין יצאו עבדים שהוקשו לקרקעות יצאו</row>
-		<row row_number="48" isdata="1">שטרות שאע"פ שהן מטלטלין אין גופן ממון הקדש רעהו כתיב (ולא תשלומי</row>
-		<row row_number="49" isdata="1">כפל) ולא ארבעה וחמשה מ"ט תשלומי ארבעה וחמשה אמר רחמנא ולא</row>
-		<row row_number="50" isdata="1">תשלומי שלשה וארבעה שומר חנם אינו נשבע מנא הני מילי דתנו רבנן</row>
+		<row row_number="48" isdata="1">שטרות שאע"פ שהן מטלטלין אין גופן ממון הקדש רעהו כתיב: (ולא תשלומי</row>
+		<row row_number="49" isdata="1">כפל) ולא ארבעה וחמשה: מ"ט תשלומי ארבעה וחמשה אמר רחמנא ולא</row>
+		<row row_number="50" isdata="1">תשלומי שלשה וארבעה: שומר חנם אינו נשבע: מנא הני מילי דתנו רבנן</row>
 </amud>
 </daf>
 </masechet>

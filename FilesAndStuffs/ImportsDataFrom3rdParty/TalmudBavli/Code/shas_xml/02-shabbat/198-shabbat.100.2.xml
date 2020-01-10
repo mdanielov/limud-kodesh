@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.927442</dateCreated>
-   <lastModified>2019-12-21 21:41:49.927442</lastModified>
+   <dateCreated>2020-01-06 09:31:08.423878</dateCreated>
+   <lastModified>2020-01-06 09:31:08.423878</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="100">
@@ -15,12 +15,12 @@
 		<row row_number="1" isdata="1"><ContChapter name = "הזורק"/><ContGemara/>לאו היינו מתני' וא"ר יוחנן והוא שנח  ע"ג</row>
 		<row row_number="2" isdata="1">משהו א"ל מתגלגל קאמרת מתגלגל אין סופו</row>
 		<row row_number="3" isdata="1">לנוח אבל האי כיון דסופו לנוח אע"ג דלא נח</row>
-		<row row_number="4" isdata="1">כמאן דנח דמי קמ"למתני' הזורק בים</row>
+		<row row_number="4" isdata="1">כמאן דנח דמי קמ"ל<EndGemara/><StartMishna/>מתני' הזורק בים</row>
 		<row row_number="5" isdata="1">ארבע אמות פטור אם היה רקק מים ורשות</row>
 		<row row_number="6" isdata="1">הרבים מהלכת בו הזורק לתוכו ד' אמות</row>
 		<row row_number="7" isdata="1">חייב וכמה הוא רקק מים פחות מעשרה</row>
 		<row row_number="8" isdata="1">טפחים רקק מים ורשות הרבים מהלכת בו</row>
-		<row row_number="9" isdata="1">הזורק בתוכו ד' אמות חייב<EndMishna/><StartGemara/>גמ' א"ל ההוא</row>
+		<row row_number="9" isdata="1">הזורק בתוכו ד' אמות חייב:<EndMishna/><StartGemara/>גמ' א"ל ההוא</row>
 		<row row_number="10" isdata="1">מרבנן לרבא בשלמא הילוך הילוך תרי זימני</row>
 		<row row_number="11" isdata="1">הא קמ"ל הילוך ע"י הדחק שמיה הילוך</row>
 		<row row_number="12" isdata="1">תשמיש ע"י הדחק לא שמיה תשמיש אלא</row>
@@ -36,12 +36,12 @@
 		<row row_number="22" isdata="1">דהוה ד' אבל היכא דלא הואי ארבעה מיפסעי</row>
 		<row row_number="23" isdata="1">פסעי ליה ואזדא רב אשי לטעמיה דאמר רב</row>
 		<row row_number="24" isdata="1">אשי האי מאן דזריק ונח אגודא דגמלא מיחייב</row>
-		<row row_number="25" isdata="1">שהרי רבים בוקעין בומתני' הזורק מן</row>
+		<row row_number="25" isdata="1">שהרי רבים בוקעין בו<EndGemara/><StartMishna/>מתני' הזורק מן</row>
 		<row row_number="26" isdata="1">הים ליבשה ומן היבשה לים ומן הים לספינה</row>
 		<row row_number="27" isdata="1">ומן הספינה לים ומן הספינה לחבירתה פטור</row>
 		<row row_number="28" isdata="1">ספינות קשורות זו בזו מטלטלין מזו לזו אם</row>
 		<row row_number="29" isdata="1">אינן קשורות אע"פ שמוקפות אין מטלטלין</row>
-		<row row_number="30" isdata="1">מזו לזו<EndMishna/><StartGemara/>גמ' איתמר ספינה רב הונא אמר</row>
+		<row row_number="30" isdata="1">מזו לזו:<EndMishna/><StartGemara/>גמ' איתמר ספינה רב הונא אמר</row>
 		<row row_number="31" isdata="1">מוציאין הימנה זיז כל שהוא וממלא רב</row>
 		<row row_number="32" isdata="1">חסדא ורבה בר רב הונא אמרי עושה</row>
 		<row row_number="33" isdata="1">מקום ארבעה וממלא רב הונא אמר מוציא</row>

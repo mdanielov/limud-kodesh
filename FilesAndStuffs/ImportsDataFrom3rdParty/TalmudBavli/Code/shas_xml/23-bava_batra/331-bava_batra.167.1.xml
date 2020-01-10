@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:24.681012</dateCreated>
-   <lastModified>2019-12-21 21:42:24.681012</lastModified>
+   <dateCreated>2020-01-06 09:34:03.124277</dateCreated>
+   <lastModified>2020-01-06 09:34:03.124277</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="167">
@@ -43,7 +43,7 @@
 		<row row_number="29" isdata="1">כפתיה ואודי א"ל בשלמא דידי זייפת אלא</row>
 		<row row_number="30" isdata="1">דרב אחא בר אדא דרתית ידיה היכי עבדת</row>
 		<row row_number="31" isdata="1">אמר אנחי ידאי אמצרא ואמרי לה קם אזרנוקא</row>
-		<row row_number="32" isdata="1">וכתבמתני' כותבין גט לאיש אע"פ שאין</row>
+		<row row_number="32" isdata="1">וכתב<EndGemara/><StartMishna/>מתני' כותבין גט לאיש אע"פ שאין</row>
 		<row row_number="33" isdata="1">אשתו עמו והשובר לאשה אע"פ שאין בעלה</row>
 		<row row_number="34" isdata="1">עמה ובלבד שיהא מכירן והבעל נותן שכר</row>
 </amud>

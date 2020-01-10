@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.652717</dateCreated>
-   <lastModified>2019-12-21 21:42:05.652717</lastModified>
+   <dateCreated>2020-01-06 09:32:34.256981</dateCreated>
+   <lastModified>2020-01-06 09:32:34.256981</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="12">
@@ -15,8 +15,8 @@
 		<row row_number="1" isdata="1"><ContChapter name = "בתולה נשאת"/><ContGemara/>כיון דחזו דמזלזלי בהו תקינו להו מאתן כיון</row>
 		<row row_number="2" isdata="1">דחזו דקא פרשין מינייהו דאמרי עד דנסבינן</row>
 		<row row_number="3" isdata="1">אלמנת כהנים ניזיל ניסיב בתולה בת ישראל</row>
-		<row row_number="4" isdata="1">אהדרינהו למלתייהו בית דין של כהנים</row>
-		<row row_number="5" isdata="1">כו' אמר רב יהודה אמר שמואל לא ב"ד</row>
+		<row row_number="4" isdata="1">אהדרינהו למלתייהו: בית דין של כהנים</row>
+		<row row_number="5" isdata="1">כו': אמר רב יהודה אמר שמואל לא ב"ד</row>
 		<row row_number="6" isdata="1">של כהנים בלבד אמרו אלא אפי' משפחות</row>
 		<row row_number="7" isdata="1">המיוחסות בישראל אם רצו לעשות כדרך</row>
 		<row row_number="8" isdata="1">שהכהנים עושין עושין מיתיבי הרוצה לעשות</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">קאמר לא מבעיא בת ישראל לישראל דלא</row>
 		<row row_number="14" isdata="1">מצי אמר לה עלויי קא מעלינן ליך אבל בת</row>
 		<row row_number="15" isdata="1">ישראל לכהן דמצי אמר לה עלויי קא</row>
-		<row row_number="16" isdata="1">מעלינן ליך אימא לא קמ"למתני' הנושא</row>
+		<row row_number="16" isdata="1">מעלינן ליך אימא לא קמ"ל<EndGemara/><StartMishna/>מתני' הנושא</row>
 		<row row_number="17" isdata="1">את האשה ולא מצא לה בתולים היא אומרת</row>
 		<row row_number="18" isdata="1">משארסתני נאנסתי ונסתחפה שדהו והוא</row>
 		<row row_number="19" isdata="1">אומר לא כי אלא עד שלא ארסתיך והיה</row>
@@ -35,7 +35,7 @@
 		<row row_number="21" isdata="1">אליעזר אומרים נאמנת רבי יהושע אומר</row>
 		<row row_number="22" isdata="1">לא מפיה אנו חיין אלא הרי זו בחזקת בעולה</row>
 		<row row_number="23" isdata="1">עד שלא תתארס והטעתו עד שתביא ראיה</row>
-		<row row_number="24" isdata="1">לדבריה<EndMishna/><StartGemara/>גמ' אתמר מנה לי בידך והלה</row>
+		<row row_number="24" isdata="1">לדבריה:<EndMishna/><StartGemara/>גמ' אתמר מנה לי בידך והלה</row>
 		<row row_number="25" isdata="1">אומר איני יודע רב יהודה ורב הונא אמרי</row>
 		<row row_number="26" isdata="1">חייב ורב נחמן ורבי יוחנן אמרי פטור רב</row>
 		<row row_number="27" isdata="1">הונא ורב יהודה אמרי חייב ברי ושמא ברי</row>

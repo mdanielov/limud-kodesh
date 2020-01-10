@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:14.622668</dateCreated>
-   <lastModified>2019-12-21 21:42:14.622668</lastModified>
+   <dateCreated>2020-01-06 09:33:17.357971</dateCreated>
+   <lastModified>2020-01-06 09:33:17.357971</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="50">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContGemara/>אינה מקודשת שמחמת קידושין הראשונים</row>
-		<row row_number="2" isdata="1">שלח וכן קטן שקידש<EndMishna/><StartGemara/>גמ' וצריכא דאי</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContMishna/>אינה מקודשת שמחמת קידושין הראשונים</row>
+		<row row_number="2" isdata="1">שלח וכן קטן שקידש:<EndMishna/><StartGemara/>גמ' וצריכא דאי</row>
 		<row row_number="3" isdata="1">אשמעינן שוה פרוטה איידי דקא נפיק</row>
 		<row row_number="4" isdata="1">ממונא מיניה טעי אבל פחות משוה פרוטה</row>
 		<row row_number="5" isdata="1">אימא יודע שאין קידושין תופסין בפחות</row>
@@ -50,13 +50,13 @@
 		<row row_number="36" isdata="1">והדר כתבי כתובה חיישינן כתבי והדר</row>
 		<row row_number="37" isdata="1">מקדשי לא חיישינן מקדשי והדר כתבי</row>
 		<row row_number="38" isdata="1">פשיטא לא צריכא דלא שכיח ספרא מהו</row>
-		<row row_number="39" isdata="1">דתימא ספרא הוא דאתרמי קא משמע לן</row>
+		<row row_number="39" isdata="1">דתימא ספרא הוא דאתרמי קא משמע לן:</row>
 		<row row_number="40" isdata="1"><EndGemara/><StartMishna/>מתני' המקדש אשה ובתה או אשה</row>
 		<row row_number="41" isdata="1">ואחותה כאחת אינן מקודשות ומעשה</row>
 		<row row_number="42" isdata="1">בחמש נשים ובהן שתי אחיות וליקט</row>
 		<row row_number="43" isdata="1">אדם אחד כלכלה של תאנים ושלהן</row>
 		<row row_number="44" isdata="1">היתה ושל שביעית היתה ואמר הרי כולכם מקודשות לי בכלכלה זו וקיבלה</row>
-		<row row_number="45" isdata="1">אחת מהן ע"י כולן ואמרו חכמים אין אחיות מקודשות<EndMishna/><StartGemara/>גמ' מנהני מילי אמר</row>
+		<row row_number="45" isdata="1">אחת מהן ע"י כולן ואמרו חכמים אין אחיות מקודשות:<EndMishna/><StartGemara/>גמ' מנהני מילי אמר</row>
 		<row row_number="46" isdata="1">רמי בר חמא דאמר קרא אשה אל אחותה לא תקח לצרור התורה אמרה</row>
 		<row row_number="47" isdata="1">בשעה שנעשו צרות זו לזו לא יהא לו ליקוחים אפי' באחת מהם אמר ליה</row>
 		<row row_number="48" isdata="1">רבא אי הכי היינו דכתיב ונכרתו הנפשות העושות מקרב עמם אי קידושין</row>

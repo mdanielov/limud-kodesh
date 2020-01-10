@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:53.378287</dateCreated>
-   <lastModified>2019-12-21 21:41:53.378287</lastModified>
+   <dateCreated>2020-01-06 09:31:21.367615</dateCreated>
+   <lastModified>2020-01-06 09:31:21.367615</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="73">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "במה אשה"/><ContGemara/>ואם נשתתפו במבוי מותרין כאן וכאן עירבו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "במה אשה"/><ContMishna/>ואם נשתתפו במבוי מותרין כאן וכאן עירבו</row>
 		<row row_number="2" isdata="1">בחצירות ונשתתפו במבוי ושכח אחד מבני</row>
 		<row row_number="3" isdata="1">חצר ולא עירב מותרין כאן וכאן מבני</row>
 		<row row_number="4" isdata="1">מבוי ולא נשתתף מותרין בחצירות ואסורין</row>
-		<row row_number="5" isdata="1">במבוי שהמבוי לחצירות כחצר לבתים</row>
+		<row row_number="5" isdata="1">במבוי שהמבוי לחצירות כחצר לבתים:</row>
 		<row row_number="6" isdata="1"><EndMishna/><StartGemara/>גמ' מני רבי מאיר היא דאמר בעינן עירוב</row>
 		<row row_number="7" isdata="1">ובעינן שיתוף אימא מציעתא ואם נשתתפו</row>
 		<row row_number="8" isdata="1">במבוי מותרין כאן וכאן אתאן לרבנן דאמרי</row>

@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.190649</dateCreated>
-   <lastModified>2019-12-21 21:42:39.190649</lastModified>
+   <dateCreated>2020-01-06 09:35:09.941637</dateCreated>
+   <lastModified>2020-01-06 09:35:09.941637</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="43">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "על אלו מומין"/><ContGemara/>לפסול במקום אחים ולחלוץ שלא במקום</row>
-		<row row_number="2" isdata="1">אחים איכא בינייהו<EndChapter name = "על אלו מומין"/><EndGemara/></row>
+		<row row_number="2" isdata="1">אחים איכא בינייהו:<EndChapter name = "על אלו מומין"/><EndGemara/></row>
 		<row row_number="3" isdata="0">הדרן עלך על אלו מומין</row>
 		<row row_number="4" isdata="1"><StartChapter name = "מומין אלו"/><StartMishna/>מומין אלו בין קבועין בין עוברים</row>
 		<row row_number="5" isdata="1">פוסלין באדם ויתר עליהן</row>
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">וסקיפת ובעלי חטרות רבי יהודה מכשיר</row>
 		<row row_number="8" isdata="1">וחכמים פוסלין הקרח פסול איזהו קרח כל</row>
 		<row row_number="9" isdata="1">שאין לו שיטה של שער מוקפת מאוזן לאוזן</row>
-		<row row_number="10" isdata="1">אם יש לו ה"ז כשר<EndMishna/><StartGemara/>גמ' אמאי והאיכא</row>
+		<row row_number="10" isdata="1">אם יש לו ה"ז כשר:<EndMishna/><StartGemara/>גמ' אמאי והאיכא</row>
 		<row row_number="11" isdata="1">יבלת דלא כתיב באורייתא באדם ותו דק</row>
 		<row row_number="12" isdata="1">תבלול דלא כתיבי בבהמה מילף ילפי מהדדי</row>
 		<row row_number="13" isdata="1">דתניא באדם לא נאמר בו יבלת בבהמה לא</row>
@@ -63,7 +63,7 @@
 		<row row_number="49" isdata="1">בקדשים ותיתי מהנך מה להנך שכן קדושתן</row>
 		<row row_number="50" isdata="1">מאליהן [לא לכתוב] באדם ותיתי מהנך</row>
 		<row row_number="51" isdata="1">מה להנך שכן הן עצמן קריבין לגבי מזבח</row>
-		<row row_number="52" isdata="1">צריכי יתר עליהן באדם מנא ה"מ א"ר</row>
+		<row row_number="52" isdata="1">צריכי: יתר עליהן באדם: מנא ה"מ א"ר</row>
 		<row row_number="53" isdata="1">יוחנן דאמר קרא כל איש אשר בו מום</row>
 		<row row_number="54" isdata="1">מזרע אהרן איש ששוה בזרעו של אהרן</row>
 </amud>

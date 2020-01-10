@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.467192</dateCreated>
-   <lastModified>2019-12-21 21:42:31.468153</lastModified>
+   <dateCreated>2020-01-06 09:34:35.190148</dateCreated>
+   <lastModified>2020-01-06 09:34:35.190148</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="56">
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">למחר ניתאכיל בשר למחר וליומא אוחרא</row>
 		<row row_number="7" isdata="1">אם כן נימא קרא ביום הקריבו יאכל זבחו למה</row>
 		<row row_number="8" isdata="1">לי שמע מינה ביום שאתה זובח אתה מקריבו</row>
-		<row row_number="9" isdata="1">ביום שאי אתה זובח אי אתה מקריבו איתמר</row>
+		<row row_number="9" isdata="1">ביום שאי אתה זובח אי אתה מקריבו: איתמר</row>
 		<row row_number="10" isdata="1">המחשב לאור שלישי חזקיה אמר כשר רבי</row>
 		<row row_number="11" isdata="1">יוחנן אמר פסול חזקיה אמר כשר דהא לא</row>
 		<row row_number="12" isdata="1">אינתיק לשריפה רבי יוחנן אמר פסול דהא</row>
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">קדשים הנאכלין לשני ימים ולילה אחת</row>
 		<row row_number="20" isdata="1">מחשבין בדמן משתשקע החמה ובאימוריהן</row>
 		<row row_number="21" isdata="1">משיעלה עמוד השחר ובבשרן משתשקע</row>
-		<row row_number="22" isdata="1">החמה של שני ימים ת"ר יכול יהו נאכלין</row>
+		<row row_number="22" isdata="1">החמה של שני ימים: ת"ר יכול יהו נאכלין</row>
 		<row row_number="23" isdata="1">לאור שלישי ודין הוא זבחים נאכלין ליום אחד</row>
 		<row row_number="24" isdata="1">וזבחים נאכלין לשני ימים מה זבחים הנאכלין</row>
 		<row row_number="25" isdata="1">ליום אחד לילה אחריהן אף זבחים הנאכלין</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">לאכילה שריפה אף זבחים הנאכלין לשני ימים</row>
 		<row row_number="32" isdata="1">תיכף לאכילה שריפה ת"ל ביום השלישי</row>
 		<row row_number="33" isdata="1">באש ישרף ביום אתה שורפו ואי אתה שורפו</row>
-		<row row_number="34" isdata="1">בלילהמתני' הבכור והמעשר והפסח</row>
+		<row row_number="34" isdata="1">בלילה<EndGemara/><StartMishna/>מתני' הבכור והמעשר והפסח</row>
 		<row row_number="35" isdata="1">קדשים קלים שחיטתן בכל מקום בעזרה</row>
 		<row row_number="36" isdata="1">ודמן טעון מתנה אחת ובלבד שיתן כנגד</row>
 		<row row_number="37" isdata="1">היסוד שינה באכילתן הבכור נאכל לכהנים</row>
@@ -53,7 +53,7 @@
 		<row row_number="39" isdata="1">מאכל לשני ימים ולילה אחד הפסח אינו</row>
 		<row row_number="40" isdata="1">נאכל אלא בלילה ואינו נאכל אלא עד חצות</row>
 		<row row_number="41" isdata="1">ואינו נאכל אלא למנויו ואינו נאכל אלא</row>
-		<row row_number="42" isdata="1">צלי<EndMishna/><StartGemara/>גמ' מאן תנא אמר רב חסדא ר' יוסי</row>
+		<row row_number="42" isdata="1">צלי:<EndMishna/><StartGemara/>גמ' מאן תנא אמר רב חסדא ר' יוסי</row>
 		<row row_number="43" isdata="1">הגלילי היא דתניא ר' יוסי הגלילי אומר</row>
 		<row row_number="44" isdata="1">חלבו לא נאמר אלא חלבם דמו לא נאמר אלא</row>
 		<row row_number="45" isdata="1">דמם לימד על בכור ומעשר ופסח שטעונין</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.695718</dateCreated>
-   <lastModified>2019-12-21 21:42:05.695718</lastModified>
+   <dateCreated>2020-01-06 09:32:34.451213</dateCreated>
+   <lastModified>2020-01-06 09:32:34.451213</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="14">
@@ -45,11 +45,11 @@
 		<row row_number="31" isdata="1">ר' יוסי אומר שתוק ממזר כשר שתוק חלל</row>
 		<row row_number="32" isdata="1">פסול ותניא אידך שתוק חלל כשר שתוק</row>
 		<row row_number="33" isdata="1">ממזר פסול לא קשיא הא ת"ק אליבא דר"מ</row>
-		<row row_number="34" isdata="1">הא דר"ש בן אלעזר אליבא דר"ממתני'</row>
+		<row row_number="34" isdata="1">הא דר"ש בן אלעזר אליבא דר"מ<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="35" isdata="1">א"ר יוסי מעשה בתינוקת שירדה למלאות</row>
 		<row row_number="36" isdata="1">מים מן העין ונאנסה אמר רבי יוחנן בן נורי</row>
 		<row row_number="37" isdata="1">אם רוב אנשי העיר משיאין לכהונה הרי זו</row>
-		<row row_number="38" isdata="1">תינשא לכהונה<EndMishna/><StartGemara/>גמ' אמר ליה רבא לרב</row>
+		<row row_number="38" isdata="1">תינשא לכהונה:<EndMishna/><StartGemara/>גמ' אמר ליה רבא לרב</row>
 		<row row_number="39" isdata="1">נחמן ר' יוחנן בן נורי דאמר כמאן אי כרבן</row>
 		<row row_number="40" isdata="1">גמליאל אפילו ברוב פסולין נמי מכשר</row>
 		<row row_number="41" isdata="1">אי כרבי יהושע אפילו ברוב כשרים נמי</row>

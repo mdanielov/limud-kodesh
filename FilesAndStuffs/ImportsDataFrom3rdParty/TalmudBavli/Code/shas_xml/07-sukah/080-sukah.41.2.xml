@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:59.650753</dateCreated>
-   <lastModified>2019-12-21 21:41:59.650753</lastModified>
+   <dateCreated>2020-01-06 09:31:58.475200</dateCreated>
+   <lastModified>2020-01-06 09:31:58.475200</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="41">
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">היום הזה עד עיצומו של יום רבי יהודה</row>
 		<row row_number="8" isdata="1">הוא דקא טעי הוא סבר מדרבנן קאמר ולא</row>
 		<row row_number="9" isdata="1">היא מדאורייתא קאמר והא התקין קאמר</row>
-		<row row_number="10" isdata="1">מאי התקין דרש והתקיןמתני' י"ט הראשון</row>
+		<row row_number="10" isdata="1">מאי התקין דרש והתקין<EndGemara/><StartMishna/>מתני' י"ט הראשון</row>
 		<row row_number="11" isdata="1">של חג שחל להיות בשבת כל העם מוליכין</row>
 		<row row_number="12" isdata="1">את לולביהן לבית הכנסת למחרת משכימין</row>
 		<row row_number="13" isdata="1">ובאין כל אחד ואחד מכיר את שלו ונוטלו</row>
@@ -31,7 +31,7 @@
 		<row row_number="17" isdata="1">בלולבו של חבירו רבי יוסי אומר יום טוב</row>
 		<row row_number="18" isdata="1">הראשון של חג שחל להיות בשבת ושכח</row>
 		<row row_number="19" isdata="1">והוציא את הלולב לרשות הרבים פטור</row>
-		<row row_number="20" isdata="1">מפני שהוציאו ברשות<EndMishna/><StartGemara/>גמ' מנה"מ דת"ר</row>
+		<row row_number="20" isdata="1">מפני שהוציאו ברשות:<EndMishna/><StartGemara/>גמ' מנה"מ דת"ר</row>
 		<row row_number="21" isdata="1">ולקחתם שתהא לקיחה ביד כל אחד</row>
 		<row row_number="22" isdata="1">ואחד לכם משלכם להוציא את השאול</row>
 		<row row_number="23" isdata="1">ואת הגזול מכאן אמרו חכמים אין אדם</row>
@@ -63,7 +63,7 @@
 		<row row_number="49" isdata="1">לבית הכנסת לולבו בידו קורא קריאת שמע ומתפלל ולולבו בידו קורא</row>
 		<row row_number="50" isdata="1">בתורה ונושא את כפיו מניחו על גבי קרקע הולך לבקר חולים ולנחם אבלים</row>
 		<row row_number="51" isdata="1">לולבו בידו נכנס לבית המדרש משגר לולבו ביד בנו וביד עבדו וביד שלוחו</row>
-		<row row_number="52" isdata="1">מאי קמ"ל להודיעך כמה היו זריזין במצות רבי יוסי אומר י"ט אמר אביי</row>
+		<row row_number="52" isdata="1">מאי קמ"ל להודיעך כמה היו זריזין במצות: רבי יוסי אומר י"ט: אמר אביי</row>
 </amud>
 </daf>
 </masechet>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:39.949017</dateCreated>
-   <lastModified>2019-12-21 21:42:39.949017</lastModified>
+   <dateCreated>2020-01-06 09:35:14.316232</dateCreated>
+   <lastModified>2020-01-06 09:35:14.316232</lastModified>
  </meta>
  <masechet name="ערכין" serial="33">
 <daf value="32">
@@ -26,11 +26,11 @@
 		<row row_number="12" isdata="1">מתקיף לה רב פפא ואיתימא רב שימי בר</row>
 		<row row_number="13" isdata="1">אשי ודילמא בין בפניו בין שלא בפניו מדעתו</row>
 		<row row_number="14" isdata="1">אין בעל כרחו לא והלל מאי דאיצטריך ליה</row>
-		<row row_number="15" isdata="1">תקיןמתני' כל שהוא לפנים מן החומה</row>
+		<row row_number="15" isdata="1">תקין<EndGemara/><StartMishna/>מתני' כל שהוא לפנים מן החומה</row>
 		<row row_number="16" isdata="1">הרי הוא כבתי ערי חומה חוץ מן השדות ר'</row>
 		<row row_number="17" isdata="1">מאיר אומר אף השדות בית הבנוי בחומה ר'</row>
 		<row row_number="18" isdata="1">יהודה אומר אינו כבתי ערי חומה ר"ש אומר</row>
-		<row row_number="19" isdata="1">כותל החיצון היא חומתו<EndMishna/><StartGemara/>גמ' ת"ר בית אין</row>
+		<row row_number="19" isdata="1">כותל החיצון היא חומתו:<EndMishna/><StartGemara/>גמ' ת"ר בית אין</row>
 		<row row_number="20" isdata="1">לי אלא בית מנין לרבות בתי בדים ובתי</row>
 		<row row_number="21" isdata="1">מרחצאות ומגדלות ושובכין ובורות ושיחין</row>
 		<row row_number="22" isdata="1">ומערות ת"ל אשר בעיר יכול שאני מרבה</row>
@@ -39,17 +39,17 @@
 		<row row_number="25" isdata="1">בדים ובתי מרחצאות ומגדלות ושובכין ובורות</row>
 		<row row_number="26" isdata="1">שיחין ומערות ואפילו שדות ת"ל אשר בעיר ואלא הא כתיב בית אמר רב</row>
 		<row row_number="27" isdata="1">חסדא אמר רב קטינא חולסית ומצולה איכא בינייהו והתניא חולסית ומצולה</row>
-		<row row_number="28" isdata="1">ר"מ אומר כבתים ר' יהודה אומר כשדות בית הבנוי בחומה ר' יהודה אומר</row>
-		<row row_number="29" isdata="1">אינו כבתי ערי חומה [וכו'] אמר רבי יוחנן ושניהם מקרא אחד דרשו</row>
+		<row row_number="28" isdata="1">ר"מ אומר כבתים ר' יהודה אומר כשדות: בית הבנוי בחומה ר' יהודה אומר</row>
+		<row row_number="29" isdata="1">אינו כבתי ערי חומה [וכו']: אמר רבי יוחנן ושניהם מקרא אחד דרשו</row>
 		<row row_number="30" isdata="1">ותורידם בחבל בעד החלון כי ביתה בקיר החומה ובחומה היא יושבת</row>
 		<row row_number="31" isdata="1">(ר"מ) [ר' שמעון] סבר כפשטיה דקרא ור' יהודה סבר בחומה היא יושבת</row>
-		<row row_number="32" isdata="1">ולא בעיר חומהמתני' עיר שגגותיה חומתה ושאינה מוקפת חומה</row>
+		<row row_number="32" isdata="1">ולא בעיר חומה<EndGemara/><StartMishna/>מתני' עיר שגגותיה חומתה ושאינה מוקפת חומה</row>
 		<row row_number="33" isdata="1">מימות יהושע בן נון אינה כבתי ערי חומה ואלו הן בתי ערי חומה שלש</row>
 		<row row_number="34" isdata="1">חצרות של שני בתים מוקפת חומה מימות יהושע בן נון כגון קצרה הישנה של</row>
 		<row row_number="35" isdata="1">ציפורי וחקרה של גוש חלב ויודפת הישנה וגמלא וגדוד וחדיד ואונה</row>
-		<row row_number="36" isdata="1">וירושלים וכן כיוצא בהן<EndMishna/><StartGemara/>גמ' ת"ר חומה ולא שור איגר סביב פרט</row>
+		<row row_number="36" isdata="1">וירושלים וכן כיוצא בהן:<EndMishna/><StartGemara/>גמ' ת"ר חומה ולא שור איגר סביב פרט</row>
 		<row row_number="37" isdata="1">לטבריה שימה חומתה רבי אליעזר בר יוסי אומר אשר לוא חומה אע"פ</row>
-		<row row_number="38" isdata="1">שאין לו עכשיו והיה לו קודם לכן ואלו הן בתי ערי חומה כו' תנא גמלא</row>
+		<row row_number="38" isdata="1">שאין לו עכשיו והיה לו קודם לכן: ואלו הן בתי ערי חומה כו': תנא גמלא</row>
 		<row row_number="39" isdata="1">בגליל וגדוד בעבר הירדן וחדיד ואונה וירושלים ביהודה מאי קאמר</row>
 </amud>
 </daf>

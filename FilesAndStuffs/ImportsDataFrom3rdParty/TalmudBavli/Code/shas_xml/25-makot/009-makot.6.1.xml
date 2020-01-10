@@ -6,34 +6,34 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.479180</dateCreated>
-   <lastModified>2019-12-21 21:42:27.479180</lastModified>
+   <dateCreated>2020-01-06 09:34:15.861169</dateCreated>
+   <lastModified>2020-01-06 09:34:15.861169</lastModified>
  </meta>
  <masechet name="מכות" serial="25">
 <daf value="6">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "כיצד העדים"/><ContGemara/>אמר רבי יוסי במה דברים אמורים בדיני</row>
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד העדים"/><ContMishna/>אמר רבי יוסי במה דברים אמורים בדיני</row>
 		<row row_number="2" isdata="1">נפשות אבל בדיני ממונות תתקיים העדות</row>
 		<row row_number="3" isdata="1">בשאר רבי אומר אחד דיני ממונות ואחד דיני</row>
 		<row row_number="4" isdata="1">נפשות ואימתי בזמן שהתרו בהן אבל בזמן</row>
 		<row row_number="5" isdata="1">שלא התרו בהן מה יעשו שני אחין שראו</row>
-		<row row_number="6" isdata="1">באחד שהרג את הנפש<EndMishna/><StartGemara/>גמ' אמר רבא והוא</row>
+		<row row_number="6" isdata="1">באחד שהרג את הנפש:<EndMishna/><StartGemara/>גמ' אמר רבא והוא</row>
 		<row row_number="7" isdata="1">שהעידו כולם בתוך כדי דיבור אמר ליה רב</row>
 		<row row_number="8" isdata="1">אחא מדפתי לרבינא מכדי תוך כדי דיבור</row>
 		<row row_number="9" isdata="1">היכי דמי כדי שאילת תלמיד לרב מאה</row>
 		<row row_number="10" isdata="1">טובא הוו אמר ליה כל חד וחד בתוך כדי</row>
-		<row row_number="11" isdata="1">דיבור של חבירו רבי עקיבא אומר לא</row>
-		<row row_number="12" isdata="1">בא שלישי כו' ומה שנים כו' אמר ליה רב</row>
+		<row row_number="11" isdata="1">דיבור של חבירו: רבי עקיבא אומר לא</row>
+		<row row_number="12" isdata="1">בא שלישי כו' ומה שנים כו': אמר ליה רב</row>
 		<row row_number="13" isdata="1">פפא לאביי אלא מעתה הרוג יציל כשהרגו</row>
 		<row row_number="14" isdata="1">מאחוריו נרבע יציל כשרבעו מאחוריו הורג</row>
 		<row row_number="15" isdata="1">ורובע יצילו אישתיק כי אתא לקמיה דרבא</row>
 		<row row_number="16" isdata="1">אמר ליה יקום דבר במקיימי דבר הכתוב</row>
-		<row row_number="17" isdata="1">מדבר אמר רבי יוסי במה דברים אמורים וכו'</row>
-		<row row_number="18" isdata="1">מה יעשו שני אחים כו' היכי אמרינן להו אמר</row>
+		<row row_number="17" isdata="1">מדבר: אמר רבי יוסי במה דברים אמורים וכו'</row>
+		<row row_number="18" isdata="1">מה יעשו שני אחים כו': היכי אמרינן להו אמר</row>
 		<row row_number="19" isdata="1">רבא הכי אמרי' להו למיחזי אתיתו או לאסהודי</row>
 		<row row_number="20" isdata="1">אתיתו אי אמרי לאסהודי אתו נמצא אחד מהן קרוב או פסול עדותן בטלה</row>
-		<row row_number="21" isdata="1">אי אמרי למיחזי אתו מה יעשו שני אחין שראו באחד שהרג את הנפש</row>
-		<row row_number="22" isdata="1">איתמר אמר רב יהודה אמר שמואל הלכה כר' יוסי ורב נחמן אומר הלכה כרבי</row>
+		<row row_number="21" isdata="1">אי אמרי למיחזי אתו מה יעשו שני אחין שראו באחד שהרג את הנפש:</row>
+		<row row_number="22" isdata="1">איתמר אמר רב יהודה אמר שמואל הלכה כר' יוסי ורב נחמן אומר הלכה כרבי:</row>
 </amud>
 </daf>
 </masechet>

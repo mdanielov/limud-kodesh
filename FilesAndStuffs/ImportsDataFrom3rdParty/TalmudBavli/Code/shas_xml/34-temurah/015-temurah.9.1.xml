@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:40.081018</dateCreated>
-   <lastModified>2019-12-21 21:42:40.081018</lastModified>
+   <dateCreated>2020-01-06 09:35:15.157816</dateCreated>
+   <lastModified>2020-01-06 09:35:15.157816</lastModified>
  </meta>
  <masechet name="תמורה" serial="34">
 <daf value="9">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "הכל ממירין"/><ContGemara/>בוצינא טב מקראמתני' ממירין מן</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הכל ממירין"/><ContGemara/>בוצינא טב מקרא:מתני' ממירין מןבוצינא טב מקרא<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">הצאן על הבקר ומן הבקר על הצאן ומן</row>
 		<row row_number="3" isdata="1">הכבשים על העזים ומן העזים על הכבשים</row>
 		<row row_number="4" isdata="1">מן הזכרים על הנקבות ומן הנקבות על הזכרים</row>
 		<row row_number="5" isdata="1">מן התמימים על בעלי מומין מן בעלי מומין</row>
 		<row row_number="6" isdata="1">על התמימים שנאמר לא יחליפנו ולא</row>
 		<row row_number="7" isdata="1">ימיר אותו טוב ברע או רע בטוב ואיזהו טוב</row>
-		<row row_number="8" isdata="1">ברע בעלי מומין שקדם הקדישן את מומן</row>
+		<row row_number="8" isdata="1">ברע בעלי מומין שקדם הקדישן את מומן:</row>
 		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' מנא הני מילי דתנו רבנן בהמה</row>
 		<row row_number="10" isdata="1">בבהמה מכאן שממירין מן הצאן על הבקר</row>
 		<row row_number="11" isdata="1">ומן הבקר על הצאן מן הכבשים על העזים</row>
@@ -49,10 +49,10 @@
 		<row row_number="35" isdata="1">מי מצי מקדיש איש כי יקדיש את ביתו קדש לה' אמר רחמנא מה ביתו</row>
 		<row row_number="36" isdata="1">ברשותו אף כל ברשותו ואלא בהמה דהקדש דעלמא וחולין דידיה מי מתפיס</row>
 		<row row_number="37" isdata="1">בדבר שאינו שלו לעולם בבהמה דהקדש דעלמא וחולין דידיה כגון דאמר</row>
-		<row row_number="38" isdata="1">מריה דבהמה דהקדש כל הרוצה להמיר בבהמתו יבא וימיר</row>
+		<row row_number="38" isdata="1">מריה דבהמה דהקדש כל הרוצה להמיר בבהמתו יבא וימיר :</row>
 		<row row_number="39" isdata="1"><EndGemara/><StartMishna/>מתני' ממירין אחד בשנים ושנים באחד אחד במאה ומאה באחד ר"ש אומר</row>
 		<row row_number="40" isdata="1">אין ממירין אלא אחד באחד שנאמר והיה הוא ותמורתו יהיה קדש מה הוא</row>
-		<row row_number="41" isdata="1">מיוחד אף היא מיוחדת<EndMishna/><StartGemara/>גמ' מנא ה"מ דת"ר בהמה בבהמה מכאן</row>
+		<row row_number="41" isdata="1">מיוחד אף היא מיוחדת:<EndMishna/><StartGemara/>גמ' מנא ה"מ דת"ר בהמה בבהמה מכאן</row>
 		<row row_number="42" isdata="1">שממירין אחד בב' וב' באחד אחד במאה ומאה באחד ר"ש אומר אין ממירין</row>
 		<row row_number="43" isdata="1">אלא אחד באחד שנאמר בהמה בבהמה ולא בהמה בבהמות ולא בהמות</row>
 		<row row_number="44" isdata="1">בבהמה אמר לו מצינו בהמות שקרויה בהמה שנאמר ובהמה רבה ור"ש</row>

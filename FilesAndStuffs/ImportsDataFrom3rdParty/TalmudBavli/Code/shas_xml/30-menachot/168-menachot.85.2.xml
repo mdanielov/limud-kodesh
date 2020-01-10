@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.562232</dateCreated>
-   <lastModified>2019-12-21 21:42:34.562232</lastModified>
+   <dateCreated>2020-01-06 09:34:49.037841</dateCreated>
+   <lastModified>2020-01-06 09:34:49.037841</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="85">
@@ -25,19 +25,19 @@
 		<row row_number="11" isdata="1">ניר חציה וזורע חציה ניר חציה וזורע חציה</row>
 		<row row_number="12" isdata="1">רב חלקיה בר טובי הוה ליה קרנא דארעא</row>
 		<row row_number="13" isdata="1">ניר חציה וזרע חציה ניר חציה וזרע חציה</row>
-		<row row_number="14" isdata="1">ועבדה על חד תרי ומזבין להו לחיטי לסמידא</row>
-		<row row_number="15" isdata="1">ואם התליעה פסולה תנו רבנן סולת</row>
+		<row row_number="14" isdata="1">ועבדה על חד תרי ומזבין להו לחיטי לסמידא:</row>
+		<row row_number="15" isdata="1">ואם התליעה פסולה: תנו רבנן סולת</row>
 		<row row_number="16" isdata="1">שהתליעה רובה פסולה וחיטין שהתליעו רובן</row>
 		<row row_number="17" isdata="1">פסולות בעי רבי ירמיה ברוב חטה או ברוב</row>
-		<row row_number="18" isdata="1">סאה תיקו בעי רבא הקדישן מהו שילקה</row>
+		<row row_number="18" isdata="1">סאה תיקו: בעי רבא הקדישן מהו שילקה</row>
 		<row row_number="19" isdata="1">עליהן משום בעל מום כיון דפסיל כבעל מום</row>
 		<row row_number="20" isdata="1">דמי או דלמא אין בעל מום אלא בבהמה</row>
-		<row row_number="21" isdata="1">תיקו תנן התם כל עץ שנמצא בו תולעת</row>
+		<row row_number="21" isdata="1">תיקו: תנן התם כל עץ שנמצא בו תולעת</row>
 		<row row_number="22" isdata="1">פסול לגבי מזבח אמר שמואל לא שנו אלא</row>
 		<row row_number="23" isdata="1">לח אבל יבש גוררו וכשר בעי רבא הקדישו</row>
 		<row row_number="24" isdata="1">מהו שילקה עליו משום בעל מום כיון דפסול</row>
 		<row row_number="25" isdata="1">כבעל מום דמי או דלמא אין בעל מום אלא</row>
-		<row row_number="26" isdata="1">בבהמה תיקומתני' תקוע אלפא לשמן</row>
+		<row row_number="26" isdata="1">בבהמה תיקו<EndGemara/><StartMishna/>מתני' תקוע אלפא לשמן</row>
 		<row row_number="27" isdata="1">אבא שאול אומר שניה לה רגב בעבר הירדן</row>
 		<row row_number="28" isdata="1">כל הארצות היו כשרות אלא מיכן היו מביאין</row>
 		<row row_number="29" isdata="1">אין מביאין לא מבית הזבלים ולא מבית</row>
@@ -45,9 +45,9 @@
 		<row row_number="31" isdata="1">הביא כשר אין מביאין אנפקטן ואם</row>
 		<row row_number="32" isdata="1">הביא כשר אין מביאין מן הגרגרין שנשרו</row>
 		<row row_number="33" isdata="1">במים ולא מן הכבשים ולא מן השלוקים</row>
-		<row row_number="34" isdata="1">ואם הביא פסול<EndMishna/><StartGemara/>גמ' וישלח יואב תקועה</row>
+		<row row_number="34" isdata="1">ואם הביא פסול:<EndMishna/><StartGemara/>גמ' וישלח יואב תקועה</row>
 		<row row_number="35" isdata="1">ויקח משם אשה חכמה מאי שנא תקועה אמר רבי יוחנן מתוך שרגילין בשמן</row>
-		<row row_number="36" isdata="1">זית חכמה מצויה בהן תנו רבנן וטובל בשמן רגלו זה חלקו של אשר</row>
+		<row row_number="36" isdata="1">זית חכמה מצויה בהן: תנו רבנן וטובל בשמן רגלו זה חלקו של אשר</row>
 		<row row_number="37" isdata="1">שמושך שמן כמעין אמרו פעם א' נצרכו להן אנשי לודקיא בשמן מינו להן</row>
 		<row row_number="38" isdata="1">פולמוסטוס אחד אמרו לו לך והבא לנו שמן במאה ריבוא הלך לירושלים</row>
 		<row row_number="39" isdata="1">אמרו לו לך לצור הלך לצור אמרו לו לך לגוש חלב הלך לגוש חלב אמרו לו</row>
@@ -65,7 +65,7 @@
 		<row row_number="51" isdata="1">כיון שהגיע לעירו יצאו אנשי עירו לקלסו אמר להם לא לי קלסוני</row>
 		<row row_number="52" isdata="1">אלא לזה שבא עמי שמדד לי שמן במאה ריבוא והרי נושה בי בשמונה</row>
 		<row row_number="53" isdata="1">עשרה ריבוא לקיים מה שנאמר יש מתעשר ואין כל מתרושש והון</row>
-		<row row_number="54" isdata="1">רב אין מביאין לא מבית הזבלים  והתניא אין מביאין אנפקטן</row>
+		<row row_number="54" isdata="1">רב: אין מביאין לא מבית הזבלים : והתניא אין מביאין אנפקטן</row>
 </amud>
 </daf>
 </masechet>

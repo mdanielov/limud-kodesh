@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:20.340414</dateCreated>
-   <lastModified>2019-12-21 21:42:20.340414</lastModified>
+   <dateCreated>2020-01-06 09:33:42.253974</dateCreated>
+   <lastModified>2020-01-06 09:33:42.253974</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="111">
@@ -24,8 +24,8 @@
 		<row row_number="10" isdata="1">רבה בר רב הונא הני שוקאי דסורא לא</row>
 		<row row_number="11" isdata="1">עברי משום בל תלין מידע ידעי דעל יומא</row>
 		<row row_number="12" isdata="1">דשוקא סמיכי אבל משום בל תשהא ודאי</row>
-		<row row_number="13" isdata="1">עובר שכיר שעות גובה כל הלילה וכל</row>
-		<row row_number="14" isdata="1">היום אמר רב שכיר שעות דיום גובה</row>
+		<row row_number="13" isdata="1">עובר: שכיר שעות גובה כל הלילה וכל</row>
+		<row row_number="14" isdata="1">היום: אמר רב שכיר שעות דיום גובה</row>
 		<row row_number="15" isdata="1">כל היום שכיר שעות דלילה גובה כל הלילה ושמואל אמר שכיר שעות דיום</row>
 		<row row_number="16" isdata="1">גובה כל היום ושכיר שעות דלילה גובה כל הלילה וכל היום תנן שכיר שעות</row>
 		<row row_number="17" isdata="1">גובה כל הלילה וכל היום תיובתא דרב אמר לך רב לצדדין קתני שכיר שעות</row>
@@ -49,13 +49,13 @@
 		<row row_number="35" isdata="1">כפריה אי הכי אפילו עושק נמי דהדר כפריה הכי השתא בשלמא התם כתיב</row>
 		<row row_number="36" isdata="1">או בגזל מכלל דאודי ליה מעיקרא אבל גבי עושק מי כתיב או בעושק</row>
 		<row row_number="37" isdata="1">או עשק כתיב שעשקו כבר רבא אמר זה הוא עושק זהו גזל ולמה חלקן</row>
-		<row row_number="38" isdata="1">הכתוב לעבור עליו בשני לאויןמתני' אחד שכר אדם ואחד שכר</row>
+		<row row_number="38" isdata="1">הכתוב לעבור עליו בשני לאוין<EndGemara/><StartMishna/>מתני' אחד שכר אדם ואחד שכר</row>
 		<row row_number="39" isdata="1">בהמה ואחד שכר כלים יש בו משום ביומו תתן שכרו ויש בו משום</row>
 		<row row_number="40" isdata="1">לא תלין פעולת שכיר אתך עד בוקר אימתי בזמן שתבעו לא תבעו</row>
 		<row row_number="41" isdata="1">אינו עובר עליו המחהו אצל חנוני או אצל שולחני אינו עובר עליו</row>
 		<row row_number="42" isdata="1">שכיר בזמנו נשבע ונוטל עבר זמנו אינו נשבע ונוטל אם יש</row>
 		<row row_number="43" isdata="1">עדים שתבעו (בזמנו) הרי זה נשבע ונוטל גר תושב יש בו משום ביומו</row>
-		<row row_number="44" isdata="1">תתן שכרו ואין בו משום לא תלין פעולת שכיר אתך עד בקר<EndMishna/><StartGemara/>גמ' מני</row>
+		<row row_number="44" isdata="1">תתן שכרו ואין בו משום לא תלין פעולת שכיר אתך עד בקר:<EndMishna/><StartGemara/>גמ' מני</row>
 		<row row_number="45" isdata="1"><EndGemara/><StartMishna/>מתני' לא תנא קמא דמאחיך ולא רבי יוסי ברבי יהודה מאי היא דתניא</row>
 </amud>
 </daf>

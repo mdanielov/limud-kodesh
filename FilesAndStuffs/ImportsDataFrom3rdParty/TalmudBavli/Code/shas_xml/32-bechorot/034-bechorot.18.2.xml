@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:38.818633</dateCreated>
-   <lastModified>2019-12-21 21:42:38.818633</lastModified>
+   <dateCreated>2020-01-06 09:35:07.154361</dateCreated>
+   <lastModified>2020-01-06 09:35:07.154361</lastModified>
  </meta>
  <masechet name="בכורות" serial="32">
 <daf value="18">
@@ -32,11 +32,11 @@
 		<row row_number="18" isdata="1">דתימא ר' מאיר אפי' ספק מעשר מחייב והא</row>
 		<row row_number="19" isdata="1">דמיפלגי בחליפין להודיעך כחו דרבי יוסי</row>
 		<row row_number="20" isdata="1">דפטר אפי' היכא דכהן בא עליו משני צדדין</row>
-		<row row_number="21" isdata="1">קא משמע לן מת אחד מהן רבי טרפון אומר</row>
-		<row row_number="22" isdata="1">יחלוקו אמאי יחלוקו ניחזי אי שמן מית דכהן</row>
+		<row row_number="21" isdata="1">קא משמע לן: מת אחד מהן רבי טרפון אומר</row>
+		<row row_number="22" isdata="1">יחלוקו: אמאי יחלוקו ניחזי אי שמן מית דכהן</row>
 		<row row_number="23" isdata="1">הוא והאי דאיכא דבעל הבית ואי כחוש מית דבעל הבית מית והאי דאיכא</row>
-		<row row_number="24" isdata="1">דכהן הוא אמר [רבי] אמי חזר בו ר' טרפון ר"ע אומר המוציא מחבירו</row>
-		<row row_number="25" isdata="1">עליו הראיה אמר רבי חייא משל דר' טרפון למה הדבר דומה לשנים</row>
+		<row row_number="24" isdata="1">דכהן הוא אמר [רבי] אמי חזר בו ר' טרפון: ר"ע אומר המוציא מחבירו</row>
+		<row row_number="25" isdata="1">עליו הראיה: אמר רבי חייא משל דר' טרפון למה הדבר דומה לשנים</row>
 		<row row_number="26" isdata="1">שהפקידו אצל רועה שמניח רועה ביניהם ומסתלק ומשל דרבי עקיבא למה</row>
 		<row row_number="27" isdata="1">הדבר דומה לאחד שהפקיד אצל בעל הבית שהמוציא מחבירו עליו הראיה</row>
 		<row row_number="28" isdata="1">אלא במאי פליגי ר' עקיבא פליג בשנים שהפקידו אצל רועה שמניח רועה</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">וניחא ליה דליתעביד מצוה [בממוניה] והוה ליה כשנים שהפקידו אצל</row>
 		<row row_number="34" isdata="1">רועה שמניח רועה ביניהן ומסתלק ור"ע סבר כיון דאית ליה פסידא לא מקני</row>
 		<row row_number="35" isdata="1">ליה מידעם והוה ליה כאחד שהפקיד אצל בעל הבית שהמוציא מחבירו עליו</row>
-		<row row_number="36" isdata="1">הראיהמתני' שתי רחיליו שלא ביכרו וילדו שני זכרים שניהם</row>
+		<row row_number="36" isdata="1">הראיה<EndGemara/><StartMishna/>מתני' שתי רחיליו שלא ביכרו וילדו שני זכרים שניהם</row>
 		<row row_number="37" isdata="1">לכהן זכר ונקבה הזכר לכהן שני זכרים ונקבה אחד לו ואחד לכהן רבי</row>
 		<row row_number="38" isdata="1">טרפון אומר הכהן בורר לו את היפה רבי עקיבא אומר משמנין ביניהן והשני</row>
 		<row row_number="39" isdata="1">ירעה עד שיסתאב וחייב במתנות רבי יוסי פוטר מת אחד מהן רבי טרפון אומר</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">אומר משמנין ביניהן והשני ירעה עד שיסתאב וחייב במתנות רבי יוסי פוטר</row>
 		<row row_number="44" isdata="1">שרבי יוסי אומר כל שחליפיו ביד כהן פטור מן המתנות ורבי מאיר</row>
 		<row row_number="45" isdata="1">מחייב מת אחד מהן ר' טרפון אומר יחלוקו ר' עקיבא אומר המוציא מחבירו</row>
-		<row row_number="46" isdata="1">עליו הראיה זכר ונקבה אין כאן לכהן כלום<EndMishna/><StartGemara/>גמ' צריכא דאי אשמועינן</row>
+		<row row_number="46" isdata="1">עליו הראיה זכר ונקבה אין כאן לכהן כלום:<EndMishna/><StartGemara/>גמ' צריכא דאי אשמועינן</row>
 		<row row_number="47" isdata="1">קמייתא בההיא קאמר ר' עקיבא דתרי מחדא אבל רחיליו שלא ביכרו</row>
 		<row row_number="48" isdata="1">דתרי מחדא וחד מחדא אימא מודי ליה לר' טרפון דהך דילידא חד שביח טפי</row>
 		<row row_number="49" isdata="1">ואי אשמועינן הא בהא קאמר רבי עקיבא דתרוייהו לא ביכרו אבל</row>

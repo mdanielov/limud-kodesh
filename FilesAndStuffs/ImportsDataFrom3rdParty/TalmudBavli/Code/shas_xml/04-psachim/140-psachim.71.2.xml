@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:55.789650</dateCreated>
-   <lastModified>2019-12-21 21:41:55.789650</lastModified>
+   <dateCreated>2020-01-06 09:31:31.962843</dateCreated>
+   <lastModified>2020-01-06 09:31:31.962843</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="71">
@@ -32,7 +32,7 @@
 		<row row_number="18" isdata="1">חגיגת י"ד שנאכלת לשני ימים ולילה אחד</row>
 		<row row_number="19" isdata="1">טעמא דכתיב ביום הראשון לבקר דמאי בקר</row>
 		<row row_number="20" isdata="1">בקר שני הא כל היכא דכתיב בקר סתמא</row>
-		<row row_number="21" isdata="1">בקר ראשון ואע"ג דלא כתב ביה ראשית</row>
+		<row row_number="21" isdata="1">בקר ראשון ואע"ג דלא כתב ביה ראשית:</row>
 		<row row_number="22" isdata="1"><EndGemara/><StartMishna/>מתני' הפסח ששחטו שלא לשמו בשבת</row>
 		<row row_number="23" isdata="1">חייב עליו חטאת ושאר כל הזבחים ששחטן</row>
 		<row row_number="24" isdata="1">לשם פסח אם אינן ראויין חייב ואם ראויין</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">ציבור פטור שחטו שלא לאוכליו ושלא למנויו לערלין ולטמאין חייב לאוכליו</row>
 		<row row_number="34" isdata="1">ושלא לאוכליו למנויו ושלא למנויו למולין ולערלים לטמאין ולטהורין פטור</row>
 		<row row_number="35" isdata="1">שחטו ונמצא בעל מום חייב שחטו ונמצא טריפה בסתר פטור שחטו ונודע</row>
-		<row row_number="36" isdata="1">שמשכו הבעלים את ידם או שמתו או שנטמאו פטור מפני ששחט ברשות<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="36" isdata="1">שמשכו הבעלים את ידם או שמתו או שנטמאו פטור מפני ששחט ברשות:<EndMishna/><StartGemara/>גמ'</row>
 </amud>
 </daf>
 </masechet>

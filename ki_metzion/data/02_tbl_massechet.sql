@@ -1,4 +1,4 @@
-INSERT INTO [dbo].[MASSECHET] (SEDER_ID,MASSECHET_NAME,MASSECHET_NUMBER_IN_SEDER)
+INSERT INTO [dbo].[TBL_MASSECHET] (SEDER_ID,MASSECHET_NAME,MASSECHET_NUMBER_IN_SEDER)
 VALUES 
 (1,'ברכות',1),
 (1,'פיאה',2),
@@ -46,7 +46,7 @@ VALUES
 (5,'בכורות',4),
 (5,'ערכין',5),
 (5,'תמורה',6),
-(5,'כרתות',7),
+(5,'כריתות',7),
 (5,'מעילה',8),
 (5,'תמיד',9),
 (5,'מידות',10),

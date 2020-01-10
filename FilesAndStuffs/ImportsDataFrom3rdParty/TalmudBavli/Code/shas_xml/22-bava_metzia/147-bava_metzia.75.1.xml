@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:19.411413</dateCreated>
-   <lastModified>2019-12-21 21:42:19.411413</lastModified>
+   <dateCreated>2020-01-06 09:33:38.722308</dateCreated>
+   <lastModified>2020-01-06 09:33:38.722308</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="75">
@@ -15,22 +15,22 @@
 		<row row_number="1" isdata="1"><ContChapter name = "איזהו נשך"/><ContGemara/>הלויני כור חטין וקוצץ לו דמים הוזלו נותן</row>
 		<row row_number="2" isdata="1">לו חטים הוקרו נותן דמיהם והלא קצץ</row>
 		<row row_number="3" isdata="1">אמר רב ששת הכי קאמר אם לא קצץ</row>
-		<row row_number="4" isdata="1">הוזלו נוטל חטיו הוקרו נותן דמיהם</row>
+		<row row_number="4" isdata="1">הוזלו נוטל חטיו הוקרו נותן דמיהם:</row>
 		<row row_number="5" isdata="1"><EndGemara/><StartMishna/>מתני' לא יאמר אדם לחבירו הלויני כור</row>
 		<row row_number="6" isdata="1">חטין ואני אתן לך לגורן אבל אומר לו</row>
 		<row row_number="7" isdata="1">הלויני עד שיבא בני או עד שאמצא מפתח</row>
 		<row row_number="8" isdata="1">והלל אוסר וכן היה הלל אומר לא תלוה</row>
 		<row row_number="9" isdata="1">אשה ככר לחברתה עד שתעשיה דמים</row>
-		<row row_number="10" isdata="1">שמא יוקרו חטין ונמצאו באות לידי רבית</row>
+		<row row_number="10" isdata="1">שמא יוקרו חטין ונמצאו באות לידי רבית:</row>
 		<row row_number="11" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב הונא יש לו סאה לוה סאה</row>
 		<row row_number="12" isdata="1">סאתים לוה סאתים ר' יצחק אומר אפי' יש</row>
 		<row row_number="13" isdata="1">לו סאה לוה עליה כמה כורין תני ר' חייא</row>
 		<row row_number="14" isdata="1">לסיועיה לרבי יצחק טיפת יין אין לו טיפת</row>
 		<row row_number="15" isdata="1">שמן אין לו הא יש לו לוה עליה כמה</row>
-		<row row_number="16" isdata="1">טיפין והלל אוסר אמר רב נחמן אמר</row>
+		<row row_number="16" isdata="1">טיפין: והלל אוסר: אמר רב נחמן אמר</row>
 		<row row_number="17" isdata="1">שמואל הלכה כדברי הלל ולית הלכתא</row>
-		<row row_number="18" isdata="1">כוותיה וכן היה הלל אומר לא תלוה</row>
-		<row row_number="19" isdata="1">אשה [וכו'] אמר רב יהודה אמר שמואל</row>
+		<row row_number="18" isdata="1">כוותיה: וכן היה הלל אומר לא תלוה</row>
+		<row row_number="19" isdata="1">אשה [וכו']: אמר רב יהודה אמר שמואל</row>
 		<row row_number="20" isdata="1">זו דברי הלל אבל חכמים אומרים לוים</row>
 		<row row_number="21" isdata="1">סתם ופורעים סתם ואמר רב יהודה אמר</row>
 		<row row_number="22" isdata="1">שמואל בני חבורה המקפידין זה על זה</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">ועשרין פלפלין ואריך אמר רב יהודה אמר</row>
 		<row row_number="31" isdata="1">רב מותר לו לאדם להלוות בניו ובני ביתו</row>
 		<row row_number="32" isdata="1">ברבית כדי להטעימן טעם רבית ולאו</row>
-		<row row_number="33" isdata="1">מילתא היא משום דאתי למסרךמתני' אומר</row>
+		<row row_number="33" isdata="1">מילתא היא משום דאתי למסרך<EndGemara/><StartMishna/>מתני' אומר</row>
 		<row row_number="34" isdata="1">אדם לחבירו נכש עמי ואנכש עמך עדור</row>
 		<row row_number="35" isdata="1">עמי ואעדור עמך ולא יאמר לו נכש עמי ואעדור עמך עדור עמי ואנכש עמך</row>
 </amud>

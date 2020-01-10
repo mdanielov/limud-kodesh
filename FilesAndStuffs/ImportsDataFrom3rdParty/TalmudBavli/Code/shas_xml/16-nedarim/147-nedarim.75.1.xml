@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:09.008985</dateCreated>
-   <lastModified>2019-12-21 21:42:09.008985</lastModified>
+   <dateCreated>2020-01-06 09:32:49.989907</dateCreated>
+   <lastModified>2020-01-06 09:32:49.989907</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="75">
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">אי אתה מודה שאין חייבין סקילה כנערה</row>
 		<row row_number="8" isdata="1">המאורסה אמר רב אשי מתני' נמי דיקא אין</row>
 		<row row_number="9" isdata="1">יבמה גמורה לאישה כשם שארוסה גמורה</row>
-		<row row_number="10" isdata="1">לאישהמתני' האומר לאשתו כל</row>
+		<row row_number="10" isdata="1">לאישה<EndGemara/><StartMishna/>מתני' האומר לאשתו כל</row>
 		<row row_number="11" isdata="1">הנדרים שתדורי מכאן עד שאבא ממקום</row>
 		<row row_number="12" isdata="1">פלוני הרי הן קיימין לא אמר כלום הרי הן</row>
 		<row row_number="13" isdata="1">מופרין ר' אליעזר אמר מופר וחכ"א אינו</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">איסור לא יפר נדרים שלא באו לכלל איסור</row>
 		<row row_number="16" isdata="1">אמרו לו הרי הוא אומר אישה יקימנו ואישה</row>
 		<row row_number="17" isdata="1">יפרנו את שבא לכלל הקם בא לכלל הפר</row>
-		<row row_number="18" isdata="1">לא בא לכלל הקם לא בא לכלל הפר</row>
+		<row row_number="18" isdata="1">לא בא לכלל הקם לא בא לכלל הפר:</row>
 		<row row_number="19" isdata="1"><EndMishna/><StartGemara/>גמ' איבעיא להו לר"א מיחל חלין ובטלין</row>
 		<row row_number="20" isdata="1">או דלמא לא חלין כלל למאי נפקא מינה</row>
 </amud>

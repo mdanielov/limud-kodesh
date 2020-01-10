@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.572776</dateCreated>
-   <lastModified>2019-12-21 21:42:08.572776</lastModified>
+   <dateCreated>2020-01-06 09:32:47.990215</dateCreated>
+   <lastModified>2020-01-06 09:32:47.990215</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="51">
@@ -16,10 +16,10 @@
 		<row row_number="2" isdata="1">של ירק כבוש שאני טועם אסור בכל</row>
 		<row row_number="3" isdata="1">הכבושים מן השלוק אינו אסור אלא מן</row>
 		<row row_number="4" isdata="1">השלוק של בשר שלוק שאני טועם אסור</row>
-		<row row_number="5" isdata="1">בכל השלוקים<EndMishna/><StartGemara/>גמ' א"ל רב אחא בריה</row>
+		<row row_number="5" isdata="1">בכל השלוקים:<EndMishna/><StartGemara/>גמ' א"ל רב אחא בריה</row>
 		<row row_number="6" isdata="1">דרב אויא לרב אשי אמר דכביש מאי</row>
 		<row row_number="7" isdata="1">דשליק מאי דצלי מאי דמליח מאי היכין</row>
-		<row row_number="8" isdata="1">משמע תיבעימתני' מן הצלי אין אסור</row>
+		<row row_number="8" isdata="1">משמע תיבעי<EndGemara/><StartMishna/>מתני' מן הצלי אין אסור</row>
 		<row row_number="9" isdata="1">אלא מן הצלי של בשר דברי ר' יהודה</row>
 		<row row_number="10" isdata="1">צלי שאני טועם אסור בכל הצלויים מן</row>
 		<row row_number="11" isdata="1">המליח אין אסור אלא מן המליח של דג</row>
@@ -29,7 +29,7 @@
 		<row row_number="15" isdata="1">מבושלים ומותר בטרית טרופה ובציר</row>
 		<row row_number="16" isdata="1">הנודר מן הצחנה אסור בטרית טרופה ומותר</row>
 		<row row_number="17" isdata="1">בציר ובמורייס הנודר מטרית טרופה אסור</row>
-		<row row_number="18" isdata="1">בציר ובמורייס<EndMishna/><StartGemara/>גמ' תניא רבי שמעון</row>
+		<row row_number="18" isdata="1">בציר ובמורייס:<EndMishna/><StartGemara/>גמ' תניא רבי שמעון</row>
 		<row row_number="19" isdata="1">בן אלעזר אומר דג שאני טועם אסור בגדולים</row>
 		<row row_number="20" isdata="1">ומותר בקטנים דגה שאני טועם אסור</row>
 		<row row_number="21" isdata="1">בקטנים ומותר בגדולים דג דגה שאני טועם</row>
@@ -39,8 +39,8 @@
 		<row row_number="25" isdata="1">את יונה והכתיב ויתפלל יונה אל י"י אלהיו</row>
 		<row row_number="26" isdata="1">ממעי הדגה הא לא קשיא דלמא פלטיה דג גדול ובלעיה דג קטן אלא</row>
 		<row row_number="27" isdata="1">והדגה אשר ביאור מתה קטנים מתו גדולים לא מתו אלא דגה משמע</row>
-		<row row_number="28" isdata="1">גדולים ומשמע קטנים ובנדרים הלך אחר לשון בני אדם הנודר מן</row>
-		<row row_number="29" isdata="1">הצחנה כו' אמר ליה רבינא לרב אשי אמר הרי עלי ציחין מאי תיבעי</row>
+		<row row_number="28" isdata="1">גדולים ומשמע קטנים ובנדרים הלך אחר לשון בני אדם: הנודר מן</row>
+		<row row_number="29" isdata="1">הצחנה כו': אמר ליה רבינא לרב אשי אמר הרי עלי ציחין מאי תיבעי:</row>
 		<row row_number="30" isdata="1"><EndGemara/><StartMishna/>מתני' הנודר מן החלב מותר בקום ור' יוסי אוסר מן הקום מותר בחלב אבא</row>
 		<row row_number="31" isdata="1">שאול אומר הנודר מן הגבינה אסור בה בין מלוחה וטפלה הנודר מן הבשר</row>
 </amud>

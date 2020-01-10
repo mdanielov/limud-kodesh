@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.180096</dateCreated>
-   <lastModified>2019-12-21 21:42:13.180096</lastModified>
+   <dateCreated>2020-01-06 09:33:10.215523</dateCreated>
+   <lastModified>2020-01-06 09:33:10.215523</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="65">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContGemara/>גיטא לא הוי עד דמטית למתא מחסיא</row>
-		<row row_number="2" isdata="1">ורבי אלעזר אוסר מיד פשיטא דהא מראה</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContGemara/>גיטא לא הוי עד דמטית למתא מחסיא:</row>
+		<row row_number="2" isdata="1">ורבי אלעזר אוסר מיד: פשיטא דהא מראה</row>
 		<row row_number="3" isdata="1">מקום היא לו לא צריכא דאמרה ליה זיל</row>
 		<row row_number="4" isdata="1">למזרח דאיתיה במזרח וקא אזל למערב מהו</row>
 		<row row_number="5" isdata="1">דתימא במערב הא ליתיה קמ"ל דילמא</row>
@@ -30,11 +30,11 @@
 		<row row_number="16" isdata="1">בשובך ועירב לו במגדל דתניא חדא עירובו</row>
 		<row row_number="17" isdata="1">עירוב ותניא אידך אין עירובו עירוב התם</row>
 		<row row_number="18" isdata="1">מאי שלו ושל חבירו איכא התם נמי איכא</row>
-		<row row_number="19" isdata="1">פירי דמגדל ופירי דשובךמתני' האומר</row>
+		<row row_number="19" isdata="1">פירי דמגדל ופירי דשובך<EndGemara/><StartMishna/>מתני' האומר</row>
 		<row row_number="20" isdata="1">כתבו גט ותנו לאשתי גרשוה כתבו איגרת</row>
 		<row row_number="21" isdata="1">ותנו לה הרי אלו יכתבו ויתנו פטרוה פרנסוה</row>
 		<row row_number="22" isdata="1">עשו לה כנימוס עשו לה כראוי לא אמר</row>
-		<row row_number="23" isdata="1">כלום<EndMishna/><StartGemara/>גמ' ת"ר שלחוה שבקוה תרכוה הרי</row>
+		<row row_number="23" isdata="1">כלום:<EndMishna/><StartGemara/>גמ' ת"ר שלחוה שבקוה תרכוה הרי</row>
 		<row row_number="24" isdata="1">אלו יכתבו ויתנו פטרוה פרנסוה עשו לה</row>
 		<row row_number="25" isdata="1">כנימוס עשו לה כראוי לא אמר כלום תניא</row>
 		<row row_number="26" isdata="1">רבי נתן אומר פטרוה דבריו קיימין פיטרוה</row>
@@ -44,11 +44,11 @@
 		<row row_number="30" isdata="1">מהו עזבוה מהו התירוה מהו הניחוה מהו</row>
 		<row row_number="31" isdata="1">הועילו לה מהו עשו לה כדת מהו פשוט</row>
 		<row row_number="32" isdata="1">מיהא חדא דתניא עשו לה כדת עשו לה</row>
-		<row row_number="33" isdata="1">כנימוס עשו לה כראוי לא אמר כלום</row>
+		<row row_number="33" isdata="1">כנימוס עשו לה כראוי לא אמר כלום:</row>
 		<row row_number="34" isdata="1"><EndGemara/><StartMishna/>מתני' בראשונה היו אומרים היוצא בקולר</row>
 		<row row_number="35" isdata="1">ואמר כתבו גט לאשתי הרי אלו יכתבו ויתנו</row>
 		<row row_number="36" isdata="1">חזרו לומר אף המפרש והיוצא בשיירא</row>
-		<row row_number="37" isdata="1">רבי שמעון שזורי אומר אף המסוכן</row>
+		<row row_number="37" isdata="1">רבי שמעון שזורי אומר אף המסוכן:</row>
 		<row row_number="38" isdata="1"><EndMishna/><StartGemara/>גמ' גניבא יוצא בקולר הוה כי הוה קא</row>
 		<row row_number="39" isdata="1">נפיק אמר הבו ארבע מאה זוזי לרבי</row>
 		<row row_number="40" isdata="1">אבינא מחמרא דנהר פניא אמר רבי זירא</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.530224</dateCreated>
-   <lastModified>2019-12-21 21:42:27.530224</lastModified>
+   <dateCreated>2020-01-06 09:34:16.179248</dateCreated>
+   <lastModified>2020-01-06 09:34:16.179248</lastModified>
  </meta>
  <masechet name="מכות" serial="25">
 <daf value="9">
@@ -21,13 +21,13 @@
 		<row row_number="7" isdata="1">וממך למד אכסנאי הוא שבא לעיר על</row>
 		<row row_number="8" isdata="1">עסקי אכילה ושתייה שואלין אותו כלום</row>
 		<row row_number="9" isdata="1">שואלין אותו אשתך זו אחותך זו מכאן שבן</row>
-		<row row_number="10" isdata="1">נח נהרג שהיה לו ללמוד ולא למדמתני'</row>
+		<row row_number="10" isdata="1">נח נהרג שהיה לו ללמוד ולא למד<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="11" isdata="1">הסומא אינו גולה דברי רבי יהודה ר' מאיר</row>
 		<row row_number="12" isdata="1">אומר גולה השונא אינו גולה רבי יוסי אומר</row>
 		<row row_number="13" isdata="1">השונא נהרג מפני שהוא כמועד רבי שמעון</row>
 		<row row_number="14" isdata="1">אומר יש שונא גולה ויש שונא שאינו גולה</row>
 		<row row_number="15" isdata="1">זה הכלל כל שהוא יכול לומר לדעת הרג</row>
-		<row row_number="16" isdata="1">אינו גולה ושלא לדעת הרג הרי זה גולה</row>
+		<row row_number="16" isdata="1">אינו גולה ושלא לדעת הרג הרי זה גולה:</row>
 		<row row_number="17" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר בלא ראות פרט לסומא דברי רבי</row>
 		<row row_number="18" isdata="1">יהודה רבי מאיר אומר בלא ראות לרבות את</row>
 		<row row_number="19" isdata="1">הסומא מאי טעמא דרבי יהודה דכתיב</row>
@@ -36,14 +36,14 @@
 		<row row_number="22" isdata="1">ראות למעט בבלי דעת למעט הוי מיעוט</row>
 		<row row_number="23" isdata="1">אחר מיעוט ואין מיעוט אחר מיעוט אלא</row>
 		<row row_number="24" isdata="1">לרבות ורבי יהודה בבלי דעת פרט למתכוין</row>
-		<row row_number="25" isdata="1">הוא דאתא ר' יוסי אומר השונא נהרג כו' והא לא אתרו ביה מתניתין רבי</row>
+		<row row_number="25" isdata="1">הוא דאתא: ר' יוסי אומר השונא נהרג כו': והא לא אתרו ביה מתניתין רבי</row>
 		<row row_number="26" isdata="1">יוסי בר יהודה היא דתניא רבי יוסי בר יהודה אומר חבר אינו צריך התראה</row>
-		<row row_number="27" isdata="1">לפי שלא ניתנה התראה אלא להבחין בין שוגג למזיד רבי שמעון אומר יש</row>
-		<row row_number="28" isdata="1">שונא גולה וכו' תניא כיצד אמר רבי שמעון יש שונא גולה ויש שונא שאינו</row>
+		<row row_number="27" isdata="1">לפי שלא ניתנה התראה אלא להבחין בין שוגג למזיד: רבי שמעון אומר יש</row>
+		<row row_number="28" isdata="1">שונא גולה וכו': תניא כיצד אמר רבי שמעון יש שונא גולה ויש שונא שאינו</row>
 		<row row_number="29" isdata="1">גולה נפסק גולה נשמט אינו גולה והתניא ר' שמעון אומר לעולם אינו גולה עד</row>
 		<row row_number="30" isdata="1">שישמט מחצלו מידו קשיא נפסק אנפסק קשיא נשמט אנשמט נפסק אנפסק</row>
 		<row row_number="31" isdata="1">לא קשיא הא באוהב והא בשונא נשמט אנשמט לא קשיא הא רבי והא</row>
-		<row row_number="32" isdata="1">רבנןמתני' להיכן גולין לערי מקלט לשלש שבעבר הירדן ולשלש</row>
+		<row row_number="32" isdata="1">רבנן<EndGemara/><StartMishna/>מתני' להיכן גולין לערי מקלט לשלש שבעבר הירדן ולשלש</row>
 		<row row_number="33" isdata="1">שבארץ כנען שנאמר את שלש הערים תתנו מעבר לירדן ואת שלש הערים</row>
 		<row row_number="34" isdata="1">תתנו בארץ כנען וגו' עד שלא נבחרו שלש שבארץ ישראל לא היו שלש</row>
 		<row row_number="35" isdata="1">שבעבר הירדן קולטות שנאמר שש ערי מקלט תהיינה עד שיהיו ששתן</row>
@@ -53,7 +53,7 @@
 		<row row_number="39" isdata="1">אומר בתחלה אחד שוגג ואחד מזיד מקדימין לערי מקלט וב"ד שולחין</row>
 		<row row_number="40" isdata="1">ומביאין אותו משם מי שנתחייב מיתה בב"ד הרגוהו ושלא נתחייב מיתה</row>
 		<row row_number="41" isdata="1">פטרוהו מי שנתחייב גלות מחזירין אותו למקומו שנאמר והשיבו אותו</row>
-		<row row_number="42" isdata="1">העדה אל עיר מקלטו וגו'<EndMishna/><StartGemara/>גמ' תנו רבנן שלש ערים הבדיל משה</row>
+		<row row_number="42" isdata="1">העדה אל עיר מקלטו וגו':<EndMishna/><StartGemara/>גמ' תנו רבנן שלש ערים הבדיל משה</row>
 		<row row_number="43" isdata="1">בעבר הירדן וכנגדן הבדיל יהושע בארץ כנען ומכוונות היו כמין</row>
 		<row row_number="44" isdata="1">שתי שורות שבכרם חברון ביהודה כנגד בצר במדבר שכם בהר</row>
 		<row row_number="45" isdata="1">אפרים כנגד רמות בגלעד קדש בהר נפתלי כנגד גולן בבשן ושלשת</row>

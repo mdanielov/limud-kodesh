@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.167827</dateCreated>
-   <lastModified>2019-12-21 21:42:32.167827</lastModified>
+   <dateCreated>2020-01-06 09:34:37.953221</dateCreated>
+   <lastModified>2020-01-06 09:34:37.953221</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="88">
@@ -18,13 +18,13 @@
 		<row row_number="4" isdata="1">שפיכה היא ועוד דרך הזאה בכך דרך</row>
 		<row row_number="5" isdata="1">זריקה בכך אמר רב אשי אי דנקט להו בראש</row>
 		<row row_number="6" isdata="1">המזבח ה"נ כי קאמר דתלנהו בקניא מאי</row>
-		<row row_number="7" isdata="1">תיקומתני' כלי הלח מקדשין את הלח</row>
+		<row row_number="7" isdata="1">תיקו<EndGemara/><StartMishna/>מתני' כלי הלח מקדשין את הלח</row>
 		<row row_number="8" isdata="1">ומדות יבש מקדשות את היבש אין כלי הלח</row>
 		<row row_number="9" isdata="1">מקדשת את היבש ולא יבש מקדש את הלח</row>
 		<row row_number="10" isdata="1">כלי הקודש שניקבו אם עושין בהן מעין</row>
 		<row row_number="11" isdata="1">מלאכתן שהיו עושין והן שלימים מקדשין</row>
 		<row row_number="12" isdata="1">ואם לאו אין מקדשין וכולן אין מקדשין אלא</row>
-		<row row_number="13" isdata="1">בקודש<EndMishna/><StartGemara/>גמ' אמר שמואל לא שנו אלא</row>
+		<row row_number="13" isdata="1">בקודש:<EndMishna/><StartGemara/>גמ' אמר שמואל לא שנו אלא</row>
 		<row row_number="14" isdata="1">מדות אבל מזרקות מקדשין שנאמר שניהם</row>
 		<row row_number="15" isdata="1">מלאים סולת א"ל רב אחא מדיפתי לרבינא</row>
 		<row row_number="16" isdata="1">מנחה לחה היא א"ל לא נצרכה אלא ליבש</row>
@@ -40,7 +40,7 @@
 		<row row_number="26" isdata="1">קודש תניא נמי הכי מלאין אין מלאין אלא</row>
 		<row row_number="27" isdata="1">שלימין אמר רבי יוסי אימתי בזמן שאין דעתו</row>
 		<row row_number="28" isdata="1">להוסיף אבל דעתו להוסיף ראשון ראשון</row>
-		<row row_number="29" isdata="1">קודש אין כלי הלח מקדש [וכו'] אמר רב</row>
+		<row row_number="29" isdata="1">קודש: אין כלי הלח מקדש [וכו']: אמר רב</row>
 		<row row_number="30" isdata="1">ואיתימא רב אסי אין מקדשין ליקרב אבל</row>
 		<row row_number="31" isdata="1">מקדשין ליפסל איכא דמתני לה אהא אין</row>
 		<row row_number="32" isdata="1">מביאין מנחות ונסכים ומנחת בהמה</row>

@@ -6,16 +6,16 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:17.131440</dateCreated>
-   <lastModified>2019-12-21 21:42:17.131440</lastModified>
+   <dateCreated>2020-01-06 09:33:28.455983</dateCreated>
+   <lastModified>2020-01-06 09:33:28.455983</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="88">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "החובל"/><ContGemara/>דאפחתה מכספה אבל פציעה דלא אפחתה</row>
 		<row row_number="2" isdata="1">מכספה לא קמיבעיא ליה א"ר יוסי בר</row>
-		<row row_number="3" isdata="1">חנינא שפצעה בפניה ואפחתה מכספה</row>
-		<row row_number="4" isdata="1">החובל בעבד כנעני של אחרים חייב וכו'</row>
+		<row row_number="3" isdata="1">חנינא שפצעה בפניה ואפחתה מכספה:</row>
+		<row row_number="4" isdata="1">החובל בעבד כנעני של אחרים חייב וכו':</row>
 		<row row_number="5" isdata="1">מאי טעמא דרבי יהודה אמר קרא כי ינצו</row>
 		<row row_number="6" isdata="1">אנשים יחדיו איש ואחיו במי שיש לו אחוה</row>
 		<row row_number="7" isdata="1">יצא עבד שאין לו אחוה ורבנן אחיו הוא</row>
@@ -64,7 +64,7 @@
 		<row row_number="50" isdata="1">לא יומתו על פי אבות שאין לו חייס בנים שמע מינה עבד שאין לו חייס לא למעלה ולא למטה הוא</row>
 		<row row_number="51" isdata="1">דפסול לעדות אבל גר כיון דיש לו חייס למטה כשר לעדות וכ"ת לכתוב רחמנא ובנים לא יומתו על אבותיהם</row>
 		<row row_number="52" isdata="1">למה לי דכתב רחמנא ובנים לא יומתו על אבות דמשמע לא יומתו על פי בנים שאין להם חייס אבות איידי</row>
-		<row row_number="53" isdata="1">דכתב לא יומתו אבות על בנים כתב נמי ובנים לא יומתו על אבות חרש שוטה וקטן פגיעתן רעה אימיה דרב</row>
+		<row row_number="53" isdata="1">דכתב לא יומתו אבות על בנים כתב נמי ובנים לא יומתו על אבות: חרש שוטה וקטן פגיעתן רעה: אימיה דרב</row>
 		<row row_number="54" isdata="1">שמואל בר אבא מהגרוניא הות נסיבא ליה לר' אבא כתבתינהו לנכסי לרב שמואל בר אבא ברה בתר דשכיבא</row>
 </amud>
 </daf>

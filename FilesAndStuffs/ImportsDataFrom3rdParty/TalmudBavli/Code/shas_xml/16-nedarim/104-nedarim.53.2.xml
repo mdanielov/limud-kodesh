@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.608762</dateCreated>
-   <lastModified>2019-12-21 21:42:08.608762</lastModified>
+   <dateCreated>2020-01-06 09:32:48.152211</dateCreated>
+   <lastModified>2020-01-06 09:32:48.152211</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="53">
@@ -18,7 +18,7 @@
 		<row row_number="4" isdata="1">מביאין ירק מן חוצה לארץ לארץ רבי</row>
 		<row row_number="5" isdata="1">חנניה בן גמליאל אומר מביאין ירק מחוצה</row>
 		<row row_number="6" isdata="1">לארץ לארץ מ"ט דמאן דאמר אין מביאין</row>
-		<row row_number="7" isdata="1">אמר רבי ירמיה משום גושמתני' מן</row>
+		<row row_number="7" isdata="1">אמר רבי ירמיה משום גוש<EndGemara/><StartMishna/>מתני' מן</row>
 		<row row_number="8" isdata="1">הכרוב אסור באיספרגוס מן האיספרגוס</row>
 		<row row_number="9" isdata="1">מותר בכרוב מן הגריסין אסור במקפה</row>
 		<row row_number="10" isdata="1">ורבי יוסי מתיר מן המקפה מותר בגריסין</row>
@@ -26,12 +26,12 @@
 		<row row_number="12" isdata="1">השום מותר במקפה מן העדשים אסור באשישים ר' יוסי מתיר מן</row>
 		<row row_number="13" isdata="1">האשישים מותר בעדשים חטה חטין שאני טועם אסור בהן בין קמח</row>
 		<row row_number="14" isdata="1">בין הפת גריס גריסין שאני טועם אסור בהן בין חיין בין מבושלין רבי יהודה</row>
-		<row row_number="15" isdata="1">אומר קונם גריס או חטה שאני טועם מותר לכוס חיים<EndMishna/><StartGemara/>גמ' תניא ר' שמעון</row>
+		<row row_number="15" isdata="1">אומר קונם גריס או חטה שאני טועם מותר לכוס חיים:<EndMishna/><StartGemara/>גמ' תניא ר' שמעון</row>
 		<row row_number="16" isdata="1">בן גמליאל אומר חטה שאני טועם אסור לאפות ומותר לכוס חטים שאני</row>
 		<row row_number="17" isdata="1">טועם אסור לכוס ומותר לאפות חטה חטין שאני טועם אסור בין</row>
 		<row row_number="18" isdata="1">לכוס בין לאפות גריס שאני טועם אסור לבשל ומותר לכוס גריסין</row>
 		<row row_number="19" isdata="1">שאני טועם אסור לכוס ומותר לבשל גריס גריסין שאני טועם אסור</row>
-		<row row_number="20" isdata="1">בין לבשל בין לכוס<EndChapter name = "הנודר מן המבושל"/><EndGemara/></row>
+		<row row_number="20" isdata="1">בין לבשל בין לכוס:<EndChapter name = "הנודר מן המבושל"/><EndGemara/></row>
 		<row row_number="21" isdata="0">הדרן עלך הנודר מן המבושל</row>
 </amud>
 </daf>

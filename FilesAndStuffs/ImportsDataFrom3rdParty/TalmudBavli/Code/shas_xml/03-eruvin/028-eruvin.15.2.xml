@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:51.905345</dateCreated>
-   <lastModified>2019-12-21 21:41:51.905345</lastModified>
+   <dateCreated>2020-01-06 09:31:15.646719</dateCreated>
+   <lastModified>2020-01-06 09:31:15.646719</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="15">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>ור' מאיר מטהר וכותבין עליו גיטי נשים ור'</row>
-		<row row_number="2" isdata="1">יוסי הגלילי פוסל<EndMishna/><StartGemara/>גמ' תניא ר' מאיר אומר</row>
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContMishna/>ור' מאיר מטהר וכותבין עליו גיטי נשים ור'</row>
+		<row row_number="2" isdata="1">יוסי הגלילי פוסל:<EndMishna/><StartGemara/>גמ' תניא ר' מאיר אומר</row>
 		<row row_number="3" isdata="1">כל דבר שיש בו רוח חיים אין עושין אותו</row>
 		<row row_number="4" isdata="1">לא דופן לסוכה ולא לחי למבוי לא פסין</row>
 		<row row_number="5" isdata="1">לביראות ולא גולל לקבר משום רבי יוסי</row>
@@ -37,13 +37,13 @@
 		<row row_number="23" isdata="1">שלא תשתי יין על מנת שלא תלכי לבית</row>
 		<row row_number="24" isdata="1">אביך לעולם אין זה כריתות כל שלשים יום</row>
 		<row row_number="25" isdata="1">הרי זה כריתות ורבי יוסי הגלילי נפקא ליה</row>
-		<row row_number="26" isdata="1">מכרת כריתות ורבנן כרת כריתות לא דרשי</row>
+		<row row_number="26" isdata="1">מכרת כריתות ורבנן כרת כריתות לא דרשי:</row>
 		<row row_number="27" isdata="1"><EndGemara/><StartMishna/>מתני' שיירא שחנתה בבקעה והקיפוה</row>
 		<row row_number="28" isdata="1">כלי בהמה מטלטלין בתוכה ובלבד שיהא</row>
 		<row row_number="29" isdata="1">גדר גבוה עשרה טפחים ולא יהו פירצות</row>
 		<row row_number="30" isdata="1">יתרות על הבנין כל פירצה שהיא כעשר</row>
 		<row row_number="31" isdata="1">אמות מותרת מפני שהיא כפתח יתר מכאן</row>
-		<row row_number="32" isdata="1">אסור<EndMishna/><StartGemara/>גמ' איתמר פרוץ כעומד רב פפא</row>
+		<row row_number="32" isdata="1">אסור:<EndMishna/><StartGemara/>גמ' איתמר פרוץ כעומד רב פפא</row>
 		<row row_number="33" isdata="1">אמר מותר רב הונא בריה דרב יהושע אמר</row>
 		<row row_number="34" isdata="1">אסור רב פפא אמר מותר הכי אגמריה</row>
 		<row row_number="35" isdata="1">רחמנא למשה לא תפרוץ רובה רב הונא</row>

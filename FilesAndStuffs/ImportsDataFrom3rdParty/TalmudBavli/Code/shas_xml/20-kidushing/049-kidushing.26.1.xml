@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:14.133710</dateCreated>
-   <lastModified>2019-12-21 21:42:14.133710</lastModified>
+   <dateCreated>2020-01-06 09:33:15.016919</dateCreated>
+   <lastModified>2020-01-06 09:33:15.016919</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="26">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>אי נמי בחבילי זמורותמתני' נכסים</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>אי נמי בחבילי זמורות:מתני' נכסיםאי נמי בחבילי זמורות<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">שיש להם אחריות נקנין בכסף ובשטר</row>
 		<row row_number="3" isdata="1">ובחזקה שאין להם אחריות אין נקנין אלא</row>
 		<row row_number="4" isdata="1">במשיכה נכסים שאין להם אחריות נקנין</row>
 		<row row_number="5" isdata="1">עם נכסים שיש להם אחריות בכסף ובשטר</row>
 		<row row_number="6" isdata="1">ובחזקה וזוקקין את הנכסים שיש להם</row>
-		<row row_number="7" isdata="1">אחריות לישבע עליהן<EndMishna/><StartGemara/>גמ' בכסף מנלן אמר</row>
+		<row row_number="7" isdata="1">אחריות לישבע עליהן:<EndMishna/><StartGemara/>גמ' בכסף מנלן אמר</row>
 		<row row_number="8" isdata="1">חזקיה אמר קרא שדות בכסף יקנו ואימא</row>
 		<row row_number="9" isdata="1">עד דאיכא שטר דכתיב וכתוב בספר וחתום</row>
 		<row row_number="10" isdata="1">אי כתיב יקנו לבסוף כדקאמרת השתא</row>
@@ -30,8 +30,8 @@
 		<row row_number="16" isdata="1">אי בעינא בכספא איקני אי בעינא בשטרא</row>
 		<row row_number="17" isdata="1">איקני אי בעינא בכספא איקני דאי בעיתו</row>
 		<row row_number="18" isdata="1">למיהדר לא מציתו הדריתו ואי בעינא בשטרא</row>
-		<row row_number="19" isdata="1">איקני דאי בעינא למיהדר הדרנא בי</row>
-		<row row_number="20" isdata="1">ובשטר מנלן אילימא משום דכתיב וכתוב</row>
+		<row row_number="19" isdata="1">איקני דאי בעינא למיהדר הדרנא בי:</row>
+		<row row_number="20" isdata="1">ובשטר: מנלן אילימא משום דכתיב וכתוב</row>
 		<row row_number="21" isdata="1">בספר וחתום והעד עדים והאמרת שטר ראיה</row>
 		<row row_number="22" isdata="1">בעלמא הוא אלא מהכא ואקח את ספר</row>
 		<row row_number="23" isdata="1">המקנה אמר שמואל לא שנו אלא בשטר</row>
@@ -42,17 +42,17 @@
 		<row row_number="28" isdata="1">הרי זו מכורה ונתונה הוא מותיב לה והוא</row>
 		<row row_number="29" isdata="1">מפרק לה במוכר שדהו מפני רעתה רב</row>
 		<row row_number="30" isdata="1">אשי אמר במתנה ביקש ליתנה לו ולמה</row>
-		<row row_number="31" isdata="1">כתב לו לשון מכר כדי ליפות את כוחו</row>
-		<row row_number="32" isdata="1">ובחזקה מנלן אמר חזקיה אמר קרא ושבו</row>
+		<row row_number="31" isdata="1">כתב לו לשון מכר כדי ליפות את כוחו:</row>
+		<row row_number="32" isdata="1">ובחזקה: מנלן אמר חזקיה אמר קרא ושבו</row>
 		<row row_number="33" isdata="1">בעריכם אשר תפשתם במה תפשתם</row>
 		<row row_number="34" isdata="1">בישיבה דבי ר' ישמעאל תנא וירשתם אותה</row>
-		<row row_number="35" isdata="1">וישבתם בה במה ירשתם בישיבה ושאין</row>
-		<row row_number="36" isdata="1">להם אחריות אין נקנין אלא במשיכה מנלן</row>
+		<row row_number="35" isdata="1">וישבתם בה במה ירשתם בישיבה: ושאין</row>
+		<row row_number="36" isdata="1">להם אחריות אין נקנין אלא במשיכה: מנלן</row>
 		<row row_number="37" isdata="1">דכתיב וכי תמכרו ממכר לעמיתך או קנה</row>
 		<row row_number="38" isdata="1">מיד עמיתך דבר הנקנה מיד ליד ולר' יוחנן</row>
 		<row row_number="39" isdata="1">דאמר דבר תורה מעות קונות מאי איכא</row>
-		<row row_number="40" isdata="1">למימר תנא תקנתא דרבנן קתני נכסים</row>
-		<row row_number="41" isdata="1">שאין להם אחריות מנהני מילי אמר</row>
+		<row row_number="40" isdata="1">למימר תנא תקנתא דרבנן קתני: נכסים</row>
+		<row row_number="41" isdata="1">שאין להם אחריות: מנהני מילי אמר</row>
 		<row row_number="42" isdata="1">חזקיה דאמר קרא ויתן להם אביהם</row>
 		<row row_number="43" isdata="1">מתנות וגו' עם ערי מצורות ביהודה</row>
 		<row row_number="44" isdata="1">איבעיא להו בעינן צבורים או לא אמר</row>

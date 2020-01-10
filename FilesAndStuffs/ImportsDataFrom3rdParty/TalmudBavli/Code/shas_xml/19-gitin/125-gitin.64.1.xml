@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.142096</dateCreated>
-   <lastModified>2019-12-21 21:42:13.142096</lastModified>
+   <dateCreated>2020-01-06 09:33:10.050676</dateCreated>
+   <lastModified>2020-01-06 09:33:10.050676</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="64">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContMishna/>או אחד מן הראשונים ואחד מן האחרונים ואחד</row>
-		<row row_number="2" isdata="1">מצטרף עמהן<EndMishna/><StartGemara/>גמ' איתמר בעל אומר לפקדון</row>
+		<row row_number="2" isdata="1">מצטרף עמהן:<EndMishna/><StartGemara/>גמ' איתמר בעל אומר לפקדון</row>
 		<row row_number="3" isdata="1">ושליש אומר לגירושין מי נאמן רב הונא אמר</row>
 		<row row_number="4" isdata="1">בעל נאמן ורב חסדא אמר שליש נאמן רב</row>
 		<row row_number="5" isdata="1">הונא אמר בעל נאמן דאם איתא דלגירושין</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.968257</dateCreated>
-   <lastModified>2019-12-21 21:42:34.968257</lastModified>
+   <dateCreated>2020-01-06 09:34:51.038341</dateCreated>
+   <lastModified>2020-01-06 09:34:51.038341</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="106">
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">אימא מודו ליה לרבי ואי איתמר בההיא</row>
 		<row row_number="33" isdata="1">בההיא קאמר רבי אבל בהא אימא מודי להו</row>
 		<row row_number="34" isdata="1">לרבנן צריכא (סימן עצי"ם זה"ב יי"ן עול"ה</row>
-		<row row_number="35" isdata="1">תוד"ה שו"ר)מתני' הרי עלי עצים לא</row>
+		<row row_number="35" isdata="1">תוד"ה שו"ר)<EndGemara/><StartMishna/>מתני' הרי עלי עצים לא</row>
 		<row row_number="36" isdata="1">יפחות משני גזירין לבונה לא יפחות מקומץ</row>
 		<row row_number="37" isdata="1">חמשה קמצים הם האומר עלי לבונה לא</row>
 		<row row_number="38" isdata="1">יפחות מקומץ המנדב מנחה יביא עמה קומץ</row>
@@ -55,13 +55,13 @@
 		<row row_number="41" isdata="1">יפחות מדינר זהב כסף לא יפחות מדינר כסף</row>
 		<row row_number="42" isdata="1">נחשת לא יפחות ממעה כסף פירשתי ואיני</row>
 		<row row_number="43" isdata="1">יודע מה פירשתי יהא מביא עד שיאמר לא</row>
-		<row row_number="44" isdata="1">לכך נתכוונתי<EndMishna/><StartGemara/>גמ' תנו רבנן קרבן מלמד שמתנדבין עצים וכמה שני גזירין</row>
+		<row row_number="44" isdata="1">לכך נתכוונתי:<EndMishna/><StartGemara/>גמ' תנו רבנן קרבן מלמד שמתנדבין עצים וכמה שני גזירין</row>
 		<row row_number="45" isdata="1">וכן הוא אומר והגורלות הפלנו על קרבן העצים רבי אומר עצים קרבן</row>
 		<row row_number="46" isdata="1">הם טעונין מלח וטעונין הגשה אמר רבא ולדברי רבי עצים טעונין</row>
-		<row row_number="47" isdata="1">קמיצה אמר רב פפא לדברי רבי עצים צריכין עצים לבונה לא יפחות מן</row>
-		<row row_number="48" isdata="1">הקומץ מנלן דכתיב והרים ממנו בקומצו מסלת המנחה ומשמנה ואת כל</row>
+		<row row_number="47" isdata="1">קמיצה אמר רב פפא לדברי רבי עצים צריכין עצים: לבונה לא יפחות מן</row>
+		<row row_number="48" isdata="1">הקומץ: מנלן דכתיב והרים ממנו בקומצו מסלת המנחה ומשמנה ואת כל</row>
 		<row row_number="49" isdata="1">הלבונה מקיש לבונה להרמה דמנחה מה הרמה דמנחה קומץ אף לבונה נמי</row>
-		<row row_number="50" isdata="1">קומץ ת"ר הרי עלי למזבח יביא לבונה שאין לך דבר שקרב לגבי מזבח</row>
+		<row row_number="50" isdata="1">קומץ: ת"ר הרי עלי למזבח יביא לבונה שאין לך דבר שקרב לגבי מזבח</row>
 		<row row_number="51" isdata="1">אלא לבונה פירשתי ואיני יודע מה פירשתי יביא מכל דבר שקרב למזבח ותו</row>
 		<row row_number="52" isdata="1">ליכא והא איכא עולה איכא עורה לכהנים והא איכא עולת העוף איכא</row>
 </amud>

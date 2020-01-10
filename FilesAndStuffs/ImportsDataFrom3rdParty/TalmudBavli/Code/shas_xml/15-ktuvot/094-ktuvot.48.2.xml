@@ -6,22 +6,22 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.400729</dateCreated>
-   <lastModified>2019-12-21 21:42:06.400729</lastModified>
+   <dateCreated>2020-01-06 09:32:37.616920</dateCreated>
+   <lastModified>2020-01-06 09:32:37.616920</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="48">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "נערה"/><ContGemara/>לרשות הבעל לנשואין מסר האב לשלוחי</row>
+		<row row_number="1" isdata="1"><ContChapter name = "נערה"/><ContMishna/>לרשות הבעל לנשואין מסר האב לשלוחי</row>
 		<row row_number="2" isdata="1">הבעל הרי היא ברשות הבעל הלך האב עם</row>
 		<row row_number="3" isdata="1">שלוחי הבעל או שהלכו שלוחי האב עם</row>
 		<row row_number="4" isdata="1">שלוחי הבעל הרי היא ברשות האב מסרו</row>
 		<row row_number="5" isdata="1">שלוחי האב לשלוחי הבעל הרי היא ברשות</row>
-		<row row_number="6" isdata="1">הבעל<EndMishna/><StartGemara/>גמ' מאי לעולם לאפוקי ממשנה</row>
+		<row row_number="6" isdata="1">הבעל:<EndMishna/><StartGemara/>גמ' מאי לעולם לאפוקי ממשנה</row>
 		<row row_number="7" isdata="1">ראשונה דתנן הגיע זמן ולא נישאו אוכלות</row>
-		<row row_number="8" isdata="1">משלו ואוכלות בתרומה קמ"ל לעולם מסר</row>
+		<row row_number="8" isdata="1">משלו ואוכלות בתרומה קמ"ל לעולם: מסר</row>
 		<row row_number="9" isdata="1">האב לשלוחי הבעל הרי היא ברשות הבעל</row>
-		<row row_number="10" isdata="1">וכו' אמר רב מסירתה לכל חוץ מתרומה</row>
+		<row row_number="10" isdata="1">וכו': אמר רב מסירתה לכל חוץ מתרומה</row>
 		<row row_number="11" isdata="1">ורב אסי אמר אף לתרומה איתיביה רב הונא</row>
 		<row row_number="12" isdata="1">לרב אסי ואמרי לה חייא בר רב לרב אסי</row>
 		<row row_number="13" isdata="1">לעולם היא ברשות האב עד שתכנס לחופה</row>

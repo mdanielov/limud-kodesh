@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:08.844652</dateCreated>
-   <lastModified>2019-12-21 21:42:08.844652</lastModified>
+   <dateCreated>2020-01-06 09:32:49.225644</dateCreated>
+   <lastModified>2020-01-06 09:32:49.225644</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="66">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "רבי אליעזר"/><ContGemara/>לומר שאין מקרעין שטר כתובהמתני'</row>
+		<row row_number="1" isdata="1"><ContChapter name = "רבי אליעזר"/><ContGemara/>לומר שאין מקרעין שטר כתובה:מתני'לומר שאין מקרעין שטר כתובה<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">פותחין בימים טובים ובשבתות בראשונה</row>
 		<row row_number="3" isdata="1">היו אומרים אותן הימים מותרין ושאר כל</row>
 		<row row_number="4" isdata="1">הימים אסורין עד שבא ר"ע ולימד שהנדר</row>
@@ -30,20 +30,20 @@
 		<row row_number="16" isdata="1">שאני טועם שהבצל רע ללב אמרו לו</row>
 		<row row_number="17" isdata="1">הלא הכופרי יפה ללב הותר בכופרי ולא</row>
 		<row row_number="18" isdata="1">בכופרי בלבד הותר אלא בכל הבצלים</row>
-		<row row_number="19" isdata="1">מעשה היה והתירו ר"מ בכל הבצלים</row>
+		<row row_number="19" isdata="1">מעשה היה והתירו ר"מ בכל הבצלים:</row>
 		<row row_number="20" isdata="1"><EndMishna/><StartGemara/>גמ' הותר האחרון האחרון מותר וכולן</row>
 		<row row_number="21" isdata="1">אסורין מאן תנא אמר רבא ר"ש היא</row>
-		<row row_number="22" isdata="1">דאמר עד שיאמר שבועה לכל אחד ואחד</row>
-		<row row_number="23" isdata="1">קונם יין שאני טועם וכו' ותיפוק ליה דאין</row>
-		<row row_number="24" isdata="1">רע אמר ר' אבא ועוד יפה קתני קונם</row>
-		<row row_number="25" isdata="1">בצל שאני טועם שהבצל וכו' ותיפוק ליה</row>
-		<row row_number="26" isdata="1">דאין רע אמר ר' אבא ועוד יפה קתני</row>
+		<row row_number="22" isdata="1">דאמר עד שיאמר שבועה לכל אחד ואחד:</row>
+		<row row_number="23" isdata="1">קונם יין שאני טועם וכו': ותיפוק ליה דאין</row>
+		<row row_number="24" isdata="1">רע אמר ר' אבא ועוד יפה קתני: קונם</row>
+		<row row_number="25" isdata="1">בצל שאני טועם שהבצל וכו': ותיפוק ליה</row>
+		<row row_number="26" isdata="1">דאין רע אמר ר' אבא ועוד יפה קתני:</row>
 		<row row_number="27" isdata="1"><EndGemara/><StartMishna/>מתני' פותחין לאדם בכבוד עצמו ובכבוד</row>
 		<row row_number="28" isdata="1">בניו אומרים לו אילו היית יודע שלמחר</row>
 		<row row_number="29" isdata="1">אומרין עליך כך היא ווסתו של פלוני</row>
 		<row row_number="30" isdata="1">מגרש את נשיו ועל בנותיך יהו אומרין</row>
 		<row row_number="31" isdata="1">בנות גרושות הן מה ראתה אמן של אלו להתגרש ואמר אילו הייתי</row>
-		<row row_number="32" isdata="1">יודע שכן לא הייתי נודר ה"ז מותר קונם שאני נושא את פלונית כעורה</row>
+		<row row_number="32" isdata="1">יודע שכן לא הייתי נודר ה"ז מותר: קונם שאני נושא את פלונית כעורה</row>
 		<row row_number="33" isdata="1">והרי היא נאה שחורה והרי היא לבנה קצרה והרי היא ארוכה מותר בה</row>
 		<row row_number="34" isdata="1">לא מפני שהיא כעורה ונעשת נאה שחורה ונעשת לבנה קצרה ונעשת</row>
 		<row row_number="35" isdata="1">ארוכה אלא שהנדר טעות ומעשה באחד שנדר מבת אחותו הנייה</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">אמר לו לאו והתירה ר' ישמעאל באותה שעה בכה ר' ישמעאל ואמר</row>
 		<row row_number="38" isdata="1">בנות ישראל נאות הן אלא שהעניות מנוולתן וכשמת ר' ישמעאל היו</row>
 		<row row_number="39" isdata="1">בנות ישראל נושאות קינה ואומרות בנות ישראל על ר' ישמעאל</row>
-		<row row_number="40" isdata="1">בכינה וכן הוא אומר בשאול בנות ישראל על שאול בכינה</row>
+		<row row_number="40" isdata="1">בכינה וכן הוא אומר בשאול בנות ישראל על שאול בכינה:</row>
 		<row row_number="41" isdata="1"><EndMishna/><StartGemara/>גמ' מעשה לסתור חסורי מחסרא והכי קתני ר' ישמעאל אומר</row>
 		<row row_number="42" isdata="1">אפילו כעורה ונעשת נאה שחורה ונעשת לבנה קצרה ונעשת ארוכה</row>
 		<row row_number="43" isdata="1">מעשה באחד שנדר מבת אחותו והכניסוה לבית ר' ישמעאל וייפוה וכו'</row>

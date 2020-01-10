@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.069450</dateCreated>
-   <lastModified>2019-12-21 21:42:33.069450</lastModified>
+   <dateCreated>2020-01-06 09:34:42.229419</dateCreated>
+   <lastModified>2020-01-06 09:34:42.229419</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="12">
@@ -42,9 +42,9 @@
 		<row row_number="28" isdata="1">נפרסה הא קמ"ל דאפי' נפרסה דאיתיה בפנים</row>
 		<row row_number="29" isdata="1">לא מהניא ליה הקטרה אבל לר"ע דאמר</row>
 		<row row_number="30" isdata="1">זריקה מועלת ליוצא אפי' חסרון נמי מהניא</row>
-		<row row_number="31" isdata="1">ליה הקטרהמתני' לאכול כחצי זית</row>
+		<row row_number="31" isdata="1">ליה הקטרה<EndGemara/><StartMishna/>מתני' לאכול כחצי זית</row>
 		<row row_number="32" isdata="1">ולהקטיר כחצי זית כשר שאין אכילה והקטרה</row>
-		<row row_number="33" isdata="1">מצטרפין<EndMishna/><StartGemara/>גמ' טעמא דלאכול ולהקטיר</row>
+		<row row_number="33" isdata="1">מצטרפין:<EndMishna/><StartGemara/>גמ' טעמא דלאכול ולהקטיר</row>
 		<row row_number="34" isdata="1">הא לאכול ולאכול דבר שאין דרכו לאכול</row>
 		<row row_number="35" isdata="1">מצטרף והקתני רישא לאכול דבר שדרכו</row>
 		<row row_number="36" isdata="1">לאכול ולהקטיר דבר שדרכו להקטיר דבר</row>

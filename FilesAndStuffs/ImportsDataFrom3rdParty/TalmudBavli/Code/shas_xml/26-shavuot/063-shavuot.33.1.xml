@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:28.293247</dateCreated>
-   <lastModified>2019-12-21 21:42:28.293247</lastModified>
+   <dateCreated>2020-01-06 09:34:20.360006</dateCreated>
+   <lastModified>2020-01-06 09:34:20.360006</lastModified>
  </meta>
  <masechet name="שבועות" serial="26">
 <daf value="33">
@@ -16,7 +16,7 @@
 		<row row_number="2" isdata="1">עסקינן כגון שהיתה שניה בשעת כפירת</row>
 		<row row_number="3" isdata="1">ראשונה קרובין בנשותיהן ונשותיהן גוססות</row>
 		<row row_number="4" isdata="1">מהו דתימא רוב גוססים למיתה קמ"ל</row>
-		<row row_number="5" isdata="1">(השתא מיהא לא שכיב)מתני'</row>
+		<row row_number="5" isdata="1">(השתא מיהא לא שכיב)<EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="6" isdata="1">משביע אני עליכם אם לא תבואו ותעידוני</row>
 		<row row_number="7" isdata="1">שיש לי ביד פלוני פקדון ותשומת יד וגזל</row>
 		<row row_number="8" isdata="1">ואבידה שבועה שאין אנו יודעין לך עדות</row>
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">כפל ותשלומי ארבעה וחמשה ושאנס איש</row>
 		<row row_number="21" isdata="1">פלוני את בתי ופתה את בתי ושהכני בני</row>
 		<row row_number="22" isdata="1">ושחבל בי חבירי ושהדליק את גדישי ביוה"כ</row>
-		<row row_number="23" isdata="1">הרי אלו חייבין<EndMishna/><StartGemara/>גמ' איבעיא להו משביע</row>
+		<row row_number="23" isdata="1">הרי אלו חייבין:<EndMishna/><StartGemara/>גמ' איבעיא להו משביע</row>
 		<row row_number="24" isdata="1">עדי קנס מהו אליבא דר' אלעזר בר"ש לא</row>
 		<row row_number="25" isdata="1">תיבעי לך דאמר יבואו עדים ויעידו כי</row>
 		<row row_number="26" isdata="1">תיבעי לך אליבא דרבנן דאמרי מודה בקנס</row>

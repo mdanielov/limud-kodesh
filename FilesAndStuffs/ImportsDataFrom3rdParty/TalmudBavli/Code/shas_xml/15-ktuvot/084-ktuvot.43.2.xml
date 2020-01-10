@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:06.302729</dateCreated>
-   <lastModified>2019-12-21 21:42:06.302729</lastModified>
+   <dateCreated>2020-01-06 09:32:37.163490</dateCreated>
+   <lastModified>2020-01-06 09:32:37.163490</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="43">
@@ -23,16 +23,16 @@
 		<row row_number="9" isdata="1">אמרה אמר מר בר אמימר לרב אשי הכי</row>
 		<row row_number="10" isdata="1">אמרי נהרדעי הלכתא כוותיה דרב ששת רב</row>
 		<row row_number="11" isdata="1">אשי אמר הלכתא כוותיה דרב והלכתא</row>
-		<row row_number="12" isdata="1">כוותיה דרבמתני' המארס את בתו</row>
+		<row row_number="12" isdata="1">כוותיה דרב<EndGemara/><StartMishna/>מתני' המארס את בתו</row>
 		<row row_number="13" isdata="1">וגרשה אירסה ונתארמלה כתובתה שלו</row>
 		<row row_number="14" isdata="1">השיאה וגרשה השיאה ונתארמלה כתובתה</row>
 		<row row_number="15" isdata="1">שלה ר' יהודה אומר הראשונה של אב אמרו</row>
-		<row row_number="16" isdata="1">לו (אם) משהשיאה אין לאביה רשות בה</row>
+		<row row_number="16" isdata="1">לו (אם) משהשיאה אין לאביה רשות בה:</row>
 		<row row_number="17" isdata="1"><EndMishna/><StartGemara/>גמ' טעמא דהשיאה וגרשה השיאה</row>
 		<row row_number="18" isdata="1">ונתארמלה אבל נתארמלה תרי זמני תו</row>
 		<row row_number="19" isdata="1">לא חזיא לאינסובי ואגב אורחיה קא סתים</row>
-		<row row_number="20" isdata="1">לן תנא כרבי דאמר בתרי זמני הויא חזקה</row>
-		<row row_number="21" isdata="1">רבי יהודה אומר הראשונה של אב מ"ט</row>
+		<row row_number="20" isdata="1">לן תנא כרבי דאמר בתרי זמני הויא חזקה:</row>
+		<row row_number="21" isdata="1">רבי יהודה אומר הראשונה של אב: מ"ט</row>
 		<row row_number="22" isdata="1">דרבי יהודה רבה ורב יוסף דאמרי תרוייהו</row>
 		<row row_number="23" isdata="1">הואיל ומשעת אירוסין זכה בהן האב מתיב</row>
 		<row row_number="24" isdata="1">רבא רבי יהודה אומר הראשונה של אב</row>

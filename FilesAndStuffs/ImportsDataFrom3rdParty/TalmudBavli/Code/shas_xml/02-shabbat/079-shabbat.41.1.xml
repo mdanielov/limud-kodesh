@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:48.534642</dateCreated>
-   <lastModified>2019-12-21 21:41:48.534642</lastModified>
+   <dateCreated>2020-01-06 09:31:02.123657</dateCreated>
+   <lastModified>2020-01-06 09:31:02.123657</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="41">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>דלית ליה גידודי הא דאית ליה גידודי וא"ר</row>
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>דלית ליה גידודי הא דאית ליה גידודי: וא"ר</row>
 		<row row_number="2" isdata="1">זירא אנא חזיתיה לר' אבהו שהניח ידיו כנגד</row>
 		<row row_number="3" isdata="1">פניו של מטה ולא ידענא אי נגע אי לא נגע</row>
 		<row row_number="4" isdata="1">פשיטא דלא נגע דתניא ר' אליעזר אומר</row>
@@ -47,13 +47,13 @@
 		<row row_number="33" isdata="1">שהסיקוהו ע"ג אפרו וזהו תחילת ריח זוהמא רחץ בחמין ולא שתה מהן דומה</row>
 		<row row_number="34" isdata="1">לתנור שהסיקוהו מבחוץ ולא הסיקוהו מבפנים רחץ בחמין ולא נשתטף בצונן</row>
 		<row row_number="35" isdata="1">דומה לברזל שהכניסוהו לאור ולא הכניסוהו לצונן רחץ ולא סך דומה למים</row>
-		<row row_number="36" isdata="1">ע"ג חביתמתני' מוליאר הגרוף שותין הימנו בשבת אנטיכי אע"פ שגרופה</row>
-		<row row_number="37" isdata="1">אין שותין הימנה<EndMishna/><StartGemara/>גמ' היכי דמי מוליאר הגרוף תנא מים מבפנים וגחלים</row>
+		<row row_number="36" isdata="1">ע"ג חבית<EndGemara/><StartMishna/>מתני' מוליאר הגרוף שותין הימנו בשבת אנטיכי אע"פ שגרופה</row>
+		<row row_number="37" isdata="1">אין שותין הימנה:<EndMishna/><StartGemara/>גמ' היכי דמי מוליאר הגרוף תנא מים מבפנים וגחלים</row>
 		<row row_number="38" isdata="1">מבחוץ אנטיכי רבה אמר בי כירי רב נחמן בר יצחק אמר בי דודי מאן</row>
 		<row row_number="39" isdata="1">דאמר בי דודי כ"ש בי כירי ומאן דאמר בי כירי אבל בי דודי לא תניא כוותיה</row>
 		<row row_number="40" isdata="1">דרב נחמן אנטיכי אע"פ שגרופה וקטומה אין שותין הימנה מפני שנחושתה</row>
-		<row row_number="41" isdata="1">מחממתהמתני' המיחם שפינהו לא יתן לתוכו צונן בשביל שיחמו</row>
-		<row row_number="42" isdata="1">אבל נותן הוא לתוכו או לתוך הכוס כדי להפשירן<EndMishna/><StartGemara/>גמ' מאי קאמר אמר</row>
+		<row row_number="41" isdata="1">מחממתה<EndGemara/><StartMishna/>מתני' המיחם שפינהו לא יתן לתוכו צונן בשביל שיחמו</row>
+		<row row_number="42" isdata="1">אבל נותן הוא לתוכו או לתוך הכוס כדי להפשירן:<EndMishna/><StartGemara/>גמ' מאי קאמר אמר</row>
 		<row row_number="43" isdata="1">רב אדא בר מתנא הכי קאמר המיחם שפינה ממנו מים חמין לא יתן לתוכן</row>
 		<row row_number="44" isdata="1">מים מועטים כדי שיחמו אבל נותן לתוכו מים מרובים כדי להפשירן</row>
 </amud>

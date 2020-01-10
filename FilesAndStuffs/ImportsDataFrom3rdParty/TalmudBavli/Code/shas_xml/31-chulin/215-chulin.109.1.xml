@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:37.722576</dateCreated>
-   <lastModified>2019-12-21 21:42:37.722576</lastModified>
+   <dateCreated>2020-01-06 09:35:01.685741</dateCreated>
+   <lastModified>2020-01-06 09:35:01.685741</lastModified>
  </meta>
  <masechet name="חולין" serial="31">
 <daf value="109">
@@ -35,9 +35,9 @@
 		<row row_number="21" isdata="1">בהא אלא אי אמרת אפשר לסוחטו דברי</row>
 		<row row_number="22" isdata="1">הכל אסור והכא במין במינו קמיפלגי האי</row>
 		<row row_number="23" isdata="1">נראין דברי ר' יהודה ואין נראין מבעי ליה ותו</row>
-		<row row_number="24" isdata="1">לא מידימתני' הכחל קורעו ומוציא את</row>
+		<row row_number="24" isdata="1">לא מידי<EndGemara/><StartMishna/>מתני' הכחל קורעו ומוציא את</row>
 		<row row_number="25" isdata="1">חלבו לא קרעו אינו עובר עליו הלב קורעו</row>
-		<row row_number="26" isdata="1">ומוציא את דמו לא קרעו אינו עובר עליו<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="26" isdata="1">ומוציא את דמו לא קרעו אינו עובר עליו:<EndMishna/><StartGemara/>גמ'</row>
 </amud>
 </daf>
 </masechet>

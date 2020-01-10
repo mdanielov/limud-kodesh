@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.178594</dateCreated>
-   <lastModified>2019-12-21 21:41:49.178594</lastModified>
+   <dateCreated>2020-01-06 09:31:05.027690</dateCreated>
+   <lastModified>2020-01-06 09:31:05.027690</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="68">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContMishna/>אב מלאכה ומלאכה העושה מלאכות</row>
 		<row row_number="2" isdata="1">הרבה מעין מלאכה אחת אינו חייב אלא</row>
-		<row row_number="3" isdata="1">חטאת אחת<EndMishna/><StartGemara/>גמ' מ"ט תנא כלל גדול</row>
+		<row row_number="3" isdata="1">חטאת אחת:<EndMishna/><StartGemara/>גמ' מ"ט תנא כלל גדול</row>
 		<row row_number="4" isdata="1">אילימא משום דקבעי למיתני עוד כלל אחר</row>
 		<row row_number="5" isdata="1">תנא כלל גדול וגבי שביעית נמי משום</row>
 		<row row_number="6" isdata="1">דקבעי למיתני עוד כלל אחר תנא כלל</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">מעשר תנן כלל אמרו במעשר כל שהוא</row>
 		<row row_number="31" isdata="1">אוכל ונשמר וגידולו מן הארץ חייב במעשר</row>
 		<row row_number="32" isdata="1">ואילו לקיטתו כאחת ומכניסו לקיום לא</row>
-		<row row_number="33" isdata="1">תנן רב ושמואל דאמרי תרוייהו מתניתין</row>
+		<row row_number="33" isdata="1">תנן: רב ושמואל דאמרי תרוייהו מתניתין</row>
 		<row row_number="34" isdata="1">בתינוק שנשבה לבין הנכרים וגר שנתגייר</row>
 		<row row_number="35" isdata="1">לבין הנכרים אבל הכיר ולבסוף שכח חייב</row>
 		<row row_number="36" isdata="1">על כל שבת ושבת תנן השוכח עיקר שבת</row>

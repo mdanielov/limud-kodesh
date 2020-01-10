@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:46.845010</dateCreated>
-   <lastModified>2019-12-21 21:41:46.845010</lastModified>
+   <dateCreated>2020-01-06 09:30:52.724277</dateCreated>
+   <lastModified>2020-01-06 09:30:52.724277</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="20">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "מי שמתו"/><ContGemara/>אבל מטמא הוא למת מצוה אמאי לימא אין</row>
 		<row row_number="2" isdata="1">חכמה ואין תבונה ואין עצה לנגד ה' שאני</row>
 		<row row_number="3" isdata="1">התם דכתיב ולאחותו וליגמר מינה שב ואל</row>
-		<row row_number="4" isdata="1">תעשה שאני אמר ליה רב פפא לאביי מאי</row>
+		<row row_number="4" isdata="1">תעשה שאני: אמר ליה רב פפא לאביי מאי</row>
 		<row row_number="5" isdata="1">שנא ראשונים דאתרחיש להו ניסא ומאי</row>
 		<row row_number="6" isdata="1">שנא אנן דלא מתרחיש לן ניסא אי משום</row>
 		<row row_number="7" isdata="1">תנויי בשני דרב יהודה כולי תנויי בנזיקין הוה</row>
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">היא קם קרעיה מינה אגלאי מילתא דכותית</row>
 		<row row_number="21" isdata="1">היא שיימוה בארבע מאה זוזי א"ל מה שמך</row>
 		<row row_number="22" isdata="1">אמרה ליה מתון אמר לה מתון מתון ארבע</row>
-		<row row_number="23" isdata="1">מאה זוזי שויא רב גידל הוה רגיל דהוה</row>
+		<row row_number="23" isdata="1">מאה זוזי שויא: רב גידל הוה רגיל דהוה</row>
 		<row row_number="24" isdata="1">קא אזיל ויתיב אשערי דטבילה אמר להו</row>
 		<row row_number="25" isdata="1">הכי טבילו והכי טבילו אמרי ליה רבנן לא</row>
 		<row row_number="26" isdata="1">קא מסתפי מר מיצר הרע אמר להו דמיין</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">הארץ מה דגים שבים מים מכסין עליהם ואין</row>
 		<row row_number="38" isdata="1">עין הרע שולטת בהם אף זרעו של יוסף אין</row>
 		<row row_number="39" isdata="1">עין הרע שולטת בהם ואב"א עין שלא רצתה</row>
-		<row row_number="40" isdata="1">לזון ממה שאינו שלו אין עין הרע שולטת בו</row>
+		<row row_number="40" isdata="1">לזון ממה שאינו שלו אין עין הרע שולטת בו:</row>
 		<row row_number="41" isdata="1"><EndGemara/><StartMishna/>מתני' נשים ועבדים וקטנים פטורין מק"ש</row>
 </amud>
 </daf>

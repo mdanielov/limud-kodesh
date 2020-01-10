@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:40.258019</dateCreated>
-   <lastModified>2019-12-21 21:42:40.258019</lastModified>
+   <dateCreated>2020-01-06 09:35:16.230055</dateCreated>
+   <lastModified>2020-01-06 09:35:16.230055</lastModified>
  </meta>
  <masechet name="תמורה" serial="34">
 <daf value="21">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "אלו קדשים"/><ContGemara/>עצמו לא הכא במאי עסקינן כגון שילדה</row>
 		<row row_number="2" isdata="1">נקבה ועד סוף העולם לא אוליד חד זכר</row>
 		<row row_number="3" isdata="1">א"ל משנינא שינויי דחיקי בבלאי כגון</row>
-		<row row_number="4" isdata="1">שילדה נקבות עד סוף העולםמתני'</row>
+		<row row_number="4" isdata="1">שילדה נקבות עד סוף העולם <EndGemara/><StartMishna/>מתני'</row>
 		<row row_number="5" isdata="1">תמורת הבכור והמעשר ולדן ולד ולדן עד</row>
 		<row row_number="6" isdata="1">סוף העולם הרי אלו כבכור וכמעשר ויאכלו</row>
 		<row row_number="7" isdata="1">במומן לבעלים מה בין בכור ומעשר לבין כל</row>
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">במומן לבעלים א"ר שמעון מה טעם שהבכור</row>
 		<row row_number="15" isdata="1">והמעשר יש להן פרנסה ממקומן ושאר כל</row>
 		<row row_number="16" isdata="1">הקדשים אע"פ שנולד בהם מום הרי אלו</row>
-		<row row_number="17" isdata="1">בקדושתן<EndMishna/><StartGemara/>גמ' אמר רבא בר רב עזא בען</row>
+		<row row_number="17" isdata="1">בקדושתן:<EndMishna/><StartGemara/>גמ' אמר רבא בר רב עזא בען</row>
 		<row row_number="18" isdata="1">במערבא המטיל מום בתמורת בכור ומעשר</row>
 		<row row_number="19" isdata="1">מהו מי אמרינן כיון דלא קריבן לא מיחייב או</row>
 		<row row_number="20" isdata="1">דילמא כיון דקדשו מיחייב א"ל אביי ותיבעי</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">דלא מיבעיא לך דרחמנא מעטינהו קדש הם</row>
 		<row row_number="31" isdata="1">הן קריבין ואין תמורתן קריבה תשיעי של</row>
 		<row row_number="32" isdata="1">מעשר נמי רחמנא מעטיה העשירי להוציא</row>
-		<row row_number="33" isdata="1">את התשיעי ואם באו תמימין כו' ורמינהו</row>
+		<row row_number="33" isdata="1">את התשיעי: ואם באו תמימין כו': ורמינהו</row>
 		<row row_number="34" isdata="1">בן אנטיגנוס העלה בכורות מבבל ולא</row>
 		<row row_number="35" isdata="1">קבלו ממנו אמר רב חסדא לא קשיא הא ר'</row>
 		<row row_number="36" isdata="1">ישמעאל הא ר' עקיבא דתניא ר' יוסי אומר</row>

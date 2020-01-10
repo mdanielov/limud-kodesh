@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:47.339046</dateCreated>
-   <lastModified>2019-12-21 21:41:47.339046</lastModified>
+   <dateCreated>2020-01-06 09:30:56.008785</dateCreated>
+   <lastModified>2020-01-06 09:30:56.008785</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="48">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "שלשה שאכלו"/><ContGemara/>לאתויי קטן פורח ולית הלכתא ככל הני</row>
+		<row row_number="1" isdata="1"><ContChapter name = "שלשה שאכלו"/><ContGemara/>לאתויי קטן פורח. ולית הלכתא ככל הני</row>
 		<row row_number="2" isdata="1">שמעתתא אלא כי הא דאמר רב נחמן</row>
 		<row row_number="3" isdata="1">קטן היודע למי מברכין מזמנין עליו אביי</row>
 		<row row_number="4" isdata="1">ורבא הוו יתבי קמיה דרבה אמר להו רבה</row>
@@ -20,7 +20,7 @@
 		<row row_number="6" isdata="1">היכא יתיב רבא אחוי לשמי טללא אביי נפק</row>
 		<row row_number="7" isdata="1">לברא אחוי כלפי שמיא אמר להו רבה</row>
 		<row row_number="8" isdata="1">תרווייכו רבנן הויתו היינו דאמרי אינשי</row>
-		<row row_number="9" isdata="1">בוצין בוצין מקטפיה ידיע א"ר יהודה</row>
+		<row row_number="9" isdata="1">בוצין בוצין מקטפיה ידיע: א"ר יהודה</row>
 		<row row_number="10" isdata="1">בריה דרב שמואל בר שילת משמיה דרב</row>
 		<row row_number="11" isdata="1">תשעה אכלו דגן ואחד אכל ירק מצטרפין</row>
 		<row row_number="12" isdata="1">א"ר זירא בעאי מיניה מרב יהודה שמנה מהו</row>
@@ -28,7 +28,7 @@
 		<row row_number="14" isdata="1">לא מיבעיא לי א"ל רבי ירמיה שפיר עבדת</row>
 		<row row_number="15" isdata="1">דלא איבעיא לך התם טעמא מאי משום</row>
 		<row row_number="16" isdata="1">דאיכא רובא הכא נמי איכא רובא ואיהו</row>
-		<row row_number="17" isdata="1">סבר רובא דמינכר בעינן ינאי מלכא</row>
+		<row row_number="17" isdata="1">סבר רובא דמינכר בעינן. ינאי מלכא</row>
 		<row row_number="18" isdata="1">ומלכתא כריכו ריפתא בהדי הדדי ומדקטל</row>
 		<row row_number="19" isdata="1">להו לרבנן לא הוה ליה איניש לברוכי להו</row>
 		<row row_number="20" isdata="1">אמר לה לדביתהו מאן יהיב לן גברא</row>

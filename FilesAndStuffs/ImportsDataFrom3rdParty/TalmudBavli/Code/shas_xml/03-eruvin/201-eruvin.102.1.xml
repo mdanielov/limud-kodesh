@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.028328</dateCreated>
-   <lastModified>2019-12-21 21:41:54.028328</lastModified>
+   <dateCreated>2020-01-06 09:31:24.270758</dateCreated>
+   <lastModified>2020-01-06 09:31:24.270758</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="102">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>בשאינו ניטל באיגדו דמר סבר כיון דיש</row>
 		<row row_number="2" isdata="1">בראשו גלוסטרא תורת כלי עליו ומר סבר</row>
-		<row row_number="3" isdata="1">כיון דאינו ניטל באיגדו לאמתני' נגר</row>
+		<row row_number="3" isdata="1">כיון דאינו ניטל באיגדו לא<EndGemara/><StartMishna/>מתני' נגר</row>
 		<row row_number="4" isdata="1">הנגרר נועלין בו במקדש אבל לא במדינה</row>
 		<row row_number="5" isdata="1">והמונח כאן וכאן אסור ר' יהודה אומר</row>
-		<row row_number="6" isdata="1">המונח מותר במקדש והנגרר במדינה</row>
+		<row row_number="6" isdata="1">המונח מותר במקדש והנגרר במדינה:</row>
 		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' תנו רבנן איזהו נגר הנגרר שנועלין</row>
 		<row row_number="8" isdata="1">במקדש אבל לא במדינה כל שקשור</row>
 		<row row_number="9" isdata="1">ותלוי וראשו אחד מגיע לארץ רבי יהודה</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">שריתא דהוה בי רבי פדת דהוה מדלו לה</row>
 		<row row_number="32" isdata="1">בי עשרה ושדו לה אדשא ולא אמר להו ולא מידי אמר תורת כלי</row>
 		<row row_number="33" isdata="1">עליה ההיא אסיתא דהות בי מר שמואל דהוה מחזקת אדריבא שרא</row>
-		<row row_number="34" isdata="1">מר שמואל למישדייה אדשא אמר תורת כלי עליה שלח ליה רמי בר</row>
+		<row row_number="34" isdata="1">מר שמואל למישדייה אדשא אמר תורת כלי עליה: שלח ליה רמי בר</row>
 		<row row_number="35" isdata="1">יחזקאל לרב עמרם נימא לן מר מהלין מילי מעלייתא דאמרת לן משמיה</row>
 		<row row_number="36" isdata="1">דרב אסי בכיפי דארבא שלח ליה הכי אמר רב אסי הני כיפי דארבא</row>
 		<row row_number="37" isdata="1">בזמן שיש בהן טפח אי נמי אין בהן טפח ואין בין זה לזה שלשה</row>

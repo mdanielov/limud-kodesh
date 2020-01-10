@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:40.279018</dateCreated>
-   <lastModified>2019-12-21 21:42:40.279018</lastModified>
+   <dateCreated>2020-01-06 09:35:16.363603</dateCreated>
+   <lastModified>2020-01-06 09:35:16.363603</lastModified>
  </meta>
  <masechet name="תמורה" serial="34">
 <daf value="22">
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">כוסות ואבד אחד מהן ואליבא דמאן דאמר כוס עושה חבירו דחוי לא תיבעי</row>
 		<row row_number="26" isdata="1">לך כי תיבעי לך אליבא דמ"ד כוס עושה חבירו שיריים ה"מ היכא דאיתנהו</row>
 		<row row_number="27" isdata="1">לתרוייהו דכל היכא דבעי זריק אבל הכא הא ליכא או דלמא לא שנא</row>
-		<row row_number="28" isdata="1">תיקומתני' המפריש חטאת ואבדה (והפריש) אחרת תחתיה ואחר</row>
+		<row row_number="28" isdata="1">תיקו<EndGemara/><StartMishna/>מתני' המפריש חטאת ואבדה (והפריש) אחרת תחתיה ואחר</row>
 		<row row_number="29" isdata="1">כך נמצאת הראשונה תמות המפריש מעות לחטאתו ואבדו (והפריש) חטאת</row>
 		<row row_number="30" isdata="1">תחתיהם ואחר כך נמצאו המעות יוליכם לים המלח המפריש מעות</row>
 		<row row_number="31" isdata="1">לחטאת ואבדו והפריש מעות אחרות תחתיהן ולא הספיק ליקח חטאת מהן</row>
@@ -56,7 +56,7 @@
 		<row row_number="42" isdata="1">אומרים אין חטאת מתה אלא שנמצאת מאחר שכיפרו הבעלים ואין המעות</row>
 		<row row_number="43" isdata="1">הולכים לים המלח אלא שנמצאו מאחר שכיפרו הבעלים המפריש חטאת</row>
 		<row row_number="44" isdata="1">והרי היא בעלת מום מוכרה ויביא בדמיה אחרת ר"א בר"ש אומר אם קרבה</row>
-		<row row_number="45" isdata="1">שניה עד שלא נשחטה תמות שכבר כיפרו הבעלים<EndMishna/><StartGemara/>גמ' טעמא דהקריב</row>
+		<row row_number="45" isdata="1">שניה עד שלא נשחטה תמות שכבר כיפרו הבעלים:<EndMishna/><StartGemara/>גמ' טעמא דהקריב</row>
 		<row row_number="46" isdata="1">אחרת תחתיה הא לא הקריב אחרת תחתיה רועה מני רבנן היא דאמרי אבודה</row>
 		<row row_number="47" isdata="1">בשעת הפרשה רועה אימא סיפ' המפריש מעות לחטאת ואבדו והפריש אחרים</row>
 		<row row_number="48" isdata="1">תחתיהם יביא מאלו ומאלו והשאר יפלו לנדבה טעמא מאלו ומאלו הא הביא</row>

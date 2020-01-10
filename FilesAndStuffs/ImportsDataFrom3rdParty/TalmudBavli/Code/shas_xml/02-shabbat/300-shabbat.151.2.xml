@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:51.436305</dateCreated>
-   <lastModified>2019-12-21 21:41:51.436305</lastModified>
+   <dateCreated>2020-01-06 09:31:13.710713</dateCreated>
+   <lastModified>2020-01-06 09:31:13.710713</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="151">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "שואל"/><ContMishna/>שימתין קושרין את הלחי לא שיעלה אלא</row>
 		<row row_number="2" isdata="1">שלא יוסיף וכן קורה שנשברה סומכין אותה</row>
 		<row row_number="3" isdata="1">בספסל או בארוכות המטה לא שתעלה</row>
-		<row row_number="4" isdata="1">אלא שלא תוסיף<EndMishna/><StartGemara/>גמ' והאמר רב יהודה</row>
+		<row row_number="4" isdata="1">אלא שלא תוסיף:<EndMishna/><StartGemara/>גמ' והאמר רב יהודה</row>
 		<row row_number="5" isdata="1">אמר שמואל מעשה בתלמידו של רבי מאיר</row>
 		<row row_number="6" isdata="1">שנכנס אחריו לבית המרחץ ביקש להדיח</row>
 		<row row_number="7" isdata="1">קרקע אמר לו אין מדיחין לסוך קרקע אמר</row>
@@ -33,8 +33,8 @@
 		<row row_number="19" isdata="1">אלו בני אדם שמניחין דברי תורה ועושין</row>
 		<row row_number="20" isdata="1">כל ימיהם כחגים אמר רבי לוי אמר רב פפי</row>
 		<row row_number="21" isdata="1">א"ר יהושע לאחר שלשה ימים כריסו נבקעת</row>
-		<row row_number="22" isdata="1">ונופלת לו על פניו ואומרת לו טול מה שנתת בימתני' אין מעצמין את המת בשבת ולא בחול עם</row>
-		<row row_number="23" isdata="1">יציאת נפש והמעצים עם יציאת הנפש הרי זה שופך דמים<EndMishna/><StartGemara/>גמ' תנו רבנן המעצמו עם יציאת הנפש</row>
+		<row row_number="22" isdata="1">ונופלת לו על פניו ואומרת לו טול מה שנתת בי<EndGemara/><StartMishna/>מתני' אין מעצמין את המת בשבת ולא בחול עם</row>
+		<row row_number="23" isdata="1">יציאת נפש והמעצים עם יציאת הנפש הרי זה שופך דמים:<EndMishna/><StartGemara/>גמ' תנו רבנן המעצמו עם יציאת הנפש</row>
 		<row row_number="24" isdata="1">הרי זה שופך דמים משל לנר שכבה והולכת אדם מניח אצבעו עליה מיד כבתה תניא רשב"ג אומר הרוצה</row>
 		<row row_number="25" isdata="1">שיתעצמו עיניו של מת נופח לו יין בחוטמו ונותן שמן בין ריסי עיניו ואוחז בשני גודלי רגליו והן מתעצמין</row>
 		<row row_number="26" isdata="1">מאליהן תניא רשב"ג אומר תינוק בן יומו חי מחללין עליו את השבת דוד מלך ישראל מת אין מחללין</row>

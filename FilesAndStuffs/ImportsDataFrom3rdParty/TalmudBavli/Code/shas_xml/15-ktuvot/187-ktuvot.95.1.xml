@@ -6,20 +6,20 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:07.329729</dateCreated>
-   <lastModified>2019-12-21 21:42:07.329729</lastModified>
+   <dateCreated>2020-01-06 09:32:42.121215</dateCreated>
+   <lastModified>2020-01-06 09:32:42.121215</lastModified>
  </meta>
  <masechet name="כתובות" serial="15">
 <daf value="95">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "מי שהיה נשוי"/><ContGemara/>טירפא מאייר ואילך א"ל יכלי למימר לך את</row>
 		<row row_number="2" isdata="1">בר חד בניסן את מאי תקנתיה נכתבו הרשאה</row>
-		<row row_number="3" isdata="1">להדדימתני' מי שהיה נשוי ב' נשים</row>
+		<row row_number="3" isdata="1">להדדי<EndGemara/><StartMishna/>מתני' מי שהיה נשוי ב' נשים</row>
 		<row row_number="4" isdata="1">ומכר את שדהו וכתבה ראשונה ללוקח</row>
 		<row row_number="5" isdata="1">דין ודברים אין לי עמך השניה מוציאה</row>
 		<row row_number="6" isdata="1">מהלוקח וראשונה מן השניה והלוקח מן</row>
 		<row row_number="7" isdata="1">הראשונה וחוזרות חלילה עד שיעשו פשרה</row>
-		<row row_number="8" isdata="1">ביניהם וכן בעל חוב וכן אשה בעלת חוב</row>
+		<row row_number="8" isdata="1">ביניהם וכן בעל חוב וכן אשה בעלת חוב:</row>
 		<row row_number="9" isdata="1"><EndMishna/><StartGemara/>גמ' וכי כתבה ליה מאי הוי והתניא האומר</row>
 		<row row_number="10" isdata="1">לחבירו דין ודברים אין לי על שדה זו ואין לי</row>
 		<row row_number="11" isdata="1">עסק בה וידי מסולקת הימנה לא אמר כלום</row>

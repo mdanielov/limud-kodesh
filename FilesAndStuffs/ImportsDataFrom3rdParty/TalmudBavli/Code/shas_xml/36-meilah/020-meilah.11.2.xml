@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:41.049282</dateCreated>
-   <lastModified>2019-12-21 21:42:41.049282</lastModified>
+   <dateCreated>2020-01-06 09:35:20.646787</dateCreated>
+   <lastModified>2020-01-06 09:35:20.646787</lastModified>
  </meta>
  <masechet name="מעילה" serial="36">
 <daf value="11">
@@ -28,8 +28,8 @@
 		<row row_number="14" isdata="1">כאחד הניחא למ"ד אין מלמדין אלא למ"ד</row>
 		<row row_number="15" isdata="1">מלמדין מאי איכא למימר תרי מיעוטי כתיבי</row>
 		<row row_number="16" isdata="1">כתיב התם הערופה וכתיב התם ושמו אצל</row>
-		<row row_number="17" isdata="1">המזבח הני אין מידי אחרינא לא נסכים</row>
-		<row row_number="18" isdata="1">בתחילה מועלין בהן [וכו'] לימא מתני' דלא</row>
+		<row row_number="17" isdata="1">המזבח הני אין מידי אחרינא לא: נסכים</row>
+		<row row_number="18" isdata="1">בתחילה מועלין בהן [וכו']: לימא מתני' דלא</row>
 		<row row_number="19" isdata="1">כר"א בר רבי צדוק דתניא ר"א בר רבי צדוק</row>
 		<row row_number="20" isdata="1">אומר לול קטן היה בין כבש למזבח במערבו</row>
 		<row row_number="21" isdata="1">של כבש אחת לשבעים שנה פרחי כהונה</row>
@@ -44,10 +44,10 @@
 		<row row_number="30" isdata="1">ר' אלעזר בר רבי צדוק דאי קלט איכא</row>
 		<row row_number="31" isdata="1">דאמרי לימא מתני' כר' אלעזר בר ר' צדוק דאי</row>
 		<row row_number="32" isdata="1">קלט אמרי לא ומדרבנן והא קרא קנסיב לה</row>
-		<row row_number="33" isdata="1">אסמכתאמתני' דישון מזבח הפנימי</row>
+		<row row_number="33" isdata="1">אסמכתא<EndGemara/><StartMishna/>מתני' דישון מזבח הפנימי</row>
 		<row row_number="34" isdata="1">והמנורה לא נהנין ולא מועלין המקדיש דישון</row>
 		<row row_number="35" isdata="1">בתחלה מועלין בה תורין שלא הגיע זמנן ובני</row>
-		<row row_number="36" isdata="1">יונה שעבר זמנן לא נהנין ולא מועלין<EndMishna/><StartGemara/>גמ' בשלמ'</row>
+		<row row_number="36" isdata="1">יונה שעבר זמנן לא נהנין ולא מועלין:<EndMishna/><StartGemara/>גמ' בשלמ'</row>
 </amud>
 </daf>
 </masechet>

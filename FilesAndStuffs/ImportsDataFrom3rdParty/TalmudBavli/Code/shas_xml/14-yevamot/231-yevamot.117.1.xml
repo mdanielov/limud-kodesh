@@ -6,17 +6,17 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:05.284712</dateCreated>
-   <lastModified>2019-12-21 21:42:05.284712</lastModified>
+   <dateCreated>2020-01-06 09:32:32.656165</dateCreated>
+   <lastModified>2020-01-06 09:32:32.656165</lastModified>
  </meta>
  <masechet name="יבמות" serial="14">
 <daf value="117">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "האשה שלום"/><ContGemara/>שאין האחין נכנסין לנחלה על פיה אמרו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "האשה שלום"/><ContMishna/>שאין האחין נכנסין לנחלה על פיה אמרו</row>
 		<row row_number="2" isdata="1">להם בית שמאי והלא מספר כתובה נלמוד</row>
 		<row row_number="3" isdata="1">שהוא כותב לה שאם תנשאי לאחר תטלי</row>
 		<row row_number="4" isdata="1">מה שכתוב ליכי וחזרו בית הלל להורות</row>
-		<row row_number="5" isdata="1">כדברי ב"ש<EndMishna/><StartGemara/>גמ' אמר רב חסדא נתייבמה</row>
+		<row row_number="5" isdata="1">כדברי ב"ש:<EndMishna/><StartGemara/>גמ' אמר רב חסדא נתייבמה</row>
 		<row row_number="6" isdata="1">יבמה נכנס לנחלה על פיה הם דרשו מדרש</row>
 		<row row_number="7" isdata="1">כתובה אנו לא נדרוש מדרש תורה יקום</row>
 		<row row_number="8" isdata="1">על שם אחיו אמר רחמנא והרי קם אמר רב</row>
@@ -32,10 +32,10 @@
 		<row row_number="18" isdata="1">להו לבי דינא] תנו לי כתובתי והתירוני</row>
 		<row row_number="19" isdata="1">להנשא מהו הכא ודאי אדעתא דכתובה</row>
 		<row row_number="20" isdata="1">אתאי או דלמא הואיל דלא ידעה במאי</row>
-		<row row_number="21" isdata="1">משתריא תיקומתני' הכל נאמנין</row>
+		<row row_number="21" isdata="1">משתריא תיקו<EndGemara/><StartMishna/>מתני' הכל נאמנין</row>
 		<row row_number="22" isdata="1">להעידה חוץ מחמותה ובת חמותה וצרתה</row>
 		<row row_number="23" isdata="1">ויבמתה ובת בעלה מה בין גט למיתה</row>
-		<row row_number="24" isdata="1">שהכתב מוכיח<EndMishna/><StartGemara/>גמ' איבעיא להו בת חמיה</row>
+		<row row_number="24" isdata="1">שהכתב מוכיח:<EndMishna/><StartGemara/>גמ' איבעיא להו בת חמיה</row>
 		<row row_number="25" isdata="1">מהו טעמא דבת חמותה משום דאיכא אימא</row>
 		<row row_number="26" isdata="1">דסניא לה היא נמי סניא לה והכא ליכא</row>
 		<row row_number="27" isdata="1">אימא דסניא לה או דלמא טעמא דבת</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:18.365901</dateCreated>
-   <lastModified>2019-12-21 21:42:18.365901</lastModified>
+   <dateCreated>2020-01-06 09:33:33.974525</dateCreated>
+   <lastModified>2020-01-06 09:33:33.974525</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="27">
@@ -18,12 +18,12 @@
 		<row row_number="4" isdata="1">מבעל הבית חייב להחזיר א"ל רב נחמן</row>
 		<row row_number="5" isdata="1">וכי בעל הבית בעצמו דשן א"ל איסמיה</row>
 		<row row_number="6" isdata="1">א"ל לא תתרגם מתני' כגון שדשן ע"י</row>
-		<row row_number="7" isdata="1">עבדו ושפחתו הכנעניםמתני' אף</row>
+		<row row_number="7" isdata="1">עבדו ושפחתו הכנענים<EndGemara/><StartMishna/>מתני' אף</row>
 		<row row_number="8" isdata="1">השמלה היתה בכלל כל אלו ולמה יצאת</row>
 		<row row_number="9" isdata="1">להקיש אליה לומר לך מה שמלה מיוחדת</row>
 		<row row_number="10" isdata="1">שיש בה סימנין ויש לה תובעין אף כל</row>
 		<row row_number="11" isdata="1">דבר שיש בו סימנין ויש לו תובעים חייב</row>
-		<row row_number="12" isdata="1">להכריז<EndMishna/><StartGemara/>גמ' מאי בכלל כל אלו אמר רבא</row>
+		<row row_number="12" isdata="1">להכריז:<EndMishna/><StartGemara/>גמ' מאי בכלל כל אלו אמר רבא</row>
 		<row row_number="13" isdata="1">בכלל כל אבדת אחיך אמר רבא למה</row>
 		<row row_number="14" isdata="1">לי דכתב רחמנא שור חמור שה ושמלה</row>
 		<row row_number="15" isdata="1">צריכי דאי כתב רחמנא שמלה הוה אמינא</row>
@@ -44,7 +44,7 @@
 		<row row_number="30" isdata="1">שמלה מיוחדת שיש בה סימנין ויש לה</row>
 		<row row_number="31" isdata="1">תובעין חייב להכריז אף כל דבר שיש בו</row>
 		<row row_number="32" isdata="1">סימנין ויש לו תובעין חייב להכריז ש"מ דשה</row>
-		<row row_number="33" isdata="1">לאו לסימנין הוא דאתא תנו רבנן אשר</row>
+		<row row_number="33" isdata="1">לאו לסימנין הוא דאתא: תנו רבנן אשר</row>
 		<row row_number="34" isdata="1">תאבד פרט לאבידה שאין בה שוה פרוטה</row>
 		<row row_number="35" isdata="1">רבי יהודה אומר ומצאתה פרט לאבידה</row>
 		<row row_number="36" isdata="1">שאין בה שוה פרוטה מאי בינייהו אמר אביי</row>
@@ -66,7 +66,7 @@
 		<row row_number="52" isdata="1">דאמר אשר תאבד ליכא ולמאן דאמר ומצאתה הא בעינן אשר תאבד</row>
 		<row row_number="53" isdata="1">וליכא אלא פרוטה שהוקרה והוזלה וחזרה והוקרה איכא בינייהו</row>
 		<row row_number="54" isdata="1">מאן דאמר אשר תאבד איכא ומאן דאמר ומצאתה בעינן דאית בה</row>
-		<row row_number="55" isdata="1">שיעור מציאה משעת אבידה ועד שעת מציאה איבעיא להו סימנין דאורייתא או דרבנן מאי נפקא מינה</row>
+		<row row_number="55" isdata="1">שיעור מציאה משעת אבידה ועד שעת מציאה: איבעיא להו סימנין דאורייתא או דרבנן מאי נפקא מינה</row>
 </amud>
 </daf>
 </masechet>

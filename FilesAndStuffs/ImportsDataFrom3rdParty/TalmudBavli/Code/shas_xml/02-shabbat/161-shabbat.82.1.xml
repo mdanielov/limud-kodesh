@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.496119</dateCreated>
-   <lastModified>2019-12-21 21:41:49.496119</lastModified>
+   <dateCreated>2020-01-06 09:31:06.479852</dateCreated>
+   <lastModified>2020-01-06 09:31:06.479852</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="82">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "המוציא יין"/><ContGemara/>דלא מקנח לכו בחספא ולא קטיל לכו כינא</row>
 		<row row_number="2" isdata="1">אמנייכו ולא שליף לכו ירקא ואכיל לכו</row>
-		<row row_number="3" isdata="1">מכישא דאסיר גינאה אמר ליה רב הונא</row>
+		<row row_number="3" isdata="1">מכישא דאסיר גינאה: אמר ליה רב הונא</row>
 		<row row_number="4" isdata="1">לרבה בריה מאי טעמא לא שכיחת קמיה</row>
 		<row row_number="5" isdata="1">דרב חסדא דמחדדן שמעתיה אמר ליה</row>
 		<row row_number="6" isdata="1">מאי איזיל לגביה דכי אזילנא לגביה מותיב</row>
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">צרור וחרס רב הונא אמר מקנח בצרור ואין מקנח בחרס ורב חסדא אמר מקנח</row>
 		<row row_number="14" isdata="1">בחרס ואין מקנח בצרור מיתיבי היו לפניו צרור וחרס מקנח בחרס ואין</row>
 		<row row_number="15" isdata="1">מקנח בצרור תיובתא דרב הונא תרגמא רפרם בר פפא קמיה דרב</row>
-		<row row_number="16" isdata="1">חסדא אליבא דרב הונא באוגני כלים היו לפניו צרור ועשבים רב</row>
+		<row row_number="16" isdata="1">חסדא אליבא דרב הונא באוגני כלים: היו לפניו צרור ועשבים רב</row>
 		<row row_number="17" isdata="1">חסדא ורב המנונא חד אמר מקנח בצרור ואין מקנח בעשבים וחד אמר</row>
 		<row row_number="18" isdata="1">מקנח בעשבים ואין מקנח בצרור מיתיבי  המקנח בדבר שהאור שולטת</row>
 		<row row_number="19" isdata="1">בו שיניו התחתונות נושרות לא קשיא הא בלחין הא ביבשין הנצרך לפנות</row>
@@ -40,22 +40,22 @@
 		<row row_number="26" isdata="1">שכן דכי מסח דעתיה לא מפני אמר ליה יסיח דעתו מדברים אחרים אמר רב</row>
 		<row row_number="27" isdata="1">ירמיה מדיפתי לדידי חזי לי ההוא טייעא דקם ויתיב וקם ויתיב עד דשפך</row>
 		<row row_number="28" isdata="1">כקדרה ת"ר הנכנס לסעודת קבע יהלך י' פעמים של ארבע [ארבע] אמות ואמרי</row>
-		<row row_number="29" isdata="1">לה ד' פעמים של עשר עשר אמות ונפנה ונכנס וישב במקומומתני' חרס</row>
+		<row row_number="29" isdata="1">לה ד' פעמים של עשר עשר אמות ונפנה ונכנס וישב במקומו<EndGemara/><StartMishna/>מתני' חרס</row>
 		<row row_number="30" isdata="1">כדי ליתן בין פצים לחברו דברי רבי יהודה רבי מאיר אומר כדי לחתות בו</row>
 		<row row_number="31" isdata="1">את האור רבי יוסי אומר כדי לקבל בו רביעית אמר רבי מאיר אף על פי</row>
 		<row row_number="32" isdata="1">שאין ראיה לדבר זכר לדבר לא ימצא במכיתתו חרש לחתות אש מיקוד אמר</row>
-		<row row_number="33" isdata="1">ליה רבי יוסי משם ראיה ולחשוף מים מגבא<EndMishna/><StartGemara/>גמ' (איבעיא להו שיעורא</row>
+		<row row_number="33" isdata="1">ליה רבי יוסי משם ראיה ולחשוף מים מגבא :<EndMishna/><StartGemara/>גמ' (איבעיא להו שיעורא</row>
 		<row row_number="34" isdata="1">דרבי מאיר נפיש או שיעורא דרבי יוסי נפיש) מסתברא שיעורא דרבי יוסי</row>
 		<row row_number="35" isdata="1">נפיש ומקרא שיעורא דרבי מאיר נפיש דאי סלקא דעתך שיעורא דרבי יוסי</row>
 		<row row_number="36" isdata="1">נפיש לייט לה במנא זוטרא והדר לייט לה במנא רבה אמר אביי [מתני' נמי]</row>
-		<row row_number="37" isdata="1">לחתות אש מיקידה גדולה רבי יוסי אומר משם ראיה שפיר קאמר ליה</row>
+		<row row_number="37" isdata="1">לחתות אש מיקידה גדולה: רבי יוסי אומר משם ראיה: שפיר קאמר ליה</row>
 		<row row_number="38" isdata="1">רבי יוסי לרבי מאיר ורבי מאיר לא מיבעיא קאמר לא מיבעיא מידי</row>
 		<row row_number="39" isdata="1">דחשיב לאינשי דלא לישתכח ליה אלא אפילו מידי דלא חשיב לאינשי</row>
-		<row row_number="40" isdata="1">לא לישתכח ליה<EndChapter name = "המוציא יין"/><EndGemara/></row>
+		<row row_number="40" isdata="1">לא לישתכח ליה:<EndChapter name = "המוציא יין"/><EndGemara/></row>
 		<row row_number="41" isdata="0">הדרן עלך המוציא יין</row>
 		<row row_number="42" isdata="1"><StartChapter name = "אמר רבי עקיבא"/><StartMishna/>אמר רבי עקיבא מניין לעבודה זרה שמטמאה במשא כנדה שנאמר</row>
 		<row row_number="43" isdata="1">תזרם כמו דוה צא תאמר לו מה נדה מטמאה במשא אף עבודה</row>
-		<row row_number="44" isdata="1">זרה מטמאה במשא<EndMishna/><StartGemara/>גמ' תנן התם מי שהיה ביתו סמוך לעבודה</row>
+		<row row_number="44" isdata="1">זרה מטמאה במשא:<EndMishna/><StartGemara/>גמ' תנן התם מי שהיה ביתו סמוך לעבודה</row>
 		<row row_number="45" isdata="1">זרה ונפל אסור לבנותו כיצד יעשה כונס לתוך שלו ד' אמות ובונה</row>
 </amud>
 </daf>

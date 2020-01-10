@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:51.126348</dateCreated>
-   <lastModified>2019-12-21 21:41:51.126348</lastModified>
+   <dateCreated>2020-01-06 09:31:12.620288</dateCreated>
+   <lastModified>2020-01-06 09:31:12.620288</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="141">
@@ -15,13 +15,13 @@
 		<row row_number="1" isdata="1"><ContChapter name = "תולין"/><ContGemara/>דאית לה רירי והא דקתני נוטלין מלפני</row>
 		<row row_number="2" isdata="1">בהמה שפיה רע בחמור דלא דייק ואכיל</row>
 		<row row_number="3" isdata="1">ונותנין לפני בהמה שפיה יפה בפרה דדייקא</row>
-		<row row_number="4" isdata="1">ואכלהמתני' הקש שעל גבי המטה</row>
+		<row row_number="4" isdata="1">ואכלה<EndGemara/><StartMishna/>מתני' הקש שעל גבי המטה</row>
 		<row row_number="5" isdata="1">לא ינענענו בידו אלא מנענעו בגופו ואם</row>
 		<row row_number="6" isdata="1">היה מאכל בהמה או שהיה עליו כר או</row>
 		<row row_number="7" isdata="1">סדין מנענעו בידו מכבש של בעלי בתים</row>
 		<row row_number="8" isdata="1">מתירין אבל לא כובשין ושל כובסין לא יגע</row>
 		<row row_number="9" isdata="1">בו ר' יהודה אומר אם היה מותר מע"ש</row>
-		<row row_number="10" isdata="1">מתיר את כולו ושומטו<EndMishna/><StartGemara/>גמ' אמר רב נחמן</row>
+		<row row_number="10" isdata="1">מתיר את כולו ושומטו:<EndMishna/><StartGemara/>גמ' אמר רב נחמן</row>
 		<row row_number="11" isdata="1">האי פוגלא מלמעלה למטה שרי מלמטה</row>
 		<row row_number="12" isdata="1">למעלה אסיר אמר רב אדא בר אבא אמרי</row>
 		<row row_number="13" isdata="1">בי רב תנינא דלא כרב נחמן הקש שע"ג</row>

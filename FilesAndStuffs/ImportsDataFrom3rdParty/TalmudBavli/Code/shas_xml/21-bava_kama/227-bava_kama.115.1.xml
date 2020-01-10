@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:17.710806</dateCreated>
-   <lastModified>2019-12-21 21:42:17.710806</lastModified>
+   <dateCreated>2020-01-06 09:33:31.055421</dateCreated>
+   <lastModified>2020-01-06 09:33:31.055421</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="115">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "הגוזל בתרא "/><ContGemara/>לא צריך לאהדורי עליה כולי האי ודלמא</row>
 		<row row_number="2" isdata="1">איצטריך ליה זוזי וזבין אמר רב אשי הרי</row>
-		<row row_number="3" isdata="1">יצא לו שם גניבה בעיר איתמר גנב ומכר</row>
+		<row row_number="3" isdata="1">יצא לו שם גניבה בעיר: איתמר גנב ומכר</row>
 		<row row_number="4" isdata="1">ואח"כ הוכר הגנב רב משמיה דרבי חייא</row>
 		<row row_number="5" isdata="1">אמר הדין עם הראשון ר' יוחנן משמיה</row>
 		<row row_number="6" isdata="1">דרבי ינאי אמר הדין עם השני אמר רב</row>
@@ -45,7 +45,7 @@
 		<row row_number="31" isdata="1">תקנת השוק מר זוטרא אמר עשו בו תקנת השוק (והלכתא עשו בו תקנת</row>
 		<row row_number="32" isdata="1">השוק) זבינא שוה בשוה עשו בו תקנת השוק שוה מאה במאתן רב ששת</row>
 		<row row_number="33" isdata="1">אמר לא עשו בו תקנת השוק רבא אמר עשו בו תקנת השוק והלכתא בכולהו</row>
-		<row row_number="34" isdata="1">עשו בו תקנת השוק לבר מגנב ופרע בחובו גנב ופרע בהיקיפו אבימי בר</row>
+		<row row_number="34" isdata="1">עשו בו תקנת השוק לבר מגנב ופרע בחובו גנב ופרע בהיקיפו: אבימי בר</row>
 		<row row_number="35" isdata="1">נאזי חמוה דרבינא הוה מסיק בההוא גברא ארבעה זוזי גנב גלימא אתיא</row>
 		<row row_number="36" isdata="1">ניהליה אוזפיה ארבעה זוזי אחריני לסוף הוכר הגנב אתא לקמיה דרבינא</row>
 		<row row_number="37" isdata="1">אמר קמאי גנב ופרע בחובו ולא בעי למיתב ליה ולא מידי הנך ארבעה זוזי</row>
@@ -58,7 +58,7 @@
 		<row row_number="44" isdata="1">ואזיל בר מחוזאה ושקיל ארבעין מפפונאה מתקיף לה רבא השתא לוקח מגנב</row>
 		<row row_number="45" isdata="1">עשו בו תקנת השוק לוקח מלוקח מיבעיא אלא אמר רבא ליזיל מריה דספרא</row>
 		<row row_number="46" isdata="1">ויהיב ליה לבר מחוזאה מאה ועשרין זוזי ושקיל ספריה וליזיל מרי דספרא ולישקול</row>
-		<row row_number="47" isdata="1">ארבעין מפפונאה ותמנן מנרשאהמתני' זה בא בחביתו של יין וזה בא בכדו</row>
+		<row row_number="47" isdata="1">ארבעין מפפונאה ותמנן מנרשאה<EndGemara/><StartMishna/>מתני' זה בא בחביתו של יין וזה בא בכדו</row>
 		<row row_number="48" isdata="1">של דבש נסדקה חבית של דבש ושפך זה את יינו והציל את הדבש לתוכו</row>
 </amud>
 </daf>

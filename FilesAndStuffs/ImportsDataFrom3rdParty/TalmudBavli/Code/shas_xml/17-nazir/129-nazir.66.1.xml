@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:11.023986</dateCreated>
-   <lastModified>2019-12-21 21:42:11.023986</lastModified>
+   <dateCreated>2020-01-06 09:32:58.218597</dateCreated>
+   <lastModified>2020-01-06 09:32:58.218597</lastModified>
  </meta>
  <masechet name="נזיר" serial="17">
 <daf value="66">
@@ -15,7 +15,7 @@
 		<row row_number="1" isdata="1"><ContChapter name = "הכותים אין להם נזירות"/><ContGemara/>אמר רבא לא תימא ספק חזא ספק לא חזא</row>
 		<row row_number="2" isdata="1">אלא ודאי חזא ספק מחמת שכבת זרע</row>
 		<row row_number="3" isdata="1">ספק מחמת ראייה כיון שנזקק לטומאה</row>
-		<row row_number="4" isdata="1">ספיקו טמא שכבת זרעו טמאה למאי אילימא</row>
+		<row row_number="4" isdata="1">ספיקו טמא: שכבת זרעו טמאה: למאי אילימא</row>
 		<row row_number="5" isdata="1">למגע מי גרע משכבת זרע דטהור אלא</row>
 		<row row_number="6" isdata="1">זרעו של זב מטמא במשא מאן שמעת להא</row>
 		<row row_number="7" isdata="1">דאמר שכבת זרע של זב מטמא במשא</row>
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">ירחץ במים מ"ד מעת לעת דייק מלפנות</row>
 		<row row_number="24" isdata="1">ערב ואידך דייק מקרה לילה ומ"ד מלפנות</row>
 		<row row_number="25" isdata="1">ערב הכתיב מקרה לילה א"ל אורחא דקרי</row>
-		<row row_number="26" isdata="1">למתיא בליליאמתני' נזיר היה שמואל</row>
+		<row row_number="26" isdata="1">למתיא בליליא<EndGemara/><StartMishna/>מתני' נזיר היה שמואל</row>
 		<row row_number="27" isdata="1">כדברי ר' נהוראי שנא' ומורה לא יעלה</row>
 		<row row_number="28" isdata="1">על ראשו נאמר בשמשון ומורה ונאמר</row>
 		<row row_number="29" isdata="1">בשמואל ומורה מה מורה האמורה בשמשון</row>
@@ -46,7 +46,7 @@
 		<row row_number="32" isdata="1">א"ל רבי נהוראי והלא כבר נאמר</row>
 		<row row_number="33" isdata="1">ויאמר שמואל איך אלך ושמע שאול</row>
 		<row row_number="34" isdata="1">והרגני שכבר היה עליו מורא של</row>
-		<row row_number="35" isdata="1">בשר ודם<EndMishna/><StartGemara/>גמ' א"ל רב לחייא בריה</row>
+		<row row_number="35" isdata="1">בשר ודם:<EndMishna/><StartGemara/>גמ' א"ל רב לחייא בריה</row>
 </amud>
 </daf>
 </masechet>

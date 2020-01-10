@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.037285</dateCreated>
-   <lastModified>2019-12-21 21:41:54.037285</lastModified>
+   <dateCreated>2020-01-06 09:31:24.326608</dateCreated>
+   <lastModified>2020-01-06 09:31:24.326608</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="102">
@@ -18,17 +18,17 @@
 		<row row_number="4" isdata="1">קשיא הא דאית ביה טפח הא דלית ביה טפח</row>
 		<row row_number="5" isdata="1">אלא מעתה שרביב בגלימיה טפח הכי נמי</row>
 		<row row_number="6" isdata="1">דאסור אלא לא קשיא הא דמיהדק הא דלא</row>
-		<row row_number="7" isdata="1">מיהדקמתני' מחזירין ציר התחתון</row>
+		<row row_number="7" isdata="1">מיהדק<EndGemara/><StartMishna/>מתני' מחזירין ציר התחתון</row>
 		<row row_number="8" isdata="1">במקדש אבל לא במדינה והעליון כאן וכאן</row>
 		<row row_number="9" isdata="1">אסור רבי יהודה אומר העליון במקדש</row>
-		<row row_number="10" isdata="1">והתחתון במדינה<EndMishna/><StartGemara/>גמ' תנו רבנן ציר דלת</row>
+		<row row_number="10" isdata="1">והתחתון במדינה:<EndMishna/><StartGemara/>גמ' תנו רבנן ציר דלת</row>
 		<row row_number="11" isdata="1">שידה תיבה ומגדל במקדש מחזירין במדינה</row>
 		<row row_number="12" isdata="1">דוחקין והעליון כאן וכאן לא יחזיר גזרה</row>
 		<row row_number="13" isdata="1">שמא יתקע ואם תקע חייב חטאת של בור</row>
 		<row row_number="14" isdata="1">ושל דות ושל יציע לא יחזיר ואם החזיר</row>
-		<row row_number="15" isdata="1">חייב חטאתמתני' מחזירין רטיה במקדש</row>
+		<row row_number="15" isdata="1">חייב חטאת<EndGemara/><StartMishna/>מתני' מחזירין רטיה במקדש</row>
 		<row row_number="16" isdata="1">אבל לא במדינה אם בתחילה כאן וכאן</row>
-		<row row_number="17" isdata="1">אסור<EndMishna/><StartGemara/>גמ' תנו רבנן רטיה שפרשה מעל גבי</row>
+		<row row_number="17" isdata="1">אסור:<EndMishna/><StartGemara/>גמ' תנו רבנן רטיה שפרשה מעל גבי</row>
 		<row row_number="18" isdata="1">מכה מחזירין בשבת ר' יהודה אומר הוחלקה</row>
 		<row row_number="19" isdata="1">למטה דוחקה למעלה למעלה דוחקה למטה</row>
 		<row row_number="20" isdata="1">ומגלה מקצת הרטיה ומקנח פי המכה</row>
@@ -43,9 +43,9 @@
 		<row row_number="29" isdata="1">סבר לה מר להא דאמר רב חסדא מחלוקת</row>
 		<row row_number="30" isdata="1">שפירשה על גבי כלי אבל פירשה על גבי</row>
 		<row row_number="31" isdata="1">קרקע אסור ואמר שמואל הלכה כרבי יהודה</row>
-		<row row_number="32" isdata="1">אמר לי לא שמיע לי כלומר לא סבירא לי</row>
+		<row row_number="32" isdata="1">אמר לי לא שמיע לי כלומר לא סבירא לי:</row>
 		<row row_number="33" isdata="1"><EndGemara/><StartMishna/>מתני' קושרין נימא במקדש אבל לא</row>
-		<row row_number="34" isdata="1">במדינה ואם בתחילה כאן וכאן אסור</row>
+		<row row_number="34" isdata="1">במדינה ואם בתחילה כאן וכאן אסור:</row>
 		<row row_number="35" isdata="1"><EndMishna/><StartGemara/>גמ' ורמינהו נימת כנור שנפסקה לא היה</row>
 		<row row_number="36" isdata="1">קושרה אלא עונבה לא קשיא הא רבנן והא</row>
 		<row row_number="37" isdata="1">ר' אליעזר לרבי אליעזר דאמר מכשירי מצוה</row>

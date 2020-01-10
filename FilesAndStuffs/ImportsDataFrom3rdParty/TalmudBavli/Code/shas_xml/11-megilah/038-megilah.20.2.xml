@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.907754</dateCreated>
-   <lastModified>2019-12-21 21:42:01.907754</lastModified>
+   <dateCreated>2020-01-06 09:32:14.904816</dateCreated>
+   <lastModified>2020-01-06 09:32:14.904816</lastModified>
  </meta>
  <masechet name="מגילה" serial="11">
 <daf value="20">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "הקורא למפרע"/><ContGemara/>ספירה ביממא היא וכולן שעשו משעלה</row>
-		<row row_number="2" isdata="1">עמוד השחר כשר מנהני מילי אמר רבא</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הקורא למפרע"/><ContGemara/>ספירה ביממא היא: וכולן שעשו משעלה</row>
+		<row row_number="2" isdata="1">עמוד השחר כשר: מנהני מילי אמר רבא</row>
 		<row row_number="3" isdata="1">דאמר קרא ויקרא אלהים לאור יום למאיר</row>
 		<row row_number="4" isdata="1">ובא קראו יום אלא מעתה ולחשך קרא</row>
 		<row row_number="5" isdata="1">לילה [למחשיך ובא קרא לילה] הא קיי"ל</row>
@@ -24,7 +24,7 @@
 		<row row_number="10" isdata="1">(למשמר) מאי ואומר וכ"ת משעלה עמוד</row>
 		<row row_number="11" isdata="1">השחר לאו יממא ומכי ערבא שמשא ליליא</row>
 		<row row_number="12" isdata="1">ואינהו מקדמי ומחשכי ת"ש (והיה) לנו</row>
-		<row row_number="13" isdata="1">הלילה משמר והיום מלאכהמתני' כל</row>
+		<row row_number="13" isdata="1">הלילה משמר והיום מלאכה<EndGemara/><StartMishna/>מתני' כל</row>
 		<row row_number="14" isdata="1">היום כשר לקריאת המגילה ולקריאת ההלל</row>
 		<row row_number="15" isdata="1">ולתקיעת שופר ולנטילת לולב ולתפלת</row>
 		<row row_number="16" isdata="1">המוספין ולמוספין ולוידוי הפרים ולוידוי</row>
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">העגלה ולטהרת המצורע כל הלילה כשר</row>
 		<row row_number="21" isdata="1">לקצירת העומר ולהקטר חלבים ואברים</row>
 		<row row_number="22" isdata="1">זה הכלל דבר שמצותו ביום כשר כל היום</row>
-		<row row_number="23" isdata="1">דבר שמצותו בלילה כשר כל הלילה</row>
+		<row row_number="23" isdata="1">דבר שמצותו בלילה כשר כל הלילה:</row>
 		<row row_number="24" isdata="1"><EndMishna/><StartGemara/>גמ' מנלן דאמר קרא והימים האלה נזכרים</row>
 		<row row_number="25" isdata="1">ונעשים לקריאת ההלל דכתיב ממזרח שמש</row>
 		<row row_number="26" isdata="1">עד מבואו (רבי יוסי) אומר זה היום עשה</row>
@@ -45,10 +45,10 @@
 		<row row_number="31" isdata="1">פרים דיליף כפרה כפרה מיום הכפורים</row>
 		<row row_number="32" isdata="1">דתניא גבי יוה"כ וכפר בעדו ובעד ביתו</row>
 		<row row_number="33" isdata="1">בכפרת דברים הכתוב מדבר וכפרה ביממא</row>
-		<row row_number="34" isdata="1">הוא דכתיב ביום הזה יכפר עליכם ולוידוי</row>
-		<row row_number="35" isdata="1">מעשר וכו' דכתיב ואמרת לפני ה' אלהיך</row>
+		<row row_number="34" isdata="1">הוא דכתיב ביום הזה יכפר עליכם: ולוידוי</row>
+		<row row_number="35" isdata="1">מעשר וכו': דכתיב ואמרת לפני ה' אלהיך</row>
 		<row row_number="36" isdata="1">בערתי הקדש מן הבית וסמיך ליה היום הזה</row>
-		<row row_number="37" isdata="1">ה' אלהיך מצוך לסמיכה ולשחיטה דכתיב</row>
+		<row row_number="37" isdata="1">ה' אלהיך מצוך: לסמיכה ולשחיטה: דכתיב</row>
 		<row row_number="38" isdata="1">וסמך ושחט וכתיב בה בשחיטה ביום</row>
 		<row row_number="39" isdata="1">זבחכם ולתנופה דכתיב ביום הניפכם את</row>
 		<row row_number="40" isdata="1">העומר ולהגשה דאיתקש לתנופה דכתיב</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:22.631796</dateCreated>
-   <lastModified>2019-12-21 21:42:22.631796</lastModified>
+   <dateCreated>2020-01-06 09:33:53.315019</dateCreated>
+   <lastModified>2020-01-06 09:33:53.315019</lastModified>
  </meta>
  <masechet name="בבא בתרא" serial="23">
 <daf value="84">
@@ -23,12 +23,12 @@
 		<row row_number="9" isdata="1">אבל לענין מקח וממכר דכולי עלמא איכא</row>
 		<row row_number="10" isdata="1">דניחא ליה בחמרא ולא ניחא ליה בחלא</row>
 		<row row_number="11" isdata="1">ואיכא דניחא ליה בחלא ולא ניחא ליה</row>
-		<row row_number="12" isdata="1">בחמראמתני' המוכר פירות לחבירו</row>
+		<row row_number="12" isdata="1">בחמרא<EndGemara/><StartMishna/>מתני' המוכר פירות לחבירו</row>
 		<row row_number="13" isdata="1">משך ולא מדד קנה מדד ולא משך לא קנה</row>
 		<row row_number="14" isdata="1">אם היה פיקח שוכר את מקומן הלוקח</row>
 		<row row_number="15" isdata="1">פשתן מחבירו הרי זה לא קנה עד שיטלטלנו</row>
 		<row row_number="16" isdata="1">ממקום למקום ואם היה מחובר לקרקע</row>
-		<row row_number="17" isdata="1">ותלש כל שהוא קנה<EndMishna/><StartGemara/>גמ' א"ר אסי א"ר</row>
+		<row row_number="17" isdata="1">ותלש כל שהוא קנה:<EndMishna/><StartGemara/>גמ' א"ר אסי א"ר</row>
 		<row row_number="18" isdata="1">יוחנן מדד והניח על גבי סימטא קנה א"ל ר'</row>
 		<row row_number="19" isdata="1">זירא לרבי אסי שמא לא שמע רבי אלא</row>
 		<row row_number="20" isdata="1">במודד לתוך קופתו א"ל דמי האי מרבנן</row>

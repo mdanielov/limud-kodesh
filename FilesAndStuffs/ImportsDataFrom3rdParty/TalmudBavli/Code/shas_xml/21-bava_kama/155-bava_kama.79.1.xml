@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:16.936443</dateCreated>
-   <lastModified>2019-12-21 21:42:16.936443</lastModified>
+   <dateCreated>2020-01-06 09:33:27.607258</dateCreated>
+   <lastModified>2020-01-06 09:33:27.607258</lastModified>
  </meta>
  <masechet name="בבא קמא" serial="21">
 <daf value="79">
@@ -23,7 +23,7 @@
 		<row row_number="9" isdata="1">מכירה דלא אפשר דלאו על ידי אחר אף</row>
 		<row row_number="10" isdata="1">טביחה ע"י אחר מחייב ואשמעינן סיפא</row>
 		<row row_number="11" isdata="1">גנב והקדיש מה לי מכרו להדיוט מה לי</row>
-		<row row_number="12" isdata="1">מכרו לשמיםמתני' גנב ברשות הבעלים</row>
+		<row row_number="12" isdata="1">מכרו לשמים<EndGemara/><StartMishna/>מתני' גנב ברשות הבעלים</row>
 		<row row_number="13" isdata="1">וטבח ומכר חוץ מרשותם או שגנב חוץ</row>
 		<row row_number="14" isdata="1">מרשותם וטבח ומכר ברשותם או שגנב</row>
 		<row row_number="15" isdata="1">וטבח ומכר חוץ מרשותם משלם תשלומי</row>
@@ -34,7 +34,7 @@
 		<row row_number="20" isdata="1">בנו או לבעל חוב לשומר חנם לשואל לנושא</row>
 		<row row_number="21" isdata="1">שכר ולשוכר והיה מושכו ומת ברשות</row>
 		<row row_number="22" isdata="1">הבעלים פטור הגביהו או שהוציאו מרשות</row>
-		<row row_number="23" isdata="1">הבעלים ומת חייב<EndMishna/><StartGemara/>גמ' בעי אמימר תיקנו</row>
+		<row row_number="23" isdata="1">הבעלים ומת חייב:<EndMishna/><StartGemara/>גמ' בעי אמימר תיקנו</row>
 		<row row_number="24" isdata="1">משיכה בשומרים או לא אמר רב יימר ת"ש נתנו לבכורות בנו או לבעל</row>
 		<row row_number="25" isdata="1">חובו לשומר חנם ולשואל לנושא שכר ולשוכר היה מושכו ויוצא ומת</row>
 		<row row_number="26" isdata="1">ברשות הבעלים פטור מאי לאו שומר וש"מ תיקנו משיכה בשומרין אמר</row>

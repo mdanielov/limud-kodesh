@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:55.375762</dateCreated>
-   <lastModified>2019-12-21 21:41:55.375762</lastModified>
+   <dateCreated>2020-01-06 09:31:29.973852</dateCreated>
+   <lastModified>2020-01-06 09:31:29.973852</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="53">
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">בגרוגרות עד שיכלו פגי בית היני אמר רבי</row>
 		<row row_number="14" isdata="1">יהודה לא הוזכרו פגי בית היני אלא לענין</row>
 		<row row_number="15" isdata="1">מעשר (דתנן) פגי בית היני ואהיני דטובינא</row>
-		<row row_number="16" isdata="1">חייבין במעשר אוכלין בתמרים עד שיכלה</row>
+		<row row_number="16" isdata="1">חייבין במעשר: אוכלין בתמרים עד שיכלה</row>
 		<row row_number="17" isdata="1">האחרון שבצוער רשב"ג אומר אוכלין על של</row>
 		<row row_number="18" isdata="1">בין הכיפין ואין אוכלין על של בין השיצין</row>
 		<row row_number="19" isdata="1">ורמינהי אוכלין בענבים עד הפסח בזיתים</row>
@@ -42,11 +42,11 @@
 		<row row_number="28" isdata="1">מינה לבכורים דתנן אין מביאין בכורים אלא משבעת המינין ולא</row>
 		<row row_number="29" isdata="1">מדקלים שבהרים ולא מפירות שבעמקים סימן לנחלים קנים נפקא מינה</row>
 		<row row_number="30" isdata="1">לנחל איתן סימן לשפלה שקמה נפקא מינה למקח וממכר השתא דאתית</row>
-		<row row_number="31" isdata="1">להכי כולהו נמי למקח וממכרמתני' מקום שנהגו למכור בהמה דקה</row>
+		<row row_number="31" isdata="1">להכי כולהו נמי למקח וממכר<EndGemara/><StartMishna/>מתני' מקום שנהגו למכור בהמה דקה</row>
 		<row row_number="32" isdata="1">לנכרים מוכרין מקום שלא נהגו למכור אין מוכרין ובכל מקום אין מוכרין</row>
 		<row row_number="33" isdata="1">להם בהמה גסה עגלים וסייחין שלמין ושבורין ר' יהודה מתיר בשבורה</row>
 		<row row_number="34" isdata="1">בן בתירא מתיר בסוס מקום שנהגו לאכול צלי בלילי פסחים אוכלין מקום</row>
-		<row row_number="35" isdata="1">שנהגו שלא לאכול אין אוכלין<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר רב אסור לו</row>
+		<row row_number="35" isdata="1">שנהגו שלא לאכול אין אוכלין:<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר רב אסור לו</row>
 		<row row_number="36" isdata="1">לאדם שיאמר בשר זה לפסח הוא מפני שנראה כמקדיש בהמתו ואוכל</row>
 		<row row_number="37" isdata="1">קדשים בחוץ אמר רב פפא דוקא בשר אבל חיטי לא דמינטר לפסחא קאמר</row>
 		<row row_number="38" isdata="1">ובשר לא מיתיבי אמר ר' יוסי תודוס איש רומי הנהיג את בני רומי לאכול</row>

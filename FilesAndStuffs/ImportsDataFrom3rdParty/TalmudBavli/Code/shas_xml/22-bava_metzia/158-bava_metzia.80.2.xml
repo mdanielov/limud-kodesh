@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:19.536413</dateCreated>
-   <lastModified>2019-12-21 21:42:19.536413</lastModified>
+   <dateCreated>2020-01-06 09:33:39.245129</dateCreated>
+   <lastModified>2020-01-06 09:33:39.245129</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="80">
@@ -23,7 +23,7 @@
 		<row row_number="9" isdata="1">חולשא הוא דנקיט ליה כור לספינה שלשת</row>
 		<row row_number="10" isdata="1">כורין לבורני גדולה אמר רב פפא ש"מ סתם</row>
 		<row row_number="11" isdata="1">ספינות בת תלתין כורין למאי נפקא מינה</row>
-		<row row_number="12" isdata="1">למקח וממכרמתני' כל האומנין שומרי</row>
+		<row row_number="12" isdata="1">למקח וממכר<EndGemara/><StartMishna/>מתני' כל האומנין שומרי</row>
 		<row row_number="13" isdata="1">שכר הן וכולן שאמרו טול את שלך והבא</row>
 		<row row_number="14" isdata="1">מעות שומר חנם שמור לי ואשמור לך</row>
 		<row row_number="15" isdata="1">שומר שכר שמור לי וא"ל הנח לפני שומר</row>
@@ -31,7 +31,7 @@
 		<row row_number="17" isdata="1">אומר הלוהו מעות שומר חנם הלוהו פירות</row>
 		<row row_number="18" isdata="1">שומר שכר אבא שאול אומר רשאי אדם</row>
 		<row row_number="19" isdata="1">להשכיר משכונו של עני להיות פוסק והולך</row>
-		<row row_number="20" isdata="1">עליו מפני שהוא כמשיב אבידה<EndMishna/><StartGemara/>גמ' לימא</row>
+		<row row_number="20" isdata="1">עליו מפני שהוא כמשיב אבידה:<EndMishna/><StartGemara/>גמ' לימא</row>
 		<row row_number="21" isdata="1">מתניתין דלא כרבי מאיר דתניא שוכר כיצד</row>
 		<row row_number="22" isdata="1">משלם רבי מאיר אומר כשומר חנם ר' יהודה</row>
 		<row row_number="23" isdata="1">אומר כשומר שכר אפילו תימא רבי מאיר</row>
@@ -47,8 +47,8 @@
 		<row row_number="33" isdata="1">ולמיפק אזוזי הוי עליה ש"ש איבעית אימא</row>
 		<row row_number="34" isdata="1">כדמחליף רבה בר אבוה ותני שוכר כיצד</row>
 		<row row_number="35" isdata="1">משלם ר' מאיר אומר כשומר שכר רבי יהודה</row>
-		<row row_number="36" isdata="1">אומר כשומר חנם וכולן שאמרו טול את</row>
-		<row row_number="37" isdata="1">שלך והבא מעות שומר חנם תנן התם</row>
+		<row row_number="36" isdata="1">אומר כשומר חנם: וכולן שאמרו טול את</row>
+		<row row_number="37" isdata="1">שלך והבא מעות שומר חנם: תנן התם</row>
 		<row row_number="38" isdata="1">אמר לו שואל שלח ושלחה ומתה חייב</row>
 		<row row_number="39" isdata="1">וכן בשעה שמחזירה אמר רפרם בר פפא אמר רב חסדא לא שנו אלא</row>
 		<row row_number="40" isdata="1">שהחזירה בתוך ימי שאילתה אבל לאחר ימי שאילתה פטור מתיב רב</row>

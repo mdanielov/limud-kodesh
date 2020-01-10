@@ -1,0 +1,24 @@
+prerequisites :
+
+run script create_insert_all.py first in order to create the database and tables and insert data in the references tables.
+
+install those modules if you do not have already :
+
+pip install python-hebrew-numbers
+
+pip install pyodbc
+
+pip install configparser
+
+create a file named settings.ini in the directory of the xml_parser.py script and paste this sample:
+
+
+[XML]
+parent_dir=C:\Git\limud-kodesh\FilesAndStuffs\ImportsDataFrom3rdParty\TalmudBavli\Code\shas_xml
+[SQL]
+table_names=TBL_MASSECHET_PEREK,TBL_DAF,TBL_MASSECHET_DAF
+server=DESKTOP-P91JIG3\SQLEXPRESS
+database_name=KiMeTzion
+
+
+the only parameters you need to change are parent_dir and server.

@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.678056</dateCreated>
-   <lastModified>2019-12-21 21:42:13.678056</lastModified>
+   <dateCreated>2020-01-06 09:33:12.646589</dateCreated>
+   <lastModified>2020-01-06 09:33:12.646589</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="90">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "המגרש"/><ContGemara/>והלכתא מותרת לשניהםמתני' בית</row>
+		<row row_number="1" isdata="1"><ContChapter name = "המגרש"/><ContGemara/>והלכתא מותרת לשניהם:מתני' ביתוהלכתא מותרת לשניהם<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">שמאי אומרים לא יגרש אדם את אשתו אלא</row>
 		<row row_number="3" isdata="1">אם כן מצא בה דבר ערוה שנאמר כי מצא</row>
 		<row row_number="4" isdata="1">בה ערות דבר ובית הלל אומרים אפילו</row>
 		<row row_number="5" isdata="1">הקדיחה תבשילו שנאמר כי מצא בה ערות</row>
 		<row row_number="6" isdata="1">דבר ר' עקיבא אומר אפי' מצא אחרת נאה</row>
-		<row row_number="7" isdata="1">הימנה שנאמ' והיה אם לא תמצא חן בעיניו</row>
+		<row row_number="7" isdata="1">הימנה שנאמ' והיה אם לא תמצא חן בעיניו:</row>
 		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' תניא אמרו בית הלל לבית שמאי והלא</row>
 		<row row_number="9" isdata="1">כבר נאמר דבר אמרו להם ב"ש והלא כבר</row>
 		<row row_number="10" isdata="1">נאמר ערות אמרו להם ב"ה אם נאמר ערות</row>
@@ -32,8 +32,8 @@
 		<row row_number="18" isdata="1">דבר מה להלן בשני עדים אף כאן בשני</row>
 		<row row_number="19" isdata="1">עדים וב"ה מי כתיב ערוה בדבר וב"ש מי</row>
 		<row row_number="20" isdata="1">כתיב או ערוה או דבר וב"ה להכי כתיב</row>
-		<row row_number="21" isdata="1">ערות דבר דמשמע הכי ומשמע הכי ר"ע</row>
-		<row row_number="22" isdata="1">אומר אפי' מצא אחרת במאי קא מיפלגי</row>
+		<row row_number="21" isdata="1">ערות דבר דמשמע הכי ומשמע הכי: ר"ע</row>
+		<row row_number="22" isdata="1">אומר אפי' מצא אחרת: במאי קא מיפלגי</row>
 		<row row_number="23" isdata="1">בדר"ל דאמר ריש לקיש כי משמש בד'</row>
 		<row row_number="24" isdata="1">לשונות אי דלמא אלא דהא ב"ש סברי</row>
 		<row row_number="25" isdata="1">[והיה אם לא תמצא חן בעיניו] כי מצא בה</row>

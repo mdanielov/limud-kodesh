@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:40.697366</dateCreated>
-   <lastModified>2019-12-21 21:42:40.697366</lastModified>
+   <dateCreated>2020-01-06 09:35:18.586451</dateCreated>
+   <lastModified>2020-01-06 09:35:18.586451</lastModified>
  </meta>
  <masechet name="כריתות" serial="35">
 <daf value="15">
@@ -21,12 +21,12 @@
 		<row row_number="7" isdata="1">מוחלקין לא אמר רב נחמן בר יצחק דלמא עד כאן לא קאמר סומכוס אלא</row>
 		<row row_number="8" isdata="1">גבי אותו ואת בנו דגופין מוחלקין אבל הכא דאין גופין מוחלקין אימא כר'</row>
 		<row row_number="9" isdata="1">אבהו א"ר יוחנן ס"ל דא"ר אבהו א"ר יוחנן שארה הנה זמה היא הכתוב</row>
-		<row row_number="10" isdata="1">עשאן לכולן זמה אחתמתני' אמר רבי עקיבא שאלתי את רבן גמליאל</row>
+		<row row_number="10" isdata="1">עשאן לכולן זמה אחת<EndGemara/><StartMishna/>מתני' אמר רבי עקיבא שאלתי את רבן גמליאל</row>
 		<row row_number="11" isdata="1">ואת ר' יהושע באיטליס של עימאום שהלכו ליקח בהמה למשתה בנו של רבן</row>
 		<row row_number="12" isdata="1">גמליאל הבא על אחותו ועל אחות אביו ועל אחות אמו מהו חייב אחת על</row>
 		<row row_number="13" isdata="1">כולן או חייב על כל אחת ואחת אמרו לו לא שמענו אבל שמענו הבא על</row>
 		<row row_number="14" isdata="1">ה' נשיו נדות בהעלם אחת שהוא חייב על כל אחת ואחת (ורואה אני)</row>
-		<row row_number="15" isdata="1">שהדברים ק"ו<EndMishna/><StartGemara/>גמ' היכי דמי אילימא כדקתני מאי תיבעי ליה הרי שמות</row>
+		<row row_number="15" isdata="1">שהדברים ק"ו:<EndMishna/><StartGemara/>גמ' היכי דמי אילימא כדקתני מאי תיבעי ליה הרי שמות</row>
 		<row row_number="16" isdata="1">מוחלקין הרי גופין מוחלקין אלא הכי קתני הבא על אחות אביו שהיא אחות</row>
 		<row row_number="17" isdata="1">אמו חייב אחת על כולן או חייב על כל אחת ואחת מהו מי אמרינן הרי</row>
 		<row row_number="18" isdata="1">שמות מוחלקין או דלמא הרי אין גופין מוחלקין אמרו לו לא שמענו אבל</row>
@@ -58,7 +58,7 @@
 		<row row_number="44" isdata="1">אנא ורב נחומי בר זכריה תרגימנא הכא במאי עסקינן בדלית המודלית על גבי</row>
 		<row row_number="45" isdata="1">תאינה וקצצן בבת אחת משום הכי מחייב רבי אליעזר הואיל ושמות מוחלקין</row>
 		<row row_number="46" isdata="1">וגופין מוחלקין דכוותה קצר וקצר היכי משכחת לה דמיפטר כגון שקצר שתי</row>
-		<row row_number="47" isdata="1">גרוגרות בבת אחת אבל קצר כגרוגרת וחזר וקצר כגרוגרת חייב</row>
+		<row row_number="47" isdata="1">גרוגרות בבת אחת אבל קצר כגרוגרת וחזר וקצר כגרוגרת חייב:</row>
 		<row row_number="48" isdata="1"><EndGemara/><StartMishna/>מתני' ועוד שאל רבי עקיבא אבר המדולדלת בבהמה מהו אמרו לו</row>
 		<row row_number="49" isdata="1">לא שמענו אבל שמענו אבר המדולדלת באדם שהוא טהור וכך היו</row>
 </amud>

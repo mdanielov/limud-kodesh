@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:59.538750</dateCreated>
-   <lastModified>2019-12-21 21:41:59.538750</lastModified>
+   <dateCreated>2020-01-06 09:31:56.752350</dateCreated>
+   <lastModified>2020-01-06 09:31:56.752350</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="34">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "לולב הגזול"/><ContGemara/>נפקא מינה לגיטי נשיםמתני' ר' ישמעאל</row>
+		<row row_number="1" isdata="1"><ContChapter name = "לולב הגזול"/><ContGemara/>נפקא מינה לגיטי נשים:מתני' ר' ישמעאלנפקא מינה לגיטי נשים<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">אומר שלשה הדסים ושתי ערבות לולב אחד</row>
 		<row row_number="3" isdata="1">ואתרוג אחד אפילו שנים קטומים ואחד אינו</row>
 		<row row_number="4" isdata="1">קטום ר' טרפון אומר אפי' שלשתן קטומים</row>
 		<row row_number="5" isdata="1">ר"ע אומר כשם שלולב אחד ואתרוג אחד</row>
-		<row row_number="6" isdata="1">כך הדס אחד וערבה אחת<EndMishna/><StartGemara/>גמ' תניא רבי</row>
+		<row row_number="6" isdata="1">כך הדס אחד וערבה אחת:<EndMishna/><StartGemara/>גמ' תניא רבי</row>
 		<row row_number="7" isdata="1">ישמעאל אומר פרי עץ הדר אחד כפת</row>
 		<row row_number="8" isdata="1">תמרים אחד ענף עץ עבות שלשה ערבי</row>
 		<row row_number="9" isdata="1">נחל שתים ואפילו שנים קטומים ואחד שאינו</row>
@@ -37,7 +37,7 @@
 		<row row_number="23" isdata="1">אסא אשוו וזבינו ואי לא דרישנא לכו כרבי</row>
 		<row row_number="24" isdata="1">טרפון מ"ט אילימא משום דמיקל ולידרוש</row>
 		<row row_number="25" isdata="1">להו כרבי עקיבא דמיקל טפי תלתא קטומי</row>
-		<row row_number="26" isdata="1">שכיחי חד ולא קטום לא שכיח</row>
+		<row row_number="26" isdata="1">שכיחי חד ולא קטום לא שכיח:</row>
 		<row row_number="27" isdata="1"><EndGemara/><StartMishna/>מתני' אתרוג הגזול והיבש פסול של</row>
 		<row row_number="28" isdata="1">אשרה ושל עיר הנדחת פסול של ערלה פסול</row>
 		<row row_number="29" isdata="1">של תרומה טמאה פסול של תרומה טהורה</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">מכשיר ור' יהודה פוסל שיעור אתרוג הקטן</row>
 		<row row_number="38" isdata="1">ר"מ אומר כאגוז רבי יהודה אומר כביצה</row>
 		<row row_number="39" isdata="1">ובגדול כדי שיאחז שנים בידו דברי ר' יהודה</row>
-		<row row_number="40" isdata="1">ורבי יוסי אומר אפי' אחד בשתי ידיו</row>
+		<row row_number="40" isdata="1">ורבי יוסי אומר אפי' אחד בשתי ידיו:</row>
 </amud>
 </daf>
 </masechet>

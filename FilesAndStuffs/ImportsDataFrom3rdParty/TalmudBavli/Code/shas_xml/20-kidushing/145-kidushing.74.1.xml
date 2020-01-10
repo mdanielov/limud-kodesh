@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:15.088440</dateCreated>
-   <lastModified>2019-12-21 21:42:15.088440</lastModified>
+   <dateCreated>2020-01-06 09:33:19.542162</dateCreated>
+   <lastModified>2020-01-06 09:33:19.542162</lastModified>
  </meta>
  <masechet name="קידושין" serial="20">
 <daf value="74">
@@ -26,8 +26,8 @@
 		<row row_number="12" isdata="1">לאחרים מכאן א"ר יהודה נאמן אדם לומר</row>
 		<row row_number="13" isdata="1">זה בני בכור וכשם שנאמן לומר זה בני</row>
 		<row row_number="14" isdata="1">בכור כך נאמן לומר זה בן גרושה וזה בן</row>
-		<row row_number="15" isdata="1">חלוצה וחכמים אומרים אינו נאמן אבא</row>
-		<row row_number="16" isdata="1">שאול היה קורא לשתוקי בדוקי מאי בדוקי</row>
+		<row row_number="15" isdata="1">חלוצה וחכמים אומרים אינו נאמן: אבא</row>
+		<row row_number="16" isdata="1">שאול היה קורא לשתוקי בדוקי: מאי בדוקי</row>
 		<row row_number="17" isdata="1">אילימא שבודקין את אמו ואומרת לכשר</row>
 		<row row_number="18" isdata="1">נבעלתי נאמנת כמאן כרבן גמליאל תנינא</row>
 		<row row_number="19" isdata="1">חדא זימנא דתנן היתה מעוברת ואמרו</row>
@@ -43,12 +43,12 @@
 		<row row_number="29" isdata="1">מדרבן גמליאל דאי מהתם ה"א התם</row>
 		<row row_number="30" isdata="1">דרוב כשרין אצלה אבל היכא דרוב פסולין</row>
 		<row row_number="31" isdata="1">אצלה אימא לא צריכא אמר רבא הלכה</row>
-		<row row_number="32" isdata="1">כאבא שאולמתני' כל האסורין לבא</row>
+		<row row_number="32" isdata="1">כאבא שאול<EndGemara/><StartMishna/>מתני' כל האסורין לבא</row>
 		<row row_number="33" isdata="1">בקהל מותרים לבא זה בזה רבי יהודה</row>
 		<row row_number="34" isdata="1">אוסר רבי אליעזר אומר ודאן בודאן מותר</row>
 		<row row_number="35" isdata="1">ודאן בספיקן וספיקן בודאן וספיקן בספיקן</row>
 		<row row_number="36" isdata="1">אסור ואלו הן הספיקות שתוקי אסופי</row>
-		<row row_number="37" isdata="1">וכותי<EndMishna/><StartGemara/>גמ' מאי כל האסורין לבא בקהל</row>
+		<row row_number="37" isdata="1">וכותי:<EndMishna/><StartGemara/>גמ' מאי כל האסורין לבא בקהל</row>
 		<row row_number="38" isdata="1">אילימא ממזירי ונתיני שתוקי ואסופי הא תנא</row>
 		<row row_number="39" isdata="1">ליה רישא ממזירי ונתיני שתוקי ואסופי</row>
 		<row row_number="40" isdata="1">מותרים לבא זה בזה ותו ר' יהודה אוסר</row>

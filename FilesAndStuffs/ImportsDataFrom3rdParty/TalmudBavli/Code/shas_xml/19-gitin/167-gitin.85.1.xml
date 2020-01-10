@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:13.577036</dateCreated>
-   <lastModified>2019-12-21 21:42:13.577036</lastModified>
+   <dateCreated>2020-01-06 09:33:12.181649</dateCreated>
+   <lastModified>2020-01-06 09:33:12.181649</lastModified>
  </meta>
  <masechet name="גיטין" serial="19">
 <daf value="85">
@@ -26,14 +26,14 @@
 		<row row_number="12" isdata="1">לדברי הכל כשר והיכי דמי לאחר התורף</row>
 		<row row_number="13" isdata="1">ולימא הרי זה פסול ורבי תנא דברי הכל</row>
 		<row row_number="14" isdata="1">אתנייה כשר בפסול מיחלף ליה הרי זה</row>
-		<row row_number="15" isdata="1">בדברי הכל לא מיחלף ליהמתני' הרי</row>
+		<row row_number="15" isdata="1">בדברי הכל לא מיחלף ליה<EndGemara/><StartMishna/>מתני' הרי</row>
 		<row row_number="16" isdata="1">את מותרת לכל אדם אלא לאבא ולאביך</row>
 		<row row_number="17" isdata="1">לאחי ולאחיך לעבד ולעובד כוכבים ולכל מי</row>
 		<row row_number="18" isdata="1">שאין לה עליו קדושין כשר הרי את מותרת</row>
 		<row row_number="19" isdata="1">לכל אדם אלא אלמנה לכהן גדול גרושה</row>
 		<row row_number="20" isdata="1">וחלוצה לכהן הדיוט ממזרת ונתינה לישראל</row>
 		<row row_number="21" isdata="1">בת ישראל לממזר ולנתין וכל מי שיש לה</row>
-		<row row_number="22" isdata="1">עליו קדושין אפילו בעבירה פסול<EndMishna/><StartGemara/>גמ' כללא</row>
+		<row row_number="22" isdata="1">עליו קדושין אפילו בעבירה פסול:<EndMishna/><StartGemara/>גמ' כללא</row>
 		<row row_number="23" isdata="1">דרישא לאתויי שאר חייבי כריתות כללא</row>
 		<row row_number="24" isdata="1">דסיפא לאתויי שאר חייבי לאוין (כגון עמוני</row>
 		<row row_number="25" isdata="1">ומואבי נתיני מצרי ואדומי) בעא מיניה רבא</row>
@@ -62,7 +62,7 @@
 		<row row_number="48" isdata="1">הא לא שייר או דלמא קנין כספו כתיב חוץ מירושתיך מהו בנשואין</row>
 		<row row_number="49" isdata="1">הא לא שייר או דלמא לשארו וירש אותה כתיב חוץ מקידושיך בשטר</row>
 		<row row_number="50" isdata="1">מהו מי אמרינן אפשר דמקדש לה בכסף ובביאה או דלמא ויצאה והיתה</row>
-		<row row_number="51" isdata="1">איתקוש הוויות להדדי תיקומתני' גופו של גט הרי את מותרת לכל אדם</row>
+		<row row_number="51" isdata="1">איתקוש הוויות להדדי תיקו<EndGemara/><StartMishna/>מתני' גופו של גט הרי את מותרת לכל אדם</row>
 </amud>
 </daf>
 </masechet>

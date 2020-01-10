@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:01.970749</dateCreated>
-   <lastModified>2019-12-21 21:42:01.970749</lastModified>
+   <dateCreated>2020-01-06 09:32:15.293503</dateCreated>
+   <lastModified>2020-01-06 09:32:15.293503</lastModified>
  </meta>
  <masechet name="מגילה" serial="11">
 <daf value="24">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "הקורא את המגילה עומד"/><ContGemara/>הכא נמי איכא נצויי אביו ונצויי רבו פוחח</row>
-		<row row_number="2" isdata="1">פורס על שמע וכו' בעא מיניה עולא בר</row>
+		<row row_number="1" isdata="1"><ContChapter name = "הקורא את המגילה עומד"/><ContGemara/>הכא נמי איכא נצויי אביו ונצויי רבו: פוחח</row>
+		<row row_number="2" isdata="1">פורס על שמע וכו': בעא מיניה עולא בר</row>
 		<row row_number="3" isdata="1">רב מאביי קטן פוחח מהו שיקרא בתורה</row>
 		<row row_number="4" isdata="1">אמר ליה ותיבעי לך ערום ערום מאי טעמא</row>
 		<row row_number="5" isdata="1">לא משום כבוד צבור הכא נמי משום כבוד</row>
-		<row row_number="6" isdata="1">צבור סומא פורס על שמע וכו' תניא</row>
+		<row row_number="6" isdata="1">צבור: סומא פורס על שמע וכו': תניא</row>
 		<row row_number="7" isdata="1">אמרו לו לרבי יהודה הרבה צפו לדרוש</row>
 		<row row_number="8" isdata="1">במרכבה ולא ראו אותה מימיהם ור' יהודה</row>
 		<row row_number="9" isdata="1">התם באבנתא דליבא תליא מילתא והא קא</row>
@@ -31,9 +31,9 @@
 		<row row_number="17" isdata="1">וראיתי סומא שהיה מהלך בדרך ואבוקה</row>
 		<row row_number="18" isdata="1">בידו אמרתי לו בני אבוקה זו למה לך אמר</row>
 		<row row_number="19" isdata="1">לי כל זמן שאבוקה בידי בני אדם רואין אותי ומצילין אותי מן הפחתין ומן</row>
-		<row row_number="20" isdata="1">הקוצין ומן הברקניןמתני' כהן שיש בידיו מומין לא ישא את כפיו ר'</row>
+		<row row_number="20" isdata="1">הקוצין ומן הברקנין<EndGemara/><StartMishna/>מתני' כהן שיש בידיו מומין לא ישא את כפיו ר'</row>
 		<row row_number="21" isdata="1">יהודה אומר אף מי שהיו ידיו צבועות סטיס לא ישא את כפיו מפני שהעם</row>
-		<row row_number="22" isdata="1">מסתכלין בו<EndMishna/><StartGemara/>גמ' תנא מומין שאמרו בפניו ידיו ורגליו אמר ר' יהושע</row>
+		<row row_number="22" isdata="1">מסתכלין בו:<EndMishna/><StartGemara/>גמ' תנא מומין שאמרו בפניו ידיו ורגליו אמר ר' יהושע</row>
 		<row row_number="23" isdata="1">בן לוי ידיו בוהקניות לא ישא את כפיו תניא נמי הכי ידיו בוהקניות לא ישא</row>
 		<row row_number="24" isdata="1">את כפיו עקומות עקושות לא ישא את כפיו אמר רב אסי חיפני (ובשיני)</row>
 		<row row_number="25" isdata="1">לא ישא את כפיו תניא נמי הכי אין מורידין לפני התיבה לא אנשי בית שאן</row>
@@ -45,15 +45,15 @@
 		<row row_number="31" isdata="1">ההוא דש בעירו הוה תניא נמי הכי זבלגן לא ישא את כפיו ואם היה דש</row>
 		<row row_number="32" isdata="1">בעירו מותר א"ר יוחנן סומא באחת מעיניו לא ישא את כפיו והא ההוא</row>
 		<row row_number="33" isdata="1">דהוה בשיבבותיה דרבי יוחנן דהוה פריס ידיה ההוא דש בעירו הוה תניא</row>
-		<row row_number="34" isdata="1">נמי הכי סומא באחת מעיניו לא ישא את כפיו ואם היה דש בעירו מותר</row>
-		<row row_number="35" isdata="1">ר"י אומר מי שהיו ידיו צבועות לא ישא את כפיו תנא אם רוב אנשי העיר</row>
-		<row row_number="36" isdata="1">מלאכתן בכך מותרמתני' האומר איני עובר לפני התיבה בצבועין אף</row>
+		<row row_number="34" isdata="1">נמי הכי סומא באחת מעיניו לא ישא את כפיו ואם היה דש בעירו מותר:</row>
+		<row row_number="35" isdata="1">ר"י אומר מי שהיו ידיו צבועות לא ישא את כפיו: תנא אם רוב אנשי העיר</row>
+		<row row_number="36" isdata="1">מלאכתן בכך מותר<EndGemara/><StartMishna/>מתני' האומר איני עובר לפני התיבה בצבועין אף</row>
 		<row row_number="37" isdata="1">בלבנים לא יעבור בסנדל איני עובר אף יחף לא יעבור העושה תפלתו</row>
 		<row row_number="38" isdata="1">עגולה סכנה ואין בה מצוה נתנה על מצחו או על פס ידו הרי זו דרך המינות</row>
-		<row row_number="39" isdata="1">ציפן זהב ונתנה על בית אונקלי שלו ה"ז דרך החיצונים<EndMishna/><StartGemara/>גמ' מ"ט חיישינן</row>
-		<row row_number="40" isdata="1">שמא מינות נזרקה בו העושה תפלתו עגולה סכנה ואין בה מצוה לימא</row>
+		<row row_number="39" isdata="1">ציפן זהב ונתנה על בית אונקלי שלו ה"ז דרך החיצונים:<EndMishna/><StartGemara/>גמ' מ"ט חיישינן</row>
+		<row row_number="40" isdata="1">שמא מינות נזרקה בו: העושה תפלתו עגולה סכנה ואין בה מצוה: לימא</row>
 		<row row_number="41" isdata="1">תנינא להא דתנו רבנן תפלין מרובעות הלכה למשה מסיני ואמר רבא</row>
-		<row row_number="42" isdata="1">בתפרן ובאלכסונן אמר רב פפא מתניתין דעבידא כי אמגוזאמתני' האומר</row>
+		<row row_number="42" isdata="1">בתפרן ובאלכסונן אמר רב פפא מתניתין דעבידא כי אמגוזא<EndGemara/><StartMishna/>מתני' האומר</row>
 </amud>
 </daf>
 </masechet>

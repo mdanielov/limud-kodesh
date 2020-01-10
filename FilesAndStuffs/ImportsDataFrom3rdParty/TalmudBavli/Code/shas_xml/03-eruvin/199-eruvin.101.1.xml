@@ -6,15 +6,15 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:54.011304</dateCreated>
-   <lastModified>2019-12-21 21:41:54.011304</lastModified>
+   <dateCreated>2020-01-06 09:31:24.165040</dateCreated>
+   <lastModified>2020-01-06 09:31:24.165040</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="101">
 	<amud value="1">
 		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContMishna/>מתני' הדלת שבמוקצה וחדקים שבפרצה<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">ומחצלות אין נועלין בהן אלא אם כן גבוהים</row>
-		<row row_number="3" isdata="1">מן הארץ<EndMishna/><StartGemara/>גמ' ורמינהו דלת הנגררת</row>
+		<row row_number="3" isdata="1">מן הארץ:<EndMishna/><StartGemara/>גמ' ורמינהו דלת הנגררת</row>
 		<row row_number="4" isdata="1">ומחצלת הנגררת וקנקן הנגרר בזמן שקשורין</row>
 		<row row_number="5" isdata="1">ותלויין נועלין בהן בשבת ואין צריך לומר</row>
 		<row row_number="6" isdata="1">ביום טוב אמר אביי בשיש להם ציר רבא</row>
@@ -36,11 +36,11 @@
 		<row row_number="22" isdata="1">מאי טובם כחדק כשם שחדקים הללו מגינין על הפירצה כך טובים שבנו</row>
 		<row row_number="23" isdata="1">מגינים עלינו דבר אחר טובם כחדק שמהדקין את הרשעים לגיהנם</row>
 		<row row_number="24" isdata="1">שנאמר קומי ודושי בת ציון כי קרנך אשים ברזל ופרסותיך אשים נחושה</row>
-		<row row_number="25" isdata="1">והדיקות עמים רבים וגו'מתני' לא יעמוד אדם ברשות היחיד</row>
+		<row row_number="25" isdata="1">והדיקות עמים רבים וגו'<EndGemara/><StartMishna/>מתני' לא יעמוד אדם ברשות היחיד</row>
 		<row row_number="26" isdata="1">ויפתח ברשות הרבים ברשות הרבים ויפתח ברשות היחיד אא"כ עשה</row>
 		<row row_number="27" isdata="1">מחיצה גבוה עשרה טפחים דברי ר' מאיר אמרו לו מעשה בשוק של</row>
 		<row row_number="28" isdata="1">פטמים שהיה בירושלים שהיו נועלין ומניחין את המפתח בחלון שעל</row>
-		<row row_number="29" isdata="1">גבי הפתח רבי יוסי אומר שוק של צמרים הוה<EndMishna/><StartGemara/>גמ' ורבנן אמר רבי</row>
+		<row row_number="29" isdata="1">גבי הפתח רבי יוסי אומר שוק של צמרים הוה:<EndMishna/><StartGemara/>גמ' ורבנן אמר רבי</row>
 		<row row_number="30" isdata="1">מאיר רשות הרבים ומהדרו אינהו כרמלית דאמר רבה בר בר חנה אמר</row>
 		<row row_number="31" isdata="1">רבי יוחנן ירושלים אלמלא דלתותיה ננעלות בלילה חייבין עליה משום</row>
 		<row row_number="32" isdata="1">רשות הרבים אמר רב פפא כאן קודם שנפרצו בה פרצות כאן לאחר</row>

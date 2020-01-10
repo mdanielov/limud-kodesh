@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:20.502424</dateCreated>
-   <lastModified>2019-12-21 21:42:20.502424</lastModified>
+   <dateCreated>2020-01-06 09:33:42.995066</dateCreated>
+   <lastModified>2020-01-06 09:33:42.995066</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="119">
@@ -20,15 +20,16 @@
 		<row row_number="6" isdata="1">משום דממונא אבל גבי ערלה דאיסורא</row>
 		<row row_number="7" isdata="1">אימא מודי ליה לר' מאיר ואי איתמר בהא</row>
 		<row row_number="8" isdata="1">בהא קאמר ר' מאיר אבל בההיא אימא</row>
-		<row row_number="9" isdata="1">מודי ליה לר' יהודה צריכי [אמר] ר"ש</row>
-		<row row_number="10" isdata="1">(אומר) כל שהעליון יכול לפשוט [וכו']</row>
+		<row row_number="9" isdata="1">מודי ליה לר' יהודה צריכי: [אמר] ר"ש</row>
+		<row row_number="10" isdata="1">(אומר) כל שהעליון יכול לפשוט [וכו']:</row>
 		<row row_number="11" isdata="1">אמרי דבי רבי ינאי ובלבד שלא יאנס</row>
 		<row row_number="12" isdata="1">בעי רב ענן ואיתימא רבי ירמיה מגיע</row>
 		<row row_number="13" isdata="1">לנופו ואין מגיע לעיקרו מגיע לעיקרו ואין</row>
-		<row row_number="14" isdata="1">מגיע לנופו מאי תיקו אמר אפרים ספרא</row>
+		<row row_number="14" isdata="1">מגיע לנופו מאי תיקו: אמר אפרים ספרא</row>
 		<row row_number="15" isdata="1">תלמידו של ריש לקיש משום ריש לקיש</row>
 		<row row_number="16" isdata="1">הלכה כר"ש אמרוה קמיה דשבור מלכא</row>
-		<row row_number="17" isdata="0">אמר להו אפריון נמטייה לרבי שמעון</row>
+		<row row_number="17" isdata="1">אמר להו אפריון נמטייה לרבי שמעון:<EndChapter name = "הבית והעלייה"/><EndGemara/></row>
+		<row row_number="18" isdata="0">הדרן עלך הבית והעלייה וסליקא לה מסכת בבא מציעא</row>
 </amud>
 </daf>
 </masechet>

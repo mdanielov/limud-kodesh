@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:56.910149</dateCreated>
-   <lastModified>2019-12-21 21:41:56.910149</lastModified>
+   <dateCreated>2020-01-06 09:31:36.795852</dateCreated>
+   <lastModified>2020-01-06 09:31:36.795852</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="120">
@@ -27,7 +27,7 @@
 		<row row_number="13" isdata="1">באחרונה באחרונה אין בראשונה לא לא</row>
 		<row row_number="14" isdata="1">מיבעיא קאמר לא מיבעיא בראשונה דקאכיל</row>
 		<row row_number="15" isdata="1">לתיאבון אבל באחרונה דאתי למיכלה אכילה</row>
-		<row row_number="16" isdata="1">גסה אימא לא קמ"ל אמר רבא מצה בזמן</row>
+		<row row_number="16" isdata="1">גסה אימא לא קמ"ל: אמר רבא מצה בזמן</row>
 		<row row_number="17" isdata="1">הזה דאורייתא ומרור דרבנן ומאי שנא מרור</row>
 		<row row_number="18" isdata="1">דכתיב על מצות ומרורים בזמן דאיכא פסח</row>
 		<row row_number="19" isdata="1">יש מרור ובזמן דליכא פסח ליכא מרור מצה</row>
@@ -51,7 +51,7 @@
 		<row row_number="37" isdata="1">הראשון רשות תלמוד לומר על מצות ומרורים</row>
 		<row row_number="38" isdata="1">יאכלוהו אין לי אלא בזמן שבית המקדש</row>
 		<row row_number="39" isdata="1">קיים בזמן שאין בית המקדש קיים מנין</row>
-		<row row_number="40" isdata="1">ת"ל בערב תאכלו מצות הכתוב קבעו חובה</row>
+		<row row_number="40" isdata="1">ת"ל בערב תאכלו מצות הכתוב קבעו חובה:</row>
 		<row row_number="41" isdata="1"><EndGemara/><StartMishna/>מתני' ישנו מקצתן יאכלו כולן לא יאכלו</row>
 </amud>
 </daf>

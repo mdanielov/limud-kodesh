@@ -6,18 +6,18 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:34.636233</dateCreated>
-   <lastModified>2019-12-21 21:42:34.636233</lastModified>
+   <dateCreated>2020-01-06 09:34:49.418672</dateCreated>
+   <lastModified>2020-01-06 09:34:49.418672</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="89">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "שתי מדות"/><ContGemara/>של יום בשל אמש אבל אין מערבין נסכי</row>
+		<row row_number="1" isdata="1"><ContChapter name = "שתי מדות"/><ContMishna/>של יום בשל אמש אבל אין מערבין נסכי</row>
 		<row row_number="2" isdata="1">כבשים בנסכי פרים ואילים ואם בללן אלו</row>
 		<row row_number="3" isdata="1">בפני עצמן ואלו בפני עצמן ונתערבו כשרים</row>
 		<row row_number="4" isdata="1">אם עד שלא בלל פסול הכבש הבא עם</row>
 		<row row_number="5" isdata="1">העומר אע"פ שמנחתו כפולה לא היו נסכיו</row>
-		<row row_number="6" isdata="1">כפולים<EndMishna/><StartGemara/>גמ' ורמינהו והקטירו שלא יערב</row>
+		<row row_number="6" isdata="1">כפולים:<EndMishna/><StartGemara/>גמ' ורמינהו והקטירו שלא יערב</row>
 		<row row_number="7" isdata="1">חלבים בחלבים אמר ר' יוחנן אם נתערבו קא</row>
 		<row row_number="8" isdata="1">אמר אי הכי ואין מערבין נסכי כבשים</row>
 		<row row_number="9" isdata="1">בנסכי פרים ואילים ואפי' נתערבו נמי לא</row>
@@ -30,8 +30,8 @@
 		<row row_number="16" isdata="1">דהוקטר סלתן ושמנן מערבין יין לכתחלה</row>
 		<row row_number="17" isdata="1">היכא דלא הוקטר אם נתערב סלתן ושמנן</row>
 		<row row_number="18" isdata="1">מערבין נמי יינן ואם לאו אין מערבין דלמא</row>
-		<row row_number="19" isdata="1">אתי לאיערובי סלת ושמן לכתחלה כבש</row>
-		<row row_number="20" isdata="1">הבא עם העומר ת"ר ומנחתו שני עשרונים</row>
+		<row row_number="19" isdata="1">אתי לאיערובי סלת ושמן לכתחלה: כבש</row>
+		<row row_number="20" isdata="1">הבא עם העומר: ת"ר ומנחתו שני עשרונים</row>
 		<row row_number="21" isdata="1">לימד על כבש הבא עם העומר שמנחתו</row>
 		<row row_number="22" isdata="1">כפולה יכול כשם שמנחתו כפולה כך יינו</row>
 		<row row_number="23" isdata="1">כפול תלמוד לומר ונסכו יין רביעית ההין</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:47.363047</dateCreated>
-   <lastModified>2019-12-21 21:41:47.364008</lastModified>
+   <dateCreated>2020-01-06 09:30:56.172347</dateCreated>
+   <lastModified>2020-01-06 09:30:56.172347</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="49">
@@ -35,7 +35,7 @@
 		<row row_number="21" isdata="1">אמר רב הונא אמר רב טעה אומר ברוך</row>
 		<row row_number="22" isdata="1">שנתן לאו איתמר עלה לא שנו אלא שלא</row>
 		<row row_number="23" isdata="1">פתח בהטוב והמטיב אבל פתח בהטוב</row>
-		<row row_number="24" isdata="1">והמטיב חוזר לראש עד כמה מזמנין וכו'</row>
+		<row row_number="24" isdata="1">והמטיב חוזר לראש: עד כמה מזמנין וכו':</row>
 		<row row_number="25" isdata="1">למימרא דרבי מאיר חשיב ליה כזית ורבי</row>
 		<row row_number="26" isdata="1">יהודה כביצה והא איפכא שמעינן להו דתנן</row>
 		<row row_number="27" isdata="1">וכן מי שיצא מירושלים ונזכר שהיה בידו</row>
@@ -47,7 +47,7 @@
 		<row row_number="33" isdata="1">זו אכילה ושבעת זו שתיה ואכילה בכזית ורבי יהודה סבר ואכלת ושבעת</row>
 		<row row_number="34" isdata="1">אכילה שיש בה שביעה ואיזו זו כביצה התם בסברא פליגי ר' מאיר סבר</row>
 		<row row_number="35" isdata="1">חזרתו כטומאתו מה טומאתו בכביצה אף חזרתו בכביצה ור' יהודה סבר</row>
-		<row row_number="36" isdata="1">חזרתו כאיסורו מה איסורו בכזית אף חזרתו בכזיתמתני' כיצד מזמנין</row>
+		<row row_number="36" isdata="1">חזרתו כאיסורו מה איסורו בכזית אף חזרתו בכזית<EndGemara/><StartMishna/>מתני' כיצד מזמנין</row>
 		<row row_number="37" isdata="1">בשלשה אומר נברך בשלשה והוא אומר ברכו בעשרה אומר נברך אלהינו</row>
 		<row row_number="38" isdata="1">בעשרה והוא אומר ברכו אחד עשרה ואחד עשרה רבוא במאה הוא אומר</row>
 		<row row_number="39" isdata="1">נברך ה' אלהינו במאה והוא אומר ברכו באלף הוא אומר נברך לה' אלהינו</row>
@@ -57,7 +57,7 @@
 		<row row_number="43" isdata="1">יושב הכרובים על המזון שאכלנו ר' יוסי הגלילי אומר לפי רוב הקהל הם</row>
 		<row row_number="44" isdata="1">מברכים שנאמר במקהלות ברכו אלהים ה' ממקור ישראל אמר ר' עקיבא</row>
 		<row row_number="45" isdata="1">מה מצינו בבית הכנסת אחד מרובים ואחד מועטים אומר ברכו את ה'</row>
-		<row row_number="46" isdata="1">רבי ישמעאל אומר ברכו את ה' המבורך<EndMishna/><StartGemara/>גמ' אמר שמואל לעולם</row>
+		<row row_number="46" isdata="1">רבי ישמעאל אומר ברכו את ה' המבורך:<EndMishna/><StartGemara/>גמ' אמר שמואל לעולם</row>
 		<row row_number="47" isdata="1">אל יוציא אדם את עצמו מן הכלל תנן בשלשה והוא אומר ברכו אימא</row>
 </amud>
 </daf>

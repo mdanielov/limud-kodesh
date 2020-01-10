@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:09.269981</dateCreated>
-   <lastModified>2019-12-21 21:42:09.269981</lastModified>
+   <dateCreated>2020-01-06 09:32:50.946337</dateCreated>
+   <lastModified>2020-01-06 09:32:50.946337</lastModified>
  </meta>
  <masechet name="נדרים" serial="16">
 <daf value="86">
@@ -16,13 +16,13 @@
 		<row row_number="2" isdata="1">הגוף דמי וכדרבא דאמר רבא הקדש</row>
 		<row row_number="3" isdata="1">חמץ ושחרור מפקיעין מידי שעבוד אי</row>
 		<row row_number="4" isdata="1">הכי למה לי שמא יגרשנה תני ועוד</row>
-		<row row_number="5" isdata="1">שמא יגרשנהמתני' נדרה אשתו וסבור</row>
+		<row row_number="5" isdata="1">שמא יגרשנה<EndGemara/><StartMishna/>מתני' נדרה אשתו וסבור</row>
 		<row row_number="6" isdata="1">שנדרה בתו נדרה בתו וסבור שנדרה אשתו</row>
 		<row row_number="7" isdata="1">נדרה בנזיר וסבור שנדרה בקרבן נדרה</row>
 		<row row_number="8" isdata="1">בקרבן וסבור שנדרה בנזיר נדרה מתאנים</row>
 		<row row_number="9" isdata="1">וסבור שנדרה מן הענבים נדרה מן הענבים</row>
 		<row row_number="10" isdata="1">וסבור שנדרה מן התאנים הרי זה יחזור</row>
-		<row row_number="11" isdata="1">ויפר<EndMishna/><StartGemara/>גמ' למימרא דיניא אותה דוקא הוא</row>
+		<row row_number="11" isdata="1">ויפר:<EndMishna/><StartGemara/>גמ' למימרא דיניא אותה דוקא הוא</row>
 </amud>
 </daf>
 </masechet>

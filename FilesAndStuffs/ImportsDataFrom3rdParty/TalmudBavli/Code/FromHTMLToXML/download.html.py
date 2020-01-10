@@ -10,7 +10,7 @@ url_base2 = "&daf="
 url_base3="&format=text"
 
 #static output variables
-base_dir = "C:\\Matarah\\limud-kodesh\\FilesAndStuffs\\ImportsDataFrom3rdParty\\TalmudBavli\\HTMLFilesFromHebrewBooks\\"
+base_dir = "E:\\kodesh\\hebrewbooks-shas\\"
 
 #daf start
 daf_start = "2"

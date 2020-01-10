@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:33.169451</dateCreated>
-   <lastModified>2019-12-21 21:42:33.169451</lastModified>
+   <dateCreated>2020-01-06 09:34:42.736008</dateCreated>
+   <lastModified>2020-01-06 09:34:42.736008</lastModified>
  </meta>
  <masechet name="מנחות" serial="30">
 <daf value="18">
@@ -46,9 +46,9 @@
 		<row row_number="32" isdata="1">מפני (פלוגתא) אנן נמי פלוגתא קא</row>
 		<row row_number="33" isdata="1">מתנינן אלא לעולם דברי הכל פסול אתנייה</row>
 		<row row_number="34" isdata="1">ומאי החזרת לי אבידתי דהדר ליה מיהא שום</row>
-		<row row_number="35" isdata="1">פסלות בעולםמתני' לא יצק לא בלל</row>
+		<row row_number="35" isdata="1">פסלות בעולם<EndGemara/><StartMishna/>מתני' לא יצק לא בלל</row>
 		<row row_number="36" isdata="1">ולא פתת ולא מלח ולא הניף לא הגיש או</row>
-		<row row_number="37" isdata="1">שפתתן פתים מרובות ולא משחן כשירה</row>
+		<row row_number="37" isdata="1">שפתתן פתים מרובות ולא משחן כשירה:</row>
 		<row row_number="38" isdata="1"><EndMishna/><StartGemara/>גמ' מאי לא יצק אילימא לא יצק כלל</row>
 		<row row_number="39" isdata="1">עיכובא כתב בה אלא לא יצק כהן</row>
 		<row row_number="40" isdata="1">אלא זר אי הכי לא בלל נמי לא בלל</row>

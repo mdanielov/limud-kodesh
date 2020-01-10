@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:49.769983</dateCreated>
-   <lastModified>2019-12-21 21:41:49.769983</lastModified>
+   <dateCreated>2020-01-06 09:31:07.676900</dateCreated>
+   <lastModified>2020-01-06 09:31:07.676900</lastModified>
  </meta>
  <masechet name="שבת" serial="02">
 <daf value="93">
@@ -26,7 +26,7 @@
 		<row row_number="12" isdata="1">אין בו ממש אמר רבינא אף אנן נמי תנינא</row>
 		<row row_number="13" isdata="1">קיבל בימין ושמאל מסייעתו עבודתו כשרה</row>
 		<row row_number="14" isdata="1">ואמאי הא קא מסייע בהדי הדדי לאו משום</row>
-		<row row_number="15" isdata="1">דאמרינן מסייע אין בו ממש ש"מ אמר מר</row>
+		<row row_number="15" isdata="1">דאמרינן מסייע אין בו ממש ש"מ: אמר מר</row>
 		<row row_number="16" isdata="1">זה יכול וזה יכול ר"מ מחייב איבעיא להו</row>
 		<row row_number="17" isdata="1">בעינן שיעור לזה ושיעור לזה או דילמא שיעור</row>
 		<row row_number="18" isdata="1">אחד לכולם רב חסדא ורב המנונא חד אמר</row>
@@ -53,10 +53,10 @@
 		<row row_number="39" isdata="1">קנה דעלמא מ"ש דגרדי ודילמא דאית בי' כדי לארוג מפה לזה וכדי לארוג מפה</row>
 		<row row_number="40" isdata="1">לזה אלא מהא ליכא למשמע מינה תני תנא קמיה דרב נחמן שנים שהוציאו</row>
 		<row row_number="41" isdata="1">קנה של גרדי פטורין ורבי שמעון מחייב כלפי לייא אלא אימא חייבין ור"ש</row>
-		<row row_number="42" isdata="1">פוטרמתני' המוציא אוכלין פחות מכשיעור בכלי פטור אף על הכלי</row>
+		<row row_number="42" isdata="1">פוטר<EndGemara/><StartMishna/>מתני' המוציא אוכלין פחות מכשיעור בכלי פטור אף על הכלי</row>
 		<row row_number="43" isdata="1">שהכלי טפלה לו את החי במטה פטור אף על המטה שהמטה טפלה לו את</row>
 		<row row_number="44" isdata="1">המת במטה חייב וכן כזית מן המת וכזית מן הנבלה וכעדשה מן השרץ חייב</row>
-		<row row_number="45" isdata="1">ורבי שמעון פוטר<EndMishna/><StartGemara/>גמ' ת"ר המוציא אוכלין כשיעור אם בכלי חייב על האוכלין</row>
+		<row row_number="45" isdata="1">ורבי שמעון פוטר:<EndMishna/><StartGemara/>גמ' ת"ר המוציא אוכלין כשיעור אם בכלי חייב על האוכלין</row>
 		<row row_number="46" isdata="1">ופטור על הכלי ואם היה כלי צריך לו חייב אף על הכלי שמע מינה אוכל שני</row>
 		<row row_number="47" isdata="1">זיתי חלב בהעלם אחד חייב שתים אמר רב ששת הכא במאי עסקינן כגון</row>
 </amud>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:58.579287</dateCreated>
-   <lastModified>2019-12-21 21:41:58.579287</lastModified>
+   <dateCreated>2020-01-06 09:31:49.216592</dateCreated>
+   <lastModified>2020-01-06 09:31:49.216592</lastModified>
  </meta>
  <masechet name="יומא" serial="06">
 <daf value="66">
@@ -35,7 +35,7 @@
 		<row row_number="21" isdata="1">דכ"ע [לא] חיישינן לתקלה והכא בפלוגתא</row>
 		<row row_number="22" isdata="1">דרבי ורבנן קא מיפלגי ולא קשיא הא רבי</row>
 		<row row_number="23" isdata="1">הא רבנן והתניא וכן המעות אלא לאו שמע</row>
-		<row row_number="24" isdata="1">מינה בתקלה פליגי שמע מינהמתני' בא</row>
+		<row row_number="24" isdata="1">מינה בתקלה פליגי שמע מינה<EndGemara/><StartMishna/>מתני' בא</row>
 		<row row_number="25" isdata="1">לו אצל שעיר המשתלח וסומך שתי ידיו</row>
 		<row row_number="26" isdata="1">עליו ומתודה וכך היה אומר אנא השם</row>
 		<row row_number="27" isdata="1">חטאו עוו פשעו לפניך עמך בית ישראל</row>
@@ -54,11 +54,11 @@
 		<row row_number="40" isdata="1">להוליכו אמר רבי יוסי מעשה והוליכו</row>
 		<row row_number="41" isdata="1">ערסלא וישראל היה וכבש עשו לו</row>
 		<row row_number="42" isdata="1">מפני הבבליים שהיו מתלשים בשערו</row>
-		<row row_number="43" isdata="1">ואומרים לו טול וצא טול וצא<EndMishna/><StartGemara/>גמ' ואילו</row>
+		<row row_number="43" isdata="1">ואומרים לו טול וצא טול וצא:<EndMishna/><StartGemara/>גמ' ואילו</row>
 		<row row_number="44" isdata="1">בני אהרן עם קדושך לא קאמר מאן תנא</row>
 		<row row_number="45" isdata="1">אמר ר' ירמיה דלא כרבי יהודה דאי כרבי יהודה הא אמר יש להם כפרה</row>
 		<row row_number="46" isdata="1">בשעיר המשתלח אביי אמר אפילו תימא רבי יהודה אטו כהנים לאו בכלל</row>
-		<row row_number="47" isdata="1">עמך ישראל נינהו מסרו למי שמוליכו ת"ר איש להכשיר את הזר עתי</row>
+		<row row_number="47" isdata="1">עמך ישראל נינהו: מסרו למי שמוליכו: ת"ר איש להכשיר את הזר עתי</row>
 </amud>
 </daf>
 </masechet>

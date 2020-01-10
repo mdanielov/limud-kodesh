@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:27.448180</dateCreated>
-   <lastModified>2019-12-21 21:42:27.448180</lastModified>
+   <dateCreated>2020-01-06 09:34:15.675577</dateCreated>
+   <lastModified>2020-01-06 09:34:15.675577</lastModified>
  </meta>
  <masechet name="מכות" serial="25">
 <daf value="4">
@@ -39,7 +39,7 @@
 		<row row_number="25" isdata="1">לוגין שאובין שלא יהו במקום אחד  וכן</row>
 		<row row_number="26" isdata="1">ככר של תרומה שנפל שם טמא מאי וכן מהו</row>
 		<row row_number="27" isdata="1">דתימא התם אוקי גברא אחזקיה הכא אוקי</row>
-		<row row_number="28" isdata="1">תרומה אחזקה קמ"למתני' מעידין אנו</row>
+		<row row_number="28" isdata="1">תרומה אחזקה קמ"ל<EndGemara/><StartMishna/>מתני' מעידין אנו</row>
 		<row row_number="29" isdata="1">באיש פלוני שחייב לחבירו מאתים זוז ונמצאו</row>
 		<row row_number="30" isdata="1">זוממין לוקין ומשלמין שלא השם המביאן</row>
 		<row row_number="31" isdata="1">לידי מכות מביאן לידי תשלומין דברי ר'</row>
@@ -48,7 +48,7 @@
 		<row row_number="34" isdata="1">ונמצאו זוממין לוקין שמונים משום</row>
 		<row row_number="35" isdata="1">לא תענה ברעך עד שקר ומשום</row>
 		<row row_number="36" isdata="1">ועשיתם לו כאשר זמם דברי ר' מאיר</row>
-		<row row_number="37" isdata="1">וחכ"א אין לוקין אלא ארבעים<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="37" isdata="1">וחכ"א אין לוקין אלא ארבעים:<EndMishna/><StartGemara/>גמ'</row>
 </amud>
 </daf>
 </masechet>

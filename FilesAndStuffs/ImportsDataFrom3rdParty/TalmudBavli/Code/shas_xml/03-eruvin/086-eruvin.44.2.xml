@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:52.675553</dateCreated>
-   <lastModified>2019-12-21 21:41:52.675553</lastModified>
+   <dateCreated>2020-01-06 09:31:18.533097</dateCreated>
+   <lastModified>2020-01-06 09:31:18.533097</lastModified>
  </meta>
  <masechet name="עירובין" serial="03">
 <daf value="44">
@@ -16,7 +16,7 @@
 		<row row_number="2" isdata="1">קשיא כאן לדעת כאן שלא מדעת והא</row>
 		<row row_number="3" isdata="1">דרבי נחמיה בריה דרבי חנילאי לדעת הוה</row>
 		<row row_number="4" isdata="1">שלא מדעת הוה רב חסדא מיהא לדעת הוה</row>
-		<row row_number="5" isdata="1">רב חסדא שלא מן המנין הוה הנהו בני גננא</row>
+		<row row_number="5" isdata="1">רב חסדא שלא מן המנין הוה: הנהו בני גננא</row>
 		<row row_number="6" isdata="1">דאעילו מיא במחיצה של בני אדם נגדינהו</row>
 		<row row_number="7" isdata="1">שמואל אמר אם אמרו שלא מדעת יאמרו</row>
 		<row row_number="8" isdata="1">לדעת הנהו זיקי דהוה שדיין בריסתקא</row>
@@ -24,10 +24,10 @@
 		<row row_number="10" isdata="1">ניהליה לשבתא אחריתי בעי עיילינהו ואסר</row>
 		<row row_number="11" isdata="1">להו דהוה ליה כלדעת ואסור לוי אעילו ליה</row>
 		<row row_number="12" isdata="1">תיבנא זעירי אספסתא רב שימי בר חייא</row>
-		<row row_number="13" isdata="1">מיאמתני' מי שיצא ברשות ואמרו לו</row>
+		<row row_number="13" isdata="1">מיא<EndGemara/><StartMishna/>מתני' מי שיצא ברשות ואמרו לו</row>
 		<row row_number="14" isdata="1">כבר נעשה מעשה יש לו אלפים אמה לכל</row>
 		<row row_number="15" isdata="1">רוח אם היה בתוך התחום כאילו לא יצא</row>
-		<row row_number="16" isdata="1">כל היוצאים להציל חוזרין למקומן</row>
+		<row row_number="16" isdata="1">כל היוצאים להציל חוזרין למקומן:</row>
 		<row row_number="17" isdata="1"><EndMishna/><StartGemara/>גמ' מאי אם היה בתוך התחום כאילו לא</row>
 		<row row_number="18" isdata="1">יצא אמר רבה הכי קאמר אם היה בתוך</row>
 		<row row_number="19" isdata="1">תחום שלו כאילו לא יצא מתוך ביתו דמי</row>

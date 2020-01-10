@@ -6,19 +6,19 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:32.635420</dateCreated>
-   <lastModified>2019-12-21 21:42:32.635420</lastModified>
+   <dateCreated>2020-01-06 09:34:40.198411</dateCreated>
+   <lastModified>2020-01-06 09:34:40.198411</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="110">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "השוחט והמעלה"/><ContGemara/>חייב ר"א אומר אף המנסך מי החג בחג</row>
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט והמעלה"/><ContMishna/>חייב ר"א אומר אף המנסך מי החג בחג</row>
 		<row row_number="2" isdata="1">בחוץ חייב רבי נחמיה אומר שירי הדם</row>
-		<row row_number="3" isdata="1">שהקריבו בחוץ חייב<EndMishna/><StartGemara/>גמ' אמר רבא ומודה</row>
+		<row row_number="3" isdata="1">שהקריבו בחוץ חייב:<EndMishna/><StartGemara/>גמ' אמר רבא ומודה</row>
 		<row row_number="4" isdata="1">רבי אלעזר בדמים דתניא רבי אלעזר ורבי</row>
-		<row row_number="5" isdata="1">שמעון אומרים ממקום שפסק הוא מתחיל</row>
+		<row row_number="5" isdata="1">שמעון אומרים ממקום שפסק הוא מתחיל:</row>
 		<row row_number="6" isdata="1">רבי אלעזר אומר אף המנסך מי החג [בחג]</row>
-		<row row_number="7" isdata="1">בחוץ  א"ר יוחנן משום רבי מנחם יודפאה</row>
+		<row row_number="7" isdata="1">בחוץ : א"ר יוחנן משום רבי מנחם יודפאה</row>
 		<row row_number="8" isdata="1">רבי אלעזר בשטת רבי עקיבא רבו אמרה</row>
 		<row row_number="9" isdata="1">דאמר ניסוך המים דאורייתא דתניא רבי</row>
 		<row row_number="10" isdata="1">עקיבא אומר ונסכיה בשני ניסוכים הכתוב</row>

@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:59.231751</dateCreated>
-   <lastModified>2019-12-21 21:41:59.231751</lastModified>
+   <dateCreated>2020-01-06 09:31:54.961137</dateCreated>
+   <lastModified>2020-01-06 09:31:54.961137</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="15">
@@ -16,7 +16,7 @@
 		<row row_number="2" isdata="1">אומר בית שמאי אומרים מפקפק ונוטל אחת</row>
 		<row row_number="3" isdata="1">מבינתים ובית הלל אומרים מפקפק או נוטל</row>
 		<row row_number="4" isdata="1">אחת מבינתים רבי מאיר אומר נוטל אחת</row>
-		<row row_number="5" isdata="1">מבינתים ואינו מפקפק<EndMishna/><StartGemara/>גמ' בשלמא ב"ה</row>
+		<row row_number="5" isdata="1">מבינתים ואינו מפקפק:<EndMishna/><StartGemara/>גמ' בשלמא ב"ה</row>
 		<row row_number="6" isdata="1">טעמייהו משום תעשה ולא מן העשוי אי</row>
 		<row row_number="7" isdata="1">מפקפק עביד ליה מעשה אי נוטל אחת</row>
 		<row row_number="8" isdata="1">מבינתים עבד בה מעשה אלא בית שמאי</row>
@@ -49,10 +49,10 @@
 		<row row_number="35" isdata="1">בהן ארבעה מחלוקת אבל יש בהן ארבעה</row>
 		<row row_number="36" isdata="1">דברי הכל פסולה סיפא במאי פליגי בביטולי</row>
 		<row row_number="37" isdata="1">תקרה קא מיפלגי מר סבר בטלה בהכי ומר</row>
-		<row row_number="38" isdata="1">סבר בהכי לא בטלהמתני' המקרה</row>
+		<row row_number="38" isdata="1">סבר בהכי לא בטלה<EndGemara/><StartMishna/>מתני' המקרה</row>
 		<row row_number="39" isdata="1">סוכתו בשפודין או בארוכו' המטה אם יש ריוח</row>
 		<row row_number="40" isdata="1">ביניהן כמותן כשרה החוטט בגדיש לעשות</row>
-		<row row_number="41" isdata="1">לו סוכה אינה סוכה<EndMishna/><StartGemara/>גמ' לימא תיהוי תיובת'</row>
+		<row row_number="41" isdata="1">לו סוכה אינה סוכה:<EndMishna/><StartGemara/>גמ' לימא תיהוי תיובת'</row>
 		<row row_number="42" isdata="1">דרב הונא בריה דרב יהושע דאתמר פרוץ</row>
 		<row row_number="43" isdata="1">כעומד רב פפא אמר מותר ורב הונא בריה</row>
 		<row row_number="44" isdata="1">דרב יהושע אמר אסור אמר לך רב הונא</row>

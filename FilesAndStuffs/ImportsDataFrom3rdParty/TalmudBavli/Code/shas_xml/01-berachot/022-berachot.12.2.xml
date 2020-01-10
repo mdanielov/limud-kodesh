@@ -6,14 +6,14 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:41:46.703002</dateCreated>
-   <lastModified>2019-12-21 21:41:46.703002</lastModified>
+   <dateCreated>2020-01-06 09:30:51.827661</dateCreated>
+   <lastModified>2020-01-06 09:30:51.827661</lastModified>
  </meta>
  <masechet name="ברכות" serial="01">
 <daf value="12">
 	<amud value="2">
 		<row row_number="1" isdata="1"><ContChapter name = "מאימתי"/><ContGemara/>רב ששת כי כרע כרע כחיזרא כי קא זקיף</row>
-		<row row_number="2" isdata="1">זקיף כחיויא ואמר רבה בר חיננא סבא</row>
+		<row row_number="2" isdata="1">זקיף כחיויא: ואמר רבה בר חיננא סבא</row>
 		<row row_number="3" isdata="1">משמיה דרב כל השנה כולה אדם מתפלל</row>
 		<row row_number="4" isdata="1">האל הקדוש מלך אוהב צדקה ומשפט חוץ</row>
 		<row row_number="5" isdata="1">מעשרה ימים שבין ראש השנה ויום הכפורים</row>
@@ -25,7 +25,7 @@
 		<row row_number="11" isdata="1">וקאמר האל הקדוש מאי הוה עלה אמר רב</row>
 		<row row_number="12" isdata="1">יוסף האל הקדוש ומלך אוהב צדקה ומשפט</row>
 		<row row_number="13" isdata="1">רבה אמר המלך הקדוש והמלך המשפט</row>
-		<row row_number="14" isdata="1">והלכתא כרבה ואמר רבה בר חיננא סבא</row>
+		<row row_number="14" isdata="1">והלכתא כרבה: ואמר רבה בר חיננא סבא</row>
 		<row row_number="15" isdata="1">משמיה דרב כל שאפשר לו לבקש רחמים</row>
 		<row row_number="16" isdata="1">על חבירו ואינו מבקש נקרא חוטא שנאמר</row>
 		<row row_number="17" isdata="1">גם אנכי חלילה לי מחטא לה' מחדול להתפלל</row>
@@ -33,7 +33,7 @@
 		<row row_number="19" isdata="1">עצמו עליו מ"ט אילימא משום דכתיב ואין</row>
 		<row row_number="20" isdata="1">חולה מכם עלי (ואין)  גולה את אזני דילמא</row>
 		<row row_number="21" isdata="1">מלך שאני אלא מהכא ואני בחלותם לבושי</row>
-		<row row_number="22" isdata="1">וגו' ואמר רבה בר חיננא סבא משמיה דרב</row>
+		<row row_number="22" isdata="1">וגו': ואמר רבה בר חיננא סבא משמיה דרב</row>
 		<row row_number="23" isdata="1">כל העושה דבר עבירה ומתבייש בו מוחלין</row>
 		<row row_number="24" isdata="1">לו על כל עונותיו שנאמר למען תזכרי ובשת</row>
 		<row row_number="25" isdata="1">ולא יהיה לך עוד פתחון פה מפני כלמתך</row>
@@ -60,10 +60,10 @@
 		<row row_number="46" isdata="1">והרהור ע"ז מנלן דתניא אחרי לבבכם זו מינות וכן הוא אומר אמר</row>
 		<row row_number="47" isdata="1">נבל בלבו אין אלהים אחרי עיניכם זה הרהור עבירה שנאמר ויאמר</row>
 		<row row_number="48" isdata="1">שמשון אל אביו אותה קח לי כי היא ישרה בעיני אתם זונים זה הרהור ע"ז</row>
-		<row row_number="49" isdata="1">וכן הוא אומר ויזנו אחרי הבעליםמתני' מזכירין יציאת מצרים בלילות</row>
+		<row row_number="49" isdata="1">וכן הוא אומר ויזנו אחרי הבעלים<EndGemara/><StartMishna/>מתני' מזכירין יציאת מצרים בלילות</row>
 		<row row_number="50" isdata="1">א"ר אלעזר בן עזריה הרי אני כבן שבעים שנה ולא זכיתי שתאמר יציאת</row>
 		<row row_number="51" isdata="1">מצרים בלילות עד שדרשה בן זומא שנא' למען תזכור את יום צאתך מארץ</row>
-		<row row_number="52" isdata="1">מצרים כל ימי חייך ימי חייך הימים כל ימי חייך הלילות וחכ"א ימי חייך העוה"ז כל להביא לימות המשיח</row>
+		<row row_number="52" isdata="1">מצרים כל ימי חייך ימי חייך הימים כל ימי חייך הלילות וחכ"א ימי חייך העוה"ז כל להביא לימות המשיח:</row>
 		<row row_number="53" isdata="1"><EndMishna/><StartGemara/>גמ' תניא אמר להם בן זומא לחכמים וכי מזכירין יציאת מצרים לימות המשיח והלא כבר נאמר הנה ימים באים</row>
 		<row row_number="54" isdata="1">נאם ה' ולא יאמרו עוד חי ה' אשר העלה את בני ישראל מארץ מצרים כי אם חי ה' אשר העלה ואשר הביא את זרע</row>
 		<row row_number="55" isdata="1">בית ישראל מארץ צפונה ומכל הארצות אשר הדחתים שם אמרו לו לא שתעקר יציאת מצרים ממקומה אלא שתהא</row>

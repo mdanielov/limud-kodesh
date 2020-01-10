@@ -6,8 +6,8 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:19.945413</dateCreated>
-   <lastModified>2019-12-21 21:42:19.945413</lastModified>
+   <dateCreated>2020-01-06 09:33:40.554135</dateCreated>
+   <lastModified>2020-01-06 09:33:40.554135</lastModified>
  </meta>
  <masechet name="בבא מציעא" serial="22">
 <daf value="94">
@@ -15,13 +15,13 @@
 		<row row_number="1" isdata="1"><ContChapter name = "השוכר את הפועלים"/><ContGemara/>כך וכך גברי איכא בהדן כך וכך כלבי איכא</row>
 		<row row_number="2" isdata="1">בהדן כך וכך זוקתא פסיקא לן ואזל ושקל</row>
 		<row row_number="3" isdata="1">מיניה מאי א"ל הרי הוליכן למקום גדודי חיה</row>
-		<row row_number="4" isdata="1">ולסטיםמתני' מתנה שומר חנם להיות</row>
+		<row row_number="4" isdata="1">ולסטים<EndGemara/><StartMishna/>מתני' מתנה שומר חנם להיות</row>
 		<row row_number="5" isdata="1">פטור משבועה והשואל להיות פטור מלשלם</row>
 		<row row_number="6" isdata="1">נושא שכר והשוכר להיות פטורין משבועה</row>
 		<row row_number="7" isdata="1">ומלשלם כל המתנה על מה שכתוב בתורה</row>
 		<row row_number="8" isdata="1">תנאו בטל וכל תנאי שיש מעשה בתחילתו</row>
 		<row row_number="9" isdata="1">תנאו בטל וכל שאפשר לו לקיימו בסופו</row>
-		<row row_number="10" isdata="1">והתנה עמו מתחילתו תנאו קיים<EndMishna/><StartGemara/>גמ' אמאי</row>
+		<row row_number="10" isdata="1">והתנה עמו מתחילתו תנאו קיים:<EndMishna/><StartGemara/>גמ' אמאי</row>
 		<row row_number="11" isdata="1">מתנה על מה שכתוב בתורה הוא וכל המתנה</row>
 		<row row_number="12" isdata="1">על מה שכתוב בתורה תנאו בטל הא מני ר'</row>
 		<row row_number="13" isdata="1">יהודה היא דאמר בדבר שבממון תנאו קיים</row>
@@ -43,8 +43,8 @@
 		<row row_number="29" isdata="1">כשואל במאי בדברים אמר שמואל בשקנו</row>
 		<row row_number="30" isdata="1">מידו ור' יוחנן אמר אפילו תימא בשלא קנו</row>
 		<row row_number="31" isdata="1">מידו בההיא הנאה דקא נפיק ליה קלא</row>
-		<row row_number="32" isdata="1">דאיניש מהימנא הוא גמיר ומשעבד נפשיה</row>
-		<row row_number="33" isdata="1">וכל שאפשר לו לקיימו בסופו וכו' אמר רב</row>
+		<row row_number="32" isdata="1">דאיניש מהימנא הוא גמיר ומשעבד נפשיה:</row>
+		<row row_number="33" isdata="1">וכל שאפשר לו לקיימו בסופו וכו': אמר רב</row>
 		<row row_number="34" isdata="1">טבלא אמר רב זו דברי רבי יהודה בן תימא</row>
 		<row row_number="35" isdata="1">אבל חכמים אומרים אע"פ שאי אפשר לו</row>
 		<row row_number="36" isdata="1">לקיימו בסופו והתנה עליו מתחילתו תנאו</row>
@@ -59,7 +59,7 @@
 		<row row_number="45" isdata="1">רב נחמן אמר רב הלכה כרבי יהודה בן</row>
 		<row row_number="46" isdata="1">תימא אמר רב נחמן בר יצחק מתני' נמי</row>
 		<row row_number="47" isdata="1">דיקא דקתני כל שאפשר לו לקיימו בסופו</row>
-		<row row_number="48" isdata="1">והתנה עליו מתחילתו תנאו קיים הא אי אפשר לו לקיימו תנאו בטל שמע מינה<EndChapter name = "השוכר את הפועלים"/><EndGemara/></row>
+		<row row_number="48" isdata="1">והתנה עליו מתחילתו תנאו קיים הא אי אפשר לו לקיימו תנאו בטל שמע מינה:<EndChapter name = "השוכר את הפועלים"/><EndGemara/></row>
 		<row row_number="49" isdata="0">הדרן עלך השוכר את הפועלים</row>
 		<row row_number="50" isdata="1"><StartChapter name = "השואל"/><StartMishna/>השואל את הפרה ושאל בעליה עמה או שכר בעליה עמה שאל הבעלים או שכרן ואחר כך שאל את</row>
 		<row row_number="51" isdata="1">הפרה ומתה פטור שנאמר אם בעליו עמו לא ישלם</row>

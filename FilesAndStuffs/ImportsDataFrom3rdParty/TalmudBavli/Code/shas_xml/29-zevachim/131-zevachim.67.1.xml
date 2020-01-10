@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2019-12-21 21:42:31.690765</dateCreated>
-   <lastModified>2019-12-21 21:42:31.690765</lastModified>
+   <dateCreated>2020-01-06 09:34:36.125618</dateCreated>
+   <lastModified>2020-01-06 09:34:36.125618</lastModified>
  </meta>
  <masechet name="זבחים" serial="29">
 <daf value="67">
 	<amud value="1">
-		<row row_number="1" isdata="1"><ContChapter name = "חטאת העוף"/><ContGemara/>אמר לו ר' אליעזר והרי קדשי קדשים ששחטן</row>
+		<row row_number="1" isdata="1"><ContChapter name = "חטאת העוף"/><ContMishna/>אמר לו ר' אליעזר והרי קדשי קדשים ששחטן</row>
 		<row row_number="2" isdata="1">בדרום ושחטן לשם קדשים קלים יוכיחו</row>
 		<row row_number="3" isdata="1">שכן שינה את שמם לדבר שאין בו מעילה</row>
 		<row row_number="4" isdata="1">ומועלין בהן אף אתה אל תתמה על העולה</row>
@@ -21,7 +21,7 @@
 		<row row_number="7" isdata="1">בקדשי קדשים ששחטן בדרום ושחטן לשם</row>
 		<row row_number="8" isdata="1">קדשים קלים שכן שינה את שמם לדבר שיש</row>
 		<row row_number="9" isdata="1">בו איסור והיתר תאמר בעולה ששינה את</row>
-		<row row_number="10" isdata="1">שמה לדבר שכולו היתר<EndMishna/><StartGemara/>גמ' תניא אמר</row>
+		<row row_number="10" isdata="1">שמה לדבר שכולו היתר:<EndMishna/><StartGemara/>גמ' תניא אמר</row>
 		<row row_number="11" isdata="1">לו ר"א לרבי יהושע אשם ששחטו בצפון</row>
 		<row row_number="12" isdata="1">לשם שלמים יוכיח ששינה את שמו ומועלין</row>
 		<row row_number="13" isdata="1">בו ואף אתה אל תתמה על העולה שאע"פ</row>
