@@ -12,6 +12,11 @@ massechet_dir_list = os.listdir(parent_dir_path)
 server = config.get("SQL", "server")
 table_names = config.get("SQL", "table_names").split(',')
 database_name = config.get("SQL", "database_name")
+csv_file_name = config.get("CSV", "csv_file_name")
+
+
+if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name)):
+    os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name))
 
 conn = pyodbc.connect('Driver={SQL Server};'
                       'Server=' + server + ';'
@@ -26,6 +31,7 @@ def execute_query(query):
         cursor.execute(query)
     return cursor
 
+execute_query(f"USE {database_name};")
 
 def get_massechet_id(massechet_name):
     """
@@ -85,6 +91,19 @@ def get_daf_amud_id(daf, amud):
         daf_amud_id = row[0]
 
     return daf_amud_id
+
+
+
+def get_massechet_daf_id(massechet_id):
+
+    query = f"select MASSECHET_DAF_ID from TBL_MASSECHET_DAF WHERE MASSECHET_ID = '{massechet_id}'"
+
+    result_query = execute_query(query)
+
+    for row in result_query:
+        massechet_daf_id = row[0]
+
+    return massechet_daf_id
 
 
 def replaceMultiple(mainString, toBeReplaces, newString):
@@ -148,21 +167,31 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
 
         word_position = text.index(elem) + 1
 
-        elem = replaceMultiple(elem, ["(", ")", ".", "[", "]"], "")
-        elem = elem.replace("'", "''")
+        elem = replaceMultiple(elem, ["(", ")", ".", ":", "[", "]"], "")
 
-        query = f"INSERT INTO {table_names[3]} \
-           ([MASSECHET_DAF_ID] \
-           ,[PEREK_ID] \
-           ,[ROW_ID] \
-           ,[W_DELETED] \
-           ,[W_ADDED] \
-           ,[WORD_POSITION] \
-           ,[WORD_TYPE] \
-           ,[WORD]) \
-            VALUES ({daf_amud_id},{perek_id},{row_number},{w_deleted},{w_added},{word_position},{w_type},'{elem}')"
+        textline = f"|{daf_amud_id}|{perek_id}|{row_number}|{w_deleted}|{w_added}|{word_position}|{w_type}|{elem}"
 
-        execute_query(query)
+        write_csv_file(csv_file_name, textline)
+
+
+def write_csv_file(file_name, textline):
+    with open(os.path.join(os.path.abspath(os.path.dirname(__file__)), file_name), "a", encoding='utf-8') as f:
+        f.write(f"{textline}\n")
+
+
+def bulk_insert_to_tbl(csv_file_path, tbl_name):
+    execute_query(f"SET IDENTITY_INSERT {table_names[3]} ON;")
+    query = f"BULK INSERT {tbl_name} \
+            FROM '{csv_file_path}' \
+            WITH \
+                (  \
+                     FIELDTERMINATOR ='|' \
+                    , ROWTERMINATOR ='\n' \
+                    ,CODEPAGE = '65001' \
+                );"
+    execute_query(f"SET IDENTITY_INSERT {table_names[3]} OFF;")
+
+    execute_query(query)
 
 
 def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter, count_chapter, start,
@@ -217,10 +246,10 @@ def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, da
                 end["name"] = elem.attrib["name"]
                 daf_end_chapter.append(end.copy())
 
-    return daf, amud, chapter, daf_start_chapter, daf_end_chapter, amud_start_chapter, amud_end_chapter, count_chapter, massechet_name
+    return daf, amud, chapter, daf_start_chapter, daf_end_chapter, count_chapter, massechet_name
 
 
-def get_xml_row_value(massechet_xml_list, daf, amud):
+def get_xml_row_values(massechet_xml_list, daf, amud):
     """
     This function will go over each xml row and call the function parse_row in order to insert each
     word into TBL_MASSECHET_WORD table.
@@ -333,27 +362,27 @@ for massechet_dir in massechet_dir_list:
     del chapter[:]
     del daf_start_chapter[:]
     del daf_end_chapter[:]
-    del result[:]
     start.clear()
     end.clear()
+    result = []
 
     massechet_dir_path = parent_dir_path + "\\" + massechet_dir
     massechet_xml_list = os.listdir(massechet_dir_path)
 
     # Runnning a loop for each xml file in the massechet directory
 
-    result = get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter,
-                            count_chapter, start, end)
+    result = get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter, count_chapter, start,
+                   end)
+
 
     daf = result[0]
     amud = result[1]
     chapter = result[2]
     daf_start_chapter = result[3]
     daf_end_chapter = result[4]
-    amud_start_chapter = result[5]
-    amud_end_chapter = result[6]
-    count_chapter = result[7]
-    massechet_name = result[8]
+    count_chapter = result[5]
+    massechet_name = result[6]
+
 
     # ---------------------------------------------TBL_MASSECHET_PEREK INSERT ---------------------------------------#
 
@@ -386,64 +415,22 @@ for massechet_dir in massechet_dir_list:
             {daf_end_chapter[i]['daf_end']},\
             {daf_end_chapter[i]['amud_end']})"
 
-        cursor.execute(query_string.strip())
+        execute_query(query_string.strip())
         i += 1
 
     # ---------------------------- TBL_MASSECHET_DAF INSERT -----------------------#
 
-    # get_massechet_id = f"SELECT MASSECHET_ID FROM TBL_MASSECHET WHERE MASSECHET_NAME = '{massechet_name}'"
-    #
-    # cursor.execute(f"USE {database_name};")
-    # cursor.execute(get_massechet_id)
-    #
-    # for row in cursor:
-    #     massechet_id = row[0]
+    for num, elem in enumerate(daf):
 
-    daf_start = daf_start_chapter[0]["daf_start"]
-    daf_end = daf_end_chapter[-1]["daf_end"]
-    get_daf_amud_id = f"SELECT DAF_AMUD_ID FROM [dbo].[TBL_DAF] WHERE DAF_NUM BETWEEN {daf_start} AND {daf_end}"
+        daf_amud_id_result = get_daf_amud_id(daf[num], amud[num])
 
-    cursor.execute(get_daf_amud_id)
+        query_string = f"INSERT INTO {table_names[2]} (MASSECHET_ID,DAF_AMUD_ID) VALUES ({massechet_id},{daf_amud_id_result})"
 
-    rows = cursor.fetchall()
-
-    daf_list = []
-
-    for row in rows:
-        num = int(row[0])
-        daf_list.append(num)
-
-    for num in daf_list:
-        query_string = f"INSERT INTO {table_names[2]} (MASSECHET_ID,DAF_AMUD_ID) VALUES ({massechet_id},{num})"
-        cursor.execute(f"USE {database_name}")
-        cursor.execute(query_string)
+        execute_query(query_string)
 
     # ---------------------------- TBL_MASSECHET_WORD INSERT -----------------------#
 
-    get_xml_row_value()
+    get_xml_row_values(massechet_xml_list, daf, amud)
 
-    get_massechet_daf_id = f"select MASSECHET_DAF_ID from TBL_MASSECHET_DAF WHERE MASSECHET_ID = '{massechet_id}'"
 
-    cursor.execute(f"USE {database_name};")
-    cursor.execute(get_massechet_daf_id)
-
-    massechet_daf_id = []
-
-    for row in cursor:
-        massechet_daf_id.append(row[0])
-
-    # print(massechet_daf_id)
-
-    for elem in massechet_daf_id:
-        get_perek_id = f"SELECT PEREK_ID FROM TBL_MASSECHET_PEREK WHERE MASSECHET_ID = {massechet_id} AND  "
-
-        query = f"INSERT INTO [dbo].[TBL_MASSECHET_WORD]\
-           ([MASSECHET_DAF_ID]\
-           ,[PEREK_ID]\
-           ,[ROW_ID]\
-           ,[W_DELETED]\
-           ,[W_ADDED]\
-           ,[WORD_POSITION]\
-           ,[WORD_TYPE]\
-           ,[WORD])\
-            VALUES ({elem})"
+bulk_insert_to_tbl(csv_file_name, table_names[3])
