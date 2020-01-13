@@ -183,7 +183,7 @@ def write_csv_file(file_name, textline):
     :param textline: the string that will be appended to the csv file
     """
     with open(os.path.join(os.path.abspath(os.path.dirname(__file__)), file_name), "a", encoding='utf-8') as f:
-        f.write(f"{textline}\n")
+        f.write(f"{textline}\r")
 
 
 def bulk_insert_to_tbl(csv_file_path, tbl_name):
@@ -193,7 +193,7 @@ def bulk_insert_to_tbl(csv_file_path, tbl_name):
             WITH \
                 (  \
                      FIELDTERMINATOR ='|' \
-                    , ROWTERMINATOR ='\n' \
+                    , ROWTERMINATOR ='\r' \
                     ,CODEPAGE = '65001' \
                 );"
     execute_query(f"SET IDENTITY_INSERT {table_names[3]} OFF;")
