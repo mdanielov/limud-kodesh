@@ -94,8 +94,8 @@ def get_daf_amud_id(daf, amud):
     return daf_amud_id
 
 
-def get_massechet_daf_id(massechet_id):
-    query = f"select MASSECHET_DAF_ID from TBL_MASSECHET_DAF WHERE MASSECHET_ID = '{massechet_id}'"
+def get_massechet_daf_id(massechet_id, daf_amud_id):
+    query = f"select MASSECHET_DAF_ID from TBL_MASSECHET_DAF WHERE MASSECHET_ID = '{massechet_id}' and DAF_AMUD_ID = '{daf_amud_id}'"
 
     result_query = execute_query(query)
 
@@ -143,6 +143,8 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
 
     daf_amud_id = get_daf_amud_id(daf, amud)
 
+    massechet_daf_id = get_massechet_daf_id(massechet_id, daf_amud_id)
+
     text = str(row_text).split()
 
     w_type = 0
@@ -168,7 +170,7 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
 
         elem = replaceMultiple(elem, ["(", ")", ".", ":", "[", "]"], "")
 
-        textline = f"|{daf_amud_id}|{perek_id}|{row_number}|{w_deleted}|{w_added}|{word_position}|{w_type}|{elem}"
+        textline = f"|{massechet_daf_id}|{perek_id}|{row_number}|{w_deleted}|{w_added}|{word_position}|{w_type}|{elem}"
 
         write_csv_file(csv_file_name, textline)
 
