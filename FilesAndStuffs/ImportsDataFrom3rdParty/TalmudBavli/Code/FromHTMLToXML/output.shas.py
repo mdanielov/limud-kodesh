@@ -16,6 +16,8 @@ prakim = reference.prakim
 marker_mishna1 = reference.marker_mishna1
 marker_mishna2 = reference.marker_mishna2
 marker_gemara = reference.marker_gemara
+marker_gemara2 = reference.marker_gemara2
+marker_gemara3 = reference.marker_gemara3
 current_chapter = 0
 hadran = 0 #special indicator for hadran that falls to the last line of a page
 gema = 0 #special indicator for check if i am in gemara or mishna
@@ -142,8 +144,7 @@ for t in massechet:
             elif index == len(new_list) -1:
                 # last line
                 lines =[new_list[index-1],line,""]
-            print(current_chapter, len(chapters))
-            print(daf_no,amud_no,hadran, index, str(len(new_list)))
+            print(massechet_name,current_chapter)
             if len(chapters)-1 > current_chapter:
                 chap_param = (chapters[current_chapter],chapters[current_chapter+1])
             else:
@@ -153,7 +154,7 @@ for t in massechet:
                 islast = 1
             else:
                 islast = 0
-            results = TranformToXML.parseLine(lines, index, len(new_list), i , daf_no , amud_no, marker_mishna1, marker_mishna2, marker_gemara, chap_param, current_chapter, hadran, islast, gema)
+            results = TranformToXML.parseLine(lines, index, len(new_list), i , daf_no , amud_no, marker_mishna1, marker_mishna2, marker_gemara, marker_gemara2, marker_gemara3, chap_param, current_chapter, hadran, islast, gema)
             if index != len(new_list) - 1 or (index == len(new_list) - 1 and len(lines[1].split()) > 1):
               output_text += results[0]
             current_chapter = results[1]

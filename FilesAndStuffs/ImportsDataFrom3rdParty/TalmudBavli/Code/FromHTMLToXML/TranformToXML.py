@@ -1,6 +1,6 @@
 import re
 
-def parseLine(lines , index , index_max , file_name , daf , amud, marker_mishna1,marker_mishna2, marker_gemara, chapters, current_chapter, hadran, islast, gema ):
+def parseLine(lines , index , index_max , file_name , daf , amud, marker_mishna1,marker_mishna2, marker_gemara, marker_gemara2, marker_gemara3, chapters, current_chapter, hadran, islast, gema ):
     # some lines are not going to be transferred to the DB
     # but we want them in the XML file anyhow
 
@@ -38,9 +38,8 @@ def parseLine(lines , index , index_max , file_name , daf , amud, marker_mishna1
     #is this the end of a chapter or massechet?
     if index == index_max or re.search('הדרן עלך',lines[2]):
         gema = 0
-        line_text = line_text + '<EndChapter name = "' + chapters[0][5]+'"/>' + "<EndGemara/>"
-
-
+        line_text = line_text + '<EndChapter name = "' + chapters[0][5]+'"/>' + "<EndGemara/>"        
+    
     if re.search(marker_gemara, lines[1]):
         sub_lines = re.split(marker_gemara, lines[1])
         gema = 1
@@ -49,8 +48,22 @@ def parseLine(lines , index , index_max , file_name , daf , amud, marker_mishna1
         if index != 0 and re.search('הדרן עלך',lines[2]) == None:
             line_text = sub_lines[0] + "<EndMishna/><StartGemara/>" + marker_gemara + sub_lines[1]
         if index == 0:
-            line_text += sub_lines[0] + "<EndMishna/><StartGemara/>"
-
+            line_text += sub_lines[0] + "<EndMishna/><StartGemara/>" 
+    
+    if re.search(marker_gemara2, lines[1]):      
+        sub_lines = re.split(marker_gemara2, lines[1])
+        print(sub_lines)
+        gema = 1
+        if index != 0 and re.search('הדרן עלך',lines[2]) == None:
+            line_text = sub_lines[0] + "<EndMishna/><StartGemara/>" + "(גמ')" + sub_lines[1] 
+    
+    if re.search(marker_gemara3, lines[1]):      
+        sub_lines = re.split(marker_gemara3, lines[1])
+        print(sub_lines)
+        gema = 1
+        if index != 0 and re.search('הדרן עלך',lines[2]) == None:
+            line_text = sub_lines[0] + "<EndMishna/><StartGemara/>" + "[גמ'" + sub_lines[1]               
+    
     if re.search(marker_mishna1, lines[1]):
         sub_lines = re.split(marker_mishna1,lines[1])
         gema = 0
