@@ -1,6 +1,8 @@
 marker_mishna1 = ":מתני'"
 marker_mishna2 = "^מתני'"
 marker_gemara = "גמ'"
+marker_gemara2 = "\(גמ'\)" 
+marker_gemara3 = "\[גמ'"
 
 massechet = \
     ("01" , 64 , 1 , "berachot" , "ברכות" )\
