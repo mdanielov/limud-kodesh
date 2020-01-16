@@ -1,5 +1,5 @@
-USE KiMeTzion
-GO
+USE KiMeTzion;
+
 
 DROP TABLE IF EXISTS TBL_REF_TAAM;
 

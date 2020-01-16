@@ -24,7 +24,16 @@ cursor = conn.cursor()
 
 ls_schema = os.listdir(schema_dir)
 ls_data = os.listdir(data_dir)
+tanakh_perek = 'TBL_TANAKH_PEREK'
 
+def execute_query(query):
+    with conn:
+        cursor = conn.cursor()
+        cursor.execute(query)
+    return cursor
+
+
+execute_query(f"USE KiMeTzion;")
 
 
 def query_string(sql_full_path):
@@ -43,36 +52,14 @@ def main():
     cursor.execute(qry_create_db)
     cursor.commit()
 
-    # List Schema directory and execute scripts.
-    i = 0
-    while i < len(ls_schema):
-        # print("ls schema:", ls_schema)
-        # print(f"working on {ls_schema[i]}")
-        if ls_schema[i] == '02-functions':
-            break
-        else:
-            ls_dir = os.listdir(schema_dir + '\\' + ls_schema[i])
-            # print("ls_dir:", ls_dir)
-
-        for file in ls_dir:
-            query = query_string(f"{schema_dir}\\{ls_schema[i]}\\{file}")
-            cursor.execute(query)
-            # print(f"{file} script executed successfully !")
+    # # List Schema directory and execute scripts.
+    i = 1
+    while i < 151:
+        query_string = f"INSERT INTO {tanakh_perek} (PEREK_ID, PEREK_LETTER) VALUES ({i},'{int_to_gematria(i, gershayim=False)}')"
+        cursor.execute(query_string)
+        print(query_string)
         i += 1
 
-
-    # List insert data directory and execute scripts.
-    i = 0
-
-    ls_data_folders=[]
-    for filename in ls_data:
-        if os.path.exists(os.path.join(data_dir,filename)):
-            ls_data_folders.append(filename)
-    while i < len(ls_data_folders):
-        ls_dir = os.listdir(data_dir)
-        query = query_string(f"{data_dir}\\{ls_data_folders[i]}")
-        cursor.execute(query)
-        i += 1
 
 
 if __name__ == '__main__':

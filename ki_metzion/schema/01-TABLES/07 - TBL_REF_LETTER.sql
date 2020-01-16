@@ -1,5 +1,4 @@
-USE KiMeTzion
-
+USE KiMeTzion;
 
 SET NOCOUNT ON;
 
