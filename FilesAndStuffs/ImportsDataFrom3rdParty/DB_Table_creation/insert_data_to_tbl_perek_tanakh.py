@@ -50,7 +50,7 @@ def main():
     # # List Schema directory and execute scripts.
     i = 1
     while i <= 150:
-        query_string = f"INSERT INTO TBL_TANAKH_PEREK (PEREK_ID, PEREK_LETTER) VALUES ({i},'{int_to_gematria(i, gershayim=False)}')"
+        query_string = f"INSERT INTO TBL_TANAKH_PEREK (PEREK_NUM, PEREK_HEBREW_NUM) VALUES ({i},'{int_to_gematria(i, gershayim=False)}')"
         cursor.execute(query_string)
         print(query_string)
         i += 1
