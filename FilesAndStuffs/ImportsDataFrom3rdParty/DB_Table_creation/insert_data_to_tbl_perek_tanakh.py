@@ -10,8 +10,6 @@ config.read('settings.ini')
 
 
 server_name = config.get("Sql", "Server")
-schema_dir = config.get("Path", "schema_dir")
-data_dir = config.get("Path", "data_dir")
 
 conn = pyodbc.connect('Driver={SQL Server};'
                       'Server=' + server_name + ';'
@@ -22,9 +20,6 @@ conn.autocommit = True
 
 cursor = conn.cursor()
 
-ls_schema = os.listdir(schema_dir)
-ls_data = os.listdir(data_dir)
-tanakh_perek = 'TBL_TANAKH_PEREK'
 
 def execute_query(query):
     with conn:
@@ -54,8 +49,8 @@ def main():
 
     # # List Schema directory and execute scripts.
     i = 1
-    while i < 151:
-        query_string = f"INSERT INTO {tanakh_perek} (PEREK_ID, PEREK_LETTER) VALUES ({i},'{int_to_gematria(i, gershayim=False)}')"
+    while i <= 150:
+        query_string = f"INSERT INTO TBL_TANAKH_PEREK (PEREK_ID, PEREK_LETTER) VALUES ({i},'{int_to_gematria(i, gershayim=False)}')"
         cursor.execute(query_string)
         print(query_string)
         i += 1
