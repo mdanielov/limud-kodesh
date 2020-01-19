@@ -4,10 +4,10 @@ SET NOCOUNT ON;
 
 INSERT INTO dbo.TBL_TANAKH_CATEGORY
 VALUES
-(N'ηξωδ ηεξωι ϊεψδ',N'Chamisha Chumshei Torah'),
-(N'παιΰιν ψΰωεπιν',N'Neviim Rishonim'),
-(N'παιΰιν ΰηψεπιν',N'Neviim Acharonim'),
-(N'λϊεαιν - ηξω ξβιμεϊ',N'Ketuviim - Chamesh Megilot'),
-(N'λϊεαιν - ριτψι ΰξϊ',N'Ketuviim - Sifrei Emeth'),
-(N'λϊεαιν','Ketuviim')
+(N'Χ—ΧΧ©Χ” Χ—Χ•ΧΧ©Χ™ ΧªΧ•Χ¨Χ”',N'Chamisha Chumshei Torah'),
+(N'Χ Χ‘Χ™ΧΧ™Χ Χ¨ΧΧ©Χ•Χ Χ™Χ',N'Neviim Rishonim'),
+(N'Χ Χ‘Χ™ΧΧ™Χ ΧΧ—Χ¨Χ•Χ Χ™Χ',N'Neviim Acharonim'),
+(N'Χ›ΧªΧ•Χ‘Χ™Χ - Χ—ΧΧ© ΧΧ’Χ™ΧΧ•Χª',N'Ketuviim - Chamesh Megilot'),
+(N'Χ›ΧªΧ•Χ‘Χ™Χ - Χ΅Χ™Χ¤Χ¨Χ™ ΧΧΧª',N'Ketuviim - Sifrei Emeth'),
+(N'Χ›ΧªΧ•Χ‘Χ™Χ','Ketuviim')
 ;

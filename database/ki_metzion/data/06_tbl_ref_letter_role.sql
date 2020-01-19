@@ -2,8 +2,8 @@ USE KiMeTzion;
 
 INSERT INTO dbo.TBL_REF_LETTER_ROLE
 VALUES 
-(N'χιγεξϊ'),
-(N'ωεψω'),
-(N'ϊερτϊ'),
-(N'ριεξϊ')
+(N'Χ§Χ™Χ“Χ•ΧΧª'),
+(N'Χ©Χ•Χ¨Χ©'),
+(N'ΧªΧ•Χ΅Χ¤Χª'),
+(N'Χ΅Χ™Χ•ΧΧª')
 ;
