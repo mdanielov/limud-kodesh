@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:34.368906</dateCreated>
+   <lastModified>2020-01-14 15:03:34.368906</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="102">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר פירות"/><ContGemara/>רב שישא בריה דרב אידי אמר לעולם ר"ש</row>
+		<row row_number="2" isdata="1">היא והב"ע בניפלי ומדהא בניפלי הא נמי</row>
+		<row row_number="3" isdata="1">בניפלי תמני סרי הויין חדא בניפלי אמרינן</row>
+		<row row_number="4" isdata="1">תרתי בניפלי לא אמרינן ורמי דרבנן אדרבנן</row>
+		<row row_number="5" isdata="1">ורמי דר"ש אדר"ש (דתניא) כרם הנטוע</row>
+		<row row_number="6" isdata="1">על פחות מארבע אמות ר"ש אומר אינו</row>
+		<row row_number="7" isdata="1">כרם וחכמים אומרים הרי זה כרם ורואין את</row>
+		<row row_number="8" isdata="1">האמצעים כאילו אינן קשיא דרבנן אדרבנן</row>
+		<row row_number="9" isdata="1">וקשיא דר"ש אדרבי שמעון דרבי שמעון</row>
+		<row row_number="10" isdata="1">אדר' שמעון לא קשיא התם לא נטעי אינשי</row>
+		<row row_number="11" isdata="1">אדעתא ליעקר הכא זימנין דמיתרמא ליה בין</row>
+		<row row_number="12" isdata="1">השמשות ומיקרי ומנחי ליה דרבנן אדרבנן</row>
+		<row row_number="13" isdata="1">נמי לא קשיא הכא כיון דמינול לא מקרי קבר</row>
+		<row row_number="14" isdata="1">התם מימר אמר הי מינייהו דשפיר שפיר</row>
+		<row row_number="15" isdata="1">ודלא שפיר ליהוי לציבי:<EndChapter name = "המוכר פירות"/><EndGemara/></row>
+		<row row_number="16" isdata="0">הדרן עלך המוכר פירות</row>
+		<row row_number="17" isdata="1"><StartChapter name = "בית כור"/><StartMishna/>האומר לחבירו בית כור עפר אני מוכר</row>
+		<row row_number="18" isdata="1">לך היו שם נקעים עמוקים</row>
+		<row row_number="19" isdata="1">עשרה טפחים או סלעים גבוהין י' טפחים</row>
+		<row row_number="20" isdata="1">אינן נמדדין עמה פחות מכאן נמדדין עמה</row>
+		<row row_number="21" isdata="1">ואם אמר לו כבית כור עפר אפילו היו</row>
+		<row row_number="22" isdata="1">שם נקעים עמוקים יותר מעשרה טפחים או</row>
+		<row row_number="23" isdata="1">סלעים גבוהין יותר מעשרה טפחים הרי אלו</row>
+		<row row_number="24" isdata="1">נמדדין עמה:<EndMishna/><StartGemara/>גמ' תנן התם המקדיש שדהו</row>
+		<row row_number="25" isdata="1">בשעת היובל נותן לו לבית זרע חומר שעורים</row>
+		<row row_number="26" isdata="1">חמשים שקל כסף היו שם נקעים עמוקים י' טפחים או סלעים גבוהין י' טפחים</row>
+</amud>
+</daf>
+</masechet>
+</root>

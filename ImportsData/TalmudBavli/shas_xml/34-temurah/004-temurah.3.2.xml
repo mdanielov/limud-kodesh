@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:24.550130</dateCreated>
+   <lastModified>2020-01-14 15:04:24.550130</lastModified>
+ </meta>
+ <masechet name="תמורה" serial="34">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל ממירין"/><ContGemara/>אין מנקין אותו אבל בית דין של מטה</row>
+		<row row_number="2" isdata="1">מלקין אותו ומנקין אותו א"ל רב פפא לאביי</row>
+		<row row_number="3" isdata="1">ואימא לא תיהוי ליה נקיות כלל א"ל אם כן</row>
+		<row row_number="4" isdata="1">לכתוב קרא לא ינקה ולישתוק ה' למה לי</row>
+		<row row_number="5" isdata="1">בית דין של מעלה הוא דאין מנקין אותו אבל</row>
+		<row row_number="6" isdata="1">ב"ד של מטה מלקין ומנקין אותו אשכחן</row>
+		<row row_number="7" isdata="1">שבועת שוא שבועת שקר מנלן רבי יוחנן</row>
+		<row row_number="8" isdata="1">דידיה אמר לשוא לשוא שני פעמים אם אינו</row>
+		<row row_number="9" isdata="1">ענין לשבועת שוא תניהו ענין לשבועת</row>
+		<row row_number="10" isdata="1">שקר דלוקה מתקיף לה רבי אבהו שבועת</row>
+		<row row_number="11" isdata="1">שקר היכי דמי אינימא דאמר שלא אוכל</row>
+		<row row_number="12" isdata="1">ואכל התם הוא מעשה עבד ואלא</row>
+		<row row_number="13" isdata="1">דאמר שאוכל ולא אכל ההוא מי לקי</row>
+		<row row_number="14" isdata="1">והאיתמר שבועה שאוכל ככר זה היום</row>
+		<row row_number="15" isdata="1">ועבר היום ולא אכל רבי יוחנן ורבי שמעון</row>
+		<row row_number="16" isdata="1">בן לקיש אמרי אינו לוקה ר' יוחנן אומר אינו לוקה דלאו שאין בו מעשה</row>
+		<row row_number="17" isdata="1">הוא וכל לאו שאין בו מעשה אין לוקין עליו ור"ל אמר אינו לוקה משום</row>
+		<row row_number="18" isdata="1">דהוה ליה התראת ספק וכל התראת ספק אין לוקין עליו אלא א"ר</row>
+		<row row_number="19" isdata="1">אבהו תהא באכלתי ולא אכלתי ומאי שנא דקא מרבה אכלתי ולא אכלתי</row>
+		<row row_number="20" isdata="1">מאוכל ולא אכל אמר רבא בפירוש ריבתה תורה שקר דומה לשוא מה</row>
+		<row row_number="21" isdata="1">שוא לשעבר אף שקר לשעבר איתיביה רבי ירמיה לרבי אבהו שבועה</row>
+		<row row_number="22" isdata="1">שלא אוכל ככר זו שבועה שלא אוכלנה שבועה שלא אוכלנה ואכלה</row>
+		<row row_number="23" isdata="1">אינו חייב אלא אחת וזוהי שבועת ביטוי שחייבין על זדונה מכות ועל שגגתה</row>
+		<row row_number="24" isdata="1">קרבן עולה ויורד זוהי למעוטי מאי לאו למעוטי אכלתי ולא אכלתי דלא לקי</row>
+		<row row_number="25" isdata="1">לא זו היא דעל שגגתה מייתי קרבן אבל אכלתי ולא אכלתי לא מייתי קרבן</row>
+		<row row_number="26" isdata="1">ומני רבי ישמעאל היא דאמר אינו חייב אלא על העתיד לבא אבל מילקא</row>
+		<row row_number="27" isdata="1">לקי אימא סיפא זוהי שבועת שוא שחייבין על זדונה מכות ועל שגגתה</row>
+		<row row_number="28" isdata="1">פטור זוהי למעוטי מאי לאו למעוטי אכלתי ולא אכלתי דלא לקי לא זוהי</row>
+		<row row_number="29" isdata="1">דעל שגגתה פטור מקרבן אבל אכלתי ולא אכלתי מייתי קרבן ומני ר"ע היא</row>
+		<row row_number="30" isdata="1">דאמר מביאין קרבן לשעבר והא אמרת רישא רבי ישמעאל אלא מדסיפא</row>
+		<row row_number="31" isdata="1">רבי עקיבא רישא נמי רבי עקיבא ורישא לאו למעוטי אכלתי ולא אכלתי</row>
+		<row row_number="32" isdata="1">אלא למעוטי אוכל ולא אכל ומאי שנא משום דקאי בלהבא ממעט להבא</row>
+		<row row_number="33" isdata="1">קאי בלהבא ממעט לשעבר: ומימר: א"ל רבי יוחנן לתנא לא תתני ומימר</row>
+		<row row_number="34" isdata="1">משום דבדיבורו עשה מעשה: המקלל את חבירו בשם: מנלן א"ר</row>
+		<row row_number="35" isdata="1">אלעזר א"ר אושעיא אמר קרא אם לא תשמר וכתיב והפלא ה' את</row>
+		<row row_number="36" isdata="1">מכותך הפלאה זו איני יודע מהו כשהוא אומר והפילו השופט והכהו</row>
+		<row row_number="37" isdata="1">לפניו הוי אומר הפלאה זו מלקות אימר אפילו שבועת אמת בהדיא</row>
+		<row row_number="38" isdata="1">כתיב שבועת ה' תהיה בין שניהם אימר הני מילי לפייס את חבירו אבל</row>
+		<row row_number="39" isdata="1">מילקא לילקי לא מצית אמרת דהכתיב ובשמו תשבע ההוא מיבעי ליה</row>
+		<row row_number="40" isdata="1">לכדרב דאמר רב גידל אמר רב מנין שנשבעין לקיים את המצות</row>
+		<row row_number="41" isdata="1">שנאמר נשבעתי ואקיימה לשמור משפטי צדקך הכתיב קרא אחרינא</row>
+		<row row_number="42" isdata="1">ובו תדבק ובשמו תשבע אלא למאי אתא למקלל את חבירו בשם</row>
+		<row row_number="43" isdata="1">ואימא למוציא שם שמים לבטלה מי גרע מקלל את חבירו בשם ממוציא</row>
+		<row row_number="44" isdata="1">שם שמים לבטלה אנן הכי קא קשיא לן אימא מוציא שם שמים לבטלה</row>
+		<row row_number="45" isdata="1">תיסגי ליה במלקות אבל מקלל חבירו בשם כיון דקעביד תרתי דקא</row>
+		<row row_number="46" isdata="1">מפיק שם שמים לבטלה וקמצער ליה לחבריה לא תיסגי ליה במלקות</row>
+</amud>
+</daf>
+</masechet>
+</root>

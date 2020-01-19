@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:19.387545</dateCreated>
+   <lastModified>2020-01-14 15:03:19.387545</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="54">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח את הפרה"/><ContGemara/>או מבעי ליה לחלק ורבי יהודה לחלק</row>
+		<row row_number="2" isdata="1">מונפל נפקא ורבנן ונפל טובא משמע</row>
+		<row row_number="3" isdata="1">אימא ונפל כלל שור וחמור פרט כלל ופרט</row>
+		<row row_number="4" isdata="1">אין בכלל אלא מה שבפרט שור וחמור</row>
+		<row row_number="5" isdata="1">אין מידי אחרינא לא אמרי בעל הבור</row>
+		<row row_number="6" isdata="1">ישלם חזר וכלל כלל ופרט וכלל אי אתה</row>
+		<row row_number="7" isdata="1">דן אלא כעין הפרט מה הפרט מפורש</row>
+		<row row_number="8" isdata="1">בעלי חיים אף כל בעלי חיים אי מה הפרט</row>
+		<row row_number="9" isdata="1">מפורש דבר שנבלתה מטמאה במגע</row>
+		<row row_number="10" isdata="1">ובמשא אף כל דבר שנבלתה מטמאה</row>
+		<row row_number="11" isdata="1">במגע ובמשא אבל עופות לא א"כ נכתוב</row>
+		<row row_number="12" isdata="1">רחמנא חד פרטא הי נכתוב אי כתב שור</row>
+		<row row_number="13" isdata="1">הוה אמינא קרב לגבי מזבח אין שאינו קרב</row>
+		<row row_number="14" isdata="1">לגבי מזבח לא ואי כתב רחמנא חמור</row>
+		<row row_number="15" isdata="1">ה"א קדוש בבכורה אין שאין קדוש בבכורה</row>
+		<row row_number="16" isdata="1">לא אלא אמר קרא והמת יהיה לו כל דבר</row>
+		<row row_number="17" isdata="1">מיתה בין לרבנן דקא ממעטי להו לכלים ובין</row>
+		<row row_number="18" isdata="1">לר' יהודה דקא מרבי להו לכלים כלים</row>
+		<row row_number="19" isdata="1">בני מיתה נינהו אמרי שבירתן זו היא מיתתן</row>
+		<row row_number="20" isdata="1">ולרב דאמר בור שחייבה עליו תורה</row>
+		<row row_number="21" isdata="1">להבלו ולא לחבטו בין לרבנן בין לרבי</row>
+		<row row_number="22" isdata="1">יהודה כלים בני הבלא נינהו אמרי בחדתי</row>
+		<row row_number="23" isdata="1">דמיפקעי מהבלא האי והמת יהיה לו</row>
+		<row row_number="24" isdata="1">מבעי ליה לכדרבא דאמר רבא שור</row>
+		<row row_number="25" isdata="1">פסולי המוקדשין שנפל לבור פטור שנאמר</row>
+		<row row_number="26" isdata="1">והמת יהיה לו במי שהמת שלו יצא זה</row>
+		<row row_number="27" isdata="1">שאין המת שלו אלא אמר קרא כסף</row>
+		<row row_number="28" isdata="1">ישיב לבעליו לרבות כל דאית ליה בעלים</row>
+		<row row_number="29" isdata="1">א"ה אפילו כלים ואדם נמי אמר קרא</row>
+		<row row_number="30" isdata="1">שור ולא אדם חמור ולא כלים ולרבי</row>
+		<row row_number="31" isdata="1">יהודה דקא מרבי להו לכלים בשלמא שור</row>
+		<row row_number="32" isdata="1">ממעט ביה אדם אלא חמור מאי ממעט</row>
+		<row row_number="33" isdata="1">ביה אלא אמר רבא חמור דבור לרבי</row>
+		<row row_number="34" isdata="1">יהודה ושה דאבידה לדברי הכל קשיא:</row>
+		<row row_number="35" isdata="1">נפל לתוכו שור חרש שוטה וקטן חייב:</row>
+		<row row_number="36" isdata="1">מאי שור חרש שוטה וקטן אילימא שור של</row>
+		<row row_number="37" isdata="1">חרש שור של שוטה שור של קטן הא שור</row>
+		<row row_number="38" isdata="1">של פקח פטור אמר רבי יוחנן שור שהוא</row>
+		<row row_number="39" isdata="1">חרש שור שהוא שוטה שור שהוא קטן</row>
+</amud>
+</daf>
+</masechet>
+</root>

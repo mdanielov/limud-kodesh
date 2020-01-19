@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:07.986007</dateCreated>
+   <lastModified>2020-01-14 15:02:07.986007</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תפלת השחר"/><ContGemara/>תנו רבנן טעה ולא התפלל מנחה בערב</row>
+		<row row_number="2" isdata="1">שבת מתפלל בליל שבת שתים טעה ולא</row>
+		<row row_number="3" isdata="1">התפלל מנחה בשבת מתפלל במוצאי שבת</row>
+		<row row_number="4" isdata="1">שתים של חול מבדיל בראשונה ואינו מבדיל</row>
+		<row row_number="5" isdata="1">בשניה ואם הבדיל בשניה ולא הבדיל</row>
+		<row row_number="6" isdata="1">בראשונה שניה עלתה לו ראשונה לא עלתה</row>
+		<row row_number="7" isdata="1">לו למימרא דכיון דלא אבדיל בקמייתא כמאן</row>
+		<row row_number="8" isdata="1">דלא צלי דמי ומהדרינן ליה ורמינהו טעה</row>
+		<row row_number="9" isdata="1">ולא הזכיר גבורות גשמים בתחיית המתים</row>
+		<row row_number="10" isdata="1">ושאלה בברכת השנים מחזירין אותו</row>
+		<row row_number="11" isdata="1">הבדלה בחונן הדעת אין מחזירין אותו מפני</row>
+		<row row_number="12" isdata="1">שיכול לאומרה על הכוס קשיא איתמר רבי</row>
+		<row row_number="13" isdata="1">יוסי ברבי חנינא אמר תפלות אבות תקנום</row>
+		<row row_number="14" isdata="1">רבי יהושע בן לוי אמר תפלות כנגד תמידין</row>
+		<row row_number="15" isdata="1">תקנום תניא כוותיה דר' יוסי ברבי חנינא</row>
+		<row row_number="16" isdata="1">ותניא כוותיה דרבי יהושע בן לוי תניא</row>
+		<row row_number="17" isdata="1">כוותיה דרבי יוסי בר' חנינא אברהם תקן</row>
+		<row row_number="18" isdata="1">תפלת שחרית שנא' וישכם אברהם בבקר</row>
+		<row row_number="19" isdata="1">אל המקום אשר עמד שם ואין עמידה אלא</row>
+		<row row_number="20" isdata="1">תפלה שנאמר ויעמד פינחס ויפלל יצחק</row>
+		<row row_number="21" isdata="1">תקן תפלת מנחה שנאמר ויצא יצחק לשוח</row>
+		<row row_number="22" isdata="1">בשדה לפנות ערב ואין שיחה אלא תפלה</row>
+		<row row_number="23" isdata="1">שנאמר תפלה לעני כי יעטף ולפני ה'</row>
+		<row row_number="24" isdata="1">ישפוך שיחו יעקב תקן תפלת ערבית שנאמר</row>
+		<row row_number="25" isdata="1">ויפגע במקום וילן שם ואין פגיעה אלא</row>
+		<row row_number="26" isdata="1">תפלה שנאמר ואתה אל תתפלל בעד העם</row>
+		<row row_number="27" isdata="1">הזה ואל תשא בעדם רנה ותפלה ואל תפגע</row>
+		<row row_number="28" isdata="1">בי ותניא כוותיה דר' יהושע בן לוי מפני מה</row>
+		<row row_number="29" isdata="1">אמרו תפלת השחר עד חצות שהרי תמיד</row>
+		<row row_number="30" isdata="1">של שחר קרב והולך עד חצות ורבי יהודה</row>
+		<row row_number="31" isdata="1">אומר עד ארבע שעות שהרי תמיד של שחר</row>
+		<row row_number="32" isdata="1">קרב והולך עד ארבע שעות ומפני מה אמרו</row>
+		<row row_number="33" isdata="1">תפלת המנחה עד הערב שהרי תמיד של בין הערבים קרב והולך עד</row>
+		<row row_number="34" isdata="1">הערב רבי יהודה אומר עד פלג המנחה שהרי תמיד של בין הערבים</row>
+		<row row_number="35" isdata="1">קרב והולך עד פלג המנחה ומפני מה אמרו תפלת הערב אין לה קבע</row>
+		<row row_number="36" isdata="1">שהרי אברים ופדרים שלא נתעכלו מבערב קרבים והולכים כל הלילה</row>
+		<row row_number="37" isdata="1">ומפני מה אמרו של מוספין כל היום שהרי קרבן של מוספין קרב כל</row>
+		<row row_number="38" isdata="1">היום רבי יהודה אומר עד שבע שעות שהרי קרבן מוסף קרב והולך</row>
+		<row row_number="39" isdata="1">עד שבע שעות ואיזו היא מנחה גדולה משש שעות ומחצה ולמעלה</row>
+		<row row_number="40" isdata="1">ואיזו היא מנחה קטנה מתשע שעות ומחצה ולמעלה איבעיא להו רבי</row>
+		<row row_number="41" isdata="1">יהודה פלג מנחה קמא קאמר או פלג מנחה אחרונה קאמר תא שמע</row>
+		<row row_number="42" isdata="1">דתניא ר' יהודה אומר פלג המנחה אחרונה אמרו והיא י"א שעות חסר רביע</row>
+		<row row_number="43" isdata="1">נימא תיהוי תיובתיה דר' יוסי בר' חנינא אמר לך ר' יוסי בר' חנינא</row>
+		<row row_number="44" isdata="1">לעולם אימא לך תפלות אבות תקנום ואסמכינהו רבנן אקרבנות דאי</row>
+		<row row_number="45" isdata="1">לא תימא הכי תפלת מוסף לר' יוסי בר' חנינא מאן תקנה אלא תפלות</row>
+		<row row_number="46" isdata="1">אבות תקנום ואסמכינהו רבנן אקרבנות: רבי יהודה אומר עד ארבע</row>
+		<row row_number="47" isdata="1">שעות: איבעיא להו עד ועד בכלל או דלמא עד ולא עד בכלל תא שמע</row>
+		<row row_number="48" isdata="1">ר' יהודה אומר עד פלג המנחה אי אמרת בשלמא עד ולא עד בכלל</row>
+		<row row_number="49" isdata="1">היינו דאיכא בין ר' יהודה לרבנן אלא אי אמרת עד ועד בכלל ר' יהודה</row>
+</amud>
+</daf>
+</masechet>
+</root>

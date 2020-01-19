@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:23.457208</dateCreated>
+   <lastModified>2020-01-14 15:02:23.457208</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="78">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>זיז היוצא מן הכותל ד' על ד' והניח עליו</row>
+		<row row_number="2" isdata="1">סולם כל שהוא מיעטו ולא אמרן אלא</row>
+		<row row_number="3" isdata="1">דאותביה עליה אבל אותביה בהדי' ארווחי</row>
+		<row row_number="4" isdata="1">ארוחיה ואמר רב נחמן אמר רבה בר אבוה</row>
+		<row row_number="5" isdata="1">כותל תשעה עשר צריך זיז אחד להתירו</row>
+		<row row_number="6" isdata="1">כותל עשרים צריך שני זיזים להתירו אמר רב</row>
+		<row row_number="7" isdata="1">חסדא והוא שהעמידן זה שלא כנגד זה</row>
+		<row row_number="8" isdata="1">אמר רב הונא עמוד ברה"ר גבוה עשרה</row>
+		<row row_number="9" isdata="1">ורחב ארבעה ונעץ בו יתד כל שהוא מיעטו</row>
+		<row row_number="10" isdata="1">אמר רב אדא בר אהבה ובגבוה שלשה</row>
+		<row row_number="11" isdata="1">אביי ורבא דאמרי תרוייהו אף על פי שאין</row>
+		<row row_number="12" isdata="1">גבוה שלשה מאי טעמא לא משתמש ליה</row>
+		<row row_number="13" isdata="1">רב אשי אמר אפילו שגבוה שלשה מאי</row>
+		<row row_number="14" isdata="1">טעמא אפשר דתלי' ביה מידי אמר ליה רב</row>
+		<row row_number="15" isdata="1">אחא בריה דרבא לרב אשי מלאו כולו</row>
+		<row row_number="16" isdata="1">ביתדות מהו א"ל לא שמיע לך הא דאמר</row>
+		<row row_number="17" isdata="1">רבי יוחנן בור וחולייתה מצטרף לעשרה</row>
+		<row row_number="18" isdata="1">ואמאי הא לא משתמש ליה אלא מאי אית</row>
+		<row row_number="19" isdata="1">לך למימר דמנח מידי ומשתמש הכא נמי</row>
+		<row row_number="20" isdata="1">דמנח מידי ומשתמש אמר רב יהודה אמר</row>
+		<row row_number="21" isdata="1">שמואל כותל עשרה צריך סולם ארבעה</row>
+		<row row_number="22" isdata="1">עשר להתירו רב יוסף אמר אפילו שלשה</row>
+		<row row_number="23" isdata="1">עשר ומשהו אביי אמר אפילו אחד עשר</row>
+		<row row_number="24" isdata="1">ומשהו רב הונא בריה דרב יהושע אמר</row>
+		<row row_number="25" isdata="1">אפילו שבעה ומשהו אמר רב סולם זקוף</row>
+		<row row_number="26" isdata="1">ממעט גמרא ולא ידענא מ"ט אמר שמואל</row>
+		<row row_number="27" isdata="1">ולא ידע אבא טעמא דהא מלתא מידי</row>
+		<row row_number="28" isdata="1">דהוה אאיצטבא על גבי איצטבא אמר רבה</row>
+		<row row_number="29" isdata="1">אמר רבי חייא דקלים שבבבל אינן צריכין</row>
+		<row row_number="30" isdata="1">קבע מאי טעמא כבידן קובעתן ורב יוסף</row>
+		<row row_number="31" isdata="1">אמר רבי אושעיא סולמות שבבבל אינן</row>
+		<row row_number="32" isdata="1">צריכין קבע מ"ט כבידן קובעתן מאן דאמר</row>
+		<row row_number="33" isdata="1">סולמות כל שכן דקלים ומאן דאמר דקלים</row>
+		<row row_number="34" isdata="1">אבל סולמות לא בעא מיניה רב יוסף מרבה</row>
+		<row row_number="35" isdata="1">סולם מכאן וסולם מכאן וקשין באמצע מהו</row>
+		<row row_number="36" isdata="1">אמר ליה אין כף הרגל עולה בהן</row>
+		<row row_number="37" isdata="1">קשין מכאן וקשין מכאן וסולם באמצע</row>
+		<row row_number="38" isdata="1">מהו אמר ליה הרי כף הרגל עולה בהן</row>
+</amud>
+</daf>
+</masechet>
+</root>

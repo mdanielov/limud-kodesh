@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:13.191407</dateCreated>
+   <lastModified>2020-01-14 15:02:13.191407</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="71">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>מכלל דרישא מין אחד ותמחוי אחד מין אחד</row>
+		<row row_number="2" isdata="1">ותמחוי אחד צריכא למימר אמר רב הונא</row>
+		<row row_number="3" isdata="1">הכא במאי עסקינן כגון שהיתה לו ידיעה</row>
+		<row row_number="4" isdata="1">בינתיים ורבן גמליאל היא דאמר אין ידיעה</row>
+		<row row_number="5" isdata="1">לחצי שיעור: איתמר אכל שני זיתי חלב</row>
+		<row row_number="6" isdata="1">בהעלם אחד ונודע לו על הראשון וחזר ונודע</row>
+		<row row_number="7" isdata="1">לו על השני ר' יוחנן אמר חייב שתים וריש</row>
+		<row row_number="8" isdata="1">לקיש אמר אינו חייב אלא אחת רבי יוחנן</row>
+		<row row_number="9" isdata="1">אמר חייב על חטאתו והביא וריש לקיש</row>
+		<row row_number="10" isdata="1">אמר פטור מחטאתו ונסלח לו וריש לקיש</row>
+		<row row_number="11" isdata="1">הכתיב על חטאתו והביא ההוא לאחר כפרה</row>
+		<row row_number="12" isdata="1">ולרבי יוחנן נמי הכתיב מחטאתו ונסלח לו</row>
+		<row row_number="13" isdata="1">הכא במאי עסקינן כגון שאכל כזית ומחצה</row>
+		<row row_number="14" isdata="1">ונודע לו על כזית וחזר ואכל כחצי זית אחר</row>
+		<row row_number="15" isdata="1">בהעלמו של שני מהו דתימא ליצטרפו קמ"ל</row>
+		<row row_number="16" isdata="1">א"ל רבינא לרב אשי דאיתידע ליה קודם</row>
+		<row row_number="17" isdata="1">הפרשה פליגי ובהא פליגי דמר סבר ידיעות</row>
+		<row row_number="18" isdata="1">מחלקות ומר סבר הפרשות מחלקות אבל</row>
+		<row row_number="19" isdata="1">לאחר הפרשה מודי ליה ריש לקיש לר' יוחנן</row>
+		<row row_number="20" isdata="1">דחייב שתים או דילמא דאיתידע ליה לאחר</row>
+		<row row_number="21" isdata="1">הפרשה פליגי ובהא פליגי דמר סבר הפרשות</row>
+		<row row_number="22" isdata="1">מחלקות ומר סבר כפרות מחלקות אבל</row>
+		<row row_number="23" isdata="1">קודם הפרשה מודי ליה ר' יוחנן לריש לקיש</row>
+		<row row_number="24" isdata="1">דאינו חייב אלא אחת או דילמא בין בזו ובין</row>
+		<row row_number="25" isdata="1">בזו מחלוקת א"ל מסתברא בין בזו ובין בזו</row>
+		<row row_number="26" isdata="1">מחלוקת דאי סלקא דעתך קודם הפרשה פליגי אבל לאחר הפרשה מודה ליה</row>
+		<row row_number="27" isdata="1">ריש לקיש לר' יוחנן דחייב שתים אדמוקים ליה קרא לאחר כפרה לוקמיה</row>
+		<row row_number="28" isdata="1">לאחר הפרשה ואי אחר הפרשה פליגי אבל קודם הפרשה מודה ליה רבי יוחנן</row>
+		<row row_number="29" isdata="1">לריש לקיש דאינו חייב אלא אחת אדמוקי ליה קרא בכזית ומחצה לוקמיה</row>
+		<row row_number="30" isdata="1">קודם הפרשה ודילמא ספוקי מספקא ליה ואם תימצי לומר קאמר אם תימצי</row>
+		<row row_number="31" isdata="1">לומר קודם הפרשה פליגי בה רבי יוחנן היכי מוקי ליה לקרא בכזית ומחצה</row>
+		<row row_number="32" isdata="1">ואם תימצי לומר לאחר הפרשה פליגי ריש לקיש היכי מוקי ליה לקרא</row>
+		<row row_number="33" isdata="1">בלאחר כפרה: אמר עולא למאן דאמר אשם ודאי לא בעיא ידיעה בתחילה</row>
+</amud>
+</daf>
+</masechet>
+</root>

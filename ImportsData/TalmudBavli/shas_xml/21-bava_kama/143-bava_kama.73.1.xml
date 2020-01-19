@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:20.185630</dateCreated>
+   <lastModified>2020-01-14 15:03:20.185630</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="73">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מרובה"/><ContGemara/>משום פסידא דלקוחות מאי בינייהו דאסהידו</row>
+		<row row_number="2" isdata="1">ביה תרי לחד ותרי לחד אי נמי דפסלינהו</row>
+		<row row_number="3" isdata="1">בגזלנותא להך לישנא דאמרת משום חידוש</row>
+		<row row_number="4" isdata="1">ליכא להך לישנא דאמרת משום פסידא</row>
+		<row row_number="5" isdata="1">דלקוחות איכא אמר רבי ירמיה מדפתי</row>
+		<row row_number="6" isdata="1">עבד רב פפא עובדא כוותיה דרבא רב</row>
+		<row row_number="7" isdata="1">אשי אמר הלכתא כוותיה דאביי והלכתא</row>
+		<row row_number="8" isdata="1">כוותיה דאביי ביע"ל קג"ם: תנן גנב על</row>
+		<row row_number="9" isdata="1">פי שנים וטבח ומכר על פיהם ונמצאו</row>
+		<row row_number="10" isdata="1">זוממין משלמין את הכל מאי לאו שהעידו</row>
+		<row row_number="11" isdata="1">על הגניבה וחזרו והעידו על הטביחה והוזמו</row>
+		<row row_number="12" isdata="1">על הגניבה וחזרו והוזמו על הטביחה ואי</row>
+		<row row_number="13" isdata="1">סלקא דעתך למפרע הוא נפסל הני כיון</row>
+		<row row_number="14" isdata="1">דאיתזמו להו אגניבה איגלאי מילתא למפרע</row>
+		<row row_number="15" isdata="1">דכי אסהדו אטביחה פסולין הוו אמאי</row>
+		<row row_number="16" isdata="1">משלמין אטביחה אמרי הכא במאי עסקינן</row>
+		<row row_number="17" isdata="1">כגון שהוזמו על הטביחה תחילה אמרי</row>
+		<row row_number="18" isdata="1">סוף סוף כי הדרי מיתזמי אגניבה איגלאי</row>
+		<row row_number="19" isdata="1">מילתא דכי אסהדו אטביחה פסולין הוו</row>
+		<row row_number="20" isdata="1">אמאי משלמי אטביחה והלכתא שהעידו</row>
+		<row row_number="21" isdata="1">בבת אחת והוזמו לימא כתנאי היו שנים</row>
+		<row row_number="22" isdata="1">מעידין אותו שגנב והן מעידין אותו שטבח</row>
+		<row row_number="23" isdata="1">והוזמו על הגניבה עדות שבטלה מקצתה</row>
+		<row row_number="24" isdata="1">בטלה כולה הוזמו על הטביחה הוא משלם</row>
+		<row row_number="25" isdata="1">תשלומי כפל והן משלמין תשלומי שלשה</row>
+		<row row_number="26" isdata="1">א"ר יוסי בד"א בשתי עדיות אבל בעדות</row>
+		<row row_number="27" isdata="1">אחת עדות שבטלה מקצתה בטלה כולה</row>
+		<row row_number="28" isdata="1">מאי בשתי עדיות ומאי בעדות אחת אילימא</row>
+		<row row_number="29" isdata="1">בשתי עדיות בשתי עדיות ממש בשתי</row>
+		<row row_number="30" isdata="1">כתות בעדות אחת בכת אחת בזה אחר</row>
+		<row row_number="31" isdata="1">זה וא"ר יוסי בעדות אחת בכת אחת בזה</row>
+		<row row_number="32" isdata="1">אחר זה כי מסהדי אגניבה והדר מסהדי</row>
+		<row row_number="33" isdata="1">אטביחה כי מתזמי אטביחה עדות שבטלה</row>
+		<row row_number="34" isdata="1">מקצתה בטלה כולה ואיתזמו להו אגניבה</row>
+		<row row_number="35" isdata="1">מהיכא תיתי הך אלא לאו בשתי עדיות</row>
+		<row row_number="36" isdata="1">בעדות אחת כעין שתי עדיות ומאי נינהו</row>
+		<row row_number="37" isdata="1">כת אחת בזה אחר זה אבל בעדות אחת</row>
+		<row row_number="38" isdata="1">בבת אחת לא וסברוה דכולי עלמא תוך</row>
+		<row row_number="39" isdata="1">כדי דיבור כדיבור דמי מאי לאו בהא קמיפלגי</row>
+		<row row_number="40" isdata="1">דרבנן סברי מכאן ולהבא הוא נפסל וכיון</row>
+		<row row_number="41" isdata="1">דמההיא שעתא קא מיתזמי אטביחה דקא</row>
+		<row row_number="42" isdata="1">מיתזמי איתזום אגניבה דלא מיתזמי לא</row>
+		<row row_number="43" isdata="1">איתזום ר' יוסי סבר למפרע הוא נפסל</row>
+		<row row_number="44" isdata="1">וכיון דמיד כי אסהידו הוא דמיפסלי כי איתזמו להו אטביחה איתזמו להו</row>
+		<row row_number="45" isdata="1">נמי אגניבה דהא תוך כדי דיבור כדיבור דמי אמרי אי תוך כדי</row>
+		<row row_number="46" isdata="1">דיבור כדיבור דמי דכולי עלמא למפרע הוא נפסל אלא הכא בתוך</row>
+		<row row_number="47" isdata="1">כדי דיבור כדיבור דמי קא מיפלגי רבנן סברי תוך כדי דיבור</row>
+</amud>
+</daf>
+</masechet>
+</root>

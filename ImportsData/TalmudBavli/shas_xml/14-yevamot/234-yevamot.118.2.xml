@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.647332</dateCreated>
+   <lastModified>2020-01-14 15:02:53.647332</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="118">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה שלום"/><ContMishna/>מתני' קידש אחת מחמש נשים ואין יודע<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">אי זו קידש כל אחת אומרת אותי קידש</row>
+		<row row_number="3" isdata="1">נותן גט לכל אחת ואחת ומניח כתובה ביניהן</row>
+		<row row_number="4" isdata="1">ומסתלק דברי רבי טרפון רבי עקיבא אומר</row>
+		<row row_number="5" isdata="1">אין זו דרך מוציא מידי עבירה עד שיתן גט</row>
+		<row row_number="6" isdata="1">וכתובה לכל אחת ואחת גזל אחד מחמשה</row>
+		<row row_number="7" isdata="1">ואין יודע מאיזה גזל כל אחד אומר אותי גזל</row>
+		<row row_number="8" isdata="1">מניח גזילה ביניהן ומסתלק דברי רבי טרפון</row>
+		<row row_number="9" isdata="1">רבי עקיבא אומר אין זו דרך מוציא מידי</row>
+		<row row_number="10" isdata="1">עבירה עד שישלם לכל אחד ואחד:<EndMishna/><StartGemara/>גמ' קידש קתני בעל לא קתני גזל</row>
+		<row row_number="11" isdata="1">קתני לקח לא קתני מני מתני' לא תנא קמא ולא רבי שמעון בן אלעזר דתניא</row>
+		<row row_number="12" isdata="1">רשב"א אומר לא נחלקו רבי טרפון ורבי עקיבא על שקידש אחת מחמש נשים</row>
+		<row row_number="13" isdata="1">ואינו יודע איזו קידש שמניח כתובה ביניהן ומסתלק על מה נחלקו על שבעל</row>
+		<row row_number="14" isdata="1">רבי טרפון אומר מניח כתובה ביניהן ומסתלק רבי עקיבא אומר עד שישלם</row>
+		<row row_number="15" isdata="1">לכל אחת ואחת לא נחלקו רבי טרפון ורבי עקיבא על שלקח מקח מחמשה</row>
+		<row row_number="16" isdata="1">בני אדם ואין יודע מאיזה מהן לקח שמניח דמי מקח ביניהן ומסתלק לא</row>
+		<row row_number="17" isdata="1">נחלקו אלא שגזל מחמשה שאמר ר' טרפון מניח גזילה ביניהם ומסתלק ורבי</row>
+		<row row_number="18" isdata="1">עקיבא אומר עד שישלם גזילה לכל אחד ואחד מדקאמר רבי שמעון בן אלעזר</row>
+		<row row_number="19" isdata="1">בקידש ולקח לא פליגי מכלל דתנא קמא סבר פליגי מני אי תנא קמא ליתני</row>
+		<row row_number="20" isdata="1">קידש ולקח אי רבי שמעון בן אלעזר ליתני בעל וגזל לעולם רבי שמעון בן</row>
+		<row row_number="21" isdata="1">אלעזר ומאי קידש קידש בביאה תנא קידש להודיעך כחו דרבי עקיבא דאע"ג</row>
+		<row row_number="22" isdata="1">דאיסורא דרבנן עבד קניס תנא גזל להודיעך כחו דרבי טרפון דאע"ג דאיסורא</row>
+		<row row_number="23" isdata="1">דאורייתא עבד לא קניס<EndGemara/><StartMishna/>מתני' האשה שהלכה היא ובעלה למדינת הים</row>
+		<row row_number="24" isdata="1">ובנה עמהם ובאת ואמרה מת בעלי ואחר כך מת בני נאמנת מת בני ואחר</row>
+		<row row_number="25" isdata="1">כך מת בעלי אינה נאמנת וחוששין לדבריה וחולצת ולא מתייבמת ניתן לי</row>
+		<row row_number="26" isdata="1">בן במדינת הים ואמרה מת בני ואחר כך מת בעלי נאמנת מת בעלי ואחר כך</row>
+		<row row_number="27" isdata="1">מת בני אינה נאמנת וחוששין לדבריה וחולצת ולא מתייבמת ניתן לי יבם</row>
+		<row row_number="28" isdata="1">במדינת הים אמרה מת בעלי ואחר כך מת יבמי יבמי ואחר כך בעלי נאמנת</row>
+		<row row_number="29" isdata="1">הלכה היא ובעלה ויבמה למדינת הים אמרה מת בעלי ואחר כך יבמי יבמי</row>
+		<row row_number="30" isdata="1">ואחר כך בעלי אינה נאמנת שאין האשה נאמנת לומר מת יבמי שתנשא</row>
+		<row row_number="31" isdata="1">ולא מתה אחותה שתכנס לביתו ואין האיש נאמן לומר מת אחי שייבם אשתו</row>
+		<row row_number="32" isdata="1">ולא מתה אשתו שישא אחותה:<EndMishna/><StartGemara/>גמ' בעא מיניה רבא מרב נחמן המזכה</row>
+		<row row_number="33" isdata="1">גט לאשתו במקום יבם מהו כיון דסניא ליה זכות הוא לה וזכין לאדם שלא</row>
+		<row row_number="34" isdata="1">בפניו או דלמא כיון דזימנין דרחמא ליה חוב הוא לה ואין חבין לאדם שלא</row>
+		<row row_number="35" isdata="1">בפניו אמר ליה תנינא וחוששין לדבריה וחולצת ולא מתייבמת אמר ליה</row>
+		<row row_number="36" isdata="1">רבינא לרבא המזכה גט לאשתו במקום קטטה מהו כיון דאית לה קטטה</row>
+		<row row_number="37" isdata="1">בהדיה זכות הוא לה או דלמא ניחא דגופא עדיף לה תא שמע דאמר</row>
+		<row row_number="38" isdata="1">ריש לקיש טב למיתב טן דו מלמיתב ארמלו אביי אמר דשומשמנא</row>
+		<row row_number="39" isdata="1">גברא כורסיה בי חרתא רמו לה רב פפא אמר דנפצא גברא תיקרי בסיפי</row>
+		<row row_number="40" isdata="1">בבא ותיתיב רב אשי אומר דקולסא גברא לא בעיא טלפחי לקידרא תנא</row>
+		<row row_number="41" isdata="1">וכולן מזנות ותולות בבעליהן:<EndChapter name = "האשה שלום"/><EndGemara/></row>
+		<row row_number="42" isdata="0">הדרן עלך האשה שלום</row>
+</amud>
+</daf>
+</masechet>
+</root>

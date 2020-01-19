@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:13.212789</dateCreated>
+   <lastModified>2020-01-14 15:04:13.212789</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="50">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>ולדידן מיסתם נמי לא סתים דאקשתא כולי</row>
+		<row row_number="2" isdata="1">עלמא לא פליגי דאסיר כי פליגי דאייתרא</row>
+		<row row_number="3" isdata="1">איכא דאמרי דאייתרא כולי עלמא לא פליגי</row>
+		<row row_number="4" isdata="1">דשרי כי פליגי דאקשתא כי הא דאמר רב</row>
+		<row row_number="5" isdata="1">אויא אמר רבי אמי מקמצין וכן אמר רבי ינאי</row>
+		<row row_number="6" isdata="1">משום זקן אחד מקמצין אמר רב אויא הוה</row>
+		<row row_number="7" isdata="1">קאימנא קמיה דרבי אמי קמצו והבו ליה</row>
+		<row row_number="8" isdata="1">ואכל שמעיה דרבי חנינא הוה קאי קמיה</row>
+		<row row_number="9" isdata="1">דרבי חנינא א"ל קמוץ הב לי דאיכול חזייה</row>
+		<row row_number="10" isdata="1">דהוי קמחסם אמר ליה בבלאה את גום שדי</row>
+		<row row_number="11" isdata="1">תניא רשב"ג אומר בני מעיין שניקבו וליחה</row>
+		<row row_number="12" isdata="1">סותמתן כשרה מאי ליחה אמר רב כהנא</row>
+		<row row_number="13" isdata="1">שירקא דמעייא דנפיק אגב דוחקא גמירי</row>
+		<row row_number="14" isdata="1">חבריא דרבי אבא מרבי אבא ומנו רבי זירא</row>
+		<row row_number="15" isdata="1">ואמרי לה חבריא דרבי זירא מר' זירא ומנו</row>
+		<row row_number="16" isdata="1">רבי אבא (אמר רבי אבא) בריה דרבי חייא</row>
+		<row row_number="17" isdata="1">בר אבא הכי אמר (רבי חייא בר אבא אמר) רבי יוחנן הלכה כרשב"ג</row>
+		<row row_number="18" isdata="1">בטרפה והלכה כרבי שמעון באבל הלכה כרשב"ג בטרפה הא דאמרן</row>
+		<row row_number="19" isdata="1">כרבי שמעון באבל מאי היא דתנן כל שלשה ימים הראשונים בא ממקום</row>
+		<row row_number="20" isdata="1">קרוב מונה עמהן ממקום רחוק מונה לעצמו מכאן ואילך אפילו בא ממקום</row>
+		<row row_number="21" isdata="1">קרוב מונה לעצמו רבי שמעון אומר אפילו ביום השביעי בא ממקום קרוב</row>
+		<row row_number="22" isdata="1">מונה עמהן אמר מאן דהוא איזכי ואיסק ואגמרה לשמעתא מפומיה דמרה</row>
+		<row row_number="23" isdata="1">כי סליק אשכחיה לרבי אבא בריה דר' חייא בר אבא א"ל אמר מר הלכה</row>
+		<row row_number="24" isdata="1">כרשב"ג בטרפה א"ל הא אין הלכה אמרי כרבי שמעון באבל מאי א"ל</row>
+		<row row_number="25" isdata="1">פלוגתא נינהו דאיתמר רב חסדא אמר הלכה וכן אמר רבי יוחנן הלכה ורב</row>
+		<row row_number="26" isdata="1">נחמן אמר אין הלכה ואין הלכה כרבן שמעון בן גמליאל בטרפה והלכה</row>
+		<row row_number="27" isdata="1">כרבי שמעון באבל דאמר שמואל הלכה כדברי המיקל באבל אמר רב</row>
+		<row row_number="28" isdata="1">שימי בר חייא מקיפים בבני מעיים הנהו בני מעיים דאתו לקמיה דרבא</row>
+		<row row_number="29" isdata="1">אקפינהו ולא אידמו אתא רב משרשיא בריה ממשמש בהו ואידמו אמר</row>
+		<row row_number="30" isdata="1">ליה מנא לך הא אמר ליה כמה ידי ממשמשו בהני מקמי דליתי לקמיה דמר</row>
+		<row row_number="31" isdata="1">אמר ליה חכים ברי בטרפות כרבי יוחנן רבי יוחנן ורבי אלעזר דאמרי</row>
+		<row row_number="32" isdata="1">תרוייהו מקיפים בריאה אמר רבא לא אמרן אלא באותה ערוגה אבל</row>
+		<row row_number="33" isdata="1">מערוגה לערוגה לא והלכתא אפילו מערוגה לערוגה מדקה לדקה ומגסה</row>
+		<row row_number="34" isdata="1">לגסה אבל לא מגסה לדקה ולא מדקה לגסה אביי ורבא דאמרי תרוייהו</row>
+		<row row_number="35" isdata="1">מקיפין בקנה אמר רב פפא לא אמרן אלא באותה חוליא אבל מחוליא</row>
+		<row row_number="36" isdata="1">לחוליא לא והלכתא אפילו מחוליא לחוליא ומבר חוליא לבר חוליא אבל</row>
+		<row row_number="37" isdata="1">לא מחוליא לבר חוליא ולא מבר חוליא לחוליא אמר זעירי חלחולת שניקבה</row>
+		<row row_number="38" isdata="1">כשרה הואיל ויריכים מעמידות אותה וכמה אמר רבי אילעי אמר רבי</row>
+		<row row_number="39" isdata="1">יוחנן מקום הדבק ברובו שלא במקום הדבק במשהו אמרוה רבנן</row>
+		<row row_number="40" isdata="1">קמיה דרבא משמיה דרב נחמן אמר לאו מי אמינא לכו לא תתלו ביה</row>
+</amud>
+</daf>
+</masechet>
+</root>

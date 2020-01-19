@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:53.623686</dateCreated>
+   <lastModified>2020-01-14 15:03:53.623686</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="67">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השוכר את הפועל"/><ContGemara/>טעמו ולא ממשו אסור ואין לוקין עליו ואם</row>
+		<row row_number="2" isdata="1">ריבה טעם לפגם מותר ולימא אם נתן טעם</row>
+		<row row_number="3" isdata="1">לפגם מותר הא קמשמע לן דאע"ג דאיכא</row>
+		<row row_number="4" isdata="1">מילי אחרנייתא דפגמה בהדיה והלכתא</row>
+		<row row_number="5" isdata="1">כלישנא בתרא דריש לקיש אמר רב כהנא</row>
+		<row row_number="6" isdata="1">מדברי כולם נלמד נותן טעם לפגם מותר</row>
+		<row row_number="7" isdata="1">א"ל אביי בשלמא מכולהו לחיי אלא דר"ל</row>
+		<row row_number="8" isdata="1">אמרו קאמר וליה לא סבירא ליה מכלל דאיכא</row>
+		<row row_number="9" isdata="1">למ"ד נותן טעם לפגם אסור אין והתניא אחד</row>
+		<row row_number="10" isdata="1">נותן טעם לפגם ואחד נותן טעם לשבח אסור</row>
+		<row row_number="11" isdata="1">דברי ר"מ ר"ש אומר לשבח אסור ולפגם</row>
+		<row row_number="12" isdata="1">מותר מ"ט דר"מ גמר מגיעולי עובדי כוכבים</row>
+		<row row_number="13" isdata="1">גיעולי עובדי כוכבים לאו נותן טעם לפגם הוא</row>
+		<row row_number="14" isdata="1">ואסר רחמנא ה"נ לא שנא ואידך כדרב הונא</row>
+		<row row_number="15" isdata="1">בריה דרב חייא דאמר רב הונא בריה דרב</row>
+		<row row_number="16" isdata="1">חייא לא אסרה תורה אלא קדירה בת יומא דלא לפגם הוא ואידך קדירה</row>
+		<row row_number="17" isdata="1">בת יומא נמי אי אפשר דלא פגמה פורתא ור"ש מאי טעמא דתניא לא</row>
+		<row row_number="18" isdata="1">תאכלו כל נבלה לגר אשר בשעריך כל הראויה לגר קרויה נבילה</row>
+</amud>
+</daf>
+</masechet>
+</root>

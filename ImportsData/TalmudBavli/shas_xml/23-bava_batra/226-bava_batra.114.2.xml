@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:35.456856</dateCreated>
+   <lastModified>2020-01-14 15:03:35.456856</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="114">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>מענינא לענינא ה"נ דקמו והדר יתיבו</row>
+		<row row_number="2" isdata="1">והלכתא כוותיה דרב יוסף בשדה ענין</row>
+		<row row_number="3" isdata="1">ומחצה: האשה את בנה וכו': הא תו למה</row>
+		<row row_number="4" isdata="1">לי הא תנא ליה רישא האיש את אמו והאיש</row>
+		<row row_number="5" isdata="1">את אשתו הא קא משמע לן דאשה את</row>
+		<row row_number="6" isdata="1">בנה דומיא דאשה את בעלה מה אשה</row>
+		<row row_number="7" isdata="1">את בעלה אין הבעל יורש את אשתו</row>
+		<row row_number="8" isdata="1">בקבר אף אשה את בנה אין הבן יורש</row>
+		<row row_number="9" isdata="1">את אמו בקבר להנחיל לאחין מן האב אמר</row>
+		<row row_number="10" isdata="1">רבי יוחנן משום רבי יהודה בן ר' שמעון</row>
+		<row row_number="11" isdata="1">דבר תורה האב יורש את בנו ואשה יורשת</row>
+		<row row_number="12" isdata="1">את בנה שנאמר מטות מקיש מטה האם</row>
+		<row row_number="13" isdata="1">למטה האב מה מטה האב אב יורש את בנו</row>
+		<row row_number="14" isdata="1">אף מטה האם אשה יורשת את בנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

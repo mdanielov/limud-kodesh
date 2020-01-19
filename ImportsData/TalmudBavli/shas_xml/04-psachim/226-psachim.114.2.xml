@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:33.006852</dateCreated>
+   <lastModified>2020-01-14 15:02:33.006852</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="114">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>אמר ר"ל זאת אומרת מצות צריכות כוונה</row>
+		<row row_number="2" isdata="1">כיון דלא בעידן חיובא דמרור הוא דאכיל</row>
+		<row row_number="3" isdata="1">ליה בבורא פה"א הוא דאכיל ליה ודילמא</row>
+		<row row_number="4" isdata="1">לא איכוון למרור הלכך בעי למהדר</row>
+		<row row_number="5" isdata="1">לאטבולי לשם מרור דאי סלקא דעתך מצוה</row>
+		<row row_number="6" isdata="1">לא בעיא כוונה למה לך תרי טיבולי והא</row>
+		<row row_number="7" isdata="1">טביל ליה חדא זימנא ממאי דילמא לעולם</row>
+		<row row_number="8" isdata="1">מצות אין צריכות כוונה ודקאמרת תרי</row>
+		<row row_number="9" isdata="1">טיבולי למה לי כי היכי דליהוי היכירא</row>
+		<row row_number="10" isdata="1">לתינוקות וכי תימא א"כ לישמעינן שאר</row>
+		<row row_number="11" isdata="1">ירקות אי אשמעינן שאר ירקות הוה אמינא</row>
+		<row row_number="12" isdata="1">היכא דאיכא שאר ירקות הוא דבעינן תרי</row>
+		<row row_number="13" isdata="1">טיבולי אבל חזרת לחודא לא בעי תרי טיבולי</row>
+		<row row_number="14" isdata="1">קמשמע לן דאפי' חזרת בעינן תרי טיבולי</row>
+		<row row_number="15" isdata="1">כי היכי דליהוי ביה היכירא לתינוקות ועוד</row>
+		<row row_number="16" isdata="1">תניא אכלן דמאי יצא אכלן בלא מתכוין</row>
+		<row row_number="17" isdata="1">יצא אכלן לחצאין יצא ובלבד שלא ישהא</row>
+		<row row_number="18" isdata="1">בין אכילה לחבירתה יותר מכדי אכילת</row>
+		<row row_number="19" isdata="1">פרס תנאי היא דתניא רבי יוסי אומר אע"פ</row>
+		<row row_number="20" isdata="1">שטיבל בחזרת מצוה להביא לפניו חזרת</row>
+		<row row_number="21" isdata="1">וחרוסת ושני תבשילין ואכתי ממאי דילמא</row>
+		<row row_number="22" isdata="1">קסבר רבי יוסי מצות אין צריכות כוונה והאי</row>
+		<row row_number="23" isdata="1">דבעינן תרי טיבולי כי היכי דתיהוי היכירא</row>
+		<row row_number="24" isdata="1">לתינוקות א"כ מאי מצוה מאי שני תבשילין</row>
+		<row row_number="25" isdata="1">אמר רב הונא סילקא וארוזא רבא הוה</row>
+		<row row_number="26" isdata="1">מיהדר אסילקא וארוזא הואיל ונפיק מפומיה</row>
+		<row row_number="27" isdata="1">דרב הונא אמר רב אשי שמע מינה דרב</row>
+		<row row_number="28" isdata="1">הונא לית דחייש להא דרבי יוחנן בן נורי</row>
+		<row row_number="29" isdata="1">דתניא רבי יוחנן בן נורי אומר אורז מין דגן</row>
+		<row row_number="30" isdata="1">הוא וחייבין על חימוצו כרת ואדם יוצא בו</row>
+		<row row_number="31" isdata="1">ידי חובתו בפסח חזקיה אמר אפי' דג וביצה</row>
+		<row row_number="32" isdata="1">שעליו רב יוסף אמר צריך שני מיני בשר אחד</row>
+		<row row_number="33" isdata="1">זכר לפסח וא' זכר לחגיגה רבינא אמר אפילו</row>
+		<row row_number="34" isdata="1">גרמא ובישולא פשיטא היכא דאיכא שאר</row>
+		<row row_number="35" isdata="1">ירקות מברך אשאר ירקות בורא פרי האדמה</row>
+		<row row_number="36" isdata="1">ואכיל והדר מברך על אכילת מרור ואכיל</row>
+		<row row_number="37" isdata="1">היכא דליכא אלא חסא מאי אמר רב הונא</row>
+		<row row_number="38" isdata="1">מברך מעיקרא אמרור ב"פ האדמה ואכיל</row>
+		<row row_number="39" isdata="1">ולבסוף מברך עליה על אכילת מרור ואכיל</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.790870</dateCreated>
+   <lastModified>2020-01-14 15:02:26.790870</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="47">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו עוברין"/><ContGemara/>נאכל לתשעה לעשרה ולאחד עשר לא פחות</row>
+		<row row_number="2" isdata="1">ולא יותר כיצד כדרכו לתשעה נאפה בערב</row>
+		<row row_number="3" isdata="1">שבת נאכל בשבת לתשעה חל יום טוב</row>
+		<row row_number="4" isdata="1">להיות בע"ש נאכל לשבת לעשרה שני ימים</row>
+		<row row_number="5" isdata="1">טובים של ראש השנה נאכל לשבת לאחד</row>
+		<row row_number="6" isdata="1">עשר לפי שאינו דוחה לא את השבת ולא</row>
+		<row row_number="7" isdata="1">את הי"ט ואי אמרת צורכי שבת נעשין בי"ט</row>
+		<row row_number="8" isdata="1">אמאי לא דחי י"ט א"ל שבות קרובה התירו</row>
+		<row row_number="9" isdata="1">שבות רחוקה לא התירו ולרשב"ג דאמר</row>
+		<row row_number="10" isdata="1">משום רבי שמעון בן הסגן דוחה את י"ט</row>
+		<row row_number="11" isdata="1">ואינו דוחה את יום צום מאי איכא למימר</row>
+		<row row_number="12" isdata="1">בהא פליגי מר סבר שבות קרובה התירו</row>
+		<row row_number="13" isdata="1">שבות רחוקה לא התירו ומר סבר שבות</row>
+		<row row_number="14" isdata="1">רחוקה נמי התירו מתיב רב מרי שתי</row>
+		<row row_number="15" isdata="1">הלחם אינן נאכלות לא פחות משנים ולא</row>
+		<row row_number="16" isdata="1">יותר על שלשה כיצד נאפות ערב יום טוב</row>
+		<row row_number="17" isdata="1">נאכלות ליום טוב לשנים חל י"ט להיות אחר</row>
+		<row row_number="18" isdata="1">השבת נאכלות לי"ט לשלשה לפי שאינה</row>
+		<row row_number="19" isdata="1">דוחה לא את השבת ולא את הי"ט ואי אמרת</row>
+		<row row_number="20" isdata="1">צורכי שבת נעשין בי"ט השתא דשבת בי"ט</row>
+		<row row_number="21" isdata="1">שרי דיום טוב ביום טוב מיבעיא שאני התם</row>
+		<row row_number="22" isdata="1">דאמר קרא לכם לכם ולא לגבוה ולרשב"ג</row>
+		<row row_number="23" isdata="1">דאמר משום ר"ש בן הסגן דוחה את יום טוב</row>
+		<row row_number="24" isdata="1">מאי איכא למימר סבר לה כאבא שאול</row>
+		<row row_number="25" isdata="1">דאמר לכם לכם ולא לנכרים שלח ליה רב</row>
+		<row row_number="26" isdata="1">חסדא לרבה ביד רב אחא בר רב הונא מי</row>
+		<row row_number="27" isdata="1">אמרינן הואיל והא תנן יש חורש תלם אחד</row>
+		<row row_number="28" isdata="1">וחייבין עליה משום שמונה לאוין החורש</row>
+		<row row_number="29" isdata="1">בשור וחמור והן מוקדשים וכלאים בכרם</row>
+</amud>
+</daf>
+</masechet>
+</root>

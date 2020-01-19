@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:28.639434</dateCreated>
+   <lastModified>2020-01-14 15:04:28.639434</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="15">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "קדשי מזבח"/><ContMishna/>מתני' חמשה דברים בעולה מצטרפין זה<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">עם זה הבשר והחלב והסולת והיין והשמן</row>
+		<row row_number="3" isdata="1">וששה בתודה הבשר והחלב והסולת והיין</row>
+		<row row_number="4" isdata="1">והשמן והלחם:<EndMishna/><StartGemara/>גמ' מתני ליה רב הונא</row>
+		<row row_number="5" isdata="1">לרבא חמשה דברים בעולם מצטרפין זה עם</row>
+		<row row_number="6" isdata="1">זה א"ל בעולם קא אמרת והא קתני בתודה ו'</row>
+		<row row_number="7" isdata="1">דברים שבתודה הבשר והחלב והסולת והיין</row>
+		<row row_number="8" isdata="1">והשמן ולחמי תודה א"ל תני בעולה תנינא</row>
+		<row row_number="9" isdata="1">להא דתנו רבנן עולות ואימורים מצטרפין</row>
+		<row row_number="10" isdata="1">לכזית להעלותן בחוץ ולחייב עליהן משום</row>
+		<row row_number="11" isdata="1">פיגול ונותר וטמא קתני בעולה אין בשלמים</row>
+		<row row_number="12" isdata="1">לא בשלמא להעלותן בחוץ עולה דכליל היא</row>
+		<row row_number="13" isdata="1">מצטרפין שלמים לא מצטרפין אלא לחייב</row>
+		<row row_number="14" isdata="1">עליהן משום פיגול ונותר וטמא שלמים אמאי</row>
+		<row row_number="15" isdata="1">לא מחייב והתנן כל הפיגולים מצטרפין זה</row>
+		<row row_number="16" isdata="1">עם זה וכל הנותרות מצטרפות זו עם זו</row>
+		<row row_number="17" isdata="1">אלא אימא עולה ואימוריה מצטרפין זה עם זה</row>
+		<row row_number="18" isdata="1">לכזית ליזרק עליהן את הדם וכיון דמצטרפין</row>
+		<row row_number="19" isdata="1">ליזרק את הדם חייב וכו' ומאן קתני לה רבי</row>
+		<row row_number="20" isdata="1">יהושע היא דתניא רבי יהושע אומר כל</row>
+		<row row_number="21" isdata="1">הזבחים שבתורה שנשתייר מהן כזית בשר</row>
+		<row row_number="22" isdata="1">וכזית חלב זורק את הדם כחצי זית בשר</row>
+		<row row_number="23" isdata="1">וכחצי זית חלב אינו זורק את הדם ובעולה</row>
+		<row row_number="24" isdata="1">אפילו כחצי זית בשר וכחצי זית חלב זורק</row>
+		<row row_number="25" isdata="1">את הדם מפני שכולה כליל ובמנחה אפילו</row>
+		<row row_number="26" isdata="1">כולה קיימת לא יזרוק מנחה מאי עבידתיה</row>
+		<row row_number="27" isdata="1">אמר רב פפא מנחת נסכים <EndGemara/><StartMishna/>מתני'</row>
+		<row row_number="28" isdata="1">התרומה ותרומת מעשר ותרומת מעשר של</row>
+		<row row_number="29" isdata="1">דמאי והחלה והביכורים מצטרפין זה עם זה</row>
+		<row row_number="30" isdata="1">לאסור ולחייב עליהן את החומש כל הפיגולים</row>
+		<row row_number="31" isdata="1">מצטרפין זה עם זה וכל הנותרים מצטרפין</row>
+		<row row_number="32" isdata="1">זה עם זה:<EndMishna/><StartGemara/>גמ' מאי טעמא כולהו איקרו</row>
+		<row row_number="33" isdata="1">תרומה גבי חלה כתיב ראשית עריסותיכם</row>
+		<row row_number="34" isdata="1">חלה תרימו תרומה גבי ביכורים נמי</row>
+		<row row_number="35" isdata="1">איקרו תרומה דתניא ותרומת ידך אלו</row>
+		<row row_number="36" isdata="1">ביכורים אבל אינך לא צריכא<EndGemara/><StartMishna/>מתני' כל</row>
+		<row row_number="37" isdata="1">הנבילות מצטרפין זו עם זו וכל השקצים</row>
+		<row row_number="38" isdata="1">מצטרפין זה עם זה:<EndMishna/><StartGemara/>גמ' אמר רב</row>
+</amud>
+</daf>
+</masechet>
+</root>

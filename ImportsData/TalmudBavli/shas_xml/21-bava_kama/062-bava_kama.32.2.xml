@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:18.434626</dateCreated>
+   <lastModified>2020-01-14 15:03:18.434626</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="32">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המניח"/><ContGemara/>בואו ונצא לקראת כלה מלכתא ואמרי לה</row>
+		<row row_number="2" isdata="1">לקראת שבת כלה מלכתא רבי ינאי</row>
+		<row row_number="3" isdata="1">מתעטף וקאי ואמר בואי כלה בואי כלה:</row>
+		<row row_number="4" isdata="1"><EndGemara/><StartMishna/>מתני' המבקע ברה"ר והזיק ברה"י ברה"י</row>
+		<row row_number="5" isdata="1">והזיק ברה"ר ברה"י והזיק ברה"י אחר חייב:</row>
+		<row row_number="6" isdata="1"><EndMishna/><StartGemara/>גמ' וצריכא דאי תנא המבקע ברה"י והזיק</row>
+		<row row_number="7" isdata="1">ברה"ר משום דשכיחי רבים אבל מרה"ר</row>
+		<row row_number="8" isdata="1">לרה"י דלא שכיחי רבים אימא לא ואי תנא</row>
+		<row row_number="9" isdata="1">מרה"ר לרה"י משום דמעיקרא שלא ברשות</row>
+		<row row_number="10" isdata="1">עביד אבל מרשות היחיד לרה"ר דברשות</row>
+		<row row_number="11" isdata="1">עביד אימא לא ואי תנא הנך תרתי הא</row>
+		<row row_number="12" isdata="1">משום דשכיחי רבים והא משום דשלא</row>
+		<row row_number="13" isdata="1">ברשות אבל מרה"י לרה"י אחר דלא שכיחי</row>
+		<row row_number="14" isdata="1">רבים ומעיקרא ברשות אימא לא צריכא:</row>
+		<row row_number="15" isdata="1">ת"ר הנכנס לחנותו של נגר שלא ברשות</row>
+		<row row_number="16" isdata="1">ונתזה בקעת וטפחה על פניו ומת פטור</row>
+		<row row_number="17" isdata="1">ואם נכנס ברשות חייב מאי חייב א"ר יוסי</row>
+		<row row_number="18" isdata="1">בר חנינא חייב בד' דברים ופטור מגלות</row>
+		<row row_number="19" isdata="1">לפי שאין דומה ליער יער זה לרשותו נכנס</row>
+		<row row_number="20" isdata="1">וזה לרשותו נכנס זה לרשות חבירו נכנס</row>
+		<row row_number="21" isdata="1">אמר רבא ק"ו ומה יער זה לדעתו נכנס וזה</row>
+		<row row_number="22" isdata="1">לדעתו נכנס נעשה כמי שנכנס לדעת</row>
+		<row row_number="23" isdata="1">חבירו וגולה זה שלדעת חבירו נכנס לא</row>
+		<row row_number="24" isdata="1">כל שכן אלא אמר רבא מאי פטור מגלות</row>
+		<row row_number="25" isdata="1">דלא סגי ליה בגלות והיינו טעמא דרבי יוסי בר חנינא משום דהוי ליה</row>
+		<row row_number="26" isdata="1">שוגג קרוב למזיד מתיב רבא הוסיף לו רצועה אחת ומת הרי זה גולה</row>
+		<row row_number="27" isdata="1">על ידו והא הכא דשוגג קרוב למזיד הוא דאיבעי אסוקי אדעתיה</row>
+		<row row_number="28" isdata="1">דמייתי אינשי בחדא רצועה וקתני הרי זה גולה אמר רב שימי</row>
+		<row row_number="29" isdata="1">מנהרדעא דטעי במנינא טפח ליה רבא בסנדליה אמר ליה</row>
+		<row row_number="30" isdata="1">אטו הוא מני והתניא גדול שבדיינין קורא והשני מונה והשלישי אומר</row>
+		<row row_number="31" isdata="1">הכהו אלא אמר רב שימי מנהרדעא דטעה דיינא גופיה מיתיבי הזורק את</row>
+		<row row_number="32" isdata="1">האבן לרה"ר והרג הרי זה גולה והא הכא דשוגג קרוב למזיד הוא דאיבעי</row>
+		<row row_number="33" isdata="1">ליה אסוקי אדעתיה דברה"ר שכיחי אינשי וקתני הרי זה גולה אמר רב שמואל</row>
+		<row row_number="34" isdata="1">בר יצחק בסותר את כותלו איבעי ליה עיוני בסותר בלילה בלילה נמי</row>
+		<row row_number="35" isdata="1">איבעי ליה עיוני בסותר את כותלו ביום לאשפה האי אשפה ה"ד אי דשכיחי</row>
+		<row row_number="36" isdata="1">רבים מזיד הוא ואי לא שכיחי רבים אנוס הוא אמר רב פפא [לא צריכא</row>
+		<row row_number="37" isdata="1">אלא] באשפה העשויה להפנות בלילה ואינה עשויה להפנות ביום ואיכא</row>
+		<row row_number="38" isdata="1">דמיקרי ויתיב מזיד לא הוי דהא אינה עשויה להפנות ביום אנוס נמי לא</row>
+		<row row_number="39" isdata="1">הוי דהא איכא דמיקרי ויתיב רב פפא משמיה דרבא מתני לה ארישא</row>
+		<row row_number="40" isdata="1">הנכנס לחנותו של נגר שלא ברשות ונתזה לו בקעת וטפחה לו על פניו</row>
+		<row row_number="41" isdata="1">ומת פטור אמר רבי יוסי בר חנינא חייב בארבעה דברים ופטור מגלות</row>
+		<row row_number="42" isdata="1">מאן דמתני לה אסיפא כ"ש ארישא ומאן דמתני לה ארישא אבל אסיפא כיון</row>
+		<row row_number="43" isdata="1">דברשות חייב גלות ומי חייב גלות והתניא הנכנס לחנותו של נפח ונתזה</row>
+		<row row_number="44" isdata="1">ניצוצות וטפחה לו על פניו ומת פטור ואפילו נכנס ברשות הכא במאי עסקינן</row>
+		<row row_number="45" isdata="1">בשוליא דנפחי שוליא דנפחי למקטלא קאי כשרבו מסרהב בו לצאת ואינו</row>
+		<row row_number="46" isdata="1">יוצא ומשום דרבו מסרהב בו לצאת למיקטליה קאי כסבור יצא אי הכי אחר נמי</row>
+</amud>
+</daf>
+</masechet>
+</root>

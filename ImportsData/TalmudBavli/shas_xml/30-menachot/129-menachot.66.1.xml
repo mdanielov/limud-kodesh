@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:07.156755</dateCreated>
+   <lastModified>2020-01-14 15:04:07.156755</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="66">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>הרי הוא אומר תספור לך ספירה תלויה</row>
+		<row row_number="2" isdata="1">בבית דין יצתה שבת בראשית שספירתה</row>
+		<row row_number="3" isdata="1">בכל אדם רבי יוסי אומר ממחרת השבת</row>
+		<row row_number="4" isdata="1">ממחרת יום טוב אתה אומר ממחרת יו"ט או</row>
+		<row row_number="5" isdata="1">אינו אלא ממחרת שבת בראשית אמרת וכי</row>
+		<row row_number="6" isdata="1">נאמר ממחרת השבת שבתוך הפסח והלא</row>
+		<row row_number="7" isdata="1">לא נאמר אלא ממחרת השבת דכל השנה</row>
+		<row row_number="8" isdata="1">כולה מלאה שבתות צא ובדוק איזו שבת</row>
+		<row row_number="9" isdata="1">ועוד נאמרה שבת למטה ונאמרה שבת</row>
+		<row row_number="10" isdata="1">למעלה מה להלן רגל ותחילת רגל אף</row>
+		<row row_number="11" isdata="1">כאן רגל ותחילת רגל רבי שמעון בן אלעזר</row>
+		<row row_number="12" isdata="1">אומר כתוב אחד אומר ששת ימים תאכל</row>
+		<row row_number="13" isdata="1">מצות וכתוב אחד אומר שבעת ימים מצות</row>
+		<row row_number="14" isdata="1">תאכלו הא כיצד מצה שאי אתה יכול לאוכלה</row>
+		<row row_number="15" isdata="1">שבעה מן החדש אתה יכול לאוכלה ששה</row>
+		<row row_number="16" isdata="1">מן החדש מיום הביאכם תספרו יכול יקצור</row>
+		<row row_number="17" isdata="1">ויביא ואימתי שירצה יספור תלמוד לומר</row>
+		<row row_number="18" isdata="1">מהחל חרמש בקמה תחל לספור אי מהחל</row>
+		<row row_number="19" isdata="1">חרמש תחל לספור יכול יקצור ויספור ואימתי</row>
+		<row row_number="20" isdata="1">שירצה יביא ת"ל מיום הביאכם אי מיום</row>
+		<row row_number="21" isdata="1">הביאכם יכול יקצור ויספור ויביא ביום ת"ל</row>
+		<row row_number="22" isdata="1">שבע שבתות תמימות תהיינה אימתי אתה</row>
+		<row row_number="23" isdata="1">מוצא שבע שבתות תמימות בזמן שאתה</row>
+		<row row_number="24" isdata="1">מתחיל לימנות מבערב יכול יקצור ויביא</row>
+		<row row_number="25" isdata="1">ויספור בלילה ת"ל מיום הביאכם הא כיצד</row>
+		<row row_number="26" isdata="1">קצירה וספירה בלילה והבאה ביום אמר</row>
+		<row row_number="27" isdata="1">רבא כולהו אית להו פירכא בר מתרתי</row>
+		<row row_number="28" isdata="1">תנאי בתראי בין במתניתא קמייתא בין</row>
+		<row row_number="29" isdata="1">במתניתא בתרייתא דלית להו פירכא אי</row>
+		<row row_number="30" isdata="1">מדרבן יוחנן בן זכאי דלמא כדאביי דאמר אביי</row>
+		<row row_number="31" isdata="1">מצוה למימני יומי ומצוה למימני שבועי אי</row>
+		<row row_number="32" isdata="1">מדרבי אליעזר ורבי יהושע ממאי דביום טוב</row>
+		<row row_number="33" isdata="1">ראשון קאי דלמא ביו"ט אחרון קאי דרבי</row>
+		<row row_number="34" isdata="1">ישמעאל ור' יהודה בן בתירא לית להו פירכא</row>
+		<row row_number="35" isdata="1">אי מדרבי יוסי בר' יהודה הוה אמינא דלמא</row>
+		<row row_number="36" isdata="1">חמשין לבר מהני שיתא אי מדר' יהודה</row>
+		<row row_number="37" isdata="1">בן בתירא ממאי דביו"ט ראשון קאי דלמא</row>
+		<row row_number="38" isdata="1">ביו"ט אחרון קאי ר' יוסי נמי חזי ליה פירכא</row>
+		<row row_number="39" isdata="1">והיינו דקאמר ועוד גופא אמר אביי מצוה</row>
+		<row row_number="40" isdata="1">למימני יומי ומצוה למימני שבועי רבנן דבי</row>
+		<row row_number="41" isdata="1">רב אשי מנו יומי ומנו שבועי אמימר מני</row>
+		<row row_number="42" isdata="1">יומי ולא מני שבועי אמר זכר למקדש הוא:</row>
+		<row row_number="43" isdata="1"><EndGemara/><StartMishna/>מתני' קצרוהו ונתנוהו בקופות הביאוהו</row>
+		<row row_number="44" isdata="1">לעזרה והיו מהבהבין אותו באור כדי לקיים</row>
+		<row row_number="45" isdata="1">בו מצות קלי דברי רבי מאיר וחכ"א בקנים</row>
+		<row row_number="46" isdata="1">ובקולחות חובטין אותו כדי שלא יתמעך</row>
+		<row row_number="47" isdata="1">נתנוהו לאבוב ואבוב היה מנוקב כדי</row>
+		<row row_number="48" isdata="1">שיהא האור שולט בכולו שטחוהו בעזרה</row>
+		<row row_number="49" isdata="1">והרוח מנשבת בו נתנוהו לריחים של גרוסות והוציאו ממנו עשרון</row>
+		<row row_number="50" isdata="1">שהוא מנופה בשלש עשרה נפה והשאר נפדה ונאכל לכל אדם וחייב</row>
+		<row row_number="51" isdata="1">בחלה ופטור מן המעשר ר' עקיבא מחייב בחלה ובמעשרות:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="52" isdata="1">תנו רבנן אביב זה אביב קלוי באש מלמד שהיו ישראל מהבהבין</row>
+		<row row_number="53" isdata="1">אותו באש כדי לקיים בו מצות קלי דברי ר' מאיר וחכמים אומרים</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:56.063426</dateCreated>
+   <lastModified>2020-01-14 15:02:56.063426</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="55">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אף על פי"/><ContGemara/>ובתרומת מעשר של דמאי ורב לא אזיל</row>
+		<row row_number="2" isdata="1">בתר אומדנא והא איתמר מתנת שכיב</row>
+		<row row_number="3" isdata="1">מרע שכתוב בה קנין בבי רב משמיה</row>
+		<row row_number="4" isdata="1">דרב אמרי ארכביה אתרי רכשי ושמואל</row>
+		<row row_number="5" isdata="1">אמר לא ידענא מאי אידון בה בבי</row>
+		<row row_number="6" isdata="1">רב משמיה דרב אמרי ארכביה אתרי</row>
+		<row row_number="7" isdata="1">רכשי הרי היא כמתנת בריא והרי היא</row>
+		<row row_number="8" isdata="1">כמתנת שכיב מרע הרי היא כמתנת בריא</row>
+		<row row_number="9" isdata="1">דאם עמד אינו יכול לחזור בו הרי היא</row>
+		<row row_number="10" isdata="1">כמתנת שכיב מרע שאם אמר הלואתי</row>
+		<row row_number="11" isdata="1">לפלוני הלואתו לפלוני ושמואל אמר לא</row>
+		<row row_number="12" isdata="1">ידענא מאי אידון בה שמא לא גמר</row>
+		<row row_number="13" isdata="1">להקנותו אלא בשטר ואין שטר לאחר מיתה</row>
+</amud>
+</daf>
+</masechet>
+</root>

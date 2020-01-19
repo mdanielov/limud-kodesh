@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:15.578915</dateCreated>
+   <lastModified>2020-01-14 15:03:15.578915</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="55">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContGemara/>תהי בה ר' יוחנן וכי אומרים לו לאדם</row>
+		<row row_number="2" isdata="1">עמוד וחטא בשביל שתזכה אלא א"ר יוחנן</row>
+		<row row_number="3" isdata="1">ממתין לה עד שתומם ומייתי שתי בהמות</row>
+		<row row_number="4" isdata="1">ומתנה אמר מר זכרים עולות דילמא תודה</row>
+		<row row_number="5" isdata="1">היא דמייתי נמי תודה והא בעיא לחם</row>
+		<row row_number="6" isdata="1">דמייתי נמי לחם ודילמא אשם הוא אשם</row>
+		<row row_number="7" isdata="1">בן שתי שנים ואישתכח בן שנה ודילמא</row>
+		<row row_number="8" isdata="1">אשם מצורע הוא אשם נזיר הוא לא שכיחי</row>
+		<row row_number="9" isdata="1">ודילמא פסח הוא פסח בזמנו מזהר זהירי</row>
+		<row row_number="10" isdata="1">ביה ושלא בזמנו שלמים הוא ודילמא בכור</row>
+		<row row_number="11" isdata="1">ומעשר נינהו למאי הילכתא למיכלינהו</row>
+		<row row_number="12" isdata="1">במומן הכי נמי במומן מתאכלי אמר מר</row>
+		<row row_number="13" isdata="1">נקבות זבחי שלמים דילמא תודה היא</row>
+		<row row_number="14" isdata="1">דמייתי תודה והא בעינן לחם דמייתי נמי</row>
+		<row row_number="15" isdata="1">לחם ודילמא חטאת היא חטאת בת שנתה</row>
+		<row row_number="16" isdata="1">ואישתכח בת שתי שנים ודילמא חטאת</row>
+		<row row_number="17" isdata="1">שעברה שנתה לא שכיח אשתכח בת</row>
+		<row row_number="18" isdata="1">שנתה מאי תניא חנניא בן חכינאי אומר</row>
+		<row row_number="19" isdata="1">עז בת שנתה לחטאת לחטאת סלקא</row>
+		<row row_number="20" isdata="1">דעתך אלא אמר אביי כחטאת כונסה</row>
+		<row row_number="21" isdata="1">לכיפה והיא מתה מאליה תנו רבנן</row>
+		<row row_number="22" isdata="1">אין לוקחים בהמה במעות מעשר שני</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:21.006900</dateCreated>
+   <lastModified>2020-01-14 15:02:21.006900</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="34">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>פשיטא רה"י עולה עד לרקיע וכי היכי</row>
+		<row row_number="2" isdata="1">דסלקא לעיל ה"נ דנחתא לתחת ואלא דקאי</row>
+		<row row_number="3" isdata="1">ברשות הרבים דנתכוון לשבות היכא אי</row>
+		<row row_number="4" isdata="1">למעלה הוא במקום אחד ועירובו במקום</row>
+		<row row_number="5" isdata="1">אחר הוא אי למטה פשיטא הוא ועירובו</row>
+		<row row_number="6" isdata="1">במקום אחד לא צריכא דקאי בכרמלית ונתכוון</row>
+		<row row_number="7" isdata="1">לשבות למעלה ורבי היא דאמר כל דבר</row>
+		<row row_number="8" isdata="1">שהוא משום שבות לא גזרו עליו בין</row>
+		<row row_number="9" isdata="1">השמשות<EndGemara/><StartMishna/>מתני' נתנו בראש הקנה או</row>
+		<row row_number="10" isdata="1">בראש הקונדס בזמן שהוא תלוש ונעוץ</row>
+		<row row_number="11" isdata="1">אפילו גבוה ק' אמה הרי זה עירוב:<EndMishna/><StartGemara/>גמ' רמי</row>
+		<row row_number="12" isdata="1">ליה רב אדא בר מתנא לרבא תלוש ונעוץ אין</row>
+		<row row_number="13" isdata="1">לא תלוש ונעוץ לא מני רבנן היא דאמרי</row>
+		<row row_number="14" isdata="1">כל דבר שהוא משום שבות גזרו עליו בין</row>
+		<row row_number="15" isdata="1">השמשות והא אמרת רישא רבי רישא רבי</row>
+		<row row_number="16" isdata="1">וסיפא רבנן א"ל כבר רמי ליה רמי בר חמא</row>
+		<row row_number="17" isdata="1">לרב חסדא ושני ליה רישא רבי וסיפא רבנן</row>
+		<row row_number="18" isdata="1">רבינא אמר כולה רבי היא וסיפא גזירה שמא</row>
+		<row row_number="19" isdata="1">יקטום: ההוא פולמוסא דאתא לנהרדעא אמר</row>
+		<row row_number="20" isdata="1">להו רב נחמן פוקו עבידו כבושי כבשי</row>
+		<row row_number="21" isdata="1">באגמא ולמחר ניזיל וניתיב עלויהו איתיביה</row>
+		<row row_number="22" isdata="1">רמי בר חמא לרב נחמן ואמרי לה רב עוקבא</row>
+		<row row_number="23" isdata="1">בר אבא לרב נחמן תלוש ונעוץ אין לא תלוש</row>
+		<row row_number="24" isdata="1">ולא נעוץ לא א"ל התם בעוזרדין ומנא תימרא</row>
+		<row row_number="25" isdata="1">דשני לן בין עוזרדין לשאין עוזרדין דתניא</row>
+		<row row_number="26" isdata="1">הקנין והאטדין וההגין מין אילן הן ואינן</row>
+		<row row_number="27" isdata="1">כלאים בכרם ותניא אידך הקנים והקידן</row>
+		<row row_number="28" isdata="1">והאורבנין מין ירק הן והן כלאים בכרם קשיא</row>
+		<row row_number="29" isdata="1">אהדדי אלא ש"מ כאן בעוזרדין כאן בשאין</row>
+		<row row_number="30" isdata="1">עוזרדין ש"מ וקידה מין ירק הוא והתנן אין</row>
+		<row row_number="31" isdata="1">מרכיבין פגם ע"ג קידה לבנה מפני שהוא</row>
+		<row row_number="32" isdata="1">ירק באילן אמר רב פפא קידה לחוד וקידה</row>
+		<row row_number="33" isdata="1">לבנה לחוד<EndGemara/><StartMishna/>מתני' נתנו במגדל ואבד</row>
+		<row row_number="34" isdata="1">המפתח הרי זה עירוב ר"א אומר אם אינו</row>
+		<row row_number="35" isdata="1">יודע שהמפתח במקומו אינו עירוב:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="36" isdata="1">ואמאי הוא במקום אחד ועירובו במקום אחר</row>
+		<row row_number="37" isdata="1">הוא רב ושמואל דאמרי תרוייהו הכא במגדל</row>
+		<row row_number="38" isdata="1">של לבנים עסקינן ור"מ היא דאמר פוחת</row>
+		<row row_number="39" isdata="1">לכתחילה ונוטל דתנן בית שמילאהו פירות</row>
+		<row row_number="40" isdata="1">סתום ונפחת נוטל ממקום הפחת ר' מאיר</row>
+		<row row_number="41" isdata="1">אומר פוחת ונוטל לכתחילה והאמר רב</row>
+		<row row_number="42" isdata="1">נחמן בר אדא אמר שמואל באוירא דליבני</row>
+		<row row_number="43" isdata="1">הכא נמי באוירא דליבני והא אמר רבי זירא</row>
+		<row row_number="44" isdata="1">בי"ט אמרו אבל לא בשבת ה"נ בי"ט אי הכי</row>
+		<row row_number="45" isdata="1">היינו דקתני עלה ר"א אומר אם בעיר אבד</row>
+		<row row_number="46" isdata="1">עירובו עירוב ואם בשדה אבד אין עירובו</row>
+		<row row_number="47" isdata="1">עירוב ואי ביום טוב מה לי עיר מה לי שדה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.713154</dateCreated>
+   <lastModified>2020-01-14 15:02:53.713154</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="120">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה בתרא"/><ContGemara/>לאנסובי לצרה מקמי דידה אי אמרת צרה</row>
+		<row row_number="2" isdata="1">מעידה לחברתה אף על גב דלא אינסיב</row>
+		<row row_number="3" isdata="1">מנסבינן לה לצרה אי אמרת משום דהיא לא</row>
+		<row row_number="4" isdata="1">מקלקלא נפשה אינסיב מנסבינן לה לצרה</row>
+		<row row_number="5" isdata="1">אי לא אינסיב לא מנסבינן לה מאי תא שמע</row>
+		<row row_number="6" isdata="1">ר' אלעזר אומר הואיל והותרו ליבמין הותרו</row>
+		<row row_number="7" isdata="1">לכל אדם אי אמרת בשלמא דהיא לא</row>
+		<row row_number="8" isdata="1">מקלקלא נפשה היינו דכי אינסיב מנסבינן</row>
+		<row row_number="9" isdata="1">לה אלא אי אמרת משום דצרה מעידה</row>
+		<row row_number="10" isdata="1">לחברתה אף על גב דלא אינסיב נמי אלא</row>
+		<row row_number="11" isdata="1">שמע מינה טעמא דרבי אלעזר משום</row>
+		<row row_number="12" isdata="1">דאינסיב הוא ולא מקלקלא נפשה רבי</row>
+		<row row_number="13" isdata="1">אלעזר לדבריהם קאמר להו לדידי צרה</row>
+		<row row_number="14" isdata="1">מעידה לחברתה ואף על גב דלא אינסיב</row>
+		<row row_number="15" isdata="1">מנסבינן לה אלא לדידכו אודו לי מיהת</row>
+		<row row_number="16" isdata="1">דהיכא דאינסיב מנסבינן לה משום דהיא</row>
+		<row row_number="17" isdata="1">לא מקלקלא נפשה ורבנן תמות נפשי עם</row>
+		<row row_number="18" isdata="1">פלשתים הוא דקעבדה ת"ש האשה שהלכה</row>
+		<row row_number="19" isdata="1">היא ובעלה למדינת הים ובאה ואמרה מת</row>
+		<row row_number="20" isdata="1">בעלי תנשא ותטול כתובתה וצרתה אסורה</row>
+		<row row_number="21" isdata="1">ר' אלעזר אומר הואיל והותרה היא הותרה</row>
+		<row row_number="22" isdata="1">נמי צרתה אימא הואיל והותרה ונשאת</row>
+		<row row_number="23" isdata="1">וליחוש דלמא בגיטא אתאי והאי דקאמרה</row>
+		<row row_number="24" isdata="1">הכי לקלקלא לצרה היא מיכוונה אי דאינסיב</row>
+		<row row_number="25" isdata="1">לישראל הכי נמי הכא במאי עסקי' דאינסיב</row>
+		<row row_number="26" isdata="1">לכהן<EndGemara/><StartMishna/>מתני' אין מעידין אלא על פרצוף</row>
+		<row row_number="27" isdata="1">פנים עם החוטם אע"פ שיש סימנין בגופו</row>
+		<row row_number="28" isdata="1">ובכליו אין מעידין אלא עד שתצא נפשו</row>
+		<row row_number="29" isdata="1">ואפי' ראוהו מגוייד וצלוב והחיה אוכלת</row>
+		<row row_number="30" isdata="1">בו אין מעידין אלא עד ג' ימים ר' יהודה</row>
+		<row row_number="31" isdata="1">בן בבא אומר לא כל האדם ולא כל המקום</row>
+		<row row_number="32" isdata="1">ולא כל השעות שוין:<EndMishna/><StartGemara/>גמ' תנו רבנן</row>
+		<row row_number="33" isdata="1">פדחת ולא פרצוף פנים פרצוף פנים</row>
+		<row row_number="34" isdata="1">ולא פדחת אין מעידין עד שיהו שניהם</row>
+		<row row_number="35" isdata="1">עם החוטם אמר אביי ואיתימא רב כהנא</row>
+		<row row_number="36" isdata="1">מאי קרא הכרת פניהם ענתה בם אבא</row>
+		<row row_number="37" isdata="1">בר מרתא דהוא אבא בר מניומי הוה מסקי</row>
+		<row row_number="38" isdata="1">ביה דבי רישא גלותא זוזי אייתי קירא דבק</row>
+		<row row_number="39" isdata="1">בבלייתא דבק באפותיה חלף קמייהו ולא</row>
+		<row row_number="40" isdata="1">בשקרוה: אע"פ שיש סימנין וכו':</row>
+		<row row_number="41" isdata="1">למימרא דסימנין לאו דאורייתא ורמינהי</row>
+		<row row_number="42" isdata="1">מצאו קשור בכיס ובארנקי ובטבעת או</row>
+		<row row_number="43" isdata="1">שנמצא בין כליו אפילו לזמן מרובה כשר</row>
+		<row row_number="44" isdata="1">אמר אביי לא קשיא הא רבי אליעזר בן</row>
+		<row row_number="45" isdata="1">מהבאי הא רבנן דתניא אין מעידין על</row>
+		<row row_number="46" isdata="1">השומא ר' אליעזר בן מהבאי אומר מעידין</row>
+		<row row_number="47" isdata="1">מאי לאו בהא קמיפלגי דמר סבר סימנין</row>
+		<row row_number="48" isdata="1">דאורייתא ומר סבר סימנין דרבנן אמר</row>
+		<row row_number="49" isdata="1">רבא דכולי עלמא סימנין דאורייתא הכא בשומא מצויה בבן</row>
+		<row row_number="50" isdata="1">גילו קמיפלגי מר סבר שומא מצויה בבן גילו ומר סבר אינה</row>
+		<row row_number="51" isdata="1">מצויה בבן גילו ואיכא דאמרי הכא בשומא העשויה להשתנות לאחר</row>
+		<row row_number="52" isdata="1">מיתה קמיפלגי מר סבר עשויה להשתנות לאחר מיתה ומר סבר</row>
+		<row row_number="53" isdata="1">אינה עשויה להשתנות לאחר מיתה ואיכא דאמרי אמר רבא דכולי עלמא סימנין דרבנן והכא בשומא</row>
+</amud>
+</daf>
+</masechet>
+</root>

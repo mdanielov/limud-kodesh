@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:24.312628</dateCreated>
+   <lastModified>2020-01-14 15:04:24.312628</lastModified>
+ </meta>
+ <masechet name="ערכין" serial="33">
+<daf value="30">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר שדהו"/><ContGemara/>ורב ענן ברייתא לא שמיעא ליה ודשמואל</row>
+		<row row_number="2" isdata="1">ממאי דאינה מכורה ומעות חוזרין דלמא</row>
+		<row row_number="3" isdata="1">אינה מכורה ומעות מתנה מידי דהוה</row>
+		<row row_number="4" isdata="1">אמקדש אחותו דאיתמר המקדש אחותו</row>
+		<row row_number="5" isdata="1">רב אמר מעות חוזרין ושמואל אמר מעות</row>
+		<row row_number="6" isdata="1">מתנה א"ל אביי לרב יוסף מאי חזית דקנסינן</row>
+		<row row_number="7" isdata="1">ליה ללוקח נקנסיה למוכר אמר ליה לאו</row>
+		<row row_number="8" isdata="1">עכברא גנב אלא חורא גנב אי לאו עכברא</row>
+		<row row_number="9" isdata="1">חורא מנא ליה מסתברא היכא דאיתיה</row>
+		<row row_number="10" isdata="1">לאיסורא קנסינן: היתה שנת שדפון כו':</row>
+		<row row_number="11" isdata="1">השתא הובירה עולה לו נרה מיבעיא נרה</row>
+		<row row_number="12" isdata="1">איצטריך ליה סלקא דעתך אמינא אמרינן</row>
+		<row row_number="13" isdata="1">ליה הב ליה דמיה וליסק קמ"ל: רבי אליעזר</row>
+		<row row_number="14" isdata="1">אומר מכרה לו כו': תניא ר"א אומר</row>
+		<row row_number="15" isdata="1">מנין שאם מכרה לו לפני ראש השנה מליאה</row>
+		<row row_number="16" isdata="1">פירות שלא יאמר לו הנח לפני כדרך</row>
+		<row row_number="17" isdata="1">שהנחתי לפניך תלמוד לומר במספר שני</row>
+		<row row_number="18" isdata="1">תבואות ימכר לך פעמים שאדם אוכל שלש</row>
+		<row row_number="19" isdata="1">תבואות בשתי שנים<EndGemara/><StartMishna/>מתני' מכרה</row>
+		<row row_number="20" isdata="1">לראשון במנה ומכר ראשון לשני במאתים</row>
+		<row row_number="21" isdata="1">אינו מחשב אלא עם הראשון שנאמר</row>
+		<row row_number="22" isdata="1">[לאיש] אשר מכר לו מכרה לראשון</row>
+		<row row_number="23" isdata="1">במאתים ומכר הראשון לשני במנה אינו</row>
+		<row row_number="24" isdata="1">מחשב אלא עם האחרון שנאמר וחשב</row>
+		<row row_number="25" isdata="1">את שני ממכרו והשיב את העודף לאיש</row>
+		<row row_number="26" isdata="1">(אשר מכר לו) לאיש אשר בתוכו לא</row>
+		<row row_number="27" isdata="1">ימכור ברחוק ויגאל בקרוב ברעה ויגאל ביפה</row>
+		<row row_number="28" isdata="1">ולא ילוה ויגאל ולא יגאל לחצאין ובהקדש</row>
+		<row row_number="29" isdata="1">מותר בכולן זה חומר בהדיוט מבהקדש:</row>
+		<row row_number="30" isdata="1"><EndMishna/><StartGemara/>גמ' תנו רבנן מכרה לראשון במנה ומכרה</row>
+		<row row_number="31" isdata="1">ראשון לשני במאתים מנין שאינו מחשב</row>
+		<row row_number="32" isdata="1">אלא עם הראשון ת"ל [לאיש] אשר מכר</row>
+		<row row_number="33" isdata="1">לו מכרה לראשון במאתים ומכר הראשון</row>
+		<row row_number="34" isdata="1">לשני במנה מנין שאין מחשבין אלא עם</row>
+		<row row_number="35" isdata="1">השני ת"ל לאיש [לאיש] אשר בתוכו דברי</row>
+		<row row_number="36" isdata="1">רבי רבי דוסתאי בן יהודה אומר מכרה לו</row>
+		<row row_number="37" isdata="1">במנה והשביחה ועמדה על מאתים מנין</row>
+		<row row_number="38" isdata="1">שאינו מחשב אלא במנה שנאמר והשיב את</row>
+		<row row_number="39" isdata="1">העודף העודף שבידו מכרה לו במאתים</row>
+		<row row_number="40" isdata="1">והכסיפה ועמדה על מנה מנין שאין מחשבין</row>
+		<row row_number="41" isdata="1">אלא במנה שנאמר והשיב את העודף העודף</row>
+		<row row_number="42" isdata="1">שבקרקע מאי בינייהו דאייקר וזל ואייקר</row>
+		<row row_number="43" isdata="1">וממאי דלקולא דלמא לחומרא לא ס"ד דגמר</row>
+		<row row_number="44" isdata="1">גאולה גאולה מעבד עברי והתם מנלן דתניא נמכר במנה והשביח ועמד</row>
+		<row row_number="45" isdata="1">על מאתים מנין שאין מחשבין אלא ממנה שנאמר מכסף מקנתו נמכר</row>
+		<row row_number="46" isdata="1">במאתים והכסיף ועמד על מנה מנין שאין מחשבין אלא ממנה שנאמר</row>
+		<row row_number="47" isdata="1">כפי שניו ואין לי אלא עבד עברי הנמכר לעובד כוכבים שנגאל וידו</row>
+		<row row_number="48" isdata="1">על העליונה נמכר לישראל מנין ת"ל שכיר שכיר לגזירה שוה אמר אביי</row>
+</amud>
+</daf>
+</masechet>
+</root>

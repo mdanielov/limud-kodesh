@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:25.327291</dateCreated>
+   <lastModified>2020-01-14 15:02:25.327291</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="16">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אור לארבעה עשר"/><ContGemara/>ספק משקין ליטמא טמא לטמא אחרים</row>
+		<row row_number="2" isdata="1">טהור דברי ר"מ וכן היה רבי אלעזר אומר</row>
+		<row row_number="3" isdata="1">כדבריו רבי יהודה אומר לכל טמא רבי יוסי</row>
+		<row row_number="4" isdata="1">ור"ש אומרים לאוכלין טמאין לכלים טהורין</row>
+		<row row_number="5" isdata="1">וסבר רבי אלעזר משקין אית להו טומאה</row>
+		<row row_number="6" isdata="1">בעולם והתניא ר"א אומר אין טומאה</row>
+		<row row_number="7" isdata="1">למשקין כל עיקר תדע שהרי העיד (יוסף)</row>
+		<row row_number="8" isdata="1">בן יועזר איש צרידה על איל קמצא דכן ועל</row>
+		<row row_number="9" isdata="1">משקין בית מטבחיא דכן הניחא לשמואל</row>
+		<row row_number="10" isdata="1">דאמר דכן מלטמא טומאת אחרים אבל</row>
+		<row row_number="11" isdata="1">טומאת עצמן יש להן שפיר אלא לרב דאמר</row>
+		<row row_number="12" isdata="1">דכן ממש מאי איכא למימר אמר ר"נ בר</row>
+		<row row_number="13" isdata="1">יצחק אחדא והא כדבריו קאמר דנפישי ועוד</row>
+		<row row_number="14" isdata="1">והא וכן קתני קשיא גופא רב אמר דכן</row>
+		<row row_number="15" isdata="1">ממש ושמואל אמר דכן מלטמא טומאת</row>
+		<row row_number="16" isdata="1">אחרים אבל טומאת עצמן יש להן רב אמר</row>
+		<row row_number="17" isdata="1">דכן ממש קסבר טומאת משקין דרבנן וכי</row>
+		<row row_number="18" isdata="1">גזרו רבנן במשקין דעלמא ובמשקין בית</row>
+		<row row_number="19" isdata="1">מטבחיא לא גזור ושמואל אמר דכן מלטמא</row>
+		<row row_number="20" isdata="1">טומאת אחרים אבל טומאת עצמן יש להן</row>
+		<row row_number="21" isdata="1">קסבר טומאת משקין עצמן דאורייתא לטמא</row>
+		<row row_number="22" isdata="1">אחרים דרבנן וכי גזור רבנן במשקין דעלמא</row>
+		<row row_number="23" isdata="1">במשקין בית מטבחיא לא גזור וכי לא גזור</row>
+		<row row_number="24" isdata="1">רבנן לטמויי אחרים אבל טומאת עצמן יש</row>
+		<row row_number="25" isdata="1">להן א"ל רב הונא בר חיננא לבריה כי עיילת</row>
+		<row row_number="26" isdata="1">לקמיה דרב פפא רמי ליה מי אמר שמואל</row>
+		<row row_number="27" isdata="1">דכן מלטמא טומאת אחרים אבל טומאת</row>
+		<row row_number="28" isdata="1">עצמן יש להן קרי כאן והבשר אשר</row>
+		<row row_number="29" isdata="1">יגע בכל טמא לא יאכל אמר רב שישא</row>
+		<row row_number="30" isdata="1">ברי' דרב אידי מידי דהוה ארביעי בקדש מתקיף לה רב אשי רביעי בקדש</row>
+		<row row_number="31" isdata="1">לא איקרי טמא האי איקרי טמא קשיא ת"ש וכל משקה אשר ישתה בכל</row>
+		<row row_number="32" isdata="1">כלי יטמא מאי יטמא הכשיר הכשיר מרישא דקרא שמעת ליה מכל</row>
+		<row row_number="33" isdata="1">האוכל אשר יאכל וגו' חד בתלושין וחד במחוברין וצריכי דאי אשמעינן</row>
+		<row row_number="34" isdata="1">בתלושין משום דאחשבינהו אבל מחוברין אימא לא ואי תנא מחוברין</row>
+		<row row_number="35" isdata="1">משום דקיימי בדוכתייהו חשיבי אבל תלושין אימא לא צריכי ת"ש אך מעין</row>
+		<row row_number="36" isdata="1">ובור מקוה מים יהיה טהור מאי יהיה טהור מטומאתו ותלושין מי מכשירין</row>
+		<row row_number="37" isdata="1">והאמר ר' יוסי בר' חנינא משקין בית מטבחיא לא דיין שהן דכן אלא</row>
+		<row row_number="38" isdata="1">שאין מכשירין תירגמא על דם דאמר ר' חייא בר אבא א"ר יוחנן מנין לדם</row>
+		<row row_number="39" isdata="1">קדשים שאינו מכשיר שנא' על הארץ תשפכנו כמים דם שנשפך כמים מכשיר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:35.787168</dateCreated>
+   <lastModified>2020-01-14 15:02:35.787168</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="27">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בראשונה"/><ContGemara/>הוי אומר זה טלה א"ר אסי אמר רבי יוחנן זר</row>
+		<row row_number="2" isdata="1">שסידר את המערכה חייב כיצד הוא עושה</row>
+		<row row_number="3" isdata="1">פורקה וחוזר וסודרה מאי אהני ליה אלא</row>
+		<row row_number="4" isdata="1">פורקה זר וסודרה כהן מתקיף לה ר' זירא</row>
+		<row row_number="5" isdata="1">וכי יש לך עבודה שכשירה בלילה ופסולה</row>
+		<row row_number="6" isdata="1">בזר ולא והרי אברים ופדרים סוף עבודה</row>
+		<row row_number="7" isdata="1">דיממא היא והרי תרומת הדשן תחלת</row>
+		<row row_number="8" isdata="1">עבודה דיממא היא דא"ר אסי א"ר יוחנן</row>
+		<row row_number="9" isdata="1">קידש ידיו לתרומת הדשן למחר אינו צריך</row>
+		<row row_number="10" isdata="1">לקדש שכבר קידש מתחלת עבודה ואלא</row>
+		<row row_number="11" isdata="1">קשיא אלא כי איתמר הכי איתמר א"ר אסי</row>
+		<row row_number="12" isdata="1">א"ר יוחנן זר שסידר שני גזירי עצים חייב הואיל</row>
+		<row row_number="13" isdata="1">ועבודת יום היא מתקיף לה רבא אלא מעתה</row>
+		<row row_number="14" isdata="1">תיבעי פייס אשתמיטתיה הא דתניא מי</row>
+		<row row_number="15" isdata="1">שזכה בתרומת הדשן זכה בסדור מערכה</row>
+		<row row_number="16" isdata="1">ובסדור שני גזירי עצים למימרא דעבודת</row>
+		<row row_number="17" isdata="1">יום בעיא פייס עבודת לילה לא בעיא פייס</row>
+		<row row_number="18" isdata="1">והרי אברים ופדרים סוף עבודה דיממא היא</row>
+		<row row_number="19" isdata="1">והרי תרומת הדשן משום מעשה שהיה</row>
+		<row row_number="20" isdata="1">למימרא דעבודת יום ושזר חייב עליה מיתה</row>
+		<row row_number="21" isdata="1">בעיא פייס אין זר חייב עליה מיתה לא</row>
+		<row row_number="22" isdata="1">בעיא פייס והרי שחיטה שאני שחיטה</row>
+		<row row_number="23" isdata="1">דתחלת עבודה היא אמר מר זוטרא ואיתימא</row>
+		<row row_number="24" isdata="1">רב אשי והא אנן לא תנן הכי אמר להם</row>
+		<row row_number="25" isdata="1">הממונה צאו וראו אם הגיע זמן השחיטה</row>
+		<row row_number="26" isdata="1">ואילו זמן שני גזירי עצים לא קתני הך דלית</row>
+		<row row_number="27" isdata="1">לה תקנתא קתני הך דאית לה תקנתא לא</row>
+		<row row_number="28" isdata="1">קתני וא"ד מתקיף לה רבי זירא וכי יש לך</row>
+		<row row_number="29" isdata="1">עבודה שיש אחריה עבודה ופסולה בזר</row>
+</amud>
+</daf>
+</masechet>
+</root>

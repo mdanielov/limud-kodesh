@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:28.295396</dateCreated>
+   <lastModified>2020-01-14 15:04:28.295396</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="5">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "קדשי קדשים"/><ContGemara/>או היתר זריקה שנינו או היתר אכילה שנינו</row>
+		<row row_number="2" isdata="1">חזקיה אמר היתר שחיטה שנינו ר' יוחנן אמר</row>
+		<row row_number="3" isdata="1">היתר אכילה שנינו א"ר זירא לא דייקא מתני'</row>
+		<row row_number="4" isdata="1">דלא כחזקיה ודלא כרבי יוחנן תנן שלנה</row>
+		<row row_number="5" isdata="1">ושנטמאת ושיצאת לאו דלן דם וקתני אין</row>
+		<row row_number="6" isdata="1">מועלין בו וש"מ היתר זריקה שנינו לא דלן</row>
+		<row row_number="7" isdata="1">בשר אבל דם איזדריק מש"ה קתני אין מועלין</row>
+		<row row_number="8" isdata="1">בו תנן ואיזו היא שלא היתה לה שעת הכושר</row>
+		<row row_number="9" isdata="1">לכהנים שנשחטה חוץ לזמנה וחוץ למקומה</row>
+		<row row_number="10" isdata="1">ושקבלו פסולין וזרקו את דמה ה"ד אילימא</row>
+		<row row_number="11" isdata="1">דזרקוהו פסולין וקבלוהו פסולין ל"ל עד דאיכא</row>
+		<row row_number="12" isdata="1">תרתי אלא לאו דקבלוהו פסולין וזרקוהו כשרים</row>
+		<row row_number="13" isdata="1">וקתני מועלין בו ש"מ היתר זריקה שנינו</row>
+		<row row_number="14" isdata="1">מתקיף לה רב יוסף ואי ס"ד איכא לפלוגי</row>
+		<row row_number="15" isdata="1">הכי הא דתנן התם חטאת פסולה אין דמה</row>
+		<row row_number="16" isdata="1">טעון כיבוס בין שהיתה לה שעת הכושר</row>
+		<row row_number="17" isdata="1">ונפסלה ובין שלא היתה לה שעת הכושר</row>
+		<row row_number="18" isdata="1">ונפסלה אי זו היא שהיתה לה שעת הכושר</row>
+		<row row_number="19" isdata="1">ונפסלה שלנה ושנטמאת או שיצאה איזוהי</row>
+		<row row_number="20" isdata="1">שלא היתה לה שעת הכושר שנשחטה חוץ</row>
+		<row row_number="21" isdata="1">למקומה חוץ לזמנה ושקבלו פסולין וזרקו את</row>
+		<row row_number="22" isdata="1">דמה היכי דמי אילימא דקבלוהו פסולין וזרקו</row>
+		<row row_number="23" isdata="1">פסולין הוא דאין דמה טעון כיבוס הא קבלוהו</row>
+		<row row_number="24" isdata="1">וזרקו כשרים דמה טעון כיבוס קרי כאן</row>
+		<row row_number="25" isdata="1">אשר יזה מדמה ולא שכבר הוזה אלא לאו דוקא</row>
+</amud>
+</daf>
+</masechet>
+</root>

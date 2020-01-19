@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:37.945717</dateCreated>
+   <lastModified>2020-01-14 15:03:37.945717</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="167">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContMishna/>כותבין שטר ללוה אע"פ שאין מלוה עמו</row>
+		<row row_number="2" isdata="1">ואין כותבין למלוה עד שיהא לוה עמו והלוה</row>
+		<row row_number="3" isdata="1">נותן שכר כותבין שטר למוכר אע"פ שאין</row>
+		<row row_number="4" isdata="1">לוקח עמו ואין כותבין ללוקח עד שיהא מוכר</row>
+		<row row_number="5" isdata="1">עמו והלוקח נותן שכר אין כותבין שטרי</row>
+		<row row_number="6" isdata="1">אירוסין ונשואין אלא מדעת שניהם והחתן</row>
+		<row row_number="7" isdata="1">נותן שכר אין כותבין שטר אריסות וקבלנות</row>
+		<row row_number="8" isdata="1">אלא מדעת שניהם והמקבל נותן שכר אין</row>
+		<row row_number="9" isdata="1">כותבין שטרי בירורין וכל מעשה ב"ד אלא</row>
+		<row row_number="10" isdata="1">מדעת שניהם ושניהם נותנין שכר רשב"ג</row>
+		<row row_number="11" isdata="1">אומר לשניהם כותבין שנים לזה לעצמו ולזה</row>
+		<row row_number="12" isdata="1">לעצמו:<EndMishna/><StartGemara/>גמ' מאי ובלבד שיהא מכירן אמר</row>
+		<row row_number="13" isdata="1">רב יהודה אמר רב ובלבד שיהא מכיר שם</row>
+		<row row_number="14" isdata="1">האיש בגט ושם האשה בשובר יתיב רב ספרא</row>
+		<row row_number="15" isdata="1">ורב אחא בר הונא ורב הונא בר חיננא ויתיב</row>
+		<row row_number="16" isdata="1">אביי גבייהו ויתבי וקמיבעיא להו שם האיש</row>
+		<row row_number="17" isdata="1">בגט אין שם האשה לא שם האשה בשובר אין</row>
+		<row row_number="18" isdata="1">שם האיש לא וליחוש דלמא כתב גיטא ואזיל</row>
+		<row row_number="19" isdata="1">וממטי ליה לאיתתיה דהיאך וזמנין אזלא</row>
+		<row row_number="20" isdata="1">כתבה אשה שובר ויהבה לגברא דלאו דילה</row>
+		<row row_number="21" isdata="1">אמר להו אביי הכי אמר רב שם האיש בגט</row>
+		<row row_number="22" isdata="1">והוא הדין לשם האשה שם האשה בשובר</row>
+		<row row_number="23" isdata="1">והוא הדין לשם האיש וליחוש לשני יוסף בן</row>
+		<row row_number="24" isdata="1">שמעון הדרים בעיר אחת דלמא כתיב גיטא</row>
+		<row row_number="25" isdata="1">ואזיל וממטי ליה לאיתתיה דהיאך אמר להו</row>
+		<row row_number="26" isdata="1">רב אחא בר הונא הכי אמר רב שני יוסף</row>
+		<row row_number="27" isdata="1">בן שמעון הדרים בעיר אחת אין מגרשין</row>
+		<row row_number="28" isdata="1">נשותיהן אלא זה בפני זה וליחוש דלמא</row>
+		<row row_number="29" isdata="1">אזיל למתא אחריתא ומחזיק ליה לשמיה</row>
+		<row row_number="30" isdata="1">ביוסף בן שמעון וכתיב גיטא וממטי ליה</row>
+		<row row_number="31" isdata="1">לאיתתיה דהיאך אמר להו רב הונא בר חיננא</row>
+		<row row_number="32" isdata="1">הכי אמר רב כל שהוחזק שמו בעיר שלשים</row>
+		<row row_number="33" isdata="1">יום אין חוששין לו לא איתחזק מאי אמר אביי</row>
+		<row row_number="34" isdata="1">דקרו ליה ועני רב זביד אמר רמאה ברמאותיה</row>
+		<row row_number="35" isdata="1">זהיר ההוא תברא דהוה חתים עלה רב ירמיה</row>
+		<row row_number="36" isdata="1">בר אבא אתיא לקמיה ההיא איתתא אמרה</row>
+		<row row_number="37" isdata="1">ליה לאו אנא הואי אמר אנא נמי אמרי להו</row>
+		<row row_number="38" isdata="1">לאו איהי היא ואמרו לי מיקש הוא דקשא לה</row>
+		<row row_number="39" isdata="1">ובגר לה קלא אמר אביי אע"ג דאמור רבנן</row>
+</amud>
+</daf>
+</masechet>
+</root>

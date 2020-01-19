@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:41.675081</dateCreated>
+   <lastModified>2020-01-14 15:02:41.675081</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="12">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ביצה"/><ContGemara/>משום הבערה א"ל פוק תני לברא הבערה</row>
+		<row row_number="2" isdata="1">ובשול אינה משנה ואם תמצא לומר משנה</row>
+		<row row_number="3" isdata="1">ב"ש היא דאמרי לא אמרינן מתוך שהותרה</row>
+		<row row_number="4" isdata="1">הוצאה לצורך הותרה נמי שלא לצורך ה"נ</row>
+		<row row_number="5" isdata="1">לא אמרינן מתוך שהותרה הבערה לצורך</row>
+		<row row_number="6" isdata="1">הותרה נמי שלא לצורך דאי ב"ה כיון דאמרי</row>
+		<row row_number="7" isdata="1">מתוך שהותרה הוצאה לצורך הותרה נמי</row>
+		<row row_number="8" isdata="1">שלא לצורך הכא נמי מתוך שהותרה</row>
+		<row row_number="9" isdata="1">הבערה לצורך הותרה נמי שלא לצורך:</row>
+		<row row_number="10" isdata="1"><EndGemara/><StartMishna/>מתני' בש"א אין מוליכין חלה ומתנות</row>
+		<row row_number="11" isdata="1">לכהן ביום טוב בין שהורמו מאמש בין</row>
+		<row row_number="12" isdata="1">שהורמו מהיום וב"ה מתירין אמרו להם</row>
+		<row row_number="13" isdata="1">ב"ש גזרה שוה חלה ומתנות מתנה לכהן</row>
+		<row row_number="14" isdata="1">ותרומה מתנה לכהן כשם שאין מוליכין את</row>
+		<row row_number="15" isdata="1">התרומה כך אין מוליכין את המתנות אמרו</row>
+		<row row_number="16" isdata="1">להם ב"ה לא אם אמרתם בתרומה שאינו</row>
+		<row row_number="17" isdata="1">זכאי בהרמתה תאמרו במתנות שזכאי</row>
+		<row row_number="18" isdata="1">בהרמתן:<EndMishna/><StartGemara/>גמ' קא סלקא דעתך שהורמו</row>
+		<row row_number="19" isdata="1">מהיום ושנשחטו מהיום ושהורמו מאמש</row>
+		<row row_number="20" isdata="1">ושנשחטו מאמש מני מתני' לא רבי יוסי ולא</row>
+		<row row_number="21" isdata="1">ר' יהודה אלא אחרים דתניא אמר רבי יהודה לא נחלקו בית שמאי ובית הלל</row>
+		<row row_number="22" isdata="1">על המתנות שהורמו מערב יו"ט שמוליכין עם המתנות שהורמו מהיום</row>
+		<row row_number="23" isdata="1">ושנשחטו מהיום לא נחלקו אלא להוליכן בפני עצמן שב"ש אומרים אין</row>
+		<row row_number="24" isdata="1">מוליכין ובית הלל אומרים מוליכין וכך היו בית שמאי דנין חלה ומתנות</row>
+		<row row_number="25" isdata="1">מתנה לכהן ותרומה מתנה לכהן כשם שאין מוליכין את התרומה כך אין</row>
+		<row row_number="26" isdata="1">מוליכין את המתנות אמרו להם ב"ה לא אם אמרתם בתרומה שאינו זכאי</row>
+		<row row_number="27" isdata="1">בהרמתה תאמרו במתנות שזכאי בהרמתן אמר רבי יוסי לא נחלקו ב"ש וב"ה</row>
+		<row row_number="28" isdata="1">על המתנות שמוליכין לא נחלקו אלא על התרומה שב"ש אומרים אין מוליכין</row>
+		<row row_number="29" isdata="1">וב"ה אומרים מוליכין וכך היו ב"ה דנין חלה ומתנות מתנה לכהן ותרומה</row>
+		<row row_number="30" isdata="1">מתנה לכהן כשם שמוליכין את המתנות כך מוליכין את התרומה אמרו</row>
+		<row row_number="31" isdata="1">להם ב"ש לא אם אמרתם במתנות שזכאי בהרמתן תאמרו בתרומה שאין</row>
+		<row row_number="32" isdata="1">זכאי בהרמתה אחרים אומרים לא נחלקו ב"ש וב"ה על התרומה שאין</row>
+		<row row_number="33" isdata="1">מוליכין לא נחלקו אלא על המתנות שב"ש אומרים אין מוליכין ובית הלל</row>
+		<row row_number="34" isdata="1">אומרים מוליכין לימא אחרים היא ולא רבי יהודה אמר רבא מי קתני</row>
+		<row row_number="35" isdata="1">שהורמו מהיום ושנשחטו מהיום שהורמו קתני ולעולם שחיטתן מאמש</row>
+		<row row_number="36" isdata="1">לימא רבי יהודה היא ולא אחרים אפילו תימא אחרים ובהנך דנשחטו</row>
+		<row row_number="37" isdata="1">מאמש אי הכי היינו ר' יהודה איכא בינייהו טפלה: אמר רב יהודה אמר</row>
+		<row row_number="38" isdata="1">שמואל הלכה כרבי יוסי רב טובי בריה דרב נחמיה הוה ליה גרבא</row>
+		<row row_number="39" isdata="1">דחמרא דתרומה אתא לקמיה דרב יוסף אמר לו מהו לאמטויי לכהן</row>
+		<row row_number="40" isdata="1">האידנא א"ל הכי אמר רב יהודה אמר שמואל הלכה כרבי יוסי אושפזיכניה</row>
+		<row row_number="41" isdata="1">דרבא בר רב חנן הוה ליה אסורייתא דחרדלא א"ל מהו לפרוכי ומיכל</row>
+		<row row_number="42" isdata="1">מנייהו ביו"ט לא הוה בידיה אתא לקמיה דרבא א"ל מוללין מלילות</row>
+		<row row_number="43" isdata="1">ומפרכין קטניות ביו"ט איתיביה אביי המולל מלילות מע"ש למחר מנפח מיד</row>
+		<row row_number="44" isdata="1">ליד ואוכל אבל לא בקנון ולא בתמחוי המולל מלילות מערב יו"ט למחר</row>
+		<row row_number="45" isdata="1">מנפח על יד על יד ואוכל אפילו בקנון ואפי' בתמחוי אבל לא בטבלא</row>
+		<row row_number="46" isdata="1">ולא בנפה ולא בכברה מערב יו"ט אין ביו"ט לא אפילו תימא ביו"ט ואיידי</row>
+		<row row_number="47" isdata="1">דתנא רישא מע"ש תנא סיפא נמי מערב יו"ט א"כ מצינו תרומה שזכאי</row>
+		<row row_number="48" isdata="1">בהרמתה ותנן לא אם אמרתם בתרומה שאינו זכאי בהרמתה וכו' לא קשיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

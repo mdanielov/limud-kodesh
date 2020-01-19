@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:18.145509</dateCreated>
+   <lastModified>2020-01-14 15:03:18.145509</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="25">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד הרגל"/><ContGemara/>זובו של זב ורוקו ושכבת זרעו ומימי</row>
+		<row row_number="2" isdata="1">רגליו ודם הנדה מטמאין בין במגע בין</row>
+		<row row_number="3" isdata="1">במשא ודלמא ה"נ לפי שא"א בלא צחצוחי</row>
+		<row row_number="4" isdata="1">זיבה א"כ לתנייה גבי זובו מ"ש דקתני לה</row>
+		<row row_number="5" isdata="1">גבי רוקו אלא משום דאתי מרוקו א"ל רב</row>
+		<row row_number="6" isdata="1">אחא מדפתי לרבינא והא האי תנא לא</row>
+		<row row_number="7" isdata="1">דריש דיו ואע"ג דלא מפריך ק"ו דתניא</row>
+		<row row_number="8" isdata="1">מפץ במת מניין ודין הוא ומה פכין קטנים</row>
+		<row row_number="9" isdata="1">שטהורים בזב מטמא במת מפץ שמטמא</row>
+		<row row_number="10" isdata="1">בזב אינו דין שיטמא במת וקמייתי לה</row>
+		<row row_number="11" isdata="1">בין לטומאת ערב בין לטומאת שבעה</row>
+		<row row_number="12" isdata="1">ואמאי אימא אהני ק"ו לטומאת ערב ואהני</row>
+		<row row_number="13" isdata="1">דיו לאפוקי טומאת שבעה א"ל כבר רמא</row>
+		<row row_number="14" isdata="1">ניהליה ר"נ בר זכריה לאביי וא"ל אביי תנא</row>
+		<row row_number="15" isdata="1">ממפץ בשרץ מייתי לה וה"ק מפץ בשרץ</row>
+		<row row_number="16" isdata="1">מניין ודין הוא ומה פכין קטנים שטהורים</row>
+		<row row_number="17" isdata="1">בזב טמאין בשרץ מפץ שטמא בזב אינו דין</row>
+		<row row_number="18" isdata="1">שיהא טמא בשרץ אלא מפץ במת מניין</row>
+		<row row_number="19" isdata="1">נאמר בגד ועור בשרץ ונאמר בגד ועור</row>
+		<row row_number="20" isdata="1">במת מה בגד ועור האמור בשרץ מפץ</row>
+		<row row_number="21" isdata="1">טמא בו אף בגד ועור האמור במת מפץ</row>
+		<row row_number="22" isdata="1">טמא בו מופנה דאי לא מופנה איכא</row>
+		<row row_number="23" isdata="1">למפרך מה לשרץ שכן מטמא בכעדשה</row>
+		<row row_number="24" isdata="1">תאמר במת שאין מטמא בכעדשה אלא</row>
+		<row row_number="25" isdata="1">בכזית לאיי אפנויי מופנה מכדי שרץ אתקש</row>
+		<row row_number="26" isdata="1">לשכבת זרע דכתיב או איש אשר תצא</row>
+		<row row_number="27" isdata="1">וגו' וסמיך ליה או איש אשר יגע בכל שרץ</row>
+		<row row_number="28" isdata="1">וכתיב ביה בשכבת זרע וכל בגד וכל עור</row>
+		<row row_number="29" isdata="1">אשר יהיה עליו שכבת זרע בגד ועור דכתב</row>
+		<row row_number="30" isdata="1">רחמנא בשרץ למה לי ש"מ לאפנויי ואכתי</row>
+		<row row_number="31" isdata="1">מופנה מצד אחד הוא הניחא למ"ד מופנה</row>
+		<row row_number="32" isdata="1">מצד אחד למידין ואין משיבין שפיר אלא</row>
+		<row row_number="33" isdata="1">למ"ד למידין ומשיבין מאי איכא למימר</row>
+		<row row_number="34" isdata="1">דמת נמי אפנויי מופנה מכדי מת אתקש</row>
+		<row row_number="35" isdata="1">לשכבת זרע דכתיב והנוגע בכל טמא נפש</row>
+		<row row_number="36" isdata="1">או איש אשר תצא ממנו וגו' וכתיב ביה</row>
+		<row row_number="37" isdata="1">בשכבת זרע וכל בגד וכל עור אשר יהיה</row>
+		<row row_number="38" isdata="1">עליו שכבת זרע בגד ועור דכתב רחמנא</row>
+		<row row_number="39" isdata="1">במת למה לי ש"מ לאפנויי והוי מופנה</row>
+		<row row_number="40" isdata="1">משני צדדין הניחא למ"ד דון מינה ואוקי</row>
+		<row row_number="41" isdata="1">באתרא אלא למ"ד דון מינה ומינה מאי איכא</row>
+		<row row_number="42" isdata="1">למימר אמר רבא אמר קרא וכבסתם בגדיכם</row>
+		<row row_number="43" isdata="1">ביום השביעי כל טמאות שאתם מטמאין</row>
+		<row row_number="44" isdata="1">במת לא יהו פחותין משבעה ותהא שן</row>
+		<row row_number="45" isdata="1">ורגל חייב ברשות הרבים מקל וחומר ומה קרן שברשות הניזק אינו</row>
+		<row row_number="46" isdata="1">משלם אלא חצי נזק ברשות הרבים חייבת שן ורגל שברשות הניזק משלם</row>
+		<row row_number="47" isdata="1">נזק שלם אינן דין שברה"ר חייב אמר קרא ובער בשדה אחר ולא ברה"ר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:41.735193</dateCreated>
+   <lastModified>2020-01-14 15:02:41.735193</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="14">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ביצה"/><ContGemara/>מקשרי אצבעותיו ולמעלה מחכו עלה</row>
+		<row row_number="2" isdata="1">במערבא כיון דמשני אפי' בכולה ידא נמי</row>
+		<row row_number="3" isdata="1">אלא א"ר אלעזר מנפח בידו אחת ובכל</row>
+		<row row_number="4" isdata="1">כחו<EndGemara/><StartMishna/>מתני' בית שמאי אומרים תבלין</row>
+		<row row_number="5" isdata="1">נדוכין במדוך של עץ והמלח בפך ובעץ</row>
+		<row row_number="6" isdata="1">הפרור וב"ה אומרים תבלין נדוכין כדרכן</row>
+		<row row_number="7" isdata="1">במדוך של אבן והמלח במדוך של עץ:</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' דכולי עלמא מיהת מלח בעיא שנוי</row>
+		<row row_number="9" isdata="1">מ"ט רב הונא ורב חסדא חד אמר כל</row>
+		<row row_number="10" isdata="1">הקדרות כולן צריכות מלח ואין כל הקדרות</row>
+		<row row_number="11" isdata="1">צריכות תבלין וחד אמר כל התבלין מפיגין</row>
+		<row row_number="12" isdata="1">טעמן ומלח אינה מפיגה טעמה מאי בינייהו</row>
+		<row row_number="13" isdata="1">איכא בינייהו דידע מאי קדרה בעי לבשולי</row>
+		<row row_number="14" isdata="1">אי נמי במוריקא אמר רב יהודה אמר שמואל</row>
+		<row row_number="15" isdata="1">כל הנדוכין נדוכין כדרכן ואפילו מלח והא</row>
+		<row row_number="16" isdata="1">אמרת מלח בעיא שנוי הוא דאמר כי האי</row>
+		<row row_number="17" isdata="1">תנא דתניא אמר רבי מאיר לא נחלקו בית</row>
+		<row row_number="18" isdata="1">שמאי וב"ה על הנדוכין שנדוכין כדרכן</row>
+		<row row_number="19" isdata="1">ומלח עמהן לא נחלקו אלא לדוכה בפני</row>
+		<row row_number="20" isdata="1">עצמה שבית שמאי אומרים מלח בפך ובעץ</row>
+		<row row_number="21" isdata="1">הפרור לצלי אבל לא לקדרה וב"ה אומרים</row>
+		<row row_number="22" isdata="1">בכל דבר בכל דבר סלקא דעתך אלא אימא</row>
+		<row row_number="23" isdata="1">לכל דבר א"ל רב אחא ברדלא לבריה</row>
+		<row row_number="24" isdata="1">כי דייכת אצלי אצלויי ודוך רב ששת שמע</row>
+		<row row_number="25" isdata="1">קל בוכנא אמר האי לאו מגוויה דביתאי הוא</row>
+		<row row_number="26" isdata="1">ודלמא אצלויי אצלי דשמעיה דהוה צליל</row>
+		<row row_number="27" isdata="1">קליה ודלמא תבלין הוו תבלין נבוחי מנבח</row>
+		<row row_number="28" isdata="1">קלייהו תנו רבנן אין עושין טיסני ואין כותשין</row>
+		<row row_number="29" isdata="1">במכתשת תרתי הכי קאמר מה טעם אין</row>
+		<row row_number="30" isdata="1">עושין טיסני לפי שאין כותשין במכתשת</row>
+		<row row_number="31" isdata="1">ולימא אין כותשין במכתשת אי תני אין</row>
+		<row row_number="32" isdata="1">כותשין במכתשת הוה אמינא ה"מ במכתשת</row>
+		<row row_number="33" isdata="1">גדולה אבל במכתשת קטנה אימא שפיר דמי</row>
+		<row row_number="34" isdata="1">קמ"ל והתניא אין כותשין במכתשת גדולה</row>
+		<row row_number="35" isdata="1">אבל כותשין במכתשת קטנה אמר אביי</row>
+		<row row_number="36" isdata="1">כי תניא נמי מתניתא מכתשת גדולה תניא</row>
+</amud>
+</daf>
+</masechet>
+</root>

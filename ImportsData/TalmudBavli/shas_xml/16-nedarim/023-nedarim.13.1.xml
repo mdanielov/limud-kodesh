@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.530189</dateCreated>
+   <lastModified>2020-01-14 15:03:00.530189</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="13">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContGemara/>דמחית בשר בכור ומחית בשר דהאיך</row>
+		<row row_number="2" isdata="1">גביה ואמר זה כזה ותנאי היא לא דכולי</row>
+		<row row_number="3" isdata="1">עלמא לפני זריקת דמים ומ"ט דמאן דשרי</row>
+		<row row_number="4" isdata="1">אמר קרא כי ידור עד שידור בדבר הנדור</row>
+		<row row_number="5" isdata="1">לאפוקי בכור דדבר האסור הוא ומאן דאסר</row>
+		<row row_number="6" isdata="1">אמר קרא לה' לרבות דבר האסור ומאן</row>
+		<row row_number="7" isdata="1">דשרי לה' מאי עביד ליה מיבעי ליה למתפיס</row>
+		<row row_number="8" isdata="1">בחטאת ואשם ומה ראית לרבות חטאת</row>
+		<row row_number="9" isdata="1">ואשם ולהוציא את הבכור מרבה אני חטאת</row>
+		<row row_number="10" isdata="1">ואשם שהוא מתפיס בנדר ומוציא אני את</row>
+		<row row_number="11" isdata="1">הבכור שהוא קדוש ממעי אמו ומאן דאסר</row>
+		<row row_number="12" isdata="1">בכור נמי מתפיסו בנדר הוא דתניא משום</row>
+		<row row_number="13" isdata="1">רבי אמרו מנין לנולד בכור בתוך ביתו</row>
+		<row row_number="14" isdata="1">שמצוה להקדישו שנאמר הזכר תקדיש ומאן</row>
+		<row row_number="15" isdata="1">דשרי כי לא מקדיש ליה מי לא מיקדיש:</row>
+		<row row_number="16" isdata="1">כאימרא כדירים: תנא אימרא לאימרא</row>
+		<row row_number="17" isdata="1">כאימרא דירים לדירים כדירים עצים לעצים</row>
+		<row row_number="18" isdata="1">כעצים אישים לאישים כאישים מזבח למזבח</row>
+		<row row_number="19" isdata="1">כמזבח היכל להיכל כהיכל ירושלים לירושלים</row>
+		<row row_number="20" isdata="1">כירושלים כולן שאוכל לך אסור לא אוכל לך</row>
+		<row row_number="21" isdata="1">מותר מאן שמעינן ליה דלא שני ליה אימרא</row>
+		<row row_number="22" isdata="1">לאימרא כאימרא רבי מאיר היא אימא</row>
+		<row row_number="23" isdata="1">סיפא וכולן לא אוכל לך מותר והתנן</row>
+		<row row_number="24" isdata="1">לקרבן לא אוכל לך רבי מאיר אוסר</row>
+		<row row_number="25" isdata="1">ואמר רבי אבא נעשה כאומר לקרבן יהא</row>
+		<row row_number="26" isdata="1">לפיכך לא אוכל לך לא קשיא הא דאמר</row>
+		<row row_number="27" isdata="1">לא לאימרא הא דאמר לאימרא:</row>
+		<row row_number="28" isdata="1"><EndGemara/><StartMishna/>מתני' האומר קרבן עולה מנחה חטאת</row>
+		<row row_number="29" isdata="1">תודה שלמים שאני אוכל לך אסור רבי</row>
+		<row row_number="30" isdata="1">יהודה מתיר הקרבן כקרבן קרבן שאוכל לך</row>
+		<row row_number="31" isdata="1">אסור לקרבן לא אוכל לך רבי מאיר אוסר:</row>
+		<row row_number="32" isdata="1"><EndMishna/><StartGemara/>גמ' קתני קרבן הקרבן כקרבן שאוכל לך</row>
+		<row row_number="33" isdata="1">אסור סתמא תנא כרבי מאיר דלא שני</row>
+		<row row_number="34" isdata="1">ליה בין אימרא לאימרא [אי ר"מ הא]</row>
+		<row row_number="35" isdata="1">דקתני הקרבן שאוכל לך אסור והתניא</row>
+		<row row_number="36" isdata="1">מודים חכמים לרבי יהודה באומר הא קרבן</row>
+		<row row_number="37" isdata="1">והא עולה והא מנחה והא חטאת שאוכל לך</row>
+		<row row_number="38" isdata="1">שמותר שלא נדר זה אלא בחיי קרבן</row>
+</amud>
+</daf>
+</masechet>
+</root>

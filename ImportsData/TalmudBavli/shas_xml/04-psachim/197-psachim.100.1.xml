@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:31.118990</dateCreated>
+   <lastModified>2020-01-14 15:02:31.118990</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="100">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>דילמא משבשתא היא א"ל מרימר ואיתימא</row>
+		<row row_number="2" isdata="1">רב יימר אנא איקלעי לפירקיה דרב פנחס</row>
+		<row row_number="3" isdata="1">בריה דרב אמי וקם תנא ותני קמיה וקיבלה</row>
+		<row row_number="4" isdata="1">מיניה אי הכי קשיא אלא מחוורתא כדרב</row>
+		<row row_number="5" isdata="1">הונא ולרב הונא מי ניחא והאמר רבי</row>
+		<row row_number="6" isdata="1">ירמיה א"ר יוחנן ואיתימא א"ר אבהו א"ר</row>
+		<row row_number="7" isdata="1">יוסי בר רבי חנינא הלכה כר' יהודה בערב</row>
+		<row row_number="8" isdata="1">הפסח והלכה כר' יוסי בע"ש הלכה כר'</row>
+		<row row_number="9" isdata="1">יהודה בערב הפסח מכלל דפליג רבי יוסי</row>
+		<row row_number="10" isdata="1">בתרוייהו לא הלכה מכלל דפליגי בהפסקה</row>
+		<row row_number="11" isdata="1">דתניא מפסיקין לשבתות דברי רבי יהודה</row>
+		<row row_number="12" isdata="1">רבי יוסי אומר אין מפסיקין ומעשה ברשב"ג</row>
+		<row row_number="13" isdata="1">[ורבי יהודה] ורבי יוסי שהיו מסובין בעכו</row>
+		<row row_number="14" isdata="1">וקדש עליהם היום א"ל רשב"ג לרבי יוסי</row>
+		<row row_number="15" isdata="1">ברבי רצונך נפסיק וניחוש לדברי יהודה</row>
+		<row row_number="16" isdata="1">חבירנו אמר לו בכל יום ויום אתה מחבב</row>
+		<row row_number="17" isdata="1">דבריי לפני רבי יהודה ועכשיו אתה מחבב</row>
+		<row row_number="18" isdata="1">דברי רבי יהודה בפני הגם לכבוש את</row>
+		<row row_number="19" isdata="1">המלכה עמי בבית א"ל א"כ לא נפסיק שמא</row>
+		<row row_number="20" isdata="1">יראו התלמידים ויקבעו הלכה לדורות אמרו</row>
+		<row row_number="21" isdata="1">לא זזו משם עד שקבעו הלכה כר' יוסי:</row>
+		<row row_number="22" isdata="1">אמר רב יהודה אמר שמואל אין הלכה לא כר'</row>
+		<row row_number="23" isdata="1">יהודה ולא כר' יוסי אלא פורס מפה ומקדש</row>
+		<row row_number="24" isdata="1">איני והא אמר רב תחליפא בר אבדימי</row>
+		<row row_number="25" isdata="1">אמר שמואל כשם שמפסיקין לקידוש</row>
+</amud>
+</daf>
+</masechet>
+</root>

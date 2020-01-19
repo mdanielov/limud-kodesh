@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:26.316046</dateCreated>
+   <lastModified>2020-01-14 15:03:26.316046</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "איזהו נשך"/><ContGemara/>אם אינו ענין לנשך כסף שהרי כבר נאמר</row>
+		<row row_number="2" isdata="1">לא תשיך לאחיך תנהו ענין לרבית כסף</row>
+		<row row_number="3" isdata="1">אין לי אלא בלוה במלוה מנין נאמר נשך</row>
+		<row row_number="4" isdata="1">בלוה ונאמר נשך במלוה מה נשך האמור</row>
+		<row row_number="5" isdata="1">בלוה לא חלקת בו בין בכסף בין באוכל</row>
+		<row row_number="6" isdata="1">בין בנשך בין ברבית אף נשך האמור</row>
+		<row row_number="7" isdata="1">במלוה לא תחלוק בו בין בכסף בין באוכל</row>
+		<row row_number="8" isdata="1">בין בנשך בין ברבית מנין לרבות כל דבר</row>
+		<row row_number="9" isdata="1">ת"ל נשך כל דבר אשר ישך רבינא אמר</row>
+		<row row_number="10" isdata="1">לא נשך באוכל ולא רבית בכסף צריכי קרא</row>
+		<row row_number="11" isdata="1">דאי כתיב את כספך לא תתן לו בנשך</row>
+		<row row_number="12" isdata="1">ואכלך במרבית כדקאמרת השתא דכתיב</row>
+		<row row_number="13" isdata="1">את כספך לא תתן לו בנשך ובמרבית לא</row>
+		<row row_number="14" isdata="1">תתן אכלך קרי ביה הכי את כספך לא תתן</row>
+		<row row_number="15" isdata="1">לו בנשך ובמרבית ובנשך ובמרבית לא תתן</row>
+		<row row_number="16" isdata="1">אכלך והא תנא נאמר נאמר קאמר הכי</row>
+		<row row_number="17" isdata="1">קאמר אילו לא נאמר קרא הייתי אומר גזירה</row>
+		<row row_number="18" isdata="1">שוה עכשיו שנאמר קרא ג"ש לא צריך</row>
+		<row row_number="19" isdata="1">אלא גזירה שוה למה לי לנשך כל דבר אשר</row>
+		<row row_number="20" isdata="1">ישך דלא כתב במלוה אמר רבא למה לי</row>
+		<row row_number="21" isdata="1">דכתב רחמנא לאו ברבית לאו בגזל לאו</row>
+		<row row_number="22" isdata="1">באונאה צריכי דאי כתב רחמנא לאו ברבית</row>
+		<row row_number="23" isdata="1">משום דחידוש הוא דאפילו בלוה אסרה</row>
+		<row row_number="24" isdata="1">רחמנא ואי כתב רחמנא לאו בגזל משום</row>
+		<row row_number="25" isdata="1">דבעל כרחיה אבל אונאה אימא לא ואי</row>
+		<row row_number="26" isdata="1">כתב רחמנא לאו באונאה משום דלא ידע</row>
+		<row row_number="27" isdata="1">דמחיל חדא מחדא לא אתיא תיתי חדא</row>
+		<row row_number="28" isdata="1">מתרתי הי תיתי לא לכתוב רחמנא לאו</row>
+		<row row_number="29" isdata="1">ברבית ותיתי מהנך מה להנך שכן שלא</row>
+		<row row_number="30" isdata="1">מדעת תאמר ברבית דמדעתיה לא לכתוב</row>
+		<row row_number="31" isdata="1">רחמנא לאו באונאה ותיתי מהנך מה להנך</row>
+		<row row_number="32" isdata="1">שכן אין דרך מקח וממכר בכך אלא לא</row>
+		<row row_number="33" isdata="1">לכתוב רחמנא לאו בגזל ותיתי מהנך</row>
+		<row row_number="34" isdata="1">דמאי פרכת מה לרבית שכן חידוש אונאה</row>
+		<row row_number="35" isdata="1">תוכיח מה לאונאה שכן לא ידע ומחיל רבית תוכיח וחזר הדין לא ראי</row>
+		<row row_number="36" isdata="1">זה כראי זה ולא ראי זה כראי זה הצד השוה שבהן שכן גוזלו אף אני</row>
+		<row row_number="37" isdata="1">אביא גזל אמרי הכי נמי אלא לאו בגזל למה לי לכובש שכר שכיר כובש</row>
+		<row row_number="38" isdata="1">שכר שכיר בהדיא כתיב ביה לא תעשוק שכיר עני ואביון לעבור עליו בשני</row>
+		<row row_number="39" isdata="1">לאוין ולוקמה ברבית ואונאה ולעבור עליו בשני לאוין דבר הלמד מעניינו</row>
+</amud>
+</daf>
+</masechet>
+</root>

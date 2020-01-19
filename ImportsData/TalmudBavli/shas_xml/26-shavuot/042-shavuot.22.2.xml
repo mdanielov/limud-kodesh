@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:48.521062</dateCreated>
+   <lastModified>2020-01-14 15:03:48.521062</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="22">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שבועות שתים"/><ContGemara/>וחכמים אומרים בין הוא ובין חבירו לא מעל</row>
+		<row row_number="2" isdata="1">לפי שאין מעילה בקונמות איפוך אחד זה</row>
+		<row row_number="3" isdata="1">ואחד זה לא מעל לפי שאין מעילה בקונמות</row>
+		<row row_number="4" isdata="1">דברי רבי מאיר וחכמים אומרים הוא מעל</row>
+		<row row_number="5" isdata="1">וחבירו לא מעל אי הכי רבי מאיר אומר</row>
+		<row row_number="6" isdata="1">קונמות כשבועות אלא קונמות אצטרופי</row>
+		<row row_number="7" isdata="1">הוא דלא מצטרפי הא מעילה אית בהו</row>
+		<row row_number="8" isdata="1">והאמר ר' מאיר אין מעילה בקונמות כלל</row>
+		<row row_number="9" isdata="1">לדבריהן דרבנן קאמר להו לדידי אין מעילה</row>
+		<row row_number="10" isdata="1">בקונמות כלל לדידכו אודו לי מיהת דקונמות</row>
+		<row row_number="11" isdata="1">כשבועות ורבנן שבועות איכא דרב פנחס</row>
+		<row row_number="12" isdata="1">קונמות ליכא דרב פנחס אמר רבא שבועה</row>
+		<row row_number="13" isdata="1">שלא אוכל ואכל עפר פטור בעי</row>
+		<row row_number="14" isdata="1">רבא שבועה שלא אוכל עפר בכמה כיון</row>
+		<row row_number="15" isdata="1">דאמר שלא אוכל דעתיה אכזית או דלמא</row>
+		<row row_number="16" isdata="1">כיון דלאו מידי דאכלי אינשי הוא בכל</row>
+		<row row_number="17" isdata="1">שהוא תיקו: בעי רבא שבועה שלא אוכל</row>
+		<row row_number="18" isdata="1">חרצן בכמה כיון דמתאכיל על ידי</row>
+		<row row_number="19" isdata="1">תערובת דעתיה אכזית או דלמא כיון דלא</row>
+		<row row_number="20" isdata="1">בעיניה אכלי ליה אינשי דעתיה אמשהו</row>
+		<row row_number="21" isdata="1">תיקו בעי רב אשי נזיר שאמר שבועה</row>
+		<row row_number="22" isdata="1">שלא אוכל חרצן בכמה דכיון דכזית</row>
+		<row row_number="23" isdata="1">איסורא דאורייתא הוא כי קא משתבע</row>
+		<row row_number="24" isdata="1">אהתירא קא משתבע ודעתיה אמשהו או</row>
+		<row row_number="25" isdata="1">דלמא כיון דאמר שלא אוכל דעתיה</row>
+		<row row_number="26" isdata="1">אכזית תא שמע שבועה שלא אוכל</row>
+		<row row_number="27" isdata="1">ואכל נבילות וטריפות שקצים ורמשים</row>
+		<row row_number="28" isdata="1">חייב ור' שמעון פוטר והוינן בה אמאי</row>
+		<row row_number="29" isdata="1">חייב מושבע ועומד מהר סיני הוא רב</row>
+		<row row_number="30" isdata="1">ושמואל ור' יוחנן דאמרי בכולל דברים</row>
+		<row row_number="31" isdata="1">המותרין עם דברים האסורין וריש לקיש</row>
+		<row row_number="32" isdata="1">אמר אי אתה מוצא אלא אי במפרש חצי</row>
+		<row row_number="33" isdata="1">שיעור ואליבא דרבנן אי בסתם ואליבא</row>
+		<row row_number="34" isdata="1">דרבי עקיבא דאמר אדם אוסר עצמו בכל</row>
+		<row row_number="35" isdata="1">שהוא והא נבילה דמושבע ועומד מהר</row>
+		<row row_number="36" isdata="1">סיני הוא דכי חרצן לגבי נזיר דמיא וטעמא</row>
+		<row row_number="37" isdata="1">דפריש הא לא פריש דעתיה אכזית שמע מינה אלא תפשוט דבעי רבא</row>
+		<row row_number="38" isdata="1">שבועה שלא אוכל עפר בכמה תפשוט דעד דאיכא כזית דהא נבילה</row>
+		<row row_number="39" isdata="1">כעפר דמיא וטעמא דפריש הא לא פריש דעתיה אכזית לא עפר לאו</row>
+		<row row_number="40" isdata="1">בר אכילה הוא כלל נבילה בת אכילה ואריא הוא דרביע עילווה:</row>
+		<row row_number="41" isdata="1"><EndGemara/><StartMishna/>מתני' שבועה שלא אוכל ואכל ושתה אינו חייב אלא אחת שבועה</row>
+		<row row_number="42" isdata="1">שלא אוכל ושלא אשתה ואכל ושתה חייב שתים שבועה שלא אוכל</row>
+		<row row_number="43" isdata="1">ואכל פת חטין ופת שעורין ופת כוסמין אינו חייב אלא אחת שבועה</row>
+		<row row_number="44" isdata="1">שלא אוכל פת חטין ופת שעורין ופת כוסמין ואכל חייב על כל אחת</row>
+		<row row_number="45" isdata="1">ואחת שבועה שלא אשתה ושתה משקין הרבה אינו חייב אלא אחת</row>
+		<row row_number="46" isdata="1">שבועה שלא אשתה יין ושמן ודבש ושתה חייב על כל אחת ואחת</row>
+		<row row_number="47" isdata="1">שבועה שלא אוכל ואכל אוכלין שאינן ראוין לאכילה ושתה משקין</row>
+		<row row_number="48" isdata="1">שאינן ראוין לשתיה פטור שבועה שלא אוכל ואכל נבילות וטריפות</row>
+		<row row_number="49" isdata="1">שקצים ורמשים חייב ור' שמעון פוטר אמר קונם אשתי נהנית לי אם</row>
+		<row row_number="50" isdata="1">אכלתי היום והוא אכל נבילות וטריפות שקצים ורמשים הרי אשתו אסורה:</row>
+		<row row_number="51" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רבי חייא בר אבין אמר שמואל שבועה שלא אוכל ושתה חייב</row>
+		<row row_number="52" isdata="1">איבעית אימא סברא ואיבעית אימא קרא איבעית אימא סברא דאמר</row>
+		<row row_number="53" isdata="1">ליה אינש לחבריה נטעום מידי ועיילי ואכלי ושתו ואיבעית אימא קרא שתיה</row>
+		<row row_number="54" isdata="1">בכלל אכילה דאמר ריש לקיש מנין לשתיה שהיא בכלל אכילה שנאמר</row>
+		<row row_number="55" isdata="1">ואכלת לפני ה' אלהיך במקום אשר יבחר לשכן שמו שם מעשר דגנך ותירושך</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:05.321987</dateCreated>
+   <lastModified>2020-01-14 15:04:05.321987</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="42">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "התכלת"/><ContGemara/>אין לה שיעור למעלה אבל יש לה שיעור</row>
+		<row row_number="2" isdata="1">למטה דאי לא תימא הכי כיוצא בו לולב אין</row>
+		<row row_number="3" isdata="1">לו שיעור הכי נמי דאין לו שיעור כלל והתנן</row>
+		<row row_number="4" isdata="1">לולב שיש בו ג' טפחים כדי לנענע בו כשר</row>
+		<row row_number="5" isdata="1">אלא אין לו שיעור למעלה אבל יש לו שיעור</row>
+		<row row_number="6" isdata="1">למטה ה"נ אין לו שיעור למעלה אבל יש לו</row>
+		<row row_number="7" isdata="1">שיעור למטה ת"ר ציצית אין ציצית אלא ענף</row>
+		<row row_number="8" isdata="1">וכן הוא אומר ויקחני בציצית ראשי ואמר</row>
+		<row row_number="9" isdata="1">אביי וצריך לפרודה כי צוציתא דארמאי ת"ר</row>
+		<row row_number="10" isdata="1">הטיל על הקרן או על הגדיל כשירה רבי</row>
+		<row row_number="11" isdata="1">אליעזר בן יעקב (אומר) פוסל בשתיהן</row>
+		<row row_number="12" isdata="1">כמאן אזלא הא דאמר רב גידל אמר רב ציצית</row>
+		<row row_number="13" isdata="1">צריכה שתהא נוטפת על הקרן שנאמר על</row>
+		<row row_number="14" isdata="1">כנפי בגדיהם כמאן כרבי אליעזר בן יעקב</row>
+		<row row_number="15" isdata="1">אמר ר' יעקב אמר רבי יוחנן וצריך שירחיק</row>
+		<row row_number="16" isdata="1">מלא קשר גודל ואיצטריך דרב פפא ואיצטריך</row>
+		<row row_number="17" isdata="1">דר' יעקב דאי מדרב פפא הוה אמינא תוך ג'</row>
+		<row row_number="18" isdata="1">דלא לירחיק טפי וכמה דמקרב מעלי איצטריך</row>
+		<row row_number="19" isdata="1">דר' יעקב ואי מדרבי יעקב הוה אמינא מלא</row>
+		<row row_number="20" isdata="1">קשר גודל דלא ליקרב טפי וכמה דרחיק מעלי</row>
+		<row row_number="21" isdata="1">צריכא רבינא ורב סמא הוו יתבי קמיה דרב</row>
+		<row row_number="22" isdata="1">אשי חזייה רב סמא לקרניה דגלימיה דרבינא</row>
+		<row row_number="23" isdata="1">דסתר ובצר ממלא קשר גודל אמר ליה לא</row>
+		<row row_number="24" isdata="1">סבר לה מר להא דר' יעקב אמר ליה בשעת</row>
+		<row row_number="25" isdata="1">עשייה איתמר איכסיף אמר ליה רב אשי לא</row>
+		<row row_number="26" isdata="1">תתקיף לך חד מינייהו כתרי מינן רב אחא</row>
+		<row row_number="27" isdata="1">בר יעקב רמי ארבע ועייף להו מיעף ומעייל</row>
+		<row row_number="28" isdata="1">להו בגלימא ואביק להו מיבק קסבר בעינן</row>
+		<row row_number="29" isdata="1">תמניא בגלימא כי היכי דליהוי גדיל גדילים</row>
+		<row row_number="30" isdata="1">במקום פתיל רב ירמיה מדפתי רמי תמניא</row>
+		<row row_number="31" isdata="1">דאינהו שיתסר ולא אביק להו מר בריה</row>
+		<row row_number="32" isdata="1">דרבינא עביד כדידן רב נחמן אשכחיה לרב</row>
+		<row row_number="33" isdata="1">אדא בר אהבה רמי חוטי וקא מברך לעשות</row>
+		<row row_number="34" isdata="1">ציצית א"ל מאי ציצי שמענא הכי אמר רב</row>
+		<row row_number="35" isdata="1">ציצית אין צריכה ברכה כי נח נפשיה דרב</row>
+		<row row_number="36" isdata="1">הונא על רב חסדא למירמא דרב אדרב ומי</row>
+		<row row_number="37" isdata="1">אמר רב ציצית אין צריך ברכה והא אמר רב</row>
+		<row row_number="38" isdata="1">יהודה אמר רב מנין לציצית בעובד כוכבים</row>
+		<row row_number="39" isdata="1">שהיא פסולה שנאמר דבר אל בני ישראל</row>
+		<row row_number="40" isdata="1">ועשו להם ציצית בני ישראל יעשו ולא העובדי</row>
+		<row row_number="41" isdata="1">כוכבים יעשו והא מאי רומיא אמר רב יוסף</row>
+		<row row_number="42" isdata="1">קסבר רב חסדא כל מצוה שכשירה בעובד</row>
+		<row row_number="43" isdata="1">כוכבים בישראל אין צריך לברך כל מצוה שפסולה בעובד כוכבים בישראל</row>
+		<row row_number="44" isdata="1">צריך לברך וכללא הוא והרי מילה דכשירה בעובד כוכבים דתניא עיר</row>
+		<row row_number="45" isdata="1">שאין בה רופא ישראל ויש בה רופא ארמאי ורופא כותי ימול ארמאי ואל</row>
+		<row row_number="46" isdata="1">ימול כותי דברי רבי מאיר רבי יהודה אומר כותי ולא ארמאי ובישראל צריך</row>
+		<row row_number="47" isdata="1">לברך דאמר מר המל אומר ברוך אשר קדשנו במצותיו וצונו על המילה</row>
+		<row row_number="48" isdata="1">מידי הוא טעמא אלא לרב רב מיפסיל פסיל דאיתמר מנין למילה בעובד</row>
+		<row row_number="49" isdata="1">כוכבים שפסולה דרו בר פפא משמיה דרב אמר ואתה את בריתי תשמור</row>
+		<row row_number="50" isdata="1">ר' יוחנן אמר המול ימול המל ימול סוכה מסייע ליה תפילין הוי תיובתיה</row>
+		<row row_number="51" isdata="1">הרי סוכה דכשירה בעובד כוכבים דתניא סוכת עובדי כוכבים סוכת נשים</row>
+		<row row_number="52" isdata="1">סוכת בהמה סוכת כותיים סוכה מכל מקום כשירה ובלבד שתהא מסוככת</row>
+		<row row_number="53" isdata="1">כהילכתא ובישראל אין צריך לברך דתניא העושה סוכה לעצמו אומר</row>
+		<row row_number="54" isdata="1">ברוך אתה ה' אלהינו מלך העולם שהחיינו וקימנו והגיענו לזמן הזה</row>
+		<row row_number="55" isdata="1">בא לישב בה אומר ברוך אתה ה' אלהינו מלך העולם אשר קדשנו במצותיו וצונו לישב בסוכה ואילו</row>
+		<row row_number="56" isdata="1">לעשות סוכה לא מברך תפילין תיובתיה והרי תפילין דפסולות בעובד כוכבים דתני רב חיננא בריה דרבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

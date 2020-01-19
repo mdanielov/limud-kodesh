@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:59.203795</dateCreated>
+   <lastModified>2020-01-14 15:03:59.203795</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="67">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חטאת העוף"/><ContGemara/>ת"ש חטאת לזו ועולה לזו עשה שתיהן</row>
+		<row row_number="2" isdata="1">למעלה מחצה כשר ומחצה פסול שתיהן</row>
+		<row row_number="3" isdata="1">למטה מחצה כשר ומחצה פסול אחת למעלה</row>
+		<row row_number="4" isdata="1">ואחת למטה שתיהן פסולות שאני אומר</row>
+		<row row_number="5" isdata="1">חטאת קרבה למעלה ועולה קרבה למטה נהי</row>
+		<row row_number="6" isdata="1">נמי דעולה קרבה למטה תימשוך ותהוי</row>
+		<row row_number="7" isdata="1">חטאת העוף אימור דא"ר יהושע בחד גברא</row>
+		<row row_number="8" isdata="1">בתרי גברי מי אמר ת"ש חטאת ועולה</row>
+		<row row_number="9" isdata="1">וסתומה ומפורשת עשה כולן למעלה מחצה</row>
+		<row row_number="10" isdata="1">כשר ומחצה פסול כולן למטה מחצה כשר</row>
+		<row row_number="11" isdata="1">ומחצה פסול חציין למעלה וחציין למטה</row>
+		<row row_number="12" isdata="1">אינה כשירה אלא סתומה ומתחלקת</row>
+		<row row_number="13" isdata="1">ביניהן ואילו מפורשין לא ואמאי נהי נמי</row>
+		<row row_number="14" isdata="1">דעולה קרבה למטה תימשוך ותיהוי חטאת</row>
+		<row row_number="15" isdata="1">העוף וכי תימא הא דלא כר' יהושע ומי מצית</row>
+		<row row_number="16" isdata="1">אמרת הכי תא שמע האשה שאמרה</row>
+		<row row_number="17" isdata="1">הרי עלי קן אם אלד זכר ילדה זכר מביאה</row>
+		<row row_number="18" isdata="1">שתי קינים אחת לנדרה ואחת לחובתה</row>
+		<row row_number="19" isdata="1">נתנתן לכהן הכהן צריך לעשותן שלש</row>
+		<row row_number="20" isdata="1">למעלה ואחת למטה לא עשה כן אלא</row>
+		<row row_number="21" isdata="1">עשה שתים למעלה וב' למטה ולא נמלך</row>
+		<row row_number="22" isdata="1">צריכה שתביא עוד פרידה אחת ותקריבנה</row>
+		<row row_number="23" isdata="1">למעלה ממין א' ומשני מינין תביא שתים</row>
+		<row row_number="24" isdata="1">פרשה נדרה [צריכה] להביא עוד ג' פרידין</row>
+		<row row_number="25" isdata="1">ממין אחד ומב' מינין תביא ד' קבעה נדרה</row>
+</amud>
+</daf>
+</masechet>
+</root>

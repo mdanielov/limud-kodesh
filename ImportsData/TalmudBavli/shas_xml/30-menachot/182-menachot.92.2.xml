@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:08.932373</dateCreated>
+   <lastModified>2020-01-14 15:04:08.932373</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="92">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שתי מדות"/><ContGemara/>ואין שעירי עבודת כוכבים טעונין סמיכה</row>
+		<row row_number="2" isdata="1">באהרן אלא בזקנים אמר רב ששת ותסברא</row>
+		<row row_number="3" isdata="1">דהך קמייתא מתרצתא היא הא א"ר שמעון</row>
+		<row row_number="4" isdata="1">סמיכה בבעלים בעינן אלא תריץ הכי הפר</row>
+		<row row_number="5" isdata="1">פר טעון סמיכה ואין שעירי עבודת כוכבים</row>
+		<row row_number="6" isdata="1">טעונין סמיכה דברי רבי יהודה רבי שמעון</row>
+		<row row_number="7" isdata="1">אומר החי חי טעון סמיכה באהרן ואין שעירי</row>
+		<row row_number="8" isdata="1">עבודת כוכבים טעונין סמיכה באהרן אלא</row>
+		<row row_number="9" isdata="1">בזקנים והכי קא אמר ליה ר' שמעון לר' יהודה</row>
+		<row row_number="10" isdata="1">שעירי עבודת כוכבים בעו סמיכה ואי שמיע</row>
+		<row row_number="11" isdata="1">לך דלא בעו סמיכה באהרן הוא דשמיע לך</row>
+		<row row_number="12" isdata="1">ומיעוטא מהחי הוא ורבי יהודה למה לי</row>
+		<row row_number="13" isdata="1">למעטינהו מקרא והא אמר רבינא גמירי שתי</row>
+		<row row_number="14" isdata="1">סמיכות בצבור גירסא בעלמא ורבי שמעון</row>
+		<row row_number="15" isdata="1">שעירי עבודת כוכבים דבעיא סמיכה מנלן</row>
+		<row row_number="16" isdata="1">נפקא לן מדתניא וסמך ידו על ראש</row>
+		<row row_number="17" isdata="1">השעיר לרבות שעיר נחשון לסמיכה דברי ר'</row>
+		<row row_number="18" isdata="1">יהודה ר' שמעון אומר לרבות שעירי עבודת</row>
+		<row row_number="19" isdata="1">כוכבים לסמיכה שהיה ר"ש אומר כל חטאת</row>
+		<row row_number="20" isdata="1">שנכנס דמה לפנים טעונה סמיכה למה לי למימרא שהיה סימנא בעלמא</row>
+		<row row_number="21" isdata="1">ואימא שעיר הנעשה בפנים דומיא דשעיר נשיא דמכפר על עבירות מצוה</row>
+		<row row_number="22" isdata="1">ידועה ולרבינא דאמר גמירי שתי סמיכות בציבור קראי למה לי איצטריך</row>
+		<row row_number="23" isdata="1">הלכתא ואיצטריך קראי דאי מקרא הוה אמינא זבחי שלמי ציבור כי קשיא</row>
+		<row row_number="24" isdata="1">אמתני' דהך פירקא דכל המנחות באות א"ר שמעון שלשה מינין טעונין</row>
+		<row row_number="25" isdata="1">שלש מצות ליתי בקל וחומר ויהו זבחי שלמי ציבור טעונין סמיכה מקל</row>
+		<row row_number="26" isdata="1">וחומר מה שלמי יחיד שאין טעונין תנופה חיים טעונין סמיכה חיים וכו'</row>
+		<row row_number="27" isdata="1">איצטריך הלכתא ואי מהלכתא (הוה אמינא) לא ידעינן הי נינהו קמשמע</row>
+		<row row_number="28" isdata="1">לן דומיא דשעיר נשיא דמכפר על עבירות מצוה ידועה: כל קרבנות היחיד</row>
+		<row row_number="29" isdata="1">טעונין סמיכה חוץ מבכור ומעשר ופסח: ת"ר קרבנו ולא הבכור שיכול והלא</row>
+		<row row_number="30" isdata="1">דין הוא ומה שלמים שאין קדושתן מרחם טעונין סמיכה בכור שקדושתו</row>
+		<row row_number="31" isdata="1">מרחם אינו דין שטעון סמיכה תלמוד לומר קרבנו ולא הבכור קרבנו ולא</row>
+		<row row_number="32" isdata="1">מעשר שיכול והלא דין הוא ומה שלמים שאין מקדשין לפניהם ולאחריהם</row>
+		<row row_number="33" isdata="1">טעונין סמיכה מעשר שמקדש לפניו ולאחריו אינו דין שטעון סמיכה</row>
+		<row row_number="34" isdata="1">תלמוד לומר קרבנו ולא מעשר קרבנו ולא פסח שיכול והלא דין הוא ומה</row>
+		<row row_number="35" isdata="1">שלמים שאינו בעמוד והבא טעונין סמיכה פסח שהוא בעמוד והבא אינו</row>
+		<row row_number="36" isdata="1">דין שטעון סמיכה תלמוד לומר קרבנו ולא פסח איכא למיפרך מה</row>
+		<row row_number="37" isdata="1">לשלמים שכן טעונין נסכים ותנופת חזה ושוק קראי אסמכתא בעלמא אלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

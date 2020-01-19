@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.937496</dateCreated>
+   <lastModified>2020-01-14 15:03:02.937496</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="88">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContGemara/>כמאן אזלא הא שמעתא דרב כרבי מאיר</row>
+		<row row_number="2" isdata="1">דאמר יד אשה כיד בעלה ורמינהו כיצד</row>
+		<row row_number="3" isdata="1">משתתפין במבוי מניח את החבית ואומר הרי</row>
+		<row row_number="4" isdata="1">זה לכל בני מבוי ומזכה להן על ידי עבדו</row>
+		<row row_number="5" isdata="1">ושפחתו העברים ועל ידי בנו ובתו הגדולים</row>
+		<row row_number="6" isdata="1">ועל ידי אשתו ואי אמרת קנה יתהון בעלה</row>
+		<row row_number="7" isdata="1">עירוב לא נפיק מרשותיה דבעל אמר רבא</row>
+		<row row_number="8" isdata="1">אע"ג דאמר רבי מאיר יד אשה כיד בעלה</row>
+		<row row_number="9" isdata="1">מודה רבי מאיר לענין שיתוף דכיון דלזכות</row>
+		<row row_number="10" isdata="1">לאחרים הוא מיד בעלה זכיא איתיביה רבינא</row>
+		<row row_number="11" isdata="1">לרב אשי אלו שזכין להן [על ידי] בנו</row>
+		<row row_number="12" isdata="1">ובתו הגדולים ועבדו ושפחתו העברים ואלו</row>
+		<row row_number="13" isdata="1">שאין זכין להן על ידי בנו ובתו הקטנים</row>
+		<row row_number="14" isdata="1">ועבדו ושפחתו הכנענים ואשתו אלא אמר</row>
+		<row row_number="15" isdata="1">רב אשי מתניתין בשיש לה חצר באותו מבוי</row>
+		<row row_number="16" isdata="1">עסקינן דמגו דזכיא לנפשה זכיא לאחריני:</row>
+		<row row_number="17" isdata="1"><EndGemara/><StartMishna/>מתני' ונדר אלמנה וגרושה יקום עליה</row>
+		<row row_number="18" isdata="1">כיצד אמרה הריני נזירה לאחר שלשים יום</row>
+		<row row_number="19" isdata="1">אע"פ שנשאת בתוך ל' יום אינו יכול להפר</row>
+</amud>
+</daf>
+</masechet>
+</root>

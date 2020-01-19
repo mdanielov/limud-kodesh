@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:25.122657</dateCreated>
+   <lastModified>2020-01-14 15:02:25.122657</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="11">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אור לארבעה עשר"/><ContGemara/>על ממונו אמרינן אי שרית ליה במקום שאין</row>
+		<row row_number="2" isdata="1">עושין בו מום אתי למעבד במקום שעושין</row>
+		<row row_number="3" isdata="1">בו מום ורבנן כל שכן דאי לא שרית ליה</row>
+		<row row_number="4" isdata="1">כלל אתי למעבד ומי אמרינן לרבי יהודה</row>
+		<row row_number="5" isdata="1">אדם בהול על ממונו והתנן ר' יהודה אומר</row>
+		<row row_number="6" isdata="1">אין (מקדרין) הבהמה בי"ט מפני שהוא</row>
+		<row row_number="7" isdata="1">עושה חבורה אבל מקרצפין וחכ"א אין</row>
+		<row row_number="8" isdata="1">מקדרין אף אין מקרצפין ותניא איזהו קידור</row>
+		<row row_number="9" isdata="1">ואיזהו קרצוף קידור קטני' ועושין חבור' קרצוף</row>
+		<row row_number="10" isdata="1">גדולים ואין עושין חבורה התם דאי שביק לי'</row>
+		<row row_number="11" isdata="1">מיית אמרינן אדם בהול על ממונו הכא אי</row>
+		<row row_number="12" isdata="1">שביק לי' צערא בעלמא הוא לא אמרי' אדם</row>
+		<row row_number="13" isdata="1">בהול על ממונו ור' יהודה מאי שנא גבי חמץ</row>
+		<row row_number="14" isdata="1">דגזר ומאי שנא גבי קרצוף דלא גזר לחם</row>
+		<row row_number="15" isdata="1">בלחם מיחלף קידור בקרצוף לא מיחלף:</row>
+		<row row_number="16" isdata="1"><EndGemara/><StartMishna/>מתני' ר"מ אומר אוכלים כל חמש ושורפין</row>
+		<row row_number="17" isdata="1">בתחלת שש רבי יהודה אומר אוכלין</row>
+		<row row_number="18" isdata="1">כל ארבע ותולין כל חמש ושורפין בתחלת</row>
+		<row row_number="19" isdata="1">שש ועוד א"ר יהודה שתי חלות של תודה</row>
+		<row row_number="20" isdata="1">פסולות מונחות על גב האיצטבא כל זמן</row>
+		<row row_number="21" isdata="1">שמונחות כל העם אוכלין ניטלה אחת תולין</row>
+		<row row_number="22" isdata="1">לא אוכלין ולא שורפין ניטלו שתיהן התחילו</row>
+		<row row_number="23" isdata="1">כל העם שורפין ר"ג אומר חולין נאכלין כל</row>
+		<row row_number="24" isdata="1">ארבע ותרומה כל חמש ושורפין בתחלת</row>
+		<row row_number="25" isdata="1">שש:<EndMishna/><StartGemara/>גמ' תנן התם אחד אומר בשנים בחדש</row>
+		<row row_number="26" isdata="1">ואחד אומר בשלשה עדותן קיימת שזה</row>
+		<row row_number="27" isdata="1">יודע בעבורו של חדש וזה אינו יודע בעבורו</row>
+		<row row_number="28" isdata="1">של חדש אחד אומר בשלשה ואחד אומר</row>
+		<row row_number="29" isdata="1">בה' עדותן בטלה אחד אומר בשתי שעות</row>
+		<row row_number="30" isdata="1">ואחד אומר בשלש שעות עדותן קיימת אחד אומר בשלש ואחד אומר</row>
+		<row row_number="31" isdata="1">בחמש עדותן בטלה דברי רבי מאיר רבי יהודה אומר עדותן קיימת</row>
+		<row row_number="32" isdata="1">אחד אומר בחמש ואחד אומר בשבע עדותן בטלה שבחמש חמה</row>
+		<row row_number="33" isdata="1">במזרח ובשבע חמה במערב אמר אביי כשתמצא לומר לדברי רבי</row>
+		<row row_number="34" isdata="1">מאיר אין אדם טועה ולא כלום לדברי רבי יהודה אדם טועה חצי שעה</row>
+		<row row_number="35" isdata="1">לדברי רבי מאיר אין אדם טועה ולא כלום מעשה כי הוה במיפק תרתי ומעייל</row>
+		<row row_number="36" isdata="1">תלת והא דקאמר שתים בסוף שתים והא דקאמר שלש בתחלת שלש</row>
+		<row row_number="37" isdata="1">לדברי רבי יהודה אדם טועה חצי שעה מעשה כי הוה בפלגא דארבע הוה</row>
+		<row row_number="38" isdata="1">והאי דקאמר שלש בסוף שלש וקטעי פלגא דשעתא לקמיה והאי דקאמר</row>
+		<row row_number="39" isdata="1">חמש בתחלת חמש וקטעי פלגא דשעתא לאחוריה איכא דאמרי אמר אביי</row>
+		<row row_number="40" isdata="1">כשתמצא לומר לדברי רבי מאיר אדם טועה משהו לדברי רבי יהודה אדם</row>
+		<row row_number="41" isdata="1">טועה שעה ומשהו לדברי ר"מ אדם טועה משהו מעשה כי הוה או בסוף</row>
+		<row row_number="42" isdata="1">שתים הוה או בתחלת שלש וחד מינייהו טועה משהו לדברי רבי יהודה</row>
+		<row row_number="43" isdata="1">אדם טועה שעה ומשהו מעשה כי הוה או בסוף שלש או בתחלת חמש</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:19.515048</dateCreated>
+   <lastModified>2020-01-14 15:04:19.515048</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="17">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר פרתו"/><ContGemara/>היינו דאמר ליה רבן שמעון בן גמליאל אפילו</row>
+		<row row_number="2" isdata="1">עד עשרה דורות פטורין אלא לרב הונא</row>
+		<row row_number="3" isdata="1">דאמר לא נחית תנא קמא לדרי מאי אפילו</row>
+		<row row_number="4" isdata="1">עד עשרה דורות אמר לך רב הונא רבן</row>
+		<row row_number="5" isdata="1">שמעון בן גמליאל אהעמיד קאי דנחית לדרי</row>
+		<row row_number="6" isdata="1">תא שמע המקבל צאן ברזל מן העובד</row>
+		<row row_number="7" isdata="1">כוכבים ולדות פטורין וולדי ולדות לא</row>
+		<row row_number="8" isdata="1">תיובתא דרב יהודה אמר לך רב יהודה אימא</row>
+		<row row_number="9" isdata="1">הן וולדותיהן איכא דאמרי הן וולדותיהן</row>
+		<row row_number="10" isdata="1">פטורין תיובתא דרב הונא אמר לך רב הונא אימא הן וולדות פטור וולדי</row>
+		<row row_number="11" isdata="1">ולדות חייב: רחל שילדה מין עז כו': אתא רב אושעיא מנהרדעא ואייתי</row>
+		<row row_number="12" isdata="1">מתניתא בידיה רחל בת עז ועז בת רחל ר' מאיר מחייב וחכמים פוטרין אמר</row>
+		<row row_number="13" isdata="1">ליה רב הושעיא לרבה כי עיילת לקמיה דרב הונא בעי מיניה ר' מאיר מיחייב</row>
+		<row row_number="14" isdata="1">למאי אילימא לבכורה ולית ליה לרבי מאיר אך בכור שור עד שיהא הוא</row>
+		<row row_number="15" isdata="1">שור ובכורו שור אלא לראשית הגז ולית ליה הא דתנא דבי רבי ישמעאל</row>
+		<row row_number="16" isdata="1">כבשים שצמרן קשה פטורין מראשית הגז שנאמר ומגז כבשי יתחמם אמר</row>
+		<row row_number="17" isdata="1">ליה ניחזי אנן הכא במאי עסקינן ברחל שילדה מין עז ואביו תייש ובחוששין</row>
+		<row row_number="18" isdata="1">לזרע האב לענין אותו ואת בנו קמיפלגי דר' מאיר סבר חוששין לזרע האב</row>
+		<row row_number="19" isdata="1">ורבנן סברי אין חוששין לזרע האב אי הכי ליפלגו בחוששין לזרע האב בעלמא</row>
+		<row row_number="20" isdata="1">בפלוגתא דחנניה ורבנן אלא לעולם לבכורה והכא במאי עסקינן ברחל בת</row>
+		<row row_number="21" isdata="1">רחל בת עז מר סבר זיל בתר אימיה והאי לאו נדמה הוא ומר סבר זיל בתר</row>
+		<row row_number="22" isdata="1">אימיה דאימיה והאי נדמה הוא ואיבעית אימא ברחל בת עז בת רחל מר סבר</row>
+		<row row_number="23" isdata="1">חזרה שייות למקומן ומר סבר לא חזרה שייות למקומן רב אשי אמר כגון שיש</row>
+		<row row_number="24" isdata="1">בו מקצת סימנין ומאן חכמים ר"ש דאמר עד שיהא ראשו ורובו דומה לאמו:</row>
+		<row row_number="25" isdata="1">אמר רבי יוחנן מודה ר"מ בשעיר של ראש חדש דבעינן בן שעירה מאי טעמא</row>
+		<row row_number="26" isdata="1">אמר קרא אחד המיוחד ובא מששת ימי בראשית והא מהכא נפקא מהתם</row>
+		<row row_number="27" isdata="1">נפקא שור או כשב פרט לכלאים או עז פרט לנדמה צריכא דאי מהתם הוה</row>
+		<row row_number="28" isdata="1">אמינא ה"מ היכא דלא נחת לדרי אבל היכא דנחת אימא לא ואי מהכא</row>
+		<row row_number="29" isdata="1">הוה אמינא ה"מ לגבי קרבן חובה אבל נדבה לא צריכא אמר רבי אחא בר</row>
+		<row row_number="30" isdata="1">יעקב הכל מודים דאין לוקין על צמרו משום כלאים שנאמר לא תלבש</row>
+		<row row_number="31" isdata="1">שעטנז מה פשתן שלא נשתנה אף צמר שלא נשתנה אמר רב פפא הכל</row>
+		<row row_number="32" isdata="1">מודים שצמרו פסול לתכלת שנאמר לא תלבש שעטנז גדילים תעשה לך</row>
+		<row row_number="33" isdata="1">מה פשתן שלא נשתנה אף צמר שלא נשתנה אמר רב נחמן בר יצחק הכל</row>
+		<row row_number="34" isdata="1">מודים  שאין צמרו מטמא בנגעים שנאמר בבגד צמר או בבגד פשתים</row>
+		<row row_number="35" isdata="1">מה פשתים שלא נשתנה אף צמר שלא נשתנה אמר רב אשי אף אנו נאמר</row>
+		<row row_number="36" isdata="1">הדלה הגפן על גבי תאינה יינו פסול לנסכים מ"ט זבח ונסכים מה זבח שלא</row>
+		<row row_number="37" isdata="1">נשתנה אף נסכים שלא נשתנו מתקיף לה רבינא הדלה פשתן על גבי היגא ה"נ</row>
+		<row row_number="38" isdata="1">דלישתני א"כ לא מצית אמרת מה פשתן שלא נשתנה דהא פשתן נמי משתני</row>
+		<row row_number="39" isdata="1">א"ל זה נשתנה ריחו וזה לא נשתנה ריחו<EndGemara/><StartMishna/>מתני' רחל שלא ביכרה וילדה שני</row>
+		<row row_number="40" isdata="1">זכרים ויצאו שני ראשיהן כאחת רבי יוסי הגלילי אומר שניהן לכהן שנאמר</row>
+		<row row_number="41" isdata="1">הזכרים לה' וחכ"א אי אפשר לצמצם אלא אחד לו ואחד לכהן ר"ט אומר</row>
+		<row row_number="42" isdata="1">הכהן בורר לו את היפה ר"ע אומר משמנין ביניהן והשני ירעה עד שיסתאב</row>
+</amud>
+</daf>
+</masechet>
+</root>

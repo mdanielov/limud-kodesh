@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:17.511321</dateCreated>
+   <lastModified>2020-01-14 15:04:17.511321</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="114">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>היא עצמה בחלבה מנין אמרת ק"ו ומה</row>
+		<row row_number="2" isdata="1">במקום שלא נאסר פרי עם פרי בשחיטה</row>
+		<row row_number="3" isdata="1">נאסר פרי עם האם בשחיטה מקום שנאסר</row>
+		<row row_number="4" isdata="1">פרי עם פרי בבשול אינו דין שנאסר פרי</row>
+		<row row_number="5" isdata="1">עם האם בבשול ת"ל בחלב אמו הא למה</row>
+		<row row_number="6" isdata="1">לי קרא הא אתיא לה אמר רב אחדבוי בר</row>
+		<row row_number="7" isdata="1">אמי משום דאיכא למימר סוס בן סוסיא</row>
+		<row row_number="8" isdata="1">אחי פרדה יוכיח שאסור פרי עם פרי</row>
+		<row row_number="9" isdata="1">ומותר פרי עם האם התם זרע האב הוא</row>
+		<row row_number="10" isdata="1">דקא גרים דהא פרד בן סוסיא אחי פרדה</row>
+		<row row_number="11" isdata="1">יוכיח שמותר פרי עם פרי ואסור פרי עם</row>
+		<row row_number="12" isdata="1">האם אלא אמר מר בריה דרבינא משום</row>
+		<row row_number="13" isdata="1">דאיכא למימר עבד בן שפחה אחי משוחררת</row>
+		<row row_number="14" isdata="1">יוכיח שאסור פרי עם פרי ומותר פרי עם</row>
+		<row row_number="15" isdata="1">האם התם גט שיחרור הוא דקא גרים דהא</row>
+		<row row_number="16" isdata="1">עבד בן משוחררת אחי שפחה יוכיח שמותר</row>
+		<row row_number="17" isdata="1">פרי עם פרי ואסור פרי עם האם אלא אמר</row>
+		<row row_number="18" isdata="1">רב אידי בר אבין משום דאיכא למימר כלאי</row>
+		<row row_number="19" isdata="1">זרעים יוכיחו שאסור פרי עם פרי ומותר פרי</row>
+		<row row_number="20" isdata="1">עם האם כלום נאסר פרי עם פרי אלא ע"י</row>
+		<row row_number="21" isdata="1">האם דהא חיטי ושערי בכדא ולא מיתסרו</row>
+		<row row_number="22" isdata="1">אלא אמר רב אשי משום דאיכא למימר מה</row>
+		<row row_number="23" isdata="1">לפרי עם פרי שכן שני גופים תאמר בפרי</row>
+		<row row_number="24" isdata="1">עם האם שכן גוף אחד משום הכי איצטריך</row>
+		<row row_number="25" isdata="1">קרא אמר רב אשי מנין לבשר בחלב שאסור</row>
+		<row row_number="26" isdata="1">באכילה שנאמר לא תאכל כל תועבה</row>
+		<row row_number="27" isdata="1">כל שתעבתי לך הרי הוא בבל תאכל</row>
+		<row row_number="28" isdata="1">ואין לי אלא באכילה בהנאה מנין כדרבי</row>
+		<row row_number="29" isdata="1">אבהו דאמר ר' אבהו א"ר אלעזר כל מקום</row>
+		<row row_number="30" isdata="1">שנאמר לא יאכל לא תאכל לא תאכלו</row>
+		<row row_number="31" isdata="1">אחד איסור אכילה ואחד איסור הנאה</row>
+		<row row_number="32" isdata="1">במשמע עד שיפרוט לך הכתוב כדרך</row>
+		<row row_number="33" isdata="1">שפרט לך בנבלה לגר בנתינה ולעובד</row>
+		<row row_number="34" isdata="1">כוכבים במכירה דתניא לא תאכלו כל</row>
+		<row row_number="35" isdata="1">נבלה לגר אשר בשעריך תתננה ואכלה</row>
+		<row row_number="36" isdata="1">או מכור לנכרי אין לי אלא לגר בנתינה</row>
+		<row row_number="37" isdata="1">ולעובד כוכבים במכירה לגר במכירה מנין</row>
+		<row row_number="38" isdata="1">ת"ל לגר תתננה או מכור לעובד כוכבים</row>
+		<row row_number="39" isdata="1">בנתינה מנין ת"ל תתננה או מכור לנכרי</row>
+		<row row_number="40" isdata="1">נמצא אחד גר ואחד עובד כוכבים בין</row>
+		<row row_number="41" isdata="1">במכירה בין בנתינה דברי ר"מ רבי יהודה</row>
+		<row row_number="42" isdata="1">אומר דברים ככתבן לגר בנתינה ולעובד</row>
+		<row row_number="43" isdata="1">כוכבים במכירה מ"ט דרבי יהודה אי ס"ד</row>
+		<row row_number="44" isdata="1">כדקאמר ר"מ לכתוב רחמנא לא תאכלו</row>
+		<row row_number="45" isdata="1">כל נבלה לגר אשר בשעריך תתננה ואכלה</row>
+		<row row_number="46" isdata="1">ומכור או למה לי ש"מ לדברים ככתבן</row>
+		<row row_number="47" isdata="1">הוא דאתא לגר בנתינה ולעובד כוכבים</row>
+		<row row_number="48" isdata="1">במכירה ור"מ אמר לך האי או להקדים</row>
+		<row row_number="49" isdata="1">נתינה דגר למכירה דעובד כוכבים ורבי</row>
+		<row row_number="50" isdata="1">יהודה להקדים נתינה דגר למכירה דעובד</row>
+		<row row_number="51" isdata="1">כוכבים לא צריך קרא סברא הוא זה אתה</row>
+		<row row_number="52" isdata="1">מצווה להחיותו וזה אי אתה מצווה</row>
+		<row row_number="53" isdata="1">להחיותו: (סימן שבת חורש וכלאי זרעים</row>
+		<row row_number="54" isdata="1">אותו ואת בנו ושילוח הקן): אלא מעתה</row>
+</amud>
+</daf>
+</masechet>
+</root>

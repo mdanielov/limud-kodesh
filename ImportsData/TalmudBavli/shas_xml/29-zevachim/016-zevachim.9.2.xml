@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:54.805416</dateCreated>
+   <lastModified>2020-01-14 15:03:54.805416</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="9">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים"/><ContGemara/>חד לעיברה זמנו ועיברה שנתו וחד לעיברה</row>
+		<row row_number="2" isdata="1">זמנו ולא שנתו וחד ללא עיברה לא זמנו ולא</row>
+		<row row_number="3" isdata="1">שנתו וצריכי דאי כתב רחמנא חד הוה</row>
+		<row row_number="4" isdata="1">אמינא היכא דעיברה שנתו וזמנו דאידחי</row>
+		<row row_number="5" isdata="1">מפסח לגמרי אבל עיברה זמנו ולא שנתו</row>
+		<row row_number="6" isdata="1">דחזי לפסח שני אימא לא ואי כתב רחמנא</row>
+		<row row_number="7" isdata="1">הני תרתי משום דאידחי להו ממילתייהו אבל</row>
+		<row row_number="8" isdata="1">היכא דלא עבר לא זמנו ולא שנתו דחזי לפסח</row>
+		<row row_number="9" isdata="1">אימא לא צריכי: אמר רב משמיה דמבוג</row>
+		<row row_number="10" isdata="1">חטאת ששחטה לשום חטאת נחשון כשירה</row>
+		<row row_number="11" isdata="1">דאמר קרא זאת תורת החטאת תורה אחת</row>
+		<row row_number="12" isdata="1">לכל החטאות יתיב רבא וקאמר לה להא</row>
+		<row row_number="13" isdata="1">שמעתא איתיביה רב משרשיא לרבא רבי</row>
+		<row row_number="14" isdata="1">שמעון אומר כל המנחות שנקמצו שלא</row>
+		<row row_number="15" isdata="1">לשמן כשירות ועלו לבעלים לשום חובה לפי</row>
+		<row row_number="16" isdata="1">שאין המנחות דומות לזבחים שהקומץ מחבת</row>
+		<row row_number="17" isdata="1">לשם מרחשת מעשיה מוכיחין עליה שהיא</row>
+		<row row_number="18" isdata="1">מחבת חריבה לשם בלולה מעשיה מוכיחין</row>
+		<row row_number="19" isdata="1">שהיא חריבה אבל בזבחים אינו כן שחיטה</row>
+		<row row_number="20" isdata="1">אחת לכולן קבלה אחת לכולן זריקה אחת</row>
+		<row row_number="21" isdata="1">לכולן טעמא דמעשיה מוכיחין הא אין מעשיה</row>
+		<row row_number="22" isdata="1">מוכיחין לא אמאי לימא זאת תורת המנחה</row>
+		<row row_number="23" isdata="1">תורה אחת לכל המנחות אלא אי איתמר</row>
+		<row row_number="24" isdata="1">הכי איתמר אמר רב משמיה דמבוג חטאת</row>
+		<row row_number="25" isdata="1">ששחטה על מנת שיתכפר בה נחשון כשירה</row>
+		<row row_number="26" isdata="1">אין כפרה למתים ולימא מת בעלמא הא</row>
+		<row row_number="27" isdata="1">קמ"ל טעמא דמת הא דחי דומיא דנחשון</row>
+		<row row_number="28" isdata="1">פסולה ומאי ניהו חטאת נזיר וחטאת מצורע</row>
+		<row row_number="29" isdata="1">הני עולות נינהו אלא אי איתמר הכי איתמר</row>
+		<row row_number="30" isdata="1">אמר רב משמיה דמבוג חטאת ששחטה על</row>
+		<row row_number="31" isdata="1">שמחוייב חטאת כנחשון כשירה חטאת</row>
+		<row row_number="32" isdata="1">נחשון עולה היא איכא דאמר אמר רב</row>
+		<row row_number="33" isdata="1">משמיה דמבוג חטאת ששחטה לשם חטאת</row>
+		<row row_number="34" isdata="1">נחשון פסולה חטאת נחשון עולה היא</row>
+		<row row_number="35" isdata="1">ולימא חטאת נזיר וחטאת מצורע עיקר חטאת</row>
+		<row row_number="36" isdata="1">נקט אמר רב חטאת חלב ששחטה</row>
+		<row row_number="37" isdata="1">לשם חטאת דם לשם חטאת עבודת כוכבים</row>
+		<row row_number="38" isdata="1">כשירה לשם חטאת נזיר לשם חטאת מצורע</row>
+		<row row_number="39" isdata="1">פסולה הני עולות נינהו בעי רבא חטאת חלב</row>
+		<row row_number="40" isdata="1">ששחטה לשם חטאת דטומאת מקדש וקדשיו</row>
+		<row row_number="41" isdata="1">מהו מי אמרינן כרת כמותה או דילמא אין</row>
+		<row row_number="42" isdata="1">קבוע כמותה רב אחא בריה דרבא מתני</row>
+		<row row_number="43" isdata="1">כולהו לפסולא מ"ט ושחט אותה לחטאת לשם אותה חטאת א"ל רב אשי</row>
+		<row row_number="44" isdata="1">לרב אחא בריה דרבא [בעיא דרבא] היכי מתניתו לה אמר ליה אנן בשינוי</row>
+		<row row_number="45" isdata="1">בעלים מתנינן לה [והכי מתנינן לה] אמר רבא חטאת חלב ששחטה על</row>
+		<row row_number="46" isdata="1">מי שמחוייב חטאת דם וחטאת עבודת כוכבים פסולה על מי שמחוייב חטאת</row>
+		<row row_number="47" isdata="1">נזיר וחטאת מצורע כשירה ובעיין לה הכי בעי רבא חטאת חלב ששחטה על</row>
+		<row row_number="48" isdata="1">מי שמחוייב חטאת דטומאת מקדש וקדשיו מהו מי אמרי' כרת כמותה או</row>
+		<row row_number="49" isdata="1">דילמא אין קבוע כמותה תיקו: איתמר שחטה לשמה לזרוק דמה שלא</row>
+		<row row_number="50" isdata="1">לשמה רבי יוחנן אמר פסולה וריש לקיש אמר כשירה ר' יוחנן אמר פסולה</row>
+		<row row_number="51" isdata="1">מחשבין מעבודה לעבודה וילפינן ממחשבת פיגול ור"ל אמר כשירה אין</row>
+		<row row_number="52" isdata="1">מחשבין מעבודה לעבודה ולא ילפינן ממחשבת פיגול ואזדו לטעמייהו דאיתמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

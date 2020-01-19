@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:49.915345</dateCreated>
+   <lastModified>2020-01-14 15:02:49.915345</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="37">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "החולץ"/><ContGemara/>באורתא אמר רבא הכי ובצפרא הדר ביה</row>
+		<row row_number="2" isdata="1">א"ל שריתו יהא רעוא דתשתרו אף תרבא</row>
+		<row row_number="3" isdata="1">הכא גבי מעוברת חבירו ומינקת חבירו</row>
+		<row row_number="4" isdata="1">הנשואה לכהן מאי מי עבוד רבנן תקנתא</row>
+		<row row_number="5" isdata="1">לכהן או לא אמר ליה הכי השתא בשלמא</row>
+		<row row_number="6" isdata="1">התם כיון דאיכא רבנן דפליגי עליה דרשב"ג</row>
+		<row row_number="7" isdata="1">דאמרי אע"ג דלא שהא ולד מעליא הוי גבי</row>
+		<row row_number="8" isdata="1">אשת כהן כיון דלא אפשר עבדינן כרבנן</row>
+		<row row_number="9" isdata="1">אבל הכא כמאן נעביד אי כר' מאיר הא אמר</row>
+		<row row_number="10" isdata="1">יוציא ולא יחזיר עולמית ואי כרבנן האמרי</row>
+		<row row_number="11" isdata="1">בגט איתמר קדשה בתוך שלשה וברח</row>
+		<row row_number="12" isdata="1">פליגי בה רב אחא ורפרם חד אמר משמתינן</row>
+		<row row_number="13" isdata="1">ליה וחד אמר עירוקיה מסתייה הוה עובדא</row>
+		<row row_number="14" isdata="1">ואמר להו רפרם עירוקיה מסתייה: ספק</row>
+		<row row_number="15" isdata="1">בן תשע וכו': אמר ליה רבא לרב נחמן</row>
+		<row row_number="16" isdata="1">לימא הלך אחר רוב נשים ורוב נשים לתשעה</row>
+		<row row_number="17" isdata="1">ילדן אמר ליה נשי דידן לשבעה ילדן א"ל</row>
+		<row row_number="18" isdata="1">נשי דידכו הוו רובא דעלמא א"ל הכי</row>
+		<row row_number="19" isdata="1">קאמינא רוב נשים ילדן לתשעה ומיעוט</row>
+		<row row_number="20" isdata="1">לשבעה וכל היולדת לתשעה עוברה ניכר</row>
+		<row row_number="21" isdata="1">לשליש ימיה וזו הואיל ולא הוכר עוברה</row>
+		<row row_number="22" isdata="1">לשליש ימיה איתרע ליה רובא אי כל היולדת</row>
+		<row row_number="23" isdata="1">לתשעה עוברה ניכר לשליש ימיה הא מדלא</row>
+		<row row_number="24" isdata="1">הוכר לשליש ימיה עוברה ודאי בר שבעה</row>
+		<row row_number="25" isdata="1">לבתראה הוא אלא אימא רוב היולדת</row>
+		<row row_number="26" isdata="1">לתשעה עוברה ניכר לשליש ימיה והאי</row>
+		<row row_number="27" isdata="1">מדלא הוכר לשליש ימיה איתרע ליה רובא</row>
+		<row row_number="28" isdata="1">ת"ר ראשון ראוי להיות כהן גדול ושני ממזר</row>
+		<row row_number="29" isdata="1">מספק רבי אליעזר בן יעקב אומר אין ממזר</row>
+		<row row_number="30" isdata="1">מספק מאי קאמר אמר אביי הכי קאמר</row>
+		<row row_number="31" isdata="1">ראשון ראוי להיות כהן גדול ושני ספק ממזר</row>
+		<row row_number="32" isdata="1">ואסור בממזרת ר' אליעזר אומר אינו ספק</row>
+		<row row_number="33" isdata="1">ממזר אלא ודאי ממזר ומותר בממזרת רבא</row>
+		<row row_number="34" isdata="1">אמר הכי קאמר ראשון ראוי להיות כהן גדול</row>
+		<row row_number="35" isdata="1">ושני ממזר ודאי מספק ומותר בממזרת ורבי</row>
+		<row row_number="36" isdata="1">אליעזר בן יעקב אומר אין ודאי ממזר מספק</row>
+		<row row_number="37" isdata="1">אלא ספק ממזר ואסור בממזרת וקמיפלגי</row>
+		<row row_number="38" isdata="1">בדרבי אלעזר דתנן רבי אלעזר אומר ודאן</row>
+		<row row_number="39" isdata="1">בודאן מותר ודאן בספקן וספקן בודאן וספקן</row>
+		<row row_number="40" isdata="1">בספקן אסור ואלו הן ספקן שתוקי ואסופי</row>
+		<row row_number="41" isdata="1">וכותי ואמר רב יהודה אמר רב הלכה כר'</row>
+		<row row_number="42" isdata="1">אלעזר כי אמריתה קמיה דשמואל אמר לי</row>
+		<row row_number="43" isdata="1">הלל שנה עשרה יוחסין עלו מבבל כהני לויי</row>
+		<row row_number="44" isdata="1">וישראלי חללי גירי חרורי ממזרי נתיני שתוקי</row>
+		<row row_number="45" isdata="1">ואסופי וכולן מותרין לבא זה בזה ואת אמרת</row>
+		<row row_number="46" isdata="1">הלכה כרבי אלעזר אביי סבר לה כשמואל</row>
+		<row row_number="47" isdata="1">דאמר הלכה כהלל ומוקי לה רבי אליעזר בן</row>
+		<row row_number="48" isdata="1">יעקב אליבא דהלכתא כי היכי דלא תקשי</row>
+		<row row_number="49" isdata="1">הלכתא אהלכתא רבא סבר לה כרב דאמר</row>
+		<row row_number="50" isdata="1">הלכה כר' אלעזר ומוקי לה לדרבי אליעזר בן</row>
+		<row row_number="51" isdata="1">יעקב אליבא דהלכתא כי היכי דלא תקשי</row>
+</amud>
+</daf>
+</masechet>
+</root>

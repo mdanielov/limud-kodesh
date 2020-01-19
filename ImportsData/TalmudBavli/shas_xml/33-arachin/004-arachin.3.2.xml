@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:23.230635</dateCreated>
+   <lastModified>2020-01-14 15:04:23.230635</lastModified>
+ </meta>
+ <masechet name="ערכין" serial="33">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל מעריכין"/><ContGemara/>לאתויי עבדים ולמאן דתני עבדים בהדיא</row>
+		<row row_number="2" isdata="1">לאתויי מאי לאתויי מנוה היפה לנוה הרעה</row>
+		<row row_number="3" isdata="1">ואין הכל מוציאין לאתויי עבד שברח מח"ל</row>
+		<row row_number="4" isdata="1">לארץ: הכל מעלין לירושלים לאתויי</row>
+		<row row_number="5" isdata="1">מנוה היפה לנוה הרעה ואין הכל מוציאין</row>
+		<row row_number="6" isdata="1">לאתויי מאי לאתויי מנוה הרעה לנוה היפה:</row>
+		<row row_number="7" isdata="1">הכל חייבין בסוכה כהנים לוים וישראלים</row>
+		<row row_number="8" isdata="1">פשיטא אי הני לא מחייבי מאן מיחייבי כהנים</row>
+		<row row_number="9" isdata="1">איצטריכא ליה סד"א הואיל וכתיב בסוכות</row>
+		<row row_number="10" isdata="1">תשבו ואמר מר תשבו שבעת ימים כעין</row>
+		<row row_number="11" isdata="1">תדורו מה דירה איש ואשתו אף סוכה איש</row>
+		<row row_number="12" isdata="1">ואשתו והני כהנים הואיל ובני עבודה נינהו</row>
+		<row row_number="13" isdata="1">לא ליחייבו קא משמע לן נהי דפטירי בשעת</row>
+		<row row_number="14" isdata="1">עבודה בלא שעת עבודה חיובי מיחייבי</row>
+		<row row_number="15" isdata="1">מידי דהוה אהולכי דרכים דאמר מר הולכי</row>
+		<row row_number="16" isdata="1">דרכים ביום פטורין מן הסוכה ביום וחייבים</row>
+		<row row_number="17" isdata="1">בלילה: הכל חייבין בציצית כהנים לוים</row>
+		<row row_number="18" isdata="1">וישראלים פשיטא כהנים איצטריך לי' סד"א</row>
+		<row row_number="19" isdata="1">הואיל וכתיב לא תלבש שעטנז גדילים</row>
+		<row row_number="20" isdata="1">תעשה לך מאן דלא אישתרי כלאים לגביה</row>
+		<row row_number="21" isdata="1">בלבישה הוא דמחייב במצות ציצית והני</row>
+		<row row_number="22" isdata="1">כהנים הואיל ואשתרי כלאים לגבייהו לא</row>
+		<row row_number="23" isdata="1">לחייבו קמ"ל נהי דאישתרי בעידן עבודה</row>
+		<row row_number="24" isdata="1">בלא עידן עבודה לא אישתרי: הכל חייבין</row>
+		<row row_number="25" isdata="1">בתפילין כהנים לוים וישראלים פשיטא</row>
+		<row row_number="26" isdata="1">כהנים איצטריך ליה סד"א הואיל וכתיב</row>
+		<row row_number="27" isdata="1">וקשרתם לאות על ידך והיו לטוטפות בין</row>
+		<row row_number="28" isdata="1">עינך כל דאיתיה במצוה דיד איתיה במצוה</row>
+		<row row_number="29" isdata="1">דראש והני כהנים הואיל וליתנהו במצוה</row>
+		<row row_number="30" isdata="1">דיד דכתיב ילבש על בשרו שלא יהא דבר</row>
+		<row row_number="31" isdata="1">חוצץ בינו ובין בשרו אימא במצוה דראש נמי</row>
+		<row row_number="32" isdata="1">לא ליחייבו קמ"ל דלא מעכבי אהדדי כדתנן</row>
+		<row row_number="33" isdata="1">תפלה של יד אינה מעכבת של ראש ושל</row>
+		<row row_number="34" isdata="1">ראש אינה מעכבת של יד ומאי שנא דיד</row>
+		<row row_number="35" isdata="1">דכתיב ילבש על בשרו ראש נמי כתיב ושמת</row>
+		<row row_number="36" isdata="1">המצנפת על ראשו תנא שערו היה נראה</row>
+		<row row_number="37" isdata="1">בין ציץ למצנפת ששם מניח תפילין הכל חייבין בתקיעת שופר כהנים לוים</row>
+		<row row_number="38" isdata="1">וישראלים פשיטא כהנים איצטריכא ליה סד"א הואיל וכתיב יום תרועה</row>
+		<row row_number="39" isdata="1">יהיה לכם מאן דליתיה אלא בתקיעה דחד יומא חייב והני כהנים הואיל</row>
+		<row row_number="40" isdata="1">ואיתנהו בתקיעה כוליה שתא דכתיב ותקעתם בחצוצרות על עולותיכם אימא</row>
+		<row row_number="41" isdata="1">לא ליחייבו מי דמי התם חצוצרות הכא שופר איצטריך סלקא דעתך</row>
+		<row row_number="42" isdata="1">אמינא הואיל ותנן שוה היובל לראש השנה לתקיעה ולברכות דאיתיה</row>
+		<row row_number="43" isdata="1">במצות יובל איתיה במצות ראש השנה דליתיה במצות יובל ליתיה במצות</row>
+		<row row_number="44" isdata="1">ר"ה והני כהני הואיל וליתנהו במצות דיובל דתנן כהנים ולוים מוכרין לעולם</row>
+</amud>
+</daf>
+</masechet>
+</root>

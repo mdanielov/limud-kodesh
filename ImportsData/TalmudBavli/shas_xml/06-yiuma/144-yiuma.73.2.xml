@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:37.518521</dateCreated>
+   <lastModified>2020-01-14 15:02:37.518521</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="73">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בא לו כהן גדול"/><ContGemara/>שלא כסדר והחזירו לו כסדר וכיון שידע</row>
+		<row row_number="2" isdata="1">ששאל שלא כסדר חזר ושאל כסדר שנאמר</row>
+		<row row_number="3" isdata="1">היסגירו בעלי קעילה אותי ואת אנשי ביד</row>
+		<row row_number="4" isdata="1">שאול ויאמר ה' יסגירו ואם הוצרך הדבר</row>
+		<row row_number="5" isdata="1">לשנים מחזירין לו שנים שנאמר וישאל דוד</row>
+		<row row_number="6" isdata="1">בה' לאמר הארדוף אחרי הגדוד הזה האשיגנו</row>
+		<row row_number="7" isdata="1">ויאמר (ה') לו רדוף כי השג תשיג והצל תציל ואף על פי שגזירת נביא</row>
+		<row row_number="8" isdata="1">חוזרת גזירת אורים ותומים אינה חוזרת שנאמר במשפט האורים למה</row>
+		<row row_number="9" isdata="1">נקרא שמן אורים ותומים אורים שמאירין את דבריהן תומים שמשלימין את</row>
+		<row row_number="10" isdata="1">דבריהן וא"ת בגבעת בנימין מפני מה לא השלימו הם שלא ביחנו אם</row>
+		<row row_number="11" isdata="1">לנצח אם להנצח ובאחרונה שביחנו הסכימו שנאמר ופנחס בן אלעזר בן</row>
+		<row row_number="12" isdata="1">אהרן עומד לפניו בימים ההם לאמר האוסיף עוד לצאת למלחמה עם בני</row>
+		<row row_number="13" isdata="1">בנימין אחי אם אחדל ויאמר ה' עלו כי מחר אתננו בידך כיצד נעשית רבי</row>
+		<row row_number="14" isdata="1">יוחנן אומר בולטות ריש לקיש אומר מצטרפות והא לא כתיב בהו צד"י</row>
+		<row row_number="15" isdata="1">אמר רב שמואל בר יצחק אברהם יצחק ויעקב כתיב שם והא לא כתיב טי"ת</row>
+		<row row_number="16" isdata="1">אמר רב אחא בר יעקב שבטי ישורון כתיב שם מיתיבי כל כהן שאינו</row>
+		<row row_number="17" isdata="1">מדבר ברוח הקודש ושכינה שורה עליו אין שואלין בו שהרי שאל צדוק</row>
+		<row row_number="18" isdata="1">ועלתה לו אביתר ולא עלתה לו שנאמר ויעל אביתר עד תום כל</row>
+		<row row_number="19" isdata="1">העם וגו' סיועי הוה מסייע בהדייהו: ואין שואלין אלא למלך: מנא הני</row>
+		<row row_number="20" isdata="1">מילי אמר רבי אבהו דאמר קרא ולפני אלעזר הכהן יעמד ושאל לו</row>
+		<row row_number="21" isdata="1">במשפט האורים וגו' הוא זה מלך וכל [בני] ישראל אתו זה משוח</row>
+		<row row_number="22" isdata="1">מלחמה וכל העדה זו סנהדרין:<EndChapter name = "בא לו כהן גדול"/><EndGemara/></row>
+		<row row_number="23" isdata="0">הדרן עלך בא לו כהן גדול</row>
+		<row row_number="24" isdata="1"><StartChapter name = "יום הכפורים"/><StartMishna/>יום הכפורים אסור באכילה ובשתיה וברחיצה ובסיכה ובנעילת הסנדל</row>
+		<row row_number="25" isdata="1">ובתשמיש המטה והמלך והכלה ירחצו את פניהם והחיה תנעול</row>
+		<row row_number="26" isdata="1">את הסנדל דברי רבי אליעזר וחכמים אוסרין האוכל ככותבת הגסה כמוה</row>
+		<row row_number="27" isdata="1">וכגרעינתה והשותה מלא לוגמיו חייב כל האוכלים מצטרפין לככותבת</row>
+		<row row_number="28" isdata="1">וכל המשקין מצטרפין למלא לוגמיו האוכל ושותה אין מצטרפין:<EndMishna/><StartGemara/>גמ' אסור</row>
+		<row row_number="29" isdata="1">ענוש כרת הוא אמר רבי אילא ואיתימא רבי ירמיה לא נצרכה אלא</row>
+		<row row_number="30" isdata="1">לחצי שיעור הניחא למאן דאמר חצי שיעור אסור מן התורה אלא למאן</row>
+		<row row_number="31" isdata="1">דאמר חצי שיעור מותר מן התורה מאי איכא למימר דאיתמר חצי שיעור</row>
+		<row row_number="32" isdata="1">רבי יוחנן אמר אסור מן התורה ריש לקיש אמר מותר מן התורה</row>
+		<row row_number="33" isdata="1">הניחא לרבי יוחנן אלא לריש לקיש מאי איכא למימר מודה ריש</row>
+		<row row_number="34" isdata="1">לקיש שאסור מדרבנן אי הכי לא ניחייב עליה קרבן שבועה אלמא תנן</row>
+		<row row_number="35" isdata="1">שבועה שלא אוכל ואכל נבילות וטריפות שקצים ורמשים חייב ורבי שמעון</row>
+		<row row_number="36" isdata="1">פוטר והוינן בה אמאי חייב מושבע ועומד מהר סיני הוא רב ושמואל</row>
+		<row row_number="37" isdata="1">ורבי יוחנן דאמרי בכולל דברים המותרים עם דברים האסורין וריש לקיש</row>
+		<row row_number="38" isdata="1">אמר אי אתה מוצא אלא במפרש חצי שיעור ואליבא דרבנן או בסתם</row>
+</amud>
+</daf>
+</masechet>
+</root>

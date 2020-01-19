@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:41.638367</dateCreated>
+   <lastModified>2020-01-14 15:02:41.638367</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="11">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ביצה"/><ContGemara/>התם לא מוכחא מלתא משום דחזי למזגא</row>
+		<row row_number="2" isdata="1">עליה הכא אתי למימר מ"ט שרו לי רבנן כי</row>
+		<row row_number="3" isdata="1">היכי דלא לסרח מה לי למשטחינהו מה לי</row>
+		<row row_number="4" isdata="1">לממלחינהו אמר רב יהודה אמר שמואל</row>
+		<row row_number="5" isdata="1">מולח אדם כמה חתיכות בשר בבת אחת</row>
+		<row row_number="6" isdata="1">אע"פ שאינו צריך אלא לחתיכה אחת רב</row>
+		<row row_number="7" isdata="1">אדא בר אהבה מערים ומלח גרמא גרמא:</row>
+		<row row_number="8" isdata="1"><EndGemara/><StartMishna/>מתני' ב"ש אומרים אין מסלקין את</row>
+		<row row_number="9" isdata="1">התריסין ביום טוב וב"ה מתירין אף להחזיר:</row>
+		<row row_number="10" isdata="1"><EndMishna/><StartGemara/>גמ' מאי תריסין אמר עולא תריסי חנויות</row>
+		<row row_number="11" isdata="1">ואמר עולא שלשה דברים התירו סופן משום</row>
+		<row row_number="12" isdata="1">תחלתן ואלו הן עור לפני הדורסן ותריסי</row>
+		<row row_number="13" isdata="1">חנויות וחזרת רטיה במקדש ורחבא אמר רבי</row>
+		<row row_number="14" isdata="1">יהודה אף הפותח חביתו ומתחיל בעיסתו</row>
+		<row row_number="15" isdata="1">על גב הרגל ואליבא דרבי יהודה דאמר</row>
+		<row row_number="16" isdata="1">יגמור עור לפני הדורסן תנינא מהו דתימא</row>
+		<row row_number="17" isdata="1">טעמייהו דב"ה משום דחזי למזגא עלייהו</row>
+		<row row_number="18" isdata="1">ואפילו מערב יום טוב נמי קמ"ל התירו</row>
+		<row row_number="19" isdata="1">סופן משום תחלתן דיום טוב אין דערב י"ט</row>
+		<row row_number="20" isdata="1">לא תריסי חנויות נמי תנינא [וב"ה מתירין</row>
+		<row row_number="21" isdata="1">אף להחזיר] מהו דתימא טעמייהו דב"ה</row>
+		<row row_number="22" isdata="1">משום דאין בנין בכלים ואין סתירה בכלים</row>
+		<row row_number="23" isdata="1">ואפילו דבתים נמי קמ"ל התירו סופן משום</row>
+		<row row_number="24" isdata="1">תחלתן דחנויות אין דבתים לא חזרת רטיה במקדש נמי תנינא מחזירין</row>
+		<row row_number="25" isdata="1">רטיה במקדש אבל לא במדינה מהו דתימא טעמא מאי משום דאין שבות</row>
+		<row row_number="26" isdata="1">במקדש אפילו כהן דלאו בר עבודה הוא קמ"ל התירו סופן משום תחלתן</row>
+		<row row_number="27" isdata="1">דבר עבודה אין דלאו בר עבודה לא פותח את חביתו נמי תנינא הפותח</row>
+		<row row_number="28" isdata="1">את חביתו ומתחיל בעיסתו על גב הרגל ר' יהודה אומר יגמור וחכמים אומרים</row>
+		<row row_number="29" isdata="1">לא יגמור מהו דתימא טומאת עם הארץ ברגל כטהרה שויוה רבנן ואע"ג</row>
+		<row row_number="30" isdata="1">דלא התחיל נמי קמ"ל התירו סופן משום תחלתן התחיל אין לא התחיל לא</row>
+		<row row_number="31" isdata="1">ועולא מאי טעמא לא אמר הא בפלוגתא לא קא מיירי הנך נמי פלוגתא</row>
+		<row row_number="32" isdata="1">נינהו בית שמאי במקום בית הלל אינה משנה מתניתין דלא כי האי</row>
+		<row row_number="33" isdata="1">תנא דתניא אמר רבי שמעון בן אלעזר מודים בית שמאי ובית הלל</row>
+		<row row_number="34" isdata="1">שמסלקין את התריסין ביום טוב לא נחלקו אלא להחזיר שבית שמאי אומרים</row>
+		<row row_number="35" isdata="1">אין מחזירין ובית הלל אומרים אף מחזירין במה דברים אמורים בשיש להן</row>
+		<row row_number="36" isdata="1">ציר אבל אין להן ציר דברי הכל מותר והתניא בד"א בשאין להן ציר אבל</row>
+		<row row_number="37" isdata="1">יש להן ציר דברי הכל אסור אמר אביי בשיש להן ציר מן הצד דברי הכל</row>
+		<row row_number="38" isdata="1">אסור אין להן ציר כל עיקר דברי הכל מותר כי פליגי בשיש להן ציר באמצע</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:34.414706</dateCreated>
+   <lastModified>2020-01-14 15:03:34.414706</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="103">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בית כור"/><ContGemara/>אין נמדדין עמה פחות מכאן נמדדין עמה</row>
+		<row row_number="2" isdata="1">ואמאי לקדשו באנפי נפשייהו וכי תימא כיון</row>
+		<row row_number="3" isdata="1">דלא הוי בית כור לא קדשי והא תניא שדה</row>
+		<row row_number="4" isdata="1">מה ת"ל לפי שנאמר זרע חומר שעורים</row>
+		<row row_number="5" isdata="1">בחמשים שקל כסף אין לי אלא שהקדיש</row>
+		<row row_number="6" isdata="1">בענין הזה מנין לרבות לתך וחצי לתך סאה</row>
+		<row row_number="7" isdata="1">תרקב וחצי תרקב ת"ל שדה מכל מקום אמר</row>
+		<row row_number="8" isdata="1">רב עוקבא בר חמא הכא בנקעים מלאים מים</row>
+		<row row_number="9" isdata="1">עסקינן דלאו בני זריעה נינהו דיקא נמי דקתני</row>
+		<row row_number="10" isdata="1">דומיא דסלעים שמע מינה אי הכי אפי' פחות</row>
+		<row row_number="11" isdata="1">מכאן נמי הנהו נגאני דארעא מיקרו שדרי</row>
+		<row row_number="12" isdata="1">דארעא מיקרו הכא מאי אמר רב פפא אע"פ</row>
+		<row row_number="13" isdata="1">שאין מלאים מים מאי טעמא אין אדם רוצה</row>
+		<row row_number="14" isdata="1">שיתן מעותיו במקום אחד ויראו לו כשנים</row>
+		<row row_number="15" isdata="1">ושלשה מקומות מתקיף לה רבינא והא דומיא</row>
+		<row row_number="16" isdata="1">דסלעים קתני מה סלעים דלאו בני זריעה נינהו</row>
+		<row row_number="17" isdata="1">אף הני נמי דלאו בני זריעה נינהו כי קתני</row>
+		<row row_number="18" isdata="1">דומיא דסלעים אפחות מכאן: (פחות מכאן</row>
+		<row row_number="19" isdata="1">נמדדין עמה): אמר ר' יצחק טרשים שאמרו</row>
+		<row row_number="20" isdata="1">בית ארבעת קבין אמר רב עוקבא בר חמא</row>
+		<row row_number="21" isdata="1">והוא שמובלעין בחמשת קבין רב חייא בר</row>
+		<row row_number="22" isdata="1">אבא אמר רבי יוחנן והוא שמובלעין ברובה</row>
+		<row row_number="23" isdata="1">של שדה בעי רב חייא בר אבא רובן במעוטה</row>
+		<row row_number="24" isdata="1">ומעוטן ברובה מהו תיקו בעי רבי ירמיה</row>
+</amud>
+</daf>
+</masechet>
+</root>

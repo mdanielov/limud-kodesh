@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:46.410774</dateCreated>
+   <lastModified>2020-01-14 15:03:46.410774</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "שבועות שתים"/><StartMishna/><ContChapter name = "שבועות שתים"/><ContMishna/>שבועות</row>
+		<row row_number="2" isdata="1">שתים שהן ארבע ידיעות הטומאה שתים</row>
+		<row row_number="3" isdata="1">שהן ארבע יציאות השבת שתים שהן ארבע</row>
+		<row row_number="4" isdata="1">מראות נגעים שנים שהן ארבעה את שיש</row>
+		<row row_number="5" isdata="1">בה ידיעה בתחלה וידיעה בסוף והעלם</row>
+		<row row_number="6" isdata="1">בינתים הרי זה בעולה ויורד יש בה</row>
+		<row row_number="7" isdata="1">ידיעה בתחלה ואין בה ידיעה בסוף שעיר</row>
+		<row row_number="8" isdata="1">הנעשה בפנים ויום הכפורים תולה עד</row>
+		<row row_number="9" isdata="1">שיודע לו ויביא בעולה ויורד אין בה</row>
+		<row row_number="10" isdata="1">ידיעה בתחלה אבל יש בה ידיעה בסוף</row>
+		<row row_number="11" isdata="1">שעיר הנעשה בחוץ ויום הכפורים מכפר</row>
+		<row row_number="12" isdata="1">שנאמר מלבד חטאת הכפורים על מה</row>
+		<row row_number="13" isdata="1">שזה מכפר זה מכפר מה הפנימי אין</row>
+		<row row_number="14" isdata="1">מכפר אלא על דבר שיש בה ידיעה אף</row>
+		<row row_number="15" isdata="1">החיצון אין מכפר אלא על דבר שיש בה</row>
+		<row row_number="16" isdata="1">ידיעה ועל שאין בה ידיעה לא בתחלה</row>
+		<row row_number="17" isdata="1">ולא בסוף שעירי הרגלים ושעירי ראשי</row>
+		<row row_number="18" isdata="1">חדשים מכפרין דברי ר' יהודה ר"ש אומר</row>
+		<row row_number="19" isdata="1">שעירי הרגלים מכפרין אבל לא שעירי ראשי</row>
+		<row row_number="20" isdata="1">חדשים ועל מה שעירי ראשי חדשים מכפרין</row>
+</amud>
+</daf>
+</masechet>
+</root>

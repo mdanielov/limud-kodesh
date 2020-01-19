@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.808489</dateCreated>
+   <lastModified>2020-01-14 15:03:00.808489</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="21">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה נדרים"/><ContMishna/>שניהם רוצין בשלשה דינרין:גמ' ארבעהשניהם רוצין בשלשה דינרין:<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">נדרים התירו חכמים כו' אמר ליה רבי אבא</row>
+		<row row_number="3" isdata="1">בר ממל לרבי אמי אמרת לן משמיה דרבי</row>
+		<row row_number="4" isdata="1">יהודה נשיאה מאן תנא ארבעה נדרים ר'</row>
+		<row row_number="5" isdata="1">יהודה היא דאמר משום רבי טרפון לעולם</row>
+		<row row_number="6" isdata="1">אין אחד מהן נזיר לפי שלא ניתנה נזירות</row>
+		<row row_number="7" isdata="1">אלא להפלאה רבא אמר אפילו תימא</row>
+		<row row_number="8" isdata="1">רבנן מי קתני שניהן רצו שניהן רוצין קתני</row>
+		<row row_number="9" isdata="1">אמר ליה רבינא לרב אשי אמר לו טפי</row>
+		<row row_number="10" isdata="1">מסלע והלה אמר בציר משקל נדרא הוי או</row>
+		<row row_number="11" isdata="1">זרוזין הוי אמר ליה תנינא היה מסרב</row>
+		<row row_number="12" isdata="1">בחבירו שיאכל אצלו ואמר לו קונם ביתך</row>
+		<row row_number="13" isdata="1">שאני נכנס טיפת צונן שאני טועם מותר</row>
+		<row row_number="14" isdata="1">ליכנס לביתו ולשתות הימנו צונן שלא</row>
+		<row row_number="15" isdata="1">נתכוון זה אלא לשום אכילה ושתיה ואמאי</row>
+		<row row_number="16" isdata="1">והא טיפת צונן קאמר אלא משתעי איניש</row>
+		<row row_number="17" isdata="1">הכי הכא נמי משתעי איניש הכי אמר ליה</row>
+</amud>
+</daf>
+</masechet>
+</root>

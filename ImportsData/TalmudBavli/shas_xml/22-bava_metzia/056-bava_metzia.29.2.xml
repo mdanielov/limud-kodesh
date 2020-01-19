@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:24.530655</dateCreated>
+   <lastModified>2020-01-14 15:03:24.530655</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו מציאות"/><ContGemara/>כדרבה דאמר רבה נגנבו בלסטים מזויין</row>
+		<row row_number="2" isdata="1">אבדו שטבעה ספינתו בים אמר רב יהודה</row>
+		<row row_number="3" isdata="1">אמר שמואל הלכה כר' טרפון ביד רחבה</row>
+		<row row_number="4" isdata="1">הוה ליה הנהו זוזי דיתמי אתא לקמיה דרב</row>
+		<row row_number="5" isdata="1">יוסף אמר ליה מהו לאשתמושי בגוייהו</row>
+		<row row_number="6" isdata="1">א"ל הכי אמר רב יהודה אמר שמואל הלכה</row>
+		<row row_number="7" isdata="1">כר' טרפון א"ל אביי ולאו אתמר עלה</row>
+		<row row_number="8" isdata="1">א"ר חלבו אמר רב הונא לא שנו אלא</row>
+		<row row_number="9" isdata="1">בדמי אבידה הואיל וטרח בה אבל מעות אבידה דלא טרח בהו לא והני</row>
+		<row row_number="10" isdata="1">כמעות אבידה דמו א"ל זיל לא שבקו לי דאשרי לך<EndGemara/><StartMishna/>מתני' מצא ספרים</row>
+		<row row_number="11" isdata="1">קורא בהן אחד לשלשים יום ואם אינו יודע לקרות גוללן אבל לא ילמוד</row>
+		<row row_number="12" isdata="1">בהן בתחלה ולא יקרא אחר עמו מצא כסות מנערה אחד לשלשים יום</row>
+		<row row_number="13" isdata="1">ושוטחה לצרכה אבל לא לכבודו כלי כסף וכלי נחושת משתמש בהן</row>
+		<row row_number="14" isdata="1">לצרכן אבל לא לשחקן כלי זהב וכלי זכוכית לא יגע בהן עד שיבא אליהו</row>
+		<row row_number="15" isdata="1">מצא שק או קופה וכל דבר שאין דרכו ליטול הרי זה לא יטול:</row>
+		<row row_number="16" isdata="1"><EndMishna/><StartGemara/>גמ' אמר שמואל המוצא תפילין בשוק שם דמיהן ומניחן לאלתר מתיב</row>
+		<row row_number="17" isdata="1">רבינא מצא ספרים קורא בהן אחד לשלשים יום ואם אינו יודע לקרות גוללן</row>
+		<row row_number="18" isdata="1">גוללן אין שם דמיהן ומניחן לא אמר אביי תפילין בי בר חבו משכח</row>
+		<row row_number="19" isdata="1">שכיחי ספרים לא שכיחי ת"ר השואל ספר תורה מחבירו הרי זה לא</row>
+		<row row_number="20" isdata="1">ישאילנו לאחר פותחו וקורא בו ובלבד שלא ילמוד בו בתחלה ולא יקרא</row>
+		<row row_number="21" isdata="1">אחר עמו וכן המפקיד ס"ת אצל חבירו גוללו כל שנים עשר חדש פותחו</row>
+		<row row_number="22" isdata="1">וקורא בו אם בשבילו פתחו אסור סומכוס אומר בחדש שלשים יום בישן</row>
+		<row row_number="23" isdata="1">שנים עשר חדש ר"א בן יעקב אומר אחד זה ואחד זה שנים עשר חדש:</row>
+		<row row_number="24" isdata="1">אמר מר השואל ספר תורה מחבירו הרי זה לא ישאילנו לאחר מאי אריא</row>
+		<row row_number="25" isdata="1">ס"ת אפי' כל מילי נמי דאמר ר"ש בן לקיש כאן שנה רבי אין השואל</row>
+		<row row_number="26" isdata="1">רשאי להשאיל ואין השוכר רשאי להשכיר ס"ת איצטריכא ליה מהו דתימא</row>
+		<row row_number="27" isdata="1">ניחא ליה לאיניש דתיעביד מצוה בממוניה קמ"ל פותחו וקורא בו פשיטא</row>
+		<row row_number="28" isdata="1">ואלא למאי שייליה מיניה סיפא איצטריכא ליה ובלבד שלא ילמוד בו</row>
+		<row row_number="29" isdata="1">בתחלה וכן המפקיד ס"ת אצל חבירו גוללו כל שנים עשר חדש פותחו</row>
+		<row row_number="30" isdata="1">וקורא בו מאי עבידתיה גביה ותו אם בשבילו פתחו אסור הא אמרת פותחו</row>
+		<row row_number="31" isdata="1">וקורא בו הכי קאמר אם כשהוא גוללו פותחו וקורא בו מותר אם בשבילו</row>
+		<row row_number="32" isdata="1">פתחו אסור סומכוס אומר בחדש שלשים יום בישן שנים עשר חדש ר"א</row>
+		<row row_number="33" isdata="1">בן יעקב אומר אחד זה ואחד זה שנים עשר חדש ר"א בן יעקב היינו תנא</row>
+		<row row_number="34" isdata="1">קמא אלא אימא ר' אליעזר בן יעקב אומר אחד זה ואחד זה שלשים יום:</row>
+		<row row_number="35" isdata="1">אבל לא ילמוד בו בתחלה ולא יקרא אחר עמו: ורמינהו לא יקרא פרשה</row>
+		<row row_number="36" isdata="1">וישנה ולא יקרא בו פרשה ויתרגם ולא יפתח בו יותר מג' דפין ולא יקראו</row>
+		<row row_number="37" isdata="1">בו שלשה בני אדם בכרך אחד הא שנים קורין אמר אביי לא קשיא כאן</row>
+		<row row_number="38" isdata="1">בענין אחד כאן בשני ענינים: מצא כסות מנערה אחד לשלשים יום:</row>
+		<row row_number="39" isdata="1">למימרא דניעור מעלי לה והאמר רבי יוחנן מי שיש לו גרדי אומן בתוך</row>
+		<row row_number="40" isdata="1">ביתו ינער כסותו בכל יום אמרי בכל יום קשי לה אחד לשלשים יום</row>
+		<row row_number="41" isdata="1">מעלי לה איבעית אימא לא קשיא הא בחד והא בתרי איבעית אימא</row>
+		<row row_number="42" isdata="1">לא קשיא הא בידא והא בחוטרא איבעית אימא לא קשיא הא בדעמרא</row>
+		<row row_number="43" isdata="1">הא בדכיתנא א"ר יוחנן כסא דחרשין ולא כסא דפושרין ולא אמרן</row>
+		<row row_number="44" isdata="1">אלא בכלי מתכות אבל בכלי חרש לית לן בה ובכלי מתכות נמי לא</row>
+		<row row_number="45" isdata="1">אמרן אלא דלא צויץ אבל דצויץ לית לן בה ולא אמרן אלא דלא</row>
+		<row row_number="46" isdata="1">שדא ביה ציביא אבל שדא ביה ציביא לית לן בה: וא"ר יוחנן מי</row>
+		<row row_number="47" isdata="1">שהניח לו אביו מעות הרבה ורוצה לאבדן ילבש בגדי פשתן וישתמש בכלי</row>
+		<row row_number="48" isdata="1">זכוכית וישכור פועלים ואל ישב עמהן ילבש בכלי פשתן בכתנא רומיתא</row>
+		<row row_number="49" isdata="1">וישתמש בכלי זכוכית בזוגיתא חיורתא וישכור פועלים ואל ישב עמהן תרגומא</row>
+</amud>
+</daf>
+</masechet>
+</root>

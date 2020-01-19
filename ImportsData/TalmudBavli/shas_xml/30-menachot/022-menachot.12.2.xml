@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:03.968112</dateCreated>
+   <lastModified>2020-01-14 15:04:03.968112</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="12">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל המנחות"/><ContGemara/>או כזית אשירים בקמיצה נמי לאכול</row>
+		<row row_number="2" isdata="1">שירים לא תני או כזית וקתני סיפא פיגול</row>
+		<row row_number="3" isdata="1">וחייבין עליו כרת אלמא מהניא להו הקטרה</row>
+		<row row_number="4" isdata="1">א"ל אביי לא הא מני ר"א היא דתנן הקומץ</row>
+		<row row_number="5" isdata="1">והלבונה והקטרת ומנחת כהנים ומנחת כהן</row>
+		<row row_number="6" isdata="1">משיח ומנחת נסכים שהקריב מאחת מהן</row>
+		<row row_number="7" isdata="1">כזית בחוץ חייב ורבי אלעזר פוטר עד</row>
+		<row row_number="8" isdata="1">שיקריב את כולו כיון דבהקטרת קמיצה לא</row>
+		<row row_number="9" isdata="1">מתני ליה או כזית מקומצה בחוץ בשירים נמי</row>
+		<row row_number="10" isdata="1">לא מתני ליה או כזית אי רבי אלעזר האי</row>
+		<row row_number="11" isdata="1">להקטיר קומצה להקטיר קומצה ולבונתה</row>
+		<row row_number="12" isdata="1">מיבעי ליה דתנן הקומץ והלבונה שהקריב</row>
+		<row row_number="13" isdata="1">את אחד מהן בחוץ חייב ורבי אלעזר פוטר</row>
+		<row row_number="14" isdata="1">עד שיקריב את שניהם לא נצרכא אלא</row>
+		<row row_number="15" isdata="1">לקומץ דמנחת חוטא ואיכפל תנא לאשמועינן</row>
+		<row row_number="16" isdata="1">קומץ דמנחת חוטא אין וכן כי אתא רב דימי</row>
+		<row row_number="17" isdata="1">א"ר אלעזר קומץ דמנחת חוטא הוא ורבי</row>
+		<row row_number="18" isdata="1">אלעזר היא הדר אמר רבא לאו מילתא היא</row>
+		<row row_number="19" isdata="1">דאמרי דתניא קדש קדשים הוא שאם</row>
+		<row row_number="20" isdata="1">נפרסה אחת  מהן חלותיה כולן פסולות הא</row>
+		<row row_number="21" isdata="1">יצאת הני דאיכא גוואי כשרות מאן שמעת</row>
+		<row row_number="22" isdata="1">ליה דאמר זריקה מועלת ליוצא ר"ע היא</row>
+		<row row_number="23" isdata="1">וקאמר נפרסה לא א"ל אביי מי קתני הא</row>
+		<row row_number="24" isdata="1">יצאת דלמא הא נטמאת הנך כשרות מ"ט</row>
+		<row row_number="25" isdata="1">דמרצה ציץ אבל יצאת לא ור' אליעזר היא</row>
+		<row row_number="26" isdata="1">דאמר אין זריקה מועלת ליוצא ובדין הוא</row>
+		<row row_number="27" isdata="1">דאיבעי ליה למיתני נמי יצאת והאי דקתני</row>
+		<row row_number="28" isdata="1">נפרסה הא קמ"ל דאפי' נפרסה דאיתיה בפנים</row>
+		<row row_number="29" isdata="1">לא מהניא ליה הקטרה אבל לר"ע דאמר</row>
+		<row row_number="30" isdata="1">זריקה מועלת ליוצא אפי' חסרון נמי מהניא</row>
+		<row row_number="31" isdata="1">ליה הקטרה<EndGemara/><StartMishna/>מתני' לאכול כחצי זית</row>
+		<row row_number="32" isdata="1">ולהקטיר כחצי זית כשר שאין אכילה והקטרה</row>
+		<row row_number="33" isdata="1">מצטרפין:<EndMishna/><StartGemara/>גמ' טעמא דלאכול ולהקטיר</row>
+		<row row_number="34" isdata="1">הא לאכול ולאכול דבר שאין דרכו לאכול</row>
+		<row row_number="35" isdata="1">מצטרף והקתני רישא לאכול דבר שדרכו</row>
+		<row row_number="36" isdata="1">לאכול ולהקטיר דבר שדרכו להקטיר דבר</row>
+		<row row_number="37" isdata="1">שדרכו לאכול אין שאין דרכו לאכול לא</row>
+		<row row_number="38" isdata="1">מאן תנא א"ר ירמיה הא מני ר"א היא</row>
+		<row row_number="39" isdata="1">דאמר מחשבין מאכילת אדם [לאכילת]</row>
+		<row row_number="40" isdata="1">מזבח ומאכילת מזבח [לאכילת] אדם דתנן</row>
+		<row row_number="41" isdata="1">הקומץ את המנחה לאכול דבר שאין</row>
+		<row row_number="42" isdata="1">דרכו לאכול ולהקטיר דבר שאין דרכו</row>
+		<row row_number="43" isdata="1">להקטיר כשר ור"א פוסל אביי אמר אפי'</row>
+		<row row_number="44" isdata="1">תימא רבנן לא תימא הא לאכול ולאכול</row>
+		<row row_number="45" isdata="1">דבר שאין דרכו לאכול אלא אימא הא</row>
+		<row row_number="46" isdata="1">לאכול ולאכול דבר שדרכו לאכול ומאי</row>
+		<row row_number="47" isdata="1">קמ"ל הא בהדיא קתני לה לאכול כזית בחוץ</row>
+		<row row_number="48" isdata="1">וכזית למחר כזית למחר וכזית בחוץ כחצי</row>
+		<row row_number="49" isdata="1">זית בחוץ וכחצי זית למחר כחצי זית למחר</row>
+		<row row_number="50" isdata="1">וכחצי זית בחוץ פסול ואין בו כרת</row>
+</amud>
+</daf>
+</masechet>
+</root>

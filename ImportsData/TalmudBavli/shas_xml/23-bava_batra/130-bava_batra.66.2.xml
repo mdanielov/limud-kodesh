@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:32.506765</dateCreated>
+   <lastModified>2020-01-14 15:03:32.506765</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="66">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הבית"/><ContGemara/>והא קיימא לן דרבנן ועוד האמר ר' יוסי בן</row>
+		<row row_number="2" isdata="1">ר' חנינא בדף של מתכת מחלוקת לעולם</row>
+		<row row_number="3" isdata="1">רבנן היא ושאני שאיבה דרבנן אי הכי</row>
+		<row row_number="4" isdata="1">אפי' חקקו ולבסוף קבעו נמי שאני התם</row>
+		<row row_number="5" isdata="1">דאיכא תורת כלי עליו בתלוש בעי רב יוסף</row>
+		<row row_number="6" isdata="1">מי גשמים שחשב עליהם להדיח את</row>
+		<row row_number="7" isdata="1">האיצטרובלין מהו לזרעים אליבא</row>
+		<row row_number="8" isdata="1">דרבי אליעזר דאמר כל המחובר לקרקע</row>
+		<row row_number="9" isdata="1">הרי הוא כקרקע לא תיבעי לך כי תיבעי</row>
+		<row row_number="10" isdata="1">לך אליבא דרבנן דאמרי אינו כקרקע</row>
+		<row row_number="11" isdata="1">מאי תיקו שלח ליה רב נחמיה בריה דרב</row>
+		<row row_number="12" isdata="1">יוסף לרבה בריה דרב הונא זוטי</row>
+		<row row_number="13" isdata="1">לנהרדעא כי אתיא הך איתתא לקמך</row>
+</amud>
+</daf>
+</masechet>
+</root>

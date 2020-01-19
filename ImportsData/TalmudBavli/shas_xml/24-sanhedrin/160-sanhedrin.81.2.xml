@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:43.752397</dateCreated>
+   <lastModified>2020-01-14 15:03:43.752397</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="81">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו הן הנשרפין"/><ContGemara/>אמר ליה אדא ברי בתרי קטלי קטלת ליה:</row>
+		<row row_number="2" isdata="1"><EndGemara/><StartMishna/>מתני' מי שלקה ושנה ב"ד מכניסין</row>
+		<row row_number="3" isdata="1">אותו לכיפה ומאכילין אותו שעורין עד</row>
+		<row row_number="4" isdata="1">שכריסו מתבקעת:<EndMishna/><StartGemara/>גמ' משום דלקה ושנה</row>
+		<row row_number="5" isdata="1">ב"ד כונסין אותו לכיפה אמר ר' ירמיה אמר</row>
+		<row row_number="6" isdata="1">רבי שמעון בן לקיש הכא במלקיות של</row>
+		<row row_number="7" isdata="1">כריתות עסקינן דגברא בר קטלא הוא וקרובי</row>
+		<row row_number="8" isdata="1">הוא דלא מיקרב קטליה וכיון דקא מוותר</row>
+		<row row_number="9" isdata="1">לה נפשיה מקרבינן ליה לקטליה עילויה</row>
+		<row row_number="10" isdata="1">א"ל רבי יעקב לר' ירמיה בר תחליפא תא אסברא לך במלקיות של כרת</row>
+		<row row_number="11" isdata="1">אחת אבל של שתים ושל שלש כריתות איסורי הוא דקא טעים ולא מוותר</row>
+		<row row_number="12" isdata="1">כולי האי: מי שלקה ושנה: שנה אע"ג דלא שילש לימא מתני' דלא כרשב"ג</row>
+		<row row_number="13" isdata="1">דאי רשב"ג הא אמר עד תלת זימני לא הויא חזקה אמר רבינא אפילו תימא</row>
+		<row row_number="14" isdata="1">רשב"ג קסבר עבירות מחזיקות מיתיבי עבר עבירה שיש בה מלקות פעם</row>
+		<row row_number="15" isdata="1">ראשונה ושניה מלקין אותו ושלישית כונסין אותו לכיפה אבא שאול אומר</row>
+		<row row_number="16" isdata="1">אף בשלישית מלקין אותו ברביעית כונסין אותו לכיפה מאי לאו דכולי</row>
+		<row row_number="17" isdata="1">עלמא מלקיות מחזיקות ובפלוגתא דרבי ורשב"ג קמיפלגי לא דכולי עלמא</row>
+		<row row_number="18" isdata="1">אית להו דרשב"ג והכא בהא קא מיפלגי דמר סבר עבירות מחזיקות ומר</row>
+		<row row_number="19" isdata="1">סבר מלקיות מחזיקות והדתניא התרו בו ושתק התרו בו והרכין ראשו</row>
+		<row row_number="20" isdata="1">פעם ראשונה ושניה מתרין בו שלישית כונסין אותו לכיפה אבא שאול</row>
+		<row row_number="21" isdata="1">אומר אף בשלישית מתרין בו ברביעית כונסין אותו לכיפה והתם מלקות</row>
+		<row row_number="22" isdata="1">ליכא במאי קמיפלגי אמר רבינא בכיפה צריכה התראה קמיפלגי ומאי</row>
+		<row row_number="23" isdata="1">כיפה אמר רב יהודה מלא קומתו והיכא רמיזא אמר ריש לקיש תמותת</row>
+		<row row_number="24" isdata="1">רשע רעה ואמר ריש לקיש מאי דכתיב כי [גם] לא ידע האדם את עתו</row>
+		<row row_number="25" isdata="1">כדגים שנאחזים במצודה רעה מאי מצודה רעה אמר ר"ל חכה<EndGemara/><StartMishna/>מתני' ההורג</row>
+		<row row_number="26" isdata="1">נפש שלא בעדים מכניסין אותו לכיפה ומאכילין אותו לחם צר ומים</row>
+		<row row_number="27" isdata="1">לחץ:<EndMishna/><StartGemara/>גמ' מנא ידעינן אמר רב בעדות מיוחדת ושמואל אמר שלא</row>
+		<row row_number="28" isdata="1">בהתראה ורב חסדא אמר אבימי כגון דאיתכחוש בבדיקות ולא איתכחוש</row>
+		<row row_number="29" isdata="1">בחקירות כדתנן מעשה ובדק בן זכאי בעוקצי תאנים: ומאכילין אותו לחם</row>
+		<row row_number="30" isdata="1">צר ומים לחץ: מאי שנא הכא דקתני נותנין לו לחם צר ומים לחץ ומאי שנא</row>
+		<row row_number="31" isdata="1">התם דקתני מאכילין אותו שעורין עד שכריסו מתבקעת אמר רב ששת אידי</row>
+		<row row_number="32" isdata="1">ואידי נותנין לו לחם צר ומים לחץ עד שיוקטן מעיינו והדר מאכילין אותו</row>
+		<row row_number="33" isdata="1">שעורין עד שכריסו מתבקעת<EndGemara/><StartMishna/>מתני' הגונב את הקסוה והמקלל בקוסם</row>
+		<row row_number="34" isdata="1">והבועל ארמית קנאין פוגעין בו כהן ששמש בטומאה אין אחיו הכהנים</row>
+		<row row_number="35" isdata="1">מביאין אותו לב"ד אלא פרחי כהונה מוציאין אותו חוץ לעזרה ומפציעין</row>
+		<row row_number="36" isdata="1">את מוחו בגזירין זר ששמש במקדש רבי עקיבא אומר בחנק וחכ"א בידי</row>
+		<row row_number="37" isdata="1">שמים:<EndMishna/><StartGemara/>גמ' מאי קסוה אמר רב יהודה כלי שרת וכן הוא אומר ואת קשות</row>
+		<row row_number="38" isdata="1">הנסך והיכא רמיזא ולא יבאו לראות כבלע את הקדש ומתו: והמקלל</row>
+		<row row_number="39" isdata="1">בקוסם: תני רב יוסף יכה קוסם את קוסמו רבנן ואיתימא רבה בר מרי אמרי</row>
+		<row row_number="40" isdata="1">יכהו קוסם לו ולקונו ולמקנו: והבועל ארמית: בעא מיניה רב כהנא מרב</row>
+</amud>
+</daf>
+</masechet>
+</root>

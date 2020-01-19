@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:01.877585</dateCreated>
+   <lastModified>2020-01-14 15:03:01.877585</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="53">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הנודר מן המבושל"/><ContMishna/>מתני' הנודר מן התמרים מותר בדבש<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">תמרים מסתוניות מותר בחומץ סתוניות</row>
+		<row row_number="3" isdata="1">רבי יהודה בן בתירא אומר כל ששם</row>
+		<row row_number="4" isdata="1">תולדתו קרויה עליו ונודר הימנו אסור ביוצא</row>
+		<row row_number="5" isdata="1">הימנו וחכמים מתירים:<EndMishna/><StartGemara/>גמ' [חכמים]</row>
+		<row row_number="6" isdata="1">היינו ת"ק איכא בינייהו הדא דתניא כלל</row>
+		<row row_number="7" isdata="1">זה אר"ש בן אלעזר כל שדרכו לאכול</row>
+		<row row_number="8" isdata="1">ודרך היוצא ממנו לאכול כגון תמרים</row>
+		<row row_number="9" isdata="1">ודבש תמרים נדר בו אסור ביוצא ממנו</row>
+		<row row_number="10" isdata="1">נודר מיוצא ממנו אסור בו כל שאין דרכו</row>
+		<row row_number="11" isdata="1">לאכול ודרך היוצא ממנו לאכול נודר בו אין</row>
+		<row row_number="12" isdata="1">אסור אלא ביוצא ממנו שלא נתכוון זה</row>
+		<row row_number="13" isdata="1">אלא ליוצא ממנו<EndGemara/><StartMishna/>מתני' הנודר מן היין</row>
+		<row row_number="14" isdata="1">מותר ביין תפוחים מן השמן מותר בשמן</row>
+		<row row_number="15" isdata="1">שומשמין מן הדבש מותר בדבש תמרים מן</row>
+		<row row_number="16" isdata="1">החומץ מותר בחומץ סתוניות מן הכרישין</row>
+		<row row_number="17" isdata="1">מותר בקפלוטות מן הירק מותר בירקות</row>
+		<row row_number="18" isdata="1">השדה שהוא שם לוויי:<EndMishna/><StartGemara/>גמ' תניא הנודר</row>
+		<row row_number="19" isdata="1">מן השמן בארץ ישראל מותר בשמן</row>
+		<row row_number="20" isdata="1">שומשמין ואסור בשמן זית ובבבל אסור</row>
+		<row row_number="21" isdata="1">בשמן שומשמין ומותר בשמן זית</row>
+		<row row_number="22" isdata="1">מקום שמסתפקין מזה ומזה אסור בזה</row>
+		<row row_number="23" isdata="1">ובזה פשיטא לא צריכא דרובא מן חד</row>
+		<row row_number="24" isdata="1">מסתפקין מהו דתימא איזיל בתר רובא</row>
+		<row row_number="25" isdata="1">קא משמע לן ספק איסורא לחומרא</row>
+		<row row_number="26" isdata="1">הנודר מן הירק בשאר שני שבוע</row>
+		<row row_number="27" isdata="1">אסור בירקות הגינה ומותר בירקות השדה</row>
+		<row row_number="28" isdata="1">ובשביעית אסור בירקות השדה ומותר</row>
+		<row row_number="29" isdata="1">בירקות הגינה אמר רבי אבהו משום רבי חנינא בן גמליאל</row>
+</amud>
+</daf>
+</masechet>
+</root>

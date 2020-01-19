@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:19.754432</dateCreated>
+   <lastModified>2020-01-14 15:02:19.754432</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="20">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContMishna/>וכן בגת גבי אדם הא אמר דבעי ראשו ורובו</row>
+		<row row_number="2" isdata="1">גבי פרה מי בעינן לה ראשה ורובה או לא</row>
+		<row row_number="3" isdata="1">כל היכא דקא נקיט מנא ולא נקיט לה לא</row>
+		<row row_number="4" isdata="1">תיבעי לך דבעי ראשה ורובה מלגיו כי</row>
+		<row row_number="5" isdata="1">תבעי לך היכא דנקיט מנא ונקיט לה מאי</row>
+		<row row_number="6" isdata="1">א"ל תניתוה ובלבד שתהא הפרה ראשה</row>
+		<row row_number="7" isdata="1">ורובה מבפנים ושותה מאי לאו דנקיט לה</row>
+		<row row_number="8" isdata="1">ונקיט מנא לא דנקיט מנא ולא נקיט לה וכי</row>
+		<row row_number="9" isdata="1">נקיט מנא ולא נקיט לה מי שרי והתניא לא</row>
+		<row row_number="10" isdata="1">ימלא אדם מים ויתן בשבת לפני בהמתו</row>
+		<row row_number="11" isdata="1">אבל ממלא הוא ושופך והיא שותה מאיליה</row>
+		<row row_number="12" isdata="1">הא אתמר עלה אמר אביי הכא באבוס</row>
+		<row row_number="13" isdata="1">העומד ברשות הרבים גבוה י' טפחים ורוחב</row>
+		<row row_number="14" isdata="1">ד' וראשו אחד נכנס לבין הפסין גזרה דילמא</row>
+		<row row_number="15" isdata="1">חזי ליה לאבוס דמקלקל ואתי לתקוניה ודרא</row>
+		<row row_number="16" isdata="1">ליה לדוולא בהדיה וקא מפיק מרשות היחיד</row>
+		<row row_number="17" isdata="1">לרשות הרבים וכי האי גוונא מי מיחייב</row>
+		<row row_number="18" isdata="1">והאמר רב ספרא אמר ר' אמי אמר ר' יוחנן</row>
+		<row row_number="19" isdata="1">המפנה חפציו מזוית לזוית ונמלך עליהן</row>
+		<row row_number="20" isdata="1">והוציאן פטור שלא היתה עקירה משעה</row>
+		<row row_number="21" isdata="1">ראשונה לכך אלא זמנין דמתקן ליה והדר</row>
+		<row row_number="22" isdata="1">מעייל ליה וקא מעייל מרשות הרבים לרשות</row>
+		<row row_number="23" isdata="1">היחיד איכא דאמרי גבי אדם הא קאמרינן</row>
+		<row row_number="24" isdata="1">דסגי ליה בראשו ורובו גבי פרה מי סגי</row>
+		<row row_number="25" isdata="1">לה בראשה ורובה או לא היכא דנקיט מנא</row>
+		<row row_number="26" isdata="1">ונקיט לה לא תיבעי לך דסגי לה בראשה</row>
+		<row row_number="27" isdata="1">ורובה אלא כי תיבעי לך דנקיט מנא ולא</row>
+		<row row_number="28" isdata="1">נקיט לה מאי אמר ליה תניתוה ובלבד</row>
+		<row row_number="29" isdata="1">שתהא פרה ראשה ורובה מבפנים ושותה</row>
+		<row row_number="30" isdata="1">מאי לאו דנקיט מנא ולא נקיט לה לא דנקיט מנא ונקיט לה והכי נמי</row>
+		<row row_number="31" isdata="1">מסתברא דאי נקיט מנא ולא נקיט לה מי שרי והתניא לא ימלא אדם</row>
+		<row row_number="32" isdata="1">מים ויתן לפני בהמתו אבל ממלא ושופך והיא שותה מאיליה הא איתמר</row>
+		<row row_number="33" isdata="1">עלה אמר אביי הכא באבוס העומד ברשות הרבים גבוה עשרה טפחים</row>
+		<row row_number="34" isdata="1">ורוחב ארבעה וראשו נכנס לבין הפסין דזמנין דחזי ליה לאבוס דמקלקל ואתי</row>
+		<row row_number="35" isdata="1">לתקוניה ודרי ליה לדוולא בהדיה וקא מפיק מרשות היחיד לרשות הרבים</row>
+		<row row_number="36" isdata="1">וכי האי גוונא מי מיחייב והאמר רב ספרא אמר ר' אמי אמר ר' יוחנן המפנה</row>
+		<row row_number="37" isdata="1">חפציו מזוית לזוית ונמלך עליהן והוציאן פטור שלא היתה עקירה משעה</row>
+		<row row_number="38" isdata="1">ראשונה לכך אלא זמנין דמתקן ליה והדר מעייל ליה וקא מעייל ליה מרה"ר</row>
+		<row row_number="39" isdata="1">לרשות היחיד תא שמע גמל שראשו ורובו מבפנים אובסין אותו מבפנים</row>
+		<row row_number="40" isdata="1">והא איבוס כמאן דנקיט מנא ונקיט לה דמיא וקא בעינן ראשה ורובה אמר רב</row>
+		<row row_number="41" isdata="1">אחא בר רב הונא אמר רב ששת שאני גמל הואיל וצוארו ארוך ת"ש בהמה</row>
+		<row row_number="42" isdata="1">שראשה ורובה בפנים אובסין אותה מבפנים והא אבוס כמאן דנקיט מנא ונקיט</row>
+		<row row_number="43" isdata="1">לה וקא בעינן ראשו ורובו מאי בהמה נמי דקתני גמל והתניא בהמה והתניא</row>
+		<row row_number="44" isdata="1">גמל מידי גבי הדדי תניא תנ"ה ר"א אוסר בגמל הואיל וצוארו ארוך א"ר יצחק</row>
+		<row row_number="45" isdata="1">בר אדא לא הותרו פסי ביראות אלא לעולי רגלים בלבד והתניא לא הותרו</row>
+		<row row_number="46" isdata="1">פסי ביראות אלא לגבי בהמה בלבד מאי בהמה בהמת עולי רגלים אבל אדם</row>
+</amud>
+</daf>
+</masechet>
+</root>

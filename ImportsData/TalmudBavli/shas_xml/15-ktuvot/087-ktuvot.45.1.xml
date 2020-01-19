@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:55.646079</dateCreated>
+   <lastModified>2020-01-14 15:02:55.646079</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="45">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "נערה"/><ContGemara/>סוקלין אותה על פתח בית אביה כלומר</row>
+		<row row_number="2" isdata="1">ראו גידולים שגידלתם באו לה עדים בבית</row>
+		<row row_number="3" isdata="1">אביה שזינתה בבית אביה סוקלין אותה</row>
+		<row row_number="4" isdata="1">על פתח שער העיר סרחה ולבסוף בגרה</row>
+		<row row_number="5" isdata="1">תידון בחנק למימרא דכל היכא דאישתני</row>
+		<row row_number="6" isdata="1">גופא אישתני קטלא ורמינהי נערה</row>
+		<row row_number="7" isdata="1">המאורסה שזינתה ומשבגרה הוציא עליה</row>
+		<row row_number="8" isdata="1">שם רע הוא אינו לוקה ואינו נותן מאה סלע</row>
+		<row row_number="9" isdata="1">היא וזוממיה מקדימין לבית הסקילה היא</row>
+		<row row_number="10" isdata="1">וזוממיה ס"ד אלא או היא או זוממיה מקדימין</row>
+		<row row_number="11" isdata="1">לבית הסקילה אמר רבא מוציא שם רע</row>
+		<row row_number="12" isdata="1">קאמרת שאני מוציא שם רע דחידוש הוא</row>
+		<row row_number="13" isdata="1">דהא נכנסה לחופה ולא נבעלה בעלמא</row>
+		<row row_number="14" isdata="1">וזינתה בחנק ואילו מוציא שם רע בסקילה</row>
+		<row row_number="15" isdata="1">אמר ליה רב הונא בריה דרב יהושע</row>
+		<row row_number="16" isdata="1">לרבא דלמא כי חדית רחמנא היכא דלא</row>
+		<row row_number="17" isdata="1">אישתני גופא אבל היכא דאישתני גופא</row>
+		<row row_number="18" isdata="1">לא חדית רחמנא אלא אמר רב נחמן בר</row>
+		<row row_number="19" isdata="1">יצחק אישתני ולא אישתני תנאי היא דתנן</row>
+		<row row_number="20" isdata="1">חטאו עד שלא נתמנו ונתמנו הרי הן</row>
+		<row row_number="21" isdata="1">כהדיוטות רבי שמעון אומר אם נודע להם</row>
+		<row row_number="22" isdata="1">עד שלא נתמנו חייבים משנתמנו פטורים</row>
+</amud>
+</daf>
+</masechet>
+</root>

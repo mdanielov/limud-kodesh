@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:38.951765</dateCreated>
+   <lastModified>2020-01-14 15:03:38.951765</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="2">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "דיני ממונות"/><ContMishna/>ואין בית דין שקול מוסיפין עליהם עוד אחד</row>
+		<row row_number="2" isdata="1">הרי כאן עשרים ושלשה וכמה יהא בעיר</row>
+		<row row_number="3" isdata="1">ותהא ראויה לסנהדרין מאה ועשרים רבי</row>
+		<row row_number="4" isdata="1">נחמיה אומר מאתים ושלשים כנגד שרי</row>
+		<row row_number="5" isdata="1">עשרות:<EndMishna/><StartGemara/>גמ' אטו גזילות וחבלות לאו דיני</row>
+		<row row_number="6" isdata="1">ממונות נינהו אמר רבי אבהו מה הן קתני</row>
+		<row row_number="7" isdata="1">מה הן דיני ממונות גזילות וחבלות אבל</row>
+		<row row_number="8" isdata="1">הודאות והלואות לא וצריכא דאי תנא דיני</row>
+		<row row_number="9" isdata="1">ממונות הוה אמינא דאפי' הודאות והלואות</row>
+		<row row_number="10" isdata="1">תנא גזילות וחבלות ואי תנא גזילות וחבלות</row>
+		<row row_number="11" isdata="1">ולא קתני דיני ממונות הוה אמינא הוא הדין</row>
+		<row row_number="12" isdata="1">דאפילו הודאות והלואות והאי דקתני גזילות</row>
+		<row row_number="13" isdata="1">וחבלות משום דעיקר ג' דכתיבי בגזילות</row>
+		<row row_number="14" isdata="1">וחבלות כתיבי גזילות דכתיב ונקרב בעל</row>
+		<row row_number="15" isdata="1">הבית אל האלהים חבלות מה לי חבל בגופו</row>
+		<row row_number="16" isdata="1">מה לי חבל בממונו תנא מה הן דיני ממונות</row>
+		<row row_number="17" isdata="1">גזילות וחבלות אבל הודאות והלואות לא</row>
+		<row row_number="18" isdata="1">ולמאי אילימא דלא בעינן שלשה והאמר</row>
+		<row row_number="19" isdata="1">רבי אבהו שנים שדנו דיני ממונות</row>
+		<row row_number="20" isdata="1">לדברי הכל אין דיניהם דין אלא דלא</row>
+		<row row_number="21" isdata="1">בעינן מומחין מאי קסבר אי קסבר עירוב</row>
+		<row row_number="22" isdata="1">פרשיות כתוב כאן ליבעי נמי מומחין ואי</row>
+		<row row_number="23" isdata="1">קסבר אין עירוב פרשיות כתוב כאן שלשה</row>
+		<row row_number="24" isdata="1">למה לי לעולם קסבר עירוב פרשיות</row>
+		<row row_number="25" isdata="1">כתוב כאן ובדין הוא דליבעי נמי מומחין</row>
+		<row row_number="26" isdata="1">והאי דלא בעינן מומחין משום דרבי חנינא</row>
+		<row row_number="27" isdata="1">דאמר רבי חנינא דבר תורה אחד דיני</row>
+		<row row_number="28" isdata="1">ממונות ואחד דיני נפשות בדרישה ובחקירה</row>
+</amud>
+</daf>
+</masechet>
+</root>

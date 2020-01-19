@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:29.496439</dateCreated>
+   <lastModified>2020-01-14 15:02:29.496439</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="72">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו דברים"/><ContGemara/>שלא נתנה שבת לדחות [וסיפא נתנה שבת</row>
+		<row row_number="2" isdata="1">לדחות אצלו] הכא הרי נתנה שבת לדחות</row>
+		<row row_number="3" isdata="1">אצל קרבן ציבור א"ל רב אשי לרב כהנא</row>
+		<row row_number="4" isdata="1">הכא נמי הרי נתנה שבת לדחות אצל תינוקות</row>
+		<row row_number="5" isdata="1">דעלמא א"ל לגבי דהאי גברא מיהת לא</row>
+		<row row_number="6" isdata="1">איתיהיב: ושאר כל הזבחים ששחטן לשום</row>
+		<row row_number="7" isdata="1">פסח אם אינן ראויין חייב ואם ראויין רבי</row>
+		<row row_number="8" isdata="1">אליעזר מחייב חטאת ורבי יהושע פוטר:</row>
+		<row row_number="9" isdata="1">מאן תנא דשני ליה בין ראויין לשאינן ראויין</row>
+		<row row_number="10" isdata="1">ר' שמעון היא דתניא אחד הזבחים הראויין</row>
+		<row row_number="11" isdata="1">ואחד זבחים שאינן ראויין וכן השוחט לשם</row>
+		<row row_number="12" isdata="1">אימורי ציבור פטור דברי ר' מאיר א"ר שמעון</row>
+		<row row_number="13" isdata="1">לא נחלקו רבי אליעזר ורבי יהושע על שאינן</row>
+		<row row_number="14" isdata="1">ראויין שחייב על מה נחלקו על הראויין שרבי</row>
+		<row row_number="15" isdata="1">אליעזר מחייב חטאת ורבי יהושע פוטר אמר</row>
+		<row row_number="16" isdata="1">רב ביבי אמר רבי אלעזר פוטר היה רבי</row>
+		<row row_number="17" isdata="1">מאיר אפי' עגל של זבחי שלמים ששחטו</row>
+		<row row_number="18" isdata="1">לשום הפסח א"ל רבי זירא לרב ביבי</row>
+		<row row_number="19" isdata="1">והאמר רבי יוחנן מודה היה רבי מאיר</row>
+		<row row_number="20" isdata="1">בבעלי מומין א"ל בבעלי מומין לא טריד</row>
+		<row row_number="21" isdata="1">בהו והאי טריד ביה בעא מיניה רבא מרב נחמן חולין לשום פסח מאי לי</row>
+		<row row_number="22" isdata="1">א"ר מאיר אמר ליה פוטר היה ר' מאיר אפילו חולין לשום פסח והא"ר יוחנן</row>
+		<row row_number="23" isdata="1">מודה היה ר"מ בבעלי מומין בעלי מומין לא מיחלפי הני מיחלפי וטעמא</row>
+		<row row_number="24" isdata="1">דרבי מאיר משום איחלופי ולא איחלופי והאמר רב ביבי א"ר אלעזר פוטר</row>
+		<row row_number="25" isdata="1">היה ר' מאיר אפי' עגל של זבחי שלמים ששחטו לשום הפסח אלמא טעמא</row>
+		<row row_number="26" isdata="1">דר"מ משום דטריד א"ל טריד אע"ג דלא מחלף מחלף אע"ג דלא טריד</row>
+		<row row_number="27" isdata="1">לאפוקי בעלי מומין דלא איחלופי מחלף ולא מטריד טריד יתיב ר' זירא ורבי</row>
+		<row row_number="28" isdata="1">שמואל בר רב יצחק אקילעא דר' שמואל בר רב יצחק ויתבי וקא אמרי א"ר</row>
+		<row row_number="29" isdata="1">שמעון בן לקיש נתחלף לו שפוד של נותר בשפוד של צלי ואכלו חייב</row>
+		<row row_number="30" isdata="1">ור' יוחנן אמר אשתו נדה בעל חייב יבמתו נדה בעל פטור איכא דאמרי</row>
+		<row row_number="31" isdata="1">כ"ש בההיא דמחייב דלא עשה מצוה אית דאמרי בההיא פטור מאי טעמא</row>
+		<row row_number="32" isdata="1">התם הוא דה"ל לשיולי אבל הכא דלא ה"ל לשיולי לא ור' יוחנן מאי שנא</row>
+		<row row_number="33" isdata="1">יבמתו דקא עביד מצוה אשתו נמי קא עביד מצוה באשתו מעוברת והא</row>
+		<row row_number="34" isdata="1">איכא שמחת עונה שלא בשעת עונתה והאמר רבא חייב אדם לשמח</row>
+		<row row_number="35" isdata="1">אשתו בדבר מצוה סמוך לווסתה אי הכי אפי' יבמתו נמי יבמתו בזיז מינה</row>
+		<row row_number="36" isdata="1">אשתו לא בזיז מינה ור' יוחנן כמאן אילימא כרבי יוסי דתנן רבי יוסי אומר</row>
+		<row row_number="37" isdata="1">יום טוב הראשון של חג שחל להיות בשבת ושכח והוציא את הלולב</row>
+		<row row_number="38" isdata="1">לרשות הרבים פטור מפני שהוציא ברשות דילמא שאני התם דזמנו בהול</row>
+		<row row_number="39" isdata="1">ואלא רבי יהושע דזבחים דילמא התם נמי זמנו בהול ואלא כרבי יהושע</row>
+		<row row_number="40" isdata="1">דתינוקות התם נמי זמנו בהול ואלא כרבי יהושע דתרומה דתנן היה אוכל</row>
+		<row row_number="41" isdata="1">בתרומה ונודע שהוא בן גרושה או בן חלוצה רבי אליעזר מחייב קרן וחומש</row>
+		<row row_number="42" isdata="1">ר' יהושע פוטר דילמא כדרב ביבי בר אביי דאמר רב ביבי בר אביי בתרומה</row>
+		<row row_number="43" isdata="1">בערב הפסח דזמנה בהול אי נמי שאני תרומה דאיקרי עבודה ועבודה רחמנא</row>
+		<row row_number="44" isdata="1">אכשר דתנן היה עומד ומקריב ונודע שהוא בן גרושה או בן חלוצה כל</row>
+		<row row_number="45" isdata="1">הקרבנות כולן שהקריב על גבי המזבח פסולין ור' יהושע מכשיר ואמרינן מ"ט</row>
+		<row row_number="46" isdata="1">דר' יהושע דכתיב ברך ה' חילו ופועל ידיו תרצה ותרומה היכא איקרי עבודה</row>
+		<row row_number="47" isdata="1">דתניא מעשה בר' טרפון שלא בא אמש לביהמ"ד לשחרית מצאו רבן גמליאל</row>
+		<row row_number="48" isdata="1">אמר לו מפני מה לא באת אמש לבית המדרש אמר לו עבודה עבדתי אמר לו</row>
+		<row row_number="49" isdata="1">כל דבריך אינן אלא דברי תימה וכי עבודה בזמן הזה מנין אמר לו הרי הוא אומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

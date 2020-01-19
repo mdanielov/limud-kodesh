@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:39.574707</dateCreated>
+   <lastModified>2020-01-14 15:03:39.574707</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="9">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "דיני ממונות"/><ContGemara/>דאתרו ביה מלקות ולא אתרו ביה קטלא</row>
+		<row row_number="2" isdata="1">וקמיפלגי בפלוגתא דרבי ישמעאל ורבנן</row>
+		<row row_number="3" isdata="1">דתנן מכות בשלשה משום רבי ישמעאל</row>
+		<row row_number="4" isdata="1">אמרו בעשרים ושלשה רבינא אמר כגון</row>
+		<row row_number="5" isdata="1">שנמצא אחד מן העדים קרוב או פסול</row>
+		<row row_number="6" isdata="1">וקמיפלגי בפלוגתא דרבי יוסי ורבי אליבא</row>
+		<row row_number="7" isdata="1">דר' עקיבא דתנן רבי עקיבא אומר לא בא</row>
+		<row row_number="8" isdata="1">שלישי אלא להחמיר עליו לעשות דינו</row>
+		<row row_number="9" isdata="1">כיוצא באלו א"כ ענש הכתוב את הניטפל</row>
+		<row row_number="10" isdata="1">לעוברי עבירה כעוברי עבירה על אחת</row>
+		<row row_number="11" isdata="1">כמה וכמה שישלם שכר את הניטפל</row>
+		<row row_number="12" isdata="1">לעושה מצוה כעושה מצוה ומה שנים</row>
+		<row row_number="13" isdata="1">נמצא אחד מהן קרוב או פסול עדותן</row>
+		<row row_number="14" isdata="1">בטלה אף שלשה נמצא אחד מהן קרוב</row>
+		<row row_number="15" isdata="1">או פסול עדותן בטלה ומניין שאפי' מאה ת"ל</row>
+		<row row_number="16" isdata="1">עדים א"ר יוסי בד"א בדיני נפשות אבל בדיני</row>
+		<row row_number="17" isdata="1">ממונות תתקיים עדות בשאר רבי אומר אחד</row>
+		<row row_number="18" isdata="1">דיני ממונות ואחד דיני נפשות ואימתי בזמן</row>
+		<row row_number="19" isdata="1">שהתרו בהן אבל בזמן שלא התרו בהן</row>
+</amud>
+</daf>
+</masechet>
+</root>

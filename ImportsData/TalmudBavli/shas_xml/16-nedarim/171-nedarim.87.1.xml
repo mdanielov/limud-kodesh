@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.894006</dateCreated>
+   <lastModified>2020-01-14 15:03:02.894006</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="87">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContGemara/>והא גבי קרעים דכתיב על על דכתיב על</row>
+		<row row_number="2" isdata="1">שאול ועל יהונתן בנו ותניא אמרו לו מת</row>
+		<row row_number="3" isdata="1">אביו וקרע ואחר כך נמצא בנו יצא ידי</row>
+		<row row_number="4" isdata="1">קריעה אמרי לא קשיא הא בסתם והא</row>
+		<row row_number="5" isdata="1">במפרש והתניא אמרו לו מת אביו וקרע</row>
+		<row row_number="6" isdata="1">ואחר כך נמצא בנו לא יצא ידי קריעה</row>
+		<row row_number="7" isdata="1">אמרו לו מת לו מת וכסבור אביו הוא</row>
+		<row row_number="8" isdata="1">וקרע ואחר כך נמצא בנו יצא ידי קריעה רב</row>
+		<row row_number="9" isdata="1">אשי אמר כאן בתוך כדי דבור כאן לאחר</row>
+		<row row_number="10" isdata="1">כדי דבור הא דקאמרת יצא ידי קריעה</row>
+		<row row_number="11" isdata="1">שנמצא בנו בתוך כדי דבור הא דאמרת</row>
+		<row row_number="12" isdata="1">לא יצא ידי קריעה לאחר כדי דבור והתניא</row>
+		<row row_number="13" isdata="1">מי שיש לו חולה בתוך ביתו ונתעלף</row>
+		<row row_number="14" isdata="1">וכמדומה שמת וקרע ואחר כך מת לא יצא</row>
+		<row row_number="15" isdata="1">ידי קריעה אמר ר' שמעון בן פזי אמר רבי</row>
+		<row row_number="16" isdata="1">יהושע בן לוי משום בר קפרא לא שנו אלא</row>
+		<row row_number="17" isdata="1">שמת לאחר כדי דיבור אבל בתוך כדי</row>
+		<row row_number="18" isdata="1">דיבור כדבור דמי והילכתא תוך כדי</row>
+		<row row_number="19" isdata="1">דבור כדבור דמי חוץ ממגדף ועובד עבודת כוכבים ומקדש ומגרש:</row>
+		<row row_number="20" isdata="1"><EndGemara/><StartMishna/>מתני' אמרה קונם תאנים וענבים אלו שאני טועמת קיים לתאנים</row>
+		<row row_number="21" isdata="1">כולו קיים הפר לתאנים אינו מופר עד שיפר אף לענבים אמרה קונם</row>
+		<row row_number="22" isdata="1">תאנה שאני טועמת וענבה שאני טועמת הרי אלו שני נדרים:</row>
+		<row row_number="23" isdata="1"><EndMishna/><StartGemara/>גמ' מני מתניתין רבי ישמעאל דתניא אישה יקימנו ואישה יפרנו</row>
+		<row row_number="24" isdata="1">אמרה קונם תאנים וענבים אלו שאני טועמת קיים לתאנים כולו קיים</row>
+</amud>
+</daf>
+</masechet>
+</root>

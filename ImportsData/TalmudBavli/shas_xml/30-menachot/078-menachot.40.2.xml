@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:05.254328</dateCreated>
+   <lastModified>2020-01-14 15:04:05.254328</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="40">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "התכלת"/><ContGemara/>חמץ בפסח ויוה"כ דכרת סמכינן אדיסקי</row>
+		<row row_number="2" isdata="1">הכא דעשה בעלמא לא כל שכן אלא אמר</row>
+		<row row_number="3" isdata="1">רבא הא מילתא אמרי ואיתמר במערבא</row>
+		<row row_number="4" isdata="1">משום דרבי זירא כוותי שמא יקרע סדינו</row>
+		<row row_number="5" isdata="1">בתוך ג' ויתפרנו והתורה אמרה תעשה ולא</row>
+		<row row_number="6" isdata="1">מן העשוי שרא רבי זירא לסדיניה רב זירא</row>
+		<row row_number="7" isdata="1">אמר גזירה נמי משום כסות לילה ואמר</row>
+		<row row_number="8" isdata="1">רבא הא מילתא אמרי ואיתמר במערבא</row>
+		<row row_number="9" isdata="1">משמיה דר' זירא כוותי היא של בגד וכנפיה</row>
+		<row row_number="10" isdata="1">של עור חייבת היא של עור וכנפיה של בגד</row>
+		<row row_number="11" isdata="1">פטורה מאי טעמא עיקר בגד בעינן רב</row>
+		<row row_number="12" isdata="1">אחאי אזיל בתר כנף אמר רבא אמר רב</row>
+		<row row_number="13" isdata="1">סחורה אמר רב הונא הטיל לבעלת שלש</row>
+		<row row_number="14" isdata="1">והשלימה לארבע פסולה [משום] תעשה ולא</row>
+		<row row_number="15" isdata="1">מן העשוי מיתיבי חסידים הראשונים כיון</row>
+		<row row_number="16" isdata="1">שארגו בה ג' היו מטילין לה תכלת אימא</row>
+		<row row_number="17" isdata="1">כיון שפצעו בה ג' היו מטילין לה תכלת</row>
+		<row row_number="18" isdata="1">ומי אמרינן תעשה ולא מן העשוי (איני)</row>
+		<row row_number="19" isdata="1">והאמר ר' זירא הטיל למוטלת כשרה</row>
+		<row row_number="20" isdata="1">אמר רבא השתא בבל תוסיף קאי מעשה</row>
+		<row row_number="21" isdata="1">לא הוי מתקיף לה רב פפא ממאי דגברא</row>
+		<row row_number="22" isdata="1">לאוסופי קא מיכוין דלמא לבטולי קא מיכוין</row>
+		<row row_number="23" isdata="1">ובל תוסיף ליכא מעשה איכא אמר ר' זירא</row>
+		<row row_number="24" isdata="1">אמר רב מתנא אמר שמואל תכלת אין</row>
+		<row row_number="25" isdata="1">בה משום כלאים ואפי' בטלית פטורה מאי</row>
+		<row row_number="26" isdata="1">טלית פטורה אילימא דלית בה שיעורא</row>
+		<row row_number="27" isdata="1">והתניא טלית שהקטן מתכסה בו ראשו ורובו</row>
+</amud>
+</daf>
+</masechet>
+</root>

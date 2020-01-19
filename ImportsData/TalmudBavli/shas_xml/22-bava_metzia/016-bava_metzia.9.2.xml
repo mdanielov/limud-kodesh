@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:23.632830</dateCreated>
+   <lastModified>2020-01-14 15:03:23.632830</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="9">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שנים אוחזין"/><ContGemara/>אי רשות הרבים הוא קני ואי אדם חשוב</row>
+		<row row_number="2" isdata="1">הוא קני ואי אשה היא קניא ואי איניש זילא</row>
+		<row row_number="3" isdata="1">הוא קני בעי ר' אלעזר האומר לחבירו משוך</row>
+		<row row_number="4" isdata="1">בהמה זו לקנות כלים שעליה מהו לקנות</row>
+		<row row_number="5" isdata="1">מי אמר ליה קני אלא משוך בהמה זו וקני</row>
+		<row row_number="6" isdata="1">כלים שעליה מהו מי מהניא משיכה דבהמה</row>
+		<row row_number="7" isdata="1">לאקנויי כלים או לא אמר רבא אי אמר ליה</row>
+		<row row_number="8" isdata="1">קני בהמה וקני כלים מי קני כלים חצר</row>
+		<row row_number="9" isdata="1">מהלכת היא וחצר מהלכת לא קנה וכי תימא</row>
+		<row row_number="10" isdata="1">כשעמדה והא כל שאילו מהלך לא קנה</row>
+		<row row_number="11" isdata="1">עומד ויושב לא קנה והלכתא בכפותה אמרו</row>
+		<row row_number="12" isdata="1">ליה רב פפא ורב הונא בריה דרב יהושע</row>
+		<row row_number="13" isdata="1">לרבא אלא מעתה היה מהלך בספינה וקפצו</row>
+		<row row_number="14" isdata="1">דגים ונפלו לתוך הספינה הכי נמי דחצר</row>
+		<row row_number="15" isdata="1">מהלכת היא ולא קני אמר ליה ספינה מינח</row>
+		<row row_number="16" isdata="1">נייחא ומיא הוא דקא ממטו לה א"ל רבינא</row>
+		<row row_number="17" isdata="1">לרב אשי אלא מעתה היתה מהלכת ברשות</row>
+		<row row_number="18" isdata="1">הרבים וזרק לה גט לתוך חיקה או לתוך</row>
+		<row row_number="19" isdata="1">קלתה הכא נמי דלא מגרשה א"ל קלתה</row>
+		<row row_number="20" isdata="1">מינח נייחא ואיהי דקא מסגיא מתותה:</row>
+		<row row_number="21" isdata="1"><EndGemara/><StartMishna/>מתני' היה רוכב על גבי בהמה וראה את</row>
+		<row row_number="22" isdata="1">המציאה ואמר לחבירו תנה לי נטלה ואמר</row>
+		<row row_number="23" isdata="1">אני זכיתי בה זכה בה אם משנתנה לו אמר</row>
+		<row row_number="24" isdata="1">אני זכיתי בה תחלה לא אמר כלום:<EndMishna/><StartGemara/>גמ' תנן</row>
+		<row row_number="25" isdata="1">התם מי שליקט את הפאה ואמר הרי זו לפלוני</row>
+		<row row_number="26" isdata="1">עני ר' אליעזר אומר זכה לו וחכמים אומרים</row>
+		<row row_number="27" isdata="1">יתננה לעני הנמצא ראשון אמר עולא אמר</row>
+		<row row_number="28" isdata="1">ר' יהושע בן לוי מחלוקת מעשיר לעני דר'</row>
+		<row row_number="29" isdata="1">אליעזר סבר מגו דאי בעי מפקר נכסיה והוי</row>
+		<row row_number="30" isdata="1">עני וחזי ליה השתא נמי חזי ליה ומגו דזכי</row>
+		<row row_number="31" isdata="1">לנפשיה זכי נמי לחבריה ורבנן סברי חד</row>
+		<row row_number="32" isdata="1">מגו אמרינן תרי מגו לא אמרינן אבל מעני</row>
+		<row row_number="33" isdata="1">לעני דברי הכל זכה לו דמגו דזכי לנפשיה</row>
+		<row row_number="34" isdata="1">זכי נמי לחבריה אמר ליה רב נחמן לעולא</row>
+		<row row_number="35" isdata="1">ולימא מר מעני לעני מחלוקת דהא מציאה</row>
+		<row row_number="36" isdata="1">הכל עניים אצלה ותנן היה רוכב על גבי</row>
+		<row row_number="37" isdata="1">בהמה וראה את המציאה ואמר לחבירו</row>
+		<row row_number="38" isdata="1">תנה לי נטלה ואמר אני זכיתי בה זכה</row>
+		<row row_number="39" isdata="1">בה אי אמרת בשלמא מעני לעני מחלוקת</row>
+</amud>
+</daf>
+</masechet>
+</root>

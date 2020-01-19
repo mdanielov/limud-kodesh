@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:14.309256</dateCreated>
+   <lastModified>2020-01-14 15:04:14.309256</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="73">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContGemara/>כחתוך דמי כמאן כרבי מאיר דתנן כל ידות</row>
+		<row row_number="2" isdata="1">הכלים שהן ארוכות ועתיד לקצצן מטביל עד</row>
+		<row row_number="3" isdata="1">מקום מדה (דברי ר"מ וחכמים אומרים) עד</row>
+		<row row_number="4" isdata="1">שיטביל את כולו אפילו תימא רבנן חבורי</row>
+		<row row_number="5" isdata="1">אוכלין כמאן דמפרתי דמי ונגיעי בהדדי</row>
+		<row row_number="6" isdata="1">בשלמא לעולא היינו דקתני חתכה אלא</row>
+		<row row_number="7" isdata="1">לרבינא מאי חתכה איידי דתנא רישא חתכה</row>
+		<row row_number="8" isdata="1">תנא נמי סיפא חתכה: וחכמים אומרים מגע</row>
+		<row row_number="9" isdata="1">טרפה שחוטה: טרפה שחוטה מי מטמיא אין</row>
+		<row row_number="10" isdata="1">כדאבוה דשמואל דאמר אבוה דשמואל</row>
+		<row row_number="11" isdata="1">טרפה ששחטה מטמאה במוקדשין: מה</row>
+		<row row_number="12" isdata="1">מצינו בטרפה ששחיטתה מטהרתה אף</row>
+		<row row_number="13" isdata="1">שחיטת בהמה תטהר את העובר: תניא</row>
+		<row row_number="14" isdata="1">אמר להן רבי מאיר וכי מי טיהרו לאבר זה</row>
+		<row row_number="15" isdata="1">מידי נבלה שחיטת אמו א"כ תתירנו באכילה</row>
+		<row row_number="16" isdata="1">אמרו לו הרבה מצלת על שאינו גופה יותר</row>
+		<row row_number="17" isdata="1">מגופה שהרי שנינו חותך מן העובר</row>
+		<row row_number="18" isdata="1">שבמעיה מותר באכילה מן הטחול ומן</row>
+		<row row_number="19" isdata="1">הכליות אסור באכילה מאי קאמר אמר רבא</row>
+		<row row_number="20" isdata="1">ואמרי לה כדי חסורי מחסרא והכי קתני</row>
+		<row row_number="21" isdata="1">אמר להן ר' מאיר וכי מי טהרו לאבר זה מידי</row>
+		<row row_number="22" isdata="1">נבלה שחיטת אמו אם כן תתירנו באכילה</row>
+		<row row_number="23" isdata="1">אמרו לו טרפה תוכיח ששחיטתה מטהרתה</row>
+		<row row_number="24" isdata="1">מידי נבלה ואינה מתירתה באכילה אמר</row>
+		<row row_number="25" isdata="1">להן לא אם טיהרה שחיטת טרפה אותה</row>
+		<row row_number="26" isdata="1">דבר שהיא גופה תטהר את האבר דבר</row>
+		<row row_number="27" isdata="1">שאינו גופה אמרו לו הרבה מצלת על שאינו</row>
+		<row row_number="28" isdata="1">גופה יותר מגופה שהרי שנינו חותך מן</row>
+		<row row_number="29" isdata="1">העובר שבמעיה מותר באכילה מן הטחול</row>
+		<row row_number="30" isdata="1">ומן הכליות אסור באכילה תניא נמי הכי</row>
+		<row row_number="31" isdata="1">אמר להן רבי מאיר וכי מי טיהרו לאבר זה</row>
+		<row row_number="32" isdata="1">מידי נבלה אמרו לו שחיטת אמו א"כ תתירנו באכילה אמרו לו טרפה תוכיח</row>
+		<row row_number="33" isdata="1">ששחיטתה מטהרתה מידי נבלה ואינה מתירתה באכילה אמר להן אם</row>
+		<row row_number="34" isdata="1">טיהרה שחיטת טרפה אותה ואת האבר המדולדל בה דבר שגופה תטהר את</row>
+		<row row_number="35" isdata="1">העובר שאינו גופה אמרו לו הרבה מצלת על שאינו גופה יותר מגופה שהרי</row>
+		<row row_number="36" isdata="1">שנינו חותך מן העובר שבמעיה מותר באכילה מן הטחול ומן הכליות אסור</row>
+		<row row_number="37" isdata="1">באכילה אמר רשב"ל כמחלוקת בעוברין כך מחלוקת באיברין ורבי יוחנן אמר</row>
+		<row row_number="38" isdata="1">מחלוקת באבר דעובר אבל באבר דבהמה דברי הכל שחיטה עושה ניפול א"ר</row>
+		<row row_number="39" isdata="1">יוסי בר' חנינא מ"ט דר' יוחנן אליבא דרבנן האי אית ליה תקנתא בחזרה והא</row>
+		<row row_number="40" isdata="1">לית ליה תקנתא בחזרה מיתיבי אמר להם ר' מאיר לא אם טיהרה שחיטת טרפה</row>
+		<row row_number="41" isdata="1">אותה ואת האבר המדולדל בה דבר שגופה תטהר את העובר דבר שאינו גופה</row>
+</amud>
+</daf>
+</masechet>
+</root>

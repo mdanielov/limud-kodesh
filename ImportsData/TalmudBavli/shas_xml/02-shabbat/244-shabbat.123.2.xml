@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:15.916437</dateCreated>
+   <lastModified>2020-01-14 15:02:15.916437</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="123">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הכלים"/><ContGemara/>אפיקטויזין בשבת ורב ששת התם לאו</row>
+		<row row_number="2" isdata="1">אורחיה הכא אורחיה אמר רב ששת מנא</row>
+		<row row_number="3" isdata="1">אמינא לה דתנן מחט של יד ליטול בה את</row>
+		<row row_number="4" isdata="1">הקוץ ורב נחמן התם פקיד הכא לא פקיד:</row>
+		<row row_number="5" isdata="1"><EndGemara/><StartMishna/>מתני' קנה של זיתים אם יש קשר בראשו</row>
+		<row row_number="6" isdata="1">מקבל טומאה ואם לאו אין מקבל טומאה</row>
+		<row row_number="7" isdata="1">בין כך ובין כך ניטל בשבת:<EndMishna/><StartGemara/>גמ' אמאי</row>
+		<row row_number="8" isdata="1">פשוטי כלי עץ הוא ופשוטי כלי עץ אינן</row>
+		<row row_number="9" isdata="1">מקבלין טומאה מ"ט דומיא דשק בעינן תנא</row>
+		<row row_number="10" isdata="1">משמיה דר' נחמיה בשעה שמהפך בזיתים</row>
+		<row row_number="11" isdata="1">הופכו ורואה בו<EndGemara/><StartMishna/>מתני' ר' יוסי אומר</row>
+		<row row_number="12" isdata="1">כל הכלים ניטלין חוץ מן המסר הגדול</row>
+		<row row_number="13" isdata="1">ויתד של מחרישה:<EndMishna/><StartGemara/>גמ' אמר ר"נ האי</row>
+		<row row_number="14" isdata="1">אוכלא דקצרי כיתד של מחרישה דמיא</row>
+		<row row_number="15" isdata="1">אמר אביי חרבא דאושכפי וסכינא דאשכבתא</row>
+		<row row_number="16" isdata="1">וחצינא דנגרי כיתד של מחרישה דמי ת"ר</row>
+		<row row_number="17" isdata="1">בראשונה היו אומרים שלשה כלים ניטלין</row>
+		<row row_number="18" isdata="1">בשבת מקצוע של דבילה וזוהמא ליסטרן</row>
+		<row row_number="19" isdata="1">של קדרה וסכין קטנה שעל גבי שלחן</row>
+		<row row_number="20" isdata="1">התירו וחזרו והתירו וחזרו והתירו עד שאמרו</row>
+		<row row_number="21" isdata="1">כל הכלים ניטלין בשבת חוץ מן מסר</row>
+		<row row_number="22" isdata="1">הגדול ויתד של מחרישה מאי התירו וחזרו</row>
+		<row row_number="23" isdata="1">והתירו וחזרו והתירו אמר אביי התירו דבר שמלאכתו להיתר לצורך גופו</row>
+		<row row_number="24" isdata="1">וחזרו והתירו דבר שמלאכתו להיתר לצורך מקומו וחזרו והתירו דבר שמלאכתו</row>
+		<row row_number="25" isdata="1">לאיסור לצורך גופו אין לצורך מקומו לא ועדיין בידו אחת אין בשתי ידיו לא עד</row>
+		<row row_number="26" isdata="1">שאמרו כל הכלים ניטלין בשבת ואפי' בשתי ידים א"ל רבא מכדי התירו קתני</row>
+		<row row_number="27" isdata="1">מה לי לצורך גופו מה לי לצורך מקומו אלא אמר רבא התירו דבר שמלאכתו</row>
+		<row row_number="28" isdata="1">להיתר בין לצורך גופו ובין לצורך מקומו וחזרו והתירו מחמה לצל וחזרו והתירו</row>
+		<row row_number="29" isdata="1">דבר שמלאכתו לאיסור לצורך גופו ולצורך מקומו אין מחמה לצל לא ועדיין</row>
+		<row row_number="30" isdata="1">באדם אחד אין בשני בני אדם לא עד שאמרו כל הכלים ניטלין בשבת אפילו</row>
+		<row row_number="31" isdata="1">בשני בני אדם איתיביה אביי מדוכה אם יש בה שום מטלטלין אותה ואם לאו</row>
+		<row row_number="32" isdata="1">אין מטלטלין אותה הכא במאי עסקינן מחמה לצל איתיביה ושוין שאם קצב</row>
+		<row row_number="33" isdata="1">עליו בשר שאסור לטלטלו הכא נמי מחמה לצל אמר ר' חנינא בימי נחמיה</row>
+		<row row_number="34" isdata="1">בן חכליה נשנית משנה זו דכתיב בימים ההמה ראיתי ביהודה דורכים גתות</row>
+		<row row_number="35" isdata="1">בשבת ומביאים הערימות אמר ר' אלעזר קנין ומקלות גלוסטרא ומדוכה כולן</row>
+		<row row_number="36" isdata="1">קודם התרת כלים נשנו קנין דתנן לא סידור הקנין ולא נטילתן דוחה את השבת</row>
+		<row row_number="37" isdata="1">מקלות דתנן מקלות דקין חלקין היו שם ומניחו על כתפו ועל כתף חבירו</row>
+		<row row_number="38" isdata="1">ותולה ומפשיט ( אמר) רבי אלעזר ארבעה עשר שחל להיות בשבת מניח</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:05.733182</dateCreated>
+   <lastModified>2020-01-14 15:03:05.733182</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="50">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כהן גדול"/><ContGemara/>ב"ש אומרים אף המקפה של גריסין ושל פול</row>
+		<row row_number="2" isdata="1">מפני שהיא סולדת לאחוריה בעי רמי בר</row>
+		<row row_number="3" isdata="1">חמא יש נצוק לאוכלין או אין נצוק לאוכלין</row>
+		<row row_number="4" isdata="1">מי אמרינן משום דאית בהו רירי והני לית</row>
+		<row row_number="5" isdata="1">בהו רירי או דלמא משום דסמיכין הוא והכא</row>
+		<row row_number="6" isdata="1">הא סמיכין אמר רבא ת"ש חלב המת</row>
+		<row row_number="7" isdata="1">שהוא שלם והתיכו טמא היה מפורד והתיכו</row>
+		<row row_number="8" isdata="1">טהור ואי סלקא דעתך אין נצוק לאוכלין</row>
+		<row row_number="9" isdata="1">שלם והתיכו נמי ליטהר א"ר זירא אנא ומר</row>
+		<row row_number="10" isdata="1">בריה דרבינא תרגימנא הכא במאי עסקינן</row>
+		<row row_number="11" isdata="1">כגון דבהדי דמרתח ליה סליק עמודא דנורא</row>
+		<row row_number="12" isdata="1">לפומיה דמנא וקרש דאיתיה כולא גבי הדדי</row>
+		<row row_number="13" isdata="1">א"ל רבינא לרב אשי ת"ש ב"ש אומרים אף</row>
+		<row row_number="14" isdata="1">המקפה של גריסין ושל פול מפני שהן סולדין</row>
+		<row row_number="15" isdata="1">לאחוריהן מידי איריא התם משום דסמיכין</row>
+		<row row_number="16" isdata="1">הכא משום רירי: ועל מלא תרווד רקב:</row>
+		<row row_number="17" isdata="1">וכמה שיעורו חזקיה אמר מלא פיסת היד</row>
+		<row row_number="18" isdata="1">רבי יוחנן אמר מלא חפניו תנן מלא תרווד</row>
+		<row row_number="19" isdata="1">רקב שאמרו ישנן מעיקר אצבעות ולמעלה</row>
+		<row row_number="20" isdata="1">דברי ר"מ וחכ"א מלא חפניו בשלמא ר' יוחנן</row>
+		<row row_number="21" isdata="1">הוא דאמר כרבנן אלא חזקיה כמאן לא כר"מ</row>
+		<row row_number="22" isdata="1">ולא כרבנן אמרי מלא פיסת היד ומלא קשרי</row>
+		<row row_number="23" isdata="1">אצבעותיו למעלה חד שיעורא הוא אמר ליה</row>
+		<row row_number="24" isdata="1">רב שימי בר אדא לרב פפא ממאי דהאי</row>
+		<row row_number="25" isdata="1">מקשרי אצבעותיו ולמעלה לראש דלמא</row>
+		<row row_number="26" isdata="1">למטה מדידיה דהוה לי' מלא פיסת היד תיקו:</row>
+</amud>
+</daf>
+</masechet>
+</root>

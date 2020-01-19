@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:13.070174</dateCreated>
+   <lastModified>2020-01-14 15:04:13.070174</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="47">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>ואמר רבא הני תרתי בועי דסמיכי להדדי</row>
+		<row row_number="2" isdata="1">לית להו בדיקותא חדא ומתחזיא כתרתי</row>
+		<row row_number="3" isdata="1">מייתינן סילוא ובזעינן לה אי שפכן להדדי</row>
+		<row row_number="4" isdata="1">חדא היא וכשרה ואי לא תרתי נינהו</row>
+		<row row_number="5" isdata="1">וטרפה ואמר רבא ה' אוני אית לה לריאה</row>
+		<row row_number="6" isdata="1">אפה כלפי גברא תלתא מימינא ותרתי</row>
+		<row row_number="7" isdata="1">משמאלא חסיר או יתיר או חליף טרפה</row>
+		<row row_number="8" isdata="1">ההוא יתירתא דאתאי לקמיה דמרימר הוה</row>
+		<row row_number="9" isdata="1">יתיב רב אחא אבבא א"ל מאי אמר לך</row>
+		<row row_number="10" isdata="1">א"ל אכשרה ניהלה א"ל הדר עיילה קמיה</row>
+		<row row_number="11" isdata="1">א"ל זיל אימא ליה למאן דיתיב אבבא לית</row>
+		<row row_number="12" isdata="1">הלכתא כוותיה דרבא ביתרת והני מילי</row>
+		<row row_number="13" isdata="1">דקיימא בדרא דאוני אבל ביני ביני טרפה</row>
+		<row row_number="14" isdata="1">ההוא ביני ביני דאתא לקמיה דרב אשי סבר</row>
+		<row row_number="15" isdata="1">רב אשי למיטרפה א"ל רב הונא מר בר אויא</row>
+		<row row_number="16" isdata="1">כל הני חיוי ברייתא הכי אית להו וקרו</row>
+		<row row_number="17" isdata="1">לה טבחי עינוניתא דוורדא והני מילי מגואי</row>
+</amud>
+</daf>
+</masechet>
+</root>

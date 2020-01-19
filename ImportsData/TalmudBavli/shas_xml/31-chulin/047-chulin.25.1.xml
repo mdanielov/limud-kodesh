@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:12.041328</dateCreated>
+   <lastModified>2020-01-14 15:04:12.041328</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="25">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>ואפילו מלא חרדל א"ל רב אדא בר אהבה</row>
+		<row row_number="2" isdata="1">לרבא ויהא כלי חרס מיטמא מגבו מק"ו ומה</row>
+		<row row_number="3" isdata="1">כל הכלים שאין מיטמאין מאוירן מיטמאין</row>
+		<row row_number="4" isdata="1">מגבן כלי חרס שמיטמא מאוירו אינו דין</row>
+		<row row_number="5" isdata="1">שיטמא מגבו אמר קרא וכל כלי פתוח אשר</row>
+		<row row_number="6" isdata="1">אין צמיד פתיל עליו איזהו כלי שטומאתו</row>
+		<row row_number="7" isdata="1">קודמת לפתחו הוי אומר זה כלי חרס וכי אין</row>
+		<row row_number="8" isdata="1">צמיד פתיל עליו הוא דטמא הא יש צמיד</row>
+		<row row_number="9" isdata="1">פתיל עליו טהור ויהיו כל הכלים מיטמאין</row>
+		<row row_number="10" isdata="1">מאוירן מק"ו ומה כלי חרס שאין מיטמא מגבו</row>
+		<row row_number="11" isdata="1">מיטמא מאוירו כל הכלים שמיטמאין מגבן</row>
+		<row row_number="12" isdata="1">אינו דין שמיטמאין מאוירן אמר קרא תוכו</row>
+		<row row_number="13" isdata="1">תוכו של זה ולא תוכו של אחר והני תוכו</row>
+		<row row_number="14" isdata="1">הא דרשינהו ארבעה תוכו כתיבי תוכו תוך</row>
+		<row row_number="15" isdata="1">תוכו תוך חד לגופיה וחד לג"ש וחד תוכו</row>
+		<row row_number="16" isdata="1">של זה ולא תוכו של אחר וחד תוכו ולא</row>
+		<row row_number="17" isdata="1">תוך תוכו ואפילו כלי שטף ולא יהו כל</row>
+		<row row_number="18" isdata="1">הכלים מיטמאין מגבן אלא מתוכן ובנגיעה</row>
+		<row row_number="19" isdata="1">מק"ו ומה כלי חרס שמיטמא מאוירו אינו</row>
+		<row row_number="20" isdata="1">מיטמא מגבו כל הכלים שאין מיטמאין</row>
+		<row row_number="21" isdata="1">מאוירן אינו דין שאין מיטמאין מגבן אמר</row>
+		<row row_number="22" isdata="1">קרא וכל כלי פתוח אשר אין צמיד פתיל</row>
+		<row row_number="23" isdata="1">עליו טמא הוא האי הוא דכי אין צמיד פתיל</row>
+		<row row_number="24" isdata="1">עליו טמא הא יש צמיד פתיל עליו טהור הא</row>
+		<row row_number="25" isdata="1">כל הכלים בין שיש צמיד פתיל עליהם בין</row>
+		<row row_number="26" isdata="1">שאין צמיד פתיל עליהם מיטמאין<EndGemara/><StartMishna/>מתני'</row>
+		<row row_number="27" isdata="1">טהור בכלי עץ טמא בכלי מתכות טהור</row>
+		<row row_number="28" isdata="1">בכלי מתכות טמא בכלי עץ:<EndMishna/><StartGemara/>גמ' תנו</row>
+		<row row_number="29" isdata="1">רבנן גולמי כלי עץ טמאין פשוטיהן</row>
+		<row row_number="30" isdata="1">טהורין גולמי כלי מתכות טהורין</row>
+		<row row_number="31" isdata="1">פשוטיהן טמאין נמצא טהור בכלי עץ</row>
+		<row row_number="32" isdata="1">טמא בכלי מתכות טהור בכלי מתכות</row>
+		<row row_number="33" isdata="1">טמא בכלי עץ ואלו הן גולמי כלי עץ</row>
+		<row row_number="34" isdata="1">כל שעתיד לשוף לשבץ לגרר לכרכב</row>
+		<row row_number="35" isdata="1">להטיח בטונס מחוסר כן או אוגן או אוזן</row>
+		<row row_number="36" isdata="1">טמא מחוסר חטיטה טהור מחוסר חטיטה</row>
+		<row row_number="37" isdata="1">פשיטא לא צריכא דחק קפיזא בקבא</row>
+		<row row_number="38" isdata="1">ואלו הן גולמי כלי מתכות כל שעתיד</row>
+</amud>
+</daf>
+</masechet>
+</root>

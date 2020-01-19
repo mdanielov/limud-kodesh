@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:24.896018</dateCreated>
+   <lastModified>2020-01-14 15:03:24.896018</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="38">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המפקיד"/><ContGemara/>והא טעמא דרבי יוסי משום הפסד הרמאי</row>
+		<row row_number="2" isdata="1">הוא אלא תרוייהו לרבנן איצטריך ולא זו</row>
+		<row row_number="3" isdata="1">אף זו קתני<EndGemara/><StartMishna/>מתני' המפקיד פירות</row>
+		<row row_number="4" isdata="1">אצל חבירו אפילו הן אבודין לא יגע בהן</row>
+		<row row_number="5" isdata="1">רשב"ג אומר מוכרן בפני ב"ד מפני שהוא</row>
+		<row row_number="6" isdata="1">כמשיב אבידה לבעלים:<EndMishna/><StartGemara/>גמ' מאי טעמא</row>
+		<row row_number="7" isdata="1">אמר רב כהנא אדם רוצה בקב שלו</row>
+		<row row_number="8" isdata="1">מתשעה קבים של חבירו ורב נחמן בר</row>
+		<row row_number="9" isdata="1">יצחק אמר חיישינן שמא עשאן המפקיד</row>
+		<row row_number="10" isdata="1">תרומה ומעשר על מקום אחר מיתיבי</row>
+		<row row_number="11" isdata="1">המפקיד פירות אצל חבירו הרי זה לא יגע</row>
+		<row row_number="12" isdata="1">בהן לפיכך בעל הבית עושה אותן תרומה</row>
+		<row row_number="13" isdata="1">ומעשר על מקום אחר בשלמא לרב כהנא</row>
+		<row row_number="14" isdata="1">היינו דקתני לפיכך אלא לרב נחמן בר</row>
+		<row row_number="15" isdata="1">יצחק מאי לפיכך הכי קאמר השתא דאמור</row>
+		<row row_number="16" isdata="1">רבנן לא נזבין דחיישינן לפיכך בעל הבית</row>
+		<row row_number="17" isdata="1">עושה אותן תרומה ומעשר על מקום</row>
+		<row row_number="18" isdata="1">אחר אמר רבה בר בר חנה א"ר יוחנן</row>
+		<row row_number="19" isdata="1">מחלוקת בכדי חסרונן אבל יותר מכדי</row>
+		<row row_number="20" isdata="1">חסרונן דברי הכל מוכרן בב"ד אדרב</row>
+		<row row_number="21" isdata="1">נחמן בר יצחק ודאי פליגא אדרב כהנא</row>
+		<row row_number="22" isdata="1">מי לימא פליגא כי קאמר רב כהנא בכדי</row>
+		<row row_number="23" isdata="1">חסרונן קאמר והא רוצה בקב שלו מתשעה</row>
+		<row row_number="24" isdata="1">קבין של חבירו קאמר גוזמא בעלמא</row>
+		<row row_number="25" isdata="1">מיתיבי לפיכך בעה"ב עושה אותן תרומה</row>
+		<row row_number="26" isdata="1">ומעשר על מקום אחר וליחוש דלמא הוו</row>
+		<row row_number="27" isdata="1">להו יותר מכדי חסרונן וזבנינהו וקא אכיל</row>
+		<row row_number="28" isdata="1">טבלים יותר מכדי חסרונן לא שכיח ואי</row>
+		<row row_number="29" isdata="1">משתכחי מאי מזבנינן להו וליחוש שמא</row>
+		<row row_number="30" isdata="1">עשאן בעל הבית תרומה ומעשר על מקום</row>
+		<row row_number="31" isdata="1">אחר כי מזבנינן נמי לכהנים בדמי תרומה</row>
+		<row row_number="32" isdata="1">מזבנינן להו ולרב נחמן בר יצחק נמי</row>
+		<row row_number="33" isdata="1">נזבנינהו לכהנים בדמי תרומה בהא פליגי</row>
+		<row row_number="34" isdata="1">דרבה בר בר חנה סבר יותר מכדי חסרונן</row>
+		<row row_number="35" isdata="1">לא שכיח מידי וכי משתכח לקמיה הוא</row>
+		<row row_number="36" isdata="1">דהויא יתר מכדי חסרונן אי עביד להו בעה"ב</row>
+		<row row_number="37" isdata="1">תרומה ומעשר על מקום אחר מקמיה דהוו</row>
+		<row row_number="38" isdata="1">להו יותר מכדי חסרונן עביד להו הלכך</row>
+		<row row_number="39" isdata="1">כי הוו להו יותר מכדי חסרונן נזבנינהו</row>
+		<row row_number="40" isdata="1">לכהנים בדמי תרומה ורב נחמן בר יצחק</row>
+		<row row_number="41" isdata="1">סבר יתר מכדי חסרונן משכח שכיח וכי הוו</row>
+		<row row_number="42" isdata="1">להו לאלתר הוא דהוו להו ואי אמרת נזבנינהו</row>
+		<row row_number="43" isdata="1">זימנין דקדים ומזבין להו וכי עביד להו בעל</row>
+		<row row_number="44" isdata="1">הבית תרומה ומעשר על מקום אחר לא</row>
+		<row row_number="45" isdata="1">ידע דזבנא וקא אכיל טבלים מיתיבי</row>
+		<row row_number="46" isdata="1">המפקיד פירות אצל חבירו והרקיבו יין</row>
+		<row row_number="47" isdata="1">והחמיץ שמן והבאיש דבש והדביש הרי</row>
+		<row row_number="48" isdata="1">זה לא יגע בהן דברי ר"מ וחכמים אומרים</row>
+		<row row_number="49" isdata="1">עושה להם תקנה ומוכרן בבית דין וכשהוא</row>
+		<row row_number="50" isdata="1">מוכרן מוכרן לאחרים ואינו מוכרן לעצמו</row>
+		<row row_number="51" isdata="1">כיוצא בו גבאי צדקה בזמן שאין להם</row>
+		<row row_number="52" isdata="1">עניים לחלק פורטין לאחרים ואין פורטין</row>
+		<row row_number="53" isdata="1">לעצמן גבאי תמחוי בזמן שאין להם עניים</row>
+		<row row_number="54" isdata="1">לחלק מוכרין לאחרים ואין מוכרין לעצמן</row>
+		<row row_number="55" isdata="1">קתני מיהת פירות והרקיבו מאי לאו אפילו יתר מכדי חסרונן לא בכדי</row>
+		<row row_number="56" isdata="1">חסרונן והא יין והחמיץ שמן והבאיש דבש והדביש דיתר מכדי</row>
+		<row row_number="57" isdata="1">חסרונן נינהו שאני הני כיון דקם קם שמן והבאיש דבש והדביש</row>
+</amud>
+</daf>
+</masechet>
+</root>

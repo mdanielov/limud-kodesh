@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:24.980002</dateCreated>
+   <lastModified>2020-01-14 15:03:24.980002</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="40">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המפקיד"/><ContGemara/>וכן אמר רבה השביחו לאמצע א"ל אביי</row>
+		<row row_number="2" isdata="1">מי דמי התם גדולים גבי קטנים ידעי וקא</row>
+		<row row_number="3" isdata="1">מחלי הכא מי ידע דליחיל אגלגל מלתא</row>
+		<row row_number="4" isdata="1">ומטא לקמיה דרבי אמי אמר להו גדולה</row>
+		<row row_number="5" isdata="1">מזו אמרו שמין להם כאריס השתא דידיה</row>
+		<row row_number="6" isdata="1">לא יהבינן ליה אהדרוה הא לקמיה דרב</row>
+		<row row_number="7" isdata="1">חסדא אמר להו מי דמי התם ברשות נחית</row>
+		<row row_number="8" isdata="1">הכא לאו ברשות נחית ועוד קטן הוא ואין</row>
+		<row row_number="9" isdata="1">מורידין קרוב לנכסי קטן אהדרוה לקמיה</row>
+		<row row_number="10" isdata="1">דרבי אמי אמר להו לא סיימוה קמי דקטן</row>
+		<row row_number="11" isdata="1">הוא<EndGemara/><StartMishna/>מתני' המפקיד פירות אצל חבירו</row>
+		<row row_number="12" isdata="1">הרי זה יוציא לו חסרונות לחטים ולאורז</row>
+		<row row_number="13" isdata="1">תשעה חצאי קבין לכור לשעורין ולדוחן</row>
+		<row row_number="14" isdata="1">תשעה קבין לכור לכוסמין ולזרע פשתן</row>
+		<row row_number="15" isdata="1">שלש סאין לכור הכל לפי המדה והכל</row>
+		<row row_number="16" isdata="1">לפי הזמן א"ר יוחנן בן נורי וכי מה אכפת</row>
+		<row row_number="17" isdata="1">להן לעכברין והלא אוכלות בין מהרבה</row>
+		<row row_number="18" isdata="1">ובין מקמעא אלא אינו יוציא לו חסרונות</row>
+		<row row_number="19" isdata="1">אלא לכור אחד בלבד רבי יהודה אומר אם</row>
+		<row row_number="20" isdata="1">היתה מדה מרובה אינו מוציא לו חסרונות</row>
+		<row row_number="21" isdata="1">מפני שמותירות:<EndMishna/><StartGemara/>גמ' אורז טובא חסר</row>
+		<row row_number="22" isdata="1">אמר רבה בר בר חנה א"ר יוחנן באורז</row>
+		<row row_number="23" isdata="1">קלוף שנו: לכוסמין ולזרע פשתן ג' סאין</row>
+		<row row_number="24" isdata="1">לכור (וכו'): א"ר יוחנן א"ר חייא זרע פשתן</row>
+		<row row_number="25" isdata="1">בגבעולין שנו תניא נמי הכי לכוסמין ולזרע</row>
+		<row row_number="26" isdata="1">פשתן בגבעולין ולאורז שאינו קלוף שלשה</row>
+		<row row_number="27" isdata="1">סאין לכור: הכל לפי המדה וכו': תנא</row>
+		<row row_number="28" isdata="1">כן לכל כור וכור וכן לכל שנה ושנה:</row>
+		<row row_number="29" isdata="1">א"ר יוחנן בן נורי וכו': תניא אמרו לו</row>
+		<row row_number="30" isdata="1">לרבי יוחנן הרבה אובדות מהן הרבה</row>
+		<row row_number="31" isdata="1">מתפזרות מהן תנא בד"א שעירבן עם</row>
+		<row row_number="32" isdata="1">פירותיו אבל יחד לו קרן זוית אומר לו הרי</row>
+		<row row_number="33" isdata="1">שלך לפניך וכי עירבן עם פירותיו מאי הוי</row>
+		<row row_number="34" isdata="1">ליחזי לדידיה כמה הויין במסתפק מהם</row>
+		<row row_number="35" isdata="1">וליחזי כמה אסתפק דלא ידעי כמה</row>
+		<row row_number="36" isdata="1">אסתפק: ר"י אומר אם היתה וכו': כמה</row>
+		<row row_number="37" isdata="1">מדה מרובה אמר רבה בר בר חנה א"ר</row>
+		<row row_number="38" isdata="1">יוחנן עשרה כורין תניא נמי הכי כמה מדה מרובה עשרה כורין תני תנא</row>
+		<row row_number="39" isdata="1">קמיה דרב נחמן בד"א שמדד לו מתוך גורנו והחזיר לו מתוך גורנו</row>
+		<row row_number="40" isdata="1">אבל מדד לו מתוך גורנו והחזיר לו מתוך ביתו אינו יוציא לו חסרונות</row>
+		<row row_number="41" isdata="1">מפני שמותירות א"ל וכי בשופטני עסקינן דיהבי בכיילא רבא ושקלי</row>
+		<row row_number="42" isdata="1">בכיילא זוטא דלמא בימות הגורן קאמרת בד"א שמדד לו בימות הגורן</row>
+		<row row_number="43" isdata="1">והחזיר לו בימות הגורן אבל מדד לו בימות הגורן והחזיר לו בימות</row>
+		<row row_number="44" isdata="1">הגשמים אינו יוציא לו חסרון מפני שמותירות א"ל רב פפא לאביי א"כ</row>
+		<row row_number="45" isdata="1">לפקע כדא הוה עובדא ופקע כדא אבע"א משום איצצא<EndGemara/><StartMishna/>מתני' יוציא לו</row>
+		<row row_number="46" isdata="1">שתות ליין ר"י אומר חומש יוציא לו שלשה לוגין שמן למאה לוג</row>
+		<row row_number="47" isdata="1">ומחצה שמרים לוג ומחצה בלע אם היה שמן מזוקק אינו יוציא לו שמרים</row>
+		<row row_number="48" isdata="1">אם היו קנקנים ישנים אינו יוציא לו בלע ר"י אומר אף המוכר שמן</row>
+		<row row_number="49" isdata="1">מזוקק לחבירו כל ימות השנה הרי זה מקבל עליו לוג ומחצה שמרים</row>
+		<row row_number="50" isdata="1">למאה:<EndMishna/><StartGemara/>גמ' ולא פליגי מר כי אתריה ומר כי אתריה באתריה דמר חפו</row>
+		<row row_number="51" isdata="1">בקירא ולא מייץ טפי באתריה דמר חפו בכופרא ומייץ טפי איבעית אימא משום</row>
+		<row row_number="52" isdata="1">גרגישתא הא מייצא טפי והא לא מייצא טפי באתריה דרב יהודה רמו ארבעים</row>
+		<row row_number="53" isdata="1">ותמני כוזי בדנא אזיל דנא בשיתא זוזי פריס רב יהודה שיתא שיתא בזוזא</row>
+</amud>
+</daf>
+</masechet>
+</root>

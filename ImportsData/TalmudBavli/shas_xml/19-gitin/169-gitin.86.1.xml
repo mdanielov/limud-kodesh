@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:12.695145</dateCreated>
+   <lastModified>2020-01-14 15:03:12.695145</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="86">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המגרש"/><ContGemara/>לאפוקי מדבעא מיניה רבא מרב נחמן דאמר</row>
+		<row row_number="2" isdata="1">היום אי את אשתי ולמחר את אשתי: גופו</row>
+		<row row_number="3" isdata="1">של גט שחרור הרי את בת חורין הרי את</row>
+		<row row_number="4" isdata="1">לעצמך: אתקין רב יהודה בשטר זביני דעבדי</row>
+		<row row_number="5" isdata="1">עבדא דנן מוצדק לעבדו ופטיר ועטיר מן</row>
+		<row row_number="6" isdata="1">חרורי ומן עלולי ומן ערורי מלכא ומלכתא</row>
+		<row row_number="7" isdata="1">ורשום דאיניש לא אית עלוהי ומנוק' מכל מום</row>
+		<row row_number="8" isdata="1">ומן שחין דנפיק עד טצהר חדת ועתיק מאי</row>
+		<row row_number="9" isdata="1">אסותיה אמר אביי גינברא ומרתכא וכבריתא</row>
+		<row row_number="10" isdata="1">וחלא דחמרא ומשחא דזיתא ונטפיק חיורא</row>
+		<row row_number="11" isdata="1">ושייפי ליה בגדפא דאווזא<EndGemara/><StartMishna/>מתני' שלשה</row>
+		<row row_number="12" isdata="1">גיטין פסולין ואם נשאת הוולד כשר כתב</row>
+		<row row_number="13" isdata="1">בכתב ידו ואין עליו עדים יש עליו עדים ואין</row>
+		<row row_number="14" isdata="1">בו זמן יש בו זמן ואין בו אלא עד אחד הרי אלו</row>
+		<row row_number="15" isdata="1">שלשה גיטין פסולין ואם נשאת הולד כשר</row>
+		<row row_number="16" isdata="1">רבי אליעזר אומר אע"פ שאין עליו עדים</row>
+		<row row_number="17" isdata="1">אלא שנתנו לה בפני עדים כשר וגובה</row>
+		<row row_number="18" isdata="1">מנכסים משועבדים שאין העדים חותמים על</row>
+		<row row_number="19" isdata="1">הגט אלא מפני תיקון העולם:<EndMishna/><StartGemara/>גמ' ותו ליכא</row>
+		<row row_number="20" isdata="1">והא איכא גט ישן התם לא תצא הכא תצא</row>
+		<row row_number="21" isdata="1">הניחא למ"ד הכא תצא אלא למ"ד הכא לא</row>
+		<row row_number="22" isdata="1">תצא מאי איכא למימר התם תינשא לכתחל'</row>
+		<row row_number="23" isdata="1">הכא דיעבד והא איכא גט קרח התם הוולד</row>
+		<row row_number="24" isdata="1">ממזר הכא הולד כשר הניחא לרבי מאיר</row>
+		<row row_number="25" isdata="1">(דאמר כל המשנה ממטבע שטבעו חכמים</row>
+		<row row_number="26" isdata="1">בגיטין הולד ממזר) אלא לרבנן מאי איכא</row>
+		<row row_number="27" isdata="1">למימר התם תצא הכא לא תצא הניחא למ"ד</row>
+		<row row_number="28" isdata="1">הכא לא תצא אלא למ"ד הכא תצא מאי איכא</row>
+		<row row_number="29" isdata="1">למימר במקושר לא קא מיירי והא איכא</row>
+		<row row_number="30" isdata="1">שלום מלכות התם תצא הכא לא תצא הניחא</row>
+		<row row_number="31" isdata="1">למ"ד הכא לא תצא אלא למ"ד תצא מאי</row>
+		<row row_number="32" isdata="1">איכא למימר (התם הולד ממזר הכא הולד</row>
+		<row row_number="33" isdata="1">כשר הניחא לר' מאיר אלא לרבנן מאי איכא</row>
+		<row row_number="34" isdata="1">למימר) מוקים לה כדרבי מאיר והתם הולד</row>
+		<row row_number="35" isdata="1">ממזר הכא הולד כשר מנינא דרישא למעוטי</row>
+		<row row_number="36" isdata="1">מאי ומנינא דסיפא למעוטי מאי מנינא דרישא</row>
+		<row row_number="37" isdata="1">למעוטי הני דאמרן מנינא דסיפא למעוטי הא</row>
+		<row row_number="38" isdata="1">דתניא המביא גט ממדינת הים נתנו לה ולא</row>
+		<row row_number="39" isdata="1">אמר (לה) בפני נכתב ובפני נחתם יוציא</row>
+		<row row_number="40" isdata="1">והולד ממזר דברי רבי מאיר וחכ"א אין הולד</row>
+		<row row_number="41" isdata="1">ממזר כיצד יעשה יטלנו הימנה ויחזור ויתננו</row>
+		<row row_number="42" isdata="1">לה בפני שנים ויאמר בפני נכתב ובפני נחתם:</row>
+		<row row_number="43" isdata="1">כתב בכתב ידו ואין עליו עדים: אמר רב כתב</row>
+		<row row_number="44" isdata="1">ידו שנינו אהייא אילימא ארישא פשיטא כתב</row>
+		<row row_number="45" isdata="1">ידו קתני ואלא אמצעיתא הרי יש עליו עדים</row>
+		<row row_number="46" isdata="1">אלא אסיפא יש בו זמן ואין בו אלא עד אחד</row>
+</amud>
+</daf>
+</masechet>
+</root>

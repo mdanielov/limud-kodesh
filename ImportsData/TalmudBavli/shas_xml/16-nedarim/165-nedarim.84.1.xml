@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.810623</dateCreated>
+   <lastModified>2020-01-14 15:03:02.810623</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="84">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContGemara/>איתיביה רבא לרב נחמן ובעל לאו בכלל</row>
+		<row row_number="2" isdata="1">בריות הוא והתנן נטולה אני מן היהודים</row>
+		<row row_number="3" isdata="1">יפר חלקו ותהא משמשתו ותהא נטולה מן</row>
+		<row row_number="4" isdata="1">היהודים ואי אמרת בעל לאו בכלל בריות</row>
+		<row row_number="5" isdata="1">הוא נדרי עינוי נפש הן ויפר לה לעולם</row>
+		<row row_number="6" isdata="1">אימא לך שאני הכא דמוכחא מלתא</row>
+		<row row_number="7" isdata="1">דעל היתרא קאסרה נפשה: יכולה</row>
+		<row row_number="8" isdata="1">ליהנות בלקט שכחה ופאה: ולא קתני</row>
+		<row row_number="9" isdata="1">ובמעשר עני והתניא בברייתא ובמעשר</row>
+		<row row_number="10" isdata="1">עני אמר רב יוסף ל"ק הא רבי אליעזר</row>
+		<row row_number="11" isdata="1">הא רבנן דתנן ר"א אומר אין אדם</row>
+		<row row_number="12" isdata="1">צריך לקרות שם על מעשר עני של דמאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

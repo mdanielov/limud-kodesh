@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:23.596002</dateCreated>
+   <lastModified>2020-01-14 15:02:23.596002</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="81">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>גמ' תנינא חדא זימנא בכל מערבין<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">ומשתתפין חוץ מן המים והמלח אמר רבה</row>
+		<row row_number="3" isdata="1">לאפוקי מדרבי יהושע דאמר ככר אין מידי</row>
+		<row row_number="4" isdata="1">אחרינא לא קמשמע לן בכל איתיביה אביי</row>
+		<row row_number="5" isdata="1">בכל מערבין עירובי חצירות ובכל משתתפין</row>
+		<row row_number="6" isdata="1">שיתופי מבואות ולא אמרו לערב בפת אלא</row>
+		<row row_number="7" isdata="1">בחצר בלבד מאן שמעת ליה דאמר פת אין</row>
+		<row row_number="8" isdata="1">מידי אחרינא לא רבי יהושע וקתני בכל</row>
+		<row row_number="9" isdata="1">אלא אמר רבה בר בר חנה לאפוקי מדרבי</row>
+		<row row_number="10" isdata="1">יהושע דאמר שלימה אין פרוסה לא קמשמע</row>
+		<row row_number="11" isdata="1">לן בכל ופרוסה מאי טעמא לא אמר רבי</row>
+		<row row_number="12" isdata="1">יוסי בן שאול אמר רבי משום איבה אמר</row>
+		<row row_number="13" isdata="1">ליה רב אחא בריה דרבא לרב אשי עירבו</row>
+		<row row_number="14" isdata="1">כולן בפרוסות מהו א"ל שמא יחזור דבר</row>
+		<row row_number="15" isdata="1">לקלקולו א"ר יוחנן בן שאול ניטלה הימנה</row>
+		<row row_number="16" isdata="1">כדי חלתה וכדי דימועה מערבין לו בה</row>
+		<row row_number="17" isdata="1">והתניא כדי דימועה מערבין לו בה כדי</row>
+		<row row_number="18" isdata="1">חלתה אין מערבין לו בה לא קשיא הא</row>
+		<row row_number="19" isdata="1">בחלת נחתום הא בחלת בעל הבית דתנן</row>
+		<row row_number="20" isdata="1">שיעור חלה אחד מעשרים וארבעה העושה</row>
+		<row row_number="21" isdata="1">עיסה לעצמו ועיסה למשתה בנו אחד מעשרים</row>
+		<row row_number="22" isdata="1">וארבעה נחתום שהוא עושה למכור בשוק</row>
+		<row row_number="23" isdata="1">וכן האשה שעשתה למכור בשוק אחד</row>
+		<row row_number="24" isdata="1">מארבעים ושמונה אמר רב חסדא תפרה</row>
+		<row row_number="25" isdata="1">בקיסם מערבין לו בה והא תניא אין מערבין</row>
+		<row row_number="26" isdata="1">לו בה לא קשיא הא דידיע תיפרה הא דלא</row>
+		<row row_number="27" isdata="1">ידיע תיפרה א"ר זירא אמר שמואל מערבין</row>
+		<row row_number="28" isdata="1">בפת אורז ובפת דוחן אמר מר עוקבא לדידי</row>
+		<row row_number="29" isdata="1">מיפרשא לי מיניה דמר שמואל בפת אורז</row>
+		<row row_number="30" isdata="1">מערבין ובפת דוחן אין מערבין אמר רב חייא</row>
+		<row row_number="31" isdata="1">בר אבין אמר רב מערבין בפת עדשים איני</row>
+		<row row_number="32" isdata="1">והא ההיא דהואי בשני דמר שמואל ושדייה</row>
+		<row row_number="33" isdata="1">לכלביה ולא אכלה ההיא דשאר מינים</row>
+		<row row_number="34" isdata="1">הויא דכתיב ואתה קח לך חטין ושעורים</row>
+		<row row_number="35" isdata="1">ופול ועדשים ודוחן וכוסמים וגו' רב פפא</row>
+		<row row_number="36" isdata="1">אמר ההיא צלויה בצואת האדם הואי</row>
+		<row row_number="37" isdata="1">דכתיב והיא בגללי צאת האדם תעגנה</row>
+		<row row_number="38" isdata="1">לעיניהם מאי ועוגת שעורים תאכלנה אמר</row>
+		<row row_number="39" isdata="1">רב חסדא לשיעורים רב פפא אמר עריבתה</row>
+		<row row_number="40" isdata="1">כעריבת שעורים ולא כעריבת חטים:</row>
+		<row row_number="41" isdata="1"><EndGemara/><StartMishna/>מתני' נותן אדם מעה לחנוני ולנחתום</row>
+		<row row_number="42" isdata="1">כדי שיזכה לו עירוב דברי רבי אליעזר</row>
+		<row row_number="43" isdata="1">וחכמים אומרים לא זכו לו מעותיו</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:32.382460</dateCreated>
+   <lastModified>2020-01-14 15:04:32.382460</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="42">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יוצא דופן"/><ContGemara/>התם אין לה טומאה בחוץ הכא כי נפיק</row>
+		<row row_number="2" isdata="1">לבראי ליטמי הכא נמי כשיצא לחוץ אי יצא</row>
+		<row row_number="3" isdata="1">לחוץ מאי למימרא מהו דתימא מגו דמהני</row>
+		<row row_number="4" isdata="1">טבילה לדם דאיכא גואי תהני נמי להאי</row>
+		<row row_number="5" isdata="1">קמ"ל שמעתין איפריק אלא יולדת אי בימי</row>
+		<row row_number="6" isdata="1">נדה נדה אי בימי זיבה זיבה הכא במאי</row>
+		<row row_number="7" isdata="1">עסקינן בלידה יבשתא לידה יבשתא מאי</row>
+		<row row_number="8" isdata="1">מטמא בפנים כבחוץ איכא כגון שהוציא</row>
+		<row row_number="9" isdata="1">ולד ראשו חוץ לפרוזדור וכדרב אושעיא</row>
+		<row row_number="10" isdata="1">דאמר רב אושעיא גזרה שמא יוציא הולד</row>
+		<row row_number="11" isdata="1">ראשו חוץ לפרוזדור וכי ההוא דאתא לקמיה</row>
+		<row row_number="12" isdata="1">דרבא אמר ליה מהו לממהל בשבתא אמר</row>
+		<row row_number="13" isdata="1">ליה שפיר דמי בתר דנפק אמר רבא ס"ד</row>
+		<row row_number="14" isdata="1">דההוא גברא לא ידע דשרי לממהל בשבתא</row>
+		<row row_number="15" isdata="1">אזל בתריה אמר ליה אימא לי איזי גופא</row>
+		<row row_number="16" isdata="1">דעובדא היכי הוה אמר ליה שמעית ולד</row>
+		<row row_number="17" isdata="1">דצויץ אפניא דמעלי שבתא ולא אתיליד עד</row>
+		<row row_number="18" isdata="1">שבתא אמר ליה האי הוציא ראשו חוץ</row>
+		<row row_number="19" isdata="1">לפרוזדור הוא והוי מילה שלא בזמנה וכל</row>
+		<row row_number="20" isdata="1">מילה שלא בזמנה אין מחללין עליה את</row>
+		<row row_number="21" isdata="1">השבת איבעיא להו אותו מקום של אשה</row>
+		<row row_number="22" isdata="1">בלוע הוי או בית הסתרים הוי למאי נפקא</row>
+		<row row_number="23" isdata="1">מינה כגון שתחבה לה חבירתה כזית נבלה</row>
+		<row row_number="24" isdata="1">באותו מקום אי אמרת בלוע הוי טומאה</row>
+		<row row_number="25" isdata="1">בלועה לא מטמאה ואי אמרת בית הסתרים</row>
+		<row row_number="26" isdata="1">הוי נהי דבמגע לא מטמיא במשא מיהא</row>
+		<row row_number="27" isdata="1">מטמיא אביי אמר בלוע הוי רבא אמר בית</row>
+		<row row_number="28" isdata="1">הסתרים הוי אמר רבא מנא אמינא לה דתניא</row>
+		<row row_number="29" isdata="1">אלא מפני שטומאת בית הסתרים היא</row>
+		<row row_number="30" isdata="1">וטומאת בית הסתרים לא מטמאה אלא</row>
+		<row row_number="31" isdata="1">שגזרת הכתוב היא ואביי חדא ועוד קאמר</row>
+		<row row_number="32" isdata="1">חדא דטומאה בלועה היא ועוד אפילו אם</row>
+		<row row_number="33" isdata="1">תמצי לומר טומאת בית הסתרים היא אינה</row>
+		<row row_number="34" isdata="1">מטמאה אלא שגזרת הכתוב היא איבעיא</row>
+		<row row_number="35" isdata="1">להו מקום נבלת עוף טהור בלוע הוי או בית</row>
+		<row row_number="36" isdata="1">הסתרים הוי למאי נפקא מינה כגון שתחב לו</row>
+		<row row_number="37" isdata="1">חבירו כזית נבלה לתוך פיו אי אמרת בלוע</row>
+		<row row_number="38" isdata="1">הוי טומאה בלועה לא מטמיא (אלא אי)</row>
+		<row row_number="39" isdata="1">אמרת בית הסתרים הוי נהי נמי דבמגע לא</row>
+		<row row_number="40" isdata="1">מטמא במשא מיהא מטמא אביי אמר בלוע</row>
+		<row row_number="41" isdata="1">הוי ורבא אמר בית הסתרים הוי אמר אביי</row>
+		<row row_number="42" isdata="1">מנא אמינא לה דתניא יכול תהא נבלת</row>
+		<row row_number="43" isdata="1">בהמה מטמאה בגדים אבית הבליעה ת"ל</row>
+		<row row_number="44" isdata="1">נבלה וטרפה לא יאכל לטמאה בה מי שאין</row>
+		<row row_number="45" isdata="1">לה טומאה אלא אכילתה יצתה זו שטמאה</row>
+		<row row_number="46" isdata="1">קודם שיאכלנה ותיתי בק"ו מנבלת עוף טהור</row>
+		<row row_number="47" isdata="1">ומה נבלת עוף טהור שאין לה טומאה בחוץ</row>
+		<row row_number="48" isdata="1">יש לה טומאה בפנים זו שיש לה טומאה</row>
+		<row row_number="49" isdata="1">בחוץ אינו דין שיש לה טומאה בפנים אמר</row>
+		<row row_number="50" isdata="1">קרא בה בה ולא באחרת אם כן מה תלמוד לומר והאוכל ליתן שיעור</row>
+		<row row_number="51" isdata="1">לנוגע ולנושא כאוכל מה אוכל בכזית אף נוגע ונושא בכזית אמר רבא</row>
+		<row row_number="52" isdata="1">שרץ בקומטו טהור נבלה בקומטו טמא שרץ בקומטו טהור שרץ</row>
+		<row row_number="53" isdata="1">בנגיעה הוא דמטמא ובית הסתרים לאו בר מגע הוא נבלה בקומטו</row>
+		<row row_number="54" isdata="1">טמא נהי דבמגע לא מטמא במשא מיהא מטמא שרץ בקומטו</row>
+		<row row_number="55" isdata="1">והכניסו לאויר התנור טמא פשיטא מהו דתימא תוכו אמר רחמנא</row>
+</amud>
+</daf>
+</masechet>
+</root>

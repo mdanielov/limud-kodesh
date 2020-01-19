@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:03.317292</dateCreated>
+   <lastModified>2020-01-14 15:03:03.317292</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="10">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הריני נזיר"/><ContGemara/>ואמר הריני נזיר מיין אם לא עמדה ועמדה</row>
+		<row row_number="2" isdata="1">מאליה בית שמאי סברי תורפיה דהאי גברא</row>
+		<row row_number="3" isdata="1">משום אוקמה בידיה הוא והא לא אוקמה</row>
+		<row row_number="4" isdata="1">ובית הלל סברי משום דרביעא הוא והא</row>
+		<row row_number="5" isdata="1">קמת אי הכי אימא סיפא אמר רבי יהודה</row>
+		<row row_number="6" isdata="1">אף כשאמרו בית שמאי לא אמרו אלא</row>
+		<row row_number="7" isdata="1">באומר הרי הן עלי קרבן פרה מי קא</row>
+		<row row_number="8" isdata="1">מתפיס בה מידי אלא כגון דאמר הריני</row>
+		<row row_number="9" isdata="1">נזיר מבשרה אם לא עמדה ועמדה מאליה</row>
+		<row row_number="10" isdata="1">בית שמאי סברי תורפיה דההוא גברא משום</row>
+		<row row_number="11" isdata="1">אוקמה בידיה הוא והא לא אוקמה ובית הלל</row>
+		<row row_number="12" isdata="1">סברי תורפיה דהאי גברא משום דרביעא</row>
+		<row row_number="13" isdata="1">והא קמת וב"ה סברי אי לא קמת הוי נזיר</row>
+		<row row_number="14" isdata="1">והאמרי מבשרה לא הוי נזיר לטעמייהו דב"ש</row>
+		<row row_number="15" isdata="1">קאמרי לדידן אפי' לא קמת נמי לא הוי נזיר</row>
+		<row row_number="16" isdata="1">לדידכו דאמריתו הוי נזיר אודו לן מיהת</row>
+		<row row_number="17" isdata="1">דתורפיה דהדין גברא משום דרביעא והא</row>
+		<row row_number="18" isdata="1">קמת ובית שמאי לאו תורפיה דהאי גברא</row>
+		<row row_number="19" isdata="1">משום אוקמה בידיה הוא והא לא אוקמה:</row>
+</amud>
+</daf>
+</masechet>
+</root>

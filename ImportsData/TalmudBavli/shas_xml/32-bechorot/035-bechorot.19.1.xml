@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:19.588873</dateCreated>
+   <lastModified>2020-01-14 15:04:19.588873</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר פרתו"/><ContGemara/>דהך דלא ביכרה שביח טפי צריכא:</row>
+		<row row_number="2" isdata="1"><EndGemara/><StartMishna/>מתני' יוצא דופן והבא אחריו רבי טרפון</row>
+		<row row_number="3" isdata="1">אומר שניהם ירעו עד שיסתאבו ויאכלו</row>
+		<row row_number="4" isdata="1">במומן לבעלים רבי עקיבא אומר שניהן</row>
+		<row row_number="5" isdata="1">אינן בכור הראשון מפני שאינו פטר</row>
+		<row row_number="6" isdata="1">רחם והשני מפני שקדמו אחר:<EndMishna/><StartGemara/>גמ' במאי</row>
+		<row row_number="7" isdata="1">קמיפלגי רבי טרפון מספקא ליה בכור</row>
+		<row row_number="8" isdata="1">לדבר אחד אי הוי בכור אי לא הוי בכור</row>
+		<row row_number="9" isdata="1">ורבי עקיבא פשיטא ליה בכור לדבר אחד</row>
+		<row row_number="10" isdata="1">לא הוי בכור: תנו רבנן מכלל הצריך לפרט</row>
+		<row row_number="11" isdata="1">ומפרט הצריך לכלל כיצד קדש לי כל</row>
+		<row row_number="12" isdata="1">בכור יכול אפילו נקבה במשמע תלמוד</row>
+		<row row_number="13" isdata="1">לומר זכר אי זכר יכול אפי' יצתה נקבה</row>
+		<row row_number="14" isdata="1">לפניו תלמוד לומר פטר רחם אי פטר רחם</row>
+		<row row_number="15" isdata="1">יכול אפילו יצא אחר יוצא דופן ת"ל בכור</row>
+		<row row_number="16" isdata="1">א"ל רב שרביא לאביי רישא לא קנסיב לה</row>
+		<row row_number="17" isdata="1">תלמודא בכור אלמא בכור לדבר אחד הוי</row>
+		<row row_number="18" isdata="1">בכור סיפא קנסיב לה תלמודא בכור אלמא</row>
+		<row row_number="19" isdata="1">בכור לדבר אחד לא הוי בכור אמר ליה</row>
+		<row row_number="20" isdata="1">לעולם בכור לדבר אחד לא הוי בכור ורישא</row>
+		<row row_number="21" isdata="1">ה"ק אי זכר יכול אפי' יוצא דופן ת"ל פטר</row>
+		<row row_number="22" isdata="1">רחם רבינא אמר לעולם בכור לדבר אחד הוי</row>
+		<row row_number="23" isdata="1">בכור וסיפא ה"ק אי סלקא דעתך יצא אחר</row>
+		<row row_number="24" isdata="1">יוצא דופן קדוש בכור דכתב רחמנא למה לי</row>
+</amud>
+</daf>
+</masechet>
+</root>

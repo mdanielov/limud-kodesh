@@ -1,0 +1,19 @@
+USE KiMeTzion;
+
+INSERT INTO dbo.TBL_REF_NIKKUD 
+VALUES 
+(N'Kammats',N'קמץ',N'אָ',N'U+05B8',N'&#1464;'),
+(N'Patach',N'פתח',N'אַ',N'U+05B7',N'&#1463;'),
+(N'Segol',N'סגל',N'אֶ',N'U+05B6',N'&#1462;'),
+(N'Tsira',N'צירה',N'אֵ',N'U+05B5',N'&#1461;'),
+(N'Chirik',N'חיריק',N'אִ',N'U+05B4',N'&#1460;'),
+(N'Cholam Chaser',N'חולם חסר',N'אֹ',N'U+05BA',N'&#1465;'),
+(N'Cholam',N'חולם',N'אוֹ',N'U+05B9',N'&#1465;'),
+(N'Shuruk',N'שורוק',N'אוּ',N'U+05BC',N'&#1468;'),
+(N'Kubutz',N'קובוץ',N'אֻ',N'U+05BB',N'&#1467;'),
+(N'Sheva',N'שוה',N'אְ',N'U+05B0',N'&#1456;'),
+(N'Chataf Petach',N'חטף פתח',N'אֲ',N'U+05B2',N'&#1458;'),
+(N'Chataf Kamats',N'חטף קמץ',N'אֳ',N'U+05B3',N'&#1459;'),
+(N'Chataf Segol',N'חטף סגול',N'אֱ',N'U+05B1',N'&#1457;'),
+(N'Dagesh',N'דגש',N'בּ',N'U+05BC',N'&#1468;')
+;

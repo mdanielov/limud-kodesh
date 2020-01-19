@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:05.363952</dateCreated>
+   <lastModified>2020-01-14 15:03:05.363952</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="39">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שלשה מינין"/><ContMishna/>אותביה חמש ומאחר דלא תניא חמש מ"ט</row>
+		<row row_number="2" isdata="1">אותביה אמר רב פפא אנא סברי לאו גמרא</row>
+		<row row_number="3" isdata="1">היא בידיה והדר ביה ולא ידענא דגמרא היא</row>
+		<row row_number="4" isdata="1">בידיה ולא הדר ביה: רבי אלעזר בן עזריה</row>
+		<row row_number="5" isdata="1">אומר כו': אמר רב יוסף כמאן מתרגמינן</row>
+		<row row_number="6" isdata="1">מפורצנין ועד עיצורין כר' יוסי<EndGemara/><StartMishna/>מתני' סתם</row>
+		<row row_number="7" isdata="1">נזירות ל' יום גילח או שגילחוהו לסטים</row>
+		<row row_number="8" isdata="1">סותר ל' יום נזיר שגילח בין בזוג בין בתער</row>
+		<row row_number="9" isdata="1">או שסיפסף כל שהוא חייב:<EndMishna/><StartGemara/>גמ' איבעיא</row>
+		<row row_number="10" isdata="1">להו האי מזיא מלתחת רבי או מלעיל</row>
+		<row row_number="11" isdata="1">למאי נפקא מינה לנזיר שגילחוהו ליסטים</row>
+		<row row_number="12" isdata="1">ושיירו בו כדי לכוף ראשו לעיקרו אי אמרת</row>
+		<row row_number="13" isdata="1">מלתחת רבי נזירות הא שקליה אלא אי</row>
+		<row row_number="14" isdata="1">אמרת מלעיל רבי מאי דאקדיש הא קאים</row>
+		<row row_number="15" isdata="1">ת"ש מהא אינבא חיה דקאים בעיקבא</row>
+		<row row_number="16" isdata="1">דבינתא ואי סלקא דעתך מלתחת רבי ברישא</row>
+		<row row_number="17" isdata="1">דבינתא בעי למיקם לעולם מלתחת רבי</row>
+		<row row_number="18" isdata="1">ואגב חיותא נחית ואזיל אינבא ת"ש אינבא</row>
+		<row row_number="19" isdata="1">מתה ברישא דבינתא ואי סלקא דעתך</row>
+		<row row_number="20" isdata="1">מלעיל רבי בעיקבא דבינתא בעי למיקם</row>
+		<row row_number="21" isdata="1">התם נמי משום דלית בה חילא שרוגי</row>
+		<row row_number="22" isdata="1">שריגא ואזיל תא שמע מבלורית דכושיים</row>
+		<row row_number="23" isdata="1">דבתר דמגדלין לה רפיא מלתחת התם נמי</row>
+		<row row_number="24" isdata="1">איידי דקמטא היא משיכבא דרפיא תא</row>
+		<row row_number="25" isdata="1">שמע מסקרתא דרפי עמרא מלתחת</row>
+		<row row_number="26" isdata="1">ותניא ותו כד צבעי סביא דיקנהון חוורן</row>
+</amud>
+</daf>
+</masechet>
+</root>

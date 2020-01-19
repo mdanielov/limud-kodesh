@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:37.554081</dateCreated>
+   <lastModified>2020-01-14 15:02:37.554081</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="74">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יום הכפורים"/><ContGemara/>כוי בריה בפני עצמה היא דאי לא תימא</row>
+		<row row_number="2" isdata="1">הכי הא דאמר רב אידי בר אבין אף כל</row>
+		<row row_number="3" isdata="1">לאתויי כוי כוי ספיקא הוא איצטריך קרא</row>
+		<row row_number="4" isdata="1">לרבויי ספיקא אלא בריה שאני הכא נמי</row>
+		<row row_number="5" isdata="1">בריה שאני ת"ר תענו את נפשותיכם</row>
+		<row row_number="6" isdata="1">יכול ישב בחמה או בצנה כדי שיצטער</row>
+		<row row_number="7" isdata="1">תלמוד לומר וכל מלאכה לא תעשו מה</row>
+		<row row_number="8" isdata="1">מלאכה שב ואל תעשה אף ענוי נפש</row>
+		<row row_number="9" isdata="1">שב ואל תעשה ואימא היכא דיתיב</row>
+		<row row_number="10" isdata="1">בשימשא וחיים ליה לא נימא ליה קום תוב</row>
+		<row row_number="11" isdata="1">בטולא יתיב בטולא וקריר ליה לא נימא</row>
+		<row row_number="12" isdata="1">ליה קום תוב בשימשא דומיא דמלאכה מה</row>
+		<row row_number="13" isdata="1">מלאכה לא חלקת בה אף ענוי לא תחלוק בו</row>
+		<row row_number="14" isdata="1">תניא אידך תענו את נפשותיכם יכול ישב</row>
+		<row row_number="15" isdata="1">בחמה ובצנה ויצטער ת"ל וכל מלאכה לא</row>
+		<row row_number="16" isdata="1">תעשו מה מלאכה דבר שחייבין עליו במקום</row>
+		<row row_number="17" isdata="1">אחר אף ענוי נפש שחייבין עליו במקום אחר</row>
+		<row row_number="18" isdata="1">ואי זה זה זה פגול ונותר אביא פגול ונותר</row>
+		<row row_number="19" isdata="1">שהן בכרת ולא אביא את הטבל שאינו</row>
+		<row row_number="20" isdata="1">בכרת ת"ל תענו ועניתם את נפשותיכם ריבה</row>
+		<row row_number="21" isdata="1">אביא הטבל שהוא במיתה ולא אביא את</row>
+		<row row_number="22" isdata="1">הנבילה שאינה במיתה ת"ל תענו ועניתם</row>
+		<row row_number="23" isdata="1">את נפשותיכם ריבה אביא את הנבילה שהוא</row>
+		<row row_number="24" isdata="1">בלאו ולא אביא את החולין שאינן בלאו ת"ל</row>
+		<row row_number="25" isdata="1">תענו ועניתם את נפשותיכם ריבה אביא</row>
+		<row row_number="26" isdata="1">החולין שאינן בקום אכול ולא אביא את</row>
+		<row row_number="27" isdata="1">התרומה שהיא בקום אכול ת"ל תענו</row>
+		<row row_number="28" isdata="1">ועניתם את נפשותיכם ריבה אביא את</row>
+		<row row_number="29" isdata="1">התרומה שאינה בבל תותירו ולא אביא את</row>
+		<row row_number="30" isdata="1">הקדשים שהן בבל תותירו תלמוד לומר תענו</row>
+		<row row_number="31" isdata="1">ועניתם את נפשותיכם ריבה ואם נפשך לומר</row>
+		<row row_number="32" isdata="1">הרי הוא אומר והאבדתי את הנפש ההיא</row>
+		<row row_number="33" isdata="1">ענוי שהוא אבידת הנפש ואי זה זה זה אכילה</row>
+		<row row_number="34" isdata="1">ושתיה מאי ואם נפשך לומר וכי תימא בעריות קא מישתעי קרא הרי הוא</row>
+		<row row_number="35" isdata="1">אומר והאבדתי הנפש ענוי שיש בו אבידת נפש ואי זה זה זה אכילה</row>
+		<row row_number="36" isdata="1">ושתיה דבי רבי ישמעאל תנא נאמר כאן ענוי ונאמר להלן ענוי מה להלן</row>
+		<row row_number="37" isdata="1">ענוי רעבון אף כאן ענוי רעבון ונילף מאם תענה את בנותי דנין ענוי</row>
+		<row row_number="38" isdata="1">דרבים מענוי דרבים ואין דנין ענוי דרבים מענוי דיחיד ונילף מענוי</row>
+		<row row_number="39" isdata="1">דמצרים דכתיב וירא את ענינו ואמרינן זו פרישות דרך ארץ אלא דנין</row>
+		<row row_number="40" isdata="1">ענוי בידי שמים מענוי בידי שמים ואין דנין ענוי בידי שמים מענוי בידי אדם</row>
+		<row row_number="41" isdata="1">המאכילך מן במדבר למען ענותך רבי אמי ורבי אסי חד אמר אינו</row>
+		<row row_number="42" isdata="1">דומה מי שיש לו פת בסלו למי שאין לו פת בסלו וחד אמר אינו דומה מי</row>
+		<row row_number="43" isdata="1">שרואה ואוכל למי שאינו רואה ואוכל אמר רב יוסף מכאן רמז לסומין</row>
+		<row row_number="44" isdata="1">שאוכלין ואין שבעין אמר אביי הלכך מאן דאית ליה סעודתא לא ליכלה</row>
+		<row row_number="45" isdata="1">אלא ביממא א"ר זירא מאי קרא טוב מראה עינים מהלך נפש אמר ר"ל</row>
+		<row row_number="46" isdata="1">טוב מראה עינים באשה יותר מגופו של מעשה שנאמר טוב מראה עינים</row>
+		<row row_number="47" isdata="1">מהלך נפש כי יתן בכוס עינו יתהלך במישרים ר' אמי ור' אסי חד אמר כל הנותן</row>
+</amud>
+</daf>
+</masechet>
+</root>

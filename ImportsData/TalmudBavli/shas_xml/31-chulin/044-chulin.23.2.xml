@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:11.955063</dateCreated>
+   <lastModified>2020-01-14 15:04:11.955063</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="23">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>דאמר מייתי ומתני מי אמרינן איל וכבש</row>
+		<row row_number="2" isdata="1">מתנה בבריה לא מתנה או דלמא בבריה</row>
+		<row row_number="3" isdata="1">נמי מתנה דאמר אי בריה הוה ליהוי כוליה</row>
+		<row row_number="4" isdata="1">נדבה תיקו בעי רבי זירא האומר הרי עלי</row>
+		<row row_number="5" isdata="1">לחמי תודה מן החמץ או מן המצה והביא</row>
+		<row row_number="6" isdata="1">שיאור מהו שיאור דמאן אי שיאור דר"מ</row>
+		<row row_number="7" isdata="1">לרבי יהודה מצה מעלייתא היא אי דרבי</row>
+		<row row_number="8" isdata="1">יהודה לר"מ חמץ הוא ואי דר"מ לר' מאיר</row>
+		<row row_number="9" isdata="1">מדלקי עליה חמץ הוא אלא דרבי יהודה</row>
+		<row row_number="10" isdata="1">לרבי יהודה מאי ספיקא הויא ונפיק ממה</row>
+		<row row_number="11" isdata="1">נפשך או דלמא בריה הוא ולא נפיק והאמר</row>
+		<row row_number="12" isdata="1">רב הונא האומר הרי עלי לחמי תודה מביא</row>
+		<row row_number="13" isdata="1">תודה ולחמה וכיון דאיחייב ליה בתודה</row>
+		<row row_number="14" isdata="1">ולחמה הא לא ידע האי גברא אי חמץ הוא</row>
+		<row row_number="15" isdata="1">דליתי מצה אי מצה הוא דליתי חמץ לא</row>
+		<row row_number="16" isdata="1">צריכא דאמר הרי עלי חלה לפטור תודתו</row>
+		<row row_number="17" isdata="1">של פלוני סוף סוף הא לא ידע האי גברא</row>
+		<row row_number="18" isdata="1">אי חמץ הוא דליתי מצה אי מצה הוא דליתי</row>
+		<row row_number="19" isdata="1">חמץ לא צריכא דלא אמר לפטור מיפק</row>
+		<row row_number="20" isdata="1">גברא ידי נדרו נפיק או לא נפיק תיקו<EndGemara/><StartMishna/>מתני'</row>
+		<row row_number="21" isdata="1">כשר בפרה פסול בעגלה כשר בעגלה פסול</row>
+		<row row_number="22" isdata="1">בפרה:<EndMishna/><StartGemara/>גמ' תנו רבנן פרה בשחיטה כשרה</row>
+		<row row_number="23" isdata="1">בעריפה פסולה עגלה בעריפה כשרה</row>
+		<row row_number="24" isdata="1">בשחיטה פסולה נמצאת כשר בפרה פסול</row>
+		<row row_number="25" isdata="1">בעגלה כשר בעגלה פסול בפרה ותהא פרה</row>
+		<row row_number="26" isdata="1">כשרה בעריפה מק"ו ומה עגלה שלא הוכשרה</row>
+		<row row_number="27" isdata="1">בשחיטה הוכשרה בעריפה פרה שהוכשרה</row>
+		<row row_number="28" isdata="1">בשחיטה אינה דין שהוכשרה בעריפה</row>
+</amud>
+</daf>
+</masechet>
+</root>

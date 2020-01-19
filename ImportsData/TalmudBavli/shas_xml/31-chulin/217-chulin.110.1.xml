@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:17.305363</dateCreated>
+   <lastModified>2020-01-14 15:04:17.305363</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="110">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>שבשלה בחלבה אסורה דאפילו דיעבד נמי</row>
+		<row row_number="2" isdata="1">לא תנא נמי רישא שבשלה כי סליק רבי</row>
+		<row row_number="3" isdata="1">אלעזר אשכחיה לזעירי אמר ליה איכא</row>
+		<row row_number="4" isdata="1">תנא דאתנייה לרב כחל אחוייה לרב יצחק</row>
+		<row row_number="5" isdata="1">בר אבודימי אמר ליה אני לא שניתי לו</row>
+		<row row_number="6" isdata="1">כחל כל עיקר ורב בקעה מצא וגדר בה</row>
+		<row row_number="7" isdata="1">גדר דרב איקלע לטטלפוש שמעה לההיא</row>
+		<row row_number="8" isdata="1">איתתא דקאמרה לחבירתה ריבעא דבשרא</row>
+		<row row_number="9" isdata="1">כמה חלבא בעי לבשולי אמר לא גמירי</row>
+		<row row_number="10" isdata="1">דבשר בחלב אסור איעכב וקאסר להו כחלי</row>
+		<row row_number="11" isdata="1">רב כהנא מתני הכי רבי יוסי בר אבא מתני</row>
+		<row row_number="12" isdata="1">אנא כחל של מניקה שניתי לו ומפלפולו של</row>
+		<row row_number="13" isdata="1">רבי חייא שנה ליה כחל סתם רבין ורב יצחק</row>
+		<row row_number="14" isdata="1">בר יוסף איקלעו לבי רב פפי אייתו לקמייהו</row>
+		<row row_number="15" isdata="1">תבשילא דכחל רב יצחק בר יוסף אכל רבין</row>
+		<row row_number="16" isdata="1">לא אכל אמר אביי רבין תכלא אמאי לא</row>
+		<row row_number="17" isdata="1">אכל מכדי דביתהו דרב פפי ברתיה דר' יצחק</row>
+		<row row_number="18" isdata="1">נפחא הואי ור"י נפחא מריה דעובדא הוה אי</row>
+		<row row_number="19" isdata="1">לאו דשמיע לה מבי נשא לא הוה עבדא</row>
+		<row row_number="20" isdata="1">בסורא לא אכלי כחלי בפומבדיתא אכלי</row>
+		<row row_number="21" isdata="1">כחלי רמי בר תמרי דהוא רמי בר דיקולי</row>
+		<row row_number="22" isdata="1">מפומבדיתא איקלע לסורא במעלי יומא</row>
+		<row row_number="23" isdata="1">דכפורי אפקינהו כולי עלמא לכחלינהו</row>
+		<row row_number="24" isdata="1">שדינהו אזל איהו נקטינהו אכלינהו אייתוה</row>
+		<row row_number="25" isdata="1">לקמיה דרב חסדא אמר ליה אמאי תעביד</row>
+		<row row_number="26" isdata="1">הכי אמר ליה מאתרא דרב יהודה אנא דאכיל</row>
+		<row row_number="27" isdata="1">אמר ליה ולית לך נותנין עליו חומרי המקום</row>
+		<row row_number="28" isdata="1">שיצא משם וחומרי המקום שהלך לשם אמר</row>
+		<row row_number="29" isdata="1">ליה חוץ לתחום אכלתינהו ובמה טויתינהו</row>
+		<row row_number="30" isdata="1">אמר ליה בפורצני ודלמא מיין נסך הויא</row>
+		<row row_number="31" isdata="1">אמר ליה לאחר שנים עשר חדש הוו ודלמא דגזל הוה אמר ליה יאוש</row>
+		<row row_number="32" isdata="1">בעלים הוה דקדחו בהו חילפי חזייה דלא הוה מנח תפילין אמר ליה</row>
+		<row row_number="33" isdata="1">מאי טעמא לא מנחת תפילין אמר ליה חולי מעיין הוא ואמר רב יהודה</row>
+		<row row_number="34" isdata="1">חולי מעיין פטור מן התפילין חזייה דלא הוה קא רמי חוטי אמר ליה</row>
+		<row row_number="35" isdata="1">מאי טעמא לית לך חוטי אמר ליה טלית שאולה היא ואמר רב יהודה</row>
+</amud>
+</daf>
+</masechet>
+</root>

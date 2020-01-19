@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:34.945287</dateCreated>
+   <lastModified>2020-01-14 15:03:34.945287</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="109">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>דהכא תרתי והכא חדא שדה אחוזה גופה</row>
+		<row row_number="2" isdata="1">מהאי טעמא הוא דקא קיימא ליה לתנא</row>
+		<row row_number="3" isdata="1">כלום יש יבום אלא במקום שאין בן הא יש</row>
+		<row row_number="4" isdata="1">בן אין יבום אימא שארו זה האב מלמד</row>
+		<row row_number="5" isdata="1">שהאב קודם לבת יכול יקדים לבן ת"ל</row>
+		<row row_number="6" isdata="1">הקרוב קרוב קרוב קודם כיון דלענין יבום בן</row>
+		<row row_number="7" isdata="1">ובת כי הדדי נינהו לענין נחלה נמי בן ובת</row>
+		<row row_number="8" isdata="1">כי הדדי נינהו ואימא שארו זה האב מלמד</row>
+		<row row_number="9" isdata="1">שהאב קודם לאחי האב יכול יקדים לאחין</row>
+		<row row_number="10" isdata="1">תלמוד לומר הקרוב קרוב קרוב קודם</row>
+		<row row_number="11" isdata="1">אחי האב לא צריכי קרא אחי האב מכח</row>
+		<row row_number="12" isdata="1">מאן קא אתו מכח אב קאי אב קא ירתי אחי</row>
+		<row row_number="13" isdata="1">האב והא קראי לאו הכי כתיבי דכתיב ואם</row>
+		<row row_number="14" isdata="1">אין אחים לאביו וגו' קראי שלא כסדרן</row>
+		<row row_number="15" isdata="1">כתיבי והאי תנא מייתי לה מהכא דתניא</row>
+		<row row_number="16" isdata="1">את זו דרש רבי ישמעאל ברבי יוסי</row>
+		<row row_number="17" isdata="1">איש כי ימות ובן אין לו וגו' במקום בת</row>
+		<row row_number="18" isdata="1">אתה מעביר נחלה מן האב ואי אתה</row>
+		<row row_number="19" isdata="1">מעביר נחלה מן האב במקום אחין ואימא</row>
+		<row row_number="20" isdata="1">במקום בת אתה מעביר נחלה מן האחין</row>
+</amud>
+</daf>
+</masechet>
+</root>

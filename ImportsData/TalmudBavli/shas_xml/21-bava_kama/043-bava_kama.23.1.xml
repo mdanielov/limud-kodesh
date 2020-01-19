@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:18.046246</dateCreated>
+   <lastModified>2020-01-14 15:03:18.046246</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="23">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד הרגל"/><ContGemara/>בנזקי ממונו וסיים בנזקי גופו לומר לך אשו</row>
+		<row row_number="2" isdata="1">משום חציו אמר רבא קשיא ליה לאביי למ"ד</row>
+		<row row_number="3" isdata="1">אשו משום חציו טמון באש דפטר רחמנא</row>
+		<row row_number="4" isdata="1">היכי משכחת לה וניחא ליה כגון שנפלה</row>
+		<row row_number="5" isdata="1">דליקה לאותו חצר ונפלה גדר שלא מחמת</row>
+		<row row_number="6" isdata="1">דליקה והלכה והדליקה והזיקה בחצר אחרת</row>
+		<row row_number="7" isdata="1">דהתם כלו ליה חציו אי הכי לענין גלוי נמי</row>
+		<row row_number="8" isdata="1">כלו ליה חציו אלא למאן דאית ליה משום</row>
+		<row row_number="9" isdata="1">חציו אית ליה נמי משום ממונו וכגון שהיה</row>
+		<row row_number="10" isdata="1">לו לגודרה ולא גדרה דהתם שורו הוא ולא</row>
+		<row row_number="11" isdata="1">טפח באפיה וכי מאחר דמאן דאית ליה משום</row>
+		<row row_number="12" isdata="1">חציו אית ליה נמי משום ממונו מאי בינייהו</row>
+		<row row_number="13" isdata="1">איכא בינייהו לחייבו בארבעה דברים: על</row>
+		<row row_number="14" isdata="1">החררה משלם כו': מאן חייב בעל כלב</row>
+		<row row_number="15" isdata="1">וליחייב נמי בעל גחלת בששימר גחלתו אי</row>
+		<row row_number="16" isdata="1">כששימר גחלתו מאי בעי כלב התם בשחתר</row>
+		<row row_number="17" isdata="1">אמר רב מרי בריה דרב כהנא זאת אומרת</row>
+		<row row_number="18" isdata="1">סתם דלתות חתורות הן אצל כלב דאכלה</row>
+		<row row_number="19" isdata="1">היכא אילימא דאכלה בגדיש דעלמא הא</row>
+		<row row_number="20" isdata="1">בעינן וביער בשדה אחר וליכא לא צריכא</row>
+		<row row_number="21" isdata="1">דאכלה בגדיש דבעל חררה תפשוט דפי פרה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.750983</dateCreated>
+   <lastModified>2020-01-14 15:03:02.750983</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="82">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContGemara/>יפר חלקו ומשמשתו ותהא נטולה מן היהודים</row>
+		<row row_number="2" isdata="1">ואי אמרת נדר ענוי נפש הוי אמאי תהא</row>
+		<row row_number="3" isdata="1">נטולה מן היהודים ש"מ דברים שבינו</row>
+		<row row_number="4" isdata="1">לבינה הויין לרבנן תבעי לך משום דנטולה</row>
+		<row row_number="5" isdata="1">אני מן היהודים ר' יוסי קתני לה דאמר רב</row>
+		<row row_number="6" isdata="1">הונא כוליה פירקין רבי יוסי היא ממאי כיון</row>
+		<row row_number="7" isdata="1">דקתני ר' יוסי אומר אין אלו נדרי עינוי נפש</row>
+		<row row_number="8" isdata="1">למה ליה תו למיתנא הרי זה יפר דברי רבי</row>
+		<row row_number="9" isdata="1">יוסי שמע מינה מכאן ואילך רבי יוסי היא</row>
+		<row row_number="10" isdata="1">אמר שמואל משמיה דלוי כל נדרים בעל</row>
+		<row row_number="11" isdata="1">מפר לאשתו חוץ מן הנאתי על פלוני</row>
+		<row row_number="12" isdata="1">שאינו מפר אבל הנאת פלוני עלי מפר תנן</row>
+		<row row_number="13" isdata="1">פירות מדינה זו עלי יביא לה ממדינה אחרת</row>
+		<row row_number="14" isdata="1">אמר רב יוסף דקאמרה שתביא ת"ש פירות</row>
+		<row row_number="15" isdata="1">חנוני זה עלי אין יכול להפר הכא נמי דקא</row>
+		<row row_number="16" isdata="1">אמרה שתביא אתה לא היתה פרנסתו אלא</row>
+		<row row_number="17" isdata="1">ממנו הרי זה יפר ואי אמרת דקא אמרה</row>
+		<row row_number="18" isdata="1">שתביא אתה אמאי יפר אלא מדסיפא דלא</row>
+		<row row_number="19" isdata="1">מייתי בעל הוי רישא דקא מייתא היא</row>
+		<row row_number="20" isdata="1">אלא רישא אין יכול להפר ודקא מייתא היא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:18.054140</dateCreated>
+   <lastModified>2020-01-14 15:04:18.054140</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="125">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>הנוגע בכחצי זית ודבר אחר מאהיל עליו</row>
+		<row row_number="2" isdata="1">ועל כחצי זית טהור ואי חד שמא הוא אמאי</row>
+		<row row_number="3" isdata="1">טהור אלא קשיא רישא אמר רבי זירא</row>
+		<row row_number="4" isdata="1">בטומאה רצוצה בין ב' מגדלים עסקינן ואין</row>
+		<row row_number="5" isdata="1">ביניהן פותח טפח דכולה נגיעה היא ומאן</row>
+		<row row_number="6" isdata="1">תנא דקרי לאהל נוגע ר' יוסי היא דתניא ר'</row>
+		<row row_number="7" isdata="1">יוסי אומר מלא תרווד רקב מטמא במגע</row>
+		<row row_number="8" isdata="1">ובמשא ובאהל בשלמא במשא ובאהל הא</row>
+		<row row_number="9" isdata="1">קא טעין ליה לכוליה והא קא מאהיל אכוליה</row>
+		<row row_number="10" isdata="1">אלא נוגע הא לא נגע בכוליה אלא לאו ש"מ</row>
+		<row row_number="11" isdata="1">מאי נוגע מאהיל והא קתני נוגע והא קתני</row>
+		<row row_number="12" isdata="1">מאהיל אמר אביי למטה מטפח אהל נגיעה</row>
+		<row row_number="13" isdata="1">למעלה מטפח אהל גרידא רבא אמר אפילו</row>
+		<row row_number="14" isdata="1">למעלה מטפח נמי אהל נגיעה הוא והיכי דמי</row>
+		<row row_number="15" isdata="1">אהל גרידא בהמשכה אמר רבא מנא אמינא</row>
+		<row row_number="16" isdata="1">לה דתנן ר' יוסי אומר חבילי מטה וסריגי</row>
+		<row row_number="17" isdata="1">חלונות חוצצין בין הבית לעלייה שלא להכניס</row>
+		<row row_number="18" isdata="1">טומאה לצד שני פרסן על פני המת באויר</row>
+		<row row_number="19" isdata="1">הנוגע כנגד הנקב טמא שלא כנגד הנקב</row>
+		<row row_number="20" isdata="1">טהור ה"ד אילימא למטה מטפח שלא כנגד</row>
+		<row row_number="21" isdata="1">הנקב אמאי טהור מת בכסותו הוא ומת</row>
+		<row row_number="22" isdata="1">בכסותו מטמא אלא לאו למעלה מטפח</row>
+		<row row_number="23" isdata="1">וקא קרי ליה נוגע אמר אביי לעולם למטה</row>
+		<row row_number="24" isdata="1">מטפח ודקאמרת מת בכסותו הוא מת</row>
+		<row row_number="25" isdata="1">בכסותו מבטל ליה האי לא מבטל ליה ותהוי</row>
+		<row row_number="26" isdata="1">כטומאה טמונה בוקעת ועולה קסבר רבי</row>
+		<row row_number="27" isdata="1">יוסי טומאה טמונה אינה בוקעת ומנא</row>
+		<row row_number="28" isdata="1">תימרא דתנן תיבת המגדל שיש בה</row>
+		<row row_number="29" isdata="1">פותח טפח ואין ביציאתה פותח טפח</row>
+		<row row_number="30" isdata="1">טומאה בתוכה הבית טמא טומאה בבית</row>
+		<row row_number="31" isdata="1">מה שבתוכה טהור מפני שדרך טומאה</row>
+		<row row_number="32" isdata="1">לצאת ואין דרך טומאה ליכנס ורבי יוסי</row>
+		<row row_number="33" isdata="1">מטהר מפני שיכול הוא להוציאה לחצאין</row>
+		<row row_number="34" isdata="1">או לשורפה במקומה וקתני סיפא העמידה</row>
+		<row row_number="35" isdata="1">בפתח ופתחה לחוץ טומאה בתוכה הבית</row>
+		<row row_number="36" isdata="1">טהור טומאה בבית מה שבתוכה טהור</row>
+</amud>
+</daf>
+</masechet>
+</root>

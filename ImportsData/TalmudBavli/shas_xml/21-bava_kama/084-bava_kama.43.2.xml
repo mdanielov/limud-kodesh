@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:18.941462</dateCreated>
+   <lastModified>2020-01-14 15:03:18.941462</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="43">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח ארבעה וחמשה"/><ContGemara/>מיהו בן חורין דמשלם כופר ע"פ עצמו והיכי</row>
+		<row row_number="2" isdata="1">דמי דאי אתו סהדי ואסהידו ביה דקטל ולא</row>
+		<row row_number="3" isdata="1">ידעי אי תם הוה אי מועד הוה ואמר מריה</row>
+		<row row_number="4" isdata="1">דמועד הוא דמשלם כופר על פי עצמו היכא</row>
+		<row row_number="5" isdata="1">דליכא עדים משלם דמים גבי עבד שאינו</row>
+		<row row_number="6" isdata="1">משלם קנס ע"פ עצמו והיכי דמי דאי אתו</row>
+		<row row_number="7" isdata="1">עדים ואסהידו ביה דקטל ולא ידעי אי תם הוה אי מועד הוה ואמר מריה</row>
+		<row row_number="8" isdata="1">מועד הוא לא משתלם קנס ע"פ עצמו היכא דליכא עדים לא משלם דמים</row>
+		<row row_number="9" isdata="1">מתיב רב שמואל בר רב יצחק כל שחייב בבן חורין חייב בעבד בין בכופר</row>
+		<row row_number="10" isdata="1">בין במיתה כופר בעבד מי איכא אלא לאו דמים איכא דאמרי הוא מותיב</row>
+		<row row_number="11" isdata="1">לה והוא מפרק לה איכא דאמרי אמר ליה רבה הכי קתני כל שחייב בבן</row>
+		<row row_number="12" isdata="1">חורין בכוונה על פי עדים כופר חייב בעבד קנס וכל שחייב בבן חורין שלא</row>
+		<row row_number="13" isdata="1">בכוונה ע"פ עדים דמים חייב בעבד שלא בכוונה על פי עדים דמים א"ל</row>
+		<row row_number="14" isdata="1">רבא אי הכי אשו שלא בכוונה ע"פ עדים נשלם דמים ומנא ליה לרבא דלא</row>
+		<row row_number="15" isdata="1">משלם אילימא מדתנן היה גדי כפות לו ועבד סמוך לו ונשרף עמו חייב</row>
+		<row row_number="16" isdata="1">עבד כפות לו וגדי סמוך לו ונשרף עמו פטור האמר ריש לקיש כגון שהצית</row>
+		<row row_number="17" isdata="1">בגופו של עבד דקם ליה בדרבה מיניה ואלא מהא דתניא חומר באש</row>
+		<row row_number="18" isdata="1">מבבור שהאש מועדת לאכול בין דבר הראוי לה בין דבר שאין ראוי לה</row>
+		<row row_number="19" isdata="1">מה שאין כן בבור ואילו שהאש משלמת שלא בכוונה דמים מה שאין כן</row>
+		<row row_number="20" isdata="1">בבור לא קתני דלמא תנא ושייר אלא רבא גופיה אבעויי מבעיא ליה אשו</row>
+		<row row_number="21" isdata="1">שלא בכוונה מי משלם דמים או לא מי אמרינן גבי שור הוא דבכוונה</row>
+		<row row_number="22" isdata="1">משלם כופר שלא בכוונה משלם דמים אבל אשו דבכוונה לא משלם כופר</row>
+		<row row_number="23" isdata="1">שלא בכוונה נמי לא משלם דמים או דלמא כיון דגבי שורו שלא בכוונה</row>
+		<row row_number="24" isdata="1">אע"ג דליכא כופר משלם דמים גבי אשו נמי אע"ג דבכוונה לא משלם</row>
+		<row row_number="25" isdata="1">כופר שלא בכוונה מיהת משלם דמים ולא ידעינן תיקו: כי אתא רב דימי</row>
+		<row row_number="26" isdata="1">א"ר יוחנן כופר מה ת"ל אם כופר לרבות כופר שלא בכוונה ככופר בכוונה</row>
+		<row row_number="27" isdata="1">א"ל אביי אלא מעתה עבד נמי מה ת"ל אם עבד לרבות עבד שלא</row>
+		<row row_number="28" isdata="1">בכוונה כעבד בכוונה וכי תימא הכי נמי והאמר ריש לקיש שור שהמית את</row>
+		<row row_number="29" isdata="1">העבד שלא בכוונה פטור משלשים שקלים א"ל גברא אגברא קא רמית</row>
+		<row row_number="30" isdata="1">כי אתא רבין א"ר יוחנן עבד מה תלמוד לומר אם עבד לרבות עבד שלא</row>
+		<row row_number="31" isdata="1">בכוונה כעבד בכוונה ולריש לקיש נמי נימא מדעבד אם עבד לא דריש</row>
+		<row row_number="32" isdata="1">כופר אם כופר נמי לא דריש אמרי לא עבד אם עבד לא דריש כופר אם</row>
+		<row row_number="33" isdata="1">כופר דריש ומאי שנא עבד אם עבד לא כתיב במקום תשלומין כופר אם</row>
+		<row row_number="34" isdata="1">כופר כתיב במקום תשלומין: וכן בבן או בבת: ת"ר או בן יגח או בת</row>
+		<row row_number="35" isdata="1">יגח לחייב על הקטנים כגדולים והלא דין הוא הואיל וחייב אדם באדם וחייב</row>
+		<row row_number="36" isdata="1">שור באדם מה כשחייב אדם באדם לא שנא בין קטנים לגדולים אף כשחייב</row>
+		<row row_number="37" isdata="1">שור באדם לא תחלוק בו בין קטנים לגדולים ועוד קל וחומר הוא ומה</row>
+		<row row_number="38" isdata="1">אדם באדם שלא עשה בו קטנים כגדולים חייב בו על הקטנים כגדולים</row>
+</amud>
+</daf>
+</masechet>
+</root>

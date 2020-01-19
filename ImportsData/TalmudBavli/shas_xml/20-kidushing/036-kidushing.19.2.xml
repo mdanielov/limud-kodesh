@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:13.583209</dateCreated>
+   <lastModified>2020-01-14 15:03:13.584196</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="19">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>וכי משייר בה שוה פרוטה ומייעד הוו קידושין</row>
+		<row row_number="2" isdata="1">הכא נמי לא שנא ת"ר כיצד מצות יעוד</row>
+		<row row_number="3" isdata="1">אומר לה בפני שנים הרי את מקודשת לי</row>
+		<row row_number="4" isdata="1">הרי את מאורסת לי אפילו בסוף שש ואפילו</row>
+		<row row_number="5" isdata="1">סמוך לשקיעת החמה ונוהג בה מנהג אישות</row>
+		<row row_number="6" isdata="1">ואינו נוהג בה מנהג שפחות רבי יוסי ברבי</row>
+		<row row_number="7" isdata="1">יהודה אומר אם יש שהות ביום כדי לעשות</row>
+		<row row_number="8" isdata="1">עמו שוה פרוטה מקודשת ואם לאו אינה</row>
+		<row row_number="9" isdata="1">מקודשת משל לאומר לאשה התקדשי לי</row>
+		<row row_number="10" isdata="1">מעכשיו לאחר שלשים יום ובא אחר וקידשה</row>
+		<row row_number="11" isdata="1">בתוך שלשים יום שמקודשת לראשון משל</row>
+		<row row_number="12" isdata="1">למאן אילימא משל לרבי יוסי ברבי יהודה</row>
+		<row row_number="13" isdata="1">הא אם יש שהות ביום כדי לעשות עמו שוה</row>
+		<row row_number="14" isdata="1">פרוטה מקודשת ואם לאו לא אמר רב אחא</row>
+		<row row_number="15" isdata="1">בריה דרבא משל לרבנן פשיטא מהו דתימא</row>
+		<row row_number="16" isdata="1">הא לא אמר ליה מעכשיו קמ"ל תניא אידך</row>
+		<row row_number="17" isdata="1">המוכר את בתו והלך וקידשה לאחר שיחק</row>
+		<row row_number="18" isdata="1">באדון ומקודשת לשני דברי רבי יוסי ברבי</row>
+		<row row_number="19" isdata="1">יהודה וחכ"א אם רצה לייעד מייעד משל</row>
+		<row row_number="20" isdata="1">לאומר לאשה הרי את מקודשת לי לאחר</row>
+		<row row_number="21" isdata="1">שלשים יום ובא אחר וקידשה בתוך שלשים</row>
+		<row row_number="22" isdata="1">יום שמקודשת לשני משל למאן אילימא</row>
+		<row row_number="23" isdata="1">לרבנן האמרי רבנן אם רצה לייעד מייעד</row>
+		<row row_number="24" isdata="1">אלא אמר רב אחא בריה דרבא משל לר' יוסי</row>
+		<row row_number="25" isdata="1">בר' יהודה פשיטא מהו דתימא הא לא אמר</row>
+		<row row_number="26" isdata="1">לה לאחר שלשים יום קמ"ל תניא אידך</row>
+		<row row_number="27" isdata="1">המוכר את בתו ופסק על מנת שלא לייעד</row>
+		<row row_number="28" isdata="1">נתקיים התנאי דברי ר"מ וחכ"א אם רצה</row>
+		<row row_number="29" isdata="1">לייעד מייעד מפני שהתנה על מה שכתוב</row>
+		<row row_number="30" isdata="1">בתורה וכל המתנה על מה שכתוב בתורה</row>
+		<row row_number="31" isdata="1">תנאו בטל ולר"מ תנאו קיים והתניא האומר</row>
+		<row row_number="32" isdata="1">לאשה הרי את מקודשת לי ע"מ שאין לך עלי</row>
+		<row row_number="33" isdata="1">שאר כסות ועונה ה"ז מקודשת ותנאו בטל</row>
+		<row row_number="34" isdata="1">דברי ר"מ רבי יהודה אומר בדבר שבממון</row>
+		<row row_number="35" isdata="1">תנאו קיים אמר חזקיה שאני הכא דאמר</row>
+		<row row_number="36" isdata="1">קרא לאמה פעמים שאינו מוכרה אלא</row>
+		<row row_number="37" isdata="1">לאמה בלבד ורבנן האי לאמה מאי עבדי ליה</row>
+		<row row_number="38" isdata="1">האי מיבעי להו לכדתניא לאמה מלמד</row>
+		<row row_number="39" isdata="1">שמוכרה לפסולים והלא דין הוא אם</row>
+		<row row_number="40" isdata="1">מקדשה לפסולים לא ימכרנה לפסולים מה</row>
+		<row row_number="41" isdata="1">למקדשה לפסולים שכן אדם מקדש את</row>
+		<row row_number="42" isdata="1">בתו כשהיא נערה ימכרנה לפסולים שאין</row>
+		<row row_number="43" isdata="1">אדם מוכר את בתו כשהיא נערה ת"ל</row>
+		<row row_number="44" isdata="1">לאמה מלמד שמוכרה לפסולין ר' אליעזר</row>
+		<row row_number="45" isdata="1">אומר אם ללמד שמוכרה לפסולין הרי כבר</row>
+		<row row_number="46" isdata="1">נאמר אם רעה בעיני אדוניה שרעה</row>
+		<row row_number="47" isdata="1">בנישואיה מה ת"ל לאמה מלמד שמוכרה</row>
+</amud>
+</daf>
+</masechet>
+</root>

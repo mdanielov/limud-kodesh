@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:32.806383</dateCreated>
+   <lastModified>2020-01-14 15:02:32.806383</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="113">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>גזייתא נינהו דשמטי סוסיא ואתו דברי להו</row>
+		<row row_number="2" isdata="1">(וא"ל) רב לרב אסי לא תדור במתא דלא</row>
+		<row row_number="3" isdata="1">צניף בה סוסיא ולא נבח בה כלבא ואל</row>
+		<row row_number="4" isdata="1">תדור בעיר דריש מתא אסיא ולא תנסיב</row>
+		<row row_number="5" isdata="1">תרתי אי נסבת תרתי נסיב תלת א"ל רב</row>
+		<row row_number="6" isdata="1">לרב כהנא הפוך בנבילתא ולא תיפוך</row>
+		<row row_number="7" isdata="1">במילי פשוט נבילתא בשוקא ושקיל</row>
+		<row row_number="8" isdata="1">אגרא ולא תימא כהנא אנא וגברא רבא</row>
+		<row row_number="9" isdata="1">אנא וסניא בי מלתא סלקת לאיגרא שירותך</row>
+		<row row_number="10" isdata="1">בהדך מאה קרי במתא בזוזא תותי כנפיך</row>
+		<row row_number="11" isdata="1">ניהוו א"ל רב לחייא בריה לא תשתי</row>
+		<row row_number="12" isdata="1">סמא ולא תשוור ניגרא ולא תעקר ככא</row>
+		<row row_number="13" isdata="1">ולא תקנא בחיויא ולא תקנא בארמאה תנו רבנן ג' אין מתקנאין בהן</row>
+		<row row_number="14" isdata="1">ואלו הן נכרי קטן ונחש קטן ותלמיד קטן מ"ט דמלכותייהו אחורי אודנייהו</row>
+		<row row_number="15" isdata="1">קאי א"ל רב לאיבו בריה טרחי בך בשמעתא ולא מסתייע מילתא תא אגמרך</row>
+		<row row_number="16" isdata="1">מילי דעלמא אדחלא אכרעיך זבינך זבין כל מילי זבין ותחרט בר מחמרא</row>
+		<row row_number="17" isdata="1">דזבין ולא תחרט שרי כיסיך פתח שקיך קבא מארעא ולא כורא מאיגרא</row>
+		<row row_number="18" isdata="1">תמרא בחלוזך לבית סודנא רהיט ועד כמה אמר רבא עד תלתא סאה אמר</row>
+		<row row_number="19" isdata="1">רב פפא אי לא דרמאי שכרא לא איעתרי א"ד אמר רב חסדא אי לא דרמאי</row>
+		<row row_number="20" isdata="1">שכרא לא איעתרי מאי סודנא אמר רב חסדא סוד נאה וגמילות חסדים אמר</row>
+		<row row_number="21" isdata="1">רב פפא כל אגב גביא בעי כל אשראי ספק אתי ספק לא אתי ודאתי</row>
+		<row row_number="22" isdata="1">מעות רעות נינהו ג' דברים א"ר יוחנן משום אנשי ירושלים כשאתה יוצא</row>
+		<row row_number="23" isdata="1">למלחמה אל תצא בראשונה אלא תצא באחרונה כדי שתכנס בראשונה</row>
+		<row row_number="24" isdata="1">ועשה שבתך חול ואל תצטרך לבריות והוי משתדל עם מי שהשעה</row>
+		<row row_number="25" isdata="1">משחקת לו (א"ר) שלשה דברים א"ר יהושע בן לוי משום אנשי ירושלים אל</row>
+		<row row_number="26" isdata="1">תרבה בגנות משום מעשה שהיה בתך בגרה שחרר עבדך ותן לה</row>
+		<row row_number="27" isdata="1">והוי זהיר באשתך מחתנה הראשון מ"ט רב חסדא אמר משום ערוה רב כהנא</row>
+		<row row_number="28" isdata="1">אמר משום ממון הא והא איתנהו אמר רבי יוחנן שלשה מנוחלי העוה"ב אלו</row>
+		<row row_number="29" isdata="1">הן הדר בא"י והמגדל בניו לתלמוד תורה והמבדיל על היין במוצאי שבתות</row>
+		<row row_number="30" isdata="1">מאי היא דמשייר מקידושא לאבדלתא א"ר יוחנן שלשה מכריז עליהן הקב"ה</row>
+		<row row_number="31" isdata="1">בכל יום על רווק הדר בכרך ואינו חוטא ועל עני המחזיר אבידה</row>
+		<row row_number="32" isdata="1">לבעליה ועל עשיר המעשר פירותיו בצינעה רב ספרא רווק הדר בכרך הוה</row>
+</amud>
+</daf>
+</masechet>
+</root>

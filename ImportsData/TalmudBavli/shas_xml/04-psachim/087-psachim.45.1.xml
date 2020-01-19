@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.700299</dateCreated>
+   <lastModified>2020-01-14 15:02:26.700299</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="45">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו עוברין"/><ContGemara/>משום דהוה נזיר וחטאת שני כתובין הבאין</row>
+		<row row_number="2" isdata="1">כאחד ואין מלמדין נזיר הא דאמרן חטאת</row>
+		<row row_number="3" isdata="1">מאי היא דתניא כל אשר יגע בבשרה</row>
+		<row row_number="4" isdata="1">יקדש וגו' יכול אפילו לא בלעה ת"ל בבשרה</row>
+		<row row_number="5" isdata="1">(יקדש) עד שיבלע בבשר יקדש להיות</row>
+		<row row_number="6" isdata="1">כמוה שאם פסולה היא תיפסל ואם כשירה</row>
+		<row row_number="7" isdata="1">היא תאכל כחמור שבה ורבנן נמי ניהוי נזיר</row>
+		<row row_number="8" isdata="1">וחטאת שני כתובין הבאין כאחד ואין מלמדין</row>
+		<row row_number="9" isdata="1">אמרי הנהו מיצריך צריכי ור"ע מאי צריכי</row>
+		<row row_number="10" isdata="1">בשלמא אי כתב רחמנא בחטאת לא גמר נזיר</row>
+		<row row_number="11" isdata="1">מינה דחולין מקדשים לא גמרינן אלא</row>
+		<row row_number="12" isdata="1">לכתוב רחמנא בנזיר ותיתי חטאת ותגמור</row>
+		<row row_number="13" isdata="1">מיניה דהא כל איסורין שבתורה קא גמר</row>
+		<row row_number="14" isdata="1">מנזיר ורבנן אמרי לך מיצרך צריכי חטאת</row>
+		<row row_number="15" isdata="1">להיתר מצטרף לאיסור וחולין מקדשים לא</row>
+		<row row_number="16" isdata="1">גמר ומשרת ליתן טעם כעיקר ומכאן אתה דן</row>
+		<row row_number="17" isdata="1">לכל התורה כולה ור' עקיבא תרוייהו להיתר</row>
+		<row row_number="18" isdata="1">מצטרף לאיסור והוו להו שני כתובין הבאין</row>
+		<row row_number="19" isdata="1">כאחד וכל שני כתובין הבאין כאחד אין</row>
+		<row row_number="20" isdata="1">מלמדין א"ל רב אשי לרב כהנא אלא הא</row>
+		<row row_number="21" isdata="1">דתניא מכל אשר יעשה מגפן היין מחרצנים</row>
+		<row row_number="22" isdata="1">ועד זג לימד על איסורי נזיר שמצטרפים זה</row>
+		<row row_number="23" isdata="1">עם זה השתא לר"ע איסור והיתר מצטרפין</row>
+		<row row_number="24" isdata="1">איסור ואיסור מיבעיא אמר ליה איסור והיתר</row>
+		<row row_number="25" isdata="1">בבת אחת איסור ואיסור בזה אחר זה:</row>
+		<row row_number="26" isdata="1"><EndGemara/><StartMishna/>מתני' בצק שבסידקי עריבה אם יש כזית</row>
+		<row row_number="27" isdata="1">במקום אחד חייב לבער ואם (לא) בטל</row>
+		<row row_number="28" isdata="1">במיעוטו וכן לענין הטומאה אם מקפיד עליו</row>
+		<row row_number="29" isdata="1">חוצץ ואם רוצה בקיומו הרי הוא כעריבה:</row>
+		<row row_number="30" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר שמואל לא שנו</row>
+		<row row_number="31" isdata="1">אלא במקום שאין עשויין לחזק אבל במקום</row>
+		<row row_number="32" isdata="1">שעשויין לחזק אינו חייב לבער מכלל דפחות</row>
+		<row row_number="33" isdata="1">מכזית אפי' במקום שאין עשוי לחזק אינו חייב</row>
+		<row row_number="34" isdata="1">לבער איכא דמתני לה אסיפא ואם לאו בטל</row>
+		<row row_number="35" isdata="1">במיעוטו אמר רב יהודה אמר שמואל לא</row>
+		<row row_number="36" isdata="1">שנו אלא במקום העשוי לחזק אבל במקום</row>
+		<row row_number="37" isdata="1">שאין עשוי לחזק חייב לבער מכלל דכזית</row>
+		<row row_number="38" isdata="1">אפילו במקום העשוי לחזק חייב לבער תניא</row>
+		<row row_number="39" isdata="1">כלישנא קמא תניא כלישנא בתרא תניא</row>
+		<row row_number="40" isdata="1">כלישנא קמא בצק שבסידקי עריבה</row>
+		<row row_number="41" isdata="1">במקום העשוי לחזק אינו חוצץ ואינו עובר</row>
+		<row row_number="42" isdata="1">ובמקום שאין עשוי לחזק חוצץ ועובר במה דברים אמורים בכזית אבל</row>
+		<row row_number="43" isdata="1">בפחות מכזית אפילו במקום שאין עשוי לחזק אינו חוצץ ואינו עובר</row>
+		<row row_number="44" isdata="1">ותניא כלישנא בתרא בצק שבסידקי עריבה במקום העשוי לחזק</row>
+</amud>
+</daf>
+</masechet>
+</root>

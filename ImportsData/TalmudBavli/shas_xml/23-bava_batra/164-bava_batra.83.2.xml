@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:33.198558</dateCreated>
+   <lastModified>2020-01-14 15:03:33.198558</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="83">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContMishna/>בעי רב אשי בור מהו שתפסיק אמת</row>
+		<row row_number="2" isdata="1">המים מהו שתפסיק רשות הרבים מהו</row>
+		<row row_number="3" isdata="1">ריכבא דדיקלי מהו תיקו בעא מיניה הלל</row>
+		<row row_number="4" isdata="1">מרבי עלה ארז ביניהן מהו עלה ברשותא</row>
+		<row row_number="5" isdata="1">דידיה נפק אלא היה ארז ביניהן מהו אמר</row>
+		<row row_number="6" isdata="1">ליה קנה וקנה: כיצד הן עומדים רב אמר</row>
+		<row row_number="7" isdata="1">כשורה ושמואל אמר כחצובא מ"ד כשורה</row>
+		<row row_number="8" isdata="1">כ"ש כחצובא ומ"ד כחצובא אבל כשורה לא</row>
+		<row row_number="9" isdata="1">מ"ט משום דמיזדרע בינתייהו מתקיף לה</row>
+		<row row_number="10" isdata="1">רב המנונא ולמ"ד כחצובא מ"ט דלא</row>
+		<row row_number="11" isdata="1">מיזדרע בינתייהו אלא מעתה זבין ליה תלת</row>
+		<row row_number="12" isdata="1">היגי רומייתא דלא מיזדרע בינתייהו הכי</row>
+		<row row_number="13" isdata="1">נמי דיש לו קרקע א"ל הנך לא חשיבי הנך</row>
+		<row row_number="14" isdata="1">חשיבי<EndGemara/><StartMishna/>מתני' המוכר ראש בהמה גסה</row>
+		<row row_number="15" isdata="1">לא מכר את הרגלים מכר את הרגלים לא</row>
+		<row row_number="16" isdata="1">מכר את הראש מכר את הקנה לא מכר את</row>
+		<row row_number="17" isdata="1">הכבד מכר את הכבד לא מכר את הקנה</row>
+		<row row_number="18" isdata="1">אבל בדקה מכר את הראש מכר את הרגלים</row>
+		<row row_number="19" isdata="1">מכר את הרגלים לא מכר את הראש מכר</row>
+		<row row_number="20" isdata="1">את הקנה מכר את הכבד מכר את הכבד</row>
+		<row row_number="21" isdata="1">לא מכר את הקנה: ארבע מדות במוכרין</row>
+		<row row_number="22" isdata="1">מכר לו חטין יפות ונמצאו רעות הלוקח יכול</row>
+		<row row_number="23" isdata="1">לחזור בו רעות ונמצאו יפות מוכר יכול לחזור בו רעות ונמצאו רעות יפות ונמצאו</row>
+		<row row_number="24" isdata="1">יפות אין אחד מהם יכול לחזור בו שחמתית ונמצאת לבנה לבנה ונמצאת שחמתית</row>
+		<row row_number="25" isdata="1">עצים של זית ונמצאו של שקמה של שקמה ונמצאו של זית יין ונמצא חומץ חומץ</row>
+		<row row_number="26" isdata="1">ונמצא יין שניהם יכולין לחזור בהן:<EndMishna/><StartGemara/>גמ' אמר רב חסדא מכר לו שוה חמש</row>
+		<row row_number="27" isdata="1">בשש והוקר ועמד על שמנה מי נתאנה לוקח לוקח יכול לחזור בו ולא מוכר משום</row>
+</amud>
+</daf>
+</masechet>
+</root>

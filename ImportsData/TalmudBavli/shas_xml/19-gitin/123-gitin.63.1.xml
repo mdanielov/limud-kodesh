@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:11.677271</dateCreated>
+   <lastModified>2020-01-14 15:03:11.677271</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="63">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האומר"/><ContGemara/>בשלמא אי איתמר איפכא התקבל לי גיטי</row>
+		<row row_number="2" isdata="1">ואשתך אמרה הבא לי גיטי והוא אמר הילך</row>
+		<row row_number="3" isdata="1">כמה שאמרה וא"ר נחמן אמר רבה בר אבוה</row>
+		<row row_number="4" isdata="1">אמר רב כיון שהגיע גט לידו מגורשת</row>
+		<row row_number="5" isdata="1">אלמא אדיבורא דידה הוא דקא סמיך א"נ</row>
+		<row row_number="6" isdata="1">לידה אדיבורא דידיה קא סמיך אלא הכא</row>
+		<row row_number="7" isdata="1">משום דעקריה שליח לשליחותיה לגמרי הוא</row>
+		<row row_number="8" isdata="1">דאמר שליח לקבלה הוינא להולכה לא הוינא</row>
+		<row row_number="9" isdata="1">א"ר הונא בר חייא תא שמע האומר התקבל</row>
+		<row row_number="10" isdata="1">גט זה לאשתי או הולך גט זה לאשתי רצה</row>
+		<row row_number="11" isdata="1">לחזור יחזור טעמא דרצה הא לא רצה הוי</row>
+		<row row_number="12" isdata="1">גט ואמאי הא בעל לאו בר שויא שליח</row>
+		<row row_number="13" isdata="1">לקבלה הוא אלא אמרינן כיון שנתן עיניו</row>
+		<row row_number="14" isdata="1">לגרשה מימר אמר תיגרש כל היכי דמגרשה</row>
+		<row row_number="15" isdata="1">הכא נמי כיון שנתן עיניו לגרשה מימר אמר תיגרש כל היכי דמגרשה</row>
+		<row row_number="16" isdata="1">הכי השתא התם אדם יודע שאין שליחות לקבלה וגמר ונתן לשם הולכה</row>
+		<row row_number="17" isdata="1">הכא טעי אמר רבא תא שמע קטנה שאמרה התקבל לי גיטי אינו גט</row>
+		<row row_number="18" isdata="1">עד שיגיע גט לידה כי מטי גיטא לידה מיהא מגרשה ואמאי והא לאו</row>
+		<row row_number="19" isdata="1">שליח להולכה שוייה אלא אמרינן כיון שנתן עיניו לגרשה מימר אמר תיגרש</row>
+		<row row_number="20" isdata="1">כל היכי דמגרשה ה"נ כיון שנתן עיניו לגרשה מימר אמר תיגרש כל היכי</row>
+		<row row_number="21" isdata="1">דמגרשה הכי השתא התם אדם יודע שאין שליחות לקטן וגמר ונתן לה</row>
+		<row row_number="22" isdata="1">לשום הולכה דידיה הכא טעי ת"ש הבא לי גיטי ואשתך אמרה התקבל</row>
+		<row row_number="23" isdata="1">לי גיטי התקבל לי גיטי ואשתך אמרה הבא לי גיטי והוא אמר הולך ותן לה</row>
+		<row row_number="24" isdata="1">זכי לה והתקבל לה רצה לחזור יחזור משהגיע גט לידה מגורשת מאי לאו</row>
+		<row row_number="25" isdata="1">קבלה אקבלה והולכה אהולכה לא קבלה אהולכה והולכה אקבלה אי</row>
+		<row row_number="26" isdata="1">קבלה אהולכה מכי מטי גיטא לידיה לאלתר ליהוי גיטא שמעת מינה</row>
+		<row row_number="27" isdata="1">דאדיבורא דידיה קא סמיך הכי השתא התם קאמר ליה הילך כמה</row>
+		<row row_number="28" isdata="1">שאמרה הכא מי קאמר ליה הילך כמה שאמרה ת"ר התקבל לי גיטי</row>
+		<row row_number="29" isdata="1">ואשתך אמרה התקבל לי גיטי והוא אומר הולך ותן לה זכי לה והתקבל</row>
+		<row row_number="30" isdata="1">לה רצה לחזור לא יחזור ר' נתן אומר הולך ותן לה רצה לחזור יחזור</row>
+		<row row_number="31" isdata="1">זכי לה והתקבל לה רצה לחזור לא יחזור רבי אומר בכולן אם רצה לחזור</row>
+		<row row_number="32" isdata="1">לא יחזור אבל אם אמר לו אי איפשי שתקבל לה אלא הולך ותן לה רצה</row>
+		<row row_number="33" isdata="1">לחזור יחזור רבי היינו ת"ק איבעית אימא אי איפשי אתא לאשמועי' ואיבעית</row>
+		<row row_number="34" isdata="1">אימא הא קא משמע לן מאן ת"ק רבי איבעיא להו הילך לר' נתן כזכי דמי או</row>
+		<row row_number="35" isdata="1">לאו כזכי דמי ת"ש האומר התקבל גט זה לאשתי או הולך גט זה לאשתי</row>
+		<row row_number="36" isdata="1">רצה לחזור יחזור האשה שאמרה התקבל לי גיטי רצה לחזור לא יחזור</row>
+</amud>
+</daf>
+</masechet>
+</root>

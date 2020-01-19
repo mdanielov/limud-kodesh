@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:24.228480</dateCreated>
+   <lastModified>2020-01-14 15:02:24.228480</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="96">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>ואיבעית אימא דכ"ע לצאת לא בעי כוונה</row>
+		<row row_number="2" isdata="1">והכא לעבור משום בל תוסיף קמיפלגי</row>
+		<row row_number="3" isdata="1">דתנא קמא סבר לעבור משום בל תוסיף לא</row>
+		<row row_number="4" isdata="1">בעי כוונה ורבן גמליאל סבר לעבור משום</row>
+		<row row_number="5" isdata="1">בל תוסיף בעי כוונה ואיבעית אימא אי</row>
+		<row row_number="6" isdata="1">דסבירא לן דשבת זמן תפילין דכ"ע לא</row>
+		<row row_number="7" isdata="1">לעבור בעי כוונה ולא לצאת בעי כוונה והכא</row>
+		<row row_number="8" isdata="1">בלעבור שלא בזמנו קמיפלגי תנא קמא סבר</row>
+		<row row_number="9" isdata="1">לא בעי כוונה ורבן גמליאל סבר לעבור שלא</row>
+		<row row_number="10" isdata="1">בזמנו בעי כוונה אי הכי לרבי מאיר זוג</row>
+		<row row_number="11" isdata="1">אחד נמי לא ועוד הישן בשמיני בסוכה</row>
+		<row row_number="12" isdata="1">ילקה אלא מחוורתא כדשנינן מעיקרא ומאן</row>
+		<row row_number="13" isdata="1">שמעת ליה שבת זמן תפילין ר' עקיבא</row>
+		<row row_number="14" isdata="1">דתניא ושמרת את החקה הזאת למועדה</row>
+		<row row_number="15" isdata="1">מימים ימימה ימים ולא לילות מימים ולא</row>
+		<row row_number="16" isdata="1">כל ימים פרט לשבתות וימים טובים דברי</row>
+		<row row_number="17" isdata="1">רבי יוסי הגלילי ר' עקיבא אומר לא נאמר</row>
+		<row row_number="18" isdata="1">חוקה זו אלא לענין פסח בלבד ואלא הא</row>
+		<row row_number="19" isdata="1">דתנן הפסח והמילה מצות עשה לימא דלא</row>
+		<row row_number="20" isdata="1">כרבי עקיבא דאי ר"ע כיון דמוקי לה בפסח</row>
+		<row row_number="21" isdata="1">לאו נמי איכא כדרבי אבין א"ר אילעאי</row>
+		<row row_number="22" isdata="1">דאמר רבי אבין אמר רבי אילעאי כל מקום</row>
+		<row row_number="23" isdata="1">שנאמר השמר פן ואל אינו אלא בלא תעשה</row>
+		<row row_number="24" isdata="1">אפילו תימא רבי עקיבא השמר דלאו לאו</row>
+		<row row_number="25" isdata="1">השמר דעשה עשה וסבר רבי עקיבא שבת</row>
+		<row row_number="26" isdata="1">זמן תפילין הוא והתניא ר"ע אומר יכול</row>
+		<row row_number="27" isdata="1">יניח אדם תפילין בשבתות וימים טובים ת"ל</row>
+		<row row_number="28" isdata="1">והיה לך לאות על ידך מי שצריכין אות יצאו</row>
+		<row row_number="29" isdata="1">אלו שהן גופן אות אלא האי תנא הוא</row>
+		<row row_number="30" isdata="1">דתניא הניעור בלילה רצה חולץ רצה מניח</row>
+		<row row_number="31" isdata="1">דברי רבי נתן יונתן הקיטוני אומר אין מניחין</row>
+		<row row_number="32" isdata="1">תפילין בלילה מדלילה לתנא קמא זמן תפילין</row>
+		<row row_number="33" isdata="1">שבת נמי זמן תפילין דילמא ס"ל לילה</row>
+		<row row_number="34" isdata="1">זמן תפילין הוא שבת לאו זמן תפילין הוא</row>
+		<row row_number="35" isdata="1">דהא שמעינן ליה לרבי עקיבא דאמר לילה</row>
+		<row row_number="36" isdata="1">זמן תפילין הוא שבת לאו זמן תפילין הוא</row>
+		<row row_number="37" isdata="1">אלא האי תנא הוא דתניא מיכל בת כושי</row>
+		<row row_number="38" isdata="1">היתה מנחת תפילין ולא מיחו בה חכמים</row>
+		<row row_number="39" isdata="1">ואשתו של יונה היתה עולה לרגל</row>
+		<row row_number="40" isdata="1">ולא מיחו בה חכמים מדלא מיחו בה</row>
+		<row row_number="41" isdata="1">חכמים אלמא קסברי מצות עשה שלא</row>
+		<row row_number="42" isdata="1">הזמן גרמא היא ודילמא סבר לה</row>
+</amud>
+</daf>
+</masechet>
+</root>

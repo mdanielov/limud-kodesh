@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:05.542858</dateCreated>
+   <lastModified>2020-01-14 15:03:05.542858</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="44">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שלשה מינין"/><ContMishna/>מתני' תגלחת טומאה כיצד היה מזה<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">בשלישי ובשביעי ומגלח בשביעי ומביא</row>
+		<row row_number="3" isdata="1">קרבנותיו בשמיני ואם גילח בשמיני מביא</row>
+		<row row_number="4" isdata="1">קרבנותיו בו ביום דברי ר"ע א"ל ר' טרפון מה</row>
+		<row row_number="5" isdata="1">בין זה למצורע א"ל זה טהרתו תלויה בימיו</row>
+		<row row_number="6" isdata="1">ומצורע טהרתו תלויה בתגלחתו ואינו מביא</row>
+		<row row_number="7" isdata="1">קרבן אא"כ היה מעורב שמש:<EndMishna/><StartGemara/>גמ' קיבלה</row>
+		<row row_number="8" isdata="1">מיניה או לא ת"ש דתני הלל גילח בשמיני</row>
+		<row row_number="9" isdata="1">מביא קרבנותיו בתשיעי ואי ס"ד קיבלה</row>
+		<row row_number="10" isdata="1">מיניה ליתי קרבנותיו בשמיני אמר רבא לא</row>
+		<row row_number="11" isdata="1">קשיא הא דטבל בשביעי הא דלא טבל</row>
+		<row row_number="12" isdata="1">בשביעי אמר אביי אשכחתינהו לחבריה</row>
+		<row row_number="13" isdata="1">דרב נתן בר הושעיא דיתבין וקאמרין ובא</row>
+		<row row_number="14" isdata="1">לפני ה' אל פתח אהל מועד ונתנם אל הכהן</row>
+		<row row_number="15" isdata="1">אימתי הוא [בא] בזמן שהוא טבל ועשה</row>
+		<row row_number="16" isdata="1">הערב שמש אין לא טבל ועשה הערב שמש</row>
+		<row row_number="17" isdata="1">לא אלמא קסבר טבול יום של זב כזב דמי</row>
+		<row row_number="18" isdata="1">אמינא להון אנא אלא מעתה גבי נזיר</row>
+		<row row_number="19" isdata="1">טמא נמי דכתיב ( והביא אותם) אל</row>
+		<row row_number="20" isdata="1">הכהן אל פתח אהל מועד אימתי הוא</row>
+		<row row_number="21" isdata="1">[בא] בזמן שטבל ועשה הערב שמש</row>
+</amud>
+</daf>
+</masechet>
+</root>

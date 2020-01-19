@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:04.384107</dateCreated>
+   <lastModified>2020-01-14 15:03:04.384107</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="25">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאמר"/><ContGemara/>והלא דמי חטאת מעורבין בהן א"ר יוחנן</row>
+		<row row_number="2" isdata="1">הלכה היא בנזיר ר"ל אמר לכל נדריהם</row>
+		<row row_number="3" isdata="1">ולכל נדבותם התורה אמרה מותר נדר יהא</row>
+		<row row_number="4" isdata="1">לנדבה בשלמא לר' יוחנן דאמר הלכה היא</row>
+		<row row_number="5" isdata="1">בנזיר אמטו להכי סתומין אין מפורשין לא</row>
+		<row row_number="6" isdata="1">אלא לר"ל לכל נדריהם ולכל נדבותם</row>
+		<row row_number="7" isdata="1">מאי איריא סתומין אפי' מפורשין אמר רבא</row>
+		<row row_number="8" isdata="1">מפורשין לא מצית אמרת כבר פסקה תנא</row>
+		<row row_number="9" isdata="1">דבי ר' ישמעאל רק קדשיך אשר יהיו לך</row>
+		<row row_number="10" isdata="1">ונדריך בולדי קדשים ובתמורתם הכתוב</row>
+		<row row_number="11" isdata="1">מדבר מה תקנתן תשא ובאת אל המקום</row>
+		<row row_number="12" isdata="1">אשר יבחר ה' יכול יעלם לבית הבחירה</row>
+		<row row_number="13" isdata="1">וימנע מהם מים ומזון בשביל שימותו ת"ל</row>
+		<row row_number="14" isdata="1">ועשית עולותיך הבשר והדם לומר לך</row>
+		<row row_number="15" isdata="1">כדרך שאתה נוהג בעולה נהוג בתמורתה</row>
+		<row row_number="16" isdata="1">כדרך שאתה נוהג בשלמים נהוג בולדיהם</row>
+		<row row_number="17" isdata="1">יכול אף ולד חטאת ותמורת אשם כן ת"ל</row>
+		<row row_number="18" isdata="1">רק דברי ר' ישמעאל ר"ע אומר אינו צריך</row>
+		<row row_number="19" isdata="1">הרי הוא אומר אשם הוא בהוייתו יהא קתני</row>
+		<row row_number="20" isdata="1">יכול יעלם לבית הבחירה וימנע מהם מים</row>
+		<row row_number="21" isdata="1">ומזון בשביל שימותו ת"ל ועשית עולותיך</row>
+		<row row_number="22" isdata="1">אמאי הא ולד חטאת הוא דגמירין בה מיתה</row>
+		<row row_number="23" isdata="1">אי לאו קרא ה"א ולד חטאת בכל מקום</row>
+</amud>
+</daf>
+</masechet>
+</root>

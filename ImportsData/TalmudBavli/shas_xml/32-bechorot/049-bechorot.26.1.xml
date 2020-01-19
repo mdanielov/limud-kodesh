@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:19.836538</dateCreated>
+   <lastModified>2020-01-14 15:04:19.836538</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="26">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח בהמה"/><ContGemara/>הא בעל מום שרי אע"פ שלא התירו מומחה</row>
+		<row row_number="2" isdata="1">תנא כל היכא דלא התירו מומחה תם קרי ליה</row>
+		<row row_number="3" isdata="1">לימא כתנאי התולש צמר מבכור תם אע"פ</row>
+		<row row_number="4" isdata="1">שנולד בו מום ושחטו אסור בכור בעל מום</row>
+		<row row_number="5" isdata="1">שתלש ממנו ואח"כ מת עקביא בן מהללאל</row>
+		<row row_number="6" isdata="1">מתיר וחכמים אוסרים אמר רבי יהודה לא בזה</row>
+		<row row_number="7" isdata="1">התיר עקביא בן מהללאל אלא בשער בכור</row>
+		<row row_number="8" isdata="1">בעל מום שנשר והניחו בחלון ואחר כך שחטו</row>
+		<row row_number="9" isdata="1">בזה עקביא בן מהללאל מתיר וחכמים אוסרין</row>
+		<row row_number="10" isdata="1">אמר רבי יוסי מודה אבא חלפתא בזה שהוא</row>
+		<row row_number="11" isdata="1">מותר אבל בייחוד אמרו חכמים יניחנו בחלון</row>
+		<row row_number="12" isdata="1">שמא יש תקוה שחטו דברי הכל מותר מת</row>
+		<row row_number="13" isdata="1">עקביא בן מהללאל מתיר וחכמים אוסרים ר'</row>
+		<row row_number="14" isdata="1">יוסי היינו תנא קמא אלא לאו התירו מומחה</row>
+		<row row_number="15" isdata="1">איכא בינייהו דתנא קמא סבר התירו מומחה</row>
+		<row row_number="16" isdata="1">אין ואי לא לא ואתא ר' יוסי למימר אע"ג דלא</row>
+		<row row_number="17" isdata="1">התירו מומחה אמר רבא לא דכולי עלמא אי</row>
+		<row row_number="18" isdata="1">התירו מומחה אין אי לא התירו לא ושלש</row>
+		<row row_number="19" isdata="1">מחלוקת בדבר דת"ק סבר פליגי במת והוא</row>
+		<row row_number="20" isdata="1">הדין לשחטו והאי דקמיפלגי במת להודיעך</row>
+		<row row_number="21" isdata="1">כחו דעקביא ור' יהודה סבר במת דברי הכל</row>
+		<row row_number="22" isdata="1">אסור כי פליגי בשחטו ואתא ר' יוסי למימר</row>
+		<row row_number="23" isdata="1">בשחטו דברי הכל מותר כי פליגי במת אמר</row>
+		<row row_number="24" isdata="1">רב נחמן הלכה כרבי יהודה הואיל ותנן</row>
+		<row row_number="25" isdata="1">בבחירתא כוותיה דתנן שער בכור בעל מום</row>
+		<row row_number="26" isdata="1">שנשר והניחו בחלון ואחר כך שחטו עקביא</row>
+		<row row_number="27" isdata="1">בן מהללאל מתיר וחכמים אוסרין אמר רב</row>
+		<row row_number="28" isdata="1">נחמן בר יצחק מתניתין נמי דיקא דתנן צמר</row>
+		<row row_number="29" isdata="1">המדולדל בבכור את שנראה עם הגיזה מותר</row>
+		<row row_number="30" isdata="1">ואת שאינו נראה אסור מני אילימא ר' יוסי</row>
+		<row row_number="31" isdata="1">ובמאי אילימא בשחטו בין עקביא בין רבנן</row>
+		<row row_number="32" isdata="1">אידי ואידי משרא שרי ואלא במת ואי רבנן אידי</row>
+		<row row_number="33" isdata="1">ואידי מיסר אסרי ואי עקביא איפכא מיבעיא</row>
+		<row row_number="34" isdata="1">ליה נראה עם הגיזה אסור דמיתה קאסרה לי'</row>
+		<row row_number="35" isdata="1">אינו נראה עם הגיזה מותר דמעיקרא תליש</row>
+		<row row_number="36" isdata="1">אלא פשיטא ר' יהודה ובמאי אילימא במת בין</row>
+		<row row_number="37" isdata="1">לעקביא בין לרבנן אידי ואידי מיסר אסרי אלא</row>
+		<row row_number="38" isdata="1">לאו בשחטה ואי עקביא אידי ואידי משרא</row>
+		<row row_number="39" isdata="1">שרי אלא לאו רבנן היא וש"מ בשחטו פליגי</row>
+		<row row_number="40" isdata="1">ש"מ בעי ר' ינאי התולש צמר מעולה תמימה</row>
+		<row row_number="41" isdata="1">מהו תולש מי איכא מאן דשרי אלא צמר</row>
+		<row row_number="42" isdata="1">שנתלש מעולה תמימה מהו דחטאת ואשם</row>
+		<row row_number="43" isdata="1">לא תיבעי לך דכיון דלכפרה אתו לא משהו</row>
+		<row row_number="44" isdata="1">להו דבכור ומעשר נמי דכיון דלאו לכפרה</row>
+		<row row_number="45" isdata="1">אתו משהו להו כי תיבעי לך דעולה מאי כיון</row>
+</amud>
+</daf>
+</masechet>
+</root>

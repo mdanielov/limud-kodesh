@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:42.871680</dateCreated>
+   <lastModified>2020-01-14 15:02:42.871680</lastModified>
+ </meta>
+ <masechet name="ראש השנה" serial="09">
+<daf value="5">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה ראשי שנים"/><ContGemara/>מה חג המצות טעון לינה אף חג הסוכות</row>
+		<row row_number="2" isdata="1">טעון לינה והתם מנלן דכתיב ופנית בבקר</row>
+		<row row_number="3" isdata="1">והלכת לאהליך ות"ק ורבי שמעון (בן אלעזר)</row>
+		<row row_number="4" isdata="1">תשלומין לעצרת מנא להו נפקא להו מדתני</row>
+		<row row_number="5" isdata="1">רבה בר שמואל דתני רבה בר שמואל</row>
+		<row row_number="6" isdata="1">אמרה תורה מנה ימים וקדש חדש מנה</row>
+		<row row_number="7" isdata="1">ימים וקדש עצרת מה חדש למנויו אף</row>
+		<row row_number="8" isdata="1">עצרת למנויו אימא עצרת חד יומא אמר</row>
+		<row row_number="9" isdata="1">רבא אטו עצרת יומי מנינן שבועי לא</row>
+		<row row_number="10" isdata="1">מנינן והאמר מר מצוה למימני יומי ומצוה</row>
+		<row row_number="11" isdata="1">למימני שבועי ועוד חג שבועות כתיב ופסח</row>
+		<row row_number="12" isdata="1">בר מיקרב ברגלים הוא פסח זימנא קביעא</row>
+		<row row_number="13" isdata="1">ליה אי אקרביה אקרביה ואי לא אקרביה</row>
+		<row row_number="14" isdata="1">אידחי ליה אמר רב חסדא פסח כדי נסבה</row>
+		<row row_number="15" isdata="1">רב ששת אמר מאי פסח שלמי פסח אי הכי</row>
+		<row row_number="16" isdata="1">היינו שלמים תנא שלמים הבאין מחמת פסח</row>
+		<row row_number="17" isdata="1">ותנא שלמים הבאין מחמת עצמן סלקא דעתך אמינא הואיל ומחמת פסח קאתו</row>
+</amud>
+</daf>
+</masechet>
+</root>

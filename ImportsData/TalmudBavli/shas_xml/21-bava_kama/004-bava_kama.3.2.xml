@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:17.212913</dateCreated>
+   <lastModified>2020-01-14 15:03:17.212913</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אבות"/><ContGemara/>ואי דלא אפקרינהו אי לשמואל דאמר כולם</row>
+		<row row_number="2" isdata="1">מבורו למדנו היינו בור ואי לרב דאמר כולם</row>
+		<row row_number="3" isdata="1">משורו למדנו היינו שור מאי שנא בור שכן</row>
+		<row row_number="4" isdata="1">תחלת עשייתו לנזק וממונך ושמירתו עליך</row>
+		<row row_number="5" isdata="1">הני נמי תחלת עשייתן לנזק וממונך ושמירתן</row>
+		<row row_number="6" isdata="1">עליך אלא תולדה דבור כבור וכי קאמר רב</row>
+		<row row_number="7" isdata="1">פפא אתולדה דמבעה מאי ניהו אי לשמואל</row>
+		<row row_number="8" isdata="1">דאמר מבעה זו שן הא אוקימנא תולדה דשן</row>
+		<row row_number="9" isdata="1">כשן אי לרב דאמר מבעה זה אדם מאי אבות</row>
+		<row row_number="10" isdata="1">ומאי תולדות אית ביה וכי תימא אב ניעור</row>
+		<row row_number="11" isdata="1">תולדה ישן והתנן אדם מועד לעולם בין</row>
+		<row row_number="12" isdata="1">ער בין ישן אלא אכיחו וניעו היכי דמי אי</row>
+		<row row_number="13" isdata="1">בהדי דאזלי קמזקי כחו הוה אי בתר דנייח</row>
+		<row row_number="14" isdata="1">בין לרב בין לשמואל היינו בור אלא תולדה</row>
+		<row row_number="15" isdata="1">דמבעה כמבעה וכי קאמר רב פפא אתולדה</row>
+		<row row_number="16" isdata="1">דאש תולדה דאש מאי ניהו אילימא אבנו</row>
+		<row row_number="17" isdata="1">סכינו ומשאו שהניחן בראש גגו ונפלו</row>
+		<row row_number="18" isdata="1">ברוח מצויה והזיקו היכי דמי אי בהדי</row>
+		<row row_number="19" isdata="1">דאזלו קא מזקי היינו אש מ"ש אש דכח</row>
+		<row row_number="20" isdata="1">אחר מעורב בהן וממונך ושמירתו עליך הני</row>
+		<row row_number="21" isdata="1">נמי כח אחר מעורב בהן וממונך ושמירתן</row>
+		<row row_number="22" isdata="1">עליך אלא תולדה דאש כאש וכי קאמר</row>
+		<row row_number="23" isdata="1">רב פפא אתולדה דרגל רגל הא אוקימנא</row>
+		<row row_number="24" isdata="1">תולדה דרגל כרגל בחצי נזק צרורות</row>
+		<row row_number="25" isdata="1">דהלכתא גמירי לה ואמאי קרי לה תולדה</row>
+		<row row_number="26" isdata="1">דרגל לשלם מן העלייה והא מבעיא בעי</row>
+		<row row_number="27" isdata="1">רבא דבעי רבא חצי נזק צרורות מגופו</row>
+		<row row_number="28" isdata="1">משלם או מן העלייה משלם לרבא מבעיא</row>
+		<row row_number="29" isdata="1">ליה לרב פפא פשיטא ליה לרבא דמבעיא</row>
+		<row row_number="30" isdata="1">ליה אמאי קרי לה תולדה דרגל לפוטרה</row>
+		<row row_number="31" isdata="1">ברה"ר: המבעה וההבער כו': מאי מבעה רב</row>
+		<row row_number="32" isdata="1">אמר מבעה זה אדם ושמואל אמר מבעה זה</row>
+		<row row_number="33" isdata="1">השן רב אמר מבעה זה אדם דכתיב אמר</row>
+		<row row_number="34" isdata="1">שומר אתא בקר וגם לילה אם תבעיון בעיו</row>
+		<row row_number="35" isdata="1">ושמואל אמר מבעה זה השן דכתיב איך</row>
+		<row row_number="36" isdata="1">נחפשו עשו נבעו מצפוניו מאי משמע</row>
+		<row row_number="37" isdata="1">כדמתרגם רב יוסף איכדין איתבליש עשו</row>
+		<row row_number="38" isdata="1">אתגלין מטמרוהי ורב מאי טעמא לא אמר</row>
+		<row row_number="39" isdata="1">כשמואל אמר לך מי קתני נבעה ושמואל</row>
+		<row row_number="40" isdata="1">מ"ט לא אמר כרב אמר לך מי קתני בועה</row>
+		<row row_number="41" isdata="1">מכדי קראי לא כמר דייקי ולא כמר דייקי</row>
+		<row row_number="42" isdata="1">רב מ"ט לא אמר כשמואל תנא שור וכל</row>
+		<row row_number="43" isdata="1">מילי דשור ושמואל נמי הא תנא ליה</row>
+		<row row_number="44" isdata="1">שור אמר רב יהודה תנא שור לקרנו</row>
+		<row row_number="45" isdata="1">ומבעה לשינו והכי קאמר לא ראי הקרן שאין</row>
+		<row row_number="46" isdata="1">הנאה להזיקו כראי השן שיש הנאה להזיקה</row>
+</amud>
+</daf>
+</masechet>
+</root>

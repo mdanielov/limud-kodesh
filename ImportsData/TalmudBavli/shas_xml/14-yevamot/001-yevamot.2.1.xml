@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:48.368687</dateCreated>
+   <lastModified>2020-01-14 15:02:48.368687</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "חמש עשרה נשים"/><StartMishna/><ContChapter name = "חמש עשרה נשים"/><ContMishna/>חמש</row>
+		<row row_number="2" isdata="1">עשרה נשים פוטרות צרותיהן וצרות</row>
+		<row row_number="3" isdata="1">צרותיהן מן החליצה ומן היבום עד סוף</row>
+		<row row_number="4" isdata="1">העולם ואלו הן בתו ובת בתו ובת בנו</row>
+		<row row_number="5" isdata="1">בת אשתו ובת בנה ובת בתה חמותו</row>
+		<row row_number="6" isdata="1">ואם חמותו ואם חמיו אחותו מאמו ואחות</row>
+		<row row_number="7" isdata="1">אמו ואחות אשתו ואשת אחיו מאמו</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:41.922630</dateCreated>
+   <lastModified>2020-01-14 15:03:41.922630</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבע מיתות"/><ContGemara/>אסורה וריש לקיש אמר מותרת הניחא לר'</row>
+		<row row_number="2" isdata="1">יוחנן אלא לריש לקיש בעי קרא מתקיף לה</row>
+		<row row_number="3" isdata="1">רב פפא ולרבי יוחנן לא בעי קרא עד כאן</row>
+		<row row_number="4" isdata="1">לא קא אסר רבי יוחנן אלא בהמה אבל</row>
+		<row row_number="5" isdata="1">גברא לא בר קטלא הוא ואתא קרא לחיובי</row>
+		<row row_number="6" isdata="1">גברא לקטלא מתקיף לה רב אחא בריה</row>
+		<row row_number="7" isdata="1">דרב איקא ולר"ל מי בעי קרא עד כאן לא</row>
+		<row row_number="8" isdata="1">קא שרי ר"ל אלא בהמה אבל גברא בר</row>
+		<row row_number="9" isdata="1">קטלא הוא מידי דהוה אמשתחוה להר דהר</row>
+		<row row_number="10" isdata="1">מותר ועובדה בסייף א"ל רב אחא מדפתי</row>
+		<row row_number="11" isdata="1">לרבינא למאי דקאמר ליה רבא בר רב חנן</row>
+		<row row_number="12" isdata="1">לאביי אימא יצאה השתחואה ללמד על</row>
+		<row row_number="13" isdata="1">הכלל כולו איכה יעבדו למעוטי מאי וכי</row>
+		<row row_number="14" isdata="1">תימא למעוטי הפוער עצמו לזובחים</row>
+		<row row_number="15" isdata="1">מהשתחואה נפקא מה השתחואה דרך</row>
+		<row row_number="16" isdata="1">כיבוד אף כל דרך כיבוד אלא למעוטי</row>
+		<row row_number="17" isdata="1">הפוער עצמו למרקוליס ס"ד אמינא הואיל</row>
+		<row row_number="18" isdata="1">ועבודתו בזיון הוא אף כל בזיון קמ"ל אלא</row>
+		<row row_number="19" isdata="1">הא דאמר רבי אליעזר מנין לזובח בהמה</row>
+		<row row_number="20" isdata="1">למרקוליס שהוא חייב שנאמר ולא יזבחו</row>
+		<row row_number="21" isdata="1">עוד את זבחיהם לשעירים אם אינו ענין</row>
+		<row row_number="22" isdata="1">לכדרכה דכתיב איכה יעבדו תניהו ענין</row>
+		<row row_number="23" isdata="1">לשלא כדרכה שלא כדרכה מהשתחואה</row>
+		<row row_number="24" isdata="1">נפקא התם בזובח להכעיס רב המנונא</row>
+		<row row_number="25" isdata="1">אירכסו ליה תורי פגע ביה רבה רמא ליה</row>
+		<row row_number="26" isdata="1"><EndGemara/><StartMishna/>מתני' אהדדי תנן העובד עבודת כוכבים</row>
+		<row row_number="27" isdata="1">עובד אין אומר לא והאנן תנן האומר אעבוד</row>
+		<row row_number="28" isdata="1">אלך ואעבוד נלך ונעבוד א"ל באומר איני</row>
+		<row row_number="29" isdata="1">מקבלו עלי אלא בעבודה רב יוסף אמר</row>
+		<row row_number="30" isdata="1">תנאי שקלת מעלמא תנאי היא דתניא</row>
+		<row row_number="31" isdata="1">האומר בואו ועבדוני רבי מאיר מחייב ור'</row>
+		<row row_number="32" isdata="1">יהודה פוטר היכא דפלחו כולי עלמא</row>
+		<row row_number="33" isdata="1">לא פליגי דכתיב לא תעשה לך פסל כי</row>
+		<row row_number="34" isdata="1">פליגי בדיבורא בעלמא רבי מאיר סבר</row>
+		<row row_number="35" isdata="1">דיבורא מילתא היא ורבי יהודה סבר</row>
+		<row row_number="36" isdata="1">דיבורא לאו מילתא היא הדר אמר רב</row>
+		<row row_number="37" isdata="1">יוסף לאו מילתא היא דאמרי דאפילו לר'</row>
+		<row row_number="38" isdata="1">יהודה בדיבורא נמי חיובי מחייב (דתנן)</row>
+		<row row_number="39" isdata="1">רבי יהודה אומר לעולם אינו חייב עד</row>
+		<row row_number="40" isdata="1">שיאמר אעבוד אלך ואעבוד נלך ונעבוד</row>
+		<row row_number="41" isdata="1">במאי קמיפלגי במסית לעצמו ואמרי ליה</row>
+		<row row_number="42" isdata="1">אין קמפלגי מר סבר מסית לעצמו שמעי</row>
+		<row row_number="43" isdata="1">ליה ואין דקאמרי ליה קושטא הוא ומ"ס</row>
+		<row row_number="44" isdata="1">מסית לעצמו לא שמעי ליה מימר אמרי</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.310800</dateCreated>
+   <lastModified>2020-01-14 15:02:26.310800</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="37">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>ובית הלל מתירין וכמה פת עבה א"ר הונא</row>
+		<row row_number="2" isdata="1">טפח שכן מצינו בלחם הפנים טפח מתקיף</row>
+		<row row_number="3" isdata="1">לה רב יוסף אם אמרו בזריזין יאמרו בשאינן</row>
+		<row row_number="4" isdata="1">זריזין אם אמרו בפת עמילה יאמרו בפת</row>
+		<row row_number="5" isdata="1">שאינו עמילה אם אמרו בעצים יבשין יאמרו</row>
+		<row row_number="6" isdata="1">בעצים לחים אם אמרו בתנור חם יאמרו</row>
+		<row row_number="7" isdata="1">בתנור צונן אם אמרו בתנור של מתכת</row>
+		<row row_number="8" isdata="1">יאמרו בתנור של חרס אמר ר' ירמיה בר</row>
+		<row row_number="9" isdata="1">אבא שאילית את רבי ביחוד ומנו רב איכא</row>
+		<row row_number="10" isdata="1">דאמרי רב ירמיה בר אבא אמר רב שאילית</row>
+		<row row_number="11" isdata="1">את רבי ביחוד ומנו רבינו הקדוש מאי פת</row>
+		<row row_number="12" isdata="1">עבה פת מרובה ואמאי קרו ליה פת עבה</row>
+		<row row_number="13" isdata="1">משום דנפישא בלישה ואי בעית אימא</row>
+		<row row_number="14" isdata="1">באתריה דהאי תנא לפת מרובה פת עבה קרו ליה מאי טעמא אי משום</row>
+		<row row_number="15" isdata="1">דקא טרח טירחא דלא צריך מאי איריא בפסח אפילו בי"ט נמי אין הכי</row>
+		<row row_number="16" isdata="1">נמי והאי תנא ביום טוב של פסח קאי תניא נמי הכי בית שמאי אומרים</row>
+		<row row_number="17" isdata="1">אין אופין פת עבה ביום טוב ובית הלל מתירין ת"ר יוצאין בפת נקיה</row>
+		<row row_number="18" isdata="1">ובהדראה ובסריקין המצויירין בפסח אע"פ שאמרו אין עושין סריקין</row>
+		<row row_number="19" isdata="1">המצויירין בפסח אמר רבי יהודה דבר זה שאל בייתוס בן זונין לחכמים</row>
+		<row row_number="20" isdata="1">מפני מה אמרו אין עושין סריקין המצויירין בפסח אמרו לו מפני שהאשה</row>
+		<row row_number="21" isdata="1">שוהה עליה ומחמצתה אמר להם אפשר יעשנה בדפוס ויקבענה כיון אמרו</row>
+		<row row_number="22" isdata="1">לו יאמרו כל הסריקין אסורין וסריקי בייתוס מותרין אמר רבי אלעזר בר</row>
+		<row row_number="23" isdata="1">צדוק פעם אחת נכנסתי אחר אבא לבית רבן גמליאל והביאו לפניו סריקין</row>
+		<row row_number="24" isdata="1">המצויירין בפסח אמרתי אבא לא כך אמרו חכמים אין עושין סריקין המצויירין</row>
+		<row row_number="25" isdata="1">בפסח אמר לי בני לא של כל אדם אמרו אלא של נחתומין אמרו איכא</row>
+		<row row_number="26" isdata="1">דאמרי הכי קאמר ליה לא של נחתומין אמרו אלא של כל אדם א"ר יוסי</row>
+		<row row_number="27" isdata="1">עושין סריקין כמין רקיקין ואין עושין סריקין כמין גלוסקאות ת"ר הסופגנין</row>
+		<row row_number="28" isdata="1">והדובשנין ואיסקריטין וחלת המסרת והמדומע פטורים מן החלה מאי</row>
+		<row row_number="29" isdata="1">חלת המסרת אמר רבי יהושע בן לוי זה חלוט של בעלי בתים אמר ריש</row>
+		<row row_number="30" isdata="1">לקיש הללו מעשה אילפס הן ורבי יוחנן אמר מעשה אילפס חייבין והללו</row>
+		<row row_number="31" isdata="1">שעשאן בחמה מיתיבי הסופגנין והדובשנין והאיסקריטין עשאן באילפס</row>
+		<row row_number="32" isdata="1">חייבין בחמה פטורין תיובתיה דרבי שמעון בן לקיש אמר עולא אמר לך</row>
+		<row row_number="33" isdata="1">רבי שמעון בן לקיש הכא במאי עסקינן שהרתיח ולבסוף הדביק אבל</row>
+		<row row_number="34" isdata="1">הדביק ולבסוף הרתיח מאי הכי נמי דפטורין אדתני סיפא עשאן בחמה</row>
+		<row row_number="35" isdata="1">פטורין ליפלוג וליתני בדידה בד"א כגון שהרתיח ולבסוף הדביק אבל</row>
+		<row row_number="36" isdata="1">הדביק ולבסוף הרתיח פטורין חסורי מחסרא והכי קתני בד"א שהרתיח</row>
+		<row row_number="37" isdata="1">ולבסוף הדביק אבל הדביק ולבסוף הרתיח נעשה כמי שעשאן בחמה</row>
+		<row row_number="38" isdata="1">ופטורין ת"ש יוצאין במצה הינא ובמצה העשויה באילפס הכא נמי</row>
+		<row row_number="39" isdata="1">שהרתיח ולבסוף הדביק מאי מצה הינא אמר רב יהודה אמר שמואל כל</row>
+		<row row_number="40" isdata="1">שפורסה ואין חוטין נמשכין הימנה אמר רבא וכן לחמי תודה פשיטא</row>
+		<row row_number="41" isdata="1">הכא לחם כתיב והכא לחם כתיב מהו דתימא הואיל וכתיב והקריב ממנו</row>
+</amud>
+</daf>
+</masechet>
+</root>

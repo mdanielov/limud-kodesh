@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:17.696559</dateCreated>
+   <lastModified>2020-01-14 15:03:17.696559</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="14">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אבות"/><ContGemara/>שלשה כללות בארבע מקומות:מתני'שלשה כללות בארבע מקומות<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">שום כסף שוה כסף בפני ב"ד ועל פי עדים</row>
+		<row row_number="3" isdata="1">בני חורין בני ברית והנשים בכלל הנזק</row>
+		<row row_number="4" isdata="1">והניזק והמזיק בתשלומין:<EndMishna/><StartGemara/>גמ' מאי שום</row>
+		<row row_number="5" isdata="1">כסף אמר רב יהודה שום זה לא יהא אלא</row>
+		<row row_number="6" isdata="1">בכסף תנינא להא דתנו רבנן פרה שהזיקה</row>
+		<row row_number="7" isdata="1">טלית וטלית שהזיקה פרה אין אומרים תצא</row>
+		<row row_number="8" isdata="1">פרה בטלית וטלית בפרה אלא שמין אותה</row>
+		<row row_number="9" isdata="1">בדמים: שוה כסף: דתנו רבנן שוה כסף</row>
+		<row row_number="10" isdata="1">מלמד שאין בית דין נזקקין אלא לנכסים</row>
+		<row row_number="11" isdata="1">שיש להן אחריות אבל אם קדם ניזק ותפס</row>
+		<row row_number="12" isdata="1">מטלטלין בית דין גובין לו מהן אמר מר שוה</row>
+		<row row_number="13" isdata="1">כסף מלמד שאין בית דין נזקקין אלא לנכסים</row>
+		<row row_number="14" isdata="1">שיש להן אחריות מאי משמע אמר רבה בר</row>
+		<row row_number="15" isdata="1">עולא דבר השוה כל כסף מאי ניהו דבר</row>
+		<row row_number="16" isdata="1">שאין לו אונאה עבדים ושטרות נמי אין להן</row>
+		<row row_number="17" isdata="1">אונאה אלא אמר רבה בר עולא דבר הנקנה</row>
+		<row row_number="18" isdata="1">בכסף עבדים ושטרות נמי נקנין בכסף אלא</row>
+		<row row_number="19" isdata="1">אמר רב אשי שוה כסף ולא כסף והני כולהו</row>
+		<row row_number="20" isdata="1">כסף נינהו רמי ליה רב יהודה בר חיננא לרב</row>
+		<row row_number="21" isdata="1">הונא בריה דרב יהושע תנא שוה כסף מלמד</row>
+		<row row_number="22" isdata="1">שאין בית דין נזקקין אלא לנכסים שיש להן</row>
+		<row row_number="23" isdata="1">אחריות והתניא ישיב לרבות שוה כסף</row>
+		<row row_number="24" isdata="1">ואפילו סובין הכא במאי עסקינן ביתמי אי</row>
+		<row row_number="25" isdata="1">ביתמי אימא סיפא אם קדם ניזק ותפס</row>
+		<row row_number="26" isdata="1">מטלטלין בית דין גובין לו מהן אי ביתמי</row>
+		<row row_number="27" isdata="1">אמאי בית דין גובין לו מהן כדאמר רבא</row>
+		<row row_number="28" isdata="1">אמר רב נחמן שתפס מחיים הכא נמי שתפס</row>
+		<row row_number="29" isdata="1">מחיים: בפני בית דין: פרט למוכר נכסיו</row>
+		<row row_number="30" isdata="1">ואחר כך הולך לבית דין שמע מינה לוה</row>
+		<row row_number="31" isdata="1">ומכר נכסיו ואחר כך בא לבית דין אין בית</row>
+		<row row_number="32" isdata="1">דין גובין לו מהן אלא פרט לב"ד הדיוטות:</row>
+		<row row_number="33" isdata="1">על פי עדים: פרט למודה בקנס ואחר כך</row>
+		<row row_number="34" isdata="1">באו עדים שהוא פטור הניחא למאן דאמר</row>
+		<row row_number="35" isdata="1">מודה בקנס ואחר כך באו עדים פטור אלא</row>
+		<row row_number="36" isdata="1">למאן דאמר מודה בקנס ואחר כך באו עדים</row>
+		<row row_number="37" isdata="1">חייב מאי איכא למימר סיפא אצטריך ליה</row>
+</amud>
+</daf>
+</masechet>
+</root>

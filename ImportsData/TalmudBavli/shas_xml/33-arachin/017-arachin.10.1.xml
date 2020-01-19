@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:23.479591</dateCreated>
+   <lastModified>2020-01-14 15:04:23.479591</lastModified>
+ </meta>
+ <masechet name="ערכין" serial="33">
+<daf value="10">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אין נערכין"/><ContGemara/>ועיבור שנה ל' אישתקד עשינו שניהם</row>
+		<row row_number="2" isdata="1">מלאין דל תלתא לבהדי תלתא וקם ליה</row>
+		<row row_number="3" isdata="1">בדוכתיה אמר ליה נר ישראל כן הוה:</row>
+		<row row_number="4" isdata="1"><EndGemara/><StartMishna/>מתני' אין פוחתין מעשרים ואחת תקיעות</row>
+		<row row_number="5" isdata="1">במקדש ולא מוסיפין על ארבעים ושמנה</row>
+		<row row_number="6" isdata="1">אין פוחתין משני נבלים ולא מוסיפין על</row>
+		<row row_number="7" isdata="1">ששה אין פוחתין משני חלילין ולא מוסיפין</row>
+		<row row_number="8" isdata="1">על שנים עשר ובשנים עשר יום בשנה</row>
+		<row row_number="9" isdata="1">החליל מכה לפני המזבח בשחיטת פסח</row>
+		<row row_number="10" isdata="1">ראשון ובשחיטת פסח שני ויום טוב הראשון</row>
+		<row row_number="11" isdata="1">של פסח וביום טוב של עצרת ובשמונת ימי</row>
+		<row row_number="12" isdata="1">החג ולא היה מכה באבוב של נחשת אלא</row>
+		<row row_number="13" isdata="1">באבוב של קנה מפני שקולו ערב ולא היה</row>
+		<row row_number="14" isdata="1">מחלק אלא באבוב יחידי מפני שהוא מחליק</row>
+		<row row_number="15" isdata="1">יפה ועבדי כהנים היו דברי ר"מ רבי יוסי</row>
+		<row row_number="16" isdata="1">אומר משפחת בית פגרים ובית ציפרא</row>
+		<row row_number="17" isdata="1">מעמאום היו משיאין לכהונה רבי חנינא</row>
+		<row row_number="18" isdata="1">בן אנטיגנוס אומר לוים היו:<EndMishna/><StartGemara/>גמ' מתניתין</row>
+		<row row_number="19" isdata="1">דלא כרבי יהודה דתניא ר' יהודה אומר</row>
+		<row row_number="20" isdata="1">[הפוחת] לא יפחות משבע [והמוסיף] לא</row>
+		<row row_number="21" isdata="1">יוסיף על שש עשרה במאי קמיפלגי רבי</row>
+		<row row_number="22" isdata="1">יהודה סבר תקיעה תרועה ותקיעה חדא היא</row>
+		<row row_number="23" isdata="1">ורבנן סברי תקיעה לחוד ותרועה לחוד</row>
+		<row row_number="24" isdata="1">ותקיעה לחוד מאי טעמא דר' יהודה כתיב</row>
+		<row row_number="25" isdata="1">ותקעתם תרועה וכתיב תרועה יתקעו</row>
+		<row row_number="26" isdata="1">(לכם) ש"מ תקיעה תרועה ותקיעה חדא</row>
+		<row row_number="27" isdata="1">היא ורבנן ההוא לפשוטה לפניה ופשוטה</row>
+		<row row_number="28" isdata="1">לאחריה הוא דאתא ורבנן מ"ט דכתיב</row>
+		<row row_number="29" isdata="1">ובהקהיל את הקהל תתקעו ולא תריעו ואי</row>
+		<row row_number="30" isdata="1">ס"ד תקיעה תרועה ותקיעה חדא היא אמר</row>
+		<row row_number="31" isdata="1">רחמנא עביד פלגא דמצוה ורבי יהודה</row>
+		<row row_number="32" isdata="1">סימנא בעלמא הוא כמאן אזלא הא דאמר</row>
+		<row row_number="33" isdata="1">רב כהנא אין בין תקיעה לתרועה ולא</row>
+		<row row_number="34" isdata="1">כלום כמאן כרבי יהודה פשיטא מהו דתימא</row>
+		<row row_number="35" isdata="1">אפילו כרבנן אתיא ולאפוקי מדרבי יוחנן</row>
+		<row row_number="36" isdata="1">דאמר שמע תשע תקיעות בתשע שעות</row>
+		<row row_number="37" isdata="1">ביום יצא קמ"ל ואימא הכי נמי אם כן מאי</row>
+		<row row_number="38" isdata="1">ולא כלום: שנים עשר יום בשנה מכה</row>
+		<row row_number="39" isdata="1">בחליל וכו': מאי שנא הני הואיל ויחיד גומר</row>
+		<row row_number="40" isdata="1">בהן את ההלל דאמר רבי יוחנן משום רבי</row>
+		<row row_number="41" isdata="1">שמעון בן יהוצדק שמונה עשר ימים</row>
+		<row row_number="42" isdata="1">שהיחיד גומר בהן את ההלל שמונה ימי</row>
+		<row row_number="43" isdata="1">החג ושמונה ימי חנוכה ויום טוב הראשון</row>
+		<row row_number="44" isdata="1">של פסח ויום טוב (הראשון) של עצרת</row>
+		<row row_number="45" isdata="1">ובגולה עשרים ואחד תשעה ימי החג ושמונה</row>
+		<row row_number="46" isdata="1">ימי חנוכה ושני ימים טובים של פסח ושני</row>
+		<row row_number="47" isdata="1">ימים טובים של עצרת מאי שנא בחג דאמרי'</row>
+		<row row_number="48" isdata="1">כל יומא ומאי שנא בפסח דלא אמרינן</row>
+</amud>
+</daf>
+</masechet>
+</root>

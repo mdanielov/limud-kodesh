@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:34.602823</dateCreated>
+   <lastModified>2020-01-14 15:03:34.602823</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="105">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בית כור"/><ContMishna/>בטל מדה בחבל הן חסר הן יתר דברי בן</row>
+		<row row_number="2" isdata="1">ננס:<EndMishna/><StartGemara/>גמ' אמר רבי אבא בר ממל אמר רב</row>
+		<row row_number="3" isdata="1">חולקין עליו חביריו על בן ננס מאי קא משמע</row>
+		<row row_number="4" isdata="1">לן תנינא מעשה בציפורי באחד ששכר</row>
+		<row row_number="5" isdata="1">מרחץ מחבירו בשנים עשר זהובים לשנה</row>
+		<row row_number="6" isdata="1">דינר זהב לחדש ובא מעשה לפני רבן שמעון</row>
+		<row row_number="7" isdata="1">בן גמליאל ולפני רבי יוסי ואמרו יחלוקו את</row>
+		<row row_number="8" isdata="1">חדש העיבור אי מהתם הוה אמינא התם הוא</row>
+		<row row_number="9" isdata="1">דאיכא למימר מיהדר קא הדר ביה ואיכא</row>
+		<row row_number="10" isdata="1">למימר פרושי קא מפרש אבל הכא דודאי קא</row>
+		<row row_number="11" isdata="1">הדר ביה אימא לא קא משמע לן אמר רב</row>
+		<row row_number="12" isdata="1">יהודה אמר שמואל זו דברי בן ננס אבל</row>
+		<row row_number="13" isdata="1">חכמים אומרים הלך אחר פחות שבלשונות</row>
+		<row row_number="14" isdata="1">זו ולא סבירא ליה והא רב ושמואל</row>
+		<row row_number="15" isdata="1">דאמרי תרוייהו כור בשלשים אני מוכר לך</row>
+		<row row_number="16" isdata="1">יכול לחזור בו אפילו בסאה האחרונה כור</row>
+		<row row_number="17" isdata="1">בשלשים סאה בסלע אני מוכר לך ראשון</row>
+		<row row_number="18" isdata="1">ראשון קנה אלא זו וסבירא ליה ומי סבירא</row>
+		<row row_number="19" isdata="1">ליה והאמר שמואל בבא באמצע החדש</row>
+		<row row_number="20" isdata="1">עסקינן אבל בא בתחלת החדש כולו</row>
+		<row row_number="21" isdata="1">למשכיר בסוף החדש כולו לשוכר</row>
+</amud>
+</daf>
+</masechet>
+</root>

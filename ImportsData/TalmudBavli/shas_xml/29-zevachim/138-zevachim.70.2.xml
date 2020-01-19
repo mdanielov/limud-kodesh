@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:59.327474</dateCreated>
+   <lastModified>2020-01-14 15:03:59.327474</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="70">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חטאת העוף"/><ContGemara/>כשבא בדרך זו היא בטהורה כשבא בדרך</row>
+		<row row_number="2" isdata="1">זו היא בטמאה ת"ל טריפה מי שיש במינה</row>
+		<row row_number="3" isdata="1">טריפה אוציא את הטמאה שאין במינה</row>
+		<row row_number="4" isdata="1">טריפה ולא אוציא את החיה שיש במינה</row>
+		<row row_number="5" isdata="1">טריפה ת"ל ואכל לא תאכלוהו מי שחלבה</row>
+		<row row_number="6" isdata="1">אסור ובשרה מותר יצא חיה שחלבה ובשרה</row>
+		<row row_number="7" isdata="1">מותר א"ל רב יעקב בר אבא לרבא אלא</row>
+		<row row_number="8" isdata="1">מעתה נבלת בהמה טהורה הוא דמטמאה</row>
+		<row row_number="9" isdata="1">נבלת בהמה טמאה לא מטמאה אמר ליה</row>
+		<row row_number="10" isdata="1">כמה סבי שבישתו בה סיפא אתאן לנבלת</row>
+		<row row_number="11" isdata="1">עוף טמא אמר רבי יוחנן לא טיהר רבי מאיר</row>
+		<row row_number="12" isdata="1">אלא בתמימין אבל בבעלי מומין לא ורבי</row>
+		<row row_number="13" isdata="1">אלעזר אמר אפילו בבעלי מומין איתמר נמי</row>
+		<row row_number="14" isdata="1">אמר רב ביבי אמר רבי אלעזר מטהר היה</row>
+		<row row_number="15" isdata="1">רבי מאיר בבעלי מומין ואפילו באווזין</row>
+		<row row_number="16" isdata="1">ותרנגולין בעי רבי ירמיה ערף עז מהו אווזין</row>
+		<row row_number="17" isdata="1">ותרנגולין טעמא מאי דמינא דעופות נינהו</row>
+		<row row_number="18" isdata="1">אבל עז לאו מינא דעגלה נינהו או דילמא</row>
+		<row row_number="19" isdata="1">מינא דבהמה הוא יתיב רב דימי וקאמר לה</row>
+		<row row_number="20" isdata="1">להא שמעתא אמר ליה אביי מכלל דעגלה</row>
+		<row row_number="21" isdata="1">ערופה טהורה היא א"ל אין אמרי דבי רבי</row>
+		<row row_number="22" isdata="1">ינאי כפרה כתיב בה כקדשים מתיב רב</row>
+		<row row_number="23" isdata="1">נתן אבוה דרב הונא (בר נתן) ואכל לא</row>
+		<row row_number="24" isdata="1">תאכלוהו אין לי אלא חלב שאסור באכילה</row>
+		<row row_number="25" isdata="1">ומותר בהנאה חלב של שור הנסקל ועגלה</row>
+		<row row_number="26" isdata="1">ערופה מנין ת"ל כל חלב ואי ס"ד עגלה</row>
+		<row row_number="27" isdata="1">ערופה טהורה היא היא טהורה וחלבה טמא</row>
+		<row row_number="28" isdata="1">היכא דערף מיערף לא איצטריכא ליה כי</row>
+		<row row_number="29" isdata="1">איצטריכא היכא דשחטה מישחט ותיהני ליה</row>
+		<row row_number="30" isdata="1">שחיטה לטהרה מידי נבלה לא צריכא שמתה</row>
+		<row row_number="31" isdata="1">מכלל דמחיים אסורה אין אמר רבי ינאי</row>
+		<row row_number="32" isdata="1">גבול שמעתי ושכחתי ונסבין חברייא למימר</row>
+		<row row_number="33" isdata="1">ירידתה לנחל איתן היא אוסרתה:<EndChapter name = "חטאת העוף"/><EndGemara/></row>
+		<row row_number="34" isdata="0">הדרן עלך חטאת העוף</row>
+		<row row_number="35" isdata="1"><StartChapter name = "כל הזבחים שנתערבו"/><StartMishna/>כל הזבחים שנתערבו בחטאות המתות או</row>
+		<row row_number="36" isdata="1">בשור הנסקל אפילו אחת בריבוא ימותו</row>
+		<row row_number="37" isdata="1">כולן נתערבו בשור שנעבדה בו עבירה או</row>
+</amud>
+</daf>
+</masechet>
+</root>

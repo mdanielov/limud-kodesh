@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:49.076732</dateCreated>
+   <lastModified>2020-01-14 15:03:49.076732</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="33">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שבועת העדות"/><ContGemara/>הא קיימא שניה אמר רבינא הכא במאי</row>
+		<row row_number="2" isdata="1">עסקינן כגון שהיתה שניה בשעת כפירת</row>
+		<row row_number="3" isdata="1">ראשונה קרובין בנשותיהן ונשותיהן גוססות</row>
+		<row row_number="4" isdata="1">מהו דתימא רוב גוססים למיתה קמ"ל</row>
+		<row row_number="5" isdata="1">(השתא מיהא לא שכיב)<EndGemara/><StartMishna/>מתני'</row>
+		<row row_number="6" isdata="1">משביע אני עליכם אם לא תבואו ותעידוני</row>
+		<row row_number="7" isdata="1">שיש לי ביד פלוני פקדון ותשומת יד וגזל</row>
+		<row row_number="8" isdata="1">ואבידה שבועה שאין אנו יודעין לך עדות</row>
+		<row row_number="9" isdata="1">אין חייבין אלא אחת שבועה שאין אנו</row>
+		<row row_number="10" isdata="1">יודעין שיש לך ביד פלוני פקדון ותשומת</row>
+		<row row_number="11" isdata="1">יד וגזל ואבידה חייבין על כל אחת ואחת</row>
+		<row row_number="12" isdata="1">משביע אני עליכם אם לא תבואו ותעידו</row>
+		<row row_number="13" isdata="1">שיש לי ביד פלוני פקדון חטין ושעורין</row>
+		<row row_number="14" isdata="1">וכוסמין שבועה שאין אנו יודעין לך עדות</row>
+		<row row_number="15" isdata="1">אין חייבין אלא אחת שבועה שאין אנו</row>
+		<row row_number="16" isdata="1">יודעין לך עדות שיש לך ביד פלוני חטין</row>
+		<row row_number="17" isdata="1">ושעורין וכוסמין חייבין על כל אחת ואחת</row>
+		<row row_number="18" isdata="1">משביע אני עליכם אם לא תבואו ותעידוני</row>
+		<row row_number="19" isdata="1">שיש לי ביד פלוני נזק וחצי נזק תשלומי</row>
+		<row row_number="20" isdata="1">כפל ותשלומי ארבעה וחמשה ושאנס איש</row>
+		<row row_number="21" isdata="1">פלוני את בתי ופתה את בתי ושהכני בני</row>
+		<row row_number="22" isdata="1">ושחבל בי חבירי ושהדליק את גדישי ביוה"כ</row>
+		<row row_number="23" isdata="1">הרי אלו חייבין:<EndMishna/><StartGemara/>גמ' איבעיא להו משביע</row>
+		<row row_number="24" isdata="1">עדי קנס מהו אליבא דר' אלעזר בר"ש לא</row>
+		<row row_number="25" isdata="1">תיבעי לך דאמר יבואו עדים ויעידו כי</row>
+		<row row_number="26" isdata="1">תיבעי לך אליבא דרבנן דאמרי מודה בקנס</row>
+		<row row_number="27" isdata="1">ואחר כך באו עדים פטור ורבנן דהתם</row>
+		<row row_number="28" isdata="1">כמאן סבירא להו אילימא כר' אלעזר בר"ש</row>
+		<row row_number="29" isdata="1">דהכא הא קאמר דבר הגורם לממון כממון</row>
+		<row row_number="30" isdata="1">דמי אלא כרבנן דהכא דאמרי דבר הגורם</row>
+		<row row_number="31" isdata="1">לממון לאו כממון דמי מאי כיון דאילו מודה</row>
+		<row row_number="32" isdata="1">מיפטר לאו ממונא קא כפר ליה או דלמא</row>
+		<row row_number="33" isdata="1">השתא מיהא לא אודי תא שמע משביע אני</row>
+		<row row_number="34" isdata="1">עליכם אם לא תבואו ותעידוני שיש לי ביד</row>
+		<row row_number="35" isdata="1">פלוני נזק וחצי נזק והא חצי נזק קנסא הוא</row>
+		<row row_number="36" isdata="1">כמ"ד פלגא נזקא ממונא הניחא למ"ד</row>
+		<row row_number="37" isdata="1">פלגא נזקא ממונא אלא למ"ד קנסא מאי</row>
+		<row row_number="38" isdata="1">איכא למימר בחצי נזק צרורות דהלכתא</row>
+		<row row_number="39" isdata="1">גמירי לה דממונא הוא ת"ש תשלומי כפל</row>
+		<row row_number="40" isdata="1">משום קרנא ותשלומי ד' וה' משום קרנא</row>
+		<row row_number="41" isdata="1">שאנס איש פלוני ופתה את בתי משום</row>
+		<row row_number="42" isdata="1">בושת ופגם מאי קמ"ל כולה ממונא הוא רישא</row>
+		<row row_number="43" isdata="1">חדא קמ"ל סיפא חדא קמ"ל רישא חדא קמ"ל</row>
+		<row row_number="44" isdata="1">דחצי נזק צרורות ממונא הוא סיפא חדא קמ"ל</row>
+		<row row_number="45" isdata="1">ושהדליק את גדישי ביוה"כ לאפוקי מאי לאפוקי</row>
+		<row row_number="46" isdata="1">מדר' נחוניא בן הקנה דתניא ר' נחוניא בן הקנה היה עושה יוה"כ כשבת</row>
+		<row row_number="47" isdata="1">לתשלומין מה שבת כו' ת"ש משביע אני עליכם אם לא תבואו ותעידוני</row>
+</amud>
+</daf>
+</masechet>
+</root>

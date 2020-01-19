@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:05.170807</dateCreated>
+   <lastModified>2020-01-14 15:03:05.170807</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="36">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שלשה מינין"/><ContMishna/>לאו משום דהיתר מצטרף לאיסור אמר</row>
+		<row row_number="2" isdata="1">ליה לא מאי כזית דאיכא כזית בכדי</row>
+		<row row_number="3" isdata="1">אכילת פרס ואכילת פרס דאורייתא היא</row>
+		<row row_number="4" isdata="1">א"ל אין אי הכי אמאי פליגי רבנן עליה</row>
+		<row row_number="5" isdata="1">דרבי אלעזר בכותח הבבלי א"ל הנח</row>
+		<row row_number="6" isdata="1">לכותח הבבלי דליכא כזית בכדי אכילת</row>
+		<row row_number="7" isdata="1">פרס אי דקא שריף ליה מישרף בטלה</row>
+		<row row_number="8" isdata="1">דעתו אצל כל אדם אי מישטר קא שטר</row>
+		<row row_number="9" isdata="1">לא משכחת כזית בכדי אכילת פרס</row>
+		<row row_number="10" isdata="1">איתיביה שתי מדוכות אחת של תרומה</row>
+		<row row_number="11" isdata="1">ואחת של חולין ולפניו שתי קדירות אחת</row>
+		<row row_number="12" isdata="1">של תרומה ואחת של חולין ונפלו אלו</row>
+		<row row_number="13" isdata="1">לתוך אלו שתיהן מותרות שאני אומר</row>
+		<row row_number="14" isdata="1">חולין לתוך חולין נפלו ותרומה לתוך</row>
+		<row row_number="15" isdata="1">תרומה נפלה ואי סלקא דעתך כזית בכדי</row>
+		<row row_number="16" isdata="1">אכילת פרס דאורייתא אמאי אמרינן שאני</row>
+		<row row_number="17" isdata="1">אומר אלא מאי היתר מצטרף לאיסור אמאי</row>
+		<row row_number="18" isdata="1">אמרי' שאני אומר אלא הנח לתרומת תבלין</row>
+		<row row_number="19" isdata="1">דרבנן היא איתיביה שתי קופות אחת</row>
+		<row row_number="20" isdata="1">של תרומה ואחת של חולין ולפניהן שתי</row>
+		<row row_number="21" isdata="1">סאין אחת של חולין ואחת של תרומה</row>
+		<row row_number="22" isdata="1">ונפלו אלו לתוך אלו שניהן מותרין שאני</row>
+		<row row_number="23" isdata="1">אומר חולין לתוך חולין נפלו תרומה לתוך</row>
+		<row row_number="24" isdata="1">תרומה נפלה ואי ס"ד כזית בכדי אכילת</row>
+		<row row_number="25" isdata="1">פרס אסור אמאי אמרינן שאני אומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

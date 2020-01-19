@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.080850</dateCreated>
+   <lastModified>2020-01-14 15:03:02.080850</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="59">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הנודר מן הירק"/><ContGemara/>אם היו עלין שלהן שחורין אסורין הוריקו</row>
+		<row row_number="2" isdata="1">מותרין וכי שחורין אמאי אסורין לימא היתר</row>
+		<row row_number="3" isdata="1">שבהן להיכן הלך א"ל מי סברת על עיקר</row>
+		<row row_number="4" isdata="1">קתני אתוספת קתני אסורין אי הכי מאי אתא</row>
+		<row row_number="5" isdata="1">רשב"ג למימר דתניא רשב"ג אומר הגדל</row>
+		<row row_number="6" isdata="1">בחיוב חייב הגדל בפטור פטור תנא קמא</row>
+		<row row_number="7" isdata="1">נמי הכי אמר כולה מתני' רבן שמעון בן</row>
+		<row row_number="8" isdata="1">גמליאל קתני לה ועד כאן לא שמעת ליה</row>
+		<row row_number="9" isdata="1">לרבן שמעון בן גמליאל דלא קא טרח אבל</row>
+		<row row_number="10" isdata="1">היכא דקא טרח בטיל ברובא וכל היכא דקא</row>
+		<row row_number="11" isdata="1">טרח בטיל ברובא והרי ליטרא מעשר טבל</row>
+		<row row_number="12" isdata="1">דקטרח וקתני ואותה ליטרא מעשר עליו</row>
+		<row row_number="13" isdata="1">ממקום אחר לפי חשבון שאני גבי מעשר</row>
+		<row row_number="14" isdata="1">דאמר קרא עשר תעשר וגו' והיתירא זרעי</row>
+		<row row_number="15" isdata="1">אינשי איסורא לא זרעי אינשי גופא א"ר חנינא</row>
+		<row row_number="16" isdata="1">תירתאה א"ר ינאי בצל של תרומה שנטעו</row>
+		<row row_number="17" isdata="1">ורבו גידוליו על עיקרו מותר למימרא דגידולי</row>
+</amud>
+</daf>
+</masechet>
+</root>

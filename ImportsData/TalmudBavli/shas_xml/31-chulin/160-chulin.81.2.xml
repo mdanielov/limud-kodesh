@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:14.726753</dateCreated>
+   <lastModified>2020-01-14 15:04:14.726753</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="81">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אותו ואת בנו"/><ContGemara/>אלא אפילו שחט עולה ואחר כך שחט חולין</row>
+		<row row_number="2" isdata="1">פטור שחיטה קמייתא לאו שחיטה בת אכילה</row>
+		<row row_number="3" isdata="1">היא ורבי יעקב אמר רבי יוחנן אכילת מזבח</row>
+		<row row_number="4" isdata="1">שמה אכילה מאי טעמא דאמר קרא ואם</row>
+		<row row_number="5" isdata="1">האכל יאכל מבשר זבח שלמיו בשתי</row>
+		<row row_number="6" isdata="1">אכילות הכתוב מדבר אחד אכילת אדם ואחד</row>
+		<row row_number="7" isdata="1">אכילת מזבח<EndGemara/><StartMishna/>מתני' השוחט ונמצא טרפה</row>
+		<row row_number="8" isdata="1">השוחט לעבודה זרה והשוחט פרת</row>
+		<row row_number="9" isdata="1">חטאת ושור הנסקל ועגלה ערופה רבי שמעון</row>
+		<row row_number="10" isdata="1">פוטר וחכמים מחייבין השוחט ונתנבלה</row>
+		<row row_number="11" isdata="1">בידו והנוחר והמעקר פטור משום אותו ואת</row>
+		<row row_number="12" isdata="1">בנו:<EndMishna/><StartGemara/>גמ' אמר רבי שמעון בן לקיש לא שנו</row>
+		<row row_number="13" isdata="1">אלא ששחט ראשון לעבודה זרה ושני</row>
+		<row row_number="14" isdata="1">לשלחנו אבל ראשון לשלחנו ושני לעבודה</row>
+		<row row_number="15" isdata="1">זרה פטור דקם ליה בדרבה מיניה אמר</row>
+		<row row_number="16" isdata="1">ליה רבי יוחנן זו אפילו תינוקות של בית</row>
+		<row row_number="17" isdata="1">רבן יודעין אותה אלא פעמים שאפילו שחט</row>
+		<row row_number="18" isdata="1">ראשון לשלחנו ושני לעבודה זרה חייב</row>
+		<row row_number="19" isdata="1">כגון דאתרו ביה משום אותו ואת בנו ולא</row>
+		<row row_number="20" isdata="1">אתרו בו משום עבודה זרה ור"ש בן</row>
+		<row row_number="21" isdata="1">לקיש אמר כיון דכי אתרו ביה פטור כי לא</row>
+		<row row_number="22" isdata="1">אתרו ביה נמי פטור ואזדו לטעמייהו דכי</row>
+		<row row_number="23" isdata="1">אתא רב דימי אמר חייבי מיתות שוגגין</row>
+		<row row_number="24" isdata="1">וחייבי מלקות שוגגין ודבר אחר רבי יוחנן</row>
+		<row row_number="25" isdata="1">אומר חייב וריש לקיש אומר פטור רבי יוחנן</row>
+		<row row_number="26" isdata="1">אומר חייב דהא לא אתרו בו וריש לקיש</row>
+		<row row_number="27" isdata="1">אומר פטור דכיון דכי אתרו ביה פטור כי לא</row>
+		<row row_number="28" isdata="1">אתרו ביה נמי פטור וצריכא דאי אשמועינן</row>
+		<row row_number="29" isdata="1">בהא בהא קאמר רבי שמעון בן לקיש אבל</row>
+		<row row_number="30" isdata="1">בהא אימא מודי ליה לרבי יוחנן ואי איתמר</row>
+		<row row_number="31" isdata="1">בהא בהא קאמר רבי יוחנן אבל בהא</row>
+		<row row_number="32" isdata="1">אימא מודי לרבי שמעון בן לקיש צריכא</row>
+		<row row_number="33" isdata="1">ופרת חטאת שחיטה שאינה ראויה היא</row>
+		<row row_number="34" isdata="1">והתניא רבי שמעון אומר פרה מטמאה</row>
+		<row row_number="35" isdata="1">טומאת אוכלין הואיל והיתה לה שעת הכושר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:31.593675</dateCreated>
+   <lastModified>2020-01-14 15:03:31.593675</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="45">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>אי דאית ליה ארעא אחריתי עליה דידיה הדר</row>
+		<row row_number="2" isdata="1">אי דלית ליה ארעא אחריתי מאי נפקא ליה</row>
+		<row row_number="3" isdata="1">מינה לעולם דלית ליה ארעא אחריתי דאמר</row>
+		<row row_number="4" isdata="1">לא ניחא דליהוי לוה רשע ולא ישלם סוף</row>
+		<row row_number="5" isdata="1">סוף לגבי אידך נמי לוה רשע ולא ישלם הוא</row>
+		<row row_number="6" isdata="1">דאמר להכי זביני לך שלא באחריות מכריז</row>
+		<row row_number="7" isdata="1">רבא ואיתימא רב פפא דסלקין לעילא</row>
+		<row row_number="8" isdata="1">ודנחתין לתתא האי בר ישראל דזבין ליה</row>
+		<row row_number="9" isdata="1">חמרא לישראל חבריה וקא אתי עכו"ם ואניס</row>
+		<row row_number="10" isdata="1">ליה מיניה דינא הוא דמפצי ליה מיניה ולא</row>
+		<row row_number="11" isdata="1">אמרן אלא שאינו מכיר בה שהיא בת חמורו</row>
+		<row row_number="12" isdata="1">אבל מכיר בה שהיא בת חמורו לא ולא</row>
+		<row row_number="13" isdata="1">אמרן אלא דלא אניס ליה לדידיה ולאוכפא</row>
+		<row row_number="14" isdata="1">אבל אניס ליה לדידיה ולאוכפא לא אמימר</row>
+		<row row_number="15" isdata="1">אמר אפי' ליכא כל הני לא מאי טעמא מידע</row>
+		<row row_number="16" isdata="1">ידע דסתם עובד כוכבים אנס הוא שנא' אשר</row>
+		<row row_number="17" isdata="1">פיהם דבר שוא וימינם ימין שקר: אומן אין</row>
+		<row row_number="18" isdata="1">לו חזקה וכו': אמר רבה ל"ש אלא שמסר</row>
+		<row row_number="19" isdata="1">לו בעדים אבל מסר לו שלא בעדים מתוך</row>
+		<row row_number="20" isdata="1">שיכול לומר לו לא היו דברים מעולם כי אמר</row>
+		<row row_number="21" isdata="1">ליה נמי לקוחה היא בידי מהימן אמר ליה</row>
+		<row row_number="22" isdata="1">אביי אי הכי אפילו בעדים נמי מתוך שיכול</row>
+		<row row_number="23" isdata="1">לומר לו החזרתיו לך כי אמר ליה לקוחה</row>
+		<row row_number="24" isdata="1">היא בידי מהימן אמר ליה רבה מי סברת</row>
+</amud>
+</daf>
+</masechet>
+</root>

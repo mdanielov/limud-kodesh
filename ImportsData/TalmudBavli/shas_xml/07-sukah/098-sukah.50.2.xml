@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:40.984121</dateCreated>
+   <lastModified>2020-01-14 15:02:40.984121</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="50">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "החליל "/><ContGemara/>גמ' איתמר רב יהודה ורב עינא חד תני<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">שואבה וחד תני חשובה אמר מר זוטרא מאן</row>
+		<row row_number="3" isdata="1">דתני שואבה לא משתבש ומאן דתני חשובה</row>
+		<row row_number="4" isdata="1">לא משתבש מאן דתני שואבה לא משתבש</row>
+		<row row_number="5" isdata="1">דכתיב ושאבתם מים בששון ומאן דתני</row>
+		<row row_number="6" isdata="1">חשובה לא משתבש דאמר רב נחמן מצוה</row>
+		<row row_number="7" isdata="1">חשובה היא ובאה מששת ימי בראשית ת"ר</row>
+		<row row_number="8" isdata="1">החליל דוחה את השבת דברי ר' יוסי בר</row>
+		<row row_number="9" isdata="1">יהודה וחכ"א אף י"ט אינו דוחה אמר רב יוסף</row>
+		<row row_number="10" isdata="1">מחלוקת בשיר של קרבן דר' יוסי סבר עיקר</row>
+		<row row_number="11" isdata="1">שירה בכלי ועבודה היא ודוחה את השבת</row>
+		<row row_number="12" isdata="1">ורבנן סברי עיקר שירה בפה ולאו עבודה</row>
+		<row row_number="13" isdata="1">היא ואינה דוחה את השבת אבל שיר של</row>
+		<row row_number="14" isdata="1">שואבה דברי הכל שמחה היא ואינה דוחה</row>
+		<row row_number="15" isdata="1">את השבת אמר רב יוסף מנא אמינא דבהא</row>
+		<row row_number="16" isdata="1">פליגי דתניא כלי שרת שעשאן של עץ</row>
+		<row row_number="17" isdata="1">רבי פוסל ורבי יוסי בר יהודה מכשיר מאי</row>
+		<row row_number="18" isdata="1">לאו בהא קמיפלגי מאן דמכשיר סבר עיקר</row>
+		<row row_number="19" isdata="1">שירה בכלי וילפינן מאבובא דמשה ומאן</row>
+		<row row_number="20" isdata="1">דפסיל סבר עיקר שירה בפה ולא ילפינן</row>
+		<row row_number="21" isdata="1">מאבובא דמשה לא דכ"ע עיקר שירה בכלי</row>
+		<row row_number="22" isdata="1">והכא בדנין אפשר משאי אפשר קמיפלגי</row>
+		<row row_number="23" isdata="1">מאן דמכשיר סבר דנין אפשר משאי אפשר</row>
+		<row row_number="24" isdata="1">ומאן דפסיל סבר לא דנין אפשר משאי</row>
+		<row row_number="25" isdata="1">אפשר ואיבעית אימא דכ"ע דעיקר שירה</row>
+		<row row_number="26" isdata="1">בפה ואין דנין אפשר משאי אפשר והכא</row>
+		<row row_number="27" isdata="1">במילף מנורה בכללי ופרטי או ברבויי</row>
+		<row row_number="28" isdata="1">ומיעוטי קא מיפלגי רבי דריש כללי ופרטי ר'</row>
+		<row row_number="29" isdata="1">יוסי בר יהודה דריש ריבויי ומיעוטי רבי דריש</row>
+		<row row_number="30" isdata="1">כללי ופרטי ועשית מנורת כלל זהב טהור</row>
+		<row row_number="31" isdata="1">פרט מקשה תעשה המנורה חזר וכלל כלל</row>
+		<row row_number="32" isdata="1">ופרט וכלל אי אתה דן אלא כעין הפרט</row>
+		<row row_number="33" isdata="1">מה הפרט מפורש של מתכת אף כל של</row>
+		<row row_number="34" isdata="1">מתכת ר' יוסי בר יהודה דריש ריבויי ומיעוטי</row>
+		<row row_number="35" isdata="1">ועשית מנורת ריבה זהב טהור מיעט מקשה</row>
+		<row row_number="36" isdata="1">תעשה המנורה חזר וריבה ריבה ומיעט</row>
+		<row row_number="37" isdata="1">וריבה ריבה הכל מאי רבי רבי כל מילי</row>
+		<row row_number="38" isdata="1">מאי מיעט מיעט של חרס אמר רב פפא</row>
+</amud>
+</daf>
+</masechet>
+</root>

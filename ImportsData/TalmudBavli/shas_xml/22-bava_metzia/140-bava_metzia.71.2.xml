@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:27.275494</dateCreated>
+   <lastModified>2020-01-14 15:03:27.275494</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="71">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "איזהו נשך"/><ContGemara/>ערב למאן אילימא ערב לישראל והא תנא</row>
+		<row row_number="2" isdata="1">אלו עוברין בלא תעשה המלוה והלוה</row>
+		<row row_number="3" isdata="1">הערב והעדים אלא לנכרי וכיון דדיניה</row>
+		<row row_number="4" isdata="1">דנכרי דאזיל בתר ערבא איהו ניהו דקא</row>
+		<row row_number="5" isdata="1">שקיל מיניה רביתא אמר רב ששת שקיבל</row>
+		<row row_number="6" isdata="1">עליו לדון בדיני ישראל אי קיבל עליו לדון</row>
+		<row row_number="7" isdata="1">בדיני ישראל רבית נמי לא לשקול אמר רב</row>
+		<row row_number="8" isdata="1">ששת שקיבל עליו לזו ולא קיבל עליו לזו:</row>
+		<row row_number="9" isdata="1">מלוה ישראל מעותיו של נכרי מדעת הנכרי</row>
+		<row row_number="10" isdata="1">כו': תנו רבנן מלוה ישראל מעותיו של</row>
+		<row row_number="11" isdata="1">נכרי מדעת הנכרי אבל לא מדעת ישראל</row>
+		<row row_number="12" isdata="1">כיצד ישראל שלוה מעות מן הנכרי ברבית</row>
+		<row row_number="13" isdata="1">וביקש להחזירם לו מצאו ישראל אחר ואמר</row>
+		<row row_number="14" isdata="1">לו תנם לי ואני אעלה לך כדרך שאתה</row>
+		<row row_number="15" isdata="1">מעלה לו אסור ואם העמידו אצל נכרי מותר</row>
+		<row row_number="16" isdata="1">וכן נכרי שלוה מעות מישראל ברבית</row>
+		<row row_number="17" isdata="1">וביקש להחזירם לו מצאו ישראל אחר ואמר</row>
+		<row row_number="18" isdata="1">לו תנם לי ואני אעלה לך כדרך שאתה</row>
+		<row row_number="19" isdata="1">מעלה לו מותר ואם העמידו אצל ישראל</row>
+		<row row_number="20" isdata="1">אסור בשלמא סיפא לחומרא אלא רישא כיון</row>
+		<row row_number="21" isdata="1">דאין שליחות לנכרי איהו ניהו דקא שקיל</row>
+		<row row_number="22" isdata="1">מיניה רביתא אמר רב הונא בר מנוח</row>
+		<row row_number="23" isdata="1">משמיה דרב אחא בריה דרב איקא הכא</row>
+		<row row_number="24" isdata="1">במאי עסקינן כגון דאמר ליה הניחם על גבי</row>
+		<row row_number="25" isdata="1">קרקע והיפטר אי הכי מאי למימרא אלא</row>
+		<row row_number="26" isdata="1">אמר רב פפא כגון שנטל ונתן ביד ואכתי</row>
+		<row row_number="27" isdata="1">מאי למימרא מהו דתימא נכרי גופיה כי</row>
+		<row row_number="28" isdata="1">עביד אדעתא דישראל קא גמיר ויהיב קמ"ל</row>
+		<row row_number="29" isdata="1">רב אשי אמר כי אמרינן אין שליחות לנכרי</row>
+		<row row_number="30" isdata="1">הני מילי בתרומה אבל בכל התורה כולה</row>
+		<row row_number="31" isdata="1">יש שליחות לנכרי והא דרב אשי ברותא</row>
+		<row row_number="32" isdata="1">היא מאי שנא תרומה דלא דכתיב אתם</row>
+		<row row_number="33" isdata="1">גם אתם מה אתם בני ברית אף שלוחכם</row>
+		<row row_number="34" isdata="1">נמי בני ברית שליחות דכל התורה כולה</row>
+		<row row_number="35" isdata="1">נמי מתרומה גמרינן לה אלא דרב אשי</row>
+		<row row_number="36" isdata="1">ברותא היא איכא דאמרי אמר רב אשי כי</row>
+		<row row_number="37" isdata="1">אמרינן אין שליחות לנכרי הני מילי אינהו</row>
+		<row row_number="38" isdata="1">לדידן אבל אנן לדידהו הוינא להו שליח</row>
+		<row row_number="39" isdata="1">והא דרב אשי ברותא היא מ"ש אינהו</row>
+		<row row_number="40" isdata="1">לדידן דלא דכתיב אתם גם אתם לרבות</row>
+		<row row_number="41" isdata="1">שלוחכם מה אתם בני ברית אף שלוחכם</row>
+		<row row_number="42" isdata="1">בני ברית אנן לדידהו נמי מה אתם בני ברית</row>
+		<row row_number="43" isdata="1">קאמר אלא הא דרב אשי ברותא היא רבינא</row>
+		<row row_number="44" isdata="1">אמר נהי דשליחות לנכרי לית ליה זכיה</row>
+		<row row_number="45" isdata="1">מדרבנן אית ליה מידי דהוי אקטן קטן לאו אף על גב דלית ליה שליחות</row>
+</amud>
+</daf>
+</masechet>
+</root>

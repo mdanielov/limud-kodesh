@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:48.787075</dateCreated>
+   <lastModified>2020-01-14 15:02:48.787075</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="12">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "חמש עשרה נשים"/><ContGemara/>אמר ליה תניתוה היתה אחת כשרה ואחת</row>
+		<row row_number="2" isdata="1">פסולה אם היה חולץ חולץ לפסולה ואם</row>
+		<row row_number="3" isdata="1">היה מייבם מייבם לכשרה מאי כשרה</row>
+		<row row_number="4" isdata="1">ומאי פסולה אילימא כשרה כשרה</row>
+		<row row_number="5" isdata="1">לעלמא פסולה פסולה לעלמא כיון דלדידיה</row>
+		<row row_number="6" isdata="1">חזיא מאי נפקא ליה מינה אלא לאו</row>
+		<row row_number="7" isdata="1">כשרה כשרה ליה פסולה פסולה ליה</row>
+		<row row_number="8" isdata="1">ומאי ניהו מחזיר גרושתו וקתני אם</row>
+		<row row_number="9" isdata="1">היה מייבם מייבם לכשרה לא כשרה</row>
+		<row row_number="10" isdata="1">לעלמא פסולה לעלמא ודקאמרת כיון</row>
+		<row row_number="11" isdata="1">דלדידיה חזיא מאי נפקא ליה מינה משום</row>
+		<row row_number="12" isdata="1">דרב יוסף דאמר רב יוסף כאן שנה רבי לא</row>
+		<row row_number="13" isdata="1">ישפוך אדם מי בורו ואחרים צריכים להם</row>
+		<row row_number="14" isdata="1">ת"ש המחזיר גרושתו משניסת היא וצרתה</row>
+		<row row_number="15" isdata="1">חולצת היא וצרתה ס"ד אלא אימא או</row>
+		<row row_number="16" isdata="1">היא או צרתה ולאו תרוצי קא מתרצת לה</row>
+		<row row_number="17" isdata="1">תריץ הכי היא חולצת צרתה או חולצת או</row>
+		<row row_number="18" isdata="1">מתייבמת אמר רב לילי בר ממל אמר מר</row>
+		<row row_number="19" isdata="1">עוקבא אמר שמואל צרת ממאנת אסורה</row>
+		<row row_number="20" isdata="1">למאן אילימא לאחים השתא היא גופה שריא</row>
+		<row row_number="21" isdata="1">דאמר שמואל מיאנה בזה מותרת בזה</row>
+		<row row_number="22" isdata="1">צרתה מיבעיא אלא לדידיה ומאי שנא</row>
+		<row row_number="23" isdata="1">ממאנת דשריא לאחין דלא עבדא בהו</row>
+		<row row_number="24" isdata="1">מעשה צרה נמי לא עבדא בהו מעשה</row>
+		<row row_number="25" isdata="1">גזירה משום צרת בתו ממאנת וצרת בתו</row>
+		<row row_number="26" isdata="1">ממאנת מי אסירא והתנן וכולן אם מתו או</row>
+		<row row_number="27" isdata="1">מיאנו צרותיהן מותרות דמיאנה במאן</row>
+		<row row_number="28" isdata="1">אילימא דמיאנה בבעל היינו גרושה אלא</row>
+		<row row_number="29" isdata="1">לאו ביבם לא לעולם בבעל ותרי גווני</row>
+		<row row_number="30" isdata="1">גירושין ומ"ש כי מיאנה בבעל דעקרינהו</row>
+		<row row_number="31" isdata="1">לנשואין כי מיאנה ביבם נמי נשואין קמאי</row>
+		<row row_number="32" isdata="1">קא עקרא משום דתני רמי בר יחזקאל</row>
+		<row row_number="33" isdata="1">דתני רמי בר יחזקאל מיאנה בבעל מותרת</row>
+		<row row_number="34" isdata="1">לאביו ביבם אסורה לאביו אלמא משעת</row>
+		<row row_number="35" isdata="1">נפילה נראית ככלתו ה"נ משעת נפילה נראית</row>
+		<row row_number="36" isdata="1">כצרת בתו אמר רב אסי צרת אילונית</row>
+		<row row_number="37" isdata="1">אסורה שנאמר והיה הבכור אשר תלד</row>
+		<row row_number="38" isdata="1">פרט לאילונית שאינה יולדת מתיב רב ששת</row>
+		<row row_number="39" isdata="1">שלשה אחין נשואין שלש נשים נכריות ומת</row>
+		<row row_number="40" isdata="1">אחד מהם ועשה בה שני מאמר ומת הרי</row>
+		<row row_number="41" isdata="1">אלו חולצות ולא מתייבמות שנאמר ומת אחד מהם יבמה יבא עליה מי</row>
+		<row row_number="42" isdata="1">שעליה זיקת יבם אחד ולא זיקת שני יבמין וקתני עלה אמר רב</row>
+		<row row_number="43" isdata="1">יוסף זו היא צרת אשת אח מאב שאיסור נפילה גרם לה שלא מצינו</row>
+		<row row_number="44" isdata="1">בכל התורה כולה כגון זאת זו היא למעוטי מאי לאו למעוטי צרת</row>
+		<row row_number="45" isdata="1">אילונית דשריא לא למעוטי צרת אילונית דאסירא ומאי זו היא זו היא</row>
+		<row row_number="46" isdata="1">דאיסור נפילה גרם לה צרתה בעיא חליצה אילונית אפילו חליצה לא בעיא</row>
+		<row row_number="47" isdata="1">מ"ט הא דאורייתא הא דרבנן תנן וכולן אם מתו או מיאנו או נתגרשו או</row>
+		<row row_number="48" isdata="1">שנמצאו אילונית צרותיהן מותרות לא קשיא כאן שהכיר בה כאן שלא</row>
+		<row row_number="49" isdata="1">הכיר בה דיקא נמי דקתני שנמצאו ולא קתני שהיו שמע מינה אמר רבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

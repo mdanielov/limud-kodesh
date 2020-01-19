@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:04.611576</dateCreated>
+   <lastModified>2020-01-14 15:04:04.611576</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הקומץ"/><ContGemara/>וחישב עליה בין חוץ למקומו בין חוץ לזמנו</row>
+		<row row_number="2" isdata="1">פסול ואין בו כרת (ל"א) חישב עליה</row>
+		<row row_number="3" isdata="1">חוץ למקומו פסול ואין בו כרת חוץ לזמנו</row>
+		<row row_number="4" isdata="1">פיגול וחייבין עליו כרת דברי ר' אלעזר ור"ש</row>
+		<row row_number="5" isdata="1">וחכ"א כיון שנתנו לשמאל פסלתו מתנתו</row>
+		<row row_number="6" isdata="1">מ"ט משום דבעי קדושה בכלי וכיון שנתנו</row>
+		<row row_number="7" isdata="1">לשמאל נעשה כדם שנשפך מצואר בהמה</row>
+		<row row_number="8" isdata="1">על הרצפה ואספו שפסול מכלל דר"א ור"ש</row>
+		<row row_number="9" isdata="1">לא בעו מתן כלי תיובתא דרב נחמן תיובתא</row>
+		<row row_number="10" isdata="1">לרבי יהודה בריה דרבי חייא מסייעא לי' לרבי</row>
+		<row row_number="11" isdata="1">ינאי לימא תיהוי תיובתא אמר לך רבי ינאי</row>
+		<row row_number="12" isdata="1">אנא דאמרי כתנא דהקטר ולאו לצדדים</row>
+		<row row_number="13" isdata="1">קתני: הקטיר קומצה פעמים כשרה: אמר</row>
+		<row row_number="14" isdata="1">רבי יהושע בן לוי פעמים ולא פעמי פעמים</row>
+		<row row_number="15" isdata="1">ור' יוחנן אמר פעמים ואפילו פעמי פעמים</row>
+		<row row_number="16" isdata="1">מאי בינייהו א"ר זירא יש קומץ פחות משני</row>
+		<row row_number="17" isdata="1">זיתים ויש הקטרה פחותה מכזית איכא</row>
+		<row row_number="18" isdata="1">בינייהו ריב"ל סבר אין קומץ פחות משני</row>
+		<row row_number="19" isdata="1">זיתים ואין הקטרה פחותה מכזית ורבי יוחנן</row>
+		<row row_number="20" isdata="1">סבר יש קומץ פחות משני זיתים ויש הקטרה</row>
+		<row row_number="21" isdata="1">פחותה מכזית: איתמר קומץ מאימתי</row>
+		<row row_number="22" isdata="1">מתיר שירים באכילה רבי חנינא אומר</row>
+		<row row_number="23" isdata="1">משמשלה בו את האור רבי יוחנן אמר</row>
+		<row row_number="24" isdata="1">משתצית בו את האור ברובו אמר ליה רב</row>
+		<row row_number="25" isdata="1">יהודה לרבה בר רב יצחק אסברה לך</row>
+		<row row_number="26" isdata="1">טעמא דר' יוחנן אמר קרא והנה עלה קיטור</row>
+		<row row_number="27" isdata="1">הארץ כקיטור הכבשן אין כבשן מעלה</row>
+		<row row_number="28" isdata="1">קיטור עד שתצית האור ברובו אמר ליה</row>
+		<row row_number="29" isdata="1">רבין בר רב אדא לרבא אמרי תלמידיך אמר</row>
+		<row row_number="30" isdata="1">רב עמרם תניא אין לי אלא דברים שדרכן</row>
+		<row row_number="31" isdata="1">ליקרב בלילה כגון אברים ופדרים שמעלן</row>
+		<row row_number="32" isdata="1">ומקטירן מבוא השמש ומתעכלין והולכין כל</row>
+		<row row_number="33" isdata="1">הלילה כולה דברים שדרכן ליקרב ביום כגון</row>
+		<row row_number="34" isdata="1">הקומץ והלבונה והקטרת ומנחת כהנים</row>
+		<row row_number="35" isdata="1">ומנחת כהן משוח ומנחת נסכים שמעלן</row>
+		<row row_number="36" isdata="1">ומקטירן מבוא השמש והא אמרת דרכן</row>
+		<row row_number="37" isdata="1">ליקרב ביום אלא עם בא השמש שמתעכלין</row>
+		<row row_number="38" isdata="1">והולכין כל הלילה מנין ת"ל זאת תורת</row>
+		<row row_number="39" isdata="1">העולה ריבה והא עם בא השמש לא משכחת</row>
+		<row row_number="40" isdata="1">לה שתצית האור ברובו לא קשיא כאן לקלוט</row>
+		<row row_number="41" isdata="1">כאן להתיר רבי אלעזר מתני לה מבוא השמש ומוקים לה בפוקעין וכן כי</row>
+		<row row_number="42" isdata="1">אתא רב דימי אמר רבי ינאי בפוקעין ומי אמר רבי ינאי הכי והא א"ר</row>
+		<row row_number="43" isdata="1">ינאי קטרת שפקעה מעל גבי המזבח אפילו קרטין שבה אין מחזירין</row>
+		<row row_number="44" isdata="1">אותן ותני רב חנינא בר מניומי בדבי ר"א בן יעקב אשר תאכל האש</row>
+		<row row_number="45" isdata="1">את העולה על המזבח עיכולי עולה אתה מחזיר ואי אתה מחזיר עיכולי</row>
+		<row row_number="46" isdata="1">קטרת סמי מיכן קטרת א"ר אסי כי פשיט רבי אלעזר במנחות בעי</row>
+		<row row_number="47" isdata="1">הכי (בעי ר' אלעזר) קומץ שסידרו וסידר עליו את המערכה מהו דרך</row>
+		<row row_number="48" isdata="1">הקטרה בכך או אין דרך הקטרה בכך תיקו: בעי חזקיה אברין שסידרן</row>
+		<row row_number="49" isdata="1">וסידר עליהן את המערכה מהו על העצים אמר רחמנא דוקא על העצים</row>
+		<row row_number="50" isdata="1">או דלמא כיון דכתיב קרא אחרינא אשר תאכל האש את העולה על</row>
+		<row row_number="51" isdata="1">המזבח אי בעי הכי עביד אי בעי הכי עביד תיקו: בעי רבי יצחק נפחא</row>
+		<row row_number="52" isdata="1">אברין שסידרן בצידי המערכה מהו אליבא דמ"ד על ממש לא תיבעי לך</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:56.169701</dateCreated>
+   <lastModified>2020-01-14 15:03:56.169701</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="21">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים שקבלו דמן"/><ContGemara/>איכא בינייהו גזירת שיקוע והאמר רבי</row>
+		<row row_number="2" isdata="1">יוחנן קידש ידיו לתרומת הדשן למחר אין</row>
+		<row row_number="3" isdata="1">צריך לקדש שכבר קידש מתחילת עבודה</row>
+		<row row_number="4" isdata="1">בשלמא לרבא דמוקים לההיא כרבי אלעזר</row>
+		<row row_number="5" isdata="1">ברבי שמעון הא כרבי אלא לאביי דמוקים</row>
+		<row row_number="6" isdata="1">לה כרבי קשיא דרבי אדרבי מאי שנא התם</row>
+		<row row_number="7" isdata="1">דמשקע ליה ומאי שנא הכא דלא משקע</row>
+		<row row_number="8" isdata="1">ליה דמסלק ליה והדר משקע ליה אי</row>
+		<row row_number="9" isdata="1">הכי למחר אינו מקדש [אמאי אין צריך</row>
+		<row row_number="10" isdata="1">לקדש] למימרא דלמתירין מיחזא חזי היינו</row>
+		<row row_number="11" isdata="1">דרב חסדא איכא בינייהו מצות שיקוע מיתיבי</row>
+		<row row_number="12" isdata="1">לא היו רואין אותו ולא שומעין את קולו עד</row>
+		<row row_number="13" isdata="1">ששומעים קול של עץ שעשה בן קטין מוכני</row>
+		<row row_number="14" isdata="1">לכיור והן אומרים הגיע [עת] קידוש ידים</row>
+		<row row_number="15" isdata="1">ורגלים מן הכיור מאי לאו דמסלק ליה אלמא</row>
+		<row row_number="16" isdata="1">משקע ליה לא דמשקע ליה אי דמשקע</row>
+		<row row_number="17" isdata="1">ליה מי משתמע קליה משקע ליה בגילגלא</row>
+		<row row_number="18" isdata="1">לישנא אחרינא דמשקע ליה בחומרתיה כי</row>
+		<row row_number="19" isdata="1">כי היכי דלישתמע קליה ולשמעי וליתי והא</row>
+		<row row_number="20" isdata="1">הוה גביני כרוז בי תרי היכרי הוו עבדי</row>
+		<row row_number="21" isdata="1">דשמע מהאי אתי ושמע מהאי אתי: גופא</row>
+		<row row_number="22" isdata="1">אמר רבי יוסי ברבי חנינא כל כיור שאין בו</row>
+		<row row_number="23" isdata="1">כדי לקדש ארבעה כהנים ממנו אין מקדשין</row>
+		<row row_number="24" isdata="1">בו שנאמר ורחצו ממנו משה ואהרן ובניו וגו'</row>
+		<row row_number="25" isdata="1">מיתיבי כל הכלי' מקדשין בין שיש בהן רביעי'</row>
+</amud>
+</daf>
+</masechet>
+</root>

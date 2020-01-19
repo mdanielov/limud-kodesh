@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:13.950651</dateCreated>
+   <lastModified>2020-01-14 15:02:13.950651</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="86">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>כטבלא מרובעת כטבלא הוא דשרי הא</row>
+		<row row_number="2" isdata="1">לאו הכי אסור התם לאקולי בה קולא</row>
+		<row row_number="3" isdata="1">אחרינא להתיר ראש תור היוצא הימנה:</row>
+		<row row_number="4" isdata="1"><EndGemara/><StartMishna/>מתני' מנין לפולטת שכבת זרע ביום</row>
+		<row row_number="5" isdata="1">השלישי ( שתהא) טמאה שנא' היו נכונים</row>
+		<row row_number="6" isdata="1">לשלשת ימים מנין שמרחיצין את המילה</row>
+		<row row_number="7" isdata="1">ביום השלישי שחל להיות בשבת שנאמר</row>
+		<row row_number="8" isdata="1">ויהי ביום השלישי בהיותם כואבים מנין</row>
+		<row row_number="9" isdata="1">שקושרין לשון של זהורית בראש שעיר</row>
+		<row row_number="10" isdata="1">המשתלח שנאמר אם יהיו חטאיכם כשנים</row>
+		<row row_number="11" isdata="1">כשלג ילבינו מנין לסיכה שהיא כשתייה</row>
+		<row row_number="12" isdata="1">ביוה"כ אע"פ שאין ראיה לדבר זכר לדבר שנא'</row>
+		<row row_number="13" isdata="1">ותבא כמים בקרבו וכשמן בעצמותיו:</row>
+		<row row_number="14" isdata="1"><EndMishna/><StartGemara/>גמ' רישא דלא כר' אלעזר בן עזריה סיפא</row>
+		<row row_number="15" isdata="1">כר"א בן עזריה דאי כרבי אלעזר בן עזריה</row>
+		<row row_number="16" isdata="1">טהורה שמענא ליה מאן דלא מוקי כתנאי</row>
+		<row row_number="17" isdata="1">תנא רישא טהורה ומוקי לה לכולה כר"א</row>
+		<row row_number="18" isdata="1">בן עזריה ומאן דמוקים כתנאי רישא רבנן</row>
+		<row row_number="19" isdata="1">וסיפא כר' אלעזר בן עזריה ת"ר פולטת</row>
+		<row row_number="20" isdata="1">שכבת זרע ביום השלישי טהורה דברי רבי</row>
+		<row row_number="21" isdata="1">אלעזר בן עזריה רבי ישמעאל אומר פעמים</row>
+		<row row_number="22" isdata="1">שהן ד' עונות פעמים שהן ה' עונות פעמים</row>
+		<row row_number="23" isdata="1">שהן ו' עונות ר' עקיבא אומר לעולם ה'</row>
+		<row row_number="24" isdata="1">ואם יצאתה מקצת עונה ראשונה נותנין לה</row>
+		<row row_number="25" isdata="1">מקצת עונה ששית אמרוה רבנן קמיה דרב</row>
+		<row row_number="26" isdata="1">פפא ואמרי לה רב פפא לרבא בשלמא ר'</row>
+		<row row_number="27" isdata="1">אלעזר בן עזריה כרבנן דאמרי בה' עביד</row>
+		<row row_number="28" isdata="1">פרישה ור' ישמעאל כר' יוסי דאמר בד'</row>
+		<row row_number="29" isdata="1">עביד פרישה אלא רבי עקיבא כמאן לעולם</row>
+		<row row_number="30" isdata="1">כר' יוסי כדאמר רב אדא בר אהבה משה</row>
+		<row row_number="31" isdata="1">בהשכמה עלה ובהשכמה ירד בהשכמה</row>
+		<row row_number="32" isdata="1">עלה דכתיב וישכם משה בבקר ויעל אל</row>
+		<row row_number="33" isdata="1">הר סיני בהשכמה ירד דכתיב לך רד</row>
+		<row row_number="34" isdata="1">ועלית אתה ואהרן עמך מקיש ירידה</row>
+		<row row_number="35" isdata="1">לעלייה מה עלייה בהשכמה אף ירידה</row>
+		<row row_number="36" isdata="1">בהשכמה למה ליה למימרא להו והא אמר</row>
+		<row row_number="37" isdata="1">רב הונא ישראל קדושים הן ואין משמשין</row>
+		<row row_number="38" isdata="1">מטותיהן ביום הא אמר רבא אם היה בית</row>
+		<row row_number="39" isdata="1">אפל מותר ואמר רבא ואיתימא רב פפא</row>
+		<row row_number="40" isdata="1">תלמיד חכם מאפיל בטליתו ומותר</row>
+</amud>
+</daf>
+</masechet>
+</root>

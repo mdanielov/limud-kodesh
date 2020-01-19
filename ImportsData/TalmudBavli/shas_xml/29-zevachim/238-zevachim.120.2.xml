@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:03.445960</dateCreated>
+   <lastModified>2020-01-14 15:04:03.445960</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="120">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "פרת חטאת "/><ContGemara/>מה עופות שאין המום פוסל בהן זמן פוסל בהן</row>
+		<row row_number="2" isdata="1">קדשי במה קטנה שהמום פוסל בהן אינו דין שזמן</row>
+		<row row_number="3" isdata="1">פוסל בהן מה לעופות שכן אין הזר כשר בהן</row>
+		<row row_number="4" isdata="1">תאמר בבמה קטנה שהזר כשר בה לא יהא זמן</row>
+		<row row_number="5" isdata="1">פסול בה ת"ל וזאת תורת זבח השלמים לעשות</row>
+		<row row_number="6" isdata="1">זמן במה קטנה כזמן במה גדולה:<EndChapter name = "פרת חטאת "/><EndGemara/></row>
+		<row row_number="7" isdata="0">הדרן עלך פרת חטאת וסליקא לה מסכת זבחים</row>
+</amud>
+</daf>
+</masechet>
+</root>

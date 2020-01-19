@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:31.534116</dateCreated>
+   <lastModified>2020-01-14 15:03:31.534116</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="43">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>אמאי שמירה בבעלים היא אמר רב פפא</row>
+		<row row_number="2" isdata="1">דאמר ליה שמור לי היום ואני אשמור לך</row>
+		<row row_number="3" isdata="1">למחר: תנו רבנן מכר לו בית מכר לו שדה</row>
+		<row row_number="4" isdata="1">אין מעיד לו עליה מפני שאחריותו עליו מכר</row>
+		<row row_number="5" isdata="1">לו פרה מכר לו טלית מעיד לו עליה מפני</row>
+		<row row_number="6" isdata="1">שאין אחריותו עליו מאי שנא רישא ומאי</row>
+		<row row_number="7" isdata="1">שנא סיפא אמר רב ששת רישא בראובן</row>
+		<row row_number="8" isdata="1">שגזל שדה משמעון ומכרה ללוי ואתא</row>
+		<row row_number="9" isdata="1">יהודה וקא מערער דלא ליזיל שמעון לאסהיד</row>
+		<row row_number="10" isdata="1">ליה ללוי דניחא ליה דהדרא וכיון דאסהיד</row>
+		<row row_number="11" isdata="1">ליה דלוי הוא היכי מצי מפיק לה מיניה</row>
+		<row row_number="12" isdata="1">דאמר ידענא דהאי ארעא דלאו דיהודה</row>
+		<row row_number="13" isdata="1">היא ובההוא זכותא דקא מפיק לה מלוי</row>
+		<row row_number="14" isdata="1">ליפקה מיהודה דאמר השני נוח לי הראשון</row>
+		<row row_number="15" isdata="1">קשה הימנו ואי בעית אימא כגון דאית</row>
+		<row row_number="16" isdata="1">ליה סהדי למר ואית ליה סהדי למר</row>
+		<row row_number="17" isdata="1">ואמור רבנן ארעא היכא דקיימא תיקום</row>
+</amud>
+</daf>
+</masechet>
+</root>

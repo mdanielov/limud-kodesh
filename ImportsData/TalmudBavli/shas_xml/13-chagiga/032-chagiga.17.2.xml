@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:48.036230</dateCreated>
+   <lastModified>2020-01-14 15:02:48.036230</lastModified>
+ </meta>
+ <masechet name="חגיגה" serial="13">
+<daf value="17">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אין דורשין"/><ContGemara/>דכתיב ופנית בבקר והלכת לאהליך תנן</row>
+		<row row_number="2" isdata="1">עצרת שחל להיות ערב שבת ב"ש אומרים</row>
+		<row row_number="3" isdata="1">יום טבוח אחר השבת וב"ה אומרים אין לה</row>
+		<row row_number="4" isdata="1">יום טבוח מאי לאו אין לה יום טבוח כלל לא</row>
+		<row row_number="5" isdata="1">שאינה צריכה יום טבוח ומאי קמ"ל דמקרבינן</row>
+		<row row_number="6" isdata="1">ביומיה הא איפליגו בה חדא זימנא דתנן</row>
+		<row row_number="7" isdata="1">ב"ש אומרים מביאין שלמים ואין סומכין</row>
+		<row row_number="8" isdata="1">עליהם אבל לא עולות וב"ה אומרים מביאין</row>
+		<row row_number="9" isdata="1">שלמים ועולות וסומכין עליהם צריכא דאי</row>
+		<row row_number="10" isdata="1">אשמעינן בהא בהא קא אמרי ב"ש משום</row>
+		<row row_number="11" isdata="1">דאפשר למחר אבל הכא אימא מודו להו</row>
+		<row row_number="12" isdata="1">לב"ה ואי אשמעינן בהא בהא קאמרי ב"ה</row>
+		<row row_number="13" isdata="1">משום דלא אפשר למחר אבל בהא אימא</row>
+		<row row_number="14" isdata="1">מודו לב"ש צריכא ת"ש מי שלא חג שבעת</row>
+		<row row_number="15" isdata="1">ימי הפסח ושמונת ימי החג ויו"ט הראשון של עצרת שוב אינו חוגג מאי</row>
+		<row row_number="16" isdata="1">לאו יו"ט של עצרת לא יום טבוח אי הכי ניפשוט מינה דחד יום טבוח אימא</row>
+		<row row_number="17" isdata="1">ימי טבוח ת"ש דתני רבה בר שמואל אמרה תורה מנה ימים וקדש חדש</row>
+		<row row_number="18" isdata="1">מנה ימים וקדש עצרת מה חדש למנוייו אף עצרת למנוייה מאי לאו גמר</row>
+		<row row_number="19" isdata="1">מחדש מה חדש יום אחד אף עצרת יום אחד אמר רבא ותסברא אטו עצרת</row>
+		<row row_number="20" isdata="1">יומי מנינן שבועי לא מנינן והאמר אביי מצוה למימני יומי דכתיב תספרו</row>
+		<row row_number="21" isdata="1">חמשים יום ומצוה למימני שבועי דכתיב שבעה שבועות תספר לך ועוד</row>
+		<row row_number="22" isdata="1">חג שבועות כתיב דבי ר"א בן יעקב תנא אמר קרא וקראתם ובקצרכם</row>
+		<row row_number="23" isdata="1">איזהו חג שאתה קורא וקוצר בו הוי אומר זה חג עצרת אימת אילימא ביו"ט</row>
+		<row row_number="24" isdata="1">קצירה ביום טוב מי שרי אלא לאו לתשלומין ואע"ג דאיתמר דר"א א"ר</row>
+		<row row_number="25" isdata="1">אושעיא אצטריך דר"א בן יעקב דאי מדר"א א"ר אושעיא הוה אמינא מה</row>
+		<row row_number="26" isdata="1">תשלומין של חג המצות אסור בעשיית מלאכה אף תשלומי עצרת נמי</row>
+		<row row_number="27" isdata="1">אסור בעשיית מלאכה קמשמע לן דר"א בן יעקב ואי מדר"א בן יעקב</row>
+</amud>
+</daf>
+</masechet>
+</root>

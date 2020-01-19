@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:24.137520</dateCreated>
+   <lastModified>2020-01-14 15:02:24.137520</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="94">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר רבי עקיבא"/><ContGemara/>זה מטלטל עד עיקר מחיצה וזה מטלטל</row>
+		<row row_number="2" isdata="1">עד עיקר מחיצה והא דרב לאו בפירוש</row>
+		<row row_number="3" isdata="1">אתמר אלא מכללא אתמר דרב ושמואל הוו</row>
+		<row row_number="4" isdata="1">יתבי בההוא חצר נפל גודא דביני ביני אמר</row>
+		<row row_number="5" isdata="1">להו שמואל שקולו גלימא נגידו בה אהדרינהו</row>
+		<row row_number="6" isdata="1">רב לאפיה אמר להו שמואל אי קפיד אבא</row>
+		<row row_number="7" isdata="1">שקולו (הימניה) וקטרו בה ולשמואל למה</row>
+		<row row_number="8" isdata="1">לי הא הא אמר זה מטלטל עד עיקר מחיצה</row>
+		<row row_number="9" isdata="1">וזה מטלטל עד עיקר מחיצה שמואל עביד</row>
+		<row row_number="10" isdata="1">לצניעותא בעלמא ורב אי סבירא ליה דאסיר</row>
+		<row row_number="11" isdata="1">לימא ליה אתריה דשמואל הוה אי הכי</row>
+		<row row_number="12" isdata="1">מאי טעמא אהדרינהו לאפיה דלא נימרו</row>
+		<row row_number="13" isdata="1">כשמואל סבירא ליה (והדר ביה משמעתיה):</row>
+		<row row_number="14" isdata="1"><EndGemara/><StartMishna/>מתני' חצר שנפרצה לרשות הרבים המכניס</row>
+		<row row_number="15" isdata="1">מתוכה לרה"י או מרה"י לתוכה חייב דברי</row>
+		<row row_number="16" isdata="1">רבי אליעזר וחכמים אומרים מתוכה לרשות</row>
+		<row row_number="17" isdata="1">הרבים או מרשות הרבים לתוכה פטור מפני</row>
+		<row row_number="18" isdata="1">שהיא ככרמלית:<EndMishna/><StartGemara/>גמ' ורבי אליעזר משום</row>
+		<row row_number="19" isdata="1">דנפרצה לרשות הרבים הויא לה רשות</row>
+		<row row_number="20" isdata="1">הרבים אין רבי אליעזר לטעמיה דתניא רבי</row>
+		<row row_number="21" isdata="1">יהודה אומר משום רבי אליעזר רבים שבררו</row>
+		<row row_number="22" isdata="1">דרך לעצמן מה שבררו בררו איני והאמר</row>
+		<row row_number="23" isdata="1">רב גידל אמר רב והוא שאבדה להן דרך</row>
+		<row row_number="24" isdata="1">באותו שדה וכי תימא הכא נמי כגון שאבדה</row>
+		<row row_number="25" isdata="1">לה דרך באותה חצר והאמר רבי חנינא</row>
+		<row row_number="26" isdata="1">עד מקום מחיצה מחלוקת אימא על מקום</row>
+		<row row_number="27" isdata="1">מחיצה מחלוקת ואיבעית אימא בצידי רשות</row>
+		<row row_number="28" isdata="1">הרבים קמיפלגי דרבי אליעזר סבר צידי</row>
+		<row row_number="29" isdata="1">רשות הרבים כרשות הרבים דמו ורבנן סברי</row>
+		<row row_number="30" isdata="1">צידי רשות הרבים לאו כרשות הרבים דמו</row>
+		<row row_number="31" isdata="1">וליפלוג בצידי רשות הרבים בעלמא אי</row>
+		<row row_number="32" isdata="1">איפליגו בצידי רשות הרבים בעלמא הוה</row>
+		<row row_number="33" isdata="1">אמרינן כי פליגי רבנן עליה דרבי אליעזר</row>
+		<row row_number="34" isdata="1">הני מילי היכא דאיכא חיפופי אבל היכא</row>
+		<row row_number="35" isdata="1">דליכא חיפופי אימא מודו ליה קא משמע</row>
+		<row row_number="36" isdata="1">לן והא מתוכה קאמר איידי דאמור רבנן</row>
+		<row row_number="37" isdata="1">מתוכה אמר איהו נמי מתוכה ורבנן אמר</row>
+		<row row_number="38" isdata="1">רבי אליעזר צידי רשות הרבים ומהדרו</row>
+		<row row_number="39" isdata="1">ליה אינהו מתוכה הכי קאמרי ליה רבנן</row>
+		<row row_number="40" isdata="1">לרבי אליעזר מי לא קא מודית לן היכא</row>
+		<row row_number="41" isdata="1">דטילטל מתוכה לרשות הרבים ומרשות</row>
+		<row row_number="42" isdata="1">הרבים לתוכה דפטור מפני שהיא כרמלית</row>
+		<row row_number="43" isdata="1">צידי נמי לא שנא ורבי אליעזר התם לא</row>
+		<row row_number="44" isdata="1">קא דרסי לה רבים הכא קא דרסי לה</row>
+		<row row_number="45" isdata="1">רבים<EndGemara/><StartMishna/>מתני' חצר שנפרצה לרה"ר</row>
+		<row row_number="46" isdata="1">משתי רוחותיה וכן בית שנפרץ משתי רוחותיו</row>
+		<row row_number="47" isdata="1">וכן מבוי שנטלו קורותיו או לחייו מותרים</row>
+		<row row_number="48" isdata="1">באותו שבת ואסורים לעתיד לבא דברי רבי</row>
+		<row row_number="49" isdata="1">יהודה רבי יוסי אומר אם מותרין לאותו שבת</row>
+		<row row_number="50" isdata="1">מותרין לעתיד לבא ואם אסורין לעתיד לבא אסורין לאותו שבת:<EndMishna/><StartGemara/>גמ' במאי</row>
+		<row row_number="51" isdata="1">עסקינן אילימא בעשר מאי שנא מרוח אחת דאמר פיתחא הוא משתי רוחות נמי</row>
+		<row row_number="52" isdata="1">פיתחא הוא אלא ביתר מעשר א"ה אפילו מרוח אחת נמי אמר רב לעולם בעשר</row>
+</amud>
+</daf>
+</masechet>
+</root>

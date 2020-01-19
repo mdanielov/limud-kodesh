@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:19.026955</dateCreated>
+   <lastModified>2020-01-14 15:02:19.026955</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>חלל סוכה תנן חלל מבוי תנן א"ל רב פפא</row>
+		<row row_number="2" isdata="1">לרבא תניא דמסייע לך מבוי שהוא גבוה</row>
+		<row row_number="3" isdata="1">מעשרים אמה יותר מפתחו של היכל ימעט</row>
+		<row row_number="4" isdata="1">והיכל גופו חללו עשרים איתיביה רב שימי</row>
+		<row row_number="5" isdata="1">בר רב אשי לרב פפא כיצד היה עושה</row>
+		<row row_number="6" isdata="1">מניח קורה משפת עשרים ולמטה אימא</row>
+		<row row_number="7" isdata="1">ולמעלה והא למטה קתני הא קמ"ל דלמטה</row>
+		<row row_number="8" isdata="1">כלמעלה מה למעלה חללה עשרים אף למטה</row>
+		<row row_number="9" isdata="1">חללה עשרה: אמר אביי משמיה דרב נחמן</row>
+		<row row_number="10" isdata="1">אמת סוכה ואמת מבוי באמה בת חמשה אמת</row>
+		<row row_number="11" isdata="1">כלאים באמה בת ששה אמת מבוי באמה</row>
+		<row row_number="12" isdata="1">בת חמשה למאי הלכתא לגובהו ולפירצת</row>
+		<row row_number="13" isdata="1">מבוי והא איכא משך מבוי בארבע אמות</row>
+		<row row_number="14" isdata="1">דלקולא כמאן דאמר בארבעה טפחים</row>
+		<row row_number="15" isdata="1">ואיבעית אימא בארבע אמות ורוב אמות</row>
+		<row row_number="16" isdata="1">קאמר אמת סוכה באמה בת חמשה למאי</row>
+		<row row_number="17" isdata="1">הלכתא לגובהה ולדופן עקומה והא איכא</row>
+		<row row_number="18" isdata="1">משך סוכה בארבע אמות דלקולא דתניא</row>
+		<row row_number="19" isdata="1">רבי אומר אומר אני כל סוכה שאין בה ד'</row>
+		<row row_number="20" isdata="1">אמות על ד' אמות פסולה כרבנן דאמרי אפי'</row>
+		<row row_number="21" isdata="1">אינה מחזקת אלא ראשו ורובו ושולחנו</row>
+		<row row_number="22" isdata="1">ואיבעית אימא לעולם רבי היא ורוב אמות</row>
+		<row row_number="23" isdata="1">קאמר אמת כלאים באמה בת ששה למאי</row>
+		<row row_number="24" isdata="1">הילכתא לקרחת הכרם ולמחול הכרם דתנן</row>
+		<row row_number="25" isdata="1">קרחת הכרם ב"ש אומרים עשרים וארבע</row>
+		<row row_number="26" isdata="1">אמות וב"ה אומרים שש עשרה אמות ומחול</row>
+		<row row_number="27" isdata="1">הכרם בית שמאי אומרים שש עשרה אמות ובית הלל אומרים שתים עשרה</row>
+		<row row_number="28" isdata="1">אמות איזו היא קרחת הכרם כרם שחרב אמצעיתו אין שם שש עשרה אמות</row>
+		<row row_number="29" isdata="1">לא יביא זרע לשם היו שם שש עשרה אמה נותן לו כדי עבודתו וזורע את</row>
+		<row row_number="30" isdata="1">המותר ואיזהו מחול הכרם בין כרם לגדר אין שם שתים עשרה אמה לא</row>
+		<row row_number="31" isdata="1">יביא זרע לשם היו שם שתים עשרה אמה נותן לו כדי עבודתו וזורע את</row>
+		<row row_number="32" isdata="1">השאר והא איכא רצופים בארבע אמות דלקולא דתנן כרם הנטוע על פחות</row>
+		<row row_number="33" isdata="1">מארבע אמות רבי שמעון אומר אינו כרם וחכמים אומרים כרם ורואין את</row>
+		<row row_number="34" isdata="1">האמצעיים כאילו אינם כרבנן דאמרי הוי כרם ואיבעי' אימא לעולם ר' שמעון ורוב</row>
+		<row row_number="35" isdata="1">אמות קאמר ורבא משמיה דר"נ אמר כל אמות באמה בת ששה אלא הללו</row>
+		<row row_number="36" isdata="1">שוחקות והללו עצבות מיתיבי כל אמות שאמרו חכמים באמה בת ששה ובלבד</row>
+</amud>
+</daf>
+</masechet>
+</root>

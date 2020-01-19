@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:28.583478</dateCreated>
+   <lastModified>2020-01-14 15:03:28.583478</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="97">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "השואל"/><ContGemara/>דינא הכי ושתיק רב והלכתא כרב כהנא</row>
+		<row row_number="2" isdata="1">ורב אסי דמהדר ליה תבריה וממליא ליה</row>
+		<row row_number="3" isdata="1">דמי מנא ההוא גברא דשאיל דוולא מחבריה</row>
+		<row row_number="4" isdata="1">איתבר אתא לקמיה דרב פפא אמר ליה אייתי</row>
+		<row row_number="5" isdata="1">סהדי דלא שנית ביה ואיפטר ההוא גברא</row>
+		<row row_number="6" isdata="1">דשאיל שונרא מחבריה חבור עליה עכברי</row>
+		<row row_number="7" isdata="1">וקטלוהו יתיב רב אשי וקמיבעיא ליה כי האי</row>
+		<row row_number="8" isdata="1">גוונא מאי כי מתה מחמת מלאכה דמי או</row>
+		<row row_number="9" isdata="1">לא אמר ליה רב מרדכי לרב אשי הכי אמר</row>
+		<row row_number="10" isdata="1">אבימי מהגרוניא משמיה דרבא גברא דנשי</row>
+		<row row_number="11" isdata="1">קטלוהו לא דינא ולא דיינא איכא דאמרי אכיל</row>
+		<row row_number="12" isdata="1">עכברי טובא וחביל ומית יתיב רב אשי</row>
+		<row row_number="13" isdata="1">וקא מעיין בה כהאי גוונא מאי אמר ליה רב</row>
+		<row row_number="14" isdata="1">מרדכי לרב אשי הכי אמר אבימי מהגרוניא</row>
+		<row row_number="15" isdata="1">גברא דנשי קטלוהו לא דינא ולא דיינא</row>
+		<row row_number="16" isdata="1">אמר רבא האי מאן דבעי למישאל מידי</row>
+		<row row_number="17" isdata="1">מחבריה וליפטר נימא ליה אשקיין מיא</row>
+		<row row_number="18" isdata="1">דהוי שאילה בבעלים ואי פקח הוא נימא</row>
+		<row row_number="19" isdata="1">ליה שאיל ברישא והדר אשקייך אמר רבא</row>
+		<row row_number="20" isdata="1">מקרי דרדקי שתלא טבחא ואומנא ספר</row>
+		<row row_number="21" isdata="1">מתא כולהון בעידן עבידתייהו כשאילה</row>
+		<row row_number="22" isdata="1">בבעלים דמו אמרו ליה רבנן לרבא שאיל</row>
+		<row row_number="23" isdata="1">לן מר אקפיד אמר להו לאפקועי ממונאי</row>
+		<row row_number="24" isdata="1">קא בעיתו אדרבה אתון שאילתון לי דאילו</row>
+		<row row_number="25" isdata="1">אנא מצי אישתמוטי לכו ממסכתא למסכתא</row>
+		<row row_number="26" isdata="1">אתון לא מציתו לאישתמוטי ולא היא איהו</row>
+		<row row_number="27" isdata="1">שאיל להו ביומא דכלה אינהו שאילו ליה</row>
+		<row row_number="28" isdata="1">בשאר יומי מרימר בר חנינא אוגר כודנייתא</row>
+		<row row_number="29" isdata="1">בי חוזאי נפק לדלויי טעונה בהדייהו פשעו</row>
+		<row row_number="30" isdata="1">בה ומית אתו לקמיה דרבא חייבינהו אמרו</row>
+		<row row_number="31" isdata="1">ליה רבנן לרבא פשיעה בבעלים היא</row>
+		<row row_number="32" isdata="1">איכסיף לסוף איגלאי מילתא דלמיסר</row>
+		<row row_number="33" isdata="1">טעונה הוא דנפק הניחא למאן דאמר</row>
+		<row row_number="34" isdata="1">פשיעה בבעלים פטור משום הכי איכסיף</row>
+		<row row_number="35" isdata="1">אלא למאן דאמר חייב אמאי איכסיף לא</row>
+		<row row_number="36" isdata="1">מיפשע פשעו בה אלא איגנובי איגנוב ומתה כדרכה בי גנב הוי ואתו</row>
+		<row row_number="37" isdata="1">לקמיה דרבא וחייבינהו אמרו ליה רבנן לרבא גניבה בבעלים היא איכסיף</row>
+		<row row_number="38" isdata="1">לסוף איגלאי מילתא דלמיסר טעונה הוא דנפק<EndGemara/><StartMishna/>מתני' השואל את</row>
+		<row row_number="39" isdata="1">הפרה שאלה חצי יום ושכרה חצי יום שאלה היום ושכרה למחר שכר אחת</row>
+		<row row_number="40" isdata="1">ושאל אחת ומתה המשאיל אומר שאולה מתה ביום שהיתה שאולה מתה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:06.981243</dateCreated>
+   <lastModified>2020-01-14 15:04:06.981243</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="64">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>דעד כאן לא קאמר ר' ישמעאל התם אלא דכי</row>
+		<row row_number="2" isdata="1">ממעט באכילה קא ממעט קצירה אבל הכא</row>
+		<row row_number="3" isdata="1">דכי קא ממעט באכילה קא מפשא קצירה</row>
+		<row row_number="4" isdata="1">ודאי שלש מייתינן<EndGemara/><StartMishna/>מתני' מצות העומר</row>
+		<row row_number="5" isdata="1">להביא מן הקרוב לא ביכר הקרוב לירושלים</row>
+		<row row_number="6" isdata="1">מביאין אותו מכל מקום מעשה שבא העומר</row>
+		<row row_number="7" isdata="1">מגגות צריפין ושתי הלחם מבקעת עין</row>
+		<row row_number="8" isdata="1">סוכר:<EndMishna/><StartGemara/>גמ' מ"ט איבעית אימא משום</row>
+		<row row_number="9" isdata="1">כרמל ואיבעית אימא משום דאין</row>
+		<row row_number="10" isdata="1">מעבירין על המצות: מעשה שבא [העומר]</row>
+		<row row_number="11" isdata="1">מגגות צריפין: ת"ר כשצרו מלכי בית</row>
+		<row row_number="12" isdata="1">חשמונאי זה על זה והיה הורקנוס מבחוץ</row>
+		<row row_number="13" isdata="1">ואריסטובלוס מבפנים בכל יום ויום היו</row>
+		<row row_number="14" isdata="1">משלשלין להן דינרין בקופה ומעלין להן תמידין</row>
+		<row row_number="15" isdata="1">היה שם זקן אחד שהיה מכיר בחכמת יוונית</row>
+		<row row_number="16" isdata="1">לעז להם בחכמת יוונית אמר להן כל זמן</row>
+		<row row_number="17" isdata="1">שעסוקין בעבודה אין נמסרין בידכם למחר</row>
+		<row row_number="18" isdata="1">שלשלו להן דינרין בקופה והעלו להן חזיר</row>
+		<row row_number="19" isdata="1">כיון שהגיע לחצי חומה נעץ צפרניו בחומה</row>
+		<row row_number="20" isdata="1">ונזדעזעה ארץ ישראל ארבע מאות פרסה על</row>
+		<row row_number="21" isdata="1">ארבע מאות פרסה באותה שעה אמרו ארור</row>
+		<row row_number="22" isdata="1">שיגדל חזיר וארור שילמד בנו חכמת יוונית</row>
+		<row row_number="23" isdata="1">ועל אותה שעה שנינו מעשה שבא עומר</row>
+		<row row_number="24" isdata="1">מגגות צריפין ושתי הלחם מבקעת עין סוכר</row>
+		<row row_number="25" isdata="1">כי מטא עומר לא הוו ידעי מהיכא אייתי</row>
+		<row row_number="26" isdata="1">עומר אכרזו אתא ההוא חרשא אותיב חדא</row>
+		<row row_number="27" isdata="1">ידא אאיגרא וחדא ידיה אצריפא אמר להו</row>
+		<row row_number="28" isdata="1">מרדכי מי איכא דוכתא דשמה גגות צריפין</row>
+		<row row_number="29" isdata="1">או צריפין גגות בדקו ואשכחוה כי בעי</row>
+		<row row_number="30" isdata="1">לאתוי שתי הלחם לא הוו ידעי מהיכא</row>
+		<row row_number="31" isdata="1">לאתויי אכרזו אתא ההוא גברא חרשא</row>
+		<row row_number="32" isdata="1">אותיב ידיה אעיניה וחדא ידא אסיכרא אמר</row>
+		<row row_number="33" isdata="1">להו מרדכי ומי איכא דוכתא דשמה עין סוכר או סוכר עין בדקו ואשכחו הנהו</row>
+		<row row_number="34" isdata="1">שלש נשים דאייתו שלש קינין חדא אמרה לזיבתי וחדא</row>
+		<row row_number="35" isdata="1">אמרה לימתי וחדא אמרה לעונתי סבור מינה זיבתי זבה ממש לימתי לימתי ממש לעונתי לעונתה</row>
+		<row row_number="36" isdata="1">דכולהו חדא חטאת וחדא עולה אמר להו מרדכי שמא בזוב סיכנה</row>
+		<row row_number="37" isdata="1">שמא בים סיכנה שמא בעינה סיכנה דכולהו עולות נינהו בדוק ואשכח</row>
+</amud>
+</daf>
+</masechet>
+</root>

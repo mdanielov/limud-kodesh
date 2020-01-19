@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:21.431989</dateCreated>
+   <lastModified>2020-01-14 15:03:21.431989</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="90">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "החובל"/><ContGemara/>הקדש חמץ ושחרור מפקיעין מידי</row>
+		<row row_number="2" isdata="1">שיעבוד לימא דרבא תנאי היא לא דכולי</row>
+		<row row_number="3" isdata="1">עלמא אית להו דרבא והכא אלמוה רבנן</row>
+		<row row_number="4" isdata="1">לשיעבודא דבעל ואיבעית אימא דכולי</row>
+		<row row_number="5" isdata="1">עלמא לית להו להני תנאי תקנת אושא</row>
+		<row row_number="6" isdata="1">והכא בקנין פירות כקנין הגוף דמי קמיפלגי</row>
+		<row row_number="7" isdata="1">ובפלוגתא דהני תנאי דתניא המוכר עבדו</row>
+		<row row_number="8" isdata="1">לאחר ופסק עמו על מנת שישמשנו שלשים</row>
+		<row row_number="9" isdata="1">יום ר"מ אומר ראשון ישנו בדין יום או יומים</row>
+		<row row_number="10" isdata="1">מפני שהוא תחתיו קסבר קנין פירות כקנין</row>
+		<row row_number="11" isdata="1">הגוף דמי רבי יהודה אומר שני ישנו בדין</row>
+		<row row_number="12" isdata="1">יום או יומים מפני שהוא כספו קסבר קנין</row>
+		<row row_number="13" isdata="1">פירות לאו כקנין הגוף דמי רבי יוסי אומר</row>
+		<row row_number="14" isdata="1">שניהם ישנן בדין יום או יומים זה מפני</row>
+		<row row_number="15" isdata="1">שהוא תחתיו וזה מפני שהוא כספו מספקא</row>
+		<row row_number="16" isdata="1">ליה קנין פירות אי כקנין הגוף דמי אי לאו</row>
+		<row row_number="17" isdata="1">כקנין הגוף דמי וספק נפשות להקל רבי</row>
+		<row row_number="18" isdata="1">אליעזר אומר שניהם אינן בדין יום או</row>
+		<row row_number="19" isdata="1">יומים זה לפי שאינו תחתיו וזה לפי שאינו</row>
+		<row row_number="20" isdata="1">כספו אמר רבא מ"ט דרבי אליעזר אמר</row>
+		<row row_number="21" isdata="1">קרא כי כספו הוא כספו המיוחד לו כמאן</row>
+		<row row_number="22" isdata="1">אזלא הא דאמר אמימר איש ואשה</row>
+		<row row_number="23" isdata="1">שמכרו בנכסי מלוג לא עשו ולא כלום</row>
+		<row row_number="24" isdata="1">כמאן כרבי אליעזר מאן תנא להא דת"ר</row>
+		<row row_number="25" isdata="1">מי שחציו עבד וחציו בן חורין וכן עבד</row>
+		<row row_number="26" isdata="1">של שני שותפין אין יוצאין בראשי אברים</row>
+		<row row_number="27" isdata="1">שאינן חוזרין אמר ליה רב מרדכי לרב</row>
+		<row row_number="28" isdata="1">אשי הכי אמרי משמיה דרבא ר' אליעזר היא</row>
+		<row row_number="29" isdata="1">מי לא אמר ר' אליעזר כספו המיוחד לו הכא</row>
+		<row row_number="30" isdata="1">נמי עבדו המיוחד לו<EndGemara/><StartMishna/>מתני' התוקע</row>
+		<row row_number="31" isdata="1">לחבירו נותן לו סלע רבי יהודה אומר</row>
+		<row row_number="32" isdata="1">משום ר' יוסי הגלילי מנה סטרו נותן לו</row>
+		<row row_number="33" isdata="1">מאתים זוז לאחר ידו נותן לו ארבע מאות</row>
+		<row row_number="34" isdata="1">זוז צרם באזנו תלש בשערו רקק והגיע</row>
+		<row row_number="35" isdata="1">בו רוקו העביר טליתו ממנו פרע ראש</row>
+		<row row_number="36" isdata="1">האשה בשוק נותן לו ארבע מאות זוז</row>
+</amud>
+</daf>
+</masechet>
+</root>

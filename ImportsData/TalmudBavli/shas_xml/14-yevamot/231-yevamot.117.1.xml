@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.579282</dateCreated>
+   <lastModified>2020-01-14 15:02:53.579282</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="117">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה שלום"/><ContMishna/>שאין האחין נכנסין לנחלה על פיה אמרו</row>
+		<row row_number="2" isdata="1">להם בית שמאי והלא מספר כתובה נלמוד</row>
+		<row row_number="3" isdata="1">שהוא כותב לה שאם תנשאי לאחר תטלי</row>
+		<row row_number="4" isdata="1">מה שכתוב ליכי וחזרו בית הלל להורות</row>
+		<row row_number="5" isdata="1">כדברי ב"ש:<EndMishna/><StartGemara/>גמ' אמר רב חסדא נתייבמה</row>
+		<row row_number="6" isdata="1">יבמה נכנס לנחלה על פיה הם דרשו מדרש</row>
+		<row row_number="7" isdata="1">כתובה אנו לא נדרוש מדרש תורה יקום</row>
+		<row row_number="8" isdata="1">על שם אחיו אמר רחמנא והרי קם אמר רב</row>
+		<row row_number="9" isdata="1">נחמן באת לבית דין ואמרה מת בעלי</row>
+		<row row_number="10" isdata="1">התירוני להנשא מתירין אותה להנשא</row>
+		<row row_number="11" isdata="1">ונותנין לה כתובתה תנו לי כתובתי אף</row>
+		<row row_number="12" isdata="1">להנשא אין מתירין אותה מאי טעמא אדעתא</row>
+		<row row_number="13" isdata="1">דכתובה אתאי איבעיא להו התירוני להנשא</row>
+		<row row_number="14" isdata="1">ותנו לי כתובתי מהו כיון דאמרה כתובתה</row>
+		<row row_number="15" isdata="1">אדעתא דכתובה אתאי או דלמא כל מילי</row>
+		<row row_number="16" isdata="1">דאית ליה לאיניש אמר להו לבי דינא</row>
+		<row row_number="17" isdata="1">[ואת"ל כל מילי דאית ליה לאיניש אמר</row>
+		<row row_number="18" isdata="1">להו לבי דינא] תנו לי כתובתי והתירוני</row>
+		<row row_number="19" isdata="1">להנשא מהו הכא ודאי אדעתא דכתובה</row>
+		<row row_number="20" isdata="1">אתאי או דלמא הואיל דלא ידעה במאי</row>
+		<row row_number="21" isdata="1">משתריא תיקו<EndGemara/><StartMishna/>מתני' הכל נאמנין</row>
+		<row row_number="22" isdata="1">להעידה חוץ מחמותה ובת חמותה וצרתה</row>
+		<row row_number="23" isdata="1">ויבמתה ובת בעלה מה בין גט למיתה</row>
+		<row row_number="24" isdata="1">שהכתב מוכיח:<EndMishna/><StartGemara/>גמ' איבעיא להו בת חמיה</row>
+		<row row_number="25" isdata="1">מהו טעמא דבת חמותה משום דאיכא אימא</row>
+		<row row_number="26" isdata="1">דסניא לה היא נמי סניא לה והכא ליכא</row>
+		<row row_number="27" isdata="1">אימא דסניא לה או דלמא טעמא דבת</row>
+		<row row_number="28" isdata="1">חמותה דאמרה קאכלה לגירסנא דאימא הכא</row>
+		<row row_number="29" isdata="1">נמי קאמרה אכלה לגירסנא דבי נשאי תא</row>
+		<row row_number="30" isdata="1">שמע הכל נאמנין להעידה חוץ מחמש נשים</row>
+		<row row_number="31" isdata="1">ואם איתא שית הויין דלמא טעמא דבת</row>
+		<row row_number="32" isdata="1">חמותה דאמרה קאכלה לגירסנא דבי</row>
+		<row row_number="33" isdata="1">נשאי לא שנא בת חמותה ולא שנא בת</row>
+		<row row_number="34" isdata="1">חמיה והאנן תנן חוץ משבע נשים ההיא ר'</row>
+		<row row_number="35" isdata="1">יהודה היא דתנן רבי יהודה מוסיף אף אשת</row>
+		<row row_number="36" isdata="1">אב והכלה אמרו לו אשת אב הרי היא בכלל</row>
+		<row row_number="37" isdata="1">בת הבעל כלה הרי בכלל חמותה ור' יהודה בשלמא חמותה סניא לה לכלה</row>
+		<row row_number="38" isdata="1">דאמרה קאכלה לגירסני אלא כלה מאי טעמא סניא לחמותה בשלמא בת</row>
+		<row row_number="39" isdata="1">הבעל דסניא לאשת האב דאמרה קאכלה לגירסני דאם אלא אשת האב מאי</row>
+		<row row_number="40" isdata="1">טעמא סניא לבת הבעל אלא מאי מוסיף תרתי אלא כלה מ"ט סניא לחמותה</row>
+		<row row_number="41" isdata="1">דמגלה לבנה כל דעבדה אשת אב נמי סניא לבת הבעל דמגלה לאביה כל</row>
+		<row row_number="42" isdata="1">דעבדה ורבנן כמים הפנים לפנים כן לב האדם לאדם ורבי יהודה ההיא</row>
+		<row row_number="43" isdata="1">בדברי תורה כתיב אמר רב אחא בר עויא בעי במערבא חמותה הבאה לאחר</row>
+		<row row_number="44" isdata="1">מיכן מהו מי מסקה אדעתה דמית בעל ונפלה קמי יבם וסניא לה או לא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.557475</dateCreated>
+   <lastModified>2020-01-14 15:03:02.557475</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="75">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "נערה המאורסה"/><ContGemara/>כגון דאתפיס אחרינא בהדין נדרא אי אמרת</row>
+		<row row_number="2" isdata="1">חלין הויא תפיסותא אי אמרת לא חלין לא</row>
+		<row row_number="3" isdata="1">איכא מששא מאי ת"ש אמר רבי אליעזר אם</row>
+		<row row_number="4" isdata="1">הפר נדרים שבאו לכלל איסור לא יפר נדרים</row>
+		<row row_number="5" isdata="1">שלא באו לכלל איסור שמע מינה לא חלין</row>
+		<row row_number="6" isdata="1">מי קתני שאינן באין שלא באו קתני עדיין</row>
+		<row row_number="7" isdata="1">לא באו ת"ש אמר להן ר"א ומה במקום שאין</row>
+		<row row_number="8" isdata="1">מיפר נדרי עצמו משנדר מיפר נדרי עצמו</row>
+		<row row_number="9" isdata="1">עד שלא ידור מקום שמפר נדרי אשתו</row>
+		<row row_number="10" isdata="1">משתדור אינו דין שיפר נדרי אשתו עד שלא</row>
+		<row row_number="11" isdata="1">תדור מאי לאו דאשתו דומיא דיליה מה</row>
+		<row row_number="12" isdata="1">[הוא] דלא חיילין אף אשתו נמי דלא</row>
+		<row row_number="13" isdata="1">חיילין לא הא כדאיתא והא כדאיתא ת"ש</row>
+		<row row_number="14" isdata="1">אמרו לו לר"א ומה מקוה שמעלה את</row>
+		<row row_number="15" isdata="1">הטמאין מטומאתן אין מציל על הטהורים</row>
+		<row row_number="16" isdata="1">מליטמא אדם שאין מעלה את הטמאין</row>
+		<row row_number="17" isdata="1">מטומאתן אינו דין הוא שלא יציל על</row>
+		<row row_number="18" isdata="1">הטהורין מליטמא שמע מינה לא חיילין</row>
+</amud>
+</daf>
+</masechet>
+</root>

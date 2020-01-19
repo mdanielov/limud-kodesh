@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:37.022100</dateCreated>
+   <lastModified>2020-01-14 15:03:37.022100</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="149">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שמת"/><ContGemara/>שייר קרקע כל שהוא מתנתו קיימת וכמה</row>
+		<row row_number="2" isdata="1">כל שהוא אמר רב יהודה אמר רב קרקע</row>
+		<row row_number="3" isdata="1">כדי פרנסתו ורב ירמיה בר אבא אמר</row>
+		<row row_number="4" isdata="1">מטלטלין כדי פרנסתו אמר רבי זירא כמה</row>
+		<row row_number="5" isdata="1">מכוונן שמעתתא דסבי קרקע טעמא מאי</row>
+		<row row_number="6" isdata="1">דאי קאי סמיך עליה מטלטלי נמי אי קאי</row>
+		<row row_number="7" isdata="1">סמיך עילויהו מתקיף לה רב יוסף ומאי</row>
+		<row row_number="8" isdata="1">כוונתא מאן דאמר מטלטלין קרקע תנן</row>
+		<row row_number="9" isdata="1">מאן דאמר כדי פרנסתו כל שהוא תנן</row>
+		<row row_number="10" isdata="1">אמר ליה אביי וכל היכא דתני קרקע קרקע</row>
+		<row row_number="11" isdata="1">דוקא והא תנן הכותב כל נכסיו לעבדו</row>
+		<row row_number="12" isdata="1">יצא בן חורין שייר קרקע כל שהוא לא</row>
+		<row row_number="13" isdata="1">יצא בן חורין ר' שמעון אומר לעולם הוא</row>
+		<row row_number="14" isdata="1">בן חורין עד שיאמר כל נכסי נתונין</row>
+		<row row_number="15" isdata="1">לפלוני עבדי חוץ מאחד מרבוא שבהן</row>
+</amud>
+</daf>
+</masechet>
+</root>

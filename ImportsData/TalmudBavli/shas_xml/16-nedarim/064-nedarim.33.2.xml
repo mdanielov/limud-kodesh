@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:01.239584</dateCreated>
+   <lastModified>2020-01-14 15:03:01.239584</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="33">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אין בין המודר"/><ContGemara/>דברי חנן היא רבא אמר אפי' תימא דברי</row>
+		<row row_number="2" isdata="1">הכל גבי מודר הנאה דיהיב על מנת</row>
+		<row row_number="3" isdata="1">שלא לפרוע מאי חנן דתנן מי שהלך</row>
+		<row row_number="4" isdata="1">למדינת הים ועמד אחד ופירנס את אשתו</row>
+		<row row_number="5" isdata="1">חנן אמר איבד את מעותיו נחלקו עליו</row>
+		<row row_number="6" isdata="1">בני כהנים גדולים ואמרו ישבע כמה</row>
+		<row row_number="7" isdata="1">הוציא ויטול א"ר דוסא בן הרכינס כדבריהם</row>
+		<row row_number="8" isdata="1">אמר ר' יוחנן בן זכאי יפה אמר חנן הניח</row>
+		<row row_number="9" isdata="1">מעותיו על קרן הצבי רבא לא אמר כרב</row>
+		<row row_number="10" isdata="1">הושעיא דקא מוקים לה למתניתין כד"ה</row>
+		<row row_number="11" isdata="1">רב הושעיא לא אמר כרבא גזירה שלא</row>
+		<row row_number="12" isdata="1">ליפרע משום ליפרע: מחזיר לו את</row>
+		<row row_number="13" isdata="1">אבידתו: פליגי בה ר' אמי ור' אסי חד</row>
+		<row row_number="14" isdata="1">אמר לא שנו אלא בשנכסי מחזיר אסורין</row>
+		<row row_number="15" isdata="1">על בעל אבידה דכי מהדר ליה מידעם</row>
+		<row row_number="16" isdata="1">דנפשיה קא מהדר ליה אבל נכסי בעל</row>
+		<row row_number="17" isdata="1">אבידה אסורין על מחזיר לא קא מהדר ליה</row>
+		<row row_number="18" isdata="1">דקא מהני ליה פרוטה דרב יוסף וחד אמר</row>
+		<row row_number="19" isdata="1">אפי' נכסי בעל אבידה אסורין על מחזיר</row>
+		<row row_number="20" isdata="1">מהדר ליה ומשום פרוטה דרב יוסף לא שכיח</row>
+</amud>
+</daf>
+</masechet>
+</root>

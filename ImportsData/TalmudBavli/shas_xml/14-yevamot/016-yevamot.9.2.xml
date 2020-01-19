@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:48.674108</dateCreated>
+   <lastModified>2020-01-14 15:02:48.674108</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="9">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חמש עשרה נשים"/><ContGemara/>פליגי ר"ש ורבנן וקתני בנולד ולבסוף ייבם</row>
+		<row row_number="2" isdata="1">לא פליג ר"ש והאמר ר' אושעיא חלוק היה</row>
+		<row row_number="3" isdata="1">ר"ש אף בראשונה הא איתותב ר' אושעיא</row>
+		<row row_number="4" isdata="1">והאמר רב יהודה אמר רב וכן תני ר' חייא</row>
+		<row row_number="5" isdata="1">בכולן אני קורא בהן האסורה לזה מותרת</row>
+		<row row_number="6" isdata="1">לזה והאסורה לזה מותרת לזה ואחותה</row>
+		<row row_number="7" isdata="1">שהיא יבמתה חולצת או מתייבמת ורב יהודה</row>
+		<row row_number="8" isdata="1">מתרגם מחמותו ואילך אבל שיתא בבי</row>
+		<row row_number="9" isdata="1">דרישא לא מ"ט כיון דבתו באונסין משכחת</row>
+		<row row_number="10" isdata="1">בנשואין לא משכחת לה בנשואין קמיירי באונסין לא קא מיירי ואביי</row>
+		<row row_number="11" isdata="1">מתרגם אף בתו מאנוסתו כיון דאשכוחי משכחת לה אי בעיא מן</row>
+		<row row_number="12" isdata="1">האונסין תהוי [אי בעיא מן הנשואין תהוי] אבל אשת אחיו שלא היה</row>
+		<row row_number="13" isdata="1">בעולמו לא מאי טעמא כיון דלר"ש הוא דמשכחת לה לרבנן לא</row>
+		<row row_number="14" isdata="1">משכחת לה בפלוגתא לא קא מיירי ורב ספרא מתרגם אף אשת אחיו</row>
+		<row row_number="15" isdata="1">שלא היה בעולמו ומשכחת לה בשיתא אחים ואליבא דר' שמעון</row>
+</amud>
+</daf>
+</masechet>
+</root>

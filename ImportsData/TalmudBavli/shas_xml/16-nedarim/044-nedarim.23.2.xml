@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.898128</dateCreated>
+   <lastModified>2020-01-14 15:03:00.898128</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="23">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה נדרים"/><ContGemara/>חסורי מיחסרא והכי קתני הרוצה שיאכל</row>
+		<row row_number="2" isdata="1">אצלו חבירו ומסרב בו ומדירו נדרי זירוזין</row>
+		<row row_number="3" isdata="1">הוא והרוצה שלא יתקיימו נדריו כל השנה</row>
+		<row row_number="4" isdata="1">יעמוד בראש השנה ויאמר כל נדר שאני</row>
+		<row row_number="5" isdata="1">עתיד לידור יהא בטל ובלבד שיהא זכור</row>
+		<row row_number="6" isdata="1">בשעת הנדר אי זכור עקריה לתנאיה וקיים</row>
+		<row row_number="7" isdata="1">ליה לנדריה אמר אביי תני ובלבד שלא</row>
+		<row row_number="8" isdata="1">יהא זכור בשעת הנדר רבא אמר לעולם</row>
+		<row row_number="9" isdata="1">כדאמרינן מעיקרא הכא במאי עסקינן כגון</row>
+		<row row_number="10" isdata="1">שהתנה בראש השנה ולא ידע במה התנה</row>
+		<row row_number="11" isdata="1">והשתא קא נדר אי זכור בשעת הנדר</row>
+		<row row_number="12" isdata="1">ואמר על דעת הראשונה אני נודר נדריה</row>
+		<row row_number="13" isdata="1">לית ביה ממשא לא אמר על דעת הראשונה</row>
+		<row row_number="14" isdata="1">אני נודר עקריה לתנאיה וקיים לנדריה רב</row>
+		<row row_number="15" isdata="1">הונא בר חיננא סבר למידרשיה בפירקא</row>
+		<row row_number="16" isdata="1">אמר ליה רבא תנא קא מסתים לה סתומי</row>
+		<row row_number="17" isdata="1">כדי שלא ינהגו קלות ראש בנדרים ואת</row>
+		<row row_number="18" isdata="1">דרשת ליה בפירקא איבעיא להו פליגי רבנן עליה דרבי אליעזר בן</row>
+		<row row_number="19" isdata="1">יעקב או לא ואת"ל פליגי הלכתא כותיה או לא ת"ש דתנן האומר לחבירו</row>
+</amud>
+</daf>
+</masechet>
+</root>

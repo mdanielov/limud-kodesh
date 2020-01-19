@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:18.375783</dateCreated>
+   <lastModified>2020-01-14 15:03:18.375783</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="31">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המניח"/><ContGemara/>סליקוסתא בשלמא רב אדא בר אהבה</row>
+		<row row_number="2" isdata="1">כשמעתיה אלא רב הונא לימא הדר ביה</row>
+		<row row_number="3" isdata="1">הנהו מותרין הוו<EndGemara/><StartMishna/>מתני' שני קדרין</row>
+		<row row_number="4" isdata="1">שהיו מהלכין זה אחר זה ונתקל הראשון</row>
+		<row row_number="5" isdata="1">ונפל ונתקל השני בראשון הראשון חייב</row>
+		<row row_number="6" isdata="1">בנזקי שני:<EndMishna/><StartGemara/>גמ' אמר רבי יוחנן לא תימא</row>
+		<row row_number="7" isdata="1"><EndGemara/><StartMishna/>מתני' ר' מאיר היא דאמר נתקל פושע הוא וחייב אלא אפילו לרבנן</row>
+		<row row_number="8" isdata="1">דאמרי אנוס הוא ופטור הכא חייב שהיה לו לעמוד ולא עמד רב נחמן בר</row>
+		<row row_number="9" isdata="1">יצחק אמר אפילו תימא לא היה לו לעמוד היה לו להזהיר ולא הזהיר ורבי</row>
+		<row row_number="10" isdata="1">יוחנן אמר כיון דלא היה לו לעמוד לא היה לו להזהיר דטריד תנן היה</row>
+		<row row_number="11" isdata="1">בעל קורה ראשון ובעל חבית אחרון נשברה חבית בקורה פטור ואם עמד</row>
+		<row row_number="12" isdata="1">בעל קורה חייב מאי לאו שעמד לכתף דאורחיה הוא וקתני חייב דהוה</row>
+		<row row_number="13" isdata="1">ליה להזהיר לא כשעמד לפוש אבל עמד לכתף מאי פטור אדתני סיפא</row>
+		<row row_number="14" isdata="1">ואם אמר לו לבעל חבית עמוד פטור לפלוג וליתני בדידה בד"א כשעמד</row>
+		<row row_number="15" isdata="1">לפוש אבל עמד לכתף פטור הא קמ"ל דאע"ג דעמד לפוש כי קאמר לו</row>
+		<row row_number="16" isdata="1">לבעל חבית עמוד פטור ת"ש הקדרין והזגגין שהיו מהלכין זה אחר זה</row>
+		<row row_number="17" isdata="1">נתקל הראשון ונפל ונתקל השני בראשון והשלישי בשני ראשון חייב</row>
+		<row row_number="18" isdata="1">בנזקי שני ושני חייב בנזקי שלישי ואם מחמת ראשון נפלו ראשון חייב</row>
+		<row row_number="19" isdata="1">בנזקי כולם ואם הזהירו זה את זה פטורין מאי לאו שלא היה להן לעמוד</row>
+		<row row_number="20" isdata="1">לא שהיה להן לעמוד אבל לא היה להם לעמוד מאי פטור אי הכי אדתני</row>
+		<row row_number="21" isdata="1">סיפא אם הזהירו זה את זה פטור לפלוג וליתני בדידה במה דברים</row>
+		<row row_number="22" isdata="1">אמורים שהיה להן לעמוד אבל לא היה להן לעמוד פטורין הא קמ"ל</row>
+		<row row_number="23" isdata="1">דאע"ג דהיה להן לעמוד כי הזהירו זה את זה פטורין אמר רבא</row>
+		<row row_number="24" isdata="1">ראשון חייב בנזקי שני בין בנזקי גופו בין בנזקי ממונו שני חייב</row>
+		<row row_number="25" isdata="1">בנזקי שלישי בנזקי גופו אבל לא בנזקי ממונו ממה נפשך אי נתקל</row>
+		<row row_number="26" isdata="1">פושע הוא שני נמי ליחייב אי נתקל לאו פושע הוא אפילו ראשון נמי ליפטר</row>
+</amud>
+</daf>
+</masechet>
+</root>

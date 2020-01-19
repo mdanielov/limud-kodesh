@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:12.894121</dateCreated>
+   <lastModified>2020-01-14 15:03:12.894121</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="90">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המגרש"/><ContGemara/>ופרומה משני צדדיה ורוחצת עם בני אדם</row>
+		<row row_number="2" isdata="1">עם בני אדם ס"ד אלא במקום שבני אדם</row>
+		<row row_number="3" isdata="1">רוחצין זו מצוה מן התורה לגרשה שנאמר</row>
+		<row row_number="4" isdata="1">כי מצא בה ערות וגו' ושלחה מביתו והלכה</row>
+		<row row_number="5" isdata="1">והיתה לאיש אחר הכתוב קראו אחר לומר</row>
+		<row row_number="6" isdata="1">שאין זה בן זוגו לראשון זה הוציא רשעה</row>
+		<row row_number="7" isdata="1">מביתו וזה הכניס רשעה לתוך ביתו זכה</row>
+		<row row_number="8" isdata="1">שני שלחה שנאמר ושנאה האיש האחרון</row>
+		<row row_number="9" isdata="1">ואם לאו קוברתו שנאמר או כי ימות האיש</row>
+		<row row_number="10" isdata="1">האחרון כדאי הוא במיתה שזה הוציא רשעה</row>
+		<row row_number="11" isdata="1">מביתו וזה הכניס רשעה לתוך לתוך ביתו כי</row>
+		<row row_number="12" isdata="1">שנא שלח ר' יהודה אומר אם שנאתה שלח ר' יוחנן אומר שנאוי המשלח ולא פליגי הא בזוג</row>
+		<row row_number="13" isdata="1">ראשון הא בזוג שני דאמר ר' אלעזר כל המגרש אשתו ראשונה אפילו מזבח מוריד עליו דמעות</row>
+		<row row_number="14" isdata="1">שנאמר וזאת שנית תעשי כסות דמעה את המזבח ה' בכי ואקנה מאין [עוד] פנות אל המנחה ולקחת</row>
+		<row row_number="15" isdata="1">רצון מידכםואמרתם על מה על כי ה' העיד בינך ובין אשת נעוריך אשר אתה בגדתה בה והיא</row>
+		<row row_number="16" isdata="1">חברתך ואשת בריתך :<EndChapter name = "המגרש"/><EndGemara/></row>
+		<row row_number="17" isdata="0">הדרן עלך המגרש וסליקא לה מסכת גיטין</row>
+</amud>
+</daf>
+</masechet>
+</root>

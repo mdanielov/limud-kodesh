@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:28.729195</dateCreated>
+   <lastModified>2020-01-14 15:04:28.729195</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="18">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "קדשי מזבח"/><ContMishna/>מתני' הערלה וכלאי הכרם מצטרפין זה<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">עם זה ר' שמעון אומר אין מצטרפין:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="3" isdata="1">ומי צריך ר"ש לצרופי והתניא ר"ש אומר כל</row>
+		<row row_number="4" isdata="1">שהוא למכות תני אין צריכין לצרף<EndGemara/><StartMishna/>מתני'</row>
+		<row row_number="5" isdata="1">הבגד והשק השק והעור העור והמפץ כולן</row>
+		<row row_number="6" isdata="1">מצטרפין זה עם זה אר"ש מה טעם מפני שהן</row>
+		<row row_number="7" isdata="1">ראוין ליטמא במושב:<EndMishna/><StartGemara/>גמ' תנא קיצע</row>
+		<row row_number="8" isdata="1">מכולן שלשה ועשה מהן בגד למשכב שלשה</row>
+		<row row_number="9" isdata="1">למושב טפח לאחיזה כל שהו מאי לאחיזה אמר</row>
+		<row row_number="10" isdata="1">ר"ל אמר ר' ינאי שכן עומד לנוולה במתניתא</row>
+		<row row_number="11" isdata="1">תנא הואיל וראוי לקוצצי תאנים:<EndChapter name = "קדשי מזבח"/><EndGemara/></row>
+		<row row_number="12" isdata="0">הדרן עלך קדשי מזבח</row>
+		<row row_number="13" isdata="1"><StartChapter name = "הנהנה"/><StartMishna/>הנהנה מן ההקדש שוה פרוטה אע"פ שלא</row>
+		<row row_number="14" isdata="1">פגם מעל דברי ר"ע וחכ"א כל</row>
+		<row row_number="15" isdata="1">דבר שיש בו פגם לא מעל עד שיפגום ושאין</row>
+		<row row_number="16" isdata="1">בו פגם כיון שנהנה מעל כיצד נתנה קטלא</row>
+		<row row_number="17" isdata="1">בצוארה טבעת בידה שתה בכוס של זהב</row>
+		<row row_number="18" isdata="1">כיון שנהנה מעל לבש בחלוק כסה בטלית</row>
+		<row row_number="19" isdata="1">ביקע בקרדום לא מעל עד שיפגום הנהנה</row>
+		<row row_number="20" isdata="1">מן החטאת כשהיא חיה לא מעל עד שיפגום</row>
+		<row row_number="21" isdata="1">כשהיא מתה כיון שנהנה מעל:<EndMishna/><StartGemara/>גמ' תנא</row>
+		<row row_number="22" isdata="1">מודה ר"ע לחכמים בדבר שיש בו פגם</row>
+		<row row_number="23" isdata="1">במאי קא מיפלגי אמר רבא בלבוש מציעאה</row>
+		<row row_number="24" isdata="1">ומלמלא ת"ר נפש אחד היחיד ואחד הנשיא</row>
+		<row row_number="25" isdata="1">ואחד המשיח כי תמעל מעל אין מעל אלא</row>
+		<row row_number="26" isdata="1">שנוי וכן הוא אומר איש איש כי תשטה</row>
+		<row row_number="27" isdata="1">אשתו ומעלה בו מעל ואומר וימעלו באלהי</row>
+</amud>
+</daf>
+</masechet>
+</root>

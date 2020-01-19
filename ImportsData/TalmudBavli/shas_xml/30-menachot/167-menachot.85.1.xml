@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:08.524901</dateCreated>
+   <lastModified>2020-01-14 15:04:08.524901</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="85">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל קרבנות הצבור"/><ContGemara/>אלא לרבי יוחנן קשיא תנאי היא דתניא</row>
+		<row row_number="2" isdata="1">שבגג ושבחורבה מביא וקורא שבעציץ</row>
+		<row row_number="3" isdata="1">ושבספינה אינו מביא כל עיקר: וכולן אינן</row>
+		<row row_number="4" isdata="1">באות אלא מן המובחר כו': אמרי ליה</row>
+		<row row_number="5" isdata="1">יוחנא וממרא למשה תבן אתה מכניס</row>
+		<row row_number="6" isdata="1">לעפריים אמר להו אמרי אינשי למתא</row>
+		<row row_number="7" isdata="1">ירקא ירקא שקול<EndGemara/><StartMishna/>מתני' אין מביאין לא</row>
+		<row row_number="8" isdata="1">מבית הזבלים ולא מבית השלחים ולא מבית</row>
+		<row row_number="9" isdata="1">האילן ואם הביא כשר כיצד הוא עושה</row>
+		<row row_number="10" isdata="1">נרה שנה ראשונה ובשנה שניה זורעה</row>
+		<row row_number="11" isdata="1">קודם לפסח שבעים יום והוא עושה סולת</row>
+		<row row_number="12" isdata="1">מרובה כיצד בודק הגזבר מכניס ידו</row>
+		<row row_number="13" isdata="1">לתוכן עלה בה אבק פסולה עד שינפנה</row>
+		<row row_number="14" isdata="1">ואם התליעה פסולה:<EndMishna/><StartGemara/>גמ' כיצד עושה נרה</row>
+		<row row_number="15" isdata="1">שנה ראשונה איבעיא להו היכי קאמר</row>
+		<row row_number="16" isdata="1">נרה שנה ראשונה ושניה נרה וזורעה או</row>
+		<row row_number="17" isdata="1">דלמא נרה שנה ראשונה ושניה זורעה בלא</row>
+		<row row_number="18" isdata="1">נרה תא שמע דתניא אמר רבי יוסי אף חיטי</row>
+		<row row_number="19" isdata="1">כרזיים וכפר אחים אלמלא סמוכות</row>
+		<row row_number="20" isdata="1">לירושלים היו מביאין מהן לפי שאין מביאין</row>
+		<row row_number="21" isdata="1">את העומר אלא מן השדות המודרמות</row>
+		<row row_number="22" isdata="1">והמנונרות לכך שבהן חמה זורחת ומהן</row>
+		<row row_number="23" isdata="1">חמה שוקעת כיצד עושה נרה שנה ראשונה</row>
+		<row row_number="24" isdata="1">ושניה חורש ושונה וזורעה קודם לפסח</row>
+		<row row_number="25" isdata="1">שבעים יום כדי שתהא סמוכה לחמה ועושה</row>
+		<row row_number="26" isdata="1">קנה זרת ושיבולת זרתיים וקוצר ומעמר</row>
+		<row row_number="27" isdata="1">ודש וזורה ובורר וטוחן ומרקד ומביא אצל</row>
+		<row row_number="28" isdata="1">גזבר וגזבר מכניס ידו לתוכה אם עלתה בה</row>
+		<row row_number="29" isdata="1">אבק אומר לו חזור ונפה אותה שניה משום</row>
+		<row row_number="30" isdata="1">רבי נתן אמרו גזבר סך ידו שמן ומכניס לתוכה</row>
+		<row row_number="31" isdata="1">עד שמעלה כל אבקה קתני מיהת חורש</row>
+		<row row_number="32" isdata="1">ושונה ולטעמיך מתניתין לא קתני שונה</row>
+</amud>
+</daf>
+</masechet>
+</root>

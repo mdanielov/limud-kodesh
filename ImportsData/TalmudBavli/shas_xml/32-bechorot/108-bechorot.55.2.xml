@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:22.724538</dateCreated>
+   <lastModified>2020-01-14 15:04:22.724538</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="55">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מעשר בהמה"/><ContGemara/>עינתא דמידליין אמר רב משרשיא הנהו</row>
+		<row row_number="2" isdata="1">סולמי דפרת נינהו והא כתיב והנהר</row>
+		<row row_number="3" isdata="1">הרביעי הוא פרת אמר רב נחמן בר יצחק</row>
+		<row row_number="4" isdata="1">ואיתימא רב אחא בר יעקב הוא פרת</row>
+		<row row_number="5" isdata="1">דמעיקרא תניא רבי מאיר אומר יובל שמו</row>
+		<row row_number="6" isdata="1">שנאמר והיה כעץ שתול על מים ועל יובל</row>
+		<row row_number="7" isdata="1">ישלח שרשיו ולמה נקרא שמו פרת שמימיו</row>
+		<row row_number="8" isdata="1">פרים ורבים מסייע ליה לשמואל דאמר</row>
+		<row row_number="9" isdata="1">שמואל נהרא מכיפיה מיבריך ופליגא דרב</row>
+		<row row_number="10" isdata="1">דאמר רב אמי אמר רב מיטרא במערבא</row>
+		<row row_number="11" isdata="1">סהדא רבה פרת אבוה דשמואל עביד להו</row>
+		<row row_number="12" isdata="1">לבנאתיה מקוה ביומי ניסן ומפצי ביומי</row>
+		<row row_number="13" isdata="1">תשרי מקוה ביומי ניסן סבר לה כרב דאמר</row>
+		<row row_number="14" isdata="1">רב אמי אמר רב מיטרא במערבא סהדא</row>
+		<row row_number="15" isdata="1">רבה פרת שמא ירבו נוטפין על הזוחלין</row>
+		<row row_number="16" isdata="1">והוו להו מי גשמים רובא ומפצי ביומי</row>
+		<row row_number="17" isdata="1">תשרי ופליגא דידיה אדידיה דאמר</row>
+		<row row_number="18" isdata="1">שמואל אין המים נטהרים בזוחלין אלא פרת</row>
+		<row row_number="19" isdata="1">ביומי תשרי<EndGemara/><StartMishna/>מתני' הלוקח או שניתן</row>
+		<row row_number="20" isdata="1">לו במתנה פטור ממעשר בהמה:<EndMishna/><StartGemara/>גמ' מנא</row>
+		<row row_number="21" isdata="1">הני מילי אמר רב כהנא דאמר קרא בכור</row>
+		<row row_number="22" isdata="1">בניך תתן לי כן תעשה לשורך לצאנך</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:10.904075</dateCreated>
+   <lastModified>2020-01-14 15:02:10.904075</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="25">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>עשה והוה ליה יום טוב עשה ולא תעשה</row>
+		<row row_number="2" isdata="1">ואין עשה דוחה את לא תעשה ועשה ביום</row>
+		<row row_number="3" isdata="1">טוב הוא דאסיר הא בחול שפיר דמי מ"ט</row>
+		<row row_number="4" isdata="1">אמר רב כשם שמצוה לשרוף הקדשים</row>
+		<row row_number="5" isdata="1">שנטמאו כך מצוה לשרוף את התרומה</row>
+		<row row_number="6" isdata="1">שנטמאת ואמרה תורה בשעת ביעורה</row>
+		<row row_number="7" isdata="1">תיהני ממנה היכן אמרה תורה מדרב נחמן</row>
+		<row row_number="8" isdata="1">דאמר רב נחמן אמר רבה בר אבוה אמר</row>
+		<row row_number="9" isdata="1">קרא ואני הנה נתתי לך את משמרת</row>
+		<row row_number="10" isdata="1">תרומותי בשתי תרומות הכתוב מדבר</row>
+		<row row_number="11" isdata="1">אחת תרומה טהורה ואחת תרומה טמאה</row>
+		<row row_number="12" isdata="1">ואמר רחמנא לך שלך תהא להסיקה תחת</row>
+		<row row_number="13" isdata="1">תבשילך ואיבעית אימא מדרבי אבהו</row>
+		<row row_number="14" isdata="1">דאמר רבי אבהו א"ר יוחנן ולא בערתי</row>
+		<row row_number="15" isdata="1">ממנו בטמא ממנו אי אתה מבעיר אבל</row>
+		<row row_number="16" isdata="1">אתה מבעיר שמן של תרומה שנטמאת</row>
+		<row row_number="17" isdata="1">ואימא ממנו אי אתה מבעיר אבל אתה</row>
+		<row row_number="18" isdata="1">מבעיר שמן של קדש שנטמא לאו קל</row>
+		<row row_number="19" isdata="1">וחומר הוא מה מעשר הקל אמרה תורה</row>
+		<row row_number="20" isdata="1">לא בערתי ממנו בטמא קדש חמור לא כ"ש</row>
+		<row row_number="21" isdata="1">א"ה תרומה נמי לימא ק"ו הוא הא כתיב</row>
+		<row row_number="22" isdata="1">ממנו ומה ראית מסתברא קדש לא ממעיטנא</row>
+		<row row_number="23" isdata="1">שכן סימן פנ"ק עכ"ס פיגול נותר קרבן</row>
+		<row row_number="24" isdata="1">מעילה וכרת אסור לאונן אדרבה תרומה</row>
+		<row row_number="25" isdata="1">לא ממעיטנא שכן מחפ"ז סימן מיתה חומש</row>
+</amud>
+</daf>
+</masechet>
+</root>

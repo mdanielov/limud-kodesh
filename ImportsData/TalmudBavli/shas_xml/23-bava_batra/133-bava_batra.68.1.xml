@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:32.573002</dateCreated>
+   <lastModified>2020-01-14 15:03:32.573002</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="68">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הבית"/><ContGemara/>בימות החמה ובימות הגשמים ולא בית</row>
+		<row row_number="2" isdata="1">כינוס העצים ואם אמר לו בית המרחץ וכל</row>
+		<row row_number="3" isdata="1">תשמישיו אני מוכר לך כולן מכורין ההוא</row>
+		<row row_number="4" isdata="1">דאמר ליה לחבריה בית הבד וכל תשמישיו</row>
+		<row row_number="5" isdata="1">אני מוכר לך הויא הנהו חנואתא אבראי</row>
+		<row row_number="6" isdata="1">דהוו שטחו בהו שומשמי אתא לקמיה דרב</row>
+		<row row_number="7" isdata="1">יוסף א"ל תנינא אם אמר בית המרחץ וכל</row>
+		<row row_number="8" isdata="1">תשמישיו אני מוכר לך הרי כולן מכורין</row>
+		<row row_number="9" isdata="1">אמר ליה אביי והא תני רבי חייא אין כולן</row>
+		<row row_number="10" isdata="1">מכורין אלא אמר רב אשי חזינן אי א"ל בית</row>
+		<row row_number="11" isdata="1">הבד וכל תשמישיו ואלין מצרנהא קני ואי</row>
+		<row row_number="12" isdata="1">לא לא קני<EndGemara/><StartMishna/>מתני' המוכר את העיר מכר</row>
+		<row row_number="13" isdata="1">בתים בורות שיחין ומערות מרחצאות</row>
+		<row row_number="14" isdata="1">ושובכות בית הבדין ובית השלחין אבל לא</row>
+		<row row_number="15" isdata="1">את המטלטלין ובזמן שאמר לו היא וכל</row>
+		<row row_number="16" isdata="1">מה שבתוכה אפילו היו בה בהמה ועבדים</row>
+		<row row_number="17" isdata="1">הרי כולן מכורין רשב"ג אומר המוכר את</row>
+		<row row_number="18" isdata="1">העיר מכר את הסנטר:<EndMishna/><StartGemara/>גמ' אמר ליה רב</row>
+		<row row_number="19" isdata="1">אחא בריה דרב אויא לרב אשי שמעת</row>
+		<row row_number="20" isdata="1">מינה עבדא כמטלטלא דמי דאי כמקרקע</row>
+		<row row_number="21" isdata="1">דמי ניזדבן אגב מתא ואלא מאי עבדא כמטלטלא דמי מאי אפי' אלא</row>
+		<row row_number="22" isdata="1">מאי אית לך למימר שאני בין מטלטלא דנייד ממטלטלא דלא נייד אפילו</row>
+		<row row_number="23" isdata="1">תימא עבדא כמקרקע דמי שאני בין מקרקע דנייד למקרקע דלא נייד: רבן</row>
+		<row row_number="24" isdata="1">שמעון בן גמליאל אומר המוכר את העיר מכר את הסנטר: מאי סנטר הכא</row>
+		<row row_number="25" isdata="1">תרגימו בר מחווניתא שמעון בן אבטולמוס אומר באגי מאן דאמר בר</row>
+		<row row_number="26" isdata="1">מחווניתא כל שכן באגי מ"ד באגי אבל בר מחווניתא לא מיזדבן תנן בית הבדים</row>
+		<row row_number="27" isdata="1">ובית השלחין סברוה מאי שלחין באגי דכתיב ושולח מים על פני חוצות</row>
+		<row row_number="28" isdata="1">בשלמא למאן דאמר בר מחווניתא אמר תנא קמא באגי מיזדבני בר מחווניתא</row>
+		<row row_number="29" isdata="1">לא מיזדבן ואתא רבן שמעון בן גמליאל למימר אפי' בר מחווניתא נמי מיזדבן</row>
+		<row row_number="30" isdata="1">אלא למ"ד באגי ת"ק נמי הכי קאמר מי סברת מאי שלחין באגי לא מאי</row>
+		<row row_number="31" isdata="1">שלחין גינונייתא שנאמר שלחיך פרדס רמונים אבל באגי לא מיזדבני ואתא</row>
+		<row row_number="32" isdata="1">רבן שמעון בן גמליאל למימר אפי' באגי נמי מזדבני איכא דאמרי סברוה מאי</row>
+		<row row_number="33" isdata="1">שלחין גינוניאתא בשלמא למאן דאמר באגי אמר תנא קמא גנונייתא</row>
+		<row row_number="34" isdata="1">מיזדבן באגי לא מיזדבני ואתא רשב"ג למימר אפילו באגי מיזדבני</row>
+</amud>
+</daf>
+</masechet>
+</root>

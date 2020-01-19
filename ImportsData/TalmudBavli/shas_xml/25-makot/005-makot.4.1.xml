@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:45.214342</dateCreated>
+   <lastModified>2020-01-14 15:03:45.214342</lastModified>
+ </meta>
+ <masechet name="מכות" serial="25">
+<daf value="4">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד העדים"/><ContGemara/>חסר קורטוב שנפל לתוכן קורטוב יין ומראיהן</row>
+		<row row_number="2" isdata="1">כמראה יין ונפלו למקוה לא פסלוהו וכן ג'</row>
+		<row row_number="3" isdata="1">לוגין מים חסר קורטוב שנפל לתוכן קורטוב</row>
+		<row row_number="4" isdata="1">חלב ומראיהן כמראה מים ונפלו למקוה לא</row>
+		<row row_number="5" isdata="1">פסלוהו ר' יוחנן בן נורי אומר הכל הולך</row>
+		<row row_number="6" isdata="1">אחר המראה הא מיבעיא בעי לה רב פפא</row>
+		<row row_number="7" isdata="1">דבעי רב פפא רב תני חסר קורטוב ברישא</row>
+		<row row_number="8" isdata="1">אבל שלשה לוגין לתנא קמא פסלי ואתא ר'</row>
+		<row row_number="9" isdata="1">יוחנן למימר הכל הולך אחר המראה ורב</row>
+		<row row_number="10" isdata="1">אומר כר' יוחנן בן נורי או דלמא רב לא</row>
+		<row row_number="11" isdata="1">תני חסר קורטוב ברישא ור' יוחנן בן נורי כי</row>
+		<row row_number="12" isdata="1">פליג אסיפא הוא דפליג ורב דאמר כדברי</row>
+		<row row_number="13" isdata="1">הכל לרב פפא מיבעיא ליה לרבא פשיטא</row>
+		<row row_number="14" isdata="1">ליה אמר רב יוסף לא שמיעא לי הא</row>
+		<row row_number="15" isdata="1">שמעתא אמר ליה אביי את אמרת לה ניהלן</row>
+		<row row_number="16" isdata="1">והכי אמרת ניהלן דרב לא תני חסר קורטוב</row>
+		<row row_number="17" isdata="1">ברישא ורבי יוחנן אסיפא פליג ורב דאמר</row>
+		<row row_number="18" isdata="1">כדברי הכל ואמר רב יהודה אמר רב חבית</row>
+		<row row_number="19" isdata="1">מליאה מים שנפלה לים הגדול הטובל שם</row>
+		<row row_number="20" isdata="1">לא עלתה לו טבילה חיישינן לשלשה לוגין</row>
+		<row row_number="21" isdata="1">שלא יהו במקום אחד ודוקא לים הגדול דקאי</row>
+		<row row_number="22" isdata="1">וקיימא אבל נהרא בעלמא לא תניא נמי הכי</row>
+		<row row_number="23" isdata="1">חבית מליאה יין שנפלה לים הגדול הטובל</row>
+		<row row_number="24" isdata="1">שם לא עלתה לו טבילה חיישינן לשלשה</row>
+		<row row_number="25" isdata="1">לוגין שאובין שלא יהו במקום אחד  וכן</row>
+		<row row_number="26" isdata="1">ככר של תרומה שנפל שם טמא מאי וכן מהו</row>
+		<row row_number="27" isdata="1">דתימא התם אוקי גברא אחזקיה הכא אוקי</row>
+		<row row_number="28" isdata="1">תרומה אחזקה קמ"ל<EndGemara/><StartMishna/>מתני' מעידין אנו</row>
+		<row row_number="29" isdata="1">באיש פלוני שחייב לחבירו מאתים זוז ונמצאו</row>
+		<row row_number="30" isdata="1">זוממין לוקין ומשלמין שלא השם המביאן</row>
+		<row row_number="31" isdata="1">לידי מכות מביאן לידי תשלומין דברי ר'</row>
+		<row row_number="32" isdata="1">מאיר וחכ"א כל המשלם אינו לוקה מעידין</row>
+		<row row_number="33" isdata="1">אנו באיש פלוני שהוא חייב מלקות ארבעים</row>
+		<row row_number="34" isdata="1">ונמצאו זוממין לוקין שמונים משום</row>
+		<row row_number="35" isdata="1">לא תענה ברעך עד שקר ומשום</row>
+		<row row_number="36" isdata="1">ועשיתם לו כאשר זמם דברי ר' מאיר</row>
+		<row row_number="37" isdata="1">וחכ"א אין לוקין אלא ארבעים:<EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

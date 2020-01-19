@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:25.916389</dateCreated>
+   <lastModified>2020-01-14 15:02:25.916389</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="28">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>חזר רבי יהודה ודנו דין אחר נותר ישנו בבל</row>
+		<row row_number="2" isdata="1">תותירו וחמץ בבל תותירו מה נותר בשריפה</row>
+		<row row_number="3" isdata="1">אף חמץ בשריפה אמרו לו אשם תלוי וחטאת</row>
+		<row row_number="4" isdata="1">העוף הבא על הספק לדבריך יוכיחו שהן</row>
+		<row row_number="5" isdata="1">בבל תותירו שאנו אומרים בשריפה ואתה</row>
+		<row row_number="6" isdata="1">אומר בקבורה שתק ר' יהודה אמר רב יוסף</row>
+		<row row_number="7" isdata="1">היינו דאמרי אינשי כפא דחטא נגרא בגווה</row>
+		<row row_number="8" isdata="1">נשרוף חרדלא (אמר אביי) סדנא בסדני</row>
+		<row row_number="9" isdata="1">יתיב מדויל ידיה משתלים רבא אמר גירא</row>
+		<row row_number="10" isdata="1">בגירי מקטיל מדויל ידיה משתלים: וחכ"א</row>
+		<row row_number="11" isdata="1">מפרר וזורה וכו': איבעיא להו היכי קאמר</row>
+		<row row_number="12" isdata="1">מפרר וזורה לרוח ומפרר ומטיל לים או</row>
+		<row row_number="13" isdata="1">דילמא מפרר וזורה לרוח אבל מטיל לים</row>
+		<row row_number="14" isdata="1">בעיניה ותנן נמי גבי ע"ז כי האי גוונא</row>
+		<row row_number="15" isdata="1">ר' יוסי אומר שוחק וזורה לרוח או מטיל לים</row>
+		<row row_number="16" isdata="1">ואיבעיא להו היכי קאמר שוחק וזורה לרוח</row>
+		<row row_number="17" isdata="1">ושוחק ומטיל לים או דילמא שוחק וזורה</row>
+		<row row_number="18" isdata="1">לרוח אבל מטיל לים בעיניה אמר רבה</row>
+		<row row_number="19" isdata="1">מסתברא ע"ז דלים המלח קא אזלא לא</row>
+		<row row_number="20" isdata="1">בעי שחיקה חמץ דלשאר נהרות קאזיל</row>
+		<row row_number="21" isdata="1">בעי פירור א"ל רב יוסף אדרבה איפכא</row>
+		<row row_number="22" isdata="1">מסתברא ע"ז דלא ממיסה בעי שחיקה</row>
+		<row row_number="23" isdata="1">חמץ דממיס לא בעי פירור תניא כוותיה</row>
+		<row row_number="24" isdata="1">דרבה תניא כוותיה דרב יוסף תניא כוותיה</row>
+		<row row_number="25" isdata="1">דרבה היה מהלך במדבר מפרר וזורה לרוח</row>
+		<row row_number="26" isdata="1">היה מהלך בספינה מפרר ומטיל לים תניא</row>
+		<row row_number="27" isdata="1">כוותיה דרב יוסף היה מהלך במדבר שוחק</row>
+		<row row_number="28" isdata="1">וזורה לרוח היה מהלך בספינה שוחק ומטיל</row>
+		<row row_number="29" isdata="1">לים שחיקה קשיא לרבה פירור קשיא לרב</row>
+		<row row_number="30" isdata="1">יוסף שחיקה לרבה לא קשיא הא לים המלח</row>
+		<row row_number="31" isdata="1">הא לשאר נהרות פירור לרב יוסף לא קשיא</row>
+		<row row_number="32" isdata="1">הא בחיטי הא בנהמא<EndGemara/><StartMishna/>מתני' חמץ של</row>
+		<row row_number="33" isdata="1">נכרי שעבר עליו הפסח מותר בהנאה ושל</row>
+		<row row_number="34" isdata="1">ישראל אסור בהנאה שנאמר לא יראה לך</row>
+		<row row_number="35" isdata="1">שאור:<EndMishna/><StartGemara/>גמ' מני מתניתין לא רבי יהודה</row>
+		<row row_number="36" isdata="1">ולא רבי שמעון ולא רבי יוסי הגלילי</row>
+		<row row_number="37" isdata="1">מאי היא דתניא חמץ בין לפני זמנו</row>
+		<row row_number="38" isdata="1">בין לאחר זמנו עובר עליו בלאו תוך זמנו</row>
+		<row row_number="39" isdata="1">עובר עליו בלאו וכרת דברי רבי יהודה</row>
+</amud>
+</daf>
+</masechet>
+</root>

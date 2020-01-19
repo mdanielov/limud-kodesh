@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:00.827086</dateCreated>
+   <lastModified>2020-01-14 15:04:00.827086</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="92">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל התדיר"/><ContGemara/>אבל לא גחלת של עץ ואי ס"ד כר"ש ס"ל</row>
+		<row row_number="2" isdata="1">אפילו גחלת של עץ נמי בדבר שאין מתכוין</row>
+		<row row_number="3" isdata="1">סבר לה כר"ש במלאכה שאינה צריכה לגופה</row>
+		<row row_number="4" isdata="1">סבר לה כרבי יהודה אמר רב הונא נסכים</row>
+		<row row_number="5" isdata="1">שנטמאו עושה להן מערכה בפני עצמן</row>
+		<row row_number="6" isdata="1">ושורפן משום שנאמר בקודש באש</row>
+		<row row_number="7" isdata="1">תשרף תניא נמי הכי הדם והשמן והמנחות</row>
+		<row row_number="8" isdata="1">והנסכים שנטמאו עושה להן מערכה בפני</row>
+		<row row_number="9" isdata="1">עצמן ושורפן א"ל שמואל לרב חנא בגדתאה</row>
+		<row row_number="10" isdata="1">אייתי לי בי עשרה ואימא לך קמייהו</row>
+		<row row_number="11" isdata="1">נסכים שנטמאו עושה להן מערכה בפני</row>
+		<row row_number="12" isdata="1">עצמן ושורפן:<EndChapter name = "כל התדיר"/><EndGemara/></row>
+		<row row_number="13" isdata="0">הדרן עלך כל התדיר</row>
+		<row row_number="14" isdata="1"><StartChapter name = "דם חטאת"/><StartMishna/>דם חטאת שנתז על הבגד הרי זה טעון</row>
+		<row row_number="15" isdata="1">כיבוס אע"פ שאין הכתוב מדבר אלא</row>
+		<row row_number="16" isdata="1">בנאכלות שנאמר במקום קדוש תאכל</row>
+		<row row_number="17" isdata="1">אחד הנאכלות ואחד הפנימיות טעונות</row>
+		<row row_number="18" isdata="1">כיבוס שנאמר תורת החטאת תורה אחת</row>
+		<row row_number="19" isdata="1">לכל החטאות חטאת פסולה אין דמה טעון</row>
+		<row row_number="20" isdata="1">כיבוס בין שהיתה לה שעת הכושר ובין</row>
+		<row row_number="21" isdata="1">שלא היתה לה שעת הכושר איזו היא</row>
+		<row row_number="22" isdata="1">שהיתה לה שעת הכושר שלנה ושנטמאה</row>
+		<row row_number="23" isdata="1">ושיצאת ואיזו היא שלא היתה לה שעת</row>
+		<row row_number="24" isdata="1">הכושר שנשחטה חוץ לזמנה וחוץ למקומה</row>
+		<row row_number="25" isdata="1">ושקיבלו פסולין (וזרקו) את דמה:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="26" isdata="1">דם חטאת (שמתה) כו' ואי תורה אחת</row>
+		<row row_number="27" isdata="1">לכל חטאות אפילו חטאת העוף נמי אלמה</row>
+		<row row_number="28" isdata="1">תניא יכול תהא דם חטאת העוף טעון כיבוס</row>
+		<row row_number="29" isdata="1">ת"ל זאת אמר ר"ל משום בר קפרא אמר</row>
+		<row row_number="30" isdata="1">קרא תשחט בנשחטות הכתוב מדבר</row>
+		<row row_number="31" isdata="1">ואימא בנאכלות הכתוב מדבר כדכתיב</row>
+		<row row_number="32" isdata="1">במקום קדוש תאכל אבל פנימיות לא רבי</row>
+		<row row_number="33" isdata="1">רחמנא תורת אי הכי אפילו חטאת העוף</row>
+		<row row_number="34" isdata="1">נמי מיעט רחמנא זאת ומה ראית מסתברא</row>
+		<row row_number="35" isdata="1">דחטאת [בהמה] פנימיות ה"ל לרבויי</row>
+		<row row_number="36" isdata="1">שכן בהמה שחיטת צפון וקבלת כלי</row>
+</amud>
+</daf>
+</masechet>
+</root>

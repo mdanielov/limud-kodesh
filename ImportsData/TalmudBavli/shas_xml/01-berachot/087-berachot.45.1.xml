@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:08.879537</dateCreated>
+   <lastModified>2020-01-14 15:02:08.879537</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="45">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד מברכין"/><ContGemara/>דחנקתיה אומצא: רבי טרפון אומר בורא</row>
+		<row row_number="2" isdata="1">נפשות רבות וחסרונן: אמר ליה רבא בר</row>
+		<row row_number="3" isdata="1">רב חנן לאביי ואמרי לה לרב יוסף הלכתא</row>
+		<row row_number="4" isdata="1">מאי אמר ליה פוק חזי מאי עמא דבר:<EndChapter name = "כיצד מברכין"/><EndGemara/></row>
+		<row row_number="5" isdata="0">הדרן עלך כיצד מברכין</row>
+		<row row_number="6" isdata="1"><StartChapter name = "שלשה שאכלו"/><StartMishna/>שלשה שאכלו כאחת חייבין לזמן אכל</row>
+		<row row_number="7" isdata="1">דמאי ומעשר ראשון שנטלה</row>
+		<row row_number="8" isdata="1">תרומתו מעשר שני והקדש שנפדו והשמש</row>
+		<row row_number="9" isdata="1">שאכל כזית והכותי מזמנין עליו אכל טבל</row>
+		<row row_number="10" isdata="1">ומעשר ראשון שלא נטלה תרומתו ומעשר</row>
+		<row row_number="11" isdata="1">שני והקדש שלא נפדו והשמש שאכל פחות</row>
+		<row row_number="12" isdata="1">מכזית והנכרי אין מזמנין עליו נשים</row>
+		<row row_number="13" isdata="1">ועבדים וקטנים אין מזמנין עליהן עד כמה</row>
+		<row row_number="14" isdata="1">מזמנין עד כזית ר' יהודה אומר עד כביצה:</row>
+		<row row_number="15" isdata="1"><EndMishna/><StartGemara/>גמ' מה"מ אמר רב אסי דאמר קרא גדלו</row>
+		<row row_number="16" isdata="1">לה' אתי ונרוממה שמו יחדו רבי אבהו אמר</row>
+		<row row_number="17" isdata="1">מהכא כי שם ה' אקרא הבו גודל לאלהינו</row>
+		<row row_number="18" isdata="1">אמר רב חנן בר אבא מנין לעונה אמן שלא</row>
+		<row row_number="19" isdata="1">יגביה קולו יותר מן המברך שנאמר גדלו</row>
+		<row row_number="20" isdata="1">לה' אתי ונרוממה שמו יחדו אמר ר' שמעון</row>
+		<row row_number="21" isdata="1">בן פזי מנין שאין המתרגם רשאי להגביה</row>
+		<row row_number="22" isdata="1">קולו יותר מן הקורא שנאמר משה ידבר</row>
+		<row row_number="23" isdata="1">והאלהים יעננו בקול שאין תלמוד לומר</row>
+		<row row_number="24" isdata="1">בקול ומה תלמוד לומר בקול בקולו של משה</row>
+		<row row_number="25" isdata="1">תניא נמי הכי אין המתרגם רשאי להגביה</row>
+		<row row_number="26" isdata="1">קולו יותר מן הקורא ואם אי אפשר למתרגם</row>
+		<row row_number="27" isdata="1">להגביה קולו כנגד הקורא ימעך הקורא קולו</row>
+		<row row_number="28" isdata="1">ויקרא: אתמר שנים שאכלו כאחת פליגי רב</row>
+		<row row_number="29" isdata="1">ורבי יוחנן חד אמר אם רצו לזמן מזמנין וחד אמר אם רצו לזמן אין מזמנין תנן</row>
+		<row row_number="30" isdata="1">שלשה שאכלו כאחת חייבין לזמן שלשה אין שנים לא התם חובה הכא רשות</row>
+		<row row_number="31" isdata="1">תא שמע שלשה שאכלו כאחת חייבין לזמן ואין רשאין ליחלק שלשה אין</row>
+		<row row_number="32" isdata="1">שנים לא שאני התם דקבעו להו בחובה מעיקרא תא שמע השמש שהיה</row>
+		<row row_number="33" isdata="1">משמש על השנים הרי זה אוכל עמהם אע"פ שלא נתנו לו רשות היה משמש</row>
+		<row row_number="34" isdata="1">על השלשה הרי זה אינו אוכל עמהם אלא אם כן נתנו לו רשות שאני התם</row>
+</amud>
+</daf>
+</masechet>
+</root>

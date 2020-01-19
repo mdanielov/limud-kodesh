@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:29.237170</dateCreated>
+   <lastModified>2020-01-14 15:02:29.237170</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="68">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו דברים"/><ContGemara/>בועל נדה כטמא מת למאי אילימא</row>
+		<row row_number="2" isdata="1">לטומאתם האי טומאת שבעה כתיב ביה</row>
+		<row row_number="3" isdata="1">והאי טומאת שבעה כתיב ביה אלא לאו</row>
+		<row row_number="4" isdata="1">למחנותם ומדסיפא למחנותם הוי רישא נמי</row>
+		<row row_number="5" isdata="1">למחנותם מידי איריא הא כדאיתא והא</row>
+		<row row_number="6" isdata="1">כדאיתא מיתיבי מצורע חמור מזב וזב</row>
+		<row row_number="7" isdata="1">חמור מטמא מת יצא בעל קרי שטמא מת</row>
+		<row row_number="8" isdata="1">חמור ממנו מאי יצא לאו יצא מכלל זב ובא</row>
+		<row row_number="9" isdata="1">לכלל טמא מת דהא טמא מת חמור ממנו</row>
+		<row row_number="10" isdata="1">ומותר במחנה לויה לא יצא ממחנה טמא מת</row>
+		<row row_number="11" isdata="1">ונכנס למחנה זב ואע"ג דטמא מת חמור</row>
+		<row row_number="12" isdata="1">ממנו (דמותר) במחנה לויה למאי דדמי</row>
+		<row row_number="13" isdata="1">לי' מדמינן ליה תני תנא קמיה דרב יצחק בר</row>
+		<row row_number="14" isdata="1">אבדימי ויצא אל מחוץ למחנה  זו מחנה</row>
+		<row row_number="15" isdata="1">שכינה לא יבא אל תוך המחנה  זו מחנה</row>
+		<row row_number="16" isdata="1">לויה מכאן לבעל קרי שיצא חוץ לשתי</row>
+		<row row_number="17" isdata="1">מחנות אמר לי' אכתי לא עיילתיה אפיקתיה</row>
+		<row row_number="18" isdata="1">לישנא אחרינא אכתי לא אפיקתיה עיילתיה</row>
+		<row row_number="19" isdata="1">אלא אימא מחוץ למחנה זו מחנה לויה לא</row>
+		<row row_number="20" isdata="1">יבא אל תוך המחנה זו מחנה שכינה מתקיף</row>
+		<row row_number="21" isdata="1">לה רבינא אימא אידי ואידי למחנה שכינה</row>
+		<row row_number="22" isdata="1">ולעבור עליו בעשה ולא תעשה אם כן לימא</row>
+		<row row_number="23" isdata="1">קרא ויצא אל מחוץ למחנה ולא יבא אל תוך</row>
+		<row row_number="24" isdata="1">המחנה למה לי שמע מינה ליתן לו מחנה</row>
+		<row row_number="25" isdata="1">אחרת: ומיחוי קרביו וכו': מאי מיחוי קרביו</row>
+		<row row_number="26" isdata="1">רב הונא אמר שמנקבן בסכין (רב) חייא בר</row>
+		<row row_number="27" isdata="1">רב אמר שירקא דמעייא דנפקא אגב דוחקא</row>
+		<row row_number="28" isdata="1">דסכינא אמר ר' (אליעזר) מאי טעמא דחייא</row>
+		<row row_number="29" isdata="1">בר רב דכתיב וחרבות מחים גרים יאכלו</row>
+		<row row_number="30" isdata="1">מאי משמע כדמתרגם רב יוסף ונכסיהן</row>
+		<row row_number="31" isdata="1">דרשיעיא צדיקיא יחסנון ורעו כבשים</row>
+		<row row_number="32" isdata="1">כדברם אמר מנשיא בר ירמיה אמר רב</row>
+		<row row_number="33" isdata="1">כמדובר בם מאי כמדובר בם אמר אביי</row>
+		<row row_number="34" isdata="1">וחרבות מחים גרים יאכלו אמר ליה רבא</row>
+		<row row_number="35" isdata="1">בשלמא אי כתיב חרבות כדקאמרת השתא</row>
+		<row row_number="36" isdata="1">דכתיב וחרבות מילתא אחריתי קאמר אלא</row>
+		<row row_number="37" isdata="1">אמר רבא כדרב חננאל אמר רב דאמר רב</row>
+		<row row_number="38" isdata="1">חננאל אמר רב עתידין צדיקים שיחיו את</row>
+		<row row_number="39" isdata="1">המתים כתיב הכא ורעו כבשים כדברם</row>
+		<row row_number="40" isdata="1">וכתיב התם ירעו בשן וגלעד כימי עולם</row>
+		<row row_number="41" isdata="1">בשן זה אלישע הבא מן הבשן שנאמר ויעני</row>
+		<row row_number="42" isdata="1">ושפט בבשן וכתיב פה אלישע בן שפט</row>
+		<row row_number="43" isdata="1">אשר יצק מים על ידי אליהו גלעד זה אליהו שנאמר ויאמר אליהו התשבי מתושבי גלעד וגו' אמר ר' שמואל</row>
+		<row row_number="44" isdata="1">בר נחמני א"ר יונתן עתידים צדיקים שיחיו מתים שנאמר עוד ישבו זקנים וזקנות ברחבות ירושלם ואיש</row>
+		<row row_number="45" isdata="1">משענתו בידו מרוב ימים וכתיב ושמת משענתי על פני הנער עולא רמי כתיב בלע המות לנצח וכתיב</row>
+		<row row_number="46" isdata="1">כי הנער בן מאה שנה ימות לא קשיא כאן בישראל כאן בעכו"ם ועובדי כוכבים מאי בעו התם דכתיב</row>
+		<row row_number="47" isdata="1">ועמדו זרים ורעו צאנכם ובני נכר אכריכם וכורמיכם רב חסדא רמי כתיב וחפרה הלבנה ובושה החמה</row>
+		<row row_number="48" isdata="1">וכתיב והיה אור הלבנה כאור החמה ואור החמה יהיה שבעתים כאור שבעת הימים לא קשיא כאן לעולם</row>
+		<row row_number="49" isdata="1">הבא כאן לימות המשיח ולשמואל דאמר אין בין העולם הזה לימות המשיח אלא שיעבוד מלכיות</row>
+		<row row_number="50" isdata="1">בלבד מאי איכא למימר אידי ואידי לעולם הבא ולא קשיא כאן במחנה שכינה כאן במחנה צדיקים רבא</row>
+		<row row_number="51" isdata="1">רמי כתיב אני אמית ואחיה וכתיב מחצתי ואני ארפא השתא אחויי מחיי מרפא לא כל שכן אלא אמר הקב"ה</row>
+		<row row_number="52" isdata="1">מה שאני ממית אני מחיה כמו שמחצתי ואני ארפא ת"ר אני אמית ואחיה יכול מיתה באחד וחיים באחד</row>
+		<row row_number="53" isdata="1">כדרך שהעולם נוהג ת"ל מחצתי ואני ארפא מה מכה ורפואה באחד אף מיתה וחיים באחד מכאן תשובה לאומרים</row>
+		<row row_number="54" isdata="1">אין תחיית המתים מן התורה דבר אחר בתחלה מה שאני ממית אני מחיה והדר מה שמחצתי ואני ארפא:</row>
+</amud>
+</daf>
+</masechet>
+</root>

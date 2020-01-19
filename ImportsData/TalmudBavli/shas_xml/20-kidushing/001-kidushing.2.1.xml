@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:12.910420</dateCreated>
+   <lastModified>2020-01-14 15:03:12.910420</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "האשה נקנית"/><StartMishna/><ContChapter name = "האשה נקנית"/><ContMishna/>האשה</row>
+		<row row_number="2" isdata="1">נקנית בשלש דרכים וקונה את עצמה בשתי</row>
+		<row row_number="3" isdata="1">דרכים נקנית בכסף בשטר ובביאה בכסף</row>
+		<row row_number="4" isdata="1">בית שמאי אומרים בדינר ובשוה דינר ובית</row>
+		<row row_number="5" isdata="1">הלל אומרים בפרוטה ובשוה פרוטה וכמה</row>
+		<row row_number="6" isdata="1">היא פרוטה אחד משמנה באיסר האיטלקי</row>
+		<row row_number="7" isdata="1">וקונה את עצמה בגט ובמיתת הבעל היבמה</row>
+		<row row_number="8" isdata="1">נקנית בביאה וקונה את עצמה בחליצה</row>
+		<row row_number="9" isdata="1">ובמיתת היבם:<EndMishna/><StartGemara/>גמ' האשה נקנית מאי</row>
+		<row row_number="10" isdata="1">שנא הכא דתני האשה נקנית ומ"ש התם</row>
+		<row row_number="11" isdata="1">דתני האיש מקדש משום דקא בעי למיתני</row>
+		<row row_number="12" isdata="1">כסף וכסף מנ"ל גמר קיחה קיחה משדה</row>
+		<row row_number="13" isdata="1">עפרון כתיב הכא כי יקח איש אשה וכתיב</row>
+		<row row_number="14" isdata="1">התם נתתי כסף השדה קח ממני וקיחה</row>
+		<row row_number="15" isdata="1">איקרי קנין דכתיב השדה אשר קנה אברהם</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:23.779088</dateCreated>
+   <lastModified>2020-01-14 15:04:23.779088</lastModified>
+ </meta>
+ <masechet name="ערכין" serial="33">
+<daf value="17">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השג יד"/><ContGemara/>חדא אמצורע עני ומדירו עני וחדא למעוטי</row>
+		<row row_number="2" isdata="1">מצורע עשיר ומדירו עני סלקא דעתך אמינא</row>
+		<row row_number="3" isdata="1">הואיל ואיתרבו איתרבו קמ"ל לפי שמצינו</row>
+		<row row_number="4" isdata="1">בערכין עני שהעריך את העשיר נותן ערך</row>
+		<row row_number="5" isdata="1">עני יכול אף זה כן ת"ל אם דל הוא ולרבי</row>
+		<row row_number="6" isdata="1">דאמר אומר אני אף בערכין כן אלמא אמר</row>
+		<row row_number="7" isdata="1">בתר חיובא דגברא אזלינן והא לא צריכא</row>
+		<row row_number="8" isdata="1">קרא למעוטי הוא למעוטי מאי למעוטי מצורע</row>
+		<row row_number="9" isdata="1">עני ומדירו עשיר סד"א הואיל ואמר רבי בתר</row>
+		<row row_number="10" isdata="1">חיובא דגברא אזלינן קמ"ל<EndGemara/><StartMishna/>מתני' היה</row>
+		<row row_number="11" isdata="1">עני והעשיר עשיר והעני נותן ערך עשיר ר'</row>
+		<row row_number="12" isdata="1">יהודה אומר עני והעשיר וחזר והעני נותן ערך</row>
+		<row row_number="13" isdata="1">עשיר אבל בקרבנות אינו כן אפי' מת אביו</row>
+		<row row_number="14" isdata="1">והניח לו ריבוא או ספינתו בים ובאה לו</row>
+		<row row_number="15" isdata="1">ברבואות אין להקדש בה כלום:<EndMishna/><StartGemara/>גמ' עני</row>
+		<row row_number="16" isdata="1">והעשיר אשר תשיג יד הנודר עשיר והעני</row>
+		<row row_number="17" isdata="1">על פי אשר תשיג ר' יהודה אומר אפי' עני</row>
+		<row row_number="18" isdata="1">והעשיר וחזר והעני נותן ערך עשיר מ"ט דר'</row>
+		<row row_number="19" isdata="1">יהודה אמר קרא ואם מך הוא מערכך עד</row>
+		<row row_number="20" isdata="1">שיהא במכותו מתחלתו ועד סופו אלא מעתה</row>
+		<row row_number="21" isdata="1">ואם דל הוא הכי נמי עד שיהא בדלותו</row>
+		<row row_number="22" isdata="1">מתחלתו ועד סופו וכי תימא הכי נמי והתנן</row>
+		<row row_number="23" isdata="1">מצורע שהביא קרבנותיו עני והעשיר עשיר</row>
+		<row row_number="24" isdata="1">והעני הכל הולך אחר חטאת דברי ר' שמעון</row>
+		<row row_number="25" isdata="1">רבי יהודה אומר הכל הולך אחר אשם</row>
+		<row row_number="26" isdata="1">ותניא ר' אליעזר בן יעקב אומר הכל הולך</row>
+		<row row_number="27" isdata="1">אחר צפרים הא אתמר עלה אמר רב יהודה</row>
+		<row row_number="28" isdata="1">אמר רב ושלשתן מקרא אחד דרשו אשר לא</row>
+		<row row_number="29" isdata="1">תשיג ידו בטהרתו רבי שמעון סבר דבר</row>
+		<row row_number="30" isdata="1">המכפר מאי ניהו חטאת ור' יהודה סבר דבר</row>
+		<row row_number="31" isdata="1">המכשיר ומאי ניהו אשם ר' אליעזר בן יעקב</row>
+		<row row_number="32" isdata="1">סבר הגורם לו טהרה ומאי ניהו ציפרים ואלא</row>
+		<row row_number="33" isdata="1">הוא למה לי לרבי כדאית ליה ולרבנן כדאית</row>
+		<row row_number="34" isdata="1">להו אלא מעתה והוא עד עד שיהא כשר</row>
+		<row row_number="35" isdata="1">מתחלתו ועד סופו וכי תימא הכי נמי והא</row>
+		<row row_number="36" isdata="1">תניא היה יודע לו בעדות עד שלא נעשה</row>
+		<row row_number="37" isdata="1">חתנו ונעשה חתנו פקח ונתחרש פתוח ונסתמא</row>
+		<row row_number="38" isdata="1">שפוי ונשתטה הרי זה פסול אבל היה יודע</row>
+		<row row_number="39" isdata="1">לו עדות עד שלא נעשה חתנו ונעשה חתנו</row>
+</amud>
+</daf>
+</masechet>
+</root>

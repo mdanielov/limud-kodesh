@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:14.594190</dateCreated>
+   <lastModified>2020-01-14 15:02:14.594190</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="98">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הזורק"/><ContGemara/>פחות מארבע אמות פטור מאי קמ"ל הא קא</row>
+		<row row_number="2" isdata="1">משמע לן רשויות מצטרפות ודלא אמרינן</row>
+		<row row_number="3" isdata="1">קלוטה כמה שהונחה: אמר רב שמואל בר</row>
+		<row row_number="4" isdata="1">יהודה אמר רב אבא אמר רב הונא אמר רב</row>
+		<row row_number="5" isdata="1">המעביר ד' אמות בר"ה מקורה פטור לפי</row>
+		<row row_number="6" isdata="1">שאינו דומה לדגלי מדבר איני והא עגלות</row>
+		<row row_number="7" isdata="1">דמקורות הויין ואמר רב משום רבי חייא</row>
+		<row row_number="8" isdata="1">עגלות תחתיהן וביניהן וצדיהן רה"ר כי קאמר</row>
+		<row row_number="9" isdata="1">רב בדראתא מכדי אורכא דעגלה כמה</row>
+		<row row_number="10" isdata="1">הואי חמש אמין פותיא דקרש כמה הואי</row>
+		<row row_number="11" isdata="1">אמתא ופלגא כמה מותיב תלתא פשא ליה</row>
+		<row row_number="12" isdata="1">פלגא דאמתא כי שדי ליה מר ביני וביני</row>
+		<row row_number="13" isdata="1">כלבוד דמי מי סברת קרשים אפותייהו הוה</row>
+		<row row_number="14" isdata="1">מנח להו אחודן מנח להו סוף סוף סומכא</row>
+		<row row_number="15" isdata="1">דקרש כמה הוי אמתא כמה הוה מותיב</row>
+		<row row_number="16" isdata="1">ארבעה פשא לה אמתא כי שדי לה מר ביני</row>
+		<row row_number="17" isdata="1">וביני כלבוד דמי הניחא למ"ד קרשים מלמטן</row>
+		<row row_number="18" isdata="1">עוביין אמה מלמעלן כלין והולכין עד כאצבע</row>
+		<row row_number="19" isdata="1">שפיר אלא למ"ד כשם שמלמטן עוביין אמה</row>
+		<row row_number="20" isdata="1">כך מלמעלה עוביין אמה מאי איכא למימר</row>
+		<row row_number="21" isdata="1">א"ר כהנא באטבעי אטבעי היכא מנח להו</row>
+		<row row_number="22" isdata="1">אגבא דעגלה עגלה גופא מקורה הואי</row>
+</amud>
+</daf>
+</masechet>
+</root>

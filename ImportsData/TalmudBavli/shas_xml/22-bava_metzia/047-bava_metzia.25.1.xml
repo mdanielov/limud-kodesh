@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:24.326333</dateCreated>
+   <lastModified>2020-01-14 15:03:24.326333</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="25">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו מציאות"/><ContMishna/>שלשה מטבעות זה על גב זה כריכות</row>
+		<row row_number="2" isdata="1">ברה"י וככרות של בעה"ב וגיזי צמר</row>
+		<row row_number="3" isdata="1">הלקוחין מבית האומן כדי יין וכדי שמן הרי</row>
+		<row row_number="4" isdata="1">אלו חייב להכריז:<EndMishna/><StartGemara/>גמ' טעמא דמצא</row>
+		<row row_number="5" isdata="1">פירות בכלי ומעות בכיס הא כלי ולפניו</row>
+		<row row_number="6" isdata="1">פירות כיס ולפניו מעות הרי אלו שלו תנינא</row>
+		<row row_number="7" isdata="1">להא דתנו רבנן מצא כלי ולפניו פירות</row>
+		<row row_number="8" isdata="1">כיס ולפניו מעות הרי אלו שלו מקצתן</row>
+		<row row_number="9" isdata="1">בכלי ומקצתן על גבי קרקע מקצתן בכיס</row>
+		<row row_number="10" isdata="1">ומקצתן על גבי קרקע חייב להכריז ורמינהו</row>
+		<row row_number="11" isdata="1">מצא דבר שאין בו סימן בצד דבר שיש</row>
+		<row row_number="12" isdata="1">בו סימן חייב להכריז בא בעל סימן ונטל</row>
+		<row row_number="13" isdata="1">את שלו זכה הלה בדבר שאין בו סימן אמר</row>
+		<row row_number="14" isdata="1">רב זביד לא קשיא הא בכובא וכיתנא הא</row>
+		<row row_number="15" isdata="1">בצנא ופירי רב פפא אמר הא והא בצנא</row>
+		<row row_number="16" isdata="1">ופירי ולא קשיא הא דאשתייר בה מידי הא</row>
+		<row row_number="17" isdata="1">דלא אשתייר בה מידי ואיבעית אימא הא</row>
+		<row row_number="18" isdata="1">והא דלא אשתייר בה מידי ולא קשיא הא</row>
+		<row row_number="19" isdata="1">דמהדרי אפיה לגבי פירי הא דלא מהדרי</row>
+		<row row_number="20" isdata="1">אפיה לגבי פירי ואיבעית אימא הא והא</row>
+		<row row_number="21" isdata="1">דמהדרי אפיה לגבי פירי ולא קשיא הא</row>
+		<row row_number="22" isdata="1">דאית לה אוגנין לצנא הא דלית לה אוגנין</row>
+		<row row_number="23" isdata="1">לצנא: צבורי פירות וצבורי מעות: שמעת</row>
+		<row row_number="24" isdata="1">מינה מנין הוי סימן תני צבור פירות שמעת</row>
+		<row row_number="25" isdata="1">מינה מקום הוי סימן תני צבורי פירות:</row>
+		<row row_number="26" isdata="1">שלשה מטבעות זה על גב זה: אמר רבי</row>
+		<row row_number="27" isdata="1">יצחק מגדלאה והוא שעשויין כמגדלין</row>
+		<row row_number="28" isdata="1">תניא נמי הכי מצא מעות מפוזרות הרי אלו</row>
+		<row row_number="29" isdata="1">שלו עשויין כמגדלים חייב להכריז ואלו הן</row>
+		<row row_number="30" isdata="1">עשויין כמגדלים שלשה מטבעין זה על גב</row>
+		<row row_number="31" isdata="1">זה הא גופא קשיא אמרת מצא מעות</row>
+		<row row_number="32" isdata="1">מפוזרות הרי אלו שלו הא משלחפי שלחופי חייב להכריז אימא סיפא</row>
+		<row row_number="33" isdata="1">עשויין כמגדלין חייב להכריז הא משלחפי שלחופי הרי אלו שלו תנא כל</row>
+		<row row_number="34" isdata="1">שאין עשויין כמגדלין מפוזרות קרי להו א"ר חנינא לא שנו אלא של שלשה</row>
+		<row row_number="35" isdata="1">מלכים אבל של מלך אחד אינו חייב להכריז היכי דמי אי דעשויין כמגדלין</row>
+		<row row_number="36" isdata="1">אפילו של מלך אחד נמי ואי דאין עשויין כמגדלין אפילו של שלשה</row>
+		<row row_number="37" isdata="1">מלכים נמי לא אלא אי אתמר הכי אתמר לא שנו אלא של מלך אחד</row>
+		<row row_number="38" isdata="1">כעין שלשה מלכים (אבל של מלך אחד אינו חייב להכריז) והיכי</row>
+		<row row_number="39" isdata="1">דמי דעשויין כמגדלים רויחא תתאה ומציעא עילויה וזוטא עילויה מציעא</row>
+		<row row_number="40" isdata="1">דאמרינן אנוחי אנחינהו אבל של מלך אחד דכולהו כי הדדי נינהו אע"ג</row>
+		<row row_number="41" isdata="1">דמנחי אהדדי הרי אלו שלו אימר אתרמויי אתרמי ובהדי הדדי נפול</row>
+		<row row_number="42" isdata="1">ורבי יוחנן אמר אפילו של מלך אחד נמי מכריז מאי מכריז</row>
+		<row row_number="43" isdata="1">מנין מאי איריא תלתא אפי' תרין נמי אמר רבינא טבעא מכריז</row>
+		<row row_number="44" isdata="1">בעי ר' ירמיה כשיר מהו כשורה מהו כחצובה מהו כסולם מהו</row>
+		<row row_number="45" isdata="1">פשוט מהא חדא דאמר רב נחמן אמר רבה בר אבוה כל שאילו</row>
+		<row row_number="46" isdata="1">מכניס לה קיסם ביניהן ונוטלם בבת אחת חייב להכריז בעי רב אשי</row>
+</amud>
+</daf>
+</masechet>
+</root>

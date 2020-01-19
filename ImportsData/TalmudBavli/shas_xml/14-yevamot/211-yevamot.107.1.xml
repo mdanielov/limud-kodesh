@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.117064</dateCreated>
+   <lastModified>2020-01-14 15:02:53.117064</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="107">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "בית שמאי"/><StartMishna/><ContChapter name = "בית שמאי"/><ContMishna/>בית שמאי אומרים אין ממאנין אלא</row>
+		<row row_number="2" isdata="1">ארוסות ובית הלל אומרים ארוסות</row>
+		<row row_number="3" isdata="1">ונשואות ב"ש אומרים בבעל ולא ביבם</row>
+		<row row_number="4" isdata="1">וב"ה אומרים בבעל וביבם ב"ש אומרים</row>
+		<row row_number="5" isdata="1">בפניו ובית הלל אומרים בפניו ושלא בפניו</row>
+		<row row_number="6" isdata="1">ב"ש אומרים בב"ד וב"ה אומרים בב"ד</row>
+		<row row_number="7" isdata="1">ושלא בב"ד אמרו להם ב"ה לבית שמאי</row>
+		<row row_number="8" isdata="1">ממאנת והיא קטנה אפילו ד' וה' פעמים</row>
+		<row row_number="9" isdata="1">אמרו להם ב"ש אין בנות ישראל הפקר אלא</row>
+		<row row_number="10" isdata="1">ממאנת וממתנת עד שתגדיל ותמאן ותנשא:</row>
+		<row row_number="11" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר שמואל מאי</row>
+		<row row_number="12" isdata="1">טעמא דבית שמאי לפי שאין תנאי בנשואין</row>
+		<row row_number="13" isdata="1">ואי נשואה תמאן אתי למימר יש תנאי</row>
+		<row row_number="14" isdata="1">בנשואין נכנסה לחופה ולא נבעלה מאי</row>
+		<row row_number="15" isdata="1">איכא למימר לפי שאין תנאי בחופה מסר</row>
+		<row row_number="16" isdata="1">האב לשלוחי הבעל מאי איכא למימר לא</row>
+		<row row_number="17" isdata="1">פלוג רבנן ובית הלל מידע ידעי דנישואי</row>
+		<row row_number="18" isdata="1">קטנה דרבנן נינהו רבה ורב יוסף דאמרי</row>
+		<row row_number="19" isdata="1">תרוייהו טעמא דבית שמאי לפי שאין אדם</row>
+		<row row_number="20" isdata="1">עושה בעילתו בעילת זנות נכנסה לחופה</row>
+		<row row_number="21" isdata="1">ולא נבעלה מאי איכא למימר לא ניחא ליה</row>
+		<row row_number="22" isdata="1">דתיהוי חופה דאיסורא מסר האב לשלוחי</row>
+		<row row_number="23" isdata="1">הבעל מאי איכא למימר לא פלוג רבנן ובית</row>
+		<row row_number="24" isdata="1">הלל כיון דאיכא קדושין וכתובה לא אתו</row>
+		<row row_number="25" isdata="1">למימר דבעילתו בעילת זנות רב פפא אמר</row>
+		<row row_number="26" isdata="1">טעמא דב"ש משום פירי טעמא דב"ה משום</row>
+		<row row_number="27" isdata="1">פירי טעמא דב"ש משום פירי דאי אמרת</row>
+		<row row_number="28" isdata="1">נשואה תמאן שמיט ואכיל להו מינה דסוף</row>
+		<row row_number="29" isdata="1">סוף למיפק קיימא ובית הלל אדרבה כיון</row>
+		<row row_number="30" isdata="1">דאמרת תמאן אשבוחי משבח להו סבר דאי</row>
+		<row row_number="31" isdata="1">לא עייצי לה קרוביה ומפקי לה מיניה רבא</row>
+		<row row_number="32" isdata="1">אמר היינו טעמא דב"ש שאין אדם טורח</row>
+		<row row_number="33" isdata="1">בסעודה ומפסידה וב"ה תרוייהו ניחא להו</row>
+		<row row_number="34" isdata="1">כדי דליפוק עלייהו קלא דאישות: ב"ש</row>
+		<row row_number="35" isdata="1">אומרים בבעל וכו': אמר רבי אושעיא</row>
+		<row row_number="36" isdata="1">ממאנת למאמרו ואינה ממאנת לזיקתו אמר</row>
+		<row row_number="37" isdata="1">רב חסדא מאי טעמא דרבי אושעיא מאמר</row>
+		<row row_number="38" isdata="1">דמדעתה מציא עקרא זיקה דבעל כרחה</row>
+		<row row_number="39" isdata="1">לא מציא עקרא והרי ביאה דבעל כרחה</row>
+</amud>
+</daf>
+</masechet>
+</root>

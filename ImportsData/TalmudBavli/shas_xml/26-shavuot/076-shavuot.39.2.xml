@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:49.349010</dateCreated>
+   <lastModified>2020-01-14 15:03:49.349010</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="39">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שבועת הדיינין"/><ContGemara/>התם שיש בידם למחות ולא מיחו מאי איכא</row>
+		<row row_number="2" isdata="1">בין רשעים דמשפחתו לרשעים דעלמא בין</row>
+		<row row_number="3" isdata="1">צדיקים דמשפחתו לצדיקים דעלמא הוא</row>
+		<row row_number="4" isdata="1">בשאר עבירות בדיניה ורשעים דמשפחה בדין</row>
+		<row row_number="5" isdata="1">חמור ורשעים דעלמא בדין הקל צדיקי דהכא</row>
+		<row row_number="6" isdata="1">והכא פטירי גבי שבועה הוא ורשעים</row>
+		<row row_number="7" isdata="1">דמשפחה כדיניה ורשעים דעלמא בדין חמור</row>
+		<row row_number="8" isdata="1">וצדיקי דהכא והכא בדין הקל: אם אמר איני</row>
+		<row row_number="9" isdata="1">נשבע פוטרין אותו מיד ואם אמר הריני נשבע</row>
+		<row row_number="10" isdata="1">העומדים שם אומרים זה לזה סורו נא מעל</row>
+		<row row_number="11" isdata="1">אהלי האנשים הרשעים האלה: בשלמא</row>
+		<row row_number="12" isdata="1">ההוא דקא משתבע קאי באיסורא אלא</row>
+		<row row_number="13" isdata="1">ההוא דקא משבע ליה אמאי (ההוא מיבעי</row>
+		<row row_number="14" isdata="1">ליה ל)כדתניא ר"ש בן טרפון אומר שבועת</row>
+		<row row_number="15" isdata="1">ה' תהיה בין שניהם מלמד שחלה שבועה</row>
+		<row row_number="16" isdata="1">על שניהם: וכשמשביעין אותו אומרים לו</row>
+		<row row_number="17" isdata="1">הוי יודע שלא על דעתך וכו': למה לי</row>
+		<row row_number="18" isdata="1">למימרא ליה הכי משום קניא דרבא: הטענה</row>
+		<row row_number="19" isdata="1">שתי כסף: אמר רב כפירת טענה שתי כסף</row>
+		<row row_number="20" isdata="1">ושמואל אמר טענה עצמה שתי כסף אפי'</row>
+		<row row_number="21" isdata="1">לא כפר אלא בפרוטה ולא הודה אלא</row>
+		<row row_number="22" isdata="1">בפרוטה חייב אמר רבא דיקא מתניתין</row>
+		<row row_number="23" isdata="1">כותיה דרב וקראי כותיה דשמואל דיקא</row>
+		<row row_number="24" isdata="1"><EndGemara/><StartMishna/>מתני' כותיה דרב דקתני הטענה שתי כסף</row>
+		<row row_number="25" isdata="1">וההודאה שוה פרוטה ואילו כפירת טענה</row>
+		<row row_number="26" isdata="1">פרוטה לא קתני ותנן נמי ההודאה בפרוטה</row>
+		<row row_number="27" isdata="1">ואילו כפירה בפרוטה לא קתני וקראי כותיה</row>
+		<row row_number="28" isdata="1">דשמואל דכתיב כי יתן איש אל רעהו כסף</row>
+		<row row_number="29" isdata="1">או כלים לשמור מה כלים שנים אף כסף</row>
+		<row row_number="30" isdata="1">שנים מה כסף דבר חשוב אף כל דבר חשוב</row>
+		<row row_number="31" isdata="1">וקאמר רחמנא כי הוא זה ורב ההוא מיבעי</row>
+		<row row_number="32" isdata="1">ליה להודאה במקצת הטענה ושמואל כתיב</row>
+		<row row_number="33" isdata="1">הוא וכתיב זה דאי כפר במקצת ואודי</row>
+		<row row_number="34" isdata="1">במקצת חייב ורב חד להודאה במקצת</row>
+		<row row_number="35" isdata="1">הטענה וחד להודאה ממין הטענה ושמואל</row>
+		<row row_number="36" isdata="1">לאו ממילא שמעת מיניה דחסרה לה טענה</row>
+		<row row_number="37" isdata="1">אלא אמר לך רב כסף כי אתא מעיקרא</row>
+		<row row_number="38" isdata="1">לכפירה הוא דאתא דא"כ לכתוב רחמנא כי</row>
+		<row row_number="39" isdata="1">יתן איש אל רעהו כלים לשמור ואנא אמינא</row>
+		<row row_number="40" isdata="1">מה כלים שנים אף כל שנים כסף דכתב</row>
+		<row row_number="41" isdata="1">רחמנא למה לי אם אינו ענין לטענה תנהו</row>
+		<row row_number="42" isdata="1">ענין לכפירה ושמואל אמר לך אי כתב רחמנא כלים ולא כתב כסף הוה אמינא</row>
+		<row row_number="43" isdata="1">מאי כלים שנים אף כל שנים אבל דבר חשוב לא בעינן קמ"ל תנן שתי כסף</row>
+		<row row_number="44" isdata="1">יש לי בידך אין לך בידי אלא פרוטה פטור מאי טעמא לאו משום דחסרה</row>
+		<row row_number="45" isdata="1">לה טענה ותיובתא דשמואל אמר לך שמואל מי סברת שוה קתני דוקא</row>
+		<row row_number="46" isdata="1">קתני מה שטענו לא הודה לו ומה שהודה לו לא טענו אי הכי אימא סיפא</row>
+		<row row_number="47" isdata="1">שתי כסף ופרוטה יש לי בידך אין לך בידי אלא פרוטה חייב אי אמרת</row>
+		<row row_number="48" isdata="1">בשלמא שוה משום הכי חייב אלא אי אמרת דוקא אמאי חייב מה שטענו</row>
+		<row row_number="49" isdata="1">לא הודה לו ומה שהודה לו לא טענו מידי הוא טעמא אלא לשמואל האמר</row>
+		<row row_number="50" isdata="1">ר"נ אמר שמואל טענו חטין ושעורין והודה לו באחד מהן חייב ה"נ מסתברא</row>
+		<row row_number="51" isdata="1">מדקתני סיפא ליטרא זהב יש לי בידך אין לך בידי אלא ליטרא כסף פטור</row>
+		<row row_number="52" isdata="1">אי אמרת בשלמא דוקא קתני משום הכי פטור אלא אי אמרת שוה אמאי</row>
+		<row row_number="53" isdata="1">פטור ליטרא טובא הוי אלא מדסיפא דוקא רישא נמי דוקא לימא</row>
+		<row row_number="54" isdata="1">תיהוי תיובתא דרב אמר לך רב כולה מתני' שוה וליטרא זהב שאני</row>
+</amud>
+</daf>
+</masechet>
+</root>

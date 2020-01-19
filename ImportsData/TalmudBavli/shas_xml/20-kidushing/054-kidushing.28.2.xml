@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:13.933744</dateCreated>
+   <lastModified>2020-01-14 15:03:13.933744</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="28">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>כיון שזכה זה נתחייב בחליפין דיקא נמי</row>
+		<row row_number="2" isdata="1">דקתני כיצד החליף שור בפרה או חמור בשור</row>
+		<row row_number="3" isdata="1">ש"מ ולמאי דסליק אדעתין מעיקרא דמטבע</row>
+		<row row_number="4" isdata="1">נעשה חליפין מאי כיצד ה"ק פירות נמי עבדי</row>
+		<row row_number="5" isdata="1">חליפין כיצד החליף בשר שור בפרה או בשר</row>
+		<row row_number="6" isdata="1">חמור בשור כיון שזכה זה נתחייב בחליפין</row>
+		<row row_number="7" isdata="1">הניחא לרב ששת דאמר פירות עבדי חליפין</row>
+		<row row_number="8" isdata="1">אלא לר"נ דאמר פירות לא עבדי חליפין</row>
+		<row row_number="9" isdata="1">מאי איכא למימר ה"ק יש דמים שהן כחליפין</row>
+		<row row_number="10" isdata="1">כיצד החליף דמי שור בפרה או דמי חמור</row>
+		<row row_number="11" isdata="1">בשור מ"ט סבר לה כר' יוחנן דאמר דבר</row>
+		<row row_number="12" isdata="1">תורה מעות קונות ומה טעם אמרו משיכה</row>
+		<row row_number="13" isdata="1">קונה גזירה שמא יאמר לו נשרפו חיטיך</row>
+		<row row_number="14" isdata="1">בעלייה מילתא דשכיח גזרו בה רבנן מילתא</row>
+		<row row_number="15" isdata="1">דלא שכיח לא גזרו בה רבנן ולר"ל דאמר</row>
+		<row row_number="16" isdata="1">משיכה מפורשת מן התורה הניחא אי סבר</row>
+		<row row_number="17" isdata="1">לה כרב ששת דאמר פירות עבדי חליפין</row>
+		<row row_number="18" isdata="1">מתרץ כרב ששת אלא אי סבר לה כר"נ</row>
+		<row row_number="19" isdata="1">דאמר פירות לא עבדי חליפין ומטבע לא קני</row>
+		<row row_number="20" isdata="1">במאי מוקי לה על כרחך כרב ששת ס"ל:</row>
+		<row row_number="21" isdata="1"><EndGemara/><StartMishna/>מתני' רשות הגבוה בכסף ורשות ההדיוט</row>
+		<row row_number="22" isdata="1">בחזקה אמירתו לגבוה כמסירתו להדיוט:</row>
+		<row row_number="23" isdata="1"><EndMishna/><StartGemara/>גמ' ת"ר כיצד רשות הגבוה בכסף גיזבר</row>
+		<row row_number="24" isdata="1">שנתן מעות בבהמה אפי' בהמה בסוף</row>
+		<row row_number="25" isdata="1">העולם קנה ובהדיוט לא קנה עד שימשוך</row>
+		<row row_number="26" isdata="1">כיצד אמירתו לגבוה כמסירתו להדיוט</row>
+		<row row_number="27" isdata="1">האומר שור זה עולה בית זה הקדש</row>
+		<row row_number="28" isdata="1">אפי' בסוף העולם קנה בהדיוט לא קנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

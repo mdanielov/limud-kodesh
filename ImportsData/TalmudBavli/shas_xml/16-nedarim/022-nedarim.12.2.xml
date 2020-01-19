@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.514910</dateCreated>
+   <lastModified>2020-01-14 15:03:00.514910</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="12">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContGemara/>והא תרומת לחמי תודה לאחר זריקת דמים</row>
+		<row row_number="2" isdata="1">היא אימא כתרומת הלשכה אסור אבל</row>
+		<row row_number="3" isdata="1">תרומת לחמי תודה מאי מותר ליתני לחמי</row>
+		<row row_number="4" isdata="1">תודה וכ"ש תרומתו הא קמ"ל תרומת לחמי</row>
+		<row row_number="5" isdata="1">תודה תרומתו היא ואי בעית אימא תרומת</row>
+		<row row_number="6" isdata="1">לחמי תודה נמי קודם זריקת דמים הוא כגון</row>
+		<row row_number="7" isdata="1">דאפרשינהו בלישה וכי הא דאמר רב טובי</row>
+		<row row_number="8" isdata="1">בר קיסנא אמר שמואל לחמי תודה שאפאן</row>
+		<row row_number="9" isdata="1">בארבע חלות יצא והכתיב ארבעים למצוה</row>
+		<row row_number="10" isdata="1">והא בעי למשקל תרומה וכי תימא דשקיל</row>
+		<row row_number="11" isdata="1">חדא ריפתא על כולה והתנן אחד מכל</row>
+		<row row_number="12" isdata="1">קרבן שלא יטול מקרבן על חבירו וכי תימא</row>
+		<row row_number="13" isdata="1">דשקיל פרוסה מכל חד וחד והתנן אחד</row>
+		<row row_number="14" isdata="1">שלא יטול פרוסה אלא דאפרשינהו בלישה</row>
+		<row row_number="15" isdata="1">דשקיל חדא מחמץ וחדא מן חלות וחדא</row>
+		<row row_number="16" isdata="1">מן רקיקים וחדא מן רבוכה לימא כתנאי</row>
+		<row row_number="17" isdata="1">הרי עלי כבכור רבי יעקב אוסר ורבי יהודה</row>
+		<row row_number="18" isdata="1">מתיר היכי דמי אי נימא לפני זריקת דמים</row>
+		<row row_number="19" isdata="1">מאי טעמא דמאן דשרי ואי לאחר זריקת</row>
+		<row row_number="20" isdata="1">דמים מאי טעמא דמאן דאסר אלא לאו</row>
+</amud>
+</daf>
+</masechet>
+</root>

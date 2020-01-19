@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:39.524433</dateCreated>
+   <lastModified>2020-01-14 15:03:39.524433</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="8">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "דיני ממונות"/><ContGemara/>מיתיבי וחכמים אומרים תבעו ממון</row>
+		<row row_number="2" isdata="1">בשלשה תבעו נפשות בעשרים ושלשה</row>
+		<row row_number="3" isdata="1">בשלמא (לרבא) תבעו ממון תחלה בשלשה</row>
+		<row row_number="4" isdata="1">תבעו נפשות תחלה אפילו ממון בעשרים</row>
+		<row row_number="5" isdata="1">ושלשה אלא לעולא קשיא אמר רבא אני</row>
+		<row row_number="6" isdata="1">וארי שבחבורה תרגימנא ומנו רב חייא בר</row>
+		<row row_number="7" isdata="1">אבין הכא במאי עסקינן שהביא הבעל</row>
+		<row row_number="8" isdata="1">עדים שזינתה והביא האב עדים והזימום</row>
+		<row row_number="9" isdata="1">לעדי הבעל בא לגבות ממון מבעל בשלשה</row>
+		<row row_number="10" isdata="1">ובמקום נפשות בעשרים ושלשה אביי אמר</row>
+		<row row_number="11" isdata="1">דכולי עלמא חיישינן ללעז ומשום כבודן של</row>
+		<row row_number="12" isdata="1">ראשונים הכא במאי עסקינן כגון דאתרו</row>
+		<row row_number="13" isdata="1">בה סתם והאי תנא הוא דתניא ושאר כל</row>
+		<row row_number="14" isdata="1">חייבי מיתות שבתורה אין ממיתין אותם</row>
+		<row row_number="15" isdata="1">אלא בעדה ועדים והתראה ועד שיודיעוהו</row>
+		<row row_number="16" isdata="1">שהוא חייב מיתה בבית דין ר' יהודה אומר</row>
+		<row row_number="17" isdata="1">עד שיודיעוהו באיזה מיתה הוא נהרג רב</row>
+		<row row_number="18" isdata="1">פפא אמר הכא באשה חבירה עסקינן</row>
+		<row row_number="19" isdata="1">וקמיפלגי בפלוגתא דרבי יוסי בר יהודה</row>
+		<row row_number="20" isdata="1">ורבנן דתניא ר' יוסי בר יהודה אומר חבר</row>
+		<row row_number="21" isdata="1">א"צ התראה לפי שלא ניתנה התראה אלא</row>
+		<row row_number="22" isdata="1">להבחין בין שוגג למזיד רב אשי אמר כגון</row>
+</amud>
+</daf>
+</masechet>
+</root>

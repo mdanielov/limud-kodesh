@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.692428</dateCreated>
+   <lastModified>2020-01-14 15:02:53.692428</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="119">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה בתרא"/><ContGemara/>רישא חזקה לייבום ורובא לשוק וחזקה לא</row>
+		<row row_number="2" isdata="1">עדיף כי רובא ואייתי מיעוטא דמפילות</row>
+		<row row_number="3" isdata="1">סמוך לחזקה והוה ליה פלגא ופלגא לא</row>
+		<row row_number="4" isdata="1">תנשא ולא תתייבם סיפא חזקה לשוק ורובא</row>
+		<row row_number="5" isdata="1">לשוק והוי ליה זכרים מיעוטא דמיעוטא</row>
+		<row row_number="6" isdata="1">ומיעוטא דמיעוטא לא חייש רבי מאיר: לא</row>
+		<row row_number="7" isdata="1">תנשא ולא תתייבם וכו': ולעולם אמר זעירי</row>
+		<row row_number="8" isdata="1">לעצמה שלשה חדשים לחברתה תשעה</row>
+		<row row_number="9" isdata="1">וחולצת ממה נפשך רבי חנינא אמר לעצמה</row>
+		<row row_number="10" isdata="1">שלשה לחברתה לעולם ותחלוץ ממה נפשך</row>
+		<row row_number="11" isdata="1">אביי בר אבין ורבי חנינא בר אבין אמרי</row>
+		<row row_number="12" isdata="1">תרוייהו גזירה שמא יהא ולד בן קיימא</row>
+		<row row_number="13" isdata="1">ונמצא אתה מצריכה כרוז לכהונה וליצרכה</row>
+		<row row_number="14" isdata="1">דלמא איכא דהוי בחליצה ולא הוי בהכרזה</row>
+		<row row_number="15" isdata="1">ואמרי קשרו חלוצה לכהן תנן ניתן לי בן</row>
+		<row row_number="16" isdata="1">במדינת הים ואמרה מת בני ואחר כך בעלי</row>
+		<row row_number="17" isdata="1">נאמנת מת בעלי ואחר כך בני אינה נאמנת</row>
+		<row row_number="18" isdata="1">וחוששין לדבריה וחולצת ולא מתייבמת</row>
+		<row row_number="19" isdata="1">וליחוש דלמא אתו עדים ואמרי כדקאמרה</row>
+		<row row_number="20" isdata="1">ונמצא אתה מצריכה כרוז לכהונה אמר רב</row>
+		<row row_number="21" isdata="1">פפא בגרושה רב חייא בריה דרב הונא</row>
+		<row row_number="22" isdata="1">אמר באמרה אני והוא נחבאנו במערה:</row>
+		<row row_number="23" isdata="1"><EndGemara/><StartMishna/>מתני' שתי יבמות זו אומרת מת בעלי וזו</row>
+		<row row_number="24" isdata="1">אומרת מת בעלי זו אסורה מפני בעלה של</row>
+		<row row_number="25" isdata="1">זו וזו אסורה מפני בעלה של זו לזו עדים ולזו</row>
+		<row row_number="26" isdata="1">אין עדים את שיש לה עדים אסורה ואת</row>
+		<row row_number="27" isdata="1">שאין לה עדים מותרת לזו בנים ולזו אין</row>
+		<row row_number="28" isdata="1">בנים את שיש לה בנים מותרת ואת שאין</row>
+		<row row_number="29" isdata="1">לה בנים אסורה נתייבמו ומתו היבמין</row>
+		<row row_number="30" isdata="1">אסורות להנשא ר' אלעזר אומר הואיל והותרו</row>
+		<row row_number="31" isdata="1">ליבמין הותרו לכל אדם:<EndMishna/><StartGemara/>גמ' תנא לזו עדים</row>
+		<row row_number="32" isdata="1">ובנים ולזו לא עדים ולא בנים שתיהן</row>
+		<row row_number="33" isdata="1">מותרות נתייבמו ומתו היבמין אסורין</row>
+		<row row_number="34" isdata="1">להנשא רבי אלעזר אומר הואיל והותרו</row>
+		<row row_number="35" isdata="1">ליבמין הותרו לכל אדם בעי רבא מאי טעמא</row>
+		<row row_number="36" isdata="1">דרבי אלעזר משום דקסבר צרה מעידה</row>
+		<row row_number="37" isdata="1">לחברתה או דלמא משום דהיא לא</row>
+		<row row_number="38" isdata="1">מקלקלא נפשה למאי נפקא מינה</row>
+</amud>
+</daf>
+</masechet>
+</root>

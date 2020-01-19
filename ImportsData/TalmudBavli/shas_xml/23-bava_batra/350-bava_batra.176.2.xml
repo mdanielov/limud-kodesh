@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:38.874318</dateCreated>
+   <lastModified>2020-01-14 15:03:38.874318</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="176">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>ערב דבית דין הוא דלא בעי קנין הא בעלמא בעי</row>
+		<row row_number="2" isdata="1">קנין והלכתא ערב בשעת מתן מעות לא בעי קנין</row>
+		<row row_number="3" isdata="1">אחר מתן מעות בעי קנין ערב דבית דין לא בעי</row>
+		<row row_number="4" isdata="1">קנין דבההיא הנאה דמהימן ליה גמר ומשעבד ליה:<EndChapter name = "גט פשוט "/><EndGemara/></row>
+		<row row_number="5" isdata="0">הדרן עלך גט פשוט וסליקא לה מסכת בבא בתרא</row>
+</amud>
+</daf>
+</masechet>
+</root>

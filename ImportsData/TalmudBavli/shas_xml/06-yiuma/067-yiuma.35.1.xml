@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:36.041900</dateCreated>
+   <lastModified>2020-01-14 15:02:36.041900</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="35">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אמר להם הממונה"/><ContGemara/>גמ' מאי פרוה אמר רב יוסף פרוה<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">אמגושא: פרסו סדין של בוץ: מאי שנא</row>
+		<row row_number="3" isdata="1">של בוץ אמר רב כהנא כדי שיכיר שעבודת</row>
+		<row row_number="4" isdata="1">היום בבגדי בוץ: בשחר היה לובש פלוסין</row>
+		<row row_number="5" isdata="1">של שמונה עשר וכו': ותנא מניינא אתא</row>
+		<row row_number="6" isdata="1">לאשמועינן הא קמ"ל דבציר מהני לא נעביד</row>
+		<row row_number="7" isdata="1">הא אי בציר מהני וטפי אהני לית לן בה</row>
+		<row row_number="8" isdata="1">דכולי עלמא מיהת דשחר עדיפי מנא לן</row>
+		<row row_number="9" isdata="1">אמר רב הונא בריה דרב עילאי אמר</row>
+		<row row_number="10" isdata="1">קרא בד בד בד בד מובחר בבד</row>
+</amud>
+</daf>
+</masechet>
+</root>

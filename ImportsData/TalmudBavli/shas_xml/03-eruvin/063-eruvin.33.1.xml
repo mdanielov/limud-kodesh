@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:20.902171</dateCreated>
+   <lastModified>2020-01-14 15:02:20.902171</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="33">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>ונתכוין לשבות בעיקרו ומאי למעלה ומאי</row>
+		<row row_number="2" isdata="1">למטה דהדר זקיף והא אי בעי מייתי לה דרך</row>
+		<row row_number="3" isdata="1">עליו כשרבים מכתפין עליו וכדעולא דאמר</row>
+		<row row_number="4" isdata="1">עולא עמוד תשעה ברשות הרבים ורבים</row>
+		<row row_number="5" isdata="1">מכתפין עליו וזרק ונח על גביו חייב: מאי רבי</row>
+		<row row_number="6" isdata="1">ומאי רבנן דתניא נתנו באילן למעלה מעשרה</row>
+		<row row_number="7" isdata="1">טפחים אין עירובו עירוב למטה מעשרה</row>
+		<row row_number="8" isdata="1">טפחים עירובו עירוב ואסור ליטלו בתוך</row>
+		<row row_number="9" isdata="1">שלשה מותר ליטלו נתנו בכלכלה ותלאו</row>
+		<row row_number="10" isdata="1">באילן אפילו למעלה מעשרה טפחים עירובו</row>
+		<row row_number="11" isdata="1">עירוב דברי רבי וחכמים אומרים כל מקום</row>
+		<row row_number="12" isdata="1">שאסור ליטלו אין עירובו עירוב וחכ"א</row>
+		<row row_number="13" isdata="1">אהייא אילימא אסיפא לימא קסברי רבנן</row>
+		<row row_number="14" isdata="1">צדדין אסורין אלא ארישא האי אילן היכי</row>
+		<row row_number="15" isdata="1">דמי אי דלית ביה ארבעה מקום פטור הוא ואי</row>
+		<row row_number="16" isdata="1">דאית ביה ארבעה כי נתנו בכלכלה מאי הוי</row>
+		<row row_number="17" isdata="1">אמר רבינא רישא דאית ביה ארבעה סיפא</row>
+		<row row_number="18" isdata="1">דלית ביה ארבעה וכלכלה משלימתו לארבעה</row>
+</amud>
+</daf>
+</masechet>
+</root>

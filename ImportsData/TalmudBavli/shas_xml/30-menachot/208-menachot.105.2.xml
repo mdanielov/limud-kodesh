@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:09.532432</dateCreated>
+   <lastModified>2020-01-14 15:04:09.532432</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="105">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הרי עלי עשרון "/><ContGemara/>עמו ואומר אם מצורע הוא זהו אשמו וזה לוגו</row>
+		<row row_number="2" isdata="1">ואם לאו אשם זה יהא שלמי נדבה ואותו</row>
+		<row row_number="3" isdata="1">אשם טעון שחיטה בצפון ומתן בהונות וסמיכה</row>
+		<row row_number="4" isdata="1">ונסכים ותנופת חזה ושוק ונאכל לזכרי כהונה</row>
+		<row row_number="5" isdata="1">ליום ולילה ואף על גב דקא מפריק מר</row>
+		<row row_number="6" isdata="1">בשחיטת קדשים אימר דאמר רבי שמעון</row>
+		<row row_number="7" isdata="1">מייתי ומתני לכתחילה לתקוני גברא אבל</row>
+		<row row_number="8" isdata="1">בעלמא דיעבד אין לכתחילה לא הני מילי גבי</row>
+		<row row_number="9" isdata="1">שלמים דקא ממעט באכילתן דהוו להו קדשים</row>
+		<row row_number="10" isdata="1">לבית הפסול אבל מנחות אפילו לכתחילה</row>
+		<row row_number="11" isdata="1">אמר ליה רב פפא לאביי רבי שמעון דאמר</row>
+		<row row_number="12" isdata="1">מחצה חלות ומחצה רקיקין יביא הא קא</row>
+		<row row_number="13" isdata="1">מייתי עשרון אחד משני עשרון ולוג אחד</row>
+		<row row_number="14" isdata="1">משני לוגין שמעינן ליה לר"ש דאמר אם</row>
+		<row row_number="15" isdata="1">הביא עשרון אחד משני עשרונות ולוג אחד</row>
+		<row row_number="16" isdata="1">משני לוגין יצא ומיקמץ היכי קמץ דמתני ואמר</row>
+		<row row_number="17" isdata="1">אי חלות לחודייהו ורקיקין לחודייהו אמרי דקא</row>
+		<row row_number="18" isdata="1">קמיצנא מחלות ליהוי אחלות דקא קמיצנא</row>
+		<row row_number="19" isdata="1">מרקיקין ליהוי ארקיקין אי מחצה רקיקין ומחצה</row>
+		<row row_number="20" isdata="1">חלות אמרי דקא קמיצנא מחלות ליהוי</row>
+		<row row_number="21" isdata="1">אמחצה חלות ומחצה רקיקין ודקא קמיצנא</row>
+		<row row_number="22" isdata="1">מרקיקין ליהוו אמחצה רקיקין ומחצה</row>
+		<row row_number="23" isdata="1">חלות והא בעי מיקמץ חד קומץ מחלות</row>
+</amud>
+</daf>
+</masechet>
+</root>

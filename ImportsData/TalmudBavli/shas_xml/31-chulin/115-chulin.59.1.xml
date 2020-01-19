@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:13.666685</dateCreated>
+   <lastModified>2020-01-14 15:04:13.666685</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="59">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>עיקרא דמרירתא אמר רב יהודה האי מאן</row>
+		<row row_number="2" isdata="1">דאכל תלתא תקלי חלתית אליבא ריקנא</row>
+		<row row_number="3" isdata="1">מישתלח משכיה אמר ר' אבהו בדידי הוה</row>
+		<row row_number="4" isdata="1">עובדא ואכלי חד תקלא חלתיתא ואי לא</row>
+		<row row_number="5" isdata="1">דיתבי במיא מישתלח משכאי וקיימתי</row>
+		<row row_number="6" isdata="1">בעצמי החכמה תחיה בעליה אמר רב יוסף</row>
+		<row row_number="7" isdata="1">האי מאן דאכיל שיתסרי ביעי וארבעי</row>
+		<row row_number="8" isdata="1">אמגוזי ושב בוטיתא דפרחי ושתי רביעתא</row>
+		<row row_number="9" isdata="1">דדובשא בתקופת תמוז אליבא ריקנא מתעקר</row>
+		<row row_number="10" isdata="1">תליא דליביה ההוא בר טביא דאתא לבי</row>
+		<row row_number="11" isdata="1">ריש גלותא דהוה מפסק כרען בתרייתא</row>
+		<row row_number="12" isdata="1">בדקיה רב בצומת הגידין ואכשריה סבר</row>
+		<row row_number="13" isdata="1">למיכל מיניה באומצא א"ל שמואל לא חייש</row>
+		<row row_number="14" isdata="1">מר לניקורי א"ל מאי תקנתא  נותביה</row>
+		<row row_number="15" isdata="1">בתנורא דאיהו בדיק נפשיה אותביה נפל</row>
+		<row row_number="16" isdata="1">תילחי תילחי קרי שמואל עליה דרב לא</row>
+		<row row_number="17" isdata="1">יאונה לצדיק כל און קרי רב עליה דשמואל</row>
+		<row row_number="18" isdata="1">כל רז לא אנס לך<EndGemara/><StartMishna/>מתני' סימני בהמה</row>
+		<row row_number="19" isdata="1">וחיה נאמרו מן התורה וסימני העוף לא</row>
+		<row row_number="20" isdata="1">נאמרו אבל אמרו חכמים כל עוף הדורס</row>
+		<row row_number="21" isdata="1">טמא כל שיש לו אצבע יתירה וזפק</row>
+		<row row_number="22" isdata="1">וקורקבנו נקלף טהור ר' אלעזר בר' צדוק</row>
+		<row row_number="23" isdata="1">אומר כל עוף החולק את רגליו טמא</row>
+		<row row_number="24" isdata="1">ובחגבים כל שיש לו ארבע רגלים וארבע</row>
+		<row row_number="25" isdata="1">כנפים וקרצולים וכנפיו חופין את רובו רבי</row>
+		<row row_number="26" isdata="1">יוסי אומר ושמו חגב ובדגים כל שיש לו</row>
+		<row row_number="27" isdata="1">סנפיר וקשקשת רבי יהודה אומר שני</row>
+		<row row_number="28" isdata="1">קשקשין וסנפיר אחד ואלו הן קשקשין</row>
+		<row row_number="29" isdata="1">הקבועין בו וסנפירים הפורח בהן:<EndMishna/><StartGemara/>גמ' תנו</row>
+		<row row_number="30" isdata="1">רבנן אלו הן סימני בהמה כל בהמה</row>
+		<row row_number="31" isdata="1">מפרסת פרסה וגו' כל בהמה שמעלת גרה</row>
+		<row row_number="32" isdata="1">בידוע שאין לה שינים למעלה וטהורה</row>
+		<row row_number="33" isdata="1">וכללא הוא והרי גמל דמעלה גרה הוא ואין</row>
+		<row row_number="34" isdata="1">לו שינים למעלה וטמא גמל ניבי אית ליה</row>
+		<row row_number="35" isdata="1">והרי בן גמל דניבי נמי לית ליה ותו הרי</row>
+		<row row_number="36" isdata="1">שפן וארנבת דמעלת גרה הן ויש להן שינים</row>
+		<row row_number="37" isdata="1">למעלה וטמאין ועוד שינים מי כתיבי</row>
+		<row row_number="38" isdata="1">באורייתא אלא הכי קאמר כל בהמה שאין</row>
+		<row row_number="39" isdata="1">לה שינים למעלה בידוע שהיא מעלת גרה</row>
+		<row row_number="40" isdata="1">ומפרסת פרסה וטהורה וליבדוק בפרסותיה</row>
+		<row row_number="41" isdata="1">כגון שהיו פרסותיה חתוכות וכדרב חסדא</row>
+		<row row_number="42" isdata="1">דאמר רב חסדא היה מהלך במדבר ומצא</row>
+		<row row_number="43" isdata="1">בהמה שפרסותיה חתוכות בודק בפיה אם</row>
+		<row row_number="44" isdata="1">אין לה שינים למעלה בידוע שהיא טהורה</row>
+		<row row_number="45" isdata="1">אם לאו בידוע שהיא טמאה ובלבד שיכיר</row>
+		<row row_number="46" isdata="1">גמל גמל ניבי אית ליה אלא ובלבד שיכיר</row>
+		<row row_number="47" isdata="1">בן גמל לאו אמרת איכא בן גמל איכא נמי</row>
+		<row row_number="48" isdata="1">מינא אחרינא דדמי לבן גמל לא ס"ד דתני</row>
+		<row row_number="49" isdata="1">דבי ר' ישמעאל ואת הגמל כי מעלה גרה הוא שליט בעולמו יודע שאין לך</row>
+		<row row_number="50" isdata="1">דבר מעלה גרה וטמא אלא גמל לפיכך פרט בו הכתוב הוא ואמר רב חסדא</row>
+		<row row_number="51" isdata="1">היה מהלך בדרך ומצא בהמה שפיה גמום בודק בפרסותיה אם פרסותיה</row>
+		<row row_number="52" isdata="1">סדוקות בידוע שהיא טהורה אם לאו בידוע שהיא טמאה ובלבד שיכיר</row>
+		<row row_number="53" isdata="1">חזיר לאו אמרת איכא חזיר איכא נמי מינא אחרינא דדמיא לחזיר לא ס"ד דתנא דבי ר' ישמעאל ואת החזיר</row>
+		<row row_number="54" isdata="1">כי מפריס פרסה הוא שליט בעולמו יודע שאין לך דבר שמפריס פרסה וטמא אלא חזיר לפיכך פרט בו הכתוב</row>
+		<row row_number="55" isdata="1">הוא ואמר רב חסדא היה מהלך במדבר ומצא בהמה שפיה גמום ופרסותיה חתוכות בודק בבשרה אם</row>
+		<row row_number="56" isdata="1">מהלך שתי וערב בידוע שהיא טהורה ואם לאו בידוע שהיא טמאה ובלבד שיכיר ערוד לאו אמרת איכא</row>
+		<row row_number="57" isdata="1">ערוד איכא נמי מינא אחרינא דדמיא לערוד גמירי דליכא והיכא בודק אמר אביי ואיתימא רב חסדא</row>
+		<row row_number="58" isdata="1">בכנפי העוקץ: סימני חיה: ת"ר אלו הן סימני חיה חיה בכלל בהמה היא לסימנין אמר רבי זירא</row>
+</amud>
+</daf>
+</masechet>
+</root>

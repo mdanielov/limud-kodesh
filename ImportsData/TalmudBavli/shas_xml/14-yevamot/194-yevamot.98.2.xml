@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:52.702432</dateCreated>
+   <lastModified>2020-01-14 15:02:52.702432</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="98">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "נושאין על האנוסה"/><ContGemara/>מן האב יקיים אחות האם מן האם יוציא</row>
+		<row row_number="2" isdata="1">מן האב רבי מאיר אומר יוציא וחכמים</row>
+		<row row_number="3" isdata="1">אומרים יקיים שהיה רבי מאיר אומר כל</row>
+		<row row_number="4" isdata="1">ערוה שהיא משום שאר האם יוציא משום</row>
+		<row row_number="5" isdata="1">האב יקיים ומותר באשת אחיו מאמו</row>
+		<row row_number="6" isdata="1">ובאשת אחי אביו ושאר כל העריות מותרות</row>
+		<row row_number="7" isdata="1">לו לאיתויי אשת האב נשא אשה ובתה</row>
+		<row row_number="8" isdata="1">כונס אחת ומוציא אחת לכתחלה לא יכנוס</row>
+		<row row_number="9" isdata="1">מתה אשתו מותר בחמותו ואיכא דתני</row>
+		<row row_number="10" isdata="1">אסור בחמותו קתני מיהת מותר באשת אחיו</row>
+		<row row_number="11" isdata="1">מאי לאו דנסבה אחיו כשהוא גר לא</row>
+		<row row_number="12" isdata="1">דנסבה כשהוא עובד כוכבים מאי למימרא</row>
+		<row row_number="13" isdata="1">מהו דתימא ליגזור כשהוא עובד כוכבים</row>
+		<row row_number="14" isdata="1">אטו כשהוא גר קמ"ל אמר מר נשא אשה</row>
+		<row row_number="15" isdata="1">ובתה כונס אחת ומוציא אחת לכתחלה לא</row>
+		<row row_number="16" isdata="1">יכנוס השתא אפוקי מפיק לכתחלה מיבעיא</row>
+		<row row_number="17" isdata="1">התם קאי והכי קאמר הך דאמור רבנן יקיים</row>
+		<row row_number="18" isdata="1">לכתחלה לא יכנוס מתה אשתו מותר בחמותו</row>
+		<row row_number="19" isdata="1">ואיכא דתני אסור בחמותו חדא כר' ישמעאל</row>
+		<row row_number="20" isdata="1">וחדא כר' עקיבא מאן דאסר כר' ישמעאל</row>
+		<row row_number="21" isdata="1">דאמר חמותו לאחר מיתה באיסורא קיימא</row>
+		<row row_number="22" isdata="1">וגבי גר גזרו ביה רבנן ומאן דשרי כרבי</row>
+		<row row_number="23" isdata="1">עקיבא דאמר חמותו לאחר מיתה קלש</row>
+		<row row_number="24" isdata="1">ליה איסורא וגבי גר לא גזרו ביה רבנן:</row>
+		<row row_number="25" isdata="1"><EndGemara/><StartMishna/>מתני' חמש נשים שנתערבו ולדותיהן</row>
+		<row row_number="26" isdata="1">הגדילו התערובות ונשאו נשים ומתו ארבעה</row>
+		<row row_number="27" isdata="1">חולצין לאחת ואחד מייבם אותה הוא</row>
+		<row row_number="28" isdata="1">ושלשה חולצין לאחת ואחד מייבם נמצאו</row>
+		<row row_number="29" isdata="1">ארבע חליצות וייבום לכל אחת ואחת:</row>
+		<row row_number="30" isdata="1"><EndMishna/><StartGemara/>גמ' ודוקא מיחלץ והדר יבומי אבל יבומי</row>
+		<row row_number="31" isdata="1">ברישא לא דקפגע ביבמה לשוק מאי הוא</row>
+		<row row_number="32" isdata="1">ושלשה חולצין לאחת דלא תימא ליבמינהו</row>
+		<row row_number="33" isdata="1">חד לכולהו אלא כל חד וחד מייבם חדא</row>
+		<row row_number="34" isdata="1">דלמא מתרמיא ליה דידיה מקצתן</row>
+		<row row_number="35" isdata="1">אחין ומקצתן שאין אחין האחין חולצין</row>
+		<row row_number="36" isdata="1">ושאין אחין מייבמין מאי קאמר אמר רב ספרא הכי קאמר מקצתן אחין מן</row>
+		<row row_number="37" isdata="1">האב ומקצתן אחין מן האם אחין מן האם חולצין ואחין מן האב מייבמין</row>
+		<row row_number="38" isdata="1">מקצתן כהנים ומקצתן שאינן כהנים כהנים חולצין שאינן כהנים מייבמין</row>
+		<row row_number="39" isdata="1">מקצתן כהנים ומקצתן אחין מן האם אלו ואלו חולצין ולא מייבמין</row>
+</amud>
+</daf>
+</masechet>
+</root>

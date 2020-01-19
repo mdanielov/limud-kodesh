@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:19.975884</dateCreated>
+   <lastModified>2020-01-14 15:04:19.975884</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "עד כמה ישראל חייבין"/><ContGemara/>ורב יהודה בר אמי משמיה דרב יהודה אמר</row>
+		<row row_number="2" isdata="1">בית הפרס שנידש טהור א"נ בשאר טומאות</row>
+		<row row_number="3" isdata="1">דלא מזהר עלייהו: אם היה זקן מרכיבו על</row>
+		<row row_number="4" isdata="1">החמור : תנא כפועל בטל אמר אביי כפועל</row>
+		<row row_number="5" isdata="1">בטל של אותה מלאכה <EndGemara/><StartMishna/>מתני' החשוד</row>
+		<row row_number="6" isdata="1">על הבכורות אין לוקחין ממנו בשר צבאים</row>
+		<row row_number="7" isdata="1">ולא עורות שאינן עבודים רבי אליעזר אומר</row>
+		<row row_number="8" isdata="1">לוקחין ממנו עורות של נקבה ואין לוקחין</row>
+		<row row_number="9" isdata="1">ממנו צמר מלובן וצואי אבל לוקחין ממנו טוי</row>
+		<row row_number="10" isdata="1">ובגדים:<EndMishna/><StartGemara/>גמ' בשר צבאים דמיחלף</row>
+		<row row_number="11" isdata="1">בדעגלה ולא עורות שאינן עבודים הא</row>
+		<row row_number="12" isdata="1">עבודים זבנינן אם איתא דבכור הוה לא</row>
+		<row row_number="13" isdata="1">הוה טרח ביה סבר אי שמעו ביה רבנן</row>
+		<row row_number="14" isdata="1">מפסדו לי מינאי: רבי אליעזר אומר לוקחין</row>
+		<row row_number="15" isdata="1">ממנו עורות של נקבה: מאי טעמא מידע</row>
+		<row row_number="16" isdata="1">ידיע ות"ק א"כ זכר נמי חייק לזכרותיה ואמר</row>
+		<row row_number="17" isdata="1">עכברים אכלוה ואידך בי עכברים מידע ידיע:</row>
+		<row row_number="18" isdata="1">ואין לוקחין ממנו צמר מלובן וצואי: השתא</row>
+		<row row_number="19" isdata="1">צמר מלובן לא זבנינן צואי מיבעיא אלא חדא</row>
+		<row row_number="20" isdata="1">קתני צמר מלובן מצואתו: אבל לוקחין ממנו</row>
+		<row row_number="21" isdata="1">טוי ובגדים: השתא טוי זבנינן בגדים מיבעיא</row>
+		<row row_number="22" isdata="1">מאי בגדים נמטי<EndGemara/><StartMishna/>מתני' החשוד על</row>
+		<row row_number="23" isdata="1">השביעית אין לוקחין ממנו פשתן ואפילו</row>
+		<row row_number="24" isdata="1">סרק אבל לוקחין מהם טוי ואריג:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="25" isdata="1">השתא טוי זבנינן אריג מיבעיא מאי</row>
+		<row row_number="26" isdata="1">אריג תיכי<EndGemara/><StartMishna/>מתני' החשוד להיות מוכר</row>
+		<row row_number="27" isdata="1">תרומה לשום חולין אין לוקחין</row>
+		<row row_number="28" isdata="1">ממנו אפילו מים ומלח דברי רבי יהודה רבי</row>
+		<row row_number="29" isdata="1">שמעון אומר כל שיש בו זיקת תרומה</row>
+		<row row_number="30" isdata="1">ומעשרות אין לוקחין ממנו:<EndMishna/><StartGemara/>גמ' לאתויי</row>
+		<row row_number="31" isdata="1">מאי לאתויי קרבי דגים דמערבי בהו שמן</row>
+		<row row_number="32" isdata="1">זית ההוא טבחא דהוה חשוד לזבוני</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:43.047051</dateCreated>
+   <lastModified>2020-01-14 15:02:43.047051</lastModified>
+ </meta>
+ <masechet name="ראש השנה" serial="09">
+<daf value="10">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה ראשי שנים"/><ContGemara/>ופירות נטיעה זו אסורין עד ט"ו בשבט אם</row>
+		<row row_number="2" isdata="1">לערלה ערלה ואם לרבעי רבעי מה"מ א"ר</row>
+		<row row_number="3" isdata="1">חייא בר אבא א"ר יוחנן ומטו בה משמיה דר'</row>
+		<row row_number="4" isdata="1">ינאי אמר קרא ובשנה הרביעית ובשנה</row>
+		<row row_number="5" isdata="1">החמישית פעמים שברביעית ועדיין אסורה</row>
+		<row row_number="6" isdata="1">משום ערלה ופעמי' שבחמישית ועדיין אסורה</row>
+		<row row_number="7" isdata="1">משום רבעי לימא דלא כר"מ דאי ר"מ הא</row>
+		<row row_number="8" isdata="1">אמר יום אחד בשנה חשוב שנה דתניא פר</row>
+		<row row_number="9" isdata="1">האמור בתורה סתם בן עשרים וארבעה חדש</row>
+		<row row_number="10" isdata="1">ויום אחד דברי ר"מ ר' אלעזר אומר בן עשרים</row>
+		<row row_number="11" isdata="1">וארבעה חדש ול' יום שהיה ר"מ אומר</row>
+		<row row_number="12" isdata="1">כל מקום שנאמר עגל בתורה סתם בן</row>
+		<row row_number="13" isdata="1">שנה בן בקר בן שתים פר בן שלש אפילו</row>
+		<row row_number="14" isdata="1">תימא ר"מ כי קאמר ר"מ יום אחד בשנה חשוב</row>
+		<row row_number="15" isdata="1">שנה בסוף שנה אבל בתחלת שנה לא אמר</row>
+		<row row_number="16" isdata="1">רבא ולאו ק"ו הוא ומה נדה שאין תחילת</row>
+		<row row_number="17" isdata="1">היום עולה לה בסופה סוף היום עולה לה</row>
+		<row row_number="18" isdata="1">בתחלתה שנה שיום אחד עולה לה בסופה</row>
+</amud>
+</daf>
+</masechet>
+</root>

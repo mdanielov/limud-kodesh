@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:14.583962</dateCreated>
+   <lastModified>2020-01-14 15:03:14.583962</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="43">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContGemara/>וכן בדיני ממונות וצריכא דאי אשמעינן</row>
+		<row row_number="2" isdata="1">בקידושין משום דלמיסרה קאתי אבל גירושין</row>
+		<row row_number="3" isdata="1">ניחוש שמא עיניו נתן בה ואי אשמעינן</row>
+		<row row_number="4" isdata="1">גירושין משום דאיתתא לבי תרי לא חזיא</row>
+		<row row_number="5" isdata="1">אבל ממונא אימא הני מיפלג פלגי צריכי</row>
+		<row row_number="6" isdata="1">מאי קסבר אי קסבר המלוה חבירו בעדים</row>
+		<row row_number="7" isdata="1">צריך לפורעו בעדים הני נוגעים בעדות</row>
+		<row row_number="8" isdata="1">נינהו דאי אמרי לא פרעניה אמר להו פרעוני</row>
+		<row row_number="9" isdata="1">אלא לעולם קסבר המלוה את חבירו</row>
+		<row row_number="10" isdata="1">בעדים א"צ לפורעו בעדים ומגו דיכלי למימר</row>
+		<row row_number="11" isdata="1">אהדרינהו ללוה יכולין למימר פרעניה למלוה</row>
+		<row row_number="12" isdata="1">והשתא דתקון רבנן שבועת היסת משתבעי</row>
+		<row row_number="13" isdata="1">הני עדים דיהיבנא ליה ומשתבע מלוה דלא</row>
+		<row row_number="14" isdata="1">שקיל ליה ופרע ליה לוה למלוה: האיש</row>
+		<row row_number="15" isdata="1">מקדש את בתו: תנן התם נערה המאורסה</row>
+		<row row_number="16" isdata="1">היא ואביה מקבלין את גיטה אמר רבי יהודה</row>
+		<row row_number="17" isdata="1">אין שתי ידים זוכות כאחד אלא אביה</row>
+		<row row_number="18" isdata="1">מקבל את גיטה וכל שאין יכולה לשמור את</row>
+		<row row_number="19" isdata="1">גיטה אין יכולה להתגרש אמר ר"ל</row>
+		<row row_number="20" isdata="1">כמחלוקת לגירושין כך מחלוקת לקידושין</row>
+		<row row_number="21" isdata="1">ורבי יוחנן אמר מחלוקת לגירושין אבל</row>
+		<row row_number="22" isdata="1">לקידושין דברי הכל אביה ולא היא ואמר</row>
+		<row row_number="23" isdata="1">ר' יוסי בר' חנינא מאי טעמיה דר' יוחנן</row>
+		<row row_number="24" isdata="1">אליבא דרבנן גירושין דמכנסת עצמה לרשות</row>
+		<row row_number="25" isdata="1">אביה בין היא ובין אביה קידושין דמפקעת</row>
+		<row row_number="26" isdata="1">עצמה מרשות אביה אביה ולא היא והרי</row>
+		<row row_number="27" isdata="1">מאמר דמפקעת עצמה מרשות אביה ותנן</row>
+</amud>
+</daf>
+</masechet>
+</root>

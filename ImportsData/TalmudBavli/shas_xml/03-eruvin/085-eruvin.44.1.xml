@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:22.006644</dateCreated>
+   <lastModified>2020-01-14 15:02:22.006644</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="44">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>או אין הלכה כר"ג או דילמא בדלא מלו גברי</row>
+		<row row_number="2" isdata="1">עסקינן וקא מבעיא ליה הלכה כרבי אליעזר</row>
+		<row row_number="3" isdata="1">או אין הלכה כר"א פשיטא בדלא מלו גברי</row>
+		<row row_number="4" isdata="1">עסקינן דאי סלקא דעתך בדמלו גברי עסקינן</row>
+		<row row_number="5" isdata="1">מאי תיבעי ליה האמר רב הלכה כר"ג בדיר</row>
+		<row row_number="6" isdata="1">וסהר וספינה אלא ודאי בדלא מלו גברי</row>
+		<row row_number="7" isdata="1">עסקינן ודר' אליעזר קמיבעיא ליה דיקא</row>
+		<row row_number="8" isdata="1">נמי דקאמר ליה יכנס מאי יכנס לאו בלא</row>
+		<row row_number="9" isdata="1">מחיצה איתיביה ר"נ בר יצחק לרבא נפל</row>
+		<row row_number="10" isdata="1">דופנה לא יעמיד בה אדם בהמה וכלים</row>
+		<row row_number="11" isdata="1">ולא יזקוף את המטה לפרוס עליה סדין</row>
+		<row row_number="12" isdata="1">לפי שאין עושין אהל עראי בתחילה</row>
+		<row row_number="13" isdata="1">ביו"ט ואין צריך לומר בשבת א"ל את</row>
+		<row row_number="14" isdata="1">אמרת לי מהא ואנא אמינא לך מהא עושה</row>
+		<row row_number="15" isdata="1">אדם את חבירו דופן כדי שיאכל וישתה</row>
+		<row row_number="16" isdata="1">וישן ויזקוף את המטה ויפרוס עליה סדין</row>
+		<row row_number="17" isdata="1">כדי שלא תפול חמה על המת ועל האוכלין</row>
+		<row row_number="18" isdata="1">קשיין אהדדי ל"ק הא ר"א הא רבנן דתנן פקק</row>
+		<row row_number="19" isdata="1">החלון ר"א אומר בזמן שקשור ותלוי פוקקין בו</row>
+		<row row_number="20" isdata="1">ואם לאו אין פוקקין בו וחכ"א בין כך ובין כך</row>
+		<row row_number="21" isdata="1">פוקקין בו והא איתמר עלה אמר רבה</row>
+		<row row_number="22" isdata="1">בר בר חנה א"ר יוחנן הכל מודים שאין</row>
+		<row row_number="23" isdata="1">עושין אהל עראי בתחילה ביום טוב וא"צ</row>
+		<row row_number="24" isdata="1">לומר בשבת לא נחלקו אלא להוסיף שר'</row>
+		<row row_number="25" isdata="1">אליעזר אומר אין מוסיפין ביום טוב ואין</row>
+		<row row_number="26" isdata="1">צריך לומר בשבת וחכמים אומרים מוסיפין</row>
+		<row row_number="27" isdata="1">בשבת ואין צריך לומר ביום טוב אלא ל"ק</row>
+		<row row_number="28" isdata="1">הא כרבי מאיר הא כרבי יהודה דתניא</row>
+		<row row_number="29" isdata="1">עשאה לבהמה דופן לסוכה רבי מאיר פוסל</row>
+		<row row_number="30" isdata="1">ור' יהודה מכשיר רבי מאיר דקא פסיל התם</row>
+		<row row_number="31" isdata="1">אלמא לא מחיצה היא הכא שרי דלאו מידי</row>
+		<row row_number="32" isdata="1">קא עביד ורבי יהודה דקא מכשיר התם אלמא</row>
+		<row row_number="33" isdata="1">מחיצה היא הכא אסר ותיסברא אימר דשמעת</row>
+		<row row_number="34" isdata="1">ליה לרבי מאיר בהמה אדם וכלים מי שמעת</row>
+		<row row_number="35" isdata="1">ליה ותו רבי מאיר אליבא דמאן אי אליבא</row>
+		<row row_number="36" isdata="1">דרבי אליעזר להוסיף נמי אסר אלא אליבא</row>
+		<row row_number="37" isdata="1">דרבנן אימר דאמרי רבנן להוסיף לכתחילה</row>
+		<row row_number="38" isdata="1">מי אמור אלא הא והא רבנן וכלים אכלים</row>
+		<row row_number="39" isdata="1">ל"ק הא בדופן שלישית הא בדופן רביעית</row>
+		<row row_number="40" isdata="1">דיקא נמי דקתני נפל דופנה שמע מינה</row>
+</amud>
+</daf>
+</masechet>
+</root>

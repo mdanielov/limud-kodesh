@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.565641</dateCreated>
+   <lastModified>2020-01-14 15:03:00.565641</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="14">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו מותרין"/><ContGemara/>לאו אתה שומע הן ואלא רבי יהודה היינו</row>
+		<row row_number="2" isdata="1">רישא איידי דקתני כבשר חזיר כעבודת</row>
+		<row row_number="3" isdata="1">כוכבים להכי קתני חולין רבינא אמר הכי</row>
+		<row row_number="4" isdata="1">קתני ואלו מותרין כחולין כבשר חזיר כעבודת</row>
+		<row row_number="5" isdata="1">כוכבים ואי לא תנא חולין הוה אמינא בעי</row>
+		<row row_number="6" isdata="1">שאלה ומי איכא לאסוקי על דעתא הכי הא</row>
+		<row row_number="7" isdata="1">מדקתני סיפא האומר לאשתו הרי את עלי</row>
+		<row row_number="8" isdata="1">כאימא פותחין לו פתח ממקום אחר מכלל</row>
+		<row row_number="9" isdata="1">דרישא לא בעיא שאלה אלא מחוורתא חולין</row>
+		<row row_number="10" isdata="1">ממילא נסבה מנהני מילי אמר קרא איש כי</row>
+		<row row_number="11" isdata="1">ידור נדר לה' עד שידור בדבר הנדור אי</row>
+		<row row_number="12" isdata="1">הכי אפילו בדבר האסור נמי דהא כתיב לאסור</row>
+		<row row_number="13" isdata="1">איסר על נפשו לאסור איסר מבעי ליה</row>
+		<row row_number="14" isdata="1">לכדתניא איזהו איסר האמור בתורה כו':</row>
+		<row row_number="15" isdata="1">האומר לאשתו הרי את עלי כאימא כו':</row>
+		<row row_number="16" isdata="1">ורמינהו הרי את עלי כבשר אימא כבשר אחותי</row>
+		<row row_number="17" isdata="1">כערלה וככלאי הכרם לא אמר כלום אמר אביי</row>
+		<row row_number="18" isdata="1">לא אמר כלום מדאורייתא וצריך שאלה מדרבנן</row>
+		<row row_number="19" isdata="1">רבא אמר הא בתלמידי חכמים הא בעם</row>
+		<row row_number="20" isdata="1">הארץ והתניא הנודר בתורה לא אמר כלום</row>
+		<row row_number="21" isdata="1">ואמר רבי יוחנן וצריך שאלה לחכם ואמר</row>
+		<row row_number="22" isdata="1">רב נחמן ותלמיד חכם אינו צריך שאלה</row>
+</amud>
+</daf>
+</masechet>
+</root>

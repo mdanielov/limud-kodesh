@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:29.764214</dateCreated>
+   <lastModified>2020-01-14 15:03:29.764214</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="5">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השותפין"/><ContGemara/>כי היכי דלא ליטרדן תנן בחזקת שנתן עד</row>
+		<row row_number="2" isdata="1">שיביא ראיה שלא נתן היכי דמי אילימא</row>
+		<row row_number="3" isdata="1">דאמר ליה פרעתיך בזמני פשיטא בחזקת</row>
+		<row row_number="4" isdata="1">שנתן אלא לאו דאמר ליה פרעתיך בתוך</row>
+		<row row_number="5" isdata="1">זמני אלמא עביד איניש דפרעיה בתוך זמניה</row>
+		<row row_number="6" isdata="1">שאני הכא דכל שפא ושפא זימניה הוא</row>
+		<row row_number="7" isdata="1">ת"ש בחזקת שלא נתן עד שיביא ראיה שנתן</row>
+		<row row_number="8" isdata="1">היכי דמי אילימא דאמר ליה פרעתיך בזמני</row>
+		<row row_number="9" isdata="1">אמאי לא אלא לאו דאמר ליה פרעתיך בתוך</row>
+		<row row_number="10" isdata="1">זמני אלמא לא עביד איניש דפרע בגו זימניה</row>
+		<row row_number="11" isdata="1">שאני הכא דאמר מי יימר דמחייבו לי רבנן רב פפא ורב הונא בריה דרב יהושע</row>
+		<row row_number="12" isdata="1">עבדי כאביי ורבא מר בר רב אשי עבד כר"ל והלכתא כר"ל ואפילו מיתמי</row>
+		<row row_number="13" isdata="1">ואע"ג דאמר מר הבא ליפרע מנכסי יתומים לא יפרע אלא בשבועה חזקה</row>
+		<row row_number="14" isdata="1">לא עביד איניש דפרע בגו זימניה איבעיא להו תבעו לאחר זמן ואמר לו</row>
+		<row row_number="15" isdata="1">פרעתיך בתוך זמני מהו מי אמרינן במקום חזקה אמרינן מה לי לשקר</row>
+</amud>
+</daf>
+</masechet>
+</root>

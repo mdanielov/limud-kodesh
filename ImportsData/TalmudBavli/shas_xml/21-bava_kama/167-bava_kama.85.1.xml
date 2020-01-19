@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:20.942737</dateCreated>
+   <lastModified>2020-01-14 15:03:20.942737</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="85">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "החובל"/><ContGemara/>בכלל ופרט המרוחקים זה מזה קמפלגי רבי</row>
+		<row row_number="2" isdata="1">סבר אין דנין אותו בכלל ופרט ובן עזאי</row>
+		<row row_number="3" isdata="1">סבר דנין אותו בכלל ופרט וכי תימא חבורה</row>
+		<row row_number="4" isdata="1">לרבי למה לי לדמים יתרים: אומדין כמה</row>
+		<row row_number="5" isdata="1">אדם כיוצא בזה רוצה ליטול וכו': צער</row>
+		<row row_number="6" isdata="1">במקום נזק היכי שיימינן אמר אבוה דשמואל</row>
+		<row row_number="7" isdata="1">אומדין כמה אדם רוצה ליטול לקטוע לו</row>
+		<row row_number="8" isdata="1">ידו לקטוע לו ידו לא צער לחודיה הוא הא</row>
+		<row row_number="9" isdata="1">כולהו חמשה דברים איכא ועוד בשופטני</row>
+		<row row_number="10" isdata="1">עסקינן אלא לקטוע ידו הקטועה ידו הקטועה</row>
+		<row row_number="11" isdata="1">נמי לא צער לחודיה איכא הא צער ובושת</row>
+		<row row_number="12" isdata="1">איכא דכסיפא ליה מילתא למשקל מבשרו</row>
+		<row row_number="13" isdata="1">למשדייה לכלבים אלא אומדין כמה אדם</row>
+		<row row_number="14" isdata="1">רוצה ליטול לקטוע לו ידו המוכתב למלכות</row>
+		<row row_number="15" isdata="1">בין סם לסייף אמרי הכא נמי לא שקיל ומצער</row>
+		<row row_number="16" isdata="1">נפשיה אלא אומדין כמה אדם רוצה ליתן</row>
+		<row row_number="17" isdata="1">לקטוע לו ידו המוכתב למלכות בין סייף</row>
+		<row row_number="18" isdata="1">לסם האי ליטול ליתן מבעי ליה אמר רב</row>
+		<row row_number="19" isdata="1">הונא בריה דרב יהושע ליטול זה מזה מה</row>
+		<row row_number="20" isdata="1">שנתן זה: רפוי הכהו חייב לרפאותו וכו':</row>
+		<row row_number="21" isdata="1">[ת"ר] עלו בו צמחים מחמת המכה ונסתרה</row>
+		<row row_number="22" isdata="1">המכה חייב לרפאותו וחייב ליתן לו דמי</row>
+		<row row_number="23" isdata="1">שבתו שלא מחמת המכה אינו חייב לרפאותו</row>
+		<row row_number="24" isdata="1">ואינו חייב ליתן לו דמי שבתו ר' יהודה אומר</row>
+		<row row_number="25" isdata="1">אף מחמת המכה חייב לרפאותו ואינו חייב</row>
+		<row row_number="26" isdata="1">ליתן לו דמי שבתו וחכמים אומרים שבתו</row>
+		<row row_number="27" isdata="1">ורפואתו כל שחייב בשבת חייב בריפוי</row>
+		<row row_number="28" isdata="1">ושאינו חייב בשבת אינו חייב בריפוי במאי</row>
+		<row row_number="29" isdata="1">קא מיפלגי אמר רבה אשכחתינהו לרבנן בבי</row>
+		<row row_number="30" isdata="1">רב דיתבי וקאמרי הכא במכה ניתנה לאגד</row>
+		<row row_number="31" isdata="1">קמיפלגי רבנן סברי מכה ניתנה לאגד ורבי יהודה סבר מכה לא ניתנה לאגד</row>
+		<row row_number="32" isdata="1">ריפוי דתנא ביה קרא מיחייב שבת דלא תנא ביה קרא לא מיחייב ואמינא</row>
+		<row row_number="33" isdata="1">להו אנא אי מכה לא ניתנה לאגד ריפוי נמי לא מיחייב אלא דכולי עלמא</row>
+		<row row_number="34" isdata="1">מכה ניתנה לאגד ולא ניתנה לאגד יתירה ר' יהודה סבר כיון דלא ניתנה</row>
+		<row row_number="35" isdata="1">לאגד יתירה ריפוי דתנא ביה קרא מיחייב שבת דלא תנא ביה קרא לא מיחייב</row>
+		<row row_number="36" isdata="1">ורבנן סברי כיון דתנא ביה קרא בריפוי אשבת נמי מיחייב דאיתקש לריפוי</row>
+		<row row_number="37" isdata="1">ור' יהודה סבר שבת לא מיחייב דמעטיה רחמנא רק ורבנן רק לשלא מחמת</row>
+		<row row_number="38" isdata="1">המכה הוא דאתא ולרבנן בתראי דאמרי כל שחייב בשבת חייב בריפוי</row>
+		<row row_number="39" isdata="1">וכל שאינו חייב בשבת אינו חייב בריפוי ריפוי דתנא ביה קרא למה לי</row>
+		<row row_number="40" isdata="1">מיבעי ליה לכדתנא דבי ר' ישמעאל דתניא דבי ר' ישמעאל אומר ורפא</row>
+		<row row_number="41" isdata="1">ירפא מכאן שניתן רשות לרופא לרפאות ת"ר מנין שאם עלו בו צמחים</row>
+		<row row_number="42" isdata="1">מחמת המכה ונסתרה המכה שחייב לרפאותו וחייב ליתן לו שבתו ת"ל רק</row>
+		<row row_number="43" isdata="1">שבתו יתן ורפא ירפא יכול אפילו שלא מחמת המכה ת"ל רק ר' יוסי בר</row>
+		<row row_number="44" isdata="1">יהודה אומר אף מחמת המכה פטור שנאמר רק איכא דאמרי אף מחמת</row>
+		<row row_number="45" isdata="1">המכה פטור לגמרי כרבנן בתראי ואיכא דאמרי אף מחמת המכה פטור</row>
+		<row row_number="46" isdata="1">משבת וחייב בריפוי כמאן כאבוה: אמר מר יכול אפילו שלא מחמת המכה</row>
+		<row row_number="47" isdata="1">ת"ל רק שלא מחמת המכה בעי קרא אמרי מאי שלא מחמת המכה כדתניא</row>
+		<row row_number="48" isdata="1">הרי שעבר על דברי רופא ואכל דבש או כל מיני מתיקה מפני שדבש וכל</row>
+		<row row_number="49" isdata="1">מיני מתיקה קשין למכה והעלה מכתו גרגותני יכול יהא חייב לרפאותו ת"ל</row>
+		<row row_number="50" isdata="1">רק מאי גרגותני אמר אביי נאתא כריכתא מאי אסותיה אהלא וקירא וקלבא</row>
+		<row row_number="51" isdata="1">ואי א"ל אסייך אנא א"ל דמית עלי כאריא ארבא ואי א"ל מייתינא אסיא</row>
+		<row row_number="52" isdata="1">דמגן במגן א"ל אסיא דמגן במגן מגן שוה ואי אמר מייתינא לך אסיא רחיקא אמר ליה אסיא רחיקא</row>
+		<row row_number="53" isdata="1">עינא עוירא ואי א"ל היאך הב לי לדידי ואנא מסינא נפשאי א"ל פשעת בנפשך ושקלת מינאי טפי ואי</row>
+		<row row_number="54" isdata="1">א"ל קוץ לי מקץ א"ל כל שכן דפשעת בנפשך וקרו לי שור המזיק תנא וכולן משתלמין במקום נזק</row>
+		<row row_number="55" isdata="1">מנהני מילי אמר רב זביד משמיה דרבא אמר קרא פצע תחת פצע ליתן צער במקום נזק האי מבעי ליה</row>
+</amud>
+</daf>
+</masechet>
+</root>

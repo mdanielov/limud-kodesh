@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:58.099827</dateCreated>
+   <lastModified>2020-01-14 15:03:58.099827</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="42">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בית שמאי"/><ContGemara/>והא בין בין קתני קשיא אמר מר רבי מאיר</row>
+		<row row_number="2" isdata="1">אומר פיגול וחייבין עליו כרת מכדי כרת לא</row>
+		<row row_number="3" isdata="1">מיחייב עד שיקרבו כל מתיריו דאמר מר</row>
+		<row row_number="4" isdata="1">כהרצאת כשר כך הרצאת פסול מה הרצאת</row>
+		<row row_number="5" isdata="1">כשר עד שיקרבו כל מתיריו אף הרצאת פסול</row>
+		<row row_number="6" isdata="1">עד שיקרבו כל מתיריו והא כיון דחשיב ביה</row>
+		<row row_number="7" isdata="1">בפנים פסולה כמאן דלא אדי דמי כי הדר</row>
+		<row row_number="8" isdata="1">מדי בהיכל מיא בעלמא הוא דקא אדי אמר</row>
+		<row row_number="9" isdata="1">רבה משכחת לה בארבעה פרים ובד'</row>
+		<row row_number="10" isdata="1">שעירים רבא אמר אפילו תימא בפר אחד</row>
+		<row row_number="11" isdata="1">ושעיר אחד לפיגולו מרצה ארבעים ושלש</row>
+		<row row_number="12" isdata="1">והא תניא ארבעים ושבע הא כמאן דאמר</row>
+		<row row_number="13" isdata="1">מערבין לקרנות והא כמאן דאמר אין מערבין</row>
+		<row row_number="14" isdata="1">לקרנות והא תניא ארבעים ושמונה הא</row>
+		<row row_number="15" isdata="1">כמאן דאמר שיריים מעכבין הא כמאן דאמר</row>
+		<row row_number="16" isdata="1">אין שיריים מעכבין: מיתיבי במה דברים</row>
+		<row row_number="17" isdata="1">אמורים בקמיצה במתן כלי ובהילוך אבל</row>
+		<row row_number="18" isdata="1">בא לו להקטרה נתן את הקומץ במחשבה</row>
+		<row row_number="19" isdata="1">ואת הלבונה בשתיקה או שנתן את הקומץ</row>
+		<row row_number="20" isdata="1">בשתיקה ואת הלבונה במחשבה רבי מאיר</row>
+		<row row_number="21" isdata="1">אומר פיגול וחייבין עליו כרת וחכמים</row>
+		<row row_number="22" isdata="1">אומרים אין בו כרת עד שיפגל בכל</row>
+		<row row_number="23" isdata="1">המתיר קתני מיהא את הקומץ בשתיקה</row>
+		<row row_number="24" isdata="1">ואת הלבונה במחשבה ופליג אימא כבר</row>
+		<row row_number="25" isdata="1">נתן את הלבונה במחשבה חדא דהיינו</row>
+		<row row_number="26" isdata="1">רישא ועוד הא תניא ואחר כך קשיא:</row>
+		<row row_number="27" isdata="1"><EndGemara/><StartMishna/>מתני' ואלו דברים שאין חייבין עליהם</row>
+		<row row_number="28" isdata="1">משום פיגול הקומץ והקטרת והלבונה</row>
+</amud>
+</daf>
+</masechet>
+</root>

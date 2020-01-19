@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:12.288007</dateCreated>
+   <lastModified>2020-01-14 15:03:12.288007</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="76">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאחזו"/><ContGemara/>ואינה מגורשת אמר אביי תרי תנאי קאמר</row>
+		<row row_number="2" isdata="1">לה אי מטינא לגליל לאלתר ליהוי גיטא ואי</row>
+		<row row_number="3" isdata="1">משתהינא באורחא תלתין יומין ולא אתינא</row>
+		<row row_number="4" isdata="1">ליהוי גיטא הגיע לאנטיפרס וחזר דלא לגליל</row>
+		<row row_number="5" isdata="1">מטא ולא אישתהויי נמי אשתהי תלתין יומין</row>
+		<row row_number="6" isdata="1">בטל תנאו: הרי זה גיטך אם לא באתי מכאן</row>
+		<row row_number="7" isdata="1">ועד שלשים יום כו': למימרא דעכו במדינת</row>
+		<row row_number="8" isdata="1">הים קיימא והא אמר רב ספרא כי הוו מיפטרי</row>
+		<row row_number="9" isdata="1">רבנן מהדדי בעכו הוו מפטרי משום דאסור</row>
+		<row row_number="10" isdata="1">לצאת מארץ לחוצה לארץ אמר אביי תרי</row>
+		<row row_number="11" isdata="1">תנאי קאמר לה אי מטינא למדינת הים</row>
+		<row row_number="12" isdata="1">לאלתר ליהוי גיטא אי משתהינא באורחא</row>
+		<row row_number="13" isdata="1">תלתין יומין ולא אתינא ליהוי גיטא הגיע</row>
+		<row row_number="14" isdata="1">לעכו וחזר דלא למדינת הים מטא ולא</row>
+		<row row_number="15" isdata="1">אישתהויי נמי אשתהי תלתין יומין בטל תנאו:</row>
+		<row row_number="16" isdata="1">ה"ז גיטך כל זמן שאעבור וכו': והא לא עבר אמר רב הונא מאי פניך תשמיש</row>
+		<row row_number="17" isdata="1">ואמאי קרי ליה פניך לישנא מעליא נקט ורבי יוחנן אמר לעולם פניך ממש</row>
+		<row row_number="18" isdata="1">מי קתני הרי זו מגורשת ה"ז גט קתני דלא הוי גט ישן ולכי מלו תלתין יומי</row>
+		<row row_number="19" isdata="1">הוי גיטא תניא כוותיה דר' יוחנן ה"ז גיטך כל זמן שאעבור מנגד פניך שלשים</row>
+		<row row_number="20" isdata="1">יום והיה הולך ובא הולך ובא הואיל ולא נתייחד עמה ה"ז גט ולגט ישן אין</row>
+		<row row_number="21" isdata="1">חוששין שהרי לא נתייחד עמה וליחוש שמא פייס אמר רבה בר רב הונא הכי</row>
+		<row row_number="22" isdata="1">אמר אבא מרי משמי' דרב באומר נאמנת עלי לומר שלא באתי איכא דמתני</row>
+		<row row_number="23" isdata="1">לה אמתניתין מעכשיו אם לא באתי מכאן ועד י"ב חדש ומת בתוך י"ב חדש</row>
+		<row row_number="24" isdata="1">ה"ז גט וליחוש שמא פייס אמר רבה בר רב הונא הכי אמר אבא מרי</row>
+		<row row_number="25" isdata="1">משמיה דרב באומר נאמנת עלי לומר שלא באתי מאן דמתני לה אמתני'</row>
+		<row row_number="26" isdata="1">כל שכן אברייתא מאן דמתני לה אברייתא אבל אמתני' הא לא אתא:</row>
+		<row row_number="27" isdata="1"><EndGemara/><StartMishna/>מתני' ה"ז גיטך אם לא באתי מכאן ועד י"ב חדש ומת בתוך י"ב</row>
+		<row row_number="28" isdata="1">חדש אינו גט ה"ז גיטך מעכשיו אם לא באתי מכאן ועד י"ב חדש ומת</row>
+		<row row_number="29" isdata="1">בתוך י"ב חדש ה"ז גט אם לא באתי מכאן ועד י"ב חדש כתבו ותנו</row>
+		<row row_number="30" isdata="1">גט לאשתי כתבו גט בתוך י"ב חדש ונתנו לאחר י"ב חדש אינו גט</row>
+		<row row_number="31" isdata="1">כתבו ותנו גט לאשתי אם לא באתי מכאן עד י"ב חדש כתבו בתוך י"ב</row>
+		<row row_number="32" isdata="1">חדש ונתנו לאחר י"ב חדש אינו גט רבי יוסי אומר כזה גט כתבו לאחר י"ב</row>
+		<row row_number="33" isdata="1">חדש ונתנו לאחר י"ב חדש ומת אם הגט קודם למיתה ה"ז גט ואם מיתה קדמה</row>
+		<row row_number="34" isdata="1">לגט אינו גט ואם אין ידוע זו היא שאמרו מגורשת ואינה מגורשת:<EndMishna/><StartGemara/>גמ' תנא</row>
+		<row row_number="35" isdata="1">רבותינו התירוה לינשא מאן רבותינו אמר רב יהודה אמר שמואל בי דינא</row>
+		<row row_number="36" isdata="1">דשרו מישחא סברי לה כרבי יוסי דאמר זמנו של שטר מוכיח עליו א"ר אבא</row>
+		<row row_number="37" isdata="1">בריה דרבי חייא בר אבא א"ר יוחנן ר' יהודה נשיאה בנו של ר"ג בר רבי הורה</row>
+		<row row_number="38" isdata="1">ולא הודו לו כל סיעתו ואמרי לה כל שעתו א"ל ר' אלעזר לההוא סבא כי</row>
+		<row row_number="39" isdata="1">שריתוה לאלתר שריתוה או לאחר שנים עשר חדש שריתוה לאלתר</row>
+		<row row_number="40" isdata="1">שריתוה דהא לא אתי או דלמא לאחר י"ב חדש שריתוה דהא איקיים</row>
+		<row row_number="41" isdata="1">ליה תנאו ותיבעי ליה מתניתין מעכשיו אם לא באתי מכאן ועד י"ב</row>
+		<row row_number="42" isdata="1">חדש ומת בתוך י"ב חדש הרי זה גט לאלתר הוי דהא לא אתי או דלמא</row>
+		<row row_number="43" isdata="1">לאחר י"ב חדש דהא איקיים ליה תנאיה אין הכי נמי ומשום דהוה בההוא</row>
+		<row row_number="44" isdata="1">מעשה אמר אביי הכל מודים היכא דאמר לכשתצא חמה מנרתיקה</row>
+</amud>
+</daf>
+</masechet>
+</root>

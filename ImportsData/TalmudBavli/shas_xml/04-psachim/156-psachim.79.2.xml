@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:29.895076</dateCreated>
+   <lastModified>2020-01-14 15:02:29.895076</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="79">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד צולין"/><ContGemara/>וטמאין אין עושין לא את הראשון ולא את</row>
+		<row row_number="2" isdata="1">השני בראשון לא עבדי דלא הוו רובא בשני</row>
+		<row row_number="3" isdata="1">לא עבדי דלא הוו מיעוטא תנן נטמא קהל</row>
+		<row row_number="4" isdata="1">או רובו או שהיו הכהנים טמאין והקהל</row>
+		<row row_number="5" isdata="1">טהורים יעשה בטומאה רובו הוא דעבדי</row>
+		<row row_number="6" isdata="1">בטומאה אבל פלגא ופלגא לא עבדי בראשון</row>
+		<row row_number="7" isdata="1">קשיא לרב אמר לך רב רובא עבדי כולהו</row>
+		<row row_number="8" isdata="1">בטומאה פלגא ופלגא הללו עושין לעצמן</row>
+		<row row_number="9" isdata="1">והללו עושין לעצמן ה"נ מסתברא דקתני</row>
+		<row row_number="10" isdata="1">סיפא נטמא מיעוט הקהל טהורין עושין את</row>
+		<row row_number="11" isdata="1">הראשון וטמאין עושין את השני מיעוט הוא</row>
+		<row row_number="12" isdata="1">דעבדי בשני אבל פלגא ופלגא לא ועבדי</row>
+		<row row_number="13" isdata="1">בראשון והללו עושין לעצמן והללו עושין</row>
+		<row row_number="14" isdata="1">לעצמן ואלא קשיא לרב כהנא אמר לך רב</row>
+		<row row_number="15" isdata="1">כהנא נטמאו מיעוט הקהל טהורין עושין את</row>
+		<row row_number="16" isdata="1">הראשון וטמאין עושין את השני הא פלגא</row>
+		<row row_number="17" isdata="1">ופלגא טהורין עושין את הראשון אבל</row>
+		<row row_number="18" isdata="1">טמאין אינן עושין לא את הראשון ולא את</row>
+		<row row_number="19" isdata="1">השני התינח ללישנא בתרא דרב כהנא אלא</row>
+		<row row_number="20" isdata="1">להך לישנא דאמר רב כהנא טהורים עושין</row>
+		<row row_number="21" isdata="1">את הראשון וטמאין עושין את השני מאי</row>
+		<row row_number="22" isdata="1">איכא למימר אמר לך רב כהנא הוא הדין</row>
+		<row row_number="23" isdata="1">דאפילו פלגא ופלגא נמי טהורין עושין את</row>
+		<row row_number="24" isdata="1">הראשון וטמאין עושין את השני והאי דקתני</row>
+		<row row_number="25" isdata="1">מיעוט הקהל איידי דתנא רישא רובו תנא</row>
+		<row row_number="26" isdata="1">נמי סיפא מיעוטו תניא כוותיה דרב תניא</row>
+		<row row_number="27" isdata="1">כוותיה דרב כהנא כתרי לישני תניא כוותיה</row>
+		<row row_number="28" isdata="1">דרב היו ישראל מחצה טהורין ומחצה</row>
+		<row row_number="29" isdata="1">טמאין הללו עושין לעצמן והללו עושין</row>
+		<row row_number="30" isdata="1">לעצמן תניא כלישנא קמא דרב כהנא הרי</row>
+		<row row_number="31" isdata="1">שהיו ישראל מחצה טהורין ומחצה טמאין</row>
+		<row row_number="32" isdata="1">טהורין עושין את הראשון וטמאין עושין</row>
+		<row row_number="33" isdata="1">את השני ותניא כלישנא בתרא דרב כהנא</row>
+		<row row_number="34" isdata="1">הרי שהיו ישראל מחצה טהורין ומחצה</row>
+		<row row_number="35" isdata="1">טמאין טהורין עושין את הראשון וטמאין</row>
+		<row row_number="36" isdata="1">אינן עושין לא את הראשון ולא את השני</row>
+		<row row_number="37" isdata="1">לרב וללישנא בתרא דרב כהנא הא דתנא טהורין עושין את הראשון וטמאין</row>
+		<row row_number="38" isdata="1">את השני היכי מתרצי לה כגון שהיו ישראל מחצה טהורין ומחצה טמאין</row>
+		<row row_number="39" isdata="1">ונשים משלימות לטמאים וקסבר נשים בראשון רשות דל נשים מטמאין והוו</row>
+		<row row_number="40" isdata="1">להו טמאין מיעוטא ומיעוטא ידחו לפסח שני לרב וללישנא קמא דרב כהנא</row>
+		<row row_number="41" isdata="1">הא דתניא טהורין עושין את הראשון וטמאין אין עושין לא את הראשון ולא</row>
+		<row row_number="42" isdata="1">את השני היכי מתרצי לה רב מתריץ לה כגון שהיו ישראל מחצה טמאין</row>
+		<row row_number="43" isdata="1">ומחצה טהורין ונשים עודפות על הטהורים וקסבר נשים בראשון חובה ובשני</row>
+		<row row_number="44" isdata="1">רשות בראשון לא עבדי דהוי ליה מיעוט ומיעוטא לא עבדי בראשון ובשני</row>
+		<row row_number="45" isdata="1">לא עבדי דל נשים מינייהו והוו להו פלגא ופלגא ופלגא לא עבדי בשני ולרב</row>
+		<row row_number="46" isdata="1">כהנא דאמר פלגא נמי עבדי בשני הכי מתריץ לה כגון שהיו ישראל מחצה</row>
+		<row row_number="47" isdata="1">טהורין ומחצה טמאין ונשים משלימות לטהורין וקסבר נשים בראשון חובה</row>
+		<row row_number="48" isdata="1">ובשני רשות בראשון לא עבדי דהוו להו פלגא ופלגא ופלגא בראשון לא עבדי</row>
+		<row row_number="49" isdata="1">בשני נמי לא עבדי דל נשים מינייהו מן הטהורין הוו להו טמאין רובא ורובא</row>
+		<row row_number="50" isdata="1">לא עבדי בשני ולרב כהנא הא דתניא הרי שהיו ישראל מחצה טהורין</row>
+		<row row_number="51" isdata="1">ומחצה טמאין הללו עושין לעצמן והללו עושין לעצמן היכי מתריץ לה אמר לך רב כהנא תנאי היא</row>
+		<row row_number="52" isdata="1">איכא למ"ד מחצה על מחצה כרוב ואיכא למ"ד מחצה על מחצה אינו כרוב גופא הרי שהיו ישראל מחצה</row>
+		<row row_number="53" isdata="1">טהורין ומחצה טמאין הללו עושין לעצמן והללו עושין לעצמן היו טמאין עודפין על הטהורין אפי' אחד יעשו</row>
+		<row row_number="54" isdata="1">בטומאה לפי שאין קרבן ציבור חלוק ר"א בן מתיא אומר אין היחיד מכריע את הציבור לטומאה שנאמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

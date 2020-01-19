@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:17.609105</dateCreated>
+   <lastModified>2020-01-14 15:04:17.609105</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="116">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContMishna/>אם יש בנותן טעם הרי זו אסורה כשרה</row>
+		<row row_number="2" isdata="1">שינקה מן הטרפה קבתה אסורה טרפה</row>
+		<row row_number="3" isdata="1">שינקה מן הכשרה קבתה מותרת מפני שכנוס</row>
+		<row row_number="4" isdata="1">במעיה:<EndMishna/><StartGemara/>גמ' אטו קבת עובד כוכבים לאו</row>
+		<row row_number="5" isdata="1">נבלה היא אמר רב הונא הכא בלוקח גדי</row>
+		<row row_number="6" isdata="1">מן העובד כוכבים עסקינן וחיישינן שמא</row>
+		<row row_number="7" isdata="1">ינק מן הטרפה ומי חיישינן שמא ינק מן</row>
+		<row row_number="8" isdata="1">הטרפה והתנן לוקחים ביצים מן העובדי</row>
+		<row row_number="9" isdata="1">כוכבים ואין חוששין לא משום נבלה ולא</row>
+		<row row_number="10" isdata="1">משום טרפה אלא אימא חיישינן שמא ינק</row>
+		<row row_number="11" isdata="1">מן הטמאה ומאי שנא טרפה דלא חיישינן</row>
+		<row row_number="12" isdata="1">ומאי שנא טמאה דחיישינן טרפה לא שכיחא</row>
+		<row row_number="13" isdata="1">טמאה שכיחא אי שכיחא אפילו גבי דידן</row>
+		<row row_number="14" isdata="1">ניחוש אנן דבדלינן מינייהו וכי חזינן להו</row>
+		<row row_number="15" isdata="1">מפרשינן להו לא גזרו בהו רבנן אינהו דלא</row>
+		<row row_number="16" isdata="1">בדילי מינייהו וכי חזו להו לא מפרשי להו</row>
+		<row row_number="17" isdata="1">גזרו בהו רבנן ושמואל אמר חדא קתני קבת</row>
+		<row row_number="18" isdata="1">שחיטת עובד כוכבים נבלה ומי אמר שמואל</row>
+		<row row_number="19" isdata="1">הכי והאמר שמואל מפני מה אסרו גבינת</row>
+		<row row_number="20" isdata="1">העובדי כוכבים מפני שמעמידין אותה בעור</row>
+		<row row_number="21" isdata="1">קבת נבלה הא קבה גופה שריא לא קשיא</row>
+		<row row_number="22" isdata="1">כאן קודם חזרה כאן לאחר חזרה: כשרה</row>
+		<row row_number="23" isdata="1">שינקה מן הטרפה [וכו']: והא קתני רישא</row>
+		<row row_number="24" isdata="1">קבת עובד כוכבים ושל נבלה הרי זו אסורה</row>
+		<row row_number="25" isdata="1">אמר רב חסדא רישא נראה כאוכל נבלות</row>
+		<row row_number="26" isdata="1">הכא איכא שחיטה א"ל רבא ולאו כל דכן הוא</row>
+		<row row_number="27" isdata="1">ומה נבלה דמאיסה דאי שרית ליה קבתה לא</row>
+		<row row_number="28" isdata="1">אתי למיכל מינה אמרת לא טרפה שחוטה</row>
+		<row row_number="29" isdata="1">דאי שרית אתי למיכל מינה לא כ"ש אלא אמר רב יצחק אמר רבי יוחנן</row>
+		<row row_number="30" isdata="1">לא קשיא כאן קודם חזרה כאן לאחר חזרה ומשנה לא זזה ממקומה</row>
+		<row row_number="31" isdata="1">אמר רבי חייא בר אבא אמר רבי יוחנן מעמידין בקבת נבלות ואין</row>
+		<row row_number="32" isdata="1">מעמידין בקבת שחיטת עובד כוכבים אמר לפניו רבי שמעון בר אבא כמאן</row>
+		<row row_number="33" isdata="1">כרבי אליעזר דאמר סתם מחשבת עובד כוכבים לעבודת כוכבים א"ל ואלא</row>
+		<row row_number="34" isdata="1">כמאן כי אתא רב שמואל בר רב יצחק אמר רבי יוחנן מעמידין בין בקבת</row>
+		<row row_number="35" isdata="1">נבלה בין בקבת שחיטת עובד כוכבים שלא לחוש לדברי רבי אליעזר</row>
+		<row row_number="36" isdata="1">והלכתא אין מעמידין בעור קבת נבלה אבל מעמידין בקבת נבלה ובקבת</row>
+		<row row_number="37" isdata="1">שחיטת עובד כוכבים (ובקבת כשרה שינקה מן הטרפה וכ"ש בקבת</row>
+		<row row_number="38" isdata="1">טרפה שינקה מן הכשרה מ"ט חלב המכונס בה פירשא בעלמא הוא):</row>
+		<row row_number="39" isdata="1"><EndGemara/><StartMishna/>מתני' חומר בחלב מבדם וחומר בדם מבחלב חומר בחלב שהחלב</row>
+</amud>
+</daf>
+</masechet>
+</root>

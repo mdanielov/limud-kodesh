@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:23.417316</dateCreated>
+   <lastModified>2020-01-14 15:02:23.417316</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="77">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>ורבי יוחנן אמר אלו מעלין מכאן ואוכלין</row>
+		<row row_number="2" isdata="1">ואלו מעלין מכאן ואוכלין תנן אלו עולין</row>
+		<row row_number="3" isdata="1">מכאן ואוכלין ואלו עולין מכאן ואוכלין</row>
+		<row row_number="4" isdata="1">עולין אין מעלין לא הכי קאמר יש בו</row>
+		<row row_number="5" isdata="1">ארבעה על ארבעה עולין אין מעלין לא</row>
+		<row row_number="6" isdata="1">אין בו ארבעה על ארבעה מעלין נמי</row>
+		<row row_number="7" isdata="1">ואזדא רבי יוחנן לטעמיה דכי אתא רב</row>
+		<row row_number="8" isdata="1">דימי אמר רבי יוחנן מקום שאין בו ארבעה</row>
+		<row row_number="9" isdata="1">על ארבעה מותר לבני רשות הרבים ולבני</row>
+		<row row_number="10" isdata="1">רשות היחיד לכתף עליו ובלבד שלא יחליפו</row>
+		<row row_number="11" isdata="1">ורב לית ליה דרב דימי אי ברשויות דאורייתא</row>
+		<row row_number="12" isdata="1">הכי נמי הכא במאי עסקינן ברשויות דרבנן</row>
+		<row row_number="13" isdata="1">וחכמים עשו חיזוק לדבריהם יותר משל</row>
+		<row row_number="14" isdata="1">תורה אמר רבה (אמר) רב הונא אמר</row>
+		<row row_number="15" isdata="1">רב נחמן כותל שבין שתי חצירות צידו</row>
+		<row row_number="16" isdata="1">אחד גבוה עשרה טפחים וצידו אחד שוה</row>
+		<row row_number="17" isdata="1">לארץ נותנין אותו לזה ששוה לארץ משום</row>
+		<row row_number="18" isdata="1">דהוה לזה תשמישו בנחת ולזה תשמישו</row>
+		<row row_number="19" isdata="1">בקשה וכל לזה בנחת ולזה בקשה נותנין</row>
+		<row row_number="20" isdata="1">אותו לזה שתשמישו בנחת אמר רב שיזבי</row>
+		<row row_number="21" isdata="1">אמר רב נחמן חריץ שבין שתי חצירות</row>
+		<row row_number="22" isdata="1">צידו אחד עמוק עשרה וצידו אחד שוה</row>
+		<row row_number="23" isdata="1">לארץ נותנין אותו לזה ששוה לארץ משום</row>
+		<row row_number="24" isdata="1">דהוה ליה לזה תשמישו בנחת ולזה תשמישו</row>
+		<row row_number="25" isdata="1">בקשה וכו' וצריכי דאי אשמעינן כותל</row>
+		<row row_number="26" isdata="1">משום דבגובהא משתמשי אינשי אבל</row>
+		<row row_number="27" isdata="1">חריץ בעומקא לא משתמשי אינשי</row>
+		<row row_number="28" isdata="1">אימא לא ואי אשמעינן בחריץ משום</row>
+		<row row_number="29" isdata="1">דלא בעיתא תשמישתא אבל כותל</row>
+		<row row_number="30" isdata="1">דבעיתא תשמישתא אימא לא צריכא</row>
+		<row row_number="31" isdata="1">בא למעטו אם יש במיעוטו ארבעה מותר</row>
+		<row row_number="32" isdata="1">להשתמש בכל הכותל כולו ואם לאו</row>
+		<row row_number="33" isdata="1">אין משתמש אלא כנגד המיעוט מה</row>
+		<row row_number="34" isdata="1">נפשך אי אהני מעוטא בכוליה כותל</row>
+		<row row_number="35" isdata="1">לישתמש אי לא אהני אפילו כנגד המיעוט</row>
+		<row row_number="36" isdata="1">נמי לא אמר רבינא כגון שעקר חוליא</row>
+		<row row_number="37" isdata="1">מראשו אמר רב יחיאל כפה ספל ממעט</row>
+		<row row_number="38" isdata="1">ואמאי דבר הניטל בשבת הוא ודבר הניטל</row>
+		<row row_number="39" isdata="1">בשבת אינו ממעט לא צריכא דחבריה</row>
+		<row row_number="40" isdata="1">בארעא וכי חבריה בארעא מאי הוי והא</row>
+		<row row_number="41" isdata="1">תניא פגה שהטמינה בתבן וחררה</row>
+		<row row_number="42" isdata="1">שהטמינה בגחלים אם מגולה מקצתה</row>
+		<row row_number="43" isdata="1">נטלת בשבת הכא במאי עסקינן דאית ליה</row>
+		<row row_number="44" isdata="1">אוגניים וכי אית ליה אוגניים מאי הוי והתנן</row>
+		<row row_number="45" isdata="1">הטומן לפת וצנון תחת הגפן בזמן</row>
+</amud>
+</daf>
+</masechet>
+</root>

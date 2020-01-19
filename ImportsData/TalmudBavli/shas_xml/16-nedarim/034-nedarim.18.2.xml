@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.717054</dateCreated>
+   <lastModified>2020-01-14 15:03:00.717054</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="18">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו מותרין"/><ContMishna/>מתני' סתם נדרים להחמיר ופירושם<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">להקל כיצד אמר הרי עלי כבשר מליח כיין</row>
+		<row row_number="3" isdata="1">נסך אם בשל (שלמים) נדר אסור אם בשל</row>
+		<row row_number="4" isdata="1">עבודת כוכבים נדר מותר ואם סתם אסור</row>
+		<row row_number="5" isdata="1">הרי עלי כחרם אם כחרם של שמים אסור</row>
+		<row row_number="6" isdata="1">ואם כחרם של כהנים מותר ואם סתם אסור</row>
+		<row row_number="7" isdata="1">הרי עלי כמעשר אם כמעשר בהמה נדר</row>
+		<row row_number="8" isdata="1">אסור ואם של גורן מותר ואם סתם אסור</row>
+		<row row_number="9" isdata="1">הרי עלי כתרומה אם כתרומת הלשכה נדר</row>
+		<row row_number="10" isdata="1">אסור ואם של גורן מותר ואם סתם אסור</row>
+		<row row_number="11" isdata="1">דברי ר' מאיר ר' יהודה אומר סתם תרומה</row>
+		<row row_number="12" isdata="1">ביהודה אסורה בגליל מותר' שאין אנשי גליל</row>
+		<row row_number="13" isdata="1">מכירין את תרומת הלשכה סתם חרמים</row>
+		<row row_number="14" isdata="1">ביהודה מותרין בגליל אסורין שאין אנשי</row>
+		<row row_number="15" isdata="1">גליל מכירין את חרמי הכהנים:<EndMishna/><StartGemara/>גמ' והתנן</row>
+		<row row_number="16" isdata="1">ספק נזירות להקל אמר ר' זירא לא קשיא</row>
+		<row row_number="17" isdata="1">הא ר' אליעזר הא רבנן דתניא המקדיש חייתו</row>
+		<row row_number="18" isdata="1">ובהמתו הקדיש את הכוי ר' אליעזר אומר</row>
+		<row row_number="19" isdata="1">לא הקדיש את הכוי מאן דאמר ממונו מעייל</row>
+		<row row_number="20" isdata="1">לספיקא גופיה נמי מעייל ומאן דאמר</row>
+		<row row_number="21" isdata="1">ממונו לא מעייל לספיקא גופיה (נמי)</row>
+</amud>
+</daf>
+</masechet>
+</root>

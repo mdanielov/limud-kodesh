@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:14.938606</dateCreated>
+   <lastModified>2020-01-14 15:02:14.938606</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="105">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הבונה"/><ContGemara/>ועלו בידו שתים חייב והתנן פטור לא קשיא</row>
+		<row row_number="2" isdata="1">הא דבעי זיוני הא דלא בעי זיוני: כתב אות</row>
+		<row row_number="3" isdata="1">אחת נוטריקון רבי יהושע בן בתירה מחייב</row>
+		<row row_number="4" isdata="1">וחכמים פוטרין: א"ר יוחנן משום ר' יוסי בן</row>
+		<row row_number="5" isdata="1">זימרא מנין ללשון נוטריקון מן התורה שנא'</row>
+		<row row_number="6" isdata="1">כי א"ב המו"ן גוים נתתיך אב נתתיך</row>
+		<row row_number="7" isdata="1">לאומות בחור נתתיך באומות המון חביב</row>
+		<row row_number="8" isdata="1">נתתיך באומות מלך נתתיך לאומות ותיק</row>
+		<row row_number="9" isdata="1">נתתיך באומות נאמן נתתיך לאומות ר'</row>
+		<row row_number="10" isdata="1">יוחנן דידיה אמר אנכי נוטריקון אנא נפשי</row>
+		<row row_number="11" isdata="1">כתיבת יהבית רבנן אמרי אמירה נעימה</row>
+		<row row_number="12" isdata="1">כתיבה יהיבה איכא דאמרי אנכי למפרע</row>
+		<row row_number="13" isdata="1">יהיבה כתיבה נאמנין אמריה דבי רבי נתן</row>
+		<row row_number="14" isdata="1">אמרי כי יר"ט הדרך לנגדי יראה ראתה</row>
+		<row row_number="15" isdata="1">נטתה דבי רבי ישמעאל תנא כרמ"ל כר</row>
+		<row row_number="16" isdata="1">מלא רב אחא בר יעקב אמר והוא קללני</row>
+		<row row_number="17" isdata="1">קללה נמרצ"ת נוטריקון נואף הוא מואבי</row>
+		<row row_number="18" isdata="1">הוא רוצח הוא צורר הוא תועבה הוא ר"נ</row>
+		<row row_number="19" isdata="1">בר יצחק אמר מה נדבר ומה נצטד"ק</row>
+		<row row_number="20" isdata="1">נכונים אנחנו צדיקים אנחנו טהורים אנחנו</row>
+		<row row_number="21" isdata="1">דכים אנחנו קדושים אנחנו<EndGemara/><StartMishna/>מתני' הכותב</row>
+		<row row_number="22" isdata="1">ב' אותיות בשתי העלמות אחת שחרית</row>
+		<row row_number="23" isdata="1">ואחת בין הערבים ר"ג מחייב וחכמים</row>
+		<row row_number="24" isdata="1">פוטרין:<EndMishna/><StartGemara/>גמ' במאי קמיפלגי ר"ג סבר</row>
+		<row row_number="25" isdata="1">אין ידיעה לחצי שיעור ורבנן סברי יש</row>
+		<row row_number="26" isdata="1">ידיעה לחצי שיעור:<EndChapter name = "הבונה"/><EndGemara/></row>
+		<row row_number="27" isdata="0">הדרן עלך הבונה</row>
+		<row row_number="28" isdata="1"><StartChapter name = "האורג"/><StartMishna/>רבי אליעזר אומר האורג שלשה חוטין</row>
+		<row row_number="29" isdata="1">בתחילה ואחת על האריג חייב וחכ"א</row>
+		<row row_number="30" isdata="1">בין בתחילה בין בסוף שיעורו ב' חוטין</row>
+		<row row_number="31" isdata="1">העושה שתי בתי נירין בנירין בקירוס</row>
+		<row row_number="32" isdata="1">בנפה בכברה ובסל חייב והתופר ב' תפירות</row>
+		<row row_number="33" isdata="1">והקורע ע"מ לתפור ב' תפירות:<EndMishna/><StartGemara/>גמ' כי</row>
+		<row row_number="34" isdata="1">אתא רבי יצחק תני שתים והאנן תנן ג' לא</row>
+		<row row_number="35" isdata="1">קשיא הא באלימי הא בקטיני אמרי לה להאי גיסא ואמרי לה להאי גיסא</row>
+		<row row_number="36" isdata="1">אמרי לה להאי גיסא אלימי תלתא לא סתרי תרי סתרי קטיני תרי נמי לא סתרי</row>
+		<row row_number="37" isdata="1">ואמרי לה להאי גיסא קטיני תלתא ידיעי תרי לא ידיעי אלימי תרי נמי ידיעי</row>
+		<row row_number="38" isdata="1">תניא האורג ג' חוטין בתחילה ואחד על האריג חייב וחכמים אומרים בין</row>
+		<row row_number="39" isdata="1">בתחילה בין בסוף שיעורן ב' חוטין ובשפה ב' חוטין ברוחב ג' בתי נירין הא</row>
+		<row row_number="40" isdata="1">למה זה דומה לאורג צלצול קטן ב' חוטין ברוחב ג' בתי נירין והאורג ג'</row>
+		<row row_number="41" isdata="1">חוטין בתחילה ואחד על האריג חייב סתמא כר"א תניא אידך האורג ב'</row>
+		<row row_number="42" isdata="1">חוטין על הגס ועל האימרא חייב ר"א אומר אפילו אחד ובשפה שני חוטין</row>
+		<row row_number="43" isdata="1">ברוחב שלשה בתי נירין חייב הא למה זה דומה לאורג צלצול קטן שני חוטין</row>
+		<row row_number="44" isdata="1">על רוחב ג' בתי נירין והאורג ב' חוטין על הגס ועל האימרא חייב סתמא</row>
+		<row row_number="45" isdata="1">כרבנן: העושה ב' בתי נירין כו': מאי [בנירין] אמר אביי תרתי בבתי נירא</row>
+		<row row_number="46" isdata="1">וחדא בנירא: בקירוס: מאי בקירוס אמר רב מצוביתא: והתופר ב' תפירות:</row>
+		<row row_number="47" isdata="1">הא תנינא באבות מלאכות והתופר ב' תפירות משום דקבעי למיתנא סיפא</row>
+		<row row_number="48" isdata="1">והקורע ע"מ לתפור ב' תפירות קתני נמי התופר והקורע הא נמי תנינא באבות</row>
+		<row row_number="49" isdata="1">מלאכות אלא משום דקבעי למיתני סיפא הקורע בחמתו ועל מתו משום הכי</row>
+		<row row_number="50" isdata="1">קתני [התופר שתי תפירות]: והקורע ע"מ לתפור שתי תפירות: היכי משכחת לה</row>
+</amud>
+</daf>
+</masechet>
+</root>

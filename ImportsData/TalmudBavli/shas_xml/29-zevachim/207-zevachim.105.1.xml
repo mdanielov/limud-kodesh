@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:02.480826</dateCreated>
+   <lastModified>2020-01-14 15:04:02.480826</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="105">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "טבול יום"/><ContGemara/>בתר רוב אבר שדינן ליה והא נפק ליה או</row>
+		<row row_number="2" isdata="1">דלמא בתר בהמה שדינן ליה תיקו רבה בר</row>
+		<row row_number="3" isdata="1">רב הונא מתני לה בגברי במתעסקין בו</row>
+		<row row_number="4" isdata="1">חמשה בני אדם ונפקו תלתא ופשו להו תרי</row>
+		<row row_number="5" isdata="1">מאי בתר רוב מתעסקין אזלינן או בתר</row>
+		<row row_number="6" isdata="1">בהמה אזלינן תיקו בעי רבי אלעזר פרים</row>
+		<row row_number="7" isdata="1">ושעירים הנשרפים שיצאו וחזרו מהו מי</row>
+		<row row_number="8" isdata="1">אמרינן כיון דנפקי להו איטמו להו או דלמא</row>
+		<row row_number="9" isdata="1">כיון דהדור הדור אמר ר' אבא בר ממל ת"ש</row>
+		<row row_number="10" isdata="1">היו סובלין אותן במוטות הראשונים יצאו</row>
+		<row row_number="11" isdata="1">חוץ לחומת העזרה והאחרונים לא יצאו</row>
+		<row row_number="12" isdata="1">הראשונים שיצאו חוץ לחומת העזרה</row>
+		<row row_number="13" isdata="1">מטמאין בגדים והאחרונים אין מטמאין</row>
+		<row row_number="14" isdata="1">בגדים עד שיצאו ואי ס"ד כיון דנפקי להו</row>
+		<row row_number="15" isdata="1">איטמו הנך דאיכא גואי ליטמא אמר</row>
+		<row row_number="16" isdata="1">רבינא ותסברא הא בעינא ואחר יבא אל</row>
+		<row row_number="17" isdata="1">המחנה וליכא אלא רבי אלעזר היכי בעי לה</row>
+		<row row_number="18" isdata="1">כגון דנקיטי לה בבקולסי ת"ר פרים ופרה</row>
+		<row row_number="19" isdata="1">ושעיר המשתלח המשלח השורפן</row>
+		<row row_number="20" isdata="1">והמוציאן מטמא בגדים והן עצמן אין</row>
+		<row row_number="21" isdata="1">מטמאין בגדים אבל מטמאין אוכלין ומשקין</row>
+		<row row_number="22" isdata="1">דברי ר"מ וחכ"א פרה ופרים מטמאין אוכלין</row>
+		<row row_number="23" isdata="1">ומשקין שעיר המשתלח אינו מטמא שהוא</row>
+		<row row_number="24" isdata="1">חי והחי אינו מטמא אוכלין ומשקין בשלמא</row>
+		<row row_number="25" isdata="1">לרבי מאיר כדתנא דבי ר' ישמעאל דתנא</row>
+		<row row_number="26" isdata="1">דבי רבי ישמעאל על כל זרע זרוע מה</row>
+		<row row_number="27" isdata="1">זרעים שאין סופן ליטמא טומאה חמורה</row>
+		<row row_number="28" isdata="1">וצריכין הכשר אף כל שאין סופן ליטמא</row>
+		<row row_number="29" isdata="1">טומאה חמורה צריכין הכשר יצתה נבלת</row>
+		<row row_number="30" isdata="1">עוף טהור שסופה ליטמא טומאה חמורה</row>
+		<row row_number="31" isdata="1">ואין צריכה הכשר אלא לרבנן אי אית להו</row>
+		<row row_number="32" isdata="1">דתנא דבי רבי ישמעאל אפילו שעיר</row>
+		<row row_number="33" isdata="1">המשתלח אי לית ליה אפי' פרה ופרים</row>
+		<row row_number="34" isdata="1">מנלן כי אתא רב דימי אמר אמרי במערבא</row>
+		<row row_number="35" isdata="1">צריכין הכשר טומאה ממקום אחר בעי רבי</row>
+		<row row_number="36" isdata="1">אלעזר פרים ושעירים הנשרפים מהו</row>
+		<row row_number="37" isdata="1">שיטמאו אוכלין ומשקין בפנים כבחוץ מחוסר</row>
+		<row row_number="38" isdata="1">יציאה כמחוסר מעשה דמי או לא בתר</row>
+		<row row_number="39" isdata="1">דבעיא הדר פשטה מחוסר יציאה כמחוסר</row>
+		<row row_number="40" isdata="1">מעשה דמי בעא מיניה רבי אבא בר שמואל</row>
+		<row row_number="41" isdata="1">מרבי חייא בר אבא נבלת עוף טהור לר' מאיר</row>
+		<row row_number="42" isdata="1">מהו שיטמא בכזית דמחתא לארעא לא</row>
+		<row row_number="43" isdata="1">תיבעי לך דנקיט בפומיה לא תיבעי לך כי תיבעי</row>
+		<row row_number="44" isdata="1">לך דנקיט ליה בידיה מחוסר קריבה כמחוסר</row>
+		<row row_number="45" isdata="1">מעשה דמי או לא (בתר דבעיא הדר פשטה)</row>
+</amud>
+</daf>
+</masechet>
+</root>

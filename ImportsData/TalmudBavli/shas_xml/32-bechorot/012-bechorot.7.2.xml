@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:19.126422</dateCreated>
+   <lastModified>2020-01-14 15:04:19.126422</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="7">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר חמורו"/><ContGemara/>הטמא והני נמי מינא דטמא הוא ואיכא דאמרי</row>
+		<row row_number="2" isdata="1">דסוסים וגמלים לא קא מיבעיא להו דלא שתו</row>
+		<row row_number="3" isdata="1">אינשי כי קמיבעיא להו דחמור דשתו אינשי</row>
+		<row row_number="4" isdata="1">ומעלו לירקונא מאי אמר להו רב ששת תניתוה</row>
+		<row row_number="5" isdata="1">היוצא מן הטמא טמא והיוצא מן הטהור טהור</row>
+		<row row_number="6" isdata="1">והני נמי מטמא קאתי מיתיבי מפני מה אמרו</row>
+		<row row_number="7" isdata="1">דבש דבורים מותר מפני שמכניסות אותו לגופן</row>
+		<row row_number="8" isdata="1">ואין ממצות אותו מגופן הוא דאמר כר'</row>
+		<row row_number="9" isdata="1">יעקב דאמר דובשא רחמנא שרייה דתניא</row>
+		<row row_number="10" isdata="1">ר' יעקב אומר אך את זה תאכלו מכל שרץ</row>
+		<row row_number="11" isdata="1">העוף זה אתה אוכל ואי אתה אוכל שרץ עוף</row>
+		<row row_number="12" isdata="1">טמא שרץ עוף טמא בהדיא כתיב אלא שרץ</row>
+		<row row_number="13" isdata="1">עוף טמא אי אתה אוכל אבל אתה אוכל מה</row>
+		<row row_number="14" isdata="1">שעוף טמא משריץ ואיזה זה זה דבש דבורים</row>
+		<row row_number="15" isdata="1">יכול אף דבש הגזין והצירעין אמרת לא ומה</row>
+		<row row_number="16" isdata="1">ראית לרבות דבורים ולהוציא הגזין והצירעין</row>
+		<row row_number="17" isdata="1">מרבה אני דבש דבורים שאין לו שם לווי</row>
+		<row row_number="18" isdata="1">ומוציא אני דבש הגזין והצירעין שיש לו שם</row>
+		<row row_number="19" isdata="1">לווי כמאן אזלא הא דתניא דבש הגזין</row>
+		<row row_number="20" isdata="1">והצירעין טהור ומותר באכילה דלא כרבי</row>
+		<row row_number="21" isdata="1">יעקב טהור אלמא בעי מחשבה תניא נמי</row>
+		<row row_number="22" isdata="1">הכי דבש בכוורתו מטמא טומאת אוכלין</row>
+		<row row_number="23" isdata="1">שלא במחשבה חלי דיחמורתא סבור</row>
+		<row row_number="24" isdata="1">רבנן למימר ביעי נינהו ואסירן אמר רב</row>
+		<row row_number="25" isdata="1">ספרא זרעא דאילא הוא דאזיל בתר אילתא</row>
+		<row row_number="26" isdata="1">ואיידי דרחמה צר לא מזדקקא ואזיל בתר</row>
+		<row row_number="27" isdata="1">יחמורתא ונתרי אמר רב הונא עור הבא כנגד</row>
+		<row row_number="28" isdata="1">פניו של חמור מותר מ"ט פירשא בעלמא הוא</row>
+		<row row_number="29" isdata="1">א"ל רב חסדא תניא דמסייע לך עור הבא</row>
+		<row row_number="30" isdata="1">כנגד פניו של אדם בין חי בין מת טהור מאי</row>
+		<row row_number="31" isdata="1">לאו בין הוא חי ואמו חיה בין הוא מת ואמו</row>
+		<row row_number="32" isdata="1">מתה לא בין הוא חי ואמו מתה בין הוא מת</row>
+		<row row_number="33" isdata="1">ואמו חיה והתניא בין הוא חי ואמו חיה בין</row>
+		<row row_number="34" isdata="1">הוא מת ואמו מתה אי תניא תניא<EndGemara/><StartMishna/>מתני'</row>
+		<row row_number="35" isdata="1">דג טמא שבלע דג טהור מותר באכילה</row>
+		<row row_number="36" isdata="1">וטהור שבלע דג טמא אסור באכילה לפי</row>
+		<row row_number="37" isdata="1">שאינו גידולו:<EndMishna/><StartGemara/>גמ' טעמא דחזיניה דבלע הא</row>
+		<row row_number="38" isdata="1">לא חזיניה דבלע אמרי אשרוצי אשריץ</row>
+		<row row_number="39" isdata="1">מנלן דתניא דג טמא משריץ דג טהור</row>
+		<row row_number="40" isdata="1">מטיל ביצים אי הכי כי חזינא דבלע אמרי' האי</row>
+		<row row_number="41" isdata="1">איעכלא והאי אשרוצי אשריץ אמר רב ששת</row>
+		<row row_number="42" isdata="1">כגון שמצאו דרך הריעי רב פפא אמר כגון</row>
+		<row row_number="43" isdata="1">שמצאו דרך בית הבליעה רב נחמן אמר</row>
+		<row row_number="44" isdata="1">כגון שמצאו שלם רב אשי אמר רוב דגים</row>
+		<row row_number="45" isdata="1">במינן משריצין וכמי שבלע לפנינו דמי: ת"ר</row>
+		<row row_number="46" isdata="1">דג טמא משריץ דג טהור מטיל ביצים כל</row>
+		<row row_number="47" isdata="1">המוליד מניק וכל המטיל ביצים מלקט חוץ</row>
+		<row row_number="48" isdata="1">מעטלף שאף על פי שמטיל ביצים מניק</row>
+</amud>
+</daf>
+</masechet>
+</root>

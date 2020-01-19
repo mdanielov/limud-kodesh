@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:54.780334</dateCreated>
+   <lastModified>2020-01-14 15:03:54.780334</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="9">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים"/><ContGemara/>דוחין קדשים הנאכלים אצל קדשים הנאכלין</row>
+		<row row_number="2" isdata="1">ואין דוחין קדשים הנאכלין אצל קדשים שאינן</row>
+		<row row_number="3" isdata="1">נאכלין אטו חטאת ואשם מי לא מיתאכלי</row>
+		<row row_number="4" isdata="1">אלא דוחין קדשים הנאכלין לכל אדם אצל</row>
+		<row row_number="5" isdata="1">קדשים הנאכלין לכל אדם ואין דוחין קדשים</row>
+		<row row_number="6" isdata="1">הנאכלין לכל אדם אצל קדשים שאין נאכלין</row>
+		<row row_number="7" isdata="1">לכל אדם רבי יוסי ברבי אבין אמר דוחין</row>
+		<row row_number="8" isdata="1">קדשים קלים אצל קדשים קלים ואין דוחין</row>
+		<row row_number="9" isdata="1">קדשים קלים אצל קדשי קדשים מתקיף לה</row>
+		<row row_number="10" isdata="1">רב יצחק ברבי סבריו אימא שחטיה לשם</row>
+		<row row_number="11" isdata="1">מעשר ליהוי מעשר למאי הילכתא דלא ליבעי</row>
+		<row row_number="12" isdata="1">נסכים ולמלקא עליה (בלא ימכר) בלא</row>
+		<row row_number="13" isdata="1">יגאל אמר קרא העשירי יהיה קודש זה</row>
+		<row row_number="14" isdata="1">מעשר ואין אחר מעשר אימא שחטיה לשם</row>
+		<row row_number="15" isdata="1">בכור ליהוי כבכור למאי הילכתא דלא ליבעי</row>
+		<row row_number="16" isdata="1">נסכים אי נמי דליתביה לכהנים בכור נמי</row>
+		<row row_number="17" isdata="1">עברה עברה ממעשר גמר ואימא שחטיה</row>
+		<row row_number="18" isdata="1">לשם תמורה ליהוי תמורה למאי הילכתא</row>
+		<row row_number="19" isdata="1">למלקא עליה אי נמי למיקם עליה בלא</row>
+		<row row_number="20" isdata="1">ימכר ולא יגאל אמר מר זוטרא בריה דרב</row>
+		<row row_number="21" isdata="1">נחמן אמר קרא והיה הוא ותמורתו זו תמורה</row>
+		<row row_number="22" isdata="1">ואין אחר תמורה ואימא שחטיה לשם תודה</row>
+		<row row_number="23" isdata="1">ליהוי כי תודה למאי הילכתא להטעינו לחם</row>
+		<row row_number="24" isdata="1">מי איכא מידי דפסח גופיה לא בעי לחם</row>
+		<row row_number="25" isdata="1">ומותרו בעי לחם אי הכי השתא נמי מי</row>
+		<row row_number="26" isdata="1">איכא מידי דפסח גופיה לא בעי נסכים</row>
+		<row row_number="27" isdata="1">ומותרו בעי נסכים אנן הכי קאמרינן מי איכא</row>
+		<row row_number="28" isdata="1">מידי דמותר תודה עצמה לא בעי לחם</row>
+		<row row_number="29" isdata="1">ואילו מותר דאתיא להו מעלמא בעיא</row>
+		<row row_number="30" isdata="1">לחם מתקיף לה רב [יימר] בריה דרב</row>
+		<row row_number="31" isdata="1">הילל וממאי דבמותר פסח כתיב דילמא</row>
+		<row row_number="32" isdata="1">במותר אשם כתיב אמר רבא אמר קרא ואם</row>
+		<row row_number="33" isdata="1">מן הצאן קרבנו לזבח שלמים דבר השוה</row>
+		<row row_number="34" isdata="1">בכל הצאן מתקיף לה ר' אבין בר חייא</row>
+		<row row_number="35" isdata="1">ואיתימא ר' אבין בר כהנא בכל אתר את</row>
+		<row row_number="36" isdata="1">אמרת מן להוציא וכאן מן לרבות אמר ר'</row>
+		<row row_number="37" isdata="1">מני הכא נמי מן להוציא דלא אתי בן שתי</row>
+		<row row_number="38" isdata="1">שנים ולא אתי בנקיבה מתקיף לה רב</row>
+		<row row_number="39" isdata="1">חנא בגדתאה ומי מצית אמרת דכי כתיב</row>
+		<row row_number="40" isdata="1">האי במותר פסח כתיב והא מדכתיב אם</row>
+		<row row_number="41" isdata="1">כשב אם עז מכלל דלאו במותר פסח</row>
+		<row row_number="42" isdata="1">כתיב ההוא מיבעי ליה לכדתניא כבש</row>
+		<row row_number="43" isdata="1">לרבות את הפסח לאליה כשהוא אומר אם</row>
+		<row row_number="44" isdata="1">כבש לרבות פסח שעיברה שנתה ושלמים</row>
+		<row row_number="45" isdata="1">הבאים מחמת פסח לכל מצות שלמים שיטענו</row>
+		<row row_number="46" isdata="1">סמיכה ונסכים ותנופת חזה ושוק כשהוא</row>
+		<row row_number="47" isdata="1">אומר אם עז הפסיק הענין לימד על העז</row>
+		<row row_number="48" isdata="1">שאינה טעונה אליה והא מהכא נפקא מדאבוה</row>
+		<row row_number="49" isdata="1">דשמואל נפקא דאמר אבוה דשמואל ואם</row>
+		<row row_number="50" isdata="1">מן הצאן קרבנו לזבח שלמים דבר הבא מן</row>
+		<row row_number="51" isdata="1">הצאן יהא לזבח שלמים ואכתי מדרב נחמן</row>
+		<row row_number="52" isdata="1">אמר רבה בר אבוה נפקא דאמר רב נחמן</row>
+		<row row_number="53" isdata="1">אמר רבה בר אבוה מנין למותר פסח שקרב</row>
+		<row row_number="54" isdata="1">שלמים שנאמר וזבחת פסח לה' אלהיך</row>
+		<row row_number="55" isdata="1">צאן ובקר והלא אין פסח בא אלא מן</row>
+		<row row_number="56" isdata="1">הכבשים ומן העזים אלא מכאן למותר הפסח</row>
+		<row row_number="57" isdata="1">שיהא לדבר הבא מן הצאן ומן הבקר ומאי</row>
+		<row row_number="58" isdata="1">ניהו שלמים אלא תלתא קראי כתיבי</row>
+</amud>
+</daf>
+</masechet>
+</root>

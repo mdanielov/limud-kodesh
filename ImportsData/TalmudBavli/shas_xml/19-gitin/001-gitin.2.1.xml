@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:08.171547</dateCreated>
+   <lastModified>2020-01-14 15:03:08.171547</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "המביא קמא"/><StartMishna/><ContChapter name = "המביא קמא"/><ContMishna/>המביא</row>
+		<row row_number="2" isdata="1">גט ממדינת הים צריך שיאמר בפני נכתב</row>
+		<row row_number="3" isdata="1">ובפני נחתם רבן גמליאל אומר אף המביא מן</row>
+		<row row_number="4" isdata="1">הרקם ומן החגר ר' אליעזר אומר אפילו מכפר</row>
+		<row row_number="5" isdata="1">לודים ללוד וחכ"א אינו צריך שיאמר בפני</row>
+		<row row_number="6" isdata="1">נכתב ובפני נחתם אלא המביא ממדינת הים</row>
+		<row row_number="7" isdata="1">והמוליך והמביא ממדינה למדינה במדינת</row>
+		<row row_number="8" isdata="1">הים צריך שיאמר בפני נכתב ובפני נחתם</row>
+		<row row_number="9" isdata="1">רשב"ג אומר אפילו מהגמוניא להגמוניא ר'</row>
+		<row row_number="10" isdata="1">יהודה אומר מרקם למזרח ורקם כמזרח</row>
+		<row row_number="11" isdata="1">מאשקלון לדרום ואשקלון כדרום מעכו לצפון</row>
+		<row row_number="12" isdata="1">ועכו כצפון ר"מ אומר עכו כארץ ישראל</row>
+		<row row_number="13" isdata="1">לגיטין המביא גט בארץ ישראל אינו צריך</row>
+		<row row_number="14" isdata="1">שיאמר בפני נכתב ובפני נחתם ואם יש עליו</row>
+		<row row_number="15" isdata="1">עוררים יתקיים בחותמיו:<EndMishna/><StartGemara/>גמ' מ"ט רבה אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

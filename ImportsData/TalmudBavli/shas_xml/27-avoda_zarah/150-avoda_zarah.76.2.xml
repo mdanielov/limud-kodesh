@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:53.978094</dateCreated>
+   <lastModified>2020-01-14 15:03:53.978094</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="76">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השוכר את הפועל"/><ContGemara/>גדנפא דלישא אפומא ומליוה מיא וארתחה</row>
+		<row row_number="2" isdata="1">אמר רבא מאן חכים למעבד כי הא מילתא</row>
+		<row row_number="3" isdata="1">אי לאו רב עקביה דגברא רבא הוא קסבר</row>
+		<row row_number="4" isdata="1">כבולעו כך פולטו מה בולעו בנצוצות אף</row>
+		<row row_number="5" isdata="1">פולטו בנצוצות: הסכין שפה והיא טהורה:</row>
+		<row row_number="6" isdata="1">אמר רב עוקבא בר חמא ונועצה עשרה</row>
+		<row row_number="7" isdata="1">פעמים בקרקע אמר רב הונא בריה דרב</row>
+		<row row_number="8" isdata="1">יהושע ובקרקע שאינה עבודה א"ר כהנא</row>
+		<row row_number="9" isdata="1">ובסכין יפה שאין בה גומות תניא נמי הכי</row>
+		<row row_number="10" isdata="1">סכין יפה שאין בה גומות נועצה עשרה</row>
+		<row row_number="11" isdata="1">פעמים בקרקע אמר רב הונא בריה דרב</row>
+		<row row_number="12" isdata="1">יהושע לאכול בה צונן כי הא דמר יהודה</row>
+		<row row_number="13" isdata="1">ובאטי בר טובי הוו יתבי קמיה דשבור מלכא</row>
+		<row row_number="14" isdata="1">אייתו לקמייהו אתרוגא פסק אכל פסק והב</row>
+		<row row_number="15" isdata="1">ליה לבאטי בר טובי הדר דצה עשרה זימני</row>
+		<row row_number="16" isdata="1">בארעא פסק הב ליה למר יהודה א"ל באטי</row>
+		<row row_number="17" isdata="1">בר טובי וההוא גברא לאו בר ישראל</row>
+		<row row_number="18" isdata="1">הוא א"ל מר קים לי בגויה ומר לא קים</row>
+		<row row_number="19" isdata="1">לי בגויה איכא דאמרי א"ל אידכר מאי</row>
+		<row row_number="20" isdata="1">עבדת באורתא:<EndChapter name = "השוכר את הפועל"/><EndGemara/></row>
+		<row row_number="21" isdata="0">הדרן עלך השוכר את הפועל</row>
+		<row row_number="22" isdata="0">וסליקא לה מסכת עבודה זרה</row>
+</amud>
+</daf>
+</masechet>
+</root>

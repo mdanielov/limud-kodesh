@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:15.642103</dateCreated>
+   <lastModified>2020-01-14 15:03:15.642103</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="56">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContGemara/>כשברח וטעמא דברח הא לא ברח קנסינן</row>
+		<row row_number="2" isdata="1">למוכר ונקנסיה ללוקח לאו עכברא גנב אלא</row>
+		<row row_number="3" isdata="1">חורא גנב ואי לא עכברא חורא מאי</row>
+		<row row_number="4" isdata="1">קעביד מסתברא כל היכא דאיכא איסורא</row>
+		<row row_number="5" isdata="1">התם קנסינן<EndGemara/><StartMishna/>מתני' המקדש בערלה</row>
+		<row row_number="6" isdata="1">בכלאי הכרם בשור הנסקל ובעגלה ערופה</row>
+		<row row_number="7" isdata="1">בצפורי מצורע ובשער נזיר ופטר חמור ובשר</row>
+		<row row_number="8" isdata="1">בחלב וחולין שנשחטו בעזרה אינה מקודשת</row>
+		<row row_number="9" isdata="1">מכרן וקידש בדמיהן מקודשת:<EndMishna/><StartGemara/>גמ' בערלה</row>
+		<row row_number="10" isdata="1">מנלן דתניא ערלים לא יאכל אין לי אלא</row>
+		<row row_number="11" isdata="1">איסור אכילה הנאה מנין שלא יהנה ממנו</row>
+		<row row_number="12" isdata="1">ולא יצבע בו ולא ידליק בו את הנר ת"ל</row>
+		<row row_number="13" isdata="1">וערלתם (את) ערלתו לרבות את כולם:</row>
+		<row row_number="14" isdata="1">בכלאי הכרם: מנלן אמר חזקיה אמר קרא</row>
+		<row row_number="15" isdata="1">פן תקדש פן תוקד אש רב אשי אמר פן יהיה</row>
+		<row row_number="16" isdata="1">קדש אי מה קדש תופס את דמיו ויוצא לחולין</row>
+		<row row_number="17" isdata="1">אף כלאי הכרם תופס את דמיו ויוצא לחולין</row>
+		<row row_number="18" isdata="1">אלא מחוורתא כדחזקיה: שור הנסקל מנין</row>
+		<row row_number="19" isdata="1">דתניא ממשמע שנאמר סקול יסקל השור</row>
+		<row row_number="20" isdata="1">איני יודע שנבילה היא ונבילה אסורה</row>
+		<row row_number="21" isdata="1">באכילה מה ת"ל לא יאכל את בשרו מגיד</row>
+		<row row_number="22" isdata="1">לך שאם שחטו לאחר שנגמר דינו אסור</row>
+		<row row_number="23" isdata="1">באכילה בהנאה מנין ת"ל ובעל השור נקי</row>
+		<row row_number="24" isdata="1">מאי משמע שמעון בן זומא אומר כאדם</row>
+		<row row_number="25" isdata="1">שאומר לחבירו יצא פלוני נקי מנכסיו ואין לו</row>
+		<row row_number="26" isdata="1">בהם הנאה של כלום ממאי דהאי לא יאכל</row>
+		<row row_number="27" isdata="1">את בשרו להיכא דשחיט לאחר שנגמר דינו</row>
+		<row row_number="28" isdata="1">הוא דאתא דילמא היכא דשחיט לאחר</row>
+		<row row_number="29" isdata="1">שנגמר דינו שרי והא לא יאכל היכא</row>
+		<row row_number="30" isdata="1">דסקליה מיסקל הוא דאתא וכדר' אבהו א"ר</row>
+		<row row_number="31" isdata="1">אלעזר דא"ר אבהו א"ר אלעזר כל מקום</row>
+		<row row_number="32" isdata="1">שנאמר לא יאכל לא תאכל ולא תאכלו אחד</row>
+		<row row_number="33" isdata="1">איסור אכילה ואחד איסור הנאה עד</row>
+		<row row_number="34" isdata="1">שיפרט לך הכתוב כדרך שפרט לך בנבילה</row>
+		<row row_number="35" isdata="1">הני מילי היכא דנפקא לן איסור אכילה מלא</row>
+		<row row_number="36" isdata="1">יאכל הכא איסור אכילה מסקול יסקל נפקא</row>
+		<row row_number="37" isdata="1">דאי ס"ד לאיסור הנאה הוא דכתיב נכתוב</row>
+		<row row_number="38" isdata="1">קרא לא יהנה אי נמי לא יאכל את בשרו</row>
+		<row row_number="39" isdata="1">למה לי אע"ג דשחטיה כעין בשר אסור</row>
+		<row row_number="40" isdata="1">מתקיף לה מר זוטרא ואימא ה"מ היכא דבדק</row>
+		<row row_number="41" isdata="1">צור ושחט בה דמיחזי כסקילה אבל שחטיה</row>
+		<row row_number="42" isdata="1">בסכין לא מידי סכין באורייתא כתיב ועוד</row>
+		<row row_number="43" isdata="1">תניא בכל שוחטין בין בצור בין בזכוכית</row>
+		<row row_number="44" isdata="1">בין בקרומית של קנה והשתא דנפקא לן</row>
+		<row row_number="45" isdata="1">איסור אכילה ואיסור הנאה תרוייהו מלא</row>
+		<row row_number="46" isdata="1">יאכל האי בעל השור נקי למאי אתא להנאת</row>
+		<row row_number="47" isdata="1">עורו סלקא דעתך אמינא לא יאכל את</row>
+		<row row_number="48" isdata="1">בשרו כתיב בשרו אסור ועורו מותר ולהנך</row>
+		<row row_number="49" isdata="1">תנאי דמפקי ליה האי בעל השור נקי לחצי</row>
+		<row row_number="50" isdata="1">כופר ולדמי ולדות הנאת עורו מנא</row>
+		<row row_number="51" isdata="1">להו מאת בשרו את הטפל לבשרו ואידך</row>
+</amud>
+</daf>
+</masechet>
+</root>

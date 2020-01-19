@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:06.056363</dateCreated>
+   <lastModified>2020-01-14 15:03:06.056363</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="60">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שני נזירים"/><ContGemara/>גמ' תנא בד"א בנזירות מועטת אבל<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">בנזירות בת שנה אוכל בקדשים לאחר שתי</row>
+		<row row_number="3" isdata="1">שנים ושותה יין ומיטמא למתים לאחר ארבע</row>
+		<row row_number="4" isdata="1">שנים ותני עלה ומגלח ארבע תגלחיות</row>
+		<row row_number="5" isdata="1">תגלחת ראשונה מביא צפורים וחטאת העוף</row>
+		<row row_number="6" isdata="1">ועולת בהמה שניה מביא חטאת העוף</row>
+		<row row_number="7" isdata="1">ועולת בהמה שלישית מביא חטאת העוף</row>
+		<row row_number="8" isdata="1">ועולת בהמה רביעית מביא קרבן טהרה:</row>
+		<row row_number="9" isdata="1">אמרת תגלחת ראשון מביא וכו' ממה נפשך</row>
+		<row row_number="10" isdata="1">שפיר קמייתי דאי ודאי מצורע הוא ולאו טמא</row>
+		<row row_number="11" isdata="1">הוא ציפורין חובתו וחטאת העוף ספק אזלא</row>
+		<row row_number="12" isdata="1">לקבורה ועולה הויא נדבה ולגלחו תוך שבעה</row>
+		<row row_number="13" isdata="1">אי אפשר דדילמא לאו מוחלט הוא ורחמנא</row>
+		<row row_number="14" isdata="1">אמר תער לא יעבור על ראשו עד מלאת</row>
+		<row row_number="15" isdata="1">ואי לאו מצורע ודאי הוי והוא טמא חטאת</row>
+		<row row_number="16" isdata="1">העוף חובתו וציפורין אבראי קא מתעבדין</row>
+		<row row_number="17" isdata="1">ולא הוי חולין בעזרה ועולת בהמה הויא נדבה</row>
+		<row row_number="18" isdata="1">ואי לאו מצורע הוא ולאו טמא הוא ציפורין</row>
+		<row row_number="19" isdata="1">אבראי קא מתעבדין חטאת העוף לקבורה</row>
+		<row row_number="20" isdata="1">עולת בהמה הויא חובתו והא בעי אשם</row>
+		<row row_number="21" isdata="1">רבי שמעון היא דאמר מייתי ומתני</row>
+		<row row_number="22" isdata="1">תגלחת שניה ושלישית ציפורין לא צריך דהא</row>
+		<row row_number="23" isdata="1">עביד מאי איכא דילמא ודאי מוחלט הוא</row>
+		<row row_number="24" isdata="1">חדא לספק ספרו וחדא לספק טומאתו</row>
+		<row row_number="25" isdata="1">תגלחת רביעית מביא קרבן טהרה ומתני</row>
+</amud>
+</daf>
+</masechet>
+</root>

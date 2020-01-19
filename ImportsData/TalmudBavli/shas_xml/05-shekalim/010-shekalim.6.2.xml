@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:34.221985</dateCreated>
+   <lastModified>2020-01-14 15:02:34.221985</lastModified>
+ </meta>
+ <masechet name="שקלים" serial="05">
+<daf value="6">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מצרפין שקלים"/><ContMishna/>הלכה ד מתני' מותר א) שקלים חולין מותר</row>
+		<row row_number="2" isdata="1">עשירית האיפה מותר קני</row>
+		<row row_number="3" isdata="1">זבין קני זבות וקני יולדות חטאות ואשמות מותרן</row>
+		<row row_number="4" isdata="1">נדבה זה הכלל כל שהוא בא לשם חטאת ומשום</row>
+		<row row_number="5" isdata="1">אשמה מותרן נדבה מותר עולה לעולה מותר</row>
+		<row row_number="6" isdata="1">מנחה למנחה מותר שלמים לשלמים מותר הפסח</row>
+		<row row_number="7" isdata="1">לשלמים מותר נזירים לנזירים מותר נזיר לנדבה:</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' א"ר ב) יוסי עד דאנא תמן שמעית קל רב יהודה</row>
+		<row row_number="9" isdata="1">שאל לשמואל הפריש שקלו ומת א"ל יפלו לנדבה</row>
+		<row row_number="10" isdata="1">מותר ג) עשירית האיפה שלו רבי יוחנן אמר</row>
+		<row row_number="11" isdata="1">יוליכם לים המלח רבי לעזר אמר יפלו לנדבה</row>
+		<row row_number="12" isdata="1">מתניתא פליגא על רבי יוחנן מותר שקלים חולין</row>
+		<row row_number="13" isdata="1">מותר עשירית האיפה מותר קני זבים וקני זבות</row>
+		<row row_number="14" isdata="1">מותר קני יולדות חטאות ואשמות מותרן נדבה</row>
+		<row row_number="15" isdata="1">מה עבד לה רבי יוחנן פתר לה מותר עשירית</row>
+		<row row_number="16" isdata="1">האיפה של מנחת חוטא של כל ישראל רבי ד)</row>
+		<row row_number="17" isdata="1">יוסי (יוחנן) אמר על דא עליל אבא בר בא דאינון</row>
+		<row row_number="18" isdata="1">אמרין מנין שהפסח משתנה לשם שלמים תלמוד</row>
+		<row row_number="19" isdata="1">לומר ואם מן הצאן קרבנו לזבח שלמים כל שהוא</row>
+		<row row_number="20" isdata="1">מן הצאן בא שלמים היתיבון הרי עולה מן הצאן</row>
+		<row row_number="21" isdata="1">דבר שאינו בא אלא מן הצאן יצאת עולה שהיא</row>
+		<row row_number="22" isdata="1">באה אפי' מן הבקר היתיבון הרי אשם א"ר (ביבא)</row>
+		<row row_number="23" isdata="1">בון בר כהנא מן הצאן דבר שהוא בא מכל הצאן</row>
+		<row row_number="24" isdata="1">יצא אשם שאינו בא אלא מן האילים בלבד</row>
+		<row row_number="25" isdata="1">(התיב ר' בון) בכל אתר את אמר מן למעט וכאן</row>
+		<row row_number="26" isdata="1">את מר מן לרבות א"ר מנא (אבין) הכי נמי מן</row>
+		<row row_number="27" isdata="1">למעט מיעוט שאינו בא בן שתי שנים מיעוט</row>
+		<row row_number="28" isdata="1">שאינו בא נקיבה וגבי אשם נמי מן למעט הוא</row>
+		<row row_number="29" isdata="1">שאינו בא אלא מן האילים בלבד היתיבון והכתיב</row>
+		<row row_number="30" isdata="1">ואם מן הצאן קרבנו (ב) מן הכבשים או מן העזים</row>
+		<row row_number="31" isdata="1">לעולה מעתה מותר הפסח בא עולה אמר רבי אבון</row>
+		<row row_number="32" isdata="1">משנין דבר שהוא לאכילה לדבר שהוא לאכילה</row>
+		<row row_number="33" isdata="1">ואין משנין דבר שהוא לאכילה לדבר שאינו לאכילה</row>
+		<row row_number="34" isdata="1">א"ר יוסי בר רבי בון משנין קדשים קלים לשם</row>
+		<row row_number="35" isdata="1">קדשים קלים ואין משנין קדשים קלים לשם קדשי</row>
+		<row row_number="36" isdata="1">קדשי' רבי יוחנן אמר על דא עליל רבי חנינא דאינון</row>
+		<row row_number="37" isdata="1">אמרין אין הפסח משתנה לשם שלמים אא"כ שחטו</row>
+		<row row_number="38" isdata="1">לשם שלמים ואני אומר אפילו שחטו לשם עולה</row>
+		<row row_number="39" isdata="1">א"ר ה) אילא טעמא דרבי יוחנן אם מן הצאן קרבנו</row>
+		<row row_number="40" isdata="1">לזבח שלמים כל שהוא זבח בא שלמים ומשתנה</row>
+		<row row_number="41" isdata="1">למחשבת פסול היך עבידא שחטה לשם עולה על</row>
+		<row row_number="42" isdata="1">מנת לזרוק דמה למחר מכל מקום פסול הוא</row>
+		<row row_number="43" isdata="1">אין תימר משתנה למחשבת פסול פיגול אין</row>
+		<row row_number="44" isdata="1">תימר אין משתנה למחשבת פסול פיגול (פסול):</row>
+		<row row_number="45" isdata="1">לשמו ו) ושלא לשמו בשאר ימות השנה</row>
+		<row row_number="46" isdata="1">(ד) רבי בון בר (בשם) חייא בשם שמואל בר אבא</row>
+		<row row_number="47" isdata="1">מכיון שאין לו שם נעשו כשוחטו לשמו ושלא</row>
+		<row row_number="48" isdata="1">לשמו בשתיקה והוא (ה) כשר א"ל א"כ הוא אפילו</row>
+		<row row_number="49" isdata="1">שחטו לשמו ע"מ לזרוק דמו שלא לשמו יעשה משעה</row>
+		<row row_number="50" isdata="1">הראשונה כשוחטו לשמו ושלא לשמו בשתיקה</row>
+		<row row_number="51" isdata="1">ויהא כשר אמר רבי אבא מרי (אחוה דרבי יוסי)</row>
+		<row row_number="52" isdata="1">(מאן אמר) מה נאמר בשתיקה כשר או נאמר</row>
+		<row row_number="53" isdata="1">בשתיקה פסול: מותר נזיר לנדבה רב ז) חסדא</row>
+</amud>
+</daf>
+</masechet>
+</root>

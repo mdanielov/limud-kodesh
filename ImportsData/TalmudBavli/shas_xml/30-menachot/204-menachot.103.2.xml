@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:09.442277</dateCreated>
+   <lastModified>2020-01-14 15:04:09.442277</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="103">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המנחות והנסכים"/><ContGemara/>אמר זעירי לא שנו אלא דאמר מנחה אבל</row>
+		<row row_number="2" isdata="1">לא אמר מנחה לא יתיב רב נחמן וקאמר לה</row>
+		<row row_number="3" isdata="1">להא שמעתא איתיביה רבא לרב נחמן קמח</row>
+		<row row_number="4" isdata="1">יביא סולת לאו דלא אמר מנחה לא דאמר</row>
+		<row row_number="5" isdata="1">מנחה בלא שמן ולבונה יביא שמן ולבונה</row>
+		<row row_number="6" isdata="1">מאי לאו דלא אמר מנחה לא דאמר מנחה</row>
+		<row row_number="7" isdata="1">חצי עשרון יביא עשרון שלם מאי לאו דלא</row>
+		<row row_number="8" isdata="1">אמר מנחה לא דאמר מנחה אי הכי אימא</row>
+		<row row_number="9" isdata="1">סיפא עשרון ומחצה יביא שנים כיון דאמר</row>
+		<row row_number="10" isdata="1">מנחה איחייב ליה בעשרון כי אמר חצי עשרון</row>
+		<row row_number="11" isdata="1">לא כלום קאמר הוא לא צריכא דאמר הרי</row>
+		<row row_number="12" isdata="1">עלי מנחה חצי עשרון ועשרון דכיון דאמר</row>
+		<row row_number="13" isdata="1">מנחה איחייב ליה בעשרון כי אמר חצי עשרון</row>
+		<row row_number="14" isdata="1">ולא כלום קאמר כי הדר אמר עשרון מייתי</row>
+		<row row_number="15" isdata="1">עשרון אחרינא אי הכי רבי שמעון פוטר שלא</row>
+		<row row_number="16" isdata="1">התנדב כדרך המתנדבין אמאי אמר רבא ר'</row>
+		<row row_number="17" isdata="1">שמעון בשיטת ר' יוסי אמרה דאמר [אף]</row>
+		<row row_number="18" isdata="1">בגמר דבריו אדם מתפיס<EndGemara/><StartMishna/>מתני' מתנדב</row>
+		<row row_number="19" isdata="1">אדם מנחה של ששים עשרון ומביא בכלי</row>
+		<row row_number="20" isdata="1">אחד (אם אמר הרי עלי ששים עשרון מביא</row>
+		<row row_number="21" isdata="1">בכלי אחד) אם אמר הרי עלי ס"א מביא</row>
+		<row row_number="22" isdata="1">ששים בכלי אחד ואחד בכלי אחד שכן</row>
+		<row row_number="23" isdata="1">הציבור מביא ביום טוב הראשון של חג</row>
+		<row row_number="24" isdata="1">שחל להיות בשבת ששים ואחד דיו ליחיד</row>
+		<row row_number="25" isdata="1">שהוא פחות מן הציבור אחד אמר ר"ש והלא</row>
+		<row row_number="26" isdata="1">אלו לפרים ואלו לכבשים ואינם נבללים זה</row>
+		<row row_number="27" isdata="1">עם זה אלא עד ששים יכולין ליבלל אמרו לו</row>
+		<row row_number="28" isdata="1">ששים נבללין וששים ואחד אין נבללין אמר</row>
+		<row row_number="29" isdata="1">להם כל מדות חכמים כן בארבעים סאה הוא</row>
+		<row row_number="30" isdata="1">טובל ובארבעים סאה חסר קרטוב אינו יכול</row>
+		<row row_number="31" isdata="1">לטבול בהן:<EndMishna/><StartGemara/>גמ' שאיל שאילה למעלה</row>
+		<row row_number="32" isdata="1">מרבי יהודה בר אילעאי מנין לאומר הרי עלי</row>
+		<row row_number="33" isdata="1">ששים ואחד מביא ששים בכלי אחד ואחד</row>
+		<row row_number="34" isdata="1">בכלי אחד פתח רבי יהודה בר אילעאי ראש</row>
+		<row row_number="35" isdata="1">המדברים בכל מקום ואמר שכן מצינו ציבור</row>
+		<row row_number="36" isdata="1">מביאין ביום טוב הראשון של חג שחל להיות בשבת ששים ואחד דיו ליחיד</row>
+		<row row_number="37" isdata="1">שיפחות מן הציבור אחד א"ל ר"ש והלא אלו פרים ואילים ואלו כבשים אלו</row>
+		<row row_number="38" isdata="1">בלילתן עבה ואלו בלילתן רכה אלו בלילתן שחרית ואלו בלילתן בין הערבים</row>
+		<row row_number="39" isdata="1">ואין נבללין מזה על זה אמרו לו אמור אתה אמר להם הרי הוא אומר וכל</row>
+		<row row_number="40" isdata="1">מנחה בלולה בשמן וחרבה כבר אמרה תורה הבא מנחה שיכולה להיבלל א"ל</row>
+		<row row_number="41" isdata="1">בששים נבללין בששים ואחד אין נבללין אמר לו כל מדת חכמים כן הוא</row>
+		<row row_number="42" isdata="1">בארבעים סאה הוא טובל בארבעים סאה חסר קרטוב אינו יכול לטבול כביצה</row>
+		<row row_number="43" isdata="1">מטמא טומאת אוכלין כביצה חסר שומשום אין מטמא טומאת אוכלין שלשה</row>
+		<row row_number="44" isdata="1">על שלשה מטמא מדרס שלשה על שלשה חסר נימא אחת אינו מטמא מדרס</row>
+		<row row_number="45" isdata="1">וכי אין נבללין מאי הוי והא תנן אם לא בלל כשר אמר רבי זירא כל</row>
+		<row row_number="46" isdata="1">הראוי לבילה אין בילה מעכבת בו וכל שאינו ראוי לבילה בילה מעכבת</row>
+		<row row_number="47" isdata="1">בו אמר רבי ביבי אמר רבי יהושע בן לוי מעשה בפרדה אחת של בית</row>
+		<row row_number="48" isdata="1">רבי שמתה ושיערו חכמים את דמה ברביעית מתיב רבי יצחק בר ביסנא</row>
+		<row row_number="49" isdata="1">העיד רבי יהושע ורבי יהושע בן בתירא על דם נבילות שהוא טהור ואמר רבי יהושע בן בתירא</row>
+		<row row_number="50" isdata="1">מעשה והיו נוחרין ערודיאות לאריות באיסטריא של מלך והיו עולי רגלים שוקעין עד רכובותיהן</row>
+		<row row_number="51" isdata="1">בדם ולא אמרו להם דבר אישתיק אמר ליה ר' זריקא מאי טעמא לא קא מהדר מר אמר ליה היכי</row>
+		<row row_number="52" isdata="1">אהדר ליה דאמר רבי חנין והיו חייך תלואים לך מנגד זה הלוקח תבואה משנה לשנה ופחדת</row>
+		<row row_number="53" isdata="1">לילה ויומם זה הלוקח תבואה מערב שבת לערב שבת ואל תאמן בחייך זה הסומך על הפלטר</row>
+</amud>
+</daf>
+</masechet>
+</root>

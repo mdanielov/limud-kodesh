@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:12.239830</dateCreated>
+   <lastModified>2020-01-14 15:02:12.239830</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="53">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה בהמה"/><ContGemara/>גמ' אמר שמואל והוא שקשורה לו מע"ש<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">אמר רב נחמן מתני' נמי דיקא דקתני אין</row>
+		<row row_number="3" isdata="1">החמור יוצא במרדעת בזמן שאינה קשורה</row>
+		<row row_number="4" isdata="1">לו היכי דמי אילימא שאינה קשורה לו כלל</row>
+		<row row_number="5" isdata="1">פשיטא דילמא נפלה ליה ואתי לאתויי אלא</row>
+		<row row_number="6" isdata="1">לאו שאינה קשורה מע"ש מכלל דרישא</row>
+		<row row_number="7" isdata="1">שקשורה לו מע"ש ש"מ תניא נמי הכי חמור</row>
+		<row row_number="8" isdata="1">יוצא במרדעת בזמן שקשורה לו מע"ש</row>
+		<row row_number="9" isdata="1">ולא באוכף אע"פ שקשורה לו מע"ש רבן</row>
+		<row row_number="10" isdata="1">שמעון בן גמליאל אומר אף באוכף בזמן</row>
+		<row row_number="11" isdata="1">שקשורה לו מע"ש ובלבד שלא יקשור לו</row>
+		<row row_number="12" isdata="1">מסריכן ובלבד שלא יפשול לו רצועה תחת</row>
+		<row row_number="13" isdata="1">זנבו בעא מיניה רב אסי בר נתן מר' חייא</row>
+		<row row_number="14" isdata="1">בר רב אשי מהו ליתן מרדעת על גבי חמור</row>
+		<row row_number="15" isdata="1">בשבת אמר ליה מותר א"ל וכי מה בין זה</row>
+		<row row_number="16" isdata="1">לאוכף אישתיק איתיביה אוכף שעל גבי</row>
+		<row row_number="17" isdata="1">חמור לא יטלטלנה בידו אלא מוליכה</row>
+		<row row_number="18" isdata="1">ומביאה בחצר והוא נופל מאיליו השתא</row>
+		<row row_number="19" isdata="1">ליטול אמרת לא להניח מיבעיא אמר ליה</row>
+		<row row_number="20" isdata="1">ר' זירא שבקיה כרביה סבירא ליה דאמר</row>
+		<row row_number="21" isdata="1">רב חייא בר אשי אמר רב תולין טרסקל</row>
+		<row row_number="22" isdata="1">לבהמה בשבת וקל וחומר למרדעת ומה</row>
+		<row row_number="23" isdata="1">התם דמשום תענוג שרי הכא דמשום צער</row>
+		<row row_number="24" isdata="1">לא כל שכן שמואל אמר מרדעת מותר</row>
+		<row row_number="25" isdata="1">טרסקל אסור אזל ר' חייא בר יוסף אמרה</row>
+		<row row_number="26" isdata="1">לשמעתא דרב קמיה דשמואל א"ל אי הכי</row>
+		<row row_number="27" isdata="1">אמר אבא לא ידע במילי דשבתא ולא</row>
+		<row row_number="28" isdata="1">כלום כי סליק ר' זירא אשכחיה לר' בנימין</row>
+		<row row_number="29" isdata="1">בר יפת דיתיב וקאמר ליה משמיה דר' יוחנן</row>
+		<row row_number="30" isdata="1">נותנין מרדעת על גבי חמור בשבת א"ל</row>
+		<row row_number="31" isdata="1">יישר וכן תרגמה אריוך בבבל אריוך</row>
+		<row row_number="32" isdata="1">מנו שמואל והא רב נמי אמרה אלא שמעיה</row>
+		<row row_number="33" isdata="1">דהוה מסיים ביה ואין תולין טרסקל בשבת</row>
+		<row row_number="34" isdata="1">א"ל יישר וכן תרגמה אריוך בבבל דכולי</row>
+		<row row_number="35" isdata="1">עלמא מיהת מרדעת מותר מאי שנא מאוכף</row>
+		<row row_number="36" isdata="1">שאני התם דאפשר דנפיל ממילא רב פפא</row>
+		<row row_number="37" isdata="1">אמר כאן לחממה כאן לצננה לחממה אית</row>
+		<row row_number="38" isdata="1">לה צערא לצננה לית לה צערא והיינו</row>
+		<row row_number="39" isdata="1">דאמרי אינשי חמרא אפי' בתקופת תמוז</row>
+		<row row_number="40" isdata="1">קרירא לה מיתיבי לא יצא הסוס בזנב</row>
+		<row row_number="41" isdata="1">שועל ולא בזהרורית שבין עיניו לא יצא</row>
+		<row row_number="42" isdata="1">הזב בכיס שלו ולא עזים בכיס שבדדיהן</row>
+		<row row_number="43" isdata="1">ולא פרה בחסום שבפיה ולא סייחים</row>
+		<row row_number="44" isdata="1">בטרסקלין שבפיהם לרה"ר ולא בהמה</row>
+		<row row_number="45" isdata="1">בסנדל שברגליה ולא בקמיע אע"פ שהוא</row>
+		<row row_number="46" isdata="1">מומחה וזו חומר בבהמה מבאדם אבל</row>
+		<row row_number="47" isdata="1">יוצא הוא באגד שעל גבי המכה ובקשישין</row>
+		<row row_number="48" isdata="1">שעל גבי השבר ובשיליא המדולדלת בה</row>
+		<row row_number="49" isdata="1">ופוקקין לה זוג בצוארה ומטיילת עמו בחצר</row>
+		<row row_number="50" isdata="1">קתני מיהת ולא סייחין בטרסקלים שבפיהם</row>
+		<row row_number="51" isdata="1">לרה"ר לרה"ר הוא דלא הא בחצר שפיר דמי</row>
+		<row row_number="52" isdata="1">מאי לאו בגדולים ומשום תענוג לא</row>
+		<row row_number="53" isdata="1">בקטנים ומשום צער דיקא נמי דקתני</row>
+</amud>
+</daf>
+</masechet>
+</root>

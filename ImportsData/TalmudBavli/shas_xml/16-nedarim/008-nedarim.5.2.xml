@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.277634</dateCreated>
+   <lastModified>2020-01-14 15:03:00.277634</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="5">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContGemara/>לימא קסבר שמואל ידים שאין מוכיחות לא</row>
+		<row row_number="2" isdata="1">הוויין ידים אין שמואל מוקים לה למתני' כר'</row>
+		<row row_number="3" isdata="1">יהודה דאמר ידים שאין מוכיחות לא הוויין</row>
+		<row row_number="4" isdata="1">ידים דתנן גופו של גט הרי את מותרת</row>
+		<row row_number="5" isdata="1">לכל אדם רבי יהודה אומר ודין דיהוי ליכי</row>
+		<row row_number="6" isdata="1">מינאי ספר תירוכין ואיגרת שבוקין אמאי</row>
+		<row row_number="7" isdata="1">דחיק שמואל לאוקומה למתני' כרבי</row>
+		<row row_number="8" isdata="1">יהודה לוקמה כרבנן אע"ג דאין ידים</row>
+		<row row_number="9" isdata="1">מוכיחות אמר רבא מתני' קשיתיה אמאי</row>
+		<row row_number="10" isdata="1">תאני שאני אוכל לך שאני טועם לך ליתני</row>
+		<row row_number="11" isdata="1">שאני אוכל שאני טועם ש"מ בעינן ידים</row>
+		<row row_number="12" isdata="1">מוכיחות איתמר ידים שאין מוכיחות אביי</row>
+		<row row_number="13" isdata="1">אמר הוויין ידים ורבא אמר לא הוויין ידים</row>
+		<row row_number="14" isdata="1">אמר רבא רבי אידי אסברה לי אמר קרא</row>
+		<row row_number="15" isdata="1">נזיר להזיר לי"י מקיש ידות נזירות לנזירות</row>
+		<row row_number="16" isdata="1">מה נזירות בהפלאה אף ידות נזירות</row>
+		<row row_number="17" isdata="1">בהפלאה לימא בפלוגתא דר' יהודה ורבנן</row>
+		<row row_number="18" isdata="1">קמיפלגי דתנן גופו של גט הרי את מותרת</row>
+		<row row_number="19" isdata="1">לכל אדם ר' יהודה אומר ודין דיהוי ליכי מינאי</row>
+		<row row_number="20" isdata="1">ספר תירוכין וגט פטורין ואיגרת שבוקין אביי</row>
+		<row row_number="21" isdata="1">דאמר כרבנן ורבא דאמר כרבי יהודה אמר</row>
+		<row row_number="22" isdata="1">לך אביי אנא דאמרי אפי' לר' יהודה עד כאן</row>
+		<row row_number="23" isdata="1">לא קאמר רבי יהודה בעינן ידים מוכיחות</row>
+		<row row_number="24" isdata="1">אלא גבי גט דבעינן כריתות וליכא אבל בעלמא מי שמעת ליה ורבא אמר אנא</row>
+		<row row_number="25" isdata="1">דאמרי אפי' לרבנן ע"כ לא קאמרי רבנן דלא בעינן ידים מוכיחות אלא גבי גט</row>
+</amud>
+</daf>
+</masechet>
+</root>

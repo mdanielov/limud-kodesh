@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:06.239731</dateCreated>
+   <lastModified>2020-01-14 15:03:06.239731</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="65">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכותים אין להם נזירות"/><ContGemara/>אמר רבא בדק ופנה בדק ופנה בדק ואשכח</row>
+		<row row_number="2" isdata="1">לא האי מפני ליה גבי הנך תרי ולא הני תרי</row>
+		<row row_number="3" isdata="1">לגבי האי חד איכא דאמרי אמר רבא כיון</row>
+		<row row_number="4" isdata="1">שנתנה רשות לפנות מפנה להון ולישוינהו</row>
+		<row row_number="5" isdata="1">שכונת קברות אמר ריש לקיש עילא מצאו</row>
+		<row row_number="6" isdata="1">וטיהרו ארץ ישראל: בדק מעשרים אמה ולא</row>
+		<row row_number="7" isdata="1">מצא מאי אמר רב מנשיא בר ירמיה אמר רב</row>
+		<row row_number="8" isdata="1">שכונת קברות מאי טעמא אמר ר"ל עילא</row>
+		<row row_number="9" isdata="1">מצאו וטיהרו את ארץ ישראל<EndGemara/><StartMishna/>מתני' כל</row>
+		<row row_number="10" isdata="1">ספק נגעים בתחילה טהור עד שלא נזקק</row>
+		<row row_number="11" isdata="1">לטומאה משנזקק לטומאה ספקו טמא:</row>
+		<row row_number="12" isdata="1"><EndMishna/><StartGemara/>גמ' מנא הני מילי אמר רב יהודה אמר רב</row>
+		<row row_number="13" isdata="1">אמר קרא לטהרו או לטמאו הואיל ופתח</row>
+		<row row_number="14" isdata="1">[בו] הכתוב בטהרה תחילה אי הכי אפילו</row>
+		<row row_number="15" isdata="1">משנזקק לטומאה נמי ספקו טהור אלא כי</row>
+		<row row_number="16" isdata="1">איתמר דרב יהודה אמר רב אהא איתמר</row>
+		<row row_number="17" isdata="1">אם בהרת קדמה לשער לבן טמא ואם</row>
+		<row row_number="18" isdata="1">שער לבן קודם לבהרת טהור ספק טמא</row>
+		<row row_number="19" isdata="1">ור' יהושע אמר כיהה מאי כיהה אמר רב</row>
+		<row row_number="20" isdata="1">יהודה כיהה וטהור ודילמא כיהה וטמא אמר</row>
+		<row row_number="21" isdata="1">רב יהודה אמר רב אמר קרא לטהרו או</row>
+		<row row_number="22" isdata="1">לטמאו הואיל ופתח בו הכתוב בטהרה</row>
+		<row row_number="23" isdata="1">תחילה<EndGemara/><StartMishna/>מתני' בשבעה דרכים בודקין</row>
+		<row row_number="24" isdata="1">את הזב עד שלא נזקק לזיבה במאכל</row>
+		<row row_number="25" isdata="1">ובמשתה במשא ובקפיצה ובחולי ובמראה</row>
+		<row row_number="26" isdata="1">ובהירהור משנזקק לזיבה אין בודקין אותו</row>
+		<row row_number="27" isdata="1">אונסו וספיקו ושכבת זרעו טמאים שרגלים</row>
+		<row row_number="28" isdata="1">לדבר המכה את חבירו ואמדוהו למיתה</row>
+		<row row_number="29" isdata="1">והקל ממה שהיה לאחר מכאן הכביד ומת</row>
+		<row row_number="30" isdata="1">חייב ר' נחמיה אומר פטור שרגלים לדבר:</row>
+		<row row_number="31" isdata="1"><EndMishna/><StartGemara/>גמ' מנא הני מילי אמר רבי נתן אמר קרא</row>
+		<row row_number="32" isdata="1">והזב את זובו לראיה שלישית איתקש</row>
+		<row row_number="33" isdata="1">לנקיבה והתניא רבי אלעזר אומר בשלישית</row>
+		<row row_number="34" isdata="1">בודקין אותו ברביעית אין בודקין אותו אלא</row>
+		<row row_number="35" isdata="1">באתים קמיפלגי רבי אליעזר דריש אתים</row>
+		<row row_number="36" isdata="1">ורבנן לא דרשי אתים: אונסו וספיקו:</row>
+</amud>
+</daf>
+</masechet>
+</root>

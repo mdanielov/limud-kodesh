@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:34.566305</dateCreated>
+   <lastModified>2020-01-14 15:03:34.566305</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="104">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בית כור"/><ContGemara/>ואי איכא מילתא יתירא (דהוי) לתשעת קבין הדרי</row>
+		<row row_number="2" isdata="1">איתיביה רבא לר"נ שאם שייר בשדה בית תשעת</row>
+		<row row_number="3" isdata="1">קבין לאו דזבין ליה כוריים לא דזבין ליה כור ובגנה</row>
+		<row row_number="4" isdata="1">בית חצי קב לאו דזבין ליה סאתים לא דזבין ליה</row>
+		<row row_number="5" isdata="1">סאה וכדברי ר"ע בית רובע מאי לאו דזבין ליה</row>
+		<row row_number="6" isdata="1">סאה לא דזבין ליה חצי סאה בעי רב אשי שדה</row>
+		<row row_number="7" isdata="1">ונעשית גנה גנה ונעשית שדה מאי תיקו תנא אם</row>
+		<row row_number="8" isdata="1">היה סמוך לשדהו אפי' כל שהוא מחזיר לו קרקע בעי</row>
+		<row row_number="9" isdata="1">רב אשי בור מהו שתפסיק אמת המים מהו שתפסיק</row>
+		<row row_number="10" isdata="1">דרך הרבים מהו שתפסיק ריכבא דדיקלא מהו שתפסיק</row>
+		<row row_number="11" isdata="1">תיקו: ולא את הרובע בלבד מחזיר לו אלא כל</row>
+		<row row_number="12" isdata="1">המותר: כלפי לייא תאני רבין בר רב נחמן לא את</row>
+		<row row_number="13" isdata="1">המותר בלבד מחזיר לו אלא את כל הרבעין כולן:</row>
+		<row row_number="14" isdata="1"><EndGemara/><StartMishna/>מתני' מדה בחבל אני מוכר לך הן חסר הן יתר בטל</row>
+		<row row_number="15" isdata="1">הן חסר הן יתר מדה בחבל הן חסר הן יתר מדה בחבל</row>
+</amud>
+</daf>
+</masechet>
+</root>

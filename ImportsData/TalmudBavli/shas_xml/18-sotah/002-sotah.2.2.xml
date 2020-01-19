@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:06.306530</dateCreated>
+   <lastModified>2020-01-14 15:03:06.306530</lastModified>
+ </meta>
+ <masechet name="סוטה" serial="18">
+<daf value="2">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המקנא לאשתו"/><ContGemara/>ממשמע שנאמר לא יקום עד באיש איני</row>
+		<row row_number="2" isdata="1">יודע שהוא אחד מה ת"ל אחד זה בנה אב</row>
+		<row row_number="3" isdata="1">כל מקום שנאמר עד הרי כאן שנים עד</row>
+		<row row_number="4" isdata="1">שיפרוט לך הכתוב אחד ואמר רחמנא תרי</row>
+		<row row_number="5" isdata="1">לית בה אלא חד והיא לא נתפשה אסורה</row>
+		<row row_number="6" isdata="1">אלא טעמא דכתיב לא יקום עד אחד באיש</row>
+		<row row_number="7" isdata="1">הא לאו הכי הוה אמינא עד דסוטה חד הוא</row>
+		<row row_number="8" isdata="1">ואי אפילו חד ליכא אלא במאי מיתסרא</row>
+		<row row_number="9" isdata="1">איצטריך סד"א עד אין בה אין נאמן בה אין</row>
+		<row row_number="10" isdata="1">נאמן בה ואלא מאי בעי עד דאיכא תרי</row>
+		<row row_number="11" isdata="1">לישתוק קרא מיניה דאתיא דבר דבר מממון</row>
+		<row row_number="12" isdata="1">ואנא ידענא מידי דהוה אכל עדיות שבתורה</row>
+		<row row_number="13" isdata="1">איצטריך סד"א סוטה שאני דרגלים לדבר</row>
+		<row row_number="14" isdata="1">שהרי קינא לה ונסתרה ליתהימן בה עד</row>
+		<row row_number="15" isdata="1">אחד ומי מצית אמרת דאין נאמן בה ושריא</row>
+		<row row_number="16" isdata="1">והא מדכתיב והיא לא נתפשה מכלל דאסורה</row>
+		<row row_number="17" isdata="1">איצטריך סד"א אין נאמן בה עד דאיכא תרי</row>
+		<row row_number="18" isdata="1">ובתרי נמי היא דלא נתפשה קמ"ל: רבי</row>
+		<row row_number="19" isdata="1">יהושע אומר מקנא לה על פי שנים וכו':</row>
+		<row row_number="20" isdata="1">מ"ט דרבי יהושע אמר קרא בה בה ולא</row>
+		<row row_number="21" isdata="1">בקינוי בה ולא בסתירה ורבי אליעזר אומר</row>
+		<row row_number="22" isdata="1">בה ולא בקינוי ואימא בה ולא בסתירה</row>
+		<row row_number="23" isdata="1">סתירה איתקש לטומאה דכתיב ונסתרה</row>
+		<row row_number="24" isdata="1">והיא נטמאה קינוי נמי איתקש לטומאה</row>
+		<row row_number="25" isdata="1">דכתיב וקנא את אשתו והיא נטמאה הא</row>
+		<row row_number="26" isdata="1">מיעט רחמנא בה ומה ראית מסתברא</row>
+		<row row_number="27" isdata="1">סתירה עדיפא שכן אוסרתה כטומאה אדרבה קינוי עדיף שכן עיקר גרם לה</row>
+		<row row_number="28" isdata="1">אי לאו סתירה קינוי מי איכא ואי לאו קינוי סתירה מאי אהני אפ"ה סתירה</row>
+		<row row_number="29" isdata="1">עדיפא דאתחלתא דטומאה היא מתני' דלא כי האי תנא דתניא רבי יוסי ברבי</row>
+		<row row_number="30" isdata="1">יהודה אומר משום ר' אליעזר המקנא לאשתו מקנא ע"פ עד אחד או ע"פ עצמו</row>
+		<row row_number="31" isdata="1">ומשקה לה על פי שנים השיבו חכמים לדברי רבי יוסי ברבי יהודה אין לדבר</row>
+		<row row_number="32" isdata="1">סוף מ"ט דר' יוסי ברבי יהודה אמר קרא בה בה ולא בסתירה ואימא בה ולא</row>
+		<row row_number="33" isdata="1">בקינוי קינוי איתקש לטומאה דכתיב וקנא את אשתו והיא נטמאה סתירה נמי</row>
+		<row row_number="34" isdata="1">איתקש לטומאה דכתיב ונסתרה והיא נטמאה ההוא לכמה שיעור סתירה</row>
+		<row row_number="35" isdata="1">כדי טומאה הוא דאתא השיבו חכמים לדברי ר' יוסי בר' יהודה אין לדבר סוף</row>
+		<row row_number="36" isdata="1">מאי ניהו דזמנין דלא קני ואמר קנאי הא למשנתינו יש לדבר סוף זמנין דלא</row>
+		<row row_number="37" isdata="1">איסתתר ואמר איסתתר אמר רב יצחק בר יוסף א"ר יוחנן אף לדברי רבי יוסי</row>
+		<row row_number="38" isdata="1">בר' יהודה אין לדבר סוף אף לדברי רבי יוסי בר' יהודה ולא מיבעיא למשנתינו</row>
+		<row row_number="39" isdata="1">אדרבה למשנתינו איכא עיקר התם ליכא עיקר אלא אי איתמר הכי איתמר</row>
+		<row row_number="40" isdata="1">א"ר יצחק בר יוסף א"ר יוחנן לדברי ר' יוסי בר' יהודה אף למשנתינו אין לדבר</row>
+		<row row_number="41" isdata="1">סוף א"ר חנינא מסורא לא לימא איניש לאיתתיה בזמן הזה לא תיסתרי בהדי</row>
+		<row row_number="42" isdata="1">פלוני דילמא קי"ל כרבי יוסי בר' יהודה דאמר קינוי על פי עצמו ומיסתתרא</row>
+		<row row_number="43" isdata="1">וליכא האידנא מי סוטה למיבדקה וקאסר לה עילויה איסורא דלעולם אמר</row>
+		<row row_number="44" isdata="1">ריש לקיש מה לשון קינוי דבר המטיל קנאה בינה לבין אחרים אלמא קסבר</row>
+		<row row_number="45" isdata="1">קינוי על פי עצמו וכולי עלמא לא ידעי דקני לה ואמרי מאי דקמא דקא בדלה</row>
+		<row row_number="46" isdata="1">ואתו למיעבד קנאה בהדה ורב יימר בר ר' שלמיא משמיה דאביי אמר</row>
+		<row row_number="47" isdata="1">דבר המטיל קנאה בינו לבינה אלמא קסבר קינוי על פי שנים עדים</row>
+		<row row_number="48" isdata="1">וכולי עלמא ידעי דקני לה ואיהו הוא דאתי למיעבד קנאה בהדה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:03.177094</dateCreated>
+   <lastModified>2020-01-14 15:03:03.177094</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="6">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContGemara/>אלא לבר פדא קשיא אמר לך בר פדא אימא</row>
+		<row row_number="2" isdata="1">סיפא ואם גילח את הראשונה ליום שלשים</row>
+		<row row_number="3" isdata="1">מגלח את השניה ליום ששים אלא סיפא</row>
+		<row row_number="4" isdata="1">מסייעא ליה רישא באומר שלימים ולרב</row>
+		<row row_number="5" isdata="1">מתנא קשיא סיפא אמר לך רב מתנא</row>
+		<row row_number="6" isdata="1">כדקתני סיפא יום שלשים עולה לכאן ולכאן</row>
+		<row row_number="7" isdata="1">מאי היא מקצת היום ככולו הא אמרה חדא</row>
+		<row row_number="8" isdata="1">זימנא מהו דתימא ה"מ לענין חדא נזירות</row>
+		<row row_number="9" isdata="1">אבל לשתי נזירות לא קמ"ל תנן אם גילח יום</row>
+		<row row_number="10" isdata="1">ששים חסר אחד יצא שיום שלשים עולה לו</row>
+		<row row_number="11" isdata="1">מן המנין בשלמא לרב מתנא ניחא אלא לבר</row>
+		<row row_number="12" isdata="1">פדא למה לי הא אמר שלשים חסר אחד אמר</row>
+		<row row_number="13" isdata="1">לך אנא נמי אהא סמכי תנן מי שאמר הריני</row>
+		<row row_number="14" isdata="1">נזיר נטמא יום שלשים סותר את הכל בשלמא</row>
+		<row row_number="15" isdata="1">לרב מתנא ניחא אלא לבר פדא קשיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

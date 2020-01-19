@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:22.436304</dateCreated>
+   <lastModified>2020-01-14 15:03:22.436304</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="100">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הגוזל עצים"/><ContGemara/>בית חייהם את הדרך זו גמילות חסדים ילכו</row>
+		<row row_number="2" isdata="1">זו ביקור חולים בה זו קבורה את המעשה זה</row>
+		<row row_number="3" isdata="1">הדין אשר יעשון זו לפנים משורת הדין ריש</row>
+		<row row_number="4" isdata="1">לקיש אחוי ליה דינרא לרבי אלעזר אמר</row>
+		<row row_number="5" isdata="1">מעליא הוא אמר ליה חזי דעלך קא סמכינא</row>
+		<row row_number="6" isdata="1">א"ל כי סמכת עלי מאי למימרא דאי משתכח</row>
+		<row row_number="7" isdata="1">בישא בעינא לאיחלופי לך והא את הוא</row>
+		<row row_number="8" isdata="1">דאמרת רבי מאיר הוא דדאין דינא דגרמי</row>
+		<row row_number="9" isdata="1">מאי לאו ר' מאיר ולא סבירא לן כוותיה א"ל</row>
+		<row row_number="10" isdata="1">לא ר' מאיר וסבירא לן כוותיה הי רבי</row>
+		<row row_number="11" isdata="1">מאיר אילימא רבי מאיר (ד' ל' מ' פ' סימן)</row>
+		<row row_number="12" isdata="1">דתנן דן את הדין זיכה את החייב חייב</row>
+		<row row_number="13" isdata="1">את הזכאי טימא את הטהור טיהר את הטמא</row>
+		<row row_number="14" isdata="1">מה שעשה עשוי וישלם מביתו הא איתמר עלה אמר רבי אילעא אמר רב</row>
+		<row row_number="15" isdata="1">והוא שנטל ונתן ביד אלא הא ר' מאיר דתנן לצבוע לו אדום וצבעו שחור</row>
+		<row row_number="16" isdata="1">שחור וצבעו אדום ר' מאיר אומר נותן לו דמי צמרו התם קא עביד בידים אלא</row>
+		<row row_number="17" isdata="1">הא ר' מאיר דתנן המסכך גפנו על גבי תבואתו של חבירו הרי זה קידש</row>
+		<row row_number="18" isdata="1">וחייב התם נמי קא עביד בידים אלא הא ר"מ דתניא מחיצת הכרם שנפרצה</row>
+</amud>
+</daf>
+</masechet>
+</root>

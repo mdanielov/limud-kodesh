@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:03.064413</dateCreated>
+   <lastModified>2020-01-14 15:04:03.064413</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="112">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט והמעלה"/><ContGemara/>גמ' בשלמא בחוץ וחזר ונתן בפנים שכולו<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">ראוי להיות בפנים אבל בפנים והעלן</row>
+		<row row_number="3" isdata="1">בחוץ שיריים נינהו הא מני רבי נחמיה</row>
+		<row row_number="4" isdata="1">היא דאמר שירי הדם שהקריבן בחוץ חייב</row>
+		<row row_number="5" isdata="1">אי רבי נחמיה אימא סיפא קבל דמה בשני</row>
+		<row row_number="6" isdata="1">כוסות נתן שניהם בפנים פטור שניהם</row>
+		<row row_number="7" isdata="1">בחוץ חייב אחד בפנים ואחד בחוץ פטור</row>
+		<row row_number="8" isdata="1">והאמר רבי נחמיה שירי הדם שהקריבן</row>
+		<row row_number="9" isdata="1">בחוץ חייב סיפא אתאן לתנא קמא</row>
+		<row row_number="10" isdata="1">דרבי אלעזר ברבי שמעון דאמר כוס</row>
+		<row row_number="11" isdata="1">עושה דחוי לחבירו: למה הדבר דומה</row>
+		<row row_number="12" isdata="1">למפריש חטאתו ואבדה והפריש אחרת</row>
+		<row row_number="13" isdata="1">תחתיה ואחר כך נמצאת הראשונה:</row>
+		<row row_number="14" isdata="1">למה הדבר דומה למה לי הא מני רבי</row>
+		<row row_number="15" isdata="1">היא דאמר אבודה בשעת הפרשה מתה</row>
+		<row row_number="16" isdata="1">והכי קאמר טעמא דאבדה הא הפריש</row>
+		<row row_number="17" isdata="1">שתי חטאות לאחריות חדא מינייהו מעיקרא</row>
+		<row row_number="18" isdata="1">עולה היא וכדרב הונא אמר רב דאמר</row>
+		<row row_number="19" isdata="1">רב הונא אמר רב אשם שניתק לרעייה</row>
+		<row row_number="20" isdata="1">ושחטו סתם כשר לעולה מי דמי התם</row>
+		<row row_number="21" isdata="1">אשם זכר ועולה זכר אבל חטאת נקבה</row>
+		<row row_number="22" isdata="1">היא א"ר חייא מיוסתיניא בשעיר נשיא:<EndChapter name = "השוחט והמעלה"/><EndGemara/></row>
+		<row row_number="23" isdata="0">הדרן עלך השוחט והמעלה</row>
+		<row row_number="24" isdata="1"><StartChapter name = "פרת חטאת "/><StartMishna/>פרת חטאת ששרפה חוץ מגתה וכן</row>
+		<row row_number="25" isdata="1">שעיר המשתלח שהקריב בחוץ</row>
+		<row row_number="26" isdata="1">פטור שנאמר ואל פתח אהל מועד לא</row>
+		<row row_number="27" isdata="1">הביאו כל שאין ראוי לבא אל פתח אהל</row>
+		<row row_number="28" isdata="1">מועד אין חייבין עליו הרובע והנרבע</row>
+		<row row_number="29" isdata="1">והמוקצה והנעבד והמחיר [והאתנן]</row>
+		<row row_number="30" isdata="1">והכלאים והטריפה ויוצא דופן שהקריבן</row>
+		<row row_number="31" isdata="1">בחוץ פטור שנאמר לפני משכן ה' כל</row>
+		<row row_number="32" isdata="1">שאין ראוי לבא לפני משכן ה' אין חייבין</row>
+		<row row_number="33" isdata="1">עליו בעלי מומין בין בעלי מומין קבועין בין</row>
+</amud>
+</daf>
+</masechet>
+</root>

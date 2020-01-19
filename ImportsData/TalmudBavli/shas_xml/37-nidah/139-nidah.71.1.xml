@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:33.540624</dateCreated>
+   <lastModified>2020-01-14 15:04:33.540624</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="71">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "תינוקת "/><ContGemara/>ויקדש עצמו בשעת תשמיש אמרו הרבה</row>
+		<row row_number="2" isdata="1">עשו כן ולא הועילו אלא יבקש רחמים ממי</row>
+		<row row_number="3" isdata="1">שהבנים שלו שנאמר הנה נחלת ה' בנים</row>
+		<row row_number="4" isdata="1">שכר פרי הבטן מאי קא משמע לן דהא בלא</row>
+		<row row_number="5" isdata="1">הא לא סגי מאי שכר פרי הבטן א"ר חמא</row>
+		<row row_number="6" isdata="1">ברבי חנינא בשכר שמשהין עצמן בבטן</row>
+		<row row_number="7" isdata="1">כדי שתזריע אשתו תחילה נותן לו הקב"ה</row>
+		<row row_number="8" isdata="1">שכר פרי הבטן: בית שמאי אומרים [וכו']:</row>
+		<row row_number="9" isdata="1">מאי טעמייהו דבית שמאי אי נימא משום</row>
+		<row row_number="10" isdata="1">דכתיב ותתחלחל המלכה ואמר רב מלמד</row>
+		<row row_number="11" isdata="1">שפרסה נדה הכא נמי אגב ביעתותא</row>
+		<row row_number="12" isdata="1">דמלאכא דמותא חזיא והאנן תנן שחרדה</row>
+		<row row_number="13" isdata="1">מסלקת את הדמים הא לא קשיא פחדא</row>
+		<row row_number="14" isdata="1">צמית ביעתותא מרפיא אלא הא דתנן</row>
+		<row row_number="15" isdata="1">ב"ש אומרים כל האנשים מתים זבין וב"ה</row>
+		<row row_number="16" isdata="1">אומרים אין זב אלא מי שמת זב אקרי כאן</row>
+		<row row_number="17" isdata="1">מבשרו ולא מחמת אונסו אלא טעמא דב"ש</row>
+		<row row_number="18" isdata="1">כדתניא בראשונה היו מטבילין כלים על</row>
+		<row row_number="19" isdata="1">גבי נדות מתות והיו נדות חיות מתביישות</row>
+		<row row_number="20" isdata="1">התקינו שיהו מטבילין על גבי כל הנשים</row>
+		<row row_number="21" isdata="1">מפני כבודן של נדות חיות בראשונה היו</row>
+		<row row_number="22" isdata="1">מטבילין על גבי זבין מתין והיו זבין חיין</row>
+		<row row_number="23" isdata="1">מתביישין התקינו שיהו מטבילין על גבי</row>
+		<row row_number="24" isdata="1">כל האנשים מפני כבודן של זבין חיים:</row>
+		<row row_number="25" isdata="1"><EndGemara/><StartMishna/>מתני' האשה שמתה ויצאה ממנה רביעית</row>
+		<row row_number="26" isdata="1">דם מטמאה משום כתם ומטמאה באהל</row>
+		<row row_number="27" isdata="1">רבי יהודה אומר אינה מטמאה משום כתם</row>
+		<row row_number="28" isdata="1">מפני שנעקר משמתה ומודה רבי יהודה</row>
+		<row row_number="29" isdata="1">ביושבת על משבר ומתה ויצאה ממנה</row>
+		<row row_number="30" isdata="1">רביעית דם שהיא מטמאה משום כתם אמר</row>
+		<row row_number="31" isdata="1">רבי יוסי לפיכך אינה מטמאה באהל:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="32" isdata="1">מכלל דתנא קמא סבר אף על גב דנעקר דם</row>
+		<row row_number="33" isdata="1">משמתה מטמאה משום כתם אמר (רבי)</row>
+		<row row_number="34" isdata="1">זעירי מקור מקומו טמא איכא בינייהו:</row>
+		<row row_number="35" isdata="1">ומודה רבי יהודה: מכלל דתנא קמא סבר</row>
+		<row row_number="36" isdata="1">באהל נמי מטמא אמר רב יהודה דם תבוסה</row>
+		<row row_number="37" isdata="1">איכא בינייהו דתניא איזהו דם תבוסה פירש</row>
+		<row row_number="38" isdata="1">ר"א ברבי יהודה הרוג שיצא ממנו דם בין</row>
+		<row row_number="39" isdata="1">בחייו בין במותו ספק בחייו יצא ספק במותו</row>
+		<row row_number="40" isdata="1">יצא ספק בחייו ובמותו זהו דם תבוסה וחכמים</row>
+		<row row_number="41" isdata="1">אומרים ברה"י ספקו טמא ברה"ר ספקו טהור</row>
+		<row row_number="42" isdata="1">אלא איזהו דם תבוסה הרוג שיצא הימנו</row>
+		<row row_number="43" isdata="1">רביעית דם בחייו ובמותו ועדיין לא פסק ספק</row>
+		<row row_number="44" isdata="1">רובו בחייו ומיעוטו במותו ספק מיעוטו בחייו</row>
+		<row row_number="45" isdata="1">ורובו במותו זהו דם תבוסה רבי יהודה אומר</row>
+		<row row_number="46" isdata="1">הרוג שיצא ממנו רביעית דם והיה מוטל במטה ודמו מטפטף לגומא טמא</row>
+		<row row_number="47" isdata="1">מפני שהטפה של מיתה מעורבת בו וחכמים מטהרין מפני</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:21.343800</dateCreated>
+   <lastModified>2020-01-14 15:02:21.343800</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="37">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>אלא אי בלקיחת בעלים אי בעשיית כהן</row>
+		<row row_number="2" isdata="1">ואכתי סבר ר' יוסי אין ברירה והתניא עם</row>
+		<row row_number="3" isdata="1">הארץ שאמר לחבר קח לי אגודה אחת של</row>
+		<row row_number="4" isdata="1">ירק או גלוסקא אחת אינו צריך לעשר דברי</row>
+		<row row_number="5" isdata="1">רבי יוסי וחכ"א צריך לעשר איפוך תא שמע</row>
+		<row row_number="6" isdata="1">האומר מעשר שיש לי בביתי מחולל על</row>
+		<row row_number="7" isdata="1">סלע שתעלה בידי מן הכיס רבי יוסי אומר</row>
+		<row row_number="8" isdata="1">מחולל איפוך אימא ר' יוסי אומר לא חילל</row>
+		<row row_number="9" isdata="1">ומאי חזית דאפכת תרתי מקמי חדא איפוך</row>
+		<row row_number="10" isdata="1">חדא מקמי תרתי הא ודאי איפכא תניא</row>
+		<row row_number="11" isdata="1">דקתני סיפא ומודה רבי יוסי באומר מעשר</row>
+		<row row_number="12" isdata="1">שיש לי בתוך ביתי יהא מחולל על סלע</row>
+		<row row_number="13" isdata="1">חדשה שתעלה בידי מן הכיס שחילל</row>
+		<row row_number="14" isdata="1">מדקאמר הכא שחילל מכלל דהתם לא חילל</row>
+		<row row_number="15" isdata="1">האי סלע חדשה ה"ד אי דאיכא תרתי תלת</row>
+		<row row_number="16" isdata="1">דיש ברירה היינו קמייתא אלא דליכא אלא</row>
+		<row row_number="17" isdata="1">חדא מאי תעלה איידי דתני רישא תעלה תנא</row>
+		<row row_number="18" isdata="1">סיפא נמי תעלה א"ל רבא לרב נחמן מאן</row>
+		<row row_number="19" isdata="1">האי תנא דאפילו בדרבנן לית ליה ברירה</row>
+		<row row_number="20" isdata="1">דתניא אמר לחמשה הריני מערב על איזה</row>
+		<row row_number="21" isdata="1">מכם שארצה רציתי ילך לא רציתי לא ילך</row>
+		<row row_number="22" isdata="1">רצה מבעו"י עירובו עירוב משחשיכה אין</row>
+		<row row_number="23" isdata="1">עירובו עירוב אישתיק ולא א"ל ולא מידי</row>
+		<row row_number="24" isdata="1">ולימא ליה תנא דבי איו הוא לא שמיע ליה</row>
+		<row row_number="25" isdata="1">רב יוסף אמר תנאי שקלת מעלמא תנאי</row>
+		<row row_number="26" isdata="1">היא דתניא הריני מערב לשבתות של כל</row>
+		<row row_number="27" isdata="1">השנה רציתי אלך לא רציתי לא אלך רצה</row>
+		<row row_number="28" isdata="1">מבעוד יום עירובו עירוב משחשיכה רבי</row>
+		<row row_number="29" isdata="1">שמעון אומר עירובו עירוב וחכמים אומרים</row>
+		<row row_number="30" isdata="1">אין עירובו עירוב והא שמעינן לרבי שמעון</row>
+		<row row_number="31" isdata="1">דלית ליה ברירה קשיא דרבי שמעון אדר"ש</row>
+		<row row_number="32" isdata="1">אלא איפוך מאי קשיא דילמא כי לית ליה</row>
+		<row row_number="33" isdata="1">לר' שמעון ברירה בדאורייתא אבל בדרבנן אית</row>
+		<row row_number="34" isdata="1">ליה קסבר רב יוסף מאן דאית ליה ברירה</row>
+		<row row_number="35" isdata="1">ל"ש בדאורייתא ל"ש בדרבנן אית ליה ומאן</row>
+		<row row_number="36" isdata="1">דלית ליה ברירה ל"ש בדאורייתא ול"ש</row>
+		<row row_number="37" isdata="1">בדרבנן לית ליה רבא אמר שאני התם</row>
+		<row row_number="38" isdata="1">דבעינן ראשית ששיריה ניכרין א"ל אביי</row>
+		<row row_number="39" isdata="1">אלא מעתה היו לפניו שני רמונים של טבל</row>
+		<row row_number="40" isdata="1">ואמר אם ירדו גשמים היום יהא זה תרומה על</row>
+		<row row_number="41" isdata="1">זה ואם לא ירדו גשמים היום יהא זה תרומה</row>
+		<row row_number="42" isdata="1">על זה ה"נ בין ירדו בין לא ירדו דאין בדבריו</row>
+		<row row_number="43" isdata="1">כלום וכ"ת הכי נמי והתנן תרומת הכרי הזה</row>
+		<row row_number="44" isdata="1">ומעשרותיו בתוכו ותרומת מעשר זה בתוכו</row>
+		<row row_number="45" isdata="1">ר"ש אומר קרא השם שאני התם דאיכא סביביו ואב"א כדקתני טעמא אמרו</row>
+		<row row_number="46" isdata="1">לו לר"מ אי אתה מודה שמא יבקע הנוד ונמצא זה שותה טבלים למפרע אמר</row>
+		<row row_number="47" isdata="1">להן לכשיבקע ולמאי דסליק אדעתין מעיקרא דבעינן ראשית ששיריה ניכרין</row>
+		<row row_number="48" isdata="1">מאי קאמרי ליה הכי קאמרי ליה לדידן בעינן ראשית ששיריה ניכרין לדידך</row>
+</amud>
+</daf>
+</masechet>
+</root>

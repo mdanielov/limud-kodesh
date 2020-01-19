@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:22.729060</dateCreated>
+   <lastModified>2020-01-14 15:03:22.729060</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="106">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הגוזל עצים"/><ContMishna/>אי אמרת בשלמא נשבע כי אתו עדים</row>
+		<row row_number="2" isdata="1">מיחייב אמטו להכי מחייבינן ליה קרבן</row>
+		<row row_number="3" isdata="1">אשבועה בתרייתא הואיל ויכול לחזור</row>
+		<row row_number="4" isdata="1">ולהודות אלא אי אמרת כי אתו עדים פטור</row>
+		<row row_number="5" isdata="1">מי איכא מידי דאילו אתי סהדי ומסהדי</row>
+		<row row_number="6" isdata="1">ביה פטור ואנן ניקו ניחייביה קרבן</row>
+		<row row_number="7" isdata="1">אשבועה הואיל ויכול לחזור ולהודות השתא</row>
+		<row row_number="8" isdata="1">מיהת לא אודי: אמר רבי חייא בר אבא</row>
+		<row row_number="9" isdata="1">א"ר יוחנן הטוען טענת גנב בפקדון משלם</row>
+		<row row_number="10" isdata="1">תשלומי כפל טבח ומכר משלם תשלומי</row>
+		<row row_number="11" isdata="1">ארבעה וחמשה הואיל וגנב משלם תשלומי</row>
+		<row row_number="12" isdata="1">כפל וטוען טענת גנב משלם תשלומי כפל</row>
+		<row row_number="13" isdata="1">מה גנב שהוא משלם כפל טבח ומכר</row>
+		<row row_number="14" isdata="1">משלם תשלומי ארבעה וחמשה אף טוען</row>
+		<row row_number="15" isdata="1">טענת גנב בפקדון כשהוא משלם תשלומי</row>
+		<row row_number="16" isdata="1">כפל טבח ומכר משלם תשלומי ארבעה</row>
+		<row row_number="17" isdata="1">וחמשה מה לגנב שכן משלם תשלומי</row>
+		<row row_number="18" isdata="1">כפל שלא בשבועה תאמר בטוען טענת</row>
+		<row row_number="19" isdata="1">גנב שאין משלם תשלומי כפל אלא</row>
+		<row row_number="20" isdata="1">בשבועה אמרי היקישא היא ואין משיבין</row>
+		<row row_number="21" isdata="1">על היקישא הניחא למ"ד חד בגנב וחד</row>
+		<row row_number="22" isdata="1">בטוען טענת גנב שפיר אלא למ"ד האי</row>
+		<row row_number="23" isdata="1">אם ימצא הגנב ואם לא ימצא תרוייהו בטוען טענת גנב מאי איכא למימר</row>
+		<row row_number="24" isdata="1">אמרי גנב הגנב איתיביה רבי חייא בר אבא לר' יוחנן היכן שורי נגנב</row>
+		<row row_number="25" isdata="1">משביעך אני ואמר אמן והעדים מעידים אותו שאכלו משלם תשלומי</row>
+		<row row_number="26" isdata="1">כפל והא הכא דאי אפשר לכזית בשר בלא שחיטה וקתני משלם</row>
+		<row row_number="27" isdata="1">תשלומי כפל תשלומי כפל אין תשלומי ד' וה' לא הכא במאי עסקינן כגון</row>
+		<row row_number="28" isdata="1">שאכלו נבילה ולישני ליה כגון שאכלו טריפה כר"מ דאמר שחיטה</row>
+		<row row_number="29" isdata="1">שאינה ראויה שמה שחיטה ולישני ליה בבן פקועה כר"מ דאמר בן</row>
+		<row row_number="30" isdata="1">פקועה טעון שחיטה ולישני ליה כגון שעמד בדין ואמרו לו צא תן לו</row>
+		<row row_number="31" isdata="1">דהא אמר רבא צא תן לו טבח ומכר פטור מאי טעמא כיון דפסקיה</row>
+		<row row_number="32" isdata="1">למילתיה וטבח ומכר הוי גזלן וגזלן לא משלם תשלומי ארבעה וחמשה</row>
+		<row row_number="33" isdata="1">חייב אתה ליתן לו וטבח ומכר חייב מאי טעמא כל כמה דלא פסיקא ליה</row>
+		<row row_number="34" isdata="1">מילתא אכתי גנב הוא אמרי וליטעמיך לישני ליה בשותף שטבח שלא</row>
+		<row row_number="35" isdata="1">מדעת חבירו אלא חדא מתרי ותלתא נקט ואמר רבי חייא בר אבא</row>
+		<row row_number="36" isdata="1">א"ר יוחנן הטוען טענת גנב באבידה משלם תשלומי כפל מאי טעמא</row>
+		<row row_number="37" isdata="1">דכתיב על כל אבדה אשר יאמר איתיביה רבי אבא בר ממל לרבי</row>
+		<row row_number="38" isdata="1">חייא בר אבא כי יתן איש אין נתינת קטן כלום ואין לי אלא שנתנו</row>
+		<row row_number="39" isdata="1">כשהוא קטן ותבעו כשהוא קטן נתנו כשהוא קטן ותבעו כשהוא גדול</row>
+		<row row_number="40" isdata="1">מנין ת"ל עד האלהים יבא דבר שניהם עד שתהא נתינה ותביעה שוין</row>
+		<row row_number="41" isdata="1">כאחד ואם איתא תיהוי נמי כאבידה א"ל הכא במאי עסקינן כגון שאכלו</row>
+		<row row_number="42" isdata="1">כשהוא קטן אבל כשהוא גדול מאי הכי נמי דמשלם אי הכי אדתנא עד שתהא</row>
+		<row row_number="43" isdata="1">נתינה ותביעה שוין כאחד ליתני עד שתהא אכילה ותביעה שוין כאחד א"ל תני</row>
+		<row row_number="44" isdata="1">עד שתהא אכילה ותביעה שוין כאחד רב אשי אמר לא דמי אבידה קא אתיא</row>
+		<row row_number="45" isdata="1">מכח בן דעת והא לא אתיא מכח בן דעת ואמר ר' חייא בר אבא א"ר יוחנן</row>
+		<row row_number="46" isdata="1">הטוען טענת גנב בפקדון אינו חייב עד שיכפור במקצת ויודה במקצת מאי</row>
+		<row row_number="47" isdata="1">טעמא דאמר קרא כי הוא זה ופליגא דר' חייא בר יוסף דאמר ר' חייא בר יוסף</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:29.533779</dateCreated>
+   <lastModified>2020-01-14 15:03:29.533779</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="118">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הבית והעלייה"/><ContMishna/>הגיעוך אין שומעין לו משקבל עליו אמר</row>
+		<row row_number="2" isdata="1">לו הילך את יציאותיך ואני אטול את שלי</row>
+		<row row_number="3" isdata="1">אין שומעין לו השוכר את הפועל לעשות</row>
+		<row row_number="4" isdata="1">עמו בתבן ובקש ואמר לו תן לי שכרי ואמר</row>
+		<row row_number="5" isdata="1">לו טול מה שעשית בשכרך אין שומעין</row>
+		<row row_number="6" isdata="1">לו משקבל עליו ואמר לו הילך שכרך ואני</row>
+		<row row_number="7" isdata="1">אטול את שלי אין שומעין לו:<EndMishna/><StartGemara/>גמ' נפחתה</row>
+		<row row_number="8" isdata="1">רב אמר ברובה ושמואל אמר בארבע</row>
+		<row row_number="9" isdata="1">רב אמר ברובה אבל בארבע אדם זורע</row>
+		<row row_number="10" isdata="1">חציו למטה וחציו למעלה ושמואל אמר</row>
+		<row row_number="11" isdata="1">בארבע אין אדם זורע חציו למטה וחציו</row>
+		<row row_number="12" isdata="1">למעלה וצריכא דאי אשמועינן דירה בהא</row>
+		<row row_number="13" isdata="1">קאמר שמואל משום דלא עבידי אינשי</row>
+		<row row_number="14" isdata="1">דדיירי פורתא הכא ופורתא הכא אבל לענין</row>
+		<row row_number="15" isdata="1">זריעה עבידי אינשי דזרעי הכא פורתא והכא</row>
+		<row row_number="16" isdata="1">פורתא אימא מודה ליה לרב ואי איתמר</row>
+		<row row_number="17" isdata="1">בהך בהך קאמר רב אבל בהא אימא</row>
+		<row row_number="18" isdata="1">מודה ליה לשמואל צריכא: נתנו לו זמן:</row>
+		<row row_number="19" isdata="1">וכמה זמן ב"ד א"ר יוחנן שלשים יום:</row>
+		<row row_number="20" isdata="1">מי שהיה כותלו כו': הא מדקתני סיפא</row>
+		<row row_number="21" isdata="1">הילך יציאותיך מכלל דפנינהו עסקינן טעמא</row>
+		<row row_number="22" isdata="1">דפנינהו הא לא פנינהו לא אמאי ותקנה</row>
+		<row row_number="23" isdata="1">ליה שדהו דאמר ר' יוסי בר' חנינא חצירו של</row>
+		<row row_number="24" isdata="1">אדם קונה לו שלא מדעתו ה"מ היכא דקא</row>
+		<row row_number="25" isdata="1">מיכוין לאקנויי ליה אבל הכא אישתמוטי</row>
+		<row row_number="26" isdata="1">הוא דקא מישתמיט ליה: השוכר לעשות</row>
+		<row row_number="27" isdata="1">עמו בתבן כו': וצריכא דאי אשמועינן להך</row>
+		<row row_number="28" isdata="1">קמייתא דכי קאמר ליה הגיעוך אין שומעין</row>
+		<row row_number="29" isdata="1">לו משום דלית ליה אגרא גביה אבל הכא</row>
+		<row row_number="30" isdata="1">דאית ליה אגרא גביה אימא שומעין לו</row>
+		<row row_number="31" isdata="1">דאמרי אינשי ממרי רשותיך פארי אפרע</row>
+		<row row_number="32" isdata="1">ואי אשמועינן הכא הכא שמשקבל עליו אין שומעין לו משום דאית ליה אגרא</row>
+		<row row_number="33" isdata="1">גביה אבל הכא דלית ליה אגרא גביה אימא שומעין לו צריכא: אין שומעין</row>
+		<row row_number="34" isdata="1">לו: והתניא שומעין לו אמר רב נחמן לא קשיא כאן בשלו כאן בשל חבירו א"ל</row>
+		<row row_number="35" isdata="1">רבה לרב נחמן בשלו מ"ט דא"ל אגרא עלך בשל חבירו נמי שכרו עליו דתניא</row>
+		<row row_number="36" isdata="1">השוכר את הפועל לעשות בשלו והראהו בשל חבירו נותן לו שכרו</row>
+		<row row_number="37" isdata="1">משלם וחוזר ונוטל מבעל הבית מה שההנה אותו אלא אמר רב</row>
+		<row row_number="38" isdata="1">נחמן לא קשיא כאן בשלו כאן בשל הפקר איתיביה רבא לרב נחמן</row>
+		<row row_number="39" isdata="1">מציאת פועל לעצמו אימתי בזמן שאמר לו בעל הבית נכש עמי</row>
+		<row row_number="40" isdata="1">היום או עדור עמי היום אבל אם אמר לו עשה עמי מלאכה היום</row>
+		<row row_number="41" isdata="1">מציאתו לבעל הבית אלא אמר רב נחמן לא קשיא כאן בהגבהה כאן</row>
+		<row row_number="42" isdata="1">בהבטה אמר רבה הבטה בהפקר תנאי היא דתנן שומרי ספיחי</row>
+		<row row_number="43" isdata="1">שביעית נוטלין שכרן מתרומת הלשכה ר' יוסי אומר הרוצה מתנדב</row>
+		<row row_number="44" isdata="1">הוא ושומר חנם אמרו לו אתה אומר כן אין באין משל צבור מאי</row>
+		<row row_number="45" isdata="1">לאו בהא קמיפלגי דת"ק סבר הבטה בהפקר קני ואי יהיבי ליה אגרא</row>
+		<row row_number="46" isdata="1">אין ואי לא לא ורבי יוסי סבר הבטה בהפקר לא קני וכי אזלי צבור</row>
+		<row row_number="47" isdata="1">ומייתי השתא הוא דקא זכי ביה ומה אתה אומר הכי קאמרי ליה מדבריך</row>
+		<row row_number="48" isdata="1">לדברינו אין עומר ושתי לחם באין משל צבור אמר רבא לא דכ"ע הבטה</row>
+		<row row_number="49" isdata="1">בהפקר קני והכא חיישינן שמא לא ימסרם יפה יפה קמיפלגי דרבנן סברי</row>
+		<row row_number="50" isdata="1">יהבינן ליה אגרא ואי לא חיישינן שמא לא ימסרם יפה יפה רבי יוסי סבר לא</row>
+		<row row_number="51" isdata="1">חיישינן שמא לא ימסרם יפה יפה ומה אתה אומר הכי קאמרי ליה מדבריך</row>
+		<row row_number="52" isdata="1">לדברינו דחיישינן שמא לא ימסרם יפה יפה אין עומר ושתי לחם באין</row>
+		<row row_number="53" isdata="1">משל צבור איכא דאמרי רבא אמר דכ"ע הבטה בהפקר לא קני והכא בחיישינן לבעלי זרועות קמיפלגי דת"ק</row>
+		<row row_number="54" isdata="1">סבר דתקינו רבנן למיתב ליה ארבע זוזי כי היכי דלישמעי בעלי זרועות וליפרשו מינייהו ור' יוסי סבר לא תקינו</row>
+</amud>
+</daf>
+</masechet>
+</root>

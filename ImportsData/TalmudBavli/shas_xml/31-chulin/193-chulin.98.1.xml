@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:16.334484</dateCreated>
+   <lastModified>2020-01-14 15:04:16.334484</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="98">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "גיד הנשה"/><ContGemara/>בביצת אפרוח אבל טמאה לא איתיביה</row>
+		<row row_number="2" isdata="1">ביצים טהורות ששלקן עם ביצים טמאות</row>
+		<row row_number="3" isdata="1">אם יש בהן בנותן טעם כולן אסורות הכא</row>
+		<row row_number="4" isdata="1">נמי בביצת אפרוח ואמאי קרי לה טמאה</row>
+		<row row_number="5" isdata="1">כיון דאית בה אפרוח קרי לה טמאה והא</row>
+		<row row_number="6" isdata="1">מדקתני סיפא ביצים ששלקן ונמצא אפרוח</row>
+		<row row_number="7" isdata="1">באחת מהן אם יש בהן בנותן טעם כולן</row>
+		<row row_number="8" isdata="1">אסורות מכלל דרישא דלית בה אפרוח עסקינן</row>
+		<row row_number="9" isdata="1">פירושי קא מפרש ביצים טהורות ששלקן עם</row>
+		<row row_number="10" isdata="1">ביצים טמאות אם יש בהן בנותן טעם כולן</row>
+		<row row_number="11" isdata="1">אסורות כיצד כגון ששלקן ונמצא אפרוח</row>
+		<row row_number="12" isdata="1">באחת מהן ה"נ מסתברא דאי ס"ד רישא</row>
+		<row row_number="13" isdata="1">דלית בה אפרוח השתא דלית בה אפרוח</row>
+		<row row_number="14" isdata="1">אסורה דאית בה אפרוח מיבעיא אי משום</row>
+		<row row_number="15" isdata="1">הא לא איריא תנא סיפא לגלויי רישא שלא</row>
+		<row row_number="16" isdata="1">תאמר רישא דאית בה אפרוח אבל לית בה</row>
+		<row row_number="17" isdata="1">אפרוח שריא תנא סיפא דאית בה אפרוח</row>
+		<row row_number="18" isdata="1">מכלל דרישא דלית בה אפרוח ואפילו הכי</row>
+		<row row_number="19" isdata="1">אסירא ההוא כזיתא תרבא דנפל בדיקולא</row>
+		<row row_number="20" isdata="1">דבשרא סבר רב אסי לשעוריה במאי דבלע</row>
+		<row row_number="21" isdata="1">דיקולא אמרי ליה רבנן לרב אשי אטו</row>
+		<row row_number="22" isdata="1">דהיתרא בלע דאיסורא לא בלע ההוא פלגא</row>
+		<row row_number="23" isdata="1">דזיתא דתרבא דנפל בדיקולא דבשרא סבר</row>
+		<row row_number="24" isdata="1">מר בר רב אשי לשעוריה בתלתין פלגי דזיתא</row>
+		<row row_number="25" isdata="1">אמר ליה אבוה לאו אמינא לך לא תזלזל</row>
+		<row row_number="26" isdata="1">בשיעורין דרבנן ועוד האמר ר' יוחנן חצי</row>
+		<row row_number="27" isdata="1">שיעור אסור מן התורה אמר רב שמן בר</row>
+		<row row_number="28" isdata="1">אבא אמר רב אידי בר אידי בר גרשם אמר</row>
+		<row row_number="29" isdata="1">לוי בר פרטא אמר רבי נחום אמר רבי ביריים</row>
+		<row row_number="30" isdata="1">משום זקן אחד ורבי יעקב שמיה דבי נשיאה</row>
+		<row row_number="31" isdata="1">אמרו ביצה בס' אסורה בס' ואחת מותרת</row>
+		<row row_number="32" isdata="1">אמר רבי זירא לרב שמן בר אבא ראה שאתה</row>
+		<row row_number="33" isdata="1">מטיל בה גבול היתר שהרי שני גדולי הדור</row>
+		<row row_number="34" isdata="1">לא פירשו את הדבר רבי יעקב בר אידי ורבי</row>
+		<row row_number="35" isdata="1">שמואל בר נחמני תרוייהו משמיה דרבי</row>
+		<row row_number="36" isdata="1">יהושע בן לוי אמרי ביצה בס' אסורה בס' ואחת מותרת ואיבעיא להו בס'</row>
+		<row row_number="37" isdata="1">ואחת בהדי דידה או דילמא לבר מינה ולא פשיט ומר פשיט לה מפשט אתמר</row>
+		<row row_number="38" isdata="1">אמר רבי חלבו אמר רב הונא ביצה בס' והיא אסורה בס' ואחת והיא מותרת</row>
+		<row row_number="39" isdata="1">ההוא דאתא לקמיה דר"ג בר רבי א"ל אבא לא שיער בארבעים ושבע ואני</row>
+		<row row_number="40" isdata="1">אשער בארבעים וחמש ההוא דאתא לקמיה דר"ש בר רבי א"ל אבא לא שיער</row>
+		<row row_number="41" isdata="1">במ"ה ואני אשער במ"ג ההוא דאתא לקמיה דר' חייא א"ל כלום יש שלשים</row>
+		<row row_number="42" isdata="1">טעמא דליכא שלשים הא איכא שלשים משערין אמר ר' חנינא גוזמא אמר ר'</row>
+		<row row_number="43" isdata="1">חייא בר אבא אמר ר' יהושע בן לוי משום בר קפרא כל איסורין שבתורה בס'</row>
+		<row row_number="44" isdata="1">אמר לפניו ר' שמואל בר רב יצחק רבי אתה אומר כן הכי אמר רב אסי אמר</row>
+		<row row_number="45" isdata="1">ר' יהושע בן לוי משום בר קפרא כל איסורין שבתורה במאה ושניהם לא למדוה</row>
+		<row row_number="46" isdata="1">אלא מזרוע בשלה דכתיב ולקח הכהן את הזרוע בשלה וגו' ותניא בשלה</row>
+</amud>
+</daf>
+</masechet>
+</root>

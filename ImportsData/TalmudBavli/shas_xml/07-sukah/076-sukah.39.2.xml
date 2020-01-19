@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:40.571285</dateCreated>
+   <lastModified>2020-01-14 15:02:40.571285</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="39">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "לולב הגזול"/><ContGemara/>ובא ואוכלן בקדושת שביעית בד"א בלוקח</row>
+		<row row_number="2" isdata="1">מן המופקר אבל בלוקח מן המשומר אפילו</row>
+		<row row_number="3" isdata="1">בכחצי איסר אסור מתיב רב ששת ומן</row>
+		<row row_number="4" isdata="1">המופקר ג' סעודות ותו לא ורמינהי הפיגם</row>
+		<row row_number="5" isdata="1">והירבוזין והשיטים וחלגלוגות והכוסבר</row>
+		<row row_number="6" isdata="1">שבהרים והכרפס שבנהרות והגרגיר של</row>
+		<row row_number="7" isdata="1">אפר פטורין מן המעשר וניקחין מכל אדם</row>
+		<row row_number="8" isdata="1">בשביעית לפי שאין כיוצא בהן נשמר הוא</row>
+		<row row_number="9" isdata="1">מותיב לה והוא מפרק לה בכדי מן שנו וכן</row>
+		<row row_number="10" isdata="1">אמר רבה בר בר חנה א"ר יוחנן בכדי מן</row>
+		<row row_number="11" isdata="1">שנו מאי משמע דהאי מן לישנא דמזוני הוא</row>
+		<row row_number="12" isdata="1">דכתיב וימן להם המלך וגו' אי הכי לולב</row>
+		<row row_number="13" isdata="1">נמי לולב בר ששית הנכנס לשביעית הוא אי</row>
+		<row row_number="14" isdata="1">הכי אתרוג נמי בת ששית הנכנסת לשביעית</row>
+		<row row_number="15" isdata="1">היא אתרוג בתר לקיטה אזלינן והא בין ר"ג ובין</row>
+		<row row_number="16" isdata="1">ר' אליעזר לענין שביעית אתרוג בתר חנטה</row>
+		<row row_number="17" isdata="1">אזלינן דתנן אתרוג שוה לאילן בג' דרכים</row>
+		<row row_number="18" isdata="1">ולירק בדרך אחד שוה לאילן בג' דרכים</row>
+		<row row_number="19" isdata="1">לערלה ולרבעי ולשביעית ולירק בדרך אחד</row>
+</amud>
+</daf>
+</masechet>
+</root>

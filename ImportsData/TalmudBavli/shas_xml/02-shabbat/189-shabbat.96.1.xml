@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:14.490421</dateCreated>
+   <lastModified>2020-01-14 15:02:14.490421</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="96">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>הא ברברבי והא בזוטרי אמר רב אסי שונין</row>
+		<row row_number="2" isdata="1">כלי חרס שיעורו בכונס משקה ולא אמרו</row>
+		<row row_number="3" isdata="1">מוציא משקה אלא לענין גיסטרא בלבד</row>
+		<row row_number="4" isdata="1">מאי טעמא אמר מר זוטרא בריה דרב נחמן</row>
+		<row row_number="5" isdata="1">לפי שאין אומרים הבא גיסטרא לגיסטרא</row>
+		<row row_number="6" isdata="1">אמר עולא פליגי בה תרי אמוראי במערבא</row>
+		<row row_number="7" isdata="1">רבי יוסי בר' אבין ור' יוסי בר זבדא חד אמר</row>
+		<row row_number="8" isdata="1">כמוציא רמון וחד אמר כשורש קטן וסימניך</row>
+		<row row_number="9" isdata="1">אחד המרבה ואחד הממעיט אמר רב חיננא</row>
+		<row row_number="10" isdata="1">בר כהנא משמיה דרבי אליעזר כלי חרס</row>
+		<row row_number="11" isdata="1">שיעורו כמוציא זיתים ומר קשישא בריה</row>
+		<row row_number="12" isdata="1">דרבה מסיים בה משמיה דרבי אליעזר והרי</row>
+		<row row_number="13" isdata="1">הן ככלי גללים וכלי אבנים וכלי אדמה</row>
+		<row row_number="14" isdata="1">שאין מקבלין טומאה לא מדברי תורה</row>
+		<row row_number="15" isdata="1">ולא מדברי סופרים ולענין צמיד פתיל עד</row>
+		<row row_number="16" isdata="1">שיפחת רובו:<EndChapter name = "המצניע"/><EndGemara/></row>
+		<row row_number="17" isdata="0">הדרן עלך המצניע</row>
+		<row row_number="18" isdata="1"><StartChapter name = "הזורק"/><StartMishna/>הזורק מרשות היחיד לרשות הרבים</row>
+		<row row_number="19" isdata="1">מרשות הרבים לרשות היחיד</row>
+		<row row_number="20" isdata="1">חייב מרשות היחיד לרשות היחיד ורשות</row>
+		<row row_number="21" isdata="1">הרבים באמצע רבי עקיבא מחייב וחכמים</row>
+		<row row_number="22" isdata="1">פוטרין כיצד שתי גזוזטראות זו כנגד זו</row>
+		<row row_number="23" isdata="1">ברשות הרבים המושיט והזורק מזו לזו</row>
+		<row row_number="24" isdata="1">פטור היו שתיהן בדיוטא אחת המושיט</row>
+		<row row_number="25" isdata="1">חייב והזורק פטור שכך היתה עבודת</row>
+		<row row_number="26" isdata="1">הלוים שתי עגלות זו אחר זו ברשות הרבים</row>
+		<row row_number="27" isdata="1">מושיטין הקרשים מזו לזו אבל לא זורקין:</row>
+</amud>
+</daf>
+</masechet>
+</root>

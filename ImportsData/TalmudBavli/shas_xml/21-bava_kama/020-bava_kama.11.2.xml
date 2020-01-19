@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:17.564851</dateCreated>
+   <lastModified>2020-01-14 15:03:17.564851</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="11">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אבות"/><ContGemara/>דיש מקצת שליא בלא ולד וגזירה מקצתה</row>
+		<row row_number="2" isdata="1">אטו כולה קמ"ל ואמר עולא אמר רבי אלעזר</row>
+		<row row_number="3" isdata="1">בכור שנטרף בתוך ל' יום אין פודין אותו</row>
+		<row row_number="4" isdata="1">וכן תני רמי בר חמא מתוך שנאמר פדה</row>
+		<row row_number="5" isdata="1">תפדה יכול אפי' נטרף בתוך ל' יום ת"ל אך</row>
+		<row row_number="6" isdata="1">חלק ואמר עולא א"ר אלעזר בהמה גסה</row>
+		<row row_number="7" isdata="1">נקנית במשיכה והא אנן תנן במסירה הוא</row>
+		<row row_number="8" isdata="1">דאמר כי האי תנא דתניא וחכ"א זו וזו</row>
+		<row row_number="9" isdata="1">במשיכה ר"ש אומר זו וזו בהגבהה ואמר</row>
+		<row row_number="10" isdata="1">עולא אמר ר' אלעזר האחין שחלקו מה</row>
+		<row row_number="11" isdata="1">שעליהן שמין ומה שעל בניהן ובנותיהן</row>
+		<row row_number="12" isdata="1">אין שמין אמר רב פפא פעמים אף מה</row>
+		<row row_number="13" isdata="1">שעליהן אין שמין משכחת לה בגדול</row>
+		<row row_number="14" isdata="1">אחי דניחא להו דלשתמעון מיליה ואמר</row>
+		<row row_number="15" isdata="1">עולא א"ר אלעזר שומר שמסר לשומר</row>
+		<row row_number="16" isdata="1">פטור ולא מיבעיא שומר חנם שמסר לשומר</row>
+		<row row_number="17" isdata="1">שכר דעלויי עלייה לשמירתו אלא אפילו</row>
+		<row row_number="18" isdata="1">שומר שכר שמסר לשומר חנם דהשתא</row>
+		<row row_number="19" isdata="1">גרועי גרעיה לשמירתו נמי פטור שהרי</row>
+		<row row_number="20" isdata="1">מסר לבן דעת רבא אמר שומר שמסר</row>
+		<row row_number="21" isdata="1">לשומר חייב ולא מיבעיא שומר שכר שמסר</row>
+		<row row_number="22" isdata="1">לשומר חנם דגרועי גרעיה לשמירתו אלא</row>
+		<row row_number="23" isdata="1">אפילו שומר חנם שמסר לשומר שכר חייב</row>
+		<row row_number="24" isdata="1">דאמר ליה את מהימנת לי בשבועה האי לא</row>
+		<row row_number="25" isdata="1">מהימן לי בשבועה ואמר עולא א"ר אלעזר</row>
+		<row row_number="26" isdata="1">הלכתא גובין מן העבדים אמר ליה ר"נ לעולא</row>
+		<row row_number="27" isdata="1">אמר רבי אלעזר אפי' מיתמי לא מיניה מיניה</row>
+		<row row_number="28" isdata="1">אפי' מגלימא דעל כתפיה הכא במאי עסקינן</row>
+		<row row_number="29" isdata="1">שעשאו אפותיקי כדרבא דאמר רבא עשה</row>
+		<row row_number="30" isdata="1">עבדו אפותיקי ומכרו בעל חוב גובה הימנו</row>
+		<row row_number="31" isdata="1">שורו אפותיקי ומכרו אין ב"ח גובה הימנו</row>
+		<row row_number="32" isdata="1">מ"ט הא אית ליה קלא והא לית ליה קלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

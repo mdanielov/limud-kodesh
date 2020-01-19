@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:47.671045</dateCreated>
+   <lastModified>2020-01-14 15:02:47.671045</lastModified>
+ </meta>
+ <masechet name="חגיגה" serial="13">
+<daf value="9">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל חייבין"/><ContGemara/>לא שנו אלא שלא גמר אבל גמר חוזר</row>
+		<row row_number="2" isdata="1">ומקריב מאי גמר אילימא גמר קרבנותיו</row>
+		<row row_number="3" isdata="1">מאי מקריב אלא שלא גמר היום אבל גמר</row>
+		<row row_number="4" isdata="1">היום חוזר ומקריב<EndGemara/><StartMishna/>מתני' מי שלא חג</row>
+		<row row_number="5" isdata="1">ביו"ט הראשון של חג חוגג את כל הרגל</row>
+		<row row_number="6" isdata="1">ויו"ט האחרון של חג עבר הרגל ולא חג אינו</row>
+		<row row_number="7" isdata="1">חייב באחריותו על זה נאמר מעוות לא יוכל</row>
+		<row row_number="8" isdata="1">לתקון וחסרון לא יוכל להמנות ר' שמעון בן</row>
+		<row row_number="9" isdata="1">מנסייא אומר איזהו מעוות שאינו יכול</row>
+		<row row_number="10" isdata="1">להתקן זה הבא על הערוה והוליד ממנה</row>
+		<row row_number="11" isdata="1">ממזר א"ת בגונב וגוזל יכול הוא להחזירו</row>
+		<row row_number="12" isdata="1">ויתקן ר"ש בן יוחי אומר אין קורין מעוות</row>
+		<row row_number="13" isdata="1">אלא למי שהיה מתוקן בתחילה ונתעוות</row>
+		<row row_number="14" isdata="1">ואי זה זה תלמיד חכם הפורש מן התורה:</row>
+		<row row_number="15" isdata="1"><EndMishna/><StartGemara/>גמ' מנהני מילי אמר רבי יוחנן משום רבי</row>
+		<row row_number="16" isdata="1">ישמעאל נאמר עצרת בשביעי של פסח</row>
+		<row row_number="17" isdata="1">ונאמר עצרת בשמיני של חג מה להלן</row>
+		<row row_number="18" isdata="1">לתשלומין אף כאן לתשלומין מופנה דאי</row>
+		<row row_number="19" isdata="1">לאו מופנה איכא למיפרך מה לשביעי של</row>
+		<row row_number="20" isdata="1">פסח שכן אינו חלוק משלפניו תאמר בשמיני</row>
+		<row row_number="21" isdata="1">של חג שחלוק משלפניו לאיי אפנויי מופנה</row>
+		<row row_number="22" isdata="1">מכדי מאי עצרת עצור בעשיית מלאכה</row>
+		<row row_number="23" isdata="1">הכתיב לא תעשה מלאכה עצרת דכתב</row>
+		<row row_number="24" isdata="1">רחמנא למה לי אלא שמע מינה לאפנויי</row>
+		<row row_number="25" isdata="1">ותנא מייתי לה מהכא דתניא וחגותם אותו</row>
+		<row row_number="26" isdata="1">חג לה' שבעת ימים יכול יהא חוגג והולך</row>
+		<row row_number="27" isdata="1">כל שבעה ת"ל אותו אותו אתה חוגג ואי</row>
+		<row row_number="28" isdata="1">אתה חוגג כל שבעה אם כן למה נאמר</row>
+		<row row_number="29" isdata="1">שבעה לתשלומין ומנין שאם לא חג יו"ט</row>
+		<row row_number="30" isdata="1">הראשון של חג שחוגג והולך את כל הרגל</row>
+		<row row_number="31" isdata="1">ויום טוב האחרון ת"ל בחדש השביעי תחגו</row>
+		<row row_number="32" isdata="1">אותו אי בחדש השביעי יכול יהא חוגג והולך</row>
+		<row row_number="33" isdata="1">החדש כולו ת"ל אותו אותו אתה חוגג ואי</row>
+		<row row_number="34" isdata="1">אתה חוגג חוצה לו ומאי תשלומין ר' יוחנן</row>
+		<row row_number="35" isdata="1">אמר תשלומין לראשון ור' אושעיא אמר</row>
+		<row row_number="36" isdata="1">תשלומין זה לזה מאי בינייהו א"ר זירא חיגר</row>
+		<row row_number="37" isdata="1">ביום ראשון ונתפשט ביום שני איכא בינייהו</row>
+		<row row_number="38" isdata="1">רבי יוחנן אמר תשלומין לראשון כיון דלא</row>
+		<row row_number="39" isdata="1">חזי בראשון לא חזי בשני ור' אושעיא אמר</row>
+		<row row_number="40" isdata="1">תשלומין זה לזה אע"ג דלא חזי בראשון חזי</row>
+		<row row_number="41" isdata="1">בשני ומי א"ר יוחנן הכי והאמר חזקיה נטמא</row>
+		<row row_number="42" isdata="1">ביום מביא בלילה אינו מביא ורבי יוחנן</row>
+		<row row_number="43" isdata="1">אמר אף בלילה נמי מביא א"ר ירמיה שאני</row>
+		<row row_number="44" isdata="1">טומאה דיש לה תשלומין בפסח שני מתקיף</row>
+		<row row_number="45" isdata="1">לה רב פפא הניחא למאן דאמר פסח</row>
+</amud>
+</daf>
+</masechet>
+</root>

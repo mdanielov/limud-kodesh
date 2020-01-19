@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:31.984598</dateCreated>
+   <lastModified>2020-01-14 15:02:31.984598</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="106">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>הנוטל ידיו לא יקדש אמר להו רב יצחק</row>
+		<row row_number="2" isdata="1">בר שמואל בר מרתא אכתי לא נח נפשיה</row>
+		<row row_number="3" isdata="1">דרב שכחנינהו לשמעתתיה זמנין סגיאין</row>
+		<row row_number="4" isdata="1">הוה קאימנא קמיה דרב זימנין דחביבא עליה</row>
+		<row row_number="5" isdata="1">ריפתא מקדש אריפתא זימנין דחביבא ליה</row>
+		<row row_number="6" isdata="1">חמרא מקדש אחמרא אמר רב הונא אמר רב</row>
+		<row row_number="7" isdata="1">טעם אינו מקדש בעא מיניה רב חנא בר</row>
+		<row row_number="8" isdata="1">חיננא מרב הונא טעם מהו שיבדיל א"ל אני</row>
+		<row row_number="9" isdata="1">אומר טעם מבדיל ורב אסי אמר טעם אינו</row>
+		<row row_number="10" isdata="1">מבדיל רב ירמיה בר אבא איקלע לבי רב אסי</row>
+		<row row_number="11" isdata="1">אישתלי וטעים מידי הבו ליה כסא ואבדיל</row>
+		<row row_number="12" isdata="1">אמרה ליה דביתהו והא מר לא עביד הכי</row>
+		<row row_number="13" isdata="1">אמר לה שבקיה כרביה סבירא ליה אמר</row>
+		<row row_number="14" isdata="1">רב יוסף אמר שמואל טעם אינו מקדש</row>
+		<row row_number="15" isdata="1">טעם אינו מבדיל ורבה אמר רב נחמן</row>
+		<row row_number="16" isdata="1">אמר שמואל טעם מקדש וטעם מבדיל</row>
+</amud>
+</daf>
+</masechet>
+</root>

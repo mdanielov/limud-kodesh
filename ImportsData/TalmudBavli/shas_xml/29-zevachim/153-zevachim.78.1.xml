@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:59.597752</dateCreated>
+   <lastModified>2020-01-14 15:03:59.597752</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="78">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים שנתערבו"/><ContMishna/>רבי יהודה אומר אין דם מבטל דם נתערב</row>
+		<row row_number="2" isdata="1">בדם פסולין ישפך לאמה בדם התמצית</row>
+		<row row_number="3" isdata="1">ישפך לאמה רבי אליעזר מכשיר אם לא</row>
+		<row row_number="4" isdata="1">נמלך ונתן כשר:<EndMishna/><StartGemara/>גמ' א"ר חייא בר אבא</row>
+		<row row_number="5" isdata="1">א"ר יוחנן ל"ש אלא שנפלו מים לתוך דם</row>
+		<row row_number="6" isdata="1">אבל נפל דם לתוך מים ראשון ראשון בטל</row>
+		<row row_number="7" isdata="1">אמר רב פפא ולענין כיסוי אינו כן לפי שאין</row>
+		<row row_number="8" isdata="1">דחוי במצות: אמר ר"ל הפיגול והנותר</row>
+		<row row_number="9" isdata="1">והטמא שבללן זה בזה ואכלן פטור א"א</row>
+		<row row_number="10" isdata="1">שלא ירבה מין על חבירו ויבטלנו שמע מינה</row>
+		<row row_number="11" isdata="1">תלת ש"מ איסורין מבטלין זה את זה וש"מ</row>
+		<row row_number="12" isdata="1">נותן טעם ברוב לאו דאורייתא וש"מ התראת</row>
+		<row row_number="13" isdata="1">ספק לא שמה התראה מתיב רבא עשה</row>
+		<row row_number="14" isdata="1">עיסה מן חיטין ומן אורז אם יש בה טעם דגן</row>
+		<row row_number="15" isdata="1">חייבת בחלה ואע"ג דרובא אורז מדרבנן אי הכי</row>
+		<row row_number="16" isdata="1">אימא סיפא אדם יוצא בה ידי חובתו בפסח</row>
+</amud>
+</daf>
+</masechet>
+</root>

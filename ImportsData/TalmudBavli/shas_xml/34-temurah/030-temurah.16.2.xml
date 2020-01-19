@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:25.067459</dateCreated>
+   <lastModified>2020-01-14 15:04:25.067459</lastModified>
+ </meta>
+ <masechet name="תמורה" serial="34">
+<daf value="16">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש בקרבנות"/><ContGemara/>וכי דנין אפשר משאי אפשר (ר' שמעון</row>
+		<row row_number="2" isdata="1">בחד מקום גמיר להו) אמר ר"ל ארבעה נתנו</row>
+		<row row_number="3" isdata="1">להן והעמידום על חמש ואי ס"ד בצבור הנך</row>
+		<row row_number="4" isdata="1">מי איתנהו בצבור אלא על כרחיך ילמד סתום</row>
+		<row row_number="5" isdata="1">ממפורש ר' נתן אומר אחת נתנה להן והעמידוה</row>
+		<row row_number="6" isdata="1">על חמש וליחזי בהי סידרא גמירי להו אי ביחיד</row>
+		<row row_number="7" isdata="1">אי בצבור שתי שכחיות שכחו וקשיא להו</row>
+		<row row_number="8" isdata="1">ואי ס"ד בצבור הנך מי איתנהו בצבור אלא</row>
+		<row row_number="9" isdata="1">ש"מ ילמד סתום ממפורש מה מפורש ביחיד ולא</row>
+		<row row_number="10" isdata="1">בצבור אף סתום ביחיד ולא בצבור<EndGemara/><StartMishna/>מתני'</row>
+		<row row_number="11" isdata="1">חומר בקדשים מבתמורה וחומר בתמורה</row>
+		<row row_number="12" isdata="1">מבקדשים חומר בקדשים מבתמורה שהקדשים</row>
+		<row row_number="13" isdata="1">עושין תמורה ואין תמורה עושה תמורה</row>
+		<row row_number="14" isdata="1">הצבור והשותפין מקדישין אבל לא ממירין</row>
+		<row row_number="15" isdata="1">ומקדישין עוברין ואברים אבל לא ממירין</row>
+		<row row_number="16" isdata="1">חומר בתמורה מבקדשים שהקדושה</row>
+		<row row_number="17" isdata="1">חלה על בעלת מום קבוע ואין יוצא לחולין</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:48.135028</dateCreated>
+   <lastModified>2020-01-14 15:02:48.135028</lastModified>
+ </meta>
+ <masechet name="חגיגה" serial="13">
+<daf value="20">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אין דורשין"/><ContGemara/>והתניא הרי שהיו חמריו ופועליו טעונין</row>
+		<row row_number="2" isdata="1">טהרות אע"פ שהפליג מהן יותר ממיל</row>
+		<row row_number="3" isdata="1">טהרותיו טהורות ואם אמר להם לכו ואני אבוא</row>
+		<row row_number="4" isdata="1">אחריכם כיון שנתעלמו עיניו מהן טהרותיו</row>
+		<row row_number="5" isdata="1">טמאות מאי שנא רישא ומאי שנא סיפא</row>
+		<row row_number="6" isdata="1">א"ר יצחק נפחא רישא במטהר חמריו</row>
+		<row row_number="7" isdata="1">ופועליו לכך אי הכי סיפא נמי אין ע"ה</row>
+		<row row_number="8" isdata="1">מקפיד על מגע חבירו אי הכי רישא נמי</row>
+		<row row_number="9" isdata="1">בבא להם דרך עקלתון אי הכי סיפא נמי</row>
+		<row row_number="10" isdata="1">כיון דאמר להו לכו ואני אבוא אחריכם</row>
+		<row row_number="11" isdata="1">מיסמך סמכא דעתייהו:<EndChapter name = "אין דורשין"/><EndGemara/></row>
+		<row row_number="12" isdata="0">הדרן עלך אין דורשין</row>
+		<row row_number="13" isdata="1"><StartChapter name = "חומר בקודש "/><StartMishna/>חומר בקדש מבתרומה שמטבילין כלים</row>
+		<row row_number="14" isdata="1">בתוך כלים לתרומה אבל לא</row>
+		<row row_number="15" isdata="1">לקדש אחוריים ותוך ובית הצביטה בתרומה</row>
+		<row row_number="16" isdata="1">אבל לא בקדש הנושא את המדרס נושא את</row>
+		<row row_number="17" isdata="1">התרומה אבל לא את הקדש בגדי אוכלי</row>
+		<row row_number="18" isdata="1">תרומה מדרס לקדש לא כמדת הקדש מדת</row>
+		<row row_number="19" isdata="1">התרומה שבקדש מתיר ומנגב ומטביל ואח"כ</row>
+		<row row_number="20" isdata="1">קושר ובתרומה קושר ואח"כ מטביל כלים</row>
+		<row row_number="21" isdata="1">הנגמרים בטהרה צריכין טבילה לקדש אבל</row>
+		<row row_number="22" isdata="1">לא לתרומה הכלי מצרף מה שבתוכו לקדש</row>
+		<row row_number="23" isdata="1">אבל לא לתרומה הרביעי בקדש פסול</row>
+		<row row_number="24" isdata="1">והשלישי בתרומה ובתרומה אם נטמאת</row>
+		<row row_number="25" isdata="1">אחת מידיו חבירתה טהורה ובקדש מטביל</row>
+		<row row_number="26" isdata="1">שתיהן שהיד מטמא את חבירתה בקדש</row>
+		<row row_number="27" isdata="1">אבל לא בתרומה אוכלין אוכלים נגובין</row>
+		<row row_number="28" isdata="1">בידים מסואבות בתרומה אבל לא בקדש</row>
+</amud>
+</daf>
+</masechet>
+</root>

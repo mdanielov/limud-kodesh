@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:10.090601</dateCreated>
+   <lastModified>2020-01-14 15:02:10.090601</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="8">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>נתכוון לשבות ברה"ר והניח עירובו בבור</row>
+		<row row_number="2" isdata="1">למעלה מי' טפחים עירובו עירוב למטה מי'</row>
+		<row row_number="3" isdata="1">טפחים אין עירובו עירוב היכי דמי אילימא</row>
+		<row row_number="4" isdata="1">בבור דאית ביה עשרה ולמעלה דדלאי</row>
+		<row row_number="5" isdata="1">ואותביה ולמטה דתתאי ואותביה מה לי</row>
+		<row row_number="6" isdata="1">למעלה ומה לי למטה הוא במקום אחד</row>
+		<row row_number="7" isdata="1">ועירובו במקום אחר הוא אלא לאו בבור</row>
+		<row row_number="8" isdata="1">דלית ביה עשרה וקתני עירובו עירוב אלמא</row>
+		<row row_number="9" isdata="1">תשמיש על ידי הדחק שמיה תשמיש זמנין</row>
+		<row row_number="10" isdata="1">משני ליה הוא ועירובו בכרמלית ואמאי קרי</row>
+		<row row_number="11" isdata="1">לה רה"ר לפי שאינה רשות היחיד וזמנין משני</row>
+		<row row_number="12" isdata="1">ליה הוא ברה"ר ועירובו בכרמלית ורבי היא</row>
+		<row row_number="13" isdata="1">דאמר כל דבר שהוא משום שבות לא גזרו</row>
+		<row row_number="14" isdata="1">עליו בין השמשות ולא תימא דחויי קא מדחינא</row>
+		<row row_number="15" isdata="1">לך אלא דוקא קאמינא לך דתנן אם היה</row>
+		<row row_number="16" isdata="1">רקק מים ורשות הרבים מהלכת בו הזורק</row>
+		<row row_number="17" isdata="1">לתוכה ד' אמות חייב וכמה הוא רקק מים</row>
+		<row row_number="18" isdata="1">פחות מי' טפחים ורקק מים שרה"ר מהלכת</row>
+		<row row_number="19" isdata="1">בו הזורק לתוכו ד' אמות חייב בשלמא רקק</row>
+		<row row_number="20" isdata="1">רקק תרי זימני חד בימות החמה וחד בימות</row>
+		<row row_number="21" isdata="1">הגשמים וצריכא דאי אשמעינן בימות החמה</row>
+		<row row_number="22" isdata="1">דעבידי אינשי לקרורי נפשיהו אבל בימות</row>
+		<row row_number="23" isdata="1">הגשמים אימא לא ואי אשמעינן בימות</row>
+		<row row_number="24" isdata="1">הגשמים אגב דמטניף מקרי ונחית אבל בימות</row>
+		<row row_number="25" isdata="1">החמה לא צריכא אלא הילוך תרי זימני למה</row>
+		<row row_number="26" isdata="1">לי אלא לאו ש"מ הילוך על ידי הדחק שמיה</row>
+		<row row_number="27" isdata="1">הילוך תשמיש על ידי הדחק לא שמיה תשמיש</row>
+		<row row_number="28" isdata="1">ש"מ אמר רב יהודה האי זירזא דקני רמא</row>
+		<row row_number="29" isdata="1">וזקפיה רמא וזקפיה לא מיחייב עד דעקר ליה</row>
+		<row row_number="30" isdata="1">אמר מר אדם עומד על האסקופה נוטל</row>
+		<row row_number="31" isdata="1">מבעה"ב ונותן לו נוטל מעני ונותן לו האי</row>
+		<row row_number="32" isdata="1">אסקופה מאי אילימא אסקופת רה"ר נוטל</row>
+		<row row_number="33" isdata="1">מבעל הבית הא מפיק מרה"י לרה"ר ואלא</row>
+		<row row_number="34" isdata="1">אסקופת רה"י נוטל מן העני הא קא מעייל</row>
+		<row row_number="35" isdata="1">מרה"ר לרה"י אלא אסקופת כרמלית נוטל</row>
+		<row row_number="36" isdata="1">ונותן לכתחלה סוף סוף איסורא מיהא איתא</row>
+		<row row_number="37" isdata="1">אלא אסקופה מקום פטור בעלמא הוא</row>
+		<row row_number="38" isdata="1">כגון דלית ביה ד' על ד' וכי הא דכי אתא</row>
+		<row row_number="39" isdata="1">רב דימי אמר רבי יוחנן מקום שאין בו ד' על</row>
+		<row row_number="40" isdata="1">ד' טפחים מותר לבני רשות היחיד ולבני</row>
+		<row row_number="41" isdata="1">רשות הרבים לכתף עליו ובלבד שלא יחליפו</row>
+		<row row_number="42" isdata="1">אמר מר ובלבד שלא יטול מבעל הבית ונותן</row>
+		<row row_number="43" isdata="1">לעני מעני ונותן לבעל הבית ואם נטל</row>
+		<row row_number="44" isdata="1">ונתן שלשתן פטורין לימא תיהוי תיובתא</row>
+		<row row_number="45" isdata="1">דרבא דאמר רבא המעביר חפץ מתחילת</row>
+		<row row_number="46" isdata="1">ד' לסוף ד' ברשות הרבים אע"פ שהעבירו</row>
+</amud>
+</daf>
+</masechet>
+</root>

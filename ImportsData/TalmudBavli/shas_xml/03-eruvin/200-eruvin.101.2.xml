@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:24.471959</dateCreated>
+   <lastModified>2020-01-14 15:02:24.471959</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="101">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>אלא אם כן עשה מחיצה גבוהה עשרה</row>
+		<row row_number="2" isdata="1">טפחים דברי רבי מאיר אמרו לו מעשה בשוק</row>
+		<row row_number="3" isdata="1">של פטמים שהיה בירושלים שהיו נועלין</row>
+		<row row_number="4" isdata="1">ומניחין את המפתח בחלון שעל גבי הפתח</row>
+		<row row_number="5" isdata="1">רבי יוסי אומר שוק של צמרים היה: תנו רבנן</row>
+		<row row_number="6" isdata="1">פתחי שערי גינה בזמן שיש להן בית שער</row>
+		<row row_number="7" isdata="1">מבפנים פותח ונועל מבפנים מבחוץ פותח</row>
+		<row row_number="8" isdata="1">ונועל מבחוץ מכאן ומכאן פותח ונועל כאן</row>
+		<row row_number="9" isdata="1">וכאן אין להן לא לכאן ולא לכאן אסורין</row>
+		<row row_number="10" isdata="1">כאן וכאן וכן חנויות הפתוחות לרה"ר בזמן</row>
+		<row row_number="11" isdata="1">שהמנעול למטה מעשרה מביא מפתח</row>
+		<row row_number="12" isdata="1">מערב שבת ומניחו באיסקופה למחר פותח</row>
+		<row row_number="13" isdata="1">ונועל ומחזירו לאיסקופה ובזמן שהמנעול</row>
+		<row row_number="14" isdata="1">למעלה מעשרה מביא מפתח מערב שבת</row>
+		<row row_number="15" isdata="1">ומניחו במנעול למחר פותח ונועל ומחזירו</row>
+		<row row_number="16" isdata="1">למקומו דברי רבי מאיר וחכמים אומרים אף</row>
+		<row row_number="17" isdata="1">בזמן שהמנעול למעלה מעשרה טפחים</row>
+		<row row_number="18" isdata="1">מביא מפתח מערב שבת ומניחו באיסקופה</row>
+		<row row_number="19" isdata="1">למחר פותח ונועל ומחזירו למקומו או</row>
+		<row row_number="20" isdata="1">בחלון שעל גבי הפתח אם יש בחלון ארבעה</row>
+		<row row_number="21" isdata="1">על ארבעה אסור מפני שהוא כמוציא</row>
+		<row row_number="22" isdata="1">מרשות לרשות מדקאמר וכן חנויות מכלל</row>
+		<row row_number="23" isdata="1">דבאיסקופת כרמלית עסקינן האי מנעול</row>
+		<row row_number="24" isdata="1">היכי דמי אי דלית ביה ארבעה מקום פטור</row>
+		<row row_number="25" isdata="1">הוא ואי אית ביה ארבעה בהא לימא רבנן</row>
+		<row row_number="26" isdata="1">אף בזמן שהמנעול למעלה מי' מביא מפתח</row>
+		<row row_number="27" isdata="1">מע"ש ומניחו באיסקופה למחר פותח ונועל</row>
+		<row row_number="28" isdata="1">בו ומחזירו לאיסקופה או לחלון שעל גבי</row>
+		<row row_number="29" isdata="1">הפתח והא קא מטלטל מכרמלית לרה"י</row>
+		<row row_number="30" isdata="1">אמר אביי לעולם דאין בו ארבעה ויש בו</row>
+		<row row_number="31" isdata="1">לחוק ולהשלימו לד' ובהא פליגי דר"מ</row>
+		<row row_number="32" isdata="1">סבר חוקקין להשלים ורבנן סברי אין חוקקין</row>
+		<row row_number="33" isdata="1">להשלים אמר רב ביבי בר אביי ש"מ מהא</row>
+		<row row_number="34" isdata="1">מתניתא תלת ש"מ חוקקין להשלים וש"מ</row>
+		<row row_number="35" isdata="1">הדר ביה ר"מ משערי גינה ושמעת מינה</row>
+		<row row_number="36" isdata="1">מדרבנן איתא לדרב דימי דכי אתא רב</row>
+		<row row_number="37" isdata="1">דימי א"ר יוחנן מקום שאין בו ארבעה על</row>
+		<row row_number="38" isdata="1">ארבעה מותר לבני רשות הרבים ולבני</row>
+		<row row_number="39" isdata="1">רשות היחיד לכתף עליו ובלבד שלא</row>
+		<row row_number="40" isdata="1">יחליפו<EndGemara/><StartMishna/>מתני' נגר שיש בראשו</row>
+		<row row_number="41" isdata="1">גלוסטרא רבי אליעזר אוסר ורבי יוסי מתיר</row>
+		<row row_number="42" isdata="1">אמר רבי אליעזר מעשה בכנסת שבטבריא שהיו נוהגין בו היתר עד</row>
+		<row row_number="43" isdata="1">שבא רבן גמליאל והזקנים ואסרו להן ר' יוסי אומר איסור נהגו בו ובא</row>
+		<row row_number="44" isdata="1">רבן גמליאל והזקנים והתירו להן:<EndMishna/><StartGemara/>גמ' בניטל באגדו כ"ע לא פליגי כי פליגי</row>
+</amud>
+</daf>
+</masechet>
+</root>

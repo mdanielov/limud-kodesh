@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:09.308384</dateCreated>
+   <lastModified>2020-01-14 15:04:09.308384</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="100">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שתי הלחם"/><ContGemara/>כי מטי ליליא דבי שימשי ליקדוש וליפסול</row>
+		<row row_number="2" isdata="1">אמר רבא בשקדם וסילק מר זוטרא</row>
+		<row row_number="3" isdata="1">ואיתימא רב אשי אמר אפילו תימא בשלא</row>
+		<row row_number="4" isdata="1">קדם וסילק כיון דסידרו שלא כמצותו נעשה</row>
+		<row row_number="5" isdata="1">כמי שסדרו הקוף<EndGemara/><StartMishna/>מתני' שתי הלחם</row>
+		<row row_number="6" isdata="1">נאכלות אין פחות משנים ולא יותר על</row>
+		<row row_number="7" isdata="1">שלשה כיצד נאפות מערב יו"ט נאכלות</row>
+		<row row_number="8" isdata="1">ביו"ט לשנים חל יום טוב להיות אחר השבת</row>
+		<row row_number="9" isdata="1">נאכלות לשלשה לחם הפנים נאכל</row>
+		<row row_number="10" isdata="1">אין פחות מתשעה ולא יותר על אחד</row>
+		<row row_number="11" isdata="1">עשר כיצד נאפה מערב שבת ונאכל בשבת</row>
+		<row row_number="12" isdata="1">לתשעה חל יו"ט להיות ערב שבת נאכל</row>
+		<row row_number="13" isdata="1">לעשרה שני ימים [טובים] של ראש השנה</row>
+		<row row_number="14" isdata="1">נאכל לאחד עשר ואינו דוחה לא את השבת</row>
+		<row row_number="15" isdata="1">ולא את יו"ט רבן שמעון בן גמליאל אומר</row>
+		<row row_number="16" isdata="1">משום רבי שמעון בן הסגן דוחה את יו"ט ואינו</row>
+		<row row_number="17" isdata="1">דוחה את יום צום:<EndMishna/><StartGemara/>גמ' אמר רבינא לדברי</row>
+		<row row_number="18" isdata="1">האומר נדרים ונדבות אין קריבין ביו"ט לא</row>
+		<row row_number="19" isdata="1">תימא מדאורייתא מיחזא חזו ורבנן הוא דגזרו</row>
+		<row row_number="20" isdata="1">שלא ישהא אלא מדאורייתא נמי לא חזו</row>
+		<row row_number="21" isdata="1">דהא שתי הלחם דחובת היום הוא וליכא</row>
+		<row row_number="22" isdata="1">למימר שמא ישהא וקתני אינו דוחה לא</row>
+		<row row_number="23" isdata="1">את השבת ולא את יו"ט:<EndChapter name = "שתי הלחם"/><EndGemara/></row>
+		<row row_number="24" isdata="0">הדרן עלך שתי הלחם</row>
+		<row row_number="25" isdata="1"><StartChapter name = "המנחות והנסכים"/><StartMishna/>המנחות והנסכים שנטמאו עד שלא קדשו</row>
+		<row row_number="26" isdata="1">בכלי יש להם פדיון משקידשו</row>
+		<row row_number="27" isdata="1">בכלי אין להם פדיון העופות והעצים והלבונה</row>
+		<row row_number="28" isdata="1">וכלי שרת משנטמאו אין להן פדיון שלא</row>
+		<row row_number="29" isdata="1">נאמר פדיון אלא בבהמה:<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="30" isdata="1">שמואל ואפילו הן טהורין נפדין מאי טעמא</row>
+		<row row_number="31" isdata="1">כמה דלא קדשי בכלי קדושת דמים נינהו</row>
+		<row row_number="32" isdata="1">וקדושת דמים נפדין והא נטמאו תנן הוא</row>
+		<row row_number="33" isdata="1">הדין דאע"ג דלא נטמאו ואיידי דקא בעי</row>
+		<row row_number="34" isdata="1">מיתנא סיפא משקידשו בכלי אין להן פדיון</row>
+		<row row_number="35" isdata="1">דאפילו נטמאו נמי לא תנא נמי רישא</row>
+		<row row_number="36" isdata="1">שנטמאו עד שלא קדשו בכלי פשיטא</row>
+		<row row_number="37" isdata="1">קדושת הגוף נינהו איצטריך סלקא דעתך אמינא הואיל ובעל מום איקרי טמא</row>
+		<row row_number="38" isdata="1">טמא נמי כבעל מום דמי ואע"ג דקדוש קדושת הגוף כי נפיל ביה מום</row>
+		<row row_number="39" isdata="1">מיפריק הני נמי ליפרוק קמשמע לן דלאו כי האי טמא קרייה רחמנא לבעל מום</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:47.195023</dateCreated>
+   <lastModified>2020-01-14 15:02:47.195023</lastModified>
+ </meta>
+ <masechet name="מועד קטן" serial="12">
+<daf value="23">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו מגלחין "/><ContGemara/>יש אבילות בשבת והני אמרי אין אבילות</row>
+		<row row_number="2" isdata="1">בשבת מאן דאמר יש אבילות בשבת</row>
+		<row row_number="3" isdata="1">דקתני עולה מאן דאמר אין אבילות בשבת</row>
+		<row row_number="4" isdata="1">דקתני אינה מפסקת אי סלקא דעתך יש</row>
+		<row row_number="5" isdata="1">אבילות בשבת השתא אבילות נהגא</row>
+		<row row_number="6" isdata="1">אפסוקי מיבעיא ואלא הא קתני עולה איידי</row>
+		<row row_number="7" isdata="1">דקבעי למיתנא סיפא אינן עולים תנא רישא</row>
+		<row row_number="8" isdata="1">עולה ולמאן דאמר יש אבילות בשבת הא</row>
+		<row row_number="9" isdata="1">קתני אינה מפסקת משום דקבעי למיתנא</row>
+		<row row_number="10" isdata="1">סיפא מפסיקין תנא רישא אינה מפסקת</row>
+		<row row_number="11" isdata="1">לימא כתנאי מי שמתו מוטל לפניו אוכל</row>
+		<row row_number="12" isdata="1">בבית אחר אין לו בית אחר אוכל בבית</row>
+		<row row_number="13" isdata="1">חברו אין לו בית חברו עושה לו מחיצה עשרה טפחים אין לו דבר</row>
+		<row row_number="14" isdata="1">לעשות מחיצה מחזיר פניו ואוכל ואינו מיסב ואוכל ואינו אוכל בשר ואינו</row>
+		<row row_number="15" isdata="1">שותה יין ואין מברך ואין מזמן ואין מברכין עליו ואין מזמנין עליו ופטור</row>
+		<row row_number="16" isdata="1">מקריאת שמע ומן התפלה ומן התפילין ומכל מצות האמורות בתורה ובשבת</row>
+		<row row_number="17" isdata="1">מיסב ואוכל ואוכל בשר ושותה יין ומברך ומזמן ומברכין ומזמנין עליו וחייב</row>
+		<row row_number="18" isdata="1">בקריאת שמע ובתפלה ובתפילין ובכל מצות האמורות בתורה רבן גמליאל</row>
+		<row row_number="19" isdata="1">אומר מתוך שנתחייב באלו נתחייב בכולן ואמר ר' יוחנן תשמיש המטה</row>
+		<row row_number="20" isdata="1">איכא בינייהו מאי לאו בהא קא מיפלגי דמר סבר יש אבילות בשבת ומר סבר</row>
+		<row row_number="21" isdata="1">אין אבילות בשבת ממאי דלמא עד כאן לא קאמר תנא קמא התם אלא משום</row>
+		<row row_number="22" isdata="1">דמתו מוטל לפניו אבל הכא דאין מתו מוטל לפניו לא וע"כ לא קאמר ר"ג</row>
+		<row row_number="23" isdata="1">התם דאכתי לא חל אבילות עליה אבל הכא דחל אבילות עליה הכי נמי</row>
+</amud>
+</daf>
+</masechet>
+</root>

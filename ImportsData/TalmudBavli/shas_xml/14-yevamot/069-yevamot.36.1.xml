@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:49.870301</dateCreated>
+   <lastModified>2020-01-14 15:02:49.870301</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="36">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "החולץ"/><ContGemara/>דכל העולה ליבום עולה לחליצה וכל</row>
+		<row row_number="2" isdata="1">שאין עולה ליבום אינו עולה לחליצה אלא</row>
+		<row row_number="3" isdata="1">אמר רבא הכי קאמר הכונס יבמתו ונמצאת</row>
+		<row row_number="4" isdata="1">מעוברת הרי זו לא תנשא צרתה שמא יהא</row>
+		<row row_number="5" isdata="1">ולד בן קיימא וביאת מעוברת לא שמה</row>
+		<row row_number="6" isdata="1">ביאה וחליצת מעוברת לא שמה חליצה</row>
+		<row row_number="7" isdata="1">והולד אינו פוטר עד שיצא לאויר העולם</row>
+		<row row_number="8" isdata="1">תניא כוותיה דרבא הכונס יבמתו ונמצאת</row>
+		<row row_number="9" isdata="1">מעוברת הרי זו לא תנשא צרתה שמא יהא</row>
+		<row row_number="10" isdata="1">ולד בן קיימא ואין ביאה וחליצה פוטרת</row>
+		<row row_number="11" isdata="1">אלא ולד פוטר והולד אין פוטרה עד שיצא</row>
+		<row row_number="12" isdata="1">לאויר העולם טעמא דשמא יהא ולד בן</row>
+		<row row_number="13" isdata="1">קיימא הוא הא לא הוי ולד בן קיימא מיפטר</row>
+		<row row_number="14" isdata="1">צרתה לימא תיהוי תיובתא דר"ל אמר לך</row>
+		<row row_number="15" isdata="1">ר"ל הכי קתני הכונס יבמתו ונמצאת</row>
+		<row row_number="16" isdata="1">מעוברת הרי זו לא תנשא צרתה שמא לא</row>
+		<row row_number="17" isdata="1">יהא הולד בן קיימא וחליצת מעוברת לא</row>
+		<row row_number="18" isdata="1">שמה חליצה וביאת מעוברת לא שמה</row>
+		<row row_number="19" isdata="1">ביאה וא"ת הלך אחר רוב נשים ורוב נשים</row>
+		<row row_number="20" isdata="1">ולד מעליא ילדן ולד אין פוטר עד שיצא</row>
+		<row row_number="21" isdata="1">לאויר העולם א"ר אלעזר אפשר איתא להא</row>
+		<row row_number="22" isdata="1">דריש לקיש ולא תנן לה במתניתין נפק דק</row>
+		<row row_number="23" isdata="1">ואשכח דתנן האשה שהלך בעלה וצרתה</row>
+		<row row_number="24" isdata="1">למדינת הים ובאו ואמרו לה מת בעלך הרי</row>
+		<row row_number="25" isdata="1">זו לא תנשא ולא תתייבם עד שתדע שמא</row>
+		<row row_number="26" isdata="1">מעוברת היא צרתה בשלמא יבומי לא שמא</row>
+		<row row_number="27" isdata="1">יהא ולד בן קיימא ויפגע באיסור אשת אח</row>
+		<row row_number="28" isdata="1">דאורייתא אלא לא תחלוץ אמאי בשלמא</row>
+		<row row_number="29" isdata="1">תחלוץ בתוך ט' ותנשא בתוך ט' לא היינו</row>
+		<row row_number="30" isdata="1">ספק אלא תחלוץ בתוך תשעה ותנשא לאחר</row>
+		<row row_number="31" isdata="1">תשעה ולטעמיך תחלוץ ותנשא לאחר ט'</row>
+		<row row_number="32" isdata="1">אלא בר מינה דההיא דאביי בר אבא ורב</row>
+		<row row_number="33" isdata="1">חיננא בר אביי דאמרי תרוייהו שמא יהא</row>
+		<row row_number="34" isdata="1">ולד בן קיימא ונמצא אתה מצריכה כרוז</row>
+		<row row_number="35" isdata="1">לכהונה ולצרכה דלמא איכא איניש דהוי</row>
+		<row row_number="36" isdata="1">בחליצה ולא הוי בהכרזה ואתי למימר</row>
+		<row row_number="37" isdata="1">קשרי חלוצה לכהן א"ל אביי מידי לא תחלוץ</row>
+		<row row_number="38" isdata="1">ולא תתייבם קתני לא תנשא ולא תתייבם</row>
+		<row row_number="39" isdata="1">קתני בלא חליצה אבל אי חליץ לה הכי נמי</row>
+		<row row_number="40" isdata="1">דשריא תניא כוותיה דריש לקיש החולץ</row>
+		<row row_number="41" isdata="1">למעוברת והפילה צריכה חליצה מן האחין</row>
+		<row row_number="42" isdata="1">אמר רבא הלכתא כוותיה דר"ל בהני תלת</row>
+		<row row_number="43" isdata="1">חדא הא דאמרן אידך דתנן המחלק נכסיו</row>
+		<row row_number="44" isdata="1">על פיו ריבה לאחד ומיעט לאחד והשוה להם</row>
+		<row row_number="45" isdata="1">את הבכור דבריו קיימין ואם אמר משום</row>
+		<row row_number="46" isdata="1">ירושה לא אמר כלום כתב בין בתחלה בין</row>
+		<row row_number="47" isdata="1">בסוף בין באמצע משום מתנה דבריו קיימין</row>
+</amud>
+</daf>
+</masechet>
+</root>

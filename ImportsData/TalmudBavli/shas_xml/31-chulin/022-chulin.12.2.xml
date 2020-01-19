@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:10.727127</dateCreated>
+   <lastModified>2020-01-14 15:04:10.727127</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="12">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>הכי קאמר נראין דברי רבי יהודה לרבי</row>
+		<row row_number="2" isdata="1">חנינא בנו של רבי יוסי הגלילי באשפה</row>
+		<row row_number="3" isdata="1">שבשוק שאף רבי חנינא בנו של רבי יוסי</row>
+		<row row_number="4" isdata="1">הגלילי לא נחלק עליו אלא באשפה שבבית</row>
+		<row row_number="5" isdata="1">אבל באשפה שבשוק מודי ליה ונראין כו':</row>
+		<row row_number="6" isdata="1">חוץ מחרש שוטה וקטן שמא יקלקלו את</row>
+		<row row_number="7" isdata="1">שחיטתן: שמא קלקלו לא קתני אלא שמא</row>
+		<row row_number="8" isdata="1">יקלקלו אמר רבא זאת אומרת אין מוסרין</row>
+		<row row_number="9" isdata="1">להן חולין לכתחלה: וכולן ששחטו ואחרים</row>
+		<row row_number="10" isdata="1">רואים אותם שחיטתן כשרה: מאן תנא</row>
+		<row row_number="11" isdata="1">דלא בעינן כוונה לשחיטה אמר רבא רבי</row>
+		<row row_number="12" isdata="1">נתן היא דתני אושעיא זעירא דמן חבריא</row>
+		<row row_number="13" isdata="1">זרק סכין לנועצה בכותל והלכה ושחטה</row>
+		<row row_number="14" isdata="1">כדרכה רבי נתן מכשיר וחכמים פוסלין הוא</row>
+		<row row_number="15" isdata="1">תני לה והוא אמר לה הלכה כרבי נתן</row>
+		<row row_number="16" isdata="1">והא בעינן מוליך ומביא שהלכה ובאה</row>
+		<row row_number="17" isdata="1">כדרכה: א"ר חייא בר אבא בעי רבי יוחנן</row>
+		<row row_number="18" isdata="1">קטן יש לו מחשבה או אין לו מחשבה א"ל</row>
+		<row row_number="19" isdata="1">רבי אמי ותיבעי ליה מעשה מ"ש מעשה</row>
+		<row row_number="20" isdata="1">דלא קא מבעיא ליה דתנן יש להן מעשה</row>
+		<row row_number="21" isdata="1">מחשבה נמי לא תיבעי ליה דתנן אין להן</row>
+		<row row_number="22" isdata="1">מחשבה דתנן האלון והרמון והאגוז שחקקום</row>
+		<row row_number="23" isdata="1">תינוקות למוד בהן עפר או שהתקינום לכף</row>
+		<row row_number="24" isdata="1">מאזנים טמאין מפני שיש להן מעשה</row>
+</amud>
+</daf>
+</masechet>
+</root>

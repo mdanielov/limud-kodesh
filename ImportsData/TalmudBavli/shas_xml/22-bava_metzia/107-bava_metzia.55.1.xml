@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:25.719093</dateCreated>
+   <lastModified>2020-01-14 15:03:25.719093</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="55">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הזהב"/><ContGemara/>באמצע הקדש ליתא אמר ליה לפי שאינה</row>
+		<row row_number="2" isdata="1">בסוף הקדש אמר ליה רב אחא מדיפתי</row>
+		<row row_number="3" isdata="1">לרבינא באמצע הקדש מיהא איתא ולוסיף</row>
+		<row row_number="4" isdata="1">נמי חומש אמר ליה הרי הוא כסוף הקדש</row>
+		<row row_number="5" isdata="1">מה סוף הקדש אינו מוסיף חומש אף אמצע</row>
+		<row row_number="6" isdata="1">הקדש אינו מוסיף חומש אמר ליה רב זוטרא</row>
+		<row row_number="7" isdata="1">בריה דרב מרי לרבינא מאי חזית דמדמית ליה</row>
+		<row row_number="8" isdata="1">לסוף הקדש נדמייה לתחילת הקדש א"ל</row>
+		<row row_number="9" isdata="1">מסתברא לסוף הקדש הו"ל לדמויי שכן</row>
+		<row row_number="10" isdata="1">נתפס מנתפס אדרבה לתחילת הקדש הוה</row>
+		<row row_number="11" isdata="1">ליה לדמויי שכן דבר שיש אחריו קדושה</row>
+		<row row_number="12" isdata="1">מדבר שיש אחריו קדושה כדאמר רבא</row>
+		<row row_number="13" isdata="1">העולה עולה ראשונה ה"נ הטמאה טמאה</row>
+		<row row_number="14" isdata="1">ראשונה תניא כוותיה דריב"ל פרה</row>
+		<row row_number="15" isdata="1">זו תחת פרה של הקדש טלית זו תחת</row>
+		<row row_number="16" isdata="1">טלית של הקדש הקדשו פדוי ויד הקדש על</row>
+		<row row_number="17" isdata="1">העליונה פרה זו בחמש סלעים תחת פרה</row>
+		<row row_number="18" isdata="1">של הקדש טלית זו בחמש סלעים תחת טלית</row>
+		<row row_number="19" isdata="1">של הקדש הקדשו פדוי על הקדש ראשון</row>
+		<row row_number="20" isdata="1">מוסיף חומש על הקדש שני אין מוסיף חומש:</row>
+		<row row_number="21" isdata="1"><EndGemara/><StartMishna/>מתני' האונאה ארבעה כסף והטענה שתי</row>
+		<row row_number="22" isdata="1">כסף וההודאה שוה פרוטה חמש פרוטות הן</row>
+		<row row_number="23" isdata="1">ההודאה שוה פרוטה והאשה מתקדשת</row>
+		<row row_number="24" isdata="1">בשוה פרוטה והנהנה בשוה פרוטה מן</row>
+		<row row_number="25" isdata="1">ההקדש מעל והמוצא שוה פרוטה חייב</row>
+		<row row_number="26" isdata="1">להכריז והגוזל את חבירו שוה פרוטה</row>
+		<row row_number="27" isdata="1">ונשבע לו יוליכנו אחריו אפילו למדי:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="28" isdata="1">תנינא חדא זימנא האונאה ארבעה כסף</row>
+		<row row_number="29" isdata="1">מעשרים וארבעה כסף לסלע שתות למקח</row>
+		<row row_number="30" isdata="1">הטענה שתי כסף וההודאה שוה פרוטה</row>
+		<row row_number="31" isdata="1">אצטריכא ליה הא נמי תנינא שבועת</row>
+		<row row_number="32" isdata="1">הדיינין הטענה שתי כסף וההודאה שוה</row>
+		<row row_number="33" isdata="1">פרוטה סיפא אצטריכא ליה דקתני חמש</row>
+		<row row_number="34" isdata="1">פרוטות הן: חמש פרוטות הן וכו': וליתני</row>
+		<row row_number="35" isdata="1">נמי האונאה פרוטה אמר רב כהנא זאת</row>
+		<row row_number="36" isdata="1">אומרת אין אונאה לפרוטות ולוי אמר</row>
+		<row row_number="37" isdata="1">יש אונאה לפרוטות וכן תני לוי במתניתיה</row>
+		<row row_number="38" isdata="1">חמש פרוטות הן האונאה פרוטה וההודאה</row>
+		<row row_number="39" isdata="1">פרוטה וקידושי אשה בפרוטה וגזל בפרוטה</row>
+		<row row_number="40" isdata="1">וישיבת הדיינין בפרוטה ותנא דידן מאי טעמא</row>
+		<row row_number="41" isdata="1">לא קתני ישיבת הדיינין תנא ליה גזל ומי לא</row>
+		<row row_number="42" isdata="1">תני גזל וקתני אבידה הנך אצטריכא ליה</row>
+		<row row_number="43" isdata="1">גזל הגוזל מחבירו שוה פרוטה ונשבע לו</row>
+		<row row_number="44" isdata="1">יוליכנו אחריו ואפילו למדי אבידה המוצא</row>
+		<row row_number="45" isdata="1">אבידה שוה פרוטה חייב להכריז ואע"ג</row>
+		<row row_number="46" isdata="1">דזל ולוי מאי טעמא לא תני אבידה בפרוטה</row>
+		<row row_number="47" isdata="1">תנא ליה גזל ומי לא קתני גזל וקתני ישיבת</row>
+		<row row_number="48" isdata="1">הדיינין ישיבת הדיינין אצטריכא ליה לאפוקי</row>
+		<row row_number="49" isdata="1">מדרב קטינא דא"ר קטינא ב"ד נזקקין</row>
+		<row row_number="50" isdata="1">אפילו לפחות משוה פרוטה ולוי מ"ט לא</row>
+		<row row_number="51" isdata="1">קתני הקדש בחולין קמיירי בקדשי' לא קמיירי</row>
+		<row row_number="52" isdata="1">אלא תנא דידן דקא מיירי בקדשים נתני מעשר</row>
+		<row row_number="53" isdata="1">בפרוטה כמאן דאמר אין בחומשו פרוטה</row>
+		<row row_number="54" isdata="1">וליתני חומש מעשר בפרוטה בקרנא קא מיירי</row>
+		<row row_number="55" isdata="1">בחומש לא קא מיירי גופא אמר רב קטינא</row>
+		<row row_number="56" isdata="1">ב"ד נזקקין אפילו לפחות משוה פרוטה</row>
+		<row row_number="57" isdata="1">מתיב רבא ואת אשר חטא מן הקדש ישלם</row>
+</amud>
+</daf>
+</masechet>
+</root>

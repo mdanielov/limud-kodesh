@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:02.611250</dateCreated>
+   <lastModified>2020-01-14 15:04:02.611250</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="106">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "טבול יום"/><ContGemara/>אף כאן למזרחה של ירושלים אלא לרבנן</row>
+		<row row_number="2" isdata="1">היכא שריף להו כדתניא היכן נשרפין לצפון</row>
+		<row row_number="3" isdata="1">ירושלים חוץ לשלש מחנות רבי יוסי הגלילי</row>
+		<row row_number="4" isdata="1">אומר אבית הדשן נשרפין אמר רבא מאן</row>
+		<row row_number="5" isdata="1">תנא דפליג עליה דר' יוסי הגלילי ר' אליעזר</row>
+		<row row_number="6" isdata="1">בן יעקב היא דתניא על שפך הדשן</row>
+		<row row_number="7" isdata="1">ישרף שיהא שם דשן (שיקדים לשם דשן) ר'</row>
+		<row row_number="8" isdata="1">אליעזר בן יעקב אומר שיהא מקומו משופך</row>
+		<row row_number="9" isdata="1">אמר ליה אביי דילמא במקומו משופך</row>
+		<row row_number="10" isdata="1">פליגי תנו רבנן השורף מטמא בגדים ולא</row>
+		<row row_number="11" isdata="1">המצית את האור מטמא בגדים ולא המסדר</row>
+		<row row_number="12" isdata="1">את המערכה מטמא בגדים ואיזהו השורף</row>
+		<row row_number="13" isdata="1">המסייע בשעת שריפה יכול אף משנעשו</row>
+		<row row_number="14" isdata="1">אפר מטמא בגדים תלמוד לומר אותם</row>
+		<row row_number="15" isdata="1">אותם מטמאין בגדים ומשנעשין אפר אין</row>
+		<row row_number="16" isdata="1">מטמאין בגדים רבי שמעון אומר אותם</row>
+		<row row_number="17" isdata="1">מטמאין בגדים ניתך הבשר אין מטמאין</row>
+		<row row_number="18" isdata="1">בגדים מאי בינייהו אמר רבא איכא בינייהו</row>
+		<row row_number="19" isdata="1">דשוייה חרוכא:<EndChapter name = "טבול יום"/><EndGemara/></row>
+		<row row_number="20" isdata="0">הדרן עלך טבול יום</row>
+		<row row_number="21" isdata="1"><StartChapter name = "השוחט והמעלה"/><StartMishna/>השוחט והמעלה בחוץ חייב על השחיטה</row>
+		<row row_number="22" isdata="1">וחייב על העלאה רבי יוסי הגלילי</row>
+		<row row_number="23" isdata="1">אומר שחט בפנים והעלה בחוץ שחט</row>
+		<row row_number="24" isdata="1">בחוץ והעלה בחוץ פטור שלא העלה אלא</row>
+		<row row_number="25" isdata="1">דבר פסול אמרו לו אף השוחט בפנים ומעלה</row>
+		<row row_number="26" isdata="1">בחוץ כיון שהוציאו פסלו הטמא שאכל בין</row>
+		<row row_number="27" isdata="1">קדש טמא בין קדש טהור חייב רבי יוסי</row>
+		<row row_number="28" isdata="1">הגלילי אומר טמא שאכל טהור חייב וטמא</row>
+		<row row_number="29" isdata="1">שאכל טמא פטור שלא אכל אלא דבר טמא</row>
+		<row row_number="30" isdata="1">אמרו לו אף טמא שאכל את הטהור כיון</row>
+		<row row_number="31" isdata="1">שנגע בו טמאוהו וטהור שאכל טמא פטור</row>
+		<row row_number="32" isdata="1">שאינו חייב אלא על טומאת הגוף:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="33" isdata="1">בשלמא העלה כתיב עונש וכתיב אזהרה</row>
+		<row row_number="34" isdata="1">עונש דכתיב ואל פתח אהל מועד לא</row>
+		<row row_number="35" isdata="1">הביאו אזהרה דכתיב השמר לך פן תעלה</row>
+		<row row_number="36" isdata="1">עולותיך וכי הא דא"ר אבין א"ר אלעזר כל</row>
+		<row row_number="37" isdata="1">מקום שנאמר השמר פן ואל אינו אלא לא</row>
+		<row row_number="38" isdata="1">תעשה אלא שחיטה בשלמא עונש דכתיב</row>
+		<row row_number="39" isdata="1">ואל פתח אהל מועד לא הביאו אלא אזהרה</row>
+		<row row_number="40" isdata="1">מנלן אמר קרא ולא יזבחו עוד האי מיבעי</row>
+		<row row_number="41" isdata="1">ליה לכדר"א דאמר מנין לזובח בהמה</row>
+		<row row_number="42" isdata="1">למרקוליס שהוא חייב דכתיב ולא יזבחו עוד</row>
+		<row row_number="43" isdata="1">את זבחיהם אם אינו ענין לכדרכה דכתיב</row>
+		<row row_number="44" isdata="1">איכה יעבדו תנהו ענין לשלא כדרכה אמר</row>
+		<row row_number="45" isdata="1">רבה קרי ביה ולא יזבחו וקרי ביה ולא עוד</row>
+		<row row_number="46" isdata="1">אכתי מיבעי ליה לכדתניא עד כאן הוא</row>
+		<row row_number="47" isdata="1">מדבר בקדשים שהקדישן בשעת איסור</row>
+		<row row_number="48" isdata="1">הבמות והקריבן בשעת איסור הבמות</row>
+</amud>
+</daf>
+</masechet>
+</root>

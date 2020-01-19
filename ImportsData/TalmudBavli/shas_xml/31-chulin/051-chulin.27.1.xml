@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:12.136123</dateCreated>
+   <lastModified>2020-01-14 15:04:12.136123</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="27">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "השוחט"/><StartMishna/><ContChapter name = "השוחט"/><ContMishna/>השוחט אחד בעוף ושנים בבהמה</row>
+		<row row_number="2" isdata="1">שחיטתו כשרה ורובו של אחד</row>
+		<row row_number="3" isdata="1">כמוהו רבי יהודה אומר עד שישחוט את</row>
+		<row row_number="4" isdata="1">הוורידין חצי אחד בעוף ואחד וחצי בבהמה</row>
+		<row row_number="5" isdata="1">שחיטתו פסולה רוב אחד בעוף ורוב שנים</row>
+		<row row_number="6" isdata="1">בבהמה שחיטתו כשרה:<EndMishna/><StartGemara/>גמ' השוחט דיעבד</row>
+		<row row_number="7" isdata="1">אין לכתחלה לא שנים בבהמה לכתחלה לא</row>
+		<row row_number="8" isdata="1">עד כמה לשחוט וליזיל איבעית אימא</row>
+		<row row_number="9" isdata="1">אאחד בעוף ואיבעית אימא ארובו של</row>
+		<row row_number="10" isdata="1">אחד כמוהו (כמ"ש סימן) אמר רב כהנא</row>
+		<row row_number="11" isdata="1">מנין לשחיטה שהיא מן הצואר שנאמר</row>
+		<row row_number="12" isdata="1">ושחט את בן הבקר ממקום ששח חטהו</row>
+		<row row_number="13" isdata="1">ממאי דהאי חטהו לישנא דדכויי הוא</row>
+		<row row_number="14" isdata="1">דכתיב וחטא את הבית ואיבעית אימא</row>
+		<row row_number="15" isdata="1">מהכא תחטאני באזוב ואטהר ואימא מזנבו</row>
+		<row row_number="16" isdata="1">שח מכלל שזקוף בעינן והא שח ועומד הוא</row>
+		<row row_number="17" isdata="1">ואימא מאזנו בעינן דם הנפש וליכא ואימא</row>
+		<row row_number="18" isdata="1">דקרע ואזיל עד דם הנפש ותו שהייה</row>
+		<row row_number="19" isdata="1">דרסה חלדה הגרמה ועיקור מנלן אלא גמרא</row>
+		<row row_number="20" isdata="1">שחיטה מן הצואר נמי גמרא וקרא למאי</row>
+		<row row_number="21" isdata="1">אתא דלא לשוייה גיסטרא רב יימר אמר</row>
+		<row row_number="22" isdata="1">אמר קרא וזבחת ממקום שזב חתהו מאי</row>
+		<row row_number="23" isdata="1">משמע דהאי חתהו לישנא דמתבר הוא דכתיב</row>
+		<row row_number="24" isdata="1">אל תירא ואל תחת ואימא מחוטמו זב על</row>
+		<row row_number="25" isdata="1">ידי חתוי בעינן והאי זב מאליו הוא ואימא</row>
+		<row row_number="26" isdata="1">מלבו ותו שהייה דרסה חלדה הגרמה ועיקור</row>
+		<row row_number="27" isdata="1">מנלן אלא גמרא שחיטה מן הצואר נמי גמרא</row>
+		<row row_number="28" isdata="1">וקרא למאי אתא דלא לשוייה גיסטרא דבי</row>
+		<row row_number="29" isdata="1">ר' ישמעאל תנא ושחט אל תקרי ושחט אלא</row>
+		<row row_number="30" isdata="1">וסחט ממקום שסח חטהו ואימא מלשונו</row>
+		<row row_number="31" isdata="1">בעינן דם הנפש וליכא ואימא דקרע ואזיל עד</row>
+		<row row_number="32" isdata="1">דם הנפש ותו שהייה דרסה חלדה הגרמה</row>
+		<row row_number="33" isdata="1">ועיקור מנלן אלא גמרא שחיטה מן הצואר</row>
+		<row row_number="34" isdata="1">נמי גמרא וקרא למאי אתא דלא לשוייה</row>
+		<row row_number="35" isdata="1">גיסטרא ותנא מייתי לה מהכא דתניא ר'</row>
+		<row row_number="36" isdata="1">חייא אמר מנין לשחיטה מן הצואר שנאמר</row>
+		<row row_number="37" isdata="1">וערכו בני אהרן הכהנים את הנתחים שאין</row>
+		<row row_number="38" isdata="1">ת"ל את הראש ואת הפדר מה ת"ל את הראש</row>
+		<row row_number="39" isdata="1">ואת הפדר והלא ראש ופדר בכלל כל הנתחי'</row>
+		<row row_number="40" isdata="1">היו למה יצאו לפי שנאמר והפשיט את</row>
+		<row row_number="41" isdata="1">העולה ונתח אין לי אלא נתחים שישנן בכלל</row>
+		<row row_number="42" isdata="1">הפשטה מנין לרבות את הראש שכבר</row>
+		<row row_number="43" isdata="1">הותז תלמוד לומר את ראשו ואת פדרו וערך</row>
+		<row row_number="44" isdata="1">מדקאמר את הראש שכבר הותז מכלל</row>
+		<row row_number="45" isdata="1">דשחיטה מן הצואר ותנא פתח בראש ופדר</row>
+		<row row_number="46" isdata="1">ומסיים בראשו ופדרו הכי קאמר מנין לרבות</row>
+		<row row_number="47" isdata="1">את הראש שכבר הותז ת"ל את הראש ואת</row>
+		<row row_number="48" isdata="1">הפדר וראשו ופדרו למה לי מיבעי ליה</row>
+		<row row_number="49" isdata="1">לכדתניא מנין לראש ופדר שקודמין לכל</row>
+		<row row_number="50" isdata="1">הנתחים ת"ל את ראשו ואת פדרו וערך</row>
+</amud>
+</daf>
+</masechet>
+</root>

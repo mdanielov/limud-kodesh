@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:39.047507</dateCreated>
+   <lastModified>2020-01-14 15:03:39.047507</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "דיני ממונות"/><ContGemara/>שאינו משתלם בראש הוא תנא נמי חצי נזק</row>
+		<row row_number="2" isdata="1">דממון שאינו משתלם בראש הוא ואיידי</row>
+		<row row_number="3" isdata="1">דקא בעי למיתנא חצי נזק תנא נמי נזק:</row>
+		<row row_number="4" isdata="1">שלשה מנלן דתנו רבנן ונקרב בעל הבית</row>
+		<row row_number="5" isdata="1">אל האלהים הרי כאן אחד עד האלהים</row>
+		<row row_number="6" isdata="1">יבא דבר שניהם הרי כאן שנים אשר</row>
+		<row row_number="7" isdata="1">ירשיעון אלהים הרי כאן שלשה דברי רבי</row>
+		<row row_number="8" isdata="1">יאשיה ר' יונתן אומר ראשון תחילה נאמר</row>
+		<row row_number="9" isdata="1">ואין דורשין תחילות אלא עד האלהים יבא</row>
+		<row row_number="10" isdata="1">דבר שניהם הרי כאן אחד אשר ירשיעון</row>
+		<row row_number="11" isdata="1">אלהים הרי כאן שנים ואין בית דין שקול</row>
+		<row row_number="12" isdata="1">מוסיפין עליהן עוד אחד הרי כאן שלשה</row>
+		<row row_number="13" isdata="1">נימא בדורשין תחילות קמיפלגי דמר סבר</row>
+		<row row_number="14" isdata="1">דורשין תחילות ומר סבר אין דורשין תחילות</row>
+		<row row_number="15" isdata="1">לא דכולי עלמא אין דורשין תחילות אמר</row>
+		<row row_number="16" isdata="1">לך ר' יאשיה אם כן נימא קרא ונקרב בעל</row>
+		<row row_number="17" isdata="1">הבית אל השופט מאי אל האלהים ש"מ</row>
+		<row row_number="18" isdata="1">למניינא ורבי יונתן לישנא דעלמא נקט</row>
+		<row row_number="19" isdata="1">כדאמרי אינשי מאן דאית ליה דינא ליקרב</row>
+		<row row_number="20" isdata="1">לגבי דיינא ור' יאשיה לית ליה ב"ד נוטה</row>
+		<row row_number="21" isdata="1">והתניא רבי אליעזר בנו של רבי יוסי הגלילי</row>
+		<row row_number="22" isdata="1">אומר מה תלמוד לומר לנטות אחרי רבים</row>
+		<row row_number="23" isdata="1">להטות התורה אמרה עשה לך ב"ד נוטה</row>
+		<row row_number="24" isdata="1">סבר לה כרבי יהודה דאמר שבעים דתנן</row>
+		<row row_number="25" isdata="1">סנהדרי גדולה היתה של שבעים ואחד</row>
+		<row row_number="26" isdata="1">ר' יהודה אומר שבעים אימר דשמעת ליה</row>
+		<row row_number="27" isdata="1">לרבי יהודה בסנהדרי גדולה דכתיבי קראי</row>
+		<row row_number="28" isdata="1">בשאר בי דינא מי שמעת ליה וכי תימא לא</row>
+		<row row_number="29" isdata="1">שנא והתנן סמיכת זקנים ועריפת עגלה</row>
+		<row row_number="30" isdata="1">בשלשה דברי ר' שמעון ר' יהודה אומר</row>
+		<row row_number="31" isdata="1">בחמשה ואמרינן מאי טעמא דרבי יהודה</row>
+		<row row_number="32" isdata="1">וסמכו שנים זקני שנים ואין בית דין שקול</row>
+		<row row_number="33" isdata="1">מוסיפין עליהן עוד אחד הרי כאן ה' דרבי</row>
+		<row row_number="34" isdata="1">יאשיה עדיפא מדר' יהודה דאילו ר' יהודה</row>
+		<row row_number="35" isdata="1">בסנהדרי גדולה הוא דלית ליה הא בשאר</row>
+		<row row_number="36" isdata="1">בי דינא אית ליה ור' יאשיה בשאר בי דינא</row>
+		<row row_number="37" isdata="1">נמי לית ליה ואלא האי לנטות מאי עביד</row>
+		<row row_number="38" isdata="1">ליה מוקים לה בדיני נפשות אבל בדיני</row>
+		<row row_number="39" isdata="1">ממונות לא אלא הא דתנן שנים אומרים</row>
+		<row row_number="40" isdata="1">זכאי ואחד אומר חייב זכאי שנים אומרים</row>
+		<row row_number="41" isdata="1">חייב ואחד אומר זכאי חייב נימא דלא כרבי</row>
+		<row row_number="42" isdata="1">יאשיה אפילו תימא רבי יאשיה מייתי לה בקל וחומר מדיני נפשות ומה דיני</row>
+		<row row_number="43" isdata="1">נפשות דחמירי אמר רחמנא זיל בתר רובא דיני ממונות לא כל שכן: תנו רבנן</row>
+		<row row_number="44" isdata="1">דיני ממונות בשלשה רבי אומר בחמשה כדי שיגמר הדין בשלשה אטו</row>
+		<row row_number="45" isdata="1">בתלתא מי לא גמר דינא בתרי הכי קאמר מפני שגמר דין בשלשה אלמא</row>
+		<row row_number="46" isdata="1">קסבר תלתא כי כתיבי בגמר דינא כתיבי מגדף בה רבי אבהו אלא מעתה</row>
+		<row row_number="47" isdata="1">תהא סנהדרי גדולה צריכה מאה וארבעים ואחד כדי שיגמר הדין בשבעים</row>
+		<row row_number="48" isdata="1">ואחד ותהא סנהדרי קטנה צריכה ארבעים וחמשה כדי שיגמר הדין בשלשה</row>
+		<row row_number="49" isdata="1">ועשרים אלא אספה לי שבעים איש אמר רחמנא משעת אסיפה שבעים</row>
+		<row row_number="50" isdata="1">ושפטו העדה והצילו העדה נמי משעת שפיטת העדה הכי נמי ונקרב בעל</row>
+		<row row_number="51" isdata="1">הבית אל האלהים משעת קריבה שלשה אלא היינו טעמא דרבי אשר ירשיעון</row>
+		<row row_number="52" isdata="1">אלהים תרי נאמר אלהים למטה ונאמר אלהים למעלה מה למטה שנים אף</row>
+		<row row_number="53" isdata="1">למעלה שנים ואין בית דין שקול מוסיפין עליהם עוד אחד הרי כאן חמשה</row>
+</amud>
+</daf>
+</masechet>
+</root>

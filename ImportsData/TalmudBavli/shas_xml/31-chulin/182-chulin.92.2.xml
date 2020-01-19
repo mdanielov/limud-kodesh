@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:15.654196</dateCreated>
+   <lastModified>2020-01-14 15:04:15.654196</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="92">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "גיד הנשה"/><ContGemara/>שאין כותבין כתובה לזכרים ואחת שאין</row>
+		<row row_number="2" isdata="1">שוקלין בשר המת במקולין ואחת שמכבדין</row>
+		<row row_number="3" isdata="1">את התורה: ואינו נוהג בעוף: והא קא</row>
+		<row row_number="4" isdata="1">חזינן דאית ליה אית ליה ולא עגיל בעי רבי</row>
+		<row row_number="5" isdata="1">ירמיה אית ליה לעוף ועגיל אית ליה לבהמה</row>
+		<row row_number="6" isdata="1">ולא עגיל מאי בתר דידיה אזלינן או בתר</row>
+		<row row_number="7" isdata="1">מיניה אזלינן תיקו: ונוהג בשליל: אמר</row>
+		<row row_number="8" isdata="1">שמואל וחלבו מותר לדברי הכל חלבו דמאי</row>
+		<row row_number="9" isdata="1">אילימא דשליל והא מיפלג פליגי ביה</row>
+		<row row_number="10" isdata="1">דתניא נוהג בשליל וחלבו אסור דברי רבי</row>
+		<row row_number="11" isdata="1">מאיר רבי יהודה אומר אינו נוהג בשליל</row>
+		<row row_number="12" isdata="1">וחלבו מותר ואמר ר' אלעזר אמר ר' אושעיא</row>
+		<row row_number="13" isdata="1">מחלוקת בבן תשעה חי והלך ר"מ לשיטתו</row>
+		<row row_number="14" isdata="1">ורבי יהודה לשיטתו ואלא חלבו דגיד הא</row>
+		<row row_number="15" isdata="1">מיפלג פליגי בה דתניא גיד הנשה מחטט</row>
+		<row row_number="16" isdata="1">אחריו בכל מקום שהוא וחותך שמנו מעיקרו</row>
+		<row row_number="17" isdata="1">דברי ר"מ רבי יהודה אומר גוממו עם השופי</row>
+		<row row_number="18" isdata="1">לעולם חלבו דגיד ומודה שמואל דלר"מ</row>
+		<row row_number="19" isdata="1">מדרבנן אסור דתניא ושמנו מותר וישראל</row>
+		<row row_number="20" isdata="1">קדושים נהגו בו איסור מאי לאו ר"מ היא</row>
+		<row row_number="21" isdata="1">דאמר מותר מן התורה ואסור מדרבנן ממאי</row>
+		<row row_number="22" isdata="1">דילמא רבי יהודה היא אבל לרבי מאיר</row>
+		<row row_number="23" isdata="1">מדאורייתא נמי אסיר לא ס"ד דתניא גיד</row>
+		<row row_number="24" isdata="1">הנשה מחטט אחריו בכל מקום שהוא ושמנו</row>
+		<row row_number="25" isdata="1">מותר מאן שמעת ליה דאית ליה חטיטה</row>
+		<row row_number="26" isdata="1">ר"מ וקאמר שמנו מותר אמר רב יצחק בר</row>
+		<row row_number="27" isdata="1">שמואל בר מרתא אמר רב לא אסרה תורה</row>
+		<row row_number="28" isdata="1">אלא קנוקנות שבו עולא אמר עץ הוא</row>
+		<row row_number="29" isdata="1">והתורה חייבה עליו אמר אביי כוותיה</row>
+		<row row_number="30" isdata="1">דעולא מסתברא דאמר רב ששת אמר</row>
+		<row row_number="31" isdata="1">רב אסי חוטין שבחלב אסורין ואין חייבין</row>
+		<row row_number="32" isdata="1">עליהן אלמא חלב אמר רחמנא ולא</row>
+		<row row_number="33" isdata="1">חוטין הכא נמי גיד אמר רחמנא ולא</row>
+		<row row_number="34" isdata="1">קנוקנות גופא אמר רב ששת אמר רב</row>
+		<row row_number="35" isdata="1">אסי חוטין שבחלב אסורין ואין חייבין</row>
+		<row row_number="36" isdata="1">עליהן שבכוליא אסורין ואין חייבין</row>
+		<row row_number="37" isdata="1">עליהן לובן כוליא רבי ורבי חייא חד</row>
+		<row row_number="38" isdata="1">אסר וחד שרי רבה ממרטט ליה ר' יוחנן</row>
+		<row row_number="39" isdata="1">ממרטט ליה רבי אסי גאים ליה אמר אביי</row>
+		<row row_number="40" isdata="1">כוותיה דרבי אסי מסתברא דאמר רבי אבא אמר רב יהודה אמר שמואל</row>
+</amud>
+</daf>
+</masechet>
+</root>

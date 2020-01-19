@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:14.251855</dateCreated>
+   <lastModified>2020-01-14 15:03:14.251855</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="37">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContMishna/>חוץ מן הערלה וכלאים ר"א אומר אף</row>
+		<row row_number="2" isdata="1">החדש:<EndMishna/><StartGemara/>גמ' מאי תלויה ומאי שאינה תלויה</row>
+		<row row_number="3" isdata="1">אילימא תלויה דכתיב בה ביאה ושאינה</row>
+		<row row_number="4" isdata="1">תלויה דלא כתיב בה ביאה והרי תפילין ופטר</row>
+		<row row_number="5" isdata="1">חמור דכתיב בהן ביאה ונוהגין בין בארץ בין</row>
+		<row row_number="6" isdata="1">בח"ל אמר רב יהודה ה"ק כל מצוה שהיא</row>
+		<row row_number="7" isdata="1">חובת הגוף נוהגת בין בארץ בין בח"ל חובת</row>
+		<row row_number="8" isdata="1">קרקע אינה נוהגת אלא בארץ מנה"מ דת"ר</row>
+		<row row_number="9" isdata="1">אלה החוקים אלו המדרשות והמשפטים אלו</row>
+		<row row_number="10" isdata="1">הדינים אשר תשמרון זו משנה לעשות זו</row>
+		<row row_number="11" isdata="1">מעשה בארץ יכול כל המצות כולן לא יהו</row>
+		<row row_number="12" isdata="1">נוהגים אלא בארץ ת"ל כל הימים אשר</row>
+		<row row_number="13" isdata="1">אתם חיים על האדמה אי כל הימים יכול יהו</row>
+		<row row_number="14" isdata="1">נוהגים בין בארץ בין בח"ל ת"ל בארץ אחר</row>
+		<row row_number="15" isdata="1">שריבה הכתוב ומיעט צא ולמד ממה שאמור</row>
+		<row row_number="16" isdata="1">בענין אבד תאבדון את כל המקומות אשר</row>
+		<row row_number="17" isdata="1">עבדו שם וגו' מה עבודת כוכבים מיוחדת</row>
+		<row row_number="18" isdata="1">שהיא חובת הגוף ונוהגת בין בארץ בין</row>
+		<row row_number="19" isdata="1">בחוץ לארץ אף כל שהיא חובת הגוף נוהגת</row>
+		<row row_number="20" isdata="1">בין בארץ בין בח"ל: חוץ מן הערלה</row>
+		<row row_number="21" isdata="1">והכלאים: איבעיא להו ר"א לקולא פליג או</row>
+		<row row_number="22" isdata="1">לחומרא פליג לחומרא פליג וה"ק ת"ק חוץ מן</row>
+		<row row_number="23" isdata="1">הערלה ומן הכלאים דהלכתא גמירי לה</row>
+		<row row_number="24" isdata="1">אע"ג דאיכא למימר חובת קרקע היא אבל</row>
+		<row row_number="25" isdata="1">חדש בארץ אין בח"ל לא מ"ט מושב לאחר</row>
+		<row row_number="26" isdata="1">ירושה וישיבה משמע ואתא ר"א למימר אף</row>
+		<row row_number="27" isdata="1">חדש נוהג בין בארץ בין בח"ל מ"ט מושב</row>
+		<row row_number="28" isdata="1">בכל מקום שאתם יושבים או דלמא לקולא</row>
+		<row row_number="29" isdata="1">פליג וה"ק ת"ק חוץ מן הערלה והכלאים</row>
+		<row row_number="30" isdata="1">דהלכתא גמירי לה וכ"ש חדש דמושב כ"מ</row>
+		<row row_number="31" isdata="1">שאתם יושבים משמע ואתא ר"א למימר</row>
+		<row row_number="32" isdata="1">חדש אינו נוהג אלא בארץ דמושב לאחר</row>
+		<row row_number="33" isdata="1">ירושה וישיבה משמע ומאי אף אקמייתא</row>
+		<row row_number="34" isdata="1">ת"ש דאמר אביי מאן תנא דפליג עליה דר"א</row>
+		<row row_number="35" isdata="1">ר' ישמעאל היא דתניא ללמדך שכל מקום</row>
+		<row row_number="36" isdata="1">שנאמר בו מושב אינו אלא לאחר ירושה</row>
+		<row row_number="37" isdata="1">וישיבה דברי רבי ישמעאל אמר לו ר"ע הרי</row>
+		<row row_number="38" isdata="1">שבת שנאמר בו מושבות ונוהגת בין בארץ</row>
+		<row row_number="39" isdata="1">בין בח"ל א"ל שבת ק"ו אתיא מה</row>
+		<row row_number="40" isdata="1">מצות קלות נוהגות בין בארץ בין בח"ל</row>
+		<row row_number="41" isdata="1">שבת חמירא לא כ"ש מדאמר אביי מאן</row>
+		<row row_number="42" isdata="1">תנא דפליג עליה דר"א רבי ישמעאל ש"מ</row>
+		<row row_number="43" isdata="1">רבי אליעזר לחומרא פליג שמע מינה מכדי</row>
+		<row row_number="44" isdata="1">רבי ישמעאל אהיכא קאי אנסכים בנסכים</row>
+</amud>
+</daf>
+</masechet>
+</root>

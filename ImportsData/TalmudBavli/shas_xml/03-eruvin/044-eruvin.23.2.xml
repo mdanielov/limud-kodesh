@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:19.886088</dateCreated>
+   <lastModified>2020-01-14 15:02:19.886088</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="23">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>רבי עקיבא היינו תנא קמא איכא בינייהו</row>
+		<row row_number="2" isdata="1">דבר מועט דתניא ר' יהודה אומר דבר מועט</row>
+		<row row_number="3" isdata="1">יש על שבעים אמה ושירים ולא נתנו חכמים</row>
+		<row row_number="4" isdata="1">בו שיעור וכמה שיעור סאתים כחצר</row>
+		<row row_number="5" isdata="1">המשכן מנא הני מילי אמר רב יהודה</row>
+		<row row_number="6" isdata="1">דאמר קרא ארך החצר מאה באמה ורחב</row>
+		<row row_number="7" isdata="1">חמשים בחמשים אמרה תורה טול חמשים</row>
+		<row row_number="8" isdata="1">וסבב חמשים פשטיה דקרא במאי כתיב</row>
+		<row row_number="9" isdata="1">אמר אביי העמד משכן על שפת חמשים</row>
+		<row row_number="10" isdata="1">כדי שיהא חמשים אמה לפניו ועשרים אמה</row>
+		<row row_number="11" isdata="1">לכל רוח ורוח: ר"א אומר אם היתה ארכה</row>
+		<row row_number="12" isdata="1">כו': והתניא ר"א אומר אם היתה ארכה</row>
+		<row row_number="13" isdata="1">יתר על פי שנים ברחבה אפי' אמה אחת אין</row>
+		<row row_number="14" isdata="1">מטלטלין בתוכה אמר רב ביבי בר אביי</row>
+		<row row_number="15" isdata="1">כי תנן נמי מתני' [יתר על] פי שנים ברחבה</row>
+		<row row_number="16" isdata="1">תנן אי הכי היינו ר' יוסי איכא בינייהו</row>
+		<row row_number="17" isdata="1">ריבועא דריבעוה רבנן: ר' יוסי אומר כו':</row>
+		<row row_number="18" isdata="1">איתמר אמר רב יוסף אמר רב יהודה אמר</row>
+		<row row_number="19" isdata="1">שמואל הלכה כר' יוסי ורב ביבי אמר רב</row>
+		<row row_number="20" isdata="1">יהודה אמר שמואל הלכה כר' עקיבא</row>
+		<row row_number="21" isdata="1">ותרוייהו לקולא וצריכא דאי אשמעינן</row>
+		<row row_number="22" isdata="1">הלכה כרבי יוסי הוה אמינא עד דאיכא</row>
+		<row row_number="23" isdata="1">שומירה או בית דירה קמ"ל הלכה כר'</row>
+		<row row_number="24" isdata="1">עקיבא ואי אשמעינן הלכה כר"ע הוה</row>
+		<row row_number="25" isdata="1">אמינא דאריך וקטין לא קמ"ל הלכה כר' יוסי</row>
+		<row row_number="26" isdata="1">קרפף שהוא יותר מבית סאתים שהוקף</row>
+		<row row_number="27" isdata="1">לדירה נזרע רובו הרי הוא כגינה ואסור נטע</row>
+		<row row_number="28" isdata="1">רובו הרי הוא כחצר ומותר נזרע רובו אמר</row>
+		<row row_number="29" isdata="1">רב הונא בריה דרב יהושע לא אמרן אלא</row>
+		<row row_number="30" isdata="1">יותר מבית סאתים אבל בית סאתים</row>
+		<row row_number="31" isdata="1">מותר כמאן כרבי שמעון דתנן ר' שמעון</row>
+		<row row_number="32" isdata="1">אומר אחד גגות ואחד חצירות ואחד</row>
+		<row row_number="33" isdata="1">קרפיפות רשות אחת הן לכלים ששבתו</row>
+		<row row_number="34" isdata="1">בתוכן ולא לכלים ששבתו בתוך הבית לר"ש</row>
+		<row row_number="35" isdata="1">נמי כיון דנזרע רובו הוי ההוא מעוטא</row>
+</amud>
+</daf>
+</masechet>
+</root>

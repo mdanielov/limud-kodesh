@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:29.591182</dateCreated>
+   <lastModified>2020-01-14 15:02:29.591182</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="74">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד צולין"/><ContGemara/>מידב דייבי נימא מסייע ליה הלב קורעו</row>
+		<row row_number="2" isdata="1">ומוציא את דמו לא קרעו קורעו לאחר</row>
+		<row row_number="3" isdata="1">בישולו ומותר מ"ט לאו משום דאמרינן</row>
+		<row row_number="4" isdata="1">כבולעו כך פולטו שאני לב דשיע (איני)</row>
+		<row row_number="5" isdata="1">והא רבין סבא טפליה ההיא בר גוזלא לרב</row>
+		<row row_number="6" isdata="1">ואמר ליה אי מעלי טפליה הב לי ואיכול</row>
+		<row row_number="7" isdata="1">ההיא בסמידא דמפריר והא רבא איקלע</row>
+		<row row_number="8" isdata="1">לבי ריש גלותא וטפלו ליה בר אווזא אמר</row>
+		<row row_number="9" isdata="1">אי לא דחזיתיה דזיג כזוזא חיורא לא אכלי</row>
+		<row row_number="10" isdata="1">מיניה ואי סלקא דעתך כבולעו כך פולטו</row>
+		<row row_number="11" isdata="1">מאי איריא כי זיג אפילו כי לא זיג נמי התם</row>
+		<row row_number="12" isdata="1">בחיורתא דשריר והילכתא דסמידא בין</row>
+		<row row_number="13" isdata="1">אסמיק בין לא אסמיק שריא דחיורתא אי</row>
+		<row row_number="14" isdata="1">זיג כזוזא חיורא שריא אי לא אסיר דשאר</row>
+		<row row_number="15" isdata="1">קמחים אסמיק אסור לא אסמיק שרי האי</row>
+		<row row_number="16" isdata="1">מולייתא מאן דאסר אפילו פומא לתחת</row>
+		<row row_number="17" isdata="1">ומאן דשרי אפילו פומא לעיל והילכתא</row>
+		<row row_number="18" isdata="1">מולייתא שרי אפילו פומא לעיל אומצא</row>
+		<row row_number="19" isdata="1">ביעי ומיזרקי פליגי בה רב אחא ורבינא בכל</row>
+		<row row_number="20" isdata="1">התורה כולה רב אחא לחומרא ורבינא</row>
+		<row row_number="21" isdata="1">לקולא והילכתא כרבינא לקולא לבר מהני</row>
+		<row row_number="22" isdata="1">תלת דרב אחא לקולא ורבינא לחומרא</row>
+		<row row_number="23" isdata="1">והלכתא כרב אחא לקולא האי אומצא</row>
+		<row row_number="24" isdata="1">דאסמיק חתכיה ומלחיה אפילו לקדרה שרי</row>
+		<row row_number="25" isdata="1">שפדיה בשפודא שרי מידב דייב אחתיה</row>
+		<row row_number="26" isdata="1">אגומרי פליגי בה רב אחא ורבינא חד אסר</row>
+		<row row_number="27" isdata="1">וחד שרי מאן דאסר מצמית צמית ומאן</row>
+		<row row_number="28" isdata="1">דשרי מישאב שאיב והלכתא מישאב שאיב</row>
+		<row row_number="29" isdata="1">וכן ביעי חתכינהו ומלחינהו אפילו לקדרה</row>
+		<row row_number="30" isdata="1">שריין תלינהו בשפודא שריין מידב דייב</row>
+		<row row_number="31" isdata="1">אחתינהו אגומרי פליגי ביה רב אחא ורבינא</row>
+		<row row_number="32" isdata="1">חד אסר וחד שרי מאן דאסר מצמית צמית</row>
+		<row row_number="33" isdata="1">ומאן דשרי מישאב שאיב וכן מיזרקי חתכיה</row>
+		<row row_number="34" isdata="1">ומלחיה אפילו לקדרה שרי תלייה בשפודא</row>
+		<row row_number="35" isdata="1">בית השחיטה לתתאי שרי מידב דאיב</row>
+		<row row_number="36" isdata="1">אחתיה אגומרי פליגי רב אחא ורבינא</row>
+		<row row_number="37" isdata="1">חד אסר וחד שרי מאן דאסר מצמית</row>
+		<row row_number="38" isdata="1">צמית ומאן דשרי מישאב שאיב והלכתא</row>
+		<row row_number="39" isdata="1">מישאב שאיב האי אומצא דאסמיק חלייה</row>
+		<row row_number="40" isdata="1">אסיר לא אסמיק חלייה שרי רבינא</row>
+		<row row_number="41" isdata="1">אמר אפילו לא אסמיק נמי חלייה אסיר</row>
+		<row row_number="42" isdata="1">אי אפשר דלית בה שורייקי דמא אמר</row>
+		<row row_number="43" isdata="1">ליה מר בר אמימר לרב אשי אבא מגמע</row>
+		<row row_number="44" isdata="1">ליה גמועי איכא דאמרי רב אשי גופיה מגמע ליה גמועי אמר ליה מר</row>
+		<row row_number="45" isdata="1">בר אמימר לרב אשי אבא האי חלא דחליט ביה חדא זימנא תו לא</row>
+		<row row_number="46" isdata="1">תאני חליט ביה מאי שנא מחלא מתמהא דחלטינן ביה התם איתיה</row>
+</amud>
+</daf>
+</masechet>
+</root>

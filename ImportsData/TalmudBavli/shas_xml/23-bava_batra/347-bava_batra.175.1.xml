@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:38.708030</dateCreated>
+   <lastModified>2020-01-14 15:03:38.708030</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="175">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>הכא נמי אדם עשוי שלא להשביע את</row>
+		<row row_number="2" isdata="1">עצמו כי קאמר רב הונא התם דנקיט שטרא</row>
+		<row row_number="3" isdata="1">מכלל דרב ושמואל דלא נקיט שטרא אמר</row>
+		<row row_number="4" isdata="1">תנו נותנין מלוה על פה הוה ורב ושמואל</row>
+		<row row_number="5" isdata="1">דאמרי תרוייהו מלוה על פה אינו גובה לא</row>
+		<row row_number="6" isdata="1">מן היורשין ולא מן הלקוחות אלא אמר רב</row>
+		<row row_number="7" isdata="1">נחמן אידי ואידי דנקיט שטרא ולא קשיא</row>
+		<row row_number="8" isdata="1">הא דמקויים הא דלא מקויים אמר תנו</row>
+		<row row_number="9" isdata="1">קיימיה לשטריה לא אמר תנו לא קיימיה</row>
+		<row row_number="10" isdata="1">לשטריה אמר רבה שכיב מרע שאמר מנה</row>
+		<row row_number="11" isdata="1">לפלוני בידי ואמרו יתומין פרענו נאמנין</row>
+		<row row_number="12" isdata="1">תנו מנה לפלוני ואמרו יתומין פרענו אין</row>
+		<row row_number="13" isdata="1">נאמנין כלפי לייא איפכא מסתברא אמר</row>
+		<row row_number="14" isdata="1">תנו מנה כיון דפסקה אבוהון למילתא איכא</row>
+		<row row_number="15" isdata="1">למימר דפרעיה מנה לפלוני בידי כיון דלא</row>
+		<row row_number="16" isdata="1">פסק אבוהון למילתא איכא למימר דלא</row>
+		<row row_number="17" isdata="1">פרעיה אלא אי איתמר הכי איתמר שכיב</row>
+		<row row_number="18" isdata="1">מרע שאמר מנה לפלוני בידי ואמרו יתומין</row>
+		<row row_number="19" isdata="1">חזר ואמר לנו אבא פרעתי נאמנין מ"ט</row>
+		<row row_number="20" isdata="1">אדכורי מידכר תנו מנה לפלוני ואמרו</row>
+		<row row_number="21" isdata="1">יתומין חזר ואמר אבא פרעתי אין נאמנין</row>
+		<row row_number="22" isdata="1">דאם איתא דפרעיה לא הוה אמר תנו בעי</row>
+		<row row_number="23" isdata="1">רבא שכיב מרע שהודה מהו צריך לומר</row>
+		<row row_number="24" isdata="1">אתם עדי או אין צריך לומר אתם עדי</row>
+		<row row_number="25" isdata="1">צריך שיאמר כתובו או אין צריך לומר</row>
+		<row row_number="26" isdata="1">כתובו אדם משטה בשעת מיתה או אין אדם</row>
+		<row row_number="27" isdata="1">משטה בשעת מיתה בתר דבעיא הדר פשטה אין אדם משטה בשעת</row>
+		<row row_number="28" isdata="1">מיתה ודברי שכ"מ ככתובין וכמסורין דמו<EndGemara/><StartMishna/>מתני' המלוה את חבירו</row>
+		<row row_number="29" isdata="1">בשטר גובה מנכסים משועבדים על ידי עדים גובין מנכסים בני חורין</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:33.178374</dateCreated>
+   <lastModified>2020-01-14 15:03:33.178374</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="83">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContMishna/>בדורא דרעותא ואתו לקמיה דרב יהודה</row>
+		<row row_number="2" isdata="1">וא"ל זיל הב ליה כמלא בקר וכליו ולא הוה</row>
+		<row row_number="3" isdata="1">ידענא כמלא בקר וכליו כמה כיון דשמעת'</row>
+		<row row_number="4" isdata="1">להא דתנן לא יטע אדם אילן סמוך לשדה</row>
+		<row row_number="5" isdata="1">חבירו אא"כ הרחיק ממנה ד' אמות ותני עלה</row>
+		<row row_number="6" isdata="1">ד' אמות שאמרו כדי עבודת הכרם אמינא</row>
+		<row row_number="7" isdata="1">ש"מ כמלא בקר וכליו ד' אמות וכרב יוסף</row>
+		<row row_number="8" isdata="1">מי לא תנן ר"מ ור"ש אומרים הנוטע את</row>
+		<row row_number="9" isdata="1">כרמו שמונה אמות על שמונה מותר להביא</row>
+		<row row_number="10" isdata="1">זרע לשם אפי' הכי מעשה עדיף בשלמא</row>
+		<row row_number="11" isdata="1">לרב יוסף אליבא דר"ש שמעינן ליה מפוזרין</row>
+		<row row_number="12" isdata="1">ושמעינן ליה רצופין מפוזרין הא דאמרן</row>
+		<row row_number="13" isdata="1">רצופין דתנן כרם הנטוע על פחות מד"א</row>
+		<row row_number="14" isdata="1">אינו כרם דברי ר"ש וחכ"א כרם ורואין את</row>
+		<row row_number="15" isdata="1">האמצעיים כאילו אינן אלא לרב נחמן</row>
+		<row row_number="16" isdata="1">אליבא דרבנן מפוזרין שמעינן ליה רצופין</row>
+		<row row_number="17" isdata="1">מי שמעינן ליה סברא הוא מדלר"ש פלגא</row>
+		<row row_number="18" isdata="1">לרבנן נמי פלגא אמר רבא הלכתא מארבע</row>
+		<row row_number="19" isdata="1">אמות ועד שש עשרה תניא כוותיה דרבא</row>
+		<row row_number="20" isdata="1">כמה יהו מקורבין ארבע אמות וכמה יהו</row>
+		<row row_number="21" isdata="1">מרוחקין שש עשרה הרי זה קנה קרקע ואת</row>
+		<row row_number="22" isdata="1">האילנות שביניהן לפיכך יבש האילן או</row>
+		<row row_number="23" isdata="1">נקצץ יש לו קרקע פחות מכאן או יתר על</row>
+		<row row_number="24" isdata="1">כאן או שלקחן בזה אחר זה הרי זה לא קנה</row>
+		<row row_number="25" isdata="1">לא את הקרקע ולא את האילנות שביניהן</row>
+		<row row_number="26" isdata="1">לפיכך יבש האילן או נקצץ אין לו קרקע</row>
+		<row row_number="27" isdata="1">בעי רבי ירמיה כשהוא מודד ממקום קצר</row>
+		<row row_number="28" isdata="1">הוא מודד או ממקום רחב הוא מודד א"ל</row>
+		<row row_number="29" isdata="1">רב גביהה מבי כתיל לרב אשי תא שמע</row>
+		<row row_number="30" isdata="1">דתנן הרכובה שבגפן אינו מודד אלא</row>
+		<row row_number="31" isdata="1">מעיקר השני בעי רבי ירמיה מכר לו שלשה</row>
+		<row row_number="32" isdata="1">בדי אילן מהו אמר ליה רב גביהה מבי כתיל</row>
+		<row row_number="33" isdata="1">לרב אשי ת"ש דתנן המבריך ג' גפנים</row>
+		<row row_number="34" isdata="1">ועקריהן נראין ר"א ברבי צדוק אומר אם</row>
+		<row row_number="35" isdata="1">יש ביניהן מד' אמות ועד שמונה מצטרפין</row>
+		<row row_number="36" isdata="1">ואם לאו אין מצטרפין בעי רב פפא מכר לו</row>
+		<row row_number="37" isdata="1">שנים בתוך שדהו ואחד על המצר מהו שנים</row>
+		<row row_number="38" isdata="1">בתוך שלו ואחד בתוך של חבירו מאי תיקו</row>
+</amud>
+</daf>
+</masechet>
+</root>

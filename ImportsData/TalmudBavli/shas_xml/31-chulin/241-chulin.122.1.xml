@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:17.876318</dateCreated>
+   <lastModified>2020-01-14 15:04:17.876318</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="122">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>אליבא דמאן אי אליבא דר' ישמעאל האמר</row>
+		<row row_number="2" isdata="1">לא מבטל עור ואי אליבא דר"ע פשיטא</row>
+		<row row_number="3" isdata="1">האמר מבטל עור לעולם אליבא דרבי</row>
+		<row row_number="4" isdata="1">ישמעאל וכי אמר רבי ישמעאל לא מבטל</row>
+		<row row_number="5" isdata="1">עור ה"מ שפלטתו חיה אבל פלטתו סכין</row>
+		<row row_number="6" isdata="1">בטיל ת"ש ר' יהודה אומר האלל המכונס</row>
+		<row row_number="7" isdata="1">אם יש כזית במקום אחד חייבין עליו ואמר</row>
+		<row row_number="8" isdata="1">רב הונא והוא שכנסו אי אמרת בשלמא</row>
+		<row row_number="9" isdata="1">פלטתו סכין לרבי ישמעאל נמי לא בטיל</row>
+		<row row_number="10" isdata="1">רב הונא דאמר כרבי ישמעאל אלא אי</row>
+		<row row_number="11" isdata="1">אמרת פלטתו סכין לר' ישמעאל בטיל רב</row>
+		<row row_number="12" isdata="1">הונא דאמר כמאן אלא לעולם פלטתו סכין</row>
+		<row row_number="13" isdata="1">לר' ישמעאל לא בטיל ורב הונא דאמר</row>
+		<row row_number="14" isdata="1">כר"ע פשיטא מהו דתימא כי קאמר ר"ע</row>
+		<row row_number="15" isdata="1">ה"מ פלטתו סכין אבל פלטתו חיה לא בטיל</row>
+		<row row_number="16" isdata="1">קמ"ל טעמא דר"ע מפני שהעור מבטלן</row>
+		<row row_number="17" isdata="1">ל"ש פלט חיה ול"ש פלט סכין כדקתני סיפא</row>
+		<row row_number="18" isdata="1">מפני מה ר"ע מטהר בעור מפני שהעור</row>
+		<row row_number="19" isdata="1">מבטלן<EndGemara/><StartMishna/>מתני' אלו שעורותיהן כבשרן</row>
+		<row row_number="20" isdata="1">עור האדם ועור חזיר של ישוב ר' יהודה</row>
+		<row row_number="21" isdata="1">אומר אף עור חזיר הבר ועור חטרת של</row>
+		<row row_number="22" isdata="1">גמל הרכה ועור הראש של עגל הרך ועור</row>
+		<row row_number="23" isdata="1">הפרסות ועור בית הבושת ועור השליל ועור</row>
+		<row row_number="24" isdata="1">של תחת האליה ועור האנקה והכח והלטאה</row>
+		<row row_number="25" isdata="1">והחומט ר' יהודה אומר הלטאה כחולדה</row>
+		<row row_number="26" isdata="1">וכולן שעבדן או שהילך בהן כדי עבודה</row>
+		<row row_number="27" isdata="1">טהורין חוץ מעור האדם ר' יוחנן בן נורי</row>
+		<row row_number="28" isdata="1">אומר שמונה שרצים יש להן עורות:</row>
+		<row row_number="29" isdata="1"><EndMishna/><StartGemara/>גמ' אמר עולא דבר תורה עור אדם</row>
+		<row row_number="30" isdata="1">טהור ומה טעם אמרו טמא גזירה שמא</row>
+		<row row_number="31" isdata="1">יעשה אדם עורות אביו ואמו שטיחין ואיכא</row>
+		<row row_number="32" isdata="1">דמתני לה אסיפא וכולן שעיבדן או שהילך</row>
+		<row row_number="33" isdata="1">בהן כדי עבודה טהורין חוץ מעור אדם אמר עולא דבר תורה עור אדם</row>
+		<row row_number="34" isdata="1">שעבדו טהור ומה טעם אמרו טמא גזירה שמא יעשה אדם עורות אביו</row>
+		<row row_number="35" isdata="1">ואמו שטיחין מאן דמתני לה ארישא כ"ש אסיפא ומאן דמתני אסיפא</row>
+		<row row_number="36" isdata="1">אבל ארישא טומאה דאורייתא: ועור חזיר [וכו']: במאי קמיפלגי מר</row>
+		<row row_number="37" isdata="1">סבר האי אשון והאי רכיך ומר סבר האי נמי רכיך: עור חטרת של גמל</row>
+		<row row_number="38" isdata="1">הרכה: וכמה גמל הרכה אמר עולא א"ר יהושע בן לוי כל זמן שלא טענה</row>
+		<row row_number="39" isdata="1">בעי ר' ירמיה הגיע זמנה לטעון ולא טענה מהו בעי אביי לא הגיע זמנה</row>
+		<row row_number="40" isdata="1">לטעון וטענה מהו תיקו יתיב ר"ל וקמיבעיא ליה כמה גמל הרכה א"ל</row>
+		<row row_number="41" isdata="1">רבי ישמעאל בר אבא הכי א"ר יהושע בן לוי כל זמן שלא טענה א"ל</row>
+		<row row_number="42" isdata="1">תיב לקבלי יתיב רבי זירא וקמיבעיא ליה כמה גמל הרכה א"ל רבין</row>
+		<row row_number="43" isdata="1">בר חיננא הכי אמר עולא א"ר יהושע בן לוי כל זמן שלא טענה הוה קתני</row>
+		<row row_number="44" isdata="1">לה א"ל חדא הויא לך אמרת תא חזי מה בין תקיפי ארעא דישראל</row>
+		<row row_number="45" isdata="1">לחסידי דבבל: ועור הראש וכו': וכמה עגל הרך עולא אמר בן שנתו ר'</row>
+		<row row_number="46" isdata="1">יוחנן אמר כל זמן שיונק איבעיא להו היכי קאמר עולא בן שנתו והוא שיונק</row>
+</amud>
+</daf>
+</masechet>
+</root>

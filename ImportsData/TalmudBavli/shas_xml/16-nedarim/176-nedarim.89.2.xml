@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.967515</dateCreated>
+   <lastModified>2020-01-14 15:03:02.967515</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="89">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContMishna/>נערה שלא בגרה והיא יתומה בוגרת ומת</row>
+		<row row_number="2" isdata="1">אביה נערה בוגרת ומת אביה נערה שלא</row>
+		<row row_number="3" isdata="1">בגרה ומת אביה נערה שמת אביה ומשמת</row>
+		<row row_number="4" isdata="1">אביה בגרה בוגרת ואביה קיים נערה בוגרת</row>
+		<row row_number="5" isdata="1">ואביה קיים ר' יהודה אומר אף המשיא בתו</row>
+		<row row_number="6" isdata="1">הקטנה ונתאלמנה או נתגרשה וחזרה אצלו</row>
+		<row row_number="7" isdata="1">עדיין היא נערה:<EndMishna/><StartGemara/>גמ' א"ר יהודה אמר רב זו</row>
+		<row row_number="8" isdata="1">דברי ר' יהודה אבל חכ"א שלש נערות</row>
+		<row row_number="9" isdata="1">נדריהן קיימין בוגרת ויתומה ויתומה בחיי</row>
+		<row row_number="10" isdata="1">האב<EndGemara/><StartMishna/>מתני' קונם שאיני נהנה לאבא</row>
+		<row row_number="11" isdata="1">ולאביך אם עושה אני על פיך שאיני נהנית</row>
+		<row row_number="12" isdata="1">לך אם עושה אני על פי אבא וע"פ אביך</row>
+		<row row_number="13" isdata="1">הרי זה יפר:<EndMishna/><StartGemara/>גמ' תניא שאיני נהנית לאבא</row>
+		<row row_number="14" isdata="1">ולאביך אם אני עושה לפיך ר' נתן אומר לא</row>
+		<row row_number="15" isdata="1">יפר וחכ"א יפר נטולה אני מן היהודים אם</row>
+		<row row_number="16" isdata="1">משמשתך ר' נתן אומר לא יפר וחכ"א יפר ההוא</row>
+		<row row_number="17" isdata="1">גברא דאיתסר הנייתא דעלמא עליה אי נסיב</row>
+		<row row_number="18" isdata="1">איתתא כי לא תנינא הילכתא רהיט בגפא</row>
+		<row row_number="19" isdata="1">ותובליא ולא אמצי למיתנא אתא רב אחא</row>
+		<row row_number="20" isdata="1">בר רב הונא ושבשיה ואינסיב איתתא</row>
+</amud>
+</daf>
+</masechet>
+</root>

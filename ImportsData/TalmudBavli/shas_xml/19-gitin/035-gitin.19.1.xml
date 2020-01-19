@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:08.759905</dateCreated>
+   <lastModified>2020-01-14 15:03:08.759905</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="19">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המביא גט"/><ContGemara/>כדאי הוא ר"ש לסמוך עליו בשעת הדחק</row>
+		<row row_number="2" isdata="1">והאמר ריש לקיש לא הכשיר ר"ש אלא</row>
+		<row row_number="3" isdata="1">לאלתר אבל מכאן ועד עשרה ימים לא</row>
+		<row row_number="4" isdata="1">בההיא כרבי יוחנן סבירא ליה והאמר ר'</row>
+		<row row_number="5" isdata="1">יוחנן שנים משום עדים וכולן משום תנאי</row>
+		<row row_number="6" isdata="1">בההיא כריש לקיש סבירא ליה<EndGemara/><StartMishna/>מתני' בכל</row>
+		<row row_number="7" isdata="1">כותבים בדיו בסם בסיקרא ובקומוס</row>
+		<row row_number="8" isdata="1">ובקנקנתום ובכל דבר שהוא של קיימא אין</row>
+		<row row_number="9" isdata="1">כותבין לא במשקין ולא במי פירות ולא</row>
+		<row row_number="10" isdata="1">בכל דבר שאינו מתקיים על הכל כותבין</row>
+		<row row_number="11" isdata="1">על העלה של זית ועל הקרן של פרה</row>
+		<row row_number="12" isdata="1">ונותן לה את הפרה על יד של עבד ונותן</row>
+		<row row_number="13" isdata="1">לה את העבד רבי יוסי הגלילי אומר אין</row>
+		<row row_number="14" isdata="1">כותבין לא על דבר שיש בו רוח חיים</row>
+		<row row_number="15" isdata="1">ולא על האוכלים:<EndMishna/><StartGemara/>גמ' דיו דיותא סם</row>
+		<row row_number="16" isdata="1">סמא סיקרא אמר רבה בר בר חנה סקרתא</row>
+		<row row_number="17" isdata="1">שמה קומוס קומא קנקנתום אמר רבה בר</row>
+		<row row_number="18" isdata="1">[בר חנה אמר] שמואל חרתא דאושכפי:</row>
+		<row row_number="19" isdata="1">ובכל דבר שהוא מתקיים וכו': לאתויי מאי</row>
+		<row row_number="20" isdata="1">לאתויי הא דתני ר' חנינא כתבו במי טריא</row>
+		<row row_number="21" isdata="1">ואפצא כשר תני ר' חייא כתבו באבר</row>
+		<row row_number="22" isdata="1">בשחור ובשיחור כשר איתמר המעביר דיו</row>
+		<row row_number="23" isdata="1">על גבי סיקרא בשבת רבי יוחנן וריש</row>
+		<row row_number="24" isdata="1">לקיש דאמרי תרוייהו חייב שתים אחת</row>
+		<row row_number="25" isdata="1">משום כותב ואחת משום מוחק דיו ע"ג דיו</row>
+		<row row_number="26" isdata="1">סיקרא על גבי סיקרא פטור סיקרא ע"ג</row>
+		<row row_number="27" isdata="1">דיו אמרי לה חייב ואמרי לה פטור אמרי לה</row>
+		<row row_number="28" isdata="1">חייב מוחק הוא אמרי לה פטור מקלקל</row>
+		<row row_number="29" isdata="1">הוא בעא מיניה ריש לקיש מר' יוחנן עדים</row>
+		<row row_number="30" isdata="1">שאין יודעים לחתום מהו שיכתבו להם</row>
+		<row row_number="31" isdata="1">בסיקרא ויחתמו כתב עליון כתב או אינו כתב</row>
+		<row row_number="32" isdata="1">א"ל אינו כתב א"ל והלא לימדתנו רבינו</row>
+		<row row_number="33" isdata="1">כתב עליון כתב לענין שבת א"ל וכי</row>
+		<row row_number="34" isdata="1">מפני שאנו מדמין נעשה מעשה איתמר</row>
+		<row row_number="35" isdata="1">עדים שאין יודעים לחתום רב אמר מקרעין</row>
+		<row row_number="36" isdata="1">להם נייר חלק וממלאים את הקרעים דיו</row>
+		<row row_number="37" isdata="1">ושמואל אמר באבר באבר סלקא דעתך</row>
+		<row row_number="38" isdata="1">והתני רבי חייא כתבו באבר בשחור</row>
+		<row row_number="39" isdata="1">ובשיחור כשר לא קשיא הא באברא הא</row>
+		<row row_number="40" isdata="1">במיא דאברא רבי אבהו אמר במי מילין</row>
+		<row row_number="41" isdata="1">והתני רבי חנינא כתבו במי טריא ואפצא</row>
+		<row row_number="42" isdata="1">כשר ל"ק הא דאפיץ הא דלא אפיץ שאין</row>
+		<row row_number="43" isdata="1">מי מילין ע"ג מי מילין רב פפא אמר ברוק וכן</row>
+		<row row_number="44" isdata="1">אורי ליה רב פפא לפפא תוראה ברוק וה"מ</row>
+		<row row_number="45" isdata="1">בגיטין אבל בשטרות לא דההוא דעבד עובדא בשאר שטרות ונגדיה רב כהנא</row>
+</amud>
+</daf>
+</masechet>
+</root>

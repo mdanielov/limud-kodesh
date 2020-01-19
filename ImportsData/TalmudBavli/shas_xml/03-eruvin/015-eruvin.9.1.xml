@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:19.246368</dateCreated>
+   <lastModified>2020-01-14 15:02:19.246368</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="9">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>משוכה או תלויה פחות מג' אין צריך</row>
+		<row row_number="2" isdata="1">להביא קורה אחרת ג' צריך להביא קורה</row>
+		<row row_number="3" isdata="1">אחרת רשב"ג אומר פחות מד' אין צריך</row>
+		<row row_number="4" isdata="1">להביא קורה אחרת ד' צריך להביא קורה</row>
+		<row row_number="5" isdata="1">אחרת מאי לאו משוכה מבחוץ ותלויה</row>
+		<row row_number="6" isdata="1">מבפנים לא אידי ואידי מבפנים משוכה מרוח</row>
+		<row row_number="7" isdata="1">אחת ותלויה משתי רוחות מהו דתימא</row>
+		<row row_number="8" isdata="1">מרוח אחת אמרינן לבוד משתי רוחות לא</row>
+		<row row_number="9" isdata="1">אמרינן לבוד קמ"ל רב אשי אמר משוכה</row>
+		<row row_number="10" isdata="1">והיא תלויה והיכי דמי כגון שנעץ שתי</row>
+		<row row_number="11" isdata="1">יתידות עקומות על שני כותלי מבוי שאין</row>
+		<row row_number="12" isdata="1">בגובהן ג' ואין בעקמומיתן ג' מהו דתימא או</row>
+		<row row_number="13" isdata="1">לבוד אמרינן או חבוט אמרינן לבוד וחבוט</row>
+		<row row_number="14" isdata="1">לא אמרינן קמ"ל תני ר' זכאי קמיה דר' יוחנן</row>
+		<row row_number="15" isdata="1">בין לחיים ותחת הקורה נידון ככרמלית אמר</row>
+		<row row_number="16" isdata="1">ליה פוק תני לברא אמר אביי מסתברא</row>
+		<row row_number="17" isdata="1">מילתיה דר' יוחנן תחת הקורה אבל בין לחיין</row>
+		<row row_number="18" isdata="1">אסור ורבא אמר בין לחיים נמי מותר אמר</row>
+		<row row_number="19" isdata="1">רבא מנא אמינא לה דכי אתא רב דימי</row>
+		<row row_number="20" isdata="1">א"ר יוחנן מקום שאין בו ד' על ד' מותר לבני</row>
+		<row row_number="21" isdata="1">רה"ר ולבני רה"י לכתף עליו ובלבד שלא</row>
+		<row row_number="22" isdata="1">יחליפו ואביי התם בגבוה ג' אמר אביי מנא</row>
+		<row row_number="23" isdata="1">אמינא לה דאמר רב חמא בר גוריא אמר</row>
+		<row row_number="24" isdata="1">רב תוך הפתח צריך לחי אחר להתירו וכי</row>
+		<row row_number="25" isdata="1">תימא דאית ביה ד' על ד' והאמר רב חנין בר</row>
+		<row row_number="26" isdata="1">רבא אמר רב תוך הפתח אע"פ שאין בו ד'</row>
+		<row row_number="27" isdata="1">על ד' צריך לחי אחר להתירו ורבא התם</row>
+		<row row_number="28" isdata="1">דפתוח לכרמלית אבל לרה"ר מאי שרי יציבא</row>
+		<row row_number="29" isdata="1">בארעא וגיורא בשמי שמיא אין מצא מין</row>
+		<row row_number="30" isdata="1">את מינו וניעור א"ל רב הונא בריה דרב</row>
+		<row row_number="31" isdata="1">יהושע לרבא ואת לא תסברא דבין לחיין</row>
+		<row row_number="32" isdata="1">אסור והאמר רבה בר בר חנה אמר ר' יוחנן</row>
+		<row row_number="33" isdata="1">מבוי שרצפו בלחיין פחות פחות מד' באנו</row>
+		<row row_number="34" isdata="1">למחלוקת רשב"ג ורבנן לרשב"ג</row>
+		<row row_number="35" isdata="1">דאמר אמרינן לבוד משתמש עד</row>
+		<row row_number="36" isdata="1">חודו הפנימי של לחי הפנימי</row>
+		<row row_number="37" isdata="1">לרבנן דאמרי לא אמרינן לבוד</row>
+		<row row_number="38" isdata="1">משתמש עד חודו הפנימי של</row>
+		<row row_number="39" isdata="1">חיצון אבל בין לחיין דכולי עלמא אסור ורבא</row>
+		<row row_number="40" isdata="1">התם נמי דפתוח לכרמלית אבל לרה"ר</row>
+		<row row_number="41" isdata="1">מאי שרי יציבא בארעא וגיורא בשמי שמיא אין מצא מין את מינו וניעור</row>
+</amud>
+</daf>
+</masechet>
+</root>

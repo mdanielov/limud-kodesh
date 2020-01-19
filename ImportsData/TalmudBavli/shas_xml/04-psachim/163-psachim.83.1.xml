@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:30.108495</dateCreated>
+   <lastModified>2020-01-14 15:02:30.108495</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="83">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד צולין"/><ContGemara/>רבה מוסיף אף ר"י הגלילי דתניא ריה"ג</row>
+		<row row_number="2" isdata="1">אומר כל הענין כולו אינו מדבר אלא בפרים</row>
+		<row row_number="3" isdata="1">הנשרפים ובשעירי' הנשרפין לשרוף פסוליהן</row>
+		<row row_number="4" isdata="1">אבית הבירה וליתן לא תעשה על אכילתן</row>
+		<row row_number="5" isdata="1">אמרו לו חטאת שנכנס דמה לפני ולפנים</row>
+		<row row_number="6" isdata="1">מנין אמר להן הן לא הובא את דמה אל</row>
+		<row row_number="7" isdata="1">הקדש פנימה מכלל דאי נפיק איהי א"נ עייל</row>
+		<row row_number="8" isdata="1">דמה בשריפה ורבי יוחנן סבר דם ובשר חדא</row>
+		<row row_number="9" isdata="1">מילתא היא בעלים מלתא אחריתי היא<EndGemara/><StartMishna/>מתני'</row>
+		<row row_number="10" isdata="1">העצמות והגידין והנותר ישרפו בששה עשר</row>
+		<row row_number="11" isdata="1">חל ט"ז להיות בשבת ישרפו בי"ז לפי שאינן</row>
+		<row row_number="12" isdata="1">דוחין לא את השבת ולא את י"ט:<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="13" isdata="1">רב מרי בר אבוה א"ר יצחק עצמות קדשים</row>
+		<row row_number="14" isdata="1">ששימשו נותר מטמאין את הידים הואיל</row>
+		<row row_number="15" isdata="1">ונעשה בסיס לדבר האסור נימא מסייע לי'</row>
+		<row row_number="16" isdata="1">העצמות והגידים והנותר ישרפו לט"ז הני</row>
+		<row row_number="17" isdata="1">עצמות ה"ד אילימא דלית בהו מוח למה</row>
+		<row row_number="18" isdata="1">בשריפה נשדינהו אלא פשיטא דאית בהו</row>
+		<row row_number="19" isdata="1">מוח אי אמרת בשלמא שימוש נותר מילתא</row>
+		<row row_number="20" isdata="1">היא אמטו להכי בעי שריפה אלא אי אמרת</row>
+		<row row_number="21" isdata="1">שימוש נותר לאו מילתא היא למה להו</row>
+		<row row_number="22" isdata="1">שריפה נתברינהו ונחלצה למוח דידהו</row>
+		<row row_number="23" isdata="1">ונשרפיה ונשדינהו לדידהו אלא לאו שמע</row>
+		<row row_number="24" isdata="1">מינה שימוש נותר מילתא היא אמרי לא</row>
+		<row row_number="25" isdata="1">לעולם אימא לך שימוש נותר לאו מילתא</row>
+		<row row_number="26" isdata="1">וקסבר בו בכשר ואפי' בפסול אפי' בפסול</row>
+		<row row_number="27" isdata="1">ס"ד והא תנן אבל המותיר בטהור והשובר</row>
+		<row row_number="28" isdata="1">בטמא אינו סופג את הארבעים לא קשיא</row>
+		<row row_number="29" isdata="1">כאן שהיתה לו שעת הכושר כאן שלא היתה</row>
+		<row row_number="30" isdata="1">לו שעת הכושר ומאן תנא דשני ליה בין</row>
+		<row row_number="31" isdata="1">שהיתה לו שעת הכושר ללא היתה לו שעת</row>
+		<row row_number="32" isdata="1">הכושר רבי יעקב היא דתניא ועצם לא</row>
+		<row row_number="33" isdata="1">תשברו בו בו בכשר ולא בפסול רבי יעקב</row>
+		<row row_number="34" isdata="1">אומר היתה לו שעת הכושר ונפסל יש בו</row>
+		<row row_number="35" isdata="1">משום שבירת העצם לא היתה לו שעת</row>
+		<row row_number="36" isdata="1">הכושר אין בו משום שבירת העצם ר"ש</row>
+		<row row_number="37" isdata="1">אומר אחד זה ואחד זה אין בו משום שבירת</row>
+		<row row_number="38" isdata="1">העצם מיתיבי כל עצמות הקדשים אין</row>
+		<row row_number="39" isdata="1">טעונין שריפה חוץ מעצמות הפסח מפני</row>
+		<row row_number="40" isdata="1">התקלה הני עצמות היכי דמי אילימא דלית</row>
+		<row row_number="41" isdata="1">בהו מוח למה להו שריפה אלא פשיטא</row>
+		<row row_number="42" isdata="1">דאית בהו מוח ואי סלקא דעתך שימוש נותר מילתא היא עצמות קדשים</row>
+		<row row_number="43" isdata="1">אמאי אין טעונין שריפה אמר רב נחמן בר יצחק הכא במאי עסקינן כגון</row>
+		<row row_number="44" isdata="1">שמצאן חלוצין עצמות קדשים דאין בהן משום שבירת העצם קמי דנהוו</row>
+		<row row_number="45" isdata="1">נותר חלצינהו ולא הוו שימוש נותר ולא בעו שריפה עצמות הפסח דיש</row>
+		<row row_number="46" isdata="1">בהן משום שבירת העצם לבתר דנהוו נותר הוא דחלצינהו והוו</row>
+		<row row_number="47" isdata="1">להו שימוש נותר ובעו שריפה רב זביד אמר הכא במאי עסקינן כגון</row>
+</amud>
+</daf>
+</masechet>
+</root>

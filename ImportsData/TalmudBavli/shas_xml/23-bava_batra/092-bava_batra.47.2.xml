@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:31.698154</dateCreated>
+   <lastModified>2020-01-14 15:03:31.698154</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="47">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>במגורשת ואינה מגורשת וכדרבי זירא</row>
+		<row row_number="2" isdata="1">דאמר ר' זירא אמר ר' ירמיה בר אבא אמר</row>
+		<row row_number="3" isdata="1">שמואל כל מקום שאמרו חכמים מגורשת</row>
+		<row row_number="4" isdata="1">ואינה מגורשת בעלה חייב במזונותיה אמר</row>
+		<row row_number="5" isdata="1">רב נחמן אמר לי הונא כולן שהביאו ראיה</row>
+		<row row_number="6" isdata="1">ראייתן ראיה ומעמידין שדה בידן גזלן</row>
+		<row row_number="7" isdata="1">שהביא ראיה אין ראייתו ראיה ואין</row>
+		<row row_number="8" isdata="1">מעמידין שדה בידו מאי קמ"ל תנינא לקח</row>
+		<row row_number="9" isdata="1">מסיקריקון וחזר ולקח מבעל הבית מקחו בטל</row>
+		<row row_number="10" isdata="1">לאפוקי מדרב דאמר רב לא שנו אלא דאמר</row>
+		<row row_number="11" isdata="1">ליה לך חזק וקני אבל בשטר קנה קמ"ל</row>
+		<row row_number="12" isdata="1">כדשמואל דאמר אף בשטר נמי לא קנה</row>
+		<row row_number="13" isdata="1">עד שיכתוב אחריות נכסים ורב ביבי מסיים</row>
+		<row row_number="14" isdata="1">בה משמיה דרב נחמן קרקע אין לו אבל</row>
+		<row row_number="15" isdata="1">מעות יש לו בד"א שאמרו עדים בפנינו</row>
+		<row row_number="16" isdata="1">מנה לו אבל אמרו עדים בפנינו הודה לו לא</row>
+		<row row_number="17" isdata="1">כדרב כהנא דאמר אי לאו דאודי ליה הוה</row>
+		<row row_number="18" isdata="1">ממטי ליה לדידיה ולחמריה לשחוור אמר רב</row>
+		<row row_number="19" isdata="1">הונא תליוהו וזבין זביניה זביני מ"ט כל</row>
+		<row row_number="20" isdata="1">דמזבין איניש אי לאו דאניס לא הוה מזבין</row>
+		<row row_number="21" isdata="1">ואפילו הכי זביניה זביני ודילמא שאני אונסא</row>
+		<row row_number="22" isdata="1">דנפשיה מאונסא דאחריני אלא כדתניא</row>
+</amud>
+</daf>
+</masechet>
+</root>

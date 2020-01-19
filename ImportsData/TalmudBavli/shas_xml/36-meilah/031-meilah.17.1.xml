@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:28.688316</dateCreated>
+   <lastModified>2020-01-14 15:04:28.688316</lastModified>
+ </meta>
+ <masechet name="מעילה" serial="36">
+<daf value="17">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "קדשי מזבח"/><ContGemara/>אמר ליה כי קא מקיש רחמנא לבל תשקצו</row>
+		<row row_number="2" isdata="1">אבל לשיעורין לא<EndGemara/><StartMishna/>מתני' דם השרץ</row>
+		<row row_number="3" isdata="1">והבשר מצטרפין זה עם זה כלל אמר רבי</row>
+		<row row_number="4" isdata="1">יהושע כל שטומאתו ושיעורו שוין מצטרפין</row>
+		<row row_number="5" isdata="1">טומאתו ולא שיעורו שיעורו ולא טומאתו לא</row>
+		<row row_number="6" isdata="1">טומאתו [ולא] שיעורו אין מצטרפין:</row>
+		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב חנין אמר רב זעירא וכן</row>
+		<row row_number="8" isdata="1">אמר רבי יוסי בר ר"ח הטמאין מלמד שהן</row>
+		<row row_number="9" isdata="1">מצטרפין ואפילו שרץ ושרץ שרץ ודם בין</row>
+		<row row_number="10" isdata="1">משם אחד בין משני שמות אמר רב יוסף לא</row>
+		<row row_number="11" isdata="1">קשיא כאן בכולו כאן במקצתו ומנא תימרא</row>
+		<row row_number="12" isdata="1">מדתניא נשפך על הרצפה והיה מקומה</row>
+		<row row_number="13" isdata="1">קטפרס איהל על מקצתו טהור איהל על כולו</row>
+		<row row_number="14" isdata="1">טמא מאי מקצתו אילימא מקצת דם והא</row>
+		<row row_number="15" isdata="1">אמר רבי חנינא אמר רבי רביעית דם שהגיס</row>
+		<row row_number="16" isdata="1">בה טהורה אלא לאו שמע מינה כאן בכולו</row>
+		<row row_number="17" isdata="1">כאן במקצתו ש"מ שאל רבי מתיא בן חרש</row>
+		<row row_number="18" isdata="1">את רבי שמעון בן יוחאי בעיר [רומי] מנין</row>
+		<row row_number="19" isdata="1">לדם שרצים שהוא טמא א"ל דאמר קרא</row>
+		<row row_number="20" isdata="1">וזה לכם הטמא אמרו לו תלמידיו חכים</row>
+		<row row_number="21" isdata="1">ליה בן יוחאי אמר להם תלמוד ערוך בפיו של</row>
+		<row row_number="22" isdata="1">רבי אלעזר בר רבי יוסי שפעם אחת גזרה</row>
+		<row row_number="23" isdata="1">המלכות גזרה שלא ישמרו את השבת ושלא</row>
+		<row row_number="24" isdata="1">ימולו את בניהם ושיבעלו את נדות הלך</row>
+		<row row_number="25" isdata="1">רבי ראובן בן איסטרובלי וסיפר קומי והלך</row>
+		<row row_number="26" isdata="1">וישב עמהם אמר להם מי שיש לו אויב יעני</row>
+		<row row_number="27" isdata="1">או יעשיר אמרו לו יעני אמר להם אם כן לא</row>
+		<row row_number="28" isdata="1">יעשו מלאכה בשבת כדי שיענו אמרו טבית</row>
+		<row row_number="29" isdata="1">אמר ליבטל ובטלוה חזר ואמר להם מי</row>
+		<row row_number="30" isdata="1">שיש לו אויב יכחיש או יבריא אמרו לו יכחיש</row>
+		<row row_number="31" isdata="1">אמר להם אם כן ימולו בניהם לשמונה ימים</row>
+		<row row_number="32" isdata="1">ויכחישו אמרו טבית אמר ובטלוה חזר</row>
+		<row row_number="33" isdata="1">ואמר להם מי שיש לו אויב ירבה או יתמעט</row>
+		<row row_number="34" isdata="1">אמרו לו יתמעט אם כן לא יבעלו נדות</row>
+		<row row_number="35" isdata="1">אמרו טבית אמר ובטלוה הכירו בו שהוא</row>
+		<row row_number="36" isdata="1">יהודי החזירום אמרו מי ילך ויבטל הגזרות</row>
+</amud>
+</daf>
+</masechet>
+</root>

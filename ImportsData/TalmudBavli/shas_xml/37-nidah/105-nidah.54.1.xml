@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:32.882483</dateCreated>
+   <lastModified>2020-01-14 15:04:32.882483</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="54">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בא סימן"/><ContGemara/>שוטות נינהו טועות נינהו אלא תני טועות</row>
+		<row row_number="2" isdata="1">דתניא יום אחד טמא ויום אחד טהור</row>
+		<row row_number="3" isdata="1">משמשת שמיני ולילו עמו וארבעה לילות</row>
+		<row row_number="4" isdata="1">מתוך שמונה עשר יום ואם היתה רואה</row>
+		<row row_number="5" isdata="1">מבערב אינה משמשת אלא שמיני בלבד</row>
+		<row row_number="6" isdata="1">שני ימים טמאין ושני ימים טהורין משמשת</row>
+		<row row_number="7" isdata="1">שמיני ושנים עשר וששה עשר ועשרים</row>
+		<row row_number="8" isdata="1">ותשמש נמי בתשסר אמר רב ששת זאת</row>
+		<row row_number="9" isdata="1">אומרת גרגרן דתנן אסור רב אשי אמר</row>
+		<row row_number="10" isdata="1">נהי דחד עשר לא בעי שימור עשירי מיהא</row>
+		<row row_number="11" isdata="1">בעי שימור שלשה ימים טמאין ושלשה</row>
+		<row row_number="12" isdata="1">ימים טהורין משמשת שני ימים ושוב אינה</row>
+		<row row_number="13" isdata="1">משמשת לעולם ארבעה ימים טמאים</row>
+		<row row_number="14" isdata="1">וארבעה ימים טהורין משמשת יום אחד</row>
+		<row row_number="15" isdata="1">ושוב אינה משמשת לעולם חמשה ימים</row>
+		<row row_number="16" isdata="1">טמאים וחמשה ימים טהורין משמשת שלשה</row>
+		<row row_number="17" isdata="1">ימים ושוב אינה משמשת לעולם ששה</row>
+		<row row_number="18" isdata="1">ימים טמאין וששה ימים טהורין משמשת</row>
+		<row row_number="19" isdata="1">חמשה ימים ושוב אינה משמשת לעולם</row>
+		<row row_number="20" isdata="1">שבעה ימים טמאין ושבעה ימים טהורין</row>
+		<row row_number="21" isdata="1">משמשת רביע ימיה מתוך כ"ח ימים</row>
+		<row row_number="22" isdata="1">שמונה ימים טמאין ושמונה ימים טהורין</row>
+		<row row_number="23" isdata="1">משמשת חמשה עשר יום מתוך ארבעים</row>
+		<row row_number="24" isdata="1">ושמונה הרי ארביסר הוו אמר רב אדא בר</row>
+		<row row_number="25" isdata="1">יצחק זאת אומרת ימי נדתה שאין רואה</row>
+		<row row_number="26" isdata="1">בהן עולין לספירת זיבתה דאיבעיא להו</row>
+</amud>
+</daf>
+</masechet>
+</root>

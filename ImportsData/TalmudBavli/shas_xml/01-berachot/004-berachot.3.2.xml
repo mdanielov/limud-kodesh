@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:06.833863</dateCreated>
+   <lastModified>2020-01-14 15:02:06.833863</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="3">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מאימתי"/><ContGemara/>בחדתי ותיפוק ליה משום מזיקין בתרי אי בתרי</row>
+		<row row_number="2" isdata="1">חשד נמי ליכא בתרי ופריצי. מפני המפולת</row>
+		<row row_number="3" isdata="1">ותיפוק ליה משום חשד ומזיקין בתרי וכשרי.</row>
+		<row row_number="4" isdata="1">מפני המזיקין ותיפוק ליה מפני חשד ומפולת</row>
+		<row row_number="5" isdata="1">בחורבה חדתי ובתרי וכשרי אי בתרי מזיקין</row>
+		<row row_number="6" isdata="1">נמי ליכא במקומן חיישינן ואב"א לעולם בחד</row>
+		<row row_number="7" isdata="1">ובחורבה חדתי דקאי בדברא דהתם משום</row>
+		<row row_number="8" isdata="1">חשד ליכא דהא אשה בדברא לא שכיחא</row>
+		<row row_number="9" isdata="1">ומשום מזיקין איכא: ת"ר ארבע משמרות</row>
+		<row row_number="10" isdata="1">הוי הלילה דברי רבי ר' נתן אומר שלש מ"ט</row>
+		<row row_number="11" isdata="1">דר' נתן דכתיב ויבא גדעון ומאה איש אשר</row>
+		<row row_number="12" isdata="1">אתו בקצה המחנה ראש האשמורת התיכונה</row>
+		<row row_number="13" isdata="1">תנא אין תיכונה אלא שיש לפניה ולאחריה</row>
+		<row row_number="14" isdata="1">ורבי מאי תיכונה אחת מן התיכונה שבתיכונות</row>
+		<row row_number="15" isdata="1">ור' נתן מי כתיב תיכונה שבתיכונות תיכונה</row>
+		<row row_number="16" isdata="1">כתיב מ"ט דרבי א"ר זריקא א"ר אמי א"ר</row>
+		<row row_number="17" isdata="1">יהושע בן לוי כתוב אחד אומר חצות לילה</row>
+		<row row_number="18" isdata="1">אקום להודות לך על משפטי צדקך וכתוב אחד</row>
+		<row row_number="19" isdata="1">אומר קדמו עיני אשמורות הא כיצד ארבע</row>
+		<row row_number="20" isdata="1">משמרות הוי הלילה ור' נתן סבר לה כרבי</row>
+		<row row_number="21" isdata="1">יהושע דתנן ר' יהושע אומר עד שלש שעות</row>
+		<row row_number="22" isdata="1">שכן דרך מלכים לעמוד בשלש שעות שית דליליא ותרתי דיממא הוו להו</row>
+		<row row_number="23" isdata="1">שתי משמרות רב אשי אמר משמרה ופלגא נמי משמרות קרו להו: ואמר רבי</row>
+		<row row_number="24" isdata="1">זריקא אמר רבי אמי אמר רבי יהושע בן לוי אין אומרין בפני המת אלא דבריו</row>
+		<row row_number="25" isdata="1">של מת אמר רבי אבא בר כהנא לא אמרן אלא בדברי תורה אבל מילי דעלמא</row>
+		<row row_number="26" isdata="1">לית לן בה ואיכא דאמרי אמר רבי אבא בר כהנא לא אמרן אלא [אפילו] בדברי</row>
+		<row row_number="27" isdata="1">תורה וכ"ש מילי דעלמא: ודוד בפלגא דליליא הוה קאי מאורתא הוה קאי</row>
+		<row row_number="28" isdata="1">דכתיב קדמתי בנשף ואשועה וממאי דהאי נשף אורתא הוא דכתיב בנשף</row>
+		<row row_number="29" isdata="1">בערב יום באישון לילה ואפילה אמר רב אושעיא אמר רבי אחא הכי קאמר</row>
+		<row row_number="30" isdata="1">(דוד) מעולם לא עבר עלי חצות לילה בשינה. רבי זירא אמר עד חצות לילה</row>
+		<row row_number="31" isdata="1">היה מתנמנם כסוס מכאן ואילך היה מתגבר כארי רב אשי אמר עד חצות</row>
+		<row row_number="32" isdata="1">לילה היה עוסק בדברי תורה מכאן ואילך בשירות ותשבחות. ונשף אורתא הוא</row>
+		<row row_number="33" isdata="1">הא נשף צפרא הוא דכתיב ויכם דוד מהנשף ועד הערב למחרתם מאי לאו</row>
+		<row row_number="34" isdata="1">מצפרא ועד ליליא לא מאורתא ועד אורתא אי הכי לכתוב מהנשף ועד הנשף</row>
+		<row row_number="35" isdata="1">או מהערב ועד הערב אלא אמר רבא תרי נשפי הוו נשף ליליא ואתי יממא</row>
+		<row row_number="36" isdata="1">נשף יממא ואתי ליליא. ודוד מי הוה ידע פלגא דליליא אימת השתא משה רבינו</row>
+		<row row_number="37" isdata="1">לא הוה ידע דכתיב כחצות הלילה אני יוצא בתוך מצרים מאי כחצות אילימא</row>
+		<row row_number="38" isdata="1">דאמר ליה קודשא בריך הוא כחצות מי איכא ספיקא קמי שמיא אלא דאמר</row>
+		<row row_number="39" isdata="1">ליה (למחר) בחצות (כי השתא) ואתא איהו ואמר כחצות אלמא מספקא לי'</row>
+		<row row_number="40" isdata="1">ודוד הוה ידע דוד סימנא הוה ליה דאמר רב אחא בר ביזנא א"ר שמעון חסידא</row>
+		<row row_number="41" isdata="1">כנור היה תלוי למעלה ממטתו של דוד וכיון שהגיע חצות לילה בא רוח צפונית</row>
+		<row row_number="42" isdata="1">ונושבת בו ומנגן מאליו מיד היה עומד ועוסק בתורה עד שעלה עמוד השחר</row>
+		<row row_number="43" isdata="1">כיון שעלה עמוד השחר נכנסו חכמי ישראל אצלו אמרו לו אדונינו המלך עמך</row>
+		<row row_number="44" isdata="1">ישראל צריכין פרנסה אמר להם לכו והתפרנסו זה מזה אמרו לו אין הקומץ</row>
+		<row row_number="45" isdata="1">משביע את הארי ואין הבור מתמלא מחוליתו אמר להם לכו ופשטו ידיכם</row>
+		<row row_number="46" isdata="1">בגדוד מיד יועצים באחיתופל ונמלכין בסנהדרין ושואלין באורים ותומים אמר</row>
+		<row row_number="47" isdata="1">רב יוסף מאי קרא (דכתיב) ואחרי אחיתופל בניהו בן יהוידע ואביתר ושר צבא</row>
+		<row row_number="48" isdata="1">למלך יואב אחיתופל זה יועץ וכה"א ועצת אחיתופל אשר יעץ בימים ההם כאשר ישאל (איש) בדבר האלהים</row>
+</amud>
+</daf>
+</masechet>
+</root>

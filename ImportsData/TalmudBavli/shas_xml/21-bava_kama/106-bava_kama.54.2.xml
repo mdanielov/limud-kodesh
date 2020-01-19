@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:19.406497</dateCreated>
+   <lastModified>2020-01-14 15:03:19.406497</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="54">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח את הפרה"/><ContGemara/>הא שור שהוא פקח פטור אמר ר' ירמיה לא</row>
+		<row row_number="2" isdata="1">מבעיא קאמר לא מבעיא שור שהוא פקח</row>
+		<row row_number="3" isdata="1">דחייב אבל שור חרש שוטה וקטן אימא</row>
+		<row row_number="4" isdata="1">חרשותו גרמה לו קטנותו גרמה לו וליפטר</row>
+		<row row_number="5" isdata="1">קמ"ל א"ל רב אחא לרבינא והתניא נפל</row>
+		<row row_number="6" isdata="1">לתוכו בר דעת פטור מאי לאו שור בר</row>
+		<row row_number="7" isdata="1">דעת א"ל לא אדם אלא מעתה אדם בן</row>
+		<row row_number="8" isdata="1">דעת הוא דפטור הא לאו בן דעת הוא</row>
+		<row row_number="9" isdata="1">דחייב שור ולא אדם כתיב אלא מאי</row>
+		<row row_number="10" isdata="1">בן דעת מין בן דעת א"ל והתניא נפל</row>
+		<row row_number="11" isdata="1">לתוכו שור בן דעת פטור אלא אמר רבא</row>
+		<row row_number="12" isdata="1">שור והוא חרש שור והוא שוטה שור והוא</row>
+		<row row_number="13" isdata="1">קטן דוקא אבל שור והוא פקח פטור מאי</row>
+		<row row_number="14" isdata="1">טעמא דבעי ליה עיוני ומיזל תניא נמי הכי נפל לתוכו שור חרש שוטה</row>
+		<row row_number="15" isdata="1">וקטן וסומא ומהלך בלילה חייב פקח ומהלך ביום פטור<EndGemara/><StartMishna/>מתני' אחד</row>
+		<row row_number="16" isdata="1">שור ואחד כל בהמה לנפילת הבור ולהפרשת הר סיני ולתשלומי כפל</row>
+		<row row_number="17" isdata="1">ולהשבת אבידה לפריקה לחסימה לכלאים ולשבת וכן חיה ועוף</row>
+		<row row_number="18" isdata="1">כיוצא בהן א"כ למה נאמר שור או חמור אלא שדבר הכתוב בהווה:</row>
+		<row row_number="19" isdata="1"><EndMishna/><StartGemara/>גמ' לנפילת הבור כסף ישיב לבעליו כתיב כל דאית ליה בעלים</row>
+		<row row_number="20" isdata="1">כדאמרן להפרשת הר סיני אם בהמה אם איש לא יחיה וחיה בכלל</row>
+		<row row_number="21" isdata="1">בהמה הויא אם לרבות את העופות לתשלומי כפל כדאמרינן על כל</row>
+		<row row_number="22" isdata="1">דבר פשע כלל כל דבר פשיעה להשבת אבידה לכל אבדת אחיך</row>
+		<row row_number="23" isdata="1">לפריקה יליף חמור חמור משבת לחסימה יליף שור שור משבת לכלאים</row>
+		<row row_number="24" isdata="1">אי כלאים דחרישה יליף שור שור משבת אי כלאים דהרבעה יליף בהמתך</row>
+		<row row_number="25" isdata="1">בהמתך משבת וגבי שבת מנלן דתניא ר' יוסי אומר משום ר' ישמעאל</row>
+		<row row_number="26" isdata="1">בדברות הראשונות נאמר עבדך ואמתך ובהמתך ובדברות האחרונות</row>
+		<row row_number="27" isdata="1">נאמר ושורך וחמורך וכל בהמתך והלא שור וחמור בכלל כל בהמה</row>
+		<row row_number="28" isdata="1">היו ולמה יצאו לומר לך מה שור וחמור האמור כאן חיה ועוף כיוצא</row>
+		<row row_number="29" isdata="1">בהן אף כל חיה ועוף כיוצא בהן אימא בהמה דדברות הראשונות כלל</row>
+		<row row_number="30" isdata="1">שורך וחמורך דדברות האחרונות פרט כלל ופרט אין בכלל אלא מה</row>
+		<row row_number="31" isdata="1">שבפרט שור וחמור אין מידי אחרינא לא אמרי וכל בהמתך דדברות</row>
+		<row row_number="32" isdata="1">האחרונות חזר וכלל כלל ופרט וכלל אי אתה דן אלא כעין הפרט מה</row>
+		<row row_number="33" isdata="1">הפרט מפורש בעלי חיים אף כל בעלי חיים ואימא מה הפרט מפורש</row>
+		<row row_number="34" isdata="1">דבר שנבלתו מטמא במגע ובמשא אף כל דבר שנבלתו מטמא במגע</row>
+		<row row_number="35" isdata="1">ובמשא אבל עופות לא אמרי א"כ נכתוב רחמנא חד פרטא הי נכתוב</row>
+		<row row_number="36" isdata="1">רחמנא אי כתב רחמנא שור ה"א קרב לגבי מזבח אין שאינו קרב לגבי</row>
+		<row row_number="37" isdata="1">מזבח לא כתב רחמנא חמור ואי כתב רחמנא חמור ה"א קדוש בבכורה</row>
+		<row row_number="38" isdata="1">אין שאין קדוש בבכורה לא כתב רחמנא שור אלא וכל בהמתך ריבויא</row>
+		<row row_number="39" isdata="1">הוא וכל היכא דכתב רחמנא כל ריבויא הוא והא גבי מעשר דכתיב כל</row>
+		<row row_number="40" isdata="1">וקא דרשינן ליה בכלל ופרט דתניא ונתת הכסף בכל אשר תאוה נפשך</row>
+		<row row_number="41" isdata="1">כלל בבקר ובצאן וביין ובשכר פרט ובכל אשר תשאלך נפשך חזר וכלל</row>
+		<row row_number="42" isdata="1">כלל ופרט וכלל אי אתה דן אלא כעין הפרט מה הפרט מפורש פרי</row>
+		<row row_number="43" isdata="1">מפרי וגידולי קרקע אף כל פרי מפרי וגידולי קרקע אמרי בכל כללא</row>
+		<row row_number="44" isdata="1">כל ריבויא איבעית אימא כל נמי כללא הוא מיהו האי כל דהכא</row>
+		<row row_number="45" isdata="1">ריבויא הוא מדהוה ליה למכתב ובהמתך כדכתיב בדברות הראשונות</row>
+		<row row_number="46" isdata="1">וכתב וכל בהמתך ש"מ ריבויא השתא דאמרת כל ריבויא הוא בהמתך</row>
+		<row row_number="47" isdata="1">דדברות הראשונות ושור וחמור דדברות האחרונות ל"ל אמרי שור</row>
+		<row row_number="48" isdata="1">לאגמורי שור שור לחסימה חמור לאגמורי חמור חמור לפריקה בהמתך</row>
+		<row row_number="49" isdata="1">לאגמורי בהמתך בהמתך לכלאים אי הכי אפילו אדם ליתסר אלמה תנן</row>
+		<row row_number="50" isdata="1">אדם מותר עם כולן לחרוש ולמשוך אמר רב פפא פפונאי ידעי טעמא</row>
+		<row row_number="51" isdata="1">דהא מילתא ומנו רב אחא בר יעקב אמר קרא למען ינוח עבדך ואמתך</row>
+		<row row_number="52" isdata="1">כמוך להנחה הקשתיו ולא לדבר אחר: שאל רבי חנינא בן</row>
+		<row row_number="53" isdata="1">עגיל את רבי חייא בר אבא מפני מה בדברות הראשונות לא נאמר בהם טוב ובדברות האחרונות</row>
+</amud>
+</daf>
+</masechet>
+</root>

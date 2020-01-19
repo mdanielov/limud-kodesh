@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:31.254184</dateCreated>
+   <lastModified>2020-01-14 15:04:31.254184</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="28">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המפלת חתיכה"/><ContGemara/>וטהרו לו פתחים קטנים וקא דייקת מינה</row>
+		<row row_number="2" isdata="1">טעמא דשלדו קיימת הא לאו הכי טהור</row>
+		<row row_number="3" isdata="1">אדרבה דוק מינה להאי גיסא שלדו קיימת</row>
+		<row row_number="4" isdata="1">הוא דטהרו לו פתחים קטנים הא לאו הכי</row>
+		<row row_number="5" isdata="1">פתחים קטנים נמי טמאין דכל חד וחד חזי</row>
+		<row row_number="6" isdata="1">לאפוקי חד חד אבר א"ל רבינא לרב אשי ר'</row>
+		<row row_number="7" isdata="1">יוחנן דאמר כמאן כר' אליעזר דתנן אפר</row>
+		<row row_number="8" isdata="1">שרופין ר"א אומר שיעור' ברובע היכי דמי מת</row>
+		<row row_number="9" isdata="1">שנשרף ושלדו קיימת אמר אביי כגון ששרפו</row>
+		<row row_number="10" isdata="1">על גבי קטבלא רבא אמר כגון ששרפו</row>
+		<row row_number="11" isdata="1">על גבי אפודרים רבינא אמר כגון דאיחרכי</row>
+		<row row_number="12" isdata="1">אחרוכי ת"ר המפלת יד חתוכה ורגל חתוכה</row>
+		<row row_number="13" isdata="1">אמו טמאה לידה ואין חוששין שמא מגוף</row>
+		<row row_number="14" isdata="1">אטום באו רב חסדא ורבה בר רב הונא</row>
+		<row row_number="15" isdata="1">דאמרי תרוייהו אין נותנין לה ימי טוהר מ"ט</row>
+		<row row_number="16" isdata="1">אימא הרחיקה לידתה מתיב רב יוסף</row>
+		<row row_number="17" isdata="1">המפלת ואין ידוע מה הפילה תשב לזכר</row>
+		<row row_number="18" isdata="1">ולנקבה ואי ס"ד כל כהאי גוונא אימא הרחיקה</row>
+		<row row_number="19" isdata="1">לידתה לתני ולנדה אמר אביי אי תנא לנדה</row>
+		<row row_number="20" isdata="1">הוה אמינא מביאה קרבן ואינו נאכל קמ"ל</row>
+		<row row_number="21" isdata="1">דנאכל אמר רב הונא הוציא עובר את ידו</row>
+		<row row_number="22" isdata="1">והחזירה אמו טמאה לידה שנאמר ויהי</row>
+		<row row_number="23" isdata="1">בלדתה ויתן יד מתיב רב יהודה הוציא עובר</row>
+		<row row_number="24" isdata="1">את ידו אין אמו חוששת לכל דבר אמר רב</row>
+		<row row_number="25" isdata="1">נחמן לדידי מיפרשא לי מיניה דרב הונא</row>
+		<row row_number="26" isdata="1">לחוש חוששת ימי טוהר לא יהבינן לה עד</row>
+		<row row_number="27" isdata="1">דנפיק רוביה והא אין אמו חוששת לכל דבר</row>
+		<row row_number="28" isdata="1">קאמר אמר אביי אינה חוששת לכל דבר</row>
+		<row row_number="29" isdata="1">מדאורייתא אבל מדרבנן חוששת והא קרא</row>
+		<row row_number="30" isdata="1">קאמר מדרבנן וקרא אסמכתא בעלמא:</row>
+		<row row_number="31" isdata="1"><EndGemara/><StartMishna/>מתני' המפלת טומטום ואנדרוגינוס תשב</row>
+		<row row_number="32" isdata="1">לזכר ולנקבה טומטום וזכר אנדרוגינוס וזכר</row>
+		<row row_number="33" isdata="1">תשב לזכר ולנקבה טומטום ונקבה אנדרוגינוס</row>
+		<row row_number="34" isdata="1">ונקבה תשב לנקבה בלבד יצא מחותך או</row>
+		<row row_number="35" isdata="1">מסורס משיצא רובו הרי הוא כילוד יצא</row>
+		<row row_number="36" isdata="1">כדרכו עד שיצא רוב ראשו ואיזהו רוב ראשו</row>
+		<row row_number="37" isdata="1">משיצא פדחתו:<EndMishna/><StartGemara/>גמ' השתא טומטום לחודיה</row>
+		<row row_number="38" isdata="1">ואנדרוגינוס לחודיה אמר תשב לזכר ולנקבה</row>
+		<row row_number="39" isdata="1">טומטום וזכר אנדרוגינוס וזכר מיבעיא איצטריך</row>
+		<row row_number="40" isdata="1">מהו דתימ' הואיל וא"ר יצחק אשה מזרעת תחל'</row>
+		<row row_number="41" isdata="1">יולדת זכר איש מזריע תחלה יולדת נקבה</row>
+		<row row_number="42" isdata="1">אימא מדהאי זכר האי נמי זכר קמ"ל אימא</row>
+		<row row_number="43" isdata="1">שניהם הזריעו בבת אחת זו זכר וזה נקבה אמר</row>
+		<row row_number="44" isdata="1">ר"נ אמר רב טומטום ואנדרוגינוס שראו לובן או</row>
+		<row row_number="45" isdata="1">אודם אין חייבין על ביאת מקדש ואין שורפין</row>
+		<row row_number="46" isdata="1">עליהם את התרומה ראו לובן ואודם כאחד</row>
+		<row row_number="47" isdata="1">אין חייבין על ביאת מקדש אבל שורפין</row>
+		<row row_number="48" isdata="1">עליהם את התרומה שנאמר מזכר ועד נקבה</row>
+</amud>
+</daf>
+</masechet>
+</root>

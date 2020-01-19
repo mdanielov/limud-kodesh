@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:48.881907</dateCreated>
+   <lastModified>2020-01-14 15:03:48.881907</lastModified>
+ </meta>
+ <masechet name="שבועות" serial="26">
+<daf value="28">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שבועות שתים"/><ContGemara/>אפי' כל שהוא נמי אי בעית אימא שלא</row>
+		<row row_number="2" isdata="1">אוכל אי בעית אימא שלא אוכלנה איבעית</row>
+		<row row_number="3" isdata="1">אימא שלא אוכל מיגו דמהניא ליה שאלה</row>
+		<row row_number="4" isdata="1">אכזית בתרא מהניא ליה שאלה נמי אכזית</row>
+		<row row_number="5" isdata="1">קמא ואיבעית אימא שלא אוכלנה אי שייר</row>
+		<row row_number="6" isdata="1">כזית חשיב לאיתשולי עליה ואי לא לא</row>
+		<row row_number="7" isdata="1">חשיב לאיתשולי עליה מיתיבי מי שנדר</row>
+		<row row_number="8" isdata="1">שתי נזירות ומנה ראשונה והפריש עליה</row>
+		<row row_number="9" isdata="1">קרבן ואח"כ נשאל על הראשונה עלתה לו</row>
+		<row row_number="10" isdata="1">שניה בראשונה הכא במאי עסקינן בשלא</row>
+		<row row_number="11" isdata="1">כיפר והתניא כיפר בשלא גלח ור"א היא</row>
+		<row row_number="12" isdata="1">דאמר תגלחת מעכבא והתניא גלח אמר</row>
+		<row row_number="13" isdata="1">רב אשי נזירות קא רמית מי גרם לשניה</row>
+		<row row_number="14" isdata="1">שלא תחול ראשונה ואינה אמימר</row>
+		<row row_number="15" isdata="1">אמר אפילו אכלה כולה נשאל עליה אי</row>
+		<row row_number="16" isdata="1">בשוגג מחוסר קרבן אי במזיד מחוסר מלקות</row>
+		<row row_number="17" isdata="1">אבל כפתוהו על העמוד לא כדשמואל</row>
+		<row row_number="18" isdata="1">דאמר שמואל כפתוהו על העמוד ורץ</row>
+		<row row_number="19" isdata="1">מב"ד פטור ולא היא התם רץ הכא לא רץ</row>
+		<row row_number="20" isdata="1">אמר רבא שבועה שלא אוכל ככר זו</row>
+		<row row_number="21" isdata="1">אם אוכל זו ואכל את הראשונה בשוגג</row>
+		<row row_number="22" isdata="1">והשניה במזיד פטור ראשונה במזיד</row>
+		<row row_number="23" isdata="1">ושניה בשוגג חייב שתיהן בשוגג פטור</row>
+</amud>
+</daf>
+</masechet>
+</root>

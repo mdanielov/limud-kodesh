@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:04.955357</dateCreated>
+   <lastModified>2020-01-14 15:03:04.955357</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="33">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בית שמאי"/><ContGemara/>אביי אמר כגון דאמר אי נמי לאו פלוני</row>
+		<row row_number="2" isdata="1">הוא אי הוי נזיר ומאי לא נתקיימו</row>
+		<row row_number="3" isdata="1">דבריו לא נתקיימו דבריו הראשונים</row>
+		<row row_number="4" isdata="1">אלא דבריו אחרונים: הרתיע לאחוריו</row>
+		<row row_number="5" isdata="1">אינו נזיר כו': טעמא משום דהרתיע</row>
+		<row row_number="6" isdata="1">לאחוריו הא אתי לקמן הוי נזיר מני</row>
+</amud>
+</daf>
+</masechet>
+</root>

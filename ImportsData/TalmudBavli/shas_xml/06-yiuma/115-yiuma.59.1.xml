@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:36.961731</dateCreated>
+   <lastModified>2020-01-14 15:02:36.961731</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="59">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הוציאו לו"/><ContGemara/>ואי בעית אימא אי סבירא לן הקפה ברגל</row>
+		<row row_number="2" isdata="1">דכולי עלמא לא פליגי דילפינן פנים מחוץ</row>
+		<row row_number="3" isdata="1">והכא בהא קא מיפלגי מר סבר הקפה ביד</row>
+		<row row_number="4" isdata="1">ומר סבר הקפה ברגל ואי בעית אימא</row>
+		<row row_number="5" isdata="1">דכ"ע הקפה ביד והכא בהא קא מיפלגי מר</row>
+		<row row_number="6" isdata="1">סבר ילפינן יד מרגל ומר סבר לא ילפינן</row>
+		<row row_number="7" isdata="1">וסבר ר' יוסי הגלילי הקפה ביד והא מדקתני</row>
+		<row row_number="8" isdata="1">סיפא ר' אליעזר אומר במקומו היה עומד</row>
+		<row row_number="9" isdata="1">ומחטא מכלל דתנא קמא לא סבירא ליה אלא</row>
+		<row row_number="10" isdata="1">מחוורתא כדשנינן מעיקרא מר סבר הקפה</row>
+		<row row_number="11" isdata="1">ביד ומר סבר הקפה ברגל ואי בעית אימא</row>
+		<row row_number="12" isdata="1">בהא קא מיפלגי מר סבר סביב דמזבח</row>
+		<row row_number="13" isdata="1">פנימי כסביב דמזבח החיצון ומר סבר כוליה</row>
+		<row row_number="14" isdata="1">מזבח פנימי במקום חדא קרן דמזבח חיצון</row>
+		<row row_number="15" isdata="1">קאי תניא אמר ר' ישמעאל שני כהנים גדולים</row>
+		<row row_number="16" isdata="1">נשתיירו במקדש ראשון זה אומר בידי</row>
+		<row row_number="17" isdata="1">הקפתי וזה אומר ברגלי הקפתי זה נותן</row>
+		<row row_number="18" isdata="1">טעם לדבריו וזה נותן טעם לדבריו זה נותן</row>
+		<row row_number="19" isdata="1">טעם לדבריו סביב דמזבח פנימי כסביב</row>
+		<row row_number="20" isdata="1">דמזבח החיצון וזה נותן טעם לדבריו כוליה</row>
+		<row row_number="21" isdata="1">מזבח פנימי במקום חדא קרן דחיצון קאי:</row>
+		<row row_number="22" isdata="1">רבי אליעזר אומר במקומו היה עומד ומחטא:</row>
+		<row row_number="23" isdata="1">מתניתין מני ר' יהודה היא דתניא ר' מאיר</row>
+		<row row_number="24" isdata="1">אומר רבי אליעזר אומר במקומו עומד</row>
+		<row row_number="25" isdata="1">ומחטא ועל כולן היה נותן ממעלה למטה</row>
+		<row row_number="26" isdata="1">חוץ מאותה שבאלכסון שנותן ממטה למעלה</row>
+		<row row_number="27" isdata="1">רבי יהודה אומר ר' אליעזר אומר במקומו</row>
+		<row row_number="28" isdata="1">עומד ומחטא ועל כולן הוא נותן מלמטה</row>
+		<row row_number="29" isdata="1">למעלה חוץ מזו שהיתה לפניו ממש שנותן</row>
+		<row row_number="30" isdata="1">ממעלה למטה כי היכי דלא ניתווסן מאניה:</row>
+		<row row_number="31" isdata="1">הזה ממנו על טהרו של מזבח: מאי טהרו</row>
+		<row row_number="32" isdata="1">אמר רבה בר רב שילא פלגיה דמזבח</row>
+		<row row_number="33" isdata="1">כדאמרי אינשי טהר טיהרא והוי פלגיה</row>
+		<row row_number="34" isdata="1">דיומא מיתיבי כשהוא מזה אינו מזה לא</row>
+		<row row_number="35" isdata="1">ע"ג האפר ולא ע"ג הגחלים אלא חותה</row>
+		<row row_number="36" isdata="1">גחלים אילך ואילך ומזה אלא אמר רבה בר רב שילא על גלויה דמזבח</row>
+		<row row_number="37" isdata="1">כדכתיב וכעצם השמים לטוהר תניא חנניא אומר בצד צפוני הוא נותן</row>
+		<row row_number="38" isdata="1">רבי יוסי אומר בצד דרומי הוא נותן במאי קמיפלגי מר סבר פיתחא</row>
+		<row row_number="39" isdata="1">בדרום קאי ומר סבר פיתחא בצפון קאי דכ"ע מיהא היכא דגמרן מתנות</row>
+		<row row_number="40" isdata="1">דקרנות התם יהיב על גגו מאי טעמא אמר קרא וטהרו וקדשו מקום שקדשו</row>
+		<row row_number="41" isdata="1">שם טיהרו: שירי הדם היה שופך על יסוד מערבי של מזבח החיצון: דאמר</row>
+		<row row_number="42" isdata="1">קרא ואת כל דם הפר ישפוך וכי נפיק בההוא פגע ברישא: ושל מזבח</row>
+		<row row_number="43" isdata="1">החיצון היה שופך על יסוד דרומית: ת"ר יסוד המזבח זה יסוד דרומית</row>
+		<row row_number="44" isdata="1">אתה אומר יסוד דרומית או אינו אלא יסוד מערבית אמרת ילמד ירידתו מן</row>
+		<row row_number="45" isdata="1">הכבש ליציאתו מן ההיכל מה יציאתו מן ההיכל בסמוך לו ואי זה זה יסוד</row>
+		<row row_number="46" isdata="1">מערבי אף ירידתו מן הכבש בסמוך לו ואי זה זה יסוד דרומי תניא</row>
+		<row row_number="47" isdata="1">ר' ישמעאל אומר זה וזה יסוד מערבי ר' שמעון בן יוחאי אומר זה וזה</row>
+		<row row_number="48" isdata="1">יסוד דרומי בשלמא ר' ישמעאל קסבר ילמד סתום ממפורש אלא ר'</row>
+		<row row_number="49" isdata="1">שמעון בן יוחאי מאי טעמא אמר רב אשי קסבר פתחא בדרום קאי תנא</row>
+		<row row_number="50" isdata="1">דבי רבי ישמעאל בדבי רבי שמעון בן יוחאי זה וזה יסוד דרומית</row>
+		<row row_number="51" isdata="1">וסימניך משכוה גברי לגברא: אלו ואלו מתערבין באמה ויוצאין וכו': תנו</row>
+		<row row_number="52" isdata="1">רבנן מועלין בדמים דברי ר' מאיר ור' שמעון וחכ"א אין מועלין בהן</row>
+</amud>
+</daf>
+</masechet>
+</root>

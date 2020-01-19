@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:20.152453</dateCreated>
+   <lastModified>2020-01-14 15:03:20.152453</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="72">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מרובה"/><ContGemara/>דלא אכלי בשרא דתורא ואלא מאי שנא</row>
+		<row row_number="2" isdata="1">רישא ומאי שנא סיפא א"ל רישא קרינא</row>
+		<row row_number="3" isdata="1">ביה וטבחו כולו באיסורא סיפא לא קרינא</row>
+		<row row_number="4" isdata="1">ביה וטבחו כולו באיסורא: השוחט ונמצאת</row>
+		<row row_number="5" isdata="1">טריפה וכו': א"ל רב חביבי מחוזנאה לרב</row>
+		<row row_number="6" isdata="1">אשי ש"מ אינה לשחיטה אלא לבסוף דאי</row>
+		<row row_number="7" isdata="1">ישנה לשחיטה מתחילה ועד סוף כיון דשחט</row>
+		<row row_number="8" isdata="1">בה פורתא אסרה אידך לא דמריה קא טבח</row>
+		<row row_number="9" isdata="1">א"ל רב הונא בריה דרבא כי קא מחייב</row>
+		<row row_number="10" isdata="1">אההוא פורתא א"ל רב אשי לא תידחי</row>
+		<row row_number="11" isdata="1">וטבחו כולו בעינן וליכא אלא קשיא א"ל</row>
+		<row row_number="12" isdata="1">הכי אמר רב גמדא משמיה דרבא כגון</row>
+		<row row_number="13" isdata="1">ששחט מקצת סימנין בחוץ וגמרן בפנים</row>
+		<row row_number="14" isdata="1">איכא דמתני לה אהא א"ר שמעון משום</row>
+		<row row_number="15" isdata="1">דרבי לוי סבא אינה לשחיטה אלא לבסוף</row>
+		<row row_number="16" isdata="1">ור' יוחנן אמר ישנה לשחיטה מתחילה ועד סוף א"ל רב חביבי מחוזנאה לרב</row>
+		<row row_number="17" isdata="1">אשי לימא קסבר רבי יוחנן חולין שנשחטו בעזרה לאו דאורייתא</row>
+</amud>
+</daf>
+</masechet>
+</root>

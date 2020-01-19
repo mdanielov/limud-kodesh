@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:16.825826</dateCreated>
+   <lastModified>2020-01-14 15:02:16.825826</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="130">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "רבי אליעזר דמילה"/><StartMishna/><ContChapter name = "רבי אליעזר דמילה"/><ContMishna/>רבי אליעזר אומר אם לא הביא כלי מע"ש</row>
+		<row row_number="2" isdata="1">מביאו בשבת מגולה ובסכנה מכסהו</row>
+		<row row_number="3" isdata="1">ע"פ עדים ועוד אמר ר"א כורתים עצים</row>
+		<row row_number="4" isdata="1">לעשות פחמין לעשות (כלי) ברזל כלל</row>
+		<row row_number="5" isdata="1">אמר ר"ע כל מלאכה שאפשר לעשותה</row>
+		<row row_number="6" isdata="1">מע"ש אינה דוחה את השבת (ומילה) שאי</row>
+		<row row_number="7" isdata="1">אפשר לעשותה מע"ש דוחה את השבת:</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' איבעיא להו טעמא דר"א משום חבובי</row>
+		<row row_number="9" isdata="1">מצוה או דילמא משום חשדא למאי נפקא</row>
+		<row row_number="10" isdata="1">מינה לאתויי מכוסה ע"פ עדים אי אמרת</row>
+		<row row_number="11" isdata="1">משום חבובי מצוה מגולה אין מכוסה לא</row>
+		<row row_number="12" isdata="1">אלא אי אמרת משום חשדא אפי' מכוסה</row>
+		<row row_number="13" isdata="1">שפיר דמי מאי איתמר א"ר לוי לא אמרה</row>
+		<row row_number="14" isdata="1">ר"א אלא לחבובי מצוה תניא נמי הכי מביאו</row>
+		<row row_number="15" isdata="1">מגולה ואין מביאו מכוסה דברי ר"א אמר</row>
+		<row row_number="16" isdata="1">רב אשי מתני' נמי דיקא דקתני ובשעת</row>
+		<row row_number="17" isdata="1">הסכנה מכסהו ע"פ עדים בסכנה אין שלא</row>
+		<row row_number="18" isdata="1">בסכנה לא שמע מינה משום חבובי מצוה</row>
+		<row row_number="19" isdata="1">שמע מינה תניא אידך מביאו מגולה ואין</row>
+		<row row_number="20" isdata="1">מביאו מכוסה דברי ר"א ר' יהודה אומר משום</row>
+		<row row_number="21" isdata="1">ר"א נוהגין היו בשעת הסכנה שהיו מביאין מכוסה ע"פ עדים איבעיא</row>
+		<row row_number="22" isdata="1">להו עדים דקאמר איהו וחד או דילמא הוא ותרי ת"ש ובסכנה מכסהו</row>
+		<row row_number="23" isdata="1">ע"פ עדים אי אמרת בשלמא הוא ותרי שפיר אלא אי אמרת הוא וחד</row>
+		<row row_number="24" isdata="1">מאי עדים שראוים להעיד במקום אחר: ועוד אמר ר"א: ת"ר במקומו של</row>
+		<row row_number="25" isdata="1">ר"א היו כורתין עצים לעשות פחמין לעשות ברזל בשבת במקומו של ר'</row>
+		<row row_number="26" isdata="1">יוסי הגלילי היו אוכלין בשר עוף בחלב לוי איקלע לבי יוסף רישבא</row>
+		<row row_number="27" isdata="1">קריבו ליה רישא דטוותא בחלבא לא אכל כי אתא לקמיה דרבי א"ל</row>
+		<row row_number="28" isdata="1">אמאי לא תשמתינהו א"ל אתריה דר' יהודה בן בתירה הוה ואמינא דילמא</row>
+		<row row_number="29" isdata="1">דרש להו כר' יוסי הגלילי דתנן ר' יוסי הגלילי אומר נאמר לא תאכלו</row>
+		<row row_number="30" isdata="1">כל נבלה ונאמר לא תבשל גדי בחלב אמו את שאסור משום נבלה אסור</row>
+		<row row_number="31" isdata="1">לבשל בחלב עוף שאסור משום נבלה יכול יהא אסור לבשל בחלב ת"ל</row>
+		<row row_number="32" isdata="1">בחלב אמו יצא עוף שאין לו חלב אם א"ר יצחק עיר אחת היתה בא"י שהיו</row>
+		<row row_number="33" isdata="1">עושין כר"א והיו מתים בזמנן ולא עוד אלא שפעם אחת גזרה מלכות הרשעה</row>
+		<row row_number="34" isdata="1">גזרה על ישראל על המילה ועל אותה העיר לא גזרה: תניא רשב"ג</row>
+		<row row_number="35" isdata="1">אומר כל מצוה שקיבלו עליהם בשמחה כגון מילה דכתיב שש אנכי על</row>
+		<row row_number="36" isdata="1">אמרתך כמוצא שלל רב עדיין עושין אותה בשמחה וכל מצוה שקבלו</row>
+		<row row_number="37" isdata="1">עליהם בקטטה כגון עריות דכתיב וישמע משה את העם בוכה למשפחותיו</row>
+		<row row_number="38" isdata="1">על עסקי משפחותיו עדיין עושין אותה בקטטה דליכא כתובה דלא רמו</row>
+		<row row_number="39" isdata="1">בה תיגרא תניא ר"ש בן אלעזר אומר כל מצוה שמסרו ישראל עצמן</row>
+		<row row_number="40" isdata="1">עליהם למיתה בשעת גזרת המלכות כגון עבודת כוכבים ומילה עדיין היא</row>
+		<row row_number="41" isdata="1">מוחזקת בידם וכל מצוה שלא מסרו ישראל עצמן עליה למיתה בשעת גזרת</row>
+		<row row_number="42" isdata="1">המלכות כגון תפילין עדיין היא מרופה בידם דא"ר ינאי תפילין צריכין גוף נקי</row>
+		<row row_number="43" isdata="1">כאלישע בעל כנפים מאי היא אמר אביי שלא יפיח בהם רבא אמר שלא יישן</row>
+		<row row_number="44" isdata="1">בהם ואמאי קרו ליה אלישע בעל כנפים שפעם אחת גזרה מלכות הרשעה</row>
+		<row row_number="45" isdata="1">גזרה על ישראל שכל המניח תפילין על ראשו יקרו את מוחו והיה אלישע מניח</row>
+		<row row_number="46" isdata="1">תפילין ויצא לשוק וראהו קסדור אחד רץ מלפניו ורץ אחריו כיון שהגיע אצלו</row>
+		<row row_number="47" isdata="1">נטלן מראשו ואחזן בידו א"ל מה בידך אמר לו כנפי יונה פשט את ידו ונמצאו</row>
+		<row row_number="48" isdata="1">בה כנפי יונה לפיכך היו קוראין אותו בעל כנפים מאי שנא כנפי יונה דא"ל</row>
+		<row row_number="49" isdata="1">ולא א"ל שאר עופות משום דדמיא כנסת ישראל ליונה שנאמר כנפי</row>
+		<row row_number="50" isdata="1">יונה נחפה בכסף ואברותיה בירקרק חרוץ מה יונה זו כנפיה מגינות</row>
+		<row row_number="51" isdata="1">עליה אף ישראל מצות מגינות עליהן: א"ר אבא בר רב אדא א"ר יצחק</row>
+		<row row_number="52" isdata="1">פעם אחת שכחו ולא הביאו איזמל מערב שבת והביאוהו בשבת [דרך גגות ודרך חצירות]</row>
+</amud>
+</daf>
+</masechet>
+</root>

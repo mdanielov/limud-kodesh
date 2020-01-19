@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:09.032334</dateCreated>
+   <lastModified>2020-01-14 15:03:09.032334</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="26">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContGemara/>לא רצה האב אינה מקודשת אמר ליה בין</row>
+		<row row_number="2" isdata="1">לר' יהודה בין לר"ש לא שנא תולה בדעת</row>
+		<row row_number="3" isdata="1">עצמו ולא שנא תולה בדעת אחרים אית</row>
+		<row row_number="4" isdata="1">להו ברירה והתם כדקתני טעמא אמרו לו</row>
+		<row row_number="5" isdata="1">לר"מ אי אתה מודה שמא יבקע הנוד ונמצא</row>
+		<row row_number="6" isdata="1">זה שותה טבלים למפרע אמר להם לכשיבקע:</row>
+		<row row_number="7" isdata="1"><EndGemara/><StartMishna/>מתני' הכותב טופסי גיטין צריך שיניח</row>
+		<row row_number="8" isdata="1">מקום האיש ומקום האשה ומקום הזמן שטרי</row>
+		<row row_number="9" isdata="1">מלוה צריך שיניח מקום המלוה מקום הלוה</row>
+		<row row_number="10" isdata="1">מקום המעות מקום הזמן שטרי מקח צריך</row>
+		<row row_number="11" isdata="1">שיניח מקום הלוקח ומקום המוכר מקום</row>
+		<row row_number="12" isdata="1">המעות מקום השדה ומקום הזמן מפני</row>
+		<row row_number="13" isdata="1">התקנה ר' יהודה פוסל בכולן ר' אלעזר</row>
+		<row row_number="14" isdata="1">מכשיר בכולן חוץ מגיטי נשים שנאמר</row>
+		<row row_number="15" isdata="1">וכתב לה לשמה:<EndMishna/><StartGemara/>גמ' אמר רב יהודה</row>
+		<row row_number="16" isdata="1">אמר שמואל צריך שיניח אף מקום הרי</row>
+		<row row_number="17" isdata="1">את מותרת לכל אדם ור' אלעזר היא</row>
+		<row row_number="18" isdata="1">דאמר עדי מסירה כרתי ובעינן כתיבה</row>
+		<row row_number="19" isdata="1">לשמה וצריכא דאי אשמעינן הך קמייתא</row>
+		<row row_number="20" isdata="1">בההיא הוא דאיכא לאוקמה כר"א דקתני אין</row>
+		<row row_number="21" isdata="1">כותבין וקתני כתבו אבל סיפא דקתני שאין</row>
+		<row row_number="22" isdata="1">קיום הגט אלא בחותמיו אימא ר"מ היא</row>
+		<row row_number="23" isdata="1">דאמר עדי חתימה כרתי ואי אשמעי' בההיא</row>
+		<row row_number="24" isdata="1">ההיא נמי איכא לאוקמה כר"א אבל הא</row>
+		<row row_number="25" isdata="1">אימא מדסיפא ר"א הוי רישא לאו ר"א</row>
+		<row row_number="26" isdata="1">צריכא: מפני התקנה: מאי תקנה אמר ר'</row>
+		<row row_number="27" isdata="1">יונתן מפני תקנת סופר ור"א היא דאמר</row>
+		<row row_number="28" isdata="1">עדי מסירה כרתי ובדין הוא דאפי' טופס</row>
+		<row row_number="29" isdata="1">נמי לא לכתוב ומשום תקנת סופרים שרו</row>
+		<row row_number="30" isdata="1">רבנן ר' יהודה פוסל בכולן גזר טופס אטו</row>
+		<row row_number="31" isdata="1">תורף גזר שטרות אטו גיטין ור"א מכשיר</row>
+		<row row_number="32" isdata="1">בכולן חוץ מגיטי נשים טופס אטו תורף</row>
+		<row row_number="33" isdata="1">גזר שטרות אטו גיטין לא גזר: שנאמר וכתב</row>
+		<row row_number="34" isdata="1">לה: והא כי כתיב לה אתורף הוא דכתיב</row>
+		<row row_number="35" isdata="1">אלא אימא משום שנאמר וכתב לה לשמה</row>
+</amud>
+</daf>
+</masechet>
+</root>

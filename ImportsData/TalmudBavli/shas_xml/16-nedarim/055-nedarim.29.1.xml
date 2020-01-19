@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:01.082368</dateCreated>
+   <lastModified>2020-01-14 15:03:01.082368</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="29">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה נדרים"/><ContGemara/>א"ל רב המנונא קדושה שבהן להיכן</row>
+		<row row_number="2" isdata="1">הלכה ומה אילו אמר לאשה היום את אשתי</row>
+		<row row_number="3" isdata="1">ולמחר אי את אשתי מי נפקא בלא גט</row>
+		<row row_number="4" isdata="1">א"ל רבא מי קא מדמית קדושת דמים</row>
+		<row row_number="5" isdata="1">לקדושת הגוף קדושת דמים פקעה בכדי</row>
+		<row row_number="6" isdata="1">קדושת הגוף לא פקעה בכדי א"ל אביי</row>
+		<row row_number="7" isdata="1">קדושת הגוף לא פקעה בכדי והתניא</row>
+		<row row_number="8" isdata="1">שור זה עולה כל ל' יום ולאחר ל' יום שלמים</row>
+		<row row_number="9" isdata="1">כל ל' יום עולה לאחר ל' יום שלמים אמאי</row>
+		<row row_number="10" isdata="1">קדושת הגוף נינהו ופקעה בכדי הכא במאי</row>
+		<row row_number="11" isdata="1">עסקינן דאמר לדמי אי הכי אימא סיפא</row>
+		<row row_number="12" isdata="1">לאחר ל' יום עולה ומעכשיו שלמים אא"ב</row>
+		<row row_number="13" isdata="1">חדא בקדושת הגוף וחדא בקדושת דמים</row>
+</amud>
+</daf>
+</masechet>
+</root>

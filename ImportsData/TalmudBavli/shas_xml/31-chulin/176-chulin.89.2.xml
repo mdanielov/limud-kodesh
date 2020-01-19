@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:15.269418</dateCreated>
+   <lastModified>2020-01-14 15:04:15.269418</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="89">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כסוי הדם"/><ContGemara/>שיעורא בעינן ועבודת כוכבים כתותי מכתת</row>
+		<row row_number="2" isdata="1">שיעורא הכא כל מה דמכתת מעלי לכסוי:<EndChapter name = "כסוי הדם"/><EndGemara/></row>
+		<row row_number="3" isdata="0">הדרן עלך כסוי הדם</row>
+		<row row_number="4" isdata="1"><StartChapter name = "גיד הנשה"/><StartMishna/>גיד הנשה נוהג בארץ ובחוצה לארץ</row>
+		<row row_number="5" isdata="1">בפני הבית ושלא בפני הבית בחולין</row>
+		<row row_number="6" isdata="1">ובמוקדשין ונוהג בבהמה ובחיה בירך</row>
+		<row row_number="7" isdata="1">של ימין ובירך של שמאל ואינו נוהג בעוף</row>
+		<row row_number="8" isdata="1">מפני שאין לו כף ונוהג בשליל ר' יהודה</row>
+		<row row_number="9" isdata="1">אומר אינו נוהג בשליל וחלבו מותר ואין</row>
+		<row row_number="10" isdata="1">הטבחין נאמנין על גיד הנשה דברי רבי</row>
+		<row row_number="11" isdata="1">מאיר וחכמים אומרים נאמנין עליו ועל</row>
+		<row row_number="12" isdata="1">החלב:<EndMishna/><StartGemara/>גמ' מוקדשין פשיטא משום</row>
+		<row row_number="13" isdata="1">דאקדשיה פקע ליה איסור גיד מיניה וכי</row>
+		<row row_number="14" isdata="1">תימא יש בגידין בנותן טעם ואתי איסור</row>
+		<row row_number="15" isdata="1">מוקדשין וחייל אאיסור גיד האי מוקדשין</row>
+		<row row_number="16" isdata="1">נוהג בגיד מיבעי ליה אלא קסבר אין בגידין</row>
+		<row row_number="17" isdata="1">בנותן טעם ובמוקדשין איסור גיד איכא</row>
+		<row row_number="18" isdata="1">איסור מוקדשין ליכא וסבר תנא דידן אין</row>
+		<row row_number="19" isdata="1">בגידין בנותן טעם והתנן ירך שנתבשל</row>
+		<row row_number="20" isdata="1">בה גיד הנשה אם יש בה בנותן טעם הרי</row>
+		<row row_number="21" isdata="1">זו אסורה אלא הכא בולדות קדשים עסקינן</row>
+		<row row_number="22" isdata="1">וקסבר נוהג בשליל וקסבר ולדות קדשים</row>
+		<row row_number="23" isdata="1">במעי אמן הן קדושים דאיסור גיד ואיסור</row>
+		<row row_number="24" isdata="1">מוקדשין בהדי הדדי קאתי ומי מצית</row>
+		<row row_number="25" isdata="1">מוקמת לה בשליל והא מדקתני סיפא</row>
+		<row row_number="26" isdata="1">נוהג בשליל מכלל דרישא לאו בשליל</row>
+		<row row_number="27" isdata="1">עסקינן הכי קאמר דבר זה מחלוקת דרבי</row>
+		<row row_number="28" isdata="1">יהודה ורבנן ומי מצית אמרת דתרוייהו</row>
+		<row row_number="29" isdata="1">בהדי הדדי קאתו והתנן על אלו טומאות</row>
+		<row row_number="30" isdata="1">הנזיר מגלח על המת ועל כזית מן המת</row>
+		<row row_number="31" isdata="1">וקשיא לן על כזית מן המת מגלח על כולו</row>
+		<row row_number="32" isdata="1">לא כל שכן ואמר רבי יוחנן לא נצרכה</row>
+		<row row_number="33" isdata="1">אלא לנפל שלא נקשרו אבריו בגידין</row>
+</amud>
+</daf>
+</masechet>
+</root>

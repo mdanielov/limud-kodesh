@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:46.561244</dateCreated>
+   <lastModified>2020-01-14 15:02:46.561244</lastModified>
+ </meta>
+ <masechet name="מועד קטן" serial="12">
+<daf value="7">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "משקין בית השלחין"/><ContGemara/>עד כמה עד פרסה: רבי יהודה אומר משדה</row>
+		<row row_number="2" isdata="1">האילן כדרכו ומשדה הלבן שלא כדרכו:</row>
+		<row row_number="3" isdata="1">תנו רבנן כיצד כדרכו חופר גומא ותולה</row>
+		<row row_number="4" isdata="1">בה מצודה כיצד שלא כדרכו נועץ שפוד</row>
+		<row row_number="5" isdata="1">ומכה בקורדום ומרדה האדמה מתחתיה</row>
+		<row row_number="6" isdata="1">תניא (ר"ש בן אלעזר) אומר כשאמרו</row>
+		<row row_number="7" isdata="1">משדה לבן שלא כדרכו לא אמרו אלא</row>
+		<row row_number="8" isdata="1">בשדה לבן הסמוכה לעיר אבל בשדה לבן</row>
+		<row row_number="9" isdata="1">הסמוכה לשדה האילן אפילו כדרכו שמא</row>
+		<row row_number="10" isdata="1">יצאו משדה הלבן ויחריבו את האילנות:</row>
+		<row row_number="11" isdata="1">ומקרין את הפירצה במועד: כיצד מקרין</row>
+		<row row_number="12" isdata="1">רב יוסף אמר בהוצא ודפנא במתניתא</row>
+		<row row_number="13" isdata="1">תנא צר בצרור ואינו טח בטיט אמר</row>
+		<row row_number="14" isdata="1">רב חסדא לא שנו אלא כותל הגינה אבל</row>
+		<row row_number="15" isdata="1">כותל החצר בונה כדרכו לימא מסייע</row>
+		<row row_number="16" isdata="1">ליה כותל הגוחה לרשות הרבים סותר</row>
+		<row row_number="17" isdata="1">ובונה כדרכו מפני הסכנה התם כדקתני</row>
+		<row row_number="18" isdata="1">טעמא מפני הסכנה ואיכא דאמרי תא</row>
+		<row row_number="19" isdata="1">שמע כותל הגוחה לרה"ר סותר ובונה</row>
+		<row row_number="20" isdata="1">כדרכו מפני הסכנה מפני הסכנה אין שלא</row>
+		<row row_number="21" isdata="1">מפני הסכנה לא לימא תיהוי תיובתיה</row>
+		<row row_number="22" isdata="1">דרב חסדא אמר לך רב חסדא התם סותר</row>
+		<row row_number="23" isdata="1">ובונה הכא בונה ולא סותר התם נמי</row>
+		<row row_number="24" isdata="1">ליסתור ולא ליבני א"כ מימנע ולא סותר</row>
+		<row row_number="25" isdata="1">אמר רב אשי מתניתין נמי דיקא דקתני</row>
+		<row row_number="26" isdata="1">ובשביעית בונה כדרכו דהיכא אילימא</row>
+		<row row_number="27" isdata="1">דחצר צריכא למימר אלא לאו דגינה ואע"ג</row>
+		<row row_number="28" isdata="1">דמיחזי כמאן דעביד נטירותא לפירי שמע</row>
+		<row row_number="29" isdata="1">מינה<EndGemara/><StartMishna/>מתני' ר' מאיר אומר רואין את</row>
+		<row row_number="30" isdata="1">הנגעים (בתחילה) להקל אבל לא להחמיר</row>
+		<row row_number="31" isdata="1">וחכמים אומרים לא להקל ולא להחמיר:</row>
+		<row row_number="32" isdata="1"><EndMishna/><StartGemara/>גמ' תניא רבי מאיר אומר רואין את</row>
+		<row row_number="33" isdata="1">הנגעים להקל אבל לא להחמיר רבי יוסי</row>
+		<row row_number="34" isdata="1">אומר לא להקל ולא להחמיר שאם אתה</row>
+		<row row_number="35" isdata="1">נזקק לו להקל נזקק לו אף להחמיר אמר</row>
+		<row row_number="36" isdata="1">רבי נראין דברי רבי מאיר במוסגר</row>
+		<row row_number="37" isdata="1">ודברי רבי יוסי במוחלט אמר רבא</row>
+		<row row_number="38" isdata="1">בטהור כ"ע לא פליגי דלא חזו ליה בהסגר</row>
+		<row row_number="39" isdata="1">ראשון דכ"ע לא פליגי דחזי ליה כי פליגי</row>
+</amud>
+</daf>
+</masechet>
+</root>

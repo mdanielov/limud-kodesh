@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:39.297602</dateCreated>
+   <lastModified>2020-01-14 15:02:39.297602</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="17">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContGemara/>משום שיעורא ולאו שיעורא הוא האי לאו</row>
+		<row row_number="2" isdata="1">שיעורא הוא כיון דלא שוו שיעורייהו להדדי</row>
+		<row row_number="3" isdata="1">לא מצטרפי אלא לדידכו דאמריתו שיעור</row>
+		<row row_number="4" isdata="1">משום הפלגה מה לי איתפלג בסכך פסול</row>
+		<row row_number="5" isdata="1">מה לי אתפלג בסכך פסול ואויר אמר ליה</row>
+		<row row_number="6" isdata="1">אביי ולמר נמי נהי דלא שוו שיעורייהו</row>
+		<row row_number="7" isdata="1">בסוכה גדולה בסוכה קטנה מי לא שוו</row>
+		<row row_number="8" isdata="1">שיעורייהו א"ל התם לאו משום דשוו</row>
+		<row row_number="9" isdata="1">שיעורייהו להדדי הוא אלא משום דליתיה</row>
+		<row row_number="10" isdata="1">לשיעורא דסוכה הוא וכל היכא דלא שוו</row>
+		<row row_number="11" isdata="1">שיעורייהו להדדי לא מצטרפי והתנן הבגד</row>
+		<row row_number="12" isdata="1">שלשה על שלשה השק ארבעה על ארבעה</row>
+		<row row_number="13" isdata="1">העור חמשה על חמשה מפץ ששה על ששה</row>
+		<row row_number="14" isdata="1">ותני עלה הבגד והשק השק והעור העור</row>
+		<row row_number="15" isdata="1">והמפץ מצטרפין זה עם זה התם כדקתני</row>
+		<row row_number="16" isdata="1">טעמא אמר רבי שמעון מה טעם הואיל</row>
+		<row row_number="17" isdata="1">וראוי לטמא מושב כדתנן המקצע מכולן</row>
+		<row row_number="18" isdata="1">טפח על טפח טמא טפח על טפח למאי חזי</row>
+		<row row_number="19" isdata="1">ואמר רבי שמעון בן לקיש משום רבי ינאי</row>
+		<row row_number="20" isdata="1">הואיל וראוי (ליטלו) על גבי החמור בסורא</row>
+		<row row_number="21" isdata="1">אמרי להא שמעתא בהאי לישנא בנהרדעא</row>
+		<row row_number="22" isdata="1">מתנו אמר רב יהודה אמר שמואל סכך</row>
+		<row row_number="23" isdata="1">פסול באמצע פוסל בארבעה מן הצד פוסל</row>
+		<row row_number="24" isdata="1">בארבע אמות ורב אמר בין מן הצד בין</row>
+		<row row_number="25" isdata="1">באמצע בארבע אמות תנן נתן עליה נסר</row>
+		<row row_number="26" isdata="1">שהוא רחב ארבעה טפחים כשרה בשלמא</row>
+		<row row_number="27" isdata="1">לרב דאמר בין באמצע בין מן הצד בארבע</row>
+		<row row_number="28" isdata="1">אמות משום הכי כשרה אלא לשמואל דאמר</row>
+		<row row_number="29" isdata="1">באמצע בארבעה אמאי כשרה הכא במאי</row>
+		<row row_number="30" isdata="1">עסקינן מן הצד תא שמע שני סדינין</row>
+		<row row_number="31" isdata="1">מצטרפין שני נסרים אין מצטרפין רבי מאיר</row>
+		<row row_number="32" isdata="1">אומר נסרים כסדינין בשלמא להך לישנא</row>
+		<row row_number="33" isdata="1">דאמר רב בין באמצע בין מן הצד בארבע</row>
+		<row row_number="34" isdata="1">אמות מאי מצטרפין מצטרפין לד' אמות אלא</row>
+		<row row_number="35" isdata="1">להך לישנא דאמר רב באמצע בארבעה</row>
+		<row row_number="36" isdata="1">היכי דמי אי דאית בהו ד' למה להו אצטרופי</row>
+		<row row_number="37" isdata="1">אי דלית בהו ד' קניא בעלמא נינהו לעולם</row>
+		<row row_number="38" isdata="1">דאית בהו ארבעה ומאי מצטרפין מצטרפין</row>
+		<row row_number="39" isdata="1">לארבע אמות מן הצד ת"ש סככה בנסרין</row>
+		<row row_number="40" isdata="1">של ארז שיש בהן ד' דברי הכל פסולה אין</row>
+		<row row_number="41" isdata="1">בהן ד' רבי מאיר פוסל ורבי יהודה מכשיר</row>
+</amud>
+</daf>
+</masechet>
+</root>

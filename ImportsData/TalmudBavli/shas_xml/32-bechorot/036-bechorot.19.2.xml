@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:19.602813</dateCreated>
+   <lastModified>2020-01-14 15:04:19.602813</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="19">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח עובר פרתו"/><ContGemara/>אי למעוטי היכא דיצתה נקבה לפניו מפטר</row>
+		<row row_number="2" isdata="1">רחם נפקא אלא שמע מינה בכור למעוטי</row>
+		<row row_number="3" isdata="1">היכא דיוצא אחר יוצא דופן אמר ליה רב</row>
+		<row row_number="4" isdata="1">אחא מדפתי לרבינא אי סלקא דעתך בכור</row>
+		<row row_number="5" isdata="1">לדבר אחד הוי בכור תינח היכא דיצא</row>
+		<row row_number="6" isdata="1">זכר יוצא דופן וזכר דרך רחם דלא קדוש</row>
+		<row row_number="7" isdata="1">דאימעוט לידה מבכור דבכור לרחמים</row>
+		<row row_number="8" isdata="1">איכא בכור לזכרים ליכא אלא היכא</row>
+		<row row_number="9" isdata="1">דיצתה נקבה דרך דופן וזכר דרך רחם</row>
+		<row row_number="10" isdata="1">ליקדש דהא איכא בכור לזכרים ובכור</row>
+		<row row_number="11" isdata="1">לרחם אלא מחוורתא כדאביי:<EndChapter name = "הלוקח עובר פרתו"/><EndGemara/></row>
+		<row row_number="12" isdata="0">הדרן עלך הלוקח עובר פרתו</row>
+		<row row_number="13" isdata="1"><StartChapter name = "הלוקח בהמה"/><StartMishna/>הלוקח בהמה מן העובד כוכבים ואינו</row>
+		<row row_number="14" isdata="1">יודע אם ביכרה אם לא ביכרה</row>
+		<row row_number="15" isdata="1">רבי ישמעאל אומר עז בת שנתה ודאי לכהן</row>
+		<row row_number="16" isdata="1">מכאן ואילך ספק רחל בת שתים ודאי</row>
+		<row row_number="17" isdata="1">לכהן מכאן ואילך ספק פרה וחמור בנות</row>
+		<row row_number="18" isdata="1">שלש ודאי לכהן מכאן ואילך ספק אמר לו</row>
+		<row row_number="19" isdata="1">רבי עקיבא אילו בוולד בלבד הבהמה</row>
+		<row row_number="20" isdata="1">נפטרת כדבריך אלא אמרו סימן הוולד</row>
+		<row row_number="21" isdata="1">בבהמה דקה טינוף ובגסה שיליא ובאשה</row>
+		<row row_number="22" isdata="1">שפיר ושיליא זה הכלל כל שידוע</row>
+		<row row_number="23" isdata="1">שביכרה אין כאן לכהן כלום וכל שלא</row>
+		<row row_number="24" isdata="1">ביכרה הרי זה לכהן ואם ספק יאכל במומו</row>
+		<row row_number="25" isdata="1">לבעלים:<EndMishna/><StartGemara/>גמ' מיכן ואילך אמאי ספק</row>
+		<row row_number="26" isdata="1">הלך אחר רוב בהמות ורוב בהמות מתעברות</row>
+		<row row_number="27" isdata="1">ויולדות בתוך שנתן נינהו והא ודאי מילד</row>
+		<row row_number="28" isdata="1">אוליד לימא רבי ישמעאל כר' מאיר ס"ל</row>
+		<row row_number="29" isdata="1">דחייש למיעוטא אפי' תימא רבנן כי אזלי</row>
+		<row row_number="30" isdata="1">בתר רובא ברובא דאיתיה קמן כגון תשע</row>
+		<row row_number="31" isdata="1">חנויות וסנהדרין אבל רובא דליתיה קמן לא</row>
+		<row row_number="32" isdata="1">אזלי רבנן בתר רובא והא קטן וקטנה דרובא</row>
+		<row row_number="33" isdata="1">דליתיה קמן וקאזלי רבנן בתר רובא דתנן</row>
+		<row row_number="34" isdata="1">קטן וקטנה לא חולצין ולא מייבמין דברי</row>
+		<row row_number="35" isdata="1">רבי מאיר אמרו לו יפה אמרת שאין חולצין</row>
+		<row row_number="36" isdata="1">איש כתוב בפרשה ומקשינן אשה לאיש</row>
+		<row row_number="37" isdata="1">מה טעם אין מייבמין אמר להם קטן שמא ימצא סריס קטנה שמא תמצא</row>
+		<row row_number="38" isdata="1">איילונית ונמצאו פוגעין בערוה ורבנן זיל בתר  (רובא) קטנים ורוב קטנים לאו</row>
+		<row row_number="39" isdata="1">סריסים נינהו זיל בתר  קטנות ורוב קטנות לאו איילונית נינהו אלא אמר רבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

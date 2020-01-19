@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:26.595272</dateCreated>
+   <lastModified>2020-01-14 15:03:26.595272</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="64">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "איזהו נשך"/><ContMishna/>בעישורייתא וחומשייתא א"ל רב אחא בריה</row>
+		<row row_number="2" isdata="1">דרבא לרב אשי ואי איניש תקיפא הוא דלא</row>
+		<row row_number="3" isdata="1">יהיב מתנה מאי א"ל דלמא מיגזל גזליה</row>
+		<row row_number="4" isdata="1">ואבלע ליה בחשבון דתניא הגוזל את</row>
+		<row row_number="5" isdata="1">חבירו והבליע לו בחשבון יצא ואי איניש</row>
+		<row row_number="6" isdata="1">דאתי מעלמא דלא שקיל וטרי בהדיה מאי</row>
+		<row row_number="7" isdata="1">א"ל דלמא איניש אחרינא גזליה וא"ל כי</row>
+		<row row_number="8" isdata="1">יזיף פלוני פשיטי מינך אבלע ליה בחשבון</row>
+		<row row_number="9" isdata="1">אמר רב כהנא הוה יתיבנא בשילהי פרקי</row>
+		<row row_number="10" isdata="1">דרב ושמעית דקאמר קרי קרי ולא ידענא</row>
+		<row row_number="11" isdata="1">מאי קאמר בתר דקם רב אמרי להו מאי קרי</row>
+		<row row_number="12" isdata="1">קרי דקאמר רב אמרו לי הכי קאמר רב האי</row>
+		<row row_number="13" isdata="1">מאן דיהיב זוזי לגינאה אקרי וקא אזלי</row>
+		<row row_number="14" isdata="1">עשרה קרי בני זרתא וא"ל יהבינא לך בני</row>
+		<row row_number="15" isdata="1">גרמידא איתנהו שרי ליתנהו אסור פשיטא</row>
+		<row row_number="16" isdata="1">מהו דתימא כיון דממילא קא רבו שפיר דמי</row>
+		<row row_number="17" isdata="1">קמ"ל כמאן כי האי תנא דתניא ההולך</row>
+		<row row_number="18" isdata="1">לחלוב את עזיו ולגזוז את רחליו ולרדות את</row>
+		<row row_number="19" isdata="1">כוורתו מצאו חבירו ואמר לו מה שעזי</row>
+		<row row_number="20" isdata="1">חולבות מכור לך מה שרחלי גוזזות מכור</row>
+		<row row_number="21" isdata="1">לך מה שכוורתי רודה מכור לך מותר אבל</row>
+		<row row_number="22" isdata="1">אם אמר לו מה שעזי חולבות כך וכך מכור</row>
+		<row row_number="23" isdata="1">לך מה שרחלי גוזזות כך וכך מכור לך מה</row>
+		<row row_number="24" isdata="1">שכוורתי רודה כך וכך מכור לך אסור ואע"ג</row>
+		<row row_number="25" isdata="1">דממילא קא רבו כיון דליתנהו בההיא שעתא</row>
+		<row row_number="26" isdata="1">אסור איכא דאמרי אמר רבא כיון דממילא</row>
+		<row row_number="27" isdata="1">קא רבו שפיר דמי והתניא כך וכך אסור</row>
+		<row row_number="28" isdata="1">התם לאו מיניה קא רבו דשקלי ליה להאי</row>
+		<row row_number="29" isdata="1">ואתי אחרינא בדוכתיה הכא מיניה קא</row>
+		<row row_number="30" isdata="1">רבו דכי שקלי ליה להאי לא אתי אחרינא</row>
+		<row row_number="31" isdata="1">בדוכתיה אמר אביי שרי ליה לאיניש</row>
+		<row row_number="32" isdata="1">למימר ליה לחבריה הילך ארבעה זוזי</row>
+		<row row_number="33" isdata="1">אחביתא דחמרא אי תקפה ברשותך אי יקרא</row>
+		<row row_number="34" isdata="1">אי זילא ברשותי א"ל רב שרביא לאביי</row>
+</amud>
+</daf>
+</masechet>
+</root>

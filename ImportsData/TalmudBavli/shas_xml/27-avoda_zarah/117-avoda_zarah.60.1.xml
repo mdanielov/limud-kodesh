@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:53.356401</dateCreated>
+   <lastModified>2020-01-14 15:03:53.356401</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="60">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי ישמעאל"/><ContGemara/>ואידך שרי ואיכא דאמרי אמר רב פפא עד</row>
+		<row row_number="2" isdata="1">הברזא חמרא אסיר ואידך שרי אמר רב</row>
+		<row row_number="3" isdata="1">יימר כתנאי חבית שנקבה בין מפיה בין</row>
+		<row row_number="4" isdata="1">משוליה ובין מצידיה ונגע בו טבול יום</row>
+		<row row_number="5" isdata="1">טמאה רבי יהודה אומר מפיה ומשוליה</row>
+		<row row_number="6" isdata="1">טמאה מצידיה טהורה מכאן ומכאן אמר</row>
+		<row row_number="7" isdata="1">רב פפא עובד כוכבים אדנא וישראל</row>
+		<row row_number="8" isdata="1">אכובא חמרא אסיר מ"ט כי קאתי מכח עובד</row>
+		<row row_number="9" isdata="1">כוכבים קאתי ישראל אדנא ועובד כוכבים</row>
+		<row row_number="10" isdata="1">אכובא חמרא שרי ואי מצדד צדודי אסיר</row>
+		<row row_number="11" isdata="1">אמר רב פפא האי עובד כוכבים דדרי זיקא</row>
+		<row row_number="12" isdata="1">וקאזיל ישראל אחוריה מליא שרי דלא</row>
+		<row row_number="13" isdata="1">מקרקש חסירא אסיר דלמא מקרקש כובא</row>
+		<row row_number="14" isdata="1">מליא אסיר דלמא נגע חסירא שרי דלא</row>
+		<row row_number="15" isdata="1">נגע רב אשי אמר זיקא בין מליא ובין</row>
+		<row row_number="16" isdata="1">חסירא שרי מ"ט אין דרך ניסוך בכך מעצרא</row>
+		<row row_number="17" isdata="1">זיירא רב פפי שרי רב אשי ואיתימא רב</row>
+		<row row_number="18" isdata="1">שימי בר אשי אסר בכחו כולי עלמא לא</row>
+		<row row_number="19" isdata="1">פליגי דאסיר כי פליגי בכח כחו איכא</row>
+		<row row_number="20" isdata="1">דאמרי בכח כחו כולי עלמא לא פליגי דשרי</row>
+		<row row_number="21" isdata="1">כי פליגי בכחו הוה עובדא בכח כחו</row>
+		<row row_number="22" isdata="1">ואסר רב יעקב מנהר פקוד ההוא חביתא</row>
+</amud>
+</daf>
+</masechet>
+</root>

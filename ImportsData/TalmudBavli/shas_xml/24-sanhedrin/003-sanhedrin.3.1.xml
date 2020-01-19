@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:39.007616</dateCreated>
+   <lastModified>2020-01-14 15:03:39.007616</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="3">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "דיני ממונות"/><ContGemara/>שנאמר משפט אחד יהיה לכם ומה טעם</row>
+		<row row_number="2" isdata="1">אמרו דיני ממונות לא בעינן דרישה וחקירה</row>
+		<row row_number="3" isdata="1">כדי שלא תנעול דלת בפני לווין אלא</row>
+		<row row_number="4" isdata="1">מעתה טעו לא ישלמו כל שכן אתה נועל</row>
+		<row row_number="5" isdata="1">דלת בפני לווין אי הכי תרתי קתני דיני</row>
+		<row row_number="6" isdata="1">ממונות בשלשה הדיוטות גזילות וחבלות</row>
+		<row row_number="7" isdata="1">בשלשה מומחין ועוד שלשה שלשה למה</row>
+		<row row_number="8" isdata="1">לי אלא אמר רבא תרתי קתני משום דרבי</row>
+		<row row_number="9" isdata="1">חנינא רב אחא בריה דרב איקא אמר</row>
+		<row row_number="10" isdata="1">מדאורייתא חד נמי כשר שנאמר בצדק</row>
+		<row row_number="11" isdata="1">תשפוט עמיתך אלא משום יושבי קרנות</row>
+		<row row_number="12" isdata="1">אטו בתלתא מי לא הוו יושבי קרנות אי</row>
+		<row row_number="13" isdata="1">אפשר דלית בהו חד דגמיר אלא מעתה</row>
+		<row row_number="14" isdata="1">טעו לא ישלמו כ"ש דנפישי יושבי קרנות</row>
+		<row row_number="15" isdata="1">מאי איכא בין רבא לרב אחא בריה דרב</row>
+		<row row_number="16" isdata="1">איקא איכא בינייהו דאמר שמואל שנים</row>
+		<row row_number="17" isdata="1">שדנו דיניהן דין אלא שנקראו בית דין חצוף</row>
+		<row row_number="18" isdata="1">לרבא לית ליה דשמואל לרב אחא בריה</row>
+		<row row_number="19" isdata="1">דרב איקא אית ליה דשמואל: נזק וחצי נזק</row>
+		<row row_number="20" isdata="1">וכו': נזק היינו חבלות משום דקא בעי</row>
+		<row row_number="21" isdata="1">למיתנא חצי נזק תני נמי נזק שלם חצי נזק</row>
+		<row row_number="22" isdata="1">נמי היינו חבלות תנא ממונא וקתני קנסא</row>
+		<row row_number="23" isdata="1">הניחא למאן דאמר פלגא ניזקא קנסא אלא</row>
+		<row row_number="24" isdata="1">למאן דאמר פלגא ניזקא ממונא מאי איכא</row>
+		<row row_number="25" isdata="1">למימר אלא איידי דקא בעי למיתנא תשלומי</row>
+		<row row_number="26" isdata="1">כפל ותשלומי ארבעה וחמשה דממון</row>
+</amud>
+</daf>
+</masechet>
+</root>

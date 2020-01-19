@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:32.915847</dateCreated>
+   <lastModified>2020-01-14 15:03:32.915847</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="76">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הספינה"/><ContGemara/>עד שימשכנה או עד שישכור את מקומה לא</row>
+		<row row_number="2" isdata="1">קשיא כאן ברשות הרבים כאן בסימטא</row>
+		<row row_number="3" isdata="1">במאי אוקימתא להא בתרייתא ברשות</row>
+		<row row_number="4" isdata="1">הרבים אימא סיפא וחכמים אומרים לא קנה</row>
+		<row row_number="5" isdata="1">עד שימשכנה ואי ברשות הרבים ממאן</row>
+		<row row_number="6" isdata="1">אוגיר ותו משיכה ברשות הרבים מי קניא</row>
+		<row row_number="7" isdata="1">והא אביי ורבא דאמרי תרוייהו מסירה</row>
+		<row row_number="8" isdata="1">קונה ברשות הרבים ובחצר שאינה של</row>
+		<row row_number="9" isdata="1">שניהם משיכה קונה בסימטא ובחצר שהיא</row>
+		<row row_number="10" isdata="1">של שניהם והגבהה קונה בכל מקום מאי</row>
+		<row row_number="11" isdata="1">עד שימשכנה נמי דקאמר ומאי עד שישכור</row>
+		<row row_number="12" isdata="1">את מקומה דקאמר הכי קאמר עד שימשכנה</row>
+		<row row_number="13" isdata="1">מרה"ר לסימטא ואם רשות בעלים היא לא</row>
+		<row row_number="14" isdata="1">קנה עד שישכור את מקומה לימא אביי</row>
+		<row row_number="15" isdata="1">ורבא דאמרי כרבי אמר רב אשי אי דאמר</row>
+		<row row_number="16" isdata="1">ליה לך חזק וקני הכי נמי הכא במאי עסקינן</row>
+		<row row_number="17" isdata="1">דאמר ליה לך משוך וקני מר סבר קפידא</row>
+		<row row_number="18" isdata="1">ומר סבר מראה מקום הוא לו אמר רב פפא</row>
+		<row row_number="19" isdata="1">האי מאן דמזבין ליה שטרא לחבריה צריך</row>
+		<row row_number="20" isdata="1">למיכתב ליה קני הוא וכל שעבודא דביה</row>
+		<row row_number="21" isdata="1">אמר רב אשי אמריתה לשמעתא קמיה דרב</row>
+		<row row_number="22" isdata="1">כהנא ואמרית ליה טעמא דכתב ליה הכי</row>
+		<row row_number="23" isdata="1">הא לא כתב ליה הכי לא קני וכי לצור על</row>
+		<row row_number="24" isdata="1">פי צלוחיתו הוא צריך אמר לי אין לצור ולצור</row>
+</amud>
+</daf>
+</masechet>
+</root>

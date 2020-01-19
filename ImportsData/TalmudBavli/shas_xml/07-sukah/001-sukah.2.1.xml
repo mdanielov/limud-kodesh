@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:38.085454</dateCreated>
+   <lastModified>2020-01-14 15:02:38.085454</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "סוכה"/><StartMishna/><ContChapter name = "סוכה"/><ContMishna/>סוכה</row>
+		<row row_number="2" isdata="1">שהיא גבוהה למעלה מעשרים אמה</row>
+		<row row_number="3" isdata="1">פסולה ורבי יהודה מכשיר ושאינה גבוהה</row>
+		<row row_number="4" isdata="1">עשרה טפחים ושאין לה (שלשה) דפנות</row>
+		<row row_number="5" isdata="1">ושחמתה מרובה מצלתה פסולה:<EndMishna/><StartGemara/>גמ' תנן</row>
+		<row row_number="6" isdata="1">התם מבוי שהוא גבוה מעשרים אמה</row>
+		<row row_number="7" isdata="1">ימעט רבי יהודה אומר אינו צריך מאי שנא</row>
+		<row row_number="8" isdata="1">גבי סוכה דתני פסולה ומאי שנא גבי מבוי</row>
+		<row row_number="9" isdata="1">דתני תקנתא סוכה דאורייתא תני פסולה</row>
+		<row row_number="10" isdata="1">מבוי דרבנן תני תקנתא ואיבעית אימא</row>
+		<row row_number="11" isdata="1">בדאורייתא נמי תני תקנתא מיהו סוכה</row>
+		<row row_number="12" isdata="1">(דנפישי מילתה) פסיק ותני פסולה מבוי</row>
+		<row row_number="13" isdata="1">דלא נפיש מיליה תני תקנתא מנה"מ אמר</row>
+		<row row_number="14" isdata="1">רבה דאמר קרא למען ידעו דורותיכם כי</row>
+		<row row_number="15" isdata="1">בסוכות הושבתי את בני ישראל עד עשרים</row>
+		<row row_number="16" isdata="1">אמה אדם יודע שהוא דר בסוכה למעלה</row>
+		<row row_number="17" isdata="1">מעשרים אמה אין אדם יודע שדר בסוכה</row>
+		<row row_number="18" isdata="1">משום דלא שלטא בה עינא רבי זירא אמר</row>
+		<row row_number="19" isdata="1">מהכא וסוכה תהיה לצל יומם מחורב עד</row>
+		<row row_number="20" isdata="1">עשרים אמה אדם יושב בצל סוכה למעלה</row>
+		<row row_number="21" isdata="1">מעשרים אמה אין אדם יושב בצל סוכה</row>
+		<row row_number="22" isdata="1">אלא בצל דפנות א"ל אביי אלא מעתה</row>
+		<row row_number="23" isdata="1">העושה סוכתו בעשתרות קרנים הכי נמי</row>
+		<row row_number="24" isdata="1">דלא הוי סוכה א"ל התם דל עשתרות קרנים</row>
+		<row row_number="25" isdata="1">איכא צל סוכה הכא דל דפנות ליכא צל</row>
+		<row row_number="26" isdata="1">סוכה ורבא אמר מהכא בסוכות תשבו</row>
+		<row row_number="27" isdata="1">שבעת ימים אמרה תורה כל שבעת הימים</row>
+		<row row_number="28" isdata="1">צא מדירת קבע ושב בדירת עראי עד</row>
+		<row row_number="29" isdata="1">עשרים אמה אדם עושה דירתו דירת עראי</row>
+		<row row_number="30" isdata="1">למעלה מעשרים אמה אין אדם עושה</row>
+		<row row_number="31" isdata="1">דירתו דירת עראי אלא דירת קבע א"ל אביי</row>
+		<row row_number="32" isdata="1">אלא מעתה עשה מחיצות של ברזל וסיכך</row>
+		<row row_number="33" isdata="1">על גבן הכי נמי דלא הוי סוכה א"ל הכי</row>
+		<row row_number="34" isdata="1">קאמינא לך עד כ' אמה דאדם עושה דירתו</row>
+		<row row_number="35" isdata="1">דירת עראי כי עביד ליה דירת קבע נמי נפיק</row>
+		<row row_number="36" isdata="1">למעלה מכ' אמה דאדם עושה דירתו דירת</row>
+		<row row_number="37" isdata="1">קבע כי עביד ליה דירת עראי נמי לא נפיק</row>
+</amud>
+</daf>
+</masechet>
+</root>

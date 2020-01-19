@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:31.829014</dateCreated>
+   <lastModified>2020-01-14 15:02:31.829014</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="105">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>קידוש היום מפני שקידוש היום קודם לכבוד</row>
+		<row row_number="2" isdata="1">יום (וכבוד לילה) ואם איתא לישבקיה עד</row>
+		<row row_number="3" isdata="1">למחר וליעביד ביה תרתי א"ל חביבה מצוה</row>
+		<row row_number="4" isdata="1">בשעתה ומי אמרינן חביבה מצוה בשעתה</row>
+		<row row_number="5" isdata="1">והא תניא הנכנס לביתו במוצאי שבת מברך</row>
+		<row row_number="6" isdata="1">על היין ועל המאור ועל הבשמים ואחר כך</row>
+		<row row_number="7" isdata="1">אומר הבדלה על הכוס ואם אין לו אלא כוס</row>
+		<row row_number="8" isdata="1">אחד מניחו עד לאחר המזון ומשלשלן כולן</row>
+		<row row_number="9" isdata="1">לאחריו ולא אמרינן חביבה מצוה בשעתה</row>
+		<row row_number="10" isdata="1">א"ל אנא לא חכימא' אנא ולא חוזאה אנא</row>
+		<row row_number="11" isdata="1">ולא יחידא' אנא אלא גמרנא וסדרנא אנא וכן</row>
+		<row row_number="12" isdata="1">מורין בבי מדרשא כוותי שאני לן בין</row>
+		<row row_number="13" isdata="1">עיולי יומא לאפוקי יומא עיולי יומא כל</row>
+		<row row_number="14" isdata="1">כמה דמקדמינן ליה עדיף ומחבבינן ליה</row>
+		<row row_number="15" isdata="1">אפוקי יומא מאחרינן ליה כי היכי דלא</row>
+		<row row_number="16" isdata="1">ליהוי עלן כטונא שמע מינה מיהא מתני' תמני</row>
+		<row row_number="17" isdata="1">ש"מ המבדיל בתפלה צריך שיבדיל על</row>
+		<row row_number="18" isdata="1">הכוס וש"מ ברכה טעונה כוס וש"מ כוס</row>
+		<row row_number="19" isdata="1">של ברכה צריך שיעור וש"מ המברך צריך</row>
+		<row row_number="20" isdata="1">שיטעו' וש"מ טעמו פגמו וש"מ טעם מבדיל</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:38.800620</dateCreated>
+   <lastModified>2020-01-14 15:02:38.800620</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="11">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContGemara/>ובית נמי אע"פ שאין גבוה עשרה כיון דקביע</row>
+		<row row_number="2" isdata="1">אוהלא הוא דלא גרע מקינופות ל"א אמרי</row>
+		<row row_number="3" isdata="1">לה אמר רב יהודה אמר שמואל מותר לישן</row>
+		<row row_number="4" isdata="1">בכילת חתנים בסוכה לפי שאין לה גג אע"פ</row>
+		<row row_number="5" isdata="1">שגבוהה עשרה מיתיבי הישן בכילה בסוכה</row>
+		<row row_number="6" isdata="1">לא יצא ידי חובתו הכא במאי עסקינן בשיש</row>
+		<row row_number="7" isdata="1">לה גג ת"ש נקליטין שנים וקינופות ארבעה</row>
+		<row row_number="8" isdata="1">פירס על גבי קינופות פסולה על גבי נקליטין</row>
+		<row row_number="9" isdata="1">כשרה ובלבד שלא יהו נקליטין גבוהין מן</row>
+		<row row_number="10" isdata="1">המטה עשרה טפחים הא גבוהין מן המטה</row>
+		<row row_number="11" isdata="1">עשרה פסולה אע"פ שאין לה גג שאני נקליטין</row>
+		<row row_number="12" isdata="1">דקביעי אי קביעי ליהוי כקינופות לגבי</row>
+		<row row_number="13" isdata="1">קינופות לא קביעי לגבי כילה קביעי דרש</row>
+		<row row_number="14" isdata="1">רבה בר רב הונא מותר לישן בכילה אע"פ</row>
+		<row row_number="15" isdata="1">שיש לה גג אע"פ שגבוהה עשרה כמאן כר'</row>
+		<row row_number="16" isdata="1">יהודה דאמר לא אתי אהל עראי ומבטל</row>
+		<row row_number="17" isdata="1">אהל קבע דתנן א"ר יהודה נוהגין היינו</row>
+		<row row_number="18" isdata="1">לישן תחת המטה בפני הזקנים ולימא הלכה</row>
+		<row row_number="19" isdata="1">כרבי יהודה אי אמר הלכה כרבי יהודה הוה</row>
+		<row row_number="20" isdata="1">אמינא הני מילי מטה דלגבה עשויה אבל</row>
+		<row row_number="21" isdata="1">כילה דלתוכה עשויה אימא לא קמ"ל טעמא</row>
+		<row row_number="22" isdata="1">דרבי יהודה דלא אתי אהל עראי ומבטל</row>
+		<row row_number="23" isdata="1">אהל קבע לא שנא מטה ולא שנא כילה:</row>
+		<row row_number="24" isdata="1"><EndGemara/><StartMishna/>מתני' הדלה עליה את הגפן ואת הדלעת</row>
+		<row row_number="25" isdata="1">ואת הקיסוס וסיכך על גבה פסולה ואם היה</row>
+		<row row_number="26" isdata="1">סיכוך הרבה מהן או שקצצן כשרה זה הכלל</row>
+		<row row_number="27" isdata="1">כל שהוא מקבל טומאה ואין גידולו מן הארץ</row>
+		<row row_number="28" isdata="1">אין מסככין בו וכל דבר שאינו מקבל טומאה</row>
+		<row row_number="29" isdata="1">וגידולו מן הארץ מסככין בו:<EndMishna/><StartGemara/>גמ' יתיב רב</row>
+		<row row_number="30" isdata="1">יוסף קמיה דרב הונא ויתיב וקאמר או שקצצן</row>
+		<row row_number="31" isdata="1">כשרה ואמר רב צריך לנענע אמר ליה רב</row>
+		<row row_number="32" isdata="1">הונא הא שמואל אמרה אהדרינהו רב יוסף</row>
+		<row row_number="33" isdata="1">לאפיה ואמר ליה אטו מי קאמינא לך דלא</row>
+		<row row_number="34" isdata="1">אמרה שמואל אמרה רב ואמרה שמואל</row>
+		<row row_number="35" isdata="1">אמר ליה רב הונא הכי קאמינא לך דשמואל</row>
+		<row row_number="36" isdata="1">אמרה ולא רב דרב אכשורי מכשר כי הא</row>
+		<row row_number="37" isdata="1">דרב עמרם חסידא רמא תכלתא לפרזומא</row>
+		<row row_number="38" isdata="1">דאינשי ביתיה תלאן ולא פסק ראשי חוטין</row>
+		<row row_number="39" isdata="1">שלהן אתא לקמיה דרב חייא בר אשי אמר</row>
+		<row row_number="40" isdata="1">ליה הכי אמר רב מפסקן והן כשרין אלמא</row>
+		<row row_number="41" isdata="1">פסיקתן זו היא עשייתן הכא נמי קציצתן זו</row>
+		<row row_number="42" isdata="1">היא עשייתן וסבר שמואל לא אמרינן פסיקתן</row>
+		<row row_number="43" isdata="1">זו היא עשייתן והא תני שמואל משום ר' חייא</row>
+		<row row_number="44" isdata="1">הטיל לשני קרנות בבת אחת ואחר כך פסק</row>
+		<row row_number="45" isdata="1">ראשי חוטין שלהן כשרין מאי לאו שקושר</row>
+		<row row_number="46" isdata="1">ואח"כ פוסק לא שפוסק ואח"כ קושר פוסק</row>
+		<row row_number="47" isdata="1">ואחר כך קושר מאי למימרא מהו דתימא</row>
+</amud>
+</daf>
+</masechet>
+</root>

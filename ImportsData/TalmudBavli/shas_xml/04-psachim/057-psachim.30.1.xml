@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.002162</dateCreated>
+   <lastModified>2020-01-14 15:02:26.002162</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="30">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>אמר רבא הלכתא חמץ בזמנו בין במינו</row>
+		<row row_number="2" isdata="1">בין שלא במינו אסור במשהו כרב שלא</row>
+		<row row_number="3" isdata="1">בזמנו בין במינו בין שלא במינו מותר כרבי</row>
+		<row row_number="4" isdata="1">שמעון ומי אמר רבא הכי והאמר רבא רבי</row>
+		<row row_number="5" isdata="1">שמעון קנסא קניס הואיל ועבר עליו בבל</row>
+		<row row_number="6" isdata="1">יראה ובל ימצא הני מילי בעיניה אבל על</row>
+		<row row_number="7" isdata="1">ידי תערובת לא ואזדא רבא לטעמיה דאמר</row>
+		<row row_number="8" isdata="1">רבא כי הוינן בי רב נחמן כי הוו נפקי שבעה</row>
+		<row row_number="9" isdata="1">יומי דפסחא אמר לן פוקו וזבינו חמירא</row>
+		<row row_number="10" isdata="1">דבני חילא: אמר רב קדירות בפסח ישברו</row>
+		<row row_number="11" isdata="1">ואמאי לשהינהו אחר הפסח וליעבד בהו</row>
+		<row row_number="12" isdata="1">שלא במינן גזירה דילמא אתו למיעבד בהו</row>
+		<row row_number="13" isdata="1">במינו ושמואל אמר לא ישברו אבל משהי</row>
+		<row row_number="14" isdata="1">להו לאחר זמנו ועביד בהו בין במינו בין</row>
+		<row row_number="15" isdata="1">שלא במינו ואזדא שמואל לטעמיה דאמר</row>
+		<row row_number="16" isdata="1">שמואל להנהו דמזבני כנדי אשוו זביני</row>
+		<row row_number="17" isdata="1">אכנדיכי ואי לא דרשינא לכו כרבי שמעון</row>
+		<row row_number="18" isdata="1">ולידרוש להו דהא שמואל כרבי שמעון</row>
+		<row row_number="19" isdata="1">סבירא ליה אתריה דרב הוה ההוא תנורא</row>
+		<row row_number="20" isdata="1">דטחו ביה טיחיא אסרה רבא בר אהילאי</row>
+		<row row_number="21" isdata="1">למיכלי' לריפתא אפי' במילחא לעולם דילמא</row>
+		<row row_number="22" isdata="1">אתי למיכליה בכותחא מיתיבי אין לשין</row>
+		<row row_number="23" isdata="1">את העיסה בחלב ואם לש כל הפת כולה</row>
+		<row row_number="24" isdata="1">אסורה מפני הרגל עבירה כיוצא בו</row>
+</amud>
+</daf>
+</masechet>
+</root>

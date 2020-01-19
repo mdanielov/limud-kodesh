@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:27.826951</dateCreated>
+   <lastModified>2020-01-14 15:03:27.826951</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="80">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השוכר את האומנין"/><ContGemara/>שש עשרה שעורים חייב הא שלשת קבין</row>
+		<row row_number="2" isdata="1">פטור תרגמה אביי במחיקתא ת"ר קב</row>
+		<row row_number="3" isdata="1">לכתף אדריב לעריבה כור לספינה שלשת</row>
+		<row row_number="4" isdata="1">כורים לבורני גדולה אמר מר קב לכתף אם</row>
+		<row row_number="5" isdata="1">איתא דלא מצי ביה בר דעת הוא לשדיה</row>
+		<row row_number="6" isdata="1">אמר אביי בשחבטו לאלתר רבא אמר אפילו</row>
+		<row row_number="7" isdata="1">תימא בשלא חבטו לאלתר לא צריכא אלא</row>
+		<row row_number="8" isdata="1">לאגרא יתירא רב אשי אמר הוא סבור</row>
+		<row row_number="9" isdata="1">חולשא הוא דנקיט ליה כור לספינה שלשת</row>
+		<row row_number="10" isdata="1">כורין לבורני גדולה אמר רב פפא ש"מ סתם</row>
+		<row row_number="11" isdata="1">ספינות בת תלתין כורין למאי נפקא מינה</row>
+		<row row_number="12" isdata="1">למקח וממכר<EndGemara/><StartMishna/>מתני' כל האומנין שומרי</row>
+		<row row_number="13" isdata="1">שכר הן וכולן שאמרו טול את שלך והבא</row>
+		<row row_number="14" isdata="1">מעות שומר חנם שמור לי ואשמור לך</row>
+		<row row_number="15" isdata="1">שומר שכר שמור לי וא"ל הנח לפני שומר</row>
+		<row row_number="16" isdata="1">חנם הלוהו על המשכון שומר שכר ר' יהודה</row>
+		<row row_number="17" isdata="1">אומר הלוהו מעות שומר חנם הלוהו פירות</row>
+		<row row_number="18" isdata="1">שומר שכר אבא שאול אומר רשאי אדם</row>
+		<row row_number="19" isdata="1">להשכיר משכונו של עני להיות פוסק והולך</row>
+		<row row_number="20" isdata="1">עליו מפני שהוא כמשיב אבידה:<EndMishna/><StartGemara/>גמ' לימא</row>
+		<row row_number="21" isdata="1">מתניתין דלא כרבי מאיר דתניא שוכר כיצד</row>
+		<row row_number="22" isdata="1">משלם רבי מאיר אומר כשומר חנם ר' יהודה</row>
+		<row row_number="23" isdata="1">אומר כשומר שכר אפילו תימא רבי מאיר</row>
+		<row row_number="24" isdata="1">בההיא הנאה דקא שביק כולי עלמא ואגיר</row>
+		<row row_number="25" isdata="1">ליה לדידיה הוי עילויה שומר שכר אי הכי</row>
+		<row row_number="26" isdata="1">שוכר נמי בההיא הנאה דקא שביק כולי</row>
+		<row row_number="27" isdata="1">עלמא ומוגר ליה לדידיה הוי עילויה שומר</row>
+		<row row_number="28" isdata="1">שכר אלא אפילו תימא ר' מאיר בההיא הנאה</row>
+		<row row_number="29" isdata="1">דקא יהיב ליה טפי פורתא הוי עילויה שומר</row>
+		<row row_number="30" isdata="1">שכר שוכר נמי מי לא עסקי' דקא משוי</row>
+		<row row_number="31" isdata="1">ליה טפי פורתא אלא אפילו תימא ר"מ בההיא</row>
+		<row row_number="32" isdata="1">הנאה דתפיש ליה אאגריה דלא בעי למיעל</row>
+		<row row_number="33" isdata="1">ולמיפק אזוזי הוי עליה ש"ש איבעית אימא</row>
+		<row row_number="34" isdata="1">כדמחליף רבה בר אבוה ותני שוכר כיצד</row>
+		<row row_number="35" isdata="1">משלם ר' מאיר אומר כשומר שכר רבי יהודה</row>
+		<row row_number="36" isdata="1">אומר כשומר חנם: וכולן שאמרו טול את</row>
+		<row row_number="37" isdata="1">שלך והבא מעות שומר חנם: תנן התם</row>
+		<row row_number="38" isdata="1">אמר לו שואל שלח ושלחה ומתה חייב</row>
+		<row row_number="39" isdata="1">וכן בשעה שמחזירה אמר רפרם בר פפא אמר רב חסדא לא שנו אלא</row>
+		<row row_number="40" isdata="1">שהחזירה בתוך ימי שאילתה אבל לאחר ימי שאילתה פטור מתיב רב</row>
+		<row row_number="41" isdata="1">נחמן בר פפא וכולן שאמרו טול את שלך והבא מעות שומר חנם</row>
+</amud>
+</daf>
+</masechet>
+</root>

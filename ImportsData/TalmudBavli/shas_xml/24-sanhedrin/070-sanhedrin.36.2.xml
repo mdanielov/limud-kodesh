@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:40.787011</dateCreated>
+   <lastModified>2020-01-14 15:03:40.787011</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="36">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אחד דיני ממונות"/><ContGemara/>כי קאמר רב כגון רב כהנא ורב אסי</row>
+		<row row_number="2" isdata="1">דלגמריה דרב הוו צריכי ולסבריה דרב לא</row>
+		<row row_number="3" isdata="1">הוו צריכי א"ר אבהו עשרה דברים יש בין</row>
+		<row row_number="4" isdata="1">דיני ממונות לדיני נפשות וכולן אין נוהגין</row>
+		<row row_number="5" isdata="1">בשור הנסקל חוץ מעשרים ושלשה מנא</row>
+		<row row_number="6" isdata="1">הני מילי אמר רב אחא בר פפא דאמר קרא</row>
+		<row row_number="7" isdata="1">לא תטה משפט אביונך בריבו משפט</row>
+		<row row_number="8" isdata="1">אביונך אי אתה מטה אבל אתה מטה</row>
+		<row row_number="9" isdata="1">משפט של שור הנסקל עשרה הא ט' הוו</row>
+		<row row_number="10" isdata="1">הא עשרה קתני משום דאין הכל כשרין</row>
+		<row row_number="11" isdata="1">ועשרים ושלשה חדא היא הא איכא אחריתי</row>
+		<row row_number="12" isdata="1">דתניא אין מושיבין בסנהדרין זקן וסריס</row>
+		<row row_number="13" isdata="1">ומי שאין לו בנים ר' יהודה מוסיף אף אכזרי</row>
+		<row row_number="14" isdata="1">וחילופיהן במסית דרחמנא אמר לא</row>
+		<row row_number="15" isdata="1">תחמול ולא תכסה עליו: הכל כשרין לדון</row>
+		<row row_number="16" isdata="1">דיני ממונות: הכל לאתויי מאי אמר רב יהודה</row>
+		<row row_number="17" isdata="1">לאתויי ממזר הא תנינא חדא זימנא כל</row>
+		<row row_number="18" isdata="1">הראוי לדון דיני נפשות ראוי לדון דיני</row>
+		<row row_number="19" isdata="1">ממונות ויש ראוי לדון דיני ממונות ואין ראוי</row>
+		<row row_number="20" isdata="1">לדון דיני נפשות והוינן בה לאתויי מאי</row>
+		<row row_number="21" isdata="1">ואמר רב יהודה לאתויי ממזר חדא לאתויי</row>
+		<row row_number="22" isdata="1">גר וחדא לאתויי ממזר וצריכ' דאי אשמעינן</row>
+		<row row_number="23" isdata="1">גר דראוי לבא בקהל אבל ממזר אימא לא</row>
+		<row row_number="24" isdata="1">ואי אשמעינן ממזר דבא מטיפה כשרה</row>
+		<row row_number="25" isdata="1">אבל גר דלא בא מטיפה כשרה אימא לא</row>
+		<row row_number="26" isdata="1">צריכא: ואין הכל כשרין לדון דיני נפשות:</row>
+		<row row_number="27" isdata="1">מאי טעמא דתני רב יוסף כשם שב"ד</row>
+		<row row_number="28" isdata="1">מנוקין בצדק כך מנוקין מכל מום אמר</row>
+		<row row_number="29" isdata="1">אמימר מאי קרא כולך יפה רעיתי ומום</row>
+		<row row_number="30" isdata="1">אין בך ודילמא מום ממש אמר רב אחא</row>
+		<row row_number="31" isdata="1">בר יעקב אמר קרא והתיצבו שם עמך</row>
+		<row row_number="32" isdata="1">עמך בדומין לך ודילמא התם משום</row>
+		<row row_number="33" isdata="1">שכינה אלא אמר רב נחמן בר יצחק אמר</row>
+		<row row_number="34" isdata="1">קרא ונשאו אתך אתך בדומין לך ליהוי:</row>
+		<row row_number="35" isdata="1"><EndGemara/><StartMishna/>מתני' סנהדרין היתה כחצי גורן עגולה</row>
+		<row row_number="36" isdata="1">כדי שיהו רואין זה את זה ושני סופרי</row>
+		<row row_number="37" isdata="1">הדיינין עומדים לפניהם אחד מימין ואחד</row>
+		<row row_number="38" isdata="1">משמאל וכותבין דברי (מחייבין ודברי</row>
+		<row row_number="39" isdata="1">מזכין) ר' יהודה אומר שלשה אחד כותב</row>
+		<row row_number="40" isdata="1">דברי המזכין ואחד כותב דברי המחייבין</row>
+		<row row_number="41" isdata="1">והשלישי כותב דברי המזכין ודברי המחייבין</row>
+</amud>
+</daf>
+</masechet>
+</root>

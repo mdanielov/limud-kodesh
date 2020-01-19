@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:32.217106</dateCreated>
+   <lastModified>2020-01-14 15:02:32.218103</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="108">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>שאף הן היו באותו הנס א"ר יהודה אמר</row>
+		<row row_number="2" isdata="1">שמואל ארבעה כוסות הללו צריך שיהא בהן</row>
+		<row row_number="3" isdata="1">כדי מזיגת כוס יפה שתאן חי יצא שתאן</row>
+		<row row_number="4" isdata="1">בבת אחת יצא השקה מהן לבניו ולבני ביתו</row>
+		<row row_number="5" isdata="1">יצא שתאן חי יצא אמר רבא ידי יין יצא ידי</row>
+		<row row_number="6" isdata="1">חירות לא יצא שתאן בבת אחת רב אמר</row>
+		<row row_number="7" isdata="1">ידי יין יצא ידי ארבעה כוסות לא יצא השקה</row>
+		<row row_number="8" isdata="1">מהן לבניו ולבני ביתו יצא אמר רב נחמן בר</row>
+		<row row_number="9" isdata="1">יצחק והוא דאשתי רובא דכסא מיתיבי ד'</row>
+		<row row_number="10" isdata="1">כוסות הללו צריך שיהא בהן כדי רביעית</row>
+		<row row_number="11" isdata="1">אחד חי ואחד מזוג אחד חדש ואחד ישן רבי</row>
+		<row row_number="12" isdata="1">יהודה אומר צריך שיהא בו טעם ומראה יין</row>
+		<row row_number="13" isdata="1">קתני מיהת כדי רביעית ואת אמרת כוס יפה</row>
+		<row row_number="14" isdata="1">אמרי אידי ואידי חד שיעורא הוא מאי כדי</row>
+		<row row_number="15" isdata="1">מזיגת כוס יפה דקאמר לכל חד וחד דהוי להו</row>
+		<row row_number="16" isdata="1">כולהו רביעית רבי יהודה אומר צריך שיהא</row>
+		<row row_number="17" isdata="1">בו טעם ומראה אמר רבא מאי טעמא דרבי</row>
+		<row row_number="18" isdata="1">יהודה דכתיב אל תרא יין כי יתאדם ת"ר</row>
+		<row row_number="19" isdata="1">הכל חייבין בארבעה כוסות הללו אחד אנשים</row>
+		<row row_number="20" isdata="1">ואחד נשים ואחד תינוקות א"ר יהודה וכי מה</row>
+		<row row_number="21" isdata="1">תועלת יש לתינוקות ביין אלא מחלקין להן</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:06.087800</dateCreated>
+   <lastModified>2020-01-14 15:03:06.087800</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שני נזירים"/><ContGemara/>תני רבי חייא זה לפני ביאת מים (חיים) וזה</row>
+		<row row_number="2" isdata="1">לאחר ביאת מים זה לפני זריקת דמים וזה</row>
+		<row row_number="3" isdata="1">לאחר זריקת דמים: שתגלחת הנגע וכו':</row>
+		<row row_number="4" isdata="1">בעי רמי בר חמא הני ארבע תגלחיות</row>
+		<row row_number="5" isdata="1">דקאמר משום מצוה או משום אעבורי שיער</row>
+		<row row_number="6" isdata="1">טומאה למאי נפקא מינה לעבורי בנשא אי</row>
+		<row row_number="7" isdata="1">אמרת משום מצוה לעבורי בנשא לא ואי</row>
+		<row row_number="8" isdata="1">אמרת משום אעבורי שיער טומאה אפילו</row>
+		<row row_number="9" isdata="1">סכיה נשא נמי מאי אמר רבא ת"ש ומגלח</row>
+		<row row_number="10" isdata="1">ארבע תגלחיות אי סלקא דעתך משום</row>
+		<row row_number="11" isdata="1">עבורי שיער טומאה אפילו בשלש נמי סגיא</row>
+		<row row_number="12" isdata="1">ליה שמע מינה משום מצוה שמע מינה:<EndChapter name = "שני נזירים"/><EndGemara/></row>
+		<row row_number="13" isdata="0">הדרן עלך שני נזירים</row>
+		<row row_number="14" isdata="1"><StartChapter name = "הכותים אין להם נזירות"/><StartMishna/>הכותים אין להם נזירות נשים ועבדים</row>
+		<row row_number="15" isdata="1">יש להן נזירות חומר בנשים</row>
+		<row row_number="16" isdata="1">מבעבדים שהוא כופה את עבדו ואינו</row>
+		<row row_number="17" isdata="1">כופה את אשתו:<EndMishna/><StartGemara/>גמ' קתני הכותים אין להם</row>
+		<row row_number="18" isdata="1">נזירות מנא הני מילי דתנו רבנן דבר</row>
+		<row row_number="19" isdata="1">אל בני ישראל ולא לעובדי כוכבים ואמרת</row>
+		<row row_number="20" isdata="1">אליהם לרבות את העבדים למה לי קרא</row>
+		<row row_number="21" isdata="1">האמרת כל מצוה שהאשה חייבת בה עבד</row>
+		<row row_number="22" isdata="1">חייב בה אמר רבא שאני הכא דאמר קרא</row>
+		<row row_number="23" isdata="1">לאסור איסר על נפשו במי שנפשו קנויה</row>
+		<row row_number="24" isdata="1">לו יצא עבד שאין נפשו קנויה לו הואיל</row>
+		<row row_number="25" isdata="1">ואין נפשו קנויה לו אימא גבי נזיר נמי לא</row>
+		<row row_number="26" isdata="1">קמשמע לן אמר מר דבר אל בני ישראל ולא</row>
+		<row row_number="27" isdata="1">לעובדי כוכבים וכל היכא דכתיב ישראל</row>
+		<row row_number="28" isdata="1">עובדי כוכבים לא והא גבי ערכין דכתיב</row>
+		<row row_number="29" isdata="1">דבר אל בני ישראל ותניא בני ישראל</row>
+		<row row_number="30" isdata="1">מעריכין ואין העובדי כוכבים מעריכין יכול</row>
+		<row row_number="31" isdata="1">לא יהו נערכין ת"ל איש שאני הכא דאמר</row>
+		<row row_number="32" isdata="1">קרא לאביו ולאמו לא יטמא במי שיש לו</row>
+		<row row_number="33" isdata="1">אב יצא עובד כוכבים שאין לו אב למאי</row>
+		<row row_number="34" isdata="1">אילימא לענין ירושה והא"ר חייא בר אבין</row>
+		<row row_number="35" isdata="1">א"ר יוחנן עובד כוכבים יורש את אביו דבר</row>
+		<row row_number="36" isdata="1">תורה שנאמר כי ירושה לעשו נתתי את הר</row>
+		<row row_number="37" isdata="1">שעיר אלא במי שמוזהר על כיבוד אביו מי</row>
+		<row row_number="38" isdata="1">כתיב כבד אביך גבי נזיר אלא אמר קרא</row>
+		<row row_number="39" isdata="1">לאביו ולאמו לא יטמא במי שיש לו טומאה</row>
+</amud>
+</daf>
+</masechet>
+</root>

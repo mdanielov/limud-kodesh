@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:09.820419</dateCreated>
+   <lastModified>2020-01-14 15:02:09.820419</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="2">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>ידיעות הטומאה שתים שהן ארבע מראות</row>
+		<row row_number="2" isdata="1">נגעים שנים שהן ד' יציאות השבת שתים שהן</row>
+		<row row_number="3" isdata="1">ארבע מאי שנא הכא דתני ב' שהן ד' בפנים</row>
+		<row row_number="4" isdata="1">וב' שהן ארבע בחוץ ומאי שנא התם דתני</row>
+		<row row_number="5" isdata="1">שתים שהן ארבע ותו לא הכא דעיקר שבת</row>
+		<row row_number="6" isdata="1">הוא תני אבות ותני תולדות התם דלאו עיקר</row>
+		<row row_number="7" isdata="1">שבת הוא אבות תני תולדות לא תני אבות</row>
+		<row row_number="8" isdata="1">מאי ניהו יציאות ויציאות תרי הויין וכי תימא</row>
+		<row row_number="9" isdata="1">מהן לחיוב ומהן לפטור והא דומיא דמראות</row>
+		<row row_number="10" isdata="1">נגעים קתני מה התם כולהו לחיובא אף הכא</row>
+		<row row_number="11" isdata="1">נמי כולהו לחיובא אלא אמר רב פפא הכא</row>
+		<row row_number="12" isdata="1">דעיקר שבת הוא תני חיובי ופטורי התם</row>
+		<row row_number="13" isdata="1">דלאו עיקר שבת הוא חיובי תני ופטורי לא</row>
+		<row row_number="14" isdata="1">תני חיובי מאי ניהו יציאות יציאות תרתי הויין</row>
+		<row row_number="15" isdata="1">שתים דהוצאה ושתים דהכנסה והא יציאות</row>
+		<row row_number="16" isdata="1">קתני אמר רב אשי תנא הכנסה נמי הוצאה</row>
+		<row row_number="17" isdata="1">קרי לה ממאי מדתנן המוציא מרשות לרשות</row>
+		<row row_number="18" isdata="1">חייב מי לא עסקינן דקא מעייל מרה"ר לרה"י</row>
+		<row row_number="19" isdata="1">וקא קרי לה הוצאה וטעמא מאי כל עקירת</row>
+		<row row_number="20" isdata="1">חפץ ממקומו תנא הוצאה קרי לה אמר</row>
+		<row row_number="21" isdata="1">רבינא מתניתין נמי דיקא דקתני יציאות</row>
+		<row row_number="22" isdata="1">וקא מפרש הכנסה לאלתר ש"מ רבא אמר</row>
+		<row row_number="23" isdata="1">רשויו' קתני רשויו' שבת שתים: א"ל רב מתנה</row>
+		<row row_number="24" isdata="1">לאביי הא תמני הויין תרתי סרי הויין וליטעמיך</row>
+		<row row_number="25" isdata="1">שיתסרי הויין א"ל הא לא קשיא בשלמא</row>
+</amud>
+</daf>
+</masechet>
+</root>

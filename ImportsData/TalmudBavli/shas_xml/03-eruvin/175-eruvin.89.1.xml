@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:23.939204</dateCreated>
+   <lastModified>2020-01-14 15:02:23.939204</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="89">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוציא יין"/><ContGemara/>לא שנו אלא שלא עירבו אבל עירבו</row>
+		<row row_number="2" isdata="1">מותרין וכי לא עירבו מאי טעמא לא אמר</row>
+		<row row_number="3" isdata="1">רב אשי גזירה דילמא אתי לאפוקי ממאני</row>
+		<row row_number="4" isdata="1">דבתים להתם:<EndChapter name = "המוציא יין"/><EndGemara/></row>
+		<row row_number="5" isdata="0">הדרן עלך כיצד משתתפין</row>
+		<row row_number="6" isdata="1"><StartChapter name = "אמר רבי עקיבא"/><StartMishna/>כל גגות העיר רשות אחת ובלבד שלא</row>
+		<row row_number="7" isdata="1">יהא גג גבוה י' או נמוך י' דברי</row>
+		<row row_number="8" isdata="1">ר"מ וחכ"א כל אחד ואחד רשות בפני עצמו</row>
+		<row row_number="9" isdata="1">רבי שמעון אומר אחד גגות ואחד חצירות</row>
+		<row row_number="10" isdata="1">ואחד קרפיפות רשות אחת הן לכלים ששבתו</row>
+		<row row_number="11" isdata="1">לתוכן ולא לכלים ששבתו בתוך הבית:</row>
+		<row row_number="12" isdata="1"><EndMishna/><StartGemara/>גמ' יתיב אביי בר אבין ורבי חנינא בר אבין</row>
+		<row row_number="13" isdata="1">ויתיב אביי גבייהו ויתבי וקאמרי בשלמא</row>
+		<row row_number="14" isdata="1">רבנן סברי כשם שדיורין חלוקין למטה כך</row>
+		<row row_number="15" isdata="1">דיורין חלוקין למעלה אלא רבי מאיר מאי</row>
+		<row row_number="16" isdata="1">קסבר אי קסבר כשם שדיורין חלוקין למטה</row>
+		<row row_number="17" isdata="1">כך דיורין חלוקין למעלה אמאי רשות אחת הן</row>
+		<row row_number="18" isdata="1">ואי קסבר אין חלוקין דכל למעלה מי' רשות</row>
+		<row row_number="19" isdata="1">אחת היא אפילו גג גבוה עשרה ונמוך י'</row>
+		<row row_number="20" isdata="1">נמי אמר להו אביי לא שמיע לכו הא דאמר</row>
+		<row row_number="21" isdata="1">רב יצחק בר אבדימי אומר היה רבי מאיר</row>
+		<row row_number="22" isdata="1">כל מקום שאתה מוצא שתי רשויות והן</row>
+		<row row_number="23" isdata="1">רשות אחת כגון עמוד ברה"י גבוה עשרה</row>
+		<row row_number="24" isdata="1">ורחב ד' אסור לכתף עליו גזירה משום תל</row>
+		<row row_number="25" isdata="1">ברה"ר ה"נ גזירה משום תל ברה"ר סבור מינה</row>
+		<row row_number="26" isdata="1">אפילו מכתשת ואפילו גיגית אמר להו אביי</row>
+		<row row_number="27" isdata="1">הכי אמר מר לא אמר ר"מ אלא עמוד ואמת</row>
+		<row row_number="28" isdata="1">הריחים הואיל ואדם קובע להן מקום והרי</row>
+		<row row_number="29" isdata="1">כותל שבין ב' חצירות דקבוע ואמר רב</row>
+		<row row_number="30" isdata="1">יהודה כשתימצי לומר לדברי ר"מ גגין רשות</row>
+		<row row_number="31" isdata="1">לעצמן חצירות רשות לעצמן קרפיפות רשות</row>
+		<row row_number="32" isdata="1">לעצמן מאי לאו דשרי לטלטולי דרך כותל</row>
+		<row row_number="33" isdata="1">אמר רב הונא בר יהודה אמר רב ששת לא</row>
+		<row row_number="34" isdata="1">להכניס ולהוציא דרך פתחים: וחכ"א כל</row>
+		<row row_number="35" isdata="1">אחד ואחד רשות בפני עצמו: איתמר רב</row>
+		<row row_number="36" isdata="1">אמר אין מטלטלין בו אלא בד' אמות ושמואל</row>
+		<row row_number="37" isdata="1">אמר מותר לטלטל בכולו במחיצות הניכרות</row>
+		<row row_number="38" isdata="1">דכולי עלמא לא פליגי כי פליגי במחיצות</row>
+		<row row_number="39" isdata="1">שאינן ניכרות רב אמר אין מטלטלין בו אלא</row>
+		<row row_number="40" isdata="1">בד' אמו' לא אמר גוד אסיק מחיצתא ושמואל</row>
+		<row row_number="41" isdata="1">אמר מותר לטלטל בכולו דאמר גוד אסיק</row>
+		<row row_number="42" isdata="1">מחיצתא תנן וחכמים אומרים כל אחד ואחד</row>
+</amud>
+</daf>
+</masechet>
+</root>

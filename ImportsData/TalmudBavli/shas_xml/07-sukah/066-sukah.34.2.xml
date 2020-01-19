@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:40.379990</dateCreated>
+   <lastModified>2020-01-14 15:02:40.379990</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="34">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "לולב הגזול"/><ContGemara/>נפקא מינה לגיטי נשים:מתני' ר' ישמעאלנפקא מינה לגיטי נשים<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">אומר שלשה הדסים ושתי ערבות לולב אחד</row>
+		<row row_number="3" isdata="1">ואתרוג אחד אפילו שנים קטומים ואחד אינו</row>
+		<row row_number="4" isdata="1">קטום ר' טרפון אומר אפי' שלשתן קטומים</row>
+		<row row_number="5" isdata="1">ר"ע אומר כשם שלולב אחד ואתרוג אחד</row>
+		<row row_number="6" isdata="1">כך הדס אחד וערבה אחת:<EndMishna/><StartGemara/>גמ' תניא רבי</row>
+		<row row_number="7" isdata="1">ישמעאל אומר פרי עץ הדר אחד כפת</row>
+		<row row_number="8" isdata="1">תמרים אחד ענף עץ עבות שלשה ערבי</row>
+		<row row_number="9" isdata="1">נחל שתים ואפילו שנים קטומים ואחד שאינו</row>
+		<row row_number="10" isdata="1">קטום ר' טרפון אומר שלשה ואפי' שלשתן</row>
+		<row row_number="11" isdata="1">קטומים ר"ע אומר כשם שלולב אחד ואתרוג</row>
+		<row row_number="12" isdata="1">אחד כך הדס אחד וערבה אחת אמר לו</row>
+		<row row_number="13" isdata="1">ר' אליעזר יכול יהא אתרוג עמהן באגודה</row>
+		<row row_number="14" isdata="1">אחת אמרת וכי נאמר פרי עץ הדר וכפת</row>
+		<row row_number="15" isdata="1">תמרים והלא לא נאמר אלא כפת ומנין</row>
+		<row row_number="16" isdata="1">שמעכבין זה את זה ת"ל ולקחתם שתהא</row>
+		<row row_number="17" isdata="1">לקיחה תמה ורבי ישמעאל מה נפשך אי</row>
+		<row row_number="18" isdata="1">שלימין בעי ליבעי נמי כולהו אי לא בעי</row>
+		<row row_number="19" isdata="1">שלימין אפי' חד נמי לא אמר ביראה א"ר</row>
+		<row row_number="20" isdata="1">אמי חזר בו רבי ישמעאל אמר רב יהודה</row>
+		<row row_number="21" isdata="1">אמר שמואל הלכה כרבי טרפון ואזדא שמואל</row>
+		<row row_number="22" isdata="1">לטעמיה דאמר להו שמואל להנהו דמזבני</row>
+		<row row_number="23" isdata="1">אסא אשוו וזבינו ואי לא דרישנא לכו כרבי</row>
+		<row row_number="24" isdata="1">טרפון מ"ט אילימא משום דמיקל ולידרוש</row>
+		<row row_number="25" isdata="1">להו כרבי עקיבא דמיקל טפי תלתא קטומי</row>
+		<row row_number="26" isdata="1">שכיחי חד ולא קטום לא שכיח:</row>
+		<row row_number="27" isdata="1"><EndGemara/><StartMishna/>מתני' אתרוג הגזול והיבש פסול של</row>
+		<row row_number="28" isdata="1">אשרה ושל עיר הנדחת פסול של ערלה פסול</row>
+		<row row_number="29" isdata="1">של תרומה טמאה פסול של תרומה טהורה</row>
+		<row row_number="30" isdata="1">לא יטול ואם נטל כשר של דמאי ב"ש פוסלין</row>
+		<row row_number="31" isdata="1">וב"ה מכשירין של מעשר שני בירושלים</row>
+		<row row_number="32" isdata="1">לא יטול ואם נטל כשר עלתה חזזית על רובו</row>
+		<row row_number="33" isdata="1">נטלה פטמתו נקלף נסדק ניקב וחסר</row>
+		<row row_number="34" isdata="1">כל שהוא פסול עלתה חזזית על מיעוטו</row>
+		<row row_number="35" isdata="1">נטל עוקצו ניקב ולא חסר כל שהוא כשר</row>
+		<row row_number="36" isdata="1">אתרוג הכושי פסול והירוק ככרתי ר' מאיר</row>
+		<row row_number="37" isdata="1">מכשיר ור' יהודה פוסל שיעור אתרוג הקטן</row>
+		<row row_number="38" isdata="1">ר"מ אומר כאגוז רבי יהודה אומר כביצה</row>
+		<row row_number="39" isdata="1">ובגדול כדי שיאחז שנים בידו דברי ר' יהודה</row>
+		<row row_number="40" isdata="1">ורבי יוסי אומר אפי' אחד בשתי ידיו:</row>
+</amud>
+</daf>
+</masechet>
+</root>

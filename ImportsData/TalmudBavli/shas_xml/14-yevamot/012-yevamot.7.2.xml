@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:48.578895</dateCreated>
+   <lastModified>2020-01-14 15:02:48.578895</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="7">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חמש עשרה נשים"/><ContGemara/>תלמוד לומר כי כחטאת האשם הוא מה</row>
+		<row row_number="2" isdata="1">חטאת טעונה מתן דמים ואימורים לגבי</row>
+		<row row_number="3" isdata="1">מזבח אף אשם טעון מתן דמים ואימורים</row>
+		<row row_number="4" isdata="1">לגבי מזבח ואי לא אהדריה קרא ה"א למאי</row>
+		<row row_number="5" isdata="1">דנפק נפק ולמאי דלא נפק לא נפק ה"נ</row>
+		<row row_number="6" isdata="1">ה"א אשת אח דאישתרא אישתראי שאר</row>
+		<row row_number="7" isdata="1">עריות לא אלא סד"א תיתי במה מצינו</row>
+		<row row_number="8" isdata="1">מאשת אח מה אשת אח מייבמה אף אחות</row>
+		<row row_number="9" isdata="1">אשה תתייבם מי דמי התם חד איסורא הכא</row>
+		<row row_number="10" isdata="1">תרי איסורי מהו דתימא הואיל ואישתרי</row>
+		<row row_number="11" isdata="1">אישתרי ומנא תימרא דאמרינן הואיל</row>
+		<row row_number="12" isdata="1">ואישתרי אישתרי דתניא מצורע שחל</row>
+		<row row_number="13" isdata="1">שמיני שלו בערב הפסח וראה קרי בו ביום</row>
+		<row row_number="14" isdata="1">וטבל אמרו חכמים אע"פ שאין טבול יום</row>
+		<row row_number="15" isdata="1">אחר נכנס זה נכנס מוטב שיבא עשה שיש</row>
+		<row row_number="16" isdata="1">בו כרת וידחה עשה שאין בו כרת ואמר ר'</row>
+		<row row_number="17" isdata="1">יוחנן דבר תורה אפי' עשה לית ביה שנאמר</row>
+		<row row_number="18" isdata="1">ויעמוד יהושפט בקהל יהודה לפני החצר</row>
+		<row row_number="19" isdata="1">החדשה מאי חצר החדשה אמר (ר' יוחנן)</row>
+		<row row_number="20" isdata="1">שחדשו בה דברים ואמרו טבול יום לא יכנס</row>
+		<row row_number="21" isdata="1">למחנה לויה ואמר עולא מה טעם הואיל</row>
+		<row row_number="22" isdata="1">והותר לצרעתו הותר לקרויו מי דמי לדעולא</row>
+</amud>
+</daf>
+</masechet>
+</root>

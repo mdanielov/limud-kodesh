@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:13.785359</dateCreated>
+   <lastModified>2020-01-14 15:04:13.785359</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="61">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>ולילף מעורב מה התם תרי לא אף כל תרי</row>
+		<row row_number="2" isdata="1">לא א"כ פרס ועזניה דכתב רחמנא למה לי</row>
+		<row row_number="3" isdata="1">השתא דאית ליה תרי לא אכלינן דאית ליה</row>
+		<row row_number="4" isdata="1">חד מיבעיא וניגמר מפרס ועזניה א"כ נשר</row>
+		<row row_number="5" isdata="1">דכתב רחמנא למה לי השתא דאית ליה</row>
+		<row row_number="6" isdata="1">חד לא אכלינן דלית ליה כלל מיבעיא אלא</row>
+		<row row_number="7" isdata="1">נשר דלית ליה כלל הוא דלא תיכול הא</row>
+		<row row_number="8" isdata="1">דאית ליה חד אכול ואלא טעמא דכתב</row>
+		<row row_number="9" isdata="1">רחמנא נשר הא לאו הכי הוה אמינא לילף</row>
+		<row row_number="10" isdata="1">מפרס ועזניה הוה ליה פרס ועזניה שני</row>
+		<row row_number="11" isdata="1">כתובין הבאין כאחד ושני כתובין הבאין</row>
+		<row row_number="12" isdata="1">כאחד אין מלמדין גמירי דאיכא בהאי ליכא</row>
+		<row row_number="13" isdata="1">בהאי ודאיכא בהאי ליכא בהאי מכדי עשרים</row>
+		<row row_number="14" isdata="1">וארבעה עופות טמאים הוו אי אפשר דחד</row>
+		<row row_number="15" isdata="1">דאיכא בהנך ליכא בהני והוו להו שני כתובים</row>
+		<row row_number="16" isdata="1">הבאים כאחד גמירי עשרים וארבעה עופות</row>
+		<row row_number="17" isdata="1">טמאים הוו וארבעה סימנין תלתא הדרי</row>
+		<row row_number="18" isdata="1">בכולהו עשרים מהם שלשה שלשה ותרי</row>
+		<row row_number="19" isdata="1">בעורב חד בפרס וחד בעזניה דאיתיה בהא</row>
+		<row row_number="20" isdata="1">ליתיה בהא מהו דתימא ליליף מיניה</row>
+		<row row_number="21" isdata="1">כתב רחמנא נשר נשר דלית ליה כלל</row>
+		<row row_number="22" isdata="1">הוא דלא תיכול הא איכא דאית ליה חד</row>
+		<row row_number="23" isdata="1">אכול אלא תורין דכתב רחמנא למה לי אמר</row>
+		<row row_number="24" isdata="1">רב עוקבא בר חמא לקרבן אמר רב נחמן</row>
+</amud>
+</daf>
+</masechet>
+</root>

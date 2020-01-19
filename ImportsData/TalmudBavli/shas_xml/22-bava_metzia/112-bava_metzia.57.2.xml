@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:25.960790</dateCreated>
+   <lastModified>2020-01-14 15:03:25.960790</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="57">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הזהב"/><ContGemara/>דאפי' פחות מכדי אונאה חוזר מיתיבי</row>
+		<row row_number="2" isdata="1">רבית ואונאה להדיוט ואין רבית ואונאה</row>
+		<row row_number="3" isdata="1">להקדש מי אלימא ממתניתין דאוקימנא</row>
+		<row row_number="4" isdata="1">בתורת אונאה ה"נ רבית ודין אונאה</row>
+		<row row_number="5" isdata="1">להדיוט ואין רבית ודין אונאה להקדש אי</row>
+		<row row_number="6" isdata="1">הכי היינו דקתני סיפא זה חומר בהדיוט</row>
+		<row row_number="7" isdata="1">מבהקדש ארבית ליתני נמי זה חומר</row>
+		<row row_number="8" isdata="1">בהקדש מבהדיוט אאונאה הכי השתא</row>
+		<row row_number="9" isdata="1">בשלמא זה חומר בהדיוט מבהקדש ותו</row>
+		<row row_number="10" isdata="1">לא אלא הקדש זה חומר ותו לא רבית</row>
+		<row row_number="11" isdata="1">דהקדש היכי דמי אילימא דאוזפיה גזבר</row>
+		<row row_number="12" isdata="1">מאה במאה ועשרים והלא מעל הגזבר</row>
+		<row row_number="13" isdata="1">וכיון שמעל הגזבר יצאו מעותיו לחולין והוו</row>
+		<row row_number="14" isdata="1">להו דהדיוט אמר רב הושעיא הכא במאי</row>
+		<row row_number="15" isdata="1">עסקינן כגון שקיבל עליו לספק סלתות</row>
+		<row row_number="16" isdata="1">מארבע ועמדו משלש כדתניא המקבל</row>
+		<row row_number="17" isdata="1">עליו לספק סלתות מארבע ועמדו משלש</row>
+		<row row_number="18" isdata="1">מספק מארבע משלש ועמדו מארבע מספק</row>
+		<row row_number="19" isdata="1">מארבע שיד הקדש על העליונה רב פפא</row>
+		<row row_number="20" isdata="1">אמר הכא באבני בנין המסורות לגזבר</row>
+		<row row_number="21" isdata="1">עסקינן כדשמואל דאמר שמואל בונין</row>
+		<row row_number="22" isdata="1">בחול ואח"כ מקדישין: אין בהן תשלומי</row>
+		<row row_number="23" isdata="1">כפל (וכו'): מנהני מילי דת"ר על כל</row>
+		<row row_number="24" isdata="1">דבר פשע כלל על שור על חמור על שה</row>
+		<row row_number="25" isdata="1">על שלמה פרט על כל אבדה אשר יאמר</row>
+		<row row_number="26" isdata="1">חזר וכלל כלל ופרט וכלל אי אתה דן אלא</row>
+		<row row_number="27" isdata="1">כעין הפרט מה הפרט מפורש דבר המטלטל</row>
+		<row row_number="28" isdata="1">וגופו ממון אף כל דבר המטלטל וגופו ממון</row>
+		<row row_number="29" isdata="1">יצאו קרקעות שאינן מטלטלין יצאו עבדים</row>
+		<row row_number="30" isdata="1">שהוקשו לקרקעות יצאו שטרות שאע"פ</row>
+		<row row_number="31" isdata="1">שמטלטלין אין גופן ממון הקדשות אמר</row>
+		<row row_number="32" isdata="1">קרא רעהו רעהו ולא הקדש: ולא תשלומי</row>
+		<row row_number="33" isdata="1">ד' וה' (וכו'): מאי טעמא תשלומי ד' וה'</row>
+		<row row_number="34" isdata="1">אמר רחמנא ולא תשלומי שלשה וארבעה:</row>
+		<row row_number="35" isdata="1">שומר חנם אינו נשבע (וכו'): מנהני מילי</row>
+		<row row_number="36" isdata="1">דת"ר כי יתן איש אל רעהו כלל כסף</row>
+		<row row_number="37" isdata="1">או כלים פרט (וגונב מבית האיש) חזר</row>
+		<row row_number="38" isdata="1">וכלל כלל ופרט וכלל אי אתה דן אלא</row>
+		<row row_number="39" isdata="1">כעין הפרט מה הפרט מפורש דבר המטלטל</row>
+		<row row_number="40" isdata="1">וגופו ממון אף כל דבר המטלטל וגופו</row>
+		<row row_number="41" isdata="1">ממון יצאו קרקעות שאינן מטלטלין יצאו</row>
+		<row row_number="42" isdata="1">עבדים שהוקשו לקרקעות יצאו שטרות</row>
+		<row row_number="43" isdata="1">שאע"פ שמטלטלין אין גופן ממון הקדשות</row>
+		<row row_number="44" isdata="1">אמר קרא רעהו רעהו ולא של הקדש:</row>
+		<row row_number="45" isdata="1">נושא שכר אינו משלם (וכו'): מנהני מילי</row>
+		<row row_number="46" isdata="1">דת"ר כי יתן איש אל רעהו כלל חמור</row>
+		<row row_number="47" isdata="1">או שור או שה פרט וכל בהמה לשמור חזר וכלל כלל ופרט וכלל אי</row>
+		<row row_number="48" isdata="1">אתה דן אלא כעין הפרט מה הפרט מפורש דבר המטלטל וגופו ממון אף</row>
+		<row row_number="49" isdata="1">כל דבר המטלטל וגופו ממון יצאו קרקעות שאינן מטלטלין יצאו עבדים</row>
+		<row row_number="50" isdata="1">שהוקשו לקרקעות יצאו שטרות שאע"פ שמטלטלין אין גופן ממון הקדשות</row>
+		<row row_number="51" isdata="1">אמר קרא רעהו רעהו ולא של הקדש: שומר חנם אינו נשבע וכו': ורמינהו</row>
+		<row row_number="52" isdata="1">בני העיר ששלחו את שקליהן ונגנבו או שאבדו אם משנתרמה התרומה</row>
+</amud>
+</daf>
+</masechet>
+</root>

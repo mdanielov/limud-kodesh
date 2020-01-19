@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:23.443408</dateCreated>
+   <lastModified>2020-01-14 15:04:23.443408</lastModified>
+ </meta>
+ <masechet name="ערכין" serial="33">
+<daf value="9">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אין נערכין"/><ContGemara/>קדים אתי סיהרא תלתא יומי השתא נמי</row>
+		<row row_number="2" isdata="1">קא קדים אתי תרי יומי כדאמר רב משרשיא</row>
+		<row row_number="3" isdata="1">כגון שהיתה שנה מעוברת הכא נמי כגון</row>
+		<row row_number="4" isdata="1">שהיתה שנה שלפניה מעוברת ועיבור שנה</row>
+		<row row_number="5" isdata="1">חודש דל ירחא מליא בהדי ירחא חסירא ואכתי</row>
+		<row row_number="6" isdata="1">חד יומא לא אדעתייהו דאינשי עולא אמר לא</row>
+		<row row_number="7" isdata="1">נראה לחכמים לחסר יתר על שמונה ומאי טעמא</row>
+		<row row_number="8" isdata="1">קאמר מה טעם אין פוחתים מארבעה חדשים</row>
+		<row row_number="9" isdata="1">המעוברים בשנה משום דלא נראה לחכמים</row>
+		<row row_number="10" isdata="1">לחסר יתר על שמונה מאי שנא תשעה דלא</row>
+		<row row_number="11" isdata="1">דאם כן מייתרא סיהרא תלתא יומי השתא</row>
+		<row row_number="12" isdata="1">נמי קא מייתרא תרי יומי כדאמר רב משרשיא</row>
+		<row row_number="13" isdata="1">כגון שהיתה שנה מעוברת הכא נמי כגון</row>
+		<row row_number="14" isdata="1">שהיתה שנה שלפניה מעוברת דל ירחא</row>
+		<row row_number="15" isdata="1">חסירא בהדי ירחא מליא ואכתי איכא חד</row>
+		<row row_number="16" isdata="1">יומא סברי איתחזויי איתחזי ואנן לאו אדעתין</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:42.181539</dateCreated>
+   <lastModified>2020-01-14 15:02:42.181539</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="25">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אין צדין"/><ContGemara/>חוץ לתחום אסור והבא בשביל ישראל זה</row>
+		<row row_number="2" isdata="1">מותר לישראל אחר אמר רבה בר רב הונא</row>
+		<row row_number="3" isdata="1">אמר רב הסוכר אמת המים מערב יום טוב</row>
+		<row row_number="4" isdata="1">ולמחר השכים ומצא בה דגים מותרין אמר</row>
+		<row row_number="5" isdata="1">רב חסדא מדברי רבינו נלמוד חיה שקננה</row>
+		<row row_number="6" isdata="1">בפרדס אינה צריכה זמון אמר רב נחמן נפל</row>
+		<row row_number="7" isdata="1">חברין ברברבתא איכא דאמרי אמר רבה</row>
+		<row row_number="8" isdata="1">בר רב הונא מדברי רבינו נלמוד חיה שקננה</row>
+		<row row_number="9" isdata="1">בפרדס אינה צריכה זמון אמר רב נחמן נפל</row>
+		<row row_number="10" isdata="1">בר חברין ברברבתא התם לא קא עביד</row>
+		<row row_number="11" isdata="1">מעשה הכא קא עביד מעשה ולא בעיא</row>
+		<row row_number="12" isdata="1">זמון והתניא חיה שקננה בפרדס צריכה</row>
+		<row row_number="13" isdata="1">לזמן וצפור דרור צריך לקשור בכנפיה כדי</row>
+		<row row_number="14" isdata="1">שלא תתחלף באמה וזו עדות שהעידו מפי</row>
+		<row row_number="15" isdata="1">שמעיה ואבטליון תיובתא ומי בעיא זמון</row>
+		<row row_number="16" isdata="1">והתניא אמר ר"ש בן אלעזר מודים בית</row>
+		<row row_number="17" isdata="1">שמאי ובית הלל על שהזמינן בתוך הקן</row>
+		<row row_number="18" isdata="1">ומצא לפני הקן שאסורין במה דברים אמורים</row>
+		<row row_number="19" isdata="1">ביוני שובך ויוני עליה וצפרים שקננו</row>
+		<row row_number="20" isdata="1">בטפיחין ובבירה אבל אווזים ותרנגולים ויוני</row>
+		<row row_number="21" isdata="1">הרדסיאות וחיה שקננה בפרדס מותרין ואין</row>
+		<row row_number="22" isdata="1">צריכין זמון וצפור דרור צריכה לקשר בכנפיה</row>
+		<row row_number="23" isdata="1">כדי שלא תתחלף באמה והמקושרים</row>
+		<row row_number="24" isdata="1">והמנוענעין בבורות ובבתים ובשיחין</row>
+		<row row_number="25" isdata="1">ובמערות מותרין ובאילנות אסורין שמא יעלה ויתלוש והמקושרין והמנוענעין</row>
+		<row row_number="26" isdata="1">בכל מקום אסורין משום גזל אמר רב נחמן לא קשיא הא בה הא באמה אמה</row>
+		<row row_number="27" isdata="1">בזמון סגי לה צידה מעליותא בעיא אלא אמר ר"נ בר יצחק אידי ואידי</row>
+		<row row_number="28" isdata="1">בדידה הא בגנה הסמוכה לעיר הא בגנה שאינה סמוכה<EndGemara/><StartMishna/>מתני' בהמה</row>
+		<row row_number="29" isdata="1">מסוכנת לא ישחוט אלא אם כן יש שהות ביום לאכול ממנה כזית צלי ר"ע</row>
+		<row row_number="30" isdata="1">אומר אפילו כזית חי מבית טביחתה שחטה בשדה לא יביאנה במוט</row>
+		<row row_number="31" isdata="1">ובמוטה אבל מביא בידו אברים אברים:<EndMishna/><StartGemara/>גמ' אמר רמי בר אבא הפשט</row>
+		<row row_number="32" isdata="1">ונתוח בעולה והוא הדין לקצבים מכאן למדה תורה דרך ארץ שלא</row>
+		<row row_number="33" isdata="1">יאכל אדם בשר קודם הפשט ונתוח (לאפוקי) מאי קמ"ל אילימא לאפוקי</row>
+		<row row_number="34" isdata="1">מדרב הונא דאמר רב הונא בהמה בחייה בחזקת איסור עומדת עד</row>
+		<row row_number="35" isdata="1">שיודע לך במה נשחטה נשחטה בחזקת היתר עומדת עד שיודע לך</row>
+		<row row_number="36" isdata="1">במה נטרפה והאנן תנן מתניתין כדרב הונא דתנן ר"ע אומר אפילו כזית</row>
+		<row row_number="37" isdata="1">חי מבית טביחתה מאי לאו מבית טביחתה ממש לא ממקום שטובחת</row>
+		<row row_number="38" isdata="1">אכילתה והא תני רבי חייא מקום טביחתה ממש אלא רמי בר אבא</row>
+</amud>
+</daf>
+</masechet>
+</root>

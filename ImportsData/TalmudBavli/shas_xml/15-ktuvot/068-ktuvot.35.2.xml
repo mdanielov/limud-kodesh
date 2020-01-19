@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:55.278119</dateCreated>
+   <lastModified>2020-01-14 15:02:55.278119</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="35">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו נערות"/><ContGemara/>סוף סוף לאו בר תשלומין הוא לא צריכא</row>
+		<row row_number="2" isdata="1">דבהדי דמחייה קרע שיראין דיליה א"ל רב</row>
+		<row row_number="3" isdata="1">חייא לרבא ולתנא דבי חזקיה דאמר מכה</row>
+		<row row_number="4" isdata="1">אדם ומכה בהמה ממאי דבחול כתיב וליכא</row>
+		<row row_number="5" isdata="1">לאיפלוגי דלמא בשבת כתיב דבבהמה</row>
+		<row row_number="6" isdata="1">גופה איכא לאיפלוגי לא ס"ד דכתיב ומכה</row>
+		<row row_number="7" isdata="1">בהמה ישלמנה ומכה אדם יומת היכי דמי</row>
+		<row row_number="8" isdata="1">אי דלא אתרו ביה מכה אדם אמאי יומת אלא</row>
+		<row row_number="9" isdata="1">פשיטא דאתרו ביה ואי בשבת מכה בהמה</row>
+		<row row_number="10" isdata="1">ישלמנה אלא לאו בחול א"ל רב פפא לאביי</row>
+		<row row_number="11" isdata="1">לרבה דאמר חידוש הוא שחידשה תורה</row>
+		<row row_number="12" isdata="1">בקנס ואף על גב דמיקטיל משלם מתניתין</row>
+		<row row_number="13" isdata="1">כמאן מוקים לה אי כר"מ קשיא בתו אי כרבי</row>
+		<row row_number="14" isdata="1">נחוניא בן הקנה קשיא אחותו אי כר' יצחק</row>
+		<row row_number="15" isdata="1">קשיא ממזרת הניחא אי סבר לה כר' יוחנן</row>
+		<row row_number="16" isdata="1">הוא נמי מתרץ לה כר' יוחנן אלא אי סבר</row>
+		<row row_number="17" isdata="1">כר"ל היכי מתרץ לה על כרחך כר' יוחנן</row>
+		<row row_number="18" isdata="1">ס"ל א"ל רב מתנא לאביי לר"ל דאמר</row>
+		<row row_number="19" isdata="1">בפירוש ריבתה תורה חייבי מלקיות כחייבי</row>
+		<row row_number="20" isdata="1">מיתות מאן תנא דפליג עליה דרבי נחוניא בן</row>
+		<row row_number="21" isdata="1">הקנה אי ר"מ אי רבי יצחק: ת"ר עריות ושניות</row>
+		<row row_number="22" isdata="1">לעריות אין להן לא קנס ולא פיתוי הממאנת</row>
+		<row row_number="23" isdata="1">אין לה לא קנס ולא פיתוי איילונית אין לה</row>
+		<row row_number="24" isdata="1">לא קנס ולא פיתוי והיוצאת משום שם רע</row>
+		<row row_number="25" isdata="1">אין לה לא קנס ולא פיתוי מאי עריות</row>
+		<row row_number="26" isdata="1">ומאי שניות לעריות אילימא עריות</row>
+</amud>
+</daf>
+</masechet>
+</root>

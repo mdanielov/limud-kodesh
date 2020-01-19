@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:09.402337</dateCreated>
+   <lastModified>2020-01-14 15:04:09.402337</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="102">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המנחות והנסכים"/><ContGemara/>ירעה עד שיסתאב וימכר ויפלו דמיו לנדבה</row>
+		<row row_number="2" isdata="1">ר' אליעזר אומר יקריב שאם אינו בא על חטא</row>
+		<row row_number="3" isdata="1">זה הרי הוא בא על חטא אחר משנשחט נודע</row>
+		<row row_number="4" isdata="1">לו הדם ישפך והבשר ישרף נזרק הדם הבשר</row>
+		<row row_number="5" isdata="1">יאכל ורבי יוסי אומר אפי' הדם בכוס יזרק</row>
+		<row row_number="6" isdata="1">והבשר יאכל ואמר רבא רבי יוסי בשיטת</row>
+		<row row_number="7" isdata="1">ר"ש אמר דאמר כל העומד לזרוק כזרוק דמי</row>
+		<row row_number="8" isdata="1">מידי הוא טעמא אמרי במערבא משמיה</row>
+		<row row_number="9" isdata="1">דרבי יוסי בר חנינא היינו טעמא דר' יוסי</row>
+		<row row_number="10" isdata="1">דקסבר כלי שרת מקדשין את הפסולין</row>
+		<row row_number="11" isdata="1">לכתחילה ליקרב אמר ליה רב אשי לרב כהנא</row>
+		<row row_number="12" isdata="1">מדאמר רבי שמעון כל העומד לזרוק</row>
+		<row row_number="13" isdata="1">כזרוק דמי כל העומד לשרוף נמי כשרוף</row>
+		<row row_number="14" isdata="1">דמי נותר ופרה אמאי מטמאין טומאת אוכלין</row>
+		<row row_number="15" isdata="1">עפרא בעלמא נינהו א"ל חיבת הקודש</row>
+		<row row_number="16" isdata="1">מכשרתן אמר ליה רבינא לרב אשי נהי</row>
+		<row row_number="17" isdata="1">דמהניא להו חיבת הקודש לאיפסולי דגופיה</row>
+		<row row_number="18" isdata="1">ליקרויי טמא נמי למימני ביה ראשון ושני</row>
+		<row row_number="19" isdata="1">תפשוט דבעי ריש לקיש צריד של מנחות</row>
+		<row row_number="20" isdata="1">מונין בו ראשון ושני או אין מונין בו ראשון</row>
+		<row row_number="21" isdata="1">ושני כי מיבעיא ליה לריש לקיש דאורייתא</row>
+		<row row_number="22" isdata="1">כי קאמרינן דרבנן<EndGemara/><StartMishna/>מתני' האומר הרי עלי</row>
+		<row row_number="23" isdata="1">במחבת והביא במרחשת במרחשת והביא</row>
+		<row row_number="24" isdata="1">במחבת מה שהביא הביא וידי חובתו לא יצא</row>
+		<row row_number="25" isdata="1">זו להביא במחבת והביא במרחשת במרחשת</row>
+		<row row_number="26" isdata="1">והביא במחבת הרי זו פסולה האומר הרי עלי</row>
+		<row row_number="27" isdata="1">שני עשרונות להביא בכלי אחד והביא בשני</row>
+		<row row_number="28" isdata="1">כלים בשני כלים והביא בכלי אחד מה</row>
+		<row row_number="29" isdata="1">שהביא הביא וידי חובתו לא יצא אלו בכלי</row>
+		<row row_number="30" isdata="1">אחד והביא בשני כלים בשני כלים והביא</row>
+		<row row_number="31" isdata="1">בכלי אחד הרי אלו פסולין הרי עלי שני</row>
+		<row row_number="32" isdata="1">עשרונות להביא בכלי אחד והביא בשני</row>
+		<row row_number="33" isdata="1">כלים אמרו לו בכלי אחד נדרת הקריבן בשני</row>
+		<row row_number="34" isdata="1">כלים פסולין בכלי אחד כשרין הרי עלי שני</row>
+		<row row_number="35" isdata="1">עשרונות להביא בשני כלים והביא בכלי</row>
+		<row row_number="36" isdata="1">אחד אמרו לו בשני כלים נדרת הקריבן בשני</row>
+		<row row_number="37" isdata="1">כלים כשרין נתנו לכלי אחד כשתי מנחות</row>
+		<row row_number="38" isdata="1">שנתערבו:<EndMishna/><StartGemara/>גמ' וצריכא דאי אשמעינן הך</row>
+		<row row_number="39" isdata="1">קמייתא משום דאמר במחבת וקא מייתי</row>
+		<row row_number="40" isdata="1">במרחשת אבל הכא דאידי ואידי במחבת</row>
+		<row row_number="41" isdata="1">ואידי ואידי במרחשת אימא ידי נדרו נמי יצא</row>
+		<row row_number="42" isdata="1">ואי אשמעינן הך משום דקא פליג להו אבל</row>
+		<row row_number="43" isdata="1">התם דלא פליג ביה אימא לא צריכא ת"ר</row>
+		<row row_number="44" isdata="1">מה שהביא הביא וידי נדרו לא יצא ר"ש</row>
+		<row row_number="45" isdata="1">אומר אף ידי נדרו נמי יצא: זו להביא במחבת: והא תניא לא קידשום כלי</row>
+		<row row_number="46" isdata="1">שרת אמר אביי לא קידשום ליקרב אבל קידשום ליפסל ואמר אביי לא שנו</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:30.557491</dateCreated>
+   <lastModified>2020-01-14 15:02:30.557491</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="91">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה"/><ContMishna/>והמפקח את הגל וכן מי שהבטיחוהו</row>
+		<row row_number="2" isdata="1">להוציאו מבית האסורים והחולה והזקן שהן</row>
+		<row row_number="3" isdata="1">יכולין לאכול כזית שוחטין עליהן על כולם</row>
+		<row row_number="4" isdata="1">אין שוחטין עליהן בפני עצמן שמא יביאו</row>
+		<row row_number="5" isdata="1">את הפסח לידי פסול לפיכך אם אירע בהן</row>
+		<row row_number="6" isdata="1">פסול פטורין מלעשות פסח שני חוץ</row>
+		<row row_number="7" isdata="1">מן המפקח בגל שהוא טמא מתחלתו:</row>
+		<row row_number="8" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רבה בר הונא א"ר יוחנן לא</row>
+		<row row_number="9" isdata="1">שנו אלא בית האסורין דעכו"ם אבל בית</row>
+		<row row_number="10" isdata="1">האסורין דישראל שוחטין בפני עצמו כיון</row>
+		<row row_number="11" isdata="1">דאבטחינהו מפיק ליה דכתיב שארית</row>
+		<row row_number="12" isdata="1">ישראל לא יעשו עולה ולא ידברו כזב אמר</row>
+		<row row_number="13" isdata="1">רב חסדא הא דאמרת בית האסורין דעכו"ם</row>
+		<row row_number="14" isdata="1">לא אמרן אלא חוץ לחומת בית פאגי אבל</row>
+		<row row_number="15" isdata="1">לפנים מחומת בית פאגי שוחטין עליו בפני</row>
+		<row row_number="16" isdata="1">עצמו מ"ט אפשר דאמטו ליה ואכיל ליה:</row>
+		<row row_number="17" isdata="1">לפיכך אם אירע וכו': אמר רבה בר בר</row>
+		<row row_number="18" isdata="1">חנה אמר ר' יוחנן לא שנו אלא גל עגול</row>
+		<row row_number="19" isdata="1">אבל גל ארוך פטור מלעשות פסח שני אימא טהור היה בשעת שחיטה</row>
+		<row row_number="20" isdata="1">תניא נמי הכי ר"ש בנו של רבי יוחנן בן ברוקה אומר מפקח בגל עתים</row>
+		<row row_number="21" isdata="1">פטור עתים חייב כיצד גל עגול ונמצאת טומאה תחתיו חייב גל ארוך</row>
+		<row row_number="22" isdata="1">ונמצאת טומאה תחתיו פטור אימא טהור היה בשעת שחיטה<EndGemara/><StartMishna/>מתני' אין</row>
+		<row row_number="23" isdata="1">שוחטין את הפסח על היחיד דברי רבי יהודה ורבי יוסי מתיר ואפילו</row>
+		<row row_number="24" isdata="1">חבורה של מאה שאינן יכולין לאכול כזית אין שוחטין עליהן ואין</row>
+		<row row_number="25" isdata="1">עושין חבורת נשים ועבדים וקטנים:<EndMishna/><StartGemara/>גמ' ת"ר מנין שאין שוחטין את הפסח</row>
+		<row row_number="26" isdata="1">על היחיד ת"ל לא תוכל לזבוח את הפסח באחד דברי ר' יהודה ורבי יוסי</row>
+		<row row_number="27" isdata="1">אומר יחיד ויכול לאכלו שוחטין עליו עשרה ואין יכולין לאכלו אין שוחטין</row>
+		<row row_number="28" isdata="1">עליהן ורבי יוסי האי באחד מאי עביד ליה מיבעי ליה לכדר"ש דתניא ר"ש</row>
+		<row row_number="29" isdata="1">אומר מניין לזובח את פסחו בבמת יחיד בשעת איסור הבמות שהוא בלא</row>
+		<row row_number="30" isdata="1">תעשה ת"ל לא תוכל לזבוח את הפסח באחד שעריך יכול אף בשעת היתר</row>
+		<row row_number="31" isdata="1">הבמות כן ת"ל באחד שעריך לא אמרו אלא בשעה שכל ישראל</row>
+		<row row_number="32" isdata="1">נכנסין בשער אחד ור"י האי מנא ליה תרתי שמעת מינה ולר' יוסי ממאי</row>
+		<row row_number="33" isdata="1">דלהכי דקאמר ר"ש דילמא כדקאמר ר' יהודה הוא דאתא אמר לך לא סלקא</row>
+		<row row_number="34" isdata="1">דעתך דהא כתיב איש לפי אכלו רמי ליה רב עוקבא בר חיננא מפרישנא</row>
+		<row row_number="35" isdata="1">לרבא מי א"ר יהודה אין שוחטין את הפסח על היחיד ורמינהו אשה</row>
+		<row row_number="36" isdata="1">בראשון שוחטין עליה בפני עצמה ובשני עושין אותה טפילה לאחרים</row>
+		<row row_number="37" isdata="1">דברי ר' יהודה א"ל לא תימא בפני עצמה אלא אימא בפני עצמן אמר ליה</row>
+		<row row_number="38" isdata="1">מי עבדינן חבורה שכולה נשים והתנן אין עושין חבורת נשים ועבדים וקטנים</row>
+		<row row_number="39" isdata="1">מאי לאו נשים לחודייהו ועבדים לחודייהו וקטנים לחודייהו אמר ליה</row>
+		<row row_number="40" isdata="1">לא נשים ועבדים וקטנים נשים ועבדים משום תפלות קטנים ועבדים משום</row>
+</amud>
+</daf>
+</masechet>
+</root>

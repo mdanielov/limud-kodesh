@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.335733</dateCreated>
+   <lastModified>2020-01-14 15:02:26.335733</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="37">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>אחד מכל קרבן אחד שלא יטול פרוס</row>
+		<row row_number="2" isdata="1">והכא כמאן דפריסא דמיא קמ"ל מיתיבי</row>
+		<row row_number="3" isdata="1">המעיסה בית שמאי פוטרין וב"ה מחייבין</row>
+		<row row_number="4" isdata="1">החליטה בית שמאי מחייבין ובית הלל</row>
+		<row row_number="5" isdata="1">פוטרין איזהו המעיסה ואיזהו החליטה</row>
+		<row row_number="6" isdata="1">המעיסה קמח שעל גבי מוגלשין החליטה</row>
+		<row row_number="7" isdata="1">מוגלשין שעל גבי קמח ר' ישמעאל ב"ר</row>
+		<row row_number="8" isdata="1">יוסי אומר משום אביו זה וזה לפטור</row>
+		<row row_number="9" isdata="1">ואמרי לה זה וזה לחיוב וחכמים אומרים</row>
+		<row row_number="10" isdata="1">אחד זה ואחד זה עשאן באילפס פטור</row>
+		<row row_number="11" isdata="1">בתנור חייב ותנא קמא מאי שנא המעיסה</row>
+		<row row_number="12" isdata="1">ומאי שנא חליטה אמר רב יהודה אמר</row>
+		<row row_number="13" isdata="1">שמואל וכן א"ר יהודה ואיתימא ר' יהושע</row>
+		<row row_number="14" isdata="1">בן לוי כמחלוקת בזו כך מחלוקת בזו ותברא</row>
+		<row row_number="15" isdata="1">מי ששנה זו לא שנה זו קתני מיהת וחכמים</row>
+		<row row_number="16" isdata="1">אומרים אחד זה ואחד זה שעשאן באילפס</row>
+		<row row_number="17" isdata="1">פטור בתנור חייב תיובתא דר' יוחנן אמר</row>
+		<row row_number="18" isdata="1">לך ר' יוחנן תנאי היא דתניא יכול יהא</row>
+		<row row_number="19" isdata="1">מעיסה וחלוטה חייבין בחלה ת"ל לחם ר'</row>
+		<row row_number="20" isdata="1">יהודה אומר אין לחם אלא האפוי בתנור</row>
+		<row row_number="21" isdata="1">ר' יהודה היינו תנא קמא אלא לאו מעשה</row>
+		<row row_number="22" isdata="1">אילפס איכא בינייהו תנא קמא סבר מעשה</row>
+		<row row_number="23" isdata="1">אילפס חייבין ור' יהודה סבר מעשה אילפס</row>
+		<row row_number="24" isdata="1">פטורין לא דכולי עלמא מעשה אילפס</row>
+		<row row_number="25" isdata="1">פטורין והכא כגון שחזר ואפאו בתנור קא</row>
+		<row row_number="26" isdata="1">מיפלגי דתנא קמא סבר כיון שחזר ואפאו</row>
+		<row row_number="27" isdata="1">בתנור לחם קרינן ביה ור' יהודה סבר</row>
+		<row row_number="28" isdata="1">אין לחם אלא האפוי בתנור מעיקרא וכיון</row>
+		<row row_number="29" isdata="1">דמעיקרא לאו בתנור אפייה לאו לחם הוא</row>
+		<row row_number="30" isdata="1">אמר רבא מאי טעמא דר' יהודה דכתיב</row>
+		<row row_number="31" isdata="1">ואפו עשר נשים לחמכם בתנור אחד לחם</row>
+		<row row_number="32" isdata="1">האפוי בתנור אחד קרוי לחם ושאין אפוי</row>
+		<row row_number="33" isdata="1">בתנור אחד אין קרוי לחם יתיב רבה ורב</row>
+		<row row_number="34" isdata="1">יוסף אחוריה דרבי זירא ויתיב ר' זירא קמיה</row>
+		<row row_number="35" isdata="1">דעולא אמר ליה רבה לר' זירא בעי מיניה</row>
+		<row row_number="36" isdata="1">מעולא הדביק מבפנים והרתיח מבחוץ מהו</row>
+		<row row_number="37" isdata="1">אמר ליה מאי אימא ליה דאי אמינא ליה אמר</row>
+		<row row_number="38" isdata="1">לי הי ניהו מעשה אילפס א"ל רב יוסף לרבי</row>
+		<row row_number="39" isdata="1">זירא בעו מיניה מעולא הדביק מבפנים ואבוקה</row>
+		<row row_number="40" isdata="1">כנגדו מהו אמר ליה מאי אימא ליה דאי</row>
+		<row row_number="41" isdata="1">אמינא ליה אמר לי רוב עניים עושין כן אמר</row>
+		<row row_number="42" isdata="1">רב אסי עיסה של מעשר שני לדברי ר' מאיר</row>
+		<row row_number="43" isdata="1">פטורה מן החלה לדברי חכמים חייבת בחלה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.262463</dateCreated>
+   <lastModified>2020-01-14 15:02:26.262463</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="36">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>האוכל נבלה ביום הכפורים פטור רבינא</row>
+		<row row_number="2" isdata="1">אמר אפילו תימא רבנן מי שאיסורו משום בל</row>
+		<row row_number="3" isdata="1">תאכל חמץ בלבד יצא זה שאין איסורו משום</row>
+		<row row_number="4" isdata="1">בל תאכל חמץ בלבד אלא אף משום בל</row>
+		<row row_number="5" isdata="1">תאכל טבל מידי בלבד כתיב אלא מחוורתא</row>
+		<row row_number="6" isdata="1">כדרב ששת ת"ר יכול יוצא אדם ידי חובתו</row>
+		<row row_number="7" isdata="1">במעשר שני בירושלים ת"ל לחם עוני מה</row>
+		<row row_number="8" isdata="1">שנאכל באנינות יצא זה שאינו נאכל באנינות</row>
+		<row row_number="9" isdata="1">אלא בשמחה דברי ר' יוסי הגלילי ר' עקיבא</row>
+		<row row_number="10" isdata="1">אומר מצות מצות ריבה אם כן מה ת"ל</row>
+		<row row_number="11" isdata="1">לחם עוני פרט לעיסה שנילושה ביין ושמן</row>
+		<row row_number="12" isdata="1">ודבש מאי טעמא דר' עקיבא מי כתיב לחם</row>
+		<row row_number="13" isdata="1">עוני עני כתיב ור' יוסי הגלילי מי קרינן עני</row>
+		<row row_number="14" isdata="1">עוני קרינן ור' עקיבא האי דקרינן ביה עוני</row>
+		<row row_number="15" isdata="1">כדשמואל דאמר שמואל לחם עוני לחם</row>
+		<row row_number="16" isdata="1">שעונין עליו דברים הרבה וסבר ר"ע עיסה</row>
+		<row row_number="17" isdata="1">שנילושה ביין ושמן ודבש לא והתניא אין</row>
+		<row row_number="18" isdata="1">לשין עיסה בפסח ביין ושמן ודבש ואם לש</row>
+		<row row_number="19" isdata="1">רבן גמליאל אומר תשרף מיד וחכמים אומרים</row>
+		<row row_number="20" isdata="1">יאכל ואמר רבי עקיבא שבתי היתה אצל</row>
+		<row row_number="21" isdata="1">רבי אליעזר ורבי יהושע ולשתי להם עיסה</row>
+		<row row_number="22" isdata="1">ביין ושמן ודבש ולא אמרו לי דבר ואף על פי</row>
+		<row row_number="23" isdata="1">שאין לשין מקטפין בו אתאן לתנא קמא</row>
+		<row row_number="24" isdata="1">וחכמים אומרים את שלשין בו מקטפין בו</row>
+		<row row_number="25" isdata="1">ואת שאין לשין בו אין מקטפין בו ושוין</row>
+		<row row_number="26" isdata="1">שאין לשין את העיסה בפושרין לא קשיא הא</row>
+		<row row_number="27" isdata="1">ביום טוב ראשון הא ביום טוב שני כדאמר</row>
+		<row row_number="28" isdata="1">להו ר' יהושע לבניה יומא קמא לא תלושו</row>
+		<row row_number="29" isdata="1">לי בחלבא מכאן ואילך לושו לי בחלבא</row>
+		<row row_number="30" isdata="1">והתניא אין לשין את העיסה בחלב ואם לש</row>
+		<row row_number="31" isdata="1">כל הפת אסורה מפני הרגל עבירה אלא הכי</row>
+		<row row_number="32" isdata="1">קאמר יומא קמא לא תלושו לי בדובשא</row>
+		<row row_number="33" isdata="1">מכאן ואילך לושו לי בדובשא ואיבעית אימא לעולם בחלבא כדאמר רבינא</row>
+		<row row_number="34" isdata="1">כעין תורא שרי הכא נמי כעין תורא: ושוין שאין לשין את העיסה בפושרין:</row>
+		<row row_number="35" isdata="1">מאי שנא ממנחות דתנן כל המנחות נילושות בפושרין (ומשתמרין) שלא</row>
+		<row row_number="36" isdata="1">יחמצו אם אמרו בזריזין יאמרו בשאין זריזין אי הכי מילתת נמי לתית אלמה</row>
+		<row row_number="37" isdata="1">אמר רבי זירא אמר רבה בר ירמיה אמר שמואל חיטין של מנחות אין</row>
+		<row row_number="38" isdata="1">לותתין אותה לישה בזריזין איתא לתיתה ליתא בזריזין ולישה מי איתא</row>
+		<row row_number="39" isdata="1">בזריזין והכתיב ויצק עליה שמן וגו' והביאה אל הכהן מקמיצה</row>
+		<row row_number="40" isdata="1">ואילך מצות כהונה לימד על יציקה ובלילה שכשירה בכל אדם לישה נהי</row>
+		<row row_number="41" isdata="1">דבזריזין ליתא במקום זריזין איתא דאמר מר בלילה כשירה בזר חוץ לחומת</row>
+		<row row_number="42" isdata="1">עזרה פסולה לאפוקי לתיתה דאינה בזריזין ולא במקום זריזין ומאי שנא</row>
+		<row row_number="43" isdata="1">ממנחת העומר דתניא מנחת העומר לותתין אותה וצוברין אותה ציבור</row>
+		<row row_number="44" isdata="1">שאני תנו רבנן יכול יוצא אדם ידי חובתו בבכורים תלמוד לומר בכל</row>
+		<row row_number="45" isdata="1">מושבותיכם תאכלו מצות מצה הנאכלת בכל מושבותיכם יצאו בכורים</row>
+		<row row_number="46" isdata="1">שאין נאכלין בכל מושבותיכם אלא בירושלים דברי רבי יוסי הגלילי</row>
+		<row row_number="47" isdata="1">רבי עקיבא אומר מצה ומרור מה מרור שאינו בכורים אף מצה שאינה</row>
+		<row row_number="48" isdata="1">בכורים אי מה מרור שאין במינו בכורים אף מצה שאין במינה בכורים</row>
+</amud>
+</daf>
+</masechet>
+</root>

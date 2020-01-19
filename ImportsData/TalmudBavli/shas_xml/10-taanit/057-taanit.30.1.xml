@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:45.103012</dateCreated>
+   <lastModified>2020-01-14 15:02:45.103012</lastModified>
+ </meta>
+ <masechet name="תענית" serial="10">
+<daf value="30">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בשלשה פרקים "/><ContGemara/>מחגה ומ"ד כל החדש כולו אסור מחדשה</row>
+		<row row_number="2" isdata="1">ומ"ד כל השבת כולה אסור משבתה אמר</row>
+		<row row_number="3" isdata="1">רבא הלכה כרשב"ג ואמר רבא הלכה כרבי</row>
+		<row row_number="4" isdata="1">מאיר ותרוייהו לקולא וצריכא דאי אשמועינן</row>
+		<row row_number="5" isdata="1">הלכה כר' מאיר הוה אמינא אפי' מר"ח קמ"ל</row>
+		<row row_number="6" isdata="1">הלכה כרשב"ג ואי אשמועינן הלכה כרשב"ג</row>
+		<row row_number="7" isdata="1">הוה אמינא אפילו לאחריו קמ"ל הלכה כרבי</row>
+		<row row_number="8" isdata="1">מאיר: ערב תשעה באב לא יאכל אדם ב'</row>
+		<row row_number="9" isdata="1">תבשילין כו': אמר רב יהודה לא שנו אלא</row>
+		<row row_number="10" isdata="1">משש שעות ולמעלה אבל משש שעות</row>
+		<row row_number="11" isdata="1">ולמטה מותר ואמר רב יהודה לא שנו אלא</row>
+		<row row_number="12" isdata="1">בסעודה המפסיק בה אבל בסעודה שאינו</row>
+		<row row_number="13" isdata="1">מפסיק בה מותר ותרוייהו לקולא וצריכא דאי</row>
+		<row row_number="14" isdata="1">אשמעינן בסעודה המפסיק בה הוה אמינא</row>
+		<row row_number="15" isdata="1">אפי' משש שעות ולמטה קמ"ל משש</row>
+		<row row_number="16" isdata="1">שעות ולמעלה ואי אשמעינן משש שעות</row>
+		<row row_number="17" isdata="1">ולמעלה הוה אמינא אפי' בסעודה שאינו</row>
+		<row row_number="18" isdata="1">מפסיק בה קמ"ל בסעודה המפסיק בה תניא</row>
+		<row row_number="19" isdata="1">כלישנא קמא תניא כלישנא בתרא תניא</row>
+		<row row_number="20" isdata="1">כלישנא בתרא הסועד ערב תשעה באב אם</row>
+		<row row_number="21" isdata="1">עתיד לסעוד סעודה אחרת מותר לאכול בשר</row>
+		<row row_number="22" isdata="1">ולשתות יין ואם לאו אסור לאכול בשר</row>
+		<row row_number="23" isdata="1">ולשתות יין תניא כלישנא קמא ערב תשעה</row>
+		<row row_number="24" isdata="1">באב לא יאכל אדם שני תבשילין לא יאכל</row>
+		<row row_number="25" isdata="1">בשר ולא ישתה יין רבן שמעון בן גמליאל</row>
+		<row row_number="26" isdata="1">אומר ישנה אמר רבי יהודה כיצד משנה</row>
+		<row row_number="27" isdata="1">אם היה רגיל לאכול שני תבשילין יאכל מין</row>
+		<row row_number="28" isdata="1">אחד ואם היה רגיל לסעוד בעשרה בני אדם</row>
+		<row row_number="29" isdata="1">סועד בחמשה היה רגיל לשתות עשרה כוסות</row>
+		<row row_number="30" isdata="1">שותה חמשה כוסות במה דברים אמורים</row>
+		<row row_number="31" isdata="1">משש שעות ולמעלה אבל משש שעות</row>
+		<row row_number="32" isdata="1">ולמטה מותר תניא אידך ערב תשעה באב לא</row>
+		<row row_number="33" isdata="1">יאכל אדם שני תבשילין לא יאכל בשר ולא</row>
+		<row row_number="34" isdata="1">ישתה יין דברי ר"מ וחכ"א ישנה וממעט</row>
+		<row row_number="35" isdata="1">בבשר וביין כיצד ממעט אם היה רגיל לאכול</row>
+		<row row_number="36" isdata="1">ליטרא בשר יאכל חצי ליטרא היה רגיל</row>
+		<row row_number="37" isdata="1">לשתות לוג יין ישתה חצי לוג יין ואם אינו</row>
+		<row row_number="38" isdata="1">רגיל כל עיקר אסור רשב"ג אומר אם היה</row>
+		<row row_number="39" isdata="1">רגיל לאכול צנון או מליח אחר סעודתו הרשות בידו תניא אידך כל שהוא</row>
+		<row row_number="40" isdata="1">משום תשעה באב אסור לאכול בשר ואסור לשתות יין ואסור לרחוץ כל שאינו משום ט"ב מותר לאכול בשר</row>
+		<row row_number="41" isdata="1">ולשתות יין ואסור לרחוץ ר' ישמעאל בר' יוסי אומר משום אביו כל שעה שמותר לאכול בשר מותר לרחוץ</row>
+		<row row_number="42" isdata="1">ת"ר כל מצות הנוהגות באבל נוהגות בט' באב אסור באכילה ובשתיה ובסיכה ובנעילת הסנדל ובתשמיש</row>
+		<row row_number="43" isdata="1">המטה ואסור לקרות בתורה בנביאים ובכתובים ולשנות במשנה בתלמוד ובמדרש ובהלכות ובאגדות אבל</row>
+		<row row_number="44" isdata="1">קורא הוא במקום שאינו רגיל לקרות ושונה במקום שאינו רגיל לשנות וקורא בקינות באיוב ובדברים הרעים</row>
+		<row row_number="45" isdata="1">שבירמיה ותינוקות של בית רבן בטלין משום שנאמר פקודי ה' ישרים משמחי לב ר' יהודה אומר</row>
+		<row row_number="46" isdata="1">אף אינו קורא במקום שאינו רגיל לקרות ואינו שונה במקום שאינו רגיל לשנות אבל קורא הוא באיוב ובקינות</row>
+		<row row_number="47" isdata="1">ובדברים הרעים שבירמיהו ותינוקות של בית רבן בטלים בו משום שנאמר פקודי ה' ישרים משמחי לב:</row>
+		<row row_number="48" isdata="1">לא יאכל בשר ולא ישתה יין: תנא אבל אוכל הוא בשר מליח ושותה יין מגתו בשר מליח עד כמה</row>
+		<row row_number="49" isdata="1">אמר רב חיננא בר כהנא משמיה דשמואל כל זמן (שאינו) כשלמים ויין מגתו עד כמה כל זמן שהוא</row>
+		<row row_number="50" isdata="1">תוסס תנא יין תוסס אין בו משום גילוי וכמה תסיסתו ג' ימים אמר רב יהודה אמר רב כך</row>
+		<row row_number="51" isdata="1">היה מנהגו של רבי יהודה ברבי אילעאי ערב תשעה באב מביאין לו פת חריבה במלח ויושב</row>
+</amud>
+</daf>
+</masechet>
+</root>

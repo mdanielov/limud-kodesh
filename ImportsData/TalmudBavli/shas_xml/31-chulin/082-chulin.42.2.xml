@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:12.857062</dateCreated>
+   <lastModified>2020-01-14 15:04:12.857062</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="42">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו טרפות"/><ContGemara/>בשלמא לתנא דידן דתנא תנא ודשייר אתיא</row>
+		<row row_number="2" isdata="1">בזה הכלל אלא לתנא דבי ר' ישמעאל דאמר</row>
+		<row row_number="3" isdata="1">י"ח טרפות ותו ליכא והא איכא בהמה</row>
+		<row row_number="4" isdata="1">שנחתכו רגליה מן הארכובה ולמעלה טרפה</row>
+		<row row_number="5" isdata="1">סבר ליה כרבי שמעון בן אלעזר דאמר יכולה</row>
+		<row row_number="6" isdata="1">היא ליכוות ולחיות אע"ג דיכולה ליכוות</row>
+		<row row_number="7" isdata="1">ולחיות למאן קאמר לתנא דבי רבי ישמעאל</row>
+		<row row_number="8" isdata="1">תנא דבי ר' ישמעאל טרפה חיה ס"ל אלא סבר</row>
+		<row row_number="9" isdata="1">לה כר"ש בן אלעזר דאמר כשרה היא והאיכא</row>
+		<row row_number="10" isdata="1">חסרון בשדרה דתנן כמה חסרון בשדרה</row>
+		<row row_number="11" isdata="1">בש"א שתי חוליות וב"ה אומרים חוליא אחת</row>
+		<row row_number="12" isdata="1">ואמר רב יהודה אמר שמואל וכן לטרפה</row>
+		<row row_number="13" isdata="1">המסס ובית הכוסות דקא חשבת להו בתרתי</row>
+		<row row_number="14" isdata="1">חשבינהו בחדא אפיק חדא ועייל חדא והאיכא</row>
+		<row row_number="15" isdata="1">גלודה סבר לה כר"מ דמכשיר והא איכא</row>
+		<row row_number="16" isdata="1">חרותא מרה מאן קתני לה ר' יוסי ברבי יהודה</row>
+		<row row_number="17" isdata="1">אפיק מרה ועייל חרותא והאיכא שב שמעתתא</row>
+		<row row_number="18" isdata="1">דאמר רב מתנא האי בוקא דאטמא דשף</row>
+		<row row_number="19" isdata="1">מדוכתיה טרפה ואמר רכיש בר פפא</row>
+		<row row_number="20" isdata="1">משמיה דרב לקתה בכוליא אחת טרפה</row>
+		<row row_number="21" isdata="1">ותנן ניטל הטחול כשרה ואמר רב עוירא</row>
+		<row row_number="22" isdata="1">משמיה דרבא לא שנו אלא ניטל אבל ניקב</row>
+		<row row_number="23" isdata="1">טרפה ואמר רבה בר בר חנה אמר שמואל</row>
+		<row row_number="24" isdata="1">סימנים שנדלדלו ברובן טרפה ואמר רבה</row>
+		<row row_number="25" isdata="1">בר רב שילא אמר רב מתנא אמר שמואל</row>
+		<row row_number="26" isdata="1">נעקרה צלע מעיקרה טרפה וגולגולת</row>
+		<row row_number="27" isdata="1">שנחבסה ברובה ובשר החופה את רוב הכרס</row>
+		<row row_number="28" isdata="1">ברובו טרפה נקובי תמניא הוו חשבינהו</row>
+		<row row_number="29" isdata="1">בחד אפיק שב ועייל שב אי הכי פסוקי נמי</row>
+		<row row_number="30" isdata="1">תרי הוו חשבינהו בחד בצר להו חדא ועוד</row>
+		<row row_number="31" isdata="1">דרב עוירא משמיה דרבא נמי נקובה היא</row>
+</amud>
+</daf>
+</masechet>
+</root>

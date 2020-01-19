@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:13.253651</dateCreated>
+   <lastModified>2020-01-14 15:03:13.253651</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="11">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>עד שתכנס לחופה משום דעולא ובן בג בג</row>
+		<row row_number="2" isdata="1">סימפון בעבדים לית ליה אי מומין שבגלוי</row>
+		<row row_number="3" isdata="1">הוא הא קא חזי ליה אי משום מומין</row>
+		<row row_number="4" isdata="1">שבסתר מאי נפקא ליה מיניה למלאכה</row>
+		<row row_number="5" isdata="1">קא בעי ליה לא איכפת ליה נמצא גנב</row>
+		<row row_number="6" isdata="1">או קוביוסטוס הגיעו מאי אמרת לסטים</row>
+		<row row_number="7" isdata="1">מזויין או נכתב למלכות הנהו קלא אית</row>
+		<row row_number="8" isdata="1">להו מכדי בין למר ובין למר לא אכלה</row>
+		<row row_number="9" isdata="1">מאי בינייהו איכא בינייהו קיבל מסר והלך:</row>
+		<row row_number="10" isdata="1">בכסף ב"ש אומרים בדינר וכו': מאי טעמייהו</row>
+		<row row_number="11" isdata="1">דב"ש אמר רבי זירא שכן אשה מקפדת על</row>
+		<row row_number="12" isdata="1">עצמה ואין מתקדשת בפחות מדינר אמר ליה</row>
+		<row row_number="13" isdata="1">אביי אלא מעתה כגון בנתיה דר' ינאי דקפדן</row>
+		<row row_number="14" isdata="1">אנפשייהו ולא מקדשי בפחות מתרקבא</row>
+		<row row_number="15" isdata="1">דדינרי הכי נמי דאי פשטה ידה וקבלה חד</row>
+		<row row_number="16" isdata="1">זוזא מאחר הכי נמי דלא הוו קדושין א"ל</row>
+		<row row_number="17" isdata="1">פשטה ידה וקבלה לא קאמינא כי קאמינא</row>
+		<row row_number="18" isdata="1">דקדשה בליליא אי נמי דשויה שליח רב יוסף</row>
+		<row row_number="19" isdata="1">אמר טעמייהו דבית שמאי כדרב יהודה</row>
+		<row row_number="20" isdata="1">אמר רב אסי דאמר רב יהודה אמר רב</row>
+		<row row_number="21" isdata="1">אסי כל כסף האמור בתורה כסף צורי ושל</row>
+		<row row_number="22" isdata="1">דבריהם כסף מדינה: גופא אמר רב יהודה</row>
+		<row row_number="23" isdata="1">אמר רב אסי כל כסף האמור בתורה כסף</row>
+		<row row_number="24" isdata="1">צורי ושל דבריהם כסף מדינה: וכללא הוא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:49.431100</dateCreated>
+   <lastModified>2020-01-14 15:02:49.431100</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="26">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד אשת אחיו"/><ContGemara/>ברננה לא מפקינן ה"נ ברננה לא</row>
+		<row row_number="2" isdata="1">מפקינן<EndGemara/><StartMishna/>מתני' וכולם שהיו להם נשים</row>
+		<row row_number="3" isdata="1">ומתו מותרות לינשא להם וכולן שנישאו</row>
+		<row row_number="4" isdata="1">לאחרים ונתגרשו או שנתאלמנו מותרות</row>
+		<row row_number="5" isdata="1">לינשא להם וכולן מותרות לבניהם או</row>
+		<row row_number="6" isdata="1">לאחיהם:<EndMishna/><StartGemara/>גמ' מתו אין נתגרשו לא אמר</row>
+		<row row_number="7" isdata="1">ליה רב הלל לרב אשי והתניא אפי' נתגרשו</row>
+		<row row_number="8" isdata="1">לא קשיא הא דהואי קטטה הא דלא הואי</row>
+		<row row_number="9" isdata="1">קטטה ואיבעית אימא הא והא דלא הואי</row>
+		<row row_number="10" isdata="1">קטטה ולא קשיא הא דארגיל הוא הא</row>
+		<row row_number="11" isdata="1">דארגילה היא: וכולן שנישאו וכו': קס"ד</row>
+		<row row_number="12" isdata="1">מיתה אמיתה וגירושין אגירושין נימא</row>
+		<row row_number="13" isdata="1">מתניתין דלא כרבי דאי כרבי האמר בתרי</row>
+		<row row_number="14" isdata="1">זימני הויא חזקה לא מיתה אגירושין</row>
+		<row row_number="15" isdata="1">וגירושין אמיתה: וכולן מותרות לבניהם</row>
+		<row row_number="16" isdata="1">או לאחיהם: מאי שנא מהא דתנן</row>
+		<row row_number="17" isdata="1">הנטען מן האשה אסור באמה ובבתה</row>
+		<row row_number="18" isdata="1">ובאחותה נשי לגבי נשי שכיחן דאזלן</row>
+		<row row_number="19" isdata="1">גברי לגבי גברי לא שכיחן אי נמי נשי דלא</row>
+		<row row_number="20" isdata="1">אסרן שכיבתן אהדדי לא קפדי אהדדי גברי</row>
+		<row row_number="21" isdata="1">דאסרן שכיבתן אהדדי קפדי אהדדי אי הכי אביו נמי לא מיבעיא קאמר לא</row>
+		<row row_number="22" isdata="1">מיבעי' אביו דבזיז בניה מיניה אבל בנו דלא בזיז אביו מיניה אימא לא קמ"ל:<EndChapter name = "כיצד אשת אחיו"/><EndGemara/></row>
+		<row row_number="23" isdata="0">הדרן עלך כיצד אשת אחיו</row>
+		<row row_number="24" isdata="1"><StartChapter name = "ארבעה אחין"/><StartMishna/>ארבעה אחין שנים מהם נשואים שתי אחיות ומתו הנשואים את האחיות</row>
+		<row row_number="25" isdata="1">הרי אלו חולצות ולא מתייבמות ואם קדמו וכנסו יוציאו רבי</row>
+		<row row_number="26" isdata="1">אליעזר אומר ב"ש אומרים יקיים וב"ה אומרי' יוציאו היתה אחת מהן אסור'</row>
+		<row row_number="27" isdata="1">על האחד איסור ערוה אסור בה ומותר באחות' והשני אסור בשתיהן איסור</row>
+		<row row_number="28" isdata="1">מצוה ואיסור קדושה חולצת ולא מתייבמת היתה אחת מהן אסורה על זה</row>
+		<row row_number="29" isdata="1">איסור ערוה והשניה אסורה על זה איסור ערוה האסורה לזה מותרת לזה</row>
+		<row row_number="30" isdata="1">והאסורה לזה מותרת לזה וזו היא שאמרו אחותה כשהיא יבמתה או</row>
+		<row row_number="31" isdata="1">חולצת או מתייבמת:<EndMishna/><StartGemara/>גמ' ש"מ יש זיקה דאי אין זיקה מכדי הני מתרי</row>
+		<row row_number="32" isdata="1">בתי קאתיין האי לייבם חדא והאי לייבם חדא לעולם אימא לך אין זיקה</row>
+		<row row_number="33" isdata="1">ומשום דקסבר אסור לבטל מצות יבמין דלמא אדמייבם חד מיית אידך</row>
+		<row row_number="34" isdata="1">וקמבטל מצות יבמין אי הכי תלתא נמי לא מיבעיא קאמרינן לא מיבעיא</row>
+		<row row_number="35" isdata="1">תלתא דודאי בטלה מצות יבמין אבל ד' למיתה לא חיישינן קמ"ל אי הכי</row>
+</amud>
+</daf>
+</masechet>
+</root>

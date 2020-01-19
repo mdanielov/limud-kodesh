@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:07.962104</dateCreated>
+   <lastModified>2020-01-14 15:02:07.962104</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="26">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שמתו"/><ContGemara/>אקמטרא ככלי בתוך כלי דמי. אמר רבי</row>
+		<row row_number="2" isdata="1">יהושע בן לוי ס"ת צריך לעשות לו מחיצה</row>
+		<row row_number="3" isdata="1">עשרה מר זוטרא איקלע לבי רב אשי</row>
+		<row row_number="4" isdata="1">חזייה לדוכתיה דמר בר רב אשי דמנח</row>
+		<row row_number="5" isdata="1">ביה ספר תורה ועביד ליה מחיצה עשרה</row>
+		<row row_number="6" isdata="1">אמר ליה כמאן כרבי יהושע בן לוי אימר</row>
+		<row row_number="7" isdata="1">דאמר רבי יהושע בן לוי דלית ליה ביתא</row>
+		<row row_number="8" isdata="1">אחרינא מר הא אית ליה ביתא אחרינא</row>
+		<row row_number="9" isdata="1">אמר ליה לאו אדעתאי: כמה ירחיק מהן</row>
+		<row row_number="10" isdata="1">ומן הצואה ארבע אמות: אמר רבא אמר</row>
+		<row row_number="11" isdata="1">רב סחורה אמר רב הונא לא שנו אלא</row>
+		<row row_number="12" isdata="1">לאחוריו אבל לפניו מרחיק מלא עיניו וכן</row>
+		<row row_number="13" isdata="1">לתפלה איני והא אמר רפרם בר פפא אמר</row>
+		<row row_number="14" isdata="1">רב חסדא עומד אדם כנגד בית הכסא</row>
+		<row row_number="15" isdata="1">ומתפלל הכא במאי עסקינן בבית הכסא</row>
+		<row row_number="16" isdata="1">שאין בו צואה איני והאמר רב יוסף בר</row>
+		<row row_number="17" isdata="1">חנינא בית הכסא שאמרו אע"פ שאין בו</row>
+		<row row_number="18" isdata="1">צואה ובית המרחץ שאמרו אע"פ שאין בו</row>
+		<row row_number="19" isdata="1">אדם אלא הכא במאי עסקינן בחדתי והא</row>
+		<row row_number="20" isdata="1">מיבעי ליה לרבינא הזמינו לבית הכסא</row>
+		<row row_number="21" isdata="1">מהו יש זימון או אין זימון כי קא מיבעי</row>
+		<row row_number="22" isdata="1">ליה לרבינא למיקם עליה לצלויי בגויה</row>
+		<row row_number="23" isdata="1">אבל כנגדו לא אמר רבא הני בתי כסאי</row>
+		<row row_number="24" isdata="1">דפרסאי אע"ג דאית בהו צואה כסתומין</row>
+		<row row_number="25" isdata="1">דמו<EndGemara/><StartMishna/>מתני' זב שראה קרי ונדה שפלטה</row>
+		<row row_number="26" isdata="1">שכבת זרע והמשמשת שראתה נדה</row>
+		<row row_number="27" isdata="1">צריכין טבילה ורבי יהודה פוטר:</row>
+		<row row_number="28" isdata="1"><EndMishna/><StartGemara/>גמ' איבעיא להו בעל קרי שראה זיבה</row>
+		<row row_number="29" isdata="1">לר' יהודה מהו כי פטר רבי יהודה התם</row>
+		<row row_number="30" isdata="1">בזב שראה קרי דמעיקרא לאו בר טבילה</row>
+		<row row_number="31" isdata="1">הוא אבל בעל קרי שראה זיבה דמעיקרא</row>
+		<row row_number="32" isdata="1">בר טבילה הוא מחייב או דילמא לא שנא</row>
+		<row row_number="33" isdata="1">תא שמע המשמשת וראתה נדה צריכה</row>
+		<row row_number="34" isdata="1">טבילה ורבי יהודה פוטר והא משמשת</row>
+		<row row_number="35" isdata="1">וראתה נדה כבעל קרי שראה זיבה דמיא</row>
+		<row row_number="36" isdata="1">וקא פטר רבי יהודה ש"מ תני רבי חייא</row>
+		<row row_number="37" isdata="1">בהדיא בעל קרי שראה זיבה צריך טבילה</row>
+		<row row_number="38" isdata="1">ורבי יהודה פוטר:<EndChapter name = "מי שמתו"/><EndGemara/></row>
+		<row row_number="39" isdata="0">הדרן עלך מי שמתו</row>
+		<row row_number="40" isdata="1"><StartChapter name = "תפלת השחר"/><StartMishna/>תפלת השחר עד חצות ר' יהודה אומר</row>
+		<row row_number="41" isdata="1">עד ד' שעות תפלת המנחה עד</row>
+		<row row_number="42" isdata="1">הערב רבי יהודה אומר עד פלג המנחה</row>
+		<row row_number="43" isdata="1">תפלת הערב אין לה קבע ושל מוספים כל היום (ר' יהודה אומר עד</row>
+		<row row_number="44" isdata="1">ז' שעות):<EndMishna/><StartGemara/>גמ' ורמינהו מצותה עם הנץ החמה כדי שיסמוך גאולה</row>
+		<row row_number="45" isdata="1">לתפלה ונמצא מתפלל ביום כי תניא ההיא לותיקין דא"ר יוחנן ותיקין היו</row>
+		<row row_number="46" isdata="1">גומרים אותה עם הנץ החמה וכ"ע עד חצות ותו לא והאמר רב מרי בריה דרב</row>
+		<row row_number="47" isdata="1">הונא בריה דר' ירמיה בר אבא אמר רבי יוחנן טעה ולא התפלל ערבית מתפלל בשחרית שתים שחרית</row>
+		<row row_number="48" isdata="1">מתפלל במנחה שתים כולי יומא מצלי ואזיל עד חצות יהבי ליה שכר תפלה בזמנה מכאן ואילך שכר</row>
+		<row row_number="49" isdata="1">תפלה יהבי ליה שכר תפלה בזמנה לא יהבי ליה איבעיא להו טעה ולא התפלל מנחה מהו שיתפלל</row>
+		<row row_number="50" isdata="1">ערבית ב' את"ל טעה ולא התפלל ערבית מתפלל שחרית ב' משום דחד יומא הוא דכתיב ויהי ערב</row>
+		<row row_number="51" isdata="1">ויהי בקר יום אחד אבל הכא תפלה במקום קרבן היא וכיון דעבר יומו בטל קרבנו או דילמא כיון דצלותא</row>
+		<row row_number="52" isdata="1">רחמי היא כל אימת דבעי מצלי ואזיל ת"ש דאמר רב הונא בר יהודה א"ר יצחק א"ר יוחנן טעה ולא</row>
+		<row row_number="53" isdata="1">התפלל מנחה מתפלל ערבית ב' ואין בזה משום דעבר יומו בטל קרבנו מיתיבי מעות לא יוכל לתקון</row>
+		<row row_number="54" isdata="1">וחסרון לא יוכל להמנות מעות לא יוכל לתקון זה שבטל ק"ש של ערבית וק"ש של שחרית או תפלה של</row>
+		<row row_number="55" isdata="1">ערבית או תפלה של שחרית וחסרון לא יוכל להמנות זה שנמנו חביריו לדבר מצוה ולא נמנה עמהם א"ר</row>
+		<row row_number="56" isdata="1">יצחק א"ר יוחנן הכא במאי עסקינן שבטל במזיד אמר רב אשי דיקא נמי דקתני בטל ולא קתני טעה ש"מ:</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:18.201994</dateCreated>
+   <lastModified>2020-01-14 15:02:18.201994</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="143">
+	<amud value="2">
+		<row row_number="1" isdata="1"><StartChapter name = "חבית"/><StartMishna/><ContChapter name = "חבית"/><ContMishna/>חבית שנשברה מצילין הימנה מזון</row>
+		<row row_number="2" isdata="1">שלש סעודות ואומר לאחרים באו</row>
+		<row row_number="3" isdata="1">והצילו לכם ובלבד שלא יספוג אין סוחטין</row>
+		<row row_number="4" isdata="1">את הפירות להוציא מהן משקין ואם יצאו</row>
+		<row row_number="5" isdata="1">מעצמן אסורין ר' יהודה אומר אם לאוכלין</row>
+		<row row_number="6" isdata="1">היוצא מהן מותר ואם למשקין היוצא מהן</row>
+		<row row_number="7" isdata="1">אסור חלות דבש שריסקן מע"ש ויצאו מעצמן</row>
+		<row row_number="8" isdata="1">אסורין ורבי אליעזר מתיר:<EndMishna/><StartGemara/>גמ' תנא לא</row>
+		<row row_number="9" isdata="1">יספוג ביין ולא יטפח בשמן שלא יעשה</row>
+		<row row_number="10" isdata="1">כדרך שהוא עושה בחול ת"ר נתפזרו לו</row>
+		<row row_number="11" isdata="1">פירות בחצר מלקט על יד על יד ואוכל</row>
+		<row row_number="12" isdata="1">אבל לא לתוך הסל ולא לתוך הקופה שלא</row>
+		<row row_number="13" isdata="1">יעשה כדרך שהוא עושה בחול: אין סוחטין</row>
+		<row row_number="14" isdata="1">את הפירות: אמר רב יהודה אמר שמואל</row>
+		<row row_number="15" isdata="1">מודה היה רבי יהודה לחכמים בזיתים</row>
+		<row row_number="16" isdata="1">וענבים מ"ט כיון דלסחיטה נינהו יהיב</row>
+		<row row_number="17" isdata="1">דעתיה ועולא אמר רב חלוק היה ר' יהודה</row>
+		<row row_number="18" isdata="1">אף בזיתים וענבים ורבי יוחנן אמר הלכה</row>
+		<row row_number="19" isdata="1">כרבי יהודה בשאר פירות ואין הלכה כרבי</row>
+		<row row_number="20" isdata="1">יהודה בזיתים וענבים אמר רבה אמר רב</row>
+		<row row_number="21" isdata="1">יהודה אמר שמואל מודה היה רבי יהודה</row>
+		<row row_number="22" isdata="1">לחכמים בזיתים וענבים ומודים חכמים</row>
+		<row row_number="23" isdata="1">לרבי יהודה בשאר פירות א"ל רבי ירמיה</row>
+		<row row_number="24" isdata="1">לרבי אבא אלא במאי פליגי א"ל לכי תשכח</row>
+		<row row_number="25" isdata="1">אמר רב נחמן בר יצחק מסתברא בתותים</row>
+		<row row_number="26" isdata="1">ורמונים פליגי דתניא זיתים שמשך מהן</row>
+		<row row_number="27" isdata="1">שמן וענבים שמשך מהן יין והכניסן בין</row>
+		<row row_number="28" isdata="1">לאוכל בין למשקין היוצא מהן אסור תותים</row>
+		<row row_number="29" isdata="1">שמשך מהן מים ורמונים שמשך מהן יין</row>
+		<row row_number="30" isdata="1">והכניסן לאוכלין היוצא מהן מותר למשקין</row>
+		<row row_number="31" isdata="1">ולסתם היוצא מהן אסור דברי רבי יהודה</row>
+		<row row_number="32" isdata="1">וחכמים אומרים בין לאוכלין בין למשקין</row>
+		<row row_number="33" isdata="1">היוצא מהן אסור וסבר רבי יהודה סתם</row>
+		<row row_number="34" isdata="1">אסור והתנן חלב האשה מטמא לרצון</row>
+		<row row_number="35" isdata="1">ושלא לרצון חלב בהמה אינו מטמא אלא</row>
+		<row row_number="36" isdata="1">לרצון אמר ר' עקיבא קל וחומר הוא ומה</row>
+		<row row_number="37" isdata="1">חלב האשה שאינו מיוחד אלא לקטנים</row>
+		<row row_number="38" isdata="1">מטמא לרצון ושלא לרצון חלב הבהמה</row>
+		<row row_number="39" isdata="1">שמיוחד בין לקטנים בין לגדולים אינו</row>
+		<row row_number="40" isdata="1">דין שיטמא בין לרצון ובין שלא לרצון</row>
+		<row row_number="41" isdata="1">אמרו לו אם טמא חלב האשה שלא לרצון</row>
+		<row row_number="42" isdata="1">שדם מגפתה טמא יטמא חלב הבהמה</row>
+</amud>
+</daf>
+</masechet>
+</root>

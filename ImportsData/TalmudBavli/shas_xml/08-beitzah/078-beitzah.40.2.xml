@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:42.744499</dateCreated>
+   <lastModified>2020-01-14 15:02:42.744499</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="40">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "משילין פירות "/><ContGemara/>אלא גרוגרות וצמוקין בלבד איבעית אימא הני נמי</row>
+		<row row_number="2" isdata="1">כגרוגרות וצמוקין דמי ואיבעית אימא לדבריו דר"ש</row>
+		<row row_number="3" isdata="1">קאמר וליה לא ס"ל ואיבעית אימא לדבריהם דרבנן</row>
+		<row row_number="4" isdata="1">קאמר להו לדידי אין מוקצה אלא לדידכו אודו לי מיהת</row>
+		<row row_number="5" isdata="1">היכא דיוצאות ורועות בפסח ונכנסות ברביעה ראשונה</row>
+		<row row_number="6" isdata="1">דבייתות הן ואמרו ליה רבנן לא מדבריות הן:<EndChapter name = "משילין פירות "/><EndGemara/></row>
+		<row row_number="7" isdata="0">הדרן עלך משילין פירות וסליקא מסכת ביצה</row>
+</amud>
+</daf>
+</masechet>
+</root>

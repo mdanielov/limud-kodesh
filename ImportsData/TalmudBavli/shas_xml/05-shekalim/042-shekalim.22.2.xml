@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:34.848187</dateCreated>
+   <lastModified>2020-01-14 15:02:34.848187</lastModified>
+ </meta>
+ <masechet name="שקלים" serial="05">
+<daf value="22">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "פרק כל הרוקין "/><ContGemara/>אמר קדשו והכא את אמר לא קדשו א"ל תמן</row>
+		<row row_number="2" isdata="1">לכך אין מקדישין לכתחלה לפי שמצוה להקריב</row>
+		<row row_number="3" isdata="1">מתרומה חדשה והיאך ה"ל ישנה והכא מאי אית</row>
+		<row row_number="4" isdata="1">לך למימר האי ישנה היא לגבי הקדשות אחרים</row>
+		<row row_number="5" isdata="1">וקינו של גר אינו צריך חדשה ואם הקדיש קדוש</row>
+		<row row_number="6" isdata="1">ויניחנה עד שיבנה בית המקדש שמא יבנה הבית כבראשונה ותתרם תרומת הלשכה</row>
+		<row row_number="7" isdata="1">מן החדשה בזמנה באחד בניסן והכא מאי אית לך רב המנונא ורב אדא בר אהבה בשם</row>
+		<row row_number="8" isdata="1">רב הלכה כר"ש (רב אדא ורב המנונא רב אדא בר אחוה בשם רב הלכה כר"ש):<EndChapter name = "פרק כל הרוקין "/><EndGemara/></row>
+		<row row_number="9" isdata="0">הדרן עלך פרק כל הרוקין וסליקא לה מסכת שקלים</row>
+</amud>
+</daf>
+</masechet>
+</root>

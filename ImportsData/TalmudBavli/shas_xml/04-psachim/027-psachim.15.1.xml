@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:25.284425</dateCreated>
+   <lastModified>2020-01-14 15:02:25.284425</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="15">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אור לארבעה עשר"/><ContGemara/>ומאי מדבריהם מדברי ר' חנינא סגן הכהנים</row>
+		<row row_number="2" isdata="1">אמר ריש לקיש משום בר קפרא מתניתין</row>
+		<row row_number="3" isdata="1">באב הטומאה דאורייתא וולד הטומאה</row>
+		<row row_number="4" isdata="1">דאורייתא ומאי מדבריהם מדברי ר"א ורבי</row>
+		<row row_number="5" isdata="1">יהושע הי ר' יהושע אילימא הא רבי יהושע</row>
+		<row row_number="6" isdata="1">דתנן חבית של תרומה שנולד לה ספק</row>
+		<row row_number="7" isdata="1">טומאה רבי אליעזר אומר אם היתה מונחת</row>
+		<row row_number="8" isdata="1">במקום התורפה יניחנה במקום המוצנע ואם</row>
+		<row row_number="9" isdata="1">היתה מגולה יכסנה רבי יהושע אומר אם</row>
+		<row row_number="10" isdata="1">היתה מונחת במקום המוצנע יניחנה במקום</row>
+		<row row_number="11" isdata="1">התורפה ואם היתה מכוסה יגלנה מי דמי</row>
+		<row row_number="12" isdata="1">התם גרמא בעלמא הכא בידים אלא הא ר'</row>
+		<row row_number="13" isdata="1">יהושע דתנן חבית של תרומה שנשברה</row>
+		<row row_number="14" isdata="1">בגת העליונה ותחתונה חולין טמאין מודה</row>
+		<row row_number="15" isdata="1">ר"א ורבי יהושע שאם יכול להציל ממנה</row>
+		<row row_number="16" isdata="1">רביעית בטהרה יציל ואם לאו ר"א אומר</row>
+		<row row_number="17" isdata="1">תרד ותטמא ואל יטמאנה ביד רבי יהושע</row>
+		<row row_number="18" isdata="1">אומר אף יטמאנה ביד אי הכי האי</row>
+		<row row_number="19" isdata="1">מדבריהם מדבריו מיבעי ליה ה"ק ממחלוקתן</row>
+		<row row_number="20" isdata="1">של ר"א ור"י למדנו דיקא נמי דקתני מודה</row>
+		<row row_number="21" isdata="1">ר"א ור' יהושע ש"מ וכן א"ר נחמן אמר רבה</row>
+		<row row_number="22" isdata="1">בר אבוה מתני' באב הטומאה דאורייתא</row>
+		<row row_number="23" isdata="1">וולד הטומאה דאורייתא ומאי מדבריהם</row>
+		<row row_number="24" isdata="1">מדברי ר"א ורבי יהושע איתיביה רבא לרב</row>
+		<row row_number="25" isdata="1">נחמן אמר רבי יוסי אין הנדון דומה לראיה</row>
+		<row row_number="26" isdata="1">שכשהעידו רבותינו על מה העידו אם על</row>
+		<row row_number="27" isdata="1">הבשר שנטמא בוולד הטומאה ששורפין</row>
+		<row row_number="28" isdata="1">אותו עם הבשר שנטמא באב הטומאה זה</row>
+		<row row_number="29" isdata="1">טמא וזה טמא אם על השמן שנפסל</row>
+		<row row_number="30" isdata="1">בטבול יום שמדליקין אותו בנר שנטמא</row>
+		<row row_number="31" isdata="1">בטמא מת זה פסול וזה טמא אף אנו</row>
+		<row row_number="32" isdata="1">מודים בתרומה שנטמאת בוולד הטומאה</row>
+		<row row_number="33" isdata="1">ששורפין אותה עם התרומה שנטמאת</row>
+		<row row_number="34" isdata="1">באב הטומאה אבל היאך נשרף התלויה</row>
+		<row row_number="35" isdata="1">עם הטמאה שמא יבא אליהו ויטהרנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

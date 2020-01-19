@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:37.603741</dateCreated>
+   <lastModified>2020-01-14 15:03:37.603741</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="163">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>הניחא לרב כהנא דמתני לה משמיה דשמואל</row>
+		<row row_number="2" isdata="1">שפיר אלא לרב טביומי דמתני לה משמיה</row>
+		<row row_number="3" isdata="1">דרב מאי איכא למימר קסבר כל כי האי</row>
+		<row row_number="4" isdata="1">גוונא אין מקיימין אותו מן האשרתא שבו</row>
+		<row row_number="5" isdata="1">אלא מן העדים שבו ורבי יוחנן אמר לא שנו</row>
+		<row row_number="6" isdata="1">אלא בין העדים לכתב אבל בין עדים</row>
+		<row row_number="7" isdata="1">לאשרתא אפילו שיטה אחת פסול מאי</row>
+		<row row_number="8" isdata="1">שנא בין עדים לאשרתא דלמא גייז לעילאי</row>
+		<row row_number="9" isdata="1">וכתב הוא ועדיו בשיטה אחת וקסבר שטר</row>
+		<row row_number="10" isdata="1">הבא הוא ועדיו בשיטה אחת כשר אי הכי</row>
+		<row row_number="11" isdata="1">בין עדים לכתב נמי דלמא גייז ליה לעילאי</row>
+		<row row_number="12" isdata="1">וכתב מאי דבעי וחתימי סהדי קא סבר</row>
+		<row row_number="13" isdata="1">שטר הבא הוא בשיטה אחת ועדיו בשיטה</row>
+		<row row_number="14" isdata="1">אחרת פסול וליחוש דלמא כתב הוא ועדיו</row>
+		<row row_number="15" isdata="1">בשיטה אחת ואמר אנא לרבות בעדים</row>
+		<row row_number="16" isdata="1">הוא דעבדי קסבר כל כי האי גוונא אין</row>
+		<row row_number="17" isdata="1">מקיימין אותו מן העדים שלמטה אלא</row>
+		<row row_number="18" isdata="1">מן העדים שלמעלה גופא אמר רב</row>
+		<row row_number="19" isdata="1">שטר הבא הוא ועדיו על המחק כשר</row>
+</amud>
+</daf>
+</masechet>
+</root>

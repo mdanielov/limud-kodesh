@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:18.308578</dateCreated>
+   <lastModified>2020-01-14 15:03:18.308578</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="29">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המניח"/><ContGemara/>ורבי יוחנן אמר לאחר נפילה מחלוקת אבל</row>
+		<row row_number="2" isdata="1">בשעת נפילה מאי דברי הכל פטור והא</row>
+		<row row_number="3" isdata="1">מדקאמר רבי יוחנן לקמן לא תימא מתניתין</row>
+		<row row_number="4" isdata="1">ר"מ היא דאמר נתקל פושע הוא מכלל דרבי</row>
+		<row row_number="5" isdata="1">מאיר מחייב אלא מאי דברי הכל חייב והא</row>
+		<row row_number="6" isdata="1">מדקאמר ר' יוחנן לקמן לא תימא מתניתין</row>
+		<row row_number="7" isdata="1">ר"מ היא דאמר נתקל פושע הוא מכלל</row>
+		<row row_number="8" isdata="1">דפטרי רבנן אלא הא קמ"ל דמפקיר נזקיו</row>
+		<row row_number="9" isdata="1">דהכא הוא דפטרי רבנן דאנוס הוא אבל</row>
+		<row row_number="10" isdata="1">מפקיר נזקיו דעלמא מחייבי איתמר מפקיר</row>
+		<row row_number="11" isdata="1">נזקיו רבי יוחנן ור"א חד אמר חייב וחד</row>
+		<row row_number="12" isdata="1">אמר פטור לימא מאן דמחייב כר"מ ומאן</row>
+		<row row_number="13" isdata="1">דפטר כרבנן אליבא דר"מ כ"ע לא פליגי כי</row>
+		<row row_number="14" isdata="1">פליגי אליבא דרבנן מאן דפטר כרבנן ומאן</row>
+		<row row_number="15" isdata="1">דמחייב אמר לך אנא דאמרי אפי' לרבנן עד</row>
+		<row row_number="16" isdata="1">כאן לא פטרי רבנן אלא במפקיר נזקיו דהכא</row>
+		<row row_number="17" isdata="1">משום דאנוס הוא אבל מפקיר נזקיו דעלמא</row>
+		<row row_number="18" isdata="1">מחייבי תסתיים דר"א הוא דאמר חייב דאמר</row>
+		<row row_number="19" isdata="1">רבי אלעזר משום רבי ישמעאל שני דברים</row>
+		<row row_number="20" isdata="1">אינן ברשותו של אדם ועשאן הכתוב כאילו</row>
+		<row row_number="21" isdata="1">הן ברשותו ואלו הן בור ברשות הרבים</row>
+		<row row_number="22" isdata="1">וחמץ משש [שעות] ולמעלה תסתיים ומי</row>
+		<row row_number="23" isdata="1">אמר רבי אלעזר הכי והא אמר רבי אלעזר</row>
+		<row row_number="24" isdata="1">איפכא דתנן ההופך את הגלל ברה"ר והוזק</row>
+		<row row_number="25" isdata="1">בהן אחר חייב בנזקו ואמר ר"א לא שנו</row>
+		<row row_number="26" isdata="1">אלא שנתכוין לזכות בהן אבל לא נתכוין</row>
+		<row row_number="27" isdata="1">לזכות בהן פטור אלמא מפקיר נזקיו פטור</row>
+		<row row_number="28" isdata="1">אמר רב אדא בר אהבה שהחזירה למקומה</row>
+		<row row_number="29" isdata="1">אמר רבינא משל דרב אדא בר אהבה למה</row>
+		<row row_number="30" isdata="1">הדבר דומה למוצא בור מגולה וכסהו וחזר</row>
+		<row row_number="31" isdata="1">וגילהו א"ל מר זוטרא בריה דרב מרי לרבינא</row>
+		<row row_number="32" isdata="1">מי דמי התם לא אסתלק להו מעשה</row>
+		<row row_number="33" isdata="1">ראשון הכא אסתלק להו מעשה ראשון הא</row>
+		<row row_number="34" isdata="1">לא דמי אלא למוצא בור מגולה וטממה</row>
+		<row row_number="35" isdata="1">וחזר וחפרה דאסתלקו להו מעשה ראשון</row>
+		<row row_number="36" isdata="1">וקיימא לה ברשותו אלא אמר רב אשי</row>
+		<row row_number="37" isdata="1">כשהפכה לפחות משלשה ומאי דוחקיה</row>
+		<row row_number="38" isdata="1">דר"א לאוקמיה כגון שהפכה לפחות מג'</row>
+		<row row_number="39" isdata="1">וטעמא דכי נתכוין לזכות בה הא אין מתכוין</row>
+		<row row_number="40" isdata="1">לזכות בה לא לוקמה למעלה מג' ואע"ג</row>
+		<row row_number="41" isdata="1">דלא נתכוין לזכות בה חייב אמר רבא מתני'</row>
+		<row row_number="42" isdata="1">קשיתיה מאי אריא הפך לתני הגביה אלא</row>
+		<row row_number="43" isdata="1">ש"מ כל הפך למטה משלשה הוא ומדרבי</row>
+		<row row_number="44" isdata="1">אלעזר אמר חייב ר' יוחנן אמר פטור ומי</row>
+		<row row_number="45" isdata="1">א"ר יוחנן הכי והתנן המצניע את הקוץ ואת הזכוכית והגודר גדרו</row>
+		<row row_number="46" isdata="1">בקוצים וגדר שנפל לרשות הרבים והוזק בהן אחר חייב בנזקו ואמר רבי</row>
+		<row row_number="47" isdata="1">יוחנן לא שנו אלא במפריח אבל במצמצם פטור מצמצם מאי טעמא פטור</row>
+		<row row_number="48" isdata="1">לאו משום דהויא ליה בור ברשותו מכלל דחיובא דבור ברשות הרבים</row>
+		<row row_number="49" isdata="1">הוא אלמא מפקיר נזקיו חייב לא לעולם אימא לך מפקיר נזקיו פטור ומצמצם</row>
+		<row row_number="50" isdata="1">מ"ט פטור משום דאתמר עלה אמר רב אחא בריה דרב איקא לפי שאין דרכן</row>
+		<row row_number="51" isdata="1">של בני אדם להתחכך בכתלים ומי אמר ר' יוחנן הכי והא א"ר יוחנן הלכה</row>
+		<row row_number="52" isdata="1">כסתם משנה ותנן החופר בור ברה"ר ונפל לתוכו שור או חמור ומת חייב אלא</row>
+		<row row_number="53" isdata="1">לעולם רבי יוחנן אמר חייב ומדרבי יוחנן אמר חייב ר"א אמר פטור והאמר ר"א</row>
+</amud>
+</daf>
+</masechet>
+</root>

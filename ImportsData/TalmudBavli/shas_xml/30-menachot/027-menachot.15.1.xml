@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:04.091811</dateCreated>
+   <lastModified>2020-01-14 15:04:04.091811</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="15">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הקומץ את המנחה"/><ContGemara/>רבנן סברי הציץ מרצה על אכילות ורבי</row>
+		<row row_number="2" isdata="1">יהודה סבר אין הציץ מרצה על אכילות א"ל</row>
+		<row row_number="3" isdata="1">רב הונא בריה דרב נתן לרב פפא והא עולין</row>
+		<row row_number="4" isdata="1">דהציץ מרצה על העולין ופליגי דתניא נטמא</row>
+		<row row_number="5" isdata="1">אחד מן הבזיכין רבי יהודה אומר שניהם</row>
+		<row row_number="6" isdata="1">יעשו בטומאה לפי שאין קרבן ציבור חלוק</row>
+		<row row_number="7" isdata="1">וחכמים אומרים הטמא בטומאתו והטהור</row>
+		<row row_number="8" isdata="1">בטהרתו ועוד אמר רב אשי ת"ש ר' יהודה</row>
+		<row row_number="9" isdata="1">אומר אפילו שבט אחד טמא וכל השבטים</row>
+		<row row_number="10" isdata="1">טהורין יעשו בטומאה לפי שאין קרבנות</row>
+		<row row_number="11" isdata="1">ציבור חלוק והכא מאי הציץ מרצה איכא</row>
+		<row row_number="12" isdata="1">ועוד האמר רבינא ת"ש נטמאת אחת מן</row>
+		<row row_number="13" isdata="1">החלות או אחת מן הסדרין רבי יהודה אומר</row>
+		<row row_number="14" isdata="1">שניהם יצאו לבית השריפה לפי שאין קרבן</row>
+		<row row_number="15" isdata="1">ציבור חלוק וחכמים אומרים הטמא בטומאתו</row>
+		<row row_number="16" isdata="1">והטהור יאכל ואם איתא לפי שאין הציץ</row>
+		<row row_number="17" isdata="1">מרצה על אכילות מיבעי ליה אלא א"ר יוחנן</row>
+		<row row_number="18" isdata="1">למוד ערוך הוא בפיו של רבי יהודה שאין</row>
+		<row row_number="19" isdata="1">קרבן ציבור חלוק<EndGemara/><StartMishna/>מתני' התודה מפגלת</row>
+		<row row_number="20" isdata="1">את הלחם והלחם אינו מפגל את התודה</row>
+		<row row_number="21" isdata="1">כיצד שחט את התודה לאכול ממנה למחר</row>
+		<row row_number="22" isdata="1">היא והלחם מפוגלין לאכול מן הלחם למחר</row>
+		<row row_number="23" isdata="1">הלחם מפוגל והתודה אינה מפוגלת הכבשים</row>
+		<row row_number="24" isdata="1">מפגלין את הלחם והלחם אינו מפגל את</row>
+		<row row_number="25" isdata="1">הכבשים כיצד השוחט את הכבשים לאכול</row>
+		<row row_number="26" isdata="1">מהן למחר הם והלחם מפוגלין לאכול את</row>
+		<row row_number="27" isdata="1">הלחם למחר הלחם מפוגל והכבשים אינן</row>
+		<row row_number="28" isdata="1">מפוגלין:<EndMishna/><StartGemara/>גמ' מ"ט אילימא משום דרב</row>
+		<row row_number="29" isdata="1">כהנא דאמר רב כהנא מנין ללחמי תודה</row>
+		<row row_number="30" isdata="1">שנקראו תודה שנאמר והקריב על זבח</row>
+		<row row_number="31" isdata="1">התודה חלות אי הכי איפכא נמי הא לא קשיא</row>
+		<row row_number="32" isdata="1">לחם איקרי תודה תודה לא איקרי לחם אלא</row>
+		<row row_number="33" isdata="1">הא דקתני הכבשים מפגלין את הלחם</row>
+		<row row_number="34" isdata="1">והלחם אינו מפגל את הכבשים לחם היכא</row>
+		<row row_number="35" isdata="1">אשכחן דאיקרי כבשים אלא (לאו) היינו</row>
+		<row row_number="36" isdata="1">טעמא לחם גלל תודה ואין תודה גלל דלחם</row>
+		<row row_number="37" isdata="1">לחם גלל דכבשים ואין כבשים גלל דלחם</row>
+		<row row_number="38" isdata="1">וצריכי דאי אשמעינן תודה התם הוא דכי</row>
+		<row row_number="39" isdata="1">מפגל בלחם לא מפגלא תודה משום דלא</row>
+		<row row_number="40" isdata="1">הוזקקו זה לזה בתנופה אבל כבשים דהוזקקו</row>
+		<row row_number="41" isdata="1">זה לזה בתנופה אימא כי מפגל בלחם ליפגלי</row>
+		<row row_number="42" isdata="1">נמי כבשים צריכא: בעא מיניה ר"א מרב</row>
+		<row row_number="43" isdata="1">השוחט את התודה לאכול כזית ממנה</row>
+		<row row_number="44" isdata="1">ומלחמה למחר מהו לאיפגולי תודה לא</row>
+		<row row_number="45" isdata="1">מיבעיא לי השתא כולו מלחמה לא מיפגלא</row>
+		<row row_number="46" isdata="1">ממנה ומלחמה מיבעיא כי קא מיבעיא לי</row>
+		<row row_number="47" isdata="1">לאיפגולי לחם מי מצטרפה תודה לאיפגולי</row>
+		<row row_number="48" isdata="1">ללחם או לא אמר ליה אף בזו הלחם מפוגל</row>
+		<row row_number="49" isdata="1">והתודה אינה מפוגלת ואמאי לימא קל וחומר</row>
+		<row row_number="50" isdata="1">ומה (תודה) המפגל אין מתפגל הבא לפגל ולא פיגל אינו דין שלא</row>
+		<row row_number="51" isdata="1">יתפגל ומי אמרינן קל וחומר כי האי גוונא והתניא מעשה באחד</row>
+</amud>
+</daf>
+</masechet>
+</root>

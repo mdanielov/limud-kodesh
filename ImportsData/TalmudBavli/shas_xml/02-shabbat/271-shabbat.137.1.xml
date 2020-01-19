@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:17.804964</dateCreated>
+   <lastModified>2020-01-14 15:02:17.804964</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="137">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "רבי אליעזר דמילה"/><ContGemara/>וסתם ספרא רבי יהודה אמר רב נחמן</row>
+		<row row_number="2" isdata="1">בר יצחק אף אנן נמי תנינא הכל כשרים</row>
+		<row row_number="3" isdata="1">לקדש חוץ מחש"ו רבי יהודה מכשיר בקטן</row>
+		<row row_number="4" isdata="1">ופוסל באשה ואנדרוגינוס ש"מ ומאי שנא</row>
+		<row row_number="5" isdata="1">מילה משום דכתיב המול לכם כל זכר:</row>
+		<row row_number="6" isdata="1"><EndGemara/><StartMishna/>מתני' מי שהיו לו שני תינוקות אחד למול</row>
+		<row row_number="7" isdata="1">אחר השבת ואחד למול בשבת ושכח ומל</row>
+		<row row_number="8" isdata="1">את של אחר השבת בשבת חייב אחד למול</row>
+		<row row_number="9" isdata="1">בע"ש ואחד למול בשבת ושכח ומל את של</row>
+		<row row_number="10" isdata="1">ע"ש בשבת רבי אליעזר מחייב חטאת ורבי</row>
+		<row row_number="11" isdata="1">יהושע פוטר:<EndMishna/><StartGemara/>גמ' רב הונא מתני חייב</row>
+		<row row_number="12" isdata="1">רב יהודה מתני פטור רב הונא מתני חייב</row>
+		<row row_number="13" isdata="1">דתניא אמר ר"ש בן אלעזר לא נחלקו רבי</row>
+		<row row_number="14" isdata="1">אלעזר ור' יהושע על מי שהיו לו ב' תינוקות</row>
+		<row row_number="15" isdata="1">אחד למול בשבת ואחד למול אחר השבת</row>
+		<row row_number="16" isdata="1">ושכח ומל את של אחר השבת בשבת</row>
+		<row row_number="17" isdata="1">שהוא חייב על מה נחלקו על מי שהיו לו</row>
+		<row row_number="18" isdata="1">ב' תינוקות א' למול בע"ש וא' למול בשבת</row>
+		<row row_number="19" isdata="1">ושכח ומל את של ע"ש בשבת שר' אליעזר</row>
+		<row row_number="20" isdata="1">מחייב חטאת ורבי יהושע פוטר ושניהם לא</row>
+		<row row_number="21" isdata="1">למדוה אלא מעבודת כוכבים ר' אליעזר סבר</row>
+		<row row_number="22" isdata="1">כעבודת כוכבים מה עבודת כוכבים אמר רחמנא לא תעביד וכי עביד</row>
+		<row row_number="23" isdata="1">מיחייב ה"נ לא שנא ורבי יהושע התם דלאו מצוה הכא מצוה רב יהודה</row>
+		<row row_number="24" isdata="1">מתני פטור דתניא א"ר מאיר לא נחלקו ר"א ורבי יהושע על מי שהיו לו</row>
+		<row row_number="25" isdata="1">ב' תינוקות אחד למול בע"ש ואחד למול בשבת ושכח ומל את של ע"ש</row>
+		<row row_number="26" isdata="1">בשבת שהוא פטור על מה נחלקו על מי שהיו לו ב' תינוקות אחד למול</row>
+		<row row_number="27" isdata="1">אחר השבת וא' למול בשבת ושכח ומל את של אחר השבת בשבת שר"א</row>
+		<row row_number="28" isdata="1">מחייב חטאת ורבי יהושע פוטר ושניהם לא למדוה אלא מעבודת כוכבים</row>
+		<row row_number="29" isdata="1">ר"א סבר כעבודת כוכבים מה עבודת כוכבים אמר רחמנא לא תעביד וכי</row>
+		<row row_number="30" isdata="1">עביד מיחייב ה"נ לא שנא ור' יהושע התם לא טריד מצוה הכא טריד מצוה</row>
+		<row row_number="31" isdata="1">תני ר' חייא אומר היה ר"מ לא נחלקו רבי אלעזר ורבי יהושע על מי שהיו</row>
+		<row row_number="32" isdata="1">לו ב' תינוקות א' למול בע"ש וא' למול בשבת ושכח ומל את של ע"ש בשבת</row>
+		<row row_number="33" isdata="1">שהוא חייב על מה נחלקו על מי שהיו לו ב' תינוקות א' למול אחר השבת</row>
+		<row row_number="34" isdata="1">וא' למול בשבת ושכח ומל של אחר השבת בשבת שר"א מחייב חטאת ור'</row>
+		<row row_number="35" isdata="1">יהושע פוטר השתא רבי יהושע סיפא דלא קא עביד מצוה פוטר רישא דקא</row>
+		<row row_number="36" isdata="1">עביד מצוה מחייב אמרי דבי ר' ינאי רישא כגון שקדם ומל של שבת בע"ש</row>
+		<row row_number="37" isdata="1">דלא ניתנה שבת לידחות סיפא ניתנה שבת לידחות א"ל רב אשי לרב כהנא</row>
+		<row row_number="38" isdata="1">רישא נמי ניתנה שבת לידחות לגבי תינוקות דעלמא להאי גברא מיהא לא</row>
+		<row row_number="39" isdata="1">איתיהיב<EndGemara/><StartMishna/>מתני' קטן נימול לשמנה לתשעה ולעשרה ולאחד עשר ולי"ב</row>
+		<row row_number="40" isdata="1">לא פחות ולא יותר הא כיצד כדרכו לשמנה נולד לבין השמשות נימול לט'</row>
+		<row row_number="41" isdata="1">ביה"ש של ע"ש נימול לעשרה יו"ט לאחר השבת נימול לאחד עשר ב' ימים של</row>
+		<row row_number="42" isdata="1">ר"ה נימול לשנים עשר קטן החולה אין מוהלין אותו עד שיבריא:<EndMishna/><StartGemara/>גמ' אמר</row>
+		<row row_number="43" isdata="1">שמואל חלצתו חמה נותנין לו כל ז' להברותו איבעיא להו מי בעינן מעת</row>
+		<row row_number="44" isdata="1">לעת ת"ש דתני לודא יום הבראתו כיום הולדו מאי לאו מה יום הולדו לא</row>
+		<row row_number="45" isdata="1">בעינן מעת לעת אף יום הבראתו לא בעינן מעת לעת לא עדיף יום הבראתו</row>
+		<row row_number="46" isdata="1">מיום הולדו דאילו יום הולדו לא בעינן מעת לעת ואילו יום הבראתו בעינן</row>
+		<row row_number="47" isdata="1">מעת לעת<EndGemara/><StartMishna/>מתני' אלו הן ציצין המעכבין את המילה בשר החופה את רוב</row>
+		<row row_number="48" isdata="1">העטרה ואינו אוכל בתרומה ואם היה בעל בשר מתקנו מפני מראית העין</row>
+</amud>
+</daf>
+</masechet>
+</root>

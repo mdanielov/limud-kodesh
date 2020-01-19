@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.329784</dateCreated>
+   <lastModified>2020-01-14 15:02:53.329784</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="111">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בית שמאי"/><ContMishna/>לא פסל את הראשונה וכן ב' חרשות</row>
+		<row row_number="2" isdata="1">קטנה וחרשת בא יבם על הקטנה וחזר</row>
+		<row row_number="3" isdata="1">ובא על החרשת או שבא אחיו על החרשת</row>
+		<row row_number="4" isdata="1">פסל את הקטנה בא יבם על החרשת</row>
+		<row row_number="5" isdata="1">וחזר ובא על הקטנה או שבא אחיו על</row>
+		<row row_number="6" isdata="1">הקטנה פסל את החרשת פקחת וחרשת</row>
+		<row row_number="7" isdata="1">בא יבם על הפקחת וחזר ובא על החרשת</row>
+		<row row_number="8" isdata="1">או שבא אחיו על החרשת לא פסל את</row>
+		<row row_number="9" isdata="1">הפקחת בא יבם על החרשת וחזר ובא על</row>
+		<row row_number="10" isdata="1">הפקחת או שבא אחיו על הפקחת פסל</row>
+		<row row_number="11" isdata="1">את החרשת גדולה וקטנה בא יבם על</row>
+		<row row_number="12" isdata="1">הגדולה וחזר ובא על הקטנה או שבא אחיו</row>
+		<row row_number="13" isdata="1">על הקטנה לא פסל את הגדולה בא יבם</row>
+		<row row_number="14" isdata="1">על הקטנה וחזר ובא על הגדולה או שבא</row>
+		<row row_number="15" isdata="1">אחיו על הגדולה פסל את הקטנה ר' אלעזר</row>
+		<row row_number="16" isdata="1">אומר מלמדין הקטנה שתמאן בו:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="17" isdata="1">אמר רב יהודה אמר שמואל הלכה כרבי</row>
+		<row row_number="18" isdata="1">אלעזר וכן אמר רבי אלעזר הלכה כרבי</row>
+		<row row_number="19" isdata="1">אלעזר וצריכא דאי איתמר בהא קמייתא</row>
+		<row row_number="20" isdata="1">בהך קאמר שמואל הלכה כרבי אליעזר</row>
+		<row row_number="21" isdata="1">משום דלא קיים מצות ייבום אבל בהא</row>
+		<row row_number="22" isdata="1">דאיקיים מצות ייבום אימא תרוייהו לפקו</row>
+		<row row_number="23" isdata="1">בגט ואי אשמעינן בהא משום דגדולה רמיא</row>
+		<row row_number="24" isdata="1">קמיה אבל אידך לא צריכא<EndGemara/><StartMishna/>מתני' יבם</row>
+		<row row_number="25" isdata="1">קטן שבא על יבמה קטנה יגדלו זה עם זה</row>
+		<row row_number="26" isdata="1">בא על יבמה גדולה תגדלנו היבמה</row>
+		<row row_number="27" isdata="1">שאמרה בתוך שלשים יום לא נבעלתי</row>
+		<row row_number="28" isdata="1">כופין אותו שיחלוץ לה לאחר שלשים יום</row>
+		<row row_number="29" isdata="1">מבקשין הימנו שיחלוץ לה ובזמן שהוא</row>
+		<row row_number="30" isdata="1">מודה אפילו לאחר שנים עשר חדש כופין</row>
+		<row row_number="31" isdata="1">אותו שיחלוץ לה הנודרת הנאה מיבמה</row>
+		<row row_number="32" isdata="1">בחיי בעלה כופין אותו שיחלוץ לה לאחר</row>
+		<row row_number="33" isdata="1">מיתת בעלה מבקשין הימנו שיחלוץ לה</row>
+		<row row_number="34" isdata="1">ואם נתכוונה לכך אפי' בחיי בעלה מבקשין</row>
+		<row row_number="35" isdata="1">הימנו שיחלוץ לה:<EndMishna/><StartGemara/>גמ' לימא מתניתין</row>
+		<row row_number="36" isdata="1">דלא כרבי מאיר דתניא קטן וקטנה לא</row>
+		<row row_number="37" isdata="1">חולצין ולא מתייבמין דברי רבי מאיר אפילו</row>
+		<row row_number="38" isdata="1">תימא רבי מאיר כי אמר ר' מאיר גדולה לקטן וקטנה לגדול דחד מינייהו</row>
+		<row row_number="39" isdata="1">ביאה דאיסורא הוא אבל קטן הבא על הקטנה דתרוייהו כי הדדי נינהו לא</row>
+		<row row_number="40" isdata="1">אמר והא קתני בא על יבמה גדולה תגדלנו אמר רבי חנינא חוזאה בא שאני</row>
+		<row row_number="41" isdata="1">והא תגדלנו קאמר דכל ביאה וביאה דאיסורא הוא אלא מחוורתא מתניתין</row>
+		<row row_number="42" isdata="1">דלא כרבי מאיר קרי כאן להקים לאחיו שם והאי לאו בר הכי הוא אמר אביי</row>
+		<row row_number="43" isdata="1">אמר קרא יבמה יבא עליה כל דהו רבא אמר בלאו הכי נמי לא מצית אמרת</row>
+		<row row_number="44" isdata="1">מי איכא מידי דהשתא אסירא ליה ולבתר שעתא שריא והא אמר רב</row>
+		<row row_number="45" isdata="1">יהודה אמר רב כל יבמה שאין אני קורא בשעת נפילה יבמה יבא עליה</row>
+		<row row_number="46" isdata="1">הרי היא כאשת אח שיש לו בנים ואסורה ואימא הכי נמי אמר קרא כי ישבו</row>
+		<row row_number="47" isdata="1">אחים יחדו אפילו בן יום אחד: יבמה שאמרה בתוך שלשים יום וכו': מאן</row>
+		<row row_number="48" isdata="1">תנא דעד תלתין יומין מוקים איניש אנפשיה אמר רבי יוחנן רבי מאיר</row>
+		<row row_number="49" isdata="1">היא דתניא טענת בתולים כל שלשים יום דברי רבי מאיר רבי יוסי אומר</row>
+		<row row_number="50" isdata="1">נסתרה לאלתר לא נסתרה אף לאחר כמה שנים רבה אמר אפי' תימא ר'</row>
+		<row row_number="51" isdata="1">יוסי עד כאן לא קאמר ר' יוסי התם אלא בארוסתו דגיס בה אבל אשת אחיו</row>
+</amud>
+</daf>
+</masechet>
+</root>

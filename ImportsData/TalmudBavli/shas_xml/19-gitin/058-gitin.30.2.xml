@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:09.222716</dateCreated>
+   <lastModified>2020-01-14 15:03:09.223720</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="30">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContGemara/>איכא בינייהו עניי כותיים העשיר העני</row>
+		<row row_number="2" isdata="1">אין מפריש עליו וזכה הלה במה שבידו</row>
+		<row row_number="3" isdata="1">ורבנן מאי שנא למיתה דעבוד תקנתא ומאי</row>
+		<row row_number="4" isdata="1">שנא לעשירות דלא עבוד תקנתא מיתה</row>
+		<row row_number="5" isdata="1">שכיחא עשירות לא שכיחא אמר רב פפא</row>
+		<row row_number="6" isdata="1">היינו דאמרי אינשי חברך מית אשר</row>
+		<row row_number="7" isdata="1">איתעשר לא תאשר: מת צריך ליטול רשות</row>
+		<row row_number="8" isdata="1">וכו': תניא רבי אומר יורשין שירשו ומי</row>
+		<row row_number="9" isdata="1">איכא יורשין דלא ירתי אלא אמר ר' יוחנן</row>
+		<row row_number="10" isdata="1">שירשו קרקע ולא שירשו כספים א"ר יונתן</row>
+		<row row_number="11" isdata="1">הניח מלא מחט גובה מלא מחט מלא קרדום</row>
+		<row row_number="12" isdata="1">גובה מלא קרדום ור' יוחנן אמר אפילו הניח</row>
+		<row row_number="13" isdata="1">מלא מחט גובה מלא קרדום וכמעשה</row>
+		<row row_number="14" isdata="1">דקטינא דאביי: ת"ר ישראל שאמר ללוי</row>
+		<row row_number="15" isdata="1">מעשר יש לך בידי אין חוששין לתרומת</row>
+		<row row_number="16" isdata="1">מעשר שבו כור מעשר יש לך בידי חוששין</row>
+		<row row_number="17" isdata="1">לתרומת מעשר שבו מאי קאמר אמר אביי</row>
+		<row row_number="18" isdata="1">ה"ק ישראל שאמר ללוי מעשר יש לך בידי</row>
+		<row row_number="19" isdata="1">והילך דמיו אין חוששין שמא עשאו תרומת</row>
+		<row row_number="20" isdata="1">מעשר על מקום אחר כור מעשר יש לך</row>
+		<row row_number="21" isdata="1">בידי והילך דמיו חוששין שמא עשאו תרומת</row>
+		<row row_number="22" isdata="1">מעשר על מקום אחר אטו ברשיעי עסקינן</row>
+		<row row_number="23" isdata="1">דשקלי דמי ומשוו ליה תרומת מעשר אלא</row>
+		<row row_number="24" isdata="1">אמר רב משרשיא בריה דרב אידי הכי קאמר</row>
+		<row row_number="25" isdata="1">ישראל שאמר לבן לוי מעשר לאביך בידי</row>
+		<row row_number="26" isdata="1">הילך דמיו אין חוששין שמא עשאו אביו</row>
+		<row row_number="27" isdata="1">תרומת מעשר על מקום אחר כור מעשר</row>
+		<row row_number="28" isdata="1">לאביך בידי והילך דמיו חוששין שמא עשאו</row>
+		<row row_number="29" isdata="1">אביו תרומת מעשר על מקום אחר וכי</row>
+		<row row_number="30" isdata="1">נחשדו חברים לתרום שלא מן המוקף אלא</row>
+		<row row_number="31" isdata="1">אמר רב אשי ה"ק בן ישראל שאמר ללוי כך</row>
+		<row row_number="32" isdata="1">אמר לי אבא מעשר לך בידי או מעשר</row>
+		<row row_number="33" isdata="1">לאביך בידי חוששין לתרומת מעשר שבו</row>
+		<row row_number="34" isdata="1">כיון דלא קיץ לא הוה מתקן ליה בעל הבית</row>
+		<row row_number="35" isdata="1">כור מעשר לך בידי או כור מעשר לאביך</row>
+		<row row_number="36" isdata="1">בידי אין חוששין לתרומת מעשר שבו כיון</row>
+		<row row_number="37" isdata="1">דקיץ תקוני תקניה בעל הבית וכי יש לו</row>
+		<row row_number="38" isdata="1">רשות לבעה"ב לתרום תרומת מעשר אין</row>
+		<row row_number="39" isdata="1">אבא אלעזר בן גמלא היא דתניא אבא אלעזר</row>
+		<row row_number="40" isdata="1">בן גמלא אומר ונחשב לכם תרומתכם</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.137386</dateCreated>
+   <lastModified>2020-01-14 15:03:02.137386</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="61">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "קונם יין"/><ContGemara/>לספיקא ורבי יוסי סבר מעייל איניש נפשיה</row>
+		<row row_number="2" isdata="1">לספיקא ורמינהי מי שיש לו שתי כיתי</row>
+		<row row_number="3" isdata="1">בנות משתי נשים ואמר קדשתי את בתי</row>
+		<row row_number="4" isdata="1">הגדולה ואיני יודע אם גדולה שבגדולות אם</row>
+		<row row_number="5" isdata="1">גדולה שבקטנות ואם קטנה שבגדולות שהיא</row>
+		<row row_number="6" isdata="1">גדולה מן הגדולה שבקטנות כולן אסורות</row>
+		<row row_number="7" isdata="1">דברי ר"מ חוץ מן הקטנה שבקטנות רבי</row>
+		<row row_number="8" isdata="1">יוסי אומר כולן מותרות חוץ מן הגדולה</row>
+		<row row_number="9" isdata="1">שבגדולות אמר רבי חנינא בר אבדימי</row>
+		<row row_number="10" isdata="1">אמר רב מוחלפת השיטה והתניא זה הכלל</row>
+		<row row_number="11" isdata="1">כל שזמנו קבוע ואמר עד לפני ר"מ</row>
+		<row row_number="12" isdata="1">אומר עד שיצא ורבי יוסי אומר עד שיגיע:</row>
+		<row row_number="13" isdata="1"><EndGemara/><StartMishna/>מתני' עד הקציר עד הבציר עד המסיק</row>
+		<row row_number="14" isdata="1">אינו אסור אלא עד שיגיע זה הכלל כל</row>
+		<row row_number="15" isdata="1">שזמנו קבוע ואמר עד שיגיע אסור עד</row>
+		<row row_number="16" isdata="1">שיגיע אמר עד שיהא אסור עד שיצא</row>
+		<row row_number="17" isdata="1">וכל שאין זמנו קבוע בין אמר עד שיהא בין</row>
+		<row row_number="18" isdata="1">אמר עד שיגיע אינו אסור אלא עד שיגיע</row>
+		<row row_number="19" isdata="1">עד הקיץ עד שיהא הקיץ עד שיתחילו העם</row>
+		<row row_number="20" isdata="1">להכניס בכלכלות עד שיעבור הקיץ עד</row>
+		<row row_number="21" isdata="1">שיקפילו המקצועות:<EndMishna/><StartGemara/>גמ' תנא כלכלה</row>
+		<row row_number="22" isdata="1">שאמרו כלכלה של תאנים ולא כלכלה של</row>
+		<row row_number="23" isdata="1">ענבים תניא הנודר מפירות הקיץ אין אסור אלא</row>
+		<row row_number="24" isdata="1">בתאנים רשב"ג אומר ענבים בכלל תאנים</row>
+		<row row_number="25" isdata="1">מאי טעמא דתנא קמא קסבר תאנים מיקצצן</row>
+		<row row_number="26" isdata="1">בידא ענבים לא מיקצצן בידא רשב"ג סבר</row>
+		<row row_number="27" isdata="1">ענבים נמי כי מירדדן מיקצצן בידא: עד</row>
+		<row row_number="28" isdata="1">שיעבור הקיץ עד שיכפלו המקצועות:</row>
+		<row row_number="29" isdata="1">תנא עד שיכפילו רוב המקצועות</row>
+</amud>
+</daf>
+</masechet>
+</root>

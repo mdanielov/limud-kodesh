@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:19.683839</dateCreated>
+   <lastModified>2020-01-14 15:03:19.683839</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הכונס"/><ContGemara/>אלא למ"ד טמון באש קמיבעיא ליה מאי</row>
+		<row row_number="2" isdata="1">איבעי ליה קראי אמר לך טמון וחדא מהנך</row>
+		<row row_number="3" isdata="1">קמיבעיא ליה בשלמא למ"ד הני תרתי היינו</row>
+		<row row_number="4" isdata="1">דכתיב ולא אבה דוד לשתותם אמר כיון</row>
+		<row row_number="5" isdata="1">דאיכא איסורא לא ניחא לי אלא למ"ד טמון</row>
+		<row row_number="6" isdata="1">באש קא מבעיא ליה מכדי גמרא הוא</row>
+		<row row_number="7" isdata="1">דשלחו ליה מאי לא אבה דוד לשתותם</row>
+		<row row_number="8" isdata="1">דלא אמרינהו משמייהו אמר כך מקובלני</row>
+		<row row_number="9" isdata="1">מבית דינו של שמואל הרמתי כל המוסר</row>
+		<row row_number="10" isdata="1">עצמו למות על דברי תורה אין אומרים</row>
+		<row row_number="11" isdata="1">דבר הלכה משמו ויסך אותם לה' בשלמא</row>
+		<row row_number="12" isdata="1">למ"ד הני תרתי משום דעבד לשם שמים</row>
+		<row row_number="13" isdata="1">אלא למ"ד טמון באש מאי ויסך אותם</row>
+		<row row_number="14" isdata="1">לה' דאמרינהו משמא דגמרא<EndGemara/><StartMishna/>מתני' עברה</row>
+		<row row_number="15" isdata="1">גדר שהוא גבוה ד' אמות או דרך הרבים</row>
+		<row row_number="16" isdata="1">או נהר פטור:<EndMishna/><StartGemara/>גמ' והתניא עברה גדר</row>
+		<row row_number="17" isdata="1">שהוא גבוה ארבע אמות חייב אמר רב פפא</row>
+		<row row_number="18" isdata="1">תנא דידן קא חשיב מלמעלה למטה שש</row>
+		<row row_number="19" isdata="1">אמות פטור חמש אמות פטור עד ארבע</row>
+		<row row_number="20" isdata="1">אמות פטור תנא ברא מלמטה למעלה קא</row>
+		<row row_number="21" isdata="1">חשיב שתי אמות חייב שלש אמות חייב</row>
+		<row row_number="22" isdata="1">עד ארבע אמות חייב אמר רבא ד' אמות</row>
+		<row row_number="23" isdata="1">שאמרו דפטור אפילו בשדה קוצים אמר רב</row>
+		<row row_number="24" isdata="1">פפא ומשפת קוצים ולמעלה ד' אמות אמר</row>
+		<row row_number="25" isdata="1">רב לא שנו אלא בקולחת אבל בנכפפת</row>
+		<row row_number="26" isdata="1">אפילו עד מאה אמה חייב ושמואל אמר</row>
+		<row row_number="27" isdata="1"><EndGemara/><StartMishna/>מתני' בנכפפת אבל בקולחת אפי' כל שהוא</row>
+		<row row_number="28" isdata="1">פטור תניא כוותיה דרב בד"א בקולחת אבל</row>
+		<row row_number="29" isdata="1">בנכפפת ועצים מצויין לה אפילו עד מאה</row>
+		<row row_number="30" isdata="1">מיל חייב עברה נהר או שלולית שהם</row>
+		<row row_number="31" isdata="1">רחבים ח' אמות פטור: דרך הרבים: מאן</row>
+		<row row_number="32" isdata="1">תנא אמר רבא ר"א היא דתנן רבי אליעזר</row>
+		<row row_number="33" isdata="1">אומר שש עשרה אמות כדרך רה"ר (פטור):</row>
+		<row row_number="34" isdata="1">או נהר: רב אמר נהר ממש ושמואל אמר אריתא דדלאי מ"ד נהר ממש</row>
+		<row row_number="35" isdata="1">אע"ג דליכא מיא ומ"ד אריתא דדלאי אי אית ביה מיא אין אבל לית ביה</row>
+		<row row_number="36" isdata="1">מיא לא תנן התם ואלו מפסיקין לפאה הנחל והשלולית ודרך היחיד</row>
+		<row row_number="37" isdata="1">ודרך הרבים מאי שלולית אמר רב יהודה אמר שמואל מקום שמי</row>
+		<row row_number="38" isdata="1">גשמים שוללין שם רב ביבי א"ר יוחנן אמת המים שמחלקת שלל</row>
+		<row row_number="39" isdata="1">לאגפיה מאן דאמר מקום שמי גשמים שוללין שם כ"ש אמת המים ומאן</row>
+		<row row_number="40" isdata="1">דאמר אמת המים אבל מקום שמי גשמים שוללין שם לא מפסקי דהנהו</row>
+</amud>
+</daf>
+</masechet>
+</root>

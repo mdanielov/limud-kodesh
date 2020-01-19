@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:09.018237</dateCreated>
+   <lastModified>2020-01-14 15:03:09.018237</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="25">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הגט"/><ContGemara/>ומיחל ושותה מיד דברי ר"מ רבי יהודה</row>
+		<row row_number="2" isdata="1">ורבי יוסי ורבי שמעון אוסרין תולה בדעת</row>
+		<row row_number="3" isdata="1">אחרים אית ליה ברירה דתנן מה היא</row>
+		<row row_number="4" isdata="1">באותן הימים ר' יהודה אומר הרי היא כאשת</row>
+		<row row_number="5" isdata="1">איש לכל דבריה ולכי מיית הוי גיטא אמר</row>
+		<row row_number="6" isdata="1">ליה רב משרשיא לרבא הא ר"ש דתולה</row>
+		<row row_number="7" isdata="1">בדעת עצמו לית ליה ברירה ותולה בדעת</row>
+		<row row_number="8" isdata="1">אחרים אית ליה ברירה תולה בדעת עצמו</row>
+		<row row_number="9" isdata="1">לית ליה ברירה הא דאמרן תולה בדעת</row>
+		<row row_number="10" isdata="1">אחרים אית ליה ברירה דתניא הריני</row>
+		<row row_number="11" isdata="1">בועליך על מנת שירצה אבא אע"פ שלא</row>
+		<row row_number="12" isdata="1">רצה האב מקודשת ר' שמעון בן יהודה</row>
+		<row row_number="13" isdata="1">אומר משום רבי שמעון רצה האב מקודשת</row>
+</amud>
+</daf>
+</masechet>
+</root>

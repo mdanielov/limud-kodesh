@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:20.678362</dateCreated>
+   <lastModified>2020-01-14 15:02:20.678362</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="31">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>מערבין לכהן טהור בתרומה טהורה בקבר</row>
+		<row row_number="2" isdata="1">היכי אזיל בשידה תיבה ומגדל והא כיון</row>
+		<row row_number="3" isdata="1">דאחתא איטמיא לה בשלא הוכשרה או</row>
+		<row row_number="4" isdata="1">שנילושה במי פירות והיכי מייתי לה בפשוטי</row>
+		<row row_number="5" isdata="1">כלי עץ דלא מקבלי טומאה והא קא מאהיל</row>
+		<row row_number="6" isdata="1">דמייתי לה אחוריה אי הכי מ"ט דרבנן</row>
+		<row row_number="7" isdata="1">קסברי אסור לקנות בית באיסורי הנאה</row>
+		<row row_number="8" isdata="1">מכלל דר' יהודה סבר מותר קסבר מצות</row>
+		<row row_number="9" isdata="1">לאו ליהנות ניתנו אלא הא דאמר רבא</row>
+		<row row_number="10" isdata="1">מצות לאו ליהנות ניתנו לימא כתנאי אמרה</row>
+		<row row_number="11" isdata="1">לשמעתיה אמר לך רבא אי סבירא להו</row>
+		<row row_number="12" isdata="1">דאין מערבין אלא לדבר מצוה דכולי עלמא</row>
+		<row row_number="13" isdata="1">מצות לאו ליהנות ניתנו והכא בהא קמיפלגי</row>
+		<row row_number="14" isdata="1">מ"ס אין מערבין אלא לדבר מצוה ומ"ס</row>
+		<row row_number="15" isdata="1">מערבין אפילו לדבר הרשות אלא הא</row>
+		<row row_number="16" isdata="1">דאמר רב יוסף אין מערבין אלא לדבר</row>
+		<row row_number="17" isdata="1">מצוה לימא כתנאי אמרה לשמעתיה אמר</row>
+		<row row_number="18" isdata="1">לך רב יוסף דכולי עלמא אין מערבין אלא</row>
+		<row row_number="19" isdata="1">לדבר מצוה ודכולי עלמא מצות לאו ליהנות</row>
+		<row row_number="20" isdata="1">ניתנו ובהא קמיפלגי מ"ס כיון דקנה ליה</row>
+		<row row_number="21" isdata="1">עירוב לא ניחא ליה דמינטרא ומ"ס ניחא</row>
+		<row row_number="22" isdata="1">ליה דמינטרא דאי איצטריך אכיל ליה:</row>
+		<row row_number="23" isdata="1"><EndGemara/><StartMishna/>מתני' מערבין בדמאי ובמעשר ראשון</row>
+		<row row_number="24" isdata="1">שנטלה תרומתו ובמעשר שני והקדש שנפדו</row>
+		<row row_number="25" isdata="1">והכהנים בחלה אבל לא בטבל ולא במעשר</row>
+		<row row_number="26" isdata="1">ראשון שלא נטלה תרומתו ולא במעשר</row>
+		<row row_number="27" isdata="1">שני והקדש שלא נפדו:<EndMishna/><StartGemara/>גמ' דמאי הא</row>
+		<row row_number="28" isdata="1">לא חזי ליה מיגו דאי בעי מפקר להו</row>
+		<row row_number="29" isdata="1">לנכסיה והוי עני וחזו ליה השתא נמי חזי</row>
+		<row row_number="30" isdata="1">ליה דתנן מאכילין את העניים דמאי</row>
+</amud>
+</daf>
+</masechet>
+</root>

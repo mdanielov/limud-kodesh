@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:36.535380</dateCreated>
+   <lastModified>2020-01-14 15:03:36.535380</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="138">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש נוחלין"/><ContGemara/>ידה על העליונה רצה נוטלתן רצה נוטלת</row>
+		<row row_number="2" isdata="1">כתובתה ושכיב מרע שאמר תנו מאתים</row>
+		<row row_number="3" isdata="1">זוז לפלוני בעל חובי כראוי לו נוטלן ונוטל</row>
+		<row row_number="4" isdata="1">את חובו ואם אמר בחובו נוטלן בחובו</row>
+		<row row_number="5" isdata="1">משום דאמר כראוי לו נוטלן ונוטל את חובו</row>
+		<row row_number="6" isdata="1">ודלמא כראוי לו בחובו קאמר אמר רב</row>
+		<row row_number="7" isdata="1">נחמן אמר לי הונא הא מני רבי עקיבא היא</row>
+		<row row_number="8" isdata="1">דדייק לישנא יתירא דתנן ולא את הבור</row>
+		<row row_number="9" isdata="1">ולא את הדות אף על פי שכתב לו עומקא</row>
+		<row row_number="10" isdata="1">ורומא וצריך ליקח לו דרך דברי רבי עקיבא</row>
+		<row row_number="11" isdata="1">וחכמים אומרים אין צריך ליקח לו דרך</row>
+		<row row_number="12" isdata="1">ומודה ר"ע בזמן שאמר לו חוץ מאלו</row>
+		<row row_number="13" isdata="1">שאינו צריך ליקח לו דרך אלמא כיון</row>
+		<row row_number="14" isdata="1">דלא צריך וקאמר לטפויי מלתא קאתי הכא</row>
+		<row row_number="15" isdata="1">נמי כיון דלא צריך וקאמר לטפויי מלתא</row>
+		<row row_number="16" isdata="1">קא אתי: ת"ר שכיב מרע שאמר מנה יש</row>
+		<row row_number="17" isdata="1">לי אצל פלוני העדים כותבין אף על פי</row>
+		<row row_number="18" isdata="1">שאין מכירין לפיכך כשהוא גובה צריך</row>
+		<row row_number="19" isdata="1">להביא ראיה דברי ר' מאיר וחכ"א אין</row>
+		<row row_number="20" isdata="1">כותבין אא"כ מכירין לפיכך כשהוא גובה</row>
+		<row row_number="21" isdata="1">אין צריך להביא ראיה אמר רב נחמן אמר</row>
+		<row row_number="22" isdata="1">לי הונא תנא רבי מאיר אומר אין כותבין</row>
+		<row row_number="23" isdata="1">וחכמים אומרים כותבין ואף רבי מאיר לא</row>
+		<row row_number="24" isdata="1">אמר אלא משום בית דין טועין אמר רב</row>
+		<row row_number="25" isdata="1">דימי מנהרדעא הלכתא אין חוששין לבית</row>
+		<row row_number="26" isdata="1">דין טועין ומאי שנא מדרבא דאמר רבא</row>
+		<row row_number="27" isdata="1">אין חולצין אלא אם כן מכירין ואין ממאנין</row>
+		<row row_number="28" isdata="1">אלא אם כן מכירין לפיכך כותבין גט חליצה</row>
+		<row row_number="29" isdata="1">וגט מיאון ואע"פ שאין מכירין (מ"ט לאו)</row>
+		<row row_number="30" isdata="1">משום דחוששין לב"ד טועין לא ב"ד בתר</row>
+		<row row_number="31" isdata="1">בית דינא לא דייקי בית דינא בתר עדים</row>
+		<row row_number="32" isdata="1">דייקי<EndGemara/><StartMishna/>מתני' האב תולש ומאכיל לכל</row>
+		<row row_number="33" isdata="1">מי שירצה ומה שהניח תלוש הרי הוא של</row>
+		<row row_number="34" isdata="1">יורשין:<EndMishna/><StartGemara/>גמ' תלוש אין מחובר לא</row>
+</amud>
+</daf>
+</masechet>
+</root>

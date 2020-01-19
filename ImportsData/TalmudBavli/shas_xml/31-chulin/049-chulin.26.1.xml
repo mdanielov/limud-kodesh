@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:12.091216</dateCreated>
+   <lastModified>2020-01-14 15:04:12.091216</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="26">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>בשהחמיץ מחלוקת ומתניתין ר' יהודה וכן א"ר</row>
+		<row row_number="2" isdata="1">יוסי ברבי חנינא בשהחמיץ מחלוקת וא"ר</row>
+		<row row_number="3" isdata="1">נחמן אמר רבה בר אבוה תמד שלקחו</row>
+		<row row_number="4" isdata="1">בכסף מעשר ולבסוף החמיץ קנה מעשר מ"ט</row>
+		<row row_number="5" isdata="1">איגלאי מילתא למפרע דפירא הוא אלא</row>
+		<row row_number="6" isdata="1">מתניתין דקתני החמיץ אין לא החמיץ לא</row>
+		<row row_number="7" isdata="1">דלמא אי שבקיה הוה מחמיץ אמר רבה</row>
+		<row row_number="8" isdata="1">כששייר ממנו בכוס ולא החמיץ רבא אמר הא</row>
+		<row row_number="9" isdata="1">מני ר' יוחנן בן נורי היא דתנן ג' לוגין מים</row>
+		<row row_number="10" isdata="1">חסר קורטוב שנפל לתוכן קורטוב יין ומראיהן</row>
+		<row row_number="11" isdata="1">כמראה יין ונפלו למקוה לא פסלוהו ג' לוגין</row>
+		<row row_number="12" isdata="1">מים חסר קורטוב שנפל לתוכן קורטוב חלב</row>
+		<row row_number="13" isdata="1">ומראיהן כמראה מים ונפלו למקוה לא פסלוהו</row>
+		<row row_number="14" isdata="1">רבי יוחנן בן נורי אומר הכל הולך אחר</row>
+		<row row_number="15" isdata="1">המראה לאו א"ר יוחנן בתר חזותא אזלינן</row>
+		<row row_number="16" isdata="1">הכא נמי זיל בתר חזותא וטעמא וחזותא</row>
+		<row row_number="17" isdata="1">דהאי מיא נינהו ופליגא דרבי אלעזר דא"ר</row>
+		<row row_number="18" isdata="1">אלעזר הכל מודים שאין מפרישין עליו ממקום</row>
+		<row row_number="19" isdata="1">אחר אא"כ החמיץ קסבר בלא החמיץ מחלוקת</row>
+		<row row_number="20" isdata="1">ועד כאן לא מחייב רבי יהודה אלא מיניה</row>
+		<row row_number="21" isdata="1">וביה אבל מעלמא לא דלמא אתי לאפרושי</row>
+		<row row_number="22" isdata="1">מן החיוב על הפטור ומן הפטור על</row>
+		<row row_number="23" isdata="1">החיוב: ת"ר התמד עד שלא החמיץ</row>
+</amud>
+</daf>
+</masechet>
+</root>

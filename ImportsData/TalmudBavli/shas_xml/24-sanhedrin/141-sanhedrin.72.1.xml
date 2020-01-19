@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:42.974187</dateCreated>
+   <lastModified>2020-01-14 15:03:42.974187</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="72">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בן סורר ומורה"/><ContGemara/>גמ' תניא רבי יוסי הגלילי אומר וכי מפני<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">שאכל זה תרטימר בשר ושתה חצי לוג יין</row>
+		<row row_number="3" isdata="1">האיטלקי אמרה תורה יצא לבית דין ליסקל</row>
+		<row row_number="4" isdata="1">אלא הגיעה תורה לסוף דעתו של בן סורר</row>
+		<row row_number="5" isdata="1">ומורה שסוף מגמר נכסי אביו ומבקש</row>
+		<row row_number="6" isdata="1">למודו ואינו מוצא ויוצא לפרשת דרכים</row>
+		<row row_number="7" isdata="1">ומלסטם את הבריות אמרה תורה ימות זכאי</row>
+		<row row_number="8" isdata="1">ואל ימות חייב שמיתתן של רשעים הנאה</row>
+		<row row_number="9" isdata="1">להם והנאה לעולם ולצדיקים רע להם ורע</row>
+		<row row_number="10" isdata="1">לעולם שינה ויין לרשעים הנאה להם והנאה</row>
+		<row row_number="11" isdata="1">לעולם לצדיקים רע להם ורע לעולם שקט</row>
+		<row row_number="12" isdata="1">לרשעים רע להם ורע לעולם ולצדיקים</row>
+		<row row_number="13" isdata="1">הנאה להם והנאה לעולם פיזור לרשעים</row>
+		<row row_number="14" isdata="1">הנאה להם והנאה לעולם ולצדיקים רע להם</row>
+		<row row_number="15" isdata="1">ורע לעולם<EndGemara/><StartMishna/>מתני' הבא במחתרת נידון</row>
+		<row row_number="16" isdata="1">על שם סופו היה בא במחתרת ושבר את החבית אם יש לו דמים חייב אם</row>
+		<row row_number="17" isdata="1">אין לו דמים פטור:<EndMishna/><StartGemara/>גמ' אמר רבא מאי טעמא דמחתרת חזקה אין אדם</row>
+		<row row_number="18" isdata="1">מעמיד עצמו על ממונו והאי מימר אמר אי אזילנא קאי לאפאי ולא שביק</row>
+		<row row_number="19" isdata="1">לי ואי קאי לאפאי קטילנא ליה והתורה אמרה אם בא להורגך השכם</row>
+		<row row_number="20" isdata="1">להורגו אמר רב הבא במחתרת ונטל כלים ויצא פטור מאי טעמא בדמים</row>
+		<row row_number="21" isdata="1">קננהו אמר רבא מסתברא מילתיה דרב בששיבר דליתנהו אבל נטל</row>
+		<row row_number="22" isdata="1">לא והאלהים אמר רב אפילו נטל דהא יש לו דמים ונאנסו חייב אלמא</row>
+		<row row_number="23" isdata="1">ברשותיה קיימי הכא נמי ברשותיה קיימי ולא היא כי אוקמינא רחמנא</row>
+		<row row_number="24" isdata="1">ברשותיה לענין אונסין אבל לענין מקנא ברשותיה דמרייהו קיימי מידי דהוה</row>
+		<row row_number="25" isdata="1">אשואל תנן בא במחתרת ושיבר את החבית יש לו דמים חייב אין לו דמים</row>
+		<row row_number="26" isdata="1">פטור טעמא דשיבר דכי אין לו דמים פטור הא נטל לא הוא הדין דאפילו</row>
+		<row row_number="27" isdata="1">נטל נמי והא דקא תני שבר את החבית קמ"ל דכי יש לו דמים אע"ג</row>
+		<row row_number="28" isdata="1">דשיבר נמי חייב פשיטא מזיק הוא הא קמ"ל דאפילו שלא בכוונה מאי</row>
+		<row row_number="29" isdata="1">קמ"ל אדם מועד לעולם תנינא אדם מועד לעולם בין בשוגג בין במזיד</row>
+		<row row_number="30" isdata="1">בין באונס בין ברצון קשיא מתיב רב ביבי בר אביי הגונב כיס בשבת</row>
+		<row row_number="31" isdata="1">חייב שהרי נתחייב בגניבה קודם שיבא לידי איסור שבת היה מגרר ויוצא</row>
+		<row row_number="32" isdata="1">פטור שהרי איסור גנבה ואיסור סקילה באין כאחד והלכתא דשדנהו</row>
+		<row row_number="33" isdata="1">בנהרא רבא איגנבו ליה דיכרי במחתרתא אהדרינהו ניהליה ולא קבלינהו</row>
+		<row row_number="34" isdata="1">אמר הואיל ונפק מפומיה דרב ת"ר אין לו דמים אם זרחה השמש עליו</row>
+		<row row_number="35" isdata="1">וכי השמש עליו בלבד זרחה אלא אם ברור לך הדבר כשמש שאין לו</row>
+		<row row_number="36" isdata="1">שלום עמך הרגהו ואם לאו אל תהרגהו תניא אידך אם זרחה השמש עליו</row>
+		<row row_number="37" isdata="1">דמים לו וכי השמש עליו בלבד זרחה אלא אם ברור לך כשמש שיש לו</row>
+		<row row_number="38" isdata="1">שלום עמך אל תהרגהו ואם לאו הרגהו קשיא סתמא אסתמא לא קשיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

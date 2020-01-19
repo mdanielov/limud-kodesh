@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:03.267985</dateCreated>
+   <lastModified>2020-01-14 15:03:03.267985</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="9">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "הריני נזיר"/><StartMishna/><ContChapter name = "הריני נזיר"/><ContMishna/>הריני נזיר מן הגרוגרות ומן הדבילה</row>
+		<row row_number="2" isdata="1">בש"א נזיר ובה"א אינו נזיר אמר</row>
+		<row row_number="3" isdata="1">רבי יהודה אף כשאמרו ב"ש לא אמרו אלא</row>
+		<row row_number="4" isdata="1">באומר הרי הן עלי קרבן:<EndMishna/><StartGemara/>גמ' הריני נזיר</row>
+		<row row_number="5" isdata="1">מן הגרוגרות ומן הדבילה ב"ש אומרים נזיר</row>
+		<row row_number="6" isdata="1">ואמאי מכל אשר יעשה מגפן היין אמר</row>
+		<row row_number="7" isdata="1">רחמנא ב"ש סברי לה כר"מ דאמר אין אדם</row>
+		<row row_number="8" isdata="1">מוציא דבריו לבטלה וב"ה סברי לה כרבי</row>
+		<row row_number="9" isdata="1">יוסי דאמר בגמר דבריו אדם נתפס והאי</row>
+		<row row_number="10" isdata="1">נדר ופתחו עמו הוא ובית שמאי נמי נדר</row>
+		<row row_number="11" isdata="1">ופתחו עמו הוא אלא ב"ש סברי לה כרבי</row>
+		<row row_number="12" isdata="1">מאיר דאמר אין אדם מוציא דבריו לבטלה</row>
+		<row row_number="13" isdata="1">וכיון דאמר הריני נזיר הוה ליה נזיר כי קאמר</row>
+		<row row_number="14" isdata="1">מן הגרוגרות ומן הדבילה לאיתשולי הוא</row>
+		<row row_number="15" isdata="1">דקאתי וב"ש לטעמייהו דאמרי אין שאלה</row>
+		<row row_number="16" isdata="1">בהקדש וכיון דאין שאלה בהקדש אין שאלה</row>
+		<row row_number="17" isdata="1">בנזירות ובית הלל סברי כר"ש דתנן ור"ש</row>
+		<row row_number="18" isdata="1">פוטר שלא התנדב כדרך המתנדבים</row>
+</amud>
+</daf>
+</masechet>
+</root>

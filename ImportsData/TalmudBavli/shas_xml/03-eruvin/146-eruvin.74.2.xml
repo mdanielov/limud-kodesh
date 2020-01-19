@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:23.315589</dateCreated>
+   <lastModified>2020-01-14 15:02:23.315589</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="74">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה אשה"/><ContGemara/>אתא רב ענן שדיה אמר מבואה דדיירנא</row>
+		<row row_number="2" isdata="1">ביה ואתינא משמיה דמר שמואל ניתי רב</row>
+		<row row_number="3" isdata="1">ענן בר רב נישדייה מן שמע מינה לא קיבלה</row>
+		<row row_number="4" isdata="1">מיניה לעולם אימא לך קיבלה מינה והכא</row>
+		<row row_number="5" isdata="1">חזנא הוא דהוה אכיל נהמא בביתיה ואתי</row>
+		<row row_number="6" isdata="1">ביית בבי כנישתא ואיבות בר איהי סבר</row>
+		<row row_number="7" isdata="1">מקום פיתא גרים ושמואל לטעמיה דאמר</row>
+		<row row_number="8" isdata="1">מקום לינה גרים: אמר רב יהודה אמר</row>
+		<row row_number="9" isdata="1">רב מבוי שצידו אחד עובד כוכבים וצידו</row>
+		<row row_number="10" isdata="1">אחד ישראל אין מערבין אותו דרך חלונות</row>
+		<row row_number="11" isdata="1">להתירו דרך פתחים למבוי א"ל אביי לרב</row>
+		<row row_number="12" isdata="1">יוסף אמר רב אפילו בחצר אמר ליה אין</row>
+		<row row_number="13" isdata="1">דאי לא אמר מאי הוה אמינא טעמא</row>
+		<row row_number="14" isdata="1">דרב משום דקסבר אין מבוי ניתר בלחי</row>
+		<row row_number="15" isdata="1">וקורה עד שיהו בתים וחצירות פתוחין</row>
+		<row row_number="16" isdata="1">לתוכו ותרתי למה לי צריכא דאי מההיא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:20.355930</dateCreated>
+   <lastModified>2020-01-14 15:03:20.355930</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="77">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מרובה"/><ContGemara/>פרה מטמא טומאת אוכלין הואיל והיתה</row>
+		<row row_number="2" isdata="1">לה שעת הכושר</row>
+</amud>
+</daf>
+</masechet>
+</root>

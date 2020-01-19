@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:24.341182</dateCreated>
+   <lastModified>2020-01-14 15:02:24.341182</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="98">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>בכותל שאינו משופע למעלה משלשה גוללו</row>
+		<row row_number="2" isdata="1">אצלו למטה משלשה הופכו על הכתב: רבי</row>
+		<row row_number="3" isdata="1">יהודה אומר אפילו אינו מסולק מן הארץ</row>
+		<row row_number="4" isdata="1">וכו': דבעינן הנחה על גבי משהו ואלא</row>
+		<row row_number="5" isdata="1">הא דאמר רבא תוך שלשה לרבנן צריך</row>
+		<row row_number="6" isdata="1">הנחה לימא כתנאי אמרה לשמעתיה אלא</row>
+		<row row_number="7" isdata="1">כולה רבי יהודה היא וחסורי מיחסרא והכי</row>
+		<row row_number="8" isdata="1">קתני במה דברים אמורים בכותל משופע</row>
+		<row row_number="9" isdata="1">אבל בכותל שאינו משופע אפילו פחות</row>
+		<row row_number="10" isdata="1">משלשה טפחים גוללו אצלו שרבי יהודה</row>
+		<row row_number="11" isdata="1">אומר אפילו אינו מסולק מן הארץ אלא מלא</row>
+		<row row_number="12" isdata="1">החוט גוללו אצלו מאי טעמא דבעינן הנחה</row>
+		<row row_number="13" isdata="1">על גבי משהו<EndGemara/><StartMishna/>מתני' זיז שלפני חלון</row>
+		<row row_number="14" isdata="1">נותנין עליו ונוטלין ממנו בשבת:<EndMishna/><StartGemara/>גמ' האי</row>
+		<row row_number="15" isdata="1">זיז דמפיק להיכא אילימא דמפיק לרשות</row>
+		<row row_number="16" isdata="1">הרבים ליחוש דילמא נפיל ואתי לאיתויי</row>
+		<row row_number="17" isdata="1">אלא דמפיק לרשות היחיד פשיטא אמר</row>
+		<row row_number="18" isdata="1">אביי לעולם דמפיק לרשות הרבים ומאי</row>
+		<row row_number="19" isdata="1">נותנין עליו דקתני כלים הנשברים: תניא</row>
+		<row row_number="20" isdata="1">נמי הכי זיז שלפני החלון היוצא לרשות</row>
+		<row row_number="21" isdata="1">הרבים נותנין עליו קערות וכוסות קיתוניות</row>
+		<row row_number="22" isdata="1">וצלוחיות ומשתמש בכל הכותל עד עשרה</row>
+		<row row_number="23" isdata="1">התחתונים ואם יש זיז אחד למטה ממנו</row>
+		<row row_number="24" isdata="1">משתמש בו ובעליון אין משתמש בו אלא</row>
+		<row row_number="25" isdata="1">כנגד חלונו האי זיז היכי דמי אי דלית ביה</row>
+		<row row_number="26" isdata="1">ארבעה מקום פטור הוא ואפילו כנגד חלונו</row>
+		<row row_number="27" isdata="1">נמי לא ישתמש ואי אית ביה ארבעה בכולי</row>
+		<row row_number="28" isdata="1">הכותל לישתמש אמר אביי תחתון דאית</row>
+		<row row_number="29" isdata="1">ביה ארבעה ועליון לית ביה ארבעה וחלון</row>
+		<row row_number="30" isdata="1">משלימתו לד' כנגד חלון משתמש דחורי</row>
+		<row row_number="31" isdata="1">חלון הוא דהאי גיסא ודהאי גיסא אסור:</row>
+		<row row_number="32" isdata="1"><EndGemara/><StartMishna/>מתני' עומד אדם ברשות היחיד ומטלטל</row>
+		<row row_number="33" isdata="1">ברשות הרבים ברשות הרבים ומטלטל ברה"י</row>
+		<row row_number="34" isdata="1">ובלבד שלא יוציא חוץ מארבע אמות: לא</row>
+		<row row_number="35" isdata="1">יעמוד אדם ברשות היחיד וישתין ברה"ר</row>
+		<row row_number="36" isdata="1">ברה"ר וישתין ברה"י וכן לא ירוק רבי יהודה</row>
+		<row row_number="37" isdata="1">אומר אף משנתלש רוקו בפיו לא יהלך</row>
+		<row row_number="38" isdata="1">ארבע אמות עד שירוק:<EndMishna/><StartGemara/>גמ' מתני ליה</row>
+		<row row_number="39" isdata="1">רב חיננא בר שלמיא לחייא בר רב קמיה</row>
+		<row row_number="40" isdata="1">דרב לא יעמוד אדם ברה"י ומטלטל ברה"ר</row>
+		<row row_number="41" isdata="1">אמר ליה שבקת רבנן ועבדת כר"מ</row>
+</amud>
+</daf>
+</masechet>
+</root>

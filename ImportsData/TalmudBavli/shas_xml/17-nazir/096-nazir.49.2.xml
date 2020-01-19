@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:05.704593</dateCreated>
+   <lastModified>2020-01-14 15:03:05.704593</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="49">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כהן גדול"/><ContGemara/>על כל לאפוקי רחוקים מת לאפוקי קרובים</row>
+		<row row_number="2" isdata="1">נפשות לאפוקי רביעית דם שיצא משני</row>
+		<row row_number="3" isdata="1">מתים שמטמא באהל שנאמר על כל נפשות</row>
+		<row row_number="4" isdata="1">מת לא יבא<EndGemara/><StartMishna/>מתני' על אלו טומאות</row>
+		<row row_number="5" isdata="1">הנזיר מגלח על המת ועל כזית מן המת ועל</row>
+		<row row_number="6" isdata="1">כזית נצל ועל מלא תרווד רקב על השדרה ועל הגולגולת ועל אבר מן המת</row>
+		<row row_number="7" isdata="1">ועל אבר מן החי שיש עליו בשר כראוי ועל חצי קב עצמות ועל חצי לוג דם</row>
+		<row row_number="8" isdata="1">ועל מגען ועל משאן ועל אהילן ועל עצם כשעורה על מגעו ועל משאו על</row>
+		<row row_number="9" isdata="1">אלו הנזיר מגלח ומזה בשלישי ובשביעי וסותר את הקודמין ואינו מתחיל</row>
+		<row row_number="10" isdata="1">למנות אלא עד שיטהר ומביא את קרבנותיו:<EndMishna/><StartGemara/>גמ' תנו רבנן אחר</row>
+		<row row_number="11" isdata="1">פטירתו של רבי מאיר אמר להן רבי יהודה לתלמידיו אל יכנסו תלמידי</row>
+		<row row_number="12" isdata="1">רבי מאיר לכאן מפני שקנתרנין הן ולא ללמוד תורה הן באין אלא לקפחני</row>
+		<row row_number="13" isdata="1">בהלכות הן באין דחק סומכוס ונכנס אמר להם כך שנה לי רבי</row>
+		<row row_number="14" isdata="1">מאיר על אלו טומאות הנזיר מגלח על המת ועל כזית מן המת</row>
+		<row row_number="15" isdata="1">כעס רבי יהודה ואמר להן לא כך אמרתי לכם אל יכנסו תלמידי רבי</row>
+		<row row_number="16" isdata="1">מאיר לכאן מפני שקנתרנין הן על כזית מן המת מגלח על המת לא כ"ש</row>
+</amud>
+</daf>
+</masechet>
+</root>

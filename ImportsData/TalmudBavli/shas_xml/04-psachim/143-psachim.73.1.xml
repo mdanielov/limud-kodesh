@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:29.518398</dateCreated>
+   <lastModified>2020-01-14 15:02:29.518398</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="73">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו דברים"/><ContGemara/>עבודת מתנה אתן את כהונתכם והזר הקרב</row>
+		<row row_number="2" isdata="1">יומת עשו אכילת תרומה בגבולין כעבודת</row>
+		<row row_number="3" isdata="1">ביהמ"ק: שחטו שלא לאוכליו: פשיטא כיון</row>
+		<row row_number="4" isdata="1">דהתם פסול הכא חייב משום דתנא סיפא</row>
+		<row row_number="5" isdata="1">פטור תנא רישא חייב והא נמי פשיטא משום</row>
+		<row row_number="6" isdata="1">דהתם כשר הכא פטור אלא איידי דתנא</row>
+		<row row_number="7" isdata="1">שחטו שלא לשמו בשבת תנא נמי שלא</row>
+		<row row_number="8" isdata="1">לאוכליו והיא גופא למה לי משום דקבעי</row>
+		<row row_number="9" isdata="1">לאיפלוגי ר' אליעזר ור' יהושע א"ל רב הונא</row>
+		<row row_number="10" isdata="1">בר חיננא לבריה כי אזלת לקמיה דרבי</row>
+		<row row_number="11" isdata="1">זריקא בעי מיניה לדברי האומר מקלקל</row>
+		<row row_number="12" isdata="1">בחבורה פטור שחטו שלא לאוכליו חייב מה</row>
+		<row row_number="13" isdata="1">תיקן תיקן אם עלו לא ירדו שחטו ונמצא</row>
+		<row row_number="14" isdata="1">בעל מום חייב מה תיקן תיקן בדוקין שבעין</row>
+		<row row_number="15" isdata="1">ואליבא דר"ע דאמר אם עלו לא ירדו שחטו</row>
+		<row row_number="16" isdata="1">ונמצא טריפה בסתר פטור הא בגלוי חייב</row>
+		<row row_number="17" isdata="1">מה תיקן תיקן להוציא מידי נבילה מתקיף</row>
+		<row row_number="18" isdata="1">לה רבינא הא דתניא השוחט חטאת בשבת</row>
+		<row row_number="19" isdata="1">בחוץ לע"ז חייב עליה ג' חטאות מה תיקן</row>
+		<row row_number="20" isdata="1">אמר רב עוירא שמוציאו מידי אבר מן</row>
+		<row row_number="21" isdata="1">החי: שחטו ונודע וכו': א"ר הונא אמר</row>
+		<row row_number="22" isdata="1">רב אשם שניתק לרעיה ושחטו סתם כשר</row>
+		<row row_number="23" isdata="1">לעולה אלמא קסבר לא בעי עקירה א"ה כי</row>
+		<row row_number="24" isdata="1">לא ניתק נמי גזירה לאחר כפרה אטו לפני</row>
+		<row row_number="25" isdata="1">כפרה ומנא תימרא דתנן אשם שמתו</row>
+		<row row_number="26" isdata="1">בעליו או שנתכפרו בעליו ירעה עד שיסתאב</row>
+		<row row_number="27" isdata="1">וימכר ויפלו דמיו לנדבה ר' אליעזר אומר</row>
+		<row row_number="28" isdata="1">ימות ר' יהושע אומר ימכר ויביא בדמיו עולה</row>
+		<row row_number="29" isdata="1">בדמיו אין אבל גופו לא דגזר לאחר כפרה</row>
+		<row row_number="30" isdata="1">אטו לפני כפרה ש"מ איתיביה רב חסדא לרב</row>
+		<row row_number="31" isdata="1">הונא שחטו ונודע שמשכו בעלים את ידם וכו'</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:18.170829</dateCreated>
+   <lastModified>2020-01-14 15:04:18.170829</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="128">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>רבי מאיר אומר אם אוחז בקטן וגדול עולה</row>
+		<row row_number="2" isdata="1">עמו הרי הוא כמוהו ואם לאו אינו כמוהו</row>
+		<row row_number="3" isdata="1">ואמר רבי יוחנן מוחלפת השיטה ומאי</row>
+		<row row_number="4" isdata="1">קושיא דילמא שני ליה לר"מ בין טבול יום</row>
+		<row row_number="5" isdata="1">לשאר טומאות תניא רבי אומר אחד טבול יום</row>
+		<row row_number="6" isdata="1">ואחד שאר טומאות ודילמא לרבי לא שני</row>
+		<row row_number="7" isdata="1">ליה ולר' מאיר שני ליה אמר ר' יאשיה הכי</row>
+		<row row_number="8" isdata="1">אמר ר' יוחנן לדברי רבי מוחלפת השיטה</row>
+		<row row_number="9" isdata="1">רבא אמר ביש יד לטומאה ואין יד להכשר</row>
+		<row row_number="10" isdata="1">קמיפלגי מר סבר יש יד לטומאה ואין יד</row>
+		<row row_number="11" isdata="1">להכשר ומר סבר יש יד לטומאה ולהכשר</row>
+		<row row_number="12" isdata="1">רב פפא אמר בהכשר קודם מחשבה</row>
+		<row row_number="13" isdata="1">קמיפלגי דתנן אמר ר' יהודה כך היה רבי</row>
+		<row row_number="14" isdata="1">עקיבא שונה חלב שחוטה בכפרים צריך</row>
+		<row row_number="15" isdata="1">מחשבה ואין צריך הכשר שכבר הוכשר</row>
+		<row row_number="16" isdata="1">בשחיטה אמרתי לפניו למדתנו רבינו</row>
+		<row row_number="17" isdata="1">עולשין שלקטן והדיחן לבהמה ונמלך</row>
+		<row row_number="18" isdata="1">עליהן לאדם צריכות הכשר שני וחזר רבי</row>
+		<row row_number="19" isdata="1">עקיבא להיות שונה כרבי יהודה מר סבר</row>
+		<row row_number="20" isdata="1">לה כמעיקרא ומר סבר לה כחזרה רב אחא</row>
+		<row row_number="21" isdata="1">בריה דרב איקא אמר בנתקנח הדם בין</row>
+		<row row_number="22" isdata="1">סימן לסימן קמיפלגי מר סבר ישנה</row>
+		<row row_number="23" isdata="1">לשחיטה מתחלה ועד סוף והאי דם שחיטה</row>
+		<row row_number="24" isdata="1">הוא ומר סבר אינה לשחיטה אלא לסוף</row>
+		<row row_number="25" isdata="1">והאי דם מכה הוא רב אשי אמר בשחיטה</row>
+		<row row_number="26" isdata="1">מכשרת ולא דם קמיפלגי בעי רבה בהמה</row>
+		<row row_number="27" isdata="1">בחייה מהו שתעשה יד לאבר תיקו אמר</row>
+		<row row_number="28" isdata="1">אביי הרי אמרו קישות שנטעה בעציץ</row>
+		<row row_number="29" isdata="1">והגדילה ויצאת חוץ לעציץ טהורה אמר ר"ש</row>
+		<row row_number="30" isdata="1">וכי מה טיבה לטהר אלא הטמא בטומאתו</row>
+		<row row_number="31" isdata="1">וטהור בטהרתו בעי אביי מהו שתעשה יד</row>
+		<row row_number="32" isdata="1">לחברתה תיקו אמר רבי ירמיה הרי אמרו</row>
+		<row row_number="33" isdata="1">המשתחוה לחצי דלעת אסרה בעי ר' ירמיה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:53.841452</dateCreated>
+   <lastModified>2020-01-14 15:03:53.841452</lastModified>
+ </meta>
+ <masechet name="עבודה זרה" serial="27">
+<daf value="73">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "השוכר את הפועל"/><ContGemara/>איכא דאמרי רבה בר רב הונא גופיה אישתי</row>
+		<row row_number="2" isdata="1">בקנישקנין<EndGemara/><StartMishna/>מתני' יין נסך אסור ואוסר</row>
+		<row row_number="3" isdata="1">בכל שהוא יין ביין ומים במים בכל שהוא יין</row>
+		<row row_number="4" isdata="1">במים ומים ביין בנותן טעם זה הכלל מין</row>
+		<row row_number="5" isdata="1">במינו במשהו ושלא במינו בנותן טעם:</row>
+		<row row_number="6" isdata="1"><EndMishna/><StartGemara/>גמ' כי אתא רב דימי א"ר יוחנן המערה</row>
+		<row row_number="7" isdata="1">יין נסך מחבית לבור אפילו כל היום כולו</row>
+		<row row_number="8" isdata="1">ראשון ראשון בטל תנן יין נסך אסור ואוסר</row>
+		<row row_number="9" isdata="1">בכל שהוא מאי לאו דקא נפיל איסורא לגו</row>
+		<row row_number="10" isdata="1">התירא לא דקא נפיל התירא לגו איסורא</row>
+		<row row_number="11" isdata="1">ת"ש יין במים בנותן טעם מאי לאו דקא נפיל</row>
+		<row row_number="12" isdata="1">חמרא דאיסורא למיא דהתירא לא דקא</row>
+		<row row_number="13" isdata="1">נפיל חמרא דהתירא למיא דאיסורא ומדרישא</row>
+		<row row_number="14" isdata="1">במיא דאיסורא סיפא נמי במיא דאיסורא</row>
+		<row row_number="15" isdata="1">וקתני סיפא מים ביין בנותן טעם אמר לך</row>
+		<row row_number="16" isdata="1">רב דימי כולה מתני' התירא לגו איסורא</row>
+		<row row_number="17" isdata="1">ורישא דקא נפיל חמרא דהתירא למיא</row>
+		<row row_number="18" isdata="1">דאיסורא סיפא דקא נפיל מיא דהתירא</row>
+		<row row_number="19" isdata="1">לחמרא דאיסורא כי אתא רב יצחק בר יוסף</row>
+		<row row_number="20" isdata="1">א"ר יוחנן המערה יין נסך מצרצור קטן</row>
+		<row row_number="21" isdata="1">לבור אפילו כל היום כולו ראשון ראשון</row>
+		<row row_number="22" isdata="1">בטל ודוקא צרצור קטן דלא נפיש</row>
+		<row row_number="23" isdata="1">עמודיה אבל חבית דנפיש עמודיה לא</row>
+		<row row_number="24" isdata="1">כי אתא רבין אמר רבי יוחנן יין נסך</row>
+		<row row_number="25" isdata="1">שנפל לבור ונפל שם קיתון של מים</row>
+		<row row_number="26" isdata="1">רואין את ההיתר כאילו אינו והשאר מים</row>
+		<row row_number="27" isdata="1">רבין עליו ומבטלין אותו כי אתא רב שמואל</row>
+		<row row_number="28" isdata="1">בר יהודה א"ר יוחנן לא שנו אלא שנפל</row>
+		<row row_number="29" isdata="1">קיתון של מים תחלה אבל לא נפל שם</row>
+		<row row_number="30" isdata="1">קיתון של מים תחלה מצא מין את מינו</row>
+		<row row_number="31" isdata="1">וניעור איכא דמתני לה אמתני' יין ביין כל</row>
+		<row row_number="32" isdata="1">שהוא אמר רב שמואל בר יהודה א"ר יוחנן</row>
+		<row row_number="33" isdata="1">לא שנו אלא שלא נפל שם קיתון של מים</row>
+		<row row_number="34" isdata="1">אבל נפל שם קיתון של מים רואין את</row>
+		<row row_number="35" isdata="1">ההיתר כאילו אינו והשאר מים רבין עליו</row>
+		<row row_number="36" isdata="1">ומבטלין אותו מאי איכא בין לדמתני</row>
+		<row row_number="37" isdata="1">לה אמתני' בין לדמתני לה אדרבין מאן</row>
+		<row row_number="38" isdata="1">דמתני לה אמתני' לא בעי תחלה ומאן</row>
+		<row row_number="39" isdata="1">דמתני לה אדרבין בעי תחלה איתמר יין</row>
+		<row row_number="40" isdata="1">נסך שנפל לבור ונפל שם קיתון של מים</row>
+</amud>
+</daf>
+</masechet>
+</root>

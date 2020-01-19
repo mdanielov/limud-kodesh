@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:50.506628</dateCreated>
+   <lastModified>2020-01-14 15:02:50.506628</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="50">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "החולץ"/><ContGemara/>אלו שני דורות זכה משלימין לו לא זכה</row>
+		<row row_number="2" isdata="1">פוחתין לו דברי ר' עקיבא וחכמים אומרים</row>
+		<row row_number="3" isdata="1">זכה מוסיפים לו לא זכה פוחתין לו אמרו לו</row>
+		<row row_number="4" isdata="1">לרבי עקיבא הרי הוא אומר והוספתי על</row>
+		<row row_number="5" isdata="1">ימיך חמש עשרה שנה אמר להם משלו</row>
+		<row row_number="6" isdata="1">הוסיפו לו תדע שהרי נביא עומד ומתנבא</row>
+		<row row_number="7" isdata="1">הנה בן נולד לבית דוד יאשיהו שמו ועדיין</row>
+		<row row_number="8" isdata="1">לא נולד מנשה ורבנן מי כתיב מחזקיה</row>
+		<row row_number="9" isdata="1">לבית דוד כתיב אי מחזקיה נולד אי מאינש</row>
+		<row row_number="10" isdata="1">אחרינא: אשתו שמתה וכו' יבמתו שמתה</row>
+		<row row_number="11" isdata="1">וכו': אמר רב יוסף כאן שנה רבי משנה</row>
+		<row row_number="12" isdata="1">שאינה צריכה:<EndChapter name = "החולץ"/><EndGemara/></row>
+		<row row_number="13" isdata="0">הדרן עלך החולץ</row>
+		<row row_number="14" isdata="1"><StartChapter name = "רבן גמליאל"/><StartMishna/>רבן גמליאל אומר אין גט אחר גט ולא</row>
+		<row row_number="15" isdata="1">מאמר אחר מאמר ולא בעילה אחר</row>
+		<row row_number="16" isdata="1">בעילה ולא חליצה אחר חליצה וחכמים</row>
+		<row row_number="17" isdata="1">אומרים יש גט אחר גט ויש מאמר אחר</row>
+		<row row_number="18" isdata="1">מאמר אבל לא אחר בעילה ולא אחר חליצה</row>
+		<row row_number="19" isdata="1">כלום כיצד עשה מאמר ביבמתו ונתן לה</row>
+		<row row_number="20" isdata="1">גט צריכה הימנו חליצה עשה מאמר וחליצה</row>
+		<row row_number="21" isdata="1">צריכה הימנו גט עשה מאמר ובעל הרי זו</row>
+		<row row_number="22" isdata="1">כמצותה נתן גט ועשה מאמר צריכה גט</row>
+		<row row_number="23" isdata="1">וחליצה נתן גט ובעל צריכה גט וחליצה נתן</row>
+		<row row_number="24" isdata="1">גט וחלץ אין אחר חליצה כלום חלץ ועשה</row>
+		<row row_number="25" isdata="1">מאמר נתן גט ובעל או בעל ועשה מאמר</row>
+		<row row_number="26" isdata="1">נתן גט וחלץ אין אחר חליצה כלום</row>
+</amud>
+</daf>
+</masechet>
+</root>

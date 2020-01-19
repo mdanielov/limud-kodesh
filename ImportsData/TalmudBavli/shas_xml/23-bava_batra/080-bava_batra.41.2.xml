@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:31.447854</dateCreated>
+   <lastModified>2020-01-14 15:03:31.447854</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="41">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>אתא לקמיה דרב יהודה אזיל אייתי תרי</row>
+		<row row_number="2" isdata="1">סהדי חד אמר תרתי אוצייתא עאל וחד אמר</row>
+		<row row_number="3" isdata="1">תלת אוצייתא עאל א"ל זיל שלים תרתי מגו</row>
+		<row row_number="4" isdata="1">תלת א"ל כמאן כרבי שמעון בן אלעזר</row>
+		<row row_number="5" isdata="1">דתניא אמר ר' שמעון בן אלעזר לא נחלקו</row>
+		<row row_number="6" isdata="1">בית שמאי ובית הלל על שתי כיתי עדים</row>
+		<row row_number="7" isdata="1">שאחת אומרת מנה ואחת אומרת מאתים</row>
+		<row row_number="8" isdata="1">שיש בכלל מאתים מנה על מה נחלקו על כת</row>
+		<row row_number="9" isdata="1">אחת שאחד אומר מנה ואחד אומר מאתים</row>
+		<row row_number="10" isdata="1">שבית שמאי אומרים נחלקה עדותן ובית הלל</row>
+		<row row_number="11" isdata="1">אומרים יש בכלל מאתים מנה א"ל והא</row>
+		<row row_number="12" isdata="1">מייתינא לך איגרתא ממערבא דאין הלכה</row>
+		<row row_number="13" isdata="1">כר' שמעון בן אלעזר א"ל לכי תיתי ההוא</row>
+		<row row_number="14" isdata="1">גברא דדר בקשתא בעיליתא ארבע שני אתא</row>
+		<row row_number="15" isdata="1">מארי דביתא אשכחיה א"ל מאי בעית בהאי</row>
+		<row row_number="16" isdata="1">ביתא א"ל מפלניא זבינתה דזבנה מינך אתא</row>
+		<row row_number="17" isdata="1">לקמיה דר' חייא א"ל אי אית לך סהדי דדר</row>
+		<row row_number="18" isdata="1">בה איהו דזבנת מיניה ואפי' חד יומא אוקימנא</row>
+		<row row_number="19" isdata="1">לה בידך ואי לא לא אמר רב הוה יתיבנא</row>
+		<row row_number="20" isdata="1">קמיה דחביבי ואמרי ליה וכי אין אדם עשוי</row>
+		<row row_number="21" isdata="1">ליקח ולמכור בלילה וחזיתיה לדעתיה אי</row>
+		<row row_number="22" isdata="1">א"ל קמאי דידי זבנה מינך מהימן מיגו דאי</row>
+		<row row_number="23" isdata="1">בעי א"ל אנא זבנתה מינך אמר רבא כוותיה</row>
+		<row row_number="24" isdata="1">דר' חייא מסתברא דקתני הבא משום</row>
+		<row row_number="25" isdata="1">ירושה אינו צריך טענה טענה הוא דלא בעי</row>
+		<row row_number="26" isdata="1">הא ראיה בעי ודלמא לא ראיה בעי ולא</row>
+		<row row_number="27" isdata="1">טענה בעי ואיבעית אימא שאני לוקח דלא</row>
+		<row row_number="28" isdata="1">שדי זוזי בכדי איבעיא להו נראה בו מאי אמר</row>
+		<row row_number="29" isdata="1">אביי היא היא רבא אמר עביד איניש</row>
+		<row row_number="30" isdata="1">דסיאר ארעיה ולא זבין: שלשה לקוחות</row>
+		<row row_number="31" isdata="1">מצטרפין אמר רב וכולם בשטר למימרא</row>
+		<row row_number="32" isdata="1">דסבר רב שטר אית ליה קלא ועדים לית</row>
+		<row row_number="33" isdata="1">להו קלא והאמר רב המוכר שדה בעדים</row>
+		<row row_number="34" isdata="1">גובה מנכסים משועבדים התם לקוחות</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.778876</dateCreated>
+   <lastModified>2020-01-14 15:03:02.778876</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="83">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו נדרים "/><ContGemara/>הרי זו סופגת את הארבעים הפר לה בעלה</row>
+		<row row_number="2" isdata="1">והיא לא ידעה שהפר לה והיתה שותה יין</row>
+		<row row_number="3" isdata="1">ומיטמאה למתים אינה סופגת את הארבעים</row>
+		<row row_number="4" isdata="1">ואי אמרת מפר למתענה ואין מפר לשאין</row>
+		<row row_number="5" isdata="1">מתענה דלמא מן יין דאית לה צערא הפר לה</row>
+		<row row_number="6" isdata="1">מן חרצן ומן זג לא הפר לה דהא לא אית לה</row>
+		<row row_number="7" isdata="1">צערא ותספוג את הארבעים אמר רב יוסף</row>
+		<row row_number="8" isdata="1">אין נזירות לחצאין א"ל אביי הא קרבן לחצי</row>
+		<row row_number="9" isdata="1">נזירות איכא אלא אמר אביי אין נזירות לחצאין</row>
+		<row row_number="10" isdata="1">ואין קרבן לחצאין מיתיבי האשה שנדרה</row>
+		<row row_number="11" isdata="1">בנזיר והפרישה בהמתה ואח"כ הפר לה</row>
+		<row row_number="12" isdata="1">בעלה מביאה חטאת העוף ואינה מביאה</row>
+		<row row_number="13" isdata="1">עולת העוף ואי אמרת אין קרבן לחצי</row>
+		<row row_number="14" isdata="1">נזירות אמאי מביאה חטאת העוף ואלא</row>
+		<row row_number="15" isdata="1">מאי יש קרבן לחצי נזירות שלש בהמות</row>
+		<row row_number="16" isdata="1">בעי לאתויי חטאת עולה ושלמים אלא</row>
+		<row row_number="17" isdata="1">לעולם אין קרבן לחצי נזירות וחטאת</row>
+		<row row_number="18" isdata="1">העוף דמתיא משום דחטאת על הספק</row>
+		<row row_number="19" isdata="1">איתיביה האשה שנדרה בנזיר ונטמאת</row>
+		<row row_number="20" isdata="1">ואחר כך הפר לה בעלה מביאה חטאת</row>
+		<row row_number="21" isdata="1">העוף ואין מביאה עולת העוף ואי אמרת</row>
+		<row row_number="22" isdata="1">מפר למתענה ואין מפר לשאין מתענה</row>
+</amud>
+</daf>
+</masechet>
+</root>

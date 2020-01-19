@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:18.658602</dateCreated>
+   <lastModified>2020-01-14 15:03:18.658602</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="37">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח ארבעה וחמשה"/><ContGemara/>שור שור ושור חמור וגמל מהו האי שור</row>
+		<row row_number="2" isdata="1">בתרא בתר שוורים שדינן ליה ואכתי</row>
+		<row row_number="3" isdata="1">לשוורים הוא דאייעד למידי אחרינא לא</row>
+		<row row_number="4" isdata="1">אייעד או דילמא האי שור בתרא בתר חמור</row>
+		<row row_number="5" isdata="1">וגמל שדינן ליה ואייעד ליה לכולהו מיני</row>
+		<row row_number="6" isdata="1">חמור וגמל שור שור ושור מהו האי שור</row>
+		<row row_number="7" isdata="1">קמא בתר חמור וגמל שדינן ליה ואייעד ליה</row>
+		<row row_number="8" isdata="1">לכולהו מיני או דילמא בתר שוורים שדינן</row>
+		<row row_number="9" isdata="1">ליה ואכתי לשוורים הוא דאייעד למינא</row>
+		<row row_number="10" isdata="1">אחרינא לא אייעד שבת שבת ושבת אחד</row>
+		<row row_number="11" isdata="1">בשבת ושני בשבת מהו הא שבת בתרייתא</row>
+		<row row_number="12" isdata="1">בתר שבת הוא דשדינן ליה ואכתי לשבת</row>
+		<row row_number="13" isdata="1">הוא דאייעד לימות החול לא אייעד או דילמא</row>
+		<row row_number="14" isdata="1">בתר אחד בשבת ושני בשבת שדינן ליה</row>
+		<row row_number="15" isdata="1">ואייעד ליה לכולי יומא ה' בשבת וערב שבת</row>
+		<row row_number="16" isdata="1">ושבת שבת ושבת מהו הא שבת קמייתא</row>
+		<row row_number="17" isdata="1">בתר ה' בשבת וע"ש שדינן ליה ואייעד</row>
+		<row row_number="18" isdata="1">לכולהו יומי או דילמא הא שבת קמייתא</row>
+		<row row_number="19" isdata="1">בתר שבתות הוא דשדינן ליה ולשבתות</row>
+		<row row_number="20" isdata="1">הוא דאייעד תיקו: נגח שור יום ט"ו בחודש</row>
+		<row row_number="21" isdata="1">זה ויום ט"ז בחודש זה ויום י"ז בחודש זה</row>
+		<row row_number="22" isdata="1">פלוגתא דרב ושמואל דאתמר ראתה</row>
+		<row row_number="23" isdata="1">יום ט"ו בחדש זה ויום ט"ז בחדש זה ויום</row>
+		<row row_number="24" isdata="1">י"ז בחדש זה רב אמר קבעה לה וסת ושמואל</row>
+		<row row_number="25" isdata="1">אמר עד שתשלש בדילוג אמר רבא שמע</row>
+		<row row_number="26" isdata="1">קול שופר ונגח קול שופר ונגח קול שופר</row>
+		<row row_number="27" isdata="1">ונגח נעשה מועד לשופרות פשיטא מהו</row>
+		<row row_number="28" isdata="1">דתימא הך שופר קמא סיוטא בעלמא הוא</row>
+		<row row_number="29" isdata="1">דנקטיה קמ"ל<EndGemara/><StartMishna/>מתני' שור של ישראל</row>
+		<row row_number="30" isdata="1">שנגח שור של הקדש ושל הקדש שנגח</row>
+		<row row_number="31" isdata="1">לשור של הדיוט פטור שנאמר שור רעהו</row>
+		<row row_number="32" isdata="1">ולא שור של הקדש שור של ישראל שנגח</row>
+		<row row_number="33" isdata="1">לשור של כנעני פטור ושל כנעני שנגח</row>
+		<row row_number="34" isdata="1">לשור של ישראל בין תם בין מועד משלם</row>
+		<row row_number="35" isdata="1">נזק שלם :<EndMishna/><StartGemara/>גמ' מתניתין דלא כר"ש בן</row>
+		<row row_number="36" isdata="1">מנסיא דתניא שור של הדיוט שנגח שור</row>
+		<row row_number="37" isdata="1">של הקדש ושל הקדש שנגח שור</row>
+		<row row_number="38" isdata="1">של הדיוט פטור שנאמר שור רעהו ולא שור של הקדש ר"ש</row>
+		<row row_number="39" isdata="1">בן מנסיא אומר שור של הקדש שנגח שור של הדיוט פטור ושל הדיוט שנגח</row>
+		<row row_number="40" isdata="1">שור של הקדש בין תם בין מועד משלם נזק שלם אמרי מאי קא סבר ר"ש</row>
+		<row row_number="41" isdata="1">אי רעהו דוקא אפילו של הדיוט שנגח של הקדש ליפטר ואי רעהו לאו דוקא</row>
+		<row row_number="42" isdata="1">אפילו דהקדש נמי כי נגח דהדיוט ליחייב וכי תימא לעולם קסבר רעהו דוקא</row>
+		<row row_number="43" isdata="1">ומיהו דהדיוט כי נגח דהקדש היינו טעמא דמיחייב משום דקא מייתי ליה מקל</row>
+		<row row_number="44" isdata="1">וחומר דהדיוט ומה הדיוט שנגח של הדיוט חייב כי נגח דהקדש לא כל שכן</row>
+		<row row_number="45" isdata="1">דמיחייב דיו לבא מן הדין להיות כנדון מה להלן תם חצי נזק הכא נמי חצי נזק</row>
+		<row row_number="46" isdata="1">אלא אמר ריש לקיש הכל היו בכלל נזק שלם כשפרט לך הכתוב רעהו גבי תם</row>
+		<row row_number="47" isdata="1">רעהו הוא דתם משלם חצי נזק מכלל דהקדש בין תם בין מועד משלם נזק שלם</row>
+</amud>
+</daf>
+</masechet>
+</root>

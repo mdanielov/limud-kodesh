@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:32.197530</dateCreated>
+   <lastModified>2020-01-14 15:03:32.197530</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="59">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContMishna/>ויכול למחות פחות מטפח אין לו חזקה ואין</row>
+		<row row_number="2" isdata="1">יכול למחות:<EndMishna/><StartGemara/>גמ' אמר רבי אסי אמר רבי</row>
+		<row row_number="3" isdata="1">מני ואמרי לה אמר רבי יעקב אמר רבי מני</row>
+		<row row_number="4" isdata="1">החזיק בטפח החזיק בד' מאי קאמר אמר אביי</row>
+		<row row_number="5" isdata="1">ה"ק החזיק רוחב טפח במשך ארבע החזיק</row>
+		<row row_number="6" isdata="1">ברוחב ארבע: פחות מטפח אין לו חזקה ואינו</row>
+		<row row_number="7" isdata="1">יכול למחות: אמר רב הונא לא שנו אלא בעל</row>
+		<row row_number="8" isdata="1">הגג בבעל החצר אבל בעל החצר בבעל</row>
+		<row row_number="9" isdata="1">הגג יכול למחות ורב יהודה אמר אפילו בעל</row>
+		<row row_number="10" isdata="1">חצר בבעל הגג אינו יכול למחות לימא</row>
+		<row row_number="11" isdata="1">בהיזק ראיה קמיפלגי דמר סבר שמיה היזק</row>
+		<row row_number="12" isdata="1">ומר סבר לאו שמיה היזק לא דכולי עלמא</row>
+		<row row_number="13" isdata="1">שמיה היזק ושאני הכא דאמר ליה לתשמישתא</row>
+		<row row_number="14" isdata="1">לא חזי למאי חזי למתלא ביה מידי מהדרנא</row>
+		<row row_number="15" isdata="1">אפאי ותלינא ביה ואידך א"ל זימנין דבעיתת:</row>
+		<row row_number="16" isdata="1"><EndGemara/><StartMishna/>מתני' לא יפתח אדם חלונותיו לחצר</row>
+		<row row_number="17" isdata="1">השותפין לקח בית בחצר אחרת לא יפתחנה</row>
+		<row row_number="18" isdata="1">בחצר השותפין בנה עלייה על גבי ביתו לא</row>
+		<row row_number="19" isdata="1">יפתחנה לחצר השותפין אלא אם רצה בונה</row>
+		<row row_number="20" isdata="1">את החדר לפנים מביתו ובונה עלייה על גבי</row>
+		<row row_number="21" isdata="1">ביתו ופותחה לתוך ביתו:<EndMishna/><StartGemara/>גמ' מאי איריא</row>
+		<row row_number="22" isdata="1">לחצר השותפין אפילו לחצר חבירו נמי לא</row>
+		<row row_number="23" isdata="1">לא מיבעיא קאמר לא מיבעיא לחצר חברו</row>
+		<row row_number="24" isdata="1">דלא אבל לחצר השותפין דא"ל סוף סוף הא</row>
+		<row row_number="25" isdata="1">קא בעית אצטנועי מינאי בחצר קא משמע לן</row>
+		<row row_number="26" isdata="1">דאמר ליה עד האידנא בחצר הוה בעינא</row>
+		<row row_number="27" isdata="1">אצטנועי מינך השתא אפי' בבית נמי בעינא</row>
+		<row row_number="28" isdata="1">אצטנועי מינך ת"ר מעשה באדם אחד שפתח</row>
+		<row row_number="29" isdata="1">חלוניו לחצר השותפין ובא לפני ר' ישמעאל</row>
+		<row row_number="30" isdata="1">בר רבי יוסי אמר לו החזקת בני החזקת ובא</row>
+		<row row_number="31" isdata="1">לפני רבי חייא אמר יגעת ופתחת יגע וסתום אמר רב נחמן</row>
+</amud>
+</daf>
+</masechet>
+</root>

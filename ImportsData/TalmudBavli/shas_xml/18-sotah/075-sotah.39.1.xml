@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:07.658085</dateCreated>
+   <lastModified>2020-01-14 15:03:07.658085</lastModified>
+ </meta>
+ <masechet name="סוטה" serial="18">
+<daf value="39">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו נאמרין"/><ContGemara/>והזה לאחריו לאחריו והזה לפניו הזאתו</row>
+		<row row_number="2" isdata="1">פסולה לפניו והזה על צדדין שבפניו הזאתו</row>
+		<row row_number="3" isdata="1">כשרה אמר רבא בר רב הונא כיון שנפתח</row>
+		<row row_number="4" isdata="1">ספר תורה אסור לספר אפילו בדבר הלכה</row>
+		<row row_number="5" isdata="1">שנאמר ובפתחו עמדו כל העם ואין עמידה</row>
+		<row row_number="6" isdata="1">אלא שתיקה שנא' והוחלתי כי לא ידברו</row>
+		<row row_number="7" isdata="1">כי עמדו לא ענו עוד ר' זירא אמר רב חסדא</row>
+		<row row_number="8" isdata="1">מהכא ואזני כל העם אל ספר התורה ואמר</row>
+		<row row_number="9" isdata="1">ר' יהושע בן לוי כל כהן שלא נטל ידיו לא</row>
+		<row row_number="10" isdata="1">ישא את כפיו שנאמר שאו ידיכם קדש</row>
+		<row row_number="11" isdata="1">וברכו את ה' שאלו תלמידיו את ר' אלעזר</row>
+		<row row_number="12" isdata="1">בן שמוע במה הארכת ימים אמר להן מימי</row>
+		<row row_number="13" isdata="1">לא עשיתי בית הכנסת קפנדריא ולא פסעתי</row>
+		<row row_number="14" isdata="1">על ראשי עם קודש ולא נשאתי כפי בלא</row>
+		<row row_number="15" isdata="1">ברכה מאי מברך אמר רבי זירא אמר רב</row>
+		<row row_number="16" isdata="1">חסדא אשר קדשנו בקדושתו של אהרן</row>
+		<row row_number="17" isdata="1">וצונו לברך את עמו ישראל באהבה כי</row>
+		<row row_number="18" isdata="1">עקר כרעיה מאי אמר יהי רצון מלפניך ה'</row>
+		<row row_number="19" isdata="1">אלהינו שתהא ברכה זו שצויתנו לברך</row>
+		<row row_number="20" isdata="1">את עמך ישראל לא יהא בה מכשול ועון</row>
+		<row row_number="21" isdata="1">וכי מהדר אפיה מציבורא מאי אמר אדבריה</row>
+		<row row_number="22" isdata="1">רב חסדא לרב עוקבא ודרש רבונו של</row>
+		<row row_number="23" isdata="1">עולם עשינו מה שגזרת עלינו עשה עמנו</row>
+</amud>
+</daf>
+</masechet>
+</root>

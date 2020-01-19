@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:08.761582</dateCreated>
+   <lastModified>2020-01-14 15:02:08.761582</lastModified>
+ </meta>
+ <masechet name="ברכות" serial="01">
+<daf value="42">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד מברכין"/><ContMishna/>בא להם יין בתוך המזון כל אחד ואחד מברך</row>
+		<row row_number="2" isdata="1">לעצמו אחר המזון אחד מברך לכולם והוא</row>
+		<row row_number="3" isdata="1">אומר על המוגמר ואע"פ שאין מביאין את</row>
+		<row row_number="4" isdata="1">המוגמר אלא לאחר סעודה:<EndMishna/><StartGemara/>גמ' אמר רבה</row>
+		<row row_number="5" isdata="1">בר בר חנה א"ר יוחנן לא שנו אלא בשבתות</row>
+		<row row_number="6" isdata="1">וימים טובים הואיל ואדם קובע סעודתו על</row>
+		<row row_number="7" isdata="1">היין אבל בשאר ימות השנה מברך על כל</row>
+		<row row_number="8" isdata="1">כוס וכוס אתמר נמי אמר רבה בר מרי א"ר</row>
+		<row row_number="9" isdata="1">יהושע בן לוי לא שנו אלא בשבתות וימים</row>
+		<row row_number="10" isdata="1">טובים ובשעה שאדם יוצא מבית המרחץ</row>
+		<row row_number="11" isdata="1">ובשעת הקזת דם הואיל ואדם קובע סעודתו</row>
+		<row row_number="12" isdata="1">על היין אבל בשאר ימות השנה מברך על</row>
+		<row row_number="13" isdata="1">כל כוס וכוס רבה בר מרי איקלע לבי רבא</row>
+		<row row_number="14" isdata="1">בחול חזייה דבריך לפני המזון והדר בריך</row>
+		<row row_number="15" isdata="1">לאחר המזון א"ל יישר וכן אמר ריב"ל רב</row>
+		<row row_number="16" isdata="1">יצחק בר יוסף איקלע לבי אביי בי"ט חזייה</row>
+		<row row_number="17" isdata="1">דבריך אכל כסא וכסא א"ל לא סבר לה מר</row>
+		<row row_number="18" isdata="1">להא דריב"ל א"ל נמלך אנא איבעיא להו בא</row>
+		<row row_number="19" isdata="1">להם יין בתוך המזון מהו שיפטור את היין</row>
+		<row row_number="20" isdata="1">שלאחר המזון אם תימצי לומר ברך על היין</row>
+		<row row_number="21" isdata="1">שלפני המזון פוטר את היין שלאחר המזון</row>
+		<row row_number="22" isdata="1">משום דזה לשתות וזה לשתות אבל הכא</row>
+		<row row_number="23" isdata="1">דזה לשתות וזה לשרות לא או דילמא לא</row>
+		<row row_number="24" isdata="1">שנא רב אמר פוטר ורב כהנא אמר אינו</row>
+		<row row_number="25" isdata="1">פוטר רב נחמן אמר פוטר ורב ששת אמר</row>
+		<row row_number="26" isdata="1">אינו פוטר רב הונא ורב יהודה וכל תלמידי</row>
+		<row row_number="27" isdata="1">דרב אמרי אינו פוטר איתיביה רבא לרב נחמן</row>
+		<row row_number="28" isdata="1">בא להם יין בתוך המזון כל אחד ואחד מברך</row>
+		<row row_number="29" isdata="1">לעצמו לאחר המזון אחד מברך לכולם א"ל</row>
+		<row row_number="30" isdata="1">הכי קאמר אם לא בא להם יין בתוך המזון</row>
+		<row row_number="31" isdata="1">אלא לאחר המזון אחד מברך לכולם: ברך</row>
+		<row row_number="32" isdata="1">על הפת פטר את הפרפרת על הפרפרת לא</row>
+		<row row_number="33" isdata="1">פטר את הפת ב"ש אומרים אף לא מעשה</row>
+		<row row_number="34" isdata="1">קדרה: איבעיא להו ב"ש ארישא פליגי או</row>
+		<row row_number="35" isdata="1">דילמא אסיפא פליגי דקאמר תנא קמא ברך</row>
+		<row row_number="36" isdata="1">על הפת פטר את הפרפרת וכ"ש מעשה</row>
+		<row row_number="37" isdata="1">קדרה ואתי ב"ש למימר לא מיבעיא פרפרת דלא פטרה להו פת אלא אפילו</row>
+		<row row_number="38" isdata="1">מעשה קדרה נמי לא פטרה או דילמא אסיפא פליגי דקתני ברך על הפרפרת</row>
+		<row row_number="39" isdata="1">לא פטר את הפת פת הוא דלא פטר אבל מעשה קדרה פטר ואתו ב"ש למימר</row>
+		<row row_number="40" isdata="1">ואפי' מעשה קדרה נמי לא פטר תיקו: היו יושבין כל אחד ואחד כו': הסבו אין</row>
+		<row row_number="41" isdata="1">לא הסבו לא ורמינהו עשרה שהיו הולכים בדרך אע"פ שכולם אוכלים מככר</row>
+		<row row_number="42" isdata="1">אחד כל אחד ואחד מברך לעצמו ישבו לאכול אע"פ שכל אחד ואחד אוכל</row>
+		<row row_number="43" isdata="1">מככרו אחד מברך לכולם קתני ישבו אע"פ שלא הסבו אמר רב נחמן בר</row>
+		<row row_number="44" isdata="1">יצחק כגון דאמרי ניזיל וניכול לחמא בדוך פלן כי נח נפשיה דרב אזלו</row>
+		<row row_number="45" isdata="1">תלמידיו בתריה כי הדרי אמרי ניזיל וניכול לחמא אנהר דנק בתר דכרכי יתבי</row>
+		<row row_number="46" isdata="1">וקא מיבעיא להו הסבו דוקא תנן אבל ישבו לא או דילמא כיון דאמרי ניזיל וניכול</row>
+		<row row_number="47" isdata="1">ריפתא בדוכתא פלניתא כי הסבו דמי לא הוה בידייהו קם רב אדא בר אהבה</row>
+</amud>
+</daf>
+</masechet>
+</root>

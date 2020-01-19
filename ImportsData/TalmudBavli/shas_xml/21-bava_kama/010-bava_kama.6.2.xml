@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:17.337085</dateCreated>
+   <lastModified>2020-01-14 15:03:17.337085</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="6">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אבות"/><ContGemara/>שור יוכיח מה לשור שכן דרכו לילך ולהזיק</row>
+		<row row_number="2" isdata="1">בור תוכיח וחזר הדין רבינא אמר לאתויי</row>
+		<row row_number="3" isdata="1">הא דתנן הכותל והאילן שנפלו לרה"ר</row>
+		<row row_number="4" isdata="1">והזיקו פטור מלשלם נתנו לו זמן לקוץ את</row>
+		<row row_number="5" isdata="1">האילן ולסתור את הכותל ונפלו בתוך הזמן</row>
+		<row row_number="6" isdata="1">והזיקו פטור לאחר הזמן חייב היכי דמי אי</row>
+		<row row_number="7" isdata="1">דאפקרה בין לרב בין לשמואל היינו בור</row>
+		<row row_number="8" isdata="1">מאי שנא בור דהזיקו מצוי ושמירתו עליך</row>
+		<row row_number="9" isdata="1">הני נמי הזיקן מצוי ושמירתן עליך אי דלא</row>
+		<row row_number="10" isdata="1">אפקרינהו לשמואל דאמר כולם מבורו</row>
+		<row row_number="11" isdata="1">למדנו היינו בור לעולם דאפקרינהו ולא דמי</row>
+		<row row_number="12" isdata="1">לבור מה לבור שכן תחילת עשייתו לנזק</row>
+		<row row_number="13" isdata="1">תאמר בהני שאין תחילת עשייתן לנזק שור</row>
+		<row row_number="14" isdata="1">יוכיח מה לשור שכן דרכו לילך ולהזיק בור</row>
+		<row row_number="15" isdata="1">תוכיח וחזר הדין: כשהזיק חב המזיק: חב</row>
+		<row row_number="16" isdata="1">המזיק חייב המזיק מיבעי ליה אמר רב יהודה</row>
+		<row row_number="17" isdata="1">אמר רב האי תנא ירושלמי הוא דתני</row>
+		<row row_number="18" isdata="1">לישנא קלילא: לשלם תשלומי נזק: ת"ר</row>
+		<row row_number="19" isdata="1">מיטב שדהו ומיטב כרמו ישלם מיטב שדהו</row>
+		<row row_number="20" isdata="1">של ניזק ומיטב כרמו של ניזק דברי רבי</row>
+		<row row_number="21" isdata="1">ישמעאל ר' עקיבא אומר לא בא הכתוב</row>
+		<row row_number="22" isdata="1">אלא לגבות לנזקין מן העידית וק"ו להקדש</row>
+		<row row_number="23" isdata="1">ור' ישמעאל אכל שמינה משלם שמינה אכל</row>
+		<row row_number="24" isdata="1">כחושה משלם שמינה אמר רב אידי בר אבין</row>
+		<row row_number="25" isdata="1">הכא במאי עסקינן כגון שאכל ערוגה בין</row>
+		<row row_number="26" isdata="1">הערוגות ולא ידעינן אי כחושה אכל אי</row>
+		<row row_number="27" isdata="1">שמינה אכל דמשלם שמינה אמר רבא ומה</row>
+		<row row_number="28" isdata="1">אילו ידעינן דכחושה אכל לא משלם אלא</row>
+		<row row_number="29" isdata="1">כחושה השתא דלא ידעינן אי כחושה אכל</row>
+		<row row_number="30" isdata="1">אי שמינה אכל משלם שמינה המוציא מחבירו</row>
+		<row row_number="31" isdata="1">עליו הראיה אלא אמר רב אחא בר יעקב</row>
+		<row row_number="32" isdata="1">הכא במאי עסקינן כגון שהיתה עידית</row>
+		<row row_number="33" isdata="1">דניזק כזיבורית דמזיק ובהא פליגי רבי</row>
+		<row row_number="34" isdata="1">ישמעאל סבר בדניזק שיימינן ורבי</row>
+		<row row_number="35" isdata="1">עקיבא סבר בדמזיק שיימינן מ"ט דרבי</row>
+		<row row_number="36" isdata="1">ישמעאל נאמר שדה למטה ונאמר שדה</row>
+		<row row_number="37" isdata="1">למעלה מה שדה האמור למעלה דניזק אף</row>
+		<row row_number="38" isdata="1">שדה האמור למטה דניזק ורבי עקיבא מיטב</row>
+		<row row_number="39" isdata="1">שדהו ומיטב כרמו ישלם דהאיך דקא משלם</row>
+		<row row_number="40" isdata="1">ורבי ישמעאל אהני גזרה שוה ואהני קרא</row>
+		<row row_number="41" isdata="1">אהני גזרה שוה כדקאמינא אהני קרא כגון</row>
+		<row row_number="42" isdata="1">דאית ליה למזיק עידית וזיבורית ועידית</row>
+		<row row_number="43" isdata="1">לניזק וזיבורית דמזיק לא שויא כעידית דניזק</row>
+		<row row_number="44" isdata="1">דמשלם ליה ממיטב דידיה דלא מצי אמר</row>
+		<row row_number="45" isdata="1">ליה תא את גבי מזיבורית אלא גבי ממיטב</row>
+		<row row_number="46" isdata="1">ר' עקיבא אומר לא בא הכתוב אלא לגבות</row>
+		<row row_number="47" isdata="1">לניזקין מן העידית וקל וחומר להקדש מאי קל</row>
+		<row row_number="48" isdata="1">וחומר להקדש אילימא דנגח תורא דידן לתורא</row>
+		<row row_number="49" isdata="1">דהקדש שור רעהו אמר רחמנא ולא</row>
+		<row row_number="50" isdata="1">שור של הקדש אלא לאומר הרי עלי</row>
+		<row row_number="51" isdata="1">מנה לבדק הבית דאתי גזבר ושקיל</row>
+		<row row_number="52" isdata="1">מעידית לא יהא אלא בעל חוב</row>
+</amud>
+</daf>
+</masechet>
+</root>

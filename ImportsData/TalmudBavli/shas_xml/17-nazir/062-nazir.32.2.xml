@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:04.920488</dateCreated>
+   <lastModified>2020-01-14 15:03:04.920488</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="32">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בית שמאי"/><ContMishna/>ואם משנגנבה בהמתו נזר אינו נזיר וזו</row>
+		<row row_number="2" isdata="1">טעות טעה נחום המדי כשעלו נזירים מן</row>
+		<row row_number="3" isdata="1">הגולה ומצאו בהמ"ק חרב אמר להם נחום</row>
+		<row row_number="4" isdata="1">המדי אילו הייתם יודעין שבהמ"ק חרב הייתם</row>
+		<row row_number="5" isdata="1">נוזרים אמרו לו לא והתירן נחום המדי</row>
+		<row row_number="6" isdata="1">וכשבא הדבר אצל חכמים אמרו כל</row>
+		<row row_number="7" isdata="1">שנזר עד שלא חרב בהמ"ק נזיר ומשחרב</row>
+		<row row_number="8" isdata="1">בהמ"ק אינו נזיר:<EndMishna/><StartGemara/>גמ' אמר רבה שטפוהו</row>
+		<row row_number="9" isdata="1">רבנן לר' אליעזר ואוקמיה בשיטתייהו דתנן</row>
+		<row row_number="10" isdata="1">פותחין בנולד דברי ר"א וחכמים אוסרין</row>
+		<row row_number="11" isdata="1">ואמר רבא אע"ג דאמור רבנן אין פותחין</row>
+		<row row_number="12" isdata="1">בנולד אבל פותחין בתנאי נולד ה"ד אמרי</row>
+		<row row_number="13" isdata="1">להון אילו אתא איניש ואמר לכון דחרב</row>
+		<row row_number="14" isdata="1">בהמ"ק מי הוה נדריתון אמר רב יוסף אי</row>
+		<row row_number="15" isdata="1">הואי התם הוה אמינא להון הכתיב היכל</row>
+		<row row_number="16" isdata="1">י"י היכל י"י היכל י"י המה זה מקדש ראשון</row>
+		<row row_number="17" isdata="1">ומקדש שני נהי דידעין להון דיחרוב מי</row>
+		<row row_number="18" isdata="1">יודעין לאימתי אמר אביי ולא ידעין לאימת</row>
+		<row row_number="19" isdata="1">והכתיב שבועים שבעים נחתך על עמך</row>
+		<row row_number="20" isdata="1">ועל עיר קדשך ואכתי מי ידעינן בהי יומא:</row>
+		<row row_number="21" isdata="1"><EndGemara/><StartMishna/>מתני' היו מהלכין בדרך ואחד בא</row>
+		<row row_number="22" isdata="1">כנגדן אמר אחד מהן הריני נזיר שזה</row>
+		<row row_number="23" isdata="1">פלוני ואחד אמר הריני נזיר שאין זה פלוני</row>
+		<row row_number="24" isdata="1">הריני נזיר שאחד מכם נזיר שאין אחד</row>
+		<row row_number="25" isdata="1">מכם נזיר ששניכם נזירים שכולכם נזירים</row>
+		<row row_number="26" isdata="1">בית שמאי אומרים כולן נזירין וב"ה אומרים</row>
+		<row row_number="27" isdata="1">אינו נזיר אלא מי שלא נתקיימו דבריו ור"ט</row>
+		<row row_number="28" isdata="1">אומר אין אחד מהם נזיר הרתיע לאחוריו</row>
+		<row row_number="29" isdata="1">אינו נזיר ר"ש אומר יאמר אם היה כדברי</row>
+		<row row_number="30" isdata="1">הריני נזיר חובה ואם לאו הריני נזיר נדבה:</row>
+		<row row_number="31" isdata="1"><EndMishna/><StartGemara/>גמ' מי שלא נתקיימו דבריו אמאי הוי נזיר</row>
+		<row row_number="32" isdata="1">אמר רב יהודה אימא מי שנתקיימו דבריו</row>
+</amud>
+</daf>
+</masechet>
+</root>

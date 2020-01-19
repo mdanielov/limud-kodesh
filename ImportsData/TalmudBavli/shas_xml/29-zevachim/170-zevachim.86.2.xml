@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:00.079087</dateCreated>
+   <lastModified>2020-01-14 15:04:00.079087</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="86">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המזבח מקדש"/><ContGemara/>בשרירי מנא הני מילי אמר רב כתוב אחד</row>
+		<row row_number="2" isdata="1">אומר כל הלילה והקטיר וכתוב אחד אומר</row>
+		<row row_number="3" isdata="1">כל הלילה והרים חלקיהו חציו להקטרה</row>
+		<row row_number="4" isdata="1">וחציו להרמה מתיב רב כהנא בכל יום</row>
+		<row row_number="5" isdata="1">תורם את המזבח מקרות הגבר או סמוך לו</row>
+		<row row_number="6" isdata="1">מלפניו [או] מאחריו ביום הכיפורים בחצות</row>
+		<row row_number="7" isdata="1">ברגלים באשמורת הראשונה ואי סלקא</row>
+		<row row_number="8" isdata="1">דעתך מחצות דאורייתא היכי מקדמינן</row>
+		<row row_number="9" isdata="1">(והיכי מאחרינן אלא) אמר רבי יוחנן ממשמע</row>
+		<row row_number="10" isdata="1">שנאמר כל הלילה איני יודע שעד הבקר</row>
+		<row row_number="11" isdata="1">מה תלמוד לומר עד בקר תן בקר לבקרו של</row>
+		<row row_number="12" isdata="1">לילה הלכך כל יומא מקרות הגבר סגי</row>
+		<row row_number="13" isdata="1">ביום הכיפורים משום חולשא דכהן גדול</row>
+		<row row_number="14" isdata="1">מחצות ברגלים דנפישי קרבנות דקדמי</row>
+		<row row_number="15" isdata="1">אתו ישראל מאשמורת הראשונה כדקתני</row>
+		<row row_number="16" isdata="1">סיפא לא היתה קריית הגבר מגעת עד</row>
+		<row row_number="17" isdata="1">שהיתה עזרה מלאה מישראל איתמר פירשו</row>
+		<row row_number="18" isdata="1">קודם חצות והחזירן אחר חצות רבה אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

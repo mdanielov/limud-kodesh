@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:40.386755</dateCreated>
+   <lastModified>2020-01-14 15:03:40.386755</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="27">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "זה בורר"/><ContGemara/>עד זומם אביי אמר למפרע הוא נפסל</row>
+		<row row_number="2" isdata="1">ורבא אמר מיכן ולהבא הוא נפסל אביי</row>
+		<row row_number="3" isdata="1">אמר למפרע הוא נפסל מעידנא דאסהיד</row>
+		<row row_number="4" isdata="1">רשע הוא והתורה אמרה אל תשת ידך</row>
+		<row row_number="5" isdata="1">עם רשע אל תשת רשע עד רבא אמר מיכן</row>
+		<row row_number="6" isdata="1">ולהבא הוא נפסל עד זומם חידוש הוא מאי</row>
+		<row row_number="7" isdata="1">חזית דסמכת אהני סמוך אהני אין לך בו</row>
+		<row row_number="8" isdata="1">אלא משעת חידושו ואילך איכא דאמרי רבא</row>
+		<row row_number="9" isdata="1">נמי כאביי סבירא ליה ומאי טעם קאמר</row>
+		<row row_number="10" isdata="1">מכאן ולהבא משום פסידא דלקוחות מאי</row>
+		<row row_number="11" isdata="1">בינייהו איכא בינייהו דאסהידו בי תרי בחד</row>
+		<row row_number="12" isdata="1">אי נמי דפסלינהו בגזלנותא ואמר ר' ירמיה</row>
+		<row row_number="13" isdata="1">מדיפתי עבד רב פפי עובדא כוותיה דרבא</row>
+		<row row_number="14" isdata="1">מר בר רב אשי אמר הלכתא כותיה דאביי</row>
+		<row row_number="15" isdata="1">והלכתא כוותיה דאביי ביע"ל קג"ם מומר</row>
+		<row row_number="16" isdata="1">אוכל נבילות לתיאבון דברי הכל פסול</row>
+		<row row_number="17" isdata="1">להכעיס אביי אמר פסול רבא אמר כשר</row>
+		<row row_number="18" isdata="1">אביי אמר פסול דהוה ליה רשע ורחמנא</row>
+		<row row_number="19" isdata="1">אמר אל תשת רשע עד ורבא אמר כשר</row>
+		<row row_number="20" isdata="1">רשע דחמס בעינן מיתיבי אל תשת רשע</row>
+		<row row_number="21" isdata="1">עד אל תשת חמס עד אלו גזלנין ומועלין</row>
+		<row row_number="22" isdata="1">בשבועות מאי לאו אחד שבועת שוא ואחד</row>
+		<row row_number="23" isdata="1">שבועת ממון לא אידי ואידי שבועת ממון</row>
+		<row row_number="24" isdata="1">ומאי שבועות שבועות דעלמא מיתיבי אל</row>
+		<row row_number="25" isdata="1">תשת רשע עד אל תשת חמס עד אלו</row>
+		<row row_number="26" isdata="1">גזלנין ומלוי רביות תיובתא דאביי תיובתא</row>
+		<row row_number="27" isdata="1">נימא כתנאי עד זומם פסול לכל התורה</row>
+		<row row_number="28" isdata="1">כולה דברי רבי מאיר ר' יוסי אומר בד"א</row>
+		<row row_number="29" isdata="1">שהוזם בדיני נפשות אבל הוזם בדיני ממונות</row>
+		<row row_number="30" isdata="1">כשר לדיני נפשות נימא אביי כר"מ ורבא</row>
+		<row row_number="31" isdata="1">כר' יוסי אביי כר"מ דאמר אמרינן מקולא</row>
+		<row row_number="32" isdata="1">לחומרא ורבא דאמר כרבי יוסי דאמר</row>
+		<row row_number="33" isdata="1">מחומרא לקולא אמרינן מקולא לחומרא</row>
+		<row row_number="34" isdata="1">לא אמרינן לא אליבא דר' יוסי כ"ע לא פליגי</row>
+		<row row_number="35" isdata="1">כי פליגי אליבא דר"מ אביי כר"מ ורבא עד</row>
+		<row row_number="36" isdata="1">כאן לא קאמר ר"מ התם אלא גבי עד זומם</row>
+		<row row_number="37" isdata="1">דממון דרע לשמים ורע לבריות אבל הכא</row>
+		<row row_number="38" isdata="1">דרע לשמים ואין רע לבריות לא והלכתא</row>
+		<row row_number="39" isdata="1">כוותיה דאביי והא איתותב ההיא רבי יוסי</row>
+		<row row_number="40" isdata="1">היא ותיהוי נמי ר' יוסי ר"מ ור' יוסי הלכה</row>
+		<row row_number="41" isdata="1">כר' יוסי שאני התם דסתם לן תנא כרבי</row>
+		<row row_number="42" isdata="1">מאיר והיכא סתם לן כי הא דבר חמא קטל</row>
+		<row row_number="43" isdata="1">נפשא אמר ליה ריש גלותא לרב אבא</row>
+		<row row_number="44" isdata="1">בר יעקב פוק עיין בה אי ודאי קטל</row>
+		<row row_number="45" isdata="1">ליכהיוהו לעיניה אתו תרי סהדי אסהידו</row>
+		<row row_number="46" isdata="1">ביה דודאי קטל אזל איהו אייתי תרי סהדי</row>
+		<row row_number="47" isdata="1">אסהידו ביה בחד מהנך חד אמר קמאי דידי</row>
+		<row row_number="48" isdata="1">גנב קבא דחושלא וחד אמר קמאי דידי גנב</row>
+</amud>
+</daf>
+</masechet>
+</root>

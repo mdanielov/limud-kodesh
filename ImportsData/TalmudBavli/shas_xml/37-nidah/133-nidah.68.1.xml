@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:33.431332</dateCreated>
+   <lastModified>2020-01-14 15:04:33.431332</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="68">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "תינוקת "/><ContGemara/>תסגי אייתי למחר וידע מאי קאמרה ליה</row>
+		<row row_number="2" isdata="1">אמר דודי חסרת טשטקי חסרת עבדי</row>
+		<row row_number="3" isdata="1">חסרת דרש רבא אשה חופפת בערב שבת</row>
+		<row row_number="4" isdata="1">וטובלת במוצאי שבת אמר ליה רב פפא</row>
+		<row row_number="5" isdata="1">לרבא והא שלח רבין באגרתיה אשה לא</row>
+		<row row_number="6" isdata="1">תחוף בערב שבת ותטבול במוצאי שבת</row>
+		<row row_number="7" isdata="1">ותמה על עצמך היאך חופפת ביום וטובלת</row>
+		<row row_number="8" isdata="1">בלילה הא בעינן תכף לחפיפה טבילה</row>
+		<row row_number="9" isdata="1">וליכא הדר אוקי רבא אמורא עליה ודרש</row>
+		<row row_number="10" isdata="1">דברים שאמרתי לפניכם טעות הן בידי</row>
+		<row row_number="11" isdata="1">ברם כך אמרו משמיה דרבי יוחנן אשה</row>
+		<row row_number="12" isdata="1">לא תחוף בערב שבת ותטבול במוצאי שבת</row>
+		<row row_number="13" isdata="1">ותמה על עצמך היאך חופפת ביום וטובלת</row>
+		<row row_number="14" isdata="1">בלילה הא בעינן סמוך לחפיפה טבילה</row>
+		<row row_number="15" isdata="1">וליכא והלכתא אשה חופפת ביום וטובלת</row>
+		<row row_number="16" isdata="1">בלילה והלכתא אשה לא תחוף אלא בלילה</row>
+		<row row_number="17" isdata="1">(אלא) קשיא הלכתא אהלכתא לא קשיא</row>
+		<row row_number="18" isdata="1">הא דאפשר הא דלא אפשר<EndGemara/><StartMishna/>מתני' נדה</row>
+		<row row_number="19" isdata="1">שבדקה עצמה יום שביעי שחרית ומצאה</row>
+		<row row_number="20" isdata="1">טהורה ובין השמשות לא הפרישה ולאחר</row>
+		<row row_number="21" isdata="1">ימים בדקה ומצאה טמאה הרי היא בחזקת</row>
+		<row row_number="22" isdata="1">טהורה בדקה עצמה ביום שביעי שחרית</row>
+		<row row_number="23" isdata="1">ומצאה טמאה ובין השמשות לא הפרישה</row>
+		<row row_number="24" isdata="1">ולאחר זמן בדקה ומצאה טהורה הרי זו</row>
+		<row row_number="25" isdata="1">בחזקת טמאה ומטמאה מעת לעת ומפקידה</row>
+		<row row_number="26" isdata="1">לפקידה ואם יש לה וסת דיה שעתה ור'</row>
+		<row row_number="27" isdata="1">יהודה אומר כל שלא הפרישה בטהרה</row>
+		<row row_number="28" isdata="1">מן המנחה ולמעלה הרי זו בחזקת טמאה</row>
+		<row row_number="29" isdata="1">וחכמים אומרים אפילו בשנים לנדתה</row>
+		<row row_number="30" isdata="1">בדקה ומצאה טהורה ובין השמשות לא</row>
+		<row row_number="31" isdata="1">הפרישה ולאחר זמן בדקה ומצאה טמאה</row>
+		<row row_number="32" isdata="1">הרי זו בחזקת טהורה:<EndMishna/><StartGemara/>גמ' איתמר רב</row>
+		<row row_number="33" isdata="1">אמר זבה ודאי ולוי אמר זבה ספק אהייא אילימא ארישא הרי זו</row>
+		<row row_number="34" isdata="1">בחזקת טהורה קתני אלא אסיפא בשלמא ספק זבה אמרינן אלא</row>
+		<row row_number="35" isdata="1">זבה ודאי נמי הרי בדקה ומצאה טהורה אלא כי איתמר דרב ולוי שמעתא</row>
+		<row row_number="36" isdata="1">באפי נפשה איתמר נדה שבדקה עצמה ביום השביעי שחרית ומצאה טמאה</row>
+		<row row_number="37" isdata="1">ובין השמשות לא הפרישה ולאחר ימים בדקה ומצאה טמאה רב אמר זבה</row>
+		<row row_number="38" isdata="1">ודאי ולוי אמר זבה ספק רב אמר זבה ודאי כיון דמעיקרא נמצאת טמאה</row>
+		<row row_number="39" isdata="1">ועכשיו נמצאת טמאה טמאה ודאי ולוי אמר ספק זבה אימר פסקה ביני וביני</row>
+</amud>
+</daf>
+</masechet>
+</root>

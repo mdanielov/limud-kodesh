@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:24.901052</dateCreated>
+   <lastModified>2020-01-14 15:04:24.901052</lastModified>
+ </meta>
+ <masechet name="תמורה" serial="34">
+<daf value="12">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל ממירין"/><ContGemara/>א"ל מי קרינא ביה כי ירחק ממך המקום</row>
+		<row row_number="2" isdata="1">וזבחת בעי מיניה אביי מרב יוסף היא חולין</row>
+		<row row_number="3" isdata="1">וולדה שלמים ושחטה בחוץ מהו מי מחייב</row>
+		<row row_number="4" isdata="1">עליה משום שחוטי חוץ או לא א"ל מי קרינא</row>
+		<row row_number="5" isdata="1">ביה והביאום לה' ל"א א"ל ראוי לפתח אהל</row>
+		<row row_number="6" isdata="1">מועד חייבין עליו בחוץ <EndGemara/><StartMishna/>מתני' אין</row>
+		<row row_number="7" isdata="1">המדומע מדמע אלא לפי חשבון ואין</row>
+		<row row_number="8" isdata="1">המחומץ מחמץ אלא לפי חשבון ואין המים</row>
+		<row row_number="9" isdata="1">שאובין פוסלין את המקוה אלא לפי חשבון</row>
+		<row row_number="10" isdata="1">ואין מי חטאת עושין מי חטאת אלא עם</row>
+		<row row_number="11" isdata="1">מתן אפר ואין בית הפרס עושין בית הפרס</row>
+		<row row_number="12" isdata="1">ואין תרומה אחר תרומה ואין תמורה עושה</row>
+		<row row_number="13" isdata="1">תמורה ולא הולד עושה תמורה ר' יהודה</row>
+		<row row_number="14" isdata="1">אומר הולד עושה תמורה אמרו לו הקדש</row>
+		<row row_number="15" isdata="1">עושה תמורה ואין הולד עושה תמורה:</row>
+		<row row_number="16" isdata="1"><EndMishna/><StartGemara/>גמ' מאן תנא א"ר חייא בר אבא א"ר יוחנן</row>
+		<row row_number="17" isdata="1">דלא כרבי אליעזר דתנן סאה של תרומה</row>
+		<row row_number="18" isdata="1">שנפלה לפחות ממאה חולין ונדמעו ונפל מן</row>
+		<row row_number="19" isdata="1">המדומע למקום אחר רבי אליעזר אומר מדמע</row>
+		<row row_number="20" isdata="1">כתרומה ודאי (שאני אומר סאה שנפלה</row>
+		<row row_number="21" isdata="1">היא שעלתה) וחכ"א אינה מדמעת אלא</row>
+		<row row_number="22" isdata="1">לפי חשבון שבה: ואין המחומץ מחמץ</row>
+		<row row_number="23" isdata="1">כו': אמר רבי אבא אמר רבי יוחנן מתניתין</row>
+		<row row_number="24" isdata="1">דלא כרבי אליעזר דתנן שאור של חולין ושל</row>
+		<row row_number="25" isdata="1">תרומה שנפלו לתוך העיסה ולא בזה כדי</row>
+		<row row_number="26" isdata="1">להחמיץ ולא בזה כדי להחמיץ ונצטרפו</row>
+		<row row_number="27" isdata="1">וחימצו רבי אליעזר אומר אחר אחרון אני</row>
+		<row row_number="28" isdata="1">בא וחכמים אומרים בין שנפל איסור לכתחילה</row>
+		<row row_number="29" isdata="1">ובין שנפל איסור בסוף לעולם אין אסור עד</row>
+		<row row_number="30" isdata="1">שיהא בו כדי להחמיץ: ואין המים שאובין</row>
+		<row row_number="31" isdata="1">פוסלין את המקוה: מאן תנא אמר רבי חייא</row>
+		<row row_number="32" isdata="1">בר אבא אמר רבי יוחנן רבי אליעזר בן</row>
+		<row row_number="33" isdata="1">יעקב היא דתנן ר' אליעזר בן יעקב אומר</row>
+		<row row_number="34" isdata="1">מקוה שיש בו עשרים ואחת סאה מי גשמים</row>
+		<row row_number="35" isdata="1">ממלא בכתף תשע עשרה סאה ופותקן למקוה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:16.307652</dateCreated>
+   <lastModified>2020-01-14 15:02:16.307652</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="126">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הכלים"/><ContGemara/>שיש להם בית אחיזה ניטלין בשבת ואמר</row>
+		<row row_number="2" isdata="1">רב יהודה בר שילא אמר רב אסי אמר רבי</row>
+		<row row_number="3" isdata="1">יוחנן והוא שיש תורת כלי עליהן וכי תימא</row>
+		<row row_number="4" isdata="1">הכא נמי דאיכא תורת כלי עליו ומי בעי</row>
+		<row row_number="5" isdata="1">רשב"ג תורת כלי עליו והתניא חריות של</row>
+		<row row_number="6" isdata="1">דקל שגדרן לשם עצים ונמלך עליהן לישיבה</row>
+		<row row_number="7" isdata="1">צריך לקשר רשב"ג אומר אין צריך לקשר</row>
+		<row row_number="8" isdata="1">רבי יוחנן סבירא ליה כוותיה בחדא ופליג</row>
+		<row row_number="9" isdata="1">עליה בחדא דרש רבי יצחק נפחא אפתחא</row>
+		<row row_number="10" isdata="1">דריש גלותא הלכה כרבי אליעזר מתיב רב</row>
+		<row row_number="11" isdata="1">עמרם ומדבריהם למדנו שפוקקין ומודדין</row>
+		<row row_number="12" isdata="1">וקושרין בשבת א"ל [אביי] מאי דעתיך משום</row>
+		<row row_number="13" isdata="1">דקתני סתמא נגר הנגרר נמי סתמא היא</row>
+		<row row_number="14" isdata="1">ואפי' הכי מעשה רב<EndGemara/><StartMishna/>מתני' ( כל) כיסוי</row>
+		<row row_number="15" isdata="1">הכלים שיש להם בית אחיזה ניטלין בשבת</row>
+		<row row_number="16" isdata="1">א"ר יוסי בד"א בכיסוי קרקעות אבל בכיסוי</row>
+		<row row_number="17" isdata="1">הכלים בין כך ובין כך ניטלין בשבת:</row>
+		<row row_number="18" isdata="1"><EndMishna/><StartGemara/>גמ' אמר רב יהודה בר שילא א"ר אסי א"ר</row>
+		<row row_number="19" isdata="1">יוחנן והוא שיש תורת כלי עליהן דכ"ע כסוי</row>
+		<row row_number="20" isdata="1">קרקעות אם יש להן בית אחיזה אין אי לא לא</row>
+		<row row_number="21" isdata="1">כסוי הכלים אע"ג דאין להם בית אחיזה כי</row>
+		<row row_number="22" isdata="1">פליגי בכלים דחברינהו בארעא מ"ס גזרינן</row>
+		<row row_number="23" isdata="1">ומ"ס לא גזרינן לישנא אחרינא כי פליגי</row>
+		<row row_number="24" isdata="1">בכיסוי תנור מר מדמי ליה לכיסוי קרקע</row>
+		<row row_number="25" isdata="1">ומר מדמי ליה לכיסוי כלים:<EndChapter name = "כל הכלים"/><EndGemara/></row>
+		<row row_number="26" isdata="0">הדרן עלך כל הכלים</row>
+		<row row_number="27" isdata="1"><StartChapter name = "מפנין"/><StartMishna/>מפנין אפילו ארבע וחמש קופות של</row>
+		<row row_number="28" isdata="1">תבן ושל תבואה מפני האורחים</row>
+		<row row_number="29" isdata="1">ומפני בטול בהמ"ד אבל לא את האוצר</row>
+		<row row_number="30" isdata="1">מפנין תרומה טהורה ודמאי ומעשר ראשון</row>
+		<row row_number="31" isdata="1">שניטלה תרומתו ומעשר שני והקדש שנפדו</row>
+		<row row_number="32" isdata="1">והתורמוס היבש מפני שהוא מאכל לעזים</row>
+		<row row_number="33" isdata="1">אבל לא את הטבל ולא את מעשר [ראשון]</row>
+		<row row_number="34" isdata="1">שלא נטלה תרומתו ולא את מעשר שני</row>
+		<row row_number="35" isdata="1">והקדש שלא נפדו ולא את הלוף ולא את</row>
+		<row row_number="36" isdata="1">החרדל ר' שמעון בן גמליאל מתיר בלוף</row>
+		<row row_number="37" isdata="1">מפני שהוא מאכל עורבין חבילי קש וחבילי</row>
+		<row row_number="38" isdata="1">עצים וחבילי זרדים אם התקינן למאכל</row>
+		<row row_number="39" isdata="1">בהמה מטלטלין אותן ואם לאו אין מטלטלין</row>
+		<row row_number="40" isdata="1">אותן:<EndMishna/><StartGemara/>גמ' השתא חמש מפנין ארבע</row>
+		<row row_number="41" isdata="1">מיבעיא אמר רב חסדא ארבע מחמש</row>
+		<row row_number="42" isdata="1">( איכא דאמרי ארבע מאוצר קטן) וחמש</row>
+		<row row_number="43" isdata="1">מאוצר גדול ומאי אבל לא את האוצר</row>
+		<row row_number="44" isdata="1">שלא יתחיל באוצר תחלה ומני רבי</row>
+		<row row_number="45" isdata="1">יהודה היא דאית ליה מוקצה ושמואל אמר ארבע וחמש</row>
+</amud>
+</daf>
+</masechet>
+</root>

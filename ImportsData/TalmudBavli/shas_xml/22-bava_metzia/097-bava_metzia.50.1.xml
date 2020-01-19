@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:25.426527</dateCreated>
+   <lastModified>2020-01-14 15:03:25.426527</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="50">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הזהב"/><ContGemara/>שוה שש בחמש מי נתאנה מוכר יד מוכר על</row>
+		<row row_number="2" isdata="1">העליונה רצה אומר לו תן לי מקחי או תן לי</row>
+		<row row_number="3" isdata="1">מה שאוניתני איבעיא להו פחות משתות</row>
+		<row row_number="4" isdata="1">לרבנן לאלתר הויא מחילה או בכדי שיראה</row>
+		<row row_number="5" isdata="1">לתגר או לקרובו ואם תמצי לומר בכדי</row>
+		<row row_number="6" isdata="1">שיראה לתגר או לקרובו מאי איכא בין שתות</row>
+		<row row_number="7" isdata="1">לפחות משתות איכא דאילו שתות ידו על</row>
+		<row row_number="8" isdata="1">העליונה רצה חוזר רצה קונה ומחזיר אונאה</row>
+		<row row_number="9" isdata="1">ואילו פחות משתות קנה ומחזיר אונאה מאי</row>
+		<row row_number="10" isdata="1">תא שמע חזרו לדברי חכמים סברוה פחות</row>
+		<row row_number="11" isdata="1">משליש לר' טרפון כפחות משתות לרבנן דמי</row>
+		<row row_number="12" isdata="1">אי אמרת בשלמא פחות משתות לרבנן</row>
+		<row row_number="13" isdata="1">בכדי שיראה לתגר או לקרובו ולרבי טרפון</row>
+		<row row_number="14" isdata="1">כל היום משום הכי חזרו אלא אי אמרת</row>
+		<row row_number="15" isdata="1">פחות משתות לרבנן לאלתר הויא מחילה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.744684</dateCreated>
+   <lastModified>2020-01-14 15:02:26.744684</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="46">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו עוברין"/><ContGemara/>לענין צירוף טומאה בפסח ובשאר ימות</row>
+		<row row_number="2" isdata="1">השנה איכא פלוגתא היכי דמי כגון דאיכא</row>
+		<row row_number="3" isdata="1">פחות מכביצה אוכלין ונגעו בהאי בצק</row>
+		<row row_number="4" isdata="1">בפסח דאיסורו חשוב מצטרף בשאר ימות</row>
+		<row row_number="5" isdata="1">השנה דבקפידא תליא מילתא אם מקפיד</row>
+		<row row_number="6" isdata="1">עליו מצטרף אם רוצה בקיומו הרי הוא</row>
+		<row row_number="7" isdata="1">כעריבה מתקיף לה רבא מי קתני מצטרף</row>
+		<row row_number="8" isdata="1">והא חוצץ קתני אלא אמר רבא וכן להעלות</row>
+		<row row_number="9" isdata="1">טהרה לעריבה היכי דמי כגון דאיטמי הך</row>
+		<row row_number="10" isdata="1">עריבה ובעי לאטבולי בפסח דאיסורו חשוב</row>
+		<row row_number="11" isdata="1">חוצץ ולא סלקא לה טבילה בשאר ימות</row>
+		<row row_number="12" isdata="1">השנה בקפידא תליא מילתא אי מקפיד עליו</row>
+		<row row_number="13" isdata="1">חוצץ ואם רוצה בקיומו הרי הוא כעריבה</row>
+		<row row_number="14" isdata="1">מתקיף לה רב פפא מי קתני וכן לענין טהרה</row>
+		<row row_number="15" isdata="1">הא לענין טומאה קתני אלא אמר רב פפא</row>
+		<row row_number="16" isdata="1">וכן לענין להוריד טומאה לעריבה היכי דמי</row>
+		<row row_number="17" isdata="1">כגון דנגע שרץ בהאי בצק בפסח דאיסורו</row>
+		<row row_number="18" isdata="1">חשוב חוצץ ולא נחתה לה טומאה בשאר</row>
+		<row row_number="19" isdata="1">ימות השנה דבקפידא תליא אם מקפיד עליו</row>
+		<row row_number="20" isdata="1">חוצץ אם רוצה בקיומו הרי הוא כעריבה:</row>
+		<row row_number="21" isdata="1"><EndGemara/><StartMishna/>מתני' בצק החרש אם יש כיוצא בו</row>
+		<row row_number="22" isdata="1">שהחמיץ הרי זה אסור:<EndMishna/><StartGemara/>גמ' אם אין שם</row>
+		<row row_number="23" isdata="1">כיוצא בו מהו א"ר אבהו אמר ר' שמעון בן</row>
+		<row row_number="24" isdata="1">לקיש כדי שילך אדם ממגדל נוניא לטבריא</row>
+		<row row_number="25" isdata="1">מיל ונימא מיל הא קמ"ל דשיעורא דמיל</row>
+		<row row_number="26" isdata="1">כממגדל נוניא ועד טבריא א"ר אבהו אמר</row>
+		<row row_number="27" isdata="1">רבי שמעון בן לקיש לגבל ולתפלה</row>
+		<row row_number="28" isdata="1">ולנטילת ידים ארבעה מילין אמר רב נחמן</row>
+		<row row_number="29" isdata="1">בר יצחק אייבו אמרה וארבעה אמר בה</row>
+		<row row_number="30" isdata="1">וחדא מינייהו עבוד דתנן וכולן שעיבדן או</row>
+		<row row_number="31" isdata="1">שהילך בהן כדי עבודה טהורין חוץ מעור</row>
+		<row row_number="32" isdata="1">האדם וכמה כדי עבודה א"ר (אינייא) א"ר</row>
+		<row row_number="33" isdata="1">ינאי כדי הילוך ארבעה מילין א"ר יוסי ברבי</row>
+		<row row_number="34" isdata="1">חנינא לא שנו אלא לפניו אבל לאחריו</row>
+		<row row_number="35" isdata="1">אפילו מיל אינו חוזר אמר רב אחא ומינה</row>
+		<row row_number="36" isdata="1">מיל הוא דאינו חוזר הא פחות ממיל חוזר:</row>
+		<row row_number="37" isdata="1"><EndGemara/><StartMishna/>מתני' כיצד מפרישין חלה בטומאה ביו"ט</row>
+		<row row_number="38" isdata="1">ר"א אומר לא תקרא לה שם עד שתאפה</row>
+		<row row_number="39" isdata="1">בן בתירא אומר תטיל בצונן א"ר יהושע</row>
+</amud>
+</daf>
+</masechet>
+</root>

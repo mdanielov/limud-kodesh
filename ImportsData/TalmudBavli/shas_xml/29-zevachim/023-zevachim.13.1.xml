@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:55.234409</dateCreated>
+   <lastModified>2020-01-14 15:03:55.234409</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="13">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הזבחים"/><ContGemara/>צד כרת לא פריך אשם נמי לייתי אשם פריך</row>
+		<row row_number="2" isdata="1">מה להצד השוה שבהן שכן ישנן בצבור</row>
+		<row row_number="3" isdata="1">כביחיד ואיבעית אימא צד כרת נמי פריך ובן</row>
+		<row row_number="4" isdata="1">עזאי גמרא גמיר לה והא דקאמר רב הונא קל</row>
+		<row row_number="5" isdata="1">וחומר לא אמרה אלא לחדד בה תלמידיו:</row>
+		<row row_number="6" isdata="1"><EndGemara/><StartMishna/>מתני' הפסח והחטאת ששחטן שלא</row>
+		<row row_number="7" isdata="1">לשמן קבל והלך וזרק שלא לשמן או לשמן</row>
+		<row row_number="8" isdata="1">ושלא לשמן או שלא לשמן ולשמן פסולים</row>
+		<row row_number="9" isdata="1">כיצד לשמן ושלא לשמן לשם פסח ולשם</row>
+		<row row_number="10" isdata="1">שלמים שלא לשמן ולשמן לשם שלמים</row>
+		<row row_number="11" isdata="1">ולשם פסח שהזבח נפסל בארבעה דברים</row>
+		<row row_number="12" isdata="1">בשחיטה ובקבול ובהילוך ובזריקה רבי</row>
+		<row row_number="13" isdata="1">שמעון מכשיר בהילוך שהיה אומר אי</row>
+		<row row_number="14" isdata="1">אפשר שלא בשחיטה ושלא בקבלה ושלא</row>
+		<row row_number="15" isdata="1">בזריקה אבל אפשר בלא הילוך שוחט בצד</row>
+		<row row_number="16" isdata="1">המזבח וזורק רבי אליעזר אומר המהלך</row>
+		<row row_number="17" isdata="1">במקום שהוא צריך להלך מחשבה פוסלת</row>
+		<row row_number="18" isdata="1">במקום שאינו צריך להלך אין מחשבה</row>
+		<row row_number="19" isdata="1">פוסלת:<EndMishna/><StartGemara/>גמ' וקבלה מי פסלה והתניא והקריבו זו קבלת הדם אתה</row>
+		<row row_number="20" isdata="1">אומר קבלת הדם או אינו אלא זריקה כשהוא אומר וזרקו הרי זריקה</row>
+		<row row_number="21" isdata="1">אמור הא מה אני מקיים והקריבו זו קבלת הדם בני אהרן הכהנים שתהא</row>
+		<row row_number="22" isdata="1">בכהן כשר ובכלי שרת אמר רבי עקיבא מנין לקבלה שלא תהא [אלא]</row>
+		<row row_number="23" isdata="1">בכהן כשר ובכלי שרת נאמר כאן בני אהרן ונאמר להלן אלה שמות בני</row>
+		<row row_number="24" isdata="1">אהרן הכהנים המשוחים מה להלן בכהן כשר ובכלי שרת אף כאן בכהן</row>
+		<row row_number="25" isdata="1">כשר ובכלי שרת אמר רבי טרפון אקפח את בניי אם לא שמעתי להבחין</row>
+		<row row_number="26" isdata="1">הפרש בין קבלה לזריקה ואין לי לפרש אמר רבי עקיבא אני אפרש קבלה</row>
+		<row row_number="27" isdata="1">לא עשה בה מחשבה כמעשה זריקה עשה בה מחשבה כמעשה קבלו</row>
+		<row row_number="28" isdata="1">בחוץ אינו חייב כרת זרקו בחוץ ענוש כרת קבלוהו פסולין אין חייבין עליו</row>
+		<row row_number="29" isdata="1">זרקוהו פסולין חייבין עליו אמר לו רבי טרפון העבודה את הטית ימין</row>
+		<row row_number="30" isdata="1">ושמאל אני שמעתי ואין לי לפרש אתה דורש ומסכים לשמועה בלשון</row>
+		<row row_number="31" isdata="1">הזה אמר לו עקיבא כל הפורש ממך כפורש מחייו אמר רבא לא קשיא</row>
+		<row row_number="32" isdata="1">כאן במחשבת פיגול כאן במחשבת שלא לשמה דיקא נמי דקתני שהזבח</row>
+		<row row_number="33" isdata="1">נפסל ולא קתני מתפגל ש"מ: ומחשבת פיגול לא פסלה בקבלה והתניא</row>
+		<row row_number="34" isdata="1">יכול לא תהא מחשבה מועלת אלא בזריקה בלבד מנין לרבות שחיטה</row>
+		<row row_number="35" isdata="1">וקבלה ת"ל ואם האכל יאכל מבשר זבח שלמיו (פיגול הוא) לא ירצה</row>
+		<row row_number="36" isdata="1">בדברים המביאין לידי אכילה הכתוב מדבר יכול שאני מרבה אף שפיכת</row>
+		<row row_number="37" isdata="1">שיריים והקטרת אימורין ת"ל ביום השלישי לא ירצה המקריב אותו</row>
+		<row row_number="38" isdata="1">לא יחשב זריקה בכלל היתה ולמה יצתה להקיש אליה לומר לך מה זריקה</row>
+		<row row_number="39" isdata="1">מיוחדת שהיא עבודה (ומכפרת) ומעכבת כפרה אף כל עבודה ומעכבת</row>
+		<row row_number="40" isdata="1">כפרה יצאו שפיכת שיריים והקטרת אימורין שאין מעכבין את הכפרה</row>
+</amud>
+</daf>
+</masechet>
+</root>

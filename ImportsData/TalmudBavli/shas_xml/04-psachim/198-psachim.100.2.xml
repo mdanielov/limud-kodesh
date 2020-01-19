@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:31.172848</dateCreated>
+   <lastModified>2020-01-14 15:02:31.172848</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="100">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ערבי פסחים"/><ContGemara/>כך מפסיקין להבדלה מאי מפסיקין לאו</row>
+		<row row_number="2" isdata="1">לעקירת שולחן לא למפה רבה בר רב הונא</row>
+		<row row_number="3" isdata="1">איקלע לבי ריש גלותא אייתו תכא קמיה</row>
+		<row row_number="4" isdata="1">פרס מפה וקידש תניא נמי הכי (ושוין)</row>
+		<row row_number="5" isdata="1">שאין מביאין את השולחן אלא אם כן</row>
+		<row row_number="6" isdata="1">קידש ואם הביא פורס מפה ומקדש תני</row>
+		<row row_number="7" isdata="1">חדא שוין שאין מתחילין ותניא אידך שוין</row>
+		<row row_number="8" isdata="1">שמתחילין בשלמא הא דתניא שוין שאין</row>
+		<row row_number="9" isdata="1">מתחילין משכחת לה בערב הפסח אלא</row>
+		<row row_number="10" isdata="1">הא דתניא שוין שמתחילין אימת אי נימא</row>
+		<row row_number="11" isdata="1">בערב שבת הא מיפלג פליגי לא קשיא</row>
+		<row row_number="12" isdata="1">כאן קודם תשעה כאן לאחר תשעה אותם</row>
+		<row row_number="13" isdata="1">בני אדם שקידשו בבית הכנסת אמר רב</row>
+		<row row_number="14" isdata="1">ידי יין לא יצאו ידי קידוש יצאו ושמואל אמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

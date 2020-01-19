@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:58.932489</dateCreated>
+   <lastModified>2020-01-14 15:03:58.932489</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="61">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "קדשי קדשים"/><ContGemara/>הא רבי ישמעאל הא רבנן ואיבעית אימא</row>
+		<row row_number="2" isdata="1">הא והא בקדשי קדשים ומאי בשני</row>
+		<row row_number="3" isdata="1">מקומות קודם שיעמידו לוים את המשכן</row>
+</amud>
+</daf>
+</masechet>
+</root>

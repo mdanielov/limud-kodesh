@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:49.454983</dateCreated>
+   <lastModified>2020-01-14 15:02:49.454983</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אחין"/><ContGemara/>חמשה נמי למיתה דתרי לא חיישינן אמר</row>
+		<row row_number="2" isdata="1">רבא בר רב הונא אמר רב שלש אחיות</row>
+		<row row_number="3" isdata="1">יבמות שנפלו לפני שני אחין יבמין זה חולץ</row>
+		<row row_number="4" isdata="1">לאחת וזה חולץ לאחת ואמצעית צריכה</row>
+		<row row_number="5" isdata="1">חליצה משניהם אמר ליה רבה מדקאמרת</row>
+		<row row_number="6" isdata="1">אמצעית צריכה חליצה משניהם קסברת יש</row>
+		<row row_number="7" isdata="1">זיקה והויא לה חליצה פסולה וחליצה פסולה</row>
+		<row row_number="8" isdata="1">צריך לחזור על כל האחין אי הכי קמייתא</row>
+		<row row_number="9" isdata="1">נמי אי דנפול בבת אחת הכי נמי לא צריכא</row>
+		<row row_number="10" isdata="1">דנפול בזו אחר זו נפלה חדא חלץ לה ראובן</row>
+		<row row_number="11" isdata="1">נפלה אידך חלץ לה שמעון נפלה אידך חלץ</row>
+		<row row_number="12" isdata="1">לה האי מפקע זיקתו חלץ לה האי מפקע</row>
+		<row row_number="13" isdata="1">זיקתו והאמר רב אין זיקה לדברי האומר</row>
+		<row row_number="14" isdata="1">יש זיקה קאמר ושמואל אמר אחד חולץ</row>
+		<row row_number="15" isdata="1">לכולן מכדי שמעינן ליה לשמואל דאמר</row>
+		<row row_number="16" isdata="1">חליצה מעליא בעינן דאמר שמואל</row>
+</amud>
+</daf>
+</masechet>
+</root>

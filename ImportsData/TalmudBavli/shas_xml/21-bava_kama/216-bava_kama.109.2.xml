@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:22.847105</dateCreated>
+   <lastModified>2020-01-14 15:03:22.847105</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="109">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הגוזל עצים"/><ContGemara/>מכלל דרבי יוסי הגלילי סבר אפילו לנפשיה</row>
+		<row row_number="2" isdata="1">נמי מצי מחיל אלא גזל הגר דקאמר רחמנא</row>
+		<row row_number="3" isdata="1">נתינה לכהנים היכי משכחת לה אמר רבא</row>
+		<row row_number="4" isdata="1">הכא במאי עסקינן כשגזל את הגר ונשבע</row>
+		<row row_number="5" isdata="1">לו ומת הגר והודה לאחר מיתה דבעידנא</row>
+		<row row_number="6" isdata="1">דאודי קנאו השם ונתנו לכהנים בעי</row>
+		<row row_number="7" isdata="1">רבינא גזל הגיורת מהו איש אמר רחמנא</row>
+		<row row_number="8" isdata="1">ולא אשה או דלמא אורחיה דקרא הוא</row>
+		<row row_number="9" isdata="1">אמר ליה רב אהרן לרבינא תא שמע דתניא</row>
+		<row row_number="10" isdata="1">איש אין לי אלא איש אשה מנין כשהוא</row>
+		<row row_number="11" isdata="1">אומר המושב הרי כאן שנים א"כ מה ת"ל</row>
+		<row row_number="12" isdata="1">איש איש אתה צריך לחזור אחריו אם יש</row>
+		<row row_number="13" isdata="1">לו גואלים אם לאו קטן אי אתה צריך לחזור</row>
+		<row row_number="14" isdata="1">אחריו בידוע שאין לו גואלין תנו רבנן</row>
+		<row row_number="15" isdata="1">לה' לכהן קנאו השם ונתנו לכהן שבאותו</row>
+		<row row_number="16" isdata="1">משמר אתה אומר לכהן שבאותו משמר</row>
+		<row row_number="17" isdata="1">או אינו אלא לכל כהן שירצה כשהוא</row>
+		<row row_number="18" isdata="1">אומר מלבד איל הכפורים אשר יכפר בו</row>
+		<row row_number="19" isdata="1">עליו הרי לכהן שבאותו משמר הכתוב מדבר</row>
+		<row row_number="20" isdata="1">ת"ר הרי שהיה גוזל כהן מנין שלא יאמר</row>
+		<row row_number="21" isdata="1">הואיל ויוצא לכהנים והרי הוא תחת ידי</row>
+		<row row_number="22" isdata="1">יהא שלי ודין הוא אי בשל אחרים הוא זוכה</row>
+		<row row_number="23" isdata="1">בשל עצמו לא כ"ש רבי נתן אומר בלשון</row>
+		<row row_number="24" isdata="1">אחר ומה דבר שאין לו חלק בו עד שיכנס</row>
+		<row row_number="25" isdata="1">ברשותו כשיכנס לרשותו אינו יכול להוציאו</row>
+		<row row_number="26" isdata="1">מידו דבר שיש לו חלק בו עד שלא יכנס</row>
+		<row row_number="27" isdata="1">ברשותו משנכנס לרשותו אינו דין דאין</row>
+		<row row_number="28" isdata="1">אחר יכול להוציאו מידו לא אם אמרת בדבר</row>
+		<row row_number="29" isdata="1">שאין לו חלק בו שכשם שאין לו חלק בו</row>
+		<row row_number="30" isdata="1">כך אין לאחרים חלק בו תאמר בגזל שכשם</row>
+		<row row_number="31" isdata="1">שיש לו חלק בו כך יש לאחרים חלק בו</row>
+		<row row_number="32" isdata="1">אלא גזילו יוצא מתחת ידו ומתחלק לכל</row>
+		<row row_number="33" isdata="1">אחיו הכהנים והכתיב ואיש את קדשיו לו יהיו</row>
+		<row row_number="34" isdata="1">הכא במאי עסקינן בכהן טמא אי בכהן טמא</row>
+		<row row_number="35" isdata="1">דבר שיש לו חלק בו מי אית ליה אלא אתיא</row>
+		<row row_number="36" isdata="1">לכהן לכהן משדה אחוזה דתניא אחוזתו</row>
+		<row row_number="37" isdata="1">מה ת"ל מנין לשדה היוצאה לכהנים ביובל</row>
+		<row row_number="38" isdata="1">וגאלה אחד מן הכהנים מנין שלא יאמר</row>
+		<row row_number="39" isdata="1">הואיל ויוצאה לכהנים ביובל והרי היא</row>
+		<row row_number="40" isdata="1">תחת ידי תהא שלי ודין הוא בשל אחרים אני</row>
+		<row row_number="41" isdata="1">זוכה בשל עצמי לא כ"ש ת"ל כשדה החרם</row>
+		<row row_number="42" isdata="1">לכהן תהיה אחוזתו אחוזה שלו ואין זו שלו</row>
+		<row row_number="43" isdata="1">הא כיצד יוצאה מתחת ידו ומתחלקת לכל</row>
+		<row row_number="44" isdata="1">אחיו הכהנים: תנו רבנן מנין לכהן שבא</row>
+		<row row_number="45" isdata="1">ומקריב קרבנותיו בכל עת ובכל שעה</row>
+		<row row_number="46" isdata="1">שירצה תלמוד לומר ובא בכל אות נפשו</row>
+		<row row_number="47" isdata="1">ושרת ומניין שעבודתה ועורה שלו תלמוד לומר ואיש את קדשיו לו יהיו הא</row>
+		<row row_number="48" isdata="1">כיצד אם היה בעל מום נותנה לכהן שבאותו משמר ועבודתה ועורה שלו</row>
+</amud>
+</daf>
+</masechet>
+</root>

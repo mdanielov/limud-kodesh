@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.341757</dateCreated>
+   <lastModified>2020-01-14 15:03:00.341757</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="7">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כנויי"/><ContGemara/>במנודה אני לך דרבי עקיבא סבר לישנא</row>
+		<row row_number="2" isdata="1">דנידויא הוא ורבנן סברי לישנא דמשמתנא</row>
+		<row row_number="3" isdata="1">הוא ופליגא דרב חסדא דההוא גברא דאמר</row>
+		<row row_number="4" isdata="1">משמתנא בנכסיה דבריה דרב ירמיה בר</row>
+		<row row_number="5" isdata="1">אבא אתא לקמיה דרב חסדא א"ל לית</row>
+		<row row_number="6" isdata="1">דחש לה להא דרבי עקיבא קסבר במשמתנא</row>
+		<row row_number="7" isdata="1">פליגי אמר רבי אילא אמר רב נדהו בפניו</row>
+		<row row_number="8" isdata="1">אין מתירין לו אלא בפניו נדהו שלא בפניו</row>
+		<row row_number="9" isdata="1">מתירין לו בין בפניו בין שלא בפניו אמר רב</row>
+		<row row_number="10" isdata="1">חנין אמר רב השומע הזכרת השם מפי</row>
+		<row row_number="11" isdata="1">חבירו צריך לנדותו ואם לא נידהו הוא</row>
+		<row row_number="12" isdata="1">עצמו יהא בנידוי שכל מקום שהזכרת השם</row>
+		<row row_number="13" isdata="1">מצויה שם עניות מצויה ועניות כמיתה</row>
+		<row row_number="14" isdata="1">שנאמר כי מתו כל האנשים ותניא כל</row>
+		<row row_number="15" isdata="1">מקום שנתנו חכמים עיניהם או מיתה או</row>
+		<row row_number="16" isdata="1">עוני אמר רבי אבא הוה קאימנא קמיה דרב</row>
+		<row row_number="17" isdata="1">הונא שמעה להך איתתא דאפקה הזכרת השם לבטלה שמתה ושרא לה</row>
+		<row row_number="18" isdata="1">לאלתר באפה ש"מ תלת ש"מ השומע הזכרת השם מפי חבירו צריך לנדותו</row>
+		<row row_number="19" isdata="1">וש"מ נידהו בפניו אין מתירין לו אלא בפניו וש"מ אין בין נידוי להפרה</row>
+		<row row_number="20" isdata="1">ולא כלום א"ר גידל אמר רב תלמיד חכם מנדה לעצמו ומיפר לעצמו</row>
+		<row row_number="21" isdata="1">פשיטא מהו דתימא אין חבוש מתיר עצמו מבית האסורין קמ"ל היכי דמי כי</row>
+		<row row_number="22" isdata="1">הא דמר זוטרא חסידא כי מחייב בר בי רב שמתא משמית נפשיה ברישא והדר</row>
+		<row row_number="23" isdata="1">משמת בר בי רב וכי עייל לביתיה שרי לנפשיה והדר שרי ליה ואמר רב גידל א"ר</row>
+</amud>
+</daf>
+</masechet>
+</root>

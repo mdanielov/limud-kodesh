@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:23.268146</dateCreated>
+   <lastModified>2020-01-14 15:03:23.268146</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="119">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הגוזל בתרא "/><ContGemara/>ולא יטיל בו יותר משלשה חובין ולא יסרוק</row>
+		<row row_number="2" isdata="1">הבגד לשתיו אלא לערבו ומשויהו לארכו</row>
+		<row row_number="3" isdata="1">אבל לא לרחבו ואם בא להשוותו עד טפח</row>
+		<row row_number="4" isdata="1">רשאי אמר מר שני חוטין והאנן תנן שלש</row>
+		<row row_number="5" isdata="1">לא קשיא הא באלימי והא בקטיני: ולא יסרוק</row>
+		<row row_number="6" isdata="1">הבגד לשתיו אלא לערבו והתניא איפכא לא</row>
+		<row row_number="7" isdata="1">קשיא הא בגלימא הא בסרבלא: ולא יטיל בו</row>
+		<row row_number="8" isdata="1">יותר משלשה חובין בעי רבי ירמיה אמטויי</row>
+		<row row_number="9" isdata="1">ואתויי חד או דלמא אמטויי ואתויי תרי תיקו:</row>
+		<row row_number="10" isdata="1">ומשויהו לארכו אבל לא לרחבו והתניא</row>
+		<row row_number="11" isdata="1">איפכא לא קשיא הא בגלימא הא בהמיוני</row>
+		<row row_number="12" isdata="1">ת"ר אין לוקחין מן הסורק מוכין מפני שאינו</row>
+		<row row_number="13" isdata="1">שלו ובמקום שנהגו להיות שלו לוקחין</row>
+		<row row_number="14" isdata="1">ובכל מקום לוקחין מהן כר מלא מוכין וכסת</row>
+		<row row_number="15" isdata="1">מלאה מוכין מאי טעמא קננהו בשינוי ת"ר</row>
+		<row row_number="16" isdata="1">אין לוקחין מגרדי לא אירין ולא נירין ולא</row>
+		<row row_number="17" isdata="1">פונקלין ולא שיורי פקיעות אבל לוקחין מהן</row>
+		<row row_number="18" isdata="1">בגד מנומר ערב ושתי טווי ואריג אמרי השתא</row>
+		<row row_number="19" isdata="1">טווי שקלי ארוג מבעיא מאי אריג תיכי ת"ר</row>
+		<row row_number="20" isdata="1">אין לוקחין מן הצבע לא אותות ולא דוגמות</row>
+		<row row_number="21" isdata="1">ולא תלושים של צמר אבל לוקחין מהן בגד</row>
+		<row row_number="22" isdata="1">צבוע טווי בגדים השתא טווי שקיל בגדים</row>
+		<row row_number="23" isdata="1">מיבעיא מאי בגדים נמטי ת"ר הנותן עורות</row>
+		<row row_number="24" isdata="1">לעבדן הקיצועין והתלושין הרי אלו של בעל</row>
+		<row row_number="25" isdata="1">הבית והעולה ומשטף במים הרי אלו שלו:</row>
+		<row row_number="26" isdata="1">אם היה שחור [וכו']: א"ר יהודה קצרא</row>
+		<row row_number="27" isdata="1">שמיה וקצרא שקיל ליה אמר רב יהודה הכל</row>
+		<row row_number="28" isdata="1">עולין למנין תכלת ויצחק ברי קפיד עלייהו:</row>
+		<row row_number="29" isdata="1">החייט ששייר (מן) [את] החוט כו': וכמה</row>
+		<row row_number="30" isdata="1">לתפור אמר רב אסי מלא מחט חוץ למחט</row>
+		<row row_number="31" isdata="1">איבעיא להו מלא מחט וחוץ למחט כמלא</row>
+		<row row_number="32" isdata="1">מחט או דלמא מלא מחט וחוץ למחט משהו</row>
+		<row row_number="33" isdata="1">ת"ש דתניא החייט ששייר את החוט פחות</row>
+		<row row_number="34" isdata="1">מכדי לתפור בו ומטלית שהיא פחותה</row>
+		<row row_number="35" isdata="1">משלש על שלש בזמן שבעל הבית מקפיד</row>
+		<row row_number="36" isdata="1">עליהן הרי אלו של בעל הבית אין בעל</row>
+		<row row_number="37" isdata="1">הבית מקפיד עליהן הרי אלו שלו אי אמרת</row>
+		<row row_number="38" isdata="1">בשלמא מלא מחט וחוץ למחט כמלא מחט</row>
+		<row row_number="39" isdata="1">פחות מכאן חזי לסיכתא אלא אי אמרת מלא מחט וחוץ למחט משהו פחות</row>
+		<row row_number="40" isdata="1">מכאן למאי חזי אלא ש"מ מלא מחט וחוץ למחט כמלא מחט שמע מינה:</row>
+		<row row_number="41" isdata="1">מה שהחרש כו': ורמינהי מה שהחרש מוציא במעצד והנפסק במגירה הרי</row>
+		<row row_number="42" isdata="1">אלו של בעל הבית והיוצא מתחת מקדח ומתחת רהיטני והנגרר במגירה</row>
+		<row row_number="43" isdata="1">הרי אלו שלו אמר רבא באתרא דתנא דידן איכא תרתי חציני לרבתי קרי לה כשיל ולזוטרתי קרי לה מעצד</row>
+		<row row_number="44" isdata="1">באתרא דתנא ברא חד הוא דאיכא וקרו לה מעצד: ואם היה עושה אצל כו': ת"ר מסתתי אבנים אין בהם</row>
+		<row row_number="45" isdata="1">משום גזל מפסגי אילנות מפסגי גפנים מנקפי היגי מנכשי זרעים ועודרי ירקות בזמן שבעה"ב מקפיד עליהם יש</row>
+		<row row_number="46" isdata="1">בהן משום גזל אין בעל הבית מקפיד עליהן הרי אלו שלו א"ר יהודה כשות וחזיז אין בהם משום גזל</row>
+		<row row_number="47" isdata="1">באתרא דקפדי יש בהן משום גזל אמר רבינא ומתא מחסיא אתרא דקפדי הוא:<EndChapter name = "הגוזל בתרא "/><EndGemara/></row>
+		<row row_number="48" isdata="0">הדרן עלך הגוזל בתרא וסליקא לה מסכת בבא קמא</row>
+</amud>
+</daf>
+</masechet>
+</root>

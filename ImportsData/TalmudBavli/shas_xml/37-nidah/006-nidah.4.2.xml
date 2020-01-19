@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:28.967981</dateCreated>
+   <lastModified>2020-01-14 15:04:28.967981</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="4">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שמאי אומר"/><ContGemara/>שאני אומר אדם טהור נכנס לשם ונטלה</row>
+		<row row_number="2" isdata="1">הכא נמי נימא עורב אתא ושדא אדם</row>
+		<row row_number="3" isdata="1">דבכונה אמרינן עורב דשלא בכונה לא</row>
+		<row row_number="4" isdata="1">אמרינן מכדי האי ככר ספק טומאה ברה"י</row>
+		<row row_number="5" isdata="1">הוא וכל ספק טומאה ברה"י ספקה טמא</row>
+		<row row_number="6" isdata="1">משום דהוי דבר שאין בו דעת לישאל וכל</row>
+		<row row_number="7" isdata="1">דבר שאין בו דעת לישאל בין ברה"ר בין</row>
+		<row row_number="8" isdata="1">ברשות היחיד ספקו טהור ואב"א הכא</row>
+		<row row_number="9" isdata="1">בטומאה דרבנן דיקא נמי דקתני מדף</row>
+		<row row_number="10" isdata="1">כדכתיב עלה נדף: וחכ"א לא כדברי זה</row>
+		<row row_number="11" isdata="1">כו': ת"ר וחכ"א לא כדברי זה ולא כדברי</row>
+		<row row_number="12" isdata="1">זה לא כדברי שמאי שלא עשה סייג לדבריו</row>
+		<row row_number="13" isdata="1">ולא כדברי הלל שהפריז על מדותיו אלא</row>
+		<row row_number="14" isdata="1">מעת לעת ממעטת על יד מפקידה לפקידה</row>
+		<row row_number="15" isdata="1">ומפקידה לפקידה ממעטת על יד מעת לעת</row>
+		<row row_number="16" isdata="1">מעת לעת ממעטת על יד מפקידה לפקידה</row>
+		<row row_number="17" isdata="1">כיצד בדקה עצמה באחד בשבת ומצאת</row>
+		<row row_number="18" isdata="1">טהורה וישבה שני ושלישי ולא בדקה</row>
+		<row row_number="19" isdata="1">ולרביעי בדקה ומצאה טמאה אין אומרים</row>
+		<row row_number="20" isdata="1">תטמא מפקידה לפקידה אלא מעת לעת</row>
+		<row row_number="21" isdata="1">ומפקידה לפקידה ממעטת על יד מעת לעת</row>
+		<row row_number="22" isdata="1">כיצד בדקה עצמה בשעה ראשונה ומצאת</row>
+		<row row_number="23" isdata="1">טהורה וישבה לה שניה ושלישית ולא</row>
+		<row row_number="24" isdata="1">בדקה ולרביעית בדקה ומצאה טמאה אין</row>
+		<row row_number="25" isdata="1">אומרים תטמא מעת לעת אלא מפקידה</row>
+		<row row_number="26" isdata="1">לפקידה פשיטא כיון דבדקה עצמה בשעה</row>
+		<row row_number="27" isdata="1">ראשונה ומצאת טהורה לא מטמינן לה מעת</row>
+		<row row_number="28" isdata="1">לעת איידי דתנא מעל"ע ממעטת על יד</row>
+		<row row_number="29" isdata="1">מפקידה לפקידה תנא נמי מפקידה לפקידה</row>
+		<row row_number="30" isdata="1">ממעטת על יד מעת לעת אמר רבה מאי טעמייהו דרבנן אשה מרגשת</row>
+		<row row_number="31" isdata="1">בעצמה א"ל אביי אם כן תהא דיה שעתה ורבה לחדודי לאביי הוא דבעי</row>
+		<row row_number="32" isdata="1">אלא מאי טעמייהו דרבנן כי הא דאמר רב יהודה אמר שמואל חכמים תקנו</row>
+		<row row_number="33" isdata="1">להן לבנות ישראל שיהו בודקות עצמן שחרית וערבית שחרית להכשיר</row>
+		<row row_number="34" isdata="1">טהרות של לילה וערבית להכשיר טהרות של יום וזו הואיל ולא בדקה</row>
+		<row row_number="35" isdata="1">הפסידה עונה מאי עונה עונה יתירה א"ל רב פפא לרבא והא זימנין משכחת</row>
+		<row row_number="36" isdata="1">לה ג' עונות במעת לעת השוו חכמים מדותיהן שלא תחלוק במעת לעת</row>
+		<row row_number="37" isdata="1">איבעית אימא שלא יהא חוטא נשכר מאי בינייהו איכא בינייהו דאתניסה</row>
+		<row row_number="38" isdata="1">ולא בדקה: כל אשה שיש לה וסת [וכו']: לימא מתני' ר' דוסא היא ולא</row>
+		<row row_number="39" isdata="1">רבנן דתניא ר"א אומר ארבע נשים דיין שעתן בתולה מעוברת מניקה וזקנה</row>
+		<row row_number="40" isdata="1">ר' דוסא אומר כל אשה שיש לה וסת דיה שעתה אפילו תימא רבנן עד כאן</row>
+		<row row_number="41" isdata="1">לא פליגי רבנן עליה דר' דוסא אלא שלא בשעת וסתה אבל בשעת וסתה</row>
+		<row row_number="42" isdata="1">מודו ליה ומתניתין בשעת וסתה ודברי הכל מכלל דר' דוסא אפילו שלא</row>
+		<row row_number="43" isdata="1">בשעת וסתה אמר מאן תנא להא דת"ר אשה שיש לה וסת כתמה טמא למפרע</row>
+		<row row_number="44" isdata="1">שאם תראה שלא בשעת וסתה מטמאה מעת לעת נימא רבנן היא ולא רבי</row>
+		<row row_number="45" isdata="1">דוסא אפילו תימא רבי דוסא ע"כ לא פליג רבי דוסא עלייהו דרבנן אלא בשעת</row>
+		<row row_number="46" isdata="1">וסתה אבל שלא בשעת וסתה מודי להו ומתניתין בשעת וסתה ור' דוסא היא</row>
+</amud>
+</daf>
+</masechet>
+</root>

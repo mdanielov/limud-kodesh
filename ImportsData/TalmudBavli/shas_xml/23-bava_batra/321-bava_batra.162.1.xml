@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:37.551247</dateCreated>
+   <lastModified>2020-01-14 15:03:37.551247</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="162">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>אמר רב עמרם לפי שאין למדין משיטה</row>
+		<row row_number="2" isdata="1">אחרונה אמר ליה רב נחמן לרב עמרם מנא</row>
+		<row row_number="3" isdata="1">לך הא אמר ליה דתניא הרחיק את העדים</row>
+		<row row_number="4" isdata="1">שני שיטין מן הכתב פסול שיטה אחת כשר</row>
+		<row row_number="5" isdata="1">מאי שנא שני שיטין דלמא מזייף וכתב שיטה</row>
+		<row row_number="6" isdata="1">אחת נמי מזייף וכתב אלא לאו שמע מינה</row>
+		<row row_number="7" isdata="1">אין למדין משיטה אחרונה שמע מינה</row>
+</amud>
+</daf>
+</masechet>
+</root>

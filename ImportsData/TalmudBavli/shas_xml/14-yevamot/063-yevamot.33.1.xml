@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:49.726452</dateCreated>
+   <lastModified>2020-01-14 15:02:49.726452</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="33">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ארבעה אחין"/><ContGemara/>במאי קמיפלגי באיסור כולל ואליבא דר' יוסי</row>
+		<row row_number="2" isdata="1">רבי חייא סבר רבי יוסי באיסור כולל מיחייב</row>
+		<row row_number="3" isdata="1">תרתי בר קפרא סבר לא מיחייב אלא חדא</row>
+		<row row_number="4" isdata="1">ומאי איסור כולל איכא הכא בשלמא זר</row>
+		<row row_number="5" isdata="1">מעיקרא שרי במלאכה ואסור בעבודה אתיא</row>
+		<row row_number="6" isdata="1">לה שבת מגו דקא מיתסר במלאכה מיתסר</row>
+		<row row_number="7" isdata="1">נמי בעבודה בעל מום מעיקרא שרי באכילה</row>
+		<row row_number="8" isdata="1">ואסור בעבודה איטמי ליה מגו דקא מיתסר</row>
+		<row row_number="9" isdata="1">באכילה מיתסר נמי בעבודה אלא מליקה</row>
+		<row row_number="10" isdata="1">בבת אחת היא דמשכחת לה באיסור כולל</row>
+		<row row_number="11" isdata="1">לא משכחת לה אלא קמיפלגי באיסור בבת</row>
+		<row row_number="12" isdata="1">אחת ואליבא דר' יוסי רבי חייא סבר רבי</row>
+		<row row_number="13" isdata="1">יוסי באיסור בת אחת מיחייב תרתי ובר</row>
+		<row row_number="14" isdata="1">קפרא סבר לא מיחייב אלא חדא והכא</row>
+		<row row_number="15" isdata="1">מאי איסור בת אחת איכא הכא זר ששימש</row>
+		<row row_number="16" isdata="1">בשבת כגון דאייתי שתי שערות בשבת</row>
+		<row row_number="17" isdata="1">דהויא להו זרות ושבת בהדי הדדי בעל מום</row>
+		<row row_number="18" isdata="1">נמי כגון דאייתי שתי שערות ואיטמי ליה</row>
+		<row row_number="19" isdata="1">דהויא ליה בעל מום וטומאה בהדי הדדי א"נ</row>
+		<row row_number="20" isdata="1">שחתך אצבעו בסכין טמאה בשלמא לרבי</row>
+		<row row_number="21" isdata="1">חייא כי אתנייה לדידיה אליבא דר' יוסי כי</row>
+		<row row_number="22" isdata="1">אתנייה לבר קפרא אליבא דר"ש אלא לבר</row>
+		<row row_number="23" isdata="1">קפרא ר' חייא שקורי קא משקר אלא</row>
+		<row row_number="24" isdata="1">קמיפלגי באיסור בת אחת ואליבא דר"ש</row>
+		<row row_number="25" isdata="1">בשלמא לר' חייא קא מישתבע לאפוקי לר'</row>
+		<row row_number="26" isdata="1">שמעון מחזקיה אלא לבר קפרא למה ליה</row>
+		<row row_number="27" isdata="1">לאשתבועי קשיא בשלמא לבר קפרא</row>
+		<row row_number="28" isdata="1">כי אתנייה רבי לדידיה אליבא דר' שמעון</row>
+		<row row_number="29" isdata="1">כי אתנייה לרבי חייא אליבא דרבי</row>
+		<row row_number="30" isdata="1">יוסי אלא לרבי חייא בר קפרא שקורי</row>
+		<row row_number="31" isdata="1">קא משקר אמר לך ר' חייא כי אתנייה</row>
+		<row row_number="32" isdata="1">רבי לדידיה תרתי לפטור אתנייה</row>
+</amud>
+</daf>
+</masechet>
+</root>

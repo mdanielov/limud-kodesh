@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:23.186564</dateCreated>
+   <lastModified>2020-01-14 15:02:23.186564</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="71">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה אשה"/><ContGemara/>ורב יוסף אמר רבי שמעון ורבנן בפלוגתא</row>
+		<row row_number="2" isdata="1">דרבי יוחנן בן נורי ורבנן קא מיפלגי דתנן</row>
+		<row row_number="3" isdata="1">שמן שצף על גבי יין ונגע טבול יום בשמן</row>
+		<row row_number="4" isdata="1">לא פסל אלא שמן בלבד ורבי יוחנן בן</row>
+		<row row_number="5" isdata="1">נורי אומר שניהן חיבורין זה לזה רבנן כרבנן</row>
+		<row row_number="6" isdata="1">ורבי שמעון כר"י בן נורי תניא ר"א בן תדאי</row>
+		<row row_number="7" isdata="1">אומר אחד זה ואחד זה צריכין לערב ואפילו</row>
+		<row row_number="8" isdata="1">לזה ביין ולזה ביין אמר רבה זה בא בלגינו</row>
+		<row row_number="9" isdata="1">ושפך וזה בא בלגינו ושפך כולי עלמא לא</row>
+		<row row_number="10" isdata="1">פליגי דהוי עירוב כי פליגי כגון שלקחו חבית</row>
+		<row row_number="11" isdata="1">של יין בשותפות ר"א בן תדאי סבר אין</row>
+		<row row_number="12" isdata="1">ברירה ורבנן סברי יש ברירה רב יוסף אמר</row>
+		<row row_number="13" isdata="1">ר"א בן תדאי ורבנן בסומכין על שיתוף</row>
+		<row row_number="14" isdata="1">במקום עירוב קמיפלגי דמר סבר אין סומכין</row>
+		<row row_number="15" isdata="1">ומר סבר סומכין אמר רב יוסף מנא אמינא</row>
+		<row row_number="16" isdata="1">לה דאמר רב יהודה אמר רב הלכה כר"מ</row>
+		<row row_number="17" isdata="1">ואמר רב ברונא אמר רב הלכה כר"א בן</row>
+		<row row_number="18" isdata="1">תדאי מ"ט לאו משום דחד טעמא הוא</row>
+		<row row_number="19" isdata="1">א"ל אביי ואי חד טעמא תרתי הילכתא למה</row>
+		<row row_number="20" isdata="1">לי הא קמ"ל דלא עבדינן כתרי חומרי</row>
+		<row row_number="21" isdata="1">בעירובין מאי ר"מ ומאי רבנן דתניא מערבין</row>
+		<row row_number="22" isdata="1">בחצירות בפת ואם רצו לערב ביין אין מערבין</row>
+		<row row_number="23" isdata="1">משתתפין במבוי ביין ואם רצו להשתתף</row>
+		<row row_number="24" isdata="1">בפת משתתפין מערבין בחצירות ומשתתפין</row>
+		<row row_number="25" isdata="1">במבוי שלא לשכח תורת עירוב מן</row>
+		<row row_number="26" isdata="1">התינוקות שיאמרו אבותינו לא עירבו דברי</row>
+		<row row_number="27" isdata="1">ר"מ וחכ"א או מערבין או משתתפין פליגי</row>
+		<row row_number="28" isdata="1">בה ר' נחומי ורבה חד אמר בפת דכולי</row>
+		<row row_number="29" isdata="1">עלמא לא פליגי דבחדא סגי כי פליגי ביין</row>
+</amud>
+</daf>
+</masechet>
+</root>

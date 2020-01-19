@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:19.392977</dateCreated>
+   <lastModified>2020-01-14 15:02:19.392977</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="12">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יציאות השבת"/><ContGemara/>הכא במאי עסקינן דאית ליה גידודי: אמר</row>
+		<row row_number="2" isdata="1">רב יהודה מבוי שלא נשתתפו בו הכשירו</row>
+		<row row_number="3" isdata="1">בלחי הזורק לתוכו חייב הכשירו בקורה</row>
+		<row row_number="4" isdata="1">הזורק לתוכו פטור מתקיף לה רב ששת</row>
+		<row row_number="5" isdata="1">טעמא דלא נשתתפו בו הא נשתתפו בו</row>
+		<row row_number="6" isdata="1">אפילו הכשירו בקורה נמי חייב וכי ככר זו</row>
+		<row row_number="7" isdata="1">עשה אותו רשות היחיד או רשות הרבים</row>
+		<row row_number="8" isdata="1">והתניא חצירות של רבים ומבואות שאינן</row>
+		<row row_number="9" isdata="1">מפולשין בין עירבו ובין לא עירבו הזורק</row>
+		<row row_number="10" isdata="1">לתוכן חייב אלא אי איתמר הכי איתמר אמר</row>
+		<row row_number="11" isdata="1">רב יהודה מבוי שאינו ראוי לשיתוף הכשירו</row>
+		<row row_number="12" isdata="1">בלחי הזורק לתוכו חייב הכשירו בקורה</row>
+		<row row_number="13" isdata="1">הזורק לתוכו פטור אלמא קסבר לחי משום</row>
+		<row row_number="14" isdata="1">מחיצה וקורה משום היכר וכן אמר רבה</row>
+		<row row_number="15" isdata="1">לחי משום מחיצה וקורה משום היכר ורבא</row>
+		<row row_number="16" isdata="1">אמר אחד זה ואחד זה משום היכר איתיביה</row>
+		<row row_number="17" isdata="1">רבי יעקב בר אבא לרבא הזורק למבוי יש</row>
+		<row row_number="18" isdata="1">לו לחי חייב אין לו לחי פטור הכי קאמר אינו</row>
+		<row row_number="19" isdata="1">צריך אלא לחי הזורק לתוכו חייב לחי ודבר</row>
+		<row row_number="20" isdata="1">אחר הזורק לתוכו פטור איתיביה יתר על</row>
+		<row row_number="21" isdata="1">כן אמר רבי יהודה מי שיש לו שני בתים</row>
+		<row row_number="22" isdata="1">בשני צידי רשות הרבים עושה לחי מכאן</row>
+		<row row_number="23" isdata="1">ולחי מכאן או קורה מכאן וקורה מכאן ונושא</row>
+		<row row_number="24" isdata="1">ונותן באמצע אמרו לו אין מערבין רשות</row>
+		<row row_number="25" isdata="1">הרבים בכך התם קסבר רבי יהודה שתי</row>
+		<row row_number="26" isdata="1">מחיצות דאורייתא אמר רב יהודה אמר רב</row>
+		<row row_number="27" isdata="1">מבוי שארכו כרחבו אינו ניתר בלחי משהו</row>
+		<row row_number="28" isdata="1">אמר רב חייא בר אשי אמר רב מבוי</row>
+		<row row_number="29" isdata="1">שארכו כרחבו אינו ניתר בקורה טפח אמר</row>
+		<row row_number="30" isdata="1">רבי זירא כמה מכוונן שמעתא דסבי כיון</row>
+		<row row_number="31" isdata="1">דארכו כרחבו הוה ליה חצר וחצר אינה</row>
+		<row row_number="32" isdata="1">ניתרת בלחי וקורה אלא בפס ארבעה אמר</row>
+		<row row_number="33" isdata="1">רבי זירא אי קשיא לי הא קשיא לי ליהוי האי</row>
+		<row row_number="34" isdata="1">לחי כפס משהו ונשתרי אישתמיטתיה הא</row>
+		<row row_number="35" isdata="1">דאמר ר' אסי אמר ר' יוחנן פסי חצר צריכין</row>
+		<row row_number="36" isdata="1">שיהא בהן ארבעה אמר רב נחמן נקטינן</row>
+		<row row_number="37" isdata="1">איזהו מבוי שניתר בלחי וקורה כל שארכו</row>
+		<row row_number="38" isdata="1">יתר על רחבו ובתים וחצרות פתוחים לתוכו</row>
+		<row row_number="39" isdata="1">ואיזו היא חצר שאינה ניתרת בלחי וקורה</row>
+		<row row_number="40" isdata="1">אלא בפס ארבעה כל שמרובעת מרובעת</row>
+		<row row_number="41" isdata="1">אין עגולה לא הכי קאמר אי ארכה יתר על רחבה הוה ליה מבוי</row>
+		<row row_number="42" isdata="1">ומבוי בלחי וקורה סגיא ואי לא הוה לה חצר וכמה סבר שמואל</row>
+		<row row_number="43" isdata="1">למימר עד דאיכא פי שנים ברחבה אמר ליה רב הכי אמר</row>
+		<row row_number="44" isdata="1">חביבי אפילו משהו: משום רבי ישמעאל אמר תלמיד אחד כו':</row>
+</amud>
+</daf>
+</masechet>
+</root>

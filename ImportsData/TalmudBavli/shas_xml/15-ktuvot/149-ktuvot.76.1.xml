@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:57.746280</dateCreated>
+   <lastModified>2020-01-14 15:02:57.746280</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="76">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המדיר את אשתו"/><ContGemara/>חדא במקום תרתי וחדא במקום תרתי לא</row>
+		<row row_number="2" isdata="1">אמרינן עד שלא תתארס העמד הגוף על</row>
+		<row row_number="3" isdata="1">חזקתו לא איכא למימר מאי איכא חזקה</row>
+		<row row_number="4" isdata="1">דאין אדם שותה בכוס אלא אם כן בודקו</row>
+		<row row_number="5" isdata="1">והאי ראה וניפייס הוא אדרבה חזקה אין אדם</row>
+		<row row_number="6" isdata="1">מיפייס במומין והעמד ממון על חזקתו רב</row>
+		<row row_number="7" isdata="1">אשי אמר רישא מנה לאבא בידך וסיפא</row>
+		<row row_number="8" isdata="1">מנה לי בידך איתיביה רב אחא בריה דרב</row>
+		<row row_number="9" isdata="1">אויא לרב אשי מודה ר"מ במומין הראויין</row>
+		<row row_number="10" isdata="1">לבא עמה מבית אביה שעל האב להביא</row>
+		<row row_number="11" isdata="1">ראיה ואמאי מנה לי בידך הוא הכא במאי</row>
+		<row row_number="12" isdata="1">עסקינן ביתירת יתירת מאי ראיה מייתי ראיה</row>
+		<row row_number="13" isdata="1">דראה וניפייס הוא: א"ר יהודה אמר שמואל</row>
+		<row row_number="14" isdata="1">המחליף פרה בחמור ומשך בעל החמור</row>
+		<row row_number="15" isdata="1">את הפרה ולא הספיק בעל הפרה למשוך</row>
+		<row row_number="16" isdata="1">את החמור עד שמת החמור על בעל החמור</row>
+		<row row_number="17" isdata="1">להביא ראיה שהיה חמורו קיים בשעת</row>
+		<row row_number="18" isdata="1">משיכת פרה ותנא תונא כלה הי כלה אילימא</row>
+</amud>
+</daf>
+</masechet>
+</root>

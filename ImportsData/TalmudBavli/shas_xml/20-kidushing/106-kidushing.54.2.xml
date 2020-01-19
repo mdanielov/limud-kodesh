@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:15.495851</dateCreated>
+   <lastModified>2020-01-14 15:03:15.495851</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="54">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האיש מקדש"/><ContGemara/>תרי תנאי נינהו ואליבא דר' יהודה אמר</row>
+		<row row_number="2" isdata="1">עולא משמיה דבר פדא אומר היה ר"מ</row>
+		<row row_number="3" isdata="1">הקדש במזיד מתחלל בשוגג אין מתחלל</row>
+		<row row_number="4" isdata="1">ולא אמרו בשוגג מתחלל אלא לענין קרבן</row>
+		<row row_number="5" isdata="1">בלבד וכי מאחר דאין מתחלל קרבן במאי</row>
+		<row row_number="6" isdata="1">מחייב אלא כי אתא רבין פריש משמיה</row>
+		<row row_number="7" isdata="1">דבר פדא אומר היה ר"מ הקדש במזיד</row>
+		<row row_number="8" isdata="1">מתחלל בשוגג אין מתחלל ולא אמרו בשוגג</row>
+		<row row_number="9" isdata="1">מתחלל אלא לענין אכילה בלבד אמר רב</row>
+		<row row_number="10" isdata="1">נחמן אמר רב אדא בר אהבה הלכה כר"מ</row>
+		<row row_number="11" isdata="1">במעשר הואיל וסתם לן תנא כותיה</row>
+		<row row_number="12" isdata="1">והלכה כר' יהודה בהקדש הואיל וסתם לן</row>
+		<row row_number="13" isdata="1">תנא כותיה כר"מ במעשר מאי היא דתנן</row>
+		<row row_number="14" isdata="1">כרם רבעי ב"ש אומרים אין לו חומש ואין</row>
+		<row row_number="15" isdata="1">לו ביעור וב"ה אומרים יש לו ב"ש אומרים</row>
+		<row row_number="16" isdata="1">יש לו פרט ויש לו עוללות וב"ה אומרים</row>
+		<row row_number="17" isdata="1">כולו לגת מ"ט דב"ה גמרי קודש קודש</row>
+		<row row_number="18" isdata="1">ממעשר מה מעשר יש לו חומש ויש לו</row>
+		<row row_number="19" isdata="1">ביעור אף כרם רבעי יש לו חומש ויש לו</row>
+		<row row_number="20" isdata="1">ביעור וב"ש לא גמרי קודש קודש ממעשר</row>
+		<row row_number="21" isdata="1">וב"ה אומרים כמעשר כמאן סבירא להו אי</row>
+		<row row_number="22" isdata="1">כר' יהודה אמאי כולו לגת האמר מעשר</row>
+		<row row_number="23" isdata="1">ממון הדיוט הוא אלא לאו כר"מ כר' יהודה</row>
+		<row row_number="24" isdata="1">בהקדש מאי היא דתנן שילח ביד פיקח</row>
+		<row row_number="25" isdata="1">ונזכר עד שלא הגיע אצל חנווני חנווני מעל</row>
+		<row row_number="26" isdata="1">לכשיוציא וכר' יהודה במעשר מי לא תנן</row>
+		<row row_number="27" isdata="1">והתנן הפודה מעשר שני שלו מוסיף עליו</row>
+		<row row_number="28" isdata="1">חמישיתו בין משלו בין שניתן לו במתנה</row>
+		<row row_number="29" isdata="1">מני אילימא ר"מ היא מי מצי יהיב ליה</row>
+		<row row_number="30" isdata="1">במתנה והאמר מעשר ממון גבוה הוא אלא</row>
+		<row row_number="31" isdata="1">לאו ר' יהודה לא לעולם ר"מ והכא במאי</row>
+		<row row_number="32" isdata="1">עסקינן כגון דיהיב ניהליה בטיבליה וקסבר</row>
+		<row row_number="33" isdata="1">מתנות שלא הורמו כמי שלא הורמו דמיין</row>
+		<row row_number="34" isdata="1">ת"ש הפודה נטע רבעי שלו מוסיף עליו</row>
+		<row row_number="35" isdata="1">חמישיתו בין משלו בין שניתן לו במתנה</row>
+		<row row_number="36" isdata="1">מני אילימא ר"מ מי מצי יהיב ליה והא גמרי</row>
+		<row row_number="37" isdata="1">קודש קודש ממעשר אלא לאו ר' יהודה</row>
+		<row row_number="38" isdata="1">לעולם ר"מ והכא במאי עסקינן כגון דיהיב</row>
+		<row row_number="39" isdata="1">כשהוא סמדר ודלא כר' יוסי דאמר סמדר</row>
+		<row row_number="40" isdata="1">אסור מפני שהוא פרי ת"ש משך הימנו</row>
+		<row row_number="41" isdata="1">מעשר בסלע ולא הספיק לפדותו עד</row>
+		<row row_number="42" isdata="1">שעמד בשתים נותן סלע ומשתכר בסלע</row>
+		<row row_number="43" isdata="1">ומעשר שני שלו מני אילימא ר"מ אמאי</row>
+		<row row_number="44" isdata="1">משתכר בסלע ונתן את הכסף וקם לו</row>
+		<row row_number="45" isdata="1">אמר רחמנא אלא לאו ר' יהודה לעולם ר'</row>
+		<row row_number="46" isdata="1">יהודה והכא חד סתמא והכא תרי סתמי</row>
+		<row row_number="47" isdata="1">ואי סתמא דוקא מה לי חד סתמא מה לי</row>
+		<row row_number="48" isdata="1">תרי סתמי אמר רב נחמן בר יצחק הלכה</row>
+		<row row_number="49" isdata="1">כר' מאיר הואיל ותנן בבחירתא כוותיה</row>
+</amud>
+</daf>
+</masechet>
+</root>

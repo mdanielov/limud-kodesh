@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:50.466511</dateCreated>
+   <lastModified>2020-01-14 15:02:50.466511</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="49">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "החולץ"/><ContMishna/>מתני' איזהו ממזר כל שאר בשר שהוא<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">בלא יבא דברי ר"ע שמעון התימני אומר</row>
+		<row row_number="3" isdata="1">כל שחייבים עליו כרת בידי שמים והלכה</row>
+		<row row_number="4" isdata="1">כדבריו ורבי יהושע אומר כל שחייבין עליו</row>
+		<row row_number="5" isdata="1">מיתת בית דין אמר רבי שמעון בן עזאי</row>
+		<row row_number="6" isdata="1">מצאתי מגלת יוחסין בירושלים וכתוב בה</row>
+		<row row_number="7" isdata="1">איש פלוני ממזר מאשת איש לקיים דברי</row>
+		<row row_number="8" isdata="1">רבי יהושע אשתו שמתה מותר באחותה</row>
+		<row row_number="9" isdata="1">גרשה ומתה מותר באחותה נשאת לאחר</row>
+		<row row_number="10" isdata="1">ומתה מותר באחותה יבמתו שמתה מותר</row>
+		<row row_number="11" isdata="1">באחותה חלץ לה ומתה מותר באחותה</row>
+		<row row_number="12" isdata="1">נשאת לאחר ומתה מותר באחותה:<EndMishna/><StartGemara/>גמ' מ"ט</row>
+		<row row_number="13" isdata="1">דרבי עקיבא דכתיב לא יקח איש את</row>
+		<row row_number="14" isdata="1">אשת אביו ולא יגלה כנף אביו כנף שראה</row>
+		<row row_number="15" isdata="1">אביו לא יגלה וסבר לה כר' יהודה דאמר</row>
+		<row row_number="16" isdata="1">באנוסת אביו הכתוב מדבר דהויא לה</row>
+		<row row_number="17" isdata="1">חייבי לאוין וסמיך ליה לא יבא ממזר</row>
+		<row row_number="18" isdata="1">בקהל ה' אלמא מהני הוי ממזר ולרבי</row>
+		<row row_number="19" isdata="1">סימאי דמרבה שאר חייבי לאוין דלאו</row>
+		<row row_number="20" isdata="1">דשאר ולרבי ישבב דמרבה אפילו חייבי</row>
+		<row row_number="21" isdata="1">עשה נפקא להו מולא ושמעון התימני</row>
+		<row row_number="22" isdata="1">סבר לה כרבנן דאמרי בשומרת יבם של</row>
+		<row row_number="23" isdata="1">אביו הכתוב מדבר דהויא לה חייבי</row>
+		<row row_number="24" isdata="1">כריתות וסמיך ליה לא יבא ממזר אלמא</row>
+		<row row_number="25" isdata="1">מחייבי כריתות הוי ממזר ורבי יהושע</row>
+		<row row_number="26" isdata="1">לכתוב רחמנא לא יגלה לא יקח (ולא</row>
+		<row row_number="27" isdata="1">יגלה) למה לי אלא לאו הכי קאמר מלא</row>
+		<row row_number="28" isdata="1">יקח עד לא יגלה הוי ממזר טפי לא הוי</row>
+		<row row_number="29" isdata="1">ממזר אמר אביי הכל מודים בבא על הנדה</row>
+</amud>
+</daf>
+</masechet>
+</root>

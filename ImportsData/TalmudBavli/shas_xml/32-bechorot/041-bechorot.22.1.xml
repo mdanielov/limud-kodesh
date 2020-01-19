@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:19.684806</dateCreated>
+   <lastModified>2020-01-14 15:04:19.684806</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="22">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הלוקח בהמה"/><ContGemara/>כדי לפרסמה שנפטרה מן הבכורה למימרא</row>
+		<row row_number="2" isdata="1">דולד מעליא הוא ואמאי אין מטמא לא במגע</row>
+		<row row_number="3" isdata="1">ולא במשא אמר רבי יוחנן משום ביטול ברוב</row>
+		<row row_number="4" isdata="1">נגעו בה ואזדא רבי יוחנן לטעמיה דאמר ר'</row>
+		<row row_number="5" isdata="1">יוחנן רבי אליעזר בן יעקב ורבי שמעון אמרו</row>
+		<row row_number="6" isdata="1">דבר אחד רבי אליעזר בן יעקב הא דאמרן ר'</row>
+		<row row_number="7" isdata="1">שמעון מאי היא דתנן השליא בבית הבית</row>
+		<row row_number="8" isdata="1">טמא לא שהשליא ולד אלא שאין שליא</row>
+		<row row_number="9" isdata="1">בלא ולד רבי שמעון אומר ולד נימוק עד</row>
+		<row row_number="10" isdata="1">שלא יצא: תנן התם אין לנפלים פתיחת</row>
+		<row row_number="11" isdata="1">הקבר עד שיעגילו ראש כפיקה מאי כפיקה</row>
+		<row row_number="12" isdata="1">אמר רב הונא כפיקה של צמר אמר ליה חייא</row>
+		<row row_number="13" isdata="1">בר רב לרב הונא רבי פריש של שתי או של</row>
+		<row row_number="14" isdata="1">ערב אמר ליה תניא פיקה של שתי דברי רבי</row>
+		<row row_number="15" isdata="1">מאיר רבי יהודה אומר של ערב רבי אליעזר</row>
+		<row row_number="16" isdata="1">ברבי צדוק אומר משיראו טפיפיות מאי</row>
+		<row row_number="17" isdata="1">טפיפיות אמר רב יהודה אמר שמואל משום</row>
+		<row row_number="18" isdata="1">ר' אליעזר ברבי צדוק כך היו מפרשין בירושלים</row>
+		<row row_number="19" isdata="1">כפרידה שכורעת להטיל מימיה ונראית פיקה</row>
+		<row row_number="20" isdata="1">מתוך פיקה: אמר רב הונא שמעתי שתי פיקות</row>
+		<row row_number="21" isdata="1">אחת של שתי ואחת של ערב ואין לי לפרש</row>
+		<row row_number="22" isdata="1">כי אתא רב דימי אמר רבי יוחנן שלש פיקות</row>
+		<row row_number="23" isdata="1">שמעתי אחת של שתי ואחת של ערב ואחת</row>
+		<row row_number="24" isdata="1">של פיקה גדולה של סקאין ואין לי לפרש</row>
+		<row row_number="25" isdata="1">כי אתא רבין פירשה משמיה דרבי יוחנן של</row>
+		<row row_number="26" isdata="1">אשה כשל שתי של בהמה כשל ערב פיקה</row>
+		<row row_number="27" isdata="1">גדולה של סקאין כדתנן גוש הבא מבית</row>
+		<row row_number="28" isdata="1">הפרס מארץ העמים שיעורו כפיקה גדולה של</row>
+		<row row_number="29" isdata="1">סקאין שהוא כחותם המרצופין וישנו בצד</row>
+		<row row_number="30" isdata="1">העליון של מגופת החבית הלחמית אמר ריש</row>
+		<row row_number="31" isdata="1">לקיש משום רבי יהודה נשיאה הלוקח ציר</row>
+		<row row_number="32" isdata="1">מעם הארץ משיקו במים וטהור ממה נפשך</row>
+		<row row_number="33" isdata="1">אי מיא רובא נינהו כיון דעביד להו השקה</row>
+		<row row_number="34" isdata="1">טהרי להו ואי רובא ציר נינהו ציר לא בר</row>
+		<row row_number="35" isdata="1">קבולי טומאה הוא מאי איכא משום הנך</row>
+		<row row_number="36" isdata="1">מיעוטא דמיא הנך בטלו להו ברובא אמר</row>
+		<row row_number="37" isdata="1">רבי ירמיה לא שנו אלא לטבול בהן פיתו</row>
+		<row row_number="38" isdata="1">אבל לקדירה לא מצא מין את מינו</row>
+		<row row_number="39" isdata="1">וניעור יתיב רב דימי וקאמר להא</row>
+		<row row_number="40" isdata="1">שמעתא אמר ליה אביי וכי טומאה</row>
+		<row row_number="41" isdata="1">שבטלה חזרה וניעורה א"ל ואת לא</row>
+		<row row_number="42" isdata="1">תסברא והתנן סאה תרומה טמאה שנפלה</row>
+</amud>
+</daf>
+</masechet>
+</root>

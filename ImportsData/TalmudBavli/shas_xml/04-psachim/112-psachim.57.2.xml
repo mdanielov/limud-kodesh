@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:27.792689</dateCreated>
+   <lastModified>2020-01-14 15:02:27.792689</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="57">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מקום שנהגו"/><ContGemara/>אחוי בידיה אי גדיא יאי יסק לתמידא אמר מלכא הואיל ולא הוי ליה</row>
+		<row row_number="2" isdata="1">אימתא דמלכותא ניפסקו לימיניה יהב שוחד ופסקיה לשמאליה שמע</row>
+		<row row_number="3" isdata="1">מלכא ופסקיה לימיניה אמר רב יוסף בריך רחמנא דאשקליה ליששכר</row>
+		<row row_number="4" isdata="1">איש כפר ברקאי למיטרפסיה מיניה בהאי עלמא אמר רב אשי יששכר</row>
+		<row row_number="5" isdata="1">איש כפר ברקאי לא תנא מתניתין דתנן ר"ש אומר כבשים קודמים</row>
+		<row row_number="6" isdata="1">לעזים בכל מקום יכול מפני שמובחרין במינן ת"ל אם כבש יביא</row>
+		<row row_number="7" isdata="1">קרבנו מלמד ששניהן שקולין כאחד רבינא אמר אפילו מקרא נמי לא</row>
+		<row row_number="8" isdata="1">קרא דכתיב אם כבש אם עז אי בעי כבש לייתיה אי בעי עז לייתיה:<EndChapter name = "מקום שנהגו"/><EndGemara/></row>
+		<row row_number="9" isdata="0">הדרן עלך מקום שנהגו וסליקא לה פסח ראשון</row>
+</amud>
+</daf>
+</masechet>
+</root>

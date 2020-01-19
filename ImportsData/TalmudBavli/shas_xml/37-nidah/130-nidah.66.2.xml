@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:33.383144</dateCreated>
+   <lastModified>2020-01-14 15:04:33.383144</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="66">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תינוקת "/><ContGemara/>לא תחוף לא בנתר ולא בחול בנתר</row>
+		<row row_number="2" isdata="1">משום דמקטף ובחול משום דמסריך ואמר</row>
+		<row row_number="3" isdata="1">אמימר משמיה דרבא אשה לא תחוף</row>
+		<row row_number="4" isdata="1">אלא בחמין אבל לא בצונן ואפילו בחמי</row>
+		<row row_number="5" isdata="1">חמה צונן מאי טעמא לא משום דקרירי</row>
+		<row row_number="6" isdata="1">ומשרו מזייא ואמר רבא לעולם ילמד</row>
+		<row row_number="7" isdata="1">אדם בתוך ביתו שתהא אשה מדיחה בית</row>
+		<row row_number="8" isdata="1">קמטיה במים מיתיבי בית הקמטים ובית</row>
+		<row row_number="9" isdata="1">הסתרים אינן צריכין לביאת מים נהי דביאת</row>
+		<row row_number="10" isdata="1">מים לא בעינן מקום הראוי לביאת מים</row>
+		<row row_number="11" isdata="1">בעינן כדר' זירא דא"ר זירא כל הראוי</row>
+		<row row_number="12" isdata="1">לבילה אין בילה מעכבת בו ושאין ראוי</row>
+		<row row_number="13" isdata="1">לבילה בילה מעכבת בו אמר רבין בר רב</row>
+		<row row_number="14" isdata="1">אדא אמר רבי יצחק מעשה בשפחתו של</row>
+		<row row_number="15" isdata="1">רבי שטבלה ועלתה ונמצא לה עצם חוצץ בין שיניה והצריכה רבי טבילה</row>
+		<row row_number="16" isdata="1">אחרת ואמר רבא טבלה ועלתה ונמצא עליה דבר חוצץ אם סמוך לחפיפה</row>
+		<row row_number="17" isdata="1">טבלה אינה צריכה לחוף ולטבול ואם לאו צריכה לחוף ולטבול איכא דאמרי</row>
+		<row row_number="18" isdata="1">אם באותו יום שחפפה טבלה אינה צריכה לחוף ולטבול ואם לאו צריכה</row>
+		<row row_number="19" isdata="1">לחוף ולטבול מאי בינייהו איכא בינייהו למסמך לחפיפה טבילה למיחף</row>
+		<row row_number="20" isdata="1">ביממא ולמטבל בליליא אמר רבא אשה לא תעמוד על גבי כלי חרס</row>
+		<row row_number="21" isdata="1">ותטבול סבר רב כהנא למימר טעמא מאי משום גזירת מרחצאות הא על</row>
+		<row row_number="22" isdata="1">גבי סילתא שפיר דמי א"ל רב חנן מנהרדעא התם טעמא מאי משום</row>
+		<row row_number="23" isdata="1">דבעית סילתא נמי בעיתא אמר רב שמואל בר רב יצחק אשה לא תטבול</row>
+</amud>
+</daf>
+</masechet>
+</root>

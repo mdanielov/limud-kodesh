@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.135812</dateCreated>
+   <lastModified>2020-01-14 15:02:26.135812</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="33">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>הזיד במעילה במיתה רבי היא דתניא הזיד</row>
+		<row row_number="2" isdata="1">במעילה רבי אומר במיתה וחכמים אומרים</row>
+		<row row_number="3" isdata="1">באזהרה מאי טעמא דרבי אמר רבי אבהו</row>
+		<row row_number="4" isdata="1">גמר חטא חטא מתרומה מה תרומה במיתה</row>
+		<row row_number="5" isdata="1">אף מעילה במיתה ומינה מה תרומה בכזית</row>
+		<row row_number="6" isdata="1">אף מעילה בכזית ומתקיף לה רב פפא ממאי</row>
+		<row row_number="7" isdata="1">דרבי כרבנן סבירא ליה דילמא כאבא שאול</row>
+		<row row_number="8" isdata="1">סבירא ליה דאמר יש בה שוה פרוטה אע"ג</row>
+		<row row_number="9" isdata="1">דלית בה כזית והא רב פפא הוא דאמר דאבא</row>
+		<row row_number="10" isdata="1">שאול תרתי בעי אלא ש"מ הדר ביה מר</row>
+		<row row_number="11" isdata="1">בריה דרבנא אמר הכי קאמר לא אם אמרת</row>
+		<row row_number="12" isdata="1">בשאר מצות שלא עשה בהן שאין מתכוין</row>
+		<row row_number="13" isdata="1">כמתכוין שאם נתכוין לחתוך את התלוש</row>
+		<row row_number="14" isdata="1">וחתך את המחובר שפטור תאמר במעילה</row>
+		<row row_number="15" isdata="1">שאם נתכוין להתחמם בגיזי חולין ונתחמם</row>
+		<row row_number="16" isdata="1">בגיזי עולה שמעל רב נחמן בר יצחק אמר</row>
+		<row row_number="17" isdata="1">הכי קאמר לא אם אמרת בשאר מצות שכן</row>
+		<row row_number="18" isdata="1">לא מתחייב בהן שאין מתעסק כמתעסק</row>
+		<row row_number="19" isdata="1">שאם נתכוין להגביה את התלוש וחתך את</row>
+		<row row_number="20" isdata="1">המחובר שפטור תאמר במעילה שאם</row>
+		<row row_number="21" isdata="1">הושיט ידו לכלי ליטול חפץ וסך ידו בשמן</row>
+		<row row_number="22" isdata="1">של קודש שמעל אמר מר בד"א במפריש</row>
+		<row row_number="23" isdata="1">תרומה והחמיצה אבל הפריש חמץ תרומה</row>
+		<row row_number="24" isdata="1">דברי הכל אינה קדושה מנא הני מילי אמר</row>
+		<row row_number="25" isdata="1">רב נחמן בר יצחק אמר קרא תתן לו ולא</row>
+		<row row_number="26" isdata="1">לאורו מתיב רב הונא בריה דרב יהושע</row>
+		<row row_number="27" isdata="1">אין תורמין מן הטמאה לטהורה ואם תרם</row>
+		<row row_number="28" isdata="1">בשוגג תרומתו תרומה ואמאי לימא לו ולא</row>
+		<row row_number="29" isdata="1">לאורו לא קשיא התם היתה לו שעת הכושר</row>
+		<row row_number="30" isdata="1">הכא לא היתה לו שעת הכושר ודלא היתה</row>
+		<row row_number="31" isdata="1">לו שעת הכושר היכי דמי כגון דאחמיץ</row>
+		<row row_number="32" isdata="1">במחובר אבל אחמיץ בתלוש הכי נמי דקדשה</row>
+		<row row_number="33" isdata="1">א"ל אין בגזירת עירין פתגמא ובמאמר</row>
+		<row row_number="34" isdata="1">קדישין שאילתא וכן מורין בבי מדרשא</row>
+		<row row_number="35" isdata="1">כוותי כי אתא רב הונא בריה דרב יהושע</row>
+</amud>
+</daf>
+</masechet>
+</root>

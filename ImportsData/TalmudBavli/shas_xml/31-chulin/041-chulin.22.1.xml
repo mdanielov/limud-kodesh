@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:11.807119</dateCreated>
+   <lastModified>2020-01-14 15:04:11.807119</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="22">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל שוחטין"/><ContGemara/>אוחז בראש ובגוף ומזה אף כאן אוחז בראש</row>
+		<row row_number="2" isdata="1">ובגוף ומזה מאי קאמר הכי קאמר מה להלן</row>
+		<row row_number="3" isdata="1">כשהוא אחוז הראש בגוף מזה אף כאן</row>
+		<row row_number="4" isdata="1">כשהוא אחוז הראש בגוף מזה אי מה להלן</row>
+		<row row_number="5" isdata="1">בסימן אחד אף כאן בסימן אחד ת"ל והקריבו</row>
+		<row row_number="6" isdata="1">ות"ק וכי מאחר דנפקא לן מומלק והקטיר</row>
+		<row row_number="7" isdata="1">והקריבו למה לי אי לאו והקריבו הוה אמינא</row>
+		<row row_number="8" isdata="1">מאי כמשפט כמשפט חטאת העוף ואי משום</row>
+		<row row_number="9" isdata="1">ומלק והקטיר הוה אמינא מה הקטרה</row>
+		<row row_number="10" isdata="1">בראשו של מזבח אף מליקה בראשו של</row>
+		<row row_number="11" isdata="1">מזבח השתא דכתב רחמנא והקריבו דרוש</row>
+		<row row_number="12" isdata="1">ביה נמי הא חטאת בהמה דאינה באה אלא</row>
+		<row row_number="13" isdata="1">מן החולין מנלן אמר רב חסדא דאמר קרא</row>
+		<row row_number="14" isdata="1">והקריב אהרן את פר החטאת אשר לו</row>
+		<row row_number="15" isdata="1">משלו ולא משל צבור ולא משל מעשר ביום</row>
+		<row row_number="16" isdata="1">מביום צוותו נפקא כדי נסבה ידו הימנית</row>
+		<row row_number="17" isdata="1">מדרבה בר בר חנה נפקא דאמר רבה בר</row>
+		<row row_number="18" isdata="1">בר חנה אר"ש בן לקיש כל מקום שנאמר</row>
+		<row row_number="19" isdata="1">אצבע או כהונה אינה אלא ימין ואידך כהונה</row>
+		<row row_number="20" isdata="1">בעיא אצבע אצבע לא בעיא כהונה ותנא קמא</row>
+		<row row_number="21" isdata="1">ורבי אלעזר בר' שמעון ממול העורף מנא להו</row>
+		<row row_number="22" isdata="1">גמרי מליקה ממליקה<EndGemara/><StartMishna/>מתני' כשר בתורין</row>
+		<row row_number="23" isdata="1">פסול בבני יונה כשר בבני יונה פסול בתורין</row>
+		<row row_number="24" isdata="1">תחלת הציהוב בזה ובזה פסול:<EndMishna/><StartGemara/>גמ' ת"ר</row>
+		<row row_number="25" isdata="1">תורין גדולים כשרים קטנים פסולים</row>
+		<row row_number="26" isdata="1">בני יונה קטנים כשרים גדולים פסולין</row>
+		<row row_number="27" isdata="1">נמצא כשר בתורין פסול בבני יונה</row>
+		<row row_number="28" isdata="1">כשר בבני יונה פסול בתורין תנו רבנן</row>
+		<row row_number="29" isdata="1">תורים גדולים ולא קטנים שיכול והלא דין הוא</row>
+</amud>
+</daf>
+</masechet>
+</root>

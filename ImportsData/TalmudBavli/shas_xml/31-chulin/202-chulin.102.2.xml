@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:16.822308</dateCreated>
+   <lastModified>2020-01-14 15:04:16.822308</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="102">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "גיד הנשה"/><ContGemara/>אכל צפור טהורה בחייה בכל שהוא</row>
+		<row row_number="2" isdata="1">במיתתה בכזית וטמאה בין בחייה בין</row>
+		<row row_number="3" isdata="1">במיתתה בכל שהוא הכא נמי במשהו</row>
+		<row row_number="4" isdata="1">בשר גידים ועצמות ת"ש נטל צפור שאין</row>
+		<row row_number="5" isdata="1">בו כזית ואכלו רבי פוטר ור' אלעזר בר ר"ש</row>
+		<row row_number="6" isdata="1">מחייב אמר ר' אלעזר בר' שמעון ק"ו על</row>
+		<row row_number="7" isdata="1">אבר ממנה חייב על כולה לא כל שכן חנקה</row>
+		<row row_number="8" isdata="1">ואכלה דברי הכל בכזית עד כאן לא פליגי</row>
+		<row row_number="9" isdata="1">אלא דמר סבר בחייה לאברים עומדת ומר</row>
+		<row row_number="10" isdata="1">סבר בחייה לאו לאברים עומדת דכ"ע מיהא</row>
+		<row row_number="11" isdata="1">לא בעינן כזית אמר רב נחמן במשהו בשר</row>
+		<row row_number="12" isdata="1">גידים ועצמות ומי איכא מידי דבכוליה לית</row>
+		<row row_number="13" isdata="1">ביה כזית בשר ובחד אבר אית כזית במשהו</row>
+		<row row_number="14" isdata="1">בשר גידין ועצמות אמר רב שרביא אין</row>
+		<row row_number="15" isdata="1">בקלניתא אימא סיפא חנקה ואכלה דברי</row>
+		<row row_number="16" isdata="1">הכל בכזית והא קלניתא עוף טמא הוא ואמר</row>
+		<row row_number="17" isdata="1">רב טמאה בין בחייה בין במיתתה במשהו</row>
+		<row row_number="18" isdata="1">אלא כעין קלניתא אמר רבא את"ל סבר רבי</row>
+		<row row_number="19" isdata="1">מחשבת אוכלין שמה מחשבה חישב</row>
+		<row row_number="20" isdata="1">לאוכלה אבר אבר ואכלה כולה חייב א"ל</row>
+		<row row_number="21" isdata="1">אביי ומי איכא מידי דאילו אכיל ליה אחר</row>
+		<row row_number="22" isdata="1">לא מיחייב ואכיל ליה האי מיחייב אמר ליה</row>
+		<row row_number="23" isdata="1">זה לפי מחשבתו וזה לפי מחשבתו ואמר רבא</row>
+		<row row_number="24" isdata="1">אם תמצא לומר סבר ר' אלעזר בר ר' שמעון</row>
+		<row row_number="25" isdata="1">מחשבת אוכלין שמה מחשבה חישב</row>
+		<row row_number="26" isdata="1">לאוכלה מתה ואכלה חיה פטור א"ל אביי</row>
+		<row row_number="27" isdata="1">ומי איכא מידי דאילו אכיל ליה אחר מחייב</row>
+		<row row_number="28" isdata="1">ואכיל ליה האי פטור א"ל זה לפי מחשבתו</row>
+		<row row_number="29" isdata="1">וזה לפי מחשבתו אמר ר' יוחנן לא תאכל</row>
+		<row row_number="30" isdata="1">הנפש עם הבשר זה אבר מן החי ובשר</row>
+		<row row_number="31" isdata="1">בשדה טרפה לא תאכלו זה בשר מן החי</row>
+		<row row_number="32" isdata="1">ובשר מן הטרפה ור"ש בן לקיש אמר לא</row>
+		<row row_number="33" isdata="1">תאכל הנפש עם הבשר זה אבר מן החי ובשר</row>
+		<row row_number="34" isdata="1">מן החי ובשר בשדה טרפה לא תאכלו זה</row>
+		<row row_number="35" isdata="1">בשר מן הטרפה אכל אבר מן החי ובשר מן</row>
+		<row row_number="36" isdata="1">החי לר' יוחנן חייב שתים לר"ש בן לקיש אינו</row>
+		<row row_number="37" isdata="1">חייב אלא אחת אכל בשר מן החי ובשר מן</row>
+		<row row_number="38" isdata="1">הטרפה לר"ש בן לקיש חייב שתים לר' יוחנן</row>
+		<row row_number="39" isdata="1">אינו חייב אלא אחת אכל אבר מן החי ובשר</row>
+		<row row_number="40" isdata="1">מן הטרפה לדברי הכל חייב שתים ורמינהו</row>
+</amud>
+</daf>
+</masechet>
+</root>

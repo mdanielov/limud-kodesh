@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:24.585594</dateCreated>
+   <lastModified>2020-01-14 15:02:24.585594</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="104">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המצניע"/><ContGemara/>שלש על שלש חוצצות פחות משלש אין</row>
+		<row row_number="2" isdata="1">חוצצות והיינו דרבא אמר רב חסדא לימא</row>
+		<row row_number="3" isdata="1">פליגא דרב יהודה בריה דרבי חייא שאני</row>
+		<row row_number="4" isdata="1">צלצול קטן דחשיב ולרבי יוחנן אדאשמעינן</row>
+		<row row_number="5" isdata="1">גמי לישמעינן צלצול קטן מילתא אגב</row>
+		<row row_number="6" isdata="1">אורחיה קמ"ל דגמי מסי<EndGemara/><StartMishna/>מתני' בוזקין</row>
+		<row row_number="7" isdata="1">מלח על גבי כבש בשביל שלא יחליקו</row>
+		<row row_number="8" isdata="1">וממלאין מבור הגולה ומבור הגדול בגלגל</row>
+		<row row_number="9" isdata="1">בשבת ומבאר הקר ביום טוב:<EndMishna/><StartGemara/>גמ' רמי</row>
+		<row row_number="10" isdata="1">ליה רב איקא מפשרוניא לרבא תנן בוזקין</row>
+		<row row_number="11" isdata="1">מלח על גבי הכבש בשביל שלא יחליקו</row>
+		<row row_number="12" isdata="1">במקדש אין במדינה לא ורמינהי חצר</row>
+		<row row_number="13" isdata="1">שנתקלקלה במימי גשמים מביא תבן ומרדה</row>
+		<row row_number="14" isdata="1">בה שאני תבן דלא מבטיל ליה א"ל רב אחא</row>
+		<row row_number="15" isdata="1">בריה דרבא לרב אשי האי מלח ה"ד אי</row>
+		<row row_number="16" isdata="1">דמבטליה קא מוסיף אבנין (וכתיב הכל</row>
+		<row row_number="17" isdata="1">בכתב מיד ה' עלי השכיל) ואי דלא קא</row>
+		<row row_number="18" isdata="1">מבטליה קא הויא חציצה בהולכת אברים</row>
+		<row row_number="19" isdata="1">לכבש דלאו עבודה היא ולא והא כתיב</row>
+		<row row_number="20" isdata="1">והקריב הכהן את הכל והקטיר המזבחה</row>
+		<row row_number="21" isdata="1">ואמר מר זו הולכת אברים לכבש אלא</row>
+		<row row_number="22" isdata="1">אימא בהולכת עצים למערכה דלאו עבודה</row>
+		<row row_number="23" isdata="1">היא דרש רבא חצר שנתקלקלה במימי</row>
+		<row row_number="24" isdata="1">גשמים מביא תבן ומרדה בה אמר ליה רב</row>
+		<row row_number="25" isdata="1">פפא לרבא והתניא כשהוא מרדה אינו</row>
+		<row row_number="26" isdata="1">מרדה לא בסל ולא בקופה אלא בשולי קופה</row>
+		<row row_number="27" isdata="1">הדר אוקים רבא אמורא עליה ודרש דברים</row>
+		<row row_number="28" isdata="1">שאמרתי לפניכם טעות הן בידי ברם כך</row>
+		<row row_number="29" isdata="1">אמרו משום רבי אליעזר וכשהוא מרדה אינו</row>
+		<row row_number="30" isdata="1">מרדה לא בסל ולא בקופה אלא בשולי קופה:</row>
+		<row row_number="31" isdata="1">ממלאין מבור הגולה: עולא איקלע לבי רב</row>
+		<row row_number="32" isdata="1">מנשה אתא ההוא גברא טרף אבבא אמר</row>
+		<row row_number="33" isdata="1">מאן האי ליתחל גופיה דקא מחיל ליה</row>
+		<row row_number="34" isdata="1">לשבתא א"ל רבה לא אסרו אלא קול של</row>
+		<row row_number="35" isdata="1">שיר איתיביה אביי מעלין בדיופי ומטיפין מיארק לחולה בשבת לחולה</row>
+		<row row_number="36" isdata="1">אין לבריא לא ה"ד לאו דנים וקא בעי דליתער ש"מ אולודי קלא אסיר</row>
+		<row row_number="37" isdata="1">לא דתיר וקא בעי דלינים דמשתמע כי קלא דזמזומי איתיביה המשמר</row>
+		<row row_number="38" isdata="1">פירותיו מפני העופות ודלעיו מפני החיה משמר כדרכו בשבת ובלבד</row>
+		<row row_number="39" isdata="1">שלא יספק ולא יטפח ולא ירקד כדרך שהן עושין בחול מאי טעמא</row>
+		<row row_number="40" isdata="1">לאו דקמוליד קלא וכל אולודי קלא אסיר אמר רב אחא בר יעקב גזירה</row>
+		<row row_number="41" isdata="1">שמא יטול צרור ואלא הא דאמר רב יהודה אמר רב נשים המשחקות</row>
+		<row row_number="42" isdata="1">באגוזים אסור מאי טעמא לאו דקא מוליד קלא וכל אולודי קלא אסיר</row>
+		<row row_number="43" isdata="1">לא דלמא אתי לאשוויי גומות דאי לא תימא הכי הא דאמר רב</row>
+		<row row_number="44" isdata="1">יהודה נשים משחקות בתפוחים אסור התם מאי אולודי קלא איכא</row>
+		<row row_number="45" isdata="1">אלא דילמא אתי לאשוויי גומות תנן ממלאין מבור הגולה ומבור</row>
+		<row row_number="46" isdata="1">הגדול בגלגל בשבת במקדש אין במדינה לא מאי טעמא לאו משום</row>
+		<row row_number="47" isdata="1">דאולודי קלא ואסיר לא גזירה שמא ימלא לגינתו ולחורבתו אמימר שרא</row>
+		<row row_number="48" isdata="1">למימלא בגילגלא במחוזא אמר מאי טעמא גזרו רבנן שמא ימלא</row>
+		<row row_number="49" isdata="1">לגינתו ולחורבתו הכא לא גינה איכא ולא חורבה איכא כיון דקא חזא דקא</row>
+</amud>
+</daf>
+</masechet>
+</root>

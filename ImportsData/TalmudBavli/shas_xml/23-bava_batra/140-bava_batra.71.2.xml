@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:32.709719</dateCreated>
+   <lastModified>2020-01-14 15:03:32.709719</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="71">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר את הבית"/><ContGemara/>אם איתא דלא שייר לימא ליה עקור אילנך</row>
+		<row row_number="2" isdata="1">שקול וזיל תנן ר' שמעון אומר המקדיש את</row>
+		<row row_number="3" isdata="1">השדה לא הקדיש אלא חרוב המורכב וסדן</row>
+		<row row_number="4" isdata="1">השקמה ותני עלה אמר ר"ש מה טעם הואיל</row>
+		<row row_number="5" isdata="1">ויונקין משדה הקדש ואי סלקא דעתך שיורי</row>
+		<row row_number="6" isdata="1">שייר כי קא ינקי מדנפשיה קא ינקי ר"ש</row>
+		<row row_number="7" isdata="1">דאמר כר"ע ורב הונא דאמר כרבנן כרבנן</row>
+		<row row_number="8" isdata="1">פשיטא נפקא מינה דאי נפלי הדר שתיל להו</row>
+</amud>
+</daf>
+</masechet>
+</root>

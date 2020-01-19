@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.308398</dateCreated>
+   <lastModified>2020-01-14 15:02:53.308398</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="111">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בית שמאי"/><ContGemara/>תיתיב גביה ממה נפשך אי קנויה היא הא</row>
+		<row row_number="2" isdata="1">קנויה היא ואי לאו קנויה היא הא נכרית</row>
+		<row row_number="3" isdata="1">בעלמא היא וכי תימא קטנה אמאי תמתין</row>
+		<row row_number="4" isdata="1">עד שתגדיל ותחלוץ תיתיב גביה אי קנויה</row>
+		<row row_number="5" isdata="1">היא הא קנויה היא אי לאו קנויה היא נוכריתא</row>
+		<row row_number="6" isdata="1">בעלמא היא אם כן חרשת במה תיפוק אמר</row>
+		<row row_number="7" isdata="1">רב ששת הכי נמי מיסתברא כדקא מתרץ</row>
+		<row row_number="8" isdata="1">רב חסדא אליבא דרב דתניא שני אחין</row>
+		<row row_number="9" isdata="1">נשואין שתי אחיות יתומות קטנה וחרשת</row>
+		<row row_number="10" isdata="1">מת בעלה של קטנה חרשת יוצאה בגט</row>
+		<row row_number="11" isdata="1">וקטנה תמתין עד שתגדיל ותחלוץ מת</row>
+		<row row_number="12" isdata="1">בעלה של חרשת קטנה יוצאה בגט וחרשת</row>
+		<row row_number="13" isdata="1">אסורה לעולם ואם בא על החרשת נותן</row>
+		<row row_number="14" isdata="1">לה גט והותרה אי אמרת בשלמא חרשת</row>
+		<row row_number="15" isdata="1">קנויה ומשויירת קטנה קנויה ואינה קנויה</row>
+		<row row_number="16" isdata="1">משום הכי דכי בא על החרשת נותן לה גט</row>
+		<row row_number="17" isdata="1">והותרה דאמרת ממה נפשך אי קטנה קנויה</row>
+		<row row_number="18" isdata="1">היא הא נפקא משום אחות אשה אי לאו קנויה שפיר מיבם אלא אי</row>
+		<row row_number="19" isdata="1">אמרת חרשת קנויה ואינה קנויה קטנה קנויה ומשויירת כי בא על חרשת</row>
+		<row row_number="20" isdata="1">אמאי נותן גט והותרה הויא ליה ביאה פסולה וביאה פסולה לא פטרה הא מני</row>
+		<row row_number="21" isdata="1">רבי נחמיה היא דאמר ביאה פסולה פוטרת מחליצה אי רבי נחמיה אימא</row>
+		<row row_number="22" isdata="1">סיפא מי שהיה נשוי שתי יתומות קטנה וחרשת ומת בא יבם על הקטנה וחזר</row>
+		<row row_number="23" isdata="1">ובא על החרשת או שבא אחיו על החרשת נאסרו שתיהן עליו כיצד תקנתן</row>
+		<row row_number="24" isdata="1">חרשת יוצאת בגט וקטנה תמתין עד שתגדיל ותחלוץ אי אמרת בשלמא</row>
+		<row row_number="25" isdata="1">חרשת קנויה ומשויירת קטנה קנויה ואינה קנויה ורבנן היא משום הכי</row>
+		<row row_number="26" isdata="1">תמתין עד שתגדיל ותחלוץ דדלמא קדים ובעיל חרשת ברישא והויא ליה</row>
+		<row row_number="27" isdata="1">ביאה דקטנה ביאה פסולה אלא אי אמרת רבי נחמיה הא אמר ביאה</row>
+		<row row_number="28" isdata="1">פסולה פטרה אלא שמע מינה רבנן היא ש"מ אמר רב אשי מרישא נמי</row>
+		<row row_number="29" isdata="1">שמע מינה דרבנן היא דקתני אם בא על החרשת נותן לה גט והותרה ולא</row>
+		<row row_number="30" isdata="1">קתני אם בא על הקטנה נותן לה גט והותרה אי משום הא לא איריא חרשת</row>
+		<row row_number="31" isdata="1">דלית לה תקנתא דהיתירא קתני תקנתא דאיסורא קטנה דאית לה תקנתא</row>
+		<row row_number="32" isdata="1">דהיתירא לא תני תקנתא דאיסורא<EndGemara/><StartMishna/>מתני' מי שהיה נשוי לשתי יתומו' קטנות</row>
+		<row row_number="33" isdata="1">ומת ובא יבם על הראשונה וחזר ובא על השניה או שבא אחיו על השניה</row>
+</amud>
+</daf>
+</masechet>
+</root>

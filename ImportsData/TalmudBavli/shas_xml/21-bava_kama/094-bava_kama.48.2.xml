@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:19.139091</dateCreated>
+   <lastModified>2020-01-14 15:03:19.139091</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="48">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח את הפרה"/><ContGemara/>שניהם ברשות או שניהם שלא ברשות הזיקו</row>
+		<row row_number="2" isdata="1">זה את זה חייבין הוזקו זה בזה פטורין טעמא</row>
+		<row row_number="3" isdata="1">דשניהם ברשות או שניהם שלא ברשות אבל</row>
+		<row row_number="4" isdata="1">אחד ברשות ואחד שלא ברשות דברשות</row>
+		<row row_number="5" isdata="1">פטור שלא ברשות חייב: נפל לבור והבאיש</row>
+		<row row_number="6" isdata="1">מימיו חייב: אמר רבא לא שנו אלא שהבאיש</row>
+		<row row_number="7" isdata="1">בשעת נפילה אבל לאחר נפילה פטור מ"ט</row>
+		<row row_number="8" isdata="1">הוי שור בור ומים כלים ולא מצינו בור שחייב</row>
+		<row row_number="9" isdata="1">בו את הכלים הניחא לשמואל דאמר כל</row>
+		<row row_number="10" isdata="1">תקלה בור הוא אלא לרב דאמר עד דמפקר</row>
+		<row row_number="11" isdata="1">ליה מאי איכא למימר אלא אי איתמר הכי</row>
+		<row row_number="12" isdata="1">איתמר אמר רבא לא שנו אלא שהבאיש</row>
+		<row row_number="13" isdata="1">מגופו אבל הבאיש מריחו פטור מאי טעמא</row>
+		<row row_number="14" isdata="1">גרמא בעלמא הוא וגרמא בעלמא לא</row>
+		<row row_number="15" isdata="1">מיחייב: היה אביו או בנו לתוכו משלם</row>
+		<row row_number="16" isdata="1">את הכופר: ואמאי הא תם הוא אמר רב</row>
+		<row row_number="17" isdata="1">במועד ליפול על בני אדם בבורות עסקינן</row>
+		<row row_number="18" isdata="1">א"ה בר קטלא הוא אמר רב יוסף דחזא</row>
+		<row row_number="19" isdata="1">ירוקא ונפל שמואל אמר הא מני ר' יוסי</row>
+		<row row_number="20" isdata="1">הגלילי היא דאמר תם משלם חצי כופר עולא</row>
+		<row row_number="21" isdata="1">אמר ר' יוסי הגלילי היא דאמר כר' טרפון</row>
+		<row row_number="22" isdata="1">דאמר קרן בחצר הניזק נזק שלם משלם</row>
+		<row row_number="23" isdata="1">ה"נ כופר שלם משלם בשלמא לעולא היינו</row>
+		<row row_number="24" isdata="1">דקתני היה אביו או בנו לתוכו אלא לשמואל</row>
+		<row row_number="25" isdata="1">מאי איריא אביו או בנו אפילו אחר נמי</row>
+		<row row_number="26" isdata="1">אורחיה דמילתא קתני: ואם הכניס ברשות</row>
+		<row row_number="27" isdata="1">בעל חצר חייב [כו']: איתמר רב אמר הלכתא</row>
+		<row row_number="28" isdata="1">כת"ק ושמואל אמר הלכתא כרבי תנו רבנן</row>
+		<row row_number="29" isdata="1">כנוס שורך ושמרו הזיק חייב הוזק פטור</row>
+		<row row_number="30" isdata="1">כנוס שורך ואני אשמרנו הוזק חייב הזיק</row>
+		<row row_number="31" isdata="1">פטור הא גופא קשיא אמרת כנוס שורך</row>
+		<row row_number="32" isdata="1">ושמרו הזיק חייב הוזק פטור טעמא דא"ל</row>
+		<row row_number="33" isdata="1">שמרו דחייב בעל השור ופטור בעל חצר הא</row>
+		<row row_number="34" isdata="1">סתמא חייב בעל חצר ופטור בעל השור</row>
+		<row row_number="35" isdata="1">דבסתמא מקבל עליה נטירותא אימא סיפא</row>
+		<row row_number="36" isdata="1">כנוס שורך ואני אשמרנו הוזק חייב הזיק</row>
+		<row row_number="37" isdata="1">פטור טעמא דאמר ליה ואני אשמרנו הוא</row>
+		<row row_number="38" isdata="1">דמחייב בעל החצר ופטור בעל השור הא</row>
+		<row row_number="39" isdata="1">סתמא חייב בעל השור ופטור בעל חצר</row>
+		<row row_number="40" isdata="1">דבסתמא לא מקבל עליה נטירותא אתאן</row>
+		<row row_number="41" isdata="1">לרבי דאמר עד שיקבל עליה נטירותא בעל</row>
+		<row row_number="42" isdata="1">הבית לשמור רישא רבנן וסיפא רבי א"ר</row>
+		<row row_number="43" isdata="1">אלעזר תברא מי ששנה זו לא שנה זו רבא</row>
+		<row row_number="44" isdata="1">אמר כולה רבנן היא איידי דנסיב רישא</row>
+		<row row_number="45" isdata="1">שמרו תנא סיפא ואני אשמרנו רב פפא אמר</row>
+		<row row_number="46" isdata="1">כולה רבי היא וסבר לה כר' טרפון דאמר</row>
+		<row row_number="47" isdata="1">קרן בחצר הניזק נזק שלם משלם הלכך אמר</row>
+		<row row_number="48" isdata="1">ליה שמרו לא מקני ליה מקום בחצר והויא</row>
+		<row row_number="49" isdata="1">ליה קרן בחצר הניזק וקרן בחצר הניזק משלם</row>
+		<row row_number="50" isdata="1">נזק שלם לא אמר ליה שמרו אקנויי אקני</row>
+		<row row_number="51" isdata="1">ליה מקום בחצר והויא ליה חצר השותפין וקרן בחצר השותפין אינו משלם</row>
+		<row row_number="52" isdata="1">אלא חצי נזק<EndGemara/><StartMishna/>מתני' שור שהיה מתכוין לחבירו והכה את האשה ויצאו</row>
+		<row row_number="53" isdata="1">ילדיה פטור מדמי ולדות ואדם שהיה מתכוין לחבירו והכה את האשה ויצאו</row>
+		<row row_number="54" isdata="1">ילדיה משלם דמי ולדות כיצד משלם דמי ולדות שמין את האשה כמה היא</row>
+		<row row_number="55" isdata="1">יפה עד שלא ילדה וכמה היא יפה משילדה אמר רבן שמעון בן גמליאל</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:04.605620</dateCreated>
+   <lastModified>2020-01-14 15:03:04.605620</lastModified>
+ </meta>
+ <masechet name="נזיר" serial="17">
+<daf value="28">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שאמר"/><ContGemara/>תנא דידן סבר כיון דאיזדריק עלה דם לאלתר</row>
+		<row row_number="2" isdata="1">שריא בחמרא והא לית לה ניוול ור"ע סבר</row>
+		<row row_number="3" isdata="1">אפי' אישתחיטת בהמה אינו יכול להפר</row>
+		<row row_number="4" isdata="1">משום הפסד קדשים מתקיף לה רבי זירא</row>
+		<row row_number="5" isdata="1">ואמאי לזרוק דמן שלא לשמן ויתיר בשר</row>
+		<row row_number="6" isdata="1">באכילה מי לא תניא כבשי עצרת ששחטן</row>
+		<row row_number="7" isdata="1">שלא לשמן או ששחטן לפני זמנן או לאחר</row>
+		<row row_number="8" isdata="1">זמנן הדם יזרק והבשר יאכל ואם היתה שבת</row>
+		<row row_number="9" isdata="1">לא יזרק ואם זרק הורצה להקטיר אימורין</row>
+		<row row_number="10" isdata="1">לערב אמרי אי דשחט עולה או שלמים ה"נ</row>
+		<row row_number="11" isdata="1">אלא הכא במאי עסקינן כגון ששחט חטאת</row>
+		<row row_number="12" isdata="1">ברישא כדתנן אם גילח על אחת משלשתן</row>
+		<row row_number="13" isdata="1">יצא: בד"א בתגלחת טהרה אבל בתגלחת</row>
+		<row row_number="14" isdata="1">טומאה יפר (מפני שיכול לומר אי אפשי</row>
+		<row row_number="15" isdata="1">באשה מנוולת) ור"מ אומר אפי' בתגלחת</row>
+		<row row_number="16" isdata="1">טהרה יפר מפני שיכול לומר אי אפשי באשה</row>
+		<row row_number="17" isdata="1">מגלחת: ות"ק אמר לך אפשר בפאה</row>
+		<row row_number="18" isdata="1">נכרית ור"מ סבר בפאה נכרית איידי דזוהמא</row>
+		<row row_number="19" isdata="1">לא ניחא ליה<EndGemara/><StartMishna/>מתני' האיש מדיר את בנו</row>
+		<row row_number="20" isdata="1">בנזיר ואין האשה מדרת את בנה בנזיר כיצד</row>
+		<row row_number="21" isdata="1">גילח או שגילחוהו קרוביו מיחה או שמיחו</row>
+		<row row_number="22" isdata="1">קרוביו היתה לו בהמה מופרשת החטאת</row>
+		<row row_number="23" isdata="1">תמות והעולה תקרב עולה ושלמים יקרבו</row>
+		<row row_number="24" isdata="1">שלמים ונאכלין ליום אחד ואינן טעונין לחם</row>
+		<row row_number="25" isdata="1">היו לו מעות סתומין יפלו לנדבה מעות</row>
+		<row row_number="26" isdata="1">מפורשים דמי חטאת ילכו לים המלח לא</row>
+		<row row_number="27" isdata="1">נהנין ולא מועלין דמי עולה יביאו עולה</row>
+		<row row_number="28" isdata="1">ומועלין בהן דמי שלמים יביאו שלמים ונאכלין</row>
+		<row row_number="29" isdata="1">ליום אחד ואינן טעונין לחם:<EndMishna/><StartGemara/>גמ' איש אין</row>
+		<row row_number="30" isdata="1">אבל אשה לא מאי טעמא ר' יוחנן אמר</row>
+		<row row_number="31" isdata="1">הלכה היא בנזיר ורבי יוסי ברבי חנינא</row>
+</amud>
+</daf>
+</masechet>
+</root>

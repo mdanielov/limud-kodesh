@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.601380</dateCreated>
+   <lastModified>2020-01-14 15:02:53.601380</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="117">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה שלום"/><ContGemara/>ת"ש אמרה מת בעלי ואח"כ מת חמי תנשא</row>
+		<row row_number="2" isdata="1">ותטול כתובה וחמותה אסורה מ"ט חמותה</row>
+		<row row_number="3" isdata="1">אסורה לאו משום דאמרינן לא בעלה מיית</row>
+		<row row_number="4" isdata="1">ולא חמיה מיית והא דקאמרה הכי לקלקולא</row>
+		<row row_number="5" isdata="1">לחמותה הוא דקמיכוונא סברה לבתר שעתא</row>
+		<row row_number="6" isdata="1">לא תיתי תצטערן דלמא שאני התם דרגיש</row>
+		<row row_number="7" isdata="1">לה צערא<EndGemara/><StartMishna/>מתני' עד אומר מת ונשאת</row>
+		<row row_number="8" isdata="1">ובא אחד ואמר לא מת הרי זו לא תצא עד</row>
+		<row row_number="9" isdata="1">אומר מת ושנים אומרים לא מת אע"פ שנשאת</row>
+		<row row_number="10" isdata="1">תצא שנים אומרים מת ועד אומר לא מת</row>
+		<row row_number="11" isdata="1">אע"פ שלא נשאת תנשא:<EndMishna/><StartGemara/>גמ' טעמא</row>
+		<row row_number="12" isdata="1">דנשאת הא לא נשאת לא תנשא והאמר</row>
+		<row row_number="13" isdata="1">עולא כ"מ שהאמינה תורה עד אחד הרי</row>
+		<row row_number="14" isdata="1">כאן שנים ואין דבריו של אחד במקום שנים</row>
+		<row row_number="15" isdata="1">הכי קאמר עד אחד אומר מת והתירוה</row>
+		<row row_number="16" isdata="1">להנשא ובא אחד ואמר לא מת לא תצא</row>
+		<row row_number="17" isdata="1">מהיתירה הראשון: עד אומר מת: פשיטא</row>
+		<row row_number="18" isdata="1">דאין דבריו של אחד במקום שנים לא</row>
+		<row row_number="19" isdata="1">צריכא בפסולי עדות וכדר' נחמיה דתניא רבי</row>
+		<row row_number="20" isdata="1">נחמיה אומר כל מקום שהאמינה תורה עד</row>
+		<row row_number="21" isdata="1">אחד הלך אחר רוב דעות ועשו שתי נשים</row>
+		<row row_number="22" isdata="1">באיש אחד כשני אנשים באיש אחד ואיבעית</row>
+		<row row_number="23" isdata="1">אימא כל היכא דאתא עד אחד כשר מעיקרא</row>
+		<row row_number="24" isdata="1">אפי' מאה נשים כעד אחד דמיין אלא</row>
+		<row row_number="25" isdata="1">כגון דאתאי אשה מעיקרא ותרצה לדרבי</row>
+		<row row_number="26" isdata="1">נחמיה הכי רבי נחמיה אומר כל מקום</row>
+		<row row_number="27" isdata="1">שהאמינה תורה עד אחד הלך אחר רוב דעות</row>
+		<row row_number="28" isdata="1">ועשו שתי נשים באשה אחת כשני אנשים</row>
+		<row row_number="29" isdata="1">באיש אחד אבל שתי נשים באיש אחד</row>
+		<row row_number="30" isdata="1">כפלגא ופלגא דמי: שנים אומרים מת וכו':</row>
+		<row row_number="31" isdata="1">מאי קמשמע לן בפסולי עדות וכדר' נחמיה</row>
+		<row row_number="32" isdata="1">דאזיל בתר רוב דעות היינו הך מהו דתימא</row>
+		<row row_number="33" isdata="1">כי אזלינן בתר רוב דעות לחומרא אבל</row>
+		<row row_number="34" isdata="1">לקולא לא קמ"ל<EndGemara/><StartMishna/>מתני' אחת אומרת מת</row>
+		<row row_number="35" isdata="1">ואחת אומרת לא מת זו שאומרת מת תנשא</row>
+		<row row_number="36" isdata="1">ותטול כתובתה וזו שאומרת לא מת לא תנשא</row>
+		<row row_number="37" isdata="1">ולא תטול כתובתה אחת אומרת מת ואחת</row>
+		<row row_number="38" isdata="1">אומרת נהרג ר"מ אומר הואיל ומכחישות זו</row>
+		<row row_number="39" isdata="1">את זו הרי אלו לא ינשאו ר' יהודה ור' שמעון</row>
+		<row row_number="40" isdata="1">אומרים הואיל וזו וזו מודות שאין קיים</row>
+		<row row_number="41" isdata="1">ינשאו עד אומר מת ועד אומר לא מת</row>
+</amud>
+</daf>
+</masechet>
+</root>

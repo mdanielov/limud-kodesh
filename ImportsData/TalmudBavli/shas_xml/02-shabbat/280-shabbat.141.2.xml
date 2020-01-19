@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:18.107554</dateCreated>
+   <lastModified>2020-01-14 15:02:18.107554</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="141">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תולין"/><ContGemara/>במה מגררו א"ר אבהו בגב סכין א"ל ההוא</row>
+		<row row_number="2" isdata="1">סבא סמי דידך מקמי הא דתני רבי חייא</row>
+		<row row_number="3" isdata="1">אין מגררין לא מנעל חדש ולא מנעל ישן</row>
+		<row row_number="4" isdata="1">ולא יסוך את רגלו שמן והוא בתוך המנעל</row>
+		<row row_number="5" isdata="1">או בתוך הסנדל אבל סך את רגלו שמן</row>
+		<row row_number="6" isdata="1">ומניח בתוך המנעל או בתוך הסנדל וסך</row>
+		<row row_number="7" isdata="1">כל גופו שמן ומתעגל ע"ג קטבליא ואינו</row>
+		<row row_number="8" isdata="1">חושש אמר רב חסדא לא שנו אלא לצחצחו</row>
+		<row row_number="9" isdata="1">אבל לעבדו אסור לעבדו פשיטא ותו</row>
+		<row row_number="10" isdata="1">לצחצחו מי איכא מאן דשרי אלא אי איתמר</row>
+		<row row_number="11" isdata="1">הכי איתמר אמר רב חסדא לא שנו אלא</row>
+		<row row_number="12" isdata="1">שיעור לצחצחו אבל שיעור לעבדו אסור</row>
+		<row row_number="13" isdata="1">ת"ר לא יצא קטן במנעל גדול אבל יוצא</row>
+		<row row_number="14" isdata="1">הוא בחלוק גדול ולא תצא אשה במנעל</row>
+		<row row_number="15" isdata="1">מרופט ולא תחלוץ בו ואם חלצה חליצתה</row>
+		<row row_number="16" isdata="1">כשרה ואין יוצאין במנעל חדש באיזה</row>
+		<row row_number="17" isdata="1">מנעל אמרו במנעל של אשה תני בר קפרא</row>
+		<row row_number="18" isdata="1">ל"ש אלא שלא יצאה בו שעה אחת מבעוד</row>
+		<row row_number="19" isdata="1">יום אבל יצאה בו מע"ש מותר תני חדא</row>
+		<row row_number="20" isdata="1">שומטין מנעל מעל גבי אימוס ותניא אידך</row>
+		<row row_number="21" isdata="1">אין שומטין לא קשיא הא ר' אליעזר הא</row>
+		<row row_number="22" isdata="1">רבנן דתנן מנעל שעל גבי אימוס רבי</row>
+		<row row_number="23" isdata="1">אליעזר מטהר וחכמים מטמאים הניחא</row>
+		<row row_number="24" isdata="1">לרבא דאמר דבר שמלאכתו לאיסור בין</row>
+		<row row_number="25" isdata="1">לצורך גופו בין לצורך מקומו מותר שפיר</row>
+		<row row_number="26" isdata="1">אלא לאביי דאמר לצורך גופו מותר לצורך</row>
+		<row row_number="27" isdata="1">מקומו אסור מאי איכא למימר הכא במאי</row>
+		<row row_number="28" isdata="1">עסקינן ברפוי דתניא רבי יהודה אומר אם</row>
+		<row row_number="29" isdata="1">היה רפוי מותר טעמא דרפוי הא לא רפוי</row>
+		<row row_number="30" isdata="1">לא הניחא לאביי דאמר דבר שמלאכתו</row>
+		<row row_number="31" isdata="1">לאיסור לצורך גופו מותר לצורך מקומו</row>
+		<row row_number="32" isdata="1">אסור שפיר אלא לרבא דאמר בין לצורך</row>
+		<row row_number="33" isdata="1">גופו בין לצורך מקומו מותר מאי איריא</row>
+		<row row_number="34" isdata="1">רפוי אפי' לא רפוי נמי ההיא דרבי יהודה</row>
+		<row row_number="35" isdata="1">משום דרבי אליעזר הוא דתניא ר' יהודה אומר משום רבי אליעזר אם</row>
+		<row row_number="36" isdata="1">היה רפוי מותר:<EndChapter name = "תולין"/><EndGemara/></row>
+		<row row_number="37" isdata="0">הדרן עלך תולין</row>
+		<row row_number="38" isdata="1"><StartChapter name = "נוטל אדם את בנו"/><StartMishna/>נוטל אדם את בנו והאבן בידו וכלכלה והאבן בתוכה ומטלטלין</row>
+		<row row_number="39" isdata="1">תרומה טמאה עם הטהורה ועם החולין רבי יהודה אומר אף</row>
+		<row row_number="40" isdata="1">מעלין את המדומע באחד ומאה:<EndMishna/><StartGemara/>גמ' אמר רבא הוציא תינוק חי</row>
+		<row row_number="41" isdata="1">וכיס תלוי בצוארו חייב משום כיס תינוק מת וכיס תלוי לו בצוארו</row>
+		<row row_number="42" isdata="1">פטור תינוק חי וכיס תלוי לו בצוארו חייב משום כיס וליחייב נמי</row>
+		<row row_number="43" isdata="1">משום תינוק רבא כרבי נתן סבירא ליה דאמר חי נושא את עצמו</row>
+		<row row_number="44" isdata="1">וליבטל כיס לגבי תינוק מי לא תנן את החי במטה פטור אף על המטה</row>
+		<row row_number="45" isdata="1">שהמטה טפילה לו מטה לגבי חי מבטלי ליה כיס לגבי תינוק לא מבטלי</row>
+		<row row_number="46" isdata="1">ליה תינוק מת וכיס תלוי לו בצוארו פטור וליחייב משום תינוק רבא כר"ש</row>
+		<row row_number="47" isdata="1">ס"ל דאמר כל מלאכה שא"צ לגופה פטור עליה תנן נוטל אדם את בנו</row>
+		<row row_number="48" isdata="1">והאבן בידו אמרי דבי רבי ינאי בתינוק שיש לו גיעגועין על אביו אי הכי</row>
+</amud>
+</daf>
+</masechet>
+</root>

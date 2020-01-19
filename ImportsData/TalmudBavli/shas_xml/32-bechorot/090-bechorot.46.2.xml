@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:21.806459</dateCreated>
+   <lastModified>2020-01-14 15:04:21.806459</lastModified>
+ </meta>
+ <masechet name="בכורות" serial="32">
+<daf value="46">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "יש בכור"/><ContGemara/>גמ' אמר שמואל אין הראש פוטר בנפלים<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">מ"ט כל אשר נשמת רוח חיים באפיו כל</row>
+		<row row_number="3" isdata="1">היכא דנשמת רוח חיים באפיו הוא דחשיב</row>
+		<row row_number="4" isdata="1">רישיה אידך לא חשיב רישיה תנן הבא אחר</row>
+		<row row_number="5" isdata="1">נפלים שיצא ראשו חי ובן תשעה שיצא ראשו</row>
+		<row row_number="6" isdata="1">מת קתני מיהא ראשו מאי ראשו רובו וליתני</row>
+		<row row_number="7" isdata="1">רובו בדין הוא דאיבעי ליה למיתני רובו</row>
+		<row row_number="8" isdata="1">ואיידי דקא בעי למיתני סיפא בן תשעה</row>
+		<row row_number="9" isdata="1">שיצא ראשו מת טעמא דראשו מת הא ראשו</row>
+		<row row_number="10" isdata="1">חי הבא אחריו בכור לנחלה נמי לא הוי תנא</row>
+		<row row_number="11" isdata="1">רישא נמי ראשו ומאי קמ"ל דכיון דמפיק</row>
+		<row row_number="12" isdata="1">ליה רישיה הוה לידה תנינא הוציא ראשו</row>
+		<row row_number="13" isdata="1">אע"פ שהחזירו הרי זה כילוד וכי תימא</row>
+		<row row_number="14" isdata="1">אשמועינן בהמה וקמ"ל באדם דאדם מבהמה</row>
+		<row row_number="15" isdata="1">לא יליף דלית לה פרוזדור בהמה מאדם לא</row>
+		<row row_number="16" isdata="1">ילפא משום דחשיב פרצוף פנים דידיה הא</row>
+		<row row_number="17" isdata="1">נמי תנינא יצא כדרכו משיצא רוב ראשו</row>
+		<row row_number="18" isdata="1">ואיזהו רוב ראשו משתצא פדחתו תיובתא</row>
+		<row row_number="19" isdata="1">דשמואל תיובתא אמר רבי שמעון בן לקיש</row>
+		<row row_number="20" isdata="1">פדחת פוטרת בכל מקום חוץ מן הנחלה מאי</row>
+		<row row_number="21" isdata="1">טעמא יכיר אמר רחמנא ור' יוחנן אמר אפי'</row>
+		<row row_number="22" isdata="1">לנחלה בכל מקום לאיתויי מאי לאיתויי הא</row>
+		<row row_number="23" isdata="1">דתנו רבנן גיורת שיצאה פדחת ולדה בהיותה</row>
+		<row row_number="24" isdata="1">נכרית ואח"כ נתגיירה אין נותנין לה ימי</row>
+		<row row_number="25" isdata="1">טומאה וימי טהרה ואינה מביאה קרבן לידה</row>
+		<row row_number="26" isdata="1">מיתיבי יכיר זו הכרת פנים ואיזו היא הכרת</row>
+		<row row_number="27" isdata="1">פנים פרצוף פנים עם החוטם תני עד החוטם</row>
+		<row row_number="28" isdata="1">תא שמע אין מעידים אלא על פרצוף</row>
+		<row row_number="29" isdata="1">פנים עם החוטם תני עד החוטם תא שמע</row>
+		<row row_number="30" isdata="1">פדחת בלא פרצוף פנים פרצוף פנים בלא</row>
+		<row row_number="31" isdata="1">פדחת אין מעידין עד שיהו שניהם עם החוטם</row>
+		<row row_number="32" isdata="1">ואמר אביי ואיתימא רב כהנא מאי קראה</row>
+		<row row_number="33" isdata="1">הכרת פניהם ענתה בם שאני עדות אשה</row>
+		<row row_number="34" isdata="1">דאחמירו בה רבנן ומי אחמירו והא תנן</row>
+		<row row_number="35" isdata="1">הוחזקו להיות משיאים עד מפי עד מפי אשה</row>
+		<row row_number="36" isdata="1">מפי עבד מפי שפחה כי אקילו רבנן בסופה</row>
+		<row row_number="37" isdata="1">בתחלתה לא אקילו רבנן ואיבעית אימא</row>
+</amud>
+</daf>
+</masechet>
+</root>

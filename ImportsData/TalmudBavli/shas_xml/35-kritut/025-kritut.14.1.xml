@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:27.555300</dateCreated>
+   <lastModified>2020-01-14 15:04:27.555300</lastModified>
+ </meta>
+ <masechet name="כריתות" serial="35">
+<daf value="14">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אמרו לו"/><ContGemara/>גמ' נימא אית ליה לר"מ איסור חל על איסור<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">נהי דאיסור חל על איסור לית ליה איסור</row>
+		<row row_number="3" isdata="1">כולל ואיסור מוסיף אית ליה טהור מעיקרא</row>
+		<row row_number="4" isdata="1">לא אסור אלא בחלב הוה ליה טמא מיגו</row>
+		<row row_number="5" isdata="1">דאסור בחתיכות טהורות איתוסף ביה נמי</row>
+		<row row_number="6" isdata="1">איסורא עילוי חלב וחלב מעיקרא לא אסור</row>
+		<row row_number="7" isdata="1">אלא באכילה אקדשיה מיגו דאיתוסף ביה</row>
+		<row row_number="8" isdata="1">איסורא דהנאה איתוסף ביה לגבי חלב</row>
+		<row row_number="9" isdata="1">ואכתי להדיוט הוא אסור אבל לגבוה שרי</row>
+		<row row_number="10" isdata="1">הוה ליה נותר מיגו דאיתוסף איסורא לגבי</row>
+		<row row_number="11" isdata="1">גבוה איתוסף ביה לגבי הדיוט חל עליה יוה"כ</row>
+		<row row_number="12" isdata="1">מיגו דאיתוסף ביה איסור לגבי חולין איתוסף</row>
+		<row row_number="13" isdata="1">ביה לגבי גבוה ונתני ה' חטאות ונוקמה כגון</row>
+		<row row_number="14" isdata="1">דאכל כזית פיגול בחדא בהמה קמיירי בשתי</row>
+		<row row_number="15" isdata="1">בהמות לא קמיירי ונותר ופיגול בחדא בהמה</row>
+		<row row_number="16" isdata="1">לא משכחת לה אלמה לא משכחת לה כגון</row>
+		<row row_number="17" isdata="1">שהעלה אבר פיגול לגבי מזבח דפקע פיגוליה</row>
+		<row row_number="18" isdata="1">מיניה והוה ליה נותר וכדאמר עולא קומץ</row>
+		<row row_number="19" isdata="1">פיגול שהעלה לגבי מזבח פקע פיגולו ממנו</row>
+		<row row_number="20" isdata="1">והוה ליה נותר באבר אחד קא מיירי בשני</row>
+		<row row_number="21" isdata="1">אברים לא קמיירי ונותר ופיגול בחד אבר לא</row>
+		<row row_number="22" isdata="1">משכחת לה אלמה לא משכחת לה כגון</row>
+		<row row_number="23" isdata="1">שהעלה אבר פיגול לגבי מזבח דפלגיה</row>
+		<row row_number="24" isdata="1">אנחיה ע"ג מזבח ופלגיה מאבראי דמזבח</row>
+		<row row_number="25" isdata="1">דההוא דמזבח פקע פיגול והוה ליה נותר</row>
+		<row row_number="26" isdata="1">וכדאמר עולא קומץ פיגול שהעלה על המזבח</row>
+		<row row_number="27" isdata="1">פקע פיגולו ממנו והוי ליה נותר א"ל לא אי</row>
+		<row row_number="28" isdata="1">רובא דמזבח שדייה למזבח רובא דבראי</row>
+		<row row_number="29" isdata="1">שדייה לבראי תפשוט דבעי רמי בר חמא</row>
+		<row row_number="30" isdata="1">הלכו באברים אחר הרוב או לא אלא בכזית</row>
+		<row row_number="31" isdata="1">אחד קמיירי בשני זיתים לא קא מיירי ולא</row>
+		<row row_number="32" isdata="1">והקתני י"ה ובי"ה כותבת דמחייב וכותבת</row>
+		<row row_number="33" isdata="1">אית ביה שני זיתים א"ר זירא כגון שאכל</row>
+		<row row_number="34" isdata="1">כוליא בחלבה רב פפא אמר כגון דמלייה</row>
+		<row row_number="35" isdata="1">בתמרי רב אדא בר אחא מתני ה' חטאות</row>
+		<row row_number="36" isdata="1">ומתריץ לה כגון דאכל כזית פיגול ולא משני</row>
+		<row row_number="37" isdata="1">כהני שינויי דקא משנינן ונתני שש חטאות</row>
+		<row row_number="38" isdata="1">ונוקמה כגון דאכל כזית דם בחדא אכילה קא</row>
+		<row row_number="39" isdata="1">מיירי בשתי אכילות לא קא מיירי ושיערו</row>
+		<row row_number="40" isdata="1">חכמים דאין בית הבליעה מחזיק יותר משני</row>
+		<row row_number="41" isdata="1">זיתים: ר"מ אומר וכו': ונתני אם הוציאו חייב</row>
+		<row row_number="42" isdata="1">מ"ט קתני אם היתה שבת אמר רפרם זאת</row>
+		<row row_number="43" isdata="1">אומרת עירוב והוצאה לשבת ואין עירוב</row>
+		<row row_number="44" isdata="1">והוצאה לי"ה ממאי דלמא יש עירוב והוצאה</row>
+		<row row_number="45" isdata="1">לי"ה והכי קתני אם היתה שבת והוציאו חייב</row>
+		<row row_number="46" isdata="1">אף משום שבת וי"ה אלא אי איתמר דרפרם</row>
+		<row row_number="47" isdata="1">על הדא איתמר דתניא ושלח ביד איש עתי</row>
+		<row row_number="48" isdata="1">איש להכשיר את הזר עתי אפילו בטומאה</row>
+		<row row_number="49" isdata="1">ואפי' בשבת עתי במזומן קתני עתי אפילו</row>
+		<row row_number="50" isdata="1">בשבת אמר רפרם זאת אומרת עירוב והוצאה לשבת ואין עירוב והוצאה ליה"כ</row>
+		<row row_number="51" isdata="1">ממאי שאני שעיר המשתלח דהכשירו ביה"כ בכך אלא דרפרם ברותא</row>
+		<row row_number="52" isdata="1">היא<EndGemara/><StartMishna/>מתני' יש בא ביאה אחת וחייב עליה ו' חטאות כיצד הבא על בתו</row>
+		<row row_number="53" isdata="1">חייב עליה משום בתו ואחותו אשת אחיו ואשת אחי אביו ואשת איש ונדה:<EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

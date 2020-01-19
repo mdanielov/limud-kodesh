@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.505429</dateCreated>
+   <lastModified>2020-01-14 15:02:26.505429</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="41">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>אחרוסת קאמר מר או אחרדל קאמר מר א"ל</row>
+		<row row_number="2" isdata="1">למאי נפקא מינה לדרב כהנא דאמר רב כהנא</row>
+		<row row_number="3" isdata="1">מחלוקת לתוך החרדל אבל לתוך החרוסת</row>
+		<row row_number="4" isdata="1">דברי הכל ישרף מיד א"ל לא שמיע לי כלומר</row>
+		<row row_number="5" isdata="1">לא סבירא לי א"ר אשי כוותיה דרב כהנא</row>
+		<row row_number="6" isdata="1">מסתברא מדאמר שמואל אין הלכה כרבי</row>
+		<row row_number="7" isdata="1">יוסי מאי לאו צמותי הוא דלא צמית הא חמועי</row>
+		<row row_number="8" isdata="1">מחמעא לא דילמא לא מצמת צמית ולא</row>
+		<row row_number="9" isdata="1">חמוע מחמע: אין מבשלין וכו': ת"ר במים</row>
+		<row row_number="10" isdata="1">אין לי אלא במים שאר משקין מניין אמרת קל</row>
+		<row row_number="11" isdata="1">וחומר ומה מים שאין מפיגין טעמן אסורין</row>
+		<row row_number="12" isdata="1">שאר משקין שמפיגין טעמן לא כ"ש רבי</row>
+		<row row_number="13" isdata="1">אומר במים אין לי אלא מים שאר משקין</row>
+		<row row_number="14" isdata="1">מניין ת"ל ובשל מבושל מ"מ מאי בינייהו</row>
+		<row row_number="15" isdata="1">איכא בינייהו צלי קדר ורבנן האי בשל מבושל</row>
+		<row row_number="16" isdata="1">מאי עבדי להו מבעי ליה לכדתניא בשלו</row>
+		<row row_number="17" isdata="1">ואח"כ צלאו או שצלאו ואח"כ בשלו חייב</row>
+		<row row_number="18" isdata="1">בשלמא בשלו ואח"כ צלאו חייב דהא בשליה</row>
+		<row row_number="19" isdata="1">אלא צלאו ואח"כ בשלו הא צלי אש הוא</row>
+		<row row_number="20" isdata="1">אמאי אמר רב כהנא הא מני רבי יוסי היא</row>
+		<row row_number="21" isdata="1">דתניא יוצאין ברקיק השרוי ובמבושל שלא</row>
+		<row row_number="22" isdata="1">נימוח דברי ר"מ רבי יוסי אומר יוצאין ברקיק</row>
+		<row row_number="23" isdata="1">השרוי אבל לא במבושל אע"פ שלא נימוח</row>
+		<row row_number="24" isdata="1">עולא אמר אפילו תימא ר"מ שאני הכא דאמר</row>
+		<row row_number="25" isdata="1">קרא ובשל מבושל מ"מ ת"ר יכול צלאו כל</row>
+		<row row_number="26" isdata="1">צורכו יהא חייב ת"ל אל תאכל ממנו נא</row>
+		<row row_number="27" isdata="1">ובשל מבושל במים נא ובשל מבושל אמרתי</row>
+		<row row_number="28" isdata="1">לך ולא שצלאו כל צורכו היכי דמי אמר רב</row>
+		<row row_number="29" isdata="1">אשי דשויא חרוכא תנו רבנן יכול אכל כזית</row>
+		<row row_number="30" isdata="1">חי יהא חייב תלמוד לומר אל תאכלו ממנו</row>
+		<row row_number="31" isdata="1">נא ובשל מבושל נא ובשל אמרתי לך ולא חי</row>
+		<row row_number="32" isdata="1">יכול יהא מותר תלמוד לומר כי אם צלי אש</row>
+		<row row_number="33" isdata="1">היכי דמי נא אמר רב כדאמרי פרסאי אברנים</row>
+		<row row_number="34" isdata="1">אמר רב חסדא המבשל בחמי טבריא</row>
+		<row row_number="35" isdata="1">בשבת פטור פסח שבשלו בחמי טבריא</row>
+		<row row_number="36" isdata="1">חייב מאי שנא בשבת דלא דתולדות אש</row>
+		<row row_number="37" isdata="1">בעינן וליכא פסח נמי לאו תולדות אש הוא</row>
+		<row row_number="38" isdata="1">אמר רבא מאי חייב דקתני דקא עבר משום</row>
+		<row row_number="39" isdata="1">צלי אש רב חייא בריה דרב נתן מתני</row>
+		<row row_number="40" isdata="1">לה להא דרב חסדא בהדיא א"ר חסדא</row>
+		<row row_number="41" isdata="1">המבשל בחמי טבריא בשבת פטור</row>
+		<row row_number="42" isdata="1">ופסח שבשלו בחמי טבריא חייב שעבר</row>
+		<row row_number="43" isdata="1">משום צלי אש אמר רבא אכלו נא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:26.883418</dateCreated>
+   <lastModified>2020-01-14 15:04:26.883418</lastModified>
+ </meta>
+ <masechet name="כריתות" serial="35">
+<daf value="2">
+	<amud value="1">
+		<row row_number="1" isdata="1"><StartChapter name = "שלשים ושש"/><StartMishna/><ContChapter name = "שלשים ושש"/><ContMishna/>שלשים</row>
+		<row row_number="2" isdata="1">ושש כריתות בתורה הבא על האם ועל</row>
+		<row row_number="3" isdata="1">אשת אב ועל הכלה הבא על הזכור ועל</row>
+		<row row_number="4" isdata="1">הבהמה ואשה המביאה הבהמה עליה הבא</row>
+		<row row_number="5" isdata="1">על אשה ובתה ואשת איש הבא על אחותו</row>
+		<row row_number="6" isdata="1">ועל אחות אביו ועל אחות אמו ועל אחות אשתו</row>
+		<row row_number="7" isdata="1">ועל אשת אחיו ועל אשת אחי אביו (ועל</row>
+		<row row_number="8" isdata="1">אשת אחי אמו) ועל הנדה והמגדף ועובד</row>
+		<row row_number="9" isdata="1">עבודת כוכבים והנותן מזרעו למולך ובעל</row>
+		<row row_number="10" isdata="1">אוב ומחלל שבת וטמא שאכל קדש והבא</row>
+		<row row_number="11" isdata="1">אל המקדש טמא והאוכל חלב ודם ונותר</row>
+		<row row_number="12" isdata="1">ופיגול והשוחט ומעלה בחוץ והאוכל</row>
+		<row row_number="13" isdata="1">חמץ בפסח והאוכל והעושה מלאכה ביום</row>
+		<row row_number="14" isdata="1">הכפורים והמפטם את השמן והמפטם</row>
+		<row row_number="15" isdata="1">את הקטרת והסך את השמן המשחה</row>
+		<row row_number="16" isdata="1">והפסח והמילה מצות עשה על אלו חייבין</row>
+		<row row_number="17" isdata="1">על זדונו כרת ועל שגגתו חטאת ועל</row>
+		<row row_number="18" isdata="1">לא הודע שלהם אשם תלוי חוץ מן המטמא</row>
+		<row row_number="19" isdata="1">מקדש וקדשיו מפני שהוא בעולה ויורד</row>
+		<row row_number="20" isdata="1">דברי רבי מאיר וחכמים אומרים אף המגדף</row>
+		<row row_number="21" isdata="1">שנאמר תורה אחת יהיה לכם לעושה</row>
+		<row row_number="22" isdata="1">בשגגה יצא מגדף שאינו עושה מעשה:</row>
+</amud>
+</daf>
+</masechet>
+</root>

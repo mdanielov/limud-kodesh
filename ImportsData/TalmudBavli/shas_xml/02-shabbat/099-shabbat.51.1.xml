@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:12.139099</dateCreated>
+   <lastModified>2020-01-14 15:02:12.139099</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="51">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>לא משום כלאים ולא משום שביעית ולא</row>
+		<row row_number="2" isdata="1">משום מעשר וניטלין בשבת תיובתא:</row>
+		<row row_number="3" isdata="1"><EndGemara/><StartMishna/>מתני' לא כסהו מבעוד יום לא יכסנו</row>
+		<row row_number="4" isdata="1">משתחשך כסהו ונתגלה מותר לכסותו</row>
+		<row row_number="5" isdata="1">ממלא את הקיתון ונותן לתחת הכר או תחת</row>
+		<row row_number="6" isdata="1">הכסת:<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר שמואל</row>
+		<row row_number="7" isdata="1">מותר להטמין את הצונן אמר רב יוסף מאי</row>
+		<row row_number="8" isdata="1">קמ"ל תנינא ממלא אדם קיתון ונותן תחת</row>
+		<row row_number="9" isdata="1">הכר או תחת הכסת אמר ליה אביי טובא</row>
+		<row row_number="10" isdata="1">קמ"ל דאי ממתני' הוה אמינא ה"מ דבר</row>
+		<row row_number="11" isdata="1">שאין דרכו להטמין אבל דבר שדרכו להטמין</row>
+		<row row_number="12" isdata="1">לא קמ"ל אמר רב הונא (אמר רב) אסור</row>
+		<row row_number="13" isdata="1">להטמין את הצונן והתניא רבי התיר להטמין</row>
+		<row row_number="14" isdata="1">את הצונן לא קשיא הא מקמיה דלישמעיה</row>
+		<row row_number="15" isdata="1">מר' ישמעאל ברבי יוסי הא לבתר דלישמעי'</row>
+		<row row_number="16" isdata="1">כי הא דיתיב רבי ואמר אסור להטמין את</row>
+		<row row_number="17" isdata="1">הצונן אמר לפניו רבי ישמעאל ברבי יוסי</row>
+		<row row_number="18" isdata="1">אבא התיר להטמין את הצונן אמר כבר</row>
+		<row row_number="19" isdata="1">הורה זקן אמר רב פפא בא וראה כמה</row>
+		<row row_number="20" isdata="1">מחבבין זה את זה שאילו ר' יוסי קיים היה</row>
+		<row row_number="21" isdata="1">כפוף ויושב לפני רבי דהא רבי ישמעאל</row>
+		<row row_number="22" isdata="1">ברבי יוסי דממלא מקום אבותיו הוה וכפוף</row>
+		<row row_number="23" isdata="1">ויושב לפני רבי וקאמר כבר הורה זקן אמר</row>
+		<row row_number="24" isdata="1">ליה רב נחמן לדרו עבדיה אטמין לי צונן</row>
+		<row row_number="25" isdata="1">ואייתי לי מיא דאחים קפילא ארמאה שמע</row>
+		<row row_number="26" isdata="1">רבי אמי ואיקפד אמר רב יוסף מ"ט איקפד</row>
+		<row row_number="27" isdata="1">כרבוותיה עביד חדא כרב וחדא כשמואל</row>
+		<row row_number="28" isdata="1">כשמואל דאמר רב יהודה אמר שמואל</row>
+		<row row_number="29" isdata="1">מותר להטמין את הצונן כרב דאמר רב</row>
+		<row row_number="30" isdata="1">שמואל בר רב יצחק אמר רב כל שהוא</row>
+		<row row_number="31" isdata="1">נאכל כמות שהוא חי אין בו משום בשולי</row>
+		<row row_number="32" isdata="1">נכרים ( הוא) סבר אדם חשוב שאני:</row>
+		<row row_number="33" isdata="1">ת"ר אע"פ שאמרו אין טומנין אפילו בדבר</row>
+		<row row_number="34" isdata="1">שאינו מוסיף הבל משחשכה אם בא להוסיף</row>
+		<row row_number="35" isdata="1">מוסיף כיצד הוא עושה רשב"ג אומר נוטל</row>
+		<row row_number="36" isdata="1">את הסדינין ומניח את הגלופקרין או נוטל</row>
+		<row row_number="37" isdata="1">את הגלופקרין ומניח את הסדינין וכן היה</row>
+		<row row_number="38" isdata="1">רשב"ג אומר לא אסרו אלא אותו מיחם</row>
+		<row row_number="39" isdata="1">אבל פינה ממיחם למיחם מותר השתא</row>
+		<row row_number="40" isdata="1">אקורי קא מקיר לה ארתוחי קא מירתח לה</row>
+		<row row_number="41" isdata="1">טמן וכיסה בדבר הניטל בשבת או טמן</row>
+		<row row_number="42" isdata="1">בדבר שאינו ניטל בשבת וכיסה בדבר הניטל</row>
+		<row row_number="43" isdata="1">בשבת הרי זה נוטל ומחזיר טמן וכיסה בדבר</row>
+		<row row_number="44" isdata="1">שאינו ניטל בשבת או שטמן בדבר הניטל</row>
+		<row row_number="45" isdata="1">בשבת וכיסה בדבר שאינו ניטל בשבת אם</row>
+		<row row_number="46" isdata="1">היה מגולה מקצתו נוטל ומחזיר ואם לאו</row>
+</amud>
+</daf>
+</masechet>
+</root>

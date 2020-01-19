@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:29.070573</dateCreated>
+   <lastModified>2020-01-14 15:02:29.070573</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="65">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תמיד נשחט"/><ContGemara/>דם שהנפש יוצאה בו מכפר דם שאין הנפש</row>
+		<row row_number="2" isdata="1">יוצאה בו אינו מכפר אלא ר' יהודה לטעמיה</row>
+		<row row_number="3" isdata="1">דאמר אין דם מבטל דם תניא אמר להן ר'</row>
+		<row row_number="4" isdata="1">יהודה לחכמים לדבריכם למה פוקקין את</row>
+		<row row_number="5" isdata="1">העזרה אמרו לו שבח הוא לבני אהרן שילכו</row>
+		<row row_number="6" isdata="1">עד ארכובותיהם בדם והא קא חייץ לח הוא</row>
+		<row row_number="7" isdata="1">ואינו חוצץ כדתניא הדם והדיו והחלב</row>
+		<row row_number="8" isdata="1">והדבש יבשים חוצצין לחין אין חוצצין והא</row>
+		<row row_number="9" isdata="1">קמתווסי מאנייהו (ותנן) היו בגדיו</row>
+		<row row_number="10" isdata="1">מטושטשין ועבד עבודתו פסולה וכי תימא</row>
+		<row row_number="11" isdata="1">דמדלו להו למאנייהו והתניא מדו בד מדו</row>
+		<row row_number="12" isdata="1">כמדתו שלא יחסר ולא יותיר בהולכת איברין</row>
+		<row row_number="13" isdata="1">לכבש דלאו עבודה היא ולא והא מדבעי</row>
+		<row row_number="14" isdata="1">כהונה עבודה היא דתניא והקריב הכהן</row>
+		<row row_number="15" isdata="1">את הכל המזבחה זו הולכת אברים לכבש</row>
+		<row row_number="16" isdata="1">אלא בהולכת עצים למערכה דלאו עבודה</row>
+		<row row_number="17" isdata="1">היא בהולכת אברים לכבש ובהולכת דם</row>
+		<row row_number="18" isdata="1">מיהא היכי אזלי דמסגי אאיצטבי: כיצד</row>
+		<row row_number="19" isdata="1">תולין ומפשיטין וכו' קרעו והוציאו את</row>
+		<row row_number="20" isdata="1">אמוריו נתנם במגיס להקטירם: אטו הוא</row>
+		<row row_number="21" isdata="1">גופיה הוה מקטר להו אימא להקטירן ע"ג</row>
+		<row row_number="22" isdata="1">המזבח: יצתה כת ראשונה וכו': תנא כל</row>
+		<row row_number="23" isdata="1">אחד ואחד נותן פסחו בעורו ומפשיל לאחוריו</row>
+		<row row_number="24" isdata="1">אמר רב עיליש טייעות:<EndChapter name = "תמיד נשחט"/><EndGemara/></row>
+		<row row_number="25" isdata="0">הדרן עלך תמיד נשחט</row>
+		<row row_number="26" isdata="1"><StartChapter name = "אלו דברים"/><StartMishna/>אלו דברים בפסח דוחין את השבת</row>
+		<row row_number="27" isdata="1">שחיטתו וזריקת דמו ומיחוי קרביו והקטרת</row>
+		<row row_number="28" isdata="1">חלביו אבל צלייתו והדחת קרביו אינן</row>
+		<row row_number="29" isdata="1">דוחין את השבת הרכבתו והבאתו מחוץ</row>
+		<row row_number="30" isdata="1">לתחום וחתיכת יבלתו אין דוחין את השבת ר'</row>
+		<row row_number="31" isdata="1">אליעזר אומר דוחין אמר ר"א והלא דין הוא מה אם שחיטה שהיא משום</row>
+		<row row_number="32" isdata="1">מלאכה דוחה את השבת אלו שהן משום שבות לא ידחו את השבת א"ל רבי</row>
+		<row row_number="33" isdata="1">יהושע יום טוב יוכיח שהתירו בו משום מלאכה ואסור בו משום שבות א"ל ר"א</row>
+		<row row_number="34" isdata="1">מה זה יהושע מה ראיה רשות למצוה השיב רבי עקיבא ואמר הזאה תוכיח</row>
+		<row row_number="35" isdata="1">שהיא משום מצוה והיא משום שבות ואינה דוחה את השבת אף אתה אל</row>
+		<row row_number="36" isdata="1">תתמה על אלו שאף על פי שהן משום מצוה והן משום שבות לא ידחו את</row>
+		<row row_number="37" isdata="1">השבת אמר לו רבי אליעזר ועליה אני דן ומה אם שחיטה שהיא משום</row>
+		<row row_number="38" isdata="1">מלאכה דוחה את השבת הזאה שהיא משום שבות אינו דין שדוחה את השבת</row>
+</amud>
+</daf>
+</masechet>
+</root>

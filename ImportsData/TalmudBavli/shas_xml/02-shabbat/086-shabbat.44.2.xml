@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:11.827662</dateCreated>
+   <lastModified>2020-01-14 15:02:11.827662</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="44">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>ומה נר דלהכי עבידא כי לא הדליק בה</row>
+		<row row_number="2" isdata="1">שרי לטלטולה מטה דלאו להכי עבידא</row>
+		<row row_number="3" isdata="1">לא כ"ש אלא אי איתמר הכי איתמר אמר</row>
+		<row row_number="4" isdata="1">רב יהודה אמר רב מטה שיחדה למעות</row>
+		<row row_number="5" isdata="1">הניח עליה מעות אסור לטלטלה לא הניח</row>
+		<row row_number="6" isdata="1">עליה מעות מותר לטלטלה לא יחדה</row>
+		<row row_number="7" isdata="1">למעות יש עליה מעות אסור לטלטלה</row>
+		<row row_number="8" isdata="1">אין עליה מעות מותר לטלטלה והוא שלא</row>
+		<row row_number="9" isdata="1">היו עליה בין השמשות אמר עולא מתיב</row>
+		<row row_number="10" isdata="1">ר' אליעזר מוכני שלה בזמן שהיא</row>
+		<row row_number="11" isdata="1">נשמטת אין חיבור לה ואין נמדדת עמה</row>
+		<row row_number="12" isdata="1">ואין מצלת עמה באהל המת ואין גוררין</row>
+		<row row_number="13" isdata="1">אותה בשבת בזמן שיש עליה מעות הא</row>
+		<row row_number="14" isdata="1">אין עליה מעות שריא אף על גב דהוו</row>
+		<row row_number="15" isdata="1">עליה ביה"ש ההיא ר' שמעון היא דלית</row>
+		<row row_number="16" isdata="1">ליה מוקצה ורב כרבי יהודה סבירא ליה</row>
+</amud>
+</daf>
+</masechet>
+</root>

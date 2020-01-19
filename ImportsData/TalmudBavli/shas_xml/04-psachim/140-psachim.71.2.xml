@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:29.416649</dateCreated>
+   <lastModified>2020-01-14 15:02:29.416649</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="71">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו דברים"/><ContGemara/>לימד על חגיגת י"ד שנאכלת לשני ימים</row>
+		<row row_number="2" isdata="1">ולילה אחד או אינו אלא ליום ולילה כשהוא</row>
+		<row row_number="3" isdata="1">אומר ביום הראשון (לבקר) הרי בקר שני</row>
+		<row row_number="4" isdata="1">אמור או אינו אלא בקר ראשון ומה אני מקיים</row>
+		<row row_number="5" isdata="1">חגיגה הנאכלת לשני ימים ולילה אחד חוץ</row>
+		<row row_number="6" isdata="1">מזו כשהוא אומר בו אם נדר או נדבה לימד</row>
+		<row row_number="7" isdata="1">על חגיגת י"ד שנאכלת לב' ימים ולילה א'</row>
+		<row row_number="8" isdata="1">אמר מר או אינו אלא בקר ראשון הא אמרת</row>
+		<row row_number="9" isdata="1">כשהוא אומר ביום הראשון (לבקר) הרי</row>
+		<row row_number="10" isdata="1">בקר שני אמור ה"ק או אינו אלא בשתי חגיגו'</row>
+		<row row_number="11" isdata="1">הכתוב מדבר אחת חגיגת י"ד ואחת חגיגת</row>
+		<row row_number="12" isdata="1">ט"ו וזו לבוקרה וזו לבוקרה הדר אמר אלא</row>
+		<row row_number="13" isdata="1">דקי"ל חגיגה הנאכלת לשני ימים ולילה</row>
+		<row row_number="14" isdata="1">אחד א"כ אם נדר או נדבה במאי אי חגיגת</row>
+		<row row_number="15" isdata="1">י"ד הא כתיב בה יום ולילה אי חגיגת ט"ו</row>
+		<row row_number="16" isdata="1">הא כתיב בה יום ולילה אלא האי לחגיגת</row>
+		<row row_number="17" isdata="1">ט"ו והאיך כוליה קרא לחגיגת י"ד לימד על</row>
+		<row row_number="18" isdata="1">חגיגת י"ד שנאכלת לשני ימים ולילה אחד</row>
+		<row row_number="19" isdata="1">טעמא דכתיב ביום הראשון לבקר דמאי בקר</row>
+		<row row_number="20" isdata="1">בקר שני הא כל היכא דכתיב בקר סתמא</row>
+		<row row_number="21" isdata="1">בקר ראשון ואע"ג דלא כתב ביה ראשית:</row>
+		<row row_number="22" isdata="1"><EndGemara/><StartMishna/>מתני' הפסח ששחטו שלא לשמו בשבת</row>
+		<row row_number="23" isdata="1">חייב עליו חטאת ושאר כל הזבחים ששחטן</row>
+		<row row_number="24" isdata="1">לשם פסח אם אינן ראויין חייב ואם ראויין</row>
+		<row row_number="25" isdata="1">הן רבי אליעזר מחייב חטאת ור' יהושע</row>
+		<row row_number="26" isdata="1">פוטר א"ל ר' אליעזר מה אם הפסח שהוא</row>
+		<row row_number="27" isdata="1">מותר לשמו כששינה את שמו חייב זבחים</row>
+		<row row_number="28" isdata="1">שהן אסורין לשמן כששינה את שמן אינו דין</row>
+		<row row_number="29" isdata="1">שיהא חייב א"ל ר' יהושע לא אם אמרת בפסח ששינהו בדבר אסור תאמר</row>
+		<row row_number="30" isdata="1">בזבחים ששינן בדבר המותר א"ל ר"א אימורי ציבור יוכיחו שהן מותרין לשמן</row>
+		<row row_number="31" isdata="1">והשוחט לשמן חייב א"ל ר' יהושע לא אם אמרת באימורי ציבור שיש להן</row>
+		<row row_number="32" isdata="1">קצבה תאמר בפסח שאין לו קצבה רבי מאיר אומר אף השוחט לשם אימורי</row>
+		<row row_number="33" isdata="1">ציבור פטור שחטו שלא לאוכליו ושלא למנויו לערלין ולטמאין חייב לאוכליו</row>
+		<row row_number="34" isdata="1">ושלא לאוכליו למנויו ושלא למנויו למולין ולערלים לטמאין ולטהורין פטור</row>
+		<row row_number="35" isdata="1">שחטו ונמצא בעל מום חייב שחטו ונמצא טריפה בסתר פטור שחטו ונודע</row>
+		<row row_number="36" isdata="1">שמשכו הבעלים את ידם או שמתו או שנטמאו פטור מפני ששחט ברשות:<EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

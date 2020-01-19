@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:14.712535</dateCreated>
+   <lastModified>2020-01-14 15:02:14.712535</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="100">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הזורק"/><ContGemara/>לאו היינו מתני' וא"ר יוחנן והוא שנח  ע"ג</row>
+		<row row_number="2" isdata="1">משהו א"ל מתגלגל קאמרת מתגלגל אין סופו</row>
+		<row row_number="3" isdata="1">לנוח אבל האי כיון דסופו לנוח אע"ג דלא נח</row>
+		<row row_number="4" isdata="1">כמאן דנח דמי קמ"ל<EndGemara/><StartMishna/>מתני' הזורק בים</row>
+		<row row_number="5" isdata="1">ארבע אמות פטור אם היה רקק מים ורשות</row>
+		<row row_number="6" isdata="1">הרבים מהלכת בו הזורק לתוכו ד' אמות</row>
+		<row row_number="7" isdata="1">חייב וכמה הוא רקק מים פחות מעשרה</row>
+		<row row_number="8" isdata="1">טפחים רקק מים ורשות הרבים מהלכת בו</row>
+		<row row_number="9" isdata="1">הזורק בתוכו ד' אמות חייב:<EndMishna/><StartGemara/>גמ' א"ל ההוא</row>
+		<row row_number="10" isdata="1">מרבנן לרבא בשלמא הילוך הילוך תרי זימני</row>
+		<row row_number="11" isdata="1">הא קמ"ל הילוך ע"י הדחק שמיה הילוך</row>
+		<row row_number="12" isdata="1">תשמיש ע"י הדחק לא שמיה תשמיש אלא</row>
+		<row row_number="13" isdata="1">רקק רקק תרי זימני למה לי חד בימות החמה</row>
+		<row row_number="14" isdata="1">וחד בימות הגשמים וצריכי דאי תנא חדא</row>
+		<row row_number="15" isdata="1">ה"א ה"מ בימות החמה דעבידי אינשי דמסגי</row>
+		<row row_number="16" isdata="1">לאקורי נפשייהו אבל בימות הגשמים לא ואי</row>
+		<row row_number="17" isdata="1">אשמעינן בימות הגשמים דכיון דמיטנפי לא</row>
+		<row row_number="18" isdata="1">איכפת להו אבל בימות החמה לא אביי אמר</row>
+		<row row_number="19" isdata="1">איצטריך סד"א ה"מ היכא דלא הוי ד' אמות</row>
+		<row row_number="20" isdata="1">אבל היכא דהוי ד' אמות אקופי מקפי ליה</row>
+		<row row_number="21" isdata="1">רב אשי אמר איצטריך ס"ד אמינא ה"מ היכא</row>
+		<row row_number="22" isdata="1">דהוה ד' אבל היכא דלא הואי ארבעה מיפסעי</row>
+		<row row_number="23" isdata="1">פסעי ליה ואזדא רב אשי לטעמיה דאמר רב</row>
+		<row row_number="24" isdata="1">אשי האי מאן דזריק ונח אגודא דגמלא מיחייב</row>
+		<row row_number="25" isdata="1">שהרי רבים בוקעין בו<EndGemara/><StartMishna/>מתני' הזורק מן</row>
+		<row row_number="26" isdata="1">הים ליבשה ומן היבשה לים ומן הים לספינה</row>
+		<row row_number="27" isdata="1">ומן הספינה לים ומן הספינה לחבירתה פטור</row>
+		<row row_number="28" isdata="1">ספינות קשורות זו בזו מטלטלין מזו לזו אם</row>
+		<row row_number="29" isdata="1">אינן קשורות אע"פ שמוקפות אין מטלטלין</row>
+		<row row_number="30" isdata="1">מזו לזו:<EndMishna/><StartGemara/>גמ' איתמר ספינה רב הונא אמר</row>
+		<row row_number="31" isdata="1">מוציאין הימנה זיז כל שהוא וממלא רב</row>
+		<row row_number="32" isdata="1">חסדא ורבה בר רב הונא אמרי עושה</row>
+		<row row_number="33" isdata="1">מקום ארבעה וממלא רב הונא אמר מוציא</row>
+		<row row_number="34" isdata="1">הימנה זיז כל שהוא וממלא קסבר כרמלית</row>
+		<row row_number="35" isdata="1">מארעא משחינן ואוירא מקום פטור הוא</row>
+		<row row_number="36" isdata="1">ובדין הוא דזיז נמי לא ליבעי אלא כי היכי</row>
+		<row row_number="37" isdata="1">דליהוי ליה היכרא רב חסדא ורבה בר רב הונא אמרי עושה מקום</row>
+		<row row_number="38" isdata="1">ארבעה וממלא קסברי כרמלית משפת מיא משחינן מיא ארעא סמיכתא אי</row>
+		<row row_number="39" isdata="1">לא עביד מקום ארבעה קא מטלטל מכרמלית לרה"י א"ל רב נחמן לרבה בר</row>
+		<row row_number="40" isdata="1">אבוה ולרב הונא דאמר מוציא הימנה זיז כל שהוא וממלא זימנין דליכא עשרה</row>
+		<row row_number="41" isdata="1">וקא מטלטל מכרמלית לרה"י אמר ליה גמרינן דאין ספינה מהלכת בפחות</row>
+		<row row_number="42" isdata="1">מעשרה והא מורשא אית לה אמר רב ספרא גשושי אזלי קמה א"ל רב נחמן</row>
+		<row row_number="43" isdata="1">בר יצחק לרב חייא בר אבין לרב חסדא ולרבה בר רב הונא דאמרי עושה</row>
+		<row row_number="44" isdata="1">מקום ארבעה וממלא שופכין דידיה היכי שדי להו וכ"ת דשדי להו באותו</row>
+		<row row_number="45" isdata="1">מקום מאיסי ליה   דשדי להו אדפנא דספינה והא איכא כחו כחו בכרמלית לא</row>
+		<row row_number="46" isdata="1">גזרו ומנא תימרא דתניא ספינה אין מטלטלין לא מתוכה לים ולא מן הים לתוכה</row>
+</amud>
+</daf>
+</masechet>
+</root>

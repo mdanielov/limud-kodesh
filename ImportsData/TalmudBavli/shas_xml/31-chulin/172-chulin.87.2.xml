@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:15.040915</dateCreated>
+   <lastModified>2020-01-14 15:04:15.040915</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="87">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כסוי הדם"/><ContMishna/>או בדם החיה רואין אותו כאילו הן מים</row>
+		<row row_number="2" isdata="1">רבי יהודה אומר אין דם מבטל דם דם</row>
+		<row row_number="3" isdata="1">הניתז ושעל הסכין חייב לכסות אמר רבי</row>
+		<row row_number="4" isdata="1">יהודה אימתי בזמן שאין שם דם אלא</row>
+		<row row_number="5" isdata="1">הוא אבל יש שם דם שלא הוא פטור</row>
+		<row row_number="6" isdata="1">מלכסות:<EndMishna/><StartGemara/>גמ' תנן התם דם שנתערב</row>
+		<row row_number="7" isdata="1">במים אם יש בו מראית דם כשר נתערב</row>
+		<row row_number="8" isdata="1">ביין רואין אותו כאילו הוא מים נתערב</row>
+		<row row_number="9" isdata="1">בדם בהמה או בדם החיה רואין אותו</row>
+		<row row_number="10" isdata="1">כאילו הוא מים רבי יהודה אומר אין דם</row>
+		<row row_number="11" isdata="1">מבטל דם א"ר חייא בר אבא אמר ר' יוחנן</row>
+		<row row_number="12" isdata="1">לא שנו אלא שנפלו מים לתוך דם אבל</row>
+		<row row_number="13" isdata="1">נפל דם לתוך מים ראשון ראשון בטל</row>
+		<row row_number="14" isdata="1">אמר רב פפא ולענין כסוי אינו כן אין דחוי</row>
+		<row row_number="15" isdata="1">אצל מצות אמר רב יהודה אמר שמואל</row>
+		<row row_number="16" isdata="1">כל מראה אדמומית מכפרין ומכשירין</row>
+		<row row_number="17" isdata="1">וחייבין בכסוי מאי קמשמע לן מכפרין תנינא</row>
+		<row row_number="18" isdata="1">חייבין בכסוי תנינא מכשירין איצטריכא</row>
+		<row row_number="19" isdata="1">ליה מכשירין נמי אי דם אכשורי מכשר</row>
+		<row row_number="20" isdata="1">אי מיא אכשורי מכשרי לא צריכא שתמדו</row>
+		<row row_number="21" isdata="1">במי גשמים מי גשמים נמי כיון דשקיל ורמי</row>
+		<row row_number="22" isdata="1">אחשבינהו לא צריכא שנתמדו מאליהן ר'</row>
+		<row row_number="23" isdata="1">אסי מנהרביל אומר בצללתא דדמא רבי</row>
+		<row row_number="24" isdata="1">ירמיה מדפתי אמר ענוש כרת והוא דאיכא</row>
+		<row row_number="25" isdata="1">כזית במתניתא תנא מטמאים באהל והוא</row>
+		<row row_number="26" isdata="1">דאיכא רביעית תנן התם כל משקה</row>
+		<row row_number="27" isdata="1">המת טהורין חוץ מדמו וכל מראה אדמומית</row>
+		<row row_number="28" isdata="1">שבו מטמאין באהל ומשקה המת טהורין</row>
+		<row row_number="29" isdata="1">ורמינהו משקה טבול יום (משקין</row>
+		<row row_number="30" isdata="1">היוצאין ממנו) כמשקין שנוגע בהן</row>
+</amud>
+</daf>
+</masechet>
+</root>

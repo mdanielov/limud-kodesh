@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:17.215605</dateCreated>
+   <lastModified>2020-01-14 15:04:17.215605</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="108">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>כל הסריקין אסורין וסריקי בייתוס מותרין</row>
+		<row row_number="2" isdata="1">התם הא אמר מר בר רב אשי איזורו מוכיח</row>
+		<row row_number="3" isdata="1">עליו<EndGemara/><StartMishna/>מתני' טיפת חלב שנפלה על</row>
+		<row row_number="4" isdata="1">החתיכה אם יש בה בנותן טעם באותה</row>
+		<row row_number="5" isdata="1">חתיכה אסור ניער את הקדרה אם יש</row>
+		<row row_number="6" isdata="1">בה בנותן טעם באותה קדרה אסור:</row>
+		<row row_number="7" isdata="1"><EndMishna/><StartGemara/>גמ' אמר אביי טעמו ולא ממשו בעלמא</row>
+		<row row_number="8" isdata="1">דאורייתא דאי סלקא דעתך דרבנן מבשר</row>
+		<row row_number="9" isdata="1">בחלב מאי טעמא לא גמרינן דחדוש הוא</row>
+		<row row_number="10" isdata="1">אי חדוש הוא אף על גב דליכא נותן טעם</row>
+		<row row_number="11" isdata="1">נמי אמר ליה רבא דרך בשול אסרה</row>
+		<row row_number="12" isdata="1">תורה אמר רב כיון שנתן טעם בחתיכה</row>
+		<row row_number="13" isdata="1">חתיכה עצמה נעשית נבלה ואוסרת כל</row>
+		<row row_number="14" isdata="1">החתיכות כולן מפני שהן מינה אמר ליה</row>
+		<row row_number="15" isdata="1">מר זוטרא בריה דרב מרי לרבינא מכדי</row>
+		<row row_number="16" isdata="1">רב כמאן אמר לשמעתיה כרבי יהודה</row>
+		<row row_number="17" isdata="1">דאמר מין במינו לא בטיל לימא פליגא</row>
+		<row row_number="18" isdata="1">אדרבא דאמר רבא קסבר רבי יהודה כל</row>
+		<row row_number="19" isdata="1">שהוא מין ומינו ודבר אחר סלק את מינו</row>
+		<row row_number="20" isdata="1">כמי שאינו ושאינו מינו רבה עליו ומבטלו</row>
+		<row row_number="21" isdata="1">אמר ליה אי דנפל ברוטב רכה הכי נמי הכא</row>
+		<row row_number="22" isdata="1">במאי עסקינן דנפל ברוטב עבה ומאי קסבר</row>
+		<row row_number="23" isdata="1">אי קסבר אפשר לסוחטו מותר חתיכה אמאי</row>
+		<row row_number="24" isdata="1">נעשית נבלה אלא קסבר אפשר לסוחטו</row>
+		<row row_number="25" isdata="1">אסור דאיתמר רב ורבי חנינא ורבי יוחנן</row>
+		<row row_number="26" isdata="1">דאמרי אפשר לסוחטו אסור שמואל ורבי</row>
+		<row row_number="27" isdata="1">שמעון בר רבי וריש לקיש דאמרי אפשר</row>
+		<row row_number="28" isdata="1">לסוחטו מותר וסבר רב אפשר לסוחטו</row>
+		<row row_number="29" isdata="1">אסור והאיתמר כזית בשר שנפל לתוך</row>
+		<row row_number="30" isdata="1">יורה של חלב אמר רב בשר אסור וחלב</row>
+		<row row_number="31" isdata="1">מותר ואי סלקא דעתך אפשר לסוחטו אסור</row>
+</amud>
+</daf>
+</masechet>
+</root>

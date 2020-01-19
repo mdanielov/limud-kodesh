@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:20.340435</dateCreated>
+   <lastModified>2020-01-14 15:03:20.340435</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="76">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "מרובה"/><ContGemara/>וריש לקיש אמר בשוחט בעלי מומין בחוץ</row>
+		<row row_number="2" isdata="1">תהי בה רבי אלעזר לר' יוחנן שחיטה מתרת</row>
+		<row row_number="3" isdata="1">והלא זריקה מתרת לריש לקיש שחיטה</row>
+		<row row_number="4" isdata="1">מתרת והלא פדייה מתרת אישתמיטתיה הא</row>
+		<row row_number="5" isdata="1">דרבי שמעון כל העומד לזרוק כזרוק דמי וכל</row>
+		<row row_number="6" isdata="1">העומד לפדות כפדוי דמי כל העומד לזרוק</row>
+		<row row_number="7" isdata="1">כזרוק דמי דתניא רבי שמעון אומר יש</row>
+		<row row_number="8" isdata="1">נותר שהוא מטמא טומאת אוכלין ויש נותר</row>
+		<row row_number="9" isdata="1">שאינו מטמא טומאת אוכלין כיצד לן לפני</row>
+		<row row_number="10" isdata="1">זריקה אינו מטמא טומאת אוכלין לאחר</row>
+		<row row_number="11" isdata="1">זריקה מטמא טומאת אוכלין וקיימא לן מאי</row>
+		<row row_number="12" isdata="1">לפני זריקה קודם שנראה לזריקה לאחר</row>
+		<row row_number="13" isdata="1">זריקה לאחר שנראה לזריקה קודם שנראה</row>
+		<row row_number="14" isdata="1">לזריקה לן מאי היא דלא הויא שהות ביום</row>
+		<row row_number="15" isdata="1">למזרקיה דשחטיה סמוך לשקיעת החמה</row>
+		<row row_number="16" isdata="1">ואינו מטמא טומאת אוכלין לאחר שנראה</row>
+		<row row_number="17" isdata="1">לזריקה לן דהויא שהות ביום למזרקיה</row>
+		<row row_number="18" isdata="1">מטמא טומאת אוכלין אלמא כל העומד</row>
+		<row row_number="19" isdata="1">לזרוק כזרוק דמי וכל העומד לפדות</row>
+		<row row_number="20" isdata="1">כפדוי דמי דתניא רבי שמעון אומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

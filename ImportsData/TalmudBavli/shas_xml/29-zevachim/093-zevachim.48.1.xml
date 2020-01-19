@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:58.334284</dateCreated>
+   <lastModified>2020-01-14 15:03:58.334284</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="48">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "איזהו מקומן"/><ContGemara/>פר ושעיר של יום הכיפורים כו': מכדי צפון</row>
+		<row row_number="2" isdata="1">בעולה כתיב ניתני עולה ברישא חטאת</row>
+		<row row_number="3" isdata="1">איידי דאתי מדרשא חביבא ליה וניתני</row>
+		<row row_number="4" isdata="1">חטאות החיצונות איידי דנכנס דמן לפני</row>
+		<row row_number="5" isdata="1">ולפנים חביבא ליה וצפונה בעולה היכא</row>
+		<row row_number="6" isdata="1">כתיבא ושחט אותו על ירך המזבח צפונה</row>
+		<row row_number="7" isdata="1">אשכחן בן צאן בן בקר מנא לן אמר קרא ואם</row>
+		<row row_number="8" isdata="1">מן הצאן וי"ו מוסיף על ענין ראשון וילמד</row>
+		<row row_number="9" isdata="1">עליון מתחתון הניחא למ"ד מלמדין אלא</row>
+		<row row_number="10" isdata="1">למ"ד אין מלמדין מאי איכא למימר דתניא</row>
+		<row row_number="11" isdata="1">ואם נפש וגו' לחייב על ספק מעילות אשם</row>
+		<row row_number="12" isdata="1">תלוי דברי רבי עקיבא וחכמים פוטרין מאי</row>
+		<row row_number="13" isdata="1">לאו בהא קא מיפלגי מר סבר למידין ומר</row>
+		<row row_number="14" isdata="1">סבר אין למידין אמר רב פפא דכולי עלמא</row>
+		<row row_number="15" isdata="1">למידין והיינו טעמא דרבנן נאמר כאן מצות</row>
+		<row row_number="16" isdata="1">ונאמר בחטאת חלב מצות מה להלן דבר</row>
+		<row row_number="17" isdata="1">שחייבין על זדונו כרת ועל שגגתו חטאת</row>
+		<row row_number="18" isdata="1">אף כאן שחייבין על זדונו כרת ועל שגגתו</row>
+		<row row_number="19" isdata="1">חטאת ורבי עקיבא מה להלן בקבועה אף</row>
+		<row row_number="20" isdata="1">כאן בקבועה לאפוקי חטאת דטומאת מקדש</row>
+		<row row_number="21" isdata="1">וקדשיו דעולה ויורד הוא ורבנן אין גזירה</row>
+		<row row_number="22" isdata="1">שוה למחצה ור"ע נמי אין גזירה שוה</row>
+		<row row_number="23" isdata="1">למחצה אין הכי נמי והכא בהא קמיפלגי</row>
+		<row row_number="24" isdata="1">ר"ע סבר ואם נפש כתיב וי"ו מוסיף על</row>
+		<row row_number="25" isdata="1">ענין ראשון ורבנן נמי הכתיב ואם נפש לימא</row>
+		<row row_number="26" isdata="1">בהא קמיפלגי דמר סבר היקש עדיף ומר</row>
+		<row row_number="27" isdata="1">סבר גזירה שוה עדיף לא דכ"ע דהיקש</row>
+		<row row_number="28" isdata="1">עדיף ואמרי לך רבנן תחתון הוא דגמר</row>
+		<row row_number="29" isdata="1">מעליון לאשם בכסף שקלים שלא תאמר לא</row>
+		<row row_number="30" isdata="1">יהא ספיקו חמור מודאו מה ודאו חטאת</row>
+		<row row_number="31" isdata="1">בת דנקא אף ספיקו אשם בר דנקא ורבי</row>
+		<row row_number="32" isdata="1">עקיבא הא סברא מנא ליה נפקא ליה</row>
+		<row row_number="33" isdata="1">מזאת תורת האשם תורה אחת לכל האשמות</row>
+		<row row_number="34" isdata="1">תינח מאן דאית ליה תורת מאן דלית ליה</row>
+		<row row_number="35" isdata="1">תורת מהיכא גמר גמר בערכך בערכך</row>
+		<row row_number="36" isdata="1">תינח היכא דכתיב בערכך אשם שפחה</row>
+		<row row_number="37" isdata="1">חרופה דלא כתיב ביה בערכך מאי איכא</row>
+		<row row_number="38" isdata="1">למימר גמר באיל באיל: חטאת מנא לן</row>
+		<row row_number="39" isdata="1">דבעיא צפון דכתיב ושחט את החטאת</row>
+		<row row_number="40" isdata="1">במקום העולה אשכחן שחיטה קבלה מנא</row>
+		<row row_number="41" isdata="1">לן דכתיב ולקח הכהן מדם החטאת מקבל</row>
+		<row row_number="42" isdata="1">עצמו מנא לן אמר קרא ולקח לו יקח אשכחן</row>
+		<row row_number="43" isdata="1">למצוה לעכב מנין קרא אחרינא כתיב</row>
+		<row row_number="44" isdata="1">ושחט אותו במקום אשר ישחט את העולה</row>
+		<row row_number="45" isdata="1">ותניא היכן עולה נשחטה בצפון אף זה בצפון</row>
+</amud>
+</daf>
+</masechet>
+</root>

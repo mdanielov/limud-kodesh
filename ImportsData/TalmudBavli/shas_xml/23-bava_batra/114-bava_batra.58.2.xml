@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:32.152479</dateCreated>
+   <lastModified>2020-01-14 15:03:32.152479</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="58">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "חזקת הבתים"/><ContGemara/>ומזמין (להו) לדינא פסליה אלא כל דיין</row>
+		<row row_number="2" isdata="1">דמתקרי לדין ומפקין מיניה ממונא בדין</row>
+		<row row_number="3" isdata="1">לאו שמיה דיין כתבו הכי ברם סאבי</row>
+		<row row_number="4" isdata="1">דיהודאי אמרי כל דיין דמתקרי לדין ומפקין</row>
+		<row row_number="5" isdata="1">מיניה ממונא בדין לאו שמיה דיין חזא</row>
+		<row row_number="6" isdata="1">דכתיב בראש כל מותא אנא דם בראש כל</row>
+		<row row_number="7" isdata="1">חיין אנא חמר אלא מעתה דנפיל מאיגרא</row>
+		<row row_number="8" isdata="1">ומית ודנפיל מדיקלא ומית דמא קטליה ותו</row>
+		<row row_number="9" isdata="1">מן דדרכיה למימת משקו ליה חמרא וחיי</row>
+		<row row_number="10" isdata="1">אלא הכי בעי למכתב בראש כל מרעין אנא</row>
+		<row row_number="11" isdata="1">דם בראש כל אסוון אנא חמר כתבו הכי</row>
+		<row row_number="12" isdata="1">ברם סאבי דיהודאי אמרי בראש כל מרעין</row>
+		<row row_number="13" isdata="1">אנא דם בראש כל אסוון אנא חמר באתר</row>
+		<row row_number="14" isdata="1">דלית חמר תמן מתבעו סמנין כתיב אפיתחא</row>
+		<row row_number="15" isdata="1">דקפוטקיא אנפק אנבג אנטל ואיזהו אנטל</row>
+		<row row_number="16" isdata="1">זהו רביעית של תורה<EndGemara/><StartMishna/>מתני' המרזב</row>
+		<row row_number="17" isdata="1">אין לו חזקה ויש למקומו חזקה המזחילה יש</row>
+		<row row_number="18" isdata="1">לה חזקה סולם המצרי אין לו חזקה ולצורי</row>
+		<row row_number="19" isdata="1">יש לו חזקה חלון המצרית אין לה חזקה</row>
+		<row row_number="20" isdata="1">ולצורית יש לה חזקה איזו היא חלון המצרית</row>
+		<row row_number="21" isdata="1">כל שאין ראשו של אדם יכול ליכנס</row>
+		<row row_number="22" isdata="1">לתוכה רבי יהודה אומר אם יש לה מלבן</row>
+		<row row_number="23" isdata="1">אף על פי שאין ראשו של אדם יכול ליכנס</row>
+		<row row_number="24" isdata="1">לתוכה הרי זו חזקה:<EndMishna/><StartGemara/>גמ' מאי המרזב אין</row>
+		<row row_number="25" isdata="1">לו חזקה ויש למקומו חזקה אמר רב</row>
+		<row row_number="26" isdata="1">יהודה אמר שמואל הכי קאמר המרזב</row>
+		<row row_number="27" isdata="1">אין לו חזקה מרוח אחת ויש למקומו חזקה</row>
+		<row row_number="28" isdata="1">משתי רוחות רבי חנינא אמר המרזב אין</row>
+		<row row_number="29" isdata="1">לו חזקה שאם היה ארוך מקצרו ויש</row>
+		<row row_number="30" isdata="1">למקומו חזקה שאם בא לעוקרו אינו עוקרו</row>
+		<row row_number="31" isdata="1">רב ירמיה בר אבא אמר המרזב אין לו</row>
+		<row row_number="32" isdata="1">חזקה שאם רוצה לבנות תחתיו בונה ויש</row>
+		<row row_number="33" isdata="1">למקומו חזקה שאם בא לעוקרו אינו עוקרו</row>
+</amud>
+</daf>
+</masechet>
+</root>

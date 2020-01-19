@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:42.409505</dateCreated>
+   <lastModified>2020-01-14 15:02:42.409505</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="31">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המביא"/><ContMishna/>מתני' מביאין עצים מן השדה מן המכונס<EndGemara/><StartMishna/></row>
+		<row row_number="2" isdata="1">ומן הקרפף אפי' מן המפוזר איזהו קרפף כל</row>
+		<row row_number="3" isdata="1">שסמוך לעיר דברי ר' יהודה ר' יוסי אומר</row>
+		<row row_number="4" isdata="1">כל שנכנסין לו בפותחת ואפילו בתוך תחום</row>
+		<row row_number="5" isdata="1">שבת:<EndMishna/><StartGemara/>גמ' אמר רב יהודה אמר שמואל</row>
+		<row row_number="6" isdata="1">אין מביאין עצים אלא מן המכונסין שבקרפף</row>
+		<row row_number="7" isdata="1">והא אנן תנן מן הקרפף ואפילו מן המפוזרים</row>
+		<row row_number="8" isdata="1">מתניתין יחידאה היא דתניא א"ר שמעון בן</row>
+		<row row_number="9" isdata="1">אלעזר לא נחלקו בית שמאי ובית הלל על</row>
+		<row row_number="10" isdata="1">המפוזרים שבשדות שאין מביאין ועל</row>
+		<row row_number="11" isdata="1">המכונסין שבקרפף שמביאין על מה נחלקו</row>
+		<row row_number="12" isdata="1">על המפוזרין שבקרפף ועל המכונסין</row>
+		<row row_number="13" isdata="1">שבשדות שבית שמאי אומרים לא יביא</row>
+		<row row_number="14" isdata="1">ובית הלל אומרים יביא אמר רבא עלי</row>
+		<row row_number="15" isdata="1">קנים ועלי גפנים אף על גב דמכנפי להו</row>
+		<row row_number="16" isdata="1">ומותבי כיון דאי מדלי זיקא מבדר להו</row>
+		<row row_number="17" isdata="1">כמפוזרים דמו ואסורין ואי אתנח מנא</row>
+		<row row_number="18" isdata="1">מאתמול עלייהו שפיר דמי: איזהו קרפף</row>
+		<row row_number="19" isdata="1">וכו': אבעיא להו היכי קאמר כל שסמוך</row>
+		<row row_number="20" isdata="1">לעיר והוא דאית ליה פותחת ואתא ר' יוסי</row>
+		<row row_number="21" isdata="1">למימר כיון דאית ליה פותחת אפילו בתוך</row>
+		<row row_number="22" isdata="1">תחום שבת נמי או דלמא הכי קאמר כל</row>
+		<row row_number="23" isdata="1">שסמוך לעיר בין דאית ליה פותחת בין</row>
+		<row row_number="24" isdata="1">דלית ליה פותחת ואתא ר' יוסי למימר אפי'</row>
+		<row row_number="25" isdata="1">בתוך תחום שבת ודוקא דאית ליה פותחת</row>
+		<row row_number="26" isdata="1">אבל לית ליה פותחת אפילו סמוך לעיר נמי</row>
+		<row row_number="27" isdata="1">לא ת"ש מדקתני ר' יוסי אומר כל שנכנסין</row>
+		<row row_number="28" isdata="1">לו בפותחת ואפילו בתוך תחום שבת</row>
+		<row row_number="29" isdata="1">ש"מ רבי יוסי תרתי לקולא קאמר ש"מ</row>
+		<row row_number="30" isdata="1">אמר רב סלא אמר רבי ירמיה הלכה</row>
+		<row row_number="31" isdata="1">כרבי יוסי להקל<EndGemara/><StartMishna/>מתני' אין מבקעין</row>
+		<row row_number="32" isdata="1">עצים לא מן הקורות ולא מן הקורה</row>
+		<row row_number="33" isdata="1">שנשברה ביו"ט ואין מבקעין לא בקרדום</row>
+		<row row_number="34" isdata="1">ולא במגרה ולא במגל אלא בקופיץ:<EndMishna/><StartGemara/>גמ'</row>
+</amud>
+</daf>
+</masechet>
+</root>

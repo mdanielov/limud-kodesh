@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:15.854628</dateCreated>
+   <lastModified>2020-01-14 15:02:15.854628</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="122">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל כתבי"/><ContGemara/>אדעתא דרובא מדלקי שמואל איקלע לבי</row>
+		<row row_number="2" isdata="1">אבין תורן אתא ההוא נכרי אדליק שרגא</row>
+		<row row_number="3" isdata="1">אהדרינהו שמואל לאפיה כיון דחזא דאייתי</row>
+		<row row_number="4" isdata="1">שטר וקא קרי אמר אדעתא דנפשיה הוא</row>
+		<row row_number="5" isdata="1">דאדליק אהדרינהו איהו לאפיה גבי שרגא:<EndChapter name = "כל כתבי"/><EndGemara/></row>
+		<row row_number="6" isdata="0">הדרן עלך כל כתבי</row>
+		<row row_number="7" isdata="1"><StartChapter name = "כל הכלים"/><StartMishna/>כל הכלים ניטלין בשבת ודלתותיהן עמהן</row>
+		<row row_number="8" isdata="1">אע"פ שנתפרקו (בשבת) שאינן דומין</row>
+		<row row_number="9" isdata="1">לדלתות הבית לפי שאינן מן המוכן נוטל</row>
+		<row row_number="10" isdata="1">אדם קורנס לפצע בו את האגוזין קרדום</row>
+		<row row_number="11" isdata="1">לחתוך בו את הדבילה מגירה לגור בה את</row>
+		<row row_number="12" isdata="1">הגבינה מגריפה לגרוף בה את הגרוגרות את</row>
+		<row row_number="13" isdata="1">הרחת ואת המלגז לתת עליו לקטן את הכוש</row>
+		<row row_number="14" isdata="1">ואת הכרכר לתחוב בו מחט של יד ליטול</row>
+		<row row_number="15" isdata="1">בו את הקוץ ושל סקאים לפתוח בו את</row>
+		<row row_number="16" isdata="1">הדלת:<EndMishna/><StartGemara/>גמ' כל הכלים ניטלין ואע"פ שנתפרקו</row>
+		<row row_number="17" isdata="1">בשבת ולא מיבעיא בחול אדרבה בשבת</row>
+		<row row_number="18" isdata="1">מוכנין על גבי אביהן בחול אין מוכנין על גבי</row>
+		<row row_number="19" isdata="1">אביהן אמר אביי הכי קאמר כל הכלים ניטלין</row>
+		<row row_number="20" isdata="1">בשבת ודלתותיהן עמהן אע"פ שנתפרקו</row>
+		<row row_number="21" isdata="1">בחול ניטלין בשבת ת"ר דלת של שידה</row>
+		<row row_number="22" isdata="1">ושל תיבה ושל מגדל נוטלין אבל לא מחזירין</row>
+		<row row_number="23" isdata="1">ושל לול של תרנגולים לא נוטלין ולא מחזירין</row>
+		<row row_number="24" isdata="1">בשלמא של לול של תרנגולים קסבר כיון</row>
+		<row row_number="25" isdata="1">דמחברי בארעא יש בנין בקרקע יש סתירה</row>
+		<row row_number="26" isdata="1">בקרקע אלא של שידה ושל תיבה ושל מגדל</row>
+		<row row_number="27" isdata="1">מאי קסבר אי קסבר יש בנין בכלים יש סתירה</row>
+		<row row_number="28" isdata="1">בכלים ואי אין סתירה בכלים אין בנין בכלים</row>
+		<row row_number="29" isdata="1">אמר אביי לעולם קסבר יש בנין בכלים ויש</row>
+		<row row_number="30" isdata="1">סתירה בכלים ושניטלו קאמר א"ל רבא [שתי</row>
+		<row row_number="31" isdata="1">תשובות בדבר] חדא דנוטלין קתני ועוד</row>
+		<row row_number="32" isdata="1">מאי אבל לא מחזירין אלא אמר רבא קסבר</row>
+		<row row_number="33" isdata="1">אין בנין בכלים ואין סתירה בכלים וגזירה</row>
+		<row row_number="34" isdata="1">שמא יתקע: נוטל אדם קורנס כו': אמר</row>
+		<row row_number="35" isdata="1">רב יהודה קורנס של אגוזין לפצע בו את</row>
+		<row row_number="36" isdata="1">האגוזין אבל של נפחין לא קסבר דבר</row>
+		<row row_number="37" isdata="1">שמלאכתו לאיסור אפילו לצורך גופו אסור</row>
+		<row row_number="38" isdata="1">א"ל רבה אלא מעתה סיפא דקתני ואת</row>
+		<row row_number="39" isdata="1">הרחת ואת המלגז לתת עליו לקטן רחת</row>
+		<row row_number="40" isdata="1">ומלגז מי מייחדי ליה לקטן אלא אמר רבה</row>
+		<row row_number="41" isdata="1">קורנס של נפחין לפצע בו האגוזין קסבר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:28.366745</dateCreated>
+   <lastModified>2020-01-14 15:03:28.366745</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="92">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השוכר את הפועלים"/><ContGemara/>הרי זה אוכל ופטור מן המעשר על מנת</row>
+		<row row_number="2" isdata="1">שאוכל אני ובני או שיאכל בני בשכרי הוא</row>
+		<row row_number="3" isdata="1">אוכל ופטור ובנו אוכל וחייב ואי אמרת משלו</row>
+		<row row_number="4" isdata="1">הוא אוכל בנו אמאי חייב אמר רבינא משום</row>
+		<row row_number="5" isdata="1">דמיחזי כמקח תא שמע השוכר את הפועל</row>
+		<row row_number="6" isdata="1">לעשות בנטע רבעי שלו הרי אלו לא יאכלו</row>
+		<row row_number="7" isdata="1">ואם לא הודיעם פודה ומאכילן ואי אמרת</row>
+		<row row_number="8" isdata="1">משל שמים הוא אוכל אמאי פודה ומאכילן</row>
+		<row row_number="9" isdata="1">איסורא לא זכי להו רחמנא התם משום</row>
+		<row row_number="10" isdata="1">דמיחזי כמקח טעות אימא סיפא נתפרסו</row>
+		<row row_number="11" isdata="1">עגוליו נתפתחו חביותיו הרי אלו לא יאכלו</row>
+		<row row_number="12" isdata="1">ואם לא הודיען מעשר ומאכילן ואי אמרת</row>
+		<row row_number="13" isdata="1">משל שמים הוא אוכל אמאי מעשר ומאכילן</row>
+		<row row_number="14" isdata="1">איסורא לא זכי להו רחמנא וכי תימא הכא</row>
+		<row row_number="15" isdata="1">נמי משום דמיחזי כמקח טעות בשלמא</row>
+		<row row_number="16" isdata="1">נתפרסו עגוליו מיחזי כמקח טעות אלא</row>
+		<row row_number="17" isdata="1">נתפתחו חביותיו מאי מקח טעות איכא מידע</row>
+		<row row_number="18" isdata="1">ידע דאיטביל להו למעשר אמר רב ששת</row>
+		<row row_number="19" isdata="1">שנתפתחו חביותיו לבור והתניא יין משירד</row>
+		<row row_number="20" isdata="1">לבור כר' עקיבא דאמר משיקפה דאמרו ליה</row>
+		<row row_number="21" isdata="1">לא הוה ידעינן ונימא להו איבעי לכו אסוקי</row>
+		<row row_number="22" isdata="1">אדעתייכו דלמא מקפה באתרא דההוא גברא</row>
+		<row row_number="23" isdata="1">דנגיד איהו מקפה והשתא דתני רב זביד</row>
+		<row row_number="24" isdata="1">בדבי ר' הושעיא יין משירד לבור ויקפה ור'</row>
+		<row row_number="25" isdata="1">עקיבא אומר משישלה בחביות אפי' תימא</row>
+		<row row_number="26" isdata="1">שלא נתפתחו חביותיו לבור דאמרו ליה לא</row>
+		<row row_number="27" isdata="1">הוה ידעינן דמשלי ונימא להו איבעי לכו</row>
+		<row row_number="28" isdata="1">אסוקי אדעתייכו דלמא משלי באתרא דההוא</row>
+		<row row_number="29" isdata="1">דשריק ההוא משלי תא שמע קוצץ אדם על</row>
+		<row row_number="30" isdata="1">ידי עצמו על ידי בנו ובתו הגדולים על ידי</row>
+		<row row_number="31" isdata="1">עבדו ושפחתו הגדולים ועל ידי אשתו מפני</row>
+		<row row_number="32" isdata="1">שיש בהן דעת אבל אינו קוצץ לא על ידי</row>
+		<row row_number="33" isdata="1">בנו ובתו הקטנים ולא על ידי עבדו ושפחתו</row>
+		<row row_number="34" isdata="1">הקטנים ולא על ידי בהמתו מפני שאין בהן</row>
+		<row row_number="35" isdata="1">דעת קא סלקא דעתך במעלה להן מזונות אי</row>
+		<row row_number="36" isdata="1">אמרת בשלמא משל שמים הוא אוכל משום</row>
+		<row row_number="37" isdata="1">הכי אינו קוצץ אלא אי אמרת משלו הוא</row>
+		<row row_number="38" isdata="1">אוכל קטנים נמי נקוץ להו הכא במאי עסקינן</row>
+		<row row_number="39" isdata="1">בשאין מעלה להן מזונות אי הכי גדולים נמי</row>
+		<row row_number="40" isdata="1">גדולים ידעי וקא מחלי והא תנא ר' הושעיא</row>
+		<row row_number="41" isdata="1">קוצץ אדם על ידי עצמו ועל ידי אשתו אבל</row>
+		<row row_number="42" isdata="1">לא על ידי בהמתו ועל ידי בנו ובתו הגדולים</row>
+		<row row_number="43" isdata="1">אבל לא ע"י בנו ובתו הקטנים וקוצץ ע"י עבדו ושפחתו הכנענים בין גדולים</row>
+		<row row_number="44" isdata="1">ובין קטנים מאי לאו אידי ואידי במעלה להן מזונות ובהא קא מיפלגי דמר סבר</row>
+		<row row_number="45" isdata="1">משלו הוא אוכל ומר סבר משל שמים הוא אוכל לא דכ"ע משלו הוא אוכל</row>
+		<row row_number="46" isdata="1">ולא קשיא כאן בשאין מעלה להן מזונות וברייתא במעלה להן מזונות במאי</row>
+		<row row_number="47" isdata="1">אוקימתא במעלה להן מזונות אי הכי קטנים נמי נקוץ להו צערייהו דבנו ובתו</row>
+		<row row_number="48" isdata="1">הקטנים לא זכי ליה רחמנא במאי אוקימתא למתני' בשאין מעלה להן מזונות</row>
+</amud>
+</daf>
+</masechet>
+</root>

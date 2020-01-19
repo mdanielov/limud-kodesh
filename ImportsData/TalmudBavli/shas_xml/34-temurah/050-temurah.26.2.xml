@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:26.031146</dateCreated>
+   <lastModified>2020-01-14 15:04:26.032142</lastModified>
+ </meta>
+ <masechet name="תמורה" serial="34">
+<daf value="26">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כיצד מערימין"/><ContGemara/>כיוצא בה שמע מינה תלת ש"מ</row>
+		<row row_number="2" isdata="1">קדושת דמים נדחה וש"מ בעלי (מומין)</row>
+		<row row_number="3" isdata="1">נדחין ושמע מינה דיחוי מעיקרו הוי דיחוי</row>
+		<row row_number="4" isdata="1">אמר אביי הכל מודים היכא דאמר חציה</row>
+		<row row_number="5" isdata="1">עולה וחציה מעשר דברי הכל עולה קריבה</row>
+		<row row_number="6" isdata="1">היכא דאמר חציה תמורה וחציה מעשר מאי</row>
+		<row row_number="7" isdata="1">תמורה קריבה שכן נוהגת בכל הקדשים או</row>
+		<row row_number="8" isdata="1">דלמא מעשר קרובה שכן מקדיש לפניו</row>
+		<row row_number="9" isdata="1">ולאחריו תיקו<EndGemara/><StartMishna/>מתני' הרי זו תחת זו</row>
+		<row row_number="10" isdata="1">תמורת זו חליפת זו הרי זו תמורה זו</row>
+		<row row_number="11" isdata="1">מחוללת על זו אין זו תמורה ואם היה</row>
+		<row row_number="12" isdata="1">הקדש בעל מום יוצא לחולין וצריך לעשות</row>
+		<row row_number="13" isdata="1">דמים:<EndMishna/><StartGemara/>גמ' למימרא דתחת לישנא</row>
+		<row row_number="14" isdata="1">דאתפוסי הוא ורמינהו קדשי בדק הבית</row>
+		<row row_number="15" isdata="1">אמר חליפת זו תמורת זו לא אמר כלום</row>
+		<row row_number="16" isdata="1">תחת זו מחוללת על זו דבריו קיימין ואי</row>
+		<row row_number="17" isdata="1">סלקא דעתך לישנא דאיתפוסי היא מאי</row>
+		<row row_number="18" isdata="1">שנא רישא ומאי שנא סיפא אמר</row>
+		<row row_number="19" isdata="1">אביי תחת משכחת לה לישנא דאיתפוסי</row>
+		<row row_number="20" isdata="1">ולישנא דאחולי לישנא דאתפוסי דכתיב</row>
+</amud>
+</daf>
+</masechet>
+</root>

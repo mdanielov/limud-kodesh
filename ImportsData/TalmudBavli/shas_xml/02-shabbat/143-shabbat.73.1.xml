@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:13.277250</dateCreated>
+   <lastModified>2020-01-14 15:02:13.277250</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="73">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כלל גדול"/><ContGemara/>אלא לאו רישא בעכו"ם וסיפא בשאר</row>
+		<row row_number="2" isdata="1">מצות ושגג בלא מתכוין בשאר מצות</row>
+		<row row_number="3" isdata="1">ה"ד דסבור דשומן הוא ואכלו משא"כ בשבת</row>
+		<row row_number="4" isdata="1">דפטור דנתכוון לחתוך את התלוש וחתך את</row>
+		<row row_number="5" isdata="1">המחובר פטור ואביי שגג בלא מתכוין ה"ד</row>
+		<row row_number="6" isdata="1">דסבור רוק הוא ובלעו משא"כ בשבת</row>
+		<row row_number="7" isdata="1">דפטור דנתכוון להגביה את התלוש וחתך</row>
+		<row row_number="8" isdata="1">את המחובר פטור אבל נתכוון לחתוך את</row>
+		<row row_number="9" isdata="1">התלוש וחתך את המחובר חייב: איתמר</row>
+		<row row_number="10" isdata="1">נתכוון לזרוק שתים וזרק ארבע רבא</row>
+		<row row_number="11" isdata="1">אמר פטור אביי אמר חייב רבא אמר פטור</row>
+		<row row_number="12" isdata="1">דלא קמיכוין לזריקה דארבע אביי אמר</row>
+		<row row_number="13" isdata="1">חייב דהא קמיכוין לזריקה בעלמא כסבור</row>
+		<row row_number="14" isdata="1">רשות היחיד ונמצאת רשות הרבים רבא</row>
+		<row row_number="15" isdata="1">אמר פטור ואביי אמר חייב רבא אמר פטור</row>
+		<row row_number="16" isdata="1">דהא לא מיכוין לזריקה דאיסורא ואביי אמר</row>
+		<row row_number="17" isdata="1">חייב דהא קא מיכוין לזריקה בעלמא וצריכא</row>
+		<row row_number="18" isdata="1">דאי אשמעינן קמייתא בההוא קאמר רבא</row>
+		<row row_number="19" isdata="1">דהא לא קמיכוין לחתיכה דאיסורא אבל</row>
+		<row row_number="20" isdata="1">נתכוון לזרוק שתים וזרק ארבע דארבע בלא</row>
+		<row row_number="21" isdata="1">תרתי לא מיזרקא ליה אימא מודה ליה לאביי</row>
+		<row row_number="22" isdata="1">ואי אשמעינן בהא בהא קאמר רבא דהא</row>
+		<row row_number="23" isdata="1">לא קמיכוין לזריקה דארבע אבל כסבור רה"י</row>
+		<row row_number="24" isdata="1">ונמצא רה"ר דמכוין לזריקה דארבע אימא</row>
+		<row row_number="25" isdata="1">מודי ליה לאביי צריכא תנן אבות מלאכות</row>
+		<row row_number="26" isdata="1">ארבעים חסר אחת והוינן בה מנינא למה</row>
+		<row row_number="27" isdata="1">לי וא"ר יוחנן שאם עשאן כולם בהעלם אחד</row>
+		<row row_number="28" isdata="1">חייב על כל אחת ואחת בשלמא לאביי</row>
+		<row row_number="29" isdata="1">דאמר כי האי גוונא חייב משכחת לה דידע</row>
+		<row row_number="30" isdata="1">דאסורא שבת וידע לה איסור מלאכות וקא</row>
+		<row row_number="31" isdata="1">טעה בשיעורין אלא לרבא דאמר פטור היכי</row>
+		<row row_number="32" isdata="1">משכחת לה בזדון שבת ושגגת מלאכות</row>
+		<row row_number="33" isdata="1">הניחא אי סבר לה כר' יוחנן דאמר כיון</row>
+		<row row_number="34" isdata="1">ששגג בכרת אע"פ שהזיד בלאו משכחת</row>
+		<row row_number="35" isdata="1">לה דידע לה לשבת בלאו אלא אי סבר</row>
+		<row row_number="36" isdata="1">לה כרשב"ל דאמר עד שישגוג בלאו וכרת</row>
+		<row row_number="37" isdata="1">דידע לה לשבת במאי דידע לה בתחומין</row>
+		<row row_number="38" isdata="1">ואליבא דר"ע<EndGemara/><StartMishna/>מתני' אבות מלאכות</row>
+		<row row_number="39" isdata="1">ארבעים חסר אחת הזורע והחורש והקוצר</row>
+		<row row_number="40" isdata="1">והמעמר והדש והזורה הבורר הטוחן והמרקד</row>
+		<row row_number="41" isdata="1">והלש והאופה הגוזז את הצמר המלבנו</row>
+		<row row_number="42" isdata="1">והמנפצו והצובעו והטווה והמיסך והעושה</row>
+		<row row_number="43" isdata="1">שתי בתי נירין והאורג שני חוטין והפוצע</row>
+		<row row_number="44" isdata="1">שני חוטין הקושר והמתיר והתופר שתי</row>
+		<row row_number="45" isdata="1">תפירות הקורע על מנת לתפור [שתי תפירות]</row>
+		<row row_number="46" isdata="1">הצד צבי השוחטו והמפשיטו המולחו</row>
+		<row row_number="47" isdata="1">והמעבד את עורו והממחקו והמחתכו הכותב שתי אותיות והמוחק על</row>
+		<row row_number="48" isdata="1">מנת לכתוב שתי אותיות הבונה והסותר המכבה והמבעיר המכה בפטיש</row>
+		<row row_number="49" isdata="1">המוציא מרשות לרשות הרי אלו אבות מלאכות ארבעים חסר אחת:</row>
+</amud>
+</daf>
+</masechet>
+</root>

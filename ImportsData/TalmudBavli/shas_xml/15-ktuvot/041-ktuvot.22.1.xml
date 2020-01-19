@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:54.747876</dateCreated>
+   <lastModified>2020-01-14 15:02:54.747876</lastModified>
+ </meta>
+ <masechet name="כתובות" serial="15">
+<daf value="22">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה שנתארמלה"/><ContGemara/>תרי ותרי נינהו אי ערער דפגם משפחה גלוי</row>
+		<row row_number="2" isdata="1">מלתא בעלמא הוא לעולם אימא לך ערער</row>
+		<row row_number="3" isdata="1">דגזלנותא וקאמרי הני ידעינן ביה דעבד</row>
+		<row row_number="4" isdata="1">תשובה א"ר זירא הא מלתא מרבי אבא</row>
+		<row row_number="5" isdata="1">שמיע לי ואי לאו רבי אבא דמן עכו שכחתה</row>
+		<row row_number="6" isdata="1">ג' שישבו לקיים את השטר ומת אחד מהם</row>
+		<row row_number="7" isdata="1">צריכין למיכתב במותב תלתא הוינא וחד</row>
+		<row row_number="8" isdata="1">ליתוהי אמר רב נחמן בר יצחק ואי כתב ביה</row>
+		<row row_number="9" isdata="1">שטרא דנן נפק לקדמנא בי דינא תו לא צריך</row>
+		<row row_number="10" isdata="1">ודלמא בית דין חצוף הוא וכדשמואל דאמר</row>
+		<row row_number="11" isdata="1">שמואל שנים שדנו דיניהם דין אלא שנקרא</row>
+		<row row_number="12" isdata="1">ב"ד חצוף דכתיב ביה בי דינא דרבנא אשי</row>
+		<row row_number="13" isdata="1">ודלמא רבנן דבי רב אשי כדשמואל סבירא</row>
+		<row row_number="14" isdata="1">להו דכתיב ביה ואמר לנא רבנא אשי:</row>
+		<row row_number="15" isdata="1"><EndGemara/><StartMishna/>מתני' האשה שאמרה אשת איש הייתי</row>
+		<row row_number="16" isdata="1">וגרושה אני נאמנת שהפה שאסר הוא הפה</row>
+		<row row_number="17" isdata="1">שהתיר ואם יש עדים שהיתה אשת איש</row>
+		<row row_number="18" isdata="1">והיא אומרת גרושה אני אינה נאמנת אמרה</row>
+		<row row_number="19" isdata="1">נשביתי וטהורה אני נאמנת שהפה שאסר</row>
+		<row row_number="20" isdata="1">הוא הפה שהתיר ואם יש עדים שנשבית</row>
+		<row row_number="21" isdata="1">והיא אומרת טהורה אני אינה נאמנת ואם</row>
+		<row row_number="22" isdata="1">משנשאת באו עדים הרי זו לא תצא:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="23" isdata="1">א"ר אסי מנין להפה שאסר הוא הפה שהתיר</row>
+		<row row_number="24" isdata="1">מן התורה שנאמר את בתי נתתי לאיש הזה</row>
+		<row row_number="25" isdata="1">לאשה לאיש אסרה הזה התירה ל"ל קרא</row>
+		<row row_number="26" isdata="1">סברא היא הוא אסרה והוא שרי לה אלא כי</row>
+		<row row_number="27" isdata="1">איצטריך קרא לכדרב הונא אמר רב דא"ר</row>
+		<row row_number="28" isdata="1">הונא אמר רב מנין לאב שנאמן לאסור את</row>
+		<row row_number="29" isdata="1">בתו מן התורה שנאמר את בתי נתתי לאיש</row>
+		<row row_number="30" isdata="1">הזה למה לי מיבעי ליה לכדתני ר' יונה דתני</row>
+		<row row_number="31" isdata="1">ר' יונה את בתי נתתי לאיש הזה הזה ולא</row>
+		<row row_number="32" isdata="1">ליבם ת"ר האשה שאמרה אשת איש אני</row>
+		<row row_number="33" isdata="1">וחזרה ואמרה פנויה אני נאמנת והא שוויה</row>
+		<row row_number="34" isdata="1">לנפשה חתיכה דאיסורא אמר רבא בר רב</row>
+		<row row_number="35" isdata="1">הונא כגון שנתנה אמתלא לדבריה תניא</row>
+		<row row_number="36" isdata="1">נמי הכי אמרה אשת איש אני וחזרה ואמרה</row>
+		<row row_number="37" isdata="1">פנויה אני אינה נאמנת ואם נתנה אמתלא</row>
+		<row row_number="38" isdata="1">לדבריה נאמנת ומעשה נמי באשה אחת גדולה שהיתה גדולה בנוי וקפצו</row>
+		<row row_number="39" isdata="1">עליה בני אדם לקדשה ואמרה להם מקודשת אני לימים עמדה וקידשה את</row>
+		<row row_number="40" isdata="1">עצמה אמרו לה חכמים מה ראית לעשות כן אמרה להם בתחלה שבאו עלי</row>
+		<row row_number="41" isdata="1">אנשים שאינם מהוגנים אמרתי מקודשת אני עכשיו שבאו עלי אנשים</row>
+		<row row_number="42" isdata="1">מהוגנים עמדתי וקדשתי את עצמי וזו הלכה העלה רב אחא שר הבירה לפני</row>
+		<row row_number="43" isdata="1">חכמי' באושא ואמרו אם נתנה אמתל' לדבריה נאמנת בעא מיניה שמואל מרב</row>
+		<row row_number="44" isdata="1">אמרה טמאה אני וחזרה ואמרה טהורה אני מהו אמר ליה אף בזו אם נתנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

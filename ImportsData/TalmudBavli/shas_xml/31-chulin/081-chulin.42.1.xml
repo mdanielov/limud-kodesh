@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:12.835546</dateCreated>
+   <lastModified>2020-01-14 15:04:12.835546</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="42">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט"/><ContGemara/>מהו דתימא אם איתא דילדה קלא הוה ליה</row>
+		<row row_number="2" isdata="1">קא משמע לן אימר אפולי אפיל:<EndChapter name = "השוחט"/><EndGemara/></row>
+		<row row_number="3" isdata="0">הדרן עלך השוחט</row>
+		<row row_number="4" isdata="1"><StartChapter name = "אלו טרפות"/><StartMishna/>אלו טרפות בבהמה נקובת הוושט</row>
+		<row row_number="5" isdata="1">ופסוקת הגרגרת ניקב קרום של</row>
+		<row row_number="6" isdata="1">מוח ניקב הלב לבית חללו נשברה השדרה</row>
+		<row row_number="7" isdata="1">ונפסק החוט שלה ניטל הכבד ולא נשתייר</row>
+		<row row_number="8" isdata="1">הימנו כלום הריאה שניקבה או שחסרה ר"ש</row>
+		<row row_number="9" isdata="1">אומר עד שתינקב לבית הסמפונות ניקבה</row>
+		<row row_number="10" isdata="1">הקבה ניקבה המרה ניקבו הדקין הכרס</row>
+		<row row_number="11" isdata="1">הפנימית שניקבה או שנקרע רוב החיצונה</row>
+		<row row_number="12" isdata="1">רבי יהודה אומר הגדולה טפח והקטנה</row>
+		<row row_number="13" isdata="1">ברובה המסס ובית הכוסות שניקבו לחוץ</row>
+		<row row_number="14" isdata="1">נפלה מן הגג נשתברו רוב צלעותיה ודרוסת</row>
+		<row row_number="15" isdata="1">הזאב רבי יהודה אומר דרוסת הזאב בדקה</row>
+		<row row_number="16" isdata="1">ודרוסת ארי בגסה דרוסת הנץ בעוף הדק</row>
+		<row row_number="17" isdata="1">ודרוסת הגס בעוף הגס זה הכלל כל</row>
+		<row row_number="18" isdata="1">שאין כמוה חיה טרפה:<EndMishna/><StartGemara/>גמ' א"ר שמעון בן</row>
+		<row row_number="19" isdata="1">לקיש רמז לטרפה מן התורה מנין מנין</row>
+		<row row_number="20" isdata="1">ובשר בשדה טרפה לא תאכלו אלא רמז</row>
+		<row row_number="21" isdata="1">לטרפה שאינה חיה מן התורה מנין דקתני</row>
+		<row row_number="22" isdata="1">סיפא זה הכלל כל שאין כמוה חיה טרפה</row>
+		<row row_number="23" isdata="1">מכלל דטרפה אינה חיה מנא לן דכתיב</row>
+		<row row_number="24" isdata="1">וזאת החיה אשר תאכלו חיה אכול שאינה</row>
+		<row row_number="25" isdata="1">חיה לא תיכול מכלל דטרפה לא חיה ולמאן</row>
+		<row row_number="26" isdata="1">דאמר טרפה חיה מנ"ל נפקא ליה מזאת</row>
+		<row row_number="27" isdata="1">החיה אשר תאכלו זאת החיה אכול חיה</row>
+		<row row_number="28" isdata="1">אחרת לא תיכול מכלל דטרפה חיה ואידך</row>
+		<row row_number="29" isdata="1">האי זאת מאי עביד ליה מיבעי ליה לכדתנא</row>
+		<row row_number="30" isdata="1">דבי רבי ישמעאל דתנא דבי רבי ישמעאל</row>
+		<row row_number="31" isdata="1">זאת החיה אשר תאכלו מלמד שתפס הקב"ה</row>
+		<row row_number="32" isdata="1">מכל מין ומין והראה לו למשה ואמר לו זאת</row>
+		<row row_number="33" isdata="1">אכול וזאת לא תיכול ואידך נמי מבעי ליה</row>
+		<row row_number="34" isdata="1">לכדתנא דבי ר' ישמעאל אין ה"נ אלא טרפה</row>
+		<row row_number="35" isdata="1">חיה מנא ליה נפקא ליה מאידך תנא דבי ר'</row>
+		<row row_number="36" isdata="1">ישמעאל דתנא דבי ר' ישמעאל בין החיה</row>
+		<row row_number="37" isdata="1">הנאכלת ובין החיה אשר לא תאכל אלו</row>
+		<row row_number="38" isdata="1">שמונה עשרה טרפות שנאמרו למשה מסיני</row>
+		<row row_number="39" isdata="1">ותו ליכא והא איכא בסגר ושב שמעתתא</row>
+</amud>
+</daf>
+</masechet>
+</root>

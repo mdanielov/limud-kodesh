@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:43.408325</dateCreated>
+   <lastModified>2020-01-14 15:03:43.408325</lastModified>
+ </meta>
+ <masechet name="סנהדרין" serial="24">
+<daf value="77">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו הן הנשרפין"/><ContGemara/>נזקין שעשה בהן שוגג כמזיד ואונס כרצון</row>
+		<row row_number="2" isdata="1">אינו דין שחייב בהן את המצמצם רב</row>
+		<row row_number="3" isdata="1">אחא בר רב פוטר אמר רב משרשיא מ"ט</row>
+		<row row_number="4" isdata="1">דאבוה דאבא דפוטר אמר קרא מות</row>
+		<row row_number="5" isdata="1">יומת המכה רוצח הוא ברוצח הוא דחייב</row>
+		<row row_number="6" isdata="1">לן מצמצם בנזקין לא חייב לן מצמצם</row>
+		<row row_number="7" isdata="1">אמר רבא כפתו ומת ברעב פטור ואמר</row>
+		<row row_number="8" isdata="1">רבא כפתו בחמה ומת בצינה ומת חייב</row>
+		<row row_number="9" isdata="1">סוף חמה לבא סוף צינה לבא פטור</row>
+		<row row_number="10" isdata="1">ואמר רבא כפתו לפני ארי פטור לפני</row>
+		<row row_number="11" isdata="1">יתושין חייב רב אשי אמר אפילו לפני</row>
+		<row row_number="12" isdata="1">יתושין נמי פטור הני אזלי והני אתו איתמר</row>
+		<row row_number="13" isdata="1">כפה עליו גיגית ופרע עליו מעזיבה רבא</row>
+		<row row_number="14" isdata="1">ורבי זירא חד אמר חייב וחד אמר פטור</row>
+		<row row_number="15" isdata="1">תסתיים דרבא הוא דאמר פטור דאמר רבא</row>
+		<row row_number="16" isdata="1">כפתו ומת ברעב פטור אדרבה תסתיים דרבי</row>
+		<row row_number="17" isdata="1">זירא הוא דאמר פטור דא"ר זירא האי מאן</row>
+		<row row_number="18" isdata="1">דעייליה לחבריה בביתא דשישא ואדליק ליה</row>
+		<row row_number="19" isdata="1">שרגא ומת חייב טעמא דאדליק ליה שרגא</row>
+		<row row_number="20" isdata="1">הא לא אדליק ליה שרגא לא אמרי</row>
+		<row row_number="21" isdata="1">התם בלא שרגא לא מתחיל הבלא</row>
+</amud>
+</daf>
+</masechet>
+</root>

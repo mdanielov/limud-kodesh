@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:09.469499</dateCreated>
+   <lastModified>2020-01-14 15:04:09.469499</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="104">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המנחות והנסכים"/><ContGemara/>וההוא גברא על פלטר סמיך מאי הוי עלה</row>
+		<row row_number="2" isdata="1">אמר רב יוסף רבי יהודה מוריינא דבי נשיאה</row>
+		<row row_number="3" isdata="1">הוה ואורי ליה כשמעתיה דתנן רבי יהודה</row>
+		<row row_number="4" isdata="1">אומר ששה דברים מקולי בית שמאי ומחומרי</row>
+		<row row_number="5" isdata="1">בית הלל דם נבילות בית שמאי מטהרין ובית</row>
+		<row row_number="6" isdata="1">הלל מטמאין אמר רבי יוסי בר' יהודה אף</row>
+		<row row_number="7" isdata="1">כשטמאו בית הלל לא טמאו אלא ברביעית</row>
+		<row row_number="8" isdata="1">הואיל ויכול לקרוש ולעמוד על כזית:</row>
+		<row row_number="9" isdata="1"><EndGemara/><StartMishna/>מתני' אין מתנדבין לוג שנים וחמשה אבל</row>
+		<row row_number="10" isdata="1">מתנדבין שלשה וארבעה וששה ומששה</row>
+		<row row_number="11" isdata="1">ולמעלה:<EndMishna/><StartGemara/>גמ' איבעיא להו יש קבע לנסכים</row>
+		<row row_number="12" isdata="1">או אין קבע לנסכים היכי דמי כגון דאייתי</row>
+		<row row_number="13" isdata="1">חמשה אי אמרת אין קבע לנסכים משיך</row>
+		<row row_number="14" isdata="1">ומקריב ארבעה מינייהו דחזי לאיל ואידך הוי</row>
+		<row row_number="15" isdata="1">נדבה ואי אמרת יש קבע לנסכים עד דממלי</row>
+		<row row_number="16" isdata="1">להו לא קרבי מאי אמר אביי תא שמע ששה</row>
+		<row row_number="17" isdata="1">לנדבה ואמרינן כנגד מי כנגד מותר חטאת</row>
+		<row row_number="18" isdata="1">ומותר אשמות ומותר אשם נזיר ומותר אשם</row>
+		<row row_number="19" isdata="1">מצורע ומותר קינין ומותר מנחת חוטא ואם</row>
+		<row row_number="20" isdata="1">איתא ליתקין שופר אחרינא כנגד מותר</row>
+		<row row_number="21" isdata="1">נסכים הנך לנדבת צבור אזלי הני שכיחי</row>
+		<row row_number="22" isdata="1">אפשר דמצטרפי דמר ודמר בהדי הדדי</row>
+		<row row_number="23" isdata="1">וקרבי אמר רבא תא שמע אזרח מלמד</row>
+		<row row_number="24" isdata="1">שמתנדבין נסכים וכמה שלשת לוגין ומנין</row>
+		<row row_number="25" isdata="1">שאם רצה להוסיף יוסיף תלמוד לומר יהיה</row>
+		<row row_number="26" isdata="1">יכול יפחות ת"ל ככה מאי יוסיף אילימא</row>
+		<row row_number="27" isdata="1">ארבעה וששה מאי שנא שלשה דחזו לכבש</row>
+		<row row_number="28" isdata="1">ארבעה וששה נמי חזו לאיל ופר אלא לאו</row>
+		<row row_number="29" isdata="1">חמשה ושמע מינה אין קבע לנסכים שמע</row>
+		<row row_number="30" isdata="1">מינה אמר רב אשי והא אנן לא תנן הכי אין</row>
+		<row row_number="31" isdata="1">מתנדבין לוג שנים וחמשה קתני חמשה דומיא</row>
+		<row row_number="32" isdata="1">דשנים מה שנים דלא חזו כלל אף חמשה נמי</row>
+		<row row_number="33" isdata="1">דלא חזו כלל מידי איריא הא כדאיתא והא</row>
+		<row row_number="34" isdata="1">כדאיתא אמר אביי אם תמצא לומר אין קבע</row>
+		<row row_number="35" isdata="1">לנסכים הא אין קבע לנסכים אם תמצא לומר יש</row>
+		<row row_number="36" isdata="1">קבע לנסכים עד עשרה פשיטא לי אחד עשר</row>
+</amud>
+</daf>
+</masechet>
+</root>

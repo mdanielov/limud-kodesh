@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:13.286904</dateCreated>
+   <lastModified>2020-01-14 15:03:13.286904</lastModified>
+ </meta>
+ <masechet name="קידושין" serial="20">
+<daf value="12">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "האשה נקנית"/><ContGemara/>לא ס"ד דומיא דייעוד מה ייעוד אע"ג דאי</row>
+		<row row_number="2" isdata="1">בעי מייעד ואי בעי לא מייעד כל היכא דלא</row>
+		<row row_number="3" isdata="1">מצי מייעד לא הוו זבינא זביני ה"נ כל היכא</row>
+		<row row_number="4" isdata="1">דלא מצי מיגרעא לא הוו זבינא זביני וקידושי</row>
+		<row row_number="5" isdata="1">אשה לב"ש נפקא להו מאמה העבריה מה</row>
+		<row row_number="6" isdata="1">אמה העבריה בפרוטה לא מקניא אף אשה</row>
+		<row row_number="7" isdata="1">בפרוטה לא מיקדשא ואימא פלגא דדינר</row>
+		<row row_number="8" isdata="1">ואימא שתי פרוטות כיון דאפיקתיה מפרוטה</row>
+		<row row_number="9" isdata="1">אוקמה אדינר רבא אמר היינו טעמא דב"ש</row>
+		<row row_number="10" isdata="1">שלא יהו בנות ישראל כהפקר: וב"ה אומרים בפרוטה: סבר רב יוסף למימר</row>
+		<row row_number="11" isdata="1">פרוטה כל דהו א"ל אביי והא עלה קתני כמה היא פרוטה אחד משמנה</row>
+		<row row_number="12" isdata="1">באיסר האיטלקי וכ"ת ה"מ בדורו של משה אבל הכא כדחשבה להו לאינשי</row>
+		<row row_number="13" isdata="1">והא כי אתא רב דימי אמר שיער רבי סימאי בדורו כמה היא פרוטה אחד</row>
+		<row row_number="14" isdata="1">משמנה באיסר האיטלקי וכי אתא רבין אמר רבי דוסתאי ורבי ינאי ורבי</row>
+		<row row_number="15" isdata="1">אושעיא שיערו כמה הוי פרוטה אחד מששה באיסר האיטלקי א"ל רב יוסף</row>
+		<row row_number="16" isdata="1">אי הכי היינו דתנינא צא וחשוב כמה פרוטות בשני סלעים יותר מאלפים</row>
+		<row row_number="17" isdata="1">השתא אלפים לא הויין יתר מאלפים קרי להו אמר להו ההוא סבא אנא תנינא</row>
+		<row row_number="18" isdata="1">לה קרוב לאלפים סוף סוף אלפא וחמש מאה ותלתין ושיתא הוא דהויין כיון</row>
+		<row row_number="19" isdata="1">דנפקא להו מפלגא קרוב לאלפים קרי ליה גופא כי אתא רב דימי אמר שיער</row>
+		<row row_number="20" isdata="1">ר' סימאי בדורו כמה היא פרוטה אחד משמנה באיסר האיטלקי וכי אתא</row>
+		<row row_number="21" isdata="1">רבין אמר שיערו ר' דוסתאי ורבי ינאי ור' אושעיא כמה היא פרוטה אחד</row>
+		<row row_number="22" isdata="1">מששה באיסר האיטלקי אמר ליה אביי לרב דימי נימא את ורבין בפלוגתא</row>
+		<row row_number="23" isdata="1">דהני תנאי קא מיפלגיתו דתניא פרוטה שאמרו חכמים אחד משמנה באיסר</row>
+		<row row_number="24" isdata="1">האיטלקי שש מעה כסף דינר מעה שני פונדיונין פונדיון שני איסרין איסר</row>
+		<row row_number="25" isdata="1">שני מוסמיסים מסמס שני קונטרונקין קונטרנק שתי פרוטות נמצא פרוטה</row>
+		<row row_number="26" isdata="1">אחת משמנה באיסר האיטלקי רבן שמעון בן גמליאל אומר שלשה הדרסין</row>
+		<row row_number="27" isdata="1">למעה שני הנצין להדריס שני שמנין להנץ ב' פרוטות לשמין נמצא</row>
+		<row row_number="28" isdata="1">פרוטה אחת מששה באיסר האיטלקי לימא דמר אמר כת"ק ורבין דאמר</row>
+		<row row_number="29" isdata="1">כרשב"ג א"ל בין דידי ובין רבין אליבא דת"ק ולא קשיא הא דאיקור איסורי</row>
+		<row row_number="30" isdata="1">הא דזול איסורי הא דאיקור איסורי קום עשרים וארבע בזוזא הא דזול</row>
+		<row row_number="31" isdata="1">קום תלתין ותרין בזוזא אמר שמואל קידשה בתמרה אפילו עומד כור</row>
+		<row row_number="32" isdata="1">תמרים בדינר מקודשת חיישינן שמא שוה פרוטה במדי והא אנן תנן ב"ה</row>
+		<row row_number="33" isdata="1">אומרים בפרוטה ובשוה פרוטה לא קשיא הא בקידושי ודאי הא בקידושי ספק</row>
+		<row row_number="34" isdata="1">ההוא גברא דאקדיש בזוודא דאורדי יתיב רב שימי בר חייא קמיה דרב וקא</row>
+		<row row_number="35" isdata="1">מעיין בה אי אית בה שוה פרוטה אין אי לא לא ואי לית בה שוה פרוטה לא</row>
+		<row row_number="36" isdata="1">והאמר שמואל חיישינן לא קשיא הא בקידושי ודאי הא בקידושי ספק ההוא</row>
+		<row row_number="37" isdata="1">גברא דאקדיש באבנא דכוחלא יתיב רב חסדא וקא משער ליה אי אית ביה</row>
+		<row row_number="38" isdata="1">שוה פרוטה אין ואי לא לא ואי לית ביה שוה פרוטה לא והא אמר שמואל</row>
+		<row row_number="39" isdata="1">חיישינן רב חסדא לא סבר ליה דשמואל אמרה ליה אימיה והא ההוא יומא</row>
+		<row row_number="40" isdata="1">דקדשה הוה ביה שוה פרוטה אמר לה לאו כל כמינך דאסרת לה אבתרא</row>
+</amud>
+</daf>
+</masechet>
+</root>

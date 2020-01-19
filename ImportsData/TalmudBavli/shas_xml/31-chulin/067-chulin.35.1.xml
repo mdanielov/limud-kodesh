@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:12.514062</dateCreated>
+   <lastModified>2020-01-14 15:04:12.514062</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="35">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט"/><ContGemara/>דליכא כזית בכדי אכילת פרס א"ר יונתן</row>
+		<row row_number="2" isdata="1">אמר רבי האוכל שלישי של תרומה עצמה</row>
+		<row row_number="3" isdata="1">אסור לאכול ומותר ליגע ואיצטריך דעולא</row>
+		<row row_number="4" isdata="1">ואיצטריך דרבי יונתן דאי מדעולא הוה</row>
+		<row row_number="5" isdata="1">אמינא הני מילי בחולין שנעשו על טהרת</row>
+		<row row_number="6" isdata="1">תרומה אבל תרומה בנגיעה נמי אסור</row>
+		<row row_number="7" isdata="1">איצטריך דרבי יונתן ואי מדרבי יונתן הוה</row>
+		<row row_number="8" isdata="1">אמינא הני מילי תרומה אבל חולין באכילה</row>
+		<row row_number="9" isdata="1">נמי שרי צריכי יתיב רב יצחק בר שמואל בר</row>
+		<row row_number="10" isdata="1">מרתא קמיה דר"נ ויתיב וקאמר האוכל</row>
+		<row row_number="11" isdata="1">שלישי של חולין שנעשו על טהרת הקדש</row>
+		<row row_number="12" isdata="1">טהור לאכול בקדש שאין לך דבר שעושה</row>
+		<row row_number="13" isdata="1">רביעי בקדש אלא קדש מקודש בלבד</row>
+		<row row_number="14" isdata="1">מתיב רמי בר חמא שלישי שני לקדש ואין</row>
+		<row row_number="15" isdata="1">שני לתרומה בחולין שנעשו על טהרת</row>
+		<row row_number="16" isdata="1">תרומה אמאי הא לאו קדש מקודש הוא א"ל</row>
+		<row row_number="17" isdata="1">הנח לתרומה שטהרתה טומאה היא אצל</row>
+		<row row_number="18" isdata="1">הקדש ומנא תימרא דתנן בגדי עם הארץ</row>
+		<row row_number="19" isdata="1">מדרס לפרושין בגדי פרושין מדרס לאוכלי</row>
+		<row row_number="20" isdata="1">תרומה בגדי אוכלי תרומה מדרס לקדש</row>
+		<row row_number="21" isdata="1">אמר רבא מדרסות קאמרת שאני מדרסות</row>
+</amud>
+</daf>
+</masechet>
+</root>

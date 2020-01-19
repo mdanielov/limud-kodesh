@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:58.616205</dateCreated>
+   <lastModified>2020-01-14 15:03:58.616205</lastModified>
+ </meta>
+ <masechet name="זבחים" serial="29">
+<daf value="53">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "איזהו מקומן"/><ContGemara/>תנא דבי ר' ישמעאל כרבי שמעון בן יוחי</row>
+		<row row_number="2" isdata="1">אומרים זה וזה יסוד מערבי וסימניך משכו</row>
+		<row row_number="3" isdata="1">גברי לגברא<EndGemara/><StartMishna/>מתני' העולה קדשי קדשים</row>
+		<row row_number="4" isdata="1">שחיטתה בצפון וקיבול דמה בכלי שרת</row>
+		<row row_number="5" isdata="1">בצפון ודמה טעון שתי מתנות שהן ארבע</row>
+		<row row_number="6" isdata="1">וטעונה הפשט וניתוח וכליל לאשים:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="7" isdata="1">עולה מ"ט תני ליה קדשי קדשים משום</row>
+		<row row_number="8" isdata="1">דלא כתיב בה (לה') קדשי קדשים היא:</row>
+		<row row_number="9" isdata="1">ודמה טעון שתי מתנות: היכי עביד אמר</row>
+		<row row_number="10" isdata="1">רב נותן וחוזר ונותן ושמואל אמר מתנה</row>
+		<row row_number="11" isdata="1">אחת כמין גמא נותן כתנאי יכול יזרקנו</row>
+		<row row_number="12" isdata="1">זריקה אחת ת"ל סביב אי סביב יכול יקיפנו</row>
+		<row row_number="13" isdata="1">כחוט ת"ל וזרקו הא כיצד כמין גמא (ודמה</row>
+		<row row_number="14" isdata="1">טעון) שתי מתנות שהן ארבע ר' ישמעאל</row>
+		<row row_number="15" isdata="1">אומר נאמר כאן סביב ונאמר להלן סביב</row>
+		<row row_number="16" isdata="1">מה להלן פיסוק וארבע מתנות אף כאן פיסוק</row>
+		<row row_number="17" isdata="1">וארבע מתנות אי מה להלן ארבע מתנות</row>
+		<row row_number="18" isdata="1">על ארבע קרנות אף כאן ארבע מתנות על</row>
+		<row row_number="19" isdata="1">ארבע קרנות אמרת עולה טעונה יסוד וקרן</row>
+		<row row_number="20" isdata="1">מזרחית דרומית לא היה לה יסוד מ"ט אמר</row>
+		<row row_number="21" isdata="1">ר' אלעזר לפי שלא היתה בחלקו של טורף</row>
+		<row row_number="22" isdata="1">דאמר רב שמואל בר רב יצחק מזבח אוכל</row>
+		<row row_number="23" isdata="1">בחלקו של יהודה אמה אמר רבי לוי</row>
+		<row row_number="24" isdata="1">בר חמא אמר רבי חמא ברבי חנינא</row>
+		<row row_number="25" isdata="1">רצועה היתה יוצאה מחלקו של יהודה ונכנסה</row>
+		<row row_number="26" isdata="1">בחלקו של בנימין והיה בנימין הצדיק</row>
+		<row row_number="27" isdata="1">מצטער עליה בכל יום לנוטלה שנאמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

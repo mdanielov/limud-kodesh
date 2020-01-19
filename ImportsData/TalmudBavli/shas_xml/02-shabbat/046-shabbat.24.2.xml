@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:10.880177</dateCreated>
+   <lastModified>2020-01-14 15:02:10.880177</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="24">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה מדליקין"/><ContGemara/>ולית הילכתא ככל הני שמעתתא אלא כי</row>
+		<row row_number="2" isdata="1">הא דא"ר יהושע בן לוי יום הכפורים שחל</row>
+		<row row_number="3" isdata="1">להיות בשבת המתפלל נעילה צריך להזכיר</row>
+		<row row_number="4" isdata="1">של שבת יום הוא שנתחייב בארבע</row>
+		<row row_number="5" isdata="1">תפלות קשיא הילכתא אהילכתא אמרת</row>
+		<row row_number="6" isdata="1">הילכתא כריב"ל וקיימא לן הילכתא כרבא</row>
+		<row row_number="7" isdata="1">דאמר רבא יו"ט שחל להיות בשבת שליח</row>
+		<row row_number="8" isdata="1">ציבור היורד לפני התיבה ערבית אינו צריך</row>
+		<row row_number="9" isdata="1">להזכיר של יום טוב שאילמלא שבת אין</row>
+		<row row_number="10" isdata="1">שליח צבור יורד ערבית ביו"ט הכי השתא</row>
+		<row row_number="11" isdata="1">התם בדין הוא דאפילו בשבת נמי לא צריך</row>
+		<row row_number="12" isdata="1">ורבנן הוא דתקוני משום סכנה אבל הכא</row>
+		<row row_number="13" isdata="1">יום הוא שנתחייב בארבע תפלות: ולא</row>
+		<row row_number="14" isdata="1">באליה כו': חכמים היינו תנא קמא איכא</row>
+		<row row_number="15" isdata="1">בינייהו דרב ברונא אמר רב ולא מסיימי:</row>
+		<row row_number="16" isdata="1"><EndGemara/><StartMishna/>מתני' אין מדליקין בשמן שריפה ביו"ט</row>
+		<row row_number="17" isdata="1">רבי ישמעאל אומר אין מדליקין בעטרן</row>
+		<row row_number="18" isdata="1">מפני כבוד השבת וחכמים מתירין בכל</row>
+		<row row_number="19" isdata="1">השמנים בשמן שומשמין בשמן אגוזים</row>
+		<row row_number="20" isdata="1">בשמן צנונות בשמן דגים בשמן פקועות</row>
+		<row row_number="21" isdata="1">בעטרן ובנפט ר' טרפון אומר אין מדליקין</row>
+		<row row_number="22" isdata="1">אלא בשמן זית בלבד:<EndMishna/><StartGemara/>גמ' מ"ט לפי</row>
+		<row row_number="23" isdata="1">שאין שורפין קדשים ביו"ט מנהני מילי אמר</row>
+		<row row_number="24" isdata="1">חזקיה וכן תנא דבי חזקיה אמר קרא ולא</row>
+		<row row_number="25" isdata="1">תותירו ממנו עד בקר והנותר ממנו עד</row>
+		<row row_number="26" isdata="1">בקר שאין ת"ל עד בקר מה ת"ל עד בקר</row>
+		<row row_number="27" isdata="1">בא הכתוב ליתן לו בקר שני לשריפתו אביי</row>
+		<row row_number="28" isdata="1">אמר אמר קרא עולת שבת בשבתו ולא</row>
+		<row row_number="29" isdata="1">עולת חול בשבת ולא עולת חול ביו"ט רבא</row>
+		<row row_number="30" isdata="1">אמר אמר קרא הוא לבדו יעשה לכם הוא</row>
+		<row row_number="31" isdata="1">ולא מכשירין לבדו ולא מילה שלא בזמנה</row>
+		<row row_number="32" isdata="1">דאתיא בק"ו רב אשי אמר (שבת) שבתון</row>
+</amud>
+</daf>
+</masechet>
+</root>

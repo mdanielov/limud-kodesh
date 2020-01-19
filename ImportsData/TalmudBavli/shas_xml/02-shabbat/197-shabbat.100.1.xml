@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:14.687602</dateCreated>
+   <lastModified>2020-01-14 15:02:14.687602</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="100">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הזורק"/><ContGemara/>לאו היינו הנחתן בעי רבא אגוז בכלי וכלי</row>
+		<row row_number="2" isdata="1">צף על גבי מים מהו מי אמרינן בתר אגוז</row>
+		<row row_number="3" isdata="1">אזלינן והא נייח או דילמא בתר כלי אזלינן</row>
+		<row row_number="4" isdata="1">והא לא נייח תיקו שמן על גבי יין מחלוקת</row>
+		<row row_number="5" isdata="1">ר' יוחנן בן נורי ורבנן דתנן שמן שצף על</row>
+		<row row_number="6" isdata="1">גבי יין ונגע טבול יום בשמן לא פסל אלא</row>
+		<row row_number="7" isdata="1">שמן ר' יוחנן בן נורי אומר שניהם חיבור זה</row>
+		<row row_number="8" isdata="1">לזה אמר אביי בור ברה"ר עמוקה עשרה</row>
+		<row row_number="9" isdata="1">ורחבה שמנה וזרק לתוכה מחצלת חייב</row>
+		<row row_number="10" isdata="1">חילקה במחצלת פטור לאביי דפשיטא ליה</row>
+		<row row_number="11" isdata="1">דמחצלת מבטלא מחיצה כל שכן חוליא</row>
+		<row row_number="12" isdata="1">דמבטלא מחיצה לרבי יוחנן דמיבעיא ליה</row>
+		<row row_number="13" isdata="1">חוליא מחצלת פשיטא דלא מבטלא מחיצת'</row>
+		<row row_number="14" isdata="1">ואמר אביי בור ברה"ר עמוקה עשרה ורחבה</row>
+		<row row_number="15" isdata="1">ארבעה מלאה מים וזרק לתוכה חייב מלאה</row>
+		<row row_number="16" isdata="1">פירות וזרק לתוכה פטור מ"ט מים לא</row>
+		<row row_number="17" isdata="1">מבטלי מחיצתא פירות מבטלי מחיצתא</row>
+		<row row_number="18" isdata="1">תניא נמי הכי הזורק מן הים לאיסרטיא ומן</row>
+		<row row_number="19" isdata="1">האיסרטיא לים פטור ר"ש אומר אם יש</row>
+		<row row_number="20" isdata="1">במקום שזרק עמוק עשרה ורחב ארבעה</row>
+		<row row_number="21" isdata="1">חייב<EndGemara/><StartMishna/>מתני' הזורק ארבע אמות בכותל</row>
+		<row row_number="22" isdata="1">למעלה מעשרה טפחים כזורק באויר למטה</row>
+		<row row_number="23" isdata="1">מעשרה טפחים כזורק בארץ הזורק בארץ</row>
+		<row row_number="24" isdata="1">ארבע אמות חייב:<EndMishna/><StartGemara/>גמ' והא לא נח א"ר</row>
+		<row row_number="25" isdata="1">יוחנן בדבילה שמינה שנינו א"ר יהודה</row>
+		<row row_number="26" isdata="1">אמר רב א"ר חייא זרק למעלה מעשרה</row>
+		<row row_number="27" isdata="1">והלכה ונחה בחור כל שהוא באנו למחלוקת</row>
+		<row row_number="28" isdata="1">ר' מאיר ורבנן לר"מ דאמר חוקקין להשלים</row>
+		<row row_number="29" isdata="1">מיחייב לרבנן דאמרי אין חוקקין להשלים</row>
+		<row row_number="30" isdata="1">לא מיחייב תניא נמי הכי זרק למעלה</row>
+		<row row_number="31" isdata="1">מעשרה והלכה ונחה בחור כל שהוא ר"מ</row>
+		<row row_number="32" isdata="1">מחייב וחכמים פוטרין א"ר יהודה אמר רב תל</row>
+		<row row_number="33" isdata="1">המתלקט עשרה מתוך ארבע וזרק ונח על</row>
+		<row row_number="34" isdata="1">גביו חייב תנ"ה מבוי ששוה לתוכו ונעשה</row>
+		<row row_number="35" isdata="1">מדרון לרה"ר או שוה לרה"ר ונעשה מדרון</row>
+		<row row_number="36" isdata="1">לתוכו אותו מבוי אינו צריך לא לחי ולא</row>
+		<row row_number="37" isdata="1">קורה רבי חנינא בן גמליאל אומר תל</row>
+		<row row_number="38" isdata="1">המתלקט עשרה מתוך ארבע וזרק ונח על</row>
+		<row row_number="39" isdata="1">גביו חייב<EndGemara/><StartMishna/>מתני' זרק לתוך ד' אמות</row>
+		<row row_number="40" isdata="1">ונתגלגל חוץ לד' אמות פטור חוץ לד' אמות</row>
+		<row row_number="41" isdata="1">ונתגלגל לתוך ד' אמות חייב:<EndMishna/><StartGemara/>גמ' והא לא</row>
+		<row row_number="42" isdata="1">נח אמר ר' יוחנן והוא שנח על גבי משהו</row>
+		<row row_number="43" isdata="1">תניא נמי הכי זרק חוץ לד' אמות ודחפתו</row>
+		<row row_number="44" isdata="1">הרוח והכניסתו ואע"פ שחזרה והוציאתו</row>
+		<row row_number="45" isdata="1">פטור אחזתו הרוח משהו אף על פי שחזרה</row>
+		<row row_number="46" isdata="1">והכניסתו חייב אמר רבא תוך ג' לרבנן</row>
+		<row row_number="47" isdata="1">צריך הנחה על גבי משהו יתיב מרימר וקאמר</row>
+		<row row_number="48" isdata="1">לה להא שמעתא אמר ליה רבינא למרימר</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:21.857430</dateCreated>
+   <lastModified>2020-01-14 15:02:21.857430</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="42">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "במה טומנין"/><ContGemara/>רבי נחמיה אומר במקומן יאכלו שלא</row>
+		<row row_number="2" isdata="1">במקומן לא יאכלו מאי במקומן אילימא</row>
+		<row row_number="3" isdata="1">במקומן במזיד והא קתני בהדיא רבי</row>
+		<row row_number="4" isdata="1">נחמיה ורבי אליעזר בן יעקב אומרים</row>
+		<row row_number="5" isdata="1">לעולם אסורין עד שיחזרו למקומן שוגגין</row>
+		<row row_number="6" isdata="1">בשוגג אין במזיד לא אלא לאו במקומן</row>
+		<row row_number="7" isdata="1">בשוגג וחסורי מחסרא והכי קתני פירות</row>
+		<row row_number="8" isdata="1">שיצאו חוץ לתחום בשוגג יאכלו במזיד לא</row>
+		<row row_number="9" isdata="1">יאכלו במה דברים אמורים שלא במקומן</row>
+		<row row_number="10" isdata="1">אבל במקומן אפילו במזיד יאכלו ואתא ר'</row>
+		<row row_number="11" isdata="1">נחמיה למימר אפי' במקומן נמי בשוגג אין</row>
+		<row row_number="12" isdata="1">במזיד לא לא במזיד במקומן דכולי עלמא לא</row>
+		<row row_number="13" isdata="1">פליגי דאסור והכא בשוגג שלא במקומן</row>
+		<row row_number="14" isdata="1">פליגי תנא קמא סבר בשוגג שרי שלא במקומן</row>
+		<row row_number="15" isdata="1">ורבי נחמיה סבר אפילו שוגג במקומן אין</row>
+		<row row_number="16" isdata="1">שלא במקומן לא והא מדקתני סיפא רבי</row>
+		<row row_number="17" isdata="1">נחמיה ורבי אליעזר בן יעקב אומרים לעולם</row>
+		<row row_number="18" isdata="1">אסורין עד שיחזרו למקומן שוגגין שוגג אין</row>
+		<row row_number="19" isdata="1">במזיד לא מכלל דת"ק סבר במזיד נמי שרי</row>
+		<row row_number="20" isdata="1">שמע מינה: אמר רב נחמן אמר שמואל</row>
+		<row row_number="21" isdata="1">היה מהלך ואינו יודע תחום שבת מהלך</row>
+		<row row_number="22" isdata="1">אלפים פסיעות בינוניות וזו היא תחום</row>
+		<row row_number="23" isdata="1">שבת ואמר רב נחמן אמר שמואל</row>
+		<row row_number="24" isdata="1">שבת בבקעה והקיפוה נכרים מחיצה</row>
+		<row row_number="25" isdata="1">בשבת מהלך אלפים אמה ומטלטל בכולה</row>
+		<row row_number="26" isdata="1">על ידי זריקה ורב הונא אמר מהלך אלפים</row>
+		<row row_number="27" isdata="1">אמה ומטלטל ד' אמות וניטלטל בכולה</row>
+		<row row_number="28" isdata="1">על ידי זריקה שמא ימשך אחר חפצו</row>
+		<row row_number="29" isdata="1">באלפים מיהת ליטלטל כי אורחיה משום</row>
+		<row row_number="30" isdata="1">דהוי כמחיצה שנפרצה במלואה למקום</row>
+		<row row_number="31" isdata="1">האסור לה חייא בר רב אמר מהלך אלפים</row>
+		<row row_number="32" isdata="1">אמה ומטלטל באלפים אמה כמאן דלא כרב</row>
+		<row row_number="33" isdata="1">נחמן ולא כרב הונא אימא מטלטל בארבע</row>
+		<row row_number="34" isdata="1">אי הכי היינו דרב הונא אימא וכן אמר רבי</row>
+		<row row_number="35" isdata="1">חייא בר רב א"ל רב נחמן לרב הונא לא</row>
+		<row row_number="36" isdata="1">תיפלוג עליה דשמואל דתניא כוותיה דתניא</row>
+</amud>
+</daf>
+</masechet>
+</root>

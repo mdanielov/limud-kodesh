@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.683241</dateCreated>
+   <lastModified>2020-01-14 15:03:00.683241</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="17">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו מותרין"/><ContGemara/>אין נדר בתוך נדר קשי' תנן יש נדר בתוך נדר</row>
+		<row row_number="2" isdata="1">ואין שבועה בתוך שבועה היכי דמי אילימא</row>
+		<row row_number="3" isdata="1">דאמר הריני נזיר היום הריני נזיר למחר דכוות'</row>
+		<row row_number="4" isdata="1">גבי שבועה שלא אוכל תאנים וחזר ואמר</row>
+		<row row_number="5" isdata="1">שבועה שלא אוכל ענבים אמאי לא חלה</row>
+		<row row_number="6" isdata="1">שבועה על שבועה אלא היכי דמי דלא חלה</row>
+		<row row_number="7" isdata="1">שבועה על שבועה כגון דאמר שבועה שלא</row>
+		<row row_number="8" isdata="1">אוכל תאנים וחזר ואמר שבועה שלא אוכל</row>
+		<row row_number="9" isdata="1">תאנים דכוותה גבי נזירות היכי דמי דאמר</row>
+		<row row_number="10" isdata="1">הריני נזיר היום הריני נזיר היום וקתני יש נדר</row>
+		<row row_number="11" isdata="1">בתוך נדר קשיא לרב הונא אמר לך רב הונא</row>
+		<row row_number="12" isdata="1"><EndGemara/><StartMishna/>מתני' דאמר הריני נזיר היום הריני נזיר למחר</row>
+		<row row_number="13" isdata="1">דכוותה גבי שבועה דאמר שלא אוכל תאנים</row>
+		<row row_number="14" isdata="1">וחזר ואמר שבועה שלא אוכל תאנים וענבים</row>
+		<row row_number="15" isdata="1">דלא חיילא והאמר רבה שבועה שלא אוכל</row>
+		<row row_number="16" isdata="1">תאנים וחזר ואמר שבועה שלא אוכל תאנים</row>
+		<row row_number="17" isdata="1">וענבים ואכל תאנים והפריש קרבן וחזר ואכל</row>
+		<row row_number="18" isdata="1">ענבים הויא להו ענבים חצי שיעור ואין</row>
+		<row row_number="19" isdata="1">מביאים קרבן על חצי שיעור אלמא היכא</row>
+		<row row_number="20" isdata="1">דאמר שבועה שלא אוכל תאנים וחזר ואמר</row>
+		<row row_number="21" isdata="1">שבועה שלא אוכל תאנים וענבים מיגו דחל</row>
+		<row row_number="22" isdata="1">שבועה על ענבים חיילא נמי על תאנים רב</row>
+		<row row_number="23" isdata="1">הונא לא סבירא ליה כרבה מיתיבי מי שנזר</row>
+		<row row_number="24" isdata="1">שתי נזירות מנה את הראשונה והפריש</row>
+		<row row_number="25" isdata="1">קרבן ונשאל עליה עלתה לו שניה</row>
+		<row row_number="26" isdata="1">בראשונה היכי דמי אילימא דאמר הריני</row>
+		<row row_number="27" isdata="1">נזיר היום הריני נזיר למחר אמאי עלתה לו</row>
+		<row row_number="28" isdata="1">שניה בראשונה הא איכא יומא יתירא אלא</row>
+		<row row_number="29" isdata="1">פשיטא דאמר הריני נזיר היום הריני נזיר היום</row>
+</amud>
+</daf>
+</masechet>
+</root>

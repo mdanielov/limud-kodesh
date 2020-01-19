@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:34.881162</dateCreated>
+   <lastModified>2020-01-14 15:02:34.881162</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="2">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "שבעת ימים"/><ContGemara/>ואימא צוה [צוה] דיום הכפורים דכתיב</row>
+		<row row_number="2" isdata="1">ויעש כאשר צוה ה' את משה דנין צוה</row>
+		<row row_number="3" isdata="1">דלפני עשיה מצוה דלפני עשיה ואין דנין</row>
+		<row row_number="4" isdata="1">צוה דלאחר עשיה מצוה דלפני עשיה ואימא</row>
+		<row row_number="5" isdata="1">צוה דקרבנות דכתיב ביום צותו את בני</row>
+		<row row_number="6" isdata="1">ישראל דנין צוה מצוה ואין דנין צותו מצוה</row>
+		<row row_number="7" isdata="1">ומאי נפקא מינה והתנא דבי רבי ישמעאל</row>
+		<row row_number="8" isdata="1">ושב הכהן ובא הכהן זו היא שיבה זו היא</row>
+		<row row_number="9" isdata="1">ביאה הני מילי היכא דליכא דדמי ליה</row>
+		<row row_number="10" isdata="1">אבל היכא דאיכא דדמי ליה מדדמי ליה</row>
+		<row row_number="11" isdata="1">ילפינן לכפר אלו מעשה יום הכפורים ואימא</row>
+		<row row_number="12" isdata="1">כפרה דקרבנות מי ידעינן הי כהן מתרמי</row>
+		<row row_number="13" isdata="1">דבעי ליה פרישה אמרי אלמה לא ניבעי ליה</row>
+		<row row_number="14" isdata="1">פרישה לכוליה משמרת בית אב דנין דבר</row>
+		<row row_number="15" isdata="1">שקבוע לו זמן מדבר שקבוע לו זמן לאפוקי</row>
+		<row row_number="16" isdata="1">קרבנות דכל יומא איתנהו ואימא רגלים</row>
+		<row row_number="17" isdata="1">דנין דבר שנוהג פעם אחת בשנה מדבר</row>
+		<row row_number="18" isdata="1">הנוהג פעם אחת בשנה לאפוקי רגלים דלאו</row>
+		<row row_number="19" isdata="1">פעם אחת בשנה נינהו ואימא רגל אחד</row>
+		<row row_number="20" isdata="1">וכי תימא לא ידעינן הי מינייהו אי חג המצות</row>
+		<row row_number="21" isdata="1">הואיל ופתח בו הכתוב תחלה אי חג הסוכות</row>
+		<row row_number="22" isdata="1">הואיל ומרובה מצותו אלא דנין פרישת שבעה ליום אחד מפרישת שבעה</row>
+		<row row_number="23" isdata="1">ליום אחד ואין דנין פרישת שבעה לשבעה מפרישת שבעה ליום אחד ואימא</row>
+		<row row_number="24" isdata="1">שמיני דפרישת שבעה ליום אחד הוא דנין דבר שאין קדושה לפניו מדבר</row>
+		<row row_number="25" isdata="1">שאין קדושה לפניו ואין דנין דבר שיש קדושה לפניו מדבר שאין קדושה</row>
+		<row row_number="26" isdata="1">לפניו ולאו קל וחומר הוא השתא דבר שאין קדושה לפניו בעי פרישה</row>
+		<row row_number="27" isdata="1">דבר שיש קדושה לפניו לא כל שכן אמר רב משרשיא לא הזה כתיב כזה</row>
+		<row row_number="28" isdata="1">רב אשי אמר מי איכא מידי דעיקר רגל לא בעי פרישה טפל דידיה בעי</row>
+		<row row_number="29" isdata="1">פרישה ואפילו למאן דאמר שמיני רגל בפני עצמו הוא הני מילי לענין</row>
+</amud>
+</daf>
+</masechet>
+</root>

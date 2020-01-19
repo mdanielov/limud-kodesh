@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:32.696007</dateCreated>
+   <lastModified>2020-01-14 15:04:32.696007</lastModified>
+ </meta>
+ <masechet name="נידה" serial="37">
+<daf value="50">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "בא סימן"/><ContGemara/>רבי מאיר היא דתניא היה רבי מאיר אומר</row>
+		<row row_number="2" isdata="1">מה ת"ל על פיהם יהיה כל ריב וכל נגע וכי</row>
+		<row row_number="3" isdata="1">מה ענין ריבים אצל נגעים מקיש ריבים</row>
+		<row row_number="4" isdata="1">לנגעים מה נגעים ביום דכתיב וביום הראות</row>
+		<row row_number="5" isdata="1">בו אף ריבים ביום ומה נגעים שלא בסומא</row>
+		<row row_number="6" isdata="1">דכתיב לכל מראה עיני הכהן אף ריבים שלא</row>
+		<row row_number="7" isdata="1">בסומא ומקיש נגעים לריבים מה ריבים שלא</row>
+		<row row_number="8" isdata="1">בקרובים אף נגעים שלא בקרובים אי מה</row>
+		<row row_number="9" isdata="1">ריבים בשלשה אף נגעים בשלשה ודין הוא</row>
+		<row row_number="10" isdata="1">ממונו בשלשה גופו לא כ"ש ת"ל והובא אל</row>
+		<row row_number="11" isdata="1">אהרן הכהן או אל אחד מבניו הכהנים הא</row>
+		<row row_number="12" isdata="1">למדת שאפילו כהן אחד רואה את הנגעים</row>
+		<row row_number="13" isdata="1">ההוא סמיא דהוה בשבבותיה דרבי יוחנן</row>
+		<row row_number="14" isdata="1">דהוה קדיין דינא ולא קאמר ליה ולא מידי</row>
+		<row row_number="15" isdata="1">היכי עביד הכי והאמר רבי יוחנן הלכה</row>
+		<row row_number="16" isdata="1">כסתם משנה ותנן כל הכשר לדון כשר</row>
+		<row row_number="17" isdata="1">להעיד ויש כשר להעיד ואין כשר לדון</row>
+		<row row_number="18" isdata="1">ואמרינן לאתויי מאי ואמר רבי יוחנן לאתויי</row>
+		<row row_number="19" isdata="1">סומא באחת מעיניו רבי יוחנן סתמא אחרינא</row>
+		<row row_number="20" isdata="1">אשכח דתנן דיני ממונות דנין ביום וגומרין</row>
+		<row row_number="21" isdata="1">בלילה ומאי אולמיה דהאי סתמא מהאי</row>
+		<row row_number="22" isdata="1">סתמא איבעית אימא סתמא דרבים עדיף</row>
+		<row row_number="23" isdata="1">ואיבעית אימא משום דקתני לה גבי הלכתא</row>
+		<row row_number="24" isdata="1">דדיני<EndGemara/><StartMishna/>מתני' כל שחייב במעשרות מטמא</row>
+		<row row_number="25" isdata="1">טומאת אוכלין ויש שמטמא טומאת אוכלין</row>
+		<row row_number="26" isdata="1">ואינו חייב במעשרות:<EndMishna/><StartGemara/>גמ' לאתויי מאי</row>
+		<row row_number="27" isdata="1">לאתויי בשר ודגים וביצים<EndGemara/><StartMishna/>מתני' כל</row>
+		<row row_number="28" isdata="1">שחייב בפאה חייב במעשרות ויש שחייב במעשרות ואינו חייב בפאה:<EndMishna/><StartGemara/>גמ'</row>
+		<row row_number="29" isdata="1">לאתויי מאי לאתויי תאנה וירק שאינו חייב בפאה דתנן כלל אמרו בפאה כל</row>
+		<row row_number="30" isdata="1">שהוא אוכל ונשמר וגידולו מן הארץ ולקיטתו כאחד ומכניסו לקיום חייב</row>
+		<row row_number="31" isdata="1">בפאה אוכל למעוטי ספיחי סטים וקוצה ונשמר למעוטי הפקר וגידולו מן</row>
+		<row row_number="32" isdata="1">הארץ למעוטי כמהים ופטריות ולקיטתו כאחד למעוטי תאנה ומכניסו</row>
+		<row row_number="33" isdata="1">לקיום למעוטי ירק ואילו גבי מעשר תנן כל שהוא אוכל ונשמר וגידולו</row>
+		<row row_number="34" isdata="1">מן הארץ חייב במעשרות ואילו לקיטתו כאחד ומכניסו לקיום לא קתני</row>
+		<row row_number="35" isdata="1">אם היו בהם שומים ובצלין חייבין דתנן מלבנות בצלים שבין הירק</row>
+		<row row_number="36" isdata="1">ר' יוסי אומר פאה מכל אחת ואחת וחכ"א מאחת על הכל אמר רבה בר</row>
+		<row row_number="37" isdata="1">בר חנה א"ר יוחנן עולשין שזרען מתחילה לבהמה ונמלך עליהן לאדם</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:37.998574</dateCreated>
+   <lastModified>2020-01-14 15:03:37.998574</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="168">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "גט פשוט "/><ContGemara/>כיון שהגיד שוב אינו חוזר ומגיד צורבא</row>
+		<row row_number="2" isdata="1">מרבנן לאו אורחיה למידק ההוא תברא דהוה</row>
+		<row row_number="3" isdata="1">חתים עליה רב ירמיה בר אבא אמרה ליה לאו</row>
+		<row row_number="4" isdata="1">אנא הואי אמר לה איברא אנת הות אמר</row>
+		<row row_number="5" isdata="1">אביי אע"ג דצורבא מרבנן לאו אורחיה למידק</row>
+		<row row_number="6" isdata="1">כיון דדק דק אמר אביי האי צורבא מרבנן</row>
+		<row row_number="7" isdata="1">דאזיל לקדושי איתתא נידבר עם הארץ בהדיה</row>
+		<row row_number="8" isdata="1">דלמא מחלפו לה מיניה: והבעל נותן שכר</row>
+		<row row_number="9" isdata="1">וכו': מאי טעמא דאמר קרא וכתב ונתן</row>
+		<row row_number="10" isdata="1">והאידנא דלא עבדינן הכי שדיוהו רבנן</row>
+		<row row_number="11" isdata="1">אאשה כי היכי דלא לשהייה: כותבין שטר</row>
+		<row row_number="12" isdata="1">ללוה אף על פי שאין מלוה עמו וכו': פשיטא</row>
+		<row row_number="13" isdata="1">לא צריכא בעיסקא: כותבין שטר למוכר אף</row>
+		<row row_number="14" isdata="1">על פי שאין לוקח וכו': פשיטא לא צריכא</row>
+		<row row_number="15" isdata="1">במוכר שדהו מפני רעתה: אין כותבין שטרי</row>
+		<row row_number="16" isdata="1">אירוסין וכו': פשיטא לא צריכא דאפילו</row>
+		<row row_number="17" isdata="1">צורבא מרבנן דניחא ליה לחמוה לקרוביה:</row>
+		<row row_number="18" isdata="1">אין כותבין שטר אריסות וקבלנות וכו':</row>
+		<row row_number="19" isdata="1">פשיטא לא צריכא בבורה: אין כותבין שטרי</row>
+		<row row_number="20" isdata="1">בירורין אלא מדעת שניהם וכו': מאי שטרי</row>
+		<row row_number="21" isdata="1">בירורין הכא תרגימו שטרי טענתא רב ירמיה</row>
+		<row row_number="22" isdata="1">בר אבא אמר זה בורר לו אחד וזה בורר</row>
+		<row row_number="23" isdata="1">לו אחד: ר"ש בן גמליאל אומר לשניהם</row>
+		<row row_number="24" isdata="1">כותבין שנים לזה בעצמו ולזה בעצמו: לימא</row>
+		<row row_number="25" isdata="1">בכופין על מדת סדום קא מיפלגי דמר סבר</row>
+		<row row_number="26" isdata="1">כופין ומר סבר אין כופין לא דכולי עלמא כופין</row>
+		<row row_number="27" isdata="1">והכא היינו טעמא דר"ש בן גמליאל דאמר ליה</row>
+		<row row_number="28" isdata="1">לא ניחא לי דתהוי זכותך גבי זכותי דדמית</row>
+		<row row_number="29" isdata="1">עלאי כי אריא ארבא<EndGemara/><StartMishna/>מתני' מי שפרע</row>
+		<row row_number="30" isdata="1">מקצת חובו והשליש את שטרו ואמר לו אם</row>
+		<row row_number="31" isdata="1">לא (נתתי) לך מכאן ועד יום פלוני תן לו</row>
+		<row row_number="32" isdata="1">שטרו הגיע זמן ולא נתן רבי יוסי אומר יתן רבי</row>
+		<row row_number="33" isdata="1">יהודה אומר לא יתן:<EndMishna/><StartGemara/>גמ' במאי קמיפלגי</row>
+		<row row_number="34" isdata="1">ר' יוסי סבר אסמכתא קניא ורבי יהודה סבר</row>
+		<row row_number="35" isdata="1">אסמכתא לא קניא אמר רב נחמן אמר רבה</row>
+		<row row_number="36" isdata="1">בר אבוה אמר רב הלכה כרבי יוסי כי אתו</row>
+		<row row_number="37" isdata="1">לקמיה דרבי אמי אמר להו וכי מאחר שרבי</row>
+		<row row_number="38" isdata="1">יוחנן מלמדנו פעם ראשונה ושניה הלכה</row>
+		<row row_number="39" isdata="1">כרבי יוסי אני מה אעשה ואין הלכה כרבי</row>
+		<row row_number="40" isdata="1">יוסי<EndGemara/><StartMishna/>מתני' מי שנמחק שטר חובו מעמיד</row>
+		<row row_number="41" isdata="1">עליו עדים ובא לפני בית דין ועושין לו קיום</row>
+		<row row_number="42" isdata="1">איש פלוני בן פלוני נמחק שטרו ביום פלוני</row>
+</amud>
+</daf>
+</masechet>
+</root>

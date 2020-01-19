@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:14.100689</dateCreated>
+   <lastModified>2020-01-14 15:04:14.100689</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="68">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "בהמה המקשה"/><ContGemara/>הבשר מגע נבלה דברי רבי מאיר וחכמים</row>
+		<row row_number="2" isdata="1">אומרים מגע טרפה שחוטה קתני מיהא</row>
+		<row row_number="3" isdata="1">רישא הוציא עובר את ידו והחזירה ואחר</row>
+		<row row_number="4" isdata="1">כך שחט את אמו מותר באכילה מאי לאו</row>
+		<row row_number="5" isdata="1">אאבר לא אעובר אי אעובר אימא סיפא</row>
+		<row row_number="6" isdata="1">שחט את אמו ואחר כך החזירו אסור</row>
+		<row row_number="7" isdata="1">באכילה ואי עובר אמאי אסור כדאמר רב</row>
+		<row row_number="8" isdata="1">נחמן בר יצחק לא נצרכה אלא למקום</row>
+		<row row_number="9" isdata="1">חתך הכא נמי לא נצרכה אלא למקום</row>
+		<row row_number="10" isdata="1">חתך איני והא כי אתא אבימי מבי חוזאי</row>
+		<row row_number="11" isdata="1">אתא ואייתי מתניתא בידיה פרסה החזיר</row>
+		<row row_number="12" isdata="1">אכול פרסות החזיר אכול מאי לאו החזיר</row>
+		<row row_number="13" isdata="1">פרסה אכול פרסה לא החזיר פרסה אכול</row>
+		<row row_number="14" isdata="1">עובר אי עובר מאי איריא החזיר אפילו לא</row>
+		<row row_number="15" isdata="1">החזיר נמי אמר רב נחמן בר יצחק לא</row>
+		<row row_number="16" isdata="1">נצרכה אלא למקום חתך והא תרי קראי</row>
+		<row row_number="17" isdata="1">קא נסיב לה מאי לאו חד לאבר וחד</row>
+		<row row_number="18" isdata="1">למקום חתך לא חד למקום חתך וחד</row>
+		<row row_number="19" isdata="1">לקלוט במעי פרה ואליבא דרבי שמעון</row>
+		<row row_number="20" isdata="1">דאמר רבי שמעון קלוט בן פרה אסור ה"מ</row>
+		<row row_number="21" isdata="1">היכא דיצא לאויר העולם אבל במעי אמו</row>
+		<row row_number="22" isdata="1">שרי עולא אמר רבי יוחנן ואבר עצמו מותר</row>
+		<row row_number="23" isdata="1">אמר ליה רב יהודה לעולא והא רב ושמואל</row>
+		<row row_number="24" isdata="1">דאמרי תרוייהו אבר עצמו אסור אמר ליה</row>
+		<row row_number="25" isdata="1">מאן יהיב לן מעפרא דרב ושמואל ומלינן</row>
+		<row row_number="26" isdata="1">עיינין אלא הכי אמר רבי יוחנן הכל היו</row>
+		<row row_number="27" isdata="1">בכלל בשר בשדה טרפה לא תאכלו</row>
+		<row row_number="28" isdata="1">כשפרט לך הכתוב גבי חטאת שיצתה</row>
+		<row row_number="29" isdata="1">חוץ למחיצתה וחזרה אסור חטאת הוא</row>
+		<row row_number="30" isdata="1">דפרט רחמנא בה אבל כל מילי כיון דהדור</row>
+		<row row_number="31" isdata="1">שרי מיתיבי בשר בשדה טרפה לא תאכלו</row>
+		<row row_number="32" isdata="1">מה תלמוד לומר לפי שמצינו במעשר שני</row>
+		<row row_number="33" isdata="1">ובכורים שאף על פי שיצאו חוץ למחיצתן</row>
+		<row row_number="34" isdata="1">וחזרו מותרין יכול אף זה כן תלמוד לומר</row>
+		<row row_number="35" isdata="1">טרפה מאי תלמודא אמר רבה כטרפה</row>
+		<row row_number="36" isdata="1">מה טרפה כיון שנטרפה שוב אין לה היתר</row>
+		<row row_number="37" isdata="1">אף בשר כיון שיצא חוץ למחיצתו שוב</row>
+		<row row_number="38" isdata="1">אין לו היתר תיובתא דעולא תיובתא אמר</row>
+		<row row_number="39" isdata="1">מר לפי שמצינו במעשר שני ובכורים</row>
+		<row row_number="40" isdata="1">היכן מצינו דכתיב לא תוכל לאכול</row>
+		<row row_number="41" isdata="1">בשעריך מעשר דגנך וגו' בשעריך הוא</row>
+		<row row_number="42" isdata="1">דלא תיכול אבל יצאו חוץ למחיצתן וחזרו</row>
+		<row row_number="43" isdata="1">מותרין במערבא מתנו הכי רב אמר יש</row>
+		<row row_number="44" isdata="1">לידה לאברים ורבי יוחנן אמר אין לידה</row>
+		<row row_number="45" isdata="1">לאברים מאי בינייהו איכא בינייהו למיסר</row>
+		<row row_number="46" isdata="1">מיעוט אבר שבפנים איבעיא להו לדברי</row>
+		<row row_number="47" isdata="1">האומר אין לידה לאברים הוציא העובר</row>
+		<row row_number="48" isdata="1">את ידו והחזירה וחזר והוציא את ידו והחזירה עד שהשלימו לרובו מהו מי</row>
+		<row row_number="49" isdata="1">אמרינן הא נפק ליה רובא או דלמא כיון דהדר הדר אם תמצי לומר כיון דהדר</row>
+		<row row_number="50" isdata="1">הדר הוציא עובר את ידו וחתכה וחזר והוציא את ידו וחתכה עד שהשלימו לרובו</row>
+		<row row_number="51" isdata="1">מהו מי אמרינן הא נפיק ליה רובא או דלמא רובא בבת אחת בעינן תא שמע</row>
+</amud>
+</daf>
+</masechet>
+</root>

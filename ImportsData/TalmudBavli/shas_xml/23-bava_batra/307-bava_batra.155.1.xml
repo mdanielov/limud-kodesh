@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:37.263459</dateCreated>
+   <lastModified>2020-01-14 15:03:37.263459</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="155">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מי שמת"/><ContGemara/>הכי קאמר ליה רבי יוחנן לר' שמעון בן לקיש</row>
+		<row row_number="2" isdata="1">בשלמא לדידי דאמינא ראיה בקיום השטר</row>
+		<row row_number="3" isdata="1">היינו דמשכחת לה דנחתי לקוחות לנכסים</row>
+		<row row_number="4" isdata="1">אלא לדידך דאמרת ראיה בעדים היכי</row>
+		<row row_number="5" isdata="1">משכחת לה דנחתי לקוחות בנכסים אמר</row>
+		<row row_number="6" isdata="1">ליה מודינא לך בערער דבני משפחה דלאו</row>
+		<row row_number="7" isdata="1">ערער הוא מאי קאמרי קטן היה חזקה אין</row>
+		<row row_number="8" isdata="1">העדים חותמין על השטר אלא אם כן נעשה</row>
+		<row row_number="9" isdata="1">גדול איתמר קטן מאימתי מוכר בנכסי אביו</row>
+		<row row_number="10" isdata="1">רבא אמר רב נחמן בן שמנה עשרה שנה ורב</row>
+		<row row_number="11" isdata="1">הונא בר חיננא אמר רב נחמן מבן עשרים</row>
+		<row row_number="12" isdata="1">שנה (והא דרבא לאו בפירוש איתמר</row>
+		<row row_number="13" isdata="1">אלא מכללא איתמר) מתיב ר' זירא מעשה</row>
+		<row row_number="14" isdata="1">בבני ברק באחד שמכר בנכסי אביו ומת</row>
+		<row row_number="15" isdata="1">ובאו בני משפחה וערערו לומר קטן היה</row>
+		<row row_number="16" isdata="1">בשעת מיתה ובאו ושאלו את רבי עקיבא</row>
+		<row row_number="17" isdata="1">מהו לבודקו אמר להם אי אתם רשאין לנוולו</row>
+		<row row_number="18" isdata="1">ועוד סימנין עשויין להשתנות לאחר מיתה</row>
+		<row row_number="19" isdata="1">בשלמא למאן דאמר בן שמנה עשרה שנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

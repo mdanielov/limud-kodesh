@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:08.745753</dateCreated>
+   <lastModified>2020-01-14 15:03:08.745753</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="18">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המביא גט"/><ContGemara/>חיישינן שמא פייס ורבי יוחנן אמר אפי' מכאן</row>
+		<row row_number="2" isdata="1">ועד עשרה ימים אם איתא דפייס קלא אית</row>
+		<row row_number="3" isdata="1">ליה למילתא איתמר אמר לעשרה כתבו גט</row>
+		<row row_number="4" isdata="1">לאשתי אמר ר' יוחנן שנים משום עדים</row>
+		<row row_number="5" isdata="1">וכולם משום תנאי וריש לקיש אמר כולם</row>
+		<row row_number="6" isdata="1">משום עדים היכי דמי אילימא דלא אמר</row>
+		<row row_number="7" isdata="1">להו כולכם והא תנן אמר לעשרה כתבו</row>
+		<row row_number="8" isdata="1">גט לאשתי אחד כותב ושנים חותמין אלא</row>
+		<row row_number="9" isdata="1">דאמר להו כולכם מאי בינייהו איכא בינייהו</row>
+		<row row_number="10" isdata="1">דחתום בי תרי מינייהו ביומיה ואינך</row>
+		<row row_number="11" isdata="1">מכאן ועד עשרה ימים מאן דאמר משום</row>
+		<row row_number="12" isdata="1">תנאי כשר ומאן דאמר משום עדים פסול</row>
+		<row row_number="13" isdata="1">אי נמי כגון שנמצא אחד מהם קרוב או</row>
+		<row row_number="14" isdata="1">פסול למאן דאמר משום תנאי כשר למאן</row>
+		<row row_number="15" isdata="1">דאמר משום עדים פסול אי חתום בתחילה</row>
+		<row row_number="16" isdata="1">קרוב או פסול אמרי לה כשר ואמרי לה פסול</row>
+		<row row_number="17" isdata="1">אמרי לה כשר תנאי הוא אמרי לה פסול אתי</row>
+		<row row_number="18" isdata="1">לאיחלופי בשטרות דעלמא ההוא דאמר להו</row>
+		<row row_number="19" isdata="1">לעשרה כתבו גט לאשתי חתום בי תרי</row>
+		<row row_number="20" isdata="1">מינייהו ביומיה ואינך מכאן ועד עשרה ימים</row>
+		<row row_number="21" isdata="1">אתא לקמיה דרבי יהושע בן לוי אמר ליה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:23.350465</dateCreated>
+   <lastModified>2020-01-14 15:04:23.350465</lastModified>
+ </meta>
+ <masechet name="ערכין" serial="33">
+<daf value="6">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הכל מעריכין"/><ContGemara/>איני והא רבי ינאי יזיף ופרע שאני רבי ינאי</row>
+		<row row_number="2" isdata="1">דניחא להו לעניים דכמה דמשהי מעשי</row>
+		<row row_number="3" isdata="1">ומייתי להו ת"ר ישראל שהתנדב מנורה או</row>
+		<row row_number="4" isdata="1">נר לבית הכנסת אסור לשנותה סבר רבי חייא</row>
+		<row row_number="5" isdata="1">בר אבא למימר לא שנא לדבר הרשות ולא</row>
+		<row row_number="6" isdata="1">שנא לדבר מצוה אמר ליה רב אמי הכי אמר</row>
+		<row row_number="7" isdata="1">רבי יוחנן לא שנו אלא לדבר הרשות אבל</row>
+		<row row_number="8" isdata="1">לדבר מצוה מותר לשנותה מדאמר ר' אסי</row>
+		<row row_number="9" isdata="1">אמר ר' יוחנן עובד כוכבים שהתנדב מנורה</row>
+		<row row_number="10" isdata="1">או נר לבית הכנסת עד שלא נשתקע שם</row>
+		<row row_number="11" isdata="1">בעליה אסור לשנותה משנשתקע שם בעליה</row>
+		<row row_number="12" isdata="1">מותר לשנותה למאי אילימא לדבר הרשות</row>
+		<row row_number="13" isdata="1">מאי איריא עובד כוכבים אפילו ישראל נמי</row>
+		<row row_number="14" isdata="1">אלא לדבר מצוה וטעמא דעובד כוכבים הוא</row>
+		<row row_number="15" isdata="1">דפעי אבל ישראל דלא פעי שפיר דמי שעזרק</row>
+		<row row_number="16" isdata="1">טייעא אינדב שרגא לבי כנישתא דרב יהודה</row>
+		<row row_number="17" isdata="1">שנייה רחבא ואיקפד רבא איכא דאמרי</row>
+		<row row_number="18" isdata="1">שנייה רבא ואיקפד רחבא וא"ד שנייה חזני</row>
+		<row row_number="19" isdata="1">דפומבדיתא ואיקפד רחבא ואיקפד רבה מאן</row>
+		<row row_number="20" isdata="1">דשנייה סבר דלא שכיח ומאן דאיקפד סבר</row>
+		<row row_number="21" isdata="1">זמנין דמקרי ואתי<EndGemara/><StartMishna/>מתני' הגוסס והיוצא</row>
+		<row row_number="22" isdata="1">ליהרג לא נידר ולא נערך ר' חנינא בן</row>
+		<row row_number="23" isdata="1">עקביא אומר נערך מפני שדמיו קצובין</row>
+		<row row_number="24" isdata="1">רבי יוסי אומר נודר ומעריך ומקדיש ואם</row>
+		<row row_number="25" isdata="1">הזיק חייב :<EndMishna/><StartGemara/>גמ' בשלמא גוסס לא נידר</row>
+		<row row_number="26" isdata="1">דלאו בר דמים הוא ולא נערך דלאו בר</row>
+		<row row_number="27" isdata="1">העמדה והערכה הוא אלא יוצא ליהרג</row>
+		<row row_number="28" isdata="1">בשלמא לא נידר דלאו בר דמים הוא אלא</row>
+		<row row_number="29" isdata="1">לא נערך אמאי לא דתניא מנין היוצא</row>
+		<row row_number="30" isdata="1">ליהרג ואמר ערכי עלי שלא אמר כלום</row>
+		<row row_number="31" isdata="1">ת"ל כל חרם לא יפדה יכול אפילו קודם</row>
+		<row row_number="32" isdata="1">שנגמר דינו תלמוד לומר מן האדם ולא כל</row>
+		<row row_number="33" isdata="1">האדם ולרבי חנינא בן עקביא דאמר נערך</row>
+		<row row_number="34" isdata="1">מפני שדמיו קצובין האי כל חרם מאי עביד</row>
+		<row row_number="35" isdata="1">ליה לכדתניא רבי ישמעאל בנו של רבי</row>
+		<row row_number="36" isdata="1">יוחנן בן ברוקה אומר לפי שמצינו למומתים</row>
+		<row row_number="37" isdata="1">בידי שמים שנותנין ממון ומתכפר להם</row>
+		<row row_number="38" isdata="1">שנאמר אם כופר יושת עליו יכול אף בידי</row>
+		<row row_number="39" isdata="1">אדם כן תלמוד לומר כל חרם לא יפדה אין</row>
+		<row row_number="40" isdata="1">לי אלא מיתות חמורות שלא ניתנה שגגתן</row>
+		<row row_number="41" isdata="1">לכפרה מיתות קלות שניתנה שגגתן לכפרה</row>
+		<row row_number="42" isdata="1">מנין תלמוד לומר כל חרם: רבי יוסי אומר</row>
+		<row row_number="43" isdata="1">נודר ומעריך כו': ותנא קמא מי קאמר דלא</row>
+		<row row_number="44" isdata="1">אלא בנודר ומעריך ומקדיש כ"ע לא פליגי</row>
+		<row row_number="45" isdata="1">כי פליגי באם הזיק תנא קמא סבר אם</row>
+		<row row_number="46" isdata="1">הזיק אינו חייב בתשלומין ורבי יוסי סבר אם</row>
+		<row row_number="47" isdata="1">הזיק חייב בתשלומין במאי קמיפלגי אמר רב</row>
+		<row row_number="48" isdata="1">יוסף במלוה על פה גובה מן היורשין קמיפלגי</row>
+		<row row_number="49" isdata="1">תנא קמא סבר מלוה על פה אינו גובה מן</row>
+		<row row_number="50" isdata="1">היורשין ורבי יוסי סבר מלוה על פה גובה מן היורשין רבא אמר דכ"ע</row>
+		<row row_number="51" isdata="1">מלוה על פה אינו גובה מן היורשין והכא במלוה כתובה בתורה</row>
+		<row row_number="52" isdata="1">קמיפלגי תנא קמא סבר מלוה כתובה בתורה לאו ככתובה בשטר דמיא ורבי יוסי סבר ככתובה</row>
+		<row row_number="53" isdata="1">בשטר דמיא ואיכא דמתני לה אהא היוצא ליהרג הוא שחבל באחרים חייב אחרים שחבלו בו פטורין</row>
+		<row row_number="54" isdata="1">רבי שמעון בן אלעזר אומר אף הוא אם חבל באחרים פטור שלא ניתן לחזרת עמידת בית דין</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:06.407441</dateCreated>
+   <lastModified>2020-01-14 15:04:06.407441</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="59">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל המנחות"/><ContGemara/>שתי הלחם הוה ליה לרבויי שכן ציבור חובה</row>
+		<row row_number="2" isdata="1">טמיא דאכל פיגולא בשבתא מתיר תנופה</row>
+		<row row_number="3" isdata="1">בארץ בזמן חדש והני נפישן מסתברא נפש:</row>
+		<row row_number="4" isdata="1"><EndGemara/><StartMishna/>מתני' וחייב על השמן בפני עצמו וחייב</row>
+		<row row_number="5" isdata="1">על לבונה בפני עצמה נתן עליה שמן</row>
+		<row row_number="6" isdata="1">פסלה לבונה ילקטנה נתן שמן על שיריה</row>
+		<row row_number="7" isdata="1">אינו עובר בלא תעשה נתן כלי על גבי כלי</row>
+		<row row_number="8" isdata="1">לא פסלה:<EndMishna/><StartGemara/>גמ' תנו רבנן לא ישים עליהן</row>
+		<row row_number="9" isdata="1">שמן ואם שם פסל יכול לא יתן עליה לבונה</row>
+		<row row_number="10" isdata="1">ואם נתן פסל תלמוד לומר כי חטאת יכול אף</row>
+		<row row_number="11" isdata="1">בשמן תלמוד לומר היא ומה ראית לפסול</row>
+		<row row_number="12" isdata="1">בשמן ולהכשיר בלבונה פוסל אני בשמן שאי</row>
+		<row row_number="13" isdata="1">אפשר ללקטו ומכשיר אני בלבונה שאפשר</row>
+		<row row_number="14" isdata="1">ללוקטה בעא רבה בר רב הונא מרבי יוחנן</row>
+		<row row_number="15" isdata="1">נתן עליה לבונה שחוקה מהו משום דאפשר</row>
+		<row row_number="16" isdata="1">ללקטה והא לא אפשר ללקטה או דילמא</row>
+		<row row_number="17" isdata="1">משום דלא מיבלעא והא נמי לא מיבלעא תא</row>
+		<row row_number="18" isdata="1">שמע ולבונה ילקטנה דלמא חדא ועוד קאמר</row>
+		<row row_number="19" isdata="1">חדא דלא מיבלעא ועוד ילקטנה תא שמע</row>
+		<row row_number="20" isdata="1">מכשיר אני בלבונה שאפשר ללוקטה הכא</row>
+		<row row_number="21" isdata="1">נמי חדא ועוד קא אמר מאי הוי עלה אמר רב</row>
+		<row row_number="22" isdata="1">נחמן בר יצחק תניא מנחת חוטא ומנחת</row>
+		<row row_number="23" isdata="1">קנאות שנתן עליה לבונה מלקט את הלבונה</row>
+		<row row_number="24" isdata="1">וכשרה ואם עד שלא ליקט לבונתה חישב</row>
+		<row row_number="25" isdata="1">עליה בין חוץ לזמנו בין חוץ למקומו פסול</row>
+		<row row_number="26" isdata="1">ואין בו כרת ואם משליקט לבונתה מחשב</row>
+		<row row_number="27" isdata="1">עליה חוץ למקומו פסול ואין בו כרת חוץ</row>
+		<row row_number="28" isdata="1">לזמנו פיגול וחייבין עליו כרת ותיהוי פך</row>
+		<row row_number="29" isdata="1">ואמאי פסלה במחשבה דחוי הוא אמר אביי</row>
+		<row row_number="30" isdata="1">חטאת קרייה רחמנא רבא אמר הא מני חנן</row>
+		<row row_number="31" isdata="1">המצרי הוא דלית ליה דחויין דתניא חנן</row>
+		<row row_number="32" isdata="1">המצרי אומר אפילו דם בכוס מביא חבירו</row>
+		<row row_number="33" isdata="1">שלא בהגרלה ומזווג לו רב אשי אמר כל</row>
+		<row row_number="34" isdata="1">שבידו לא הוי דחוי אמר רב אדא כוותיה</row>
+		<row row_number="35" isdata="1">דרב אשי מסתברא דמאן שמעת ליה דאית</row>
+		<row row_number="36" isdata="1">ליה דחויין רבי יהודה היא דתנן ועוד א"ר</row>
+		<row row_number="37" isdata="1">יהודה נשפך הדם ימות המשתלח מת</row>
+		<row row_number="38" isdata="1">המשתלח ישפך הדם ואילו היכא דבידו</row>
+		<row row_number="39" isdata="1">תניא ר' יהודה אומר כוס היה ממלא מדם</row>
+		<row row_number="40" isdata="1">התערובות וזרקו זריקה אחת כנגד היסוד אמר</row>
+		<row row_number="41" isdata="1">רב יצחק בר יוסף אמר רבי יוחנן נתן משהו</row>
+		<row row_number="42" isdata="1">שמן על גבי כזית מנחה פסל מאי טעמא לא</row>
+		<row row_number="43" isdata="1">ישים שימה כל דהו עליה עד דאיכא שיעורא</row>
+		<row row_number="44" isdata="1">ואמר רב יצחק בר יוסף אמר רבי יוחנן  נתן כזית לבונה על גבי</row>
+		<row row_number="45" isdata="1">משהו מנחה פסל מאי טעמא לא יתן כתיב עד דאיכא נתינה עליה</row>
+</amud>
+</daf>
+</masechet>
+</root>

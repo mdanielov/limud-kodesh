@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:27.906384</dateCreated>
+   <lastModified>2020-01-14 15:02:27.906384</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="58">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "תמיד נשחט"/><ContGemara/>אי לא חיישינן ניעבדיה בשש ומחצה קא סבר</row>
+		<row row_number="2" isdata="1">מוספין קודמין לבזיכין עביד להו למוספין</row>
+		<row row_number="3" isdata="1">בשש ובזיכין בשבע ועביד ליה לתמיד</row>
+		<row row_number="4" isdata="1">בשבע ומחצה מתקיף לה רבה בר עולא</row>
+		<row row_number="5" isdata="1">מידי כסידרו בחול כך סידרו בשבת בערב</row>
+		<row row_number="6" isdata="1">הפסח דברי ר' ישמעאל קתני כך סידרו</row>
+		<row row_number="7" isdata="1">בשבת סתמא קתני אלא אמר רבה בר</row>
+		<row row_number="8" isdata="1">עולא הכי קתני כסידרו בחול דעלמא כך</row>
+		<row row_number="9" isdata="1">סידרו בשבת דעלמא דברי ר' ישמעאל ר"ע</row>
+		<row row_number="10" isdata="1">אומר כסידרו בערב הפסח דעלמא כך סידרו</row>
+		<row row_number="11" isdata="1">בשבת דעלמא ומתני' דקתני בין בחול בין</row>
+		<row row_number="12" isdata="1">בשבת דברי הכל היא במאי קמיפלגי בגזרת</row>
+		<row row_number="13" isdata="1">נדבות ונדרים קמיפלגי ר' ישמעאל סבר</row>
+		<row row_number="14" isdata="1">גזרינן שבת אטו חול ור' עקיבא סבר לא</row>
+		<row row_number="15" isdata="1">גזרינן אי לא גזרינן ניעבדיה בו' ומחצה</row>
+		<row row_number="16" isdata="1">קסבר מוספין קודמין לבזיכין מוספין בשש</row>
+		<row row_number="17" isdata="1">ובזיכין בז' ועביד ליה לתמיד בז' ומחצה</row>
+		<row row_number="18" isdata="1">מיתיבי תמיד כל השנה כולה קרב כהלכתו</row>
+		<row row_number="19" isdata="1">נשחט בשמונה ומחצה וקרב בט' ומחצה</row>
+		<row row_number="20" isdata="1">ובערב הפסח נשחט בז' ומחצה וקרב בח'</row>
+		<row row_number="21" isdata="1">ומחצה חל להיות בשבת כחל להיות בשני</row>
+		<row row_number="22" isdata="1">בשבת דברי ר' ישמעאל ר"ע אומר כסידרו</row>
+		<row row_number="23" isdata="1">בערב הפסח בשלמא לאביי ניחא אלא</row>
+		<row row_number="24" isdata="1">לרבא קשיא אמר לך רבא לא תימא כחל</row>
+		<row row_number="25" isdata="1">בשני בשבת אלא אימא כשני בשבת</row>
+		<row row_number="26" isdata="1">דעלמא מיתיבי חל להיות בשבת כסידרו כל</row>
+		<row row_number="27" isdata="1">השנה כולה דברי ר' ישמעאל ר"ע אומר</row>
+		<row row_number="28" isdata="1">כסידרו בערב הפסח דעלמא בשלמא לרבא</row>
+		<row row_number="29" isdata="1">ניחא אלא לאביי קשיא אמר לך אביי לא</row>
+		<row row_number="30" isdata="1">תימא כסידרו כל השנה אלא אימא כסידרו</row>
+		<row row_number="31" isdata="1">כל השנים כולן דברי ר' ישמעאל ר"ע אומר</row>
+		<row row_number="32" isdata="1">כסידרו ערב הפסח שחל להיות בערב שבת</row>
+		<row row_number="33" isdata="1">תנו רבנן מנין שלא יהא דבר קודם לתמיד</row>
+		<row row_number="34" isdata="1">של שחר תלמוד לומר וערך עליה העולה</row>
+		<row row_number="35" isdata="1">מאי תלמודא אמר רבא העולה עולה</row>
+		<row row_number="36" isdata="1">ראשונה ומנין שאין דבר קרב אחר תמיד</row>
+		<row row_number="37" isdata="1">של בין הערבים ת"ל והקטיר עליה חלבי</row>
+		<row row_number="38" isdata="1">השלמים מאי תלמודא אמר אביי עליה</row>
+		<row row_number="39" isdata="1">שלמים ולא על חבירתה שלמים מתקיף לה</row>
+		<row row_number="40" isdata="1">רבא אימא שלמים הוא דלא נקריב הא עולות</row>
+		<row row_number="41" isdata="1">נקריב אלא אמר רבא השלמים עליה השלם</row>
+		<row row_number="42" isdata="1">כל הקרבנות כולן ת"ר תמיד קודם לפסח</row>
+		<row row_number="43" isdata="1">פסח קודם לקטרת קטרת קודמת לנרות</row>
+</amud>
+</daf>
+</masechet>
+</root>

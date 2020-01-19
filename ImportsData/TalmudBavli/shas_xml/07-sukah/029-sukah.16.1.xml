@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:39.186868</dateCreated>
+   <lastModified>2020-01-14 15:02:39.186868</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="16">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContGemara/>מטה מטמאת חבילה ומטהרת חבילה דברי</row>
+		<row row_number="2" isdata="1">ר' אליעזר וחכמים אומרים מטמאת אברים</row>
+		<row row_number="3" isdata="1">ומטהרת אברים מאי ניהו א"ר חנן אמר רבי</row>
+		<row row_number="4" isdata="1">ארוכה ושתי כרעים קצרה ושתי כרעים למאי</row>
+		<row row_number="5" isdata="1">חזיא למסמכינהו אגודא ולמיתב עלייהו</row>
+		<row row_number="6" isdata="1">ומשדא אשלי גופא אמר ר' אמי בר טביומי</row>
+		<row row_number="7" isdata="1">סככה בבלאי כלים פסולה מאי בלאי כלים</row>
+		<row row_number="8" isdata="1">אמר אביי מטלניות שאין בהם שלש על</row>
+		<row row_number="9" isdata="1">שלש דלא חזיין לא לעניים ולא לעשירים</row>
+		<row row_number="10" isdata="1">תניא כוותיה דרבי אמי בר טביומי מחצלת</row>
+		<row row_number="11" isdata="1">של שיפא ושל גמי שיריה אע"פ שנפחתו</row>
+		<row row_number="12" isdata="1">מכשיעורה אין מסככין בהן מחצלת הקנים</row>
+		<row row_number="13" isdata="1">גדולה מסככין בה קטנה אין מסככין בה ר'</row>
+		<row row_number="14" isdata="1">אליעזר אומר אף היא מקבלת טומאה ואין</row>
+		<row row_number="15" isdata="1">מסככין בה: החוטט בגדיש: אמר רב</row>
+		<row row_number="16" isdata="1">הונא לא שנו אלא שאין שם חלל טפח</row>
+		<row row_number="17" isdata="1">במשך שבעה אבל יש שם חלל טפח</row>
+		<row row_number="18" isdata="1">במשך שבעה הרי זה סוכה תניא נמי הכי</row>
+		<row row_number="19" isdata="1">החוטט בגדיש לעשות לו סוכה הרי זה סוכה</row>
+		<row row_number="20" isdata="1">והאנן תנן אינה סוכה אלא לאו שמע מינה</row>
+		<row row_number="21" isdata="1">כדרב הונא שמע מינה איכא דרמי ליה</row>
+		<row row_number="22" isdata="1">מירמא תנן החוטט בגדיש לעשות לו סוכה</row>
+		<row row_number="23" isdata="1">אינה סוכה והא תניא הרי זו סוכה אמר רב</row>
+		<row row_number="24" isdata="1">הונא לא קשיא כאן בשיש שם חלל טפח</row>
+		<row row_number="25" isdata="1">במשך שבעה כאן בשאין שם חלל טפח</row>
+		<row row_number="26" isdata="1">במשך שבעה<EndGemara/><StartMishna/>מתני' המשלשל דפנות</row>
+		<row row_number="27" isdata="1">מלמעלה למטה אם גבוה מן הארץ שלשה</row>
+		<row row_number="28" isdata="1">טפחים פסולה מלמטה למעלה אם גבוה</row>
+		<row row_number="29" isdata="1">עשרה טפחים כשרה רבי יוסי אומר כשם</row>
+		<row row_number="30" isdata="1">שמלמטה למעלה עשרה טפחים כך מלמעלה</row>
+		<row row_number="31" isdata="1">למטה עשרה טפחים:<EndMishna/><StartGemara/>גמ' במאי קמיפלגי</row>
+		<row row_number="32" isdata="1">מר סבר מחיצה תלויה מתרת ומר סבר</row>
+		<row row_number="33" isdata="1">מחיצה תלויה אינה מתרת תנן התם</row>
+		<row row_number="34" isdata="1">בור שבין שתי חצירות אין ממלאין ממנה</row>
+		<row row_number="35" isdata="1">בשבת אלא אם כן עשה לה מחיצה</row>
+		<row row_number="36" isdata="1">עשרה טפחים בין מלמעלה בין מלמטה</row>
+		<row row_number="37" isdata="1">בין בתוך אוגנו רבן שמעון בן גמליאל אומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

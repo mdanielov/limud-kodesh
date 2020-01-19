@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:26.108878</dateCreated>
+   <lastModified>2020-01-14 15:02:26.108878</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="32">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל שעה"/><ContGemara/>אמר אביי רבי אליעזר בן יעקב ורבי עקיבא</row>
+		<row row_number="2" isdata="1">ור' יוחנן בן נורי כולהו סבירא להו חמץ בפסח</row>
+		<row row_number="3" isdata="1">אסור בהנאה ובהא פליגי דרבי עקיבא סבר</row>
+		<row row_number="4" isdata="1">לפי דמים משלם ורבי יוחנן בן נורי סבר לפי</row>
+		<row row_number="5" isdata="1">מדה משלם פשיטא מהו דתימא רבי יוחנן</row>
+		<row row_number="6" isdata="1">בן נורי נמי כרבי עקיבא סבירא ליה דאמר</row>
+		<row row_number="7" isdata="1">לפי דמים משלם והתם היינו טעמא דקא</row>
+		<row row_number="8" isdata="1">מחייב משום דסבר לה כר' יוסי הגלילי דאמר</row>
+		<row row_number="9" isdata="1">חמץ בפסח מותר בהנאה קמ"ל ואימא הכי</row>
+		<row row_number="10" isdata="1">נמי אם כן נהדר ליה רבי יוחנן בן נורי לר'</row>
+		<row row_number="11" isdata="1">עקיבא כי היכי דמהדר ליה רבי אלעזר חסמא</row>
+		<row row_number="12" isdata="1">לר' אליעזר בן יעקב: ת"ר האוכל כזית</row>
+		<row row_number="13" isdata="1">תרומה משלם קרן וחומש אבא שאול אומר</row>
+		<row row_number="14" isdata="1">עד שיהא בו שוה פרוטה מ"ט דתנא קמא</row>
+		<row row_number="15" isdata="1">אמר קרא ואיש כי יאכל קדש בשגגה</row>
+		<row row_number="16" isdata="1">ואכילה בכזית ואבא שאול מאי טעמא אמר</row>
+		<row row_number="17" isdata="1">קרא ונתן ואין נתינה פחות משוה פרוטה</row>
+		<row row_number="18" isdata="1">ואידך נמי הא כתיב יאכל ההוא פרט למזיק</row>
+		<row row_number="19" isdata="1">הוא דאתא ותנא קמא הכתיב ונתן ההוא</row>
+		<row row_number="20" isdata="1">מיבעי ליה לדבר הראוי להיות קדש (פרט</row>
+		<row row_number="21" isdata="1">לאוכל תרומת חמץ בפסח): ת"ר האוכל</row>
+		<row row_number="22" isdata="1">תרומה פחות מכזית משלם את הקרן ואינו</row>
+		<row row_number="23" isdata="1">משלם את החומש היכי דמי אי דלית ביה</row>
+		<row row_number="24" isdata="1">שוה פרוטה קרן נמי לא לישלם ואי דאית בה</row>
+		<row row_number="25" isdata="1">שוה פרוטה חומש נמי לישלם לעולם דאית</row>
+		<row row_number="26" isdata="1">בה שוה פרוטה ואפילו הכי כיון דלית ביה</row>
+		<row row_number="27" isdata="1">כזית משלם את הקרן ואינו משלם את החומש</row>
+		<row row_number="28" isdata="1">אמרוה רבנן קמיה דרב פפא הא דלא כאבא</row>
+		<row row_number="29" isdata="1">שאול דאי כאבא שאול האמר כיון שיש בה</row>
+		<row row_number="30" isdata="1">שוה פרוטה אע"ג דלית ביה כזית אמר להו</row>
+		<row row_number="31" isdata="1">רב פפא אפילו תימא אבא שאול אבא שאול</row>
+		<row row_number="32" isdata="1">תרתי בעי ומי בעי אבא שאול תרתי והא תנן</row>
+		<row row_number="33" isdata="1">אבא שאול אומר את שיש בו שוה פרוטה</row>
+		<row row_number="34" isdata="1">חייב בתשלומין את שאין בו שוה פרוטה אינו</row>
+		<row row_number="35" isdata="1">חייב בתשלומין אמרו לו לא אמרו שוה פרוטה</row>
+		<row row_number="36" isdata="1">אלא לענין מעילה בלבד אבל לתרומה אינו</row>
+		<row row_number="37" isdata="1">חייב עד שיהא בו כזית ואם איתא כיון שיש</row>
+		<row row_number="38" isdata="1">בו כזית מיבעי ליה תיובתא ואף רב פפא הדר</row>
+		<row row_number="39" isdata="1">ביה דתניא וחטאה בשגגה פרט למזיד והלא</row>
+		<row row_number="40" isdata="1">דין הוא ומה שאר מצות שחייב בהן כרת פוטר</row>
+		<row row_number="41" isdata="1">בהן את המזיד מעילה שאין בה כרת אינו דין</row>
+		<row row_number="42" isdata="1">שפטר את המזיד לא אם אמרת בשאר מצות</row>
+		<row row_number="43" isdata="1">שכן לא חייב בהן מיתה תאמר במעילה</row>
+		<row row_number="44" isdata="1">שחייב בה מיתה ת"ל בשגגה פרט למזיד</row>
+		<row row_number="45" isdata="1">ואמר ליה רב נחמן בר יצחק לרב חייא בר</row>
+		<row row_number="46" isdata="1">אבין האי תנא מעיקרא אלימא ליה כרת</row>
+		<row row_number="47" isdata="1">ולבסוף אלימא ליה מיתה ואמר ליה הכי קאמר לא אם אמרת בשאר</row>
+		<row row_number="48" isdata="1">מצות שכן לא חייב בהן מיתה בפחות מכזית תאמר במעילה שחייב</row>
+		<row row_number="49" isdata="1">בה מיתה בפחות מכזית ואמר ליה תנוח דעתך שהנחת את דעתי</row>
+		<row row_number="50" isdata="1">וא"ל מאי ניחותא דרבה ורב ששת שדו ביה נרגא מאן שמעת ליה דאמר</row>
+</amud>
+</daf>
+</masechet>
+</root>

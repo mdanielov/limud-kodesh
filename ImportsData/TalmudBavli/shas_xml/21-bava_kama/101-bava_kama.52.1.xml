@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:19.301775</dateCreated>
+   <lastModified>2020-01-14 15:03:19.302772</lastModified>
+ </meta>
+ <masechet name="בבא קמא" serial="21">
+<daf value="52">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "שור שנגח את הפרה"/><ContGemara/>כיון שמסר לו מפתח קנה ה"ד אי בכספא</row>
+		<row row_number="2" isdata="1">ליקני בכספא אי בחזקה ליקני בחזקה לעולם</row>
+		<row row_number="3" isdata="1">בחזקה ובעי למימר ליה לך חזק וקני וכיון</row>
+		<row row_number="4" isdata="1">שמסר לו מפתח כמאן דאמר ליה לך חזק</row>
+		<row row_number="5" isdata="1">וקני דמי אמר ריש לקיש משום ר' ינאי המוכר</row>
+		<row row_number="6" isdata="1">עדר לחבירו כיון שמסר לו משכוכית קנה</row>
+		<row row_number="7" isdata="1">ה"ד אי במשיכה ליקני במשיכה אי במסירה</row>
+		<row row_number="8" isdata="1">ליקני במסירה לעולם במשיכה ובעי למימר</row>
+		<row row_number="9" isdata="1">ליה לך משוך וקני וכיון דמסר לו משכוכית</row>
+		<row row_number="10" isdata="1">כמאן דאמר ליה לך משוך וקני דמי מאי</row>
+		<row row_number="11" isdata="1">משכוכית הכא תרגמו קרקשתא ר' יעקב</row>
+		<row row_number="12" isdata="1">אומר עיזא דאזלא בריש עדרא כדדרש ההוא</row>
+		<row row_number="13" isdata="1">גלילאה עליה דרב חסדא כד רגיז רעיא</row>
+		<row row_number="14" isdata="1">על ענא עביד לנגדא סמותא<EndGemara/><StartMishna/>מתני' כסהו</row>
+		<row row_number="15" isdata="1">הראשון ובא השני ומצאו מגולה ולא כסהו</row>
+		<row row_number="16" isdata="1">השני חייב כסהו כראוי ונפל לתוכו שור</row>
+		<row row_number="17" isdata="1">או חמור ומת פטור לא כסהו כראוי ונפל</row>
+		<row row_number="18" isdata="1">לתוכו שור או חמור ומת חייב נפל לפניו</row>
+		<row row_number="19" isdata="1">מקול הכרייה חייב לאחריו מקול הכרייה</row>
+		<row row_number="20" isdata="1">פטור נפל לתוכו שור וכליו ונשתברו חמור</row>
+		<row row_number="21" isdata="1">וכליו ונתקרעו חייב על הבהמה ופטור על</row>
+		<row row_number="22" isdata="1">הכלים נפל לתוכו שור חרש שוטה</row>
+		<row row_number="23" isdata="1">וקטן חייב בן או בת עבד או אמה פטור:</row>
+		<row row_number="24" isdata="1"><EndMishna/><StartGemara/>גמ' וראשון עד אימת מיפטר אמר רב בכדי</row>
+		<row row_number="25" isdata="1">שידע ושמואל אמר בכדי שיודיעוהו ורבי</row>
+		<row row_number="26" isdata="1">יוחנן אמר בכדי שיודיעוהו וישכור פועלים</row>
+		<row row_number="27" isdata="1">ויכרות ארזים ויכסנו: כסהו כראוי ונפל</row>
+		<row row_number="28" isdata="1">לתוכו שור או חמור ומת פטור: כיון</row>
+		<row row_number="29" isdata="1">דכסהו כראוי היכי נפל אמר ר' יצחק בר</row>
+		<row row_number="30" isdata="1">בר חנה שהתליע מתוכו איבעיא להו כסהו</row>
+		<row row_number="31" isdata="1">כסוי שיכול לעמוד לפני שוורים ואין יכול</row>
+		<row row_number="32" isdata="1">לעמוד בפני גמלים ואתו גמלים וארעוה</row>
+		<row row_number="33" isdata="1">ואתו שוורים ונפלי ביה מאי אמרי היכי</row>
+		<row row_number="34" isdata="1">דמי אי דשכיחי גמלים פושע הוא ואי דלא</row>
+		<row row_number="35" isdata="1">שכיחי גמלים אנוס הוא לא צריכא דאתו</row>
+		<row row_number="36" isdata="1">לפרקים מי אמרינן כיון דאתיין לפרקים</row>
+		<row row_number="37" isdata="1">פושע הוא דאיבעי ליה אסוקי אדעתיה או</row>
+		<row row_number="38" isdata="1">דלמא כיון דהשתא מיהת ליכא אנוס הוא</row>
+		<row row_number="39" isdata="1">ת"ש כסהו כראוי ונפל לתוכו שור או חמור</row>
+		<row row_number="40" isdata="1">ומת פטור ה"ד אילימא כראוי לשוורים וכראוי</row>
+		<row row_number="41" isdata="1">לגמלים היכי נפול אלא לאו כראוי לשוורים</row>
+</amud>
+</daf>
+</masechet>
+</root>

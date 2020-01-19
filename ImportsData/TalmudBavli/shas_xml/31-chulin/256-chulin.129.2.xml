@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:18.242891</dateCreated>
+   <lastModified>2020-01-14 15:04:18.242891</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="129">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "העור והרוטב"/><ContGemara/>לאחרים אין קרוי אוכל אמר ליה רבי זירא</row>
+		<row row_number="2" isdata="1">לרבי אסי דילמא טעמא דרבי שמעון התם</row>
+		<row row_number="3" isdata="1">הואיל ומעורה מעורה דתניא יחור של</row>
+		<row row_number="4" isdata="1">תאנה שנפשח ומעורה בקליפה ר' יהודה</row>
+		<row row_number="5" isdata="1">מטהר וחכמים אומרים אם יכול לחיות טהור</row>
+		<row row_number="6" isdata="1">ואם לאו טמא ואמרינן לך מאי טעמא דרבי</row>
+		<row row_number="7" isdata="1">יהודה ואמרת לן הואיל ומעורה מעורה אמר</row>
+		<row row_number="8" isdata="1">ליה אמצעיתא נשחטה הבהמה הוכשרה</row>
+		<row row_number="9" isdata="1">בדמיה דברי ר' מאיר ר' שמעון אומר לא</row>
+		<row row_number="10" isdata="1">הוכשרו (אמר ר' אסי) אמר רבי יוחנן מאי</row>
+		<row row_number="11" isdata="1">טעמא דרבי שמעון אמר קרא מכל האוכל</row>
+		<row row_number="12" isdata="1">אשר יאכל אוכל שאתה יכול להאכילו</row>
+		<row row_number="13" isdata="1">לאחרים קרוי אוכל אוכל שאין אתה יכול</row>
+		<row row_number="14" isdata="1">להאכילו לאחרים אין קרוי אוכל ודילמא</row>
+		<row row_number="15" isdata="1">טעמא דר' שמעון בההיא אי כדרבא אי</row>
+		<row row_number="16" isdata="1">כדרבי יוחנן אלא לעולם אסיפא ולאו אאבר</row>
+		<row row_number="17" isdata="1">אלא אבשר מתה הבהמה הבשר צריך הכשר</row>
+		<row row_number="18" isdata="1">ור' שמעון מטהר אמר ר' יוחנן מ"ט דרבי</row>
+		<row row_number="19" isdata="1">שמעון אמר קרא מכל האוכל אשר יאכל</row>
+		<row row_number="20" isdata="1">אוכל שאתה יכול להאכילו לאחרים קרוי אוכל אוכל שאי אתה יכול להאכילו</row>
+		<row row_number="21" isdata="1">לאחרים אין קרוי אוכל<EndGemara/><StartMishna/>מתני' האבר והבשר המדולדלין באדם טהורים</row>
+		<row row_number="22" isdata="1">מת האדם הבשר טהור האבר מטמא משום אבר מן החי ואינו מטמא משום</row>
+		<row row_number="23" isdata="1">אבר מן המת דברי ר' מאיר ורבי שמעון מטהר:<EndMishna/><StartGemara/>גמ' ורבי שמעון מה</row>
+		<row row_number="24" isdata="1">נפשך אי מיתה עושה ניפול ליטמא משום אבר מן החי ואי אין מיתה עושה</row>
+		<row row_number="25" isdata="1">ניפול ליטמא משום אבר מן המת ר' שמעון בעלמא קאי דקאמר תנא קמא</row>
+		<row row_number="26" isdata="1">האבר מטמא משום אבר מן החי ואין מטמא משום אבר מן המת אלמא</row>
+		<row row_number="27" isdata="1">אבר המת בעלמא מטמא ואמר ליה ר"ש אבר המת בעלמא לא מטמא</row>
+		<row row_number="28" isdata="1">דתניא אמר ר' אליעזר שמעתי שאבר מן החי מטמא אמר לו ר' יהושע מן</row>
+		<row row_number="29" isdata="1">החי ולא מן המת וקל וחומר ומה חי שהוא טהור אבר הפורש ממנו טמא מת</row>
+		<row row_number="30" isdata="1">שהוא טמא לא כל שכן כתוב במגילת תענית פסחא זעירא דלא למספד הא</row>
+		<row row_number="31" isdata="1">רבה למספד אלא כל דכן הכא נמי כל דכן אמר ליה כך שמעתי ומאי איכא</row>
+		<row row_number="32" isdata="1">בין אבר מן החי לאבר מן המת כזית בשר ועצם כשעורה הפורש מאבר</row>
+		<row row_number="33" isdata="1">מן החי איכא בינייהו דתנן כזית בשר הפורש מאבר מן החי ר' אליעזר</row>
+		<row row_number="34" isdata="1">מטמא ור' נחוניא בן הקנה ור' יהושע מטהרין עצם כשעורה הפורש מאבר</row>
+		<row row_number="35" isdata="1">מן החי ר' נחוניא מטמא רבי אליעזר ור' יהושע מטהרין השתא דאתית להכי</row>
+		<row row_number="36" isdata="1">בין תנא קמא לרבי שמעון נמי כזית בשר ועצם כשעורה איכא בינייהו:<EndChapter name = "העור והרוטב"/><EndGemara/></row>
+		<row row_number="37" isdata="0">הדרן עלך העור והרוטב</row>
+</amud>
+</daf>
+</masechet>
+</root>

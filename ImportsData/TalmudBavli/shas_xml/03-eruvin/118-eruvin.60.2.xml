@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:22.696739</dateCreated>
+   <lastModified>2020-01-14 15:02:22.696739</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="60">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "במה בהמה"/><ContMishna/>מה שנשכר הוא מפסיד:גמ' קא סלקאמה שנשכר הוא מפסיד:<EndMishna/><StartGemara/></row>
+		<row row_number="2" isdata="1">דעתך למזרח למזרח ביתו למערב למערב</row>
+		<row row_number="3" isdata="1">ביתו בשלמא הימנו ולביתו אלפים אמה</row>
+		<row row_number="4" isdata="1">ולעירובו יתר מכאן משכחת לה דמטי</row>
+		<row row_number="5" isdata="1">לביתיה ולא מטי לעירובו אלא הימנו</row>
+		<row row_number="6" isdata="1">ולעירובו אלפים אמה ולביתו יתר מכאן</row>
+		<row row_number="7" isdata="1">היכי משכחת לה א"ר יצחק מי סברת</row>
+		<row row_number="8" isdata="1">למזרח למזרח ביתו למערב למערב ביתו</row>
+		<row row_number="9" isdata="1">לא למזרח למזרח בנו למערב למערב בנו</row>
+		<row row_number="10" isdata="1">רבא בר רב שילא אמר אפי' תימא למזרח</row>
+		<row row_number="11" isdata="1">למזרח ביתו ולמערב למערב ביתו כגון</row>
+		<row row_number="12" isdata="1">דקאי ביתיה באלכסונא: הנותן עירובו בתוך</row>
+		<row row_number="13" isdata="1">עיבורה וכו': חוץ לתחום ס"ד אלא אימא</row>
+		<row row_number="14" isdata="1">חוץ לעיבורה: מה שנשכר הוא מפסיד:</row>
+		<row row_number="15" isdata="1">מה שנשכר ותו לא והתניא הנותן את</row>
+		<row row_number="16" isdata="1">עירובו בתוך עיבורה של עיר לא עשה ולא</row>
+		<row row_number="17" isdata="1">כלום נתנו חוץ לעיבורה של עיר אפילו אמה</row>
+		<row row_number="18" isdata="1">אחת משתכר אותה אמה ומפסיד את כל</row>
+		<row row_number="19" isdata="1">העיר כולה מפני שמדת העיר עולה לו במדת</row>
+		<row row_number="20" isdata="1">התחום לא קשיא כאן שכלתה מדתו בחצי</row>
+		<row row_number="21" isdata="1">העיר כאן שכלתה מדתו בסוף העיר וכדר'</row>
+		<row row_number="22" isdata="1">אידי דאמר רבי אידי א"ר יהושע בן לוי היה</row>
+		<row row_number="23" isdata="1">מודד ובא וכלתה מדתו בחצי העיר אין לו</row>
+		<row row_number="24" isdata="1">אלא חצי העיר כלתה מדתו בסוף העיר</row>
+		<row row_number="25" isdata="1">נעשית לו העיר כולה כד' אמות ומשלימין לו</row>
+		<row row_number="26" isdata="1">את השאר א"ר אידי אין אלו אלא דברי</row>
+		<row row_number="27" isdata="1">נביאות מה לי כלתה בחצי העיר מה לי כלתה</row>
+		<row row_number="28" isdata="1">בסוף העיר אמר רבא תרוייהו תננהי אנשי</row>
+		<row row_number="29" isdata="1">עיר גדולה מהלכין את כל עיר קטנה</row>
+</amud>
+</daf>
+</masechet>
+</root>

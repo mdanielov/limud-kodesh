@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:27.092016</dateCreated>
+   <lastModified>2020-01-14 15:03:27.092016</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="69">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "איזהו נשך"/><ContGemara/>כה"ג ודאי צריך לאודועיה זוזי מי שקיל טבי</row>
+		<row row_number="2" isdata="1">ושביק חסרי (אמר ליה לא אמר ליה) חמרא</row>
+		<row row_number="3" isdata="1">כולי עלמא ידעי דאיכא דבסים ואיכא דלא</row>
+		<row row_number="4" isdata="1">בסים גופא אמר רב נחמן זוזי כמאן דפליגי</row>
+		<row row_number="5" isdata="1">דמו הני מילי טבי וטבי תקולי ותקולי אבל</row>
+		<row row_number="6" isdata="1">טבי ותקולי לא רב חמא הוה מוגר זוזי</row>
+		<row row_number="7" isdata="1">בפשיטא ביומא כלו זוזי דרב חמא הוא</row>
+		<row row_number="8" isdata="1">סבר מאי שנא ממרא ולא היא מרא הדרא</row>
+		<row row_number="9" isdata="1">בעינא וידיע פחתיה זוזי לא הדרי בעינייהו</row>
+		<row row_number="10" isdata="1">ולא ידיע פחתיה אמר רבא שרי ליה לאיניש</row>
+		<row row_number="11" isdata="1">למימר ליה לחבריה הילך ד' זוזי ואוזפיה</row>
+		<row row_number="12" isdata="1">לפלניא זוזי לא אסרה תורה אלא רבית</row>
+		<row row_number="13" isdata="1">הבאה מלוה למלוה ואמר רבא שרי ליה</row>
+		<row row_number="14" isdata="1">לאיניש למימר ליה לחבריה שקיל לך ארבעה</row>
+		<row row_number="15" isdata="1">זוזי וא"ל לפלוני לאוזפן זוזי מ"ט שכר אמירה</row>
+		<row row_number="16" isdata="1">קא שקיל כי הא דאבא מר בריה דרב פפא</row>
+		<row row_number="17" isdata="1">הוה שקיל אוגנא דקירא מקיראי וא"ל לאבוה</row>
+		<row row_number="18" isdata="1">אוזפינהו זוזי אמרו ליה רבנן לרב פפא אכיל</row>
+		<row row_number="19" isdata="1">בריה דמר רביתא אמר להו כל כי האי</row>
+		<row row_number="20" isdata="1">רביתא ניכול לא אסרה תורה אלא רבית</row>
+		<row row_number="21" isdata="1">הבאה מלוה למלוה הכא שכר אמירה קא</row>
+		<row row_number="22" isdata="1">שקיל ושרי<EndGemara/><StartMishna/>מתני' שמין פרה וחמור וכל</row>
+		<row row_number="23" isdata="1">דבר שהוא עושה ואוכל למחצה מקום</row>
+		<row row_number="24" isdata="1">שנהגו לחלוק את הולדות מיד חולקין מקום</row>
+		<row row_number="25" isdata="1">שנהגו לגדל יגדילו רבן שמעון בן גמליאל</row>
+		<row row_number="26" isdata="1">אומר שמין עגל עם אמו וסיח עם אמו</row>
+		<row row_number="27" isdata="1">ומפריז על שדהו ואינו חושש משום רבית:</row>
+		<row row_number="28" isdata="1"><EndMishna/><StartGemara/>גמ' תנו רבנן מפריז על שדהו ואינו חושש</row>
+		<row row_number="29" isdata="1">משום רבית כיצד השוכר את השדה</row>
+		<row row_number="30" isdata="1">מחבירו בעשרה כורים חטין לשנה ואומר</row>
+		<row row_number="31" isdata="1">לו תן לי מאתים זוז ואפרנסנה ואני אעלה</row>
+		<row row_number="32" isdata="1">לך שנים עשר כורין לשנה מותר אבל אין</row>
+		<row row_number="33" isdata="1">מפריז לא על חנות ולא על ספינה אמר רב</row>
+		<row row_number="34" isdata="1">נחמן אמר רבה בר אבוה פעמים שמפריז</row>
+		<row row_number="35" isdata="1">על חנות לצור בה צורה ספינה לעשות לה</row>
+		<row row_number="36" isdata="1">איסקריא חנות לצור בה צורתא דצבו בה</row>
+		<row row_number="37" isdata="1">אינשי והוי אגרא טפי ספינה לעשות לה</row>
+		<row row_number="38" isdata="1">איסקריא כיון דשפירא איסקריא טפי אגרא</row>
+		<row row_number="39" isdata="1">טפי ספינתא אמר רב אגרא ופגרא אמרו ליה</row>
+		<row row_number="40" isdata="1">רב כהנא ורב אסי לרב אי אגרא לא פגרא</row>
+		<row row_number="41" isdata="1">אי פגרא לא אגרא שתיק רב אמר רב ששת מ"ט שתיק רב לא שמיעא ליה</row>
+		<row row_number="42" isdata="1">הא דתניא אע"פ שאמרו אין מקבלין צאן ברזל מישראל אבל מקבלין</row>
+		<row row_number="43" isdata="1">צאן ברזל מן הנכרים אבל אמרו השם פרה לחבירו ואמר לו הרי פרתך</row>
+		<row row_number="44" isdata="1">עשויה עלי בשלשים דינר ואני אעלה לך סלע בחדש מותר לפי שלא</row>
+		<row row_number="45" isdata="1">עשאה דמים ולא עשאה אמר רב ששת לא עשאה דמים מחיים אלא</row>
+		<row row_number="46" isdata="1">לאחר מיתה אמר רב פפא הלכתא ספינה אגרא ופגרא</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:34.065518</dateCreated>
+   <lastModified>2020-01-14 15:03:34.065518</lastModified>
+ </meta>
+ <masechet name="בבא בתרא" serial="23">
+<daf value="99">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוכר פירות"/><ContGemara/>הא קא משמע לן למטה כלמעלה מה</row>
+		<row row_number="2" isdata="1">למעלה אין משמש כלום אף למטה אין</row>
+		<row row_number="3" isdata="1">משמש כלום מסייע ליה לר' לוי דאמר ר'</row>
+		<row row_number="4" isdata="1">לוי ואיתימא רבי יוחנן דבר זה מסורת בידינו</row>
+		<row row_number="5" isdata="1">מאבותינו מקום ארון וכרובים אינו מן המדה</row>
+		<row row_number="6" isdata="1">תניא נמי הכי ארון שעשה משה יש לו</row>
+		<row row_number="7" isdata="1">ריוח עשר אמות לכל רוח ורוח אמר רבנאי</row>
+		<row row_number="8" isdata="1">אמר שמואל כרובים בנס הן עומדין שנאמר</row>
+		<row row_number="9" isdata="1">וחמש אמות כנף הכרוב האחת וחמש אמות</row>
+		<row row_number="10" isdata="1">כנף הכרוב השנית עשר אמות מקצות</row>
+		<row row_number="11" isdata="1">כנפיו ועד קצות כנפיו גופייהו היכא הוו קיימי אלא שמע מינה בנס הן</row>
+		<row row_number="12" isdata="1">עומדין מתקיף לה אביי ודלמא בולטין כתרנגולין הוו קיימי מתקיף לה</row>
+		<row row_number="13" isdata="1">רבא ודלמא זה שלא כנגד זה הוו קיימי מתקיף לה רב אחא בר יעקב</row>
+		<row row_number="14" isdata="1">ודלמא באלכסונא הוו קיימי מתקיף לה רב הונא בריה דרב יהושע ודלמא</row>
+		<row row_number="15" isdata="1">ביתא מעילאי רווח מתקיף לה רב פפא ודלמא מיכף הוו כייפי ידייהו</row>
+		<row row_number="16" isdata="1">מתקיף לה רב אשי ודלמא שלחופי הוו משלחפי כיצד הן עומדין רבי</row>
+		<row row_number="17" isdata="1">יוחנן ור' אלעזר חד אמר פניהם איש אל אחיו וחד אמר פניהם לבית ולמ"ד</row>
+		<row row_number="18" isdata="1">פניהם איש אל אחיו הא כתיב ופניהם לבית לא קשיא כאן בזמן שישראל</row>
+		<row row_number="19" isdata="1">עושין רצונו של מקום כאן בזמן שאין ישראל עושין רצונו של מקום ולמ"ד</row>
+		<row row_number="20" isdata="1">ופניהם לבית הא כתיב ופניהם איש אל אחיו דמצדדי אצדודי דתניא</row>
+		<row row_number="21" isdata="1">אונקלוס הגר אמר כרובים מעשה צעצועים הן ומצודדים פניהם כתלמיד</row>
+		<row row_number="22" isdata="1">הנפטר מרבו<EndGemara/><StartMishna/>מתני' מי שיש לו בור לפנים מביתו של חבירו נכנס בשעה</row>
+		<row row_number="23" isdata="1">שדרך בני אדם נכנסין ויוצא בשעה שדרך בני אדם יוצאין ואינו מכניס בהמתו</row>
+		<row row_number="24" isdata="1">ומשקה מבורו אלא ממלא ומשקה מבחוץ וזה עושה לו פותחת וזה עושה לו</row>
+		<row row_number="25" isdata="1">פותחת:<EndMishna/><StartGemara/>גמ' פותחת להיכא אמר ר' יוחנן שניהם לבור בשלמא בעל</row>
+		<row row_number="26" isdata="1">הבור בעי לאשתמורי מיא דבוריה אלא בעל הבית למה ליה א"ר אלעזר</row>
+</amud>
+</daf>
+</masechet>
+</root>

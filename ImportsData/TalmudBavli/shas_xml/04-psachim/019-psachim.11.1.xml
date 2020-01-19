@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:25.101741</dateCreated>
+   <lastModified>2020-01-14 15:02:25.101741</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="11">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "אור לארבעה עשר"/><ContGemara/>שלא ברצון חכמים (הן עושין) דברי ר"מ רבי</row>
+		<row row_number="2" isdata="1">יהודה אומר ברצון חכמים היו עושין ולא</row>
+		<row row_number="3" isdata="1">קא גזר ר' יהודה דילמא אתי למיכל מיניה</row>
+		<row row_number="4" isdata="1">אמר רבא שאני חדש מתוך שלא התרת</row>
+		<row row_number="5" isdata="1">לו אלא על ידי קטוף הוא זכור א"ל אביי תינח</row>
+		<row row_number="6" isdata="1">בשעת קטיפה טחינה והרקדה מאי איכא</row>
+		<row row_number="7" isdata="1">למימר הא לא קשיא טחינה ברחיא דיד הרקדה</row>
+		<row row_number="8" isdata="1">ע"ג נפה אלא הא דתנן קוצרין בית השלחים</row>
+		<row row_number="9" isdata="1">ושבעמקים אבל לא גודשין ואוקימנא כרבי</row>
+		<row row_number="10" isdata="1">יהודה מאי איכא למימר אלא אמר אביי חדש</row>
+		<row row_number="11" isdata="1">בדיל מיניה חמץ לא בדיל מיניה אמר רבא דרבי</row>
+		<row row_number="12" isdata="1">יהודה אדרבי יהודה קשיא דרבנן אדרבנן</row>
+		<row row_number="13" isdata="1">לא קשיא דר' יהודה אדר' יהודה לא קשיא</row>
+		<row row_number="14" isdata="1">כדשנינן דרבנן אדרבנן נמי לא קשיא הוא עצמו</row>
+		<row row_number="15" isdata="1">מחזר עליו לשורפו מיכל קאכיל מיניה רב אשי</row>
+		<row row_number="16" isdata="1">אמר דר' יהודה אדר' יהודה לא קשיא קמח</row>
+		<row row_number="17" isdata="1">וקלי תנן הא דרב אשי בדותא היא התינח</row>
+		<row row_number="18" isdata="1">מקלי ואילך מעיקרא עד קלי מאי איכא</row>
+		<row row_number="19" isdata="1">למימר וכ"ת על ידי קיטוף כדרבא אלא קוצרין</row>
+		<row row_number="20" isdata="1">בית השלחין ושבעמקים ואוקימנא כרבי</row>
+		<row row_number="21" isdata="1">יהודה מא"ל אלא דרב אשי בדותא היא וכל</row>
+		<row row_number="22" isdata="1">היכא דלא בדיל מיניה מי גזר רבי יהודה</row>
+		<row row_number="23" isdata="1">והתנן לא יקוב אדם שפופרת של ביצה</row>
+		<row row_number="24" isdata="1">וימלאנה שמן ויתננה בצד הנר בשביל שתהא</row>
+		<row row_number="25" isdata="1">מנטפת ואפי' היא של חרס ור' יהודה מתיר</row>
+		<row row_number="26" isdata="1">התם משום חומרא דשבת מבדל בדילי</row>
+		<row row_number="27" isdata="1">ורמי דשבת אשבת דתניא חבל דלי שנפסק</row>
+		<row row_number="28" isdata="1">לא יהא קושרו אלא עונבו רבי יהודה אומר</row>
+		<row row_number="29" isdata="1">כורך עליו פונדא או פסקיא ובלבד שלא יענבנו קשיא דרבי יהודה אדרבי</row>
+		<row row_number="30" isdata="1">יהודה קשיא דרבנן אדרבנן דרבנן אדרבנן לא קשיא שמן בשמן מיחלף עניבה</row>
+		<row row_number="31" isdata="1">בקשירה לא מיחלף דרבי יהודה אדר' יהודה לא קשיא טעמא דרבי יהודה לאו</row>
+		<row row_number="32" isdata="1">משום דגזר עניבה אטו קשירה אלא משום דקסבר עניבה גופה קשירה היא</row>
+		<row row_number="33" isdata="1">ורמי רבנן אדרבנן דתנן קושרין דלי בפסקיא אבל לא בחבל ורבי יהודה</row>
+		<row row_number="34" isdata="1">מתיר חבל דמאי אילימא חבל דעלמא ורבי יהודה מתיר קשר של קיימא הוא</row>
+		<row row_number="35" isdata="1">דודאי אתי לבטולי אלא פשיטא דגרדי וגזרו רבנן חבל דגרדי אטו חבל</row>
+		<row row_number="36" isdata="1">דעלמא אין חבל בחבל מיחלף עניבה בקשירה לא מיחלפא וכל היכא דבדיל</row>
+		<row row_number="37" isdata="1">מיניה לא גזר רבי יהוד' והתניא בכור שאחזו דם אפי' הוא מת אין מקיזין לו</row>
+		<row row_number="38" isdata="1">דם דברי ר' יהודה וחכ"א יקיז ובלבד שלא יטיל בו מום התם מתוך שאדם בהול</row>
+</amud>
+</daf>
+</masechet>
+</root>

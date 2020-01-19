@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:25.621306</dateCreated>
+   <lastModified>2020-01-14 15:03:25.621306</lastModified>
+ </meta>
+ <masechet name="בבא מציעא" serial="22">
+<daf value="54">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "הזהב"/><ContGemara/>הבעלים נותנין עשרים ושש עשרים ושנים</row>
+		<row row_number="2" isdata="1">הבעלים נותנין עשרים ושבע בעשרים ושלש</row>
+		<row row_number="3" isdata="1">הבעלים נותנין עשרים ושמונה בעשרים</row>
+		<row row_number="4" isdata="1">וארבע הבעלים נותנין עשרים ותשע עשרים</row>
+		<row row_number="5" isdata="1">וחמש הבעלים נותנין שלשים לפי שאין</row>
+		<row row_number="6" isdata="1">מוסיפין חומש על עילוי של זה שמע מינה</row>
+		<row row_number="7" isdata="1">חומשא מלבר ש"מ כתנאי ויסף חמישיתו</row>
+		<row row_number="8" isdata="1">עליו שיהא הוא וחומשו חמשה דברי רבי</row>
+		<row row_number="9" isdata="1">יאשיה ר' יונתן אומר חמישיתו חומשו של</row>
+		<row row_number="10" isdata="1">קרן איבעיא להו חומש מעכב או אינו</row>
+		<row row_number="11" isdata="1">מעכב ד' בד' פריק ואכנפשיה מוסיף חומש</row>
+		<row row_number="12" isdata="1">אלמא חומש לא מעכב או דלמא ארבעה</row>
+		<row row_number="13" isdata="1">בחמשה פריק וחומש מעכב אמר רבינא</row>
+		<row row_number="14" isdata="1">ת"ש הדמאי אין לו חומש ואין לו ביעור</row>
+		<row row_number="15" isdata="1">הא קרן יש לו מאי טעמא קרן דמעכב</row>
+		<row row_number="16" isdata="1">בדאורייתא איתא בדרבנן חומש דלא מעכב</row>
+		<row row_number="17" isdata="1">בדאורייתא ליתא בדרבנן לימא כתנאי נתן</row>
+		<row row_number="18" isdata="1">את הקרן ולא נתן את החומש רבי אליעזר</row>
+		<row row_number="19" isdata="1">אומר יאכל רבי יהושע אומר לא יאכל א"ר</row>
+		<row row_number="20" isdata="1">נראין דברי רבי אליעזר בשבת ודברי רבי</row>
+		<row row_number="21" isdata="1">יהושע בחול מדאמר נראין דברי רבי אליעזר</row>
+		<row row_number="22" isdata="1">בשבת מכלל דפליגי אפילו בחול מדאמר</row>
+		<row row_number="23" isdata="1">נראין דברי רבי יהושע בחול מכלל דפליגי</row>
+		<row row_number="24" isdata="1">אפילו בשבת מאי לאו בהא סברא קמיפלגי</row>
+		<row row_number="25" isdata="1">דרבי אליעזר סבר חומש לא מעכב ור' יהושע</row>
+		<row row_number="26" isdata="1">סבר חומש מעכב אמר רב פפא לא דכולי</row>
+		<row row_number="27" isdata="1">עלמא חומש לא מעכב והכא בחיישינן</row>
+		<row row_number="28" isdata="1">לפשיעותא קמיפלגי מר סבר חיישינן</row>
+		<row row_number="29" isdata="1">לפשיעותא ומר סבר לא חיישינן לפשיעותא</row>
+		<row row_number="30" isdata="1">אמר ר' יוחנן הכל מודים בהקדש</row>
+		<row row_number="31" isdata="1">שחילל הואיל וגזברין תובעין אותו בשוק</row>
+		<row row_number="32" isdata="1">ובהקדש לא פליגי והתניא נתן את הקרן ולא</row>
+		<row row_number="33" isdata="1">נתן לו את החומש ר' אליעזר אומר חילל</row>
+		<row row_number="34" isdata="1">וחכמים אומרים לא חילל א"ר נראין דברי</row>
+		<row row_number="35" isdata="1">ר' אליעזר בהקדש ודברי חכמים במעשר</row>
+		<row row_number="36" isdata="1">מדאמר נראין דברי רבי אליעזר בהקדש</row>
+		<row row_number="37" isdata="1">מכלל דפליג אפילו במעשר מדקאמר נראין</row>
+		<row row_number="38" isdata="1">דברי חכמים במעשר מכלל דאינהו פליגי</row>
+		<row row_number="39" isdata="1">אפי' בהקדש אלא אי אתמר הכי אתמר א"ר</row>
+		<row row_number="40" isdata="1">יוחנן הכל מודים בשבת בהקדש שחילל</row>
+		<row row_number="41" isdata="1">חדא דכתיב וקראת לשבת עונג ועוד הואיל</row>
+		<row row_number="42" isdata="1">וגזברין תובעין אותו בשוק אמר רמי בר חמא</row>
+		<row row_number="43" isdata="1">הרי אמרו הקדש אינו מתחלל על הקרקע</row>
+		<row row_number="44" isdata="1">דרחמנא אמר ונתן הכסף וקם לו חומשו</row>
+		<row row_number="45" isdata="1">מהו שיתחלל על הקרקע תרומה אינה</row>
+		<row row_number="46" isdata="1">משתלמת אלא מן החולין דרחמנא אמר</row>
+		<row row_number="47" isdata="1">ונתן לכהן את הקדש דבר הראוי להיות</row>
+		<row row_number="48" isdata="1">קדש חומשה מהו שישתלם שלא מן החולין מעשר אין מתחלל על האסימון</row>
+		<row row_number="49" isdata="1">דרחמנא אמר וצרת הכסף בידך לרבות כל דבר שיש עליו צורה חומשו</row>
+		<row row_number="50" isdata="1">מהו שיתחלל על האסימון אתגלגל מלתא ומטא לקמיה דרבא אמר להו</row>
+		<row row_number="51" isdata="1">אמר קרא עליו לרבות חומשו כמותו אמר רבינא אף אנן נמי תנינא</row>
+		<row row_number="52" isdata="1">הגונב תרומה ולא אכלה משלם תשלומי כפל דמי תרומה אכלה</row>
+		<row row_number="53" isdata="1">משלם שני קרנים וחומש קרן וחומש מן החולין והקרן דמי תרומה</row>
+</amud>
+</daf>
+</masechet>
+</root>

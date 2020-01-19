@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:40.297098</dateCreated>
+   <lastModified>2020-01-14 15:02:40.297098</lastModified>
+ </meta>
+ <masechet name="סוכה" serial="07">
+<daf value="32">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "לולב הגזול"/><ContGemara/>ואיכא דרמי ליה מירמא תנן ציני הר הברזל</row>
+		<row row_number="2" isdata="1">כשר והתניא פסולה אמר אביי לא קשיא</row>
+		<row row_number="3" isdata="1">כאן שראשו של זה מגיע לצד עיקרו של זה</row>
+		<row row_number="4" isdata="1">כאן שאין ראשו של זה מגיע לצד עיקרו של</row>
+		<row row_number="5" isdata="1">זה אמר רבי מריון אמר ר' יהושע בן לוי</row>
+		<row row_number="6" isdata="1">ואמרי לה תני רבה בר מרי משום רבן</row>
+		<row row_number="7" isdata="1">יוחנן בן זכאי שתי תמרות יש בגיא בן הנם</row>
+		<row row_number="8" isdata="1">ועולה עשן מביניהם וזהו ששנינו ציני הר</row>
+		<row row_number="9" isdata="1">הברזל כשרות וזו היא פתחה של גיהנם:</row>
+		<row row_number="10" isdata="1">לולב שיש בו שלשה טפחים: אמר רב</row>
+		<row row_number="11" isdata="1">יהודה אמר שמואל שיעור הדס וערבה</row>
+		<row row_number="12" isdata="1">שלשה ולולב ארבעה כדי שיהא לולב יוצא</row>
+		<row row_number="13" isdata="1">מן ההדס טפח ורבי פרנך אמר רבי יוחנן</row>
+		<row row_number="14" isdata="1">שדרו של לולב צריך שיצא מן ההדס טפח</row>
+		<row row_number="15" isdata="1">תנן לולב שיש בו ג' טפחים כדי לנענע בו</row>
+		<row row_number="16" isdata="1">כשר אימא וכדי לנענע בו כשר מר כדאית</row>
+		<row row_number="17" isdata="1">ליה ומר כדאית ליה תא שמע שיעור הדס</row>
+		<row row_number="18" isdata="1">וערבה שלשה ולולב ארבעה מאי לאו</row>
+		<row row_number="19" isdata="1">בהדי עלין לא לבד מעלין גופא שיעור הדס</row>
+		<row row_number="20" isdata="1">וערבה שלשה ולולב ארבעה ר' טרפון אומר</row>
+		<row row_number="21" isdata="1">באמה בת חמשה טפחים אמר רבא שרא</row>
+		<row row_number="22" isdata="1">ליה מריה לר' טרפון השתא עבות שלשה</row>
+		<row row_number="23" isdata="1">לא משכחינן בת חמשה מבעיא כי אתא רב</row>
+		<row row_number="24" isdata="1">דימי אמר אמה בת ששה טפחים עשה אותה</row>
+		<row row_number="25" isdata="1">בת חמשה צא מהן שלשה להדס והשאר</row>
+		<row row_number="26" isdata="1">ללולב כמה הוו להו תלתא ותלתא חומשי</row>
+		<row row_number="27" isdata="1">קשיא דשמואל אדשמואל הכא אמר רב</row>
+		<row row_number="28" isdata="1">יהודה אמר שמואל שיעור הדס וערבה</row>
+		<row row_number="29" isdata="1">שלשה והתם אמר רב הונא אמר שמואל</row>
+		<row row_number="30" isdata="1">הלכה כרבי טרפון לא דק אימר דאמרינן</row>
+		<row row_number="31" isdata="1">לא דק לחומרא לקולא מי אמרינן לא דק</row>
+		<row row_number="32" isdata="1">כי אתא רבין אמר אמה בת חמשה טפחים</row>
+		<row row_number="33" isdata="1">עשה אותה ששה צא מהן שלשה להדס</row>
+		<row row_number="34" isdata="1">והשאר ללולב כמה הוי להו תרי ופלגא סוף</row>
+		<row row_number="35" isdata="1">סוף קשיא דשמואל אדשמואל לא דק והיינו</row>
+		<row row_number="36" isdata="1">לחומרא לא דק דאמר רב הונא אמר שמואל</row>
+		<row row_number="37" isdata="1">הלכה כרבי טרפון<EndGemara/><StartMishna/>מתני' הדס הגזול</row>
+		<row row_number="38" isdata="1">והיבש פסול של אשרה ושל עיר הנדחת</row>
+		<row row_number="39" isdata="1">פסול נקטם ראשו נפרצו עליו או שהיו</row>
+		<row row_number="40" isdata="1">ענביו מרובות מעליו פסול ואם מיעטן כשר</row>
+		<row row_number="41" isdata="1">ואין ממעטין בי"ט:<EndMishna/><StartGemara/>גמ' תנו רבנן ענף עץ</row>
+		<row row_number="42" isdata="1">עבות שענפיו חופין את עצו ואי זה הוא</row>
+		<row row_number="43" isdata="1">הוי אומר זה הדס ואימא זיתא בעינן עבות</row>
+		<row row_number="44" isdata="1">וליכא ואימא דולבא בעינן ענפיו חופין את עצו וליכא ואימא הירדוף אמר אביי</row>
+		<row row_number="45" isdata="1">דרכיה דרכי נועם וליכא רבא אמר מהכא האמת והשלום אהבו תנו</row>
+		<row row_number="46" isdata="1">רבנן קלוע כמין קליעה ודומה לשלשלת זהו הדס רבי אליעזר בן</row>
+		<row row_number="47" isdata="1">יעקב אומר ענף עץ עבות עץ שטעם עצו ופריו שוה הוי אומר זה הדס</row>
+		<row row_number="48" isdata="1">תנא עץ עבות כשר ושאינו עבות פסול היכי דמי עבות אמר רב יהודה והוא</row>
+		<row row_number="49" isdata="1">דקיימי תלתא תלתא טרפי בקינא רב כהנא אמר אפילו תרי וחד רב אחא</row>
+		<row row_number="50" isdata="1">בריה דרבא מהדר אתרי וחד הואיל ונפיק מפומיה דרב כהנא אמר ליה</row>
+		<row row_number="51" isdata="1">מר בר אמימר לרב אשי אבא לההוא הדס שוטה קרי ליה ת"ר נשרו רוב</row>
+		<row row_number="52" isdata="1">עליו ונשתיירו בו מיעוט כשר ובלבד שתהא עבותו קיימת הא גופא</row>
+		<row row_number="53" isdata="1">קשיא אמרת נשרו רוב עליו כשר והדר תני ובלבד שתהא עבותו קיימת</row>
+		<row row_number="54" isdata="1">כיון דנתרי להו תרי עבות היכי משכחת לה אמר אביי משכחת לה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:53.067722</dateCreated>
+   <lastModified>2020-01-14 15:02:53.067722</lastModified>
+ </meta>
+ <masechet name="יבמות" serial="14">
+<daf value="106">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "מצות חליצה"/><ContGemara/>תנו רבנן חליצה מוטעת כשרה אי זו היא</row>
+		<row row_number="2" isdata="1">חליצה מוטעת אמר ר"ל כל שאומרים לו</row>
+		<row row_number="3" isdata="1">חלוץ ובכך אתה כונסה אמר ליה רבי יוחנן</row>
+		<row row_number="4" isdata="1">אני שונה בין שנתכוון הוא ולא נתכוונה</row>
+		<row row_number="5" isdata="1">היא בין שנתכוונה היא ולא נתכוון הוא</row>
+		<row row_number="6" isdata="1">חליצתה פסולה עד שיתכוונו שניהם כאחד</row>
+		<row row_number="7" isdata="1">ואת אמרת חליצתה כשירה אלא כל</row>
+		<row row_number="8" isdata="1">שאומרים לו חלוץ לה ע"מ שתתן לך מאתים</row>
+		<row row_number="9" isdata="1">זוז תניא נמי הכי חליצה מוטעת כשירה אי</row>
+		<row row_number="10" isdata="1">זו היא חליצה מוטעת כל שאומרים חלוץ</row>
+		<row row_number="11" isdata="1">לה על מנת שתתן לך מאתים זוז ומעשה</row>
+		<row row_number="12" isdata="1">באשה אחת שנפלה לפני יבם שאין הגון</row>
+		<row row_number="13" isdata="1">לה ואמרו לו חלוץ לה על מנת שתתן לך</row>
+		<row row_number="14" isdata="1">מאתים זוז ובא מעשה לפני רבי חייא</row>
+		<row row_number="15" isdata="1">והכשירה ההוא דאתא לקמיה דרבי חייא</row>
+		<row row_number="16" isdata="1">בר אבא אמר לה בתי עמודי אמרה ליה</row>
+		<row row_number="17" isdata="1">אימא ישיבתה זו היא עמידתה אמר לה</row>
+		<row row_number="18" isdata="1">ידעת ליה אמרה ליה אין ממונא הוא דחזא</row>
+		<row row_number="19" isdata="1">לה וקבעי למיכליה מינה אמר לה לא ניחא</row>
+		<row row_number="20" isdata="1">לך אמרה ליה לא אמר ליה חלוץ לה ובכך</row>
+		<row row_number="21" isdata="1">אתה כונסה לבתר דחלץ לה אמר ליה השתא</row>
+		<row row_number="22" isdata="1">מינך אפסלא לה חלוץ לה חליצה מעלייתא</row>
+		<row row_number="23" isdata="1">כי היכי דתישתרי לעלמא בת חמוה דרב</row>
+		<row row_number="24" isdata="1">פפא נפלה לפני יבם שאין הגון לה אתא</row>
+		<row row_number="25" isdata="1">לקמיה דאביי אמר ליה חלוץ לה ובכך אתה</row>
+		<row row_number="26" isdata="1">כונסה אמר ליה רב פפא לא סבר לה מר</row>
+		<row row_number="27" isdata="1">להא דאמר רבי יוחנן ואלא היכי אימא ליה</row>
+		<row row_number="28" isdata="1">אמר ליה חלוץ לה ע"מ שתתן לך מאתים</row>
+		<row row_number="29" isdata="1">זוז לבתר דחלץ לה אמר לה זיל הב ליה</row>
+		<row row_number="30" isdata="1">אמר ליה משטה אני בך עבדה ליה מי</row>
+		<row row_number="31" isdata="1">לא תניא הרי שהיה בורח מבית האסורין</row>
+		<row row_number="32" isdata="1">והיתה מעברא לפניו ואמר ליה טול דינר</row>
+		<row row_number="33" isdata="1">והעבירני אין לו אלא שכרו אלמא אמר ליה</row>
+		<row row_number="34" isdata="1">משטה אני בך הכא נמי משטה אני בך</row>
+		<row row_number="35" isdata="1">אמר ליה אבוך היכא א"ל במתא אימך היכא</row>
+		<row row_number="36" isdata="1">א"ל במתא יהיב בהו עיניה ושכיבן: ת"ר</row>
+		<row row_number="37" isdata="1">חליצה מוטעת כשרה גט מוטעה פסול</row>
+		<row row_number="38" isdata="1">חליצה מעושית פסולה גט מעושה כשר</row>
+		<row row_number="39" isdata="1">היכי דמי אי דאמר רוצה אני אפי' חליצה</row>
+		<row row_number="40" isdata="1">נמי ואי לא אמר רוצה אני גט נמי לא הכי</row>
+		<row row_number="41" isdata="1">קאמר חליצה מוטעת לעולם כשר וגט</row>
+		<row row_number="42" isdata="1">מוטעה לעולם פסול חליצה מעושית וגט</row>
+		<row row_number="43" isdata="1">מעושה זימנין כשר וזימנין פסול הא דאמר</row>
+		<row row_number="44" isdata="1">רוצה אני הא דלא אמר רוצה אני דתניא</row>
+		<row row_number="45" isdata="1">יקריב אותו מלמד שכופין אותו יכול בעל</row>
+		<row row_number="46" isdata="1">כרחו ת"ל לרצונו הא כיצד כופין אותו עד</row>
+		<row row_number="47" isdata="1">שיאמר רוצה אני וכן אתה מוצא בגיטי</row>
+		<row row_number="48" isdata="1">נשים כופין אותו עד שיאמר רוצה אני אמר</row>
+		<row row_number="49" isdata="1">רבא אמר רב סחורה אמר רב הונא חולצין</row>
+		<row row_number="50" isdata="1">אע"פ שאין מכירין ממאנין אע"פ שאין</row>
+		<row row_number="51" isdata="1">מכירין לפיכך אין כותבין גט חליצה אלא</row>
+		<row row_number="52" isdata="1">אם כן מכירין ואין כותבין גט מיאון אלא</row>
+		<row row_number="53" isdata="1">אם כן מכירין דחיישינן לבית דין טועין ורבא</row>
+		<row row_number="54" isdata="1">דידיה אומר אין חולצין אלא אם כן מכירין ואין ממאנין אא"כ</row>
+		<row row_number="55" isdata="1">מכירין לפיכך כותבין גט חליצה אף על פי שאין מכירין וכותבין</row>
+		<row row_number="56" isdata="1">גט מיאון אף על פי שאין מכירין ולא חיישינן לבית דין טועין:</row>
+</amud>
+</daf>
+</masechet>
+</root>

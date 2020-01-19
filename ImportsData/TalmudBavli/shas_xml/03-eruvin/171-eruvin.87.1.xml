@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:23.850443</dateCreated>
+   <lastModified>2020-01-14 15:02:23.850443</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="87">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "המוציא יין"/><ContGemara/>חוקק בה ד' על ד' וממלא א"ל אביי ודילמא</row>
+		<row row_number="2" isdata="1">לא היא עד כאן לא קאמר רבי יהודה התם</row>
+		<row row_number="3" isdata="1">אלא דאמר גוד אחית מחיצתא אבל כוף</row>
+		<row row_number="4" isdata="1">וגוד לא ועד כאן לא קאמר רבי חנניא בן</row>
+		<row row_number="5" isdata="1">עקביא התם אלא בימה של טבריא הואיל ויש לה אוגנים ועיירות וקרפיפות</row>
+		<row row_number="6" isdata="1">מקיפות אותה אבל בשאר מימות לא אמר אביי ולדברי ר' חנניא בן עקביא</row>
+		<row row_number="7" isdata="1">היתה סמוכה לכותל בפחות מג' טפחים צריך שיהא אורכה ד' אמות ורוחבה</row>
+		<row row_number="8" isdata="1">אחד עשר ומשהו היתה זקופה צריך שיהא גובהה עשרה טפחים ורוחבה ו'</row>
+		<row row_number="9" isdata="1">טפחים ושני משהויין אמר רב הונא בריה דרב יהושע היתה עומדת בקרן זוית</row>
+		<row row_number="10" isdata="1">צריך שיהא גובהה י' טפחים ורוחבה ב' טפחים ושני משהויין ואלא הא דתניא</row>
+		<row row_number="11" isdata="1">ר' חנניא בן עקביא אומר גזוזטרא שיש בה ד' אמות על ד"א חוקק בה ד' על</row>
+		<row row_number="12" isdata="1">ד' וממלא היכי משכחת לה דעבידא כי אסיתא<EndGemara/><StartMishna/>מתני' אמת המים</row>
+		<row row_number="13" isdata="1">שהיא עוברת בחצר אין ממלאין הימנה בשבת אלא אם כן עשו לה מחיצה</row>
+		<row row_number="14" isdata="1">גבוה י' טפחים בכניסה וביציאה ר' יהודה אומר כותל שעל גבה תידון משום</row>
+		<row row_number="15" isdata="1">מחיצה אמר רבי יהודה מעשה באמה של אבל שהיו ממלאין ממנה על</row>
+		<row row_number="16" isdata="1">פי זקנים בשבת אמרו לו מפני שלא היה בה כשיעור:<EndMishna/><StartGemara/>גמ' תנו רבנן עשו</row>
+		<row row_number="17" isdata="1">לה בכניסה ולא עשו לה ביציאה עשו לה ביציאה ולא עשו לה בכניסה אין</row>
+		<row row_number="18" isdata="1">ממלאין הימנה בשבת אא"כ עשו לה מחיצה י' טפחים ביציאה ובכניסה ר'</row>
+		<row row_number="19" isdata="1">יהודה אומר כותל שעל גבה תידון משום מחיצה אמר רבי יהודה מעשה</row>
+		<row row_number="20" isdata="1">באמת המים שהיתה באה מאבל לצפורי והיו ממלאין הימנה בשבת על פי</row>
+		<row row_number="21" isdata="1">הזקנים אמרו לו משם ראייה מפני שלא היתה עמוקה י' טפחים ורוחבה ד'</row>
+		<row row_number="22" isdata="1">תניא אידך אמת המים העוברת בין החלונות פחות מג' משלשל דלי וממלא</row>
+		<row row_number="23" isdata="1">ג' אין משלשל דלי וממלא רשב"ג אומר פחות מד' משלשל דלי וממלא ד'</row>
+		<row row_number="24" isdata="1">אין משלשל דלי וממלא במאי עסקינן אילימא באמת המים גופה ואלא הא</row>
+		<row row_number="25" isdata="1">דכי אתא רב דימי אמר ר' יוחנן אין כרמלית פחותה מד' לימא כתנאי</row>
+		<row row_number="26" isdata="1">אמרה לשמעתיה אלא באגפיה ולהחליף והא כי אתא רב דימי אמר</row>
+		<row row_number="27" isdata="1">רבי יוחנן מקום שאין בו ארבעה על ארבעה מותר לבני רשות היחיד</row>
+		<row row_number="28" isdata="1">ולבני רשות הרבים לכתף עליו ובלבד שלא יחליפו התם רשויות דאורייתא</row>
+</amud>
+</daf>
+</masechet>
+</root>

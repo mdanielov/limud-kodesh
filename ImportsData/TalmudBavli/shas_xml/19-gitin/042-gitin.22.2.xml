@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:08.905608</dateCreated>
+   <lastModified>2020-01-14 15:03:08.905608</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="22">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "המביא גט"/><ContGemara/>ר' אלעזר היא דאמר עדי מסירה כרתי ואמר</row>
+		<row row_number="2" isdata="1">ר"א לא הכשיר ר"א אלא לאלתר אבל מכאן</row>
+		<row row_number="3" isdata="1">עד עשרה ימים לא חיישי' דילמא הוה ביה</row>
+		<row row_number="4" isdata="1">תנאה וזייפתיה ור' יוחנן אמר אפי' מכאן עד</row>
+		<row row_number="5" isdata="1">עשרה ימים דאם איתא דהוה ביה תנאי</row>
+		<row row_number="6" isdata="1">מידכר דכירי ואמר ר"א לא הכשיר ר"א אלא</row>
+		<row row_number="7" isdata="1">בגיטין אבל בשאר שטרות לא דכתי' ונתתם</row>
+		<row row_number="8" isdata="1">בכלי חרש למען יעמדו ימים רבים ורבי יוחנן</row>
+		<row row_number="9" isdata="1">אמר אפי' בשטרות והכתיב למען יעמדו ימים</row>
+		<row row_number="10" isdata="1">רבים התם עצה טובה קמ"ל<EndGemara/><StartMishna/>מתני' הכל</row>
+		<row row_number="11" isdata="1">כשרין לכתוב את הגט אפי' חרש שוטה וקטן</row>
+		<row row_number="12" isdata="1">האשה כותבת את גיטה והאיש כותב את</row>
+		<row row_number="13" isdata="1">שוברו שאין קיום הגט אלא בחותמיו:</row>
+		<row row_number="14" isdata="1"><EndMishna/><StartGemara/>גמ' והא לאו בני דיעה נינהו אמר רב הונא</row>
+</amud>
+</daf>
+</masechet>
+</root>

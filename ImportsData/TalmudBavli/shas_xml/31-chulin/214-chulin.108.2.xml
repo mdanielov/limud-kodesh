@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:17.236597</dateCreated>
+   <lastModified>2020-01-14 15:04:17.236597</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="108">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כל הבשר"/><ContGemara/>חלב אמאי מותר חלב נבלה הוא לעולם</row>
+		<row row_number="2" isdata="1">קסבר רב אפשר לסוחטו אסור ושאני התם</row>
+		<row row_number="3" isdata="1">דאמר קרא לא תבשל גדי בחלב אמו גדי</row>
+		<row row_number="4" isdata="1">אסרה תורה ולא חלב וסבר רב גדי אסרה</row>
+		<row row_number="5" isdata="1">תורה ולא חלב והא איתמר חצי זית בשר</row>
+		<row row_number="6" isdata="1">וחצי זית חלב שבשלן זה עם זה אמר רב לוקה</row>
+		<row row_number="7" isdata="1">על אכילתו ואינו לוקה על בשולו ואי ס"ד גדי</row>
+		<row row_number="8" isdata="1">אסרה תורה ולא חלב אאכילה אמאי לוקה</row>
+		<row row_number="9" isdata="1">חצי שיעור הוא אלא לעולם קסבר רב חלב</row>
+		<row row_number="10" isdata="1">נמי אסור והכא במאי עסקינן כגון שנפל לתוך</row>
+		<row row_number="11" isdata="1">יורה רותחת דמבלע בלע מפלט לא פלט</row>
+		<row row_number="12" isdata="1">סוף סוף כי נייח הדר פליט כשקדם וסילקו</row>
+		<row row_number="13" isdata="1">גופא חצי זית בשר וחצי זית חלב שבשלן זה</row>
+		<row row_number="14" isdata="1">עם זה אמר רב לוקה על אכילתו ואינו לוקה</row>
+		<row row_number="15" isdata="1">על בשולו מה נפשך אי מצטרפין אבשול נמי</row>
+		<row row_number="16" isdata="1">לילקי אי לא מצטרפין אאכילה נמי לא לילקי</row>
+		<row row_number="17" isdata="1">לעולם לא מצטרפי ובבא מיורה גדולה ולוי אמר</row>
+		<row row_number="18" isdata="1">אף לוקה על בשולו וכן תני לוי במתניתין</row>
+		<row row_number="19" isdata="1">כשם שלוקה על אכילתו כך לוקה על בשולו</row>
+		<row row_number="20" isdata="1">ובאי זה בשול אמרו בבשול שאחרים אוכלין</row>
+		<row row_number="21" isdata="1">אותו מחמת בשולו ואפשר לסוחטו עצמו</row>
+		<row row_number="22" isdata="1">תנאי היא דתניא טפת חלב שנפלה על</row>
+		<row row_number="23" isdata="1">החתיכה כיון שנתנה טעם בחתיכה החתיכה</row>
+		<row row_number="24" isdata="1">עצמה נעשת נבלה ואוסרת כל החתיכות</row>
+		<row row_number="25" isdata="1">כולן מפני שהן מינה דברי ר' יהודה וחכ"א</row>
+		<row row_number="26" isdata="1">עד שתתן טעם ברוטב ובקיפה ובחתיכות</row>
+		<row row_number="27" isdata="1">אמר רבי נראין דברי ר' יהודה בשלא ניער</row>
+		<row row_number="28" isdata="1">ושלא כסה ודברי חכמים בשניער וכסה</row>
+		<row row_number="29" isdata="1">מאי לא ניער ולא כסה אילימא לא ניער כלל</row>
+		<row row_number="30" isdata="1">ולא כסה כלל מבלע בלע מפלט לא</row>
+		<row row_number="31" isdata="1">פלט ואלא לא ניער בתחלה אלא בסוף</row>
+		<row row_number="32" isdata="1">ולא כסה בתחלה אלא בסוף אמאי הא</row>
+		<row row_number="33" isdata="1">בלע והא פלט קסבר אפשר לסוחטו אסור</row>
+</amud>
+</daf>
+</masechet>
+</root>

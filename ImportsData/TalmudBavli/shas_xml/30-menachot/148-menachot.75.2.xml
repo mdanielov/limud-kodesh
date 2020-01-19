@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:08.075126</dateCreated>
+   <lastModified>2020-01-14 15:04:08.075126</lastModified>
+ </meta>
+ <masechet name="מנחות" serial="30">
+<daf value="75">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו מנחות נקמצות"/><ContGemara/>אמר רבה איזהו דבר שצריך שני מיעוטין</row>
+		<row row_number="2" isdata="1">הוי אומר זו מנחת מאפה<EndGemara/><StartMishna/>מתני' מנחת</row>
+		<row row_number="3" isdata="1">ישראל קופל אחד לשנים ושנים לארבעה</row>
+		<row row_number="4" isdata="1">ומבדיל מנחת כהנים קופל אחד לשנים</row>
+		<row row_number="5" isdata="1">ושנים לארבעה ואינו מבדיל מנחת כהן</row>
+		<row row_number="6" isdata="1">משיח לא היה מקפלה רבי שמעון אומר</row>
+		<row row_number="7" isdata="1">מנחת כהנים ומנחת כהן משיח אין בהן</row>
+		<row row_number="8" isdata="1">פתיתה מפני שאין בהן קמיצה וכל שאין</row>
+		<row row_number="9" isdata="1">בהן קמיצה אין בהן פתיתה וכולן פותתן</row>
+		<row row_number="10" isdata="1">כזיתים:<EndMishna/><StartGemara/>גמ' תנו רבנן פתות יכול לשנים</row>
+		<row row_number="11" isdata="1">תלמוד לומר פתים אי פתים יכול יעשנה</row>
+		<row row_number="12" isdata="1">פירורין תלמוד לומר אותה אותה לפתיתים</row>
+		<row row_number="13" isdata="1">ולא פתיתה לפתיתים הא כיצד מנחת</row>
+		<row row_number="14" isdata="1">ישראל קופל אחד לשנים ושנים לארבעה</row>
+		<row row_number="15" isdata="1">ומבדיל מנחת [כהנים] וכהן משיח היה</row>
+		<row row_number="16" isdata="1">מקפלה וכו' והא אנן תנן לא היה מקפלה</row>
+		<row row_number="17" isdata="1">אמר רבה אינו מקפלה לארבעה אבל</row>
+		<row row_number="18" isdata="1">מקפלה לשנים: רבי שמעון אומר</row>
+		<row row_number="19" isdata="1">מנחת כהנים ומנחת כהן משיח אין בהן</row>
+		<row row_number="20" isdata="1">פתיתה: אמר רב יוסף האי חביצא דאית</row>
+		<row row_number="21" isdata="1">בה פירורין כזית מברכינן עליה המוציא לחם</row>
+		<row row_number="22" isdata="1">מן הארץ אי לית בה פירורין כזית מברכינן</row>
+		<row row_number="23" isdata="1">עליה בורא מיני מזונות אמר רב יוסף מנא</row>
+		<row row_number="24" isdata="1">אמינא לה דתניא היה עומד ומקריב מנחות</row>
+		<row row_number="25" isdata="1">בירושלים אומר ברוך שהחיינו וקימנו נטלן</row>
+		<row row_number="26" isdata="1">לאכלן אומר המוציא לחם מן הארץ ותנן</row>
+		<row row_number="27" isdata="1">וכולן פתיתי' בכזית אמר ליה אביי ולתנא</row>
+		<row row_number="28" isdata="1">דבי רבי ישמעאל דאמר מפרכן עד שמחזירן</row>
+		<row row_number="29" isdata="1">לסלתן הכי נמי דלא מברך המוציא וכי תימא</row>
+		<row row_number="30" isdata="1">הכי נמי והתניא ליקט מכולן כזית ואכלו</row>
+		<row row_number="31" isdata="1">אם חמץ הוא ענוש כרת אם מצה הוא</row>
+		<row row_number="32" isdata="1">אדם יוצא בהן ידי חובתו בפסח הכא במאי</row>
+		<row row_number="33" isdata="1">עסקינן בשעירסן אי הכי היינו דקתני עלה</row>
+		<row row_number="34" isdata="1">והוא שאכלן בכדי אכילת פרס ואי בשעירסן</row>
+		<row row_number="35" isdata="1">שאכלו מיבעי ליה אלא הכא במאי עסקינן</row>
+		<row row_number="36" isdata="1">בבא מלחם גדול מאי הוי עלה רב ששת</row>
+		<row row_number="37" isdata="1">אמר אפי' פירורין שאין בהן כזית אמר</row>
+		<row row_number="38" isdata="1">רבא והוא דאיכא תוריתא דנהמא עלייהו:</row>
+</amud>
+</daf>
+</masechet>
+</root>

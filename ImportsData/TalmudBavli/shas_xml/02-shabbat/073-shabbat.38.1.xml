@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:11.529897</dateCreated>
+   <lastModified>2020-01-14 15:02:11.529897</lastModified>
+ </meta>
+ <masechet name="שבת" serial="02">
+<daf value="38">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>שכח קדירה על גבי כירה ובשלה בשבת</row>
+		<row row_number="2" isdata="1">מהו אישתיק ולא א"ל ולא מידי למחר נפק</row>
+		<row row_number="3" isdata="1">דרש להו המבשל בשבת בשוגג יאכל</row>
+		<row row_number="4" isdata="1">במזיד לא יאכל ולא שנא מאי ול"ש רבה</row>
+		<row row_number="5" isdata="1">ורב יוסף דאמרי תרווייהו להיתירא מבשל</row>
+		<row row_number="6" isdata="1">הוא דקא עביד מעשה במזיד לא יאכל אבל</row>
+		<row row_number="7" isdata="1">האי דלא קא עביד מעשה במזיד נמי יאכל</row>
+		<row row_number="8" isdata="1">רב נחמן בר יצחק אמר לאיסורא מבשל</row>
+		<row row_number="9" isdata="1">הוא דלא אתי לאיערומי בשוגג יאכל אבל</row>
+		<row row_number="10" isdata="1">האי דאתי לאיערומי בשוגג נמי לא יאכל</row>
+		<row row_number="11" isdata="1">מיתיבי שכח קדירה על גבי כירה ובישלה</row>
+		<row row_number="12" isdata="1">בשבת בשוגג יאכל במזיד לא יאכל בד"א</row>
+		<row row_number="13" isdata="1">בחמין שלא הוחמו כל צורכן ותבשיל שלא</row>
+		<row row_number="14" isdata="1">בישל כל צורכו אבל חמין שהוחמו כל</row>
+		<row row_number="15" isdata="1">צורכן ותבשיל שבישל כל צורכו בין בשוגג</row>
+		<row row_number="16" isdata="1">בין במזיד יאכל דברי ר"מ ר' יהודה אומר</row>
+		<row row_number="17" isdata="1">חמין שהוחמו כל צורכן מותרין מפני</row>
+		<row row_number="18" isdata="1">שמצטמק ורע לו ותבשיל שבישל כל צורכו</row>
+		<row row_number="19" isdata="1">אסור מפני שמצטמק ויפה לו וכל המצטמק</row>
+		<row row_number="20" isdata="1">ויפה לו כגון כרוב ופולים ובשר טרוף אסור</row>
+		<row row_number="21" isdata="1">וכל המצטמק ורע לו מותר קתני מיהא</row>
+		<row row_number="22" isdata="1">תבשיל שלא בישל כל צורכו בשלמא לרב</row>
+		<row row_number="23" isdata="1">נחמן בר יצחק לא קשיא כאן קודם גזרה</row>
+		<row row_number="24" isdata="1">כאן לאחר גזרה אלא רבה ורב יוסף דאמרי</row>
+		<row row_number="25" isdata="1">להיתירא אי קודם גזרה קשיא מזיד אי</row>
+		<row row_number="26" isdata="1">לאחר גזרה קשיא נמי שוגג קשיא מאי</row>
+		<row row_number="27" isdata="1">גזירתא דאמר רב יהודה בר שמואל א"ר</row>
+		<row row_number="28" isdata="1">אבא אמר רב כהנא אמר רב בתחילה היו</row>
+		<row row_number="29" isdata="1">אומרים המבשל בשבת בשוגג יאכל במזיד</row>
+		<row row_number="30" isdata="1">לא יאכל וה"ה לשוכח משרבו משהין במזיד</row>
+		<row row_number="31" isdata="1">ואומרים שכחים אנו חזרו וקנסו על השוכח</row>
+		<row row_number="32" isdata="1">קשיא דר' מאיר אדר' מאיר קשיא דר'</row>
+		<row row_number="33" isdata="1">יהודה אדר' יהודה דר' מאיר אדר"מ לא</row>
+		<row row_number="34" isdata="1">קשיא הא לכתחילה הא דיעבד דר' יהודה</row>
+		<row row_number="35" isdata="1">אדר' יהודה נמי לא קשיא כאן בגרופה</row>
+		<row row_number="36" isdata="1">וקטומה כאן בשאינה גרופה וקטומה</row>
+		<row row_number="37" isdata="1">איבעיא להו עבר ושהה מאי מי קנסוהו</row>
+		<row row_number="38" isdata="1">רבנן או לא ת"ש דאמר שמואל בר נתן א"ר</row>
+		<row row_number="39" isdata="1">חנינא כשהלך רבי יוסי לציפורי מצא חמין</row>
+		<row row_number="40" isdata="1">שנשתהו על גבי כירה ולא אסר להן ביצים</row>
+		<row row_number="41" isdata="1">מצומקות שנשתהו על גבי כירה ואסר להן</row>
+		<row row_number="42" isdata="1">מאי לאו לאותו שבת לא לשבת הבאה</row>
+		<row row_number="43" isdata="1">מכלל דביצים מצומקות מצטמקות ויפה להן</row>
+		<row row_number="44" isdata="1">נינהו אין דאמר רב חמא בר חנינא פעם</row>
+		<row row_number="45" isdata="1">אחת נתארחתי אני ורבי למקום אחד</row>
+		<row row_number="46" isdata="1">והביאו לפנינו ביצים מצומקות כעוזרדין</row>
+		<row row_number="47" isdata="1">ואכלנו מהן הרבה: ב"ה אומרים אף</row>
+		<row row_number="48" isdata="1">מחזירין: אמר רב ששת לדברי האומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

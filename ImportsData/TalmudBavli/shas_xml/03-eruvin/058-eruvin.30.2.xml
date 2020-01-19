@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:20.615365</dateCreated>
+   <lastModified>2020-01-14 15:02:20.615365</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="30">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>שמערבין לגדול ביום הכפורים אמרו להן</row>
+		<row row_number="2" isdata="1">אבל אמרו להן כשם שמערבין לגדול ביום</row>
+		<row row_number="3" isdata="1">הכפורים כן מערבין לנזיר ביין ולישראל</row>
+		<row row_number="4" isdata="1">בתרומה ובית שמאי התם איכא סעודה</row>
+		<row row_number="5" isdata="1">הראויה מבעוד יום הכא ליכא סעודה</row>
+		<row row_number="6" isdata="1">הראויה מבעוד יום כמאן דלא כחנניה</row>
+		<row row_number="7" isdata="1">דתניא חנניה אומר כל עצמן של בית</row>
+		<row row_number="8" isdata="1">שמאי לא היו מודים בעירוב עד שיוציא</row>
+		<row row_number="9" isdata="1">מטתו וכל כלי תשמישיו לשם כמאן אזלא</row>
+		<row row_number="10" isdata="1">הא דתניא עירב בשחורים לא יצא בלבנים</row>
+		<row row_number="11" isdata="1">בלבנים לא יצא בשחורים כמאן אמר רב</row>
+		<row row_number="12" isdata="1">נחמן בר יצחק חנניה היא ואליבא דב"ש</row>
+		<row row_number="13" isdata="1">ולחנניה בשחורים הוא דלא יצא הא</row>
+		<row row_number="14" isdata="1">בלבנים יצא האמר עד שיוציא מטתו</row>
+		<row row_number="15" isdata="1">וכלי תשמישיו לשם הכי קאמר עירב</row>
+		<row row_number="16" isdata="1">בלבנים והוצרך לשחורים אף בלבנים לא</row>
+		<row row_number="17" isdata="1">יצא כמאן אמר רב נחמן בר יצחק חנניה</row>
+		<row row_number="18" isdata="1">היא ואליבא דבית שמאי: סומכוס אומר</row>
+		<row row_number="19" isdata="1">בחולין: ואילו לנזיר ביין לא פליג מאי</row>
+		<row row_number="20" isdata="1">טעמא אפשר דמתשיל אנזירותיה אי הכי</row>
+		<row row_number="21" isdata="1">תרומה נמי אפשר דמיתשיל עילויה אי</row>
+		<row row_number="22" isdata="1">מתשיל עלה הדרא לטיבלא וליפרוש עלה</row>
+		<row row_number="23" isdata="1">ממקום אחר לא נחשדו חבירים לתרום</row>
+		<row row_number="24" isdata="1">שלא מן המוקף ולפרוש עלה מיניה וביה</row>
+		<row row_number="25" isdata="1">דלית בה שיעורא ומאי פסקא אלא סומכוס</row>
+		<row row_number="26" isdata="1">סבר לה כרבנן דאמרי כל דבר שהוא משום</row>
+		<row row_number="27" isdata="1">שבות גזרו עליו בין השמשות כמאן אזלא</row>
+		<row row_number="28" isdata="1">הא דתנן יש שאמרו הכל לפי מה שהוא</row>
+		<row row_number="29" isdata="1">אדם מלא קומצו מנחה ומלא חפניו קטרת</row>
+		<row row_number="30" isdata="1">והשותה מלא לוגמיו ביום הכפורים ובמזון</row>
+		<row row_number="31" isdata="1">שתי סעודות לעירוב כמאן א"ר זירא סומכוס</row>
+		<row row_number="32" isdata="1">היא דאמר מאי דחזי ליה בעינן לימא פליגא</row>
+		<row row_number="33" isdata="1">אדרבי שמעון בן אלעזר דתניא ר"ש בן</row>
+		<row row_number="34" isdata="1">אלעזר אומר מערבין לחולה ולזקן כדי</row>
+		<row row_number="35" isdata="1">מזונו ולרעבתן בסעודה בינונית של כל</row>
+		<row row_number="36" isdata="1">אדם תרגומא אחולה וזקן אבל רעבתן</row>
+		<row row_number="37" isdata="1">בטלה דעתו אצל כל אדם: ולכהן בבית</row>
+		<row row_number="38" isdata="1">הפרס: דאמר רב יהודה אמר שמואל</row>
+		<row row_number="39" isdata="1">מנפח אדם בית הפרס והולך רבי</row>
+		<row row_number="40" isdata="1">יהודה בר אמי משמיה דרב יהודה אמר</row>
+		<row row_number="41" isdata="1">בית הפרס שנידש טהור: רבי יהודה</row>
+		<row row_number="42" isdata="1">אומר אף בית הקברות: תנא מפני שיכול</row>
+		<row row_number="43" isdata="1">לחוץ ולילך בשידה תיבה ומגדל קא סבר</row>
+		<row row_number="44" isdata="1">אהל זרוק שמיה אהל ובפלוגתא דהני</row>
+		<row row_number="45" isdata="1">תנאי דתניא הנכנס לארץ העמים בשידה</row>
+		<row row_number="46" isdata="1">תיבה ומגדל רבי מטמא רבי יוסי ברבי</row>
+		<row row_number="47" isdata="1">יהודה מטהר במאי קמיפלגי מ"ס אהל</row>
+		<row row_number="48" isdata="1">זרוק לאו שמיה אהל ומ"ס אהל זרוק</row>
+		<row row_number="49" isdata="1">שמיה אהל והא דתניא רבי יהודה אומר</row>
+</amud>
+</daf>
+</masechet>
+</root>

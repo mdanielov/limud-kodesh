@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:41.658128</dateCreated>
+   <lastModified>2020-01-14 15:02:41.658128</lastModified>
+ </meta>
+ <masechet name="ביצה" serial="08">
+<daf value="12">
+	<amud value="1">
+		<row row_number="1" isdata="1"><ContChapter name = "ביצה"/><ContGemara/>מר סבר גזרינן ציר באמצע אטו ציר מן הצד</row>
+		<row row_number="2" isdata="1">ומר סבר לא גזרינן<EndGemara/><StartMishna/>מתני' בית שמאי</row>
+		<row row_number="3" isdata="1">אומרים אין מוציאין לא את הקטן ולא את</row>
+		<row row_number="4" isdata="1">הלולב ולא את ספר תורה לרשות הרבים</row>
+		<row row_number="5" isdata="1">ובית הלל מתירין:<EndMishna/><StartGemara/>גמ' תני תנא קמיה</row>
+		<row row_number="6" isdata="1">דרבי יצחק בר אבדימי השוחט עולת נדבה</row>
+		<row row_number="7" isdata="1">ביו"ט לוקה א"ל דאמר לך מני בית שמאי</row>
+		<row row_number="8" isdata="1">היא דאמרי לא אמרינן מתוך שהותרה</row>
+		<row row_number="9" isdata="1">הוצאה לצורך הותרה נמי שלא לצורך דאי</row>
+		<row row_number="10" isdata="1">בית הלל הא אמרי מתוך שהותרה הוצאה</row>
+		<row row_number="11" isdata="1">לצורך הותרה נמי שלא לצורך הכא נמי</row>
+		<row row_number="12" isdata="1">מתוך שהותרה שחיטה לצורך הותרה נמי</row>
+		<row row_number="13" isdata="1">שלא לצורך מתקיף לה רבה ממאי דב"ש</row>
+		<row row_number="14" isdata="1">ובית הלל בהא פליגי דלמא בערוב והוצאה</row>
+		<row row_number="15" isdata="1">לשבת ואין ערוב והוצאה ליו"ט קא מיפלגי</row>
+		<row row_number="16" isdata="1">מ"ס ערוב הוצאה לשבת וערוב הוצאה</row>
+		<row row_number="17" isdata="1">ליו"ט ומר סבר ערוב הוצאה לשבת ואין</row>
+		<row row_number="18" isdata="1">ערוב הוצאה ליו"ט כדכתיב ולא תוציאו</row>
+		<row row_number="19" isdata="1">משא מבתיכם ביום השבת בשבת אין ביו"ט</row>
+		<row row_number="20" isdata="1">לא מתקיף לה רב יוסף אלא מעתה ליפלגו</row>
+		<row row_number="21" isdata="1">באבנים אלא מדלא מפלגי באבנים ש"מ</row>
+		<row row_number="22" isdata="1">בהוצאה שלא לצורך פליגי ואף ר' יוחנן</row>
+		<row row_number="23" isdata="1">סבר במתוך שהותרה הוצאה לצורך הותרה</row>
+		<row row_number="24" isdata="1">נמי שלא לצורך פליגי דתני תנא קמיה דר'</row>
+		<row row_number="25" isdata="1">יוחנן המבשל גיד הנשה בחלב ביו"ט ואכלו</row>
+		<row row_number="26" isdata="1">לוקה חמש לוקה משום מבשל גיד ולוקה</row>
+		<row row_number="27" isdata="1">משום אוכל גיד ולוקה משום מבשל בשר</row>
+		<row row_number="28" isdata="1">בחלב ולוקה משום אוכל בשר בחלב ולוקה</row>
+</amud>
+</daf>
+</masechet>
+</root>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:04:12.210524</dateCreated>
+   <lastModified>2020-01-14 15:04:12.210524</lastModified>
+ </meta>
+ <masechet name="חולין" serial="31">
+<daf value="28">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "השוחט"/><ContGemara/>נשחטיה והדר נבדקיה דלמא במקום נקב</row>
+		<row row_number="2" isdata="1">קשחיט נבדקיה והדר נשחטיה האמר רבה</row>
+		<row row_number="3" isdata="1">וושט אין לו בדיקה מבחוץ אלא מבפנים</row>
+		<row row_number="4" isdata="1">אמר ליה רב יוסף בריה נבדקיה לקנה</row>
+		<row row_number="5" isdata="1">ונשחטיה לקנה ולכשריה והדר לפכוה לושט</row>
+		<row row_number="6" isdata="1">ולבדקיה אמר רבא חכים יוסף ברי בטרפות</row>
+		<row row_number="7" isdata="1">כר' יוחנן אלמא אחד דקאמר או האי או האי:</row>
+		<row row_number="8" isdata="1">ר' יהודה אומר עד שישחוט: אמר רב חסדא</row>
+		<row row_number="9" isdata="1">לא א"ר יהודה אלא בעוף הואיל וצולהו כולו</row>
+		<row row_number="10" isdata="1">כאחד אבל בהמה כיון דמנתחה אבר אבר</row>
+		<row row_number="11" isdata="1">לא צריך למימרא דטעמא דרבי יהודה</row>
+		<row row_number="12" isdata="1">משום דם הוא והתנן רבי יהודה אומר עד</row>
+		<row row_number="13" isdata="1">שישחוט את הוורידין אימא עד שינקב את</row>
+		<row row_number="14" isdata="1">הוורידין ומאי עד שישחוט עד שינקוב בשעת</row>
+		<row row_number="15" isdata="1">שחיטה תא שמע וורידין בשחיטה דברי ר'</row>
+		<row row_number="16" isdata="1">יהודה אימא וורידין צריך לנקבן בשעת</row>
+		<row row_number="17" isdata="1">שחיטה דברי רבי יהודה תא שמע אמרו לו</row>
+		<row row_number="18" isdata="1">לרבי יהודה מאחר שלא הוזכרו וורידין אלא</row>
+		<row row_number="19" isdata="1">להוציא מהן דם מה לי בשחיטה מה לי</row>
+		<row row_number="20" isdata="1">שלא בשחיטה מכלל דרבי יהודה סבר</row>
+		<row row_number="21" isdata="1">בשחיטה הכי קאמרי לה מה לי לנקבן</row>
+		<row row_number="22" isdata="1">בשעת שחיטה מה לי לנקבן שלא בשעת</row>
+		<row row_number="23" isdata="1">שחיטה והוא סבר בשעת שחיטה אתי דם</row>
+		<row row_number="24" isdata="1">דחיים שלא בשעת שחיטה לא אתי דם דקריר</row>
+		<row row_number="25" isdata="1">בעי ר' ירמיה וורידין לרבי יהודה שהה בהן</row>
+		<row row_number="26" isdata="1">דרס בהן מהו א"ל ההוא סבא הכי אמר רבי</row>
+		<row row_number="27" isdata="1">אלעזר ואמרי לה אמר ליה ההוא סבא לרבי</row>
+		<row row_number="28" isdata="1">אלעזר הכי אמר רבי יוחנן מנקבן בקוץ</row>
+		<row row_number="29" isdata="1">והן כשרין תניא כוותיה דרב חסדא שחט</row>
+		<row row_number="30" isdata="1">שני חצאי סימנין בעוף פסול ואין צריך לומר</row>
+		<row row_number="31" isdata="1">בבהמה רבי יהודה אומר בעוף עד שישחוט</row>
+		<row row_number="32" isdata="1">את הוושט ואת הוורידין: חצי אחד בעוף</row>
+		<row row_number="33" isdata="1">וכו': אתמר רב אמר מחצה על מחצה כרוב</row>
+		<row row_number="34" isdata="1">רב כהנא אמר מחצה על מחצה אינו כרוב</row>
+		<row row_number="35" isdata="1">רב אמר מחצה על מחצה כרוב הכי אמר</row>
+		<row row_number="36" isdata="1">ליה רחמנא למשה לא תשייר רובא רב</row>
+		<row row_number="37" isdata="1">כהנא אמר מחצה על מחצה אינו כרוב</row>
+		<row row_number="38" isdata="1">הכי אמר ליה רחמנא למשה שחוט רובא</row>
+		<row row_number="39" isdata="1">(סימן חצי קטינא גרגרת פגימה) תנן חצי אחד בעוף ואחד וחצי</row>
+		<row row_number="40" isdata="1">בבהמה שחיטתו פסולה אי אמרת מחצה על מחצה כרוב אמאי פסול</row>
+		<row row_number="41" isdata="1">הא עבד ליה רוב מדרבנן דלמא לא אתי למעבד פלגא א"ר קטינא ת"ש</row>
+		<row row_number="42" isdata="1">חלקו לשנים והן שוין שניהם טמאין לפי שאי אפשר לצמצם הא אפשר</row>
+		<row row_number="43" isdata="1">לצמצם טהורין אמאי טהורין זיל הכא איכא רובא זיל הכא איכא רובא אמר</row>
+		<row row_number="44" isdata="1">רב פפא תרי רובי בחד מנא ליכא ת"ש שחט חצי גרגרת ושהה בה</row>
+</amud>
+</daf>
+</masechet>
+</root>

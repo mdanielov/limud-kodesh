@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:21.788624</dateCreated>
+   <lastModified>2020-01-14 15:02:21.788624</lastModified>
+ </meta>
+ <masechet name="עירובין" serial="03">
+<daf value="41">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "כירה"/><ContGemara/>דאי סלקא דעתך אכולהו הא בעי מיניה</row>
+		<row row_number="2" isdata="1">רבה מרב יהודה ולא פשט ליה ולטעמיך</row>
+		<row row_number="3" isdata="1">הא דדרש מר זוטרא משמיה דרב הונא</row>
+		<row row_number="4" isdata="1">הלכה מתענה ומשלים הא בעא מיניה רבה</row>
+		<row row_number="5" isdata="1">מרב הונא ולא פשט ליה אלא הא מקמי</row>
+		<row row_number="6" isdata="1">דשמעה והא לבתר דשמעה הכא נמי הא</row>
+		<row row_number="7" isdata="1">מקמי דשמעה הא לבתר דשמעה דרש מר</row>
+		<row row_number="8" isdata="1">זוטרא משמיה דרב הונא הלכה מתענין</row>
+		<row row_number="9" isdata="1">ומשלימין:<EndChapter name = "כירה"/><EndGemara/></row>
+		<row row_number="10" isdata="0">הדרן עלך בכל מערבין</row>
+		<row row_number="11" isdata="1"><StartChapter name = "במה טומנין"/><StartMishna/>מי שהוציאוהו נכרים או רוח רעה אין לו</row>
+		<row row_number="12" isdata="1">אלא ד' אמות החזירוהו כאילו לא יצא</row>
+		<row row_number="13" isdata="1">הוליכוהו לעיר אחרת נתנוהו בדיר או בסהר</row>
+		<row row_number="14" isdata="1">ר"ג ור' אלעזר בן עזריה אומרים מהלך את</row>
+		<row row_number="15" isdata="1">כולה רבי יהושע ור"ע אומרים אין לו אלא</row>
+		<row row_number="16" isdata="1">ד' אמות: מעשה שבאו מפלנדרסין והפליגה</row>
+		<row row_number="17" isdata="1">ספינתם בים ר"ג ורבי אלעזר בן עזריה הלכו</row>
+		<row row_number="18" isdata="1">את כולה ר' יהושע ור"ע לא זזו מד"א שרצו</row>
+		<row row_number="19" isdata="1">להחמיר על עצמן פעם אחת לא נכנסו</row>
+		<row row_number="20" isdata="1">לנמל עד שחשיכה אמרו לו לרבן גמליאל</row>
+		<row row_number="21" isdata="1">מה אנו לירד אמר להם מותרים אתם שכבר</row>
+		<row row_number="22" isdata="1">הייתי מסתכל והיינו בתוך התחום עד שלא</row>
+		<row row_number="23" isdata="1">חשיכה:<EndMishna/><StartGemara/>גמ' ת"ר ג' דברים מעבירין את</row>
+		<row row_number="24" isdata="1">האדם על דעתו ועל דעת קונו אלו הן עובדי</row>
+		<row row_number="25" isdata="1">כוכבים ורוח רעה ודקדוקי עניות למאי נפקא</row>
+		<row row_number="26" isdata="1">מינה למיבעי רחמי עלייהו ג' אין רואין פני</row>
+		<row row_number="27" isdata="1">גיהנם אלו הן דקדוקי עניות וחולי מעיין</row>
+		<row row_number="28" isdata="1">והרשות ויש אומרים אף מי שיש לו אשה</row>
+		<row row_number="29" isdata="1">רעה ואידך אשה רעה מצוה לגרשה ואידך</row>
+		<row row_number="30" isdata="1">זימנין דכתובתה מרובה אי נמי אית ליה</row>
+		<row row_number="31" isdata="1">בנים מינה ולא מצי מגרש לה למאי נפקא</row>
+		<row row_number="32" isdata="1">מינה לקבולי מאהבה שלשה מתין כשהן</row>
+		<row row_number="33" isdata="1">מספרין ואלו הן חולי מעיין וחיה והדרוקן</row>
+		<row row_number="34" isdata="1">למאי נפקא מינה למשמושי בהו זוודתא:</row>
+		<row row_number="35" isdata="1">אמר רב נחמן אמר שמואל יצא לדעת אין</row>
+		<row row_number="36" isdata="1">לו אלא ארבע אמות פשיטא השתא מי</row>
+		<row row_number="37" isdata="1">שהוציאוהו נכרים אין לו אלא ד' אמות יצא לדעת מיבעיא אלא אימא חזר</row>
+		<row row_number="38" isdata="1">לדעת אין לו אלא ד"א הא נמי תנינא החזירוהו נכרים כאילו לא יצא החזירוהו</row>
+		<row row_number="39" isdata="1">הוא דכאילו לא יצא אבל הוציאוהו נכרים וחזר לדעת אין לו אלא ד"א אלא</row>
+		<row row_number="40" isdata="1">אימא יצא לדעת והחזירוהו נכרים אין לו אלא ד"א הא נמי תנינא הוציאוהו</row>
+		<row row_number="41" isdata="1">והחזירוהו כאילו לא יצא הוציאוהו והחזירוהו הוא דכאילו לא יצא אבל יצא</row>
+		<row row_number="42" isdata="1">לדעת לא מהו דתימא לצדדין קתני מי שהוציאוהו נכרים וחזר לדעת אין לו</row>
+		<row row_number="43" isdata="1">אלא ד' אמות אבל יצא לדעת והחזירוהו נכרים כאילו לא יצא קמ"ל בעו מיניה</row>
+		<row row_number="44" isdata="1">מרבה הוצרך לנקביו מהו אמר להם גדול כבוד הבריות שדוחה את לא</row>
+		<row row_number="45" isdata="1">תעשה שבתורה אמרי נהרדעי אי פיקח הוא עייל לתחומא וכיון דעל על</row>
+		<row row_number="46" isdata="1">א"ר פפא פירות שיצאו חוץ לתחום וחזרו אפילו במזיד לא הפסידו את מקומן</row>
+		<row row_number="47" isdata="1">מ"ט אנוסין נינהו איתיביה רב יוסף בר שמעיה לרב פפא ר' נחמיה ור' אליעזר</row>
+		<row row_number="48" isdata="1">בן יעקב אומרים לעולם אסורין עד שיחזרו למקומן שוגגין בשוגג אין במזיד לא</row>
+		<row row_number="49" isdata="1">תנאי היא דתניא פירות שיצאו חוץ לתחום בשוגג יאכלו במזיד לא יאכלו</row>
+</amud>
+</daf>
+</masechet>
+</root>

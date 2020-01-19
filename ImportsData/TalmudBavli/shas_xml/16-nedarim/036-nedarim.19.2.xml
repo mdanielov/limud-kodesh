@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:00.748602</dateCreated>
+   <lastModified>2020-01-14 15:03:00.748602</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="19">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "ואלו מותרין"/><ContGemara/>הא מכירין אסורין אמר רבא גבי כרי קסבר</row>
+		<row row_number="2" isdata="1">כל שספיקו חמור מודאי לא מעייל נפשיה</row>
+		<row row_number="3" isdata="1">לספיקא דאילו גבי נזיר ודאי מגלח ומביא</row>
+		<row row_number="4" isdata="1">קרבן ונאכל על ספיקו לא מצי מגלח</row>
+		<row row_number="5" isdata="1">א"ל רב הונא בר יהודה לרבא אמר הריני</row>
+		<row row_number="6" isdata="1">נזיר עולם מאי א"ל נזיר עולם נמי ספיקו</row>
+		<row row_number="7" isdata="1">חמור מודאי דאילו ודאי הכביד שערו מיקל</row>
+		<row row_number="8" isdata="1">בתער ומביא שלש בהמות ואילו ספיקו</row>
+		<row row_number="9" isdata="1">לא אמר הריני נזיר שמשון מאי א"ל נזיר</row>
+		<row row_number="10" isdata="1">שמשון לא תניא א"ל והאמר רב אדא בר</row>
+		<row row_number="11" isdata="1">אהבה תניא נזיר שמשון א"ל אי תניא</row>
+		<row row_number="12" isdata="1">תניא רב אשי אמר ההיא רבי יהודה משום</row>
+		<row row_number="13" isdata="1">ר"ט היא דתניא ר' יהודה משום ר"ט אומר</row>
+		<row row_number="14" isdata="1">אין אחד מהם נזיר לפי שלא ניתנה נזירות</row>
+		<row row_number="15" isdata="1">אלא להפלאה אי הכי מאי איריא שנגנב או</row>
+		<row row_number="16" isdata="1">שאבד אלא להודיעך כחו דר' שמעון דאף</row>
+		<row row_number="17" isdata="1">על גב דנגנב או שאבד קסבר מעייל איניש</row>
+		<row row_number="18" isdata="1">נפשיה לספיק': רבי יהודה אומר סתם תרומה</row>
+		<row row_number="19" isdata="1">ביהודה כו': הא מכירין אסורין אלמא</row>
+		<row row_number="20" isdata="1">ספיקא לחומרא אימא סיפא סתם חרמים</row>
+		<row row_number="21" isdata="1">ביהודה מותרין ובגליל אסורין שאין אנשי</row>
+		<row row_number="22" isdata="1">הגליל מכירין את חרמי הכהנים הא מכירין</row>
+		<row row_number="23" isdata="1">מותרין אלמא ספיקא לקולא אמר אביי סיפא</row>
+		<row row_number="24" isdata="1">ר"א ברבי צדוק היא דתניא רבי יהודה אומר</row>
+		<row row_number="25" isdata="1">סתם תרומה ביהודה אסורה רבי אלעזר</row>
+		<row row_number="26" isdata="1">בר' צדוק אומר סתם חרמים בגליל אסורין:</row>
+</amud>
+</daf>
+</masechet>
+</root>

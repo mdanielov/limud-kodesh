@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:36.544140</dateCreated>
+   <lastModified>2020-01-14 15:02:36.544140</lastModified>
+ </meta>
+ <masechet name="יומא" serial="06">
+<daf value="48">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הוציאו לו"/><ContGemara/>חישב בחתיית גחלים מהו מכשירי מצוה</row>
+		<row row_number="2" isdata="1">כמצוה דמו או לא תיקו בעי מיניה</row>
+		<row row_number="3" isdata="1">מרב ששת הולכה בשמאל מהו אמר</row>
+		<row row_number="4" isdata="1">להו רב ששת תניתוה נטל את המחתה</row>
+		<row row_number="5" isdata="1">בימינו ואת הכף בשמאלו ונפשוט להו</row>
+		<row row_number="6" isdata="1">מהא דתנן הרגל של ימין בשמאל ובית</row>
+		<row row_number="7" isdata="1">עורה לחוץ אי מהתם הוה אמינא הני</row>
+		<row row_number="8" isdata="1">מילי הולכה דלא מעכבא כפרה אבל</row>
+		<row row_number="9" isdata="1">הולכה דמעכבא כפרה לא קמשמע לן</row>
+</amud>
+</daf>
+</masechet>
+</root>

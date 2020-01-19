@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:02.645113</dateCreated>
+   <lastModified>2020-01-14 15:03:02.645113</lastModified>
+ </meta>
+ <masechet name="נדרים" serial="16">
+<daf value="78">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "נערה המאורסה"/><ContGemara/>מועדי ה' צריכין קידוש ב"ד שבת בראשית</row>
+		<row row_number="2" isdata="1">אין צריכה קידוש ב"ד מועדי ה' צריכין</row>
+		<row row_number="3" isdata="1">מומחה ואין פרשת נדרים צריכין מומחה אפי'</row>
+		<row row_number="4" isdata="1">בית דין הדיוטות והא בפרשת נדרים ראשי</row>
+		<row row_number="5" isdata="1">המטות כתיב אמר רב חסדא ואיתימא רבי</row>
+		<row row_number="6" isdata="1">יוחנן ביחיד מומחה א"ר חנינא השותק על</row>
+		<row row_number="7" isdata="1">מנת למיקט מפר אפילו מכאן ועד י' ימים</row>
+		<row row_number="8" isdata="1">מתיב רבא אימתי אמרו מת הבעל נתרוקנה</row>
+		<row row_number="9" isdata="1">רשות לאב בזמן שלא שמע הבעל או ששמע</row>
+		<row row_number="10" isdata="1">ושתק או ששמע והפר ומת בו ביום אבל</row>
+		<row row_number="11" isdata="1">שמע וקיים או ששמע ושתק ומת ביום של</row>
+		<row row_number="12" isdata="1">אחריו אין יכול להפר מאי לאו בשותק על</row>
+		<row row_number="13" isdata="1">מנת למיקט לא בשותק על מנת לקיים אי</row>
+		<row row_number="14" isdata="1">הכי היינו או שמע וקיים אלא בשותק</row>
+		<row row_number="15" isdata="1">סתם מתיב רב חסדא חומר בהקם</row>
+		<row row_number="16" isdata="1">מבהפר ובהפר מבהקם חומר בהקם</row>
+</amud>
+</daf>
+</masechet>
+</root>

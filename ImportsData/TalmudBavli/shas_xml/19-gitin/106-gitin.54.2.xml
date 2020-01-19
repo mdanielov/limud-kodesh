@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:03:11.216550</dateCreated>
+   <lastModified>2020-01-14 15:03:11.216550</lastModified>
+ </meta>
+ <masechet name="גיטין" serial="19">
+<daf value="54">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "הניזקין"/><ContGemara/>נפלו ונתפצעו אחד שוגג ואחד מזיד לא</row>
+		<row row_number="2" isdata="1">יעלו דברי ר"מ ורבי יהודה רבי יוסי ור'</row>
+		<row row_number="3" isdata="1">שמעון אומרים בשוגג יעלו במזיד לא</row>
+		<row row_number="4" isdata="1">יעלו והא הכא דמדאורייתא חד בתרי בטל</row>
+		<row row_number="5" isdata="1">ורבנן הוא דגזור וקא קניס ר' יהודה התם</row>
+		<row row_number="6" isdata="1">היינו טעמא דר' יהודה משום דאתי</row>
+		<row row_number="7" isdata="1">לאיערומי ורמי דרבי יוסי אדרבי יוסי</row>
+		<row row_number="8" isdata="1">דתנן נטיעה של ערלה ושל כלאי הכרם</row>
+		<row row_number="9" isdata="1">שנתערבו בנטיעות אחרות הרי זה לא</row>
+		<row row_number="10" isdata="1">ילקט ואם ליקט יעלו באחד ומאתים</row>
+		<row row_number="11" isdata="1">ובלבד שלא יתכוין ללקט ר' יוסי אומר</row>
+		<row row_number="12" isdata="1">אף המתכוין ללקט יעלו באחד ומאתים</row>
+		<row row_number="13" isdata="1">הא אתמר עלה אמר רבא חזקה אין אדם</row>
+		<row row_number="14" isdata="1">אוסר את כרמו בנטיעה אחת וכן כי אתא</row>
+		<row row_number="15" isdata="1">רבין א"ר יוחנן חזקה אין אדם אוסר את</row>
+		<row row_number="16" isdata="1">כרמו בנטיעה אחת<EndGemara/><StartMishna/>מתני' הכהנים</row>
+		<row row_number="17" isdata="1">שפגלו במקדש מזידין חייבין:<EndMishna/><StartGemara/>גמ' ת"ר</row>
+		<row row_number="18" isdata="1">היה עושה עמו בטהרות ואמר לו טהרות</row>
+		<row row_number="19" isdata="1">שעשיתי עמך נטמאו היה עושה עמו</row>
+		<row row_number="20" isdata="1">בזבחים וא"ל זבחים שעשיתי עמך נתפגלו</row>
+		<row row_number="21" isdata="1">נאמן אבל אמר לו טהרות שעשיתי עמך</row>
+		<row row_number="22" isdata="1">ביום פלוני נטמאו וזבחים שעשיתי עמך</row>
+		<row row_number="23" isdata="1">ביום פלוני נתפגלו אינו נאמן מאי שנא</row>
+		<row row_number="24" isdata="1">רישא ומאי שנא סיפא אמר אביי כל</row>
+		<row row_number="25" isdata="1">שבידו נאמן רבא אמר כגון דאשכחיה</row>
+		<row row_number="26" isdata="1">ולא אמר ליה ולא מידי ולבתר הכי</row>
+		<row row_number="27" isdata="1">אשכחיה ואמר ליה ההוא דאמר ליה</row>
+		<row row_number="28" isdata="1">לחבריה טהרות שעשיתי עמך ביום פלוני</row>
+		<row row_number="29" isdata="1">נטמאו אתא לקמיה דרבי אמי אמר ליה</row>
+		<row row_number="30" isdata="1">שורת הדין אינו נאמן אמר לפניו רבי</row>
+		<row row_number="31" isdata="1">אסי רבי אתה אומר כן הכי אמר ר' יוחנן</row>
+		<row row_number="32" isdata="1">משום רבי יוסי מה אעשה שהתורה</row>
+		<row row_number="33" isdata="1">האמינתו היכן האמינתו א"ר יצחק בר</row>
+		<row row_number="34" isdata="1">ביסנא כהן גדול ביוה"כ יוכיח דכי אמר</row>
+		<row row_number="35" isdata="1">פגול מהימן ומנא ידעינן והכתיב וכל</row>
+		<row row_number="36" isdata="1">אדם לא יהיה באהל מועד אלא לאו משום</row>
+		<row row_number="37" isdata="1">דמהימן ודלמא דשמעניה דפגיל אי לאו</row>
+		<row row_number="38" isdata="1">דמהימן אע"ג דשמעניה נמי לא מהימן</row>
+		<row row_number="39" isdata="1">דדלמא לבתר הכי קאמר ודלמא דחזיניה</row>
+		<row row_number="40" isdata="1">בפישפש קשיא ההוא דאתא לקמיה דרבי</row>
+		<row row_number="41" isdata="1">אמי אמר ליה ספר תורה שכתבתי לפלוני</row>
+		<row row_number="42" isdata="1">אזכרות שלו לא כתבתים לשמן אמר</row>
+		<row row_number="43" isdata="1">ליה ספר תורה ביד מי אמר ליה ביד לוקח אמר ליה נאמן אתה</row>
+		<row row_number="44" isdata="1">להפסיד שכרך ואי אתה נאמן להפסיד ספר תורה אמר ליה רבי ירמיה</row>
+		<row row_number="45" isdata="1">נהי דהפסיד שכר אזכרות שכר דספר תורה כוליה מי הפסיד אמר ליה</row>
+		<row row_number="46" isdata="1">אין שכל ספר תורה שאין אזכרות שלו כתובות לשמן אינו שוה כלום</row>
+		<row row_number="47" isdata="1">וליעבר עלייהו קולמוס וליקדשיה כמאן נימא דלא כרבי יהודה דתנן</row>
+		<row row_number="48" isdata="1">הרי שהיה צריך לכתוב את השם ונתכוון לכתוב יהודה וטעה ולא</row>
+		<row row_number="49" isdata="1">הטיל בו דלת מעביר עליו קולמוס ומקדשו דברי רבי יהודה וחכמים</row>
+		<row row_number="50" isdata="1">אומרים אין השם מן המובחר אפילו תימא רבי יהודה עד כאן לא</row>
+		<row row_number="51" isdata="1">קאמר רבי יהודה אלא בחדא אזכרה אבל דכולי ספר תורה לא משום</row>
+		<row row_number="52" isdata="1">דמיחזי כמנומר ההוא דאתא לקמיה דר' אבהו א"ל ס"ת שכתבתי לפלוני</row>
+		<row row_number="53" isdata="1">גוילין שלו לא עיבדתים לשמן א"ל ספר תורה ביד מי א"ל ביד לוקח אמר</row>
+		<row row_number="54" isdata="1">לו מתוך שאתה נאמן להפסיד שכרך אתה נאמן להפסיד ספר תורה</row>
+</amud>
+</daf>
+</masechet>
+</root>

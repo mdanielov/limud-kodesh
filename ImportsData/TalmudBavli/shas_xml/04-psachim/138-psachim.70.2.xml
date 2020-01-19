@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <meta>
+   <version>Vilna</version>
+   <bookPublishing>Oz Vehadar</bookPublishing>
+   <resourceType>webCrawler</resourceType>
+   <refUri>http://...</refUri>
+   <handlingBy>Mordechai Danielov</handlingBy>
+   <dateCreated>2020-01-14 15:02:29.360796</dateCreated>
+   <lastModified>2020-01-14 15:02:29.360796</lastModified>
+ </meta>
+ <masechet name="פסחים" serial="04">
+<daf value="70">
+	<amud value="2">
+		<row row_number="1" isdata="1"><ContChapter name = "אלו דברים"/><ContGemara/>במרובה מנא ידעי ואלא שבא בטומאה סוף</row>
+		<row row_number="2" isdata="1">סוף מנא ידעי דמית נשיא דמית נשיא אימת</row>
+		<row row_number="3" isdata="1">אילימא דמית בשלשה עשר סכין למה לי</row>
+		<row row_number="4" isdata="1">דמטבליה ואלא דמית בארבעה עשר מאי</row>
+		<row row_number="5" isdata="1">שנא סכין דמטביל ומאי שנא קופיץ דלא</row>
+		<row row_number="6" isdata="1">מטביל לה לא צריכא דנשיא גוסס בשלשה</row>
+		<row row_number="7" isdata="1">עשר סכין דחד ספיקא מטביל לה קופיץ</row>
+		<row row_number="8" isdata="1">דתרי ספיקי לא מטביל לה תניא יהודה בן</row>
+		<row row_number="9" isdata="1">דורתאי פירש הוא ודורתאי בנו והלך וישב</row>
+		<row row_number="10" isdata="1">לו בדרום אמר אם יבוא אליהו ויאמר להם</row>
+		<row row_number="11" isdata="1">לישראל מפני מה לא חגגתם חגיגה בשבת</row>
+		<row row_number="12" isdata="1">מה הן אומרים לו תמהני על שני גדולי הדור</row>
+		<row row_number="13" isdata="1">שמעיה ואבטליון שהן חכמים גדולים ודרשנין</row>
+		<row row_number="14" isdata="1">גדולים ולא אמרו להן לישראל חגיגה דוחה</row>
+		<row row_number="15" isdata="1">את השבת אמר רב מ"ט דבן דורתאי דכתיב</row>
+		<row row_number="16" isdata="1">וזבחת פסח לה' אלהיך צאן ובקר והלא אין</row>
+		<row row_number="17" isdata="1">פסח אלא מן הכבשים ומן העזים אלא צאן</row>
+		<row row_number="18" isdata="1">זה פסח בקר זו חגיגה ואמר רחמנא וזבחת</row>
+		<row row_number="19" isdata="1">פסח א"ר אשי ואנן טעמא דפרושים ניקו</row>
+		<row row_number="20" isdata="1">ונפרוש אלא קרא לכדרב נחמן הוא דאתא</row>
+		<row row_number="21" isdata="1">דאמר רב נחמן אמר רבה בר אבוה מניין</row>
+		<row row_number="22" isdata="1">למותר הפסח שקרב שלמים שנא' וזבחת</row>
+		<row row_number="23" isdata="1">פסח לה' אלהיך צאן ובקר וכי פסח מן הבקר</row>
+		<row row_number="24" isdata="1">בא והלא אין פסח בא אלא מן הכבשים ומן</row>
+		<row row_number="25" isdata="1">העזים אלא מותר הפסח יהא לדבר הבא מן</row>
+		<row row_number="26" isdata="1">הצאן ומן הבקר ורבנן מ"ט לא דחי שבת</row>
+		<row row_number="27" isdata="1">הא ודאי קרבן ציבור הוא א"ר אילעא משום</row>
+		<row row_number="28" isdata="1">רבי יהודה בן ספרא אמר קרא וחגותם</row>
+		<row row_number="29" isdata="1">אותו חג לה' שבעת ימים בשנה שבעה</row>
+		<row row_number="30" isdata="1">שמונה הוו אלא מכאן לחגיגה שאינה דוחה</row>
+		<row row_number="31" isdata="1">את השבת כי אתא רבין אמר אמרתי לפני</row>
+		<row row_number="32" isdata="1">רבותי פעמים שאי אתה מוצא אלא ששה</row>
+		<row row_number="33" isdata="1">כגון שחל י"ט הראשון של חג בשבת אמר</row>
+		<row row_number="34" isdata="1">אביי אבין תכלא לימא כי הא מילתא</row>
+		<row row_number="35" isdata="1">שמנה לא משכחת לה כלל שבעה איתא</row>
+		<row row_number="36" isdata="1">ברוב שנים אמר עולא אמר רבי אלעזר</row>
+		<row row_number="37" isdata="1">שלמים ששחטן מערב י"ט אינו יוצא בהן</row>
+		<row row_number="38" isdata="1">לא משום שמחה ולא משום חגיגה משום</row>
+		<row row_number="39" isdata="1">שמחה דכתיב וזבחת ושמחת בעינן זביחה</row>
+</amud>
+</daf>
+</masechet>
+</root>
