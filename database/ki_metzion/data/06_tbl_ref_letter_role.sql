@@ -1,10 +1,9 @@
-USE KiMeTzion
-GO
+USE KiMeTzion;
 
 INSERT INTO dbo.TBL_REF_LETTER_ROLE
 VALUES 
-('קידומת'),
-('שורש'),
-('תוספת'),
-('סיומת')
-GO
+(N'קידומת'),
+(N'שורש'),
+(N'תוספת'),
+(N'סיומת')
+;
