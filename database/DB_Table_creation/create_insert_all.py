@@ -28,6 +28,7 @@ ls_data = os.listdir(data_dir)
 
 
 def query_string(sql_full_path):
+    print(sql_full_path)
     with open(sql_full_path, 'r', encoding='utf-8') as f:
         lines = f.read()
         # remove any common leading whitespace from every line
@@ -55,6 +56,7 @@ def main():
             # print("ls_dir:", ls_dir)
 
         for file in ls_dir:
+            print(f"working on {file}")
             query = query_string(f"{schema_dir}\\{ls_schema[i]}\\{file}")
             cursor.execute(query)
             # print(f"{file} script executed successfully !")
