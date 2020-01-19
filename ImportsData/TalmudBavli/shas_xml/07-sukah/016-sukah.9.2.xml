@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2020-01-14 15:02:38.667832</dateCreated>
-   <lastModified>2020-01-14 15:02:38.667832</lastModified>
+   <dateCreated>2020-01-19 17:04:33.373475</dateCreated>
+   <lastModified>2020-01-19 17:04:33.373475</lastModified>
  </meta>
  <masechet name="סוכה" serial="07">
 <daf value="9">
 	<amud value="2">
-		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContMishna/>span class="shastitle4">מתני' העושה סוכתו תחת האילן כאילו</row>
+		<row row_number="1" isdata="1"><ContChapter name = "סוכה"/><ContMishna/>מתני' העושה סוכתו תחת האילן כאילו<EndGemara/><StartMishna/></row>
 		<row row_number="2" isdata="1">עשאה בתוך הבית סוכה על גבי סוכה</row>
 		<row row_number="3" isdata="1">העליונה כשרה והתחתונה פסולה ר' יהודה</row>
 		<row row_number="4" isdata="1">אומר אם אין דיורין בעליונה התחתונה</row>
