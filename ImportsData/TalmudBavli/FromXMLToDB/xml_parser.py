@@ -169,6 +169,9 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
         word_position = text.index(elem) + 1
 
         elem = replaceMultiple(elem, ["(", ")", ".", ":", "[", "]", " "], "")
+        
+        if elem == "":
+            continue
 
         textline = f"|{massechet_daf_id}|{perek_id}|{row_number}|{w_deleted}|{w_added}|{word_position}|{w_type}|{elem}"
 
