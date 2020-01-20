@@ -12,7 +12,7 @@ massechet_dir_list = os.listdir(parent_dir_path)
 server = config.get("SQL", "server")
 table_names = config.get("SQL", "table_names").split(',')
 database_name = config.get("SQL", "database_name")
-csv_file_name = config.get("CSV", "csv_file_name")
+csv_file_name = os.path.join(os.path.abspath(os.path.dirname(__file__))) + "\\" + "temp_csv_insert.csv"
 
 if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name)):
     os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name))
