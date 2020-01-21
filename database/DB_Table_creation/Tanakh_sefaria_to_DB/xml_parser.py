@@ -1,5 +1,6 @@
 import xml.etree.cElementTree as ET
 import os
+import re
 import configparser
 import pyodbc
 from hebrew_numbers import int_to_gematria
@@ -65,8 +66,13 @@ def get_xml_word_and_attributes(xml):
             if attributes.get('Kri') == 'true':
                 isKri = 1
             else:
-                isKri = 0    
+                isKri = 0  
+                  
             word = elem.text
+            
+            word = re.sub('[\[\]\(\)]+','',elem.text)
+            
+            
       
             textline = f"|{perek_pasuk_id}|{word_position}|{isKtiv}|{isKri}|{word}"   
         
