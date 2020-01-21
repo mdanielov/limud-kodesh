@@ -53,6 +53,7 @@ def get_csv_content(file_csv):
         for elem in lineList:
             element = elem.replace('\n', '')
             mylist = str(element).split("|")
+            print(mylist[1])
 
             # Append all prakim in that sefer to a list
             sql_select_Query = f"select PEREK_ID from TBL_TANAKH_PEREK where PEREK_NUM BETWEEN 1 AND {mylist[1]}"
@@ -63,14 +64,14 @@ def get_csv_content(file_csv):
             for row in records:
                 perek_id_list.append(row[0])
                 i += 1
-            print("perek_id_list: ", perek_id_list)
+            # print("perek_id_list: ", perek_id_list)
             i=0
             
 
             # Loop through every perek in the sefer
             while i < int(mylist[1]):
-                print("i: ", i, " k: ", k)
-                print(perek_id_list[i], sefer_id_list[k])            
+                # print("i: ", i, " k: ", k)
+                # print(perek_id_list[i], sefer_id_list[k])            
                 query_string = f"INSERT INTO TBL_TANAKH_SEFER_PEREK (PEREK_ID, SEFER_ID) VALUES ({perek_id_list[i]}, {sefer_id_list[k]})"
                 cursor.execute(query_string)
                 i += 1
