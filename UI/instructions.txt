@@ -1,0 +1,86 @@
+LARAVEL STEPS:
+
+
+INSTALL SQL SERVER DRIVER FOR PHP :
+------------------------------------
+
+source : https://stackoverflow.com/questions/48009654/connecting-php-7-2-to-ms-sql-using-sqlsrv
+
+What do you need to determine are
+
+Which version of PHP
+The runtime you are using is Thread Safe or Non-Thread Safe
+The runtime you are using is 64 bits or 32 bits
+Then you must look at the requirement page here : https://docs.microsoft.com/en-us/sql/connect/php/system-requirements-for-the-php-sql-driver?view=sql-server-2017
+
+Check the version of PHP you are using.
+
+Then go to download page: https://docs.microsoft.com/en-us/sql/connect/php/download-drivers-php-sql-server?view=sql-server-2017
+, select the link which specific with version you prefer.
+
+The file you downloaded will be a self-extractable EXE file, then extract to the place where you want.
+
+you will see list of dll files like these...
+
+php_pdo_sqlsrv_7_nts_x64.dll
+php_pdo_sqlsrv_7_nts_x86.dll
+php_pdo_sqlsrv_7_ts_x64.dll
+php_pdo_sqlsrv_7_ts_x86.dll
+...
+php_sqlsrv_72_ts_x86.dll
+
+What is the meaning that is in the name of these files?
+
+Like I said before, what you need to determine to select the proper extension file. The SQL Server extension need 2 files of the name start with php_pdo_sqlsrv_xxx and php_sqlsrv_xxx.
+
+Next number mean to your PHP version, in this case PHP 7.2, so you need to choose file name has _72_ in its.
+
+Next number mean to your runtime Thread Safe or Non-Thread Safe, which specific in the file name _ts_ (Thread Safe) or _nts_ (Non-Thread Safe).
+
+Next number mean to your runtime 32 bits or 64 bits, which specific in the file name _x86 (32 bits) or _x64 (64 bits)
+
+So check your PHP environment by phpinfo(), or run the command php --version on your console, and then notice the message displayed, for my computer it look like these...
+
+PHP 7.2.12 (cli) (built: Nov  8 2018 06:12:12) ( ZTS MSVC15 (Visual C++ 2017) x86 )
+Copyright (c) 1997-2018 The PHP Group
+Zend Engine v3.2.0, Copyright (c) 1998-2018 Zend Technologies
+By look from those information, I got PHP 7.2, ZTS mean to Thread Safe (Non-Thread Safe will be NTS), and the x86 is 32 bits.
+
+So, what I must pick is the extension which are php_sqlsrv_72_ts_x86.dll and php_pdo_sqlsrv_72_ts_x86.dll
+
+Final: copy them to your /php/ext folder and edit php.ini with those 2 files name.
+
+// example with my case
+extension=php_pdo_sqlsrv_72_ts_x86
+extension=php_sqlsrv_72_ts_x86
+Then save php.ini file and then restart your server.
+
+Test your result by looking at phpinfo.php, which MUST has pdo_sqlsrv in the page. That's mean your environment can run PHP and connect to SQL Server now.
+
+
+SQL SERVER CONFIGURATION :
+---------------------------
+
+In order to avoid the following issue : "TCP Provider: No connection could be made because the target machine actively refused it."
+
+go to sql server management configuration and follow those steps : (source : https://stackoverflow.com/questions/45613358/sqlstate08001-microsoftodbc-driver-13-for-sql-servertcp-provider-no-conn)
+
+Sql Server Configuration Manager -> Sql Server Network Configuration -> Protocols For -> TCP/IP ->
+
+change the following:
+
+IpAll
+TCP Dynamic Ports 49226
+TCP Port
+
+To:
+
+IpAll
+TCP Dynamic Ports
+TCP Port          1433
+
+
+*********************
+
+
+In the database.php config file, put every others unused connections in comments.
