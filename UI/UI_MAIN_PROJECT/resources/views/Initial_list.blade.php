@@ -8,11 +8,35 @@
 
 <body>
 
-<div class="form-group">
-  <input type="text" name="inputSearch" class="form-control" placeholder="Search an abbreviation" style="width: 20%;">
-  <button type="text" id="btnFiterSubmitSearch" class="btn btn-info">Submit</button>
-</div>
-  <div style="width: 30%; margin : 0 auto;">
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-bottom: 5%;">
+  <div class="collapse navbar-collapse" id="navbarNav">     
+  <a href="#"><img src="img/final_logo.jpg" width="150px" style="border-radius: 50px;" alt="bone_yerushalayim_logo"></a>
+  <ul class="navbar-nav" style="margin : 0 auto;">
+      <li class="nav-item active">
+        <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Features</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Pricing</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Disabled</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+
+<h1 class="text-center" >ראשי תיבות <br><small class="text-muted">(Abbreviations)</small></h1>
+
+
+<p class="lead text-center" style="margin-bottom: 5%;">Here are all the abbreviations contained in the talmud Bavli ! More than 1300 ! <br> click on the one of your choice to propose a definition</p>
+
+<div style="width: 30%; margin : 0 auto;">
     <table class="table table-striped table-bordered table-sm data-table" style="text-align: center;" id="initial_table">
       <thead class="thead-dark">
         <tr>
