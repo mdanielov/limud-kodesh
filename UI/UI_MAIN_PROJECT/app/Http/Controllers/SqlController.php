@@ -8,9 +8,12 @@ class SqlController extends Controller {
 
 public function index(){
 
-$initials = DB::select('select distinct initial from tbl_user_initials');
+$initials = DB::table('tbl_user_initials')->select('initial')->distinct()->paginate(15);
+
 $count = DB::select('select count(distinct initial)[count] from tbl_user_initials');
+
 #var_dump($count);
-return view('hello',['initials'=>$initials,'count'=>$count]);
+
+return view('Initial_list',['initials'=>$initials,'count'=>$count]);
 }
 }
