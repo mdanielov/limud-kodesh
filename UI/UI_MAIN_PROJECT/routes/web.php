@@ -16,3 +16,6 @@
 // });
 
 Route::get('/','SqlController@index');
+
+
+Route::get('/initial/{value}', 'SqlController@showInitial')->name('initial');
