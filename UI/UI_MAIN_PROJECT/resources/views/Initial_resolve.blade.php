@@ -47,11 +47,11 @@
                     @foreach ($initialPosition as $Massechet)
                     <tr>
                         <th style="padding: 10px;"><input type="checkbox"></th>
-                        <th scope="row">{{ $Massechet->MASSECHET_NAME }}</th>
-                        <th scope="row">{{ $Massechet->DAF_NAME }}</th>
-                        <th scope="row">{{ $Massechet->AMUD_NAME }}</th>
-                        <th scope="row">{{ $Massechet->ROW_ID }}</th>
-                    </tr>
+                        <th scope="row"><a href="{{ URL::to('context/'.$Massechet->MASSECHET_NAME. '/' .$Massechet->DAF_NAME. '/' .$Massechet->AMUD_NAME. '/' .$Massechet->ROW_ID) }}">{{ $Massechet->MASSECHET_NAME }}</a></th>
+                        <th scope="row"><a href="{{ URL::to('context/'.$Massechet->MASSECHET_NAME. '/' .$Massechet->DAF_NAME). '/' .$Massechet->AMUD_NAME. '/' .$Massechet->ROW_ID }}">{{ $Massechet->DAF_NAME }}</a></th>
+                        <th scope="row"><a href="{{ URL::to('context/'.$Massechet->MASSECHET_NAME. '/' .$Massechet->DAF_NAME). '/' .$Massechet->AMUD_NAME. '/' .$Massechet->ROW_ID }}">{{ $Massechet->AMUD_NAME }}</a></th>
+                        <th scope="row"><a href="{{ URL::to('context/'.$Massechet->MASSECHET_NAME. '/' .$Massechet->DAF_NAME). '/' .$Massechet->AMUD_NAME. '/' .$Massechet->ROW_ID }}">{{ $Massechet->ROW_ID }}</a></th>        
+                    </tr>           
                     @endforeach
                 </tbody>
             </table>
