@@ -4,6 +4,7 @@
 
     <head>
         <title>View Abbreviations</title>
+        <link href="{{ URL::asset("css/Initial_resolve.css") }}"" rel="stylesheet">
     </head>
 
     <body>
@@ -45,19 +46,18 @@
                 </thead>
                 <tbody>
                     @foreach ($initialPosition as $Massechet)
-                    <tr>
+                    <tr class="focus"  onclick = "window.location.href = 'http://www.google.com'">
                         <th style="padding: 10px;"><input type="checkbox"></th>
-                        <th scope="row"><a href="{{ URL::to('context/'.$Massechet->MASSECHET_NAME. '/' .$Massechet->DAF_NAME. '/' .$Massechet->AMUD_NAME. '/' .$Massechet->ROW_ID) }}">{{ $Massechet->MASSECHET_NAME }}</a></th>
-                        <th scope="row"><a href="{{ URL::to('context/'.$Massechet->MASSECHET_NAME. '/' .$Massechet->DAF_NAME). '/' .$Massechet->AMUD_NAME. '/' .$Massechet->ROW_ID }}">{{ $Massechet->DAF_NAME }}</a></th>
-                        <th scope="row"><a href="{{ URL::to('context/'.$Massechet->MASSECHET_NAME. '/' .$Massechet->DAF_NAME). '/' .$Massechet->AMUD_NAME. '/' .$Massechet->ROW_ID }}">{{ $Massechet->AMUD_NAME }}</a></th>
-                        <th scope="row"><a href="{{ URL::to('context/'.$Massechet->MASSECHET_NAME. '/' .$Massechet->DAF_NAME). '/' .$Massechet->AMUD_NAME. '/' .$Massechet->ROW_ID }}">{{ $Massechet->ROW_ID }}</a></th>        
+                        <th scope="row">{{ $Massechet->MASSECHET_NAME }}</th>
+                        <th scope="row">{{ $Massechet->DAF_NAME }}</th>
+                        <th scope="row">{{ $Massechet->AMUD_NAME }}</th>
+                        <th scope="row">{{ $Massechet->ROW_ID }}</th>        
                     </tr>           
                     @endforeach
                 </tbody>
             </table>
             {{ $initialPosition->onEachSide(2)->links() }}
         </div>
-
 
     </body>
 

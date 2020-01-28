@@ -92,11 +92,13 @@ def get_xml_word_and_attributes(xml):
             else:
                 isKri = 0  
                   
-            word = elem.text
+            words = elem.text
             
-            word = re.sub('[\[\]\(\)]+','',elem.text)
+            full_word = re.sub('[\[\]\(\)]+','',words)
             
-            textline = f"|{perek_pasuk_id}|{word_position}|{isKtiv}|{isKri}|{word}"   
+            word = re.sub('[^א-ת־]+','',words)
+            
+            textline = f"|{perek_pasuk_id}|{word_position}|{isKtiv}|{isKri}|{word}|{full_word}"   
             
             print(textline)
         
