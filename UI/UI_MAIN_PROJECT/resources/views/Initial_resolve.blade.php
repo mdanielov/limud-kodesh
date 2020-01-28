@@ -4,14 +4,15 @@
 
     <head>
         <title>View Abbreviations</title>
-        <link href="{{ URL::asset("css/Initial_resolve.css") }}"" rel="stylesheet">
+        <link href="{{ URL::asset('css/Initial_resolve.css') }}" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     </head>
 
     <body>
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-bottom: 5%;">
             <div class="collapse navbar-collapse" id="navbarNav">
-                <a href="#"><img src="{{ URL::asset("img/final_logo.jpg") }}"" width=" 150px" style="border-radius: 50px;" alt="bone_yerushalayim_logo"></a>
+                <a href="#"><img src="{{ URL::asset('img/final_logo.jpg') }}" width=" 150px" style="border-radius: 50px;" alt="bone_yerushalayim_logo"></a>
                 <ul class="navbar-nav" style="margin : 0 auto;">
                     <li class="nav-item active">
                         <a class="nav-link" href="#" style="margin: 0 40px 0 -100px">Home</a>
@@ -46,13 +47,22 @@
                 </thead>
                 <tbody>
                     @foreach ($initialPosition as $Massechet)
-                    <tr class="focus"  onclick = "window.location.href = 'http://www.google.com'">
+                    <tr>
                         <th style="padding: 10px;"><input type="checkbox"></th>
-                        <th scope="row">{{ $Massechet->MASSECHET_NAME }}</th>
-                        <th scope="row">{{ $Massechet->DAF_NAME }}</th>
-                        <th scope="row">{{ $Massechet->AMUD_NAME }}</th>
-                        <th scope="row">{{ $Massechet->ROW_ID }}</th>        
-                    </tr>           
+                        <th scope="row" class="btn_show">{{ $Massechet->MASSECHET_NAME }}</th>
+                        <th scope="row" class="btn_show">{{ $Massechet->DAF_NAME }}</th>
+                        <th scope="row" class="btn_show">{{ $Massechet->AMUD_NAME }}</th>
+                        <th scope="row" class="btn_show">{{ $Massechet->ROW_ID }}</th>       
+                    </tr>  
+                    <tr class="hidden_row">
+                        <th colspan="5">First sentence</th>
+                    </tr>  
+                    <tr class="hidden_row">
+                        <th colspan="5">Second sentence</th>
+                    </tr> 
+                    <tr class="hidden_row">
+                        <th colspan="5">Third sentence</th>
+                    </tr>      
                     @endforeach
                 </tbody>
             </table>
@@ -60,5 +70,17 @@
         </div>
 
     </body>
+    <script>
+            var shown = false;
+            $('.btn_show').click(function () {
+                if (!shown) {
+                    $(this).parent().nextAll('tr:lt(3)').removeClass('hidden_row').css({'background-color':'white'})
+                    $(this).parent().nextAll('tr:lt(3)').slideDown()
+                }else{
+                    $(this).parent().nextAll('tr:lt(3)').slideUp()
+                }
+                shown = !shown;
+            });
 
+    </script>
     </html>

@@ -1,3 +1,7 @@
-.focus{
+th:nth-child(2),th:nth-child(3),th:nth-child(4),th:nth-child(5){
     cursor: pointer;
 }
+.hidden_row th{
+    display:none;
+     /* height: 0px; */
+ }

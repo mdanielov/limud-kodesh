@@ -35,4 +35,11 @@ class SqlController extends Controller
 
         return view('Initial_resolve', ['data' => $data, 'initialPosition' => $initialPosition]);
     }
+
+    public function getContext($massechetName,$dafName,$amudName,$rowId)
+    {
+        $data['first'] = $massechetName;
+        var_dump($data['first']);
+
+    }
 }
