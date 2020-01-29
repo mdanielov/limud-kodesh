@@ -21,3 +21,4 @@ Route::get('/context/{MASSECHET_NAME}/{DAF_NAME}/{AMUD_NAME}/{ROW_ID}')->name('M
 // Dynamic table
 
 Route::get('/initial_list_dynamic','SqlController@initials_list');
+Route::get('/context/{MASSECHET_NAME}/{DAF_NAME}/{AMUD_NAME}/{ROW_ID}','SqlController@getContext')->name('Massechet');
