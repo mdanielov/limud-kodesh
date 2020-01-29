@@ -22,6 +22,14 @@ class SqlController extends Controller
         return view('Initial_list', ['initials' => $initials, 'count' => $count]);
     }
 
+    public function initials_list()
+    {
+
+        $initials = DB::table('tbl_user_initials')->select('initial')->distinct()->get();
+
+        return view('initial_list_dynamic', ['initials' => $initials]);
+    }
+
     public function showInitial($initial)
     {
 
