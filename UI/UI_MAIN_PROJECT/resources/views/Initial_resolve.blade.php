@@ -71,15 +71,24 @@
 
     </body>
     <script>
-            var shown = false;
+
             $('.btn_show').click(function () {
-                if (!shown) {
-                    $(this).parent().nextAll('tr:lt(3)').removeClass('hidden_row').css({'background-color':'white'})
+                var $massechet_name = $(this).parent().children().eq(1).text()
+                var $daf_name = $(this).parent().children().eq(2).text()
+                var $amud_name = $(this).parent().children().eq(3).text()
+                var $row_id = $(this).parent().children().eq(4).text()
+
+                
+
+
+                if ($(this).parent().nextAll('tr:lt(3)').css('display') == 'none') {
                     $(this).parent().nextAll('tr:lt(3)').slideDown()
-                }else{
+                    $(this).parent().nextAll('tr:lt(3)').css({'background-color':'white','display':'table-row'})
+                }
+                else {
+                    $(this).parent().nextAll('tr:lt(3)').css({'display':'none'})
                     $(this).parent().nextAll('tr:lt(3)').slideUp()
                 }
-                shown = !shown;
             });
 
     </script>

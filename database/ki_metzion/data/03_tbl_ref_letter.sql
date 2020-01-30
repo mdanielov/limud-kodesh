@@ -26,4 +26,5 @@ VALUES
 (24,N'Kouf',N'ק'),
 (25,N'Resh',N'ר'),
 (26,N'Shin',N'ש'),
-(27,N'Tav',N'ת')
+(27,N'Tav',N'ת'),
+(28,N'Nun hafukha',N'׆')
