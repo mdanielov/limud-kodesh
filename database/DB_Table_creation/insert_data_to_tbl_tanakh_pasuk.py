@@ -6,7 +6,7 @@ import pyodbc
 from hebrew_numbers import int_to_gematria
 
 config = configparser.ConfigParser()
-config.read('settings.ini')
+config.read(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'settings.ini'))
 
 
 server_name = config.get("Sql", "Server")

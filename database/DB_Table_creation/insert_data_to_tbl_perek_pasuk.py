@@ -4,7 +4,7 @@ import configparser
 import pyodbc
 
 config = configparser.ConfigParser()
-config.read('settings.ini')
+config.read(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'settings.ini'))
 database_name = config.get("Sql", "database_name")
 server = config.get("Sql", "Server")
 
