@@ -6,13 +6,13 @@
    <resourceType>webCrawler</resourceType>
    <refUri>http://...</refUri>
    <handlingBy>Mordechai Danielov</handlingBy>
-   <dateCreated>2020-01-14 15:02:31.062163</dateCreated>
-   <lastModified>2020-01-14 15:02:31.062163</lastModified>
+   <dateCreated>2020-01-20 12:26:56.362471</dateCreated>
+   <lastModified>2020-01-20 12:26:56.362471</lastModified>
  </meta>
  <masechet name="פסחים" serial="04">
 <daf value="99">
 	<amud value="2">
-		<row row_number="1" isdata="1"><StartChapter name = "ערבי פסחים"/><StartMishna/><ContChapter name = "ערבי פסחים"/><ContMishna/>/div>ערב פסחים סמוך למנחה לא יאכל</row>
+		<row row_number="1" isdata="1"><StartChapter name = "ערבי פסחים"/><StartMishna/><ContChapter name = "ערבי פסחים"/><ContMishna/>ערב פסחים סמוך למנחה לא יאכל</row>
 		<row row_number="2" isdata="1">אדם עד שתחשך אפילו</row>
 		<row row_number="3" isdata="1">עני שבישראל לא יאכל עד שיסב ולא</row>
 		<row row_number="4" isdata="1">יפחתו לו מארבע כוסות של יין ואפילו מן</row>

@@ -49,19 +49,22 @@ def main():
     while i < len(ls_schema):
         # print("ls schema:", ls_schema)
         # print(f"working on {ls_schema[i]}")
-        if ls_schema[i] == '02-functions':
-            break
-        else:
-            ls_dir = os.listdir(schema_dir + '\\')
-            # print("ls_dir:", ls_dir)
+        ls_dir = os.listdir(schema_dir + '\\')
+        # print("ls_dir:", ls_dir)
 
-        for file in ls_dir:
-            print(f"working on {file}")
-            query = query_string(f"{schema_dir}\\{ls_schema[i]}")
-            print(query)
-            cursor.execute(query)
-            # print(f"{file} script executed successfully !")
-        i += 1
+        for index, folder in enumerate(ls_dir):
+            print(f"working on {folder}")
+            if folder == '02-functions':
+                break
+            else:
+                folder_creation_ref_table_and_insertion = schema_dir + '\\' + folder
+                ls_dir2 = os.listdir(folder_creation_ref_table_and_insertion)
+                for file in ls_dir2:
+                    query = query_string(f"{folder_creation_ref_table_and_insertion}\\{file}")
+                    print(query)
+                    cursor.execute(query)
+            print(f"{file} script executed successfully !")
+            i += 1
 
 
     # List insert data directory and execute scripts.

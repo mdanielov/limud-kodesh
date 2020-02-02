@@ -2,7 +2,7 @@ USE KiMeTzion;
 
 SET NOCOUNT ON;
 
-INSERT INTO dbo.TBL_TANAKH_CATEGORY
+INSERT INTO dbo.TBL_TANAKH_CATEGORY (CATEGORY_HEBREW_NAME,CATEGORY_ENGLISH_NAME)
 VALUES
 (N'חמשה חומשי תורה',N'Chamisha Chumshei Torah'),
 (N'נביאים ראשונים',N'Neviim Rishonim'),

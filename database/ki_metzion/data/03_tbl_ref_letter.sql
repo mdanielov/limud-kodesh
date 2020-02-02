@@ -1,4 +1,4 @@
-INSERT INTO [dbo].[TBL_REF_LETTER]
+INSERT INTO [dbo].[TBL_REF_LETTER] (LETTER_NUMBER,LETTER_NAME,LETTER)
 VALUES 
 (1,N'Aleph',N'א'),
 (2,N'Beth',N'ב'),
@@ -26,4 +26,5 @@ VALUES
 (24,N'Kouf',N'ק'),
 (25,N'Resh',N'ר'),
 (26,N'Shin',N'ש'),
-(27,N'Tav',N'ת')
+(27,N'Tav',N'ת'),
+(28,N'Nun hafukha',N'׆')
