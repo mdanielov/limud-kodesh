@@ -1,6 +1,6 @@
 ﻿USE KiMeTzion;
 
-INSERT INTO dbo.TBL_REF_TAAM
+INSERT INTO dbo.TBL_REF_TAAM (TAAM_ID,TAAM_NAME_ASCHENAZE,TAAM_NAME_SEFARADE,TAAM_NAME_TEMANI,TAAM_ENGLISH_NAME)
 VALUES 
 (1,N'סוֹף פָּסֽוּק',N'סוֹף פָּסֽוּק',N'סִלּֽוּק',N'Sof pasuk / siluk'),
 (2,N'אֶתְנַחְתָּ֑א',N'אַתְנָ֑ח',N'אֶתְּנָ֑חָא',N'Atnaḥ / Etnahta'),
