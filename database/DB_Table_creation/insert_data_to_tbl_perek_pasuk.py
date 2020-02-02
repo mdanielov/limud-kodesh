@@ -27,13 +27,11 @@ def execute_query(query):
     return cursor
 
 
-execute_query(f"USE KiMeTzion;")
-
-
 
 # print(xml_list)
 
 def main():
+    
     xml_list = os.listdir(parent_dir)
 
     # loop through every book 
@@ -66,7 +64,8 @@ def main():
                     if pasuk_num < pasuk_num_list[-1]:
                         pasuk_sum_list.append(pasuk_num_list[-1])       
                     pasuk_num_list.append(pasuk_num)
-        pasuk_sum_list.append(pasuk_num_list[-1])       
+        pasuk_sum_list.append(pasuk_num_list[-1])   
+        execute_query(f"USE KiMeTzion;")    
         sql_select_Query = f"SELECT SEFER_ID ,SEFER_ENGLISH_NAME FROM TBL_TANAKH_SEFER where SEFER_ENGLISH_NAME = '{book_name_list}'"
         cursor.execute(sql_select_Query)
         records = cursor.fetchall()     
@@ -75,6 +74,7 @@ def main():
             sefer_id = row[0]
             
         print("sefer_id: ", sefer_id)
+        execute_query(f"USE KiMeTzion;")
         sql_select_Query = f"SELECT SEFER_PEREK_ID, PEREK_ID from TBL_TANAKH_SEFER_PEREK where SEFER_ID = '{sefer_id}'"
         cursor.execute(sql_select_Query)
         records = cursor.fetchall()     
@@ -86,10 +86,12 @@ def main():
             # print("sefer_perek_id_list: ", sefer_perek_id_list)
             # print("pasuk_sum_list: ", pasuk_sum_list)
             # receiving the sum of psukim for each perek
+            execute_query(f"USE KiMeTzion;")
             sql_select_Query = f"SELECT PASUK_ID FROM TBL_TANAKH_PASUK WHERE PASUK_ID BETWEEN 1 and '{pasuk_sum}'"
             cursor.execute(sql_select_Query)
             records = cursor.fetchall()     
             for row in records:
+                execute_query(f"USE KiMeTzion;")
                 query_string = f"INSERT INTO TBL_TANAKH_PEREK_PASUK (SEFER_PEREK_ID, PASUK_ID) VALUES ({sefer_perek_id}, {row[0]})"
                 cursor.execute(query_string)
                 print(query_string)

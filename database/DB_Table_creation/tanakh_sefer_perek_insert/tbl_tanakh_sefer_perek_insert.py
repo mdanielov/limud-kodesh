@@ -45,7 +45,7 @@ def get_csv_content(file_csv):
             print("working on " + mylist[0])
 
             # Append all prakim in that sefer to a list
-
+            execute_query(f"USE KiMeTzion;")
             sql_select_Query = f"select PEREK_ID from TBL_TANAKH_PEREK where PEREK_NUM BETWEEN 1 AND {mylist[1]}"
             cursor.execute(sql_select_Query)
             records = cursor.fetchall()
@@ -62,6 +62,7 @@ def get_csv_content(file_csv):
 
             # Loop through every perek in the sefer
             while i < int(mylist[1]):
+                execute_query(f"USE KiMeTzion;")
                 query_string = f"INSERT INTO TBL_TANAKH_SEFER_PEREK (PEREK_ID, SEFER_ID) VALUES ({perek_id_list[i]}, {sefer_id_list[k]})"
                 cursor.execute(query_string)
                 i += 1

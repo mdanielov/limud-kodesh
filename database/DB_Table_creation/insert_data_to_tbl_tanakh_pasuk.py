@@ -28,9 +28,6 @@ def execute_query(query):
     return cursor
 
 
-execute_query(f"USE KiMeTzion;")
-
-
 def query_string(sql_full_path):
     with open(sql_full_path, 'r', encoding='utf-8') as f:
         lines = f.read()
@@ -50,6 +47,7 @@ def main():
     # # List Schema directory and execute scripts.
     i = 1
     while i <= 176:
+        execute_query(f"USE KiMeTzion;")
         query_string = f"INSERT INTO TBL_TANAKH_PASUK (PASUK_NUM, PASUK_HEBREW_NUM) VALUES ({i},N'{int_to_gematria(i, gershayim=False)}')"
         cursor.execute(query_string)
         print(query_string)

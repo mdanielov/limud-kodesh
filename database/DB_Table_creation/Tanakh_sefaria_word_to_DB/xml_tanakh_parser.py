@@ -32,9 +32,6 @@ def execute_query(query):
     return cursor
 
 
-execute_query(f"USE {database_name};")
-
-
 def write_csv_file(file_name, textline):
     
     """
@@ -48,6 +45,7 @@ def write_csv_file(file_name, textline):
 
 
 def get_perek_pasuk_id(chapter_num, verse_num, book):
+    execute_query(f"USE {database_name};")
     query = f"""SELECT PP.PEREK_PASUK_ID,A.PEREK_NUM, PA.PASUK_NUM, S.SEFER_ENGLISH_NAME FROM TBL_TANAKH_PEREK_PASUK PP 
                 JOIN TBL_TANAKH_PASUK PA ON PA.PASUK_ID = PP.PASUK_ID
                 JOIN
@@ -112,6 +110,7 @@ for xml in tanakh_dir_list:
 
 
 def bulk_insert_to_tbl(csv_file_name, tbl_name):
+    execute_query(f"USE {database_name};")
     execute_query(f"SET IDENTITY_INSERT {tbl_name} ON;")
     query = f"BULK INSERT {tbl_name} \
             FROM '{csv_file_name}' \
@@ -125,13 +124,17 @@ def bulk_insert_to_tbl(csv_file_name, tbl_name):
 
     execute_query(query)
     
+
+def main():
     
-bulk_insert_to_tbl(csv_file_name, table_names)  
+    for xml in tanakh_dir_list:
+    
+        get_xml_word_and_attributes(xml)
+    
+    bulk_insert_to_tbl(csv_file_name, table_names)  
 
-if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name)):
-        os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name))
+    if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name)):
+            os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name))
 
-
-
-
-
+if __name__ == '__main__':
+    main()

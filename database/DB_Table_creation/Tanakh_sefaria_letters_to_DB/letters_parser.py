@@ -40,9 +40,6 @@ def execute_query(query):
         cursor.execute(query)
     return cursor
 
-
-execute_query(f"USE {database_name};")
-
 def write_csv_file(file_name, textline):
     
     """
@@ -55,6 +52,7 @@ def write_csv_file(file_name, textline):
 
 
 def bulk_insert_to_tbl(csv_file_path, tbl_name):
+    execute_query(f"USE {database_name};")
     execute_query(f"SET IDENTITY_INSERT {tbl_name} ON;")
     query = f"BULK INSERT {tbl_name} \
             FROM '{csv_file_path}' \
@@ -72,7 +70,7 @@ def bulk_insert_to_tbl(csv_file_path, tbl_name):
 
 
 def get_word_id(book,chapter,verse,wordSequence):
-    
+    execute_query(f"USE {database_name};")
     query = f"""SELECT TW.WORD_ID FROM TBL_TANAKH_WORD TW
                 JOIN TBL_TANAKH_PEREK_PASUK PP ON PP.PEREK_PASUK_ID = TW.PEREK_PASUK_ID
                 JOIN TBL_TANAKH_PASUK PA ON PA.PASUK_ID = PP.PASUK_ID
@@ -83,13 +81,15 @@ def get_word_id(book,chapter,verse,wordSequence):
     
     result_query = execute_query(query)
     
+    get_word_id = ''
+    
     for row in result_query:
            get_word_id = row[0]
     
     return get_word_id
 
 def get_ref_letter_id(letter):
-    
+    execute_query(f"USE {database_name};")
     query = f"SELECT LETTER_ID FROM TBL_REF_LETTER WHERE LETTER = '{letter}'"
 
     result_query = execute_query(query)
@@ -102,7 +102,7 @@ def get_ref_letter_id(letter):
     return get_ref_letter_id
 
 def get_ref_nikkud_id(nikkud):
-    
+    execute_query(f"USE {database_name};")
     query = f"SELECT NIKKUD_ID FROM TBL_REF_NIKKUD WHERE UNICODE_VALUE = '{nikkud}'"
     
     result_query = execute_query(query)
@@ -115,7 +115,7 @@ def get_ref_nikkud_id(nikkud):
     return get_ref_nikkud_id
 
 def get_ref_taam_id(taam):
-    
+    execute_query(f"USE {database_name};")
     query = f"SELECT TAAM_ID FROM TBL_REF_TAAM WHERE UNICODE_VALUE= '{taam}'"
     
     result_query = execute_query(query)
@@ -239,23 +239,26 @@ def get_letter_nikkud_taam(xml):
                 print(items3)
                      
         letter_id += 1
-            
-for xml in tanakh_dir_list:         
-            
-    get_letter_nikkud_taam(xml)            
         
+        
+def main():
+            
+    for xml in tanakh_dir_list:
+        get_letter_nikkud_taam(xml)            
+        
+    bulk_insert_to_tbl(csv_file_name_letter, table_names[0])
+    bulk_insert_to_tbl(csv_file_name_nikkud, table_names[1])
+    bulk_insert_to_tbl(csv_file_name_taam, table_names[2])
 
-bulk_insert_to_tbl(csv_file_name_letter, table_names[0])
-bulk_insert_to_tbl(csv_file_name_nikkud, table_names[1])
-bulk_insert_to_tbl(csv_file_name_taam, table_names[2])
 
+    if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_letter)):
+        os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_letter))
 
-if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_letter)):
-    os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_letter))
+    if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud)):
+        os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud))
 
-if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud)):
-    os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud))
-    
-if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_letter)):
-    os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud))
+    if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_letter)):
+        os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud))
 
+if __name__ == '__main__':
+    main()
