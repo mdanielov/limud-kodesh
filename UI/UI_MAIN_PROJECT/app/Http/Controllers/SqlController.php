@@ -44,10 +44,17 @@ class SqlController extends Controller
         return view('Initial_resolve', ['data' => $data, 'initialPosition' => $initialPosition]);
     }
 
-    public function getContext($massechetName,$dafName,$amudName,$rowId)
+    public function ShowContext()
     {
-        $data['first'] = $massechetName;
-        var_dump($data['first']);
+        
+        $initial = $_GET['initial'];
+        $massechetName = $_GET['massechet'];
+        $dafName = $_GET['daf'];
+        $amudName = $_GET['amud'];
+        $rowId  = $_GET['row'];
 
+        $result['sentences'] = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_CONTEXT '$initial','$massechetName','$dafName','$amudName',".$rowId));        
+        
+        return $result['sentences'];
     }
 }
