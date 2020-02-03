@@ -90,7 +90,7 @@ def get_word_id(book,chapter,verse,wordSequence):
 
 def get_ref_letter_id(letter):
     execute_query(f"USE {database_name};")
-    query = f"SELECT LETTER_ID FROM TBL_REF_LETTER WHERE LETTER = '{letter}'"
+    query = f"SELECT LETTER_ID FROM TBL_REF_LETTER WHERE UNICODE_VALUE = '{letter}'"
 
     result_query = execute_query(query)
     
@@ -104,7 +104,7 @@ def get_ref_letter_id(letter):
 def get_ref_nikkud_id(nikkud):
     execute_query(f"USE {database_name};")
     query = f"SELECT NIKKUD_ID FROM TBL_REF_NIKKUD WHERE UNICODE_VALUE = '{nikkud}'"
-    
+        
     result_query = execute_query(query)
     
     get_ref_nikkud_id = []
@@ -188,9 +188,13 @@ def get_letter_nikkud_taam(xml):
                 # check for the next item if it's preceded by 'ה' for the mapiq
                 
                 if re.match('[ה]',item):
-                    mapiq = True    
+                    mapiq = True   
+                
+                unicode_letter = str(item.encode('unicode_escape')).upper()
+                unicode_letter2 = re.sub("(B'\\\\)|('$)",'',unicode_letter)
+                unicode_letter3 = unicode_letter2.replace('\\','').replace('U','U+')
                                        
-                ref_letter_id = get_ref_letter_id(item)
+                ref_letter_id = get_ref_letter_id(unicode_letter3)
                 letter_position_in_word = count 
                 textline1 = f"|{word_id}|{ref_letter_id}|{letter_position_in_word}" 
                 write_csv_file(csv_file_name_letter,textline1)
@@ -257,8 +261,8 @@ def main():
     if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud)):
         os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud))
 
-    if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_letter)):
-        os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud))
+    if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_taam)):
+        os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_taam))
 
 if __name__ == '__main__':
     main()
