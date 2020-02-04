@@ -35,7 +35,15 @@
         <p class="lead text-center" style="width: 40%; margin: 0 auto;">Please select a source in the Talmud Bavli among those proposed below and propose a definition for this abbreviation in relation to its context in the gemara. <br> If the definition is the same for several places, then you can select multiple sources.</p>
         <br>
 
-        <div style="width: 30%; margin : 0 auto;">
+        <!--Spinner loading-->
+        <div class="d-flex justify-content-center" id="circle">
+            <div class="spinner-border" role="status">
+            </div>
+        </div>
+        <p id="loading" style="text-align: center;">Please wait a moment...</p>
+
+
+        <div style="width: 30%; margin : 0 auto;" id="table">
             <table class="table table-striped table-bordered table-sm data-table" style="text-align: center;" id="initialPosition_table">
                 <thead class="thead-dark">
                     <tr>
@@ -49,19 +57,19 @@
                 <tbody>
                     @foreach ($initialPosition as $Massechet)
                     <tr>
-                        <th style="padding: 10px;"><input type="checkbox"></th>
+                        <th style="padding: 10px;"><input type="checkbox" data-id="{{$loop->index}}"></th>
                         <th scope="row" class="btn_show">{{ $Massechet->MASSECHET_NAME }}</th>
                         <th scope="row" class="btn_show">{{ $Massechet->DAF_NAME }}</th>
                         <th scope="row" class="btn_show">{{ $Massechet->AMUD_NAME }}</th>
                         <th scope="row" class="btn_show">{{ $Massechet->ROW_ID }} <i class="fas fa-chevron-down icon-rotate" id="arrow-right"></i></th>
                     </tr>
-                    <tr class="hidden_row_1">
+                    <tr class="hidden_row_1" data-id="{{$loop->index}}">
                         <th colspan="5"></th>
                     </tr>
-                    <tr class="hidden_row_2">
+                    <tr class="hidden_row_2" data-id="{{$loop->index}}">
                         <th colspan="5"></th>
                     </tr>
-                    <tr class="hidden_row_3">
+                    <tr class="hidden_row_3" data-id="{{$loop->index}}">
                         <th colspan="5"></th>
                     </tr>
                     @endforeach
@@ -71,23 +79,43 @@
         </div>
         <div class="input_definition">
             <label for="input_def">
-                <p >Please enter a definition : </p>
+                <p>Please enter a definition : </p>
             </label>
             <input id="input_def" type="text" class="form-control">
             <button type="submit" class="btn btn-primary">Submit</button>
         </div>
     </body>
     <script>
-       
+        $(document).ready(function() {
 
-        $('.btn_show').click(function() {
+            $counter = 0;
+            $counterMax = 0;
 
-            var $initial = $('#abbreviation').text();
-            var $massechet_name = $(this).parent().children().eq(1).text();
-            var $daf_name = $(this).parent().children().eq(2).text();
-            var $amud_name = $(this).parent().children().eq(3).text();
-            var $row_id = $(this).parent().children().eq(4).text();
-            var click = $(this)
+            $(".hidden_row_1").each(function($index) {
+                $counterMax += 1;
+            });
+
+            if ($counter < $counterMax) {
+
+                $('#circle').show();
+            }
+
+            $(".hidden_row_1").each(function() {
+                var $initial = $('#abbreviation').text();
+                var $attribute = $(this).attr("data-id"); // get the foreach loop index
+                var $massechet_name = $(this).prev().children().eq(1).text();
+                var $daf_name = $(this).prev().children().eq(2).text();
+                var $amud_name = $(this).prev().children().eq(3).text();
+                var $row_id = $(this).prev().children().eq(4).text();
+
+                loadSentence($attribute, $initial, $massechet_name, $daf_name, $amud_name, $row_id);
+            });
+        });
+
+
+        function loadSentence($attribute, $initial, $massechet_name, $daf_name, $amud_name, $row_id) {
+
+
 
             $.ajax({
                 url: '/ShowContext/{initial}/{massechet}/{daf}/{amud}/{row}',
@@ -99,14 +127,28 @@
                     amud: $amud_name,
                     row: $row_id
                 },
-                success: function(response) {
-                    click.parent().next().children().html(response[0]['sentence']);
-                    click.parent().next().next().children().html(response[1]['sentence']);
-                    click.parent().next().next().next().children().html(response[2]['sentence']);
+                success: function($response) {
+
+                    $(".hidden_row_1[data-id='" + $attribute + "'").children().html($response[0]['sentence']);
+                    $(".hidden_row_2[data-id='" + $attribute + "'").children().html($response[1]['sentence']);
+                    $(".hidden_row_3[data-id='" + $attribute + "'").children().html($response[2]['sentence']);
+
+                    console.log($counter);
+
+                    $counter += 1;
+
+                    if ($counter == $counterMax) {
+                        $('#circle').removeClass("d-flex").hide();
+                        $('#loading').hide();
+                        $('#table').removeClass("table").show();
+                    };
                 }
-
             });
+        };
 
+        $('.btn_show').click(function() {
+
+            console.log(this)
 
             if ($(this).parent().nextAll('tr:lt(3)').css('display') == 'none') {
                 $(this).parent().nextAll('tr:lt(3)')
