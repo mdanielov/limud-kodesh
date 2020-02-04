@@ -77,13 +77,17 @@
             </table>
             {{ $initialPosition->onEachSide(2)->links() }}
         </div>
-        <div class="input_definition">
+        
+        
+        <div class="input">
             <label for="input_def">
                 <p>Please enter a definition : </p>
             </label>
             <input id="input_def" type="text" class="form-control">
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary" id="input_definition">Submit</button>
         </div>
+
+
     </body>
     <script>
         $(document).ready(function() {
@@ -129,9 +133,9 @@
                 },
                 success: function($response) {
 
-                    $(".hidden_row_1[data-id='" + $attribute + "'").children().html($response[0]['sentence']);
-                    $(".hidden_row_2[data-id='" + $attribute + "'").children().html($response[1]['sentence']);
-                    $(".hidden_row_3[data-id='" + $attribute + "'").children().html($response[2]['sentence']);
+                    $(".hidden_row_1[data-id='" + $attribute + "'").children().html($response[0]['sentence'] + " ...");
+                    $(".hidden_row_2[data-id='" + $attribute + "'").children().html($response[1]['sentence'].replace($initial,"<b style='font-size: larger;'>" + $initial + "</b>"));
+                    $(".hidden_row_3[data-id='" + $attribute + "'").children().html("... " + $response[2]['sentence']);
 
                     console.log($counter);
 
@@ -148,7 +152,6 @@
 
         $('.btn_show').click(function() {
 
-            console.log(this)
 
             if ($(this).parent().nextAll('tr:lt(3)').css('display') == 'none') {
                 $(this).parent().nextAll('tr:lt(3)')
@@ -164,6 +167,15 @@
                 $(this).parent().nextAll('tr:lt(3)').slideUp()
             }
         });
+
+
+        $('#input_definition').click(function(){
+            
+            $definition = $(this).prev().val();
+
+            console.log($definition);
+        });
+
     </script>
 
     </html>
