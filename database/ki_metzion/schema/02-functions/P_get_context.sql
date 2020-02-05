@@ -1,50 +1,128 @@
-USE KiMeTzion
-GO
+CREATE PROCEDURE P_GET_CONTEXT     
+ @Initial_word NVARCHAR(50),     
+ @Massechet_Name NVARCHAR(120),     
+ @Daf_name NVARCHAR(3),     
+ @Amud_name NVARCHAR(3),  
+ @Row_id INT
 
-CREATE PROCEDURE P_GET_CONTEXT 
-	@Initial_word NVARCHAR(50), 
-	@Massechet_Name NVARCHAR(120), 
-	@Daf_name NVARCHAR(3), 
-	@Amud_name NVARCHAR(3), 
-	@Row_id INT
+AS    
+BEGIN    
+    
+if object_id('tempdb..#tmp_sentence') is not null    
+begin    
+drop table #tmp_sentence    
+END    
+    
+create table #tmp_sentence    
+(    
+sentence_id int identity,    
+sentence nvarchar(200)    
+)    
 
-AS
+declare @last_row int;
+declare @current_daf_num int = (select distinct DAF_NUM from TBL_DAF where DAF_NAME = @Daf_name);
+declare @previous_daf_num nvarchar(3) = (select distinct DAF_NAME from TBL_DAF where DAF_NUM = @current_daf_num - 1 );
+declare @next_daf_num nvarchar(3) = (select distinct DAF_NAME from TBL_DAF where DAF_NUM = @current_daf_num + 1 );
+
+
+
+IF @Row_id = 1
 BEGIN
 
-if object_id('tempdb..#tmp_sentence') is not null
-begin
-drop table #tmp_sentence
+set @last_row =  (SELECT max(ROW_ID) FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @previous_daf_num AND D.AMUD_NAME = 'ב' )
+
+
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @previous_daf_num AND D.AMUD_NAME = 'ב' AND MW.ROW_ID = @last_row
+    
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id    
+    
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id + 1    
+
+
+GOTO EXITPROC
+
+END 
+
+SET @last_row = (SELECT max(ROW_ID) FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name )
+
+IF @Row_id = @last_row
+
+BEGIN
+
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id - 1
+    
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id    
+    
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @next_daf_num AND D.AMUD_NAME = 'א' AND MW.ROW_ID = 1   
+
+GOTO EXITPROC
+
 END
 
-create table #tmp_sentence
-(
-sentence_id int identity,
-sentence nvarchar(200)
-)
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id - 1
+    
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id    
+    
+Insert into #tmp_sentence    
+SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW    
+JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID    
+JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID    
+JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID    
+WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id + 1   
 
-insert into #tmp_sentence
-SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW
-JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID
-JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID
-JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID
-WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id -1
 
-insert into #tmp_sentence
-SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW
-JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID
-JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID
-JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID
-WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id
+EXITPROC:
 
-insert into #tmp_sentence
-SELECT STRING_AGG( ISNULL(MW.WORD, ' '), ' ') As Word FROM TBL_MASSECHET_WORD MW
-JOIN TBL_MASSECHET_DAF MD ON MD.MASSECHET_DAF_ID = MW.MASSECHET_DAF_ID
-JOIN TBL_MASSECHET M ON M.MASSECHET_ID = MD.MASSECHET_ID
-JOIN TBL_DAF D ON D.DAF_AMUD_ID = MD.DAF_AMUD_ID
-WHERE M.MASSECHET_NAME = @Massechet_Name AND D.DAF_NAME = @Daf_name AND D.AMUD_NAME = @Amud_name AND MW.ROW_ID = @Row_id + 1
-
-select * from #tmp_sentence
-
-DROP TABLE #tmp_sentence
-
-END
+select * from #tmp_sentence    
+    
+DROP TABLE #tmp_sentence    
+    
+END 

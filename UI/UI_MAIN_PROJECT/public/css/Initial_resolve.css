@@ -17,6 +17,7 @@ th:nth-child(2),th:nth-child(3),th:nth-child(4),th:nth-child(5){
 }
 
 .input{
+    display: none;
     width: 50%;
     margin: 0 auto;
 }
@@ -31,4 +32,9 @@ th:nth-child(2),th:nth-child(3),th:nth-child(4),th:nth-child(5){
 
 #table{
     display: None;
+}
+
+.submited{
+    display: none;
+    text-align: center;
 }

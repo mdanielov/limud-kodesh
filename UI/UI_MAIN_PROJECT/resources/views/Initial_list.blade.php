@@ -4,6 +4,7 @@
 
   <head>
     <title>View Abbreviations</title>
+    <link href="{{ URL::asset('css/Initial_list.css') }}" rel="stylesheet">
   </head>
 
   <body>

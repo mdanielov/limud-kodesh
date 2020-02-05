@@ -24,3 +24,5 @@ Route::get('/initial_list_dynamic','SqlController@initials_list');
 Route::get('/context/{MASSECHET_NAME}/{DAF_NAME}/{AMUD_NAME}/{ROW_ID}','SqlController@getContext')->name('Massechet');
 
 Route::get('/ShowContext/{initial}/{massechet}/{daf}/{amud}/{row}','SqlController@ShowContext')->name('ShowContext');
+
+Route::get('/initial/{initial}/{massechet}/{daf}/{amud}/{row_num}/{definition}','SqlController@SubmitTableInsert')->name('SubmitTableInsert');
