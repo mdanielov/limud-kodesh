@@ -99,7 +99,7 @@
             <br>
             OR
             <br>
-            <button type="submit" class="btn btn-primary">Return to Abbreviations list</button>
+            <button type="submit" class="btn btn-primary"><a href="/" style="text-decoration: none;color: white;">Return to Abbreviations list</a></button>
 
         </div>
 
