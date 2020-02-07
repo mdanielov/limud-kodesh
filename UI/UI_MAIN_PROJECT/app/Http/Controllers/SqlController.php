@@ -57,4 +57,17 @@ class SqlController extends Controller
         
         return $result['sentences'];
     }
+
+
+    public function SubmitTableInsert()
+    {
+        $initial = $_GET['initial'];
+        $massechetName = $_GET['massechet'];
+        $dafName = $_GET['daf'];
+        $amudName = $_GET['amud'];
+        $rowId  = $_GET['row_num'];
+        $definition = $_GET['definition'];
+
+        $insert['row'] = DB::table('TBL_SUBMITED_DEF')->insert(['WORD_INITIAL' => $initial,'MASSECHET_NAME' =>  $massechetName,'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId, 'SUBMITED_DEF' =>  $definition]);
+    }
 }

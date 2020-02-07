@@ -39,11 +39,6 @@ def query_string(sql_full_path):
 
 def main():
 
-    # check if db exists on target, if not create
-    qry_create_db = "if not exists(select * from sys.databases where name = 'KiMeTzion') create database KiMeTzion collate Hebrew_CI_AS;"
-    cursor.execute(qry_create_db)
-    cursor.commit()
-
     # # List Schema directory and execute scripts.
     i = 1
     while i <= 150:

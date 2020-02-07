@@ -7,6 +7,7 @@
         <title>View Abbreviations</title>
         <link href="{{ URL::asset('css/Initial_resolve.css') }}" rel="stylesheet">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <meta name="csrf-token" content="{{ csrf_token() }}">
     </head>
 
     <body>
@@ -31,8 +32,10 @@
             </div>
         </nav>
 
+        <div class="presentation">
         <h1 style="text-align: center;"><span id="abbreviation">{{ $data['initial']}}</span> <br><small class="text-muted">(Total : {{ $data['Total'] }})</small></h1>
         <p class="lead text-center" style="width: 40%; margin: 0 auto;">Please select a source in the Talmud Bavli among those proposed below and propose a definition for this abbreviation in relation to its context in the gemara. <br> If the definition is the same for several places, then you can select multiple sources.</p>
+        </div>
         <br>
 
         <!--Spinner loading-->
@@ -57,7 +60,7 @@
                 <tbody>
                     @foreach ($initialPosition as $Massechet)
                     <tr>
-                        <th style="padding: 10px;"><input type="checkbox" data-id="{{$loop->index}}"></th>
+                        <th style="padding: 10px;"><input type="checkbox" data-id="{{$loop->index}}" id="checkbox"></th>
                         <th scope="row" class="btn_show">{{ $Massechet->MASSECHET_NAME }}</th>
                         <th scope="row" class="btn_show">{{ $Massechet->DAF_NAME }}</th>
                         <th scope="row" class="btn_show">{{ $Massechet->AMUD_NAME }}</th>
@@ -77,13 +80,29 @@
             </table>
             {{ $initialPosition->onEachSide(2)->links() }}
         </div>
-        <div class="input_definition">
+
+
+        <div class="input">
             <label for="input_def">
                 <p>Please enter a definition : </p>
             </label>
             <input id="input_def" type="text" class="form-control">
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary" id="input_definition">Submit</button>
         </div>
+
+
+        <div class="submited">
+            
+            <p class="lead text-center">Thank you for you help ! <br> Our team will check your definition in order to add it to our Database.</p>
+
+            <button type="submit" class="btn btn-primary">Continue to work on this Abbreviation</button>
+            <br>
+            OR
+            <br>
+            <button type="submit" class="btn btn-primary"><a href="/" style="text-decoration: none;color: white;">Return to Abbreviations list</a></button>
+
+        </div>
+
     </body>
     <script>
         $(document).ready(function() {
@@ -129,9 +148,9 @@
                 },
                 success: function($response) {
 
-                    $(".hidden_row_1[data-id='" + $attribute + "'").children().html($response[0]['sentence']);
-                    $(".hidden_row_2[data-id='" + $attribute + "'").children().html($response[1]['sentence']);
-                    $(".hidden_row_3[data-id='" + $attribute + "'").children().html($response[2]['sentence']);
+                    $(".hidden_row_1[data-id='" + $attribute + "'").children().html($response[0]['sentence'] + " ...");
+                    $(".hidden_row_2[data-id='" + $attribute + "'").children().html($response[1]['sentence'].replace($initial, "<b style='font-size: larger;'>" + $initial + "</b>"));
+                    $(".hidden_row_3[data-id='" + $attribute + "'").children().html("... " + $response[2]['sentence']);
 
                     console.log($counter);
 
@@ -141,6 +160,7 @@
                         $('#circle').removeClass("d-flex").hide();
                         $('#loading').hide();
                         $('#table').removeClass("table").show();
+                        $('.input').show();
                     };
                 }
             });
@@ -148,7 +168,6 @@
 
         $('.btn_show').click(function() {
 
-            console.log(this)
 
             if ($(this).parent().nextAll('tr:lt(3)').css('display') == 'none') {
                 $(this).parent().nextAll('tr:lt(3)')
@@ -164,6 +183,57 @@
                 $(this).parent().nextAll('tr:lt(3)').slideUp()
             }
         });
+
+
+
+        $('#input_definition').click(function() {
+
+            $definition = $(this).prev().val();
+            $initial = $('#abbreviation').text();
+
+            $('input[type=checkbox]').each(function($index) {
+
+                if ($(this).is(":checked") == true) {
+
+                    $massechet = $(this).parent().next().text();
+                    $daf = $(this).parent().parent().children().eq(2).text();
+                    $amud = $(this).parent().parent().children().eq(3).text();
+                    $row_num = $(this).parent().parent().children().eq(4).text();
+
+                    SubmitTableInsert($initial, $massechet, $daf, $amud, $row_num, $definition);
+                }
+            });
+        });
+
+
+        function SubmitTableInsert($initial, $massechet, $daf, $amud, $row_num, $definition) {
+            
+            $.ajax({                
+                url: "/initial/{initial}/{massechet}/{daf}/{amud}/{row_num}/{definition}",
+                method: 'GET',
+                data: {
+                    _token: '{{csrf_token()}}',
+                    'initial': $initial,
+                    'massechet': $massechet,
+                    'daf': $daf,
+                    'amud': $amud,
+                    'row_num': $row_num,
+                    'definition': $definition
+                },
+                success: function(data) {
+                    console.log('success');
+                    $('#table').hide();
+                    $('.submited').show();
+                    $('.input').hide();
+                    $('.presentation').hide();
+                },
+                error: function(data, textStatus, errorThrown) {
+                    console.log(data);
+
+                },
+            })
+
+        }
     </script>
 
     </html>
