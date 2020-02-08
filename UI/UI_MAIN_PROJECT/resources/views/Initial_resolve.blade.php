@@ -33,8 +33,8 @@
         </nav>
 
         <div class="presentation">
-        <h1 style="text-align: center;"><span id="abbreviation">{{ $data['initial']}}</span> <br><small class="text-muted">(Total : {{ $data['Total'] }})</small></h1>
-        <p class="lead text-center" style="width: 40%; margin: 0 auto;">Please select a source in the Talmud Bavli among those proposed below and propose a definition for this abbreviation in relation to its context in the gemara. <br> If the definition is the same for several places, then you can select multiple sources.</p>
+            <h1 style="text-align: center;"><span id="abbreviation">{{ $data['initial']}}</span> <br><small class="text-muted">(Total : {{ $data['Total'] }})</small></h1>
+            <p class="lead text-center" style="width: 40%; margin: 0 auto;">Please select a source in the Talmud Bavli among those proposed below and propose a definition for this abbreviation in relation to its context in the gemara. <br> If the definition is the same for several places, then you can select multiple sources.</p>
         </div>
         <br>
 
@@ -78,7 +78,7 @@
                     @endforeach
                 </tbody>
             </table>
-            {{ $initialPosition->onEachSide(2)->links() }}
+            {{ $initialPosition->onEachSide(2)->render() }}
         </div>
 
 
@@ -88,18 +88,21 @@
             </label>
             <input id="input_def" type="text" class="form-control">
             <button type="submit" class="btn btn-primary" id="input_definition">Submit</button>
+            <p class="lead text-center" style="color : red; display: none;" id="alert1">* Please select a source.</p>
+            <p class="lead text-center" style="color : red; display: none;" id="alert2">* Please enter a definition.</p>
+            <p class="lead text-center" style="color : red; display: none;" id="alert3">* The definition needs to be in Hebrew characters.</p>
         </div>
 
 
         <div class="submited">
-            
+
             <p class="lead text-center">Thank you for you help ! <br> Our team will check your definition in order to add it to our Database.</p>
 
-            <button type="submit" class="btn btn-primary">Continue to work on this Abbreviation</button>
+            <a href="" style="text-decoration: none;color: white;"><button type="submit" class="btn btn-primary" id="continue">Continue to work on this Abbreviation</button></a>
             <br>
             OR
             <br>
-            <button type="submit" class="btn btn-primary"><a href="/" style="text-decoration: none;color: white;">Return to Abbreviations list</a></button>
+            <a href="/" style="text-decoration: none;color: white;"><button type="submit" class="btn btn-primary">Return to Abbreviations list</button></a>
 
         </div>
 
@@ -188,12 +191,49 @@
 
         $('#input_definition').click(function() {
 
+            $approved = false;
+
+            if (($('#input_def').val().charCodeAt(0) >= 0x590) && ($('#input_def').val().charCodeAt(0) <= 0x5FF)) {
+                $approved = true;
+                console.log($approved);
+            } else {
+                $approved = false;
+                console.log($approved);
+                if ($('#alert1').is(":visible")) {
+                    $('#alert1').hide();
+                }
+                if ($('#alert2').is(":visible")) {
+                    $('#alert2').hide();
+                }
+                $('#alert3').slideDown("slow");
+            };
+
+            if ($('input[type=checkbox]').is(":checked") == false) {
+                if ($('#alert2').is(":visible")) {
+                    $('#alert2').hide();
+                }
+                if ($('#alert3').is(":visible")) {
+                    $('#alert3').hide();
+                }
+                $('#alert1').slideDown("slow");
+            }
+
+            if ($('#input_def').val().length == 0) {
+                if ($('#alert1').is(":visible")) {
+                    $('#alert1').hide();
+                }
+                if ($('#alert3').is(":visible")) {
+                    $('#alert3').hide();
+                }
+                $('#alert2').slideDown("slow");
+            }
+
             $definition = $(this).prev().val();
             $initial = $('#abbreviation').text();
 
             $('input[type=checkbox]').each(function($index) {
 
-                if ($(this).is(":checked") == true) {
+                if (($(this).is(":checked") == true) && ($approved == true)) {
 
                     $massechet = $(this).parent().next().text();
                     $daf = $(this).parent().parent().children().eq(2).text();
@@ -207,8 +247,8 @@
 
 
         function SubmitTableInsert($initial, $massechet, $daf, $amud, $row_num, $definition) {
-            
-            $.ajax({                
+
+            $.ajax({
                 url: "/initial/{initial}/{massechet}/{daf}/{amud}/{row_num}/{definition}",
                 method: 'GET',
                 data: {
@@ -226,6 +266,7 @@
                     $('.submited').show();
                     $('.input').hide();
                     $('.presentation').hide();
+                    $('#continue').attr("href", "/initial/".$initial)
                 },
                 error: function(data, textStatus, errorThrown) {
                     console.log(data);

@@ -35,9 +35,29 @@ class SqlController extends Controller
 
         $data['initial'] = $initial;
 
-        $data['Total'] = DB::table('tbl_user_initials')->select('*')->whereRaw('initial = ?', $initial)->count();
+        # $data['Total'] = DB::table('tbl_user_initials')->select('*')->whereRaw('initial = ?', $initial)->count();
+
+        $total = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'"));
+
+        $data['Total'] = count($total);
 
         $initialPosition = DB::table('tbl_user_initials')->select(array('MASSECHET_NAME', 'DAF_NAME', 'AMUD_NAME', 'ROW_ID'))->whereRaw('initial = ?', $initial)->paginate(15);
+
+        # $initialPosition = collect(DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'")))->paginate();
+
+        $page = request('page', 1);
+
+        $paginate = 10;  
+    
+        $dataResult = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'"));  
+    
+        $offSet = ($page * $paginate) - $paginate;  
+    
+        $itemsForCurrentPage = array_slice($dataResult, $offSet, $paginate, true);  
+    
+        $initialPosition = new \Illuminate\Pagination\LengthAwarePaginator($itemsForCurrentPage, count($dataResult), $paginate);
+
+        $initialPosition->setPath(url()->current());
 
         # var_dump($initialPosition);
 
