@@ -2,6 +2,7 @@
     <html>
     @extends('layout\head')
     @include('layout\navbar')
+
     <head>
         <script src="https://use.fontawesome.com/c1d8aa1882.js"></script>
         <title>View Abbreviations</title>
@@ -13,7 +14,9 @@
     <body>
 
         <div class="presentation">
-            <h1 style="text-align: center;"><span id="abbreviation">{{ $data['initial']}}</span> <br><small class="text-muted">(Total unresolved : {{ $data['unresolved'] }}) <br> (Total in Talmud Bavli : {{ $data['Total'] }})</small></h1>
+            <h1 style="text-align: center;"><span id="initialWord">{{ $data['initial']}}</span></h1>
+
+            <h1 style="text-align: center;"><small class="text-muted">(Total unresolved : {{ $data['unresolved'] }}) <br> <small class="text-muted">(Total in Talmud Bavli : {{ $data['Total'] }})</small></h1>
             <p class="lead text-center" style="width: 40%; margin: 0 auto;">Please select a source in the Talmud Bavli among those proposed below and propose a definition for this abbreviation in relation to its context in the gemara. <br> If the definition is the same for several places, then you can select multiple sources.</p>
         </div>
         <br>
@@ -30,7 +33,7 @@
             <table class="table table-striped table-bordered table-sm data-table" style="text-align: center;" id="initialPosition_table">
                 <thead class="thead-dark">
                     <tr>
-                        <th>Select</th>
+                        <th>Select All <br> <input type="checkbox" id="selectAll"></th>
                         <th scope="col">Massechet Name</th>
                         <th scope="col">Daf</th>
                         <th scope="col">Amud</th>
@@ -64,7 +67,7 @@
 
         <div class="input">
             <label for="input_def">
-                <p>Please enter a definition : </p>
+                <p class="lead">Please enter a definition : </p>
             </label>
             <input id="input_def" type="text" class="form-control">
             <button type="submit" class="btn btn-primary" id="input_definition">Submit</button>
@@ -82,7 +85,7 @@
             <br>
             OR
             <br>
-            <a href="/" style="text-decoration: none;color: white;"><button type="submit" class="btn btn-primary">Return to Abbreviations list</button></a>
+            <a href="/initial" style="text-decoration: none;color: white;"><button type="submit" class="btn btn-primary">Return to Abbreviations list</button></a>
 
         </div>
 
@@ -91,6 +94,14 @@
         $(document).ready(function() {
 
             $('#abbreviation').addClass('active');
+
+
+            $("#filter_input").on("keyup", function() {
+                var value = $(this).val().toLowerCase();
+                $("#initial_table tr").filter(function() {
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                });
+            });
 
             $counter = 0;
             $counterMax = 0;
@@ -105,7 +116,7 @@
             }
 
             $(".hidden_row_1").each(function() {
-                var $initial = $('#abbreviation').text();
+                var $initial = $('#initialWord').text();
                 var $attribute = $(this).attr("data-id"); // get the foreach loop index
                 var $massechet_name = $(this).prev().children().eq(1).text();
                 var $daf_name = $(this).prev().children().eq(2).text();
@@ -150,6 +161,11 @@
                 }
             });
         };
+
+
+        $("#selectAll").click(function() {
+            $('input:checkbox').not(this).prop('checked', this.checked);
+        });
 
         $('.btn_show').click(function() {
 
@@ -211,7 +227,7 @@
             }
 
             $definition = $(this).prev().val();
-            $initial = $('#abbreviation').text();
+            $initial = $('#initialWord').text();
 
             $('input[type=checkbox]').each(function($index) {
 

@@ -2,6 +2,7 @@
   <html>
   @extends('layout\head')
   @include('layout\navbar')
+
   <head>
     <title>View Abbreviations</title>
     <link href="{{ URL::asset('css/Initial_list.css') }}" rel="stylesheet">
@@ -17,13 +18,16 @@
       <br> Click on the one of your choice to propose a definition</p>
 
     <div style="width: 30%; margin : 0 auto;">
-      <table class="table table-striped table-bordered table-sm data-table" style="text-align: center;" id="initial_table">
+      <table class="table table-striped table-bordered table-sm data-table" style="text-align: center;">
         <thead class="thead-dark">
           <tr>
             <th scope="col">Abbreviations List</th>
           </tr>
+          <tr>
+            <th scope="col" rowspan="1" colspan="1"><input type="text" placeholder="Search Abbreviations List" id="filter_input"></th>
+          </tr>
         </thead>
-        <tbody>
+        <tbody id="initial_table">
           @foreach ($initials as $initial)
           <tr>
             <th scope="row"> <a href="{{ URL::to('initial/'.$initial->initial) }}">{{ $initial->initial }}</a></th>
@@ -41,70 +45,12 @@
 
       $('#abbreviation').addClass('active');
 
-      // Setup - add a text input to each footer cell
-      $('#initial_table thead tr').clone(true).appendTo('#initial_table thead');
-      $('#initial_table thead tr:eq(1) th').each(function(i) {
-        var title = $(this).text();
-        $(this).html('<input type="text" placeholder="Search ' + title + '" id="filter_input" />');
-
-        $('#filter_input', this).on('keyup change', function() {
-          
-          console.log(this.value);
-          console.log(table.column(i).search(this.value).draw())
-          if (table.column(i).search(this.value) == true) {
-            table
-              .column(i)
-              .search(this.value)
-              .draw();
-          }
+      $("#filter_input").on("keyup", function() {
+        var value = $(this).val().toLowerCase();
+        $("#initial_table tr").filter(function() {
+          $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
         });
       });
-
-      var table = $('#initial_table').DataTable({
-        orderCellsTop: true,
-        fixedHeader: true,
-        bStateSave: false,
-        //"bPaginate": true,
-        //"bLengthChange": false,
-        //"bFilter": false,
-        //"bInfo": false,
-      });
-
-      (function() {
-
-        function removeAccents(data) {
-          if (data.normalize) {
-            // Use I18n API if avaiable to split characters and accents, then remove
-            // the accents wholesale. Note that we use the original data as well as
-            // the new to allow for searching of either form.
-            return data + ' ' + data
-              .normalize('NFD')
-              .replace(/[\u0300-\u036f]/g, '');
-          }
-
-          return data;
-        }
-
-        var searchType = jQuery.fn.DataTable.ext.type.search;
-
-        searchType.string = function(data) {
-          return !data ?
-            '' :
-            typeof data === 'string' ?
-            removeAccents(data) :
-            data;
-        };
-
-        searchType.html = function(data) {
-          return !data ?
-            '' :
-            typeof data === 'string' ?
-            removeAccents(data.replace(/<.*?>/g, '')) :
-            data;
-        };
-
-      }());
-
 
     });
   </script>

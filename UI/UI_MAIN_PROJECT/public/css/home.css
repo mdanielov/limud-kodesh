@@ -1,0 +1,56 @@
+.navbar.navbar-light .breadcrumb .nav-item.active>.nav-link, .navbar.navbar-light .navbar-nav .nav-item.active>.nav-link{
+    border-radius: 20px;
+}
+
+.navbar.navbar-light .breadcrumb .nav-item .nav-link:hover, .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover{
+    border-radius: 20px;
+}
+
+.navbar.navbar-light{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.parallax{
+    height: 500px;
+}
+
+.section {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.white {
+    background-color: #fff !important;
+}
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.parallax{
+    width: 100%;
+    height: 700px;
+}
+
+.scrolled {
+    background-color: #e0e0e0b8 !important;
+    transition: background-color 300ms linear;
+  }
+
+h1{
+    justify-content: flex-start;
+    margin: auto;
+}
+
+p{
+    justify-content: flex-start;
+    margin: auto;
+}
+
+.section1{
+    height: 500px;
+    background-color:white;
+    display: flex;
+}
