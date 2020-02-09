@@ -35,11 +35,11 @@ class SqlController extends Controller
 
         $data['initial'] = $initial;
 
-        # $data['Total'] = DB::table('tbl_user_initials')->select('*')->whereRaw('initial = ?', $initial)->count();
+        $data['Total'] = DB::table('tbl_user_initials')->select('*')->whereRaw('initial = ?', $initial)->count();
 
-        $total = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'"));
+        $unresolved = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'"));
 
-        $data['Total'] = count($total);
+        $data['unresolved'] = count($unresolved);
 
         $initialPosition = DB::table('tbl_user_initials')->select(array('MASSECHET_NAME', 'DAF_NAME', 'AMUD_NAME', 'ROW_ID'))->whereRaw('initial = ?', $initial)->paginate(15);
 

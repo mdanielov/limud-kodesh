@@ -1,7 +1,7 @@
 <!DOCTPE html>
     <html>
     @extends('layout\head')
-
+    @include('layout\navbar')
     <head>
         <script src="https://use.fontawesome.com/c1d8aa1882.js"></script>
         <title>View Abbreviations</title>
@@ -12,28 +12,8 @@
 
     <body>
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-bottom: 5%;">
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <a href="#"><img src="{{ URL::asset('img/final_logo.jpg') }}" width=" 150px" style="border-radius: 50px;" alt="bone_yerushalayim_logo"></a>
-                <ul class="navbar-nav" style="margin : 0 auto;">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#" style="margin: 0 40px 0 -100px">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Features</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Pricing</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Disabled</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-
         <div class="presentation">
-            <h1 style="text-align: center;"><span id="abbreviation">{{ $data['initial']}}</span> <br><small class="text-muted">(Total : {{ $data['Total'] }})</small></h1>
+            <h1 style="text-align: center;"><span id="abbreviation">{{ $data['initial']}}</span> <br><small class="text-muted">(Total unresolved : {{ $data['unresolved'] }}) <br> (Total in Talmud Bavli : {{ $data['Total'] }})</small></h1>
             <p class="lead text-center" style="width: 40%; margin: 0 auto;">Please select a source in the Talmud Bavli among those proposed below and propose a definition for this abbreviation in relation to its context in the gemara. <br> If the definition is the same for several places, then you can select multiple sources.</p>
         </div>
         <br>
@@ -109,6 +89,8 @@
     </body>
     <script>
         $(document).ready(function() {
+
+            $('#abbreviation').addClass('active');
 
             $counter = 0;
             $counterMax = 0;
@@ -274,7 +256,7 @@
                 },
             })
 
-        }
+        };
     </script>
 
     </html>
