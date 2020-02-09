@@ -38,3 +38,11 @@ th:nth-child(2),th:nth-child(3),th:nth-child(4),th:nth-child(5){
     display: none;
     text-align: center;
 }
+
+.navbar.navbar-light .breadcrumb .nav-item.active>.nav-link, .navbar.navbar-light .navbar-nav .nav-item.active>.nav-link{
+    border-radius: 20px;
+}
+
+.navbar.navbar-light .breadcrumb .nav-item .nav-link:hover, .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover{
+    border-radius: 20px;
+}
