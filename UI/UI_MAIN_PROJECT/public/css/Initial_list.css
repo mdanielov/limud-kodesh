@@ -11,3 +11,10 @@ table.table a {
 .navbar.navbar-light .breadcrumb .nav-item .nav-link:hover, .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover{
     border-radius: 20px;
 }
+
+#wordcloud{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+}

@@ -11,8 +11,12 @@
 
   <body>
 
+    
+
+
     <h1 class="text-center">ראשי תיבות <br><small class="text-muted">(Abbreviations)</small></h1>
 
+    <img src="{{ URL::asset('img/wordcloud.png') }}" alt="img" id="wordcloud">
 
     <p class="lead text-center" style="margin-bottom: 5%;">Here are all the abbreviations contained in the talmud Bavli ! More than 1300 ! <br> <strong> Be a part of the project ! </strong> <br> We need your help to assign a definition to each one of the abbreviations contained in the talmud, according to their context in the gemara.
       <br> Click on the one of your choice to propose a definition</p>
