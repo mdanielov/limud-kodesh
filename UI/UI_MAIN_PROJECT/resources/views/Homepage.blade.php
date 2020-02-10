@@ -9,6 +9,8 @@
     <link href="{{ URL::asset('css/home.css') }}" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.2.0/dist/simpleParallax.min.js"></script>
+    <link rel="stylesheet" href="{{ URL::asset('css/jquery.incremental-counter.css')}}">
+    <script type="text/javascript" src="{{ URL::asset('js/jquery.incremental-counter.js')}}"></script>
     <style>
         @font-face {
             font-family: "Hebrew Sofer Stam Ashkenaz";
@@ -65,13 +67,35 @@
         </a>
     </div>
 
+    <h1 class="text-center statistic" id="statistic">Some statistics</h1>
 
+    <div class="counter-container">
+        <div>
+            <h1>Words in Talmud Bavli:</h1>
+            <div class="incremental-counter" data-value="1822182"></div>
+        </div>
+
+        <div>
+            <h1>Abbreviations in Talmud Bavli:</h1>
+            <div class="incremental-counter" data-value="40359"></div>
+        </div>
+    </div>
 
     <script>
         var image = document.getElementsByClassName('parallax');
         new simpleParallax(image, {
             scale: 2.5
         });
+
+        // $('#statistic').on('inview', function(event, isInView) {
+        //     if (isInView) {
+        //         $increment = $(".incremental-counter");
+        //         $increment.incrementalCounter();
+        //     }
+        // });
+
+        $increment = $(".incremental-counter");
+        $increment.incrementalCounter();
 
         $(document).ready(function() {
 

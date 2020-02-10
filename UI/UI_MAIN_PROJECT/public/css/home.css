@@ -121,3 +121,12 @@ a:hover{
 .circle:hover{
     box-shadow: inset 7px 3px 15px 0px;
 }
+
+.counter-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.statistic{
+    margin-top: 100px;
+}
