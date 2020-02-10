@@ -22,12 +22,13 @@ def built_xml(html):
     
     xml = html.replace('.htm','.xml')
     
-    with open(xml_path + '\\' + html, "r",encoding='Windows-1255') as f:
+    with open(html_path + '\\' + html, "r",encoding='Windows-1255') as f:
         page = f.read()
         soup = BeautifulSoup(page, 'html.parser')
         title = soup.title.string.split()
-        start_massechet = '<StartMassechet name="{}">'.format(title[-1])
-        first_perek = '<StartPerek number="{}">'.format(1)
+        start_massechet = '<StartMassechet name="{}"/>'.format(title[-1])
+        first_perek = '<StartPerek number="{}"/>'.format(1)
+        write_xml(xml,'<root>')
         write_xml(xml,start_massechet)
         write_xml(xml,first_perek)
         
@@ -47,8 +48,8 @@ def built_xml(html):
                 
                 if tag.name == "h2":
                     
-                    end_perek = '<EndPerek number="{}">'.format(index+1)
-                    start_perek = '<StartPerek number="{}">'.format(index+2)
+                    end_perek = '<EndPerek number="{}"/>'.format(index+1)
+                    start_perek = '<StartPerek number="{}"/>'.format(index+2)
                     write_xml(xml,end_perek)
                     write_xml(xml,start_perek)
                     break
@@ -65,9 +66,9 @@ def built_xml(html):
                             if tag.name == 'b':
                                 
                                 if re.search(r"\bמשנה\b",tag.text) and re.search(r":$",content) and inMishna == False and inHalacha == False:
-                                    title_start = '<StartHalacha number = '+ str(halacha_num) +' >\n<StartMishna>'
+                                    title_start = '<StartHalacha number="{}"/>\n<StartMishna/>'.format(str(halacha_num))
                                     halacha_num +=1
-                                    title_end = '<EndMishna>'
+                                    title_end = '<EndMishna/>'
                                     inHalacha = True
                                     write_xml(xml,title_start)
                                     write_xml(xml,content)
@@ -75,7 +76,7 @@ def built_xml(html):
                                     continue
                                 
                                 if re.search(r"\bמשנה\b",tag.text) and inMishna == False and inHalacha == False:
-                                    title_start = '<StartHalacha number = '+ str(halacha_num) +' >\n<StartMishna>'
+                                    title_start = '<StartHalacha number="{}"/>\n<StartMishna/>'.format(str(halacha_num))
                                     halacha_num +=1
                                     inHalacha = True
                                     inMishna = True
@@ -84,9 +85,9 @@ def built_xml(html):
                                     continue
                                 
                                 if re.search(r"\bמשנה\b",tag.text) and re.search(r":$",content) and inMishna == False and inHalacha == True:
-                                    title_start = '<EndHalacha number = '+ str(halacha_num-1) +'>\n<StartHalacha number = '+ str(halacha_num) +' >\n<StartMishna>'
+                                    title_start = '<EndHalacha number="{}"/>\n<StartHalacha number="{}"/>\n<StartMishna/>'.format(str(halacha_num-1),str(halacha_num))
                                     halacha_num +=1
-                                    title_end = '<EndMishna>'
+                                    title_end = '<EndMishna/>'
                                     inHalacha = True
                                     write_xml(xml,title_start)
                                     write_xml(xml,content)
@@ -94,7 +95,7 @@ def built_xml(html):
                                     continue
                                 
                                 if re.search(r"\bמשנה\b",tag.text) and inMishna == False and inHalacha == True:
-                                    title_start = '<EndHalacha number = '+ str(halacha_num -1) +'>\n<StartHalacha number = '+ str(halacha_num) +' >\n<StartMishna>'
+                                    title_start = '<EndHalacha number="{}"/>\n<StartHalacha number="{}"/>\n<StartMishna/>'.format(str(halacha_num -1),str(halacha_num))
                                     halacha_num +=1
                                     inHalacha = True
                                     inMishna = True
@@ -103,15 +104,15 @@ def built_xml(html):
                                     continue
                                 
                                 if re.search(r"\bמשנה\b",tag.text) and re.search(r":$",content) and inMishna == True:
-                                    title_end = '<EndMishna>'
+                                    title_end = '<EndMishna/>'
                                     write_xml(xml,content)
                                     write_xml(xml,title_end)
                                     inMishna = False
                                     continue
                                 
                                 if re.search(r"\bגמרא\b",tag.text) and re.search(r":$",content) and inGuemara == False:
-                                    title_start = '<StartGuemara>'
-                                    title_end = '<EndGuemara>\n<EndHalacha number ='+ str(halacha_num -1) +'>'
+                                    title_start = '<StartGuemara/>'
+                                    title_end = '<EndGuemara/>\n<EndHalacha number="{}"/>'.format(str(halacha_num -1))
                                     inHalacha = False
                                     write_xml(xml,title_start)
                                     write_xml(xml,content)
@@ -119,14 +120,14 @@ def built_xml(html):
                                     continue
                                 
                                 if re.search(r"\bגמרא\b",tag.text) and inGuemara == False:
-                                    title_start = '<StartGuemara>'
+                                    title_start = '<StartGuemara/>'
                                     inGuemara = True
                                     write_xml(xml,title_start)
                                     write_xml(xml,content)
                                     continue
                                 
                                 if re.search(r"\bגמרא\b",tag.text) and re.search(r":$",content) and inGuemara == True:
-                                    title_end = '<EndGuemara>\n<EndHalacha number = '+ str(halacha_num -1) +'>'
+                                    title_end = '<EndGuemara/>\n<EndHalacha number="{}"/>'.format(str(halacha_num -1))
                                     inHalacha = False
                                     write_xml(xml,content)
                                     write_xml(xml,title_end)
@@ -138,35 +139,22 @@ def built_xml(html):
                                     
         
         if inHalacha == True:
-            last_tag = '<EndHalacha number = '+ str(halacha_num -1) +'>'
+            last_tag = '<EndHalacha number="{}"/>'.format(str(halacha_num -1))
             write_xml(xml,last_tag)
-                                        
-        last_perek = '<EndPerek number="{}">'.format(len(prakim))
-        end_massechet = '<EndMassechet name="{}">'.format(title[-1])
+        
+                                       
+        last_perek = '<EndPerek number="{}"/>'.format(len(prakim))
+        end_massechet = '<EndMassechet name="{}"/>'.format(title[-1])
         write_xml(xml,last_perek)
         write_xml(xml,end_massechet)
-            
+        write_xml(xml,'</root>')    
               
     
 def main():
     
-    for html in os.listdir(xml_path):
+    for html in os.listdir(html_path):
         if html.endswith('.htm'):
-            built_xml(html)
-            
+            built_xml(html)          
         
 if __name__ == '__main__':
     main()
-    
-    
-        
-
-
-
-
-
-            
-            
-                          
-            
-    
