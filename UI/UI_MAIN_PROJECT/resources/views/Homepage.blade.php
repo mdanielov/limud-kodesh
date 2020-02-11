@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="{{ URL::asset('css/jquery.incremental-counter.css')}}">
     <script type="text/javascript" src="{{ URL::asset('js/jquery.incremental-counter.js')}}"></script>
     <script type="text/javascript" src="{{ URL::asset('js/jQuery-inView.js')}}"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <style>
         @font-face {
             font-family: "Hebrew Sofer Stam Ashkenaz";
@@ -38,7 +40,7 @@
     </div>
 
     <div class="container-text">
-        <div class="text1">
+        <div class="text1 animated ">
             <i class="fas fa-search fa-5x"></i> <br>
             <h3 class="text-center">Searching and Browsing</h3>
             <p class="text-justify">“Bone Yerushalayim” allows you to search words, cross references, sugia in talmud, book or a word definition.
@@ -49,7 +51,7 @@
         <div class="text2">
             <i class="fas fa-question-circle fa-5x"></i> <br>
             <h3 class="text-center">Who can use it ?</h3>
-            <p class="text-justify">Bone Yerushalayim is a great platform that can serve a wide range of users - from individuals, talmidei chachamim and Judaic researchers, to institutions. 
+            <p class="text-justify">Bone Yerushalayim is a great platform that can serve a wide range of users - from individuals, talmidei chachamim and Judaic researchers, to institutions.
             </p>
         </div>
     </div>
@@ -135,6 +137,28 @@
             });
 
             $('#home').addClass('active');
+
+            function isScrolledIntoView(elem) {
+                console.log('*************************************************')
+                console.log('window height : ' + $(window).height());
+                var docViewTop = $(window).scrollTop();
+                console.log('docviewtop: ' + docViewTop);
+                var docViewBottom = docViewTop + $(window).height();
+                console.log('docviewbottom: ' + docViewBottom);
+                var elemTop = $(elem).offset().top;
+                console.log('elemtop : ' + elemTop);
+                var elemBottom = elemTop + $(elem).height();
+                console.log('elembottom : ' + elemBottom);
+                return elemTop < docViewBottom && elemTop > docViewTop && elemBottom < docViewBottom && elemBottom > docViewTop;
+            }
+
+            $(window).scroll(function() {
+                $(".animated").each(function() {
+                    if (isScrolledIntoView(this) === true) {
+                        $(this).addClass("fadeInLeft");
+                    }
+                });
+            });
 
         });
     </script>
