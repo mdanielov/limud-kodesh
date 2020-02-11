@@ -40,7 +40,7 @@
     </div>
 
     <div class="container-text">
-        <div class="text1 animated ">
+        <div class="text1 animated">
             <i class="fas fa-search fa-5x"></i> <br>
             <h3 class="text-center">Searching and Browsing</h3>
             <p class="text-justify">“Bone Yerushalayim” allows you to search words, cross references, sugia in talmud, book or a word definition.
@@ -48,7 +48,7 @@
             </p>
         </div>
 
-        <div class="text2">
+        <div class="text2 animated">
             <i class="fas fa-question-circle fa-5x"></i> <br>
             <h3 class="text-center">Who can use it ?</h3>
             <p class="text-justify">Bone Yerushalayim is a great platform that can serve a wide range of users - from individuals, talmidei chachamim and Judaic researchers, to institutions.
@@ -95,6 +95,12 @@
 
     <div class="counter-container">
         <div>
+            <h1>Words in Tanakh:</h1>
+            <div class="incremental-counter" data-value="306781"></div>
+        </div>
+    </div>
+    <div class="counter-container">
+        <div>
             <h1>Words in Talmud Bavli:</h1>
             <div class="incremental-counter" data-value="1822182"></div>
         </div>
@@ -104,22 +110,14 @@
             <div class="incremental-counter" data-value="40359"></div>
         </div>
     </div>
-
     <script>
         var image = document.getElementsByClassName('parallax');
         new simpleParallax(image, {
             scale: 2.5
         });
 
-        // console.log($('#statistic').inView('both'));
-
-        // if (isInView){
-        //     $increment = $(".incremental-counter");
-        //     $increment.incrementalCounter();
-        // }
-
-        // $increment = $(".incremental-counter");
-        // $increment.incrementalCounter();
+        $increment = $(".incremental-counter");
+        $increment.incrementalCounter();
 
         $(document).ready(function() {
 
@@ -139,27 +137,24 @@
             $('#home').addClass('active');
 
             function isScrolledIntoView(elem) {
-                console.log('*************************************************')
-                console.log('window height : ' + $(window).height());
+                var height = $(window).height()
                 var docViewTop = $(window).scrollTop();
-                console.log('docviewtop: ' + docViewTop);
-                var docViewBottom = docViewTop + $(window).height();
-                console.log('docviewbottom: ' + docViewBottom);
-                var elemTop = $(elem).offset().top;
-                console.log('elemtop : ' + elemTop);
-                var elemBottom = elemTop + $(elem).height();
-                console.log('elembottom : ' + elemBottom);
-                return elemTop < docViewBottom && elemTop > docViewTop && elemBottom < docViewBottom && elemBottom > docViewTop;
+                return docViewTop / height >= 0.11;
             }
 
+ 
             $(window).scroll(function() {
-                $(".animated").each(function() {
+                $(".text1.animated").each(function() {
                     if (isScrolledIntoView(this) === true) {
                         $(this).addClass("fadeInLeft");
                     }
                 });
+                $(".text2.animated").each(function() {
+                    if (isScrolledIntoView(this) === true) {
+                        $(this).addClass("fadeInRight");
+                    }
+                });
             });
-
         });
     </script>
 </body>
