@@ -11,6 +11,7 @@
     <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.2.0/dist/simpleParallax.min.js"></script>
     <link rel="stylesheet" href="{{ URL::asset('css/jquery.incremental-counter.css')}}">
     <script type="text/javascript" src="{{ URL::asset('js/jquery.incremental-counter.js')}}"></script>
+    <script type="text/javascript" src="{{ URL::asset('js/jQuery-inView.js')}}"></script>
     <style>
         @font-face {
             font-family: "Hebrew Sofer Stam Ashkenaz";
@@ -87,15 +88,14 @@
             scale: 2.5
         });
 
-        // $('#statistic').on('inview', function(event, isInView) {
-        //     if (isInView) {
-        //         $increment = $(".incremental-counter");
-        //         $increment.incrementalCounter();
-        //     }
-        // });
+        let isInView = $('#statistic').inView('top');
+        if (isInView){
+            $increment = $(".incremental-counter");
+            $increment.incrementalCounter();
+        }
 
-        $increment = $(".incremental-counter");
-        $increment.incrementalCounter();
+        // $increment = $(".incremental-counter");
+        // $increment.incrementalCounter();
 
         $(document).ready(function() {
 
@@ -113,7 +113,6 @@
             });
 
             $('#home').addClass('active');
-
 
         });
     </script>
