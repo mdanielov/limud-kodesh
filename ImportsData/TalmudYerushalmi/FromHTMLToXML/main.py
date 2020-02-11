@@ -57,8 +57,16 @@ def built_xml(html):
                 if tag.name != "h2":
                     
                     if tag.name == 'p':
+                        
+                        def replace(match):
+                            match = match.group()
+                            return match.replace('<ס"א','(').replace('>',')').replace('( ','(')
+                        
                         content = tag.find(text=True, recursive=False)
                         content = content.replace('\n','').replace('.  ','.').replace('\r','')
+                        content = re.sub('\(.*\)','',content)
+                        content = re.sub('<ס"א(.*?)>',replace,content)
+                        content = content.replace('<','[').replace('>',']').replace('  ',' ')
                         content = content.strip()
                         
                         for index2,tag in enumerate(tag.children):
@@ -158,3 +166,16 @@ def main():
         
 if __name__ == '__main__':
     main()
+    
+    
+        
+
+
+
+
+
+            
+            
+                          
+            
+    
