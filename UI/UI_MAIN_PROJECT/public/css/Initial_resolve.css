@@ -1,7 +1,48 @@
 th:nth-child(2),th:nth-child(3),th:nth-child(4),th:nth-child(5){
     cursor: pointer;
 }
-.hidden_row th{
+.hidden_row_1, .hidden_row_2, .hidden_row_3 {
     display:none;
      /* height: 0px; */
  }
+
+ table.table-sm th, table.table-sm td{
+    padding-top: .6rem;
+    padding-bottom: .6rem;
+    border-color: white;
+ }
+
+#arrow-right{
+    float: right;
+}
+
+.input{
+    display: none;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.input button{
+    margin-top: 30px ;
+}
+
+.input label{
+    margin-top: 70px;
+}
+
+#table{
+    display: None;
+}
+
+.submited{
+    display: none;
+    text-align: center;
+}
+
+.navbar.navbar-light .breadcrumb .nav-item.active>.nav-link, .navbar.navbar-light .navbar-nav .nav-item.active>.nav-link{
+    border-radius: 20px;
+}
+
+.navbar.navbar-light .breadcrumb .nav-item .nav-link:hover, .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover{
+    border-radius: 20px;
+}

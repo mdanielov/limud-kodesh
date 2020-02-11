@@ -90,7 +90,7 @@ def get_word_id(book,chapter,verse,wordSequence):
 
 def get_ref_letter_id(letter):
     execute_query(f"USE {database_name};")
-    query = f"SELECT LETTER_ID FROM TBL_REF_LETTER WHERE LETTER = '{letter}'"
+    query = f"SELECT LETTER_ID FROM TBL_REF_LETTER WHERE UNICODE_VALUE = '{letter}'"
 
     result_query = execute_query(query)
     
@@ -104,7 +104,7 @@ def get_ref_letter_id(letter):
 def get_ref_nikkud_id(nikkud):
     execute_query(f"USE {database_name};")
     query = f"SELECT NIKKUD_ID FROM TBL_REF_NIKKUD WHERE UNICODE_VALUE = '{nikkud}'"
-    
+        
     result_query = execute_query(query)
     
     get_ref_nikkud_id = []
@@ -128,123 +128,141 @@ def get_ref_taam_id(taam):
     return get_ref_taam_id  
 
 
-def get_letter_nikkud_taam(xml):
+def get_letter_nikkud_taam():
     
-    tree = ET.ElementTree(file=current_dir_path + '\\' + xml)
+    letter_id = 0
     
-    letter_id = 1
-    
-    # Loop over each xml tag 'Word'
-    
-    for elem in tree.findall('Word'):
+    for xml in os.listdir(current_dir_path):
         
-        word_id = get_word_id(elem.attrib.get('Book'),elem.attrib.get('Chapter'),elem.attrib.get('Verse'),elem.attrib.get('WordSequence'))
+        tree = ET.ElementTree(file=current_dir_path + '\\' + xml)
 
-        if elem.attrib.get('Kri') == 'true':
-            continue
-        
-        if elem.attrib.get('Ktiv') == 'true':
-            elem.text = re.sub('\[|\]','',elem.text)            
-        
-        if re.match('[\(\)]',elem.text):
-            elem.text = re.sub('[\(\)]','',elem.text) 
-        
-        count = 1
-        
-        text = list(elem.text)
-        
-        shuruk = False
-        
-        cholam = False
-        
-        mapiq = False
-        
-        print(elem.attrib.get('Book'),elem.attrib.get('Chapter'),elem.attrib.get('Verse'),elem.attrib.get('WordSequence'),elem.text)
-        
-        # Loop over each letter, taam and nikkud of word
-        
-        for index,item in enumerate(text):
-           
-            if re.match('[א-ת-׆]',item):
-                
-                # check if there is a shuruk or cholam after the letter Vav
-                
-                if re.match('[ו]',item) and index < text.index(text[-1]):
-                    
-                    # check if the next item is a shuruk or cholam with the unicode format
-                    
-                    next_item = str(text[index+1].encode('unicode_escape')).upper()
-                    next_item2 = re.sub("(B'\\\\)|('$)",'',next_item)
-                    next_item3 = next_item2.replace('\\','').replace('U','U+')
-                    
-                    if next_item3 == 'U+05BC':
-                        shuruk = True
-                        continue
-                    
-                    if next_item3 == 'U+05B9':
-                        cholam = True
-                        continue
-                
-                # check for the next item if it's preceded by 'ה' for the mapiq
-                
-                if re.match('[ה]',item):
-                    mapiq = True    
-                                       
-                ref_letter_id = get_ref_letter_id(item)
-                letter_position_in_word = count 
-                textline1 = f"|{word_id}|{ref_letter_id}|{letter_position_in_word}" 
-                write_csv_file(csv_file_name_letter,textline1)
-                count +=1       
+        # Loop over each xml tag 'Word'
+
+        for elem in tree.findall('Word'):
+
+            word_id = get_word_id(elem.attrib.get('Book'),elem.attrib.get('Chapter'),elem.attrib.get('Verse'),elem.attrib.get('WordSequence'))
+
+            if elem.attrib.get('Kri') == 'true':
                 continue
             
-            # get the unicode format of each taam or nikkud
+            if elem.attrib.get('Ktiv') == 'true':
+                elem.text = re.sub('\[|\]','',elem.text)            
+
+            if re.match('[\(\)]',elem.text):
+                elem.text = re.sub('[\(\)]','',elem.text) 
+
+            count = 1
+
+            text = list(elem.text)
+
+            shuruk = False
+
+            cholam = False
+
+            mapiq = False
             
-            items = str(item.encode('unicode_escape')).upper()
-            items2 = re.sub("(B'\\\\)|('$)",'',items)
-            items3 = items2.replace('\\','').replace('U','U+')
-            
-            
-            if get_ref_nikkud_id(items3) != [] or cholam == True:
-                if shuruk == True:
-                    nikkud_id = 8
-                    shuruk = False
-                    textline2 = f"|{letter_id}|{nikkud_id}" 
-                    write_csv_file(csv_file_name_nikkud,textline2)
-                    continue
-                if cholam == True:
-                    nikkud_id = 7 
-                    cholam = False
-                    textline2 = f"|{letter_id}|{nikkud_id}" 
-                    write_csv_file(csv_file_name_nikkud,textline2)  
-                    continue 
-                if mapiq == True:
-                    nikkud_id = 15
-                    mapiq = False
-                    textline2 = f"|{letter_id}|{nikkud_id}" 
-                    write_csv_file(csv_file_name_nikkud,textline2)
-                    continue
-                else:
-                    nikkud_id = get_ref_nikkud_id(items3)[0]          
-                    textline2 = f"|{letter_id}|{nikkud_id}" 
-                    write_csv_file(csv_file_name_nikkud,textline2)
-                    continue
+            is_tere_kadmin = False
+
+            print(elem.attrib.get('Book'),elem.attrib.get('Chapter'),elem.attrib.get('Verse'),elem.attrib.get('WordSequence'),elem.text)
+
+            # Loop over each letter, taam and nikkud of word
+
+            for index,item in enumerate(text): 
                 
-            if get_ref_taam_id(items3) != []:
-                taam_id = get_ref_taam_id(items3)[0]
-                textline3 = f"|{letter_id}|{taam_id}"
-                write_csv_file(csv_file_name_taam,textline3)
-                continue
+                if re.match('[א-ת-׆]',item):
+
+                    # check if there is a shuruk or cholam after the letter Vav
+
+                    if re.match('[ו]',item) and index < len(text)-1:
+
+                        # check if the next item is a shuruk or cholam with the unicode format
+
+                        next_item = str(text[index+1].encode('unicode_escape')).upper()
+                        next_item2 = re.sub("(B'\\\\)|('$)",'',next_item)
+                        next_item3 = next_item2.replace('\\','').replace('U','U+')
+
+                        if next_item3 == 'U+05BC':
+                            shuruk = True
+                            continue
+                        
+                        if next_item3 == 'U+05B9':
+                            cholam = True
+                            continue
+                        
+                    # check for the next item if it's preceded by 'ה' for the mapiq
+
+                    if re.match('[ה]',item):
+                        mapiq = True   
+
+                    unicode_letter = str(item.encode('unicode_escape')).upper()
+                    unicode_letter2 = re.sub("(B'\\\\)|('$)",'',unicode_letter)
+                    unicode_letter3 = unicode_letter2.replace('\\','').replace('U','U+')
+
+                    ref_letter_id = get_ref_letter_id(unicode_letter3)
+                    letter_position_in_word = count 
+                    letter_id += 1
+                    textline1 = f"|{word_id}|{ref_letter_id}|{letter_position_in_word}" 
+                    write_csv_file(csv_file_name_letter,textline1)
+                    count +=1       
+
+                # get the unicode format of each taam or nikkud
+
+                items = str(item.encode('unicode_escape')).upper()
+                items2 = re.sub("(B'\\\\)|('$)",'',items)
+                items3 = items2.replace('\\','').replace('U','U+')
+
+
+                if get_ref_nikkud_id(items3) != [] or cholam == True:
+                    if shuruk == True:
+                        nikkud_id = 8
+                        shuruk = False
+                        textline2 = f"|{letter_id}|{nikkud_id}" 
+                        write_csv_file(csv_file_name_nikkud,textline2)
+                        continue
+                    if cholam == True:
+                        nikkud_id = 7 
+                        cholam = False
+                        textline2 = f"|{letter_id}|{nikkud_id}" 
+                        write_csv_file(csv_file_name_nikkud,textline2)  
+                        continue 
+                    if mapiq == True:
+                        nikkud_id = 15
+                        mapiq = False
+                        textline2 = f"|{letter_id}|{nikkud_id}" 
+                        write_csv_file(csv_file_name_nikkud,textline2)
+                        continue
+                    else:
+                        nikkud_id = get_ref_nikkud_id(items3)[0]          
+                        textline2 = f"|{letter_id}|{nikkud_id}" 
+                        write_csv_file(csv_file_name_nikkud,textline2)
+                        continue
+                    
+                if get_ref_taam_id(items3) != []:
+                    taam_id = get_ref_taam_id(items3)[0]
+                    
+                    last_item = str((text[-1]).encode('unicode_escape')).upper()
+                    last_item2 = re.sub("(B'\\\\)|('$)",'',last_item)
+                    last_item3 = last_item2.replace('\\','').replace('U','U+')
+                    
+                    # check if the last item is a pashta or not to define if it's a tere kadmin
+                    
+                    if taam_id == 10 and last_item3 == 'U+0599' and index < len(text)-1:
+                        is_tere_kadmin = True
+                        continue 
+                    if is_tere_kadmin == True:
+                        is_tere_kadmin = False
+                        taam_id = 11               
+                    textline3 = f"|{letter_id}|{taam_id}"
+                    write_csv_file(csv_file_name_taam,textline3)
+                    continue
             
-            elif items3 != 'U+05B9':
-                print(items3)
-                     
-        letter_id += 1
+               
+            
         
         
 def main():
-            
-    for xml in tanakh_dir_list:
-        get_letter_nikkud_taam(xml)            
+    
+    get_letter_nikkud_taam()            
         
     bulk_insert_to_tbl(csv_file_name_letter, table_names[0])
     bulk_insert_to_tbl(csv_file_name_nikkud, table_names[1])
@@ -257,8 +275,8 @@ def main():
     if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud)):
         os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud))
 
-    if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_letter)):
-        os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_nikkud))
+    if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_taam)):
+        os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name_taam))
 
 if __name__ == '__main__':
     main()

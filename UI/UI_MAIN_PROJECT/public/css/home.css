@@ -1,0 +1,132 @@
+.navbar.navbar-light .breadcrumb .nav-item.active > .nav-link,
+.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
+  border-radius: 20px;
+}
+
+.navbar.navbar-light .breadcrumb .nav-item .nav-link:hover,
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  border-radius: 20px;
+}
+
+.navbar.navbar-light {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.parallax {
+  width: 100%;
+  height: 500px;
+}
+
+.scrolled {
+  background-color: #e0e0e0b8 !important;
+  transition: background-color 300ms linear;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+h2.text-center {
+  margin-bottom: 50px;
+}
+
+p {
+  justify-content: flex-start;
+  margin: auto;
+}
+
+.section1 {
+  height: 400px;
+  background-color: white;
+}
+
+p.text-center.lead {
+  margin-top: 15px;
+}
+
+.section2 {
+  display: flex;
+  justify-content: center;
+}
+
+.section2.second {
+  display: flex;
+}
+
+.section2.second .circle.k {
+  margin-right: 150px;
+  margin-top: 25px;
+}
+
+.section2.second .circle.n {
+  margin-left: 150px;
+  margin-top: 25px;
+}
+
+.section2.third {
+  display: flex;
+}
+
+.section2.third .circle.b {
+  display: flex;
+  height: 150px;
+  width: 150px;
+  background-color: #bbbbbb1f;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  margin-left: 103px;
+}
+
+.section2.third .circle.y {
+  display: flex;
+  height: 150px;
+  width: 150px;
+  background-color: #bbbbbb1f;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  margin-right: 9px;
+}
+
+.circle {
+  text-shadow: 4px 2px 5px #615c5c;
+  display: flex;
+  height: 150px;
+  width: 150px;
+  background-color: #bbbbbb1f;
+  border: solid black 2px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+.hebrew {
+  font-family: "Hebrew Sofer Stam Ashkenaz";
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
+
+.circle:hover{
+    box-shadow: inset 7px 3px 15px 0px;
+}
+
+.counter-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.statistic{
+    margin-top: 100px;
+}

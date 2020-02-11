@@ -6,7 +6,7 @@ import pyodbc
 from hebrew_numbers import int_to_gematria
 
 config = configparser.ConfigParser()
-config.read('settings.ini')
+config.read(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'settings.ini'))
 
 
 server_name = config.get("Sql", "Server")
@@ -38,11 +38,6 @@ def query_string(sql_full_path):
 
 
 def main():
-
-    # check if db exists on target, if not create
-    qry_create_db = "if not exists(select * from sys.databases where name = 'KiMeTzion') create database KiMeTzion collate Hebrew_CI_AS;"
-    cursor.execute(qry_create_db)
-    cursor.commit()
 
     # # List Schema directory and execute scripts.
     i = 1

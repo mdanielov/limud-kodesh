@@ -94,19 +94,13 @@ def get_xml_word_and_attributes(xml):
             
             full_word = re.sub('[\[\]\(\)]+','',words)
             
-            word = re.sub('[^א-ת־]+','',words)
+            word = re.sub('[^א-ת]+','',words)
             
             textline = f"|{perek_pasuk_id}|{word_position}|{isKtiv}|{isKri}|{word}|{full_word}"   
             
             print(textline)
         
             write_csv_file(csv_file_name,textline)    
-            
-            
-for xml in tanakh_dir_list:
-
-    get_xml_word_and_attributes(xml) 
-
 
 
 def bulk_insert_to_tbl(csv_file_name, tbl_name):
