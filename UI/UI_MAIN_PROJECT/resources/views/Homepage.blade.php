@@ -31,10 +31,31 @@
         <br>
         <h1 class="text-center hebrew">! ברוכים הבאים לבונה ירושלים פרויקט</h1>
         <br>
-        <p class="text-center lead">The first source that allows you to make precise search in all the Tanakh and Talmud.</p>
+        <div class="description">
+            <p class="text-center text-justify">“Bone Yerushalayim” is an effort of a top quality team of Jewish studies scholars and a group of IT-Professionals to create a large library of the essential “sifrei kodesh”, with the user in mind.
+                The highlight of “Bone Yerushalayim” software is its sophisticated search engine, which allows maximum accessibility to the content of sifrei kodesh, simply by typing a word or sequence of words.</p>
+        </div>
     </div>
 
-    <h2 class="text-center">Start the exploration :</h2>
+    <div class="container-text">
+        <div class="text1">
+            <i class="fas fa-search fa-5x"></i> <br>
+            <h3 class="text-center">Searching and Browsing</h3>
+            <p class="text-justify">“Bone Yerushalayim” allows you to search words, cross references, sugia in talmud, book or a word definition.
+                We have also included a browsing option so that you can browse by category, book category, book chapter and verses.
+            </p>
+        </div>
+
+        <div class="text2">
+            <i class="fas fa-question-circle fa-5x"></i> <br>
+            <h3 class="text-center">Who can use it ?</h3>
+            <p class="text-justify">Bone Yerushalayim is a great platform that can serve a wide range of users - from individuals, talmidei chachamim and Judaic researchers, to institutions. 
+            </p>
+        </div>
+    </div>
+
+    <h2 class="text-center" id="start">Start the exploration :</h2>
+
 
     <div class="section2">
         <a href="#">
@@ -88,11 +109,12 @@
             scale: 2.5
         });
 
-        let isInView = $('#statistic').inView('top');
-        if (isInView){
-            $increment = $(".incremental-counter");
-            $increment.incrementalCounter();
-        }
+        // console.log($('#statistic').inView('both'));
+
+        // if (isInView){
+        //     $increment = $(".incremental-counter");
+        //     $increment.incrementalCounter();
+        // }
 
         // $increment = $(".incremental-counter");
         // $increment.incrementalCounter();

@@ -130,3 +130,31 @@ a:hover{
 .statistic{
     margin-top: 100px;
 }
+
+.description{
+  margin: 0 auto;
+  width: 500px;
+}
+
+#start{
+  margin-top: 150px;
+}
+
+.container-text{
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.text1{
+  width: 300px;
+}
+
+.text2{
+  width: 300px;
+}
+
+i{
+  margin-bottom: 30px;
+}
