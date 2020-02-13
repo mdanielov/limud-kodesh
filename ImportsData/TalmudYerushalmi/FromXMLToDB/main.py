@@ -199,11 +199,11 @@ def get_xml_content_values(massechet_dir_path, halacha, in_mishna, content, mass
         if '[' in word and ']' in word:
             w_added = 1
 
-        if word == "":
-            continue
-
         word = replaceMultiple(
             word, ["(", ")", ".", ":", "[", "]", " "], "")
+        
+        if word == "":
+            continue
 
         textline = f"|{massechet_halacha_id}|{word_type}|{word}|{w_deleted}|{w_added}"
 
