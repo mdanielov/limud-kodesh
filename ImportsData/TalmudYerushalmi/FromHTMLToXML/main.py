@@ -26,7 +26,9 @@ def built_xml(html):
         page = f.read()
         soup = BeautifulSoup(page, 'html.parser')
         title = soup.title.string.split()
-        start_massechet = '<StartMassechet name="{}"/>'.format(title[-1])
+        title = re.search(r'(?<=מסכת)[^.]*',soup.title.string)
+        title = re.sub('^\s','',title.group())
+        start_massechet = '<StartMassechet name="{}"/>'.format(title)
         first_perek = '<StartPerek number="{}"/>'.format(1)
         write_xml(xml,'<root>')
         write_xml(xml,start_massechet)
@@ -152,7 +154,7 @@ def built_xml(html):
         
                                        
         last_perek = '<EndPerek number="{}"/>'.format(len(prakim))
-        end_massechet = '<EndMassechet name="{}"/>'.format(title[-1])
+        end_massechet = '<EndMassechet name="{}"/>'.format(title)
         write_xml(xml,last_perek)
         write_xml(xml,end_massechet)
         write_xml(xml,'</root>')    

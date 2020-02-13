@@ -84,6 +84,8 @@ def get_massechet_id(massechet_name):
     :param massechet_name: the actual massechet name
     :return: MASSECHET_ID
     """
+    
+    massechet_id = ''
 
     execute_query(f"USE {database_name};")
 
@@ -276,6 +278,8 @@ def insert_data_tbl_yerushalmi_massechet_perek():
 
     halacha = {}
     chapter = []
+    massechet_id = ''
+    massechet_perek_id = ''
 
     for xml in massechet_dir_list:
 
@@ -286,29 +290,21 @@ def insert_data_tbl_yerushalmi_massechet_perek():
         massechet_dir_path = parent_dir_path + "\\" + xml
         result = get_xml_values(
             massechet_dir_path, chapter, count_chapter, halacha)
-
+        
         massechet_name = result[0]
         chapter = result[1]
         halacha = result[3]
 
-    massechet_id = get_massechet_id(massechet_name)
+        massechet_id = get_massechet_id(massechet_name)
 
-    massechet_perek_id = get_massechet_perek_id(massechet_name)
+        massechet_perek_id = get_massechet_perek_id(massechet_name)
 
-    i = 0
-    while i < len(chapter):
-        execute_query(f"USE {database_name};")
-        query = f"""INSERT INTO {table_names[0]} ([MASSECHET_ID],[PEREK_NUM],[PEREK_NAME]) VALUES ({massechet_id},{chapter[i]},'{int_to_gematria(chapter[i],gershayim=False)}')"""
-        execute_query(query)
-        i += 1
-
-    for index,massechet_perek in enumerate(massechet_perek_id):
-
-        for halacha_number in list(halacha.values())[index]:
-
+        i = 0
+        while i < len(chapter):
             execute_query(f"USE {database_name};")
-            query = f"""INSERT INTO {table_names[2]} ([MASSECHET_PEREK_ID],[HALACHA_ID]) VALUES ({massechet_perek},{halacha_number})"""
+            query = f"""INSERT INTO {table_names[0]} ([MASSECHET_ID],[PEREK_NUM],[PEREK_NAME]) VALUES ({massechet_id},{chapter[i]},'{int_to_gematria(chapter[i],gershayim=False)}')"""
             execute_query(query)
+            i += 1
 
 
 def insert_data_tbl_yerushalmi_massechet_halacha():
@@ -330,21 +326,21 @@ def insert_data_tbl_yerushalmi_massechet_halacha():
         chapter = result[1]
         halacha = result[3]
 
-    massechet_id = get_massechet_id(massechet_name)
+        massechet_id = get_massechet_id(massechet_name)
 
-    massechet_perek_id = get_massechet_perek_id(massechet_name)
+        massechet_perek_id = get_massechet_perek_id(massechet_name)
 
-    for index,massechet_perek in enumerate(massechet_perek_id):
+        for index,massechet_perek in enumerate(massechet_perek_id):
+            
+            for halacha_number in list(halacha.values())[index]:
 
-        for halacha_number in list(halacha.values())[index]:
-
-            execute_query(f"USE {database_name};")
-            query = f"""INSERT INTO {table_names[2]} ([MASSECHET_PEREK_ID],[HALACHA_ID]) VALUES ({massechet_perek},{halacha_number})"""
-            execute_query(query)
+                execute_query(f"USE {database_name};")
+                query = f"""INSERT INTO {table_names[2]} ([MASSECHET_PEREK_ID],[HALACHA_ID]) VALUES ({massechet_perek},{halacha_number})"""
+                execute_query(query)
 
 
 def main():
-
+    
     insert_data_tbl_yerushalmi_halacha()
     insert_data_tbl_yerushalmi_massechet_perek()
     insert_data_tbl_yerushalmi_massechet_halacha()
