@@ -62,12 +62,14 @@ def built_xml(html):
                         
                         def replace(match):
                             match = match.group()
-                            return match.replace('<ס"א','(').replace('>',')').replace('( ','(')
+                            return match.replace('<ס"א','(').replace('<בס"א','(').replace('[בס"א','[').replace('>',')').replace('( ','(').replace('[ ','[')
                         
                         content = tag.find(text=True, recursive=False)
                         content = content.replace('\n','').replace('.  ','.').replace('\r','')
                         content = re.sub('\(.*\)','',content)
                         content = re.sub('<ס"א(.*?)>',replace,content)
+                        content = re.sub('<בס"א(.*?)>',replace,content)
+                        content = re.sub('\[בס"א(.*?)\]',replace,content)
                         content = content.replace('<','[').replace('>',']').replace('  ',' ')
                         content = content.strip()
                         
