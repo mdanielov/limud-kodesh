@@ -153,6 +153,7 @@ def get_xml_content_values(massechet_dir_path, halacha, in_mishna, content, mass
     w_added = 0
     w_deleted = 0
     word_type = 0
+    count = 1
 
     for index, word in enumerate(re.split(r'[\.\s]\s*', content)):
         
@@ -204,8 +205,10 @@ def get_xml_content_values(massechet_dir_path, halacha, in_mishna, content, mass
         
         if word == "":
             continue
-
-        textline = f"|{massechet_halacha_id}|{word_type}|{word}|{w_deleted}|{w_added}"
+        
+        textline = f"|{massechet_halacha_id}|{word_type}|{word}|{count}|{w_deleted}|{w_added}"
+        
+        count += 1
 
         write_csv_file(csv_file_name, textline)
 
