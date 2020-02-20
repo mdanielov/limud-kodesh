@@ -125,7 +125,7 @@ def replaceMultiple(mainString, toBeReplaces, newString):
 def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mishna, guemara):
     """
      This function will inspect each row in the xml file, extract words and insert values in the
-     TBL_MASSECHET_WORD table.
+     TBL_BAVLI_WORD table.
      :param row_text: The actual text of the row that will be converted into array of string.
      :param row_number: The actual row number
      :param daf: The actual page number
@@ -134,7 +134,7 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
      :param chapter_num: The actual chapter number
      :param mishna: Boolean, if 1 = the actual text is a mishna, if 0 = the actual text is not a mishna
      :param guemara: Boolean, if 1 = the actual text is a guemara, if 0 = the actual text is not a guemara
-     :return: Insert data into TBL_MASSECHET_WORD
+     :return: Insert data into TBL_BAVLI_WORD
     """
 
     massechet_id = get_massechet_id(massechet_name)
@@ -181,7 +181,7 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
 def write_csv_file(file_name, textline):
 
     """
-    This function will write a new line into csv file in order to Bulk insert into TBL_MASSECHET_WORD table.
+    This function will write a new line into csv file in order to Bulk insert into TBL_BAVLI_WORD table.
     :param file_name: the csv file name
     :param textline: the string that will be appended to the csv file
     """
@@ -262,7 +262,7 @@ def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, da
 def get_xml_row_values(massechet_xml_list, daf, amud):
     """
     This function will go over each xml row and call the function parse_row in order to insert each
-    word into TBL_MASSECHET_WORD table.
+    word into TBL_BAVLI_WORD table.
     :param massechet_xml_list: current massechet parent directoy.
     :param daf: list of all page number of the actual massechet.
     :param amud: list of all page side number of the actual massechet.
@@ -438,7 +438,7 @@ def main():
 
             execute_query(query_string)
 
-        # ---------------------------- TBL_MASSECHET_WORD INSERT -----------------------#
+        # ---------------------------- TBL_BAVLI_WORD INSERT -----------------------#
 
         get_xml_row_values(massechet_xml_list, daf, amud)
 
