@@ -55,6 +55,7 @@ def main():
         for index, folder in enumerate(ls_dir):
             print(f"working on {folder}")
             if folder == '02-functions':
+                i += 1
                 break
             else:
                 folder_creation_ref_table_and_insertion = schema_dir + '\\' + folder
