@@ -78,3 +78,46 @@ Menachot.59.1.html: line 1403
 	after modification:
 	
 		נפש וכתיב לבונה ומהתם גמרינן לכל מנחת יחיד שטעונה לבונה: <span class="five">אי אמרת בשלמא לרבות שפיר. </span>דסד"א שעה מדורות לא ילפינן קמ"ל.
+		
+Menachot.98.2.html: line 1397
+
+	before modification:
+	
+		אצלן לפניהם ולא בשורתן ושורה אחרת של חמשה אצל אותה של משה ולא בשורתה ואותם ה' ראשה של זו בצד ראשה של זו:
+	
+	after modification
+	
+		אצלן לפניהם ולא בשורתן ושורה אחרת של חמשה אצל אותה של משה ולא בשורתה ואותם ה' ראשה של זו בצד ראשה של זו.
+		
+Bechorot.54.2.html: line 1211
+
+	before modification:
+		
+		אורחיה למיזל התם ואיתויי ט] הויא כמאן דקאי התם וקרינא ביה מונה וכ"ש ד' מכאן וה' מכאן ואחת באמצע דהך חזיא לצירופא דמניינא:
+		
+	after modification:
+	
+		אורחיה למיזל התם ואיתויי ט] הויא כמאן דקאי התם וקרינא ביה מונה וכ"ש ד' מכאן וה' מכאן ואחת באמצע דהך חזיא לצירופא דמניינא.
+		
+
+Arachin.13.1.html: line 1007
+
+	before modification:
+	
+		מפרש בגמ': <span class="shastitle7">גמ'</span> </span> קס"ד כדי
+		
+	after modification
+	
+		מפרש בגמ': <span class="shastitle7">גמ'</span> קס"ד כדי
+		
+Kritut.10.2.html: line 1051
+
+	before modification:
+		
+		הכי הוו כ"ד פרוטות ודלי דלות פרוטה נכי רבעא דהיינו חד מל"ב: <span class="shastitle7">מתני'</span> </span>כל חטאת יחיד נקבה היא דהיינו כשבה או שעירה: <span class="five">שוין
+		
+	after modification:
+	
+		הכי הוו כ"ד פרוטות ודלי דלות פרוטה נכי רבעא דהיינו חד מל"ב: <span class="shastitle7">מתני'</span> כל חטאת יחיד נקבה היא דהיינו כשבה או שעירה: <span class="five">שוין
+		
+
