@@ -47,3 +47,34 @@ Nazir.2.2.html: line 1107-1109
 		נדרים כנדרים ולהכי מפרש ידות ברישא והדר כינויין: <span class="five">האומר
 
 		אהא הרי זה נזיר ואמאי דלמא אהא בתענית קאמר: לימא
+		
+
+Beitzah.12.2.html: line 1145
+
+	before modification:
+	
+		<span class="five">מלילות. </span>של חטין שמולל בידיו כשהן רכים: גבי שבת גרסי' <span class="five">מיד ליד </span>וגבי יום טוב גרסי' <span class="five">על יד על יד</span>:
+		
+	after modification:
+	
+		<span class="five">מלילות. </span>של חטין שמולל בידיו כשהן רכים: גבי שבת גרסי' מיד ליד וגבי יום טוב גרסי' על יד על יד: 
+		
+Menachot.9.2.html: line 1265
+
+	before modification:
+	
+		span class="five">מנחה מאי עבידתה. </span>מאי טו] זריקה יש במנחה: <span class="five">במנחת נסכים.
+	
+	after modification:
+	
+		<span class="five">מנחה מאי עבידתה. </span>מאי טו] זריקה יש במנחה: <span class="five">במנחת נסכים.
+		
+Menachot.59.1.html: line 1403
+	
+	before modification:
+	
+		נפש וכתיב לבונה ומהתם גמרינן לכל מנחת יחיד שטעונה לבונה: <span class="five">אי אמרת בשלמא לרבות שפיר. </span>דסד"א שעה מדורות לא ילפינן קמ"ל:
+	
+	after modification:
+	
+		נפש וכתיב לבונה ומהתם גמרינן לכל מנחת יחיד שטעונה לבונה: <span class="five">אי אמרת בשלמא לרבות שפיר. </span>דסד"א שעה מדורות לא ילפינן קמ"ל.

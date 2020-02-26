@@ -3,7 +3,7 @@ import re
 import configparser
 from bs4 import BeautifulSoup
 import codecs
-import ParseMy
+
 
 config = configparser.ConfigParser()
 config.read(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'settings.ini'))
@@ -17,17 +17,50 @@ def write_xml(xml_file_name, file, textline):
     with codecs.open(os.path.join(xml_file_name,file), "a", encoding='utf-8') as f:
         f.write(f"{textline}\r")
 
+def remove_ref(my_str):
+    
+    mystr_list = my_str.split()
+    open_parenthesis = False
+    final_line = []
+    
+    for item in mystr_list:
+        if re.search('\[',item) or re.search('\(',item):
+            open_parenthesis = True
+            final_line.append(item)
+            continue
+        if (re.search('\]',item) or re.search('\)',item)) and open_parenthesis == True:
+            open_parenthesis = False
+            final_line.append(item)
+            continue
+        if (re.search('\]',item) or re.search('\)',item) and (re.search('[א-ת]{0,2}\]',item) and re.search('[א-ת]{0,2}\)',item))) and open_parenthesis == False:
+            continue
+        else:
+            final_line.append(item)
+    
+    listToStr = ' '.join([str(elem) for elem in final_line])  
+    return listToStr
 
+        
 def remove_blank(line_list):
+
     new_list = []
+    skip = False
+    line_list = line_list.replace(".",'').replace('None','').replace('( ','(').replace('(:','(')
     line_list = re.sub(r"[\r\n]+", " ", line_list)
-    line_list = line_list.replace(".",'')
     line_list = re.sub(r"\"","&quot;",line_list)
+    line_list = re.sub(r"\[[א-ת]\]",'',line_list)
+    line_list = line_list.replace(':  ',': ')
+    line_list = re.sub('הדרן עלך(.*)','',line_list)
     line_list = line_list.strip()
+    line_list = remove_ref(line_list)
+    if re.search('רש&quot;י כת&quot;י',line_list):
+        skip = True
+    line_list = re.sub('רש&quot;י כת&quot;י(.*)','',line_list)
     if len(line_list) > 0:
         new_list.append(line_list)
+        if skip == True:
+            return new_list[0],skip
         return new_list[0]
-
 
 def built_xml_header(massechet_daf_path,html_file,folder):
     
@@ -40,14 +73,17 @@ def built_xml_header(massechet_daf_path,html_file,folder):
         
         if massechet_name.parent.name == 'head':
             
-            massechet_name = re.search('(?<= מסכת).*(?= דף)',str(massechet_name)).group()
-            daf_amud = re.sub('^(.*?)\.','',html_file)
-            daf_amud = daf_amud.replace('.html','').split('.')
-            html_file = html_file.replace('.html','.xml') 
-            write_xml(xml_path + '\\' + folder,html_file,"<root>\n<massechet name="+massechet_name+">\n\t<daf value="+daf_amud[0]+">\n\t\t<amud value="+daf_amud[1]+">")
+            if re.search('(?<= מסכת).*(?= דף)',str(massechet_name)) != None:
+                massechet_name = re.search('(?<= מסכת).*(?= דף)',str(massechet_name)).group()
+                massechet_name = re.sub('^\s','',massechet_name)
+                daf_amud = re.sub('^(.*?)\.','',html_file)
+                daf_amud = daf_amud.replace('.html','').split('.')
+                html_file = html_file.replace('.html','.xml') 
+                write_xml(xml_path + '\\' + folder,html_file,"<root>\n<massechet name="+"'"+massechet_name+"'"+">\n\t<daf value="+"'"+daf_amud[0]+"'"+">\n\t\t<amud value="+"'"+daf_amud[1]+"'"+">")
+            #print('Working on'+massechet_name,daf_amud)
 
-def built_xml_content(massechet_daf_path,folder,html_file):
-    
+def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_continue):
+
     with open(massechet_daf_path, "r",encoding='utf-8') as f:
 
         html_file = html_file.replace('.html','.xml')
@@ -55,50 +91,132 @@ def built_xml_content(massechet_daf_path,folder,html_file):
         
         shastext3 = soup.find("div", {"class": "shastext3"})
         
-        shastitle7 = ''
+        dibour_hamatril = ''
         content = ''
+        len_after_colon = 0
         
-        for index,tags in enumerate(shastext3):
+        
+        if shastext3 != None:
             
-            if tags.name == 'span':
-                
-                if tags['class'][0] == 'shastitle7':
-                    shastitle7 = tags.text
-                    continue
-                
-                if tags['class'][0] == 'five':
-                    if shastitle7 != '':
-                        text = remove_blank(shastitle7+' '+tags.text).replace('  ',' ')
-                        textline = f'<StartDibourHamatril name ="{text}"/>'
+        
+            for index,tags in enumerate(shastext3):
+
+                if tags.name == 'span':
+                    
+                    if tags['class'][0] == 'five' and re.search('\.',tags.text) != None:
+                    
+                        dibour_hamatril += ' ' +remove_blank(tags.text)
+                        dibour_hamatril = re.sub('^\s+','',dibour_hamatril)
+                        dibour_hamatril = dibour_hamatril.replace("הכי גרסי' ","").replace('   ',' ').replace(':','')
+                        continue
+                    
+                    if tags['class'][0] == 'five' and re.search('\.',tags.text) == None:
+                        dibour_hamatril += ' '+ remove_blank(tags.text)
+                        continue
+                                           
+                    if tags['class'][0] == 'mareimakom':
+                        mareimakom = remove_blank(tags.text)
+                        content += ' ' + mareimakom
+                        continue
+                    
+                    if tags['class'][0] == 'shastitle7':
+                        continue 
+                    
+                if tags.name == None:
+            
+                    text = remove_blank(tags)
+                    if text != None:
+                        for item in text.split('\n'):
+                            if ':' not in item and tags.split('\n')[-1] == '                    ':
+                                dibour_hamatril_continue['dibour_hamatril_continue'] = dibour_hamatril
+                                
+                    
+                    text = str(text).replace(": הכי גרסי'",':')
+                    
+                    after_colon = re.search(':\s(.*)',str(text))
+                    
+                    if after_colon != None:
+                        len_after_colon = len(after_colon.group().split())
+                        
+                        
+                    if re.search('גרסינן:',tags) != None:
+                        content = ''
+                        continue    
+                    
+                    
+                    
+                    if 'dibour_hamatril_continue_start' in dibour_hamatril_continue and re.search(':$',text):
+                        if len_after_colon == 2 and after_colon != None:
+                            text = re.sub(re.escape(after_colon.group()),':',text)
+                            
+                        content += ' '+ text
+                        
+                        content = content.replace('None','').replace('  ',' ').replace(' :',':')
+                        content = re.sub(':\s',' ',content)
+
+                        textline = '<DibourHamatrilContinue name="'+dibour_hamatril_continue['dibour_hamatril_continue_start']+'"/>\n'+content+'\n<EndDibourHamatril/>'
                         write_xml(xml_path + '\\' + folder,html_file,textline)
-                        shastitle7 = ''
-                    else:
-                        text = remove_blank(tags.text)
-                        textline = f'<StartDibourHamatril name ="{text}"/>'
+                        dibour_hamatril = ''
+                        content = ''
+                        len_after_colon = 0
+                        for key in list(dibour_hamatril_continue):
+                            del dibour_hamatril_continue[key]
+                        continue
+                    
+                    if 'dibour_hamatril_continue' in dibour_hamatril_continue and 'dibour_hamatril_continue_start' not in dibour_hamatril_continue:
+                        
+                        if len_after_colon == 2 and after_colon != None:
+                            text = re.sub(re.escape(after_colon.group()),':',text)
+                            
+                        content += ' '+ text
+                        content = content.rsplit(' ', 1)[0]
+                        content = content.replace('None','').replace('  ',' ').replace(' :',':')
+                        content = re.sub(':\s',' ',content)
+                        
+                        if content == '':
+                            continue
+                        
+                        textline = f'<StartDibourHamatril name="{dibour_hamatril}">\n{content}\n<DibourHamatrilContinue/>'
                         write_xml(xml_path + '\\' + folder,html_file,textline)
-                                        
-                if tags['class'][0] == 'mareimakom':
-                    content += ' ' + tags.text
-                    continue
-                
-            if tags.name == None:
-                #print(tags,end)
-                text = remove_blank(tags)
-                #print(text)
-                if text != None and re.search(':',text):
-                    text = text.replace(": הכי גרסי'",':')
-                    no_word = re.search(r':[\s]*([א-ת-&quot;-\]]+)',text)     
-                    if no_word != None:
-                        text = re.sub(':[\s]*([א-ת-&quot;-\]]+)','',text)      
-                        text = re.sub('$',':',text)      
-                    content += ' '+ text
-                    content = content.replace('  ',' ').replace(' :',':')
-                    write_xml(xml_path + '\\' + folder,html_file,content)
-                    write_xml(xml_path + '\\' + folder,html_file,'<EndDibourHamatril/>')
-                    content = ''
-                    continue
-                if text != None:
-                    content += ' ' + text
+                        dibour_hamatril_continue['dibour_hamatril_continue_start'] = dibour_hamatril
+                        dibour_hamatril = ''
+                        content = ''
+                        len_after_colon = 0
+                        continue
+                    
+                    if re.search("^:$",text):
+                        if len_after_colon == 2 and after_colon != None:
+                            text = re.sub(re.escape(after_colon.group()),':',text)
+                               
+                        content += ' '+ text
+                        content = content.replace('None','').replace('  ',' ').replace(' :',':')   
+                        content = re.sub(':\s',' ',content)
+                        
+                        if content == ':':
+                            dibour_hamatril += ' '+content
+                            continue 
+                    
+                    if text != None and content != None and (re.search(':$',text) or len_after_colon == 2):
+
+                        if len_after_colon == 2 and after_colon != None:
+                            text = re.sub(re.escape(after_colon.group()),':',text)
+                            
+                            
+                        content += ' '+ text
+                        content = content.replace('None','').replace('  ',' ').replace(' :',':').replace('::',':')   
+                        content = re.sub(':\s',' ',content)
+                        
+                        textline = f'<StartDibourHamatril name="{dibour_hamatril}">\n{content}\n<EndDibourHamatril/>'
+                        write_xml(xml_path + '\\' + folder,html_file,textline)
+                        content = ''
+                        dibour_hamatril = ''
+                        len_after_colon = 0
+                        continue
+                    
+                    if text != None:
+                        
+                        content += ' ' + text 
+                        content = content.replace(':','')
                     
 def built_xml_footer(massechet_daf_path,folder,html_file):
 
@@ -108,18 +226,20 @@ def built_xml_footer(massechet_daf_path,folder,html_file):
 
 
 def main ():
-    
+        
     for folder in os.listdir(html_path):
         
         if not os.path.exists(xml_path+ '\\' + folder):
             os.makedirs(xml_path + '\\' + folder)
-
+        
+        dibour_hamatril_continue = {}
+        
         for html_file in os.listdir(f"{html_path}\\{folder}"):
+            
             massechet_daf_path = f"{html_path}\\{folder}\\{html_file}"
             built_xml_header(massechet_daf_path,html_file,folder)
-            built_xml_content(massechet_daf_path,folder,html_file)
+            built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_continue)
             built_xml_footer(massechet_daf_path,folder,html_file)
-
-          
+            
 if __name__ == '__main__':
     main()
