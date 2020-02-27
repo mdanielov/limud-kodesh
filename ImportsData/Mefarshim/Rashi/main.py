@@ -61,6 +61,35 @@ def remove_blank(line_list):
         if skip == True:
             return new_list[0],skip
         return new_list[0]
+    
+def check_next_start_file(index,massechet_dir,dibour_hamatril_continue,massechet_path):
+    if index < len(massechet_dir) -1:
+        path = f'{massechet_path}\\{massechet_dir[index+1]}'
+        
+        with open(path, "r",encoding='utf-8') as f:
+            
+            daf = f.read()
+            soup = BeautifulSoup(daf, 'html.parser')
+            shastext3 = soup.find("div", {"class": "shastext3"})
+            
+            list_of_line = []
+            
+            if shastext3 != None:
+                
+                for index,tags in enumerate(shastext3):
+                    tags = re.sub(r"[\r\n]+", " ", str(tags))
+                    tags = re.sub('הכי גרסינן',' ',tags)
+                    tags = re.sub('ה"ג',' ',tags)
+                    tags = remove_ref(tags)
+                    if re.search('^\s+$|^$',tags) == None:
+                        list_of_line.append(tags)
+                        if re.search('[<->]',list_of_line[0]) == None:
+                            list_of_line = list_of_line.clear()
+                            return 'is_continue'
+                        else:
+                            break
+            list_of_line = list_of_line.clear()
+    
 
 def built_xml_header(massechet_daf_path,html_file,folder):
     
@@ -82,7 +111,7 @@ def built_xml_header(massechet_daf_path,html_file,folder):
                 write_xml(xml_path + '\\' + folder,html_file,"<root>\n<massechet name="+"'"+massechet_name+"'"+">\n\t<daf value="+"'"+daf_amud[0]+"'"+">\n\t\t<amud value="+"'"+daf_amud[1]+"'"+">")
             #print('Working on'+massechet_name,daf_amud)
 
-def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_continue):
+def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_continue,index_file,massechet_dir,massechet_path):
 
     stop = False
     mishna = False
@@ -91,7 +120,7 @@ def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_contin
     with open(massechet_daf_path, "r",encoding='utf-8') as f:
 
         html_file = html_file.replace('.html','.xml')
-        soup = BeautifulSoup(f, 'html.parser')
+        soup = BeautifulSoup(f, 'html5lib')
         
         shastext3 = soup.find("div", {"class": "shastext3"})
         
@@ -177,11 +206,16 @@ def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_contin
                     if text != None:
                         for item in text.split('\n'):
                             if (':' not in item or len_after_colon > 2) and tags.split('\n')[-1] == '                    ':
-                                dibour_hamatril_continue['dibour_hamatril_continue'] = dibour_hamatril     
+                                dibour_hamatril_continue['dibour_hamatril_continue'] = dibour_hamatril    
+                            if ':' in item and len_after_colon == 2 and tags.split('\n')[-1] == '                    ':
+                                if check_next_start_file(index_file,massechet_dir,dibour_hamatril_continue,massechet_path) == 'is_continue':
+                                    dibour_hamatril_continue['dibour_hamatril_colon'] = dibour_hamatril
+                                
+                                
                     
                     text = str(text).replace(": הכי גרסי'",':')    
                         
-                    if re.search('גרסינן:',tags) != None:
+                    if re.search('גרסינן:',tags) != None or re.search('הכי גרסינן',tags) != None:
                         content = ''
                         continue 
                     
@@ -205,7 +239,39 @@ def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_contin
                         len_after_colon = 0
                         guemara = False
                         continue
-                       
+                    
+                    if 'dibour_hamatril_colon' in dibour_hamatril_continue and 'dibour_hamatril_colon_start' not in dibour_hamatril_continue:
+                        content += ' '+ text
+                        
+                        content = content.replace('None','').replace('  ',' ').replace(' :',':')
+                        content = re.sub(':\s',' ',content)
+
+                        textline = f'<StartDibourHamatril name="{dibour_hamatril}"/>\n'+content+'\n<DibourHamatrilContinue/>'
+                        write_xml(xml_path + '\\' + folder,html_file,textline)
+                        dibour_hamatril_continue['dibour_hamatril_colon_start'] = dibour_hamatril
+                        dibour_hamatril = ''
+                        content = ''
+                        len_after_colon = 0
+                        continue
+                    
+                    if 'dibour_hamatril_colon_start' in dibour_hamatril_continue and re.search(':$',text):
+                        content += ' '+ text
+                        
+                        content = content.replace('None','').replace('  ',' ').replace(' :',':')
+                        content = re.sub(':\s',' ',content)
+
+                        textline = '<DibourHamatrilContinue "'+dibour_hamatril_continue['dibour_hamatril_colon_start']+'"/>\n'+content+'\n<EndDibourHamatril/>'
+                        write_xml(xml_path + '\\' + folder,html_file,textline)
+                        dibour_hamatril = ''
+                        content = ''
+                        len_after_colon = 0
+                        guemara = False
+                        mishna = False
+                        for key in list(dibour_hamatril_continue):
+                            del dibour_hamatril_continue[key]
+                        continue
+                        
+                    
                     if 'dibour_hamatril_continue_start' in dibour_hamatril_continue and re.search(':$',text):
                             
                         content += ' '+ text
@@ -325,11 +391,13 @@ def main ():
         
         dibour_hamatril_continue = {}
         
-        for html_file in os.listdir(f"{html_path}\\{folder}"):
+        for index_file,html_file in enumerate(os.listdir(f"{html_path}\\{folder}")):
             
+            massechet_dir = os.listdir(f"{html_path}\\{folder}")
             massechet_daf_path = f"{html_path}\\{folder}\\{html_file}"
+            massechet_path = f"{html_path}\\{folder}"
             built_xml_header(massechet_daf_path,html_file,folder)
-            built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_continue)
+            built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_continue,index_file,massechet_dir,massechet_path)
             built_xml_footer(massechet_daf_path,folder,html_file)
             
 if __name__ == '__main__':
