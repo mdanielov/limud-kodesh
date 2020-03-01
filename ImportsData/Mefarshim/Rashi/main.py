@@ -239,8 +239,10 @@ def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_contin
                     if tags['class'][0] == 'shastitle7':
                         if tags.text == "מתני'":
                             mishna = True
+                            continue
                         if tags.text == "גמ'":
                             guemara = True
+                            continue
                         else:
                             dibour_hamatril += ' '+ remove_blank(tags.text)
                         continue 
@@ -282,8 +284,7 @@ def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_contin
                                 if check_next_start_file(index_file,massechet_dir,dibour_hamatril_continue,massechet_path) == 'is_continue':
                                     dibour_hamatril_continue['dibour_hamatril_colon'] = dibour_hamatril          
                     
-                        
-                    if tags.split('\n')[-1] and guemara == True:
+                    if tags.split('\n')[-1] == '                    ' and guemara == True:
                         dibour_hamatril_continue['DibourHamatrilGuemaraContinue'] = 'continue'
                         write_xml(xml_path + '\\' + folder,html_file,'<DibourHamatrilGuemaraContinue/>')
                         guemara = False
@@ -300,7 +301,7 @@ def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_contin
                         mishna = False
                         continue
                     
-                    if guemara or 'DibourHamatrilGuemaraContinue' in dibour_hamatril_continue and re.search(':$',text):
+                    if guemara and re.search(':$',text) or 'DibourHamatrilGuemaraContinue' in dibour_hamatril_continue and re.search(':$',text):
                         
                         content += ' ' + text
                         content = content.replace('None','').replace('  ',' ').replace(' :',':')
@@ -496,7 +497,7 @@ def main ():
             massechet_dir = os.listdir(f"{html_path}\\{folder}")
             massechet_daf_path = f"{html_path}\\{folder}\\{html_file}"
             massechet_path = f"{html_path}\\{folder}"
-            #repair_tag(massechet_daf_path)
+            repair_tag(massechet_daf_path)
             built_xml_header(massechet_daf_path,html_file,folder)
             built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_continue,index_file,massechet_dir,massechet_path)
             built_xml_footer(massechet_daf_path,folder,html_file)
