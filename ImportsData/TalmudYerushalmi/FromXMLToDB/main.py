@@ -29,6 +29,7 @@ conn = pyodbc.connect('Driver={SQL Server};'
 
 
 def execute_query(query):
+    print(query)
     with conn:
         cursor = conn.cursor()
         cursor.execute(query)
@@ -99,16 +100,16 @@ def get_massechet_id(massechet_name):
     return massechet_id
 
 
-def get_massechet_perek_id(massechet_name):
+def get_massechet_perek_id(massechet_id, perek_num):
     """
-    This function will get the MASSECHET_PEREK_ID Foreign key from the reference table TBL_YERUSHALMI_MASSECHET_PEREK according to
-    the massechet name.
+    This function will get the PEREK_ID Foreign key from the reference table TBL__MASSECHET_PEREK according to
+    the massechet_id and the perek_num.
     :param massechet_name: the actual massechet name
     :return: MASSECHET_PEREK_ID
     """
     execute_query(f"USE {database_name};")
 
-    query = f"SELECT T1.MASSECHET_PEREK_ID FROM {table_names[0]} T1 JOIN TBL_MASSECHET T2 ON T2.MASSECHET_ID = T1.MASSECHET_ID WHERE T2.MASSECHET_NAME = '{massechet_name}'"
+    query = f"SELECT PEREK_ID from TBL_MASSECHET_PEREK WHERE MASSECHET_ID = {massechet_id} AND PEREK_NUM = {perek_num}"
 
     result_query = execute_query(query)
 
@@ -118,6 +119,17 @@ def get_massechet_perek_id(massechet_name):
         massechet_perek_id.append(row[0])
 
     return massechet_perek_id
+
+
+def get_halacha_id(halacha_num):
+
+    query = f"SELECT HALACHA_ID from TBL_YERUSHALMI_HALACHA WHERE HALACHA_NUM = {halacha_num}"
+    result_query = execute_query(query)
+
+    for row in result_query:
+        halacha_id = row[0]
+
+    return halacha_id
 
 
 def get_massechet_halacha_id(halacha_num, perek_num, massechet_name):
@@ -130,7 +142,7 @@ def get_massechet_halacha_id(halacha_num, perek_num, massechet_name):
     execute_query(f"USE {database_name};")
 
     query = f"""SELECT MH.MASSECHET_HALACHA_ID FROM TBL_YERUSHALMI_MASSECHET_HALACHA MH
-                JOIN TBL_YERUSHALMI_MASSECHET_PEREK P ON P.MASSECHET_PEREK_ID = MH.MASSECHET_PEREK_ID
+				JOIN TBL_MASSECHET_PEREK P ON P.PEREK_ID = MH.PEREK_ID
                 JOIN TBL_YERUSHALMI_HALACHA H ON H.HALACHA_ID = MH.HALACHA_ID
                 JOIN TBL_MASSECHET M ON M.MASSECHET_ID = P.MASSECHET_ID
                 WHERE H.HALACHA_NUM = '{halacha_num}' AND P.PEREK_NUM = '{perek_num}' AND M.MASSECHET_NAME = '{massechet_name}'"""
@@ -213,9 +225,7 @@ def get_xml_content_values(massechet_dir_path, halacha, in_mishna, content, mass
         write_csv_file(csv_file_name, textline)
 
 
-def get_xml_values(massechet_dir_path, chapter, count_chapter, halacha):
-
-    in_mishna = 0
+def get_xml_values(massechet_dir_path, chapter, count_chapter, halacha_per_perek):
 
     tree = ET.ElementTree(file=massechet_dir_path)
 
@@ -228,13 +238,13 @@ def get_xml_values(massechet_dir_path, chapter, count_chapter, halacha):
             halacha_num = 1
             chapter.append(elem.attrib['number'])
             count_chapter += 1
-            halacha[str(count_chapter)] = []
+            halacha_per_perek[str(count_chapter)] = []
 
         if elem.tag == 'StartHalacha':
-            halacha[str(count_chapter)].append(halacha_num)
+            halacha_per_perek[str(count_chapter)].append(halacha_num)
             halacha_num += 1
 
-    return massechet_name, chapter, count_chapter, halacha
+    return massechet_name, chapter, halacha_per_perek
 
 
 def get_context_values(massechet_dir_path, chapter, count_chapter,halacha):
@@ -277,39 +287,6 @@ def insert_data_tbl_yerushalmi_halacha():
         i += 1
 
 
-def insert_data_tbl_yerushalmi_massechet_perek():
-
-    halacha = {}
-    chapter = []
-    massechet_id = ''
-    massechet_perek_id = ''
-
-    for xml in massechet_dir_list:
-
-        count_chapter = 0
-        halacha.clear()
-        del chapter[:]
-
-        massechet_dir_path = parent_dir_path + "\\" + xml
-        result = get_xml_values(
-            massechet_dir_path, chapter, count_chapter, halacha)
-        
-        massechet_name = result[0]
-        chapter = result[1]
-        halacha = result[3]
-
-        massechet_id = get_massechet_id(massechet_name)
-
-        massechet_perek_id = get_massechet_perek_id(massechet_name)
-
-        i = 0
-        while i < len(chapter):
-            execute_query(f"USE {database_name};")
-            query = f"""INSERT INTO {table_names[0]} ([MASSECHET_ID],[PEREK_NUM],[PEREK_NAME]) VALUES ({massechet_id},{chapter[i]},'{int_to_gematria(chapter[i],gershayim=False)}')"""
-            execute_query(query)
-            i += 1
-
-
 def insert_data_tbl_yerushalmi_massechet_halacha():
 
     halacha = {}
@@ -327,25 +304,23 @@ def insert_data_tbl_yerushalmi_massechet_halacha():
 
         massechet_name = result[0]
         chapter = result[1]
-        halacha = result[3]
-
+        halacha = result[2]
         massechet_id = get_massechet_id(massechet_name)
 
-        massechet_perek_id = get_massechet_perek_id(massechet_name)
+        for perek in halacha:
+            perek_id = get_massechet_perek_id(massechet_id, perek)
+            for halacha_num in halacha[str(perek)]:
 
-        for index,massechet_perek in enumerate(massechet_perek_id):
-            
-            for halacha_number in list(halacha.values())[index]:
+                halacha_id = get_halacha_id(halacha_num)
 
-                execute_query(f"USE {database_name};")
-                query = f"""INSERT INTO {table_names[2]} ([MASSECHET_PEREK_ID],[HALACHA_ID]) VALUES ({massechet_perek},{halacha_number})"""
+                query = f"""INSERT INTO {table_names[2]} ([PEREK_ID],[HALACHA_ID]) VALUES ({perek_id[0]},{halacha_id})"""
                 execute_query(query)
 
 
 def main():
     
     insert_data_tbl_yerushalmi_halacha()
-    insert_data_tbl_yerushalmi_massechet_perek()
+    # insert_data_tbl_yerushalmi_massechet_perek()
     insert_data_tbl_yerushalmi_massechet_halacha()
 
     halacha = {}
