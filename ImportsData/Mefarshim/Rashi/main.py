@@ -260,6 +260,8 @@ def built_xml_content(massechet_daf_path,folder,html_file,dibour_hamatril_contin
                     text = re.sub('^\s+הכי גרסינן','',text)
                     text = re.sub('^גרסינן:','',text)
                     text = re.sub('^\s+גרסינן:','',text)
+                    text = re.sub('^ה&quot;ג','',text)
+                    text = re.sub('^\s+ה&quot;ג','',text)
                     
                     if text == '' or text == None or text == 'None':
                         continue

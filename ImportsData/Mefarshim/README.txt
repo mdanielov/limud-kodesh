@@ -1,39 +1,6 @@
 List of changes in shas Bavli html files from HebrewBooks:
 
 
-Eruvin.38.2.html: line 1315 
-
-	before modification:
-
-		עירוב ואכתי טבל הוא: </span>ה"ג <span class="five">אלא
-
-	after modification:
-
-		עירוב ואכתי טבל הוא: ה"ג <span class="five">אלא
-
-
-Sukah.56.2.html: line 1031
-
-	before modification:
-	
-		<span class="shastitle7">גמ'</span> </span><span class="five">והני תרתי מאי עבידתייהו. </span>אדר' יהודה קאי דאמר הנכנס
-	
-	after modification:
-		
-		<span class="shastitle7">גמ'</span> <span class="five">והני תרתי מאי עבידתייהו. </span>אדר' יהודה קאי דאמר הנכנס
-		
-
-Menachot.51.1.html: line 1277:
-
-	before modification:
-		
-		<span class="five">רבא אמר. </span>על מחבת מלמד שטעונה כלי שרת טו] (הוא) ואפי' מודדו
-		
-	after modification:
-	
-		<span class="five">רבא אמר על מחבת מלמד שטעונה כלי. </span> שרת טו] (הוא) ואפי' מודדו
-		
-
 Nazir.2.2.html: line 1107-1109
 
 	before modification:
@@ -58,66 +25,72 @@ Beitzah.12.2.html: line 1145
 	after modification:
 	
 		<span class="five">מלילות. </span>של חטין שמולל בידיו כשהן רכים: גבי שבת גרסי' מיד ליד וגבי יום טוב גרסי' על יד על יד: 
-		
-Menachot.9.2.html: line 1265
+			
+
+
+Rosh_hashanah.22.1.html: line 985
 
 	before modification:
 	
-		span class="five">מנחה מאי עבידתה. </span>מאי טו] זריקה יש במנחה: <span class="five">במנחת נסכים.
-	
-	after modification:
-	
-		<span class="five">מנחה מאי עבידתה. </span>מאי טו] זריקה יש במנחה: <span class="five">במנחת נסכים.
-		
-Menachot.59.1.html: line 1403
-	
-	before modification:
-	
-		נפש וכתיב לבונה ומהתם גמרינן לכל מנחת יחיד שטעונה לבונה: <span class="five">אי אמרת בשלמא לרבות שפיר. </span>דסד"א שעה מדורות לא ילפינן קמ"ל:
-	
-	after modification:
-	
-		נפש וכתיב לבונה ומהתם גמרינן לכל מנחת יחיד שטעונה לבונה: <span class="five">אי אמרת בשלמא לרבות שפיר. </span>דסד"א שעה מדורות לא ילפינן קמ"ל.
-		
-Menachot.98.2.html: line 1397
-
-	before modification:
-	
-		אצלן לפניהם ולא בשורתן ושורה אחרת של חמשה אצל אותה של משה ולא בשורתה ואותם ה' ראשה של זו בצד ראשה של זו:
-	
-	after modification
-	
-		אצלן לפניהם ולא בשורתן ושורה אחרת של חמשה אצל אותה של משה ולא בשורתה ואותם ה' ראשה של זו בצד ראשה של זו.
-		
-Bechorot.54.2.html: line 1211
-
-	before modification:
-		
-		אורחיה למיזל התם ואיתויי ט] הויא כמאן דקאי התם וקרינא ביה מונה וכ"ש ד' מכאן וה' מכאן ואחת באמצע דהך חזיא לצירופא דמניינא:
+		<span class="shastitle7">מתני'</span> </span><span class="five">אב ובנו שראו את החדש כו': <span class="five">שאם יפסל. </span>יכשל בפיו
 		
 	after modification:
 	
-		אורחיה למיזל התם ואיתויי ט] הויא כמאן דקאי התם וקרינא ביה מונה וכ"ש ד' מכאן וה' מכאן ואחת באמצע דהך חזיא לצירופא דמניינא.
-		
+		<span class="shastitle7">מתני'</span> <span class="five">אב ובנו שראו את החדש כו': שאם יפסל. </span>יכשל בפיו
 
-Arachin.13.1.html: line 1007
+Rosh_hashanah.22.1.html: line 1011
 
 	before modification:
 	
-		מפרש בגמ': <span class="shastitle7">גמ'</span> </span> קס"ד כדי
-		
-	after modification
+		<span class="five">בקוביא. </span>חתיכות של עצם
 	
-		מפרש בגמ': <span class="shastitle7">גמ'</span> קס"ד כדי
+	after modification:
 		
-Kritut.10.2.html: line 1051
+		בקוביא. </span>חתיכות של עצם
+		
+Rosh_hashanah.22.1.html: line 1067
 
 	before modification:
-		
-		הכי הוו כ"ד פרוטות ודלי דלות פרוטה נכי רבעא דהיינו חד מל"ב: <span class="shastitle7">מתני'</span> </span>כל חטאת יחיד נקבה היא דהיינו כשבה או שעירה: <span class="five">שוין
+	
+		החדש כו': <span class="five">מרכיבין אותו. </span>אף
 		
 	after modification:
 	
-		הכי הוו כ"ד פרוטות ודלי דלות פרוטה נכי רבעא דהיינו חד מל"ב: <span class="shastitle7">מתני'</span> כל חטאת יחיד נקבה היא דהיינו כשבה או שעירה: <span class="five">שוין
+		החדש כו': מרכיבין אותו. </span>אף
+		
+Shabbat.92.2.html: line 1557
+
+	before modification:
+	
+		לו: <span class="five">מתני' <span class="five">הוציאו שנים פטורין.
+	
+	after modification:
+	
+		לו: <span class="five">הוציאו שנים פטורין.
+		
+	
+Yiuma.2.2.html: line 1189-1191
+
+	before modification:
+	
+		הקבוע לו זמן המלואים שנאמר: <span class="mareimakom">(שמות
+
+		מ)</span> ביום החדש הראשון באחד לחדש
+	
+	after modification:
+	
+		הקבוע לו זמן המלואים שנאמר (שמות
+
+		מ) ביום החדש הראשון באחד לחדש
+
 		
 
+Shabbat.31.2.html: line 1589
+
+	before modification:
+	
+		מאי שנא שעת לידתן: <span class="shastitle7">גמ'</span> <span class="five">הכי גרסינן בנדה מאי טעמא: <span class="five">בחדרי בטנה. </span>מקור דמה: <span class="five">קלקלה. </span>מרדה: <span class="five">רביעית דם. </span>חיי אדם תלויין בה:
+		
+	after modification:
+		
+		מאי שנא שעת לידתן: <span class="shastitle7">גמ'</span> הכי גרסינן בנדה מאי טעמא: <span class="five">בחדרי בטנה. </span>מקור דמה: <span class="five">קלקלה. </span>מרדה: <span class="five">רביעית דם. </span>חיי אדם תלויין בה:
