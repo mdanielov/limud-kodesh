@@ -10,4 +10,8 @@ cd "C:\Git\limud-kodesh\database\DB_Table_creation\Tanakh_sefaria_word_to_DB\"
 python xml_tanakh_parser.py
 cd "C:\Git\limud-kodesh\database\DB_Table_creation\Tanakh_sefaria_letters_to_DB\"
 python letters_parser.py
+cd "C:\Git\limud-kodesh\ImportsData\TalmudBavli\FromXMLToDB\"
+python xml_parser.py
+cd "C:\Git\limud-kodesh\ImportsData\TalmudYerushalmi\FromXMLToDB\"
+python main.py
 pause
