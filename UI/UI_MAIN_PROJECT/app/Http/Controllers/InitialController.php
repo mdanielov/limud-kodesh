@@ -13,11 +13,11 @@ class InitialController extends Controller
     public function index(Request $request)
     {
 
-        $initialAll = DB::table('tbl_user_initials')->select('initial')->groupby('initial')->get();
+        $initialAll = DB::table('tbl_user_bavli_initials')->select('initial')->groupby('initial')->get();
 
-        $initials = DB::table('tbl_user_initials')->select('initial')->groupby('initial')->paginate(15);
+        $initials = DB::table('tbl_user_bavli_initials')->select('initial')->groupby('initial')->paginate(15);
 
-        $count = DB::select('select count(distinct initial)[count] from tbl_user_initials');
+        $count = DB::select('select count(distinct initial)[count] from tbl_user_bavli_initials');
 
         # var_dump($count);
 
@@ -29,13 +29,13 @@ class InitialController extends Controller
 
         $data['initial'] = $initial;
 
-        $data['Total'] = DB::table('tbl_user_initials')->select('*')->whereRaw('initial = ?', $initial)->count();
+        $data['Total'] = DB::table('tbl_user_bavli_initials')->select('*')->whereRaw('initial = ?', $initial)->count();
 
         $unresolved = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'"));
 
         $data['unresolved'] = count($unresolved);
 
-        $initialPosition = DB::table('tbl_user_initials')->select(array('MASSECHET_NAME', 'DAF_NAME', 'AMUD_NAME', 'ROW_ID'))->whereRaw('initial = ?', $initial)->paginate(15);
+        $initialPosition = DB::table('tbl_user_bavli_initials')->select(array('MASSECHET_NAME', 'DAF_NAME', 'AMUD_NAME', 'ROW_ID'))->whereRaw('initial = ?', $initial)->paginate(15);
 
         # $initialPosition = collect(DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'")))->paginate();
 
@@ -82,6 +82,10 @@ class InitialController extends Controller
         $rowId  = $_GET['row_num'];
         $definition = $_GET['definition'];
 
-        $insert['row'] = DB::table('TBL_SUBMITED_DEF')->insert(['WORD_INITIAL' => $initial, 'MASSECHET_NAME' =>  $massechetName, 'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId, 'SUBMITED_DEF' =>  $definition]);
+        # $insert['row'] = DB::table('TBL_USER_BAVLI_INITIALS')->insert(['INITIAL' => $initial, 'MASSECHET_NAME' =>  $massechetName, 'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId, 'EXPENDED' =>  $definition]);
+
+        $insert['row'] = DB::table('TBL_USER_BAVLI_INITIALS')
+        ->where(['INITIAL' => $initial, 'MASSECHET_NAME' =>  $massechetName, 'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId])
+        ->update(['EXPENDED' =>  $definition]);
     }
 }
