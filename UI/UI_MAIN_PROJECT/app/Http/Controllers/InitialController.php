@@ -86,6 +86,6 @@ class InitialController extends Controller
 
         $insert['row'] = DB::table('TBL_USER_BAVLI_INITIALS')
         ->where(['INITIAL' => $initial, 'MASSECHET_NAME' =>  $massechetName, 'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId])
-        ->update(['EXPENDED' =>  $definition]);
+        ->update(['EXPANDED' =>  $definition]);
     }
 }
