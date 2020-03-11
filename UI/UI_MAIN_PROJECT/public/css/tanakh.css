@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Hebrew Sofer Stam Ashkenaz";
+    src: url("{{ asset('fonts/StamAshkenazCLM.ttf') }}");
+}
+h2{
+    font-family: Hebrew Sofer Stam Ashkenaz;
+    margin-top: 100px;
+    background: #dddbdb78;
+    border-radius: 20px;
+}

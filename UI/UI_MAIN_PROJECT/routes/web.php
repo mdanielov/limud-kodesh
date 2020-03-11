@@ -17,6 +17,8 @@ Route::get('/home','HomeController@index');
 
 Route::get('/initial','InitialController@index');
 
+Route::get('/tanakh','TanakhController@index');
+
 Route::get('/initial/{value}', 'InitialController@showInitial')->name('initial');
 
 Route::get('/context/{MASSECHET_NAME}/{DAF_NAME}/{AMUD_NAME}/{ROW_ID}','InitialController@getContext')->name('Massechet');
@@ -24,3 +26,5 @@ Route::get('/context/{MASSECHET_NAME}/{DAF_NAME}/{AMUD_NAME}/{ROW_ID}','InitialC
 Route::get('/ShowContext/{initial}/{massechet}/{daf}/{amud}/{row}','InitialController@ShowContext')->name('ShowContext');
 
 Route::get('/initial/{initial}/{massechet}/{daf}/{amud}/{row_num}/{definition}','InitialController@SubmitTableInsert')->name('SubmitTableInsert');
+
+Route::get('/tanakh/{section}','TanakhController@GetSection')->name('section');

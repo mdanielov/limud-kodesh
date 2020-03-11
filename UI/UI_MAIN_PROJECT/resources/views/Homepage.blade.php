@@ -60,7 +60,7 @@
 
 
     <div class="section2">
-        <a href="#">
+        <a href="/tanakh/torah">
             <div class="circle">
                 <h2 class="category hebrew">תורה</h2>
             </div>
@@ -72,7 +72,7 @@
                 <h2 class="category hebrew">כתובים</h2>
             </div>
         </a>
-        <a href="#">
+        <a href="tanakh/neviim">
             <div class="circle n">
                 <h2 class="category hebrew">נביים</h2>
             </div>
