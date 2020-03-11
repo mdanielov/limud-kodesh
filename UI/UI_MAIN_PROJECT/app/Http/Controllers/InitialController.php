@@ -82,8 +82,6 @@ class InitialController extends Controller
         $rowId  = $_GET['row_num'];
         $definition = $_GET['definition'];
 
-        # $insert['row'] = DB::table('TBL_USER_BAVLI_INITIALS')->insert(['INITIAL' => $initial, 'MASSECHET_NAME' =>  $massechetName, 'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId, 'EXPENDED' =>  $definition]);
-
         $insert['row'] = DB::table('TBL_USER_BAVLI_INITIALS')
         ->where(['INITIAL' => $initial, 'MASSECHET_NAME' =>  $massechetName, 'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId])
         ->update(['EXPANDED' =>  $definition]);
