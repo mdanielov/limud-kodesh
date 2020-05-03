@@ -1,4 +1,4 @@
-INSERT INTO TBL_USER_INITIALS
+INSERT INTO TBL_USER_BAVLI_INITIALS
 (
 [MASSECHET_NAME]
 ,[DAF_NAME]
@@ -17,7 +17,7 @@ M.massechet_name
 ,MW.word_position
 ,MW.word
 from
-TBL_MASSECHET_WORD MW
+TBL_BAVLI_WORD MW
 JOIN TBL_MASSECHET_DAF MD ON MW.Massechet_daf_id = MD.massechet_daf_id
 JOIN TBL_DAF D  ON MD.daf_amud_id = D.daf_amud_id
 JOIN TBL_MASSECHET M ON M.massechet_id = MD.massechet_id

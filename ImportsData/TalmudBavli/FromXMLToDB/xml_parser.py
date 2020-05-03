@@ -64,8 +64,15 @@ def get_perek_id(daf, massechet_id, chapter_num):
     if chapter_num == 0:
         chapter_num = 1
 
-    query = f"SELECT PEREK_ID from TBL_MASSECHET_PEREK WHERE DAF_START <= {daf} and DAF_END >= {daf} \
-    AND MASSECHET_ID = {massechet_id} AND PEREK_NUM = {chapter_num}"
+    query = f"SELECT a.PEREK_ID from TBL_MASSECHET_PEREK a \
+                join TBL_BAVLI_PEREK_DAF b on a.PEREK_ID = b.PEREK_ID\
+                WHERE b.DAF_START <= {daf} and DAF_END >= {daf} \
+                AND MASSECHET_ID = {massechet_id} AND PEREK_NUM = {chapter_num}"
+
+    #     f"SELECT PEREK_ID from TBL_MASSECHET_PEREK WHERE DAF_START <=  and DAF_END >= {daf} \
+    # AND MASSECHET_ID = {massechet_id} AND PEREK_NUM = {chapter_num}"
+
+
 
     result_query = execute_query(query)
 
@@ -125,7 +132,7 @@ def replaceMultiple(mainString, toBeReplaces, newString):
 def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mishna, guemara):
     """
      This function will inspect each row in the xml file, extract words and insert values in the
-     TBL_MASSECHET_WORD table.
+     TBL_BAVLI_WORD table.
      :param row_text: The actual text of the row that will be converted into array of string.
      :param row_number: The actual row number
      :param daf: The actual page number
@@ -134,7 +141,7 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
      :param chapter_num: The actual chapter number
      :param mishna: Boolean, if 1 = the actual text is a mishna, if 0 = the actual text is not a mishna
      :param guemara: Boolean, if 1 = the actual text is a guemara, if 0 = the actual text is not a guemara
-     :return: Insert data into TBL_MASSECHET_WORD
+     :return: Insert data into TBL_BAVLI_WORD
     """
 
     massechet_id = get_massechet_id(massechet_name)
@@ -169,7 +176,7 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
         word_position = text.index(elem) + 1
 
         elem = replaceMultiple(elem, ["(", ")", ".", ":", "[", "]", " "], "")
-        
+
         if elem == "":
             continue
 
@@ -179,9 +186,8 @@ def parse_row(row_text, row_number, daf, amud, massechet_name, chapter_num, mish
 
 
 def write_csv_file(file_name, textline):
-
     """
-    This function will write a new line into csv file in order to Bulk insert into TBL_MASSECHET_WORD table.
+    This function will write a new line into csv file in order to Bulk insert into TBL_BAVLI_WORD table.
     :param file_name: the csv file name
     :param textline: the string that will be appended to the csv file
     """
@@ -190,7 +196,7 @@ def write_csv_file(file_name, textline):
 
 
 def bulk_insert_to_tbl(csv_file_path, tbl_name):
-    execute_query(f"SET IDENTITY_INSERT {table_names[3]} ON;")
+    execute_query(f"SET IDENTITY_INSERT {table_names[4]} ON;")
     query = f"BULK INSERT {tbl_name} \
             FROM '{csv_file_path}' \
             WITH \
@@ -199,7 +205,7 @@ def bulk_insert_to_tbl(csv_file_path, tbl_name):
                     , ROWTERMINATOR ='\r' \
                     ,CODEPAGE = '65001' \
                 );"
-    execute_query(f"SET IDENTITY_INSERT {table_names[3]} OFF;")
+    execute_query(f"SET IDENTITY_INSERT {table_names[4]} OFF;")
 
     execute_query(query)
 
@@ -262,7 +268,7 @@ def get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, da
 def get_xml_row_values(massechet_xml_list, daf, amud):
     """
     This function will go over each xml row and call the function parse_row in order to insert each
-    word into TBL_MASSECHET_WORD table.
+    word into TBL_BAVLI_WORD table.
     :param massechet_xml_list: current massechet parent directoy.
     :param daf: list of all page number of the actual massechet.
     :param amud: list of all page side number of the actual massechet.
@@ -345,15 +351,15 @@ def main():
     count = 1
 
     while daf <= 176:
-        query_string_1 = f"INSERT INTO {table_names[1]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_1},'{int_to_gematria(amud_1, gershayim=False)}') "
-        query_string_2 = f"INSERT INTO {table_names[1]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_2},'{int_to_gematria(amud_2, gershayim=False)}')"
+        print(table_names[2])
+        query_string_1 = f"INSERT INTO {table_names[2]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_1},'{int_to_gematria(amud_1, gershayim=False)}') "
+        query_string_2 = f"INSERT INTO {table_names[2]} (DAF_NUM ,DAF_NAME ,AMUD_NUM ,AMUD_NAME) VALUES ({daf},'{int_to_gematria(daf, gershayim=False)}',{amud_2},'{int_to_gematria(amud_2, gershayim=False)}')"
         daf += 1
         count += 1
         execute_query(query_string_1)
         execute_query(query_string_2)
 
-    print(f"Insertion in {table_names[1]} done with success !")
-
+    print(f"Insertion in {table_names[2]} done with success !")
 
     # ---------------------------------------------------------------------------------------------------------- #
 
@@ -383,7 +389,8 @@ def main():
 
         # Runnning a loop for each xml file in the massechet directory
 
-        result = get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter, count_chapter,
+        result = get_xml_values(massechet_xml_list, daf, amud, chapter, daf_start_chapter, daf_end_chapter,
+                                count_chapter,
                                 start,
                                 end)
 
@@ -414,19 +421,35 @@ def main():
             query_string = f"INSERT INTO {table_names[0]} ([MASSECHET_ID]\
                ,[PEREK_NUM]\
                ,[PEREK_NAME]\
-               ,[DAF_START]\
-               ,[AMUD_START]\
-               ,[DAF_END]\
-               ,[AMUD_END])\
+               )\
             VALUES ({massechet_id},\
                 {chapter[i]},\
-                '{daf_start_chapter[i]['name']}',\
-                {daf_start_chapter[i]['daf_start']},\
-                {daf_start_chapter[i]['amud_start']},\
-                {daf_end_chapter[i]['daf_end']},\
-                {daf_end_chapter[i]['amud_end']})"
+                '{daf_start_chapter[i]['name']}')"
 
             execute_query(query_string.strip())
+            i += 1
+
+        # ---------------------------- TBL_BAVLI_PEREK_DAF INSERT -----------------------#
+
+        i = 0
+        while i < len(chapter):
+            perek_num = execute_query(f"SELECT PEREK_ID FROM TBL_MASSECHET_PEREK WHERE PEREK_NUM = {chapter[i]}")
+
+            for row in perek_num:
+                perek_id = row[0]
+
+            query_string = f"INSERT INTO {table_names[1]} ([PEREK_ID]\
+                          ,[DAF_START]\
+                          ,[AMUD_START]\
+                          ,[DAF_END]\
+                          ,[AMUD_END])\
+                       VALUES ({perek_id},\
+                           {daf_start_chapter[i]['daf_start']},\
+                           {daf_start_chapter[i]['amud_start']},\
+                           {daf_end_chapter[i]['daf_end']},\
+                           {daf_end_chapter[i]['amud_end']})"
+
+            execute_query(query_string)
             i += 1
 
         # ---------------------------- TBL_MASSECHET_DAF INSERT -----------------------#
@@ -434,15 +457,15 @@ def main():
         for num, elem in enumerate(daf):
             daf_amud_id_result = get_daf_amud_id(daf[num], amud[num])
 
-            query_string = f"INSERT INTO {table_names[2]} (MASSECHET_ID,DAF_AMUD_ID) VALUES ({massechet_id},{daf_amud_id_result})"
+            query_string = f"INSERT INTO {table_names[3]} (MASSECHET_ID,DAF_AMUD_ID) VALUES ({massechet_id},{daf_amud_id_result})"
 
             execute_query(query_string)
 
-        # ---------------------------- TBL_MASSECHET_WORD INSERT -----------------------#
+        # ---------------------------- TBL_BAVLI_WORD INSERT -----------------------#
 
         get_xml_row_values(massechet_xml_list, daf, amud)
 
-    bulk_insert_to_tbl(csv_file_name, table_names[3])
+    bulk_insert_to_tbl(csv_file_name, table_names[4])
 
     if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name)):
         os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name))

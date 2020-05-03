@@ -6,7 +6,7 @@
         <a class="nav-link" href="/home" style="margin: 0 40px 0 -100px">Home</a>
       </li>
       <li class="nav-item" id="tanakh">
-        <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Tanakh / תנ"ך</a>
+        <a class="nav-link" href="/tanakh" style="margin: 0 40px 0 40px">Tanakh / תנ"ך</a>
       </li>
       <li class="nav-item" id="talmud">
         <a class="nav-link" href="#" style="margin: 0 40px 0 40px">Talmud / תלמוד</a>

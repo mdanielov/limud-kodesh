@@ -10,24 +10,18 @@ use App\Http\Controllers\Controller;
 class InitialController extends Controller
 {
 
-    public function index()
+    public function index(Request $request)
     {
 
-        $initials = DB::table('tbl_user_initials')->select('initial')->groupby('initial')->paginate(15);
+        $initialAll = DB::table('tbl_user_bavli_initials')->select('initial')->groupby('initial')->get();
 
-        $count = DB::select('select count(distinct initial)[count] from tbl_user_initials');
+        $initials = DB::table('tbl_user_bavli_initials')->select('initial')->groupby('initial')->paginate(15);
+
+        $count = DB::select('select count(distinct initial)[count] from tbl_user_bavli_initials');
 
         # var_dump($count);
 
-        return view('Initial_list', ['initials' => $initials, 'count' => $count]);
-    }
-
-    public function initials_list()
-    {
-
-        $initials = DB::table('tbl_user_initials')->select('initial')->distinct()->get();
-
-        return view('initial_list_dynamic', ['initials' => $initials]);
+        return view('Initial_list', ['initialAll' => $initialAll, 'initials' => $initials, 'count' => $count]);
     }
 
     public function showInitial($initial)
@@ -35,26 +29,26 @@ class InitialController extends Controller
 
         $data['initial'] = $initial;
 
-        $data['Total'] = DB::table('tbl_user_initials')->select('*')->whereRaw('initial = ?', $initial)->count();
+        $data['Total'] = DB::table('tbl_user_bavli_initials')->select('*')->whereRaw('initial = ?', $initial)->count();
 
         $unresolved = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'"));
 
         $data['unresolved'] = count($unresolved);
 
-        $initialPosition = DB::table('tbl_user_initials')->select(array('MASSECHET_NAME', 'DAF_NAME', 'AMUD_NAME', 'ROW_ID'))->whereRaw('initial = ?', $initial)->paginate(15);
+        $initialPosition = DB::table('tbl_user_bavli_initials')->select(array('MASSECHET_NAME', 'DAF_NAME', 'AMUD_NAME', 'ROW_ID'))->whereRaw('initial = ?', $initial)->paginate(15);
 
         # $initialPosition = collect(DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'")))->paginate();
 
         $page = request('page', 1);
 
-        $paginate = 10;  
-    
-        $dataResult = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'"));  
-    
-        $offSet = ($page * $paginate) - $paginate;  
-    
-        $itemsForCurrentPage = array_slice($dataResult, $offSet, $paginate, true);  
-    
+        $paginate = 10;
+
+        $dataResult = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_INITIALS '$initial'"));
+
+        $offSet = ($page * $paginate) - $paginate;
+
+        $itemsForCurrentPage = array_slice($dataResult, $offSet, $paginate, true);
+
         $initialPosition = new \Illuminate\Pagination\LengthAwarePaginator($itemsForCurrentPage, count($dataResult), $paginate);
 
         $initialPosition->setPath(url()->current());
@@ -66,15 +60,15 @@ class InitialController extends Controller
 
     public function ShowContext()
     {
-        
+
         $initial = $_GET['initial'];
         $massechetName = $_GET['massechet'];
         $dafName = $_GET['daf'];
         $amudName = $_GET['amud'];
         $rowId  = $_GET['row'];
 
-        $result['sentences'] = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_CONTEXT '$initial','$massechetName','$dafName','$amudName',".$rowId));        
-        
+        $result['sentences'] = DB::select(DB::raw("SET NOCOUNT ON; exec P_GET_CONTEXT '$initial','$massechetName','$dafName','$amudName'," . $rowId));
+
         return $result['sentences'];
     }
 
@@ -88,6 +82,8 @@ class InitialController extends Controller
         $rowId  = $_GET['row_num'];
         $definition = $_GET['definition'];
 
-        $insert['row'] = DB::table('TBL_SUBMITED_DEF')->insert(['WORD_INITIAL' => $initial,'MASSECHET_NAME' =>  $massechetName,'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId, 'SUBMITED_DEF' =>  $definition]);
+        $insert['row'] = DB::table('TBL_USER_BAVLI_INITIALS')
+        ->where(['INITIAL' => $initial, 'MASSECHET_NAME' =>  $massechetName, 'DAF_NAME' => $dafName, 'AMUD_NAME' =>  $amudName, 'ROW_ID' => $rowId])
+        ->update(['EXPANDED' =>  $definition]);
     }
 }

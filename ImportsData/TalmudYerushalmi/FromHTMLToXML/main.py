@@ -26,7 +26,9 @@ def built_xml(html):
         page = f.read()
         soup = BeautifulSoup(page, 'html.parser')
         title = soup.title.string.split()
-        start_massechet = '<StartMassechet name="{}"/>'.format(title[-1])
+        title = re.search(r'(?<=מסכת)[^.]*',soup.title.string)
+        title = re.sub('^\s','',title.group())
+        start_massechet = '<StartMassechet name="{}"/>'.format(title)
         first_perek = '<StartPerek number="{}"/>'.format(1)
         write_xml(xml,'<root>')
         write_xml(xml,start_massechet)
@@ -57,8 +59,18 @@ def built_xml(html):
                 if tag.name != "h2":
                     
                     if tag.name == 'p':
+                        
+                        def replace(match):
+                            match = match.group()
+                            return match.replace('<ס"א','(').replace('<בס"א','(').replace('[בס"א','[').replace('>',')').replace('( ','(').replace('[ ','[')
+                        
                         content = tag.find(text=True, recursive=False)
                         content = content.replace('\n','').replace('.  ','.').replace('\r','')
+                        content = re.sub('\(.*\)','',content)
+                        content = re.sub('<ס"א(.*?)>',replace,content)
+                        content = re.sub('<בס"א(.*?)>',replace,content)
+                        content = re.sub('\[בס"א(.*?)\]',replace,content)
+                        content = content.replace('<','[').replace('>',']').replace('  ',' ')
                         content = content.strip()
                         
                         for index2,tag in enumerate(tag.children):
@@ -144,7 +156,7 @@ def built_xml(html):
         
                                        
         last_perek = '<EndPerek number="{}"/>'.format(len(prakim))
-        end_massechet = '<EndMassechet name="{}"/>'.format(title[-1])
+        end_massechet = '<EndMassechet name="{}"/>'.format(title)
         write_xml(xml,last_perek)
         write_xml(xml,end_massechet)
         write_xml(xml,'</root>')    
@@ -158,3 +170,16 @@ def main():
         
 if __name__ == '__main__':
     main()
+    
+    
+        
+
+
+
+
+
+            
+            
+                          
+            
+    
