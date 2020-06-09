@@ -14,6 +14,8 @@
     <script type="text/javascript" src="{{ URL::asset('js/jQuery-inView.js')}}"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+
     <style>
         @font-face {
             font-family: "Hebrew Sofer Stam Ashkenaz";
@@ -157,6 +159,21 @@
             });
         });
     </script>
+      
+    <!-- footer -->
+        <div class="footer">
+            <br>
+            <span><h4>Created by Zeved tov &copy LTD</h4></span>
+            
+            <a href="http://">Contact us</a>
+        
+            <a href="https://www.xplace.com/il/u/mdanielov//">Our website</a>
+           
+            <a href="http://">About us</a>
+
+        </div>
+    <!-- \\ footer -->
+
 </body>
 
 </html>
