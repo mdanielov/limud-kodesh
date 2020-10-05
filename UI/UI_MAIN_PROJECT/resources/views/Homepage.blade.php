@@ -14,8 +14,10 @@
     <script type="text/javascript" src="{{ URL::asset('js/jQuery-inView.js')}}"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <link rel="stylesheet" href="public/css/home.css">
+    
     <style>
-        @font-face {
+       @font-face {
             font-family: "Hebrew Sofer Stam Ashkenaz";
             src: url("{{ asset('fonts/StamAshkenazCLM.ttf') }}");
         }
@@ -31,7 +33,7 @@
     <div class="section1">
         <h1 class="text-center">Welcome to the Bone Yerushalayim Project !</h1> <br>
         <br>
-        <h1 class="text-center hebrew">! ברוכים הבאים לבונה ירושלים פרויקט</h1>
+        <h1 class="text-center hebrew">!ברוכים הבאים לפרוייקט בונה ירושלים</h1>
         <br>
         <div class="description">
             <p class="text-center text-justify">“Bone Yerushalayim” is an effort of a top quality team of Jewish studies scholars and a group of IT-Professionals to create a large library of the essential “sifrei kodesh”, with the user in mind.
@@ -74,7 +76,7 @@
         </a>
         <a href="tanakh/neviim">
             <div class="circle n">
-                <h2 class="category hebrew">נביים</h2>
+                <h2 class="category hebrew">נביאים</h2>
             </div>
         </a>
     </div>
@@ -157,6 +159,18 @@
             });
         });
     </script>
+    
+    <div class="Footer">
+        
+        <li></li>
+        <li></li>
+        <li></li>
+        <button data-id="btn6" class="btn btn6"><div id="circle"></div><span>Stay in touch</span></button>
+        <button data-id="btn6" class="btn btn6"><div id="circle"></div><span>Mor about us</span></button>
+        <h6 class="AllRights">| &copy all rights deserved to Zeved tov LTD |</h6>
+
+    </div>
+    
 </body>
 
 </html>
