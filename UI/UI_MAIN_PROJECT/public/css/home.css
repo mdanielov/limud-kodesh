@@ -158,3 +158,66 @@ a:hover{
 i{
   margin-bottom: 30px;
 }
+
+.Footer{
+  text-align: center;
+  margin: 0px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  background-image: url("http://localhost:8000/img/sefer2.jpg");   
+}
+
+
+.btn {
+  display: inline-flex;
+  border: 2px solid #354756;
+  color: #fefefe;
+  overflow: hidden;
+  place-content: center;
+  background: transparent;
+}
+
+.btn6 {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.btn6 span {
+  position: relative;
+  transition: all .45s ease-Out;
+}
+
+#circle {
+  width: 0%;
+  height: 0%;
+  opacity: 0;
+  line-height: 40px;
+  border-radius: 50%;
+  background: #c68400;
+  position: absolute;
+  transition: all .5s ease-Out;
+  top: 20px;
+  left: 110px;
+}
+
+.btn6:hover #circle {
+  width: 200%;
+  height: 500%;
+  opacity: 1;
+  top: -70px;
+  left: -70px;
+}
+
+.btn6:hover span {
+  color: #f3b5b5;
+}
+
+.AllRights{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: beige;
+margin-right: 400px;
+margin-left: 400px;
+}
