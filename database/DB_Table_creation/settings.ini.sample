@@ -1,0 +1,7 @@
+[Sql]
+Server=PSACHIM
+database_name=KiMeTzion
+[Path]
+schema_dir=C:\git\BitWise\limud-kodesh\database\ki_metzion\schema
+data_dir=C:\git\BitWise\limud-kodesh\database\ki_metzion\data
+parent_dir=C:\git\BitWise\limud-kodesh\ImportsData\Tanakh\FromSefaria\XMLFilesProcessed
