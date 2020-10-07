@@ -13,9 +13,9 @@ class InitialController extends Controller
     public function index(Request $request)
     {
 
-        $initialAll = DB::table('tbl_user_bavli_initials')->select('initial')->groupby('initial')->get();
+        $initialAll = DB::table('tbl_user_bavli_initials')->select('initial')->groupby('initial')->get()->sortBy('initial');
 
-        $initials = DB::table('tbl_user_bavli_initials')->select('initial')->groupby('initial')->paginate(15);
+        $initials = DB::table('tbl_user_bavli_initials')->select('initial')->groupby('initial')->orderBy('initial')->paginate(15);
 
         $count = DB::select('select count(distinct initial)[count] from tbl_user_bavli_initials');
 
