@@ -62,12 +62,10 @@
     <Folder Include="dbo\Stored Procedures\" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Tables\TBL_YERUSHALMI_MASSECHET_WORD.sql" />
     <Build Include="dbo\Tables\TBL_YERUSHALMI_MASSECHET_HALACHA.sql" />
     <Build Include="dbo\Tables\TBL_YERUSHALMI_HALACHA.sql" />
     <Build Include="dbo\Tables\TBL_YERUSAHLMI_WORD_WORD_DEF.sql" />
     <Build Include="dbo\Tables\TBL_WORD_DEF.sql" />
-    <Build Include="dbo\Tables\TBL_WORD_COMPLETE.sql" />
     <Build Include="dbo\Tables\TBL_WORD.sql" />
     <Build Include="dbo\Tables\TBL_USER_YERUSHALMI_WORDS.sql" />
     <Build Include="dbo\Tables\TBL_USER_YERUSHALMI_INITIALS.sql" />
@@ -102,7 +100,6 @@
     <Build Include="dbo\Tables\TBL_DIBOUR_HAMATRIL.sql" />
     <Build Include="dbo\Tables\TBL_DAF.sql" />
     <Build Include="dbo\Tables\TBL_CONTENT_WORD.sql" />
-    <Build Include="dbo\Tables\TBL_COMPLETE_MASSECHET_WORD.sql" />
     <Build Include="dbo\Tables\TBL_BAVLI_WORD_WORD_DEF.sql" />
     <Build Include="dbo\Tables\TBL_BAVLI_WORD.sql" />
     <Build Include="dbo\Tables\TBL_BAVLI_PEREK_DAF.sql" />
@@ -111,5 +108,9 @@
     <Build Include="dbo\Stored Procedures\P_GET_INITIALS.sql" />
     <Build Include="dbo\Stored Procedures\P_GET_CONTEXT.sql" />
     <Build Include="dbo\Tables\TBL_SUBMITTED_DEF.sql" />
+    <Build Include="dbo\Tables\TBL_YERUSHALMI_WORD_1.sql" />
+    <Build Include="dbo\Tables\TBL_INITIAL_WORD_DEF_1.sql" />
+    <Build Include="dbo\Tables\TBL_BAVLI_WORD_COMPLETE_1.sql" />
+    <Build Include="dbo\Tables\TBL_BAVLI_COMPLETE_DEF_1.sql" />
   </ItemGroup>
 </Project>
