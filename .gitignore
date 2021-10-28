@@ -1,5 +1,6 @@
-**/settings.ini*
-**/*.ini*
+**/settings.ini
+**/settings2.ini
+**/*.ini
 **/*.csv*
 **/.vs
 **/__pycache__

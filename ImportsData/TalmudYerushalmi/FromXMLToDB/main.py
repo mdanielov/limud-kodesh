@@ -6,20 +6,17 @@ import pyodbc
 from hebrew_numbers import int_to_gematria
 
 config = configparser.ConfigParser()
-config.read(os.path.join(os.path.abspath(
-    os.path.dirname(__file__)), 'settings.ini'))
+config.read(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'settings.ini'))
 
 parent_dir_path = config.get('XML', 'parent_dir')
 massechet_dir_list = os.listdir(parent_dir_path)
 server = config.get("SQL", "server")
 table_names = config.get("SQL", "table_names").split(',')
 database_name = config.get("SQL", "database_name")
-csv_file_name = os.path.join(os.path.abspath(
-    os.path.dirname(__file__))) + "\\" + "temp_csv_insert.csv"
+csv_file_name = os.path.join(os.path.abspath(os.path.dirname(__file__))) + "\\" + "temp_csv_insert.csv"
 
 if os.path.exists(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name)):
-    os.remove(os.path.join(os.path.abspath(
-        os.path.dirname(__file__)), csv_file_name))
+    os.remove(os.path.join(os.path.abspath(os.path.dirname(__file__)), csv_file_name))
 
 conn = pyodbc.connect('Driver={SQL Server};'
                       'Server=' + server + ';'
@@ -29,7 +26,7 @@ conn = pyodbc.connect('Driver={SQL Server};'
 
 
 def execute_query(query):
-    print(query)
+    # print(query)
     with conn:
         cursor = conn.cursor()
         cursor.execute(query)
@@ -282,7 +279,9 @@ def insert_data_tbl_yerushalmi_halacha():
     i = 1
     while i < 17:
         execute_query(f"USE {database_name};")
-        query = f"""INSERT INTO {table_names[1]} ([HALACHA_NUM],[HALACHA_NAME]) VALUES ({i},'{int_to_gematria(i,gershayim=False)}')"""
+        letter = int_to_gematria(i,gershayim=False);
+        query = f"""INSERT INTO {table_names[1]} ([HALACHA_NUM],[HALACHA_NAME]) VALUES ({i},'{letter}')"""
+        # print(query)
         execute_query(query)
         i += 1
 
@@ -312,8 +311,10 @@ def insert_data_tbl_yerushalmi_massechet_halacha():
             for halacha_num in halacha[str(perek)]:
 
                 halacha_id = get_halacha_id(halacha_num)
+                # print("masseceht - {}, perek - {}".format(massechet_id,perek))
 
                 query = f"""INSERT INTO {table_names[2]} ([PEREK_ID],[HALACHA_ID]) VALUES ({perek_id[0]},{halacha_id})"""
+
                 execute_query(query)
 
 

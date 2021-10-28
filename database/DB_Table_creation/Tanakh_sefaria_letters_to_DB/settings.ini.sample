@@ -1,0 +1,10 @@
+[XML]
+current_dir=C:\git\BitWise\limud-kodesh\ImportsData\Tanakh\FromSefaria\XMLFilesProcessed
+[SQL]
+server=PSACHIM
+table_names=TBL_LETTER, TBL_NIKKUD_LETTER, TBL_TAAM_LETTER
+database_name=KiMeTzion
+[CSV]
+csv_file_name_letter=TBL_TANAKH_LETTERS_Data_insert.csv
+csv_file_name_nikkud=TBL_TANAKH_NIKKUD_Data_insert.csv
+csv_file_name_taam=TBL_TANAKH_TAAM_Data_insert.csv

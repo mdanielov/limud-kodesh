@@ -84,3 +84,20 @@ TCP Port          1433
 
 
 In the database.php config file, put every others unused connections in comments.
+
+
+******************************
+note. If you're running on windows make sure that in PHP.INI your extension dir is set to an absolute path.
+like this:
+extension_dir = "C:\Program Files\php7\ext"
+
+************************
+for DB connection in your .env file
+make sure it looks like this:
+DB_CONNECTION=sqlsrv
+DB_HOST=<host_name>
+DB_PORT=1433
+DB_DATABASE=KiMeTzion
+DB_USERNAME=laravel
+DB_PASSWORD=laravel
+
