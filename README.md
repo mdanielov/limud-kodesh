@@ -1,5 +1,5 @@
 # limud-kodesh
-development effort for improving learning. To catalogue all information, make it intelligently searcheable and accessible
+development effort for improving learning. To catalogue all information, make it intelligently searcheable and accessible.
 
 # shas
 identification of elements of of talmudic discourse
@@ -8,7 +8,9 @@ catalogue of sentenses
 dictionary with sources
 
 # tanach
-all words, psukim, vowels, taamim
+all words, psukim, vowels, taamim.
+Gramatical analysis of each word.  
+Advanced search options including true grammatical root, incantation marks (taamim) and more.
 
 # logic
 logic tools.
