@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <link rel="stylesheet" href="public/css/home.css">
-    
+
     <style>
        @font-face {
             font-family: "Hebrew Sofer Stam Ashkenaz";
@@ -31,13 +31,12 @@
     <img src="{{ URL::asset('img/sefer.jpg') }}" class="parallax">
 
     <div class="section1">
-        <h1 class="text-center">Welcome to the Bone Yerushalayim Project !</h1> <br>
+        <h1 class="text-center">Welcome to My Limud Project !</h1> <br>
         <br>
-        <h1 class="text-center hebrew">!ברוכים הבאים לפרוייקט בונה ירושלים</h1>
+        <h1 class="text-center hebrew">!ברוכים הבאים לפרוייקט לימוד שלי</h1>
         <br>
         <div class="description">
-            <p class="text-center text-justify">“Bone Yerushalayim” is an effort of a top quality team of Jewish studies scholars and a group of IT-Professionals to create a large library of the essential “sifrei kodesh”, with the user in mind.
-                The highlight of “Bone Yerushalayim” software is its sophisticated search engine, which allows maximum accessibility to the content of sifrei kodesh, simply by typing a word or sequence of words.</p>
+            <p class="text-center text-justify">“My Limud” is an effort to make Torah learning accessible to all Jews around the world. Even though when we learn Torah we make a “kinian” – i.e. take ownership of it, still it isn’t our personal property. It belongs to all Israel. To this end we will make an effort to give you all the tools necessary to make your own journey.</p>
         </div>
     </div>
 
@@ -45,7 +44,7 @@
         <div class="text1 animated">
             <i class="fas fa-search fa-5x"></i> <br>
             <h3 class="text-center">Searching and Browsing</h3>
-            <p class="text-justify">“Bone Yerushalayim” allows you to search words, cross references, sugia in talmud, book or a word definition.
+            <p class="text-justify">“My limiud” allows you to search words, cross references, sugia in talmud, book or a word definition.
                 We have also included a browsing option so that you can browse by category, book category, book chapter and verses.
             </p>
         </div>
@@ -53,7 +52,7 @@
         <div class="text2 animated">
             <i class="fas fa-question-circle fa-5x"></i> <br>
             <h3 class="text-center">Who can use it ?</h3>
-            <p class="text-justify">Bone Yerushalayim is a great platform that can serve a wide range of users - from individuals, talmidei chachamim and Judaic researchers, to institutions.
+            <p class="text-justify">My Limud is meant for all Jewish Souls in their present incarnation.
             </p>
         </div>
     </div>
@@ -144,7 +143,7 @@
                 return docViewTop / height >= 0.11;
             }
 
- 
+
             $(window).scroll(function() {
                 $(".text1.animated").each(function() {
                     if (isScrolledIntoView(this) === true) {
@@ -159,9 +158,9 @@
             });
         });
     </script>
-    
+
     <div class="Footer">
-        
+
         <li></li>
         <li></li>
         <li></li>
@@ -170,7 +169,7 @@
         <h6 class="AllRights">| &copy all rights deserved to Zeved tov LTD |</h6>
 
     </div>
-    
+
 </body>
 
 </html>
